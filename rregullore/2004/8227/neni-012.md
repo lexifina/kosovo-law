@@ -1,0 +1,4 @@
+# Neni 12.
+12.1.Shkarti dhe hedhurinat e tjera, për çdo ditë, duhet të largohen nga lokalet e punës në vendin e caktuar. Nëse kemi të bëjmë me materje, respektivisht materiale që përbëjnë materje helmuese, duhet të vendosen në mjete (kantinjerë apo enë) të metalta me mbyllje hermetike, të cilat duhet të zbrazen dhe pastrohen për çdo ditë e sipas nevojës edhe të dezinfektohen. 12.2.Dyshemetë, ku mbahen këto materje, respektivisht materiale, duhet të jenë të izoluara në mënyrë që këto mos të depërtojnë poshtë, muret duhet të janë të ngjyrosura me ngjyrë të yndyrshme apo nga materiali që lehtë mund të pastrohet. Këto lokale për çdo ditë duhet të pastrohen e sipas nevojës edhe të dezinfektohen.
+12.3.Ujërat e kontaminuara (të infektuara, të helmuara), drejtëpërsëdrejti, duhet të derdhen në deponi të izoluar, të cilat zbrazen nga të punësuarit profesional.
+DISPOZITAT E TJERA

@@ -1,0 +1,3 @@
+# Neni 11.
+11.1.Furrat mund të zbrazen vetëm atëherë kur të shuhet zjarri dhe muret e furrës të jenë ftohur, në masë të lejuar . 11.2.Nëse furra duhet të zbrazet me presion, zbrazja duhet të bëhet me kujdes të veçantë dhe me presion sa më të ulët. 11.3.Furra guxon t’ia filloj punës pasi të jetë ftohur dhe pasi të konstatohet rregullsia e saj, të mbushet dhe t’ia fillojë punës. 11.4.Furra duhet pastruar rregullisht dhe ruajtur nga ngricat dhe lagështia. 11.5.Furrat duhet të jenë të pajisura me mjete, vegla, instrumente dhe pajisje të tjera mbrojtëse. 11.6.Lidhur me pastrimin, zbrazjen dhe mirëmbajtjen e furrave, duhet të bihen akte juridike të veçanta.
+SHKARTI DHE HEDHURINAT E TJERA
