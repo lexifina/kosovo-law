@@ -1,0 +1,4 @@
+# Neni 28
+Numruesi ka shtëpizën e cila mund të sigurohet me vulë, ashtu që pjesët e brendshme të kenë çasje vetëm pas prishjes së vulës.
+Në qoftë nuk është përcaktuar ndryshe, numruesit e paraparë për lidhje në përçuesit kryesorë furnizues, të cilët nën konditat referente gjenden nën tension fazor më të madh se 250 V dhe shtëpiza e të cilëve në tërësi ose pjesërisht është metalike, duhet të pajise me shtrëngues të përtokëzimit mbrojtës dhe vidë më së paku M4: Pjesa për përtokëzim gjendet në një vend në shtëpizë ku mund të ketë çasje, kurse qëllimi i saj është shënuar qartë me anë të simbolit për përtokëzim.
+Në qoftë se kapaku i numruesit nuk është i tejdukshëm, për lexim do të parashihen një ose më shumë dritarëza nga materiali i tejdukshëm, të cilat mund të hiqen vetëm pas prishjes së vulës (vulave).

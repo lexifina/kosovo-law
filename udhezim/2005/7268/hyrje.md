@@ -1,0 +1,8 @@
+UNMIK
+INSTITUCIONET E PËRKOHSHME TË VETËQEVERISJES PROVISIONAL INSTITUTIONS OF SELF-GOVERNMENT
+PRIVREMENE INSTITUCIJE SAMOUPRAVLANJA
+QEVERIA E KOSOVËS - GOVERNMENT OF KOSOVO - VLADA KOSOVA
+MINISTRIA E TREGTISË DHE INDUSTRISË
+MINISTRY OF TRADE AND INDUSTRY MINISTARSTVO TRGOVINE I INDUSTRIJE
+Ministria e Tregtisë dhe Industrisë në bazë të Rregullorës së UNMIK-ut Nr. 2001/19 të datës 13 shtator 2001 për Degën e Ekzekutivit të Institucioneve të Përkohëshme të Vetëqeverisjes në Kosovë, nenit 1 paragrafi 1.3 pika (ç) dhe Udhëzimit Administrativ Nr. 01/2004 të datës 04.11.2004, neni 6,7 dhe 9. Ministri i Ministrisë së Tregtisë dhe Industrisë, nxjerrë këtë:
+UDHËZIM ADMINISTRATIV Nr. 2005/11 PËR KËRKESAT METROLOGJIKE PËR NJEHSORËT STATIKË TË ENERGJISË ELEKTRIKE PUNUESE TË KLASËS SË SAKTËSISË 1 DHE 2

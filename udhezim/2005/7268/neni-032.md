@@ -1,0 +1,2 @@
+# Neni 32
+Shtrënguesit e numruesit, në qoftë se janë të grupuara në pjesë e kyçjes dhe nuk janë të mbrojtur në ndonjë mënyrë tjetër, kanë një kapak të veçantë i cili mund të mbrohet me anë të vulës pavarësisht nga kapaku i numruesit. Kapaku i shtrënguesve mbulon vetë shtrënguesit, vidat për përforcimin e përçuesve dhe në qoftë se nuk është përcaktuar ndryshe, gjatësinë e nevojshme të përçuesve të jashtëm dhe izolimin e tyre, ashtu që pamundëson ndërhyrjet e jashtme përmes të cilave do të mund të ndikohej puna numruesit.
