@@ -1,0 +1,11 @@
+# Neni 7
+Zbatimi dhe administrimi i inspektimit
+7.1. Inspektimi në institucionin arsimor zbatohet në ditën dhe kohën e përcaktuar me planin e inspektimit ose me shkresën informuese.
+7.2. Udhëheqësi i ekipit është i obliguar që të gjithë anëtarëve të ekipit t’ua ndaj detyrat e punës me shkrim para fillimit të inspektimit.
+7.3. Udhëheqësi i ekipit (inspektori) është i obliguar të respektojë të gjitha detyrimet që burojnë nga rregullativa ligjore dhe plani i inspektimit, ta administrojë mirë procesin e inspektimit prej fillimit e deri në përfundimin e tij. Siguron të gjitha kushtet për punën e ekipit dhe i menagjon të gjitha situatat e papritura dhe e drejton procesin në drejtim të arritjes së objektivave dhe të qëllimit të inspektimit.
+7.4. Anëtarët e ekipit të inspektimit nuk mund të sillen dhe të veprojnë jashtë planit dhe detyrave të punës pa u konsultuar me udhëheqësin e ekipit.
+7.5. Asnjë anëtar i ekipit nuk guxon të provokojë situata që dëmtojnë procesin e inspektimit, autoritetin e institucionit ku zbatohet inspektimi, autoritetin e inspekcionit dhe të MASHT.
+7.6. Nuk ekziston asnjë autoritet i cili mund të ndërhyjë në procesin e inspektimit gjatë fazës së administrimit të tij. Inspektimi është proces që zhvillohet në mënyrë plotësisht i pavarur nga ndikimet e çfarë do lloji.
+7.7. Gjatë procesit të administrimit nuk guxon askush të ndërhyjë në cilin do prej dokumentave të cilët janë objekt i shqyrtimit. Nëse një gjë e tillë konstatohet se ka ndodhë nga ana e inspekcionit, atëherë kjo vepër kualifikohet falsifikim i dokumenteve zyrtare dhe udhëheqësi i ekipit ka të drejtën e nisjes së procedurës gjyqësore kundër të pandehurit.
+7.8. Asnjë anëtar i ekipit nuk guxon të flas apo të komentojë për procesin e inspektimit derisa nuk përpunohen të gjitha të dhënat dhe të bëhet shpallja zyrtare e rezultateve të inspektimit.
+7.9. Në përfundim të inspektimit udhëheqësi i ekipit dhe personi i autorizuar i institucionit arsimor ku është zbatuar inspektimi bëjnë listën e të gjitha dokumentave dhe fakteve tjera të mbledhura, verifikojnë autenticitetin e tyre dhe gjithashtu nënshkruajnë procesverbalin e sajuar gjatë procesit të inspektimit për të vërtetuar objektivitetin e konstatimeve në te.
