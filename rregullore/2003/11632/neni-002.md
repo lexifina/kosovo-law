@@ -1,0 +1,7 @@
+# Neni 2
+Therrja e kafshëve duhet të bëhet në therrtoret e autorizuara, të licensuara nga Kuvendi Komunal në Mitrovicë, ndërsa kontrolli i therrjes bëhet nga organi kompetentë në nivel komunal ose qendror.
+Me kontroll veterinar nënkuptohet kontrolli shëndetësor të të gjitha kafshëve të cilat do të destinohen për therrje, dhënja e garancionit higjienik dhe cilësor të mishit dhe produkteve tij që është i destinuar për shitje. Me këtë realizohet kontrolli i kushteve higjienike, të mjediseve ku këto ushqime janë përgaditur, konservuar, transportuar dhe vënë në shitje, me qëllim të mbrojtjes së konsumatorëve (shëndetit publik).
+Kontrolli është obligativ, andaj subjektet që ushtrojnë veprimtarinë e therrjes së kafshëve dhe përpunimit të mishit duhet t’ia mundësojnë organit kompetentë ushtrimin e kontrollit veterinaro-sanitar.
+Inspeksioni veterinar gjatë mbikqyrjes inspektuese lëshon: aktvendime, rekomandime, urdhëresa, udhëzime të ndryshme për punë të cilat duhet të zbatohen nga ana e obliguesit që i’u dedikohen.
+Inspekcioni veterinar në rast të konstatimit se mishi dhe produktet e tij nuk i përgjigjen standardeve të përcaktuara me ligj është i obliguar që të bëj asgjësimin e mishit dhe produkteve të tij nën kushtet e përcaktuara me ligj dhe me këtë Rregullore.
+II PËRCAKTIMI KUSHTEVE TË CILAT DUHET T’I PLOTËSOJNË THERRTORET, OBJEKTET TJERA DHE FRIGORIFERËT, NË TË CILAT BËHET PËRGATITJA E MISHIT
