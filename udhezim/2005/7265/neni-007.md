@@ -1,0 +1,2 @@
+# Neni 7
+Në qofte se qentë dhe macet i kanë lënduar njerëzit por nuk tregojnë shenja klinike të sëmundjes, duhet të qëndrojnë në izolim në afat prej 10 ditësh nën mbikqyerjen e veterinarit të licencuar i cili do të kontrolloi ditën e parë, pestë dhe të dhjetë. Në qoftë se vërtetohet dyshimi i prezencës së sëmundjes së tërbimit të kafshës duhet të dërgohet koka dhe kufoma për analiza laboratorike në Laboratorin Veterinar të Kosovës dhe në Laboratorin Referent i cili do të bëjë konfirmimin e pranisë apo jo të sëmundjes së tërbimit
