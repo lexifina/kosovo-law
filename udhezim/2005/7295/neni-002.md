@@ -1,0 +1,3 @@
+# Neni 2
+Definimi i termit “nevojat e jashtëzakonshme”
+2.1 Kuptimi i termit “nevojat e jashtëzakonshme” sipas dispozitave të Ligjit për Skemën e Ndihmës Sociale, në funksion të zbatimit të këtij Udhëzimi Administrativ, definohet si nevojë momentale, e njëhershme, e jashtëzakonshme dhe jo e vazhdueshme, e cila ju sigurohet familjeve dhe individëve për shpenzimet e varrimit të anëtarit të familjes, për strehim apo ushqim me rastin e vërshimeve apo tërmetit, për sigurimin e lëndëve djegësve për ngrohje, për humbje të dokumentacionit me paratë e fundit, dhe nevoja të tjera të jashtëzakonshme të cilat janë të domosdoshme me rastin e fatkeqësive të ndryshme.
