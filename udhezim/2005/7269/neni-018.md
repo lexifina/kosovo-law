@@ -1,0 +1,2 @@
+# Neni 18
+Shitoret me sipërfaqe shfrytëzuese prej dhe më shumë se 600 m2, duhet të kenë hapësirë të mjaftueshme për nevojat shëndetësore/sanitare të blerësve, dhe atë të ndara në dy grupe, një për meshkuj (i njëjti grup duhet të posedoj së paku një pisoar (WC), dhe të pajisur me ujë të nxehtë dhe të ftohtë), dhe një grup për femra ( me kushte të njëjta si ai për meshkuj). Pajisjet duhet të jenë konform normave dhe rregullave teknike.

@@ -1,0 +1,4 @@
+# Neni 47
+47.1 Tregjet më shumicë në përbërjen e tyre duhet pasur:
+- Hapësira për ekspozimin dhe shitjen e prodhimeve bujqësore - Një ose me shumë hapësira te veçanta për magazinimin e prodhimeve bujqësore e të pajisura me mjete të përshtatshme për transport dhe manipulim me mallin, - Vend për parkim për mjetet transportuese - Hapësira ndihmëse për nevojat higjiene-sanitare të nevojshme për personelin dhe palët, hapësirat duhet ndërtuar dhe pajisur konform neneve 28 dhe 29 te këtij udhëzimi - Hapësirë të veçantë të destinuar për vendosjen e mbeturinave po qese nuk është siguruar largimi ditor i mbeturinave - Gjeneratorë për prodhimin e energjisë elektrike nëse në magazina janë të vendosura mallra për cilat shfrytëzohen stabilimentet për ftohje.
+47.2. Tregjet me shumicë në përbërjen e tyre duhet pasur hapësira të caktuara për pune administrative profesionale lidhur me ofrimin shërbimeve klientëve.

@@ -1,0 +1,2 @@
+# Neni 38
+Hapësirat në të cilat ushtrohet tregtia me shumicë sipas ekzemplarëve apo në mënyrë të ngjashme në përbërjen duhet të kenë; -Hapësira për kryerjen e punëve administrative për pranimin e palëve afariste, -Hapësira për ekspozimin e ekzemplareve -Hapësirë ndihmëse për nevoja higjienike-sanitare për personelin dhe për të cilat kushte vlejnë dispozitat e nenit 29 të këtij Udhëzimi - Hapësirat nga paragrafi 1 i këtij neni duhet të janë të pajisura me telefon.

@@ -1,0 +1,2 @@
+# Neni 81
+Me hyrjen në fuqi të këtij Udhëzimi, do të pushojnë të vlejnë të gjitha rregulloret relevante për përcaktimin e kushteve minimale për hapësirat afariste në të cilat zhvillohet tregtimi i mallrave me pakicë,shumicë dhe shërbimeve, përveç për tregtarët të cilët kanë filluar të merren me aktivitet tregtare para hyrjes në fuqi të këtij Udhëzimi, e më së voni deri në afatin e përcaktuar nga neni 82 pika 2 i këtij Udhëzimi. .
