@@ -1,0 +1,3 @@
+KRYETARI I KUVENDIT KOMUNAL
+_______________________
+IBRAHIM SELMANAJ

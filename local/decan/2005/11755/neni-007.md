@@ -1,0 +1,2 @@
+# Neni 7
+Rregulloret e mbrojtjes nga zjarri i nxjerrin të gjitha Ndërrmarrjet apo subjektet tjera nga alineja 1 e këtij neni , të cilat duhen të jenë të harmonizuara me Rregullore apo Planet e Drejtoris së M.C. dhe G.E. KK- Deçan për mbrojtje ngta zjarri , mënyren e përdorimit të njisive zjarrëfikëse sistemin e informimit , proceduren në rastë shpërthimi të zjarrit , paisjen teknike si dhe mjetet tjera për shuarjen e zjarrit .
