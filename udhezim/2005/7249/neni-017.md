@@ -1,0 +1,3 @@
+# Neni 17
+Pajisjet e nevojshme 17.1 Subjekti duhet të ketë kushte të ftohjes dhe ruajtjes në të ftohtë të qumështit të papërpunuar, qumështit të trajtuar me nxehtësi si dhe produkteve të lëngëta të qumështit. Kapaciteti i pajisjeve për ftohjen e qumështit duhet të zgjedhet në mënyrë që të ketë mundësi të uljes dhe ruajtjes së temperaturës së qumështit në 3 – 6 ºC.
+17.2 Në toaletin e subjektit ose së paku në një vend tjetër shtesë në hapësirën prodhuese, duhet të jetë në dispozicion një lavaman me ujë të rrjedhshëm si të ftohtë poashtu edhe të nxehtë, për pastrimin dhe dezinfektimin e duarëve. Robineti nuk duhet të operohet me dorë. Mjetet pastruese dhe dezinfektuese duhet të jenë në dispozicion për tharjen e duarve si p.sh. peceta ose rrotulla të letrës.
