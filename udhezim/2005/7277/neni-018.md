@@ -1,0 +1,2 @@
+# Neni 18
+Kur sëmundja New Castle konfirmohet, organi kompetent do të sigurojnë që të plotësoj masat tjera të kontrollit, të siguruara në këtë Udhëzim Administrativ që të mund të specifikoj zonat territoriale dhe periudhën në të cilën do të zbatohet vaksinimi i menjëhershëm dhe sistematik (vaksionimi emergjent) i specieve të caktuara të shpezëve dhe atë nën kontroll zyrtar. Ndalohet vaksinimi ose rivaksinimi i shpezëve në pronën - fermën e cila është subjekt i restrikcioneve të preferuara sipas nenit 4 të këtij Udhëzimi Administrativ.
