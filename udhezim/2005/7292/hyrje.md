@@ -1,0 +1,9 @@
+UNMIK
+INSTITUCIONET E PËRKOHSHME VETËQEVERISËSE PROVISIONAL INSTITUTIONS OF SELF-GOVERNMENT
+PRIVREMENE INSTITUCIJE SAMOUPRAVLJANJA
+QEVERIA E KOSOVËS – GOVERNMENT OF KOSOVO – VLADA KOSOVA
+MINISTRIA E ARSIMIT MINISTRY OF EDUCATION MINISTARSTVO ZA OBRAZOVANJE SHKENCËS DHE TEKNOLOGJISË SCIENCE & TECHNOLOGY NAUKU I TEHNOLOGIJU
+Kabineti i Ministrit Office of Minister Kancelarija Ministra
+UDHËZIM ADMINISTRATIV NUMËR: MASHT 22/2005 DATË: 08.6.2005
+LËNDA: ZBATIMI I PLANIT DHE PROGRAMIT PËR KLASËN E DYMBËDHJETË TË LËNDËVE TË PËRGJTISHME PËR SHKOLLAT PROFESIONALE
+Në bazë të nenit 6.1 paragrafi (d) të Ligjit mbi Arsimin Fillor dhe të Mesëm dhe të nenit 1.3 (ç) si dhe Shtojcës IV të Rregullores së UNMIK-ut nr. 2001/19 Mbi Degën e Ekzekutivit të Institucioneve të Përkohshme të Vetëqeverisjes në Kosovë, Ministria e Arsimit, eShkencës dhe e Teknologjisë nxjerr këtë Udhëzim Administrativ.
