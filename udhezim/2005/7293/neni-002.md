@@ -1,0 +1,7 @@
+# Neni 2
+Procedurat e prokurimit
+2.1. Çdo projekt i financuar nga fondet e Bankës Botërore do të implementohet në bazë të procedurave të prokurimit të Bankës Botërore, të parapara në Doracakun e Prokurimit të Projektit për Përmirësimin e Pjesëmarrjes në Arsim (PPPA).
+2.2. Pavarësisht nga shuma e kontributit të komunitetit dhe të komunës si shtesë e donacionit të Bankës Botërore rregullat e prokurimit do të jenë po të njejtat të parapara në Doracakun e Prokurimit, edhe nëse shuma e komunitetit apo komunës tejkalon grantin e dhënë shkollës.
+2.3. Drejtorët Komunal të Arsimit, Zyrtarët e Prokurimit si dhe Zyrtarët Financiarë e personat të tjerë përgjegjës për implementimin dhe zbatimin e projektit në të gjitha komunat obligohen t’i përmbahen rregullave të lartpërmendura për grantet e dhëna nga Projekti i Bankës Botërore.
+2.4. Për të gjitha projektet e dhëna nga Projekti për Përmirësimin e Pjesëmarrjës në Arsim të financuar nga Banka Botërore, Implementuar nga Ministria e Arsimit Shkencës dhe Teknologjisë, do të aplikohen procedurat e Bankës Botërore dhe jo ato vendore.
+2.5. Drejtorët Komunal të Arsimit përveç autoritetit të cilin e gëzojnë me pozitën e punës në të gjitha komunat, DKA-të po ashtu janë të autorizuar për nënshkrimin e Marrëveshjeve për Grante Shkollore si të tillë ata do të udhëzojnë Kryeshefat, Zyrtarët e Prokurimit dhe Zyrtarët Financiarë për aplikimin e procedurave të lartpërmendura.
