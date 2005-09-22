@@ -1,0 +1,4 @@
+# Neni 10
+Organi kompetent do të sigurojnë që:
+(a) Organi Kompetent të përcaktoj
+masat e lejimit të vështrimit të lëvizjes së vezëve, shpezëve dhe zogjve të mbajtura të mbyllura ; (b) Pronari ose mbajtësi i shpezëve dhe /ose pëllumbave garues, në përgjigje të të ndonjë kërkese nga organi kompetent të japë informacione në lidhje me shpezët dhe vezët të cilat hyjnë ose dalin nga prona e tij, si dhe informacionet për panairet dhe ekspozitat në të cilat pëllumbat garues kanë marrë pjesë; (c) Të gjithë personat e kyçur në transportin ose tregtimin e shpezëve, vezëve, pëllumbave garues si dhe zogjve të cilët janë mbajtur të mbyllur do të duhej të japin informata Organit kompetent për lëvizjet e shpezëve, vezëve, pëllumbave garues si dhe zogjve të tjerë të mbyllur të cilët janë transportuar ose tregtuar dhe të furnizoj me të gjitha të dhënat në lidhje me informatat e tilla.
