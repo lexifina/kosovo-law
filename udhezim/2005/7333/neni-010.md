@@ -1,0 +1,2 @@
+# Neni 10
+Nëse inspektuesit me aryeshmëri para fillimit të verifikimit të aftësive profesionale abstenojnë, konsiderohet se në verifikim të aftësive nuk kanë marrë pjesë. Nëse abstenojnë gjatë kohës së verifikimit të aftësive profesionale, do të konsiderohet se nuk kanë kënaqë në verifikimin e aftësive profesionale. Kryetrari ose zëvendësi i tij do të largojë nga verifikimi i aftësive pjesëmarrësin i cili gjatë verifikimit të aftësive profesionale shërbehet me material të ndaluar ose pengon verifikimin dhe do të konsiderohet se në verifikim nuk ka kënaqur.

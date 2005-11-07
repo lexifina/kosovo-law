@@ -1,0 +1,2 @@
+# Neni 18
+Pjesëmarrësi i cili nuk është i kënaqur me rezultatin gjatë verifikimit të aftësimit profesional mundet të shtroj ankesë kundër komisionit për verifikim. Ankesën e zgjedh komisioni i emruar për shqyrtimin e ankesës. Komisioni i emruar për shqyrtimin e ankesës është i detyruar të shqyrtoj ankesën, të vendos lidhur me te dhe rezultati bartet në kartonin e verifikimt të aftësimit profesional.

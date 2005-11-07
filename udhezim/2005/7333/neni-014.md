@@ -1,0 +1,2 @@
+# Neni 14
+Njoftimi i rezultateve për verifikimin e aftësimit publikohet në tabelën e shpalljeve ose në ndonjë formë tjetër të përshtatshme dhe atë menjëherë pas kryerjes së verifikimit të aftësisë profesionale dhe konstatimit të rezultateve. Njoftimi i rezultateve të verifikimit të aftësive profesionale të inspektuesve i përcillet Qendrave të kontrollimeve teknike ku janë të punësuar inspektuesit apo planifikojnë të punësohen.
