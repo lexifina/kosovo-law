@@ -1,0 +1,3 @@
+# Neni 17
+1. Në objektin ku theren kafshët dhe copëtohen trupat, duhet të ekzistoj hapësira për vendosjen e mishit e cila duhet të jetë e ndarë prej hapësirës për vendosjen e prodhimeve të paketuara. Hapësira duhet të ketë parmak për varjen e trupave, gjysmave ose të çerekeve e cila nuk kryqëzohet me rrugën e prodhimeve të paketuara, rampës së ngarkimit e cila ka perden e ajrit ose ndonjë mbrojtje tjetër kundër hyrjes së insekteve, brejtësve, erërave të pakëndshme si dhe pajisjen për larjen e duarve me sterilizator.
+2. Hapësira për vendosjen e mishit duhet funksionalisht të jetë e lidhur me korridore me hapësira tjera për ftohjen e trupave, gjysmave apo çerekeve të përgatitur për ngarkim.

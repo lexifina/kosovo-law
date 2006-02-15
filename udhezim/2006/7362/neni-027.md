@@ -1,0 +1,4 @@
+# Neni 27
+1. Nëse gjatë inspektimit te kafshëve para therjes inspektori ka vërejtur se gjendja shëndetësore e kafshës ose kafshëve është e dyshimtë, i njëjti detyrohet që të bëjë ndalesën e therjes dhe të instaloj karantinën në kuadër të thertores në hapësirën për kafshët e dyshimta.
+2. Përcjellja e gjendjes shëndetësore të kafshëve të dyshimta bëhet deri atëherë kur Inspektori konfirmon se gjendja shëndetësore e kafshëve është në rregull dhe se të njëjtat mund të shkojnë në therje. Në të kundërtën nëse diagnostikohet sëmundje që është pengesë për therje atëherë kafsha hynë në therje me kusht ose eutanazohet dhe largohet në mënyrë të padëmshme.
+3. Nëse pas therjes inspektori vëren se pjesë të caktuara të trupave të therur apo organeve janë të dëmtuara apo te kontaminuara, atëherë detyrohet që t’i evakuojë pjesët e tilla, kurse pjesët e shëndosha damkosen dhe dalin në shitje apo shkojnë në përpunim.

@@ -1,0 +1,2 @@
+# Neni 6
+Në afërsi të depos duhet të ekzistojë baseni ose kontejneri për deponimin e mbeturinave nga stalla ose nga mjetet transportuese. Në pjesën e papastër të objektit duhet të ndërtohet edhe baseni i mbuluar ose të vendoset rezervuari metalik për pranimin e përmbajtjeve të paralukthave nëse nuk është e paraparë në mënyrë tjetër. Në vendin e pranimit të përmbajtjeve të paralukthave duhet të sigurohet uji i ftohët dhe i nxehtë të temperaturës minimale prej 83 Cº të rregulluar me termometër dhe kanalizimin e ujërave të mbetur.

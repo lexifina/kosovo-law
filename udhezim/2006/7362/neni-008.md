@@ -1,0 +1,2 @@
+# Neni 8
+Në hapësirën për therje në të cilën theren më shumë lloje të kafshëve, linja e therjes duhet të jetë e ndarë për çdo lloj të kafshëve veç e veç, dhe atë me mur të gjatësisë minimale prej 3m ose hapësirë të hapur me largësi minimale prej 5m. Puna në këto linja duhet të jetë e organizuar ashtu që të sigurojë aplikimin e masave higjienike dhe kontrollin veterinarë. Rrugët e kalimit të produkteve për konsum dhe të konfiskatit nuk guxojnë të kryqëzohen me linjën e therjes e as me rrugët e transportit të prodhimeve për konsum.

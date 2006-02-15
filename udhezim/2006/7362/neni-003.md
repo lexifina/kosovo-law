@@ -1,0 +1,2 @@
+# Neni 3
+Hapësira për vendosjen e kafshëve të sëmura ose të dyshimta në sëmundje duhet të jetë plotësisht e ndarë nga pjesa tjetër e objektit, në mënyrë që të pamundësohet kontakti me kafshë të shëndosha dhe e njëjta shënohet me shkronja të mëdha e të kuqe - KAFSHËT E SËMURA. Ato hapësira duhet të jenë të pajisura me vend për fiksim dhe mjete për kontrollim të kafshëve. Dyshemetë e kësaj hapësire duhet të kenë nyje të veçantë sanitare.
