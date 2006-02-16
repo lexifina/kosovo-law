@@ -1,0 +1,3 @@
+# Neni 6
+Automjeti dhe mjeti shtesë i dedikuar për transportin e mallrave të rrezikshme, duhet t’i nënshtrohet kontrollit të posaçëm për plotësimin e kushteve të paraparë me ligj dhe me ADR.
+Kontrollin e automjetit e kryen subjekti i autorizuar nga Ministria e Transportit dhe Postë Telekomunikacionit. Për automjetin dhe mjetin shtesë, i cili i plotëson kushtet për transportin e mallrave të rrezikshme, i lëshohet certifikata për plotësimin e kushteve për transportin e mallrave të rrezikshme. Tarifat për dhënien e çertifikatës i cakton Ministria e Transportit dhe Postë Telekomunikacionit në bashkëpunim me Ministrinë e Ekonomisë dhe financave.

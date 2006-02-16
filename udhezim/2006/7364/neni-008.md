@@ -1,0 +1,2 @@
+# Neni 8
+Në automjet dhe mjetin shtesë të cilat transportojnë mallra të rrezikshme, duhet çdo 6 (gjashtë) muaj të bëhet kontrolla e mbrojtjes nga elektriciteti statik. Ato rezultate futen në formular “Kontrolla e mbrojtjes nga elektriciteti statik” . Kontrollimin e automjetit që bartë mallra të rrezikshme sipas nenit 8. e bën Qendra e kontrollimit teknik e autorizuar nga Ministria e Transportit dhe Post Telekomunikacionit.
