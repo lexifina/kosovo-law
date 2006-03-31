@@ -1,0 +1,10 @@
+# Neni 35
+35.1 Detyrat dhe përgjegjësitë e inspektorit gjatë mbikëqyerjes inspektuese janë:
+a. Të vërtetojë identitetin e themeluesve dhe punëtorëve që ushtrojnë aktivitete hoteliere tek bizneset. b. Të kontrollojë evidencat, dokumentacionin dhe dokumentet e tjera të nevojshme
+për vërtetimin e ligjshmërisë në afarizmin e personave juridik ose të personave fizik, (kontratat për furnizim). c. Të kontrollojë afishimin dhe zbatimin e çmimeve të shërbimeve hoteliere. d. Të vërtetojë dhe të kontrollojë zbatimin e normativave të ushqimit dhe të pijeve në
+sasi dhe në cilësi. e. Të vërtetojë dhe kontrollojë dhënjen e faturave për mysafirë për shërbimet e kryera. f. Të urdhërojë masa për sigurimin e dokumentacionit të kërkuar. g. Të shqiptojë dënimin mandator ne vendin e ngjarjes. h. Të ushtrojë fletëparaqitje te organi kompetent për veprat e bëra penale dhe
+kundërvajtjet ekonomike, përkatësisht, të paraqesë kërkesë për hapjen e procedurës kundërvajtëse. i. Të hapë procedurë lidhur me vërejtjet e shfrytëzuesve të shërbimeve hoteliere.
+35.2 Autorizimet e inpektorit:
+a. T’ia ndalojë punën personit juridik ose fizik që ushtron veprimtari hoteliere pa leje të punës (licencë). b. T’ia ndalojë ushtrimin e veprimtarisë hoteliere personit juridik ose fizik me rastin
+kur inspektorit i pamundësohet që të kryej punët e inspektimit. c. Me rastin e inspektimit, inspektori është i autorizuar të kontrollojë: objektin afarist, mallin, mjetet (aparaturat) dhe paisjet me të cilat ushtrohet veprimtaria hoteliere, hapësirat e ekonomisë shtepiake që mirret me veprimtari hoteliere, librat afarist, kontratat, dokumentacionin dhe evidencat, dokumentacionin tjetër afarist, dokumentacionin me anë të të cilit mund të vërtetohet identiteti i personave fizik që i nënshtrohen inspektimit dhe punë të tjera varësisht nga qëllimi i inspektimit. d. Të merr vendim me të cilin ndalohet ushtrimi i veprimtarisë hoteliere nese
+vërtetohet se kjo veprimtari kryhet pa lejen për punë ku mund të zbatojë njëkohësisht edhe mbylljen e dhunshme të objektit duke ia vënë vulën zyrtare me dyll.

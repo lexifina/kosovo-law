@@ -1,0 +1,2 @@
+# Neni 40
+Inspektori me rastin e ekzekutimit të vendimit nga neni 39 të kësaj rregulloreje duke e vulosur ose në ndonjë mënyrë tjetër të përshtatshme, e mbyll lokalin në të cilin ushtrohet veprimtaria hoteliere, me përjashtim të lokalit në ekonomin shtepiake, mund t’i marrë paisjet, aparaturën, mjetet e punës me të cilat ushtrohet veprimtaria, sipas vendimit përfundimtar të organit kompetent të gjyqësor.
