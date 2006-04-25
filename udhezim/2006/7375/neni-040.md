@@ -1,0 +1,2 @@
+# Neni 40
+(1) Pajisja për mbushje GT duhet të jetë jashtë objektit. (2) Hapësira e enës për GT duhet të pastrohet mirë me rrymim të ajrit, në mënyrë natyrore dhe artificiale, brenda një ore. Pastrimi me rrymim të ajrit duhet të përsëritet 5 herë dhe atë: kur verifikohet, kur ka ndonjë defekt ose avari dhe kur bëhet renovimi i një pjese të repartit. (3) Sipas rregullave është e ndaluar të ngrohet vendi apo hapësira ku janë të vendosura enët me GT. (4) Në hapësirat e enëve me GT duhet të bëhet detektimi i përqendrim të oksigjenit.

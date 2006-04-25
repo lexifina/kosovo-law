@@ -1,0 +1,2 @@
+# Neni 32
+(1) Në hapësirat për vendosje të bombolave me dyoksid karboni, temperatura e lejuar duhet të jetë 263 K deri 313 K (-10 0C deri ne 40 0C ). (2) Në rezervuarët me ftohje duhet të jenë të instaluara pajisjet siguruese në rast të ngritjes së temperaturës apo të shtypjes. (3) Dyoksidi i karbonit deponohet me shtypje prej 15 bar deri në 25 bar dhe në temperaturë 243 K deri 263 K (-30 0C deri në -10 0C).

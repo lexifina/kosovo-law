@@ -1,0 +1,2 @@
+# Neni 25
+(1) Vëllimi i rezervuarëve mbitokësorë cilindrikë nuk guxon të jetë mbi 250 m3, vëllimi i rezervuarëve sferikë V max= 1500 m3 dhe i rezervuarve nëntokësorë V max= 200 m3 . (2) Instalimet elektrike te rezervuarët mbitokësorë duhet të jenë në harmoni me rregulloret mbi stabilimentet elektrike për objektet mbitokësore të rrezikuara nga përzierjet shpërthyese. (3) Rezervuarët duhet të jenë të tokëzuara.
