@@ -1,0 +1,2 @@
+# Neni 10
+Senati i UP duhet të rifillojë funksionimin nën statusin e përkohshëm pas zgjedhjes së shtatë anëtarëve student nga Parlamenti Studentor në pajtim me procedurat e përshkruara në statut dhe vetëm atëherë mund të thërras mbledhje dhe vendosë vetëm për rastet nën urgjencë administrative që kanë të bëjnë me funksionimin ditor të universitet. Duhet të i shmanget çdo lloj veprimi tjetër derisa të bëhet rivendosja e ligjshmërisë përmes zgjedhjeve, si më lartë. Duhet ti shmanget çdo lloj vendimi strategjik apo zgjedhjeje.

@@ -1,0 +1,2 @@
+# Neni12
+Ministrit të Arsimit, Shkencës dhe Teknologjisë duhet ti jepet autoriteti për shkarkim të Zyrtarëve të Lartë të Ngarkuar, çdo kryesuesi të përkohshëm të organeve qeverisëse të UP dhe sekretarëve të fakulteteve në rast të fajësisë dhe mospërputhshmërisë me procedurat dhe dinamikën ashtu si thuhet me lartë në këtë udhëzim. Para shkarkimit duhet të merret një opinion nga Komisioni Qendror Zgjedhor.

@@ -1,0 +1,2 @@
+# Neni 9
+Të 17 këshillat e fakulteteve të UP, duhet të vazhdojnë të funksionojnë sipas statusit të përkohshëm dhe mund të mbajnë mbledhje dhe vendosin vetëm për rastet nën urgjencë administrative që kanë të bëjnë me funksionimin ditor të fakultetit. Duhet ti shmangen çdo lloj veprimi tjetër derisa të bëhet rivendosja e ligjshmërisë përmes zgjedhjeve, si më lartë. Duhet ti shmangen çdo lloj vendimi strategjik apo zgjedhjeje.
