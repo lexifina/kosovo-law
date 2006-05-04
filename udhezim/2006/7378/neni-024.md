@@ -1,0 +1,3 @@
+# Neni 24
+1. Me planin vjetor të menaxhimit, më detalishtë përpunohen planet e menaxhimit për njësi menaxheriale pyjore, parcela, nënparcela dhe grumbuj pyjorë të Rajoneve menaxhuese pyjore, të përcaktuara me planin menaxhues afatgjatë, dhe me teknologji të harmonizuar sipas fazave të punimeve në kultivimin, mbrojtjen dhe shfrytëzimin e pyjeve dhe analizën e gjendjes ekonomike-financiare.
+2. Nëse nuk ekziston plan menaxhues afatgjatë në fuqi ose ai është i deklaruar si i pezulluar nga MBPZHR, Agjencioni Pyjor i Kosovës hartimin e planeve vjetore duhet të bëjë në pajtueshmëri me qëllimet dhe standardet për menaxhim me pyjet konform Ligjit për Pyjet e Kosovës.
