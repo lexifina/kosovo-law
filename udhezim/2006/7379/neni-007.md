@@ -1,0 +1,3 @@
+# Neni 7
+Operatori i huaj i cili pajiset me leje transite nëpër territorin e Kosovës nuk mundë të qëndroj më shumë se 24 orë brenda territorit të Kosovës pa e kaluar piken tjetër kufitare.
+Përjashtimisht për gjendje jo të rregullt të automjetit operatori i huaj duhet te siguroj dëshmi nga servisi për riparimin e automjetit, në raste të aksidentit apo ndonjë pengese të natyrës së ndryshme mundë të qëndroj më shumë se 24 orë por për këtë detyrohet të lajmërohet në Stacionin më të afërt të Shërbimit Policor të Kosovë Operatori i huaj i cili nuk i përmbahet alinesë 1 dhe 2 te këtij neni do të ndëshkohet me gjobë në dyfishin e shumës së lejes transite.
