@@ -1,0 +1,6 @@
+# Neni 7
+7.1. Kur në rrethin e vendbanimit të fëmijëve, nuk ka institucione parashkollore, komuniteti ka të drejtë të vetorganizohet në përputhje me këtë ligj, për të ofruar shërbime të edukimit parashkollor. Në mbështetje të këtyre organizimeve të komunitetit, institucionet përgjegjëse të edukimit parashkollor të komunës përkatëse, duhet të synojnë të gjejnë mundësi për të përkrahur këto iniciativa. Përkrahja duhet të jetë në përputhje me këtë ligj dhe aktet tjera nënligjore.
+7.2. Kur në rrethin e vendbanimit të fëmijëve, në institucionet parashkollore nuk ka vende të lira edhe pse numri i aplikantëve i përmbush kushtet për formimin e grupeve të tjera, komuniteti ka të drejtë të kërkojë nga institucionet përgjegjëse të edukimit parashkollor komunal, të zgjerojë kapacitetin e institucioneve parashkollore përkatëse. Këto të fundit brenda një afati optimal duhet të synojnë t’i përmbushin kërkesat e komunitetit, ose të ndihmojnë në gjetjen e alternativave të tjera.
+7.3. Kushtet dhe mundësitë e përkrahjes së përmendur në të dy paragrafët e mësipërme do të përcaktohen qartë me aktet nënligjore.
+II. ORGANIZIMI DHE PËRMBAJTJA E EDUKIMIT PARASHKOLLOR NË INSTITUCIONET PARASHKOLLORE PUBLIKE DHE INSTITUCIONET TJERA PARASHKOLLORE
+Detyrat themelore
