@@ -1,0 +1,5 @@
+# Neni 21
+21.1. Programet pёr arsimin dhe aftësimin e tё rriturve, pavarësisht se a ofrohen me pagesë ose pa pagesë, hartohen qё tё zhvillojnë shkathtёsitё, njohuritë dhe shprehitë nё pajtim me objektiven pёr ngritjen e nivelit tё pёrgjithshёm tё arsimit, kulturës dhe kompetencave profesionale tё tё rriturve. Programet e tilla duhet tё pёrfshijnё shkathtёsitё bazë, edukatën qytetare dhe demokracinë, mësimin e synuar pёr minoritetet dhe pёr tё rriturit me nevoja tё veçanta, mësimi i gjuhëve tё huaja, mësimi i gjuhës shqipe nga tё huajt dhe arsimim tjetër pёr tё rritur.
+21.2. Arsimi dhe aftësimi dëshmohet me dokument zyrtar sipas programeve arsimore për të rritur dhe programet e tjera arsimore, të përcaktuara sipas Ligjit, të cilat nuk e rregullojnë fushën e arsimit për të cilat MASHT-i ka përcaktuar standardin arsimor të barasvlershëm, ose ndaj pjesëve të programeve arsimore për të rinjtë sipas të cilave arrihet arsimi publik.
+21.3. Barasvlera dhe nostrifikimi i këtyre dokumenteve bëhet me Udhëzim Administrativ.
+Verifikimi i arsimit dhe aftësimit.

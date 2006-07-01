@@ -1,0 +1,3 @@
+# Article 23
+23.1. Attendees through examination prove knowledge, skills and their competencies, in the institutions where the education program is developed not taking into consideration the way of achievement.
+23.2. In the cases as in Article 9, when is provided evidence on the knowledge gained for the educational programs, respectively from the parts of these programs based on which education and training is achieved, such as: equivalency, knowledge standards; which are verified and testified through exams in respective institutions for adult education and training, the attendee get the official document.
