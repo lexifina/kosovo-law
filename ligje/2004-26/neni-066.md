@@ -1,0 +1,5 @@
+# Neni 66
+66.1. Ceduesi ka të drejtë të kërkojë që pasardhësi t’ia kthejë atë që ka marrë me anë të cedimit dhe pjesëtimit, po qe se ky ka treguar një mosmirënjohje të vrazhdët të tij. Nëse kthimi (restitucioni) i sendit nuk është i mundur si i tillë (in rem), pasardhësit duhet të kthejnë vlerën në pajtim me dispozitat për pasurimim pa bazë.
+66.2.Të njëjtën të drejtë e ka ceduesi në qoftë se pasardhësi nuk i jep atij ose dikujt tjetër ushqimin e caktuar me marrëveshjen e cedimit dhe të pjesëtimit, apo nëse nuk paguan borxhet e ceduesit për pagimin e të cilave është ngarkuar me të njëjtën marrëveshje.
+66.3.Në rastet e tjera të detyrimeve të papërmbushura të përcaktuara në marrëveshjen e cedimit dhe të pjesëtimit gjykata, duke i kushtuar kujdes rëndësisë së detyrimit për cedimin dhe rrethanave të tjera të rastit, do të vendosë se a ka të drejtë ceduesi të kërkojë kthimin e të mirave që i ka dhënë apo vetëm të drejtën për mbushjen e detyrimeve.
+Të drejtat e trashëgimtarëve pas shuarjes së kontratës

@@ -1,0 +1,4 @@
+# Neni 79
+79.1.Kur bëhet testamenti me shkrim në prani të dëshmitarëve (neni 80) dhe testamenti gjyqësor (neni 82), dëshmitarë duhet të jenë personat madhorë, të cilëve nuk u është hequr zotësia për të vepruar dhe që dinë të shkruajnë, të lexojnë dhe të kuptojnë gjuhën e testamentit.
+79.2.Nuk mund të jenë dëshmitarë kur përpilohet testamenti me shkrim në prani të dëshmitarëve dhe testamenti gjyqësor, as të përpilojnë testamentin sipas tregimit të testatorit personat me cilësinë e gjyqtarit, pasardhësit e testatorit, të adoptuarit e tij dhe pasardhësit e tyre, parardhësit e tij, prindërit e tij adoptues, personat e tij në gjini ne vijë të tërthortë deri në shkallën e katërt, bashkëshortët e të gjithë këtyre personave dhe bashkëshorti i testatorit.
+Disponimi në dobi të gjyqtarit, të dëshmitarëve dhe të kushërinjve të afërt të tyre
