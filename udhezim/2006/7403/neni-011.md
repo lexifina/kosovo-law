@@ -1,0 +1,3 @@
+# Neni 11
+1. Dozat dhe format e përdorimit, format e tretshmërisë në tokë dhe format e shfrytëzimit të tyre për zhvillimin e bimëve duhet të jenë informacione shtesë që shënohen në tiketë apo paketim dhe në materialet deklaruese të prodhuesit që i shoqërojnë plehrat artificiale.
+2. Kur mikro materiet ushqyese janë kimikisht të lidhura me molekulë organike, përmbajtja e mikro materieve ushqyese si përbërës në plehra duhet të deklarojë përmbajtjen e tretshmërisë vijuese në ujë si përqindje nga masa e produktit, e shoqëruar me shkrim me njërën nga termat “I KOMPONUAR ME” “chelated by”, apo “I PËRBËRË ME” “complexed by” me emrin e molekulës organike.
