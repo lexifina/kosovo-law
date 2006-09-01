@@ -1,0 +1,6 @@
+# Neni 15
+15.1. KAAP këshillon MASHT-in dhe Qeverinë e Kosovës në orientimin e përgjithshëm për politikën e arsimit dhe aftësimit profesional në Kosovë.
+15.2. KAAP do të rishikojë çështjet e zhvillimit të arsimit dhe aftësimit profesional, do japë këshilla, propozime dhe rekomandime të MASHT-it, përfshirë propozimet për ligjet dhe dokumentet tjera zyrtare, lidhur me arsimin profesional. Gjithashtu, do të sigurojë një forum gjithëpërfshirës për harmonizimin e politikave dhe qasjeve përgjatë tërë sistemit të arsimit dhe aftësimit profesional, nëpërmjet angazhimit të partnerëve shoqëror dhe bartësve të tjerë me interes.
+15.3. KAAP do të ofrojë këshillë të veçantë dhe rekomandojë profilet për aprovim në të cilat duhet të bazohen programet e arsimit dhe aftësimit profesional formal, standardet për çdo profil, përmbajtjen profesionale të plan programit për këto profile dhe kualifikimet profesionale, që duhet të përfshihen brenda kornizës së kualifikimeve. Gjithashtu, mund të bëjë rekomandimin e librave shkollor dhe materialeve të tjera të mësimit për shfrytëzim në programet e tilla.
+15.4. KAAP kryen edhe aktivitete të tjera që janë kompatibile me dispozitat në këtë ligj.
+Partnerët social
