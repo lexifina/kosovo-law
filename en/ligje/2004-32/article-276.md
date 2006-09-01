@@ -1,0 +1,3 @@
+# Article 276.
+Contractual Agreements and its Certification
+(1) The members of a family community by contract may regulate their reciprocal property relations. (2) The contract from Paragraph (1) of this to be provided in writing, has to list all members of the family community with their form of participation and has to be certified by a judge. (3) Upon certification, the judge shall read the contract and shall inform the contracting parties about the consequences of the contract. (4) If minors participate in the contract, the court shall request the opinion of the Custodian Body prior to certification.

@@ -1,0 +1,3 @@
+# Neni 325.
+Vendimi ex-officio
+(1) Në çdo rast që të jetë e mundshme, vendimet për mbrojtjen dhe mbajtjen e fëmijëve në kontestet martesore do të jenë ex-offitio (ne bazë të detyrës zyrtare), (2) Gjykata duhet të pranojë një marrëveshje të prindërve për mbajtjen financiare në përputhje me këtë ligj vetëm nëse marrëveshja është në përputhje me dispozitat e këtij ligji mbi çështjet për mbajtjen financiare. (3) Gjykata vendos ex – officio për mbajtjen financiare të fëmiut vetëm nëse është vërtetuar se i padituri është baba i fëmiut, respektivisht është e vërtetuar se e paditura është nëna e fëmiut.

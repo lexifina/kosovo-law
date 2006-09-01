@@ -1,0 +1,3 @@
+# Neni 343.
+Mbrojtja e Fëmijëve me anë të Kujdestarit të veçantë
+(1) Nëse fëmija dhe prindi i cili sipas Ligjit e përfaqëson fëmijën së bashku e paraqesin padinë për vërtetimin ose kundërshtimin e padisë, përkatësisht nëse janë të paditur me padi të njëjtë ai prind do ta përfaqësojë fëmijën edhe në kontest por Organi i Kujdestarisë mund t’i caktojë fëmijës kujdestarin e veçantë nëse ndërmjet prindit dhe fëmijës në atë kontest ekzistojnë interesa të kundërta.. (2) Nëse fëmija dhe prindi i cili është përfaqësues ligjor i fëmiut, kanë interesa të kundërta dhe janë palë të kundërta në procedurë si të paditur dhe paditës, Organi i Kujdestarisë do të emërojë kujdestarin e veçantë për këtë fëmijë.

@@ -1,0 +1,3 @@
+# Article 295.
+Obligation of Stepparents towards their Stepchildren
+(1) Step father and step mother are under the obligation to provide financial maintenance for their step children if these have no other relatives who, according to this Law, are under the obligation to provide financial maintenance or have only relatives who are financially incapable. (2) The obligation of stepmother or stepfather continues even after the death of their partner who has been a natural parent to the child, if the step child and the step mother or step father cohabitated prior to the death of the partner. (3) This shall not apply, if marriage between the parent and stepfather or stepmother of the child has been annulled.

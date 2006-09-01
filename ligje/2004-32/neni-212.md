@@ -1,0 +1,3 @@
+# Neni 212.
+Mbikëqyrja
+(1) Organi i Kujdestarisë mbikëqyr zhvillimin e fëmijës, siguron se mbrojtja, kujdesi dhe edukimi i fëmijës bëhet në përputhje me dispozitat e këtij ligji si dhe me dispozitat e kontratës për vendosjen e fëmijës. (2) Organi kompetent i Kujdestarisë i kushton vëmendje të posaçme zhvillimit të fëmijës lidhur me qëllimet të cilat kanë shkaktuar vendosjen e fëmijës në familje. (3) Organi i Kujdestarisë ka obligim të informojë familjen në të cilën është vendosur fëmija për arsye (mangësitë në sigurimin e kujdesit, mbrojtjen dhe edukimin e fëmijës) që kanë shkaktuar vendosjen e fëmijës. Ky duhet të japë propozime për mënjanimin e këtyre fakteve në të ardhmen, dhe të marrë masa sociale të rregullta dhe me kohë të cilat janë parashikuar në këtë ligj.

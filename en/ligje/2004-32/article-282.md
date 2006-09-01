@@ -1,0 +1,3 @@
+# Article 282.
+The Order obliged Persons
+(1) Primarily the spouse is obliged to provide financial maintenance to the other spouse. (2) In case the obligation of financial maintenance lies with several relatives, the obligation lies firstly with the descendants and secondly with the relatives in the ascending line. (3) The obligation for providing financial maintenance for people in consanguinity is determined according to order by which applies in inheritance. (4) Among several relatives who are of the same nature of relation, all of these are obliged in proportion to their financial capabilities. The person who directly takes care for a child in his household fulfils his share by providing care and education.

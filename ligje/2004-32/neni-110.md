@@ -1,0 +1,3 @@
+# Neni 110.
+Fëmijët jashtëmartesor
+(1) Padinë për vërtetimin e atësisë së fëmijës së lindur jashtë martesës, përveç personit i cili e konsideron vetën at të fëmijës mund ta paraqesin fëmija dhe nëna e fëmijës. (2) Fëmija i lindur jashtë martesës mund të paraqet padinë për vërtetimin e atësisë në çdo kohë. (3) Nëse fëmija është i mitur ose nuk e ka aftësinë për të vepruar, padinë në emër të tij mund të paraqet nëna. Nëse nëna nuk është e gjallë ose i është hequr aftësia për të vepruar, përkatësisht nga kujdesi prindëror dhe kur nëna ka vendqëndrimin e panjohur, padinë mund të paraqet kujdestari me lejen e Organit të Kujdestarisë. (4) Nëna mund të paraqet padinë për vërtetimin e atësisë derisa të ketë të drejtën të ushtrojë të drejtën prindërore.

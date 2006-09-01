@@ -1,0 +1,3 @@
+# Article 294.
+Obligation of Children towards their Parents
+(1) Children have an obligation to provide financial maintenance to their parents if their parents are not able to work or do no have sufficient minimum means to live. (2) By way of exception, the court may refuse a claim for financial maintenance, if the parent has lost parental custody or has not provided financial maintenance for the child, despite his financial capability. (3) The exception mentioned in paragraph (2) of this Article also applies if the court, after examining all the circumstances of the case concludes that the obligation of the child would present an open injustice to the child.

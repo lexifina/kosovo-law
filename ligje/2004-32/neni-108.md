@@ -1,0 +1,3 @@
+# Neni 108.
+Procedura gjyqësore për mospajtimin
+(1) Nëse nëna e fëmijës ose fëmija që është më i vjetër se 16 vjeç, ose kujdestari i fëmijës kur nevojitet pëlqimi i tij, nuk pajtohen për njohjen e atësisë, ose nuk deklarohen lidhur me këtë gjë brenda afatit prej 30 ditësh, pasi të marrin në dijeni njohjen, personi i cili e ka njohur fëmijën për të vetin mund t’ia paraqesë padinë gjykatës për vërtetim se ai është at i fëmijës. (2) Padia mund të paraqitet brenda afatit prej tri vjetësh pas marrjes së njoftimit për mospajtimin e nënës, përkatësisht të fëmijës. Nëse në ndërkohë është vërtetuar atësia e personit tjetër, padia nuk mund të paraqitet pas kalimit të afatit për kundërshtimin e atësisë atij personi.

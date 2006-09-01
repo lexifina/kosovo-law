@@ -1,0 +1,3 @@
+# Article 103.
+Principles on Recognition of Paternity
+(1) The person considering himself father of the child may accept paternity and shall allow the recording of this fact in the minutes in front of the registrar. (2) Paternity may also be recognized before the Custodian Body, before the court or another authorized body for preparing public documents. These bodies are obliged, without delay to submit the verified minutes to the competent registrar who shall then register the child in the register of births. (3) Paternity may also be recognized by will. (4) The statement for recognition of paternity can not be provided by a proxy representative.

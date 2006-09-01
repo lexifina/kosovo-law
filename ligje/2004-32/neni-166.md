@@ -1,0 +1,3 @@
+# Neni 166.
+Periudha provuese
+(1) Adoptimi, si rregull nuk do të themelohet derisa adoptuesi të kujdeset për fëmijën për një kohë të arsyeshme të përcaktuar nga gjykata por që nuk kalon periudhën tre (3) muajsh. (2) Periudha provuese do të inicohet, mbikëqyret dhe vlerësohet vazhdimisht nga Organi i Kujdestarisë që gjykatës i siguron raport sipas nevojës. (3) Gjykata merr vendim në fund të gjykimit. Mirëpo, gjykata mund të vazhdojë gjykimin për një periudhë shtesë deri në tre muaj nëse në mes të palëve ka mospajtime ose për shkak të rrethanave të tjera të arsyeshme, të cilat i janë vënë në dijeni nga organi i kujdestarisë ose nga ekspertët për fëmijë të përfshirë në procedure.

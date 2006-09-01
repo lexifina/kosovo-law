@@ -1,0 +1,3 @@
+# Article 33.
+Administrative Procedure
+(1) When the persons applying for wedlock disagree with the oral communication as provided for in Article 32 of this Law, they may request the registrar to bring a ruling on the refusal of the marriage request (2) The ruling provided for in paragraph 1 of this Article may be appealed within 8 days upon notification by competent bodies regarding the disallowance of marriage. Based on the request provided for in paragraph (2) of this Article, the competent body is obliged to issue a decision through administrative procedure within 15 days upon receipt of the request.

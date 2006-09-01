@@ -1,0 +1,3 @@
+# Neni 303.
+Punësimi i përshtatshëm
+(1) Nga bashkëshorti i shkurorëzuar mund të kërkohet që të angazhohet në punë të përshtatshme. (2) Punësimi është i përshtatshëm nëse ai është në përputhje me arsimimin, aftësitë dhe shëndetin e bashkëshortit të shkurorëzuar dhe ai përshtatet nivelit të jetesës. Kjo varet nga kohëzgjatja e martesës dhe koha që bashkëshorti i shkurorëzuar ka qenë i angazhuar në përkujdesje dhe arsimim të fëmiut të përbashkët. (3) Bashkëshorti i shkurorëzuar duhet të angazhohet për arsimimin e mëtejshëm apo rikualifikimin, nëse kjo është e mundur dhe e domosdoshme për të gjetur punë.

@@ -1,0 +1,4 @@
+# Neni 261.
+Çështjet pronësore pas shkarkimit ose lirimit nga detyrimet
+(1) Nëse personi nën kujdestari ka pasuri, Organi i Kujdestarisë ndërmerr të gjitha masat e nevojshme për të vërtetuar pushtetin e menjëhershëm në pronën me qëllim të vlerësimit të inventarit dhe të pronës. (2) Tërë pasuria nën kujdestari sa më shpejt që të jetë e mundur do t’i lihen në besim kujdestarit të ri apo të personit i cili në emër të Organit të Kujdestarisë ushtron detyrat e kujdestarit. (3) Inventari, vlerësimi dhe dorëzimi i pronës së personit nën kujdestari do të bëhet nga një komision i caktuar nga Organi i Kujdestarisë. Procedimet do të mbahen në prezencë dhe pjesëmarrje të kujdestarit të shkarkuar ose të liruar, kujdestari i ri respektivisht personi i cili në emër të Organit të Kujdestarisë drejtpërdrejt i ushtron detyrat e kujdestarit dhe personi nën kujdestari në rastin kur ai psiqikisht është i aftë për ta kuptuar çështjen.
+VII. PUSHTETET DHE PROCEDURA

@@ -1,0 +1,3 @@
+# Article 110.
+Extra Marital Children
+(1) Apart from the person considering himself father of the child, the child and the child’s mother may also submit a claim for paternity verification of an extra marital child. (2) The extra marital child may submit a claim for paternity verification at anytime. (3) If the child is a minor or lacks the capacity to act, the mother on his behalf may submit the claim. If the mother is not alive or is divested from the capacity to act or from parental custody or her place of residence is unknown, the claim may be submitted by the custodian with the permission of the Custodian Body. (4) The mother may submit a claim for the verification of paternity as long as she has the right of custody for the child.

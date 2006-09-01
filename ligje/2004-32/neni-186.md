@@ -1,0 +1,3 @@
+# Neni 186.
+Miratimi i kërkesës për adoptim
+(1) Nëse gjykata konstaton se janë plotësuar kushtet për adoptim të parapara me këtë Ligj do të themelojë adoptimin. (2) Për themelimin e adoptimit nevojitet prania e adoptuesit, e bashkëshortit të tij, e prindërve, përkatësisht e kujdestarit të të adoptuarit, si dhe prania e të adoptuarit nëse është më i vjetër se 10 vjet, me përjashtim kur deri në këtë moshë ka qenë në kujdes juridik, ruajtje dhe edukim te personi i cili dëshiron që ta adoptojë. (3) Deklarata e pëlqimit e palëve pjesëmarrëse duhet të shënohet në procesverbalin e procedurës. (4) Më përfundimin e procedurës së adoptimit duhet të nënshkruhet procesverbali nga palët dhe duhet t’u lexohet personave prezentë.

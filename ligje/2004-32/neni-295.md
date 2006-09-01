@@ -1,0 +1,3 @@
+# Neni 295.
+Detyrimet e njerkut/ës ndaj thjeshtërit/ës
+(1) Njerku dhe njerka kanë për detyrim të ofrojnë mbajtje financiare për thjeshtërit e tyre nëse ata nuk kanë të afërm të tjerë të cilët në përputhje me këtë ligj kanë për detyrim të sigurojnë mbajtje financiare apo kanë vetëm të afërm të cilët janë financiarisht të paaftë. (2) Detyrimi i njerkës apo njerkut vazhdon edhe pas vdekjes së partnerit të tyre i cili ka qenë prind natyror i fëmiut, nëse thjeshtri/ra dhe njerku apo njerka bashkëjetojnë para vdekjes së njërit bashkëshort. (3) Kjo nuk do të aplikohet nëse martesa ndërmjet prindit dhe njerkës apo njerkut të fëmiut është anuluar.

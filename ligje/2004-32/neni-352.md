@@ -1,0 +1,4 @@
+# Neni 352.
+Procedurat Zbatuese
+(1) Me rastin e zbatimit të përmbarimit të dhunshëm gjykata kujdeset për karakterin e ngutshëm të procedurës dhe për nevojën që në masën maksimale të mbrohet personaliteti i fëmijës. (2) Gjykata pasi t’i çmojë të gjitha rrethanat e rastit vendos a thua përmbarimi do të zbatohet me caktimin e gjobave kundër personit te i cili ndodhet fëmija ose me marrjen e fëmijës prej atij personi. (3) Nëse qëllimi i përmbarimit nuk mund të arrihet me caktimin e vendimit për gjobat, përmbarimi do të zbatohet me marrjen e fëmijës prej personit te i cili ndodhet fëmija dhe me dorëzimin e fëmijës prindit, përkatësisht personit tjetër të cilit i është besuar fëmija dhe me dorëzimin e fëmijës prindit përkatësisht personit tjetër të cilit i është besuar ai për ruajtje dhe edukim. (4) Në procedurën e përmbarimit gjykata do ta kërkojë ndihmën e organit të kujdestarisë.
+VI. DISPOZITAT KALIMTARE DHE PËRFUNDIMTARE

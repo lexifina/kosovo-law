@@ -1,0 +1,3 @@
+# Neni 79.
+Pjesëmarrja, tërheqja e lutjes
+(1) Në seancën për përpjekjen që të arrihet pajtimi ftohen të dy bashkëshortët për të marrë pjesë personalisht; (2) Nëse njëri ose që të dy bashkëshortët edhe pse janë ftuar në mënyrë të rregullt, mungojnë nga seanca për përpjekjen që të arrihet pajtimi, dhe asnjëri prej tyre nuk e arsyetojnë mungesën gjykata, do të çmojë se a do të caktojë seancën e re për përpjekjen e arritjes së pajtimit ose do të konsiderojë se pajtimi ka dështuar; (3) Kur njëri apo të dy bashkëshortët të cilët me propozimin e përbashkët kanë filluar procedurën për shkurorëzim me marrëveshje nuk paraqiten në seancën për përpjekje që të arrihet pajtimi, dhe mungesa e tyre nuk arsyetohet, do të konsiderohet se kanë tërhequr propozimin.

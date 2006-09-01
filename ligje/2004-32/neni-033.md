@@ -1,0 +1,3 @@
+# Neni 33.
+Procedura administrative
+(1) Nëse personat që kanë paraqitur fletëparaqitjen për lidhjen e martesës nuk pajtohen me komunikimin verbal siç është përcaktuar në nenin 32 të këtij Ligji, ata mund të kërkojnë nga ofiqari që të nxjerrë aktvendim për refuzimin e fletëparaqitjes për lidhjen e martesës. (2) Paraqitja e ankesës kundër aktvendimit nga paragrafi 1 i këtij neni mund të bëhet brenda 8 ditëve nga dita e njoftimit mbi moslejimin për lidhjen e martesës nga organet kompetente. Sipas kërkesës nga paragrafi 2 i këtij neni, organi kompetent është i detyruar që në procedurën administrative të nxjerrë vendim në afat prej 15 ditësh nga dita e pranimit të kërkesës.

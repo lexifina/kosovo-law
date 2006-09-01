@@ -1,0 +1,3 @@
+# Article 16.
+Conditions for Entering into Wedlock
+(1) A person who has not reached the age of eighteen shall not enter into wedlock. (2) Due to justifiable reasons, the competent court may allow wedlock for a minor person older than sixteen years upon his request, if it concludes that the person has reached the necessary physical and psychological maturity for exercising his marital rights and to fulfill his marital obligations. (3) Prior to the decision, the court shall seek the opinion of the Custodian Body and shall hear the minor and his parents respectively the custodian. The court shall also hear the person with whom the minor intends to enter into wedlock and shall investigate other circumstances important for the decision.

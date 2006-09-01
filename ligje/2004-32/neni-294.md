@@ -1,0 +1,3 @@
+# Neni 294.
+Detyrimet e femijëve ndaj prindërve të vet
+(1) Fëmijët kanë për detyrim të japin mbajtje financiare për prindërit e tyre nëse ata nuk nuk janë të aftë për punë dhe nuk kanë të ardhura minimale për të jetuar. (2) Përjashtimit, gjykata mund të refuzojë kërkesën për mbajtje financiare, nëse prindit iu ka hequr kujdesi prindëror ose nuk ka ofruar mbajtje financiare për fëmijën përkundër mundësive financiare. (3) Përjashtimi i cekur në paragrafin (2) të këtij neni do të zbatohet nëse gjykata pas vërtetimit të të gjitha rrethanave të rastit konkludon se detyrimi i fëmiut do të paraqiste një padrejtësi të hapur ndaj fëmiut.

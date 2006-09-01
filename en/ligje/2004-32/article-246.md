@@ -1,0 +1,3 @@
+# Article 246.
+Representation
+(1) The custodian legally represents the person under custody (legal representative). (2) If the obligations of the custodian are fulfilled directly by the Custodian Body or the custodian has only limited authority, the Custodian Body represents the person under custody through one of its representatives or other authorized professional personnel. (3) The person who represents the person under custody on behalf of the Custodian Body can perform the custodian’s actions and measures as mentioned in Article 248 of this Law only upon prior permission of the Custodian Body.

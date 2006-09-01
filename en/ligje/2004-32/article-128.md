@@ -1,0 +1,3 @@
+# Article 128.
+Principles
+(1) Parental responsibility primarily results from the right for parental care and custody. (2) A child is under parental responsibility until the age of majority. (3) Parents are obliged to ensure at any times that the principles laid out in Article 125 of this Law are utilized for the protection of their minor children. (4) Parental responsibility includes rights and obligations, aiming to ensure emotional, social and material welfare of the child, by looking after the child, preserving personal relations, providing proper growth, education, vocational training, legal representation and administration of property. (5) By applying these principles parents shall consider skills, inclinations and desires of their children.

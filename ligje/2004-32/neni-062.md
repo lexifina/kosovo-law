@@ -1,0 +1,3 @@
+# Neni 62.
+Kolizioni i martesës
+(1) Martesa e lidhur në kohën e ekzistimit të martesës së mëparshme të njërit nga bashkëshortët është nule. (2) Martesa e re e lidhur në kohën e ekzistimit të martesës së mëparshme të njërit nga bashkëshortët nuk do të anulohet, nëse martesa e mëparshme është zgjidhur ndërkohë. (3) Kur të dy martesat zgjidhen njëkohësisht për shkak të vdekjes së bashkëshortit i cili ka hyrë në martesë të re duke qenë i martuar me person tjetër, martesa e re do të anulohet, përveç në rastet kur martesa e re ka zgjatur për disa vite, dhe kur bashkëshorti nga martesa e mëparshme nuk ka ndërmarrë veprime për të rithemeluar bashkësi martesore dhe bashkëjetesë.

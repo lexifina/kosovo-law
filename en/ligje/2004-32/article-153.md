@@ -1,0 +1,3 @@
+# Article 153.
+Procedure
+(1) The decision for extending parental custody is taken by the competent court in an extra contentious procedure upon request of the parents or the Custodian Body. (2) The proposal for extending parental custody shall be submitted before the child reaches the age of majority, however, the court may also extend parental custody when the request has not been submitted in due time, if reasons for extending parental custody existed at the time the child reached the age of majority. (3) In the decision extending parental custody the court shall specify whether the person who has achieved extended parental custody, custody was categorized as of the rights towards a minor younger or older than 14 years.

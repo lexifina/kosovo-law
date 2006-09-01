@@ -1,0 +1,3 @@
+# Article 252.
+Regular Work Report
+(1) At the beginning of each year the custodian shall present a report to the Custodian Body and give account of his work for the past year. Monthly reports shall be given on request of the Custodian Body and a final report when he ceases to be a custodian. (2) The report of the custodian shall demonstrate his work and care for the personality of the person under custody, especially the conditions of placement and as far as applicable his health, education, upbringing and all other matters of importance for the personality of the person under custody. (3) The report shall contain also information on all property matters.

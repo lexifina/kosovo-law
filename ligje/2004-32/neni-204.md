@@ -1,0 +1,3 @@
+# Neni 204.
+Vendosja
+(1) Fëmijëve pa prindër dhe fëmijëve pa kujdesin prindëror u garantohet vendosja në familje deri sa të mos aftësohen për jetë dhe punë të pavarur. (2) Vendosja e fëmijës është e mundshme në familjen që i ka të dy prindërit ose njërin prind. (3) Vendosja është e përcaktuar me pëlqim paraprak të prindërve biologjik të fëmijës dhe si rregull vendosja do të zgjasë për aq sa do të vazhdonin rrethanat të cilat e kanë shkaktuar atë. (4) Pas vendosjes së fëmijës në familjen tjetër, Organi i Kujdestarisë ndërmerr menjëherë të gjitha masat e domosdoshme që të adresojë dhe në të ardhmen të mënjanojë të gjitha rrethanat të cilat e kanë bërë të domosdoshme vendosjen në familje përkujdesëse.

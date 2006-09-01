@@ -1,0 +1,3 @@
+# Article 186.
+Approval of the Request on Adoption
+(1) If the Court concludes that the conditions for adoption set forth by this Law have been met, the adoption shall be approved. (2) In order to approve adoption, the presence of the adopting party is required together with the presence of the spouse, parents, respectively the custodian of the adoptee and the presence of the adoptee himself if he is over 10 years, except when up to this age he has been under the legal custodianship of the person who wishes to be the adopting party. (3) The statement of consent of the participating parties shall be entered in the minutes of procedure. (4) On conclusion of the procedures of adoption the minutes shall be signed by the parties and shall be read to the persons present.

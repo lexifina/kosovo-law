@@ -1,0 +1,3 @@
+# Article 230.
+Special Custody for Dispute Assessment
+(1) The special custodian shall be appointed for a child where even though the parents exercise parental custody, a considerable dispute exists between him and his parents, namely where significant legal transactions involving the child’s property are concerned. (2) The person under custody may be temporarily appointed a special custodian for a severe and legally grave dispute between him and the custodian. (3) Parents, adopting parties, custodians, relatives and neighbors have the obligation to notify the Custodian Body when they become aware of events or instances mentioned in Paragraphs (1) and (2) of this Article.

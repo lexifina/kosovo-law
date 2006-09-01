@@ -1,0 +1,3 @@
+# Article 166.
+Trial Period
+(1) Adoption shall not be pronounced until the adopter has been caring for the child for an appropriate period of time, specified by the court, but not exceeding three months. (2) The trial period shall be initiated and continuously supervised and evaluated by the Custodian Body, which provides a report to the court as necessary. (3) The court shall make a decision at the end of the trial period. However the court may extend the trial for an additional period of up to three (3) months if there is disagreement between the parties or due to other extenuating circumstances brought to its attention by the Custodian Body or child expert /s involved in the proceedings.

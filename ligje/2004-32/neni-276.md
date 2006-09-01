@@ -1,0 +1,3 @@
+# Neni 276.
+Marrëveshjet Kontraktuese dhe dokumentimi
+(1) Anëtarët e bashkësisë familjare me kontratë mund t’i rregullojnë marrëdhëniet reciproke pasurore. (2) Kontrata nga paragrafi 1 i këtij neni duhet të bëhet me shkrim, të numërojë të gjithë anëtarët e bashkësisë familjare me mënyrën e pjesëmarrjes së tyre dhe duhet të vërtetohet nga gjyqtari. (3) Me rastin e vërtetimit, gjyqtari do ta lexojë kontratën dhe do të informojë palët kontraktuese për pasojat e kontratës. (4) Nëse në lidhjen e kontratës marrin pjesë anëtarët e mitur, gjykata, para se ta bëjë vërtetimin e kontratës, do të kërkojë mendimin e Organit të Kujdestarisë.

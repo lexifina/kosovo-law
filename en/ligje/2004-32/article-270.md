@@ -1,0 +1,6 @@
+# Article 270.
+Costs
+(1) The costs for the application of certain measures, taken in the interest of the person who is being granted protection according to the provisions of this Law, is paid in accordance of priority by:
+1. The income of a person who is being protected 2. Pecuniary means acquired from parents or other persons who are under the obligation to provide financial maintenance for the person who is being protected 3. Pecuniary means acquired because of social protection and other forms of assistance and welfare
+(2) Means achieved because of social protection, shall be used under the direction of the custodian to undertake all necessary measures in the interest of the person who shall be granted the given form of protection according to the provisions of this Law. (3) This shall also apply when this person has his own sufficient means, but the request made to those who have the obligation to provide protection causes difficulties, resulting in a gap of protection in a way as to endanger his life, health or regular education. (4) The Custodian Body has the right to claim expenses made under Paragraph (2) and (3) of this the person whose needs are met, respectively to pursue his claims towards those, who have the obligation to provide protection.
+PART SEVEN. PROPERTY RELATIONS OF MEMBERS OF THE FAMILY COMMUNITY

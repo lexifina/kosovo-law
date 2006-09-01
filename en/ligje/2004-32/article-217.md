@@ -1,0 +1,3 @@
+# Article 217.
+Capacity to Act, Use of Income
+(1) The minor under custody who has not fulfilled yet 14 years can not exercise by itself the legal affairs, with the exception of minor actions. For the actions which can not be exercised by himself/herself it is necessary to have the permission of his custodian in order to make these actions valid, while for the actions that can not be carried by the custodian it is necessary to have the permission of the Custodian Body. (2) The minor under custody who enters into an employment relation, may dispose of his personal income and the revenue earned through his work. Besides he has the obligation to contribute to his own food, education and upbringing to a reasonable extent.

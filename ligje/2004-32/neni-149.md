@@ -1,0 +1,3 @@
+# Neni 149.
+Privimi nga Kujdesi
+(1) Prindërit të cilët e keqpërdorin ushtrimin e të drejtës prindërore ose në mënyrë serioze e neglizhojnë ushtrimin e të drejtës prindërore, privohen nga Kujdesi. (2) Prindi mund të privohet nga kujdesi për të gjithë fëmijët, e nëse këtë gjë e kërkojnë rrethanat e posaçme, ata privohen nga kujdesi vetëm ndaj njërit fëmijë. (3) Vendimin mbi privimin e prindërve nga kujdesi prindëror e merr gjykata kompetente në procedurë jashtëkontestimore pasi të ketë marrë mendimin nga Organi i Kujdestarisë dhe pasi të ketë hetuar të gjitha rrethanat relevante lidhur me rastin individual.

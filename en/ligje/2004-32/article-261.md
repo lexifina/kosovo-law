@@ -1,0 +1,4 @@
+# Article 261.
+Property Issues after Discharge or Release
+(1) If the person under custody owns property, the Custodian Body undertakes all necessary measures to verify the current state of property by means of an inventory and an evaluation of the property. (2) All property under custody shall be entrusted as soon as possible to the new custodian or to the person, who on behalf of the Custodian Body exercises the task of a custodian. (3) The inventory, evaluation and delivery of the property of the person under custody shall be accomplished by a commission, appointed by the Custodian Body. Proceedings are to be held under the presence and participation of the discharged or released custodian, the new custodian respectively the person who directly exercises the task of a custodian in representation of the Custodian Body as well as the person under custody, in case that the latter is mentally capable to understand the matter.
+VII. POWERS AND PROCEDURE

@@ -1,0 +1,3 @@
+# Neni 225.
+Detyrimet e Kujdestarit
+(1) Kujdestari i personit të cilit i është hequr aftësia për të vepruar ka për detyrë të kujdeset për personalitetin e tij, dhe në veçanti për kushtet e vendosjes së tij. (2) Kujdestari posaçërisht do të kujdeset për gjendjen e veçantë të personit nën kujdesjen e tij me shqyrtim të veçantë të shkaqeve për të cilat personit i janë hequr ose kufizuar të drejtat. Kujdestari do t’i mundësojë personit nën kujdesin e tij të jetojë jetë të pavarur dhe me dinjitet për aq sa është e mundur. (3) Nëse kujdestari konkludon se rrethanat tregojnë nevojën për të rikthyer aftësinë për të vepruar përkatësisht në rast të nevojës, ndryshimin e vendimit të mëparshëm, ai ka për detyrë të informojë Organin e Kujdestarisë pa vonesë.

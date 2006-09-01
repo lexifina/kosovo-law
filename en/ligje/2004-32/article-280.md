@@ -1,0 +1,3 @@
+# Article 280.
+Service Capability
+(1) Persons who under consideration of all personal obligations are not able to provide financial maintenance without endangering their own reasonable maintenance, are not obliged to provide maintenance. (2) Parents who fall under Paragraph (1) are obliged to provide financial maintenance to their minor and unmarried children by all reasonable means. This also applies to children between the age of 18 and 26 as long as they live in the household of their parents or one parent and are still in general education. (3) The obligation mentioned in Paragraph (2) is not applicable if there is another relative who is obliged to provide financial maintenance. It shall also not apply if the child’s support may be taken from the child’s assets.

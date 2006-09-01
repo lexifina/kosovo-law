@@ -1,0 +1,3 @@
+# Article 273.
+Administration of Property
+(1) Joint property is being administered jointly by the members of the family community and is disposed of by mutual agreement. (2) Minors who are members of a family community and who have reached the age of 15 take part in the administration and have equal rights in regard to the disposal of joint property. (3) Administration of joint property on mutual agreement of all members of the community can be entrusted to one or more members of the family community (4) Each member of the family community may request the decision on entrustment of administration of the joint property to be revoked. If the other members of the family community do not agree, the decision is taken by the court in an ex-officio procedure.

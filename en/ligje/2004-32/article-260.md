@@ -1,0 +1,3 @@
+# Article 260.
+Release of the Custodian from Obligations
+(1) The Custodian Body shall release the custodian from his obligation on his request no later than three months from the day of request. (2) A relative of the person under custody who is related by blood in a direct blood line (Consanguinity) or who is a brother or sister of the father or mother who is serving as a custodian, shall be only released on his request, if there are no grounds under which the request should be denied. (3) When the Custodian Body acts compliant to Articles 259 or 260, it is obliged to undertake all necessary measures to protect, ensure and maintain all rights and interests of the person under custody. It shall select and appoint a new custodian as soon as possible.

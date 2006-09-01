@@ -1,0 +1,3 @@
+# Article 117.
+Rejection of Paternity of a third Person for a Marital Child
+(1) The person considering himself father of a marital child, may reject paternity of a third person who according to this Law is considered to be father of the child. (2) This applies only in case that the person has lived in cohabitation with the mother of the child at the time of the conception and that with the same claim he requests verification of his own paternity. (3) The claim rejecting paternity provided for in Paragraph (1) of this Article shall be submitted within a period of one year from the child’s birth.

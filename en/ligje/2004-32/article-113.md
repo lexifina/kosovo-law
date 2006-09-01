@@ -1,0 +1,3 @@
+# Article 113.
+Rejection by Husband
+(1) The husband may reject paternity of the child born by his wife during marriage or prior to the expiry of 300 days upon the dissolution of marriage, if he does not consider himself being the father of the child. (2) The claim on the rejection of paternity may be submitted within six months from the time of knowledge of the fact that gave reason for the assumption of paternity. The claim shall not be submitted later than ten years after the child’s birth. (3) If the husband of the child’s mother has been completely divested from her capacity to act, his custodian with the permission of the Custodian Body may submit the claim rejecting his paternity.

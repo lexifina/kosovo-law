@@ -1,0 +1,3 @@
+# Article 62.
+Collision of Marriages
+(1) Marriage entered into at the time of the existing of a previous marriage of one of the spouses is void. (2) Marriage newly bonded at the time of the existence of the previous marriage of one of the spouses shall not be annulled, if the previous marriage was dissolved in the meantime. (3) When both marriages are dissolved simultaneously due to the death of the spouse who entered into a new marriage, while still being legally married to another person, the new marriage shall be annulled, except when the new marriage has lasted for several years and the spouse from the previous marriage has not undertaken actions to re-establish marital community and cohabitation.

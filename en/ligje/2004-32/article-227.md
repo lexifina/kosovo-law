@@ -1,0 +1,3 @@
+# Article 227.
+Temporary Measures
+(1) The court where the procedure for the deprivation of the capacity to act has begun is under the obligation to immediately inform the Custodian Body which, if required, shall assign a temporary custodian to that person. (2) The provisions on custody of minors who have reached 14 years of age apply to the rights and obligations of the temporary custodian from Paragraph (1) of this Article, but the Custodian Body, when it is deemed necessary, may apply to this person the provisions of custody over minors who have not yet reached 14 years of age. (3) The obligations of a temporary custodian are terminated when either a permanent custodian is appointed or upon a court order denying the deprivation of the capacity to act.

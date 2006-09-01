@@ -1,0 +1,3 @@
+# Neni 60.
+Mënyrat e shuarjes së martesës
+(1) Martesa shuhet me vdekjen e bashkëshortit, shpalljen e bashkëshortit të zhdukur të vdekur, anulimit dhe shkurorëzimit. (2) Martesa zgjidhet vetëm pas parashtrimit të padis dhe me vendim të gjykatës përmes anulimit (martesa e pavlefshme) ose zgjidhjes (shkurorëzimit).. (3) Anulimi ose shkurorëzimi prodhojnë efekte juridike kur aktgjykimi i gjykatës për anulimin ose shkurorëzimin e martesës marrin formën e prerë. (4) Kur bashkëshorti i zhdukur shpallet i vdekur, martesa zgjidhet në ditën kur vdekja e bashkëshortit të zhdukur arrihet me aktvendimin e formës së prerë.

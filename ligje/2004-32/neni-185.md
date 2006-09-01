@@ -1,0 +1,3 @@
+# Neni 185.
+Refuzimi i kërkesës për adoptim
+(1) Nëse gjykata në bazë të provave të siguruara dhe të bashkangjitura dhe mendimit të marrë sipas detyrës zyrtare nga neni vijues dhe çmuarjes së të gjitha rrethanave të tjera të konstatuara në procedurën e cila i paraprinë themelimit të adoptimit, kushtet e përcaktuara me këtë ligj për adoptim ose se adoptimi nuk është i dobishëm për të adoptuarin, do të marrë aktvendimin për refuzimin e kërkesës për adoptim. (2) Kundër aktvendimit për refuzimin e kërkesës për adoptim mund të ushtrohet ankesë brenda afatit prej 15 ditësh nga dita e marrjes së aktvendimit.

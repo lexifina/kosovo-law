@@ -1,0 +1,4 @@
+# Article 209.
+Termination of Placement
+(1) Placement within a family terminates:
+1. by agreement of the contracting parties, 2. by withdrawal of the contract, 3. by the time the child reaches full age, respectively thereafter when the child is able to conduct an independent life or marries before that age, 4. with the adoption of the child, 5. upon death of the child or death of the family member who is a party to the contract for the placement in the family. (2) In case of death of one of the parents of the foster family from Paragraph (1) of this Article, the contract for placement with a family remains in force if the other parent, within one month, informs the competent Custodian Body of the continuation of the child’s placement and provided that it is guaranteed that the family in future fulfils the conditions determined by this Law.

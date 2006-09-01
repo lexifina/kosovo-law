@@ -1,0 +1,3 @@
+# Neni 230.
+Kujdestaria e veçantë për vlerësimin e kontesteve
+(1) Kujdestari për raste të veçanta do të emërohet për fëmijën në rastet kur edhe pse prindërit e ushtrojnë kujdesin prindëror, mes tyre dhe fëmijës ekziston kontest, pra për punë juridike të dukshme që kanë të bëjnë me pasurinë e fëmijës. (2) Personit nën kujdestari mund t’i caktohet përkohësisht kujdestari special për kontestet e rënda mes tij dhe kujdestarit. (3) Prindërit, palët adoptuese, kujdestarët, kushërinjtë dhe fqinjët janë të detyruar të njoftojnë Organin e Kujdestarisë kur të vihen në dijeni për çështjet ose rastet e cekura në paragrafët 1 dhe 2 të këtij neni.

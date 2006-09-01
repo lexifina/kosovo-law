@@ -1,0 +1,3 @@
+# Article 54.
+Evaluation of Joint Property in Case of Non Agreement
+(1) When the agreement is not reached while the share of each spouse belongs to the joint property, it shall be decided upon by the court. The decision shall be based on the spouses contribution, by evaluating all circumstances and considering not only personal income and other revenues of each spouse, but assistance of one spouse provided to the other spouse, i.e. children’s care, conduct of housework, care and maintenance of property and any other form of work and co-operation pertaining to the administration, maintenance and increase of joint property. (2) The competent court shall also decide in case of disputes regarding the spouses’ share provided for in this Article.

@@ -1,0 +1,3 @@
+# Neni 172.
+Deklarata e pëlqimit
+(1) Pëlqimi duhet t’i deklarohet gjykatës dhe bëhet i plotfuqishëm në kohën e dorëzimit. (2) Pëlqimi nuk mund të bëhet me kusht dhe me përcaktimin e kohës e as nuk mund të bëhet nga përfaqësuesi. Ai është i parevokueshëm për aq sa pëlqimi nuk është dhënë me lajthim apo me shtrëngim ose mashtrim. (3) Nëse personi që jep pëlqimin është me aftësi të kufizuar të veprimit, pëlqimi i tij nuk kërkon miratimin e përfaqësuesit të tij ligjor. (4) Pëlqimi do të bëhet i jo plotfuqishëm nëse kërkesa është tërhequr ose adoptimi është refuzuar. (5) Pëlqimi i prindit do të bëhet i joplotfuqishëm nëse fëmija nuk adoptohet brenda tri viteve nga data kur pëlqimi bëhet efektiv.

@@ -1,0 +1,3 @@
+# Neni 113.
+Kundërshtimi i atësisë nga burri
+(1) Burri mund të kundërshtojë atësinë e fëmijës të cilin e ka lindur gruaja e tij gjatë martesës ose para kalimit të 300 ditëve nga zgjidhja e martesës, nëse konsideron se nuk është at i fëmijës. (2) Padia për kundërshtimin e atësisë mund të paraqitet brenda afatit prej gjashtë muajsh nga dita e marrjes në dijeni të faktit që vë në dyshim atësinë e tij. Kërkesa nuk mund të dërgohet më vonë se afati prej 10 vjetësh nga lindja e fëmijës. (3) Nëse burrit të nënës së fëmijës i është hequr plotësisht aftësia për të vepruar, padinë për kundërshtimin e atësisë së tij mund ta ngritë kujdestari i tij me lejen e Organit të Kujdestarisë.

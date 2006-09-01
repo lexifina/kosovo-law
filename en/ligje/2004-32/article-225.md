@@ -1,0 +1,3 @@
+# Article 225.
+Obligations of the Custodian
+(1) The custodian of the person who was deprived of his capacity to act has the obligation to take care of the person’s personality and in particular the conditions of his placement. (2) The custodian shall in particular take care of the special situation of the person in his custody with close examination of the causes that brought about the deprivation or limitation of rights. The custodian shall enable the person under his custody to live as far as possible an independent life in dignity. (3) If the custodian concludes that circumstances indicate the need to regain his capacity to act, respectively in case of the need of a revocation of the previous decision, he has the obligation to inform the Custodian Body without delay.

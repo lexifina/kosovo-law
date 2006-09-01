@@ -1,0 +1,3 @@
+# Article 11.
+Liability to pay Damages in Case of Rescission
+(1) If a fiancé resigns from an engagement, he is obliged to pay for any damages to the other fiancé, the parents of the other fiancé or third persons who acted on their behalf. The fiancé is liable for any expenditures or obligations which were invested on expectation of marriage. He is also liable for expenditures or obligations the other fiancé made on expectation of marriage, namely those which affect his assets or employment. (2) Liability for damages is limited to the extend expenditures or obligations were reasonable according to the circumstances. (3) There is no liability if there was an important reason for rescission. (4) Timely limitation for any claims under the rules of engagement is two years.

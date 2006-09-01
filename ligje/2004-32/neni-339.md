@@ -1,0 +1,3 @@
+# Neni 339.
+Palët pjesëmarrëse
+(1) Në kontestet për vërtetim të atësisë, janë personat atësia e të cilëve vërtetohet fëmija dhe nëna e fëmijës. (2) Në kontestet për kundërshtim të atësisë së personit i cili në përputhje me ligjin është menduar të jetë ati i fëmijës, palë në procedurë gjyqësore: personi që kundërshton atësinë, fëmija dhe nëna e fëmijës. (3) Në kontestet ku personi i cili ka menduar se është baba i fëmijës, kundërshtimi i atësisë së personit i cili e ka njohur fëmijën si të tijin, palët në këtë kontest janë: personi i cili refuzon të njohë dhe pranojë atësinë, personi atësia e të cilit është kundërshtuar, fëmija dhe nëna e fëmijës.

@@ -1,0 +1,3 @@
+# Article 172.
+Declaration of Consent
+(1) Consent must be declared towards the Competent Court and becomes legally effective at the point in time it is delivered. (2) Consent may not be made subject to a condition or to a stipulation as to time, nor may it be made by a representative. It is irrevocable, as long as consent was not given by mistake or under coercion or deceit. (3) If the person giving consent has limited capacity to act, his consent does not require the assent of his legal representative. (4) The consent shall become ineffective if the request is withdrawn or the adoption is refused. (5) The consent of a parent shall also become ineffective, if the child is not adopted within three years from the date the consent became effective.

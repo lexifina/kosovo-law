@@ -1,0 +1,3 @@
+# Neni 21.
+Gjinia e gjakut
+(1) Nuk mund të lidhin martesë personat në gjini të gjakut në vijë të drejtë, ose në vijë të tërthortë siç janë vëllau dhe motra prej një ati dhe një nëne, motra dhe vëllau prej atit ose nënës, xhaxhai dhe mbesa, daja dhe mbesa, tezja dhe nipi, as fëmijët e vëllezërve dhe motrave të një ati dhe nëne dhe fëmijët e vëllezërve dhe të motrave prej atit ose nënës; (2) Kjo do të zbatohet edhe për vëllezërit dhe motrat prej një ati ose nënës, si dhe nëse marrëdhënia e tillë ka pushuar së ekzistuari për shkak të adoptimit. (3) Gjinia e gjakut e bashkësisë jashtëmartesore është pengesë për martesë sikurse edhe ajo martesore.

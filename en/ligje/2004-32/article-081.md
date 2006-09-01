@@ -1,0 +1,3 @@
+# Article 81.
+Territorial Legal Competence
+(1) For the reconciliation procedure, jurisdiction lies not only with the Custodian Body in the territory of which is the transient or dwelling place of the defendant, but also with the Custodian Body in the territory of which the spouses had their last joint residence. (2) When procedures commence with the claim for divorce by mutual agreement, the Custodian Body in the territory of which one of the spouses has his transient residence or dwelling place shall be competent for the reconciliation procedure of spouses, as well as the Custodian Body in the territory of which the spouses lastly resided jointly.

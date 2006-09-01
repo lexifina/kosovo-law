@@ -1,0 +1,3 @@
+# Article 121.
+Succession of Rights
+(1) The right to claim rejection of paternity and maternity is not transferred to the successors of authorized persons; however, the successors may continue the commenced procedure, if they have a legal interest in this issue. (2) On exception to provisions of Paragraph (1) of this Article, the successors of the person, who according to this Law is considered being the father of the child, may submit a claim rejecting paternity, if such person was not informed, neither of the conception of the mother, nor of the birth of the child, nor has he lived together with the mother of the child at the time of conception.

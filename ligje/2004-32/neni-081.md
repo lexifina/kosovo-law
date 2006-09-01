@@ -1,0 +1,3 @@
+# Neni 81.
+Kompetenca Territoriale Ligjore
+(1) Për procedurën e pajtimit, përveç Organit të Kujdestarisë në territorin e të cilit ndodhet vendbanimi ose vendqëndrimi i të paditurit, është kompetent edhe Organi i Kujdestarisë në territorin e të cilit bashkëshortët kanë pasur vendbanimin e fundit të përbashkët; (2) Kur procedura fillon me propozimin për shkurorëzim me marrëveshje të dyanshme, kompetent për procedurën e pajtimit të bashkëshortëve është Organi i Kujdestarisë në territorin e të cilit e ka vendbanimin ose vendqëndrimin njëri prej bashkëshortëve si dhe Organi i Kujdestarisë në territorin e të cilit bashkëshortët e kanë pasur vendbanimin e fundit të përbashkët.

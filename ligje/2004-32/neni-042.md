@@ -1,0 +1,3 @@
+# Neni 42.
+Bashkëjetesa martesore
+(1) Bashkëshortët në martesë janë të barabartë, në të gjitha marrëdhëniet personale dhe pronësore. (2) Martesa lidhet për tërë kohëzgjatjen e jetës. (3) Bashkëshortët janë të detyruar të jenë besnik ndaj njëri tjetrit dhe në mënyrë reciproke ta ndihmojnë, respektojnë dhe mbështesin financiarisht njeri tjetrin, posaçërisht në rastet kur njëri prej tyre nuk ka bazë të mjaftueshme materiale për jetesë. (4) Bashkëshortët do të zhvillojnë dhe shprehin ndjenjën e solidaritetit reciprok, si dhe solidaritetin ndaj fëmijëve të tyre të lindur në martesë apo të adoptuar.

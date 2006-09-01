@@ -1,0 +1,3 @@
+# Article 21.
+Consanguinity
+(1) Persons related by blood in a direct blood line (consanguinity) or indirect blood line (kin), such as a brother and a sister from the same father and mother, father’s and mother’s sister and brother, uncle (mother’s brother) and niece, aunt (father’s sister) and nephew, children of mother’s and father’s sisters and brothers from the same mother and father (nephews and nieces), as well as sisters’ and brothers’ children of the same mother and father, shall not enter into wedlock. (2) This also applies for brothers and sisters from one mother or father as well as if the relationship has ceased to exist because of an adoption. (3) Extra-marital consanguinity is the same marriage ban as the marital one.

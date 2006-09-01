@@ -1,0 +1,3 @@
+# Neni 252.
+Raporti i rregullt për Punën
+(1) Në fillim të çdo viti, kujdestari duhet t’i paraqet raport Organit të Kujdestarisë dhe të japë arsyetim për punën e tij gjatë vitit të kaluar. Raportet mujore duhet të jepen me kërkesë të Organit të Kujdestarisë si dhe një raport final që e ndërprenë kujdestarinë e tij. (2) Raporti i kujdestarit duhet të dëshmojë punën dhe kujdesin e tij për personalitetin e personit nën kujdestari e në veçanti kushtet e vendosjes dhe për aq sa është zbatuar për shëndetin, edukimin, arsimimin si dhe të gjitha çështjet tjera të rëndësishme për personalitetin e personit nën kujdestari. (3) Raporti duhet të përmbajë gjithashtu informacionet për të gjitha çështjet pronësore.

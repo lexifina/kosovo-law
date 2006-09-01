@@ -1,0 +1,3 @@
+# Article 212.
+Supervision
+(1) The Custodian Body supervises the child’s development, ensures that protection, care and education of the child is conducted in conformity with the provisions of this Law and with the provisions of the contract for the placement of the child. (2) The competent Custodian Body pays special attention to the development of the child regarding the purposes which led to the placement of the child. (3) The Custodian Body is under the obligation to inform the foster family about the reasons (defects in the provision of care, protection and education of the child) that led to the placement. It shall make proposals on their future avoidance and all necessary regular and timely social measures.

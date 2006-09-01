@@ -1,0 +1,3 @@
+# Article 115.
+Rejection of Paternity on Initiative of the Child
+(1) The child may reject the paternity of a person, who by this Law is considered to be his father. (2) The child may submit a claim rejecting paternity. When the child is a minor or has no capacity to act, the claim on his behalf may be submitted by the mother and, if the mother is no longer alive or her place of residence is unknown or she has been divested from the capacity to act or from parental custody, the claim may be submitted by the custodian with the permission of the Custodian Body. (3) The child’s right to claim is not time barred.

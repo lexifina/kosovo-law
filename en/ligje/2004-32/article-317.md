@@ -1,0 +1,3 @@
+# Article 317.
+Obligation of the Unmarried Father
+(1) The father of a child is obliged to grant financial maintenance for the time span of 6 weeks prior of birth and eight weeks after the birth of a child. (2) This relates also to all costs of pregnancy and delivery of the child. (3) As far as the mother can not engage into employment because of an illness inflicted by pregnancy or delivery, the obligation to provide financial maintenance for the child and alimony to the woman may be timely extended. (4) The same shall apply if the mother can not engage into employment because of care and upbringing of the child. (5) This shall also apply in cases when the child was born dead or has died after birth or during the disability of the child, if caused by birth.

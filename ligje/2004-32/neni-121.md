@@ -1,0 +1,3 @@
+# Neni 121.
+Trashëgimi i të drejtave
+(1) E drejta për padi për kundërshtimin e atësisë, si dhe e drejta për padi për kundërshtimin e amësisë nuk kalon në trashëgimtarët e personave të autorizuar, sidoqoftë trashëgimtarët mund të vazhdojnë procedurën e filluar nëse për këtë gjë kanë interes juridik. (2) Përjashtimisht nga dispozitat e paragrafit 1 të këtij neni, trashëgimtarët e personit që, sipas këtij ligji, konsiderohet at i fëmijës mund të paraqesin padinë për kundërshtimin e atësisë nëse ai person nuk ka qenë i njoftuar as për zënien e nënës as për lindjen e fëmijës, e as në kohën e zënies së fëmijës nuk ka jetuar në bashkësi me nënën e fëmijës.

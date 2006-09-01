@@ -1,0 +1,3 @@
+# Neni 70.
+Parimet e mbrojtjes
+(1) Bashkëshortët nuk do të parashtrojnë padi për shkurorëzim gjatë shtatzënisë së gruas dhe derisa fëmija i tyre i përbashkët t’i këtë mbushur një vit. (2) Së bashku me propozimin për shkurorëzim me marrëveshje të dyanshme, bashkëshortët janë të detyruar të parashtrojnë marrëveshjen me shkrim për përkujdesje, edukim dhe ushqim të fëmijëve të tyre të përbashkët si dhe propozimin me shkrim mbi atë se si kontaktet personale mes fëmiut dhe të dy prindërve do të garantohen në të ardhmen. (3) Leja për shkurorëzim mund të mos jepet ose mund të shtyhet edhe pse martesa ka dështuar vetëm në raste të veçanta nëse dhe përderisa ruajtja e martesës bëhet për arsye specifike, të domosdoshme për interesin e fëmijës.

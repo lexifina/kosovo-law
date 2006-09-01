@@ -1,0 +1,3 @@
+# Article 68.
+Divorce
+(1) Marriage may be dissolved by divorce only upon decision of a court. (2) One spouse or both by mutual agreement may request a divorce by filing a claim with the competent court. (3) The right to file a claim can not be passed on to successors but the successors of the plaintiff may continue the commenced procedure, to verify the foundation of the complaint. (4) When one of the spouses files a claim for divorce and the other spouse expressly declares not to reject the soundness of the requests in the complaint, the latest until the conclusion of the main court session, it shall be considered, that the spouses have submitted a proposal for divorce by mutual agreement.

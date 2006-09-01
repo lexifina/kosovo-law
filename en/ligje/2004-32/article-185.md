@@ -1,0 +1,3 @@
+# Article 185.
+Refusal of the Request on Adoption
+(1) If the Court on the basis of the received and attached evidence and the opinion received according to the preceding Article as well as on the basis of an evaluation of all other circumstances concludes in the procedures preceding the granting of an adoption, that the conditions defined by Law for adoption are not fulfilled or the adoption is not in the interest of the adoptee, the Court shall make a decision refusing the request for adoption. (2) A complaint may be filed against the decision which refuses the request for adoption within a term of 15 days from the day of the decision.

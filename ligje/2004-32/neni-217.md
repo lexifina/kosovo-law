@@ -1,0 +1,3 @@
+# Neni 217.
+Aftësia për të vepruar, përdorimi i të ardhurave
+(1) I mituri nën kujdestari që nuk ka mbushur 14 vjet, nuk mund të ushtrojë vetë punët juridike, me përjashtim të veprimeve më rëndësi të vogël. Për veprimet të cilat nuk mund t’i ushtroj vetë është e nevojshme leja e kujdestarit të tij për ti bërë këto veprime të vlefshme, kurse për veprimet të cilat kujdestari nuk mund t’i ndërmarr vet është e nevojshme leja e Organit të Kujdestarisë. (2) I mituri nën kujdestari që e themelon marrëdhënien e punës, mund t’i disponojë vetë të ardhurat e tij personale dhe pasurinë që e ka fituar me punën e tij. Përveç kësaj ai ka për detyrë që të kontribuojë për ushqimin e tij, edukimin dhe arsimimin në nivel të arsyeshëm.

@@ -1,0 +1,3 @@
+# Neni 68.
+Shkurorëzimi
+(1) Martesa mund të zgjidhet me shkurorëzim vetëm në bazë të vendimit të gjykatës (2) Njëri apo të dy bashkëshortët me marrëveshje të dyanshme mund të kërkojnë shkurorëzim duke parashtruar padi në gjykatën kompetente. (3) E drejta për ngritjen e padis për shkurorëzim nuk mund të kalohet te trashëgimtarët, por trashëgimtarët e paditësit mund të vazhdojnë procedurën e filluar për të verifikuar bazën e padisë. (4) Nëse njëri nga bashkëshortët paraqet padi për shkurorëzim, kurse bashkëshorti tjetër më së voni deri në përfundimin e seancës kryesore gjyqësore, deklaron shprehimisht se nuk e kundërshton bazueshmërinë e kërkesëpadisë, do të konsiderohet se bashkëshortët kanë paraqitur propozimin për shkurorëzim me marrëveshje.

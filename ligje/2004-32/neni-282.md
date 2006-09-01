@@ -1,0 +1,3 @@
+# Neni 282.
+Radha e personave të detyruar
+(1) Bashkëshorti është fillimisht i detyruar t’i jap mbajtje financiare bashkëshortit tjetër. (2) Në rast se detyrimi për mbajtje financiare ekziston ndërmjet disa të afërmve, së pari kanë detyrim pasardhësit e pastaj të afërmit e vijës paraardhëse. (3) Detyrimi për dhënien e mbajtjes financiare për personat në gjini të gjakut caktohet sipas radhës me të cilën mund të thirren në trashëgimi. (4) Ndërmjet disa të të afërmve të cilët janë në marrëdhënie të natyrës së njëjtë, të gjithë këta kanë detyrime në proporcion me mundësitë e tyre financiare. Personi i cili drejtpërdrejt përkujdeset për fëmiun në kujdesin e tij shtëpiak e përmbushë pjesën e tij duke siguruar kujdesin dhe shkollimin.

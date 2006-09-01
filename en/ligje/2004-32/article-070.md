@@ -1,0 +1,3 @@
+# Article 70.
+Principles of Protection
+(1) Spouses shall not file a claim for divorce during the pregnancy of the wife and until their joint child becomes one year old. (2) Together with the proposal for divorce by mutual agreement, spouses are obliged to submit a written agreement of care-taking, educating and feeding their joint children, as well as a written proposal on how personal contacts between the child and both of the parents shall be guaranteed in future. (3) A divorce permission may not be granted or may be postponed, even though the marriage has failed, only in exceptional circumstances, if and as long as the maintenance of the marriage is for specific reasons necessary to the interest of the child.

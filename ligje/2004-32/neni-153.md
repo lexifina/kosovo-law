@@ -1,0 +1,3 @@
+# Neni 153.
+Procedura
+(1) Vendimin për zgjatjen e kujdesit prindëror e merr gjykata kompetente në procedurën jashtëkontestimore me kërkesën e prindërve ose të Organit të Kujdestarisë. (2) Propozimi për zgjatjen e kujdesit prindëror paraqitet para së të mbushë fëmija moshën madhore, sidoqoftë gjykata mund ta zgjasë kujdesin prindëror edhe në rastin kur kërkesa nuk është paraqitur me kohë, nëse në kohën e arritjes së moshës madhore kanë ekzistuar shkaqet për zgjatjen e kujdesit prindëror. (3) Në vendimin për zgjatjen e kujdesit prindëror gjykata do të specifikojë se personi ndaj të cilit është zgjatur kujdesi prindëror është barazuar në të miturin e ri apo më të vjetër se 14 vjet.

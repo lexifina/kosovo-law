@@ -1,0 +1,5 @@
+# Article 245.
+Inventory of Property
+(1) If the person under custody owns substantial property, the Custodian Body is obliged to attach an inventory- and evaluation-report of this property to his work report. This applies the same to the person who performs the obligations of a custodian in the name of the Custodian Body. (2) The following data shall be provided with the inventory:
+1. data of the person under custody 2. data about the custodian respectively a person who acts as a custodian in the name of the Custodian Body to administer the property of the person under custody 3. data on the person who holds things or property subject to the inventory on behalf of the person under custody (3) If the Custodian Body, where it is legally strictly permissible, has initiated the procedure of custody, it can conduct the inventory and evaluation of property of the person under custody and undertake all necessary measures to protect this property, even before making the final decision for placement under custody.
+3. Representation

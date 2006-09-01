@@ -1,0 +1,3 @@
+# Article 108.
+Court Procedure on Disagreement
+(1) If the mother of the child or the child older than 16 years of age, or the custodian of the child does not agree with the recognition of paternity, where such consent is required or they do not declare themselves concerning this issue within 30 days after being informed of the recognition, the person who has recognized the child as his own may submit a claim to the court, in order to verify that he is father of the child. (2) The claim may be submitted within a period of three years after being informed about the disagreement of the mother of the child. If in the meantime paternity of another person has been verified, the claim rejecting paternity of such person shall not be submitted after the expired date.

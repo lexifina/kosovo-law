@@ -1,0 +1,3 @@
+# Article 79.
+Attendance, Waive of Proposal
+(1) Both spouses are summoned to personally participate in the session in efforts to achieve reconciliation. (2) When one or both spouses duly summoned do not justify the absence at the session in efforts to reach reconciliation, the court shall evaluate whether to assign a new session or conclude that reconciliation has failed. (3) When one or both spouses who through a joint proposal have initiated the procedures for divorce by mutual agreement do not appear in the session in efforts to reach reconciliation and their absence is not justified, it shall be considered, that they have waived the proposal.

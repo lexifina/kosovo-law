@@ -1,0 +1,3 @@
+# Neni 128.
+Parimet
+(1) Përgjegjësia prindërore rezulton fillimisht nga e drejta për kujdes prindëror (2) Fëmija është nën përgjegjësi prindërore deri në moshën madhore. (3) Prindërit janë të detyruar të sigurojnë në çdo kohë që parimet e përcaktuara në nenin 125 të këtij Ligji përdoren për mbrojtjen e fëmijëve të tyre të mitur. (4) Përgjegjësia prindërore përfshin të drejtat dhe detyrat që kanë për qëllim të sigurojnë mirëqenien emocionale, sociale dhe materiale të fëmijës, duke u kujdesur për të, duke mbajtur raporte vetjake me të, duke i siguruar atij mirërritjen, edukimin, arsimimin, përfaqësimin ligjor dhe administrimin e pasurisë. (5) Duke i zbatuar këto parime, prindërit duhet t’i kenë në konsiderim aftësitë, prirjet dhe dëshirat e fëmijëve të tyre.

@@ -1,0 +1,3 @@
+# Article 204.
+Placement
+(1) Children without parents or children without parental care are guaranteed a placement in a family until they are considered being able to lead an independent life and work. (2) Placement is possible within a family of children with two parents or one parent. (3) Placement is determined with the preliminary approval of the biological parents of the child and, as a rule, it lasts for the duration of the circumstances which gave rise to the placement. (4) After the placement of the child with another family, the Custodian Body undertakes immediately all necessary means to address and in future to avoid all circumstances which made the placement with a foster family necessary.

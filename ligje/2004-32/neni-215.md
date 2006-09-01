@@ -1,0 +1,4 @@
+# Neni 215.
+Parimet e kujdestarisë për të miturit dhe të rriturit
+(1) Fëmijët e mitur vendosen në kujdestari dhe gëzojnë mbrojtje të veçantë nga institucionet publike 1. kur prindërit e tyre janë në pamundësi për të ushtruar kujdesjen prindërore, 2. për shkak se të dy prindërit kanë vdekur ose nuk njihen, janë shpallur të zhdukur, u është hequr kujdesi prindëror ose kanë humbur aftësinë për të vepruar, 3. apo për çdo shkak tjetër i cili me vendim të gjykatës jep arsye për vendosje në të mirë të mirëqenies së fëmijës. (2) Qëllimi i kujdestarisë ndaj personave të moshës madhore është mbrojtja e personalitetit të tyre dhe do të manifestohet në radhë të parë me kujdesin personal, aftësim për jetë të pavarur dhe me mjekim. (3) Kujdestaria ka për qëllim gjithashtu sigurimin e të drejtave pasurore dhe të të drejtave të tjera dhe interesave të personave nën kujdesje.
+II. KUJDESTARIA NDAJ TË MITURVE

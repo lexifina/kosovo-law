@@ -1,0 +1,4 @@
+# Article 352.
+Enforcement Procedures
+(1) On the occasion of compulsory enforcement, the court will consider the emergency nature of the procedure and the need to protect the personality of the child to the maximum extent. (2) The court, after evaluating all the circumstances of the case, will decide whether to apply the enforcement by determining fines against the person, where the child is found or whether to remove the child from the person or not. (3) If the purpose of enforcement cannot be achieved by a decision of fines, enforcement shall be applied by taking the child from the person where the child is found and handing over the child to the parent or another person to whom the child has been entrusted to for protection and education. (4) In the enforcement procedures the court shall seek for opinion of the Custodian Body.
+VI. TRANSITIONAL AND FINAL PROCEDURES

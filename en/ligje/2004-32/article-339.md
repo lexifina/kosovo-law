@@ -1,0 +1,3 @@
+# Article 339.
+Participating Parties
+(1) In disputes for the verification of paternity, parties of the lawsuit are the person whose paternity should be verified, the child and the mother of the child. (2) In disputes challenging the paternity of the person, who according to the Law is deemed to be the father of the child participating parties are: the person challenging paternity, the child and the mother of the child. (3) In disputes where the person, who deems himself to be the father of the child, challenges the paternity of the person who has recognized the child as his own, the parties in the dispute are: the person who refuses to recognize the accepted paternity, the person whose paternity is being objected, the child and the mother of the child.

@@ -1,0 +1,3 @@
+# Neni 250.
+Kërkesa për veprimet që duhet të ndërmerren
+(1) Kujdestari, prokurori publik, komuna në territorin e së cilës personi nën kujdestari ka vendbanimin ose vendqëndrimin, personi i afërt në gjini i të kujdesurit, organizatat humanitare ose personat e tretë të pa përfshirë, mund të bëjnë kërkesë apo propozim për çdo çështje para Organit të Kujdestarisë për të ndërmarrë veprimet dhe masat e nevojshme të kujdestarisë për të mbrojtur interesat e personit nën kujdestari. (2) Kundër aktvendimit të Organit të Kujdestarisë më të cilin refuzohet ndërmarrja e veprimeve dhe masave të kujdestarisë, paraqitësi i kërkesës nga paragrafi 1 i këtij neni mund t’i parashtron ankesë organit të shkallës së dytë brenda afatit prej 15 ditësh nga dita e marrjes së vendimit.

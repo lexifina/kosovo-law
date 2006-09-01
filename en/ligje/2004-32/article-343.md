@@ -1,0 +1,3 @@
+# Article 343.
+Protection of Children by Special Custodians
+(1) If a child and the parent, who is the legal representative of the child, jointly file a lawsuit for the verification or refusal of paternity, respectively, if they are defendants in the same suit, that parent shall also represent the child in the lawsuit but the Custodian Body may appoint to the child a special custodian if there are conflicting interests between the parent and child in the same suit. (2) If the child and parent, who is the legal representative of the child, have opposing interests in the suit as plaintiff and defendant, the Custodian Body shall assign a special custodian to the child.

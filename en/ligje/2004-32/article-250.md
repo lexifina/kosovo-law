@@ -1,0 +1,3 @@
+# Article 250.
+Request for Actions to be taken
+(1) The custodian, public prosecutor, commune in whose territory the person under custody is residing or domiciled, a relative to the person under custody, humanitarian organizations or non-involved third persons can make a request or proposal in any matter of custody to the Custodian Body, to undertake actions and measures of custody, required for the protection of interests of the person under custody. (2) The applicants mentioned in Paragraph (1) of this Article may file a complaint to the second instance against a decision of the Custodian Body refusing custody measures and actions within a term of 15 days from the day of the decision.
