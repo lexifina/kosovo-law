@@ -1,0 +1,2 @@
+# Neni 15
+15.1 Marrja e mostrës nga personi zyrtarë bëhet me procesverbal në të cilin duhet të evidentohen: pronari, koha e saktë dhe data e marrjes së mostrës, lloji i analizës, sasia e qumështit nga e cila është marrë mostra dhe sasia e mostrës, 15.2 Enët për marrjen e mostrës duhet të jenë të pastra dhe nga materiali që nuk ndikon në cilësitë organoleptike, fizike, kimike dhe mikrobiologjike të mostrës, 15.3 Mostra duhet të mbyllet dhe bllombohet, 15.4 Transporti i mostrës bëhet me pajisje adekuate që garantojnë ruajtjen e vetive të mostrës.
