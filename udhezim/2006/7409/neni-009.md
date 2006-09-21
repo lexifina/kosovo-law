@@ -1,0 +1,3 @@
+# Neni 9
+9.1 Shpenzimet e krijuara për qëndrimin e kafshëve në karantinë i bartë pronari i kafshës dhe ato do t’ia paguaj pronarit të objektit të karantinës, ndërsa për kafshët pa pronar, shpenzimet do t’i bartë Agjencioni i Veterinarisë dhe Ushqimit i Kosovës të cilat do t’i mbulojë nga një pjesë e mjeteve nga shitja e mishit nga neni 8 i këtij udhëzimi administrativ.
+9.2 Agjencioni i Veterinarisë dhe Ushqimit të Kosovës, një pjesë të mjeteve të përfituara nga shitja e mishit do t’i shfrytëzojë për kompensimin e pronarëve të thertoreve në të cilat janë therur kafshët - sipas çmimit real për therjen e kafshëve.

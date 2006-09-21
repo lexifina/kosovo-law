@@ -1,0 +1,3 @@
+# Neni 2
+Përkufizimet
+Për kuptimin e këtij udhëzimi administrativ, termat e përdorura, kanë këtë domethënie: Karantinë - nënkupton tërësinë e masave epizootike në vendin dhe në kohën e caktuar për vërtetimin e gjendjes shëndetësore të kafshëve. Objekti i karantinës - nënkupton hapësirën, objektin ose grupin e objekteve si dhe hapësirën e hapur për rreth objektit në të cilin në kushtet e izolimit të plotë mbahen kafshët që të parandalohet kontakti me kafshë të tjera derisa të zgjatë procedura për vërtetimin e gjendjes shëndetësore të tyre. Dythundrakët - nënkupton gjedhet, buallicat, delet, dhitë dhe derrat, Njëthundrakët - nënkupton kuajt, gomarët, mushkat dhe mullat.

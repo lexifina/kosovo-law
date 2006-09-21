@@ -1,0 +1,2 @@
+# Neni 7
+Në rast se dyshohet për praninë e ndonjë sëmundjeje infektive, apo në rast se analizat e marruara laboratorike janë vonuar dhe nuk janë konfirmuar brenda afatit nga neni 5 i këtij Udhëzimi Administrativ, Kryeshefi Ekzekutiv i Agjencionit të Veterinarisë dhe Ushqimit të Kosovës mund të marrë vendim për zgjatjen e afatit të qëndrimit të kafshëve në karantinë për të cilën ai konsideron se është e nevojshme.
