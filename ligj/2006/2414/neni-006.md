@@ -1,0 +1,5 @@
+# Neni 6
+6.1. Konsiderohet se dizajni ka qenë i paraqitur për publikun nëse është publikuar me procedurën e regjistrimit apo në mënyrë tjetër i ekspozuar apo përdorur në tregti apo është bërë i njohur në mënyra tjera. Nuk konsiderohet se dizajni ka qenë i njohur për publikun edhe nëse nën kushtet e mësheftësisë, është njoftuar personi i tretë.
+6.2. Risia e dizajnit nuk do të merret parasysh nëse dizajni për të cilin kërkohet mbrojtja ka qenë i paraqitur publikut: nga ana e dizajnuesit, nga ana e trashëgimtarit të tij juridik apo personit të tretë, si rezultat i të dhënave të dhëna apo aktiviteteve të ndërmarra nga ana e dizajnuesit apo nga ana e trashëgimtarit të tij juridik, gjatë periudhës prej 12 muajve para datës së paraqitjes së aplikacionit të dizajnit industrial, apo nëse është kërkuar e drejta e përparësisë, para datës të të drejtës së pranuar të përparësisë.
+6.3. Dispozitat nga paragrafi 2 të këtij neni do të zbatohen edhe në rastet kur dizajni është bërë publik si pasoj e keqpërdorimit në dëm të dizajnuesit apo të trashëgimtarit të tij.
+DIZAJNI I KUSHTËZUAR ME FUNKSION TEKNIK DHE DIZAJNI I ELEMENTEVE TË PËRBASHKËTA

@@ -1,0 +1,7 @@
+# Neni 36
+36.1. Paraqitësi i aplikacionit për dizajnin industrial mundet njëkohësisht bashkë me aplikacion të parashtroj edhe kërkesën për shtyrjen e publikimit të dizajnit industrial të regjistruar, për periudhën deri në 12 muaj duke llogaritur kohën nga data e paraqitjes së aplikacionit apo të kërkesës ndaj Zyrës, ndërsa nëse është kërkuar e drejta e përparësisë, nga data e përparësisë së pranuar.
+36.2. Nëse është kërkuar shtyrja e publikimit të dizajnit industrial në buletinin zyrtar të zyrës do të publikohet në mënyrën e paraparë me akte tjera nënligjore për zbatimin e këtij Ligji, vetëm fakti se dizajni industrial është i regjistruar.
+36.3. Në rastet nga paragrafi 1 i këtij neni Zyra pas skadimit të afatit të shtyre do të fton paraqitësin e aplikacionit apo bartësin e dizajnit industrial që në afat prej 30 ditësh nga dita e pranimit të ftesës të paraqet fotot dhe paraqitjet grafike të dizajnit të aplikacionit, në përputhje me nenit 25. paragrafi 1. pika c. të këtij ligji.
+36.4. Nëse bartësi i dizajnit industrial nuk i përmbush kërkesat nga paragrafi 3. të këtij neni apo nëse nuk ka paguar kompensimin e shpenzimeve të procedurës së mirëmbajtjes për periudhën e parë pesëvjeçare do të konsiderohet se dizajni industrial nuk ka prodhuar efekte juridike.
+36.5. Nëse është fjala për dizajn industrial të shumëfishtë, paragrafi 1. dhe paragrafi 3. të këtij neni mund të zbatohen edhe në njërën nga disa dizajnë që e përmban aplikacionin.
+DOKUMENTI MBI DIZAJNIN INDUSTRIAL

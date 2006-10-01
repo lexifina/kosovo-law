@@ -1,0 +1,5 @@
+# Neni 29
+29.1. Nëse aplikuesi për dizajnin industrial ka bërë paraqitjen për herë të parë në ndonjë vend anëtar të Unionit ndërkombëtar të themeluar me konventën e Parisit për mbrojtjen e pronës industriale (në tekstin e mëtutjeshëm: Unioni i Parisit), me rastin e aplikimit për të njëjtin dizajn industrial në Kosovë, mund të thirret në datën e aplikimit të parë, me kusht që aplikimin në Kosovë ta bëjë brenda afatit gjashtë muaj nga kjo datë.
+29.2. Aplikuesi që thirret në të drejtën e përparësisë lidhur me paragrafin 1. të këtij neni, në paraqitjen e tij në Zyrë duhet të deponoj të dhënat themelore mbi aplikimin në të cilin thirret (shteti, data dhe numri i aplikimit), dhe atë më së voni brenda afatit tre muaj nga data e aplikimit në Zyrë duke prezantuar përshkrimin e aplikimit të parë të vërtetuar nga organi i autorizuar i shtetit anëtar të Unionit të Parisit si dhe përkthimin e përshkrimit në gjuhën zyrtare që aplikohet në Kosovë.
+29.3. Nëse paraqitësi i aplikacionit nuk i përmbush kushtet e cekura nga paragrafi 1. i këtij neni , konsiderohet se përparësia nuk është kërkuar.
+E DREJTA E PËRPARËSISË SË EKSPOZIMIT

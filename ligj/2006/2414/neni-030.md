@@ -1,0 +1,5 @@
+# Neni 30
+30.1. Nëse aplikuesi ka bërë ekspozimin e produktit që përbën dizajn industrial në ndonjë ekspozitë zyrtare ose në ndonjë ekspozitë ndërkombëtare zyrtarisht të pranuar në Kosovë ose në ndonjë shtet anëtar të Unionit të Parisit, mund të kërkoj që si datë e aplikacionit të parë ti pranohet data e parë e ekspozimit të produktit, me kusht që paraqitjen në Kosovë ta bëjë brenda afatit 6 muaj nga data e cekur.
+30.2. Aplikuesi i cili thirret në të drejtën e përparësisë mbi bazën e ekspozimit të produktit është i detyruar që krahas paraqitjes në Zyrë të deponojë edhe vërtetimin e lëshuar nga ana e organit të autorizuar të shtetit anëtar të Unionit të Parisit në të cilin vërtetohen të dhënat mbi llojin e ekspozitës, vendin e mbajtjes së ekspozitës, datën e hapjes dhe mbylljes dhe ditën e parë të ekspozimit të produktit të dhënë në aplikime, si dhe dëshmia mbi dizajnin e produktit të paraqitur në ekspozitë.
+30.3. Nëse paraqitësi i aplikacionit nuk i përmbush kushtet e cekura ne paragrafi 2. të këtij neni konsiderohet se përparësia nuk është kërkuar.
+PËRCAKTIMI I DATËS SË PARAQITJES SË APLIKACIONIT TË DIZAJNIT INDUSTRIAL
