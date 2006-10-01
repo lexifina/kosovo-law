@@ -1,0 +1,5 @@
+# Neni 17
+17.1. Mjetet matëse ligjore plasohen në treg vetëm nëse janë të shqyrtuara në përputhje me procedurat e përcaktuara, nëse ato plotësojnë dispozitat metrologjike dhe nëse janë të shënuara me shenjat e përcaktuar, që tregojnë se ato janë të verifikuara.
+17.2. Drejtori i IMLK-së i përcakton procedurat e shqyrtimit të mjeteve matëse të cilat plasohen në treg, llojin dhe përmbajtjen e dokumentacionit që e përcjellin mjetin matës, llojin dhe formën e shenjës, po ashtu edhe mënyrën e shënimit të mjeteve matëse ligjore të cilat përmbushin kërkesat e përshkruara teknike dhe metrologjike.
+17.3. Mjetet matëse të cilat janë plasuar në treg në bazë të dispozitave tjera mund të përdoren në fushën e metrologjisё ligjore vetëm nëse kanë kaluar procedurat e përcaktuara të vlerësimit të konformitetit me dispozita, nëse i plotësojnë kërkesat themelore të përcaktuara, dhe nëse janë të shënuara veçanërisht me shenjë të paraparë të konformitetit, me të cilën prodhuesi, importuesi apo përfaqësuesi i kompanisë së jashtme (në vazhdim të teksti,furnizuesi) garanton se mjetet matëse i përmbushin kërkesat e përshkruara metrologjike.
+PËRDORIMI I MJETEVE MATËSE

@@ -1,0 +1,6 @@
+# Neni 59
+59.1. Personat juridik dhe fizik të cilët i nënshtrohen mbikëqyrjes së inspektorit janë të obliguar që të mundësojnë kryerjen e mbikëqyrjes në pajtim me dispozitën e nenit 57. të këtij ligji dhe ti krijojë kushtet për punë të pa pengueshme.
+59.2. Konsiderohet se personat juridik apo fizik të mbikëqyrur nuk e kanë mundësuar mbikëqyrjen nga paragrafi 1. i këtij neni edhe në rast se në afat të përcaktuar në procesverbal të inspektorit nuk i krijohet mundësia e shqimit të mjeteve matëse apo produkteve të para paketuara të cilat janë lëndë e mbikëqyrjes si dhe në dokumentacionin e kërkuar të punës dhe dokumentet tjera të nevojshme për të vërtetuar gjendjen momentale gjatë mbikëqyrjes.
+59.3. Personat juridik dhe fizik nga paragrafi 1. i këtij neni janë të obliguar që me kërkesë të inspektorit përkohësisht ta ndërpresin punën e objektit që mbikëqyret gjatë kohës së mbikëqyrjes inspektuese, nëse inspektori nuk mundet në ndonjë mënyrë tjetër ta kryej inspektimin dhe të vërtetojë gjendjen momentale.
+59.4. Pas kryerjes së mbikëqyrjes inspektuese, Inspektori mund të kërkojë nga personat juridik dhe fizik, kryerjen e punëve të veçanta gjatë procedurës, me qëllim të vërtetimit të plotë të gjendjes momentale dhe të përcaktojë afatin e kryerjes së tyre.
+PARAQITJA E TË DHËNAVE

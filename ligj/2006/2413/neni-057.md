@@ -1,0 +1,6 @@
+# Neni 57
+57.1. Inspektori i metrologjisë gjatë ushtrimit të mbikëqyrjes inspektuese ka të drejtë të hyjë dhe të kontrollojë hapësirat punuese dhe objektet ku prodhohen, ruhen apo përdoren mjetet matëse ligjore dhe para paketimit, pajisjet, mjetet e punës dhe automjetet, ka të drejtë t’i shikoj librat e punës, aktet, evidencën dhe raportet e testimeve të personave juridik të autorizuar si dhe të metrologut të autorizuar.
+57.2. Inspektori i metrologjisë është i autorizuar që në procedurën e mbikëqyrjes të kërkoj dhe të kontrolloj dokumentet, në bazë të cilave mund të vërtetohet identiteti i personit që mbikëqyret, (kartela personale, lejeqarkullimi, etj), ndërsa personat e mbikëqyrur janë të obliguar që me kërkesë të inspektorit ti jepet një dokument i tillë identifikues në shqim.
+57.3. Personat juridik të autorizuar dhe personat tjerë juridik dhe fizik, tek të cilët kryhet mbikëqyrja inspektuese, janë të obliguar, që inspektorit të metrologjisë t’i mundësojnë kryerjen e mbikëqyrjes dhe ti ofrojnë të dhënat e nevojshme dhe informatat.
+57.4. Gjatë kryerjes së mbikëqyrjes inspektuese, inspektori mund të marr deklaratat nga përfaqësuesit e personave juridik dhe fizik të mbikëqyrur, si dhe nga dëshmitarët.
+INFORMIMI I PERSONIT TË MBIKËQYRUR
