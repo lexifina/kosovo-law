@@ -1,0 +1,2 @@
+# Neni 10
+Në sesionin kryesor të Librit Amëz regjistrohen krerët e racave të pastra ose hibrideve të krijuara nga Programet e njohura dhe të vërtetuara të cilët i plotësojnë këto kërkesa: a). Të janë pasardhës të prindërve dhe gjyshërve të futur në Libër Amëz të të njëjtës racë, b). Të janë të identifikuara pas pjelljes në pajtim me rregullat e Librit Amëz dhe c). Të kanë certifikatën mbarështuese sipas rregullave të Librit Amëz.
