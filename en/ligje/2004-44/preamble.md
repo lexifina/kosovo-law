@@ -1,0 +1,2 @@
+KOSOVO / PRISHTINA: YEAR I / NO. 6 / 01 NOVEMBER 2006
+Law No.2004/44 ON CRAFTS Kosovo Assembly According to Regulation Nr.2001/9 of May 15th 2001 of Constitutional Framework for Provisional Self-Government in Kosovo based on Chapters 5.1(d), 9.1.1, 3.3, 11.2, By taking into consideration the needs of establishing a modern system to protect the craftsmanship as an independent economic activity and in order to become it as profitable business and increase the presence into the market the craftsmanship products and services. Adopts: LAW ON CRAFTS I. GENERAL PROVISIONS

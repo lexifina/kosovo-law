@@ -1,0 +1,5 @@
+# Article 51
+51.1. If the workshop and/or other spaces available for craft activity are out of conditions defined by respective provisions, the competent inspectorate decides on which the craftsman is liable to avoid irregularities within targeted time schedule.
+51.2. In a case the complaint regarding the paragraph nr. 1 of this Article are not recovered within determined period of time, the competent inspectorate decides to suspend craft activity exercising and close the location and also bans the employment of machineries and equipments relating to craft business.
+51.3. In the case of violations of sanitary and health standard conditions, such risky as to evidence negative consequences on people’s life, competent inspectorate decides on suspension of craft activities until a recovery period decided to eliminate such irregularities.
+51.4. In a case of complaint regarding the paragraph n 2 and 3 of this Article, the complaint against the decision act does not prohibit its execution. Punitive Provisions

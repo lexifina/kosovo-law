@@ -1,0 +1,4 @@
+# Article 12
+12.1. Comptetent authority of local administration must issue a license to the natural person who meets the terms and conditions of Article 5. paragraph 1. point a.b.c.d.e. f. and paragraph 2 of this Article.
+12.2. The Competent Authority of local administration issues the license is liable to verify the conditions respected as stated per Article 5. paragraph 1. and 2 of this Law, 12.3. Competent authority of local administration issues and communicates the negative decisions on craft activity license applicant no later than 15 days from the date the license application was introduced.
+12.4. If it happens that within the time terms no answer is awarded, then the craft activity is considered as open to start the business and a written notice must be sent to the competent authority.

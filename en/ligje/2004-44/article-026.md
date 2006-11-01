@@ -1,0 +1,4 @@
+# Article 26
+26.1. If the heirs of the dead owner of a craft business prefers to follow up the craft business by being managed by a master, the heirs are liable to inform the competent authority within a period of time no more then 30 days from the date the will enters into power.
+26.2. To the file stated to paragraph 1. of this Article must be attached the following documents: a). Death Certificate, b). Will act, c). Name and Surname of the master and a certificate the master matches the terms and conditions defined by Article 5. and Article 8. of this Law, d). Descendant’s Declaration where it is stated the agreement to follow up the craft business by appointing a registered/named master.
+26.3. According to paragraph 1. Of this Article, the competent authority issues a decision deed and the assignment of craft activity to the master is registered in Craft Activity Register.

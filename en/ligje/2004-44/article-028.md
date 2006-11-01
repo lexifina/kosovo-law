@@ -1,0 +1,4 @@
+# Article 28
+28.1. Persons mentioned in paragraph 1 and 2 of Article 27 of this Law, can assign on them the license and follow up leading craft activity through a master, and are liable to inform the competent authority of local administration within a period of 30 days by the court decision date on the assignment.
+28.2. According to paragraph1 of this Article they are liable to attach the following: a). Final Court decision, where is stated that the craftsman shall not be physically capable to carry out the respective craft activity. b). Name and surname of the master and a certificate where it stated that the master matches the provisions of Article 5 and 8 of this Law.
+28.3. According this Article paragraph 1, the competent authority decides and registers the license assignment for craft activity continuing through a master.
