@@ -1,0 +1,2 @@
+# Neni 15
+Qeveria e Kosovës në bashkëpunim të ngushtë me UNMIK-un mund të përgatisë mënyrat e informimit të autoriteteve jashtë Kosovës, për masat e Ministrive përkatëse me të cilat ndalohet ose kufizohet vendosja e ndonjë produkti në treg dhe/ose përdorim, apo urdhëron tërheqjen e tij nga qarkullimi për shkak të interesit publik, dhe nëse ato masa ndikojnë në shkëmbimin e lirë të mallrave në tregtinë ndërkombëtare.
