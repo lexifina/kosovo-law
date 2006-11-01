@@ -1,0 +1,3 @@
+# Neni 9
+9.1.Lojërat zbavitëse siç janë lojërat në kalkulator, simulator, automatë, flipër, biliar si dhe lojërat që vëhen në lëvizje nëpërmjet parave metalike apo të zhetonave në të cilat lojëtari nuk mund të fitojë para, sende apo të drejta, nuk janë lojëra të fatit sipas këtij ligji.
+9.2. Konkurset shpërblyese dhe lojërat e shpërblyese që i organizon subjekti juridik me qëllim propagandistik nuk janë lojëra të fatit në pajtim me këtë ligj dhe të njëjtat, mund të organizohen me kusht që pjesëmarrja në lojë të mos inkasohet, veçanërisht që shpërblimi të paguhet në prodhime apo shërbime dhe që rregullat e lojës në bazë të lejës së Ministrisë për Ekonomi dhe Financa të shpallen në shtypin ditor.

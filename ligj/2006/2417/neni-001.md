@@ -1,0 +1,3 @@
+# Neni l
+1.1. Me këtë ligj përcaktohen dhe rregullohen kushtet, mënyra dhe subjektet që organizojnë dhe ushtrojnë lojërat e fatit, llojet e lojërave të fatit, parimet themelore të rregullave për sistemimin e të hyrave nga lojërat e fatit, themelimi, pozita juridike, qeverisja dhe menaxhimi i Lotarisë së Kosovës, kompensimi për ushtrimin e lojërave të fatit, mbikëqyrja, dënimet kundravajtëse si dhe çështje të tjera me rëndësi për lojërat e fatit në Kosovë.
+1.2. Ushtrimi i lojërave të fatit në territorin e Kosovës realizohet nëpërmjet Lotarisë së Kosovës dhe të subjekteve të tjera juridike të regjistruara dhe të licencuara për ushtrimin e lojërave të fatit.
