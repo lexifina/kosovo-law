@@ -1,0 +1,4 @@
+# Neni 8
+8.1 Përforcuesit e njehsorit duhet të jenë të grupuara në kutinë lidhëse e cila është e mbrojtur me kapak të veçantë. Kapaku i kutisë lidhëse duhet të jetë montuar ashtu që të mund të mbrohet me blombë, veçmas nga kapaku i njehsorit.
+8.2 Kapaku i kutisë lidhëse duhet të mbyllë përforcuesit, vidat për përforcimin e përçuesit dhe gjatësinë e nevojshme të përçuesve të jashtëm dhe izolimin e tyre ashtu që të pamundësohen intervenimet nga jashtë të cilat, përmes përforcuesve dhe përçuesit, do të mund të ndikonin në punën e njehsorit.
+8.3 Tek njehsorët për lidhje të drejtpërdrejtë duhet të ekzistojë mundësia që qarku i tensionit të çmontohet nga qarku përkatës i rrymës me ndihmën e pjesës përkatëse në kutinë lidhëse p.sh. ura). Montimi i asaj pjese duhet të jetë në përputhje me skemat standarde të lidhjeve.

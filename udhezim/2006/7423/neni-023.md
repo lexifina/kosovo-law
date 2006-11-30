@@ -1,0 +1,2 @@
+# Neni 23
+Në qoftë se gjatë testimit të tipit të njehsorit konstatohet se disa apo të gjitha rezultatet e matjes janë jashtë kufijve të përqindjes së gabimeve të paraqitura në tabelën 12 dhe 13 të nenit 33 të këtij Udhëzimi, atëherë bëhet shtyrja e boshtit të apcisës paralelisht me të për vlerën ± 0,5% për njehsorët e klasës së saktësisë 1, dhe ± 1% për njehsorët e klasës së saktësisë 2. Në qoftë se të gjitha rezultatet e matjes janë brenda kufijve të përqindjes së gabimeve të dhëna në tabelën 12 dhe 13 të nenit 33 të këtij Udhëzimi, njehsori është në gjendje të rregullt.
