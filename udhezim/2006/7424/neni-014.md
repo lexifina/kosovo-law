@@ -1,0 +1,4 @@
+# Neni 14
+14.1 Burimet për furnizimin e pajisjeve për testimin e njehsorëve në ndryshimin e tensionit furnizues për ± 10 % dhe frekuencë për ± 1 % nga vlerat nominale,në pikat dalëse të pajisjes për testimin e njehsorëve që sigurojnë kushtet e referuara (në shikim të vlerës së tensionit , rrymës dhe frekuencës , formën valore të rrymës dhe tensionit , radhitja e fazave dhe barazimin e tensionit dhe rrymës) në pajtim me kërkesat teknike metrologjike për klasën e saktësisë dhe llojin e njehsorëve të cilët shqyrtohen.
+14.2 Koha e rregullimit të tensionit nuk mund të jetë ma gjatë se 0,5s.
+14.3 Me ndryshimin e ngarkesës të burimit të furnizimit nga hapi i zbrazët deri 75 % të ngarkesës nominale , ndryshimi i tensionit të stabilizuar nuk mund të jetë më shumë se ± 0,1 % përkatësisht ± 0,05 % të fushës matëse nominale , gjatë së cilës koha e rregullimit të tensionit nuk mund të jetë më e gjatë se 1s.
