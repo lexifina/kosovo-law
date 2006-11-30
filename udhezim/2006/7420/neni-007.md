@@ -1,0 +1,3 @@
+# Neni 7
+7.1 Nëse parashtruesi i kërkesës paraprakisht nuk e përgatit mjetin matës për testim , përkatësisht nuk siguron numër të nevojshëm të punëtorëve dhe pajisjeve për testim, ndërsa zyrtari i DMK-së del sipas kërkesës në vendin e testimit dhe me kërkesën e palës pret deri sa mjeti matës përgatitet për verifikim , kompensimi për kohën e pritur paguhet me orë pune .
+7.2 Nëse verifikimi i mjetit matës realizohet në laboratorët e DMK-së, ose personat juridik të autorizuar, për mjetet matëse të cilët nuk janë të pastruar dhe përgatitur për testim, kompensimi për punët e mësipërme të kryera paguhen me orë pune.

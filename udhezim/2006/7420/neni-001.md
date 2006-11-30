@@ -1,0 +1,2 @@
+# Neni 1
+Me këtë udhëzim administrativ përcaktohet lartësia dhe mënyra e pagesës së kompensimit për mbulimin e shpenzimeve të kalibrimit të etalonëve dhe mjeteve matëse, testimeve të konformitetit të mjeteve matëse dhe para paketimeve me dispozita, testimit të tipit të mjeteve matëse, verifikimin e mjeteve matëse, matjeve zyrtare dhe profesionale si dhe testimi i aftësisë së personave juridik dhe laboratorëve (serviseve të autorizuar), (në vazhdim të tekstit Tarifa), e cila është si shtojcë e këtij udhëzimi.
