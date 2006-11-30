@@ -1,0 +1,3 @@
+# Neni 6
+6.1 Vula në formën e plumbçës plastike punohet nga materiali termoplast me ngjyrë të: kuqe, bardhë, kaltër, verdhë, gjelbër, dhe ka formën e cila është e paraqitur në fig.8 , ndërsa madhësia e saj është 25 mm x 18 mm . Vula përbëhet prej dy pjesëve të lidhura ndërmjet veti dhe telit mbrojtës, lidhëses nga termoplasti me ngjyrë të bardhë në të cilën shënohet viti i skadimit të vlefshmërisë verifikuese (XXXX).
+6.2 Në njërën anë të kësaj vule shënohet shenja e vulës në formë të barkodit me gjashtë shifra me rritje të vazhdueshme e cila garanton vulën e rëndësisë së njëjtë, numrin serik të barkodit identifikues shenjat si dhe logoja e MTI-së.

@@ -1,0 +1,17 @@
+# Neni 5
+5.1 Laboratorët përdorin këto vula për shtypje:
+a) Vula verifikuese bazë, b) Vula verifikuese vjetore, c) Vula verifikuese vjetore për mjetet matëse të imta, d) Vula verifikuese vjetore për testimet paraprake të mjetit matës, përkatësisht për pjesët
+përbërëse të mjetit matës, e) Vula për asgjësimin e vulës verifikuese.
+5.2 Vulat e cekura përdorën si vula daltë ose vula për dara (pinca).
+5.3 Vula bazë verifikuese për shtypje ka formën rrethore me diametër 9 mm në të cilin është shënuar
+shenja e sipërfaqes tërthore të metrit etalon , mbi vijën e saj horizontale shënohet shenja “K”. Me këtë vulë shënohen mjetet matëse që janë në rregull të cilat pas verifikimit fillestar kanë plotësuar kushtet e metrologjisë. Vulat bazë verifikues për shtypje vendosen në vendin e posaçëm në konstruksionin e mjeteve matëse të cilave i bëhet verifikimi.(Fig.7.a.).
+5.4 Vula verifikuese vjetore për shtypje ka formën e mburojës rreth së cilës shënohet rrethi me
+diametër 9 mm Në pjesën e epërme të kësaj vule shënohet shenja “K”. Në mesin e vulës shënohen dy shifrat e fundit të vitit të skadimit të vlefshmërisë së verifikimit (X) dhe nën te shënohet numri identifikues i personit të autorizuar i cili e kryen verifikimin e mjetit matës (Y) . Me këtë vulë verifikohet rregullsia e mjeteve matëse të cilat i kanë plotësuar kushtet e metrologjisë. Vulat verifikuese vjetore për shtypje vendosen në vendin e posaçëm në konstruksionin e mjeteve matëse të cilave i bëhet verifikimi.(fig.7.b).
+5.5 Vula vjetore verifikuese për shënjimin e mjeteve matëse të imta ka formën rrethore me diametër
+3 mm . Në pjesën e epërme të kësaj vule shënohen dy shifrat e fundit të vitit të skadimit të vlefshmërisë së verifikimit (X), ndërsa në pjesën e poshtme të vulës shënohet numri identifikues i personit të autorizuar i cili e kryen verifikimin e mjetit matës (Y). Me këtë vulë shënohet gjendja e rregullt e mjeteve matëse të cilat i kanë plotësuar kushtet e metrologjisë. Vula verifikuese vjetore për shtypje për mjetet matëse të imta vendosen në vend caktuar varësisht nga konstruksioni i mjetit matës. (Fig.7.c).
+5.6 Vula vjetore verifikuese për testimet paraprake të mjeteve matëse, përkatësisht pjesëve përbërëse
+të mjeteve matëse ka formën e trekëndëshit kënddrejtë baza e të cilit ndodhet në pjesën e epërme dhe rreth së cilit shënohet rrethi me diametër 9 mm. Në këndin e poshtëm ndodhet shenja verifikuese e laboratorit “Y”, ndërsa mbi te shënohen dy shifrat e fundit të vitit kalendarik”X” në të cilin është realizuar testimi paraprak i mjetit matës, përkatësisht të pjesëve përbërëse të mjetit matës. Me këtë vulë shënjohet gjendja e rregullt e mjetit matës, përkatësisht pjesëve përbërëse të mjetit matës të cilat gjatë testimeve paraprake i kanë plotësuar kushtet e metrologjisë. Vula verifikuese vjetore për testimet paraprake, përkatësisht testimit paraprak të pjesëve përbërëse të mjetit matës vendoset në vendin e posaçëm në konstruksionin e mjeteve matëse të të cilave i bëhet verifikimi. (Fig.7.d).
+5.7 Vula për shfuqizimin e vulave e ka formën e shkronjës “ X “ rreth së cilës mund të shkruhet
+rrethi me diametër 9 mm. Me këtë vulë shënohen mjetet matëse për të cilat vërtetohet se nuk i plotësojnë kushtet e metrologjisë dhe mjeteve matëse në të cilat janë dëmtuar vulat verifikuese dhe mbrojtëse.(Fig.7.e).
+5.8 Vula për eliminimin e vulave vendoset mbi vulat verifikuese që i kanë mjetet matëse .
+Vula në formën e plumbçës plastike
