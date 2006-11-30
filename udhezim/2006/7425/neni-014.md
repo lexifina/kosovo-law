@@ -1,0 +1,19 @@
+# Neni 14
+14.1 Numëratori duhet të jetë i punuar ashtu që të mundësohet leximi i lehtë dhe i saktë i gjendjës së njehsorit. Numëratori mund të jetë me disqe ose me shkallë (shigjetë) rrethore.
+14.2 Numrat që shërbejnë për leximin e gjendjës së numëratorit duhet të jenë të radhitur drejt nëpër skajin e diskut, përkatësisht të shkallës rrethore.
+14.3 Çdo numër në numërator duhet të jetë i gjatë të paktën 4 mm. Disku me vlerë lokale minimale i cili është në veprim të vazhdueshëm me zingjirin e rotorit, në skajin e diskut duhet të ketë, sipas rregullit, 100 viza ndarëse të njëjta, me ç’rast çdo e dhjeta vizë- ndarëse është shënuar me numër. Çdo e pesta vizë - ndarëse duhet të jetë më e gjatë se vizat e tjera. Të gjitha vizat ndarëse duhet të jenë me gjerësi të barabartë.
+14.4 Për leximin e gjendjës së numëratorit, numëratori duhet të ketë treguesin përkatës. Gjerësia e treguesit, përkatësisht forma e treguesit duhet të jetë e tillë që të jetë i mundëshëm leximi i lehtë dhe i saktë i gjendjës së numëratorit. Vendet dhjetore duhet të shenohën me ngjyrë e cila dallohet nga ngjyra me të cilën janë të shënuar vendet e plota të njehsorit dhe të ndara me presje.
+14.5 Rritja e vlerës lokale të numrave në numërator për shkak të leximit të gjendjës së numëratorit lejohet vetëm te numëratori me disqe pa vende dhjetore, dhe kjo vetëm me ndihmën e faktorit 10,100,1000 etj.
+14.6 Për vendin dhjetor më të ulët të numëratorit me disqe mund të përdoret pllaka (shkalla) rrethore me numra ose me disk të posaçëm .
+14.7 Drejtimi i rrotullimit të disqeve, në qoftë se janë vendosur në boshtin horizontal duhet të shenohët me shigjetë në pllakën e numëratorit në qoftë se ana e përparme gjatë rritjes së gjendjes së numëratorit nuk lëviz nga poshtë lart.
+14.8 Diametri i shkallës rrethore të numëratorit me shkallët duhët të jetë të paktën 14 mm. Shkallët rrethore duhët të jenë të ndara në dhjetë ndarje të barabarta. Shkallët rrethore mund të ndërtohën si pllaka rrethore me numra të cilët rrotullohën me treguesin e palëvizshëm ose si shkallë të palëvizshme me numrat pranë të cilëve, përkatësisht në majën e të cilëve rrotullohet akrepi. Shkalla e fundit rrethore, si rregull, duhet të ketë 100 ndarje të barabarta, me ç’rast çdo e dhjeta vizë – ndarje është e shënuar me numër. Shkallët e vendeve dhjetore duhet të jenë të shenuara me ngjyrë e cila dallohet nga ngjyra me të cilën janë shënuar vendet e plota të numëratorit.
+14.9 Vlera dhjetore e vendit më të ulët të numëratorit duhet të jetë e barabartë ose më e vogël se vlera që është dhënë në tabelën 3 :
+Tabela 3.
+Fuqia themelore (kW, kvah) Vlera e vendit minimal dhjetor të numëratorit (kWh, kvah) 0,1 deri 1 0,01 1 deri 10 0,1 10 deri 100 1 100 deri 1000 10 1000 deri 10000 100
+14.10 Me rastin e caktimit të vlerës së vendit më të vogël dhjetor të numëruesit të njehsorëve transformatorikë, fuqia themelore ka të bëjë me rrymën parësore, përkatësisht me rrymën dytësore të transformatorit matës të rrymës.
+14.11 Koha e kaluar e numëruesit nuk lejohet të jetë me e vogël se 1500 orë.
+14.12 Drejtëpërsëdrejti krahas numëruesit shumëtarifor të numëratorit duhet të figurojë numri që shënon pozicionin tarifor.
+14.13 Te numëratori dytarifor numri 1 shënon numruesin e sipërm – pozicioni i lartë tarifor, kurse numri 2 numruesin e poshtëm – pozicioni tarifor i ulët. Lartësia e atyre numrave nuk duhet të jetë më e vogël se 4mm.
+14.14 Numëruesi shumëtarifor duhet të ketë indikator, i cili tregon se cili numërues regjistron energjinë në momentin përkatës.
+14.15 Numëruesit shumëtariforë të numëratorit duhet të jenë të siguruar në mënyrë që të mos mund të rrotullohën gjatë kohës kur nuk janë të kyçur.
+14.16 Reletë për kyçjën e numëratorit duhet të punojnë në mënyrë të rregullt me brezin prej 80% deri 120% të tensionit referent të releut dhe gjatë ndryshimit të frekuencës referente prej 3%.

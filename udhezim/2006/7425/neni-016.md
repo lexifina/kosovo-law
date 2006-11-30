@@ -1,0 +1,4 @@
+# Neni 16
+16.1 Pajisja për pengimin e regjistrimit të kundërt nuk lejohet të mundësojë që regjistrimi i kundërt për shkak të çuarjes së energjisë në drejtimi të kundërt të jetë më i madh se ai që i përgjigjët një rrotullimi të rotorit. Në qoftë se njehsorët janë të pajisur me dhënësin e impulseve, regjistrimi i kundërt nuk lejohet të jetë më i madh se vlera që i përgjigjët një impulsi.
+16.2 Pajisja për pengimin e rrotullimit të rotorit në lëvizje pa ngarkesë duhet të jetë e punuar ashtu që njehsori t’i plotsojë kërkesat e parapara me këtë Udhëzim, e që kanë të bëjnë me lëvizjen pa ngarkesë të njehsorit.
+16.3 Pajisjen për pengimin e regjistrimit të kundërt duhet ta kenë të gjithë njehsorët që janë në përbërje të grupit matës për matjën e enrgjisë së pranuar dhe të dorëzuar, si dhe të gjithë njehsorët e energjisë reaktive.

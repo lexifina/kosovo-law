@@ -1,0 +1,4 @@
+# Neni 13
+13.1 Skaji dhe një pjesë e sipërfaqës së sipërme të një disku të rotorit të njehsorit duhet të kenë shenjën dallues të madhësisë rreth 1/25 të perimetrit të diskut, që shërben për numrimin e rrotullimeve të rotorit. Rotori i njehsorit mund të ketë edhe shenja të tjera të cilat nuk lejohet të pengojnë numërimin individual ose fotoelektrik të rrotullimeve. Skaji i diskut duhet të jetë i punuar ashtu që të mund të vërehët lehtë lëvizja e tij me rastin e testimit të nisjës së rotorit.
+13.2 Drejtimi i rrotullimit të rotorit kur njehsori shikohet nga ana e përparme duhet të jetë prej anës së majtë nga e djathta dhe duhet të jetë i shenuar me shigjetë të palëvizshme të dalluar ose me shenjë tjetër të dalluar të palëvizshme.
+13.3 Rotori i njehsorit duhet ta ketë mekanizmin për pengimin e rrotullimit të rotorit në kahje të kundërt, nëse njehsori është i paraparë për t’u montuar në vendin e matjes ku mund të shkaktohet lëvizja e kundërt e energjisë elektrike.

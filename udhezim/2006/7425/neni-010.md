@@ -1,0 +1,8 @@
+# Neni 10
+10.1 Njehsori duhet ta ketë kutinë e cila duhet të sigurohet me blombë të vulosur ashtu që të mos mund të intervenohet në brendi të njehsorit pa e dëmtuar blombën.
+10.2 Kutia e njehsorit mbronë brendësinë e njehsorit, përkatësisht sistemin e matjes nga pluhuri dhe lagështia, nga intervenimet e paautorizuara me të cilat do të ndikohej në vetitë matëse të njehsorit.
+10.3 Në qoftë se kapaku i njehsorit nuk është i tejdukshëm, për ta mundësuar leximin e gjendjes, duhet të ketë një apo disa dritare të vogla, nga materiali i tejdukshëm, të cilat mund të hiqen vetëm nëse dëmtohet blomba. Madhësia dhe vendosja e dritareve të vogla duhet të mundësojnë leximin e lehtë të gjendjes në njehsor nga një largësi prej 2 metrash, dhe që me rastin e testimit të njehsorit të mund të shikohet leht numëratori dhe shenja në diskun e rotorit.
+10.4 Njehsori i cili tërësisht apo pjesërisht e ka kutinë prej metali, të paraparë për tensionin referent më të lartë se 250 V ndaj tokës, duhet të jetë i pajisur me përforcues mbrojtës të tokëzimit dhe bulon prej së paku M4.
+10.5 Pjesa për tokëzim duhet të ndodhët në vend të arritshëm të pllakës bazë të njehsorit, kurse dedikimi i saj duhet të jetë qartë i shenuar me simbolin për tokëzim.
+10.6 Pjesët për varjën dhe perforcimin e njehsorit duhet të kenë vrima elipsoide që mundësojnë përforcimin e njehsorit me bulon M5 ose më të madh.
+10.7 Kutia e njehsorit me klasën e saktësisë 0,5 duhet të jetë e konstruktuar në mënyrë që në vendin e matjes që i përgjigjet udhëzimeve të prodhuesit të njehsorit dhe kërkesave të tjera, të mund të vendosën lehtë në pozicion normal të punës me devijim jo më të madh se 0,5 0 në të gjitha drejtimet.
