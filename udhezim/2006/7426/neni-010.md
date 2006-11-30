@@ -1,0 +1,7 @@
+# Neni 10
+Servisi duhet të ketë hapësirën punuese për testimin e mjeteve matëse e cila duhet ti plotësoj këto kushte:
+a) të jetë e pastër, pa lagështi dhe e mjaftueshme për vendosjen e pajisjeve si dhe të ofroj
+testimin të pa penguar të mjeteve matëse, b) të jetë e mbrojtur nga ndikimi i rrezeve të drejtë për drejta të diellit, c) të ketë orenditë – hapësirat për vendosjen e mjeteve matëse të cilat testohen, d) të ketë orenditë – hapësirat për vendosjen e mjeteve matëse të cilat janë të verifikuara, e) në hapësirën dhe rrethinën e saj burimet e vibracionit nuk lejohen të ndikojnë në
+saktësinë e matjes, f) në hapësirën e punës duhet të ketë termometër kontrollues për matjen e temperaturës së ajrit të mjedisit ku punohet, g) të ketë ndriçimin natyral dhe artificial, h) të jetë e ndarë nga hapësirat e tjera gjatë verifikimit të peshoreve me veprime jo
+automatike të klasës së saktësisë dhe me gramarët e klasës së saktësisë M1, M2 dhe M3, i) të jetë e ndërtuar si hapësirë e veçanet me hyrje nga paradhoma apo me dy palë dyer për përgatitjen, testimin e të gjitha mjeteve matëse me përjashtim të mjeteve matëse nga pika h) e këtij neni, j) të jetë e pajisur me burimin e ngrohjes për ngrohje të njëjtë të hapësirës punuese kurse sipas nevojës edhe me stabilimentet për klimatizim, k) të ketë pllakën e rrafshët prej betoni me sipërfaqe 2m x 2m, për testimin dhe
+kontrollimin e mjeteve matëse të masës me matje Max ≥ 50 kg.
