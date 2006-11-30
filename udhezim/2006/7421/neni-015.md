@@ -1,0 +1,2 @@
+# Neni 15
+Nëse funksioni i etalonit të caktuar të cekur në neni 12 të këtij udhëzimi e formon sistemin matës të përbërë prej shumë mjeteve matëse me madhësi të ndryshme fizike, shndërrimin e madhësive të ndryshme fizike, shndërrimin krahasues (për mjetet matëse të temperaturës, presionit, densitetit, viskozitetit), përcaktimi i kohës për ri-verifikim të mjeteve matëse të cekura bëhet në të gjitha elementet e atij sistemi matës përveç në mjetet matëse të cilat i nënshtrohen vetëm verifikimit fillestarë.

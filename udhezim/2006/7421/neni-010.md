@@ -1,0 +1,2 @@
+# Neni 10
+Nëse funksioni i mjetit matës i cekur në neni 2 deri në nenin 7 të këtij udhëzimi formon sistemin matës të përbërë prej shumë mjeteve matëse me madhësi të ndryshme fizike, shndërrimin e madhësive të ndryshme fizike, shndërrimin krahasues (për mjetet matëse të temperaturës, presionit, densitetit, viskozitetit), përcaktimi i kohës për ri-verifikimin e mjeteve matëse të cekura bëhet në të gjitha elementet e atij sistemi matës përveç në mjetet matëse të cilat i nënshtrohen vetëm verifikimit fillestarë.
