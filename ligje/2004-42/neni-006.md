@@ -1,0 +1,3 @@
+# Neni 6
+Veprimtaria kërkimore-shkencore mbështetet në parimet:
+(a) e lirisë së kërkimeve shkencore dhe të krijimtarisë; (b) e punës publike; (c) e mbrojtjes së të drejtave të pronësisë intelektuale; (d) e konkurrencës së programeve dhe projekteve shkencore; (e) e pacënueshmërisë dhe të sigurisë së aftësive të njeriut dhe të dinjitetit të tij; (f) e etikës dhe të përgjegjësisë së punëtorit shkencor dhe të hulumtuesit për pasojat e punës së tij; (g) e kujdesit për mbrojtjen e ambientit të njeriut; (h) e ndërlidhjes së kërkimeve shkencore dhe të shkollimit të lartë; (i) e përfshirjes në veprimtarinë shkencore ndërkombëtare.
