@@ -1,0 +1,8 @@
+# Neni 25
+Shpellat
+25.1. Shpallja e shpellave bëhet me vendim të Qeverisë.
+25.2. Hyrja në shpella, eksplorimi dhe studimi i shpellave, bëhet me leje të Ministrisë e cila jepet në propozim të autoriteteve lokale përkatëse, institucioneve shkencore dhe organizatave të specializuara jofitimprurëse, në përputhje me rekomandimet e tyre.
+25.3. Zbulimi i shpellave dhe rezultatet e eksplorimit të tyre i bëhen të njohura, me raporte të hollësishme, Ministrisë. Ministria, sipas nevojës u dërgon kopje të raportit institucioneve shkencore, organizatave të interesuara jofitimprurëse si dhe autoriteteve lokale përkatëse. Eksploruesve u njihet dhe u sigurohet e drejta e autorësisë së zbulimit.
+25.4. Shpellat mund të vizitohen, të përdoren për qëllime turistike ose të tjera, vetëm pasi të jenë përshtatur për këto veprimtari, me autorizim dhe nën mbikëqyrjen e AKMM, strukturave përkatëse të turizmit dhe pushtetit lokal. Eksplorimi, hyrjet e autorizuara dhe çdo përdorim i shpellave, duhet të sigurojë mbrojtjen dhe pastërtinë e tyre, ruajtjen e mikroklimës, regjimit ujor, ekosistemeve, të tipareve gjeologjike dhe gjeomorfologjike, të gjetjeve paleontologjike e arkeologjike dhe të gjallesave.
+25.5. Qeveria me akt nënligjor përcakton rregullat, kriteret dhe procedurat, të drejtat dhe detyrimet për dhënien e shpellave në përdorim. Përgatitja dhe përdorimi i tyre mund të bëhen nga subjekte publike ose private, të pajisura me pëlqim mjedisor.
+25.6. Përjashtimisht, Qeveria me akt nënligjor, sipas propozimit të ministrit dhe përfaqësuesve të pushtetit lokal, mund të ndaloj shfrytëzimin e shpellave nëse konstatohet se vlerat e tyre rrezikohen.

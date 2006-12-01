@@ -1,0 +1,8 @@
+# Article 25
+Caves
+25.1. Declaring and protection of caves shall be carried out by a decision of the Government.
+25.2. Entering, exploitation and studying of caves may take place solely with a permission of the Ministry, which will be given according to proposals of local concerning authorities, scientific institutions and non-profitable specialized organizations in accordance with their recommendations.
+25.3. Discovery of new caves and the results of their exploitations will be reported in details to the Ministry. Ministry sends the copies of the report to scientific institutions, interested non-profitable organizations as well as concerning local authorities. The rights on discovering will be recognized to the users.
+25.4. Caves might be visited, used for tourist or other purposes solely after being adopted for these activities by authorizations or under supervision of KEPA, relevant tourist structures and local authorities. Exploitation, authorized entrances and utilization of the caves, should ensure their protection and clearance, preservation of micro clime, water regime, geological and geomorphologic characteristics, pale ontological and archeological discoveries and live organisms.
+25.5. Government by special decision stipulates the rules, criteria and the procedures, rights and the obligation on giving the caves in use. Public or private institution might carry out their preparation and usage, which possess an environmental approval.
+25.6. In exceptional cases, the Government based in a sub-legal act and according to Minister’s proposal and local municipality representatives may prohibit the use of caves provided that their values are endangered by such an action.
