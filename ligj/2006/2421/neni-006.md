@@ -1,0 +1,9 @@
+# Neni 6
+6.1. Procedurat e akreditimit të cilat i kryen Njësia e akreditimit përcaktohen me aktin e themelimit dhe akte tjera nënligjore të cilat i nxjerr Ministria e Tregtisë dhe Industrisë. Procedurat e akreditimit bazohen në standardet dhe dokumentet e organizatave evropiane dhe organizatave tjera ndërkombëtare për akreditim.
+6.2. Akreditimi bëhet në bazë të kërkesës së personit juridik apo fizik.
+6.3. Njësia akredituese dhe personi juridik apo fizik i rregullojnë të drejtat dhe obligimet reciproke lidhur me dhënien e vërtetimit për akreditim dhe mirëmbajtjen e akreditimit në bazë të kontratës.
+6.4. Njësia akredituese është e obliguar të lidhë kontratë me çdo person juridik dhe fizik që dëshiron të akreditohet. Tek lidhja e kontratës Njësia akredituese domosdo duhet që në mënyrë të qartë të njoftoj personin fizik apo juridik me kërkesat e procedurës së akreditimit. Me kontratë përcaktohen të drejtat dhe obligimet e nënshkruesve të kontratës si dhe zbatimi i procedurës së akreditimit në përputhje me standardet dhe dokumentet sipas nenit 5 të këtij ligji.
+6.5. Njësia akredituese vlerëson se personi juridik apo fizik i plotëson kërkesat sipas standardeve, gjegjësisht dokumenteve nga neni 5 të këtij ligji, lëshon Certifikatë për akreditimin e cila nënshkruhet nga shefi i Njësisë së Akreditimit.
+6.6. Akreditimi i dhënë është i kufizuar në afat prej pesë viteve. Njësia e akredituar duhet të përmbush kërkesat për akreditimin të dhënë në afatin e vlefshmërisë së akreditimit.
+6.7. Njësia akredituese nxjerr vendim për ndërprerjen e akreditimit kur vërteton se subjekti i akredituar ka pushuar së plotësuari ndonjërën prej kërkesave të nevojshme për akreditim.
+6.8. Kundër vendimit nga paragrafi 7. i këtij neni Njësisë për akreditim i paraqitet ankesë sipas vendimit të themelimit dhe procedurave të akreditimit.
