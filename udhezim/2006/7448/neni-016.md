@@ -1,0 +1,4 @@
+# Neni 16
+Dokumentacioni i kompletuar dorëzohet nga personi i autorizuar në Departamentin e transportit rrugor, Divizioni i mallrave dhe mallrave të rrezikshme. Dokumentacioni duhet të dorëzohet në origjinal ose në kopje të vërtetuara. Komisioni i emëruar nga Ministria e Transportit dhe Postë-Telekomunikacionit bën verifikimin dhe vlerësimin e dokumentacionit të paraqitur nga parashtruesi i kërkesës. Shqyrtimi duhet të kryet brenda 15 (pesëmbëdhjetë) ditëve nga dita e përfundimit të aplikimit.
+Nëse komisioni vërteton se terminali nuk i ka plotësuar kushtet për leje dhe nuk e ka plotësuar dokumentacionin e nevojshëm, mund t’i lejohet afat shtesë prej 7 (shtatë) ditë për plotësimin e dokumentacionit.
+Ministria brenda një afati jo më të gjatë se 30 (tridhjetë) ditë nga dita e aplikimit, duhet t’i jap përgjigje personit juridik nëse kërkesa e tij aprovohet apo refuzohet.
