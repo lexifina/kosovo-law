@@ -1,0 +1,5 @@
+# Article 79
+Exceptions
+In specific cases, a provider of a public communications network and/or a publicly available electronic communications service may override the provisions of Articles 68 and 69:
+a) the elimination of the presentation of calling line identification, on a temporary basis, upon the application of a subscriber requesting the tracing of malicious or nuisance calls. In this case, the data containing the identification of the calling subscriber will be stored and be made available by the provider of a public communications network and/or publicly available electronic communications service pursuant to UNMIK Regulation 2003/16.
+b) the elimination of the presentation of calling line identification and the temporary denial or absence of consent of a subscriber or user for the processing of location data, on a per-line basis for organizations dealing with emergency calls and recognized as such by the applicable law in Kosovo, including law enforcement agencies, ambulance services and fire brigades, for the purpose of responding to such calls.

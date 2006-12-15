@@ -1,0 +1,8 @@
+# Neni 41
+Ruajta e faturave
+41.1. Secili obligues tatimor duhet të sigurojë se kopjet e faturave që i ka lëshuara vetë dhe të gjitha faturat që ai i ka marrë, të ruhen sipas Kodit Tatimor të Kosovës, ashtu siç është miratuar nga Ministria për Ekonomi dhe Financa.
+41.2. Obliguesi tatimor mund të vendosë për vendin e ruajtjes me kusht që ai të bëjë që faturat ose informacioni i ruajtur aty të jetë i qasshëm për autoritetet kompetente kurdo që ata kërkojnë një gjë të tillë.
+41.3. Vërtetësia e origjinës dhe tërësia e përmbajtjes së faturave, gjithashtu edhe lexushmëria e tyre, duhet të garantohen gjatë tërë kohës sa ato ruhen. Në mënyrë që të sigurohet se këto kushte janë plotësuar, faturat mund të ruhen në formën e tyre origjinale në të cilën ato janë dërguar qoftë ato në formë elektronike apo në formë letre. Kur faturat ruhen me mjete elektronike, gjithashtu duhet të ruhen edhe të dhënat që garantojnë vërtetësinë e origjinës dhe tërësinë e përmbajtjes.
+41.4. Ministria për Ekonomi dhe Financa duhet ta përcaktojë kohën për të cilën obliguesit tatimorë duhet t’i ruajnë faturat lidhur me mallrat dhe shërbimet e furnizimit në territorin e tyre dhe faturat e pranuara nga tatimpaguesit të vendosur në Kosovë.
+41.5. Transmetimi dhe ruajtja e faturave “me mjete elektronike” nënkupton transmetimin ose vënien në dispozicion të pranuesit dhe ruajtjen duke shfrytëzuar pajisjen elektronike për procesim (duke përfshirë kompresimin digjital) dhe ruajtjen e të dhënave duke përdorur telat, radio transmetuesit, teknologjinë optike ose mjetet e tjera elektromagnetike.
+PJESA E GJASHTË- PAGESA ELEKTRONIKE

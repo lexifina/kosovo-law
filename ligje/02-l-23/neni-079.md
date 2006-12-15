@@ -1,0 +1,5 @@
+# Neni 79
+Përjashtimet
+Në rastet specifike, ofruesi i rrjetit të komunikimit publik dhe/ose shërbimi i komunikimit elektronik në dispozicion të publikut mund t’i refuzojë dispozitat e nenit 68 dhe 69:
+a) eliminimi i paraqitjes së identifikimit të linjës thirrëse, mbi baza të përkohshme, në aplikimin e kërkesës së parapaguesit për gjurmimin e thirrjeve të bezdisshme ose me qëllim të keq. Në këtë rast, të dhënat që përmbajnë identifikimin e parapaguesit të thirrur do të ruhen dhe do të jenë në dispozicion nga ofruesi i rrjetit të komunikimit publik dhe/ose shërbimit të komunikimeve elektronike në dispozicion të publikut sipas Rregullores së UNMIK-ut 2003/16,
+b) eliminimi i paraqitjes së identifikimit të linjës thirrëse dhe mohimi i përkohshëm ose mungesa e pëlqimit të parapaguesit ose shfrytëzuesit për procesimin e të dhënave të vendosura, në bazë të çdo linje për organizatat që merren me thirrjet emergjente dhe të njohura si të tilla sipas ligjit në zbatim në Kosovë, duke përfshirë zbatuesin e ligjit, shërbimet e ambulancës dhe të zjarrfikësve, për qëllimet e përgjigjes ndaj thirrjeve të tilla.

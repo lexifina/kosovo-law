@@ -1,0 +1,5 @@
+# Article 33
+Performance
+33.1. Unless the parties have agreed otherwise, the supplier must execute the order within a maximum of thirty (30) days from the day following that on which the consumer forwarded his order to the supplier.
+33.2. Where a supplier fails to perform his side of the contract on the grounds that the goods or services ordered are unavailable, the consumer must be informed of this situation and must be able to obtain a refund of any sums he has paid as soon as possible and in any case within thirty (30) days.
+33.3. The supplier may provide the consumer with goods or services of equivalent quality and price provided that this possibility was provided for prior to the conclusion of the contract or in the contract. The cost of returning the goods following exercise of the right of withdrawal shall, in this case, be borne by the supplier, and the consumer must be informed about this. In such cases the supply of goods or services may not be deemed to constitute inertia selling pursuant to Article 35.

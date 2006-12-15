@@ -1,0 +1,9 @@
+# Neni 68
+Përjashtimet
+68.1. Përveç rasteve sipas nenit 67, ruhen edhe të dhënat tjera, po që se ofrohen ndryshe me ligjin në fuqi e që rregullon rastet e veçanta të bartjes së të dhënave personale në një vend të tretë, por që nuk garanton nivel adekuat të besueshmërisë në kuptim të nenit 24 të këtij ligji, me kusht që:
+a) subjekti i të dhënave ka dhënë pëlqimin për transferimin e propozuar ose :
+b) transferimi është i domosdoshëm për ekzekutimin e kontratës ndërmjet subjektit të dhënave dhe kontrolluesit ose zbatuesit e masave para kontraktuese që jepen si përgjigje me kërkesë të subjektit të dhënave; ose
+c) transferimi është i domosdoshëm për përfundimin ose përmbarimin e kontratës të arritur në interes të subjektit të dhënave ndërmjet kontrolluesit dhe palës së tretë; ose
+d) transferimi është i domosdoshëm ose kërkohet sipas ligjit për çështjet të rëndësishme për interesin publik ose për krijimin, ushtrimin apo mbrojtjen e kërkesave ligjore; ose
+e) transferimi është i domosdoshëm në mënyrë që të mbrohen interesat jetësore të subjektit të të dhënave; apo f) transferimi është bërë nga regjistri që sipas ligjeve ose rregulloreve është përcaktuar të ofrojë informacion për publikun dhe që është i hapur për konsultim qoftë nga publiku në përgjithësi ose nga çdo person që mund të paraqet interesa legjitime deri në masën që kushtet e paraqitura në ligj për konsultim janë plotësuar për rastin e veçantë.
+68.2. Pa prejudikuar paragrafin (1), transferimi ose grup transferimesh i të dhënave personale te një vend i tretë, që nuk garanton nivel përkatës të mbrojtjes, mund të ndodhë kur kontrolluesi sjell mbrojtje përkatëse për mbrojtjen e fshehtësisë dhe të drejtave e të lirive të individëve dhe për sa i përket ushtrimit të drejtave që korrespondojnë; mbrojtjet e tilla mund të rezultojnë në veçanti, nga klauzolat e duhura kontraktuese.

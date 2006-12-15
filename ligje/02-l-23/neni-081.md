@@ -1,0 +1,6 @@
+# Neni 81
+Numëratori telefonik i parapaguesve
+81.1. Ofruesit e shërbimit duhet të sigurojnë që parapaguesit të jenë të informuar, pa pagesë dhe para se ata të përfshihen në numëratorin telefonik, lidhur me qëllimin e numëratorit të shtypur ose atij elektronik të parapaguesve në dispozicion për publikun ose të marra përmes shërbimeve të numëratorit, në të cilin të dhënat e tyre personale mund të përfshihen dhe për ndonjë shfrytëzim të mëtutjeshëm të mundësive bazuar në funksionet e kërkimit të vendosura në versionet elektronike të numëratorit.
+81.2. Ofruesit e shërbimit duhet të sigurojnë se parapaguesit e kanë mundësinë e përcaktimit nëse të dhënat e tyre personale janë të përfshira në numëratorin publik dhe nëse është kështu, cilat, në atë nivel të tillë të dhënave janë relevante për qëllimin e numëratorit siç është përcaktuar nga ofruesi i numëratorit dhe t’i verifikojë, përmirësojë ose tërheq të dhënat e tilla. Të gjitha këto që u përmendën më sipër duhet të bëhen pa pagesë.
+81.3. Ofruesit e shërbimit mund të kërkojnë që për çfarëdo qëllimi të një numëratori publik të ndryshëm nga kërkimi i hollësive të kontaktit të personave mbi bazat e emrave të tyre dhe, kur është e domosdoshme, një minimum të identifikuesve të tjerë, pëlqimin shtesë që do të kërkohet nga parapaguesit.
+81.4. Paragrafët (1) dhe (2) aplikohen për të gjithë shfrytëzuesit.
