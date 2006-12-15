@@ -1,0 +1,4 @@
+# Neni 5
+Përputhshmëria dhe Detyrimet
+5.1. Kosova duhet të përmbushë detyrimet që i ka ndaj investitorëve të huaj në bazë të shpejtë, të vazhdueshme dhe me mirëbesim. Ky nen zbatohet për të gjitha llojet e detyrimeve, qofshin ato të krijuara me ligj, marrëveshje, akt administrativ, ose ndryshe.
+5.2. Nëse një autoritet publik nxjerr një akt ose ndërmerr një detyrim në lidhje me një investitor të caktuar të huaj, dhe nxjerrja e aktit në fjalë ose ndërmarrja e detyrimit të tillë është jashtë autorizimit të autoritetit publik, atëherë investitori i huaj ka të drejtë në kompensim sipas nenit 8.4 për të gjitha dëmet dhe shpenzimet e shkaktuara si pasojë e besimit të investitorit të huaj në aktin ose detyrimit të tillë. Sidoqoftë, e drejta në kompensim nuk zbatohet nëse investitori ka qenë ne njohuri, ose përmes kujdesit të arsyeshëm, ka mundur të dijë se akti në fjalë ose detyrimi i ndërmarrë nuk ka qenë i autorizuar.

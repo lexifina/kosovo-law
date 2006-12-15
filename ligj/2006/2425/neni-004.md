@@ -1,0 +1,5 @@
+# Neni 4
+Mos-diskriminimi
+4.1. Kosova nuk i trajton investitorët e huaj aspak më disfavorshëm se sa të gjithë investitorët dhe investimeve vendore në Kosovë, duke përfshirë – por pa u kufizuar - edhe trajtimin në lidhje me (i) mbrojtjen dhe sigurinë, (ii) bërjen e investimit, (iii) aktivitetet ekonomike dhe të tjera në të cilat mund të bëhet investimi dhe (iv) blerjen, zgjerimin, menaxhimin ose largimin e investimeve.
+4.2. Pa paragjykuar marrëveshjet ndërkombëtare bilaterale, ose marrëveshjet të cilave u nënshtrohet Kosova, është e paligjshme për Kosovën që të diskriminojë në çfarëdo mënyre investitorët e huaj në bazë të shtetësisë, prejardhjes, vendbanimit, vendit të themelimit ose afarizmit ose kontrollit.
+4.3. Përveç të drejtave specifike, garancioneve dhe privilegjeve që u mundësohen investitorëve të huaj dhe investimeve të tyre sipas këtij ligji, investitorët e huaj dhe investimet e tyre duhet të jenë në pajtim të plotë me ligjin e zbatueshëm në Kosovë, dhe i bartin të drejtat dhe detyrimet njëlloj si edhe investitorët e brendshëm dhe investimet e tyre.

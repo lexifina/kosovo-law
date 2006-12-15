@@ -1,0 +1,4 @@
+# Neni 6
+Stabiliteti i regjimit të investimeve
+6.1. Asnjë ligj, rregullore ose akt tjetër normativ nuk ka fuqi retroaktive ose nuk mund të zbatohet në mënyrë retroaktive në dëm të investitorit të huaj ose një investimi të investitorit të huaj.
+6.2. Nëse, (i) investitori i huaj ka bërë investim në Kosovë, dhe (ii) brenda periudhës pesë vjeçare, menjëherë pas bërjes së investimit, ndonjë dispozitë e këtij ligji ndryshohet ose revokohet, ose nëse vlera e ndonjë dispozite të këtij ligji ndikohet nga nxjerrja ose ndryshimi i një akti tjetër normativ, dhe (iii) kjo ka ndikim negativ në investitorin e huaj ose investimin e tij, atëherë investitori i huaj ka të drejtë në kompensim nga Qeveria e Kosovës sipas nenit 8.4 për të gjitha dëmet dhe shpenzimet e shkaktuara si pasojë e ndryshimit, revokimit ose nxjerrjes së tillë. Ky privilegj i investitorit të huaj i jepet atij dhe mund të zbatohet menjëherë pas bërjes së investimit në Kosovë.
