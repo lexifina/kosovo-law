@@ -1,0 +1,12 @@
+# Section 14
+The governing body
+14.1 The principal governing authority of a public provider of higher education shall be a council of administrators, which may also be known as an administrative board. The council of administrators shall have overall responsibility for the conduct of the affairs of the provider and its functions shall be detailed in the statute.
+14.2 A number of members of the council of administrators, to be specified in the statute and not to exceed one half of the total membership, shall be persons with relevant professional, commercial or other practical skills who shall be appointed by the Ministry in the public interest.
+14.3 All members of a council of administrators other than those appointed under section 14.2 shall be elected as provided in the statute of the provider.
+14.4 Appointments pursuant to section 14.2 shall be made on personal merit, following public advertisement, without direct or indirect discrimination on any actual or presumed ground such as sex, race, sexual orientation, marital status, colour, language, religion, political or other opinion, national, ethnic or social origin, association with a national community, property, birth or other status.
+14.5 Members of a council of administrators appointed pursuant to section 14.2 shall hold appointment for a fixed term according to the provisions of the statute. They may be removed by the Ministry, on the recommendation of the council of administrators or otherwise, for good cause, defined as:
+(a) Conviction for a serious criminal offence resulting in imprisonment for more than six months;
+(b) Inability to discharge the functions of the position through physical or mental incapacity evidenced by the report of an independent medical practitioner appointed by the Ministry; or
+(c) Conduct, which in the opinion of the Ministry, constitutes failure or persistent refusal or neglect or inability to perform the duties of the position or to comply with the principles set out in the statute of the provider or this Law, including those set out in section 13.6.
+14.6 Appeal against removal proposed by the council of administrators may be directed to the Ministry according to the provisions of this section, and shall then lie to a court of competent jurisdiction.
+14.7 The council of administrators shall arrange for the publication of an annual report on the performance of the provider and shall provide such information in the annual report as may be required by the Ministry and the KAA.

@@ -1,0 +1,5 @@
+# Neni 19
+Përgjegjësitë e Këshillit Drejtues dhe Autoritetit Kryesor Drejtues në Bartësin Publik
+19.1 Këshilli i Drejtuesve të një bartësi publik të arsimit të lartë është përgjegjës kolektivisht para Ministrisë për përdorimin e duhur dhe të efektshëm të fondeve që i janë caktuar bartësit nga Ministria ose nga burime të tjera publike.
+19.2 Në përputhje me dispozitat e statutit të bartësit, Këshilli i Drejtuesve cakton persona me eksperiencën e nevojshme në fushën e drejtimit dhe të financave, të cilët përgjigjen për drejtimin ekzekutiv të bartësit dhe për administrimin e fondeve publike dhënë atij.
+19.3 Autoriteti kryesor drejtues i një bartësi publik të arsimit të lartë është i detyruar t'i raportojë drejtpërdrejt Ministrisë çdo veprim apo mungesë veprimi nga Këshilli i Drejtuesve, i cili, sipas mendimit të autoritetit kryesor drejtues, përbën një shpërdorim të fondeve publike që i janë dhënë bartësit. Në këtë rast, pavarësisht nga ndonjë dispozitë e statutit të bartësit që është e kundërt me këtë, Këshilli i Drejtuesve nuk mund të ndërmarrë asnjë veprim ndaj autoritetit kryesor drejtues, me përjashtim të rasteve kur vetë Ministria e lejon një gjë të tillë.

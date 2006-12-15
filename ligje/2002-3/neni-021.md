@@ -1,0 +1,5 @@
+# Neni 21
+Veprimtaria fitimprurëse
+21.1 Bartësi publikë i arsimit të lartë gëzon të drejtën që, në përputhje me dispozitat e këtij Ligji, të ligjit tjetër të zbatueshëm, të licencës dhe statutit të tij, të marrë masa për të nxitur e shfrytëzuar veprimtarinë e tij arsimore dhe në rastin e universiteteve, të veprimtarisë kërkimore për qëllime fitimprurëse në favor të bartësit.
+21.2 Kur veprimtari të tilla financiare përfshijnë ose potencialisht mund të përfshijnë shfrytëzimin e ndonjë të drejte të rëndësishme të pasurisë intelektuale lidhur me vepra letrare, artistike dhe shkencore, zbulime shkencore, projekte, shpikje, materiale, mallra ose shërbime të siguruara plotësisht apo pjesërisht duke përdorur fonde publike, bartësi duhet të kërkojë miratim paraprak nga Ministria. Për qëllimet e këtij neni Ministria përcakton se cila është e drejta e rëndësishme e një pasurie intelektuale.
+21.3 Taksimi i aktivitetit fitimprurës të një bartësi të arsimit të lartë publik rregullohet në ligjin e zbatueshëm.

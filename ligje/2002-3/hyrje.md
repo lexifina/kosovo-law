@@ -1,0 +1,7 @@
+Ligji nr.2002/03
+MBI ARSIMIN E LARTË NË KOSOVË
+Në Pajtim me autoritetin që i është dhënë me Rregullorën e Administratës së Përkohshme të Kombeve të Bashkuara në Kosovë (UNMIK) nr.2001/9 të datës 15 Maj, 2001 “mbi Kornizën Kushtetuese për Vetëqeverisje të Përkohshme”, neni 9.1.34-45 dhe Rregulloren nr. 2001/19 të UNMIK-ut të datës 13 Shtator 2001 për Pushtetin Ekzekutiv të Institucioneve të Përkohshme të Vetëqeverisjes në Kosovë, Rregullorën 2000/11 të UNMIK-ut të datës 3 Mars 2000 për krijimin e Departamentit Administrativ të Arsimit dhe Shkencës, Rregullorën 2000/45 të UNMIK-ut të datës 1 Gusht 2000 për Vetëqeverisjen e Komunave në Kosovë, Rregullorën 2000/51 të UNMIK-ut të dates 30 Gusht 2000 për moshën e shkollimit të detyruar në Kosovë,
+Në pajtim me Konventën Evropiane për Mbrojtjen e të Drejtave dhe Lirive Themelore të Njeriut dhe protokolet përkatëse, Konventën e Këshillit të Evropës UNESCO-s mbi Njohjen e Kualifikimeve lidhur me Arsimin e Lartë në Rajonin Evropian, rekomandimet e Komitetit të Ministrave të Këshillit të Evropës mbi Njohjen dhe Vlerësimin e Cilësisë së Institucioneve të Arsimit të Lartë, mbi mundësinë për të ndjekur Arsimin e Lartë dhe Misionin Kërkimor të Universiteteve; si dhe parimet tjera përkatëse që pasqyrohen në instrumentet ligjore të njohura në shkallë ndërkombëtare.
+Në pajtim me Deklaratat e Ministrave Evropian të Arsimit të Lartë në Bolonjë (1999) dhe Pragë (2001),
+Me qëllim që të vendosen rregullat ligjore mbi Arsimin e Lartë në Kosovë.
+Të shpall Ligjin e mëposhtëm:

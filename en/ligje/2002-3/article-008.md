@@ -1,0 +1,4 @@
+# Section 8
+Universities
+8.1 A university shall be an institution of both education and research, offering diplomas and degrees up to and including doctoral level, with objectives including the advancement of knowledge, thought and scholarship in Kosovo, the educational, scientific, cultural, social and economic development of Kosovo, the promotion of democratic citizenship and the achievement of the highest standards in teaching and learning.
+8.2 The title ‘university’ may be granted under the provisions of this Law only to an accredited provider of higher education with an independently audited enrolment of at least 3000 full-time-equivalent students and providing courses or programmes in at least five different subject groups as prescribed in administrative instructions to be issued by the Ministry.

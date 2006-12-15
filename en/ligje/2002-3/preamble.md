@@ -1,0 +1,7 @@
+LAW NO. 2002/3
+ON THE HIGHER EDUCATION IN KOSOVO
+Pursuant to the authority given to it under United Nations Interim Administration Mission in Kosovo (UNMIK) Regulation 2001/9 of 15 May 2001 “on the Constitutional Framework for Provisional Self-Government” article 9.1.34-45 and UNMIK Regulation 2001/19 of 13 September 2001 on the Executive Branch of the Provisional Institutions of Self Government in Kosovo, UNMIK Regulation 2000/11 of 3 March 2000 on Establishment of the Administrative Department of Education and Science, UNMIK Regulation 2000/45 of 1 August 2000 on Self Government of Municipalities in Kosovo, UNMIK Regulation 2000/51 of 30 August 2000 on the Age of Compulsory School Attendance in Kosovo,
+Noting the European Convention for the Protection of Human Rights and Fundamental Freedoms and the protocols thereto, the Council of Europe/ UNESCO Convention on the Recognition of Qualifications concerning Higher Education in the European Region, Council of Europe Committee of Ministers Recommendations on the Recognition and Quality Assessment of Private Institutions of Higher Education, on Access to Higher Education and on the Research Mission of Universities; and other relevant principle s reflected in internationally recognized legal instruments.
+Recalling the Declarations of European Ministers of Higher Education at Bologna (1999) and Prague (2001),
+For the purposes of regulating higher education in Kosovo,
+Hereby promulgates the following:
