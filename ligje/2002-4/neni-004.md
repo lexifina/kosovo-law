@@ -1,0 +1,9 @@
+# Neni 4
+Aspektet Fondamentale të Hipotekës
+4.1 Hipoteka mund të siguroj detyrimet sipas marrëveshjeve të kredisë, fletë detyrimeve apo kambialeve, ose obligimet të tjera financiare të kontraktuara, duke përfshirë detyrimet që dalin nga kontrata e dorëzanisë.
+4.2. Përveç në se është paraparë ndryshe me dokumentin e hipotekës, hipoteka do të siguroj pagesën e detyrimit kryesor, kamatat, dhe taksat që i ka borxh kreditori hipotekar sipas kushteve të dokumentit të hipotekës si dhe çdo shpenzim të shkaktuar nga pengmarrësi si rrjedhim i procedurave të ekzekutimit të hipotekës.
+4.3 Kur të drejtën e posedimit të një kolaterali të hipotekës e ka më shumë se një person, asnjë marrëveshje mbi hipotekën nuk do të jetë e vlefshme nëse dokumenti i hipotekës nuk është nënshkruar nga të gjithë personat që kanë të drejta të tilla.
+4.4. Hipoteka mund të siguroj detyrimet e ardhme financiare të bazuara në paradhëniet të bëra nga pengmarrësi gjer në shumën maksimale të cekur në marrëveshjen mbi hipotekën në të njëjtën masë si kur detyrimet e ardhme të ishin bërë në datën e ekzekutimit të kontratës së hipotekës.
+4.5. Nëse pasuria e patundshme është kolateral i disa hipotekave, të drejtat e pengmarrësve do të përcaktohen sipas momentit të regjistrimit të tyre, përveç nëse nuk parashikohet ndryshe me ligj.
+4.6. Nëse pengdhënësi e zvogëlon vlerën e kolateralit të hipotekës ose në mënyrë tjetër i vështirëson kushtet e saj, pengmarrësi do të jetë i autorizuar t’i drejtohet gjykatës për një vendim gjyqësor kundër akteve të tilla të pengdhënësit, dhe nëse ai/ajo nuk e bënë këtë, mund të kërkojë përmbushjen me dhunë të ankesës së siguruar me hipotekë para datës së mbarimit të afatit.
+4.7 Dispozitat e kontratës që i jep pengmarrësit të drejtën e shuarjes se kërkesës se tij, në rast të mospërmbushjes, me anë të fitimit të drejtpërdrejtë të kolateralit të hipotekës, ose ndryshe duke fituar të drejtën e shfrytëzimit të pasurisë, do të jetë e pavlefshme.

@@ -1,0 +1,6 @@
+# Neni 19
+Shtyrja e Shitjes
+19.1 Mund të ketë shtyrje të shitjes në çdo kohë para përmbushjes se detyrimit nga shitja sipas udhëzimit qe e benë pengmarrësi për agjentin e shitjes.
+19.2 Më së shumti mund të ketë dy shtyrje të shitjes sipas paragrafit 19.1 pa pasur nevojë për dhënien e njoftimit të ri të shitjes. Nëse shitja shtyhet më shumë se dy herë, caktimi i afatit të ri të shitjes do të përcaktohet me njoftimin e ri të shitjes në mënyrën e përcaktuar nga neni 18.
+19.3 Agjenti shitës do të shtyjë shitjen pas urdhrit të gjykatës kompetente, ose kur ndërkrehet në bazë të ligjit, apo me marrëveshjen e përbashkët të pengdhënësit dhe pengmarrësit. Çdo shtyrje, sipas këtij neni, nuk do të jetë shtyrje me qëllim të përcaktimit të numrit maksimal të shtyrjeve të lejuara sipas nën-nenit 19.2. Veç kësaj, një shtyrje nga agjenti shitës bazuar në besimin e arsyeshëm se kërkesa për falimentim është deponuar, nuk do të jetë shtyrje me qëllim të përcaktimit të numrit maksimal të shtyrjeve sipas nën-nenit 19.2.
+19.4 Agjenti i shitjes do të njoftoj publikisht secilën shtyrje dhe arsyet për këtë shtyrje, në kohën dhe vendin e fundit të caktuar për shitje. Njoftimi publik do të paraqesë datën e re dhe kohën e shitjes.

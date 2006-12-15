@@ -1,0 +1,6 @@
+# Section 19
+Postponement of Sale
+19.1 There may be a postponement of the sale at any time prior to the completion of the sale upon instruction by the mortgagee to the selling agent.
+19.2 There may be a maximum of two postponements of the sale under section 19.1 without the need to give a new notice of sale. If the sale is postponed more than two times, the rescheduling of the sale shall be preceded by a new notice of sale given in the manner prescribed by section 18.
+19.3 The selling agent shall postpone the sale upon the order of any court of competent jurisdiction, or where stayed by operation of law, or by the mutual agreement of the mortgagor and mortgagee. Any postponement under this section shall not be a postponement for purposes of determining the maximum number of postponements permitted pursuant to section 19.2. In addition, one postponement by the selling agent based upon a reasonable belief that a petition for bankruptcy has been filed shall not be a postponement for purposes of determining the maximum number of postponements permitted pursuant to paragraph 19.2.
+19.4 The selling agent shall announce publicly any postponement and the reason for it at the time and place last appointed for sale. The public declaration shall set forth the new date and time of sale.
