@@ -1,0 +1,2 @@
+# Neni 13
+Një produkt ndërtimi për të cilin është dhënë një miratim teknik Evropian nga organi miratues nga pika 16. e nenit 4, mund të nxirret në treg në qoftë se furnizuesi paraqet tek organi i inspektimit të gjitha të dhënat e nevojshme për miratimin teknik të parapara me nenin 27. Në qoftë se një miratim teknik Evropian është i botuar në gjuhë të huaj, furnizuesi duhet ta ketë një kopje të përkthimit shqip.

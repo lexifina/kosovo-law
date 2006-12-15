@@ -1,0 +1,4 @@
+# Neni 19
+19.1. Miratim teknik i Kosovës mund të jepet edhe në mbështetje të miratimit teknik Evropian ose të një miratimi teknik të pranuar, i cili është dhënë një produkti ndërtimi nga një organ miratues që ka zyrë të regjistruar jashtë kufirit. Miratim teknik i Kosovës i dhënë në këtë mënyrë, do të vërtetojë përshtatshmërinë e produktit për përdorimin e tij të paraparë me rregullat e Kosovës mbi kërkesat themelore për punimet e ndërtimit.
+19.2. Miratimin teknik i Kosovës nga pika 1 e këtij neni, mund të jepet mbas inspektimit të dokumenteve mbi ekzaminimet, provat dhe vlerësimet komplete të cilat kanë qenë bazë për dhënien e miratimit teknik Evropian ose miratimit teknik të pranuar. Në qoftë se është e nevojshme mund të bëhen inspektime, ekzaminime dhe prova shtesë për dhënien e miratimit teknik të Kosovës.
+19.3. Ministria detalisht i përcakton procedurat e dhënies, vazhdimit, rishikimit dhe anulimit të një miratimi teknik të Kosovës.

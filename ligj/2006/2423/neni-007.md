@@ -1,0 +1,2 @@
+# Neni 7
+Kur një produkt ndërtimi nuk i plotëson ose i plotëson vetëm disa nga kërkesat e specifikave teknike nga neni 5 dhe 6, atëherë prodhuesi mund ta nxjerrë në treg produktin, vetëm nëse pas zbatimit të procedurave për vlerësimin e konformitetit sipas pikës 1. të nenit 23, ia bashkëngjit deklaratën për konformitetin e atij produkti. Në atë rast, deklarimi i konformitetit do të bazohet në testim fillestar të një produkti të kryer në laborator testimi , i cili është miratuar si organ për vërtetimin e konformitetit.
