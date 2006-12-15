@@ -1,0 +1,5 @@
+# Neni 18
+Shënimet të cilat duhet të mbahen nga prodhuesit e farës, shitësit e farës, paketuesit e farës dhe përpunuesit e farës
+1. Vetëm personat e regjistruar në pajtim me aktet nënligjore do të janë të lejuar për të prodhuar , paketuar, ripaketuar, përpunuar dhe tregtuar farëra në Kosovë.
+2. Personi i cili regjistrohet si prodhues i farës, shitës i farës, paketues i farës ose përpunues i farës do të mbajë shënime adekuate dhe në mënyrë të rregullt lidhur me transaksionet e tij me farërat si dhe me trajtimin e tyre, testimin dhe operacionet e tjera të ndërmarra nga ai person ose në emër të tij lidhur me çfarëdo lloj fare; kurse vazhdimi i regjistrimit të tij do të kushtëzohet me dhënien-prezantimin e një informate të tillë DPMB, në rast se ai kërkon një gjë të tillë; duke i lejuar në çfarëdo kohe të arsyeshme një zyrtari ose ekipi të tij të bëjë inspektimin dhe të marrë kopjet e çfarëdo shënimesh të tilla dhe të bëjë inspektimin e pasurisë, makinave, pajimeve dhe objekteve të tjera me të cilat zhvillon veprimtarinë për të cilën është regjistruar.
+IV KONTROLLIMI I FARËS SË IMPORTUAR DHE PATATEVE PËR FARË

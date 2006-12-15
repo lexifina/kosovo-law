@@ -1,0 +1,7 @@
+# Article 20
+Seed Potatoes permitted for importation into Kosovo
+1. Seed Potatoes of a variety that is included in Kosovo Seeds List shall be permitted for importation and marketing in Kosovo. The importation of seed potatoes of a variety that is not included in Kosovo Seeds List shall not be permitted.
+2. The standards that must be met by imported seed potatoes shall be defined in a sub-legal act promulgated by the Government upon the recommendation of the Minister.
+3. All consignments of seed potatoes shall be in sealed containers, labeled with the labels and accompanied by information conforming to the requirements specified in sub-legal acts.
+4. The Department may decide to permit the importation of certified seed potatoes from a country that participates in the International Seed Potato Certification Scheme under auspices of the United Nations/ Economic Commission for Europe (UN/ECE), providing that seed potatoes in question have met the quality standards prescribed by European Union in all respects.
+5. Seed potatoes used or to be used for research or experiment and seed potatoes used or to be used in the course of a process of selection shall be permitted to be imported, providing that written notification has been sent, in advance, to the Department of Plant Production and Protection of MAFRD. MAFRD may impose restrictions on the amount of seed potatoes that are imported.

@@ -1,0 +1,5 @@
+# Article 18
+Records to be kept by seed producers, seed merchants, seed packers and seed processors
+1. Only persons registered in accordance with sub-legal acts shall be permitted to produce seeds, pack seeds, re-pack seeds, process seeds and market seeds in Kosovo.
+2. A person registered as a seed producer, a seed merchant, a seed packer or a seed processor shall keep and maintain proper records of his transactions in seeds and of the treatment, testing and other operations undertaken by them or on their behalf in relation to any seeds; and their continued registration shall be conditional upon his giving to the Department of Plant Production and Protection such information as it may reasonably require and to his permitting at any reasonable time, an officer or team to inspect and take copies of any such records and to inspect the premises, machinery, equipment and facilities available for the carrying on of the business in respect of which he is registered.
+IV CONTROL OF IMPORTED SEED AND SEED POTATOES
