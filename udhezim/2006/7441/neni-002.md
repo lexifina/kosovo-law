@@ -1,0 +1,4 @@
+# Neni 2
+Ndarja e kafshëve të gjalla dhe e produkteve me origjinë shtazore
+2.1 Në mënyrë që të shmanget kontaminimi i ndërsjellët ose ndërmjetësimi ndërmjet kafshëve të gjalla ose produkteve me origjinë shtazore siç referohen në nenin 1.1 të këtij udhëzimi administrativ dhe prodhimeve me origjinë shtazore siç referohen në nenin 1.2 pika (a), (b), dhe (c), apo kafshëve të gjalla të referuara në nenin 1.2 pika (d), të këtij udhëzimi administrativ, ato duhet të mbahen të ndara gjatë gjithë kohës, përveç nëse kafshët e tilla të gjalla ose prodhimet me origjinë shtazore janë prodhuar së paku nën kushte të njëjta të mbrojtjes shëndetësore në lidhje me TSE-të.
+2.2 Rregullat për implementimin e këtij neni duhet të adoptohen në pajtim me procedurën e referuar në nenin 24.2 të këtij udhëzimi administrativ.

@@ -1,0 +1,5 @@
+# Neni 1
+Qëllimi
+1.1. Ky udhëzim administrativ përcakton rregullat për parandalimin, kontrollimin dhe eradikimin e encefalopative spongjiforme ngjitëse (TSE) të kafshëve dhe do të zbatohet në prodhimin dhe vënien në treg të kafshëve të gjalla dhe produkteve me origjinë shtazore dhe në raste të caktuara specifike të eksportit të tyre.
+1.2. Ky udhëzim administrativ nuk do të zbatohet për:
+(a) prodhimet e kozmetikës apo medicinale, pajisjet mjekësore, për lëndën e parë të tyre apo prodhimet e ndërmjetshme; (b) prodhimet që nuk mendohet të përdoren si ushqim i njerëzve, ushqim i kafshëve, plehra, apo si lëndë e parë e tyre ose prodhimet e ndërmjetshme; (c) prodhimet me origjinë shtazore me qëllim të ekspozimit, mësimdhënies, kërkimeve shkencore, studime speciale apo analiza, me kusht që këto prodhime nuk janë konsumuar apo përdorur prej njerëzve apo kafshëve tjera pos atyre që janë mbajtur për projektet kërkimore në fjalë; (d) kafshët e gjalla të përdorura për kërkime, hulumtime apo që mendohet të përdoren për kërkime dhe hulumtime.

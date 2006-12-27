@@ -1,0 +1,6 @@
+# Neni 6
+Sistemi i monitorimit
+6.1. Secili shtet anëtar duhet ta hartojë programin vjetor për monitorim të BSE dhe scrapit në pajtim me Aneksin III, Kapitulli A Programi do të përfshijë procedurën e ekzaminimit me teste të shpejta. Testet e shpejta duhet të aprovohen për atë qëllim dhe në pajtim me procedurën e referuar në nenin 24.2 dhe të vënë në listë në Aneksin X, Kapitulli C, Pika 4. (EN Gazeta Zyrtare e Komuniteteve Evropiane 31.5.2001 L 147/6).
+6.2. Secili shtet anëtarë duhet të informojë Komisionin dhe Shtetet e tjera Anëtare, brenda Komitetit Drejtues Veterinar, për emergjencë të një TSE-së të ndryshme nga BSE.
+6.3. Të gjitha hulumtimet zyrtare dhe ekzaminimet laboratorike duhet të regjistrohen dhe protokolohen në pajtim me Aneksin III, Kapitulli B të këtij udhëzimi administrativ.
+6.4. Shtetet anëtare duhet të paraqesin raportin vjetor para Komisionit duke mbuluar së paku informatën e referuar në Aneksin III, Kapitulli B, Pjesa I. Raporti për secilin vit kalendarik duhet të paraqitet më së voni me 31 Mars të vitit pasues. Komisioni do ta prezantojë përmbledhjen e raporteve nacionale duke mbuluar së paku informatën e referuar në Aneksin III, Kapitulli B, Pjesa II, para Komitetit Drejtues Veterinar në afat prej tre muajsh nga dita e pranimit të raporteve.
