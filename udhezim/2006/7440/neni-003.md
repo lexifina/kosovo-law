@@ -1,0 +1,6 @@
+# Neni 3
+Njoftimi për mortajën klasike të derrave
+3.1. Autoriteti kompetent do të sigurojë që prezenca dhe prezenca e dyshuar e mortajës klasike të derrave do të lajmërohet në vendet tjera si dhe në OIE konformë nenit 11 të Ligjit për Veterinarinë.
+3.2. Pa paragjykim në paragrafin 3.1, Autoriteti kompetent do të:
+a) bën lajmërimin për sëmundjen dhe t’i siguron informata Organizatës Ndërkombëtare për Shëndetin e Kafshëve (O.I.E), Komisionit Evropian dhe shteteve fqinje në pajtim me Aneksin I të këtij udhëzimi administrativ për:
+(i). paraqitjen e mortajës klasike të derrave të cilat janë të vërtetuara në ferma, (ii). rastet e mortajës klasike të derrave të cilat janë të vërtetuara në thertore ose në mjetet e transportit, (iii). rastet fillestare të mortajës klasike të derrave të cilat janë të vërtetuara te derrat e egër, (iv). rezultatet e kërkimeve epidemiologjike të kryera në pajtim me nenin 8 të këtij udhëzimi administrativ b) siguron informata O.I.E.-ës, Komisionit Evropian dhe shteteve fqinjë për rastet e mëtejshme të vërtetuara te derrat e egër në zonën e infektuar me mortajë klasike të derrave në pajtim me nenin 16 paragrafi 16.3 pika (a) dhe 16.4 të këtij udhëzimi administrativ.

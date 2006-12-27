@@ -1,0 +1,19 @@
+# Neni 4
+Masat në rast të dyshimit të prezencës së mortajës klasike
+të derrave te derrat në një fermë
+4.1. Kur një fermë ka një ose më tepër derra të dyshuar të jenë të infektuar me virusin klasik të mortajës së derrave, Autoriteti kompetent venë në lëvizje mjetet zyrtare të hetimit për të vërtetuar ose përjashtuar prezencën e sëmundjes së përmendur në pajim me procedurat e përcaktuara në manualin diagnostik.
+4.2. Kur ferma vizitohet nga një zyrtar veterinar do të kryhet kontrollimi i regjistrave lidhur me nenin 3 dhe 13 të Udhëzimit Administrativ MA-NR..03/2005 për Identifikimin dhe Regjistrimin e Kafshëve.
+4.3. Kur Autoriteti kompetent konsideron se prezenca e dyshuar e mortajës klasike të derrave në një fermë nuk mund të përjashtohet, ai do të vejë pronën nën mbikëqyrje zyrtare dhe veçanërisht do të urdhërojë që:
+a) të gjithë derrat në kategori të ndryshme në fermë duhet të numërohen dhe të përpilohet lista e numrit të derrave të sëmurë më parë, të ngordhur ose që mund të infektohen në çdo kategori; lista do të plotësohet për të marrë parasysh lindjet dhe ngordhjet e derrave gjatë periudhës së dyshimit; informatat në listë do të ipen në kërkesë dhe mund të verifikohen në çdo vizitë;
+b) të gjithë derrat në fermë do të kufizohen në zonat ku jetojnë ose të mbyllen në ndonjë vend tjetër ku ata mund të izolohen;
+c) asnjë derr nuk mund të hyj ose largohet nga ferma, Autoriteti kompetent mundet, nëse është e nevojshme, të zgjatë ndalesën për largimin nga ferma për t’i përfshirë llojet tjera të shtazëve dhe të kërkojë aplikimin e masave përkatëse për shkatërrimin e brejtësve ose insekteve;
+d) asnjë trup i derrave nuk mund të largohet nga ferma pa autorizimin e lëshuar nga Autoriteti kompetent;
+e) asnjë mish, produkte të derrave, sperma, vezët dhe embrionet e derrave, ushqim, enë, materiale të kafshëve ose mbeturinë që mund të bartin mortaja klasike të derrave nuk mund të dalë nga ferma pa autorizimin e lëshuar nga Autoriteti kompetent;
+f) lëvizja e personave për ose nga ferma do të autorizohet me shkrim nga ana e Autoritetit kompetent;
+g) lëvizja e automjeteve për ose nga ferma do të autorizohet me shkrim nga ana e Autoritetit kompetent.;
+h) në hyrjet dhe daljet e objekteve të banimit të derrave dhe të vetë fermës do të përdoren mjetet përkatëse për dezinfektim; çfarëdo personi që hyn dhe del nga ferma e derrave duhet t’i plotësojë masat e nevojshme përkatëse të nevojshme për zvogëlimin e rrezikut të përhapjes së virusit të mortajës klasike të derrave. Përveç kësaj, të gjitha mjetet e transportit do të dezinfektohen me kujdes para daljes nga ferma;
+i) një hulumtim epidemiologjik do të kryhet në pajtim me nenin 8 të këtij udhëzimi administrativ.
+4.4. Aty ku situata epidemiologjike kërkon dhe në veçanti nëse ferma që ka derra të dyshuar është e vendosur në një zonë me një dendësi të madhe të derrave, Autoriteti kompetent:
+a) mund t’i aplikojë masat e nenit 5 paragrafi 5.1 të këtij udhëzimi administrativ në fermë lidhur me paragrafin 4.3 të këtij neni; megjithatë, Autoriteti kompetent mundet, ku ai konsideron se lejojnë kushtet, të kufizojë aplikimin e këtyre masave vetëm në derrat e dyshuar që janë të infektuar ose kontaminuar me virusin e mortajës klasike të derrave dhe pjesa e fermës ku janë mbajtur ata, me kusht që këta derra kanë qenë të strehuar, të mbajtur dhe ushqyer plotësisht të ndarë prej derrave tjerë në fermë në çdo rast do të merret një numër i mjaftueshëm i mostrave prej derrave kur ata vriten në mënyrë që prezenca e virusit të mortajës klasike mund të vërtetohet ose përjashtohet, në pajtim me manualin dijagnostik;
+b) mund të formojë një zonë kontrolluese të përkohshme përreth fermës lidhur me paragrafin 4.3 disa ose të gjitha masat lidhur me paragrafin 4.1 ose 4.3 do të aplikohen në fermat e derrave përbrenda kësaj zone.
+4.5. Masat e parapara në paragrafin 4.3 nuk do të hiqen përderisa dyshimi i mortajës klasike të derrave të përjashtohet zyrtarisht.

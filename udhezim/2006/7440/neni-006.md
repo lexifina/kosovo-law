@@ -1,0 +1,6 @@
+# Neni 6
+Masat në rast të vërtetimit të prezencës së mortajës klasike të derrave në fermat që
+përbëjnë njësi të ndryshme të prodhimit
+6.1. Në rast të vërtetimit të prezencës të mortajës klasike të derrave në fermat të cilat përbëhen prej dy ose më tepër njësive të ndara prodhimi dhe me qëllim që trashja e derrave mund të përfundojë, Autoriteti kompetent mund të vendosë të përjashtojë nga dispozitat e nenit 5 paragrafi 5.1. pika (a) sa i përket njësive për prodhimin e derrave të shëndosh në fermën e infektuar me kusht që veterinari zyrtar e ka konfirmuar se struktura, madhësia dhe distanca në mes të këtyre njësive prodhuese dhe operacioneve të kryera atje, janë të tilla se njësitë e prodhimit sigurojnë komplet objekte të ndara për strehim, mbajtje dhe ushqim, ashtu që virusi nuk mund të përhapet prej një njësie prodhimi në tjetrën.
+6.2. Nëse bëhet përjashtimi në lidhje me paragrafin 6.1 të këtij neni, Autoriteti kompetent do të përpilon rregulla të hollësishme për aplikimin e tyre duke marrë parasysh garancionet e shëndetit të kafshëve të cilat mund të epen.
+6.3. Dispozitat e këtij neni aplikohen vetëm në rekomandim të grupit të ekspertëve siç referohet në nenin 23 të këtij udhëzimi administrativ. Në këtë rast duhet të aprovohen masat e mëtejshme për pengimin e përhapjes të sëmundjes.

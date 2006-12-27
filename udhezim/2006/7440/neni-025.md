@@ -1,0 +1,7 @@
+# Neni 25
+Masat detyruese
+25.1 Në rast kur një pronar ose përgjegjës për kafshët që lehtë infektohen dështon të aplikojë një ose disa masa të kërkuara nga ky udhëzim administrativ ose veterinari zyrtar, kryetari i komunës, apo udhëheqësi komunal e lejon ekzekutimin e masave me ndihmën e Shërbimit Policor të Kosovës. Autoriteti kompetent do t’i kërkoj shpenzimet nga pronari ose përgjegjësi për shtazët.
+25.2 Pa paragjykim në ligjin tjetër në fuqi në Kosovë lidhur me mbrojtjen e së drejtës dhe hapësirën e jetesës, personi i autorizuar mund të hyjë në ndërtesa, strehimore, fusha, prona dhe vende tjera ku kafshët e infektueshme mund të fshihen. Pronari ose përgjegjësi i kafshëve të dyshimta në kërkesën e parë gojore ose të shkruar të personit zyrtar do të mbledhë kafshët e tij në stallë ose fushë dhe ai dhe stafi i tij do t’i asistojë veterinarit zyrtar në ekzaminimet e tyre.
+25.3 Të gjitha kafshët që lehtë infektohen të gjetura në një fermë të fshehur do të vriten me urdhër të veterinarit zyrtar pa vlerësim ose kompensim.
+25.4 Çfarëdo kafshe që lehtë infektohet, prezenca e së cilës në një zonë publike, rrugë, vend, ose vend tjetër privat, që nuk është në pajtim me dispozitat e këtij udhëzimi administrativ do të vritet menjëherë me urdhër të veterinarit zyrtar.
+25.5 Shpenzimet për selektimin, vrasjen, djegien dhe inspektimet në kornizën e këtyre masave detyruese do të janë në barrë të pronarit ose përgjegjësit të shtazëve.

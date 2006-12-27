@@ -1,0 +1,34 @@
+# Neni 19
+Vaksinimi emergjent i derrave
+19.1 Përjashtimisht nga nenit 18 paragrafi 17.1 pika (a), të këtij udhëzimi administrativ, kur mortaja klasike të derrave janë vërtetuar në fermat e derrave dhe shënimet epidemiologjike në dispozicion sugjerojnë se ajo kërcënon të përhapet, mund të aplikohet vaksinimi emergjent në fermat e derrave në pajtim me procedurat dhe dispozitat e përcaktuara në paragrafët 19.2 deri 19.9 të këtij neni.
+19.2 Pa paragjykim në dispozitat e nenit 5 paragrafi 5.2 të këtij udhëzimi administrativ, kriteret kryesore dhe faktorët e rrezikut që duhet të shqyrtohen për aplikimin e vaksinimit emergjent janë të përcaktuara në Aneksin VI të këtij udhëzimi administrativ. Këto kritere dhe faktorë të rrezikut munden më vonë të ndryshohen ose plotësohen për të shqyrtuar përvojat dhe zhvillimet shkencore.
+19.3 Kur Autoriteti kompetent ka ndërmend ta bën vaksinimin, ai duhet të hartojë një plan emergjent për vaksinim, i cili së paku duhet të përfshijë informatat mbi:
+a) situatën e sëmundjes e cila ka shpie deri te kërkesa për vaksinim emergjent;
+b) madhësia gjeografike e zonës në të cilën duhet të kryhet vaksinimi emergjent dhe numri i fermave të derrave në këtë zonë;
+c) kategoritë e derrave dhe numri i përafërt i derrave që duhet të vaksinohen;
+d) vaksina që duhet përdorur;
+e) zgjatja e fushatës së vaksinimit;
+f) identifikimi dhe regjistrimi i shtazëve të vaksinuara;
+g) masat për lëvizjen e derrave dhe produktet e tyre;
+h) kriteret që do të konsiderohen për të vendosur nëse vaksinimi ose masat në lidhje me nenin 7 paragrafi 7.2 do të aplikohen në fermat kontaktuese;
+i) çështjet tjera përkatëse për emergjencën, duke përfshirë ekzaminimet klinike dhe laboratorike që duhet të kryhen në mostrat e marra në fermat e vaksinuara dhe në fermat tjera të vendosura në zonën e vaksinimit, në veçanti nëse duhet të përdoret vaksina marker;
+j) plani për vaksinimin emergjent do t’i dërgohet Komisionit Evropian për koment; plani emergjent për vaksinim mundet më vonë të ndryshohet ose plotësohet për shqyrtimin e këtij komenti ose zhvillimeve në situatë.
+19.4 Autoriteti kompetent do të sigurojë që gjatë periudhës emergjente të vaksinimit:
+a) asnjë derr i gjallë të mos dalë nga zona e vaksinimit, përderisa të transportohet për në thertore të caktuar nga Autoriteti kompetent dhe e vendosur brenda zonës së vaksinimit ose në afërsi të asaj zone për therje të menjëhershme ose në një fabrikë përpunuese ose në një vend të përshtatshëm ku ata menjëherë vriten dhe trupat e tyre trajtohen nën mbikëqyrje zyrtare;
+b) i tërë mishi i freskët i derrave i prodhuar prej derrave të vaksinuar gjatë vaksinimit emergjent ose përpunohet ose shënohet ose trajtohet në pajtim me dispozitat në lidhje me nenin 10 paragrafi 10.3 pika (f) të këtij udhëzimi administrativ;
+c) sperma, vezët dhe embrionet e mbledhura prej derrave që duhet të vaksinohen gjatë 30 ditëve para vaksinimit gjurmohen dhe shkatërrohen nën mbikëqyrjen zyrtare.
+19.5 Dispozitat e përcaktuara në paragrafin 19.4 të këtij neni, do të aplikohen për një minimum prej 6 muajsh pas kryerjes së veprimeve të vaksinimit në zonën në fjalë.
+19.6 Para përfundimit të periudhës gjashtë mujore në lidhje me paragrafin 19.5, do të merren masa për të ndaluar:
+a) derrat seropozitiv nga largimi nga ferma ku ata mbahen, përveç për therje të menjëhershme;
+b) mbledhjen e spermës, embrioneve ose vezëve nga derrat seropozitiv;
+c) dërrkucat e femrave seropozitive nga largimi nga ferma e tyre e origjinës përderisa të transportohen për:
+(i).një thertore për therje të menjëhershme, (ii).një fermë të caktuar nga ana e Autoritetit kompetent, nga e cila ata do të
+dërgohen drejtpërdrejtë në thertore, (iii).një fermë pas marrjes së një rezultati negativ nga testi serologjik për antitrupa kundër virusit të mortajës klasike të derrave.
+19.7 Rruga anësore e përjashtimit nga paragrafi 19.3 i këtij neni, vendimi që duhet të sjellë vaksinimin emergjent mund të bëhet sipas kushteve në vijim:
+a) një pasqyrë e planit emergjent për vaksinim duhet të përpilohet në pajtim me nenin 22 të këtij udhëzimi administrativ.
+b) përveç informatave në lidhje me paragrafin 19.3, plani duhet të imponoj se të gjithë derrat në ferma ku duhet të bëhet vaksinimi do të theren ose vriten në një afat sa më të shkurtë pas përfundimit të operacioneve të vaksinimit në pajtim me paragrafin 19.4 pika (a), dhe mishi i freskët i prodhuar prej këtyre derrave do të përpunohet ose të shënohet dhe trajtohet në pajtim me dispozitat e përcaktuara në nenin 10 paragrafi 10 pika (f), 19.8 Pavarësisht nga dispozitat e parapara në paragrafët 19.5 dhe 19.6, masat e parapara në paragrafin 19.4 mund të hiqen pasi që:
+a) të gjithë derrat në ferma ku vaksina është përdorur janë therur ose vrarë në pajtim me paragrafin 19.4 pika (a), dhe mishi i freskët i prodhuar nga këta derra është përpunuar ose shënuar dhe trajtuar në pajtim me nenin 10 paragrafi 10.3 pika (f), të këtij udhëzimi administrativ b) të gjitha fermat ku derrat e vaksinuar janë mbajtur janë të pastruara dhe dezinfektuara në pajtim me nenin 12 të këtij udhëzimi administrativ. Aty ku masat e parapara në paragrafin 19.4 hiqen, Autoriteti kompetent do të sigurojë që:
+(i) rikthimi i derrave në fermat e përcaktuara nuk do të ndodhë deri së paku 10 ditë pas përfundimit të operacioneve të pastrimit dhe dezinfektimit, dhe pasi që të gjithë derrat në ferma ku është aplikuar vaksina janë therë ose vrarë; (ii) pas rikthimit, derrat në të gjitha fermat në zonën e vaksinimit do t’i nënshtrohen ekzaminimeve klinike dhe laboratorike siç është përcaktuar në manualin diagnostik në mënyrë që të zbulohet prezenca e mundur e virusit të mortajës klasike të derrave. Në rast se derrat e sjellur në fermat ku është aplikuar vaksina, këto ekzaminime nuk do të bëhen deri së paku të kalojnë 40 ditë pas sjelljes së derrave, gjatë së cilës kohë derrat nuk do të lejohen të lëvizin nga ferma.
+19.9 Në ato raste kur një vaksinë marker është përdorur gjatë fushatës, përjashtimet nga dispozitat lidhur me paragrafët 19.4, 19.5 dhe 19.6 mund të autorizohen në veçanti sa i përket shënimit të mishit të derrave të vaksinuar dhe përdorimin e tij të mëvonshëm, dhe destinimin e produkteve të trajtuara. Autorizimi i tillë do të jetë objekt i kushteve vijuese:
+a) plani për vaksinim do të aprovohet para fillimit të operacioneve të vaksinimit në pajtim me paragrafin 19.3, b)duhet të bëhet një raport i gjithanshëm për implementimin e fushatës së vaksinimit, rezultatet e tij dhe situata e përgjithshme epidemiologjike, c)një kontroll në terren për implementimin e fushatës së vaksinimit do të kryhet në pajtim me procedurat në lidhje me nenin 21 të këtij udhëzimi administrativ.
+19.10 Aprovimi i përjashtimit nga dispozitat lidhur me paragrafët 19.4, 19.5 dhe 19.6 do të bazohet në rrezikun e përhapjes së virusit të mortajës klasike të derrave përmes lëvizjes ose tregtisë së derrave të vaksinuara, këlyshëve ose produkteve të tyre.
