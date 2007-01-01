@@ -1,0 +1,2 @@
+# Neni 6
+Për të gjithë rezidentët të cilët për shkaqe shëndetësore nuk mund të menaxhojnë me paratë e xhepit, stafi menaxhues i SHPMPF-së dhe i JSSH-së, do të formojë një komision të veçantë i cili do t’i mbajë dhe menaxhojë këto mjete financiare. Komisioni do ti shpenzojë mjetet financiare në përbushjen e nevojave të këtyre rezidentëve, varësisht nga dëshirat dhe nevojat e tyre. Për shpenzimet dhe menaxhimin e këtyre mjeteve financiare, komisioni në fjalë është i obliguar të raportojë në formë të shkruar çdo tre muaj te drejtori i institucionit.

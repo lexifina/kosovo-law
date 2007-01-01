@@ -1,0 +1,2 @@
+# Neni 10
+Me rastin e vdekjes eventuale të rezidentit, të mirat materiale dhe mjetet financiare të mbetura në dhomën e klientit pas vdekjes së tij, duhet t’i pranojë një komision i formuar enkas për këtë qëllim nga stafi punonjës i institucionit. Të gjitha të mirat materiale apo mjetet financiare pas vdekjes së rezidentit i dorëzohen familjes së tij. Nëse nuk ka familje atëherë ato shfrytëzohen në të mirë të rezidentëve të Institucionit.
