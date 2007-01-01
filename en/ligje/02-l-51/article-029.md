@@ -1,0 +1,2 @@
+# Article 29
+For violation of provisions from Chapter IX of the present Law, every affected individual, legal entity, association for protection of consumers’ rights, publishers association, professional publishers’ trade union or book dissemination, or the author of the book himself/herself, or any copyrights agency, shall have the right to request a halt in violation of his/her rights and claim for the damage with the relevant bodies.

@@ -1,0 +1,2 @@
+# Neni 13
+Për të popullarizuar, afirmuar dhe avancuar veprimtarinë botuese si dhe librin origjinal e të përkthyer të të gjitha zhanreve, organet dhe institucionet e nivelit qendror, institucionet qendrore të artit, shkencës dhe të kulturës, si dhe ato regjionale e lokale, sipas këtij ligji, janë te obliguara që çdo vit tё blejnë ose dhurohen për bibliotekat dhe nevojat e tyre; ndërsa organet dhe institucionet e kulturës për bibliotekat e tyre nga pesë 5 ekzemplarë të botuar, po atë vit, të botuesve të regjistruar në Ministrinë e Kulturës.

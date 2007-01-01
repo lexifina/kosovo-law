@@ -1,0 +1,2 @@
+# Neni 26
+Për shkelje të dispozitave nga kreu IX i këtij Ligji, çdo individ i dëmtuar, subjekt juridik, shoqatë e mbrojtjes së të drejtave të konsumatorëve, shoqatë botuesish, sindikatë e profesionistëve të botimit ose të përhapjes së librit si dhe vetë autori i librit ose çdo agjenci që mbron të drejtat e autorëve, ka të drejtë të kërkojë ndalimin e cenimit të të drejtave të tij dhe dëmshpërblim përkatës pranë organeve përkatëse.

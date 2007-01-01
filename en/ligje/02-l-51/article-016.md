@@ -1,0 +1,2 @@
+# Article 16
+16.1. In order to achieve the popularization, affirmation, and the advancement of the publishing activity as well the both original and translated books of all the genre, the central and local bodies, the central institutions of art, science and culture, also those regional and local, according to the present law, are obliged to purchase or award each year for libraries and their needs, whereas for cultural institutions and bodies about 5 published copies, in the same year by the publishers registered in the Ministry of Culture.

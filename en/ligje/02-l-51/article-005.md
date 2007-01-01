@@ -1,0 +1,2 @@
+# Article 5
+Present law shall guarantee, protect and promote the freedom of publication in local and foreign languages and circulation of books both inside and outside the territory of Kosovo. The freedom of publication and circulation of books shall be limited only on basis of a court decision, in cases when publication or circulation of books is conducted in contradiction with the applicable legal provisions.
