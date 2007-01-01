@@ -1,0 +1,5 @@
+# Neni 53
+Zvogëlimi i numrit të kafshëve të egra
+53.1. Me kërkesën e pronarëve apo shfrytëzuesve të tokave, ministria me akt të veçantë nënligjor mund të vendosë të zvogëlohet numri i llojit të caktuar të kafshëve të egra të cilat shkaktojnë dëme të përmasave të mëdha në kultura bujqësore , po qe se masat e parapara me këtë ligj nuk janë treguar mjaft të suksesshme dhe ekonomikisht të arsyeshme.
+53.2. Me qëllim të mbrojtjes së shëndetit dhe jetës së njerëzve dhe kafshëve, komunat, menaxhuesit e vendgjuetive, personat fizik dhe juridik të cilët ushtrojnë veprimtari të bujqësisë dhe pylltarisë janë të obliguar të organizojnë dhe të marrin pjesë në zvogëlimin e numrit të kafshëve të egra në zonat e rrezikuara dhe sjelljen e tyre në numër të arsyeshëm.
+53.3. Në vendgjuetitë dhe sipërfaqet e tokave jashtë saj në të cilat është paraqitur sëmundje ngjitëse apo që mund të paraqitet, menaxhuesi i vendgjuetisë si dhe personi i cili kujdeset për mbrojtjen e kafshëve të egra është i obliguar të zbatoi masat për mbrojtjen e shëndetit të kafshëve dhe të lajmëroi Shërbimin Veterinar mbi rrezikun e përhapjes së saj.
