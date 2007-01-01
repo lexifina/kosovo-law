@@ -1,0 +1,8 @@
+# Neni 17
+Çështje paraprake, që zgjidhen nga organe të tjera
+17.1. Në rast kur vendimi përfundimtar në procedim administrativ kushtëzohet nga marrja e një vendimi paraprak, i cili, nga ana e tij, është në kompetencë të një organi tjetër të administratës publike ose të gjykatës, organi që është kompetent për marrjen e vendimit përfundimtar pezullon procedimin administrativ derisa organi tjetër ose gjykata të marrin vendimin paraprak.
+17.2. Përjashtime nga rregulli i parashikuar në paragrafin 1 të këtij neni lejohen vetëm në ato raste kur mos marrja e menjëhershme e vendimit do t’u shkaktonte një dëm të rëndë e të pariparueshëm të drejtave themelore kushtetuese të personave fizikë dhe juridikë ose interesit ligjor publik.
+17.3. Pezullimi i procedimit administrativ, i parashikuar në paragrafin 1 të këtij neni, përfundon automatikisht në rastet e mëposhtme:
+a) Kur marrja e vendimit paraprak varet prej bërjes së një kërkese nga palët e interesuara në procedimin administrativ dhe ato nuk e bëjnë një gjë të tillë brenda afateve të parashikuara nga ligji;
+b) Kur në mungesë të një afati ligjor, procedimi administrativ për zgjidhjen e çështjes paraprake nuk fillon brenda 30 ditësh nga dita kur merret vendimi për pezullimin e procedimit administrativ, që shpie në marrjen e vendimit përfundimtar, për shkak të mosparaqitjes së kërkesës përkatëse nga palët e interesuara.
+17.4. Në qoftë se organi i administratës publike, që është kompetent për marrjen e vendimit përfundimtar, nuk pret marrjen e vendimit paraprak nga organi tjetër ose gjykata, por vendos vetë për çështjen paraprake, vendimi në fjalë është i vlefshëm vetëm për procedimin administrativ në zhvillim e sipër.
