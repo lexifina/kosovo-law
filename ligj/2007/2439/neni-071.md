@@ -1,0 +1,11 @@
+# Neni 71
+71.1. Në padinë, sipas nenin 69. të këtij Ligji, mund të kërkohet që gjykata, deri në aktgykimin e formës së prerë, të caktojë masën e përkohshme:
+a. urdhërimin e shkelësit të patentës që të ndalojë gjegjësisht pezullojë aktivitetet me të cilat shkilet patentimi,
+b. konfiskimin përkatësisht heqjen nga qarkullimi të produkteve që rezultojnë nga ose që fitohen nga cenimi i patentimit si dhe e objekteve (veglat dhe mjetet) të përdorura kryesisht për prodhimin e produkteve që përbëjnë shkelje të patentimit,
+c. urdhërimin e cenuesit të patentimit që të informojë paditësin mbi identitetin e personave të tretë të përfshirë në prodhimin dhe shpërndarjen e mallit ose shërbimeve që përbëjnë shkelje të patentimit si dhe për kanalet të tyre të shpërndarjes, përveç rastit kur diçka e tillë do të ishte në shpërpjestim me seriozitetin e cenimit.
+71.2. Në përjashtim të dispozitave të cekura paragrafin 1. të këtij neni, propozimi për të caktuar masën e përkohshme mund të bëhet edhe para dorëzimit të padisë, me kusht që padia të jetë ngritur brenda 15 ditësh nga data e dorëzimit të propozimit.
+71.3. Nëse ekziston rreziku i shkaktimit të dëmit të pariparueshëm ose nëse shihet qartë se ekziston rreziku i zhdukjes së provave, gjykata mund të caktojë masën e përkohshme inaudita altera part (pa dëgjimin paraprak të palës tjetër).
+71.4. Në rastin kur masat e përkohshme janë marrë inaudita altera parte (pa dëgjimin e palës tjetër), pala për të cilën ka të bëjë masa duhet të jetë e njoftuar për këtë pa vonesë, dhe jo më vonë se 7 ditë pas zbatimit të masës.
+71.5. Gjykata mund t’i kërkojë propozuesit që të sjellë provat e disponueshme për të provuar në shkallë të mjaftueshme sigurie që propozuesi është pronar i të drejtës dhe se e drejta e tij po cenohet ose se ekziston rreziku i drejtpërdrejtë i cenimit të të drejtave të tij, si dhe të urdhërojë propozuesin që të depozitoj garancinë ose ndonjë mjet tjetër të ngjashëm garancie i cili është i mjaftueshëm për të mbrojtur të paditurin dhe për të shmangur shpërdorimin.
+71.6. Në lidhje me çështjet që kanë të bëjnë me urdhërimin e masave të përkohshme të parregulluara me këtë Ligj, zbatohen dispozitat përkatëse sipas procedurës së përmbarimit.
+Periudha e kufizimit dhe urgjenca e procedurës

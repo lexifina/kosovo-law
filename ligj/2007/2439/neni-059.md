@@ -1,0 +1,9 @@
+# Neni 59
+59.1. Nëse propozimi për shpalljen e nulimit të patentimit nuk bëhet në përputhje me dispozitat e cekura në nenin 58 paragrafi 2 të këtij Ligji ose nëse taksa administrative dhe pagesa e shpenzimeve procedurale nuk është paguar në përputhje me nenin 19 të këtij Ligji, Zyra fton propozuesin të korrigjojë mangësitë brenda 30 ditësh nga data e marrjes së ftesës.
+59.2. Nëse propozuesi nuk korrigjon propozimin brenda afatit kohor të specifikuar në paragrafin 1. të këtij neni, Zyra me vendim hedhë poshtë propozimin.
+59.3. Zyra i dorëzon pronarit të patentimit propozimin e rregulltë dhe fton atë të dorëzojë përgjigjen brenda një periudhe kohore që nuk mund të jetë më pak se 30 ditë dhe as më shumë se 60 ditë, prej datës së marrjes së propozimit.
+59.4. Në zhvillimin e procedurës për shpalljen e nulimit të patentimit, Zyra fton palët sa herë të jetë e nevojshme për të dorëzuar komentet e tyre lidhur me deklarimet e palës tjetër, brenda një periudhe kohore të cekur në paragrafin 3. të këtij neni.
+59.5. Zyra mban seancë (shqyrtim gojor), nëse e konsideron të nevojshme, për vërtetimin e fakteve thelbësore për vendimin e saj.
+59.6. Me kërkesë të arsyetuar, Zyra mund të zgjasë afatin kohor të cekur në paragrafet 1. dhe 3. të këtij neni për periudhën që e konsideron të arsyeshme.
+59.7. Zyra, nëse konsideron se është e nevojshme, për vërtetimin e fakteve qenësore për vendim, fton propozuesin që në afatin e caktuar të dorëzojë në Zyrë provë me shkrim për përmbushjen e kërkesave të nenit 57. të këtij Ligji.
+59.8. Provë me shkrim nga paragrafi 7 i këtij neni konsiderohet nëse këtë e ka bërë Zyra Europiane e Patentimeve ose ndonjë zyrë tjetër që është anëtar i Konventës Evropiane të Patentave dhe që vepron njëkohësisht si organ ndërkombëtar për shqyrtime paraprake sipas Marrëveshjes për Bashkëpunimin për Patentime (PTC).

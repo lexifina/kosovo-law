@@ -1,0 +1,5 @@
+# Neni 2
+2.1. Shpikja është risi nëse nuk përmbahet në njohurinë e mëparshme. Për përcaktimin e risisë, detajet e njohurisë së mëparshme mund të shqyrtohen vetëm individualisht.
+2.2. Me njohuri të mëparshme kuptohet gjithçka që i është bërë e njohur publikut në botë, me anë të shkrimit ose në formë gojore, nëpërmjet përdorimit ose në çfarëdo mënyre tjetër para datës së aplikimit për patentim.
+2.3. Në njohurinë e mëparshme përfshihet edhe përmbajtja e çdo aplikimi për patentim në Kosovë nëse ai aplikim është publikuar, me kusht që data e dorëzimt, dhe nëse është kërkuar përparësia, data e përparësisë e një aplikimi të tillë, të jetë më e hershme se data e cekur në paragrafin 2 të këtij neni.
+2.4. Dispozitat e paragrafëve 1.deri 3.të këtij neni nuk përjashtojnë mundësinë e mbrojtjes me patentim të substancave dhe përbërjeve të përmbajtura në njohurinë e mëparshme, që aplikohen në metodat nga neni 9. paragrafi 3 të këtij Ligji me kusht që metodat e cekura të mos jenë të përmbajtura në njohurinë e mëparshme.

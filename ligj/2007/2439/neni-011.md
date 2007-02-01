@@ -1,0 +1,6 @@
+# Neni 11
+11.1. E drejta e patentimit i përket shpikësit ose trashëgimtarit të tij të ligjshëm. Nëse shpikja është krijuar me punën e përbashkët të dy e më shumë shpikësve, e drejta e patentimit iu përket shpikësve ose trashëgimtarëve të ligjshëm të tyre, përveç në rast se ata merren vesh ndryshe.
+11.2.Pavarësisht nga dispozitat e paragrafit 1 të këtij neni, kur një shpikje e bërë në Kosovë arrihet si rezultat i një porosie ose buron nga një kontratë pune, e drejta e patentës të kësaj shpikjeje i përket personit që ka bërë porosinë ose punëdhënësit, përveç rastit kur dispozitat kontraktuese parashikojnë ndryshe.
+11.3. Kur dispozitat e paragrafit 2 të këtij neni zbatohen në lidhje me një shpikje që bëhet në zbatim të një kontrate pune në Kosovë, punonjësi që bënë shpikjen ka të drejtë për shpërblim prej punëdhënsit. Vlera e shpërblimit përcaktohet duke marrë parasysh pagën që merr, vlerën ekonomike të shpikjes dhe çdo lloj përfitimi që buron nga shpikja. Në mungesë të një marrëveshjeje mes palëve, për caktimin e shumës së shpërblimit, shuma caktohet nga autoriteti gjyqësor pas kërkesës nga njëra prej palëve.
+11.4. E drejta e patentimit mund të kalohet ose mund të kalojë me të drejtë trashëgimie ose pasardhjeje.
+Aplikuesi për patentim

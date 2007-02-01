@@ -1,0 +1,3 @@
+# Neni 28
+Me kërkesë ose kërkesa për patentim përcaktohet lënda për të cilën kërkohet mbrojtja me patent. Ato duhet të jenë të qarta, të përmbledhura dhe në tërësi të mbështetura në përshkrimin e shpikjes. Kërkesat e patentimit mund të jenë të pavarura dhe të varura. Kërkesat e pavarura duhet të përmbajnë karakteristika të reja dhe thelbësore të shpikjes. Kërkesat e varura përbajnë karakteristika specifike të shpikjes, të përcaktuar në kërkesat e pavarura ose kërkesat tjera të varura të patentimit. Përshkrimi dhe vizatimet mund të përdoren për të interpretuar kërkesat e patentimit.
+Bashkimi i shpikjeve

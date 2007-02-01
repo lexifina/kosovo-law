@@ -1,0 +1,2 @@
+# Neni 50
+Përdorimi i produkteve të bëra sipas shpikjes së mbrojtur në konstruksion ose pajisje të aeroplanëve ose mjeteve tokësore të trafikut të cilat i përkasin ndonjërit prej shteteve anëtar të unionit të Parisit ose anëtar të OBT-së, nuk konsiderohet shpikje mbrojtur me patentim kur ky mjet trafiku përkohësisht ose rastësisht gjendet në teritorin e Kosovës me kusht që produkti i prodhuar shërben ekskluzivisht për nevojat e atij mjeti trafiku.

@@ -1,0 +1,6 @@
+# Neni 23
+23.1. Aplikuesi për patent mundet, sipas kushteve nga neni 22 i këtij Ligji, të kërkojë njohjen e të drejtës së shumëfishtë të përparësisë në bazë të numrit më të madh të aplikimeve të dorëzuara në një ose më shumë shtete anëtarë të Unionit të Parisit ose anëtarë të OBT-së.
+23.2. Kërkesa për njohjen e të drejtës së përparësisë mund të lidhet vetëm me ato karakteristika të shpikjes të cilat përmbahen në aplikimin e parë ose në aplikimet për të cilat kërkohet e drejta e përparësisë.
+23.3. Nëse disa karakteristika të shpikjes për të cilat lidhet kërkesa për njohjen e të drejtës së përparësisë nuk gjenden në kërkesat e patentimit që përmbahen në aplikimin e parë, gjegjësisht në aplikimet, e drejta e përparësisë do të njihet nëse ato karakteristika mund të vërtetohen nga të gjitha pjesët përbërëse të aplikimit.
+23.4. Data e njohjes të të drejtës së përparësisë do të konsiderohet data e dorëzimit të aplikimit për patent në Zyrë në zbatim të të dispozitave të nenit 2 paragrafi 2 dhe 3 dhe nenit 20 paragrafi 1. të këtij Ligji.
+23.5. Nëse është kërkuar e drejta e shumëfishtë e përparësisë, afati kohor i cili sipas këtij Ligji fillon nga data e njohur e përparësisë do të llogariten prej datës më të hershme të përparësisë së shumëfishtë.

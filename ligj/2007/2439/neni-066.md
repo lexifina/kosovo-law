@@ -1,0 +1,2 @@
+# Neni 66
+Shpikësi respektivisht pasardhësi i tij i ligjshëm, e drejta e shpikjes së mbrojtur me patentim e të cilit është caktuar me vendim gjykate të formës së prerë, ka të drejtë të vazhdojë procedurën e ndërprerë për patentim brenda 3 muajsh, nga data kur vendimi i gjykatës merr formë të prerë, ose mund të dorëzojë aplikim të ri, për të njëjtën shpikje, duke kërkuar njohjen e datës së dorëzimit dhe të drejtën e përparësisë, nëse kjo datë ekziston, prej datës së aplikimit nga ana e dorëzuesit të aplikimit të cilit kjo e drejtë nuk i takon.

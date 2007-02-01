@@ -1,0 +1,5 @@
+# Neni 22
+Aplikuesi për patentim, i cili në Kosovë ka për qëllim ta shfrytëzojë të drejtën e përparësisë nga neni 21 i këtij ligji është i detyruar që në Zyrë të dorëzojë:
+a. kërkesën për njohjen e të drejtës së përparësisë që përmbanë të dhënat kryesore mbi aplikimin e parë, përparësia e të cilit kërkohet (numri dhe data e dorëzimit të aplikimit, shtetit anëtar të Unionit të Parisit ose anëtar të OBT-së në të cilin është paraqitur aplikimi ose për të cilin është paraqitur aplikimi), më së voni deri dy muaj nga data e dorëzimit të aplikimit në Kosovë,
+b. kopje e aplikimit të parë e vërtetuar nga organi kompetent i shtetit anëtar të Unionit të Parisit ose anëtar të OBT-së në të cilin ose për të cilin është dorëzuar aplikimi, më së voni deri në mbarimin e afatit prej tre muaj prej datës së dorëzimit të kërkesës për njohjen e të drejtës së përparësisë, ose katër muaj nga data e dorëzimit të aplikimit për patentim në Kosovë, ose gjashtëmbëdhjetë muaj nga data më e hershme e kërkesave të të drejtës së përparësisë varësisht nga ajo se cili prej afateve të cekura kalon më herët.
+Kërkesa për të drejtën e shumëfishtë të përparësisë
