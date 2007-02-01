@@ -1,0 +1,4 @@
+# Neni 12
+12.1. Personi fizik ose juridik, afarizmi i të cilit është objekt i inspektimit, obligohet t’i mundësojë inspektorit të tregut kryerjen e punëve të inspektimit nga neni 10. i këtij ligji si dhe t’i sigurojë kushte normale për kryerjen e punëve të inspektimit.
+12.2. Konsiderohet se personi i mbikëqyrur fizik ose juridik nuk ia ka mundësuar inspektorit kryerjen e punëve të inspektimit nga paragrafi 1. i këtij neni në rast se në afatin kohor të përcaktuar me procesverbal nga ana e inspektorit të tregut, nuk i siguron për shikim dokumentacionin e kërkuar për afarizëm si dhe dokumentet tjera të nevojshme për vërtetimin e gjendjes faktike.
+12.3. Personi fizik ose juridik nga paragrafi 1 i këtij neni obligohet që me kërkesë të inspektorit, përkohësisht ta ndërpresë punën në objektin në të cilin kryhet inspektimi po që se inspektori në mënyra tjera nuk ka mundësi ta kryejë mbikëqyrjen e filluar inspektuese.

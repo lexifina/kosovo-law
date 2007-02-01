@@ -1,0 +1,3 @@
+# Neni 21
+21.1. Po që se inspektori vërteton se me shkeljen e dispozitave ligjore është kryer kundërvajtje, delikti ekonomik ose vepër penale, me vendim, për të cilën çështje është i autorizuar, përkatësisht me procesverbal, nëse nuk ka autorizim për të marrë vendim, obligohet që menjëherë, e më së largëti në afat prej 15 ditësh nga dita e formulimit të procesverbalit, të bëjë kërkesë për ngritjen e procedurës për zhvillimin e veprimeve procedurale gjyqësore.
+21.2. Organi, të cilit i është bërë kërkesa sipas paragrafit. 1. të këtij neni, obligohet ta njoftojë paraqitësin e kërkesës me vendimin e marrë.

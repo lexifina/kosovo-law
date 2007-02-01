@@ -1,0 +1,2 @@
+# Neni 23
+Po që se në procedurë të inspektimit është e nevojshme të përcaktohet cilësia sipas kritereve të definuara për prodhimet në prodhimtari ose mallrat në qarkullim, inspektori mund të marrë mostra në prodhimtari ose nga mallrat në qarkullim, të vulosura dhe në mënyrë të drejtë të shënuara, dhe t’i dorëzojë në institutin kompetent të autorizuar për analizë dhe caktim të cilësisë së prodhimeve.
