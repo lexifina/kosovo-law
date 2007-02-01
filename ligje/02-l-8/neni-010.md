@@ -1,0 +1,5 @@
+# Neni 10
+10.1. Pavarësisht nga dispozitat e kapitullit VII prodhimi i rrushit, verës dhe prodhimet tjera të rrushit apo verës duhet të realizohet duke shfrytëzuar vetëm proceset e përcaktuara teknologjike dhe substancat enologike të lejuara.
+10.2. Përmirësimi i mushtit, verës, ëmbëlsimi i verës, lëngut të rrushit apo mushtit nuk është e lejuar përderisa institucioni i autorizuar të mos ketë dhënë lejen e kërkuar për sheqerosjen e bërsisë apo mushtit. Institucioni i autorizuar mund të lëshojë lejen nëse koha në vitin përkatës është në mënyrë ekstreme e pafavorshme për rritjen dhe zhvillimin e hardhisë, duke pasur parasysh njësitë territoriale të vreshtarisë dhe cilësinë e paraparë të verës si dhe llojin e rrushit. Ndalohet lëshimi i lejes për ëmbëlsim nëse lëngu i rrushit dhe mushti janë dedikuar për prodhim të verës së cilësisë së lartë. 8
+10.3. Leja e referuar në paragrafin e lartëpërmendur aplikohet për të gjithë prodhuesit e rrushit dhe verës të llojit përkatës në njësinë përkatëse territoriale të vreshtarisë, lëshohet në procedurës zyrtare dhe një kopje i dërgohet inspeksionit përkatës.
+Përzierja e rrushit, lëngut të rrushit, mushtit dhe verës

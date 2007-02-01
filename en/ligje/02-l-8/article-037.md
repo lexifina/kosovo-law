@@ -1,0 +1,4 @@
+# Article 37
+37.1. Enrichment, acidification, deacidification and sweetening of wines shall be reported to the Ministry. This also applies for the used amounts of sucrose, concentrated grape must and rectified concentrated grape, and this shall be done by the producers, bottlers, processors, and merchants at the same time and same place where they report issues on grape must and fermented grape must or huge quantities of wine in bulk.
+37.2. Enrichment, acidification, deacidification and sweetening shall be registered and relevant documents shall be issued to show that the products have undergone the process and may be distributed.
+37.3. Enrichment and sweetening, reduced as a result of exeptional climatic conditions, can be carried out only before 1. January and only for products of the grape harvested immediately preceding those dates.

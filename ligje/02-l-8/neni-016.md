@@ -1,0 +1,7 @@
+## KAPITULLI IV
+## NJESITË TERRITORIALE TË VRESHTARISË Ndarjet e njësive territoriale
+# Neni 16
+16.1. Duke e marrur parasysh rrethanat ekologjike si relievin, klimën, tokën, faktorët agrobiologjik dhe shkencorë, komponentet parimore organoleptike të verërave dhe aspektet historike tradicionale të vreshtarise, territori vreshtar i Kosovës do të ndahet në njësitë territoriale si në vijim: rajonet, nënrajonet, zonat dhe lokalitetet vreshtare.
+16.2. Nënrajoni i vreshtarisë është territori themelor i përcaktuar gjeografikisht, me kushte të ngjajshme klimatike dhe tokësore, varietete të caktuara të kultivimit të hardhive dhe faktorë tjerë të ngjashëm agrobiologjik të cilët së bashku mundësojnë prodhimin e rrushit dhe verërave të cilat përmbajnë komponente organoleptike që janë karakteristike për nënrajonin e vreshtarisë.
+16.3. Njësitë territoriale të vreshtarisë më të vogla se nënrajonet e vreshtarisë janë zonat e vreshtarisë, dhe lokalitetet e vreshtarisë. Këto janë pjesë të përcaktuara gjeografikisht me kushte të ngjashme klimatike, tokësore, të lartësisë, dhe faktoreve tjerë të mjedisit ku kultivohen varietetet specifike të hardhive të cilat së bashku mundësojnë prodhimin e rrushit dhe verës të ndryshme për nga cilësia dhe komponentet organoleptike nga rrushi dhe vera e prodhuar në njësitë tjera të vreshtarisë të rajonit të njejtë vreshtar. Nënrajonet, zonat dhe lokalitetet vreshtare do të caktohen me Akt nënligjor.
+Përzgjedhja e hardhive
