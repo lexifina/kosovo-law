@@ -1,0 +1,11 @@
+# Article 1
+Definitions
+“School Textbook” for Primary Schools, Low Secondary Schools and Upper Secondary Schools is a basic and compulsory book that serves as an essential and knowledge source for a certain field and the educational objectives which are achieved by using the textbook including the educational curriculum. The school textbook has been compiled based on educational curriculum and it is made in a didactic viewpoint, taking into consideration students’ psychophysics skills and specifications of the subject.
+“Educational Teaching Recourses” are different technical means, samples, natural objects, graphic materials, geographical maps, historical maps etc, which are used as knowledge sources and that enables student understand the natural and social phenomena, processes, objects etc. The educational teaching resources should adjust to students’ age, in compliance with concrete contents, goals, duties and objectives of the respective subject.
+“Reading material” includes books which have to be read for a certain time for one school year.
+“Pedagogical documentation” is a title of the documentation for which the school is obliged to keep it in compliance with legal acts. The school documentation contains: students’ classroom books, matrix book, registration book for the first grade, various kinds of certificates and diplomas on completing primary school, low secondary school and upper secondary school, booklet for grades, educational curricula, teachers’ curricula etc.
+“Author” is any natural or legal person who develops a school textbook and an educational teaching resource which is published in printing or electronic form.
+“Review” is a written critical evaluation of an educational text, an artistic play, and a scientific work.
+2 “Publisher” is a person who publishes the authors’ manuscripts, who also develops the entire process of publishing and delivering school textbooks, educational teaching resources, reading materials and pedagogical documentation.
+“Distributor” is a person who purchase and sells school textbooks and educational teaching resources by wholesale.
+“ISBN” is the distinctive mark of texts and books for not allowing their duplication and misapplication.

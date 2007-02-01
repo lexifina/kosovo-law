@@ -1,0 +1,11 @@
+# Neni 1
+Përkufizimet
+“Teksti shkollor” për shkolla fillore, shkolla të mesme të ulëta dhe për shkolla të mesme të larta është libër themelor dhe i obligueshëm që shërben si mjet themelor dhe burim i dijes për fushën e caktuar dhe me përdorimin e të cilit arrihen objektivat edukativo- arsimorë të përfshira në plan dhe program mësimor. Teksti shkollor është i hartuar në bazë të planit dhe të programit mësimor dhe i formësuar në pikëpamje didaktike, duke marrë parasysh aftësitë psikofizike të nxënësve dhe veçoritë e lëndës mësimore.
+“Mjetet mësimore” janë mjetet e ndryshme teknike, modelet, objektet natyrore materialet grafike, hartat gjeografike, hartat historike etj. të cilat shfrytëzohen si burime të njohurive dhe që mundësojnë që nxënësi të kuptojë dukuritë natyrore dhe shoqërore, proceset, objektet etj. Mjetet mësimore duhet t’i përshtaten moshës së nxënësve, në pajtueshmëri me përmbajtjet konkrete, me qëllimet, detyrat dhe objektivat e lëndës përkatëse.
+“Lektyra shkollore” përfshin libra të cilat duhet të lexohen për një kohë të caktuar për një vit shkollor.
+“Dokumentacioni pedagogjik” është emërtimi i dokumentacionit të cilin shkolla është e obliguar ta mbajë në pajtim me aktet ligjore. Dokumentacionin shkollor e përbëjnë: libri i klasës, libri amë, libri për regjistrimin e nxënësve në klasë të parë, llojet e ndryshme të dëftesave dhe të diplomave për kryerjen e shkollës fillore, të mesme të ulët dhe të mesme të lartë, librezat, planet dhe programet mësimore, planet dhe programet e arsimtarëve etj.
+2 “Autori” është personi fizik apo juridik që krijon, realizon një tekst shkollor dhe një mjet mësimor, i cili botohet në formë të shtypur apo elektronike.
+“Recension” ёshtё vlerësimi kritik me shkrim për një tekst shkollor, njё vepër artistike, njё punim shkencor.
+“Botuesi” është personi juridik, i cili boton dorëshkrimet e autorëve, duke realizuar tërë procesin e botimit të teksteve shkollore, të mjeteve mësimore, lektyrës shkollore dhe dokumentacionit pedagogjik.
+“Shpërndarësi” është person juridik, që blen dhe shet me shumicë tekstet shkollore dhe mjetet mësimore.
+“ISBN-ja” ёshtё shenja dalluese e teksteve dhe librave me qëllim tё mos lejimit tё kopjimit dhe keqpërdorimit tё tyre.
