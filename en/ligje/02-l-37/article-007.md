@@ -1,0 +1,7 @@
+# Article 7
+7.1. In municipal institutions applies the equality of the official languages of the municipality.
+7.2. Every person has the right to communicate with, and to receive available services and public documents from, municipal institutions and officials in any of the official languages. Every municipal representative and executive body has a duty to ensure that every person can communicate with, and can obtain available services and public documents from, any municipal institution or organ in any official language.
+7.3. The official languages are used on an equal basis in the meetings and work of the municipal representative and executive bodies. Municipal institutions shall make interpretation available from one official language into another, if such interpretation is requested, for meetings of the representative and executive bodies of the municipality, as well as in public meetings organized by the municipality.
+7.4. Records of meetings and official records of municipal representative and executive bodies, public registers and other official documents shall be kept and issued in all official languages of the municipality.
+7.5. Municipal institutions must ensure that their work environments are conducive to the effective use of the official languages and accommodate the use of any official language by their officers and employees.
+7.6. Regulations and subsidiary acts adopted by municipal institutions shall be printed and published in the official languages of the municipality. All official language versions are equally authoritative.

@@ -1,0 +1,7 @@
+# Neni 7
+7.1. Në institucionet komunale zbatohet barazia e gjuhëve zyrtare të komunës.
+7.2. Çdo person ka të drejtë të komunikoj dhe të pranojë shërbimet e mundshme dhe dokumentet publike nga institucionet komunale dhe nga zyrtarët në cilëndo gjuhë zyrtare. Çdo organ përfaqësues dhe ekzekutiv komunal ka për detyrë të sigurojë se çdo person mund të komunikojë dhe të pranojë shërbimet në dispozicion dhe dokumentet publike nga çdo institucion dhe organ komunal ne cilëndo gjuhë zyrtare.
+7.3. Gjuhët zyrtare përdoren në baza të barabarta në takimet dhe në punën e organeve përfaqësuese dhe ekzekutive komunale. Institucionet komunale do të mundësojnë përkthimin nga një gjuhë zyrtare në tjetrën, nëse kjo kërkohet, në takimet e këtyre organeve përfaqësuese dhe ekzekutive komunale, po ashtu edhe në takimet publike të organizuara nga komuna.
+7.4. Shënimet e takimeve dhe shënimet zyrtare të organeve përfaqësuese dhe ekzekutive komunale, regjistrat publikë dhe dokumente të tjera zyrtare, mbahen dhe lëshohen në të gjitha gjuhët zyrtare të komunës.
+7.5. Institucionet komunale duhet të sigurojnë që mjedisi i tyre i punës të kontribuojë në përdorimin efektiv të gjuhëve zyrtare si dhe të mundësojë përdorimin e cilësdo gjuhë zyrtare nga zyrtarët dhe punëtorët e tyre.
+7.6. Rregulloret dhe aktet plotësuese të miratuara nga institucionet komunale nxirren dhe publikohen në gjuhët zyrtare të komunës. Versionet në gjuhët zyrtare janë të barasvlershme.

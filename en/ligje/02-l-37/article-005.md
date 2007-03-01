@@ -1,0 +1,6 @@
+# Article 5
+5.1. The official languages are used on an equal basis in the work, debates or other proceedings of the Assembly of Kosovo and its Committees. Facilities shall be made available for simultaneous interpretation from one official language into the others of the debates and other proceedings of the Assembly and its committees.
+5.2. Members of the Assembly of Kosovo whose mother tongue is not an official language have the right to use their mother tongue in the work, debates or other proceedings of the Assembly of Kosovo and its Committees, as well as in public meetings organized by the Assembly of Kosovo. Facilities shall be made available to ensure interpretation from and into the member’s language, if requested. Any document submitted by such members shall be translated into the official languages and all responses requested by the member shall be made to the member in the original language used by that member.
+5.3. Official documents as well as official records of the debates or other proceedings of the Assembly of Kosovo and its Committees shall be kept and issued in official languages.
+5.4. All laws adopted by the Assembly of Kosovo shall be issued and published in the official languages. The official language versions are equally authoritative. All promulgated laws shall be published into the Bosnian and Turkish languages.
+4
