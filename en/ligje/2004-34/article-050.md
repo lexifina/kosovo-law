@@ -1,0 +1,2 @@
+# Article 50
+Within fifteen days after the Agency becomes functional, the directors shall invite the institutions referred to in the second paragraph of Article 19 of this Law to appoint the members of the Agency Council. The constitutive session shall be convened by the directors of the Agency within fifteen days of receiving information on the appointment of the last member of the Agency Council.

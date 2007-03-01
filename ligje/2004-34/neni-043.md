@@ -1,0 +1,6 @@
+# Neni 43
+43.1. Nëse personi zyrtar i lartë nuk dorëzon informacionin e referuar në nenin 41 ose 42 të këtij Ligji brenda afateve të përcaktuara në këtë Ligj, Agjensioni nxjerr një paralajmërim dhe vendos një afat të ri i cili nuk mund të jetë më i shkurtër se 15 ditë nga dita e nxjerrjes së paralajmërimit.
+43.2. Nëse personi zyrtar i lartë nuk dorëzon informacionin e kërkuar brenda afatit të përcaktuar në paragrafin paraprak, Agjensioni informon organin ku personi zyrtar i lartë ushtron detyrën e tij ose organin përgjegjës për përcaktimin e pagesës së pagës apo shpërblimin e pagës.
+43.3. Në rastin e përshkruar në paragrafin paraprak, paga ose shpërblimi i pagës zvogëlohen me 1/5 për çdo muaj pas kalimit të afatit të referuar në paragrafin 1 të këtij neni dhe derisa të merret njoftimi i Agjensionit, që personi zyrtar i lartë ka dorëzuar informacionin e kërkuar.
+43.4. Nëse personi zyrtar i lartë nuk dorëzon informacionin e kërkuar brenda tre muajve nga kalimi i afatit të referuar në paragrafin 1 të këtij neni, Agjensioni njofton organin përgjegjës për fillimin e procedurës për shkarkimin nga detyra. Pagesa e pagës ose shpërblimi i pagës ndërpriten.
+43.5. Nëse organi kompetent përcakton se personi zyrtar i lartë nuk ka dorëzuar informacionin e kërkuar, ai fillon procedurën për shkarkimin nga detyra dhe informon Agjensionin për vendimin e tij final.

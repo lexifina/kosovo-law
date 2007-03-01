@@ -1,0 +1,4 @@
+# Article 3
+3.1. No one may abuse his/her office or duty by performing, or failing to perform an act, which under law must not, i.e. must be performed, nor to subordinate the implementation of a legal action to one’s own personal interest or the interest of another party.
+3.2. The official person from whom his/her superior asks in performing his/her service to act in an illegal, dishonest and disloyal way towards the public body, or to give privilege or discriminate an individual or legal entity, is required to inform his/her direct superior in writing, if the direct superior after the oral opposing still insists on the demands mentioned above.
+3.3. Only after the written statement the official person is relieved from the obligation to perform illegally such an official activity, and may not be held accountable for that but it is obligated to inform the competent public bodies and the Kosovo Anti-Corruption Agency.

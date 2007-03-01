@@ -1,0 +1,4 @@
+# Neni 3
+3.1. Askush nuk mund të shpërdorojë me postin apo detyrën e tij duke kryer apo duke mos kryer një veprim që sipas ligjit nuk duhet ose duhet ta kryejë, as të asistojë zbatimin e një veprimi juridik për interesin e tij personal apo interesin e një pale tjetër.
+3.2. Personi zyrtari nga i cili eprori i tij kërkon që gjatë kryerjes së shërbimit të tij të veprojë në mënyrë të paligjshme, të pandershme dhe jo lojale ndaj autoritetit publik, apo që t’i japë një privilegj një personi fizik apo juridik, duhet të informojë eprorin e tij drejtpërdrejt me shkrim, nëse eprori drejtpërdrejt pas kundërshtimit me gojë përsëri këmbëngul në kërkesat e përmendura më lart.
+3.3. Vetëm pas deklaratës me shkrim personi zyrtar lirohet nga detyrimi për të kryer në mënyrë të paligjshme këtë aktivitet zyrtar dhe nuk mund të konsiderohet përgjegjës për të, por është i detyruar të informojë autoritetet kompetente publike dhe Agjensionin Kosovar kundër- korrupsionit.
