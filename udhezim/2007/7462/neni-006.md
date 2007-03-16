@@ -1,0 +1,7 @@
+# Neni 6
+6.1 Raste të veçanta konsiderohen rastet kur mallrat janë në gjendje të shkapërderdhur të cilat, për nga natyra, nuk e detyron prodhuesin, importuesin apo shitësin, të vendosë etiketë në mallin e caktuar.
+6.2 Ato mallra mundë të shiten edhe kur etiketa dhe deklarata nuk janë të vendosura në paketime të posaçme me vëllim të vogël, mallrat e shkapërderdhura etj., të cilat janë të ofruara për shitje dhe të cilat nuk kanë qenë të paketuara dhe të matura në prani të konsumatorit.
+6.3 Me këtë rast shitësi është i obliguar t’ i jep konsumatorit informata shtesë lidhur me mallin e caktuar dhe për karakteristikat e tij, kur natyra e mallit nuk e lejon etiketimin, sipas nenit 9 paragrafi 9.4, të Ligjit për mbrojtjen e konsumatorëve.
+6.4 Mallrat të cilat plasohen në treg në gjendje të shpërndarë duhet të kenë deklaratën në paketime apo ambalazh. Të dhënat në etiketë duhet të jenë të lexueshme, të dukshme, në vendin e shitjes.
+Ministria e Tregtisë dhe Industrisë Ministry of Trade and Industry Ministarstvo Trgovine i Industrije Rr.”Agim Ramadani” p.n. “Agim Ramadani”str. n. n. Ul. “Agim Ramadani” b.b. Ndërtesa e Re e Fakultetit Ekonomik New Building Economy Faculty Novog Zgrada Ekonomskog Fakulteta Tel: +381(0) 38 200-36038 Tel: +381(0) 38 200-36038 Tel: +381(0) 38 200-36038 Fax: +381 38 212-807 Fax : +381 38 212-807 Fax: +381 38 212-807 Web faqe : www.mti-ks.org Web page: www..mti-ks.org Web strana: www.mti-ks.org
+Institucionet përgjegjëse për miratimin e etiketës dhe deklaratës së mallit
