@@ -1,0 +1,4 @@
+# Neni 167
+167.1. Bartësi i të drejtës mund të kërkojë që personat, të cilët në çfarëdo mënyre janë të lidhur me shkeljen e të drejtave të njohura me këtë Ligj (prodhuesit, shtypshkronjat, importuesit, furnizuesit ose poseduesit e kopjeve ose mjeteve me të cilat është shkelur e drejta), të sigurojnë informacione dhe të nxjerrin dokumente lidhur me shkeljen, menjëherë pas dorëzimit të kërkesës.
+167.2. Detyrimi i paraqitur në paragrafin paraprak nuk zbatohet kur kushtet janë të atilla që, dëshmitarit në procedurë civile i mundësojnë refuzimin e dëshmimit apo dhënies së përgjigjes në ndonjë pyetje të caktuar.
+168.3. Nëse personat e paraqitur në paragrafin (1) të këtij neni nuk i sigurojnë informacionet e kërkuara ose nuk i japin dokumentet që i posedojnë, ata janë përgjegjës për dëmet që mund të shkaktohen nga mos përmbushja e detyrimit të tyre.

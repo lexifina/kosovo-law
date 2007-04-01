@@ -1,0 +1,4 @@
+# Neni 3
+3.1. Mbrojtja e parashikuar në këtë ligj për të drejtat e afërta nuk prek dhe nuk ndikon në asnjë mënyrë në mbrojtjen e së drejtës së autorit.
+3.2. Dispozitat e këtij ligji lidhur me elementet e së drejtës së autorit, me supozimin e autorësisë, me bashkautorët dhe autorët e veprës së gërshetuar, me përmbajtjen e të drejtave ekonomike të autorit dhe të drejtën në kompensim të veçantë për reprodukim privat ose tjetër vetjak, me marrëdhënien midis së drejtës së autorit dhe së drejtës së pronës mbi ekzemplarin e veprës, me kufizimet e së drejtës së autorit (përfshirë edhe sigurimin e kufizimeve), me llogaritjen e fillimit dhe efektin e mbarimit të kohëzgjatjes së mbrojtjes të së drejtës së autorit, si dhe kalimin e së drejtës së autorit, zbatohen ngjashëm dhe sa u takon (mutatis mutandis) edhe ndaj të drejtave të afërta.
+4. Përkufizimet

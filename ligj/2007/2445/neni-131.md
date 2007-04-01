@@ -1,0 +1,4 @@
+# Neni 131
+Institucionet arsimore kanë të drejtë që vepra të plota të autorëve ose pjesë të veprave të nxënësve apo studentëve të vet t’i përfshijnë në koleksione veprash shkollore të nxënësve apo studentëve të vet, si dhe këto koleksione t’i reprodukojnë dhe shpërndajnë.
+PJESA III
+TË DREJTAT E AFËRTA

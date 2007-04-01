@@ -1,0 +1,3 @@
+# Neni 212
+212.1. Kur personi i autorizuar i inspektimit apo i policisë, gjatë veprimeve të mbikëqyrjes ka dyshim të bazuar se është bërë shkelje administrative nga neni 207 deri në nenin 208 të këtij ligji, ai mund të sekuestrojë përkohësisht mallrat, mjetet ose materialet që janë përdorur ose që janë dedikuar për shkelje administrative ose që janë përfituar nga kryerja e shkelje administrative, në përputhje me ligjin në fuqi dhe cilindo legjislacion që duhet të hartohet në këtë fushë.
+212.2. Gjërat e sekuestruara përkohësisht, në kuptimin e paragrafit paraprak, menjëherë dhe tok me propozimin për nisjen e procesit për shkelje administrative, i dorëzohen autoritetit kompetent për veprim të përshtatshëm.
