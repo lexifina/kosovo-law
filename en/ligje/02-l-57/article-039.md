@@ -1,0 +1,2 @@
+# Article 39
+The Steering Committee shall issue and adopt a working program, drafts a strategic plan of the development of institution. It approves and adopts the annual budget and oversees its implementation, may propose to establisher changing the operation or extending it. It issues decisions and other acts on specific issues of interest for the institution, as well as performs other tasks established by the Law, with act on establishment and with the statute of institution. Profesional, respectively Artistic Committee

@@ -1,0 +1,4 @@
+# Article 58
+58.1. If Law, which regulates carrying out of a certain operation does not establish otherwise, the director of the institution is obliged that within eight days following its issuance submit the statute to the competent body from Article 60 of the present Law.
+12 58.2. If the competent body from Article 60 of the present Law deems that the statute or the general act is in contradiction with the Law or other legal provisions shall stop its implementation and within 30 days, will propose to the Ministry or the Government to cancel, abrogate or change the act at dispute.
+58.3. The institution shall have the right to initiate the administrative dispute with a competent court against a decision of the Ministry or the Government, respectively by which statute or the general act has been cancelled or abrogated.

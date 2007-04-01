@@ -1,0 +1,3 @@
+# Neni 70
+70.1. Deri me konstituimin e Këshillit drejtues të institucionit në pajtim me dispozitat e këtij ligji, punët e drejtorit, përkatësisht të qeverisjes së institucionit do t’i vazhdojë t’i ushtrojë personi i cili kryen punën e udhëheqjes së institucionit ditën e hyrjes në fuqi të këtij ligji.
+70.2. Në rast të ngecjes, bllokimit ose pengimit të punës së institucionit për shkaqe subjektive, Qeveria, përkatësisht Ministria, personin nga paragrafi 1 i këtij neni mund ta shkarkojë dhe në detyrën e tij ta emërojë personin tjetër derisa të zgjedhën, përkatësisht të emërohen organet e reja të institucionit në përputhje me këtë ligj. Këtë të drejtë e kanë edhe komunat për institucionet e kulturës që i themelojnë ato.

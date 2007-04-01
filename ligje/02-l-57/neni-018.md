@@ -1,0 +1,4 @@
+# Neni 18
+18.1. Nocioni institucion qendror dhe atributet e tij, pastaj shenjat e tjera identifikuese, përfshirë edhe imitimin e tyre, mund të futen në emërtimin e institucionit vetëm me ligj ose me leje të Qeverisë, përkatësisht të Ministrisë apo të organit tjetër publik të autorizuar.
+18.2. Emërtimi i institucionit të nivelit komunal dhe atributet e tij, pastaj shenjat identifikuese të tij, përfshirë edhe imitimin e tyre, mund të vihen në emërtimin e institucionit vetëm me lejen e organit kompetent të komunës.
+18.3. Emërtimi i institucionit mund të mbajë emërtimin e shtetit tjetër apo të organizatës ndërkombëtare (ndërshtetërore), stemën e tij, flamurin apo emblemën tjetër vetëm në bazë të lejes së Qeverisë, përkatësisht të Ministrisë dhe pëlqimit paraprakisht të siguruar nga shteti i huaj, përkatësisht nga organizata ndërkombëtare (ndërshtetërore).

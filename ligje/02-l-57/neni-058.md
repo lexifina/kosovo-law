@@ -1,0 +1,4 @@
+# Neni 58
+58.1. Po qe se me ligjin me të cilin rregullohet ushtrimi i veprimtarisë së caktuar nuk është përcaktuar ndryshe, drejtori i institucionit është i obliguar që në afat prej tetë ditësh nga dita e nxjerrjes t’ia dërgojë statutin organit kompetent nga neni 60 i këtij ligji.
+58.2. Po qe se organi kompetent nga neni 60 i këtij ligji konsideron që statuti apo akti i përgjithshëm është në kundërshtim me ligjin apo me dispozita të tjera ligjore, do ta ndalojë zbatimin dhe në afat prej 30 ditësh do t’i propozojë Ministrisë ose Qeverisë që aktin kontestues ta anulojë, abrogojë apo ta ndryshojë.
+58.3. Kundër vendimit të Ministrisë ose të Qeverisë me të cilin anulohet apo abrogohet statuti ose akti i përgjithshëm institucioni ka të drejtë të iniciojë kontestin administrativ pranë gjykatës kompetente.

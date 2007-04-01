@@ -1,0 +1,4 @@
+# Article 18
+18.1. The notion, central institution and its attributes, other identification insignia, including their imitation, may be included on naming of an institution only under a Law or with the permission from the Government or the Ministry, respectively or another authorized public body.
+18.2. Naming of an institution at municipal level and its attributes, then its identification insignia, including their imitation, may be included on naming of the institution only with permission by the competent municipal body.
+18.3. Naming of an institution may bear naming of another state or international organization (inter-state), its symbol, flag or other emblem, based only on a permission by the Government or the Ministry, respectively and with a prior consent provided by the foreign state or international (inter-state) organization, respectively.
