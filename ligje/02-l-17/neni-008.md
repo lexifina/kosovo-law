@@ -1,0 +1,8 @@
+# Neni 8
+8.1. Personat juridikë, që nuk janë në sektorin qeveritar, duke përfshirë ndërmarrjet, organizatat dhe shoqatat vullnetare, organizatat fetare, grupet për vetë ndihmë dhe organizatat e tjera lokale, kombëtare dhe ndërkombëtare janë të inkurajuara të ofrojnë shërbime sociale dhe familjare, qoftë me nismën e tyre ose me kontratë, në emër të drejtoratit komunal në rastin e shërbimeve lokale, ose në emër të Departamentit në rastin e shërbimeve në nivel të Kosovës.
+8.2. Për të mundësuar këtë, komunat dhe Departamenti i Mirëqenies Sociale u ofrojnë këshilla dhe udhëzime organizatave joqeveritare që kërkojnë të ndërmarrin aktivitete të tilla.
+8.3. Çdo organizatë joqeveritare që ofron shërbime sociale dhe familjare duhet të regjistrohet pranë organit përkatës dhe të licencohet nga Departamenti i Mirëqenies Sociale, si edhe t’u përmbahet rregulloreve, udhëzimeve dhe procedurave lidhur me aktivitetet e tyre siç përcaktohen nga Ministria.
+8.4. Komunat mund të hyjnë në kontrata me organizatat joqeveritare për ofrimin e shërbimeve të veçanta sociale dhe familjare brenda territorit të tyre, në emër të komunës, me kusht që kontratat e tilla të jenë në pajtim me planet vjetore të komunës për shërbime sociale dhe familjare në territorin e saj.
+8.5. Ministria e Punës dhe e Mirëqenies Sociale mund të japë fonde dhe të ofrojë çfarëdo ndihme tjetër materiale, duke përfshirë lokalet, ose këshillat për organizatat joqeveritare që ofrojnë shërbime të veçanta sociale dhe familjare në nivel të Kosovës.
+8.6. Ministria lejohet të aderojë në kontrata me organizatat joqeveritare për ofrimin e shërbimeve specifike sociale dhe familjare në nivel të Kosovës.
+Shërbimet për Fëmijë dhe Familje

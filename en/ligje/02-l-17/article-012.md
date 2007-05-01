@@ -1,0 +1,7 @@
+# Article 12
+12.1. In cooperation with families, communities, non-Government organizations and other statutory bodied, a Municipality provides social care, counseling and, in exceptional circumstances, material assistance to people in need of social services residing in or, and in its territory, based on their assessed need for such services and the Municipality’s ability to reasonably provide them.
+12.2. The Ministry has overall responsible for the establishment and oversight of residential homes, sheltered accommodation and emergency shelters for people in need in Kosovo.
+12.3. No Municipality or non-government organization is allowed to establish a residential facility for people in need without the permission of the Ministry. 15
+12.4. Municipalities may provide financial or other assistance to people in need, or their caregivers, who wish to come together to form mutual support, self-help or self-advocacy groups.
+12.5. Centres for Social Work with the consent of the individuals concerned will maintain a register of people in need of social services who are resident in their territory and who lack family or other community support and who have difficulty maintaining themselves, or are at risk of self- neglect, exploitation or abuse by others or of any other form of harm. The Centre for Social Work shall arrange for those people in need who are on this register to be visited on a regular basis by a responsible person, in order to monitor their safety and well being.
+Protection of vulnerable Adults

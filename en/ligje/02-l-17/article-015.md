@@ -1,0 +1,13 @@
+# Article 15
+15.1. All verbal, written and electronic communications concerning the provision of Social and Family Services between an individual or a family receiving such services and a Social and Family Services professional will be treated as being in confidence. Such information will be shared with others only in so far as is necessary to provide the service, or to protect the safety of a vulnerable adult or child at risk of harm or if there is a overriding public interest or at the direction of a Court.
+15.2. Any Social and Family Services professional who negligently, willfully or maliciously shares information concerning a case with unauthorized third parties, will be guilty of gross professional misconduct and may be liable to prosecution under Article 189 of the Criminal Code of Kosovo. 17
+15.3. Any person, or the representative of any person, who believes that they have been unfairly or unlawfully discriminated against or have for other reasons been denied appropriate Social or Family Services will have a right to complain.
+15.4. In circumstances where an individual or a family are dissatisfied with the decision of a SSO in respect of the provision of social and family services, or the refusal to provide such services or the quality of services provided they could request that the Director of the relevant CSW review their case.
+15.5. The Director of the CSW upon the receipt of such a request reviews the case and provides a resume of their findings to the complainant in writing within seven day.
+15.6. If the complainant is dissatisfied with the response of the Director, they can formally appeal to the Department.
+15.7. For the purposes of adjudicating on complaints relating to Social and Family Services the Department of Social Welfare establishes a Complaints Commission.
+15.8. The Complaints Commission will be chaired by the Director of DSW, or his nominee, and will have four additional members, a Director of a CSW not associated with the complaint, a representative from the relevant municipality and two other independent members appointed by the Department.
+15.9. Within thirty days of receipt of a complaint, the Complaints Commission considers the complaint, reviews relevant documentation and interview witnesses as appropriate. It will convey its decisions to the parties to the complaint in writing.
+15.10. If a complainant is dissatisfied with the decision of the Complaints Commission he can make an appeal to the Supreme Court.
+15.11. The Ministry of Labor and Social Welfare shall issue, administrative instructions, procedures, guidance and other sub-legal acts relating to the provision of the Social and Family Services that are the subject of this Law.
+Final Provisions
