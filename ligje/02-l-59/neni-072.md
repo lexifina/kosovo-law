@@ -1,0 +1,2 @@
+# Neni 72
+Pas aprovimit të këtij ligji Filarmonia, Opera dhe Baleti i Kosovës, si institucione ekzistuese, janë të obliguara që në afat prej 6 muajve t’i harmonizojnë të gjitha aktet përkatëse nënligjore me këtë ligj dhe t’u nënshtrohen kritereve dhe procedurave akredituese. Institucionet tjera të operës dhe të baletit, varësisht nga interesimi, janë të obliguara sipas këtij ligji që të themelohen, të regjistrohen dhe të akreditohen për të pasur mundësi të ushtrojnë veprimtarinë e tyre skenike- muzikore dhe operistike-baletore.

@@ -1,0 +1,2 @@
+# Article 72
+Following adoption of the present Law, Philharmonic, Opera and Ballet of Kosova, as existing institutions are obliged that within six (6) months harmonize all appropriate sub-legal acts under the present Law and be subject to accreditation criteria and procedures. Other institutions of Opera and Ballet, subject to interest, are obliged to be established, registered and accredited according to the present Law, in order to be able to conduct their stage - musical and opera and ballet activities.
