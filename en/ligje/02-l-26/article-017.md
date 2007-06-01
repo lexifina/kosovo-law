@@ -1,0 +1,5 @@
+# Article 17
+Re-cultivation of agricultural land
+17.1. Agricultural land which was used for purposes other than article 13.1 (b) and 13.2 of this law, which is not permanent, shall be dedicated to its first use or other use, respectively shall be raised its capability for agricultural production according to re-cultivation project. Municipal body competent for agriculture shall give the consent.
+17.2. Beside the request for granting the permission for constructions for interim use of agricultural land for other purposes, as well as for interim constructions which results on damaging of agricultural land, user is obliged to submit the project for re-cultivation which is done based on technical documentation for construction, respectively conduct the work with consent of the body from paragraph 1 of this article.
+17.3. Project of re-cultivation from paragraph 1 of this article shall be subject to professional evaluation. Professional analysis of re-cultivation project shall be done by professional institution of the field of agriculture.

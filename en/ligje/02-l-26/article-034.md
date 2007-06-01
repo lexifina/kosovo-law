@@ -1,0 +1,5 @@
+# Article 34
+Termination of contract
+34.1. Landlord may terminate the lease contract when lessee:
+a) Does not pay the rent, b) Does not use the agricultural land in compliance with agro-technical measures, c) Uses the agricultural land in contradiction with provisions of contract, d) Subleases the agricultural land with no owner consent, e) Without consent of the landlord, invests on agricultural land over boundaries foreseen by the contract, or changes the manner of using the agricultural land, f) Undertakes other actions in contradiction with provision of the Law on Protection of Nature or actions which have negative effects on the property and environment and in any way endangers existence of natural value.
+34.2. If the landlord wants to terminate the contract according to Paragraph 1 of this Article before expiry of contractual term, he/she is required to notify the lessee. Such notification shall give the lessee a period not shorter than one year to return the land from the day of notification.

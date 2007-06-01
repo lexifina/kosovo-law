@@ -1,0 +1,2 @@
+# Neni 19
+Organi kompetent komunal përkatësisht organi tjetër kompetent për dhënien e lejes për ndërtim të objektit apo për kryerjen e punëve ose për dhënien e lejes për eksploatim të lëndëve industriale dhe mineraleve të mihjeve sipërfaqësore dhe nëntokësore, deponimin e mbeturinave, hirit, mbetjet e përpunimit të drurit dhe të ngjashme mund të jap leje nëse investitori apo shfrytëzuesi përveç dokumentacionit tjetër të nevojshëm paraqet edhe dëshmi për pagesën e kompensimit për ndërrim të destinimit të tokës bujqësore.

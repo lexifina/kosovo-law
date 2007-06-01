@@ -1,0 +1,5 @@
+# Neni 17
+Rikultivimi i tokës bujqësore
+17.1. Toka bujqësore e cila është shfrytëzuar për destinime tjera nga neni 13.1 (b) dhe 13.2 të këtij Ligji, e cila nuk ka karakter të përhershëm, i kthehet destinimit të parë apo destinimit tjetër, përkatësisht aftësohet për prodhimtari bujqësore sipas projektit për rikultivim. Pëlqimin në projektin për rikultivim e jep organi kompetent komunal për bujqësi.
+17.2. Krahas kërkesës për dhënien e lejes për ndërtime për shfrytëzim të përkohshëm të tokës bujqësore për destinime të tjera si dhe për ndërtimin e përkohshëm nga e cila vjen deri te dëmtimi përreth i tokës bujqësore, shfrytëzuesi është i detyruar ta paraqet projektin për rikultivim i cili bëhet në pajtim me dokumentacionin teknik për ndërtim, përkatësisht kryerja e punëve me pëlqimin e organit nga paragrafi 1 i këtij neni.
+17.3. Projekti i rikultivimit nga paragrafi 1 i këtij neni i nënshtrohet vlerësimit profesional. Vlerësimin profesional të projektit të rikultivimit e bënë institucioni profesional nga fusha e bujqësisë.

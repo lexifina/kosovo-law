@@ -1,0 +1,2 @@
+# Article 19
+Municipal body competent, respectively the other competent body for granting the permission for construction or conducting other works, respectively granting the permission for exploitation of industrial matters or other minerals from surface or underground digging, disposal of waste, ashes, residues of wood processing and similar may give the permission if the investor or the user except the other necessary documents, produces the evidence for paying the compensation for changing the use of agricultural land.
