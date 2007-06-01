@@ -1,0 +1,2 @@
+# Neni 28.
+Drejtoria e Arkivave të Kosovës është organ mbikëqyrës me autorizime për dhënie të udhëzimeve profesionale institucioneve arkivore të Kosovës të detyrueshme në pajtim me ligjin dhe është e autorizuar për të ndërmarrë masa për realizimin e tyre; institucioneve arkivore u kërkon të dhëna, ndërmarrje punësh, masash dhe aktivitete si dhe, ndërmerr masa sipas ligjit dhe aktit nga par. 1 i nenit 27 të Ligjit. Kryen edhe punë, veprimtari dhe ushtron funksione të tjera të përcaktuara me ligj dhe me akte tjera përkatëse.

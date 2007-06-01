@@ -1,0 +1,19 @@
+# Neni 47.
+1. 47.1. Asgjësimi apo keqpërdorimi i lëndës arkivore nga neni 5, par. 3, si dhe krijuesi dhe poseduesi i lëndës arkivore që nuk e paraqet për evidencim lëndën arkivore sipas nenit 7 par.2 të Ligjit, ndëshkohet me gjobë prej 500-2500 €.
+2. 47.2. Krijuesi dhe poseduesi i lëndës arkivore publike që lëndën arkivore publike nuk e mbron, ruan dhe përdorë në mënyrën e përcaktuar me nenin 7 par.3 të Ligjit, ndëshkohet me gjobë prej 500-2500 €.
+3. 47.3. Krijuesi dhe poseduesi i lëndës arkivore që sipas nenit 7 par. 4 të Ligjit, nuk siguron kushte organizative dhe teknike për mbrojtjen dhe ruajtjen e lëndës arkivore, ndëshkohet prej
+250-2000 €.
+4. 47.4. Krijuesi dhe poseduesi i lëndës arkivore që nuk e bën përzgjedhjen e lëndës arkivore në mënyrën e përcaktuar me nenin 9 par.1 të Ligjit, ndëshkohet me gjobë prej 300-1500 €.
+5. 47.5. Krijuesi, poseduesi apo subjekti tjetër që e bën dorëzim- pranimin e lëndës arkivore në kundërshtim me nenin 10 par.4 të Ligjit, ndëshkohet me gjobë prej 500-2500 €.
+6. 47.6. Kur organi apo organizata shtetërore apo publike riorganizohet në pikëpamje strukturore, funksionale apo administrative-territoriale dhe që krijon apo posedon lëndë arkivore, në mënyrën dhe afatin e përcaktuar me nenin 11 par.1 të Ligjit, nuk e informon Drejtorinë e Arkivave të Kosovës, përfaqësuesi ligjor i tij, përkatësisht i saj, gjobitet prej 2501000 €.
+7. 47.7. Kur organi apo organizata shtetërore apo publike është në procedurë të likuidimit, që krijon apo posedon material apo lëndë arkivore, nuk e informon organin nga neni 11 par. 2 të Ligjit, përfqësuesi ligjor i tij, përkatësisht i saj, gjobitet prej 250-1000 €.
+8. 47.8. Krijuesi apo poseduesi i lëndës arkivore publike apo private të trajtuar me interes të veçantë, që atë lëndë në pajtim me nenin 12 të Ligjit nuk e dorëzon në arkivin kompetent, ndëshkohet me gjobë prej 1000-3500 €.
+9. 47.9. Kur lënda arkivore kushtëzohet me kërkesa që shkaktojnë çfarëdo dallimi për shfrytëzuesin në kundërshtim me nenin 14 par.3 të Ligjit, përfaqësuesi ligjor i arkivit ndëshkohet me gjobë prej 250-1000 €, kurse arkivi prej 500-2000 €.
+1. 47.10. Kur autoriteti arkivor e jep lëndën arkivore në shfrytëzim në kundërshtim me nenin 16 të Ligjit, ndëshkohet me gjobë: përfaqësuesi ligjor prej 250-1000 €, ndërsa institucioni prej 500-2000 €.
+2. 47.11. Kur autoriteti arkivor nuk e ndalon apo kufizon përdorimin e lëndës arkivore në mënyrën e përcaktuar me nenin 17 par. 2 al.1 të Ligjit, ndëshkohet me gjobë: përfaqësuesi ligjor prej 500-2000 €, kurse arkivi prej 1000-4000 €.
+3. 47.12. Kur sipas nenit 33 par. 3 të Ligjit, arkivi nuk e informon Drejtorinë e Arkivave të Kosovës për lëndën arkivore që e krijon, posedon dhe shfrytëzon, e që është me rëndësi të veçantë, ndëshkohet me gjobë: përfaqësuesi ligjor prej 250-500 €, kurse institucioni arkivor prej 500-1000 €.
+4. 47.13. Punëtori arkivor që vepron në kundërshtim me parimin e profesionalizmit, në pajtim të nenit 39, par.1 të Ligjit, ndëshkohet me gjobë prej 1500-3500 €.
+5. 47.14. Personi juridik që është në procedurë të bankrotimit, që krijon apo posedon material apo lëndë arkivore, që me kohë dhe në mënyrë të përcaktuar me nenin 44 par. 3 të Ligjit, nuk e informon autoritetin arkivor kompetent, ndëshkohet me gjobë: personi juridik prej 500- 3000 €, kurse përfaqësuesi ligjor i tij prej 250-1500 €.
+6. 47.15. Personi juridik që krijon apo posedon material apo lëndë arkivore e që organi arkivor kompetent nuk i lejon qasje në mënyrën e përcaktuar me nenin 44 par. 2 të Ligjit, ndëshkohet me gjobë: përfaqësuesi ligjor prej 250-1500 €, kurse personi juridik prej 500-3000 €.
+7. 47.16. Masat ndëshkuese nga ky nen, sipas fletëparaqitjes së arkivit përkatës, në pajtim me ligjin, në procedurë të caktuar i përcakton gjykata kompetente.
+DISPOZITA PËRFUNDIMTARE E TË FUNDIT

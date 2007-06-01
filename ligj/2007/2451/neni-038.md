@@ -1,0 +1,5 @@
+# Neni 38.
+1. 38.1. Punët arkivore profesionale i kryejnë punëtorët e arkivit me tituj profesionalë: ndihmës arkivist, restaurator, ndihmës arkivist i kl.I, ndihmës arkivist i lartë, arkivist, konservator, arkivist i lartë, këshilltar arkivor (në vijim: punëtorët arkivorë).
+2. 38.2. Me akt përkatës për kuadrin profesional të arkivave të Kosovës, që e miraton Drejtoria e Arkivave të Kosovës, përcaktohen kushtet e fitimit të titujve arkivorë, punët dhe detyrat arkivore të cilat duhet t’i kryejnë punëtorët arkivorë profesionalë si dhe çështjet e tjera përkitazi me kuadrin arkivor profesional, teknik dhe ndihmës.
+3. 38.3. Punëtorët arkivorë profesionalë, në punë dhe detyra pune përcaktohen sipas kualifikimeve profesionale, përvojës profesionale dhe titujve profesionalë.
+4. 38.4. Punëtorët arkivorë që kryejnë punë arkivore për të cilat nuk disponojnë kualifikimet nga par.1 i këtij neni, për t’i ushtruar ato punë duhet që brenda afatit njëvjeçar nga fillimi i zbatimit të Ligjit t’i fitojnë kualifikimet përkatëse.

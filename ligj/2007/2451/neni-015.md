@@ -1,0 +1,3 @@
+# Neni 15.
+1. 15.1. Dokumentin publik nga neni 16 i ligjit, në kohë, procedurë dhe në kushte të caktuara, mund ta kërkojë dhe ta ketë në përdorim, përkatësisht shfrytëzim normal, secili person fizik dhe juridik pa kurrfarë kushtesh dalluese.
+2. 15.2. Arkivi kompetent, në pajtim me nenin 16.2.3. të Ligjit, mund të refuzojë kërkesën nga neni 17 par.5 të këtij Ligji. Kërkesa mund të refuzohet gojarisht, por me insistimin e kërkuesit edhe në formë të shkruar, me aktvendim. Kundër aktvendimit kërkuesi mund t’i ushtrojë ankesë arkivit kompetent brenda pesëmbëdhjetë ditësh, të cilën, në procedurë e zgjidhë Drejtoria e Arkivave të Kosovës.

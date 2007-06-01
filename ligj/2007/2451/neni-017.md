@@ -1,0 +1,9 @@
+# Neni 17.
+1. 17.1. Shfrytëzimi i lëndës arkivore, në parim është i papagesë.
+2. 17.2. Përjashtimisht nga par.1 i këtij neni, arkivi bën inkasimin e shërbimit të vet sipas kërkesës së shfrytëzuesit të lëndës.
+3. 17.3. Shuma për shërbimin arkivor caktohet me aktin përkatës për tarifat e shërbimeve arkivore, të cilën e miraton Drejtoria e Arkivave të Kosovës.
+4. 17.4. Institucionet e jashtme si dhe qytetarët e huaj mund të shfrytëzojnë lëndën arkivore sipas konventave, si dhe marrëveshjeve ndërkombëtare në bazë të reciprocitetit faktik. Qytetarët e huaj mund ta shfrytëzojnë lëndën arkivore në bazë të lejës së Drejtorisë për Arkivat e Kosovës.
+5. 17.5. Autoriteti arkivor me aktvendim ndalon shfrytëzimin e lëndës arkivore në mënyrën, procedurën dhe periudhën në të cilën cënohet:
+-siguria, mbrojtja dhe marrëdhëniet me jashtë; -sigurimi publik; -parandalimi, kërkimi dhe ndjekja e veprimtarisë kriminale; -jeta private dhe interesat private të ligjshme; -interesat tregtare, ekonomike, publike ose private; -barazia e palëve në një instancë juridiksionale; -natyra dhe ambienti jetësor; -misioni mbikëqyrës, inspektimi ose kontrolli nga administrata; -politika financiare, monetare ose tatimore; -mirëbesimi i vendimmarrjeve në gjirin ose ndërmjet autoriteteve publike me qëllim të përgatitjes së brendshme të një dosjeje nga një autoritet; -çfarëdo dokumenti në përkujdesje të arkivave të Kosovës që përmban informata ose lendë që mund t’i prekin të drejtat dhe liritë fundamentale njerëzore të personave, në veçanti të drejtën e nderit dhe intimitetin siç është theksuar në Konventën Europiane të të drejtave të njeriut dhe në Protokolin e saj, mund të mos zbulohet ose bëhet e ditur nga asnjë mënyrë.
+17.6. Personeli i arkivit lëshon certifikata për faktet që përfshinë lënda arkivore në bazë të Ligjit për procedurën administrative. Certifikata e dhënë ka vlerën e dokumentit përkates zyrtar.
+RRJETI DHE SHËRBIMI ARKIVOR

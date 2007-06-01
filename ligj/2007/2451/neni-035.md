@@ -1,0 +1,3 @@
+# Neni 35.
+1. 35.1. Organet, organizatat, institucionet, entitetet publike e private, sipas ligjit dhe standardeve të punës të administratës publike, duhet të organizojnë shërbimin e shkrimores dhe të arkivit të saj.
+2. 35.2. Shkrimorja nga par. 1 i këtij neni është shërbim profesional-teknik për evidencimin dhe përpunimin e dokumenteve qeveritare, publike, zyrtare si dhe për klasifikimin dhe ruajtjen e tyre. Në këto çështje, autoriteti arkivor është i autorizuar të ushtrojë mbikëqyrje profesionale dhe të ndërmarrë masa të caktuara me qëllim të organizimit dhe të funksionimit të drejtë dhe efikas të tyre.

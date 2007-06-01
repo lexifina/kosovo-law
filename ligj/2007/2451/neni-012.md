@@ -1,0 +1,3 @@
+# Neni 12.
+1. 12.1. Lënda arkivore e krijuar me punën e personave dhe familjeve mund t’i dorëzohet arkivit nëpërmjet faljes, blerjes ose depozitimit të saj. Gjatë pranim-dorëzimit përcaktohet mënyra dhe kushtet e ruajtjes dhe të shfrytëzimit të lëndës arkivore.
+2. 12.2. Dokumentet e organeve joqeveritare, të personave fizikë dhe juridikë, privatë dhe ato të funksionarëve të lartë publik, të personaliteteve politike, kulturore, shkencore, të krijuara jashtë veprimtarisë publike të tyre, të shpallura me interes historik kombëtar, dorëzohen në arkivin kompetent, sipas vullnetit të tyre ose të trashëgimtarëve, në marrëveshje me ta.
