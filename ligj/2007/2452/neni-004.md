@@ -1,0 +1,5 @@
+# Neni 4
+4.1. Standardet kanë të njëjtën vlerë për të gjithë personat fizikë dhe juridikë, që ushtrojnë veprimtari ekonomike në Kosovë. Standardet ose pjesë të tyre përdoren si baza referuese për udhëzime dhe urdhëresa tjera administrative të nxjerra, ligjet dhe aktet nënligjore si dhe për rregullat teknike.
+4.2. Standardet eksperimentale përcaktojnë kërkesat për cilësinë e prodhimeve, ndërtimeve dhe shërbimeve të reja. Me përvetësimin e teknologjisë ekziston mundësia për rishikimin dhe freskimin e standardeve. Standardi eksperimental nuk mund të merret si bazë referimi për hartimin e rregullave të reja teknike.
+4.3. ASK-ja i jep përparësi hartimit, përshtatjes, përvetësimit dhe miratimit të një standardi që shërben si bazë referimi për hartimin rregullave teknike të nevojshme për zhvillimin e ekonomisë së Kosovës.
+4.4. Standardet ndërkombëtare, evropiane apo ato të shteteve të tjera, përshtaten ose përvetësohen si standarde të Kosovës me qëllim që t’i shërbejnë interesave të Kosovës, thithjes së teknologjive të reja si dhe të lehtësojnë shkëmbimin e lirë të mallrave dhe shërbimeve me vendet e tjera.

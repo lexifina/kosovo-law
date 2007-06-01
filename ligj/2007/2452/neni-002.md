@@ -1,0 +1,18 @@
+# Neni 2
+Termat e mëposhtëm në këtë ligj kanë këto kuptime:
+Standardizim – është veprimtaria për përcaktimin e standardeve me mbështetjen dhe pjesëmarrjen e gjithë atyre që janë të interesuar.
+Standard - është specifikimi teknik, i miratuar nga Agjencia për Standardizim e Kosovës, për përdorim të vazhdueshëm, aplikimi i të cilëve është i paobligueshëm dhe shërben si dokument për arritjen e nivelit të cilësisë.
+Certifikim – është procedura e dhënies së dokumentit për konformitetin dhe sigurinë (vërtetimi mbi plotësimin e kërkesave për podukt, proces apo shërbim), e cila kryhet nga një palë e tretë dhe e paanëshme për vlerësimin e konformitetit dhe sigurisë së produkteve, proceseve, shërbimeve dhe sistemeve të cilësisë: sipas kërkesave të standardeve, specifikimeve teknike, kërkesave teknike, kërkesave të tjera ose akteve ligjore dhe nënligjore në fuqi. Kërkesë - është dispozita në të cilën janë të definuara të gjitha kriteret, të cilat duhet të plotësohen.
+Produkt - është çdo produkt i prodhuar në mënyrë industriale dhe bujqësore, duke përfshirë edhe produktet e peshkut, të destinuara për treg.
+Deklaratë e Prodhimit të Produktit – është dokumenti, i cili përmban të dhënat që dentifikojnë produktin, prodhuesin dhe karakteristikat bazë të produktit.
+Prodhues- është ai, i cili e krijon, prodhon dhe furnizon produktin ose vendos në produkt emrin dhe shenjën e tij dalluese, e cila e identifikon atë si prodhues.
+Konformitet – është plotësimi nga një produkt, proces apo shërbim i kërkesave të specifikuara.
+Vlerësimi i Konformitetit- është çdo veprimtari e drejtëpërdrejtë apo e tërthortë që përcakton nëse është plotësuar tërësia e kërkesave teknike, të vendosura në dokumentacionin përkatës.
+Shenja e Konformitetit- është shenja dalluese, e cila vendoset mbi një produkt ose ambalazhin e tij, për të dëshmuar se produkti i plotëson kriteret e vendosura me standardin ose specifikimet teknike, të cilave ju referohet.
+Deklaratë e Konformitetit- është dokumenti me të cilin prodhuesi deklaron nën përgjegjsinë e vet personale, se produkti, procesi apo shërbimi i ofruar prej tij është konform një specifikimi teknik.
+Rregullat Teknike - janë aktet nënligjore me karakter teknik të cilat i përcaktojnë karakteristikat e produkteve, proceset e prodhimit të tyre, ku përfshihen edhe masat administrative që zbatohen në rast të shkeljes së tyre. Rregullat teknike mund të përmbajnë terminologjinë , simbolet, ambalazhin, shënjimet ose kërkesat për etiketimin që kanë të bëjnë me produktin, procesin apo metodën e prodhimit.
+Specifikimet Teknike – janë specifikimet e dhëna në një dokument, të cilat japin karakteristikat e kërkuara për një produkt si: niveli i cilësisë, vetitë teknike, kryesore dhe dytësore, sigurinë, përmasat, provat, metodat e analizave, paketimin, etiketimin, procedurat për vlerësimin e konformitetit etj.
+Projekt Standard- është dokumenti që përmban tekstin e specifikimeve teknike për një subjekt të caktuar, i cili mund të miratohet në përputhje me procedurën e standardeve në vend, dhe pas hartimit qarkullon për shqyrtime dhe komente.
+Sistemi i Cilësisë – është e gjithë struktura organizative, procedurat, proceset dhe burimet që i nevojiten një subjekti për të arritur cilësinë së kërkuar. Sistemi i cilësisë bazohet mbi bazën e serisë së standardeve ndërkombëtare të Organizatës Ndërkombëtare të Standarteve (ISO) dhe Normave Europiane (EN).
+Palë e Tretë – është organizmi i autorizuar për vlerësimin e konformitetit të produktit, procesit ose shërbimit,nga njëra anë dhe prodhuesit dhe shpërndarësit, nga ana tjetër të cilët i nënshtrohen këtij vlerësimi.
+Agjencia për Standardizim e Kosovës (ASK) është Agjencia ekzekutive në Ministrinë e Tregtisë dhe Industrisë.

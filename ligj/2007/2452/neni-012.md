@@ -1,0 +1,6 @@
+## titulli i bartësit të rregullave teknike, si dhe të dhëna se si sigurohet materiali bazë, publikohen në
+## gazetën zyrtare dhe sipas nevojës edhe në publikime tjera.
+## 11.3. Afati për vërejtje nuk duhet të jetë më i shkurtër se 60 ditë nga dita e publikimit të materialit bazë, pëveçse nëse gjenden shkaqe të natyrës së sigurisë, mbrojtjes së shëndetit dhe ambientit.
+# Neni 12
+12.1. Prurësi i rregullave teknike për vlerësimin e konformitetit autorizon ndërmarrjen ose një person tjetër juridik që të caktojë kushtet specifike në pajtim me rregullat teknike. a. të ketë kuadër të aftësuar profesional; b. të ketë përgatitje të mjaftueshme teknike; c. të jetë i aftë të sigurojë paanshmëri; d. të jetë i aftë të sigurojë fshehtësinë e të dhënave; e. që me kontratë të ketë siguruar aktivitetet që nuk mund t’i kryejë vetë; f. të jetë i regjistruar për këtë veprimtari; g. të jetë i akredituar; h. kushte të tjera që sigurojnë zbatimin e detyrave të përshkruara.
+12.2. Prurësi i kushteve teknike lëshon vendimin mbi autorizimin e ndërmarrjes ose personit tjetër juridik për vlerësimin e konformitetit të produktit, procesit dhe shërbimit me rregullat teknike dhe kryen kontrolle periodike mbi përmbushjen e kushteve.
