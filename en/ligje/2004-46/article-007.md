@@ -1,0 +1,2 @@
+# Article 7
+The Ministry in charge of the services of civil registration shall take care of the supervision, control, manner of maintenance, electronic recording, distribution of civil registers and transfer of accompanying registers abcd and certificates, distribution of seals, designation of officials with signing authority, as well as defining the way management of the civil registers will be conducted.

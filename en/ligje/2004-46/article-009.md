@@ -1,0 +1,17 @@
+# Article 9
+9.1. If the Civil Registrar Official notes that mistakes are made in the course of the registration, before completing the registration he/she shall correct such mistakes in person.
+9.2. The Civil Registrar Official is obliged to note and certify such correction in the civil register by signing in person and stamping on the section on “remarks”.
+9.3. Late corrections in the civil register may be done only through a decision act of the competent body and by registering such change in the section “notes after completion of the registration”. It shall be noted:
+a. What is corrected; b. The body that has released the decision act; c. The number and date of the decision act.
+9.4. After each late correction in the source civil register, the Civil Registrar Official within three days from the correction is obliged to inform the competent body, which keeps a copy of the aforesaid civil register, in order that such correction to be pointed out and incorporated in the copy kept by this body.
+9.5. The section on “late registration and notes” shall contain:
+a. The date of the registration (on the left) and b. The signature of the civil registrar (on the right)
+9.6. If the section on remarks and late registrations are filled, but the registration is not completed, or new remarks should be inserted, as soon as the supplementary registration is inserted, such note shall be placed in the respective sections through a separate form “attached form”.
+9.7. This form contains:
+a. The reference number of basic registration and b. The form shall be certified through the stamp of the competent body placed in a way that it (the stamp) covers the page of the civil register.
+9.8. If during the registrations some data is noted incorrectly in several sections, and therefore a correction cannot be made, the Civil Registrar Official shall conduct the correct registration in a following form, with the same reference number, drawing a diagonal line over the form filled incorrectly. Then he/shall shall make a note in the section on remarks showing that the correct registration is done in a following form.
+9.9. If the correction of the registration under the above paragraph (9.8) is entered pursuant to a decision act of a competent body, the Civil Registrar Official shall enter the correct registration under the next reference number, following the last registration, and then through drawing a diagonal line shall nullify the incorrect form and in the section on late registrations shall note “corrected pursuant to the decision act of the competent body, date, no. of decision act, and that the registration is entered in this reference number”.
+9.10. If the basic registration is entered by mistake in the next register (registration upon competencies), the Civil Registrar Official, the official person, or every person who notes the mistake, shall inform immediately the competent municipal body on this matter.
+9.11. After the decision taken by the competent body on a correction, the Civil Registrar Official shall nullify the incorrect registration through drawing a diagonal line, and shall specify in the section on late registrations:
+a. That the incorrect registration is nullified pursuant to a decision act on this registration b. The body that has released the decision act c. No. and date of the decision act 5 d. That the registration is done in the corresponding civil register (according to the fact) e. The place of domicile and municipality f. Reference number
+Signing the registration
