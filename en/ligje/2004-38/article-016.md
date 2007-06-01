@@ -1,0 +1,5 @@
+# Article 16
+16.1. In the case of a resident with no disposing capacity or with limited disposing capacity, the provisions defined in Paragraph 15.2 may not be implemented.
+16.2. If in the case of a resident with no disposing capacity or limited disposing capacity, in the case of refusal described in Paragraph 15.3, the health care institution shall institute proceedings for obtaining the required consent from the court. The attending physician shall supply all medical treatment justified by the resident's health, until the court passes its final and absolute decision. In the case of a direct threat to life, it is not necessary to obtain the statement from the court for carrying out the required interventions.
+16.3. An attending physician, in the interest of satisfying his obligation defined in the previous paragraph may, if necessary, use the police authority.
+9 16.4. In the course of the proceedings aimed at obtaining the statement defined in Paragraph 2, of this article, the court shall proceed in out-of-court proceedings, without delay. Objective exemption from costs shall apply to such proceedings, unless it otherwise follows from this Law.

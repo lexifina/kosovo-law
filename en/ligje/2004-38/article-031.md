@@ -1,0 +1,9 @@
+# Article 31
+31.1. Health care institutions licensed for individual health care in Kosovo, must insure their civil responsibility for the damage caused to residents through the actions or negligence of physicians, dentists, pharmacists or nursing staff members.
+31.2. The Ministry of Health Patients Insurance Fund for the damage caused to residents during the medical treatment, shall be instituted, through application of compulsory insurance for civil responsibility of the individual public and private health care institutions for this damage (hereinafter: the Fund).
+31.3. The fund, insurance premiums and contractual relationships between the health care institutions and the Ministry of Health related to this issue, shall be established through a sub-legal acts issued by the Ministry of Health and the Ministry of Economy and Finance.
+31.4. The fund shall provide an annual accounting of the use of financial means in it.
+31.5. The private health care institutions could insure their civil responsibility under Paragraph 1 of this article in the Fund or through insurance agreements with insurance companies, which have a right to implement general civil responsibility insurance, in accordance with the relevant laws.
+31.6. If the private health care institutions, insure their civil responsibility under Paragraph 1 of this article by forming insurance contracts with insurance companies from the previous paragraph, the terms of insurance, size of insurance payments, procedure of the payment thereof, etc., shall be established in the insurance contracts. 15
+31.7. The health care institutions, who have not provided the required insurance of their civil responsibility for the damage caused to the resident by actions or negligence of the health workers employed in them, shall not have the right of engaging in individual health care.
+Payment of compensation to the resident

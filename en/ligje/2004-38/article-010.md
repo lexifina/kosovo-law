@@ -1,0 +1,7 @@
+# Article 10
+10.1.The resident has the right to make a personal decision on whether to undergo a certain treatment or not. This right may only be restricted as established by law. 6
+10.2. Within the framework of exercising the right of a personal decision, the resident is free to decide whether he wishes to use health care services or not, and which interventions to consent to or to refuse, in the course of using such services, taking into account the restrictions set out in the law.
+10.3. The resident is entitled to take part in any decision concerning his medical treatment, apart from the exceptions established by law. In exercising the right to a personal decision the resident should be presented with adequate, accurate and complete information, as provided for in article 9 and article 19 of this Law.
+10.4. A resident may grant his consent defined in previous paragraph, verbally, in writing or through conduct implying such consent, in presence of two joint witnesses, unless otherwise provided for by law.
+10.5. The written consent of the resident is required for invasive interventions, or – if the resident is not capable of this – a declaration made verbally or in some other way in the joint presence of two witnesses.
+10.6. A resident may, at any time, withdraw his consent to the performance of an intervention. However, in the event of the withdrawal of the consent without justified reason, the resident may be obliged to reimburse the reasonable costs incurred as a result of this.

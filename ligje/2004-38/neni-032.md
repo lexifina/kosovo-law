@@ -1,0 +1,6 @@
+# Neni 32
+32.1. Në rast se dëmi është shkaktuar në institucionin shëndetësor, që përgjegjësin e tij civile nga paragrafi 31.1 e ka siguruar me themelimin e marrëdhënieve kontraktuale të sigurimit me Fondin, kompenzimi për dëmin e shkaktuar ndaj banorit do të paguhet nga ky Fond, në pajtim me dispozitat e këtij Ligji.
+32.2. Dëmshpërblimi do të paguhet në bazë të vendimit të Komisionit nga paragrafi 27.1, në pajtim me procedurën dhe në lartësinë e përcaktuar me aktin nënligjor nga paragrafi 31.3, por që nuk guxon të tejkalojë vlerën e 15 pagave minimale mujore në Kosovë.
+16 32.3. Dëmi do të kompenzohet në pajtim me vlerën e pagës minimale mujore, që është në fuqi, në ditën e parashtrimit të kërkesës për dëmshpërblim, para Komisionit.
+32.4. Në rast se shëndeti i banorit është i dëmtuar në institucionin privat shëndetësor që përgjegjësinë e tij civile nga paragrafi 31.1 e ka siguruar në kompaninë e sigurimeve nga paragrafi 31.5, dëmshpërblimi do të paguhet në mënyrën dhe në pajtim me kushtet e përcaktuara me kontratën nga paragrafi 31.6 i këtij Ligji. Në këtë rast, lartësia maksimale e dëmshpërblimit, nuk mund të jetë më e vogël se sa shuma e përcaktuar me paragrafin 2, të këtij neni.
+Ankesa kundër vendimit të Komisionit

@@ -1,0 +1,6 @@
+# Article 8
+8.1. The resident is entitled to leave the health care institution. This right may only be restricted in cases when he threatens the physical safety or health of others by doing so, as regulated by law.
+8.2. The resident shall inform the attending physician of the intention to leave, and this fact shall be indicated in his health documentation.
+8.3. If the resident leaves the health care institution without announcing the fact, the attending physician shall indicate this fact in the resident's health documentation, and if it is warranted by the resident's condition, shall notify the competent authorities of the resident's departure from the institution, and, in the case of residents with legal incapacity or with reduced disposing capacity, the authorized representative.
+8.4. The resident, his family member, other relative or authorized representative shall be informed of discharge from the health care institution in advance, if possible, at least 24 hours prior to the planned discharge.
+5 8.5. In the case of a resident with legal incapacity, the right defined in Paragraph (1) of this article may be exercised with the agreement of the authorized representative. Right to be Informed
