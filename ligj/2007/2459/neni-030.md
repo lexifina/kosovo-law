@@ -1,0 +1,4 @@
+# Neni 30
+30.1. Nëse, sipas nenit 29, KKK-ja nxjerr një urdhër që kërkon nga një person që të siguroj dëshmi gojore ose informata, urdhëri në fjalë duhet të parashtroj, përveç çështjeve të cekura në nenin 29.3, (i) emrin dhe, nëse dihet, titullin zyrtar të personit, (ii) vendin dhe kohën e paraqitjes dhe (iii) njoftimin mbi obligimet e tij/saj sipas nenit 30.2.
+30.2. Nëse, për arsye të lejuara dhe bindëse, personi në fjalë nuk është në gjendje që të paraqitet në vendin dhe kohën e saktësuar në urdhër, ai/ajo duhet t’i dërgojë KKK-së një deklaratë me shkrim mbi arsyet e mosparaqitjes së tij brenda një afati kohor të arsyeshëm pas pranimit të urdhërit. Nëse KKK-ja, gjatë përdorimit të arsyeshëm të kompetencës diskrecionare, vërteton se motivet e paraqitura në deklaratë e arsyetojnë caktimin e sërishëm të paraqitjes, KKK-ja mund të ndryshojë urdhërin duke caktuar një vend dhe/ose kohë tjetër për paraqitje.
+Sigurimi i dokumenteve dhe materialeve

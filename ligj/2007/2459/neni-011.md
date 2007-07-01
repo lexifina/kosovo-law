@@ -1,0 +1,3 @@
+# Neni 11
+Marrëveshja ndërmjet ndërmarrjeve që përfshin mallrat ose shërbimet dhe që vendos mbi njërën palë (i) një kufizim të lirisë së shfrytëzimit të mallrave të furnizuara ose të mallrave ose shërbimeve të tjera; (ii) një kufizim të lirisë së blerjes ose shitjes së mallrave dhe/ose shërbimeve të tjera nga/për palët e treta; (iii) një kufizim mbi lirinë e shitjes së mallrave të furnizuara palëve të treta; ose (iv) një obligim për blerjen e mallrave ose shërbimeve që, nga karakteri i tyre ose praktika e zakonshme komerciale, nuk kanë të bëjnë me lëndën themelore të marrëveshjes në fjalë, ndalohen nëse kufizimet dhe/ose obligime te tilla dukshëm e dëmtojnë tregun e mallrave dhe/ose shërbimeve përkatëse.
+Marrëveshjet mbi pronën intelektuale dhe sekretin afarist

@@ -1,0 +1,5 @@
+# Neni 32
+32.1.Nëse është e nevojshme për kryerjen e një hetimi për ndonjë shkelje të dyshuar të këtij ligji, KKK-ja mund të aplikojë para gjykatës kompetente të Qarkut për lëshimin e një vendimi që i autorizon zyrtarët e KKK-së që (i) të hyjnë, pa paralajmërim paraprak ose leje të veçantë, në selinë dhe ose çfarëdo pronë ose vendi tjetër të ndërmarrjes që shfrytëzohet për kryerjen e aktiviteteve afariste ose deponimit dhe (ii) të kërkojnë dhe inspektojnë artikuj të pronës së luajtshme ose të paluajtshme në vendet e tilla.
+32.2.Gjykata përkatëse e Qarkut është e autorizuar që t’i lëshojë KKK-së vendimin në fjalë, nëse gjykata në fjalë vërteton se KKK-ja i ka përmbushur kushtet mbi provat dhe kushtet e tjera që kërkohen për lëshimin e vendimeve të tilla për policinë. Gjykata përkatëse e Qarkut mund të vendosë kufizime të arsyeshme në lidhje me fushëveprimin e vendimit në fjalë si dhe kohën në të cilin ai mund të zbatohet.
+Kryerja e Kërkimeve dhe Inspektimeve në Zyrat ose Vendet e Zhvillimit
+të Afarizimit të Ndërmarrjes

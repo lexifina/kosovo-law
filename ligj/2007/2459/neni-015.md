@@ -1,0 +1,7 @@
+# Neni 15
+Shpërdorimi i ndaluar i pozitës dominuese ekziston nëse, si furnizues ose blerës i disa llojesh të caktuara të mallrave ose shërbimeve, një ose më shumë ndërmarrje më pozitë dominuese:
+a. ndikon negativisht në konkurrencën e tregut duke dëmtuar aftësinë e ndërmarrjeve tjera për konkurrim në treg;
+b. kërkon pagesa ose kushte të tjera afariste që dallojnë nga ato që ka shumë të ngjarë se do të mbizotëronin po të kishte konkurrencë efektive, në këtë kontekst, do të mirret parasysh sjellja e ndërmarrjeve në tregjet e krahasueshme që karakterizohen me konkurrencë efektive;
+c. kërkon pagesa më pak të favorshme ose kushte të tjera afariste nga ç’kërkon prej blerësve të ngjajshëm në tregje të krahasueshme, përveç nëse ka arsyetim objektiv për dallimin e tillë;
+d. refuzon që t’ju lejojë ndërmarrjeve tjera, si kompensim për shfrytëzimin e arsyeshëm, përdorimin e rrjetave ndërlidhëse dhe infrastrukturës së saj, nëse shfrytëzimi i përbashkët ose qasja e tillë kërkohet nga këto ndërmarrje tjera, për arsye juridike ose faktike, që të veprojë si konkurrent i ndërmarrjes dominuese; sidoqoftë, kjo nuk do të përbëjë shpërdorim nëse ndërmarrja dominuese bindshëm dëshmon se për arsye teknike, operacionale ose arsye të tjera, lejimi i shfytëzimit të përbashkët ose qasjes është i pamundshëm ose nga ana tregtare jo i besueshëm; ose
+e. shfrytëzimi i pozitës në treg për të krijuar ndërmarrje tjera që i dhurojnë atij qëllime privilegjuese, përveç nëse qëllimi është i arsyeshëm për një trajtim të tillë favorizues.

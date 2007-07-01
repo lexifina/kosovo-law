@@ -1,0 +1,14 @@
+# Neni 2
+2.1. Kurdo që përdoren në këtë ligj, secili nga termet dhe shprehjet vijuese, ka kuptimin e cekur më poshtë përveç, nëse konteksti në të cilin këto terme shfaqen, qartësisht ka kuptim tjetër:
+“Marrëveshje” do të thotë çdo kontratë, marrëveshje, mirëkuptim ose aranzhim, qoftë ajo me shkrim apo jo.
+“Praktika e bashkërenduar” do të thotë një aktivitet që ka të bëjë me bashkëpunimin joformal ndërmjet ndërmarrjeve dhe që nuk bazohet në një vendim ose marrëveshje formale.
+“KKK” do të thotë Komisioni Kosovar i Konkurrencës që themelohet sipas Pjesës V të këtij ligji.
+“Person” do të thotë person fizik.
+“Ky ligj” do të thotë këtë ligj dhe aktet dhe instrumentet plotësuese normative të nxjerrura në mbështetje të ose sipas autorizimit të këtij ligji, duke përfshirë edhe rregullat e zbatimit të nxjerrura në përputhje me ose sipas autorizimit të këtij ligji.
+“Autoritet publik” do të thotë çdo autoritet ekzekutiv qeveritar, organ publik, ministri, departament, agjensi, ose autoritete të tjera të ngjajshme që ushtrojnë kompetenca ekzekutive, ligjdhënëse, rregullative, administrative ose gjyqësore në territorin e Kosovës. Termi “autoritet publik” përfshin përndryshe secilën organizatë apo mekanizëm privat deri në atë shkallë sa ato ushtrojnë ndonjerën prej pushteteve të sipërcekura në pajtim me autorizimin e dhënë sipas aktit nën normativ apo normativ ose në pajtim me delegimin e autorizimin nga ndonjë autoritet tjetër.
+“Ndërmarrje publike” do të thotë një autoritet publik ose ndërmarrje në pronësi, të kontrolluar ose të administruar nga një autoritet publik, pjesërisht ose plotësisht, nëse ndërmarrja ose autoriteti i tillë publik është e angazhuar në ushtrimin e aktiviteteve ekonomike.
+“Tregu Relevant” do të thotë fahu i tregtisë për të cilin është kufizuar konkurrenca në një zone, duke përfshirë të gjitha produktet dhe shërbimet e zëvendësueshme dhe të gjithë konkurrentët tek të cilët konsumatorët mund të drejtohen në afat të shkurtë, në rast se kufizimi apo abuzimi rezulton në ngritje materiale të çmimit.
+“Ndërmarrje” do të thotë (i) çdo ndërmarrje (duke përfshirë edhe ndërmarrjet private te biznesit ), ndërmarrjen publike, ortakërinë, ndërmarrjen e përbashkët, person juridik, shoqatë, projekt, degë, zyrë, ose ndonjë organizatë apo mekanizëm tjetër (pavarësisht nga pronësia, vendqëndrimi apo vendi i afarizmit ose veprimtarisë) të angazhuar në aktivitete ekonomike, edhe/ose (ii) çdo person që vepron në emër të cilësdo nga të mëparshmit.
+2.2. Përkufizimet më të hollësishme të termeve të përdorura në këtë ligj, si dhe përkufizimet e termeve të tjera, mund të përcaktohen apo të paraqitën në aktet nën-normative për zbatimin e këtij ligji; me kusht që, sidoqoftë, përkufizimet e tilla më të hollësishme te termave tjerë, të mos e cenojnë zbatimin e cilësdo nga dispozitat e këtij ligji.
+PJESA II
+KONKURRENCA
