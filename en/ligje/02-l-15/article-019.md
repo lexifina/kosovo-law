@@ -1,0 +1,6 @@
+# Article 19
+19.1. The Office of the Chief Executive shall monitor broadcasters and may initiate and receive complaints with regard to a broadcaster’s failure to comply with its conditions of license, code of conduct and other legal acts in accordance to herein Law.
+19.2. The Office of the Chief Executive shall investigate complaints for alleged breaches of license conditions, code of conduct and other legal acts in accordance to herein Law, unless a complaint is considered to be manifestly ill founded or frivolous.
+19.3. The Office of the Chief Executive shall provide a broadcaster with written notice on any allegation for the breach of license conditions, code of conduct and other legal acts in accordance to herein Law and shall ensure that the broadcaster has a reasonable opportunity to make representations and produce evidence.
+19.4. Upon completion of an investigation, the Office of the Chief Executive shall inform the Council of its findings and makes recommendations. The Council shall render a decision in 13 writing, along with indications of any sanctions to be imposed. Against the imposed sanctions the broadcaster shall have the right to seek reconsideration from the Board on Complaints for Media
+Sanctions

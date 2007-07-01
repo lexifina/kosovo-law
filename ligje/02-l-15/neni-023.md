@@ -1,0 +1,9 @@
+# Neni 23
+23.1. Duke marrë parasysh rekomandimet e Zëvendës Përfaqësuesit Special të Sekretarit të Përgjithshëm për Ndërtimin e Institucioneve, Përfaqësuesi Special i Sekretarit të Përgjithshëm mund të largojë anëtarin ndërkombëtar nga Bordi i Ankesave kur konsideron se arsyet për largim të dhëna në nenin 23.3 kanë të bëjnë me atë anëtar.
+23.2. Kuvendi i Kosovës me shumicë votash të deputetëve të Kuvendit, mund të rekomandojë largimin e një anëtari vendor të Bordit të mediave për ankesa nga ana e Gjykatës Supreme. Anëtari vendor i Bordit të mediave për ankesa mund të largohet nga ana e Gjykatës Supreme kur ekzistojnë shkaqet për largim, siç përcaktohen në nenin 23.3 për atë anëtar.
+23.3. Arsyet për largimin e një anëtari të Bordit të Ankesave duhet të jenë:
+a. anëtari bëhet i papërshtatshëm për të qenë anëtar më tutje, sipas nenit 22.7; ose
+b. anëtari dështon në ushtrimin e detyrave të tij në mënyrë efektive, ose sillet në mënyrë që nuk është në pajtueshmëri me rregulloren e tanishme ose me parimet e përfshira në rezolutat përkatëse të Këshillit të Sigurimit.
+23.4. Duke marrë parasysh rekomandimet e Zëvendës Përfaqësuesit Special të Sekretarit të Përgjithshëm për Ndërtimin e Institucioneve, Përfaqësuesi Special i Sekretarit të Përgjithshëm emëron anëtarin e ri për të zëvendësuar ndonjë anëtar ndërkombëtar i cili ka vdekur, ka dhënë dorëheqje, ose është shkarkuar nga Bordi i Ankesave. Anëtari i cili emërohet shërben për pjesën e mbetur të mandatit të anëtarit i cili është zëvendësuar.
+23.5. Për të zëvendësuar ndonjë anëtar vendor i cili ka vdekur, ka dhënë dorëheqje apo është larguar, Gjykata Supreme e Kosovës emëron anëtarin e ri, sipas procedurave të përcaktuara në këtë ligj. Anëtari i emëruar për plotësimin e vendit të lirë, vazhdon pjesën e mbetur të mandatit të anëtarit i cili është zëvendësuar.
+Procedurat e Bordit të Ankesave

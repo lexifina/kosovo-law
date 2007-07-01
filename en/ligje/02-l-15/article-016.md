@@ -1,0 +1,5 @@
+# Article 16
+16.1. Upon recommendation of the Chief Executive, the Council shall establish a license fee schedule for various classes of broadcasting licenses that shall be payable annually by the licensees. In establishing the schedule, the Office of the Chief Executive shall consider prevailing and projected market conditions. The license fee shall be the same within each class of license. The fee schedule shall be submitted for approval to the Council.
+16.2. The Office of the Chief Executive shall review and may amend the schedule of license fees every two (2) years.
+16.3. Annual license fees shall be collected by the Office of the Chief Executive. The monies collected shall be deposited in their entirety to an IMC account designated by the competent governmental authority for fiscal matters. The Office of the Chief Executive shall be responsible for maintaining the records of all license fee payments. This process shall be subject to normal auditing procedures as established by the competent governmental authority for fiscal matters.
+Advertisement

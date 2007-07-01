@@ -1,0 +1,10 @@
+# Neni 12
+12.1. Aplikimet për licencat e transmetimit do të bëhen në KPM përmes Zyrës së Shefit Ekzekutiv në përputhje me këtë Ligj dhe me procedurat që do të përcaktohen dhe publikohen nga Këshilli. Për aplikimet për licenca dhe për procedurat që janë zhvilluar lidhur me to kërkohet informacion që është i domosdoshëm për KPM-në, për të përcaktuar përshtatshmërinë e aplikantit me kushtet e përcaktuara në këtë ligj.
+12.2. Licenca e transmetimit mund t’i lëshohet vetëm individit apo subjektit që përmbush kërkesat e parashikuara në këtë ligj dhe kritereve të cilat KPM-ja mund t’i përcaktojë sipas një procedure të drejtë dhe të hapur të konkurrimit.
+12.3. Licenca e transmetuesit nuk i lëshohet ose nuk do të vazhdoj t’i jepet:
+a). partisë politike, grupit ose organizatës e cila menaxhohet nga individi i cili mban post të zgjedhur ose është anëtar i një organi ekzekutiv të një partie politike;
+b). Individit, ose subjektit i cili menaxhohet nga një individ, i cili është i dënuar në një proces në përputhje me standardet ndërkombëtare, për krime që kanë të bëjnë me dhunë apo mashtrime, të cilat nuk i janë falur ligjërisht atij ose asaj.
+12.4. Zyra e Shefit Ekzekutiv, kur t’i bëjë rekomandimet Këshillit për licencim, me rastin e vlerësimit të aplikacioneve të parashtruara për licencat e transmetimit, do të marrë parasysh faktorët e mëposhtëm:
+a. natyrën dhe shkallën e burimeve financiare të aplikantit; b. realizueshmërinë financiare të propozimit të aplikantit; c. kapacitetin teknik të aplikantit për të ofruar transmetime cilësore; d. nevojën për të siguruar program të shumëllojshëm për të gjithë qytetarët e Kosovës; e. nivelin në të cilën programi i ofruar i kontribuon zhvillimit të prodhimit të programit vetanak; f. aplikacionet konkurrente dhe g. aplikacionet e tjera të pranuara.
+12.5. Zyra e Shefit Ekzekutiv duhet të mbajë një regjistër të licencave të transmetimit, ku përfshihen kushtet e aplikueshme për secilën licencë. Ai regjistër do të jetë në dispozicion për kontrollim publik.
+Lëshimi i licencave të transmetimit
