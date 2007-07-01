@@ -1,0 +1,2 @@
+PRISHTINË :VITI II / NR. 14 / 01 KORRIK 2007 LIGJI Nr. 2004/2 PËR BARAZI GJINORE
+Kuvendi i Kosovës Duke u bazuar në Kornizën Kushtetuese për Vetëqeverisje të Përkohshme në Kosovë, nenet 3.1, 3.2 (a), (b), (c), (d), 5.1 (gj), 5.7, 9.1.26 (a) dhe 9.3.3, Duke ndier nevojën e krijimit të kushteve ligjore për barazi gjinore në të gjitha fushat e jetës shoqërore në Kosovë, Kuvendi i Kosovës. Miraton: LIGJIN PËR BARAZI GJINORE TË KOSOVËS DISPOZITAT E PËRGJITHSHME
