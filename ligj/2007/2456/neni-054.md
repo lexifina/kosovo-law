@@ -1,0 +1,8 @@
+# Neni 54
+Emblemat Kombëtare të Shteteve të Konventës
+54.1. Nuk do të regjistrohet një markë tregtare e cila përbëhet prej, ose përmban në vete, flamurin e një vendi të Konventës, pa autorizim nga autoriteti kompetent i atij vendi, përveç nëse nga zyra për Patente vlerësohet se përdorimi i flamurit në mënyrën e propozuar është i lejuar edhe pa këtë autorizim.
+54.2. Nuk do të regjistrohet një markë tregtare e cila përbëhet prej, ose përmban në të, emblemën shtetërore ose ushtarake të ndonjë shteti të Konventës, e që mbrohen me Konventën e Parisit, pa autorizim nga autoriteti kompetent i atij vendi.
+54.3. Nuk do të regjistrohet një markë tregtare e cila përbëhet prej, ose përmban në të, një shenjë ose vulë zyrtare të një shteti të Konventës, e që mbrohen me Konventën e Parisit, pa autorizim nga autoritetet kompetente të atij vendi.
+54.4. Dispozitat e nenit 54 të këtij ligji që bëjnë fjalë për flamujt dhe emblemat ose shenjat tjera zyrtare aplikohen në mënyrë të barabartë edhe për gjërat që imitojnë ndonjë flamur, emblemë, ose shenjë të tillë.
+54.5. Dispozitat e nenit 54 të këtij ligji nuk e pengon regjistrimin e një marke tregtare nga një shtetas i cili është i autorizuar të shfrytëzoj emblemën ose shenjën zyrtare të atij shteti, përpos në rastet kur ajo i ngjanë një shteti tjetër.
+54.6. Në rastet kur, duke u bazuar në nenin 54 të këtij ligji, për regjistrimin e një marke tregtare nevojitet autorizimi nga autoritetet kompetente të një shteti të Konventës, dhe një gjë e tillë nuk përfillet, atëherë ato autoritete kanë të drejtë ta ndalojnë me urdhër gjyqësor përdorimin e paautorizuar të markës tregtare në territorin e Kosovës.

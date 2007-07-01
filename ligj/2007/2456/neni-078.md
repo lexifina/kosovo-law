@@ -1,0 +1,6 @@
+# Neni 78
+Njoftimi për fshirjen ose pezullimin: Rivendosja e mëvonshme
+78.1. Pasi që të fshihet emri i një personi ose ndërmarrjeje nga regjistri i agjentëve të markës tregtare, zyra për Patentim e dërgon me postë njoftimin për fshirjen në adresën e dhënë nga ky person në regjistrin e agjentëve të markës tregtare.
+78.2. Kur vendimi merret në bazë të nenit 77 të këtij ligji për pezullimin për një periudhë të caktuar të regjistrimit të një personi si agjent i markës tregtare, zyra për Patentim, para se të fillojë kjo periudhë, e dërgon me postë njoftimin për pezullim në adresën e dhënë nga ky person në regjistrin e agjentëve të markës tregtare.
+78.3. Emri i personit ose ndërmarrjes i cili është fshirë nga Regjistri, mund të rivendoset në çdo kohë në regjistrin e agjentëve të markës tregtare, mirëpo vetëm me urdhër të zyrës për Patentim. Me rastin e rivendosjes së emrit në regjistrin e agjentëve të markës tregtare, zyra për Patentim mundet së bashku me rivendosje ti parashtrojë edhe këto kushte, përfshirë këtu edhe pagesën e një takse, të cilën zyra për Patentim e sheh si të arsyeshme.
+78.4. Me rastin e përfundimit të periudhës së pezullimit të një personi ose ndërmarrjes sipas nenit 77 të këtij ligji, ai person ose ndërmarrje mund të kërkojë nga zyra për Patentim t’i jepë fund pezullimit.

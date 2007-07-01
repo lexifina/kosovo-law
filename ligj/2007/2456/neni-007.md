@@ -1,0 +1,4 @@
+# Neni 7
+Prioritetet e ekspozitës
+7.1. Nëse aplikuesi i markës tregtare ka ekspozuar mallin ose shërbimet të cilat janë dizajnuar nga një shenjë specifike e një ekspozite të njohur ndërkombëtarisht në Kosovë, apo në njërën nga shtetet anëtare të Konventës së Parisit, aplikuesi mund të kërkojë që data e ditës së pare të ekspozitës së mallit apo shërbimeve të aprovohet me datën e aplikimit të pare, duke siguruar at se aj e ka plotësuar formularin e aplikimit në Kosovë brenda gjashtë muajve nga ajo date.
+7.2. Aplikuesi i cili kërkon të drejtën prioritare për ekspozitë duhet që për plotësim të aplikacionit t’i bashkangjesë një çertifikat të lëshuar nga autoriteti kompetent i shtetit i cili është anëtar i Konventës së Parisit që cek llojin e ekspozimit, vendin e mbajtjes, datat e hapjes dhe mbylljes si dhe ditën e parë të hapjes se ekspozimit të mallrave dhe shërbimeve të cekura në aplikacion.
