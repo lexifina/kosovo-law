@@ -1,0 +1,2 @@
+# Neni 26
+Bibliotekat e Institucioneve të shkollimit të lartë janë degë të Bibliotekës Universitare dhe sigurojnë materiale, informacione e shërbime bibliotekare që ndihmojnë procesin e edukimit shkencor e artistik që ofron fakulteti si dhe zhvillimin e aftësive të studentëve dhe të mësimëdhënësve të tyre; ndihmon studentët që ndjekin studimet në distancë duke iu dhënë në huazim materiale bibliotekare dhe duke siguruar qasje në burimet elektronike të informacionit.

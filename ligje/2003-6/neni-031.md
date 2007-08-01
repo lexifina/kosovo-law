@@ -1,0 +1,3 @@
+# Neni 31
+31.1 Bibliotekat krijojnë dhe pasurojnë koleksionet në përputhje me llojin e bibliotekës dhe funksionin që kanë, si dhe me nevojat e atyre që u shërbejnë.
+31.2 Krijimi dhe pasurimi i koleksioneve, sa i përket vëllimit dhe strukturës, zhvillohet në bazë të kritereve profesionale për sigurimin dhe prezantimin e materialit bibliotekar që përmban informacione dhe njohuri nga krijimtaria letrare, artistike e shkencore në nivel vendor e botëror, të parimit të respektimit të të drejtave civile, politike e kulturore të të gjithë qytetarëve dhe të parimit te grumbullimit dhe prezantimit të materialit bibliotekar me veprat nëpërmjet të cilave shprehet, afirmohet dhe zhvillohet identiteti kulturor, etnik e gjuhësor dhe vlerat demokratike.

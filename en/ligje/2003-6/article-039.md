@@ -1,0 +1,5 @@
+## CHAPTER IX
+## OTHER PROVISIONS
+# Article 39.
+39.1 Each person or entity that publishes publications in Kosovo, which are dedicated to the public use, is obliged that five copies of every publication to send to the National Library of Kosovo, within 30 days from the day of publication. If the publisher is not identified or is identified falsely (is unknown), or he or she does not have residency in Kosovo – this obligation will be carried out by the printing house, namely the entity that has performed reproduction.
+39.2. As a publication are considered the books, and books with gramophone disquiet, with audio-visual disquiet, with geographical maps, and other similar additions (multimedia publications), brochures, separate, magazines, newspapers, artistic reproductions, artistic acts, partite, atlases, globe of all kinds, urban plans, placards, catalogues of all types, programs, postcard and printed photos, slides etc. and their following parts reproduced graphically, gramophone disquiets and compact disquiets, audio and visual registered cassettes, registered computer disquiets and other works, which can be reproduced by printing or another similar way.

@@ -1,0 +1,2 @@
+# Article 26
+Libraries of the Institutes for high education are branches of University Library that provide materials, information and library services, in order to help the process of scientific and artistic education, which offers the faculty and also the skills development and professors of student, helps students to follow distant studies by giving them on loan library materials and by providing access in electronic sources of the information.

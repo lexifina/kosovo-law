@@ -1,0 +1,3 @@
+# Article 30
+30.1. Original library material (manuscripts, printed or created in any other form), that has a documentary value for culture, art and science, (rare or unique books, old material, obligatory copy of publication), get systemized as collection of documentary cultural heritage, and is considered as a part of national cultural treasure, preserved and protected in accordance with specific provisions, which are valid for cultural heritage and can be used only in the premises of the library, respectively cannot be given on loan.
+30.2. Sending outside Kosovo the original library material is allowed only in reproduced form, in function of international cultural and scientific cooperation, based on the decision of Minister for Culture and the Minister of Science.

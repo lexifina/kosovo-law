@@ -1,0 +1,3 @@
+# Neni 30
+30.1. Materiali bibliotekar burimor (dorëshkrime, i shtypur ose i krijuar në ndonjë formë tjetër), që ka vlerë dokumentare për kulturën, artin dhe shkencën, (libri i rrallë apo unikat, materiali i vjetër, kopia e detyrueshme e publikacionit), sistemohet në koleksion të trashëgimisë dokumentare kulturore dhe konsiderohet pjesë e thesarit kulturor kosovar; ruhet e mbrohet në përputhje me dispozita të veçanta që vlejnë për trashegiminë kulturore; shfrytëzohet vetëm në mjediset e bibliotekës, përkatësisht nuk jepet në huazim.
+30.2. Nxjerrja jashtë Kosovës e materialit bibliotekar burimor, lejohet vetëm në formë të reprodukuar, në funksion të bashkëpunimit kulturor e shkencor ndërkombëtar në bazë të vendimit të Ministrit për Kulturë dhe Ministrit për Shkencë.
