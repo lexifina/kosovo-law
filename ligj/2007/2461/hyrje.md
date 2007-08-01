@@ -1,0 +1,3 @@
+LIGJI Nr. 2003/16
+Duke u mbështetur në Kapitullin 5, pika 5.1. (k) të Kornizës Kushtetuese për Vetëqeverisje të Përkohshme në Kosovë (Rregullorja e UNMIK-ut nr. 2001/9 të datës 15 maj 2001) dhe nenit 2 pika 2.2. shtojca IX pika (iX) të Rregullores se UNMIK-ut nr. 2001/19 mbi Degën e Ekzekutivit të Institucioneve të Përkohshme për Vetëqeverisje në Kosovë, në Seksionin I pika 1.2. dhe Seksionin 2 pika (g) të Rregullores se UNMIK-ut nr. 2001/14 të datës 2 korrik 2001 me të cilën është formuar Enti Statistikor i Kosovës, si dhe në Propozimin e Qeverisë së Kosovës, Kuvendi i Kosovës, në mbledhjen e tij të rregullt të datës 11.07.2003 miratoi:
+LIGJIN PËR REGJISTRIMIN E POPULLSISË, TË EKONOMIVE FAMILJARE DHE TË BANESAVE NË KOSOVË

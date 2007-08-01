@@ -1,0 +1,3 @@
+# Neni 11
+Regjistrat dhe Pyetësorët (formularët) për Regjistrim
+Për kryerjen e regjistrimit dhe për grumbullimin sa më të plotë të të dhënave të nevojshme, ESK, bashkë me Zyrën e Regjistrimit, përgatitë Regjistrat, Pyetësorët dhe dokumentacionin tjetër përkatës, për regjistrimin e të dhënave identifikuese të individëve, të banesave, të rrugëve (adresave), të vendbanimeve, të ekonomive familjare dhe të ndërmarrësve individualë të cilët, në ditën e regjistrimit deklarohen si të vetëpunësuar (në bujqësi, në industri, në zejtari apo në shërbime të tjera publike) si dhe kapaciteti i biznesit të tyre.

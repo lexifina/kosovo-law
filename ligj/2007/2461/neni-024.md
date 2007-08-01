@@ -1,0 +1,2 @@
+# Neni 24
+Ndëshkimet me gjoba për kundërvajtje administrative të parapara me Nenin 22 i shqipton kryetari i Komisioni Komunal të Regjistrimit. Ankesa kundër këtij vendimi mund t’i paraqitet Komisionit Qendror të Regjistrimit brenda 10 ditësh, që nga dita e marrjes së vendimit. Ankesa kundër vendimit të Komisionit Qendror të Regjistrimit mund t’i paraqitet Gjykatës për kundërvajtje brenda 10 ditësh nga dita e marrjes së vendimit.
