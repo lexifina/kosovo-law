@@ -1,0 +1,3 @@
+# Section 13.
+Fire.
+13.1.The workplace shall be equipped with adequate fire fighting equipment in accordance with emergency response plan. 13.2.Employees shall be trained in their correct usage by the employer in accordance with emergency response plan and in case of emergency to act according to the evacuation plan. 13.3.In case of emergency, emergency exits shall be clearly marked and equip with emergency light. 13.4.Routes to emergency exits shall be free from obstructions as well as the exit doors shall not be locked. 13.5.In workplaces with more than 20 employees, the employer shall be obliged to have emergency evacuation plan.
