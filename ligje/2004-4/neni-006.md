@@ -1,0 +1,2 @@
+# Neni 6
+6.1.Veprimtaria shëndetësore organizohet me qëllim të sigurimit të kujdesit të përshtatshëm dhe të suksesshëm shëndetësor për banorët, në kushte normale dhe në rrethana dhe gjendje të jashtëzakonshme. 6.2.Veprimtaria shëndetësore siguron kujdesin shëndetësor për banorët nëpërmjet zbatimit të masave dhe të metodave bashkëkohore të shkencës së mjekësisë dhe të shkencave të lidhura me të, si dhe nëpërmjet ndjekjes së vazhdueshme të rezultateve të tyre.
