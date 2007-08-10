@@ -1,0 +1,9 @@
+# Neni 7
+7.1 Karakteristikat e dyerve dhe dritareve për kushtet e zakonshme të parashikimeve normale të përdorimit të objektit dhe parashikimet e ndikimit të ambientit në objekt për kohën e qëndrueshmërisë së përdorimit të objektit duhet të caktohen me projektimin e objektit, posaçërisht në lidhje me:
+a) rezistencën ndaj ngarkesave të erës, e cila duhet ti përgjigjet parashikimeve të veprimit të erës,
+b) depërtimi i ujit, e cila duhet ti përgjigjet ndikimit të shiut gjatë veprimeve të parashikuara të erës, c) depërtimin e ajrit, për dyer dhe/ose dritare të cilat vendosen në lokalet dhe hapësirat të cila plotësojnë kushtet e ndryshimit të ajrit dhe/ose humbjes së nxehtësisë nga ajrosja (kuzhinat, banjat, hapësirave ndihmëse dhe punëtoritë) në pajtim me përshkrimet e veçanta teknike,
+d) Kalimin e nxehtësisë për dyer-dritare të cilat vendosen në mes ambientit të jashtëm dhe ambientit të ngrohur gjegjësisht në mes hapësirave të cilat kanë temperature të ndryshme të brendshme të projektuara në pajtim me përshkrimet e veçanta,
+e) izolimin ndaj zhurmës, për dyer-dritare të cilat vendosen në mes hapësirave dhe/ose ambienteve me shkallë të ndryshme të zhurmës në pajtim me përshkrimet e veçanta,
+f) rezistencën ndaj zjarrit dhe depërtueshmërisë së tymit, për dyer dhe dritare të cilat vendosen në mes hapësirave dhe/ose ambienteve të cilat i takojnë sektorëve të ndryshme ndezëse në pajtim me përshkrimet e veçanta.
+7.2 Kushte për vendosje, përdorim dhe mirëmbajtje të dyer dritareve duhet caktuara me projektin e objektit në atë mënyrë që të plotësojnë kërkesat themelore dhe kushtet e tjera që duhet ti plotësoj objekti.
+7.3 Nëse qëndrueshmëria e projektuar e objektit është më e gjatë se sa qëndrueshmëria e projektuar e dyer-dritareve, me projekt duhet caktuar kushtet dhe mënyra e ndërrimit të tyre

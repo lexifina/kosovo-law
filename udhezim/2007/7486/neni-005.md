@@ -1,0 +1,11 @@
+# Neni 5
+5.1 Dyert dhe dritaret prodhohen në reparte prodhues jashtë punishtes ndërtuese.
+5.2 Vendosja e dyerve dhe dritareve lejohet të bëhet në objekt nëse ato i plotësojnë kërkesat e përshkruara me këtë Udhëzim Administrativ dhe nëse për to është dhënë deklarata e konformitetit në pajtim me dispozitat e veçanta.
+5.3 Dyert dhe dritaret lejohet të vendosen në mes hapësirave të cilat u takojnë sektorëve të ndryshme ndezëse nëse ato plotësojnë kushtet nga paragrafi 5.2 i këtij neni dhe nëse për to është bërë vërtetim e konformitetit.
+5.4 Lejohet të bëhet vendosja e dyerve dhe/ose dritareve të prodhuara sipas projektit për nevoja ndërtimi në atë objekt, nëse për to dëshmohet përdorimi në harmoni me projektin dhe këtë Udhëzim Administrativ.
+5.5 Dokumentacioni me të cilën shoqërohet porosia e dyerve dhe/ose dritareve duhet të përmbaj:
+a) të dhënat që lidhen me punimet dhe dokumentet mbi konformitetin e dritareve dhe/ose dyerve dhe deklaratën e konformitetit nga paragrafi 5.2 i këtij neni gjegjësisht vërtetimi i konformitetit nga paragrafi 5.3 i këtij neni, b) të dhënat në lidhje me shënjimin e dyerve dhe/ose dritareve të përshkruara nga neni 5 paragrafi 5.1 i këtij Udhëzimi Administrativ dhe
+c) të dhëna të tjera të rëndësishme për përdorim, transport, ngarkim-shkarkim, deponim, vendosje, si dhe për mirëmbajtje të tyre si dhe për ndikimit të tyre në kriteret themelore dhe qëndrueshmërisë së objektit.
+5.6 Në rast jokonformitetit të dyerve dhe/ose dritareve me specifikimet teknike ose projektin për atë produkt ndërtimor prodhuesi duhet menjëherë të ndërpres prodhimin e tyre dhe të ndërmarr masa me qëllim të vërtetimit dhe eliminimit të gabimeve që kanë shkaktuar jokonformitetitn.
+5.7 Nëse vjen deri te dërgesa e dyerve dhe/ose dritareve jokonforme, prodhuesi gjegjësisht importuesi duhet që për atë produkt pa vonesë të lajmërojnë të gjithë blerësit, distributorët, personin juridik të autorizuar i cili ka vërtetuar konformitetin dhe Departamentin e Ndërtimtarisë në MTI .
+5.8 Prodhuesi gjegjësisht importuesi ose distributori i dritareve ose/dhe dyerve, si dhe ekzekutuesi i objektit janë të obliguar të ndërmarrin masa adekuate me qëllim të ruajtjes së karakteristikave të tyre gjatë përdorimit, transportit, ngarkim-shkarkimit, deponimit, dhe vendosjes së tyre në objekt.
