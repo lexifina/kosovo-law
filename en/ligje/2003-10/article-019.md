@@ -1,0 +1,2 @@
+# Article 19
+Reserved Powers of the Special Representative of the Secretary General of the United Nations. All functions powers reserved to Special Representative of the Secretary General of the United Nations for Kosovo (“SRSG”) as referred to in UNMIK Regulation No 2001/9 on a Constitutional Framework for Provisional Self-Government in Kosovo shall be temporarily subject to monitoring and endorsement by the SRSG.

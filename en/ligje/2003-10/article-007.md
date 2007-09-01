@@ -1,0 +1,3 @@
+# Article 7
+Powers of Inspectors 1.An Inspector may always: (a). enter any place in which he/she believes on reasonable grounds there is any article to which this Law applies. (b) open any container found in that place that he/she believes on reasonable grounds contains any such article. c. examine the article and take samples thereof.
+2. Assistance to Inspectors The owner or Person in charge of any place described in (1) of this Article and every Person found in that place shall give an Inspector all reasonable assistance to enable the Inspector to carry out the Inspectors duties and functions under this Law and shall furnish the Inspector with any information the Inspector may reasonably require with respect to the administration of this Law.

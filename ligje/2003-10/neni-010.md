@@ -1,0 +1,4 @@
+# Neni 10
+Konfiskimi, Dënimi (Shpallja e Papërdorshme) dhe Shitja
+10.1. Kontigjenti i plehrave artificiale që nuk është në pajtim me këtë Ligj do të jetë objekt i konfiskimit i cili bëhet me vendim të inspektorit. Nëse inspektori konstaton se plehrat e tilla nuk u përgjigjen standardeve të parapa me Ligj dhe që plehu artificial është i papërdorshëm, ai do të asgjësohet në mënyrë adekuate dhe në pajtim me legjislacionin e aplikueshëm në Kosovës.Para asgjësimit të plehut artificial, pala e pa kënaqur mund të bëjë ankesë kundër vendimit të inspektorit për asgjësimin e plehut artificial, Ministrit në afat prej 15 ditësh nga dita e pranimit të vendimit.
+Pala e pakënaqun mund ta inicojë kontestin administrativ në Gjykatën kompetente në afat prej 30 ditësh nga dita e marrjes së vendimit. Ankesa nuk e pezullon zbatimin e vendimit të plotëfuqishëm.

@@ -1,0 +1,2 @@
+# Article 5
+Quality and Harmful Properties 1. The production, import, repacking, distribution or Use of Artificial Fertilizers not complying with quality and other conditions according to designated standards: a. does not contain sufficient nutritive active ingredients; b. contains destructive ingredients (such as heavy metals or radio-nuclear waste) or when used according to the directions, has properties harmful to plant growth, is prohibited.
