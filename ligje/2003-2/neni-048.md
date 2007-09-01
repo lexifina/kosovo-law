@@ -1,0 +1,8 @@
+# Neni 48
+Grantet për njësitë e përcaktuara
+48.1 Varësisht nga neni 48.2, organizata buxhetore mund të sigurojë një grant për një njësi të përcaktuar vetëm nëse një përvetësim për organizatën përkatëse buxhetore në mënyrë specifike dhe të saktë e autorizon një grant të tillë, dhe, në raste të tilla, organizata buxhetore do të sigurojë që çfarëdo kushti i vendosur nga përvetësimi në një grant të tillë të respektohet plotësisht.
+48.2 Sa ka të bëjë me përvetësimet e propozuar që autorizojnë një grant për një njësi të përcaktuar, Ministri i Ekonomisë dhe Financave do: (i) të marrë pikëpamjet dhe këshillat e BPK- së mbi grantin e propozuar, (ii) të marrë pikëpamjet dhe këshillat me shkrim nga Departamenti i Buxhetit, Thesari dhe Departamenti i Politikave Ekonomike të Ministrisë lidhur me grantin e propozuar, dhe (iii) të i’a prezantojë të gjitha pikëpamjet dhe këshillat e tilla Kuvendit. Gjatë marrjes në konsideratë të rekomandimeve (këshillave) për bërjen e një përvetësimi që autorizon grantin e propozuar, Kuvendi në mes tjerash do të marrë parasysh:
+(a) nëse njësia e përcaktuar apo çfarëdo aksioni në të shitet gjatë vitit fiskal (i) mundësinë e investimeve kapitale (ii) kushtet dhe konditat operative të cilat do ti viheshin pronarëve të rinj, në mënyrë që të arrihen qëllimet e barabartësisë;
+(b) planet bisnesore të përgatitura nga njësitë e përcaktuara publike që paraqesin:
+(i) tarifat e propozuara për konsumatorët, që do të vendon në vitin aktual dhe pesë vitet e ardhshme fiskale;
+(ii) kontratat dhe aranzhimet e tjera për ndërrimin e menaxhmentit nëse tarifat e propozuara për konsumator nuk zbatohen sipas orarit të caktuar në planet e bisnesit apo që vendosen por nuk zbatohen.

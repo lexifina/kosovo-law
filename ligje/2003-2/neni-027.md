@@ -1,0 +1,6 @@
+# Neni 27
+Rregullimet e përvetësimeve të organizatës buxhetore
+27.1 Ministri i Ekonomisë dhe Financave, nëse merr një arsyetim të vlefshëm nga një udhëheqës i një organizate buxhetore, mund të autorizoj transferimin e një shume të caktuar nga një përvetësim i asaj organizate buxhetore në një përvetësim tjetër të organizatës së njëjtë; me kusht që, vlera e shumës së transferuar të mos jetë më e madhe se 20 % e përvetësimit të ndikuar negativisht.
+27.2 Nëse udhëheqësi i organizatës buxhetore, kërkon nga Ministri i Ekonomisë dhe Financave që të bëjë transferin e një shume që është më e madhe se njëzet përqind 20 %, por më e vogël se katërdhjetë përqind 40 % e përvetësimit të ndikuar negativisht, atëherë Ministri i Ekonomisë dhe Financave mund të autorizoj një transferim të tillë vetëm nëse ka marrë miratimin paraprak me shkrim nga Qeveria dhe PSSP.
+27.3 Nëse udhëheqësi i organizatës buxhetore kërkon nga Ministri i Financave dhe i Ekonomisë që të autorizojë transferimin e një shume të barabartë me 40% apo më shumë, të përvetësimit të ndikuar negativisht, Ministri i Ekonomisë dhe Financave mund të autorizojë transferimin e tillë vetëm pasi të ketë marrë miratimin paraprak me shkrim nga Kuvendi dhe PSSP.
+18

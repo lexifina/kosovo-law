@@ -1,0 +1,3 @@
+# Section 64
+Suspension of Public Officials and Civil Servants
+If a public official or civil servant becomes the subject of a court proceeding involving allegations that such public official or civil servant has been involved in an event of illicit influence as described in Section 62 or has intentionally or negligently failed to comply with one or more obligations or requirements imposed by the present law or a subsidiary normative act or order validly issued under the authority of the present law, the court may issue an order suspending such person from his or her position until the court has the opportunity to conduct a full and fair hearing on the allegations and to make a determination thereon.

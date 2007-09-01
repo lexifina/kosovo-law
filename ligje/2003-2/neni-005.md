@@ -1,0 +1,3 @@
+# Neni 5
+Departamenti i Politikave Ekonomike
+Në kuadër të Ministrisë për Ekonomi dhe Financa do të krijohet Departamenti i Politikave Ekonomike. Departamenti i politikave ekonomike është përgjegjës për përpilimin e parashikimeve makroekonomike dhe fiskale si dhe përcaktimin e parametrave të përgjithshëm të Buxhetit të Konsoliduar të Kosovës dhe politikat afatmesme buxhetore. Pasi që të ketë kryer funksionet e tij të parashikimit dhe buxhetimit në mënyrë rutinore dhe të kënaqshme, Departamenti i Politikave Ekonomike mundet që gjithashtu të bëhen analizat për rrezikun fiskal dhe plan veprime nën programe të mëdha ta parashikimit.

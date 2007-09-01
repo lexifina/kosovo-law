@@ -1,0 +1,13 @@
+## Part XI
+## Municipalities
+# Section 55
+Application of the Present Law to Municipalities
+55.1 Each municipality shall appoint a Chief Financial Officer. Each municipality shall also establish a Treasury Department and a Budget Department, which departments shall have and exercise powers and responsibilities over the municipality’s budget processes similar to those exercised by the Treasury and the Budget Department of the Ministry of Finance and Economy over the central budget processes.
+55.2 A municipality may establish an arrangement in writing with the Minister of Finance and Economy to have the Treasury and the Budget Department of the Ministry of Finance and Economy assume responsibility for any or all of the budgetary functions that a municipality is authorized to carry out under the present law.
+55.3 Subject to Section 55.4:
+(a) the budget preparation and implementation procedures set out in Parts IV - VII of the present law and the reporting, accounting and audit procedures set out in
+Part VIII of the present law shall apply to municipalities, and any references in
+those Parts to officials, employees or budget organizations shall be read, for the purpose of the application of this Part XII, to cover the corresponding municipal level officials, employees and public authorities; and
+(b) any responsibility, power or authority conferred or imposed by Parts IV – VIII on the Minister of Finance and Economy in respect of the central budget process will be read to confer or impose, as the case may be, a similar responsibility, power or authority on the Chief Financial Officer of a municipality concerning the budget process of such municipality.
+55.4 Where the Minister of Finance and Economy considers it appropriate, pursuant to the authority provided by Section 5.2 of UNMIK Regulation 2001/9 and Section 37.3 of UNMIK Regulation 2000/45, the Minister may prescribe (i) rules for the budget preparation and implementation procedures of municipalities that differ from those set out in Parts IV and V of the present law, and (ii) rules for the reporting, accounting and audit procedures of municipalities that differ from those set out in Part VIII of the present law; provided, however, that rules prescribed under the authority of this section shall become effective only after approval in writing by the Grants Commission.
+55.5 The Minister of Finance and Economy may enter into an arrangement with a municipality to provide investment advice or services to such municipality to ensure the efficient investment of the funds in the municipality’s sub-account under the Kosovo Consolidated Fund.

@@ -1,0 +1,6 @@
+# Section 38
+Treasury Budgeting and Accounting Records
+38.1 The Minister of Finance and Economy shall establish classification systems for use in budget and accounting records that:
+(a) facilitate the control of spending by budget organizations; (b) permit analyses of commitments and expenditures by budget organizations, by program and by economic category in accordance with the cash basis classification system of the Government Finance Statistics established from time to time by the International Monetary Fund; and (c) permit such other analyses as the Minister of Finance and Economy deems appropriate.
+38.2 The Minister of Finance and Economy shall maintain, at a minimum, accounting records for each budget organization showing aggregate information for each of the following categories::
+(a) the receipts of the budget organization; (b) the outstanding liabilities of the budget organization; (c) the assets of the budget organization; (d) appropriations; (e) adjustments to appropriations; (f) appropriations that have been made available to the budget organization for expenditure by means of allocated funds notices; (g) the extent to which allocated funds of the budget organization have been recorded as committed funds; and (h) actual expenditures made.
