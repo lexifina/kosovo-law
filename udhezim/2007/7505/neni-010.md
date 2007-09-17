@@ -1,0 +1,6 @@
+# Neni 10
+10.1 Dispozitat të neneve 4, 5, 6, 7, 8 dhe 9 të këtij udhëzimi zbatohen edhe në shkresat shtesë me të cilat zëvendësohen pjesët përbërëse të aplikacionit për patentë. Këto shkresa shtesë i dorëzohen Zyrës në procedurë të njejtë si edhe aplikacioni për patent.
+10.2 Të gjitha pjesët e rëndësishme përbërëse të aplikacionit për patent dhe shkresat shtesë të cilat dorëzohen me vonesë, duhet të jenë të nënshkruara. Kur shkresa shtesë nuk është e nënshkruar, Zyra do të fton palën e interesuar që të nënshkruaj në afatin e caktuar, nga dita e pranimit të ftesës. Kur në afatin e përcaktuar është nënshkruar, shkresa shtesë përmban datën kur është pranuar, në të kundërtën konsiderohet se nuk ështe paraqitur.
+10.3 Dokumentet e parashtruara me vonesë të cilat u njoftohen personave të tretë apo kur janë në lidhje me dy apo më tepër aplikacione për patentim duhet të paraqiten në numrin i cili i përgjigjet numrit të përsonave që njoftohen apo me numrin e aplikacionit me të cilat i referohet. Kur pala e interesuar edhe përkundër kërkesës nga Zyra, nuk dorëzon numrin e nevojshëm të ekzemplarëve të dokumenteve shtesë, atëhere ekzemlarët që mungojnë do të sigurohen nga Zyra me shpenzimet e palës së interesuar.
+III. Regjistri i aplikacionit për patent
+Përmbajtja e regjistrit të aplikacionit për patent
