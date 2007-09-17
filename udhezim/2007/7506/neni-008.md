@@ -1,0 +1,3 @@
+# Neni 8
+8.1 Kur me një paraqitje grafike përkatësisht fotografi nuk mund të tregohen të gjitha karakteristikat e risisë dhe karakteri individual i dizajnit, dorëzohen aq paraqitje përkatësisht fotografi aq sa për këtë qëllim është e nevojshme, po jo me shumë se gjashtë paraqitje të dizajnit në paraqitje të ndryshme. Kur në paraqitjen shtesë të dizajnit pjesa e caktuar nuk shihet qartë, pjesa e tillë mund të paraqitet në një masë më të zmadhuar.
+8.2 Kur i njëjti dizajn është i paraqitur me shumë paraqitje grafike përkatësisht fotografi, secila paraqitje e dizajnit në veçanti shënohet me numër, ashtu që shenja përmban dy numra të ndarë me pikë, ku numri i parë shënon numrin rendor të dizajnit, ndërsa numri i dytë shënon numrin e paraqitjeve, shembull: 1.1, 1.2, 1.3.

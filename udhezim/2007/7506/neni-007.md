@@ -1,0 +1,3 @@
+# Neni 7
+7.1 Kur aplikacioni i dizajnit industrial ka të bëjë me dizajnin i cili përbëhet prej më shumë strukturave të përsëritura, ngjyra, ngjyrime e të ngjashme, në paraqitjen e dizajnit të paraqitet vetë struktura dhe pjesa e sipërfaqes së përsëritur.
+7.2 Kur aplikacioni për dizajn ka të bëjë me dizajnin në formë të shkronjave tipografike, paraqitja e dizajnit duhet të përmbaj në rresht të gjitha shkronjat e vogla dhe të mëdha të alfabetit dhe nga rreshti i numrave arab nga zeroja deri në nëntë dhe pesë rreshta të tekstit të shkruar më këto forma lloj shkronjash, të gjitha të shkruar në madhësinë 16.

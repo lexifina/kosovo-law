@@ -1,0 +1,3 @@
+# Neni 9
+9.1 Dizajni industrial do të regjistrohet dhe do të publikohet me ngjyrë, kur së bashku me aplikacionin e dizajnit industrial i është bashkëngjitur paraqitja me ngjyra, ndërsa kur paraqitja e dizajnit është bërë në teknikën bardh e zi atëherë dizajni do të regjistrohet në teknikën bardh e zi.
+9.2 Me rastin e publikimit të dizajnit dhe lëshimit të dokumentit për dizajnin industrial me ngjyra, duhet të shfrytëzohet teknika më e mirë e reproduktimit me të cilën zyra posedon. Në rast të kontestit në lidhje me nuancat ose tonet e ngjyrës në të cilin dizajni është reprodukuar, dizajni i produktit përcaktohet duke marrë parasysh paraqitjen e dizajnit që është i bashkangjitur aplikacionit për dizajn industrial.
