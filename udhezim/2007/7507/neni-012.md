@@ -1,0 +1,13 @@
+# Neni 12
+12.1 Në regjistrin e markës shënohen këto të dhëna:
+a) numri i aplikacionit dhe i regjistrimit të markës, data e paraqitjes së aplikacionit, të dhënat për paraqitësin e aplikacionit dhe bartësit të markës, i cili është i cekur në aplikacion;
+b) të dhënat për përfaqësuesin e autorizuar, të cilat janë cekur në aplikacion, në përputhje me nenin 2 paragrafin 2.1 të këtij udhëzimi, nëse përfaqësuesi është caktuar, c) lista e produkteve dhe shërbimeve, të dhënat për të drejtën e përparësisë, data e drejtës së përparësisë.
+d) forma e markës, të dhënat se shenja është figurative, nëse shenja është e tillë, të dhënat se shenja është tredimensionale, nëse shenja është e tillë, të dhënat se shenja është më ngjyra dhe cekja e ngjyrës që është element dallues i markës, nëse marka është me ngjyra;
+e) të dhënat se marka është individuale, kolektive apo certifikuese, transliterimi i shenjës, nëse është e cekur në aplikacion, përshkrimi i shenjës, nëse është i cekur në aplikacion;
+f) përkthimi i shenjës në gjuhët zyrtare, nëse kjo është e cekur në aplikacion, klasifikimi i elementeve figurative të shenjës në pajtim me Klasifikimin Ndërkombëtar të bazuar në Marrëveshjen e Vjenës për përcaktimin e Klasifikimit Ndërkombëtar të elementeve figurative të shenjës;
+g) rregullat nga kontrata me të cilat rregullohet përdorimi i markës së përbashkët, nëse marka është e përbashkët, data e publikimit të aplikacionit në Buletinin Zyrtar të Zyrës, të dhënat për mënyrën e përfundimit të procedurave administrative;
+h) data e regjistrimit të markës, data nga e cila fillon vlefshmëria e markës, data e publikimit të regjistrimit të markës në Buletinin e Zyrës, të dhënat për ndryshimet në aplikacion apo në regjistrimin e markës, në pajtim të nenit 40 dhe 43 të Ligjit;
+i) të dhënat për ndryshimin e markës apo aplikacionit, bartja e të drejtave, liçensa, pengu, ekzekutimi, ndryshimi i emrit dhe adresës të paraqitësit të aplikacionit, bartësit të markës apo të përfaqësuesit të tij, ndryshimi i përfaqësuesit, kufizimi i listës së produkteve dhe shërbimeve, ndarja e aplikacionit apo regjistrimit, të dhënat mbi falimentimin, ndryshimet dhe plotësimet në kontratën me të cilën rregullohet përdorimi i markës së kolektive dhe të dhënat tjera që kanë të bëjnë me statusin juridik të markës;
+j) të dhënat për kundërshtimin e paraqitur, të dhënat për kërkesën e paraqitur për revokim të markës, të dhënat për kërkesën e paraqitur për anulimin e markës, të dhënat për kontestet administrative lidhur me regjistrimin e markës;
+k) të dhënat për heqjen dorë nga marka, të dhënat për ndërprerjen e vlefshmërisë së markës dhe baza e kësaj ndërprerje.
+Të dhënat për regjistrimin e markës të cilat publikohen në Buletinin e Zyrës

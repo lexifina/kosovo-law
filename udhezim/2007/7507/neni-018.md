@@ -1,0 +1,7 @@
+# Neni 18
+18.1 Kur kërkohet regjistrimi i ndryshimeve për më tepër aplikacione, ku paraqitësi është person i njëjtë, apo kërkohet regjistrimi i ndryshimeve për më tepër regjistrime të markës bartësi i cilit është person i njëjtë, mundet të paraqitet një kërkesë në të cilën duhet të ceken të gjitha numrat e aplikacioneve apo regjistrimeve për të cilat ka të bëjë ndryshimi.
+18.2 Kur kërkohet regjistrim i pjesshëm i bartjes së të drejtave, Zyra përpilon aplikacion të ri apo regjistrim të ri të markës e cila përfshin produktet apo shërbimet lidhur me bartjen e kryer. Kur behët bartja apo regjistrimi i cili përfshinë produktet apo shërbimet të caktuara më ndonjë shprehje të përgjithësuar, kjo shprehje e përgjithësuar do të përdoret në të gjitha listat e reja të produkteve dhe shërbimeve ku është bartur .
+16.3 Kopja e plotë e listës se aplikacionit të parë apo të regjistrimit të markës bëhet pjesë e listës së lëndës të aplikacionit të ri apo regjistrimit nga paragrafi 18.2 të këtij neni, ndërsa kopja e kërkesës për regjistrimin e bartjes të së drejtës bëhet pjesë e listës së lëndës të aplikacionit apo regjistrimit të parë.
+18.4 Aplikacionit apo regjistrimit të ri nga paragrafi 18.2 të këtij neni i caktohet numri i ri.
+18.5 Procedurat e filluara lidhur me aplikacionin apo regjistrimin burimor, do të ndikojnë edhe ne aplikacionin apo regjistrimin e ri nga paragrafi 18.2 i këtij neni nëse ajo i përfshin produktet dhe shërbimet për të cilat është filluar procedura.
+Procedura lidhur me kërkesën për regjistrimin e ndryshimeve
