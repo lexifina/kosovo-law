@@ -1,0 +1,2 @@
+# Neni 4
+Personi që aplikon sipas nenit 2 të këtij UA do të plotësoj aplikacionin për regjistrim në regjistrin përkatës të objektit të pronësisë industriale, duke paguar taksen e regjistrimit të parashikuar me UA “Për Taksat administrative për objektet e pronësisë industriale” dhe për objektet për të cilat parashikohet taksa vjetore e mirëmbajtjes, taksen vjetore të mirëmbajtjes për periudhën e mbetur.

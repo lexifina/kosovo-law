@@ -1,0 +1,3 @@
+# Neni 2
+Personi qe deri me datën e hyrjes në fuqi të UA Nr 2007/6 të datës 01.10.2007, është pronar i një objekti të pronësisë industriale së mbrojtur në ish RFJ, mund në një afat prej 12 muajsh nga kjo datë të dorëzoj një kërkesë në Zyre për regjistrim në regjistrat përkatëse të objekteve të pronësisë industriale.
+Ministria e Tregtisë dhe Industrisë Ministry of Trade and Industry Ministarstvo Trgovine i Industrije Tel: +381(0) 38 200-36038 Tel: +381(0) 38 200-36038 Tel: +381(0) 38 200-36038 Fax: +381 38 212-807 Fax : +381 38 212-807 Fax: +381 38 212-807 Web faqe : www.mti-ks.org Web page: www.mti-ks.org Web strana: www.mti-ks.org
