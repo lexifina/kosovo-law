@@ -1,0 +1,5 @@
+# Neni 16
+16.1.QKK i shpërndan etiketat përkatëse në bazë të regjistrit të paraqitur të titujve të veprave filmike, dëshmive të paraqitura në kuptim të nenit 13 të këtij ligji, pasi të jetë bërë shpagesa përkatëse (në vijim: taksa) për tërë sasinë e etiketave.
+16.2.QKK shpërndan aq etiketa sa është sasia e deklaruar nga shfrytëzuesi, përkatësisht distributori i videogrameve për vënie në treg gjatë vitit kalendarik.
+16.3.Etiketat shpërndahen për çdo vit kalendarik në vijim dhe nuk janë të vlefshme pas kalimit të vitit në vijim.
+16.4.Teprica e etiketave të botuara e të pa shpërndara gjatë një viti kalendarik, asgjësohet nga ana e komisionit të veçantë të QKK në përbërjen e të cilit përfshihet edhe një përfaqësues i Ministrisë së Kulturës. Asgjësimi me të dhënat përkatëse për shenjën e serisë dhe për sasinë numerike të etiketave të tepruara bëhet deri me 15 janar të vitit vijues për vitin paraprak kalendarik dhe procesverbali i asgjësimit nënshkruhet nga të gjithë anëtarët e komisionit dhe ruhet si dokument financiar.

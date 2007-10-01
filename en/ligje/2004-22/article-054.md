@@ -1,0 +1,4 @@
+# Article 54
+54.1.A domestic producer of a work of film within a year from the day of its prime show of public projection, it is his/her duty to send an unused work of film.
+54.2.A producer of a work of film subventioned by the CCK, it is his/her duty, in addition to a copy from the paragraph above also the first copy of the work of film together with a copy of the respective documentation: screen play, list of dialogues, book of shooting, sketches of decor of costumes, music notes and partitures of film, pamphlets, posters of pictures or any other material of publicity, to deliver to the cinema archive for a permanent retention.
+54.3.An obligation under paragraph 1 and 2 of this Article lies also with a domestic producer who realizes a work of film in co-operation with a producer whose headquarters or residence is not in Kosova.

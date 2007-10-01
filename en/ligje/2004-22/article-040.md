@@ -1,0 +1,2 @@
+# Article 40
+Submitters of film projects shall be notified in writing on the decisions of the Steering Committee and it contains a short justification on the approval of the winning film project, or rejection of such an approval respectively. Notification on the approval of the winning project, with identification data about its submitter and composition of the jury shall be published in the daily press and on the official web page of the CCK on Internet.
