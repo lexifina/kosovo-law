@@ -1,0 +1,2 @@
+# Article 8
+Share capital 8-1 A Cooperative shall not be established without capital and shall not exist without capital. 8-2 The capital of a Cooperative shall consist of the Contributions of cooperative Members and may be variable. 8-3 Capital decrease is prohibited if the decrease would have the effect to cause the capital of the Cooperative to be less than half of the highest capital reached since the creation of the Cooperative.
