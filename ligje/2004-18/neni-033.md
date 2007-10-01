@@ -1,0 +1,3 @@
+# Neni 33
+Në rast të transaksioneve brenda fushës së veprimit të nenit 32, tregtarëve do t’u kërkohet t’iu japin konsumatorëve njoftim me shkrim për të drejtën e tyre të anulimit brenda periudhës së parashikuar në nenin 34, së bashku me emrin dhe adresën e personit, kundër të cilit kjo e drejtë mund të ushtrohet. Ky njoftim përmban datën dhe përcakton detajet që mundësojnë identifikimin e kontratës dhe i jepet konsumatorit:
+a. në rastin e nenit 32.1 në kohën përfundimit të kontratës; b. në rastin e nenit 32.3 jo më vonë sesa koha e përfundimit të kontratës; c. në rastin e nenit 32.1 dhe 32.4 kur bëhet oferta nga konsumatori.

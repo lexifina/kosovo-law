@@ -1,0 +1,2 @@
+# Article 40
+Business hours, determination of daily and weekly business hours of stores and other premises, business hours for holidays and weekends during which the vendor is obliged to work, business hours for markets, fairs and exhibitions of local character and other forms of conducting trade activity shall be determined by the local administration, in compliance with the provisions issued by the Minister of Trade and Industry.

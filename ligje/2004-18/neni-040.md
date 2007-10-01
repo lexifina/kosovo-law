@@ -1,0 +1,2 @@
+# Neni 40
+Orarin e punës, përcaktimin e orarit ditor dhe javor të shitoreve dhe objekteve të tjera, orarin e punës gjatë ditëve të festave dhe fundjavës, për të cilat shitësi detyrohet të punojë, orarin e punës për tregje, panaire dhe ekspozitat e karakterit lokal dhe formave të tjera të ushtrimit të veprimtarisë tregtare e përcakton administrata locale në pajtim me dispozitat që i nxjerr Ministri i Ministrisë së Tregtisë dhe Industrisë.

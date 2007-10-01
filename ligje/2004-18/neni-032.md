@@ -1,0 +1,6 @@
+# Neni 32
+32.1. Ky ligj aplikohet për kontratat sipas të cilave një tregtar furnizon mallra ose shërbime tek konsumatori dhe të cilat realizohen gjatë një eksursioni të organizuar nga tregtari larg lokalit të tij të biznesit, ose gjatë një vizite të tregtarit:
+a. në shtëpinë e konsumatorit ose të ndonjë konsumatori tjetër; b. në vendin e punës së konsumatorit; kur vizita nuk ndodh për shkak të kërkesës së shprehur të konsumatorit. 9
+32.2. Ky ligj aplikohet edhe për kontratat e furnizimit të mallrave dhe shërbimeve përveç atyre për të cilat konsumatori ka kërkuar vizitën e tregtarit, me kusht që kur ai ka kërkuar vizitën, konsumatori nuk e dinte, ose nuk mund ta dinte në kushte të arsyeshme që furnizimi i këtyre mallrave e shërbimeve të tjera ishte pjesë e aktivitetit tregtar ose profesional të tregtarit.
+32.3. Ky ligj aplikohet për kontratat në lidhje me të cilat është bërë një ofertë nga konsumatori sipas kushteve të përshkruara në paragrafët 1 ose 2 megjithëse konsumatori nuk ishte i detyruar nga ajo ofertë përpara pranimit të saj nga tregtari.
+32.4. Ky ligj aplikohet për ofertat kontraktuale të bëra nga konsumatori sipas kushteve të ngjashme me ato të përshkruara në paragrafët 1 ose 2 ku konsumatori është i detyruar nga oferta e tij.

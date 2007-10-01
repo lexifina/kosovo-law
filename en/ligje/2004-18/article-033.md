@@ -1,0 +1,3 @@
+# Article 33
+In the case of transactions within the scope of Article 32, traders shall be required to give consumers written notice of their right of cancellation within the period laid down in Article 34, together with the name and address of a person against whom that right may be exercised. Such notice shall be dated and shall state particulars enabling the contract to be identified. It shall be given to the consumer:
+a. in the case of Article 32.1, at the time of conclusion of the contract; b. in the case of Article 32.3, not later than the time of conclusion of the contract; c. in the case of Article 32.1 and 32.4, when the offer is made by the consumer
