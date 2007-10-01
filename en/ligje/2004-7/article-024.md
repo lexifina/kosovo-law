@@ -1,0 +1,3 @@
+# Article 24
+The Charter of KCC regulates more specifically the issues related to KCC in the national, branch and regional level; rights, obligations and responsibilities; bodies of KCC and their competencies, the compound and the manner of decision-making of bodies of KCC, founding and activity of the branch associations, regional subsidiaries and the other forms of activity and other bodies, cooperation with other chambers, organizations and associations, the Permanent Arbitrage and the Honour Court, general acts, public working character, general secretary, professional service, financial activity and the election procedure.
+IV. THE HONOUR COURT AND THE PERMANENT ARBITRTION

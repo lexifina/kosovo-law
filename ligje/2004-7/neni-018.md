@@ -1,0 +1,3 @@
+# Neni 18
+Këshilli drejtues i OEK-së ka këto kompetenca:
+a). Shqyrton dhe miraton projektin e materialeve dhe të vendimeve për Kuvendin e OEK-së; b). Merr vendime për realizimin e programeve të punës dhe zbatimin e vendimeve të tjera të Kuvendit; c). Emëron përfaqësuesit e Odës në institucionet, në të cilat OEK-ja delegon 5 përfaqësuesit e saj sipas dispozitave të veçanta; d). Emëron këshilla të përhershme dhe këshilla të përkohshme; e). Miraton aktet e përgjithshme të OEK-së, të cilat nuk janë në kompetenca të Kuvendit; f). Vendos për hapjen e përfaqësive ekonomike në botë; g). Merr vendime për çështje të tjera në pajtim me Statutin e OEK-së.

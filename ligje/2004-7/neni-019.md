@@ -1,0 +1,3 @@
+# Neni 19
+Kryetari i OEK-së ka këto kompetenca:
+a). Drejton dhe përfaqëson OEK-në, b). Kryeson mbledhjet e Këshillit Drejtues të OEK-së dhe i propozon atij vendime nga kompetenca e Këshillit Drejtues; c). I propozon Kuvendit zgjedhjen e Këshillit Drejtues dhe propozon zgjedhjen e sekretarit të përgjithshëm; d). Merr vendime për çështje të menaxhimit dhe çështje rreth financave dhe organizimit të OEK-së, në pajtim më aktet e OEK-së dhe me vendimet e Kuvendit e të Këshillit Drejtues të OEK-së, e). Ushtron punë të tjera në përputhje me Statutin e OEK-së, f). Në kuadër të autorizimit që ka, Kryetari është përgjegjës për ligjshmërinë e punës së OEK- së.

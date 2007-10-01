@@ -1,0 +1,3 @@
+# Neni 24
+Statuti i OEK-së rregullon më saktësisht çështjet lidhur me detyrat e OEK-së në nivel qendror, degësor dhe rajonal, të drejtat, detyrimet dhe përgjegjësitë, organet e OEK-së dhe kompetencat e tyre, përbërjen dhe mënyrën e marrjes së vendimeve të organeve të OEK-së, themelimin dhe punën e shoqatave të degëve, njësive rajonale dhe formave të tjera të punës dhe organet e tjera, bashkëpunimin me odat, organizatat dhe asociacionet e tjera, Arbitrazhin e përhershëm dhe Këshillin e Nderit, aktet e përgjithshme, karakterin publik të punës, sekretarin e përgjithshëm, shërbimin profesional, veprimtarinë financiare dhe procedurën e zgjedhjeve.
+IV. KËSHILLI I NDERIT DHE ARBITRAZHI I PËRHERSHËM
