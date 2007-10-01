@@ -1,0 +1,5 @@
+# Articles 22 Implementation of Plans
+22.1 Cities and other urban and rural settlements may be constructed only on land that has been designated for construction as foreseen in Articles 14, 15 and 17.
+22.2 Within the meaning of the present law, the change of individual construction plot boundaries, the change of the dimensions of individual apartment buildings and their position, slight shifts of the right-of-way in a traffic street and wires of infrastructure, as well as other similar harmonization of the plan by means of which we manage to rationally apply it, shall not be considered changes and supplements to the detailed urban plan. These changes are applied in the determination procedure on the conditions for spatial regulation.
+22.3 Until the approval of the Municipal Development Plan, no housing buildings may be constructed on land contrary to the designation of the fertile agricultural land .
+22.4 The Municipal Assembly shall by decision designate qualitative agricultural land where no buildings can be constructed in compliance with paragraph 22.3 of the Law on Land Use.

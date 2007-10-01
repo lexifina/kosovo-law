@@ -1,0 +1,9 @@
+## KREU II
+## SUBJEKTET E PLANIFIKIMIT HAPËSINOR
+# Neni 5
+Zbatimi i planeve hapësinore
+5.1. Zbatimin e planeve hapësinore e siguron Kuvendi i Kosovës, Qeveria e Kosovës, si dhe kuvendet komunale me:
+(a) miratimin dhe zbatimin e dokumenteve të planifikimit hapësinor dhe zhvillimor; (b) sigurimin e përhershëm të kushteve materiale e të kushteve të tjera për përgatitjen dhe mbikëqyrjen e zbatimit të planeve; (c) marrjen e masave për përparimin e kushteve të hapësirës; dhe (d) miratimin e dokumenteve të tjera të parashikuara me këtë ligj.
+5.2. Ministria në përputhje me dispozitat e këtij ligji do të jetë përgjegjëse për:
+(a) Koordinimin e planifikimit hapësinor të Kosovës dhe propozimin e politikave zhvillimore hapësinore; (b) hartimin e dokumenteve relevante planifikuese dhe raporteve; (c) Rishikimin dhe monitorimin e dokumenteve planifikuese në gjithë territorin e Kosovës; (d) Rishikimin, monitorimin dhe harmonizimin e proceseve planifikuese në nivel komunal; (e) sigurimin e përputhshmërisë e procedurave planifikuese të parashikuara në pjesën e III-të, Kapitullin II të këtij ligji; (f) Ofrimin e këshillimeve dhe asistencës komunave në hartimin e planeve komunale hapësinore dhe të planeve rregulluese komunale; (g) Organizimin, menaxhimin dhe mirëmbajtjen e bazës së të dhënave dhe shënimeve të planifikimit hapësinor për Kosovën; (h) Inkurajimin dhe sigurimin e participimit të publikut në proceset vendim marrëse planifikuese; dhe (i) Koordinimin me organizatat lokale dhe ndërkombëtare me qëllim të harmonizimit të planifikimit hapësinor në Kosovë me normat dhe standardet evropiane dhe ndërkombëtare të planifikimit.
+5.3. Ministria në kuadër të autorizimeve të veta mund të themeloj Njësinë Organizative për 4 planifikim hapësinor përgjegjëse për përgatitjen e planit hapësinor të Kosovës në përputhje me strategjinë zhvillimore planifikuese të Qeverisë. Ministria me akt të veçantë. do ta obligoj Njësinë Organizative edhe me autorizime të tjera.

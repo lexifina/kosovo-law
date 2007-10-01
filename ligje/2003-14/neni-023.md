@@ -1,0 +1,10 @@
+# Neni 23
+Kushtet e lokacionit dhe parcela ndërtimore
+23.1 Organi kompetent komunal i emëruar nga Kuvendi Komunal duhet t’i përcaktojë kushtet e lokacionit.
+23.2 Kushtet e lokacionit, varësisht nga lloji i ndërhyrjes në hapësirë kanë të bëjnë me:
+(a) formën dhe madhësinë e ngastrës ndërtimore dhe të ndërtesave; (b) shfrytëzimin e tokës ose shfrytëzimet e autorizuara të parcelave të tokës; (c) rregullat për vendosjen e një ose më tepër ndërtesave në ngastrën ndërtimore; (d) mënyrat e ndërlidhjes së ndërtesave me infrastrukturën e nevojshme; (e) masat për mbrojtjen e mjedisit, natyrës dhe vlerave kulturore e historike; (f) kushtet tjera të përcaktuara me planet urbane dhe hapësinore për ndërhyrje në hapësirë (obligimi i largimit të ndërtesave ekzistuese dhe riaftësimi i ngastrave, rendin e punimeve, detyrimi i studimit të trollit dhe punë të ngjashme, në pajtim me Ligjin mbi eksproprijimin.
+23.3 Parcelat ndërtimore do të përcaktohen në pajtim me planin e parcelimit i cili është pjesë përbërëse e planit rregullues urban dhe ndërtimi i objekteve e zhvillimi i punëve tjera në to do të bëhet në përputhje me dispozitat e përcaktuara në nenet 14, 15 dhe 17.
+23.4. Parcelat duhet të lidhen me rrugën publike në sipërfaqen dhe formën që mundëson ndërtimin, rregullimin dhe shfrytëzimin e hapësirës, në pajtim me planin përkatës urbanistik dhe kushtet për rregullimin e hapësirës.
+23.5. Nëse ndërtimi i propozuar i ndërtesës ose përmirësimi tjetër në parcelën e tokës është në pajtim me kërkesat e Planit Rregullativ Urban dhe i përmbahet kushteve të përshtatshme te lokacionit, personi që propozon ndërtimin ka të drejtë të merr lejen urbanistike sipas nenit 26 pa kërkuar marrjen e pëlqimit për lokacion ose miratim tjetër nga autoritetet komunale.
+23.6. Nëse ndërtimi i propozuar i ndërtesës ose përmirësimi tjetër në parcelën e tokës nuk është në pajtim me kërkesat e Planit Rregullativ Urban ose nuk ju përmbahet kushteve te përshtatshme të lokacionit, personi që propozon ndërtimin duhet te merr lejen urbanistike sipas nenit 26. Procedurat për kërkimin e marrjes së pëlqimit për lokacion do të përcaktohen nga Ministria me akt të veçantë.
+11
