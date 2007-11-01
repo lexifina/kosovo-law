@@ -1,0 +1,10 @@
+# Section 20
+20.1. The KVFS shall not authorize the release, for free circulation in Kosovo, of live animals or products of animal origin, including biological products, semen, cells and embryos, by-products and plant products subject to veterinary requirements, imported into Kosovo, unless it is satisfied that the requirements laid down in this section have been complied with.
+20.2. The Minister may prescribe Administrative Instruction made under this Law on the action to be taken following the inspection of live animals and products of animal origin.
+20.3. The CEO may order that immediate emergency measures be taken, and shall establish direct contact with the persons, organizations or administrations concerned in Kosovo or abroad where :
+a. in the exporting country, any of the diseases listed in the First Schedule, a zoonosis or other disease, or any other circumstance capable of presenting a serious threat to animal or public health, manifests itself or spreads;
+b. any other serious animal health or public health reason so warrants, in the light of findings of the veterinary experts of the exporting country or on the basis of the inspections carried out at a border inspection post of such exporting country; and
+c. any one of the inspections provided for in this section indicates that any consignment of live animals or products of animal origin, including biological products, semen, cells and embryos, by-products and plant products subject to veterinary requirements , is likely to constitute a danger to animal or human health.
+20.4. Costs relating to the measures prescribed in section 20.3 shall be borne by the consignor or his representative or by the person responsible for the animals or products of animal origin. 12
+20.5. The Minister may prescribe Administrative Instruction for the approval of border inspection posts situate in Kosovo, and for the suspension, for reasons related to public or animal health, of the said border inspection posts.
+Relations with other countries in the veterinary field
