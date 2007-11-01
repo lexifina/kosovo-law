@@ -1,0 +1,13 @@
+# Neni 5
+4 Me qëllim të mbrojtjes afatgjatë dhe shfrytëzimit të qëndrueshëm të resurseve ujore, administrimi i ujërave bazohet në parimet e:
+a. optimizimit: (koncepti ekologjik-social-ekonomik) që do të thotë, ujërat ndahen nga aspektet natyrore dhe mbrohen si mjedis për florën dhe faunën;
+b. kujdesit: që do të thotë se aty ku kanoset rreziku nga veprimi i dëmshëm i ujërave, por për këtë nuk ka dëshmi për rrezik ato rreziqe, duhet të vlerësohen dhe të zbatohen masat, në mënyrë që të zbuten rreziqet;
+c. parandalimit: që do të thotë se masat dhe aktivitetet për mbrojtjen e ujërave, brigjeve dhe mjediseve ujore, duhet ndërmerren në faza të hershme për parandalimin e rrezikut ose të çfarëdo pasoje negative për ujërat, brigjet dhe gjallesat ujore;
+d. minimizimit të përdorimit të resurseve: që do të thotë se, me rastin e aktiviteteve të cilat mund të kenë ndikim në ujëra, çdokush ka detyrim të sillet me kujdes dhe racionalisht t’i shfrytëzoj ujërat, të pengojë ndotjen e ujërave dhe të shmangë çfarëdo efekti negativ dhe rrezik për shëndetin publik dhe mjedisin;
+e. Integrimit, që do të thotë se gjatë administrimit me ujëra duhet të parashikohet mundësia e lidhjes mes ujërave sipërfaqësor dhe nëntokësor, raportet mes tyre dhe me ekosistemin e varur nga ujërat dhe mediume të tjera në mjedis, si dhe politikat e sektorëve tjerë siç janë bujqësia dhe industria, të cilat duhet të marrin në konsideratë, çështjet e administrimit të ujërave;
+f. ndotësi paguan: që do të thotë se çdo person që shkakton apo lejon shkarkime të ndotjës do të përgjigjet financiarisht dhe penalisht për të gjitha shpenzimet që dalin, përfshirë edhe shpenzimet për parandalimin e ndotjes, masat kontrolluese të nevojshme, shpenzimet administrative, shpenzimet riparuese apo kompensuese, në pajtim me këtë ligj;
+g. shfrytëzuesi paguan: që do të thotë se shfrytëzuesi i ujit, do t’i paguajë të gjitha shpenzimet, të cilat dalin nga ofrimi i shërbimeve përfshi edhe shpenzimet e resurseve ujore për shfrytëzim, si dhe shpenzimet për mjedisin;
+h. bashkëpunimit dhe qasjes në informata: që do të thotë se opinioni duhet të ketë qasje në të gjitha informatat që kanë të bëjnë me resurset ujore dhe vendimet për administrimin ujor dhe duhet t’i jepet mundësia për pjesëmarrje në këto vendime;
+i. pjesëmarrjes së palëve të interesuara: që do të thotë se organet kompetente janë të detyruara të marrin parasysh dhe të sigurojnë interesin e të gjitha palëve të interesuara me rastin e marrjes së vendimeve;
+j. barazisë së plotë me rastin e shfrytëzimit të ujërave: që do të thotë se të drejtën për shfrytëzimin e ujërave, sipas këtij ligji e kanë të gjithë personat proporcionalisht dhe në mënyrë të barabartë.
+Administrimi i ujërave në pellgjet lumore
