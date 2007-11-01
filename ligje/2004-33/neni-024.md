@@ -1,0 +1,3 @@
+# Neni 24
+24.1. Personi i autorizuar i Ministrisë për të kontrolluar, inspektuar dhe zbatuar vendimet dhe rregullat që kanë të bëjnë me mbarështimin, ushqimin, standardet e cilësisë së produkteve blegtorale të prodhuara në fermë dhe për marrjen e mostrave të ushqimeve të kafshëve, aditivëve dhe të prodhimeve blegtorale për analiza zyrtare në çdo kohë dhe pa paralajmërim ka të drejtë qasjeje në pronë private dhe publike.
+24.2. Prodhuesit blegtorale dhe industritë përpunuese të prodhimeve blegtorale, dhe prodhuesit, përpunuestit, transportuesit dhe tregtarët e ushqimit të kafshëve dhe aditivëve, pasi të jetë kërkuar nga ata do të ofrojnë informata të domosdoshme për kryerjen e kontrollit e në rast nevoje edhe asistencën për realizimin e kontrollit.
