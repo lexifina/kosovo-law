@@ -1,0 +1,4 @@
+# Neni 107
+107.1 Në lokalet dhe depot e ndara mund të deponohen dhe të shiten artikujt ushqimorë, pijet dhe produktet në copa të konsumit të gjerë, lëngjet ndezëse dhe gazi, vajrat për lyerje, vajrat, antifrizët, artikujt e auto kozmetikës dhe ngjashëm.
+107.2 Lëngjet ndezëse mund të jenë në shitore vetëm nëse:
+a) janë të ruajtura në ambalazh origjinal të padëmtuara në hapësira të parapara, me sirtar ose komodine, b) janë të sistemuara në komodinë të përgatitura me cep (kënde) të ngritura të komedineve, c) me vendosjen e tyre nuk janë vështirësuar ose pamundësuar kalimet dhe qasjet deri te pajisjet elektrike dhe pajisjet zjarrfikëse, d)janë të izoluara se paku 0.2[m] prej instalimeve elektrike dhe tjera, përkatësisht së paku 0,75[m] prej llambave dhe aparateve tjera elektrike dhe ngrohëse, e) janë të izoluara ashtu që mund të fiken në rast zjarri.

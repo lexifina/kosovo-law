@@ -1,0 +1,3 @@
+# Neni 144
+Të gjithë rezervarët duhet të mirëmbahen-kontrollohen dhe pastrohen në intervale të rregullta kohe siç jepet më poshtë duke shënuar në dokumentacionin e pajisjes datën e kontrollit-pastrimit të fundit për rezervarin:
+a) rezervarët për depozitim të mazutit (solarit) dhe vajrave duhet të kontrollohen- pastrohen çdo 6 muaj, b) rezervarët për depozitim të karburantit dizel duhet të kontrollohen-pastrohen çdo 1 vjet, c) rezervarët për depozitim të benzinës duhet të kontrollohen-pastrohen çdo 1 vjet, d) rezervarët për depozitim të gazit të lëngëzuar të naftës duhet të kontrollohen-pastrohen çdo 1 vjet.

@@ -1,0 +1,2 @@
+# Neni 45
+Në mes të rezervarit mbitokësorë dhe shtëpizës, duhet të jetë i instaluar senzori për zbulimin e koncentrimeve të rrezikshme të avullit të karburanteve, i cili aktivizohet, me sinjalin zanor dhe të dritës në pultin komandues të servisit të karburantit, (nga i cili bëhet mbikëqyrja, përkatësisht pulti mbikëqyrës i servisit pa personel) kur arritja e kufirit të poshtëm të eksplozivitetit është 25%.

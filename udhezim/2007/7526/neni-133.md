@@ -1,0 +1,3 @@
+# Neni 133
+133.1 Konstruksioni bartës i objektit për të punësuarit duhet të jetë prej materialit me zjarrdurueshmëri minimale REI 15. Muret dhe pullazi i kthinës së kaldajave me kapacitetet mbi 50kW duhet të jenë prej materialeve me zjarrdurueshmëri minimale REI.30.
+133.2 Muret dhe konstruksioni i pullazit i objektit për të punësuarit duhet të ndërtohen prej materialeve ndërtimore me zjarrdurueshmëri të grupit A1, kurse dyshemeja duhet të ndërtohet prej materialeve ndërtimore zjarrdurueshmëri A1(FL), këto kushte vlejnë nëse në objektet për të punësuarit, hapësirat tjera për veprimtaritë përcjellëse dhe të gjitha hapësirat e lartcekura duhet zbatuar kërkesat e dispozitave për mbrojtje kundër zjarrit.

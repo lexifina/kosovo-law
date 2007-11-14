@@ -1,0 +1,2 @@
+# Neni 36
+Të gjithë rezervarët duhet të kenë të instaluar valvolat siguruese ndaj stërmbushjes, valvolat siguruese lejojnë rrjedhjen e lirë të karburantit deri në nivelet, që i përgjigjen 95[vol %] të vëllimit të rezervarit dhe plotësisht mbyllin rrjedhën e karburantit kur arrihet niveli i cili i përgjigjet 97[vol %] të vëllimit të rezervarit. Duhet të ekzistoj mundësia që karburanti nga tubi i mbushës të rrjedh në rezervar, përkundër asaj që valvolat siguruese janë plotësisht të mbyllur para stërmbushjes.

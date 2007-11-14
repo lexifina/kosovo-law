@@ -1,0 +1,2 @@
+# Neni 73
+Drejtimi i aparatit mbushës në servisin e karburantit pa personel duhet të kryhet në zbatim të kategorisë më të lartë, sipas standardeve në fuqi për pjesët e sistemeve drejtuese lidhur me sigurinë, çka do të thotë se, në rastin e dështimit të kufizimeve të sigurisë nga nenet 71 dhe 72 të këtij UA, aparati mbushës automatikisht duhet të shkyçet. Përputhja me kërkesat e standardit për pjesët e sistemeve drejtuese lidhur me sigurimin, e vërteton furnizuesi me deklaratën për konformitetit.

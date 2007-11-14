@@ -1,0 +1,7 @@
+# Neni 86
+86.1 Në servisin e karburantit mund të vendosen rezervuare mbitokësore të gazit të lëngëzuar të naftës me vëllim të përbashkët deri 15[m3].
+86.2 Në mes të rezervarit mbitokësor të gazit të lëngëzuar të naftës të madhësisë mbi 5[m3] edhe:
+a) objektit të servisit të karburantit, ku gjenden njerëzit, b) të sipërfaqeve qarkulluese të servisit të karburantit, ku gjendën njerëzit, c) të sipërfaqeve qarkulluese të servisit të karburantit dhe d) të kufirit të tokës fqinje.
+86.3 Distanca duhet të jetë së paku 15[m], nëse rezervari nuk është i mbështjellur me mur mbrojtës. Për rezervarët e gazit të lëngëzuar të naftës me vëllim deri 5[m3] kjo distancë është 3.0[m].
+86.4 Rezervari i gazit të naftës së lëngëzuar me vëllim mbi 5[m3], i cili nuk është i mbështjellur me mur mbrojtës, duhet të rrethohet me rrethojë me tela së paku 2[m] të lartë, të vendosur në distancë prej rezervarit së paku 5[m], përkatësisht në distancë 1.0[m] prej rezervarit me vëllim deri 5.0[m3]. Toka brenda rrethojës nuk duhet të jetë me barë të gjatë, të pakositur. Në pjesën e rrethuar nuk duhet të gjenden materie tjera ndezëse ose të rrezikshme.
+86.5 Nëse rezervari mbitokësor është i mbështjellur me mur të rezistueshëm minimalisht ndaj zjarrit REI 120, i cili është së paku 0.5[m] më i lartë se rezervari. Distancat nga alineja e parë të këtij neni janë 0.5[m], përkatësisht 1.5[m]. Muri mbrojtës duhet të jetë i larguar prej rezervarit së paku 1.0[m] dhe duhet të përballojë shtypjen e reduktuar të eksplodimit.

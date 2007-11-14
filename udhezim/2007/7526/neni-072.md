@@ -1,0 +1,2 @@
+# Neni 72
+Duke respektuar kufizimet të nenit të mëparshëm, aparatet mbushëse në serviset e karburantit pa personel, duhet të mundësojnë mbushjen vetëm deri në 60[l] karburante të grupit I, II ose III, përkatësisht deri 450[l] të karburanteve dizel. Mbas skadimit kohor prej 6 min ose të mbushjes së vëllimit prej 60[l] përkatësisht 450[l] karburant, mbushja me karburant duhet automatikisht të ndalet.

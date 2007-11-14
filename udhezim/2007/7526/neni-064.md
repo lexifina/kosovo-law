@@ -1,0 +1,3 @@
+# Neni 64
+64.1 Servisi i karburantit mund të funksionojë vetëm nën mbikëqyrjen e përhershme. Mbikëqyrje të përhershme llogaritet nëse gjatë funksionimit të servisit të karburantit është prezent personeli, përkatësisht nëse aparatet për mbushje në servisin e karburantit janë të mbikëqyrura nga largësia me videoaparate me mbikëqyrje të përhershme.
+64.2 Vendi i mbikëqyrjes duhet të organizohet në përputhje me rregulloren për kushtet për zbatimin e sigurimit nga zjarri. Personi juridik duhet të ketë të përgatitura procedurat në përputhje me rregulloren për kushtet për zbatimin e sigurimit nga zjarri.

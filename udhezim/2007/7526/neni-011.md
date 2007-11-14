@@ -1,0 +1,2 @@
+# Neni 11
+Distanca prej hyrjeve e deri në objektet të servisit të karburantit duhet të jetë në së paku 30 [m], për servise në të cilët gjenden më shumë se 50 persona, distancë kjo e matur prej burimit më të rrezikshëm, e që përfshin; aparatet mbushëse, stacionin qendror të mbushjes, rezervuarët mbitokësore, aparatet thithëse–matëse për shpërndarjen e karburantit dhe të depozitave të bombolave prej çeliku të gazit të lëngëzuar të naftës.

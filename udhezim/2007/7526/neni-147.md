@@ -1,0 +1,2 @@
+# Neni 147
+Punët lidhur me pastrimin dhe mirëmbajtjen e aparateve dhe hapësirave të servisit të karburantit, që janë në zonat e rrezikshmërisë duhet t’i kryejnë vetëm punëtorët të cilët janë më të vjetër se 18 vjet dhe të aftësuar në përputhje me udhëzimin e cila rregullon testimin e njohurive dhe të aftësive të punëtorëve që drejtojnë aparatet energjetike, si për punë dhe detyra të mbushësve të gazrave teknike.

@@ -1,0 +1,4 @@
+# Neni 169
+Në servisin e karburantit, në vend të dukshëm të rajoneve të rrezikuara, në përputhje me dispozita që rregullojnë shenjat, duhet të jenë të vendosura shenjat sinjalizuese, shenjat obliguese dhe shenjat ose mbishkrimet për ndalesë, të cilat tërheqin vërejtjen në:
+a) ndalimin e përdorimit të flakës së hapur, b) ndalimin e mbushjes me karburante me motor të ndezur ose agregat shtesë ngrohës të ndezur, c) ndalimin e mbushjes me karburante të enëve bartëse të pa certifikuara, d) ndalimin e mbushjes së karburanteve të rezervarëve të magazinave pa përdorimin e sistemit të mbyllur të mbushjes, e) ndalimin e qasjes personave të paautorizuar, f) materiet eksploduese, g) ndezjet, h) përdorimi i obligueshëm i mjeteve pa shkëndija, i) përdorimi i telefonave mobil vetëm nën kushte të posaçme jashtë zonave të rrezikshmërisë.
+XVIII. DISPOZITAT KALIMTARE DHE PËRFUNDIMTARE

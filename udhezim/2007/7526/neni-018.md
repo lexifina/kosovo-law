@@ -1,0 +1,4 @@
+# Neni 18
+18.1 Bombolat prej çeliku me gaz të lëngëzuar të naftës deri 10[kg] duhet të depozitohen në objektet e veçanta të servisit të karburantit. Magazinimi i fuçive prej çeliku me kapacitet deri 3000[kg] të gazit të naftës të lëngëzuar e që është përpunuar si objekt montazh me mure prej rrjetit metalik ose prej pllakës metalike, duhet të jetë i larguar prej kufirit të parcelës së paku 0,5[m].
+18.2 Objekti i ndërtuar i depozitimit të bombolave prej çeliku të gazit të lëngëzuar të naftës, me kapacitet prej 3000[kg], prej mureve të cilit janë rezistues ndaj zjarrit REI 120 e i cili ka hyrjen e kthyer prej kufirit të parcelës dhe ka çatinë e lehtë, duhet të jetë i larguar prej kufirit të parcelës së paku 1,5[m], zona e rrezikshmërisë nuk duhet të arrijë përtej kufirit të parcelës të servisit të karburantit.
+III. REZERVOARET DHE APARATET MBUSHËS TË KARBURANTEVE TË LËNGTA

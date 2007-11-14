@@ -1,0 +1,2 @@
+# Neni 61
+Gjatë ndarjes së ujërave teknologjike të zeza nga sipërfaqja siç përshkruhet në neni 10 të këtij UA, duhet siguruar që ujërat e zeza, para lëshimit jashtë zonave të servisit të karburantit, të ndahen sipas kanalizimeve të zbatuar dhe të sanksionuar teknologjikisht dhe përmes aparateve pastruese për largimin e vajrave minerale dhe të benzinës (në vazhdim: grumbulluesit e vajrave), efekti pastrues i të cilave duhet të jetë në përputhje me kriteret ligjore për menaxhimin e ujërave të zeza.

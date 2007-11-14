@@ -1,0 +1,2 @@
+# Neni 62
+Grumbulluesi i ujërave, përmes të cilit ndahen ujërat teknologjike të zeza nga servisi i karburantit duhet të eksploatohet dhe të funksionojnë në përputhje me përcaktimet ligjore dhe kërkesat për emisionet gjatë ndarjes së ujërave teknologjike të zeza prej serviseve të karburantit. Madhësia dhe kapaciteti shkarkues i grumbulluesit të vajrave përshkruhet dhe përcaktohet në dokumentacionin projektues të servisit të karburantit.

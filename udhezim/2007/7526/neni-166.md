@@ -1,0 +1,3 @@
+# Neni 166
+166.1 Në servisin e karburantit pronari, përkatësisht shfrytëzuesi i servisit të karburantit duhet të sigurojë mbikëqyrje të përditshme teknike të korrektësisë së aparateve të instaluara. Për mbikëqyrje teknike pronari, përkatësisht qiraxhiu duhet të emërojë personin përgjegjës. Personi përgjegjës duhet të jetë i aftësuar në përputhje me rregulloren e cila rregullon testimin e njohurive dhe të aftësive të punëtorëve, të cilët drejtojnë aparatet energjetike, si për punë dhe detyra të drejtimit të aparateve mbushëse
+166.2 Kontrollimi i korrektësisë së aparateve të instaluara në servisin e karburantit mund të zbatohet çdo të tretën ditë, nëse është zbatuar mbikëqyrja e aparateve nga largësia.
