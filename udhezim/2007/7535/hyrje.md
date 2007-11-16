@@ -1,0 +1,3 @@
+UDHËZIM ADMINISTRATIV Zbatimi i planit dhe programit të punës edukative-arsimore me nxënës të institucioneve të arsimit special
+NUMËR : 49 /2007 DATË: 16.11.2007
+Në bazë të pikës (b) të nenit 6.1, pikës (c) të nenit 15.1, nenit 35 të Ligjit mbi Arsimin Fillor dhe të Mesëm si dhe në bazë të pikës (d) të nenit 1.3 të Rregullores së UNMIK-ut nr. 2001/19 mbi Degën e Ekzekutivit të Institucioneve të Përkohshme të Vetëqeverisjes në Kosovë (IPVQ), si dhe paragrafit 7 të nenit 25 të Rregullores së Qeverisë nr. 01/2007 për punën e Qeverisë, Ministria e Arsimit, e Shkencës dhe Teknologjisë nxjerr këtë Udhëzim administrativ:
