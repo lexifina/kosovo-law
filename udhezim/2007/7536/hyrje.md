@@ -1,0 +1,3 @@
+UDHËZIM ADMINISTRATIV Zbatimi i planit dhe programit mësimor të klasës së shtatë për shkollën e mesme të ulët të muzikës
+NUMËR : 51 /2007 DATË: 19.11.2007
+Në bazë të pikës (c) të nenit 6.1, paragrafit 2 të nenit 12 të Ligjit mbi Arsimin Fillor dhe të Mesëm si dhe në bazë të pikës (d) të nenit 1.3 të Rregullores së UNMIK-ut nr. 2001/19 mbi Degën e Ekzekutivit të Institucioneve të Përkohshme të Vetëqeverisjes në Kosovë (IPVQ), si dhe paragrafit 7 të nenit 25 të Rregullores së Qeverisë nr. 01/2007 për punën e Qeverisë, Ministria e Arsimit, Shkencës dhe Teknologjisë nxjerr këtë Udhëzim administrativ:
