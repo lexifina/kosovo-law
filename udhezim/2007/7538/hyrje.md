@@ -1,0 +1,3 @@
+UDHËZIM ADMINISTRATIV Zbatimi i udhëzuesit si doracak për identifikimin, vlerësimin dhe arsimimin e nxënësve që vijojnë arsimin special
+NUMËR : 52 /2007 DATË: 20.11.2007
+Në bazë të nenit 6.1, pikës (c) të nenit 15.1, si dhe nenit 35 të Ligjit mbi Arsimin Fillor dhe të Mesëm si dhe në bazë të pikës (d) të nenit 1.3 të Rregullores së UNMIK-ut nr. 2001/19 mbi Degën e Ekzekutivit të Institucioneve të Përkohshme të Vetëqeverisjes në Kosovë (IPVQ), si dhe paragrafit 7 të nenit 25 të Rregullores së Qeverisë nr. 01/2007 për punën e Qeverisë, Ministria e Arsimit, Shkencës dhe Teknologjisë nxjerr këtë Udhëzim administrativ:
