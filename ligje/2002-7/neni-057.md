@@ -1,0 +1,5 @@
+# Neni 57
+Qasja e hapur në rrjeta dhe shërbime
+1. Ofruesit e shërbimeve publike të telekomunikacionit që kanë fuqi të konsiderueshme në treg, duhet të ofrojnë shërbime dhe qasje në rrjetat e tyre në bazë të kushteve të publikuara, të bazuara në çmim, transparente dhe objektive të cilat mbulojnë të gjitha aktivitetet që kanë të bëjnë me sigurimin e qasjes, duke përfshirë, mirëpo duke mos u kufizuar vetëm në, informatat e nevojshme për sigurimin e qasjes, kushtet e ndërlidhjes dhe orarin sigurimit të një qasjeje të tillë.
+2. Kushtet e specifikuara në paragrafin (1) të këtij neni duhet të jenë të ngjashme për shërbimet e ngjajshme në rrethana të ngjashme, dhe duhet të jenë të njëjta me kushtet që ofruesi i shërbimeve i ofron vetës apo ndonjë filiale të saj apo kompanive ndihmëse për shërbime të njëjta.
+3. Në rast se ofruesi i shërbimeve refuzon apo i ndalon konsumatorit qasje në rrjet apo shërbime, ofruesi i shërbimeve duhet të informojë ART-in mbi arsyetimet e tija teknike për atë refuzim jo më vonë se 10 ditë pasi që kjo të ketë ndodhur.

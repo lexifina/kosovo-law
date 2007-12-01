@@ -1,0 +1,8 @@
+## Chapter 3
+## Authority and Principles of TRA Operations
+# Section 8
+Operating Policies and Standards of Conduct
+1. Not later than thirty 30 days from the entry into force of this Law, the TRA shall adopt its own internal rules of operations, including, but not limited to, hiring and employment policies that are non-discriminatory and which are based on written job descriptions. All administrative rules adopted by the TRA shall be made available to the public for inspection.
+2. Not later than thirty 30 days from the entry into force of this Law, the TRA shall adopt standards of conduct for its Members and staff designed to ensure that they perform their duties honestly and capably, avoiding actual or apparent conflicts of interest. Such standards of conduct shall include specific prohibitions on:
+(a) the acceptance of any beneficial financial gain from any telecommunications equipment supplier or service provider, including, but not limited to, cash, stocks, real estate, gifts, travel or personal services; (b) the ownership in, or the authority to exercise management control over the operations of any telecommunications equipment supplier or service provider, including the PTK or its subsidiaries or successors in interest.
+3. The limitations of paragraph 2b shall not apply to shares invested and held in the form of a pension scheme or commercially-brokered mutual fund, provided that the value of such shares does not exceed five 5 percent of the market capitalization, and provided that such holdings are made public in the form of an official declaration at the time of appointment or within fifteen 15 days of such transaction.

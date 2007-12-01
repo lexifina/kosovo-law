@@ -1,0 +1,6 @@
+# Section 14
+Investigations and Offenses
+1. The TRA may investigate any facts, conditions, practices or matters which it finds necessary or proper to determine whether any person has violated or is about to violate this Law, other applicable laws, or any rule issued thereunder or to carry out any other lawful responsibility of the TRA.
+2. In conducting any such investigation, a Member of the TRA Board or any officer designated by the Board shall have the power to call witnesses, compel their attendance, take evidence and require the production of books, papers, contracts, agreements, and other records relevant to the inquiry.
+3. In the event that any person fails to obey TRA’s order, the TRA may invoke the aid of any court of competent jurisdiction or appropriate law enforcement agency to secure compliance therewith.
+4. A company, organization or other legal entity may be found to be liable under this Law if it has acted, made a decision or failed to act where it should have acted, as a result of a decision made or act committed whether intentionally, recklessly or negligently by a director, secretary, manager, Member of the Board or other officer, of that company, organization or entity.

@@ -1,0 +1,5 @@
+# Section 70
+Contractual Relations and Language Requirements
+1.All relations between a service provider and a customer shall be concluded by a written contract which specifies the initial connection time, the types of maintenance services offered, compensation and/or refund arrangements and a summary of dispute settlement procedures. With respect to prepaid services, the service provider shall make such terms and conditions available to its retail vendors for dissemination to the end user.
+2.Contract provisions concerning compensation and/or refund arrangements based upon interruption of services or a reduction in access, shall set the maximum level of the refunds for users. The maximum level of refunds for users shall not apply if the level so set is clearly disproportionate as compared to the failure of the services and the damage incurred.
+3.A service provider shall supply any contracts to the TRA, upon written request. The TRA may review the contract for consistency with the service provider’s general conditions and in the event of a dispute.

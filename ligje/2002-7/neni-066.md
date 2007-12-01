@@ -1,0 +1,4 @@
+# Neni 66
+Shfrytëzuesit ekzistues të radio frekuencave
+1. Jo më vonë se 60 ditë pas hyrjes në fuqi të këtij ligji, ART-i do t’i njoftojë me shkrim të gjithë shfrytëzuesit ekzistues të burimeve të spektrit akordimet e të cilëve hyjnë nën planin e burimeve të spektrit të miratuar nga PSSP-ja, mbi dispozitat e këtij kapitulli. Të gjithë mbajtësit ekzistues të autorizimeve për mbajtjen e burimeve të spektrit do të mbajnë të drejtën e tyre që i’u është akorduar nga UNMIK-u për gjithë kohëzgjatjen e autorizimit, me kusht që ata të paguajnë tarifën për të drejtën e shfrytëzimit të burimeve të spektrit:
+a) të jenë njësi ligjore të regjistruara si individ apo njësi biznesore në Kosovë, b) të përputhen me kushtet e përgjithshme aplikative për të drejtën e shfrytëzimit të spektrumit;dhe c) që të paguajnë tarifat aplikative për të drejtën e përdorimit.

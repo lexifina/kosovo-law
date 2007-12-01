@@ -1,0 +1,3 @@
+# Neni 27
+Përdorimi i përbashkët i pajisjeve dhe e drejta për të kaluar
+ART-i do të vendosë rregulla për përdorimin e pronave nën kontrollin privat dhe publik sa ka të bëjë me shërbimet e telekomunikacionit dhe ofruesit e shërbimeve, duke përfshirë, por duke mos u kufizuar vetëm në shtyllat e transmetimit për shërbimet ajrore, ngjitjen e shtyllave telefonike për shërbimet me kabllo dhe format tjera aplikative infrasrukturale. ART-i gjithashtu do të vendosë rregulla për të minimizuar shkatërrimin aksidental apo dëmtimin e pajisjeve të rrjetës, duke përfshirë, por duke mos u kufizuar vetëm në kabllot për transmetim ajror apo kabllovik.

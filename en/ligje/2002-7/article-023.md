@@ -1,0 +1,7 @@
+# Section 23
+Submission, Approval and Publication of General Conditions and Prices
+1. Service providers seeking to provide telecommunications services that require a license under this Law shall prepare and deliver to the TRA a description of services and the general conditions, that sets out in detail the prices for such services.
+2. Prior to the implementation of the general conditions, service providers with significant market strength shall submit a sample contract for users that is to be included as a part of the general conditions and shall obtain written approval therefor from the TRA.
+3. The TRA shall issue written approval for general conditions and prices not later than seven days after receipt from the service provider unless the TRA determines that additional information and/or calculations are required, in which case, upon notification to the service provider thereof, the period shall be extended to not longer than fourteen 14 days.
+4. In the event that the TRA fails to issue and deliver its written approval to the service provider during the period specified in paragraph three 3 of this section, the TRA shall be deemed to have given its approval.
+5. The TRA may order a service provider to make changes to its general conditions, even after the TRA’s approval has been given, if it determines that such changes are necessary to protect users or to safeguard competition.

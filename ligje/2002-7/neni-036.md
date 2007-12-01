@@ -1,0 +1,3 @@
+# Neni 36
+Tenderi shtesë për shërbime mobile
+Përkundër kushteve të tjera të këtij neni, ART në koordinim të ngushtë me PSSP-në do të lëshojë të drejtën për shfrytëzim të radio frekuencës për GSM radio shërbimet mobile publike për transmetim në pajtim me procedurat që i përkasin tenderit publik dhe auksionit. Ministria do të përgatisë dokumentat e tenderit ndërsa ART-i do të implementojë tenderin. Jo më vonë se 6 muaj pas hyrjes në fuqi të këtij ligji, ART-i do t’i ofrojë licencë çfarëdo ofruesi të shërbimeve mobile i cili për momentin nuk është duke ofruar shërbime mobile në tregun e Kosovës, përmes të ndonjë tenderi konkurrues ndërkombëtarë, në pajtim me këtë ligj dhe ligjet e tjera aplikative.

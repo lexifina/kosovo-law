@@ -1,0 +1,7 @@
+# Neni 23
+Dorëzimi, miratimi dhe publikimi i kushteve të përgjithshme dhe çmimeve
+1. Ofruesit aktual të shërbimeve dhe ata që kërkojnë të ofrojnë shërbime të telekomunikacionit për të cilat nevojitet licenca sipas këtij ligji, duhet të përgatisin dhe t’i dorëzojnë ART-it një përshkrim të shërbimeve dhe të kushteve të përgjithshme, në të cilat përshkruhen në mënyrë të detajuar çmimet për shërbime të tilla.
+2. Para implementimit të kushteve të përgjithshme, ofruesit e shërbimeve me fuqi të konsiderueshme në treg duhet të dorëzojnë një mostër të kontratës për parapaguesit e cila do t’i bashkangjitet kushteve të përgjithshme dhe duhet të marrin miratimin me shkrim për të nga ART-i.
+3. ART-i duhet të lëshojë një miratim me shkrim për kushtet e përgjithshme dhe çmimet jo më vonë se 7 ditë pas pranimit nga ofruesi i shërbimeve përveç nëse ART-i vlerëson që i nevojiten informata plotësuese dhe/apo kalkulime shtesë, me ç’rast pas njoftimit të ofruesit të shërbimeve lidhur me këtë, kjo periudhë kohore do të zgjatet për jo më shumë se 14 ditë.
+4. Në rast se ART-i dështon që të nxjerrë pajtimin e tij me shkrim ndaj ofruesit të shërbimeve brenda periudhës së specifikuar në paragrafin 3 të këtij neni, atëherë do të supozohet se ART-i ka dhënë pajtimin e vet.
+5. ART-i mund të urdhërojë një ofrues të shërbimeve që të bëjë ndryshime në kushtet e tij të përgjithshme edhe pasi të jetë dhënë pajtimi i ART-it, në rast se ai vlerëson se ndryshimet e tilla janë të nevojshme që të mbrohen parapaguesit, apo të mbrohet konkurrenca.

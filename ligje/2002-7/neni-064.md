@@ -1,0 +1,5 @@
+# Neni 64
+Plani për akordimin e burimeve të spektrit
+1. Në planin e tij për ndarjen e burimeve të spektrit dhe të brezeve të radio frekuencave, ART-i duhet t’i definojë radio frekuencat apo brezet e radio frekuencave që janë të dedikuara për radio komunikimeve individuale dhe në mes të grupeve individuale të shfrytëzuesve dhe do të vendosë kushtet sipas të cilave mund të shfrytëzohen radio frekuencat.
+2. Jo më vonë se pesëmbëdhjetë (15) ditë pas miratimit nga PSSP-ja, ART-i, në bashkëpunim dhe ndihmën e ofruar PSSP-së, do të bëjë publik planin e tij për burimet e spektrit i cili duhet të jetë në pajtueshmëri me ligjet vendore dhe ato ndërkombëtare si dhe Rregulloret e UNMIK-ut të cilat janë të detyrueshme në Kosovë. Plani duhet të marrë parasysh kërkesat e sigurisë së Kosovës, mbrojtjes dhe emergjencave, si dhe nevojat për mbrojtjen kundër fatkeqësive natyrore dhe fatkeqësive të tjera.
+3. Në bazë të planit të burimeve të spektrit, ART-i duhet të raportojë PSSP-së mbi të gjitha frekuencat rajonale dhe mbi masën në të cilën ato janë të zëna.

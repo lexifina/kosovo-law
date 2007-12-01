@@ -1,0 +1,8 @@
+# Section 75
+Traffic Data
+1.For the purpose of maintaining accurate billing records, service providers may keep and process the following traffic data until the services are paid for, until the expiration of the statute of limitations or until a ruling on the claim in the event of a dispute or a court order becomes legally binding:
+a the number and identity of the caller and person called; b the subscriber’s address and type of terminal; c the applicable schedule of charges; d the total minutes of use or other metered standard; e the type, date, time and duration of the call and/or the quantity of data transmitted; or f other information in connection with payment or classification of payment, such as payment in advance, payment in installments, a reminder for the user, an objection by the user and response thereto, and disconnection of the user.
+2.All traffic and billing data shall be processed in accordance with the confidentiality requirements of section 72 Confidentiality of this Law or other applicable laws and UNMIK Regulations.
+3.In the event of a dispute, the data specified in paragraph one 1 of this section shall be accessible in an unabbreviated form for at least three 3 years to the body ruling on the dispute.
+4.Traffic data required for billing, management of traffic, information for users, exposure of fraud and the service provider’s own marketing may be processed only by personnel under the supervision of the service provider, and their access to such traffic data shall be limited to the minimum extent necessary to conduct such work.
+5.Service providers marketing their own services shall obtain the consent of any person whose data shall be used therefor.

@@ -1,0 +1,5 @@
+# Neni 44
+Ofruesit e shërbimeve me fuqi të konsiderueshme në treg
+1. Për qëllime të këtij ligji, ofruesit e shërbimeve do të kosiderohet se kanë fuqi të konsiderueshme në treg nëse ata mbajnë më shumë se 25 përqind të aktivitetetve afariste të llojit të njejtë në një sektor të veçantë të tregut në Kosovë. Për qëllime të këtij neni, aksionet në tregun e ofruesve të shërbimeve të cilët janë nënvarës të kompanive të tjera të cilat veprojnë në sektorin e njejtë, apo kompanive të cilat vetvetiu kontrollojnë kompanitë e tjera të cilat veprojnë në sektorin e njejtë, do të konsiderohen si të njejtë në tërësinë e tyre.
+2. ART-i do të përcaktojë nëse një ofrues i shërbimeve posedon apo jo fuqi të konsiderueshme në treg, me kërkesën e cilitdo ofrues të shërbimeve, apo me vetë iniciativë.
+3. Gjatë vlerësimit nëse ofruesi i shërbimeve ka fuqi të konsiderueshme në treg, ART-i duhet të marr në konsideratë madhësinë relative të ofruesit të shërbimeve në krahasim me madhësinë e tregut, aftësinë e ofruesit të shërbimeve që të ndikojë në kushtet e tregut, kontrollin e ofruesit të shërbimeve në qasjen e parapaguesve, si dhe burimet financiare të ofruesit të shërbimeve.
