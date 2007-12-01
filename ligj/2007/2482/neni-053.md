@@ -1,0 +1,6 @@
+# Neni 53
+53.1. Përjashtimisht nga neni 52 i këtij ligji, shërbimet e vendosjes dhe të hotelierisë, në kushtet e përcaktuara me këtë ligj për hotelierin, mund t`i kryejnë edhe institucionet publike që merren me administrimin e parqeve të Kosovës të shpallura nga kuvendi i Kosovës dhe parqeve natyrore.
+53.2. Përjashtimisht nga neni 52 i këtij ligji, Lidhja e Ferialistëve të Kosovës dhe shoqatat e rinisë mund të kryejnë shërbime hoteliere dhe shërbime të vendosjes në objektet turistike rinore për anëtarët e vet dhe anëtarët e shoqatave ndërkombëtare të turizmit rinor.
+53.3. Përjashtimisht nga neni 52 i këtij ligji, institucionet që ushtrojnë veprimtari muzeore dhe teatrore, entet për ndihmë sociale për pleq dhe persona të pafuqishëm, mund të kryejnë shërbime hoteliere të llojit: bistro, ëmbëltore, kafene, bar-bufe, etj., sipas kushteve të parashikuara me këtë ligj për hotelierinë, në objektet ku ushtron veprimarinë e vet themelore.
+53.4. Institucionet e arsimit hotelier, konviktet e nxënësve dhe të studentëve, mund të ushtrojnë veprimtari hoteliere në kushtet e parashikuara me këtë ligj për hotelierin.
+53.5. Institucionet nga paragrafi 4 i këtij neni, mund të kryejnë shërbime të vendosjes dhe shërbime hoteliere, në qoftë se i plotësojnë kushtet e parapara për objektet e llojit të hostelit ose të hotelit për rininë.

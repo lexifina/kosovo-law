@@ -1,0 +1,3 @@
+# Neni 27
+27.1. Shërbime të ciceronit, në vështrim të këtij ligji, konsiderohet shoqërimi i grupit të udhëtarëve ose individit, sipas një programi paraprakisht të caktuar, për t`ju shpjeguar kuriozitetet natyrore, kulturo-historike, etnografike dhe evenimentet e tjera në vend dhe jashtë tij.
+27.2. Shërbime të ciceronit turistik nuk konsiderohen tregimi, shpjegimi profesional ose dhënia e informacioneve nga punëtori profesionist brenda lokalit afarist në të cilin punon (muze, galeri, park kombëtar, etj.), nga eksperti i agjencisë së udhëtimeve që shoqëron grupin e turistëve nga vendi në vend, shoqëruesi në male, shpella, gjueti ose peshkim, si edhe udhëheqësi dhe shoqëruesi i ekskursionit dhe piknikut.

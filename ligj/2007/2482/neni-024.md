@@ -1,0 +1,10 @@
+# Neni 24
+24.1. Agjencia e udhëtimeve-organizatore e udhëtimeve, e ka për detyrë që për çdo paketë- aranzhman, të sigurojë dorëzaninë për të zhdëmtuar udhëtarët për:
+a. Shpenzimet e krijuara, në qoftë se agjencia e udhëtimeve nuk i kryen shërbimet e kontraktuara,
+b. Dëmet që janë pasojë e mosplotësimit në tërësi të programit sipas llojit, sasisë, cilësisë dhe mënyrës së parashikuar në program.
+24.2. Agjencia e udhëtimeve-organizatore e udhëtimit e ka për detyrë që të sigurojë dorëzaninë në vlerë prej 20.000 Eurove në formë të depozites së gatshme, e cila deponohet në xhirollogari të veçantë në bankën komerciale, ose garancionit bankar të lëshuar nga banka komerciale e licencuar nga Autoriteti Bankave dhe Pagesave të Kosovës, e pagueshme me thirrje të parë dhe pa të drejtë kundershtimi, në afatin e vlefshmërisë së kohëzgjatjes sa është kohëzgjatja e licencës.
+24.3. Agjencia e udhëtimeve-organizatore e udhëtimit, e ka për detyrë të zhdëmtojë udhëtarin në afatin e përcaktuar me kushtet e përgjithshme të udhëtimit ose me programin e udhëtimit, jo më vonë se 30 ditë, nga dita kur udhëtari ka bërë reklamimin,
+24.4. Agjencia e udhëtimeve-organizatore e udhëtimit, nuk mban përgjegjësi ndaj udhëtarit për dëmet nga paragrafi 1 i këtij neni, në qoftë se:
+a. vërtetohet se lëshimet për moskryerjen e shërbimeve të kontraktuara i ngarkohen udhëtarit,
+b. lëshimet e paparashikuara dhe të paevitueshme i ngarkohen personit të tretë, i cili nuk ka marrë pjesë në realizimin e shërbimeve të kontraktuara, c. lëshimet janë pasojë e veprimit të fuqisë madhore (ngjarjet e paparashikuara) në të cilat ai që thirret në to nuk ka ndikim dhe pasojat janë të pashmangshme edhe nëse tregohet kujdesi i nevojshëm, (kjo përjashton rastin e tejkalimit të kapaciteteve të të lejuara nga agjencia), ose të ndonjë ngjarjeje tjetër, të cilën agjencia e udhëtimeve ose ai që i bën shërbimet, nuk kanë mundur t`i parashikojnë ose t`i mënjanojnë, edhe pse kanë treguar kujdesin e nevojshëm.
+24.5. Në rastet e parashikuara në paragrafin 4, pika (c) e këtij neni, agjencia e udhëtimeve, organizatore e udhëtimit, duhet të kujdeset që t`i ndihmojë udhëtarit.

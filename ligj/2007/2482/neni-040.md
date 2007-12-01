@@ -1,0 +1,5 @@
+# Neni 40
+40.1. Shërbime turistike në terrenet e skijimit në vështrim të këtij ligji, konsiderohen dhënia në shfrytëzim e mjedisit, pajisjeve dhe e mjeteve tjera te nevojshme për skijim rekreativ dhe sportiv, mësimi i teknikës së skijimit, veprimtaria e shpëtimit në terrenin e skijimit dhe veprimtari të tjera rekreative dhe sportive në borë.
+40.2. Shërbimet nga paragrafi 1 i këtij neni mund të bëhen në terrenin e skijimit, i cili duhet të jetë i rregulluar, i pajisur dhe i mirëmbajtur, në mënyrë që të jetë i sigurt për shfrytëzuesit (klientët), varësisht nga lloji i veprimtarisë nga paragrafi 1 i këtij neni, dhe që me aktin e Ministrisë kompetente për punët e turizmit është vërtetuar se i plotëson kushtet normative.
+40.3. Shërbimet nga paragrafi 1 i këtij neni mund t`i bëjnë ndërmarrjet, personat e tjerë juridikë dhe sipërmarrësit që i plotësojnë kushtet e parapara me ligj që e kanë lejen për punë të lëshuar nga Ministria kompetente për punët e turizmit.
+40.4. Ministria kompetente për punët e turizmit i përcakton qartë kushtet e rregullimit, të pajisjes, të mirëmbajtjes dhe të shfrytëzimit të terreneve të skijimit.

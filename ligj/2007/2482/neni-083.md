@@ -1,0 +1,5 @@
+# Neni 83
+83.1. Për lejen sipas nenit 82, paragrafi 1 i këtij ligji, organi kompetent i administratës komunale, nxjerrë një aktvendim brenda 30 ditësh nga dita e paraqitjes së kërkesës së rregullt.
+83.2. Në qoftë se organi kompetent i administratës komunale nuk e nxjerrë aktvendimin në afatin e caktuar në paragrafin 1 të këtij neni, ose nuk e nxjerrë aktvendimin me të cilin refuzohet kërkesa për shkak të mosplotësimit të kushteve ligjore, personi fizik mund të fillojë kryerjen e shërbimeve, pasi ka njoftuar për këtë paraprakisht me shkrim organin kompetent të administratës komunale.
+83.3. Organi kompetent i administrates komunale e ka për detyrë që aktvendimin sipas paragrafit 1 të këtij neni, ta nxjerrë brenda 30 ditësh, nga dita kur e merrë njoftimin nga paragrafi 2 i këtij neni.
+83.4. Në qoftëse organi kompetent vërteton se nuk janë plotësuar kushtet e parashikuara me këtë ligj, ndërsa personi fizik e ka filluar punën në bazë të paragrafit 2 të këtij neni, konsiderohet se shërbimet i kryen në kundërshtim me dispozitat e këtij ligji.

@@ -1,0 +1,20 @@
+# Neni 87
+87.1. Në kryerjen e inspektimit, inspektori ka detyrat dhe autorizimet të përgjithshme:
+a. Të vërtetojë identitetin e të punësuarve në ndërmarrje, të personave të tjerë juridikë, të sipërmarrësve si dhe të personave fizikë që ushtrojnë veprimtari turistike dhe hoteliere,
+b. Të kontrollojë kontratat, evidencat, dokumentacionin dhe dokumentet e tjera të nevojshme për vërtetimin e ligjshmërisë në afarizmin e ndërmarrjes ose të personave fizikë, c. Të kontrollojë përmbushjen e detyrimeve kontraktuese ndërmjet shitësve dhe blerësve të shërbimeve turistike dhe hoteliere,
+d. Të kontrollojë afishimin dhe zbatimin e çmimeve të shërbimeve hoteliere dhe turistike, si dhe dhënien e faturave për shërbimet e kryera,
+e. Të vertetojë dhe të kontrollojë zbatimin e normativave të ushqimit dhe të pijeve në sasi dhe cilësi,
+f. Të urdhërojë masa për sigurimin e dokumentacionit,
+g. Të gjobitë në vend,
+h. Të ushtrojë fletëparaqitje te organi kompetent për veprat e bëra penale dhe shkeljet ekonomike, përkatësisht, të paraqesë kërkesë për hapjen e procedurës kundërvajtëse,
+i. Të hapë procedurë lidhur me vërejtjet e blerësve të shërbimeve hoteliere dhe turistike.
+87.2. Inspektori i turizmit posaçërisht është i autorizuar:
+a. T’ia ndalojë punën ndërmarrjes, personit tjetër juridik ose sipërmarrësit që ushtron veprimtari turistike dhe hoteliere, të definuar me këtë ligj, në qoftë se nuk është regjistruar në regjistrin përkatës ose nuk e ka aktin që vërteton plotësimin e kushteve minimale teknike të parapara për ushtrimin e këtyre veprimtarive,
+b. T’ia ndalojë punën ndërmarrjes që kryen punët e organizimit të udhëtimeve turistike pa licencë ose që nuk i plotëson më vonë kushtet në bazë të të cilëve i është dhënë licenca,
+c. T’ia ndalojë punën objektit hotelier në kategorinë që i është përcaktuar, në qoftë se rregullimi, pajisjet dhe shërbimet në objekt nuk janë në përputhje me standardet e përcaktuara për atë kategori, ndërsa objekti hotelier në afatin e caktuar nuk ka paraqitur kërkesë për klasifikim në kategorinë e re,
+d. T’ia ndalojë kryerjen e shërbimeve të vendosjes dhe të ushqimit të turistëve në ekonominë shtëpiake, kur vërteton se personi fizik u jep me qira turistëve dhomat, shtëpinë ose banesën për pushim, të cilat nuk janë kategorizuar në pajtim me dispozitat e ligjit,
+e. Që t’ia ndalojë ushtrimin e veprimtarisë ndërmarrjes, personit tjetër juridik, sipërmarrësit ose personit fizik, në rastet kur inspektorit i pamundësohet që të kryejë punët e inspektimit,
+f. Që t’ia ndalojë punën e punëtorit që kryen shërbime në terrenin sportiv, në qoftë se terreni i skijimit nuk është i pajisur me aparaturën dhe pajisjet e domosdoshme, në pajtim me dispozitat ligjore dhe në qoftë se entiteti nuk e ka dëshminë për plotësimin e kushteve të lëshuar nga organi kompetent.
+g. Të marrë vendim më të cilin ndalohet veprimtaria turistike apo hoteliere, nëse vertetohet se kjo veprimtari kryhet pa lejen për punë, dhe njëkohësisht mund të zbatojë mbylljen e dhunshme të objektit duke ja vënë vulën zyrtare me dyll.
+87.3. Në zbatimin e inspektimit, inspektori i turizmit kontrollon: lokalet afariste dhe lokalet e tjera dhe mjediset ( vendet ) në të cilët ushtrohet veprimtaria hoteliere dhe turistike; mallin, aparaturat dhe pajisjet me të cilat ushtrohet veprimtaria hoteliere dhe turistike; lokalet e banimit dhe hapësirat e ekonomisë shtëpiake, përkatësisht, ndërtesat e banimit, banesat dhe shtëpitë për qiradhënie, në të cilat turistëve dhe udhëtarëve u bëhen shërbime turistike dhe hoteliere; librat afaristë, kontratat, dokumentacionin dhe evidencat, dokumentacionin tjetër afarist që mundëson pasqyrën e afarizmit të personave juridikë dhe fizikë që kryejnë shërbime hoteliere dhe turistike; dokumentet në bazë të të cilëve mund të vërtetohet identiteti i personave fizikë që i nënshtrohen inspektimit, por edhe punë të tjera, varësisht nga qëllimi i inspektimit.
+87.4. Përveç punëve nga paragrafi 1 dhe 2 i këtij neni, inspeksioni i turizmit kryen edhe punë të tjera që me ligj dhe me dispozitat e tjera i ka në kompetencë.

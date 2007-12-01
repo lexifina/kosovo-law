@@ -1,0 +1,3 @@
+# Neni 106
+106.1. Personat juridikë dhe fizikë që kryejnë shërbimet e agjencisë së udhëtimeve, ditën kur hyn në fuqi ky ligj, e vazhdojnë punën, por janë të obliguar që në afat prej 1 (një) viti nga dita e zbatimit të këtij ligji, ta harmonizojnë afarizmin e tyre me dispozitat e nenit 8, 22 dhe 23 të këtij ligji .
+106.2. Në qoftë se personat juridikë dhe fizikë, nga paragrafi 1 i këtij neni, nuk e harmonizojnë afarizmin e tyre me dispozitat e neneve 8, 22 dhe 23 të këtij ligji në afatin e caktuar, organi kompetent do ta nxjerrë aktvendimin mbi ndalimin e kryerjes së shërbimeve të agjencisë së udhëtimeve.

@@ -1,0 +1,8 @@
+# Neni 43
+43.1. Në ekonominë shtëpiake që është e organizuar si ekonomi fshatare turistike, (në tekstin e mëtejmë: ekonomi shtëpiake në fshat), anëtari i ekonomisë shtëpiake në fshat, mund t’ i kryejë shërbimet nga neni 77, paragrafi 1, pika (a) e këtij ligji, përveç dhënies me qira të shtëpive për pushim.
+43.2. Përveç shërbimeve nga paragrafi 1 i këtij neni, në ekonominë shtëpiake në fshat, mund të përgatiten dhe të shërbehen ushqime të ngrohta dhe të ftohta, pije dhe lëngje, kryesisht nga prodhimet e veta, për jo më shumë se për 50 persona (ekskursionistë) njëkohësisht.
+43.3. Në ekonominë shtëpiake në fshat mund të kryhen edhe shërbimet e shijimit të verës dhe të rakisë, të specialiteteve të mishit të prodhimeve të veta, në pjesën e rregulluar të objektit të banimit ose të objektit afarist të formës së mbyllur, me tendë ose të hapur, për jo më shumë se 50 persona (ekskursionistë) njëkohësisht.
+43.4. Ministria kompetente për punët e turizmit do të përcaktojë se çfarë konsiderohet ekonomi shtëpiake fshatare, kushtet minimale, kushtet për kategorinë dhe mënyrën e kategorizmit të objekteve ku kryhen shërbimet sipas këtij neni.
+43.5. Për kryerjen e shërbimeve në ekonominë shtëpiake në fshat në mënyrën përkatëse zbatohen dispozitat e neneve 77 deri 85 të këtij ligji.
+43.6. Ministria kompetente për punët e turizmit, pasi të sigurojë edhe mendimin e Ministrisë kompetente për bujqësi, do të përcaktojë se çfarë konsiderohet prodhim vetiak dhe llojin e produkteve që nuk është e domosdoshme të jenë nga prodhimi vetiak, në kuptimin e paragrafit 2 të këtij neni.
+11. SHËRBIMET TURISTIKE PËR TURIZMIN RINOR

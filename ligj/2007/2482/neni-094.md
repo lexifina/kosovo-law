@@ -1,0 +1,3 @@
+# Neni 94
+94.1. Inspektori i turizmit me rastin e ekzekutimit të vendimit nga nenet 90 paragrafi 4 dhe neni 92 të këtij ligji, duke e vulosur ose në ndonjë mënyrë tjetër të përshtatshme, i mbyll lokalet në të cilat ushtrohet veprimtaria hoteliere dhe turistike, me përjashtim të lokaleve të banimit dhe lokaleve në ekonominë shtëpiake, pra amjentet e banimit, por mund t’i marrë pajisjet, aparaturën, mjetet e punës dhe mjetet transportuese, me të cilat ushtrohet veprimtaria, deri në vendimin përfundimtar të organit kompetent të administratës.
+94.2. Aktvendimi ekzekutiv i inspektorit të turizmit që ka të bëjë më gjobat, ekzekutohet detyrimisht sipas procedurës së arkëtimit të të hyrave publike.

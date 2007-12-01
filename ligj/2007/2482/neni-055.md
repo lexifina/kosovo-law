@@ -1,0 +1,7 @@
+# Neni 55
+55.1. Personat juridikë dhe fizikë, me vendbanim ose me seli në Kosovë, mund të organizojnë kryerjen e shërbimeve të vendosjes dhe të ushqimit për punëtorët, anëtarët e familjes së ngushtë të punëtorëve, të anëtarëve dhe të pensionistëve të vetë në objektet e tipit të mbyllur (pushimore, objekt për ushqim, etj.), në kushtet e parashikuara me këtë ligj dhe me dispozitat e tjera.
+55.2. Personat juridikë dhe fizikë nga paragrafi 1 i këtij neni, e kanë për detyrë që kryerjen e shërbimeve hoteliere t`ia paraqesin organit të administratës komunale, sipas vendit të selisë së objektit, pra sipas vendit ku kryhen shërbimet dhe ky organ i regjistron në regjistrin për kryerjen e shërbimeve hoteliere nga personat juridikë dhe fizikë, nga paragrafi 1 i këtij neni.
+55.3. Ministria kompetente për punët e turizmit do t`i përcaktojë kushtet minimale-teknike për kryerjen e shërbimeve nga paragrafi 1 këtij neni.
+55.4. Organi kompetent i administratës komunale, rregullon plotësimin e kushteve nga aktet nënligjore të nxjerrura në bazë të paragrafit 3 të këtij neni.
+55.5. Ministria kompetente për punët e turizmit, me akte nënligjore do ta caktojë, përmbajtjen e formularit të fletëparaqitjes dhe mënyrën e mbajtjes së regjistrit për kryerjen e shërbimeve nga personat juridikë dhe fizikë, nga paragrafi 1 i këtij neni.
+55.6. Personi fizik ose juridik nga paragrafi 1 dhe 2 të këtij neni paraqet kërkesë organit të administratës komunale, ku kryhen shërbimet, për të konstatuar se a janë plotësuar kushtet e parapara.
