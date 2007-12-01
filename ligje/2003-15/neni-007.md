@@ -1,0 +1,4 @@
+# Neni 7
+Periudha e shfrytëzimit të ndihmës sociale
+7.1. Familja që ka fituar të drejtën e ndihmës sociale në përputhje me nenin 4, pika 1(a) do të marrë ndihmë sociale deri në gjashtë muaj, me kusht që t’i plotësojë kriteret e parashikuara gjatë kësaj periudhe. Pas kalimit të periudhës së lartpërmendur, familja duhet të bëjë kërkesë të re për vazhdimin e të drejtës për ndihmë sociale.
+7.2. Familja që ka fituar të drejtën e ndihmës sociale në pajtim me nenin 4.1 (b) do të marrë ndihmë sociale deri në gjashtë(6) muaj, me kusht që t’i përmbushë kriteret e parashikuara gjatë kësaj periudhe dhe të ndërmarrë veprime të nevojshme për punësim, sipas kërkesës së organeve përkatëse. Organet përkatëse kërkojnë nga ata dëshmi mbi orvajtjet e tyre për të gjetur punë dhe shpeshtësia e këtyre dëshmive përcaktohet në Udhëzim të cilin e lëshon Ministria. Pas mbarimit të periudhës së përmendur më sipër, familja paraqet kërkesë të re për ndihmë sociale.
