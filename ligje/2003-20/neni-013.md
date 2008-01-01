@@ -1,0 +1,9 @@
+# Neni 13
+PESTICIDET E NDALUARA DHE ATO RREPTËSISHT TË KUFIZUARA
+13.1 Pesticidet dhe përbërësit aktivë të ndaluara për import, eksport e prodhim dhe plasimin në tregun e Kosovës përcaktohen me këtë Ligji.
+13.2 Pesticidet e dhuruara do të jetë në qarkullim në pajtim me të gjitha ligjet pozitive të aplikueshme në Kosovë dhe do të pranohet vetëm pas miratimit paraprak nga autoriteti regjistrues.
+13.3 Autoriteti regjistrues do të shkëmbejë informata me vendet tjera lidhur me 7 pesticidet e ndaluara, rreptësisht të kufizuara ose tepër të rezikshme që janë objekt i procedurave paraprakisht të miratuara sipas marrëveshjeve ndërkombëtare siç janë Kodi Ndërkombëtar i Mirësjelljes mbi Qarkullimin dhe Shfrytëzimin e Pesticideve dhe dispozitat e Konventës së Roterdamit të vitit 1998 mbi procedurat e pëlqimit paraprak për disa komponime kimike dhe pesticide të rrezikshme në Tregun Ndërkombëtar.
+13.4 Pesticidet e depozituara që janë të ndaluara, rreptësisht të kufizuara ose tepër të rrezikshme të përcaktuara në këtë Ligj që gjenden në Kosovë pas hyrjes në fyqi të këtij Ligji do të:
+(a)i paraqiten MBPZHR dhe grumbullohen brenda afatit kohor dhe në përputhje me procedurat e vendosura ;
+(b) nëse nuk paraqitën dhe nuk grumbullohen sipas pikës (a), atëherë konfiskohen pa kompensim dhe asgjësohen në pajtim me ligjin e aplikueshëm mbi mbeturinat e rrezikshme dhe udhëzimet administrative të nxjerra sipas këtij Ligji. Shpenzimet e krijuara sipas këtij neni do të mbulohen nga poseduesi i pesticideve të deponuara.
+13.5 MBPZHR me propozimin e autoritetit regjistrues do të lejojë një periudhë të arsyeshme, varësisht nga cilësia e secilit rast, por që nuk tejkalon dy (2) vite pas hyrjes së këtij Ligji në fuqi, për largimin nga depoja e pesticideve të ndaluara, rreptësisht të kufizuara ose pesticideve tepër të rrezikshme të përcaktuara me këtë Ligj.
