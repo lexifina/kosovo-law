@@ -1,0 +1,13 @@
+# Section 3
+Criteria for Disability Determinations
+3.1 In order to be eligible for a Disability Pension, an Applicant must be habitually residing in Kosovo and must meet the Disability requirements of this Law.
+3.2 Doctor’s Commissions will assess the medical condition of Applicants for Disability Pensions. Disability assessments by Doctor’s Commissions must be in writing and include the following:
+(a) A specific statement of the diagnosis of the physical, sensory or mental condition, disease or disability that the Applicant is suffering and the date of the condition, disease or disability onset; the diagnosis must describe the condition, disease or disability as well as the particular impact of the condition, disease or disability on employment, including a specific description of impaired functioning of the Applicant.
+(b) An assessment of the Applicant’s functioning with respect to daily living tasks and tasks associated with employment; this must include reference to Applicant’s prior employment if any.
+(c) A determination of whether or not the Applicant can be employed, in any capacity, given the total circumstances of the disease or disability.
+(d) A determination of complete disability for a prior period of one year or longer, during which time the Applicant was medically incapable of employment for remuneration.
+(e) Prognosis of the permanence of disability.
+3.3 Persons who reside in, are confined in, or are financially supported by institutions caring for the disabled, including psychiatric or medical establishments, religious institutions caring for the infirm or disabled, residential schools and prisons, and other institutions receiving support from the Kosovo Consolidated Budget to care for the disabled, are not eligible for Disability Pension payments under this Law.
+3.4 Persons capable of employment or actually employed in any manner, including any Self-employment as defined in the tax laws of Kosovo, shall not be eligible for Disability Pensions. Actual employment, including Self-employment, shall constitute presumptive proof of the cessation of Disability. Disability Pension payments will cease as of the first date of employment or Self-employment.
+3.5 Persons who are in receipt of a Basic Pension or a Benefit under the scheme of “Benefits for the war invalids of Kosovo and for the next of kin of those who died as a result of the armed conflict in Kosovo” shall not be eligible for Disability Pensions.
+3.6 Persons who are included as a family member for purposes of determining the amount of Social Assistance payment to a family shall not be eligible for Disability Pension.

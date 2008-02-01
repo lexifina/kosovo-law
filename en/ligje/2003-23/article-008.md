@@ -1,0 +1,3 @@
+# Section 8
+Guardianship
+The Doctor’s Commission may determine that an Applicant is not medically competent to administer his or her own financial affairs. If a Guardian has already been appointed for the Applicant by a court, the Disability Pension may be paid to the appointed Guardian on behalf of the Applicant. If a Guardian has not been appointed by a court, the Designated Authority may appoint next-of-kin (spouse, parent, sibling, grand children, or other close relative) who is caring for the Applicant as a Guardian for the sole purpose of receiving and disbursing the Disability Pension, subject to review of this decision by a court of competent jurisdiction if the Applicant or another party objects to the appointment.

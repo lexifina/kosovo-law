@@ -1,0 +1,13 @@
+# Neni 6
+Pagesat e pensionit të aftësisë së kufizuar
+6.1 Në përputhje me dispozitat në nën-nenin 11.3 të këtij ligji, shuma mujore e Pensionit të aftësisë së kufizuar do të jetë e njëjtë me shumën mujore të pensionit themelor. Pagesat mujore nuk do të ndryshohen gjatë vitit.
+6.2 Personat e përzgjedhshëm për pensionin e aftësisë së kufizuar, sipas këtij ligji, do të marrin pagesa retroaktive prej muajit kur e dorëzojnë kërkesën e kompletuar në autoritetin përkatës, ose prej ditës kur ky ligj hyn në fuqi, varësisht se cila datë është më e vonshme. Ministria mund të miratojë një dispozitë për një periudhë kaluese pasi që Ligji të hyjë në fuqi gjatë së cilës kohë parashtruesit e kërkesave do të konsiderohen se i kanë paraqitur kërkesat në datën kur ky ligj hyn në fuqi.
+6.3 Autoriteti përkatës mund të kërkojë që pagesat e pensionit të aftësisë së kufizuar të bëhen përmes llogarive bankare të parashtruesve të kërkesave.
+6.4 Kurdoherë që autoriteti përkatës gjen se personi ka marrë më shumë ose më pak para nga shuma e duhur, sipas këtij nën-neni, gabimi duhet të përmirësohet sipas Udhëzimit Administrativ të cilin e lëshon Ministria.
+(a) Sipas dizpozitave të Nenit 9, për sa u përket rasteve kur personi është paguar më shumë se sa është dashur, autoriteti përkatës do ta zvoglojë pagesën vijuese në shumën ekuivalente. Në rastet kur personi e humb të drejtën në pension të aftësisë së kufizuar, atëherë autoriteti përkatës duhet të kërkojë që personi i paguar më shumë ta kthejë shumën e paguar pa të drejtë.
+(b) Për sa u përket rasteve kur personi është paguar më pak se sa është dashur, autoriteti përkatës duhet të bëjë pagesën në shumën e duhur për aqë sa është paguar më pak, ose nëse personi i tillë vdes para se pagesa të bëhet, shuma që duhet paguar rregullohet sipas pikës (c) të këtij neni.
+(c) Nëse personi vdes para se t’i bëhet pagesa që i takon, pagesa e shumës që i takon do t’i bëhet;
+(1) Personit, i cili përcaktohet nga autoriteti përkatës si bashkëshort që është gjallë;
+(2) Nëse nuk ka person që i përmbush kërkesat e paragrafit (1) ose personi që i përmbush kërkesat e tilla vdes para se pagesa t’i bëhet, fëmijës ose fëmijëve, nëse kanë pasur, të personit të vdekur dhe në rastet kur janë më shumë se një, në pjesë të barabarta për secilin djalë;
+(3) Nëse nuk ka person që i përmbush kërkesat e paragrafit (1) ose (2), ose nëse personat që i përmbushin këto kërkesa vdesin para se pagesa të bëhet, atëherë prindit ose prindërve, nëse ka, të personit që ka vdekur dhe, në rast se i ka dy prindër, në pjesë të barabarta për secilin prindër).
+6.5 Kërkesat në nën-nenin 6.4 janë subjekt i kërkesave të parashtruara në nenin 9 më poshtë.

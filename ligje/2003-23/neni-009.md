@@ -1,0 +1,5 @@
+# Neni 9
+Ndëshkimet për Pengesat dhe Prezentimet e Gabuara
+9.1 Çdo person i cili me qëllim pengon përpjekjet ligjore nga ana e autoriteteve përkatëse në verifikimin e fakteve të prezentuara në kërkesë, atëherë kërkesa e tij/saj refuzohet.
+9.2 Personi i cili merr pensionin e aftësisë së kufizuar është i detyruar t’i kthejë të gjitha pagesat e pensionit të aftësisë së kufizuar, të marra prej ditës së punësimit apo vetë-punësimit. Procedurat e kthimit të pagesave do të përcaktohen në Udhëzimin Administrativ i cili do të lëshohet nga Ministria.
+9.3 Çdo person i cili me vetëdije të plotë jep deklarata të rreme apo prezenton dokumente të falsifikuara me qëllim të marrjes së pagesës së pensionit të aftësisë së kufizuar, sipas këtij ligji, apo i cili nuk i informon autoritetet përkatëse për ndonjë ndryshim eventual të rrethanave të cilat mund të ndikojnë në përzgjedhshmërinë e pensionit të aftësisë së kufizuar, atëherë ai do të jetë i detyruar t’i kthejë të gjitha pagesat të cilat i ka marrë. Procedurat e kthimit të pagesave do të përcaktohen në Udhëzimin Administrativë i cili do të lëshohet nga Ministria.
