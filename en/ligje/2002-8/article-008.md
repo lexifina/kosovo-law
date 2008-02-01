@@ -1,0 +1,9 @@
+# Article 8
+SPATIAL PLANNING AND ADJUSTMENT ACTS
+1. Kosovo spatial plans, regional spatial plans, municipal spatial plans, plans for me management of Natural Resources, development plans and programs and other spatial planning and adjustment acts, as defined by law, which affect the Environment, must include an assessment of planned activities and their impact on the Environment and a detailed assessment of the potential positive economic impact of such planned activities. The assessment of planned activities and their impact shall be prepared and presented in a manner and procedure prescribed by this law.
+2. Spatial and urban logistic plans shall:
+(a) Describe a proposed special regime for preservation of nature protection areas, water, soil, green public spaces, recreative areas and natural spas;
+(b) Define endangered Environmental areas (polluted areas, areas endangered by erosion, by floods, by exploitation of raw materials, etc.) and defining proposed measures for the rehabilitation of these areas;
+(c) Propose Environmental Protection measure and conditions for the spaces dedicated to the exploitation of natural resources, construction of industrial and energy-producing facilitates and infrastructures and construction of waste storage facilities.
+3. The assessment of planned activities shall include an analysis of the present state of potential impacts that the proposed activities and proposed mitigation activities have on the Environment and economic development.
+4. Before they are adopted, Kosovo spatial plans, regional spatial plans, municipal spatial plans, plans for the management of Natural Resources, development plans and programs and other spatial planning and adjustment acts shall be presented for assessment to the Kosovo Environment Protection Agency (hereinafter, KEPA).

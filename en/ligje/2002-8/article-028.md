@@ -1,0 +1,5 @@
+# Article 28
+AIR PROTECTION
+1. The Government, after receiving a proposal from the Minister and taking into account the principles established in Article 5, shall issue a subsidiary normative act establishing p rescribed permissible m aximum 1 evels for t he discharge and e mission o f pollutants into the air. The Government shall ensure that the levels established by such subsidiary act are consistent with the ability of Kosovo to comply at a reasonable cost. The Government shall have the authority to adjust downward such permissible maximum levels over time to bring them gradually into compliance with the prescribed levels of the EU.
+2. Air protection shall be implemented at the central level, according to an air protection program, which shall have defined procedures and gradual time limits for achieving technical standards and maintaining Emissions within prescribed limit levels.
+3. Objects that contain air Pollution sources are required to use technical, technological and other measures to guarantee that Emissions in the air are maintained within prescribed limit levels in accordance with the law and other legal acts.

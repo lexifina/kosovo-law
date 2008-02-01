@@ -1,0 +1,13 @@
+## PJESA 6: Masat e veçanta për mbrojtjen e mjedisit
+# Neni 27
+Planet e intervenimit në rast të akcidentit ekologjik
+1 Për rastet e aksidenteve të mundshme ekologjike ose rastet e rrezikimeve të jashtëzakonshme të mjedisit, rrezikimit të shëndetit dhe jetës së njerëzve, Qeveria, në propozim të ministrive përgjegjëse nxjerr Planet e intervenimit.
+2 Planet e intervenimit nga paragrafi 1. i këtij neni, përmbajnë: (a) llojet e rrezikshmërisë si pasojë e aksidentit ekologjik, (b) procedurat dhe masat për zbutjen dhe eliminimin e pasojave të drejtëpërdrejta të dëmshme për mjedis, (c) autoritetet publike për zbatimin e masave të caktuara , (d) përgjegjësitë dhe autorizimet lidhur me zbatim të masave dhe (e) mënyrën e harmonizimit me masat intervente të cilat zbatohen në bazë të ligjeve tjera
+17 3 Ministri përgjegjës për mjedis, ka përgjegjësinë për nxjerrjen e një propozim plani që do të jetë objekt shqyrtimi dhe miratimi nga Qeveria, duke përfshirë këto në vijim:
+(a) Metodologjinë e hartimit të Analizës së rrezikut nga aksidenti ekologjik përkatësisht rrezikut nga ndotja e mjedisit, masat përgaditore për aksident të mundshëm ekologjik si dhe masat e evitimit të pasojave nga aksidentet me përmasa të mëdha;
+(b) Mënyrën e mbajtjes së shenimeve për llojin dhe sasinë e materieve të rrezikshme në prodhim, shfrytëzim, qarkullim, transport, magazinim dhe deponim si dhe afatet për dergimin e shenimeve, dhe
+(c) Mënyrën dhe kriteriumet për kategorizimin e materieve të rrezikshme.
+4. Persona apo ndërmarrje që marrin pjesë në biznes, prodhim, transport, përdorim, përpunim dhe/ose deponimin e mbeturinave të rrezikshme apo substancave të rrezikshme do të jenë të detyruar të zhvillojnë dhe japin Ministrisë, çdo dy vjet, një dokument që përfshin:
+(a) planin e tyre për intervenim në rast të aksidentit mjedisor; (b) analizë të rreziqeve të mundshme për aksident mjedisor; (c) përshkrimin e masave parandaluese dhe masat e planit të tyre rehabilitues në rast të aksidentit mjedisor; dhe (d) një histori të llojeve dhe shumave të substancave të rrezikshme në bazë të kategorisë të substancave të rrezikshme.
+5 Nëse gjatë aksidentit ekologjik dhe rrethanave tjera të jashtëzakonshme pason rreziku nga ndotja ose dëmtimi i mjedisit me materie të rrezikshme dhe të dëmshme, subjekti fizik ose juridik, me aktivitetin e të cilit është shkaktuar rrezikimi dhe ndotja e mjedisit, është i obliguar që për këtë rast, menjëherë të njohtoj ministrinë përgjegjëse për mjedis, ministrinë përgjegjëse për siguri emergjente si dhe prodhuesin e tregtuesin e këtyre materieve të rrezikshme.
+6 Njoftimi duhet të përmbaj shenimet për rrethanat e aksidentit, vendin, kohën, llojin edhe sasinë e materieve të rrezikshme dhe masat e ndërmarrura.

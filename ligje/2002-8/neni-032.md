@@ -1,0 +1,6 @@
+# Neni 32
+Mbrojtja nga rrezatimi jonizues dhe radioaktiviteti
+1. Me qëllim të zbulimit të prezences, përcaktimit të rrezikshmërisë, informimit dhe ndërmarrjës së masave mbrojtëse nga rrezatimi jonizues, sipas kushtve dhe procedures së paraparë nga ministritë relevante, behët hulumtimi sistematik dhe monitorimi i përberjës së radionukleideve /materieve radioaktive / në ajër, në tokë, në lumenj dhe liqenj, i të reshurave atmosferke, të bimëve dhe kafshëve, materialit ndërtimor,ujit të pijës dhe të produkteve ushqimore dhe atë në rrethana të rregullta, në rastet e dyshimit të bazuar dhe në rastet e jashtëzakonshme.
+2 Hulumtimet nga paragrafi 1.i këtij neni si dhe monitorimet tjera me rëndësi të veçantë për vlerësimin e rrezikshmërise radioaktive të popullsisë dhe të mjedisit, e bejnë institucionet e licencuara nga ministritë përgjegjëse.
+3 Institucionet e licencuara, të cilat kryejnë hulumtime sistematike të përberjes radioaktive të materieve në mjedis dhe matjet e intenzitetit të rrezatimit, janë të obliguara që raportet nga monitorimet e kryera t’ia dërgojnë ministrive përgjegjëse.
+4 Qeveria me propozim të Ministrit do të nxjerrë akt të veçantë me të cilin do t’i caktoi kriteret dhe masat që duhet ndërrmarë për t’u realizuar mbrojtja nga rrezatimi jonizues dhe radioaktiv.
