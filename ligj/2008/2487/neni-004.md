@@ -1,0 +1,7 @@
+# Neni 4.
+Kompanitë gjeodete dhe licencimi i tyre
+4.1. Agjencia licencon kompanitë gjeodete për kryerjen e matjeve kadastrale, në bashkëpunim me Agjencinë dhe Zyrat Kadastrale Komunale. Agjencia mund të licencojë edhe kompani të tjera me kompetenca relevante për ekzekutimin e planeve themelore kadastrale. Në këto kompani nuk mund të inkuadrohen gjeodetët e punësuar në Agjenci dhe në zyrat kadastrale komunale.
+4.2. Në rast të dallimit midis matjeve të bëra nga kompanitë e liçencuara dhe matjeve të bëra nga zyra kadastrale komunale, e vlefshme është matja e bërë nga zyra kadastrale komunale.
+4.3. Kërkesat për licencë, kushtet për kryerjen e matjeve kadastrale nga Kompanitë gjeodete të licencuara dhe përgjegjësitë e tyre do të definohen në një Udhëzim Administrativ.
+4.4. Nëse një kompani e licencuar gjeodete apo ndonjë kompani tjetër e licencuar nuk i përmbush më kërkesat për licencë ose në aspekte tjera është treguar që ajo kompani nuk është kompetente për detyrat e veta, AKK-ja mund të anulojë licencën.
+4.5. Ankesa kundër vendimit të AKK-së për të anuluar apo për të mos dhënë licencën mund t’i paraqitet Ministrisë së Shërbimeve Publike brenda 15 ditësh nga data e pranimit të njoftimit me shkrim nga AKK-ja mbi anulimin e licencës. Ministria e Shërbimeve Publike do të vendosë mbi çështjen brenda afatit prej tridhjetë (30) ditësh nga pranimi i kërkesës për shqyrtim të vendimit të AKK-së.
