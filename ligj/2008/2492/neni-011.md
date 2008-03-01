@@ -1,0 +1,4 @@
+# Neni 11
+11.1. Shitësi në asnjë mënyrë nuk mund të bëjë diskriminimin e konsumatorit e në veçanti, ai nuk mund të refuzojë shitjen e mallit apo shërbimit të ekspozuar dhe të përgaditur për të. Ai nuk mund ta lidhë shitjen e mallit dhe/apo kryerjen e shërbimit me blerjen e një malli apo shërbimi tjetër, me përjashtim të rasteve kur një kufizim i tillë përbën praktikë të detyrueshme në tregti.
+11.2. Shitësi është i detyrohet të informojë blerësin për kushtet dhe mënyrën e paraqitjes së reklamimeve për mallrat dhe/ose shërbimet me të meta, duke përfshirë vendin ku bëhet reklamimi dhe kushtet përkatëse të riparimit sipas garancisë.
+11.3. Në qoftë se malli gjatë kohës së garancisë përkeqësohet dhe konsiderohet me defekt sipas mënyrës së paraparë me garanci, atëherë prodhuesi, shitësi apo ofruesi i shërbimeve duhet t’i përgjigjet garancisë së dhënë.
