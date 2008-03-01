@@ -1,0 +1,3 @@
+# Neni 1
+Nëpërmes këtij ligji synohet të parandalohet rreziku dhe të shtohet mbikëqyrja dhe sigurimi i komunikacionit gjatë transportit të mallrave të rrezikshme të cilat me vetitë vetëndezëse, helmuese, shpërthyese, avulluese infektuese dhe radioaktive paraqesin rrezik për sigurinë e njerëzve dhe të mjedisit, rregullon kushtet për transportin e mallrave të rrezikshme në sektorin individual të transportit, obligimet e personave të përfshirë në Transportin e Mallrave të Rrezikshme, kompetencat dhe përgjegjësitë e autoriteteve përkatëse rreth mbikëqyrjes lidhur me zbatimin e këtij ligji.
+Përkufizimet
