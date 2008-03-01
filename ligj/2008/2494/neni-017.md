@@ -1,0 +1,5 @@
+# Neni 17
+17.1. Aktivitetet energjetike ushtrohen në bazë të rregullave që i rregullojnë ato si aktivitete të bazuara në treg ose si shërbime publike.
+17.2. Të gjitha ndërmarrjet energjetike i shërbejnë interesit të konsumatorëve individual duke siguruar furnizim të sigurtë, efikas dhe të qëndrueshëm me energji elektrike, energji për ngrohje dhe gaz natyror kualitativ; duke siguruar shfrytëzimin efikas të burimeve energjetike; njëkohësisht duke respektuar mbrojtjen e ambientit, shëndetit, jetës dhe pronës së popullit të Kosovës.
+17.3. Zyra e Rregullatorit për Energji mund të vendosë detyrime shtesë të shërbimeve publike për ndërmarrjet që ushtrojnë shërbime publike në lidhje me sigurinë dhe qëndrueshmërinë e furnizimit, rregullsinë, kualitetin, çmimin e furnizimit si dhe mbrojtjen e mjedisit. Detyrimet në fjalë duhet të jenë të definuara qartë, të mos jenë diskriminuese dhe të jenë të verifikueshme dhe në përputhshmëri me direktivat e Bashkimit Europian.
+17.4. Çmimet dhe shpenzimet e bëra nga ndërmarrjet energjetike në lidhje me paragrafin (3) të këtij neni njihen si çmime dhe shpenzime të arsyetuara.

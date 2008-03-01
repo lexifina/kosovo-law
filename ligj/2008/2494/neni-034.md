@@ -1,0 +1,2 @@
+# Neni 34
+Personat fizikë ose juridikë që posedojnë ose operojne stabilimente, pajisje, godina, sisteme ose instalime energjetike, për të cilat sipas këtij ligji parashihet inspektimi, obligohen të informojnë menjëherë inspektoratin e energjisë mbi çfarëdo dëmi ose gabimi që mund të shfaqet si pasojë e ndërprerjes së furnizimit të energjisë, ose nëse ekziston rreziku për jetën, shëndetin e njerëzve, trafikut, godinave fqinje apo mjedisit rrethues.

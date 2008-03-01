@@ -1,0 +1,2 @@
+# Neni 13
+Ndërmarrjet e energjisë që furnizojnë me energji elektrike, ngrohje ose gaz, duhet, të paktën një herë në vit, t’i informojnë konsumatorët e tyre për trendet dhe treguesit kryesorë lidhur me konsumin e energjisë. Në këtë kontekst, ata mund të përgatisin programe, që në mënyrë të drejtë nxisin dhe udhëzojnë konsumatorët e tyre për shfrytëzimin efikas të energjisë së shfrytëzuar dhe për arritjen e kursimeve në energji.

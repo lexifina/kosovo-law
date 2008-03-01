@@ -1,0 +1,4 @@
+# Neni 28
+28.1. Personat fizik dhe juridik do të lejojnë zyrtarët që ushtrojnë inspektime në përputhshmëri me këtë ligj, mund të hyjnë dhe të kalojnë në pronën e çfarëdo individi për ushtrimin e aktiviteteve të tyre në lidhje me inspektimin dhe mirëmbajtjen e stabilimenteve energjetike, instalimeve apo sistemeve.
+28.2. Personat fizikë dhe juridikë do t’u lejojnë ndërmarrjeve për energji qasje në pronën e tyre në të cilën gjenden stabilimentet, pajisjet, rrjetat, ose sistemet energjetike, me qëllim të mirëmbajtjes apo kontrollimit të tyre, prerjes së pemëve ose vegjetacionit tjetër që mund të pengoj veprimin e pajisjeve, rrjetave ose sistemit.
+28.3. Personat fizikë dhe juridikë janë të obliguar t’iu lejojnë qasje ndërmarrjeve për energji, për inspektimin e pajisjeve për matje që gjenden në pronën e tyre dhe s’mund të ndalojnë ndërmarrjet për energji të bëjnë ç’kyçjen e pajisjeve për matje ose pajisjeve të tjera në lidhje me sitemin e energjisë.

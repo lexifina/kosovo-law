@@ -1,0 +1,4 @@
+# Neni 23
+23.1. Është i ndaluar përvetësimi, shfrytëzimi dhe zbulimi i sekreteve afariste ose tregtare në kundërshtim me praktikat e drejta tregtare.
+23.2. Përvetësimi i fshehtësive të prodhimit ose tregtimit është në kundërshtim me praktikat e drejta tregtare atëhere kur përvetësimi është bërë përmes përgjimit, infiltrimit ose kushtëzimit, hapjes së korrespondencës (letrave), fotografimit ose hetimit pa lejen paraprake të pronarit të dokumenteve ose materialeve të ruajtura me qëllim të kufizimit të qasjes në to, si dhe përmes mashtrimit ose ofrimit të përfitimeve për personat që kanë qasje në fshehtësitë e tilla për shkak të marrëdhënieve të tyre afariste ose kontraktuese.
+23.3. Shfrytëzimi ose zbulimi i fshehtësive të prodhimit ose të tregtimit është i ndaluar atëherë kur fshehtësitë e tilla janë përvetësuar me kusht që të mos shfrytëzohen ose zbulohen.

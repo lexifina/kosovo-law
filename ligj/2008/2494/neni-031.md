@@ -1,0 +1,2 @@
+# Neni 31
+Kur pronarët ose shfrytëzuesit e pronës bëjnë ndërtime të palejuara, rrethime, prerje ose aktivitete të tjera që janë në kundërshtim me rregullat për zonat e sigurisë, dhe dështojnë përpjekjet për ndalimin e ndërtimeve ose aktiviteteve të tilla ilegale të paautorizuara brenda afateve kohore të vendosure nga ndërmarrjet për energji, ndërmarrja për energji është e autorizuar që të kërkojë nga Komuna ndalimin dhe heqjen e ndërtimeve ilegale ose ndalimin e aktiviteteve, me shpenzime të pronarit ose shfrytëzuesit.

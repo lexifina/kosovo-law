@@ -1,0 +1,3 @@
+# Neni 19
+19.1. Ndërmarrjet energjetike që ushtrojnë aktivitete të energjisë në fushën e energjisë elektrike, ngrohjes dhe gazit natyror janë të obliguara të mbrojnë informatat konfidenciale afariste të përvetësuara gjatë ushtrimit të aktiviteteve dhe detyrave të tyre sipas këtij ligji, përveç nëse me ligje të tjera kërkohet që informatat e tilla të publikohen ose t’u vihen në dispozicion organeve qeveritare.
+19.2. Vendimi se cilat informata do të konsiderohet si konfidenciale do të merret në pajtim me Ligjin për Rregullatorin e Energjisë dhe akteve nen normative të nxjerra nga Zyra e Rregullatorit për Energji.
