@@ -1,0 +1,2 @@
+# Neni 12
+Zyra e Rregullatorit për Energji sipas nevojës mund të emërojë konsulentë apo këshilltarë, që ta ndihmojnë gjatë ushtrimit të detyrave dhe funksioneve në bazë të parimeve të hapura, transparente dhe jo-diskriminuese sic janë përcaktuar në statut. Çdo shpenzim, për një konsulent apo këshilltar të angazhuar në bazë të këtij neni, bëhet në baza konkurruese. Këto shpenzime janë pjesë e shpenzimeve të përgjithshme të Zyrës të Rregullatorit për Energji.

@@ -1,0 +1,4 @@
+# Neni 20
+20.1. Me qëllim të përballimit të shpenzimeve të saj, Zyra e Rregullatorit për Energji do të hapë llogarinë bankare dhe aty depoziton të gjitha të ardhurat e mbledhura në pajtim me nenin 19 të këtij ligji.
+20.2. Të gjitha të hyrat e mbledhura nga Zyra e Rregullatorit për Energji depozitohen sipas rregullave të përcaktuara në Rregulloren e UNMIK-ut Nr. 2003/17 mbi ’’Ligjin për Menaxhimin e Financave dhe Përgjegjësive” dhe ligjet në fuqi që rregullojnë kontabilitetin në Kosovë.
+20.3. Të gjitha fondet suficitare të mbledhura nga Zyra e Rregullatorit për Energji, do të mbesin në xhirollogarinë e saj bankare dhe mund të përdoren për shpenzimet e bëra gjatë viteve vijuese, me përjashtim të shpenzimeve për rroga, kompenzimeve në punë, apo përfitimeve të tjera individuale - financiare për anëtarët e Bordit, menaxherët dhe stafin e Zyrës së Rregullatorit për Energji.
