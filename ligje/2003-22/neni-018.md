@@ -1,0 +1,2 @@
+# Neni 18
+Inspektorati Sanitar Komunal jep pëlqimin sanitar për lokacionet e propozuara të objekteve, të prodhimit dhe qarkullimit të artikujve ushqimore, objekteve për furnizim me ujë të pijshëm, objekteve për eliminimin dhe deponimin e mbeturinave, objektet kulturore, edukativo- arsimore, objekteve sociale, objekteve të kulturës fizike, varrezat dhe krematoriumet si dhe objekte tjera të cilat mund të rrezikojnë shëndetin e popullatës.

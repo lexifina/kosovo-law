@@ -1,0 +1,2 @@
+# Section 18
+The Sanitary Municipal Inspectorate shall issue the sanitary approval for the proposed locations for facilities of food production and distribution, facilities for supply of drinking water, facilities for removal and storage of waste, facilities used for cultural, educational, social and physical education purposes, graveyards and crematoriums as well as for other facilities that may endanger the health of the population.
