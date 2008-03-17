@@ -1,0 +1,5 @@
+# Neni 7
+7.1 Makineritë dhe komponentët e sigurisë që kanë shenjën e konformitetit sipas nenin 12 të këtij Udhëzimi dhe deklaratën e konformitetit sipas pikës A për makineri dhe pikës C për komponentët e sigurisë të shtojcës II, të këtij udhëzimi, presupozohet së i plotësojnë dispozitat e këtij Udhëzimi.
+7.2 Nëse mungesë të Standardeve të harmonizuara Evropiane, Agjencia e Standardizimit të Kosovës (ASK) ndërmerr masat e nevojshme me qëllim të sjelljes së Standardeve Kosovare dhe specifikimet të cilat konsiderohen të rëndësishme dhe të shfrytëzueshme për të plotësimin e kërkesave e themelore për shëndet dhe siguri sipas Shtojcës I të këtij Udhëzimi.
+7.3 Makineritë dhe/ose komponentët e sigurisë të cilat janë në pajtim me Standardet e Kosovës, numri referues i të cilat është paraqitur në “Gazetën Zyrtare” nga Ministria kompetente, supozohet së i plotësojnë kërkesat e themelore sipas Shtojcës I të këtij Udhëzimi.
+7.4 Regjistri i standardeve të Kosovës nga paragrafi 7.3 i këtij neni paraqiten nga Ministria në “Gazetën Zyrtare”.

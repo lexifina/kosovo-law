@@ -1,0 +1,7 @@
+# Neni 9
+9.1 Kur trupi inspektues kompetent konstatohet së makineritë të cilat kanë shenjën e konformitetit dhe komponentët e sigurisë të cilat e kanë deklaratën e konformitetit që përdorën me qëllime për cilat janë të destinuar, mund të rrezikojnë sigurinë e personave, kafshët shtëpiake ose pasurive, ndërrmerren masa e nevojshme për të tërheqjen e atyre makineri dhe/ose komponentët e sigurisë nga tregu, ndalon dhe kufizon plasimin e tyre në treg dhe në përdorim, për këtë duhet të njoftohet Ministria kompetente dhe duke dhënë arsyet për masat e ndërmarrjen, e posaçërisht duhet të arsyetohet moskonformitetit për:
+a) mos përmbushjen e kërkesave të themelore sipas Shtojcës I të këtij Udhëzimi, b) zbatimin jo të rregullt të standardeve nga neni 7 paragrafi 7.3 e këtij Udhëzimi c) mungesën e standardeve nga neni 7 paragrafi 7.3 e këtij Udhëzimi.
+Faqe 5
+9.2 Ministria informon subjekte ndërkombëtare për masat e ndër marruar në pajtim me neni 15 të “ Ligjit për Kërkesat Teknike Për Produktet dhe Vlerësimin e Konformitetit”.
+9.3 Kur konstatohet së makineritë të cilat shenjën e konformitetit ose komponentët e sigurisë të cilat e kanë deklaratën e konformitetit nuk plotësojnë kërkesat e këtij Udhëzimi, trupi inspektues kompetente do të merr masa kundër personit (prodhuesi apo përfaqësuesi i tij i autorizuar dhe importuesi) i cili në mënyrë jo të bazuar ka vendosur shenjën e konformiteti dhe kanë dhënë deklaratën e konformitetit.
+9.4 Ministria informon të gjitha organet publike për masat e ndër marruar dhe ato i publikon në “Gazetën Zyrtare”.

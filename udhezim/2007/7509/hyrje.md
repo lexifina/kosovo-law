@@ -1,0 +1,11 @@
+Faqe 1
+UNMIK IPVQ
+INSTITUCIONET E PËRKOHSHME TË VETËQEVERISJES PRIVREMENE INSTITUCIJE SAMOUPRAVLANJA PROVISIONAL INSTITUTIONS OF SELF-GOVERNMENT
+QEVERIA E KOSOVËS / MINISTRIA E TREGTISË DHE INDUSTRISË VLADA KOSOVA / MINISTARSTVO TRGOVINE I INDUSTRIJE GOVERNMENT OF KOSOVO / MINISTRY OF TRADE AND INDUSTRY
+Në bazë të Rregullores së UNMIK-ut Nr. 2001/19, “Për Degën e Ekzekutivit të Institucioneve të Përkohshme të Vetëqeverisjes në Kosovë”, neni 1 paragrafi 1.3 pika (d), si dhe Ligjit Nr.02/L-20 “Për Kërkesat Teknike të Produkteve dhe Vlerësimin e Konformitetit’’,neni 7 paragrafi 2,Ministri i Tregtisë dhe Industrisë, nxjerr :
+UDHËZIM ADMINISTRATIV Nr. 2007/16 PËR
+RREGULLAT TEKNIKE PËR MAKINERITË DHE KOMPONENTET E SIGURISË
+Kreu I
+Dispozitat e Përgjithshme
+FUSHËMBULIMI PLASIMI NË TREG DHE LËVIZJA E LIRË
+Qëllimi

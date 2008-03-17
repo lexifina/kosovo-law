@@ -1,0 +1,3 @@
+# Neni 8
+8.1 Kur konstatohet së standardet e Kosovës nga neni 7. paragrafi 7.3. të këtij Udhëzimi nuk i përmbush plotësisht kërkesat e themelore sipas Shtojcës I të këtij Udhëzimi, ato standarde do të çregjistrohen nga regjistri i standardeve në pajtim me nenin 5 paragrafi 5.8 të “ Ligjit për Kërkesat Teknike Për Produktet dhe Vlerësimin e Konformitetit”dhe të zbatohen procedurat në pajtim me nenit 15 i po këtij ligji.
+8.2 Ministria informon organet publike dhe palët e interesuara për çdo ndryshim në standardet lidhur me makineritë dhe/ose komponentët e tyre të sigurisë dhe i paraqet ato në “Gazetën Zyrtare” .

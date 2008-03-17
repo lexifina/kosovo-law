@@ -1,0 +1,3 @@
+# Neni 13
+13.1 Kur trupi kompetent inspektues konstaton së shenja e konformitetit është e vendosur në mënyrë të parregullt, prodhuesi ose përfaqësuesi i autorizuar i tij i regjistruar në Kosovë, respektivisht importuesi detyrohet të përshtatin prodhimin e tyre me dispozitat të cilat lidhen me vendosjen e shenjës së konformitetit.
+13.2 Kur prodhuesi ose përfaqësuesi i autorizuar i tij i regjistruar në Kosovë respektivisht importuesi nuk vepron në mënyrën e përshkruar me paragrafin 13.1 te këtij neni, trupi inspektues kompetent duhet të ndërmerr masat e përshtatshme për të kufizuar ose pengoj plasimin në treg te produkteve të tilla apo duhet të siguroj që produktet e tilla të largohen nga tregu në pajtim me procedurat e përshkruara në neni 9 të këtij udhëzimi.
