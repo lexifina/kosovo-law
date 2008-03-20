@@ -1,0 +1,3 @@
+# Neni 7
+7.1 Kripa eshte prodhim ne forme te kristalt e eila duhet ti plotesoj keto kushte:
+a) sasia e NaCl te mos jete me pak se 98% ne materien e thate, duke perjashtuar aditivet dhe substancat nutritive, b) te mos permbaj me shume se 0.5 % lageshti, perveq ne kripen e detit e cila mood te permbaj deri 7% te lageshtise, e) te kete ngjyre te bardhe, pa ere, dhe te mos permbaj perberes te cilet jane te ndaluar, d) te mos permbaj me teper se 0.05% perberes mineral te patretshem ne acid klorhidrik, e) duhet te jete e jodizuar me kaliumjodat (KJ03), ashtu qe te permbaj jo me pak se 30 mg jod per kg kripe, por edhe jo me shume se 40 mglkg.
