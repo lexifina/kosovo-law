@@ -1,0 +1,4 @@
+# Neni 19
+Në aspektin teknik të qarkullimit, mbikëqyrjes teknike të rrugës publike, pjesës së rrugës dhe objekteve në rrugë posaçërisht vërtetohet se:
+i. Janë arritur cilësi të rrugëve të cilat mundësojnë qarkullimin me shpejtësi, ngarkesa dhe dendësi të paraparë të komunikacionit;
+ii. Janë ekzekutuar në mënyrë të drejt udhëkryqet me hekurudha dhe rrugë tjera si dhe trekëndëshi i dukshmërisë; iii. Ekziston profili i lirë dhe dukshmëri e nevojshme në rrugë; iv. Janë vendosur shenjat e nevojshme përkatëse të komunikacionit, shenjat e rrugëve dhe udhërrëfyesit, ndërsa në vende të rrezikshme janë zbatuar masat e sigurisë; v. Ekzistojnë në rrugët ndërkombëtare, autostrada dhe rrugë tjera me dendësi të mëdha të komunikacionit vende të rregulluara për ndalim të makinave jashtë linjave për komunikacion, vendqëndrime të zgjeruara, pushimore dhe hapësira tjera për nevoja të qarkullimit.
