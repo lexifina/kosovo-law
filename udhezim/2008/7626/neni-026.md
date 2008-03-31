@@ -1,0 +1,3 @@
+# Neni 26
+(1) Sekretari i Përhershëm do të autorizoj personin juridik apo Komisionin e Ekspertëve që përsëri të bëj pranimin teknik vetëm në pikëpamje të punimeve të kryera, mënjanimit të metave në rrugën publike, në pjesë rruge apo objekt rrugor.
+(2) Pranimin teknik, nga paragrafi 1 i këtij neni e bën sipas rregullit personi juridik për pranimin teknik varësisht nga vëllimi dhe rëndësia e punimeve të kryera, përkatësisht lloji i objekteve në të cilat është bërë mënjanimi i të metave. Sipas nevojës mund të caktohet që pranimi teknik i mëvonshëm të punimeve të kryera në mënjanimin e të metave në rrugën publike në pjesë rruge apo objekt rrugor.

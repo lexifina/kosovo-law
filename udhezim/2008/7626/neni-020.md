@@ -1,0 +1,3 @@
+# Neni 20
+(1) Subjekti Juridik i zgjedhur për pranim teknik ka për detyrë të mbajë procesverbal për punën e komisionit të ekspertëve për pranim teknik. Në procesverbal për punën e komisionit për pranimin teknik duhet të shënohen: të gjithë emrat e anëtarëve të komisionit të zgjeruar për pranim teknik, koha, vendi, rrjedha dhe mënyra e punës së Subjektit Juridik dhe komisionit, lloji i dokumentacioni që i është lënë në dispozicion Subjektit Juridik dhe konstatimet e tij.
+(2) Procesverbalin për punën e komisionit të subjektit Juridik e nënshkruajnë anëtarët e komisionit, përfaqësuesit e investuesit dhe të kryerësve të punimeve dhe personat e tjerë, të cilët kanë qenë të pranishëm në punën e komisionit të subjektit Juridik.

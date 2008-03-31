@@ -1,0 +1,3 @@
+# Neni 18
+Në aspektin teknik të ndërtimit me kontroll teknik të rrugës publike, pjesës së rrugës dhe objekteve në rrugë vërtetohet:
+i. Stabiliteti i konstruksionit të rrugës, urave, viadukteve dhe objekteve tjera në rrugë; ii. Aftësia bartëse e rrugës dhe objekteve në rrugë në aspektin e ngarkesës boshtore; iii. Aplikimi i elementeve teknike dhe normat mbi ndërtimin e rrugëve; iv. Aplikimi i masave teknike për mbrojtjen e rrugës; v. Rregullsia teknike e konstruksionit të rrugës dhe objekteve në rrugë; vi. Kryerja e ngarkesave provuese dhe shqyrtimet tjera në ura, viadukte mbikalime, mureve mbrojtëse dhe objekteve tjera të njëjta që të vërtetohet reagimi i tyre ndaj ndikimeve që do të provokohen nga automjete që qarkullojnë mbi ato objekte.

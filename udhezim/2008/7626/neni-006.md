@@ -1,0 +1,2 @@
+# Neni 6
+Personi juridik apo Komisioni i Ekspertëve e bënë vlerësimin dhe verifikimin e detajuar të punëve në realizim e sipër nga kontraktuesi për kryerjen e punëve. Për punët pozicionet e përfunduara personi juridik apo Komisioni i Ekspertëve është i obliguar t'i paraqes raport me shkrim, Departamentit të Infrastrukturës Rrugore dhe Drejtorisë së Rrugëve, një kopje e raportit i dërgohet Ministrit dhe Sekretarit të Përhershëm.
