@@ -1,0 +1,4 @@
+# Neni 41
+41.1. Në kryerjen e mbikëqyrjes, inspektori për parandalim nga zjarri i Drejtorisë Komunale dhe inspektori i Departamentit ka të drejtë të inspektojë të gjitha hapësirat e mbyllura dhe të hapura, stabilimentet dhe pajisjet, si dhe të ndërmarrë edhe veprime të tjera për përcaktimin e zbatimit të masave për mbrojtje nga zjarri (në kuptim të nenit 38 paragrafi 38.1 dhe 38.2).
+41.2. Në kryerjen e mbikëqyrjes, inspektorët komunalë dhe inspektori i Departamentit mund të hyjnë në shtëpi në kërkim të banorëve vetëm në rast mënjanimi të rrezikut serioz për jetë dhe shëndet të njerëzve apo pasurisë së përmasave të mëdha.
+41.3. Pronarët, shfrytëzuesit e objekteve, pjesëve të objekteve dhe hapësirave janë të obliguar t’u mundësojnë kryerjen e punëve inspektorëve, t’u japin në shikim dokumentacionin, informatat dhe shënimet e nevojshme.

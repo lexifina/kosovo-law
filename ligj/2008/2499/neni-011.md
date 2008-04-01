@@ -1,0 +1,2 @@
+# Neni 11
+Për largimin e shkaktarëve, të cilët ndikojnë në përhapjen e zjarrit ose lehtësojnë zgjerimin e tij, Shoqata për sigurimin është e obliguar të përcjellë dhe të analizojë shkaktarët e zjarreve, varësisht nga lloji i sigurimit, respektivisht me lidhjen e kontratës me të siguruarit, të parashikojë masat për largimin e atyre shkaktarëve dhe gjatë kalimit të afatit të sigurimit të kontrollojë edhe zbatimin e tyre.

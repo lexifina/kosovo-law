@@ -1,0 +1,5 @@
+# Neni 14
+14.1. Personat juridikë të regjistruar për projektime janë të obliguar që për objekte, në të cilat kërkohen kushte të veçanta ndërtimi, masat e mbrojtjes nga zjarri, të parashikuara në projektin kryesor, të tregohen në mënyrë grafike të përllogaritura dhe tekstualisht të shpjeguara, që të mund të vlerësohet parashikimi, respektivisht masat e mbrojtjes nga zjarri.
+14.2. Pjesë përbërëse e projektit kryesor nga paragrafi 14.1 i këtij neni, për dhënie të lejes ndërtimore, paraqet një dëshmi rreth masave të parapara të mbrojtjes nga zjarri. Në shpjegimin teorik të sqaruar duhet të përmenden dispozitat, respektivisht të praktikës teknike, të cilat bazohen në mbrojtjen nga zjarri.
+14.3. Personi juridik i regjistruar për projektime, që ka punuar projektin kryesor, do të bëjë kontrollimin e të njëjtit, me qëllim të vërtetimit me rregulloren e brendshme dhe lëshon lejen, me të cilën vërtetohet se masat e mbrojtjes nga zjarri janë parashikuar në projektin kryesor dhe janë në pajtueshmëri me ligjin, kushtet teknike dhe normat.
+14.4. Rregullimi nga paragrafi 14.3 i këtij neni është pjesë përbërëse e projektit kryesor.

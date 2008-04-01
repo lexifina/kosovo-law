@@ -1,0 +1,4 @@
+# Neni 4
+Përgjegjësitë e veçanta
+4.1. Pronarët, përkatësisht shfrytëzuesit e objekteve dhe tё hapësirave ndërtimore, si dhe personat e tjerë fizik, janë të obliguar të marrin masa për mbrojtjen nga zjarri, që janë paraparë me këtë ligj ose me akte tё tjera nënligjore të nxjerra në bazë të këtij ligji, me planet për mbrojtjen kundër zjarrit si dhe vendimeve të organeve të administratës qendrore, publike dhe tё organeve komunale .
+4.2. Personat juridikë, organet profesionale publike, organet e administratës publike, ato të administratës lokale, të bashkësive lokale dhe njësitë e zjarrfikësve janë të obliguar të ndërmarrin veprimet e përcaktuara me dispozitat e këtij ligji dhe të akteve nënligjore të nxjerra në bazë të këtij ligji me mjetet e tyre, me mjetet e transportit dhe me mjete tё tjera teknike, me qëllim që të shuajnë zjarrin, të shpëtojnë jetën e njerëzve, shtazëve, pasurinë dhe ambientin e rrezikuar nga zjarri.

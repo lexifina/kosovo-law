@@ -1,0 +1,4 @@
+# Neni 7
+Përgjegjësitë e subjekteve private
+7.1. Lidhur me përcaktimin e organizimit adekuat dhe zbatimin e masave të mbrojtjes nga zjarri, objektet, pjesët e objekteve dhe hapësirat radhiten në katër grupe të rrezikshmërisë nga zjarri, në varshmëri prej procesit teknologjik që zhvillohet në to, lloji i materialit që prodhohet, përpunohet apo deponohet, lloji i përbërjes së materieve në ndërtimtari dhe rëndësia e tyre.
+7.2. Ministria, me udhëzim administrativ, përcakton kriteret për kategorizimin dhe përcaktimin e objekteve, pjesëve të objekteve dhe hapësirave në kategoritë përkatëse të rrezikshmërisë nga zjarri, si dhe numrin minimal të zjarrfikësve në shërbim të zjarrfikjes, të ngarkuar me punët e mbrojtjes nga zjarri për objektet e radhitura në grupin e parë dhe të dytë të rrezikshmërisë nga zjarri.

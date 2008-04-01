@@ -1,0 +1,4 @@
+# Neni 58
+58.1. Komunat janë të obliguara ta harmonizojnë planin e mbrojtjes nga zjarri, neni 5 paragrafi 5.2 në bazë të dispozitave të këtij Ligji në afatin prej 6 muajsh nga dita e hyrjes në fuqi.
+58.2. Personat juridikë dhe shërbimet profesionale janë të obliguara të harmonizojnë rregulloret pёr mbrojtje nga zjarri (neni 9) me dispozitat e këtij Ligji në afatin kohor 6 muaj nga dita e hyrjes në fuqi në zbatueshmëri me dispozitat nga neni 9 paragrafi 9.2 të këtij Ligji.
+58.3. Organizatat e autorizuara nga neni 20 paragrafi 20.1 dhe 20.2, neni 21 paragrafi 21.3 dhe neni 22 paragrafi 22.5 të këtij Ligji janë të obliguar që në afat prej 6 muajve, nga dita e nxjerrjes të udhëzimeve administrative, të cilat rregullojnë kushtet për kryerjen e punëve të inspektimit, të harmonizojnë veprimtarinë e tyre me dispozitat e atyre udhëzimeve.
