@@ -1,0 +1,6 @@
+# Neni 8
+Këshilli për vëzhgimin e Marrëveshjeve Financiare Ndërkombëtare
+8.1. Në propozim të Qeverisë, Kuvendi themelon Këshillin për vëzhgim, në emër të IPVQ-së, zbatimin e të gjitha Marrëveshjeve Financiare Ndërkombëtare, duke përfshirë edhe shfrytëzimin efikas, transparent dhe adekuat të të gjitha mjeteve që mbulohen ose që janë pranuar sipas marrëveshjeve në fjalë.
+8.2. Këshilli për vëzhgim përbëhet nga një jurist me përvojë të konsiderueshme në marrëveshjet financiare ndërkombëtare apo komerciale, një revizor dhe një profesionist të prokurimit.
+8.3. Këshilli i vëzhgimit është i autorizuar për sigurimin dhe kopjimin e cilësdo Marrëveshje Financiare Ndërkombëtare dhe të gjitha dokumenteve që kanë të bëjnë me të ardhurat e mbuluara ose të pranuara në bazë të marrëveshjes në fjalë.
+8.4. Brenda tridhjetë (30) ditëve nga përfundimi i çdo tremujori kalendarik, Këshilli për vëzhgim do të përgatis dhe dorëzojë Qeverisë dhe Kuvendit raporte të rregullta mbi zbatimin e Marrëveshjeve Financiare Ndërkombëtare dhe shfrytëzimin e të gjitha të ardhurave që mbulohen ose që janë pranuar sipas marrëveshjeve në fjalë. Këshilli për vëzhgim është përgjegjës që menjëherë t’i raportojë Kuvendit dhe Qeverisë mbi çfarëdo aktivitete të parregullta në lidhje me marrëveshjet ose të ardhurat në fjalë.
