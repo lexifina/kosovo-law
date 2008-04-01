@@ -1,0 +1,3 @@
+# Article 50
+With the amount of 100 up to 400 euro for violation shall be fined the responsible person of the administrative body respectively the organization which deals with public authorizations in cases when:
+a). does not have the waste management plan. b). classifies waste without obtainment of the certificate on the characteristics of the waste. c). determines characteristics of the waste without authorization. d). issues permits and consents in cases that the filing documentation is not completed. e). does not inform public. f). does not offer information from data base in order to complete waste records. g). does not keep and maintain central registers on waste.
