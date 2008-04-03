@@ -1,0 +1,2 @@
+# Neni 14
+Për përligjjen e ndërtimeve të bëra pa leje ndërtimi mbi cilëndo bazë juridike, shkallët e përshkruara për llojin përkatës të objektit investiv, sipas kësaj rregulloreje, do të rriten për 100%. Kjo shkallë e rritjes do të bëhet në bazë të ligjit të zbatueshëm në momentin e llogaritjes së këtij lloji të kompensimit, përveç nëse shkalla e përshkruar në par. 1 të kësaj dispozite parashihet ndryshe me ndonjë ligj tjetër.

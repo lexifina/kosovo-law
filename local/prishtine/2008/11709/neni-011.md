@@ -1,0 +1,2 @@
+# Neni 11
+Kompensimi për ndërrimin e destinimit të përdorimit të hapësirës banesore në hapësirë afariste, në objekte individuale të banimit, paguhet vetëm ndryshimi në mes shkallës së paraparë me pikën 1 dhe 9 të par. 1-a të nenit 10 të kësaj rregulloreje. Pagesa e kompensimit, sipas par. 1 të këtij neni, bëhet vetëm kur investuesi ka lejen paraprake ndërtimore për hapësirën të cilës i ndërrohet destinimi dhe provën mbi pagesën e kompensimit për objektin sipas destinimit ekzistues - banesor.
