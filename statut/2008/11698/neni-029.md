@@ -1,0 +1,3 @@
+# Neni 29
+29.1 Siç parashihet me dispozitat e nenit 11, pika 11.1 të “Rregullores”, Kuvendi i Komunës e miraton Statutin. Kuvendi i Komunës mund ta ndryshojë Statutin nëse konsideron se një ndryshim i tillë është i nevojshëm. Çdo vendim për miratimin, apo për ndryshimin e Statutit, duhet të miratohet me 2/3 e këshilltarëve të pranishëm.
+29.2 Kuvendi i Komunës e miraton Rregulloren e punës dhe mund t’a ndryshojë atë nëse konsideron se një gjë e tillë është e nevojshme. Rregullorja e punës duhet të sigurojë udhëheqjen dhe kontrollin, duke përfshirë kontrollin efikas financiar të administratës së Komunës. Vendimi për miratimin apo ndryshimin e Rregullores së punës, merret nga shumica e anëtarëve të pranishëm.

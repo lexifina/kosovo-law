@@ -1,0 +1,7 @@
+# Neni 31
+Procedurat për hartimin, ndryshimin apo anulimin e rregulloreve komunale duhen të jenë si vijon:
+a) Shefi i Drejtorisë së Administratës dhe Personelit, në pajtim me Statutin, propozon hartimin e rregulloreve komunale lidhur me çështjet në suaza të autorizimeve komunale, siç është paraparë me “Rregullore”, dhe ia dërgon për shqyrtim kryetarit të Komunës, si kryesues i Komitetit për Politikë dhe Financa.
+b) Miratimin e një rregulloreje komunale mund ta propozojnë së paku shtatë anëtarë të Kuvendit. Propozimet e tilla duhet adresuar kryetarit të Komunës, i cili duhet ta pëfshijë si pikë të rendit të ditës për shqyrtim në mbledhjet e radhës të komiteteve përkatëse komunale. Pas shqyrtimit nga komitetet përkatëse komunale, kryesuesi duhet t’i përcjellë propozimet Komitetit për Politikë dhe Financa, i cili do të shqyrtojë dhe propozojë atë, me apo pa ndryshime, për t’u miratuar nga Kuvendi i Komunës.
+c) Kuvendi i Komunës do ta shqyrtojë projektin e rregullores së propozuar dhe, me ose pa plotësime, do t’a miratojë atë për diskutim publik në pajtim me rregullat e punës së Kuvendit.
+d) Të gjitha vërejtjet e pranuara nga opinioni publik duhet të shqyrtohen nga komisioni i caktuar nga propozuesi i rregullores. Komisioni duhet të përgatisë një raport me vërejtjet e pranuara, i cili duhet t’i dorëzohet për miratim Komitetit për Politikë dhe Financa dhe Kuvendit të Komunës.
+e) Rregullorja e Komunës, e miratuar nga Kuvendi i Komunës, do të publikohet në tabelën e shpalljeve në ndërtesat e Kuvendit të Komunës, si dhe në web-faqen e Komunës.
