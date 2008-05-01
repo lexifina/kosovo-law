@@ -1,0 +1,4 @@
+# Article 88
+88.1. Budget of Kosova provides means for administrative and professional finance, supervision, and other safety duties concerning natural and other disasters that are within competences of Government.
+88.2. The government and municipalities, in consistency with its competences, provide financial means to cover expenses during accomplishment of protection, rescue and aid, as well as protection of health, people’s lives, animals, property and environment.
+88.3. The enterprises, and other institutions, that according to this Law should organize protection and rescue against natural and other disasters and undertake other measures for safety against natural and 25 other disasters, guarantee means concerning workers’ salaries during their training, as well as means for preparation and other training expenses.

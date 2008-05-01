@@ -1,0 +1,4 @@
+# Article 54
+54.1. Units, services and other operative components of non government associations and organizations accomplish duties of protection, rescue and aid, respectively public services based on the decision of competent authority of local community or municipal and government authority, if it meets the foreseen conditions.
+54.2. Competent authority decides for:
+i. Composition, capacity and the way of performing duties, respectively public services; ii. The beginning to accomplish duties in emergency cases; iii. Financial means, which are provided by municipality, respectively by government in accomplishing duties in emergency cases; 16 iv. Financial means for payment of compensation in accordance with this Law for citizens, who are affected by the intervention and professional illness; v. Supervision of duty accomplishment in emergency cases.

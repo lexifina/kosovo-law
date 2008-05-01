@@ -1,0 +1,4 @@
+# Article 42
+42.1. Environmental, urban planning, construction and other technical measures are undertaken during planning of living environment, during construction of buildings aiming the prevention and reduction of natural and other disasters as well as to enable protection, rescue and aid.
+42.2. Projects for construction of buildings, designated for collective use, supply of the population, public transport, as well as disposal, production and use of dangerous materials, oil and its derivatives, energy gases should contain security elaborates against natural and other disasters.
+42.3. Government with Administrative Instruction determines the type of objects pursuant to paragraph 2 of this Article and environmental, urban and constructive and other technical measures of protection against natural and other disasters.

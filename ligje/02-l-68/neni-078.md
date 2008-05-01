@@ -1,0 +1,7 @@
+# Neni 78
+78.1. Mbikëqyrjen e realizimit të dispozitave të këtij ligji dhe të dispozitave të tjera, me të cilat rregullohet mbrojtja nga fatkeqësitë natyrore dhe nga fatkeqësitë e tjera, i bën Inspektorati i Kosovës për mbrojtje dhe shpëtim nga fatkeqësitë natyrore dhe fatkeqësitë e tjera (në tekstin e mëtejmë: Inspektorati).
+78.2. Inspektorati funksionon si njësi në DME, dhe për funksionimin e tij, kompetencat dhe detyrat do të nxirret udhëzim administrativ nga Qeveria.
+78.3. Inspektorët gjatë realizimit të inspektimit verifikojnë:
+i. ndërmarrjen e masave për parandalimin dhe zvogëlimin e pasojave nga fatkeqësitë natyrore dhe fatkeqësitë e tjera, ii. gjendjen e planeve dhe përgatitjeve të tjera për mbrojtje, shpëtim dhe ndihmë, iii. realizimin e detyrave të vështrimit, lajmërimit dhe alarmimit, iv. aftësimin, kompletimin dhe përgatitjen e njësive dhe të shërbimeve për mbrojtje dhe shpëtim nga fatkeqësitë natyrore dhe fatkeqësitë e tjera, si dhe të forcave të tjera për mbrojtje, shpëtim dhe ndihmë, v. realizimin e programit të aftësimit për mbrojtje, shpëtim dhe ndihmë, 23 vi. kryerjen e punëve administrative dhe profesionale në fushën e mbrojtjes nga fatkeqësitë natyrore dhe nga fatkeqësitë e tjera.
+78.4. Inspektorati për realizimin e inspektimit, nga paragrafi 2 i këtij neni, mund të përcaktojë verifikimin praktik.
+78.5. Nga paragrafi 3 i këtij neni, në territorin e komunës, detyrat i kryejnë edhe inspektorët komunalë për mbrojtje nga fatkeqësitë natyrore dhe fatkeqësitë e tjera.

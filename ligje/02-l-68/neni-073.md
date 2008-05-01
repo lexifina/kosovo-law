@@ -1,0 +1,3 @@
+# Neni 73
+Kuvendi i Komunës nga lëmi i mbrojtjes dhe shpëtimit nga fatkeqësitë natyrore dhe nga fatkeqësitë e tjera:
+i. kujdeset për realizimin e përgatitjeve për mbrojtje nga fatkeqësitë natyrore dhe nga fatkeqësitë e tjera, ii. kujdeset për ndërmarrjen e masave për pengimin dhe zvogëlimin e pasojave nga fatkeqësitë natyrore dhe nga fatkeqësitë e tjera, iii. udhëheq mbrojtjen, shpëtimin dhe ndihmën, si dhe eliminimin e pasojave nga fatkeqësitë natyrore dhe nga fatkeqësitë e tjera, 21 iv. emëron komandantin dhe themelon Komitetin për Mbrojtje dhe Shpëtim nga fatkeqësitë natyrore dhe nga fatkeqësitë e tjera,

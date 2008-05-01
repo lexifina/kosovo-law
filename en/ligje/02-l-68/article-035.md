@@ -1,0 +1,4 @@
+# Article 35
+35.1. The Governmental program for protection and rescue from natural and other disasters determines the aim, policy and protection and rescue strategy from natural and other disasters, for at least 5 years.
+35.2. The Governmental program contains as following:
+i. Risk assessment and determination, ii. Safety situation in regard to the natural and other disasters, iii. Determination of protection scale against specific natural and other disasters, iv. Basic aims, protection duties and the ways for achievement, v. Resume of preventive measures, vi. Directions of science politics, investigation and development vii. Directions for organization of forces and means for protection, rescue and aid, viii. Directions for development of educational programs, ix. Analysis and pre-account expenses.

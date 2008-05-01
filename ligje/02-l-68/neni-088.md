@@ -1,0 +1,4 @@
+# Neni 88
+88.1. Nga buxheti i Kosovës sigurohen mjetet për financim administrativ, profesional, mbikëqyrës dhe detyra të tjera të sigurisë nga fatkeqësitë natyrore dhe nga fatkeqësitë e tjera, të cilat janë në kompetencë të Qeverisë.
+88.2. Qeveria dhe komunat, në përputhje me kompetencat e veta, i sigurojnë mjetet financiare për mbulesën e shpenzimeve për kryerjen e detyrave të mbrojtjes, shpëtimit dhe të ndihmës për mbrojtjen e shëndetit dhe të jetës së njerëzve, shtazëve, pasurisë dhe mjedisit.
+88.3. Ndërmarrjet dhe institucionet e tjera, që sipas këtij ligji duhet të organizojnë mbrojtje dhe shpëtim nga fatkeqësitë natyrore dhe nga fatkeqësitë e tjera dhe ndërmarrin edhe masa të tjera për mbrojtjen nga fatkeqësitë natyrore dhe nga fatkeqësitë e tjera, garantojnë mjetet për paga të punëtorëve në kohën e aftësimit të tyre, si dhe mjete për përgatitjen dhe shpenzime të tjera të trajnimit.

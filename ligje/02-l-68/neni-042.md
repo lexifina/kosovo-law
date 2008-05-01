@@ -1,0 +1,4 @@
+# Neni 42
+42.1. Masat hapësinore, urbanistike, ndërtimore dhe masat e tjera teknike, ndërmerren gjatë planifikimit dhe rregullimit të hapësirës dhe vendbanimeve, gjatë ndërtimit të objekteve me qëllim që të pengohet, respektivisht të zvogëlohet ndikimi negativ i fatkeqësive natyrore dhe fatkeqësive të tjera, si dhe të mundësohen mbrojtja, shpëtimi dhe ndihma.
+42.2. Projektet për ndërtimin e objekteve, të destinuara për shfrytëzim kolektiv, furnizimin e qytetarëve, të transportit publik, si dhe deponimin, prodhimin, përdorimin e materieve të rrezikshme, të naftës dhe të derivateve të saj, si dhe të gazrave energjetike, duhet të përmbajnë elaborate të sigurimit nga fatkeqësitë natyrore dhe nga fatkeqësitë e tjera.
+42.3. Qeveria, me udhëzim administrativ, përcakton llojin e objekteve nga alineja 2 e këtij neni, si dhe masat hapësinore, urbanistike, ndërtimore dhe masat e tjera teknike të mbrojtjes nga fatkeqësitë natyrore dhe nga fatkeqësitë e tjera.
