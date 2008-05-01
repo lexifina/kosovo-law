@@ -1,0 +1,9 @@
+# Neni 3
+Parimet
+Të gjitha Njësitë e Auditimi të Brendshëm dhe Auditorët e Brendshëm duhet të bëjnë çuditet e brendshme sipas parimeve në vijim:
+(a) Ligjshmëri.- Secila Njësi e Auditimit të Brendshëm dhe secili Auditor i Brendshëm duhet të ushtrojë auditivet në pajtim të plotë me ligjin, rregullat, standardet dhe praktikat e zbatueshme, duke përfshirë, por pa u kufizuar në ato të parapara në nenin 9.8 të këtij ligji.
+(b) Integriteti - Secila Njësi e Auditimit të Brendshëm dhe secili Auditor i Brendshëm duhet të ushtrojë auditivet në mënyrë profesionale dhe sipas të gjitha kushteve të zbatueshme ligjore. Auditorët e Brendshëm duhet që të evitojnë konfliktin e interesave dhe nuk duhet të lejojnë që çështjet personale të çfarëdo lloji të ndikojnë në auditivin e brendshëm që ai/ajo është duke ushtruar.
+(c) Paanësia - Secila Njësi e Auditimit të Brendshëm dhe secili Auditor i Brendshëm duhet të veprojnë me nivelin më të lartë të profesionalizmit gjatë mbledhjes, vlerësimit dhe transmetimit të të dhënave mbi aktivitetin ose procesin që është nën auditim. Ata duhet të bëjnë vlerësime të balancuara të te gjitha rrethanave përkatëse dhe nuk duhet të lejojnë që aktiviteti, qëndrimet ose përfundimet e tyre të ndikohen në çfarëdo mënyre nga interesat e tyre personale apo interesat e ndonjë personi tjetër.
+(d) Fshehtësia - Secila Njësi e Auditimit të Brendshëm dhe secili Auditor i Brendshëm duhet të respektojnë vlerat dhe pronësinë e informatave që i pranojnë dhe nuk i zbulojnë informatat para cilitdo person, përveç nëse kërkohet në mënyrë specifike sipas këtij ligji.
+(e) Kompetenca - Secila Njësi e Auditimit të Brendshëm dhe secili Auditor i Brendshëm duhet të posedojnë dhe përdorin diturinë, aftësinë dhe përvojën e nevojshme për zbatimin profesional të auditivit të brendshëm.
+(f) ”Pavarësi”- Auditorët e brendshëm duhet të raportojnë të një nivel brenda organizatës që i mundëson auditivit të brendshëm aktivitetet për të plotësuar përgjegjësitë e veta.

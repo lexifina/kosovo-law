@@ -1,0 +1,12 @@
+# Neni 9
+Themelimi i Njësive për Auditim të Brendshëm
+9.1. Çdo organizatë buxhetore dhe ndërmarrje autonome publike duhet të themelojnë dhe mbajnë Njësinë e Auditimit të Brendshëm.
+9.2. Njësia e Auditimit të Brendshëm, është e autorizuar dhe ka përgjegjësinë që të ndërmarr auditime të rregullta të:
+(i) organizatës përkatëse buxhetore apo ndërmarrjes autonome publike, (ii) komponentëve, nën-njësive dhe degëve të te lartpërmendurave, dhe (iii) cilësdo ndërmarrje të kontrolluar publike nën kontrollin e të lartpërmendurave.
+9.3. Të gjitha Njësitë e Auditimit të Brendshëm duhet të respektojnë nenin 4 dhe dispozitat e tjera të këtij ligji. Të gjitha njësitë e Auditimit të Brendshëm duhet që po ashtu të respektojnë doracakët, udhëzimet dhe standardet profesionale të nxjerra nga Ministri sipas nenit 6.4 të këtij ligji.
+9.4. Çdo njësi e Auditimit të Brendshëm duhet të ketë së paku një Auditor. Organizata buxhetore ose ndërmarrja publike autonome duhet të sigurojnë, pas konsultimit me NJQH-në, që Njësia e Auditimit të Brendshëm të ketë burime të mjaftueshme për ushtrimin e përgjegjësive të caktuara me këtë ligj.
+9.5. Nëse madhësia ose veprimtaritë e organizatës buxhetore ose ndërmarrjes autonome publike janë të asaj natyre që detyrat e njësisë së Auditimit të Brendshëm mund të ushtrohen nga një Auditor i vetëm, asgjë në këtë ligj nuk mund të interpretohet për të kërkuar që njësia e Auditimit të Brendshëm të ketë më shumë se një Auditor. Nëse Njësisë së Auditimit të Brendshëm i nevojitet vetëm një Auditor, atëherë personi në fjalë shërben si drejtori i Njësisë së Auditimit të Brendshëm, në pajtim me nenin 13.
+9.6. Përveç në ndërmarrjet autonome publike, të gjithë Auditorët e Brendshëm brenda njësisë së Auditimit të Brendshëm kanë statusin e shërbyesit civil.
+9.7. Të gjithë personat duhet që të bashkëpunojnë plotësisht dhe në mënyrë të rregullt me njësinë e Auditimit të Brendshëm si dhe të lejojnë qasje në të gjitha sistemet dhe dokumentet sipas kërkesës. Të gjithë personat duhet të respektojnë pavarësinë dhe autonominë e Auditorit të Brendshëm dhe Njësisë së Auditimit të Brendshëm.
+9.8. Secila njësi për auditim të brendshëm dhe secili auditor i brendshëm duhet ti ushtrojë aktivitetet e saj në pajtim me:
+(i) këtë ligj dhe ligjet e tjera të zbatueshme në Kosovë, veçanërisht ato të lëmisë buxhetore, financiare, fiskale dhe të prokurimit; (ii) rregullat, politikat, doracakët, udhëzimet, kodet e etikes dhe standardet profesionale të nxjerra nga ministri sipas nenit 6.4 të këtij ligji.

@@ -1,0 +1,23 @@
+# Neni 2
+Përkufizimet
+2.1. Me qëllim të interpretimit dhe zbatimit të këtij ligji, secila nga shprehjet më poshtë, do të kenë kuptimin e përshkruar në vijim, përveç nëse konteksti kërkon ndryshe:
+“Zyrtari Kryesor Administrativ” ose “ZKA”, në rastin e organizatave buxhetore, nënkupton; (i) Sekretarin Permanent, (ii) në organizata ku nuk ka Sekretar Permanent, atëherë Kryeshefin
+Ekzekutiv, ose (iii) nëse organizata nuk ka Sekretar Permanent dhe Kryeshef Ekzekutiv, atëherë personin e autorizuar për administrimin e përditshëm të organizatës dhe personelit si dhe financave. Në rastin e ndërmarrjeve autonome publike që nuk janë organizata buxhetore, ky term nënkupton Kryeshefin Ekzekutiv, drejtorin menaxhues ose personin e autorizuar për administrimin e përditshëm të veprimtarive, personelit dhe financave.
+“Organizatë Buxhetore’’,do të thotë një autoritet ose ndërmarrje publike që drejtpërdrejtë pranon një përvetësim buxhetor sipas Ligjit për përvetësimet (ndarjet) buxhetore, përvetësim ky që nuk është pjesë e një përvetësimi tjetër të përgjithshëm që i akordohet një autoriteti ose ndërmarrje tjetër publike.
+“Autoritet Publik”,do të thotë secilën nga autoritetet vijuese: (i) një autoritetet qendror, rajonal, komunal apo lokal, organ publik, ministri, departament, autoritetet publik ose autoritet tjetër që në bazë të një ligji ose Rregulloreje të UNMIK-ut, ushtron kompetenca ekzekutive, legjislative, rregullative, administrative-publike apo gjyqësore, (ii) cilëndo pjesë ose nën-njësi të te lartpërmendurave;
+“Ndërmarrje Publike”, nënkupton (i) njësitë e përcaktuara në Listën A të Ligjit për menaxhimin e financave publike dhe përgjegjësitë, dhe (ii) të gjitha ndërmarrjet e tjera që, (a) janë në pronësi publike ose janë themeluar me fonde publike ose sipas ligjit publik, dhe (b) nuk janë autoritete publike ose pjesë të autoriteteve publike.
+“Ndërmarrje Autonome Publike”, do të thotë; (i) të gjitha njësitë e përcaktuara të paraqitura në Listën A të Ligjit për menaxhimin e financave publike dhe përgjegjësitë, dhe (ii) të gjitha ndërmarrjet tjera publike që operojnë në mënyrë autonome dhe që nuk i nënshtrohen kontrollit të drejtpërdrejtë nga një autoritet publik edhe nëse ato i nënshtrohen mbikëqyrjes së menaxhimit ose rregullimit nga ana e një autoriteti publik.
+“Ndërmarrjet e Kontrolluara Publike”,nënkupton të gjitha ndërmarrjet që nuk janë “ndërmarrje autonome publike”
+“Subjekt i sektorit publik”,është term i përgjithshëm që nënkupton dhe përfshin të gjitha autoritetet publike dhe ndërmarrjet publike në Kosovë.
+“Rregullat financiare”,do të thotë rregullat financiare të nxjerra sipas Ligjit për menaxhimin e financave publike dhe përgjegjësitë.
+“KBFP”,nënkupton kontrollin e brendshëm financiar publik.
+“Rregullat e KBFP”, do të thotë rregullat e KBFP-së të nxjerra sipas Ligjit për menaxhimin e financave publike dhe përgjegjësitë.
+“Komision i Auditimit” ,nënkupton Komisionin e Auditivit të paraparë në nenin 5.
+“Njësia Qendrore për Harmonizimin e Auditimit të Brendshëm” ose “NJQH”, do të thotë; Njësinë Qendrore për Harmonizimin e Auditimit të Brendshëm në kuadër të Ministrisë së Ekonomisë dhe Financave, të themeluar sipas nenit 6 të këtij ligji.
+“Njësia e Auditimit të Brendshëm” ose “NJAB”, do të thotë; Njësinë e Auditivit të Brendshëm të një organizate buxhetore ose një ndërmarrje autonome publike, të themeluar sipas nenit 9 të këtij ligji.
+“Auditori i Brendshëm”, do të thotë personin që posedon licencë aktuale dhe të vlefshme, duke përfshirë licencat e përkohshme që nxirren sipas këtij ligji.
+“Auditori Përgjithshëm”,do të thotë auditori i përgjithshëm si institucion i themeluar me Rregulloren e UNMIK-ut Nr. 2002/18 mbi themelimin e Zyrës së Revizionit të Përgjithshëm të Kosovës dhe të Zyrës së Revizionit në Kosovë .Në këtë ligji,në të gjitha rastet kur “Revizor i Përgjithshëm”, kjo do të thotë”Revizioni i Përgjithshëm.
+“Instituti i Auditorëve të Brendshëm”, do të thotë shoqata ndërkombëtare profesionale e auditorëve të brendshëm;
+“Auditim i Brendshëm”,është një aktivitet i sigurimit të pa varur dhe objektiv si dhe këshillëdhënës që kanë për të shtojnë vlerën e një organizate dhe të përmirësojë veprimtarinë e saj. Ky proces i ndihmon organizatës të përmbushë objektivat e veta duke sjellë një qasje sistematike dhe të disiplinuar për të vlerësuar dhe përmirësuar efektivitetin e menaxhimit të rrezikut ,kontrollit dhe proceseve të qeverisjes.
+“Ministër”,do të thotë Ministrin e Ekonomisë dhe Financave.
+2.2. Referencat në këtë ligj për ligje ose rregullore të tjera duhet të interpretohen dhe të përfshijnë edhe legjislacionin pasues të tyre.
