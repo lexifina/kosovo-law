@@ -1,0 +1,9 @@
+## Kapitulli VI
+## KOMPENSIMI PËR SHPIFJEN DHE FYERJEN
+# Neni 14
+Kompensimi për shpifjen
+14.1. Kompensimi do të jetë proporcional me dëmin e shkaktuar dhe do të caktohet vetëm me qëllim të korrigjimit të dëmit të shkaktuar ndaj reputacionit të personit në fjalë, ose për të kompensuar çfarëdo humbje të provueshme aktuale financiare apo dëmi material. Gjatë përcaktimit të kompensimit, gjykata është e detyruar të marrë parasysh të gjitha rrethanat e rastit, në veçanti çfarëdo mase të ndërmarrë për të zbutur dëmin nga personat e përmendur në nenin 5.2 të këtij Ligji.
+14.2. Kompensimi për humbjet reale financiare, ose dëme materiale, të shkaktuara nga një shpifje do të caktohet nga gjykata vetëm kur humbja është konstatuar në mënyrë të veçantë.
+14.3. Lartësia e kompensimit për dëmin jo material ose dëmin që nuk mund ti përcaktohet lartësia në vlera monetare, të shkaktuar nga shpifja, do të caktohet nga gjykata duke marrë parasysh peshën e dëmit të shkaktuar nga shpifja dhe gjendjen materiale të personit i cili ka shkaktuar shpifjen.
+14.4. Në rastet kur gjykatat caktojnë lartësinë e kompensimit në të holla në bazë të paragrafëve 2 dhe 3 të këtij neni, duhet të marrin parasysh çdo kompensim vullnetar ose që nuk është në të holla, si dhe të pasojave të mundshme cenuese të vendimit gjyqësor ndaj lirisë së shprehjes.
+14.5. Personat e përmendur në nenin 5.2 të këtij Ligji munden në përmirësimin e dëmit, të vërtetojnë se ata kanë bërë ose kanë ofruar të bëjnë kërkim falje, apo përmirësim për çfarëdo shpifje para fillimit të veprimit për dëmtim, ose sa më shpejtë pas kësaj sapo ata të ketë pasur mundësi. Zbatueshmëria e urdhrave ose udhëzimeve nga Këshilli për Shtyp ose ndonjë organi relevant rregullativ, do të konsiderohet si një rrethanë lehtësuese në caktimin e kompensimit të dëmit jomaterial.

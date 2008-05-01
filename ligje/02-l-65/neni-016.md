@@ -1,0 +1,5 @@
+# Neni 16
+Urdhëresat Gjyqësore
+16.1. Një person ka të drejtë të kërkojë në procedurën gjyqësore të ndalet shpifja dhe fyerja dhe tërheqjen e informacionit shpifës dhe fyes lidhur me personalitetin e tij/saj si dhe premtimin se shpifja dhe fyerja nuk do të përsëritet në të ardhmen përveç nëse është konstatuar njëra nga përjashtimet e përgjegjësisë në pajtim me këtë Ligj.
+16.2. Urdhëresat gjyqësore paraprake për të ndaluar përhapjen apo përhapjen e mëtejshme të informacionit, mund të lëshohen vetëm kur publikimi tanimë është kryer dhe kur personi që pretendohet të jetë i dëmtuar mund të sigurojë se informacioni i ka shkaktuar dëm reputacionit të tij apo të saj, dhe se individi që pretendohet të jetë i dëmtuar do të pësojë dëmtim të pazëvendësueshëm si rezultat i përhapjes së mëtejshme.
+16.3. Urdhëresat gjyqësore të përhershme për ndalimin e përhapjes apo përhapjes së mëtejshme, mund të aplikohen vetëm ndaj shprehjeve specifike që konstatohet se janë shpifëse apo fyese dhe ndaj autorëve ose mediumeve masive specifike të cilat kryejnë ose përhapin shprehjen.

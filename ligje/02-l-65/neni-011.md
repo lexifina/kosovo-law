@@ -1,0 +1,7 @@
+# Neni 11
+Kufijtë e përgjegjësisë
+11.1. Askush nuk do të jetë përgjegjës për shpifje dhe fyerje për një deklaratë për të cilën ai ose ajo nuk kanë qenë autor, redaktor ose botues dhe ai ose ajo nuk kishte dijeni, dhe nuk ekziston arsye të besohet, se ai ose ajo kontribuan në përhapjen e shpifjes dhe fyerjes.
+11.2. Në lidhje me një deklaratë të posaçme, personat, funksioni i veçantë i të cilëve është i kufizuar për sa i përket sigurimit të mundësisë teknike për tu lidhur në Internet dhe të transmetojnë të dhëna me anë të Internetit, ose për të ruajtur plotësisht ose pjesërisht një websajt, nuk do të jenë përgjegjës për shpifje dhe fyerje në lidhje me këtë deklaratë, me kusht që gjykata të ketë vendosur se ata persona kanë ndërmarrë masat e arsyeshme për të shmangur publikimin e materialit.
+11.3. Një person nuk do të mendohet se ka dhënë një deklaratë për qëllimet e paragrafit 2 të këtij neni, vetëm sepse dikush ka pretenduar se deklarata përbën shpifje dhe fyerje.
+11.4. Paragrafi 2 i këtij neni nuk do të zbatohet, në kontekstin e një vepre shpifëse apo fyese, tek cilado shkallë gjyqësore që përfshin personin në fjalë dhe kërkon nga ai që të ndërmarrë veprime për të parandaluar publikimin e mëtejshëm të një deklarate.
+11.5. Për publikimet e medias për të cilat mund të thuhet se publikohen me baza të vazhdueshme, siç janë websajtet në Internet, publikimi në një vend, në një formë, do të konsiderohen se janë një publikim i vetëm.

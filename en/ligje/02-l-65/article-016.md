@@ -1,0 +1,5 @@
+# Article 16
+Injunctions
+16.1. A person has the right to demand through a court proceeding, the termination of defamations and insults and the refutation of defamatory and insulting information concerning his/her person as well as the promise that the defamation and insult will not be repeated in the future, unless one of the exemptions to liability is established in accordance with this Law.
+7 16.2. Preliminary court orders to prohibit disseminating or further disseminating of information may only be issued where publication has already occurred and the allegedly injured person can make probable with virtual certainty that the information caused harm to his or her reputation and that the allegedly injured person will suffer irreparable harm as a result of further dissemination.
+16.3. Permanent court orders to prohibit the dissemination or further dissemination may only be applied to the specific expression found to be defamatory or insulting and to the specific author or mass medium making or disseminating the expression.
