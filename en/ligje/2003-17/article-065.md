@@ -1,0 +1,4 @@
+# Section 65
+Quality Assurance Standards
+Should a contracting authority require the production of certificates drawn up by independent bodies attesting the compliance of the economic operator with certain quality assurance standards, the contracting authority shall refer to quality assurance systems based on the relevant European standards series certified by bodies that conduct their activities in conformity with the European standards series on certification activity. A contracting authority shall recognize equivalent certificates issued by any certification body, regardless of location, if such body is recognized by a member state of the EU. A contracting authority shall also accept other reasonably reliable evidence of equivalent quality assurance measures from economic operators who have no access to such certificates or no possibility of obtaining them within the relevant time limits.
+48

@@ -1,0 +1,7 @@
+# Section 48
+Dispatch and Contents of Invitations to Tender 35
+48.1 In restricted procedures, negotiated procedures after the publication of a contract notice, and price quotation procedures, the contracting authority shall simultaneously dispatch to all selected candidates the concerned invitation to tender.
+48.2 In restricted procedures and negotiated procedures after the publication of a contract notice, all invitations to tender shall be sent together with the tender dossier, except to the extent that the contracting authority has made tender dossier material available electronically. If the contracting authority has made such material available electronically, the invitation letter shall provide sufficient information to enable the candidate to access such material.
+48.3 In price quotation procedures, the invitation to tender shall contain all material information needed by the candidates to submit responsive price quotations.
+48.4 The form and content of any invitation, material or other information sent to a candidate shall be identical to that sent to any other candidate. No candidate shall be given greater or lesser access to any material or information than any other candidate.
+48.5 If a procurement activity using restricted procedures is being conducted under accelerated time limits authorized by Section 44.3, the contracting authority shall dispatch the invitations to submit a tender by the most rapid means of communication possible.

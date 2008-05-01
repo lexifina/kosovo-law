@@ -1,0 +1,8 @@
+## Chapter 2
+## Types and Applicability of Procurement Procedures
+# Section 30
+Open Procedures
+30.1 Unless a provision of Sections 31 – 36 specifically authorizes the use of different procurement procedures, a contracting authority shall select and use open procedures when conducting procurement activities leading to the award of a public contract.
+25 30.2 If, without any intent to discriminate against or in favor of any economic operator, a contracting authority determines that (i) the concerned product, service or works can only be supplied, provided or performed by an economic operator having adequate technical, professional and/or financial capacity, and (ii) such contracting authority will therefore only accept tenders from economic operators possessing certain minimum qualifications, the contracting authority shall comply with all applicable requirements of Section 49.
+30.3 If less than three (3) responsive tenders are received, the contracting authority shall cancel the procurement activity; in such event, the contracting authority shall, if it still desires to procure the concerned objects, initiate a new procurement activity for such objects.
+30.4 Notwithstanding the requirement established by Section 30.3, if there are compelling reasons to believe that canceling the current procurement activity and initiating a new procurement activity will not result in an increased number of responsive tenders, the PPRC may waive the requirement of Section 30.3 if (i) the PPRC receives a written request setting forth such reasons from the concerned contracting authority, and (ii) the PPRC determines that such reasons provide a convincing basis to waive the requirement of Section 30.3.

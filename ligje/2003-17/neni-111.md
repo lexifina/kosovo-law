@@ -1,0 +1,8 @@
+## Kreu 4
+## Procedurat para një Paneli Shqyrtues
+# Neni 111
+Kompetencat dhe përgjegjësitë e Panelit Shqyrtues
+111.1 Çështjet që parashtruesi i ankesës i ka identifikuar në njoftimin e paraqitur në përputhje me nenin 110.5 ose 110.6 do të shqyrtohen dhe do të vendosen nga paneli shqyrtues që formohet në përputhje me nenin 106.6.
+111.2 Procedurat e panelit shqyrtues ushtrohen në përputhshmëri me dispozitat e kësaj Pjese VIII dhe Rregulloren e Punës sipas nenit 103.
+111.3 Para marrjes së një vendimi përfundimtar mbi një çështje, paneli shqyrtues mund të kërkojë nga autoriteti kontraktues dhe/ose parashtruesi i ankesës që të sigurojë informata dhe/ose shpjegime shtesë. Paneli shqyrtues ka të drejtë që të kërkojë nga çdo person, ndërmarrje ose autoritet publik që të dorëzojë materiale ose dëshmi që me arsye mendon se kanë të bëjnë me çështjen përkatëse. Ngjajshëm, paneli shqyrtues ka të drejtë që të kërkojë nga çdo person, ndërmarrje ose autoritet publik që të sigurojë dëshmi që paneli shqyrtues me arsye mendon se kane të bëjnë me çështjen përkatëse.
+111.4 Nëse cilado palë në procedurë dështon ose refuzon që të marrë pjesë plotësisht në procedurat ose që të pajtohet me kërkesat e kësaj Pjese VIII, Rregulloren e Punës që përshkruhet në nënin 103, ose një urdhër të nxjerrë nga paneli shqyrtues, paneli shqyrtues mund t’a trajtojë (zgjidhë) refuzimin ose dështimin e tillë, siç e sheh të arsyeshme, duke: (i) vendosur mbi çfarëdo çështje ligjore dhe/ose çështje faktike në favor ose kundër palës kundërshtuese, dhe/ose (ii) vendosur mbi çfarëdo pretendimi në favor ose kundër palës kundërshtuese.

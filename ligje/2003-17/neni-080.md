@@ -1,0 +1,4 @@
+# Neni 80
+Kontratat me ndërmarrjet e ndërlidhura
+80.1 Ndërmarrja e ndërlidhur e një koncesioneri të punëve nuk mund të konsiderohet si “palë e tretë” brenda kuptimit të nenit 79 nëse, para dhënies së kontratës së punëve me koncesion, koncesioneri i punëve në fjalë formalisht e ka njoftuar autoritetin kontraktues mbi ekzistencën e ndërmarrjes së ndërlidhur.
+80.2 Nëse një kontratë e punëve me koncesion i është dhënë një grupi operatorësh ekonomik, asnjë anëtar i grupit të tillë nuk konsiderohet si “palë e tretë” brenda kuptimit të nenit 79. Një ndërmarrje e ndërlidhur e një anëtari të tillë, po ashtu nuk do të konsiderohet si palë e tretë, nëse para dhënies së kontratës së punëve me koncesion grupi formalisht nuk e ka njoftuar formalisht autoritetin kontraktues mbi ekzistimin e një ndërmarrje të tillë të ndërlidhur.

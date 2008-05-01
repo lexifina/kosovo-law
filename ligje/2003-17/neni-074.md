@@ -1,0 +1,9 @@
+# Neni 74
+Përbërja dhe vendimet e jurisë
+74.1 Juria përbëhet nga një numër tek, por në asnjë rast më pak se tre (3) persona fizikë. Këta persona do të caktohen nga autoriteti kontraktues dhe ata nuk mund të jenë të anëtarësuar në ose të ndërlidhur me ndonjerin nga pjesëmarrësit në konkurs. Nëse nga pjesëmarrësit kërkohet që të posedojnë ndonjë kualifikim të posaçëm profesional, së paku një e treta e anëtarëve të jurisë duhet që po ashtu të posedojnë atë kualifikim ose barasvlerën e tij.
+74.2. Juria do të vendosë mbi konkursin vetëm në bazë të kritereve të përshkruara në njoftimin për konkursin e projektimit. Identiteti i pjesëmarrësve nuk do të zbulohet para anëtarëve të jurisë.
+74.3 Asnjë person jashtë jurisë nuk mund të ndikojë ose të tentojë të ndikojë në vendimet e jurisë ose në opinionin e cilitdo nga anëtarët e jurisë.
+74.4 Personave që nuk janë anëtarë të jurisë do t’u zbulohet vetëm vendimi i jurisë. Diskutimet e jurisë dhe opinionet e anëtarëve të jurisë gjatë diskutimeve të tilla do të mbahen si sekret nga të gjithë anëtarët e jurisë. Asnjëri nga anëtarët e jurisë nuk do të zbulojë përmbajtjen e diskutimeve të jurisë para një personi tjetër që nuk është anëtar i jurisë, përveç kur kërkohet nga një urdhër me shkrim nga KRPP-ja, një panel shqyrtues ose një gjykatë kompetente. Anëtari i jurisë që e shkel obligimin e mbajtjes së sekretit të cekur në nenin 74.4 është lëndë e një gjobe administrative deri në 10.000 Euro, gjobë kjo që do të vendoset dhe vlerësohet nga KRPP-ja.
+74.5 Juria do të bëjë përpjekje të arsyeshme për të arritur vendime konsensuale. Nëse, pas përpjekjeve të arsyeshme, anëtarët e jurisë vendosin se vendimi konsensual nuk mund të arrihet, juria do të vendosë mbi çështjen, me shumicë votash. Komisioni i Rregullave për Prokurim Publik do të vendosë rregulla dhe procedura të qarta dhe jo-diskriminuese për të udhëhequr votimin në fjalë.
+PJESA IV
+RREGULLAT SHTESË MBI KONTRATAT E PUNËVE ME KONCESION

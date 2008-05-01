@@ -1,0 +1,8 @@
+## Kreu 2
+## Llojet dhe zbatueshmëria e procedurave të prokurimit
+# Neni 30
+Procedurat e hapura
+30.1 Përveç nëse ndonjë dispozitë e neneve 31 – 36, posaçërisht e autorizon përdorimin e procedurave tjera të prokurimit, autoriteti kontraktues do të zgjedhë dhe përdorë procedurat e hapura gjatë zbatimit të aktiviteteve që kanë për qëllim dhënien e një kontrate publike.
+30.2 Nëse, një autoritet kontraktues, pa kurrfarë qëllimi që të diskriminojë në favor apo kundër një operatori ekonomik, konstaton se (i) produkti, shërbimi ose puna përkatëse mund të furnizohet, sigurohet ose ekzekutohet vetëm nga një operator ekonomik që e ka kapacitetin adekuat teknik, profesional dhe/ose financiar, dhe (ii) autoriteti i tillë kontraktues do të pranojë vetëm tenderët nga operatorët ekonomik që posedojnë disa kualifikime të caktuara minimale, autoriteti kontraktues duhet t’i përmbushë të gjitha kërkesat e aplikueshme sipas nenit 49.
+30.3 Nëse më pak se tre (3) tenderë të përgjegjshëm janë pranuar, autoriteti kontraktues e anulon aktivitetin e prokurimit; me ç’rast, autoriteti kontraktues , nëse ende dëshiron të prokurojë lëndët përkatëse, duhet të fillojë një aktivitet të ri të prokurimit për lëndët e tilla.
+30.4 Pavarësisht nga kërkesat e vendosura nga neni 30.3, nëse ka arsye të forta për të besohet se anulimi i aktivitetit aktual të prokurimit dhe fillimi i një aktiviteti të ri të prokurimit nuk do të rezultojë në paraqitjen e një numri më të madh të tenderëve të përgjegjshëm, atëherë KRPP-ja mundet që të revokoj kërkesën e nenit 30.3, nëse (i) KRPP-ja pranon një kërkesë me shkrim që i parashtron arsyet e autoritetit përkatës kontraktues, dhe (ii) KRPP-ja vendos se arsyet e tilla përbëjnë një bazë të bindshme për të revokuar kërkesën e nenit 30.3.
