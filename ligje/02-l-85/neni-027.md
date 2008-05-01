@@ -1,0 +1,3 @@
+# Neni 27
+Për zhvillimin e aktivitetit të Akuakulturës kultivuesit obligohen që të sigurojnë:
+a) strukturën e mjeteve dhe pajisjeve që përdorën, b) sinjalizimin e sëmundjeve që do të shfaqeshin, c) përdorimin e drejt të medikamenteve, d) sasia, cilësia dhe llojet e të vegjëlve që do të përdorën, e) kufizimin e zonës ku do të zhvillohet veprimtaria, f) shkarkimin e çfarëdo materiali të dëmshëm nga hurdha, 9 g) mbajtjen e regjistrave dhe paraqitja e informacioneve, h) përmbajtje në standardet zooteknike për ngritjen e hurdhës (distanca, forma dhe dimensionet e objekteve për zhvillimin e aktivitetit, i) standardet teknike të ndërtimit për pengimin e depërtimit të substancave të dëmshme për shëndetin e njeriut dhe ambientin, j) trajtimin e ujërave të shfrytëzuara.

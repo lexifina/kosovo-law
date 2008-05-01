@@ -1,0 +1,3 @@
+# Neni 26
+Kërkesës për licencimin e aktivitetit të akuakulturës duhet bashkangjitur:
+a) certifikatën e biznesit tё personit fizik apo juridik, b) zona - regjioni ku do të zhvillohet aktiviteti, c) sasia dhe cilësia e ushqimit që do të përdoret, d) lloji i peshqve apo organizmave tjerë ujor që do të kultivohen, e) numri dhe data e vendimit për pagesën e koncesionit për shfrytëzimin e ujit si dhe kontratën për koncesione për shfrytëzimin të ujit, f) hapësira e hurdhës ku do të zhvillohet veprimtaria, g) kontrolli i cilësisë së ujit, h) pëlqimi mjedisor nga Ministria e ambientit dhe planifikimit hapësinor (MAPH) për vlerësimin e ndikimit në ambient.

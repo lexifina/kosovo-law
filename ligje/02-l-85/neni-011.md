@@ -1,0 +1,9 @@
+# Neni 11
+Programet e menaxhimit
+11.1. Programi i menaxhimit hartohet nga shfrytëzuesi i të drejtës së peshkimit në përputhshmëri me Kodin e Peshkimit.
+11.2. Programi i menaxhimit miratohet nga ministria për një periudhë jo më shumë se dhjetë vjet dhe paraqet dokumentin bazë për menaxhim ne regjion apo zonë të peshkimit dhe ka për qellim:
+a) të siguroi qëndrueshmëri në shfrytëzimin e burimeve peshkore duke siguruar mirëmbajtjen e tyre në nivele që të plotësojnë nevojat sot dhe në të ardhmen, b) të mirëmbaj e të ruaj cilësinë dhe biodiversitetin biologjik të burimeve peshkore dhe organizmave tjerë ujor, c) të vlerësoi resurset peshkore si dhe shtimin e peshës, d) të planifikoi sasinë vjetore e peshkimit sipas llojeve, e) të planifikoi peshkëzimin sipas sasisë dhe llojit të peshqve( koha, sasia dhe lloji i peshqve ) si dhe mjetet e nevojshme për zbatimin e planit, f) të planifikoi masat dhe mënyrën e mbrojtjes së regjioneve të peshkimit, organizimin e rojeve të peshkimit, g) të hartoi planin e punës për ruajtjen e ambientit, h) të planifikoi aktivitetet sportive-rekreative, i) të planifikoi kohën dhe mënyrën e shtimit të peshqve dhe masat mbrojtëse në vendet e riprodhimit natyral.
+11.3. Shfrytëzuesi i të drejtës së peshkimit obligohet që në afat prej 30 ditësh pas nënshkrimit të kontratës të hartoi planin vjetor të menaxhimit i cili duhet të përmbaj:
+a) vlerësimin e sasisë së peshqve dhe shtimin e tyre, b) sasinë e lejuar e peshkimit sipas llojeve në vit dhe në dit, c) planin e peshkëzimit në sasi sipas llojeve, d) mënyrën dhe masat e mbrojtjes së regjionit apo zonës së peshkimit, organizimin e rojeve si dhe planin për ruajtjen e ambientit.
+11.4. Plani vjetor i menaxhimit aprovohet nga ministria dhe njoftohet Federata.
+11.5. Pa aprovim të planit vjetor të menaxhimit nuk lejohet peshkimi.

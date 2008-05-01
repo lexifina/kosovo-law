@@ -1,0 +1,5 @@
+# Neni 47
+Ndalimet
+47.1. Në ujërat e peshkimit ndalohet:
+a) të peshkohet me mjete eksplozive, 13 b) të shkatërrohen të vegjlit e peshqve me vlerë të lartë biologjike në çdo kohë, c) të peshkohet me mjete të ndaluara, armë zjarri apo mjete kimike të cilat i vrasin, helmojnë ose joshin peshqit, d) ndotja e ujërave të peshkimit me mjete të dëmshme dhe të rrezikshme që mund të ndryshojnë kualitetin e ujit e të cilat e rrezikojnë fondin e peshqve, e) hedhja dhe deponimi i materieve të ngurta, f) të peshkohen ikrat-vezët, të vegjlit e çdo lloj organizmi ujor pa autorizimin e nevojshëm ose licencën e lëshuar nga ministria, g) peshkimi në afërsi më të vogël se 300 m nga digat për hidrocentrale, h) të lëshohet uji nga liqenet artificiale apo akumulimet në rast se rrezikohet fauna e ujërave, i) pengimi i shpëtimit të peshqve gjatë vërshimeve, j) pengimi i vendosjes së shenjave për regjionet apo zonat e peshkimit.
+47.2. Ndalimet nga paragrafi 1 i këtij neni nuk vlejnë për rastet e aplikimit të peshkimit për qëllime kërkimore-shkencore.

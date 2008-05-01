@@ -1,0 +1,4 @@
+# Article 21
+7
+21.1. The Federation implements the measures for development and protection of the fish stock, organizes activities for environmental protection in its territory and keeps the evidence on the number of passed exams on recreation/sport fishing according to the exam programme.
+21.2. In addition to the activities in paragraph 1 of article 21 of this law, the Federation organizes the distribution of recreation/sport permits to fishermen according to the programme, organizes races, implements and issues permits for all races in recreation / sport fishing, except international races, collects data from fishing right exploiters on the fish quantity and fishing method used for recreation/sport fishing as well it issues emblems and identification documents for fishing guards upon the request of the exploiter.
