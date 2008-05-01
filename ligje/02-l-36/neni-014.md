@@ -1,0 +1,3 @@
+# Neni 14
+14.1. Prodhuesit dhe importuesit të prodhimeve të duhanit janë të obliguar që në afat prej 12 muaj prej miratimit të aktit plotësues juridik nga ana e Ministrisë të vendosin shenjëzimet në paketimet e prodhimeve të duhanit të përcaktuar në bazë të këtij Ligji.
+14.2. Institucionet dhe organizatat e gjitha llojeve janë të obliguar që në afat prej 12 muajsh prej miratimit të aktit plotësues juridik nga ana e Ministrisë të vendosin shenjat e ndalesës së pirjes së duhanit dhe të përcaktojnë vendet ku mund të pihet duhani në qoftë se përcaktohen që të kenë këso vende, pas hyrjes në fuqi të këtij Ligji.

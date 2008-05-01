@@ -1,0 +1,10 @@
+# Article 4
+4.1. The Kosovo Government or the Institution authorized by it, based on the scientific data, reserves the right to prohibit use of different components during tobacco manufacture, especially components causing addiction.
+4.2. All tobacco products manufactured or imported and presented in the Kosovo market shall be tested.
+4.3. Testing for the tar, nicotine and carbon monoxide for one cigarette shall be carried out by the institution authorized by the Ministry of Health. The testing results shall be reported to the Ministry of Health according to the time defined by the Ministry. 3
+4.4. The Kosovo Government reserves the right to request from the manufacturers or importers of tobacco to carry out additional tests in order to see the presence and concentration of other substances that are not included in point 4.3 of Article 4.
+4.5. Testing for substances included in point 3 of Article 4 shall be carried out according to the standards defined by the Ministry of Health through implementation of ISO standards. The following standards shall be used: ISO standard 4387 for tar, 10315 for nicotine and 8454 for carbon monoxide. The accuracy of the tar and nicotine presence in the package shall be verified through ISO standard 8243.
+4.6. Testing and testing results shall be performed and reported in a period defined by the Ministry of Health.
+4.7. Each change of the chemical composition of tobacco products by any manufacturer or importer shall be submitted to the Ministry of Health by the manufacturer of importer of tobacco products.
+4.8. If the licensed laboratory proves that the composition of samples taken from a batch of tobacco products does not comply with the values foreseen by the Law, then the entire batch of tobacco products shall be removed from the market.
+4.9. The Institution authorized by the Kosovo Government shall monitor the compliance with this Law of the signs and composition of tobacco products manufactured or imported and sold in the Kosovo market.

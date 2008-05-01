@@ -1,0 +1,5 @@
+# Neni 5
+5.1. Prodhimet e duhanit që shiten në tregun e Kosovës duhet të kenë shenja në pajtueshmëri me proceduarat e parapara me aktet ligjore.
+5.2. Çdo lloj paketimi individual i prodhimeve të duhanit që prodhohet apo importohet dhe qarkullon e shitet në tregun e territorit te Kosovës duhet të përmbaj këto të dhëna:
+a. Sasia e nikotinës, b. Sasia e katranit, c. Sasia e monoksidit të karbonit, d. Numrin serik apo ekuivalent të saj, e. Emrin dhe adresën e prodhuesit apo importuesit, f. Numrin e njësive në paketime individuale të prodhimeve të duhanit, g. Emri dhe adresa e paketuesit, në raste kur prodhuesi nuk e ka bërë paketimin vetë.
+5.3. Çdo lloj paketimi dhe çdo lloj informatë e prezantuar për prodhime të duhanit duhet të mos jep përshtypje të gabueshme për karakteristikat e duhanit dhe efektet e saj në shëndetin e njeriut duke përfshirë këtu edhe informata që një lloj i prodhimeve të duhanit është më pak i dëmshëm se lloji tjetër. Prandaj, ndalohet të përdoren në çfarëdo lloji të paketimit të duhanit fjalët si “e lehtë”, “shumë e lehtë”, “e butë”, “pak katran” dhe fjalë apo informata të ngjashme.
