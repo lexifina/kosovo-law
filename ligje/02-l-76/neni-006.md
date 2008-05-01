@@ -1,0 +1,3 @@
+# Neni 6
+6.1. Çdo individi i sigurohet qasja në shërbime shëndetësore të standardit më të lartë të mundshëm të shëndetit seksual dhe riprodhues, për të ruajtur dhe përparuar shëndetin seksual dhe riprodhues të saj, tij, dhe ka të drejtë të kërkojë këshillim, ekzaminim mjekësor, trajtim të përshtatshëm dhe rehabilitim për jetë të shëndetshme seksuale dhe riprodhuese konform Ligjit për të drejtat dhe përgjegjësitë e qytetarëve në kujdesin shëndetësor nr. 2004/38.
+6.2. Të gjithë individët kanë të drejtë për të përfituar nga progresi shkencor dhe teknologjitë e reja lidhur me riprodhimin dhe seksualitetin, kur ato janë të sigurta dhe të pranueshme.

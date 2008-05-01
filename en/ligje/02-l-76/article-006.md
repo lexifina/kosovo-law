@@ -1,0 +1,3 @@
+# Article 6
+6.1. Any individual is provided with access to health services of the highest possible standard relating to sexual and reproductive health, and in his, her sexual and reproductive health protection and improvement and has the right to request advice, medical examination, suitable treatment and rehabilitation for a healthy sexual and reproductive life according to Law for the citizens’ rights and responsibilities to health care No. 2004/38.
+6.2. All persons have the right to benefit from the scientific progress and new technologies in relation to reproduction and sexuality, when they are safe and acceptable.
