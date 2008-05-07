@@ -1,0 +1,2 @@
+# Neni 8
+(Zyra për BE dhe NATO) Kjo zyrë do të ketë 3 zyrtarë (një drejtor dhe dy zyrtarë të lartë) dhe do të parashohë udhëheqjen e politikës së integrimit në BE dhe NATO dhe përputhshmëritë me kriteret politike, ndërlidhjen politike me Delegacionin e Komisionit Evropian dhe anëtarësimin në NATO, si dhe çështje të tjera të politikës së sigurisë. Zyra do të jetë në lidhje të vazhdueshme me Agjensionin e Integrimeve Evropiane, Ministrinë e Mbrojtjes, si dhe me institucione të tjera.

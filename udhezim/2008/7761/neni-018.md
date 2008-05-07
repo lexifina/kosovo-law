@@ -1,0 +1,2 @@
+# Neni 18
+(Drejtoria e Prokurimit) Drejtoria e Prokurimit do të ketë drejtorin, një zyrtar të lartë të prokurimit, një zyrtar të lartë për kontrata dhe një depoist. Drejtoria është përgjegjëse për sigurimin e të gjitha shërbimeve, pajisjeve dhe materialeve për Ministrinë dhe misionet e jashtme diplomatike. Drejtoria e Prokurimit i përgjigjet Sekretarit të Përhershëm, në përputhje me legjislacionin.

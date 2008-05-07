@@ -1,0 +1,2 @@
+# Neni 9
+(Zyra e Çështjeve Ekonomike dhe e Strategjisë) Zyra e Çështjeve Ekonomike dhe e Strategjisë do të ketë 3 punonjës. Një drejtor dhe 2 zyrtarë të lartë. Nën mbikëqyrjen e Drejtorit të Përgjithshëm, kjo zyrë do të përkrahë funksionimin e Ministrisë si një institucion efektiv, përfshirë marrëdhëniet me ministritë e tjera. Në bashkërendim me ministritë dhe institucionet e tjera, Zyra e Çështjeve Ekonomike dhe e Strategjisë, është përgjegjëse për promovimin e interesave ekonomike të Kosovës jashtë vendit.

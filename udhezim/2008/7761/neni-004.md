@@ -1,0 +1,2 @@
+# Neni 4
+(Kabineti i Ministrit) Ministri i Punëve të Jashtme do të përkrahet nga kabineti i Ministrit, nga Zëvendësministri, nga 5+1 (1 do t’i takojë Zёvendёsministrit) këshilltarë politikë, një shef i kabinetit, një asistent/e i/e lartë personale, dhe një asistent/e administrative (me përgjegjësi menaxhimin e zyrës), si dhe dy vozitës. Nё përputhje me ligjin, Zёvendёsministri do të ketë një këshilltar, një asistent/e administrativ/e dhe një vozitës.

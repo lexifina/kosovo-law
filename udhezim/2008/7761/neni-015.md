@@ -1,0 +1,2 @@
+# Neni 15
+(Zyra e Protokollit) Zyra e Protokollit do të ketë 5 zyrtarë. I përgjigjet Sekretarit të Përhershëm. Kjo zyrë përbëhet nga drejtori i Zyrës së Protokollit, një zyrtar i lartë për protokoll të përgjithshëm, një zyrtar i lartë për ceremonial të ministrive, një zyrtar i lartë për privilegje dhe imunitete diplomatike dhe një asistent/e administrativ/e. Zyra e Protokollit do të aplikojë ceremonialin zyrtar dhe praktikat protokollare gjatë vizitave të delegacioneve të huaja, në bisedimet midis palëve ndërqeveritare, si dhe në veprimtaritë e ndryshme diplomatike.

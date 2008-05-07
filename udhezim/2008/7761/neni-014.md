@@ -1,0 +1,2 @@
+# Neni 14
+(Zyra e Medieve) Zyra e Mediave do të ketë 3 punonjës. Kjo zyrë i raporton Sekretarit të Përhershëm dhe që ofron edhe shërbime të rëndësishme ditore për Ministrin. Zyra e Medieve udhëhiqet nga drejtori, dhe do të ketë një zyrtar të lartë dhe një asistent/e administrativ/e. Zyrtari i lartë, që vepron si zëvendës i udhëheqësit, do të jetë përgjegjës për monitorimin e medieve kombëtare dhe ndërkombëtare, që raportojnë për çështjet relevante të politikës së jashtme për Kosovën dhe që ofrojnë material për përgjigje, sipas kërkesës.
