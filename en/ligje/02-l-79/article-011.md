@@ -1,0 +1,3 @@
+# Article 11
+11.1. Construction, reconstruction of hydro-meteorological buildings, or the accomplishment of other works on the buildings and the land on distance, from where shall be effected on nature regime or existing of the elements which monitored on the meteorological, hydrological stations, stations for monitoring of water, air and soil quality of the basic network may be done based on the competent body of Kosovo and competent Administration for the activities of water Economy.
+11.2. Attached with the request for the issuing of the consent from paragraph 1 of this article, the investor is obliged to represent the opinion of KHMI too.

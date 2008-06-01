@@ -1,0 +1,3 @@
+# Neni 11
+4 11.1. Ndërtimi, rikonstruimi i objekteve hidrometeorologjike ose kryerja e punëve të tjera në objektet dhe në tokën në distancën që kushtëzon ndryshimin e regjimit natyror ose ekzistues të elementeve që monitorohen në stacionet meteorologjike, hidrologjike, stacioneve për monitorimin e cilësisë së ujërave, ajrit dhe dheut të rrjetit themelor mund të bëhen në bazë të pëlqimit të organit kompetent të Kosovës dhe Administratës kompetente për punët e Ekonomisë ujore.
+11.2. Bashkë me kërkesën për dhënien e pëlqimit nga paragrafi 1 i këtij neni investuesi ka për detyrë të paraqes mendimin e IHMK-së.
