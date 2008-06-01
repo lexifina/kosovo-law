@@ -1,0 +1,6 @@
+# Neni 26
+26.1. Mjetet themelore dhe financiare për punën e Akademisë sigurohen nga buxheti i Kosovës, në zë të veçantë.
+6 26.2. Me mjetet nga buxheti i Kosovës sigurohen puna e seksioneve e njësive dhe qendrave të tjera studimore të Akademisë, puna e organeve të qeverisjes të Akademisë, bashkëpunimi i jashtëm i Akademisë, veprimtaria e rregullt botuese dhe periodike e Akademisë, pasurimi i bibliotekës së Akademisë, shpërblimet e përhershme mujore të anëtarëve të rregullt dhe korrespondentë të Akademisë, shpërblimet për kryerjen e funksioneve të caktuara në Akademi, pagat e përhershme mujore për të punësuarit në shërbimet administrative profesionale e teknike dhe të mirëmbajtjes së Akademisë.
+26.3. Financimi i projekteve të Akademisë bëhet në bazë të konkurseve të shpallura.
+26.4. Akademia mund të sigurojë mjete edhe nga donacionet dhe sponsorizimet dhe ato mjete mund t’i përdorë për veprimtarinë plotësuese të saj.
+26.5. Akademia mund të sigurojë mjete të tjera plotësuese për punën kërkimore-shkencore e artistike të anëtarëve të saj të rregullt dhe korrespondentë përmes aktiviteteve të veta, marrëveshjeve të ndërsjella kërkimore-shkencore e artistike dhe përmes donacioneve e dhuratave ose mbi ndonjë bazë tjetër juridikisht të lejueshme.
