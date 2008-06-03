@@ -1,0 +1,3 @@
+# Article 8
+Exclusive competence of the SPRK for cases referred by international tribunals
+The SPRK will have exclusive competence to investigate and prosecute crimes, including the various forms of attempt and of collaboration to the crimes, that competent organs of international tribunals, such as the International Criminal Tribunal for the former Yugoslavia established by Resolution No. 827 of the Security Council of the United Nations, may refer to the authorities of Kosovo for investigation and/or prosecution, according to the procedures set forth by the applicable law and by agreements among the competent authorities.
