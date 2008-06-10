@@ -1,0 +1,4 @@
+# Neni 5
+5.1 Importuesi i punimeve nga metalet e çmuara duhet të posedoj kopjen e Deklaratës unifikuese Doganore ( DUD).
+5.2 Në rastin kur punimet prej metaleve të çmuara të importuara nuk kanë shenjen e pastërtisë dhe nuk janë në përputhje me dispozitat e këtij udhëzimi administrativ, personi zyrtar i Departamentit të Metrologjisë, sektorit për metalet e çmuara pas ekzaminimit të llojit të metalit të çmuar dhe përcaktimit të shkallës së pastërtisë,përpilon procesverbalin lidhur me ekzaminimin e tyre.
+5.3 Punimet që kanë masën nën 1(një) gram, nuk shënjohen me shenjën e pastërtisë e as me shenjën e prodhuesit, por nëse i plotësojnë kushtet nga neni 7 të Ligjit për punimet nga metalet e çmuara vulosen me vulën e Departamentit të Metrologjisë në kuadër të Ministrisë së Tregtisë dhe Industrisë.
