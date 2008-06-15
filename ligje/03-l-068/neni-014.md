@@ -1,0 +1,12 @@
+# Neni 14
+Kompetencat e Zgjeruara të Komunës së Mitrovicës Veriore
+Kompetencat e poshtëshënuara janë kompetencat komunale për arsimin e lartë në Mitrovicën Veriore:
+a) Universiteti i Mitrovicës Veriore është institucion publik autonom i arsimit të lartë;
+b) Universiteti miraton statutin që saktëson organizimin dhe qeverisjen e brendshëm të tij si dhe procedurat dhe ndërveprimin me autoritetet publike, në pajtim me legjislacionin kornizë qendror të Republikës së Kosovës, i cili do të shqyrtohet nga një komision i pavarur:
+(i) komisioni i pavarur përbëhet prej shtatë (7) anëtarëve: (ii) tre (3) përfaqësues të përzgjedhur nga MASHT-i; (iii) tre (3) përfaqësues të zgjedhur nga universiteti; dhe (iv) një (1) anëtar ndërkombëtar, i përzgjedhur nga Përfaqësuesi Civil Ndërkombëtar, i cili e përfaqëson edhe atë. (v) komisioni i merr vendimet me shumicë votash; (vi) kryesimi i komisionit bëhet përmes rotacionit në mes të përfaqësuesit të zgjedhur nga
+Universiteti dhe një përfaqësues i përzgjedhur nga MASHT-i.
+c) Vendimet për pajtueshmërinë e statutit me legjislacionin kornizë qendror, standardet dhe praktikat më të mira evropiane si dhe për çështjet që kanë të bëjnë me akreditimin e universitetit brenda sistemit universitar te Kosovës merren nga komisioni i pavarur i themeluar sipas nenit 14b të këtij ligji;
+d) Komuna e Mitrovicës Veriore ka kompetencat për këtë universitetin publik në gjuhën serbe, në pajtim me ligjin në fuqi të Republikës së Kosovës;
+e) Universiteti do të ketë Bordin e përbërë nga nëntë (9) anëtarë, nga të cilët dy do të caktohen nga komuna dhe pesë (5) do të zgjidhen nga fakulteti apo nga organi i studentëve të Universitetit dhe dy (2) anëtarët tjerë do të zgjidhen në mënyrën e përcaktuar në statutin e Universitetit;
+f) Komuna gjithashtu do të sigurojë që Universiteti të ketë objekte dhe financim adekuat për veprimtarinë e tij nga buxheti i Republikës së Kosovës dhe burimet e tjera institucionale. Fondet për universitetin nga Republika e Serbisë duhet të jenë transparente dhe të bëhen publike, në pajtim me ligjet e Kosovës;
+g) Veprimet dhe burimet buxhetore që i ofrohen Universitetit të Mitrovicës Veriore duhet të jenë në pajtim me ligjin për Financat e Pushtetit Lokal dhe ligjin për Vetëqeverisje Lokale, në legjislacionin që hyn në fuqi deri më 1 janar 2009; dhe h) Komuna e Mitrovicës Veriore mund të bashkëpunojë me çdo komunë tjetër për drejtimin e universitetit.

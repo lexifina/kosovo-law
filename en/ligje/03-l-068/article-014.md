@@ -1,0 +1,13 @@
+# Article 14
+Enhanced Competencies of the Municipality in Mitrovicë/Mitrovica North
+The following shall be the municipal competencies for higher education in Mitrovice/Mitrovica North:
+a) The university of Mitrovice/Mitrovica North shall be an autonomous public institution of higher education;
+b) The university shall enact a statute to specify its internal organization and governance, and procedures and interaction with public authorities, in accordance with central framework legislation of the Republic of Kosovo, which shall be examined by an independent commission:
+i) the independent commission shall consist of seven (7) members: ii) three (3) representatives selected by the MEST; iii) three (3) representatives selected by the university; and iv) one (1) international member selected by and representing the International Civilian Representative.
+v) the commission shall take all decisions by a majority vote; vi) the Chairmanship of the commission shall rotate annually between a representative selected by the university and a representative selected by the MEST.
+c) Decisions on the conformity of the statute with central framework legislation, European standards and best practices and on matters concerning the accreditation of the university within the Kosovo university system shall be taken by the independent commission established by Article 14.b of this law;
+d) The Municipality of Mitrovicë/Mitrovica North shall have authority to exercise responsibility for this public Serbian language university, in accordance with applicable law of the Republic of Kosovo;
+e) The university shall have a Board consisting of nine (9) members, of which two (2) shall be appointed by the municipality, five (5) elected from among the faculty and/or student body of the university, and two (2) to be appointed in a manner to be determined by the statute of the university;
+f) The Municipality of Mitrovice/Mitrovica North shall ensure that the university receives adequate premises and funding for its operation from the budget of the Republic of Kosovo and other institutional sources. Funding for the university from the government of the Republic of Serbia must be transparent and made public, in accordance with the laws of Kosovo;
+g) Operations and budgetary resources provided to the University of North Mitrovicë/Mitrovica shall be in accordance with standards and criteria developed and promulgated in accordance with the laws on Local Government Finance and Local Self-Government in legislation prior to 1 January 2009; and
+h) The Municipality of Mitrovice/Mitrovica North may cooperate with any other municipality in operating the university.
