@@ -1,0 +1,2 @@
+# Article 6
+In the paragraph 3 of Article 5 of the Regulation the expression “the Special Representative of the Secretary-General” shall be completely taken out.
