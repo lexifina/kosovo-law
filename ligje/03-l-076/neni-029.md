@@ -1,0 +1,3 @@
+# Neni 29
+Publikimi i vendimeve të Autoritetit
+Autoriteti e informon me shkrim çdo person që drejtpërdrejt preket nga vendimi i Autoritetit përkitazi me dhënien apo marrjen e licencës, të certifikatës së sigurisë apo të lejes, me kontestin lidhur me marrëveshjen për qasjen në binarë apo me çfarëdo çështjeje tjetër të përcaktuar në nenin 28 dhe e informon për arsyet e atij vendimi brenda katërmbëdhjetë (14) ditësh nga marrja e vendimit të tillë. Autoriteti e publikon atë informatë rregullisht së paku çdo gjashtë (6) muaj dhe e njëjta mbahet në zyrat e Autoritetit për një periudhë pesëvjeçare(5) gjatë së cilës kohe do të jetë në dispozicion për kontroll nga publiku gjatë orarit të punës së Autoritetit.

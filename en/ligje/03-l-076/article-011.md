@@ -1,0 +1,15 @@
+# Article 11
+Management
+11.1 The Director-General shall be the chief executive officer of the Authority. The Director-General shall be appointed and dismissed by the Board. Anyone ineligible to serve on the Board shall also be ineligible to be appointed Director-General.
+11.2 The Director-General shall exercise the powers delegated to him by the Board and this Law and shall be responsible for:
+a) conducting the ordinary business of the Authority in accordance with any policies and instructions issued by the Board;
+b) appointing and dismissing Staff Members in accordance with internal policies and procedures and the applicable law;
+c) providing the Board with information with respect to matters to be discussed at Board meetings and ensuring the implementation of decisions by the Board;
+d) with the concurrence of the Board, performing any functions ancillary to Article 4.2 of this Law; and
+e) with the concurrence of the Board, contracting out the testing of railway equipment and investigation of accidents to a competent third party.
+11.3 The Director-General shall nominate one of the senior officials of the Authority to be the Deputy Director-General and to be his Designee.
+11.4 Staff Members may be seconded to the Authority by other institutions. Remuneration and conditions of service of seconded staff shall depend on the respective contracts that Staff Members have entered into. Privileges, immunities and liabilities to taxation in Kosovo of seconded Staff Members shall depend on the privileges and immunities of institution the seconded Staff Member is employed with, the respective tax regime applicable for such institution in Kosovo and the provisions of the contractual relationship between the Staff Member concerned and the institution.
+11.5 In the discharge of their duties to the Authority, the Staff Members shall not seek or receive instructions from any Government or from any other authority external to the Authority.
+11.6 Board members, Staff Members and the agents and sub-contractors of the Authority shall at all times maintain the confidentiality of any information which is obtained in course of their duties at or on behalf the Authority and not in the public domain and which may endanger the commercial or other interests of the Authority or any Person that has applied for, or been issued with, a License, Safety Certificate or Permit.
+11.7 A Staff Member shall avoid any conflicts of interest that may adversely influence the performance of official duties and declare any actual or potential conflicts of interest to the Authority at the time of recruitment and thereafter if an when such actual and potential conflicts of interest arise or become evident. Conflicts of interest for the purpose of this article may arise from personal or financial interests and from official dealings with, or discussions or decisions with respect to, a Related Person.
+11.8 A Staff Member shall declare, and shall be excluded from dealing with, any matter in which the Staff Member or a Related Person has a personal or financial interest.

@@ -1,0 +1,15 @@
+# Neni 11
+Menaxhmenti
+11.1 Drejtori i përgjithshëm do të jetë kryeshef ekzekutiv i Autoritetit. Drejtori i përgjithshëm do të emërohet dhe shkarkohet nga Bordi. Çdokush që nuk ka të drejtë të shërbejë në Bord nuk do të ketë të drejtë të emërohet as drejtor i përgjithshëm.
+11.2 Drejtori i përgjithshëm do t’i ushtrojë kompetencat që i delegohen atij nga Bordi dhe nga ky Ligj dhe është përgjegjës për:
+a) drejtimin e punëve të zakonshme të Autoritetit në pajtim me politikat dhe udhëzimet e nxjerra nga Bordi;
+b) emërimin dhe shkarkimin e anëtarëve të personelit në pajtim me politikat dhe procedurat e brendshme dhe ligjin në fuqi;
+c) sigurimin e informacioneve për Bordin lidhur me çështjet e diskutuara në mbledhjet e Bordit dhe sigurimin e zbatimit të vendimeve të Bordit;
+d) kryerjen e funksioneve nga neni 4.2 i këtij ligji, me pëlqimin e Bordit dhe
+e) kontraktimin e një pale të tretë kompetente për testimin e pajisjeve hekurudhore dhe hetimin e fatkeqësive, me pëlqimin e Bordit.
+11.3 Drejtori i përgjithshëm do të emërojë njërin nga zyrtarët e lartë të Autoritetit në postin e zëvendësdrejtorit të përgjithshëm dhe të caktuarit të tij.
+11.4 Anëtarët e personelit mund të caktohen të ndihmojnë Autoritetin nga institucione të tjera. Kompensimi dhe kushtet e shërbimit të personelit të caktuar në Autoritet do të varen nga kontratat e tyre përkatëse të cilat i kanë lidhur anëtarët e personelit. Privilegjet, imunitetet e përgjegjësitë dhe tatimi në Kosovë për anëtarët e personelit të caktuar si ndihmës do të varen nga privilegjet dhe imunitetet e institucionit ku punon anëtari i personelit i caktuar si ndihmës, regjimin përkatës tatimor të zbatueshëm për institucionin e tillë në Kosovë dhe dispozitat e marrëdhënieve kontraktuese ndërmjet anëtarit të personelit në fjalë dhe institucionit.
+11.5 Në kryerjen e detyrave për Autoritetin, anëtarët e personelit nuk do të kërkojnë ose pranojnë udhëzime nga asnjë qeveri apo nga ndonjë organ tjetër i jashtëm për Autoritetin.
+11.6 Anëtarët e Bordit, anëtarët e personelit, agjentët dhe nënkontraktuesit e Autoritetit, në çdo kohë do të ruajnë konfidencialitetin e informacioneve të marra gjatë kryerjes së detyrave të tyre apo në emër të Autoritetit dhe jo në sferën publike, të cilat mund të rrezikojnë interesat komerciale apo të tjera të Autoritetit apo të personit që ka paraqitur kërkesë apo të cilit i është lëshuar licenca, certifikata e sigurisë ose leja.
+11.7 Anëtari i personelit do t’iu shmanget konflikteve të interesit që në mënyrë të pafavorshme mund të ndikojnë në kryerjen e detyrave zyrtare dhe Autoritetit i deklaron për konfliktet aktuale apo të mundshme të interesit në kohën e rekrutimit dhe më vonë nëse paraqiten konflikte të tilla aktuale apo të mundshme apo bëhen të dukshme. Sipas këtij neni konfliktet e interesit mund të paraqiten nga interesat personale ose financiare dhe nga zyrtarët që merren me personin e tillë apo diskutimet dhe vendimet lidhur me personin e afërt.
+11.8 Anëtari i personelit do të deklarojë dhe do të përjashtohet nga marrja me ndonjë çështje në të cilën anëtari i personelit apo personi i afërt ka interes personal apo financiar.
