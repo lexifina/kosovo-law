@@ -1,0 +1,9 @@
+# Article 37
+Parliamentary Inquiries
+37.1 If the parliamentary oversight body has grounds to believe that the KIA is performing its duties in an unlawful, inappropriate or unprofessional manner, it may conduct an inquiry during the course of which the parliamentary oversight body may question KIA employees and have access to relevant KIA documents.
+37.2 Parliamentary inquiries shall be closed to the public unless otherwise specified by the Chairperson of the parliamentary oversight body, at his or her discretion or following the recommendation and vote of a simple majority of the members of the parliamentary oversight body.
+37.3 If the parliamentary oversight body finds that the operation of the KIA is unlawful, it may call the Prime Minister to take necessary measures and to initiate an examination of liability.
+37.4 The Prime Minister shall be obliged to inform the parliamentary oversight body about the findings of any examination conducted pursuant to the provisions of this Article.
+37.5 In the exercise of its function, the parliamentary oversight body may request information from the Prime Minister, KIA Director, or any KIA employee. In furtherance of this function the parliamentary oversight body may order the KIA Director appear to before it so that the KIA Director may give an oral report regarding the activities of the KIA.
+37.6 In the course of parliamentary oversight exercised by the parliamentary oversight body, classified information shall be made available unless its disclosure would threaten vital national security interests linked to the protection of sources or methods in a specific case.
+37.7 If Prime Minister or the KIA Director chooses to withhold information from the parliamentary oversight body on the basis of Article 36.5 above, he shall immediately inform the parliamentary oversight body in writing with an explanation for withholding such information.

@@ -1,0 +1,6 @@
+# Article 8
+Intra-Governmental Cooperation
+8.1 Cooperation between the KIA and the Kosovo Police, the Ministry of Internal Affairs, and other Security and Public Safety Institutions shall be of paramount importance. The KIA shall cooperate with other Kosovo government institutions for the purpose of protecting the officers, facilities and information of the KIA.
+8.2 A memorandum on cooperation, assistance and mutual coordination of the activities between the KIA and the Kosovo Police, the Ministry of Internal Affairs, and other relevant governmental institutions shall be signed after the appointment of a KIA Director. The government shall define general principles for coordination and assistance between and among the KIA and bodies and institutions in Kosovo.
+8.3 The KIA and other bodies and institutions in Kosovo shall be obliged to mutually cooperate and assist one another in performing their duties and shall coordinate activities within their competence, consistent with the applicable laws and regulations regarding the protection of sources, methods and other classified information.
+8.4 The Director of KIA, with the approval of the Prime Minister, makes agreements with institutions in Kosovo for the provision of undercover intelligence support.

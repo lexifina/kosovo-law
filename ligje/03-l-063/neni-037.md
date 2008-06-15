@@ -1,0 +1,9 @@
+# Neni 37
+Hetimet parlamentare
+37.1 Nëse komisioni mbikëqyrës parlamentar ka bazë të besojë se AKI-ja po kryen detyrat e veta në mënyrë të paligjshme, të papërshtatshme apo joprofesionale, ai mund të kryejë një hetim gjatë të cilit komisioni mbikëqyrës parlamentar mund të marrë në pyetje Punonjësit e AKI-së dhe të ketë qasje në dokumentet relevante të AKI-së.
+37.2 Hetimet parlamentare janë të mbyllura për opinionin përveç nëse caktohet ndryshe nga kryesuesi i organit mbikëqyrës parlamentar, në bazë të diskrecionit të tij apo saj, ose pas rekomandimit dhe votimit të shumicës së thjeshtë të anëtarëve të komisioni mbikëqyrës parlamentar.
+37.3 Nëse komisioni mbikëqyrës parlamentar konstaton se operacioni i AKI-së është i paligjshëm, ai mund të ftojë kryeministrin të ndërmarrë masat e nevojshme dhe të iniciojë shqyrtimin e përgjegjësisë.
+37.4 Kryeministri është i obliguar të informojë komisionin mbikëqyrës parlamentar për rezultatet e çdo shqyrtimi të kryer sipas dispozitave të këtij Neni.
+37.5 Gjatë kryerjes së funksionit të vet, komisioni mbikëqyrës parlamentar mund të kërkojë informacion nga kryeministri, drejtori i AKI-së, ose cilido Punonjës i AKI-së. Në avancim të këtij funksioni, komisioni mbikëqyrës parlamentar mund të urdhërojë drejtorin e AKI-së të paraqitet para tij në mënyrë që drejtori i AKI-së të japë raport gojor në lidhje me aktivitetet e AKI-së.
+37.6 Gjatë mbikëqyrjes parlamentare të ushtruar nga komisioni mbikëqyrës parlamentar, do të vihet në dispozicion informacion i klasifikuar përveç nëse shpalosja e tij do të kërcënonte interesat vitale të sigurisë kombëtare të lidhura me mbrojtjen e burimeve dhe metodave në një rast specifik.
+37.7 Nëse Kryeministri apo drejtori i AKI-së vendosin të mos i ofrojnë informacion komisionit mbikëqyrës parlamentar në bazë të Nenit 36.5 më lartë, ai do të informojë menjëherë me shkrim komisionin mbikëqyrës parlamentar me shpjegimin për mosofrimin e atij informacioni.

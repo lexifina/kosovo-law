@@ -1,0 +1,5 @@
+# Article 25
+Dissemination of Information
+25.1 The KIA Director or his/her designee will approve the dissemination, as appropriate, to other governmental institutions of the results of its analysis on a timely basis and consistent with the protection of classified information.
+25.2 If in the performance of its functions, the KIA establishes that grounds exist for suspicion that a certain person or entity has committed or is committing a criminal offense, or is preparing or organizing a criminal offense subject to public prosecution, it is bound to notify the General Director of the Kosovo Police and the competent public prosecutor.
+25.3 If a case deriving from Article 25.2, above, involves the suspicion of a criminal offense against the security of the Government of Kosovo and its constitutional order, the KIA Director may submit a demand to the competent public prosecutor that the Police temporarily suspends the execution of its acts and measures in pre-criminal proceedings when this is in the interest of national security and the lives and health of third persons are not thereby put at risk.

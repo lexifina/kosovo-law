@@ -1,0 +1,5 @@
+# Neni 25
+Shpërndarja e informacionit
+25.1 Drejtori i AKI-së ose i emëruari i tij/saj, sipas nevojës aprovojnë shpërndarjen rezultateve të analizave të tij tek institucionet tjera qeveritare në periudha të caktuara dhe në pajtueshmëri me mbrojtjen e informacionit të klasifikuar.
+25.2 Nëse gjatë kryerjes së funksioneve të veta, AKI-ja bindet se ekziston bazë për dyshim se një person apo subjekt i caktuar ka kryer apo po kryen një vepër penale, apo po përgatitë apo organizon një vepër penale që i nënshtrohet ndjekjes publike, ajo është e obliguar të njoftojë drejtorin e përgjithshëm të Policisë së Kosovës dhe prokurorin publik kompetent.
+25.3 Nëse një rast që del nga Neni 25.2 më lartë, përfshinë dyshimin për një vepër penale kundër sigurisë së Qeverisë së Kosovës dhe rendit të saj kushtetues, drejtori i AKI-së mund t'i paraqesë një kërkesë prokurorit publik kompetent që policia të suspendojë përkohësisht ekzekutimin e akteve dhe masave në procedimet parapenale kur kjo është në interes të sigurisë kombëtare dhe kur jetët dhe shëndeti i personave të tretë me këtë nuk vihen në rrezik.

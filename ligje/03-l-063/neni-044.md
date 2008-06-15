@@ -1,0 +1,7 @@
+# Neni 44
+Veprimi kalimtar
+44.1 Me miratim paraprak të kryeministrit, drejtori i AKI-së mund të zbatojë ligje dhe rregullore të zbatueshme ndaj institucionet qeveritare të Kosovës në atë masë që zbatimi i ligjit nuk është në mospërputhje me dispozitat e këtij Ligji. Një zbatim i tillë nuk do të bëhet për një periudhë me të gjatë se gjashtë (6) muaj pas themelimit të AKI-së.
+44.2 Në pritje të miratimit dhe zbatimit të legjislacionit relevant për mbrojtjen e informative të klasifikuara, drejtori i AKI-së lëshon rregullore që përkohësisht krijon një sistem për klasifikimin e informacionit, masat për mbrojtjen e këtij informacioni, dhe përgjegjësitë e punonjësve për mbrojtjen e këtij informacioni të sigurisë.
+44.3 Krijimi i vendeve të lira të punës që dalin nga ky ligj bëhet nga data e hyrjes në fuqi të këtij ligji, sipas nenit 45.
+44.4 Në pritje të miratimit të procedurës për lejen e sigurisë, Punonjësit e AKI-së mund të marrin leje të përkohshme sigurie, valide deri në gjashtë (6) muaj, nën kushtin që këta punonjëse të dorëzojnë pyetësorin për lejen e sigurisë, përmbajtja e të cilit nuk zbulon bazat e qarta të refuzimit të lejes së sigurisë. Leja e përkohshme e sigurisë mund të ripërtërihet vetëm njëherë, për një periudhë që nuk mund jetë më shumë se gjashtë muaj.
+44.5 neni 44.4 i këtij Ligji zbatohet vetëm ndaj individëve të cilët i bashkohen AKI-së para zbatimit të procedurës për lejen e sigurisë.

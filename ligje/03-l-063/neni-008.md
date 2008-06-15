@@ -1,0 +1,6 @@
+# Neni 8
+Bashkëpunimi brenda qeveritar
+8.1 Bashkëpunimi ndërmjet AKI-së dhe Policisë së Kosovës, Ministrisë për Punë të Brendshme, si dhe me institucionet tjera të sigurisë publike do të jetë i rëndësisë primare. AKI-ja bashkëpunon me institucionet tjera qeveritare në Kosovë me qëllim të mbrojtjes së zyrtarëve, objekteve dhe informacionit të AKI-së.
+8.2 Pas emërimit të drejtorit të AKI-së, nënshkruhet një memorandum për bashkëpunim, ndihmë dhe koordinim të ndërsjellë të aktiviteteve ndërmjet AKI-së dhe Policisë së Kosovës, Ministrisë për Punë të Brendshme dhe institucioneve tjera relevante qeveritare. Qeveria definon parimet e përgjithshme të koordinimit dhe asistencës ndërmjet dhe brenda AKI-së dhe organeve dhe institucioneve në Kosovë.
+8.3 AKI-ja dhe organet dhe institucionet tjera në Kosovë janë të obliguara të bashkëpunojnë dhe ndihmojnë njëra-tjetrën në kryerjen e detyrave të tyre dhe të koordinojnë aktivitetet brenda kompetencave të veta, në harmoni me ligjet dhe rregulloret në fuqi në lidhje me mbrojtjen e burimeve, metodave dhe informacionit tjetër të klasifikuar.
+8.4 Drejtori i AKI-së, me miratim të kryeministrit, bënë marrëveshje me institucionet në Kosovë për ofrimin e mbështetjes për inteligjencën e fshehtë.

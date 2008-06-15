@@ -1,0 +1,7 @@
+# Article 44
+Transitional Operation
+44.1 With the prior approval of the Prime Minister, the KIA Director may apply laws and regulations applicable to governmental institutions to such extent as such application of law is not inconsistent with the provisions of the present Law. Such application shall not be made for a period greater than six (6) months following the establishment of the KIA.
+44.2 Pending the approval and implementation of the relevant legislation on the protection of classified information, the KIA Director shall issue a regulation provisionally establishing a system of classification of information, the measures of protecting this information, and the responsibilities of employees for the protection of this security information.
+44.3 The creation of the vacancies following from this law shall be rendered from the date of entry into force of this Law, pursuant to Article 45.
+44.4 Pending the establishment of a security clearance procedure, an employee of the of the KIA may be issued with a provisional security clearance, valid up to 6 months, provided that such employee has submitted a completed security clearance questionnaire, the contents of which do not reveal obvious grounds for denial of a security clearance. The provisional security clearance may be renewed once, for a period that shall not exceed an additional six months.
+44.5 Article 44.4 of this Law only applies to individuals joining the KIA prior to the implementation of the security clearance procedure.
