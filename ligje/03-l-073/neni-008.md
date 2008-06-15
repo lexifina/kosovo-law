@@ -1,0 +1,8 @@
+# Neni 8
+Shqyrtimi i Listës së Votuesve dhe Periudha e Kundërshtimit
+8.1 Votuesit me të drejtë vote mund të kundërshtojnë, siç është e përcaktuar në nenin 9, pasaktësitë apo lëshimet në Listën e Votuesve gjatë periudhës së vendosur për atë qëllim nga KQZ-ja.
+8.2 Para fillimit të Periudhës së Kundërshtimit dhe Konfirmimit, pas shpalljes së datës së zgjedhjeve nga Presidenti i Kosovës, Sekretariati i KQZ-së e bën LV-në të disponueshme në zyrat e KKZ-së në secilën komunë, sikurse është përcaktuar me rregullat e KQZ-së dhe në pajtim me rregullat për mbrojtjen e të dhënave. Përveç kësaj, KKZ-ja mund të përcaktojë lokacione shtesë për të publikuar LV-të kur kjo është e nevojshme për të siguruar qasje në të brenda komunës së saj.
+8.3. Vendimet për ndryshimet në LV merren nga gjykata e shkallës së parë.
+8.4 Para fillimit të periudhës së kundërshtimit KQZ-ja pajis me LV Personin Kontaktues të secilit subjekt politik të certifikuar. Çdo përdorim i LV-së nga subjektet politike të certifikuara që është në kundërshtim me Kapitullin V për Kodin e Mirësjelljes të Subjekteve Politike dhe Mbështetësve të Tyre dhe Kandidatëve, paraqet shkelje të këtij ligji. Ndryshimet në LV mund të bëhen në përputhje me rregullat e KQZ-së.
+8.5 KQZ-ja pajis me LV gjatë periudhës së zgjedhjeve vëzhguesit e akredituar të zgjedhjeve sipas kërkesave të tyre individuale. Vëzhguesit e akredituar të zgjedhjeve mund të vëzhgojnë Periudhën e kundërshtimit dhe konfirmimit në të gjitha lokacionet ku LV-ja është në dispozicion për tu shikuar.
+8.6 Pasi që publiku të ketë pasur mundësinë të sfidojë pasaktësitë dhe mangësitë ne Listën e Votuesve, mirëpo para ditës së zgjedhjeve, KQZ-ja vërteton se Lista e Votuesve është në përputhje me ligjin në fuqi.

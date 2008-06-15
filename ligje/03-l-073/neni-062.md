@@ -1,0 +1,5 @@
+# Neni 62
+Betimi dhe Emërimi
+62.1 Presidenti i lëshon një shkresë emërimi secilit anëtar të KQZ-së, të cilët paraqiten personalisht para Presidentit ose përfaqësuesit të tij të caktuar në datën e shpallur nga Presidenti për ta dhënë deklaratën vijuese në gjuhën të cilën ai ose ajo e zgjedh vetë: “Deklaroj solemnisht se do t’i kryejë detyrat e mia si anëtar i KQZ-së në mënyrë të ndershme, besnike, të paanshme, profesionale dhe të ndërgjegjshme.”
+62.2 Nëse personi i emëruar si anëtar i KQZ-së pa arsye nuk e jep betimin në pajtim me nenin.
+67.1, Presidenti kërkon nga autoritetet që e kanë caktuar atë person që ta caktojnë një person tjetër. Nëse autoritetet nuk e caktojnë një person të pranueshëm për të qenë anëtar i KQZ-së brenda katërmbëdhjetë (14) ditëve prej kohës kur bëhet një kërkesë e tillë, Presidenti ka liri veprimi ta zgjedhë dhe emërojë një person të pranueshëm për ta plotësuar postin e lirë.

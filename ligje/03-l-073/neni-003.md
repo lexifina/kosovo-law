@@ -1,0 +1,55 @@
+# Neni 3
+Përkufizimet
+Për qëllim të këtij ligji,
+“Aktiviteti i Fushatës Politike” do të thotë çfarëdo tubimi ose fjalimi politik, mbledhje, prezantim publik, ose ndonjë aktivitet i përgatitur për të propaganduar mesazh politik në lidhje me zgjedhjet;
+“Borxhi” do të thotë të gjitha shumat monetare të cilat subjekti politik është i detyruar t’ua paguajë personave të tjerë;
+“Burime” përfshijnë artikujt e prekshëm dhe të paprekshëm siç janë përcaktuar në rregullat e një institucioni, sikurse janë automjetet, materialet shpenzuese, fotokopja, telefoni, telefoni celular, pajisjet e zyrës, objektet;
+“Fletë bilanci” do të thotë deklarimi financiar i subjekteve politike i pasurive, detyrimeve dhe kapitalit siç është e përkufizuar në këtë nen;
+“Formulari i Përputhjes së Rezultateve” (FPR) do të thotë formulari i miratuar nga KQZ-ja para çdo zgjedhjeve për qëllim të përputhjes së votave në një vendvotim;
+“Kandidati” do të thotë kandidati për deputet të Kuvendit të Kosovës, i cili garon në emër të një partie politike apo nisme qytetare;
+“Kandidati i pavarur” do të thotë kandidati për deputet të Kuvendit të Kosovës, i cili nuk i takon asnjë partie politike ose nisme qytetare dhe nuk garon në emër të asnjë subjekti tjetër politik;
+“Kapitali” do të thotë ndryshimi ndërmjet pasurive dhe borxheve;
+“Koalicioni” do të thotë koalicioni i dy ose më shumë subjekteve politike;
+“Komisioni Komunal i Zgjedhjeve” (KKZ) është organ përgjegjës për zbatimin e aktiviteteve zgjedhore brenda territorit të komunës;
+“KZAP” do të thotë Komisioni Zgjedhor për Ankesa dhe Parashtresa, një organ i pavarur përgjegjës për vendosjen për parashtresat dhe ankesat në lidhje me procesin zgjedhor; “Komuna” ka kuptimin e termit sipas nenit 124 të Kushtetutës së Kosovës;
+“Komuniteti” do të thotë banorët që i përkasin një grupi të njëjtë kombëtar, etnik, gjuhësor ose fetar, tradicionalisht të pranishëm në territorin e Kosovës; “ Kontributi” do të thotë dhurata, ndihma ose donacioni i cilitdo lloj që i jepet subjektit politik, qoftë në para të gatshme apo në të mira materiale, dhe përfshinë pagesën e borxheve të subjektit dhe sigurimin jo në baza komerciale, të pasurisë, të huas, të shërbimeve dhe të objekteve për shfrytëzim ose përfitim të subjektit. Shërbimet që i ofrohen subjektit politik nga individë në mënyrë vullnetare jashtë orarit të tyre të punës dhe pa pagesë nuk konsiderohen kontribute. Kontributi realizohet atëherë kur subjekti politik përfiton nga kontributi;
+“KQZ” do të thotë Komisioni Qendror i Zgjedhjeve, organ i pavarur i ekspertëve përgjegjës për administrimin e zgjedhjeve;
+“Kushtetuta” do të thotë Kushtetuta e Republikës së Kosovës;
+“Kuvendi” do të thotë Kuvendi i Kosovës;
+“Lista përfundimtare e votuesve” (LPV) do të thotë lista e votuesve ashtu siç përcaktohet në nenin 8.6 të këtij ligji;
+“Lista Përfundimtare e Votuesve të Vendvotimit” (LPV VV) do të thotë lista e votuesve të cilët janë caktuar të votojnë në një VV të rregullt, e cila mban nënshkrimin e atyre anëtarëve të cilët kanë hedhur votat e rregullta në atë VV;
+“Lista e votuesve me kusht” (LVK) do të thotë lista e zbrazët e votuesve që do të përdoret në VV-të ku hidhen fletëvotimet me kusht;
+“Lista e Votuesve” (LV) do të thotë lista e të gjithë votuesve me të drejtë vote për zgjedhje siç përcaktohet në nenin 7.1 të këtij ligji;
+“Media” do të thotë të gjitha televizionet dhe radiostacionet që transmetojnë në territorin e Kosovës dhe të cilët janë të licencuara nga Komisioni i Pavarur për Mediave, duke përfshirë edhe mediat e shkruara;
+“Ngjarje” do të thotë tubim politik në mjedis të mbyllur ose të hapur, mbledhje, marsh ose vargan, fjalim ose ndonjë aktivitet tjetër i ngjashëm i caktuar për të shpërndarë mesazh politik në mënyrë që të fitohet mbështetje nga votuesit;
+“Nisma Qytetare” do të thotë grupi i personave të cilët bashkohen vullnetarisht mbi bazën e një ideje, interesi ose pikëpamje të përbashkët, me qëllim zgjedhjen e kandidatëve të tyre, por që nuk dëshirojnë të formojnë parti politike;
+“Organizata Jo-Qeveritare” (OJQ) do të thotë çdo organizatë jo-qeveritare e regjistruar në përputhje me dispozitat e legjislacionit në fuqi;
+“Pagesa” do të thotë transferimi i pagesës me vlerë, përfshirë dhe pagesën në formë të mallrave dhe shërbimeve. Pagesa bëhet në kohën kur merret përfitimi nga pagesa;
+“Parti politike” do të thotë një organizim i individëve të cilët janë bashkuar vullnetarisht mbi bazën e ideve, interesit dhe pikëpamjeve të përbashkëta, me qëllim të ushtrimit të ndikimit dhe pasjes së përfaqësuesve të tyre të zgjedhur në zyrë publike, ose siç e përcaktuar ndryshe me legjislacionin në fuqi;
+“Pasuria” do të thotë e tërë pasuria e paluajtshme ose e luajtshme në pronë të drejtpërdrejtë ose jo të drejtpërdrejtë, përfshirë paratë e gatshme në dorë ose depozitat bankare, si dhe të ardhurat që burojnë prej tyre nga shitja, kalimi në posedim të një personi të tretë apo marrëveshje tjetër, vlera e bizneseve në pronësi dhe çdo send në zotërim që ka vlerë më të madhe se pesëqind euro (500 €) dhe me jetëgjatësi ekonomike më të gjatë se tri (3) vjet;
+“Periudha e kundërshtimit dhe e konfirmimit” do të thotë periudha kohore pas shpalljes së ditës së zgjedhjeve nga Presidenti i Kosovës, gjatë së cilës votuesit me të drejtë vote mund të kundërshtojnë pasaktësitë ose lëshimet në Listën e Votuesve në vendet e caktuara nga KQZ-ja dhe në përputhje me rregullat dhe procedurat e themeluara nga KQZ-ja;
+“Periudha e fushatës” do të thotë periudha prej tridhjetë (30) ditëve për fushatën zgjedhore të subjekteve politike e cila përfundon një (1) ditë para ditës së zgjedhjeve;
+“Personi kontaktues” do të thotë personi i cili është i autorizuar të komunikoj në emër të subjektit politik me zyrën për çështje jo-financiare;
+“Përfaqësuesi financiar” do të thotë personi që është personalisht përgjegjës për mbajtjen e shënimeve financiare të subjektit politik, duke siguruar pajtueshmërinë e subjektit me këtë ligj dhe duke komunikuar me Sekretariatin e KQZ-së lidhur me raportet për deklarimin e financave të fushatës së subjektit;
+“Pikë publicitare politike” do të thotë një reklamë e vetme e natyrës politike që përfaqëson pikëpamjet e subjektit politik të certifikuar që transmetohet nga transmetuesi medial;
+“Nëpunësi publik” përfshinë, por nuk kufizohet në, personin në marrëdhënie pune me departamentin e administratës qeveritare, administratës komunale apo ndonjë organi të ngjashëm, paga e të cilit bëhet nga fondet e siguruara nga Buxheti i Konsoliduar i Kosovës;
+“Qasja e drejtë” do të thotë qasje e drejtë dhe e përpjesshme në media të shkruara dhe elektronike në kuptim të periudhave kohore të mbulimit nga mediat, vendosjes së numrit të rreshtave në mediat e shkruara, pa diskriminim për ose kundër cilitdo subjekt të veçantë të certifikuar;
+“Qendra e Numërimit dhe e Rezultateve” (QNR) do të thotë lokacioni ku numërohen fletëvotimet me kusht (FK-të), fletëvotimet jashtë Kosovës, dhe çdo fletëvotim i rregullt siç kërkohet nga Komisioni Qendror i Zgjedhjeve (KQZ) apo Komisioni Zgjedhor për Ankesa dhe Parashtresa, FPR-të nga secili VV auditohen dhe tabelohen, dhe rezultati përfundimtar përpilohet;
+“Qendra e Votimit” (QV) do të thotë ndërtesa ku ndodhen një apo më shumë vendvotime për qëllim të votimit në zgjedhje dhe përfshinë një hapësirë publike brenda rrezes 25 metra nga dera e hyrjes në ndërtesë;
+“Regjistri Qendror Civil” do të thotë regjistri i banorëve të përhershëm, sipas Ligjit për Shtetësinë dhe sipas këtij ligji;
+“SKQZ” do të thotë Sekretariati i KQZ-së;
+“Subjekti politik” do të thotë parti politike, koalicion, nismë qytetare ose kandidat i pavarur;
+“Subjekti(et) i certifikuar politik” do të thotë subjekti politik, që është partia politike, koalicioni i partive politike, nisma qytetare ose kandidati i pavarur, i cili është i certifikuar nga Komisioni Qendror i Zgjedhjeve, në përputhje me këtë ligj dhe me rregullat e KQZ-së;
+“Shpenzimi” do të thotë pagesa e bërë për mallra ose për blerje të mallrave, materialeve, punës, ose shërbimeve, qofshin ato të prekshme ose të paprekshme. Shpenzimi bëhet në datën kur bëhet pagesa ose blerja ose në datën kur sigurohen mallrat, materialet, puna ose shërbimet, cilado që bëhet më parë;
+“Shpenzimi për fushatë” do të thotë çdo pagesë e bërë për mallra ose blerje te mallrave, materialeve, punës, shërbimeve, qofshin ato të prekshme ose të paprekshme, me qëllim të ndikimit të drejtpërdrejtë në zgjedhje, pavarësisht nëse bëhen për mbështetje të kandidatit të posaçëm, partisë politike, koalicionit ose nismës qytetare, siç janë shpenzimet për reklamim në mediat e shtypura; prodhimin e spoteve transmetuese; materialet e fushatës, përfshirë pamfletet, posterët, butonat; ekspozim të reklamave, përfshirë stendat e afishimit dhe prodhimin e tyre; kontributet bamirëse. Këto nuk përfshijnë shpenzimet e bëra në mbështetje të veprimtarive të rregullta të subjektit politik. Mallrat ose shërbimet për të cilat pagesat janë bërë para ose pas periudhës së fushatës, për përdorim gjatë periudhës së fushatës, po ashtu konsiderohen si shpenzime për fushatë;
+“Shtetasi i Kosovës”/banor i përhershëm i Kosovës është ai individ që i plotëson kriteret e përcaktuara në nenin 28 të Ligjit për Shtetësinë;
+“Të ardhura” do të thotë çdo shumë monetare e pranuar si kuotë anëtarësie ose tarifë; qiraja; kontributet nga jashtë nga individët, bizneset ose organizatat e çfarëdo lloji; donacionet; vlera e kontributeve në formë të mallrave dhe shërbimeve (bamirëse) kontributet dhe çfarëdo pagese për subjektin politik;
+“Transmetuesi në shërbim publik” do të thotë organizata e transmetuesit publik jofitimprurës të Kosovës, siç përcaktohet me Ligjin për Radio-Televizionin e Kosovës;
+“Transmetuesi privat” do të thotë transmetuesi i cili nuk është në pronësi publike;
+“Tribunali” do të thotë Tribunali Penal Ndërkombëtar për ish-Jugosllavinë (TPNJ);
+“Vendvotimi” (VV) do të thotë një dhomë, sallë ose objekt i ngjashëm për qëllim të votimit në Ditën e Zgjedhjeve dhe që, po ashtu, përfshinë hapësirën publike me rreze prej 25 metra të hyrjes në ndërtesë në të cilën ndodhet vendvotimi;
+“Vëzhguesi i akredituar” do të thotë përfaqësuesi i një subjekti të certifikuar politik, organizate joqeveritare, qeveritare ose ndërqeveritare, organizate ndërkombëtare të specializuar dhe të përfshirë në mbrojtjen e të drejtave të njeriut, vendi të huaj, ose media, që ka dorëzuar kërkesën për vëzhgim të zgjedhjeve dhe ka marrë miratimin nga KQZ-ja në pajtim me këtë ligj dhe me rregullat e KQZ-së;
+“Votimi i Personave me Nevoja të Veçanta” (VPNV) do të thotë marrëveshjet e bëra dhe procedurat e ndjekura për ata votues me të drejtë vote në Kosovë të cilët nuk mund të votojnë personalisht në VV-në në të cilën janë caktuar për Ditën e Zgjedhjeve;
+“Votuesi jashtë Kosovës” do të thotë aplikuesi i suksesshëm nga jashtë Kosovës që përdor një nga mënyrat e votimit jashtë territorit të Kosovës, siç është e saktësuar në rregullat e KQZ-së;
+“Zgjedhje” do të thotë zgjedhje për Kuvendin e Kosovës;
+“Zyra” do të thotë Zyra për Regjistrimin e Partive Politike dhe Certifikim në kuadër të KQZ-së që vepron ashtu siç është e saktësuar me legjislacionin në fuqi.
