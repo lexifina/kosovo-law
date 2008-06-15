@@ -1,0 +1,5 @@
+## CHAPTER XI
+## MUNICIPAL ELECTION COMMISSIONS
+# Article 21
+Chapter XI (Municipal Election Commission) and any provision relating to the subject matter thereof, of
+the Law on General Elections in the Republic of Kosovo shall mutatis mutandis apply to local elections unless otherwise provided by this Law.

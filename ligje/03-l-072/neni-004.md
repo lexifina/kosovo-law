@@ -1,0 +1,7 @@
+# Neni 4
+Data dhe shpallja e zgjedhjeve
+4.1 Pas konsultimit me partitë politike, Kryetari i Kosovës cakton dhe shpall datën e zgjedhjeve lokale.
+4.2 Zgjedhjet për organet vetëqeverisëse lokale mbahen ditën e diele për çdo katër (4) vite. Zgjedhjet nuk mund të mbahen më herët se gjashtëdhjetë (60) ditë para përfundimit të mandatit dhe jo më vonë se tridhjetë (30) ditë pas përfundimit të mandatit.
+4.3 Sipas kompetencave të Presidentit të Kosovës të përcaktuara me Kushtetutë, vendimi i Kryetarit për të caktuar datën e zgjedhjeve bëhet jo më vonë se katër (4) muaj dhe jo më herët se gjashtë (6) muaj, para datës së zgjedhjeve.
+4.4 Pas shpërbërjes së Kuvendit të Komunës ose shkarkimit të Kryetarit të Kuvendit, nëse nuk parashtrohet ankesë në afat prej pesë (5) ditësh tek Gjykata Kushtetuese, zgjedhjet e parakohshme lokale shpallen nga Presidenti i Kosovës. Pas shpërbërjes së Kuvendit të Komunës zgjedhjet e parakohshme shpallen jo më vonë se dhjetë (10) ditë pas shpërbërjes. Zgjedhjet e parakohshme nuk mund të mbahen më herët se tridhjetë (30) ditë dhe jo më vonë se dyzetepesë (45) ditë pas shpërbërjes. Zgjedhjet e parakohshme qeverisen përmes ligjeve të njëjta dhe rregullat e KQZ-së sikurse edhe zgjedhjet tjera, përveç se KQZ-ja mund të ndryshojë afatet kohore në rast se kjo nevojitet për shkak të rrethanave.
+4. 5 Vendimi për caktimin e zgjedhjeve bëhet publik në ‘Gazetën Zyrtare të Kosovës’.

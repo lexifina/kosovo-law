@@ -1,0 +1,18 @@
+# Neni 3
+Parimet themelore
+3.1 Mbajtja dhe administrimi i zgjedhjeve lokale në Kosovë dhe legjislacioni përkatës zgjedhor udhëhiqen nga parimet në vazhdim:
+- Zgjedhjet Komunale mbahen në bazë të votës së lirë, të përgjithshme, të barabartë, të drejtpërdrejtë dhe të fshehtë në përputhje me rregullat e këtij ligji dhe rregullave të KQZ-së.
+- Votuesit me të drejtë vote janë të barabartë në ushtrimin e të drejtës së tyre për të votuar dhe për të hedhur numër të barabartë të votave në zgjedhjet e njëjta.
+- Çdo qytetar i Kosovës ka të drejtë për të votuar dhe të zgjidhet pa diskriminim në bazë të racës, etnisë, ngjyrës, gjuhës, gjinisë, besimit fetar apo bindjes politike, arsimit, përkatësisë sociale apo ndonjë kriteri tjetër të ngjashëm në përputhje me dispozitat e këtij ligji.
+- Organet e administrimit të zgjedhjeve ndërmarrin aktivitete për edukimin e votuesve me qëllim të rritjes së aftësive të votuesve për procedurat e votimit dhe mbrojtjes së të drejtave zgjedhore. Për këtë qëllim, organet e administrimit të zgjedhjeve vejnë në dispozicion materialin në gjuhët e komuniteteve në ato zona gjeografike ku ato komunitete gjenden dhe përmes mediave që veprojnë në gjuhët minoritare.
+- Liria dhe fshehtësia e votës është e garantuar. Askush nuk ka të drejtë të pengoj ndonjë qytetar për të votuar, ta detyroj atë të votoj në mënyrë të veçantë, të mbaj atë përgjegjës për votën, ose të kërkoj, kundër dëshirës së tij/saj, që të zbuloj votën e tij/saj ose arsyet për mosvotim.
+- Të gjitha subjektet politike janë të lira për të bërë fushatë dhe të bëjnë marketing zgjedhor në media, përmes mbajtjes së ngjarjeve politike dhe duke botuar dhe shpërndarë materiale për fushatë në çfarëdo mënyre ligjore në përputhje me rregullat e vendosura sipas legjislacionit të zbatueshëm.
+- Subjektet politike kanë mundësi të barabartë për emisione në radio dhe televizion, fonde publike dhe format të tjera të përkrahjes.
+- Përdorimi i posteve publike, burimeve ose personelit të cilitdo institucioni në nivel qendror ose lokal me qëllim të përkrahjes së subjektit politik në zgjedhje është rreptësishtë i ndaluar.
+- Subjektet politike nuk mund të shfrytëzojnë nëpunësit civil që përdorin burimet ose personelin për fushatë gjatë zgjedhjeve.
+- Të gjitha subjektet politike dhe organet zgjedhore janë të obliguara që ti respektojnë kërkesat për kuotën e gjinisë siç përcaktohet më tutje me këtë ligj.
+- Të gjitha subjektet politike, përkrahësit e tyre dhe të gjitha institucionet tjera janë të obliguara të respektojnë parimet themelore të përcaktuara në këtë nen dhe të ndërmarrin të gjitha masat për të siguruar mbajtjen e zgjedhjeve të lira, të drejta dhe të mirë-informuara brenda klimës së tolerancës demokratike, paqes dhe respektit për sundimin e ligjit.
+3.2 Kryetari i Komunës dhe anëtarët e Kuvendit Komunal, nuk mund të jenë anëtarë të asnjë organi tjetër të zgjedhur.
+3.3 Të gjitha subjektet politike janë të lira për të mbajtur fushatë, në përputhje me rregullat dhe legjislacionin e zbatueshëm, përfshirë Kreun VIII të Ligjit mbi Zgjedhjet e Përgjithshme.
+3.4 Person i cili mban post publik, të zgjedhur ose emëruar nuk mund ta përdor atë post apo ndonjë nga burimet e tij për qëllim të sigurimit të votave. Asnjë burim i ndonjë institucioni të administratës publike në nivel qendror ose komunal apo ndonjë ndërmarrje në pronësi apo e kontrolluar nga autoritetet qendrore ose lokale nuk mund të përdoret apo aplikohet në mbështetje të subjektit politik në zgjedhje.
+3.5 Gjatë kohëzgjatjes së fushatës zgjedhore asnjë subjekt politik nuk mund të inkurajojë apo përfitojë nga punëtorët publik duke përdorur postin e tij apo saj për të bërë fushatë për subjektin politik.

@@ -1,0 +1,7 @@
+# Article 4
+Date and announcement of election
+4.1 After consultation with political parties, the President of Kosovo sets and announces the date of local elections.
+4.2 Elections for the institutions of local self-government shall take place on a Sunday every four (4) years. Elections cannot be held earlier than sixty (60) days before the expiry of the mandate or later than thirty (30) days after the expiry of the mandate.
+4.3 According to the competencies of the President of Kosovo defined by the Constitution, the decision of the President to set the date of elections is made not later than four (4) months nor earlier than six (6) months before the date of the elections.
+4.4 Following the dissolution of the Municipal Assembly or dismissal of the Mayor, if there is no complaint filed within five (5) days in the Constitutional Court, early local elections shall be announced by the President of Kosovo. Upon dissolution of the Municipal Assembly early elections shall be announced no later than ten (10) days after the dissolution. Early elections may not be held earlier than thirty (30) days and no later than forty-five (45) days after the dissolution. Early elections shall be governed by the same laws and CEC rules as other elections, except that CEC may change time frames as needed in accordance with the circumstances
+4.5 The Decision to announce elections shall be made public in the ‘Official Gazette of Kosovo’.
