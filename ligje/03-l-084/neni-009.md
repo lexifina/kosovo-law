@@ -1,0 +1,3 @@
+# Neni 9
+Neni 5.1 i Rregullores të zëvendësohet në tërësi me nenin 5.1 në vijim:
+5.1 Fondi i Kursimeve Pensionale i Kosovës (më tej “Fondi”) është person i pavarur juridik nën mbikëqyrjen e BQK-së, i themeluar me qëllimin e vetëm dhe ekskluziv të administrimit dhe menaxhimit të llogarive individuale për pensionet e bazuara në kursime, në investim të kujdesshëm dhe në ruajtjen e mjeteve pensionale dhe pagimin e të ardhurave që krijohen në llogaritë individuale për blerjen e pensioneve vjetore, për pensionet e bazuara në kursime, si një administrues i besuar që vepron në emër të pjesëmarrësve dhe shfrytëzuesve.
