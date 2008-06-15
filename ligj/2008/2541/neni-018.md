@@ -1,0 +1,6 @@
+# Neni 18
+E drejta për përkthyes gjatë procedurës së azilit
+18.1 Azilkërkuesi ka të drejtë për të kuptuar dhe marrë pjesë në procedurë në gjuhën të cilën ai ose ajo e kupton. Nëse azilkërkuesi nuk e kupton gjuhën zyrtare të procedurës, atij/ asaj do t’i sigurohet përkthyesi gjatë tërë procedurës.
+18.2 Përkthyesi i azilkërkuesit duhet të jetë i licencuar nga Gjykata. Nëse kjo nuk është e mundshme, përkthimi duhet të bëhet nga një person i besueshëm i aftë për të përkthyer në gjuhën të cilën azilkërkuesi e kupton. Përkthyesi do të pajtohet për kushtet e fshehtësisë, siç parashihen me këtë ligj. Gjithashtu, në masën e mundshme, zgjedhja e përkthyesit duhet të ketë parasysh gjininë dhe rrethanat e azil-kërkuesit.
+18.3 Përkthyesi e gëzon të drejtën e kompensimit, që paguhet në pajtim me tarifat e përcaktuara nga Organi Kompetent.
+18.4 Azilkërkuesi do t’ia paraqes Organit Kompetent të gjitha dokumentet përkatëse në origjinal dhe kopje që i ka në dispozicion për shqyrtim gjatë procedurës së përcaktimit të azilit. Organi Kompetent do të sigurojë përkthimin e këtyre dokumenteve në gjuhën shqipe dhe në gjuhët e tjera zyrtare në Kosovë, nëse vlerësohet se është e domosdoshme për sjelljen e vendimit lidhur me kërkesën për azil.

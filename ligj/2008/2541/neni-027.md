@@ -1,0 +1,4 @@
+# Neni 27
+Refuzimi i kërkesës për Azil dhe Mbrojtje Plotësuese
+27.1 Organi Kompetent do të refuzojë kërkesën për azil nëse azilkërkuesi nuk e plotëson përkufizimin e refugjatit dhe konstatohet të mos ketë të drejtë për këtë status në pajtim me nenin 5 të këtij ligji. Organi Kompetent do t’i refuzojë të huajit Mbrojtjen Plotësuese nëse nuk i plotëson kriteret e parashtruara për Mbrojtjen Plotësuese ose nëse konstatohet se nuk e ka të drejtën për këtë status, siç parashihet në nenet 4 dhe 5 të këtij ligji.
+27.2 Kur Azili dhe Mbrojtja Plotësuese refuzohen, Organi Kompetent do të jep arsyet për vendimin me shkrim dhe do t’i jep një kopje të tij azilkërkuesit. Vendimi do t’i shpjegohet azilkërkuesit në një gjuhë të cilën ai ose ajo e kupton. Parashtruesit të kërkesës do t’i jepen 15 ditë për t’u ankuar ndaj vendimit refuzues.

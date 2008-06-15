@@ -1,0 +1,5 @@
+# Neni 4
+Njohja e azilit dhe e mbrojtjes plotësuese
+4.1 Kosova do t’i lejon Azilin të huajit për të cilin është përcaktuar se i plotëson kriteret në përkufizimin e refugjatit siç parashihet në nenin 2.8 të këtij Ligji dhe i cili nuk mund të përjashtohet siç parashihet në nenin 5 të këtij Ligji.
+4.2 Kosova i ofron mbrojtje plotësuese të huajit i cili nuk i plotëson kriteret e parapara në përkufizimin e refugjatit, por i plotëson kriteret e përcaktuara në definicionin e mbrojtjes plotësuese në nenin 2.7 të këtij Ligji. Nëse i huaji përjashtohet sipas nenit 5 të këtij Ligji, atëherë ai ose ajo nuk do të marrin mbrojtje plotësuese sipas nenit 2.7.1 iii të këtij Ligji. Nëse dhënia e mbrojtjes plotësuese bëhet në pajtim me nenin 2.7.1. i ose 2.7.1. ii të këtij Ligji atëherë bazat për përjashtim të përcaktuara në nenin 5 të këtij Ligji nuk vlejnë.
+4.3 Vendosja lidhur me azilin dhe mbrojtjen plotësuese, do të zhvillohet sipas procedurës së përcaktuar më këtë Ligj. Së pari shqyrtohen kërkesat për Azil.

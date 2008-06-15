@@ -1,0 +1,5 @@
+# Neni 25
+Vërtetimi i fakteve relevante
+25.1 Organi kompetent, sipas detyrës zyrtare, vërteton të gjitha faktet relevante për marrjen e vendimit. Organi kompetent, nëse e konsideron të domosdoshme, do të zhvillojë dëgjime plotësuese të azilkërkuesit, të shqyrtojë provat e nxjerra dhe nëse ka nevojë të kërkojë edhe prova të tjera.
+25.2 Në rastet kur zyrtari i autorizuar, i cili e udhëheq procedurën e azilit, ka nevojë për mendimin e ekspertit për të përcaktuar një fakt material në marrjen e vendimit lidhur me një kërkesë të azilit, Organi Kompetent është i autorizuar të konsultojë një ekspert të asaj fushe. Eksperti udhëzohet lidhur me fshehtësinë e procedurës dhe do të pajtohet me kushtet e fshehtësisë, siç përcaktohet me këtë Ligj.
+25.3 Organi Kompetent është i autorizuar të këshillohet me ekspertin në çështjet e dëshmive për përcaktimin e azilit sipas kërkesës së azil-kërkuesit, përfaqësuesit ligjor të tij ose të saj ose përfaqësuesit të Zyrës së UNHCR-së nëse e vlerëson se mendimi i tillë mund të jetë i rëndësishëm për të vendosur për azilin.
