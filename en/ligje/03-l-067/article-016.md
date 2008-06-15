@@ -1,0 +1,17 @@
+# Article 16
+Management and Staff
+16.1 The Managing Director, with the assistance of the two Deputy Managing Directors, shall be responsible for:
+a) performing all functions delegated to him by the Board;
+b) conducting the ordinary business of the Agency in accordance with any policies and instructions that might be issued by the Board;
+c) organizing, appointing and dismissing the staff (other than the Deputy Managing Directors and other officials whose appointment the Board has reserved to itself) in accordance with any decision made or instructions issued by the Board;
+d) preparing the meetings of the Board and ensuring the implementation of the decisions of the Board; and
+e) with the concurrence of the Board, performing any functions pursuant to Article 2.2 (b).
+16.2 The Managing Director shall report and be accountable to the Board and to no other party.
+16.3 The Managing Director and the two Deputy Managing Directors shall be appointed by the Board on nomination by the Chairman. They may at any time be dismissed by the Board. The Board shall determine the remuneration and other terms of service of the Managing Director and the two Deputy Managing Directors, without prejudice to Article 16.5 below.
+16.4 Persons ineligible for appointment as a Director of the Board under Article 13.4 shall also be ineligible for appointment as Managing Director or Deputy Managing Director, respectively. They shall also be ineligible if they hold a public office or are a member of the executive body of a political party.
+16.5 Management and other staff may be seconded to the Agency from other institutions. In such cases, their remuneration and personal conditions of service shall depend on their contract with the seconding institution. Privileges and immunities of seconded staff, if any, shall depend on the privileges and immunities of the seconding institution and the contractual relationship of the staff concerned with such institution. This rule shall also determine the liability of seconded staff to taxation in Kosovo.
+16.6 In the discharge of their offices, the Management and the staff owe their duty solely to the Agency. They shall not receive any instructions with respect to the discharge of their office from any authority other than the Board, or their hierarchical superior in the Agency.
+16.7 The Management and the staff shall maintain the confidentiality of information obtained in their service for the Agency both during and following their service for the Agency.
+16.8 The Management and staff shall not directly or indirectly have any interest in an Enterprise or any party seeking an interest in such Enterprise. The Management and staff shall also be barred from receiving a benefit from any party other than the Agency in relation to any action or inaction of the Agency without prejudice to Article 16.5.
+16.9 The Management and staff shall owe to the Agency the same duties of care, diligence and good faith as officers, management and staff of joint stock companies under the Regulation on Business Organizations.
+16.10 The Board, Management and the staff shall not be liable to any party other than the Agency for any action or inaction on behalf of the Agency within the scope of the authority vested in them by the Agency. The Board, Management and the staff shall be liable to the Agency for any breach of their duties under the present law or in accordance with their contracts with the Agency, without prejudice to Article 16.5.

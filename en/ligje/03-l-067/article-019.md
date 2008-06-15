@@ -1,0 +1,4 @@
+# Article 19
+Financial Policies
+19.1 The Board shall issue financial policies with a view to ensuring that the Agency carries out its activities in accordance with sound and prudent management practices and can meet its financial commitments without calling in unpaid capital pursuant to Article 17. Such policies may provide for administrative, transaction and service fees to be charged by the Agency to Enterprises, Corporations and any other beneficiaries of the Agency’s activities, provided that such fees are transparent, non- discriminatory and reasonable.
+19.2 Any monies collected by the Agency as a result of its activities under Articles 8 and 9 of the present Law and held in trust for the distribution to Creditors and Owners, shall be invested by the Agency in accounts, instruments or other means rated as investment grade by international rating agencies and in accordance with reasonable and prudent investment criteria.
