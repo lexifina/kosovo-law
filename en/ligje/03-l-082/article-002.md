@@ -1,0 +1,6 @@
+# Article 2
+General Principles
+2.1 The KSF is to be a flexible force with no territorial affiliation. Personnel may be required to serve anywhere within the territory of the Republic of Kosovo and may be deployed abroad on operations in accordance with Article 2 of the Law on the Kosovo Security Force.
+2.2 The KSF is to be a disciplined force, with a recognisable rank structure which will, inter alia, constitute the ‘chain of command’. Subordinates will follow the direction of their superiors and the ‘chain of command’ will provide an effective framework for the delivery of orders and information. Categories of rank will include General Officer, Officer, Non Commissioned Officer (NCO) and Enlisted Personnel.
+2.3 Recruits, including potential officers in training, have the same rights and obligations as active personnel unless stated otherwise in this law or TACOS promulgated pursuant to this law but may not be employed on operational or other tasks requiring specialist skills or knowledge.
+2.4 The terms and conditions of service for personnel serving within the KSF reserve shall be the subject of a separate law and regulations promulgated under that law. Where practical, reserve personnel on active duty shall have the same rights and obligations as active personnel unless stated otherwise in that law, this law or associated TACOS.
