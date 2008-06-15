@@ -1,0 +1,3 @@
+# Neni 20 [Bartja e Sovranitetit]
+1. Republika e Kosovës, në bazë të marrëveshjeve të ratifikuara ndërkombëtare, për çështje të caktuara mund të kalojë kompetenca shtetërore organizatave ndërkombëtare.
+2. Nëse një marrëveshje anëtarësimi e ratifikuar nga Republika e Kosovës për pjesëmarrje në një organizatë ndërkombëtare në mënyrë eksplicite kërkon zbatim të drejtpërdrejtë të normave të kësaj organizate, ligji me të cilin ratifikohet marrëveshja e anëtarësisë miratohet me votat e dy të tretave (2/3) të të gjithë deputetëve të Kuvendit dhe ato norma kanë epërsi ndaj ligjeve të Republikës së Kosovës.

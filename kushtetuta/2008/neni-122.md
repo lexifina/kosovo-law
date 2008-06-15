@@ -1,0 +1,4 @@
+# Neni 122 [Përdorimi i Pasurisë dhe Burimeve Natyrore]
+1. Populli i Republikës së Kosovës në pajtim me kushtet e arsyeshme të përcaktuara me ligj, mund të gëzojë resurset natyrore të Republikës së Kosovës, por nuk mund të shkel obligimet që dalin nga marrëveshjet ndërkombëtare për bashkëpunim ekonomik.
+2. Pasuritë natyrore, si ujërat, hapësira ajrore, pasuritë minerare dhe pasuritë e tjera natyrore, si dhe trualli, pyjet, bota bimore e shtazore, pjesët e tjera të natyrës, paluejtshmëria dhe të mirat e tjera me rëndësi të veçantë kulturore, historike, ekonomike dhe ekologjike, të cilat përcaktuar me ligj se janë përcaktuar me interes për Republikën e Kosovës, gëzojnë mbrojtjen e tyre të veçantë, në pajtim me ligjin.
+3. Kufizimet e të drejtave të pronarëve dhe të drejtave të tjera mbi eksploatimin e të mirave me interes të veçantë për Republikën e Kosovës dhe kompensimi për kufizimet e tilla rregullohen me ligj.

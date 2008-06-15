@@ -1,0 +1,12 @@
+# Article 29 [Right to Liberty and Security]
+1. Everyone is guaranteed the right to liberty and security. No one shall be deprived of liberty except in the cases foreseen by law and after a decision of a competent court as follows:
+(1) pursuant to a sentence of imprisonment for committing a criminal act;
+(2) for reasonable suspicion of having committed a criminal act, only when deprivation of liberty is reasonably considered necessary to prevent commission of another criminal act, and only for a limited time before trial as provided by law;
+(3) for the purpose of educational supervision of a minor or for the purpose of bringing the minor before a competent institution in accordance with a lawful order;
+(4) for the purpose of medical supervision of a person who because of disease represents a danger to society;
+(5) for illegal entry into the Republic of Kosovo or pursuant to a lawful order of expulsion or extradition.
+2. Everyone who is deprived of liberty shall be promptly informed, in a language he/she understands, of the reasons of deprivation. The written notice on the reasons of deprivation shall be provided as soon as possible. Everyone who is deprived of liberty without a court order shall be brought within forty-eight (48) hours before a judge who decides on her/his detention or release not later than forty-eight (48) hours from the moment the detained person is brought before the court. Everyone who is arrested shall be entitled to trial within a reasonable time and to release pending trial, unless the judge concludes that the person is a danger to the community or presents a substantial risk of fleeing before trial.
+3. Everyone who is deprived of liberty shall be promptly informed of his/her right not to make any statements, right to defense counsel of her/his choosing, and the right to promptly communicate with a person of his/her choosing.
+4. Everyone who is deprived of liberty by arrest or detention enjoys the right to use legal remedies to challenge the lawfulness of the arrest or detention. The case shall be speedily decided by a court and release shall be ordered if the arrest or detention is determined to be unlawful.
+5. Everyone who has been detained or arrested in contradiction with the provisions of this article has a right to compensation in a manner provided by law.
+6. An individual who is sentenced has the right to challenge the conditions of detention in a manner provided by law.

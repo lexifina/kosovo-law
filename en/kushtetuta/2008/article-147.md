@@ -1,0 +1,2 @@
+# Article 147 [Final Authority of the International Civilian Representative]
+Notwithstanding any provision of this Constitution, the International Civilian Representative shall, in accordance with the Comprehensive Proposal for the Kosovo Status Settlement dated 26 March 2007, be the final authority in Kosovo regarding interpretation of the civilian aspects of the said Comprehensive Proposal. No Republic of Kosovo authority shall have jurisdiction to review, diminish or otherwise restrict the mandate, powers and obligations referred to in Article 146 and this Article.

@@ -1,0 +1,7 @@
+# Article 95 [Election of the Government]
+1. After elections, the President of the Republic of Kosovo proposes to the Assembly a candidate for Prime Minister, in consultation with the political party or coalition that has won the majority in the Assembly necessary to establish the Government.
+2. The candidate for Prime Minister, not later than fifteen (15) days from appointment, presents the composition of the Government to the Assembly and asks for Assembly approval.
+3. The Government is considered elected when it receives the majority vote of all deputies of the Assembly of Kosovo.
+4. If the proposed composition of the Government does not receive the necessary majority of votes, the President of the Republic of Kosovo appoints another candidate with the same procedure within ten (10) days. If the Government is not elected for the second time, the President of the Republic of Kosovo announces elections, which shall be held not later than forty (40) days from the date of announcement.
+5. If the Prime Minister resigns or for any other reason the post becomes vacant, the Government ceases and the President of the Republic of Kosovo appoints a new candidate in consultation with the majority party or coalition that has won the majority in the Assembly to establish the Government.
+6. After being elected, members of the Government shall take an Oath before the Assembly. The text of the Oath will be provided by law.

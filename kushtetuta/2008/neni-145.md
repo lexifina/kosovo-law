@@ -1,0 +1,4 @@
+# Neni 145 [Vazhdimësia e Marrëveshjeve Ndërkombëtare dhe e Legjislacionit të
+Aplikueshëm]
+1. Marrëveshjet ndërkombëtare dhe aktet e tjera për bashkëpunimin ndërkombëtarë, që janë në fuqi ditën e hyrjes në fuqi të kësaj Kushtetute, do të vazhdojnë të respektohen deri atëherë kur ato marrëveshje ose akte të rinegociohen ose kur të bëhet tërheqja nga to në pajtueshmëri me kushtet e tyre ose deri atëherë kur ato të zëvendësohen nga marrëveshje ose akte të reja ndërkombëtare me të cilat mbulohen fushat e njëjta dhe që janë miratuar në pajtim me këtë Kushtetutë.
+2. Legjislacioni i aplikueshëm në ditën e hyrjes në fuqi të kësaj Kushtetute vazhdon të zbatohet për aq sa të jetë në pajtueshmëri me këtë Kushtetutë, derisa të mos shfuqizohet, zëvendësohet ose amendamentohet në pajtueshmëri me këtë Kushtetutë.

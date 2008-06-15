@@ -1,0 +1,5 @@
+# Neni 161 [Transicioni i Institucioneve]
+1. Me përjashtim të rastet kur Kushtetuta përcakton një transicion tjetër, të gjitha kompetencat, përgjegjësitë dhe detyrimet e institucioneve të përcaktuara me këtë Kushtetutë, do t’u kalojnë menjëherë atyre institucioneve në ditën e hyrjes në fuqi të kësaj Kushtetute. Kohëzgjatja e mandatit të secilit institucion para hyrjes në fuqi të kësaj Kushtetute, do të mbetet e paprekur dhe e pandryshuar deri në skadimin e rregullt, ose deri në zgjedhjet e reja.
+2. Deri ne zgjedhjet e para parlamentare pas hyrjes në fuqi të kësaj Kushtetute, Kryesia e Kuvendit mbetet me kompetencat e parapara në mandatin e saj ekzistues. Pas seancës konstituive të Kuvendit të parë pas hyrjes në fuqi të kësaj Kushtetute, Kryesia e Kuvendit ristrukturohet në pajtim me dispozitat e kësaj Kushtetute.
+3. Dispozitat e nenit 70.3.(3) nuk do të aplikohen deri në seancën konstituive të Kuvendit pas zgjedhjeve të para parlamentare pas hyrjes në fuqi të kësaj Kushtetute.
+4. Deri në formimin e Këshillit Prokurorial të Kosovës, funksionet dhe përgjegjësitë e tij do të i kryejë Këshilli Gjyqësor i Kosovës.

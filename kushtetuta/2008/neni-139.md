@@ -1,0 +1,5 @@
+# Neni 139 [Komisioni Qendror i Zgjedhjeve]
+1. Komisioni Qendror i Zgjedhjeve është organ i përhershëm që përgatit, mbikëqyr, drejton dhe verifikon të gjitha veprimet që kanë të bëjnë me procesin e zgjedhjeve e referendumet dhe shpall rezultatet e tyre.
+2. Komisioni përbëhet nga njëmbëdhjetë (11) anëtarë.
+3. Kryesuesin e Komisionit Qendror të Zgjedhjeve, e emëron Presidenti i Republikës së Kosovës nga radhët e gjyqtarëve të Gjykatës Supreme dhe të Gjykatave me jurisdiksion apeli.
+4. Gjashtë (6) anëtarë emërohen nga pjesëtarët e gjashtë grupeve më të mëdha parlamentare të përfaqësuara në Kuvend, të cilët nuk kanë të drejtë të marrin pjesë në ndarjen e vendeve të rezervuara. Nëse në Kuvend janë të përfaqësuara më pak grupe, grupi a grupet më të mëdha mund të emërojnë anëtarë shtesë. Një (1) anëtarë emërohet nga deputetët e Kuvendit të cilët mbajnë vende të rezervuara a të garantuara për komunitetin Serb të Kosovës dhe tre (3) anëtarë nga deputetët e Kuvendit, të cilët mbajnë vende të rezervuara a të garantuara për komunitetet e tjera që nuk janë shumicë në Kosovë.

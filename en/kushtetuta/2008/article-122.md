@@ -1,0 +1,4 @@
+# Article 122 [Use of Property and Natural Resources]
+1. The people of the Republic of Kosovo may, in accordance with such reasonable conditions as may be established by law, enjoy the natural resources of the Republic of Kosovo, but they may not infringe on the obligations stemming from international agreements on economic cooperation.
+2. Natural resources such as water, air space, mineral resources and other natural resources including land, flora and fauna, other parts of nature, immovable property and other goods of special cultural, historic, economic and ecologic importance, which have been determined by law to be of special interest to the Republic of Kosovo, shall enjoy special protection in accordance with law.
+3. Limitations on owners’ rights and other exploitation rights on goods of special interest to the Republic of Kosovo and the compensation for such limitations shall be provided by law.

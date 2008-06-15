@@ -1,0 +1,2 @@
+# Neni 26 [E Drejta e Integritetit Personal]
+Secili person gëzon të drejtën e respektimit të integritetit fizik dhe psikik të tij/saj, që përfshin: (1) të drejtën që të marrë vendime lidhur me reprodukimin, sipas rregullave dhe procedurave të përcaktuara me ligj; (2) të drejtën që të ketë kontroll mbi trupin e saj/tij në pajtim me ligjin; (3) të drejtën që të mos i nënshtrohet trajtimit mjekësor kundër vullnetit të tij/saj në pajtim me ligjin; (4) të drejtën që të mos marrë pjesë në eksperimente mjekësore ose shkencore, pa pëlqimin paraprak të saj/tij.

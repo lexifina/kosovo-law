@@ -1,0 +1,2 @@
+# Neni 61 [Përfaqësimi në Punësim në Institucionet Publike]
+Komunitetet dhe pjesëtarët e tyre do të kenë të drejtë për përfaqësim të barabartë në punësim në organet publike dhe ndërmarrjet publike në të gjitha nivelet, përfshirë këtu veçanërisht në shërbimin policor në zonat e banuara me komunitetin përkatës, duke respektuar në të njëjtën kohë rregullat që kanë të bëjnë me kompetencën dhe integritetin e qeverisjes së administratës publike.

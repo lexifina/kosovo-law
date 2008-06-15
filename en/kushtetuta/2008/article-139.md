@@ -1,0 +1,5 @@
+# Article 139 [Central Election Commission]
+1. The Central Election Commission is a permanent body, which prepares, supervises, directs, and verifies all activities related to the process of elections and referenda and announces their results.
+2. The Commission is composed of eleven (11) members.
+3. The Chair of the Central Election Commission is appointed by the President of the Republic of Kosovo from among the judges of the Supreme Court and courts exercising appellate jurisdiction.
+4. Six (6) members shall be appointed by the six largest parliamentary groups represented in the Assembly, which are not entitled to reserved seats. If fewer groups are represented in the Assembly, the largest group or groups may appoint additional members. One (1) member shall be appointed by the Assembly deputies holding seats reserved or guaranteed for the Kosovo Serb Community, and three (3) members shall be appointed by the Assembly deputies holding seats reserved or guaranteed for other Communities that are not in majority in Kosovo.

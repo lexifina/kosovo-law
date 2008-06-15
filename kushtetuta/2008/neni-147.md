@@ -1,0 +1,2 @@
+# Neni 147 [Autoriteti Përfundimtarë i Përfaqësuesit Ndërkombëtarë Civil]
+Pavarësisht dispozitave të tjera të kësaj Kushtetute, Përfaqësuesi Ndërkombëtarë Civil, në pajtim me Propozimin Gjithëpërfshirës për Zgjidhjen e Statusit të Kosovës, datë 26 mars 2007, është autoriteti përfundimtarë në Kosovë lidhur me interpretimin e aspekteve civile të Propozimit Gjithëpërfshirës. Asnjë autoritet i Republikës së Kosovës nuk ka jurisdiksion të rishikojë, të pakësojë ose në ndonjë mënyrë të kufizojë mandatin, kompetencat dhe detyrimet e përcaktuara në nenin 146 dhe në këtë nen.

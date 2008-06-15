@@ -1,0 +1,2 @@
+# Article 154 [Kosovo Protection Corps]
+The Kosovo Protection Corps shall be dissolved within one year after entry into force of this Constitution. Until such dissolution, the International Military Presence, in consultation with the International Civilian Representative and the Republic of Kosovo, shall exercise executive authority over the Kosovo Protection Corps and shall decide on the schedule of its dissolution.

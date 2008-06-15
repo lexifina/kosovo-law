@@ -1,0 +1,3 @@
+# Neni 7 [Vlerat]
+1. Rendi kushtetues i Republikës së Kosovës bazohet në parimet e lirisë, paqes, demokracisë, barazisë, respektimit të të drejtave dhe lirive të njeriut dhe sundimit të ligjit, mosdiskriminimit, të drejtës së pronës, mbrojtjes e mjedisit, drejtësisë sociale, pluralizmit, ndarjes së pushtetit shtetëror dhe ekonomisë së tregut.
+2. Republika e Kosovës siguron barazinë gjinore si vlerë themelore për zhvillimin demokratik të shoqërisë, mundësi të barabarta për pjesëmarrje të femrave dhe meshkujve në jetën politike, ekonomike, sociale, kulturore dhe në fushat të tjera të jetës shoqërore.

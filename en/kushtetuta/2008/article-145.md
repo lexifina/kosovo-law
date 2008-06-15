@@ -1,0 +1,3 @@
+# Article 145 [Continuity of International Agreements and Applicable Legislation]
+1. International agreements and other acts relating to international cooperation that are in effect on the day this Constitution enters into force will continue to be respected until such agreements or acts are renegotiated or withdrawn from in accordance with their terms or until they are superseded by new international agreements or acts covering the same subject areas and adopted pursuant to this Constitution.
+2. Legislation applicable on the date of the entry into force of this Constitution shall continue to apply to the extent it is in conformity with this Constitution until repealed, superseded or amended in accordance with this Constitution.

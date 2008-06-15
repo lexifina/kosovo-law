@@ -1,0 +1,3 @@
+# Article 7 [Values]
+1. The constitutional order of the Republic of Kosovo is based on the principles of freedom, peace, democracy, equality, respect for human rights and freedoms and the rule of law, non-discrimination, the right to property, the protection of environment, social justice, pluralism, separation of state powers, and a market economy.
+2. The Republic of Kosovo ensures gender equality as a fundamental value for the democratic development of the society, providing equal opportunities for both female and male participation in the political, economic, social, cultural and other areas of societal life.

@@ -1,0 +1,8 @@
+# Neni 96 [Ministritë dhe Përfaqësimi i Komuniteteve]
+1. Ministritë dhe organet e tjera ekzekutive themelohen, sipas nevojës, për kryerjen e funksioneve brenda kompetencave të Qeverisë.
+2. Numri i anëtarëve të Qeverisë përcaktohet me aktin e brendshëm të saj.
+3. Në Qeveri do të jenë së paku një (1) Ministër nga komuniteti Serb dhe një (1) Ministër nga ndonjë komunitet tjetër joshumicë në Kosovë. Nëse janë më shumë se dymbëdhjetë ministra, Qeveria do të ketë edhe një ministër të tretë, i cili përfaqëson një nga komunitetet joshumicë në Kosovë.
+4. Do të jenë së paku dy (2) zëvendësministra nga komuniteti Serb i Kosovës dhe dy (2) zëvendësministra nga komunitete të tjera joshumicë në Kosovë. Nëse janë më shumë se dymbëdhjetë (12) ministra, Qeveria do të ketë edhe një zëvendësministër të tretë, i cili përfaqëson komunitetin Serb, dhe një (1) tjetër zëvendësministër, i cili përfaqëson një nga komunitetet e tjera joshumicë në Kosovë.
+5. Zgjedhja e këtyre ministrave dhe zëvendësministrave do të vendoset pas konsultimit me partitë, me koalicionet ose grupet që përfaqësojnë komunitetet që nuk janë shumicë në Kosovë. Nëse caktohen kandidatë jashtë deputetëve të Kuvendit të Kosovës, për këta ministra e zëvendësministra kërkohet miratimi formal i shumicës së deputetëve të Kuvendit, të cilët u përkasin partive, koalicioneve, nismave qytetare dhe kandidatëve të pavarur, të cilët janë deklaruar se përfaqësojnë komunitetin në fjalë.
+6. Kryeministri, zëvendëskryeministrat dhe ministrat e Qeverisë mund të zgjidhen nga deputetë të Kuvendit të Kosovës ose nga persona të kualifikuar, që nuk janë deputetë të Kuvendit.
+7. Papajtueshmëria e anëtarëve të Qeverisë lidhur me funksionet e tyre rregullohet me ligj.

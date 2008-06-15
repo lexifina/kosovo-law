@@ -1,0 +1,5 @@
+# Article 36 [Right to Privacy]
+1. Everyone enjoys the right to have her/his private and family life respected, the inviolability of residence, and the confidentiality of correspondence, telecommunication and other communication.
+2. Searches of any private dwelling or establishment that are deemed necessary for the investigation of a crime may be conducted only to the extent necessary and only after approval by a court after a showing of the reasons why such a search is necessary. Derogation from this rule is permitted if it is necessary for a lawful arrest, to collect evidence which might be in danger of loss or to avoid direct and serious risk to humans and property as defined by law. A court must retroactively approve such actions.
+3. Secrecy of correspondence, telephony and other communication is an inviolable right. This right may only be limited temporarily by court decision if it is necessary for criminal proceedings or defense of the country as defined by law.
+4. Every person enjoys the right of protection of personal data. Collection, preservation, access, correction and use of personal data are regulated by law.

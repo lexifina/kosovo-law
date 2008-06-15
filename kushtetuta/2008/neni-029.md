@@ -1,0 +1,12 @@
+# Neni 29 [E Drejta e Lirisë dhe Sigurisë]
+1. Secilit i garantohet e drejta e lirisë dhe sigurisë. Askush nuk mund të privohet nga liria me përjashtim të rasteve të parapara me ligj dhe me vendim të gjykatës kompetente, si në vijim:
+(1) pas shpalljes së dënimit me burgim për kryerjen e veprës penale;
+(2) për dyshim të bazuar për kryerje të veprës penale, vetëm kur privimi nga liria me një bazë të arsyeshme konsiderohet i domosdoshëm për të parandaluar kryerjen e një vepre tjetër penale dhe vetëm për një periudhë të shkurtër kohore para gjykimit në mënyrën e përcaktuar me ligj;
+(3) për mbikëqyrjen e të miturit për qëllime edukimi ose për shoqërimin e tij/saj në një institucion kompetent, sipas një urdhri të ligjshëm;
+(4) për mbikëqyrje shëndetësore të personit, i cili për shkak të sëmundjes paraqet rrezik për shoqërinë;
+(5) për hyrje të paligjshme në Republikën e Kosovës ose pas urdhrit të ligjshëm për largim ose ekstradim.
+2. Çdokush që privohet nga liria, duhet të vihet në dijeni menjëherë, për arsyet e privimit, në gjuhën që ajo/ai e kupton. Njoftimi me shkrim mbi arsyet e privimit duhet të bëhet sa më shpejt që të jetë e mundshme. Çdokush që privohet nga liria pa urdhër të gjykatës, brenda dyzet e tetë (48) orësh duhet të dërgohet përpara gjyqtarit, i cili vendos për paraburgimin ose lirimin e tij/saj, jo më vonë se dyzet e tetë (48) orë nga momenti kur personi i privuar është sjellë para gjykatës. Çdokush që arrestohet, ka të drejtën që të nxirret në gjykim brenda një periudhe të arsyeshme, ose të lirohet në pritje të gjykimit, me përjashtim kur gjyqtari konstaton se personi përbën rrezik për komunitetin ose ka rrezik për ikjen e saj/tij para gjykimit.
+3. Çdokush që privohet nga liria, duhet të njoftohet menjëherë se ka të drejtë të mos japë asnjë deklaratë dhe se ka të drejtë për mbrojtës sipas zgjedhjes së tij/saj dhe ka të drejtë që pa vonesë të informojë për këtë personin sipas zgjedhjes së vet.
+4. Çdokush që i hiqet liria me arrest ose ndalim, gëzon të drejtën që të përdorë mjete juridike për të sfiduar ligjshmërinë e arrestit ose të ndalimit. Rasti do të vendoset nga gjykata brenda një afati sa më të shkurtër dhe nëse arresti ose ndalimi është i paligjshëm, do të urdhërohet lirimi i personit.
+5. Çdokush që është ndaluar ose arrestuar në kundërshtim me dispozitat e këtij neni, gëzon të drejtën e kompensimit në mënyrën e parashikuar me ligj.
+6. Personi që vuan dënimin, ka të drejtë të ankohet për kushtet e privimit nga liria, në mënyrën e përcaktuar me ligj.

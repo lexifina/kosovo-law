@@ -1,0 +1,2 @@
+# Article 61 [Representation in Public Institutions Employment]
+Communities and their members shall be entitled to equitable representation in employment in public bodies and publicly owned enterprises at all levels, including in particular in the police service in areas inhabited by the respective Community, while respecting the rules concerning competence and integrity that govern public administration.

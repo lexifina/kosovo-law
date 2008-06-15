@@ -1,0 +1,8 @@
+# Article 96 [Ministries and Representation of Communities]
+1. Ministries and other executive bodies are established as necessary to perform functions within the powers of the Government.
+2. The number of members of Government is determined by an internal act of the Government.
+3. There shall be at least one (1) Minister from the Kosovo Serb Community and one (1) Minister from another Kosovo non-majority Community. If there are more than twelve (12) Ministers, the Government shall have a third Minister representing a Kosovo non- majority Community.
+4. There shall be at least two (2) Deputy Ministers from the Kosovo Serb Community and two (2) Deputy Ministers from other Kosovo non-majority Communities. If there are more than twelve (12) Ministers, the Government shall have a third Deputy Minister representing the Kosovo Serb Community and a third Deputy Minister representing another Kosovo non-majority Community.
+5. The selection of these Ministers and Deputy Ministers shall be determined after consultations with parties, coalitions or groups representing Communities that are not in the majority in Kosovo. If appointed from outside the membership of the Kosovo Assembly, these Ministers and Deputy Ministers shall require the formal endorsement of the majority of Assembly deputies belonging to parties, coalitions, citizens' initiatives and independent candidates having declared themselves to represent the Community concerned.
+6. The Prime Minister, Deputy Prime Minister(s) and Ministers of the Government may be elected from the deputies of the Assembly of Kosovo or may be qualified people who are not deputies of the Assembly.
+7. The incompatibilities of the members of the Government as to their functions shall be regulated by law.

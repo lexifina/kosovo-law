@@ -1,0 +1,3 @@
+# Neni 3 [Barazia para Ligjit]
+1. Republika e Kosovës është shoqëri shumetnike, e përbërë nga shqiptarët dhe komunitetet tjera e cila qeveriset në mënyrë demokratike, me respektim të plotë të sundimit të ligjit, përmes institucioneve të veta legjislative, ekzekutive dhe gjyqësore.
+2. Ushtrimi i autoritetit publik në Republikën e Kosovës bazohet në parimet e barazisë para ligjit të të gjithë individëve dhe në respektimin e plotë të të drejtave dhe lirive themelore të njeriut, të pranuara ndërkombëtarisht, si dhe në mbrojtjen e të drejtave dhe në pjesëmarrjen e të gjitha komuniteteve dhe pjesëtarëve të tyre.
