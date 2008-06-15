@@ -1,0 +1,3 @@
+# Article 4
+Article 1.3 of the Regulation shall be replaced in its entirety by the following Article 1.4:
+1.4 The Regulator is responsible for regulating the activities of the Publicly- and Socially-owned providers of water, wastewater and waste services in Kosovo. The Regulator shall exercise its independent judgment in carrying out the responsibilities under the present Law and shall be accountable to the Assembly for compliance at any time with the provisions of the present Law, any other regulation or applicable law, and any administrative direction, administrative instruction or determination issued there under.
