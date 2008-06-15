@@ -1,0 +1,4 @@
+# Neni 43
+Respektimi i rregullave dhe urdhëresave
+43.1 Çdo institucion financiar duhet të veprojë në përputhje me rregullat dhe urdhëresat e BQK-së lidhur me: llogaritë e bilancit, zotimet jashtë bilancit, deklaratat e të hyrave dhe shpenzimeve në lidhje me raportet ndërmjet llogarive a zërave e ndalimeve, kufizimet ose kushtet për lloje a forma specifike të kredive a investimeve, kreditë ose investimeve që tejkalojnë një shumë të caktuar ose format e angazhimeve me rrezikshmëri, kontrollin e maturimit të aktivave dhe pasivave dhe zërave jashtë bilancit apo pozicionin e hapur valutor, këmbimin, opcionet ose lidhur me pozitat e ngjashme apo qasjen në sistemin e pagesave.
+43.2 Institucionet financiare që angazhohen në aktivitete të ngjashme dhe që janë në gjendje të krahasueshme financiare duhet t’u përmbahen gjithashtu këtyre rregullave dhe urdhëresave.

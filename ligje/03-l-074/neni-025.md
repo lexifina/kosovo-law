@@ -1,0 +1,5 @@
+# Neni 25
+Procedura e mbledhjeve të Bordit drejtues
+25.1 Procedura e mbledhjeve të Bordit drejtues është konfidenciale. Bordi drejtues mund të vendosë që rezultatin e bisedimeve për çdo çështje ta bëjë publike dhe menjëherë t’i publikojë vendimet e tij mbi çështjet e politikave të përgjithshme. Anëtari i cili është i pranishëm në mbledhjen e Bordit ku ndërmirren veprime për çfarëdo çështjesh, konsiderohet se pajtohet me veprimin e ndërmarrë përveç nëse mospajtimi i tij përfshihet në procesverbalin e mbledhjes apo nëse ai mospajtimin e tij ia paraqet me shkrim personit që ushtron detyrën e sekretarit të mbledhjes para përfundimit të takimit.
+25.2 Procesverbali i çdo mbledhjeje të Bordit drejtues nënshkruhet nga Guvernatori i BQK-së apo nga zëvendës Guvernatori që shërben përkohësisht si zyrtar kryesues, nga kryesuesi dhe nga sekretari i Bordit drejtues.
+25.3 Sekretari i Bordit drejtues caktohet nga Guvernatori në konsultim me kryesuesin nga stafi i lartë i BQK-së për të marrë pjesë në të gjitha mbledhjet e Bordit dhe për të mbajtur të gjitha shënimet e BQK-së. Sekretari nuk është anëtar i Bordit drejtues.

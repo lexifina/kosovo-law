@@ -1,0 +1,5 @@
+# Article 25
+Proceedings of Governing Board Meetings
+25.1 The proceedings of the meetings of the Governing Board shall be confidential. The Governing Board may decide to make the outcome of its deliberations on any matter public and shall publish promptly its decisions on general policy matters. A member who is present at a meeting of the Board at which action on any matter is taken shall be presumed to have assented to the action taken unless his dissent shall be entered in the minutes of the meeting or unless he shall file his written dissent with the person acting as Secretary of the meeting before the adjournment of the meeting.
+25.2 Minutes of each Governing Board meeting shall be signed by the Governor of the CBK, or the Deputy Governor temporary serving as presiding officer, by the Chairperson, and by the Secretary of the Governing Board.
+25.3 The Secretary of the Governing Board shall be appointed by the Governor in consultation with the Chairperson from among the senior staff of the CBK to attend all Board meetings and keep all CBK records. The Secretary shall not be a member of the Governing Board.

@@ -1,0 +1,7 @@
+# Article 12
+Capital
+12.1 The authorized capital of the CBK shall be 30 million Euro. Thereafter, the capital and the General Reserve accounts shall be at least equivalent to five percent of the aggregate amount of the credit balances of all accounts maintained on the books of the CBK by account holders shown on the balance sheet of the CBK for the end of each financial year. The capital may be increased by such amounts as may be determined by the CBK Governing Board and approved by the Government. The CBK capital shall not be subject to encumbrance.
+12.2 No reduction of capital shall be effected except by promulgation of legislation adopted by the Assembly.
+12.3 Whenever:
+a) on a monthly pro forma balance sheet of the CBK the value of its assets falls below the sum of its liabilities and its unimpaired authorized capital, or
+b) the net profit of the CBK for any financial year is insufficient to increase the capital and General Reserve accounts of the CBK to a level equivalent to five percent of the aggregate amount of the credit balances of all accounts maintained on the books of the CBK by account holders shown on the balance sheet of the CBK for the end of that financial year, the Ministry of Finance and Economy shall, within one month after publication of that balance sheet, make a capital contribution to the CBK in such amount or amounts as shall be necessary to remedy this deficit.
