@@ -1,0 +1,5 @@
+# Neni 22
+Kompensimi i Zyrtarëve të NP
+22.1 Kompensimi dhe përfitimet e zyrtarëve të NP do të përcaktohen nga Bordi i Drejtorëve të NP-së në përputhje me deklaratën për politikën e kompensimit të NP-së të përgatitur dhe të zbuluar nga Komisioni i Auditimit sipas nenit 20.4 të këtij ligji.
+22.2 Shkalla e kompensimit dhe përfitimet e zyrtarëve të NP do të caktohet në një nivel i cili pritet të tërheqë aplikacione nga persona kompetent të cilët në masë të arsyeshme pritet se do ti ushtrojnë në mënyrë profesionale, të përgjegjshme dhe me orar të plotë detyrat e pozitës përkatëse. Nivele të ndryshme të kompensimit dhe përfitimeve mund të përcaktohen për secilën pozitë të zyrtarit brenda secilës NP të caktuar. Gjatë përcaktimit të nivelit të kompensimit dhe përfitimeve për një pozitë të zyrtarit të NP, do të merren parasysh detyruar e pozitës përkatësi si dhe madhësia, natyra dhe kompleksiteti i veprimtarisë së NP-së përkatëse.
+22.3 NP është përgjegjësi për pagimin e kompensimit dhe sigurimin e përfitimeve tjera për zyrtarët e saj.

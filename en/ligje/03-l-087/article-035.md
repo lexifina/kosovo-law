@@ -1,0 +1,6 @@
+# Article 35
+Corporate Code of Ethics
+35.1 Every POE shall prepare, adopt and implement a mandatory code of ethics and corporate governance.
+35.2 Such code of ethics and corporate governance shall (i) commit the POE to the highest standards of corporate conduct and business practice; and (ii) be sufficiently detailed as to give clear guidance as to the expected behaviour of all directors, officers, employees and professional consultants/advisors of the POE; and (iii) establish a whistleblower protection program.
+35.3 Each director and officer of the POE shall execute a written commitment to abide by such code of ethics and corporate governance and to take all reasonable measures to ensure its implementation by the POE and all persons employed or professionally engaged by the POE.
+35.4 The Ministry shall have the authority and duty to promulgate a model code of ethics and corporate governance for use by POEs, and each POE shall ensure that its code is consistent with such model code. The Ministry shall ensure that such model code complies with the present law and other applicable laws of Kosovo and reflects widely accepted international standards for codes of ethics and corporate governance. The Ministry shall also give due consideration to the model code of corporate governance for POEs previously adopted by the Kosovo Trust Agency.

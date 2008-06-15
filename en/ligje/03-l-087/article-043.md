@@ -1,0 +1,7 @@
+# Article 43
+Transitional Board of Directors
+43.1 The Government shall have the authority to appoint a transitional Board of Directors (“Transitional Board of Directors”) for each POE to serve as the POE’s Board of Directors for a maximum six-month period beginning on the effective date of the present law.
+43.2 The Government shall fully exercise such authority as soon as possible after the effective date of the present law.
+43.3 Each such Transitional Board of Directors shall be composed of five (5) members and shall include the POE’s CEO or senior manager. In appointing the other directors of a Transitional Board of Directors, the Government shall make best efforts to ensure that such directors meet the requirements specified in paragraphs 1 and 4 of Article 17 of this Law.
+43.4 The mandate of each such Transitional Board of Directors shall expire on the earlier of (i) midnight of the day that occurs six (6) months after the effective date of the present law or (ii) the day on which a full board of directors for the concerned POE has been elected in accordance with Article 15 or Article 16 of this Law.
+43.5 Any purported or attempted extension or renewal of the mandate of a Transitional Board of Directors beyond the time specified in paragraph 4 of this Article shall be prohibited, null and void. Upon the expiration of the mandate of a Transitional Board of Directors as provided in paragraph 4 of this Article, such board and its directors shall no further authority of any description to act as the POE’s Board of Directors.

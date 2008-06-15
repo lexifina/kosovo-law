@@ -1,0 +1,16 @@
+# Article 25
+Functions and Competencies of the Audit Committee
+25.1 The competencies of the Audit Committee shall be exclusive.
+25.2 The Audit Committee shall, under its collective responsibility:
+a) abide by the POE’s charter and by-laws;
+b) review the long term strategic, investment and financial plan of the POE – and any amendment thereto – and the annual business plan and annual budget prior to their adoption by the full Board of Directors, and provide the latter any observations or objections it deems necessary;
+c) prior to their adoption by the Board of Directors (i) review the annual balance sheet and profit and loss statement of the POE and any other financial statements required by law, and the annual report on the management, business policy and financial and industrial situation of the POE; and (ii) submit to the Board of Directors a report on the adequacy, accuracy, truthfulness and compliance with law of such documents;
+d) regularly review the financial condition of the POE and its planned financial requirements, and provide the Board of Directors any observations or suggestions it deems necessary;
+e) regularly verify the adequacy and proper functioning of the internal – including financial – controls, and provide the Board of Directors any observations or suggestions it deems necessary;
+f) regularly verify the adequacy and proper functioning of the systems and procedures intended to guarantee that the books and records of the POE, including financial records, are kept in compliance with the applicable accounting standards and laws, and that the draft annual financial statements are properly prepared, and provide the Board of Directors any observations or suggestions it deems necessary;
+g) regularly verify the adequacy and proper functioning of the systems and procedures intended to guarantee that the POE observes all applicable laws in the conduct of its business and affairs, and provide the Board of Directors any observations or suggestions it deems necessary;
+h) appoint, remove and replace the Internal Audit Officer, and determine his, or her, compensation and benefits, which determination shall be reflected in the remuneration policy statement required by Section 20.4;
+i) ensure that the internal audit office is properly and adequately organized and staffed, and regularly verify its adequacy and proper functioning, and conduct continuous and rigorous oversight over the conduct of the Internal Audit Officer and internal audit office;
+j) review all Related-Party Transactions, authorize those whose that are reasonable and terms are fair for the POE or, where the restriction imposed by Section 36.1 applies, advise the Shareholder(s) on their reasonableness and fairness;
+k) observe strict confidentiality over any non-anonymous report by any employee concerning alleged wrongdoing of a director, officer or other employee of the POE; protect the identity of any employee that may be subject to retribution as a result of such report; and – while protecting any relevant confidential information – briefly inform the reporting employee of the outcome of any investigation initiated as a result of such report; and
+l) when necessary, propose to the Board of Directors measures that may be needed to enforce the fiduciary duties of the Internal Audit Officer.

@@ -1,0 +1,5 @@
+# Article 18
+Oversight by the Board of Directors
+18.1 The Board of Directors of a POE shall exercise continuous and rigorous oversight in particular over the conduct of the POE’s officers.
+18.2 If the performance of the POE deviates from the targets set in the business plan of the relevant financial year, the Board of Directors shall request a report by the CEO setting out the reasons explaining the underperformance, and shall take any appropriate remedial action.
+18.3 In any event, if the POE fails to meet its performance targets over two consecutive financial years, the Board of Directors shall have an obligation to consider removing and replacing the CEO. Such action may be taken even in the absence of clear evidence of negligence, unless the Board of Directors establishes that the underperformance was largely due to objectively unforeseeable adverse circumstances or events. The Board of Directors shall report any decisions taken pursuant to this Section 18.3, and the reasons therefore, to: (i) in the case of a Central POE, the Government, or (ii) in the case of a Local POE, the concerned Municipal Shareholder Committee(s).

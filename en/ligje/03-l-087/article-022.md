@@ -1,0 +1,5 @@
+# Article 22
+Remuneration of POE Officers
+22.1 The remuneration and benefits for a POE’s officers shall be established by the POE’s Board of Directors in accordance with the POE’s remuneration policy statement developed and disclosed by the Audit Committee as required by Section 20.4 of this Law.
+22.2 The remuneration and benefits for POE officers shall be established at a level that can be expected to attract applications from highly competent persons who can reasonably be expected to professionally and responsibly discharge, on a full-time basis, the duties of the concerned officer position. Different levels of remuneration and benefits may be established for each specific officer position within each specific POE. In establishing the level of remuneration and benefits to be paid or provided to a specific officer position in a specific POE, consideration shall be given to the duties of that specific position and the size, nature and complexity of the business of the concerned POE.
+22.3 The POE shall be responsible for paying the required remuneration and providing the required benefits to its officers.

@@ -1,0 +1,5 @@
+# Neni 18
+Mbikëqyrja nga Bordi i Drejtorëve
+18.1 Bordi i Drejtorëve të NP-së do të ushtrojë mbikëqyrje të vazhdueshme dhe rigoroze, në veçanti, të veprimtarisë së zyrtarëve të NP-së.
+18.2 Nëse përformanca e NP-së devijon nga caqet e përcaktuara në Planin e Biznesit për vitin përkatës financiar, Bordi i Drejtorëve do të kërkojë një raport nga KE i shpjegon arsyet për përformancën e dobët, dhe do të marrë të gjitha masat e duhura korrigjuese.
+18.3 Sido që të jetë, nëse NP dështon në arritjen e caqeve të saj të përformancës për dy vite financiare radhazi, Bordi i Drejtorëve është i detyruar të marrë parasysh shkarkimin dhe zëvendësimin e KE-së. Ky veprim mund të ndërmerret edhe në mungesë të provave bindëse të neglizhencës, përveç nëse Bordi i Drejtorëve konstaton se përformanca e dobët ka ndodhur kryesisht për shkak të rrethanave ose ngjarjeve negative të paparashikueshme. Bordi i Drejtorëve do t’ia raportojnë çdo vendim të marrë në bazë të këtij Neni 18.3, dhe arsyet për marrjen e këtij vendimi: (i) Qeverisë, për NP-të Qendrore, ose (ii) Kuvendit(eve) përkatës Komunal, për NP-të Lokale.

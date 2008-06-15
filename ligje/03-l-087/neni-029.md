@@ -1,0 +1,3 @@
+# Neni 29
+Raportet mbi Përmbushjen e Nevojave të Klientëve
+Nën përgjegjësinë e KE-së, NP rregullisht do të testojë kënaqësinë e konsumatorëve me shërbimet të cilat i ofron. Ndërmarrja do të miratojë procedurat përkatëse dhe do të nxjerrë një raport të thjeshtë i cili paraqet nivelin e kënaqësisë së konsumatore si dhe vërejtjet e KE-së lidhur me çdo ndryshim të këtij niveli. Ky raport i dorëzohet (i) Njësisë për Politikat dhe Monitorimin e NP-ve, e cila e publikon atë në faqen e saj në internet dhe (ii) sipas rastit, Qeverisë ose Komisionit(eve) përkatës Komunal të Aksionarëve.

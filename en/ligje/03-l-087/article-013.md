@@ -1,0 +1,5 @@
+# Article 13
+Equal Legal Conditions
+13.1 Except as specifically provided otherwise by the present law, every POE and its officers and directors shall be subject, without exception, to the same laws, regulations and sub-normative acts that govern privately owned business organizations. Notwithstanding the foregoing, it is specifically provided that the Special Chamber of the Supreme Court shall have exclusive jurisdiction over any insolvency, liquidation or reorganization proceedings involving a POE.
+13.2 Without prejudice to the foregoing, it is specifically provided that a POE shall be fully subject to any legislation establishing special obligations and requirements, including regulatory requirements, for participants in the industry or sector in which the POE conducts its business activities.
+13.3 Except as otherwise specifically provided in the present law, every POE shall also be subject to and comply with any applicable element of Kosovo law that establishes provisions governing publicly owned enterprises.

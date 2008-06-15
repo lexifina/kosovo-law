@@ -1,0 +1,3 @@
+# Article 29
+Customer Satisfaction Reports
+Under the responsibility of the CEO, the POE shall regularly test the satisfaction of its customers with the services it provides, adopting adequate procedures, and shall issue a brief, plain-language report setting out the level of customers’ satisfaction and the CEO’s observations on any material changes in the level of satisfaction. The report shall be submitted to (i) the POE Policy and Monitoring Unit, which shall publish the report on its web-site and (ii) as appropriate, the Government or the concerned Municipal Shareholder Committee(s).

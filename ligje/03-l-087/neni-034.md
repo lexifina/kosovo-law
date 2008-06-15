@@ -1,0 +1,12 @@
+# Neni 34
+Rregulloret
+34.1 Të gjitha NP do të përgatisin dhe vejnë në fuqi rregulloret të cilat kërkohen sipas Ligjit për Shoqëritë Tregtare. Miratimi, ndryshimi dhe plotësime si dhe shfuqizimi i Rregulloreve të NP është kompetencë ekskluzive e Aksionarit(ëve) të NP-së; megjithatë, Aksionari(ët) e NP-së duhet të sigurojë që rregulloret të jenë në përputhje me këtë ligj dhe modelet e rregulloreve të shpallura nga Ministri sipas paragrafit 4 të këtij neni.
+34.2 Një kopje e plotë dhe aktuale e të gjitha rregulloreve të NP-së do të publikohet dhe mbahet në një faqe në internet me qasje publike e cila mbahet nga NP-ja.
+34.3 Dispozitat e rregulloreve të NP-së duhet të jenë në përputhje me kushtet e përcaktuara në ligjin e Kosovës. Përveç kësaj, rregulloret e NP-së gjithashtu duhet të përmbajnë dispozita të cilat përshkruajnë në mënyrë të hollësishme:
+a) titujt, detyrat dhe kompetencat e secilit Zyrtar të NP-së;
+b) politikat e NP-së për rekrutimin e menaxhmentit si dhe vlerësimin e efektshmërisë në përputhje me standardet e drejtësisë dhe transparencës;
+c) procedurat e NP-së për monitorimin dhe kontrollimin e konfliktit të interesave;
+d) politikën e NP-së lidhur me Transaksionet me Palët e Ndërlidhura, dhe procedurat e raportimit dhe miratimit të këtyre transaksioneve;
+e) procedurat e NP-së për shpalljen publike të informatave materiale mbi (i) NP-në ( duke përfshirë informatat mbi transaksionet e konsiderueshme, gjendjen financiare si dhe vendimet e rëndësishme të Bordit), dhe (ii) aktivitetet ekonomike të “të brendshmëve”; dhe
+f) rregullat mbi transaksionet ndërmjet/me njësitë ndihmëse të NP-së; procedurat e NP-së për monitorimin e këtyre transaksioneve dhe për të siguruar zbulimin e tyre para Bordit të Drejtorëve dhe organit ose organeve të cilat ushtrojë të drejtat e aksionarit në NP (Qeveria ose Komisioni(et) Komunal i Aksionarëve).
+34.4 Ministria është e autorizuar dhe ka detyrimin për të shpallur një grup të modeleve të rregulloreve për shfrytëzim nga NP-të, dhe secila NP duhet të sigurojë që rregulloret e saj të jenë në përputhje me këto modele. Ministria duhet të sigurojë që modelet e rregulloreve të jenë në përputhje me këtë ligj dhe ligjet e tjera të aplikueshme të Kosovës si dhe ti pasqyrojnë standardet e pranuara ndërkombëtare të qeverisjes korporative dhe ndërmarrjeve publike. Ministria po ashtu duhet të marrë parasysh modelet e rregulloreve të NP të miratuara paraprakisht nga Agjencia Kosovare e Mirëbesimit.

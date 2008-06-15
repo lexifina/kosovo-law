@@ -1,0 +1,5 @@
+# Neni 13
+Kushtet e Barabarta Ligjore
+13.1 Përveç nëse shprehimisht është përcaktuar ndryshe në këtë ligj, të gjitha NP si dhe zyrtarët dhe drejtorët e tyre, pa asnjë përjashtim, i nënshtrohen ligjeve, rregulloreve dhe akteve nënligjore të cilat i rregullojnë shoqëritë tregtare në pronësi private. Pavarësisht nga sa u tha më sipër, shprehimisht përcaktohet se Oda e Veçantë e Gjykatës Supreme ka kompetencën ekskluzive për të gjitha procedurat e paaftësisë paguese (insolvencës), likuidimit ose riorganizimit të një NP.
+13.2 Pa e paragjykuar paragrafin më sipër, shprehimisht përcaktohet se NP i nënshtrohen plotësisht të gjitha ligjeve të cilat themelojnë detyrime ose kushte të veçanta, duke përfshirë kushte rregullatore, për pjesëmarrësit në industrinë ose sektorin në të cilin NP ushtron veprimtarinë e saj afariste.
+13.3 Përveç nëse shprehimisht është përcaktuar ndryshe në këtë ligj, të gjitha NP po ashtu i nënshtrohen dhe duhet të veprojnë në përputhje me të gjitha elementet e aplikueshme të ligjit të Kosovës të cilat themelojnë dispozita për rregullimin e ndërmarrjeve publike.
