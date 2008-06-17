@@ -1,0 +1,3 @@
+# Neni 6
+Personeli vendor i punësuar
+Personeli vendor në misionet diplomatike apo konsullore, duke përfshirë edhe qytetarët e shtetit dërgues të cilët janë banorë afatgjatë të Republikës së Kosovës dhe të cilët nuk janë njoftuar dhe pranuar nga Ministria e punëve të jashtme si personel që gëzojnë imunitetet dhe privilegjet në nenin 5 të këtij Ligji, do të gëzojnë imunitet nga procedurat penale dhe civile për veprimet e kryera nga ata, dhe për fjalët e shkruara apo të shqiptuara, në cilësinë e tyre zyrtare. Ky imunitet do të vazhdojë të jetë valid për veprimet e kryera ose fjalët e shqiptuara dhe të përdorura në cilësinë e tyre zyrtare gjatë kohës që janë të punësuar nga misioni, edhe nëse marrëdhënia e punës është ndërprerë.

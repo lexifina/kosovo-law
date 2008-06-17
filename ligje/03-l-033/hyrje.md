@@ -1,0 +1,6 @@
+LIGJI NR. 03/L-033
+PËR STATUSIN, IMUNITETET DHE PRIVILEGJET E MISIONEVE DIPLOMATIKE, KONSULLORE DHE PERSONELIN E KOSOVËS DHE PRANINË NDËRKOMBËTARE USHTARAKE SI DHE PERSONELIN E SAJ
+Në mbështetje të Kapitullit IV neni 65 pika 1 të Kushtetutës së Republikës së Kosovës, me qëllim të qartësimit të statusit, imunitetit dhe privilegjeve të misioneve diplomatike dhe konsullore, duke përfshirë edhe misionet e organizatave ndërkombëtare ndërqeveritare dhe personelin e tyre në Republikën e Kosovës, bashkë me personat tjerë të mbrojtur ndërkombëtarisht, në pajtim me të drejtën zakonore ndërkombëtare që është mishëruar në Konventën e Vjenës mbi marrëdhëniet diplomatike të datës 18 prill 1961, Konventën e Vjenës mbi marrëdhëniet konsullore të datës 14 prill 1963, Konventën e përgjithshme mbi privilegjet dhe imunitetet e Kombeve të Bashkuara të datës 13 shkurt 1946, Konventën mbi privilegjet dhe imunitetin e Agjencive speciale të Kombeve të Bashkuara të datës 21 nëntor 1947 dhe me qëllim të sigurimit të marrëveshjeve kalimtare për misionet ekzistuese të ndërlidhjes në Republikën e Kosovës.
+Kuvendi i Republikës së Kosovës
+Miraton:
+LIGJIN PËR STATUSIN, IMUNITETET DHE PRIVILEGJET E MISIONEVE DIPLOMATIKE, KONSULLORE DHE PERSONELIN E KOSOVËS DHE PRANINË NDËRKOMBËTARE USHTARAKE SI DHE PERSONELIN E SAJ

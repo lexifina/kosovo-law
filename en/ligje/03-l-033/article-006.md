@@ -1,0 +1,3 @@
+# Article 6
+Locally Recruited Personnel
+Locally recruited personnel of Diplomatic or Consular Missions, including citizens of the sending state who are long-term residents of Republic of Kosova and who have not been notified to and accepted by the Ministry for External Affairs as personnel enjoying the immunities and privileges in Article 5 of this Law, shall enjoy immunity from criminal and civil proceedings for actions performed by them, and words written or spoken, in their official capacity. This immunity shall continue to be accorded for actions performed or words spoken and used in their official capacities during their employment by the Mission, even after such employment has ceased.

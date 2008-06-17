@@ -1,0 +1,6 @@
+LAW NR. 03/L-033
+ON THE STATUS, IMMUNITIES AND PRIVILEGES OF DIPLOMATIC AND CONSULAR MISSIONS AND PERSONNEL IN REPUBLIC OF KOSOVA AND OF THE INTERNATIONAL MILITARY PRESENCE AND ITS PERSONNEL
+Based on Chapter IV article 65 item 1of the Counstitution of Republic of Kosova, for the purpose of clarifying the status, immunities, and privileges of diplomatic and consular Missions, including Missions of international inter-governmental organisations, and their personnel in Republic of Kosova, together with other internationally protected persons, in accordance with customary international law as enshrined in the Vienna Convention on Diplomatic Relations of 18 April 1961, the Vienna Convention on Consular Relations of 14 April 1963, the General Convention on the Privileges and Immunities of the United Nations of 13 February 1946, and the Convention on the Privileges and Immunities of the Specialised Agencies of the United Nations of 21 November 1947, And for the purpose of providing transitional arrangements for existing Liaison Missions in Republic of Kosova,
+The Assembly of Republic of Kosova,
+Hereby adopts
+LAW ON THE STATUS, IMMUNITIES AND PRIVILEGES OF DIPLOMATIC AND CONSULAR MISSIONS AND PERSONNEL IN REPUBLIC OF KOSOVA AND OF THE INTERNATIONAL MILITARY PRESENCE AND ITS PERSONNEL
