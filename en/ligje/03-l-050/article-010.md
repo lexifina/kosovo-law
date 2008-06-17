@@ -1,0 +1,4 @@
+# Article 10
+Confidentiality Obligation of the Members of the Parliamentary Committee
+10.1 Members of the Parliamentary oversight Committee shall be bound by an obligation of confidentiality with respect to information received in any form from the Kosovo Security Council, or its duly authorized representatives, which are considered as confidential according to applicable law. The obligation of confidentiality shall remain in effect after the expiration of their membership on the parliamentary oversight Committee. Any violation of the secrecy obligation may be punishable to the full extent of the law.
+10.2 The Parliamentary oversight Committee shall establish written procedures, in compliance with applicable laws, to protect from unauthorized disclosure all classified information that is furnished to the Parliamentary oversight Committee, or its individual members, by the Kosovo Security Council or its duly authorized representatives.

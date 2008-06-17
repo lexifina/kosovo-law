@@ -1,0 +1,4 @@
+# Neni 10
+Obligimi për konfidencialitet i anëtarëve të organit parlamentar për mbikëqyrje
+10.1 Anëtarët e komisionit mbikëqyrës parlamentar janë të obliguar të mbajnë konfidenciale informatat e marra në çfarëdo forme nga Këshilli i Sigurisë e Kosovës, apo nga përfaqësuesit e saj të autorizuar, të cilat konsiderohen konfidenciale në pajtim me legjislacionin në fuqi. Obligimi për konfidencialitet mbetet në fuqi edhe pas përfundimit të anëtarësisë së tyre në komisionin parlamentar për mbikëqyrje. Çfarëdo shkelje e obligimit për sekret mund të dënohet deri në shkallën më të lartë që parasheh ligji.
+10.2 Komisioni mbikëqyrës parlamentar do të përpilojë procedura të shkruara, në pajtim me ligjet e aplikueshme, për të mbrojtur zbulimin e paautorizuar e të gjitha informatave të klasifikuara të cilat i ofrohen komisionit mbikëqyrës parlamentar, apo anëtarëve të tij individualë, nga ana e Këshillit të Sigurisë së Kosovës apo përfaqësuesit e tij të autorizuar.
