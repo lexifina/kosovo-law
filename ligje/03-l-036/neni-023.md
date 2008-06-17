@@ -1,0 +1,4 @@
+# Neni 23
+Njësiti i Hetimeve të Brendshme të Policisë
+23.1 Njësiti i Hetimeve të Brendshme të Policisë heton ankesat mbi shkeljet e lehta disiplinore për punonjësit policor, përveç Drejtorin e Përgjithshëm të Policisë, Zëvendësdrejtorin, apo Ndihmësdrejtorin. Njësiti i Hetimeve të Brendshme të Policisë do të raportoj tek Komisioni i Brendshëm Disiplinor i Policisë, i cili do të përcaktoj se a është kryer shkelja disiplinore, dhe në rastet kur shkelja disiplinore është kryer, e shqipton masën disiplinore, duke marrë në konsideratë rekomandimet e Njësitit të Hetimeve të Brendshme të Policisë.
+23.2 Komisioni i Brendshëm Disiplinor i Policisë dhe Komisioni për Ankesa i Policisë obligohet ta informojnë Kryeshefin e Inspektoratit me vendimin e nxjerr lidhur me një shkelje të lehtë, jo më vonë se 5 ditë pune nga dita e marrjes së vendimit.

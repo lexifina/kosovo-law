@@ -1,0 +1,4 @@
+# Article 23
+Police Internal Investigations Unit
+23.1 Police Internal Investigations Unit investigates the appeals about light disciplinary violations of the police employees, except the Police Director-General, Deputy Director, or Assistant-Director. Police Internal Investigations Unit will report to the Police Internal Disciplinary Commission which will determine whether the disciplinary violation is committed, and in the cases when the disciplinary violation is committed, will pronounce a disciplinary measure, taking in to consideration the recommendations of the Police Internal Investigations Unit.
+23.2 Police Internal Disciplinary Commission and Police Commission on Appeals are obliged to inform the Chief Executive of the Inspectorate with the issued decision regarding the light violation, not latter than 5 working days from the day of taking the decision.
