@@ -1,0 +1,4 @@
+# Neni 20
+Garancioni
+20.1 Me kërkesë të shtetasit i cili kërkon lirimin nga shtetësia, organi kompetent ia lëshon shtetasit në fjalë, një garancion me të cilin garantohet se shtetasi i plotëson të gjitha kushtet për lirim nga shtetësia të përcaktuara në nenin 17, paragrafi 1, pikat b) dhe c) dhe se do të miratohet kërkesa për lirim nga shtetësia nëse shtetasi në fjalë paraqet dëshmi për fitimin e shtetësisë së një shteti tjetër, përkatësisht paraqet garancionin e lëshuar nga organi kompetent i shtetit tjetër se do të fitojë shtetësinë e këtij shteti nëse lirohet nga shtetësia e Republikës së Kosovës.
+20.2 Garancioni vlen për një periudhë dy (2) vjeçare që nga dita kur i është dorëzuar shtetasit. Dispozitat për revokimin të përcaktuara në nenin 19 zbatohen përshtatshmërisht për revokimin e garancionit.
