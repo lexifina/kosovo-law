@@ -1,0 +1,3 @@
+# Article 71
+Notice to Courts, Public Authorities, Chamber of Advocates
+Immediately after the date on which Part XIII becomes effective, the Ministry of Justice shall provide the courts, the KJI, the KJC, the Chamber of Advocates and the legal offices of all other budget organizations and public authorities with a special notice regarding the specific provisions of Part XIII. Upon receipt of such notice, the KJI, KJC and the courts shall ensure that all judges in Kosovo are provided with a copy thereof. Upon receipt of such notice, the Chamber of Advocates shall ensure that all advocates in Kosovo are provided with a copy thereof.

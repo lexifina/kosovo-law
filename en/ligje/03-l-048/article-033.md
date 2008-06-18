@@ -1,0 +1,4 @@
+# Article 33
+Procurement and Payment on Behalf of a Budget Organization
+33.1 Where a budget organization arranges for the procurement of goods or services that are to be provided, or that have been provided, for the benefit of another budget organization, the budget organization that arranges for the procurement shall submit to the General Director of Treasury (i) a delegated expenditure notice indicating the budget organization for which the procurement was made and (ii) the written consent of the CAO of the budget organization for which the procurement was made.
+33.2 Where payment is made on the basis of a delegated expenditure notice described in paragraph 1 of this Article, the amount paid shall be treated as a payment from the funds appropriated to the budget organization for which the procurement was made.

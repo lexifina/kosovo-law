@@ -1,0 +1,7 @@
+# Article 12
+Chief Financial Officer
+12.1 Each budget organization, autonomous executive agency and public undertaking shall have a Chief Financial Officer.
+12.2 Notwithstanding the foregoing, (i) the CAO of a controlled public undertaking may enter into an agreement with the CAO of the budget organization exercising such control with respect to the sharing of the services of a single CFO, and (ii) the CAO of an autonomous executive agency may enter into an agreement with the CAO of the budget organization of which it is a part with respect to the sharing of the services of a single CFO.
+12.3 Except in the case of the CFO of a public undertaking, a CFO shall have the status of a civil servant.
+12.4 Every CFO shall be responsible for the proper and lawful financial operations of the concerned budget organization, autonomous executive agency or public undertaking.
+12.5 In the case of the CFO of a budget organization or a autonomous executive agency, such CFO shall have the authority and responsibility for: (i) developing the proposed budget and appropriations request of the budget organization or autonomous executive agency; (ii) ensuring that all transactions are accurately recorded in the Treasury Accounting Record; (iii) ensuring that all legitimate invoices received are promptly submitted for payment through the Treasury system; (iv) overseeing and supervising all aspects of budget reporting; and (v) any function delegated to the CFO in accordance with the FMC Rules. All work of the CFO must strictly comply with the FMC Rules.

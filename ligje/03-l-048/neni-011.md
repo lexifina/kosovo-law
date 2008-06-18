@@ -1,0 +1,7 @@
+# Neni 11
+Auditori i Brendshëm
+11.1 Të gjitha organizatat buxhetore, agjencitë autonome ekzekutive dhe ndërmarrjet publike duhet t’i përmbushin të gjitha kushtet e përcaktuara në Ligjin për Auditimin e Brendshëm, duke përfshirë dispozitat të cilat kërkojnë themelimin e Njësisë së Auditimit të Brendshëm ose prokurimin e shërbimeve të një Auditori të Brendshëm.
+11.2 Pavarësisht nga e sipër cekura, (i) ZKA i një ndërmarrje të kontrolluar publike mund të lidhë marrëveshje me ZKA-në e organizatës kontrolluese buxhetore për ndarjen e shërbimeve të një Auditori të vetëm të Brendshëm, dhe (ii) ZKA i një agjencie autonome ekzekutive mund të lidhë marrëveshje me ZKA-në e organizatës buxhetore pjesë e së cilës është agjencia, për ndarjen e shërbimeve të një Auditori të vetëm të Brendshëm.
+11.3 Kërkesat e përcaktuara në Ligjin për Auditimin e Brendshëm nga këtu e tutje vlejnë edhe për agjencitë autonome ekzekutive. Agjencitë autonome ekzekutive duhet të përmbushin këto kushte njëlloj sikurse edhe organizatat e tjera buxhetore.
+11.4 Nëse Auditori i Brendshëm është punonjës i organizatës buxhetore apo agjencisë autonome ekzekutive, ai/ajo ka statusin e shërbyesit civil.
+11.5 Çdo Auditor i Brendshëm që vepron në kuadër të Njësisë së Auditimit të Brendshëm apo që ofron shërbime të auditimit të brendshëm konsiderohet “zyrtar financiar” i organizatës përkatëse buxhetore, agjencisë autonome ekzekutive apo ndërmarrjes publike.

@@ -1,0 +1,7 @@
+## PART V
+## Revised and Supplementary Appropriations Laws and Budgets
+# Article 25
+Revised Appropriations Laws and Budgets
+25.1 The Minister may prepare proposed amendments to a Kosovo Consolidated Budget and an Appropriations Law, except to provisions thereof that relate to independent agencies, that are in force if he/she has substantial reasons to believe:
+a) that receipts or expenditures for the fiscal year will be materially less or greater than those anticipated in such budget and Appropriations Law; provided, however, that a single extraordinary revenue event shall not provide the Minister justification for invoking this provision; or b) that the Assembly is likely to amend or repeal an existing law or to adopt a new law, and such action is expected to increase or reduce receipts or expenditures for the current fiscal year.
+25.2 In preparing any such proposed amendments, the Minister shall consult with the budget organizations that will be affected thereby. The Minister shall then submit the proposed amendments to the Government along with an updated MTEF. Thereafter, the approval process for such proposed amendments shall be substantially the same as that provided for in Articles 20.8 and 22; provided, however, that the reference in those Articles to specific dates shall be ignored; and, provided further, that if such proposed amendments are to apply only to the remaining part of the fiscal year, the amendments shall so provide.

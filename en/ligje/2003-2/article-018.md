@@ -1,5 +1,0 @@
-# Section 18
-Preparation and Review of Initial Proposed Budgetary Appropriations
-18.1 After the expiration of the time limit specified in the budget circular, the Minister of Finance and Economy shall (i) review the proposed budgets and appropriation requests received from budget organizations, (ii) consult, as the Ministry of Finance and Economy deems necessary, with a budget organization about its proposed budget and appropriation request, and (iii) prepare and distribute to each head of a budget organization an initial proposed budgetary appropriation for such budget organization. 12
-18.2 The Minister of Finance and Economy shall, as is reasonably necessary, consult with a head of budget organization to discuss and attempt to resolve any concerns he or she may have with the Ministry of Finance and Economy’s initial proposed budgetary appropriation for such budget organization.
-18.3 At all times during the preparation of the initial proposed budgetary appropriations, the Minister of Finance and Economy shall comply with the expenditure ceilings established pursuant to Sections 17.3 and 17.4.

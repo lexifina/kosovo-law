@@ -1,0 +1,8 @@
+# Article 35
+Allocated Funds
+35.1 Within thirty (30) days after the approval by the Assembly of an Appropriations Law, every budget organization shall prepare and submit to the General Director of the Treasury a proposed allocation plan that details its reasonably expected allocation needs over the concerned fiscal year. Every such plan shall be fully consistent with the appropriations specified in the Appropriations Law.
+35.2 Where an appropriation has been made, the General Director of Treasury shall provide the concerned budget organization with the authority to make expenditures under that appropriation by:
+a) making, on a quarterly basis, an allocation of funds from the Kosovo Consolidated Fund to be expended under such appropriation; such funds shall become the “allocated funds” for that appropriation; and b) as the amount of allocated funds for an appropriation changes, providing to the concerned budget organization, as needed, a notice specifying the level of funds currently allocated for expenditure in respect of the appropriation.
+35.3 In exceptional cases, where economic circumstances require, the General Director of the Treasury may provide a budget organization with the authority to make certain expenditures on a more accelerated basis than provided for in paragraph 2(a) of this Article.
+35.4 As additional funds become available to be expended in respect of the appropriation, the General Director of Treasury shall make a commensurate change in the level of the funds allocated for the appropriation and provide a notice of such change to the budget organization.
+35.5 An allocated funds notice shall remain in effect until the end of the fiscal year, unless amended earlier by the General Director of the Treasury.

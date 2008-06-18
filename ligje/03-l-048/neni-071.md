@@ -1,0 +1,3 @@
+# Neni 71
+Njoftimi i gjykatave, autoriteteve publike dhe Odës së Avokatëve
+Menjëherë pas datës së hyrjes në fuqi të kësaj Pjese, Ministria e Drejtësisë do t’u dërgojë një njoftim të veçantë të gjitha gjykatave, IGJK-së, KGJK-së, Odës së Avokatëve dhe zyrave ligjore të të gjitha organizatave buxhetore dhe autoriteteve publike, me të cilin këto organe njoftohen lidhur me dispozitat e kësaj Pjese. Pas pranimit të njoftimit, IGJK, KGJK dhe gjykatat duhet të sigurojnë që një kopje e njoftimit t’u dërgohet të gjithë gjykatësve në Kosovë. Pas pranimit të njoftimit, Oda e Avokatëve duhet të sigurojë që një kopje e njoftimit t’u dërgohet të gjithë avokatëve në Kosovë.

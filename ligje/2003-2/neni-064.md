@@ -1,3 +1,0 @@
-# Neni 64
-Suspendimi i zyrtarit publik dhe shërbyesve civil
-Nëse një zyrtar publik apo nëpunës bëhet lëndë e një procedure gjyqësore ku janë shfaqur dyshimet se një zyrtar apo nëpunës i tillë ka qenë i përfshirë në një ngjarje të paligjshme, siç është përshkruar në nenin 62 ose ka dështuar me qëllim apo për shkak të neglizhencës t’u bindet një apo disa obligimeve apo kërkesave të vendosura nga ky ligj apo nga një akt apo urdhër plotësues normativ i lëshuar në mënyrë të vlefshme nën autoritetin e këtij ligji, gjyqi mund të lëshojë një urdhër me të cilin suspendon një person të tillë nga pozita e tij/saj deri në kohën kur gjyqi të mbajë një seancë të plotë dhe korrekte lidhur me dyshimet dhe të marrë vendim.

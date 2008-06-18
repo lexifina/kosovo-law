@@ -1,0 +1,3 @@
+# Neni 78
+Suspendimi i zyrtarit publik dhe shërbyesve civil
+Nëse një zyrtar publik apo shërbyes civil bëhet subjekt i një procedure gjyqësore ku janë shfaqur dyshimet se zyrtari apo shërbyesi i tillë ka qenë i përfshirë në një ngjarje të paligjshme, siç është përshkruar në nenin 76 të këtij ligji ose ka dështuar me qëllim apo për shkak të neglizhencës t’u bindet një apo disa obligimeve apo kërkesave të përcaktuara sipas këtij ligji apo sipas një akti apo urdhri plotësues normativ të nxjerrë në mënyrë të vlefshme nën autoritetin e këtij ligji, gjykata mund të nxjerrë një urdhër me të cilin e suspendon një person të tillë nga pozita e tij/saj, me pagesë, deri në kohën kur gjykata të mbajë një seancë të plotë dhe të drejtë lidhur me dyshimet dhe të marrë vendim.

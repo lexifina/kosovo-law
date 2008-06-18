@@ -1,4 +1,0 @@
-# Neni 33
-Reduktimi i fondeve të akorduara
-Drejtori i Thesarit mundet që në çdo kohë të zvogëlojë shumën e fondeve të akorduara nga përvetësimi nëse ai/ajo paraprakisht merr miratimin e Ministrit të Financave dhe Ekonomisë. Ministri i Ekonomisë dhe Financave mund të miratojë një reduktim të tillë vetëm pasi (i) të përcaktojë se reduktimi i tillë është në interes të menaxhimit të mirëfilltë financiar, apo është i nevojshëm për të siguruar vazhdimësinë e shpenzimeve (fondeve në dispozicion) përgjatë gjithë vitit fiskal, (ii) të ketë dorëzuar një deklarate në Qeveri dhe tek PSSP-ja duke parashtruar arsyet e sakta për marrjen e një vendimi të tillë dhe karakterin e saktë të reduktimit të propozuar, dhe (iii) të ketë pranuar një autorizim me shkrim nga Qeveria dhe PSSP-ja duke miratuar reduktimin e propozuar.
-20

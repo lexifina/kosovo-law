@@ -1,0 +1,19 @@
+# Neni 2
+Paratë publike
+2.1 Në këtë ligj, “paratë publike” do të thotë paratë ose pasurinë financiare të cilat pranohen, janë nën përkujdesjen, mbahen në mirëbesim ose janë nën kontrollin e një (i) organizatë buxhetore, autoriteti publik ose ndërmarrje të kontrolluar publike, ose (ii) personi për ose në emër të cilësdo nga të sipër cekurat. Termi “para ose mjete financiare” i përmendur më sipër përfshin, por nuk kufizohet, paratë e gatshme, monedhat, barasvlerë të parave të gatshme, çeqe, note, bonde, instrumente financiare me likuiditet të lartë dhe pasuri të luajtshme financiare me likuiditet të lartë (sikur që janë gurët e çmuar ose gjysmë të çmuar ose shufrat e metaleve të çmuara).
+2.2 Paratë publike përfshijnë, por nuk kufizohen në:
+a) taksa, tarifa, detyrime ose tarifa për shfrytëzim;
+b) interesa, dividenda ose pagesa tjera;
+c) të ardhurat nga shitja, qiradhënia ose qiramarrja e çfarëdo prone;
+d) tarifat rregullative, tarifat e licencimit si dhe tarifat dhe taksat e ngjashme;
+e) pagesat, tarifat dhe taksat për ofrimin e shërbimeve, furnizimin e mallrave ose kryerjen e punëve;
+f) të ardhurat e pranuara ose te cilat janë realizuar drejtpërdrejtë ose në mënyrë të tërthortë nga dhënia e lejeve ose nga shitja e cilësdo të drejtë mbi një burim publik, duke përfshirë - por pa u kufizuar në - të drejtën ndaj brezit frekuencor, të drejtën e shfrytëzimit të tokës, të drejtat për eksplorimin ose eksploatimin e pasurive natyrore ose të drejtat e shfrytëzimit, si dhe të drejtat mbi pronën intelektuale;
+g) rentat;
+h) depozitat e sigurimit dhe të kushtëzimit;
+i) gjobat, kompensimet e dëmit nga paditë civile, dhe të ardhurat nga sigurimi; dhe j) grantet dhe donacionet nga organizatat ndërkombëtare, Qeveritë e huaja ose cilido burim tjetër.
+2.3 Të gjitha paratë publike duhet të depozitohen në Fondin e Konsoliduar të Kosovës në pajtim me Rregullat e KMF dhe paratë publike mund të shfrytëzohen ose shpenzohen vetëm pasi që të jenë ndarë në mënyrë të rregullt sipas këtij ligji.
+2.4 Të gjitha transaksionet me fonde brenda FKK duhet të bëhen përmes LLVTH.
+2.5 Paragrafi 3 i këtij neni duhet të respektohet rreptësisht nga të gjithë personat, organizatat buxhetore, autoritetet publike dhe ndërmarrjet publike. Në rast të konfliktit ndërmjet paragrafit 3 të këtij neni dhe një dispozite të një ligji, rregullore, ose akti tjetër ligjor ose nën-ligjor, paragrafi 3 i këtij neni mbisundon; megjithatë, mjetet nga ndihma financiare për një komunë nga Republika e Serbisë mund të depozitohet në një bankë komerciale sikur që është përcaktuar në LFPL.
+2.6 Përjashtimisht, nëse një dispozitë e një ligji ose rregullore të UNMIK-ut krijon ose autorizon krijimin e një fondi të veçantë ose ndonjë fondi për qëllim të caktuar për çfarëdo artikulli të parasë publike, ky fond duhet të krijohet në formë të llogarisë së ndarë ose nën-llogarisë në kuadër të Fondit të Konsoliduar të Kosovës, dhe paratë publike të cilat mbahen në këtë llogari i nënshtrohen plotësisht paragrafit 3 të këtij neni. Dispozitat në aktet ligjore ose nën-ligjore, përveç një ligji ose Rregullore të UNMIK-ut, që krijojnë ose autorizojnë krijimin e një fondi të këtillë janë të paligjshme, nule dhe nuk prodhojnë efekte juridike.
+2.7 Si një përjashtim i kufizuar i paragrafit 3 të këtij neni për ato artikuj të parasë publike në të cilat paguesi ose dërguesi posedon të drejtën e kthimit (sikur që janë depozitat e sigurisë dhe ato të kushtëzimit) Thesari do të përgatisë rregulla të veçanta - në pajtim me kërkesat e tjera të zbatueshme ligjore – për trajtimin dhe kthimin e këtyre artikujve të parasë publike.
+2.8 Pavarësisht nga dispozitat kundërthënëse në këtë nen, shprehimisht përcaktohet se paratë dhe pasuria financiare që mbahet në mirëbesim nga AKM-ja ose TKPK sipas një ligji ose Rregullore të UNMIK-ut nuk janë “para publike.”

@@ -1,0 +1,8 @@
+## CHAPTER II
+## Financial Officers at Budget Organizations, Autonomous Executive Agencies and Public Undertakings
+# Article 10
+Chief Administrative Officer
+10.1 A Chief Administrative Officer shall have principal legal responsibility for ensuring that his/her budget organization, autonomous executive agency or public undertaking, and its personnel, thoroughly and adequately comply with, observe and implement all applicable provisions of the present law and the FMC Rules.
+10.2 A Chief Administrative Officer shall, inter alia, be specifically responsible for
+a) establishing internal financial controls within the budget organization, autonomous executive agency or public undertaking in accordance with the FMC Rules, b) delegating functions associated with the collection and expenditure of public money in accordance with the FMC Rules, c) establishing an accountability framework for assessing and managing the performance of any personnel who are delegated such functions, d) establishing and applying internal disciplinary measures to remedy situations where personnel with such delegated functions are not performing such functions adequately or properly, and e) notifying the Auditor General of any circumstances giving rise to a reasonable belief that there has been a violation – by any person or undertaking - of the present law, the FMC Rules or any other law.
+10.3 Notwithstanding the foregoing, no provision of this Article shall be interpreted or applied as authorizing a Chief Administrative Officer to interfere with any Financial Officer during the lawful conduct of the duties assigned to such Financial Officer by this law, the FMC Rules or another law.

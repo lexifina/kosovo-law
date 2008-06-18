@@ -1,4 +1,0 @@
-# Section 26
-18 Contingent Expenditures
-26.1 Subject to Section 26.2, if an event occurs that requires urgent or unforeseen expenditures, a budget organization may apply to the Minister of Finance and Economy for additional funds to cover such expenditures. Upon receipt of such an application, the Minister of Finance and Economy may, where the budget organization has demonstrated compelling reasons for such action, deduct part of the funds appropriated under the then current Appropriations Law for contingent expenditures and add such deducted funds to the relevant appropriation of the concerned budget organization.
-26.2 The Minister of Finance and Economy may only authorize expenditures from the contingency appropriation specified in Section 19.8(c) of up to, in the aggregate, 250,000 Euros. If an amount greater than 250,000 Euros is required, the Minister of Finance and Economy shall first obtain the written approval of the Government and the SRSG.

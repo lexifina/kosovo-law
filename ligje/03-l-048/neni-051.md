@@ -1,0 +1,3 @@
+# Neni 51
+Përjashtimet e Përgjithshme
+Qeveria mundet, me qëllim të huazimit ose garantimit për ri-pagim të parave të cilat nevojiten për përmbushjen e një qëllimi legjitim publik, të marrë hua ose të bëj një marrëveshje garantimi me (i) një institucion ndërkombëtar financiar të saktësuar në Listën B të këtij ligji; ose (ii) me ndonjë institucion tjetër financiar, nëse lënda primare e një marrëveshje të tillë përfshin zgjatjen e një huamarrjeje apo themelimin e një mjeti kreditues të garantuar ose të siguruar nga një institucion ndërkombëtar financiar i përcaktuar në Listën B. Qëllimi i marrëveshjes së propozuar dhe shuma e cila propozohet në huazohet ose të garantohet duhet të përcaktohet shprehimisht në Buxhetin e miratuar të Konsoliduar të Kosovës.

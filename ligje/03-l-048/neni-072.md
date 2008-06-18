@@ -1,0 +1,3 @@
+# Neni 72
+Ndarjet plotësuese buxhetore
+Nëse në kohën e hyrjes në fuqi të kësaj Pjese, Ligji Vjetor për Ndarjet Buxhetore i cili është në fuqi gjatë atij viti nuk i ofron Ministrisë së Drejtësisë mjete të mjaftueshme për ushtrimin e përgjegjësive të cilat i janë dhënë asaj me nenet 67 dhe 68 të këtij ligji, Ministri i Ekonomisë dhe Financave (i) menjëherë do të konsultohet me Ministrin e Drejtësisë lidhur me financimin e nevojshëm, dhe (ii) i dorëzon Qeverisë për miratim dhe dorëzim në Kuvend një propozim-ndryshim plotësim të ligjit aktual për Ndarjet Buxhetore për t’i dhënë Ministrisë së drejtësisë një ndarje plotësuese buxhetore e cila me arsye pritet se do t’i lejojë Ministrisë së Drejtësisë që t’i ushtrojë këto përgjegjësi.

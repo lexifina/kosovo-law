@@ -1,0 +1,3 @@
+# Article 72
+Additional Appropriations
+If, at the time Part XIII becomes effective, the annual Appropriations Law then in effect provides funding to the Ministry of Justice that is insufficient to carry out the new responsibilities assigned to the Ministry of Justice by Articles 67 and 68 of this Law, the Minister of Economy and Finance shall (i) immediately consult with the Ministry of Justice on the additional funding needed and (ii) submit to the Government for approval and submission to the Assembly a proposed amendment to the then current Appropriations Law providing the Ministry of Justice with an additional appropriation that is reasonably expected to enable the Ministry of Justice to carry out such responsibilities.

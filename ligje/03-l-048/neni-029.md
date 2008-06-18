@@ -1,0 +1,5 @@
+# Neni 29
+Shpenzimet e paparashikuara
+29.1 Varësisht nga paragrafi 3 i këtij neni nëse ndodh një rast për të cilin nevojiten shpenzime urgjente ose të paparashikuara, organizata përkatëse buxhetore mund të aplikojë pranë Ministrit për fonde shtesë. Në aplikacion duhet (i) të shpjegohen rrethanat të cilat kanë shkaktuar nevojën për fonde shtesë, (ii) të shpjegohen arsyet pse këto rrethana nuk kanë mundur të parashikohen, (iii) të identifikohen propozim- shfrytëzimet e fondeve të kërkuara, (iv) të shpjegohet se si këto shfrytëzime i kontribuojnë përmbushjes së misionit, qëllimeve dhe objektivave të organizatës buxhetore, dhe (v) të identifikohen cilat ndarje të tjera buxhetore të organizatës buxhetore mund të reduktohen me qëllim të përmbushjes së kërkesës për fonde të paparashikuara, si dhe pasojat të cilat rezultojnë nga ky reduktim i ndarjeve të tjera buxhetore.
+29.2 Pas pranimit të aplikacionit, Departamenti i Buxhetit e shqyrton atë dhe ia paraqet rekomandimet Ministrit.
+29.3 Ministri mund të autorizojë shpenzime nga ndarjet buxhetore të paparashikuara vetëm pas marrjes së miratimit paraprak me shkrim nga Qeveria.

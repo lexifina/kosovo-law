@@ -1,0 +1,5 @@
+# Article 29
+Contingent Expenditures
+29.1 Subject to paragraph 3 of this Article, if an event occurs that requires urgent or unforeseen expenditures, a budget organization may apply to the Minister for additional funds to cover such expenditures. Such an application must (i) state the circumstances giving rise to the request, (ii) explain why those circumstances could not have been foreseen, (iii) identify the proposed uses of the requested funds, (iv) explain how such uses contribute to the achievement of the budget organization’s mission, goals and objectives, and (v) what other appropriations of the budget organization can be reduced to meet the unforeseen funding need contribute, and the consequences that would result from such reductions.
+29.2 Upon receipt of such an application, the Budget Department shall review it and make recommendations to the Minister.
+29.3 The Minister may only authorize expenditures from the contingency appropriation with the prior written approval of the Government.

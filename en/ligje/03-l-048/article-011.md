@@ -1,0 +1,7 @@
+# Article 11
+Internal Auditor
+11.1 Every budget organization, autonomous executive agency and public undertaking shall comply with all applicable requirements of the Law on Internal Audit, including those provisions imposing a requirement to establish and maintain an Internal Audit Unit or to otherwise procure the services of an Internal Auditor.
+11.2 Notwithstanding the foregoing, (i) the CAO of a controlled public undertaking may enter into an agreement with the CAO of the budget organization exercising such control with respect to the sharing of the services of a single Internal Auditor, and (ii) the CAO of an autonomous executive agency may enter into an agreement with the CAO of the budget organization of which it is a part with respect to the sharing of the services of a single Internal Auditor.
+11.3 The requirements of the Law on Internal Audit are hereby specifically made fully applicable to autonomous executive agencies, and an autonomous executive agency shall comply with that law to the same extent as any other budget organization.
+11.4 If an Internal Auditor is an employee of a budget organization or autonomous executive agency, he/she shall have the status of a civil servant.
+11.5 Any Internal Auditor working in an Internal Audit Unit or providing internal audit services shall be deemed a “financial officer” of the concerned budget organization, autonomous executive agency or public undertaking.

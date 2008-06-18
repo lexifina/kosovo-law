@@ -1,4 +1,0 @@
-# Neni 26
-Shpenzimet e Rastit (të paparapara)
-26.1 Varësisht nga neni 26.2, nëse ndodh një rast urgjent i paparaparë, organizata buxhetore për të mbuluar shpenzimet e tilla, mund të aplikoj pranë Ministrisë për Ekonomi dhe Financa për fonde shtesë. Pas pranimit të atij aplikacioni, Ministria për Ekonomi dhe Financa pasi që organizata buxhetore të ketë dhënë arsyetimet e nevojshme për veprimin e tillë, mund të heq një pjesë të fondeve të përvetësuara sipas ligjit të Përvetësimeve në fuqi për shpenzimet e rastit dhe atë pjesë të hequr të ia shtojë përvetësimit përkatës të asaj organizate buxhetore.
-26.2 Ministri i Ekonomisë dhe Financave mund të autorizojë shpenzime nga përvetësimet e paparashikuara (të rastit), të cekura në nenin 19.8 (c), në shumën e përgjithshme deri në 250.000 EURO. Nëse kërkohet një shumë më e madhe se 250,000 EURO, atëherë Ministri i Ekonomisë dhe Financave duhet të marrë miratimin paraprak me shkrim nga Qeveria dhe PSSP-ja.

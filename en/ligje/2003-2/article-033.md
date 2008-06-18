@@ -1,3 +1,0 @@
-# Section 33
-Reduction of Allocated Funds
-The Director of Treasury may at any time reduce the level of funds allocated in respect of an appropriation if he/she first obtains the approval of the Minister of Finance and Economy. The Minister of Finance and Economy may approve such a reduction only after (i) making a determination that such reduction is in the interest of prudent fiscal management or necessary to ensure the continuation of expenditures throughout the fiscal year, (ii) submitting a statement to the Government and the SRSG setting forth the reasons for such determination and the precise nature of the proposed reduction, and (iii) receiving a written authorization from the Government and the SRSG approving the proposed reduction.
