@@ -1,0 +1,4 @@
+# Article 2
+Territorial areas of activity
+2.1 Members of the Kosovo Security Force are authorized to serve within the territory of the Republic of Kosovo, and to be deployed abroad on operations only when mandated by the Assembly of the Republic of Kosovo and with the agreement of the recipient country, or upon invitation by international organizations to which the Republic of Kosovo is or aspires to be a member of, or under a UN Security Council Resolution.
+2.2 Members of the Kosovo Security Force may participate in education, training and exercises beyond the territorial limits of the Republic of Kosovo without consult of the Assembly of the Republic of Kosovo only upon invitation by international organisations to which the Republic of Kosovo is or aspires to be a member of or on a bilateral basis with members of those organisations and following Ministerial authorisation.
