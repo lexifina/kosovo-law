@@ -1,0 +1,4 @@
+# Neni 6
+Dispozitat lidhur me Koordinatorin e EULEX-it për të Drejtat Pronësore në Kosovë
+6.1 Koordinatori i EULEX-it për të Drejtat Pronësore do të ndihmojë në koordinimin e çështjeve lidhur me të drejtat pronësore, si dhe zgjidhjen e kërkesave ndërmjet palëve të përfshira në këtë çështje, duke përfshirë por jo kufizuar në Agjencinë Kosovare të Pronës, Komisionin Kosovar për Kërkesa Pronësore, Agjencinë Kosovare të Mirëbesimit, Odën e Veçantë të Gjykatës Supreme të Kosovës lidhur me çështjet që kanë të bëjnë me Agjencinë Kosovare të Mirëbesimit, gjykatat e rregullta, apo Shërbimin Policor të Kosovës.
+6.2 Të gjitha palët që merren me çështjet e të drejtave pronësore, përfshirë këtu zgjidhjen e kërkesave në Kosovë, janë të obliguar që t’i ofrojnë falas Koordinatorit të EULEX-it për të Drejtat Pronësore çdo informatë të kërkuar nga ta dhe t’i lejojnë qasje në të gjitha elementet e nevojshme për zbatimin e mandatit të vet.

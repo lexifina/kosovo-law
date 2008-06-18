@@ -1,0 +1,8 @@
+## KREU III
+## KOMPETENCAT E PROKURORËVE TË EULEX-it
+# Neni 7
+Kompetencat e përgjithshme të prokurorëve të EULEX-it
+7.1 Prokurorët e EULEX-it do të kenë kompetenca dhe përgjegjësi që të ushtrojnë funksionet e tyre, përfshirë këtu kompetencat për të kryer hetime penale dhe për të marrë përgjegjësi për hetimet penale apo procedurat e lëndëve të reja dhe atyre të pazgjidhura në kuadër të PSRK-së apo në kuadër të zyrave prokuroriale ku ata janë caktuar nga Kryeprokurori i EULEX-it dhe në pajtim me modalitetet e përcaktuara me anë të këtij ligji dhe nga Asambleja e prokurorëve të EULEX-it.
+7.2 Prokurorët e EULEX-it do të bashkëpunojnë me prokurorët publik të Kosovës që punojnë në zyra të ndryshme prokuroriale ku ata janë caktuar në pajtim me modalitetet e përcaktuara me anë të këtij ligji dhe nga Asambleja e prokurorëve të EULEX-it.
+7.3 Përveç ushtrimit të funksioneve të tyre hetuese dhe prokuroriale sipas dispozitave të nenit 8 të këtij ligji, prokurorët e EULEX-it do të monitorojnë, udhëzojnë dhe këshillojnë prokurorët publik të Kosovës për sa i përket parimit të autonomisë së prokurorëve dhe në pajtim me modalitetet e përcaktuara me anë të këtij ligji dhe nga Asambleja e prokurorëve të EULEX-it. Roli i tyre si monitorues, monitorues dhe këshillues nuk do të jetë i kufizuar në lëndët për të cilat prokurorët e EULEX-it mund të ushtrojnë kompetencat e tyre.
+7.4 Prokurorët e EULEX-it do t’i ushtrojnë funksionet e tyre në pajtim me ligjin në fuqi. Ata do të jenë nën autoritetin e veçantë të Kryeprokurorit të EULEX-it dhe nuk do t’i nënshtrohen autoritetit të asnjë institucioni kosovar.

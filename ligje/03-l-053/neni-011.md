@@ -1,0 +1,5 @@
+# Neni 11
+Kompetencat e prokurorëve të EULEX-it për krimet e motivuara nga urrejtja
+11.1 Në çdo kohë gjatë procedurës dhe në pajtim me Kryeprokurorin e EULEX-it, prokurorët e EULEX-it mund të marrin përgjegjësi për çdo hetim a ndjekje penale të çdo vepre penale, përfshirë këtu veprat penale kundër personave apo pronës, ku viktima, prona apo objekti i veprës penale duken të jenë përzgjedhur për shkak të lidhjes, bashkimit, afërsisë, mbështetjes apo anëtarësisë së tyre të vërtetë apo të perceptuar me një grup të vërtetë apo të perceptuar të identifikuar sipas racës, origjinës kombëtare, etnike apo shoqërore, afërsisë me ndonjë minoritet kombëtar apo grup politik, gjuhës, ngjyrës, besimit, gjinisë, moshës, të metave fizike apo mentale, orientimit seksual, apo faktorëve tjerë të ngjashëm.
+11.2 Për qëllimet e paragrafit 1 të këtij neni, prokurori i EULEX-it ia paraqet një kërkesë Kryeprokurorit të zyrës që është kompetente për hetimin a ndjekjen e rastit.
+11.3 Kryeprokurori përkatës do t’ia përcjell lëndën prokurorit të EULEX-it të caktuar nga Kryeprokurori i EULEX-it brenda njëzetekatër orëve.

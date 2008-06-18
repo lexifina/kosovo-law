@@ -1,0 +1,4 @@
+# Article 6
+Provisions concerning the EULEX Property Rights Coordinator in Kosovo
+6.1 The EULEX Property Rights Coordinator in Kosovo will assist in coordinating property rights issues, including claims resolution, between different actors involved in this subject matter including, but not limited to the Kosovo Property Agency, the Kosovo Property Claims Commission, the Kosovo Trust Agency, the Special Chamber of the Supreme Court of Kosovo on Kosovo Trust Agency related matters, ordinary courts, or the Kosovo Police Service.
+6.2 All actors dealing with property rights issues, including claims resolution in Kosovo will be obliged to supply the EULEX Property Rights Coordinator free of charge with any information requested of them. The EULEX Property Rights Coordinator will have access to all the elements required for implementation of its mandate.

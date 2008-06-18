@@ -1,0 +1,5 @@
+# Article 11
+Authority of EULEX prosecutors for Hate-Motivated crimes
+11.1 At any time during the proceeding and upon agreement with the Chief EULEX Prosecutor, the EULEX prosecutors can take the responsibility over any investigation or prosecution of any criminal offence, including offences against persons or property, where the victim, premises, or target of the offence appear to be selected because of their real or perceived connection, attachment, affiliation, support, or membership of a real or perceived group identified according to its race, national or ethnic or social origin, association with a national minority or with a political group, language, color, religion, sex, age, mental or physical disability, sexual orientation, or other similar factor.
+11.2 For the purpose of paragraph 1 of this Article, the EULEX prosecutor will file a request to the Chief Prosecutor of the office that would be competent to investigate or prosecute the case.
+11.3 The relevant Chief Prosecutor will transfer the case to the EULEX prosecutor assigned to by the Chief EULEX Prosecutor within twenty-four hours.

@@ -1,0 +1,8 @@
+## CHAPTER III
+## COMPETENCES OF EULEX PROSECUTORS
+# Article 7
+General authority of EULEX prosecutors
+7.1 EULEX prosecutors will have the authority and responsibility to perform the functions of his or her office, including the authority to conduct criminal investigations and take responsibility for new and pending criminal investigations or proceedings, within the SPRK or within the prosecution offices to which he or she is assigned to by the Chief EULEX Prosecutor and according to the modalities as established by the present Law and by the Assembly of the EULEX Prosecutors.
+7.2 EULEX prosecutors will cooperate with the Kosovo Public Prosecutors working within the different prosecution offices to which he or she is assigned to, in accordance with the modalities as established by the present law and by the Assembly of the EULEX Prosecutors.
+7.3 Besides exercising their investigating and prosecutorial functions pursuant to the provisions of Article 8 of this law, the EULEX prosecutors will monitor, mentor and advise the Kosovo Public Prosecutors in the respect of the principle of autonomy of prosecutors and in accordance with the modalities as established by the present law and by the Assembly of the EULEX Prosecutors. Their role as monitors, mentors and advisors will not be limited to the cases for which the EULEX prosecutors can exercise their competences.
+7.4 EULEX prosecutors will discharge their functions in compliance with the applicable law. They will be under the exclusive authority of the Chief EULEX Prosecutor and will not be subject to the authority of any Kosovan institution.

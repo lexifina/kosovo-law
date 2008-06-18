@@ -1,0 +1,10 @@
+## KREU II
+## KOMPETENCAT E GJYQTARËVE TË EULEX-it
+# Neni 2
+Kompetencat e përgjithshme të gjyqtarëve të EULEX-it
+2.1 Gjyqtarët e EULEX-it do të kenë kompetencë dhe përgjegjësi që të ushtrojnë funksionet për lëndët që janë në kuadër të juridiksionit të gjykatave ku ata janë caktuar nga Kryetari i Asamblesë së gjyqtarëve të EULEX-it, dhe në pajtim me modalitetet e përcaktuara me anë të këtij ligji dhe nga EULEX KOSOVË.
+2.2 Gjyqtarët e EULEX-it do të bashkëpunojnë me gjyqtarët kosovar që punojnë në gjykata të ndryshme ku ata janë caktuar në pajtim me modalitetet e përcaktuara me anë të këtij ligji dhe nga EULEX KOSOVË.
+2.3 Sipas nevojës, aspektet relevante të aktivitetit dhe bashkëpunimit të gjyqtarëve të EULEX-it me gjyqtarët që punojnë në gjykatat vendore do të përcaktohen me tutje, për aq sa është e nevojshme, me anë të një marrëveshje të veçantë ndërmjet Shefit të EULEX KOSOVË, Këshillit Gjyqësor të Kosovës dhe Kryetarit të Gjykatës Supreme të Kosovës.
+2.4 Përveç ushtrimit të funksioneve gjyqësore në përputhje me dispozitat e neneve 3,4 dhe 5 të këtij ligjit, gjyqtarët e EULEX-it do të monitorojnë, udhëzojnë dhe këshillojnë gjyqtarët kosovar për sa i përket parimit të pavarësisë së gjyqësorit dhe në përputhje me modalitetet e përcaktuara me anë të këtij ligji dhe nga EULEX KOSOVË.
+2.5 Gjyqtarët e EULEX-it do të jenë të pavarur në ushtrimin e funksioneve të tyre.
+2.6 Pas konsultimit me Shefin e Komponentit të Drejtësisë, Kryetari i Asamblesë së gjyqtarëve të EULEX-it dhe Kryeprokurori i EULEX-it, do t’ia propozojnë Asamblesë se gjyqtarëve të EULEX-it përkatësisht Asamblesë se Prokurorëve të EULEX-it, modalitetet për përzgjedhjen e lëndëve dhe caktimin e lëndëve në bazë të kritereve objektive dhe masat siguruese procedurale të cilat do të jenë në përputhje me ligjin në fuqi. Këto modalitete që do të miratohen nga Asambleja e gjyqtarëve të EULEX-it dhe Asambleja se Prokurorëve të EULEX-it, do të sigurojnë respektimin e pavarësisë dhe paanësisë së gjyqtarëve të EULEX-it si dhe të autonomisë së prokurorëve të EULEX-it në ushtrimin e funksioneve të tyre.

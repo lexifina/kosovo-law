@@ -1,0 +1,4 @@
+# Article 18
+18.1 In case of a substantial reorganization of the court system or of the prosecution offices after the entry into force of the present law, the Chief Prosecutor of the Office having competence over the case according to the new legislation will be the competent authority to exercise all duties and responsibilities assigned to the Chief District or Chief Municipal Prosecutor by the present law.
+18.2 Similarly, all references made in the present law to municipal or district prosecution offices, municipal or district courts, municipal Kosovo Public Prosecutor or district Kosovo Public Prosecutor, will be interpreted in accordance with the new structure of the court system or prosecution offices.
+18.3 The competent authorities will be under the obligation to amend the present law in compliance with the new structure of the courts or of the prosecution offices to allow the EULEX KOSOVO to properly exercise their authorities and functions.

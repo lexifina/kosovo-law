@@ -1,0 +1,10 @@
+## CHAPTER II
+## COMPETENCES OF EULEX JUDGES
+# Article 2
+General authority of EULEX judges
+2.1 An EULEX judge will have the authority and responsibility to perform the functions for cases falling within the jurisdiction of the courts to which he or she is assigned to by the President of the Assembly of EULEX judges, and according to the modalities as established by the present law and by the EULEX KOSOVO.
+2.2 EULEX judges will cooperate with the Kosovo Judges working at the different courts to which he or she is assigned to, in accordance with the modalities as established by the present law and by the EULEX KOSOVO.
+2.3 Where required, the relevant aspects of the activity and cooperation of EULEX judges with the Kosovo judges working in the local courts will be further outlined, to the necessary extent, in a separate Arrangement between the Head of the EULEX KOSOVO, the Kosovo Judicial Council and the President of the Supreme Court of Kosovo.
+2.4 Besides exercising their judicial functions pursuant to the provisions of Articles 3, 4 and 5 of this law, EULEX judges will monitor, mentor and advise the Kosovo Judges, in the respect of the principle of independence of the judiciary and according to the modalities as established by the present law and by the EULEX KOSOVO.
+2.5 EULEX judges will be independent in the discharge of their functions.
+2.6 Upon consultation with the Head of the Justice Component, the President of the Assembly of the EULEX Judges and the Chief EULEX Prosecutor will propose, respectively, to the Assembly of the EULEX Judges and to the Assembly of the EULEX Prosecutors, modalities on case selection and case allocation based on pre-determined objective criteria and procedural safeguards that will be consistent with the applicable law. These modalities that will be endorsed by the Assembly of the EULEX Judges and of the EULEX Prosecutors will ensure the respect of the independence and the impartiality of the EULEX judges and the autonomy of the EULEX Prosecutors in the discharge of their functions.
