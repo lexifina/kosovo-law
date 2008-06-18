@@ -1,0 +1,4 @@
+# Article 26
+26.1 Regarding the application for the passport, competent body should decide within 15 days after the submission of application.
+26.2 Citizens who were born outside the Republic of Kosova, and who are not registered in the records of births or citizenship, and for whom is necessary to establish the citizenship and other personal data, competent body may request from them to present birth certificate and proof on citizenship, in which case the period within which should be issued travel document, might be extended for thirty days.
+26.3 In case, when the competent body suspects about the accuracy of data from article 25 paragraph 3 of this law, the time frame for issuance of travel document might be adjourned for the time needed for verification of data, which should last no longer than 60 days. 8

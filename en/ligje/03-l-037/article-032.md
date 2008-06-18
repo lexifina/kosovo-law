@@ -1,0 +1,4 @@
+# Article 32
+32.1 The data included in the evidence will be used, during the accomplishment of the tasks by the employees of the Ministry of Interior and Ministry of Foreign Affairs; these data might be used also by the police, in cases determined by law.
+32.2 Facial image of the holder of travel document, preserved as biometric data might be used only for verification of accuracy of travel document and identity of holder of travel document during the state border crossing.
+32.3 Personal data referred in the article 23 may be used by the enterprise or authorised organisation from paragraph 3 of Article 14 of this Law, for the purposes of filling with information the forms for travel documents, but these data will be destroyed within thirty days after their use under the supervision of the Ministry of Internal Affairs.

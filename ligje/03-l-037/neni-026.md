@@ -1,0 +1,4 @@
+# Neni 26
+26.1 Lidhur me kërkesën për tu pajisur me pasaportë, organi kompetent duhet të vendosë brenda 15 ditëve pas paraqitjes së kërkesës.
+26.2 Shtetasit të cilët janë lindur jashtë Republikës së Kosovës, dhe të cilët nuk janë të regjistruar në librat e të lindurve apo shtetësisë, dhe për të cilët është e domosdoshme të vërtetohet shtetësia dhe të dhënat tjera personale, organi kompetent mund të kërkoj që ata të paraqesin certifikatën e lindjes dhe provën mbi shtetësinë, në të cilin rast periudha brenda së cilës duhet të lëshohet dokumenti i udhëtimit mund të zgjatet për tridhjetë ditë.
+8 26.3 Në rastin, kur organi kompetent dyshon për saktësinë e të dhënave nga neni 25 paragrafi 3 të këtij ligji, afati për lëshimin e dokumentit të udhëtimit mund të shtyhet për kohën e verifikimit të të dhënave, e cila nuk mund të zgjatë më shumë se 60 ditë.

@@ -1,0 +1,4 @@
+# Neni 32
+32.1 Të dhënat e përfshira në evidenca do të përdoren, gjatë kryerjes së detyrave nga të punësuarit e Ministrisë për Punë të Brendshme dhe të Ministrisë për Punë te Jashtme, këto të dhëna mund të përdoren edhe nga policia, ne rastet kur është e përcaktuar me ligj.
+32.2 Pamja e fytyrës së bartësit të dokumentit të udhëtimit, e ruajtur si e dhënë biometrike mund të përdoret vetëm për verifikimin e vërtetësisë së dokumentit të udhëtimit dhe identitetit të bartësit të dokumentit të udhëtimit gjatë kalimit të kufirit shtetëror.
+32.3 Të dhënat personale të referuara në nenin 23 mund të përdoren nga ndërmarrja apo organizata e autorizuar nga paragrafi 3 i nenit 14 të këtij ligji, për qëllime të plotësimit me informata të formularëve të dokumenteve të udhëtimit, por këto të dhëna do të shkatërrohen brenda tridhjetë ditësh pas përdorimit të tyre nen mbikëqyrjen e Ministrisë për Punë te Brendshme.
