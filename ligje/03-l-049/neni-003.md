@@ -1,0 +1,3 @@
+# Neni 3
+Kufizimet në Pavarësinë Financiare të Komunave
+Me përjashtim të tatimit në pronën e paluajtshme brenda kufijve të saj, komuna nuk është e autorizuar që të caktojë, vjelë ose mbledhë çfarëdo detyrime ose taksa të tjera. Kjo ndalesë vlen (mirëpo nuk kufizohet) për detyrimet doganore dhe detyrimet e tjera, tatimin në të ardhurat e personave, tatimin në vlerën e shtuar, akcizën, tatimin në kapital si dhe të gjitha detyrimet e tjera të cilat kanë ndikim të barasvlershëm me detyrimet dhe taksat e sipërpërmendura; megjithatë, kjo ndalesë nuk zbatohet kur komuna vepron për ushtrimin ose përmbushjen e një funksioni ose përgjegjësie e cila i është deleguar në mënyrë formale dhe të ligjshme nga Qeveria.

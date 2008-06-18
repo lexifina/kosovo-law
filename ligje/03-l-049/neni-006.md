@@ -1,0 +1,5 @@
+# Neni 6
+Kompetencat e Shtuara
+Kur një ligj u jep kompetenca të shtuara vetanake një grupi të caktuar të komunave (kompetencat e “shtuara” vetanake), këto kompetenca të shtuara duhet të trajtohen në mënyrë të njëjtë me kompetencat e tjera vetanake. Ministri i Ekonomisë dhe Financave, Qeveria dhe Kuvendi duhet të sigurojnë që në BKK, komunave përkatëse t’u ndahen fondet e nevojshme për ushtrimin e këtyre kompetencave. Nëse në kuadër të një kompetence të shtuar parashihet ofrimi i një shërbimi publik, fondet e ndara për komunën duhet të jenë të mjaftueshme për t’i lejuar komunës ofrimin e këtyre shërbimeve në përputhje me standardet minimale të cilësisë dhe sasisë, të cilat janë përcaktuar në rregullat përkatëse të autoritetit qendror publik i cili është përgjegjës për ofrimin e këtyre shërbimeve në Kosovë; dhe, këto fonde duhet të ndahen në një nivel të mjaftueshëm për mbulimin e shpenzimeve të arsyeshme të komunës të bëra gjatë ushtrimit të këtyre kompetencave.
+PJESA II
+Burimet Financiare Komunale

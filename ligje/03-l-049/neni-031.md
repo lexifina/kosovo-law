@@ -1,0 +1,7 @@
+## PJESA VI
+## Dispozitat Institucionale dhe Komisioni i Granteve
+# Neni 31
+Dispozitat mbi Grantet Operative
+31.1 Gjatë përgatitjes së propozim Ligjit Vjetor për Ndarjet Buxhetore për vitin e ardhshëm fiskal, Ministri i Ekonomisë dhe Financave, në propozim-ndarjet buxhetore për komunat, duhet të përcaktojë shumat të cilat rekomandohet t’u ndahen komunave si Grante Operative. Gjatë propozimit të shumës së këtyre granteve, Ministri do të përdorë formulën e përcaktuar në këtë ligj.
+31.2 Një grant i përgjithshëm mund të shfrytëzohet nga komuna për çfarëdo qëllimi që ndërlidhet me ushtrimin e kompetencave komunale. Pavarësisht nga e mësipërmja, Ministri i Ekonomisë dhe Financave mund të nxjerrë udhëzime të përgjithshme për shpenzimet aktuale dhe kapitale të cilat duhet të zbatohen nga komunat.
+31.3 Nëse gjatë bashkërendimit përfundimtar nga Ministria e Ekonomisë dhe Financave të buxhetit për një vit të caktuar fiskal konstatohet se të hyrat faktike i tejkalojnë të hyrat e buxhetuara për më shumë se pesë përqind (5%), atëherë shuma e të hyrave tepricë do t’u ndahet komunave në mënyrë të njëjtë si ajo që është përcaktuar në paragrafin 2 të nenit 24 të këtij ligji. Ministri i Ekonomisë dhe Financave pastaj do (i) të rregullojë nivelet e Granteve të Përgjithshme për secilën komunë në përputhje me formulën e përcaktuar në paragrafin 5 të nenit 24 të këtij ligji, dhe (ii) të iniciojë procesin e zakonshëm të buxhetimit dhe ndarjeve buxhetore në përputhje me LMFPP.

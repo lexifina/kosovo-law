@@ -1,0 +1,3 @@
+# Article 3
+Limitations of Municipal Financial autonomy
+With exception of a tax on immovable property within its borders, a municipality shall have no authority to, and shall not assess, levy or collect any other duties or taxes. This prohibition applies to, but is not limited to, customs and other duties, taxes on the revenues of persons, value-added taxes, excise taxes, taxes on capital, and any charge having an equivalent effect as the aforementioned duties and taxes; provided, however, that this prohibition shall not apply where the municipality is fulfilling a function or responsibility that has been formally and lawfully delegated to it by the Government.

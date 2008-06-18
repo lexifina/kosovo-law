@@ -1,0 +1,6 @@
+# Article 11
+Professional Business License Fee
+11.1 A municipality may, by municipal regulation, require business organizations that are currently registered with the Kosovo Business Registry and that are providing professional services from premises located in the municipality to obtain a professional business license (the “professional business license”).
+11.2 A municipality may, by municipal regulation, also establish an annual fee that must be paid to obtain or maintain such a professional business license. Such regulation may also establish a fee schedule that imposes different fees on different categories of professional services. Any such professional business license fees shall be assessed only on the basis of rules established by municipal regulation.
+11.3 A professional business license for professional work of accountants, lawyers, doctors, dentists and other professions shall be issued only after the applicant provides documentary evidence of licensure and/or official certification to practice in accordance with the applicable legal requirements established by or pursuant to the laws of the Republic of Kosovo.
+11.4 The issuance of a professional business license by a municipality shall not be construed as indicating that the municipality has judged the fitness of the holder to practice that profession.

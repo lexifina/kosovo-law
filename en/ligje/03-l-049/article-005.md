@@ -1,0 +1,3 @@
+# Article 5
+Delegated Competencies
+Where the Government delegates a competency to one or more municipalities, the concerned municipalities may, insofar as possible, adapt the exercise of such competency to local conditions. A municipality shall be required to provide services under a delegated competency on an open and equal basis. The Minister of Economy and Finance, the Government and the Assembly shall ensure that the KCB provides to a municipality the funds needed for the performance of a delegated competency; and such funds shall be provided at a level that is sufficient to cover the municipality’s reasonable costs incurred in connection with such performance.

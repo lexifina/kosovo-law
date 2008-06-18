@@ -1,0 +1,8 @@
+# Article 37
+Entry into Force
+37.1 This law shall enter into force after its adoption by the Assembly of Kosovo and upon publication in the Official Gazette of the Republic of Kosovo.
+37.2 This Law shall enter into force fifteen (15) days after its publication in the Official Gazette of Republic of Kosova.
+Adopted by the Assembly of the Republic of Kosova
+Date: 13.03. 2008
+Annex I: Data used for allocating the General Grant Area size Minority communities Minority Municipalities Population (sqkm) In Municipality in Kosovo 1 Deçan 40,400 297 294 2 Dragash 35,000 430 12,935 3 Ferizaj 111,000 345 3,367 4 Fushë Kosovë 33,682 83 3,730 5 Gjakovë 115,000 587 6,013 6 Gjilan 100,348 392 4,058 7 Gllogovc 60,000 276 0 8 Hani I Elezi (Kacanik) 10,000 83 0 9 Istog 44,000 454 2,646 10 Junik (Decan) 9,600 74 0 11 Kaçanik 33,000 211 4 12 Kamenica 49,581 424 4,670
+13 Klinë 44,000 309 1,863 14 Leposaviq 19,000 539 510 19,000 15 Lipjan 69,115 338 4,952 16 Malishevë 52,000 306 28 17 Mamusha (Prizren) 6,000 32 0 6,000 18 Mitrovicë (South) 90,000 331 0 19 Novo Bërdë 9,899 204 2,785 9,899 20 Obiliq 26,000 105 3,360 21 Pejë 115,000 603 12,650 22 Podujevë 117,000 633 735 23 Prishtinë 388,561 514 4,961 24 Prizren 214,963 603 30,077 25 Rahovec 63,000 278 1,953 26 Shtërpcë 11,000 248 3,438 11,000 27 Shtime 28,000 134 560 28 Skenderaj 56,000 374 366 29 Suharekë 80,000 361 471 30 Viti 46,458 270 293 31 Vushtrri 75,000 345 2,615 32 Zubin Potok 15,000 333 800 15,000 33 Zveçan 16,000 123 600 16,000 34 Gracanica 18,642 131 2,670 18,642 35 Klokot 4,542 23 1,205 4,542 36 North Mitrovica 20,000 5 1,990 20,000 37 Partesh 5,217 29 0 5,217 38 Ranilug 4,955 69 0 4,955 Total 2,236,000 10,901 116,599 130,255

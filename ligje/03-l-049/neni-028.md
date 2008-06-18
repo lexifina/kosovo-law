@@ -1,0 +1,4 @@
+# Neni 28
+Autorizimi për Shpenzim dhe Monitorimi
+28.1 Autorizimi për shpenzimin e mjeteve të transferuara për kompetencat e deleguara dhe për grantet e dhëna për kompetencat e shtuara i takon komunës pranuese, e cila duhet të veprojnë në përputhje me dispozitat e aplikueshme të LMFPP gjatë ushtrimit të këtij autorizimi.
+28.2 Ministritë përgjegjëse për fushën përkatëse të cilës i takojnë kompetencat e deleguara ose të shtuara do bëjnë monitorimin dhe do të sigurojnë që (i) këto kompetenca të ushtrohen në përputhje me ligjet, aktet nënligjore dhe standardet përkatëse, dhe (ii) masat e marra nga komuna për ushtrimin e këtyre kompetencave të jenë të duhura. Ministritë përkatëse do t’i sigurojnë një raport vjetor të monitorimit Ministrisë së Ekonomisë dhe Financave dhe Ministrisë së Pushtetit Lokal mbi këto çështje.

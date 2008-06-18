@@ -1,0 +1,7 @@
+## PART VI
+## Institutional Provisions and Grants Commission
+# Article 31
+Provisions Concerning Operating Grants
+31.1 When preparing a proposed annual Appropriations Law for an upcoming fiscal year, the Minister of Economy and Finance shall include in the proposed appropriations for municipalities amounts that are recommended to be appropriated to municipalities as Operating Grants. In proposing the amount of such grants, the Minister shall utilize the formulae provided by this law.
+31.2 A general grant may be used by the municipality for any purpose that is directly related to the exercise by the municipality of any of its own competencies. Notwithstanding the foregoing, the Minister may, with the approval of the Government, promulgate general guidelines for current and capital expenditures that municipalities shall be required to comply with.
+31.3 If the Ministry of Economy and Finance’s final reconciliation of a budget for a fiscal year shows that actual revenues exceeded budgeted revenues by more than five percent (5%), then the amount of such excess revenues shall be apportioned to the municipalities in the same manner as provided in paragraph 2, Article 24 of this Law. The Minister of Economy and Finance shall then (i) adjust the then current year General Grant levels for each municipality in accordance with the formulae established in paragraph 5, Article 24 of this Law, and (ii) initiate the normal budgeting and appropriations process therefore in accordance with the LPFMA.

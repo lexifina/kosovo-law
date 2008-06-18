@@ -1,0 +1,3 @@
+# Neni 5
+Kompetencat e Deleguara
+Kur Qeveria i delegon një kompetencë një ose më shumë komunave, këto komuna, aq sa është e mundshme, mund ta përshtatin ushtrimin e këtyre kompetencave me kushtet lokale. Komuna duhet t’i ofrojë shërbimet të cilat rrjedhin nga një kompetencë e deleguar në mënyrë të hapur dhe të barabartë. Ministri i Ekonomisë dhe Financave, Qeveria dhe Kuvendi duhet të sigurojnë që në BKK komunave t’u ofrohen fondet e nevojshme për ushtrimin e kompetencave të deleguara; këto fonde duhet të jenë në një nivel të mjaftueshëm për mbulimin e shpenzimeve të arsyeshme të komunës të bëra në lidhje me ushtrimin e këtyre kompetencave.

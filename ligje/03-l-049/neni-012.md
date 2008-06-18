@@ -1,0 +1,6 @@
+# Neni 12
+Taksa për Automjetet Motorike
+12.1 Komuna ka të drejtë që të kërkojë nga personat fizik të cilët janë banorë të komunës përkatëse si dhe nga shoqëritë tregtare dhe ndërmarrjet e tjera selia e të cilave në Kosovë ndodhet në komunën përkatëse që të paguajnë një taksë vjetore për automjete motorike (taksa për automjete motorike) për secilin automjet i cili është në pronësi të banorit, shoqërisë tregtare ose ndërmarrjes së sipërpërmendur.
+12.2 Komuna nuk do të vendosë taksën për automjetet motorike të cilat janë në pronësi të personave fizik që nuk janë banorë të komunës ose shoqëritë tregtare ose ndërmarrjet selia e të cilave në Kosovë nuk është e vendosur në atë komunë.
+12.3 Nëse komuna vendos që të caktojë këtë taksë për automjete motorike, kuvendi komunal do të nxjerrë një rregullore për këtë qëllim. Taksa për automjetet motorike përcaktohet në bazë të fuqisë motorike të automjetit motorik dhe/ose llojit të automjetit (motoçikletë, automobil për udhëtarë, kamion ose autobus).
+12.4 Përmes një rregulloreje, kuvendi komunal mund të bëjë përjashtimin nga kjo taksë ose reduktimin e taksës për automjetet të cilat përdoren (i) nga shërbimet emergjente, (ii) për transportimin e personave me aftësi të kufizuara, dhe (iii) për qëllime të tjera domethënëse shoqërore ose publike.

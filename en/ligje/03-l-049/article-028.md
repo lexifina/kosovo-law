@@ -1,0 +1,4 @@
+# Article 28
+Spending Authority and Monitoring
+28.1 The spending authority for transfers for delegated competencies, and for grants for enhanced competencies, shall be with the receiving municipality, which shall be required to comply with the applicable provisions of the LPFMA when exercising that authority.
+28.2 Ministries responsible for the subject matter of delegated and enhanced competencies shall monitor and ensure that (i) such competencies have been executed in compliance with applicable laws, sub-normative acts and standards, and (ii) the measures taken by municipality in the implementation of such competencies are appropriate. Such ministries shall annually provide a monitoring report to the Ministry of Economy and Finance and the Ministry of Local Government Administration on these matters.
