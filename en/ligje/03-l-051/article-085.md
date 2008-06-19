@@ -1,0 +1,3 @@
+# Article 85
+Use of AAIIC Reports
+In a lawsuit or action for damages based on an aviation related incident or accident, no court or arbitral body shall admit into evidence or permit reference to be made to any part of any report of the AAIIC that specifically relates to (i) the identification of the probable cause of an accident or (ii) an element of the accident investigation that was specifically aimed at identifying the probable cause of an accident. Findings of fact, as opposed to efforts to identify probable causality, made by the AAIIC may be admitted into evidence in such a lawsuit or action.

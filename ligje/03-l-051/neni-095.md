@@ -1,0 +1,4 @@
+# Neni 95
+Kompensimi dhe asistenca për mohimet e hyrjes në aeroplan dhe anulimet
+95.1 Pa paragjykuar fushëveprimin e përgjithshëm të nenit 94 të këtij ligji, shprehimisht përcaktohet se për rregullimin e mbrojtjes së konsumatorëve zbatohet Rregullorja (EC) Nr. 261/2004 e Parlamentit dhe Këshillit Evropian e 11 Shkurtit 2004 e cila vendosë rregulla të përbashkëta për kompensimin dhe asistencën e pasagjerëve në rastet e mohimit të hyrjes në aeroplan dhe të anulimit apo vonesave të gjata të fluturimeve, që zëvendëson Rregulloren (EEC) Nr. 295/91, çdo amendament pasues përkatës, dhe Ligjin e Kosovës Nr. 2004/17 për Mbrojtjen e Konsumatorëve.
+95.2 Në rrethana të jashtëzakonshme të cilat e arsyetojnë një veprim të këtillë dhe kur këto rrethana nuk kanë mund të shmangen, Ministria mund të nxjerrë një vendim të përkohshëm (i cili vlen jo më shumë se një vit) me atë të të cilit kufizohen të drejtat e pasagjerëve sipas Rregullores (EC) Nr. 261/2004.

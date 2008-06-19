@@ -1,0 +1,6 @@
+## TITULLI IV
+## DISPOZITAT NDËSHKIMORE
+# Neni 96
+Gjobat Administrative për Ndërhyrje
+96.1 Nëse një person ndërhyn në aktivitetet e AAC-së, Ministrisë, Ministrisë së Punëve të Brendshme ose KHAIA-së gjatë ushtrimit të kompetencave të tyre të dhëna me këtë ligj, autoriteti publik i ndikuar nga kjo ndërhyrje mund të shqiptojë gjobë administrative ndaj personit në fjalë. Kur personi përgjegjës për këtë ndërhyrje është person fizik, autoriteti përkatës publik i ndikuar nga kjo ndërhyrje mund të shqiptojë një gjobë administrative ndaj këtij personi fizik deri në 10,000 Euro për secilin akt (vepër) të ndërhyrjes. Nëse personi përgjegjës për këtë ndërhyrje është një organizatë ose ndërmarrje, autoriteti publik i ndikuar nga ndërhyrja mund të shqiptojë një gjobë administrative ndaj kësaj organizate ose ndërmarrje deri në 25,000 Euro për secilin akt (vepër) të ndërhyrjes.
+96.2 Përveç gjobës administrative të shqiptuar në përputhje me paragrafin 1 të këtij neni dhe 97: (i) AAC mund të revokojë ose pezullojë për një periudhë të caktuar ose të pa caktuar kohore cilëndo certifikatë, leje ose licencë të cilën AAC ia kishte dhënë paraprakisht personit ndërhyrës, dhe (ii) Ministria mund të revokojë ose pezullojë, për një periudhë të caktuar ose të pa caktuar kohore, cilëndo certifikatë, leje ose licencë të cilën Ministria ia kishte dhënë paraprakisht personit ndërhyrës.

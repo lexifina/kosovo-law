@@ -1,0 +1,5 @@
+# Article 23
+Delegation of Functions
+23.1 The Director General may, subject to such regulations, supervision, and review as may be prescribed, assign to any officer, employee, or administrative unit of the CAA the authority to perform any of the functions of the CAA or the Director General specified in the present law.
+23.2 The Director General may, when reasonably necessary to ensure the proper discharge of the functions assigned to the CAA by the present law, authorize the CAA to engage a qualified contractor to carry out any such function. The selection of such contractor shall be done through a competitive procurement process that strictly complies with the Law on Public Procurement. The Director General shall ensure that no such function is carried out in such a way that air operators, aerial work or general aviation operators and maintenance facilities, in effect, regulate themselves.
+23.3 The Director General shall remain principally responsible for the proper performance of any function, power or duty assigned or contracted pursuant to Article 24 of this law.

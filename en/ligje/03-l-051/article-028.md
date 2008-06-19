@@ -1,0 +1,8 @@
+## CHAPTER IV
+## Ministry of Internal Affairs
+# Article 28
+Ministry of Internal Affairs
+28.1 The Ministry of Internal Affairs shall be responsible for the creation and maintenance of civil aviation security in the Republic of Kosovo. The Ministry of Internal Affairs shall receive technical support from the CAA regarding aviation safety implications. In order to ensure proper coordination between the CAA and the Ministry of Internal Affairs, the CAA shall make an office within its headquarters available for the use of two (2) civil aviation security personnel from the Ministry of Internal Affairs.
+28.2 The Ministry of Internal Affairs shall be responsible for implementation of, and adherence to, the international conventions and those aspects of the EU’s acquis communautaire as may apply to civil aviation security.
+28.3 The Ministry of Internal Affairs shall recruit professional and experienced staff to ensure effective and efficient implementation of the functions and responsibilities vested in the Ministry of Internal Affairs by the present law. Recruitment of staff shall be on grounds of merit, documented competence and experience relevant for civil aviation.
+28.4 In order to ensure that key aviation-related security positions within the Ministry of Internal Affairs are filled with suitably qualified persons, the Ministry of Internal Affairs may – if necessary - procure the services of up to two (2) qualified outside professional and/or technical experts to fill such positions in a procurement procedure that strictly complies with the requirements of the Law on Public Procurement in Kosovo (the “Procurement Law”) and the other specific conditions established in Article 10.2.

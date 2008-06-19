@@ -1,0 +1,3 @@
+# Neni 62
+Doracaku i Shërbimeve dhe Veprimtarisë së Aerodromit
+Çdo operator i aerodromit duhet të përgatisë, nxjerrë dhe mbajë një “doracak të shërbimeve dhe veprimtarisë së aerodromit”. Pas përgatitjes, operatori i aerodromit e dorëzon doracakun për shqyrtim nga AAC. AAC është e autorizuar që të kërkojë çfarëdo ndryshimesh në doracak të cilat ajo i konsideron të nevojshme ose të dëshirueshme. Doracaku, ndër tjera, duhet të shpjegojë organizimin e aerodromit si dhe të përcaktojë procedurat e aterrimit dhe ngritjes së avionëve si dhe rregullat për shfrytëzimin e aerodromit. AAC e publikon doracakun në publikime informatave aeronautike.

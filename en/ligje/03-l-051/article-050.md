@@ -1,0 +1,5 @@
+# Article 50
+Ramp Inspections
+50.1 Inspectors of the CAA may subject aircraft from non-EU or non-ECAA countries to ramp inspections and/or spot checks at Kosovo airports. The conduct of such inspections shall be done on a non-discriminatory basis. The CAA may establish more detailed provisions on such inspections and spot checks in implementing regulations.
+50.2 The Director General shall, upon demand, be given immediate and unrestricted access at any time to any civil aircraft located within Kosovo for the purposes of ensuring that those aircraft are airworthy and being operated in accordance with the present law and the implementing regulations issued hereunder.
+50.3 The Director General shall, upon demand, be given immediate access at any time to civil aircraft registered in Kosovo without restriction wherever they are located or operated in the world for the purposes of ensuring that these aircraft are airworthy and are being operated in accordance with the present law and the implementing regulations issued hereunder.

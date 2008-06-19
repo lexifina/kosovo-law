@@ -1,0 +1,3 @@
+# Neni 85
+Përdorimi i Raporteve të KHAIA
+Në një proces gjyqësor ose padi për dëme e cila bazohet në një incident ose aksident i cili ka të bëjë me aviacionin, asnjë gjykatë ose organ i arbitrazhit nuk do të pranojë si provë ose të lejojë përmendjen (referimin) e cilësdo pjesë të një raporti të KHAIA e cila ka të bëjë me (i) identifikimin e shkakut të mundshëm të aksidentit ose (ii) një element të hetimeve të aksidentit i cili ka pasur për qëllim identifikimin e shkaktarit të mundshëm të aksidentit. Të gjeturat faktike, dhe jo përpjekjet për identifikimin e shkakut, të KHAIA mund të pranohen si prova në këtë procedurë gjyqësore ose padi.

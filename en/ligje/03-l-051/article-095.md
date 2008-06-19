@@ -1,0 +1,4 @@
+# Article 95
+Compensation and Assistance for Denied Boarding and Cancellation
+95.1 Without prejudice to the general scope of Article 94 of this Law, it is specifically provided that the following shall apply in Kosovo: Regulation (EC) No. 261/2004 of the European Parliament and of the Council of 11 February 2004 establishing common rules on compensation and assistance to passengers in the event of denied boarding and of cancellation or long delay of flights, and repealing Regulation (EEC) No 295/91, and any amendments thereto.
+95.2 The Ministry may, if there are exceptional circumstances justifying such action and such circumstances could not have been avoided, issue a temporary decision (having a validity period of no more than one year) that limits the rights of passengers under Regulation (EC) No. 261/2004.

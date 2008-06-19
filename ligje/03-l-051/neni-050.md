@@ -1,0 +1,5 @@
+# Neni 50
+Inspektimi në Platformë
+50.1 Inspektorët e AAC-së mund të bëjnë inspektimin në platformë dhe/ose kontrollimin në vend, të avionëve nga vendet të cilat nuk janë anëtarë të BE-së ose HPEA, në aeroportet e Kosovës. Kryerja e këtyre inspektimeve duhet të bëhet në baza jo-diskriminuese. AAC mund të nxjerrë dispozita më të hollësishme lidhur me këto inspektime dhe kontrolle në rregulloret për zbatimin e këtij ligji.
+50.2 Drejtorit të Përgjithshëm, pas kërkesës, do ti lejohet qasje e menjëhershme dhe e pakufizuar në çdo kohë dhe në çdo avion civil i cili gjendet brenda Kosovës me qëllim që të sigurojë se avioni është i përshtatshëm për fluturim dhe se është duke u operuar në përputhje me këtë Ligj dhe me rregulloret për zbatimin e këtij ligji.
+50.3 Drejtorit të Përgjithshëm, pas kërkesës, do ti lejohet qasje e menjëhershme në çdo kohë, në çdo avion civil të regjistruar në Kosovë, pa asnjë kufizim, kudo që avioni ndodhet ose operon në botë, me qëllim që të sigurojë se avioni është i përshtatshëm për fluturim dhe se është duke u operuar në përputhje me këtë Ligj dhe me rregulloret për zbatimin e këtij ligji.

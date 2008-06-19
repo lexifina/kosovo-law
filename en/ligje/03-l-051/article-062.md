@@ -1,0 +1,3 @@
+# Article 62
+Aerodrome Services and Operations Manual
+Each aerodrome operator shall prepare issue and maintain an “aerodrome services and operations manual”. The aerodrome operator shall submit such manual to the CAA, which shall review such manual. The CAA shall have the authority to require any changes in such manual that the CAA reasonably determines to be necessary or advisable. The manual shall, inter alia, indicate the organization of the aerodrome and specify the take-off and landing procedures and rules concerning the use of the aerodrome. The CAA shall publish the manual in aeronautical information publications.

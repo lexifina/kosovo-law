@@ -1,0 +1,8 @@
+## KREU IV
+## Ministria e Punëve të Brendshme
+# Neni 28
+Ministria e Punëve të Brendshme
+28.1 Ministria e Punëve të Brendshme është përgjegjëse për vendosjen dhe ruajtjen e sigurimit ajror në Republikën e Kosovës. Ministria e Punëve të Brendshme do të ketë përkrahje teknike nga AAC lidhur me implikimet e sigurisë në aviacion. Për të siguruar koordinimin e duhur ndërmjet AAC-së dhe Ministrisë së Punëve të Brendshme, AAC-ja në selinë e saj do të vej në dispozicion një zyrë për shfrytëzim nga dy (2) personel për sigurimin e aviacionit civil nga Ministria e Punëve të Brendshme.
+28.2 Ministria e Punëve të Brendshme është përgjegjëse për zbatimin dhe aderimin në konventat ndërkombëtare si dhe aspektet e acquis communautaire të BE-të të cilat kanë të bëjnë me sigurimin e aviacionit civil.
+28.3 Ministria e Punëve të Brendshme do të rekrutojë personel profesional dhe me përvojë për të siguruar zbatimin efektiv dhe efikas të funksioneve dhe përgjegjësive të cilat i janë dhënë Ministrisë së Punëve të Brendshme në bazë të këtij ligji. Rekrutimi i personelit do të bëhet në bazë të meritës, kompetencës dhe përvojës së dokumentuar e cila është relevante për aviacionin civil.
+28.4 Në mënyrë që pozitat kyçe që kanë të bëjnë me aviacionin në Ministrinë e Punëve të Brendshme të plotësohet me persona me kualifikimet përkatëse, Ministria e Punëve të Brendshme mundet nëse është e nevojshme – të prokurojë (blejë) shërbimet e deri në dy (2) ekspertëve profesional dhe/ose teknik për plotësimin e këtyre pozitave përmes një procedure të prokurimit e cila është në përputhje të plotë me Ligjin për Prokurim Publik në Kosovës (“Ligjin për Prokurim”) si dhe me kushtet e tjera specifike të parapara në paragrafin 2 të nenit 10 të këtij ligji.

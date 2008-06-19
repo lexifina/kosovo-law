@@ -1,0 +1,4 @@
+# Article 98
+Administrative Fines, Considerations, Administrative Disputes
+98.1 The concerned public authority shall have the power to assess any administrative fine imposed by such public authority pursuant to Article 96 or Article 97 of this law. In determining the amount of any such fine, the concerned public authority shall take into account the nature, circumstances, extent, and gravity of the violation, and, with respect to the person found to have committed such violation, the degree of culpability, history of prior offences, ability to pay, effect on ability to continue to do business, and such other matters as justice may require.
+98.2 A person who has been subjected to an administrative fine and/or the revocation or suspension of a certificate, license or permit pursuant to Article 96 or 97, shall be entitled to dispute such action in accordance with the general law on administrative procedures.

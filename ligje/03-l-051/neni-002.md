@@ -1,0 +1,4 @@
+# Neni 2
+Hapësira ajrore e Kosovës
+2.1 Kosova ka sovranitet të plotë, ekskluziv dhe të paprekshëm në hapësirën ajrore mbi territorin e saj dhe ka autoritet ekskluziv për organizimin dhe rregullimin e aktiviteteve të aviacionit civil në territorin dhe hapësirën ajrore të saj.
+2.2 Përdorimi i hapësirës ajrore të Kosovës është i lirë për të gjithë avionët civil të regjistruar në Kosovë; me kusht që ky përdorim të bëhet në përputhje me të gjitha kushtet dhe/ose kufizimet e aplikueshme të përcaktuara në një ligj ose në përputhje me një ligj të Kosovës. Avionëve të huaj civil u lejohet shfrytëzimi i hapësirës ajrore të Kosovës vetëm deri në masën e lejuar ose autorizuar nga (i) një marrëveshje ndërkombëtare e detyrueshme për Kosovën, dhe (ii) vendimet e lëshuara nga Autoriteti i Aviacionit Civil në Kosovë dhe Ministria e Transportit dhe Postë Telekomunikacionit.

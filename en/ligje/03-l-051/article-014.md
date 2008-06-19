@@ -1,0 +1,10 @@
+## CHAPTER III
+## Civil Aviation Authority of the Republic of Kosovo
+# Article 14
+Civil Aviation Authority of the Republic of Kosovo
+14.1 The Civil Aviation Authority of the Republic of Kosovo (the “CAA”) shall be established as an independent regulatory agency. The CAA shall be responsible for the regulation of civil aviation safety and the economic regulation of airports and air navigation services in the Republic of Kosovo. The CAA shall have full legal capacity. The CAA shall be a budget organization and a public authority and shall be subject to the provisions governing budget organizations and public authorities found in other laws and normative acts applicable in the Republic of Kosovo.
+14.2 The CAA shall be headed by a full-time Director General of Civil Aviation (the “Director General”), who shall be the officer of the CAA responsible for the overall day-to-day management and decision- making of the CAA.
+14.3 The CAA shall have such professional and administrative staff as may be necessary for the CAA and the Director General to fulfill the functions and responsibilities assigned to them by the present law.
+14.4 The activities of the CAA shall be supervised by a Supervisory Board (hereinafter the “Board”) comprised of five members. The members of the Board shall be appointed as provided for in Article 16 of this law.
+14.5 The CAA shall act in the public interest and shall independently exercise the powers and carry out the functions vested in it by the present law. No other pubic authority or official shall seek to influence or give instructions or advice to a board member, the Director General or a staff member or consultant of the CAA with respect to any pending or completed operational or regulatory decision or action of the
+CAA, except (i) as may be specifically and explicitly provided for in the present law, or (ii) as may be clearly necessary for such other public authority or official to properly discharge a duty assigned by a primary normative act applicable in Kosovo

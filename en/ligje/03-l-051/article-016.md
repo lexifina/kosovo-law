@@ -1,0 +1,17 @@
+# Article 16
+Supervisory Board
+16.1 A Supervisory Board (the “Board”) shall be established to supervise and review (i) the administrative, executive, regulatory and licensing activities and decisions of the CAA and (ii) all aspects of the financial management, revenues and expenditures of the CAA. If a majority of the members of the Board determine that there are reasons to be believe that the CAA is not complying or has not complied with one or more provisions of the present law or another normative act applicable in Kosovo, the Board shall identify the suspected area of non-compliance in a written report and provide such report to the Auditor General and the Assembly. The Board shall have no executive, enforcement or regulatory powers
+16.2 The Board shall be part-time and shall meet at least once every calendar quarter. One week prior to each such meeting, the Director General shall provide each and every member of the Board with an up-to-date written report summarizing the matters described in paragraph 1 of this Article.
+16.3 Board members shall be appointed by the Government after receiving the proposals and advice of the Minister. A person shall not be a member of the Board if he/she is an official, employee or consultant of (i) the CAA, (ii) the Ministry, (iii) the Ministry of Internal Affairs, or (iv) an aviation enterprise regulated by any of the foregoing.
+16.4 The initial members of the Board shall have the following terms of office: (i) the initial Chairman and one other initial member, two years; and (ii) the other three initial members, four years.
+16.5 At the expiration of his/her term, any member may be reappointed for an additional four-year term; provided, however, that no person may serve on the Board for more than a total of ten (10) years.
+16.6 Board members shall: (i) have at least a university degree in aeronautics, management, law, economics, finance or engineering, (ii) have at least five (5) years of substantial professional experience in one or more such fields, and (iii) be persons of high moral and professional integrity.
+16.7 Board members shall have no direct or indirect monetary, financial or other interest in any aeronautical enterprise.
+16.8 The Board members shall be compensated for their service. The amount of such compensation shall be established by the Government in accordance with the sub-legal acts of the Government governing such compensation. Such compensation shall be paid out of dedicated revenue of the CAA.
+16.9 A person shall cease to be a Board member prior to the expiration of his/her term, if he/she submits his/her resignation to the Government or is dismissed by the Government. The Government may dismiss a Board member only if the respective Board member: a. has breached his/her professional duties;
+b. is convicted of a criminal offence by a court of competent jurisdiction and in accordance with due process;
+c. has or acquires a direct or indirect interest in any business organization that is engaged in the civil aviation sector;
+d. becomes mentally or physically incapable of performing his/her duties for a period longer than three consecutive months;
+e. fails to attend two or more meetings in a 12-month period; or
+f. fails to comply with the laws or policies applicable to the civil aviation sector.
+16.10 A Board member who believes he/she has been unlawfully dismissed may seek legal remedies directly before a competent court.

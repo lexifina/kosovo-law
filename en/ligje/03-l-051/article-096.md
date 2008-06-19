@@ -1,0 +1,6 @@
+## TITLE IV
+## PUNITIVE PROVISIONS
+# Article 96
+Administrative Fines for Interference
+96.1 If a person interferes with the CAA, the Ministry, the Ministry of Internal Affairs or the AAIIC in the exercise of its authority under the present law, the public authority that has been interfered with may impose an administrative fine on such person. If the person responsible for such interference is a natural person, the concerned public authority may impose an administrative fine on such natural person of up to 10,000 euros for each act of interference. If the person responsible for such interference is an organization or undertaking, the affected public authority may impose an administrative fine on such organization or undertaking of up to 25,000 euros for each act of interference.
+96.2 In addition to (and not in lieu of) the imposition of an administrative fine in accordance with paragraph 1 of this Article and 97: (i) the CAA may revoke or suspend, for a definite or indefinite period, any certificate, permit or license that the CAA has previously issued to the interfering person, and (ii) the Ministry may revoke or suspend, for a definite or indefinite period, any certificate, permit or license that the Ministry has previously issued to the interfering person.

@@ -1,0 +1,4 @@
+# Neni 98
+Gjobat Administrative, Konsideratat; Konflikti Administrativ
+98.1 Autoriteti përkatës publik ka kompetencën të vlerësoj çdo gjobë administrative të shqiptuar nga ky autoritet publik në përputhje me nenet 96 ose 97 të këtij ligji. Gjatë përcaktimit të shumës së cilësdo nga këto gjoba, autoriteti përkatës publik duhet të marri para sysh natyrën, rrethanat, përmasat, dhe seriozitetin e shkeljes dhe në lidhje me personin i cili konstatohet se ka kryer këtë shkelje, shkallën e fajësisë, historikun e veprave të mëparshme penale, aftësinë për pagesë, ndikimin në aftësinë për vazhdimin e zhvillimit të biznesit, dhe çështje të tjera të cilat kërkohen nga drejtësia.
+98.2 Personi i cili është subjekt i gjobës administrative dhe/ose shfuqizimit ose pezullimit të certifikatës, licencës, ose lejes, në përputhje me nenet 96 ose 97 të këtij ligji, ka të drejtë ta kontestojë këtë shfuqizim ose pezullim në përputhje me ligjin e përgjithshëm të procedurës administrative.

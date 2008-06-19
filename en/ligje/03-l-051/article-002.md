@@ -1,0 +1,4 @@
+# Article 2
+Kosovo Air Space
+2.1 Kosovo shall have complete, exclusive and inviolable sovereignty over the airspace above its territory and shall have the exclusive authority to organize and regulate civil aviation activities in its territory and air space.
+2.2 The use of Kosovo’s air space shall be open to all civilian aircraft registered in Kosovo; provided, however, that such use must comply with all applicable conditions and/or restrictions established by or pursuant to a law of Kosovo. Foreign civilian aircraft shall only be permitted to use Kosovo’s air space to the extent such use is permitted or authorized by (i) an international agreement that is binding on Kosovo, and (ii) the decisions issued by the Civil Aviation Authority of Kosovo and the Ministry of Transport and Telecommunication.

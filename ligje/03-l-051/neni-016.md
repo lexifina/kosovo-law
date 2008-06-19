@@ -1,0 +1,18 @@
+# Neni 16
+Bordi Mbikëqyrës
+16.1 Bordi Mbikëqyrës (“Bordi”) themelohet për mbikëqyrjen dhe shqyrtimin e (i) aktiviteteve dhe vendimeve të AAC mbi çështjet administrative, ekzekutive, rregullative dhe të licencimit, dhe (ii) të gjitha aspekteve të menaxhimit financiar, të ardhurave dhe shpenzimeve të AAC-së. Nëse shumica e anëtarëve të Bordit konstatojnë se ka arsye për të besuar se AAC nuk është përputhur ose nuk është duke u përputhur me një ose më shumë dispozita të këtij ligji ose një akti tjetër ligjor të zbatueshëm në Kosovë,
+Bordi duhet t’a identifikojë (përcaktojë) fushën në të cilën dyshohet kjo mos-përputhshmëri në një raport me shkrim i cili më pas i dorëzohet Auditorit të Përgjithshëm dhe Kuvendit. Bordi nuk ka kompetenca ekzekutive, kompetenca të zbatimit ose kompetenca rregullative.
+16.2 Bordi vepron me orar jo të plotë dhe takohet së paku një herë për çdo tremujor kalendarik. Një javë para mbajtjes së secilit takimit të sipër cekur, Drejtori i Përgjithshëm duhet t’i dërgojë secilit anëtar të Bordit një raport të azhuruar me shkrim i cili i përmbledh çështjet e përcaktuara në paragrafin 1 të këtij neni .
+16.3 Anëtarët e bordit emërohen nga Qeveria, pas pranimit të propozimeve dhe këshillave nga Ministri. Një person nuk do të jetë anëtar i Bordit nëse ai/ajo është zyrtar, punonjës ose konsulent i (i) AAC-së, (ii) Ministrisë, (iii) Ministrisë së Punëve të Brendshme, ose (iv) një ndërmarrje të aviacionit e cila rregullohet nga të sipër cekurat.
+16.4 Anëtarët e parë të Bordit do të kenë këto mandate: (i) Kryesuesi i parë dhe një anëtar tjetër i parë kanë mandat dy vjeçar; dhe (ii) tre anëtarët e tjerë të parë kanë mandat katër vjeçar.
+16.5 Në kohën e skadimit të mandatit të tij/saj, një anëtar i bordit duhet të riemërohet për një mandat shtesë katër vjeçar; me kusht që, asnjë person të mos shërbejë në Bord më shumë se gjithsejtë dhjetë (10) vite.
+16.6 Anëtarët e Bordit duhet të kenë së paku: (i) diplomë universitare në aeronautikë, menaxhment, juridik, ekonomi, financa ose inxhinieri, (ii) së paku pesë (5) vite përvojë të konsiderueshme profesionale në një ose më shumë nga këto fusha, dhe (iii) të jenë persona me integritet të lartë moral dhe profesional.
+16.7 Anëtarët e Bordit nuk do të kenë interesa monetare, financiare ose interesa të tjera, qoftë në mënyrë të drejtpërdrejtë ose të tërthortë, në një ndërmarrje aeronautike.
+16.8 Anëtarët e Bordit do të kompensohen për shërbimet e tyre. Shuma e këtij kompensimi do të përcaktohet nga Qeveria në përputhje me aktet nënligjore të Qeverisë të cilat e rregullojnë këtë çështje të kompensimit. Ky kompensim do të paguhet nga të ardhurat e dedikuara të AAC.
+16.9 Personi pushon së qenuri anëtar i Bordit para skadimit të mandatit të tij/saj, nëse ai/ajo paraqet dorëheqjen e tij/saj para Qeverisë ose nëse ai/ajo shkarkohet nga Qeveria. Qeveria mund ta shkarkojë një anëtar të Bordit vetëm nëse ky anëtar i Bordit:
+a) ka bërë shkeljen e detyrave të tij/saj profesionale;
+b) është shpallur fajtor për kryerjen e një vepre penale nga një gjykatë kompetente dhe në përputhje me procesin përkatës;
+c) ka ose përvetëson një interes, të drejtpërdrejtë ose të tërthortë, në një shoqëri tregtare e cila është e angazhuar në sektorin e aviacionit civil;
+d) bëhet mentalisht ose fizikisht i paaftë për kryerjen e detyrave të tij/saj për një periudhë më të gjatë se tre muaj të njëpasnjëshëm;
+e) nuk merr pjesë në dy ose më shumë takime gjatë një periudhe 12 mujore; ose f) nuk përputhet me ligjet ose politikat e zbatueshme për sektorin e aviacionit civil.
+16.10 Anëtari i Bordit i cili beson se ai/ajo është shkarkuar në mënyrë të paligjshme mund të kërkojë mbrojtje juridike para një gjykate kompetente.

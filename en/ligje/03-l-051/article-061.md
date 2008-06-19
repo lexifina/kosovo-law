@@ -1,0 +1,9 @@
+# Article 61
+Aerodrome Certificates
+61.1 Any person desiring to operate an aerodrome shall apply for an aerodrome operating certificate from the CAA. The CAA shall establish, in implementing regulations, all criteria that an applicant must meet in order to qualify for such a certificate. All such criteria shall have an objective and rational basis that is clearly related to advancing or protecting the public interest.
+61.2 The CAA shall also establish, in implementing regulations, minimum safety standards for the operation of aerodromes that serve any scheduled or unscheduled passenger operations.
+61.3 If the CAA finds, after investigation, that an applicant meets the criteria referred to in paragraph 1 of this Article and is properly and adequately equipped and able to conduct a safe operation in accordance with the requirements of the present law and the rules and standards established in the implementing regulations issued hereunder, the CAA shall issue an aerodrome operating certificate to such person.
+61.4 Each aerodrome operating certificate shall prescribe such terms, conditions, and limitations as are reasonably necessary to assure safety in commercial air transport. Unless the CAA determines that it would be contrary to the public interest, such terms, conditions, and limitations shall include - but not be limited to - terms, conditions, and limitations relating to:
+a. The operation and maintenance of adequate safety equipment, including fire fighting and rescue equipment capable of rapid access to any portion of the aerodrome used for landing, takeoff, or surface maneuvering of aircraft; and
+b. The condition and maintenance of primary and secondary runways as the Director General reasonably determines to be necessary.
+61.5 The CAA shall provide a copy of each aerodrome certificate to the Ministry.

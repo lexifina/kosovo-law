@@ -1,0 +1,7 @@
+## KREU II
+## Aeroportet
+# Neni 64
+Zona Mbrojtëse e Aeroportit
+64.1 AAC mund të vendosë se një aeroporti i nevojitet një zonë mbrojtëse rrethuese. AAC mund ta marrë këtë vendim (i) për shkak të shkallës së trafikut të aeroportit, (ii) për të ruajtur sigurimin dhe sigurinë e aeroportit, (iii) për të siguruar integritetin e veprimtarisë doganore dhe të imigracionit e cila ushtrohet në aeroport, dhe/ose (iv) për shkaqe tjera të cilat janë specifike për atë aeroport dhe të cilat shfaqin shqetësime bindëse për mbrojtjen e interesit publik.
+64.2 Nëse AAC vendos se një aeroporti i nevojitet një zonë mbrojtëse, AAC do të përcaktojë parametrat e zonës mbrojtëse dhe është e autorizuar që të vendosë kufizime mbi (i) kategoritë e personave të cilët mund të kenë qasje në zonën mbrojtëse, dhe (ii) aktivitetet, duke përfshirë ato të ndërtimit, të cilat mund të ndërmerren në zonën mbrojtëse. Gjatë përcaktimit të parametrave të një zone mbrojtëse, AAC do të konsultohet me Ministrinë e Punëve të Brendshme për të siguruar që këta parametra janë të mjaftueshëm për sigurinë e aeroportit.
+64.3 Interferenca (ndërhyrja) me shërbimet e navigimit ajror do të evitohet në zonën mbrojtëse. Pengesat në aviacion, si ndërtesat, pemët, telat, shtyllat, pendat dhe të ngjashme, po ashtu janë të ndaluara në zonën mbrojtëse. Vetëm publiku, një autoritet publik ose një ndërmarrje në pronësi publike mund të jetë pronar i ndërtesave ose pronave tjera të paluajtshme brenda zonës mbrojtëse.
