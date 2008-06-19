@@ -1,0 +1,10 @@
+# Neni 13
+Zbatimi
+13.1 Në konsultim me Këshillin Konsultativ të Komuniteteve dhe palëve tjera me interes kombëtare dhe ndërkombëtare përkatëse, Qeveria përgatitë, miraton dhe publikon, një herë në vit, strategjinë gjithëpërfshirëse për promovimin dhe mbrojtjen e të drejtave të gjitha komuniteteve dhe pjesëtarëve të tyre. Qeveria paraqet raportin vjetor gjithëpërfshirës Kuvendit të Republikës së Kosovës mbi zbatimin e strategjisë së saj.
+13.2 Në këtë Strategji përcaktohen objektivat dhe masat e veçanta për luftimin e përjashtimit dhe margjinalizimit të komuniteteve dhe pjesëtarëve të tyre nga jeta ekonomike, shoqërore dhe kulturore në Kosovë dhe për zbatimin e plotë të këtij ligji.
+13.3 Raporti do të përfshijë informata të plota me të dhëna të detajuara mbi zbatimin e strategjisë në bazë të paragrafit 2 të këtij neni, përfshirë të dhënat mbi aktivitetet, zhvillimet dhe konstatimet e kërkuara sipas ligjit.
+13.4 Komunitetet dhe pjesëtarët e tyre kanë të drejtë të:
+a) të mbrojnë të drejtat e tyre para të gjitha gjykatave në Republikën e Kosovës.
+b) të parashtrojnë ankesë në Zyrën e Ombudspersonit të Republikës së Kosovës dhe në organet e tjera të specializuara, përfshirë komisionin e pavarur të medieve, dhe komisionin e gjuhëve, dhe c) të informoj zëvendës kryetarin e kuvendit komunal për komunitete kur ata besojnë se të drejtat e tyre janë dhunuar.
+13.5 Organizatat përfaqësuese të komuniteteve të themeluara sipas paragrafit 3 të nenit 5 të këtij ligji dhe Këshilli konsultativ për komunitete kanë të drejtë për të parashtruar kërkesë Presidentit, në lidhje me çështjet që janë me interes për ta, kanë të drejtë ligjore të paraqesin ankesa në lidhje me shkeljet e të drejtave të komuniteteve dhe pjesëtarëve të tyre në pajtim këtë ligj.
+13.6 Komunitetet dhe pjesëtarët e tyre, të cilat veprojnë nëpërmjet organizatave të tyre përfaqësuese dhe Këshillit konsultativ për komunitete, do të ftohen për ta ofruar kontributin e tyre në raportimin mbi pajtueshmërinë nga ana e Republikës së Kosovës me standardet ndërkombëtare të të drejtave të njeriut dhe për të mbajtur kontakte me organet relevante ndërkombëtare.

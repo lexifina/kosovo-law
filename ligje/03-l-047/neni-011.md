@@ -1,0 +1,7 @@
+# Neni 11
+Pjesëmarrja politike
+11.1 Komunitetet dhe pjesëtarët e tyre kanë të drejtë pjesëmarrjeje efektive në vendimmarrje politike në të gjitha nivelet e qeverisë, përfshirë vendimet që janë me rëndësi të veçantë për ta ose për zonën në të cilën ata jetojnë. Një pjesëmarrje e tillë sigurohet përmes përfaqësimit në Kuvendin, Qeverinë, Gjyqësorin dhe organet e tjera të Republikës së Kosovës që parashihen me Kushtetutën e Republikës së Kosovës.
+11.2 Pjesëmarrja në qeverisjen lokale garantohet përmes ligjit për vetëqeverisjen lokale, përfshirë themelimin e zyrës së Zëvendës Kryesuesit të Kuvendit Komunal për Komunitete dhe nënkryetarit të Komunës për Komunitete.
+11.3. Personat që u përkasin komuniteteve kanë të drejtë të formojnë parti politike dhe të kandidohen për poste dhe pozita zyrtare në të gjitha nivelet e qeverisjes.
+11.4. Partitë politike, përveç atyre të themeluara nga personat që ju përkasin komuniteteve, të cilat synojnë t’i përfaqësojnë ato komunitete, nuk mund ta përjashtojnë personat në bazë të përkatësisë së tyre në komunitete, dhe inkurajohen të jenë të hapura ndaj shumëllojshmërisë së shoqërisë së Kosovës.
+11.5. Në përputhje me paragrafin 3 të nenit 5 të këtij ligji, organizatat përfaqësuese të komuniteteve inkurajohen të ndihmojnë komunitetet përkatëse në përfaqësimin e interesave të tyre në mënyrë të konsoliduar dhe të luajnë rolin e tyre në vetë menaxhimin e burimeve të vëna në dispozicion për avancimin e jetës së tyre kulturore.

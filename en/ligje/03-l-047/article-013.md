@@ -1,0 +1,10 @@
+# Article 13
+Implementation
+13.1 In consultation with the Community Consultative Council and other relevant national and international stakeholders, the Government of Kosovo shall prepare, adopt and publish once a year a comprehensive strategy for the promotion and protection of rights of all communities and their members. The Government shall present annually a comprehensive report to the Assembly of Kosovo on the implementation of its strategy.
+13.2 The strategy shall establish targets and special measures for combating exclusion and marginalization of communities and their members in the economic, social and cultural life in Kosovo and for the full implementation of this law.
+13.3 The report shall include full information and detailed data on the implementation of the strategy under paragraph 2 of this Article, including on activities, developments and findings required according to this law.
+13.4 Communities and their members shall have the right to:
+a) defend their rights before all courts of the Republic of Kosovo;
+b) file a complaint to the Office of the Ombudsperson of the Republic of Kosovo and other specialized bodies including the Independent Media Commission and the Language Commission; and c) bring to the attention of the Deputy Chairperson of the Municipal Assembly for Communities when they believe their rights have been violated.
+13.5 Community representative organizations established under paragraph 3, Article 5 of this law and the Community Consultative Council have the right to file a request to the President in relation to issues of concern to them, and have standing to bring claims relating to the violations of the rights of communities and their members in accordance with law.
+13.6 Communities and their members, acting through their community representative organizations and the Community Consultative Council, shall be invited to contribute to the reporting on compliance by the Republic of Kosovo with international human rights standards and to maintain contact with the relevant international implementation bodies.

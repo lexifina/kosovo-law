@@ -1,0 +1,7 @@
+# Article 11
+Political Participation
+11.1 Communities and their members shall have the right to effective participation in political decision- making at all levels of government, including in decisions of special relevance for them or for the areas in which they live. Such participation is assured through representation in the Assembly of Kosovo, the Government, the Judiciary and other bodies of Kosovo as provided for in the Constitution of the Republic of Kosovo.
+11.2 Participation in municipal governance is guaranteed through the Law on Local Self-Government, including the establishment of the offices of Deputy Chairperson of Municipal Assembly for Communities and the Deputy Mayor for Communities.
+11.3 Persons belonging to communities have the right to form political parties and to run for elected seats and positions at all levels of government.
+11.4 Political parties, other than those established by persons belonging to communities, with the aim of representing those communities, may not exclude persons on grounds of their belonging to communities and are encouraged to open themselves to the diversity of Kosovo society.
+11.5 In accordance with paragraph 3, Article 5 of this law, community representative organizations shall be encouraged to assist the respective communities in representing their interests in a consolidated way and to take a role in the self-management of resources made available for the advancement of their cultural life.
