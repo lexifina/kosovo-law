@@ -1,0 +1,8 @@
+## CHAPTER IV
+## SENIOR MANAGEMENT OF THE POLICE
+# Article 37
+General Director of the Police
+37.1 The Senior Police Appointments and Discipline Commission gives a proposal to the Minister, who shall recommend to Prime Minister eligible candidates for appointments to the position of the General Director of the Police. The General Director of Police shall be appointed by the Prime Minister, based on proposals submitted by the Minister.
+37.2 The General Director shall be appointed to an initial term of three years, and may be reappointed at the end of the initial term for a term of five (5) years without competitive procedures. A person may serve as General Director for a total of no more than eight years.
+37.3 Qualifications for candidates for the position of General Director shall include, but not be limited to, at least five (5) years of experience in policing with steadily increasing responsibility, at least 3 years of service in police management, a degree from an accredited university, and graduation from Kosova’s police training facility or completion of an equivalent training program at another institution. The candidate must be able to meet all of the minimum qualifications for a Police Officer. Candidates shall be subject to a background investigation, and shall not have been found guilty of a criminal offence.
+37.4 The General Director is the chief executive officer of the Police, and shall be responsible to direct, control and supervise the Police, to make budget recommendations to the Minister on behalf of the 15 Police, and to manage and allocate the Police budget in accordance with appropriations and with priorities set by the Minister.
