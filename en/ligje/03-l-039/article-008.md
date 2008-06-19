@@ -1,0 +1,4 @@
+# Article 8
+The Establishment of the Special Protective Zone for the Historic Centre of Prizren
+8.1 The Special Protective Zone for the Historic Center of Prizren shall be established by the municipal authorities of Prizren in cooperation with the IMC, and shall include Serbian Orthodox, Ottoman, Catholic, vernacular and other sites of historic and cultural significance. The following Serbian cultural and religious sites shall be included in the Special Protective Zone: Church of the Holy Virgin of Ljeviša; the old "Maras Mahala"; the Church of the Holy Savior; the Orthodox Seminary of Saints Cyril and Methodius; and the Episcopal Residence Complex (including the Bishop’s residence, St. George Cathedral, Churches of St. George (Runović) and St. Nichoilas (Tutić).
+4 8.2 The application of Article 6 of this Law on any new activities in the Special Protective Zone for the historic centre of Prizren shall be set forth in a Law.

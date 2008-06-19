@@ -1,0 +1,4 @@
+# Article 9
+Special Provisions for the Village of Velika Hoča/ Hoçë e Madhe
+The village of Velika Hoča/ Hoçë e Madhe, described in point m), paragraph 1 of Article 7 of thos Law, shall have the right, in consultation with the municipality of Rahovec/Orahovac, to exercise limited authority over activities in the areas of protection and promotion of religious and cultural heritage, and rural planning with respect to its Special Protective Zone, in accordance with the relevant provisions of the legislation on Local Self-Government and the principles of the UNESCO Universal Declaration on Cultural Diversity. The IMC shall facilitate such consultation.
+9.2. The application of article 6 of this Law on any new activities in the Special Protective Zone for the village of Velika Hoca/Hoce e Madhe shall be set forth in a Law.
