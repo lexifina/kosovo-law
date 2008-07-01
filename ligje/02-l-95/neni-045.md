@@ -1,0 +1,2 @@
+# Neni 45
+Nëse gjatë kontrollit inspektues fitosanitar konstatohet se një pjesë e dërgesës së bimëve, të cilën personi e ka regjistruar në regjistër, prodhohet, përpunohet, shfrytëzohet në çfarëdo mënyre tjetër është e pranishme në pronën e tij, e që është e infektuar me organizma të dëmshëm nga Lista I.A., II.A., I.B. ose II.B., atëherë nuk lëshohet pasaporta bimore, ndërkaq ajo lëshohet vetëm për pjesën tjetër për të cilin nuk ekziston dyshimi se është e infektuar me organizma të dëmshëm dhe nuk paraqet rrezik për përhapjen e tyre.

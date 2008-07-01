@@ -1,0 +1,8 @@
+# Neni 40
+40.1. Çdo dërges e bimëve nga Lista V.A.I. të cilat i kultivojnë apo shfrytëzojnë personat për të cilët regjistrimi është i obliguar dhe janë të destinuara për transferim, duhet të jenë të kontrolluara nga inspekcioni me qëllim të sigurimit se:
+(a) nuk janë të infektuara me organizma të dëmshëm nga Lista I.A. dhe II.A. dhe (b) i përmbushin kërkesat e veçanta fitosanitare nga Lista IV.A.
+40.2. Çdo dërgesa e bimëve nga Lista V.A.II., të cilat janë të destinuara për transferim në zonën e mbrojtur, krahas kontrollit inspektues nga paragrafi 1 pika (a) të këtij neni, duhet të kontrollohen nga inspekcioni fitosanitar me qëllim të konstatimit se:
+(a) nuk janë të infektuara me organizma të dëmshëm nga Lista I.B. dhe II.B. dhe (b) i përmbushin kërkesat e veçanta fitosanitare nga Lista IV.B.
+40.3. Kontrollimet inspektuese me të cilat vërtetohet përmbushja e kushteve nga paragrafi 1 pika (a) dhe (b) të këtij neni, bëhen sipas mënyrës së përcaktuar me këtë Ligj.
+40.4. Përjashtim prej kontrollimeve inspektuese me të cilat vërtetohet përmbushja e kërkesave sipas paragrafit 1 pika (a) dhe (b) të këtij neni, pavarësisht nga origjina e bimëve dhe vendin ku bëhet transferimi, kultivimi, përpunimi, deponimi, shitja ose shfrytëzimi në ndonjë mënyrë tjetër, sikurse edhe në objektet e blerësit, sipas parimit të mostrës së rastit, mund të bëhet kontrolli inspektues me qëllim të konstatimit të gjendjes shëndetësore të bimëve.
+40.5. Nëse gjatë kontrollit inspektues, konstatohet se ekziston rreziku për përhapjen e organizmave të dëmshëm, ose nuk janë përmbushur kërkesat e parapara për transferimin e dërgesës, inspektori fitosanitar do të urdhërojë ndërmarrjen e masave të parapara nga neni 12 paragrafi 2 pika (b) të këtij Ligji.

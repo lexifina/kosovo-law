@@ -1,0 +1,3 @@
+# Neni 11
+11.1. Nëse në territorin e Kosovës shfaqën organizmat e dëmshëm në zonën e mbrojtur nga Lista I.A. e II.A. dhe nga Lista I.B. dhe II.B. ose konstatohen simptomat në bimë, produkte bimore dhe objekte të tjera, në bazë të të cilëve dyshohet për praninë e organizmave të dëmshëm nga Lista 7 I.A., II.A., I.B., II.B., kryerësit e punëve publike dhe prodhuesit e bimëve, duhet të lajmërojnë menjëherë në mënyrë të rregullt inspektorin fitosanitar dhe organin kompetent.
+11.2. Prodhuesi i bimëve duhet të mbrojë bimët, produktet bimore dhe objektet e tjera sipas udhëzimeve të përcaktuara nga Inspektori fitosanitar, ndërsa mënyrën e lajmërimit e përcakton Ministria me akt nënligjor.

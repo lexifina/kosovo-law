@@ -1,0 +1,5 @@
+# Article 32
+32.1. If all the requirements under article 27 and 28 of this Law are satisfied, after the check the phytosanitary inspector issues the import permit for the plant consignment, certifies its phyto-certificate and the re-export phyto-certificates by stamping and dating the entry.
+32.2. If the preliminary requirements under article 27 and 28 of this Law are not satisfied, the phytosanitary inspector takes the decision to stop the import and designates measures in compliance with the provisions of article 12, paragraph 1 of this law and stamps the phyto-certificate or re-export phyto-certificate with a red triangular stamp which invalidates the phyto-certificate.
+32.3. If during the inspection check it is verified that a part of the plant consignment is infected with harmful organisms from List I,A, IIA, I.B ore II.B., its import is prohibited, while the remaining part of the consignment may be permitted to pass the border, if it is verified that it is not infected and there is no risk of harmful organisms spreading.
+32.4. The Ministry designates the shape, size and content of the stamp under paragraph 1 and 2 of this article in a sub-legal act.

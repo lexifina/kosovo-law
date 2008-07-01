@@ -1,0 +1,8 @@
+# Article 40
+40.1. Any consignment of plants presented in List V.A.I, grown or used by persons whose registration is obligatory and intended for transferring shall undergo inspection checks in order to ensure that: 15
+(a) they are not infected with harmful organisms presented in List I.A and II.A.; and (b) they satisfy special phytosanitary requirements presented in List IV.A.
+40.2. Any consignment of plants presented in V.A.II., that are intended for transferring into protected zones, in addition to inspection checks under paragraph 1 point (a) of this article, shall undergo phytosanitary inspection checks in order to ensure that:
+(a) they are not infected with harmful organisms presented in List I.B and II.B.; and (b) they satisfy special phytosanitary requirements presented in List IV.B.
+40.3. Inspection checks which verify that the requirements under paragraph 1 point (a) and (b) of this article are satisfied, are undertaken according to method designated by this Law.
+40.4. In addition to inspection checks which verify that the requirements under paragraph 1 point (a) and (b) of this article are satisfied, other inspection checks using the principle of random samples may be performed in the facilities of the buyer to verify plant health conditions regardless of the origin of the plants, the country whereby plants are transferred, grown, processed, stored, sold or used in any other way
+40.5. If during the inspection checks, it is verified that there is risk of harmful organisms spreading, or requirements foreseen for the transfer of consignments are not satisfied, the phytosanitary inspector orders the undertaking of measures foreseen under article 12 paragraph 2 point (b) of this Law.

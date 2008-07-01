@@ -1,0 +1,4 @@
+# Neni 29
+29.1. Çdo dërgesë e bimëve nga Lista V.B., e cila importohet për qëllim të ekzaminimit dhe punëve shkencore hulumtuese për seleksionim, duhet të jetë e kontrolluar nga inspeksioni fitosanitar si dhe duhet të këtë lejen për import, në pajtim me nenin 18 të këtij Ligji, e shoqëruar me fitocertifikatën nga vendi i origjinës.
+29.2. Përjashtimisht nga neni 19 paragrafi 1 pika (a) të këtij Ligji, duhet lëshuar lejen për import të bimëve nga Lista V.B., pa fitocertifikatë dhe pa inspektim fitosanitar, të cilat janë të dedikuara për përdorim personal ose për përdorim të menjëhershëm brenda zonës kufitare me vendin nga importohen bimët, produktet bimore dhe objektet tjera.
+29.3. Sasitë e vogla të bimëve, produkteve bimore dhe objekteve të tjera nga Lista V.B., në pajtim me nenin 20 të këtij Ligji mund të importohen pa fitocertifikatë dhe pa inspektim fitosanitar.

@@ -1,0 +1,4 @@
+# Neni 2
+Zbatimi
+Ky Ligj siguron kushtet për:
+(a) mbrojtjen e bimëve dhe produkteve bimore nga veprimi i organizmave të dëmshëm; (b) parandalimin e futjes, përhapjes së organizmave të dëmshëm dhe asgjësimin ose çrrënjosjen e tyre me ndërmarrjen e masave fitosantare; (c) zbulimin dhe identifikimin e organizmave të dëmshëm; (d) prodhimtari optimale dhe qarkullimin e bimëve e produkteve bimore; (e) zbatimin e mbikëqyrjes së përhershme të organizmave të dëmshëm, menaxhimin e rreziqeve që paraqesin ato, zbatimin e masave për mbrojtjen e bimëve, kryerjen e punëve dhe raporteve tjera; 2 (f) orientimin dhe përcjelljen e zhvillimit të veprimtarive lidhur me mbrojtjen e shëndetit të bimëve; (g) mbledhjen, ruajtjen, këmbimin e të dhënave dhe informatave; (h) edukimin, ngritjen e vetëdijes së popullatës për mbrojtjen e bimëve.

@@ -1,0 +1,5 @@
+# Neni 32
+32.1. Inspektori fitosanitar, pas kryerjes së kontrollit, nëse janë përmbushur kërkesat sipas nenit 27 dhe 28 të këtij Ligji, lëshon lejen për import të dërgesës së bimëve dhe konstaton fitocertifikatën ose fitocertifikatën për rieksport me datën dhe vulën e hyrjes.
+32.2. Nëse kërkesat paraprake nga neni 27 dhe 28 i këtij Ligji, nuk janë përmbushur, inspektori fitosanitar me vendim e ndalon importin dhe përcakton masat në pajtim me dispozitat nga neni 12, paragrafi 1 të këtij Ligji dhe do të shënon fitocertifikatën ose fitocertifikatën për rieksport me vulë trekëndëshe me ngjyrë të kuqe, më të cilin fitocertifikata bëhet e pa vlefshme.
+32.3. Nëse gjatë kontrollit të inspektimit konstatohet se pjesa e dërgesës së bimëve është e infektuar me organizma të dëmshëm nga Lista I.A., II.A., I.B. ose II.B. ndalohet importi i tyre, ndërsa pjesa e mbetur e dërgesës mund të lejohet, nëse vërtetohet se ajo nuk është e infektuar dhe nuk ka rrezik për përhapjen e organizmave të dëmshëm.
+32.4. Ministria me akt nënligjor përcakton formën, madhësinë dhe përmbajtjen e vulës sipas paragrafit 1 dhe 2 të këtij neni.
