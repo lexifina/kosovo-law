@@ -1,0 +1,6 @@
+# Neni 22
+22.1. Furnizimi me kohë do të bëhet një aktivitet konkurrues dhe cdo kompani e kualifikuar, ndërmarrje e inkorporuar brenda ose jashtë Kosovës, mund të aplikojë për të marrë licencë për furnizim me qëllim që të shërbejë konsumatorëve të privilegjuar në pajtim me kriteret e themeluara nga Zyra e Rregullatorit për Energji.
+22.2. Zyra ose subjekti i Qeverisë që është përgjegjëse për energji do të përcaktojë kushtet për determinimin e konsumatorëve të privilegjuar në një instrukcion për zbatim që duhet miratuar jo më vonë se 31 janari për çdo vit. Kriteret do të përfshijnë zgjatjen e konsumimit të energjisë elektrike dhe proporcionet e kostos të energjisë në krahasim me çmimet e produkteve dhe shërbimeve të tyre.
+22.3. Një konsumator mund të fitojë statusin e konsumatorit të privilegjuar në përgjigje të një thirrje publike që Zyra e Rregullatorit për Energji duhet ta publikojë çdo vit.
+22.4. Konsumatorët e privilegjuar do të kenë mundësinë të furnizohen nga një furnizues publik sipas procedurave të themeluara nga Zyra e Rregullatorit për Energji.
+22.5. Konsumatorët e privilegjuar do ta njoftojnë me kohë operatorin e bartjes, mbi kontratat që do të nënshkruajnë për furnizimin me energji elektrike, në pajtim me kushtet dhe procedurat e përcaktuara në Kodin e Tregut lëshuar nga operatori i tregut dhe miratuar nga Zyra e Rregullatorit për Energji.

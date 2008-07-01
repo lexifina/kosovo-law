@@ -1,0 +1,3 @@
+# Neni 31
+31.1. Konsumatorët ose prodhuesit e përmendur në nenin 25 të këtij ligji nuk kanë të drejtë të lidhen nëse nuk i kanë plotësuar kushtet për lidhje apo nëse lidhja do të shpiente deri te çrregullimi i furnizimit, ose lidhja do të shkaktonte shpenzime jashtëzakonisht të larta ndaj furnizuesit në rrjetë.
+31.2. Një ndërmarrje e energjisë elektrike mund ta refuzojë përkohësisht lidhjen e një konsumatori ose prodhuesi në rrjetë nëse konstaton se pajisjet, aparatura e tij, ose kur rrjeta nuk i plotësojnë normat teknike ose kushtet tjera të përshkruara në kodet teknike. Konsumatori ose prodhuesi duhet të informohet me shkrim për arsyet e çdo refuzimi të tillë.

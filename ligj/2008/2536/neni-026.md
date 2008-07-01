@@ -1,0 +1,4 @@
+# Neni 26
+26.1. Operatori i rrjetit të bartjes dhe operatori i sistemit të distribuimit mund të refuzojnë qasjen në rrjetën e bartjes dhe të distribuimit vetëm nëse kapacitetet ekzistuese nuk janë të mjaftueshme, dhe mungesa e kapaciteteve arsyetohet në bazë të sigurisë së furnizimit, rregullshmërisë ose kualitetit të furnizimit, duke marrë parasysh të gjitha rregullat në fuqi.
+26.2. Arsyet për refuzim sipas paragrafit (1) të këtij neni paraqiten në raportin me shkrim me faktet mbështetëse, dhe u ipen palëve të treta të cilat kërkojnë të lidhin kontratë për qasje në rrjetë.
+26.3. Çdo person të cilit i refuzohet qasja në rrjetë ose i cili kundërshton kushtet e parapara për qasje në rrjetë mund parashtrojë ankesë në Zyrën e Rregullatorit për Energji e cila merr vendim në përputhje me procedurat e parapara në Ligjin për Rregullatorin e Energjisë.

@@ -1,0 +1,7 @@
+# Neni 10
+10.1. Ndërmarrjet e energjisë që prodhojnë energji elektrike duke shfrytëzuar burimet e ripërtritshme të energjisë ose hedhurinat dhe bashkë-prodhimin, që prodhojnë energji elektrike dhe ngrohje në një objekt të veçantë energjetik, kanë të drejtë të marrin çertifikatën e prejardhjes nga Zyra e Rregullative për Energji.
+10.2. Në çertifikatën e prejardhjes, Zyra e Rregullatorit për Energjisë:
+a). vërteton kapacitetin e centralit elektrik që shfrytëzon burimet e ripërtëritshme të energjisë dhe hedhurinat në mënyrë shembullore si burime për prodhim;
+b). saktëson afatet për paraqitjen e informacioneve dhe raporteve te Zyra e Rregullatorit për Energji;
+10.3. Furnizuesit publik u japin përparësi në blerje energjisë elektrike për të cilën është marrë çertifikata e origjinës, me kusht që kostua e energjisë të tillë elektrike nuk shpie çmimin e energjisë elektrike në Kosovë një nivel jo stabil.
+10.4. Nga furnizuesi publik kërkohet që ta blejë, me çmim të rregulluar, gjithë sasinë e energjisë elektrike të prodhuar për të cilën ekziston certifikata e origjinës, për plotësimin e nevojave me energji elektrike në Kosovë me përjashtim të sasisë për të cilën prodhuesi i ka lidhur kontratë sipas dispozitave të këtij ligji. Zyra e Rregullatorit për Energji, mund t’ia kompenzojë shpenzimet furnizuesit publik, përmes një tarife të veçantë për shërbimet e operatorit të sistemit të bartjes.
