@@ -1,0 +1,7 @@
+# Article 5
+Financing and Fiscal Measures for the Cultural Heritage
+5.1. Funds for the research, documentation, selection, protection, conservation, restoration, administration, presentation and propagation of the Cultural Heritage, shall be provided by the Kosovo Consolidated Budget, and through financial resources of the local authorities and any other domestic and international source whether as donation or sponsor.
+5.2. The Kosovo Consolidated Budget on the Cultural Heritage shall be used to cover activities concerning the Cultural Heritage in compliance with Article 4 of this Law. The Kosovo Council for the Cultural Heritage shall evaluate project proposals submitted by institutions of relevant fields, whereas the Ministry is responsible for the approval and implementation for these projects on a proportional basis from its budget.
+5.3. The Cultural Heritage under temporary or permanent protection shall be exempt from property tax, in compliance with this Law.
+6 5.4. Any investment with the purpose of conservation or restoration on protected Cultural Heritage made by physical or legal persons, whose amounts are confirmed and approved by the Competent Institution, shall be deductible from income tax liability up to the amount of the invested sum, if it is not otherwise regulated by other legislation in force.
+5.5. The Cultural Heritage in the private property which is accessible to the public according to the Article 4.23 of this Law shall be exempt from inheritance tax.

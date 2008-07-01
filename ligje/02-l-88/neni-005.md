@@ -1,0 +1,7 @@
+# Neni 5
+Financimi dhe masat fiskale për trashëgiminë kulturore
+5.1. Fondet për hulumtimin, dokumentimin, përzgjedhjen, mbrojtjen, konservimin, restaurimin, administrimin, prezantimin dhe përhapjen e trashëgimisë kulturore sigurohen nga Buxheti i Konsoliduar i Kosovës dhe përmes burimeve financiare të autoriteteve lokale dhe ndonjë burimi tjetër vendor dhe ndërkombëtar qoftë ai donacion ose sponzorim.
+5.2. Buxheti i Konsoliduar i Kosovës mbi trashëgiminë kulturore përdoret për mbulimin e veprimeve në lidhje me trashëgiminë kulturore në pajtueshmëri me nenin 4 të këtij Ligji. Këshilli i Kosovës për trashëgimi kulturore vlerëson projektet e propozuara të parashtruara nga institucionet e fushave përkatëse, ndërsa Ministria është përgjegjëse për aprovimin dhe implementimin e këtyre projekteve në baza proporcionale nga buxheti i saj.
+5.3. Trashëgimia kulturore nën mbrojtje të përkohshme ose të përhershme lirohet nga tatimi mbi pronën, në pajtim me këtë ligj.
+5.4. Çdo investim me qëllim konservimi dhe restaurimi në trashëgiminë kulturore të mbrojtur, nga personat juridikë ose fizikë, shumat e të cilave janë të konfirmuara dhe aprovuara nga Institucioni kompetent, lirohet nga detyrimi për tatimin në të hyra deri në vlerën e shumës së investuar nëse kjo nuk ёshtё rregulluar ndryshe me ndonjë legjislacion tjeter nё fuqi.
+5.5. Trashëgimia kulturore nё pronësi private që është e lejuar për publikun, sipas nenit 4.23 të këtij ligji, lirohet nga tatimi mbi trashëgimi.

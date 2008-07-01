@@ -1,0 +1,10 @@
+# Article 3
+II. Inventory, Documentation and Temporary Protection of the Cultural Heritage
+3.1. Identification of the Cultural Heritage shall be achieved by means of inventory and implemented by the Competent Institution, in accordance with the Law.
+3.2. Inventory and documentation contains preliminary graphic, visual presentation and description of essential data of the Cultural Heritage: names of the owner, possessor or occupier, and references to location, visual presentation, type and date according to a sub-legal act based on this Law.
+3.3. Ministry shall create a standardized and centralized inventory database of the cultural heritage in both written and electronic form. Access to those data bases shall be allowed through an institutional network.
+3.4. A professional officer affiliated with the Competent Institution is given a right of entry, after 7 days notice to the owner, to verify the value and the state of Cultural Heritage during the process of inventory and evaluation.
+3.5. Based on criteria established by a sub-legal act, and according to Article 3.2, the Competent Institution shall select from the inventory of the Cultural Heritage items and objects to be under temporary protection within the List of the Cultural Heritage.
+3.6. Objects included on the List of the Cultural Heritage under temporary protection shall be under temporary protection for one year. The right to compensation will be transferred for any financial loss to court if the item is not permanently protected after one year. Such compensation will be assessed by an independent commission which shall be established by the Kosovo Council for the Cultural Heritage.
+3.7. The Cultural Heritage under temporary protection, according to this Law, shall have the same attributes of the Cultural Heritage under permanent protection, as defined under Article 4.
+3.8. The granting of permission for construction or other activities that could affect the values or change the integrity or structure of items of Cultural Heritage under temporary protection shall be made only with the written consent of the Competent Institution.
