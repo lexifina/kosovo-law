@@ -1,0 +1,6 @@
+# Neni 127
+Autorizimet e propozuesit të përmbarimit
+127.1 Me kalimin e kredisë me qëllim arkëtimi, autorizohet propozuesi i përmbarimit që të kërkojë nga debitori i debitorit përmbarimore pagimin e shumës së shënuar në aktvendimin e përmbarimit, apo në aktvendimin e posaçëm për kalimin, në qoftë se kjo shumë është bërë e kërkueshme, t’i kryejë të gjitha veprimet e nevojshme për ruajtjen dhe realizimin e kredisë së kaluar, si dhe t’i shfrytëzojë të gjitha të drejtat lidhur me pengun të dhënë për sigurimin e kredisë së këtillë.
+127.2 Me kalimin e kredisë me qëllim arkëtimi, propozuesi i përmbarimit nuk ka të drejtë që në barrë të debitorit ekzekutiv të lidhë ujdi, apo që debitorit të debitorit t’ia falë borxhin, ose që të disponoj me kredinë e kaluar, si dhe që me debitorin e debitorit të merret vesh që vendimin për kredinë, po qe se është kontestuese ajo ta nxjerrë arbitrazhi.
+127.3 Propozuesit të përmbarimit në të cilin është bartur kredia për arkëtim, debitori i debitorit mund t’ia bëjë vetëm ato prapësime që do të mund t’ia bënte debitorit të ekzekutimit.
+127.4 Cedimi i kredisë së bartur i bërë nga debitori ekzekutiv pas kalimit të saj, nuk ka efekt juridik kundrejt të drejtave që i ka fituar propozuesi i përmbarimit në momentin e kalimit të saj.

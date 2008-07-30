@@ -1,0 +1,5 @@
+# Neni 196
+Shuarja e të drejtës së pengut
+196.1 E drejta e pengut për sendin e paluajtshëm e regjistruar në librin publik të paluajtshmërive, shuhet në ditën kur zbatohet aktvendimi për shitjen e sendit të paluajtshëm, megjithëse ndoshta kreditorët e siguruar me peng nuk i kanë realizuar kreditë e tyre plotësisht, përveç kur ekziston marrëveshja nga paragrafi 2 të këtij neni.
+196.2 Blerësi i sendit të paluajtshëm dhe kreditori i siguruar me peng mund të merren vesh më së voni në seancën për shitjen e tij, që e drejta e pengut për paluajtshmërinë të mbetet edhe pas zbatimit të aktvendimit për shitjen, kurse blerësi ta marrë për vete borxhin e debitorit ndaj këtij kreditori në shumën që do t’i takonte në procedurën e përmbarimit. Në këtë rast çmimi i blerjes së sendit të paluajtshëm pakësohet për shumën e borxhit të marrë përsipër.
+196.3 Blerësi dhe kreditori i siguruar me peng, marrëveshjen nga paragrafi 2 të këtij neni e lidhin në formë të ujdisë gjyqësore në procedurën përmbarimore ose të dokumentit noterial .

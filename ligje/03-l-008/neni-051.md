@@ -1,0 +1,7 @@
+# Neni 51
+Veprimet e personit zyrtar të gjykatës
+51.1 Personi zyrtar ka për detyrë që me rastin e bastisjes së banesës dhe lokaleve tjera të debitorit apo të kontrollimit personalisht të tij, por edhe me rastin e kryerjes së veprimeve të tjera, që të veprojë me respektin e duhur të personalitetit të debitorit dhe të anëtarëve të familjes së tij.
+51.2 Me rastin e kryerjes së veprimeve përmbarimore në banesën e debitorit, në të cilën nuk është i pranishëm debitori, përfaqësuesi ligjor apo me prokurë i tij, apo personi i moshës madhore i familjes së tij, domosdo duhet të jenë të pranishëm së paku dy qytetar të moshës madhore.
+51.3 Përmbarimi në lokalin afarist apo në lokalin tjetër të personit juridik bëhet gjatë orarit të punës dhe në prani të personit të cilin e cakton organi kompetent i personit juridik, e kur ky i fundit nuk e cakton personin e tillë, veprimet përmbarimore kryhen pa praninë e askujt.
+51.4 Kur veprimi përmbarimorë duhet të kryhet në lokalin që është i mbyllur, kurse debitori nuk është i pranishëm ose nuk pajtohet që ta hapë lokalin vet, atëherë personi zyrtar do ta hapë lokalin në praninë e një qytetari të moshës madhore dhe policisë.
+51.5 Gjatë kryerjes së veprimeve përmbarimore sipas dispozitave të paragrafit l, 2 3 dhe 4 të këtij neni, personi zyrtar i gjykatës duhet të përpilojë procesverbal të posaçëm të cilin do ta në nënshkruajnë qytetarët e pranishëm, kurse një kopje e tij ose njoftimi për veprimin përmbarimor të kryer, do të afishohet në derën e banesës apo të lokalit afarist.

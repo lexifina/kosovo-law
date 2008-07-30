@@ -1,0 +1,11 @@
+# Neni 255
+Përmbarimi për paluajtshmërinë e paregjistruar.
+255.1 Në qoftë se në territorin në të cilin janë themeluar librat publike të paluajtshmërive, paluajtshmëria nuk është e regjistruar, propozuesi i përmbarimit bashkë me propozimin për përmbarim duhet të parashtrojë dokumente në bazë të të cilave mund të bëhet regjistrimi.
+255.2 Pasi të dorëzohet në gjykatë propozimi për përmbarimin dhe dokumentet në bazë të të cilave mund të bëhet regjistrimi i paluajtshmërisë, gjykata menjëherë do t’ia dërgojë dokumentet gjykatës, organit, apo organizatës që e mbanë regjistrin me qëllim të regjistrimit. Në këtë rast gjykata ndalet së vepruari derisa procedura e regjistrimit të mos përfundojë.
+255.3 Në qoftë se propozuesi i përmbarimit në propozimin e tij për përmbarim, për objekt përmbarimi e propozon ndërtesën, apo pjesën e ndërtesës që nuk janë të regjistruara në librin publik të paluajtshmërive , bashkë me deklaratën se regjistrimi nuk mund të bëhet në kuptimin e paragrafi 1 dhe 2 të këtij neni, gjykata me aktvendim do ta lejojë përmbarimin për paluajtshmërinë në pronësi të paregjistruar të debitorit, po qe se propozuesi i përmbarimit e dorëzon, apo e thekson si provë për pronësinë e paregjistruar, lejen e ndërtimit të dhënë në emër të debitorit, ose në qoftë se leja e ndërtimit nuk është në emër të debitorit, dokumentet për veprimet juridike me të cilat mund të fitohet pronësia e debitorit për paluajtshmërinë apo pjesën e saj.
+255.4 Me kërkesë të propozuesit të përmbarimit, gjykata i cakton detyrë debitorit ose personit të tretë që t’i dorëzojnë dokumentet nga paragrafi. 3 i këtij neni, me kërcënim të gjobitjes me të holla nga neni 20 i këtij ligji. Me kërkesë të propozuesit të përmbarimit, do të detyron me vendim të gjykatës organi kompetent shtetëror që t’i dorëzojë dokumentet nga paragrafi 3 i këtij neni.
+255.5 Kur gjykata e cakton përmbarimin për sendin e paluajtshëm që nuk mund të regjistrohet në librin publik të paluajtshmërive, në pajtim me paragrafin 3 të këtij neni, në kushtet e shitjes do të theksohet posaçërisht se është fjala për pronësinë e paregjistruar, e në vend të shënimit do të bëhet inventari në mënyrën e paraparë me nenin 254 paragrafin 3 dhe 4 të këtij ligji.
+P J E S A E K A T Ë R T
+PËRMBARIMI PËR REALIZIMIN E KREDISË JO NË TË HOLLA
+K R E U XV
+PENALET GJYQËSORE

@@ -1,0 +1,7 @@
+## chapter XII of this law.
+## 228.3 In the executive tender procedure from paragraph 2 of this article, the buyer of the real asset gains the procedure position of the executive tender proposer, at the moment of the application of the executive tender proposal in order that the act of moving out and delivery of the real asset can be done.
+# Article 229
+Moving out of other persons
+229.1 After the issue of the written resolution by which it is estimated that the real asset was sold, the court based on the request of the buyer, through the written resolution orders the other persons who are located in the sold real asset, to move out and hand the property to the buyer, unless they possess the valuable document that serves as a juridical base regarding the use of the real asset. By the same written resolution the executive tender is appointed to the persons concerning the moving out and handing of the property of real asset.
+229.2 The executive tender court will initiate the enforcement of the executive tender of the written resolution from the paragraph 1 of this article, immediately after its issue. The executive tender is applied according to the rules of this law regarding the executive tender, moving out and handing of the real asset .
+229.3 In the procedure which is done according to the paragraph 1 and 2 of this article, the buyer has the procedure position of the executive tender proposer.

@@ -1,0 +1,5 @@
+# Article 196
+Extinction of the right on pledge
+196.1 The right of pledge on real estate recorded in real estate’s public books extinct on the day when the decision on selling the real estate is executed, although it may the case that creditors secured by pledge did not entirely realized their credits, except when the agreement from paragraph 2 of this Article exists.
+196.2 The buyer of real estate and the creditor who is secured by pledge, at latest in the session of its selling, may agree that the right of pledge remains even after execution of the decision on sale, while buyer to take the debt of the debtor in relation with that creditor in the amount which would belong him in the procedure of execution. In this case, the buying price of real estate decreases for the amount of taken debt.
+196.3 The buyer and the creditor secured by pledge will conclude the agreement from paragraph 2 of this Article in the form of court agreement in execution procedure or the form of notaries document.

@@ -1,0 +1,6 @@
+# Neni 185
+Ndryshimi i objektit të përmbarimit
+185.1 Debitori i përmbarimit ka të drejtë që brenda afatit prej 7 ditësh nga dita në të cilën i është dorëzuar aktvendimi për përmbarimin, të propozojë caktimin e përmbarimit në ndonjë objekt tjetër përmbarimi. Propozimit të këtillë debitori ka për detyrë t’ia bashkangjesë provën e duhur nga e cila shihet se atij i takon e drejta e pretenduar për paluajtshmërinë tjetër, në bazë të cilës provë mund të caktohet përmbarimi për paluajtshmërinë e këtillë kundër debitorit.
+185.2 Gjykata do t’ia dërgojë propozimin e debitorit, propozuesit të përmbarimit i cili mund të deklarohet rreth tij brenda shtatë ditësh nga dita e dorëzimit.
+185.3 Brenda afatit nga paragrafi 2 i këtij neni, propozuesi i përmbarimit ka të drejtë që të paraqesë kërkesë për pagimin e shpenzimeve të procedurës së filluar në palujtshmërinë, si dhe të kërkojë depozitim të garancionit për shpërblimin e dëmit që mund ta pësojë nga shkaku i ndryshimit të objektit të përmbarimit.
+185.4 Për propozimin e debitorit gjykata vendosë me anë të aktvendimit, pasi t’i arrijë deklarimi i propozuesit të përmbarimit, respektivisht pasi të skadojë afati i caktuar nga paragrafi 2 i këtij neni, për paraqitjen e deklarimit.

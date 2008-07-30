@@ -1,0 +1,5 @@
+# Article 137
+Execution when the right to legal nutrition belongs to more persons
+137.1 If the right to legal nutrition respectively the right of rent for lost nutrition because of the death of nutrition provider towards the same execution debtor, has several persons, whilst the overall amount of their requests exceeds the part of personal incomes which might be the object of compulsory execution, then the execution is assigned and is applied in benefit of each of them, in proportion with the extent of their requests.
+137.2 If after the initiation of the application of the execution in personal incomes, respectively for other permanent monetary incomes, there is a new proposal for execution for credit from paragraph 1 of this article, the court will amend ex officio previously issued execution decision in the sense of paragraph 1 of this article and will assign the amount which will in the future be paid to each of the compulsory execution proposers.
+137.3 In the case from paragraph 2 of this article the execution decision should be delivered also to previous execution proposer, who against this decision has the right of objection.

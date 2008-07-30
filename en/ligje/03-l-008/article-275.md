@@ -1,0 +1,6 @@
+# Article 275
+Obligation for tolerance and omission
+275.1 If debtor is obligated to tolerate commission of any action, or to omit from the commission of an action, the court, upon proposal from the execution requester who alleges that debtor is acting in contrary to his obligation, with decision will order debtor to behave in accordance with his obligation and threatens him with fine in accordance with article 20 of this law, if he continues to act in the same way.
+275.2 The execution proposer might submit a proposal to the court that to debtor be assigned monetary penalty because he, despite of the court order, has continued to act in contradiction with his obligation. This proposal should be done in 15 days time-limit from the acknowledgement for such debtor’s behavior, but at latest within time-limit of one year from the breach of obligation.
+275.3 After expiration of time-limits from paragraph 2 of this article, the court with decision refuses the proposal for pronouncement of fine and suspends the procedure, while the execution requester looses the right of presentation of new execution proposal, in the base of the same executive document.
+275.4 For the execution procedure from paragraph 1 of this article, accordingly are applied provisions of article 274 of this law.

@@ -1,0 +1,5 @@
+# Neni 153
+Përmbarimi për realizimin e kredisë në valutë të huaj
+153.1 Në qoftë se kredia e konstatuar në dokumentin ekzekutiv përbëhet nga të hollat në valutë të huaj dhe po qe se debitori e ka llogarinë devizore në valutë të tillë, me aktvendimin për përmbarimin urdhërohet banka të e cila ndodhet llogaria devizore e debitorit, që ta bartë shumën përkatëse në valutë të huaj, nga llogaria e debitorit në llogarinë e propozuesit të përmbarimit, ose që pagesën në valutë të huajë ta bëjë në ndonjë mënyrë tjetër të lejueshme me ligj.
+153.2 Propozuesi i përmbarimit mund të kërkojë që përmbarimi për përmbushjen e kredisë së tij në valutën e huaj të caktuar, të lejohet dhe zbatohet në llogaritë tjera, apo në sendet tjera të debitorit, si përmbarim për realizimin e kredisë së tij në shumën që është e nevojshme për blerjen e mjeteve devizore të detyruara nga personi i autorizuar.
+153.3 Dispozitat e paragrafit 1 dhe 2 të këtij neni, zbatohen edhe në rastet në të cilat përmbarimi caktohet kundër debitorëve që nuk janë persona juridik.

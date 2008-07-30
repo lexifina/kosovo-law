@@ -1,0 +1,8 @@
+# Article 263
+263.1 When the substitute items are not found neither to debtor or third person, the execution requester might propose that execution to be applied by the authorization of the court within assigned time-limit to buy somewhere else these items on the debtor’s expenses.
+263.2 The proposal to buy somewhere else the items, the execution requester might submit within seven days from the day in which the court has informed him that items were not found neither to debtor or third person.
+263.3 Upon proposal of the execution requester the court by decision orders the debtor that within certain time-limit to deposit with the court the amount of needed money for purchasing of items and assigns the execution for payment of this amount with interest-delay from the day of evaluation of items until the day of deposition of the amount with the court.
+263.4 The execution requester has a duty that in proposal from paragraph 1 of this article assign an execution mean with the purpose of payment of the needed amount for purchasing of substitute items.
+263.5 Execution of the decision from paragraph 1 and 3 of this article is conducted only after it becomes final.
+263.6 If the execution requester in time-limit from paragraph 2 of this article has not submitted the proposal for purchasing of items somewhere else, the court will suspend the execution procedure except when the execution requester has timely submitted also the proposal that debtor pays to him the value of items for which he was obliged to hand over.
+263.7 If during the conduct of the procedure the value of the substitute items changes, the execution requester might request from the court new evaluation and might order the debtor to pay the difference in value.

@@ -1,0 +1,6 @@
+# Neni 275
+Detyrimi për durim dhe mosveprim
+275.1 Në qoftë se debitori është i detyruar ta duroj kryerjen e ndonjë veprimi,ose të përmbahet nga kryerja e veprimit, gjykata sipas propozimit të kërkuesit të përmbarimit që pretendon se debitori vepron në kundërshtim me detyrimin e tij, me aktvendim e urdhëron debitorin që të sillet në pajtim me detyrimin që e ka dhe e kërcënon me gjobë në të holla në pajtim me nenin 20 të këtij ligji, po qe se edhe më tutje vepron në mënyrë të njëjtë.
+275.2 Propozuesi i përmbarimit mund t’i parashtrojë gjykatës propozim që debitorit t’i caktohet dënimi në të holla nga shkaku se ai përkundrejt urdhëresës së gjykatës ka vazhduar të veprojë në kundërshtim me detyrimin e tij. Ky propozim mund të bëhet brenda afatit prej 15 ditësh nga marrja e dijenisë për sjelljen e tillë të debitorit, por më së voni brenda afatit prej një viti nga shkelja e detyrimit.
+275.3 Pas skadimit të afateve nga paragrafi 2 i këtij neni, gjykata me aktvendim e refuzon propozimin për shqiptimin e gjobës në të holla dhe e pezullon procedurën, kurse kërkuesi i përmbarimit e humbë të drejtën e paraqitjes së propozimit të ri për ekzekutimin, në bazë të të njëjtit dokument ekzekutiv.
+275.4 Për procedurën e përmbarimit nga paragrafi 1 i këtij neni, përshtatshmërish zbatohen dispozitat e nenit 274 të këtij ligji.

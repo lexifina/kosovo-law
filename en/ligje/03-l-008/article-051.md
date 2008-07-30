@@ -1,0 +1,7 @@
+# Article 51
+Actions of the official court person
+51.1 Official person has a duty that in the case of search of the house and other debtor’s premises or his personal search , but also in the case of other actions, act with appropriate respect towards the personality of debtor and debtor’s family members.
+51.2 During the conduct of execution actions in the house of debtor, where the debtor is not present, his legal representative or authorized representative or adult person from his family, necessarily should present at least two adult citizens.
+51.3 Execution in business premises or in other premises of legal person is done during the working hours and in presence of the person assigned by competent organ of the legal person, and when the latter fails to assign such person, then execution action are conducted without presence of anyone.
+51.4 When the execution action is to be conducted in closed premise, whilst the debtor is not present or does not agree to open the premise, then official person will open the premise in presence of one adult citizen and the police.
+51.5 During the commission of execution actions according to the provisions of paragraphs 1, 2, 3 and 4 of this article, court official person should draft separate record which will be signed by present citizens, whilst a copy of it or the notification for committed execution action, will be stacked to the doors of the house of business premise.

@@ -1,0 +1,6 @@
+# Article 260
+When items are not found with debtor nor with third person
+260.1 If the items were not found with debtor nor the third person, the court in the same procedure upon the proposal of execution requester will evaluate the value of items and with decision will order the debtor that to the execution requester within assigned deadline pay the amount of that value.
+260.2 The execution proposer might submit proposal from paragraph 1 of this article within tree days time-limit from the day of notification that items were not found with debtor nor the third person. If the execution requester does not submit such proposal within assigned time-limit the court will suspend execution.
+260.3 In the basis of decision from paragraph 1 of this article, the execution requester might propose in the same procedure the execution for payment of the assigned amount. Such proposal should be submited at latest in time limit of seven days from the day of the issuance of decision from paragraph 1 of this article.
+260.4 If the proposal from paragraph 3 of this article is not submitted in the assigned time-limit, the court will suspend the decision and will annul the decision from paragraph 1 of this article and committed executive actions.
