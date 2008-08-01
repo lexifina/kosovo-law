@@ -1,0 +1,3 @@
+# Neni 30
+Organizimi i koncesionarit
+Ofertuesi i suksesshëm ka për detyrë të themelojë një subjekt juridik të pavarur të inkorporuar në bazë të ligjeve të Kosovës, nëse kjo është kërkuar nga Autoriteti Kontraktues në dokumentacionin e para-seleksionimit ose, sipas nevojës, në kërkesën për propozime. Çdo kërkesë lidhur me kapitalin minimal të një personi juridik të tillë dhe të procedurës për marrjen e miratimit nga ana e Autoritetit Kontraktues për statutin dhe rregulloret e punës së tij si dhe për ndryshimet thelbësore të tyre duhet të përcaktohen në kontratën e koncesionit në pajtim me kushtet e parapara në kërkesën për propozime.

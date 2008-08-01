@@ -1,0 +1,3 @@
+# Neni 24
+Sekreti
+Autoriteti Kontraktues trajton propozimet në atë mënyrë që përjashton mundësinë e zbulimit të përmbajtjes së tyre ofertuesve konkurrentë. Çdo diskutim, komunikim ose bisedë mes Autoritetit Kontraktues dhe një ofertuesi sipas nenit 9, paragrafit 3, dhe neneve 17, 18, 19 ose 23, paragrafi 3 dhe 4, duhet të mbetet sekrete. Përveç nëse kërkohet me ligj ose me urdhër të një gjykate ose nëse lejohet në bazë të kërkesës për propozime, asnjëra nga palët negociuese nuk ka të drejtë t’i zbulojë personave tjerë ndonjë informatë në lidhje me teknologjinë, çmimin ose ndonjë informatë tjetër lidhur me diskutimet, komunikimet ose negociatat e parapara në nenet e mësipërme, përveç nëse pala tjetër ka dhënë pëlqimin e vet për këtë.

@@ -1,0 +1,7 @@
+# Neni 40
+Revidimi i kontratës së koncesionit
+40.1. Pa cenuar nenin 39, kontrata e koncesionit përcakton se në cilat raste koncesionari ka të drejtë të kërkojë revidimin e kontratës së koncesionit me qëllim të përshtatjes së kompensimit, nëse shpenzimet e koncesionarit për përmbushjen e kontratës së koncesionit janë rritur dukshëm ose nëse vlera e shpërblimit të cilin koncesionari e merr për përmbushjen e kontratës bjen dukshëm si pasojë e:
+a. ndryshimit të kushteve ekonomike ose financiare; ose b. ndryshimit të legjislacionit ose të rregullave të cilat nuk vlejnë veçanërisht për infrastrukturën përkatëse ose shërbimin të cilin e kryen;
+me kusht që ndryshimet ekonomike, financiare ose ligjore: a. ndodhin pas lidhjes së kontratës; b. janë jashtë kontrollit të koncesionarit; dhe c. janë të natyrës së tillë që nuk mund të pritet që koncesionari t’i ketë marrë parasysh në kohën kur kontrata e koncesionit është negociuar.
+40.2. Kontrata e koncesionit përcakton procedurën për revidimin e kontratës së koncesionit.
+40.3. Koncesionari ka të drejtë në rishikimin e kontratës për koncesion me qëllim të mundësimit të përshtatjeve finaciare të duhura në rast të rritjes së shpenzimeve të cilat dalin nga kërkesat e palës kontraktuese, që nuk janë paraparë fillimisht me kontratën për koncesion, nëse këto kërkesa shtesë i rrisin në masë të konsiderueshme shpenzimet e realizimit të kontratës, apo nëse e zvogëlojnë në mas të konsiderueshme vlerën të cilën e merr koncesionari për realizimin e saj.

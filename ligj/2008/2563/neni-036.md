@@ -1,0 +1,3 @@
+# Neni 36
+Bartja e kontratës së koncesionit
+Të drejtat dhe detyrimet e koncesionarit sipas kontratës së koncesionit nuk mund t’i bartën palëve të treta pa pëlqimin e Autoritetit Kontraktues, përveç nëse nuk është paraparë ndryshe në nenin 35, Kontrata e koncesionit përcakton kushtet kur Autoriteti Kontraktues ka për detyrë ta jep pëlqimin për një bartje të të drejtave dhe detyrimeve të koncesionarit sipas kontratës së koncesionit, përfshirë aty pranimin nga ana e koncesionarit të ri të të gjitha detyrimeve nga kontrata e koncesionit dhe dhënien e dëshmisë nga koncesionari i ri lidhur me aftësitë e tij teknike dhe financiare që nevojiten për kryerjen e shërbimit.

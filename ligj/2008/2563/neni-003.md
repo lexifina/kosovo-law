@@ -1,0 +1,4 @@
+# Neni 3
+Pavlefshmëria e kontratës së koncesionit
+Nëse Komisioni Rregullativ për Prokurim Publik (KRRP), vlerëson se ndonjë kontratë koncesioni është dhënë nga ndonjë autorit kontraktues në kundërshtim me këtë Ligj, kjo kontratë është e pavlefshme. Megjithatë KRRP-ja mund të vlerësojë se kjo kontratë është e vlefshme dhe e zbatueshme nëse (i) kontrata tashmë është realizuar në tërësi apo në masë të konsiderueshme dhe (ii) duke i marrë parasysh pasojat e mundshme për të gjtha interesat të cilat ka gjasa të dëmtohen, duke përfshirë interesin publik, ai vjen në përfundim se pasojat negative i tejkalojnë përfitimet të cilat mund të arrihen. Në këto raste, KRRP-ja ka autoritetin për të ndërmarrë çfarëdo masash që ai i konsideron të nevojshme për të siguruar se autoriteti kontraktues në fajlë pas kësaj t’u përmbahet me përpikëri kushteve të këtij Ligji.
+II. SELEKSIONIMI I KONCESIONARIT
