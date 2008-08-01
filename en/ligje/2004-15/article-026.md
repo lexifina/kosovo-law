@@ -1,0 +1,3 @@
+# Article 26
+The concept blueprint is a technical paper, which contains basic and other information, needed to draft the main blueprint, regarding the area and way in which the building is set up; environmental impact assessment, as well as measures for preventing or diminishing negative impact on the living environment – in conformity with the legal provisions of the Law on Environmental Protection; the basic solution regarding the shape and function, as well as the technical solutions of the building; preliminary building and safety assessment; conceptual solution for the technical infrastructure, information on historical-cultural facilities or areas; technological schemes, approximate construction cost, transport, maintenance, power supply proposals.
+Main Blueprint

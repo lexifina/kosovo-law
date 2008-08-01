@@ -1,0 +1,7 @@
+# Article 40
+40.1. The owners of adjacent properties (neighbors) have the right to participate in the proceeding as defined in paragraphs 2 – 5 of this article.
+40.2. Prior to issuing a construction permission, the competent authority must notify neighbors in case there is reason to expect that interests of the neighbors might be affected under applicable laws. Neighbors must have the right to inspect the documentation and be properly informed by the competent authority. Any objection of the neighbors must be given in writing or reported in form of minutes to the competent authority within 2 weeks after given the opportunity to see the documentation.
+40.3. There is no need to inform the neighbors in case of given their prior approval for construction proposal.
+40.4. Neighbors can appoint a representative for protecting their interests.
+40.5. If there are more than 10 neighbors involved the municipality may present the documentation and may inform the neighbors involved by public information. The invitation for the public information can be advertised in the daily press respectively in the official publication of the municipality. The invitation must be 16 published not later than 15 days prior to public information which includes name of the investor, address of the construction site, and type of construction and place of the public information.
+Buildings not requiring construction permission
