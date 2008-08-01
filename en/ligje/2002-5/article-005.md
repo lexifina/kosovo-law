@@ -1,0 +1,6 @@
+# Section 5
+CORRECTION OF THE REGISTER
+5.1 Any person (hereinafter the “Objector”) claiming that the registration of an immovable property right is not legally justified and that his/her own immovable property rights are adversely affected thereby may request the MCO to supplement the Register accordingly. The Register shall be supplemented by entering a caveat with respect to the registered immovable property right.
+5.2 Filing of the caveat shall neither create nor diminish the legal rights of any person. In particular, it shall not operate as a bar to the sale or other transfer of the immovable property but any purchaser shall be deemed to have notice of the Objector’s claim or interest in the registered immovable property.
+5.3 The Objector’s request shall be accompanied by the documents as required by Section 3.2 above. The procedure set out in Sections 3.3 to 3.5 shall apply mutatis mutandis for filling the caveat.
+5.4 Upon adjudication of the claim by a court of competent jurisdiction or a determination by the Housing and Property Directorate, the Housing and Property Claims Commission, or any other competent body as may be established by subsequent legislation, the MCO shall correct the Register accordingly.

@@ -1,0 +1,6 @@
+# Neni 5
+Korrigjimi i Regjistrit
+5.1 Cilido person që pretendon se regjistrimi i të drejtës mbi pronën e paluajtshme nuk është i ligjshëm dhe se i cënon të drejtat e tij/saj mbi pronën e paluajtshme (në tekstin e mëtejmë: ”Kundërshtuesi”), mund të kërkojë nga ZKK-ja që ta plotësojë Regjistrin në bazë të kërkesës së tij. Regjistri do të plotësohet me futjen e vërejtjes në Regjistrin mbi të drejtat e pronës së paluajtshme të regjistruara.
+5.2 Parashtrimi i vërejtjes nuk do të krijojë dhe as nuk do të zvogëlojë të drejtat ligjore të asnjë personi. Aq më tepër, vërejtja nuk mund të shërbejë si ndalesë për shitje apo qarkullim të pronës së paluajtshme, por çdo blerës do të njoftohet për vërejtjen apo interesin e Kundërshtuesit mbi pronën e paluajtshme të regjistruar.
+5.3 Kërkesa e Kundërshtuesit do të shoqërohet me dokumentet e përcaktuara me nenin 3.2 më sipër. Procedura e paraparë me nenin 3.3 e deri më 3.5 do të zbatojë parimin mutatis mutandis për futjen e vërejtjes.
+5.4 Pas zgjidhjes së kërkesës nga gjykata kompetente ose vendimit të Drejtorisë për Çështje Pronësore-Banesore, përkatësisht Komisionit për Çështje Pronësore-Banesore ose të ndonjë organi tjetër kompetent i cili mund të themelohet me ligje të mëvonshme, ZKK-ja do ta bëjë korrigjimin e Regjistrit.

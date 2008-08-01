@@ -1,0 +1,10 @@
+# Neni 3
+Regjistrimi i të drejtave të pronave të paluajtshme
+3.1 Kërkesat për regjistrimin e të drejtave të pronave të paluajtshme i parashtrohen me shkrim ZKK-së në territorin ku ndodhet prona e paluajtshme. ZKK-ja do të konfirmojë datën dhe kohën e pranimit të kërkesës për regjistrim.
+3.2 Parashtruesi që kërkon regjistrimin e të drejtave të pronave të paluajtshme, kërkesës duhet t’ja bashkangjes dokumentacionin përkatës për të mbështetur të drejtën e pronës së paluajtshme siç kërkohet me ligjin në fuqi të përcaktuar me nenin 3.7 të këtij ligji.
+3.3 ZKK-ja do të shqyrtojë dokumentacionin e paraqitur dhe nëse ky dokumentacion nuk është i mjaftueshëm sipas ligjit në fuqi, ZKK-ja cakton afatin për parashtruesin për ta kompletuar dokumentacionin.
+3.4 ZKK-ja e refuzon regjistrimin nëse dokumentacioni i paraqitur nuk është i mjaftueshëm të provojë se parashtruesi i kërkesës është bartës i:
+(i) të drejtës së pronës së paluajtshme, të kërkuar për regjistrim; (ii) nëse kërkesa dhe dokumentet mbështetëse përmbajnë parregullsi të dukshme; (iii) nëse validiteti i kërkesës ose ndonjë nga dokumentet mbështetës është në pyetje; dhe (iv) nëse dokumentacioni nuk është i kompletuar dhe nuk paraqet bazë për regjistrim.
+3.5 ZKK-ja do të marrë vendim me shkrim në pajtim me nenet 3.3 deri 3.4.
+3.6 Pa prejudikuar nenet 3.3 dhe 3.4, ZKK-ja bën regjistrimin e të drejtës mbi pronën e paluajtshme, brenda pesëmbëdhjetë (15) ditëve, prej ditës së pranimit të kërkesës për regjistrim dhe lidhur me të do ta njoftojë parashtruesin e kërkesës. Regjistrimi hyn në fuqi kur vendimi për regjistrim i ZKK-së futet në Regjistër.
+3.7 Pa prejudikuar nenin 1.2 (b) të Rregullores Nr. 1999/23, të UNMIK-ut (mbi Themelimin e Drejtorisë për Çështje pronësore-banesore dhe Komisionit për kërkesa pronësore-banesore) ZKK-ja do të regjistrojë të drejtën e pronës së paluajtshme në Regjistër vetëm nëse gjykata kompetente i ka dhënë dokumentin përkatës me shkrim ZKK-së për regjistrimin e të drejtës së pronës së paluajtshme në Regjistër.
