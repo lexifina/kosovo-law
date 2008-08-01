@@ -1,0 +1,8 @@
+# Article 21
+Harvesting Non-Wood Forest Products
+21.1 (a) No person may harvest Non-Wood Forest Products for commercial purposes from land under the administration of the Forest Agency without a licence.
+(b) The Minister may, by rule, set out threshold quantities for Non-Wood Forest Products, and any harvest above those quantities in a calendar year shall be presumed to be for commercial purposes.
+21.2 The Forest Agency may issue licences to harvest Non-Wood Forest Products upon finding that the harvest is consistent with sustainable use of the forest.
+21.3 The Forest Agency may delegate the authority to issue licences under this Article to any local government, natural person, or legal person.
+21.4The Government shall, with the proposal of the Ministry, set fees for licences to harvest Non-Wood Forest Products, based on the specific product and amount harvested, plus a charge to cover the cost of writing the licence.
+21.5 (a)In the case of licences issued by the Forest Agency, the Forest Agency shall collect the fee from the licence holder and shall pass on the portion of the fee representing the cost of writing the licence to the Central Fiscal Authority for addition to the Kosovo Consolidated Budget and shall pass the remainder of the fee to the Forest Restoration Fund. (b)The fees from issued licences from the Forest Agency, pursuant to this Article shall be sent to the Kosovo Consolidated Budget. From the funds gathered from standing wood harvest (licences) 20 % shall be dedicated to the relevant municipal budged, proportional with the amount of taxes gathered in the municipality.

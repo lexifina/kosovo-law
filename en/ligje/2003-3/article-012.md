@@ -1,0 +1,12 @@
+# Article 12
+Private Forest Management and Timber Harvest
+12.1 The Minister may promulgate the following kinds of rules regarding management of private forests:
+1. General standards for management;
+2. Requirements to prepare or revise management plans with the advice and approval of the Forest Agency for— - Parcels of 3 hectares or more or - Parcels of any size that pose special management concerns, as defined by the Minister in a rule;
+3. Requirements to follow management plans after they are approved; and 4. Schedules of fees for Government services to private forest owners. (b) Rules adopted under this section may set different standards, requirements, or fees for forests of different types, sizes, or locations. (c) Rules adopted under this section shall reflect the goals and standards for forest management in of this Law. (d)Fee schedules adopted under this section:
+1. Shall generally reflect the costs of offering the service;
+2. May include reductions to account for property owners’ ability to pay or to compensate for the benefit to the public of good private forest stewardship;
+3. Shall be publicly proposed by the Forest Agency and be reviewed by the Forest Advisory Board before being approved by the Minister.
+12.2 (a) When applying standards and planning requirements under this Article, after giving written notice to the owners, the Forest Agency may treat a group of separate parcels in close proximity and owned by the same persons, or by a group of related persons, as a single parcel. (b) The Forest Agency shall encourage owners of small parcels to join together inforest management associations and, with the consent of such owners, may treat parcels of such an association as a single parcel under this section.
+12.3 On private forests and forestland: (a) No person may cut and no owner of a Parcel may allow to be cut any tree unless an authorized official of the Forest Agency has marked the trees. (b)Officials may only mark trees if the harvest is consistent with the requirements of this Law and any rules promulgated and plans made under this Chapter. (c)When a forest owner requests the Forest Agency to mark trees for harvest— 1. After consultation with the forest owner, the Forest Agency may order the forest owner to undertake actions necessary for the regeneration or protection of the forest.
+2. If rules or plans under this Chapter apply to the forest, such orders shall be consistent with those rules or plans. (d)The Minister may by rule set fees for the marking of trees under this section.
