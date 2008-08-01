@@ -1,0 +1,2 @@
+# Article 1
+In the Law No.2003/3 for the Forests of Kosovo approved from the Assembly of Kosovo in article 36, points 36.1; 36.2; 36.3; 36.4; 36.5; and 36.7 – words “In addition to any other damages that may be due under law, the court may order a person to pay a fine” are deleted and replaced with words: “In addition to other compensation, which may be foreseen by law, the court shall fine a person for offence in compliance with the law in force”
