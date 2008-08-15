@@ -1,0 +1,6 @@
+# Article 18
+Obstacles for changing personal names
+18.1. A citizen against whom a legal proceedings is carried out for any criminal act, because of which he/she is officially prosecuted or has been sentenced for a criminal act while the sentence was not yet executed, or while legal consequences of such a sentence are still present, or the person who is confirmed to have filed a request to avoid liabilities set down by the law, shall not be allowed to change his/her personal name.
+18.2. If a citizen’s personal name has been erroneously changed, against whom a criminal proceeding is being conducted for any criminal act, the Civil Registry Office shall, within three days time limit upon the approval of such change, notify the court where the criminal proceeding is being conducted.
+18.3 The Civil Registration Office may request the Court and the Prosecutor’s Office to verify authenticity of the data submitted by the applicant with respect to the documents under Article 17 of this Law.
+18.4. If at the request of a party, the personal name has been changed through an administrative procedure of a civil registry authority, by the same procedure the party shall not be allowed, for the next 5 years, to change again his/her personal name by that civil registry authority.
