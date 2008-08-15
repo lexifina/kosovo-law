@@ -1,0 +1,2 @@
+# Neni 34
+Në kreun VI, dispozitat kalimtare dhe përfundimtare, shtohet neni i ri si vijon: “Të gjithë operatorëve të transportit urban të udhëtarëve dhe operatorëve të transportit të mallrave për nevoja personale me peshë bartëse prej 3.5 – 12 tonë, të licencuar nga Ministria, licenca ju vlen deri në skadimin e afatit të licencës, për vazhdimin e ushtrimit të këtyre llojeve të transportit do të licencohen në bazë të nenit 3 të këtij ligji.”
