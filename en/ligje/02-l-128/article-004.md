@@ -1,0 +1,7 @@
+# Article 4
+Determination of annual needs for plants, narcotic medicaments and psychotropic substances
+4.1 Determination of annual need for plants, narcotic medicaments and psychotropic substances from Table II and III of this Law, which can be produced, imported, exported and which can be placed in market throughout Kosovo, will be performed by Kosovo Agency for Medical Products (hereinafter as KAMP).
+4.2 KAPM evaluates and determines the annual needs under paragraph 1 of this Article for each operator dealing with narcotics, based on reports which are delivered not later than 15 days after ending of each quarters, by the legal persons licensed to operate with narcotics.
+4.3 Determination of annual needs of institutions under Articles 15 and 16 for plants and narcotics from Tables I, II and III will be done by Committee for narcotics, based on six months reports that are handed over not later than 15 days after six months ending.
+4.4 KAPM, after the approval by Minister of Health, delivers the final annual reports and assessment for annual needs for narcotic medicaments and psychotropic substances to Committee for narcotics till 31 of March of the sequential year.
+4.5 KAPM in compliance with international conventions for narcotics control, delivers to International Authorities, especially to International Board for narcotics control, the data for annual needs for narcotic medicaments and psychotrope substances for Kosovo territory.

@@ -1,0 +1,7 @@
+# Neni 4
+Përcaktimi i nevojave vjetore për bimë, barna narkotike, substanca psikotrope
+4.1 Përcaktimi i nevojave vjetore të barnave narkotike dhe substancave psikotrope nga Tabela II dhe III e këtij ligji, të cilat mund të prodhohen, importohen, eksportohen dhe të cilat mund të nxirren në treg në territorin e Kosovës, bëhet nga Agjencioni i Kosovës për Produkte Medicinale ( në vazhdim AKPM).
+4.2 AKPM vlerëson dhe përcakton nevojat vjetore nga paragrafi 1 i këtij neni për secilin operues me narkotikë, në bazë të raporteve të personave juridik të licencuar për operim me narkotikë, të cilët dorëzohen jo më vonë se 15 ditë pas mbarimit të çdo tre mujori.
+4.3 Përcaktimi i nevojave vjetore të institucionet nga neni 15 dhe 16 për bimëve dhe narkotikëve nga Tabela I, II dhe III e këtij ligji, bëhet nga ana e Komisionit për narkotikë, në bazë të raporteve gjashtëmujore të cilat dorëzohen jo më vonë se 15 ditë pas mbarimit të gjashtëmujorit.
+4.4 AKPM, pas miratimit të Ministrit të Shëndetësisë, i dorëzon raportet përfundimtare vjetore dhe vlerësimin e nevojave vjetore për barna narkotike dhe substanca psikotrope Komisionit për narkotikë deri më 31 Mars të vitit vijues.
+4.5 AKPM në pajtim me konventat ndërkombëtare për kontrollin e narkotikëve, i dorëzon Autoriteteve ndërkombëtare, veçanërisht Bordit ndërkombëtarë për kontroll të narkotikëve, të dhënat për nevojat vjetore për barna narkotike dhe substanca psikotrope për territorin e Kosovës. .
