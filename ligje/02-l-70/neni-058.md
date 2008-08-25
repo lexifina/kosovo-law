@@ -1,0 +1,12 @@
+# Neni 58
+58.1. Shpejtësia e lëvizjes se mjeteve në rrugë kufizohet:
+a) në 80 km/h, për mjetet e transportit me masën më të madhe të lejuar deri 7500 kg, për autobusë, për autobusë me rimorkio të lehtë dhe për mjetet motorike të cilat tërheqin rimorkio për banim (kamp - shtëpizën);
+b) në 70 km/h për autobusë kur kryhet transportimi i organizuar i fëmijëve , për autobusët nyjor ,pa vend qëndrim në këmbë, për mjetet e transportit me masën maksimale të lejuar mbi 7500 kg, për mjete e transportit me mjete bashkangjitëse dhe për mjetet të cilat transportojnë materie të rrezikshme;
+c) në 50 km/h për autobus me rimorkio për transportimin e njerëzve, për autobusë urban, për autobusë të cilët përpos ulëseve të montuara, ka vende për qëndrim në këmbë dhe mjetet e transportit të cilat kryejnë transportin grupor të njerëzve;
+d) në 40 /h, për mjetin i cili e tërheq mjetin tjetër të prishur, traktori dhe motoçikletë (përfshirë edhe rimorkion anësore) dhe çiklomotor që përdoret për transportim të fëmijëve deri në moshën 7 vjeçare;
+e) në 30 km/h për mjetet më mekanizma të qitura përpara më shumë se 1.5 m, e matur prej ulëses së shoferit (në 30 km/orë brenda zonave të banuara, përkatësisht në 60 km/orë jashtë zonave të banuara).
+58.2. Përjashtimisht nga paragrafi 1 i këtij neni, në autostradë, rrugë të rezervuar për komunikacion të mjeteve motorike dhe rrugë të shpejtë shpejtësia për këto mjete kufizohet:
+a) në 100 km /h për autobusë me masën më të madhe të lejuar mbi 12000 kg, përveç autobusëve të cilët transportojnë grupe të organizuar fëmijësh, b) në 85 km /h për mjetet e transportit me masën më të madhe të lejuar mbi 12000 kg, përveç mjeteve të cilat transportojnë materie të rrezikshme, c) në 80 km/h për mjetet e transportit me mjetet bashkangjitëse.
+58.3. Kur drejtohet mjeti nga paragrafi 1 dhe 2 i këtij nenit shoferët detyrohen t’iu përmbahen shpejtësisë së lëvizjes sipas rregullave 1 dhe 2 edhe në rrugë në të cilën me këtë ligj ose me shenjë të komunikacionit është lejuar shpejtësia më e madhe.
+58.4. Për shkelje të kësaj disopzite, dënohet me gjobë prej 35 €, shoferi që me mjet lëvizë jashtë zonave të banuara me shpejtësi prej 10 km/h më të madhe se sa limitin e kategorisë së shpejtësisë së mjetit ose të përcaktuar me shenjë të komunikacionit.
+25 58.5. Për shkelje të kësaj disopzite, dënohet me gjobë prej 25 € shoferi që me mjet lëvizë jashtë zonave të banuara me shpejtësi deri në 10km/h më të madhe se sa limitin e kategorisë së shpejtësisë së mjetit ose të përcaktuar me shenjë të komunikacionit.

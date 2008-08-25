@@ -1,0 +1,3 @@
+# Neni 163
+163.1. Shoferi i mjetit i cili has në rrugë mjetin ose kolonën e mjeteve nën përcjelle dhe shoferi të cilin e arrin mjeti nën përcjelle ose kolona e mjeteve nën përcjelle është i detyruar ta ndal mjetin e vet, që natën në vend të dritave të gjata ti përdorë dritat e shkurta për ndriçimin e rrugës, tu përmbahen në mënyrë të 52 përpiktë urdhrave që ia japin personat që i përcjellin mjetet dhe ta vazhdojë lëvizjen vetëm pasi të kalojnë të gjitha mjetet në përcjelle.
+163.2. Për shkelje të kësaj disopzite, dënohet me gjobë prej 65 €, shoferi i mjetit nëse vepron në kundërshtim me dispozitat e paragrafit 1 të këtij neni.

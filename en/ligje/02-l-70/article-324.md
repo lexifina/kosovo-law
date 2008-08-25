@@ -1,0 +1,3 @@
+# Article 324
+324.1. Entity for the technical control of vehicles is obliged to accomplish the technical control of vehicles with the foreseen equipments which are tested and technically in order, according to the standards for technical control performance and the vehicle technical regularity.
+324.2. For a violation of this provision, in an amount from 3.500 to 5.500€ shall be fined the entity for the technical control of vehicles if he orders or allows technical control to be performed on the outfits and equipments which are not according the rules or are broken or in contradiction with the rules of the technical control.

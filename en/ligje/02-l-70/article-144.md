@@ -1,0 +1,4 @@
+# Article 144
+144.1. If the pedestrian column walks on the limited conditions of visibility:
+a) the first and the last person, on the left side of the column, must carry a light, the first person with the white light facing forward while the last person with the red light facing rearwards, b) in a column from 20 meters and longer, the mentioned persons on the point 1 are obliged to wear or carry retro-reflective materials with parameters and standards and beside this, persons who walk on the left side of the column are obliged to carry white light in such way, that the distance between them is not more than ten (10) meters, c) lights, lamps and reflective lights must be visible from a distance not smaller than 150 meters.
+144.2. For a violation of this provision, in an amount from 25 € shall be fined, the pedestrian column leader who acts in contradiction with the provisions of this Article.

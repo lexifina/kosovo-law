@@ -1,0 +1,3 @@
+# Neni 298
+298.1. Rregullat e këtij Ligji mbi kohëzgjatjen e drejtimit të mjetit dhe pushimit të shoferit aplikohen edhe ndaj shoferëve të mjeteve të regjistruara jashtë Kosovës kur ato mjete drejtohen në territorin e Kosovës në qoftë se më Marrëveshje ndërkombëtare nuk është e përcaktuar ndryshe.
+298.2. Autorizohet ministri Ministrisë së Transportit dhe Post-Telekomunikacionit që ti nxjerrë rregullat ligjore mbi kohëzgjatjen e përgjithshme të drejtimit të mjeteve; mbi mënyrën e punës së ekuipazheve të ndara në mjet; mbi pushimin e shoferëve lidhur me drejtimin e mjetit; mbi formën dhe përmbajtjen e librezës individuale të mbikëqyrjes dhe udhëzimet mbi plotësimin e të njëjtës.

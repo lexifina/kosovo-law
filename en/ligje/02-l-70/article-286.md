@@ -1,0 +1,3 @@
+# Article 286
+Persons who on the continuation must pass the medical examination in way to ascertain that does it have or not any indices regarding with health that contradicts the motored vehicle are:
+a) persons who wish to take the drivers license, b) persons which apply for their driver’s license return, which is revoked for reasons of their weakly health, c) drivers which are reported from the Kosovo Police Service that they have participated on traffic accidents with fatalities, or have driven the motored vehicle under alcohol influence, drugs or narcotic medicines, d) handicapped person if exists any base that shows that his driving capacities are degenerated, e) the candidates for driving instructor or the driver license examiners.

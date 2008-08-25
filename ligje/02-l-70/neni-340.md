@@ -1,0 +1,5 @@
+# Neni 340
+340.1. Shpejtësia e lëvizjes së mjetit konstatohet me pajisje të matjes së shpejtësisë së lëvizjes së mjetit, me të dhëna në tahograf apo duke ndjekur (përcjellë), drejtpërdrejt mjetin. 98
+340.2. Fotografia dhe video-përshkrimi me të dhëna për shpejtësinë e konstatuar, të dhënat në tahograf dhe procesverbali për leximin në radar pa përshkrim dhe pa shpejtësimatës, shërbejnë si provë e shpejtësisë së konstatuar të lëvizjes së mjetit.
+340.3. Nuk munden të shfrytëzohen ose të instalohen pajisjet apo pajimet në mjet të cilat kanë qëllim të pengojnë pajisjet të cilat i shfrytëzojnë personat e autorizuar të cilët mbikëqyren komunikacionin në rrugë. Nëse personi i autorizuar takon shoferin i cili i shfrytëzon ose i ka të instaluar në mjet këto pajisje ose pajime e urdhëron shoferin që ta mënjanojë, e nëse shoferi refuzon ta bëjë këtë, pajisja ose pajisja do të hiqen me shpenzime të shoferit.
+340.4. Për shkelje të kësaj disopzite, dënohet me gjobë prej 140 €, shoferi që shfrytëzon ose i ka të instaluar në mjet pajisjet dhe pajimet të cilat i shfrytëzojnë personat e autorizuar të cilët kryejnë mbikëqyrjen e komunikacionit në rrugë.

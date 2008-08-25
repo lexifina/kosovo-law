@@ -1,0 +1,5 @@
+# Article 155
+155.1. On the road passage through the railway track without protection mechanisms and for giving the signals with which is informed the train approach, driver is obliged first to insure that on the railway track is not approaching any vehicle, before crossing the railway track.
+155.2. Its forbidden for the driver:
+a) to cross sideways the barriers or half barriers and to enter on the road passageway through the railway on conditions when the barriers or half barriers already started to land or the upswing of the barriers or the half barriers did not end, b) to enter, on the road passageway through the railway track, if does not have available enough space on the other side of the passageway for the movement continuation, c) to pass the vehicle while waiting the opening of the barriers or half barriers.
+155.3. For a violation of this provision, in an amount from 130€ shall be fined, vehicle driver who acts in contradiction with the provisions of this Article and to the same one at once shall be pronounced the measure of motored vehicle operation forbiddance to 3 months and 1 negative point.

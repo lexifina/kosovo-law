@@ -1,0 +1,4 @@
+# Neni 269
+269.1. Personit i cili e ka dhënë provimin për shofer të kategorive M, A1, A, B dhe C1 nuk i lejohet brenda dy viteve nga data e lëshimit të patentë shoferit që ta drejtoi mjetin në rrugë më shpejtësi më të madhe se 70km/h, në rrugë të rezervuara për komunikacion të mjeteve motorike më shpejtësi më të madhe se 80km/h, në auto-udhë 110 km/h, ndërsa për çiklomotor 40 km/h, në këto mjete nuk lejohet tërheqja e mjeteve bashkangjitëse si dhe transporti i organizuar i fëmijëve.
+269.2. Personat nga paragrafi 1 i këtij nenit nuk i lejohet drejtimi e as ta filloj të drejtuarit e mjetit me veprim motorik nëse në organizëm ka droga, alkool, ose shfaqen shenja të alkoolizimit.
+269.3. Për shkelje të kësaj disopzite, dënohet me gjobë 130 €, dënohet shoferi nëse vepron në kundërshtim me rregullat e paragrafit 2 të këtij neni dhe i shqiptohet masa e ndalimit e të drejtuarit të mjetit motorik për dy deri gjashtë muaj si dhe pesë pikë negative.

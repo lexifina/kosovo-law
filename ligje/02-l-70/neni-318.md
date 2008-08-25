@@ -1,0 +1,4 @@
+# Neni 318
+318.1. Në mjetet që huazohen, mjetet me të cilat bëhet aftësimi i kandidatëve për patentë shoferë, mjetet taksi, autobusët, mjetet transportuese për bartjen e mallrave të rrezikshme, mjetet transportuese masa më e madhe e lejuar e të cilave kalon mbi 7.500 kg dhe mjetet bashkangjitëse (në tekstin e mëtutjeshëm: rimorkio), kryhet kontrollimi teknik preventiv në pajtim me paragrafin 3 të këtij neni.
+318.2. Me përjashtim nga paragrafi 1 i këtij neni, kontrollimit teknik periodik nuk i nënshtrohen rimorkiot e lehta, rimorkiot për banim, rimorkiot e traktorit, mjetet e destinuara për bartjen e të vjelave, për argëtim dhe mjeteve për punëtori.
+318.3. Kontrollimet teknike preventive të mjeteve kryhen çdo ditë (kontroll teknike preventive ditore), dhe në afatet e parapara (kontrollimet teknike periodike preventive – çdo 6 muaj).

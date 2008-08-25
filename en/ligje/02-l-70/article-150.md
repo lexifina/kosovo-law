@@ -1,0 +1,5 @@
+# Article 150
+150.1. Vehicle driver during the pedestrian walkway, must exercise the advanced carefulness and to give priority to pedestrian who is or enters the passageway.
+150.2. If the traffic on the marked pedestrian walkway is adjusted with lighting signs of traffic, or with the signs of the authorized person, vehicle driver is obliged to stop its vehicle in front of the marked pedestrian walkway when with the given sign the passing is forbidden.
+150.3. If the marked pedestrian walkway from the paragraph 2 of this Article lies at the road entrance, driver which moves on that road is obliged to move with a diminished speed and to let the pedestrians pass which enter the walkway and according to the need to stop the vehicle to let the pedestrians pass.
+150.4. For a violation of this provision, in an amount from 130 € shall be fined, vehicle driver who acts in contradiction with the provisions of this Article at the same time will be pronounced the measure of motored vehicle operation forbiddance to 6 months and 2 negative points.

@@ -1,0 +1,3 @@
+# Article 223
+223.1. Ministry of Transport and Communications, respectively Municipal Assemblies can on the due road and due day, to order stoppage or limitation of all vehicles or few types of vehicle, to limit the moving speed if the stopping or limitation is necessary to prevent or remove the danger for traffic participants, for undisturbed traffic development, if the traffic will be hourly and interfered.
+223.2. For a violation of this provision, in an amount from 35€ shall be fined the person who participates on the road or on a part of it on the due days or on a due period where is ordered the limitation or disallowance of all vehicles or few types of vehicles on exceptions with accordance of the rules of paragraph 1 of this Article.

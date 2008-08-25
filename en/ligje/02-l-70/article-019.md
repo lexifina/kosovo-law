@@ -1,0 +1,7 @@
+# Article 19
+19.1. For traffic adjustment are used lighting signs of traffic (on the text and further the traffic lights) with 3 colors placed vertically one above another as follows: red light on top, orange light in the middle, whilst the green light on below.
+19.2. If the traffic light is placed on top of the traffic track, light can be placed horizontally, one next to another as follows: red light on the left, orange in the middle, the green on the right. These lights have a circle form, while the green light may be on the arrow sign or few arrows placed on a black color circle.
+19.3. On the traffic light the light with red and green color can not turn on at the same time, whilst the only orange color without interruption from the green light passage at the red one, or at the same time with red – before the introduction of green light.
+19.4. The traffic light with 3 colored lights may be added by one supplemental sign with arrow form lights or some such signs, which may be placed on the corresponding side of traffic light on height in which lies the green light.
+19.5. Exceptionably from paragraph 4 of this Article, the lighting supplemental sign of traffic in green arrow form for turning left may be placed as a traffic light specific for junction emersion.
+19.6. Green color twinkling light warns the quick interruption of free passage, respectively orange light introduction and afterwards the red, whilst the orange twinkling light serves to warn traffic participants to move with an advanced carefulness. 13

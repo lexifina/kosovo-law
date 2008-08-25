@@ -1,0 +1,2 @@
+# Article 21
+For pedestrian traffic adjustment may be used the traffic light with 2 colors and sound equipments. Two color traffic light red and green to be placed vertically one under another as follows: the red light on top, while the green light below and in it is placed the pedestrian figure, at the red light on a stop position, whilst at the green color on a moving position. These two lights can not be turned on at the same time.

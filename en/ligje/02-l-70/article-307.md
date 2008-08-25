@@ -1,0 +1,5 @@
+# Article 307
+307.1. Motored vehicles and combined vehicles registered on a place outside Kosovo can participate in Kosovo’s road traffic territory only if they have valid traffic license which has released the competent organ of the place in which is registered the road vehicle also the international sign of the register place or the register place issued from the organ of the places on which the sign and the plate number is according to the rules of European Union.
+307.2. Foreign combined vehicle which it does not register must on the back part to have the rear register plate of the towing vehicle.
+307.3. For a violation of this provision, in an amount from 200€ shall be fined the driver who operates the vehicle which is not registered according to the rules of this Article.
+307.4. For a violation of this provision, in an amount from 200€ shall be fined the driver who for the registered vehicle on a place outside Kosovo does not posses the valid traffic license, register plates the international sign of the register place or tows the combined foreign vehicle which is not registered - does not have repeated the plates number of the towing vehicle.

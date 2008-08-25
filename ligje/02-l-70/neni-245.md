@@ -1,0 +1,6 @@
+# Neni 245
+245.1. Provimit për shofer mund ti nënshtrohet vetëm kandidati i cili është aftësuar në auto- shkollën e licencuar dhe nëse i plotëson kushtet e tjera për ta fituar të drejtën për të drejtuar mjetin me veprim motorik ose ti nënshtrohet provimit për shofer për kategorinë shtesë.
+245.2. Në provimin për shofer përmes testimit teorik dhe praktik përcaktohet se kandidati për shoferë a ka njohuri dhe shkathtësi sipas programit të paraparë.
+245.3. Në pjesën e provimit nga lënda të drejtuarit e mjetit motorik (pjesa praktike),kandidati pjesën e parë të provimit e jep në poligon ose ndonjë hapësirë tjetër jashtë rrugës publike ku duhet ti kryej së paku tri veprime dhe kandidati pas vlerësimit pozitiv të pyetësit, pjesën e dytë të provimit e kryen në rrugë publike.
+245.4. Kandidati për shofer gjatë kryerjes së veprimeve sipas paragrafi 3 të këtij neni duhet të jetë vetëm në mjet.
+245.5. Ministria e Transportit dhe Post-Telekomunikacionit me një akt nënligjor i përcakton kriteret dhe kushtet për pjesën e provimit në poligon ose ndonjë hapësirë tjetër jashtë rrugës publike, veprimet të cilat duhen të kryhen si dhe dimensionet e poligonit kur kryhet pjesa e parë e provimit nga lënda të drejtuarit e mjetit me veprim motorik.

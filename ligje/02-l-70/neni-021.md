@@ -1,0 +1,2 @@
+# Neni 21
+Për rregullimin e komunikacionit të këmbësorëve mund të përdoret semafori me drita dy ngjyra dhe pajisjet zanore. Semafori me drita dy ngjyrësh të kuqe dhe gjelbër vendoset vertikalisht njëra nën tjetrën si vijon: drita e kuqe lartë, kurse drita e gjelbër poshtë dhe në to është e vendosur figura e këmbësorit, te drita me ngjyrë të kuqe në pozitë të ndalur, ndërsa të ngjyra e gjelbër në pozitë të lëvizjes. Këto dy ngjyra nuk duhet të ndizen në të njëjtën kohë.

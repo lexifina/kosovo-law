@@ -1,0 +1,7 @@
+# Article 12
+12.1. Person which for cause of workings on road or other circumstances (snow slip, collapse, slide or similar) is obliged to organize alternative release of vehicles from the opposite direction, adjustment can make also while placing the light traffic signs which will be placed temporarily.
+12.2. Prior of commencing works foreseen in paragraph 1 of the present Article (except in emergency cases) a person must have been granted permission by competent organs depending on the road type and inform the police regarding this.
+12.3. Alternative release of vehicle from the opposite direction foreseen from paragraph 1 of this Article exceptionally can make the representatives who accomplish the workings on the road until they place the light traffic signs temporarily.
+12.4. In case if traffic adjusts according to paragraph 3 of this Article representatives of working accomplisher must use retro-reflective elements which are visible for other traffic participants.
+12.5. For a violation of this provision, in an amount from 530 to 2.000€ shall be fined a person if during the working performance on the roads or when other circumstances exist, does not organize the alternative release in accordance with regulations of this law or does not posses the license from paragraph 2 of this Article.
+12.6. For a violation of this provision, in an amount from 35€ shall be fined the natural person who acts in contradiction with the determined rules of paragraph 3 and 4 of this Article.

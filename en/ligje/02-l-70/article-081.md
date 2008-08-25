@@ -1,0 +1,4 @@
+# Article 81
+81.1. Overpassing is prohibited:
+a) directly in front and on the pedestrian walkway, with exception on pedestrian walkway where the traffic is adjusted by traffic lights or by the authorized person, b) for the vehicle who is moving on the same direction but stops on way to give priority to the pedestrian, c) directly in front and on the bicycle passageway, d) more than 2 vehicles, which does not create vehicle column pursuant to this law, e) vehicle column, f) on the bustle track, deceleration and emergency stop.
+81.2. For a violation of this provision, in an amount from 65€ shall be fined, vehicle driver who acts in contradiction with the provisions of this Article and also will be pronounced the defense measure of motored vehicle operation forbiddance in duration from 3 to 6 months, and 2 negative points.

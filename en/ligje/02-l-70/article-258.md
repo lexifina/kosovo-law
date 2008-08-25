@@ -1,0 +1,2 @@
+# Article 258
+Driving exam will be cancelled and drivers license will be taken away, license of drivers instructor, if ascertained that the exam is accomplished on base of fake document or the incorrect pronounced on introduction sheet for giving the exam for driver, on base of giving bribery, if the candidate on case of passing the exam for driver is served with outfits that are not allowed and if the exam is maintained in contradiction of this law.

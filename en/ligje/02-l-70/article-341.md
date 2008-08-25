@@ -1,0 +1,5 @@
+# Article 341
+341.1. Kosovo Police Service, will take away the drivers license from the driver and the driving instructor for which during the control is ascertained that it is made incapable physically or mentally to operate the vehicle, for the time till that incapability continues.
+341.2. To the driver or the driving instructor, who has the right to operate motored vehicles categorically higher, and this right for the due category will be limited for the foreseen motives on paragraph 1 of this Article, will be cancelled on the license those categories or, with his request, will be issued the new drivers license, on which will be noted those motored vehicle categories which has the right to operate.
+341.3. To the driver or the driving instructor, who does not expose the medical control observer on which send, will be taken away the license increasingly until exposes that control.
+341.4. Against the decision of taking the drivers license or the drivers instructor in term from 3 days, can introduce clamor to the competent authorities, which will decide for him in term from 8 days since the day of introducing the clamor.

@@ -1,0 +1,5 @@
+# Article 219
+219.1. Organizer has for duty to interrupt the performance of the sportive and some other manifestation, respectively activities on the road:
+a) if the participants or the spectators are endangered, b) if the public order and peace brakes on mass, c) if circumstances start for cause of which the manifestation, respectively the activity will not be allowed, 66 d) if the organizer does not apply the due safety measures, e) if this seeks the other safety measures.
+219.2. If the organizer does not interrupt the manifestation, respectively the activity on the case from paragraph 1 of this Article, the Kosovo Police Service, respectively the police station will order the organizer to interrupt the manifestation respectively the activity and to initiate the necessary measures that the order would be accomplished.
+219.3. For a violation of this provision, in an amount from 200 to 700€ shall be fined the organizer of the sportive manifestations and other road activities, if does not interrupt the manifestations or sportive activities and if he acts in contradiction with the provisions of this Article.

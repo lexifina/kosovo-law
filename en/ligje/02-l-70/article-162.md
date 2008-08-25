@@ -1,0 +1,5 @@
+# Article 162
+162.1. By vehicles under escort, according to this law are understood the vehicles to which is nominated the escort from the KFOR with special vehicles equipped with outfits for emission of sound signals, lighting with red and blue colors also with regular police vehicles during the time while these signs are given.
+162.2. Vehicles under escort while having carefulness on the safety of other traffic participants they have the right of priority passing towards all other vehicles except on crossroad (junction) where the traffic is adjusted by the signs of the authorized person.
+162.3. Authorized person that adjusts the road traffic is obliged to make conditions that the vehicles with priority passing will pass with no interruptions.
+162.4. Vehicles with priority passing have the right not to apply the rules of traffic, when those vehicles give signals with red and blue lights and sound signals with changeable intensity, except in cases when with such act would be endangered other traffic participants.

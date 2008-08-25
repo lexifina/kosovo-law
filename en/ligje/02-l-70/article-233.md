@@ -1,0 +1,4 @@
+# Article 233
+233.1. The license for the professional discourser and for the driving instructor issues the Ministry of Transport and Communications, whilst for the discourser from the educational matter “giving the first aid” to the injured persons on a traffic accident makes the institution which authorizes the Ministry of Transport and Communication in cooperation with the Ministry of Health.
+233.2. For a violation of this provision, in an amount from 500 to 1.100€ shall be fined the person who orders or allows to make the candidate capability with no valid license issued from the institution which authorizes the Ministry of Transport and Communications.
+233.3. For a violation of this provision, in an amount from 130€ shall be fined, driver who makes the candidate capability for driver with no valid license or does not have the respective license for the vehicle category with which is performed the candidate capability for driver.

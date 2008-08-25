@@ -1,0 +1,4 @@
+# Neni 283
+81 283.1. Shoferi i mjetit motorik, të dizajnuar për transportimin e udhëtarëve, shoferi i mjetit motorik transportues, i bashkësive të mjeteve me masë të përgjithshme më shumë se 7.5 tona, duhet të posedoj certifikatën shëndetësore, në rast se mjetet e tilla përdoren për transport komercial të njerëzve dhe mallrave. E njëjta vlen edhe për shoferin e mjetit motorik i cili tё drejtuarit e mjetit e ka profesion themelor.
+283.2. Për shkelje të kësaj disopzite, dënohet me gjobë prej 300 deri 700 € edhe organizata afariste ose institucioni publik në emër dhe brenda autorizimeve të së cilit ka vepruar personi i përcaktuar në paragrafin 1 të këtij neni.
+283.3. Për shkelje të kësaj disopzite, dënohet me gjobë prej 130 € edhe shoferi që nuk ka certifikatën shëndetësore të vlefshme gjatë drejtimit të mjeteve motorike për transportin e udhëtarëve ose mallit me masën më të madhe të lejuar mbi 7,5 tona apo bashkësinë e mjeteve.

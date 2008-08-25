@@ -1,0 +1,4 @@
+# Article 269
+269.1. To the person who passed the exam of categories M, A1, A, B and C1 is not allowed within 2 years from the issue date of driver’s license to operate the vehicle on the road with a speed more than 70 km/h, on the roads reserved for motored vehicles with a speed more than 80 km/h, on motorway 110 km/h, whereas for moped 40km/h, on these vehicles is not allowed the towing of combined vehicles also the organized children’s transport.
+269.2. Persons from the paragraph 1 of this Article are not allowed to them the operation of motored vehicle and not even to start the operation of motored vehicle if contains in organism drugs, alcohol or are shown alcohol signs.
+269.3. For a violation of this provision, in an amount from 130€ shall be fined the vehicle driver if he acts in contradiction with the provisions of paragraph 2 of this Article and shall be pronounced the motored vehicle operation forbiddance from 2 till 6 months as well as 5 negative points.

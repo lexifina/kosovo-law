@@ -1,0 +1,4 @@
+# Article 199
+Exceptionally from the Article 198 of this law the duty to use the safety belt does not apply for:
+a) the person who possesses the medical certificate that certifies against - indications for the safety belts use, b) pregnant woman, when the pregnancy is visible, 60 c) driving instructor or the examiner during the examination or capability, d) policeman or the other authorized personnel during the transportation of the arrested persons, e) persons for the security of the official persons (bodyguards), f) personnel of the medical service during the first aid and the emergency activities, g) guard that is carrying a considered amount of money cash, h) sick or demented person that is carried on the harrow or the handicapped seats, i) on the vehicle equipped with safety belts, child till the 12 years of age.
+31. PLACING OF SIGNS, DECORATIONS AND SOLICITUDE TOWARDS THE VEHICLE

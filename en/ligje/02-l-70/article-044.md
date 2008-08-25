@@ -1,0 +1,3 @@
+# Article 44
+Connection in traffic happens when the vehicle starts to move from the discontinuance or parking, which did not result from the circumstances or regulations of traffic and when enters:
+a) on the road from property or soil road, from sideways objects of road which leads to them, from the agriculture road or from the road onto which the public traffic is not proceeded, b) on the soil road, agriculture land or from the road on which the traffic public is not proceeded, c) on the jetty road, from sidewalk or traffic determined track for slow vehicle movement, d) on road of the bicycle path, e) on road from depot or some other start place/discontinuance fated for vehicles which move on the railway.

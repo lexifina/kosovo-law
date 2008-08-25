@@ -1,0 +1,3 @@
+# Article 216
+216.1. Request for the sportive manifestation performance or some other manifestation or activities on road, will be refused if the organizer, according to the competent organ judgment respectively Kosovo Police Service, is not able to execute measures from Article 60 paragraph 2 of this law.
+216.2. If for cause of sportive manifestation performance or some other manifestation or making activities on road, should stop the movement at the most important traffic directions or with manifestation, respectively with this activity would endanger on a big mass or it will disturb the road traffic, request for permit issue can be refused.

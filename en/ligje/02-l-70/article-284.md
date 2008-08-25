@@ -1,0 +1,5 @@
+# Article 284
+284.1. Driver from the Article 283 must pass the medical examination in way to ascertain that does it have or not any indices regarding with health that resist the motored motion vehicle allurement. Such control is performed before releasing the first sanitary certificate and after, every 5 years during the period till the age of 55 and for every two years after the age of 55. 81
+284.2. For the examinations and tests from paragraph 1 of this Article it has to be paid, from the owner of the transporting company if hires any driver or he is a driver himself (driver-operator case).
+284.3. For a violation of this provision, in an amount from 130€ shall be fined the vehicle driver if does not posses the sanitary certificates with him or the one that is not valid.
+284.4. For a violation of this provision, in an amount from 300 to 700€ shall be fined also the Business Organization or the Public Institution in the name and within the authorization of which the vehicle driver, determined in paragraph 2 of this Article, has acted.

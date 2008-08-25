@@ -1,0 +1,2 @@
+# Neni 258
+Do të anulohet provimi për shofer dhe do të merret patentë shoferi, licenca për Shofer instruktor, nëse konstatohet se dhënia e provimit është kryer në bazë të dokumentit të rrejshëm ose të dhënave jo të sakta të theksuara në fletëparaqitje për dhënien e provimit për shofer, në bazë të dhënies së mitos, në qoftë se kandidati me rastin e dhënies së provimit për shofer është shërbyer me mjete jo të lejuara dhe nëse provimi është mbajtur në kundërshtim me rregullat e këtij ligji.

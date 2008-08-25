@@ -1,0 +1,4 @@
+# Article 346
+346.1. Person from Article 242 of this law who refuses to expose the verification of the knowledge or who during the verification of the knowledge does not show positive results, it will be taken the license, and respectively it will be forbidden the work until he shows positive results.
+346.2. Persons, from paragraph 1 of this Article, who during the verification of the knowledge do not show positive results, with their request can expose the anew verification after the term which determines the Ministry of Transport and Communications and not less than 15 days since the day of the last verification.
+346.3. If the persons, from paragraph 1 of this Article, and after 3 verifications do not show duly knowledge, they can not approach the verification again until 6 months pass since the day of the last verification.

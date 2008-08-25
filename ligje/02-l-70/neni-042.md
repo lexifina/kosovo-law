@@ -1,0 +1,4 @@
+# Neni 42
+42.1. Shoferi i cili në rrugë synon të bëjë ndonjë veprim me mjetin (lëvizjen e mjetit në anën e djathtë ose të majtë, të ndërrojë shiritin e komunikacionit, të tejkaloj ,anashkaloj,të ndal mjetin, kthimin në anën e djathtë ose në të majtë,kthimin gjysmë-rrethore,drejtimin e mjetit prapa e të ngjashme), i lejohet të fillojë një manovrim të tillë, vetëm nëse më parë është i bindur se mund të bëjë një gjë të tillë duke mos rrezikuar apo penguar pjesëmarrësit tjerë në komunikacion ose pasurin, duke u kujdesur me këtë rast për pozitën e mjetit dhe për drejtimin dhe shpejtësinë e lëvizjes.
+42.2. Shoferi i mjetit duhet të veproj sipas paragrafit 1 të këtij neni edhe kur kyçet në komunikacion.
+20 42.3. Për shkelje të kësaj disopzite, dënohet me gjobë prej 35 € shoferi që vepron në kundërshtim me dispozitat e këtij neni.

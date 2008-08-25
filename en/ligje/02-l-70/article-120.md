@@ -1,0 +1,2 @@
+# Article 120
+Motored vehicle at which the length does not cross 8 meters and the width of 2 meters, and to which is not attached the combined vehicle, when it is stopped or parked on the road inside inhabited zone, instead of lights according to the Article 118 of this law thou have lightened a light which from the front part is seen white, and one (1) light from the back part as red, and placed on the opposite side from the road edge in which the vehicle is stopped or parked.

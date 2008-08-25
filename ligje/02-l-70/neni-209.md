@@ -1,0 +1,4 @@
+# Neni 209
+209.1. Në çoftë se institucioni shëndetësorë është njoftuar për aksidentin e komunikacionit apo ka pranuar për ta shëruar personin që është lënduar në aksident, ka për detyrë që për këtë ta njoftoj menjëherë Shërbimin Policor të Kosovës.
+209.2. Në çoftë se personi i lënduar në aksidentin e komunikacionit, vdes nga lëndimet e marra, institucioni shëndetësor ka për detyrë që për këtë të njoftoj Shërbimin Policor të Kosovës.
+209.3. Për shkelje të kësaj disopzite, dënohet me gjobë prej 300 deri 1.500 €, institucioni shëndetësor nëse nuk e lajmëron Shërbimin Policor të Kosovës për të lënduarit ose të vdekurit në aksidentin e komunikacionit rrugor në pajtim me paragrafin 1 dhe 2 të këtij neni. Në këtë rast, me gjobë prej 100 deri 300 €, dënohet edhe personi përgjegjës në institucionin shëndetësor.

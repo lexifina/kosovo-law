@@ -1,0 +1,6 @@
+# Neni 189
+189.1. Në mjetin transportues në hapësirën për vendosjen e ngarkesës ose në mjetin bashkangjitëse të cilin e tërheq traktori, në bazë të lejes së veçantë mund të barten më shumë se pesë persona të cilët punojnë në ngarkim dhe shkarkim ose punë të tjera, nga vendi i banimit deri te vendi i punës ose anasjelltas ose prej një vendi në vendin tjetër. Shoferi duhet ta ketë me vete lejen e veçantë dhe ta tregoj në rastin kur i kërkohet nga personat e autorizuar.
+189.2. Transporti i personave në mjetin nga paragrafi 1 i këtij neni mund të lejohet edhe në raste tjera të arsyeshme.
+189.3. Shërbimi Policor i Kosovës në konsultim me Ministrin e Transportit dhe Post-Telekomunikacionit me një akt nën ligjor do ti përcaktojnë kushtet dhe kriteret për marrjen e lejes së veçantë për mjetet, të cilat kryejnë transportin e organizuar të personave.
+189.4. Për shkelje të kësaj disopzite, dënohet me gjobë prej 35 €, shoferi i mjetit që vepron në kundërshtim me dispozitat e të këtij neni.
+189.5. Për shkelje të kësaj disopzite, dënohet me gjobë prej 200 deri 550 €, edhe organizata afariste ose institucioni publik në emër dhe brenda autorizimeve të së cilit ka vepruar personi i përcaktuar në paragrafin 4 të këtij neni.

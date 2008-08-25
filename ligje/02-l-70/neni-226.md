@@ -1,0 +1,4 @@
+# Neni 226
+226.1. Shoferi i cili drejton mjetin me veprim motorik në komunikacionin rrugor duhet të jetë i aftë në pikëpamje fizike dhe psikike t’ia drejtojë mjetin me veprim motorik dhe për këtë të ketë njohuri dhe shkathtësi të nevojshme.
+226.2. Ndalohet ta drejtojë mjetin në komunikacionin rrugor shoferi që është i lodhur, i sëmur ose që ndodhet në një gjendje të tillë psikike saqë është i pa aftë për ta drejtuar mjetin në mënyrë të sigurt, si dhe shoferi që është nën ndikimin narkotikëve, barnave dhe substancave në të cilat është shënuar se ndalohet përdorimi i tyre para ose gjatë kohës së drejtimit të mjetit në komunikacionin rrugor.
+226.3. Për shkelje të kësaj disopzite, dënohet me gjobë prej 130 €, shoferi që vepron në kundërshtim me rregullat e këtij neni dhe njëkohësisht i shqiptohet masa e ndalimit të drejtuarit e mjetit me veprim motorik prej tre muaj dhe dy pikë negative. 69

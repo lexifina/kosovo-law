@@ -1,0 +1,7 @@
+# Neni 12
+12.1. Personi që për shkak të punimeve në rrugë ose rrethanave tjera (ortekët e bores, shembje, rrëshqitje ose të ngjashme), është i detyruar të organizoj lëshimin alternativ të mjeteve nga kahja e kundërt, rregullimin mund ta bëj duke i vendosur shenjat ndriçuese të komunikacionit të cilat vendosen përkohësisht.
+12.2. Para fillimit të punëve të parapara në paragrafin 1 të këtij neni (përveç në raste emergjente ) personi duhet ta ketë marrë lejen nga organet kompetente varësisht nga lloji i rrugës dhe ta ketë informuar policinë lidhur me këtë.
+12.3. Lëshimin alternativ të mjeteve nga kahja e kundërt të parapara nga paragrafi 1 i këtij neni, përjashtimisht mund të bëjnë përfaqësuesit e punë kryerësit të cilët i kryejnë punimet në rrugë deri sa nuk i vendosin përkohësisht shenjat ndriçuese të komunikacionit.
+12.4. Në rast se rregullohet komunikacioni sipas paragrafit 3 të këtij neni, përfaqësuesit e punë kryerësit, duhet të përdorin elemente retro-reflektuese të cilat janë të dukshme për pjesëmarrësit tjerë në komunikacion.
+12.5. Për kundërvajtje, dënohet me gjobë prej 530 deri 2.000 € personi që gjatë kryerjes së punimeve në rrugë ose kur ekzistojnë rrethana të tjera, nuk e organizon lëshimin alternativ në pajtim me dispozitat e këtij neni ose nuk e ka lejen sipas paragrafit 2 të këtij neni.
+12.6. Për shkelje të kësaj disopzite, dënohet me gjobë prej 35 €, personi fizik që vepron në kundërshtim me rregullat e përcaktuara në paragrafin 3 dhe 4 të këtij neni.

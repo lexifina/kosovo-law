@@ -1,0 +1,5 @@
+# Neni 341
+341.1. Shërbimi Policor i Kosovës, do t’i marrë patentën, shoferit dhe shofer instruktorit-Licencën për të cilin gjatë kontrollimit konstatohet se është bërë i paaftë fizikisht apo psiqikisht për të drejtuar mjetin, për kohën derisa zgjatë ajo paaftësi.
+341.2. Shoferit apo shofer instruktorit, i cili ka të drejtë të drejtojë mjete motorike kategorish më të larta, e kjo e drejtë për kategori të caktuara i kufizohet për shkaqe të parapara në paragrafin 1 të këtij neni, do t’i anulohen në patentë ato kategori ose, me kërkesën e tij, do t’i jepet patentë e re e shoferit, në të cilën do t’i shënohen ato kategori mjetesh motorike që ka të drejtë t’i drejtojë.
+341.3. Shoferit apo shofer instruktorit, i cili nuk i nënshtrohet kontrollimit shëndetësor mbikëqyrës në të cilin është dërguar, do t’i merret patenta gjithnjë derisa të mos i nënshtrohet atij kontrolli.
+341.4. Kundër vendimit për marrjen e patentë shoferit ose licencën e shofer-Instruktorit në afat prej tri ditësh, mund t’i paraqes ankesë në tek organet kompetente, e cili do të vendosë për të në afat prej 8 ditësh që nga dita e paraqitjes së ankesës.

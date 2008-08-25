@@ -1,0 +1,3 @@
+# Neni 330
+330.1. Nëse subjekti i kontrollimit teknik të mjeteve, në kontrollimin teknik konstaton se mjeti nuk është në gjendje teknike të rregullt ashtu që mjeti i tillë do të rrezikonte sigurinë e komunikacionit në rrugë, mjetit të tillë nuk i lëshohet vërtetimi mbi gjendjen teknike të rregullt.
+330.2. Për shkelje të kësaj disopzite, dënohet me gjobë prej 5.000 deri 8.500 €, subjekti i kontrollimit teknik nëse urdhëron, lëshon, vërtetimin për mjetin i cili nuk është në gjendje teknike të rregullt ose nuk iu ka nënshtruar fare kontrollit teknik dhe të njëjtit i merret licenca në periudhën prej tre gjerë në gjashtë muaj.
