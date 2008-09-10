@@ -1,0 +1,3 @@
+# Neni 8
+Ministria e Tregtisë dhe e Industrisë, brenda 6 muajve nga dita e shpalljes së këtij ligji, nxjerr udhëzim administrativ që rregullon përmbajtjen dhe procedurën e njoftimit dhe informimin e organeve të tjera qeveritare, të subjekteve ndërkombëtare dhe të publikut, në lidhje me rreziqet që i kanosen shëndetit ose sigurisë së njerëzve nga produktet e qitura në treg, dhe masat që merren për tërheqjen e këtyre produkteve nga tregu. Përmbajtja e këtij udhëzimi administrativ do të parasheh detyrat dhe përgjegjësitë e Departamentit për mbrojtjen e konsumatorëve, të inspektoratit të tregut dhe të organeve të tjera përkatëse përgjegjëse për mbikëqyrjen dhe krijimin e kushteve ushqimore, higjienike dhe sanitare.
+V. SANKSIONET ADMINISTRATIVE
