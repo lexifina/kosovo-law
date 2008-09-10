@@ -1,0 +1,2 @@
+# Neni 20
+Realizimi i kësaj të drejte nënkupton shtesën e posaçme me të holla, të cilën Ministria ua jep familjes ose biresuesit apo kujdestarit tjeter të fëmijës me aftësi të kufizuar, e të cilët për shkak të sëmundjes së rëndë fizike, mendore apo shqisore të lindur ose të paraqitur më vonë, të cilët për plotësimin e aktiviteteve të përditshme jetësore janë të kushtëzuar në ndihmën e personave të tjerë, për çka familja ka shpenzime të shtuara dhe të jashtëzakonshme.
