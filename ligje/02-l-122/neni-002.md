@@ -1,0 +1,2 @@
+# Neni 2
+Sipas këtij ligji prodhime organike konsiderohen bartësit e treguesve të cilët ju referohen metodave të prodhimtarisë organike, kur në etiketimin, materialin reklamues apo dokumentet përcjellëse, prodhimi i tillë apo përbërësit e tij si dhe materiali ushqyes janë përshkruar sipas treguesit “Bujqësi Organike”, duke siguruar blerësin se ai prodhim apo përbërësit e tij janë përfituar në pajtim me rregullat e prodhimit organik të vendosura sipas nenit 4 të këtij ligji.

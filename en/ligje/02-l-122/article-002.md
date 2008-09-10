@@ -1,0 +1,2 @@
+# Article 2
+According to this Law organic products shall be regarded bearers of indicators referring to the organic production method, where in the labeling, advertising material or related documents, such a product, its ingredients or feeding materials are described in terms of “Organic Farming” providing purchaser how that production or its components are presumed in accordance with the rules of organic production as specified in Article 4 of this Law.
