@@ -1,0 +1,6 @@
+# Article 45
+Filing of Trade Name Application
+45.1 If a registered business organization other than a personal business enterprise desires to engage in business activity using a trade name other than its official name, such business organization shall submit to the Registry an application for the registration of the concerned trade name. Such application shall contain the following information:
+a) the official name of the registered business organization and its registration number; and b) the trade name to be used;
+c) a statement certifying that the submission of the application was duly approved by the business organization in a manner that is consistent with (i) the present Law, and (ii) the by Laws, partnership agreement and/or other internal governance documents of the business organization; and d) a statement that the person signing and submitting such notice is an “authorized person” as defined in the present Law and that such person has been duly authorized to sign and submit such application to the Registry.
+45.2 If the application concerns a trade name that is currently registered or reserved by another person or business organization, or a trademark that is Lawfully owned or licensed to another person or organization, the application shall include as an attachment the written consent of such person or organization.

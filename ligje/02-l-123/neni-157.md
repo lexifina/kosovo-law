@@ -1,0 +1,8 @@
+# Neni 157
+Riblerja ose Revokimi i Aksioneve
+157.1 Aksionet e thjeshta të shoqërisë nuk mund të riblehen. Kompania mund të riblejë aksionet. Aksionet e emetuara të një kategorie të aksioneve të privilegjuara mund të riblehen nga kompania por vetëm nëse (i) në kushtet e kategorisë së caktuar të aksioneve të privilegjuara, që janë përcaktuar në statut, përcaktohet shprehimisht se këto aksione mund të riblehen, dhe (ii) aksionet që do të riblehen janë të paguara plotësisht.
+157.2 Kompania nuk mund të përdorë hua ose ndonjë lloj tjetër për financimin e borxhit për të paguar aksionet e riblera. Kompania i paguan këto aksione nga suficiti i saj kapital. Riblerja është e ndaluar nëse do të ndikojë negativisht në kapitalin e deklaruar të kompanisë.
+157.3 Të gjitha aksionet që janë riblerë nga kompania nuk kanë të drejta votimi, të drejta në shpërndarje ose çfarëdo të drejta tjera. Këto aksionet menjëherë duhet të anulohen nga kompania përveç nëse statuti shprehimisht e lejon kompaninë që t’i mbajë këto aksione në thesarin e saj.
+157.4 Të gjitha aksionet e shoqërisë – pavarësisht se si janë blerë ose krijuar – të cilat mbahen nga kompania ose në thesar ose në ndonjë vend tjetër, drejtpërdrejt ose tërthorazi dhe përderisa mbahen nga kompania nuk kanë të drejtë votimi ose të drejtë në pranimin e çfarëdo shpërndarjeje.
+157.5 Asnjë person ose shoqëri, duke përfshirë kompaninë, bordin e saj të drejtorëve, menaxherët ose punonjësit e tjerë nuk kanë të drejtë ose autorizim të votojnë ose të përpiqen të votojnë, drejtpërdrejt ose tërthorazi me aksionet që mbahen nga kompania në thesar ose kudo tjetër, drejtpërdrejt ose tërthorazi.
+157.6 Dispozitat e këtij neni janë të detyrueshme dhe i mbisundojnë dispozitat kundërthënëse në statutin ose rregulloren e kompanisë.

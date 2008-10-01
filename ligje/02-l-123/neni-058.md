@@ -1,0 +1,4 @@
+# Neni 58
+Autorizimi i Ortakut të Përgjithshëm për të Vepruar në Emër të Shoqërisë Kolektive
+58.1 Cilido veprim i një ortaku të përgjithshëm që bëhet me qëllim të ushtrimit të veprimtarisë së zakonshme tregtare të shoqërisë kolektive e detyron shoqërinë kolektive dhe ortakët e tjerë të përgjithshëm. Sidoqoftë, ky rregull nuk do të zbatohet nëse (i) ortaku përkatës nuk është i autorizuar që të veprojë në emër të shoqërisë kolektive për atë çështje të caktuar, dhe (ii) personi ose shoqëria me të cilin ortaku ka zhvilluar atë veprimtari ka qenë në dijeni se ortakut në fjalë i mungon autorizimi i nevojshëm.
+58.2 Cilido veprim i një ortaku të përgjithshëm që nuk bëhet me qëllim të ushtrimit të veprimtarisë normale dhe të zakonshme të shoqërisë kolektive, nuk do ta detyrojë shoqërinë kolektive ose ortakët tjerë, përveç nëse ky veprim është shprehimisht i autorizuar nga ortakët e tjerë të përgjithshëm.

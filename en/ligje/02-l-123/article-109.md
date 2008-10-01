@@ -1,0 +1,5 @@
+# Article 109
+Appointment and Removal of Managing Directors
+109.1 A company’s owners shall designate in the charter, or an amendment to the charter or in the company agreement, the specific person or persons holding the position of managing director. Such person(s) shall have the authority stated in Article 110 of this Law. If there is more than one managing director, the company agreement shall specify the respective title, duties and authority of each. A managing director may only be designated, removed or replaced by a vote of the owners. A managing director need not be an owner. A managing director must be a natural person.
+109.2 Unless otherwise provided in the company agreement, a managing director who has been elected shall continue to be a managing director until removed or replaced by a vote of the owners or until he resigns, whichever occurs first.
+109.3 Unless otherwise provided in the company agreement, a managing director may be removed by a vote of the owners. The owners are not required to state a reason for such removal, and the removed person has no right to demand or require the owners to state a reason for his/her removal.

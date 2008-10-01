@@ -1,0 +1,4 @@
+# Article 181
+Committees of the Board
+The charter or bylaws may establish, or the directors may adopt a resolution establishing, one or more committees, such as an audit or a remuneration committee review, study, make recommendations on, or take other non-binding action with respect to matters which are within the competence of the board.
+These committees may include members from the Board of Directors and company employees as well as persons outside the company. Unless the charter, bylaws or board resolution requires a greater number, a majority of the members of any such committee shall constitute a quorum and a majority of a quorum shall be necessary for any committee recommendation or other action. All decisions and other actions of a committee shall be subject to review, amendment and approval with not less than 2/3 of the board members.

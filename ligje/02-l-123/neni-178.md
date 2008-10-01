@@ -1,0 +1,5 @@
+# Neni 178
+Mbledhjet dhe Njoftimi për Mbledhjet
+178.1 Bordi i drejtorëve mban një mbledhje të rregullt e cila njihet si mbledhje vjetore, menjëherë pas çdo mbledhje vjetore të aksionarëve. Mbledhjet tjera të rregullta mbahen në kohën dhe vendin të cilin e cakton bordi në mbledhjen vjetore ose në një mbledhje tjetër të bordit për të cilën janë njoftuar të gjithë drejtorët. Njoftimi mbi mbledhjet e rregullta nuk ka nevojë të dërgohet, përveç nëse këtë e kërkon bordi.
+178.2 Mbledhjet e jashtëzakonshme të bordit të drejtorëve mund të organizohen në çdo kohë nga kryesuesi i bordit (ose në rast se kryesuesi nuk e bën këtë, atëherë nga ndonjëri drejtor) përmes dërgimit të kërkesës me shkrim nga cilido drejtorit drejtuar kryesuesit. Personi i cili e thërret mbledhjen e jashtëzakonshme duhet të lajmërojë për vendin dhe kohën e mbledhjes.
+178.3 Pjesëmarrja e një drejtori në cilëndo mbledhje përbën në vete heqjen dorë nga çdo njoftim i kërkuar për atë mbledhje, përveç kur drejtori merr pjesë në mbledhje me qëllim të vetëm për ta kundërshtuar diskutimin e pikave të mbledhjes, sepse mbledhja nuk është thirrur ose mbajtur me rregull dhe e deklaron në fillim të mbledhjes.

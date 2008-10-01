@@ -1,0 +1,5 @@
+# Neni 72
+Bartja (transferi) i Interesit në Shoqërinë Komandite
+72.1 Përveç nëse është përcaktuar ndryshe në marrëveshjen e shoqërisë komandite, ortaku i kufizuar mund ta bëjë bartjen (transferin) e interesit të tij në shoqërinë komandite pas miratimit të të gjithë ortakëve të përgjithshëm. Bartja e interesit në shoqërinë komandite përfshin edhe bartjen e të gjitha të drejtave dhe detyrimeve të ortakut të kufizuar.
+72.2 Nëse kërkohet në bazë të një urdhri të gjykatës, ortakët e përgjithshëm të shoqërisë komandite duhet të bëjnë bartjen (transferin) e interesit të ortakut të kufizuar në shoqërinë komandite tek një person ose shoqëri tjetër.
+72.3 Përveç nëse është përcaktuar ndryshe në marrëveshjen e shoqërisë komandite, me vdekjen e ortakut të kufizuar, i cili është person fizik, interesi i tij në shoqërinë komandite kalon te trashëgimtarët e tij/saj ligjor. Në rast të shpërbërjes ose likuidimit të një ortaku të kufizuar i cili është shoqëri tregtare, interesi i ortakut në fjalë në shoqërinë komandite bartet në përputhje me ligjin sipas të cilit bëhet shpërbërja e shoqërisë së tillë.

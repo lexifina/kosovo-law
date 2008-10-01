@@ -1,0 +1,3 @@
+# Article 82
+Powers
+A limited liability company has the powers necessary to carry on its business activities including, but not limited the power (i) to sue and be sued; (ii) to make contracts, borrow money, and incur other debts and liabilities; (iii) to acquire, own, lease, pledge or mortgage, or otherwise dispose of or deal with property; (iv) to acquire, own, pledge, vote, sell, or otherwise dispose of shares or other interests in another business organization, but not a personal business enterprise; and (v) to elect or appoint managers, employees and agents of the company and to fix their duties and compensation.

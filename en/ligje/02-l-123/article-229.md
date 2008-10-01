@@ -1,0 +1,9 @@
+## Chapter 12
+## Dissolution and Liquidation
+# Article 229
+Voluntary Dissolution of a Company
+229.1 A company may be dissolved, and its business shall then be wound up and liquidated, at any time by decision of its shareholders, as follows:
+a) either the board of directors of the company or shareholders shall adopt a decision directing that the proposed winding up and liquidation be submitted for approval to a shareholder meeting, which may be either an annual or extraordinary meeting. They shall provide a plan for the winding up and liquidation, with procedures to be followed, schedules and time periods for the liquidation activities, and procedures for distribution to shareholders of the company’s property remaining after creditors’ claims are satisfied,
+b) written notice of the proposal and plan shall be given to all shareholders entitled to attend the meeting, and
+c) at the meeting the proposal shall be approved and adopted upon receiving the affirmative vote of at least two-thirds of the votes of the shares entitled to vote on the proposal at such meeting, except that if any type or class of shares is entitled to vote on the proposal as a group, the proposal shall be adopted upon receiving the affirmative votes of at least two-thirds of the votes of the shares of each group entitled to vote as a group on the change. Separate voting by a voting group in any company shall be required if it is required by the company’s charter.
+229.2 The charter of any company may supersede the two-thirds vote requirement of paragraph 1 of this Article as to that company by specifying any larger vote requirement not less than two-thirds of the votes of the shares entitled to vote on the issue and not less than two-thirds of the votes of the shares of each voting group entitled to group voting on the issue.

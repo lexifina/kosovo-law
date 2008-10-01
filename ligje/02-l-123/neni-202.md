@@ -1,0 +1,5 @@
+# Neni 202
+Të Drejtat e Votimit të Poseduesve të Caktuar
+202.1 Aksionari, aksionet e të cilit janë venë si peng, ka të drejtë vote përderisa aksionet në fjalë t’i jenë bartur peng-marrësit, pastaj pengmarrësi fiton të drejtën e votimit për atë aksion. Nëse megjithatë marrëveshja e pengut dhuron të drejtën e votës te pengu dhe kjo evidencohet në mbledhjen përkatëse të aksionarëve, pengmarrësi do të ketë të drejtë që të votojë aksionet.
+202.2 Aksionet të cilat mbahen në emër të një personi të vdekur, një personi të mitur ose ndonjë personi tjetër i cili nuk ka aftësi juridike për të vepruar, mund të votohen nga përfaqësuesi ligjor i personit në fjalë sipas ligjit, personalisht ose përmes përfaqësuesit të përcaktuar nga përfaqësuesi ligjor, pa bërë bartjen e aksioneve në fjalë në emër të përfaqësuesit të tillë.
+202.3 Aksionet që janë në emër të një pranuesi, likuidatori, administratori në falimentim ose personi të ngjashëm, mund të votohen nga personi në fjalë ose përfaqësuesi i tij i autorizuar pa bërë bartjen e aksioneve në emër të personit të tillë, nëse autorizimi për këtë është përcaktuar në urdhrin e gjykatës.

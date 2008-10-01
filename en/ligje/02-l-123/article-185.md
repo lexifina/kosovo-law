@@ -1,0 +1,4 @@
+# Article 185
+Removal of Officers
+185.1 Any officer may be removed by the board of directors from his position at any time in their discretion, with or without specific cause, but such removal shall not prejudice contract or employment Law rights, if any, of the officer concerned.
+185.2 A company and any officer may enter into an employment agreement that specifies the salary or other compensation to be paid to such officer, the officer’s specific duties, the terms of the officer’s employment and other mutually-agreed matters. Employment as an officer shall not of itself create contract rights. Any such employment agreement shall be consistent with the present law and any applicable provision of the charter or bylaws. Any provision of such an employment agreement that is inconsistent with the present law, the charter or the bylaws shall be void and unenforceable or, if possible, reformed interpreted and/or applied in a manner that eliminates that inconsistency.

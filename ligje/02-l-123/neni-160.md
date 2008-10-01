@@ -1,0 +1,16 @@
+# Neni 160
+Blerja e Aksioneve të veta nga Shoqëria
+160.1 Kompania mund t’i blejë aksionet e veta ose letrat e tjera me vlerë të papaguara në çdo kohë me pëlqimin e pronarëve të këtyre letrave me vlerë. Aksioni i blerë në këtë mënyrë duhet të jetë i autorizuar por jo aksioni i pa-emetuar, përveç nëse statuti e ndalon riemetimin e aksioneve të ri-blera atëherë numri i aksioneve të autorizuara duhet të reduktohet me numrin e aksioneve të blera.
+160.2 Vendimi i kompanisë për blerjen e aksioneve të saj mund të merret vetëm nga aksionarët sipas procedurës së nenit 161 të këtij ligji.
+160.3 Kompania mund ta blejë një pjesë, por jo të gjitha, aksionet e thjeshta të emetuara. Kompania mund të blejë një pjesë ose të gjitha aksionet ose letrat e saj të tjera me vlerë të emetuara.
+160.4 Kompania nuk mund të blejë aksionet e saj të emetuara nëse vlera e përgjithshme nominale e aksioneve që do të blihen e tejkalon 10% të kapitalit themeltar të Kompanisë.
+160.5 Kompania mund të blejë vetëm ato aksione të saj të emetuara që janë paguar në tërësi.
+160.6 Kompania mund t’i paguajë aksionet ose letrat e saj me vlerë me të holla, me letra me vlerë ose me pasuri tjetër.
+160.7 Procedurat dhe rregullat që kanë të bëjnë me blerjen e aksioneve të saj, nuk zbatohen për aksionet e riblera:
+a) do t’u ofrohen shprehimisht punonjësve në bazë të skemës të aksioneve të punonjësve;
+b) nëse aksionet e riblera janë humbur nga një aksionar për shkak të mospagimit të aksioneve; ose
+c)nëse aksionet e riblera janë aksione të paguara në tërësi që janë blerë nga shoqëria në bazë të një urdhri të gjykatës që kërkon nga një aksionar që të ia transferojë aksionet shoqërisë për shlyerjen e plotë ose të pjesshme të një borxhi që aksionari ia ka kompanisë.
+160.8 Nëse blerja e përcaktuar në paragrafin 7 të këtij neni do të ndikojnë në zvogëlimin e net aseteve të shoqërisë nën shumën e kapitalit të saj themeltar të publikuar plus çfarëdo rezerva që nuk mund të shpërndahen, blerja mund të bëhet vetëm nëse zbatohen procedurat për zbritjen e kapitalit.
+160.9 Aksionet e blera sipas paragrafit 7 të këtij neni mbahen nga shoqëria në thesarin e saj dhe nuk kanë të drejta votimi ose të drejta shpërndarjeje gjatë kohës sa mbahen nga kompania.
+160.10 Aksionet e blera sipas paragrafit 7 të këtij neni (a) mund t’u emetohen punonjësve, në bazë të skemës për aksionet e punonjësve, brenda një viti pas blerjes së tyre. Të gjitha aksionet e këtilla që nuk emetohen brenda kësaj periudhe njëvjeçare, duhet të anulohen (pas procedurës për zbritjen e kapitalit)
+160.11 Aksionet e blera sipas paragrafit 7(b) ose (c) të këtij neni mund të shiten dhe të ri-emetohen brenda një viti pas blerjes së tyre, cilitdo person ose shoqëri që paguan çmimin e plotë të këtyre aksioneve. Bordi i drejtorëve është i autorizuar të përcaktojë çmimin e shitjes së këtyre aksioneve, me kusht që mënyra e përcaktimit të çmimit të shitjes, të jetë e drejtë dhe e arsyeshme si dhe e cila duhet zbuluar me shkrim: (i) për cilindo aksionar që e kërkon një gjë të këtillë, dhe (ii) për të gjithë aksionarët në mbledhjen e ardhshme të përgjithshme të aksionarëve. Të gjitha këto aksione që nuk shiten ose emetohen brenda periudhës së caktuar një (1) vjeçare, duhet të anulohen (pas procedurës për zbritjen e kapitalit).

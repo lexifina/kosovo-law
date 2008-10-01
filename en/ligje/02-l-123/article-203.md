@@ -1,0 +1,3 @@
+# Article 203
+Record of a Meeting
+A record of each shareholders’ meeting shall be prepared promptly after the meeting and shall be signed by the chairman and any secretary of the meeting, who will be responsible for its accuracy. The record shall include (i) the date, time and place of the meeting, (ii) the agenda, (iii) the quorum, (iv) the ballot or other procedures used for voting, (v) the number of votes possessed by shareholders and proxies of shareholders at the meeting, (vi) the name of the chairman and any secretary of the meeting, (vii) the issues voted on and the results of the votes, (viii) a summary of speeches and discussions (including any speeches regarding any negative votes or abstentions), and (ix) a list of the decisions made at the meeting.

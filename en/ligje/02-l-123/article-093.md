@@ -1,0 +1,4 @@
+# Article 93
+Restrictions on Distributions
+93.1 A company may not make a distribution to owners if, after giving effect to such distribution, the company’s total assets would be less that its total liabilities or the company would be unable to pay its debts and other obligations as they become due in the ordinary course of the company’s business.
+93.2 Every time that a company desires to make a distribution, it shall first make a formal determination that such distribution is not prohibited by paragraph 1 of Article 93 of this Law. Such determination shall be based on financial statements prepared in accordance with applicable Laws on accounting standards and on accounting principles that are reasonable in the circumstances and, in the case of valuation of non-monetary assets, on a fair and independent valuation that is reasonable under the circumstances.

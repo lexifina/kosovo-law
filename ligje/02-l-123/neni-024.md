@@ -1,0 +1,7 @@
+# Neni 24
+Shërbimi për ose Dorëzimi për një Shoqëri Tregtare
+24.1 Agjenti i regjistruar i shoqërisë tregtare është agjenti i ligjshëm i shoqërisë tregtare për pranimin e shërbimeve, njoftimeve ose kërkesave që një autoritet publik, person ose shoqëri kërkohet ose lejohet sipas këtij ligji që t’ia dorëzojë shoqërisë tregtare.
+24.2 Nëse këto shërbime, njoftime ose kërkesa i dorëzohen agjentit të regjistruar të shoqërisë tregtare, ky dorëzimi, nga aspekti juridik, do të konsiderohet si shërbim ose dorëzim për shoqërinë tregtare.
+24.3 Nëse dorëzimi për agjentin e regjistruar nuk është i mundur ose praktik, ky dorëzim mund të bëhet përmes dorëzimit cilitdo ortak të përgjithshëm, menaxher, drejtor ose zyrtar të shoqërisë tregtare.
+24.4 Nëse dorëzimi sipas paragrafit 2 ose 3 të këtij neni nuk është i mundshëm ose praktik, ky dorëzim mund të bëhet në cilëndo nga zyrat e shoqërisë tregtare ose vendeve të njohura të ushtrimit të veprimtarisë tregtare, duke përfshirë hapësirat fizike të cilat janë përcaktuar në dokumentet e regjistrimit si zyra e regjistruar.
+24.5 Dorëzimi konsiderohet se është kryer, (i) në datën e pranimit, ose (ii) nëse dorëzimi është bërë përmes postës publike, pesë (5) ditë pune nga dita e depozitimit në postë, në bazë të evidencës mbi vulën postare, nëse artikulli është adresuar në mënyrë korrekte dhe shërbimi postar është paguar plotësisht në kohën e depozitimit, cilado që është më herët.

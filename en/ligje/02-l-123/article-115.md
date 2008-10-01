@@ -1,0 +1,4 @@
+# Article 115
+Enforcement of Duties by Personal or Derivative Court Action
+115.1 Any owner of a company has the right to file a complaint with the Court in the owner’s own name and on the owner’s own behalf, or in the company’s name and on the company’s behalf, against a managing director to enforce any rights the owner or the company may have against a managing director for violating his/her duties to the owner or the company.
+115.2 If the owner is seeking the enforcement of the company’s rights against a managing director, all damages awarded against the managing director shall be the property of the company. If the Court finds that the complaint was validly filed, the Court shall award in favor of the complaining owner and against the managing director the owner’s reasonable expenses. Such reasonable expenses shall include the legal fees incurred by the owner in connection with the preparation, filing and prosecution of the complaint.

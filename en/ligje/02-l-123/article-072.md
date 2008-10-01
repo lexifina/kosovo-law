@@ -1,0 +1,5 @@
+# Article 72
+Transfer of Limited Partnership Interest
+72.1 Unless otherwise provided in a limited partnership agreement, a limited partner may transfer his limited partnership interest only upon the approval of all general partners. A transfer of a limited partnership interest includes a transfer of all rights and obligations of the limited partner making the transfer.
+72.2 If required by an order of the Court, the general partner(s) of a limited partnership shall cause the limited partnership interest of a limited partner to be transferred to another person or organization.
+72.3 Unless otherwise provided in the limited partnership agreement, a limited partnership interest passes to the Lawful heirs of a limited partner who is a natural person upon the death of such limited partner. If a limited partner is a business or other organization, if such organization is dissolved, the interest of such limited partner passes to its Lawful successor or owners in accordance with the Law under which the dissolution of such organization occurs.

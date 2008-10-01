@@ -1,0 +1,8 @@
+# Article 157
+Redemptions or Withdrawals of Shares
+157.1 A company’s common stock shall not be redeemable. A company may redeem issued and outstanding shares of a class of its preferred stock, but only if, and only to the extent, (i) the terms of the concerned class of preferred stock, as specified in the charter, expressly indicate that the shares of such class are redeemable, and (ii) the shares to be redeemed have been fully paid.
+157.2 The company shall not use any loan or similar debt financing to pay for redeemed or reacquired shares. The company shall only pay for such shares out of its capital surplus. A redemption or reacquisition is prohibited if it will negatively affect the company’s stated capital.
+157.3 Any shares that have been redeemed by the company shall thereafter carry no voting rights, rights to distribution or any other rights. Such shares shall be immediately immediately cancelled by the company unless the charter specifically authorizes the company to hold such shares in the company’s treasury.
+157.4 Any shares of the company – regardless of how they were acquired or created - that are held by the company whether in its treasury or otherwise, directly or indirectly, shall have, as long as they are so held by the company, no voting rights and no rights to receive any distributions.
+157.5 No person or organization, including the company, its board of directors, mangers and other employees shall have any right or authority to vote or attempt to vote, directly or indirectly, any shares that are held by the company in its treasury or otherwise, directly or indirectly.
+157.6 The provisions of this Section 157 are mandatory and shall prevail over any contrary provision of the company’s charter or bylaws.

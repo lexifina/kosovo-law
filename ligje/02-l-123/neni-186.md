@@ -1,0 +1,4 @@
+# Neni 186
+Detyra e Kujdesit dhe Parimi i Vlerësimit Afarist
+186.1 Secili drejtor dhe punonjës është i detyruar që (i) të veprojë me mirëbesim, dhe (ii) t’i përmbushe dhe t’i zbatojë detyrat dhe detyrimet e përcaktuara në nenin 184 dhe 187 të këtij ligji dhe (iii) të sigurojë që vendimet e tij që ndërlidhen me kompaninë, të bëhen duke qenë i bindur se është duke vepruar në masë të arsyeshme në interesin më të mirë të shoqërisë dhe duke u përkushtuar vëmendje përgjegjësive të tij si dhe duke u kushtuar kujdes të veçantë çështjeve që duhet të vendosen si pas informatave që në masë të arsyeshme janë në disponim të tij.
+186.2 Personi që vepron sipas paragrafit 1 të këtij neni dhe që merr një vendim afarist me mirëbesim, nuk mund të mbahet personalisht përgjegjës nga kompania ose aksionarët për dëmet që rrjedhin si pasojë e atij vendimi.

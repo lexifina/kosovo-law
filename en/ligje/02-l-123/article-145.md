@@ -1,0 +1,6 @@
+# Article 145
+Certificated and Un-Certificated Shares
+145.1 A share or shares of a joint stock company may be certificated (represented by a stock certificate) or un-certificated.
+145.2 If a share or shares are certificated, the share certificate shall state (i) the name of the person or organization to which the certificate is issued, (ii) the number of shares represented by the certificate and the progressive number of the certificate, (iii) the type of shares (common or preferred) represented by the certificate, (iii) if the concerned shares are a specific class of preferred shares, an indication of that class, and (iv) (iv) if the concerned shares are preferred shares or a class of preferred shares, a statement setting forth the rights (including a specific indication as to whether and to what extent the shares have voting rights) and preferences of those shares as stated in the company’s charter.
+145.3 Unless otherwise provided in a joint stock company’s charter, the board of directors may determine that some or all of its certificated shares shall thereafter be un-certificated shares.
+145.4 Certificated and un-certificated shares of the same type and class shall have identical rights.

@@ -1,0 +1,3 @@
+# Neni 130
+Kompetencat
+Shoqëria aksionare ka kompetencë të nevojshme për ta ushtruar veprimtarinë e saj që përfshin, por nuk kufizohet vetëm në kompetencat (i) për të ushtruar padi ose për të qenë e paditur; (ii) për të lidh kontrata, të huazojë të para dhe t’u nënshtrohet borxheve dhe detyrimeve tjera; (iii) të fitojë, posedojë, të japë me qira, të vejë peng ose hipotekë, ose në mënyrë tjetër të disponojë me ose të punojë me pasurinë; (iv) të fitojë, posedojë, japë me qira, të vejë peng, votojë, shesë ose në mënyrë tjetër të disponojë me aksionin ose interesat e tjera pronësore ose të ortakisë në një shoqëri tjetër; dhe (v) të caktojë, emërojë ose angazhojë zyrtarët, punëtorët dhe agjentët e shoqërisë dhe të përcaktojë detyrat dhe kompensimet e tyre.

@@ -1,0 +1,14 @@
+## KREU VI
+## Regjistrimi i Shoqërisë Kolektive
+# Neni 29
+Regjistrimi i Shoqërisë Kolektive
+29.1 Për regjistrimin e shoqërisë kolektive, ortaku i përgjithshëm – ose personi i autorizuar nga ortaku i përgjithshëm – duhet të nënshkruajë dhe dorëzojë në Zyrën e Regjistrimit, “memorandumin e shoqërisë kolektive” që përmban:
+a) emrin zyrtar të shoqërisë kolektive, që duhet:
+(i) të përfshijë emrin e së paku njërit nga ortakët e përgjithshëm; me kusht që (A) nëse ortaku i përgjithshëm është person fizik dhe shfrytëzohet emri i tij/saj atëherë do të shfrytëzohet edhe mbiemri i ligjshëm i tij/saj; dhe (B) nëse shfrytëzohet emri i një ortaku që është shoqëri tregtare, të shfrytëzohet emri i plotë zyrtar; (ii) nëse emri i cilitdo nga ortakët e përgjithshëm nuk është/janë pjesë e emrit zyrtar, të përfshihet një referencë (si p.sh “dhe ortaku” ose “dhe ortakët”) për të dëshmuar ekzistimin e këtyre ortakëve; dhe (iii) të përfshihet në fund, shkurtesa “SHKL” apo ekuivalenta në njërën prej gjuhëve të përcaktuara në paragrafin 5 të nenit 13 të këtij ligji;
+b) adresën në Kosovë ku shoqëria kolektive ushtron veprimtarinë kryesore tregtare;
+c) adresën e zyrës së regjistruar të shoqërisë kolektive në Kosovë si dhe emrin e agjentit të regjistruar të shoqërisë në atë adresë.
+d) qëllimin afarist të shoqërisë kolektive, i cili mund të përshkruhet si “qëllim i ligjshëm afarist”;
+e) emrin dhe adresën e secilit ortak të përgjithshëm. Nëse ortaku i përgjithshëm është person fizik, emrin e tij të plotë si dhe adresën e banimit të përhershëm, e cila mund të jetë brenda ose jashtë Kosovës; nëse ortaku i përgjithshëm është shoqëri tregtare e Kosovës, emrin e saj zyrtar si dhe adresën e zyrës së regjistruar në Kosovë; nëse ortaku i përgjithshëm është shoqëri e huaj tregtare, emrin dhe adresën e vendit kryesor ku ushtrohet veprimtaria jashtë Kosovës;
+f) një deklaratë me shkrim, të nënshkruar nga secili ortak i përgjithshëm i cili është person fizik si dhe nga personat e autorizuar të secilit ortak të përgjithshëm i cili është shoqëri tregtare, ku konfirmohet pajtimi i tyre për t’u emëruar në memorandum si ortak të përgjithshëm;
+g) datën e fundit, nëse ka të tillë, në të cilën do të shpërbëhet shoqëria kolektive; dhe h) një deklaratë që dëshmon se personi që e nënshkruan dhe dorëzon memorandumin (i) është ortak i përgjithshëm ose “person i autorizuar” nga një ortak i përgjithshëm dhe (ii) personi në fjalë ka autorizimin nga ortakët e përgjithshëm për nënshkrimin dhe dorëzimin e memorandumit në Zyrën e Regjistrimit.
+29.2 Personi që nënshkruan dhe dorëzon memorandumin, duhet t’ia bashkangjesë pëlqimin me shkrim të agjentit të regjistruar, me të cilin dëshmohet pëlqimi i agjentit të regjistruar për të shërbyer në atë cilësi. Ky pëlqim me shkrim duhet të nënshkruhet nga agjenti i regjistruar. Nëse agjenti i regjistruar është shoqëri tregtare, atëherë duhet të nënshkruhet nga personi i autorizuar i shoqërisë tregtare.
