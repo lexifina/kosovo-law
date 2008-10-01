@@ -1,0 +1,6 @@
+## Kreu 5
+## Autorizimi për inicimin e një aktiviteti të prokurimit dhe nënshkrimin e kontratës publike
+# Neni 20
+Inicimi i aktivitetit të prokurimit
+20.1. Për çdo aktivitet të prokurimit të autoritetit kontraktues, ZKA duhet të caktojë një person që të shërbejë si Zyrtar Autorizues për atë aktivitet të prokurimit. Gjatë caktimit të Zyrtarit Autorizues, ZKA duhet të përmbushe të gjitha kushtet e parapara në Ligjin për Menaxhimin e Financave Publike dhe Përgjegjësitë si dhe në Rregullat Financiare të shpallura nga Thesari. Zyrtari Autorizues nuk e inicon aktivitetin e prokurimit përderisa ZKF i autoritetit kontraktues të vërtetojë me shkrim se kushtet e nenit 8 të këtij ligji dhe dispozitat e tjera të zbatueshme të ligjit për Menaxhimin e Financave Publike dhe Përgjegjësitë si dhe Rregullave Financiare, janë përmbushë.
+20.2. Pas nxjerrjes së vërtetimit me shkrim nga ZKF sipas nenit 20.1, atëherë Zyrtari Autorizues është i autorizuar që të iniciojë aktivitetin e prokurimit. Zyrtari Autorizues e inicon aktivitetin e prokurimit përmes dorëzimit Zyrtarit të Prokurimit të “Deklaratës së Nevojave dhe Vendosmërisë për Disponueshmërinë e Fondeve” sipas nenit 8 të këtij ligji. Pas dorëzimit të deklaratës së sipër cekur, Zyrtari i Prokurimit e ka autorizimin ekskluziv për kryerjen e aktivitit të prokurimit.

@@ -1,0 +1,6 @@
+## Chapter 5
+## Authorization to Initiate a Procurement Activity and to Sign a Public Contract
+# Section 20
+Initiation of a Procurement Activity
+20.1. For each proposed procurement activity at a contracting authority, the CAO shall designate one person to act as the Authorizing Officer for that procurement activity. In making such designation, the CAO shall comply with any requirements in the Law on Public Financial Management and Accountability and the Financial Rules issued by the Treasury. Such Authorizing Officer shall not 20 authorize the initiation of the proposed procurement activity until the contracting authority’s CFO has confirmed in writing that the requirements of Section 8 of the present law and all other applicable requirements of the Law on Public Financial Management and Accountability and the Financial Rules have been complied with.
+20.2. If the CFO provides the written confirmation required by Section 20.1, the Authorizing Officer shall then have the authority to initiate the procurement activity. The Authorizing Officer shall initiate the procurement activity by providing the concerned Procurement Officer with the “Statement of Needs and Availability of Funds” specified by Section 8 of the present law. Thereafter, the Procurement Officer shall have exclusive authority over the conduct of the procurement activity.

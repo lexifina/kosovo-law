@@ -1,0 +1,4 @@
+# Neni 2
+Fushëveprimi
+2.1 .Ky ligj, vlen për të gjitha aktivitetet e prokurimit të autoriteteve kontraktuese dhe koncesionerëve të punëve, ashtu siç përcaktohen këto terme në këtë ligj. Autoritet kontraktues dhe koncesionerët kërkohet që të veprojnë në përputhje dhe kërkesat e zbatueshme procedurale dhe materiale të këtij ligji gjatë kryerjes së aktiviteteve të tyre të prokurimit.
+2.2 .Ky ligj, vlen për të gjithë personat, operatorët ekonomik, dhe ndërmarrjet, ashtu si përcaktohen këto terme në këtë ligj, që janë të përfshirë, marrin pjesë ose interesohen, drejtpërdrejtë ose tërthorazi, në aktivitete prokurimi të rregulluara me këtë ligj; nga personat e tillë, operatorët, dhe ndërmarrjet po ashtu kërkohet që t’i respektojnë dhe të veprojnë në përputhje me kërkesat procedurale dhe materiale të këtij ligji.

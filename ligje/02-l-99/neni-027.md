@@ -1,0 +1,6 @@
+## Kreu 1
+## Rregullat për specifikimet teknike dhe dosjen e tenderit
+# Neni 27
+Dosja e Tenderit
+27.1. Përveç siç parashihet në neni 27.2, autoriteti kontraktues do të përpiloj një dosje të tenderit që ofron informatat përkatëse lidhur me kontratën në fjalë, duke përfshirë të gjitha termet dhe kushtet materiale të saj, procedurat e zbatueshme të prokurimit, çfarëdo kërkese të aplikueshme të përshtatshmërisë ose ndonjë kritere të përzgjedhjes, procedurat e ankesës si dhe informatat e tjera përkatëse siç kërkohen nga ky ligj ose siç i sheh të domosdoshme autoriteti kontraktues. Nëse aktiviteti përkatës i prokurimit kërkon publikimin e njoftimit të kontratës, dosja e tenderit duhet të përmbajë një kopje të njoftimit të tillë dhe informatat e tjera të tilla përkatëse që mund të jenë të nevojshme për të qartësuar dhe plotësuar informatat që gjinden në njoftimin e tillë. Autoriteti kontraktues duhet të përcaktojë në dosjen e tenderit, specifikimet teknike të zbatueshme dhe aty ku është e nevojshme, të shfaqë gatishmërinë e tij për të konsideruar variante të ndryshme, në pajtim me nenin 28 dhe 29 të këtij ligji.
+27.2. Kushtet e dosjes së tenderit sipas nenit 27.1 nuk zbatohen për aktivitet e prokurimit për;(i) kontratat e vlerë minimale ose (ii) kontratat që jepen me procedurën e kuotimit të çmimeve.

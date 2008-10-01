@@ -1,0 +1,11 @@
+## Kreu 3
+## Kërkesat e përgjithshme
+# Neni 7
+Planifikimi i prokurimit
+7.1. Jo më pak se gjashtëdhjetë (60) ditë kalendarike para fillimit të çdo viti fiskal, secili autoritet kontraktues duhet të përgatisë dhe të pajis APP-në me planifikimet paraprake të prokurimit, me shkrim, në të cilat identifikohen me detale të arsyeshme të gjitha furnizimet, shërbimet dhe punët, që autoriteti kontraktues parasheh t’i prokurojë gjatë vitit fiskal në fjalë. Planifikimi i tillë paraprak i prokurimit saktëson:
+a. Në rastin e kontratave të ardhshme për furnizim, vlerën e përgjithshme të llogaritur të prokurimit sipas lëmesë së secilit produkt, të cilin autoriteti kontraktues planifikon që ta prokurojë gjatë vitit fiskal;
+b. Në rastin e kontratave të ardhshme për shërbime, vlerën e përgjithshme të parashikuar sipas kategorisë të secilit shërbim, të cilin autoriteti kontraktues planifikon që ta prokuroj gjatë vitit fiskal; dhe
+c. Në rastin e kontratave për punë, karakteristikat thelbësore të çdo kontrate të punës, që autoriteti kontraktues planifikon ta japë gjatë vitit fiskal.
+7.2. Brenda pesëmbëdhjetë (15) ditëve kalendarike pas shpalljes së legjislacionit mbi përvetësimet për një vit fiskal, çdo autoritet kontraktues do të përgatisë dhe do t’i dorëzojë APP-së, një planifikim përfundimtar me shkrim që i identifikon me detale të arsyeshme të gjitha furnizimet, shërbimet dhe punët që autoriteti kontraktues synon ti prokurojë gjatë vitit të tillë fiskal. Planifikimi i tillë përfundimtar duhet të përmbajë të dhënat që kërkohen nga pikat a-c të nenit 7.1.
+7.3. APP-ja, menjëherë shqyrton dhe mbledhë informacionet e dhëna në planifikimet e tilla. APP-ja identifikon produktet e përdorimit të përbashkët dhe të gjitha artikujt dhe produktet e tjera që mund të sigurohen në mënyrë më efikase përmes zbatimit të një procedure të konsoliduar ose të përbashkët të prokurimit. APP-ja ia dorëzon këtë listë Qeverisë.
+7.4. Në pajtim me nenin 91.1 të këtij ligji, Qeveria është e autorizuar, që të përcaktojë APP-në si organin përgjegjës për kryerjen e një aktiviteti të caktuar prokurimi, duke përfshirë aktivitetet e konsoliduara (përbashkëta], të prokurimit, në emër të një ose më shumë autoriteteve publike.
