@@ -1,0 +1,5 @@
+# Neni 304
+304.1 Masa e sigurimit mund të propozohet para inicimit dhe gjatë zhvillimit të procesit gjyqësor kontestimor si dhe pas përfundimit të tij, derisa ekzekutimi të përfundojë plotësisht.
+304.2 Propozimi paraqitet në formë të shkruar. Në qoftë se propozimi është i lidhur me procesin gjyqësor që është në zhvillim e sipër, ai mund të paraqitet edhe gojarisht në seancë gjyqësore.
+304.3 Në propozimin për caktimin e masave të sigurimit propozuesi i sigurimit duhet ta tregojë në të kërkesën, për sigurimin e të cilës bënë propozim, masën e sigurimit që e propozon, mjetet dhe objektin e masës të sigurimit. Në propozim duhet të tregohen edhe faktet mbi të cilat mbështetet kërkesëpadia, si dhe të propozohen mjetet provuese me të cilat mund të provohen pretendimet e parashtruara në propozim. Propozuesi i sigurimit ka për detyrë, po që se ka mundësi, që mjetet provuese t’ia bashkangjitë propozimit.
+304.4 Për propozimin mbi caktimin e masave të sigurimit të paraqitur gojarisht në mënyrë të përshtatshme aplikohen dispozitat e paragrafit 3 të këtij neni.

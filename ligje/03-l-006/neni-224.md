@@ -1,0 +1,3 @@
+# Neni 224
+224.1 Në qoftë se gjykata e revizionit konstaton se e drejta materiale është zbatuar gabimisht, me aktgjykim e aprovon revizionin e paraqitur dhe e ndryshon aktgjykimin e goditur.
+224.2 Po që se gjykata e revizionit konstaton se për shkak të zbatimit të gabueshëm të së drejtës materiale, apo për shkak të shkeljeve të rregullave procedurale, gjendja faktike nuk është vërtetuar plotësisht dhe se për këtë arsye nuk ekzistojnë kushtet për ndryshimin e aktgjykimit të goditur, atëherë ajo me aktvendim e aprovon revizionin dhe e anulon pjesërisht apo tërësisht aktgjykimin e shkallës së parë dhe të dytë, apo vetëm aktgjykimin e shkallës së dytë, dhe çështjen ia dërgon për rigjykim gjyqtarëve të njëjtë apo të tjerë të gjykatës të shkallës së parë apo të dytë.

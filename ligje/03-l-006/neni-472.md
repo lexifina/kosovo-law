@@ -1,0 +1,3 @@
+# Neni 472
+472.1 Aktvendimi mbi lirimin nga pagimi i shpenzimeve gjyqësore dhe mbi emërimin e përfaqësuesit mund të anulohet nga gjykata e shkallës së parë gjatë zhvillimit të procesit gjyqësor, po që se vërtetohet se pala është në gjendje t’i bartë të gjitha shpenzimet procedurale. Në rast të këtillë gjykata duhet të vendos nëse pala do t’i kompensojë krejtësisht apo pjesërisht shpenzimet dhe taksat gjyqësore nga të cilat është liruar me parë, si dhe harxhimet faktike dhe shpërblimin për përfaqësuesin e emëruar nga gjykata.
+472.2 Në rastin nga paragrafët e sipërme, së pari duhet kompensuar shumat e paguara nga mjetet financiare të gjykatës.

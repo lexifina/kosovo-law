@@ -1,0 +1,3 @@
+# Neni 129
+129.1 Ne qoftë se pala nuk shkon në seancë fare apo e humbë afatin për kryerjen e ndonjë veprimi procedural dhe për këtë shkak e humbë të drejtën që më vonë të kryejë veprimin procedural të lidhur me afat, gjykata do t’i lejojë kësaj pale, me propozimin e saj, ta kryejë më vonë këtë veprim, po që se e konstaton se ekzistojnë shkaqe të arsyeshme të cilat nuk kanë mundur të parashikohen e as të evitohen.
+129.2 Kur lejohet kthimi në gjendje të mëparshme procesi kontestimor kthehet në atë gjendje në të cilën ndodhej para mosveprimit dhe prishen te gjitha vendimet që i ka dhënë gjykata për shkak të mosveprimit.

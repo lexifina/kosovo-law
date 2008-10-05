@@ -1,0 +1,4 @@
+# Article 10
+10.1 The court shall be bound to carry out proceedings without delay and minimize costs as well as to make impossible any misuse of the procedural rights set for the parties according to this law.
+10.2 If litigants, intercessors, legal representatives or with their prosecutors, deliberately make damage to the others or with the aim which is in contradiction with the positive habits, trust and conscious, misuse the rights recognized by this law, the court may issue monetary fines or apply other legal measures.
+10.3 If litigants, intercessors, legal representatives or authorized representatives continuously misuse the court orders, fail to offer information under the mandate in this or any other law in force, or fails to attend respective sessions, with the aim of delaying the proceeding of a case, the court may issue monetary fines or apply other measures provided for by this law.

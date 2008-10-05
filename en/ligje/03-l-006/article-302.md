@@ -1,0 +1,5 @@
+# Article 302
+302.1 The objector of the insurance who act against the verdict for forbiddance of alienation, hiding, indebting or availability of the estate is responsible according to the rules of the civil rights. After the forbiddance is issued, and up to the moment it is in effect the registration in public records is not possible for any changes of the rights created on basis of voluntary availability of the objector of the insurance.
+302.2 Alienation or indebting against the court order on forbiddance for alienation, indebting or availability of estate has no judicial effect over the party that proposed, except in the cases of action of persons against the court verdict for setting other measures of insurance.
+302.3 Provisions from the parag.1 and 2 of this article are applied accordingly in the cases of actions of persons against the court verdict for setting other measures of insurance.
+302.4 Measures of insurance do not secure the right for pawn, except in the case of justification of promotes for the right for pawn from the point d) of the parag.1 of the article 299 of this law.

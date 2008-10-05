@@ -1,0 +1,7 @@
+# Article 127
+127.1 When a submission must be given within a prescribed period of time, it shall be deemed to have been made in due time if it has been served to the court before the lapse of the prescribed period of time.
+127.2 When a submission is sent by post, registered mail or telegram, the date of mailing or sending it shall be considered as the date of the service on the court to which it has been sent. When a submission is sent by fax, the day when it was faxed shall be considered as the day of service on the court.
+127.3 When a submission is sent by telegraph but it does not contain all the necessary elements for undertaking an action, it is considered to have been served within the prescribed period if the submission is served directly to the court through the registered letter within three days from the day the telegram was sent.
+127.4 When a submission is sent by electronic mail, it is considered to have been served on the day that is shown by verification of the qualified electronic signature.
+127.5 When a person is doing the compulsory military service, the day when the submission is served to the military unit or military institution is considered as the day of service on the court. This applies also to other persons in the military units or institutions who are serving in places where regular mail service is not available.
+127.6 When a person is imprisoned, the day when the submission is serviced to the prison administration is considered the day of service on the court.

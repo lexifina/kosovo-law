@@ -1,0 +1,7 @@
+# Article 255
+2551 In one claim charge the plaintiff can include several claims against the same party if they are connected to each other on factual and judicial grounds.
+255.2 If the requests are not related to each other on factual and judicial grounds, they could be included in one claim against the same opposing party only if the same court is responsible for each of the issue in the requests, and if for each of this claims a similar procedure is determined, while the court decides that inclusion of all requests in one contributes to the economic rational of the proceedings (cumulative gathering of claim requests). If the act doesn’t benefit to the economic rational of the proceedings, the court through a verdict at the preliminary session at the latest decides to separate the requests.
+255.3 The plaintiff can include two or more claims related to each other into one claim charge, and the party can request from the court to approve the second din the row only if the first one is rejected (gathering of claim charges).
+255.4 Gathering the claim into one charge can de done through the parag.3 of this article only if all the charges included into one claim fall under the competencies of the court the request was presented to, and if all the claims have a similar proceeding.
+255.5 The decision that approves the claim charge resolves the court dependence created with regard to the claim charge in number 2.
+Counter charge

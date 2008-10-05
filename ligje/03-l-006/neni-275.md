@@ -1,0 +1,5 @@
+# Neni 275
+275.1 Personi që është paditur si posedues i një sendi apo si shfrytëzues i një të drejte pasurore dhe që pretendon se sendin e posedon, respektivisht se të drejtën e shfrytëzon në emër të personit të tretë mundet, më së voni në seancën përgatitore, e po që se kjo nuk është mbajtur, atëherë në seancën për shqyrtim kryesor të çështjes, nëpërmjet gjykatës ta thërras atë person të tretë ( paraardhës juridik) që në vend të tij të hyjë si palë e paditur në gjykim.
+275.2 Pëlqimi i paditësit, që në vend të palës së paditur nga ai të hyjë në gjykim paraardhësi juridik, nevojitet vetëm në qoftë se paditësi kundër të paditurit parashtron edhe kërkesa që nuk varen nga ajo se a e mbanë në posedim ose jo sendin në emër të paraardhësit, respektivisht e ushtron ose jo të drejtën e caktuar në emër të paraardhësit juridik.
+275.3 Ne qoftë se paraardhësi juridik që është thirr rregullisht nuk vjen në seancë gjyqësore apo nuk pranon që të hyjë në procesin kontestimor në vend të palës së paditur, atëherë ky i fundit nuk mund të kundërshtojë pjesëmarrjen në shqyrtimin e çështjes së ngritur me padi kundër tij.
+Njoftimi i personit të tretë për procesin gjyqësor

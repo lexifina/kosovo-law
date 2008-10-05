@@ -1,0 +1,4 @@
+# Article 137
+137.1 When the record is written by the recording clerk, the judge shall tell the recording clerk orally what shall be entered in the record. With the permission from the judge, participants in the proceeding shall be allowed to state his or her answers for the record in his or her own words.
+137.2 The parties have the right to read the record or to request that it be read to them as well submit objections about the content of the record. This applies also to other persons whose statements are included in the records but only for the part of the record that contains their statement.
+137.3 All changes, corrections, and additions of the parties or other persons in the content of the minutes, or with the initiative of the judge shall be noted at the end of the minutes. By request of the above mentioned entities there are written in the minutes also their objections which are not approved by the judge.

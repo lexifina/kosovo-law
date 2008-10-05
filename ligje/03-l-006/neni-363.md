@@ -1,0 +1,3 @@
+# Neni 363
+363.1 Eksperti ka të drejtë të njihet me materialet e çështjes, të marrë pjesë në seancë gjyqësore, të bëjë pyetje, të japë shpjegime dhe të kërkojë nga palët të marrë të dhëna si dhe nga të tretët brenda kufijve të nevojshëm për kryerjen e detyrës.
+363.2 Kur sipas vendimit të gjykatës për kryerjen e ekspertimit është e nevojshme që eksperti të njihet me sende, evidenca, llogari e dokumente të tjera, palët mund të jenë të pranishme dhe mund t’i paraqesin ekspertit me shkrim mendime, vërejtje të specialistëve të tyre, të cilët mund të pyetën me cilësinë e dëshmitarit, ose kërkesa që lidhën me plotësimin e detyrës, por gjithnjë brenda kompetencave të caktuara në aktvendimin e gjykatës.

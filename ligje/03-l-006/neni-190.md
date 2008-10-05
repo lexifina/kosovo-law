@@ -1,0 +1,5 @@
+# Neni 190
+190.1 Gjykata e shkallës së dytë vendosë për ankesën në seancë të trupit gjykues ose në bazë të shqyrtimit të çështjes në seanca gjyqësore.
+190.2 Gjykata e shkallës së dytë e cakton shqyrtimin e çështjes kur vlerëson se për konstatimin e gjendjes faktike, saktësisht dhe plotësisht, duhet vërtetuar fakte të reja dhe marrë prova të reja nën kushtet e nenit 180 paragrafët 1 dhe 2 të këtij ligji.
+190.3 Gjykata e shkallës së dytë do ta caktojë shqyrtimin e drejtpërdrejt të çështjes edhe po që se aktgjykimi i shkallës së parë është anuluar dy herë dhe kur në seancën e kolegjit vlerëson se aktgjykimi kundër të cilit është paraqitur ankimi është bazuar në shkeljet esenciale të dispozitave të procedurës kontestimore, apo në gjendjen faktike të konstatuar gabimisht apo në mënyrë jo të plotë.
+190.4 Gjykata e shkallës së dytë mund ta caktojë shqyrtimin e çështjes edhe kur vlerëson se me qëllim të konstatimit të drejtë të gjendjes faktike duhet përsëri të merren të gjitha ose disa nga provat e administruara në gjykatën e shkallës së parë.

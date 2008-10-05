@@ -1,0 +1,3 @@
+# Article 343
+343.1 The witness can refuse to answer certain questions if there is an important reason to do so. Especially if these questions will have penal consequences for himself/herself, or his/her close relatives; any generation in a vertical line and up to the third generation in a horizontal line. Can deny answering against the spouse, in- laws up to the second generation, even if the marriage ceased to exist, the person that he/she lives with, custodian, or the person under his/her custody.
+343.2 The court has to notify the witness with the refusal right if it coincides with the above mentioned cases in this article.

@@ -1,0 +1,3 @@
+# Article 269
+269.1 If according to the law or due to the nature of the judicial relations, the contest can be resolved only in the same way for each of litispendence, than all of the are considered as a sole litidependent party, so when one of the joint litispendent doesn’t conduct a procedural action, the effects pf the procedural actions committed by other litidependentts covers the ones who haven’t committed the same acts.
+269.2 If the litidependent conduct procedural actions that differ among them, than the court will consider that procedural action that is the most favorable one for all.

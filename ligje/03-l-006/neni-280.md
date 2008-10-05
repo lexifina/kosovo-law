@@ -1,0 +1,7 @@
+# Neni 280
+280.1 Procedura që është ndërprerë për shkaqe të treguara në nenin 277 paragrafi 1 pika a)–d) të këtij ligji do të vazhdohet kur trashëgimtari, apo kujdestari i pasurisë trashëgimore, përfaqësuesi i ri ligjor, administratori i falimentimit apo pasardhësi juridik i personit juridik, e marrin përsipër procedurën apo kur i thërret gjykata ta bëjnë këtë, me propozimin e palës kundërshtare.
+280.2 Procedura që është ndërprerë, nga shkaku i përmendur në nenin 277 paragrafi 1 pika e) të këtij ligji, do të vazhdoj së zhvilluari pasi ta anulojë moratoriumin gjykata e falimentimit.
+280.3 Po që se gjykata e ka ndërprerë gjykimin nga shkaqet e përmendura në nenin 278 paragrafi 1 pika a) dhe paragrafi 2 të këtij ligji, gjykimi do të vazhdojë pasi të përfundojë procedura në formë të prerë tek gjykata apo organi tjetër kompetent, apo kur gjykata e çështjes konstaton se nuk ekzistojnë më arsyet për të pritur përfundimin e saj.
+280.4 Në të gjitha rastet e tjera gjykimi i ndërprerë do të vazhdojë me propozimin e palës pasi të kenë pushuar shkaqet e ndërprerjes.
+280.5 Afatet të cilat për shkak të ndërprerjes së gjykimit kanë pushuar të rrjedhin, për palën e interesuar fillojnë të rrjedhin rishtazi, nga dita kur gjykata ia dërgon aktvendimin mbi vazhdimin e gjykimit.
+280.6 Palës që nuk e ka paraqitur propozimin për vazhdimin e gjykimit aktvendimi për vazhdimin e tij i dërgohet sipas dispozitave të nenit 110 të këtij ligji.

@@ -1,0 +1,5 @@
+# Article 93
+93.1 The authorized representative is bound to present the authorization at the very first action in the procedure.
+93.2 The court may allow temporary conduction of actions for the party in the procedure by the person that did not present the authorization but at the same time shall order him or her to present authorization or the consent of the party for the conducted actions within a specified period of time.
+93.3 The court will delay rendering of the final decision until the deadline for presentation of the authorization has passed. If the deadline has passed unsuccessfully, the court will annul all the actions conducted by the unauthorized person and shall continue to proceed by disregarding the actions conducted by him.
+93.4 The court is bound to verify during the entire proceeding the authorization for representation. If the court determines that the person that claimed authorization is not authorized by the party for such an action, it shall annul of the procedural actions conducted by such person if the party did not accept such actions at a later stage.

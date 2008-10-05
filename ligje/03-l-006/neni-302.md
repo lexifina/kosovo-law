@@ -1,0 +1,5 @@
+# Neni 302
+302.1 Kundërshtari i sigurimit i cili vepron në kundërshtim të aktvendimit për ndalimin e tjetërsimit, fshehjes, ngarkimit apo të disponimit me pasurinë përgjigjet sipas rregullave të së drejtës civile. Pas parashënimit të ndalimit, e deri sa ai të jetë në fuqi, nuk është i mundshëm regjistrimi në regjistrin publik i asnjë ndryshimi të të drejtave të krijuara në bazë të disponimit vullnetar të kundërshtarit të sigurimit.
+302.2 Tjetërsimi apo ngarkimi në kundërshtim me urdhrin e gjykatës mbi ndalimin e tjetërsimit, fshehjes apo disponimit me pasurinë nuk ka efekt juridik ndaj propozuesit, përpos kur ka vend për aplikimin e rregullave mbi mbrojtjen e fituesit të ndershëm.
+302.3 Dispozitat nga paragrafit 1 dhe 2 të këtij neni në mënyrë të përshtatshme aplikohen edhe për rastin e veprimit të personave në kundërshtim me vendimin e gjykatës mbi caktimin e masave tjera të sigurimit.
+302.4 Me anë të masës së sigurimit nuk fitohet e drejta e pengut, përpos në rastin e justifikimit të parashënimit të së drejtës së pengut nga pika d paragrafi 1 i nenit 299 të këtij ligji.

@@ -1,0 +1,2 @@
+# Neni 286
+Në qoftë se me kontratë ndërkombëtare nuk është përcaktuar ndryshe, gjykatat do t’i marrin në procedim lutjet për dhënien e ndihmës juridike të gjykatave të huaja vetëm po që se janë dërguar në rrugë diplomatike dhe në qoftë se lutja dhe shkresat që i janë bashkangjitur janë hartuar në gjuhën që është në përdorim zyrtar në gjykatë, apo në qoftë se është bashkangjitur përkthimi i tyre i legalizuar në atë gjuhë.

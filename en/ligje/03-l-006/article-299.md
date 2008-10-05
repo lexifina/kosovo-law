@@ -1,0 +1,8 @@
+# Article 299
+299.1 For insuring the money requests these measures can be set:
+a) stopping the objector of the insurance from alienating, hiding, indebting or holding a wealth set for the sufficient amount for securing the request of the party that proposed. This restriction will be registered in the public record.
+b) keeping a wealth related to the restriction from the above point from the court in its provisions. When possible or when given in the possession of the party that proposed the insurance or third party;
+c) restricting the debtor of the insurance objector so the latter will have his request fulfilled or handed the good, as well as stopping the objector of the insurance to accept the good, to implement the request or own it;
+d) pre-notification of the right for pawn for the real estate of the objector of the insurance, or on the registered right for the real estate, an item in the value of the main request, with interest and procedural spending for which was issued a decision not in force yet.
+299.2 The verdict that issues the measure if insurance is sent to the objector of insurance, the debtor of the objector of insurance, and when is the case register in the public records. Te measures of insurance is considered applied from the moment when the verdict is handed to the objector of the insurance or debtor, if it’s handed to the latter, or registered in the public records depends on which of these three dates of handing is timely earlier.
+299.3 In the areas where there are no public records, the measures of insurance from this article will be applied by applying the rules of proper procedures in the Executive procedures.

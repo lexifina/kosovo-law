@@ -1,0 +1,3 @@
+# Neni 369
+369.1 Kur janë caktuar më tepër se një ekspert, të gjithë ata mund ta paraqesin konstatimin dhe mendimin e përbashkët po që se nuk ka dallime midis tyre. Në qoftë se ekzistojnë dallime në konstatimet dhe mendimet e tyre, atëherë secili nga ta paraqet konstatim dhe mendim te veçantë.
+369.2 Në qoftë se të dhënat e ekspertëve në konstatimin e ekspertëve dallohen esencialisht, apo nëse konstatimi i tyre është i paqartë, jo i plotë apo kontradiktor me vete veten apo me rrethanat e shqyrtuara, e këto të meta nuk mund të evitohen me dëgjimin e përsëritur të ekspertëve, do të përsëritet ekspertimi me ekspertë të njëjtë apo me ekspertë të tjerë.

@@ -1,0 +1,4 @@
+# Article 71
+71.1 When a judge learns that a petition has been filed for his or her disqualification, or as soon as has learned that any of the conditions for disqualification according to the article 67 exist, he or she shall be obliged to suspend with the proceeding and must immediately inform the president of the court
+71.2 Exclusion from paragraph 1 of this Article, when the petition for exclusion is based in Article 67 point g, the judge notifies the president of the court and may continue with the proceeding of the petition on the exclusion, only on such mattered that are endangered of postponement.
+71.3 The president of the court, if his exclusion is required, then he or she appoints his or her replacement from the rank of the judges of the subject matter, and if this is not possible, then he or she acts according to the article 63 of this law.

@@ -1,0 +1,2 @@
+# Article 215
+The revision court examines the decision attacked only in the part that is attacked through revision and only within the boundaries of the causes shown by the revision, but taking care accordingly to the official obligation for rightful application of material goods right and for the violation of the provisions of the contested procedure, which deal with the ability to be a party and regular representation.

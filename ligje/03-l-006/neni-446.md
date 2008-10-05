@@ -1,0 +1,3 @@
+# Neni 446
+446.1 Në gjykimin e çështjeve me dyer të mbyllura lejohen të qëndrojnë në sallën e gjyqit vetëm palët, përfaqësuesit e tyre ligjor ose me prokurë dhe ndërhyrësit. Me lejen e gjykatës mund të qëndrojnë në sallën e gjyqit personat zyrtar të caktuar, punëtorët publik dhe shkencor, po që se një gjë e tillë është me interes për shërbimin e tyre, përkatësisht për veprimtarinë e tyre publike apo shkencore.
+446.2 Gjyqtari do ti paralajmërojë personat që janë të pranishëm në seancë nga e cila është përjashtuar publiku, se e kanë për detyrë ta ruajnë si fshehtësi çdo gjë që mësojnë në seancën e këtillë, si dhe për pasojat e zbulimit të fshehtësisë.

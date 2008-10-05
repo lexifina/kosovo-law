@@ -1,0 +1,5 @@
+# Article 101
+101.1 Documents attached to the submission are submitted in original, described or photocopied.
+101.2 If the party attaches the original document to submission, the court shall keep this document in the subject file, and allow examination by the opponent party. After the need for the original to be kept by the court ceases, it will be returned to the submitter upon his request but the court may also require from the person making the submission for description or the copy to be attached to the subject file.
+101.3 If the copy or description of the document is attached to submission, the court, upon request of the contesting party, shall summon the person making the submission to present the original document to the court and allow examination by the contesting party. When such is needed, the court will specify the period of time within which shall be submitted the document and examined, respectively.
+101.4 The petition may not be filed against decisions rendered upon the above paragraphs.

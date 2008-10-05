@@ -1,0 +1,6 @@
+# Neni 307
+307.1 Në aktvendimin mbi caktimin e masës së sigurimit gjykata e përcakton llojin e masës, mjetet me të cilat ajo do të realizohet dhunshëm dhe objektin e masës së sigurimit, duke i aplikuar përkatësisht rregullat e procedurës gjyqësore përmbaruese. Gjykata sipas detyrës zyrtare ia dërgon aktvendimin mbi caktimin e masës së sigurimit gjykatës përmbaruese kompetente me qëllim të ekzekutimit të tij të përdhunshëm dhe regjistrit publik me qëllim të regjistrimit në të.
+307.2 Po që se me qëllim të realizimit të urdhëresës apo ndalimit të caktuar duhet ndryshuar mjetet apo objektet e sigurimit propozuesi i sigurimit mund të propozojë ndryshimin e tillë në të njëjtën procedurë dhe në bazë të urdhëresës apo ndalimit ekzistues.
+307.3 Aktvendimi me të cilin është caktuar masa e sigurimit ka efekt të aktvendimit mbi ekzekutimin nga Ligji mbi procedurën përmbaruese. Masa e sigurimit i detyron palët e procesit, si dhe personat që janë në ndërlidhje me to, por vetëm pasi të jenë lajmëruar për masën e sigurimit të caktuar me aktvendim.
+307.4 Aktvendimet nga paragrafi 1 dhe 2 të këtij neni duhet ta kenë pjesën arsyetuese.
+307.5 Kur gjykata sipas detyrës zyrtare cakton masën e sigurimit, atëherë ajo i zbaton në mënyrë të përshtatshme dispozitat e këtij neni.

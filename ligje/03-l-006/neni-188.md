@@ -1,0 +1,3 @@
+# Neni 188
+188.1 Pas pranimit të përgjigjes në ankesë, apo pas skadimit të afatit për përgjigje në ankesë, gjykata e shkallës së parë ankesën dhe përgjigjen në ankesë, nëse është paraqitur me të gjitha shkresat e lëndës ia dërgon gjykatës së shkallës së dytë në afat prej shtatë ditësh më së shumti.
+188.2 Po që se ankuesi pretendon se në procedurën e shkallës së parë janë shkelur dispozitat e procedurës kontestimore, gjykata e shkallës së parë mund të jep shpjegime lidhur me thëniet në ankesë që i përkasin shkeljeve të tilla, e sipas nevojës mund të bëjë hetime me qëllim të verifikimit të saktësisë së thënieve përkatëse ne ankese.

@@ -1,0 +1,3 @@
+# Neni 20
+20.1 Po që se palët për zgjidhjen e kontestit të caktuar e kanë kontraktuar arbitrazhin, gjykata, të cilës i është paraqitur padia për të njëjtin kontest midis palëve të njëjta, sipas prapësimit të palës së paditur do të shpallet inkompetente, do t’i anulojë veprimet e kryera në procedurë dhe do ta hedhë poshtë padinë. Gjykata nuk vepron kështu vetëm po që se konstaton se kontrata mbi arbitrazhin nuk është e vlefshme, se ka pushuar vlefshmëria e saj apo se nuk mund të realizohet.
+20.2 Prapësimi nga paragrafi l i këtij neni i padituri mund ta parashtrojë më së voni me anë të përgjigjjes ne padi.

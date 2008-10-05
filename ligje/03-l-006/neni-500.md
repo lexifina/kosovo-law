@@ -1,0 +1,3 @@
+# Neni 500
+500.1 Në qoftë se i padituri pretendon se nuk kanë qenë të plotësuara kushtet ligjore për dhënien e urdhërpagesës (neni 493 dhe 494), apo se ekzistojnë pengesa procedurale për procedim të mëtejmë, atëherë gjykata së pari do të vendos mbi këtë pretendim. Në qoftë se konstaton se pretendimi i tillë është i bazuar, gjykata me aktvendim do ta prishë urdhërpagesën, dhe pasi të bëhet i formës së prerë ky aktvendim do të filloj shqyrtimin e çështjes kryesore, po që se për një shqyrtim të këtillë ka vend.
+500.2 Në qoftë se gjykata nuk e aprovon pretendimin e tillë, do të kalojë në shqyrtimin e çështjes kryesore, kurse aktvendimi i gjykatës do të inkorporohet ne vendimin mbi çështjen kryesore.

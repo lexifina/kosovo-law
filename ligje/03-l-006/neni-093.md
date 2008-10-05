@@ -1,0 +1,5 @@
+# Neni 93
+93.1 I autorizuari për përfaqësim ka për detyrë që me rastin e kryerjes së veprimit të parë në procedurë ta paraqes prokurën.
+93.2 Gjykata mund të lejoj që veprimet në procedurë për palën përkohësisht t’i kryej personi që nuk e ka paraqitur prokurën, por njëkohësisht do ta urdhëroj atë që brenda afatit të caktuar ta paraqesë prokurën ose aprovimin e palës për veprimet procedurale të kryera.
+93.3 Për derisa të mos kalojë afati për paraqitjen e prokurës, gjykata do ta shtyjë marrjen e vendimit përfundimtar. Në qoftë se ky afat kalon pa sukses, gjykata do t’i anulojë veprimet procedurale të kryera nga personi pa prokurë, dhe do të vazhdojë ta procedojë çështjen pa i marrë në konsideratë veprimet e kryera nga ai.
+93.4 Gjykata ka për detyrë që gjatë gjithë procedurës të kujdeset nëse personi që prezantohet si përfaqësues është i autorizuar për përfaqësim. Po që se gjykata konstaton se personi që prezantohet si përfaqësues nuk është i autorizuar nga pala për një gjë të tillë, do t’i anulojë veprimet procedurale të kryera nga personi i tillë, po që se veprimet e tija pala nuk i ka pranuar më vonë.

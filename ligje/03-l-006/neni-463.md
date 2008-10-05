@@ -1,0 +1,7 @@
+# Neni 463
+463.1 Për pagimin e shpenzimeve procedurale gjykata vendosë vetëm me kërkesën e specifikuar të palës, pa bërë asnjë shqyrtim verbalisht lidhur me kërkesën.
+463.2 Pala ka për detyrë që në kërkesën e saj në mënyrë të specifikuar t’i tregoj shpenzimet për të cilat kërkon shpërblim, duke parashtruar prova për shpenzimet e bëra, po që se nuk ekzistojnë provat e tilla në dosjen e lëndës.
+463.3 Pala duhet ta paraqes kërkesën për pagimin e shpenzimeve më së voni deri në përfundimin e shqyrtimit që i paraprinë vendosjes mbi shpenzimet, e po që se është fjala për dhënien e vendimit pa u bërë shqyrtim paraprakisht, atëherë pala ka për detyrë që kërkesën për shpenzimet e procedurës ta parashtrojë në propozimin mbi të cilin gjykata duhet të vendosë.
+463.4 Për kërkesën e palës për pagimin e shpenzimeve të procedurës, gjykata do të vendos në aktgjykimin ose aktvendimin me të cilin përfundon procedura përpara kësaj gjykate.
+463.5 Gjatë zhvillimit të procedurës gjykata vendosë me aktvendim të veçantë për pagimin e shpenzimeve të procedurës vetëm atëherë kur e drejta e shpërblimit nuk varet fare nga vendimi mbi çështjen kryesore.
+463.6 Në rastin nga neni 456 të këtij ligji, në qoftë se tërheqja e padisë, apo e mjetit me të cilin është goditur vendimi i shkallës së parë, nuk është bërë gjatë shqyrtimit direkt të çështjes nga gjykata e shkallës së dytë, kërkesa për shpërblimin e shpenzimeve mund të paraqitet brenda afatit prej pesëmbëdhjetë (15) ditësh pas marrjes së njoftimit për tërheqjen e padisë, përkatësisht mjetit të goditjes.

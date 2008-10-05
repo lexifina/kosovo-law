@@ -1,0 +1,5 @@
+# Neni 101
+101.1 Dokumentet që i bashkëngjiten parashtresës dorëzohen në origjinal, të përshkruara apo të fotokopjuara.
+101.2 Po që se pala parashtresës ia bashkëngjit origjinalin e dokumentit, gjykata do ta mbajë këtë ne dosjen e lëndës, kurse palës kundërshtare do t’i lejojë këqyrjen e tij. Pasi të pushoj nevoja që dokumenti në origjinal të mbahet në gjykatë, ai i kthehet paraqitësit, me kërkesën e tij, por gjykata mund të kërkojë nga paraqitësi që përshkrimi apo kopja e tij t’i bashkëngjitet dosjes së lëndës.
+101.3 Po që se parashtresës i është bashkangjitur kopja apo përshkrimi i dokumentit, gjykata, me kërkesën e palës kundërshtare, do ta ftojë parashtruesin që t’ia paraqesë gjykatës dokumentin në origjinal, kurse palës kundërshtare do t’i lejojë këqyrjen. Kur nevojitet një gjë e tillë, gjykata do të caktojë afatin, në të cilin duhet të dorëzohet dokumenti, respektivisht të këqyret ai.
+101.4 Kundër aktvendimeve të nxjerra në bazë të paragrafëve të mësipërme të këtij neni nuk lejohet ankimi.

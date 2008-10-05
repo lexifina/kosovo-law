@@ -1,0 +1,5 @@
+# Article 190
+190.1 The court of second instance will decide about the complaint in a session of the court body or based on the examination of the subject in a court session.
+190.2 The court of the second instance determines the examination of the case, when it considers the factual state, exactly and completely by verifying new facts and receiving new proofs under the conditions set by article 180, paragraph.1 and 2 of this law.
+190.3 For discussion, the court of second instance will determine a direct examination for the case even if the verdict of the first instance court was twice annulled, and in the case when the college session evaluates that the verdict against which a complaint is raised was based on essential violation of provisions of contestation procedure, or when the factual state was evaluated wrongly or incompletely.
+190.4 The court of second instance can determine evaluation of the case when it estimates that for a rightful factual state is to be determined and all or partial proofs administered in the court of first instance should be considered.

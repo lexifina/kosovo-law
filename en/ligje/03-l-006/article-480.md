@@ -1,0 +1,2 @@
+# Article 480
+Contentious procedures because of possession refusal charge has its limits only in the verification of the latest evidences and what kind of refusal is done. Exempt is the possibility on the examination of the property right, legal base, consciousness or unconsciousness of the possession. In these procedures exempt is the possibility to ask for the expenses caused by possession refusal.

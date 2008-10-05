@@ -1,0 +1,2 @@
+# Neni 480
+Shqyrtimi i çështjes sipas padisë për shkak të pengimit të posedimit do të kufizohet vetëm në konstatimin dhe të provuarit e fakteve të gjendjes së fundit të posedimit dhe të pengimit të bërë. Përjashtohet mundësia e shqyrtimit lidhur me të drejtën e posedimit, me bazën juridike, ndërgjegjshmërinë ose pandërgjegjshmërinë e posedimit. Përjashtohet mundësia që në kontestet për shkak të pengimit të posedimit të parashtrohet kërkesa për shpërblimin e dëmit të shkaktuar me anë të veprimeve me të cilat është bërë pengimi i posedimit.

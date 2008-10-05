@@ -1,0 +1,6 @@
+# Neni 297
+297.1 Masa e sigurimit mund të caktohet:
+a) në qoftë se propozuesi i sigurimit e bënë të besueshme ekzistimin e kërkesës apo të së drejtës subjektive të tij , dhe b) në qoftë se ekziston rreziku se pa caktimin e masës së këtillë pala kundërshtare do të mund ta pamundësonte apo vështirësonte dukshëm realizimin e kërkesës, sidomos me tjetërsimin e pasurisë së vet, me fshehjen e saj, me ngarkimin apo me ndonjë mënyrë tjetër, me të cilën do ta ndryshonte gjendjen ekzistuese të gjërave, ose në ndonjë mënyrë tjetër do të ndikonte negativisht në të drejtat e propozuesit të sigurimit.
+297.2 Po që se nuk është përcaktuar ndryshe me ligj, gjykata e cakton masën e sigurimit vetëm nën kushtet që propozuesi i sigurimit, brenda afatit të caktuar nga gjykata, ashtu siç parashihet me Ligjin mbi Procedurën Përmbarimore, jep garanci në masën dhe në llojin e caktuar nga gjykata, për dëmin që mund t’i shkaktohet palës kundërshtare me caktimin dhe ekzekutimin e masës së sigurimit.
+297.3 Po që se propozuesi nuk jep garanci brenda afatit të caktuar gjykata e refuzon propozimin për caktimin e masës së sigurimit. Me kërkesën e propozuesit gjykata mund ta liroj atë nga detyrimi i dhënies së garancisë po që se konstatohet se nuk ka mundësi financiare për një gjë të tillë.
+297.4 Bashkësitë e pushtetit lokal janë të përjashtuara nga detyrimi i paragrafit 3 të këtij neni.

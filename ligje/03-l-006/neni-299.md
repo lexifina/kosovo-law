@@ -1,0 +1,8 @@
+# Neni 299
+299.1 Për sigurimin e kërkesës në të holla mund të caktohen këto masa të sigurimit:
+a) ndalimi kundërshtarit të sigurimit që ta tjetërsojë, fshehë, ngarkojë ose disponojë me pasurinë e caktuar me vlerë të mjaftueshme për sigurimin e kërkesës së propozuesit të sigurimit. Ky ndalim do të regjistrohet në regjistrin publik përkatës;
+b) ruajtja e pasurisë me të cilën ka të bëjë ndalimi nga pika e sipërme nga gjykata në depozitën e saj, kur ka mundësi për një gjë të tillë, apo duke iu dhënë në posedim propozuesit të sigurimit apo personit të tretë;
+c) ndalimi debitorit të kundërshtarit të sigurimit që këtij të fundit t’i përmbushet kërkesa apo dorëzohet sendi, si dhe ndalimi kundërshtarit të sigurimit që ta pranojë sendin, ta realizojë kërkesën apo të disponojë me të;
+d) parashënimi i së drejtës së pengut mbi sendin e paluajtshëm të kundërshtarit të sigurimit, apo mbi të drejtën e regjistruar në sendin e paluajtshëm, gjerë në vleftën e kërkesës kryesore, me kamata dhe shpenzime procedurale, për të cilën është dhënë aktgjykimi i cili ende nuk është bërë i ekzekutueshëm.
+299.2 Aktvendimi me të cilin caktohet masa e sigurimit i dërgohet kundërshtarit të sigurimit, debitorit të kundërshtarit të sigurimit, e kur është rasti edhe regjistrit publik përkatës. Masa e sigurimit konsiderohet e zbatuar në momentin kur aktvendimi i dorëzohet kundërshtarit të sigurimit apo debitorit të tij, po që se i është dorëzuar këtij të fundit, apo regjistrit publik përkatës, varësisht nga ajo se cila nga këto tri data të dorëzimit është më e hershme në pikëpamje kohore.
+299.3 Në rajonet në të cilat nuk ekzistojnë librat publike, masat e sigurimit nga ky nen do të zbatohen duke u zbatuar rregullat procedurale adekuate të procedurës përmbarimore.

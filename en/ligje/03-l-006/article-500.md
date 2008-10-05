@@ -1,0 +1,3 @@
+# Article 500
+500.1 If the accused thinks that legal conditions were not fulfilled to issue payment order (article 493 and 494), or that there are procedural obstacles in further proceeding then the court will first decide about this claim. If the court decides that there are bases for such a claim, payment order will be destroyed, and after this decision becomes decree absolute, the main hearing session will begin, if it is necessary.
+500.2 If the court does not approve such a claim, they will continue with the main hearing session, while the court order will become a part of the main subject.

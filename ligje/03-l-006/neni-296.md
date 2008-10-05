@@ -1,0 +1,3 @@
+# Neni 296
+296.1 Për vendosje mbi propozimin për sigurim të paraqitur para se të jetë ngritur padia për fillimin e procedurës kontestimore, si dhe gjatë procedurës së tillë, është kompetente gjykata që vepron sipas padisë. Vendimin mbi masën e sigurimit e jep gjykata që vepron në shkallë të parë, kurse gjykata më e lartë atëherë kur propozimi për marrjen e saj është paraqitur pas dërgimit të dosjes së lëndës sipas ankesës në këtë gjykatë.
+296.2 Pasi të jetë bërë i formës së prerë aktgjykimi mbi kërkesëpadinë, për propozimin e sigurimit vendosë gjykata që do të ishte kompetente për vendosje mbi kërkesëpadinë në shkallë të parë.

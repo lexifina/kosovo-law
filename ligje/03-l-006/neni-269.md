@@ -1,0 +1,3 @@
+# Neni 269
+269.1 Në qoftë se sipas ligjit ose për shkak të natyrës së raportit juridik kontesti mund të zgjidhet vetëm në mënyrë të njëjtë ndaj të gjithë bashkëndërgjyqësve (bashkëndërgjyqësia unike), atëherë ata të gjithë konsiderohen si një palë ndërgjyqëse e vetme, kështu që në rastin kur ndonjëri nga bashkëndërgjyqësit nuk e kryen ndonjë veprim procedural, efekti i veprimeve procedurale të kryera nga bashkëndërgjyqësi tjetër shtrihet edhe në ata që nuk i kanë kryer veprimet e tilla.
+269.2 Po që se bashkëndërgjyqësit kryejnë veprime procedurale që dallohen mes tyre, atëherë gjykata e merr në konsiderim atë veprim procedural që është për të gjithë ata më i favorshmi.

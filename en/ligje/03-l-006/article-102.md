@@ -1,0 +1,5 @@
+# Article 102
+102.1 When a submission has been filed which is incomprehensible and incomplete, as requested in paragraph 2 of Article 99, the court shall summon the person making the submission to correct or supplement the submission. In such a circumstance, the court instructs the party on corrections or supplements that shall take place and sets a three day period for correction or supplement of submission.
+102.2 If the submission is corrected or supplemented within the specified period of time, it is considered to have been submitted to the court on the day when it was originally presented.
+102.3 It will be considered that the submission is withdrawn if not returned to the court within the specified period. If returned uncorrected or not supplemented, the submission shall be rejected.
+102.4 If the submission or documents attached to it are not submitted in sufficient number of copies, the court shall summon the person making the submission to provide the sufficient number of copies. If the person making the submission does not act according to this order, the court shall reject his submission.

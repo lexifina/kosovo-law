@@ -1,0 +1,2 @@
+# Neni 145
+Në qoftë se paditësi ka kërkuar me padi që i padituri ta dorëzoj sendin e caktuar, duke deklaruar në padi, apo deri në përfundimin e shqyrtimit kryesor se pranon që në vend të sendit të kërkuar, t’i paguhet një shumë e të hollave, atëherë gjykata, nëse e aprovon kërkesëpadinë, në aktgjykim mund të konstatojë se i padituri do të lirohet nga detyrimi i dorëzimit të sendit po që se e paguan shumën e tillë të të hollave.

@@ -1,0 +1,2 @@
+# Article 199
+Immediately upon arrival of the case from the second instance, the court of the case should set a preliminary session or trial session for the main hearing, which should take place within thirty (30) days of the decision arriving from the second instance court, the court should also conduct all procedural actions, reexamine all contesting issues offered by the court of the second instance in their verdict.

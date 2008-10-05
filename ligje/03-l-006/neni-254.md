@@ -1,0 +1,6 @@
+# Neni 254
+254.1 Paditësi mund të kërkojë me padi që gjykata vetëm të konstatojë ekzistimin, përkatësisht mosekzistimin,e një të drejte apo të një raporti juridik,ose vërtetësinë, gjegjësisht mos vërtetësinë e ndonjë dokumenti.
+254.2 Padia e këtillë mund të ngrihet kur kjo është përcaktuar me dispozita të posaçme, apo kur paditësi ka interes juridik që gjykata të vërtetojë ekzistimin apo mosekzistimin e ndonjë të drejte apo të raportit juridik, ose vërtetësinë, respektivisht mos vërtetësinë e ndonjë dokumenti para se të jetë bërë e kërkueshme kërkesa për pretim nga raporti i njëjtë.
+254.3 Po që se vendimi mbi kontestin varet nga fakti nëse ekziston ose nuk ekziston një e drejtë apo raport juridik, i cili gjatë procedimit të padisë është kontestuar, paditësi mundet, krahas kërkesës ekzistuese, ta parashtrojë edhe kërkesëpadinë me qëllim që gjykata të vërtetoj se raporti i tillë ekziston, respektivisht se nuk ekziston, po që se gjykata para së cilës është duke u zhvilluar procedimi është kompetente për kërkesën e tillë.
+254.4 Parashtrimi i kërkesës sipas dispozitës së paragrafit 3 të këtij neni nuk do të konsiderohet si ndryshim, i natyrës objektive, të padisë.
+Përfshirja e disa kërkesëpadive në një padi

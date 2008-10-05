@@ -1,0 +1,4 @@
+# Neni 137
+137.1 Procesverbali përpilohet duke i treguar gjyqtari procesmbajtësit me zë se çka do të shkruajë në procesverbal. Me lejen e gjyqtarit, pjesëmarrësit në procedurë përmbajtjen e deklaratave të tyre mund ta diktojnë në procesverbal nëpërmjet procesmbajtësit.
+137.2 Palët kanë të drejtë ta lexojnë ose të kërkojnë që t’u lexohet procesverbali, si dhe të paraqesin kundërshtimet e veta në përmbajtjen e procesverbalit. Këtë të drejtë e kanë edhe personat e tjerë, deklarata e të cilëve është përfshirë në procesverbal, por vetëm sa i përket pjesës së procesverbalit që e përmban deklaratën e tyre.
+137.3 Korrigjimet apo shtesat lidhur me kundërshtimet e palëve apo të personave të tjerë në përmbajtjen e procesverbalit, apo me iniciativën e gjyqtarit, bëhen në fundin e procesverbalit. Me kërkesën e subjekteve të përmendura shkruhen në procesverbal edhe kundërshtimet e tyre të pa aprovuara nga gjyqtari.

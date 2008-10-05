@@ -1,0 +1,7 @@
+# Article 280
+280.1 The procedure stopped for causes shown under the article 277 paragraph 1 point a) – d) of this law will continue when the successor, or tutor of the inherited wealth, the legal representative, bankruptcy administrator pr judicial successor of a legal entity take over the procedure or when they are called by the court to do that with proposal of the opposing party.
+280.2 Procedure stopped due to the reasons mentioned in the article 277 paragraph 1 point e) of this law, will continue its development after a moratorium is annulled by the bankruptcy court.
+280.3 If the court has stopped the proceeding due to the reasons mentioned in the article 278, parag.1, pt. a and paragraph 2 of this law, the trial will continue after the procedure of the absolute decree ended with the court or another competent body, or when the court of the case ascertains that there are no existing reasons to wait it’s finalization.
+280.4 In all other cases a trial off the proceedings will continue with a proposal of the party after the causes that imposed the stopping have been removed.
+280.5 Deadlines not met due to the court staying off proceedings for the party interested will start again from the day the court has sent a verdict on continuation of the court.
+280.6 The party that hasn’t presented proposal for continuing the trial will be sent a verdict for continuation according to the provisions of the article 110 of this law.

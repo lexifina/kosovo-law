@@ -1,0 +1,3 @@
+# Article 188
+188.1 After receiving the reply to the complaint, or after the deadline for replying to the complaint, the court of the first degree will forward the subject will following documentation to the court of the second degree the complaint and the reply presented within a period of seven days at most.
+188.2 If the complainer asses that during the first degree procedure the provisions of contestation procedures are violated, the court of the first degree can issue explanation regarding the subject of the complain relating to the violations of the kind, and according to the need it can conduct investigations aiming at verification of the correctness of the subject in the complaint.

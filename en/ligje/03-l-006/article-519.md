@@ -1,0 +1,8 @@
+# Article 519
+519.1 Arbiter has the obligation to be excluded when there are reasons for expulsion in the same way as they exist for the judge of the state court set by this law.
+519.2 The parties can also ask for the expulsion, if the arbiter does not have needed qualifications on which they agreed as well as when the arbiter does not fulfill its obligation as set in article 516 paragraph 2 of this law.
+519.3 The party that has named the arbiter can on its own, or both parties can, to ask for expulsion after the arbiter is named, if it found out later the reasons to do so, or the reasons appeared at the later stage.
+519.4 The parties can agree on the arbiter expulsion procedure, but can not avoid the execution of the provisions of paragraph seven (7) of this article.
+519.5 When there is no agreement from paragraph 4 of this article, the party has to present the request for expulsion of the arbitrary arbiter within fifteen (15) days it was notified about the arbiter or any other circumstance from paragraph 1 and 2 of this article. The request for expulsion should be in written and has to have the reasons for expulsion.
+519.6 If the arbiter, whose expulsion is requested by a party, does not withdraw from arbitrary, the decision on expulsion is brought by the arbitrary court where the arbiter is present.
+519.7 If the expulsion request is not successful, the party that requested so can turn to the state court from article 516 paragraph 3 to decide on arbiter expulsion. This request should be presented within thirty (30) days from the day when the decision on arbitrary is brought by which is refused to expel the arbiter.

@@ -1,0 +1,3 @@
+# Article 91
+91.1 If the party has not specified the authorizations of the representative in detail, a representative who is not a lawyer may, based on such authorization, conduct all procedural actions but shall always need an expressive authorization to withdraw the claim, confirm or waive the claim, reach a judicial compromise, waive the right to appeal the decision or to withdraw the appeal, transfer authorization to the other person and submit special measures of appeal.
+91.2 The authorized representative of the party may, even if it is not a lawyer, conduct all the actions from paragraph 1 without needing expressive authorization.

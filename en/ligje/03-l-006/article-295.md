@@ -1,0 +1,3 @@
+# Article 295
+295.1 The complaint against the verdict in the article 288, 289, 290 paragraph 1, 292 parag.1 and article 293 parag.1 of this law will not postpone execution of the verdict.
+295.2 The complaint against the verdict from the article 292 paragraph 2, and article 293 paragraph2 of this law do not obstruct the execution of the verdict, except when in the complaint is being attacked the decision of the court, which doesn’t approve the reasons of the witness for not giving a statement or for answering concrete questions, respectively the reasons of the expert for not fulfilling the expertise.

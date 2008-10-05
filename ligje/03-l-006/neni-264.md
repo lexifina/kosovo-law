@@ -1,0 +1,6 @@
+# Neni 264
+264.1 Padia mund të ngrihet bashkërisht nga shumë paditës ose kundër shume të pa diturve (bashkëndërgjyqesia) në rast se:
+a) në pikëpamje të objektit të kontestit janë në bashkësi juridike apo nëse të drejtat e tyre, përkatësisht detyrimet, burojnë nga e njëjta bazë faktike apo juridike (bashkëndërgjyqësia materiale) b) objekt kontesti janë kërkesat, përkatësisht detyrimet e të njëjtit lloj që mbështeten në bazën faktike dhe juridike esencialisht të njëjtë dhe po që se ekziston kompetenca lëndore dhe territoriale e të njëjtës gjykatë për secilën kërkesë dhe për secilin të paditur (bashkëndërgjyqësia formale);
+c) një gjë e këtillë parashikohet me ndonjë ligj tjetër.
+264.2 Deri ne përfundimin e seancës përgatitore, përkatësisht të seancës për shqyrtimin kryesor të çështjes, po që se seanca përgatitore nuk është caktuar fare, paditësit mund t’i bashkohet, nën kushtet e paragrafit 1 të këtij neni, edhe një paditës tjetër apo të zgjerohet padia edhe në një të paditur tjetër, duke u marrë pëlqimi i këtij.
+264.3 Personi që i bashkohet paditësit, përkatësisht personi në të cilin zgjerohet padia duhet ta pranoj procedurën në gjendjen në të cilën ndodhet në momentin kur ai hyn në të.

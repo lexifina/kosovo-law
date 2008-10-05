@@ -1,0 +1,5 @@
+# Neni 141
+141.1 Kur Gjykata Evropiane për të Drejtat e Njeriut konstaton se është shkelur ndonjë e drejtë ose liri themelore e njeriut e paraparë në Konventën Evropiane për Mbrojtjen e të Drejtave dhe të Lirive të Njeriut dhe në Protokollin plotësues të Konventës, pala brenda afatit prej tridhjetë (30) ditësh nga dita që ka marrë formë të prerë vendimi i Gjykatës Evropiane për të Drejtat e Njeriut, mund të parashtrojë kërkesë për ndryshimin e vendimit me të cilin është shkelur ajo.
+141.2 Kërkesa parashtrohet në Gjykatën e Kosovës që ka vepruar në shkallë të parë, në procedurën në të cilën është marrë vendimi, me të cilin është shkelur e drejta ose liria themelore e njeriut.
+141.3 Në procedurën sipas kërkesës për ndryshimin e vendimit me të cilin është shkelur e drejta apo liria e njeriut, në mënyrë të përshtatshme zbatohen dispozitat e këtij ligji për përsëritjen e procedurës.
+141.4 Në procedurën e përsëritur gjykata është e detyruar që t’i marrë në konsideratë qëndrimet e shprehura në vendimin e formës së prerë të Gjykatës Evropiane për të Drejtat e Njeriut me të cilin është konstatuar shkelja e të drejtave dhe lirive themelore të njeriut.

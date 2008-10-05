@@ -1,0 +1,3 @@
+# Article 265
+265.1 The plaintiff could include in the charge two or more parties, and can ask for the claim charge to approve the charges against the person number 2 if the charges are rejected as un-based for the person number 1. (litispendence with an eventual charged party).
+265.2 As determined by the paragraph 1 of this article, the plaintiff could add in the charge two or more parties if against each of them it is presented the same charge, or if against one of them it is proposed different charge but related to the first charge, or if each of the requests proposed are under the competencies of the same court.

@@ -1,0 +1,4 @@
+# Neni 42
+42.1 Në qoftë se për procedimin e çështjes në kontestin lidhur me të drejtën e pronësisë apo të drejtave sendore të tjera mbi mjetin e fluturimit si dhe në kontestet nga raporti i qiradhënies së mjetit të fluturimit është kompetente gjykata e Kosovës, ekskluzivisht është kompetente në pikëpamje territoriale gjykata në territorin e së cilës mbahet regjistri në të cilin është regjistruar mjeti i fluturimit.
+42.2 Në qoftë se për kontestin për shkak të pengim posedimit në mjetin e fluturimit nga paragrafi l i këtij neni është kompetente gjykata në Kosovë, e kompetencës territoriale, përveç gjykatës në territorin e të cilës mbahet regjistri në të cilin është regjistruar mjeti i fluturimit, është edhe gjykata në territorin e së cilës është bërë pengimi.
+Kompetenca për kontestet në procedurën përmbaruese dhe të falimentimit

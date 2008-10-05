@@ -1,0 +1,2 @@
+# Article 76
+The court shall at all stages of the proceeding, by official duty, review whether the person that is presented as a party may be a party in the procedure and whether it has the procedural capabilities, and if the party that lacks procedural capabilities is represented by his or her legal representative as well as if the legal representative has the special authorization, when necessary.

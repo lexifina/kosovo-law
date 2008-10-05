@@ -1,0 +1,2 @@
+# Neni 215
+Gjykata e revizionit e shqyrton aktgjykimin e goditur vetëm në pjesën e tij të goditur me anë të revizionit dhe vetëm brenda kufijve të shkaqeve të treguara në revizion, por duke u kujdesur sipas detyrës zyrtare për zbatimin e drejtë të së drejtës materiale dhe për shkeljet e dispozitave të procedurës kontestimore që kanë të bëjnë me zotësinë për të qenë palë dhe përfaqësimin e rregullt.

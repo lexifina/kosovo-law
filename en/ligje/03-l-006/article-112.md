@@ -1,0 +1,2 @@
+# Article 112
+If the addressee, the adult member of his family, authorized person, the employee of the state body or legal person, refuses to accept the document without any legal justification, the person effecting the service shall leave the document at home or workplace of the addressee or attach it on the door of the home or workplace. The person effecting the service shall note on the receipt the date, hour and reason for refusal and the place where the document is left. Service is thereby effected.

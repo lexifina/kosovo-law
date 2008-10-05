@@ -1,0 +1,2 @@
+# Neni 380
+Kërkesa për sigurimin e provës paraqitet ne gjykatën që është duke shqyrtuar çështjen dhe, ne rast se padia nuk është ngritur ende, ne gjykatën e vendit ku ka banim personi qe do te pyetet ose ku ndodhet sendi që duhet te këqyret. Ne rastet e ngutshme kërkesa për sigurimin e provës mund të paraqitet në gjykatën e vendit ku ka banim personi që do të pyetet ose ku ndodhet sendi që duhet të këqyret, përkundrejt faktit se padia është ngritur.

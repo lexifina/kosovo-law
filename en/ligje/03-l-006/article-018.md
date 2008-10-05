@@ -1,0 +1,4 @@
+# Article 18
+18.1 The court, by its official duty, during the entire procedure safeguards whether the settlement of dispute is within the court jurisdiction or not.
+18.2 If the court during the proceeding determines that jurisdiction over settling of the dispute is with a different state body and not with the court, it is announced its incompetence, all the procedural actions are declared invalid and the claim is dropped.
+18.3 If the court during all stages of proceeding determines that the local court is not competent, it will be declared incompetent, all the proceeding will be nullified and the claim will be dropped. However, such an action will not be taken if the jurisdiction of the court is dependent on the approval of the defendant and the defendant has already given his or her permission.

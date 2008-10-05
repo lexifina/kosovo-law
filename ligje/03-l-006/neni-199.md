@@ -1,0 +1,2 @@
+# Neni 199
+Gjykata e çështjes ka për detyrë që menjëherë pasi t’i arrijë aktvendimi i gjykatës së shkallës së dytë, të caktojë seancën përgatitore apo seancën për shqyrtimin kryesor të çështjes e cila duhet të mbahet më së voni brenda afatit tridhjetë (30) ditor pas arritjes së aktvendimit të gjykatës së shkallës së dytë, si dhe t’i kryejë të gjitha veprimet procedurale dhe t’i shqyrtojë të gjitha çështjet kontestuese që i ka ofruar gjykata e shkallës së dytë në aktvendimin e saj.

@@ -1,0 +1,4 @@
+# Neni 18
+18.1 Gjykata, sipas detyrës zyrtare, gjatë gjithë procedurës kujdeset nëse zgjidhja e kontestit hynë ose jo në kompetencën gjyqësore.
+18.2 Kur gjykata gjatë procedimit të çështjes konstaton se për zgjidhjen e kontestit nuk është kompetente gjykata veçse ndonjë organ shtetëror tjetër, do të shpallet inkompetente, do t’i shpallë të pavlefshme të gjitha veprimet procedurale te kryera dhe do ta hedhë poshtë padinë që i është paraqitur.
+18.3 Kur gjykata gjatë zhvillimit të procedurës konstaton se për zgjidhjen e kontestit nuk është kompetente gjykata e vendit, do të shpallet inkompetente, do t’i anulojë veprimet procedurale të kryera dhe do ta hedhë poshtë padinë. Mirëpo, gjykata nuk do të veprojë ashtu nëse kompetenca e gjykatës së vendit tonë varet nga pëlqimi i të paditurit, e i padituri e ka dhënë pëlqimin e vet.

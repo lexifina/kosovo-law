@@ -1,0 +1,3 @@
+# Article 129
+129.1 when the party does not take part in the proceeding or misses the due date for completion of any procedural action and due to this it looses the right to complete the procedural action bound to the prescribed period of time, the court may permit this party to complete this action with delay if there are reasonable circumstances which can not be determined or avoided.
+129.2 If the return to previous situation is permitted, the contentious procedure returns to the situation in which was before failure to act and all the decisions rendered to the court due to failure to act are cancelled.

@@ -1,0 +1,5 @@
+# Neni 99
+99.1 Padia, përgjigjja në padi, mjetet e goditjes së vendimit dhe deklaratat e tjera, propozimet dhe njoftimet, që bëhen jashtë seancave gjyqësore, paraqiten me shkrim (parashtresat). Kushtin e formës së shkruar e përmbushin edhe parashtresat e dërguara me anë të telegrafit, telefaksit apo postës elektronike. Parashtresat e këtilla quhen të firmosura , po që se në to është treguar dërguesi.
+99.2 Parashtresat duhet të jenë të kuptueshme dhe të përmbajnë çdo gjë që nevojitet dhe e mundëson veprimin sipas tyre. Ato duhet të përmbajnë sidomos: emrin e gjykatës, emrin dhe mbiemrin (emërtimin e personit juridik), vendbanimin apo vendqëndrimin (selinë e personit juridik) e palëve, të përfaqësuesve të tyre ligjor apo me prokurë, po që se i kanë, objektin e kontestit, përmbajtjen e deklaratës dhe firmën e parashtruesit.
+99.3 Në qoftë se deklarata përmban ndonjë kërkesë, pala duhet në parashtresë t’i tregoj faktet mbi të cilat e bazon kërkesën, si dhe provat kur është nevoja për një gjë të këtillë.
+99.4 Parashtresat që dërgohen me anë të postës elektronike duhet të verifikohen me anë të firmës së kualifikuar elektronike.

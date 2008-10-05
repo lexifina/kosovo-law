@@ -1,0 +1,5 @@
+# Article 47
+47.1 In the adjudication of disputes related to non-contractual responsibility for the damage, the competency, apart from the court with general territorial jurisdiction, is also with the court in whose territory it was committed the act of damage or the court in whose territory the consequence from the damage has appeared.
+47.2 If the damage is caused due to death or severe body injury, the competency, apart from the court from the paragraph 1 of this article, is also with the court in whose territory the claimant has a permanent or temporary residence.
+47.3 The provisions from paragraph 1 and 2 of this article may be applied also in the law-suits against insurance associations for compensation of damage to third persons according to provision on their direct responsibility while paragraph 1 of this article also applies for the disputes over compensation with the debtors of compensation.
+Competencies in the disputes related to protection of the rights from the producers warranty

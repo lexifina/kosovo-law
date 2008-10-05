@@ -1,0 +1,3 @@
+# Neni 21
+21.1 Deri sa të merret vendimi mbi çështjen kryesore gjykata me anë të aktvendimit do ta përfundoj procedurën kontestimore, në qoftë se konstaton se procedura do të duhej te zhvillohej sipas rregullave të procedurës jokontestimore. Pasi të bëhet i formës së prerë aktvendimi në fjalë, procedura do të vazhdojë të zhvillohet sipas rregullave të procedurës jokontestimore në gjykatën kompetente.
+21.2 Veprimet procedurale të kryera nga gjykata kontestimore (këqyrja direkt, ekspertiza, dëgjimi i dëshmitareve etj.), si dhe vendimet që i ka marrë kjo gjykatë, nuk janë të pavlefshme vetëm sepse janë kryer në procedimin kontestimor dhe nuk do te kryhen rishtas.

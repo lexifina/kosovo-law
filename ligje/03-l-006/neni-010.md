@@ -1,0 +1,4 @@
+# Neni 10
+10.1 Gjykata ka për detyrë të përpiqet që procedura të zhvillohet pa zvarritje dhe me sa më pak shpenzime, si dhe të bëjë të pamundur çdo shpërdorim të së drejtave procedurale që u takojnë palëve sipas këtij ligji.
+10.2 Po që se palët, ndërhyrësit, përfaqësuesit ligjor apo me prokurë të tyre, me qëllim që t’i dëmtojnë të tjerët, që është në kundërshtim me zakonet e mira, mirëbesimin dhe ndërgjegjen, i shpërdorojnë të drejtat qe u janë njohur me këtë ligj, gjykata kundër tyre do të caktojë dënime me të holla ose masa të tjera ligjore.
+10.3 Nëse palët, ndërhyrësit, përfaqësuesit ligjorë ose përfaqësuesit e autorizuar vazhdimisht i shpërfillin urdhrat e gjykatës, dështojnë të ofrojnë informacion sipas mandatit në këtë ose në ndonjë ligj tjetër në fuqi, ose dështojnë të paraqiten në seancat e caktuara, me qëllim që ta vonojnë procedimin e lëndës, gjykata mund të urdhërojë gjoba në të holla ose të zbatojë masa të tjera të përcaktuara me ligj.

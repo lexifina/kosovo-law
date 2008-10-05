@@ -1,0 +1,2 @@
+# Article 344
+Witness has no right to refuse to testify if his testimony will cause wealth damages, if something was caused in his presence while invited as a witness by whose while he acted as a legal representative or a representative of any of the parties for facts that have to do with wealth caused by marriage or any other family tie. These facts might do with birth, death, marriage as well as any other provisions that have to do with obligatory declaration.

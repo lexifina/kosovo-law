@@ -1,0 +1,5 @@
+# Neni 47
+47.1 Për gjykim në kontestet lidhur me përgjegjësinë jokontraktuale për demin, përveç gjykatës së kompetencës së përgjithshme territoriale, është kompetente edhe gjykata në territorin e së cilës është kryer veprimi dëmtues apo gjykata në territorin e së cilës ka lindur pasoja e dëmtimit.
+47.2 Në qoftë se dëmi është shkaktuar për shkak të vdekjes apo të lëndimit të rëndë trupor, kompetente është, përpos gjykatës nga paragrafi l i këtij neni, edhe gjykata në territorin e së cilës paditësi e ka vendbanimin, respektivisht vendqëndrimin e vet.
+47.3 Dispozitat e paragrafëve l dhe 2 të këtij neni do të aplikohen edhe në kontestet sipas padive civile kundër shoqërive të sigurimit për shpërblimin e dëmit personave të tretë në bazë të dispozitave mbi përgjegjësinë direkte të tyre, kurse dispozita e paragrafit l të këtij neni edhe në kontestet lidhur me kërkesat e regresit në bazë të shpërblimit të dëmit kundër debitorëve te regresit.
+Kompetenca në kontestet për mbrojtjen e së drejtës në bazë të garancisë së prodhuesit

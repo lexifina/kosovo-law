@@ -1,0 +1,3 @@
+# Article 224
+224.1 If the court of revisions ascertains that the material good right was applied wrongfully, through a decision it approves the revision presented or changes the decision attacked.
+224.2 If the court of revision ascertains due to the wrongful application of the material good, or due to the violation of rules of procedure-the factual state isn’t certified completely and for that reason there are no conditions to change the attacked decision, than the court approves the revision through a verdict and annuls partially or completely the decision of the first and the second instance, or only the decision of the second instance, while the case is sent for retrial to the same or other judges of the court of the first instance or the second.

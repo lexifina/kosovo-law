@@ -1,0 +1,2 @@
+# Article 390
+If the court decides that the charges are unclear, or that there are deficiencies that the party becomes an involved party at the court, or with its legal representative, or there are deficiencies in representative authorization to initiate contentious procedure, and this authorization is requested by law, it can take necessary means determined in this law (articles 79 and 102 of this law)

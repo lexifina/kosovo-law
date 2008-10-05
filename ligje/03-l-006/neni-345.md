@@ -1,0 +1,3 @@
+# Neni 345
+345.1 Justifikueshmërinë e arsyeve për refuzimin e dëshmisë, apo të përgjigjes në pyetjet konkrete, e çmon gjykata në të cilën dëshmitari duhet të dëgjohet. Kur është nevoja lidhur me këtë me parë mund të dëgjohen palët ndërgjyqëse.
+345.2 Kundër aktvendimit nga paragrafi 1 i këtij neni palët nuk kanë të drejtë ankimi të veçantë, kurse dëshmitari këtë aktvendim mund ta sulmoj vetëm me anë të ankesës së paraqitur kundër aktvendimit me të cilin është dënuar me gjobë, ose me burgim, nga shkaku se ka refuzuar të dëshmojë ose të japë përgjigje në pyetjet konkrete ( neni 292 paragrafi 2 i këtij ligji).

@@ -1,0 +1,3 @@
+# Neni 265
+265.1 Paditësi me padinë e tij mund të përfshijë dy ose më tepër të paditur edhe në mënyrë që të kërkojë që kërkesëpadia të aprovohet ndaj të paditurit (te dytë) po që se refuzohet si e pa bazë ndaj të paditurit (të parë) ( bashkëndërgjyqësia me të paditurin eventual).
+265.2 Në mënyrën e përcaktuar në paragraf 1 të këtij neni paditësi mund t’i përfshijë me padi dy a më tepër të paditur në qoftë se ndaj secilit nga ta e parashtron të njëjtën kërkesëpadi, apo nëse ndaj ndonjërit nga ta parashtron kërkesëpadi tjetër por qe është në lidhje me kërkesëpadinë e parë, si dhe po që se për secilën nga kërkesat e tilla është e kompetencës lëndore dhe territoriale e njëjta gjykatë.

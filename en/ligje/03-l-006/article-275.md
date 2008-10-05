@@ -1,0 +1,5 @@
+# Article 275
+275.1 The charged person as the owner of an item or as a user of a estate right that pretends that the item at his position, respectively using the right on behalf of the third party can invite a third party (judicial predecessor) for replacement as a charged party through the court, at the latest during the preliminary session an dif this hasn’t take place than for the main hearing of the case.
+275.2 Consent of the plaintiff for the judicial predecessor to enter the trial instead of the charged party is necessary only if the plaintiff against the charged presents requests that the charged do not depend on holding or not holding ownership on behalf of the predecessor, respectively exercise or not the specific right on behalf of the judicial predecessor .
+275.3 If the judicial predecessor was invited regularly to attend the court session or refuses to enter the contestation procedure instead of the charged party, than the latter can not oppose participation in the examining of the raised issue with a charge against him.
+Notification of the third party for the court session

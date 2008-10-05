@@ -1,0 +1,3 @@
+# Neni 489
+489.1 Po që se pala paditëse e ndryshon kërkesëpadinë me anë të zmadhimit të saj duke kapërcyer kështu kufirin prej 500 Euro, procedura e filluar do të vazhdohet dhe përfundohet sipas dispozitave për procedurën kontestimore të përgjithshme të këtij ligji.
+489.2 Po që se paditësi deri në përfundimin e seancës për shqyrtimin kryesor të çështjes që është duke u zhvilluar sipas dispozitave mbi procedurën e përgjithshme kontestimore e zvogëlon kërkesëpadinë nën shumën prej 500 Euro, procedura e mëtejme do të zhvillohet sipas rregullave të këtij ligji për procedurën për zgjidhjen e kontesteve me vlerë të vogël.

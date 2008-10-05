@@ -1,0 +1,8 @@
+# Neni 519
+519.1 Arbitri ka për detyrë të përjashtohet kur ekzistojnë shkaqet e përjashtimit të parashikuara për përjashtimin e gjyqtarit të gjykatës shtetërore me këtë ligj.
+519.2 Përjashtimi i arbitrit mund të kërkohet nga palët edhe atëherë kur arbitri nuk i ka kualifikimet e duhura për të cilat ato janë marrë vesh, si dhe kur ai nuk i përmbushë detyrat.
+519.3 Pala e cila vetë, apo bashkërisht me palën tjetër, e ka emëruar arbitrin mund ta kërkojë përjashtimin e tij vetëm nëse shkaku i përjashtimit ka lindur, apo pala ka marrë dijeni për të, pasi të jetë emëruar arbitri.
+519.4 Palët mund të merren vesh për procedurën e përjashtimit të arbitrit, por nuk mund ta evitojnë zbatimin e dispozitave të paragrafit 7 të këtij neni.
+519.5 Kur mungon marrëveshja nga paragrafi 4 e këtij neni, pala duhet t’ia paraqes kërkesën për përjashtimin e arbitrit arbitrazhit brenda afatit pesëmbëdhjetë (15) ditor nga dita në të cilën ka marrë dijeni për emërimin e arbitrit apo për cilëndo rrethanë nga paragrafi 1 dhe 2 të këtij neni. Kërkesa për përjashtimin e arbitrit duhet te jetë me shkrim dhe t’i përmbajë shkaqet e përjashtimit.
+519.6 Po që se arbitri, përjashtimin e të cilit e ka kërkuar pala, nuk tërhiqet nga arbitrazhi, vendimin mbi përjashtimin e merr gjykata e arbitrazhit në përbërjen e te cilës paraqitet edhe arbitri i tillë.
+519.7 Në qoftë se kërkesa për përjashtimin e arbitrit mbetet e pasuksesshme, pala që e ka bërë kërkesën e tillë mund t’i drejtohet gjykatës shtetërore nga neni 516, paragrafi 3 që ta merr vendimin për përjashtimin e arbitrit. Këtë kërkesë pala duhet ta paraqesë brenda afatit prej tridhjetë (30) ditësh nga dita në të cilën i është dorëzuar vendimi i arbitrazhit me të cilin është refuzuar kërkesa e saj për përjashtimin e arbitrit.

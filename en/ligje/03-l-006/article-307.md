@@ -1,0 +1,6 @@
+# Article 307
+307.1 Through verdict of setting the measures of insurance, the court sets the type of measures, means by which it will be applied forcefully and object of insurance measures by applying accordingly the regulations of court proceedings. The court in accordance to its official duty will sent the verdict on setup of the measures of insurance to the responsible court so it can forcefully be executed and to the pubic registry for record.
+307.2 If for the implementation of the order or set stopping, means or object of insurance should be changed, the party can propose a change of the kind in the same procedure and based on the order for the existing suspension.
+307.3 The verdict which determines the measures of insurance has a verdict impact over the execution of the Law for the Executing Procedure. The measures of insurance oblige the party, as well as people related who only after they are informed for the measures of security by the verdict.
+307.4 The verdict from the paragraph 1 and 2 of this article should have the justification part.
+307.5 The court according to its official responsibility sets the measures of insurance, than it applies them according to the provisions of this article.

@@ -1,0 +1,2 @@
+# Neni 390
+Nëse gjykata konstaton se padia është e pakuptueshme apo jo e plotë, apo se ekzistojnë mungesa që kanë të bëjnë me zotësinë e paditësit apo të paditurit që të bëhet palë ndërgjyqëse, apo me përfaqësimin ligjor të tyre, apo mungesa që i përkasin autorizimit të përfaqësuesit që ta inicioj procedurën kontestimore, kur autorizimi i tillë kërkohet me ligj, gjykata me qëllim të heqjes së mungesave të tilla i ndërmerr masat e nevojshme të përcaktuara me këtë ligj (neni 79 dhe 102 i këtij ligji).

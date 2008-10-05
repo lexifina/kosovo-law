@@ -1,0 +1,3 @@
+# Article 21
+21.1 Until the decision on the main issue is rendered, the court through a written resolution may complete the contentious procedure if it determines that it should be proceeded according to the rules of the non- contentious procedure. Following the effective written resolution, it shall be proceeded at the competent court according to the rules of the non-contentious procedure.
+21.2 Proceedings by the contentious court (direct examination, expertise, examination of witnesses, etc.) and the decision rendered by this court shall not be deemed as invalid only because it was proceeded according to the contentious procedure and shall not be retried.

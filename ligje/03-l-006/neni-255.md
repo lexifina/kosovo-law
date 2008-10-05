@@ -1,0 +1,7 @@
+# Neni 255
+255.1 Në një padi paditësi mund t’i përfshij disa kërkesa kundër të njëjtës palë të paditur po që se ato të gjitha janë të lidhura me të njëjtën bazë faktike dhe juridike.
+255.2 Në qoftë se kërkesat nuk janë të lidhura me të njëjtën bazë faktike dhe juridike, ato mund të përfshihen në një padi kundër të njëjtës palë të paditur vetëm po që se e njëjta gjykatë është e kompetencës lëndore për secilën nga këto kërkesa dhe kur për të gjitha kërkesat është e përcaktuar i njëjti lloj i procedurës, e gjykata vjen në përfundim se përfshirja e kërkesëpadive të tilla në një padi i kontribuon ekonomisë së procedimit ( bashkimi kumulativ i kërkesëpadive). Po që se një gjë e tillë nuk i kontribuon ekonomisë së procedimit, gjykata, më së voni në seancën përgatitore, sjellë aktvendim për ndarjen e procedurës.
+255.3 Paditësi mundet në një padi t’i përfshijë dy apo më tepër kërkesëpadi që janë të ndërlidhura midis tyre, dhe të kërkojë që gjykata ta aprovojë të dytën me radhë vetëm po që se e para refuzohet ( bashkimi eventual i kërkesëpadive).
+255.4 Bashkimi i kërkesëpadive mund të bëhet sipas paragrafit 3 të këtij neni vetëm po që se gjykata është e kompetencës lëndore për çdonjërën nga kërkesat e përfshira në një padi, dhe nëse për të gjitha kërkesat është përcaktuar i njëjti lloj i procedurës.
+255.5 Me aktgjykimin me të cilin aprovohet kërkesëpadia nën një shuhet gjyqëvarësia e krijuar lidhur me kërkesëpadinë në numrin 2.
+Kundërpadia
