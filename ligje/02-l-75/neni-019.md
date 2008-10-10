@@ -1,0 +1,4 @@
+# Neni 19
+Gjuha
+19.1. Nëse palët nuk janë pajtuar ndryshe, tribunali i arbitrazhit, menjëherë pas themelimit të tij, e përcakton gjuhën ose gjuhët të cilat do të përdoren gjatë procedurës së arbitrazhit. Marrëveshja ndërmjet palëve, respektivisht, vendimi i tribunalit vlejnë për të gjitha deklaratat dhe parashtresat me shkrim që dorëzohen nga palët, seancat e dëgjimit, si dhe vendimet ose kumtesat tjera të tribunalit të arbitrazhit. 6
+19.2. Tribunali i arbitrazhit mund të urdhërojë që të gjitha dokumenteve të dorëzuara gjatë procedurës së arbitrazhit t’u bashkëngjitet një përkthim në gjuhën ose gjuhët për të cilat janë pajtuar palët ose të cilat i ka caktuar tribunali i arbitrazhit. Tribunali i arbitrazhit i pranon vetëm përkthimet e bëra nga një përkthyes i certifikuar ose i aprovuar nga gjykata.

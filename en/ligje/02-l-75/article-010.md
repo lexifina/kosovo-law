@@ -1,0 +1,4 @@
+# Article 10
+Challenge of Arbitrators
+10.1. A prospective arbitrator when approached by a party or a Court shall disclose any circumstances likely to give rise to justifiable doubts as to his impartiality or independence. An arbitrator, once appointed, shall disclose such circumstances to the parties unless they have already been informed by him of these circumstances.
+10.2. Any arbitrator may be challenged by either party if circumstances exist that give rise to justifiable doubts as to the arbitrators impartiality or independence, or if the arbitrator does not have the qualifications agreed to by the parties. A party may challenge the arbitrator appointed by it only for reasons of which it becomes aware after the appointment has been made. The relevant party must make the challenge as soon as it becomes aware of the circumstances giving reason for the challenge.

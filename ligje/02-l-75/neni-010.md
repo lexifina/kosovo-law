@@ -1,0 +1,4 @@
+# Neni 10
+Përjashtimi i arbitrit
+10.1. Personi, të cilit njëra palë ose Gjykata i drejtohet për emërim si arbitër, ka për detyrë t’i bëjë publike të gjitha rrethanat të cilat mund të shkaktojnë dyshime lidhur me pa-anësinë ose pavarësinë e tij. Arbitri, pas emërimit, duhet t’i bëjë publike rrethanat e tilla para palëve nëse palët nuk janë njoftuar paraprakisht për këto rrethana.
+10.2. Secila palë mund të kërkojë përjashtimin e cilitdo arbitër, nëse ajo ka dyshime të arsyeshme lidhur me pa-anësinë ose pavarësinë e arbitrit, ose nëse arbitri nuk i posedon kualifikimet për të cilat palët janë pajtuar. Pala mund të kërkojë përjashtimin e arbitrit të cilin e ka emëruar ajo, vetëm nëse arsyet për përjashtimin e tij kanë lindur pas emërimit të arbitrit. Pala gjegjëse ka për detyrë të kërkojë përjashtimin e arbitrit menjëherë pasi të njoftohet për rrethanat të cilat e arsyetojnë përjashtimin.

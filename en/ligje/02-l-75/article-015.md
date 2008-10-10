@@ -1,0 +1,5 @@
+# Article 15
+Preliminary Orders
+15.1. Unless otherwise agreed by the parties, the arbitral tribunal may, at the request of a party, can issue preliminary order if that party gives credible evidence that immediate or irreparable injury, loss or damage will result to the party if no preliminary order is granted. The arbitral tribunal may require any party to provide appropriate security in connection with such preliminary orders.
+15.2. At the request of a party, the court may order the enforcement of a preliminary order issued by the arbitral tribunal pursuant to Paragraph (1) of this Article unless such party has requested a preliminary order pursuant to Article 8 on the same matter.
+15.3. If a preliminary order issued by the arbitral tribunal according to paragraph (1) of this Article proves to be unjustified, the party in whose favor the preliminary order was issued shall compensate the damages incurred by the other party as a result of the enforcement of the preliminary order. The arbitral tribunal shall have 5 jurisdiction to decide on the justification of the preliminary order and matters related to the compensation of damages referred to above.

@@ -1,0 +1,6 @@
+# Neni 6
+Marrëveshja e arbitrazhit
+6.1. Marrëveshja e arbitrazhit lidhet në formë të shkruar.
+6.2. Kushti i mësipërm konsiderohet se është përmbushur edhe nëse lidhja e marrëveshjes së arbitrazhit dokumentohet në formë të këmbimit të letrave, telefaksit, telegramit ose mënyrave të tjera të telekomunikimit ose komunikimit elektronik, në formë të konosmanit, nëse konosmani përmban shprehimisht një klauzolë të arbitrazhit, ose në rast të paraqitjes së padisë dhe të përgjigjes në padi, në kuadër të së cilës njëra palë pretendon se ekziston një marrëveshje arbitrazhi dhe pala tjetër nuk e konteston këtë.
+6.3. Nëse një konsumator është palë në marrëveshjen e arbitrazhit, marrëveshja e arbitrazhit konsiderohet të jetë lidhur në formën e shkruar vetëm nëse të gjitha palët në marrëveshjen e arbitrazhit e nënshkruajnë personalisht dokumentin që përmban klauzolën e arbitrazhit. Nënshkrimi i cekur në këtë paragraf mund të zëvendësohet me nënshkrimin elektronik në përputhje me legjislacionin përkatës për nënshkrimet elektronike.
+6.4. Mospërmbushja e kushteve të përcaktuara nё paragrafin 2 dhe 3 të këtij neni nuk merret parasysh nga tribunali i arbitrazhit, nëse palët e kanë inicuar procedurën e arbitrazhit.

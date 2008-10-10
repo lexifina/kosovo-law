@@ -1,0 +1,4 @@
+# Neni 12
+Moskryerja e detyrës
+12.1. Nëse arbitri për arsye juridike ose faktike nuk mund t’i ushtrojë detyrat e tij ose për shkaqe tjera nuk i ndërmerr veprimet pa vonesë të arsyeshme, mandati i tij përfundon nëse jep dorëheqje ose kur palët pajtohen për përfundimin e mandatit të tij. Nëse arbitri nuk jep dorëheqje ose nëse palët nuk pajtohen lidhur me përfundimin e mandatit, me kërkesën e njërës palë ose të ndonjë anëtari të tribunalit, Gjykata vendos për përfundimin e mandatit të arbitrit. Kundër vendimit të Gjykatës nuk është e lejuar ankesa.
+12.2. Nëse sipas paragrafit 1 të këtij neni ose nenit 11, paragrafi 2, arbitri jep dorëheqje ose palët pajtohen për përfundimin e mandatit të arbitrit, kjo nuk nënkupton se ekziston njëra prej arsyeve të parapara në këtë nen ose në nenin 11, paragrafi 2.

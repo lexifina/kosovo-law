@@ -1,0 +1,4 @@
+# Article 12
+Failure to Act
+12.1. If an arbitrator becomes de jure or de facto unable to perform his functions or for other reasons fails to act without undue delay, his mandate shall terminate if he resigns or if the parties agree on the termination his mandate. If the arbitrator does not resign or if the parties do not agree on the termination, upon the request of any party or member of the tribunal, the Court shall decide on the termination of the arbitrator’s mandate. Against the Court decision the claim is not allowed.
+12.2. If, under Paragraph 1 of this Article or Article 11, Paragraph (2), an arbitrator withdraws from office or a party agrees to the termination of the mandate of an arbitrator, this shall not imply acceptance of the validity of any ground referred to in this Article or Article 11, paragraph 2.

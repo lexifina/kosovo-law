@@ -1,0 +1,5 @@
+# Neni 25
+Ekspertët
+25.1. Përveç nëse palët janë pajtuar ndryshe, tribunali i arbitrazhit mund të emërojë një ose më shumë ekspertë të cilët do t’i raportojnë atij me shkrim për çështje tё caktuara nga tribunali i arbitrazhit.
+25.2. Tribunali i arbitrazhit mund ta urdhërojë një palë që ekspertit t’i jep çdo informatë të nevojshme, të përgatisë ose t’i ofrojë qasje në dokumente ose sende për shiqim. Pas pranimit të raportit të ekspertit, tribunali i arbitrazhit ua dërgon palëve nga një kopje të raportit me ç’rast palëve u jepet mundësia që me shkrim ta shprehin mendimin e tyre lidhur me raportin.
+25.3. Përveç nëse palët janë pajtuar ndryshe, me kërkesë të palës ose nëse tribunali i arbitrazhit këtë e konsideron të nevojshme, eksperti, pasi të ketë dorëzuar raportin me shkrim, dëgjohet në seancë, gjatë së cilës palët kanë mundësi ta marrin ekspertin në pyetje. Gjatë kësaj seance të dëgjimit, palët mund të paraqesin ekspertët e tyre për të dhënë mendimin e tyre në lidhje me çështjet e ngritura.

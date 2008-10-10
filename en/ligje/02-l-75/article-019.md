@@ -1,0 +1,4 @@
+# Article 19
+Language
+19.1. Unless the parties have agreed otherwise, the arbitral tribunal shall, promptly after its appointment, determine the language or languages to be used in the proceedings. The agreement of the parties or, respectively, the determination of the arbitral tribunal shall apply to any written statement and request submitted by a party, any hearing and any award, decision or other communication by the arbitral tribunal.
+19.2. The arbitral tribunal may order that any documents submitted in the course of the proceedings delivered in their original language shall be accompanied by a translation into the language or languages agreed upon by the parties or determined by the arbitral tribunal. The arbitral tribunal shall only accept translation produced by a translator who is certified or otherwise approved by a court.
