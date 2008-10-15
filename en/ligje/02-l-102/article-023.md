@@ -1,0 +1,4 @@
+# Article 23
+23.1. Supervision competent authorities which are obligated for these activities from article 22 paragraph 1 of this Law, are authorized that immediately to undertake all measurements from article 24 paragraph 1 point (d) and (e) of this law in cases when the noise exceeds the highest allowed level article 2 of this law and based on measurement results.
+23.2. Authorities from paragraph 1 of this article have rights to limit or temporary halt these certain activities of legal or physical persons based on the ordinance with continuance length until 8 days.
+23.3. Ordinance from paragraph 2 of this article could be executed immediately, with stamping the apparatuses, equipments, or capital goods or in another adapted manner when by the measurements is ascertained the noise exceeds level, in harmony with paragraph 1of this article.

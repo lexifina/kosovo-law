@@ -1,0 +1,4 @@
+# Neni 23
+23.1. Organet kompetente mbikëqyrëse që kryejnë këto veprime nga neni 22 paragrafi 1 i këtij ligji, janë të autorizuara që në vendin e ngjarjes t’i ndërrmarrin të gjitha masat nga neni 24 paragrafi 1 pika (d) dhe (e) e këtij ligji, në raste kur emisioni i zhurmës tejkalon nivelin më të lartë të lejuar nga neni 2 i këtij ligji, në bazë të rezultateve matëse.
+23.2. Organet nga paragrafi 1 i këtij neni, mund të bëjnë kufizime ose përkohësisht të ndalojnë kryerjen e veprimtarisë së caktuar personit juridik ose fizik me urdhëresë, në kohëzgjatje më së shumti prej 8 ditësh.
+23.3. Urdhëresa nga paragrafi 2 i këtij neni, mund të ekzekutohet menjëherë, me vulosjen e aparatit, pajisjes ose makinerisë ose në një menyrë tjetër të përshtatshme, kur me matje konstatohet tejkalimi i nivelit të zhurmës, në harmoni me paragrafin 1 të këtij neni.

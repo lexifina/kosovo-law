@@ -1,0 +1,3 @@
+# Article 7
+7.1. Machinery, transporting vehicles, produced or imported equipments and apparatuses in Kosovo, before using them, they should be in harmony with regulations and technical requests which are dedicated for permitted noise level, produced under the certain conditions. Obligatory, they should have notes about noise level on the conducting document which should be in harmony with Kosovo norms or with EU norms.
+7.2. Source of noise from vehicles, other transporting vehicles, equipments and apparatuses from paragraph 1 of this article that are in use and for which there is no note on noise emission level, after enforcement of this Law, should be harmonized with provisions of this law and that within limited time of 5 years, since the day of its enforcement.

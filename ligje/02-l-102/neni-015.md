@@ -1,0 +1,3 @@
+# Neni 15
+15.1. Me rastin e plotësimit të nevojave për mbajtjen e tubimeve publike, organizimit të manifestimeve argëtuese, sportive dhe aktiviteteve tjera në vende publike të hapura ose të mbyllura, për banorët vendorë ose mysafirë, në rastet kur ekzistojnë mundësit e tejkalimit të nivelit të zhurmës së lejuar, njësitë 6 lokale të qeverisjes, me vendim të organeve kompetente, mund të caktojnë një rrugë, një pjesë të rrugës ose pjesë të qytetit, shesh ose lokacion tjetër të përshtatshëm, për qëllime të tilla.
+15.2. Me të njejtin vendim përcaktohen edhe rrugët e shkuarjes e ardhjes të pjesëmarrësve nga këto manifestime.
