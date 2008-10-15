@@ -1,0 +1,3 @@
+# Neni 46
+46.1. Kur ndonjë person ekonomikisht e shfrytëzon apo përdor materialin për shumim të varietetit të mbrojtur pa ndonjë marrëveshje ose kundër pëlqimit të mbajtësit të së drejtës së seleksionuesit të bimëve, duhet që ti prezantoj mbajtësit të së drejtës së varietetit të gjitha të dhënat përkatëse sipas kërkesës së tij.
+46.2. Në rastet kur të dhënat nuk sigurohen me dëshirë, mbajtësi i së drejtës së seleksionuesit të bimëve mund të kërkoj që zyra të lëshoj vendim të përkohshëm për të kërkuar nga autori i keqpërdorimit që të prezantoj të dhënat. Ankesa kundër vendimit të përkohshëm nuk do të ndaloj ekzekutimin e tij.

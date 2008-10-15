@@ -1,0 +1,5 @@
+# Article 26
+26.1. The Office shall check if the application is complete and filled in proper way, and whether are enclosed data for the accomplishment of the payment.
+26.2. If the application is not complete or filled in proper way and if the payments are not paid, the office requires from the applicant to complete those as well to pay the payments within 30 days after receiving the notification. If one applicant does not fulfill the obligations to the office in the defined term, his application with the decision of the office will be considered as non existing subject.
+26.3. Confirmation of a complete application will be issued for the applicant. A complete application enters in the register of the applications and will be published or announced in the Official Gazette. As a completed date will be written or calculated the date of the acceptance of the completed application.
+26.4. An extract from a complete application will be published in the Official Gazette three months after the submission of the application.

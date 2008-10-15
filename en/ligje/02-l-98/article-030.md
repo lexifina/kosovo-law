@@ -1,0 +1,3 @@
+# Article 30
+30.1. The Office shall examine the suitability of the proposed denomination for the variety. When the proposed name is in opposition with the provisions of the Article 10 paragraph 10.2 of this law, the Office shall inform the applicant to propose a new denomination for the variety. The proposal must be presented no later than three months after receiving notification.
+30.2. In the procedure for the protection of a new variety, the office is obliged to use exclusively the denomination of the variety, which is registered in the register of applications for the protection of a new variety.
