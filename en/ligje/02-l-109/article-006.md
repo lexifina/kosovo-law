@@ -1,0 +1,3 @@
+# Article 6
+6.1 The measures for prevention and fighting against the infectious diseases which can be transmitted from animals to human are applied by health institutions, SIK in cooperation with veterinary institutions which deal with reciprocal notification about appearance and spreading of these diseases and organization and application of the anti-epizootic and anti-epidemic, hygienic measures and other measures for prevention, respectively fighting against the specific diseases according to dispositions of this Law and Law for Sanitary Inspectorate of Kosovo No.2003/22.
+6.2 The KIPH researches, studies and analyses the epidemiological situation of the country and determines the strategy for its continual improvement

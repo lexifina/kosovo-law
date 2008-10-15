@@ -1,0 +1,5 @@
+# Neni 7
+7.1 Shpallja e epidemisë së sëmundjeve ngjitëse në Kosovë bëhet në pajtim të nenin 112. paragrafi 4 të Ligjit për Shëndetësi.
+7.2 Ministria e Shëndetësisë propozon dhe kërkon nga Qeveria mbështetje financiare për raste të jashtëzakonshme epidemike në bazë të nenit 114.1, të Ligjit për Shëndetësi të Kosovës.
+7.3 Në rast të shfaqjes së ndonjërës nga sëmundjet ngjitëse të përshkruara në nenin 3. paragrafi 1 të këtij ligji, organet kompetente për zbatimin e masave parandaluese dhe trajtimin e të sëmurëve kanë të drejtë të hynë në çdo kohë në institucione shëndetësore publike e private, objekte banuese, ndërmarrje punuese, reparte ushtarake për të bërë hulumtimin epidemiologjik, izolimin, hospitalizimin, mbikëqyrjen shëndetësore të kontakteve, vaksinimin, depistimin, dezinfektimin, dezinsektim dhe deratizimin (në tekstin e mëtejmë: DDD) dhe trajtimin profilaktik.
+7.4 Kur punonjësit e mësipërm hasin në pengesa në kryerjen e detyrës kërkojnë mbështetjen e organeve të gjyqësisë, prokurorisë dhe organeve të rendit publik.

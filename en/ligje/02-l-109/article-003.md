@@ -1,0 +1,28 @@
+## Chapter II
+# Article 3
+3.1 The infectious diseases in the sense of this Law where their prevention and prohibition is in the interest of our country are as follows:
+List of contagious diseases (according to KNS 10) A00 Cholera A01 Typhoid and paratyphoid fevers A02 Other salmonellae A03 Shygelosis A04 Other intestine bacterial infections A04.0–A04.4 Infections with E .Coli
+A04.5 Intestine infections with Campylobacter A04.6 Intestine infections with Yersinia enterocolitica A04.9 Unspecified intestine bacterial infections A05 Other bacterial infections with food A06 Amebiasis
+A07 Other intestine diseases with protozea A08 Viral infections and other intestine specific infections
+A09 Diarrhea and gastroenteritis A15 – A19 Tuberculosis of respiratory trachea, bacterio-logically and histologically confirmed A20 Plague A21 Tularemia A22 Anthrax A23 Brucelosis A24 Maleusis and melioidosis A25 Fever after mouse bite A26 Erisipeloidisis A27 Leptospirosis A28 Other zoonosis bacterial diseases, unclassified A30 Leprosy A31 Other micro-bacterial infections A32 Listeriosis A33–A35 Tetanus A36 Diphtheria A37 Whooping cough A38 Scarlatina A39 Meningococcus infections A40 Streptococcus Septicemia A41 Other  lasmodium A42 Actinomycosis A43 Nacardiosis A44 Bartonelozisis A46 Erysipelas A48 Other bacterial unspecified diseases A48.1 Legionelosis A49 Bacterial infection of the unspecified parts A50 Congenital syphilis A51 Early syphilis A52 Late syphilis A53 Other syphilis and unspecified
+A54 Gonococcus infections A55 Venereal lymph- granuloma A56 Other clamidialis diseases transmitted sexually
+A57 Shancroidisis A58 Granuloma inguinale A59 Trihomoniasis A60 Ano-genital region herpetic viral infections A63 Other diseases transmitted mainly sexually, unclassified
+A64 Unspecified diseases transmitted sexually A65 Un-venereal syphilis A66 Frambeziasis A67 Pint
+A68 Recurrent fever A69 Other spirochaeta infections A69.2 Lajm disease A70 Infections clamidial klamidiaza- klamidia psitaci, ornitoza, psitakoza, psitaci fever A71 Trachoma A74 Other diseases caused by clamidiae A75 Typhoid fever transmitted through lice A77 Exantematic fever transmitted through ticks A78 Q fever A79 Other Rickettsias A80 Acute children paralysis A82 Lyssa A81 Other SNQ slow infections caused by virus
+A83 Viral Encefalitis transmitted through mosquito A84 Viral Encefaliti transmitted through ticks A85 Other viral Encefalitetis, unclassified A86 Viral Encefalitis, unspecified A87 Viral meningitis A88 Other SNQ viral infections
+A90 Deng fever A91 Deng hemorrhage fever A92 Other viral fever transmitted through mosquito A93 Other viral fever transmitted through insects, papatachi fever
+A94 Other viral fever unspecified & transmitted through arthropodes A95 Yellow fever A96 Hemorrhage fever caused by arenavirus A98 Other viral fevers, Crime Congo, Syndrome renale, Ebola, Marbourg, A99 Viral hemorrhage fever, unspecified B00 Viral infections by herpes B01 Varicella B02 Herpes zosteri B03 Variola vera B05 Measles B06 Rubella B07 Verucet virale B08 Other viral infections with skin and mucus damages (moluscum contagiosum) B15 Acute viral hepatitis A
+B16 Acute viral hepatitis B B17 Other acute hepatitis caused by virus, hepatitis C, E
+B18 Chronic viral hepatitis B19 Viral unspecified hepatitis B20–B24 HIV infections, AIDS B25 Virosus with cytomegalovirus
+B26 Parotitis B27 Infective Mononucleosis B30 Viral conjunctivitis B33 Other viral diseases, Kardit viral, Epidemic Poliartritet B34 Adeno-virosus B35 Dermatophytosis B36 Other surface mucus B37 Candidiaza B38 Cocccidioidomicoza B39 Histoplazmoza B40 Blastomikoza B41 Paraccoccucidioidomichoza B42 Sporotriccoza B43 Cromomiccoza and feomichotic abscesi B44 Aspergilloza B45 Criptoccocoza B46 Zigomiccoza B47 Micetoma B48 Other mucus B49 Unspecified mucus B50 Malaria with falciparum plasmodium B51 Malaria with vivaks  lasmodium B52 Malaria with malaria plasmodium B53 Other malaria confirmed in the lab. B54 Unspecified malaria B55 Leishmaniaza B56 African Tripanozomiaza B57 Chagas disease B58 Toksoplasmoza B59 Pneumocistoza B60 Other diseases caused by protozoa B64 Unspecified Protozoa diseases
+B65 Shistozomiaza B66 Other infections by trematods
+B67 Ekinoccocoza B68 Teniaza B69 Cisticerchoza B70 Difillobotriaza and sparganoza B71 Other infections by cestode
+B72 Drakunkuliaza B73 Onkocerkiaza B74 Filariaza
+B75 Trikinelloza B76 Ankilostomiaza B77 Askariaza B78 Strongiloidiaza B79 Trihuriaza B80 Enterobiaza B81 Other intestine unclassified helminthiasis B82 Intestine unspecified parasitosis B83 Other helminthiasis B85 Pediculosis and phthiriasis B86 Mange B87 Miaza B88 Skin infections by arthropode
+B89 Parasite unspecified diseases
+B90 Tuberculosis schuells B91 Children paralysis sechuells
+B92 Leprosy sechuells B94 Other unspecified infective and parasite diseases’ sechuells
+B95 Streptococcus and staphylococcus as diseases’ causers B96.3 Haemophylus Influenza B97 Virus as diseases’ causers
+B99 Other infectious and unspecified diseases G00 Viral meningitis J10–J11 Flue (including the birds’ flue )
+J12–J15, J84 Viral and bacterial Pneumonia (including SARS) P35 Congenital viral infections P35.0 Congenital Rubella P35.1 Congenital infections by Citomegalovirus
+3.2 If the danger appears by infectious diseases which are not in the list from paragraph 1 of this article, and they can endanger the whole country, the Ministry of Health, by the proposal made by the KIPH determines the prophylaxis and anti-epidemic measures prescribed by this Law, other measures for protection the population from the infectious diseases and the measure which are foreseen as obligatory under the international health conventions and other international acts.
