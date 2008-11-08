@@ -1,0 +1,2 @@
+# Neni 2.
+2.1.Të gjitha shoqëritë tregtare – bizneset të cilat tashmë janë të regjistruara në Regjistrin e Bizneseve të Kosovës janë të obliguara që të marrin leje për ushtrimin e veprimtarisë afariste në lokalet të cilat ndodhen brenda teritorit të komunës. 2.2.Me leje për ushtrimin e veprimtarisë nga paragrafi 1 i nenit 2 duhet të paisen edhe bizneset të cilat ushtrojnë veprimtari profesionale “leja për sherbime profesionale” si kontabilist,mjek,stomatolog,avokat,sherbime të përkethimit dhe shtypjes,sherbimet e ndryshme profesionale.

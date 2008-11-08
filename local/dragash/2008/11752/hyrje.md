@@ -1,0 +1,1 @@
+Në bazë të nenit 2 dhe 10 të Ligjit për Financat e Pushtetit Lokal nr.03/L-049,nenit 12 të Ligjit për Vetëqeverisjen Lokale nr. 03/L-040 dhe nenit 32.2 të Statutit të Komunës së Dragashit,Kuvendi i komunës së Dragashit në seancën e mbajtur më 31.10.2008 miraton këtë: RR E G U LL O R E MBI DHËNJEN E LEJES PËR USHTRIMIN E VEPRIMTARISË AFARISTE DHE PROFESIONALE

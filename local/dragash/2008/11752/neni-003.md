@@ -1,0 +1,2 @@
+# Neni 3.
+3.1.Taksa për leje per ushtrimin e veprimtarisë (tregtare,zajtare ,hoteliere dhe sherbimeve profesionale paguhet per secilin lokacion ku ushtrohet nji veprimtari afariste brenda kufijve të komunës. 3.2.Nese nji shoqëri tregtare dhe bizneset të cilat ushtrojnë veprimtari profesionale,ushtrojnë veprimtari afarise në më shum se nji lokacion në teritorin e komunës,atëher për sejcilin lokacion ku ushtrohet veprimatria duhet të marrin leje për ushtrimin e veprimtarisë.

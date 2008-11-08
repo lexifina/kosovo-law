@@ -1,0 +1,2 @@
+# Neni 9
+9.1.Çdo ndryshim që ka të bëjë me afarizmin e subjektit afarist duhet lajmërohet te organi kompetent i cilli e ka dhene lejen per ushtrimin e veprimtarisë me qellim evidentimi në regjister te veprimtarive afariste dhe profesionale. 9.2.Organi kompetent për dhenjen e lejeve per ushtrimin e veprimtarise afariste është i Obliguar qe menjiherë ti evidentojë në regjister të gjitha ndryshimet e kerkuara , nëse për këtë egziston arsyeshmeria .

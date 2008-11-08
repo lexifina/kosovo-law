@@ -1,0 +1,2 @@
+# Neni 7
+7.1.Leja pë ushtrimin e veprimtarisë afariste dhe ushtrimin e veprimtarive profesionale duhet të ekspozohet publikisht në lokacionin për të cilin është dhënë leja. 7.2..Komuna përmes organeve të mbikqyrjes nuk do ti lejojë asnji nderrmarrje –biznesi e cila nuk është e regjistruar në Regjistrin e Bizneseve të Kosovës që të ushtrojë veprimtari afariste brenda komunës,përveq nëse deshmohet se janë të liruara nga ky regjistrim.

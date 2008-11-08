@@ -1,0 +1,2 @@
+# Neni 5
+5.1.Organi komptent komunal per regjistrimin e bineseve ,është i obliguar që pas shqyrtimit të dokumentacionit të kërkuar nga neni 4 i kesaj Rregulloreje të lëshoj lejen e punës për ushtrimin e veprimtarisë. 5.2.Leja e leshuar nga neni 5.1. i kësaj rregullore duhet të precizojë objektin e veprimtarisë të subjektit ,vendin – selinë e ushtrimit të veprimtarisë,afatin e vlefshmerisë të lejes .
