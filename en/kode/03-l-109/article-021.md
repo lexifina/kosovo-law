@@ -1,0 +1,2 @@
+# Article 21
+All information which is by nature confidential or which is provided on a confidential basis shall be covered by the obligation of professional secrecy. It shall not be disclosed by the Customs without the express permission of the person or authority providing it; the communication of information shall be permitted where the Customs may be obliged or authorized to do so pursuant to the provisions in force, particularly in respect of data protection, or in connection with legal proceedings.

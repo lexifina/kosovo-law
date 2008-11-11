@@ -1,0 +1,3 @@
+# Article 78
+1. Where acceptance of a customs declaration gives rise to a customs debt, the goods covered by the declaration shall not be released unless the customs debt has been paid or secured. However, without prejudice to paragraph 2, this provision shall not apply to the temporary importation procedure with partial relief from import duties.
+2. Where, pursuant to the provisions governing the customs procedure for which the goods are declared, the Customs require the provision of a security, the said goods shall not be released for the customs procedure in question until such security is provided.

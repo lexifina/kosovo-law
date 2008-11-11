@@ -1,0 +1,4 @@
+# Neni 292
+Në rast se çështja zgjidhet përfundimisht në instance të fundit sipas mjetit te ushtruar në favor:
+(a) Të Doganës, apeluesi duhet të paguajë detyrimin e importit ose eksportit, gjobat dhe kamatën e papaguar të akumuluar deri në momentin e zgjidhjes së kontestit dhe (b) Të Apeluesit, Dogana duhet që: (i) të rikthejë çdo detyrim të importit apo eksportit të paguar më tepër bashkë me kamatën e grumbulluar deri në momentin e zgjidhjes së kontestit nëse është e aplikueshme dhe
+(ii) nëse diçka i është kthyer pronarit, është shitur ose asgjësuar: (A) një shumë ekuivalente me shumën e paguar nga pronari për kthimin e gjërave; (B) nëse gjësendi është shitur, atëherë shumën ekuivalente me të ardhurat nga shitja ose, (C) nëse gjësendi është asgjësuar, shumën ekuivalente me vlerën e tregut të atij gjësendi në momentin e konfiskimit.

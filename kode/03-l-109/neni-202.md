@@ -1,0 +1,6 @@
+# Neni 202
+1. Borxhi doganor në import lind nga konsumi ose përdorimi i mallrave në një zonë të lirë ose në një depo të lirë që i nënshtrohet obligimit të pagesës së detyrimeve të importit, në kushte të ndryshme nga ato të parashikuara nga legjislacioni në fuqi.
+Kur mallrat zhduken dhe zhdukja e tyre nuk mund të arsyetohet në mënyrë bindëse pranë Doganës, Dogana këto mallra mund ti konsideron si të hedhura për konsum, ose të përdorura në zonën e lirë apo në depon e lirë.
+2. Borxhi lind në momentin kur mallrat konsumohen ose përdoren për herë të parë në kushte të ndryshme nga ato të parashikuara nga legjislacioni në fuqi.
+3. Debitor, është personi që ka konsumuar ose i ka përdor mallrat dhe çdo person që ka marrë pjese në këtë konsum ose përdorim, që e ka ditur, ose që objektivisht ka mund të dijë, se mallrat janë konsumuar ose janë përdor në kushte të ndryshme nga ato të përcaktuara nga legjislacioni në fuqi.
+4. Kur Dogana, mallrat e zhdukura i konsideron si të konsumuara ose të përdorura në zonën e lirë ose depon e lirë, nuk është e mundur të zbatohet paragrafi i sipërm, personi që duhet të paguajë borxhin doganor, është personi për të cilin Dogana e ka ditur se ka qenë i fundit në pronësi të këtyre mallrave.

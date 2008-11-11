@@ -1,0 +1,3 @@
+# Article 125
+1. Subject to Article 126, where a customs debt is incurred, the amount of such debt shall be determined on the basis of the taxation elements appropriate to the import goods at the time of acceptance of the declaration of placing of these goods under the inward processing procedure.
+2. If at the time referred to in paragraph 1 the import goods fulfilled the conditions to quality for preferential tariff treatment within tariff quotas or ceilings, they shall be eligible for any preferential tariff treatment existing in respect of identical goods at the time of acceptance of the declaration of release for free circulation.

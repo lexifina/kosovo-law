@@ -1,0 +1,7 @@
+# Neni 22
+1. Personat përkatës i ruajnë dokumentet e përmendura në nenin 20 për qëllime kontrolli nga Dogana, për periudhën e caktuar me dispozitat në fuqi dhe për pesë vite kalendarike, pavarësisht nga mënyrat e mbajtjes së tyre. Ky afat do të fillojë që nga fundi i vitit në të cilin:
+a) Në rastin e mallrave të lëshuara në qarkullim të lirë nën kushte, përveç atyre të përmendura nën (b) ose mallrat e deklaruara për eksport, prej fundit të vitit në të cilin deklaratat për lëshim në qarkullim të lirë apo eksport janë pranuar;
+b) Në rastin e mallrave të lëshuara në qarkullim të lirë me taksë të reduktuar apo zero të detyrimeve të importit për qëllim të përdorimit të veçantë të tyre, prej fundit të vitit, në të cilin pushojnë të jenë nën mbikëqyrje doganore;
+c) Në rastin e mallrave të vendosura nën një procedurë tjetër doganore, prej fundit të vitit, në të cilin procedura doganore përkatëse është kompletuar;
+d) Në rastin e mallrave të vendosura në zonë të lirë apo depo të lirë, prej fundit të vitit, në të cilin shfrytëzuesit e zonës së lirë apo depos së lirë i pushon statusi.
+2. Pa rënë ndesh me dispozitat e nenit 219 (3), paragrafi i dytë, kur një çek i bartur nga Dogana në lidhje me një borxh doganor tregon se hyrja relevante në llogari, duhet të korrigjohet, dokumentet do të mbahen përtej limitit kohor të paraparë në paragrafin e parë, për një periudhë të mjaftueshme që lejon për t’u bërë korrigjimet dhe kontrollimi.

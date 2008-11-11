@@ -1,0 +1,8 @@
+# Neni 216
+1. Kur një borxh doganor lind si pasojë e pranimit të deklaratës për vendosjen e mallrave nën një procedurë doganore të caktuar, të ndryshme nga lejimi i importit të përkohshëm me lirim të pjesshëm nga detyrimet e importit, ose nga çdo akt tjetër që ka efekt të njëjtë juridik me këtë pranim, shuma që i korrespondon këtij borxhi doganor, do të evidentohet në kontabilitet sapo të jetë llogaritur, më së largu deri në ditën e dytë nga dita e lëshimit të mallrave.
+Megjithatë, me kusht që pagesa të jetë e siguruar, shuma e përgjithshme e detyrimeve për të gjitha mallrat e liruara nga i njëjti person brenda një afati të caktuar nga Dogana, i cili nuk mund të jetë më i gjatë se 31 ditë, mund të përfshihet me një evidentim, në fund të atij afati. Evidentimi në kontabilitet do të bëhet në afat prej 5 ditësh, nga dita e skadimit të afatit të cekur.
+2. Kur parashikohet që lirimi i mallrave mund të bëhet me kusht që t’ i plotësojë disa kushte të caktuara me legjislacionin në fuqi, nga të cilat varet përcaktimi i shumës së borxhit ose evidentimi i tij në kontabilitet që duhet të bëhet më së largu dy ditë nga dita, që është përcaktuar shuma e borxhit ose pagesa e detyrimeve, që lindin nga ai borxh.
+Megjithatë, kur borxhi doganor ka të bëjë me taksën e përkohshme anti-dumping, këto detyrime do të evidentohen në kontabilitet brenda dy muajve pas publikimit të dispozitave që parashohin taksën përfundimtare anti-dumping në Gazetën zyrtare të Kosovës.
+3. Kur lind një borxh doganor në kushte të ndryshme nga ato të përmendura në paragrafin 1, shuma përkatëse e detyrimeve, do të evidentohet në kontabilitet brenda afatit prej dy ditësh, nga data kur Dogana do të ketë mundësi:
+a) të llogaritë shumën e detyrimeve përkatëse dhe
+b) të përcaktojë debitorin.

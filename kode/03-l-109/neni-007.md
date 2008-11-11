@@ -1,0 +1,3 @@
+# Neni 7
+Kompetenca e Drejtorit Gjeneral për të deleguar funksionet e tij
+1. Atëherë kur me këtë Ligj Drejtori Gjeneral ka për detyrë ose ka kompetencë të kryejë çfarëdo veprimi, ai mund të delegojë atë detyrë apo kompetencë të një person i emëruar apo të një oficer i çfarëdo grade që punon në një vend të caktuar dhe duhet të mbajë evidencë me shkrim për çdo veprim të ndërmarrë për kryerjen e asaj detyre apo kompetence dhe duhet: (a) të ketë një kopje në dispozicion për inspektimin publik në Zyrën Qendrore të Doganës dhe (b) të mbajë një kopje tjetër në formë elektronike që do të jetë në dispozicion të inspektimin publik.

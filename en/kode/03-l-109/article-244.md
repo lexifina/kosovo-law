@@ -1,0 +1,8 @@
+# Article 244
+Recovery of Tax
+1. Where any excise debt exists, including any excise tax that is deemed to be due, which is required to be paid by any authorized excise tax warehouse keeper, authorized excise tax trader or a person providing a guarantee, which has not been paid by the date on which it was due and payable, then the Customs may, in addition to or instead of calling for payment under a guarantee:
+(a) authorize an officer to enter during working hours any authorized excise tax warehouse of the authorized excise tax warehouse keeper or the authorized premises of an authorized excise tax trader and detain and seize any excise product under a suspension arrangement found at those premises;
+(b) authorize an officer to enter during working hours any authorized excise tax warehouse of the authorized excise tax warehouse keeper or the authorized premises of an authorized excise tax trader and detain and seize any property, including vehicles, belonging to those persons; and
+(c) prevent the authorized excise tax warehouse keeper or authorized excise tax trader from dealing with any business bank account in their name or the name of their business.
+2. No item may be detained and seized under this section where the value of other items already detained and seized to satisfy the amount of the excise debt exceed the amount of that debt.
+3. The Customs may exercise the power given to him under paragraph 1(c) by advising the bank where the account is held of the excise debt and that no further dealing with the account by its owner may take place without the permission in writing of the Customs.

@@ -1,0 +1,3 @@
+# Article 110
+1. The person designated by the Customs shall keep stock records of all the goods placed under the customs warehousing procedure in a form approved by Customs. Stock records are not necessary where a public warehouse is operated by the Customs.
+2. Subject to the application of Article 90 the Customs may dispense with stock records where the responsibilities referred to in Article 106 (a) and/or (b) lie exclusively with the depositor and the goods are placed under that procedure on the basis of a written declaration forming part of the normal procedure or an administrative document in accordance with Article 80 (1) (b).

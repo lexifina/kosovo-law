@@ -1,0 +1,4 @@
+# Article 283
+1. Any means of transport may be confiscated if they were used for unlawful introduction into Kosovo of goods subject to an administrative customs offence referred to in Article 275 and 276 and if the value of the goods concerned exceeds 1/3 of the value of the means of transport.
+2. Any means of transport may be confiscated if they were used for unlawful introduction in Kosovo of goods hidden in special constructed concealed compartments even if the value of goods concerned does not exceed 1/3 of the value of the means of transport.
+3. Any means of transport may be confiscated even if they do not belong to the person who committed an administrative customs offence, if the owner was aware or should reasonable have been aware that they were used for committing an administrative customs offence referred to in Articles 275 and 276 to this Code .

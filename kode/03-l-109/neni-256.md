@@ -1,0 +1,7 @@
+# Neni 256
+Kompetencat për të refuzuar apo anuluar autorizimin për nisje të mjetit ajror dhe automjeteve
+1. Më qëllim të ndaljes së mjeteve për të zbatuar kompetencat apo detyrat e dhëna, apo të vendosura me ndonjë akt ligjor, që ka të bëjë me importin apo eksportin e mallrave: (a) secili oficer mundet që në çdo kohë të refuzojë dhënien e autorizimit, për nisje të ndonjë mjeti ajror apo automjeti dhe
+(b) nëse është dhënë autorizimi për nisje për një mjet ajror apo automjet, secili oficer mundet të kërkojë, që ky autorizim t’i kthehet atij.
+2. Çfarëdo kërkese sipas paragrafit 1, duhet të bëhen qoftë me gojë ose me shkrim dhe t’i drejtohet pronarit apo kapitenit të mjetit ajror, apo pronarit ose vozitësit të automjetit dhe, nëse bëhen me shkrim mund të dorëzohet: (a) duke ia dërguar atij personalisht; (b) duke ia lënë në vendbanimin apo adresën e fundit të ditur të afarizmit të tij; ose (c) duke e lënë në bordin e mjetit ajror apo automjetit te personi, që duket se është përgjegjës për të.
+3. Nëse bëhet kërkesa për kthim të autorizimit sipas paragrafit 1, atëherë: (a) autorizimi për nisje do të anulohet dhe
+(b) nëse kërkesa nuk përfillet, atëherë kapiteni i mjetit ajror apo vozitësi i automjetit do t’i nënshtrohen gjobës administrative prej pesëqind (500) € deri dhjetëmijë (10,000) € dhe, në vazhdim, gjobës së mëtejshme administrative prej pesëdhjetë (50) € për secilën ditë të vazhdimit të shkeljes, ndërsa mjeti ajror apo automjeti, së cilës i përket kërkesa, do t’i nënshtrohet ndaljes dhe konfiskimit.

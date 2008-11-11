@@ -1,0 +1,6 @@
+# Neni 241
+Shmangia
+1. Urdhri në bazë të këtij neni, është urdhër i Doganës, që personi i emërtuar në urdhër nuk duhet: (a) të importojë ndonjë produkt me akcizë të emërtuar në urdhër dhe (b) të largojë nga marrëveshja për pezullim ndonjë produkt me akcizë të emërtuar në urdhër, nëse importimi ose largimi do të tejkalonin shumën mesatare të importuar ose të larguar nga ai person gjatë nëntë (9) muajve paraprak (e cila do të jetë zero në rastin e personit, i cili kurrë më parë nuk ka importuar, larguar ose kërkuar).
+2. Nëse, Dogana konstaton se personi e propozon importin e ndonjë produkti me akcizë ose largimin e ndonjë produkti me akcizë nga marrëveshja për pezullim me qëllim, që t’i shmanget rritjes së ardhshme të mundshme të tarifës së akcizës, për atë produkt, Dogana mund ta nxjerrë urdhrin në bazë të këtij neni.
+3. Urdhri në bazë të këtij neni i komunikohet me shkrim personit në fjalë: (a) duke ia dorëzuar apo duke ia lënë ose duke dërguar me postë në adresën e tij të fundit të ditur të biznesit apo shtëpisë ose (b) nëse personi e ka adresën elektronike, i dërgohet në atë adresë elektronike.
+4. Nxjerrja e urdhrit në bazë të këtij neni është çështje për të cilën mund të parashtrohet kërkesa për rishqyrtim pranë Doganës.

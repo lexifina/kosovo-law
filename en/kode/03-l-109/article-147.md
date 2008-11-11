@@ -1,0 +1,4 @@
+# Article 147
+1. Where a customs debt is incurred in respect of import goods, the amount of such debt shall be determined on the basis of the taxation elements appropriate to those goods at the time of acceptance of the declaration of their placing under the temporary importation procedure. However, where the provisions of Article 144 so provide, the amount of the debt shall be determined on the basis of the taxation elements appropriate to the goods in question at the time referred to in Article 219.
+2. Where, for a reason other than the placing of goods under the temporary importation procedure with partial relief from import duties, a customs debt is incurred in respect of goods placed under the said procedure, the amount of that debt shall be equal to the difference between the amount of duties calculated pursuant to paragraph 1 and that payable pursuant to Article 146.
+G. Outward processing I. General

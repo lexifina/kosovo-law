@@ -1,0 +1,2 @@
+# Article 49
+Without prejudice to the provisions governing goods imported by travelers and consignments by letter and parcel post, the Customs may waive the lodging of a summary declaration on condition that this does not jeopardize customs supervision of the goods, where, prior to the expiry of the period referred to in Article 47 the formalities necessary for the goods to be assigned a customs-approved treatment or use are carried out.

@@ -1,0 +1,11 @@
+# Neni 270
+Kompetencat për të kontrolluar personat
+1. Atëherë, kur ka baza të arsyeshme për të besuar se një person është duke bartur ndonjë artikull: (a) i cili ngarkohet me detyrime doganore, të cilat nuk janë paguar apo siguruar apo (b) për importin apo eksportin e të cilit është në fuqi ndonjë ndalesë, apo kufizim sipas një akti ligjor apo sipas ligjit në fuqi; oficeri mund ta mbajë atë për aq kohë sa është e nevojshme dhe mund të kërkojë nga ai person, në varësi nga paragrafi 2 dhe 3 të dorëzohet për kontroll trupor, qoftë ky kontroll me anë të prekjes, zhveshjes apo kontroll intim, varësisht si e sheh të nevojshëm oficeri; por një kërkesë e tillë nuk mund të bëhet, nëse oficeri nuk e njofton paraprakisht personin për të drejtat e tij, sipas paragrafit 2 ose 3.
+2. Nëse, nga personi kërkohet që të dorëzohet për kontroll trupor me anë të prekjes, ai ka të drejtë të kërkojë që të dërgohet para eprorit të oficerit në fjalë dhe eprori të shqyrton arsyet e dyshimit dhe të vendos si rrjedhojë, nëse ky person duhet t’i dorëzohet kontrollit apo jo.
+3. Nëse, nga personi kërkohet që të dorëzohet për kontroll intim apo me anë të zhveshjes, ai ka të drejtë të kërkojë që të dërgohet para një Prokurori apo para eprorit të oficerit në fjalë; Prokurori apo eprori do të shqyrtojnë arsyet e dyshimit dhe të vendosin si rrjedhojë, nëse ky person duhet t’i dorëzohet kontrollit apo jo.
+4. Kontrolli me anë të prekjes apo me anë të zhveshjes, duhet të kryhet vetëm nga personi, që i takon të njëjtës gjini; ndërsa kontrolli intim duhet të kryhet vetëm nga personi me kualifikime të duhura.
+5 Në këtë nen:
+Kontroll intim, nënkupton atë kontroll që përfshin ekzaminimin fizik (do të thotë, një ekzaminim më tepër se ekzaminimi me anë të shikimit), të vrimave të trupit të një personi;
+Kontrolli me anë të prekjes, nënkupton kontrollin që nuk përbën as kontroll intim e as kontroll me anë të zhveshjes;
+Kontrolli me anë të zhveshjes, nënkupton çfarëdo kontrolli që nuk është kontroll intim, por që përfshin heqjen e ndonjë artikulli të veshmbathjes i cili: (a) është i veshur (pjesërisht apo tërësisht) në trup dhe (b) është i veshur qoftë menjëherë mbi lëkurë apo mbi veshje të brendshme;
+Person me kualifikime të duhura-nënkupton një mjek apo ndihmës medicinal të certifikuar.

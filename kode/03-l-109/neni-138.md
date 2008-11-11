@@ -1,0 +1,2 @@
+# Neni 138
+Në rastin kur ka lindur një borxh doganor në lidhje me mallrat në gjendje të pandryshuar apo prodhimet, ose në lidhje me prodhimet, të cilat janë në fazën kalimtare të përpunimit, në krahasim me atë e cila është paraparë me autorizim, shuma e atij borxhi përcaktohet në bazë të elementeve, të cilat i përgjigjen mallit të importuar në momentin e pranimit të deklaratës për vendosjen e mallit në procedurën e përpunimit nën kontroll doganor.

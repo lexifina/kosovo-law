@@ -1,0 +1,28 @@
+# Article 276
+A legal or natural person:
+a) who fails to present goods to the Customs ,
+b) who fails to present a summary declaration to the Customs within the prescribed time limit,
+c) who unloads or transships goods without authorization of the Customs or unloads or transships goods in places not designated or approved by those authorities,
+d) who fails to convey goods brought into Kosovo by the route specified by the Customs and in accordance with their instructions,
+e) who removes goods from their original position without the permission of the Customs,
+f) who uses goods in temporary storage contrary to the conditions approved by the Customs,
+g) who fails to produce the goods placed under the transit procedure and required documents at the customs office of destination in accordance with the provisions of that procedure,
+h) who fails to provide the Customs with all the requisite documents and information for the purposes of applying customs legislation,
+i) who fails to keep the documents for the period laid down in Article 22 to this Code ,
+j) who fails to assign goods, which are covered by a Single Administrative Document , a customs approved treatment or use within the time limit prescribed to this Code ,
+k) who fails to indicate in the Single Administrative Document correct, true or complete particulars in respect of quantity, quality, nature, tariff code, value or origin of goods, or fails to declare all goods, as a result of which the customs debt is calculated or paid at a lower amount than the actual amount,
+l) who presents supporting documents to a customs declaration related to the implementation of a customs procedure, whereon different quantity, nature, quality, value or origin of goods are indicated,
+m) who, by providing false particulars, achieve or try to achieve a reduction in or relief from import duty,
+n) who obstruct the verification of a declaration accepted by the Customs ,
+o) who use the goods or dispose of them before they are released by the customs for the customs procedure concerned,
+p) who removes or destroys means customs identification affixed,
+q) who fails to lodge a supplementary declaration within the prescribed time limit,
+r) who fail to keep records prescribed for a particular customs procedure or customs-approved treatment of goods,
+s) who fails to notify the Customs of all factors arising after an authorization was granted, customs suspense regime or Procedures with economic impact ,
+t) who lent, hires out or transfers goods which have been released for free circulation with relief from import duty or at a reduced rate, without prior payment of import duties , u) who disposes of goods prior to payment of the customs debt which has incurred,
+v) who fails to comply with any condition or obligations prescribed in an authorization granted by the Customs , customs suspense regime or Procedures with economic impact ,
+w) who obstructs the customs supervision of activities in a free zone or free warehouse,
+x) who carries out activities in a free zone or free warehouse contrary to the customs legislation provisions or without the authorization of the Customs ,
+y) who fails, within the time limit determined by the Customs , to remove from Kosovo goods, the importation of which is prohibited,
+z) who achieve or try to achieve the repayment or remission of customs debt by falsely presenting the facts.
+Shall be liable to an administrative penalty between € 500 (five hundred) to € 10,000 (ten thousand).

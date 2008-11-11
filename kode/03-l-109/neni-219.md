@@ -1,0 +1,6 @@
+# Neni 219
+1. Sapo të evidentohet shuma e detyrimeve në kontabilitet i komunikohet debitorit sipas procedurave përkatëse.
+2. Kur shuma e detyrimeve për t’u paguar është evidentuar në deklaratën doganore. Dogana mund të shënojë në deklaratë, se nuk ka nevojë të bëhet komunikimi siç parashikohet në paragrafin 1, përveç nëse shuma përkatëse e detyrimeve nuk përputhet me shumën e përcaktuar nga Dogana.
+Pa rënë ndesh me zbatimin e nënparagrafit të dytë të nenit 216 (1), ku është shfrytëzuar mundësia e parapare me nënparagrafin paraprak, lirimi i mallrave nga Dogana, ka efekt të njëjtë sikur komunikimi ndaj obliguesit, mbi shumën e detyrimeve të evidentuara.
+3. Komunikimi i shumës së borxhit doganor nuk mund t’i bëhet debitorit pas kalimit të afatit prej tre viteve, nga data në të cilin lind borxhi doganor. Kjo periudhë ndërpritet me ushtrimin e ankesës, sipas Nenit 292, si dhe për tërë kohën e zhvillimit të procedurës ankimore.
+4. Kur borxhi doganor është rezultat i një akti, i cili, në kohën kur është bërë, do të duhej të sillte si pasojë ndjekjen penale gjyqësore, sipas kushteve të përcaktuara nga dispozitat në fuqi, shuma mund t’i komunikohet debitorit pas skadimit të afatit trevjeçar të përmendur në paragrafin 3.

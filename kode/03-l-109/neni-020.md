@@ -1,0 +1,2 @@
+# Neni 20
+Më qëllim të zbatimit të legjislacionit doganor, çdo person i përfshirë në mënyrë të drejtpërdrejtë ose të tërthortë në veprimtarinë e tregtisë së mallrave, duhet t’ia paraqet Doganës të gjitha dokumentet e kërkuara dhe të dhënat e nevojshme, pavarësisht nga mënyra e mbajtjes së tyre, si dhe të jep tërë ndihmën e nevojshme të kërkuar prej tyre dhe brenda çfarëdo afati kohor të përcaktuar.

@@ -1,0 +1,3 @@
+# Neni 110
+1. Personi i caktuar nga Dogana duhet të mbajë evidencë për të gjitha mallrat e vendosura në procedurën e magazinimit doganor, në mënyrën të cilën e cakton Dogana. Mbajtja e evidencës nuk është e obligueshme nëse me magazinë doganore administron Dogana.
+2. Varësisht nga aplikimin i nenit 90, Dogana mund të tërhiqet nga kërkesa për evidencë nëse përgjegjësitë të cilave iu referohet neni 106 (a) ose (b) i bartë ekskluzivisht depozituesi dhe mallrat janë vendosur në këtë procedurë bazuar në një deklaratë me shkrim që është pjesë përbërëse e procedurës së rregullt, apo një dokument administrativ në përputhje me nenin 80 (1) (b).

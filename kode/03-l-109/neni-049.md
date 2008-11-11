@@ -1,0 +1,2 @@
+# Neni 49
+Pa rënë ndesh me dispozitat për mallrat e importuara nga udhëtarët dhe dërgesat postare dhe kolitë postare, Dogana mund të mos kërkojë parashtrimin e një deklarate përmbledhëse, me kusht që kjo nuk pengon mbikëqyrjen doganore të mallrave dhe që formalitetet e nevojshme për përcaktimin e një trajtimi apo përdorimi të lejuar doganor të jenë kryer para skadimit të afatit të përmendur në nenin 47.

@@ -1,0 +1,6 @@
+# Article 122
+1. The Customs shall specify the period within which the compensating products must have been exported or re-exported or assigned another customs-approved treatment or use. That period shall take account of the time required to carry out the processing operations and dispose of the compensating products.
+2. The period shall run from the date on which the non-Kosovo goods are placed under the inward processing procedure. The Customs may grant an extension on submission of a duly substantiated request by the holder of the authorization.
+For reasons of simplification, it may be decided that a period which commences in the course of a calendar month or quarter shall end on the last day of a subsequent calendar month or quarter respectively.
+3. Where Article 119 (1) (b) applies, the Customs shall specify the period within which the non-Kosovo goods must be declared for the procedure. That period shall run from the date of acceptance of the export declaration, relating to the compensating products obtained from the corresponding equivalent goods.
+4. Specific time limits may be laid down in the Administrative Instruction implementing this Code for certain processing operations or for certain import goods.

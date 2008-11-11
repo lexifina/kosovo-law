@@ -1,0 +1,2 @@
+# Neni 85
+Kur një dërgesë përbëhet nga mallra me klasifikim të ndryshëm tarifor dhe procedimi me secilin prej atyre mallrave, në pajtim me klasifikimin e duhur tarifor e me qëllim të përgatitjes së deklaratës, çka sjell si pasojë një punë të madhe e shpenzime jo proporcionale në krahasim me detyrimet e importit që duhet paguar Dogana, me kërkesë të deklaruesit, mund të pajtohet që detyrimet e importit të paguhen për tërë ngarkesën në bazë të klasifikimit tarifor të mallrave që i nënshtrohen shkallës më të lartë të detyrimeve të importit.
