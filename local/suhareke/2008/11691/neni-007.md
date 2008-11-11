@@ -1,0 +1,2 @@
+# Neni 7
+Komunën e Suharekës, si njësi territoriale, e përbëjnë: qyteti i Suharekës, lagjet urbane dhe fshatrat.Territori i Komunës përfshin Suharekën dhe këto vendbanime:Bllacë,Budakovë,Bukosh, Breshanc,Delloc,Dobërdelan, Dragaqinë, Dubravë, Duhël, Dvoran, Greikoc, Greiçec, Gelancë, Gjinoc, Javor, Kastërc, Krushicë e Epërme, Krushicë e Poshtme, Leshan, Luzhnicë, Maqitevë, Mohlan, Mushtisht, Nepërbisht, Nishor, Papaz, Peqan, Popolan, Qadrak, Reshtan, Reqan, Savrovë, Samadrexhë, Sallagrazhdë, Semetisht, Sllapuzhan,Sopijë, Stravuçinë Studençan, Tërrnje, Vërshec, Vraniç.

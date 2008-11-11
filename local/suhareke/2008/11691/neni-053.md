@@ -1,0 +1,2 @@
+# Neni 53
+Avokati publik funksionin e vet e ushtron konform ligjeve në fuqi dhe bën padi në emër dhe llogari të Komunës, i përfaqëson organet e Komunës pranë organeve të judikaturës në Kosovë. Avokati publik ushtron kallëzime penale ndaj personave që dëmtojnë interesin e përgjithshëm shoqëror të Komunës. Avokati publik emërohet sipas dispozitave ligjore në fuqi dhe për punën e vet i raporton kryetarit të komunës.

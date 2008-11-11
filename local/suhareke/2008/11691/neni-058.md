@@ -1,0 +1,2 @@
+# Neni 58
+Për t’i përmbushur më mirë, apo për t`i përmirësuar nevojat e banorëve të saj, Komuna mund të sigurojë mjete edhe përmes deklarimit të drejtpërdrejtë të qytetarëve në pajtim me ligjet në fuqi. Mjetet e siguruara në këtë mënyrë mund të shfrytëzohen vetëm për atë qëllim që janë deklaruar qytetarët. Mënyra e deklarimit dhe çështjet tjera që kanë të bëjnë me vetëkontributin, më hollësisht definohen me ligj dhe me vendim për dhënien e vetëkontributit.
