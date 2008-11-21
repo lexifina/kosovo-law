@@ -1,0 +1,7 @@
+# Neni 12
+12.1. Në fund të çdo seance, kryesuesi i seancës së kuvendit të komunës, ndonjë grup i këshilltarëve ose ndonjëri nga këshilltarët mund të propozojë ndonjë pikë për t’u diskutuar në seancën e ardhshme të kuvendit, në rast se një gjë e tillë nuk kundërshtohet nga shumica e këshilltarëve në seancë.
+12.2. Kryesuesi i kuvendit të komunës, paraprakisht konsultohet me kryetarin e komunës,
+___________________________________________________________________________ Rregullorja e Punës së Kuvendit të Komunës së Gjilanit
+kryetarët e grupeve parlamentare, komitetin për politikë dhe financa, për caktimin e rendit të ditës të seancave të kuvendit të Komunës. Kryesuesi i kuvendit, po ashtu konsultohet edhe për çështjet e orarit të ditës. Me nismën e vet, ose si përgjigje ndaj kërkesës së kryetarit të komunës, ose nga një apo më shumë grupe parlamentare, që përfaqësojnë jo më pakë se një të tretën (1/3) e anëtarëve në Kuvend, kryesuesi thërret seancën e jashtëzakonshme të Kuvendit, në mënyrë që të trajtojë një apo më shumë çështje urgjente. Kërkesa për mbledhje të jashtëzakonshme, duhet të përmbajë çështjen ose çështjet që parashtruesi i kërkesës dëshiron të shqyrtohen në Kuvend. Në rast të këtillë, Kuvendi shqyrton vetëm çështjet që janë ngritur me kërkesën për mbledhjen e jashtëzakonshme.
+12.3. Pikat e caktuara në rendin e ditës për seancën e jashtëzakonshme, nuk mund të ndryshohen gjatë seancës.
+Parashtrimi i pyetjeve për (kryetarin e Komunës dhe për drejtorë) dhe përgjigjet me gojë

@@ -1,0 +1,6 @@
+# Neni 19
+19.1. Anëtari i komitetit dhe anëtari i komisionit, nuk mund të jetë pjesëmarrës në marrjen e vendimeve dhe në procedurat administrative, që kanë të bëjnë me cilëndo çështje në të cilën ai ose ajo, apo ndonjë anëtar i familjes së tij apo saj, ka interes personal dhe material.
+19.2. Përjashtimisht nga neni 19.1 nga procedurat e marrjes së vendimeve të anëtarëve të Kuvendit, anëtarëve të komiteteve dhe komisioneve, mund të bëhet me tërheqjen e tyre vullnetare ose me vendim të shumicës së atij kuorumi ose me kërkesë të palës së tretë, ku kërkesa e parashtruar gjithherë duhet të jetë e argumentuar në prova materiale lidhur me çështjen konkrete e cila është objekt i vendosjes dhe paraqitet konflikti i interesit.
+19.3. Në rast se ekziston konflikti i interesit dhe gjatë procedurës vendim – marrjes, i njëjti nuk është vërejtur apo anëtari i Kuvendit, i Komitetit apo komisionit nuk e ka paraqitur atë, atëherë organi që ka marrë vendim e anulon të njëjtin dhe vendos rishtas për çështjen konkrete e cila ka qenë objekt i shqyrtimit.
+___________________________________________________________________________ Rregullorja e Punës së Kuvendit të Komunës së Gjilanit
+Gjuhët e përdorura në Kuvend dhe në dokumente
