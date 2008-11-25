@@ -1,0 +1,3 @@
+# Neni 15
+Neni 23 te ndryshohet si në vijim:
+Neni 23.6 - Nëse ndërtimi i propozuar i ndërtesës ose përmirësimi tjetër në parcelën e tokës nuk është në pajtim me kërkesat e Planit Rregullues Urban në zbatim ose nuk ju përmbahet kushteve të përshtatshme të lokacionit, personi që propozon ndërtimin duhet të marrë pëlqimin e lokacionit nga autoritetet komunale së bashku me marrjen e lejes urbanistike sipas nenit 25. Procedurat për kërkimin e marrjes së pëlqimit për lokacion përcaktohen nga Ministria me Akt të Veçantë dhe janë në pajtim me mbrojtjen e trashëgimisë fetare dhe kulturore në Zonat e Veçanta të Mbrojtura.

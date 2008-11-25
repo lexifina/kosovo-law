@@ -1,0 +1,4 @@
+# Neni 1
+Neni 1 i Ligjit i nr. 2003/14 për Planifikimin Hapësinor (shpallur me Rregulloren e UNMIK-ut nr. 2003/30, datë 10.09.2003) ndryshohet e plotësohet si vijon:
+1.1. Me këtë ligj rregullohen: kushtet dhe mënyra e planifikimit, rregullimit dhe zhvillimit të hapësirës, caktohen llojet dhe përmbajtja e planeve, hartimi dhe procedura për nxjerrjen e planeve, përcaktohen kompetencat e organeve qendrore dhe organeve të administratës lokale për nxjerrjen dhe zbatimin e dokumenteve të planifikimit hapësinor, mbikëqyrja e zbatimit të ligjit si dhe masat dhe aktivitetet me të cilat sigurohet planifikimi dhe rregullimi i hapësirës së Kosovës.
+1.2. Qëllimi i këtij ligji është të sigurojë zhvillim hapësinor të planifikuar, balancuar, të qëndrueshëm, qeverisje të mirë si dhe shfrytëzim dhe mbrojtje të hapësirës, si vlerë e përgjithshme nacionale.
