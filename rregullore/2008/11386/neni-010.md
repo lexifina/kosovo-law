@@ -1,0 +1,3 @@
+# Neni 10
+1. Autoritetet përkatëse në Republikën e Kosovës mund të vendosin dispozita më të favorshme se ato të parashikuara me këtë Rregullore.
+2. Zbatimi i kësaj Rregulloreje në asnjë rrethanë nuk përbën arsye të mjaftueshme për të arsyetuar zvogëlimin e nivelittë përgjithshëm të mbrojtjes së punonjësve në sferat që mbulohen nga kjo Rregullore. Kjo nuk paragjykon të drejtat e autoriteteve përkatëse në Republikën e Kosovës dhe/ose autoriteteve menaxhuese apo të punës për të vendosur, për shkak të rrethanave të ndryshme, kornizë tjetër ligjore, marrëveshje rregullatore apo kontraktuese, nga ato që mbizotërojnë në kohëne miratimit të kësaj Rregulloreje, me kusht që gjithnjë të jenë në pajtueshmëri me kushtet minimale të parashikuara me këtë Rregullore.
