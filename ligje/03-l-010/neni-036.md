@@ -1,0 +1,8 @@
+# Neni 36
+Përgatitja e veprimeve të noterizuara
+1. Noteri konstaton që palët në veprimin e noterizuar janë të afta dhe të autorizuara të ndërmarrin dhe lidhin transaksionin përkatës ligjor. Në bërjen e kësaj, Noteri vërteton qëllimin e tyre të vërtetë. Ai apo ajo më pas ofron asistencën e nevojshme ligjore për palët, duke u dhënë shpjegime atyre për ligjin e zbatueshëm dhe efektet juridike të transaksionit në shqyrtim. Noteri pastaj përgatitë veprimin(et) relevante e të nevojshme të noterizuara, në të cilin ai apo ajo formulon në deklarata të qarta e të kuptueshme transaksionin ligjor në fjalë.
+2. Në të gjitha fazat e këtij procesi, Noteri konstaton që nuk ka konfuzion apo dyshime tek palët për sa i përket transaksionit ligjor në shqyrtim dhe efekteve të tij juridike apo rreth përpilimit të dokumentit, me synimin për të mbrojtur palët e papërvojë apo të pa njoftuara.
+3. Dokumenti i përpiluar në këtë mënyrë u lexohet palëve në prani të Noterit, që siguron, duke bërë pyetjet përkatëse për palët, se përmbajtja e tij është në pajtim në çdo aspekt me qëllimet e tyre.
+4. Kur duhet të bashkëngjiten shtojcat në dokumentin origjinal, ato duhet të jenë në dispozicion të palëve gjatë tërë procesit të përpilimit.
+5. Pasi të jetë përpiluar dokumenti origjinal dhe pasi të jetë lexuar dhe aprovuar përmbajtja e tij, Noteri pyet palët nëse aprovojnë përmbajtjen e dokumentit, dhe nëse po, që personalisht ta nënshkruajnë atë, në fund të deklaratës së hollësishme nga Noteri, duke dëshmuar që janë respektuar të gjitha dispozitat e zbatueshme të këtij Neni.
+6. Të gjitha shtojcat në dokument duhet gjithashtu të nënshkruhen nga palët dhe Noteri.

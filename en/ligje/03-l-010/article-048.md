@@ -1,0 +1,5 @@
+# Article 48
+Confirmation of conclusions made by organs of a legal person
+1. A Notary may be requested to confirm the conclusions of an assembly or meeting of some other body of a legal person. In such a case, the notary shall enter in the minutes the date, time and place of the session, then describe in detail the proceedings and debates being witnessed, and add all the information required for one’s appreciation of the regularity of the proceedings, with particular emphasis on the conclusions of the session. The notary shall add all other information required by law.
+2. The minutes from paragraph 1 of this Article shall be also signed by the person who chaired the meeting.
+3. Upon request, the Notary may include in the minutes the identity and functions of all or some of the participants to the proceedings, for instance the chairperson or president of the meeting or assembly. If so, the notary shall ascertain such persons’ identity in accordance with Article 38 of this law, and state in the minutes in which manner he did so.

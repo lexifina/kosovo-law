@@ -1,0 +1,12 @@
+# Neni 13
+Obligimi për ruajtjen e fshehtësisë
+1. Nga Noteri kërkohet të ruaj fshehtësinë e informatave të mbledhura gjatë ushtrimit të detyrave të tij apo saj, përveç kur ligji apo palët në dokumentin e noterizuar, ose transaksioni ligjor në dokumentin e noterizuar, kërkojnë ndryshe.
+2. Obligimi i Noterit për ruajtjen e fshehtësisë shtrihet edhe në të punësuarit e Zyrës së Noterit, përkthyesit dhe të gjithë personat që kanë qasje në informatat e përmendura në paragrafin 1 të këtij Neni. Ky obligim është i përhershëm; mbetet në fuqi edhe pas pushimit të funksioneve të Noterit apo atyre që janë të punësuar nga ai.
+3. Noteri do të zbulojë informatat në lidhje me aktet noteriale të ushtruara nga apo ajo, vetëm:
+3.1. për personat me kërkesë të të cilëve apo në lidhje me të cilët janë ushtruar veprimet noteriale;
+3.2. për përfaqësuesit ligjorë të personave të përmendur në nën-paragrafin 3.1. të këtij paragrafi;
+3.3. vetëm, në përputhje me urdhrin e gjykatës; apo
+3.4. për organet publike para të cilave duhet të tregohen dokumentet e noterizuara, në pajtim me ligjin.
+4. Noteri mund të zbulojë informatat në lidhje me ekzistencën dhe përmbajtjen e testamentit vetëm pas vdekjes së lënësit të testamentit.
+5. Personi me kërkesë të të cilit Noteri ushtron aktin noterial apo trashëgimtari ligjor apo përfaqësuesi i personit, mund të lirojë noterin nga obligimi për ruajtjen e fshehtësisë së aktit noterial duke dorëzuar pëlqimin me shkrim për këtë. Nëse personi është i vdekur dhe nuk ka trashëgimtari ligjor apo në rastet kur është e pamundur të vihet në kontakt me personin, gjykata mund të lirojë noterin nga obligimi për ruajtjen e fshehtësisë. Me kërkesë të noterit, gjykata mund gjithashtu të lirojë noterin nga obligimi për ruajtjen e fshehtësisë së aktit noterial për shkaqe të tjera të arsyeshme.
+6. Obligimi për ruajtjen e fshehtësisë së akteve noteriale shtrihet gjithashtu në institucionet kreditore, gjykatat, arkivat dhe personat tjerë juridik e agjencitë, dhe për të punësuarit e tyre që posedojnë dokumente të cilat përmbajnë informatat e përshkruara në paragrafin 1 të këtij neni apo që kanë qasje në dokumentet e tilla, përveç nëse me ligj parashihet ndryshe. Institucionet kreditore, gjykatat, arkivat dhe personat tjerë juridik e agjencitë që posedojnë dokumente të cilat përmbajnë në vete akte noteriale apo informata lidhur me to, do të zbulojnë informatat në mënyrë të ngjashme me procedurën e dhënë në paragrafin 3 të këtij neni, përveç nëse me ligj parashihet ndryshe.

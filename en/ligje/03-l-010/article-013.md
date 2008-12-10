@@ -1,0 +1,12 @@
+# Article 13
+The duty to maintain confidentiality
+1. A Notary is required to maintain the confidentiality of information garnered in the exercise of his or her duties, save where the law or parties to a notarized deed, or the legal transaction envisaged in the notarized deed, require otherwise.
+2. The Notary’s duty of confidentiality extends to the employees of the Notary’s office, the translators and interpreters and all persons who have access to the information envisioned in Paragraph 1 of this Article. This duty is permanent; it remains after the cessation of the Notary’s functions, or of those in his employ.
+3. A Notary shall disclose information concerning notary acts performed by him or her only:
+3.1. to the persons at whose request or concerning whom the notary acts were performed;
+3.2. to the legal representatives of the persons referred-to in sub-paragraph 3.1 of this paragraph;
+3.3. to persons or bodies authorized by a court order;
+3.4. to public bodies before which notarized deeds must be produced, pursuant to the law.
+4. A Notary may disclose information concerning the existence and the content of a will only after the death of the testator.
+5. A person at whose request a Notary performed a notary act or the legal successor or representative of the person may release a notary from the duty to maintain the confidentiality of the notary act by submitting written consent to this effect. If the person is deceased and has no legal successors or where it is not possible to establish contact with the person, a court may release a notary from the duty to maintain confidentiality. At the request of the notary, a court may also release a notary from the duty to maintain the confidentiality of a notary act for other valid reasons.
+6. The duty to maintain the confidentiality of notary acts also extends to credit institutions, courts, archives and other legal persons and agencies, and to the employees thereof who possess documents containing the information specified in paragraph 1 of this Article or who have access to such documents, unless otherwise provided by law. Credit institutions, courts, archives and other legal persons and agencies that possess documents containing notary acts or information pertaining thereto shall disclose the information analogously with the procedure provided for in paragraph 3 of this Article, unless otherwise provided by law.

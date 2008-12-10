@@ -1,0 +1,7 @@
+# Article 17
+Obligation to perform official actions and exemption therefrom
+1. A Notary shall perform in person the duties imposed on him or her by law. He or she may not refuse performing his official duties without a valid reason, such as where a doubt arises as to his or her impartiality, or as otherwise provided for by law.
+2. Particularly, the Notary may not undertake official actions at the request of a party whom he or she knows to be lacking the legal capacity to undertake or conclude the transaction at issue. Neither shall the Notary take official actions for which he has no competence, or which are requested in connection with an obviously dishonorable or illegal transaction.
+3. The Notary is required to explain his refusal to act to the person(s) concerned, as well as the procedure for appeal against such refusal, including the right of the person concerned to request issuance of a document setting out the reasons for the Notary’s refusal within three working days.
+4. The provisions of the Law on Administrative Procedure relevant to official persons apply to Notaries in regard to the exemption from the obligation to perform official actions, and a party facing refusal of performance of a notary act may challenge such refusal, and request performance of the act in question, in accordance with the Law on Administrative Disputes.
+5. Official actions undertaken contrary to Paragraph 1 of this Article shall be deemed null and void.

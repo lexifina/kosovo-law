@@ -1,0 +1,4 @@
+# Article 53
+Obligation to return
+1. Should the Notary not be in a position to surrender the cash, the valuables or the securities to the intended recipient at the time specified in the notarized deed, he or she may, after such time has lapsed, with the relevant minutes surrender the cash, valuables or securities to the party or, where this proves impossible, to a judge responsible for safekeeping. In the latter case, the notary shall thereupon notify the party who surrendered these items of their handing over to a judge, by registered post or in some other reliable way.
+2. If the original notarized deed does not comprise a time-limitation for the handing over of the items deposited, the notary shall act as envisioned in paragraph 1 of this Article at the latest fifteen (15) days from the day when take-over occurred.

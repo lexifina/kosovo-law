@@ -1,0 +1,8 @@
+# Neni 12
+Vula dhe nënshkrimi
+1. Pas dhënies së betimit, dhe pa vonesa, Noteri kërkon nga Oda e Noterëve që të përgatisë vulën e tij apo saj, me shpenzime të tij apo saj.
+2. Vulat Noteriale duhet të jenë të gjitha në përputhje me modelin rrethor të identifikueshëm lehtë, dhe përmbajnë emrin dhe mbiemrin e Noterit përkatës si dhe selinë e zyrës së tij apo saj. Karakteristikat e përgjithshme të vulave noteriale, bashkë me përshtatjet e nevojshme, duhet të jenë në përputhje me dizajnin e Vulave të Gjykatave, Zyrave të Prokurorive dhe Institucioneve Penale, ashtu si theksohet në Rregulloren e UNMIK-ut Nr. 2000/30 të datës 20 maj 2000, Mbi Vulat dhe Titujt e Gjykatave, Prokurorive dhe Institucioneve penale.
+3. Shenja e vulës së Noterit dhe mostra e nënshkrimit të tij apo saj, e mbajtur në regjistrin e Odës së Noterëve, aprovohet dhe vërtetohet nga Presidenti i Gjykatës së Qarkut me juridiksion mbi selinë e zyrës së Noterisë. Vula e vërtetuar dhe nënshkrimi depozitohen në Odën e Noterëve dhe në Gjykatën Komunale.
+4. Noteri mund të ketë vetëm një vulë zyrtare, të cilin e ruan me kujdes të posaçëm, duke siguruar në veçanti që asnjë palë e tretë të mos ketë mundësi përdorimi të saj.
+5. Noteri do të njoftojë menjëherë Gjykatën kompetente komunale, policinë dhe Odën e Noterëve për humbjen, vjedhjen apo shkatërrimin e vulës së tij apo saj përmes faksimilit apo porosisë elektronike, dhe ai ose ajo do të konfirmojë humbjen, vjedhjen apo shkatërrimin përmes dërgimit personal të njoftimit apo me postë të regjistruar, me formularin për pranimin e njoftimit.
+6. Oda e Noterëve do të zëvendësojë vulën e humbur apo të shkatërruar, me shpenzime të Noterit.
