@@ -1,0 +1,2 @@
+# Neni 36.
+Anëtarët prezent dhe atë secili, ka të drejtë të kërkojë që ti lexohet procesverbali i mbledhjes, ku shihet se ai/ajo ka votuar apo nuk ka votuar për çështjen e caktuar ose ka abstenuar. Në procesverbal duhet të shënohet mënyra e votimit , rezultati i votimit , numri i votave “për” dhe “kundër” si dhe abstenimet, ndërkaq procesverbali mund të shikohet nga anëtarët e Kuvendit për rezultatet e votimit.

@@ -1,0 +1,2 @@
+# Neni 11.
+Anëtarët e Kuvendit, duhet të njoftohen me kohën, datën, vendin e mbledhjes dhe agjendën e mbledhjes, së paku 7 ditë pune para çdo mbledhjeje neni 28 i Statutit të Komunës ose së paku 3 ditë pune më herët në raste urgjente – të jashtëzakonshme. Orari i mbajtjes së mbledhjeve të rregullta për vitin vijues caktohet në mbledhjen e fundit të vitit kalendarik. Mbledhjet e komitetit për politikë dhe financa i thërret dhe kryeson Kryesuesi i Kuvendit sipas nenit 34 të Statutit të Komunës Junik.

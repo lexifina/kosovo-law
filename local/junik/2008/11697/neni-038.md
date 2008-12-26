@@ -1,0 +1,2 @@
+# Neni 38.
+Kur votohet fshehët, për propozimin si në nenin 41 alineja 3, të Ligjit për Vetëqeverisjen lokale, Me propozimin e Kryesuesit, nga sekretaria e Kuvendit organizohet dhe bëhet shpërndarja e fletë votimeve të anëtareve më të drejtë vote. Fletë votimi përmban emrat e të gjithë kandidateve të renditur sipas alfabetit e bazuar në mbiemrat e tyre. Kryesuesi i Kuvendit merret me logjistiken dhe po ashtu siguron dhe kutit e votimeve.

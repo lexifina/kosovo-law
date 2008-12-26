@@ -1,0 +1,3 @@
+# Neni 24
+Pas miratimit të rendit të ditës dhe referimit të pikave te rendit të ditës, Kryesuesi i Kuvendit hap diskutimin. Secili anëtar i Kuvendit nëse dëshiron, duhet të kërkojë fjalën për diskutim nga Kryesuesi. Për diskutim lidhur me pikën e rendit të ditës që është duke u shqyrtuar, secili anëtar që paraqitet për të diskutuar, pasi qe e ka marrë fjalën nga Kryesuesi duhet që shpjegimin, vërejtjet apo propozimet t`i paraqet nga foltorja e cila është e përqendruar para anëtarëve të Kuvendit në krahun e djathtë nga tavolina e Kryesuesit apo në mungesë të foltores nga vendi ku qëndron i ulur. Kjo vlen si për diskutim ashtu edhe për replikim.
+Kohëzgjatja e diskutimit dhe e replikimit

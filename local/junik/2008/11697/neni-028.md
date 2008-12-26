@@ -1,0 +1,2 @@
+# Neni 28
+Anëtarët mundë të kërkojnë të flasin sipas renditjes dhe diskutimi apo replikimi i tyre duhet të dëgjohet dhe të mbahet qetësi deri në përfundimin e fjalimit të tyre. Anëtarët tjerë, gjatë diskutimit të anëtarit nuk kanë të drejtë ndërhyrjeje, ata duhet të dëgjojnë duke qëndruar ulur e në heshtje. Nëse kryesuesi i mbledhjes qëndron në këmbë gjatë debatit të gjithë anëtaret tjerë duhet të ulen dhe të heshtin.

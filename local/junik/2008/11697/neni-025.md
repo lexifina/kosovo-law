@@ -1,0 +1,2 @@
+# Neni 25.
+Secili anëtar i Kuvendit, gëzon të drejtën në diskutim të barabartë lidhur me çështjet që debatohen në rendin e ditës, pa u zgjeruar jashtë pikës për të cilën debatohet , duke qenë aktiv në mbledhje . Secili anëtarë ka të drejtë diskutimi për çdo pike të rendit të ditës më së shumti dy herë nga 5 minuta, me të drejtë replikimi njëherë vetëm 2 minuta. Nëse zgjatet diskutimi apo replikimi i anëtarit të Kuvendit, Kryesuesi së pari ia tërheqë vërejtjen e nëse kjo nuk ka sukses , atëherë ia ndërpret diskutimin.
