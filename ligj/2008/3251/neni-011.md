@@ -1,0 +1,5 @@
+# Neni 11
+Të ardhurat nga pasuria e paprekshme
+1. Të ardhurat bruto nga pasuria e paprekshme përfshijnë të ardhurat e krijuara nga patentet, të drejtat autoriale, licencat, të drejtat ekskluzive dhe pasuritë tjera që përbëhen vetëm nga të drejtat dhe që nuk kanë formë fizike.
+2. Lejohen si zbritje nga të ardhurat bruto të krijuara nga pasuria e paprekshme, shpenzimet e paguara apo të krijuara me rast të krijimit të të ardhurave nga pasuria e paprekshme, me kusht që regjistrimet e shpenzimeve të tilla të jenë mbajtur në mënyrën të përshkruar në ndonjë akt nënligjor të lëshuar nga Ministria e Ekonomisë dhe e Financave.
+3. Shpenzimet për pasuritë e paprekshme që kanë kohëzgjatje të kufizuar të përdorimit (patentët, të drejtat autoriale, licencat, vizatimet dhe modelet, kontratat, të drejtat ekskluzive) janë të zbritshme në formë të detyrimeve për amortizim. Metoda e amortizimit është metoda lineare dhe pagesa bazohet në kohëzgjatjen e dobisë së pasurisë, ashtu siç përcaktohet në marrëveshjen ligjore që rregullon përvetësimin dhe përdorimin e pasurisë së paprekshme.

@@ -1,0 +1,5 @@
+# Neni 18
+Ndalja (mbajtja në burim) e tatimit mbi interesat
+1. Secili autoritet publik, organizatë biznesi, bankë apo institucion financiar tjetër, që bën pagesë të interesit, ndalë tatimin (mbanë tatimin në burim) në shumën e barabartë me dhjet për qind (10%) për çdo shumë të paguar apo të kredituar të interesit
+2. Secili autoritet publik, organizatë afariste (biznesi), bankë apo institucion tjetër financiar, dorëzon një deklarim (pasqyrë) të tatimit të ndalur (mbajtur në burim) dhe dërgon shumën e tatimit të ndalur (mbajtur në burim) në llogarinë e një banke të licencuar nga BQK, e të caktuar nga Administrata tatimore, brenda pesëmbëdhjetë (15) ditëve pas ditës së fundit të secilit muaj kalendarik, në përputhje me akt nënligjor të lëshuar nga Ministria e Ekonomisë dhe e Financave.
+3 Secili autoritet publik, organizatë afariste, bankë apo institucion tjetër financiar që paguan interes gjatë periudhës tatimore, me rast të kërkesës dorëzon një certifikatë për ndaljen e shumës së tatimit (mbajtjen në burim) deri më 1 mars të vitit që pason periudhën tatimore, në formën e cekur në akt nënligjor të nxjerrë nga Ministria e Ekonomisë dhe e Financave.
