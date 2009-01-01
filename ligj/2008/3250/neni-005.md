@@ -1,0 +1,5 @@
+# Neni 5
+Fshirja nga regjistri i TVSH-së
+1. Varësisht nga paragrafi 2. i këtij neni, personi i tatueshëm i cili e mbyll biznesin e tij ose nuk merret më me veprimtari ekonomike, duhet të kërkojë që të fshihet nga regjistri jo më vonë se pesëmbëdhjetë (15) ditë pas ditës së fundit në të cilën personi ka prodhuar ose ka kontraktuar importin apo futjen e mallit.
+2. Personi i tatueshëm mund të kërkojë që të fshihet nga regjistri nëse gjatë periudhës së fundit dymbëdhjetë (12) mujore furnizimet e tatueshme të atij personi nuk e kanë kaluar limitin e paraqitur në paragrafin 4 të nenit 3 të këtij ligji me kusht që asnjë kërkesë për fshirje të mos bëhet gjatë periudhës dymbëdhjetë (12) mujore prej datës kur regjistrimi ka hyrë në fuqi.
+3 Administrata tatimore mund të fshijë nga regjistri çdo person i cili sipas këtij ligji nuk është i detyruar të regjistrohet, përveç kur personi i tillë është regjistruar në përputhje me procedurën e referuar në paragrafin 6 të nenit 3 të këtij ligji dhe vazhdon të përcaktohet për regjistrim.
