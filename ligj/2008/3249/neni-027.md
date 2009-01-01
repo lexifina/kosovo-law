@@ -1,0 +1,7 @@
+## KREU VII
+## MOSPAGESA E TATIMEVE
+# Neni 27
+Mos pagesa e tatimeve në dividendët, kamatat, përqindjen e fitimit dhe në qirat
+1. Përveç rastit kur tatimpaguesi ka paguar tatimin në fitim për dividendët të shpërndara për banorin e Kosovës, secili tatimpagues që paguan dividendët, kamatat apo përqindjen e fitimit (nga e drejta e autorit, e patentës apo e shfrytëzimit të burimeve natyrore) personit me banim në Kosovë apo personave me banim jashtë Kosovës, mban 10% të tatimit në kohën e pagesës apo të kreditimit dhe e zbret tatimin e mbajtur (të papaguar) në një llogari të caktuar nga Administrata tatimore në bankën e licencuar nga Banka Qendrore e Kosovës.
+2. Përveç rastit kur qiraja paguhet nga personi fizik, çdo tatimpagues që i paguan qira personave të cilët janë banorë të Kosovës apo atyre që nuk janë banorë të Kosovës mban dhjetë për qind (10%) të tatimit në kohën e pagesës apo të kreditimit dhe zbret tatimin e mbajtur (papaguar) në një llogari të caktuar nga Administrata tatimore në bankën e licencuar nga Banka Qendrore e Kosovës.
+3. Çdo tatimpagues i cili paguan dividendët, kamatën, përqindjen e fitimit (nga e drejta e autorit, e patentës apo e shfrytëzimit të burimeve natyrore) dhe qiranë, që mban tatimin sipas këtij neni gjatë periudhës tatimore, me kërkesë të Administratës tatimore, ofron një certifikatë për mbajtjen e tatimit në formularin e caktuar nga Administrata tatimore deri më datën 1 mars të vitit pasues të periudhës tatimore.
