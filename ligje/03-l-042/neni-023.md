@@ -1,0 +1,6 @@
+# Neni 23
+Vlefshmëria dhe kohëzgjatja e autorizimit për PMB
+1. Ministria në bazë të propozimit të Komisionit mund të jap autorizim për një PMB në afat kohor më së shumti deri dhjetë (10) vite për përdorim të tij.
+2. Autorizimi mund të zgjatet një apo më shumë herë dhe secilën herë afati kohor për vendosjen e tij në treg është deri dhjetë (10) vite. Kërkesa për zgjatjen e autorizimit, duhet paraqitur nga përfituesi paraprak i autorizimit, autoriteteve kompetente të Ministrisë së paku dymbëdhjetë (12) muaj para afatit të skadimit të autorizimit paraprak.
+3. Në rastet e ndryshimit të të dhënave paraprake për një PMB të autorizuar më parë ose që priten të ndryshohen, atëherë përfituesi i autorizimit kërkon nga Autoriteti kompetent që i tërë dokumentacioni për vlerësimin e PMB apo pjesa e dokumentacionit paraprak me të cilin është autorizuar, duhet të vlerësohet për vazhdimin e autorizimit.
+4. Një PMB i autorizuar, mund të rivlerësohet në çfarëdo kohe nëse mendohet që kërkesat e parashtruara në nenit 22 paragrafi 3 pika 3.1 deri 3.4 të këtij ligji, nuk janë plotësuar. Në rast të rivlerësimit të dhëna shtesë dhe dokumentacioni i PMB, i ofrohet autoritetit kompetent nga përfituesi i autorizimit, personat juridik apo fizik të autorizuar, të cilit i është dhënë e drejta e vendosjes në treg dhe përdorimi i vazhduar i PMB.

@@ -1,8 +1,0 @@
-# Section 13
-BANNED AND SEVERELY RESTRICTED PESTICIDES
-13.1. Pesticides and active ingredients banned from import, export, or manufacture and placing on the market in Kosovo shall be set out in the Law.
-13.2. Pesticide donations shall be distributed in compliance with all applicable laws in Kosovo and shall only be accepted after prior approval by the registration authority.
-13.3. The registration authority shall exchange information with other countries on banned, severely restricted or severely hazardous pesticides subject to the Prior Informed Consent procedures under relevant international agreements such as the International Code of Conduct on the Distribution and Use of Pesticides and the provisions of the 1998 Rotterdam Convention on the Prior Informed Consent Procedure for Certain Hazardous Chemicals and Pesticides in International Trade.
-13.4. Stocks of banned, severely restricted or severely hazardous pesticides set out in the Law remaining in Kosovo after the entry into force of this Law shall be:
-(a) Notified to the MAFRD and collected within the time limits and in accordance with the procedures ; (b) If not notified and collected under subsection (a), confiscated, without compensation, and disposed of according to applicable laws on hazardous wastes and administrative instruction made under this Law. The costs of disposal under this section shall be borne by the owner or possessor of such pesticide stocks
-13.5. The MAFRD upon proposal by the registration authority shall allow for phasing out of the stock of the banned or severely restricted or severely hazardous pesticides set in the Law a reasonable period, depending on the merits of each case, but not exceeding two (2) years after entry into force of the Law;

@@ -1,0 +1,6 @@
+# Article 23
+Availability and duration of the authorization of PPP
+1. Ministry based on proposal of Commission may give the authorization for one PPP in the time frame more than up to ten (10) year for its use.
+2. Authorization may last for one or more times and every time the frame for its placement in the market is up to ten (10) year. Request for the duration of the authorization should be presented by the preliminary beneficiary of authorization to the competent authority of Ministry at least twelve (12) months prior the term expire of the preliminary authorization.
+3. In cases of the change of preliminary data for one PPP authorized or that are expected to be changed, then beneficiary of the authorization require from the competent authority that the whole documentation for the assessment of PPP or part of preliminary documentation with what is authorized to, must be assessed for the extension of the authorization.
+4. On an authorized PPP may be re – assessed at any time, if the methods that the submitted requests in the article 22 paragraph 3 point 3.1 up to 3.4 of this law, are not completed. In case of re – assessment of the additional data by the authorized beneficiary, natural and legal persons, to whom is given the right of the placement in the market as well and extension use of PPP.
