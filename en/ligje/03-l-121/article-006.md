@@ -1,0 +1,20 @@
+# Article 6
+Procedure for Review of Candidates for Appointment to the Constitutional Court
+1. A Special Committee for the Review of Candidates for Appointment to the Constitutional Court (hereinafter referred to as the “Committee”) is hereby established. . The said Committee shall present to the Assembly a shortlist of qualified candidates for Judges of Constitutional Court in accordance with the procedure set forth in this Article.
+2. The Committee shall be composed of the following members:
+2.1. The President of the Assembly of the Republic of Kosovo or a member of the Assembly acting as his/her designated representative;
+2.2. Leaders of each Parliamentary Group of the Assembly of the Republic of Kosovo or members of the Assembly acting as their designated representative;
+2.3. President of the Kosovo Republic Judicial Council;
+2.4. Ombudsperson;
+2.5. A representative of the Consultative Committee for Communities;
+2.6. A representative of the Constitutional Court.
+3. The Committee shall be summoned and chaired by the President of the Assembly of the Republic of Kosovo or his/her designated representative. The Committee shall have two vice chairs selected from its members, one of which shall be from the deputies of a Community different from the Community of the Chair.
+4. The Committee shall decide with simple majority of votes. In case of equal vote, the vote of the President of the Assembly of the Republic of Kosovo or his/her designated representative will be decisive.
+5. In case that one of members of the Committee has a conflict of interest in relation to a case, he/she shall not take part or otherwise participate in any aspect of the committee proceedings on that case.
+6. The procedure for determining the short list of judges of the Constitutional Court shall be instituted by the Committee. The Committee shall publish an invitation/call published in the written and electronic media including those widely read by the Communities not in the majority in Republic of Kosovo, in the Assembly, in the judicial institutions, law faculties, chamber of attorneys, judges and prosecutors associations, political parties, and other relevant legal persons and individuals to propose candidates for the election of one or more judges of the Constitutional Court (hereinafter: invitation/call). An individual may propose himself as candidate.
+7. The invitation/call shall define the conditions for electing a judge of the Constitutional Court determined by the Constitution and this Law, the deadline for proposing a candidate to the Committee, which should not be less then fifteen (15) or longer than twenty (20) days, and the enclosures that shall be delivered with the proposal.
+8. After the deadline provided in the previous Paragraph expires, the Committee, within fifteen (15) days, shall investigate whether the candidates comply with the conditions for being elected judge of the Constitutional Court as determined by the Constitution and this Law, and shall reject invalid candidacies. In carrying out this responsibility, the Committee shall adopt practices developed for the selection and appointment of other members of the judiciary in Kosovo.
+9. The Committee shall conduct an interview with each of the candidates who comply with the conditions for being elected judge of the Constitutional Court and, on the basis of presented data and interview results, shall prepare a short list of qualified candidates for judges of the Constitutional Court.
+10. The said short list shall include more candidates than the number of judges, who will be appointed, but not more than five (5) candidates for one vacant position.
+11. The Committee shall submit to the Assembly of the Republic of Kosovo, together with its short list, the list of all the candidates who comply with conditions for being elected judge of the Constitutional Court.
+12. The proposal of the Committee shall include the reasons showing why the Committee gave a particular candidate priority over the other candidates.

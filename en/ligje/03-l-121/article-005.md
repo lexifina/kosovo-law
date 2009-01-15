@@ -1,0 +1,9 @@
+# Article 5
+Incompatibility of function
+1. During his/her mandate, a judge of the Constitutional Court shall not have the right to be:
+member of a party, movement or any other political organization;
+member of a steering board of a publicly owned enterprise; trade association or non-governmental organization;
+1.3. member of a trade union.
+2. In addition to the prohibitions referred to in Paragraph 1 of this Article, a judge of the Constitutional Court shall not hold any other public or professional office with remuneration, except the performance as lecturer of legal sciences in an accredited university. For the purposes of this Law, public or professional office shall not be considered if the judge without payment engages in scientific activities, or if he/she becomes a member of an institute or jurists association, humanitarian, cultural, sports and other organizations without remuneration, provided that such activities are not related to the work of any political party.
+3. A judge proposed by the Assembly of Republic of Kosovo shall not be appointed by the President of Republic of Kosovo if he/she does not present the evidence that he/she has resigned from all relevant functions defined in Paragraphs 1 and 2 of this Article.
+4. Each judge shall be obliged to inform the President of the Constitutional Court in writing about any activity he/she wish to perform outside the office of judge of the Constitutional Court for which he/she is paid honorariums or any other forms of remuneration. In case the President of the Constitutional Court expresses his/her opposition, the judge is entitled to request that the decision of the President of the Constitutional Court be reconsidered by all judges of the Constitutional Court. The said decision of the President can be overturned by a majority of all judges of the Constitutional Court.
