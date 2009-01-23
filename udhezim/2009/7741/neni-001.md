@@ -1,0 +1,3 @@
+# Neni 1
+Qëllimi
+Qëllimi i nxjerrjes së këtij Udhëzimi Administrativ është rregullimi i njohjes së të drejtës në rritje të pensionit bazë si dhe përcaktimi i rregullave praktike, kushteve, kritereve dhe procedurave për zbatimin e vendimit të Qeverisë nr. 13/277 të nxjerrë më 31.10.2007 përmes të cilit është vendosur që pensionet bazë, për pensionistët me stazh sigurimi pensional të rriten nga 40 Euro në 75 euro, duke filluar më 01.01.2008, ndërsa me vendimin Nr. 02/51 të Qeverisë së Republikës së Kosovës të nxjerrë më datë 23.01.2009, pensioni rritet prej 5%, nga 40 euro bëhet 45 euro, dhe 75 në 80 euro duke filluar nga 01.01.2009.
