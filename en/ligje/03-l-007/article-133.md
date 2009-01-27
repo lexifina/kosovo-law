@@ -1,0 +1,5 @@
+# Article 133
+133.1 When a person dies or is announced dead by a court judgment, the communal body of the competent service for the maintenance of the death recording book is obliged that within the deadline of 15 days from the day that has recorded the death, to send the act of death to the hereditary court.
+133.2 If the body from the paragraph 1 of this article is not able to secure the necessary data to compile the act of death, will sent the act of death in the court consisting only the available data (an uncompleted act of death), describing the reasons for not being able to compile the act of death and will present the data which will serve to the court for finding the inheritors and the testator’s estate.
+133.3 If the person died outside the commune territory in which he had his residence and settlement, the body competent for the maintenance of the death-recording book will send to the hereditary court only the certificate from the book of deaths, and also the available data, which could serve to compile the act of death.
+133.4 The act of death is compiled even if the dead person left no estate.

@@ -1,0 +1,3 @@
+# Neni 255
+255.1 Debitori nuk guxon të përmbush detyrimin nga dokumenti anulimi i të cilit është propozuar, as të ndryshojë, ta përtërijë ose ta kaloj në personin tjetër, as të lëshojë për të kuponë ose lata të reja nga momenti kur i është dorëzuar shpallja, ose kur në çfarëdo mënyre ka marrë dijeni për fillimin e procedurës për anulimin e dokumentit.
+255.2 Ndalimi nga paragrafi 1 i këtij neni zgjat derisa të bëhet i formës së prerë aktvendimi për anulimin e dokumentit ose për përfundimin e procedurës. Debitori mund të lirohet nga detyrimi vetëm po qe se shumën e borxhit e paguan në depozitën e gjykatës.

@@ -1,0 +1,4 @@
+# Neni 43
+43.1 Gjykata mund të shtyjë dhënien e aktvendimit për heqjen e pjesërishme të zotësisë për të vepruar për shkak të keqpërdorimit të alkoolit ose të mjeteve të tjera dehëse po qe se mund të pritet me arsye se personi ndaj të cilit zhvillohet procedura do të përmbahet nga keqpërdorimi i alkoolit ose i mjeteve të tjera dehëse.
+43.2 Gjykata do ta shtyjë dhënien e vendimit nga paragrafi 1 i këtij neni nëse personi ndaj të cilit zhvillohet procedura me iniciativën e vet ose me propozimin e gjykatës i shtrohet mjekimit në institucionit shëndetësore. Dhënia e vendimit nga paragrafi 1 dhe 2 i këtij neni shtyhet për kohën prej gjashtë deri në dymbëdhjetë muaj.
+43.3 Aktvendimi për shtyrjen do të revokohet po qe se personi ndaj të cilit zhvillohet procedura vazhdon ta keqpërdorojë alkoolin ose mjetet tjera të dehjes brenda kohës për të cilën është shtyrë dhënia e vendimit meritor.

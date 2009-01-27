@@ -1,0 +1,4 @@
+# Article 159
+159.1 The review of the hereditary estate is done in the court session.
+159.2 In the summon letter for the court session the interested persons will be notified for the opening of the procedure and for the existence of the testament if it exist, and will be summon immediately to hand to the court the written testament respectively the verbal testament, if they posses it, or to indicate the witnesses of the verbal testament.
+159.3 The court in the summon letter will notify in advance the interested persons that until the termination of the hereditary procedure they have the right to give declarations in the court if they accept the inheritance or they withdraw from it, and if they do not come in the session or do not give declarations, the court will decide for their rights according to the data of the material document.

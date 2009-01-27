@@ -1,0 +1,3 @@
+# Article 198
+198.1 The procedure of the separation of the thing and the real estate in joint ownership can initiate every of the co-proprietors with his proposal.
+198.2 The presented proposal in the court has to include all the co-proprietors. The proposal should contain the data for the separation object, for the parts greatness and also for the other thing rights of every co-proprietor. For the real estate should be noticed the cadastre data and those from the real estate book. To the proposal should be attached the evidence on the right of property, the right of servitude and the other thing rights, and also on the real estate possession.

@@ -1,0 +1,2 @@
+# Neni 172
+Në qoftë se në procedurën trashëgimore të gjithë trashëgimtarët dhe legatarët me marrëveshje i propozojnë gjykatës ndarjen dhe mënyrën e ndarjes, gjykata marrëveshjen e këtillë e inkorporon në aktvendimin për trashëgimin. Gjykata vepron kështu edhe kur ndarjen e pasurisë trashëgimore e bënë duke e aprovuar kërkesën e trashëgimtarit që ka jetuar në bashkësi familjare me të vdekurin, që t’i lihen sendet e caktuara që shërbejnë për nevoja të përditshme apo për ushtrimin e profesionit.

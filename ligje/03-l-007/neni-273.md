@@ -1,0 +1,2 @@
+# Neni 273
+Në rastet në të cilat në depozitën gjyqësore dorëzohen sendet për të cilat depozituesi nuk di se cilit person duhet t’i dorëzohen, apo nëse nuk di se cilat nga më shumë sende të depozituara duhet dorëzuar personit të autorizuar, gjykata do të caktojë seancën në të cilën do t’i thërrasë depozituesin dhe të gjithë personat e interesuar me qëllim të marrëveshjes se cilit person i takon sendi i depozituar.

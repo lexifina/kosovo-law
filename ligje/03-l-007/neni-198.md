@@ -1,0 +1,3 @@
+# Neni 198
+198.1 Procedurën e ndarjes së sendit dhe të paluajtshmërisë në bashkëpronësi mund ta inicoj me propozimin e tij secili nga bashkëpronarët.
+198.2 Propozimi i paraqitur në gjykatë duhet t’i përfshij të gjithë bashkëpronarët. Propozimi duhet t’i përmbajë të dhënat për objektin e ndarjes, për madhësinë e pjesëve si dhe për të drejtat tjera sendore të secilit bashkëpronarë. Për sendet e paluajtshme duhet cekur të dhënat kadastrale dhe ato nga libri i paluajtshmërive. Propozimit duhet bashkangjitur provat mbi të drejtën e pronësisë, të drejtën e servitutit dhe të drejtat e tjera sendore, si dhe për posedimin e paluajtshmërisë.

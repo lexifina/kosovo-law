@@ -1,0 +1,4 @@
+# Article 196
+196.1 The provisions of this law on the administration and the exploitation of the common things are applied also for the proprietors and possessors of the special parts of the buildings in the point of the administration and exploitation of the common parts of the building which serve to the building as a entirety or only some of the special parts of the building, in which case the interested persons are considered only the proprietors of such parts of the building, if with the reciprocal arraignment of their relationships are not touched the rights of the other buildings parts proprietors.
+196.2 The relationships between the proprietors of the special parts of the building are arranged in accordance with the rights on the special parts of the building.
+3) The separation of the things and the real estate in the joint ownership

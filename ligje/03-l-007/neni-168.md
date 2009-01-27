@@ -1,0 +1,3 @@
+# Neni 168
+168.1 Në qoftë se ndërmjet pjesëmarrësve të procedurës trashëgimore lindë kontesti rreth fakteve nga të cilat varet e drejta e legatit të caktuar me testament, apo ndonjë e drejtë tjetër nga pasuria trashëgimore, gjykata do t’i udhëzojë pjesëmarrësit që ta inicojnë procedurën kontestimore ose procedurën administrative, por nuk do të ndërpresë procedurën trashëgimore.
+168.2 Në qoftë se në rastin nga paragrafi 1 i këtij neni nuk ekziston kontesti rreth fakteve por vetëm lidhur me zbatimin e së drejtës, gjykata trashëgimore çështjet e natyrës juridike do t’i shqyrtojë dhe zgjidhë në procedurën trashëgimore.

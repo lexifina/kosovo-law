@@ -1,0 +1,5 @@
+# Article 41
+41.1 If for ascertaining the health condition and ability of person to judge to whom is developed the procedure , according to expert opinion of medical profession , is necessary to be settled in health institution court can give judgment with which can determine that he temporarily but not more than 3 months to be settled in such institution.
+41.2 If the health institution from paragraph 1 if this article is out matters court territory, than this court will commit necessary acting through competent court in territory of which is such institution.
+41.3 Against judgment from paragraph 1 of this law is permitted complaint, The complaint does not impede distrainment of stroke judgment. Complaint can present person to whom is developed the procedure, curator and temporary representative of such person.
+41.4 Complaint is presented within the deadline of 3 days from the day of judgment surrender. Complaint together with matter file, court will send immediately to second step court, which has to decide within the deadline of 3 days from the day that has obtained complaint.

@@ -1,0 +1,4 @@
+# Neni 219
+219.1 Në qoftë se pjesëmarrësit e procedurës lidhin marrëveshje që kompensimi për ndërtesën apo banesën e eksproprijuar të caktohet në formë të dhënies së ndërtesës ose banesës tjetër, atëherë me anë të saj duhet të caktohet edhe afati për përmbushjen e detyrimeve reciproke.
+219.2. Në qoftë se afatin për përmbushjen e detyrimeve reciproke nuk e caktojnë vet pjesëmarrësit e marrëveshjes, atëherë gjykata me aktvendimin për caktimin e kompensimit do ta caktojë afatin për shpërngulje nga ndërtesa e eksproprijuar, përkatësisht nga banesa si pjesë e veçantë e ndërtesës, ashtu siç është paraparë në ligjin për eksproprijimin e paluajtshmërive.
+219.3. Dispozitat nga paragrafi 1 i këtij neni në mënyrë të përshtatur zbatohen edhe për bujkun, kur me anë të marrëveshjes me shfrytëzuesin e eksproprijimit apo në bazë të kërkesës së tij, kompensimi për tokën bujqësore të eksproprijuar i është caktuar me dhënie në pronësi të paluajtshmërisë tjetër.

@@ -1,0 +1,3 @@
+# Article 179
+179.1 With the final act judgment are not related the persons which claim that any right belongs to them related to that which was ascertained that is part of the hereditary estate, if they had not participated as a pair in the hereditary estate’s review, and if they were not summoned personally and regularly for their participation.
+179.2 With the final act judgment are not related the persons which claim that after the death of the testator to them did belong the right on inheritance according to the testament or law, or that to them belonged the legate’s right, if they did not participated as a pair in the hereditary estate’s review, and they were not summoned personally and regularly for the participation in it.

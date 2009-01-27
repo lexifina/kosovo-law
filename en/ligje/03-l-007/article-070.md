@@ -1,0 +1,3 @@
+# Article 70
+70.1 For starting a procedure of annulment or change of the judgment for the announcement of death of the disappeared person, the court informs the custody body, if it has not initiated the noted procedure, and the hereditary court in front of which is being developed the procedure for the partition of this person’s wealth.
+70.2 The inheritance procedure that is in process of development will be interrupted. If this procedure ended with a final judgment and if a respective registration of real estate has been made in the book of land, it will be ordered to annotate in the book related with the procedure for the removal from power or change the merit judgment on the announcement of death of the disappeared person.

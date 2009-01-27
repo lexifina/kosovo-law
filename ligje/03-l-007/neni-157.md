@@ -1,0 +1,4 @@
+# Neni 157
+157.1 Në qoftë se nga të dhënat e aktvdekjes shihet se trashëgimlënësi nuk ka lënë pasuri, apo se ka lënë vetëm pasuri të luajtshme, e asnjëri nga trashëgimtarët nuk kërkon që të shqyrtohet çështja, atëherë gjykata me aktvendim do të vendos që mos të shqyrtohet pasuria trashëgimore.
+157.2 Kur gjykata vendosë që mos të shqyrtohet pasuria trashëgimore, kurse midis trashëgimtarëve ka të atillë që nuk kanë zotësi për të vepruar,e as prindër që do të kujdeseshin për të drejtat dhe interesat e tyre, atëherë gjykata për një gjë të tillë duhet ta lajmërojë organin e kujdestarisë.
+157.3 Nëse gjykata ka vendosur që mos të bëhet shqyrtimi i çështjes për shkaqet nga paragrafi 2 i këtij neni, personat që kanë të drejtë trashëgimi mund t’i realizojnë të drejtat e tyre që u takojnë si trashëgimtarë duke inicuar procedurën trashëgimore.

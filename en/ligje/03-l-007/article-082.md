@@ -1,0 +1,2 @@
+# Article 82
+If the acceptance in the health institution is not according to the judgment of the competent court, the court in the location in which is the health institution immediately after the arrival of the notification from article 78 or 80 of this law, and also when in another way is notified for the maintenance of the sick person in the health institution without his approval is obliged according to the official assignment to start a procedure for his further maintenance in the health institution.

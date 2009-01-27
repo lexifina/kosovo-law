@@ -1,0 +1,3 @@
+# Article 135
+135.1 If to the hereditary court is taken an uncompleted act of death or only the certificate from the death recording book, the court according to the case circumstances will complete the act of death or it will oneself compile it, or the compile of the act of death will be credited to the body competent for the maintenance of the recording book of deaths.
+135.2 When this is arguable, the court will compile oneself the act of death also apart from the case of paragraph 1 of this article, if by the certificate of the recording book of death or by a public document it is proved the death of the testator.

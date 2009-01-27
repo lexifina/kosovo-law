@@ -1,0 +1,2 @@
+# Neni 257
+Gjykata do ta ndalë procedurën për anulimin e dokumentit po qe se propozuesi e tërheqë propozimin ose po qe se propozuesi brenda afatit të caktuar nga gjykata nuk e deponon në depozitën gjyqësore shumën e nevojshme për publikimin e shpalljes ose nëse personi i tretë ia dorëzon gjykatës dokumentin apo provën nga e cila shihet se ekziston dokumenti anulimin e të cilit e ka kërkuar propozuesi.

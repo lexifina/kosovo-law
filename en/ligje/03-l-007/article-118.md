@@ -1,0 +1,2 @@
+# Article 118
+Before the announcement of merit judgment the court will obtain the ascertainment and the opinion from the health institution and also the opinion from the body of custody. Except this the court will question the representative of the proposal, the parents or his custodian, respectively his adopter, the person with whom the minor wants to bond matrimony, and if necessary can also use other evidence aiming the ascertainment of essential facts.

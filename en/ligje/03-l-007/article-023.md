@@ -1,0 +1,5 @@
+# Article 23
+23.1 If the out contentious procedure participator instructed for initiation of out contentious procedure , respectively of administrative procedure inside the determined deadline which can not be longer than thirty (30) days , initiate that , than the court will stop the procedure till it is done the final judgment given for preliminary matter in contentious procedure, respectively administrative.
+23.2 Contentious procedure, respectively administrative with the aim of solving preliminary matter can initiate and the out contentious procedure participator which the court didn’t instruct for such a thing.
+23.3 If none of participators in out contentious procedure not initiate contentious procedure or administrative till the end of out contentious procedure, the court will end the procedure without taking in mind requests related to which out contentious procedure participator is instructed to initiate contentious procedure, respectively administrative.
+Judgments juridical consequences

@@ -1,0 +1,2 @@
+# Article 278
+If the person in utility of which is accepted any thing in court deposit or depositor, that is invited regularly to take a deposited thing, does not take it within the deadline of one year from the day on which is delivered to him calling letter, court by judgment will ascertain that such thing is been done property of state, respectively the right of possession of it belongs to commune in which territory is settled court residence.

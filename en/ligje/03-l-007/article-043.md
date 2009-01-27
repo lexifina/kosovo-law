@@ -1,0 +1,4 @@
+# Article 43
+43.1 Court can delay a judgment for abolition from paragraph 1 of this article if the person to whom is developed the procedure will restrain from misuse of alcohol or other toxic means if it can be excepted with the reason that the person to whom is developed procedure will restrain from misusing alcohol and other toxic means.
+43.2 Court will delay judgment from paragraph 1 of this article if the person to whom is developed the procedure with his initiative or by court proposal will inpatient to the health institution cure. Judgment announcement from paragraph 1 and 2 of this article is delayed for time of six to twelve months.
+43.3 Judgment for delaying will be revoked if the person to whom is developed the procedure continues to misuse alcohol or other toxic means within the time for which is delayed merit judgment.

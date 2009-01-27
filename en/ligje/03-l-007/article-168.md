@@ -1,0 +1,3 @@
+# Article 168
+168.1 If between the participants of the hereditary procedure appears a contention around the facts from which it depends the right of the appointed legate with testament, or any other right from the hereditary estate, the court will guide the participants to initiate the contentious procedure or the administrative procedure, but will not interrupt the heredity procedure.
+168.2 If in the case from the paragraph 1 of this article it does not exist the litigation around facts but only related to the application of the right, the hereditary court will review and solve the matters of legal nature in the hereditary procedure.

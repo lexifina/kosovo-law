@@ -1,0 +1,3 @@
+# Neni 200
+200.1 Në qoftë se gjykata, duke vepruar sipas propozimit të një bashkëpronari, konstaton se ndërmjet bashkëpronarëve kontestuese është e drejta mbi sendet që janë objekt ndarjeje ose madhësia e pjesëve në sendet e përbashkëta, përkatësisht në pasurinë që është e përbashkët, ose kur konstaton se është kontestuese rrethana se cilat sende, respektivisht cilat të drejta bëjnë pjesë në pasurinë e përbashkët, atëherë ajo e ndërpretë procedurën dhe e udhëzon propozuesin që brenda afatit prej 15 ditësh me padi ta inicojë procedurën kontestimore.
+200.2 Në qoftë se propozuesi brenda afatit të caktuar nga gjykata nuk e ngritë padinë, do të konsiderohet se e ka tërhequr propozimin e tij.

@@ -1,0 +1,5 @@
+# Neni 23
+23.1 Në qoftë se pjesëmarrësi i procedurës jokontestimore i udhëzuar për inicimin e procedurës kontestimore, respektivisht të procedurës administrative brenda afatit të caktuar, i cili nuk mund të jetë më i gjatë se 30 ditë, e inicon atë, atëherë gjykata do ta ndërpresë procedurën derisa të përfundoj procedura në mënyrë të plotfuqishme, mos të bëhet i formës së prerë vendimi i dhënë mbi çështjen paraprake në procedurën kontestimore, respektivisht administrative.
+23.2 Procedurën kontestimore, respektivisht administrative me qëllim të zgjidhjes së çështjes paraprake mund ta inicoj edhe pjesëmarrësi i procedurës jokontestimore të cilin gjykata nuk e ka udhëzuar për një gjë të tillë.
+23.3 Në qoftë se asnjëri nga pjesëmarrësit në procedurën jokontestimore nuk e inicon procedurën kontestimore apo atë administrative deri në përfundimin e procedurës jokontestimore, gjykata do ta përfundojë procedurën pa i marrë në konsideratë kërkesat lidhur me të cilat pjesëmarrësi i procedurës jokontestimore është udhëzuar që ta inicojë procedurën kontestimore, respektivisht administrative.
+Pasojat juridike të aktvendimit

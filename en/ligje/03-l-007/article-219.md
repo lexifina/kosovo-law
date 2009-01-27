@@ -1,0 +1,4 @@
+# Article 219
+219.1 If the participators of the procedure made an agreement that the compensation for building or expropriated dwelling house to be fixed in form of giving other building or dwelling house, than by it side must be determined and the deadline for reciprocal obligations fulfilling.
+219.2. If the deadline for fulfilling reciprocal obligation does not determine participators of agreement, than the court with the judgment for compensation fixing will determine deadline for transfer from expropriated building , respectively from dwelling house as particular part of dwelling as it is foreseen in law for real estate expropriation.
+219.3. Provisions from paragraph 1 of this article in appropriate manner are implementing and for farmer, when according to agreement with expropriation user or according to his request, compensation for expropriated agricultural land has been fixed with giving in property other real estate.

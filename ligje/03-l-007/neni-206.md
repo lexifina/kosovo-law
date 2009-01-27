@@ -1,0 +1,3 @@
+# Neni 206
+206.1 Propozimin për rregullimin e megjave ndërmjet parcelave ngastrave fqinje të tokave ka të drejtë ta paraqesë në gjykatë secili nga pronarët përkatësisht poseduesit e parcelave të tilla, e kur ligji e parasheh një gjë të këtillë edhe organi i autorizuar mund të paraqesë propozim të këtillë.
+206.2 Propozimi duhet të përmbajë të dhëna për pronarët, përkatësisht poseduesit e ngastrave fqinje, për ngastrat e tokave ndërmjet të cilave duhet të rregullohet megja, me shenjat e ngastrave të tilla nga librat e tokave dhe librat kadastrale, shkaqet për të cilat inicohet procedura, si dhe vlerën e sipërfaqes kontestuese kufitare.

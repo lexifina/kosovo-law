@@ -1,0 +1,4 @@
+# Article 87
+87.1 Before announcing the judgment for the compulsory establishment or the release of the mental sick person, the court is obliged to assume a written opinion of a psychiatrist from the list of the court experts who is not employed in the health institution where the person is compulsory established, to estimate if it is indispensable his maintenance in the health institution.
+87.2 When it has to be determine for the compulsory maintenance of a child or a young person ,the court is obliged to assume the opinion from the paragraph 1 of this article from a specialized psychiatrist for cure of children and youth or from a psychiatrist who has a long working experience with children and youth.
+87.3 The psychiatrist from the paragraph 1 and 2 of this article gives to the court the estimation in written for the necessity of establishment of the mental sick person in the health institution after he has personally checked him.

@@ -1,0 +1,4 @@
+# Article 138
+138.1 The inventory and the estimation of the testator’s estate is done according to the hereditary court when the inheritors and their residence are unknown, when inheritors are the persons which because they are underage, mental sick or other circumstances are entirely incapable or partly capable to take care of their business, when the hereditary estate has to be delivered to the commune or to an other legal person, or other justified cases.
+138.2 The court will order to be made the inventory and the estimation of the hereditary estate also in a case when it is required from the inheritors, legates or the testator’s creditor.
+138.3 The inventory and the estimation of the hereditary estate is done also without the judgment of the court in the case of compiling the act of death, if it is required from one of the inheritors or the legate.

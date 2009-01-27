@@ -1,0 +1,4 @@
+# Neni 128
+128.1 Për shqyrtimin e pasurisë trashëgimore e kompetencës territoriale është gjykata në territorin e së cilës trashëgimlënësi në momentin e vdekjes ka pasur vendbanimin. Në qoftë se trashëgimlënësi në momentin e vdekjes nuk ka pasur vendbanim, kompetente është gjykata në territorin e të cilës ai e ka pasur vendqëndrimin, po qe se me kontratë ndërkombëtare ose me ligj nuk është paraparë ndryshe.
+128.2 Në qoftë se trashëgimlënësi në momentin e vdekjes nuk ka pasur as vendbanim e as vendqëndrim në territorin e Kosovës, kompetente në pikëpamje territoriale është gjykata në territorin e së cilës gjendet pasuria trashëgimore e tij ose pjesa më e madhe e saj.
+128.3 Masat e përkohshme për sigurimin e pasurisë trashëgimore mund t’i urdhërojë gjykata në territorin e së cilës ka vdekur trashëgimlënësi, si dhe gjykata në territorin e së cilës ndodhet pasuria trashëgimore.

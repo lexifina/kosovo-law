@@ -1,0 +1,2 @@
+# Neni 118
+Para se të jepet vendimi meritor gjykata do të marrë konstatimin dhe mendimin e institucionit shëndetësor si dhe mendimin e organit të kujdestarisë. Përveç kësaj gjykata do të marrë në pyetje paraqitësin e propozimit, prindërit ose kujdestarin e tij, përkatësisht adoptuesin, personin me të cilin i mituri ka ndërmend të lidhë martesë, e sipas nevojës mund të shfrytëzojë edhe prova të tjera me qëllim të konstatimit të fakteve qenësore.

@@ -1,0 +1,2 @@
+# Article 172
+If in the hereditary procedure all the inheritors and the legates with an agreement propose to the court the separation and the way of the separation, the court such agreement in cooperates in the act judgment for the inheritance. The courts acts the same also when the separation of the hereditary estate is done by the approval of the request of the inheritor who lived in a family community with the dead, to leave the appointed things which serve for daily needs or for the professions exercise.

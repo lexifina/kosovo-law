@@ -1,0 +1,4 @@
+# Neni 181
+181.1 Personi i cili me mirëbesim, me rastin e fitimit të së drejtës së pronësisë mbi ndonjë send apo të drejtë që i takon trashëgimtarit, ka vepruar duke besuar në vërtetësinë e aktvendimit për trashëgimin që ka marrë formë të prerë, duke mos ditur se konstatimi i tillë nuk është për personin nga i cili e ka fituar atë, prapë se prapë është bërë pronar i sendit ose të drejtës së fituar siç do ta fitonte sikur tjetërsuesit me të vërtetë do t’i takonte e drejta e trashëgimit ashtu siç është thënë në aktvendimin e formës së prerë për trashëgimin.
+181.2 Me këtë rregull nuk preken dispozitat për fitimin me besim në vërtetësinë dhe plotësinë e librit publik, e as në dispozitat për fitimin e sendeve të luajtshme nga jo pronari.
+g) Kërkesat e trashëgimtarëve pas marrjes së formës së prerë të aktvendimit për trashëgimin

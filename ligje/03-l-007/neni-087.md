@@ -1,0 +1,4 @@
+# Neni 87
+87.1 Para se të jep vendimin për vendosjen e detyrueshme ose për lirimin e personit të sëmurë mendërisht, gjykata ka për detyrë ta marrë mendimin e shkruar të një psikiatri nga lista e ekspertëve gjyqësor që nuk është i punësuar në institucionin shëndetësor në të cilin ndodhet personi i mbajtur detyrimisht për atë se a është e domosdoshme mbajtja e tij në institucionin shëndetësor.
+87.2 Kur duhet vendosur për mbajtje të detyrueshme të fëmijës, apo të personit të ri, gjykata ka për detyrë që mendimin nga paragrafi 1 i këtij neni ta marrë nga psikiatri i specializuar për shërimin e fëmijëve dhe të rinjve, respektivisht nga psikiatri që ka përvojë të gjatë pune me fëmijë dhe të rinj.
+87.3 Psikiatri nga paragrafi 1 dhe 2 i këtij neni ia jep gjykatës mendimin me shkrim për domosdoshmërinë e vendosjes së personit të sëmurë mendërisht në institucionin shëndetësor pasi ta ketë kontrolluar personalisht atë.

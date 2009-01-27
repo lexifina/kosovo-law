@@ -1,0 +1,5 @@
+# Neni 194
+194.1 Në qoftë se ndërmjet personave të interesuar është kontestuese e drejta mbi sendin që është objekt procedimi ose është kontestues vëllimi i së drejtës, gjykata do ta udhëzojë propozuesin që brenda afatit prej 15 ditësh të inicoj procesin kontestimor në gjykatë apo procesin administrativ në organin shtetëror me qëllim të vendosjes për të drejtën ose për raportin e kontestuar. Gjatë këtij afati procedura jokontestimore mbetet e ndërprerë.
+194.2 Në qoftë se propozuesi nuk e inicon procedurën në afatin nga paragrafi 1 i këtij neni, konsiderohet se propozimi është tërhequr.
+194.3 Gjykata përkohësisht, derisa të nxjerrët vendimi i organit kompetent, mund t’i rregullojë marrëdhëniet e personave të interesuar sa i përket administrimit dhe shfrytëzimit të sendit të përbashkët, kur këtë e kërkojnë rrethanat e rastit konkret, e sidomos me qëllim që të pengohet dëmi, arbitrarizmi ose padrejtësia e dukshme për ndonjërin nga personat e interesuar.
+194.4 Dispozitat e paragrafit 3 të këtij neni do të zbatohen edhe kur personat e interesuar janë bashkë posedues të sendit, që nuk kanë prova për bazën e ligjshme të fitimit të posedimit.

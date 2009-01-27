@@ -1,0 +1,3 @@
+# Article 163
+163.1 During the procedure’s development, the interested persons can give declarations related to the inheritance also when there are not present the other interested persons, and there is no need to be given a chance to such persons every time to declare related to the declarations of the other interested persons.
+163.2 If the court doubts that the person who according to law itself has right for inheritance is the only relative or the closest relative of the testator can listen also the other persons for which it considers that could have a same or more powerful right for inheritance. Such persons the court can summon also with an announcement based on the provisions of the article 162 of this law.

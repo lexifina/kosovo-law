@@ -1,0 +1,2 @@
+# Neni 278
+Në qoftë se personi në dobi të të cilit është pranuar ndonjë send në depozitën gjyqësore ose depozituesi, që është ftuar rregullisht për marrjen e sendit të depozituar, nuk e merr atë brenda afatit prej një viti nga dita në të cilën i është dorëzuar letërthirrja, gjykata me aktvendim do të konstatoj se sendi i tillë është bërë pronë e shtetit, përkatësisht se e drejta e disponimit të me të i takon komunës në territorin e së cilës ndodhet selia e gjykatës.

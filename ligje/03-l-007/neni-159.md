@@ -1,0 +1,4 @@
+# Neni 159
+159.1 Shqyrtimi i pasurisë trashëgimore bëhet në seancë gjyqësore.
+159.2 Në letërthirrjen për në seancë gjykata personat e interesuar do t’i njoftojë për fillimin e procedurës dhe për ekzistimin e testamentit po qe se ekziston, dhe do t’i thërrasë që menjëherë t’ia dërgojnë gjykatës testamentin e shkruar përkatësisht dokumentin për testamentin gojor(verbal), po qe se gjendet te ata, ose t’i tregojnë dëshmitarët e testamentit gojor.
+159.3 Gjykata në letërthirrje do t’i paralajmërojë personat e interesuar se deri në përfundimin e procedurës trashëgimore kanë të drejtë të japin deklaratë në gjykatë se a pranojnë trashëgimin apo heqin dorë prej tij,e nëse nuk vijnë në seancë ose nuk japin deklaratën, se gjykata për të drejtën e tyre do të vendosë në bazë të të dhënave që i ka në shkresat e lëndës.

@@ -1,0 +1,3 @@
+# Neni 193
+193.1 Në qoftë se personat e interesuar nuk merren vesh, gjykata i merr provat e nevojshme dhe në bazë të rezultatit të të gjithë procedurës e nxjerrë aktvendimin me të cilin do të rregullojë mënyrën e administrimit dhe shfrytëzimit të sendit të përbashkët sipas dispozitave përkatëse të së drejtës materiale, duke pasur kujdes për interesat e tyre të veçanta dhe të përbashkëta.
+193.2 Në qoftë se me anë të propozimit kërkohet rregullimi i shfrytëzimit të banesës së përbashkët ose të lokaleve afariste, gjykata posaçërisht do të rregullojë se cilat hapësira personat e interesuar do t’i shfrytëzojnë veçanërisht e cilat bashkërisht, dhe si do të paguhen shpenzimet e shfrytëzimit të hapësirave.

@@ -1,0 +1,4 @@
+# Neni 209
+209.1 Në qoftë se ndërmjet pjesëmarrësve të procedurës lind kontesti lidhur me sipërfaqen kufitare vlera e të cilës nuk e kalon vlerën e kontestit të vlerës së vogël në procedurën kontestimore, gjykata do të caktojë megjën në mbështetje të së drejtës më të fortë, e nëse kjo nuk është e mundshme, atëherë në mbështetje të gjendjes së posedimit të fundit të qetë. Në qoftë se kontesti nuk mund të zgjidhet as në këtë mënyrë, gjykata sipërfaqen kontestuese kufitare do ta pjesëtojë sipas parimit të drejtshmërisë.
+209.2 Në qoftë se pjesëmarrësit në procedurë merren vesh më parë, gjykata mund ta rregulloj megjën në mbështetje të planeve kadastrale në fuqi.
+209.3 Gjykata mund ta rregulloj megjën sipas të drejtës më të fortë pa marrë parasysh vlerën e sipërfaqes kontestuese kufitare, po qe se pjesëmarrësit e procedurës arrijnë marrëveshje paraprakisht për një gjë të tillë.

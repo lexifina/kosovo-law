@@ -1,0 +1,3 @@
+# Neni 70
+70.1 Për fillimin e procedurës për anulimin ose ndryshimin e vendimit për shpalljen e vdekjes së personit të zhdukur, gjykata e njofton organin e kujdestarisë, nëse nuk e ka inicuar procedurën në fjalë, dhe gjykatën trashëgimore para së cilës është duke u zhvilluar procedura për ndarjen e pasurisë së këtij personi.
+70.2 Procedura trashëgimore që është në zhvillim e sipër do të ndërpritet. Në qoftë se kjo procedurë ka përfunduar me vendim të formës së prerë, dhe po qe se është bërë regjistrimi përkatës i paluajtshmërive në librin e tokave, do të urdhërohet që në këtë libër të bëhet shënimi lidhur me procedurën për heqje nga fuqia apo për ndryshimin e vendimit meritor mbi shpalljen e vdekjes së personit të zhdukur.

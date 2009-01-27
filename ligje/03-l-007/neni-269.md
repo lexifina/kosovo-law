@@ -1,0 +1,3 @@
+# Neni 269
+269.1 Në qoftë se objekt depozite janë të hollat ose valuta e huaj, gjykata e ka për detyrë që brenda afatit prej tri ditësh nga dita e pranimit të të hollave, përkatësisht të valutës së huaj, t’i depozitojë në një llogari të veçantë në bankën për qarkullimin e pagesave ose në bankën tjetër të autorizuar, po qe se me dispozita të posaçme nuk është caktuar ndryshe.
+269.2 Metalet fisnike, sendet e punuara nga metalet fisnike dhe gjërat e tjera të çmueshme, si dhe letrat me vlerë, gjykata brenda afatit prej tri ditësh do t’ia dorëzojë bankës së autorizuar, po qe se me dispozita të posaçme nuk është caktuar ndryshe.

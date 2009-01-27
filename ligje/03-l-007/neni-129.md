@@ -1,0 +1,3 @@
+# Neni 129
+129.1 Për shqyrtimin e pasurisë trashëgimore të shtetasit të Kosovës i cili në momentin e vdekjes e ka pasur vendbanimin në Kosovë, në pikëpamje të pasurisë së paluajtshme e cila ndodhet në territorin e Kosovës dhe në pikëpamje të pasurisë së luajtshme të tij, pa marrë parasysh se ku ndodhet, e kompetencës ekskluzive është gjykata e Republikës së Kosovës.
+129.2 Në qoftë se pasuria e paluajtshme e personit nga paragrafi 1 i këtij neni ndodhet jashtë vendit tonë, gjykata e Kosovës do të jetë kompetente vetëm po qe se sipas ligjit të shtetit në të cilin ndodhet pasuria e tillë nuk është kompetente gjykata e huaj.

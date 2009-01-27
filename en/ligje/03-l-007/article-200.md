@@ -1,0 +1,3 @@
+# Article 200
+200.1 If the court, acting according the proposal of one of the co-proprietors, ascertains that between the litigious co-proprietors is the right on the things which are objects of separation or the greatness of parts in the common things, respectively in the common estate, or when it ascertains that it is litigious circumstance that which things, respectively which rights are part of the common estate, then it will interrupt the procedure and it guides the proposer that within the deadline of 15 days with law-suit to initiate the contentious procedure.
+200.2 If the proposer within the appointed deadline from the court does not draw a lawsuit, will be considered that it has withdrawn his proposal.

@@ -1,0 +1,2 @@
+# Neni 80
+Institucioni shëndetësor ka për detyrë që në mënyrën nga neni 78 i këtij ligji të veprojë edhe kur personi që është pranuar me vullnetin e vet në institucionin shëndetësor revokon pëlqimin e dhënë, kurse personi i autorizuar ose organi i këtij institucioni shëndetësor konsideron se nevojitet mbajtja e mëtejshme e tij për shërim. Afati për njoftimin e gjykatës fillon nga dita e revokimit të pëlqimit të dhënë.

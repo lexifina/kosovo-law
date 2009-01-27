@@ -1,0 +1,4 @@
+# Neni 182
+182.1 Në qoftë se pasi të jetë bërë i formës së prerë aktvendimi për trashëgimin gjendet pasuria e cila nuk është përfshirë me këtë aktvendim, gjykata nuk do të shqyrtojë përsëri pasurinë trashëgimore, por këtë pasuri me një aktvendim të ri do ta pjesëtojë në mbështetje të aktvendimit të mëparshëm për trashëgimin. Kjo rregull nuk vlen po qe se ndonjëri nga trashëgimtarët ka hequr dorë nga trashëgimi apo pjesën trashëgimore i a ka dhënë bashkëtrashëgimtarit.
+182.2 Në qoftë se më parë nuk është shqyrtuar pasuria trashëgimore, gjykata do ta shqyrtojë atë vetëm në qoftë se pasuria e gjetur përbëhet nga sendet e paluajtshme apo nga të drejtat që barazohen me sendet e këtilla.
+182.3 Në qoftë se pasuria e gjetur përbëhet nga sendet e luajtshme apo nga të drejtat që barazohen me sendet e tilla, gjykata do ta filloj procedurën për shqyrtimin e pasurisë trashëgimore vetëm me kërkesën e personave të interesuar.

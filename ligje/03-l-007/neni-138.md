@@ -1,0 +1,4 @@
+# Neni 138
+138.1 Inventarizimi dhe vlerësimi i pasurisë së trashëgimlënësit bëhet sipas vendimit të gjykatës trashëgimore kur nuk dihen trashëgimtarët apo vendbanimi i tyre, kur trashëgimtarë janë personat që për shkak të moshës së mitur, sëmundjes mendore ose rrethanave të tjera nuk janë fare të aftë, ose nuk janë plotësisht të aftë, që të kujdesen vetë për punët e veta, kur pasuria trashëgimore duhet t’i dorëzohet komunës ose personit juridik tjetër, ose në rastet tjera të justifikueshme.
+138.2 Gjykata do të urdhërojë që të bëhet inventarizimi dhe vlerësimi i pasurisë trashëgimore edhe në rast se këtë e kërkojnë trashëgimtarët, legatarët ose kreditorët e trashëgimlënësit.
+138.3 Inventarizimi dhe vlerësimi i pasurisë trashëgimore bëhet edhe pa vendimin e gjykatës me rastin e përpilimit të aktvdekjes, po qe se këtë e kërkon ndonjëri nga trashëgimtarët ose legatarët.

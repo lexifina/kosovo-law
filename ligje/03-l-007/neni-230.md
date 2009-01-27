@@ -1,0 +1,2 @@
+# Neni 230
+Kur konstaton se ekzistojnë kushtet nga neni 229 i këtij ligji, gjykatësi gjithashtu duhet të konstatoj se a ekzistojnë vullneti i lirë për lidhjen e veprimit juridik. Gjykatësi ka për detyrë që pjesëmarrësve në procedurë t’ua sqaroj kuptimin e veprimit juridik, t’i njoftojë me pasojat e veprimit të tillë si dhe të ekzaminoj se a është i lejueshëm ai, respektivisht se nuk është në kundërshtim me dispozitat e detyrueshme.

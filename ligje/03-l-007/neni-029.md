@@ -1,0 +1,6 @@
+# Neni 29
+29.1 Në procedurën në të cilën vendoset për çështjet që kanë të bëjnë me gjendjen personale ose familjare të pjesëmarrësit, për shpenzimet procedurale gjykata vendosë sipas vlerësimit të lirë duke i marrë parasysh rrethanat e rastit dhe rezultatin e procedurës.
+29.2 Sa u përket shpenzimeve procedurale që shkaktohen me pjesëmarrjen e organit të kujdestarisë, zbatohen dispozitat e Ligjit për procedurën kontestimore.
+29.3 Në çështjet jokontestimore që kanë të bëjnë me të drejtat pasurore të pjesëmarrësve, shpenzimet procedurale u mbeten në ngarkim në pjesë të barabarta. Mirëpo, nëse ekzistojnë dallime të rëndësishme të pjesëve që u takojnë pjesëmarrësve në të drejtën pasurore që është objekt vendosjeje, atëherë gjykata varësisht nga madhësia e pjesëve në të do t’i caktojë pjesët e shpenzimeve që do t’i mbeten në ngarkim secilit nga ta.
+29.4 Në çështjet juridike nga paragrafi 3 i këtij neni gjykata mund të vendosë që të gjitha shpenzimet procedurale t’i heqë pjesëmarrësi në interesin e të cilit zhvillohet procedura jokontestimore, respektivisht pjesëmarrësi që ekskluzivisht me sjelljet e tij i ka dhënë shkas fillimit të procedurës.
+Zbatimi i dispozitave të kësaj pjese të ligjit

@@ -1,0 +1,5 @@
+# Neni 133
+133.1 Kur një person vdes ose shpallet i vdekur me vendim gjyqësor, organi komunal i shërbimit kompetent për mbajtjen e librit amzë të vdekjeve ka për detyrë që, brenda afatit prej 15 ditësh nga dita në të cilën e ka regjistruar vdekjen, t’ia dërgojë aktvdekjen gjykatës trashëgimore.
+133.2 Në qoftë se organi nga paragrafi 1 i këtij neni nuk ka mundësi të sigurojë të dhëna të nevojshme për hartimin e aktvdekjes, do ta dërgojë aktvdekjen në gjykatë vetëm me ato të dhëna që disponon (aktvdekja jo e plotë), duke i treguar shkaqet për të cilat nuk ka mundur ta përpilojë aktvdekjen e plotë dhe do t’i paraqesë të dhënat që mund t’i shërbejnë gjykatës për të gjetur trashëgimtarët dhe pasurinë e trashëgimlënësit.
+133.3 Në qoftë se një person ka vdekur jashtë territorit të komunës në të cilën ka pasur vendbanimin ose vendqëndrimin, organi kompetent për mbajtjen e librit të vdekjeve gjykatës trashëgimore do t’ia dërgojë vetëm certifikatën nga libri i vdekjeve, si dhe të dhënat që disponon, e që mund të shërbejnë për hartimin e aktvdekjes.
+133.4 Aktvdekja përpilohet edhe po qe se personi i vdekur nuk ka lënë kurrfarë pasurie.

@@ -1,0 +1,2 @@
+# Article 210
+If between the procedure participators exists the contest for limitrophe surface value of which passes value of small value contest in contentious procedure , and not arrive agreement in a meaning of paragraph 3 of article 209, of this law court will instruct the procedure initiator that with law-suit to initiate contentious procedure with the aim to solve contest. In this case out contentious procedure ends without merit judgment.

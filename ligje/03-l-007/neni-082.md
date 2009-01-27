@@ -1,0 +1,2 @@
+# Neni 82
+Në qoftë se pranimi në institucionin shëndetësor nuk është bërë në bazë të vendimit të gjykatës kompetente, gjykata në territorin e të cilës ndodhet institucioni shëndetësor ka për detyrë që menjëherë pasi t’i arrijë njoftimi nga neni 78 ose 80 i këtij ligji, si dhe kur në mënyrë tjetër njoftohet për ndaljen e personit të sëmurë mendërisht pa pëlqimin e tij në institucionin shëndetësor, sipas detyrës zyrtare ta filloj procedurën për mbajtjen e tij të mëtejmë në institucionin shëndetësor.

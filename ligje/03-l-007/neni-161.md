@@ -1,0 +1,5 @@
+# Neni 161
+161.1 Në qoftë se gjykata nuk ka dijeni se a ka trashëgimlënësi trashëgimtar, gjykata me anë të shpalljes publike do t’i thërrasë personat që kanë të drejtë për trashëgim që t’i paraqiten gjykatës brenda afatit prej gjashtë muajsh nga dita e publikimit të shpalljes në “Gazetën Zyrtare të Kosovës”.
+161.2 Shpallja do të ngjitet edhe në tabelën e shpalljeve të gjykatës, e në rast nevoje ajo do të publikohet edhe në ndonjë mënyrë tjetër të përshtatshme.
+161.3 Gjykata vepron sipas dispozitave të paragrafit 1 dhe 2 të këtij neni edhe kur trashëgimtarit i është emëruar përfaqësuesi i përkohshëm nga shkaku se atij nuk i dihet vendbanimi, apo nga shkaku se trashëgimtari ose përfaqësuesi ligjor i tij, që nuk ka përfaqësues me prokurë, ndodhet në botën e jashtme, kurse dërgimi i shkresave nuk ka mundur t’u bëhet sipas rregullave të Ligjit për Procedurën Kontestimore.
+161.4 Pas skadimit të afatit nga paragrafi 1 i këtij neni, gjykata do ta zhvilloj procedurën trashëgimore në bazë të deklaratës së kujdestarit të emëruar dhe të dhënave të cilat i ka në disponim gjykata.

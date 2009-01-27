@@ -1,0 +1,3 @@
+# Article 193
+193.1 If the interested person does not agree the court will obtain the necessary evidence and according to the results of all the procedure will draw the act judgment with which will regulate the way of administration and exploitation of the common thing according to the respective provisions of the material right, attentively for their special and common interests.
+193.2 If according to the proposal is required the arrangement of the common apartment’s exploitation or of the business premises, the court especially will arrange which spaces the interested persons will exploit separately and which in common, and how it will be paid the exploitation of the spaces.

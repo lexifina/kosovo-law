@@ -1,0 +1,4 @@
+# Article 157
+157.1 If from the data of the act of death it is regarded that the testator has left no estate, or has left only movable estate and neither from the inheritors does require the review of the matter, the court with a judgment will decide not to review the hereditary estate.
+157.2 When the court decides not to review the hereditary estate, whereas among the inheritors are such which lack the ability to act, and also have no parents which would take care of their rights and interests, then the court for such a matter should notify the body of custody.
+157.3 If the court decided not to review the matter for the causes from paragraph 2 of this article, the persons who have the right on the inheritance can realize their rights which belong to them as inheritors by initiating the hereditary procedure.

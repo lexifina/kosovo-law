@@ -1,0 +1,2 @@
+# Article 69
+If after receiving the act-judgment for the announcement of death of the disappeared person is ascertain that the disappeared person had died on another day, and not on the day considered as the death day from the merit judgment, the court with the proposal of the subjects from article 61 of this law develops an appointed procedure and as the date of death is concern it changes the former judgment.

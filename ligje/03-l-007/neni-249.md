@@ -1,0 +1,3 @@
+# Neni 249
+249.1 Në procedurën për anulimin e dokumentit të vendit mbi të cilin drejtpërdrejtë mbështetet ndonjë e drejtë materiale dhe posedimi i të cilit është i nevojshëm për realizimin e të drejtës së tillë, do të shpallet se dokumenti e ka humbur vlefshmërinë e vet po qe se është vjedhur, djegur apo në cilëndo mënyrë tjetër është humbur ose asgjësuar, përveçse kur me ligj ndalohet anulimi i dokumentit të këtillë.
+249.2 Nën kushtet nga paragrafi 1 i këtij neni mund të anulohet edhe dokumenti mbi të cilën mbështetet ndonjë e drejtë jo materiale, kur nuk ekzistojnë të dhëna në bazë të të cilave organi kompetent mund të lëshojë duplikatin e dokumentit të këtillë.

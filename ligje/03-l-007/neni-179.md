@@ -1,0 +1,3 @@
+# Neni 179
+179.1 Me aktvendimin e formës së prerë nuk janë të lidhur personat që pretendojnë se u takon ndonjë e drejtë lidhur me atë që është konstatuar se bënë pjesë në pasurinë trashëgimore, po qe se nuk kanë marrë pjesë si palë në shqyrtimin e pasurisë trashëgimore, dhe nuk kanë qenë të thirrur personalisht dhe rregullisht për pjesëmarrje në të.
+179.2 Me aktvendimin e formës së prerë nuk janë të lidhur personat që pretendojnë se pas vdekjes së trashëgimlënësit u ka takuar e drejta e trashëgimit në bazë të testamentit apo ligjit, apo se u ka takuar e drejta e legatit, po qe se nuk kanë marrë pjesë si palë në shqyrtimin e pasurisë trashëgimore, dhe nuk kanë qenë të ftuar personalisht dhe rregullisht për pjesëmarrje në të.

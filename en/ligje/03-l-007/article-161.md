@@ -1,0 +1,5 @@
+# Article 161
+161.1 If the court has no knowledge if the testator has any inheritors, the court with a public announcement will summon the persons who have the right for inheritance to appear to the court within a term of six months from the day of the announcement’s published in the “Official newspaper of Kosovo”.
+161.2 The announcement will be placed on the court’s announcement’s board, and if necessary it will be published also in other appropriate way.
+161.3 The court acts according to the provisions from the paragraph 1 and 2 of this article even when to the inheritor it is nominated the temporary representative for the cause that his residence is unknown, or for the cause that the inheritor or his legal representative, who has no proxy representative, is in the outside world, whereas the delivery of the documents could not have been done according to the rules of the Law for the contentious procedure.
+161.4 After the expiry of the deadline from the paragraph 1 of this article, the court will develop the hereditary procedure according to the declaration of the nominated custodian and the available data of the court.

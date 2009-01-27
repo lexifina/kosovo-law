@@ -1,0 +1,4 @@
+# Article 181
+181.1 The person who with confidence, in the case of the winning of the estate’s right on any thing or of the right that belongs to the inheritor, has acted believing in the verification of the act judgment which took the final form, not knowing that such ascertainment is not for the person from which it has won it, nevertheless it becomes an owner of the thing or the won right as it would profited it if to the alienate would really belong the right of inheritance as it was said in the final judgment for inheritance.
+181.2 On this rule are not included the provisions for the trust profit in the verification and fulfillment in the public book, and neither in the provisions for the profit of the movable estate from the non-proprietor.
+g) The inheritor’s requests after the obtainment of the final judgment for inheritance

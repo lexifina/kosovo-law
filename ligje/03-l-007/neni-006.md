@@ -1,0 +1,4 @@
+# Neni 6
+6.1 Në procedurën jokontestimore gjykata sipas detyrës zyrtare ndërmerr masa për mbrojtjen e të drejtave subjektive dhe të interesave juridike të të miturve që nuk ndodhen nën kujdesin e prindërve, si dhe për mbrojtjen e personave të tjerë që nuk kanë mundësi që vetë të kujdesen për mbrojtjen e të drejtave dhe interesave të veta.
+6.2 Në rastet në të cilat në procedurën jokontestimore shqyrtohen dhe zgjidhen çështjet e personave nën mbrojtje të posaçme, gjykata do ta lajmërojë organin e kujdestarisë për procedurën e filluar, do ta thërras atë për pjesëmarrje në seanca gjyqësore si dhe do t’ia dërgojë parashtresat e pjesëmarrësve në procedurë dhe vendimet e dhëna kundër të cilave lejohet mjeti i goditjes. Gjykata vepron në këtë mënyrë edhe kur organi i kujdestarisë nuk e ka inicuar procedurën dhe nuk e ka paraqitur pjesëmarrjen në të pas marrjes së njoftimit nga gjykata për inicimin e procedurës nga personi tjetër.
+Autorizimet e Organit të kujdestarisë

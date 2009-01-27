@@ -1,0 +1,5 @@
+# Article 14
+14.1 In the procedure in which it is decided for family and personal positions of territorial competence is court in the territory of which has the person dwelling in which interest is developed procedure. When such a person has not a dwelling than of territorial competence is the court in which territory has he a dwelling, if it is not foreseen differently by law.
+14.2 In other out contentious matters of territorial competence for judgment is the court in territory, which the proposer has a dwelling or a temporary dwelling, respectively residence, if it is not foreseen differently by law.
+14.3 When in out contentious procedure is decided related to the real assets, of exclusive territorial competence is the court in whish territory is dwelled real asset. If the real asset is laid in the territory of some courts, than competent is each of the court. In this case the court, which begins procedure developing, cannot be announced later incompetent.
+Announcement of territorial incompetence

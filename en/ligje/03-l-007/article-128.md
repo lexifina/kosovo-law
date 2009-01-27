@@ -1,0 +1,4 @@
+# Article 128
+128.1 For the review of hereditary estate of territory’s competence is the court in the territory where the testator in the moment of his death had is residence. If the testator in the moment of death had no residence, the court of the territory of his settlement is competent, if not foreseen differently by the international contract or the law.
+128.2 If the testator in the moment of death had no residence or temporary dwelling in Kosovo, in territorial point of view is competent the court in the territory where it is located his hereditary estate or the biggest part of it.
+128.3 The temporary measurement for the assurance of his hereditary estate can be ordered from the court in the territory where the testator died, and also the court in the territory where the hereditary estate is.

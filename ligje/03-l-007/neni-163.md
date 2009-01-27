@@ -1,0 +1,3 @@
+# Neni 163
+163.1 Gjatë zhvillimit të procedurës personat e interesuar mund të japin deklarata lidhur me trashëgiminë edhe kur nuk janë të pranishëm personat e tjerë të interesuar, e as që ka nevojë që personave të tillë çdo herë t’u jepet rasti që të deklarohen lidhur me deklaratat e personave të tjerë të interesuar.
+163.2 Në qoftë se gjykata dyshon se personi që në bazë të vet ligjit ka të drejtë për trashëgim është i vetmi kushëri ose kushëriri më i afërt i trashëgimlënësit, mund t’i dëgjojë edhe personat për të cilët konsideron se mund të kishin të drejtë të njëjtë ose më të fuqishme për trashëgim. Personat e këtillë gjykata mund t’i thërrasë edhe me anë të shpalljes sipas dispozitave të nenit 162 të këtij ligji.

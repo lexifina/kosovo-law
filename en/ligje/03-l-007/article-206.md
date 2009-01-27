@@ -1,0 +1,3 @@
+# Article 206
+206.1 Proposal for arranging the boundaries between the parcels, adjacent stripes of the lands has the right to present in the court each owner respectively possessors of such parcels, and when then law foresees such a thing and authorized body can represent such a proposal.
+206.2 Proposal must contain data for the owners, respectively possessors of adjacent stripes , for land stripes between which boundary must get arranged , with notes of such stripes from books of lands and cadastral books , reasons for which is initiate the procedure , also the litigious limitrophe surface value .

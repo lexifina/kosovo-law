@@ -1,0 +1,2 @@
+# Neni 210
+Në qoftë se ndërmjet pjesëmarrësve në procedurë ekziston kontesti për sipërfaqen kufitare vlera e të cilës e kalon vlerën e kontestit të vlerës së vogël në procedurën kontestimore, e nuk arrijnë marrëveshjen në kuptimin e paragrafit 3. të nenit 209. të këtij ligji, gjykata do ta udhëzojë inicuesin e procedurës që me padi të inicojë procedurën kontestimore me qëllim të zgjidhjes së kontestit. Në këtë rast procedura jokontestimore përfundon pa vendim meritor.

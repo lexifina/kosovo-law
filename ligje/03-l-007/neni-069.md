@@ -1,0 +1,2 @@
+# Neni 69
+Në qoftë se pas marrjes së aktvendimit për shpalljen e vdekjes së personit të zhdukur konstatohet se personi i zhdukur ka vdekur një ditë tjetër, e jo në ditën që sipas vendimit meritor duhet të konsiderohet si ditë e vdekjes, gjykata me propozimin e subjekteve nga neni 61 i këtij ligji e zhvillon procedurën e caktuar dhe sa i përket datës së vdekjes do të ndryshojë vendimin e mëparshëm.

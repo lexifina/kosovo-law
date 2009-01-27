@@ -1,0 +1,4 @@
+# Article 6
+6.1 In out contentious procedure the court according to official obligation undertakes measures for protection of subjective rights and juridical interests of the minors which are not under care of the parents and for the protection of the other persons who don’t have the possibility to care themselves for protection of self interests and rights.
+6.2 In cases in which in out contentious procedure are investigated and solved the matters of the persons under special protection, the court will inform custody body for begun procedure, will call it for participating in judgment session and will send them presentations of participators in procedure and given decisions against which is allowed strike means. Court acts in this manner in the case when custody body didn’t initiate procedure and didn’t present participation on it after getting the news from the court for procedure initiating from another person.
+Authorization of custody Body
