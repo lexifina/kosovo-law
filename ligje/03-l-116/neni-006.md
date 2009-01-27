@@ -1,0 +1,4 @@
+# Neni 6
+1. Ndërmarrjet për ngrohje të integruara vertikalisht e kryejnë aktivitetin e prodhimit, distribuimit dhe furnizimit në mënyrë funksionalisht të ndarë. Bartja e informatave ndërmjet këtyre aktiviteteve të ndara është e ndaluar, përveç nëse këto informata kërkohen për përmbushjen e detyrave të furnizuesit publik.
+2. Me qëllim të evitimit të diskriminimit, subvencionimit të tërthortë dhe prishjes së konkurrencës, ndërmarrjet e ngrohjes qendrore të integruara vertikalisht janë të obliguara që për veprimtaritë e veta (prodhim, distribuim, furnizim) të mbajnë kontabilitet të ndarë veç e veç, sikur këto veprimtari të kryheshin nga ndërmarrje të veçanta.
+3. Ndërmarrjet e integruara vertikalisht mbajnë kontabilitet të ndarë veçmas për aktivitetet e furnizimit të konsumatorëve të privilegjuar dhe jo të privilegjuar, si dhe për aktivitete që nuk kanë të bëjnë me ngrohje qendrore.

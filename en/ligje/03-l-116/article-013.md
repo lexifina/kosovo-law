@@ -1,0 +1,7 @@
+# Article 13
+1. At the request of a producer, the Energy Regulatory Office shall issue a certificate of origin, which:
+1.1. certifies the capacity of such heat generation plant using unutilized heat, renewable energy resources and waste, as well the sources of heat from co-generation of heat and electricity;
+1.2. specifies the times for submitting information and statements to the Energy Regulatory Office
+2. On the basis of the certificate of origin, a producer shall be entitled to issue and sell green certificates to other producers producing green house gases in a quantity exceeding the limits established by the law for the amount of heat produced from unutilized heat, renewable energy resources and waste or from co- generation plants.
+3. A producer exceeding the limits of green house gases production established by the law shall be considered to have fulfilled its obligation under paragraph 1 of Article 9 of this law on submission to the Energy Regulatory Office of green certificate(s) indicating the amount of heat generated from using otherwise unutilized heat, renewable energy resources or waste or the amount of heat co-generated with electricity (resources foreseen in sub-paragraph 1.1. of paragraph 1 of this article) .
+4. In a case that the amounts of heat specified in a green certificates and amount of heat actually generated or co-generated with electricity by the qualified producer is not the same, Energy Regulatory Office may undertake measures upon pertinent act.

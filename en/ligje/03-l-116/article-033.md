@@ -1,0 +1,5 @@
+# Article 33
+1. House administration (owners, future housing association or other forms of house management) in accordance to the relevant legislation shall have responsibility of operation and maintenance of the non- regulated system downstream the delivery point (the secondary system).
+2. If a building, which is jointly or partially owned without the proper establishment of a housing association, has several end-users of heat, the existing heat enterprises shall operate and maintain the secondary system based on contractual arrangements with the owners of the building.
+3. The heat enterprise is entitled to invoice separately the costs for operation and maintenance of the secondary system, according to a tariff approved by the Energy Regulatory Office.
+4. Until the drafting of a proper legislation according to paragraph 1 of this Article, the end-users/owners of the apartments shall allow access to their property in order that the heat enterprise can fulfill its responsibilities under this Law.
