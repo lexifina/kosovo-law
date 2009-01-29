@@ -1,0 +1,4 @@
+# Neni 23
+23.1. Në të gjitha mbledhjet e komitetit, çdo anëtarë që paraprakisht e ka marrë lejen kryesuesit të komitetit, mund të propozojë që komiteti menjëherë të marrë parasysh një çështje të ngutshme me interes të veçantë publik, e cila është paraqitur në kohën midis dy mbledhjeve të komitetit. Nëse kryesuesi së bashku me anëtarët e komitetit, konsideron se çështja meriton vëmendjen e menjëhershme të komitetit, ai do të lejojë anëtarin në fjalë që të arsyetojë propozimin e tij në komitet, dhe pastaj do të vë në votim atë çështje.
+23.2. Përjashtimisht, kur propozimi i bërë nuk është bërë nga një anëtar i komitetit, atëherë drejtorit të drejtorisë së linjës, do t`i lejohet të paraqes pikëpamjet e veta, para se të votohet. Nëse komiteti vendos të marrë parasysh çështjen, atëherë duhet ta bëjë një gjë të tillë gjatë takimit, ndërsa orari i punës duhet të përshtatet sipas kësaj.
+Votimi

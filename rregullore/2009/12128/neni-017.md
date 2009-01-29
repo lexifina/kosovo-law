@@ -1,0 +1,5 @@
+# Neni 17
+17.1. Në parim, mbledhjet e komiteteve mbahen njëherë (1) herë në muaj dhe sipas nevojës edhe më shumë. Mbledhjet e komiteteve kryesohen nga Kryesuesit, kurse në mungesë të tyre nga zëvendës kryesuesit.
+17.2. Në rast të mungesës së drejtorit në mbledhje të komitetit përkatës, duhet ta caktoi përfaqësuesin e vet të autorizuar, për pjesëmarrje vetëm në atë mbledhje të komitetit përkatës,
+17.3. Zyrtarët dhe personat tjerë që nuk janë anëtarë të komiteteve, por që janë të pranishëm në mbledhje, do të lejohen nga ana e kryesuesit të flasin dhe t’i paraqesin qëndrimet dhe propozimet e tyre.
+17.4. Kryesuesi i komitetit përkatës mund ta urdhërojë një anëtar ose zyrtar tjetër i cili sipas mendimit të tij bënë veprime që prishin rendin gjatë mbledhjes së komitetit dhe që janë në kundërshtim me kodin e sjelljes që t’i përmbahet rregullave të punës në komitet. Në rast se anëtari ose zyrtari tjetër edhe pas urdhrit që t`i përmbahet rregullave të punës në komitet, vazhdon t`i shkelë rregullat e punës së komitetit, kryesuesi mund ta urdhërojë që ta lëshojë mbledhjen e komitetit vetëm për atë takim.
