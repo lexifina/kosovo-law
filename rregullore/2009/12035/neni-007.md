@@ -1,0 +1,5 @@
+# Neni 7
+Komiteti i komuniteteve është përgjegjës për shqyrtimin e përputhshmërisë së autoriteteve komunale me ligjin në zbatim dhe për shqyrtimin e të gjitha politikave komunale, praktikave dhe aktiviteteve për t’u siguruar se të drejtat dhe interesat e komuniteteve respektohen plotësisht. Komiteti gjithashtu i rekomandon Kuvendit të Komunës, masat që duhet të ndërmerren për të siguruar jetësimin e dispozitave që kanë të bëjnë me nevojën e komuniteteve për t’u avancuar, shprehur, mbrojtur dhe zhvilluar identitetin e tyre etnik, kulturor, fetar dhe gjuhësor si dhe për të siguruar mbrojtje adekuate të të drejtave të komuniteteve brenda komunës dhe ushtron edhe përgjegjësi tjera nëse ndryshe nuk është rregulluar me LVL dhe me Statut të Komunës.
+__________________________________________________________________________________________________________________ Rregullorja për Kompetencat, Përgjegjësitë dhe Punën e Komiteteve të Kuvendit të Komunës së Gjilanit
+Komitetet tjera jo të përhershme:
+1) Komiteti për Shëndetësi dhe Mirëqenie Sociale

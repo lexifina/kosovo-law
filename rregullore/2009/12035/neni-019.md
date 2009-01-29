@@ -1,0 +1,2 @@
+# Neni 19
+Një anëtar i komitetit, mund të flasë vetëm një herë gjatë rrjedhës së një debati, për një pikë të rendit të ditës, me qëllim të qartësimit dhe të sqarimeve apo të dhënies së përgjigjeve do të ketë të drejtën edhe njëherë të diskutoj. Fjalimet e anëtarëve të komitetit dhe të drejtorit të linjës, zgjasin më së shumti pesë (5) minuta. Personat tjerë në komitet mund të flasin më së shumti tre (3) minuta.
