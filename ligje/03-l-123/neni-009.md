@@ -1,0 +1,7 @@
+# Neni 9
+Emërimi i anëtarëve të Këshillit, PGJP- së, Panelit shqyrtues të KPGJP-së dhe drejtorit të Sekretariatit të KPGJP-së
+1. Emërimi i anëtarëve të Këshillit bëhet nga autoritetet e parapara në nenin 151 të Kushtetutës së Republikës së Kosovës.
+2. Pasardhësi kompetent, zyrtari ose institucioni i cekur në pikën 2.15 të Udhëzimit Administrativ 2008/2 për zbatimin e Rregullores së UNMIK-ut nr. 2006/25 mbi Kornizën Rregullative të Sistemit të Drejtësisë në Kosovë do të jetë kryetari i Republikës së Kosovës dhe rrjedhimisht, ai/ajo i bën të gjitha emërimet në Këshill, përveç atyre të cekura në paragrafin 1 të këtij neni.
+3. Në pajtim me paragrafin 2 të nenit 9 të këtij Ligji, Kryetari i Republikës së Kosovës emëron të gjithë anëtarët e KPGJP-së përfshirë edhe anëtarët ndërkombëtarë, Panelin shqyrtues të KPGJP-së përfshirë edhe anëtarët ndërkombëtarë dhe Drejtorin e Sekretariatit të KPGJP-së.
+4. Në pajtim me paragrafin 3 të nenit 150 të Kushtetutës së Republikës së Kosovës dhe në përputhje me paragrafin 2 të nenit 9 të këtij ligji, Kryetari i Republikës së Kosovës ka kompetencë që të emërojë të gjithë gjyqtarët dhe prokurorët të cilët janë verifikuar në Procesin e emërimit dhe të cilët Këshilli i ka propozuar për emërim.
+5. Republika e Kosovës ju ofron anëtarëve ndërkombëtarë të KPGJP-së, anëtarëve ndërkombëtarë të panelit shqyrtues të KPGJP-së, drejtorit ndërkombëtar të Sekretariatit të KPGJP-së dhe familjeve të tyre, privilegje dhe imunitete të njëjta me ato që gëzohen nga personeli diplomatik sipas Konventës së Vjenës për Marrëdhëniet Diplomatike.

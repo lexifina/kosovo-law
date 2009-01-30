@@ -1,0 +1,5 @@
+# Article 6
+Quorum and Voting
+1. During Stage 1 referred to at paragraph 1 of Article 5 of this Law decisions of the Council shall be taken by a simple majority of the members which shall include the vote of the judge member referred to at sub paragraph 1.5.of paragraph 1 of Article 4 of this Law.
+2. During Stage 2 referred to at paragraph 2 of Article 5 of this Law the quorum for meetings of the Council shall be five (5) members and shall require the presence of at least one (1) of the members referred to at sub paragraph 1.5, paragraph 1 of Article 4 of this Law. Voting shall be by simple majority of the members present and voting. The casting vote shall be held by the Chairperson of the Council.
+3. During Stage 3 referred to at paragraph 3 of Article 5 of this Law the quorum for meetings of the Council shall be seven (7) members and shall require the presence of at least one of the members referred to at sub paragraph 1.5, paragraph 1 of Article 4 of this Law. Voting shall be by simple majority of the members present and voting. The casting vote shall be held by the Chairperson of the Council.

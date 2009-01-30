@@ -1,0 +1,5 @@
+# Neni 6
+Kuorumi dhe votimi
+1. Gjatë fazës së parë të cekur në paragrafin 1 të nenit 5 të këtij ligji, vendimet e Këshillit merren me shumicën e thjeshtë të anëtarëve, e cila duhet të përfshijë votën e njërit prej gjyqtarëve anëtarë të cekur në nën-paragrafin 1.5. të paragrafit 1 të nenit 4 të këtij ligji.
+2. Gjatë fazës së dytë të cekur në paragrafin 2 të nenit 5 të këtij ligji, kuorumin për takimet e Këshillit e përbëjnë pesë (5) anëtarë dhe kërkohet prania e së paku një (1) prej anëtarëve të cekur në pikën nën- paragrafin 1.5. të paragrafit 1 të nenit 4 të këtij ligji. Votimi bëhet me shumicën e thjeshtë të anëtarëve të pranishëm dhe që votojnë. Kryesuesi i Këshillit do të ketë votën vendimtare.
+3. Gjatë fazës së tretë të cekur në paragrafin 3 të nenit 5 të këtij ligji, kuorumin për takimet e Këshillit e përbëjnë shtatë (7) anëtarë dhe kërkohet prania e së paku një (1) prej anëtarëve të cekur në pikën nën- paragrafin 1.5. të paragrafit 1 të nenit 4 të këtij ligji. Vendimet merren me shumicë të thjeshtë të anëtarëve prezent. Kryesuesi i Këshillit do të ketë votën vendimtare.
