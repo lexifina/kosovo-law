@@ -1,0 +1,5 @@
+# Article 8
+Assisting the Prisoners and Representation of Kosovo Citizens at Court Authorities in the Receiving State
+1. The consular officer, in conformity with international rules, this Law and its secondary acts, based on a request shall provide necessary and appropriate assistance and take care of Kosovo citizens who are imprisoned, under investigation or convicted with imprisonment in the receiving state.
+2. The head of a consular mission, acting in accordance with international rules and laws and of the legislation in force in the receiving state, may direct to relevant authorities of the receiving state to obtain information for reasons of halt or arrest of Kosovo citizen within its consular district, particularly on charges against them. If necessary, the head of a consular mission may visit the Kosovo citizens halted or arrested within his consular district.
+3. The head of a consular mission shall take appropriate measures to facilitate representation of the Kosovo citizen in front of the court authorities or other authorities in the receiving state within his consular district, so a Kosovo citizen may enforce his/her rights

@@ -1,0 +1,6 @@
+# Article 6
+Assisting Citizens of Kosovo
+1. The consular mission may provide assistance it deems appropriate to citizens of Kosovo, situated within the consular district, upon request of a citizen of Kosovo in conformity with international rules, legal acts in force in the receiving state, and law and sub-normative acts of the Republic of Kosovo
+2. Assistance, pursuant to paragraph 1 of this Article, shall not be applied for the citizens of Kosovo who at the same time possess the citizenship of the receiving state. They may not benefit from this assistance, except in concrete cases when the circumstances allow assistance provision.
+3. Type, form and scale of assistance shall be defined by the head of the consular mission, in accordance with relevant rules and legislation in the receiving state, need for assistance of the Kosovo citizens, and having in consideration the available budgetary resources of the Republic of Kosovo.
+4. In exceptional cases, in conformity with sub-normative acts of the Ministry of Foreign Affairs, the necessary financial assistance of the Kosovo citizen may be provided to travel to another state or for repatriation. In such cases, reimbursement of expenses it is mandatory. This obligation shall encumber the inheritance of person who required such assistance.

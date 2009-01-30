@@ -1,0 +1,6 @@
+# Neni 6
+Dhënia e ndihmës shtetasve të Kosovës
+1. Misioni konsullor mund të ofrojë ndihmën e nevojshme shtetasve të Kosovës, që gjenden në rrethin konsullor, pas kërkesës së ardhur nga shtetasi i Kosovës, në përputhje me rregullat ndërkombëtare, aktet normative në fuqi të shtetit pranues, si dhe ligjet dhe aktet nënligjore të Republikës së Kosovës.
+2. Ofrimi i ndihmës, sipas paragrafit 1 të këtij neni, nuk vlen për shtetasit e Kosovës, të cilët njëkohësisht posedojnë shtetësinë e shtetit pranues. Ata nuk mund të përfitojnë nga kjo ndihmë, përveç në rastet konkrete kur rrethanat e mundësojnë dhënien e ndihmës.
+3. Lloji, forma dhe masa e ndihmës përcaktohet nga drejtuesi i misionit konsullor, në pajtim me rregullat dhe ligjet përkatëse në shtetin pranues, nevojën për ndihmë nga shtetasi i Kosovës, si dhe duke marrë parasysh burimet e disponueshme buxhetore të Republikës së Kosovës.
+4. Në raste të jashtëzakonshme, në pajtim me aktet nënligjore të Ministrisë së Punëve të Jashtme, mund të bëhet e mundur dhënia e ndihmës së domosdoshme financiare shtetasve të Kosovës për udhëtimin për në një vend tjetër ose për t’u riatdhesuar. Në këto raste, rikthimi i shpenzimeve të kryera është i domosdoshëm. Ky detyrim shtrihet deri tek anëtarët e familjes ose prek trashëgiminë e personit që ka kërkuar ndihmë.
