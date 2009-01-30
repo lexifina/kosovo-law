@@ -1,0 +1,7 @@
+# Article 12
+The text of the Article 18 shall be replaced with the following text:
+18.1. The permission for construction and reconstruction of the motorway, national and regional roads and the objects of these roads and their utilization shall issue the Ministry, whereas the permission for construction and reconstruction of local roads and the objects of these roads and their utilization shall issue the Municipality.
+18.2 The permission for construction of public roads, by the competences of the Ministry, according to the law, shall be issued by Ministry for Environment and Spatial Planning in cooperation with Ministry
+18.3 The public roads shall be built of a construction taking on axle loads of at least 115 kN (11,5 tons) per vehicle axle. In exceptional cases, local roads may be built of a construction taking on lesser vehicle axle loads but not less that 60 kN (6 tons) per axle.
+18.4 To bridges, tunnels, viaducts and other objects of the road, vehicle carriageway width may not be less than vehicles carriageway width outside these objects. Bus stops in the main and the regional roads beyond settlements must be built off the vehicle carriageway.
+18.5 Technical inspection to public roads and road objects shall perform a professional Commission designated by the Authority that issued construction permission. The terms and the way of technical inspection shall set the Ministry by a sub-legal act.
