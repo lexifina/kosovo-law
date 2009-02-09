@@ -1,0 +1,3 @@
+# Article 20
+1. President of Republic of Kosovo, after the end of his/her mandate pursuant to paragraph 1 Article 18 of this Law, shall be entitled to office space, office equipment and up to three (3) professional staff in the office for a period of five years after the end of his/her mandate. The President is engaged in state activities, by the Government of Kosovo, then the five year period shall commence after the termination of President’s engagement.
+2. Professional staff, under paragraph 1 of this Article, shall accomplish their employment relationship within the Cabinet of the President of Republic of Kosovo and shall be appointed by the President whose mandate has ended.

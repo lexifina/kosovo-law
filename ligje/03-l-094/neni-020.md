@@ -1,0 +1,3 @@
+# Neni 20
+1. Presidenti i Republikës së Kosovës të cilit i ka përfunduar mandati në pajtim me paragrafin 1. të nenit 18 të këtij ligji ka të drejtë për periudhën pesë vjeçare pas përfundimit të mandatit të tij/saj, në hapësirë zyreje, në pajisje për zyre, dhe në personel profesional të zyrës që nuk mund të jenë më shumë se tre (3) persona. Presidenti angazhohet nga Qeveria e Kosovës në aktivitete shtetërore, atëherë periudha pesë vjeçare fillon nga përfundimi i angazhimit të Presidentit.
+2. Personeli profesional nga paragrafi 1 i këtij neni, të drejtat e marrëdhënies së punës i realizojnë në Kabinetin e Presidentit të Republikës së Kosovës, kurse emërohen nga Presidenti të cilit i ka përfunduar mandati.

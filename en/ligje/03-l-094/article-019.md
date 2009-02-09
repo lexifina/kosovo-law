@@ -1,0 +1,4 @@
+# Article 19
+1. President of Republic of Kosovo, after the end of his/her mandate pursuant to paragraph 1 of Article 18 of this Law, shall be entitled to a pension in amount of seventy percent (70%) of the salary received by the President of Republic of Kosovo.
+2. President of Republic of Kosovo, and his/her family, after the end of his/her mandate pursuant to paragraph 1 Article 18of this Law, shall be entitled to a full health insurance and health services within military and public hospitals for life.
+3. President of Republic of Kosovo, after the end of his/her mandate pursuant to paragraph 1 Article 18 of this Law, shall be entitled to a provisional monetary remuneration for a period of seven months of transition into the private life. Funds may be used for office, staff remuneration, communication services, relevant printing and postal services during the transitional period.

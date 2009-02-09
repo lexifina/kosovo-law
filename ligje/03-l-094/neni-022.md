@@ -1,0 +1,3 @@
+# Neni 22
+1. Presidenti i Republikës së Kosovës, të cilit i ka përfunduar mandati në pajtim me paragrafin 1. të nenit 18 të këtij ligji, merr pjesë në solemnitetet dhe manifestimet shtetërore sipas radhës protokollare që bëhet në pajtim me rregullat mbi shërbimin e protokollit shtetëror të Kosovës.
+2. Presidenti i Republikës së Kosovës, të cilit i ka përfunduar mandati në pajtim me paragrafin 1. të nenit 18 të këtij ligji, dhe bashkëshorti/ja i/e saj/tij, vazhdojnë ta përdorin pasaportën diplomatike të Republikës së Kosovës gjatë tërë jetës. Fëmijët e tij e kanë këtë të drejtë deri në moshën tetëmbëdhjetë (18) vjeçare.

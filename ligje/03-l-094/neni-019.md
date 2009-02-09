@@ -1,0 +1,4 @@
+# Neni 19
+1. Presidenti i Republikës së Kosovës pas përfundimit të mandatit në pajtim me paragrafin 1. të nenit 18 të këtij ligji ka të drejtë në pension, shuma e të cilit është shtatëdhjetë përqind (70%) e pagës të cilën e merr Presidenti i Republikës së Kosovës.
+2. Presidenti i Republikës së Kosovës dhe familja e tij/saj pas përfundimit të mandatit në pajtim me paragrafin 1. të nenit 18 të këtij ligji kanë të drejtë në sigurim të plotë shëndetësor dhe shërbime mjekësore në spitalet ushtarake dhe publike gjatë tërë jetës.
+3. Presidenti i Republikës së Kosovës pas përfundimit të mandatit në pajtim me paragrafin 1. të nenit 18 të këtij ligji ka të drejtë në kompensim monetar kalimtar për një periudhë shtatë mujore të tranzicionit në jetën private. Fondet mund të përdoren për zyre, kompensim të stafit, shërbime të telekomunikacionit, shtypje dhe shërbime postare të ndërlidhura me periudhën tranzitore.
