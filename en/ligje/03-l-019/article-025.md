@@ -1,0 +1,5 @@
+## CHAPTER VIII
+## DISCIPLINARY PROVISIONS
+# Article 25
+1. With a penalty in money from five hundred (500) up to two thousand (2000)€ shall be punished the employer and his curator:
+1.1. that discriminates in employment according to Article 5 of this Law, 1.2. who does not pay special contribution, while he/she was obliged to pay it according to Article 12 of this Law, 1.3. that towards person with disability behaves in contradiction with provisions of Article 13 of this law, 1.4. who does not submit the data regarding person with disability according to Article 16 of this law, 1.5. that uses the means for special destination for other purposes and does not manage into special account according to Article 22 of this law, 1.6. who does not submit financial annual report for means with special destination according to Paragraph 6, Article 22 of this law and also 1.7. who does not pay suffices means of special destination in sub budgetary code according to Paragraph 7 Article 22 of this Law.

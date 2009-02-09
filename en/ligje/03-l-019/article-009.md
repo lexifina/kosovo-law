@@ -1,0 +1,5 @@
+# Article 9
+Personal engagements for vocational training and rehabilitation
+1. Person with disability, alone can contribute to his/her vocational rehabilitation, retraining and employment:
+1.1. looking forward to education and his/her vocational training dependent from opportunities offered and his/her abilities and skills, 1.2. applying in public vacancy announcement for job positions, for which positions the criteria are met, 1.3. receiving the work offered and readiness for carrying out such work, 1.4. respecting the technology discipline during training and occupational work, 1.5. cooperation on issues of training and occupational work with the doctor, defectologist, psychologist, social worker, technologist and directly with dependent employee.
+1.6. approving of reasonable proposal offered by employer regarding change of work, respectively assigning on other adequate works due to termination of the needs or inability to carry out current works, 1.7. through vocational training during work, according to the needs and additional qualification or re qualification with a purpose of maintaining the job position.
