@@ -1,0 +1,7 @@
+# Neni 9
+Në fillim të paragrafit 1 të nenit 12 shtohet fjalia: “Tatimpaguesit janë të detyruar të mbajnë librat dhe regjistrat në pajtim me legjislacionin tatimor” pjesa tjetër e tekstit mbetet e pandryshuar.
+Pas paragrafit 3 të nenit 12 shtohen katër (4) paragraf të rinj 12.4, 12.5, 12.6 dhe 12.7 me tekstin si në vijim:
+12.4 Çdo tatimpagues pa marrë parasysh qarkullimin vjetor, përveç mbajtjes së librave dhe regjistrave të parapara me ligj, kërkohet të bëjë dhe mbajë regjistrimin e mallrave në stoqe në fund të vitit kalendarik. Regjistrimet e parapara sipas këtij paragrafi duhet të jenë të gatshme më apo para 10 janarit të vitit vijues.
+12.5 Mallrat që posedon tatimpaguesi duhet të dokumentohen me dokumente mbi origjinën.
+12.6 ATK mund të kërkojë që të gjitha furnizimet e bëra nga të gjithë apo lloj i caktuar i personave të tatueshëm të regjistrohen në mënyra elektronike dhe mund të vendosë specifikime për llojet e makinave elektronike që do të përdoren për regjistrimin e tillë. Në rast të furnizimeve të bëra nga persona të caktuar të tatueshëm duke përfshirë transaksionet të cilat nuk janë regjistruar nga mënyrat elektronike, ATK mund të kërkojë që personat e tillë të tatueshëm të lëshojnë kuponë në mënyrën e parashkruar nga ATK.
+2.7 Çdo transaksion mbi pesëqind (500) euro, i bërë në mes të personave të tatueshëm, pas 1 janarit te vitit 2009, pagesa kërkohet që të bëhet përmes llogarisë bankare. Për zbatim të këtij neni do të nxirret akt nënligjor.

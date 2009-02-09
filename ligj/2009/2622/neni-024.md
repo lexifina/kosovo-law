@@ -1,0 +1,8 @@
+# Neni 24
+Ndryshohet titulli i nenit 40 nga “Transaksionet e Këmbimit” në “Shkëmbimi i transaksioneve dhe raportimi i informatave nga palët e treta”.
+Pas paragrafit 2 të nenit 40 shtohen paragraf të rinj 40.3, 40.4, 40.5 dhe 40.6 me tekstin si në vijim:
+40.3 Pagesat prej pesëqind (500) € e më shumë Të gjithë personat e angazhuar në tregti ose afarizëm të cilët tatohen në bazë të të hyrave reale dhe që bëjnë blerje të mallrave ose shërbimeve nga personi tjetër i tatueshëm në gjithsejtë pesëqind (500) euro e më shumë në çdo vit të tatueshëm, duhet të paraqesin deklaratë të vërtetë dhe të saktë duke raportuar blerjet e tilla tek ATK-ja. Blerjet e bëra nga Qeveria dhe komunat e Republikës së Kosovës gjithashtu i nënshtrohen këtyre kërkesave për raportim. Deklaratat vjetore obligative me këtë nen do të dorëzohen në ATK, por jo më larg se 31 mars të vitit vijues.
+40.4 Marrësi të japë emrin dhe adresën Kur është e nevojshme të bëhen efektive dispozitat e këtij neni, emri, adresa dhe Numri Identifikues i Tatimpaguesit të shitësit të mallrave apo shërbimeve do të jepen me kërkesën e blerësit..
+40.5 Ndëshkimi për mos dorëzimin e deklaratave informuese:
+Secili entitet, përveç entitetit qeveritar apo komunal, nga i cili sipas këtij neni kërkohet të dorëzojë deklaratat informuese dhe nuk dorëzon atë, do ti nënshtrohet ndëshkimit deri në pesëqind (500) euro.
+40.6 Ministri do të lëshojë një akt nënligjor për të përcaktuar formatin në të cilin duhet të dorëzohen raportet e deklaratave në ATK-ë, duke përfshirë mundësinë e caktimit të kushteve nën të cilat duhet të dorëzohen format në një format të pranueshëm elektronik.

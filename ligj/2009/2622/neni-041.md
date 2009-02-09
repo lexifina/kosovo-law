@@ -1,0 +1,6 @@
+# Neni 41
+Aktet Nënligjore
+Neni 60 i ligjit ekzistues bëhet 62 dhe është zëvendësuar me tekstin vijues:
+62.1 Ministri i Ekonomisë dhe Financave do të ketë autorizimin të shpallë, me shkrim, rregullore zbatuese (akte nënligjore) për zbatim të përgjithshëm e që mund të jenë të nevojshme dhe të duhura më tutje për interpretim dhe zbatim të përshtatshëm, të arsyeshëm dhe uniform të këtij ligji. Zbatimi i tillë i rregulloreve do të administrohet dhe zbatohet nga ATK. Asnjë nga rregulloret e tilla zbatuese nuk do të ketë apo nuk do të ketë ndonjë efekt ligjor deri sa të publikohet si duhet në Gazetën Zyrtare të Kosovës dhe përndryshe është bërë publike nga ATK në përputhje me Ligjin mbi Qasjen ne Dokumentet Zyrtare. Çdo person i prekur nga një rregullore tillë zbatuese i cili beson se rregullorja e tillë nuk është në përputhje me apo nuk është autorizuar nga ky ligj mundet të kontestojë vlefshmërinë e rregullores së tillë drejtpërdrejtë në Bordin e Pavarur për Rishqyrtime siç është paraparë në Nenin 54.1(d) të ligjit ekzistues dhe më pas në një gjykatë të juridiksionit kompetent siç është paraparë në Nenin 56 të ligjit ekzistues.
+62.2 Aktet nënligjore nga nenet 4, 6, 7, 9, 12, 13, 15, 17, 18, 20, 22, 24, 29, 34, dhe 39 për zbatimin e këtij ligji do të lëshohen brenda 6 muajve nga data e hyrjes në fuqi të këtij ligji.
+Neni 62 i ligjit në fuqi bëhen neni 64.

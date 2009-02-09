@@ -1,0 +1,6 @@
+# Neni 27
+Ndëshkimet Administrative lidhur me mos deklarim dhe mos pagesë
+Neni 43 dhe 44 fshihen dhe zëvendësohen në një nen të ri me tekstin si në vijim:
+44.1 Kur një person kërkohet të dorëzojë një deklaratë tatimore sipas legjislacionit të aplikueshëm në Republikën e Kosovës, nuk e dorëzon këtë deri në datën e kërkuar, personi i tillë do t’i nënshtrohet një ndëshkimi administrativ prej pesë përqind (5%) të tatimit të papaguar për secilin muaj apo pjesë të muajit për të cilin është vonuar, me një ndëshkim maksimal administrativ për pagesë prej njëzet e pesë për qind (25%) të obligimit tatimor.
+44.2 Kur një person kërkohet të paguajë një tatim sipas legjislacionit të aplikueshëm në Republikën e Kosovës, nuk paguan tërë apo një pjesë të tatimit të tillë deri në datën e kërkuar, personi i tillë do t’i nënshtrohet një ndëshkimi administrativ prej një përqind (1%) të obligimit tatimor për secilin muaj apo pjesë të muajit për të cilën ajo pagesë është vonuar, deri në maksimum dymbëdhjetë (12) muaj.
+44.3 Ndëshkimet nuk vlerësohen njëkohësisht Ndëshkimi administrativ i paraparë në nenin 44.2 nuk do të aplikohet për asnjë muaj apo pjesë të muajit gjatë së cilit ndëshkimi administrativ i paraparë në nenin 44.1 është aplikuar.
