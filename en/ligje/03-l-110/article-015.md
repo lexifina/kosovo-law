@@ -1,0 +1,4 @@
+# Article 15
+1. Termination of pregnancy because of medical reasons when is ascertained that pregnancy continuation, or child birth endanger the female’s life or health, can be done at any period of pregnancy under the decision of the medical Commission and with the female’s consent in the state of conscience.
+2. Termination of pregnancy due to medical reasons and when verified that fetus has incompatible malformations to life, disease or serious status which cause serious invalidity and have insecure treatment, can be performed at any time after recommendation and decision made by medical Commission for termination of pregnancy and the patient’s consent in state of conscious.
+3. Medical indications for a termination of pregnancy due to reasons from paragraph 1 and 2 of this Article are determined by a sub-legal act.

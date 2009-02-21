@@ -1,0 +1,4 @@
+# Neni 15
+1. Ndërprerja e shtatzënësisë për arsye mjekësore në rastet ku konstatohet se vazhdimi i shtatzënësisë, ose lindja e fëmijës rrezikon jetën ose shëndetin e femrës mund të bëhet në çdo periudhë të shtatzënësisë, me vendimin e Komisionit mjekësor dhe pëlqimin e femrës shtatzëne përderisa ajo është e vetëdijshme.
+2. Ndërprerja e shtatzënësisë për arsye mjekësore kur vërtetohet se fetusi ka keq formime të papajtueshme me jetën, sëmundje ose gjendje të rënda që lënë invaliditet të rëndë dhe kanë trajtim të pasigurt, mund të bëhet në çdo kohë pas rekomandimit dhe vendimit të Komisionit mjekësor për ndërprerjen e shtatzënësisë dhe pëlqimin e pacientes përderisa ajo është e vetëdijshme.
+2. Indikacionet mjekësore për ndërprerjen e shtatzënisë për arsyet nga paragrafi 1 dhe 2 i këtij neni përcaktohen me akt nënligjor.
