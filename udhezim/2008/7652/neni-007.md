@@ -1,0 +1,4 @@
+# Neni 7
+1. Në përjashtim ndaj tolerancave të dhëna në nenin 4 paragrafi 2 nenin 5 paragrafi 3 dhe nenin 6 paragrafi 4 të këtij Udhëzimi administrativ, në përbërje fibrat e përmendur në nenet 4 dhe 6 të këtij Udhëzimi administrativ nuk duhet të theksohen fibra të dukshme e të izoluara të cilat janë në tërësi të natyrës dekoruese e të cilat nuk tejkalojnë 7%-shin e peshës së produktit final, nuk
+duhet të përmenden si përbërjet të cilat janë caktuar sipas nenit 4 dhe 6 të këtij Udhëzimi administrativ, e njëjta do të vlejë për fibrat (p.sh. fibrat metalike) të cilat inkorporohen për të siguruar efektin antistatik dhe të cilat nuk tejkalojnë 2% e peshës së produktit final.
+2. Në rastin e produkteve të referuara në nenin 6 paragrafi 3 të këtij Udhëzimi administrativ, përqindjet e tilla nuk duhet të llogariten sipas peshës së përgjithshme të pëlhurës, por ndaras sipas peshës së bazës dhe sipas peshës së indit.

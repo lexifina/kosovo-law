@@ -1,0 +1,11 @@
+# Neni 11
+1. Dispozitat e përqindjes së fibrave të përshkruara në nenin 4, 5 dhe 6 të këtij Udhëzimi administrativ nuk vlejnë për pjesët e produkteve në vijim:
+1.1 . Produktet e tekstilit:
+Pjesët jo tekstile, peta e kthyer, etiketat dhe distinktivët, skajet, shiritat që nuk janë pjesë përbërëse e produktit, kopsat, kopsat e mbështjellura me materiale tekstili, shtesat ndihmëse, dekorimet, fjongot jo elastike, pejët elastik, dhe shirita të shtuara në pjesët e caktuara dhe të kufizuara të produktit dhe duke iu nënshtruar kushteve të specifikuara në nenin 7 të këtij Udhëzimi administrativ ekskluzivisht fibrat dekorative të dukshme dhe fibrat antistatike.
+2. Mbulesat e dyshemesë dhe qilimat: të gjitha komponentët përveç sipërfaqes së përdorur;
+2.1. Pëlhura për tapiceri: baza dhe indi i materialit për lidhje dhe mbushjet të cilat nuk janë pjesë e sipërfaqes përdoruese; mbulesat, perdet, baza dhe indi i materialit për lidhje dhe mbushje të cilat nuk janë pjesa ballore e pëlhurës;
+2.2. Prodhimet tjera tekstile: pëlhurat të cilat shfrytëzohen si material bazë ose sikur mbështetëse, mbërthimin, forcimin, ndërshtresor dhe pëlhurat mbështetëse, pejët për qepje dhe lidhje përveç nëse e zëvendëson bazën ose indin e pëlhurës, mbushjet të cilat nuk kanë rol izolues dhe astarët sipas nenit 9 kapitullit I të këtij Udhëzimi.
+3. Për nevojat e kësaj dispozite:
+3.1. Materiali bazë ose produktet mbështetëse të tekstilit të cilat shërbejnë si mbështetje për sipërfaqen përdoruese, posaçërisht batanijet dhe pëlhurat e dyfishta si dhe shpina e pëlhurës së kadifesë ose plishit apo produkte të ngjashme duke mos konsideruar si pjesë ndarëse e shpinës.
+3.2. Materialet e ngjeshura dhe përforcimet nënkupton fillin ose materialet të cilat i shtohen në pika të caktuara dhe të kufizuara në pjesët e produkteve të tekstilit për tu dhënë ngurtësinë ose trashësinë.
+3.3. Substancat yndyrore, mjete lidhëse, mjete për rëndim, kollarisja dhe mjetet mbrojtëse të punës, produktet për ngopje, mjetet ndihmëse për ngjyrosje dhe shtypje dhe produktet tjera të cilat përdoren për përpunimin e produkteve të tekstilit. Këto produkte nuk mund të jenë të pranishme në sasi që do të mund të shkaktojnë çorientime për konsumatorët.

@@ -1,0 +1,3 @@
+# Neni 16
+1. Kur organi inspektues kompetent vërteton që produktet e tekstilit nga neni 2 të këtij udhëzimi administrativ nuk përmbush dispozitat e këtij Udhëzimi administrativ prodhuesi ose personi i autorizuar i regjistruar në Republikën e Kosovë, respektivisht importuesi, shitësi me pakicë, janë të detyruar të harmonizojnë produktet me dispozitat e këtij Udhëzimi administrativ
+2. Kur prodhuesi ose personi i autorizuar i regjistruar në Republikën e Kosovës, respektivisht importuesi, shitësi me pakicë nuk paraqitet në mënyrë si është e përshkruar në shtojcën 1 të këtij Udhëzimi administrativ, organi përgjegjës inspektues duhet të merë të gjitha masat e nevojshme për të penguar plasimin në treg të atij produkti ose duhet të siguroj që ai produkt të tërhiqet nga tregu.
