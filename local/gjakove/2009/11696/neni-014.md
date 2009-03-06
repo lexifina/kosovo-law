@@ -1,0 +1,4 @@
+# Neni 14.
+Renditja e punëve në mbledhjen e kuvendit duhet të jetë kjo:
+a) arsyetimi për mospjesëmarrje në mbledhje, b) pjesëmarrja e publikut apo përfaqësuesve të grupeve të interesit, c) miratimi i procesverbalit të mbledhjes së fundit, d) peticionet (shkrimet) për të cilat mbledhja është paraparë t’i tuboj, e) shqyrtimi i obligimeve të marra në mbledhjen paraprake, f) çfarëdo pune e pa përfunduar në takimin e fundit ose e propozuar për mbledhjen e radhës;
+g) raportet dhe rekomandimet e marra nga Komiteti dhe çfarëdo çështje që lindin si rezultat i këtyre raporteve, h) çështjet që kanë të bëjnë me aktivitetet e Komunës dhe të shtruara nga anëtarët e Kuvendit , sipas rendit se si ato janë pranuar, i) propozimet e shtruara nga anëtarët e Kuvendit , sipas radhës së pranimit të tyre, j) pika tjera për të cilat Kuvendi vendos për shqyrtim.
