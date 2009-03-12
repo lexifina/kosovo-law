@@ -1,0 +1,5 @@
+# Neni 9
+Regjistrimi dhe informacioni mbi pronën
+9.1 Të gjithë personat, të cilët posedojnë ose banojnë në një pronë të paluajtshme, janë të obliguar që ta regjistrojnë atë pronë në bazë të të dhënave për tatimin komunal të pronës, dhe t’i ofrojnë komunës përkatëse informacionin lidhur me pronën e Paluajtshme, e cila i nënshtrohet regjistrimit më 1 mars ose para 1 marsit të çdo periudhe tatimore.
+9.2 Të gjithë personat, të cilët posedojnë, shfrytëzojnë ose marrin një pronë të paluajtshme, përveç rasteve siç është përcaktuar në nenin 9.3, duhet t’i lejojnë zyrtarët e autorizuar që përfaqësojnë autoritetet komunale të tatimit, të hyjnë në tokën dhe në ndërtesat e tyre gjatë orëve të ditës për t’i mbledhur të dhënat lidhur me vlerën e pronës.
+9.3 Komuna mund të kërkojë nga UNMIK-u, KFOR-i, EULEKS - i ose zyrat e jashtme të ndërlidhjes që posedojnë ose shfrytëzojnë pronë të paluajtshme, të sigurojnë të dhëna mbi atë pronë për bazën e të dhënave tatimore mbi pronën komunale. Sigurimi i një informacioni të tillë duhet të bëhet në baza vullnetare dhe nuk cenon privilegjet dhe imunitetin që mund të vlejë në këto raste.

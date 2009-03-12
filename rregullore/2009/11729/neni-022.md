@@ -1,0 +1,11 @@
+# Neni 22
+Autorizimi për lëshimin e faturave të tatimit për pronën e paluajtshme
+22.1 Drejtoria duhet të ketë autorizimin valid për lëshimin e faturave të tatimit nga Ministria e Financave dhe Ekonomisë, me qëllim të lëshimit të faturave të tatimit dhe vjeljes së tatimit mbi pronën në përputhje me këtë Rregullore.
+22.2 Për të marrë autorizimin e tillë, Komuna duhet të dëshmojë para Ministrisë së Financave dhe Ekonomisë se ajo:
+a) i ka identifikuar dhe regjistruar karakteristikat fizike të pronës së tatueshme me pronën e cila lirohet nga tatimi, b) ka themeluar një bazë të të dhënave tatimore mbi pronën, c) ka zbatuar kriteret e vlerësimit në përputhje me kriteret e përcaktuara me nenin 12 të kësaj Rregulloreje, d) ka caktuar tarifat tatimore mbi pronën në pajtim me këtë Rregullore dhe e) ka treguar aftësinë administrative për të kryer menaxhimin e informimit mbi pronën, vlerësimin e pronës, faturimin, vjeljen, vjeljen e dhunshme dhe ankesat administrative.
+22.3 Certifikimet që janë lëshuar nga Autoriteti Qendror Fiskal për komunat, sipas dispozitave të Rregullores së UNMIK-ut nr. 2001/23, të datës 29 shtator 2001, mbi
+Adresa: Rr. UÇK- 2-10.000 Prishtinë-Kosovë Telefon: + 381(0)38/230-900 http://www.prishtina-komuna.org
+programin eksperimental për caktimin e tatimit mbi pronën e paluajtshme në Kosovë, do të konsiderohen autorizime valide sipas kësaj Rregulloreje.
+22.4 Ministria e Financave dhe e Ekonomisë do t’u bëjë inspektime vjetore komunave të cilat kanë marrë autorizime. Inspektimi i tillë duhet të garantojë se janë duke u zbatuar standardet e parapara të vlerësimit, se baza e të dhënave tatimore mbi pronën mirëmbahet në mënyrën e duhur, se procedurat e vjeljes së dhunshme zbatohen në mënyrë adekuate dhe se komuna vepron në përputhje me këtë Rregullore.
+22.5 Nëse inspektimi i kryer në pajtim me nenin 22.5 zbulon se komuna nuk i është përmbajtur materialisht kësaj Rregulloreje, Ministria e Financave dhe e Ekonomisë duhet t’i bëjë vërejtje asaj komune ku konstatohet natyra e mospërputhjes, si dhe veprimi i kërkuar për respektimin e kësaj Rregulloreje.
+22.6 Ministria e Financave dhe e Ekonomisë mund t’i anulojë autorizimin e lëshuar secilës komunë, e cila nuk ndërmerr veprimet e duhura lidhur me respektimin e kësaj Rregulloreje brenda 90 ditësh nga pranimi i vërejtjes së tillë.
