@@ -1,0 +1,2 @@
+# Neni 4
+Tarifat e subjekteve caktohen sipas kësaj Rregulloreje, me aktvendime të Drejtorive sipas kërkesave të paraqitura. Në mbështetje të kësaj Rregulloreje, neni 4, Drejtoritë përkatëse do të nxjerrin aktvendime për kategoritë lidhur me caktimin e taksave vjetore sipas llojit të veprimtarisë për biznese, si dhe për regjistrimin e transaksioneve të pronës, edhe në raste të tjera kur paraqitet nevoja. Për ngarkesa të tjera obligimet llogariten dhe paguhen me rastin e dorëzimit të kërkesës nga ana e subjekteve të ndryshme.
