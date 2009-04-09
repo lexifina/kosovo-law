@@ -1,0 +1,8 @@
+## KREU IV
+## STATUSI I PËRFITUESIT PUBLIK I OJQ-së, RAPORTIMI FINANCIAR DHE PEZULLIMI I TIJ
+# Neni 17
+Statusi i Përfituesit Publik
+1. OJQ-ja e regjistruar sipas këtij ligji mund të paraqesë kërkesë për status të përfituesit publik nëse OJQ- ja është e organizuar dhe vepron për të ndërmarrë një apo më shumë aktivitete si aktivitete parësore si: ndihmë dhe përkrahje humanitare, përkrahje personave me aftësi të kufizuara, aktivitete bamirëse, arsim, shëndetësi, kulturë, ruajtje dhe përparim të mjedisit, rindërtim dhe zhvillim ekonomik, mbrojtje dhe përparim të të drejtave të njeriut, mbështetje të praktikave demokratike dhe shoqërisë civile, apo çfarëdo veprimtarie tjetër që është në funksion të së mirës së publikut.
+2. Veprimtaria e OJQ-së përfshinë veprimtari për të mirën e publikut vetëm në rast se përfitime të konsiderueshme sigurohen falas ose më lirë se vlera e tregut për grupe ose individë në kushte të pavolitshme. Veprimtaria e OJQ-së për zhvillim ekonomik përfshinë veprimtari për të mirën e publikut vetëm nëse ndërmerret në radhë të parë për të mirën e individëve dhe grupeve në kushte të pavolitshme
+3. OJQ-ja mund të paraqes kërkesë për status të përfituesit publik me rastin e regjistrimit fillestar të OJQ- së ose më vonë. Organi kompetent i lejon statusin e përfituesit publik OJQ-së, nëse dokumentet e regjistrimit dëshmojnë se qëllimet dhe veprimtaria e OJQ-së i plotëson kërkesat e paragrafit 1. të këtij neni.
+4. Në pajtim me kushtet dhe procedurat e përfshira në legjislacionin në fuqi, OJQ-të me status të përfituesit publik gëzojnë të drejtën për lirim nga tatimi dhe lehtësi tatimore dhe fiskale me përjashtim të atyre që në esencë janë detyrime për shërbimet publike komunale.
