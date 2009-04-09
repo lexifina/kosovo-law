@@ -1,0 +1,4 @@
+# Neni 16
+Të drejtat e avokatëve në kuadër të mbrojtjes së klientit
+1. Organet shtetërore dhe organet e tjera, duhet t’iu ofrojnë avokatëve të dhëna dhe dokumente që janë të nevojshme në ushtrimin e avokatisë në lëndët konkrete, nëse nuk janë në kundërshtim me detyrimin e ruajtjes së fshehtësisë zyrtare dhe profesionale. Avokati, në ushtrimin e funksionit të tij, ka të drejtë të kërkojë nga institucionet e administratës publike, në përputhje me ligjin, shpjegime, të dhëna dhe dokumente, që kanë të bëjnë me çështjen ose personin që përfaqësohet ose mbrohet.
+2. Avokati ka të drejtë, në përputhje me procedurat hetimore, të marrë pjesë në proces, të pyesë personin e mbrojtur prej tij, dëshmitarët dhe ekspertët, të lexojë dhe të njohë në përfundim të hetimit, të gjitha aktet e dokumentet, që janë të lidhura me çështjen dhe t’i nënshkruajë ato.
