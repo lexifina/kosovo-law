@@ -1,0 +1,14 @@
+# Article 18
+Requirements Regarding the Self Control System
+1. The food business operator, apart from the level of primary production must establish and enforce regular control of hygienic conditions of production in every object under his control by means of enforcing of the preventive procedures of self – control, developed, according to the following principles of the system of hazard analyses and critical control points (hereinafter referred to us: HACCP):
+1.1. to identify all hazard which must be prevented, eliminated, or reduced to an acceptable level,
+1.2. to identify the critical control points in places where control is essential for preventing or the elimination of hazards or their reduction to an acceptable level,
+1.3. to establish the critical limits at critical control points which separate acceptability from unacceptability for prevention, elimination, or reduction of identified hazards,
+1.4. to establish and implement effective procedures of systematic monitoring of critical control points, 1.5. to establish corrective actions when the monitoring system wants that the critical control point is not under control,
+1.6. to establish procedures to verify whether the measures specified in the above mentioned sub- paragraph of this paragraph. The verification procedures must regularly be carried out by the object and the competent inspectors in the objects.
+1.7. to establish the documents and records suitable to the nature and scope of the work which will present an effective implementation of the measures specified in the above mentioned sub- paragraph of this paragraph.
+2. The food business operator of the level of primary production must establish and enforce regular control of hygienic conditions of production in every object under his control by enforcing the preventive procedure of self – control, developed according to good production practices.
+3. The initial harmonization, verification of the HACCP plans for objects from paragraph 1 of this Article will be carried out by Agency.
+4. If the results of the self – controls, specified in paragraph 1 of this Article reveal the existence of health risks for people, the food is considered no to meet the prescribed safety requirements, and the food business operator must take measures according to Article 25 this law.
+5. Conditions for implementation of the self control system in the establishments in paragraphs 1 and 2 of this Article will be determined by the Agency.
+6. The Agency for implementation of the provisions of paragraph 5 of this Article may exclude some of the establishments of the food business operators especially small business operators, specific operators in retail and the production of traditional products, if it is provided that the adequate level of hygiene is ensured through the implementation of the self control procedures, developed according to good production practices.

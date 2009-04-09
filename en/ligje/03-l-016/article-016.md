@@ -1,0 +1,8 @@
+# Article16
+Responsibility of the Food Operators not Meeting legislation rules provided by Legislation
+1. If a food business operator is aware of, or has reason to believe that the food that has imported, produced, processed, manufactured, is not in compliance with the food safety requirements, it will initiate procedures to withdraw the food from the market.
+2. Food business operators will start immediately the withdrawal of such food from the market, in cases where the food is not under his direct control. The Agency should be informed about these operations.
+3. If the food has already reached to the consumer, the food business operator must effectively and accurately inform the consumer about the reasons of withdrawal of the food from the market and, necessary require from the consumer to return the food already acquired.
+4. The food business operator in retail or distribution which does not have direct influence on the packaging, declaration, safety of food within its activities must perform the procedure of withdrawal of food from the market, which does not meet safety requirements when it receives the notification or decision of this measure for withdrawal and destroy.
+5. The food business operator must give all necessary information for researching the food to the competent authorities.
+6. The food business operator must cooperate with competent authorities and should not interfere with another person from cooperating with the competent authorities in the measures taken in order to reduce the risk that is result of the food that they supply or supplied the market with

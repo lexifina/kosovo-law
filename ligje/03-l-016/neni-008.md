@@ -1,0 +1,4 @@
+# Neni 8
+1. Konsultimet publike duhet të jenë të hapura dhe transparente, të drejtpërdrejta apo nëpërmes të përfaqësuesve të konsumatorëve ose të grupeve të interesuara, gjatë përgatitjes, vlerësimit dhe rishikimit të masave për menaxhimin e rrezikut, përveç kur rasti urgjent nuk lejon.
+2. Nëse ekziston dyshimi i bazuar se ushqimi për njerëz apo ushqimi për kafshë mund të paraqes rrezik për shëndetin e njerëzve dhe të kafshëve, varësisht nga natyra, serioziteti dhe vëllimi i rrezikut, Agjencia merr masat për informim e opinionit publik mbi natyrën e rrezikut për shëndetin, duke e bërë identifikimin e ushqimit për njerëz dhe ushqimit për kafshë, llojin e tyre dhe rrezikun që mund ta shkaktojnë ato, duke i publikuar sa më shpejtë që është e mundur, masat që janë ndërmarrë ose që do të ndërmerren për parandalimin, evitimin, zvogëlimin dhe eliminimin e atij rreziku.
+II.4. MBROJTJA E INTERESIT TË KONSUMATORËVE

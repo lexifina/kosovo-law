@@ -1,0 +1,7 @@
+# Neni 17
+Kërkesat lidhur me mundësinë e hulumtimit të ushqimit
+1. Mundësia e hulumtimit duhet të jetë në të gjitha fazat e prodhimit, procesimit dhe distribuimit të ushqimit, lëndës së parë me origjinë bimore dhe shtazore, të shtazëve të cilat prodhojnë ushqim dhe shërbejnë për prodhimin e ushqimit, përfshirë edhe hulumtimin e çfarëdo materie tjetër e cila dedikohet për përbërjen apo pritet të jetë pjesë përbërëse e ushqimit.
+2. Subjekti që afaron me ushqim, është i obliguar të vendos sistemin e evidencës, gjegjësisht bazën e shënimeve dhe sigurimin e procedurave të cilat ia mundësojnë që në çdo moment të identifikojë secilin person fizik apo juridik i cili e ka furnizuar me ushqim, kafshë që prodhon ushqim dhe shërben për prodhimin e ushqimit ose çfarëdo materie tjetër e cila është dedikuar për prodhim apo pritet të përdorën për prodhimin e ushqimit.
+3. Subjekti qe afaron me ushqim, është i obliguar të vendos bazën e shënimeve dhe ti sigurojë procedurat të cilat do t’i mundësojnë që në çdo moment t’i identifikojë subjektet tjerë që afarojnë me ushqimin, e të cilëve u ka shpërndarë ushqimin.
+4. Subjekti që afaron me ushqim, është i obliguar që shënimet nga paragrafi 2 dhe 3 të këtij neni, ti ruajë tri vjet dhe në bazë të kërkesës së Autorotetit kompetent t’ia ofrojë në çdo moment ato.
+5. Ushqimi i cili është plasuar në treg ose do të plasohet në treg, duhet të jetë i deklaruar dhe në një mënyrë tjetër i identifikuar nëpërmes të dokumentacionit gjegjës ose informatave tjera, për t’u mundësuar hulumtimi i tij.

@@ -1,0 +1,15 @@
+# Neni 18
+Kërkesat që kanë të bëjnë me sistemin e vetëkontrollit
+1. Subjekti që afaron me ushqim, përveç nivelit të prodhimtarisë primare, është i obliguar të vendos dhe të mbajë kontrollime të rregullta të kushteve higjienike të prodhimit në secilin objekt nën kontrollin e tij, zbatimin e procedurës preventive të vetëkontrollit të zhvilluar në pajtim me parimet vijuese të sistemit të analizës së hazardit dhe pikave kritike të kontrollit – HACCP për:
+1.1. identifikimin e të gjitha hazardeve të cilat duhet të parandalohen, të mënjanohen ose të zvogëlohen në nivelin e pranueshëm;
+1.2. identifikimin e pikave kritike të kontrollit në vendet ku kontrollimi është i rëndësishëm për parandalimin, mënjanimin ose zvogëlimin e hazardeve në nivel të pranueshëm;
+1.3. përcaktimin e kufijve kritik në pikat kritike të kontrollit të cilat e ndajnë të pranueshmen nga e papranueshmja për parandalimin mënjanimin ose zvogëlimin e hazardeve të identifikuara;
+1.4. përcaktimin dhe zbatimin e masave të suksesshme të monitorimit sistematik të pikave kritike të kontrollit;
+1.5. përcaktimin e masave korrigjuese kur sistemi i monitorimit tërheq vërejtjen se pika kritike e kontrollit nuk është nën kontrollë;
+1.6. përcaktimin e masave të verifikimit më qëllim të vërtetimit të zbatimit të masave të parapara në nën-paragrafët e mësipërm të këtij paragrafi. Procedurat e verifikimit duhet të zbatohen nga objektet dhe inspektorët kompetent në objekte;
+1.7. përcaktimin e dokumenteve dhe evidencave konform natyrës dhe vëllimit të punës të cilat do të pasqyrojnë efektin e zbatimit të masave të parapara në nën-paragrafët e mësipërm të këtij paragrafi.
+2. Subjekti qe afaron me ushqimin në shkallë të prodhimtarisë primare, është i obliguar të vendos dhe të zbatojë kontrollimet e rregullta të kushteve higjienike të prodhimit në secilin objekt nën kontroll të tij me zbatimin e procedurës së vetëkontrollit, të zhvilluar në pajtim me praktikën e mirë prodhuese.
+3. Verifikimin fillestar të përshtatshmërisë së planeve të HACCP për objekte nga paragrafi 1. i këtij neni, e bënë Agjencia.
+4. Nëse rezultatet e vetëkontrollit, të parapara në paragrafin 1. të këtij neni e zbulojnë ekzistencën e rrezikut për shëndetin e njerëzve dhe nëse vërehet se ushqimi nuk i përmbush kërkesat për ushqim të sigurt, atëherë subjekti qe afaron me ushqim, është i obliguar të zbatojë masa në pajtim me nenin 25 të këtij ligji.
+5. Kushtet për zbatimin e sistemit të vetëkontrollit në objekte nga paragrafi 1 dhe 2 i këtij neni, i përcakton Agjencia.
+6. Agjencia për zbatimin e dispozitave nga paragrafi 5. i këtij neni, duhet të përcaktojë përjashtimin nga dispozitat nga paragrafi 1. i këtij neni për disa objekte të subjekteve të cilët afarojnë me ushqimin, veçanërisht për subjekte të vogla, kategoritë e veçanta në shitje me pakicë dhe në prodhimtarinë tradicionale të produkteve, me kusht që të jetë e siguruar shkalla përkatëse e higjienës me zbatimin e procedurës së vetë kontrollimit, të zhvilluar në pajtim me praktikat e mira të prodhimit.

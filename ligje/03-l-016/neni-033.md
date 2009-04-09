@@ -1,0 +1,5 @@
+# Neni 33
+Plani i përgjithshëm për menaxhim të krizës
+1. Agjencia, në bashkëpunim me Ministrinë e Bujqësisë dhe Ministrinë e Shëndetësisë duhet të përpilojë planin e përgjithshëm për menaxhim të krizës në fushën e ushqimit të sigurt.
+2. Me planin nga paragrafi 1. i këtij neni të cilin e nxjerrë Qeveria e Kosovës përcaktohen llojet e rrezikut të cilat rrjedhin nga ushqimi dhe mund të paraqesin rrezik direkt apo indirekt për shëndetin e njeriut e të cilat nuk mund të mënjanohen apo zvogëlohen në shkallë të pranueshme ose që nuk mund të menaxhohen në mënyrë të duhur me aplikimin e dispozitave të këtij ligji.
+3. Me planin nga paragrafi 1 i këtij neni, përcaktohen procedurat e nevojshme praktike për menaxhim të krizës, duke përfshirë edhe organizimin e njësisë së krizës në organet kompetente, plotësimin e saj me personel duke përdorur parimin e transparencës dhe përcaktimin e strategjisë së komunikimit ndërmjet Agjencisë, Ministrisë së Bujqësisë, Ministrisë së Shëndetësisë dhe organeve tjera qeveritare dhe institucioneve tjera përkatëse, konsumatorëve dhe subjekteve që afarojnë me ushqim.
