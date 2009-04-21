@@ -1,6 +1,0 @@
-# Article 32
-IONIZED RADIATION AND RADIOACTIVITY PROTECTION
-1. According to prescribed criteria, conditions and procedures determined by the relevant ministries, there shall be research, monitoring, systematic monitoring and monitoring of the composition of radioactive substances in the air, water, soil atmospheric precipitation, flora and fauna, construction materials, drinking water and food particles in cases of reasoned suspicion and in extraordinary conditions. Information of the monitoring results and protection measures made for radiation shall also provided to relevant ministries.
-2. Research and monitoring, as is referred to in paragraph 1, above, shall assess the radioactive danger to the public health and Environment and shall be conducted by relevant competent ministries.
-3. Institutions that are Licensed to conduct research and monitoring of the radioactive composition of substances in the Environment and the measurements for the intensity of the radiation are required to report monitoring results to the relevant competent ministries.
-4. The Government shall, with a specific normative act, set the criteria and levels that need to be undertaken for protection from emission and radioactivity.

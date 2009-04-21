@@ -1,5 +1,0 @@
-# Neni 28
-Mbrojtja e ajrit
-1 Qeveria, në propozim të Ministrit dhe duke marrë parasysh parimet e përshkruara në nenin 5. do të nxjerrë një akt plotësues normativ që themelon nivelet maksimume të lejueshme të shkarkimit dhe shpërndarjes të ndotësve në ajër. Qeveria do të sigurojë që nivelet e themeluara me aktim plotësues normativ janë konform me mundësinë e Kosovës të përballojë këto me një kosto të arsyeshme. Qeveria do të ketë autoritet të ulë maksimumin e lejimit të shpërndarjes dhe shkarkimit që të mund, gradualisht ta sjellë në nivelin e EU-së.
-2 Mbrojtja e ajrit zbatohet në nivel vendi, në bazë të Programit për mbrojtjen e ajrit, në pajtim me nenin 8. të këtij ligji, me të cilin, përveç tjerash, përcaktohen procedurat dhe afatet për arritjen graduale të standardeve teknike dhe normave të vlerave të kufizuara.
-3 Subjektet, të cilat disponojnë me burim te ndotjes se ajrit /ndotësit e ajrit/, janë të obliguara qe me masa tekniko-teknologjike dhe me masa tjera, të sigurojnë që shkarkimet dhe shpërndarjet në ajër te jenë në kufinjët e vlerave të përkufizuara dhe përcaktuara me ligj dhe akte tjera.

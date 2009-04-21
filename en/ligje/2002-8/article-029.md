@@ -1,9 +1,0 @@
-# Article 29
-WATER PROTECTION
-1. The Government, after receiving a proposal from the Minister and taking into account the principles established in Article 5, shall issue a subsidiary normative act establishing p rescribed permissible m aximum 1 evels for t he d ischarge and e mission o f pollutants into the water. The Government shall ensure that the levels established by such subsidiary act are consistent with the ability of Kosovo to comply at a reasonable cost. The Government shall have the authority to gradually adjust such levels over time to bring them gradually into compliance with the prescribed levels of the EU.
-2. Without prejudice to standards, rules and prescribed limit levels of Pollution, the following are prohibited:
-(a) Discharge into waters of solid, liquid or gaseous non-toxic materials, including organisms and different types of energy, that directly or indirectly cause a change in the turbidity, sedimentation, flavor or other changes in the quality of water;
-(b) Discharge of Waste waters into public sewage systems that contain substances above the prescribed limit levels or contain harmful substances that can cause, problems in sewage systems or water-cleaning facilities; and
-(c) The use of abandoned water wells as septic ditches.
-3. The Hydro-meteorological Institute of Kosovo, which is within KEPA and under the authority of the Ministry, shall monitor surface and underground waters, provide systematical research and immediately inform the authorities of the relevant ministries about any accidental Pollution of waters.
-4. The subsidiary normative act authorized under paragraph 1 may require industrial and other large scale undertakings and public authorities that discharge pollutants into the water and public sewage systems to, where necessary, install the equipment necessary to measure and/or record the type and quantity of such discharges and to regularly provide such information to the Ministry.

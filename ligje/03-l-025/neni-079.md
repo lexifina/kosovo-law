@@ -1,0 +1,5 @@
+# Neni 79
+Masat e stimulimit ekonomik
+1. Personat juridik ose fizik që aplikojnë teknologjitë e pastra, vejnë në qarkullim prodhime dhe mallra, ndikimi i të cilave është më i favorshëm sesa i mallrave tjera të ngjashme, ose shfrytëzojnë burimet e përsëritshme të energjisë (ujin, diellin, erën, biogazin etj), instalimet dhe pajisjet të cilat në mënyrë të drejtpërdrejtë shërbejnë për mbrojtjen e mjedisit, mund t`u caktohen lehtësime tatimore, doganore dhe lehtësime të tjera ose të lirohen nga detyrimi.
+2. Për konsumatorët të cilët në mënyrë të organizuar i kthejnë pajisjet e shfrytëzuara dhe të papërdorshme ose pjesët e tyre, prodhimet ose ambalazhin e tyre, dhe për prodhuesit të cilët e sigurojnë riciklimin dhe largimin e tyre, respektivisht e zvogëlojnë ndikimin negativ të aktiviteteve të tyre në mjedis, mund të përcaktohen masa të posaçme të stimulimit si subvencione, depozitë dhe refundim.
+3. Kushtet dhe mënyrat e stimulimit nga paragrafi 1 dhe 2 të këtij neni në propozim të Ministrisë, Qeveria e përcakton me akt nënligjor.

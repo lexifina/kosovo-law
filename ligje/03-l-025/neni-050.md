@@ -1,0 +1,13 @@
+## KREU V
+## MONITORIMI DHE INFORMIMI PËR MJEDISIN
+# Neni 50
+Monitorimi i mjedisit
+1. Ministria në kuadër të përgjegjësive të veta të përcaktuara me ligj siguron kontrollin e vazhdueshëm dhe bënë monitorimin e gjendjes së mjedisit në përputhje me këtë ligj, ligjet e veçanta dhe programet e monitorimit.
+2. Personat juridik ose fizik të cilët me veprimtarinë ose me aktivitetin e tyre e ndotin mjedisin, në kuadër të përgjegjësive të veta të përcaktuara me ligj sigurojnë kontrollin e vazhdueshëm dhe bëjnë monitorimin e gjendjes së mjedisit në përputhje me këtë ligj, ligjet e veçanta dhe programet e monitorimit.
+3. Komunat, në kuadër të përgjegjësive të veta të përcaktuara me ligj sigurojnë kontrollin e vazhdueshëm dhe bëjnë monitorimin e gjendjes së mjedisit në përputhje me këtë ligj, ligjet e veçanta dhe programet e monitorimit.
+4. Monitorimi i mjedisit kryhet përmes matjeve sistematike, hulumtimit dhe vlerësimit të indikatorëve të gjendjes dhe ndotjes së mjedisit të cilat përfshijnë përcjelljen e faktorëve natyror, respektivisht ndryshimit të gjendjes dhe karakteristikave të mjedisit, përfshirë edhe monitorimin tej kufitarë, të ajrit, ujit, tokës, pyjeve, llojllojshmërisë biologjike dhe peizazhore florën dhe faunën, elementeve klimatologjike, mbështjellësit të ozonit, rrezatimit jonizues dhe jojonizues, zhurmës, mbeturinave, paralajmërimit të hershëm të aksidenteve në mjedis së bashku me përcjelljen dhe vlerësimin e nivelit të ndotjes së mjedisit, si dhe detyrimeve dhe përgjegjësive të marra nga marrëveshjet ndërkombëtare.
+5. Të dhënat e grumbulluara nga monitorimi i gjendjes së mjedisit, përbëjnë informacion publik dhe përfshihen në Sistemin Informativ të Mbrojtjes së Mjedisit.
+6. Me propozim të Ministrisë, Qeveria, me akt nënligjor përcakton kriteret për identifikimin e numrit dhe shtrirjes së pikave matëse, rrjetin e pikave matëse, vëllimin dhe shpeshtësinë e matjeve, klasifikimin e dukurive të cilat përcillen, metodologjinë e punës dhe indikatorët e ndotjes së mjedisit dhe monitorimin e tyre, afatet dhe mënyrën e dorëzimit të dhënave.
+7. Monitorimin e mjedisit në Kosovë sipas paragrafit 1 të këtij neni e bënë Ministria, personat juridik ose fizik qe me veprimtarinë ose me aktivitetin e tyre mund te ndotin mjedisin si dhe personat e autorizuar nga ndotësi ose Ministria.
+8. Çdo palë e interesuar ka të drejtë në çdo kohë të ketë qasje në regjistrat ose evidencat e Ministrisë që përmbajnë informata dhe të dhëna për gjendjen e mjedisit në përputhje me ligj.
+9. Personat juridik ose fizik të cilët me veprimtarinë ose me aktivitetin e tyre mund të ndotin mjedisin, duhet të sigurojnë mjetet financiare për monitorimin e mjedisit.

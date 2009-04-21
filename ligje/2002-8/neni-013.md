@@ -1,5 +1,0 @@
-# Neni 13
-Miratimi dhe ndalimi për importet 1 Në territorin e Kosovës është i ndaluar importimi, përpunimi, ose grumbullimi i materieve radioaktive dhe mbeturinave të tjera të rrezikshme me prejardhje jashtë kufinjëve të Kosovës, përveç kur lejohet nga Qeveria.
-2 Qeveria, në pajtim me Ligjin për tregtinë e jashtme, me akt të veçantë përcakton: (a) rastet në të cilat inspektimi mjedisor i mallrave që importohen përkohësisht apo vazhdimisht, është i detyrueshëm; (b) rastet në të cilat ndalohet importi, eksporti, magazinimi dhe kalimi tranzit i përhershëm ose i përkohshëm i mallrave të caktuara, nëpër territorin e Kosovës dhe (c) rastet në të cilat është i nevojshëm miratimi paraprak i Ministrit për importimin, eksportimin, magazinimin apo kalimin tranzit të mallrave.
-11 3 Ministri përcakton mënyrën sipas të cilës bëhet inspektimi mjedisor i mallrave të importuara përkohësisht ose vazhdimisht.
-4 Ministria mund të vendosë asgjësimin e mallrave ilegalisht të importuara, eksportuara, magazinuara dhe që kalojnë tranzit në kundërshtim me dispozitat e këtij neni.
