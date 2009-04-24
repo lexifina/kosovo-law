@@ -1,0 +1,4 @@
+# Neni 13
+Regjistrimi në Rrethin Konsullor
+1 Përfaqësitë diplomatike dhe misionet konsullore duhet të inkurajojnë regjistrimin e shtetasve të Kosovës në rrethin konsullor, në mënyrë që të mundësohet ofrimi efikas i shërbimeve konsullore. Inkurajohet gjithashtu dhe regjistrimi i shtetasve të Kosovës vizitorë, të cilët nuk jetojnë në rrethin konsullor. Për t’u regjistruar, shtetasi i Kosovës duhet të paraqesë dokumentacionin i cili tregon shtetësinë kosovare, si dhe të dhënat kontaktuese.
+2 Regjistrimi në misionin konsullor mbetet i vlefshëm për një periudhë dhjetë (10) vjeçare për banorët e rrethit konsullor. Pas kësaj periudhe mund të bëhet ç’regjistrimi nga baza e të dhënave e misionit konsullor. Për vizitorët periudha e vlefshmërisë së regjistrimit do të jetë në përputhshmëri me vlefshmërinë e lejes së qëndrimit.
