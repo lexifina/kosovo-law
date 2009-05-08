@@ -1,0 +1,13 @@
+# Neni 22
+Vlerësimi i Pronës së Paluajtshme
+1. Gjatë vlerësimit të të drejtave mbi pronën e paluajtshme, Zyra për Vlerësimin e Pronës së Paluajtshme do të vlerësojë pronën në përputhje me aktet nënligjore të miratuara në përputhje me paragrafin 6. të nenit 15 të këtij ligji. Nëse është në dispozicion, vlerësimi do të marrë parasysh dhe do të bazohet në aktin e fundit të vlerësimit të përgatitur nga Komuna në të cilën gjendet prona për përmbushjen e detyrimeve të saj që dalin nga neni 12 i Rregullores së UNMIK-ut 2003/29 “mbi Tatimin në Pronën e Paluajtshme në Kosovë”.
+2. Gjatë procesit të vlerësimit, Pronarët dhe Zotëruesit e Interesave kanë të drejtë të paraqesin mendimet e tyre lidhur me vlerësimin në Zyrën për Vlerësimin e Pronës së Paluajtshme. Korrespondenca ndërmjet Zyrës për Vlerësimin e Pronës së Paluajtshme dhe këtyre Pronarëve, Zotëruesve të Interesave ose personave që veprojnë në emër të tyre duhet të bëhet vetëm me shkrim, dhe të gjitha komunikatat me shkrim u nënshtrohen plotësisht kushteve për qasje nga publiku sipas Ligjit për Qasjen në Dokumentet Zyrtare.
+3. Zyra për Vlerësimin e Pronës së Paluajtshme do të nxjerrë aktin përfundimtar të vlerësimit brenda njëqindepesëdhjetë (150) ditëve nga data e pranimit të kërkesës nga Organi Shpronësues sipas paragrafit 6. të nenit 8 të këtij ligji. Akti i vlerësimit me shkrim duhet të përmbajë:
+3.1. vlerën e përgjithshme të pronës e cila është objekt i shpronësimit së bashku me një përshkrim të komponentëve përbërës të vlerës, nëse është e nevojshme;
+3.2. një vlerësim të të gjitha dëmeve – nëse ka – të cilat duhet të paguhen sipas këtij ligji;
+3.3. një përshkrim të metodologjisë së përdorur për kryerjen e vlerësimit;
+3.4. një shpjegim mbi atë se a janë në përputhje metodologjia dhe vlerësimet në përputhje me paragrafin 6. të nenit 15 të këtij ligji dhe aktet nënligjore të nxjerra në përputhje me atë nen;
+3.5. të dhënat e Personave të cilëve do t’u paguhet kompensimi dhe shuma e kompensimit e cila do t’i paguhet secilit; dhe
+3.6. të dhënat e Personave të cilët kanë kërkuar kompensim (nëse ka të këtillë), mirëpo është vendosur se nuk kanë të drejtë në të.
+Akti i vlerësimit i dërgohet Organit Shpronësues, i cili ia bashkëngjit atë Vendimit Përfundimtar, nëse vendimi nxirret.
+4. Çdo Pronar ose Zotërues i Interesit i cili nuk është në pajtim me cilindo pjesë të aktit të vlerësimit, pas hyrjes në fuqi të Vendimit Përfundimtar të cilit i është bashkëngjitur ky akt, ka të drejtë të kundërshtojë aktin e vlerësimit, pjesërisht ose plotësisht, përmes paraqitjes së një ankese pranë gjykatës kompetente në përputhje me nenin 36 të këtij ligji.

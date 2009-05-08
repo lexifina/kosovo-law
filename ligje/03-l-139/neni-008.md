@@ -1,0 +1,46 @@
+# Neni 8
+Kërkesa për shpronësim
+1. Kërkesa për Shpronësim përmban këto të dhëna:
+1.1. emrin dhe adresën e Organit Shpronësues dhe, nëse Organi Shpronësues nuk është duke vepruar me vetiniciativë, emrin dhe adresën e Subjektit Kërkues;
+1.2. emrin dhe adresën e secilit Person i cili është, ose pretendon se është, Pronar ose Zotërues i një Interesi në secilën parcelë të pronës të paluajtshme, nëse këto të dhëna mund të vërtetohen lehtësisht nga të dhënat kadastrale dhe të dhënat tjera në dispozicion mbi pronën e paluajtshme në Kosovë, duke përfshirë të dhënat e Agjencisë Kosovare të Pronës dhe të dhënat e fundit të tatimit në pronë;
+1.3. vendndodhjen dhe numrin e secilës parcelë të pronës së paluajtshme, dhe – nëse vetëm një pjesë e parcelës është objekt i shpronësimit dhe/ose vetëm disa të drejta në cilëndo nga këto parcela – një përshkrim të hollësishëm të pjesës së parcelës dhe/ose të drejtave që janë objekt i kërkesës;
+1.4. për secilën parcelë, një përshkrim të të gjitha të drejtave (pavarësisht nëse ato janë të drejta të vërtetuara ose të pretenduara) në parcelën për të cilën subjekti kërkues kërkon shpronësimin.
+1.5. një përshkrim i hollësishëm të qëllimit publik për të cilin kërkohet shpronësimi;
+1.6. çfarëdo dokumente të rëndësishme të cilat e provojnë ligjshmërinë e qëllimit publik dhe/ose nevojën për shpronësimin e kërkuar (ose, nëse këto dokumente janë në dispozicion në formë elektronike, një indikacion të qartë të vendit në të cilin mund të merren);
+1.7. të dhëna të cilat përcaktojnë nëse – dhe deri në çfarë mase - kërkohet shpronësimi i sendeve akcesore, sendeve përbërëse dhe/ose të frutave të pronës së paluajtshme; dhe
+1.8. të dhëna të hollësishme, për aq sa ato mund të vërtetohen nga të dhënat e përcaktuara në nën-paragrafin 1.2 të këtij paragrafi, lidhur me çfarëdo kufizimi ose kontesti mbi të drejtat pronësore ose të drejtat ose interesat tjera në zotërim ose që pretendohet se janë në zotërim të personave të identifikuar sipas nën-paragrafit 1.2 të këtij paragrafi.
+2. Kërkesës për shpronësim i bashkëngjiten këto dokumente:
+2.1. për secilën parcelë: një kopje të fletës poseduese dhe të dhënave tjera të pronës së paluajtshme që ndërlidhen me të;
+2.2. plani përkatës kadastral dhe hartat e parcelës(ave) përkatëse;
+2.3. nëse kërkesa është për më shumë se një parcelë, hartat të cilat tregojnë të gjitha parcelat dhe zonën rrethuese;
+2.4. një ekstrakt të planit ekzistues hapësinor ose urbanistik i cili i mbulon këto parcela, nëse ky plan ekziston;
+2.5. nëse është e aplikueshme, çfarëdo projekt-propozimi ose plani i cili i është dorëzuar një Autoriteti Kompetent Publik për një ndërtesë ose objekt që parashihet ose propozohet të ndërtohet ose të zgjerohet në pronë.
+3. Kërkesës për Shpronësim i bashkëngjitet dokumentacioni përmes së cilit dëshmohet në masë të kënaqshme se ka ose do të ketë mjete të mjaftueshme financiare për pagimin me kohë të kompensimit i cili në mënyrë të arsyeshme llogaritet se do të jetë i nevojshëm në rast se kërkesa miratohet.
+4. Kur Organ Shpronësues është Qeveria dhe një e drejtë e shfrytëzimit dhe/ose administrimit të pronës përkatëse planifikohet të shitet, epet me qira, dhurohet ose i bartet nga Qeveria një Partneriteti Publiko- Privat ose një Personi privat në përputhje me nenin 14 të këtij ligji dhe Partneriteti ose Personi në fjalë është i detyruar të paguajë shpenzimet e Qeverisë për kryerjen e Shpronësimit, atëherë partneriteti ose personi në fjalë, njëkohësisht me dorëzimin e kërkesës duhet të deponojë një bond garantues ose një garanci të parevokueshme bankare për Qeverinë me një shumë e cila është llogaritur në mënyrë të arsyeshme se është e barabartë me shumën e këtyre shpenzimeve. Ky bond ose garanci duhet të dorëzohet së bashku me kërkesën dhe është i pranueshëm vetëm nëse lëshohet nga një institucion financiar i cili i plotëson kushtet minimale të përcaktuara nga BQK.
+5. Brenda pesëmbëdhjetë (15) ditëve nga pranimi i kërkesës, Organi Shpronësues do të bëjë një shqyrtim prima facie të kërkesës për të përcaktuar nëse kërkesa i përmbush në shikim të parë kushtet e përcaktuara në nenin 4 dhe paragrafët prej 1 deri 3 të këtij neni. Nëse Organi Shpronësues vendos se kërkesa, në shikim të parë, nuk i përmbush kushtet e përcaktuara, Organi Shpronësues nuk e pranon kërkesën dhe ia kthen atë Subjektit Kërkues së bashku me një shpjegim me shkrim të arsyeve për refuzimin e pranimit të saj. Nëse Organi Shpronësues vendos se në shikim të parë kërkesa i plotëson kushtet e përcaktuara, Organi Shpronësues miraton një vendim me shkrim për pranimin formal të kërkesës për shqyrtim të mëtejmë në përputhje me këtë ligj.
+6. Brenda pesë (5) Ditëve të Punës pas miratimit të vendimit për pranimin e kërkesës për shqyrtim të mëtejmë, Organi Shpronësues i dërgon një kopje të kërkesës dhe të gjitha dokumenteve të bashkëngjitura Zyrës për Vlerësimin e Pronës së Paluajtshme, të themeluar në përputhje me nenin 22 të këtij ligji, dhe nëse Organ Shpronësues është Qeveria - kopja gjithashtu i dërgohet kryetarit të secilës komunë në të cilën ndodhen parcelat e pronës së paluajtshme, .
+7. Brenda dhjetë (10) Ditëve të Punës pas miratimit të vendimit për pranimin e kërkesës për shqyrtim të mëtejmë, Organi Shpronësues ua dërgon dokumentet në vijim Personave të identifikuar në përputhje me nën-paragrafin 1.2 të këtij neni:
+7.1. një kopje të vendimit të Organit Shpronësues për pranimin e kërkesës për shqyrtim të mëtejmë;
+7.2. një kopje të kërkesës dhe të gjitha dokumenteve të bashkëngjitura;
+7.3. një njoftim i cili:
+7.3.1. përshkruan qëllimin publik për të cilin është kërkuar Shpronësimi;
+7.3.2. në përputhje me paragrafin 1, të nenit 10 të këtij ligji, përcakton afatin brenda të cilit Organi Shpronësues duhet të miratojë ose refuzojë kërkesën;
+7.3.3. njofton se secili Person i interesuar mund të paraqesë komentet e tij me shkrim lidhur me Shpronësimin e propozuar në Organin Shpronësues brenda afatit të caktuar, afat ky që caktohet në përputhje me paragrafin 1, të nenit 9 të këtij ligji;
+7.3.4. njofton se:
+7.3.4.1. Organi Shpronësues do të mbajë një dëgjim publik lidhur me shpronësimin përkatës në secilën Komunë ku gjendet prona përkatëse;
+7.3.4.2. të gjithë Personat të cilët janë zyrtarë publik të Komunës në të cilën mbahet dëgjimi apo Pronarë ose Zotërues të Interesit në pronën e cila gjendet brenda Komunës në të cilën mbahet dëgjimi ose avokat apo përfaqësues të ligjshëm të këtyre Personave, kanë të drejtë të marrin pjesë në dëgjimin publik;
+7.3.4.3. çdo Personi të këtillë do t’i epet mundësi e arsyeshme për t’i shprehur mendimet e tij/saj gojarisht në përputhje me paragrafët 2. deri 4. të nenit 9 të këtij ligji; dhe
+7.3.4.4. çdo Person i cili dëshiron të marrë pjesë ose të shprehë mendimet e tij/saj në dëgjimin publik duhet të sjellë me vete prova të arsyeshme (dokumente) të cilat dëshmojnë se ai/ajo është në fakt zyrtar publik, Pronar ose Zotërues i Interesit ose avokat ose përfaqësues i ligjshëm i atij zyrtari publik, Pronari ose Zotëruesi të Interesit;
+7.3.5. në përputhje me kërkesat e paragrafit 2, të nenit 9 të këtij ligji, përmban orarin në të cilin përcaktohet data, koha dhe vendi i mbajtjes së secilit dëgjim publik; dhe
+7.3.6. përmban deklaratën në vijim:
+në rast se prona e cila është objekt i kërkesës shpronësohet pas përmbylljes së procedurës së shpronësimit të iniciuar në përputhje me atë kërkesë, asnjë kompensim nuk do të paguhet për shpenzimet ose vlerën e çfarëdo përmirësimi të bërë në pronë, objekteve të ndërtuara ose zgjeruara në pronë, ose pemëve apo bimëve të mbjellura në pronë pas datës së përmbushjes së dispozitave përkatëse të paragrafit 8 të nenit 8 të “Ligjit të Republikës së Kosovës për Shpronësimin e Pronës së Paluajtshme” të vitit 2009.
+Çdo person i cili pretendon se ka një interes pronësor ose interes tjetër të ligjshëm në pronën përkatëse këshillohet ta shqyrtojë atë ligj dhe të kërkojë ndihmë profesionale juridike për kuptimin e të drejtave të tyre sipas atij ligji;
+7.4. një kopje të këtij ligji; dhe
+7.5. një kopje të standardeve të vlerësimit të përmendura në paragrafin 6. të nenin 15 të këtij ligji.
+8. Brenda dhjetë (10) ditëve të punës pas miratimit të vendimit për pranimin e kërkesës për shqyrtim të mëtejmë, Organi Shpronësues shpall në Gazetën Zyrtare dhe në një gazetë me tirazh të madh në Kosovë:
+8.1. vendimin; dhe
+8.2. një njoftim i cili:
+8.2.1. përmban të dhënat e siguruara në kërkesë, në përputhje me kërkesat e nën- paragrafëve 1.1 deri 1.4 të këtij neni;
+8.2.2. përmban të dhënat, deklaratat dhe njoftimet e kërkuara sipas paragrafi 7.3 të këtij neni; dhe
+8.2.3. përmban një njoftim shtesë se çdo Person i cili nuk është emëruar në njoftim dhe i cili pretendon se zotëron një interes pronësor ose interes tjetër të ligjshëm në cilëndo parcelë të pronës së paluajtshme të përshkruar në njoftim menjëherë duhet të dërgojë në Organin Shpronësues një përshkrim të pretendimit të tij/saj, bazën juridike të atij pretendimi si dhe kopjet e certifikuara të çfarëdo dokumenteve që ndërlidhen me atë pretendim.
+9. Brenda shtatë deri dhjetë (7-10) ditëve kalendarike pas shpalljes së njoftimit të paraparë në paragrafin 8, të këtij neni, Organi Shpronësues e rishpall këtë njoftim në të njëjtën gazetë me tirazh të madh në Kosovë.

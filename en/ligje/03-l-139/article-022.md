@@ -1,0 +1,13 @@
+# Article 22
+Valuation of Immovable Property
+1. With respect to the valuation of rights in immovable property, the Office of Immovable Property Valuation shall value such property in accordance with the subsidiary legislation issued pursuant to paragraph 6 of Article 15 of the present law. Such valuation shall take into consideration, if available, the most recent valuation of the property made by the Municipality where the property is located pursuant to its obligations under Article 12 of UNMIK Regulation 2003/29 “On Taxes On Immovable Property in Kosovo”.
+2. During the valuation process, Owners and Interest Holders shall have the right to submit their written views concerning such valuation to the Office of Property Valuation. All communications between the Office of Property Valuation and any such Owner or Interest Holder, or a Person acting on their behalf, shall be done in writing only, and all such written communications shall be fully subject to the public disclosure requirements of the Law on Access to Official Documents.
+3. The Office of Immovable Property Valuation shall issue in writing its final valuation determination within one hundred fifty (150) days after the date it received the application from the Expropriating Authority pursuant to paragraph 6 of Article 8 of the present law. Such determination shall contain:
+3.1. the overall valuation of the property being expropriated with a breakdown, if necessary, of the components of such valuation;
+3.2. a valuation of any and all other damages required to be paid by the present law;
+3.3. a description of the specific methodology used to make such valuations;
+3.4. an explanation as to how such methodology, and the resulting valuations, comply with the requirements of paragraph 6 of Article 15 of the present law and the subsidiary legislation issued pursuant thereto;
+3.5. the details of the Persons to whom compensation is to be paid and the amount of compensation to be paid to each; and
+3.6. the details of the Persons, if any, who sought compensation but were determined not to be entitled thereto.
+This determination shall be provided to the Expropriating Authority, which shall attach it to the Final Decision, if one is adopted.
+4. Any Owner or Interest Holder who disagrees with any aspect of the valuation determination shall have, after the effective date of a Final Decision attaching such determination, the right to challenge such valuation determination, in whole or in part, by filing a complaint with the competent court in accordance with Article 36 of the present law.

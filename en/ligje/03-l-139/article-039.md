@@ -1,0 +1,4 @@
+# Article 39
+Other Disputes
+1. Complaints and other legal disputes falling within the scope of Article 35, 36, 37 or 38 of the present law shall be handled as provided in those Articles. In the event of a conflict between such an Article and the provisions of the Law on Administrative Procedure or any other procedural law, such Article shall prevail.
+2. All other legal disputes relating to an act taken or a decision adopted by a Public Authority under the authority of the present law shall be subject to and governed by the applicable provisions of the Law on Administrative Procedure; provided, however, that any provision of the Law on Administrative Procedure eliminating or unreasonably restricting the right of an affected Person (a Person who has been specifically affected by such an act or decision) to file a complaint with a competent court challenging such act or decision shall be not be applied.
