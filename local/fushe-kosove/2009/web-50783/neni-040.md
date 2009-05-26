@@ -1,0 +1,4 @@
+# Neni 40.
+Regjistrimi i pronësisë, në bazë të transaksioneve (shitblerjes).
+Regjistrimi i pronësisë, posedimit sipas transaksioneve do të bëhet sipas vlerave të transaksioneve të kryera për pronën e paluajtshme.
+1. Për vlerën e transaksionit deri në 10.000 € paguhet taksa prej .................................20 €, 2. Për vlerën e transaksionit prej 10.000 € e deri në 20.000 € paguhet taksa prej. .... 30 €, 3. Për vlerën e transaksionit prej 20.000 € e deri në 40.000 € paguhet taksa prej .... 40 €, 4. Për vlerën e transaksionit prej 40.000 e deri në 50.000 € paguhet taksa prej ....... 50 €, 5. Mbi vlerën e 50.000 €, për çdo 10.000 € tejkalim, paguhet vlera prej 10 € por shuma e taksës së përgjithshme nuk mund ta kalojë vlerën e 200 € , 6. Poqëse vlera e kontratës – transaksionit është e pavlerësuar, paguhet taksa në vlerë prej 70 €.
