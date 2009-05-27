@@ -1,0 +1,2 @@
+# Neni 1
+Me këtë Rregullore, në përputhje me Ligjin për Vetëqeverisjen Lokale, Statutin e Komunës dhe aktet e tjera pozitive, rregullohet forma, përmbajtja dhe procedura e caktimit të simboleve komunale, ndarja e titujve të nderit, dekoratave, pllaketave, medaljeve, mirënjohjeve dhe falënderimeve personaliteteve të shquara dhe subjekteve tё tjera, të cilat, në lëmi të caktuara, kanë dhënë kontributin e vet të shquar për qytetarёt e komunës dhe më gjerë.

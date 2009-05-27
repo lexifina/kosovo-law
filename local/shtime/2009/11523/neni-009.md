@@ -1,0 +1,6 @@
+# Neni 9
+9.1. “Mirënjohjet”, dhe “Falënderimet, u jepen , në shenjë respekti, atyre personaliteteve, të cilat kanë dhënë një kontribut të veçantё, të dallueshëm dhe të rëndësishëm në fusha të ndryshme në të mirë të komunitetit.
+9.2. Fletёmirënjohja përbёhet nga një fletë e kualitetit të lartë, me dimension A 4, prej 150 gramësh. Në tërë sfondin e fletës është emblema e komunës, kurse nё pjesën e sipërme te saj shkruhet: Kuvendi i Komunës së Shtimes , numri dhe data e dhënies se titullit. Nё mesin e fletës shkruhet: “Mirënjohje” ose “Falënderim”, me emrin dhe mbiemrin e fituesit, nën tё motivacioni i dhënies se saj, kurse nё fund te saj shkruhet organi apo emri dhe mbiemri i dhënësit tё saj dhe vula e Komunës.
+9.3. Iniciativat dhe propozimet mund tё vijnë nga organet komunale, institucionet e tjera arsimore, kulturore, sportive, shoqëria civile dhe qytetarёt. Me rastin e Ditës së Çlirimit, Drejtoria për Arsim, Kulturë, Rini, dhe Sport organizon aktivitete në kuadër të Krosit Memorial “Skënder Salihu”dhe jep mirënjohje pёr kёtё lёm.
+9.4. Të gjitha Institucionet, të cilat japin mirënjohje falënderime, janë të obliguara të mbajnë evidencë, protokol ose regjistër të veçantё me të gjitha shёnimet për lëshimin e tyre.
+FORMIMI I KOMISIONEVE DHE PUNA E TYRE
