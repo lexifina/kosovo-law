@@ -1,0 +1,3 @@
+# Neni 5
+1. Banka Qendrore e Kosovës (tash e tutje i referohemi si “Banka Qendrore”) do të shërbejë si agjencia fiskale, siç është paraparë në nenin V, paragrafi 1 të nenit te Marrëveshjes së Fondit, dhe në këtë mënyrë është e autorizuar të kryej, në emër të Kosovës, të gjitha operacionet dhe transaksionet e autorizuara, me dispozita të ndryshme, të neneve të Marrëveshjes së Fondit.
+2. Ministria e Ekonomisë dhe Financave do të shërbejë si agjenci fiskale, siç kërkohet me nenin III, paragrafit 2 i Neneve të Marrëveshjes me Bankën dhe është i hartuar si kanal komunikimi që i referohet nenit IV, paragrafit 10 të neneve të Marrëveshjes me Korporatën, neni VI, paragrafi 10 i Neneve të Marrëveshjes të Shoqatës, dhe neni 38 i Konventës që e formon Agjencinë.

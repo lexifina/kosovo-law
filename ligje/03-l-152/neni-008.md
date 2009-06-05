@@ -1,0 +1,2 @@
+# Neni 8
+Presidenti i Kosovës, me propozim të Kryeministrit, do të caktojë përfaqësues të autorizuar për të nënshkruar në emër të Kosovës, dokumentet origjinale të neneve të Marrëveshjes së Fondit, Bankës, Korporatës dhe Shoqatës, Konventës AGIM dhe Konventës IKSID dhe të ekzekutojë e të depozitojë çfarëdo instrumenti të pranimit, instrumentin e ratifikimit, si dhe dokumenteve të tjera që mund të kërkohen për pranimin e anëtarësimit në këto organizata.

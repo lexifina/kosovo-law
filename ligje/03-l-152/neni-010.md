@@ -1,0 +1,2 @@
+# Neni 10
+Qeveria e Kosovës, do të nxjerr rregullore dhe akte të tjera nënligjore që janë në përputhje me dispozitat e këtij ligji, të cilat do të hartohen nga Ministria kompetente si dhe do të ndërmerren aktivitete të tjera, në mënyrë që t’i zbatojë obligimet e Kosovës nga nenet e Marrëveshjes, Konventave, dhe Rezolutave të parapara në nenin 2 më lartë, që të kenë fuqinë dhe efektin e vetë të plotë për dispozitat e këtij ligji.

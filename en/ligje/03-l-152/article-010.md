@@ -1,0 +1,2 @@
+# Article 10
+The Government shall issue regulations and other sub-legal acts that are consistent with the provisions of this Law, which shall be prepared by the competent Ministries, and shall undertake other activities in order to carry out the obligations of Kosovo under the Articles of Agreement, the Conventions, and the Resolutions referred to in Article 2 above, and to give full force and effect to the provisions of this Law.

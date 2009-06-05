@@ -1,0 +1,3 @@
+# Article 3
+1. Upon the admission of Kosovo to membership in the Fund, Kosovo is hereby authorized to be a participant in the Special Drawing Rights Department,
+2. The President of Kosovo, acting on a proposal by the Prime Minister, shall designate the representative authorized to execute and deposit with the Fund on behalf of Kosovo an Instrument of Participation stating that Kosovo undertakes all the obligations of a participant in the Special Drawing Rights Department of the Fund, to act on behalf of Kosovo in this Department in accordance with the law of Kosovo and representing that Kosovo has taken all steps necessary to enable it to carry out all of the obligations of a participant in the Special Drawing Rights Department.

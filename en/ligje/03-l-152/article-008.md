@@ -1,0 +1,2 @@
+# Article 8
+The President of Kosovo, acting on a proposal by the Prime Minister, shall designate the representatives authorized to sign, on behalf of Kosovo, the originals of the Articles of Agreement of the Fund, the Bank, the Corporation and the Association, the MIGA Convention and the ICSID Convention, and to execute and deposit any instrument of acceptance, instrument of ratification, and other documents that may be required for accepting membership in these organizations.

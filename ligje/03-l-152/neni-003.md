@@ -1,0 +1,3 @@
+# Neni 3
+1. Me pranimin e Kosovës për anëtarësim në Fond, Kosova me këtë rast autorizohet të jetë pjesëmarrëse në Departamentin Special për të Drejtat e Tërheqjes.
+2. Presidenti i Republikës së Kosovës, me propozim të Kryeministrit, do të caktojë përfaqësuesin e autorizuar të ekzekutojë dhe depozitojë në Fond, në emër të Kosovës, një Instrument të pjesëmarrjes duke u zotuar që Kosova të ndërmarr të gjitha obligimet e pjesëmarrjes në Departamentin Special për të Drejtat e Tërheqjes së Fondit, të veproj në emër të Kosovës në këtë departament në pajtim me ligjin e Kosovës duke autorizuar që Kosova të ndërmarr të gjitha hapat e nevojshëm që të kryej të gjitha obligimet e pjesëmarrësit në Departamentin Special për të Drejtat e Tërheqjes.
