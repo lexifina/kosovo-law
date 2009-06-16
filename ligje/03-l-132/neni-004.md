@@ -1,0 +1,7 @@
+# Neni 4
+Zyra të tjera protokolli
+1. Institucionet qendrore dhe lokale të Republikës së Kosovës kanë veçoritë dhe specifikat e tyre në zbatimin e protokollit zyrtar. Pranë tyre funksionojnë zyrat përkatëse të protokollit që trajtojnë drejtpërsëdrejti praktikat protokollare dhe ceremoniale të titullarëve të tyre.
+2. Zyra e protokollit të shtetit mbanë lidhje të ngushta me zyrat e protokolleve të institucioneve qendrore e lokale, komunikon praktikat protokollare, shkëmben informacione, organizon takime konsultative dhe shërben si strukturë qendrore e unifikimit të praktikave protokollare në Republikën e Kosovës.
+3. Zyrat përkatëse pranë institucioneve të shtetit, përgjigjen për aktivitetin zyrtar të titullarëve përkatës, jetën e përditshme me karakter formal ose jo të tyre, lëvizjet brenda territorit të Kosovës, inaugurime, pritje dhe vizita, takime dhe evenimente të ndryshme publike.
+4. Protokolli i Kuvendit përgjigjet për zbatimin e ceremonialit të brendshëm të këtij institucioni, aktivitetit parlamentar dhe rregullimin e aspekteve të ndryshme të marrëdhënieve me trupin diplomatik, marrëdhënieve publike të institucionit dhe takimet e parlamentarëve me delegacionet e huaja.
+5. Protokolli i Ministrisë së Forcës së Sigurisë ka kompetencën e organizimit të ceremonive respektive ushtarake në kuadër të këtij institucioni dhe reparteve ushtarake, në përputhje me normat themelore të Protokollit të Republikës së Kosovës dhe rregulloret ushtarake në fuqi.

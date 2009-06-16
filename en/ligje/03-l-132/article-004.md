@@ -1,0 +1,7 @@
+# Article 4
+Other protocol offices
+1. Central and local institutions have their own specifics and characteristics in implementation of official protocol. Respective protocol offices function to handle directly the protocol and ceremonial practices of other officials.
+2. Office of state protocol keeps close contacts with protocol offices of central and local institutions, communicates the protocol practices, exchanges information, organizes consultative meetings and serves as central structure for unification of protocol practices in the Republic of Kosovo.
+3. Respective offices beside state institutions are responsible for the official activity of respective officials, their daily life with formal or informal character, movements inside the territory of Kosovo, inaugurations, welcomes and visits, meetings and different public events.
+4. The Assembly Protocol is responsible for the implementation of the internal ceremonial of this institution, parliamentary activity and regulation of different aspects of relations with diplomatic body, public relations of the institution and meetings of the members of parliament with foreign delegations.
+5. The protocol of Ministry of Security Force has the competency of organizing respective military ceremonials within this institution and military department, in accordance with basic norms of Protocol of the Republic of Kosovo and military regulation into force.

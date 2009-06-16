@@ -1,0 +1,6 @@
+# Article 28
+Government’s Oath
+1. The ceremony of the new Government’s oath is held in the Republic of Kosovo Assembly. Except members of the parliament invited to attend are from the main state institutions, diplomatic corps accredited in Kosovo, a prominent representative of science, culture and art, heads of religious communities: Muslim, Catholic and Orthodox and other prominent representative of the society in the Republic of Kosovo
+2. The Government members led by the Prime Minister is seated at a certain place according to the rank on Government’s list. The ceremony is opened by the President of the Assembly. The president of the Republic enters and takes the certain seat. All present rise. State anthem is intonated.
+3. After the oath, the new Government holds a meeting in the headquarters of the Prime Minister in the first entrance meeting the Prime Minister greets every minister wishing them success in their duty.
+4. On the occasion of starting the duty, the Prime Minister organizes a hosting for the Diplomatic Mission in one of the Government headquarters. All heads of legations accredited in Kosovo as well as other figures are invited. The list is compiled from the Office of the Prime Minister. This activity is organized by the State Protocol.

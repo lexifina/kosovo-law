@@ -1,0 +1,8 @@
+# Article 23
+The Presidency
+1. The Presidency is the headquarters for the official activities of the President of the Republic of Kosovo. Two guards of honor stand at the entrance of the Presidency in the honor by wearing ceremonial uniforms.
+2. When the President passes by, those present; be they invited or co-operators raise and respond to his salutation. Even those who know the President in person, they should not stop and salute him first. Everyone approaches him with “Mr. President”. The President’s spouse is directed to with Mrs. (her surname follows).
+3. The president of the Republic has the right to keep a distinguished flag as a special sign which identifies the rank of his hierarchy and authority lead and command. At the office of the President, a flag stands behind his chair: the state flag on the right and the distinguished President’s flag on the left.
+4. The internal protocol of the Presidency is led by the head of President’s protocol. He is responsible for the daily meetings which take place at the President’s office, the activities and movements within the Kosovo in accordance with the State Protocol.
+5. If the accompaniment of the president of the Republic by the Ministers is required, this shall be accomplished after a request had been presented by the President to the Cabinet of the Prime Minister.
+6. A red carpet is laid down at the entrance of the Very Important Persons hall, at the airport or at the airplane’s entrance to host and accompany the President of the Republic. The Protocol of the Presidency accomplishes all the formalities of documents necessary before his departure and arrival.

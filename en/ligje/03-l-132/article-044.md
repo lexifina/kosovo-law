@@ -1,0 +1,7 @@
+# Article 44
+The Elements of the Official Ceremonies
+1. The official walking is organized by respecting its first rank, which, as a rule should be an odd number. The place of honor is in between according to the order 4-2-1-3-5. When a certain number of persons in the first order is span, the order of honor is on the right side: 1-2-3-4.
+2. When the authorities depart to take a place in the tribune, they walk in this way: 2-1-3 and in the end the authorities are to fill their certain places assigned by the protocol.
+3. The right side is considered as the place of honor if there are two places, the middle is also considered a place of honor if there are three. The second place of importance is the right side of the middle position; the third is the one on the left and so fourth. If there are two authorities of the same rank, then both of them are placed in between, having an equal number of accompaniers on both sides.
+4. The assignment of the places in halls follows the pattern of advantage of the participants’ ranks. The middle armchair is the point of reference in the first rank or the first armchair on the right of the thoroughfare where the most important person is seated.
+5. In order to respect the ceremonial, a clear map should be compiled for the manner of sharing the places according to the names of the participants in the ceremony and which is distributed to them attached to the invitation.

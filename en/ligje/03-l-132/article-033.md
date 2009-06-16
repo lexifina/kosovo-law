@@ -1,0 +1,10 @@
+# Article 33
+The Hosting in of Foreign Delegation of the Highest Level
+1. In cases of any state and official visit a full ceremony of hosting takes place, with guards of honor and the execution of the national anthems.
+2. Foreign delegation in the level of State President, The President of the Assembly, The Prime Minister, UN- Secretary General, NATO, EC- President or any delegation of the same rank and with an appropriate ceremony is hosted at the Pristine Airport or in the headquarter of the authority who has made the invitation. This is emphasized in the program of the visit which is preliminary approved by the Kosovo hosting authority.
+3. Kosovo authorities are presented by the Kosovo authority, whereas the diplomatic authority is presented by the appropriate embassy.
+4. When the delegation is led by the Minister of Defense, the ceremony takes place in the indoors of the Ministry of the Kosovo Security Force or by the army unit preliminary specified according to the program.
+5. When the head of the delegation is the Prime Minister and Meets the President, this last one is accompanied by the Foreign Affairs Minister and in his absence, by the Deputy Foreign Minster.
+6. In all visits of the delegations in the level of State President, The Prime Minister, Foreign Affairs Minister, the accredited Ambassador of Republic of Kosovo is called by the country where the delegation is from. He is ranked second on the list of the Republic of Kosovo delegation, except when two of the above authorities participate in it.
+7. During the time of the guest’s stay in Kosovo, his state flag is raised in the headquarters, which remains unfolded until the guest leaves.
+8. Foreign delegation, the visits made to other towns of Kosovo is accompanied by a high authority preliminary determined by the State Protocol. In this occasion, the delegation welcomes the Head of Municipality and other authorities of the local government. The accompaniment of the delegation is accomplished in the same way, by the same host persons.

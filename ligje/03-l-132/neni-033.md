@@ -1,0 +1,10 @@
+# Neni 33
+Pritja e delegacioneve të huaja të nivelit të lartë
+1. Në raste vizitash shtetërore dhe zyrtare zhvillohet gjithmonë ceremonia e plotë e pritjes me truprojën e nderit dhe ekzekutimin e himneve shtetërorë.
+2. Delegacioni i huaj i nivelit President Shteti, Kryetar Parlamenti, Kryeministër, Sekretar i Përgjithshëm i OKB-së dhe i NATO-s, President i KE-së dhe i një rangu me ta, pritet me ceremoninë përkatëse në Aeroportin e Prishtinës ose në selinë e autoritetit që e ka ftuar. Kjo fiksohet në programin e vizitës dhe miratohet paraprakisht nga personaliteti pritës i Republikës së Kosovës.
+3. Personalitetet e Republikës së Kosovës prezantohen nga autoriteti i Republikës së Kosovës, kurse personeli diplomatik prezantohet nga ambasadori përkatës.
+4. Kur delegacioni kryesohet nga Ministri i Mbrojtjes, ceremonia zhvillohet në ambientet e Ministrisë së Forcës se Sigurisë ose në repartin ushtarak të përcaktuar që më parë sipas programit.
+5. Kur kryetari i delegacionit është Kryeministër dhe takohet me Presidentin, ky i fundit shoqërohet nga Ministri i Punëve të Jashtme dhe në mungesë të tij nga zëvendësministri i Punëve të Jashtme.
+6. Në të gjitha rastet e vizitave të delegacioneve në nivel President Shteti, Kryeministër dhe Ministër i Punëve të Jashtme, thirret ambasadori i Republikës së Kosovës i akredituar në vendin nga vjen delegacioni dhe renditet i dyti në listën e delegacionit të Republikës së Kosovës, përveç rastit kur në të marrin pjesë dy nga personalitetet e mësipërme.
+7. Gjatë kohës që miku i lartë qëndron në Kosovë, në selinë ku ai vendoset, ngrihet flamuri i tij shtetërorë, i cili qëndron i shpalosur deri në largimin e mysafirit.
+8. Delegacioni i huaj, në vizitat që mund të bëjë në qytetet e tjera të Kosovës shoqërohet nga një personalitet i lartë i përcaktuar që më parë nga Protokolli i Shtetit. Në këto raste delegacionit i uron mirëseardhjen Kryetari i Komunës dhe autoritete të tjera të pushtetit lokal. Përcjellja e delegacionit bëhet në të njëjtën mënyrë dhe nga të njëjtët persona që e presin.

@@ -1,0 +1,8 @@
+# Article 30
+The Hosting at the Prime Ministry
+1. In his headquarters the Prime Minister of the Republic of Kosovo hosts and accompanies visitors according to a preliminarily approved program. He/she welcomes and accompanies the head of a foreign state to his/her car, whereas his/her counterpart accompanies him/her up to the headquarters entrance. Official ceremonies with foreign visitors are directed by the state protocol.
+2. Two hours before the arrival, the flag of the guest state is raised at a certain place, on the left side of Kosovo flag. The flags of both countries are placed in the meeting hall, small measure flags are put on the table of official talks.
+3. Honor ceremony is developed in official visits. It can be held at the airport, at the Prime Minister’s headquarters or any other government headquarter according to the certain scheme.
+4. Honor ceremony is not held in unofficial visits. The Prime minister hosts his guest visitor at the Prime Minister’s headquarters. On occasion, together with the Prime Minister, 2-3 official accompaniers, persons in charge of the protocol, the press and the translator.
+5. The Prime Minister of the Republic of Kosovo hosts high- level guests such as a foreign state President and Prime Minister in the setting of the Residency of the President as well as in other Government headquarters. The same hosting ceremony can take place there as well. On occasion the Prime Minister offers official lunch or dinner for friends.
+6. On occasions when the Prime Minister meets foreign visitors in the minister level, state secretary or authorities of the same level, their hosting takes place in the meeting hall.

@@ -1,0 +1,10 @@
+# Neni 3
+Kompetencat e Protokollit të Shtetit
+1. Protokolli i Shtetit kryen këto funksione:
+1.1. zbaton me saktësi radhën e përparësisë të rangjeve zyrtare të Republikës së Kosovës, Misioneve Diplomatike si dhe e përcakton atë në rastet e veçanta të paparashikuara në këtë ligj. Kriteri themelor i funksionimit të kësaj strukture është respektimi i rangut zyrtar.
+1.2. organizon dhe ndjek ceremonitë e pritjes e të përcjelljes së delegacioneve të huaja të rangut: President, Kryetar i Kuvendit, Kryeministër dhe Ministër i Punëve të Jashtme; harton në bashkëpunim me kabinetet e Presidentit, Kryetarit të Kuvendit, Kryeministrit dhe Ministrit të Punëve të Jashtme programin e vizitës së tyre dhe përgjigjet për zbatimin e tij.
+1.3. përgatit anën protokollare për vizitat zyrtare jashtë shtetit të Presidentit, Kryetarit të Kuvendit, Kryeministrit dhe të Ministrit të Punëve të Jashtme të Republikës së Kosovës. Protokolli i Shtetit, në bashkëpunim me përfaqësitë Diplomatike të Republikës së Kosovës dhe me institucionin homolog të shtetit pritës, përpunon programin e vizitës së personaliteteve të mësipërme.
+1.4. përgjigjet për organizimin e ceremonive për festat zyrtare, memorialë, shtetërorë dhe lokale, në rastet kur ato janë jubilare dhe kur për organizimin e të cilave formohet me vendim të Qeverisë të Republikës së Kosovës një komision shtetëror.
+1.5. përcakton mënyrën e përdorimit të simboleve shtetërore, flamurit, himnit, stemës dhe shenjave të tjera zyrtare sipas Ligjit për përdorimin e simboleve shtetërore të Republikës së Kosovës.
+1.6. bashkërendon takimet e Presidentit të Republikës, Kryetarit të Kuvendit, Kryeministrit, Ministrit të Punëve të Jashtme dhe të Ministrave tjerë me përfaqësuesit diplomatikë të akredituar në Republikën e Kosovës.
+2. Institucionet qendrore apo lokale, si dhe përfaqësitë diplomatike të Republikës së Kosovës janë të detyruara t'i ofrojnë Protokollit të Shtetit informacionin e kërkuar kur ai lidhet drejtpërdrejt ose jo me aktivitetin e tij, me normativat e Protokollit të Shtetit, të konventave të Vjenës "Për marrëdhëniet diplomatike" dhe "Për marrëdhëniet konsullore", si dhe për zbatimin e reciprocitetit.

@@ -1,0 +1,7 @@
+# Neni 39
+Përcjellja e delegacioneve të Republikës së Kosovës të nivelit të lartë
+1. Kur Presidenti i Republikës, Kryetari i Kuvendit, Kryeministri dhe Ministri i Jashtëm udhëtojnë jashtë shtetit për vizitë shteti ose zyrtare, mundet që 1 ditë më parë udhëton për në vendin pritës një punonjës i protokollit të institucionit përkatës ose Protokollit të Shtetit, i cili njihet me përgatitjet, vendin dhe programin e vizitës ose këtë aktivitet e kryen përfaqësia diplomatike e Republikës së Kosovës e akredituar në vendin përkatës.
+2. Delegacioni i lartë përcillet në aeroport nga Drejtori i Protokollit të Shtetit ose zëvendësi. Në përcjelljen e Presidentit të Republikës si rregull marrin pjesë, gjithashtu Sekretari i Presidencës ose shefi i Kabinetit dhe anëtarë të stafit të tij. Merr pjesë edhe ambasadori i vendit përkatës.
+3. Në përcjelljen e Kryeministrit marrin pjesë Sekretari i Përhershëm i Kryeministrisë, Shefi i Kabinetit të Kryeministrit dhe Drejtori i Protokollit të Shtetit ose zëvendësi.
+4. Në përcjelljen e Ministrit të Punëve të Jashtme merr pjesë Shefi i Kabinetit dhe Drejtori i Protokollit të Shtetit ose zëvendësi i tij. Në rastet e vizitave zyrtare asiston edhe ambasadori i vendit përkatës.
+5. Autoritetet e mësipërme vijnë në aeroport vetëm disa çaste përpara ngritjes së aeroplanit. Anëtarët e tjerë të delegacionit kryejnë të gjitha formalitetet përpara mbërritjes së autoritetit dhe hipin të parët në aeroplan. Personi i ngarkuar me protokollin e personalitetit kryen të gjitha formalitetet përpara mbërritjes së tij në aeroport.

@@ -1,0 +1,8 @@
+# Article 25
+The Ceremony of the Assembly
+1. The assembly is a legislative institution of the Republic of Kosovo. As such it has the right of a special ceremonial in its official activity. The office of the Assembly protocol has the competences for treatment and implementation of this ceremonial within the Assembly territory.
+2. The Assembly Protocol leads the ceremonial of the Assembly. Its duties are foreseen in the internal regulation of the Assembly.
+3. The Assembly Protocol organizes, attends and programs the hosting and accompaniment ceremonies as well as all other protocol practices during the visits of foreign delegations of parliamentary interstate institution.
+4. The State Protocol in cooperation with the Assembly Protocol coordinates meetings of the President of the Assembly with the delegations in the level of President, The Prime Minister and the Minister of Foreign Affairs who visit our country and the delegations of young ambassadors who present their credentials has the duty of organizing, accomplishing the activities of the protocol of the Assembly President and his activities in the country and abroad. The meetings of heads of parliamentary groups and deputies are coordinated by the Assembly protocol.
+5. The Assembly Protocol compiles invitations and official telegrams of the President of the Assembly for counterparts and officials of different interstate organizations and institutions and then submits these to the State Protocol.
+6. Attends consular practices with the diplomatic legations accredited in the republic of Kosovo for the visits of the Assembly delegations, for sending the invitations and telegram compliments and compiles the list of participants in official meetings and hosting of the President of Assembly.
