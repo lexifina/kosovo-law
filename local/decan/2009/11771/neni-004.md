@@ -1,0 +1,7 @@
+# Neni 4
+Mbledhjet e Kuvendit Komunal 4.1 Mbledhjet Kuvendit Komunal janë të hapura për publikun dhe për përfaqësuesit e mjeteve të informimit publik.
+4.2 Kuvendi Komunal,nëpërmjet zyrës përgjegjëse për informim njofton publikun të paktën 7 ditë para mbledhjeve të rregullta ose 3 ditë para mbledhjeve të jashtëzakonshme,njoftimi për publikë bëhet përmes: -Shpallja publike në vendet me të frekuentuara brenda territorit të komunës, -Media e shkruar dhe elektronike -Faqe e internetit të komunës -Data e mbledhjes,kohën e mbledhjes,vendin e mbledhjes dhe rendin e ditës.
+4.3 Mbledhjet e Kuvendit Komunal mund të jenë të mbyllura pjesërisht ose tërësisht vetëm për shkaqet e parashikuara nga legjislacion në fuqi. Në këto raste,me vendim të arsyetuar,Kuvendi Komunal i shpallë mbledhjet pjesërisht ose tërësisht të mbyllura për publikun.
+4.4 Të gjitha vendimet dhe aktet tjera normative të Kuvendit Komunal,publikimi i të cilave nuk kufizohet nga legjislacioni në fuqi për qasje në dokumentet zyrtare duhet të bëhen publike një javë pas mbledhjes në të cilën janë marrë vendimet,si më poshtë:
+- Shpallje publike në vend më të frekuentuara brenda territorit të komunës, - Median e shkruar dhe elektronike lokale dhe - Web-faqja e Komunës së Deçanit..
+4.5 Buxheti komunal dhe planet komunale janë dokumente publike. Komuna merr masa për t’i venë në dispozicion të publikut,mjeteve të informimit dhe grupeve te interesit për çështjen që është objekt diskutimit sipas legjislacionit në fuqi.
