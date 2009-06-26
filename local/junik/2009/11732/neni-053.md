@@ -1,0 +1,3 @@
+# Neni 53
+53.1. Çdo zënie arbitrare e truallit me qëllim ndërtimi, përveç dënimit me gjobë, shoqërohet edhe me detyrimin e prishjes së menjëhershme të objektit dhe kthimin e truallit në gjendje të mëparshme me shpenzimet e zënësit të truallit.
+53.2. Caktimi i gjobës, prishja e objektit, kthimi i truallit në gjendje të mëparshme dhe mënyra e zbatimit të vendimit, për veprimet në alinenë 1 të këtij neni, vihet sipas procedurave të parapara me këtë Rregullore dhe rregullativës tjetër në fuqi lidhur me gjobat, rrënimet dhe ekzekutimet e vendimeve dhe urdhëresave për personat e përfshirë në ndërtimet ilegale.

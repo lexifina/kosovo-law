@@ -1,0 +1,3 @@
+# Neni 56
+56.1. Çdo person fizikë apo juridik i përfshirë në ndërtimin ilegal është i obliguar që të paraqes kërkesë për legalizimin e objektit; Drejtorisë për Planifikim, Urbanizëm, Gjeodezi, Kadastër dhe Mjedis.
+56.2. Kërkesës për legalizim i bashkëngjitet: � dëshmia për të drejtën pronësore në ngastrën kadastrale në të cilën është bërë ndërtimi, ndërsa për � mbindërtime dhe shëndrrim edhe analizën nga instituti Profesional përkatës lidhur me stabilitetin e objektit dhe ndikimin e mbindërtimit apo shëndrrim në atë objekt si dhe � provën mbi bazën ligjore në bazë të të cilës është bërë mbindërtimi.

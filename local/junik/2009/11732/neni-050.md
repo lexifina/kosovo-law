@@ -1,0 +1,7 @@
+# Neni 50
+50.1. Inspektimin e zhvillimit të punëve ndërtimore në të gjitha fazat e ndërtimit të objektit ndërtimor e bënë organi komunal për punët e inspekcionit ndërtimor.
+50.2. Gjatë inspektimit të zhvillimit të punëve ndërtimore, konstatohet se personi i përfshitë në ndërtim zhvillon, përkatësisht nuk i zhvillon punimet ndërtimore sipas lejes ndërtimore, kushteve urbanistiko-teknike dhe dokumentacionit teknik.
+50.3. Nëse gjatë mbikëqyrjes inspektuese, konstatohet se personi i përfshirë në ndërtim nuk i është përmbajtur kushteve urbanistiko-teknike të caktuara me leje urbanistike dhe leje ndërtimore si dhe dokumentacionit tjetër teknik, inspektori i ndërtimtarisë lëshimet e konstatuara do ti evidentoj në procesverbal me urdhëresë për ndërprerjen e zhvillimit të punimeve.
+50.4. Një kopje e procesverbalit mbi gjendjen e konstatuar i dërgohet organit komunal që ka lëshuar lejen ndërtimore.
+50.5. Nëse organi që ka lëshuar lejen e ndërtimit pas vërtetimit të gjendjes faktike dhe sigurimit të provave plotësuese, konstaton se investitori nuk iu është përmbajtur kushteve urbanistiko-teknike të caktuara me lejen urbanistike, ndërtimore dhe dokumentacionin tjetër teknik, i njëjti revokon lejen ndërtimore dhe informon organin përgjegjës për fillimin e procedurës së parapara për marrjen e masave ndaj personave të përfshirë në ndërtimin e objekteve pa leje ndërtimore.
+50.6. Çdo mosbashkëpunim apo pengim i inspektimit të zhvillimit të punëve ndërtimore nga investuesi, është i ndaluar dhe sanksionuar sipas rregullative ligjore në fuqi.

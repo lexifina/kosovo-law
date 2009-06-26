@@ -1,0 +1,5 @@
+# Neni 39
+39.1. Deri në themelin e një organizate të specializuar në nivel të Kosovës, kontrollimin e dokumentacionit teknik e bënë organizata apo firma projektuese profesionale e cila nuk ka marrë pjesë në hartimin e dokumentacionit.
+39.2. Organizata apo firma që bënë kontrollimin teknik mban tërë përgjegjësinë për dokumentacionin teknik lidhur me atë se, ky dokumentacion është hartuar në bazë të rregullativës ligjor në fuqi, standardeve, të normativave teknike e të normave të cilësisë, të cilat aplikohen në ndërtimin e llojit përkatës të objekteve në rajonet sizmike, zgjidhjet teknike dhe teknologjike që i përmban projekti, me saktësinë e paramasës dhe parallogaritë si dhe me specifikimin e punimeve me vlerësimin real të tyre.
+39.3. Organizata apo firma që ka bërë kontrollimin e dokumentacionit teknik është e obliguar që parregullsitë e konstatuara gjatë kontrollimit të dokumentacionit teknik ti evidentoj dhe ti konstatoj në vlerësimin përfundimtar, si dhe ta njoftojë investitorin për parregullsitë në projekt.
+VII. FILLIMI I ZHVILLIMIT TË PUNËVE NDËRTIMORE

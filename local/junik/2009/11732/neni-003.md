@@ -1,0 +1,2 @@
+# Neni 3
+Me punime ndërtimore në kuptim të kësaj Rregulloreje, konsiderohen: ndërtime të reja të çdo lloji mbi dhe nëntokësore, aneks ndërtimet, mbi ndërtime, impiante të ndryshme: rrugë, ura, trotuare, aeroporte, punime infrastrukture (ujësjellës, kanalizim, telefoni, elektrik etj.), ndërtime mbi themele ekzistuese, ndryshime që prekin anën e jashtme arkitektonike të objektit, zhvillimi i punimeve që prekin konstruksionin e objektit, ekzistues, hapje dhe mbyllje dritaresh, si dhe hapje tjera, suvatime, rrethime të përkohshme dhe përhershme, ndërtime barakash.
