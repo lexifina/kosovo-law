@@ -1,0 +1,5 @@
+# Neni 8
+1. Karakteristikat e betonit si produkt dhe konstruksioneve të betonit duhet të jenë të tilla që gjatë jetëgjatësisë së objektit, bazuar në projektin, ekzekutimin dhe mirëmbajtjen të pranojnë të gjitha ndikimet gjatë shfrytëzimit si dhe të përballojnë ndikimet e ambientit me qëllim që gjatë ndërtimit dhe përdorimit mos të vijë deri te:
+1.1 shkatërrimi i objektit apo i një pjese të tij, 1.2 deformime në shkallë të patolerueshme, 1.3 shkatërrimin e një pjese të tërësisë së ndërtimit nga deformimi i konstruksionit të betonit dhe 1.4 dëmtimet e mëdha të ndërtesës apo pjesëve të saj në krahasim me shkakun e ndodhjes.
+2. Karakteristikat teknike të betonit si produkt dhe konstruksionit të betonit, nga kushtet e paragrafit 1, duhet të jenë të tilla që në rast të zjarrit të ruhet aftësia mbajtëse e konstruksionit ose pjesës së tij brenda një intervali të caktuar kohor, përshkruar me dispozitë të veçantë.
+3. Karakteristikat teknike të betonit si produkt dhe konstruksionit të betonit sipas paragrafi 1 dhe 2 përcaktohen me projektim dhe arrihen me ekzekutim dhe mirëmbajtje të konstruksionit të betonit në pajtim me dispozitat e këtij Udhëzimi.

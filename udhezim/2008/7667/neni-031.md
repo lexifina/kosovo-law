@@ -1,0 +1,3 @@
+# Neni 31
+1. Mirëmbajtja e betonit dhe konstruksionit të betonit duhet të jetë e tillë që gjatë jetëgjatësisë së objektit ndërtimor të ruhen karakteristikat e tij teknike dhe të plotësohen kërkesat e përcaktuara me projektin e objektit dhe me këtë Udhëzim si dhe karakteristikat tjera themelore që objekti duhet të plotësojë në pajtim me dispozitën e veçantë.
+2. Mirëmbajtja e betonit dhe konstruksionit të betonit i cili është ekzekutuar përkatësisht është duke u ekzekutuar në pajtim me dispozitat e mëparshme në fuqi duhet të jetë e tillë që për jetëgjatësinë e objektit të ruhen karakteristikat e tij teknike dhe të plotësohen kërkesat e përcaktuara me projekt të objektit dhe në pajtim me dispozitat me të cilat është ekzekutuar konstruksioni i betontit.

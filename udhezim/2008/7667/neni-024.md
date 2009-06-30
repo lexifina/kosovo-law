@@ -1,0 +1,3 @@
+# Neni 24
+1. Ndërtimi i objektit ndërtimor që përmban betonin si produkt ndërtimi dhe konstruksionin e betonit duhet të ketë karakteristika teknike që përmbushin kërkesat e parapara me ketë udhëzim në përputhshmëri me kushtet teknike të ndërtimit të dhëna me projekt, e të sigurohet ruajtja e këtyre karakteristikave dhe përdorshmëria e objektit të ndërtimit gjatë kohës së shfrytëzimit.
+2. Gjatë ekzekutimit të konstruksionit të betonit, ekzekutuesi është i obliguar që t'i përmbahet projektit të konstruksionit të betonit dhe udhëzimeve teknike për punim dhe trajtim të produkteve të ndërtimit si dhe dispozitave të këtij Udhëzimi.

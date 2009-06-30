@@ -1,0 +1,7 @@
+# Neni 11
+1. Konstruksioni i betonit duhet që edhe pas rekonstruimit apo adaptimit që është pjesë e objektit të ndërtimit të përmbushë karakteristikat teknike të përshkruar me nenin 8 dhe nenin 10 të këtij Udhëzimi.
+2. Përjashtimisht nga paragrafit 1 i këtij neni, konstruksioni i betonit duhet të ketë së paku karakteristika teknike që ka pasur para rekonstruimit gjegjësisht adaptimit të objektit ndërtimor dhe nuk lejohet që ato karakteristika pas rekonstruimit apo adaptimit të ndryshojnë me shumë se 5%, e sidomos ato karakteristika teknike që kanë të bëjnë me rezistencën mekanike dhe stabilitetin.
+3. Dispozitat nga paragrafi 2 të këtij neni nuk aplikohen në:
+3.1 pjesët e reja të konstruksionit të betonit që rezultojnë me rekonstruimin përkatësisht adaptimin, 3.2 rekonstruimet e shumëfishta përkatësisht adaptimet e objektit ndërtimor si rezultat i të cilave ndryshohen në tërësi apo pjesë të caktuara të karakteristikave teknike të konstruksionit të betonit, e sidomos të atyre që ndikojnë në rezistencën mekanike dhe stabilitetin e objektit ndërtimor.
+3.3 rekonstruimet përkatësisht adaptimet e objektit ndërtimor në të cilin konstruksioni i betonit është dëmtuar në atë masë sa që ekziston rreziku për jetë dhe shëndet të njerëzve, mjedis, natyrë, objekte tjera ndërtimore dhe sende ose stabilitet të trollit në hapësirën tokësore përreth.
+PRODUKTET NDËRTIMORE PËR BETONIN DHE KONSTRUKSIONET E BETONIT

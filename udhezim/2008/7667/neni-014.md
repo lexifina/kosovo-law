@@ -1,0 +1,6 @@
+# Neni 14
+1. Vetitë e specifikuara, dëshmimi i përdorshmërisë, vërtetimi i konformitetit si dhe shënjimi i produkteve ndërtimore, ekzaminimi i produkteve ndërtimore, veçantive gjatë projektimit dhe ndërtimit, procedurat e nevojshme të kontrollit dhe kërkesat tjera që duhet t’i përmbushë produkti ndërtimor janë përcaktuar në shtojcat e këtij Udhëzimi dhe atë për:
+1.1 Beton- në shtojcën A, 1.2 armaturë, çelik për armim dhe çelik për paranderje-në shtojcën B, 1.3 çimento – në shtojcën C, 1.4 agregatet – në shtojcën D 1.5 shtesat e betonit dhe shtesat e llaçit për injektime -në shtojcën E 1.6 uji- në shtojcën F, 1.7 elementet e parapërgatitura të betonit-në shtojcën G 1.8 produktet për mbrojtje dhe riparim të konstruksioneve të betonit-në shtojcën K
+2. Vërtetimi i konformitetit të produkteve të cilat nuk janë të përfshira me standarde ose dukshëm devijojnë nga standardet e harmonizuara në të cilat referohen shtojcat nga paragrafi 1 , të këtij neni, zbatohet përmes aprovimeve teknike për ato produkte.
+3. Vërtetimi i konformitetit sipas paragrafit 1 dhe 2 të këtij neni përfshinë punët e vlerësimit të konformitetit të produkteve të ndërtimit bazuar në sistemin e përshkruar për vlerësim të konformitetit për produktet ndërtimore, që përcillet me shenjën e certifikatës së konformitetit.
+PROJEKTMI I BETONIT DHE KONSTRUKSIONEVE TË BETONIT

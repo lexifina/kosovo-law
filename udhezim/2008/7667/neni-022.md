@@ -1,0 +1,4 @@
+# Neni 22
+1. Përveç kushteve të përcaktuara me dispozitat e neneve 15, 16, 17, 18, 19, 20 dhe 21, të këtij Udhëzimi, projekti i betonit dhe konstruksioneve të betonit të parapërgatitur ose gjysmë të përgatitur, obligohen të përmbajnë zgjidhjen teknike për:
+1.1 elementet e parapërgatitura të betonit si dhe mënyrën e prodhimit përkatësisht punimit të tyre.
+1.2 punimin e elementeve të parapërgatitur të betonit në konstruksionin e betonit, përfshirë llogaritjen dhe karakteristikat e kërkuara të materialit lidhës si dhe mënyrën e lidhjes 1.3 bartjen dhe transportin e elementeve të parapërgatitura të betonit si: vendi, mënyra e lidhjes, ngritja si dhe ngarkesën e projektuar dhe shmangiet e lejuara të ngarkesës së elementeve të parapërgatitura të betonit, 1.4 renditjen e mbështetësve, përforcimet e nevojshëm dhe masat tjera për sigurimin e stabilitetit gjatë vendosjes dhe lidhjes së elementeve të parapërgatitura të betonit.

@@ -1,0 +1,5 @@
+# Neni 28
+1. Ekzekutimi i konstruksioneve të betonit duhet të jetë e tillë që të plotësojë kërkesat teknike të përcaktuara me projekt dhe me këtë Udhëzim.
+2. Kushtet për ekzekutimin e konstruksionit të betonit caktohen me programin e kontrollit dhe sigurimin e cilësisë që është pjesë përbërëse e projektit kryesor të konstruksionit të betonit dhe duhet të jenë në pajtim me dispozitat e shtojcës J të këtij Udhëzimi.
+3. Nëse zgjidhja teknike e konstruksionit të betonit gjegjësisht nëse kushtet në të cilat ekzekutohen punimet dhe rrethanat tjera janë të tilla që mund të jenë me ndikim në karakteristikat teknike të konstruksionit të betonit dhe te cilat nuk janë përfshirë në dispozitat e shtojcës J të këtij Udhëzimi, atëherë me programin e kontrollit dhe të sigurimit të cilësisë duhet të rregullohen kushte të veçanta të konstruktimit me të cilat plotësohen kërkesat nga paragrafi 1 i këtij neni.
+4. Në shtojcën J janë të përcaktuar më në detale ekzekutimi dhe mirëmbajtja e konstruksionit të betonit.

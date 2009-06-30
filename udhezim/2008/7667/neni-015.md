@@ -1,0 +1,5 @@
+# Neni 15
+1. Gjatë projektimit të betonit dhe konstruksionit të betonit duhet që të merren parasysh të gjitha ndikimet që paraqiten në beton dhe konstruksionin e betonit që rezultojnë nga hapat e ndërtimit si dhe ndikimet tjera të rrethinës gjatë kohës së shfrytëzimit të objektit.
+2. Me projektimin e betonit dhe konstruksionit të betonit, në pajtim me këtë udhëzim, duhet te dëshmohet se objekti i ndërtimit gjatë fazës së ndërtimit i përmbushë kërkesat themelore si: rezistencën mekanike dhe stabilitetit, rezistencën ndaj zjarrit si dhe kërkesat tjera themelore me dispozita te veçanta.
+3. Jetëgjatësia e përdorshmërisë se objektit të ndërtimit, nga paragrafi 1 i këtij neni, duhet të jetë se paku 50 vite nëse me këtë ose me dispozitë të veçantë nuk është e rregulluar ndryshe.
+4. Me qëllim të plotësimit të kërkesave të përcaktuara me këtë Udhëzim, kur është e nevojshme mbrojtje shtesë e konstruksionit të betonit, kjo mbrojtje do të konsiderohet pjesë përbërëse e zgjidhjes teknike të konstruksionit të betonit.

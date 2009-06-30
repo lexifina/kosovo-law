@@ -1,0 +1,2 @@
+# Neni 36
+Nëse për projektim të konstruksionit të betonit, në pajtim me nenin 17 paragrafi 1 i këtij Udhëzimi, nuk ka specifikime teknike-para-standarde kosovare përkatësisht standarde në të cilat referohen seria e para-standardeve ENV 1991, ENV 1992, ENV 1997 dhe ENV 1998, aplikohen dispozitat përkatëse te rregullave teknike të pranuara e që nuk janë në kundërshtim me këtë Udhëzim, me dispozitat të veçanta, si dhe me standardet qe u referohen dispozitave te këtij Udhëzimi, ndërsa për përcaktim se cilat janë në pajtim me ligjin është përgjegjës projektuesi.

@@ -1,0 +1,5 @@
+# Neni 32
+1. Mirëmbajtja e betonit dhe konstruksionit të betonit përfshinë:
+2.1 kontrolla të rregullta të betonit dhe konstruksionit të betonit, në intervale kohore dhe në mënyrën e përcaktuar me projektin e objektit, me këtë Udhëzim dhe/ose me dispozitë të veçantë, 2.2 kontrolla të jashtëzakonshme të betonit dhe konstruksionit të betonit pas ndonjë ngjarje të jashtëzakonshme ose me kërkesë të inspektoratit, 2.3 ekzekutimin e punëve me të cilat betoni dhe konstruksioni i betonit mbahet ose kthehet në gjendjen e caktuar me projekt të objektit dhe me këtë Udhëzim, gjegjësisht në pajtim me dispozitën me të cilën është ekzekutuar konstruksioni i betonit.
+2. Përmbushja e kushteve të përcaktuara për mirëmbajtjen e betonit dhe konstruksionit të betonit dokumentohet në pajtim me projektin e objektit dhe atë me:
+2.1 raportet e kontrolleve dhe ekzaminimeve të betonit dhe konstruksionit të betonit, 2.2 regjistrimet e punëve të mirëmbajtjes, 2.3 ndonjë mënyrë tjetër të përshtatshme, nëse me këtë Udhëzim ose me dispozitë tjetër nuk është përcaktuar ndryshe.
