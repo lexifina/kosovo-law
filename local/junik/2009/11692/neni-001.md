@@ -1,0 +1,2 @@
+# Neni 1
+Me këtë Rregullore përcaktohet lartësia e shpenzimeve të bëra në procedurën e kryerjes së mbikëqyrjes inspektuese (Komisioni Komunal), sipas kërkesës së palës me qëllim të përcaktimit të plotësimit të kushteve minimale, në shqyrtimin e hapësirave punuese, pajisjeve dhe stabilimenteve, kushteve higjienike-sanitare dhe kushteve të mbrojtjes në punë, për fillimin e punës dhe kryerjes së veprimtarisë.
