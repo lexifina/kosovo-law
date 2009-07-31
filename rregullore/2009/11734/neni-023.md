@@ -1,0 +1,7 @@
+# Neni 23
+23. 1 Personi juridik i cili e ka punuar projektin e gjendjes ekzistuese, ku sipas incizimit të gjendjes ekzistuese të paraqitur në projekt, nuk përputhet me gjendjen reale të lokacionit të objektit, do të gjobitet për kundërvajtje, me gjobë në të holla në shumë prej 2.000 € deri 7.000 €.
+23.2, Personi përgjegjës i cili e ka bërë projektin, nga paragrafi 1 i këtij neni, do të gjobitet për kundërvajtje, me gjobë në të holla në shumë prej 500 € deri 1.000 €.
+23.3 Personi i licencuar për punët e projektimit i cili e ka punuar projektin e gjendjes ekzistuese, do të gjobitet për kundërvajtje, me gjobë në të holla në shumën prej 1.000 € deri 3.000 €, nëse më vonë konstatohet se objekti nuk i përmbush kërkesat themelore të objektit ndërtimor.
+23.4 Personi i licencuar për projektim i cili e ka punuar projektin e sanimit të objektit ndërtimor, do të gjobitet për kundërvajtje, me gjobë në të holla në shumën prej 1.000 € deri 5.000 €, nëse më vonë vërtetohet se objekti i sanuar sipas projektit të sanimit nuk i përmbush kërkesat themelore për objektin ndërtimor.
+23.5 Edhe pronari i objektit, nga paragrafi 1 i këtij neni, në rolin e projektuesit, do të gjobitet për kundërvajtje, me gjobë në të holla në shumën prej 1.500 € deri në 3.000 €.
+IV. DISPOZITAT KALIMTARE DHE PËRFUNDIMTARE
