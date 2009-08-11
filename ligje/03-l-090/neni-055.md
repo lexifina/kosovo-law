@@ -1,0 +1,3 @@
+# Neni 55
+Bartja e Marrëveshjes
+Përveç ashtu si parashihet me nenin 54 të këtij ligji; të drejtat dhe detyrimet e Partnerit privat sipas Marrëveshjes, nuk mund tu barten palëve të treta pa pëlqimin e Autoritetit Kontraktues. Marrëveshja do të përcaktojë kushtet nën të cilat Autoriteti Kontraktues do të japë pëlqimin e tij për bartje të të drejtave dhe detyrimeve të Partnerit privat sipas Marrëveshjes, përfshirë këtu pranimin nga Partneri i ri privat të të gjitha detyrimeve përkatëse dhe dëshmive për mundësitë teknike dhe financiare të Partnerit të ri privat, të nevojshme për ofrimin e shërbimit.

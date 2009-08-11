@@ -1,0 +1,9 @@
+## PART I
+## Identification of Potential Projects
+# Article 18
+Public Sector Initiative
+1. The identification of Potential Projects shall be done by the competent Contracting Authority, a Public Authority, the PPP-ISC or the PPP Unit.
+2. Before going to tender, the Contracting Authority shall carry out an investment-grade project feasibility study, as well as a viability and bank ability analysis to decide whether a potential Project should be implemented. This analysis shall be based upon the principles of value for money, as well as with sector strategic objectives, the technical and commercial feasibility of the potential project and its ability to attract potential private partners and private financing.
+3. In the event that a proposed Concession or Public-Private-Partnership does not meet reasonable criteria confirming the Project’s feasibility and value for money, then the Contracting Authority shall not be permitted to proceed to tender the project under this law.
+4. The PPP Unit and the PPP-ISC shall have the authority to review the studies identified herein and if reasonably required, insist that additional studies be carried out by either the Contracting Authority or the PPP Unit prior to issuing a determination as to whether the project is authorized to proceed to tender.
+5. Except identified projects in paragraph 5 of article 12 including municipality works without economic support, budgetary guaranties and/or quota obligations in amount higher than 5% of the annual budget in respective municipality, all PPP projects should have a written formal approval from PPP-ICS before continuing with the tender. The authorization shall be given or refused based on technical review of physibility study of the investing scale and other documents related to the project, and based on recommendations made by PPP unit in relation to draft documents of the tender.
