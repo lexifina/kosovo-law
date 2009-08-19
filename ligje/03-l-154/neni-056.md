@@ -1,0 +1,7 @@
+# Neni 56
+Shuarja e bashkëpronësisë
+1. Shuarja e bashkëpronësisë bëhet përmes njërës nga këto mënyra: ndarjes, marrjes përsipër të sendit nga një bashkëpronar, braktisjes së sendit të luajtshëm, apo kur vendoset në ankand të paluajtshmërive.
+2. Në qoftë se bashkëpronarët vlerësojnë se tjetërsimi te personi i tretë është i papranueshëm për të gjithë bashkëpronarët, atëherë sendi mund të shitet në ankand publik dhe të ardhurat do të ndahen bashkëpronarëve sipas pjesëve të secilit.
+3. Në qoftë se shuarja e bashkëpronësisë bëhet përmes ndarjes në natyrë apo kur një apo më shumë bashkëpronarë e fitojnë pronësinë në tërë sendin, atëherë vlera e qarkullimit të sendit duhet të përcaktohet përmes ekspertizës të një eksperti zyrtar, nëse nuk heqin dorë të gjithë bashkëpronarët nga ekspertiza e vlerës.
+4. Në qoftë se ndërmjet bashkëpronarëve nuk mund të arrihet pajtimi rreth mënyrës së procedurës për zgjidhjen e bashkëpronësisë, atëherë sendi i përbashkët, nëse është i luajtshëm, duhet të tjetërsohet përmes rregullave të shitjes së pasurisë që është peng, ndërsa kur është një paluajtshmëri përmes shitjes në ankand detyrues, ndërsa të ardhurat e krijuara duhet tu ndahen bashkëpronarëve në pajtim me pjesët e tyre. Në qoftë se tentativa për tjetërsimin e pronësisë nuk është e suksesshme, atëherë një bashkëpronarë mund të kërkojë përsëritjen, nëse ai i merr përsipër shpenzimet.
+NËN-KAPITULLI 2 PRONËSIA NË NJËSI TË NDËRTESËS

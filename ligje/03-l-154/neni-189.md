@@ -1,0 +1,4 @@
+# Neni 189
+Mbarimi i hipotekës me denoncim
+1. Në qoftë se arritshmëria e kërkesës së siguruar varet nga një denoncim i kontratës së hipotekës, në rast se pronari i paluajtshmërisë së ngarkuar nuk është edhe debitor i kërkesës së siguruar, është i vlefshëm denoncimi i hipotekës, vetëm nëse denoncimi është deklaruar nga kreditori ndaj pronarit të paluajtshmërisë të ngarkuar ose nga pronari ndaj kreditorit.
+2. Nëse pronari i paluajtshmërisë të ngarkuar nuk ka vendqëndrim në Kosovë ose nëse personi që denoncon hipotekën është në paqartësi rreth personit, ndaj të cilit deklarohet denoncimi, ose adresa e tij i është e panjohur, atëherë me kërkesë të kreditorit të kërkesës të siguruar, gjykata në rrethin e së cilës shtrihet paluajtshmëria e ngarkuar ia cakton pronarit një përfaqësues, ndaj të cilit kreditori mund ta shprehë denoncimin e hipotekës.

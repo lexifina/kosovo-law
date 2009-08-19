@@ -1,0 +1,4 @@
+# Article 20
+Danger Emanating from Assets
+1. No person acts unlawfully if he damages or destroys movable property belonging to another person, in order to ward off from himself or a third person an imminent danger deriving from such movable property, provided that the damage to or destruction of the movable property was necessary to ward off the danger. If the danger was prompted by the person damaging or destroying the movable property or if that person could have avoided the imminent danger but intentionally or negligently failed to do so, this person is liable to compensate the owner of the movable property for the damage caused.
+2. The owner of moveable or immovable property is not entitled to prevent others from exercising authority over such property if this is necessary to ward off an imminent danger, provided the danger would cause disproportionate damage compared to the damage caused to the owner. The owner can demand compensation for any damage caused.

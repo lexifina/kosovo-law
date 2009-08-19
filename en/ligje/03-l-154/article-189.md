@@ -1,0 +1,4 @@
+# Article 189
+Termination of the Mortgage by notification
+1. If the maturity of the secured claim is dependent on a notice of termination, the notice of termination is, if the owner of the encumbered immovable property unit is not the same person as the debtor of the secured claim, only effective if it is declared by the creditor to the owner of the encumbered property unit or by the owner to the creditor.
+2. If the owner of the encumbered immovable property unit is not resident in Kosovo, or if the person giving notice of termination is unaware of the whereabouts of the person who has to receive the notice, then the court, in whose district the immovable property unit is located, shall, upon application of the creditor, appoint a representative, to whom the creditor’s notice can be served.

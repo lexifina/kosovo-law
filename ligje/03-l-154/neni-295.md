@@ -1,0 +1,4 @@
+# Neni 295
+1. Për të gjitha të drejtat e shfrytëzimit, servituteve sendore, servituteve personale dhe barrës sendore të cilat në kohën e hyrjes në fuqi të ligjit janë të vlefshme, zbatohen edhe mëtutje dispozitat, të cilat ishin të vlefshme para hyrjes në fuqi të këtij ligji.
+2. Duke iu shmangur paragrafit 1 të këtij neni përcaktohen domosdoshmëria, kushtet dhe efektet e një regjistrimi të të drejtave të përmendura në paragrafin 1 të këtij neni sipas dispozitave, të cilat në kohën e hyrjes në fuqi të këtij ligji janë të vlefshme ose nxjerrën në të ardhmen.
+3. Në qoftë se është i nevojshëm një regjistrim në Regjistrin për pronat e paluajtshme sipas dispozitave, të cilat vlejnë në kohën e hyrjes në fuqi të këtij ligji, atëherë duhet të paraqitet kërkesa për regjistrim brenda tre muajsh pas hyrjes në fuqi të këtij ligji, përndryshe shuhet e drejta.

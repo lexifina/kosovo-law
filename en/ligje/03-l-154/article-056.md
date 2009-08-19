@@ -1,0 +1,6 @@
+# Article 56
+Termination of Joint Ownership
+1. Joint ownership may be terminated in one of the following ways: severance, one or more of the joint owners acquiring the entire property, disposal of the movable property, or an auction of the immovable property.
+2. If all of the joint owners deem the transfer to a third party inappropriate, the property may be sold at a public auction and the proceeds shall be allocated to the joint owners according to their shares.
+3. If the termination of joint ownership takes place through severance or by one or more of the joint owners acquiring the entire property, the value is determined by an officially appointed appraiser, unless all joint owners wave their right to the official appraisal.
+4. If joint owners cannot agree on how to proceed with the termination of their joint ownership, a movable property shall be disposed of in accordance with the rules on the disposal of pledged property, and immovable property shall be disposed of through a compulsory auction with the proceeds allocated to the joint owners in accordance with their shares. If an attempt to transfer ownership is unsuccessful, a joint owner may request that an additional attempt to be made, provided that he covers the expenses if this attempt is unsuccessful.

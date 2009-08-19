@@ -1,0 +1,5 @@
+# Neni 275
+Kompensimi i shfrytëzimit
+1. Në qoftë se për kompensim për shfrytëzimin e paluajtshmërisë është kushtëzuar një kompensim në pagesa të përsëritshme, atëherë për kompensimin e shfrytëzimit zbatohen përshtatshmërisht dispozitat për barrën sendore.
+2. Kompensimi i shfrytëzimit duhet paraprakisht përcaktuar në lartësi të caktuar dhe për kohëzgjatjen e caktuar. Kompensimi i shfrytëzimit mund të llogaritet me ndonjë valutë të huaj. Sigurimi i vlerës së kompensimit të shfrytëzimit mundet përveç kësaj të lidhet me indekset zyrtare të cilat tregojnë një lidhshmëri faktike me të drejtën e ndërtimit. Nëse nuk është e mundshme që kompensimi i shfrytëzimit të lidhet me indekse të tilla, është e lejuar që të bëhet përshtatja në lartësinë e shkallës së inflacionit, të konstatuar në mënyrë zyrtare.
+3. Nëse është e pamundshme të përcaktohet kompensimi i shfrytëzimit, atëherë gjykata kompetente do të caktoj kompensimin adekuat të shfrytëzimit. Për përshtatshmërinë e kompensimit nuk merren parasysh rrethanat personale të palëve.

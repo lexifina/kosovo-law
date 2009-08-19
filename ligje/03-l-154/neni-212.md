@@ -1,0 +1,4 @@
+# Neni 212
+Shitja 1. Paluajtshmëria e ngarkuar shitet sipas dispozitave të këtij neni dhe nenit vijues. Çdo dispozitë tjetër në kontratën e hipotekës është e pavlefshme.
+2. Shitjet mund të bëhen në çdo ditë prej të hënës deri të shtunën mes orës 9 dhe orës 15, me përjashtim të ditëve të festave, mirëpo jo para dyzetepesë (45) ditëve që nga regjistrimi i njoftimit për shitje dhe jo më vonë se nëntëdhjetë (90) ditë që nga ky regjistrim.
+3. Para fillimit të kërkesës që të paraqiten ofertat, agjenti i shitjes mund të kërkojë si dëshmi të kualifikimit nga secili pjesëmarrës në ankand depozitimin e një shume prej dhjetë (10) përqind të shumës minimale të një oferte. Depozitimi bëhet në të holla të gatshme ose në një formë tjetër, e cila i përgjigjet pagesës në të gatshme sipas njoftimit të shitjes.
