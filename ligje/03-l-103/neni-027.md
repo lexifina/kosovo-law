@@ -1,0 +1,5 @@
+# Neni 27
+Falimentimi i Lizingmarrësit
+1. Në rast të emërimit të një Administratori të falimentimi për pronën e lizingmarrësit, Aseti objekt lizingu përjashtohet nga pasuria e falimentuar e lizingmarrësit, si dhe prej detyrimit ndaj kreditorëve të përgjithshëm dhe i rikthehet lizingdhënësit.
+2. Në mënyrë të pavarur nga dispozita në paragrafin 1 të këtij neni, personi i besuar në falimentim mund të njoftojë lizingdhënësin, nëpërmjet postës së regjistruar, brenda tridhjetë (30) ditë pune nga data e lajmërimit të falimentimit, që lizingmarrësi dëshiron të vazhdojë me Kontratën e lizingut, rast në të cilin Kontrata e lizingut mbetet në fuqi, me kushtin që këstet e lizingut të jenë paguar në bazë të Kontratës së lizingut.
+3. Në mënyrë të likuidimit të lizingmarrësit, i cili është një entitet juridik, pavarësisht nëse likuidimi është i detyrueshëm ose vullnetar, Aseti objekt lizingu mund të riposedohet nga lizingdhënësi, pa cenuar të drejtat e lizingmarrësit të parashtruara në Kontratën e lizingut.

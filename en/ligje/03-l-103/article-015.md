@@ -1,0 +1,5 @@
+# Article 15
+Lessor’s right to inspect the Leased Asset, Labels and Registration
+1. The Lessor has a right to execute inspection of Leased Asset any time during the lease term. Inspection shall not obstruct the Lessor’s warranty of quiet use and possession. The right to inspect will not be used as a way to interfere with any aspect of the Lessee’s possessor right.
+2. The Leasing Agreement may provide that during the Leasing term the Leased Asset be labeled as owned by the Lessor or subject to a lease from the Lessor, and such labels may not be removed or rendered throughout the duration of the Lease Term illegible by anyone other than the Lessor or its authorized agent.
+3. The existing of the Leasing Agreement as to a Leased Asset may be registered in any appropriate registry for such property, including but not limited to, the Pledge Filing Office for moveable property established under the law in force, under the Motor Vehicle registry, real estate/land registry or any registry for intellectual property.
