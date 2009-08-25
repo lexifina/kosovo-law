@@ -1,0 +1,10 @@
+# Article 8
+EULEX Provisions
+1. For the duration of the EULEX Mission in Kosovo, the EULEX experts at the Department of Forensic Medicine shall monitor, mentor and advise the local experts at the Department, while working in mixed teams.
+2. The EULEX experts shall work closely with the local authorities to develop the local capacity and to ensure that the Department of Forensic Medicine have enough well trained experts capable of providing forensic expertise meeting the international standards and European best practices:
+2.1. The EULEX experts shall conduct all forensic examinations including autopsies in mixed teams with local forensic experts.
+2.2. The EULEX experts at the Department of Forensic Medicine shall participate in any type of forensic examinations, including autopsies in all cases where a EULEX Prosecutor has been assigned to the criminal proceedings in accordance with Art. 8 of the Law on Jurisdiction, Case Selection and Case Allocation of EULEX Judges and Prosecutors in Kosovo and in all cases where an EULEX Judge has been assigned to the criminal proceedings pursuant to Arts. 3 and 4 of the Law on Jurisdiction, Case Selection and Case Allocation of EULEX Judges and Prosecutors in Kosovo.
+3. The EULEX Mission staff members will be co-located within the premises of the Department of Forensic Medicine.
+3.1. The EULEX Mission in Kosovo will appoint a EULEX Co-head of the Department of Forensic Medicine who will be responsible together with the local Director of the Department of Forensic Medicine for providing policy guidance, and strategy development in the area of the Forensic Medicine.
+3.2. The EULEX Co-head of the Department of Forensic Medicine shall be responsible for the management of the EULEX staff deployed at the Department of Forensic Medicine.
+3.3. The operational management, division of labour and composition of mixed teams will be regulated with an Arrangement between the EULEX Co-head of the Department of Forensic Medicine and of the local Director of the Department of Forensic Medicine.
