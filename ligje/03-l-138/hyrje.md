@@ -1,0 +1,6 @@
+Ligji Nr. 03/L-138
+PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJIT NR.2004/5 PËR TREGTINË ME NAFTË DHE DERIVATE TË NAFTËS NË KOSOVË
+Kuvendi i Republikës së Kosovës;
+Në mbështetje të nenit 65 (1) të Kushtetutës së Republikës së Kosovës,
+Miraton
+LIGJ PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJIT NR.2004/5 PËR TREGTINË ME NAFTË DHE DERIVATE TË NAFTËS NË KOSOVË
