@@ -1,0 +1,10 @@
+# Neni 4
+Arritja e Shefit të Misionit Diplomatik në Kosovë
+1. Shefi i Misionit Diplomatik apo Chargé d’Affaires apo ndonjë përfaqësues tjetër legjitim i shtetit dërgues duhet të njoftojë Protokollin e Shtetit për datën dhe kohën e arritjes së Ambasadorit si dhe për mjetet e transportit me të cilat ai/ajo vjen në Prishtinë.
+1.1. Nëse Ambasadori vjen në Prishtine me aeroplan, numri i fluturimit dhe koha e arritjes në Prishtinë duhet t’i komunikohet paraprakisht Protokollit të Shtetit.
+1.2. Shefi i ri i emëruar i Misionit Diplomatik në rangun e Ambasadorit pritet në aeroport nga Zyrtari i Protokollit të Shtetit nëse ai/ajo arrin gjatë ditëve të punës nga e hëna deri të premten nga ora 8 deri në orën 20.
+1.3. Nëse Ambasadori arrin në Kosovë jashtë kohës apo ditëve të përmendura apo edhe gjatë ditëve të pushimit, atij/asaj i sigurohet një kalim i shpejtë dhe i papenguar i kufirit shtetëror. Në Aeroportin e Prishtinës, Protokolli i Shtetit i siguron eskortën e policisë nga aeroporti tek rezidenca apo hoteli.
+1.4. Nëse Ambasadori vjen në Kosovë me veturë personale, marka, lloji, ngjyra dhe tabelat e licencuara të mjetit si dhe emri i vozitësit dhe personave të tjerë shoqërues të tij/saj duhet t’i komunikohen paraprakisht Protokollit të Shtetit. Kalimi i kufirit në të cilin Ambasadori hyn në Kosovë si dhe data dhe koha e kalimit duhet të komunikohen me qëllim të mundësimit të kalimit të kufirit shtetëror shpejtë dhe papenguar.
+1.5. Zyrtari i Protokollit shoqëron Ambasadorin tek rezidenca apo hoteli gjatë ditëve të punës së javës së parë, nga e hëna deri të premten nga ora 8 deri në ora 20.
+1.6. Nëse Ambasadori arrin jashtë orëve të përmendura në paragrafin 1.5., ai/ajo takohet me Drejtorin e Protokollit të Shtetit gjatë ditëve të punës në vendin për të cilën merren vesh apo, si rregull, në objektin e misionit diplomatik apo në rezidencë, hotel në rast se Shefi i Misionit Diplomatik është jo-rezident.
+1.7. Ceremonia e paraqitjes së kopjeve dhe letrave origjinale të letrave kredenciale mbahet brenda dhjetë (10) ditëve të punës pas arritjes së Ambasadorit.
