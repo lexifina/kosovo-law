@@ -1,0 +1,9 @@
+# Article 4
+Principles
+1. All Internal Audit Units and Internal auditors shall conduct internal audits in accordance with the following principles:
+1.1. Legality. Every Internal Audit Unit and every Internal Auditor shall conduct audits in a strict accordance with the applicable Law, rules, standards and practices, including, but not limited to, those specified in Article 10.7 of this Law.
+1.2. Integrity. Every Internal Audit Unit and every Internal Auditor shall conduct audits in a professional manner and in accordance with all applicable legal requirements. Internal auditors shall avoid the conflict of interest and shall not allow any personal considerations of any description to affect or influence the internal audit he/she conducts.
+1.3. Objectivity. Every Internal Audit Unit and every Internal Auditor shall act in the highest level of professionalism in gathering, evaluating and communicating of data about the activity or process being audited. They should make balanced assessments of all relevant circumstances and they shall not allow their activities, attitudes or conclusions to get influenced in no manner by their personal interests or interest of any other persons.
+1.4. Confidentiality. Every Internal Audit Unit and every Internal Auditor shall respect the value and ownership of information acquired and shall not disclose such information to any person except as may specifically be required by this Law.
+1.5. Competency. Every Internal Audit Unit and every Internal Auditor should possess and apply the knowledge, skills, and experience required to implement the professional internal audit.
+1.6. Independence. Every Internal Audit Unit and every Internal Auditor are wholly independent from the activities being audited and the persons responsible for or involved, directly or indirectly, in such activities.

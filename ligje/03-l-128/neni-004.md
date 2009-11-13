@@ -1,0 +1,10 @@
+# Neni 4
+Parimet
+1. Të gjitha Njësitë e Auditimit të Brendshëm dhe Auditorët e Brendshëm duhet të bëjnë auditime te brendshme sipas parimeve në vijim:
+1.1. Ligjshmëria. Secila Njësi e Auditimit të Brendshëm dhe secili Auditor i Brendshëm duhet të ushtrojë auditimet në pajtim të plotë me ligjin, rregullat, standardet dhe praktikat e zbatueshme, duke përfshirë, por pa u kufizuar, në ato të parapara në nenin 10.7 të këtij ligji;
+1.2. Integriteti. Secila Njësi e Auditimit të Brendshëm dhe secili Auditor i Brendshëm duhet të ushtrojë auditimet në mënyrë profesionale dhe sipas të gjitha kushteve të zbatueshme ligjore.
+Auditorët e Brendshëm duhet që të evitojnë konfliktin e interesave dhe nuk duhet të lejojnë që çështjet personale të çfarëdo lloji të ndikojnë në auditimin e brendshëm që ai/ajo ushtron;
+1.3. Objektiviteti. Secila Njësi e Auditimit të Brendshëm dhe secili Auditor i Brendshëm duhet të veprojnë me nivelin më të lartë të profesionalizmit gjatë mbledhjes, vlerësimit dhe transmetimit të të dhënave mbi aktivitetin ose procesin që është nën auditim. Ata duhet të bëjnë vlerësime të balancuara të të gjitha rrethanave përkatëse dhe nuk duhet të lejojnë që aktivitetet, qëndrimet ose përfundimet e tyre të ndikohen në çfarëdo mënyre nga interesat e tyre personale ose interesat e ndonjë personi tjetër;
+1.4. Besueshmëria. Secila Njësi e Auditimit të Brendshëm dhe secili Auditor i Brendshëm duhet të respektojnë vlerat dhe pronësinë e informatave që i pranojnë dhe nuk duhet t’i zbulojnë informatat para cilitdo person, përveç nëse kërkohet në mënyrë specifike sipas këtij ligji;
+1.5. Kompetenca. Secila Njësi e Auditimit të Brendshëm dhe secili Auditor i Brendshëm duhet të posedojnë dhe përdorin diturinë, aftësinë dhe përvojën e nevojshme për zbatimin profesional të auditimit të brendshëm;
+1.6. Pavarësia. Secila Njësi e Auditimit të Brendshëm dhe secili Auditor i Brendshëm janë plotësisht të pavarur nga aktivitetet që auditohen dhe personat përgjegjës ose të përfshirë, drejtpërdrejt ose tërthorazi, në aktivitetet e tilla;

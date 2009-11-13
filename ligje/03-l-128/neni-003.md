@@ -1,0 +1,20 @@
+# Neni 3
+Përkufizimet
+Më qëllim të interpretimit dhe të zbatimit të këtij ligji, secila nga shprehjet e mëposhtme, do të kenë kuptimin e përshkruar në vijim, përveç nëse konteksti kërkon ndryshe:
+“Auditimi i brendshëm” është aktivitet i pavarur këshillëdhënës, dhe i ofrimit të sigurisë objektive, i përcaktuar (projektuar) që të shtojë vlerat dhe të përmirësojë funksionimin e organizatës. Ai ndihmon organizatën në përmbushjen e objektivave të saja duke ofruar qasje sistematike, të disiplinuar për të vlerësuar dhe përmirësuar efektshmërinë e proceseve të menaxhimit të rrezikut, kontrollit dhe qeverisjes.
+“Auditori i Brendshëm” nënkupton personin që posedon licencë aktuale dhe të vlefshme, duke përfshirë licencat e përkohshme që nxirren sipas këtij ligji.
+“Auditimi i bazuar në sistem” nënkupton një vlerësim rigoroz të sistemit të kontrollit të brendshëm për të vlerësuar nivelin e funksionimit efektiv të kontrolleve.
+“Auditimi i pajtueshmërisë” nënkupton vlerësimin nëse një organizatë ka kryer aktivitetetin e saj në pajtueshmëri me gjithë legjislacionin e aplikueshëm, rregulloret, politikat dhe procedurat administrative.
+“Auditimi financiar” nënkupton auditimin që ofron një mendim lidhur me atë se, a paraqesin pasqyrat financiare, të krijuara nga një organizatë, pamjen e vërtetë dhe të drejtë të aspektit financiar të operacioneve për periudhën raportuese, për asetet dhe detyrimet e organizatës, në fund të periudhës, si dhe a janë ato në pajtueshmëri me standardet raportuese të kontabilitetit dhe standardet financiare të adoptuara.
+“Auditimi i TI-së” nënkupton një ekzaminim të mjaftueshmërisë dhe përshtatshmërisë së kontrolleve të cilat mbrojnë sistemet e aplikimit të TI për të siguruar besueshmërinë, integritetin dhe disponueshmërinë e sistemeve të TI dhe mirëmbajtjen e informacioneve në këto sisteme.
+“Auditimi i përformancës” nënkupton një auditim i ekonomicitetit, efikasitetit dhe efektivitetit me të cilin subjekti i sektorit publik që auditohet i shfrytëzon burimet e veta në ushtrimin e përgjegjësive të veta.
+“Ekonomiciteti” nënkupton zvogëlimin e shpenzimeve në sigurimin e burimeve të nevojshme për arritjen e objektivave në nivelin e nevojshëm të cilësisë.
+“Efikasiteti” nënkupton marrëdhënien ndërmjet rezultateve, si mallrat dhe shërbimet publike, të siguruara nga subjektet e sektorit publik, si dhe burimet e shfrytëzuara në prodhimin dhe dërgimin e tyre.
+“Efektiviteti” nënkupton masën në të cilën objektivat e një subjekti, procesi apo aktiviteti realizohen si një marrëdhënie ndërmjet arritjeve të planifikuara dhe arritjeve aktuale.
+“Kodi i Etikës” nënkupton një deklaratë e shkruar mbi Parimet dhe Rregullat e Mirësjelljes që një auditor i brendshëm pajtohet t`i zbatojë. Objektiva e tij është që formalisht të avancojë kulturën etike, në profesionin e auditimit të brendshëm.
+“Ministër” nënkupton Ministrin e Ekonomisë dhe Financave.
+“Menaxhmenti i lartë i subjektit të sektorit publik” nënkupton pozitën e cila ka përgjegjësinë në Subjektin e Sektorit Publik, Ministrat, Zyrtarët Kryesorë Administrativ dhe Drejtorët Ekzekutiv të agjencioneve të pavarura.
+“Njësia Qendrore për Harmonizimin e Auditimit të Brendshëm ose NJQHAB” do të thotë, Njësinë Qendrore për Harmonizimin e Auditimit të Brendshëm në kuadër të Ministrisë së Ekonomisë dhe Financave, të themeluar sipas nenit 7 të këtij ligji.
+Njësia e Auditimit të Brendshëm ose “NJAB” do të thotë, Njësinë e Auditimit të Brendshëm të një organizate buxhetore të themeluar sipas nenit 10 të këtij ligji.
+“Subjekt i sektorit publik ose SSP” është term i përgjithshëm që nënkupton dhe përfshin të gjitha organizatat buxhetore, agjencitë e pavarura publike dhe autoritetet publike.
+“Statuti i Auditimit të Brendshëm” është një dokument i shkruar dhe i nënshkruar ndërmjet Menaxhmentit të Lartë të subjektit të sektorit publik dhe personit në krye të auditimit të brendshëm, në atë Subjekt të Sektorit Publik, dokument që shtron të drejtat dhe përgjegjësitë e të dy palëve, kur vjen deri te kryerja e auditimit të brendshëm, funksionalisht të pavarur.
