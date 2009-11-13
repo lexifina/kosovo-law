@@ -1,0 +1,6 @@
+# Neni 14
+Arsyet për blerjen e armëve te zjarrit për personin juridik
+1. Personi juridik duhet të jetë i licencuar për sigurimin fizik te personave ose sigurimin e transportit të parave dhe sendeve me vlerë. Posedimi i armës së zjarrit kufizohet në një (1) armë zjarri për tre (3) punëtorë të licencuar të sigurisë tek personat juridik të regjistruar në sferën e sigurisë së personave, ndërsa për persona juridik nga sfera e sigurimit të bartjes së parave dhe sendeve të tjera me vlerë një (1) armë zjarri për një (1) punëtor të licencuar të sigurisë.
+2. Personave juridik të cilët ofrojnë trajnime (aftësim) mund tu lëshohet pëlqimi për blerjen e armës se zjarrit në bazë të licencës për punën të cilën e kryejnë. Personat juridik nga ky paragraf mund të posedojnë më së shumti tetë (8) revolver, tetë (8) pushkë dhe tetë (8) pistoleta.
+3. Shoqatat e gjuetarëve, shenjëtarëve dhe personat juridik të cilët posedojnë vende për gjueti, shenjëtari mund tu jepet pëlqimi të blejnë armë zjarri për qëllim gjuetie ose shenjëtarie.
+4. Institucionet shkencore, organet shtetërore ose persona juridik të tjerë për hulumtime shkencore për kafshë mund tu jepet pëlqimi të blejnë armë zjarri ose armë pneumatike me municion të cilat do të përdoren veçanërisht për paaftësim të përkohshëm të kafshëve.

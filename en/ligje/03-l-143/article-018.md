@@ -1,0 +1,9 @@
+# Article 18
+Firearm Carrying Permit
+1. A firearm carrying permit is a permit that allows a certified contracted employee of a licensed legal entity in the field of security of persons and security of money and other valuable deliveries during transportation to carry a firearm belonging to B and C category during duty hours at the place of work.
+2. Legal entities who possess firearm on the basis of a firearms possession permit shall give these firearms for use only to the certified workers who have an employment contract with that legal entity, who perform activity of security to persons or services for money transport and other valuable things, and fulfil conditions prescribed in Article 7 of this Law.
+3. With the request of the legal entity under paragraph 1 of this Article, the competent body may issue a firearm carrying permit to the user of firearm with a validity period of one (1) year.
+4. The validity period of the Firearm Carrying permit shall be extended on the request of the legal entity and if the person who possess the permit continues to fulfil the conditions from Article 7 of this Law.
+5. Legal entities shall request an extension of the firearm carrying permit at least two (2) months before the expiry of its validity;
+6. Person, whose employment agreement with the legal entity ended prescribed under paragraph 1 of this Article, shall on the day of expiring of the working relationship to relinquish the weapon and the firearm carrying permit to the responsible person of the legal entity.
+7. Legal entities under paragraph 6 of this Article are obliged within eight (8) days after the expiring of an employment contract to inform the competent body in writing that the working relationship between the employee and employer has ceased. The competent body shall immediately revoke the firearm carrying permit.

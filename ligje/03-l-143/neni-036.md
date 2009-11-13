@@ -1,0 +1,5 @@
+# Neni 36
+Sekuestrimi
+1. Në rastin kur kundër poseduesit të lejes për gjueti ose shenjëtari, lejes për armë koleksioni, lejes për mbajtjen e armës se zjarrit ose lejes për armët e kategorisë D është ngritur procedurë penale për vepër penale nga neni 10 paragrafi 1 pika 1.1 i këtij ligji ose procedura për kundërvajtje nga neni 10 paragrafi 1 pika 1.2 nga ky ligj, organi kompetent sekuestron lejen për gjueti ose shenjëtari, lejen për mbajtjen e armës së zjarrit, lejen për armë koleksioni, armën/armën e zjarrit dhe municionin deri në marrjen e vendimit të plotfuqishëm.
+2. Organi kompetent sekuestron lejen, armën/armën e zjarrit dhe municionin, nëse gjatë vazhdimit të vlefshmërisë së lejes, përcakton se arma/arma e zjarrit është e amortizuar ose e dëmtuar në atë masë sa që me përdorimin e saj do të mund të rrezikohej siguria publike ose arma/arma e zjarrit nuk mund të riparohet nga pronari për shkak të kushteve ekonomike.
+3. Pronari mund të paraqesë ankesë tek Komisioni i Ankesave në afat prej pesëmbëdhjetë (15) ditëve nga dita e pranimit të vendimit në paragrafin 1 dhe 2 të këtij neni. Ankesa nuk e ndalon ekzekutimin e vendimit.

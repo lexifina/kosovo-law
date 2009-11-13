@@ -1,0 +1,6 @@
+# Article 14
+Reasons for acquiring firearms for Legal Entity
+1. Legal entities shall be certified to provide services in the field of security of persons or security for monetary and valuable things transport. Firearms possession shall be limited to registered legal entities in the field of security of persons to one (1) firearm per three (3) certified security workers whereas for legal entities in the field of security for money and other valuable things transport to one (1) firearm per one (1) certified security worker.
+2. Legal entities who provide training may be issued a consent to acquire firearms on the basis of the license issued for the commission of this activity. Legal entities from this paragraph shall only possess up to eight (8) revolvers, eight (8) rifles, and eight (8) pistols.
+3. Hunting associations, shooting associations and legal entities which own hunting areas may be issued a consent to acquire firearms for hunting and sport shooting purposes.
+4. Scientific institutions, state bodies or other legal entities for scientific research regarding animals may be issued a consent to acquire fire arms or pneumatic weapons with ammunition exclusively for temporary incapacitation of animals.

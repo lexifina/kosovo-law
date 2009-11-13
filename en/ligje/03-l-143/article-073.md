@@ -1,0 +1,3 @@
+# Article 73
+1. With fine from ten thousand (10 000) Euro to one hundred thousand (100.000) Euro shall be fined a legal person who shall trade, supply, intercede, possess, product, repair, change or to give someone else a weapon, parts of weapons and ammunition, which supply, intercede, trade, possession production, repair or circulation is prohibited or it is in contradiction with provisions of this law.
+2. For actions foreseen in paragraph 1 of this Article legal person shall be enounced an additional measure of acquiring weapon, ammunition and prohibition of exercising the activity (production, repair, circulation with weapons and ammunition or utilisation of civil shooting range) in terms from two (2) to five (5) years.

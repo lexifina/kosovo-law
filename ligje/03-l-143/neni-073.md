@@ -1,0 +1,3 @@
+# Neni 73
+1. Me gjobë prej dhjetëmijë (10.000) Euro deri në njëqindmijë (100.000) Euro gjobitet personi juridik, i cili do të tregtojë, furnizojë, ndërmjetësoj, posedojë, prodhojë, riparojë, ndërrojë ose t’i japë dikujt tjetër armë, pjesë të armëve dhe municion, i cili furnizim, ndërmjetësim, tregtim, posedim, prodhim, riparim ose qarkullim është i ndaluar apo është ne kundërshtim me dispozitat e këtij ligji.
+2. Për veprimet e parapara në paragrafin 1 i këtij neni personit juridik do t’i shqiptohet masë plotësuese e marrjes së armës, municionit dhe e ndalimit të ushtrimit të veprimtarisë (prodhimit, riparimit, qarkullimit me armë dhe municion ose shfrytëzimit të poligonit për qitje civile) në afat prej dy (2) deri në pesë (5) vite.

@@ -1,0 +1,3 @@
+# Neni 33
+Amnestia për armë
+Personi fizik ose personi juridik që posedon armë zjarri të kategorisë A, B, C dhe D dhe për të cilën është lëshuar kartelë regjistrimi për armë ose kartelë autorizimi për armë ose ndonjë dokument përkatës nga organi kompetent por janë të ndaluara sipas dispozitave të këtij ligji duhet në afat kohor prej gjashtë muajve nga dita kur ky ligj hyn në fuqi ta dorëzojë armën e zjarrit të kategorisë B, C dhe D tek personi juridik nga neni 53, paragrafi 2 i këtij ligji, me qëllim të çaktivizimit, dhe armët e zjarrit të kategorisë A, B, C dhe D, organit kompetent për shkatërrim ose ruajtje të përkohshme.

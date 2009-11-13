@@ -1,0 +1,3 @@
+# Article 33
+Amnesty for Weapons
+Natural person or legal entities who possesses a firearm from category A, B, C and D for which was issued a weapon registration card or a weapon authorization card or other respective document by a competent body but are prohibited by the provisions of this Law shall in timeframe of six (6) months from the date of entry into force of this Law hand over the firearm of B, C and D category to a legal entity from Article 53, paragraph 2 of this Law, in order to deactivate the firearm or firearms A,B,C and D to the competent body for destruction or for temporary storage.

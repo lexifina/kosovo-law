@@ -1,0 +1,4 @@
+# Neni 45
+Zhdukja, humbja apo vjedhja
+1. Në rast të zhdukjes, humbjes apo të vjedhjes së armës, pjesëve të armës apo municionit, pronari, shfrytëzuesi apo personi juridik, duhet ta paraqesin rastin tek organi kompetent në afat prej njëzetekatër (24) orëve nga momenti kur ai/ajo e ka vërejtur zhdukjen.
+2. Në rast të zhdukjes, humbjes apo vjedhjes të pëlqimit për blerje të armës së zjarrit, pjesët e armës së zjarrit dhe municion, lejes për gjueti apo shenjëtari sport, të lejes për koleksion, lejes për mbajtjen e armës së zjarrit, lejes për posedim të armës se zjarrit, lejes për armët e kategorisë D, pronari apo personi juridik, duhet ta informojë organin kompetent ku është e regjistruar arma apo në stacionin më të afërt policor. Pronari duhet të paraqes kërkesë për lëshimin e kopjeve të atyre dokumenteve tek organi kompetent i cili duhet ti lëshojnë këto kopje brenda tetë (8) ditëve.

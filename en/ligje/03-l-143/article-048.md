@@ -1,0 +1,9 @@
+# Article 48
+Inheritance of a weapon
+1. In the case of death of the owner of a weapon, adult family members or other adults living in the same household, are obliged within thirty (30) days after the death of the person to hand over the weapon and ammunition to the competent body or nearest police station, for which a hand over document shall be provided. In case the location of the weapon is not known by the adult family members, but they are sure that the deceased owned a weapon they will also inform the competent body.
+2. The weapon and ammunition shall be stored by the competent body until a decision is made on the inheritance.
+3. The competent body shall define in a sub legal act the way how the weapon and ammunition will be handed over and kept in case of the death of the owner, as well as the form and the content of the hand over document for weapon and ammunition issued by the competent body.
+4. The person who inherited the weapon and fulfils the criteria of Article 7 of this Law can within two (2) months after the completion of the heritage request the issuing of a permit for the weapon. The person who inherited the weapon and does not fulfil the criteria from Article 7 of this Law or does not want the issuing of a permit, will inform the competent body to start the procedure as described in Article 36 of this Law.
+5. When the request from paragraph 4 of this Article shall not be presented within the prescribed period, or when the request is refused, the weapon and ammunition shall be confiscated and shall be treated according to Article 34 of this Law.
+6. In case the deceased has no heirs, the weapon shall be dealt with according to Article 38 of this Law.
+7. The competent body will be informed by the competent court of the outcome of the inheritance procedure within eight (8) days.
