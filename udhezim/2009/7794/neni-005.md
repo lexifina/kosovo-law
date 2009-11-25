@@ -1,0 +1,7 @@
+# Neni 5
+Leximi i Korrespodences
+5.1 Ne suaza normale, Ietrat per dhe nga i burgosuri nuk duhet Iexuar. Sidoqofte, Drejtori i Institucionit mundet,me shkrim, ta autorizoje anetarin e stafit ta lexoje korrespodencen nese:
+a. Eshte i burgosur i kategorise se rrezikshmerise se Iarte dhe shume te Iarte; b. korrespodenca permban deshmi te ndonje akti qe do te mund ta rrezikoje sigurine e institucioiUt korrektues ose njerezit ~ere; c. veper penale apo_plan.per l<.ryerjene vepres penale; d. caktim nga gjykata;
+e:... ndikon ne sigurine nacionale; permban kercenime apo shantazhe; f. g. mund te shkaktoje shqetesim per personin te cilit i shkruhet; h. nuk eshte Iehte e kuptueshme, p.sh sepse eshte e shkruar me kode; dhe i. hapja dhe Ieximi i korrespodences eshte masa me se paku e bezdisshme e mundshme ne ato rrethana.
+5.2 Kur korrespodenca hapet dhe lexohet, drejtori i institucionit korrektues menjehere e informon me shkrim te burgosurin lidhur me arsyet e veprimit te tille dhe atij i mundeson dhenien e sqarimeve.
+5.3 Korrespodenca qe eshte hapur dhe lexuar mund te ndalohet, ne rastin e tille personi informohet menjehere dhe i komunikohet permbaj~a e saj deri ne masen e nevojshme. Leh'a qe eshte ndalur i dorezohet personit sapo te pushoje se ekzistuari baza per ndalimin e saj dhe me se voni deri ne fund te burgimit te tij, pervec;:nese kolegji i perbere nga tre gjyqtare te gjykates kompetente komunale urdheron ndryshe.
