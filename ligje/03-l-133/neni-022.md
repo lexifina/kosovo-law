@@ -1,0 +1,15 @@
+# Neni 22
+Detyrat dhe obligimet e Zyrës së Rregullatorit të Energjisë
+1. Zyra e Rregullatorit të Energjisë do të jetë autoriteti kompetent për monitorimin dhe rregullimin e industrisë së gazit natyror në Kosovë, si dhe do të jetë përgjegjëse për sigurimin e një tregu jodiskriminues, efektivisht konkurrent dhe funksional e efikas të gazit natyror në Kosovë. Në bartjen e këtij funksioni, Zyra e Rregullatorit të Energjisë do të monitorojë si në vijim:
+1.1 rregullat mbi menaxhimin dhe ndarjen e kapaciteteve të interkoneksionit, në pajtim me autoritetin apo autoritetet rregullative të atyre vendeve fqinje me Kosovën, me të cilat ekziston interkoneksioni;
+1.2 mekanizmat për t’u marrë me kapacitetet e tejngarkuara brenda sistemit nacional të gazit;
+1.3 kohën e shpenzuar nga operatorët e sistemit të bartjes dhe shpërndarjes për t’i bërë kyçjet dhe riparimet;
+1.4 publikimin e informatave gjegjëse nga operatorët e sistemit të bartjes dhe shpërndarjes në lidhje me interkonektorët, shfrytëzimin e rrjetit dhe ndarjen e kapaciteteve për palët e interesuara, duke marrë parasysh domosdoshmërinë e trajtimit të informatave të pakonsoliduara, si komercialisht konfidenciale;
+1.5 shthurjen efektive të llogarive, siç është përcaktuar me nenin 16 të këtij ligji, për të siguruar që të mos ketë subvencionime të tërthorta mes aktiviteteve të bartjes, shpërndarjes, deponimit, GNL-së dhe furnizimit;
+1.6 kushtet e qasjes në deponim, linepack dhe shërbimeve tjera përcjellëse, sipas përcaktimin në nenin 17të këtij ligji;
+1.7 masën deri në të cilën operatorët e sistemit të bartjes dhe shpërndarjes përmbushin detyrat e tyre në pajtim me nenet 7 dhe 11 të këtij ligji;
+1.8 nivelin e transparencës dhe konkurrencës.
+2. Zyra e Rregullatorit të Energjisë do ta publikojë një raport vjetor me rezultatet e monitorimit të fakteve dhe indikatorëve të dhënë me nënparagrafët 1.1 deri në 1.6 sipër.
+3. Zyra e Rregullatorit të Energjisë do ta përgatisë metodologjinë për caktimin e tarifave për kyçje dhe qasje në rrjete të gazit natyror, duke përfshirë tarifat e bartjes, shpërndarjes dhe shërbimet e balancimit.
+4. Zyra e Rregullatorit të Energjisë ka autoritetin për të kërkuar nga operatorët e sistemeve të bartjes, GNL-së, apo shpërndarjes, sipas nevojës, që të modifikojnë kushtet dhe afatet, duke përfshirë tarifat dhe metodologjitë e përmendura me paragrafët 1, 2 dhe 3, për të siguruar që ato të jenë proporcionale dhe të zbatohen në mënyrë jodiskriminuese.
+5. Secila palë që ka ankesë kundër një operatori të sistemit të bartjes, GNL-së, apo shpërndarjes, në lidhje me çështjet e përmendura në paragrafët 1, 2, 3 dhe 5, si dhe në nenin 19, mund ta adresojnë ankesën tek Zyra e Rregullatorit të Energjisë, e cila në funksionin e saj si autoritet i zgjidhjes së kontesteve, do të marrë vendim brenda dy muajsh pas pranimit të ankesës. Kjo periudhë mund të zgjatet për dy muaj tjerë nëse kërkohen informata shtesë nga Zyra e Rregullatorit të Energjisë. Një vendim i tillë do të ketë efekt obligativ, përveç nëse dhe deri në rrëzimin e tij nëpërmjet procedurës së ankesës.

@@ -1,0 +1,4 @@
+# Article 18
+Refusal of access
+1. Transmission, distribution or storage system operators may refuse access to the system on the basis of lack of capacity or where the access to the system would prevent them from carrying out the public service obligations referred to in paragraph 2 of Article 4 of this law, on the basis of serious economic and financial difficulties with take-or-pay contracts having regard to the criteria and procedures set out in Article 23 of this law. Such refusal should be reasonable.
+2. The Ministry may require from a natural gas undertaking which refuses to provide access to its facilities based upon a lack of capacity or a lack of connection for necessary investments to the extent that the same would be economically feasible to do so or when a potential customer is willing to pay for enlargement of the capacity.

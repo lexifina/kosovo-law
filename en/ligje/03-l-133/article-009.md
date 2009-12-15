@@ -1,0 +1,4 @@
+# Article 9
+Confidentiality for Transmission and Storage System Operator
+1. Without prejudging Article 15 of this law and specific Articles of the Law on Energy Regulatory or any other legal obligation to disclose information, each transmission, storage and/or LNG system operator shall preserve the confidentiality of commercially sensitive information, obtained in the course of carrying out its business, and shall prevent information about its own activities which may be commercially advantageous from being disclosed in a discriminatory manner.
+2. Transmission system operators shall not, in the context of sales or purchases of natural gas by related undertakings, abuse commercially sensitive information, obtained from third parties, in the context of providing or negotiating access to the system.

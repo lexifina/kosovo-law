@@ -1,0 +1,4 @@
+# Neni 9
+Konfidencialiteti i operatorit të sistemit të bartjes dhe deponimit
+1. Pa i paragjykuar nenin 15 të këtij ligji dhe nenet specifike të Ligjit për Rregullatorin e Energjisë ose ndonjë obligim tjetër ligjor për zbulimin e informatave, secili operator i sistemit të bartjes, të depozitimit dhe/ose të GNL-së, duhet ta ruajë fshehtësinë e informatave të ndjeshme komerciale, të siguruara në vazhdën e kryerjes së punëve të tij, si dhe ta ndalojë zbulimin në mënyrë diskriminuese të informatave për veprimtarinë e vet, të cilat mund të jenë me përparësi komerciale.
+2. Operatorët e sistemit të bartjes, në kontekstin e shitjeve apo blerjeve të gazit natyror nga ndërmarrjet gjegjëse, nuk do të abuzojnë me informatat e ndjeshme komerciale, të siguruara nga palët e treta, në kontekstin e ofrimit apo negocimit të qasjes ndaj sistemit.
