@@ -1,0 +1,7 @@
+# Article 11
+Advance Payments
+1. Budgetary Organizations may make advance payments to contractors for capital projects and for goods and services up to a maximum of fifteen percent (15%) of the value of the contract. Such advance payment shall only be made in accordance with a legally binding contract, with a value greater than ten thousand (10,000) € that is achieved in accordance with the Law on Public Procurement. For advance payments for capital projects the contract must contain a performance guarantee and clearly define a complete payment schedule that includes the work required to be completed before each payment is made. In exceptional cases, Government may approve advance payment up to thirty (30%) percent of the contract value.
+2. For November there will be no advance payments more than ten (10%) percent and for December not more than five (5%) percent of the contract value and after the approval by the Minister of Economy and Finance.
+3. Budgetary Organizations may make advance payments to employees who travel abroad in accordance with the rules that are actually into force for travel abroad and in accordance with Treasury financial rules.
+Such advances shall be closed, and unspent amounts will be returned to the Kosovo Fund, in accordance with the Treasury Financial Rules.
+4. If advances for petty cash or travel made in 2009 are not closed before 15 January 2010 in accordance with Treasury financial rules, the expenses associated with such advances shall be recorded in relation to appropriations for 2010.
