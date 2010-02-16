@@ -1,0 +1,6 @@
+# Neni 33
+Trajtimi i të ardhurave komerciale të organizatave joqeveritare
+1. Organizatës joqeveritare, e cila ndërmerr aktivitete komerciale ose aktivitete të tjera që nuk janë të lidhura me qëllimin e saj publik, i caktohet tatimi në të ardhura në shkallë prej dhjetë për qind (10%) për të ardhuren nga një aktivitet i tillë biznesi të zvogëluar nga cilado zbritje, e cila është drejtpërdrejt e lidhur me kryerjen e biznesit të tillë dhe e cila është e lejuar me këtë Ligj..
+2. Administrata tatimore ka autoritet të kontrolloj çdo OJQ për të përcaktuar respektimin e rregullave me te cilat punojnë OJQ-te. Në rastet kur konstatohet qe fitimet e OJQ-se e tejkalojnë nivelin e arsyeshëm te fitimeve te një organizate qe është krijuar si organizate jofitimprurëse, Administrata tatimore ka autoritet te trajtoje fitimet e tepërta ne pajtueshmëri me dispozitat e paragrafit 1 te këtij neni.
+3. Çdo OJQ qe angazhohet ne aktivitetet e liruara nga tatimi sipas nën-paragrafit 1.1 të nenit 7, të këtij ligji dhe në aktivitetet tjera komerciale, duhet të mbajë shënimet dhe regjistrimet e veçanta për aktivitetin e përfitimit publik dhe për aktivitetet tjera komerciale.
+4. Ministri lëshon akt nënligjor me të cilin parasheh kuptimin e “fitim i tepruar” sipas këtij neni.

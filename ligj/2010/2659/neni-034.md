@@ -1,0 +1,6 @@
+## KREU IX
+## DISPOZITAT ADMINISTRATIVE
+# Neni 34
+Deklarimi i tatimeve
+1. Tatimpaguesi nga i cili kërkohet apo i cili zgjedh të llogarisë të ardhuren e tatueshme duke përshtatur për qëllime tatimore të ardhurat dhe shpenzimet e raportuara në pasqyrat e tij financiare, duhet t’ia dorëzojë Administratës tatimore deklaratën vjetore për tatim më datën 31 mars apo para kësaj date të vitit pasues të periudhës tatimore. Deklarata bëhet në formularët e paraparë nga Administrata Tatimore dhe përmban, mes tjerash, të ardhurat bruto, zbritjet e lejueshme, të ardhurat e tatueshme dhe tatimin që duhet të paguhet sipas këtij Ligji. Së bashku me deklaratën tatimore, tatimpaguesit e tillë gjithashtu duhet t’i dorëzojnë pasqyrat financiare të përpiluara në përputhje me Standardet Kosovare te Kontabilitetit dhe legjislacionin në fuqi.
+2. Tatimpaguesi, i cili kërkon zbritje të lejueshme në pajtim me nenin 10 te këtij ligji, duhet t’ia dorëzojë administratës tatimore deklaratën vjetore për tatim më datën 31 mars apo para asaj date të vitit pasues të periudhës tatimore. Deklarata bëhet në formularët e paraparë nga Administrata tatimore e Kosovës dhe përmban, mes tjerash, të ardhurat bruto, zbritjet e lejueshme, të ardhurat e tatueshme dhe tatimin që duhet të paguhet sipas këtij Ligji.
