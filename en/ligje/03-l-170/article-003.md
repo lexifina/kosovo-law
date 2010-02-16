@@ -1,0 +1,6 @@
+# Article 3
+Application For Action By The Customs Measures prior to an application for action by the Customs (procedure according to official task)
+1. Where the Customs, in the course of action in one of the situations referred to the paragraph 1 Article 1 ,of this Law and before an application has been lodged by a right-holder, has sufficient grounds for suspecting that goods infringe an intellectual property right, it may suspend the release of the goods or detain them.
+2. The Customs shall notify the right-holder of the measures referred to in paragraph 1 of this Article in order to enable the right-holder to submit an application for action in accordance with Article 4 of this Law. The declarant or the holder of the goods shall be notified as well.
+3. The Customs may, without publicizing any information other than the actual or supposed number of items and their nature and before informing the right-holder of the possible infringement, ask the right-holder to provide it with any information they may need to confirm its suspicions.
+4. Within three (3) working days after the notification, if the right holder does not submit an application for action in accordance with Article 4 of this Law, the release of the goods shall be allowed or the period of detention stopped, provided that all Customs procedures are completed.

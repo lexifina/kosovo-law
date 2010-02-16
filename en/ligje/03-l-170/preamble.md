@@ -1,0 +1,6 @@
+Law No.03/L – 170
+ON CUSTOMS MEASURES FOR PROTECTION OF INTELLECTUAL PROPERTY RIGHTS
+Assembly of Republic of Kosovo,
+In accordance to the article 65 (1) of the Kosovo Republic Constitution,
+Approves
+LAW ON CUSTOMS MEASURES FOR PROTECTION OF INTELLECTUAL PROPERTY RIGHTS

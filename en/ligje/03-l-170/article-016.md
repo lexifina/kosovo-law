@@ -1,0 +1,4 @@
+# Article 16
+1.If during the proceedings before the competent authority the decision has been approved to destroy or dispose outside the commercial channels the goods infringing the intellectual property right, the Customs shall order that:
+1.1. Goods under Customs supervision should be destroyed or otherwise disposed outside the commercial channels, in such a way as to preclude injury to the right holder, without any sort of compensation and cost to the Customs.
+1.2. Any other measures (including the abandonment of goods for humanitarian purposes) to be taken in order to effectively deprive the persons concerned of any economic gains from the transaction. Simply removing the trademarks which have been affixed to counterfeit goods without authorization shall not be regarded as effectively depriving the persons concerned of any economic gains from the transaction.

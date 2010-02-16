@@ -1,0 +1,4 @@
+# Neni 16
+1. Nëse gjatë procedimit para autoritetit kompetent vendimi është miratuar për të shkatërruar ose sistemuar jashtë kanaleve komerciale mallrat që shkelin të drejtën e pronësisë intelektuale, Dogana urdhëron që:
+1.1. Mallrat nën mbikëqyrje Doganore duhet të shkatërrohen ose përndryshe të sistemohen jashtë kanaleve komerciale, në këtë mënyrë që të parandaloj dëmtimin e bartësit të së drejtës, pa asnjë lloj kompensimi dhe shpenzimi për Doganën.
+1.2. Të merren masa tjera (përfshirë braktisjen e mallrave për qëllime humanitare) që në mënyrë efikase të pengoj personat e interesuar që kanë tendencë për ndonjë përfitim ekonomik nga transaksioni. Thjeshtë, heqja e markës tregtare e cila ka qenë e vendosur në mallrat e falsifikuara pa autorizim, nuk duhet të konsiderohet si mënyrë efikase për pengimin e personave të interesuar për ndonjë përfitim ekonomik nga transaksioni.

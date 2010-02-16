@@ -1,0 +1,3 @@
+# Article 20
+1. For the offence the Penalty in amount from two thousand (2.000) to five thousand (5.000) € shall be charged to the legal person who acts contrary to the Article 15 of this Law, for introducing, releasing for free circulation, exiting, exporting, putting under a suspension procedure or entering into a free zone or a free warehouse goods for which, in a previously completed procedure in accordance to the Article 8 of this Law, it has been established that they infringe an intellectual property right.
+2. For offence the Penalty in amount of two hundred (200) to four hundred (400) € shall be charged as well against the natural person for actions determinated to paragraph 1 of this Article.
