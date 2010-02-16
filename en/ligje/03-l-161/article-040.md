@@ -1,0 +1,7 @@
+# Article 40
+Withholding Tax on Lottery and Game of Chance Winnings
+1. Each organizer of a lottery shall withhold tax in an amount equal to ten percent (10%) of each payment for winners.
+2. Subject to the provisions of Article 49 of this Law, each organizer of a game of chance shall withhold tax in an amount equal to ten percent (10%) of each payment for winnings
+3. Each organizer of a game of chance and organizer of a lottery shall submit a statement of withholding and transfer the amount of tax withheld to an account designated by the Tax Administration in a bank licensed by the Central Bank of Kosovo within fifteen (15) days after the last day of each calendar month, in accordance with a sub-legal act issued by the Minister.
+4. Each organizer of a game of chance and organizer of a lottery during a tax period shall, upon request by the winner, provide by March 1 of the year following the tax period a certificate of tax withholding in the form specified in a sub-legal act issued by the Minister.
+5. Each organizer of a game of chance and organizer of a lottery who withholds tax under this Article during a tax period shall submit to the tax administration an annual reconciliation statement in the form and format specified by the Tax Administration no later than 1 March of the year following the tax period. Each organizer of a lottery must include a copy of all withholding certificates, required by paragraph three of this article, with the annual reconciliation statement submitted to the tax administration.

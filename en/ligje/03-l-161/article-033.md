@@ -1,0 +1,17 @@
+## CHAPTER VII
+## BOOKS AND RECORDS
+# Article 33
+Requirement for Books and Records
+1. A taxpayer with annual gross income of more than fifty thousand (50.000) €, from business activities for the tax period, as well as partnerships and groups of persons, shall keep the books and records identified in paragraph 4 of this Article.
+2. A taxpayer with annual gross income of fifty thousand (50.000) € or less, from business activities for the tax period may opt to prepare the books and records identified in paragraph 4 of this Article.
+3. A taxpayer who opts to prepare books and records identified in paragraph 4 of this Article for any tax period shall be required to prepare such books and records for the tax period in which the option is made plus at least three (3) succeeding tax periods, as provided in a sub-legal act issued by the Minister.
+3.1 A taxpayer wishing to opt the option described in paragraph three (3) of this Article shall submit a statement to the tax administration by 1 March of the tax period in which the taxpayer wishes to make the option and that the option is made. The statement to be submitted shall be in a format prescribed by the tax administration. Once such option is made, the taxpayer must continue to prepare financial statements and adjust income and expenses recorded in such statements for the tax period in which the option is made and, at least, for the next succeeding three tax periods as provided in paragraph 3 of this Article.
+3.2 A taxpayer eligible to opt the maintaining of books and records as required in paragraph 4 of this Article, must submit a request for explanatory ruling to TAK, in accordance with applicable provisions of the Law on Tax Administration and Procedures, and receive approval from TAK before maintaining books and records in accordance with Article 34 of the Law. Approval must be received by 1 March of the year for which the taxpayer requests the explanatory ruling.
+4. The books and records required under this Article, maintained in accordance with the Accounting Standards of Kosovo, are as follows:
+4.1. A sales book in which all sales and returns must be recorded;
+4.2. A purchase book in which all purchases and returns must be recorded;
+4.3. A Cash receipts diary and a cash payments diary that relate to the sales book and purchase book.
+4.4. A capital account, if applicable, that includes the opening balance, additions to capital, expenses to be capitalized, depreciation rate, amount of depreciation, dispositions, and closing balance; and
+4.5. Such other books and records as necessary to provide an accurate accounting of all income and expenses so that a correct determination of tax can be made;
+4.6. Notwithstanding the requirement in paragraph 1 of this Article that partnerships and groups of persons must maintain the books and records described in Paragraph 4 of this Article, partnerships and groups of persons with annual gross turnover of fifty thousand (50,000) € or less shall not be required to maintain income or financial statements as required by the Accounting Standards of Kosovo. They shall, however, be required to maintain the books and records described in sub-paragraphs 4.1 through 4.5, and any other records required in order to accurately determine the amount of profit, or loss, to be distributed to the separate partners.
+4.7. The content of books and records required by this paragraph and any other books or records required, including those maintained in an electronic format, shall be defined in a sub-legal act issued by the Minister.

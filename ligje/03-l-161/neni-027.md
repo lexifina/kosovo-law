@@ -1,0 +1,3 @@
+# Neni 27
+Shpenzimet e qirasë
+Nëse një tatimpagues, ndryshe nga një tatimpagues i angazhuar në afarizëm për dhënie me qira të pasurisë së luajtshme apo të paluajtshme, zgjedh të mos mbajë regjistrime të shpenzimeve aktuale të paguara apo te lindura në aktivitetin e qirasë, tatimpaguesit të tillë i lejohet një zbritje nga të ardhurat bruto nga qiraja në një shumë të barabartë me dhjetë për qind (10%) të qirave të pranuara me qëllim të mbulimit të shpenzimeve të riparimit, arkëtimit të pagesave dhe të shpenzimeve tjera të paguara apo të krijuara gjatë realizimit të qirasë.

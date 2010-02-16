@@ -1,0 +1,4 @@
+# Article 44
+Payment of tax for rents
+1. Each taxpayer covered by Article 27 of this law who receives income from rent, except those taxpayers whose economic activity is renting movable or immovable property, shall make quarterly payments of tax to an account designated by the Tax Administration in a bank or financial institution licensed by the Central Bank of Kosovo no later than fifteen (15) days after the close of each calendar quarter (15 April, 15 July, 15 October, 15 January).
+2. The amount of each quarterly payment, under paragraph 1 of this Article, shall be ten percent (10%) of the taxable rental income (gross rental income minus ten percent (10%) deduction provided in Article 27 of this Law) received in the calendar quarter immediately preceding the payment date reduced by any amount held during the quarter pursuant to Article 30.2 of the Law on Corporate Income Tax.

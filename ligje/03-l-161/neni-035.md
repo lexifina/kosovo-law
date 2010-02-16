@@ -1,0 +1,29 @@
+## KREU VIII
+## DISPOZITAT NDËRKOMBËTARE
+# Neni 35
+Njësi e Përhershme
+1. Njësia e përhershme përfshin:
+1.1. Çdo vend te menaxhmentit;
+1.2. Çdo degë;
+1.3. Çdo zyrë;
+1.4. Çdo fabrikë;
+1.5. Çdo punëtori;
+1.6. Çdo minierë dhe 1.7. Çdo burim i naftës dhe gazit, gurore ose vend tjetër i shfrytëzimit të burimeve natyrore.
+2. Njësia e përhershme gjithashtu përfshin;
+2.1. Çdo vend ndërtimi, ndërtim, montim ose projekt instalimi, ose ndonjë aktivitet mbikëqyrës në lidhje me këtë, por vetëm nëse ndërtimi, projekti ose aktiviteti i tillë zgjat më shumë se 183 ditë. Kur vend ndërtimi, projekti ose aktiviteti zgjat më shumë se 183 ditë, duke përfshirë edhe aktivitetet përgatitore, vend ndërtimi, projekti apo aktiviteti konsiderohet se ka qenë apo është krijuar si njësi e përhershme nga dita kur ka filluar puna e tillë;
+2.2. Ofrimin e ndonjë shërbimi, duke përfshirë shërbime të konsultimeve, por duke përjashtuar aktivitetet e mbikëqyrjes të parapara ne paragrafin 2.1 të këtij neni të kryera në Kosovë nga personi jo rezident përmes punëtorëve ose personelit tjetër, por vetëm nëse aktivitetet e tilla vazhdojnë brenda Kosovës për një periudhë apo periudha gjithsejt 90 ditore apo më shumë brenda një periudhe dymbëdhjetë mujore. Kur aktivitetet vazhdojnë brenda Kosovës për një periudhë apo periudha gjithsejt 90 ditore ose më shumë gjatë një periudhe dymbëdhjetë mujore, aktivitetet konsiderohet se kanë krijuar njësi të përhershme nga dita kur kanë filluar aktivitetet e tilla;
+2.3. Çdo vend ndërtimi i shfrytëzuar për kërkimin e resurseve natyrore brenda Kosovës, kur aktivitetet e tilla brenda Kosovës vazhdojnë për një periudhë apo periudha gjithsejt 183 ditore apo më shumë brenda cilësdo periudhe dymbëdhjetë mujore. Kur aktivitetet vazhdojnë për një periudhë apo periudha gjithsejt 183 ditore ose më shumë brenda një periudhe dymbëdhjetë mujore, aktivitetet konsiderohen se kanë krijuar ndërmarrje të përhershme nga dita kur kanë filluar aktivitetet e tilla, dhe
+2.4. Çdo pasuri e paluajtshme që ndodhet në Kosovë dhe posedohet nga një person jo rezident.
+3. Pavarësisht nga paragrafi 1 të këtij neni, kur personi, përveç agjentit me status të pavarur për të cilin zbatohet paragrafi 6 i këtij neni, vepron në Kosovë në emër të personit jo rezident, personi jo rezident konsiderohet se ka njësi të përhershme në Kosovë lidhur me aktivitetet që ai person i ndërmerr për personin jo rezident, nëse personi i tillë:
+3.1. Ka dhe zakonisht ushtron autorizimin në Kosovë për të lidhur kontrata në emër të personit jo rezident, përveç nëse aktivitetet e personit të tillë janë të kufizuara në ato të përmendura në paragrafin 6 të këtij neni të cilat, nëse ushtrohen përmes një vendi të caktuar të biznesit, nuk do ta bënin këtë vend të caktuar të biznesit njësi të përhershme sipas dispozitave të atij nën neni; ose
+3.2. Nuk ka autorizim të tillë, por zakonisht mban një magazinë të mallrave ose materialeve në Kosovë nga i cili vazhdimisht shpërndan mallra ose materiale në emër të tatimpaguesit.
+4. Personi jo rezident i cili ofron sigurim, përveç ri-sigurimit, do të konsiderohet se ka njësi të përhershme në Kosovë nëse mbledh primet në Kosovë ose siguron rreziqet që ndodhen në Kosovë përmes një personi, përveç agjentit me status të pavarur për të cilin zbatohet paragrafi 6 i këtij neni.
+5. Pavarësisht nga paragrafi 1 dhe 2 i këtij neni, “Njësia e përhershme” konsiderohet se nuk përfshin:
+5.1. Shfrytëzimin e objekteve vetëm me qëllim të ruajtjes ose ekspozimit të mallrave ose materialeve që i përkasin personit jo rezident ;
+5.2. Mbajtja e magazinës së mallrave dhe materialeve që i përkasin personit jo rezident vetëm me qëllim të ruajtjes apo ekspozimit;
+5.3. Mbajtja e magazinës së mallrave dhe materialeve që i përkasin personit jo rezident vetëm për qëllime të përpunimit nga një tatimpagues tjetër;
+5.4. Mbajtja e një vendi të caktuar të biznesit vetëm me qëllim të blerjes së mallrave ose materialeve ose mbledhjes së informacioneve për personin jo rezident;
+5.5. Mbajtja e një vendi të caktuar të biznesit vetëm për qëllimin e kryerjes së aktiviteteve të tjera të karakterit përgatitor apo ndihmës për personin jo rezident, dhe
+5.6. Mbajtja e një vendi të caktuar të biznesit vetëm për kombinimin e ndonjë nga aktivitetet e paraqitura në paragrafët 1 deri 5 të këtij nën neni, me kusht që aktiviteti i përgjithshëm i vendit të caktuar të biznesit që rezulton nga ky kombinim ka vetëm karakter përgatitor apo ndihmës.
+6. Personi jo rezident nuk konsiderohet se ka njësi të përhershme në Kosovë vetëm pse kryen veprimtari afariste në Kosovë përmes komisionarit, agjentit të përgjithshëm të komisionit apo ndonjë agjenti tjetër me status të pavarur, me kusht që personat e tillë veprojnë sipas rrjedhës së rëndomtë të biznesit të tyre. Megjithatë, kur aktivitetet e agjentit të tillë përkushtohen tërësisht apo gati tërësisht në emër të atij tatimpaguesi, dhe krijohen kushtet apo imponohen ndërmjet atij tatimpaguesi dhe agjentit në marrëdhëniet e tyre komerciale dhe financiare që ndryshojnë nga ata që do të kishin mundur të bëhen ndërmjet tatimpaguesve të pavarur, ai nuk konsiderohet agjent me status të pavarur në kuptimin e këtij nën neni.
+7. Fakti se personi jo rezident kontrollon ose kontrollohet nga një kompani që është rezidente e Kosovës, apo që kryen biznes në Kosovë (qoftë përmes ndërmarrjes së përhershme apo ndryshe), nuk e konsideron asnjërën kompani njësi të përhershme të tjetrës.”

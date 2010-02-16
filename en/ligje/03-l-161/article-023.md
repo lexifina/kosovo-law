@@ -1,0 +1,5 @@
+# Article 23
+Repairs and Improvements
+1. In the case of any depreciable asset, amounts expended for repairs or improvements, excluding repairs of usual maintenance, shall be capitalized and added to the basis of the asset if the repairs or improvements extend the useful life of the asset for at least one (1) year and the amount of repair or improvement is greater than one thousand (1,000) € for that asset. If the repair or improvement is one thousand (1,000) € or less for any asset, the amount of the repair or improvement shall be an expense in the year that it has been paid or occurred.
+2. If the repairs or improvements meet the criteria for capitalization according to paragraph 1 of this Article, the amount shall be capitalized and added to the remaining book value of the capital asset. The new book value of the asset will be used as the basis for depreciating the asset. The asset will be depreciated in accordance with the rules of the applicable category.
+3. Minister shall issue a sub-legal act for implementation of this Article.
