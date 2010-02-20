@@ -1,0 +1,6 @@
+# Neni 9
+Çregjistrimi
+1. Çdo person i tatueshëm i regjistruar, mund të kërkojë nga ATK, që të anulojnë regjistrimin e tij për qëllime të TVSH-së nëse furnizimet totale gjatë 12 muajve të fundit kanë qenë nën pragun e referuar në nenin 6 të këtij Ligji. Çregjistrimi hyn në fuqi dymbëdhjetë (12) muaj pas datës së paraqitjes së kërkesës.
+2. Çdo person i tatueshëm i regjistruar, është i obliguar që të kërkojë çregjistrimin nga momenti i pushimit të aktivitetit të tij. Ai duhet të njoftojë ATK-në brenda pesëmbëdhjetë (15) ditësh nga momenti i pushimit të aktivitetit. Çregjistrimi hyn në fuqi duke filluar prej datës së pushimit të aktivitetit.
+3. ATK mund të bëjë çregjistrimin e personit të tatueshëm të regjistruar për qëllime të TVSH-së, kur personi i tillë nuk i përmbushë dispozitat e këtij Ligji. ATK duhet ta njoftoj personin me vendimin dhe të ofroj arsyet në lidhje me vendimin.
+4. Ministri i Ministrisë së Ekonomisë dhe Financave duhet të lëshoj një akt nënligjor në mënyrë që të përcaktojë procedurat në lidhje me zbatimin e neneve 7, 8 dhe 9 të këtij Ligji. Ky akt nën-ligjor gjithashtu duhet të parasheh rregullat e veçanta të llogaritjes së pragut për kategoritë e personave qarkullimi i të cilëve në pjesën më të madhe dërmuese përbëhet nga furnizimet e liruara.

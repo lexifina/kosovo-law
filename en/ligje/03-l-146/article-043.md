@@ -1,0 +1,15 @@
+## CHAPTER XIV
+## BAD DEBTS
+# Article 43
+Bad debt for VAT purposes
+1. Where the whole or part of the payment for a taxable supply is not received by a taxable person- supplier, he may consider the amount of non payment a bad debt for VAT purposes. Such taxable person may apply to TAK for written permission to reduce the amount of output tax due from him by the amount of VAT paid in respect of the supply that is attributable to the whole or part of the payment for the taxable supply that has not been received. The application shall be accompanied by sufficient evidence of the taxable person to prove that the VAT on the debt has been paid to TAK and that the whole or part of the payment for the taxable supply has not been received.
+2. An application under paragraph 1 of this Article, shall not be made less than six months after the end of the tax period in which the VAT on the whole or part of the payment for a taxable supply, which has not been received, was paid to TAK.
+3. The Director or the authorised person may refuse an application made under paragraph 1 of this Article, where he considers that the evidence of the taxpayer is insufficient that the taxable person has paid the VAT on the taxable supply to TAK and that he has not received the whole or part of the payment for that taxable supply.
+4. Where the Director or the authorised person is satisfied that the taxable person has paid the VAT on the taxable supply and has not received the whole or part of the payment for that taxable supply, he shall give written permission for the taxable person to deduct from the amount of output tax due from him for his next tax period, the amount of VAT on the whole or part of the payment that has not been received.
+5. Where a taxable person who made an application under paragraph 1 of this article, receives written permission from the Director to reduce his output tax in respect of a bad debt, he shall:
+5.1.Create a bad debt invoice and include this in his records, with the letter from the Director attached to that invoice;
+5.2.Send copies of that bad debt invoice and the Director’s letter to the person to whom the taxable supply was made;
+5.3.Send copies of that bad debt invoice and the Director’s letter to the competent regional Tax Office.
+6. Where the person to whom the taxable supply was made and who is bad debtor, receives a copy of the bad debt invoice and the Director’s or authorized person’s letter, he shall increase the amount of output tax shown on his next VAT return by the amount shown on the bad debt invoice.
+7. Where the output tax of a taxable person has been reduced as a result of an application made under paragraph 2 of this article and the whole or part of that debt is subsequently paid, the taxable person shall treat as further output tax due for the tax period in which the subsequent payment was made the part of the output tax reduced that is attributable to the part of the bad debt subsequently paid.
+8. The Minister of Economy and Finance may authorise by sub-legal act a special scheme for the enterprises of public interest.

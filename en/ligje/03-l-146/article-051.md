@@ -1,0 +1,5 @@
+# Article 51
+Special provisions
+1. The taxable amount and the amount of VAT on invoices must be expressed in euro.
+2. TAK may require invoices or documents serving as invoices in respect of supplies of goods or services in Kosovo or to other countries, to be translated into an official language of Kosovo.
+3. The Minister of Economy and Finance shall issue a sub-legal act to determine detailed explanations and obligations as to respect the implementation of Chapter 15 of this Law. Minister may as well impose in accordance with European Union arrangements and in addition to the common used trade documents in Kosovo, other documents such as delivery notes, freight bills, transport documents, detailed accounts and records such as registers for contract and process work and other means of proof with respect of transactions and the movement of the goods in order to ensure the correct assessment and collection of VAT.
