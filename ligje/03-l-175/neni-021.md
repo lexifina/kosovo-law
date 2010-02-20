@@ -1,0 +1,3 @@
+# Neni 21
+Rishikimi i Garancive Shtetërore
+Të gjitha garancitë do të raportohen si pjesë e BKK. Në mënyrë që garancitë shtetërore të mund të miratohen, huamarrësi duhet t’i dorëzoj Ministrisë një propozim ku përfshihet edhe analiza ekonomike dhe financiare e projektit të propozuar për financim nga huazimi në fjalë. Ministria do të shqyrtoj propozimin dhe do t’ia jap mendimin e saj qeverisë bashkë me propozimin burimor të huamarrësit në mënyrë që qeveria të marr vendim. Vendimi për dhënien e garancisë do të merret nga Qeveria jo më vonë se gjashtëdhjetë (60) ditë pasi kërkesa për hua, e dokumentuar në mënyrë të duhur, është dorëzuar.

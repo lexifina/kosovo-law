@@ -1,0 +1,3 @@
+# Article 21
+Review of State Guarantees
+All guarantees shall be reported as part of the KCB. In order that any government guarantee can be approved, the borrower must submit a proposal to the Ministry, including economic and financial analysis of the proposed project to be financed by the underlying borrowing. The Ministry shall review the proposal and submit its opinion, together with the borrowers original proposal to the government for its decision. The decision on the granting of the guarantee shall be taken by the Government not more than sixty (60) days after the loan request, properly documented, has been filed.

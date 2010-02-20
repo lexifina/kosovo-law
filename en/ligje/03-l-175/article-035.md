@@ -1,0 +1,7 @@
+# Article 35
+Miscellaneous
+1. Ledger of Municipal Debt. The Ministry shall maintain a Ledger of all existing Municipal Debt. The Minister is authorized to adopt regulations relating to the information to be contained in such Ledger. The Ledger shall be continuously updated by the Ministry, shall be open to inspection by the public, and shall be published annually.
+2. Authority of Municipal Officials. The Mayor and any other Municipal officials that are authorized pursuant to the Resolution shall be authorized to take any actions necessary for or in relation to the issuance of Debt in accordance with the terms and conditions of the Resolution.
+3. Public Information. All documentation relating to the authorization of Debt, including the Resolution and any Financing Agreement, shall be public information and available to the public on reasonable terms and conditions.
+4. Books and Records. A Municipality shall be required to keep such records and necessary information to permit the verification of the terms Debt and compliance with the terms of the Resolution, including, but not limited to, the usage of proceeds in accordance with the requirements of the Resolution. Such information shall be public information as set out in Article 35.3 above.
+5. Leasing Contracts. Leasing contracts and other similar financial arrangements that provide for installment payments for a period of time shall require the same procedures and authorizations as for long-term debt.
