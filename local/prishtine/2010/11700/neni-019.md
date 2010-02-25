@@ -1,0 +1,5 @@
+# Neni 19
+19.1 Me qëllim të përmbushjes së kërkesave të qytetarëve me karakter të përgjithshëm apo të veçantë, për kategori të caktuara të banorëve të qytetit, të fshatrave apo të lagjeve urbane, Komuna organizon:
+Fushata informative dhe publikime për promovimin e programeve dhe të a) aktiviteteve komunale; Kontakte me qarqe të zgjedhura për të diskutuar politikat; b) Anketa lidhur me zbatimin e politikave; c) Prezantime publike të propozimeve lidhur me politika apo projektrregullore, duke d) ftuar për pjesëmarrje; Kontakte me grupet përkatëse të interesit; e) Takime me qytetarë; f) Seanca publike; g) Shqyrtime publike; h) Studime për vlerësimin e ndikimit; i) Komitete këshillëdhënëse dhe j) Referendum. k)
+19.2 Arsyetimi për zgjedhjen e formave, apo të pjesëmarrjes publike, do të jepet në çdo rast dhe do të lejohet një afat kohor i mjaftueshëm për paraqitjen e prezantimeve.
+19.3 Rezultatet e konsultimeve apo të pjesëmarrjes, do të merren parasysh dhe do të publikohen para se të merret vendimi përfundimtar.
