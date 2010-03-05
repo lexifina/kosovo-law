@@ -1,0 +1,9 @@
+# Neni 8
+1. Nëse kryesuesi i mbledhjes konsideron se ndonjëri prej anëtarëve nuk sillet mirë në mbledhje, duke mos respektuar fjalën e kryesuesit, duke e penguar me dashje punën e mbledhjes, ose duke u bërë sjellje ofenduese, atij duhet t’i tërhiqet vërejtja. Nëse sjelljet e anëtarit në fjalë vazhdojnë të jenë të pandryshueshme, kryesuesi i mbledhjes mund të ndërmarrë njërën prej këtyre masave, veçmas ose si varg masash:
+a. iu propozon të pranishmëve në mbledhje që anëtari të mos dëgjohet, në të cilin rast propozimi duhet të bëhet menjëherë në mbledhje, pa nevojë përkrahjeje dhe nëse propozimi miratohet, anëtarit i ndalohet diskutimi i mëtutjeshëm në mbledhje; b. e udhëzon anëtarin e Kuvendit/komitetit, të tërhiqet tërësisht ose pjesërisht nga pjesa e mbetur e mbledhjes, përveç kur do të ketë votime; c. jep urdhrin që anëtari të largohet nga mbledhja, përveç kur do të ketë votime; d. e shtyn mbledhjen për një orë, ose deri në kohën, datën dhe vendin i cili mund të caktohet më vonë.
+2. Nëse pjesëtari i publikut me dashje ndërpret punët e mbledhjes, kryesuesi i mbledhjes ia tërheqë vërejtjen atij/asaj. Nëse ai/ajo vazhdon ta ndërpres mbledhjen, kryesuesi i mbledhjes mund të ndërmarrë njërën prej këtyre masave, veçmas ose si varg masash:
+Adresa: Rr. UÇK- 2-10.000 Prishtinë-Kosovë Telefon: + 381(0)38/230-900 http://www.prishtina-komuna.org
+a. e udhëzon anëtarin të tërhiqet tërësisht ose pjesërisht nga mbledhja; b. jep urdhrin që anëtari të largohet nga mbledhja;
+c. e shtyn mbledhjen për një orë, ose deri në kohën, datën dhe vendin i cili mund të caktohet më vonë.
+3. Nëse mbledhja ndërpritet për ndonjë çrregullim, kryesuesi i mbledhjes mund të urdhërojë që të gjithë të lirojnë sallën e mbledhjes dhe mund ta shtyjë mbledhjen për një orë, ose deri në kohën, datën dhe vendin i cili mund të caktohet më vonë.
+III. Procedura e ndryshimit
