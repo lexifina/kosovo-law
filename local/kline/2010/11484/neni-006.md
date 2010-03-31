@@ -1,0 +1,2 @@
+# Neni 6
+Komuna e ka vulën e vet, të rrumbullaket dhe katrore të formateve standarde. Mënyra e mbajtjes, numri i vulave dhe udhëheqja e vulave të Komunës dhe vulave të tjera komunale do të përcaktohen me vendim të veçantë të Kuvendit të Komunës, i nxjerr dhe miratuar në pajtim edhe me Ligjin për Vula në institucionet e Republikës së Kosovës nr.03/L-054, të datës 30 korrik 2008, i publikuar në Fletoren Zyrtare të Republikës së Kosovës nr.38, si dhe në pajtim me aktet tjera nënligjore të cilat rregullojnë këtë lëmi.

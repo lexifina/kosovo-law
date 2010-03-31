@@ -1,0 +1,2 @@
+# Neni 3
+Statuti i Komunës zbatohet vetëm brenda kufijve të Komunës së Klinës. Selia e Komunës së Klinës është në Klinë, në afërsi të sheshit: ,,Mujë Krasniqi" në Klinë. Brenda territorit të saj Komuna ushtron përgjegjësitë të cilat nuk i janë rezervuar shprehimisht Pushtetit Qendror. Komuna mund të delegojë përgjegjësitë e saj tek komunat tjera, apo të hyjë në marrëdhënie kontraktuese ndërkomunale me komunat tjera në pajtueshmëri me ligjin në fuqi.

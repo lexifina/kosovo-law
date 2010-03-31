@@ -1,0 +1,2 @@
+# Neni 62
+Drejtori i Drejtorisë kompetente të Financave dhe Ekonomisë është përgjegjës për koordinimin e përgjithshëm të procesit të buxhetit, duke përfshirë edhe përgatitjen e tij dhe ciklin e konsultimeve të brendshme dhe konsultimeve me publikun. Konsultimet me publikun mbahen në kohën ndërmjet mesit të prillit dhe mesit të qershorit në mënyrë qe t’i mundësohet të gjithë qytetarëve brenda komunës që t’i japin mendimet e tyre për të hyrat dhe propozimet për investime të buxhetit.

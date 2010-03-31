@@ -1,0 +1,2 @@
+# Neni 72
+Zyra e komunitetet është pjesë integrale e komunës dhe e strukturës së përbashkët administrative të cilën e themelon komuna. Shefi i zyrës së komunitetit, paraqet raportin për secilën mbledhje të Komitetit për Komuniteteve, duke përshkruar në detaje punët e kryera për të cilat është përgjegjës. Zyra e komunitetit është përgjegjës për përmirësimin e mbrojtjes së të drejtave të komunitetit dhe sigurimin e shërbimeve të barabarta publike në nivelin komunal.

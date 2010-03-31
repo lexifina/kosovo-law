@@ -1,0 +1,5 @@
+# Neni 90
+Kryetari i Komunës në bashkëpunim me Udhëheqësin e personelit do të emërojë një nën – komision detyrat e të cilit do të jenë këshillimi dhe konsultimi në përgjithësi për çështjet e resurseve njerëzore që kanë të bëjnë me shërbimin civil komunal në veçanti me çështjet në vijim:
+1. Kategoritë dhe numrat për kategori që kanë të bëjnë me pozitat në shërbimin civil, 2. Mbikëqyrja dhe përgjegjësitë, 3. Detyrat dhe obligimet, 4. Delegimi i detyrave dhe obligimeve, 5. Rekrutimi dhe përzgjedhja, 6. Kushtet e pranimit, 7. Fillimi i punës në zyrë, puna provuese dhe lista rezervë, 8. Procedurat ankimore, 9. Procedurat e kundërshtimeve, 10. Trajnimi dhe provimet, 11. Rishqyrtimi i paraqitjes dhe procedurat e vlerësimit, 12. Përparimi dhe suksesi në karrierë, 13. Dosjet dhe referencat e stafit, 14. Kohëzgjatja e punësimit dhe njoftimi mbi pushimin e marrëdhënies së punësimit,
+15. Pagesat dhe shpërblimet tjera, 16. Pagesa për udhëtim dhe mëditjet, 17. Pushimi, 18. Rregullat e shërbimit civil komunal.
+Veprimet dhe aktet juridike

@@ -1,0 +1,3 @@
+# Neni 28
+Kuvendi i Komunës themelon komitete këshillëdhënëse sektoriale me qellim të pjesëmarrjes së qytetarëve në procesin e vendimmarrjes (neni 73 i LVL-e). Anëtarësimi në komitete përbëhet nga qytetarët dhe përfaqësuesit e organizatave joqeveritare. Mënyra e themelimit dhe struktura e komiteteve përcaktohet me vendimin e Kuvendit të Komunës për themelimin e komiteteve. Komitetet konsultative mund të bëjnë propozime, për përmirësimin apo zgjidhjen e problemeve të identifikuara. Po ashtu komitetet konsultative mund të dorëzojnë propozime, bëjnë hulumtime dhe ofrojnë mendime për iniciativat e Kuvendit të Komunës, në pajtim me Statutin e Komunës (neni 73 pika 73.3 të LVL-e).
+Iniciativa e qytetarëve

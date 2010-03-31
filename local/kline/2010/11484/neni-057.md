@@ -1,0 +1,3 @@
+# Neni 57
+Bashkëpunimet tjera komunale dhe ndërkomunale
+Më qellim të krijimit të kushteve për investime në ekonomi dhe avancimin e vlerave kulturore, arsimore dhe sportive si dhe zhvillimin e gjithëmbarshëm, komuna mban lidhje të drejtpërdrejta dhe bashkëpunon më qytetar të cilët përherë apo përkohësisht janë shpërngulur nga territori i Komunës në ndonjë vend tjetër të Kosovës apo në botën e jashtme. Bashkëpunimi mund të bëhet edhe me qytete dhe komuna të tjera në botën e jashtme, më organizata qeveritare dhe jo qeveritare vendore dhe ndërkombëtarë, krejt kjo në pajtim më politikat e përcaktuara nga niveli i pushtetit qendror.

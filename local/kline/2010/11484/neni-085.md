@@ -1,0 +1,2 @@
+# Neni 85
+Të gjithë drejtorët e drejtorive komunale përjashtohen nga marrja e vendimeve dhe nga procedurat administrative që kanë të bëjnë më çfarëdo çështjesh për të cilën ai apo ndonjë anëtar i ngushtë i familjes së tij kanë ndonjë interes personal ose financiar. Nga drejtoret kërkohet që të paraqesin me shkrim çdo konflikt interesash menjëherë pasi shfaqen. Statuti i Komunës dhe Rregullorja e punës përfshijnë masat të cilat merren për të përjashtuar drejtorët nga vendimmarrja dhe procedurat administrative ku ata kanë ndeshje interesash.

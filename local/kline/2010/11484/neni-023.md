@@ -1,0 +1,2 @@
+# Neni 23
+Kryetari i Komunës apo përfaqësuesi i tij, do t’i kryesojë takimet me publikun. Kryetari apo përfaqësuesi i tij duhet të përcaktojë procedurën, e cila do të shfrytëzohet gjatë takimit dhe nuk do të lejojë diskutime për çështje të cilat nuk janë në rend dite apo qe nuk janë në kuadër të pushtetit të komunave dhe përgjegjësit dhe punët e komunës. Çështja e takimeve me publikun më për se afërmi rregullohet më Rregulloren e veçantë komunale për Konsultim dhe pjesëmarrje të publikut në vendimmarrje.

@@ -1,0 +1,2 @@
+# Neni 5
+Komuna e Klinës ka emblemën e vet. Përmbajtja dhe përdorimi i emblemës përcaktohet me vendim të veçantë të Kuvendit të Komunës. Përmbajtja dhe forma e emblemës është: Pamja e Ujëvarës së kanionit Mirusha, Ura e Vjetër e Gurit, në pjesën e lartë figuron mbishkrimi K l i n ë; në pjesën e poshtme është shkrimi:85 Chinna- 150. Asnjë subjekt dhe person tjetër nuk mund të përdor emblemën dhe shenjat tjera komunale, apo simbolet pa autorizim paraprak të dhënë nga organet kompetente komunale.

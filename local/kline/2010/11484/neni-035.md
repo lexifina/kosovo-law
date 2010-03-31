@@ -1,0 +1,3 @@
+# Neni 35
+3. Komitetet tjera komunale
+Kuvendi i Komunës themelon edhe komitete të tjera për të cilat konsideron se janë të nevojshme për kryerjen e përgjegjësive te tyre (neni 51 pika 51.2 dhe 51.3 të LVL-e), kjo sipas specifikës komunale dhe drejtorive tjera të themeluara, duke respektuar përvojën adekuate dhe kriteret profesionale. Numri i anëtarëve të këtyre komiteteve duhet të jetë se pakut 5 e me së shumti 7, nderkaq anëtarsia reflekton përbërjën e Kuvendit të Komunës. Emërtimi, struktura e tyre dhe çështjet tjera përcaktohen me vendimin e formimit të tyre nga Kuvendi i Komunës, dhe Rregullorës komunale për Punën e Kuvendit dhe komiteteve të Komunës.

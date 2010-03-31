@@ -1,0 +1,3 @@
+# Neni 33
+Çështja e Komitetit për Politik dhe Financa, kryesimi dhe përbërja e tij si dhe përgjegjësit e tija rregullohen me dispozitën e nenit 52 të LVL-e. Anëtarësimi në çdo rast duhet të pasqyrojë sa më të përafërt proporcionin e nivelit të përfaqësimit të partive politike dhe përfaqësimin gjinor në Kuvendin e Komunës. Anëtarët e KPF-së nuk kanë të drejtë të jenë anëtarë të komiteteve të tjera. Numri i anëtarëve të KPF-së duhet të jetë së pakut 5 e më së shumti 9 anëtarë. Mbledhjet e KPF-a kryesohen nga Kryesuesi i Kuvendit të Komunës. Në mungesë të kryesuesit mbledhjet kryesohen nga njëri prej anëtarëve të këtij komiteti.
+2. Komiteti i Komuniteteve

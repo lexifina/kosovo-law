@@ -1,0 +1,2 @@
+# Neni 55
+Anëtarët që kanë konflikt të interesit në lidhje me një çështje të caktuar nuk duhet të flasin e as të votojnë për çështjen për të cilën kanë konflikt të interesit dhe duhet të dalin nga salla e mbledhjes atëherë kur diskutohet ajo çështje. Nëse vije deri të ndonjë konflikt potencial i interesit pasi që është marrë vendimi, por para se të implementohet ai, vendimi duhet të suspendohet dhe çështja duhet të hetohet. Nëse arrihet në përfundim se ka ekzistuar konflikti i interesit, vendimi duhet të anulohet tërësisht dhe duhet të bëhet një vendim i ri.

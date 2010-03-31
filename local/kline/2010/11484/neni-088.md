@@ -1,0 +1,3 @@
+# Neni 88
+Administrata komunale organizohet në drejtori, ndërkaq çdo drejtori komunale menaxhohet nga drejtori i cili emërohet dhe shkarkohet nga Kryetari i Komunës. Administrata komunale ka Udhëheqësin e personelit. Kryetari shpall, rekruton dhe largon Udhëheqësin e personelit në pajtim më ligjin në fuqi për Shërbimin Civil të Kosovës. Nëse posti i Udhëheqësit të personelit, mbetet i zbrazet, Kryetari i Komunës emëron një anëtar të lartë të shërbimit civil komunal në cilësinë e kryesit-ushtruesit të detyrës së udhëheqësit të personelit. Rekrutimi i udhëheqësit të personelit bëhet nga ana e Kryetarit, brenda 60 ditësh në pajtim më nenin 65 pika 65.2 të LVL-e.
+Konfliktet e interesit të nëpunësve të administratës komunale
