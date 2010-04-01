@@ -1,0 +1,2 @@
+# Neni 40
+Nëse me rastin e shqiptimit të dënimit për kundërvajtje nga neni 38 dhe 39 të këtij ligji, konstatohet se subjekti hotelier brenda dy (2) viteve të fundit ka qenë i dënuar me vendim të plotfuqishëm për kundërvajtje të paraparë me nenet e mësipërme, krahas dënimit me të holla, do ti shqiptohet edhe masa mbrojtëse e ndalimit të ofrimit së veprimtarisë hoteliere në kohë zgjatje deri një vit me Vendim të Ministrisë.

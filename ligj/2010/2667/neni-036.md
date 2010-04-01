@@ -1,0 +1,19 @@
+# Neni 36
+1. Me gjobë prej pesëqind (500) deri në njëmijepesëqind (1.500) Euro dënohet për kundërvajtje personi juridik, në qoftë se:
+1.1. në lokalet ku shiten shërbimet nuk e mban Librin e ankesave ose nuk e mban në formën, përmbajtjen dhe mënyrën e paraparë me ligj ose në afatin prej 3 ditësh nuk i kthen përgjigje secilës ankesë (neni 5 paragrafi 1 nën-paragrafi 1.3 i këtij ligji);
+1.2. nuk e shpalos shenjën “Agjenci turistike” sipas nenit 8 të këtij ligji;
+1.3. nuk e vendos në hyrje të lokalit afarist tabelën në të cilën është shënuar firma e agjencisë së udhëtimeve (neni 11 paragrafi 1 nën-paragrafi 1.1 i këtij ligji);
+1.4. në hyrje të lokalit afarist, ku drejtpërdrejt i shet shërbimet e veta nuk e afishon orarin e punës (neni 11 paragrafi 1 nën-paragrafi 1.2 i këtij ligji);
+1.5. me kërkesë të shfrytëzuesit të shërbimeve nuk deklarohet për cilësinë në treg dhe vëllimin e autorizimeve, në qoftë se i përfaqëson agjencitë e tjera të udhëtarëve (neni 12 paragrafi 1 nën- paragrafi 1.3 i këtij ligji);
+1.6. në të gjitha materialet reklamuese dhe promovuese, si dhe në të gjitha dokumentet afariste, dukshëm nuk e vendos firmën dhe selinë (neni 11 paragrafi 1 nën-paragrafi 1.4 i këtij ligji);
+1.7. nuk i ruan si sekret afarist gjithë sa di për udhëtarin (neni 11 paragrafi 1 nën-paragrafi 1.5 i këtij ligji);
+1.8. nuk ofron shërbimet turistike të përcaktuar me kontratë ose nuk i ofron ato me cilësi (neni 11 paragrafi 1 nën-paragrafi 1.6 i këtij ligji);
+l.9. nuk i ofron udhëtarit edhe siguracionin e nevojshëm nga lëndimet, sëmundja, vdekja dhe humbja e bagazhit gjatë udhëtimit dhe qëndrimit (neni 11 paragrafi 1 nën-paragrafi 1.7 i këtij ligji);
+1.10. për secilin paketë aranzhman turistik ose udhëtim që organizon, nuk e boton programin me përmbajtjen nga neni 16 të këtij ligji, ose në qoftë se para se ta lidhë kontratën për organizimin e udhëtimit, ose të shfrytëzimit të shërbimeve të tjera, nuk e vë në qarkullim programin, prospektin ose katalogun (paragrafi1 i nenit 16 i këtij ligji);
+1.11. organizon udhëtime grupore, por nuk siguron të paktën një shoqërues turistik që i plotëson kushtet ligjore për çdo grup prej pesëmbëdhjetë (15) apo më shumë udhëtarësh, ose nuk siguron punëtorin profesional që është i aftësuar për punë në veprimtarinë turistike, ose nuk siguron shoqërues turistik që i plotëson kushtet ligjore, ose për vizitat grupore të vendeve turistike për të cilat në program është paraparë soditja e tyre, nuk angazhon ciceron turistik që është i autorizuar për ofrimin e shërbimit të ciceronit në atë vend turistik (neni 15 i këtij ligji);
+1.12. shet paketë aranzhmane turistike dhe programe ekskursioni, ndërsa nuk ka në zyre të paktën një të punësuar, i cili i plotëson kushtet e parapara me këtë ligj (neni 18 paragrafi 1 i këtij ligji);
+1.13. ofrimin e punëve të ciceronit turistikë ia beson personit që nuk i plotëson kushtet e parapara me këtë ligj (neni 23 paragrafi 1 nën-paragrafi 1.1 i këtij ligji);
+1.14. i ofron shërbimet e shoqëruesit turistik, por nuk i plotëson kushtet nga neni 23 paragrafi 1 i këtij ligji, ose duke i ofruar shërbimet e shoqëruesit turistik nuk e mbanë me vete vërtetimin e provimit të dhënë për shoqërues turistik (neni 23 paragrafi 1 nën-paragrafi 1.3 i këtij ligji);
+1.15. gjatë kohës që ofron shërbimet e animatorit turistik, nuk i plotëson kushtet e parashikuara nga neni 23 i këtij ligji dhe nuk e ka me vete vërtetimin e provimit të dhënë për animator turistik (neni 23 paragrafi 1 nën-paragrafi 1.2 i këtij ligji).
+2. Për kundërvajtje nga paragrafi 1.1 i këtij neni, personi fizik dhe personi përgjegjës në personin juridik, dënohet me gjobë prej njëqindepesëdhjetë (150) deri në katërqindepesëdhjetë (450) Euro.
+3. Për kundërvajtjen nga paragrafi 1 i këtij neni inspektori dënon personin përgjegjës dhe drejtuesin në personin juridik në vendin e kundërvajtjes, me gjobë prej njëqind (100) Euro.
