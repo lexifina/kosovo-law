@@ -1,0 +1,2 @@
+# Article 23
+Legal and natural entities that produce, make circulation and exercise the ionize radiation sources are obligated that persons which are working with ionize radiation sources and are exhibited to this radiation, to insure them personal dissymmetric controls, to supply them with personal protection equipments, and advise them for regularly health controls, and also to insure confirmation of equipment exactness and the right use of those equipments.

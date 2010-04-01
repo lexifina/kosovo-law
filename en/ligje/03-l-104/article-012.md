@@ -1,0 +1,3 @@
+# Article 12
+Systematic investigation of the radionuclides in the environment
+Presence reveal, dangerous definition, information and undertaking the measures for protection from ionized radiation, should be done by the foreseen conditions and manners, systematic investigation of radionuclides’ structure in the air, in the land, rivers, lakes, in the solid falls, and liquids, in the vegetative and animal beings, in construction material, in the stuffs of general consumptions, in the drinking water, in human foodstuffs, and in animal foodstuffs, and that in normal conditions, in case of doubts of the extraordinary occurrences and also during extraordinary occurrences.

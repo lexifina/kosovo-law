@@ -1,0 +1,3 @@
+# Article 53
+1. Against the Decision of Inspectorate on Environment, unsatisfied party has a right within eight (8) days, from the day of receiving decision, to submit appeal to the Ministry, which within thirty (30) days, since the receiving appeal, should issue the respective decision regarding to that appeal.
+2. Appeal against the Decision of Inspectorate on Environment, will not delay execution of this decision. Against the decision of the Ministry regarding the appeal, the unsatisfied party has a right to make an administrative contest in accordance with Law on the Administrative Procedure.

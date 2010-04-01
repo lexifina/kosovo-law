@@ -1,0 +1,14 @@
+# Neni 57
+1. Me të holla prej pesëqind (500) deri në katërmijë (4.000) Euro, do të dënohet personi juridik, nëse:
+1.1. nuk bën analizën sistematike të përbërjes së radionukleideve në mjedis ose nuk bën matjen e pandërprerë të dozës së absorbuar të rrezatimit, në mënyrë të paraparë dhe sipas kushteve të parapara.
+1.2. nuk përmbush kushtet e parapara për prodhim, qarkullim dhe shfrytëzim të burimeve të rrezatimit jonizues ose prodhon, bënë bartjen dhe shfrytëzon burimet e rrezatimit jonizues para marrjes së vendimit nga Ministria ose këtë vendim gjatë regjistrimit në regjistër, nuk ia dorëzon organit kompetent (neni 18 i këtij ligji);
+1.3. personave të punësuar në vendet me ekspozim të rrezatimit jonizues nuk ua siguron kontrollin dozimetrik, nuk i pajisë me mjete mbrojtëse personale, nuk i udhëzon për kontrollim të rregullt mjekësor ose nuk ua siguron vërtetimin e rregullsisë së atyre mjeteve dhe shfrytëzimin e tyre (neni 13 i këtij ligji);
+1.4. bën bartjen e burimeve të rrezatimit jonizues jashtë kufijve të Kosovës pa lejen e organit kompetent, ose bën bartjen e burimit të rrezatimit jonizues në zonat kufitare ku nuk është e organizuar mbikëqyrja inspektuese apo nuk informon me kohë inspektorin për arritjen e dërgesës së burimit të rrezatimit jonizues në zonën kufitare (neni 30 i këtij ligji );
+1.5. nuk zbaton masat e sigurisë nukleare, të parapara me ligj;
+1.6. i qaset ndërtimit, lëshon në punë provuese, lëshon në punë ose përgjithmonë ndërpret punën e objektit nuklear pa lejen e organit kompetent ( neni 31 i këtij ligji);
+1.7. për kryerjen e detyrave dhe punëve të udhëheqjes së prodhimit në objektin nuklear ose në detyrat dhe punët e mbikëqyrjes së atij procesi, cakton persona të cilët nuk i përmbushin kushtet e parapara;
+1.8. nuk bën analizën sistematike të prezencës së radionukleideve në mjedis, në rrethin e vetë në mënyrë adekuate sipas kushteve të parapara;
+1.9. nëse me rastin e ndërprerjes së shfrytëzimit përfundimtar të objektit nuklear, paraprakisht për këtë, nuk informon organin kompetent të qeverisë, apo gjatë ndërprerjes së përhershme të shfrytëzimit të objektit, në afatin që ia cakton organi kompetent, nuk zbaton masat gjegjëse të sanimit në lokacion, objekt si dhe në rrethinë;
+1.10. nuk mban evidencën e paraparë sipas zonave të bilanceve për materialet nukleare të cilat i prodhon, përpunon, shfrytëzon, apo deponon ose të dhënat nga kjo evidencë, nuk ia dërgon organit kompetent, nuk vepron sipas vendimit ekzekutiv të organit kompetent me të cilën përcaktohet një prej masave të parapara;
+1.11. inspektorit, gjatë kryerjes së mbikëqyrjes inspektuese, nuk i mundëson punë pa pengesa dhe qasje në dokumentacion si dhe materialet tjera të duhura.
+2. Për moskryerjen e punëve nga paragrafi 1 i këtij neni, do të gjobitet me të holla prej njëqind (100) deri treqind (300) Euro edhe personi përgjegjës i personit juridik.
