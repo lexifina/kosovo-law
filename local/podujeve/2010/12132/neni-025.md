@@ -1,0 +1,6 @@
+# Neni 25
+Shfrytëzimi i përkohshëm i pronës komunale
+25.1 Për shfrytëzimin e përkohshëm të pronës komunale – tokës ndërtimore për afarizëm apo interesa të tjera paguhet qiraja në shumën mujore për 1 m² si vijon: Për zonën e I.................................................................................................3.oo € Për zonën e II................................................................................................2.oo € Për zonën e III...............................................................................................1.oo € 25.2 Dhënia me qira e lokaleve afariste, objekteve dhe hapësirave tjera afariste në pronësi të komunës bëhet me tender, sipas procedurave të Prokurimit.
+25.3 Mënyra e pagesës së qirasë përcaktohet në procedurë të veçantë.
+25.4 Taksa të ndryshme administrative në lëmin e pronës
+- Certifikata që Komuna s’është e interesuar për blerjen e paluajtshmërisë..5.oo € - Kopja e aktvendimeve.................................................................................1.oo € - Kontrata për shfrytëzimin e tokës ndërtimore............................................10.oo € - Certifikata dhe vërtetime të ndryshme.........................................................3.oo € - Pagesa e shumës së taksave përkatëse bëhet me rastin e paraqitjes së kërkesave.

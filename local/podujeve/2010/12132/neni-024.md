@@ -1,0 +1,9 @@
+# Neni 24
+Taksat në transaksion të pronës së paluajtshme
+24.1 Për një njësi (shtëpi deri në 100 m² me oborr deri në 0.05,oo ha, banesë deri në 100 m², lokal afarist deri 100 m², garazh, bodrum dhe tokë deri 1 hektar).150.oo € 24.2 Mbi 100 m² të shtëpisë, banesës, lokalit afarist dhe tokës mbi një hektar, llogaritet 1 njësi dhe e njejta paguhet ...............................................150.oo € 24.3 Në kontratë të përbashkët, çdo blerës paguan veçmas nga..............100.oo €
+24.4 Transaksionet të cilat bëhen mbi bazën e trashëgimisë dhe dhuratave në rendin e parë të trashëgimisë lirohen nga pagesa e tarifës 24.5 Lirohen nga taksat në transaksion të pronës ish pronarët të cilëve me aktgjykim-aktvendim të formës së prerë të Gjykatës, përkatësisht organit kompetent të administratës, iu është kthyer pasuria e paluajtshme nga e cila janë shpronësuar në çfarëdo mënyre qoftë.
+24.6 Taksën në transaksaksion të pronës së palaujtshme nuk e paguajnë:
+1. Republika e Kosovës, organet e administratës shtetërore, njësitë e vetëqeverisjes dhe administratës lokale dhe të gjithë kontraktuesit e tjerë, të cilët financohen nga buxheti i konsoliduar i Kosovës.
+2. Oganizatat humanitare dhe bashkësitë fetare kur për qëllime jo fitimprurëse e marrin falë pronën e palujtshme,si dhe 3. Falëdhënësit të cilët pasurinë e palujtshme ia falin Republikes së Kosovës . dhe subjekteteve të përmendura në nenin 24.6, nënparagrafi 1 dhe 2.
+24.7 Nuk i i nënshtrohet pagesës së tarifës në transaksion të pronës ndarja fizike e pronës në mes të bashkëpronarëve.
+24.8 Transaksionet sipas kontratës për ndarjen fizike të paluajtshmërive mbi bazën e shkëputjes së bashkësisë familjare, paguajnë taksën në shumën prej.......................................................................................................40.oo € 24.9 Shuma e taksës në transaksion caktohet me aktvendim nga Drejtoria e Buxhetit, Financave, Planifikimit dhe ZHvillimit

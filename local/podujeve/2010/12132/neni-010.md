@@ -1,0 +1,2 @@
+# Neni 10
+- Për vendosjen e përkohshme të garazheve montazh, me sipërfaqe deri ne 18 m2 taksa për poseduesit e tokës është 120.oo € në vit, - Për vendosjen e garazheve të përkohshme me sipërfaqe deri ne 18 m2 , nё tokën shtetërore taksa është 100.oo € nё vit, - Për garazhe të cilat janë pjesë përbërëse të objektit si dhe për ndërtimin e garazheve te përhershme, taksa përcaktohet në lartësinë taksave të ndërtimit të objekteve të banimit në zonën përkatëse.

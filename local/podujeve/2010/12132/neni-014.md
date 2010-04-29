@@ -1,0 +1,2 @@
+# Neni 14
+Për mbindërtimet në objektet banesore të tërësisë së përbashkët ( kolektive ) për të cilat konform me rregullativën ligjore aplikative lejohet apo përligjet ndërtimi i tyre, pagesa e taksës llogaritet në lartësinë e vlerës kushtuese ndërtimore të atij mbindërtimi. Vlera kushtuese ndërtimore nga parag.paraprak i këtij neni caktohet nga Drejtoria e Planifikimit Urban dhe Mbrojtjes së Mjedisit.
