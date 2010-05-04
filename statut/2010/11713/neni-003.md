@@ -1,0 +1,5 @@
+# Neni 3
+3.1 Komuna e Deçanit është njësi themelore territoriale e vetëqeverisjes lokale, e përbërë nga komuniteti i qytetarëve ne territorin e përcaktuar me ligj të veçantë, e cila ushtron tërë pushtetin, i cili nuk është i rezervuar për institucionet qendrore.
+3.2 Të gjitha organet e komunës kujdesen që qytetarët e komunës t’i gëzojnë të gjitha të drejtat dhe liritë pa dallim race, etnie, ngjyre, gjinie, gjuhe, religjioni, mendimi politik apo mendimi tjetër, prejardhjeje kombëtare apo sociale, pa dallim prone, lindje apo ndonjë statusi tjetër me qëllim që ata të gëzojnë të drejta dhe mundësi të barabarta në shërbimet komunale të të gjitha niveleve.
+3.3 Komuna i zbaton politikat dhe praktikat e saj për të mbështetur bashkëjetesën dhe paqen ndërmjet qytetarëve të komunës dhe për të krijuar kushte të përshtatshme që u mundësojnë të gjithë komuniteteve për t’i shprehur, ruajtur, zhvilluar identitetet e tyre etnike, kulturore, fetare dhe gjuhësore.
+3.4 Qytetar i Komunës është çdo përson i cili është banor i përhershem i Republikës së Kosovës dhe që e ka vendbanimin e përherëshem në territorin e Komunës së Deçanit.

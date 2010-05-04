@@ -1,0 +1,2 @@
+# Neni 89
+Kryesuesi i Kuvendit Komunal do ta prezantojë çdo peticion të vlefshëm para Kuvendit të Komunës brenda 30 ditëve nga dita që ai/ajo pranon, apo në takimin e ardhshëm të Kuvendit Komunal nëse është më vonë. Kuvendi Komunal mund t’ia referojë peticionin komitetit përkatës të Kuvendit për shqyrtim të mëtejmë. Organizatori(ët) i peticionit do të ketë të drejtë t’i drejtohet pjesëmarrësve të çdo mbledhjeje ku shqyrtohet peticioni.

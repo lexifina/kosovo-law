@@ -1,0 +1,2 @@
+# Neni 41
+Kryesuesi i Kuvendit, apo përfaqësuesi i tij/saj, do t’i kryesojë mbledhjet publike. Ai/ajo do të ketë autoritetin për ta caktuar procedurën që do të duhej miratuar në mbledhje dhe autoritetin për të mos lejuar diskutimin e çfarëdo çështjeje që nuk ka të bëjë me përgjegjësitë dhe pushtetin e komunës apo kryerjen e punëve komunale. Ai/ajo mund të refuzojnë të thërrasin apo dëgjoj folësit duke prezantuar këndvështrime të ngjashme apo të përsëritura dhe mund të imponoj një limit të përgjithshëm për kohën e lejuar të fjalimeve.

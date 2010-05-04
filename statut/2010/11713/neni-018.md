@@ -1,0 +1,4 @@
+# Neni 18
+18.1 Komuna mund të bëjë marrëveshje me fshatra, vendbanime dhe lagje urbane brenda territorit të vet për të siguruar përmbushjen e të gjitha nevojave të të gjithë qytetarëve të komunës. Këto marrëveshje bëhen ne pajtim me Udhëzimet që i lëshon Ministria e Administrimit të Pushtetit Lokal.
+18.2 Me aprovimin e komunës, fshatrat, vendbanimet dhe lagjet urbane, vetë apo në mënyrë të kombinuar, mund të kryejnë aktivitete që bëjnë pjesë në përgjegjësitë dhe në kompetencat e komunës. Në këtë rast, komuna ofron burime të mjaftueshme për fshatrat, vendbanimet dhe lagjet urbane.
+18.3 Statuti dhe rregulloret komunale e përcaktojnë formën e bashkëpunimit ndërmjet komunës dhe fshatrave, vendbanimeve dhe lagj eve urbane dhe fushën e punës dhe organizimin e fshatrave, vendbanimeve dhe lagjeve urbane. Të gjitha fshatrat, vendbanimet dhe lagjet urbane e respektojnë ligjin në fuqi gjatë kryerjes së aktiviteteve sipas marrëveshjes me komunën.

@@ -1,0 +1,2 @@
+# Neni 85
+Mekanizmat e pjesëmarrjes së qytetarëve Qytetarët e komunës dhe subjektet tjera, i realizojnë të drejtat e tyre të demokracisë të drejtpërdrejtë nëpërmes të formave të prezantimit të peticionit, të ndërmarrjes së iniciativave të qytetarëve kërkesës për mbajtjen e referendumit, si dhe iniciativave të tjera, për çështjet të cilat janë në interes të qytetarëve nga përgjegjësitë dhe kompetenca e komunës.
