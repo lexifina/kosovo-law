@@ -1,0 +1,3 @@
+# Neni 4
+Pengesat e Aerodromit
+Të gjitha objektet, të palëvizshme apo të lëvizshme, që gjenden brenda një rrezeje prej 15 km prej një aerodromi dhe të cilat konsiderohen të jenë pengesa për avionët në fluturim ose në manovrim në tokë, duhet të jenë të ndriçuara gjatë natës dhe, kur pengesa nuk është mjaftueshëm e dallueshme gjatë ditës, duhet shenjuar me ngjyra të kundërta (kontrast). Pengesat sipërfaqësore dhe hapësirat me terren të keq në zonat e lëvizjes në aerodrom duhet të shenjohet nëpërmjet përdorimit të shenjave me ngjyra apo flamujve. Metodat e shenjimit dhe ndriçimit të pengesave në aerodrom janë ilustruar në Pjesën 2 të Shtojcës së Rregullores.
