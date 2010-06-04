@@ -1,0 +1,6 @@
+LAW No. 03/L-197
+ON AMENDMENDING AND SUPPLEMENTING THE LAW No. 03/L-146 ON VALUE ADDED TAX
+Assembly of Republic of Kosovo,
+Based on Article 65 (1) of the Constitution of the Republic of Kosovo,
+Approves
+LAW ON AMENDMENDING AND SUPPLEMENTING THE LAW No. 03/L-146 ON VALUE ADDED TAX

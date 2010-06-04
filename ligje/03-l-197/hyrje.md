@@ -1,0 +1,6 @@
+LIGJI Nr. 03/L-197
+PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJIT NR. 03/L-146 PËR TATIMIN MBI VLERËN E SHTUAR
+Kuvendi i Republikës së Kosovës;
+Në mbështetje të nenit 65 (1) të Kushtetutës së Republikës së Kosovës,
+Miraton
+LIGJ PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJIT NR. 03/L-146 PËR TATIMIN MBI VLERËN E SHTUAR
