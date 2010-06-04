@@ -1,0 +1,4 @@
+# Article 25
+Retroactivity
+1. Temporary anti-dumping measures and definitive anti-dumping measures shall only be applied to Dumped Goods that enter the customs territory of Kosovo after the date on which a decision has been taken pursuant to, as the case may be, paragraph 1 of Article 19 or paragraph 1 of Article 24 of this law; unless an exception described in paragraphs 2-5 of Article 10 of the EU Anti-Dumping Regulation applies.
+2. Temporary countervailing duties and definitive countervailing duties shall only be applied to Subsidized Goods that enter the customs territory of Kosovo after the date of on which a decision has been taken pursuant to, as the case may be, paragraph 2 of Article 19 or paragraph 2 of Article 24 of this law; unless an exception described in paragraphs 2-5 of Article 16 of the EU Anti-Subsidy Regulation applies.

@@ -1,0 +1,6 @@
+# Article 27
+Review of the Expiration of Anti-Dumping Measures or Countervailing Duties
+1. A definitive anti-dumping or anti-subsidy measure shall expire five (5) years from its imposition or five (5) years from the date of the most recent review by the Evaluation Commission that has covered the concerned dumping or subsidization and the injury to the concerned Kosovo Industry, unless it is determined in a review that the expiration of the measure would likely lead to a continuation or recurrence of the concerned dumping or subsidization and the injury to the concerned Kosovo Industry.
+2. A review of the expiration of such a measure may be initiated by the Evaluation Commission on its own initiative or upon a request made by or on behalf of the concerned Kosovo Industry, and the concerned measure shall remain in force while such review is being conducted.
+3. The initiation and conduct of a review of the expiration of an anti-dumping measure shall be done in compliance with paragraph 2 of Article 11 of the EU Anti-Dumping Regulation.
+4. The initiation and conduct of a review of the expiration of countervailing duties shall be done in compliance with paragraphs 2-4 of Article 18 of the EU Anti-Subsidy Regulation.

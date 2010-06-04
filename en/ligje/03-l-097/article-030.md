@@ -1,0 +1,3 @@
+# Article 30
+Antidumping Measures: Reviews for New Exporters
+If definitive anti-dumping measures have been imposed on a certain good from a certain country of export, and a new exporter in that country – i.e. an exporter that was not exporting the good to Kosovo during the period of investigation on which the measures were based – begins exporting the good to Kosovo, a review shall be carried out by the Evaluation Commission for the purpose of determining such exporter’s individual Dumping Margin. Such review shall be conducted in accordance with paragraph 4 of Article 11 of the EU Anti-Dumping Regulation.

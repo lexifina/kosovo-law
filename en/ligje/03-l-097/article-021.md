@@ -1,0 +1,6 @@
+# Article 21
+Agreements Terminating an Anti-Subsidy Investigation
+1. The Evaluation Commission may terminate an anti-subsidy investigation with respect to the goods of a specific exporter, or the goods from of a specific country of origin and/or export, without the imposition of temporary or definitive duties on such goods, if the Evaluation Commission receives a satisfactory voluntary agreement under which:
+1.1 the country of origin and/or export agrees to eliminate the subsidy or take other measures countering its effects; or
+1.2. an exporter agrees either to revise its prices or to cease exports to Kosovo during any period such exports benefit from a countervailable subsidy, if the Evaluation Commission is satisfied that the implementation of that agreement will eliminate the injurious effects of on the concerned Kosovo Industry. Price increases under such an agreement shall in no case be higher than necessary to offset the amount of countervailable subsidies, and shall be less than the amount of countervailable subsidies if such a smaller price increase would be adequate to eliminate the injury to the concerned Kosovo Industry.
+2. Article 13 of the EU Anti-Subsidy Regulation shall govern such agreements.
