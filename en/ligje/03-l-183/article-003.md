@@ -1,0 +1,9 @@
+# Article 3
+General Conditions of the Implementation of International Sanctions
+1. The implementation of international sanctions shall be laid down and changed by decision of the Government of the Republic of Kosovo, with the exception of the case referred to in paragraph 1 of Article 8 of this Law.
+1.1. decisions of the Government of the Republic of Kosovo shall prescribe which sanctions are implemented, time limits for implementing such sanctions, conditions, possible exemptions and entities to which international sanctions are implemented;
+1.2. an expiration date of international sanctions shall be set taking into account the expiration date indicated in decisions of international organisations imposing international sanctions;
+1.3. time limits for implementing international sanctions in the Republic of Kosovo shall not be set out, if an international organisation, which has set out such time limits, provides the possibility to renew the implementation of international sanctions after the review which is carried out upon the expiry of the time limits for implementing the said sanctions.
+2. If decisions of the international organisations lay down that international sanctions become repealed or their implementation is not prolonged, the implementation of international sanctions in the Republic of Kosovo shall be terminated by the decision of Government of the Republic of Kosovo.
+3. The decision of the Government of the Republic of Kosovo concerning the implementation of international sanctions shall establish what actions natural and legal persons of the Republic of Kosovo must perform or are prohibited from performing when carrying out international sanctions.
+4. The provisions of this Law shall apply to natural and legal persons of the Republic of Kosovo in the territories of foreign states, irrespective of the fact whether the foreign states implement or not the international sanctions which are implemented by the Republic of Kosovo.

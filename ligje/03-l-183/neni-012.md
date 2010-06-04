@@ -1,0 +1,5 @@
+# Neni 12
+Mbikëqyrja e zbatimit të sanksioneve ndërkombëtare
+1. Procedura për mbikëqyrjen e zbatimit të sanksioneve ndërkombëtare përkufizohet me vendim të Qeverisë së Republikës së Kosovës. Personat fizik dhe juridik duhet të dorëzojnë të gjitha dokumentet e nevojshme për të ushtruar mbikëqyrje te institucionet që kryejnë zbatimin e sanksioneve ndërkombëtare.
+2. Institucionet përgjegjëse për mbikëqyrjen e zbatimit të sanksioneve ndërkombëtare, si dhe institucionet financiare sigurojnë informacione për Ministrinë e Punëve të Jashtme rreth zbatimit të sanksioneve ndërkombëtare, shkeljet e tyre dhe rastet nën gjykim.
+3. Dispozitat e informacionit të specifikuar në këtë ligj, ndaj institucioneve të referuara në paragrafët 1 dhe 2 të këtij neni, nuk paraqesin zbulimin e informacionit zyrtar, industrial, komercial, sekret bankar ose informata konfidenciale. Të dhënat që përmbajnë ndonjë sekret shtetëror ose zyrtar do tu jepen institucioneve si dhe te grumbullohen edhe të ruhen në institucione në përputhje me procedurat e përcaktuara me ligjet në fuqi.

@@ -1,0 +1,9 @@
+# Neni 3
+Kushtet e përgjithshme të zbatimit të sanksioneve ndërkombëtare
+1. Zbatimi i sanksioneve ndërkombëtare specifikohet dhe ndryshohet me vendim të Qeverisë së Republikës së Kosovës, me përjashtim të rastit që i referohet paragrafi 1 të nenit 8 të këtij ligji.
+1.1. vendimet e Qeverisë së Republikës së Kosovës përcaktojnë se cilat sanksione zbatohen, kufizimet kohore për zbatimin sanksioneve të tilla, kushtet, heqjen e mundshme dhe entitetet ndaj të cilave zbatohen sanksionet ndërkombëtare;
+1.2. një datë e skadimit të sanksioneve ndërkombëtare caktohet duke llogaritur datën e skadimit të paraqitur me vendimet e organizatave ndërkombëtare që kanë vënë sanksionet ndërkombëtare;
+1.3. afatet kohore për zbatimin e sanksioneve ndërkombëtare në Republikën e Kosovës nuk përcaktohen, nëse një organizatë ndërkombëtare, e cila ka vendosur afatet e tilla, e parasheh mundësinë për ripërtëritjen e zbatimit të sanksioneve ndërkombëtare pas rishikimit i cili bëhet në rastin e skadimit të afateve kohore për zbatimin e sanksioneve të përmendura.
+2. Nëse vendimet e organizatave ndërkombëtare vendosin që sanksionet ndërkombëtare të shfuqizohen ose zbatimi i tyre të mos zgjatet, zbatimi i sanksioneve ndërkombëtare në Republikën e Kosovës përfundon me vendim të Qeverisë së Republikës së Kosovës.
+3. Vendimi i Qeverisë së Republikës së Kosovës në lidhje me zbatimin e sanksioneve ndërkombëtare përcakton se çfarë lloj veprimesh personat fizik dhe juridik të Republikës së Kosovës duhet të bëjnë ose janë të ndaluar të bëjnë gjatë zbatimit të sanksioneve ndërkombëtare.
+4. Dispozitat e këtij ligji aplikohen ndaj personave fizik dhe juridik të Republikës së Kosovës në territoret e shteteve të huaja, pavarësisht faktit nëse shtetet e huaja zbatojnë apo jo sanksionet ndërkombëtare të cilat zbatohen nga Republika e Kosovës.

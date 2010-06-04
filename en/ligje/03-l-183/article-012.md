@@ -1,0 +1,5 @@
+# Article 12
+Supervision of the Implementation of International Sanctions
+1. The procedure for supervision of the implementation of international sanctions shall be laid down by the decision of the Government of the Republic of Kosovo. Legal and natural persons must submit all the documents necessary to exercise supervision to the institutions carrying out the implementation of international sanctions.
+2. Institutions responsible for supervision of the implementation of international sanctions as well as financial institutions shall provide the Ministry of Foreign Affairs with information about the implementation of international sanctions, their infringements and cases under consideration.
+3. Provisions of the information specified in this Law to the institutions referred to in paragraphs 1 and 2 of this Article shall not constitute the disclosure of an official, industrial, commercial, bank secret or confidential information. Data which comprise a state or an official secret shall be furnished to institutions and shall be collected and stored in institutions in accordance with procedures established by the applicable Laws.
