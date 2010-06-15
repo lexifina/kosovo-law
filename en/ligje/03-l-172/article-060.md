@@ -1,0 +1,5 @@
+# Article 60
+Right to object
+1. A data subject may at any time in writing request that data controllers permanently or temporarily cease to use his or her personal data for the purposes of direct marketing. Within eight (8) days following the receipt of the data subject’ objection, data controllers shall refrain from using the personal data for direct marketing and within the subsequent five (5) days they shall inform the data subject in writing confirming the data subject’s wishes.
+2. Any costs regarding the data controller’s activities as to requests from paragraph 1 of this Article shall be borne by the data controller.
+Subchapter J Video surveillance

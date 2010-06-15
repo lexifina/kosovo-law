@@ -1,0 +1,5 @@
+# Neni 8
+Vendimmarrja automatike
+1. Vendimmarrja automatike e cila mund të prodhojë efekte ligjore ose të ketë ndikim të rëndësishëm tek subjekti i të dhënave dhe e cila bazohet vetëm në përpunimin automatik të dhënave me qëllim të vlerësimit të aspekteve të caktuara personale, veçanërisht përmbushjes së detyrave të subjektit të të dhënave në vendin e punës, aftësisë së tij ose saj, besueshmërisë, sjelljes ose respektimit të rregullave të caktuara, lejohet vetëm nëse vendimi:
+1.1. është marrë gjatë lidhjes ose përmbushjes së kontratës, me kusht që kërkesa për lidhjen ose zbatimin e kontratës, e parashtruar nga subjekti i të dhënave është përmbushur ose ekzistojnë masa të duhura për të mbrojtur interesat e tij ose saj legjitime, siç janë marrëveshjet që i mundësojnë subjektit të të dhënave të kundërshtojë vendimet e tilla ose të shpreh qëndrimin e tij ose saj;
+1.2. parashihet me ligjin i cili po ashtu siguron masat për mbrojtjen e interesave legjitime të subjektit të të dhënave, në veçanti mundësinë e mjetit juridik kundër vendimeve të tilla.

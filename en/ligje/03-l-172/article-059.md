@@ -1,0 +1,8 @@
+## Subchapter I
+## Direct marketing
+# Article 59
+Rights and responsibilities of data controllers
+1. Data controllers may use personal data they obtained from publicly accessible sources or within the framework of the lawful performance of activities for the purposes of offering goods, services, employment or temporary performance of work through the use of postal services, telephone calls, electronic mail or other telecommunications means (hereinafter: direct marketing) in accordance with the provisions of this Chapter, unless otherwise provided by relevant law.
+2. For the purposes of direct marketing, data controllers may use only the personal data collected in accordance with paragraph 1 of this Article: personal name(s), permanent or temporary address, telephone number, e-mail address and fax number. Based on the data subject’s prior consent data controllers may process other personal data but may only process personal sensitive data if they possess the written consent.
+3. When data controllers do direct marketing, data controllers must inform data subjects of their rights according to Article 60 of this Law.
+4. If data controllers intend to disclose personal data from paragraph 2 of this Article to other data recipients for the purposes of direct marketing or to data processors, they shall inform the data subject and get his or her written consent before disclosing such data. The notification of the data subject regarding the intended disclosure must contain all information that is intended to be disclosed as well as to whom and for what purposes. The costs of notification shall be borne by the data controller.

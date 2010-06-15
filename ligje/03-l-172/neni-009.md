@@ -1,0 +1,6 @@
+# Neni 9
+Përpunimi për qëllime të kërkimeve historike, statistikore dhe shkencore
+1. Pavarësisht nga qëllimi fillestar i grumbullimit, të dhënat personale mund të përpunohen më tutje për qëllime të kërkimeve historike, statistikore dhe shkencore.
+2. Nëse të dhënat personale përpunohen më tutje për qëllimet e përmendura në paragrafin 1 të këtij neni , ato do të bëhen anonime, përveç nëse ligji e parashikon ndryshe ose nëse subjekti i të dhënave e ka dhënë paraprakisht pëlqimin e tij ose saj me shkrim.
+3. Të dhënat personale, të cilat i janë zbuluar marrësve të të dhënave në pajtim me paragrafin 2 të këtij neni, do të shkatërrohen ose fshihen me rastin e përfundimit të përpunimit të tyre, përveç nëse është paraparë ndryshe me ligj. Pas shkatërrimit ose fshirjes, marrësi i të dhënave pa vonesë do ta njoftojë me shkrim kontrolluesin e të dhënave, i cili ka zbuluar të dhënat, për mënyrën dhe kohën e shkatërrimit dhe fshirjes së të dhënave.
+4. Rezultatet e përpunimit nga paragrafi 1 i këtij neni, do të publikohen në formë anonime, përveç nëse me ligj është paraparë ndryshe, nëse subjekti i të dhënave ka dhënë paraprakisht pëlqimin e tij ose saj me shkrim për publikim në formë jo-anonime ose nëse pëlqimi paraprak me shkrim për një publikim të tillë është dhënë nga trashëgimtarët e personit të vdekur, sipas këtij ligji.
