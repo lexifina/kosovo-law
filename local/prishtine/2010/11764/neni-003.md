@@ -1,0 +1,5 @@
+# Neni 3
+3.1. Me këtë Rregullore, përpos kushteve të përgjithshme të parapara me ligjet në fuqi dhe me akte nënligjore, caktohen edhe këto kushte të veçanta, të cilat duhet plotësuar për marrjen e lejes së punës:
+a. certifikata e regjistrimit të biznesit e lëshuar nga MTI - ja, b. pëlqimi i dhënë nga Komisioni për pranimin e kushteve minimale - teknike dhe sanitare, c. dëshmia për pronësinë e lokalit afarist, Vendimi për shndërrimin e lokalit për banim, në lokal afarist ose kontrata mbi qiranë e lokalit afarist të vërtetuar nga gjykata, d. skica e objektit, e. fotokopja e lejes së ndërtimit, f. dëshmia e pagesës së taksës komunale për lëshimin e lejes së punës. 3.2, Për marrjen e lejes së punës për kafe – baret, diskoklubet dhe klube të natës, kërkohet edhe pëlqimi i dhënë nga banorët në pjesën ku ushtrohet veprimtaria.
+3.3. Organizatat e biznesit duhet të paguajnë taksën vjetore, në pajtim me dispozitat e Rregullorës për taksa, tarifa dhe gjoba komunale.
+Adresa: Rr. UÇK- 2-10.000 Prishtinë-Kosovë Telefon: + 381(0)38/230-900 http://www.prishtina-komuna.org

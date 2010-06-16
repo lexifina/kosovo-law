@@ -1,0 +1,4 @@
+# Neni 4
+4.1. Leja e punës, në pajtim me nenin 3.1 të kësaj Rregulloreje, mund të jepet edhe me këtë përjashtim, pa plotësimin e kushteve të parapara në pikën c – Vendimin për leje ndërtimi apo për shndërrimin e lokalit të banimit në lokal afarist dhe në këto rast leja e punës do të jetë e përkohshme.
+4.2. Dhënia e lejes së punës, në zbatim të nenit 4.1 të kësaj Rregullore, nuk e liron pronarin, respektivisht shfrytëzuesin e objektit, që mos t`i kryejë obligimet lidhur me kushtet e ndërtimtarisë, kushtet urbanistike dhe teknike - sanitare të parapara me aktet tjera ligjore.
+4.3. Organi kompetent për lëshimin e lejes së punës, në pajtim me këtë Rregullore dhe me ligj, ka për obligim të përcjellë përmbushjen e kushteve urbanistike - teknike dhe sanitare edhe pas dhënies së pëlqimit për përmbushjen e kushteve minimale teknike të lokaleve afariste dhe dhënies së lejes së punës.
