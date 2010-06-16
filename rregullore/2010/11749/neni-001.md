@@ -1,0 +1,3 @@
+# Neni 1
+Në bazë të kësaj Rregulloreje, rregullohet organizimi dhe bashkëpunimi në mes të Komunës dhe fshatrave, vendbanimeve dhe lagjeve urbane në territorin e komunës së Prishtinës, zgjedhja e këshillave, kompetencat dhe përgjegjësitë e këshillave, duke i siguruar qytetarët e fshatrave, vendbanimeve dhe lagjeve urbane për realizimin e të drejtave dhe interesave të tyre në shumë fusha të jetës dhe paraqitje të organizuar para Komunës dhe organeve të saj, që realizohet në pajtim me Statutin e Komunës, Ligjin për vetëqeverisje lokale dhe akte tjera ligjore.
+Konstituimi (themelimi) i këshillave të lokalitetit
