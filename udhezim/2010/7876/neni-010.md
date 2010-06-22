@@ -1,0 +1,12 @@
+# Neni 10
+Procedura për njohje
+1. Procedura për shqyrtimin e kërkesës për njohje ose vlerësim të diplomave të fituara jashtë vendit në asnjë rast nuk do të zgjasë më shumë se katër muaj nga dita e aplikimit në NARIC.
+2. Komisioni i ekspertëve do të vlerësojë kualifikimet e fituara jashtë vendit duke u bazuar në ekzistimin ose jo të “dallimit substancial” ndërmjet kualifikimit të ofruar dhe njohjes së kërkuar. Vlerësimi dhe konstatimi i (mos)ekzistimit të “dallimit substancial” do të bazohet duke u nisur nga krahasimi i:
+2.1 dallimeve në rezultate të nxënies (kualifikimit vendor dhe të atij të huaj që kërkon njohje);
+2.2 dallimit në mundësinë për qasje në aktivitete të mëtejme (arsimore, hulumtuese dhe të punësimit) ndërmjet kualifikimit të huaj dhe atij vendor;
+2.3 dallimit në elementet kyçe të programit që çon në kualifikimin e huaj dhe atë vendor, dhe 2.4 konstatimi dhe dëshmia nga një vlerësues kompetent dhe i besueshëm se cilësia e kualifikimit të huaj dhe të atij vendor është e tillë që përbën dallim substancial që nuk lejon njohjen e kualifikimit të huaj ashtu siç është kërkuar nga parashtruesi.
+3. Në rastet kur janë shqyrtuar dhe janë njohur dokumentet në një program të caktuar të studimeve nga një institucion i verifikuar dhe i akredituar i arsimit të lartë jashtë vendit, atëherë të gjitha kërkesat tjera për njohje ose vlerësim nga ai institucion dhe në atë program studimi do të njihen me procedurë të shkurtuar dhe vendimin e merr direkt Këshilli kombëtar për Njohje, pa angazhuar komision të ekspertëve.
+4. Në rastet kur kërkohet njohja ose vlerësimi i një diplome në një fushë për të cilën nuk ka departament ose ekspertë përkatës në institucionet e arsimit të lartë në Kosovë, NARIC do të formojë komision të veçantë për vlerësim dhe njohje ku do të përfshihen ekspertë të dëshmuar në fushën përkatëse, edhe nëse ata nuk janë të angazhuar në institucione të arsimit të lartë. Sipas nevojës, këto komisione do të përfshijnë edhe ekspertë ndërkombëtarë nga rajoni ose më gjerë në fushën përkatëse.
+5. Komisioni i ekspertëve do të përgatisë një raport për Komisionin Kombëtar për Njohje ku do të përfshijë të gjitha të dhënat e rëndësishme për kërkesën dhe mendimin e komisionit.
+6. Raportin me propozimin për njohjen/mosnjohje e nënshkruajnë anëtarët e komisionit të ekspertëve.
+7. Raporti është valid nëse nënshkruhet nga së paku dy anëtarë të komisionit. Kryetari duhet t’ia përcjellë NARIC-ut mendimin e votës kundërshtare.
