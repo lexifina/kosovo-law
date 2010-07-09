@@ -1,0 +1,3 @@
+________________________________________________________________________ Adresa:rr.”Adem Jashari” pn, ëëë.gjilani-komuna.org; e-mail:zip_gjilan@hotmail.com,tel.0280 320 781, 320 782, 321 482, 321 486 ____________________________________________________________________________________________________________ Në mbështetje të nenit 11, 12 shkronja c) dhe nenit 17 shkronja r) ) të Ligjit për Vetëqeverisjen Lokale nr. 03/L-040 (“Gazeta zyrtare e Republikës së Kosovës”, nr. 28/2008) dhe nenit 38 shkronja k) dhe 39.1 të Statutit të Komunës së Gjilanit 01. nr. 12479 të dt. 21.11.2008, Kuvendi i Komunës së Gjilanit, në mbledhjen e mbajtur më 09.07.2010, miraton;
+RR E G U LL O R E PËR SHFRYTËZIMIN/HUAZIMIN E SALLËS SË MADHE
+TË TEATRIT PROFESIONIST TË GJILANIT

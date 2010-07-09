@@ -1,0 +1,5 @@
+# Neni 5.
+Shfrytëzimi i sallës nga neni 3 (tre) i kësaj rregulloreje mund të bëhet si në vijim:
+a. Të interesuarit mund ta shfrytëzojnë sallën e Teatrit Profesionist të Gjilanit me
+përqindje 70/30, ku 70% i takojnë shfrytëzuesit, kurse 30% i takojnë Teatrit Profesionist të Gjilanit. Kjo vlen vetëm për Teatrot Profesioniste dhe për institucionet tjera që Drejtoria e Teatrit i konsideron si të rëndësishme dhe që përputhen me politikat e përgjithshme zhvillimore të Teatrit. Këtu kryesisht përfshihen shfaqjet teatrale, të baletit, operës, muzikës dhe muzikës serioze. b. Të interesuarit mund ta shfrytëzojnë sallën e Teatrit Profesionist të Gjilanit me çmim
+fiks duke paguar 296euro që do të thotë 1€ për një ulëse. Kjo vlen për të gjithë shfrytëzuesit tjerë, përpos për institucionet e shënuara në Nenin 5(pesë), Pika (a), si dh neni 4(katër), Pika 1(një). c. Salla nuk do të jepet në shfrytëzim për koncerte përveç atyre të muzikës serioze, përpos nëse Drejtoria e Teatrit konstaton se ai aktivitet nuk dëmton sallën dhe politikën zhvillimore dhe artistike të Teatrit Profesionist të Gjilanit.
