@@ -1,0 +1,4 @@
+# Neni 16
+Shtesat mbi pagën bazë për kushtet specifike të punës
+1. Në institucionet e administratës publike, në të cilat ekziston nevoja që disa nëpunës civilë të punojnë në kushte specifike pune, ku si pjesë e detyrave të tyre të rregullta ata iu ekspozohen kushteve dhe kërkesave të veçanta në vendin e punës dhe që paraqesin rrezik për shëndetin, institucioni kërkon miratimin e një shtese për kushte të punës për këta nëpunës civilë, sipas aktit nënligjor të përcaktuar në paragrafin 2. të këtij neni.
+2. Kriteret për përkufizimin e kushteve specifike të punës, shuma e shtesës si dhe procedurat për paraqitjen e kërkesës për shtesën për kushte specifike pune, përcaktohen me akt nënligjor, të nxjerrë nga Qeveria, pas propozimit të ministrisë përgjegjëse për administratën publike dhe ministrisë përgjegjëse për financat.

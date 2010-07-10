@@ -1,0 +1,4 @@
+# Article 16
+Allowance on basic salary for specific working conditions
+1. In public administration institutions where there is a requirement for some civil servants to work in specific working conditions where as a regular part of the job they are subject to possible specific conditions and requests at work place and that show risk for health, the institution shall seek the approval of a working conditions allowance for such civil servants, according to the sub-legal act referred to in paragraph 2 of this Article.
+2. The criteria for the definition of specific working conditions, the amount of the allowance and the procedure for submitting a request for the specific working conditions allowance shall be specified in a sub-legal act issued by the Government, after proposal by the Ministry responsible for public administration and the ministry responsible for finance.

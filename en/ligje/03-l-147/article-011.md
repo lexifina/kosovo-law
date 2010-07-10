@@ -1,0 +1,18 @@
+# Article 11
+Progress in steps based on Performance appraisal
+1. Civil servants shall progress from their present step to a higher step based on the performance appraisal rating resulting from application of the separate regulation on performance appraisal, within the limitations of the budget specified in paragraphs 4 and 5 of this Article.
+2. Evaluative parameters that must be considered in case of advancing the civil servants according to this Law are:
+2.1. professional abilities and skills showed at work place;
+2.2. level of engagement and commitment;
+2.3. results achieved at work and the contribution;
+2.4. respecting the terms, dynamics, efficiency and effectiveness; and
+2.5. quality of performed works.
+3. In the case of grades four (4) to thirteen (13), increase of coefficient based on performance shall be decided as follows:
+3.1. civil servants whose performance is rated as “good” in any year, shall progress one step at the end of that year, provided that their current step is below step four (4). If their current step is four (4) or more, civil servants whose performance is rated as “good” in two (2) consecutive years shall progress one step at the end of the second year, provided that their current coefficient is below step eight (8), which is the highest step for that performance category.
+3.2. civil servants whose performance is rated as “very good” in any year shall progress two (2) steps at the end of that year if their current step is below step five (5) or one step, if their current step is step five (5). If their current step is step six (6) or more, a civil servants whose performance is rated as “very good” in any year, shall progress one step at the end of that year, provided their current step is below step ten (10), which is the highest step for that performance category.
+3.3. civil servants whose performance is rated as “excellent” in any year shall progress two (2) steps at the end of that year if their current step is below step eleven (11) and one step if their current step is step eleven (11).
+4. In the case of grades one (1) to three (3) and fourteen (14), increase of coefficient based on performance shall be decided as follows: Civil servants whose performance is rated in any year as “good” or higher shall progress one (1) step at the end of that year until they reach step five (5), which is the maximum step for the grade.
+5. No more than five percent (5%) of civil servants in an institution may be rated as “excellent” in any year; no more than fifteen percent (15%) of civil servants in an institution may be rated as “very good” in any year; and no more than thirty percent (30%) of civil servants in an institution may be rated as “good” in any year.
+6. In each calendar year, the Ministry responsible for public administration shall, in coordination with the Ministry responsible for Finance, on time propose a budget for performance appraisal increases. The budget will be expressed as a percentage of the total budget for basic salaries in all public administration institutions and the same percentage budget shall apply to all public administration institutions.
+7. Public administration institutions, based on the percentages determined pursuant to paragraph 4 of this Article, shall submit a report to the Ministry responsible for public administration, giving the numbers of staff rated in each of the five (5) performance categories and the resulting increase in the total cost of basic salaries.
+8. Progress in steps based on performance appraisal shall be applied and enter into force with from the entry into force of the Annual Budget Law, based on performance appraisal ratings for the previous calendar year.
