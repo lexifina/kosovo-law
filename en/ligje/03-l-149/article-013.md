@@ -1,0 +1,6 @@
+# Article 13
+General Requirements for Admission to the Civil Service
+1. Citizens of the Republic of Kosovo who have reached the majority age, who have full capacity to act, who are in position of their civil and political rights, who have the educational background and professional competence required to carry out executive, managerial or implementation administrative functions and who meet the physical conditions required for the concerned position have the right for employment in the Civil Service of Kosovo.
+2. Admission to the Civil Service of Kosovo may be conducted until one (1) year before the mandatory retirement age.
+3. In line with the European principles of free movement of workers and non-discrimination foreigners that posses the required qualifications for the concerned position may be admitted to the Civil Service of Kosovo. The Government shall specify the core state functions (related to the sovereignty of the state) that are restricted only for citizens of Kosovo.
+4. Voluntary work without pay may be permitted in the Civil Service of Kosovo for retired Civil Servants up to the age of seventy (70) years old. Voluntary work shall be regulated in a regulation issued by the Government.

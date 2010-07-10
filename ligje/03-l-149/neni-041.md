@@ -1,0 +1,4 @@
+# Neni 41
+Kushtet shëndetësore
+1. Organi i punësimit mund të saktësojë kushtet shëndetësore të nëpunësve civilë, duke përfshirë edhe kërkesën për vlerësim mjekësor, ku një kusht i caktuar shëndetësor ose i përshtatshmërisë shëndetësore kërkohet për kryerjen efikase të punës në fjalë dhe nuk ka mundësi të përshtatjes së punës së kërkuar apo të kushteve të punës. Kjo dispozitë nuk duhet të zbatohet në mënyrën e cila do të cenonte parimet e mosdiskriminimit të përcaktuara me Ligjin Kundër Diskriminimit.
+2. Nëse pas një sëmundje të gjatë ose paaftësisë fizike gjendja shëndetësore e nëpunësit civil e lejon atë të rifillojë kryerjen e detyrave të tij apo të saj, siç dëshmohet nga komisioni mjekësor, organi i punësimit duhet të përpiqet të sigurojë një ambient pune apo një vend tjetër pune për t’i mundësuar nëpunësit civil që të veprojë në atë mënyrë.
