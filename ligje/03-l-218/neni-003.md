@@ -1,0 +1,3 @@
+# Neni 3
+1. Neni 13, paragrafit 2 i shtohet teksti si në vijim:
+Mirëpo, kurdo që organizata buxhetore ka pasur nën shpenzim në raport me planin e rrjedhës së parave të gatshme të dorëzuar në Thesar, Ministri mundet gjatë tremujorit të fundit të këtij viti fiskal dhe me aprovimin e Qeverisë, të autorizoj reduktimin e ndarjes buxhetore për të gjitha kategoritë ekonomike të asaj Organizate Buxhetore Qendrore dhe të transferoj atë ndarje buxhetore tek Organizata tjetër , por vlera kumulative e të gjitha transfereve të këtij lloji nuk duhet të kaloj 5% të vlerës totale të të gjitha ndarjeve buxhetore.
