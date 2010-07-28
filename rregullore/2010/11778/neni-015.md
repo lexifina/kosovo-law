@@ -1,0 +1,3 @@
+# Neni 15
+15.1 Ndërmarrja së cilës i besohen punët e ujësjellësit dhe të kanalizimit, është e obliguar që ta bëjë lidhjen e ujësjellësit dhe kanalizimit rrugor me pajisjet shtëpiake të ujësjellësit dhe të kanalizimit, nëse këto janë kryer me projektin e lejuar dhe sipas dispozitave dhe kushteve teknike, në afat prej 10 ditësh nga dita e njoftimit se janë kryer punët përgatitore për lidhje.
+15.2 Nëse ndërmarrja nga pika paraprake, nuk e kryen lidhjen me kërkesën e palës, atëherë Drejtoria e Shërbimeve Publike, Mbrojtjes dhe shpëtimit, këto punë mund t’ia besojë individit tjetër juridik ose fizik të autorizuar për kryerjen e këtyre punëve.

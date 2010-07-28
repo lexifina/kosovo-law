@@ -1,0 +1,3 @@
+# Neni 157
+157.1 Ndërmarrja nga neni paraprak, është e obliguar që gjatë periudhës së ngrohjes, të sigurojë temperaturën e ngrohjes së ujit prej së paku 90 gradë celsius në nënstacionet e objekteve, ku fitohet temperatura e nevojshme lokale.
+157.2 Po që se në banesë ose lokale të tjera nuk sigurohet temperatura e nevojshme (prej 22 0 C) organizata është e detyruar që t’i mundësojë shfrytëzuesit të banesës ose të lokaleve të tjera që mund të shtojë numër të nevojshëm trupash për ngrohje, në mënyrë që të mund të sigurohet temperatura e dëshiruar. Këto punime kryhen sipas rregullit jashtë periudhës së ngrohjes.

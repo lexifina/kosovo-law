@@ -1,0 +1,9 @@
+# Neni 5
+5.1 Ndërmarrjet, detyrë e të cilave është furnizimi i rregullt i qytetarëve me ujë të pijshëm, përpunimi, pastrimi dhe përcjellja e ujërave të zeza dhe atmosferike, bëjnë shfrytëzimin dhe mirëmbajtjen e objekteve dhe pajisjeve të parapara sipas nenit 3 të kësaj Rregulloreje, gjegjësisht:
+a) bëjnë mirëmbajtjen dhe sigurimin e rregullt të të gjitha objekteve, pajisjeve dhe instalimeve të ujësjellësit dhe të kanalizimit;
+b) bëjnë kontrollimin e përhershëm të cilësisë së ujit të pijshëm, sigurimin e përhershëm të rregullsisë higjienik - teknike të ujit të pijes, sipas dispozitave ligjore për këtë lëmë;
+c) bëjnë ndërtimin dhe rikonstruktimin e objekteve, pajisjeve dhe instalimeve të ujësjellësit dhe kanalizimit;
+d) japin kushtet për sigurimin e lidhjeve në rrjetin e ujësjellësit dhe të kanalizimit dhe e) bëjnë pastrimin e të gjitha pusetave akumuluese dhe të pusetave për ujërat atmosferike dhe ujërave të zeza, së paku dy herë në vit (në muajin prill dhe tetor).
+5.2 Ndërmarrja, nga pika 1 e këtij neni, të gjitha objektet dhe instalimet e ujit dhe të kanalizimit, i mirëmban në pajtim me këtë Rregullore dhe është e detyruar që t’i mbajë si mjete të veta themelore në shfrytëzim.
+Faqe 3 nga 40
+Adresa: Rr. UÇK- 2-10.000 Prishtinë-Kosovë Telefon: + 381(0)38/230-900 http://www.prishtina-komuna.org

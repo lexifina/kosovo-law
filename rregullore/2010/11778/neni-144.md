@@ -1,0 +1,2 @@
+# Neni 144
+Në hapësirat e tregut ku bëhet shitja e kafshëve, duhet të sigurohet sasia e mjaftueshme e ujit higjenik për pije dhe ujit për kafshë, si dhe të ndërtohen nyja sanitare, me numër të caktuar të kabinave, të ndërtohen vendet për lidhjen e kafshëve dhe vendosjen e enëve për grumbullimin e mbeturinave dhe të fundërrinave. Hapësira e tregut pas çdo dite pune në treg, duhet të pastrohet mirë nga plehu dhe nga fundërrinat tjera.
