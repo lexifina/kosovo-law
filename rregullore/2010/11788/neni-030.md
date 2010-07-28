@@ -1,0 +1,2 @@
+# Neni 30
+Drejtoria e Urbanizmit, Ndërtimit dhe Mbrojtjes së Mjedisit jep pëlqimin në dokumentacionin teknik, si dhe në skicën dhe përshkrimin teknik lidhur me atë se ky dokumentacion është hartuar në pajtim me kushtet urbanistiko - teknike. Nëse dokumentacioni teknik, në kuptim të kësaj Rregulloreje, nuk është hartuar në pajtim me kushtet e caktuara urbanistiko - teknike, organi nga paragrafi 1 i këtij neni, do të refuzojë dhënien e pëlqimit në dokumentacionin teknik.

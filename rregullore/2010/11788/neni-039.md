@@ -1,0 +1,2 @@
+# Neni 39
+Nëse gjatë shikimit teknik vërtetohet se lëshimet në objektin e ndërtuar nuk mund të mënjanohen dhe, për shkak të atyre lëshimeve ekziston rreziku i drejtpërdrejtë për jetën dhe shëndetin e njerëzve, organi që e ka dhënë lejen për ndërtim merr vendimin për rrënimin e objektit, përkatësisht largimin e objektit. Ankesa kundër vendimit nga paragrafi 1 i këtij neni, nuk ndalon zbatimin e vendimit.

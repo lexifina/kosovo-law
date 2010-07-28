@@ -1,0 +1,3 @@
+# Neni 42
+Anulimi i lejes nga neni 41 i kësaj Rregulloreje, bëhet me vendim të veçantë. Vendimin për anulimin e lejes e merr organi i cili e ka dhënë lejen. Me vendimin
+nga paragrafi 2 i këtij neni, caktohet afati për largimin e objektit. Afati nga paragrafi 3 i këtij neni, është 8 ditë nga dita e pranimit të vendimit mbi anulimin e lejes. Nëse objekti nuk largohet brenda afatit të caktuar me vendimin për largimin e objektit të përkohshëm, largimin e objektit e bën organi kompetent komunal, me detyrim që shpenzimet për largimin e objektit t’i mbulojë poseduesi i lejes së ndërtimit-vendosjes së objektit.
