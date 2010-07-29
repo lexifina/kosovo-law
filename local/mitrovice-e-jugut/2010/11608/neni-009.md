@@ -1,0 +1,2 @@
+# Neni 9
+Operatori, në vendin e ngjarjes, është i obliguar që të: Merr urdhëresën, nga pjesëtari i Policisë së Kosovës, në formë të shkruar për  bllokim, zhvendosje të automjetit. Në mënyrë të qartë të fotografojë automjetin, para se të bëhet bllokimi ose  zhvendosja e të njëjtit. Evidentojë të gjitha të dhënat sipas nenit 7 të kësaj Rregulloreje  Të përpilojë procesverbalin me të gjitha të dhënat sipas këtij neni dhe i njëjti të  nënshkruhet nga urdhërdhënësi - pjesëtari i Policisë së Kosovës dhe personi i cili e bënë bllokimin ose zhvendosjen e automjetit.
