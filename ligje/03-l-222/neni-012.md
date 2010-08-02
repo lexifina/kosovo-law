@@ -1,0 +1,9 @@
+# Neni 12
+Çregjistrimi i Tatimpaguesve
+1. Tatimpaguesit kanë të drejtë të kërkojnë të çregjistrohen vetëm pasi të kenë paguar të gjitha detyrimet tatimore dhe pasi të kenë paraqitur bilancin e mbylljes.
+2. ATK-ja, brenda gjashtëdhjetë (60) ditësh nga data e kërkesës për çregjistrim, është e detyruar të verifikojë situatën tatimore dhe kur është e nevojshme të ushtrojë kontrollin e veprimtarisë së tatimpaguesit.
+3. Brenda gjashtëdhjetë (60) ditëve nga data e kërkesës për çregjistrim, nëse ATK vlerëson se tatimpaguesi nuk i plotëson kushtet për çregjistrim sipas paragrafit 1 të këtij neni, do të përgatisë njoftimin e saj me shkrim i cili i dorëzohet tatimpaguesit.
+4. ATK-ja është e detyruar të tërheqë njoftimin nga paragrafi 3. i këtij neni vetëm pasi tatimpaguesi të ketë paguar të gjitha detyrimet tatimore të cilat i janë njoftuar me shkrim nga ATK.
+5. Në rast së brenda gjashtëdhjetë (60) ditëve nga data e marrjes së kërkesës për çregjistrim nga tatimpaguesi, ATK-ja nuk ka njoftuar tatimpaguesin sipas paragrafit 3. i këtij neni, tatimpaguesi do të konsiderohet të jetë i çregjistruar.
+6 ATK-ja, ka të drejtë të çregjistrojë nga regjistri i saj aktiv çdo tatimpagues kur provohet se ai për çfarëdo arsye në vitin e fundit fiskal nuk ka ushtruar veprimtari. Në këtë rast, këta tatimpagues do të vihen në një regjistër të veçantë te tatimpagueseve joaktiv dhe ATK-ja do ta njoftojë Agjencinë e Regjistrimit të Biznesit në lidhje me atë regjistër.
+7. Çregjistrimi në pajtueshmëri me paragrafin 1. deri te 5. të këtij neni dhe çregjistrimi nga regjistri aktiv sikur që është definuar në paragrafin 6. të këtij neni nuk i eliminon detyrimet tatimore. Në rastet e tilla, ATK-ja duhet të sigurojë mbledhjen e tatimit në pajtueshmëri me të gjitha mjetet relevante të mbledhjes që mundë të zbatohen te tatimpaguesi sipas ligjit.

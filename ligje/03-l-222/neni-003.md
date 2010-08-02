@@ -1,0 +1,15 @@
+# Neni 3
+Drejtori i Përgjithshëm i ATK-së
+1. ATK do të drejtohet nga Drejtori i Përgjithshëm që do të emërohet nga Kryeministri i Qeverisë Republikës së Kosovës bazuar në rekomandimin e dorëzuar nga Ministri i Ekonomisë dhe Financave. Rekomandime të tilla duhet të bëhen pas kompletimit të procesit të rekrutimit që iniciohet nga Ministria e Ekonomisë dhe Financave i kryer në pajtim me dispozitat e legjislacionit dhe rregulloreve në fuqi që lidhen me shërbimin civil të Kosovës.
+2. Drejtor i Përgjithshëm mund të largohet nga Kryeministri për shkak të paaftësisë ose sjelljes së keqe ose pasi të jetë shpallur fajtor për vepër penale dhe të jetë dënuar të qëndrojë në burg për gjashtë (6) muaj e më tepër.
+3. Drejtor i Përgjithshëm do të ketë:
+3.1. detyrë të zbatojë dispozitat e këtij ligji;
+3.2. detyrë të mbledhë të gjitha tatimet e vendosura sipas legjislacionit të zbatueshëm në Kosovë që autorizon ATK-në të administrojë tatimin e tillë;
+3.3. detyrë të përgatisë shpalljet, njoftimet dhe komunikimet tjera për të siguruar se të gjithë personat i kuptojnë detyrimet dhe të drejtat e tyre sipas këtij ligji;
+3.4. detyrë të sigurojë zbatim të njëtrajtshëm të rregulloreve tatimore në Kosovë;
+3.5. kompetenca të emërojë personat të tillë sipas nevojës për të zbatuar dispozitat e këtij ligji në përputhje me rregullat e Shërbimit Civil të Kosovës; dhe
+3.6. kompetenca të ngrejë një strukturë organizative brenda ATK-së të përshtatshme për funksionet e saj.
+3.7. të zbatojë autorizimet dhe detyrat tjera të deleguara nga Ministri për Ekonomi dhe Financa të cilat janë në përputhje me legjislacionin në fuqi.
+3.8. autorizimin për të hyrë në marrëveshje me Ndërmarrjet Publike Qendrore dhe Lokale, duke iu nënshtruar kushteve të vendosura nga një akt nënligjor, me anën e së cilit Administrata Tatimore do të shtyjë mbledhjen e detyrueshme të tatimeve obligim nga Ndërmarrjet Publike, me qëllim që për ndonjë proces privatizimi të ecë përpara në një mënyrë të rregullt, apo me qëllim për të ofruar një operim të vazhdueshëm për këto ndërmarrje duke parë rëndësinë e tyre strategjike për mirëqenien e Republikës së Kosovës,
+3.9. autorizimin t’u kërkojë të gjithëve, apo disa, të punësuarve, menaxherëve, apo menaxherëve të Lartë të administratës tatimore të ofrojnë deklaratat e paraqitjes financiare (deklarimi i pasurisë) në një formularë dhe format të përpiluar nga administrata tatimore të cilat do t’i nënshtrohen verifikimit nga Zyra e Standardeve Profesionale e administratës tatimore. Informatat e dhënë në formular duhet të jenë të vërteta dhe të sakta sipas besimit dhe njohurive më të mira nga përpiluesi i saj. Dhënia e informatave të rreme, mashtruese, apo informative qëllimisht të pasakta janë arsye për ndërprerjen (pushimin) e marrëdhënies punës nga administrata tatimore; dhe
+3.10. autorizim për t’u angazhuar ekspertë sipas nevojës, duke iu nënshtruar dispozitave të këtij ligji, për të dhënë asistencë teknike në fushat e ndërlikuara që ndikojnë në administratën tatimore për të cilat administrata tatimore nuk ka ekspertizë.

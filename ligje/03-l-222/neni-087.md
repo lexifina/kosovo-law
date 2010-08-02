@@ -1,0 +1,3 @@
+# Neni 87
+Udhëzimet Administrative
+Ministri i Ekonomisë dhe Financave do të ketë autorizimin të shpallë, me shkrim, rregullore zbatuese (akte nënligjore) për zbatim të përgjithshëm e që mund të jenë të nevojshme dhe të duhura më tutje për interpretim dhe zbatim të përshtatshëm, të arsyeshëm dhe uniform të këtij ligji. Zbatimi i tillë i rregulloreve do të administrohet dhe zbatohet nga ATK. Asnjë nga rregulloret e tilla zbatuese nuk do të ketë apo nuk do të ketë ndonjë efekt ligjor deri sa të publikohet si duhet në Gazetën Zyrtare të Kosovës dhe përndryshe është bërë publike nga ATK në përputhje me Ligjin mbi Qasjen ne Dokumentet Zyrtare.

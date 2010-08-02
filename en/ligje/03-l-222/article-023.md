@@ -1,0 +1,5 @@
+# Article 23
+Cancellation of Tax Documents
+1 The Director General can cancel any tax document issued by TAK if it is determined any violation of tax legislation.
+2. The Director General may publish a notice in newspapers of general circulation and on the tax administration website when a taxpayer certificate has been withdrawn so that other businesses can become aware of the withdrawal and its impact on their ability to engage in legal transactions with that business. The ability to publish such notices will also include the authority to publish a notice of non- issuance of a fiscal number as provided in Article 11 of this law, if the tax administration has not been able to verify the existence or address of an entity that has submitted registration documents to the Business Registration Agency.
+3. For the implementation of paragraph 1 of this Article, the Minister of Economy and Finance shall issue a sub-legal act to define the conditions and way of cancellation of tax documents and issuance of public notices.

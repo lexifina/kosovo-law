@@ -1,0 +1,14 @@
+# Neni 41
+Ndalesat për largim
+1. Drejtori i Përgjithshëm i ATK-së mund të kërkojë që Policia Kufitare e Kosovës ose autoritet tjera të ndërmarrë hapa të tillë sipas nevojës për të parandalojë një person të lëshojë Kosovën sipas kushteve vijuese:
+1.1. Drejtori i Përgjithshëm duhet të ketë arsye të besojë se personi është gati për t’u larguar nga Kosova dhe largimi i tillë paraqet një rrezik të menjëhershëm për buxhetin e Kosovës sepse personi nuk ka paguar borxhet tatimore më shumë se pesëmijë (5,000) Euro apo nuk ka dorëzuar një a më shumë deklarata tatimore të kërkuara që paraqesin një shumë të panjohur të detyrimit tatimor;
+1.2. Drejtori i Përgjithshëm duhet t’i dorëzojë një kërkesë më shkrim Kryesuesit të Policisë Kufitare duke arsyetuar kërkesën për të parandaluar personin të largohet nga Kosova; dhe
+1.3. Pa vonesë të tepruar pas kërkesës për Kryesuesin e Policisë Kufitare, Drejtori i Përgjithshëm i ATK-së mund të kërkojë një seancë dëgjimore para një gjyqi kompetent me juridiksion mbi çështje të tilla dhe t’i kërkoj gjyqit të autorizojë Policinë Kufitare të parandalojë largimin e personit sipas kushteve të përshkruara në urdhrin e gjyqit.
+2. Me pranimin e kërkesës të përshkruar në nën-paragrafin 1.2 të këtij neni, Kryesuesi i Policisë Kufitare do të ndërmarrë hapa të tillë sipas nevojës për të parandaluar personin e nënshkruar të largohet nga Kosova duke u varur nga nxjerrja e një urdhri nga gjyqi kompetent sikurse është paraparë në nën-paragrafin 1.3 të këtij neni. Nëse urdhri i tillë është nxjerrë brenda dyzetetetë (48) orëve nga koha kur fillimisht personi i nënshtruar është parandaluar të largohet nga Kosova, personi do të lejohet të largohet nga Kosova pa ndonjë veprim të mëtutjeshëm nga Policia Kufitare.
+3. Me pranimin e një urdhri nga një gjyq kompetentet, i cili autorizon Policinë Kufitare të parandalojë largimin e një personi, Policia Kufitare do të ndërmarrë hapat sipas nevojës për të parandaluar personin të lëshojë Kosovën derisa të plotësohen kushtet e përshkruara në urdhër.
+4. Nëse përpara skadimit të periudhës kohore të autorizuar nga gjyqtari apo prokurori për parandalimin e personit të lëshojë Kosovën, personi mund të lejohet të lëshojë Kosovën nëse ai person:
+4.1. kryen pagesën në tërësi; apo
+4.2. dorëzon të gjitha deklaratat obliguese të kaluara me pagesë të tërësishme;
+4.3. bën një marrëveshje të kënaqshme për Drejtorin e Përgjithshëm të ATK-së për pagesë të tatimit apo dorëzim dhe pagesë të të gjitha deklaratave obligative të kaluara; apo
+4.4. ofron një deklarim të plotë të pasurive, nën betim, sikurse është paraparë në paragrafin 4 të nenit 37 të këtij ligji, i cili tregon se personi nuk është në gjendje të paguajë borxhin tatimor, apo pasuritë nga të cilat mund të mblidhet tatimi.
+5. Kur personi t’i ketë plotësuar kushtet për largim sikurse janë paraparë në urdhrin e gjyqit, ATK duhet të informojë Policinë Kufitare pa ndonjë vonesë të madhe.

@@ -1,0 +1,4 @@
+# Article 81
+Judicial Review
+1. Decisions of the Board may be appealed to a court of competent jurisdiction provided that such appeals are initiated within sixty (60) days of receiving notification of the decision of the Board. A decision of the court of competent jurisdiction regarding the matter under appeal is a final decision. If new facts become known following a decision of the court, those facts may be used by TAK in making an assessment of any additional tax that may be due.
+2. At the discretion of the Court, if it appears that the appeal to the court is not reasonable, or has little or no legal basis, the Court may require the person making the appeal to post a bank guarantee or other acceptable form of guarantee, prior to the Court’s consideration of the Appeal. If the Court is satisfied that the appeal has a reasonable legal basis, no payment or guarantee will be required.

@@ -1,0 +1,5 @@
+# Neni 57
+Ndëshkimi Administrativ për mos përdorim të Pajisjeve Elektronike Fiskale për mos regjistrim të transaksioneve
+1. Çdo person që që i kërkohet të përdor pajisjen elektronike fiskale (PEF) për regjistrimin e të gjitha transaksioneve të bëra gjatë aktivitetit të tij ekonomik, i cili nuk ka instaluar pajisjen e tillë elektronike, do t’i nënshtrohet një ndëshkimi administrativ prej njëmijë (1.000) euro për çdo shkelje të tillë.
+2. Nëse një personi i është kërkuar vazhdimisht instalimi i PEF, pasi që është gjobitur tre ose më shumë herë për mos instalim të PEF, nuk instalon PEF, administrata tatimore do të autorizohet të ndërmarrë hapa të tillë sipas nevojës për të anuluar numrin fiskal të tatimpaguesit dhe certifikatën e TVSh-së, nëse aplikohet, duke u pasuar me kërkesën për të çregjistruar biznesin nga Agjencia për Regjistrimin e Biznesit.
+3. Nëse një person i përshkruar në paragrafin 1 të këtij Neni përpiqet ta manipulojë PEF, apo ndërhyn në programimin e PEF apo të dhënat që duhet të futen në PEF, me qëllim që të regjistrojë të dhëna të pasakta në PEF, personi i tillë do t’i nënshtrohet një ndëshkimi administrative në shumë prej njëmijë (1,000) Euro.

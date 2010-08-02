@@ -1,0 +1,5 @@
+# Neni 21
+Vlerësimet në rast rreziku
+1. Drejtori i Përgjithshëm mund të bëjë një vlerësim tatimesh në rast rreziku në rastin kur Drejtori i Përgjithshëm konsideron se mbledhja e tatimit apo ndëshkimit që bëhet detyrim i pagueshëm është në rrezik sepse personi po përgatitet të shmangë tatimin duke braktisur Kosovën, transferuar mjetet, ndërprerë biznesin ose duke ndërmarrë veprime tjera që do të rrezikojnë mbledhjen e tatimit nëse nuk bëhet një vlerësim rreziku. Një vlerësim në rast rreziku mundet të bëhet po ashtu në rast të konfiskimit të mallrave pa origjinë sikurse është paraparë në nenin 59 të këtij ligji, mund të ngrihet ankesë e drejtpërdrejtë në Bordin e Pavarur për Rishqyrtim.
+2. Supozohet ligjërisht se mbledhja e tatimit që bëhet detyrim i pagueshëm është në rrezik, nëse ekziston dyshim i arsyeshëm se tatimi ishte, apo do të, shmanget dhe nëse rrethanat e kësaj shmangieje tregojnë se detyrimi tatimor nuk do të zgjidhet.
+3. Një ankesë kundër vlerësimit në rrezik të bërë nga Drejtori i Përgjithshëm nuk shtyn ekzekutimin e vlerësimit sipas paragrafit 4. të nenit 22 të këtij ligji,

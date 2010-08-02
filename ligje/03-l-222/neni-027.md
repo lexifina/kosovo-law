@@ -1,0 +1,10 @@
+# Neni 27
+Pagesat
+1. Çdo tatim që përbën detyrim dhe që duhet t’i paguhet ATK-së është një borxh ndaj ATK.
+2. Çdo person që ka detyrë t’i paguajë tatime ATK-së sipas legjislacionit të zbatueshëm në Kosovë, do të paguajë tatimin e tillë në kohën dhe vendin e specifikuar në legjislacionin e tillë ose rregullat e zbatimit, pa njoftim ose kërkesë nga ana e ATK-së.
+3. Çdo person i cili është bërë përgjegjës nga tatimpaguesi të mbajë në burim , të llogarisë dhe të paguajë çdo tatim në emër të atij tatimpaguesi sipas legjislacionit të zbatueshëm në Kosovë, pa njoftim apo kërkesë nga ATK, do të paguajë tatimet e tilla në kohën dhe vendin e caktuar në legjislacionin e tillë ose rregullat e zbatimit.
+4. Secili punëdhënës i cili ka detyrë të japë kontribute pensioni në emër të të punësuarve të tij dhe të mbajë nga paga kontributet e pensionit nga të punësuarit e tij në përputhje me legjislacionin në fuqi me lidhje me mbi pensionet në Kosovë do t’i paguajë kontributet e tilla në afatin e përcaktuar në legjislacionin e tillë ose rregullat e zbatimit.
+5. Personat e vetë-punësuar të cilët kërkohet të kryejnë kontributet për pension në përputhje me legjislacionin në fuqi me lidhje me mbi pensionet në Kosovë do të paguajnë si kontributet e punëdhënësit ashtu edhe kontributet e të punësuarit në afatin e përcaktuar në legjislacionin e tillë ose rregullat e zbatimit.
+6. Përveç rastit kur parashikohet e kundërta në udhëzimet administrative, të gjitha tatimet do të paguhen në bankën apo institucione tjera financiare, të licencuara nga Banka Qendrore e Republikës Kosovës (BQK).
+7. Pavarësisht nga çdo dispozitë tjetër në këtë Nen ose në këtë ligj, aty ku shuma e tatimit për pagesë sipas një deklarate tatimore është tre (3) Euro ose më pak, ose shumë tjetër të tillë të vogël e përcaktuar nga Drejtori i Përgjithshëm, ATK do të trajtojë tatimin e pagueshëm si vlerë zero.
+8. Përveç rastit kur përcaktohet ndryshe me shkrim nga Drejtori i Përgjithshëm, zyrtarët tatimorë e kanë të ndaluar të marrin çfarëdo lloj pagese që lidhet me ndonjë tatim.

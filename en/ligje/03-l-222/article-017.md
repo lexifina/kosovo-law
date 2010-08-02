@@ -1,0 +1,9 @@
+# Article 17
+Tax Declarations
+1. Each person subject to any tax under legislation applicable in Kosovo shall submit to TAK or its agent a completed tax declaration required by such legislation.
+2. Where circumstances indicate that a person should submit a tax declaration, but has not done so, TAK shall have the authority to require that such person submit a tax declaration. Where such a requirement is not met, TAK may exercise the authority provided in Article 19 of this law.
+3. The tax declaration shall be filed on a form developed by TAK, which must not be unduly burdensome to the taxpayer and which is accompanied by adequate instructions.
+4. The tax declaration shall include the taxpayer’s identification number (fiscal number), a computation of the tax due, and all other information required by the applicable legislation or administrative instructions issued pursuant to such legislation.
+5. The tax declaration shall be signed by the taxpayer or taxpayer representative under the penalty of criminal liability for providing false information therein. If the tax declaration is prepared by a tax advisor, the tax advisor shall also sign the declaration and provide their taxpayer identification number (fiscal number). In addition to the potential criminal prosecution for providing false information on a tax declaration, TAK may disregard any input VAT credits which are not supported by true and accurate invoices. Similarly, TAK may disregard, for income tax purposes, any purchase expenses associated with goods or services which cannot be supported by true and accurate invoices or contracts.
+6. The date for submitting a tax declaration shall be prescribed in the legislation imposing the tax.
+7. If the filing date prescribed in legislation is not a business day in Kosovo, the filing date shall be the first business day thereafter.

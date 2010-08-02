@@ -1,0 +1,5 @@
+# Article 21
+Jeopardy Assessments
+1. The Director General may make a jeopardy assessment of tax or penalty where the Director General considers that the collection of tax or penalty that will become due is in jeopardy because a person is about to evade taxation by fleeing Kosovo, transferring assets, ceasing business or taking other actions that will jeopardize collection of the tax unless a jeopardy assessment is made. A jeopardy assessment may also be made in the case of seizure of goods without origin as provided in Article 59 of this law, may be appealed directly to the Independent Review Board.
+2. It is legally assumed that collection of tax that will become due is in jeopardy, if there is a reasonable suspicion that the tax was, or will be, evaded and if the circumstances of the evasion indicate that the tax liability will not be settled.
+3. An appeal against the Director General’s jeopardy assessment does not postpone the execution of the assessment according to paragraph 4 Article 22 of this law.

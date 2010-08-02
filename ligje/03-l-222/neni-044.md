@@ -1,0 +1,7 @@
+# Neni 44
+Të ardhurat e paligjshme
+1. Të ardhurat do t’i nënshtrohen tatimit në rastet kur fitimi i të ardhurave është konsideruar i paligjshëm sipas çdo legjislacioni relevant në fuqi në Kosovë.
+2. Dhënia për nxitje për të marrë apo mbajtur afarizimin, apo forma tjera të përparësisë e dhe shpenzimet që lidhen me to nuk do të trajtohen si shpenzime të lejueshme, nëse dhia e nxitjeve apo përparësisë përbën një akt të paligjshëm të mbuluar me një dispozitë të Kodit Penal të Kosovës.
+3. Çdo zyrtar i ATK-së do të informojë zyrën e prokurorit publik përmes kanaleve zyrtare te Kryesuesi i Njësisë së Hetimeve Tatimore pa ndonjë vonesë të tepër rreth të gjitha gjetjeve për një veprim të dyshuar joligjor në pajtim me paragrafin 2. të këtij neni. Megjithatë, zyrtarët e Zyrës së Standardeve Profesionale të ATK-së do të ndjekin kanalet e veta për raportimin e informatave të tilla tek zyra e prokurorit publik.
+4. Zyra e prokurorit publik do të informojë ATK-në rreth evidencës dhe rezultateve të procedurës penale në rastet e paragrafit 2. të këtij neni.
+5. Çdo zyrtar i çdo autoriteti publik (qendror apo komunal), i cili gjatë ushtrimit të detyrave të veta zyrtare, ka rënë në dijeni të fakteve që sugjerojnë se është kryer një shkelje tatimore, është i obliguar t’i raportoj ato fakte tek autoritetet e ATK-së që janë përgjegjëse për procedim tatimor penal përmes kanaleve zyrtare të atij autoriteti publik.

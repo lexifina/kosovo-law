@@ -1,0 +1,3 @@
+# Neni 25
+Detyrimi i personave përgjegjës
+Personat e përmendur në paragrafët 1. dhe 2. të nenit 16 të këtij ligji, do të jenë bashkërisht dhe veçmas të detyrueshëm në lidhje me ato obligime tatimore që nuk janë plotësuar, për shkak të shkeljes me dashje apo nga pakujdesia e madhe e shkeljes së detyrimeve të caktuara mbi ta duke rezultuar në tatime që, nuk janë vlerësuar ose nuk janë paguar apo nuk janë vlerësuar ose nuk janë paguar me kohë. E njëjta do të zbatohet në rastet kur kreditimet dhe rimbursimet tatimore të paguara pa baza ligjore sipas kushteve të fjalisë së parë të këtij neni. Detyrimi po ashtu do të përfshijë interesin në përputhje me nenin 28 të këtij ligji,.

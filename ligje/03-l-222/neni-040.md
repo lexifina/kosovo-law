@@ -1,0 +1,4 @@
+# Neni 40
+Embargo në importe dhe eksporte
+1. Në çdo rast kur një person i cili është i detyruar të paguaj ndonjë tatim shpërfill ose refuzon të paguajë brenda dhjetë (10) ditëve pas dorëzimit të njoftim-vlerësimit ose kur Drejtori i Përgjithshëm konsideron se pagesa e tatimit është në rrezik sipas nenit 39 të këtij ligji, do të jetë e ligjshme për Drejtorin e Përgjithshëm ose për një zyrtar të autorizuar me shkrim nga Drejtori i Përgjithshëm, të kërkojë me shkrim nga Drejtori i Përgjithshëm Gjeneral i Shërbimit Doganor që të vendosë embargo në kalimet e çdo importi apo eksporti nga ai person.
+2. Çdo kërkesë e bërë tek Drejtori Gjeneral i Doganave të Kosovës sipas paragrafit 1. të këtij neni do të mbetet e vlefshme derisa Drejtori i Përgjithshëm të informojë Drejtorin Gjeneral me shkrim për vendimin e përfundimit të kërkesës.
