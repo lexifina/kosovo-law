@@ -1,0 +1,8 @@
+# Article 17
+Prosecution procedure
+1. In urgent and completely justified cases, or reasonable doubt in relation to preparation or committing a penal act through computer systems, for the purpose of collecting evidence and identification of perpetrators, fast saving of computer data or data that refer to traffic data, by becoming subject to a risk to be destroyed or changed, shall be applied procedural provisions as it follows;
+1.1. in the course of investigation of a crime, is ordered to store the data by the prosecutor through an order, upon request of an investigation authority, whereas during legal procedure upon courts order.
+1.2. the measure that refers to paragraph 1 of this Article is valid for a time period up to ninety (90) days and may be extended for another thirty (30) days.
+1.3. prosecutor’s order or judge’s order shall be delivered, immediately to any service provider, or any person who is in possession of data that refer to sub-paragraph 1.1 of this paragraph, pertinent person is obliged to save them quickly in accordance with the terms of confidential preservation.
+1.4. in case when data refer to traffic data that are in possession of several service providers, the service provider referring to sub-paragraph 1.3 of this paragraph shall be obliged to provide immediately to the investigation body the necessary information for identification of other service providers in order of being aware of all elements in the used communication chain.
+1.5. the prosecutor is obliged that by the end of the investigations notifies in written the persons who are under investigation for a crime and information of which are stored.
