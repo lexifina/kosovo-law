@@ -1,0 +1,4 @@
+# Neni 10
+Keqpërdorimi i emblemës së përdorur si emblemë treguese në kohë paqeje dhe konflikti të armatosur
+1. Kushdo që përdorë me paramendim dhe pa të drejtë, emblemën dhe fjalët kryq i kuq, gjysmëhënë e kuqe dhe kristal i kuq, emërtimet apo shenjat që mund të duken si imitime dhe mund të shkaktojnë huti pa marrë parasysh arsyen e përdorimit si dhe kushdo që ka përdor emblemat apo fjalët e përmendura më lartë në shenja, postera, lajmërime, broshura, dokumente komerciale, apo ua kanë ngjitur këto emblema apo fjalë paketimeve të sendeve, të cilat janë ofruar për shitje dhe kanë dalë si të tilla në qarkullim dënohet me të holla prej njëmijë (1000) deri pesëmijë (5000) Euro.
+2. Nëse shkelja është bërë nga menaxhmenti i një kompanie komerciale, firme tregtare, shoqërive tjera dënimi i shqiptohet personit që ka bërë apo ka urdhëruar shkeljen.
