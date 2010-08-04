@@ -1,0 +1,6 @@
+# Article 7
+Obligations of the Assembly Bodies
+1. The President of the Assembly, not later than seven (7) days from the date of receipt of the request for establishing the Committee invites the Presidency of the Assembly to discuss upon the initiative.
+2. Irrespective from the initiators proposal on amount of members of the Committee, the Presidency of the Assembly before establishing the Committee can propose to the Assembly the extension or the decrease of the general number of the members of the Committee.
+3. The Presidency proposes to the Assembly the composition of the Committee based on nominations of Parliamentary Groups for members of the Committee. In case that one Parliamentary Group doesn’t respond to the request of the Presidency on time, the Presidency proposes to the Assembly the compositions by the nominations made by the Parliamentary Groups and non nominated positions are left empty.
+4. The Presidency of the Assembly includes the request for establishing the Committee in the agenda not later than three (3) calendar weeks after the date when the request is presented by the applicant. In case where the Presidency doesn’t succeed to put the request in the aforementioned term, the request is reviewed without the proposal of the Presidency in the first upcoming meeting of the Assembly.
