@@ -1,0 +1,6 @@
+# Neni 6
+1. Neni 20 paragrafit 20.2 pika (i) fshihen fjalët “, të përcaktuar në KAMSH,”
+2. Paragrafi 20.3 riformulohet si vijon:
+20.3 Ministri duhet të nxjerrë qarkoren e parë buxhetore të paraparë me paragrafin 2 të këtij neni deri me 15 Maj të vitit aktual fiskal. Data në të cilën komunat duhet t’i përfundojnë dhe dorëzojnë propozim-buxhetet dhe kërkesat e tyre për ndarje buxhetore është 30 Shtatori i atij viti. Për organizatat buxhetore të cilat nuk janë komuna, afati i fundit kohor për dorëzimin e këtyre dokumenteve është afati i përcaktuar në qarkoren buxhetore. Kur azhurnimi i KASH ndikon në shumat e vlerësuara të granteve qeveritare të përcaktuara në pikën (j) të paragrafit 1 të nenit 19, Ministri, jo më vonë se me 15 Gusht të vitit aktual fiskal, nxjerr një qarkore buxhetore për komunat në të cilën siguron udhëzimet përfundimtare buxhetore dhe nivelet përfundimtare të granteve në përputhje me ato të përcaktuara në KASH-in e azhurnuar dhe të llogaritura në përputhje me LFPL.
+3. Në paragrafin 20.4, pika (iii) fjalët “Ligjin për Financat e Pushtetit Lokal” zëvendësohen me shkurtesën “LFPL”
+4. Në paragrafin 20.6 referenca “paragrafi 4 i nenit 65” zëvendësohet me referencën “paragrafi 1 i nenit 66”
