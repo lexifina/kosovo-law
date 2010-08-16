@@ -1,0 +1,5 @@
+# Neni 75
+E drejta e përparësisë
+1. Banka Qendrore do të ketë të drejtë përparësie të prioritetit parësor të pakushtëzuar për përmbushjen e të gjitha kërkesave të saj që dalin nga ekzekutimi i detyrave të saj prej çdo saldo të parave, letrave me vlerë të borxhit dhe aseteve të cilat ajo i mban për llogari të debitorit në fjalë, qoftë si kolateral për të siguruar kërkesat e saj ose në mënyrë tjetër, në çastin kur këto të kërkesa bëhen të detyrueshme dhe të pagueshme.
+2. Banka Qendrore mund të ushtrojë të drejtën e përparësisë të saj vetëm përmes përvetësimit të saldos së parave përmes kompensimit dhe përmes shitjes së letrave me vlerë dhe aseteve të tjera pa vonesa të pajustifikueshme në një mënyrë komercialisht të arsyeshme dhe pagimit të vetës nga mjetet prej shitjes pasi të ketë zbritur nga to kostot e lidhura me shitjen.
+3. Asnjë veprim i gjykatës apo veprim i ndonjë subjekti publik nuk do të kërkohet, dhe asnjë e drejtë konkurruese nuk do të lejohet, për të shtyrë ushtrimin nga Banka Qendrore të së drejtës së saj të përparësisë në përputhje me dispozitat e këtij neni.

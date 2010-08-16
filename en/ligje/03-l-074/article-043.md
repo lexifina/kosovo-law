@@ -1,4 +1,0 @@
-# Article 43
-Prudential Rules and Orders
-43.1 Each financial institution shall comply with the rules and orders of the CBK concerning: its balance sheet accounts, off-balance-sheet commitments, and income and expense statement items with respect to ratios among accounts or items and prohibitions, restrictions or conditions concerning specific types or forms of credit or investments, or of credit or investments that exceed a certain amount or forms of commitments of a risk-bearing nature or matching as to maturity of assets and liabilities and off-balance- sheet items or open foreign currency, swap, option or similar positions or access to the payments system.
-43.2 Financial institutions that engage in similar activities and that are in comparable financial condition shall be subject to similar rules and orders.

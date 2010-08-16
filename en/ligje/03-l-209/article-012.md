@@ -1,0 +1,5 @@
+# Article 12
+Minimum reserves
+1. The Central Bank may require banks in Kosovo to hold minimum reserves on deposit accounts with the Central Bank in pursuance of its objectives set forth in Article 7 of this Law. With the exception of a temporary remedial action taken in accordance with Article 36 paragraph l of this Law, these required reserves shall be the same for all banks for each category of liabilities, for which there may be paid certain interest rate.
+2. Upon the proposal of the Executive Board, the Central Bank Board shall adopt a regulation that defines the categories of liabilities referred to in paragraph 1 of Article 12 and establishes the method for calculating and determines the rate of minimum reserves required to be maintained under paragraph 1 of this Article and their remuneration.
+3. In cases of non-compliance with the requirements issued in the regulations under the previous paragraph, the Executive Board shall issue orders and be entitled to levy penalty interest or impose administrative penalties, within the meaning of Article 67, paragraph 2 of this Law, with comparable effect.

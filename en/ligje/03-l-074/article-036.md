@@ -1,3 +1,0 @@
-# Article 36
-Depository and Cashier
-The CBK may accept deposits, in any currency, from the Ministry of Finance and Economy, and other public entities. As depository, the CBK shall receive and disburse moneys and keep account thereof and provide other financial services related thereto. The CBK shall pay to the limits of the deposited amounts against payment orders concerning such accounts. The CBK shall pay interest on such deposits at the deposit facility rate as offered by the central bank of issue of that currency. The interest rate paid by the CBK on its deposit facility for such organizations should not exceed the ones offered by the issuing bank.

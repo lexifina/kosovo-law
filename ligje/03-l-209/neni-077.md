@@ -1,0 +1,7 @@
+# Neni 77
+Shqyrtimet gjyqësore
+1. Në çfarëdo procedure gjyqësore apo të arbitrazhit kundër Bankës Qendrore, një anëtari të organeve vendimmarrëse apo personelit të Bankës Qendrore apo një agjent i Bankës Qendrore, në lidhje më realizimin e detyrave të tyre ndaj Bankës Qendrore:
+1.1. gjykata ose paneli i arbitrazhit në marrjen e vendimit të tij mund të shqyrtojë nëse i pandehuri ka vepruar në kundërshtim me ligjin ose në mënyrë arbitrare apo kapricoze duke marrë në konsideratë faktet dhe ligjet dhe rregulloret relevante;
+1.2. një anëtar i organeve vendimmarrëse apo personelit të Bankës Qendrore, apo një agjent i Bankës Qendrore, duke përfshirë një person i cili dikur ka qenë në një pozitë të tillë, nuk do të jetë përgjegjës për dëme apo përgjegjës për vepra a lëshime që kanë ndodhur bazuar në dhe në proces të realizimit të detyrave dhe përgjegjësive në emër të Bankës Qendrore përveç nëse provohet që këto vepra a lëshime përbejnë sjellje të paligjshme me dashje apo neglizhencë serioze;
+1.3. procedura në fjalë do të vazhdoj pa kufizime gjatë periudhës së një ankese si dhe çdo ankesë të mëtejmë apo procedura të tjera gjyqësore që kanë të bëjnë me ankesë; dhe
+1.4. gjykata apo paneli i arbitrazhit do të jetë i autorizuar, në rastet e duhura, të caktojë dëmshpërblime monetare për palën e dëmtuar, por nuk do të ndalojë, të pezullojë, të suspendojë apo të shfuqizojë veprimet e marra nga Banka Qendrore.

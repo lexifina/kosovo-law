@@ -1,0 +1,5 @@
+# Neni 12
+Rezervat minimale
+1. Banka Qendrore mund të kërkojë nga bankat në Kosovë të mbajnë rezerva minimale në llogari depozitash në Bankën Qendrore në përmbushje të objektivave të veta të caktuara në nenin 7 të këtij ligji. Me përjashtim të një veprimi të përkohshëm përmirësues të marr në përputhje me nenin 36 paragrafi l të këtij ligji, këto rezerva duhet të jenë të njëjta për të gjitha bankat për çdo kategori të detyrimeve për të cilat mund të paguhet normë e caktuar interesi.
+2. Me propozimin e Bordit Ekzekutiv, Bordi i Bankës Qendrore miraton rregullore që përcakton kategoritë e detyrimeve të referuara në paragrafin 1 të nenit 12 si dhe të cakton metodën për llogaritjen dhe përcaktimin e rezervave minimale të kërkuara për t’u mbajtur sipas paragrafit 1 të këtij neni dhe kompensimit të tyre.
+3. Në rast të mos përmbushjes së kërkesave të nxjerra me rregullore sipas paragrafit paraprak, Bordi Ekzekutiv nxjerr urdhëresa dhe ka autoritet të shqiptoj interes ndëshkues ose të shqiptoj ndëshkime administrative, në pajtim me nenin 67, paragrafi 2 të këtij ligji, me efekt të krahasueshëm.

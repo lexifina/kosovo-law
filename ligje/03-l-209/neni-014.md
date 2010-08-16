@@ -1,0 +1,9 @@
+# Neni 14
+Mbështetja emergjente për likuiditet
+1. Në rrethana të jashtëzakonshme, Banka Qendrore mundet, sipas gjykimit të saj dhe sipas kushteve dhe kritereve të përcaktuara nga Bordi i Bankës Qendrore, të veprojë si kreditor i instancës së fundit për një bankë të licencuar. Një mbështetje e tillë mund të ofrohet duke i dhënë mbështetje financiare bankës, ose për përfitim të bankës, me norma të interesit të lidhura me gjobën që janë më të larta se norma aktuale e tregut, si rishikohet dhe përcaktohet periodikisht nga Bordi i Bankës Qendrore dhe për periudha kohore që nuk i tejkalojnë nëntëdhjetenjë (91) ditë kalendarike por që mund të ripërtërihen nga ana e Bordit të Bankës Qendrore, në bazë të një programi të miratuar nga Bordi Ekzekutiv që specifikon masat përmirësuese që banka përkatëse do t’i ndërmarrë, me kusht që, sidoqoftë, asnjë zotim i tillë nuk do të bëhet nga Bordi i Bankës Qendrore përveç nëse:
+1.1. banka, sipas opinionit të Bordit Ekzekutiv, është solvente dhe mund të ofrojë kolateral të duhur për të mbuluar huan, si dhe kërkesa për asistencë financiare është bazuar në nevojën për të përmirësuar likuiditetin; ose
+1.2. një mbështetje e tillë është e nevojshme për ta ruajtur stabilitetin e sistemit financiar.
+2. Bordi Ekzekutiv do të përcaktojë vlerën maksimale kreditore të kolateralit të depozituar për të siguruar çdo operacion të kredisë të parashtruar në paragrafin 1 të këtij neni.
+3. Bordi Ekzekutiv ia propozon Bordit të Bankës Qendrore për miratim një rregullore të mbështetjes emergjente për likuiditetin.
+4. Mbështetja emergjente e likuiditetit nuk mund të kalojë shumën totale të rezervave të BQK-së dhe Fondin Special të Rezervave të themeluar nga Thesari për këtë qëllim.
+5. Nëse Banka Qendrore konstaton se banka e mbështetur nuk i ka zbatuar masat përmirësuese të specifikuara në paragrafin 1 të këtij neni, apo që këto masa nuk kanë sjellë rezultatet e synuara, Bordi Ekzekutiv do të ndërmarrë masat e duhura.

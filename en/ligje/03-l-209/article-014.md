@@ -1,0 +1,9 @@
+# Article 14
+Emergency liquidity assistance
+1. In exceptional circumstances, the Central Bank may, at its discretion and on such terms and conditions as the Central Bank Board determines, act as lender of last resort for a licensed bank. Such support may be provided by granting financial assistance to the bank, or for the bank’s benefit, at penalty interest rates that are higher that the current market rate, as periodically reviewed and determined by the Central Bank Board and for periods not exceeding ninety-one (91) calendar days that may be renewed by the Central Bank Board on the basis of a program approved by the Executive Board specifying the remedial measures that the bank concerned will be taking, provided, however, that no such commitment shall be made by the Central Bank Board unless:
+1.1. the bank, in the opinion of the Executive Board, is solvent and can provide adequate collateral to support the loan, and the request for financial assistance is based on the need to improve liquidity; or
+1.2. such assistance is necessary to preserve the stability of the financial system.
+2. The Executive Board shall determine the maximum loan value of the collateral deposited to secure each of the credit operations set forth in paragraph 1 of this Article.
+3. The Executive Board shall propose to the Central Bank Board for adoption a regulation on emergency liquidity assistance.
+4. Emergency liquidity assistance cannot exceed the total amount of reserves of the CBK and the Special Reserve Fund established by the Treasury for this purpose.
+5. If the Central Bank discovers that the assisted bank did not implement the remedial measures specified in paragraph 1 of this Article, or that these measures did not achieve the results intended, the Executive Board shall take appropriate measures.
