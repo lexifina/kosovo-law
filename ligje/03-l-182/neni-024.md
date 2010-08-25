@@ -1,0 +1,17 @@
+# Neni 24
+Përgjegjësitë e Policisë së Kosovës
+1. Policia e Kosovës duhet t’i përgjigjet secilit njoftim për veprat ose kërcënimet e dhunës në familje ose shkeljes së urdhrit për mbrojtje apo të urdhrit për mbrojtje emergjente pa marrë parasysh se kush e bën njoftimin.
+2. Nëse ekziston dyshimi i arsyeshëm se është kryer vepra që ka të bëjë me dhunën në familje, Policia e Kosovës e ndalon kryerësin e supozuar në pajtim me ligjin.
+3. Policia e Kosovës përdor mjete të arsyeshme për të mbrojtur viktimën dhe për të parandaluar dhunën, përfshirë, por duke mos u kufizuar vetëm në:
+3.1. sigurimin e linjës së posaçme telefonike për raportim të dhunës në familje;
+3.2. informimin e viktimës, përfaqësuesin ligjor ose mbrojtësin e viktimës për të drejtat e tij në përputhje me këtë ligj, por edhe me të drejtën për të kërkuar urdhrin për mbrojtje të përkohshme sipas nenit 22 të këtij ligji;
+3.3. informimin e viktimës lidhur me shërbimet e ndihmës ligjore, psikologjike dhe ndihmave të tjera në dispozicion nga institucionet qeveritare si dhe prej rrjetit të autorizuar të organizatave joqeveritare të cilat ofrojnë shërbime për viktimat;
+3.4. informimin e ofruesve përkatës të shërbimeve të përmendura sipas paragrafit 3.2 të këtij neni lidhur me ndonjë rast të dhunës në familje dhe mundësimin e kontaktit mes ofruesit të shërbimit dhe viktimës me kërkesën e viktimës;
+3.5. sigurimin e transportimit të viktimës dhe vartësve të saj deri në objektin e duhur mjekësor për trajtim ose kontrollim mjekësor;
+3.6. sigurimin e transportimit të viktimës, e sipas nevojës edhe vartësve të saj deri në një vendstrehim apo vendqëndrim tjetër të përshtatshëm dhe të sigurt, me kërkesën e viktimës;
+3.7. nëse paraqitet nevoja, sigurimin e mbrojtjes për atë që ka lajmëruar dhunën në përputhje me obligimet përkatëse ligjore lidhur me mbrojtjen e dëshmitarëve;
+3.8. largimin e të pandehurit nga banesa ku e ka vendbanimin ose vendqëndrimin e palës së mbrojtur apo ndonjë pjese të saj në rastin kur me anë të urdhrit për mbrojtje ose urdhrit për mbrojtje emergjente caktohet masa e paraparë në nenin 7 të këtij ligji;
+3.9. sigurimin e kontaktit zyrtar për viktimën ose përfaqësuesin e saj ligjor me nëpunësin hetues në kuadër të Policisë së Kosovës nëse kërkohet ndihma e mëtejshme. Nëse mungon nëpunësi hetues, atëherë ndonjë nëpunës tjetër i Policisë së Kosovës duhet t’i ndihmojë viktimës.
+4. Policia e Kosovës e përpilon raportin lidhur me rastin pavarësisht se a është kryer vepra apo jo, a është ndaluar dikush apo jo dhe një kopje të këtij raporti ia japin viktimës, përfaqësuesit të saj ligjor dhe mbrojtësit të viktimës.
+5. Nëse viktima është e moshës nën tetëmbëdhjetë (18) vjet ose nuk ka zotësi të veprimit, apo kur veprat e dhunës në familje janë aq të rënda sa ndikojnë në qetësinë a sigurinë e personit të moshës nën tetëmbëdhjetë (18) vjet, ose që nuk ka aftësi të plotë të veprimit dhe jeton në banesën e njëjtë, Policia e Kosovës duhet të raportoj për rastin menjëherë në qendrën për punë sociale të komunës ku ai person ka vendbanimin ose vendqëndrimin.
+6. Nëse ekziston dyshimi i bazuar se është kryer një vepër që ka të bëjë me dhunën në familje pavarësisht se a është arrestuar kryerësi ose është gjetur vendndodhja e tij, Policia e Kosovës duhet ta njoftoj rregullisht viktimën apo përfaqësuesin ligjor dhe mbrojtësin e viktimës për gjendjen e hetimeve, duke përfshirë informatat lidhur me vendndodhjen e kryerësit të supozuar ose lirimin e tij a të saj nga burgimi.
