@@ -1,0 +1,6 @@
+# Article 23
+Request for Access to Classified Information
+1. The head of a public authority where classified information is generated, processed, stored, received or transmitted shall be responsible for ensuring that all persons having access to such classified information fulfill the conditions set out in Article 22 of this law permitting access to classified information.
+2. The head of a public authority referred to in paragraph 1 of this Article shall ensure that all security measures are taken by the public authority as required by this Law and any secondary legislation issued there under to ensure security of classified information.
+3. All requests for access to classified information in possession or in control of a public authority shall be submitted to the head of the public authority who shall make a decision permitting or denying access to classified information in accordance with this Law.
+4. The head of a public authority, while retaining residual responsibility, may delegate the responsibility to decide on access to classified information and to administer classified information within the public authority pursuant to this Law to a senior official of the public authority who has the necessary security clearance and adequate professional qualifications and experience to exercise the delegated responsibility.

@@ -1,0 +1,6 @@
+# Neni 23
+Kërkesa për Qasje në Informacione të Klasifikuara
+1. Drejtuesi i institucionit publik, ku krijohen, përpunohen, ruhen, pranohen apo transmetohen informacionet e klasifikuara, ka për detyrë që të sigurohet se të gjithë personat që kanë qasje në informacione të klasifikuara t’i përmbushin kushtet e përcaktuara në nenin 22 të këtij ligji sipas të cilave lejohet qasja në informacione të klasifikuara.
+2. Drejtuesi i institucionit publik i përcaktuar në paragrafin 1. të këtij neni, ka për detyrë që të sigurohet se janë marrë të gjitha masat e sigurisë nga institucioni publik, siç kërkohet me këtë ligj dhe me çdo akt nënligjor që lejon apo ndalon qasjen ndaj informacioneve të klasifikuara në pajtim me këtë ligj.
+3. Çdo institucion publik respekton vendimin e autoritetit verifikues dhe nuk lejon qasje në informacione të klasifikuara një personi të cilit i është refuzuar certifikata e sigurisë.
+4. Drejtuesi i institucionit publik, gjersa mbanë përgjegjësi përfundimtare, mund t’ia delegojë përgjegjësinë për të marrë vendim për lejimin e qasjes së informacione të klasifikuara dhe për administrimin e informacioneve të klasifikuara sipas këtij ligji një zyrtari të lartë të institucionit publik i cili e ka verifikimin e nevojshëm të sigurisë dhe ka kualifikimin dhe përvojën adekuate për të ushtruar përgjegjësinë e deleguar.

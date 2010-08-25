@@ -1,0 +1,5 @@
+# Article 14
+Challenge of Classification
+1. Authorized holders of classified information, who, in good faith, believe that its classification status is improper or not justified according to law, may propose to the Classification Authority that has originated the classified information to review the classification status and eventually declassify the information or downgrade the classification level.
+2. The Classification Authority shall consider the proposal and shall inform such authorized holder in writing of the decision within (eight) 8 days from the day of the receipt of the proposal.
+3. Persons, who have been denied access to classified information, may challenge the classification decision by filing a request for review with the Classification Authority that has originated the classified information. Such request for review shall be filed within 3 (three) days from the date of receipt of the decision for access to classified information. The provisions on administrative review of the Law on Administrative Procedures shall apply accordingly and does not have a suspension effect.
