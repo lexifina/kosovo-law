@@ -1,0 +1,13 @@
+# Article 2
+Article 7 shall be amended as follows:
+7.1 Appointment of Ambassadors and Heads of Missions shall be done by Decree of the President of the Republic of Kosovo.
+7.2. The Minister of Foreign Affairs, after the consent of the Government, shall send the candidate name for Ambassador or Head of Mission, in confidence, to the Committee on Foreign Affairs of the Assembly of the Republic of Kosovo. Before seeking the consent of the Government, the Ministry of Foreign Affairs shall make sure that the candidate fulfils the criteria set out in paragraph 2 of Article 6 of this law.
+7.3. The Committee on Foreign Affairs of the Assembly of the Republic of Kosovo shall conduct private hearings for the candidate proposed by the Government, in order to verify whether they meet the criteria set out in paragraph 1 of the Article 6. After the hearing session, the Committee shall report the results of its hearings, in confidence, to the President, Prime Minister and Minister for Foreign Affairs.
+7.4. Verification of the criterions fulfilment, according to the Article 6 for the candidates for Ambassadors and Heads of Missions, which are serving members of the Foreign Service of the Republic of Kosovo, shall be done by the Ministry of Foreign Affairs.
+7.5. The Committee report is consultative and not obligatory for the President of the Republic of Kosovo.
+7.6. The President, after the receipt of the Committee on Foreign Affairs of the Assembly of the Republic of Kosovo report, decides whether the candidate should be appointed to the receiving State or international inter-governmental organization. Upon agreement being received from the receiving State, the President shall accredit nominated candidate.
+7.7. At least fifty per cent (50%) of new appointments of Ambassadors and Heads of Missions should be made from the serving members of the Foreign Service of the Republic of Kosovo.
+7.8. Appointees to the position of the Ambassador and Head of Mission, which are not part of the Foreign Service of the Republic of Kosovo shall serve only for one mandate, and after the completion of this mandate, shall not be considered part of the Foreign Service.
+7.9. The appointment of other personnel in Embassies or Missions abroad shall be carried out in accordance with acting legislation and sub-normative acts of the Ministry of Foreign Affairs.
+7.10. Appointment of Consul-General shall be done by Decree of the President of the Republic of Kosovo. The recommendation shall be made by the Minister of Foreign Affairs.
+7.11. Consuls shall be appointed by the Minister of Foreign Affairs.
