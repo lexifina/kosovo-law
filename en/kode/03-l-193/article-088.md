@@ -1,0 +1,2 @@
+# Article 88
+During the execution of an educational measure, the competent court may impose appropriate measures to protect the rights and well-being of a minor, including placing the minor in a shelter or an educational or similar establishment, placing the minor under the supervision of the Guardianship Authority or transferring the minor to another family. The court shall inform the Guardianship Authority of any measure imposed.

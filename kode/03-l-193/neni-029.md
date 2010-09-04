@@ -1,0 +1,3 @@
+# Neni 29
+Dërgimi në institucionin për kujdes të posaçëm
+Gjykata mund të shqiptojë masën e dërgimit në një institucion për kujdes të posaçëm në vend të masës së dërgimit në institucion edukativ ose në institucion edukativo-korrektues me rekomandimin e ekspertit të mjekësisë kur të miturit i nevojitet përkujdesje e posaçme për shkak të çrregullimit mendor ose të metave fizike dhe kur kjo është në interesin më të mirë të të miturit. Gjykata e cila ka shqiptuar masën, çdo gjashtë (6) muaj e rishikon nevojën për qëndrim të mëtejshëm në institucionin e kujdesit të posaçëm si dhe kur i mituri arrin moshën tetëmbëdhjetë (18) vjet.

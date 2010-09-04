@@ -1,0 +1,2 @@
+# Nen 33 Shqiptimi i burgimit për të mitur
+Gjykata mund të shqiptojë dënimin me burgim për të mitur ndaj kryerësit të mitur i cili e ka arritur moshën gjashtëmbëdhjetë (16) vjet dhe ka kryer vepër penale të dënueshme me mbi pesë (5) vite burgim, në rastet kur shqiptimi i masës edukative nuk do të ishte adekuate për shkak të peshës së veprës penale, pasojave të saj dhe shkallës së përgjegjësisë penale.

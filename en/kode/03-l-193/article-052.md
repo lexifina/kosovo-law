@@ -1,0 +1,3 @@
+# Article 52
+1. The public prosecutor may suspend the prosecution of a criminal offence and impose a diversity measure if the conditions under Article 17 of this Code are fulfilled. Before deciding on a diversity measure, the prosecutor shall summon the minor, his or her parents, adoptive parents or guardian and defense counsel.
+2. The juvenile judge may impose a diversity measure if the conditions under Article 17 of this Code are fulfilled. Before deciding on a diversity measure, the juvenile judge shall summon the minor, his or her parents, adoptive parents or guardian and defense counsel. If the juvenile judge decides to impose a diversity measure, any ongoing proceedings shall be stayed.

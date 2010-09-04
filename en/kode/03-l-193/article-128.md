@@ -1,0 +1,7 @@
+# Article 128
+1. The competent court that has imposed an educational measure shall review the execution of an educational measure every six (6) months.
+2. The minor, his or her parent, adoptive parent or guardian, the centre, institution or facility where the educational measure is executed or the Probation Service may request a review of the execution of an educational measure.
+3. The juvenile panel of the competent court shall issue a decision on the request referred to in paragraph 2 of the present Article within eight (8) days of the receipt of the request. An appeal against the decision may be filed with the court of second instance within three (3) days from receipt of the decision.
+4. During the review, the competent court shall consider the reports of the Probation Service and of the director of the institution or facility where an institutional educational measure is executed and shall hear the minor, his or her parent, adoptive parent or guardian, the defense counsel, public prosecutor, and the Probation Service.
+5. On the basis of the review, the court may decide to continue or terminate the execution of the educational measure, or substitute it for a less severe educational measure.
+6. As an exception to paragraph 5 of the present Article, the court may substitute an education measure with a more severe educational measure where the minor has failed to comply with a special obligation imposed pursuant to Article 26 of the present Code.

@@ -1,0 +1,2 @@
+# Neni 130
+Dispozitat e Ligjit mbi Ekzekutimin e Sanksioneve Penale lidhur me dorëzimin e ankesave dhe lutjeve nga personat e dënuar me burgim vlejnë përshtatshmërisht për dorëzimin e ankesave dhe lutjeve nga të miturit që mbajnë masat edukative të dërgimit në qendrën disiplinore, dërgimit në institucionin korrektues, dërgimit në institucionin edukativo-korrektues apo dërgimit në institucionin për kujdes të posaçëm.

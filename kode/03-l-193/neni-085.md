@@ -1,0 +1,5 @@
+# Neni 85
+1. Masa edukative ekzekutohet duke respektuar personalitetin dhe dinjitetin e të miturve, duke inkurajuar zhvillimin e tyre fizik, moral dhe intelektual, si dhe duke mbrojtur shëndetin e tyre fizik dhe mendor.
+2. Masa edukative ekzekutohet bazuar në programin individual të adaptuar sa më shumë që të jetë e mundur sipas personalitetit të të miturit dhe të përgatitur në pajtim me të arriturat bashkohore të dijes dhe përvojës.
+3. Programi individual është i përgatitur në bazë të analizave gjithëpërfshirëse të karakteristikave të veçanta të të miturit, shkaqeve dhe llojit të veprës penale dhe formave të tjera të vështirësive në sjellje, si dhe shkallës së arsimimit, zhvillimit të të miturit dhe rrethanave të jetës së tij familjare.
+4. Programi individual përfshin mjete motivuese të cilat u janë adaptuar karakteristikave personale të të miturit, regjistrimit në shkollë dhe aftësim profesional, aktiviteteve të kohës së lirë, aktivitetit me prindërit, prindërit adoptues, kujdestarit apo anëtarëve të tjerë të familjes së të miturit dhe mënyrave të tjera të ushtrimit të ndikimit ndaj të miturit.

@@ -1,0 +1,3 @@
+# Article 33
+Imposition of juvenile imprisonment
+The court may impose the punishment of juvenile imprisonment on a minor offender who has reached the age of sixteen (16) years and has committed a criminal offence punishable by imprisonment of more than five (5) years when the imposition of an educational measure would not be appropriate because of the seriousness of the criminal offence, the resulting consequences and the level of responsibility.

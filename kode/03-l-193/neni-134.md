@@ -1,0 +1,5 @@
+# Neni 134
+Ekzekutimi i burgut për të mitur
+1. Dispozitat e këtij Kodi që rregullojnë dërgimin, pranimin, qëndrimin dhe shtyrjen e ekzekutimit, caktimin e grupeve arsimore, të drejtat në vizitë dhe angazhimin në ushtrime fizike, përcaktimin e punës dhe edukimin, mundësinë e shkollimit të rregullt, dënimet disiplinore të të miturve në institucionet edukative dhe procedurat për ankesa dhe lutje, gjithashtu vlejnë edhe për ekzekutimin e dënimeve me burg për të miturit.
+2. Dispozitat e Ligjit mbi Ekzekutimin e Sanksioneve Penale për ekzekutimin e dënimit me burgim zbatohen përshtatshmërisht për ekzekutimin e dënimit me burgim për të mitur në rastet kur nuk janë në kundërshtim me këtë Kod.
+3. I mituri i cili është dënuar me burgim për të mitur, krahas të drejtave të parapara me këtë Kod, gëzon të njëjtat të drejta si personi madhor i dënuar me burgim.

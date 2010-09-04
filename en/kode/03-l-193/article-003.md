@@ -1,0 +1,9 @@
+# Article 3
+Guiding Principles
+1. The juvenile justice system shall emphasize the well-being of the juvenile and ensure that any reaction to juvenile offenders shall always be in proportion to the circumstances of both the offenders and the criminal offence.
+2. Minor offenders shall be considered for diversity measures and educational measures where appropriate.
+3. Deprivation from liberty shall be imposed only as a last resort and shall be limited to the shortest possible period of time. During the time of deprivation from liberty imposed as a penalty, a minor offender shall receive educational, psychological and, if necessary, medical assistance to facilitate his or her rehabilitation.
+4. A child participating in criminal proceedings shall be given an opportunity to express himself or herself freely.
+5. Every minor deprived of liberty shall be treated with humanity for the inherent dignity of the human person, and in a manner which takes into consideration the needs of persons of his or her age. In particular, every minor deprived of liberty shall be separated from adults unless it is considered in the child’s best interest not to do so and shall have the right to maintain contact with his or her family through the correspondence and visits, save in exceptional circumstances as defined by law.
+6. Every minor deprived of his or her liberty shall have the right to prompt access to legal and other appropriate assistance, as well as the right to challenge the legality of the deprivation of his or her liberty before an independent and impartial court, and to prompt proceedings.
+7. The child’s right to privacy shall be respected at all stages in order to avoid harm being caused to him or her by undue publicity or by the process of labeling. In principle, no information that may lead to the identification of a minor offender shall be published.

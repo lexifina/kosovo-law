@@ -1,0 +1,3 @@
+# Article 41
+1. Proceedings shall not be initiated against a child under the age of fourteen (14) years. If the child is under the age of fourteen years at the time of the commission of the criminal offence, any proceedings that have been initiated shall be immediately terminated, and the Guardianship Authority shall be notified of the case.
+2. Guardianship Authority undertakes certain necessary steps in accordance with the Law on Family and Social services based on their programs for treatment of juvenile criminal offenders under the age of fourteen (14) years. This matter might be regulated in detailed way with secondary legislation that could be issued by Ministry of labor and social welfare.

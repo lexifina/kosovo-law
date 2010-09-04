@@ -1,0 +1,5 @@
+# Article 24
+Intensive supervision in another family
+1. The court shall impose the measure of intensive supervision in another family, after hearing the parent, adoptive parent or guardian, when the parent, adoptive parent, or guardian is incapable of carrying out intensive supervision of the minor and when such measure is in the best interest of the minor.
+2. The execution of this measure shall be terminated when the parent, adoptive parent or guardian of the minor becomes able to exercise intensive supervision over him or her or when according to the results of the rehabilitation there is no longer any need for intensive supervision.
+3. When imposing this measure, the court may order the Probation Service to verify the execution of the measure and to offer the necessary assistance to the family exercising supervision.

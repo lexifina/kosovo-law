@@ -1,0 +1,3 @@
+# Article 135
+1. During the time they serve their sentences, minors shall be provided with appropriate vocational training based on their knowledge, skills, interests and current work, and depending on the limits of the correctional facility. The bases of the treatment are involvement in work that is educationally beneficial and with an appropriate remuneration, facilitating and encouraging contacts between the minor and the outside world through letters, telephone, receiving visits, going on home visits, sports activities and providing necessary conditions for religious practice.
+2. The professional staff of the service treating the minor shall have an adequate knowledge in the fields of pedagogy and psychology.

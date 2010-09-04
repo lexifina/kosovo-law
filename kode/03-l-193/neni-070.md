@@ -1,0 +1,4 @@
+# Neni 70
+1. I mituri, mbrojtësi dhe prokurori janë të pranishëm në shqyrtimin gjyqësor.
+2. Përveç personave të paraparë me dispozitat e Kodit të procedurës penale të Kosovës, prindi, prindi adoptues ose kujdestari, përfaqësuesi i organit të kujdestarisë dhe përfaqësuesi i shërbimit sprovues thirren në shqyrtimin gjyqësor. Mosparaqitja e personave të tillë nuk e pengon gjykatën që ta mbajë shqyrtimin gjyqësor.
+3. Dispozitat e Kodit të Procedurës Penale të Kosovës lidhur me ndryshimin dhe zgjerimin e akuzës po ashtu vlejnë në procedurën ndaj të miturit. Megjithatë, trupi gjykues për të mitur është i autorizuar të marrë vendim, madje edhe nëse prokurori nuk ka ndryshuar propozimin e tij ose nëse nuk ka përgatitur propozim të ri, në bazë të provave që janë prezantuar në shqyrtimin gjyqësor, duke treguar se gjendja faktike siç është shpjeguar në propozim ka ndryshuar.

@@ -1,0 +1,3 @@
+# Neni 63
+1. Pas përfundimit të procedurës përgatitore, prokurori mund të paraqesë propozim të arsyetuar pranë trupit gjykues për të mitur për shqiptimin e masës edukative ose dënimit.
+2. Propozimi i prokurorit duhet të përfshijë: të dhënat personale të të miturit, përshkrimin e veprës penale, emërtimin ligjor të veprës penale me përcaktimin e dispozitave në Kodin Penal të Kosovës, provat që tregojnë se i mituri e ka kryer veprën penale, rezultatet e ndonjë ankete sociale të përpiluar nga shërbimi sprovues dhe propozimin për shqiptimin e masës edukative ose dënimin ndaj të miturit, duke përfshirë arsyerat pse nuk është shqiptuar masa e diversitetit.

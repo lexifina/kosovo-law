@@ -1,0 +1,5 @@
+# Article 85
+1. An educational measure shall be executed with respect for the personality and dignity of the minors, encouraging their physical, moral and intellectual development and protecting their physical and mental health.
+2. An educational measure shall be executed based on an individual program adapted to the personality of the minor as far as possible and designed in accordance with modern achievements of knowledge and practice.
+3. The individual program is designed on the basis of a comprehensive analysis of the special characteristics of the minor, the causes and the type of the criminal offence and other forms of behavioral difficulties as well as the educational level, the development of the minor and the circumstances of his or her family life.
+4. The individual program shall contain motivating means that are adapted to the personal characteristics of the minor, enrollment in education and vocational training, free time activities, activity with the parents, adoptive parents, the guardian or other family members of the minor and other means of exercising influence on the minor.

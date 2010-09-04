@@ -1,0 +1,3 @@
+# Neni 75
+1. Gjykata mund të urdhërojë të miturin t’i paguajë shpenzimet e procedurës dhe të plotësojë kërkesën pasuroro-juridike vetëm nëse të miturit i ka shqiptuar dënimin. Nëse të miturit i janë shqiptuar masat edukative, shpenzimet e procedurës gjyqësore paguhen nga buxheti i Kosovës kurse pala e dëmtuar për të realizuar kërkesën pasuroro juridike udhëzohet në kontest civil.
+2. Nëse i mituri ka të ardhura të veta financiare ose pronë, gjykata mund ta urdhërojë të miturin t’i paguajë shpenzimet e procedurës dhe ta plotësojë kërkesën pasurorojuridike madje edhe kur është shqiptuar masa edukative.

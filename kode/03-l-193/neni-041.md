@@ -1,0 +1,3 @@
+# Neni 41
+1. Për fëmijën nën moshën katërmbëdhjetë (14) vjet nuk fillon procedura gjyqësore. Nëse fëmija është nën moshën katërmbëdhjetë (14) vjet në kohën e kryerjes së veprës penale, çdo procedurë gjyqësore që ka filluar pushohet menjëherë dhe organi i kujdestarisë njoftohet për rastin nga prokurori.
+2. Organi i kujdestarisë ndërmerr veprimet e caktuara në pajtim me Ligjin për Shërbimet Sociale dhe Familjare për trajtimin e kryerësve të veprave penale nën moshën katërmbëdhjetë (14) vjet në bazë të programeve të tij. Kjo çështje më hollësisht mund të rregullohet me akt nënligjor të cilin e nxjerr ministria për Punë dhe Mirëqenie Sociale.

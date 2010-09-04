@@ -1,0 +1,3 @@
+# Article 63
+1. After completing the preparatory proceedings, the public prosecutor may file a reasoned motion with the juvenile panel for the imposition of an educational measure or a punishment.
+2. The public prosecutor’s motion must contain the following: the personal data of the minor, a description of the criminal offence, the legal name of the criminal offence with an indication of the provisions of the Criminal Code of Kosovo, the evidence indicating that the minor committed the criminal offence, the results of any social inquiry conducted by Probation Service and a motion for the imposition of an educational measure or punishment against the minor.

@@ -1,0 +1,3 @@
+# Neni 116
+1. Kur i mituri pranohet në institucionin edukativo-korrektues, së pari konstatohet identiteti i tij, arsyeja e shqiptimit të masës dhe organi që ka shqiptuar masën edukative, e më pas ai i nënshtrohet kontrollit mjekësor brenda njëzetekatër (24) orëve nga arritja. Emri i të miturit, arsyet dhe organi që ka shqiptuar masën edukative, data dhe koha për pranimin e tij në institucionin korrektues shënohet në regjistër.
+2. I mituri më pas dërgohet në sektorin për kontroll personal por jo më gjatë se gjashtëdhjetë (60) ditë, me qëllim të përpilimit të programit individual. Programi me të cilin do të trajtohet i mituri hartohet nga grupi i ekspertëve dhe nga institucioni edukativo korrektues.

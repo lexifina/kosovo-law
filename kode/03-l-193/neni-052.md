@@ -1,0 +1,3 @@
+# Neni 52
+1. Prokurori mund të pezullojë ndjekjen e veprës penale dhe të shqiptojë masën e diversitetit nëse janë plotësuar kushtet nga neni 17 i këtij Kodi. Para vendosjes për masën e diversitetit, prokurori e thërret të miturin, prindin e tij, prindërit adoptues ose kujdestarin dhe mbrojtësin.
+2. Gjyqtari për të mitur mund të shqiptojë masën e diversitetit nëse janë plotësuar kushtet nga neni 17 i këtij Kodi. Para vendosjes për masën e diveristetit, gjyqtari për të mitur e thërret të miturin, prindin e tij, prindin adoptues ose kujdestarin dhe mbrojtësin. Nëse gjyqtari për të mitur vendos të shqiptojë masën e diversitetit, pushohet çdo procedurë që është duke vazhduar.

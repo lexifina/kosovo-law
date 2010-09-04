@@ -1,0 +1,5 @@
+# Article 73
+1. The juvenile panel is not bound by the motion of the public prosecutor in rendering its decision on the type of measure or punishment to be imposed.
+2. The juvenile panel shall terminate the proceedings at the main trial by a ruling, when the grounds set forth in provisions of the Criminal Procedure Code of Kosovo exist.
+3. The juvenile panel shall impose an educational measure on the minor by a ruling. The enacting clause of the ruling shall state only the order for an educational measure and any other measure or punishment in Chapter VIII of the present Code and the minor shall not be pronounced guilty of the criminal offence described in the motion of the public prosecutor. The explanation of the ruling shall contain a description of the criminal offence and the circumstances which justify the imposition of the educational measure.
+4. The juvenile panel shall impose a punishment on a minor by a judgment. The judgment shall be rendered as provided under provisions of the Criminal Procedure Code of Kosovo. The judgment shall also include an order for any measure or punishment in Chapter VIII of the present Code.

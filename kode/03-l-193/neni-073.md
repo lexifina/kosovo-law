@@ -1,0 +1,5 @@
+# Neni 73
+1. Trupi gjykues për të mitur nuk është i lidhur me propozimin e prokurorit me rastin e marrjes së vendimit të tij për llojin e masës ose dënimit që do të shqiptohet.
+2. Trupi gjykues për të mitur e pushon procedurën në shqyrtim gjyqësor me aktvendim, kur ekzistojnë arsyet e parapara me dispozitat e Kodit të procedurës penale të Kosovës.
+3. Trupi gjykues për të mitur me aktvendim shqipton masën edukative për të miturin. Në dispozitiv të aktvendimit ceket vetëm urdhri për masën edukative dhe çfarëdo mase tjetër ose dënimi në kreun VIII të këtij Kodi, por i mituri nuk shpallet fajtor për veprën penale të përshkruar në propozimin e prokurorit. Arsyetimi i aktvendimit përmban përshkrimin e veprës penale dhe rrethanat të cilat e arsyetojnë shqiptimin e masës edukative.
+4. Trupi gjykues për të mitur me aktgjykim shqipton dënimin ndaj të miturit. Aktgjykimi merret sipas dispozitave të Kodit të procedurës penale të Kosovës. Aktgjykimi gjithashtu përfshin urdhrin për cilëndo masë ose dënim në kreun VIII të këtij Kodi.

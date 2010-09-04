@@ -1,0 +1,5 @@
+# Neni 8
+Zgjedhja e masave dhe e dënimeve të zbatueshme
+1. Kur ndaj të miturit shqiptohet ndonjë masë apo dënim, gjykata në radhë të parë merr parasysh interesin më të mirë të të miturit. Gjykata gjithashtu merr parasysh edhe këto rrethana: llojin dhe peshën e veprës penale, moshën e të miturit, nivelin e zhvillimit psikologjik, karakterin e tij dhe prirjet, motivet që e nxitën atë të kryejë veprën penale, edukimin e tij në atë fazë, mjedisin dhe rrethanat e jetës së tij, nëse është shqiptuar masë apo dënim më herët dhe rrethanat tjera që mund të ndikojnë në shqiptimin e masës apo dënimit.
+2. Shërbimi sprovues përgatit anketë të plotë sociale për të miturin me kërkesë të prokurorit publik, gjyqtarit për të mitur ose gjykatës ashtu siç është paraparë në këtë Kod. Anketa sociale përfshin të dhëna mbi moshën e të miturit dhe zhvillimin psikologjik, biografinë e familjes, biografinë dhe rrethanat nën të cilat jeton i mituri, nivelin shkollor, përvojën edukative dhe çfarëdo të dhëne tjetër relevante.
+3. Para zgjedhjes së masës apo dënimit, gjykata mund të kërkojë nga shërbimi sprovues raportin para ndëshkues dhe mendimin lidhur me zgjedhjen e masës apo dënimit.

@@ -1,0 +1,3 @@
+# Article 116
+1. When the minor is admitted to an educational-correctional institution, his or her identity and the grounds and authority for the educational measure shall first be established and then he or she shall undergo a medical examination within twenty-four (24) hours of arrival. The name of the minor, the grounds and authority for the educational measure and the date and time of his or her arrival at the correctional facility shall be recorded in a register.
+2. The minor shall then be sent to the section for personal examination for no more than sixty (60) days for the purpose of establishing an individualized program. The program for dealing with minors shall be established by an expert team at the educational-correctional institution.

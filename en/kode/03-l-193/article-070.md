@@ -1,0 +1,4 @@
+# Article70
+1. The minor, the defense counsel and the public prosecutor shall be present at the main trial.
+2. In addition to the persons referred to in provisions the Criminal Procedure Code of Kosovo, the parent, adoptive parent or guardian, a representative of the Guardianship Authority and a representative of the Probation Service shall be summoned to the main trial. The failure of such persons to appear shall not prevent the court from holding the main trial.
+3. The provisions of the Criminal Procedure Code of Kosovo regarding the amendment and extension of the charge shall also apply in proceedings against a minor. However, the juvenile panel is authorized to render a decision even if the public prosecutor has not modified his or her motion or prepared a new motion, on the basis of the evidence presented in the main trial indicating that the factual situation as described in the motion has changed.

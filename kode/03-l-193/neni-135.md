@@ -1,0 +1,3 @@
+# Neni 135
+1. Gjatë kohës së vuajtjes së dënimit, të miturve u ofrohet aftësim i duhur profesional i bazuar në njohuritë e tyre, shkathtësitë, interesimet dhe punën që është duke e kryer, varësisht prej mundësive të institucionit korrektues. Bazat e trajtimit përfshijnë punën e dobishme edukative me shpërblim përkatës, lehtësimin dhe inkurajimin e kontakteve mes të miturve dhe botës së jashtme përmes letrave, telefonit, pranimin e vizitave, vizitave në shtëpi, aktiviteteve sportive dhe ofrimit të kushteve të nevojshme për kryerjen e ritualeve fetare.
+2. Stafi profesional i shërbimit që trajton të miturin duhet të ketë njohuri të duhura nga lëmi i pedagogjisë dhe psikologjisë.
