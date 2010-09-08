@@ -1,0 +1,7 @@
+# Neni 5
+Parimet drejtuese
+1. Sanksionet penale ekzekutohen në mënyrën e cila siguron trajtimin human dhe respektimin e dinjitetit të secilit individ. Personi i dënuar nuk i nënshtrohet torturës ose trajtimit apo ndëshkimit çnjerëzor a degradues.
+2. Sanksionet penale ekzekutohen në mënyrë plotësisht të paanshme. Nuk duhet të ekzistojë diskriminim në asnjë bazë qoftë ajo e prejardhjes kombëtare a shoqërore, e racës, e ngjyrës, e gjinisë, e gjuhës, e gjendjes ekonomike dhe sociale, e bindjes politike ose e mendimit tjetër dhe e besimit fetar, e përkatësisë së një bashkësie etniko-religjioze ose e gjuhësore në Kosovë, e pasurisë, e statusit të lindjes ose e ndonjë statusi tjetër.
+3. Gjatë ekzekutimit të sanksionit penal gjithmonë respektohen të drejtat e personit të dënuar. Këto të drejta mund të kufizohen vetëm në atë masë që është e domosdoshme për ekzekutimin e sanksionit penal në pajtim me ligjin në pajtim me ligjin në fuqi dhe standardet ndërkombëtare për të drejtat e njeriut.
+4. Zbatimi i sanksioneve penale duhet të nxisë sa më shumë që të jetë e mundur pjesëmarrjen e personit të dënuar në risocializimin dhe riintegrimin e tij shoqëror, sidomos përmes zbatimit të planit individual dhe bashkëpunimit të shoqërisë në arritjen e qëllimeve të tilla.
+5. Qëllimi i risocializimit dhe riintegrimit të personit të dënuar në bashkësi po ashtu duhet të plotësohet përmes nxitjes dhe organizimit të pjesëmarrjes së institucioneve ose të organeve publike dhe private si dhe të individëve në procesin e riintegrimit.

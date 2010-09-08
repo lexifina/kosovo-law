@@ -1,0 +1,7 @@
+# Neni 31
+Pranimi i personit të dënuar në institucionin Korrektues
+1. Kur personi i dënuar pranohet në institucionin korrektues së pari vërtetohet identiteti i tij, baza dhe autorizimi për burgimin ose burgimin e tij afatgjatë dhe më pas i nënshtrohet kontrollit mjekësor brenda njëzetekatër (24) orëve nga pranimi i tij apo në ditën e parë të punës pas pranimit. Emri i personit të dënuar, bazat dhe autorizimi për burgimin ose burgimin e tij afatgjatë, data dhe koha e ardhjes së tij në institucionin korrektues shënohet në regjistër dhe dosjen personale të të dënuarit.
+2. Gjatë pranimit në institucionin korrektues, personi i dënuar informohet me shkrim në gjuhën të cilën ai e kupton lidhur me rregullat e rendit të brendshëm të institucionit korrektues, për detyrimet që duhet të plotësohen dhe për mënyrën e ushtrimit të të drejtave gjatë ekzekutimit të dënimit, për dënimet disiplinore që mund t’i shqiptohen atij dhe për benificionet që mund të fitohen. Personi i dënuar analfabet lidhur me këto informata njoftohet gojarisht.
+3. Procedurat në paragrafin 1. dhe 2. të këtij neni nuk zbatohen, sa të jetë e mundur, në prani të personave të tjerë të dënuar. Personi i dënuar fotografohet.
+4. Dispozitat e këtij ligji mbi rregullat e rendit të brendshëm në institucionin korrektues janë në dispozicion të personave të dënuar gjatë tërë kohës së mbajtjes së dënimit.
+5. Rregullat e rendit të brendshëm të institucionit korrektues i nxjerr Drejtori i Shërbimit Korrektues të Kosovës.
