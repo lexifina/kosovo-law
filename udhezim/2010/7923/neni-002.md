@@ -1,0 +1,3 @@
+# Neni 2
+Shkurtesat
+1. EKGSH: Ekipi Komunal për Grante Shkollore 2. KAGSH: Këshilli për Aprovimin e Granteve të Shkollave 3. EKP: Ekipi Koordinues i Projektit 4. IDEP: Institutional Development for Education Project (Projekti për Zhvillimin Institucional të Arsimit) 5. DGSH: Doracaku i Granteve Shkollore që është doracak operativ, i cili do të përdoret për ta lehtësuar realizimin e komponentës 1.3 të projektit 6. KEC: Qendra për Arsim e Kosovës 7. BPT: Bashkëpunëtori profesional i terrenit për grante. Ai/ajo është bashkëpunëtor në nivel rajoni, i punësuar nga KEC-i, dhe është përgjegjës për të ndihmuar në realizimin e projektit në nivel shkolle dhe komune.
