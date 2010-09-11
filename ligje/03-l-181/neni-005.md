@@ -1,0 +1,2 @@
+# Neni 5
+Inspektorati është i obliguar që ti ruaj të dhënat dhe informatat sipas parimit të besueshmërisë që janë marr gjatë kryerjes së punëve nga kompetenca e inspektoratit në mënyrë dhe kushte të përcaktuara me ligj. Në rastin e ekzistimit të rrezikut serioz për jetën dhe shëndetin e njerëzve, pronën e tyre, mjedisin jetësor dhe natyrën, Kryeinspektori i shpall informatat e konfirmuara nga mbikëqyrja inspektuese deri në shkallën që është e domosdoshme të dëshmohet për masat që duhet të ndërmerren në pajtim me ligjin.

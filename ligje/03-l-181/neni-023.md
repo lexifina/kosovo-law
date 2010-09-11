@@ -1,0 +1,3 @@
+# Neni 23
+1. Mostra e marrur për ekzaminimin e produktit që i ekspozohet prishjes duhet t’i dorëzohet trupës së autorizuar profesionale për analizë të parë, ndërsa me kërkesë të palës njëkohësisht trupës tjetër profesionale për superanalizë në një Laborator të Akredituar Ndërkombëtarisht.
+2. Nëse rezultatet e analizës nga paragrafi 1 i këtij neni ndryshojnë, vendimtar është rezultati i analizës së bërë me kërkesë të palës. Nëse pala gjatë marrjes së mostrës nuk kërkon që njëkohësisht të merret mostra për superanalizë, konsiderohet se pajtohet me rezultatin e analizës së bërë me kërkesën e inspektorit.

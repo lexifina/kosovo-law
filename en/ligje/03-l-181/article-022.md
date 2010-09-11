@@ -1,0 +1,10 @@
+# Article 22
+1. In the inspection procedure should be confirmed whether the placed products in the market correspond with the declared composition, product security requirements, declared information regarding the products, origin of goods and trading mark
+2. Inspector could take samples of those products and to hand them over, market and stamped in a proper way regarding examination and assessment to authorized professional body or other competent inspecting body.
+3. Whilst taking the samples of a certain products, inspector has right and obligation:
+3.1. under the same conditions and at the same time, from the same product could be taken at most three samples with necessary amount regarding examination of the first analyze, super- analyze and third party whilst at the same time to compile a report regarding the taken samples;
+3.2. the obtained sample regarding analyze to hand over without any delay to authorized professional body or other competent inspecting body from respective domain while the sample regarding super-analyze to save in suitable conditions until the end of first analyze;
+3.3. the samples of the products shall be tested without delay. After the end of test, the authorized body that carried out the test is obliged to compile a report regarding the test and hand it over to Inspectorate, most lately in a term of three days;
+3.4. to inform in a written form the party, from who the sample is taken regarding the result of the first analyze;
+3.5. on party’s request, Inspectorate shall hand over the sample regarding super-analyze to authorized professional body at an Accredited Laboratory;
+3.6. the examined sample, which does not correspond with the foreseen content, security conditions, foreseen information regarding the product or information about the produce whilst through a decision is not decided regarding the created expenses during the procedure of obtaining the examined samples, inspector, with a special conclusion shall confirm the amount of expenses and payment deadline.
