@@ -1,0 +1,5 @@
+# Article 15
+Use of Wasteful Practices
+1. No Licensee or Permit Holder shall engage in Wasteful Practices.
+2. If the ICMM, on the basis of clear and objective evidence provided by the Inspectorate or another source, determines that a Licensee or a Permit Holder is engaging in Wasteful Practices, the ICMM shall give written notice to such Licensee or Permit Holder of such determination. Such notice shall specify the nature of the practices objected to and require the concerned Licensee or Permit Holder, within thirty (30) days, to either deny that it is engaging in such practices or to provide an explanation as to why such practices are necessary.
+3. If the ICMM is not satisfied with the response provided or if no response is received within the thirty (30) day period, the ICMM shall issue a “Notice of Failure to Comply” under Article 9 ordering the concerned Licensee or Permit Holder to cease using such practices. Such order shall specify in detail the wasteful practices that are the subject of the order. If the Licensee or Permit Holder fails to comply with such order, the ICMM shall take the measures specified in paragraph 2 of Article 9 of this law.

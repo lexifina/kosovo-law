@@ -1,0 +1,4 @@
+# Article 65
+Dedicated Revenue
+1. With the exception of royalties, revenue collected by the ICMM in the form of license fees and other charges levied pursuant to the present law shall be the “dedicated revenue” of the ICMM. Donor funds specifically provided to support the ICMM shall also be deemed the “dedicated revenue” of the ICMM. All such items shall be deposited into the budget of the Republic of Kosovo and appropriated for the authorized purposes of ICMM under the relevant budgetary category and in accordance with the budgetary process established by the Law on Public Financial Management and Accountability.
+2. Royalties collected by the ICMM shall not be the ICMM’s “dedicated revenue” but shall be the general revenue of the Republic of Kosovo. Such royalties shall be deposited as such in the budget of the Republic of Kosovo.

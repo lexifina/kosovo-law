@@ -1,0 +1,4 @@
+# Neni 65
+Të hyrat e dedikuara
+1. Me përjashtim të rentave minerare, të hyrat e mbledhura nga KPMM në formë të taksave të licencave dhe tarifave tjera të mbledhura në përputhje me këtë ligj janë “të hyra të dedikuara” të KPMM-së. Fondet e donatorëve të siguruara veçanërisht për mbështetjen e KPMM-së po ashtu konsiderohen si “të hyra të dedikuara” të KPMM-së. Të gjitha këto mjete do të depozitohen në buxhetin e Republikës se Kosovës dhe do të ndahen për qëllimet e autorizuara të KPMM-së në bazë të kategorisë përkatëse buxhetore dhe në përputhje me procesin buxhetor të themeluar nga Ligji për Menaxhimin e Financave Publike dhe Përgjegjësitë.
+2. Rentat minerare të mbledhura nga KPMM nuk janë “të hyra të dedikuara” të KPMM-së por janë hyra të përgjithshme të Republikës së Kosovës. Rentat minerare do të derdhen si të tilla në buxhetin e Republikës se Kosovës.

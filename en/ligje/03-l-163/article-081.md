@@ -1,0 +1,5 @@
+# Article 81
+Penalties for Failure to Comply with an Order of the ICMM or a Mining Inspector
+1. Any physical person who fails or refuses to comply fully and faithfully with an order issued by the ICMM or a Mining Inspector under the Present Law shall be criminally liable under all applicable provisions of the criminal code for such failure or refusal. If an undertaking fails to comply with such an order, the physical persons responsible for such failure shall be criminally liable for such failure under the applicable provisions of the criminal code.
+2. Any physical person who interferes or attempts to interfere with the work of ICMM or a Mining Inspector during the performance of its official duties and authorities under the Present Law shall be liable under the applicable provisions of the criminal code for such interference.
+3. Any person convicted under the criminal code of an offence specified in paragraph 1 or 2 of this article shall, in addition to the fines or penalties imposed under the criminal code, also be subject to an administrative fine up to one hundred thousand (100,000) €.

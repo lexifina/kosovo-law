@@ -1,0 +1,6 @@
+# Article 71
+Authority to Enforce Environmental and Safety Legal Provisions
+1. If an authorized inspector of the Mining Inspectorate has good reason to believe that a Person holding a License or Permit from the ICMM is conducting mining or exploration activities in violation of the safety or environmental regulations issued by the Minister pursuant to the present law, the inspector shall have the authority to order the Licensee or Permit Holder to
+1.1. If the violation does not present an imminent threat to the environment or human or animal health, issue an order to the Licensee or Permit Holder requiring the Licensee or Permit Holder to eliminate the violation within a period of thirty (30) days; or
+1.2. If the violation does present an imminent threat to the environment or human or animal health, issue an order to the Licensee or Permit Holder requiring the Licensee or Permit Holder to immediately take whatever measures may be necessary to eliminate the violation as soon as practicable and to cease all activities causing or effecting the violation until such corrective measures have been implemented.
+2. All actions taken by an inspector under this article shall be immediately reported to the ICMM Board.

@@ -1,0 +1,11 @@
+## KREU IV
+## MUZEU SHTETËROR I KRISTALEVE DHE MINERALEVE
+# Neni 78
+Muzeu Shtetëror i Kristaleve dhe Mineraleve
+1. Muzeu Shtetëror i Kristaleve dhe Mineraleve (“Muzeu”) themelohet si institut i Ministrisë.
+2. Muzeu ushtron funksionet në vijim:
+2.1. përgatit dhe mban ekspozita të hapura për publikun lidhur me trashëgiminë gjeologjike dhe minerare të Kosovës;
+2.2. ruan dhe ekspozon strukturat kristalore dhe strukturat me përmbajtje kristalore të pranuara nga Bartësit e Licencave të Hulumtimit dhe Shfrytëzimit në pajtim me paragrafin 9. të nenit 24 dhe paragrafin 6. të nenit 34 të këtij ligji;
+3. Muzeu udhëhiqet nga Drejtori i Muzeut i cili i raporton Ministrit. Drejtori i Muzeut emërohet nga një komision përzgjedhës ad hoc që themelohet nga Ministri. Komisioni ad hoc bën përzgjedhjen e kandidatëve në bazë të një konkurrimi të hapur dhe transparent dhe në bazë të kritereve objektive duke përfshirë kualifikimet profesionale të kandidatëve, ekspertizën dhe përvojën profesionale si dhe meritën dhe integritetin moral. Ministria do të shpallë një njoftim për dorëzimin e aplikacioneve për pozitën e Drejtorit të Muzeut. Ky njoftim do të kërkojë dorëzimin e aplikacioneve në Ministri brenda tridhjetë (30) ditëve nga data e publikimit të njoftimit.
+4. Kandidatët për pozitën e Drejtorit të Muzeut duhet të plotësojnë kushtet e përcaktuara në paragrafin 6 të Nenit 59 të këtij ligji si dhe duhet të kenë përvojë të konsiderueshme menaxhuese si dhe të posedojnë gradë shkencore në gjeologji ose shkenca teknike minerare nga një Universitet i akredituar brenda ose jashtë Kosovës.
+5. Ministria në konsultim me Drejtorin e Muzeut do të nxjerrë një akt nënligjor i cili përshkruan llojet specifike të strukturave kristalore dhe strukturave me përmbajtje kristalore të cilat Bartësit e Licencave për Hulumtim dhe Shfrytëzim janë të detyruar si mbledhin, ruajnë dhe dorëzojnë në Muze. Akti nënligjor në fjalë duhet të përshkruajë vetëm strukturat të cilat kanë vlerë unike estetike që e arsyeton ekspozimin e tyre publik në Muze. Ministria gjithashtu duhet të sigurojë që në këtë akt nënligjor të mos vendosë barrë materiale në aftësinë e Bartësve të Licencave për Hulumtim dhe Shfrytëzim për ushtrimin e aktiviteteve të tyre të përkatëse të hulumtimit dhe shfrytëzimit.

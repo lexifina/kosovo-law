@@ -1,0 +1,6 @@
+# Neni 71
+Autorizimi për zbatimin e dispozitave ligjore për mbrojtjen e mjedisit dhe sigurisë
+1. Nëse një inspektor i autorizuar i Inspektoratit të Minierave ka arsye të mira për të besuar se një Person i cili zotëron një Licencë ose Leje të dhënë nga KPMM është duke i ushtruar aktivitetet e shfrytëzimit ose hulumtimit në kundërshtim me rregulloret e sigurisë ose për mbrojtjen e mjedisit të nxjerra nga Ministri në përputhje me këtë ligj, inspektori është i autorizuar që:
+1.1. të lëshojë urdhër për Bartësin e Licencës ose Lejes me të cilin kërkohet korrigjimi i shkeljes brenda tridhjetë (30) ditëve nëse shkelja nuk paraqet rrezik të menjëhershëm për mjedisin ose shëndetin e njerëzve ose shtazëve; ose
+1.2. të lëshojë urdhër për Bartësin e Licencës ose Lejes që menjëherë të ndërmarrë të gjitha masat e nevojshme për eliminimin e shkeljes sa më shpejt që të jetë e mundshme dhe të ndërpresë të gjitha aktivitet të cilat kanë shkaktuar ose ndikuar në shkeljen deri në marrjes e masave korrigjuese, nëse shkelja paraqet rrezik të menjëhershëm për shëndetin e njerëzve ose shtazëve.
+2. Të gjitha masat e ndërmarra nga një inspektor sipas këtij Neni menjëherë duhet t’i raportohen Bordit të KPMM-së.

@@ -1,0 +1,4 @@
+# Article 74
+Mineral Resources Management
+1. During the end of three (3) months of the end of each calendar year, the ICMM and the Geological Institute shall prepare and submit to the Ministry of Energy and Mining a draft Mineral Resources Management Plan for the following year. Such plan shall be in compliance with the Kosovo Mining Strategy. The draft plan shall set out the ICMM’s and the Geological Institute’s recommended objectives and implementation plan for the overall coordinated and sustainable exploitation of Mineral Resources in Kosovo.
+2. Within thirty (30) days after receiving the mineral resources management plan, the Ministry of Energy and Mining shall review, modify as it deems reasonable, approve and promulgate such plan. The ICMM and the Geological Institute shall implement the plan and, as needed, provide the Ministry of Energy and Mining recommendations with respect to its modification or implementation.

@@ -1,0 +1,5 @@
+# Neni 81
+Dënimet për moszbatimin e një urdhri të KPMM-së ose një Inspektori të Minierave
+1. Çdo person fizik që dështon ose refuzon të përputhet në tërësi dhe me ndershmëri me një urdhër të lëshuar nga KPMM-ja ose një Inspektor i Minierave sipas këtij ligji do të ndiqet penalisht në bazë të të gjitha dispozitave të aplikueshme të kodit penal për atë dështim ose refuzim. Nëse një ndërmarrje nuk e zbaton urdhrin në fjalë, personat fizik përgjegjës për dështimin e tillë do të ndiqen penalisht për këtë dështim sipas dispozitave të aplikueshme të Kodit Penal.
+2. Çdo person fizik që ndërhyn ose tenton të ndërhyjë në punën e KPMM-së ose një Inspektori të Minierave gjatë ushtrimit të detyrave dhe autorizimeve të saj zyrtare sipas këtij ligji, do të përgjigjet sipas dispozitave të zbatueshme të Kodit Penal për atë ndërhyrje.
+3. Çdo person i dënuar sipas kodit penal për një shkelje të përcaktuar në paragrafin 1. dhe 2. te këtij neni, përveç gjobave ose dënimeve të përcaktuara me Kodin Penal, gjithashtu i nënshtrohet një gjobe administrative deri njëqindmijë (100.000) Euro.

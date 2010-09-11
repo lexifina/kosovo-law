@@ -1,0 +1,4 @@
+# Neni 74
+Menaxhimi i resurseve minerale
+1. Gjatë tre (3) mujorit të fundit të secilit vit kalendarik, KPMM dhe Instituti Gjeologjik përgatitin dhe i dorëzojnë Ministrisë së Energjisë dhe Minierave Projekt-Planin për Menaxhimin e Resurseve Minerale për vitin vijues. Ky plan duhet të jetë në përputhje me Strategjinë Minerare të Kosovës. Projekt-Plani përcakton objektivat e rekomanduara të KPMM dhe Institutit Gjeologjik dhe planin e zbatimit për një shfrytëzim të përgjithshëm të bashkërenduar dhe të qëndrueshëm të Resurseve Minerale në Kosovë.
+2. Ministria e Energjisë dhe Minierave, në afatin prej tridhjetë (30) ditëve nga data e pranimit, shqyrton, ndryshon nëse e sheh të arsyeshme. miraton dhe shpall Planin për Menaxhimin e Resurseve Minerale. KPMM dhe Instituti Gjeologjik zbatojnë planin e tillë dhe ne rast nevoje, bën rekomandime Ministrisë për Energji dhe Miniera përkitazi me modifikimin apo zbatimin e tij.
