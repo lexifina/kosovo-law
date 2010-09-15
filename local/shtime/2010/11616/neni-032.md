@@ -1,0 +1,3 @@
+# Neni 32
+Mësimdhënësi kujdestar i ditës ka këto detyra dhe përgjegjësi pёr: a. Fillimin dhe mbarimin me kohë i orëve dhe procesit mësimor b. Hyrjen dhe daljen në objektin edukativo-arsimor c. Rënien e ziles në orët e caktuara d. Pёrdorimin e ditarёve nё mёnyrё korrekte nё fillim , gjatё procesit dhe nё pёrfundim tё
+orarit mёsimor. Ata nё fund tё orarit duhet tё jenё nё vendet e tyre të caktuara. e. Marrjen e masave për pastërtinë dhe disiplinën në objektin edukativo-arsimor f. Pranimin e detyrёs nga ndërrimi paraprak me nënshkrim në fletoren e kujdestarisë g. Evidentimin e të gjitha mungesave tё personelit edukativo-arsimor h. Raportimin në drejtori për punën e kujdestarisë

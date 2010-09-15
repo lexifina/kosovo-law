@@ -1,0 +1,2 @@
+# Neni 17
+Veshja e personelit edukativo-arsimor nuk duhet tё jetё provokative, por nё pёrputhje me normat pedagogjiko-arsimore tё sistemit arsimor tё Republikёs sё Kosovёs. Personeli, gjatë procesit mësimor, ka për detyrë të mbajë uniformën e shkollës, të realizojë planprogramin e procesit edukativo-arsimor, të respektojë disiplinën e orarit të mësimit, duke kërkuar me korrektësi këtë edhe prej nxënësve.

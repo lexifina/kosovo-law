@@ -1,0 +1,2 @@
+# Neni 46
+E drejta që, në rast nevoje dhe me arsye, të kërkojë leje për largim të përkohshëm nga ora e mësimit apo të mungojë ndonjё ditё nga mësimi në bazë të kërkesës së arsyeshme të prindit, (nëse është në dobi të nxënësit), drejtori i shkollës mund t’i japë leje nxënësit deri dy javë mungesë nga shkolla, kurse kujdestari i klasës mund t’i japë leje deri tri ditë mungesë nga shkolla, pa arritur kërkesa deri te drejtori i shkollës.

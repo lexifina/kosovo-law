@@ -1,0 +1,2 @@
+# Neni 60
+Tё hyjë në mësonjëtore në mënyrë të kulturuar, së paku 5 minuta para fillimit të mësimit, t’i arsyetojë me kohë dhe me argumente mungesat nga orët e mësimit, apo nga aktivitetet e lira të nxënësve. Nxёnёsit, i cili bёn 32 mungesa tё paarsyeshme, i shqiptohet masa edukativo- disiplinore sipas nenit 66.4 tё kёsaj rregulloreje, por , nёse bёn mё tepёr se 32 mungesa tё paarsyeshme, i shqiptohet masa edukativo- disiplinore sipas nenit 6 tё UA tё MASHT- it (7/2009).

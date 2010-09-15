@@ -1,0 +1,2 @@
+# Neni 65
+Personeli teknik ka pёr detyrё tё identifikojё, tё evidentojё, tё llogaritё dhe planifikojё nё afate periodike, tё caktuara nga drejtori, shpenzimet qё krijohen me amortizimin ose harxhimin e mjeteve tё punёs. Ai ka pёr detyrё mirёmbajtjen e objekteve kujdesin pёr shpenzimet e lёndёve djegёse, ruajtjen e pajisjeve pёr mbajtje tё higjienёs dhe, sipas nevojёs, t’ia prezentojё drejtorit planifikimin e pёrgjithshёm tё shpenzimeve tё institucionit edukativo-arsimor.

@@ -1,0 +1,2 @@
+# Neni 66
+Mirёmbajtёsi i nxemjes qendrore (fokisti), pёr shkak tё punёs sё tij specifike sezonale, ёshtё i obliguar qё, pёrveç punёve tё tij tё furnizimit, ndezjes dhe mirёmbajtjes sё sistemit tё nxemjes tё objektit gjatё sezonit dimёror, tё gjendet nё vend tё punёs gjatё gjithё vitit kalendarik, tё jetё i rregullt nё punё, tё kryejё detyrat dhe pёrgjegjёsitё e tij tё punёs, tё parapara me kёtё rregullore me kontratën e punës, si dhe punët që i janë dhënë sipas urdhërit të Drejtorit.

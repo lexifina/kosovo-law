@@ -1,0 +1,2 @@
+# Neni 24
+Për një punё efektive dhe të gjithanshme me nxënësit, mësimdhënësi duhet të punojë në mënyrë aktive me të gjithë prindërit e nxënësve, në takimet e caktuara periodike (mujore). Mësimdhënësi kujdestar me fletëthirrje thërret prindërit në takime, që duhet të organizohen dhe planifikohen mirë, duke këmbyer mendime dhe përvoja për nxënësit. Mësimdhënësi kujdestar me prindërit mban edhe komunikim përmes nxënësit, me telefon, me E-mail, me shkresa etj.
