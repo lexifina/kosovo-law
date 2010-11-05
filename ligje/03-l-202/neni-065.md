@@ -1,0 +1,3 @@
+# Neni 65
+Karakteri i detyrueshëm i aktgjykimit
+Kur gjykata e anulon aktin, kundër të cilit ka filluar konflikti administrativ, lënda kthehet në gjendjen në të cilin ishte para se të ishte nxjerrë akti i anuluar. Nëse sipas karakterit të çështjes, që ka qenë objekt i konfliktit, duhet që, në vend të aktit të anuluar administrativ, të nxirret një tjetër, organi kompetent ka për detyrë ta nxjerrë pa shtyrje, jo më vonë se brenda tridhjetë (30) ditësh nga data e dërgimit të aktgjykimit. Organi kompetent, në këtë rast, është i obliguar nga pikëpamja juridike e gjykatës, si dhe nga vërejtjet e gjykatës lidhur me procedurën.

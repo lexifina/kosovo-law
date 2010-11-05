@@ -1,0 +1,3 @@
+# Article 32
+Preliminary Question
+1. When the decision of the court in administrative conflict depends on legal matter which contains the legal self-governing and upon which the other court of the other body has not decided (the preliminary question), the court that develops the administrative conflict, may decide on that matter, unless otherwise provided for by the law; or may terminate the procedure until issuing the decision on preliminary question, by the competent body. The court’s decision on preliminary question has legal effect only in administrative conflict, in which that matter was solved.

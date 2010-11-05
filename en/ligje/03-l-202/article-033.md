@@ -1,0 +1,3 @@
+# Article 33
+1. In case the indictment is not complete, unclear or has inaccuracies, the president of the jury shall invite the claimant that within (eight) 8 days to eliminate the inaccuracies of the indictment. The instructions for eliminating the inaccuracies of the indictment and the admonition on the casualties in case the claimant fails to act according to the request of the court shall be noted in the instructions.
+2. In case the claimant fails to eliminate the inaccuracies of the indictment within the determined timeline, where such inaccuracies make the proceeding impossible, the court shall through a decision disallow the indictment, if it does not conclude that the contested administrative act is invalid.

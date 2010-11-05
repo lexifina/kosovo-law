@@ -1,0 +1,3 @@
+# Neni 33
+1. Nëse padia nuk është e plotë, është e pakuptueshme ose ka të meta, kryetari i kolegjit do të ftojë paditësin, që brenda afatit prej tetë (8) ditëve t’i mënjanojë të metat e padisë. Në ftesë duhet të ceken udhëzimet për të mënjanuar të metat e padisë dhe paralajmërimi për pasojat që do të lindin nëse nuk vepron sipas kërkesës së gjykatës.
+2. Nëse paditësi, brenda afatit të cekur, nuk i mënjanon të metat e padisë, kurse ato janë të atilla që e pamundësojnë zhvillimin e procedurës, gjykata do ta hedhë poshtë me vendim padinë, nëse nuk konstaton se akti administrativ i kontestuar është i pavlefshëm.

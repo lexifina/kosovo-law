@@ -1,0 +1,6 @@
+# Neni 10
+1. Të drejtë për të nisur konfliktin administrativ ka personi fizik si dhe personi juridik, nëse vlerëson se me aktin administrativ përfundimtar në procedurën administrative, i është shkelur ndonjë e drejt apo interes ligjor.
+2. Organi i administratës, Avokati i Popullit, shoqatat dhe organizatat e tjera, të cilat veprojnë në mbrojtje të interesave publike mund të fillojnë konfliktin administrativ.
+3. Organi ka të drejtë të iniciojë konfliktin administrativ, kundër vendimit, që është marrë në bazë të ankesës në procedurën administrative, nëse ai/ajo konsideron se është shkelur ndonjë e drejtë ose interes i tij.
+4. Nëse me aktin administrativ është shkelur ligji në favor të personit fizik, personit juridik, konfliktin mund ta iniciojë prokurori publik kompetent ose organi tjetër i autorizuar me ligj. Organet e administratës kanë për detyrë që, kur të kenë mësuar për to, të njoftojnë prokurorin publik kompetent ose organin e autorizuar me ligj.
+5. Konfliktin administrativ mund ta iniciojë edhe prokurori publik kompetent ose personi i autorizuar nëse me aktin administrativ është shkelur ligji në dëm të organeve të qeverisjes qendrore dhe të organeve të tjera në varësi të tyre, të organeve të vetëqeverisjes lokale dhe të organeve në varësi të tyre, kur janë shkelur të drejtat pronësore të këtyre organeve.

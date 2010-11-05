@@ -1,0 +1,3 @@
+# Neni 28
+1. Padia i dorëzohet gjykatës drejtpërsëdrejti ose i dërgohet me postë rekomandë. Padia mund të bëhet edhe në proces verbal në gjykatë. Dita e paraqitjes së padisë në postë rekomande, respektivisht dita e deklarimit të padisë në procesverbal, konsiderohet si ditë kur i është dorëzuar gjykatës.
+2. Nëse padia nuk i është dorëzuar gjykatës, por organit tjetër jo kompetent, ndërsa i arrin gjykatës pas skadimit të afatit për paraqitjen e padisë, do të konsiderohet se është paraqitur me kohë, nëse paraqitja e saj në këtë organ ka qenë si pasojë e mos dijës apo e gabimit të hapur të paraqitësit.

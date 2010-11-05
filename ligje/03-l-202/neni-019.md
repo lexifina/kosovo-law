@@ -1,0 +1,3 @@
+# Neni 19
+1. Kur personit fizik, që është anëtar i ndonjë organizate joqeveritare, e cila sipas rregullave të veta ka për detyrë të mbrojë të drejtat dhe interesat të caktuara të anëtarëve të vet, me akt administrativ i është shkelur ndonjë e drejtë apo interes i tillë, kjo organizatë mundet, me pëlqimin e anëtarit të vet, në emër të tij, të paraqesë padinë dhe të zhvillojë konfliktin administrativ kundër aktit administrativ.
+2. Organizata nga paragrafi 1. i këtij neni mundet, në çdo fazë të procedurës, me të drejtat e palës së interesuar, të hyjë në konfliktin e filluar, në favor të anëtarit të saj dhe të ndërmarrë të gjitha veprimet e të përdorë të gjitha mjetet juridike, nëse kjo nuk është në kundërshtim me deklaratat dhe veprimet e palës.

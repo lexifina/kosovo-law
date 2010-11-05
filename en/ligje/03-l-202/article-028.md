@@ -1,0 +1,3 @@
+# Article 28
+1. The indictment shall be delivered directly to the court or by recorded mail. The indictment can be also done by the hearing process in the court. The day of submitting the indictment by recorded mail, respectively the day of declaring the indictment in the report, shall be considered as the day when it was delivered to the court.
+2. If the indictment has not been delivered to the court, but to the other non competent body, and arrives to the court after the deadline for submitting the indictment, shall be considered that it has been submitted on time, if its submission to this body was a consequence of not knowing or an open mistake of the submitter.
