@@ -1,0 +1,7 @@
+# Article 29
+Transboundary impacts
+1. If during the review of an EIA Report, it is determined that the proposed project is likely to cause significant transboundary environmental impacts then the Ministry shall inform the affected country or countries about the arrangements for public information determined pursuant to paragraph 3 Article 28 of this law.
+2. A country or countries that may be affected may give their opinion and comments on the project and may be represented at any public debate concerning the project.
+3. The comments of the affected country or countries must be taken into account when the decision of Environmental Consent is taken. If necessary to ensure the effectiveness of this consultation, the normal time limits laid down in this Law for administering the relevant procedures of EIA may be extended for a particular case by the Ministry in negotiation with the affected country or countries concerned.
+4. The Ministry inform the environmental authorities and the public concerned in the Republic of Kosovo of the information obtained from affected countries on the transboundary effects of a proposed project in accordance with the procedures determined in paragraph 4 Article 20 and paragraph 3 Article 28 of this Law.
+5. In interpreting and applying this Article, the relevant authorities shall endeavour to give effect to the principles enshrined under the ESPOO Convention (1991).
