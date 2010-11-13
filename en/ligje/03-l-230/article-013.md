@@ -1,0 +1,8 @@
+# Article 13
+Decision for the Consent to SEA reports
+1. Based on its assessment in accordance with Article 13 of this Law, the responsible body of the Ministry or, as the case may be, the Commission shall prepare a draft decision which it shall present in writing to the Minister.
+2. Within fifteen (15) days of receipt of the proposal-decision from the responsible body of Ministry or the Commission, the Minister shall decide to grant or refuse Consent for the SEA report and convey this decision to the responsible authority the Government and the Assembly of Republic of Kosovo, in written form.
+3. When the proposal-decision is to refuse consent, the Minister may decline to follow or may amend the responsible authority’s draft decision, only for imperative reasons of overriding public interest, including reasons of an economic, social or environmental nature. In this case, his decision must be sent to the Government and to the Assembly in accordance with the following paragraphs for confirmation.
+3.1. the Minister notify in written form the Assembly of the decision that is taken to decline or amend the draft decision. The Minister's notification shall contain the justification for his proposed decision;
+3.2. the Government and the Assembly shall review, approve, refuse or amend Minister's decision to decline or amend the draft decision within thirty (30) days from the day the draft decision was submitted;
+3.3. if the Assembly does not act within thirty (30) days from the day of notification on Minister's decision, based in paragraph 3, sub-paragraph 2 of this Article, the Assembly shall be considered to have approved the Minister's decision on the draft decision.

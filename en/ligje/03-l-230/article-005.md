@@ -1,0 +1,11 @@
+# Article 5
+Determination of need for SEA
+1. The responsible authority shall determine, in a case-by-case examination, in accordance with the criteria in Annex I, whether the plans or programmes referred to in Article 3 paragraph 3 and 4 of this law that are likely to have significant environmental effects and therefore to require SEA.
+2. Before making a determination under paragraph 1 of this Article, the responsible authority shall consult the consultation bodies.
+3. Where the responsible authority determines that the plan, programme or modification is unlikely to have significant environmental effects (and therefore does not require a SEA), it shall prepare a statement in writing of its reasons for the determination including the criteria from paragraph 1 of this Article.
+4. The Minister may at any time require the responsible authority to send him a copy of: any determination made under paragraph 1 of this Article; the plan, programme or modification to which the determination relates; and any statement prepared in accordance with paragraph 3 of this Article.
+5. The responsible authority shall comply with a requirement under paragraph 4 of this Article within seven (7) days.
+6. The Minister may direct that a plan, programme or modification is likely to have significant environmental effects whether or not a copy of it has been sent to him in response to a requirement under paragraph 1 of this Article and when he has been sent such a copy would respond within ten (10) days of receiving it.
+7. Before giving a direction under paragraph 6 of this Article, the Minister shall take into account the criteria specified in Annex I to this law; and will take an opinion by consultative bodies.
+8. The Minister shall, after giving the direction, send to the responsible authority and to each consultation body a copy of the direction and a statement of his reasons for giving the direction.
+9. When the Minister has given a Direction in respect of a plan, programme or modification, any determination under Article 5 paragraph 1 relating to the plan, programme or modification shall cease to have effect; and if no determination has been made under Article 5 paragraph 1, with respect to the plan, programme or modification, then the responsible authority shall cease to be under any charges imposed by that Article.

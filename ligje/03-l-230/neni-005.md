@@ -1,0 +1,11 @@
+# Neni 5
+Përcaktimi i nevojës për VSM
+1. Autoriteti përgjegjës duhet që të përcaktoj nga hulumtimi i secilit rast veç e veç, mbështetur në kriteret e Shtojcës 1, për planet ose programet referuar në nenin 3, paragrafi 3. dhe 4. i këtij ligji, se a kanë ndikim të theksuar në mjedis në mënyrë që ti nënshtrohen VSM.
+2. Para përcaktimit të bërë në paragrafin 1. të këtij neni, autoritet përgjegjësi do të konsultohet me trupat konsultativ.
+3. Në rastet kur autoriteti përgjegjës përcakton që plani, programi ose modifikimi nuk ka gjasë të ketë efekte të theksuara në mjedis (kështu që nuk kërkon një VSM), ai do të përgatis një deklaratë me shkrim për arsyetimin e përcaktimit të bërë, duke përfshirë kriteret nga paragrafi 1. i këtij neni.
+4. Ministri mund të kërkojë në çfarëdo kohe nga autoriteti përgjegjës ti dërgojë atij një kopje të përcaktimit të bërë nga paragrafi 1. i këtij neni; planin, programin ose modifikimin me të cilin ka të bëj përcaktimi; dhe çfarëdo deklarate që është përgatitur në pajtueshmëri me paragrafin 3. të këtij neni.
+5. Autoriteti përgjegjës duhet që brenda shtatë (7) ditëve të zbatoj kërkesat e parashtruara në paragrafin 4. të këtij neni.
+6. Ministri, mund të udhëzoj që plani, programi ose modifikimi mund të ketë efekte të theksuar në mjedis, pavarësisht se a i është dërguar atij një kopje apo jo si përgjigje ndaj kërkesës së paragrafit 1. të këtij neni dhe nëse i është dërguar një kopje e tillë, ai i përgjigjet brenda dhjetë (10) ditësh .
+7. Para dhënies së ndonjë udhëzimi, në paragrafin 6. të këtij neni, Ministri do të merr parasysh kriteret e specifikuara në Shtojcën I të këtij ligji dhe merr mendimin e trupit konsultativ.
+8. Pas dhënies së udhëzimeve, Ministri do t’i dërgojë autoritetit përgjegjës dhe secilit trup konsultativ një kopje të udhëzimit së bashku me një deklaratë të arsyeve të tij për dhënien e udhëzimit.
+9. Kur Ministri të ketë dhënë Udhëzimin për një plan, program ose modifikim, të gjitha përkufizimet e nenit 5 paragrafi 1. të planit, programit ose modifikimit pushon të vlejë; dhe në qoftë se nuk është bërë ndonjë përcaktim sipas nenit 5 paragrafi 1. në lidhje me planin, programin ose modifikimin, atëherë autoritet përgjegjës pushon së funksionuari nga detyra që ngarkohet nga ai nen.

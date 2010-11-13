@@ -1,0 +1,8 @@
+## KREU II
+## VLERËSIMI STRATEGJIK MJEDISOR PËR PLANET DHE PROGRAMET
+# Neni 3
+Fushëveprimi
+1. VSM për planet dhe programet bëhet atëherë kur ekziston mundësia që realizimi i tyre të shkaktojë dëme të konsiderueshme në mjedis.
+2. Hartimi i raportit për VSM është i detyrueshëm për planet dhe programet nga fusha e planifikimit hapësinor dhe urbanistik, në shfrytëzimin e tokës, bujqësisë, pylltarisë, peshkatarisë, energjetikës, industrisë, minierave, komunikacionit, menaxhimin e mbeturinave, menaxhimin e ujërave, telekomunikacionit, turizmit, të cilat japin kornizën për zhvillimin e ardhshëm të projekteve të cilat i nënshtrohen vlerësimit të ndikimit në mjedis në përputhje me Ligjin për Vlerësimin e Ndikimit në Mjedis si dhe për planet dhe programet të cilat, duke marrë parasysh lokacionin në të cilin realizohen, mund të ndikojnë në zonat e mbrojtura, në habitatet natyrore dhe në florën e faunën e egër.
+3. Për planet dhe programet nga paragrafi 1. i këtij neni, me të cilat parashihet edhe shfrytëzimi i sipërfaqeve të vogla në nivel lokal ose në rastet e modifikimeve të vogla të planeve ose programeve, të cilat nuk kërkojnë procedurë të rregullt për miratim si dhe për planet ose programet të cilat nuk janë të cekura në paragrafin 2. të këtij neni, vendimin për VSM e merr autoriteti përgjegjës i planit ose programit, nëse sipas kritereve të përcaktuara në këtë ligj, vërteton se ekziston mundësia e ndikimit të theksuar në mjedis.
+4. VSM nuk bëhet për planet dhe programet të cilat i dedikohen mbrojtjes së vendit, evitimit të pasojave nga katastrofat natyrore dhe për planet financiare dhe buxhetore.
