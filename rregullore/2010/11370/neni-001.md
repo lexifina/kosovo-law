@@ -1,0 +1,4 @@
+# Neni 1
+1.1 Rregullorja e Komisionit (KE) Nr. 1330/2007 e datës 24 shator 2007 që përcakton rregullat implementuese për shpërndarje palëve të interesuara të informatave për ndodhitë në aviacionin civil të referuara në Nenin 7(2) të Direktivës 2003/42/EC të Parlamentit dhe të Këshillit Europian, e referuar më tej si Rregullorja e Komisionit, me këtë deklarohet e aplikueshme në Republikën e Kosovës. Rregullorja e Komisionit (KE) Nr. 1330/2007 i është bashkangjitur si aneks kësaj Rregulloreje dhe është pjesë përbërëse e saj.
+1.2 Dispozitat e neneve 1 deri 10, Anekset I dhe II të Rregullores së referuar të Komisionit janë të zbatueshme në Republikën e Kosovës.
+1.3 Çdo dispozitë e amendamenteve të Rregullores së Komisionit, të përfshira në Shtojcën I të Marrëveshjes për HPEA, do të jenë drejtpërdrejt të aplikueshme në Republikën e Kosovës.
