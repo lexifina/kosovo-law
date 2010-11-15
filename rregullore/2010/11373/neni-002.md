@@ -1,0 +1,5 @@
+# Neni 2
+2.1 Përkufizimet e termave dhe shprehjet e përdorura në këtë Rregullore janë ato të përfshira në Nenin 2 të Rregullores së Komisionit.
+2.2 Pavarësisht nga paragrafi 1, termet "Komuniteti", "ligji i Komunitetit", "legjislacioni i Komunitetit", "instrumentet e Komunitetit", "Traktati i KE", "aeroport i Komunitetit", "Gazeta Zyrtare e Komuniteteve Europiane", "Gazeta Zyrtare e Bashkimit Evropian", "transportues ajror i Komunitetit" dhe "Shtet(e) Anëtar(e)", nëse referohen në Rregulloren e Komisionit, duhet të lexohen në përputhje me Pikat 2 dhe 3 të Shtojcës II të Marrëveshjes për HPEA.
+2.3 Për qëllim të kësaj Rregulloreje "autoritete kombëtare të aviacionit", siç referohet në Rregulloren e Komisionit, në lidhje me Republikën e Kosovës nënkupton Autoritetin e Aviacionit Civil të Republikës së Kosovës.
+2.4 Për qëllim të kësaj Rregulloreje "personel i autorizuar i Shteteve Anëtare", siç referohet në Rregulloren e Komisionit, në lidhje me Republikën e Kosovës do të thotë personat e autorizuar zyrtarisht nga Autoriteti i Aviacionit Civil të Republikës së Kosovës për të ndihmuar Agjencinë në kryerjen e inspektimeve.
