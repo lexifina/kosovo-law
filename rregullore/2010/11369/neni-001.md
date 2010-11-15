@@ -1,0 +1,4 @@
+# Neni 1
+1.1 Rregullorja e Komisionit (EC) Nr. 1321/2007, datë 12 nëntor 2007, që përcakton rregullat implementuese për integrim në bazën qendrore të informatave për ndodhitë në aviacionin civil të shkëmbyera në përputhje me Direktivën 2003/42/EC të Parlamentit dhe Këshillit Europian, e referuar më tej si Rregullorja e Komisionit, me këtë deklarohet e aplikueshme në Republikën e Kosovës. Rregullorja e Komisionit (EC) Nr. 1321/2007 i është bashkangjitur si aneks kësaj Rregulloreje dhe formon pjesën e saj përbërëse.
+1.2 Dispozitat e neneve 1 deri 4, të Rregullores së referuar të Komisionit janë të zbatueshme në Republikën e Kosovës.
+1.3 Çdo dispozitë e amendamenteve të Rregullores së Komisionit, të përshira në Shtojcën I të Marrëveshjes për HPEA, do të jenë drejtpërdrejtë të aplikueshme në Republikën e Kosovës.

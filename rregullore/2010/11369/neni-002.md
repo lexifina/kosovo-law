@@ -1,0 +1,2 @@
+# Neni 2
+2.1 Përkufizimet e termave “Komuniteti”, “Ligji i Komunitetit”, “Legjislacioni i Komunitetit”, “instrumentet e Komunitetit”, “Traktati i KE”, “aeroport i Komunitetit”, “Gazeta Zyrtare e Komuniteteve Evropiane”, “Gazeta Zyrtare e Bashkimit Evropian”, “transportues ajror i Komunitetit” dhe “Shtet(e) Anëtar(e)”, nëse referohen në Rregulloren e Komisionit, duhet të lexohen në përputhje me Pikat 2 dhe 3 të Aneksit II të Marrëveshjes për HPEA.
