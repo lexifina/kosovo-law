@@ -1,0 +1,5 @@
+# Article 8
+1. Article 111 of the law in force paragraph 4. is reworded as following:
+111.4. All votes received by the candidates appearing on the open list of each Political Entity shall be counted separately. The candidate lists shall then be reordered in descending order based on the number of votes received by each candidate.
+2. Article 111 of the law in force paragraph 6. is reworded as following:
+111.6. If, after the allocation of seats to candidates on the list of a Political Entity, as set out in paragraph 5 of this Article, the candidates of the minority gender have not been allocated at least 30% of the total seats allocated to that Political Entity, the last elected candidate of the majority gender will be replaced by the next candidate of the minority gender on the reordered candidate list until the total number of seats allocated to the minority gender is at least 30%. This paragraph does not apply to allocation of seats from a list consisting of one (1) or two (2) candidates.
