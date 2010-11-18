@@ -1,0 +1,14 @@
+# Article 30
+Conformity assessment Procedures and labeling of medical devices
+1. Conformity assessment procedure is a procedure based on which it is directly or indirectly assessed whether medical devices fulfill the requirements referred to in Article 29 of this Law.
+2. A medical device's conformity with prescribed conditions shall be established by a Declaration of Conformity.
+3. The procedure for assessing the conformity of medical devices with prescribed essential requirements shall depend on the classification of devices in view of the risk for their users, namely:
+3.1. for medical devices of class I the manufacturers themselves shall establish conformity with prescribed essential requirements and draw up a conformity declaration on their own responsibility, the exceptions being measuring mechanisms and sterile products of class I, treated as if belonging to class II or III;
+3.2. The conformity of medical devices of classes IIa, IIb and III with the prescribed essential requirements shall be established and the quality assurance system supervised by CAMPMD of conformity for performing this activity by the KMA.
+4. Ministry of Health shall, through a supplementary sublegal act of this Law, will determine in details the conditions to be fulfilled, the appointment procedure by KCAMP for conformity assessment, conformity assessment procedures in accordance with the prescribed essential requirements, discharge and scope of reference.
+5. The Declaration of Conformity and the conformity marking of medical devices, issued abroad, shall be valid in Kosovo, if issued in compliance with harmonized standards on medical devices recognized by Kosovo.
+6. Notwithstanding the provisions of the paragraph above, the KMA shall acknowledge the validity of a Declaration of Conformity and the conformity markings of medical devices which were issued abroad, on condition that they demonstrate conformity with technical specifications, which are considered equivalent to the requirements regarding medical devices laid down by this Law and its pursuant sub-legal acts, and on condition that the qualification of the bodies involved in conformity assessment procedures of medical devices was established with equivalent procedure and assessed against the requirements as prescribed for such bodies by this Law and its pursuant sub-legal act.
+7. Based on the Declaration of Conformity, the manufacturer must label its products with the prescribed conformity marking.
+8. Ministry of Health shall prescribe the contents of the Declaration of Conformity and conformity marking requirements in sublegal act pursuant to this Law.
+9. Notwithstanding the provisions of the previous paragraph of this article, medical devices intended for investigation and for individual use are not subject to registration procedures in accordance with this Law.
+10. It is prohibited to mark a medical device with a marking contrary to the provisions of this Law.

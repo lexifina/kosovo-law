@@ -1,0 +1,10 @@
+# Neni 13
+Prodhimi i produkteve medicinale
+1. Autorizimi për prodhimin e produkteve medicinale me qëllim të tregtimit të tyre në Kosovë jepet për produktet medicinale qoftë të përgatitura në mënyrë industriale apo të prodhuara me metoda që përfshijnë procesin industrial.
+2. Poseduesi i Autorizimit për Prodhim të produkteve medicinale në Kosovë, është i detyruar të sigurojë kushte prodhimi që dëshmojnë arritjen e standardeve ndërkombëtare aktuale të Praktikës së Mirë të Prodhimit (më tutje PMP) të cilat do të percaktohen me akt nënligjor.
+3. Poseduesi i Autorizimit për Prodhim në Kosovë angazhohet në prodhimin e produkteve medicinale, forma farmaceutike të percaktuara apo pjesë të procesit të prodhimit, apo shërbime të prodhuesve të tjerë, në pajtim me dispozitat e përshkruara në Autorizimin për Prodhim.
+4. Poseduesi i Autorizimit për Prodhim në Kosovë duhet të punësoj së paku një person të kualifikuar për të siguruar cilësinë e prodhimit dhe një person të kualifikuar për siguri të kualitetit të produkteve medicinale, punëtorë të kualifikuar, objekte dhe pajisje për të prodhuar produkte medicinale në pajtim me kushtet e PMP aktuale, PML dhe PMD.
+5. Poseduesi i Autorizimit për Prodhim në Kosovë do të mbajë të dhënat e Procedurave Standarde të Operimit sipas PMP, PML dhe PMD dhe këto të dhëna do të inspektohen nga IFPPM në çdo kohë.
+6. Autorizimi për Prodhim të produktit medicinal i dhënë në Kosovë është i vlefshëm për kohë pesë (5) vjeçare, me kusht të pagesës vjetore të tarifës së licencës përveç nëse është suspenduar apo pezulluar.
+7. Autorizimi për Prodhim i dhënë në Kosovë, mund të korrigjohet, qoftë me kërkesë të prodhuesit, ose të AKPM-së, me qëllim të harmonizimit me standardet e PMP - së, dhe deri në atë masë që korrigjimet e tilla të mos i tejkalojnë dispozitat e këtij ligji ose aktet nënligjore të nxjerra në pajtim me këtë ligj.
+8. Për çdo propozim ndryshim në kushtet e Autorizimit për Prodhim, duhet njoftuar AKPM-ja, dhe korrigjimi i Autorizimit për Prodhim në bazë të propozim ndryshimeve nga poseduesi i autorizimit, nuk mund të jenë në kundërshtim me dispozitat e këtij ligji dhe aktet nënligjore të tij.
