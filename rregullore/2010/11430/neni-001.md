@@ -1,0 +1,3 @@
+# Neni 1
+1.1 Kjo Rregullore përcakton termat dhe kushtet të cilat duhet të përmbushën nga Ofruesit e Shërbimeve të Navigacionit Ajror (OSHNA) që punojnë dhe janë të regjistruar në Republikën e Kosovës dhe metodat e lëshimit të certifikatave të aftësive dhe privilegjeve të Autoritetit të Aviacionit Civil të Republikës të Kosovës, që vepron si Autoritet Mbikqyrës Kombëtar (AMK), në procesin e certifikimit dhe mbikqyrjes së vazhdueshme të Ofruesve të SHNA.
+1.2 Kërkesat e shkruara në këtë Rregullore nuk janë relevante për ofruesit e shërbimeve të navigacionit ajror ushtarak në lidhje me operacionet ushtarake dhe ushtrimeve ushtarake.
