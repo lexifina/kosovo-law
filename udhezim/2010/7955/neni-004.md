@@ -1,0 +1,3 @@
+# Neni 4
+Të ardhurat e Tjera
+"Të ardhurat e Tjera" të përmendura në nën-paragrafin 2,3 të nenit 7 të Ligjit përfshijnë të gjitha të ardhurat e tjera që nuk janë cituar në mënyrë specifike në nenin 7 të Ligjit, dhe që përfshijnë shpërblime jo- kesh në lotari p.sh. makinat, faljet e borxhit etj, të cilat e rrisin vlerën neto të tatimpaguesve. Këto të ardhura duhet që të përfshihen në të ardhurat bruto të periudhës tatimore në të cilën janë marrë. Në rastin e shpërblimeve jo- kesh të shpërblimeve të lotarive, tatimpaguesi duhet të vlerësojë mallrat e pranuara në bazë të vlerës së hapur të tregut të këtyre mallrave.

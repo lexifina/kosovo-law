@@ -1,0 +1,4 @@
+# Neni 25
+Deklaratat Tatimore dhe Pagesat
+1. Në pajtim me Nenin 48 të Ligjit ,deklaratat e tatimit në të ardhura personale dhe nëse është e aplikueshme pagesat tatimore të lidhura me to, duhet të dorëzohen në ATK më apo para ditës së 31 të marsit të vitit që pason periudhën tatimore. Këto deklarata mund të dorëzohen në ATK nëpërmjet një banke ose institucion financiar të autorizuar. Deklarata Tatimore do të konsiderohet si një vlerësim i bërë nga vetë tatimpaguesit.
+2. Kur data e afatit të deklarimit dhe pagesës për çdo deklaratë tatimore ose pasqyrë të informatave është e shtunë, E diele apo Festë Kombëtare,këta formularë mund të dërgohen, pa ndëshkim për paraqitjen me vonesë ose pagesën me vonesë (duke përfshirë interesin), më së voni në ditën e parë të punës pas së shtunës, së dielës apo Festës Kombëtare.

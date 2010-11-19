@@ -1,0 +1,16 @@
+# Neni 17
+Riparimet dhe Përmirësimet
+1. Neni 23 i Ligjit merret me riparimet dhe përmirësimet. Termi 'Riparime ose Përmirësime' nënkupton punën që është bërë për të rritur ndjeshëm kapacitetin, jetën, kushtet dhe produktivitetin e asetit. Në rastin e një ndërtese, mbulimi, hidraulika, lyerja dhe punë të tjera të ngjashme,me përjashtim të ngjyrosjes, konsiderohen riparime dhe përmirësime. Në rastin e një kamioni, ndërrimi i gomave nuk është përmirësim, por zëvendësimi i motorit ekzistues me një të ri, është riparim dhe përmirësim.
+2. Paragrafi 1 i nenit 23 të Ligjit parasheh që shumat e shpenzuara për riparime ose përmirësimet të një aseti kapitalizohen dhe i shtohen bazës së shpenzimeve të zhvlerësueshme të asetit nëse riparimet ose përmirësimet e tejkalojnë jetën e përdorimit të asetit për së paku një vit, dhe shuma e riparimit apo përmirësimi është më e madhe se 1.000 €. Në ato situata kur riparimet ose përmirësimet e zgjasin përdorimin e asetit për një vit ose më shumë, dhe shuma e shpenzuar për riparime ose përmirësimet është më e madhe se 1.000 €, shuma e plotë e shpenzuar është e nevojshme për tu kapitalizuar (1.000 € prej kësaj shume nuk lejohet që të kërkohet si shpenzim). Në anën tjetër, në ato situata kur riparimet ose përmirësimet nuk e zgjasin jetën e përdorimit të asetit, ose e zgjasin atë për më pak se një vit, shumat e përfshira mund të kërkohen si shpenzim i plotë edhe kur shumat kalojnë 1.000 €.
+3. Paragrafi 2 i nenit 23 të Ligjit parashikon rregullat për llogaritjen e zhvlerësimit, ku shumat e shpenzuara për riparime ose përmirësimet të një aseti kapitalizohen.
+3.1 Për riparimet e bëra për kategorinë 1 të aseteve kurdo që të jenë blerë, dhe për riparimet e bëra për kategorinë 2 dhe 3 të aseteve të blera më ose pas hyrjes në fuqi të këtij Ligji, shumat e kapitalizuara të riparimit i shtohen vlerës së mbetur kontabël të asetit.
+Shembull:
+Supozoni se vlera kontabël fillestare e ndërtesës së tatimpaguesit është 100.000 €. Gjatë vitit tatimor 2010 tatimpaguesi shpenzon 4.000 € në riparimin e kulmit të cilat e zgjasin jetën e përdorimit të ndërtesës për pesë vjet të tjera. Zhvlerësimi për ndërtesën për vitin tatimor 2010 llogaritet si vijon:
+Vlera kontabël fillestare e objektit 100.000 €
+Riparimet dhe përmirësimet e kapitalizuara 4,000
+Vlera kontabël e mbylljes para zhvlerësimit 104,000
+Zhvlerësimi 5% 5,200
+Vlera përfundimtare kontabël e ndërtesës 98,800
+3.2. Për riparimet e bëra në Kategorinë 2 dhe Ketgorinë 3 të aseteve të blera para hyrjes në fuqi të këtij Ligji, shumat e kapitalizuara të riparimeve janë:
+3.2.1. kur shuma e riparimit është ndërmjet 1000 dhe 3000 euro, e shtuar grupit të referuar në paragarfin 10 të nenit 20 të Ligjit si asete të reja të kualifikuara
+3.2.2. kur shuma e riparimit është mbi 3000 euro ,e trajtuar si kategoria e re 2 ose kategoria 3 e aseteve, nëse aplikohet,për të cilat do të lejohet zhvlerësimi si zbritje në pajtueshmëri me paragarfin 4 të nenit 20 të Ligjit.
