@@ -1,0 +1,9 @@
+# Neni 16
+Publikimi i Emrave dhe Numrave të Tatimpaguesve
+1. Në përputhje me Nenin 23 të Ligjit, ATK është e autorizuar të publikojë emrat, numrat fiskal dhe Numrat e Regjistrimit në TVSh, të të gjithë tatimpaguesve që plotësojnë dispozitat e aplikueshme të Neneve 9 , 12 , 13 , 14 dhe 15 të këtij Udhëzimi Administrativ.
+2. ATK do të bëjë publikimin e emrave, numrave fiskal dhe Numrave të Regjistrimit në TVSh të atyre bizneseve në listën në paragrafin 1 të këtij Neni brenda 5 ditëve të punës pasi të jetë marrë vendimi për të ndërmarrë veprimet e specifikuara në Nenin 23 të Ligjit. ATK do të publikojë informatat në ueb faqen e internetit dhe do të lëshoj një njoftim në gazeta ditore në lidhje me listën e publikuar.
+34
+3. Përveç informatave që do të publikohen sipas paragrafit 2 të këtij neni, ATK duhet të përmbajë një deklaratë që ATK nuk do të njeh ndonjë transaksion të shpenzimeve, përfshirë kreditimet e TVSh-së nëse aplikohet, në lidhje me ato biznese të publikuara nga data e publikimit.
+4. Nëse biznesi është rivendosë, ATK do të publikojë informatat e parapara në paragrafin 2 të këtij Neni, duke konfirmuar se biznesi është rivendosur dhe datën efektive nga e cila çdo transaksion për shpenzime, apo kreditim të TVSh-së, do të njihet. Publikimi do të përmbajë informatat e vendosura në faqen e internetit të ATK-së.
+5. ATK do të publikojë të gjithë tatimpaguesit të cilët kanë kthyer Certifikatat e tyre të TVSh-së për shkak se më nuk janë persona të tatueshëm. Informatat që do të publikohen janë ato të parapara në paragrafët 2 dhe 3 të këtij Neni.
+6. Pas publikimit të paraparë në paragrafët 1, 2, 3 dhe 5 të këtij neni, transaksionet me tatimpaguesit e publikuar nuk do të njihen për qëllime të kërkesës për zbritje të shpenzimeve në një deklaratë tatimore të të ardhurave apo kërkesës për kreditim të zbritshëm në një deklaratë të TVSh-së, sipas paragrafit 9 të Nenit 19 të Ligjit dhe paragrafëve 6 dhe 7 të Nenit 23 të këtij Udhëzimi Administrativ.

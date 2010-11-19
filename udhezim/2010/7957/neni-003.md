@@ -1,0 +1,4 @@
+# Neni 3
+Administrata Tatimore e Kosovës (ATK)
+1. Paragrafi 1 i Nenit 2 të Ligjit specifikon se ATK do të ketë status të një Agjencie Ekzekutive dhe po ashtu i atribuon ATK-së ‘autonomi të plotë operacionale” përbrenda MEF. Domethënia e kësaj shprehje është se MEF do të vazhdojë të ketë rol ekskluziv në formulimin e të hyrave të përgjithshme dhe politikave tatimore për shtetin dhe ATK do të vazhdojë të ofrojë të dhënat dhe ndihmën e nevojshme për këtë formulim. Administrimi i tatimeve nga perspektiva operative do të jetë krejtësisht autonome dhe jashtë kontrollit të Ministrit të MEF, apo ndonjë person tjetër jashtë ATK-së, me përjashtime të caktuara të cilat janë të përcaktuara në Ligj, të atilla si:
+1.1 përfshirja në emërimin e Drejtorit të ATK-së; dhe 1.2 miratimi dhe publikimi i shkallëve të interesit për pagesa me vonesë dhe rimbursime të vonuara.
