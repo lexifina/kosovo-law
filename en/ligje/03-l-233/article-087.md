@@ -1,0 +1,3 @@
+# Article 87
+1. At undertaking interventions in nature and use of natural resources impinging upon the habitats of wild specie, the measures, methods and technical means that contribute to the conservation of favourable status of species shall be applied, or that which disturb wild specie or habitats of the populations thereof to the minimum extent, so that interventions in habitats of animal species may be limited during the period coinciding with their vital periods of life.
+2. Preservation of wild specie and their habitats referred to in paragraph 1. of this Article shall constitute an integral part of measures and nature protection requirements referred of Article 124 of this Law.

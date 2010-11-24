@@ -1,0 +1,4 @@
+# Neni 32
+Plehrat dhe pesticidet
+1. Mjetet për mbrojtjen e bimëve dhe plehrat minerale mund të përdoren në bazë të vlerësimit profesional dhe rezultateve të verifikimit të gjendjes së përgjithshme në llojet e mbrojtura, në mënyrë të pranueshme për natyrën në pajtim me legjislacionin ne fuqi.
+2. Në rast të dyshimit të bazuar se me përdorimin e mjeteve për mbrojtjen e bimëve ose plehrave minerale, rrezikohet larmia biologjike ose vlera e natyrës, përkatësisht përdorimi nuk është e pranueshme nga aspekti ekologjik, ministri pas marrjes paraprake të mendimit të organit kompetent për bujqësi e pylltari, përkohësisht me urdhëresë kufizon ose bënë ndalimin e përhershëm të përdorimit të mjeteve për mbrojtjen e bimëve ose plehrave minerale me të cilat rrezikohet larmia biologjike ose vlera e natyrës.

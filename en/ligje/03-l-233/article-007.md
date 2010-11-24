@@ -1,0 +1,66 @@
+# Article 7
+Definitions
+1. The terms used in this Law shall have the following meanings:
+1.1. Natural balance - state of the harmonized relations between living organism’s and their habitat. Break up of natural balance is inflicted when quantitative and qualitative structure of living communions changes, damaging or destroying their habitat, destroy or change action ability of ecosystem, discontinue ecosystem connection and/or is inflicted the considerable isolation between certain populations;
+1.2. Nature degradation – state of nature when human activities have changed natural processes in such a degree that the natural balance i disturbed, or nature values are destroyed;
+1.3. Derivate – organic or inorganic product of alive organisms;
+1.4. Ecosystem – spatial more or less limited dynamic complex of bio-cenosis and non living environment that interact as functional entirety;
+1.5. Fossil – remaining form animal and plant origin or traces of former life forms;
+1.6. Introduction – purposed or un-purposed spreading of species and sub - species in the ecosystem to an area in which they never lived before;
+1.7. Public interest – interests which are for the welfare of public;
+1.8. Speleological cadastre” – parts of the data base of speleological objects and aggregate parts of the data base of nature heritage values;
+1.9. Ecological corridor” – ecological component or connection of some components which allow free movement of alive organisms from one site to another and constitute part of the ecological network;
+1.10. Trap” – tool which is used for animal holding or catching, with which one will trip – up animals free movement;
+1.11. Biodiversity – diversity of alive organisms including variety within the species, among the species, as well as the variety of the ecosystems;
+1.12. Genetic diversity” – diversity of genes among the individuals, populations, species and higher taxonomic categories;
+1.13. Landscape diversity - territory with special characteristics of relief, made from ecosystem complex integrated in functionally manner including civilization elements;
+1.14. Wetlands – includes marshland areas, mosses, natural or artificial waters, permanent or temporary waters with flow water and backwater where the depth of the lower flow does not exceed six (6) meters;
+1.15. Species – taxonomic unit, including plants, mushrooms, animals or micro organisms of low taxons or their populations, whereas in the Law have to do with their species and sub species;
+1.16. Wild species – species and sub - species of the plants, mushrooms or animal, which was not generated under human influence as a result of artificial selection - selection or breeding with aim of race profit of the domestic animals and cultivated plants - or genetic modification of heritable material by modern biotechnology techniques;
+1.17. Local modified species - species in which ones evolution process are influenced by the human activities with purpose of food production;
+1.18. Autochthonous specie – local species which naturally occurs in the certain ecosystem of one area;
+1.19. Endemic species” – species or sub species whose distribution is limited in certain area;
+1.20. Alohton specie – extraneous or exotic species, population and distribution of which didn’t exist before in the certain ecosystem of one area, but in that area came with or without intention;
+1.21. Threatened species – species which are in confrontation with high credibility of disappearing in nature conditions within rapidly future;
+1.22. Species of the Community interest – species that exists in Republic of Kosovo territory and are listed or may be listed in Annex II, IV and V of EU Habitats Directive;
+1.23. Priority species – species that are with interest for Community, for which’s the Community have special responsibility of conservation status in view of the proportion of their natural range. These priority species are marked with one asterix (*) in Annex II of the Habitats Directive;
+1.24. Nature protection – every procedure in the system of measures carried out for the purpose of biological and landscape diversity and protection of the natural heritage;
+1.25. Minerals - self-created chemical elements, homogeneous of the structure, form and content. Minerals in the content of this Law are not mining materials;
+1.26 .Minister - minister of the Environment and Spatial Planning;
+1.27. Ministry - Ministry of Environment and Spatial Planning;
+1.28. Institute- Kosovo Institute of Nature Protection
+1.29. Factitious nature – part of the nature which is created by human beings with educative and educational aim, creating landscape elements, or with other purposes which are important for conservation of biological and landscapes diversity - trees typesetting, parks, botanic gardens, arboretums;
+1.30. Nature – the entire biosphere, including components of biological diversity, habitats, geological formations, minerals and fossils, as well as other physical and geographic phenomena on Earth;
+1.31. Intervention in the nature – any plan or project not directly connected with or necessary to the management of the area but likely to have a significant effect to SPA and SAC thereon, either individually or in combination with other plans and projects, shall be subject of appropriate assessment of its implications;
+1.32. Speleological objects - hole/underground space longer than five meters created under nature conditions under impact of factors of un-organic origin and in which ones can entry the human;
+1.33. Administration body – all responsible institutions for nature protection excluding those in municipal level;
+1.34. Competent municipal body - responsible institutions for nature protection in municipal level;
+1.35. Landscape – part of a territory with special characteristics, fromed by a complex of integrated ecosystems in functional manner including the elements of civilization;
+1.36. Nature components – every authentic components of nature: plants, mushrooms, animals, minerals, fossil, rocks, water, air, land, etc;
+1.37. Monitoring of state - monitoring” – planning monitoring of the state of nature respectively components of biological and landscape diversity;
+1.38. Nature rejuvenation - restoration – series of measures by which ones the broken state of biological and landscape diversity will be restored in approximate authentic state;
+1.39. Management plan for protected area – planning document where responsible management authority of protected area, plans measures and activities for nature heritage protection;
+1.40. Economizing plans of nature goods – based on special laws are determined economic bases of management, economize and use of natural goods for economical, social and ecological purposes. This plan and program implies each plan and program which is prepared under subordination and/or approved by local or state level, or which is prepared and issued by executive organ according to legal procedure in the Kosovo Assembly or Government and which one is foreseen by law or sub- legal act, including also plans and programs for amending and fulfilling these plans and programs;
+1.41. Population – a sum unit of same species linked in space and time that can freely crossbreed;
+1.42. Re-intrusion - reintroduction – re-population of one specie in the area where it previously disappeared from, and the ecosystem still has almost the same environmental conditions as before their disappears;
+1.43. Nature conservation – series of adequate measures for maintenance or restoration of nature habitats and population of wild species of flora and fauna within favourable status;
+1.44. Ecological network – system of important ecological area linked between them, which ones by bio-geographic balanced distribution, visibly contribute on conservation of habitats and species and biological diversity, made from important ecology area for Republic of Kosovo, and are included in the System of Important Ecological Areas of EU “NATURA 2000”;
+1.45. Sustainable use – use of biological diversity components within one manner and rhythm, which do not cause long-term decreasing of the biological diversity, maintaining her potential, for fulfilling needs and aspirates of present and forthcoming generations;
+1.46. Cliff – unique form of the relief with hydro-geologic and geo-morphologic specific characteristics;
+1.47. Exfoliations – presents mineral stratifications of the underground spaces with different forms - stalactites, stalagmites, haloclines;
+1.48. Conservation status of species - the sum of influences acting on the species concerned that may affect the long-term distribution and abundance of it’s population within territory of Republic of Kosovo;
+1.49. Conservation status of nature habitats – the sum of operative influences in the nature habitats and their specific types, that may affect long-term natural distribution, structure and function and also long-term survival of their authentic types;
+1.50. Nature goods - nature resources” – every component of nature used by man for economic purposes. Nature goods may be un-renovable - mineral materials and renouvable biological goods, water, renouvable soil;
+1.51. Habitat of a species – environment defined by specific factors biotic and a-biotic, in which species lives in every biological cycle of their life;
+1.52. Natural habitat types of Community interest - those natural habitats which are in Republic of Kosovo and are or may be listed in the Habitat Directive Annex I;
+1.53. Priority natural habitat types – natural habitat types in danger of disappearance, which are present in the territory of the Republic of Kosovo for the conservation have special responsibility upon proportion with naturally decrease level in certain territory. Those types of natural habitats with priority are marked with a star (*) in Annex I;
+1.54. Trading - sales and purchase, possession with commercial aim, public exposure with, use with aim of financial profit, retention with aim of sale, sales offer or transport with aim of trading or renting, or exchanging wild species which are under protection;
+1.55. Resettlement place – expanse dedicated for temporary dwelling, respectively for cure of diseased or injured animals, forsaken lings which ones alone could not survive in the nature, animals taken from their owners because of illegal retention in deportation, illegal trade, exporting, importing and other reasons defined by law;
+1.56. Natural habitat – terrestrial or aquatic areas distinguished by geographic, biotic and a-biotic features, whether entirely natural or semi - natural;
+1.57. Nature protected value - nature value protected by the organ determinate by this Law and registered on the Register of nature protected values and has to do with protection areas: - strict nature reserve, national park, special area, nature park, nature monument, protection landscapes and monument of park architecture -, protected plant species, mushrooms and animals including exemplars of carrion of protected wild species based on this Law and international legal acts, parts of their derivatives and also minerals, fossils, and protected exfoliations;
+1.58. Nature values - nature parts that deserves special protection with aim of landscape and biological diversity conservation, because of their sensibility or because of scientific, cultural, aesthetic, educative, economic, and other public interest;
+1.59. Area – one defined geographical territory, which ones spreading is outlined evidently;
+1.60. Important ecological area - territory which evidently contributes in conservation of biodiversity in the Republic of Kosovo;
+1.61. Special area – special area of protection or special area of conservation;
+1.62. Special Protected Areas– SPAs” – declared area in accordance with EU Directive for wild birds, the most suitable territories in number and size for the conservation of species listed in Annex I and for regularly occurring migratory species;
+1.63. Special Area of Conservation - SAC” – a site of Community importance declared through legal administrative measures, and/or contract act when measures of necessary conservation are implemented for maintaining or restoration in favourable status of nature habitat conservation and/or population of the species for which’s the area is declared.

@@ -1,0 +1,7 @@
+# Neni 172
+1. Personat juridik që menaxhojnë me pyje janë të detyruara t`i harmonizojnë bazat ekonomiko-pyjore me dispozitat e këtij ligji gjatë ndryshimit të tyre ose revizionit të parë.
+2. Bartësit e të drejtës së gjuetisë janë të detyruar t`i harmonizojnë bazat ekonomike të gjuetisë me dispozitat e këtij ligji gjatë ndryshimit të tyre ose revizionit të parë.
+3. Personat juridik të cilët menaxhojnë me ujëra janë të detyruar që planet e menaxhimit t`i harmonizojnë me dispozitat e këtij ligji në afat prej dy (2) vjetësh nga dita e hyrjes në fuqi të këtij ligji.
+4. Personat tjerë juridik dhe fizik të cilët menaxhojnë me të mirat e natyrës janë të detyruar që planet e shfrytëzimit t`i harmonizojnë me dispozitat e këtij ligji në afat prej një (1) viti nga dita e hyrjes në fuqi të këtij ligji.
+5. Personat juridik dhe fizik të cilët kryejnë veprimtari tregtare nga neni 111 i këtij ligji, janë të detyruar të harmonizojnë afarizmin e vet me dispozitat e këtij ligji në afat prej tridhjetë (30) ditësh nga dita e hyrjes në fuqi të këtij ligji.
+6. Drejtoritë ose organet e administratës ose organet kompetente të komunës të cilat kujdesen për vlerat e mbrojtura të natyrës ose ato ju kanë dhënë në përkujdesje personave juridik dhe fizik në bazë të kontratës para hyrjes në fuqi të këtij ligji, janë të detyruar t`i harmonizojnë ato kontrata me dispozitat e këtij ligji në afat prej tre (3) muaj nga dita e hyrjes në fuqi të këtij ligji.

@@ -1,0 +1,7 @@
+# Article 112
+1. The finder must notify the Ministry of the discovery of minerals, fossils and exfoliations which could represent a protected natural asset referred to in Article 111 of this Law within eight (8) days from the date of discovery and undertake necessary protective measures against destruction, damage or theft.
+2. The Ministry shall take decisions on exploration of finding sites of minerals, fossils and exfoliations not later than thirty (30) days from the date of notification of the finding site. In the decision concerning exploration determines nature protection measures.
+3. Unless provided for otherwise by the Ministry, the finder may not carry out any activities at the finding site that could result in destruction or damaging of the finding site, apart from protective measures.
+4. The owner or holder of the right to land where minerals, fossils and exfoliations have been found must render possible exploration of the finding site pursuant to the decision issued by the Ministry.
+5. Exploration of the finding site shall be carried out by a physical or legal person on basis of the Ministry permit.
+6. A legal or physical person must within thirty (30) days from the date of exploration pursued forward to the Ministry a report on exploration pursued containing the data concerning the state of a finding site, potential threat to the finding site as well as on the required additional explorations and additional safeguard measures.

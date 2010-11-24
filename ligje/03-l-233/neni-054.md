@@ -1,0 +1,5 @@
+# Neni 54
+Të drejtat e pronarit të tokës ku gjendet objekti speleologjik
+1. Pronari ose bartësi i së drejtës të tokës në të cilën gjendet objekti speleologjik nuk guxon të rrezikoj ose dëmtoj objektin speleologjik, të mbyllë hyrjen, të pengojë shfrytëzimin e tij për aq sa është e lejuar si dhe është i detyruar të mundësoj qasje dhe vizita në atë objekt vetëm për qëllime të lejuara.
+2. Pronari ose bartësi i të drejtës në tokën në të cilën gjendet objekti speleologjik ka të drejtën e përparësisë në ndarjen e koncesionit ose të drejtën e kompensimit për kufizimet të cilat i janë bërë për shkak të shfrytëzimit të objektit speleologjik përpjesëtimisht prej shkallës së zvogëlimit. Lartësia e kompensimit përcaktohet me marrëveshje, në rast të konfliktit vendosë gjykata kompetente. Kompensimi paguhet nga mjetet e Buxhetit të Kosovës.
+3. Nëse për shfrytëzimin e objektit speleologjik jepet koncesioni, bartësi i koncesionit për kufizimet të cilat i janë bërë pronarit i paguan kompensimin në pajtim me paragrafin 2. të këtij neni.

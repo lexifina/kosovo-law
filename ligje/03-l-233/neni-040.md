@@ -1,0 +1,5 @@
+# Neni 40
+1. Për planet dhe programet nga neni 39 paragrafi 3. të këtij ligji, për të cilat është përcaktuar detyrimi i vlerësimit strategjik mjedisor, shqyrtimin paraprak për zonën e rrjetit ekologjik e zbaton Ministria.
+2. Për planet dhe programet nga neni 39 paragrafi 3. të këtij ligji, për të cilat me Ligjin për mbrojtjen e mjedisit është përcaktuar detyrimi për shqyrtimin e vlerësimit strategjik mjedisor, shqyrtimi paraprak për zonën e rrjetit ekologjik zbatohet në kuadër të procedurës së shqyrtimit të vlerësimit strategjik sipas dispozitave nga lëmi i mbrojtjes së mjedisit.
+3. Nëse me vlerësimin paraprak për planin dhe programin nga paragrafi 1. dhe 2. të këtij neni vërtetohet që ai mund të ketë ndikim të dukshëm në zonën e rrjetit ekologjik, Ministria jep mendimin me të cilin përcakton nevojën e zbatimit të vlerësimit kryesor për rrjetën ekologjik.
+4. Shqyrtimi kryesor për zonën e rrjetit ekologjik zbatohet në kuadër të procedurës për vlerësim strategjik mjedisor sipas dispozitave të veçanta nga lëmi i mbrojtjes së mjedisit.

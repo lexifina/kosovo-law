@@ -1,0 +1,5 @@
+# Article 54
+Rights of the property owner where is discovered the speleological object
+1. The owner or holder of the property rights, where is discovered the speleological object, will not have a courage to endanger or to harm the speleological object, to close the entrance, to interrupt its use as it is allowed and also is obligated to enable the approaches and visits of that object only for allowed purposes.
+2. The owner or holder of the property rights, where is discovered the speleological object, has the priority on concession partition or right on compensation for limitations to him because of exercises on speleological object proportionally of decreased level. Compensation elevation will be determined by an agreement, in case of conflict then the decision will be taken by the court. The compensation will be paid by the Kosovo Budget.
+3. Whether for exercises of speleological object will issue a concession, the holder of concession, for the limitations made to the owner he will pay compensation from paragraph 2. of this Article.

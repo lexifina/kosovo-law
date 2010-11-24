@@ -1,0 +1,3 @@
+# Article 105
+1. Legal or physical person who intends to keep on captivity species of wild animals or autochthon or alohton protected under the Law, with the scope of displaying those to general public in zoos, aquariums, terrarium or similar spaces, must secure authorisation from the Ministry. The authorisation shall be issued in the form of a decision.
+2. The authorisation referred to in paragraph 1. of this Article shall be issued if the applicant that fulfils the conditions as they are determined and animals will be exhibited in environments that are nearly to the natural conditions of their habitat and not deform knowledge of the species biology.

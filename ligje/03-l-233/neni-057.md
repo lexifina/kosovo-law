@@ -1,0 +1,5 @@
+# Neni 57
+Minimumi biologjik
+1. Me qëllim të mbrojtjes të mbi jetesës, natyrës së shëndoshë dhe ruajtjes së larmisë biologjike dhe peizazhore në vendbanimet ujore, ndarjen e rrjedhave ujore në drejtim që kontribuon degradimin e vendbanimit ujor , zvogëlimin e sasisë së ujit nën minimum biologjik, ndalohet tharja dhe pengimi i burimeve, moçaleve dhe vendbanimeve tjera ujore.
+2. Minimumi biologjik është sasia më e ulët e ujit sipërfaqësor e cili mundë të sigurohet gjatë vitit, me përjashtim të rasteve kur rrjedha natyrore është më e ulët se minimumi biologjik i përcaktuar, i cili mundëson ruajtjen e baraspeshës natyrore të vendbanimeve ujore si dhe karakteristikave peizazhore të rrjedhës ujore dhe nuk zvogëlon gjendjen e parametrave mjedisor të ujërave sipërfaqësor.
+3. Sasia e ujit në vendbanimet ujore sipas paragrafit 2. të këtij neni, i nevojshëm për mbi jetesë të llojeve të tyre të egra, si dhe për ruajtjen e larmisë biologjike dhe peizazhore përcaktohen sipas metodologjisë të nxjerr në bazë të dispozitave të Ligjit për ujërat.

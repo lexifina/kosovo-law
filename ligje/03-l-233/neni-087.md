@@ -1,0 +1,3 @@
+# Neni 87
+1. Gjatë kryerjes së ndërhyrjeve në natyrë dhe shfrytëzimi i të mirave të natyrës me të cilat ndikohen vendbanimet e llojeve të egra, zbatohen masat, metodat dhe mjetet teknike të cilat kontribuojnë në ruajtjen e gjendjes së mirë të llojeve, përkatësisht të cilat më së paku pengojnë llojet e egra ose vendbanimet e popullacioneve të tyre, si dhe mund të kufizohen ndërhyrjet në vendbanimet e popullacioneve të llojeve të shtazëve të cilat përputhen me periudhat e tyre të rëndësishme jetësore.
+2. Ruajtja e llojeve të egra dhe vendbanimeve të tyre nga paragrafi 1. i këtij neni, është pjesë përbërëse e masave dhe kushteve për mbrojtjen e natyrës nga neni 124 i këtij ligji.

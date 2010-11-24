@@ -1,0 +1,4 @@
+# Article 78
+1. Directorate referred to in Article 77. of this Law shall carry out the activity of protection, maintenance and promotion of protected area with purpose of protection and conservation of authenticity of nature, safeguarding the undisturbed running of natural processes and sustainable use of natural resources, as well as control the enforcement of nature protection requisites and measures in the area they administer.
+2. Directorates which administrate with nature parks shall also control the method of carrying out authorized business activities with the aims of safeguarding rational and sustainable use of natural resources.
+3. Directorate may exercise other activities which are determined by establishment act when this serves for performance of the activities from paragraph 1. and 2. of this Article.

@@ -1,0 +1,6 @@
+## CHAPTER XII
+## FINANCING NATURE PROTECTION
+# Article 157
+1. From the Kosovo Budget shall be provided funds for the protection of important natural values of international and national and for those values of nature which defines the Ministry for financial support and other support provided by this Law, for compensation of damage caused by strict protected animals, the realization of the right of first buyers of the Republic of Kosovo, for compensation of owners or holders of rights in real estate, for which restrictions have been subjected to the protection of nature values of international and state importance and for other purposes specified in this law.
+2. From the municipality budget are provided the means for protecting the nature values which it announces of financial support and other support provided by this Law and the realization of the right of first buyers and compensation of owners and holders of rights in real estate limitations for which they are subjected to the value of protected nature.
+3. Financing funds of nature protection are insured from exploitation of natural goods and values protected by this Law, if the nature or a specific law is not defined differently, by giving compensation to the concession and from other sources specified by law or provisions issued pursuant to law.

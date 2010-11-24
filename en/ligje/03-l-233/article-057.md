@@ -1,0 +1,5 @@
+# Article 57
+Biologic minimum
+1. With purpose of protection of the survival of a healthy nature and conservation of the biological and landscapes diversity in the water habitats, water-flow separation toward contribution of water habitat degradation, decreasing the water quantity under biological minimum, its forbidden the drainage and water resource interruption, bogs, and other water habitats.
+2. Biological minimum is the surface water quantity which could be insured during the year, with exception of cases when the natural water-flow is lower than determined biological minimum, which enables the conservation of nature balance of water habitats and also the landscape characteristics of water-flow and it not decrease the state of environmental parameters of surface waters.
+3. Water quantity in the water habitats according to paragraph 2. of this Article, which is necessity for survival of wild species and also for conservation of biological and landscapes diversity, is determined according to the methodology issued based on provisions of Water Law.

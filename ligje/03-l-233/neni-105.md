@@ -1,0 +1,3 @@
+# Neni 105
+1. Personi fizik ose juridik i cili ka për qellim të mbajë në internim llojet shtazëve të egra vendore ose të huaja të mbrojtura në bazë të ligjit, për qellim shfaqjeje për publikun në kopshte zoologjike, akuariume, terrariume ose në hapësira të ngjashme, është i detyruar të marr lejen e Ministrisë. Leja lëshohet me vendim.
+2. Leja nga paragrafi 1. i këtij neni lëshohet nëse paraqitësi i kërkesës dëshmon se janë përmbush kushtet e përcaktuara si dhe shtazët do të ekspozohet në mjediset të cilat janë të përafërta me kushtet natyrore të vendbanimit të tyre dhe që nuk shtrembërojnë njohuritë për biologjinë e llojit.

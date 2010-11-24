@@ -1,0 +1,4 @@
+# Article 32
+Fertilizers and pesticides
+1. Ammunitions for protection of the plants and mineral fertilizers may be used only based on professional assessment and verifying results of general state on protected species, in acceptable nature- friendly manner and in accordance with other provisions.
+2. In case of based suspicion that with ammunitions for protection of the plants or mineral fertilizers, will be endangered biological diversity or nature values, respectively the measure use it’s not permitted by ecological aspect, the minister after taking the preliminary opinion of competent authority for agriculture and forestry, will limit by temporary instruction, or permanently will forbid the use ammunitions for protection of plants, or mineral fertilizers by which ones will be endangered biological diversity or nature value.
