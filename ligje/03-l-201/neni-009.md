@@ -1,0 +1,10 @@
+# Neni 9
+Certifikatat e Origjinës
+1. Ndërmarrjet e energjisë që prodhojnë energji elektrike duke shfrytëzuar burimet e ripërtërishme të energjisë apo përmes bashkëprodhimit kanë të drejtë të marrin certifikatën e origjinës nga Zyra e Rregullatorit për Energji.
+2. Në certifikatën e origjinës, Zyra e Rregullatorit për Energji:
+2.1. vërteton kapacitetin maksimal të centralit elektrik që shfrytëzon burimet si dhe burimet e shfrytëzuara për prodhim;
+2.2. përcakton afatet për paraqitjen e informatave dhe raporteve te Zyra e Rregullatorit për Energji sa i përket operimit të centralit.
+3. Furnizuesi publik i jep përparësi blerjes së energjisë elektrike të prodhuar nga burimet e ripërtëritshme të energjisë për të cilën është lëshuar certifikata e origjinës nga Zyra e Rregullatorit për Energji.
+4. Nga furnizuesi publik kërkohet që ta blejë me tarifë të rregulluar, tërë sasinë e energjisë elektrike të prodhuar nga burimet e ripërtëritshme të energjisë, të nevojshme për plotësimin e nevojave me energji elektrike në Kosovë, me përjashtim të sasisë për të cilën prodhuesi ka lidhur kontratë sipas dispozitave të këtij ligji.
+5. Zyra e Rregullatorit për Energji do të realizojë aranzhime për të kompensuar shpenzimet shtesë me të cilat përballet furnizuesi publik për shkak të blerjes së energjisë elektrike sipas kushteve të përcaktuara në këtë nen, përmes një ngarkese specifike në shërbimet e Operatorit të Sistemit të Transmisionit, e cila u ngarkohet në mënyrë transparente dhe jo diskriminuese të gjithë furnizuesve dhe konsumatorëve fundor të lidhur në sistemin e transmisionit, në proporcion me konsumin e tyre.
+6. Zyra e Rregullatorit për Energji harton një metodologji për përcaktimin e tarifave që duhen paguar nga furnizuesi publik për energjinë elektrike të prodhuar nga burimet e ripërtëritshme të energjisë sipas Ligjit për Rregullatorin e Energjisë. Kjo metodologji do të përfshijë dispozita për kompensimin e furnizuesit publik për koston shtesë për blerjen e energjisë elektrike të prodhuar nga burimet e ripërtëritjeshme.

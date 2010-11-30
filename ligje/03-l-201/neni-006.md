@@ -1,0 +1,9 @@
+# Neni 6
+Obligimet e prodhuesve të energjisë elektrike
+1. Prodhuesi i energjisë elektrike ka për obligim:
+1.1. t’i përmbahet të gjitha kushteve të përcaktuara në licencë për ushtrimin e veprimtarisë prodhuese, nëse një licencë e tillë kërkohet;
+1.2. t’i përmbahet rregullave përkatëse teknike dhe rregullave të vendosura nga operatorët e sistemit, përfshirë edhe Kodin e Rrjetit dhe Kodin e Shpërndarjes;
+1.3. të veprojë në pajtim me rregulloret mbi mbrojtjen e mjedisit për të siguruar kontroll të përhershëm mbi ndikimin në mjedis;
+1.4. të pajiset me pajisje matëse adekuatë për matjen e energjisë elektrike që hyn në sistem; dhe
+1.5. t’i përmbahet të gjitha obligimeve tjera që mund të rezultojnë nga zbatimi i këtij ligji dhe legjislacionit dhe rregulloreve, rregullave dhe kodeve të ndërlidhura
+2. Prodhuesi i energjisë elektrike, në rastet kur së paku një nga asetet e tij të prodhimit ka kapacitet të instaluar prej më shumë se 5 MW, do t’i mbajë të dhënat për çdo orë funksionimin e impiantit të tij për një periudhë pesëvjeçare, në mënyrë që të verifikohen të gjitha vendimet operative të dispeçimit dhe trendët ofertuese në këmbim të energjisë, ankande të interkonektorëve, tregje të rezervave dhe tregjeve të letrave me vlerë, cilat ia vë në dispozicion Zyrës së Rregullatorit për Energji, Komisionit të Kosovës për Konkurrencën dhe të gjitha organizatave tjera ndërkombëtare që janë themeluar në bazë të marrëveshjeve ndërkombëtare apo rregulloreve ndërkombëtare që janë të obligueshme për Kosovën dhe që mbajnë mandat për të kryer funksione të tilla. Informatat për orë/për impiant që duhet ruajtur duhet të përfshijnë, pa u limituar vetëm në to, të dhënat mbi kapacitetet prodhuese në dispozicion dhe rezervat e dedikuara, përfshirë alokimin e këtyre rezervave të dedikuara në nivel të impiantit në kohën e kryerjes së ofertimit dhe gjatë realizimit të prodhimit.

@@ -1,0 +1,7 @@
+## KREU VII
+## QASJA E PALËS SË TRETË
+# Neni 22
+E drejta e qasjes të palës së tretë
+1. Operatori i Sistemit të Transmisionit dhe Operatori i Sistemit të Shpërndarjes duhet t’i lejojnë prodhuesit, furnizuesit, dhe konsumatorit të kualifikuar të kenë qasje në sistemin e transmisionit dhe në sistemin e shpërndarjes në bazë të tarifave të publikuara, si dhe rregullave dhe procedurave të specifikuara nga Zyra e Rregullatorit për Energji, Operatori i Sistemit të Transmisionit dhe Operatori i Sistemit të Shpërndarjes.
+2 Gjatë përcaktimit se në çfarë mase do të lejohen kërkesat për qasje në sistemin e transmisionit dhe shpërndarjes, Operatori i Sistemit të Transmisionit dhe Operatori i Sistemit të Shpërndarjes sigurojnë se e vënë në dispozicion kapacitetin maksimal të sistemeve të tyre, përfshirë interkonektorët, në pajtim me standardet e zbatueshme të sigurisë dhe nevojën për operim të sigurt të sistemit.
+3. Tarifat për përdorim të sistemit janë objektive dhe aplikohen për të gjithë konsumatorët në baza jodiskriminuese. Këto tarifa propozohen në baza vjetore nga Operatori i Sistemit të Transmisionit dhe Operatori i Sistemit të Shpërndarjes, sipas mënyrës së përshkruar nga Zyra e Rregullatorit për Energji, si dhe ato nuk hyjnë në fuqi deri në miratimin nga Zyra e Rregullatorit të Energjisë dhe publikimit të tyre. Tarifat e propozuara përfshijnë sinjale të duhura ekonomike për inkurajimin e përdorimit efikas të sistemeve dhe interkonektorëve.

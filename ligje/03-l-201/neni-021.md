@@ -1,0 +1,6 @@
+# Neni 21
+Linjat direkte
+1. Të gjithë prodhuesit e energjisë elektrike në Kosovë do të kenë mundësinë të lidhin stabilimentet e tyre, apo stabilimentet e njësive të tyre, apo të konsumatorëve të kualifikuar, nëpërmjet linjave direkte.
+2. Të gjithë konsumatorët e kualifikuar në Kosovë do të kenë të drejtën të furnizohen nga një linjë direkte aty ku është e mundur nga aspekti teknik dhe ekonomik.
+3. Autorizimet për ndërtimin e linjave direkte lëshohen nga Zyra e Rregullatorit për Energji në bazë të kritereve objektive dhe jodiskriminuese të publikuara paraprakisht e që kanë të bëjnë me sigurinë, efikasitetin dhe integritetin e sistemeve të transmisionit dhe shpërndarjes. Zyra e Rregullatorit për Energji mund të refuzojë dhënien e autorizimit për ndërtimin e një linje direkte nëse dhënia e autorizimit e parandalon ose pengon një detyrim të shërbimit publik të vendosur nga Zyra e Rregullatorit për Energji sipas Ligjit për Rregullatorin e Energjisë.
+4. Nëse një konsumator i kualifikuar pranon furnizim përmes linjës direkte, kjo nuk do të ndikon në të drejtën e tij të kontraktimit të furnizuesit të zgjedhur dhe të pranimit të furnizimit përmes sistemit të transmisionit ose sistemit te shpërndarjes në pajtim me dispozitat e këtij ligji.
