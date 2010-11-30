@@ -1,0 +1,9 @@
+# Article 25
+Decisions and Other Acts
+1. In exercising its powers, duties, and responsibilities, the Energy Regulatory Office may issue:
+1.1. rules for regulating its activities and activities of others in the energy sector, as prescribed in this law;
+1.2. individual acts, including decisions related to licences and tariffs and decisions resolving disputes referred to in Article 16 of this law.
+2. The decisions and individual rules of the Energy Regulatory Office shall be made in an open manner, independent of outside political, industrial or other influence. Such rules, acts and decisions shall be in writing, shall contain an explanation of the basis or reasons for the rule, act or decision, shall be binding on the energy enterprises and/or consumers concerned and the findings shall be made public in accordance with paragraph 5 of this Article.
+3. Any individual acts issued by the Energy Regulatory Office pursuant to paragraph 1 of this Article shall be subject to an administrative review procedure within the Energy Regulatory Office. After the completion of the administrative review procedure, a dissatisfied party may begin an administrative dispute at the competent court in Kosovo in accordance with Article 43 of this Law and the Law of Administrative Procedure.
+4. The rules of the Energy Regulatory Office shall be published in the Official Gazette and on the Energy Regulatory Office official web-site within ten (10) working days of their adoption.
+5. The findings made in individual acts and other decisions related to licences and tariffs shall be made public by being posted on the website of the Energy Regulatory Office within thirty (30) days of the relevant act or decision being made, and also being published in an Energy Regulatory Bulletin. The Bulletin shall be published at least once every six (6) months and posted on the Energy Regulatory Office’s official web-site.

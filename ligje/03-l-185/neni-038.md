@@ -1,0 +1,6 @@
+# Neni 38
+Procedura e Autorizimit për ndërtimin e kapaciteteve të reja
+1. Ndërtimi i kapaciteteve të reja gjeneruese, sistemeve të reja për bartjen dhe shpërndarjen e gazit, përfshirë interkonektorët, si dhe linjat direkte elektrike dhe gazsjellësit direkt për bartjen e gazit natyror do të bëhet në pajtim me procedurat e autorizimit sipas këtij ligji, përveç në rastet kur paragrafit 1 i nenit 39 shprehimisht lejon përdorimin e procedurës së tenderimit.
+2. Procedura e autorizimit për ndërtimin e stabilimenteve të parashikuara me paragrafin 1 të këtij neni do të ndërmerret nga Zyra e Rregullatorit për Energji, në përputhje me kritere objektive, transparente dhe jo- diskriminuese. Kriteret për lëshimin e autorizimeve të tilla do të jenë në përputhje me kriteret e parashikuara në lidhje me licencimin sipas nenit 29 të këtij ligji.
+3. Zyra e Rregullatorit për Energji themelon procedurat të veçanta për autorizimin e ndërtimit të gjeneratorëve të vegjël të decentralizuar dhe/apo të kyçur ne shpërndarje, duke marrë parasysh madhësinë e tyre të kufizuar dhe ndikimin e mundshëm.
+4. Nëse refuzohet kërkesa për autorizim, Zyra e Rregullatorit për Energji do të informojë me shkrim paraqitësin e kërkesës për refuzim. Arsyet duhet të jenë objektive, jo-diskriminuese, të arsyetuara mirë si dhe të vërtetueshme.

@@ -1,0 +1,6 @@
+# Article 38
+Authorization Procedure for Construction of New Capacity
+1. Construction of new generation capacities, new systems for the transmission and distribution of gas, including interconnectors, and direct electricity lines and direct pipelines for the transmission of natural gas shall be undertaken in line with authorization procedures as described in this law, except where paragraph 1 of Article 39 of this law specifically permits the use of a tendering procedure.
+2. The authorization procedure for the construction of facilities referred to in paragraph 1 of this Article shall be carried out by the Energy Regulatory Office, in line with objective, transparent and non- discriminatory criteria. Criteria for issuing such authorizations shall correspond to the criteria stipulated in respect of licensing in Article 29 of this law.
+3. The Energy Regulatory Office shall establish specific procedures for the authorisation of construction of small decentralised and/or distributed generation, which shall take into account their limited size and potential impact.
+4. If an authorization application is refused, the Energy Regulatory Office shall inform the applicant of the reasons for refusal in writing. Reasons must be objective, non-discriminatory, well-grounded and verifiable.

@@ -1,0 +1,7 @@
+# Article 7
+Status and Salaries of Members of the Board and Staff
+1. No member of the Board or staff of the Energy Regulatory Office shall have the status of a civil servant.
+2. Member of the Board shall be paid salaries and allowances in accordance with the applicable law governing the salaries of senior public officials.
+3. For a period of one year after ceasing to be a member of the Board, such person shall be prohibited from representing in front of the board on behalf of an energy enterprise licensed under this law, or an entity directly or indirectly controlled by such licensee.
+4. No person, while a serving member of the Board of the Energy Regulatory Office, shall have the right to initiate negotiations, or become involved in negotiations, concerning his employment or consulting work, with any energy enterprise licensed under this law or an entity directly or indirectly controlled by such licensee.
+5. No energy enterprise licensed under this law, or an entity directly or indirectly owning or controlled by such licensee, shall have the right to initiate negotiations or become involved in negotiations concerning employment of or the use of the consulting services of a member of the Board. Any licensed energy enterprise engaging in negotiations in breach of this paragraph shall be considered in breach of its licence, and dealt with accordingly by the Energy Regulatory Office.
