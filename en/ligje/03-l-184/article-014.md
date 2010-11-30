@@ -1,0 +1,8 @@
+## CHAPTER IV
+## INVESTMENTS
+# Article 14
+Promotion of Investments in the Energy Sector
+1. The construction of new energy plants and facilities and their maintenance and use shall be encouraged in Kosovo, as long as such actions are in compliance with Kosovo’s obligations under the Energy Community Treaty and all other applicable legislation.
+2. Private investment in the energy sector of Kosovo shall be encouraged and favorable foreign investment environment conditions shall be established, including conditions for an open market for the manufacture and purchase of energy materials for the purpose of attracting general investments, and investments for the construction of new energy facilities and for the modernization, rehabilitation, and expansion of existing generation capacities, transmission systems and distribution systems.
+3. Where investments in new generation units with a capacity of fifty (50) megawatts or more are planned, the investor shall provide to the Ministry an analysis of the potential for the application of cogeneration in such investment. The analysis shall be performed by an independent expert, be based on well-docu- mented scientific data, comply with the requirements of European Community Directive 2004/8/EC on the promotion of cogeneration, and be based on a forecast of useful heat demand in the internal energy market.
+4. If the analysis referred to in paragraph 3 of this Article indicates that cogeneration could be applied in the investment without adversely affecting the profitability of the investment, the Ministry, in line with the aim identified in paragraph 3 of this Article on the creation of a favorable investment environment, may require that cogeneration is considered as an investment component.

@@ -1,0 +1,5 @@
+# Neni 28
+Inspektimet mirëmbajtja dhe matja
+1. Personat fizikë dhe juridikë do të lejojnë zyrtarët që ushtrojnë inspektime në përputhshmëri me këtë ligj, mund të hyjnë dhe të kalojnë në pronën e çfarëdo individi për ushtrimin e aktiviteteve të tyre në lidhje me inspektimin dhe mirëmbajtjen e stabilimenteve energjetike, instalimeve apo sistemeve.
+2. Personat fizikë dhe juridikë do t’u lejojnë përfaqësuesve të autorizuar të ndërmarrjeve për energji qasje në pronën e tyre në të cilën gjenden stabilimentet, aparaturat, rrjetat, ose sistemet energjetike në të cilat qasja e tillë është e nevojshme, me qëllim të mirëmbajtjes apo kontrollimit të tyre, prerjes së pemëve ose vegjetacionit tjetër që mund të pengoj veprimin e stabilimenteve, aparaturës, rrjetave ose sistemit.
+3. Personat fizikë dhe juridikë duhet t’iu lejojnë qasje përfaqësuesve të autorizuar të ndërmarrjeve për energji, për inspektimin e pajisjeve për matje që gjenden në pronën e tyre, në të cilën qasja e tillë është e nevojshme, dhe nuk mund të ndalojnë përfaqësuesit e ndërmarrjeve për energji të bëjnë shkyçjen e pajisjeve për matje ose aparaturave të tjera në lidhje me sistemin e energjisë.
