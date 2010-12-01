@@ -1,0 +1,12 @@
+# Neni 19
+Mbledhja e të dhënave
+1. Për përmbushjen e detyrës, hetuesit e IPK-së janë të autorizuar dhe janë përgjegjës të përdorin çfarëdo burimi të ligjshëm të informatave për të mbledhur, administruar dhe mbrojtur të dhënat që kanë të bëjnë me hetimin e veprave penale, të kryera nga punonjësit e Policisë, pavarësisht nga detyra e grada.
+2. Drejtuesit e strukturave të Policisë dhe të MPB-së, për zbatimin e këtij ligji, bashkëveprojnë me IPK-në.
+3. Kur punonjësit e Policisë, të MPB-së dhe të institucioneve të tjera shtetërore, vihen në dijeni për përfshirjen në vepra penale të punonjësve të Policisë, janë të detyruar ta njoftojnë menjëherë IPK-në. Nëse ndonjë institucion shtetëror është në zhvillim e sipër të hetimeve atëherë ato mund t’i përfundojnë hetimet apo mund t’a njoftojnë IPK. Me përfundimin e hetimeve, institucioni shtetëror në fjalë duhet ta njoftojë IPK-në.
+4. Për të dhënat e siguruara që kanë të bëjnë me përfshirjen në vepra penale të punonjësve të Policisë, që janë subjekte të hetimeve të IPK-së, institucionet që ofrojnë informata e njoftojnë IPK-në sipas udhëzimit të përbashkët të Ministrit dhe të drejtuesve të institucioneve të lartcekura.
+5. Në pajtim me ligjin në fuqi dhe nëse ka dyshim të bazuar se punonjësi i Policisë është i përfshirë në vepër penale, IPK-ja mund të kërkojë prej punonjësve të Policisë deklarata të hollësishme lidhur me veprimtaritë e jashtme, siç janë: dypunësimi, investimet, pasuritë dhe dhuratat ose privilegjet.
+6. Për mbledhjen e të dhënave, IPK mund të përdorë dhe kompensojë informatorët e besueshëm për sigurimin e informacioneve.
+7. IPK ka të drejtë të kontrollojë, të konfiskojë, analizojë dhe të mbajë dokumente, dëshmi dhe informacione, në formë të shkruar ose elektronike, nga të gjitha zyrat, sekretaritë, arkivat ose çfarëdo burimi tjetër informacioni, në pajtim me ligjin në fuqi.
+8. Kur IPK parashtron një kërkesë të ligjshme, organet e administratës publike, personat fizikë dhe juridikë janë të detyruar t’i ofrojnë të dhënat identifikuese dhe informacionet në dispozicion.
+9. Personi, që ka vendosur marrëdhënie bashkëpunimi me IPK-në, është i detyruar të ruajë sekretin e këtij bashkëpunimi dhe të informacioneve të klasifikuara, derisa të përfundojë detyrimi ligjor për ruajtjen e këtij sekreti, në pajtim me ligjin në fuqi.
+10. Mbledhja, ruajtja, përdorimi, analizimi, transferimi dhe fshirja e të dhënave bëhet sipas këtij ligji dhe Ligjit për Mbrojtjen e të Dhënave Personale.

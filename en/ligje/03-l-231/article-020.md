@@ -1,0 +1,6 @@
+# Article 20
+Special measures for data collection
+1. When based on the available data, there are suspicions that a Police employee, who is the subject of a PIK investigation according to this Law, has committed a criminal offence or is planning or organizing to commit a crime and this activity can not be detected or prevented in other ways, PIK investigators may use covert and technical measures of surveillance, investigation and the foreseen procedure as set out in the Criminal Procedure Code.
+2. In order to exercise its activity and function and based on “reasonable suspicion” and as authorized by the prosecutor, PIK is entitled to conduct the integrity investigation of police employees.
+3. Integrity investigation aims to develop the proactive capacity in maintaining the ethics and integrity in the framework of high professional standards within the Police contributing to the efforts of corruption control, raising the quality of service, and enhancing public confidence towards Kosovo Police. Rules and procedures for conducting this investigation shall be established by a sub-legal act approved by the Minister.
+4. PIK may use the tools, equipment and personnel of other law enforcement institutions to enhance its capacity to use special measures to collect information.

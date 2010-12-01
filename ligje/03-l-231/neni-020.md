@@ -1,0 +1,6 @@
+# Neni 20
+Masat e veçanta për mbledhjen e të dhënave
+1. Kur në bazë të të dhënave që disponohen, dyshohet se një punonjës i Policisë , i cili është subjekt i hetimeve të IPK-së, sipas këtij ligji, ka kryer një vepër penale ose planifikon apo organizon të kryejë një krim dhe kjo veprimtari nuk mund të zbulohet ose të parandalohet në rrugë e mënyra të tjera, hetuesit e IPK-së mund të përdorin masat e fshehta dhe teknike të vëzhgimit, hetimit dhe procedurës së paraparë në Kodin e Procedurës Penale.
+2. IPK, në funksion të kryerjes së veprimtarisë dhe funksionit të saj, dhe bazuar në “dyshimin e arsyeshëm” si dhe sipas autorizimit nga ana e prokurorit, ka të drejtë të kryejë hetimin e integritetit të punonjësve të Policisë.
+3. Hetimi i integritetit ka për qëllim të zhvillojë kapacitetin proaktiv në ruajtjen e etikës dhe integritetit në kuadër të standardeve të larta profesionale brenda Policisë duke kontribuar në përpjekjet mbi kontrollin e korrupsionit, duke rritur cilësinë e shërbimit dhe rritjen e besimit të publikut ndaj Policisë . Rregullat dhe procedurat për kryerjen e këtij hetimi përcaktohen me akt nënligjor të miratuar nga Ministri.
+4. IPK mund të përdorë mjetet, pajisjet dhe personelin e institucioneve të tjera të zbatimit të ligjit për të rritur kapacitetin e saj për të përdorur masa të veçanta për të mbledhur informacione.
