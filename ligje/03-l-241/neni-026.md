@@ -1,0 +1,9 @@
+# Neni 26
+Nënshkrimi i kontratave publike
+1. Përveç, siç përcaktohet në paragrafin 2. dhe 3. të këtij neni, zyrtari përgjegjës i prokurimit i një autoriteti kontraktues është i vetmi person i autorizuar që të lidh ose të nënshkruajë një kontratë publike në emër të autoritetit të tillë kontraktues. Nënshkrimi dokumenton se kontrata është dhënë në pajtueshmëri me ligjin aktual.
+2. Përveç nënshkrimit të zyrtarit përgjegjës të prokurimit të përmendur në paragrafin 1. të këtij neni, kontratat me vlera të mëdha të autoriteteve kontraktuese duhet që gjithashtu të nënshkruhen në emër të autoritetit kontraktues nga Zyrtari Kryesor Administrativ, si dhe Ministri ose autoriteti tjetër përkatës publik. Nënshkrimet e përcaktuara sipas këtij Neni, konfirmojnë dhe pranojnë të drejtat dhe detyrimet e përcaktuara në kontratë dhe vërtetojnë se kontrata është në pajtim të plotë me këtë ligj. Kontratat që nuk nënshkruhen në pajtim me paragrafin 1. dhe 2. të këtij neni janë të pazbatueshme.
+3. Nëse Ministri i financave e cakton AQP-në si organ përgjegjës për kryerjen e një aktiviteti të prokurimit, personat e autorizuar për përmbylljen ose nënshkrimin e kontratës janë personat e përmendur në paragrafin 1. dhe 2. të këtij neni
+4. Personat e autorizuar që të nënshkruajnë sipas paragrafit 1. dhe 2. ose 3. të këtij neni mund të nënshkruajnë kontratën e tillë vetëm nëse përmbushen kushtet vijuese:
+4.1. së paku dhjetë (10) ditë kanë kaluar nga data e publikimit të njoftimit për dhënien e kontratës; me kusht që, ky kusht të mos aplikohet për prokurimet urgjente që sipas nenit 35.2.1 (iii). apo për një aktivitet të prokurimit të bazuar në nenin 36. apo për kontrata me vlerë minimale;
+4.2. personat kanë konfirmuar edhe një herë se informatat që gjinden në “Deklaratën e Nevojave dhe Vendosmërisë për Disponueshmërinë e Fondeve” janë ende të sakta;
+4.3. personat nuk kanë pranuar asnjë komunikatë nga OSHP ose gjykata në të cilën thuhet se kontrata nuk duhet nënshkruar.

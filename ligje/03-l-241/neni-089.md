@@ -1,0 +1,6 @@
+# Neni 89
+Emërimi i Anëtarëve
+1. KRPP-ja përbëhet prej tre (3) anëtarëve. Anëtarët e KRPP-së emërohen për një mandat prej pesë (5) vjetësh, dhe mund të riemërohen vetëm një herë.
+2. Kryetari dhe anëtarët e KRPP-së propozohen nga Qeveria dhe emërohen nga Kuvendi. Gjatë propozimit të personave në fjalë, Qeveria duhet të respektoj kërkesat për anëtarësim, të specifikuara në paragrafin 3. dhe 4. të këtij neni.
+3. Asnjë person nuk mund të propozohet, emërohet ose të shërbejë si anëtar i KRPP-së nëse ai/ajo nuk ka të drejtë që të marrë pjesë në një aktivitet të prokurimit për ndonjë arsye të ndonjë dispozite të listuar në paragrafin 3. të nenit 65 të këtij ligji. Qeveria dhe Kuvendi duhet të sigurojë që asnjë person i tillë të mos propozohet ose emërohet për anëtar në KRPP.
+4. Qeveria dhe Kuvendi duhet të sigurojnë që çdo person i propozuar për anëtar të KRRP-së të përmbush njërin nga kriteret në vijim: (i) ai të jetë jurist, ekonomist ose profesionist tjetër me diplomë universitare dhe përvojë të konsiderueshme në prokurim ose përvojë tjetër përkatëse, ose (ii) ai të ketë diplomë universitare në fushën e inxhinierisë ose arkitekturës dhe përvojë të konsiderueshme në ekzekutimin e projekteve të punëve.

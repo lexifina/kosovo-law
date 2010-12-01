@@ -1,0 +1,3 @@
+# Article 92
+Confidentiality
+The PPRC may protect from disclosure to the public or unauthorized persons information developed or received by the PPRC during the conduct of its work, but only to the extent permitted by both this law and the Law on Access to Public Documents. Notwithstanding the foregoing, the PPRC shall provide access to and copies of any information and records in its possession or control, including confidential information and records, to the Auditor General, the PRB and/or a review panel immediately upon the request or order of any of these. The PPRC shall also provide access to and copies of such information and records to a court of competent jurisdiction if such access and copies are required pursuant to an order issued by such court.

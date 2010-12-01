@@ -1,0 +1,6 @@
+# Article 89
+Appointment of Members
+1. The PPRC shall be comprised of three (3) individuals. PPRC’s members shall be appointed for a term of five (5) years, and may be reappointed only once.
+2. The President and the other members of PPRC shall be nominated by the Government and appointed by the Assembly. In making such nominations, the Government shall give regard to the requirements for membership specified in paragraph 3 and 4 of this Article.
+3. No person shall be nominated, appointed or serve as a member of the PPRC if he/she would be ineligible to participate in a procurement activity by reason of a provision listed in paragraph 3 Article 65 of this law. The Government and the Assembly shall ensure that no such person is nominated or appointed as a member of the PPRC.
+4. The Government and Assembly shall also ensure that each person nominated or appointed as a member of the PPRC meets one of the following criteria: (i) he/she is a lawyer, economist or other professional holding a university degree and possessing substantial procurement or other relevant experience, or (ii) he/she holds a university degree in engineering or architecture and has substantial experience in executing works projects.

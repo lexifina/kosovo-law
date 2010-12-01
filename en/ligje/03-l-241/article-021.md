@@ -1,0 +1,4 @@
+# Article 21
+Restrictions on the Use of Articles 16-20
+1. A contracting authority shall use the provisions of Articles 16-20 solely for the purpose of determining whether a proposed public contract or design contest is to be classified as having a large, medium, low or minimal value. The provisions of Articles 16-20 shall be used for no other purpose.
+2. Furthermore, no information regarding the specific or general estimated value of a public contract or design contest, and no information regarding the funds available for the financing of such contract or design contest, shall be disclosed to any person until the procurement activity has been concluded. However, a contracting authority shall provide such information to the PPRC, CPA, a review expert, the PRB or a court immediately upon the request or order of any of these.

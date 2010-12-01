@@ -1,0 +1,3 @@
+# Neni 92
+Fshehtësia
+KRPP mund të mbrojë nga përhapja në publik ose persona të paautorizuar, informacionet e përgatitura ose marra prej KRPP-së gjatë kryerjes së detyrave të veta, por vetëm në masën e lejuar nga ky ligj edhe Ligji për Qasjen në Dokumentet Publike. Pavarësisht nga sa më sipër, KRPP i ofron qasje dhe kopje të çdo informacioni dhe dokumenti që ka në posedim ose kontroll, duke përfshirë informacionin dhe dokumentet e fshehta, nga Auditori i Përgjithshëm, OSHP-së dhe/ose ndonjë panel shqyrtues menjëherë pas kërkesës apo urdhrit të ndonjërit prej tyre. KRPP i ofron po ashtu qasje dhe kopje të informacioneve dhe dokumenteve të tilla një gjykate kompetente nëse kjo qasje ose këto kopje kërkohen me një urdhër të nxjerrë nga kjo gjykatë.

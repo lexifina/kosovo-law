@@ -1,0 +1,9 @@
+## KREU IV
+## PROCEDURAT PARA OSHP-së
+# Neni 116
+Procedurat e vendim-marrjes
+1. Çështjet që parashtruesi i ankesës i ka identifikuar në njoftimin e paraqitur në përputhje me paragrafin 5. dhe 6. të nenit 115 i këtij ligji do të shqyrtohen dhe do të vendosen OSHP.
+2. Procedurat do të ushtrohen në përputhshmëri me dispozitat e kësaj Pjesë IX dhe Rregulloren e Punës sipas nenit 107 i këtij ligji.
+3. Para marrjes së një vendimi përfundimtar mbi një çështje, OSHP mund të kërkojë nga autoriteti kontraktues dhe/ose parashtruesi i ankesës që të sigurojë informata dhe/ose shpjegime shtesë. OSHP ka të drejtë që të kërkojë nga çdo person, ndërmarrje ose autoritet publik që të dorëzojë materiale ose dëshmi që me arsye mendon se kanë të bëjnë me çështjen përkatëse. Ngjashëm, OSHP ka të drejtë që të kërkojë nga çdo person, ndërmarrje ose autoritet publik që të sigurojë dëshmi që paneli shqyrtues me arsye mendon se kane të bëjnë me çështjen përkatëse.
+4. Me kërkesë të parashtruesit të ankesës ose autoriteti kontraktues OSHP mund të lejojë për një mundësi të paraqesë informacion shtesë dhe / ose shpjegime. Paragrafi 3 i këtij neni vlen në mënyrë të ngjashme.
+5. Nëse cilado palë në procedurë dështon ose refuzon që të marrë pjesë plotësisht në procedurat ose që të përmbushë kërkesat e kësaj Pjese IX, Rregulloren e Punës që përshkruhet në nenin 107 i këtij ligji, ose një urdhër të nxjerrë nga OSHP, paneli shqyrtues e merr vendimin në bazë të provave që i ka në dispozicion dhe në bazë të argumenteve të sjella nga palët me pjesëmarrje aktive në procedurë. OSHP është i autorizuar ta trajtojë (zgjidhë) refuzimin ose dështimin e tillë, siç e sheh të arsyeshme, duke: (i) vendosur mbi çfarëdo çështje ligjore dhe/ose çështje faktike në favor ose kundër palës kundërshtuese, dhe/ose (ii) vendosur mbi çfarëdo pretendimi në favor ose kundër palës kundërshtuese.

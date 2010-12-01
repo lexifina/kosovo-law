@@ -1,0 +1,5 @@
+# Article 31
+Performance of contract
+1. Contracting authorities can lay down special requirements concerning the manner in which the contract must be performed, provided that the requirements do not contravene the principles of Article 7 and are indicated in the tender dossier. Such requirements concerning performance of a contract have the purpose of ensuring a certain level of labour conditions or environmental protection.
+2. Contracting authorities may refer to conditions of the performance of the contract in particular such which concern environmental protection, employment protection and working conditions in force in Kosovo by law or regulation, provided that these conditions are indicated in the contract notice and included in the technical specifications.
+3. A contracting authority may state in the contract documents the body or bodies from which a candidate or tenderer may obtain the appropriate information on the obligations relating to taxes, to environmental protection, to the employment protection provisions and to the working conditions which are in force.

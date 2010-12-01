@@ -1,0 +1,7 @@
+# Neni 62
+Përfundimi i Aktivitetit të Prokurimit
+1. Autoriteti kontraktues mund të përfundojë atë aktivitet të prokurimit i cili nuk do të rezultojë në dhënien e kontratës vetëm për njërën nga arsyet:
+1.1. një shkelje e ligjit aktual ka ndodhur apo do të ndodh në procedurën e prokurimit, e cila nuk mund të rregullohet apo të parandalohet përmes një amendamenti ligjor të kushteve të prokurimit, duke përfshirë edhe rastet ku një dispozitë e këtij ligji kërkon anulimin e aktivitetit të prokurimit
+1.2. të gjithë tenderët e përgjegjshëm përmbajnë çmime që në masë substanciale e tejkalojnë buxhetin e autoritetit kontraktues për aktivitetin e prokurimit; apo
+1.3. para hapjes së tenderëve, ndërprerja e aktivitetit të prokurimit është bërë e nevojshme për shkak të ngjarjeve objektive dhe që mund të demonstrohen dhe/ose arsyeve që janë jashtë kontrollit të autoritetit kontaktues dhe që nuk mund të parashikoheshin në kohën e inicimit të aktivitetit të prokurimit.
+2. Kur njoftimi i kontratës është publikuar dhe procedura e prokurimit është anuluar pa dhënien e kontratës publike, autoriteti kontraktues duhet që të publikojë njoftimin e anulimit në formën dhe përmbajtjen e informatave përcaktuar nga KRPP-ja, dhe (ii) të përfshijë në të dhënat e prokurimit të kërkuara nga paragrafi 1. i nenit 10 të këtij ligji, një deklaratë me shkrim që parashtron me hollësi arsyet faktike dhe bazën ligjore për anulimin.

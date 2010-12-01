@@ -1,0 +1,7 @@
+# Neni 84
+Sistemi i Kualifikimit
+1. Njoftimet për kontratë dhe përzgjedhja e pjesëmarrësve sipas nenit 56 të këtij ligji mundet që në raste të procedurave të cekura në paragrafin 1. të neni 83 të këtij ligji të zëvendësohet me një njoftim sipas paragrafit 2. të këtij neni në lidhje me sistemin e kualifikimit. Ftesat për tenderë duhet që në ato raste të bëhen vetëm për operatorët ekonomik të përfshirë të kualifikuar në një sistem të kualifikimit.
+2. Operatoret e Shërbimeve Publike që dëshirojnë të vendosin një sistem të kualifikimit duhet të publikojnë një njoftim i cili i paralajmëron operatorët ekonomik për ekzistimin e sistemit dhe i fton ata të aplikojnë për përfshirje. Një sistem i kualifikimit duhet të vendoset për një afat maksimal prej tri (3) vitesh dhe njoftimet duhet të publikohen çdo vit.
+3. KRPP nxjerrë rregulla në lidhje me formatin dhe përmbajtjen e Sistemit Kualifikues kur është e duhur që të përdoret sipas paragrafit 1. të këtij neni.
+4. Operatoret e Shërbimeve Publike të cilat vendosin dhe praktikojnë një sistem të kualifikimit do të sigurojnë që operatorët ekonomik mund të aplikojnë në çdo kohë për tu përfshirë në sistem dhe se një numër prej së paku tre operatorë ekonomik të kualifikuar do të përfshihen në çdo kohë për të siguruar konkurrencë të mjaftueshme.
+5. Operatori i Shërbimeve Publike duhet që të mbaj me shkrim të dhënat e operatorëve ekonomik të kualifikuar, mundësisht të ndara në kategori sipas llojit të kontratës për të cilën kualifikimet e tyre janë valide.

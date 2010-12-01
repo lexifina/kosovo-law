@@ -1,0 +1,7 @@
+# Neni 50
+Dërgimi dhe Përmbajtja e Ftesave për Tender
+1. Gjatë procedurave të kufizuara, procedurave të negociuara pas publikimit të njoftimit të kontratës dhe procedurave të kuotimit të çmimeve, autoriteti kontraktues njëkohësisht do t’u dërgoj me shkrim të gjithë kandidatëve të zgjedhur ftesën për tenderim.
+2. Gjatë procedurave të kufizuara dhe të negociuara pas publikimit të njoftimit të kontratës të gjitha ftesat për tenderim do të dërgohen së bashku me dosjen e tenderit, përveç nëse autoriteti kontraktues ka bërë të mundshme marrjen e dosjes së tenderit në mënyrë elektronike. Nëse autoriteti kontraktues i ka vënë materialet e tilla në dispozicion në mënyrë elektronike, ftesa do të përmbajë informacione të mjaftueshme që t’i mundësojë kandidatit qasje në këtë material.
+3. Gjatë procedurave të kuotimit të çmimeve, ftesa për tenderim duhet të përmbajë të gjitha informacionet materiale që u nevojiten kandidatëve për të dorëzuar kuota të përgjegjshme të çmimeve.
+4. Forma dhe përmbajtja e secilit tender, dokument ose informatë tjetër dorëzuar kandidatit, duhet të jetë identike me ato që i dorëzohen secilit kandidat tjetër. Asnjë kandidat nuk do të ketë më pak ose më shumë qasje në çfarëdo dokumenti ose informacioni, sesa cilido kandidat tjetër.
+5. Nëse një aktivitet i prokurimit që përdor procedurat e kufizuara ose të negociuara zbatohet me afate të përshpejtuara kohore sipas paragrafit 3. të nenit 46 të këtij ligji, autoriteti kontraktues do të dërgojë ftesat për dorëzimin e tenderëve në mënyrën më të shpejtë të komunikimit që është e mundur.

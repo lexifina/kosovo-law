@@ -1,0 +1,9 @@
+## PJESA II
+## KREU I
+## RREGULLAT PER SPECIFIKIMET TEKNIKE DHE DOSJEN E TENDERIT
+# Neni 27
+Dosja e Tenderit
+1. Përveç siç parashihet në paragrafin 2. të këtij neni autoriteti kontraktues do të përpiloj një dosje të tenderit që ofron informatat përkatëse lidhur me kontratën në fjalë, duke përfshirë të gjitha termet dhe kushtet materiale të saj, procedurat e zbatueshme të prokurimit, çfarëdo kërkese të aplikueshme të përshtatshmërisë ose ndonjë kriter të përzgjedhjes, procedurat e ankesës si dhe informatat e tjera përkatëse siç kërkohen nga ky ligj ose siç i sheh të domosdoshme autoriteti kontraktues. Nëse aktiviteti përkatës i prokurimit kërkon publikimin e njoftimit të kontratës, dosja e tenderit duhet të përmbajë një kopje të njoftimit të tillë dhe informatat e tjera të tilla përkatëse që mund të jenë të nevojshme për të qartësuar dhe plotësuar informatat që gjinden në njoftimin e tillë. Autoriteti kontraktues duhet të përcaktojë në dosjen e tenderit, specifikimet teknike të zbatueshme dhe, aty ku është e përshtatshme, kërkesat ekzekutuese, mundësinë e varianteve dhe informatat lidhur me nën-kontraktimin në pajtim me nenet 28, 29, 30 dhe 31 të këtij ligji.
+2. Kushtet e Dosjes së Tenderit sipas paragrafit 1. të këtij neni nuk zbatohen për aktivitetet e prokurimit për kontratat me vlerë minimale.
+3. Pa marrë parasysh se a kërkohet dosja e tenderit apo jo, furnizimet, shërbimet apo punët sipas kontratës duhet të përshkruhet me anë të fjalorit të përgjithshëm te prokurimit dhe kodeve të duhura. KRPP-ja do të ketë autoritetin për të vendosur rregulla mbi këto çështje.
+4. Kurdo që një aktivitet i prokurimit kërkon publikimin e njoftimit të kontratës, dosja e tenderit duhet të kompletohet para publikimit të njoftimit të kontratës; KRPP-ja mund të vendosë për monitorimin e kësaj dispozite, me akte nënligjore.

@@ -1,0 +1,5 @@
+# Neni 79
+Mjetet e komunikimit
+1. I tërë komunikimi dhe këmbimi i informacioneve i përmendur në këtë Pjesë mund të kryhet përmes letrës, faksit ose mjeteve elektronike, varësisht sipas zgjidhjes së autoritetit kontraktues.
+2. Komunikimi dhe këmbimi i informacioneve të përfshira në kuadër të kësaj Pjese do të bëhet në mënyrën me të cilën sigurohet mbrojtja e tërësisë dhe sekretit të të gjitha informacioneve të dorëzuara nga pjesëmarrësit, dhe mundësinë që autoriteti kontraktues të mund të studiojë përmbajtjen e të gjitha planeve ose projekteve pas skadimit të afateve të caktuara për pranimin e tyre.
+3. Autoriteti kontraktues do të sigurojë që njoftimi për konkursin e projektimit dhe rregullat e specifikuara në paragrafin 1. të nenit 73 të cekin se, nëse planet ose projektet paraqiten përmes mjeteve elektronike, dërguesi është i detyruar që t’i paraqes autoritetit kontraktues origjinalin fizik - ose, kur është e përshtatshme kopje të të gjitha dokumenteve, certifikatave, dëshmive dhe deklaratave që kërkohen nga autoriteti kontraktues jo më vonë se në afatin e caktuar për pranimin e planeve ose projekteve.

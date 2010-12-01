@@ -1,0 +1,5 @@
+# Neni 83
+Ftesa për tender me anë të Njoftimit Paraprak
+1. Njoftimet për kontratë që ftojnë pjesëmarrësit në procedura të kufizuar ose në procedura të negociuara pas publikimit të njoftimit për kontratë mund të zëvendësohen me një Njoftim Paraprak. Njoftimi Paraprak duhet që në çdo rast: (a) ti referohet në mënyrë specifike furnizimeve, punëve ose shërbimeve që do të jenë subjekt i kontratës që do të shpërblehet, (b) të tregojë që kontrata to të jepet në një tender që përfshinë vetëm operatorët ekonomik të ftuar.
+2. Operatoret e Shërbimeve Publike rrjedhimisht do të ftojnë të gjithë operatorët ekonomik të interesuar, së paku brenda dymbëdhjetë (12) muajve pas datës së publikimit të Njoftimit Paraprak sipas paragrafit 1. të këtij neni, të konfirmojnë interesimin e tyre në bazë të informacioneve të detajuara në kontratën përkatëse para fillimit të përzgjedhjes së tenderuesve ose pjesëmarrësve në negociata.
+3. KRPP nxjerr rregullat në lidhje me formatin dhe përmbajtjen e Njoftimit Paraprak në raste kur përdoret sipas paragrafit 1. të këtij neni si dhe informatat e kërkuara në ftesë sipas paragrafit 2. të këtij neni.

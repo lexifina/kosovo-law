@@ -1,0 +1,6 @@
+# Neni 24
+Zyrtarët e prokurimit gjatë ushtrimit të aktiviteteve të prokurimit
+1. Të gjitha aktivitetet e prokurimit janë përgjegjësi të autoritetit përkatës kontraktues pavarësisht nga shpërndarja e detyrave brenda autoritetit kontraktues sipas Nenit 22 të këtij ligji. Kjo nuk zbatohet në rastet kur Ministri i financave e ka caktuar AQP-në për kryerjen e një aktiviteti të caktuar të prokurimit sipas këtij ligji. Kurdo që AQP kryen aktivitetet e prokurimit në emër të autoritetit kontraktues, përgjegjësitë për këto aktivitete i merr përsipër AQP-ja.
+2. Autoriteti kontraktues është përgjegjës për të siguruar që të gjitha aktivitetet e prokurimit të autoritetit të tillë kontraktues të ekzekutohen në përputhshmëri të plotë me këtë ligj.
+3. Zyrtari i Prokurimit i një autoriteti kontraktues është përgjegjës që menjëherë t’i raportojë KRPP-së mbi aktivitetet e prokurimit të autoritetit përkatës kontraktues që ekzekutohen në një mënyrë që nuk është në pajtim me këtë ligj.
+4. Në rast të ndonjë arsyeje që një Zyrtar i Prokurimit nuk mund të mbajë më atë post për shkaqet e parapara në paragrafin 3. të nenit 23 të këtij ligji, autoriteti kontraktues menjëherë do të njoftoi KRPP-në. KRPP do të vendosë nëse ekziston ndonjë arsye e tillë, dhe udhëzon në bazë të rastit. Në rast të largimit të zyrtarit të prokurimit aplikohen dispozitat e Ligjit të Shërbimit Civil.

@@ -1,0 +1,6 @@
+# Neni 42
+Publikimi i njoftimeve
+1. Çdo autoritet kontraktues menjëherë do t’i dorëzojë KRPP-së versionet në të gjitha gjuhët të një njoftimi që ka përgatitur sipas nenit 39, 40 ose 41 të këtij ligji. KRPP do të vendosë rregulla që e rregullojnë dorëzimin e këtyre njoftimeve.
+2. Brenda dy (2) ditëve pasi që KRPP-ja të ketë pranuar njoftimin në fjalë nga një autoritet kontraktues sipas paragrafit 1 të këtij neni, KRPP-ja do t’i publikojë versionet në të gjitha gjuhët e njoftimit në fjalë në faqen e KRPP-së në internet dhe në Regjistrin e prokurimit Publik. KRPP mundet që brenda afatit të njëjtë kohor të kërkojë që autoriteti kontraktues të korrigjojë gabimet apo mangësitë në njoftim. Autoriteti kontraktues në rastet e përfshira me paragrafin 4. të këtij neni do të publikojë dhe qarkullojë korrigjimet.
+3. Autoriteti kontraktues do t’u dërgojë njoftimin për dhënien e kontratës, menjëherë pasi që ky të përgatitet, të gjitha operatorëve ekonomik që kanë tenderuar. Autoriteti kontraktues do t’u dërgojë operatorëve ekonomik njoftimin në fjalë, përmes mjeteve më të shpejta në dispozicion.
+4. Asnjë njoftim dhe asnjë informatë në një njoftim, nuk mund të bëhet publike ose t’i zbulohen një personi ose ndërmarrje para se të bëhet publikimi i njoftimit në fjalë në përputhshmëri me paragrafin 2. të këtij neni.

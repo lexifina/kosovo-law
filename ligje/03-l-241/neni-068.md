@@ -1,0 +1,10 @@
+# Neni 68
+Gjendja Ekonomike dhe Financiare
+1. Autoriteti kontraktues mund të kërkojë nga operatorët ekonomik që të parashtrojnë të dhëna për të treguar se ata i përmbushin kushtet minimale ekonomike dhe financiare të specifikuara në dosjen e tenderit dhe në njoftimin e kontratës. Në përgjithësi, operatorëve ekonomik u lejohet të plotësojnë këtë kërkesë duke paraqitur, nëse është me rëndësi dhe e nevojshme, një ose më shumë nga referencat e dhëna në vijim:
+1.1. raportin ose raportet përkatëse nga një ose më shumë banka;
+1.2. evidencë të një police të sigurimit të lëshuar nga një kompani e njohur e licencuar e sigurimeve;
+1.3. kopjet e certifikuara të një ose më shumë bilanceve të gjendjes ose ekstrakteve nga bilancet e gjendjes nëse kërkohet publikimi i bilanceve të tillë të gjendjes në kuadër të ligjit në vendin e themelimit të operatorit ekonomik; ose
+1.4. kopjet e raporteve financiare dhe raporteve të menaxhimit të certifikuara nga një firmë e njohur e licencuar për kontrollim.
+2. Autoriteti kontraktues do të specifikojë, në njoftimin e kontratës ose në ftesën për tender ose pjesëmarrje, se cilat nga referencat e sipërpërmendura në paragrafin 1 të këtij neni, dhe/ose referencat e tjera kërkohen prej tij.
+3. Nëse për ndonjë arsye të vlefshme, operatori ekonomik nuk është në gjendje të sigurojë referencat e kërkuara nga autoriteti kontraktues, operatorit ekonomik i lejohet që të demonstrojë gjendjen e vetë ekonomike dhe financiare përmes dokumentit tjetër që autoriteti kontraktues, në ushtrimin e diskrecionit të tij të arsyeshëm, e konsideron të përshtatshëm.
+4. Një operator ekonomik mund, kur është e përshtatshme dhe për një kontratë të veçantë, të mbështetet në kapacitetet e subjekteve të tjera, pa marrë parasysh natyrën ligjore të lidhjeve që ajo ka me ta. Ai duhet në këtë rast të dëshmojë për autoritetin kontraktues që ajo do të ketë në dispozicion burimet e nevojshme, për shembull, duke prodhuar një ndërmarrje nga ato entitete për këtë qëllim. Në kushte të njëjta, një grup i operatorëve ekonomik mund të mbështeten në kapacitetet e pjesëmarrësve në grup të subjekteve të tjera.

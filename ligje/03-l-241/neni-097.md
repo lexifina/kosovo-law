@@ -1,0 +1,3 @@
+# Neni 97
+Fshehtësia
+AQP mund të mbrojë nga përhapja në publik ose persona të paautorizuar, informacionet e përgatitura ose marra prej AQP-së gjatë kryerjes së detyrave të veta, por vetëm në masën e lejuar nga ky ligj edhe Ligji për Qasjen në Dokumentet Publike. Pavarësisht nga sa më sipër, AQP i ofron qasje dhe kopje të çdo informacioni dhe dokumenti që ka në posedim ose kontroll, duke përfshirë informacionin dhe dokumentet e fshehta, Auditorit të Përgjithshëm, KRPP, dhe/ose OSHP menjëherë pas kërkesës apo urdhrit të ndonjërit prej tyre. AQP i ofron po ashtu qasje dhe kopje të informacioneve dhe dokumenteve të tilla një gjykate kompetente nëse kjo qasje ose këto kopje kërkohen me një urdhër të nxjerrë nga kjo gjykatë.

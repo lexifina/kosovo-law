@@ -1,0 +1,9 @@
+# Article 26
+Signing of Public Contracts
+1. Except as provided for in paragraph 2 and 3 of this Article, the responsible Procurement Officer shall be the only person authorized to enter into or sign a public contract on behalf of such contracting authority. The signature confirms that the contract has been awarded in compliance with the present law.
+2. Besides the signature of the responsible procurement officer as mentioned in paragraph 1 of this Article contracts of large value of contracting authorities shall also be signed on behalf of such contracting authority by the Chief Administrative Officer, as well as the Minister or other relevant public authority concerned. The signatories designated in this Article accept the rights and obligations established by the contract and confirm that the contract is in full compliance with this Law. Contracts not signed as mentioned in paragraph 1 and 2 of this Article shall be unenforceable.
+3. If the Minister of Finance designates the CPA as the body having the authority to conduct a procurement activity, persons authorized to enter into or sign the concerned contract shall be the persons mentioned in paragraph 1 and 2 of this Article.
+4. The persons having signing authority under paragraph 1 and 2 or 3 of this Article may sign such contract only if the following conditions are met:
+4.1. at least ten (10) days have passed since the date of publication of the concerned contract award notice; provided, however, that this condition shall not apply to an emergency procurement conducted pursuant to Article 35.2.1(iii); or to procurement activity conducted pursuant to Article 36 or to minimal value contracts;
+4.2. the persons have reconfirmed that the information contained in the concerned “Statement of Needs and Determination of the Availability of Funds” is still accurate;
+4.3. the persons have received no communication from the PRB or the Court indicating that such contract should not be signed.

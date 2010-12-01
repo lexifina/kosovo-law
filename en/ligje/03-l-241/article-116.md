@@ -1,0 +1,9 @@
+## CHAPTER IV
+## PROCEEDINGS BEFORE PRB
+# Article 116
+Decision-making Procedures
+1. Matters that a complainant has identified in a notice filed pursuant to paragraph 5 and 6 Article 115 of this law, shall be reviewed and decided by PRB.
+2. The proceedings shall be conducted in accordance with the provisions of this Title IX and the rules of procedure established pursuant to Article 107 of this law.
+3. Before making a final decision on a matter, the PRB may require the contracting authority and/or the complainant to provide additional information and/or explanations. The PRB shall have the right to require any person, undertaking or public authority to submit material or evidence that it reasonably believes may have relevance to the matter. Similarly, the PRB shall have the right to require any person, undertaking or public authority to provide testimony that it reasonably believes may have relevance to the matter.
+4. On request from the complainant or the contracting authority the PRB may allow for an opportunity to present additional information and/or explanations. Paragraph 3 of this Article applies in a similar manner.
+5. If any party to the proceedings fails or refuses to participate fully in such proceedings or to comply with a requirement of this Title IX, the rules of procedure established pursuant to Article 107 of this law, or an order issued by PRB, the review panel shall reach its decision on the facts available to it and on the basis of evidence and arguments brought to its attention by those parties actively participating in the proceedings. The PRB shall have the authority to address any such refusal or failure by, as it deems appropriate: (i) deciding any concerned legal issue and/or factual matter in favour of the opposing party, and/or (ii) deciding any concerned allegation in favour of the opposing party.

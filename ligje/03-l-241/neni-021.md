@@ -1,0 +1,4 @@
+# Neni 21
+Kufizimet për zbatimin e Neneve 16-20
+1. Autoriteti kontraktues mund t’i zbatojë nenet 16-20 vetëm për qëllim të klasifikimit të një kontrate publike ose një konkursi projektimi si kontratë me vlerë të madhe, të mesme, të ulët ose minimale. Dispozitat e neneve 16-20 nuk mund të zbatohen për qëllime të tjera.
+2. Gjithashtu, të gjitha informatat në lidhje me përllogaritjen specifike ose të përgjithshme të vlerës së një kontrate publike ose një konkursi të projektimit, si dhe të gjitha informatat mbi fondet në dispozicion për financimin e kontratës ose konkursit të projektimit, nuk duhet të zbulohen para asnjë personi deri në përmbylljen e aktivitetit të prokurimit. Mirëpo, autoriteti kontraktues duhet të sigurojë këto të dhëna për KRPP-në, AQP-në, ekspertin shqyrtues, OSHP-në ose një gjykatë, menjëherë pas kërkesës së këtyre të fundit.

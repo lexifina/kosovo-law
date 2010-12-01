@@ -1,0 +1,7 @@
+# Article 62
+Termination of a Procurement Activity
+1. A contracting authority may terminate that procurement activity that does not result in the award of a contract only for one of the following reasons:
+1.1. a violation of the present law has occurred or will occur in the procurement procedure, which cannot be remedied or prevented through a lawful amendment of the procurement conditions, including cases where a provision of the present law requires the cancellation of the procurement activity
+1.2. all responsive tenders contain prices that substantially exceed the contracting authority’s budget for the procurement activity; or
+1.3. prior to the opening of tenders, the termination of the procurement activity has been made necessary due to objective and demonstrable events and/or reasons that are beyond the contracting authority’s control and that were not predictable at the time of the initiation of the procurement activity.
+2. Where a contract notice has been published and the concerned procurement procedure has been cancelled without the award of a public contract, the contracting authority shall (i) publish a cancellation notice in the form, and containing the information, required by the PPRC, and (ii) include in the procurement records required by paragraph 1 of Article 10 of this law a written statement setting forth in detail the factual reasons and legal basis for such cancellation.

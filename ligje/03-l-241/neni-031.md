@@ -1,0 +1,5 @@
+# Neni 31
+Ekzekutimi i kontratave
+1. Autoritetet kontraktuese mund të vendosin kërkesa të veçanta në lidhje me mënyrën se si kontrata duhet të ekzekutohet, me kusht që kërkesat mos të shkelin parimet e Nenit 7 dhe janë paraqitur në dosjen e tenderit. Kërkesat e tilla në lidhje me ekzekutimin e një kontrate kanë qëllim të sigurojnë një nivel të caktuar të kushteve të punës ose të mbrojtjes së mjedisit.
+2. Autoritetet Kontraktuese mund të referohen në kushtet e performancës së kontratës në veçanti atyre të cilat kanë të bëjnë me mbrojtjen e mjedisit, mbrojtjen e punëtorëve dhe kushteve të punës të cilat janë në fuqi me ligj apo rregullore në Kosovë, me kusht që këto kushte të përfshihen në shpalljen e kontratës dhe në specifikimet teknike.
+3. Një Autoritet Kontraktues mund të theksoi në dokumentacionin e kontratës organin apo organet nga të cilat një kandidat apo tenderues mund të marrë informatat e duhura për obligimet që kanë të bëjnë me tatimet, mbrojtjen e mjedisit, dispozitave të mbrojtjes së punëtorëve dhe për kushtet të cilat janë në fuqi me ligj apo rregullore në Kosovë.

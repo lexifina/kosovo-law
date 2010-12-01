@@ -1,0 +1,6 @@
+# Neni 13
+Përdorimi i gjuhëve në dokumentet e prokurimit publik
+1. Autoriteti kontraktues do ti përgatisë të gjitha dosjet e tenderëve, njoftimet, ftesat dhe dokumentet e tjera që janë publikuar ose u janë dhënë operatorëve ekonomik gjatë ushtrimit të një aktiviteti të prokurimit që shpien drejt dhënies së një kontrate ose konkursi të projektimit me vlerë minimale, të vogël dhe të mesme në gjuhën Shqipe dhe Serbe. Autoriteti kontraktues mundet që gjithashtu t’i përgatisë dokumentet në fjalë edhe në gjuhën Angleze.
+2. Autoriteti kontraktues do ti përgatisë të gjitha dosjet e tenderëve, njoftimet, ftesat dhe dokumentet e tjera që janë publikuar ose u janë dhënë operatorëve ekonomik gjatë ushtrimit të një aktiviteti të prokurimit që shpien drejt dhënies së një kontrate ose konkursi të projektimit me vlerë të madhe në gjuhën Shqipe, Serbe dhe Angleze.
+3. Kurdo që një dokument kërkohet në më shumë se një gjuhë duhet të deklarohet në faqen e parë të të gjitha dokumenteve, versioni përkatës gjuhësor që mbizotëron.
+4. Një operator ekonomik mund të paraqesë një tender, një kërkesë për pjesëmarrje apo ndonjë dokument tjetër të kërkuar apo që lejohet të plotësohet gjatë aktivitetit të prokurimit, në gjuhën Shqipe, Serbe ose në gjuhën Angleze.

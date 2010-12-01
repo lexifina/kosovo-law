@@ -1,0 +1,6 @@
+# Article 42
+Publication of Notices
+1. A contracting authority shall immediately submit to the PPRC all language versions of any notice that it has prepared pursuant to Article 39, 40 or 41 of this law. The PPRC shall establish rules governing the submission of such notices.
+2. Within two (2) days after the PPRC receives such a notice from a contracting authority pursuant to paragraph 1 of this Article, the PPRC shall publish all language versions of such notice on the PPRC’s website and in the Public Procurement Register. The PPRC can within the same time limit demand that the contracting authority rectifies mistakes and omissions in the notice. The contracting authority will in the cases covered by paragraph 4 of this Article publish and circulate corrections.
+3. A contracting authority shall dispatch a contract award notice, immediately after it has been prepared, to all economic operators that tendered. A contracting authority shall dispatch such a notice to the concerned economic operators by the most rapid means available.
+4. No notice, nor any information in a notice, may be made public or disclosed to any person or undertaking prior to its publication pursuant to paragraph 2 of this Article.
