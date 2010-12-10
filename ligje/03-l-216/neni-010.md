@@ -1,0 +1,3 @@
+# Neni 10
+Niveli i premiumit të vazhdueshëm
+Fondi do të përcaktojë nivelin e premiumit të vazhdueshëm i cili do të paguhet nga institucioni i siguruar. Niveli i një premiumi të tillë do të jetë ndërmjet 0.3% dhe 1.5% të mesatares së bilancit fillestar dhe të fundit të depozitave të siguruara për periudhën përkatëse të bilancit sipas definimit të Rregullave nga FSDK. Pjesa proporcionale e këtij premiumi vjetor do të paguhet çdo tre (3) muaj për secilin tre (3) mujor të periudhës së bilancit. Ky premium do të trajtohet si një shpenzim i institucionit financiar të siguruar që pranon depozita dhe do të tërhiqet nga llogaria e institucionit të siguruar në Banka Qendrore.

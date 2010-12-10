@@ -1,0 +1,3 @@
+# Article 10
+Level of Ongoing Premium
+The Fund shall determine the level of ongoing premium paid by the insured institution. The level of such premium will range between 0.3% and 1.5% of the average of the beginning and ending balance of insured deposits for the relevant accounting period as defined under rule by the DIFK. The pro rata annual share of this premium will be paid on a quarterly basis for each quarterly accounting period. This premium shall be treated as an expense of the insured deposit-taking Financial Institution and shall be drawn from the insured institution’s account at the Central Bank.

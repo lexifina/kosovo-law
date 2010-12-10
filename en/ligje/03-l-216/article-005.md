@@ -1,0 +1,8 @@
+# Article 5
+Deposit Coverage Limits
+1. In the case of an insured event, the Fund shall reimburse each natural or legal person for the amount of their total combined insured deposits in all accounts at the institution where the insured event in
+Kosovo took place, including accrued interest to the time of the insured event, up to the level of two thousand (2,000) Euros. In the case of a joint account the share of each depositor shall be divided equally among the account holders. If a depositor is a trustee for the account of a third party, the third party shall have the total for the deposit added to all other deposit accounts in his or her name in applying the deposit coverage limit.
+2. The amount of this reimbursement is reduced by any amounts owed to the insured deposit-taking Financial Institution that are past their scheduled due date by thirty (30) days or that are otherwise supported by documents possessing a material weakness that may impact the collection of a debt.
+3. When a purchasing transaction for the assumption of a deposit by an acquiring institution under the law in force, the Fund does not compensate that insured depositor, as it would be considered a fulfillment of the DIFK’s obligation to protect small, insured depositors.
+4. Upon presentation of evidence of ownership, a legal right to the deposit reimbursement vests if the depositor is eligible under the limits as detailed in the paragraphs 1, 2 and 3 of this Article, unless excluded under Article 6 of this Law.
+5. No provision under this Law shall be read to prevent private agreements for coverage at a greater level than vested under this Article.
