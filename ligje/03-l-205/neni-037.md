@@ -1,0 +1,8 @@
+# Neni 37
+Ankesa për Kompensimin e Dëmeve të Pësuara nga Shpronësimi i Pjesshëm
+1. Nëse në përputhje me paragrafin 3. të nenit 18 të këtij ligji, Vendimi Përfundimtar autorizon shpronësimin e një pjese të parcelës së pronës së paluajtshme dhe kjo rezulton, ose me arsye pritet se do të rezultojë, në humbjen e vlerës së pjesës së pa shpronësuar, Pronari i pjesës së pa shpronësuar ka të dreth të paraqesë ankesë sipas këtij neni dhe të kërkojë nga gjykata kompetente nxjerrjen e një aktgjykimi i cili e urdhëron Organin Shpronësues që të kompensojë humbjen e vlerës, nëse – dhe vetëm për aq sa – ky kompensim nuk është paraparë në Vendimin Përfundimtar.
+2. Nëse Organ Shpronësues është Organi Shpronësues i një Komune, ankesa duhet të paraqitet pranë gjykatës përkatëse komunale. Nëse Organi Shpronësues është Qeveria, ankesa duhet të paraqitet pranë Gjykatës Supreme të Kosovës.
+3. Ankesa duhet të paraqitet jo më shumë se tridhjetë (30) ditë kalendarike pas hyrjes në fuqi të Vendimit Përfundimtar. Nëse ankesa paraqitet pas skadimit të kësaj periudhë tridhjetë (30) ditore, ajo do të refuzohet nga gjykata.
+4. Brenda pesë (5) ditëve kalendarike pas dorëzimit të ankesës, parashtruesi i ankesës duhet të sigurojë që pesë (5) kopje të ankesës të dorëzohen fizikisht në zyrën ligjore të Organit përkatës Shpronësues. Nëse parashtruesi i ankesës nuk vepron në përputhje me këtë paragraf, gjykata e refuzon ankesën.
+5. Organi Shpronësues ka në dispozicion tridhjetë (30) ditë kalendarike pas pranimit të kopjeve të përmendura në paragrafin 4. të këtij neni që të dorëzojë përgjigjen e tij në gjykatë.
+6. Ndaj aktgjykimit të gjykatës sipas këtij neni mund të paraqitet apeli në përputhje me ligjin e aplikueshëm mbi këto apele.

@@ -1,0 +1,7 @@
+# Article 26
+Ownership
+1. As required by paragraph 8 of Article 11 of this law, no change in the ownership or other rights of Persons in or to the property shall be effected or implemented until the Final Decision becomes effective and the compensation specified in the decision has been paid in accordance with Article 16 of this law. As soon as such conditions have been fulfilled, the relevant cadastral office shall register the property in the name of:
+1.1. the concerned Municipality, if the Expropriating Authority is the Expropriating Authority of a Municipality, or
+1.2. the Republic of Kosovo, if the Expropriating Authority is the Government. The cadastral office shall also register any right of use or management sold, leased, transferred or granted pursuant to Article 14 of this law.
+2. Where necessary to effect the expropriation of a part of a parcel of immovable property, the cadastral office shall divide such parcel.
+3. Following the registration of the property in the name of the Municipality or the Republic of Kosovo, all pre-existing rights or interests in such property shall be cancelled and the cadastral office shall ensure that such cancellation is reflected in the relevant records. If, however, the expropriation decision specifically indicates that a pre-existing right or interest is to remain in effect, in whole or in part, this cancellation requirement shall not apply thereto.

@@ -1,0 +1,12 @@
+# Article 16
+Payment of Compensation
+1. Except as provided in paragraph 5 of this Article, all compensation shall be paid in Euros or another freely convertible currency.
+2. The Expropriating Authority shall pay, or shall require the applicant or anticipated Beneficiary – if any - to pay, the amount of compensation specified in the Final Decision to the affected Owners and Interest Holders. The compensation required by the Final Decision shall be:
+2.1. the amount established in the concerned valuation determination plus;
+2.2. interest on such amount that has accrued between the effective date of the Final Decision and the date of payment. Such interest shall accrue at a rate of seven percent (7%) simple annual interest and compound annually.
+3. If a Person refuses to accept such compensation, it shall be put into a trust account in such Person’s name at the CBK. If a dispute arises regarding the identity of the Person lawfully entitled to receive a payment of such compensation, that amount shall be deposited in a trust account at the CBK for a beneficiary yet to be determined, and the dispute submitted to the competent court for resolution. Any amount put into such a trust account shall be deemed to have been “paid” for the purposes of this law.
+4. If a person files a complaint with the competent court pursuant to Article 36 of this law challenging the adequacy of the compensation provided for in the Final Decision, and the court issues a judgment requiring the payment of additional compensation, the Expropriating Authority shall pay, or shall require the applicant or anticipated Beneficiary – if any - to pay, such additional compensation.
+5. If the Government is the Expropriating Authority, and the achievement of the concerned public purpose requires the expropriation of more than twenty (20) parcels of immovable property, the compensation requirement of this law may be satisfied by providing any expropriated Person who agrees with:
+5.1. immovable property having a value that is equal to the compensation owed; or
+5.2. a combination of cash and immovable property, which together have a value equal to the compensation owed.
+6. The amount of expropriation compensation specified in a Final Decision shall be paid in full within two (2) years from the effective date of the decision. If the required compensation is not paid within such time, the Person to whom such compensation is owed may thereafter file a complaint with the competent court requesting the court to issue an order revoking and canceling such decision.

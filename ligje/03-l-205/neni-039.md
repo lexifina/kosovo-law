@@ -1,0 +1,4 @@
+# Neni 39
+Kontestet tjera
+1. Ankesat dhe kontestet tjera juridike nga nenet 35, 36, 37 ose 38 të këtij ligji do të zhvillohen në përputhje me ato nene. Në rast të konfliktit ndërmjet këtyre neneve dhe dispozitave të Ligjit për Procedurën Administrative ose cilitdo ligj tjetër procedural, këto nene kanë përparësi.
+2 Të gjitha kontestet tjera juridike që rezultojnë nga një veprim ose vendim i një Autoriteti Publik sipas këtij ligji i nënshtrohen do të rregullohen në përputhje me dispozitat aplikueshme të Ligjit për Procedurën Administrative. Megjithatë, nëse një dispozitë e Ligji për Procedurën Administrative eliminon ose e kufizon në mënyrë të paarsyeshme të drejtën e Personi të ndikuar (Person i cili është ndikuar në mënyrë specifike nga një veprim ose vendim i lartpërmendur) për të paraqitur ankesë pranë gjykatës kompetente për kundërshtim e këtij veprimi ose vendimi nuk do të zbatohet.

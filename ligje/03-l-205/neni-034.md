@@ -1,0 +1,3 @@
+# Neni 34
+Kthimi i Pronës së Paluajtshme
+Pas skadimit të afatit të përcaktuar në vendimin e Qeverisë për autorizimin e shfrytëzimit të përkohshëm të pronës, organi zbatues e humb të drejtën dhe autorizimin për shfrytëzimin e pronës së paluajtshme. Organi zbatues ka për detyrë që menjëherë t’i mënjanojë të gjitha instalimet dhe objektet të cilat i ka vendosur mbi ose nën pronën e paluajtshme gjatë kohës së shfrytëzimit të saj, përveç nëse merret vesh ndryshe me Pronarin dhe – nëse është e aplikueshme – cilindo Person tjetër i cili zotëron një të drejtë të ligjshme për shfrytëzimin ose posedimin e pronës së paluajtshme.
