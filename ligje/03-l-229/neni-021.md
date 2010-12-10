@@ -1,0 +1,6 @@
+# Neni 21
+Shfuqizimi dhe Ndryshimi i Vendimit për Përqendrimin
+1. Autoriteti, sipas detyrës zyrtare ose me kërkesë të pjesëmarrësve të përqendrimit, mund ta shfuqizoj vendimin sipas nenit 20 të këtij ligji, në raste si vijon:
+1.1. kur vendimi është marrë në bazë të informatave të pasakta ose të rrejshme të cilat kanë pas ndikim vendimtar për marrjen e tij; dhe 1.2. kur ndonjëri nga pjesëmarrësit e përqendrimit nuk i ka përmbushur kushtet dhe masat në afatet kohore të specifikuar në vendimin e Autoritetit.
+2. Në vendimin bazuar në paragrafin 1., nën-paragrafit 1.1. të këtij neni Autoriteti vendosë për shfuqizimin e vendimit bazuar në nenin 14 të këtij ligji, dhe pjesëmarrësve të përqendrimit ju shqipton masa, kushte dhe afate kohore për rivendosjen e konkurrencës efektive në treg.
+3. Autoriteti sipas detyrës zyrtare ose me kërkesë të pjesëmarrësve të përqendrimit mund të ndryshojë vendimin bazuar në nenin 20 të këtij ligji, kur subjektet nuk mund të plotësojnë disa nga kushtet ose nuk mund të plotësojnë në afatet e caktuara për shkak të rrethanave që nuk kanë mund të parashikohen ose shmangen dhe nuk varen nga vullneti i subjekteve, e që në vendimin e ndryshuar përcaktohen masa të reja, kushte dhe afate kohore për rithemelimin e efektshëm të Konkurrencës.

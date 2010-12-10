@@ -1,0 +1,12 @@
+# Article 45
+Notification of Stated Facts Defined in the Procedure
+1. To provide an opportunity to parties in procedure to paragraph 2 and 3 of Article 33 to speak of all relevant facts and circumstances, the Authority, prior to scheduling a hearing session, shall provide a written notification concerning the facts in the procedure.
+2. Parties in procedure have the right to provide their comments, in written, in the notification referred to in paragraph 1 of this Article, within a one month period from the day of receiving the notification.
+3. Besides comments referred to in paragraph 2 of this Article, parties in procedure may make a written proposal to hear additional witnesses and to present additional evidence.
+4. Copy of the notification pursuant to paragraph 1 of this Article in an abbreviated form, which does not contain business secrets, the Authority by the request advices the authorized party and requests that within thirty (30) days from the date of receiving the notification, to provide its written comments to the Authority.
+5. Copy of the notification pursuant to paragraph 1 of this Article in an abbreviated form, which does not contain business secrets, the Authority by the request of the person who considers that in the procedure, for which he/she is authorized to decide on his rights and interests, advices the authorized party and requests that within thirty (30) days from the date of receiving the notification, to provide its written comments to the Authority.
+6. If, after receiving the notification pursuant to paragraph 1 of this Article, additional analysis are made, which in one way or another, find new facts or evidence that clearly change the ascertained situation, the Authority may make a decision that differs from the ascertainment in the notification pursuant to paragraph 1 of this Article.
+7. In this case, the Authority prior to making the final decision shall provide a new notification to parties in procedure, where it points out all relevant facts, circumstances and conclusions.
+8. Parties have the right to submit their written remarks and proposals within the time period determined by the Authority.
+9. In accordance to this, the Authority shall also act towards persons referred to in paragraph 4 and 5 of this Article, who shall be provided a new notification in abbreviated form.
+10. The Authority cannot base its decision on facts and circumstances on which parties in procedure have not been granted the opportunity to defend themselves.

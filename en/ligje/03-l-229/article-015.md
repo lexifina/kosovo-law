@@ -1,0 +1,10 @@
+# Article 15
+Obligation to Notify Objective for Execution of Concentration
+1. In order to obtain decision permitting concentration, pursuant to this law, concentration participants are required to submit to the Authority the objective of concentration if in a cumulative manner the following conditions have been fulfilled:
+1.1. determined incomes of all participating enterprises together, in international market, exceed one hundred (100) million Euros, based on financial reports of the financial year preceding the concentration year, and if at least one of the participants is located in the Republic of Kosovo;
+1.2. general incomes of at least two (2) participants in concentration in Kosovo domestic market, exceeds three (3) million Euros based on financial reports preceding the year of concentration.
+2. If, until the submission of notification for concentration, participants have not managed to close annual financial reports, the last year for which concentration participants have closed annual financial reports shall be considered as a meritorious year in the procedure for assessment of concentration.
+3. Incomes from sale of goods or services within the group of entrepreneurs, concerns that aim concentration are not taken into consideration in the calculation of total annual incomes as stipulated in paragraph 1 of this Article.
+4. On the occasion of concentration pursuant to Article 13 paragraph 1 of this law, dealing with joining together one or more parts of enterprises, regardless of their legal status, calculation of incomes pursuant to paragraph 1 of this Article is made only for that part of the enterprise which is subject of concentration.
+5. Two or more agreements, pursuant to paragraph 4 of this Article, which are reached between the same enterprises, within a period of two (2) years, since the date of last agreement, shall be considered as a single concentration.
+6. The Authority shall review only those applications for concentration which are obligatory for submission of the aim of realization for concentration pursuant to paragraph 1 of this Article.

@@ -1,0 +1,11 @@
+# Neni 44
+E drejta e Qasjes në Dosje
+1. Palët në procedurë kanë të drejtë të kërkojnë qasje në dosje me rastin e marrjes së njoftimit për faktet e konstatuara në procedurën paraprake sipas neni 45 të këtij ligji.
+2. Pala, me shpenzimet e veta, duhet t’i siguroj Autoritetit të gjitha dokumentet e nevojshme.
+3. Kërkesa për qasje, sipas paragrafit 1. të këtij neni, i paraqitet Autoritetit në formë të shkruar.
+4. Autoriteti cakton datën për qasje në dosje jo më vonë se pesëmbëdhjetë (15) ditë nga dita e pranimit të kërkesës së referuar në paragrafin 3. të këtij neni.
+5. Pavarësisht nga dispozitat e paragrafit 1. dhe 2. të këtij neni, nuk mund të shikohen apo të përshkruhen vendimet e Autoritetit, procesverbalet apo audio incizimet e takimeve të Komisionit, udhëzimet e brendshme dhe shënimet për rastin, të të gjitha letërkëmbimeve në mes të Autoritetit dhe institucioneve tjera për mbrojtjen e Konkurrencës të shteteve tjera dhe shoqatave të tyre, si dhe dokumentet tjera të cilat konsiderohen fshehtësi afariste sipas nenit 44 të këtij ligji.
+6. Paraqitësi i iniciativës pasi të merr konkluzionin që nuk ekziston interes publik për fillimin e procedurës nga neni 35 paragrafi 4. i këtij ligji ose nuk ka fakte për fillimin e procedurës nga neni 36 paragrafi 5. i këtij ligji respektivisht pasi të merr vendimin e Autoritetit me të cilin konstatohet se nuk është çrregulluar konkurrenca tregtare sipas dispozitave të këtij ligji neni 54 nën-paragrafi 1.9. ka të drejt qasjeje në dokumentet në të cilat është bazuar konkluzioni respektivisht vendimi i Autoritetit.
+7. Në këtë rast dispozitat e paragrafit 2., 3. dhe 4. të këtij neni vlejnë edhe në të drejtën e paraqitësit të iniciativës për qasje në dosje.
+8. Pavarësisht nga paragrafi 5. i këtij neni, personat e referuar në nenin 33 paragrafi 2. dhe 3. të këtë ligj nuk kanë të drejtë të qasjes në dosjen e dokumenteve gjatë zhvillimit të procedurës, mirëpo kanë të drejtë për ofrimin e fakteve mbi konstatimet paraprak të fakteve sipas nenit 45 të këtij ligji në formë të shkurtër, nëse kërkohet me shkrim nga Autoriteti.
+9 Kundër konkluzionit me të cilin refuzohet kërkesa për qasje në dosje ose pjesë të dosjes, nuk është e lejuar ankesa as inicimi i konfliktit administrativ.

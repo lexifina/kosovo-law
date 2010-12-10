@@ -1,0 +1,10 @@
+# Neni 17
+Njoftimi për Qëllimin e Realizimit të Përqendrimit
+1. Çdo qëllim të realizimit te përqendrimit të ndërmarrjeve nga neni 13 i këtij ligji, pjesëmarrësit e përqendrimit janë të detyruar ta njoftojnë Autoritetin kur të plotësohen kushtet e përcaktuara në nenin 15 të këtij ligji.
+2. Në rastin kur një ndërmarrje merr kontrollin apo ndikimin dominant ndaj ndërmarrjeve apo pjesë të një ndërmarrje tjetër, njoftimin për qëllimin e realizimin të përqendrimit e bënë ndërmarrja e cila merr kontrollin.
+3. Në të gjitha rastet tjera, të gjithë pjesëmarrësit e përqendrimeve, për njoftim të përqendrimit, paraqesin një njoftim në pajtim me marrëveshjen e tyre të përbashkët.
+4. Njoftimi për qëllimin e realizimit të përqendrimit duhet të dorëzohet në Autoritet për vlerësim pas lidhjes së kontratës me të cilën fitohet kontrolli për një ndërmarrje ose të një pjese të një ndërmarrjeje, respektivisht pas bërjes publike dhe para realizimit të përqendrimit.
+5. Pavarësisht nga paragrafi 4. i këtij neni, pjesëmarrësit e përqendrimit, munden edhe para nënshkrimit të kontratës respektivisht para publikimit të përqendrimit, të paraqesin njoftimin e qëllimit të përqendrimit nëse vërtetojnë se lidhja e kontratës ose bërja publike e përqendrimit do të ndodhë.
+6. Realizimi i përqendrimit të paraqitur është i lejuar vetëm pas skadimit të afatit nga neni 20 paragrafi 1. i këtij ligji respektivisht nga data e vendimit te nxjerr nga Autoriteti, me të cilin përqendrimi lejohet apo lejohet me kusht në bazë të nenit 20 nën-paragrafët 8.1 dhe. 8.2 të këtij ligji.
+7. Pavarësisht nga paragrafi 6. i këtij neni, në raste të justifikuara, dhe me kërkesën e pjesëmarrësve të përqendrimit, Autoriteti mund të lejoj realizimin e veprimeve të caktuara për realizimin e përqendrimit edhe para afatit të caktuar, respektivisht të nxjerr vendimin sipas paragrafit 6. të këtij neni.
+8. Me rastin e vlerësimit për arsyeshmërinë e marrjes së vendimit, Autoriteti merr parasysh të gjitha rrethanat e rastit, veçanërisht peshën e dëmit që mund t’u paraqiten pjesëmarrësve të përqendrimit ose palëve të treta, si dhe efekteve të konkurrencës që mund të lindin nga zbatimi i përqendrimit.
