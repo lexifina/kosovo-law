@@ -1,0 +1,5 @@
+# Neni 7
+Procedurat e kthimit vullnetar
+1. Me pranimin e kërkesës nga vendi i huaj dhe pas verifikimit se kërkesa është në pajtim me kushtet e përcaktuara në nenin 6 të këtij ligji, Ministria e Drejtësisë do të informojë kujdestarin e përkohshëm të fëmijës se larguar apo mbajtur padrejtësisht në lidhje me kërkesën dhe do të bëjë propozimin për të siguruar kthimin vullnetar të fëmijës ose për të arritur marrëveshje.
+2. Nëse kujdestari i përkohshëm nuk ndërmerr veprime brenda shtatë (7) ditëve prej datës kur e ka pranuar shkresën, Ministria e Drejtësisë inicion procedurat gjyqësore në Gjykatën e Qarkut në Prishtinë dhe është e autorizuar të veprojë në interes të kërkuesit për kthimin e fëmijës nga Kosova.
+3. Nëse Ministria e Drejtësisë, pranon kërkesën për kthimin e fëmijës nga Kosova dhe ka arsye të besojë se fëmija është në një shtet tjetër, do t’ia transmetojë në mënyrë të drejtpërdrejtë dhe pa vonesë kërkesën autoritetit qendror të këtij shteti dhe do të informojë autoritetin qendror kërkues ose kërkuesi, në varësi të çështjes.

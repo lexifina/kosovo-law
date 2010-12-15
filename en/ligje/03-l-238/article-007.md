@@ -1,0 +1,5 @@
+# Article 7
+Procedures to seek a voluntary return
+1. Upon receipt of a foreign application and upon being satisfied that the application is in accordance with the requirements in Article 6 of this law, the Ministry of Justice shall inform the temporary guardian of a wrongfully removed child about the application and suggest the voluntary return of the child or to bring about an amicable resolution.
+2. If the temporary guardian does not comply within seven (7) days from the receipt of the letter, the Ministry of Justice shall initiate court proceedings and transmit the application to the District Court of Pristina and it is authorized to act in the interest of the applicant for the return of the child.
+3. If the Ministry of Justice, which receives an application for the return of a child from Kosovo, has reason to believe that the child is in another State, it shall directly and without delay transmit the application to the Central Authority of that State and inform the requesting Central Authority, or the applicant, as the case may be.
