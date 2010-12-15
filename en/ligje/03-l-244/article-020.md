@@ -1,0 +1,3 @@
+# Article 20
+State reserve goods purchase, selling and borrowing
+Purchase of each item of the state reserve goods according to this law should be foreseen in specific manner in respective annual law for budgetary sharing. Besides, each procurement activity for purchasing such items should be conducted through open procurement procedures defined in the Law on Public Procurement. If the procurement contract is of big value, the notification of a contract shall be published in accordance wit the Law on Public Procurement and in English language in a newspaper or prestigious international magazine.

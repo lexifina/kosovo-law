@@ -1,0 +1,3 @@
+# Neni 20
+Blerja, shitja dhe huazimi i rezervave shtetërore të mallrave
+Blerja e çdo artikulli të rezervave shtetërore të mallrave sipas këtij ligji duhet të parashihet në mënyrë specifike në ligjin përkatës vjetor për ndarjet buxhetore. Përveç kësaj, çdo aktivitet i prokurimit për blerjen e këtyre artikujve duhet të bëhet përmes procedurave të hapura të prokurimit të përcaktuara në Ligjin për Prokurim Publik. Nëse kontrata e prokurimit është me vlerë të madhe, njoftimi i kontratës publikohet në pajtim me Ligjin për Prokurim Publik, dhe në gjuhën Angleze në një gazetë ose revistë prestigjioze ndërkombëtare.

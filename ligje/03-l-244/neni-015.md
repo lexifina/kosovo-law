@@ -1,0 +1,4 @@
+# Neni 15
+Ushtrimi i kompetencës gjatë gjendjes së jashtëzakonshme
+1. Ne pajtim me Kushtetutën e Republikës se Kosovës në kohë të gjendjes së luftës apo rrezikut të drejtpërdrejt të integritetit territorial të Republikës së Kosovës, Qeveria suspendon kompetencat e Departamentit lidhur me rezervat shtetërore të mallrave dhe ia bart Grupit ndërministror Qeveritar.
+2. Grupi ndërministror Qeveritar kryesohet nga Ministri i Tregtisë dhe Industrisë, në përbërje të cilit janë edhe Ministrat nga Ministria e Ekonomisë dhe Financave, Ministria e Shëndetësisë, Ministria e Forcave të Sigurisë së Kosovës, Ministria e Bujqësisë Pylltarisë dhe Zhvillimit Rural- Agjencia për veterinari dhe Ushqim, Ministria e Punëve të Brendshme, Ministria e Energjisë dhe Minierave dhe Ministria e Transportit dhe Post Telekomunikacionit.
