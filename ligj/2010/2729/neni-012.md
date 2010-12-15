@@ -1,0 +1,6 @@
+# Neni 12
+Kufizimet lidhur me bartjen e të drejtës mbi pronën e paluajtshme për nevoja publike
+1. Komuna, brenda një periudhe katër (4) vjeçare, nuk ka të drejtë t’ia jap paluajtshmërinë ose pjesë të saj e cila i është bartur komunës palëve të treta, ose ta shfrytëzojë vetë atë, ose të lejojë shfrytëzimin nga palët e treta për ndonjë qëllim tjetër përveç nevojave publike, me përjashtim të rasteve të vendimit paraprak të Bordit.
+2. Shkeljet e paragrafit 1. të këtij neni dhe në rast se komuna nuk ka pasur nevojë publike apo ka paraqitur qëllimisht të dhëna të gabueshme me rastin e bartjes të së drejtës mbi paluajtshmërinë, atëherë Bordi ka të drejtë që me vendim ta anulojë bartjen e tillë brenda katër (4) viteve të transferit.
+3. Në rast të anulimit të bartjes, paluajtshmëria i kthehet ndërmarrjes shoqërore, apo, nëse ndërmarrja shoqërore në ndërkohë është shuar, atëherë i bartet KPA-së ose pasardhësit të saj.
+4. Kompensimi i paguar nga komuna nuk kthehet dhe komuna mbetet përgjegjëse për detyrimet dhe borxhet që janë krijuar nga dita e hyrjes në fuqi të vendimit për bartjen e te se drejtës mbi paluajtshmëritë, deri në ditën e hyrjes në fuqi të vendimit gjyqësor për anulimin e bartjes.
