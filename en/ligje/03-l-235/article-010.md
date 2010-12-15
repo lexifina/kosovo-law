@@ -1,0 +1,6 @@
+# Article 10
+In Article 24 of the law in force, after paragraph 3, the following new paragraphs 4, 5, 6 and 7 shall be added:
+4. If the visitor is a Head of State in a state visit, a honoring ceremony shall be organised in the Airport or the Residency of the Presidency on the basis of the scheme approved earlier by the State Protocol and the Protocol of the Presidency.
+5. Two (2) hours after the arrival of the Head of State, his/her national flag shall be raised in a certain location on the left hand side of the flag of Kosovo. The flags of both states shall be placed in the meeting room or in smaller sizes in the meeting table.
+6. If the Head of State is not paying a state visit (transit, private, multilateral), then a honoring ceremony shall not be organised. The President of the State shall receive him, at the entrance of the Residence and escort him inside the premises. The foreign visitor shall be honored by the honorary guard. The departure shall be organised in the same way as the arrival.
+7. In cases when no official talks are being held, the meeting shall take place in the reception room sitting in faldstools. The form of participation shall be determined earlier by the Protocol of the President. State ceremonies shall be led by the State Protocol.

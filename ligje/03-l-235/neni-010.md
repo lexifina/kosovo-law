@@ -1,0 +1,6 @@
+# Neni 10
+Neni 24 i ligjit në fuqi pas paragrafit 3. shtohen katër paragrafë të ri 4., 5., 6. dhe 7. si vijon:
+4. Nëse vizitori është Kryetar Shteti ne vizitë shtetërore, organizohet për nder të tij ceremonia e nderit ne aeroport ose ne Selinë e Presidentit, sipas skemës së miratuar më parë nga Protokolli i Shtetit dhe Protokolli i Presidencës.
+5. Dy (2) orë para mbërritjes së Kreut të Shtetit mik, në vendin e caktuar ngrihet flamuri i tij kombëtar në krah të majtë të flamurit të Kosovës. Flamuj te të dy vendeve vendosën në sallën e takimit ose me përmasa të vogla në tavolinën e bisedimeve zyrtare.
+6. Nëse Kreu i Shtetit mik nuk është në vizitë shtetërore (kalimtare, private, shumëpalëshe) atëherë nuk zhvillohet ceremoni nderi. Presidenti i vendit i del përpara, e pret ne hyrje të selisë dhe e shoqëron për në brendësi të ndërtesës. Vizitori i huaj nderohet ne hyrje nga truproja e nderit. Edhe përcjellja behet ne te njëjtën mënyrë si pritja.
+7. Në rastet kur nuk zhvillohen bisedime zyrtare, takimi bëhet në sallën e pritjeve ulur në poltrona. Në këto takime formati i pjesëmarrjes përcaktohet qe me parë nga protokolli i Presidentit. Ceremonitë shtetërore drejtohen nga Protokolli i Shtetit.
