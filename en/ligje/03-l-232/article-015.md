@@ -1,0 +1,8 @@
+# Article 15
+Procedure for requesting the license for export and import
+1. An individual license is required for every import, export or transit of strategic goods or services.
+2. The global license can be issued based on authorization given to one specific exporter connected to one type or category of strategic goods and services, based on the approval of the Committee and one general license approved by the Commission and published by the Ministry. The Commission can issue licenses if the applicants undergo the conditions which it deems appropriate.
+3. Exceptional to Article 7 paragraph 2 of this law where is stated that every import or export license will be issued for a duration of six (6) months, the licenses issued based on this article is issued with duration of one (1) year. Licenses for transit issued based on the paragraph 1 of this Article will be issued with a validity of forty eight (48) hours in normal conditions immediately starting after entrance in the customs territory of Kosovo.
+4. Ministry can issue to the exporter a general license for export of the same type of goods, for one or more countries, having in mind the type of strategic goods, the type and duration of the exporting works and the country where the goods are exported.
+5. Exceptional to Article 7 paragraph 2 of this law where is stated that every import or export license will be issued for a duration of 6 months, License from the paragraph 4 of this Article is issued with the validity period up to one (1) year and can be extended for another six (6) months with the request of the exporter.
+6. Upon request by the Commission, the Ministry will draft a sub-legal acts for the application procedure.
