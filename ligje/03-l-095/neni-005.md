@@ -1,0 +1,4 @@
+# Neni 5
+1. Qytetarët e Kosovës, që, për shkak të burgosjeve politike, të presioneve edhe pas daljes nga burgu, të frikësimeve, të kanosjes, të përndjekjes, të keqtrajtimit, të diskualifikimeve shoqërore ose të formave të tjera të veprimeve të rrezikshme për ta janë detyruar ta lëshojnë Kosovën a ndonjë vend tjetër të ish Jugosllavisë, madje nëse edhe në pjesët e tjera të ish Jugosllavisë ose në mërgim, jashtë ish
+Jugosllavisë, janë burgosur dhe persekutuar për motive politike, i gëzojnë të drejtat e parapara me këtë ligj.
+2. Personat nga paragrafi 1. i këtij neni, të cilët janë privuar nga jeta në burg ose kanë vdekur si pasojë e burgosjes dhe e pasojave te konstatuara të burgosjes në Kosovë, në territorin e ish Jugosllavisë, ose në mërgim, i njihet statusi i dëshmorit dhe anëtarët - trashëgues të familjes i gëzojnë të gjitha të drejtat e përcaktuara me ligj.

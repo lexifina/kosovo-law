@@ -1,0 +1,2 @@
+# Article 8
+Persons described in Article 3 of this Law suffering from psychological, physical or psycho-physical traumas as a result of violent actions, intimidation, torture, traumas, abuse and other maltreatments during and after investigation procedure, have a right to rehabilitation, protection and health insurance in compliance with the law, except those who previously benefit from the same base.

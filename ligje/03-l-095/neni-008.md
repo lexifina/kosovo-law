@@ -1,0 +1,2 @@
+# Neni 8
+Personat nga neni 3 i këtij ligji që kanë mbetur me pasoja te faktuara psikike, fizike ose psiko-fizike, si rezultat i veprimeve të dhunshme, frikësuese, të torturës, të traumave, të keqtrajtimeve dhe të keqpërdorimeve të tjera, gjatë dhe pas procedurës hetimore, kanë të drejtë për rehabilitim, për mbrojtje dhe për sigurim shëndetësor në përputhje me ligjin, duke përjashtuar ata që janë përfshirë në ndonjë kategori përfituese mbi këtë bazë.

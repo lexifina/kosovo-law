@@ -1,0 +1,3 @@
+# Article 5
+1. Kosovo citizens, who, because of political imprisonment, pressure, threats, intimidation, victimization, abuse, social disqualifications or other oppressive actions, were forced to abandon Kosovo or any other part of former Yugoslavia, or who were imprisoned or persecuted for political reasons in any other place in former Yugoslavia or in exile, shall be entitled to the rights as foreseen by this Law.
+2. A person defined in paragraph 1 of this Article who died in prison or died as a proved consequence of imprisonment in Kosovo, in former Yugoslavia or in exile territory, shall gain the status of a martyr, and the members of the family eligible for inheritance are entitled to all the rights determined by Law.
