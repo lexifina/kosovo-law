@@ -1,0 +1,4 @@
+# Neni 46
+Dhuratat
+1. Deputeti gjatë mandatit të tij mund të pranojë dhurata, në pajtim me ligjin përkatës në fuqi.
+2. Kufizimet e parapara me paragrafin 1 të këtij neni, nuk kanë të bëjnë me shumën e mjeteve apo të gjërave të pranuara nga deputeti për përdorimin e mjeteve gratis të siguruara nga Kuvendi, partia e tij, grupi i deputetëve dhe nga ndonjë fondacion që mbështet legjislativin ose që është në lidhje të ngushtë me këtë. Shuma të këtilla dhe gjëra për përdorim gratis, duhet të regjistrohen nga deputeti si pjesë e deklaratës së tyre mbi pasurinë, të ardhurat dhe interesat e ekonomike sipas shtojcës nr. 1 të këtij ligji. Deputeti, në përfundim të mandatit, gjërat e pranuara për përdorim gratis, nuk duhet t’i mbajë në pronësi ose në përdorim të mëtejshëm të tij apo të ndonjë person i afërt i tij.

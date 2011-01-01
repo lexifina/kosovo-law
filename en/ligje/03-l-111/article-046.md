@@ -1,0 +1,4 @@
+# Article 46
+Gifts
+1. The deputy during his mandate can accept gifts in compliance with the relevant applicable law.
+2. The restrictions foreseen by paragraph 1 of this Article do not deal with the amount of means or things acknowledged by the deputy for using the means free of charge provided by the Assembly, his party, his group of deputies and by a foundation that supports the legislative or that is in close connection with this. Such sums and means for free of charge usage have to be registered by the deputy as a part of their statement on the property, income and economic interests, according to annex no. 1 of this Law. The deputy, by the end of his mandate, the means acknowledged for free of charge usage can not keep in his property or in his further use or by any person close to him.
