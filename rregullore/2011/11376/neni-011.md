@@ -1,0 +1,6 @@
+# Neni 11
+Përcaktimi i AAC-së
+11.1 Atëherë kur AAC-ja përcakton se tarifat e propozuara të aeroportit janë në pajtim me parimet e tarifave të përcaktuara në nenet 3, 4, 5, 6, 8 dhe 9, Drejtori i Përgjithshëm i AAC-së do të nxjerrë një Vendim për aprovimin e tarifave të aeroportit. Ky Vendim do të specifikojë nivelet e reja të tarifave të aeroportit të aplikueshme në aeroporte të caktuara dhe datën e hyrjes së tyre në fuqi.
+11.2 Atëherë kur AAC-ja përcakton se tarifat e propozuara të aeroportit nuk janë në pajtim me parimet e tarifave të përcaktuara në nenet 3, 4, 5, 6, 8 dhe 9, Drejtori i Përgjithshëm i AAC-së duhet të kërkojë nga operatori i aeroportit që të modifikojë propozimin e vet në pajtueshmëri me këtë Rregullore dhe ta ridorëzojë atë në AAC për aprovim.
+11.3 Me rastin e nxjerrjes së Vendimit për aprovimin e tarifave të aeroportit nga Drejtori i Përgjithshëm i AAC-së, operatori i aeroportit duhet t’u japë së paku një muaj njoftim paraprak përdoruesve për sistemin e ri të tarifave, nivelet e tyre, ndryshimin ose modulimin, nëse janë të aplikueshëm, dhe datën e hyrjes së tyre në fuqi.
+11.4 AAC-ja duhet të publikojë në faqen e saj zyrtare në internet Vendimet më aktuale mbi aprovimin e tarifave menjëherë pasi që ato të hyjnë në fuqi.

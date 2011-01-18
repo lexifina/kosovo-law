@@ -1,0 +1,8 @@
+# Neni 8
+Konsultimi
+8.1 Çdo aeroport duhet të ketë komitetin konsultativ (tani e tutje “komiteti”) përbërë nga përfaqësuesit e operatorit të aeroportit, përdoruesit e aeroportit dhe asociacionet e transportit ajror. Përdoruesit e aeroportit dhe asociacionet e transportit ajror do të përfaqësohen me të njwjtin numër sikurse përfaqësuesit e operatorit të aeroportit.
+8.2 Operatori i aeroportit duhet ta themelojë këtë komitet, t’i përcaktojë kriteret për përbërjen e tij dhe duhet ta dorëzojë dokumentin e themelimit në AAC për aprovim final.
+8.3 Komiteti duhet t’i përcaktojë termat e referencës në takimin e tij inaugurues dhe duhet t’i dorëzojë ato në AAC për aprovim final.
+8.4 AAC-ja mund të marrë pjesë në takimet e komitetit, megjithatë pa të drejtë vote. Ky komitet duhet të takohet së paku një herë në vit me qëllim të shprehjes së mendimit në lidhje me tarifat e aeroportit dhe planin investues. Ai mund të konsultohet për çfarëdo çështje që ka të bëjë me tarifat e aeroportit. Procesverbali i mbledhjes duhet të përpilohet në çdo rast.
+8.5 Operatori i aeroportit, duhet ta dorëzojë çdo propozim për modifikimin e sistemit apo nivelit të tarifave të aeroportit në komitet, me arsyetime të justifikuara në mënyrë të duhur jo më vonë se 4 muaj para datës së planifikuar të hyrjes në fuqi. Së bashku me këtë propozim, operatori i aeroportit mund të dorëzojë te komiteti edhe marrëveshjen për nivelin e shërbimit. Ky propozim fillestar duhet të dërgohet gjithashtu në AAC si një informatë paraprake jo më vonë se 4 muaj para datës së planifikuar të hyrjes në fuqi të tarifave.
+8.6 Operatori i aeroportit duhet të konsultohet me komitetin para se plani i ri për projektet e infrastrukturës të jetë finalizuar.
