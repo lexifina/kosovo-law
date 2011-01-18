@@ -1,0 +1,6 @@
+# Neni 9
+Përcaktimi i AAC-së
+9.1 Atëherë kur AAC-ja përcakton se niveli i ri ose modulimi i tarifës terminale të navigacionit është në pajtim me parimet e tarifave të përcaktuara në nenin 3, 4, 5, 6, dhe 7, Drejtori i Përgjithshëm i AAC-së do të lëshojë një Vendim për aprovimin e tarifës terminale të navigacionit. Ky Vendim do të specifikojë normën e re të tarifës terminale të navigacionit e aplikueshme në aeroportin e caktuar dhe datën e hyrjes së saj në fuqi.
+9.2 Atëherë kur AAC-ja përcakton se tarifa e propozuar terminale e navigacionit nuk është në pajtim me parimet e tarifave të përcaktuara në nenin 3, 4, 5, 6, dhe 7, Drejtori i Përgjithshëm i AAC-së duhet të kërkojë nga ofruesi i shërbimeve të navigacionit ajror që të modifikojë propozimin e vet në pajtueshmëri me këtë Rregullore dhe ta ridorëzojë atë në AAC për aprovim.
+9.3 Me rastin e nxjerrjes së Vendimit për aprovimin e tarifës terminale të navigacionit nga Drejtori i Përgjithshëm i AAC-së, ofruesi i shërbimeve të navigacionit ajror duhet t’u japë së paku një muaj njoftim paraprak përdoruesve për nivelin e ri ose modulimin, nëse është i aplikueshëm, të tarifës terminale të navigacionit dhe datën e hyrjes së saj në fuqi.
+9.4 AAC-ja duhet ta publikojë në faqen e saj zyrtare në internet Vendimin më aktual për aprovimin e tarifës terminale të navigacionit menjëherë pasi që të hyjë në fuqi.
