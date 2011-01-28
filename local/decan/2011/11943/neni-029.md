@@ -1,0 +1,3 @@
+# Neni 29
+Masa “ Largim i përkohshëm nga aktivitete të lira të nxënësve, vizita, piknikët, shëtitjet dhe ekskursionet “ i shqiptohen nxënësit :
+- nëse reflekton disa herë sjellje jo të mira, të përkufizuar në nenin 28, - për ofendim apo kundërshtim (verbal) ndaj kujdestarit të klasës ose ndaj mësimdhënësve apo personelit tjetër shkollës, gjatë apo pas orëve mësimore, brenda apo jashtë shkollës, - për dëmtim të qëllimshëm të bazës materiale, teknike dhe didaktike të shkollës, - për moszbatim të rregullave të shkollës edhe pasi ti jenë shqiptuar masat nga nenet 27 dhe 28 dhe - nëse me sjelljet e tij bëhet pengesë për zhvillimin normal të procesit mësimor apo të aktiviteteve të lira të nxënësve.

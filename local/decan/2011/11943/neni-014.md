@@ -1,0 +1,2 @@
+# Neni 14
+Shpërblimet për nxënës të merituar mund të jenë në formë : a). Libri-beletristikë: ilustracione, materiali i vlefshëm grafik, komplete stilolapsash a ma material tjetër shkollor, b). Gjëra artistike : piktura, skulptura, albume, fragmente kaliografike, etj. c). Rekuizita apo veshje sportive, respektivisht fragmente të tyre dhe ç). Në formë biletash për kino, teatër, cirk, manifestime sportive, pritje solemne, ekskursione, etj.

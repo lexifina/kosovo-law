@@ -1,0 +1,3 @@
+# Neni 31
+Masa “ Ulje të notës së sjelljes “ i shqiptohet nxënësit për sjellje tjera jokorrekte në shkollë apo jashtë saj dhe për moszbatim të rregullave të shkollës edhe pasi ti jenë shqiptuar masat nga nenet 27, 29 dhe 30, si dhe për numër të palejuar të mungesave të paarsyetuara :
+- për 8 deri 24 mungesa të paarsyetuara, nxënësit i ulet nota e sjelljes nga “ Shembullor “ në “ E mirë “ , - për 25 deri 35 mungesa të paarsyetuara, nxënësit i ulet nota e sjelljes nga “ E mirë “ në “ Jo e mirë “ dhe - për më tepër se 35 mungesa të [paarsyetuara, nxënësi përjashtohet nga shkolla për një vit shkollor.

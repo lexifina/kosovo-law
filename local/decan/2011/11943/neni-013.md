@@ -1,0 +1,2 @@
+# Neni 13
+Lavdërimet, mirënjohjet apo shpërblimet për nxënës i ndajnë dhe i dorëzojnë organet e shkollës në një mënyrë dhe në një rast sa më solemn. Lavdërimet mund të jenë në formë : a). Fletëfalenderimi, mirënjohje, plaketë, diplomë, etj, b). Lavdërim me gojë, i cili mund ti shprehet nxënësit në ndonjë rast solemn, të organizuar me rastin e ndonjë ngjarjeje domethënëse, c). Mirënjohje në formë medaljesh, shenjash,instiktivësh, simbolesh, etj.

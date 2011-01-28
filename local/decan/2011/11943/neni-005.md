@@ -1,0 +1,2 @@
+# Neni 5
+5.1 Si subjekt i rëndësishëm i bashkësisë shkollore, nxënësi i gëzon të drejtat e tij të patjetërsueshme të cilat janë të përcaktuara me aktet normative të shkollës, në pajtim me Ligjin, me Konventën e Kombeve të Bashkuara mbi të Drejtat e Fëmijës, në pajtim me Konventën Ndërkombëtare mbi Liritë dhe të drejtat e Njeriut dhe me konventat kombëtare dhe ndërkombëtare dhe me aktet tjera universale.

@@ -1,0 +1,2 @@
+# Neni 53
+Masa e shqiptuar do të ketë kuptim dhe efekt nëse përcaktohet me maturi dhe me kohë, duke pasur parasysh efektin dhe kundërefektin, moshën, psikologjinë dhe personalitetin e nxënësit, respektivisht subjekti i cili e shqipton masën duhet ta ketë parasysh individualitetin dhe veçoritë e nxënësit, karakterin dhe gjendjen emocionale dhe familjare, statusin shoqëror, rrethin ku jeton e vepron dhe rrethana të tjera.

@@ -1,0 +1,14 @@
+# Neni 9
+9.1 E drejta ti shprehë lirisht opinionet lidhur me mbarëvajtjen e punës edukativo-arsimore, kulturore, argëtuese, në shkollë, duke pasur në konsideratë :
+- kualitetin e procesit mësimor[, - përmbajtjet e korikulës shkollore, - përshtatshmërinë e teksteve lëndore shkollore, - punën profesionale-pedagogjike të mësimdhënësve, - kushtet e punës gjatë qëndrimit në shkollë m dhe Shqetësimet eventuale që e preokupojnë nxënësin, paralelen e tij , klasën e tij,organizatën e tij (subjektin e tij) apo shkollën në tërësi.
+9.2 E drejta të angazhohet për zgjedhjen e lirë (me konsensus grupi, paraleleje, klase, shkolle) të lëndëve të mësimit zgjedhor.
+9.3 E drejta ti vlerësohet dhe respektohet dinjiteti dhe të jetë i mbrojtur nga çdo formë përbuzje, dhune, denigrimi, poshtërimi apo ndëshkimi fizik a psikikë
+9.3 E drejta ti kërkojë dhe ti marrë me kohë (jo më largët se 48 orë) nga mësimdhënësi punimet e tij më shkrim provimet, hartimet, testimet, vizatimet, etj.) me qëllim që ti analizojë, përkryej apo të reflektojë për to, sidomos kur nxënësi është i pakënaqur me vlerësimin (notimin) e atij punimi.
+9.4 E drejta që, në bazë të kërkesës së pa arsyeshme të prindit, (nëse është në dobi të nxënësit), drejtori i shkollës mund ti japë leje nxënësit për dy javë mungesë nga shkolla, kurse kujdestari i klasës mund ti japë leje deri në tri ditë mungesë nga shkolla, pa arritur kërkesa deri te drejtori i shkollës.
+9.5. E drejta që, në rast pakënaqësie me cilësinë e mësimdhënies apo sjelljes jokorrekte të mësimdhënësit, gjendjen higjenik-sanitare nxënësi, nëpërmes prindit, ka të drejtë sensibilizimi të çështjes, apo të drejtë ankese :
+- te kujdestari klasës, - te drejtori i shkollës dhe - në DKA, SIA (Sektori i Inspeksionit të Arsimit) apo në MASHT.
+9.6. DKA, SIA dhe MASHT obligohen të garantojnë shqyrtimin objektiv dhe me kompetencë të . këtyre ankesave I pakënaqur me gjendjen higjenik-teknike të ambienteve mësimore, laboratorike apo prodhuese,brenda dhe jashtëshkollore, nxënësi nëpërmes prindit ka të drejtë ankese si në nenin 9.5
+9.7. Nxënësi, i cili nuk ka mundësi që në mënyrë të kënaqshme të përfitojë nga mësimdhënia e zakonshme, e gëzon të drejtën të përfshihet në formën më të përshtatshme të arsimimit special. Është detyrë e DKA që sipas mundësisë financiare ti sigurojë nxënësit këtë formë arsimimi :
+- duke hapur klasa të bashkangjitura pranë shkollave ekzistuese, - duke hapur shkolla speciale me pëlqim dhe financim nga MASHT, - duke siguruar këtë formë arsimimi në institucione të licencuara për këtë jashtë komunës së vet.
+9.8. Kujdesi veçantë duhet kushtuar fëmijëve me nevoja të veçanta, në përzgjedhjen e formës më të përshtatshme të arsimimit special, ( pas një vlerësimi profesional ) i cili duhet të jetë i barazvlefshëm me shkollimin e zakonshëm.
+III OBLIGIMET ( DETYRIMET ) E NXËNËSIT

@@ -1,0 +1,8 @@
+# Neni 6
+6.1 E drejta e arsimimit në shkollën publike apo private, të licencuara nga MASHT (të përgjithshme, profesionale, artistike) në drejtimin, në profilin, në gjuhën mësimore dhe në vendin e preferuar nga nxënësi dhe prindërit e tij, në përputhje me kualitetet e konkursit.
+6.2 Ti shfrytëzojë resurset shkollore në favor të zhvillimit me cilësi të procesit mësimor,të aktiviteteve të lira të nxënësve, qasje eksperimentale të punës praktike-prodhuese, etj.
+6.3 E drejta e të shprehurit të lirë për problemet që e shqetësojnë nxënësin, paralelen e tij, klasën e tij dhe shkollën e tij në çfarëdo forme: me gojë, me shkrim, me figura, publikisht dhe pa censurë, pa i cenuar të drejtat e të tjerëve , si dhe e drejta ti dëgjojë dhe te jetë i dëgjuar nga te tjerë
+6.4 E drejta të jetë i mbrojtur nga çfarëdo qëndrimi përbuzës e diskriminues, për arsye relevante apo të supozuara, lidhur me përkatësinë gjinore, racore, gjendjes sociale, deklarimin fetar, hendikepet fizike a psikike, opinionet politike, përkatësinë etnike, sociale, pronësore, të vendlindjes apo të rrethanave të tjera të nxënësit apo të familjes së tij.
+6.5 E drejta të ketë siguri ambientale dhe shëndetësore gjatë qëndrimit në ambientet shkollore dhe në aktivitet e organizuara jashtë objekteve shkollore.
+6.6 E drejta të shprehë mospajtim me qëndrimet e vendimet e pamatura, të ushtrojë ankesë te organet e shkollës apo në instanca më të larta të arsimit, sa herë gjykon se i është cenuar e drejta
+6.7 E drejta të avancohet në bazë të suksesit të përgjithshëm, në bazë të talentit të dëshmuar në lëmi të veçantë, në aktivitete të lira të nxënësve apo për sjellje shembullore si dhe e drejta ne stimulime – shpërblime morale dhe materiale në përputhje me normativat në fuqi.
