@@ -1,0 +1,2 @@
+# Neni 1
+Me këtë Rregullore, më afërsisht, përcaktohen përbërjet, kompetencat, përgjegjësitë dhe rregullat e punës të Komiteteve të përhershme, Komiteteve konsultative, Komisioneve të përhershme, të përkohshme dhe Komisioneve ad hoc të ngritura në Kuvendin e Komunës së Podujevës, në tekstin e mëtejmë trupat punues, mënyrat e vendosjes dhe realizimit të të drejtave dhe përgjegjësive të anëtarëve të trupave punues dhe çështje të tjera me rëndësi për punën e trupave punues.
