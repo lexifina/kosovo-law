@@ -1,0 +1,2 @@
+# Neni 2
+Neni 4 paragrafi 13.5 të Udhëzimit Administrativ NR.10/2010 teksti “Komisioni duhet të jetë pesë (5) anëtarësh dhe duhet të përbëhet nga dy (2) përfaqësues të APK-së, dy (2) përfaqësues të Departamentit të Pylltarisë dhe (1) përfaqësues i Departamentit të Zhvillimit Rural” zëvendësohet “Komisioni duhet të jetë pesë (5) anëtarësh dhe atë në përbërje: nga tre (3) përfaqësues nga APK-së, një (1) përfaqësues nga Departamenti i Pylltarisë dhe një (1) përfaqësues nga Departamenti i Zhvillimit Rural dhe Shërbimeve Këshillimore”, ndërsa teksti tjetër mbetët i njëjtë.
