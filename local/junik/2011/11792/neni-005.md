@@ -1,0 +1,2 @@
+# Neni 5
+Subjektet, tarifën e caktuar në bazë të vendimit përkatës, do ta paguajnë në afat prej 30 ditësh, nga dita e pranimit të aktvendimit. Përjashtimisht nga alineja 1. e këtij neni, ngarkesat e caktuara për operimin e firmave dhe të tatimit në pronën e qytetarëve dhe të personave juridikë, do të paguhen në 2 këste të barabarta dhe atë: Për subjekte afariste kësti i parë deri më 15 maj dhe kësti i dytë deri më 15 nëntor. Për Tatimin mbi pronën, kësti i parë deri me 30 Qershor dhe kësti i dytë deri me 31 dhjetor të vitit tatimor.

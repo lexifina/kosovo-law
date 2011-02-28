@@ -1,0 +1,2 @@
+# Neni 13
+Të gjitha subjektet ekonomike, shfrytëzuesit e hapësirave publike dhe personat tjerë, të cilët sipas dispozitave të kësaj Rregulloreje janë obligues të ngarkesave të parapara, obligohen që në afatin brenda 15 ditësh nga dita e publikimit të kësaj Rregulloreje të bëjnë paraqitjen e obligimeve të tyre. Kërkesën për lejen e punës nëse me leje nuk disponon të bëj kërkesën për marrjen e lejes për shfrytëzimin e hapësirave publike dhe të paraqes akte të tjera në pajtueshmëri me këtë Rregullore.
