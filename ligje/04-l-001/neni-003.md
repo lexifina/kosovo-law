@@ -1,0 +1,4 @@
+# Neni 3
+Ndarjet Buxhetore të Buxhetit të Përgjithshëm të Kosovës
+1. Ndarjet Buxhetore nga Fondi i Kosovës për Vitin Fiskal 2011, siç është i paraqitur në Tabelën 3.1 dhe Tabelën 4.1 të bashkangjitura këtij ligji, miratohen në bazë të këtij ligji.
+2. Ministri do të mbajë regjistrin e të gjitha ndarjeve buxhetore të miratuara, transferet e ndarjeve buxhetore dhe përshtatjet tjera të miratuara të ndarjeve buxhetore të kryera gjatë vitit Fiskal 2011 përmes SIMFK, dhe të plotësuar nëse është nevoja me regjistra tjerë. Për shqyrtimin gjashtë mujor të buxhetit për vitin 2011,për raportimin përfundimtar përbrenda tre muajsh pas përmbylljes së vitit Fiskal 2011, kurdo që kërkohet nga Kuvendi, Ministri do të prezantojë para Qeverisë dhe para Kuvendit një raport gjithëpërfshirës i cili detajon dhe barazon ndarjet e miratuara buxhetore për 2011, të gjitha transferet pasuese dhe ndryshimet tjera si dhe ndarjet buxhetore përfundimtare për vitin fiskal 2011.

@@ -1,0 +1,5 @@
+# Neni 17
+Vlerësimet buxhetore për legjislacionin e propozuar
+1. Kurdo që propozohet një ligji i ri ose ndryshim dhe plotësimi i një ligji ekzistues, Ministria ose organi propozues, paraprakisht duhet të dorëzojnë ligjin e ri ose ligjin për ndryshimin dhe plotësimin e ligjit së bashku me një deklaratë mbi ndikimin buxhetor dhe ekonomik ekzistues në Ministrinë e Financave për të cilin bëhet një vlerësim detal i ndikimit që mund të ketë legjislacioni i propozuar në Buxhetin e përgjithshëm të Kosovës dhe ekonominë kosovare.
+2. Departamenti i Buxhetit, në bashkëpunim me Departamentin e Politikave Ekonomike e shqyrtojnë këtë deklaratë dhe paraqesin opinionin e tyre të pavarur lidhur me këto çështje para Qeverisë ose Kuvendit, kur propozues është Kuvendi.
+3. Çdo iniciativë e re për shpenzime, përfshirë këtu legjislacionin e ri të propozuar, që nuk ka ndarje buxhetore të përfshirë në tabelat e bashkëngjitura, nuk do të marr ndarjen buxhetore përveç nëse zbatohen shkurtime përkatëse në ndarjet tjera buxhetore në vlerë të njëjtë.
