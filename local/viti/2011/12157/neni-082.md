@@ -1,0 +1,3 @@
+# Neni 82
+82.1-Drejtorët e drejtorive të administrates Komunale përjashtohen nga vendim-marrja në procedurat administrative, veprimet e tjera juridike apo nga punët juridiko-civile dhe raportet tjera të këtyre natyrave, në mes të Komunës dhe qytetarve,nëse ai apo ajo apo ndonjë anëtar i ngushtë i familjes së tijë apo të sajë ka ndonjë interes personal ekonomik apo financiar nga raportet e tilla
+82.2 Drejtorët e drejtorive duhet të paraqesin me shkrim qdo konflikt të interesave menjëhere para se ato të shfaqen, Kryetarit të Komunës, i cili vendos menjëher për delegim kompetence ne drejtorinë tjetër apo zyrtarin e autorizuar nga ai për vendimmarrje.

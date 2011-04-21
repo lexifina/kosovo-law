@@ -1,0 +1,2 @@
+# Neni 68
+68.1 Me qëllim të planifikimit ,administrimit dhe mbikqyrjes së strukturave të shërbimit civil Komunal të administrates komunale dhe përmbushjes së detyrimeve dhe kërkesave nga neni 7.të LSHC. Të Republikës së Kosovës lidhur me nenin 10.par.2.shkronja f të këtij statuti – konstituohet-Njësia për menagjimin dhe zhvillimin e personelit dhe të burimeve njerzore të shërbimit civil komunal –NJËSIA E PERSONELIT.

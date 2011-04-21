@@ -1,0 +1,8 @@
+# Neni 22
+22.1. Në komunë sigurohet dhe garantohet e drejta e qytetarve në qasje të lirë në dokumentet zyrtare me karakter publik. Kryetari i komunës dhe administrata Komunale sigurojnë kushtet dhe caktojnë zyrtarët kompetent për realizimin e kërkesave të qytetarëve në qasjën në dokumentet me karakter publik .
+22.2. E drejta në qasje të lirë në dokumentet zyrtare me karakter publik, mund të kufizohet vetëm në mbështetje të dispozitave të ligjit mbi qasjen në dokumentet zyrtare .
+22.3. Qasjen në dokumentet zyrtare e siguron dhe krijon kushte për realizimin e kërkesave të tilla kryetari I Komunës.
+22.4. Qasja në dokumentet zyrtare realizohet me kërkesen e subjektit të së drejtës apo të autorizuarit të tij në përputhje më dispozitat e LPA, dhe të Ligjit për qasje ne dokumentet zyrtare.
+22.5. Të gjithë personat fizik dhe juridik të cilët konsiderojnë se nga organet e zgjedhura të komuës apo nga administrata Komunale iu janë cenuar apo shkelur të drejtat e tyre, mund të paraqesin ankesa, parashtresa dhe kërkesë-sqarime, në formë të shkruar apo në procesverbal para personit të autorizuar të drejtorisë së administratës për komisionin për ankesa dhe parashtresa të qytetarve.
+22.6. Kryetari i Komunës emron një Komision për shqyrtimin e ankesave dhe të parashtresave të qytetarve në pajtim me Udhzimin Administrativ të zyres së Kryeministrit të Republikës së Kosovës Nr. 05/2006 për organizimin dhe funksionimin e zyrave për pranimin e ankesave dhe të kërkesave të qytetarve.
+22.7. Kryetari i Komunës është i detyruar që në afat sa më të shkurtër që mundet, por jo më vonë se në afat prej 60 ditësh nga data e pranimit të ankesës apo parashtesës, paraqitësit ti jep pergjegjje të shkruar dhe të arsyetuar.

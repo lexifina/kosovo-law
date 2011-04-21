@@ -1,0 +1,3 @@
+# Neni 3
+3.1. Territori dhe kufijt administrativ të Komunës së Vitisë janë përcaktuar dhe precizuar me ligjin për kufijt administrativ të Komunave, (Nr. 03/L-041, neni 6. Shtojca 1) dhe Ligjit për Katastër (Nr 2003/25).
+3.2. Mosmarrëveshjet e Komunës së Vitisë lidhur me Komunat fqinje të sajë lidhur me kufijtë administrativ të Komunës, do te zgjidhën nga Qeveria e Republikës së Kosovë, duke respektuar dhe vullnetin e qytetarëve te vendbanimeve, te cilat preken me kontestin e kufijve administrativ te komunave, kurse vendimin përfundimtarë për këtë qështje e nxjerrë Gjykata Kushtëtuese e Kosovës.

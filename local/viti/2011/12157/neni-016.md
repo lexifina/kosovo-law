@@ -1,0 +1,9 @@
+# Neni 16
+16.1. Komuna organizon takime publike me qytetarët së paku dy herë në vit njëri takim në gjashtëmujorin e par[ të vitit dhe tjetri në gjashtëmujorin e dytë të vitit në vazhdim.
+16.2. Në takimet publike me qytetarët, përfaquesit e organeve Komunale i infomojnë qytetarët për qështjet që i përkasin interesit të përbashkët për zhvillimin e jetës dhe të politikës Komunale si: infrastruktura dhe kualiteti i jetës së qytetarëve,gjendja sociale e shtresave shoqërore,investimet propercionale dhe shpërndarja investive e buxhetit komunal, dhe qështjet tjera me interes për qytetarët.
+16.3.Takimet publike janë të hapura, në to mundë të marrin pjesë të gjithë të interesuarit.
+16.4.Pjesëmarrësit në takimet publike mund të marrin iniciativa, të japin mendime për qështjet të caktuara në kuadër të fushës së kompetencave të organeve Komunale
+16.5.Vendi, koha dhe data e mbajtjes së tubimëve publike shpallet dhe publikohet në tabelën e shpalljeve në ndërtesën e Komunës dhe në vendet frekuentuese në qytetet,lagjet urbane dhe në fshatra, në ueb-faqen e Komunës si dhe në mediumet eloktronike, lokale, së paku 4-ditë para majtjes së tubimit publik. Shpalljen publike e bënë zyra për marëdhënie me publikun e cila kujdeset për organizimin e tubimëve publike.
+16.6. Takimet publike i udhëheq dhe i kryesonë Kryetari i Komunës apo përfaqësuesi i autorizuar i tij.
+16.7. Kryetari i Komunës është i autorizuar të caktojë rendin e ditës dhe procedurën dhe udhëheqjen e diskutimëve.Ne rast nevoje ka të drejtë të ndërpres diskutimet për qështjet që nuk kanë të bëjnë me përgjegjësit e Komunës, dhe për pyetjet e përseritura. .
+16.8. Nëse në tubim publik shtohet ndonjë pyetje për të cilën nuk mund të ipet përgjegjje menjëherë, parashtuesi i pyetjes ka të drejtë të kërkojë pergjegjje me shkrim mbrenda 30- ditëve pas mbajtjes së tubimit publik. Përgjigjja me shkrim duhet dhënë në afatin prej 15- ditësh pas marrjes së kërkeses së qytetarit.

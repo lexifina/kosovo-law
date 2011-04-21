@@ -1,0 +1,3 @@
+# Neni 83
+83.1 Nënpunësi civil i drejtorisë përkatëse të administratës Komunale përjashtohet nga vendim-marrja dhe procedurat administrative,lidhur me qështjet në kompetencë dhe përgjegjësi të tijë,në të gjitha qështjet në të cilën ai apo ajo ,ose ndonjë anëtar i afërm i familjes së tijë ,ka interes personal ,ekonomik apo financiar apo interes tjetër nga qështja e tillë.
+83.2 Vendimin për përjashtimin e nënpunësit civil dhe nga shkaqet e përgjithshme si në par.1.të këti neni, e merr drejtori i drejtorisë përkatëse të administratës Komunale,i cili mban evidencën zyrtare për konfliktet e interesit të nepunësve civil në drejtorinë e tij.

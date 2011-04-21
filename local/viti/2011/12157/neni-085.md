@@ -1,0 +1,3 @@
+# Neni 85
+85.1 Të gjitha vendimet në procesin e vendim-marrjes nga personat e autorizuar si në dispozitat e nenëve:81,82,dhe 83,të këtij statuti,pas konstatimit dhe vërtetimit të tyre se janë nxjerr me dashje apo nga pakujdesia e rënd me qëllim përfitimi personal ,materjal apo financiar,vendimet e tilla anulohen,dhe përsëritet procedura e nxjerrjes së tyre ,pas menjanimit të shkaqeve për nulitetin e këtyre vendimeve,
+85.2 Pas anulimit të vendimeve,veprimëve juridike dhe punëve tjera juridiko-civile,anulohen të gjitha pasojat juridike që i ka prodhuar vendimi,apo puna juridike,me konflikt interesi në brendësinë e saj.
