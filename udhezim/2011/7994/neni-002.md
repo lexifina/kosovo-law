@@ -1,0 +1,2 @@
+# Neni 2
+Neni 3 paragrafi 3.1, 3.2, 3,3, dhe 3.4 të Udhëzimit Administrativ MA-NR.03/2007 riformulohet si vijon: Paragrafi 3.1 shuma prej “20€” zëvendësohet me “10€”, teksti tjetër mbetët i njëjtë. Paragrafi 3.2 shuma prej “20€” zëvendësohet me “10€”, teksti tjetër mbetët i njëjtë. Paragrafi 3.3 shuma prej “20€” zëvendësohet me “10€”, teksti tjetër mbetët i njëjtë. Paragrafi 3.4 shuma prej “20€” zëvendësohet me “10€”, teksti tjetër mbetët i njëjtë.
