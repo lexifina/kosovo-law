@@ -1,0 +1,5 @@
+# Neni 54
+Vlefshmëria e veprimeve të mëparshme të Këshillit themeluar sipas Rregullores Administrative të UNMIK-ut 2005/52 dhe Ligjit mbi përbërjen e përkohshme të Këshillit Gjyqësor të Kosovës
+1. Të gjitha veprimet e mëparshme administrative të Këshillit të marra nën Rregulloren Administrative të UNMIK-ut 2005/52 apo në bazë të Ligjit mbi Përbërjen e Përkohshme të Këshillit Gjyqësor të Kosovës, përfshirë shpalljen e cilitdo rregull, rregullore, tarifë, direktivë apo veprimi tjetër zyrtar, do të mbetet i vlefshëm dhe në fuqi përpos nëse shfuqizohet me këtë ligj apo deri në një kohë kur veprimet e tilla Këshilli do t’i ndryshojë, shfuqizojë apo sqarojë.
+2. Të gjitha veprimet e mëparshme të Këshillit lidhur me riemërimin, transferimin apo disiplinën e gjyqtarëve mbetet i vlefshëm dhe në fuqi përpos nëse shfuqizohet përmes këtij ligji apo akti pasues ligjor.
+3. Të gjitha veprimet e mëparshme të Këshillit për personelin sa i përket emërimit, ngritjes në detyrë, transferimit apo ndërprerjes së punës së punonjësve administrativ mbetet i vlefshëm dhe në fuqi përpos nëse shfuqizohet me këtë ligj apo me veprim pasues të Këshillit.

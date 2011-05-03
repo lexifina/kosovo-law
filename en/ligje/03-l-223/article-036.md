@@ -1,0 +1,6 @@
+# Article 36
+Disciplinary Sessions
+1. Upon initiation of a disciplinary proceeding, the judge or lay judge under investigation shall be notified of the basis of the disciplinary proceeding and shall be invited by the Disciplinary Committee to appear in person at a closed session which shall be held within thirty (30) days from the notification date.
+2. A Disciplinary Counsel or the Director of the Office of Disciplinary Counsel shall present the recommendation for disciplinary action and the evidence obtained in the investigation supporting a finding of misconduct and disciplinary sanctions to the Disciplinary Committee.
+3. Judges or lay judges have the right to self-representation or to engage an attorney for their defence and shall have access to all evidence obtained in the investigation and all case writings of the case.
+4. The decision of the Committee whether misconduct occurred and whether to impose sanctions shall be made in accordance with procedures and rules to be promulgated by the Council to govern the conduct of disciplinary proceedings, shall be in writing and shall contain the justification. A copy of the decision made by the Committee shall be provided to the judge or lay judge and to the Office of Disciplinary Counsel.

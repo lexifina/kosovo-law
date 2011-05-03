@@ -1,0 +1,6 @@
+# Neni 36
+Seancat disiplinore
+1. Pasi që Komisioni Disiplinor ka marrë vendimin për inicimin e procedurës disiplinore, gjyqtari apo gjyqtari porotë nën hetim do të njoftohen për bazën e procedurës disiplinore dhe do të ftohen nga Komisioni Disiplinor që të paraqiten personalisht në një seancë të mbyllur e cila do të zhvillohet brenda tridhjetë (30) ditëve të punës nga data e njoftimit.
+2. Një këshilltar disiplinor apo drejtori i Zyrës së Këshillit Disiplinor paraqet para Komisionit Disiplinor rekomandimin për veprim disiplinor dhe provat e nxjerra gjatë hetimit të cilat mbështesin gjetjen e sjelljes së pahijshme si dhe sanksionet disiplinore.
+3. Gjyqtarët dhe gjyqtarët porotë kanë të drejtën e vet-përfaqësimit apo të caktimit të një avokati të autorizuar për mbrojtjen e tyre dhe kanë qasje në të gjitha provat e fituara gjatë hetimit dhe në të gjitha shkresat e lëndës.
+4. Vendimi i Komisionit mbi atë nëse sjellja e pahijshme ka ngjarë dhe nëse do të vendosen sanksione merret në përputhje me rregullat dhe procedurat që do shpallen nga Këshilli për qeverisjen e zhvillimit të procedurave disiplinore dhe bëhet me shkrim si dhe përmban arsyetimin. Një kopje e vendimit do t’i jepet gjyqtarit apo gjyqtarit porotë të akuzuar në procedurë si dhe Zyrës së Këshillit Disiplinor.
