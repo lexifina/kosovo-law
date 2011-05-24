@@ -1,0 +1,4 @@
+# Neni 4
+Kalibrimet e mandatuara
+Kalibrimet e mandatuara duhet të kryhen për instalimet vijuese, me procedurat e ndërlidhura, para se të futen në operim:
+a. Stacionet për gjetjen e drejtimit (VDF). b. Instalimet e komunikimit (COM) në lidhje me zonën e mbulueshmërisë. c. Sistemi për aterrim me instrumente (ILS), përfshirë sinjalin shënjues (MM/OM) ose DME. d. Lokalizuesi (LLZ) i vetëm, përfshirë sinjalet shenjuese (MM/OM) ose DME. e. Drejtimi Omni-direkcional VHF (VOR). f. Radiosinjali jo-direkcional (NDB dhe L). g. Pajisja për Matjen e Distancës (DME). h. Radiosinjali shenjues (MKR). i. Radari në lidhje me zonën e mbulueshmërisë dhe hartat. j. Ndihmat vizuale në tokë për aterrim (APAPI/PAPI/PLASI). k. Sistemet e ndriçimit për afrim (approach). l. Procedurat për fluturim vizual. m. Procedurat për fluturim me ndihmën e instrumenteve.
