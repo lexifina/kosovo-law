@@ -1,0 +1,14 @@
+# Neni 7
+Shërbimet në tokë për palët e treta
+7.1 AAC-ja do të ndërmarr hapat e nevojshëm në pajtueshmëri me aranzhimet e përcaktuara në nenin 1 për t’iu siguruar qasje të lirë në treg furnizuesve të shërbimeve në tokë që të ofrojnë shërbime në tokë për palët e treta. Aprovimi i furnizuesve të shërbimeve në tokë do të bëhet nga AAC-ja në pajtim me nenin 11 të kësaj Rregulloreje.
+7.2 AAC-ja ka të drejtë të kërkojë që furnizuesit e shërbimeve në tokë të jenë të themeluar brenda Hapësirës së Përbashkët Evropiane të Aviacionit.
+7.3 Organi menaxhues i një aeroporti mund të aplikojë me shkrim në AAC për të kufizuar numrin e furnizuesve të aprovuar në një aeroport ose në një pjesë të aeroportit deri në atë numër siç kërkohet në aplikacion, duke qenë jo më pak se 2, për ndonjë ose për të gjitha kategoritë në vijim të shërbimeve në tokë:
+- përpunimi i bagazhit, - përpunimi në platformë, - përpunimi i derivateve dhe vajrave, - përpunimi i mallrave dhe postës sa i përket trajtimit fizik të mallrave dhe postës ndërmjet terminalit ajror dhe avionit, qofshin ato në mbërritje, nisje apo transferim.
+Aplikacioni me shkrim nga organi menaxhues i aeroportit duhet të përmbajë arsyetime për kufizimet e propozuara.
+7.4 Për më tepër, së paku njëri prej furnizuesve të aprovuar mund të mos jetë i kontrolluar direkt ose indirekt nga:
+- organi menaxhues i aeroportit, - ndonjë përdorues i aeroportit i cili ka bartur më tepër se 25 % të udhëtarëve ose mallrave të regjistruara në aeroport gjatë vitit paraprak nga viti në të cilin këta furnizues janë zgjedhur, - një organ që kontrollon ose kontrollohet në mënyrë direkte ose indirekte nga ai organ menaxhues ose ndonjë përdorues i tillë.
+7.5 Në mbështetje të aplikacionit sipas paragrafit 3, AAC-ja, në konsultim me Komitetin e Përdoruesve të Aeroportit, mund të kufizojë numrin e furnizuesve të aeroportit deri në atë numër që AAC-ja e sheh të arsyeshme, duke qenë jo më pak se 2, dhe do të saktësojë:
+(i) aeroportin dhe, aty ku është e përshtatshme, pjesën e aeroportit në të cilën aplikohet, (ii) kategoritë e shërbimeve me të cilat ndërlidhet,
+(iii) numrin e furnizuesve të shërbimeve në tokë të autorizuar për furnizim me shërbime të tilla, dhe (iv) periudhën kohore për të cilën kufizimi do të aplikohet.
+7.6 Kur në bazë të paragrafit 5, AAC-ja kufizon numrin e furnizuesve të aprovuar, AAC-ja mund të mos e pengojë një përdorues të aeroportit, për cilëndo pjesë që i është caktuar atij, për të pasur një zgjidhje efektive në mes të së paku dy furnizuesve të shërbimeve në tokë, në lidhje me secilën kategori të shërbimeve në tokë që i nënshtrohet kufizimit, sipas kushteve të përcaktuara në paragrafin 3 dhe paragrafin 4.
+7.7 Në raste kur disa shërbime i janë nën-kontraktuar një furnizuesi të palës së tretë, furnizuesi i një shërbimi të tillë duhet të aprovohet gjithashtu nga AAC-ja.

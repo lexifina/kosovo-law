@@ -1,0 +1,12 @@
+# Neni 11
+Aprovimi
+11.1 Aty ku numri i furnizuesve për kategori të caktuara të shërbimeve në tokë nuk është i kufizuar si dhe për vetëshërbim në pajtim me nenin 6 të kësaj Rregulloreje, secili furnizues i shërbimeve në tokë dhe secili vetëshërbyes (secili referohet tani e tutje si “aplikues”) duhet të aplikojë me shkrim në AAC për aprovim, para angazhimit në aktivitetet e shërbimit në tokë në një aeroport.
+11.2 AAC-ja do të japë aprovim sipas kësaj Rregulloreje kur një aplikues:
+(a) është kompetent, sa i përket përvojës, burimeve financiare, pajisjeve, personelit, procedurave të mirëmbajtjes dhe operimit për të ofruar siguri e sigurim të objekteve, avionit, pajisjeve dhe personave, dhe
+(b) është i siguruar në mënyrë adekuate për të mbuluar detyrimin ndaj punonjësve, udhëtarëve, bagazhit, ngarkesës, postës dhe palëve të treta.
+(a) 1 Vendimi i Këshillit 2006/512 i datës 17 korrik 2006 që ndryshon Vendimin 1999/468/KE (EC) të datës 28 korrik 1999 që përcakton procedurat për ushtrimin e kompetencave që i janë dhënë Komisionit.
+11.3 AAC-ja duhet të përcaktojë brenda tre muajsh të hyrjes në fuqi të kësaj Rregulloreje kriteret nga paragrafi 2 i këtij neni, të aplikueshme në aeroportet që hyjnë në fushëveprimin e kësaj Rregulloreje. Këto kritere duhet të publikohen.
+11.4 AAC-ja duhet në mënyrë të vazhdueshme të monitorojë, dhe nëse është e nevojshme, të tërheqë çdo aprovim i cili është dhënë sipas kësaj Rregulloreje kur poseduesi i aprovimit dështon në plotësimin e kushteve të referuara në paragrafin 2.
+11.5 Kurdo që AAC–ja vendos ta refuzojë ose të tërheqë një aprovim të lëshuar sipas kësaj Rregulloreje, arsyeja për refuzimin ose tërheqjen e një aprovimi të tillë do t’i bëhet e njohur me shkrim furnizuesit të shërbimeve në tokë ose vetëshërbyesit në fjalë dhe gjithashtu organit menaxhues të aeroportit përkatës.
+11.6 Si përjashtim nga paragrafi 1, në rastet ku, në kohën e hyrjes në fuqi të kësaj Rregulloreje, organi menaxhues i aeroportit ofron shërbime në tokë për palët e treta, ai do të konsiderohet si furnizues i aprovuar për të gjitha kategoritë e shërbimeve në tokë të cilat i ofron në atë moment, në atë aeroport, për një periudhë kohore njëvjeçare nga hyrja në fuqi e kësaj Rregulloreje.
+11.7 AAC-ja, në pajtim me nenin 25.1 (a) të Ligjit Nr. 03/L-051 për Aviacionin Civil dhe aktet nënligjore për tarifat e ngarkuara nga AAC-ja, do të përcaktojë shkallën e tarifave që do të vendosen në lidhje me çdo aprovim të lëshuar sipas kësaj Rregulloreje.

@@ -1,0 +1,4 @@
+# Neni 8
+Infrastruktura e centralizuar
+8.1 Pavarësisht aplikimit të nenit 6 dhe 7, AAC-ja, në konsultim me Komitetin e Përdoruesve të Aeroportit, mund të rezervojë për organin menaxhues të aeroportit apo për një organ tjetër, menaxhimin e infrastrukturës së centralizuar që përdoret për furnizim të shërbimeve në tokë, kompleksiteti i të cilave, kostoja apo ndikimi hapësinor nuk lejon ndarjen ose dyfishimin, siç janë sortimi i bagazhit, shkrirja e akullit, sistemi i pastrimit të ujit dhe shpërndarjes së derivateve. Ata mund ta bëjnë të detyrueshme për furnizuesit e shërbimeve në tokë dhe për përdoruesit e aeroportit që bëjnë Vetëshërbim, përdorimin e kësaj infrastrukture.
+8.2 AAC-ja do të sigurojë që menaxhimi i kësaj infrastrukture të jetë transparent, objektiv dhe jo-diskriminues dhe, në veçanti, se kjo nuk pengon qasjen e furnizuesve të shërbimeve në tokë ose përdoruesve vetëshërbyes të aeroportit në kuadër të kufizimeve të përcaktuara në këtë Rregullore.

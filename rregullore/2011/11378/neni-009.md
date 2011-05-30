@@ -1,0 +1,16 @@
+# Neni 9
+Përjashtimet
+9.1 Kur në një aeroport, kufizimet e veçanta për hapësirën dhe kapacitetet e disponueshme, që dalin në veçanti nga mbipopullimi dhe norma e shfrytëzimit të hapësirës, e bëjnë të pamundur hapjen e tregut dhe/ose zbatimin e Vetëshërbimit deri në nivelin e përcaktuar në këtë Rregullore, AAC-ja, në konsultim me Komitetin e Përdoruesve të Aeroportit mund të vendosë:
+(a) të kufizojë numrin e furnizuesve për një ose më shumë kategori të shërbimeve në tokë, përveç atyre që referohen në nenin 7.3 në tërë aeroportin ose në ndonjë pjesë të tij; në këtë rast do të aplikohen dispozitat e nenit 7.3 dhe 7.4;
+(b) t’i rezervohen një furnizuesi të vetëm një ose më tepër kategori të shërbimeve në tokë të referuara në nenin 7.3;
+(c) të rezervojë Vetëshërbimin për një numër të kufizuar të përdoruesve të aeroportit për kategoritë e shërbimeve në tokë përveç atyre të referuara në nenin 6.2, me kusht që këta përdorues të zgjedhen në bazë të kritereve relevante, objektive, transparente dhe jo-diskriminuese;
+(d) të ndalojë Vetëshërbimin ose t’ia kufizojë atë një përdoruesi të vetëm të aeroportit për kategoritë e shërbimeve në tokë që referohen në nenin 6.2.
+9.2 Të gjitha përjashtimet në bazë të paragrafit 1 duhet të:
+(a) Saktësojnë kategorinë ose kategoritë e shërbimeve në tokë për të cilat është aprovuar përjashtimi dhe kufizimet e veçanta për hapësirën apo kapacitetet e disponueshme të cilat e arsyetojnë atë;
+(b) shoqërohen me një plan të masave të përshtatshme për tejkalimin e kufizimeve.
+Për më tepër, përjashtimet nuk duhet që:
+(i) padrejtësisht të paragjykojnë qëllimet e kësaj Rregulloreje; (ii) shkaktojnë çrregullime të konkurrencës ndërmjet furnizuesve të shërbimeve në tokë dhe/ose përdoruesve vetëshërbyes të aeroportit; (iii) zgjerohen më shumë sesa është e nevojshme.
+9.3 AAC-ja duhet të informojë Komisionin Evropian për çdo përjashtim që propozon ta aprovojë në bazë të paragrafit 1, tre muaj para se të hyjë në fuqi. Pas marrjes në konsideratë të shpjegimit për përjashtim dhe në konsultim me AAC-në, Komisioni Evropian brenda tre muajsh prej kohës së pranimit të këtij shpjegimi, mund të aprovojë ose të kundërshtojë atë, por gjithashtu mund të kërkojë nga AAC- ja që të ndryshojë shtrirjen e përjashtimit ose të kufizojë atë në ato pjesë të aeroportit ku kufizimet e dyshuara janë vërtetuar se ekzistojnë.
+9.4 Organi menaxhues i aeroportit do të informohet në lidhje me vendimin nga paragrafi 1, vendimi gjithashtu do të publikohet në faqen zyrtare të aeroportit në fjalë dhe duhet t’i vihet në dispozicion të gjithë furnizuesve të shërbimeve në tokë dhe përdoruesve të aeroportit.
+9.5 Përjashtimet e aprovuara nga AAC-ja në bazë të paragrafit 1, nuk mund të zgjasin më shumë se një periudhë tre vjeçare, përveç përjashtimeve të aprovuara nën pikën (b). Jo më vonë se tre muaj para përfundimit të kësaj periudhe, AAC-ja do të marrë një vendim të ri për çdo kërkesë për përjashtim, e i cili gjithashtu do t’i nënshtrohet procedurës së përcaktuar me këtë nen.
+9.6 Përjashtimet nën paragrafin 1(b) nuk mund të tejkalojnë kohëzgjatjen prej dy vitesh. Megjithatë, AAC-ja, në bazë të dispozitave të paragrafit 1, mund të kërkojë që kjo periudhë të zgjatet me një periudhë të vetme prej dy vitesh. Komisioni i cili i asiston Komitetit, e i cili referohet në nenin 10, do të vendosë për një kërkesë të tillë.
