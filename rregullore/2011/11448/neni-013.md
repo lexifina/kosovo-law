@@ -1,0 +1,10 @@
+# Neni 13
+Ofrimi i informatave
+13.1 Pronari apo operatori i mjetit ajror, në të cilin duhet të barten mallrat e rrezikshme, duhet t’i ofrojnë pilotit komandues sa më herët që të jetë e mundur, para nisjes së mjetit ajror, informata me shkrim ashtu siç e parashohin Instruksionet Teknike.
+13.2 Operatori, dërguesi apo ndonjë organizatë tjetër që është e përfshirë në transportimin e mallrave të rrezikshme përmes ajrit, duhet t’i ofrojë informata personelit të tyre në mënyrë që t’ua mundësojë atyre që t’i zbatojnë përgjegjësitë e tyre sa i përket transportimit të mallrave të rrezikshme, dhe duhet të ofrojë instruksione për veprimet që duhet të ndërmerren në rast të emergjencave që ndodhin e që përfshijnë mallrat e rrezikshme.
+13.3 Operatori duhet të ofrojë informata të tilla në manualin e operimeve dhe/apo manualët tjerë përkatës meqë kjo do t’ua mundësojë ekuipazhit të fluturimeve dhe punonjësve tjerë të kryejnë përgjegjësitë e tyre sa i përket transportimit të mallrave të rrezikshme. Këto informata duhet të përfshijnë instruksione për veprimet që duhet të ndërmerren në rast të emergjencave që përfshijnë mallrat e rrezikshme dhe hollësirat e lokacionit dhe sistemit të numërimit të kupeve të ngarkesave së bashku me:
+a) shumën maksimale të dyoksidit të karbonit të ngurtë në secilën kupe; dhe b) nëse duhet të bartet materiali radioaktiv, instruksionet për ngarkimin e
+mallrave të tilla të rrezikshme në bazë të kërkesave të Instruksioneve Teknike.
+Aty ku është e aplikueshme, kjo informatë duhet gjithashtu t’u ofrohet edhe agjenteve të trajtimit në tokë.
+13.4 Dokumenti i ICAO-s 9481-AN/928 Udhëzues për Reagim në Emergjenca për Incidentet e Mjeteve Ajrore të cilët përfshijnë Mallrat e Rrezikshme, duhet t’i bashkëngjitet Manualit të Operimeve të operatorit.
+13.5 Operatori duhet të sigurojë që informatat të shpallen në aso mënyre që t’i paralajmërojnë udhëtarët për llojet e mallrave të rrezikshme të cilat ndalohen t’i transportojnë në bordin e mjetit ajror, siç është përcaktuar në Instruksionet Teknike.

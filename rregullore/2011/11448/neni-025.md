@@ -1,0 +1,4 @@
+# Neni 25
+Dispozitat e sigurimit për mallrat e rrezikshme
+25.1 Masat e sigurimit për mallrat e rrezikshme që janë të aplikueshme për dërguesit, operatorët dhe individët tjerë që janë të angazhuar në transportimin e mallrave të rrezikshme përmes ajrit, që duhet të ndërmerren për të minimizuar vjedhjen apo keqpërdorimin e mallrave të rrezikshme, e të cilat mund të rrezikojnë personat, pronën apo ambientin, janë të vendosura nga Ministria e Punëve të Brendshme e Republikës së Kosovës. Këto masa janë konform me dispozitat e sigurimit të përcaktuara në Instruksionet Teknike.
+25.2 Dërguesi, pronari apo operatori i mjetit ajror, shpediteri ajror, shërbimi i trajtimit në tokë i aeroportit, depoja e ngarkesës ajrore dhe shërbimi i kateringut duhet të ndërmarrin masa të sigurimit për të zvogëluar rrezikun e vjedhjes apo keqpërdorimin e mallrave të rrezikshme nga palët e treta, duke parandaluar rrezikun ndaj njerëzve, pronës apo ambientit.
