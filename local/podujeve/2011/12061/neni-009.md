@@ -1,0 +1,3 @@
+# Neni 9
+Drejtuesi i taksisë, përkohësisht mund të ndërpresë ushtrimin e veprimtarisë së transportit taksi të udhëtarëve në kohën e:
+- pushimit mjekësor ose atij të lindjes, - aftësimit profesional ose kryerjes së funksionit publik, - shfrytëzimit të pushimit vjetor, - riparimit të automjetit me të cilin ushtron veprimtarinë e transportit taksi të udhëtarëve, në kohëzgjatje prej 15 ditësh gjatë vitit kalendarik, - paraburgimit ose vuajtjes së dënimit me burg, në kohëzgjatje deri në gjashtë (6) muaj, si dhe për kohën sa zgjat procedura e hetuesisë, përkatësisht masa e ndalimit të drejtimit të automjetit.

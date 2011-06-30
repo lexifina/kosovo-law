@@ -1,0 +1,3 @@
+# Neni 15
+Me automjet taksi nuk mund të transportohen:
+- fëmijët nën moshën gjashtë (6) vjeçare pa përcjellës, përveç nëse prindi apo kujdestari, në marrëveshje me drejtuesin e taksisë, i ka besuar fëmijën për t`a transportuar deri në vendin e caktuar, - personat nën ndikimin e alkoolit apo drogës dhe personat e sëmurë me sëmundje ngjitëse, - personat të cilët me veshmbathjen e vet do ta dëmtonin apo përlyenin brendinë e automjetit, - kufomat, - kafshë dhe shpezë të ngordhura, - materialet: eksploduese, radioaktive, helmuese, infektive, ato që ndizen lehtë dhe materiale të tjera, të cilat për shkak të vetive të veta, mund të jenë të rrezikshme për sigurinë dhe shëndetin e njerëzve, apo mund të shkaktojnë dëmtime të tjera.

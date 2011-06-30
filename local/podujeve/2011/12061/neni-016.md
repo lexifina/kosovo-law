@@ -1,0 +1,8 @@
+# Neni 16
+16.1. Pronari i automjetit taksi i cili nuk ka leje për ushtrimin e veprimtarisë së transportit taksi të udhëtarëve apo shenjën “Taxi”, përkatësisht “Radio-Taxi”, do të përjashtohet nga trafiku, nga inspektori i trafikut rrugor, përkatësisht nga punëtori i autorizuar i policisë, ashtu që do t`i merret libreza e qarkullimit dhe targat e automjetit, në kohëzgjatje prej 48 orësh, deri në 5 (pesë) ditë.
+16.2. Vendimi për përjashtimin e automjetit taksi nga trafiku i dorëzohet drejtuesit, aty për aty. Pasojat dhe shpenzimet e krijuara për shkak të aplikimit të dispozitës nga paragrafi paraprak i këtij neni, në tërësi i bart pronari i automjetit, përkatësisht drejtuesi.
+16.3. Hyrja në automjet dhe dalja e udhëtarëve nga automjeti taksi, nuk mund të bëhen në vendqëndrimet e autobusëve.
+16.4. Kur drejtuesi i automjetit taksi nuk kryen transportin taksi të udhëtarëve, përkatësisht kur përdor automjetin taksi për nevoja të veta, është i obliguar që nga kulmi i automjetit të heqë shenjën “TAXI” apo “RADIO-TAXI”.
+16.5. Automjetet taxi, të regjistruara për transportin taksi të udhëtarëve në territorin e komunave të tjera, mund të kryejnë transportin e udhëtarëve në territorin e komunës së Podujevës në rastin kur sjellin udhëtarë nga komunat tjera, por në kthim nuk guxojnë të marrin udhëtarë të rinj, ndërkaq vetëm mund t`i kthejnë udhëtarët që i kanë sjellë.
+16.6. Me automjet taksi nuk mund të transportohet numër më i madh i udhëtarëve nga numri i ulëseve të regjistruara në automjet, e as që mund të vendoset më vonë numër më i madh i ulëseve nga ato të regjistruara.
+V. VENDQËNDRIMET - STACIONET E AUTOMJETEVE TAKSI
