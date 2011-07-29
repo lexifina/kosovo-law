@@ -1,0 +1,4 @@
+# Article 5
+1. In Article 14 of the basic law, after paragraph 1 new paragraphs are added with following text:
+2. Kosovo Accreditation Directorate accepted as KAD as a member of European Accreditation Cooperation shall sign the multilateral agreement with European Cooperation for Accreditation for acceptance of accreditation certificates among member states of European Cooperation for Accreditation.
+3. For enforcement of this Law and all actions taken by Kosovo Accreditation Directorate shall be applied provisions from Article 4 to the article 14 of Regulation (EC) no 765/2008 of the European Parliament and Council on 9 July 2008 which entered into force on 1 January 2010, setting out the requirements for Accreditation and market surveillance relating to the marketing of products and repealing Regulation (EEC) No 339/93.
