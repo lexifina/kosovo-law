@@ -1,0 +1,6 @@
+# Neni 6
+Mbledhja dhe këmbimi i të dhënave të gjendjes civile me palët e treta
+1. Institucionet tjera shtetërore ose private që mbledhin dhe administrojnë baza të dhënash të personave që përmbajnë të dhëna, lidhur me gjendjen civile duhet t’i ofrojnë të dhënat në fjalë në bazë të kërkesës së Agjencisë dhe në pajtim me Ligjin për mbrojtjen e të dhënave personale.
+2. Institucionet e përcaktuara në paragrafin 1. të këtij neni janë të detyruara që t’i sigurojnë qasje të menjëhershme e të papenguar Agjencisë, në bazat përkatëse të të dhënave, ose t’i dërgojnë asaj informacionin e kërkuar jo më vonë se dhjetë (10) ditë nga marrja e kërkesës.
+3. Agjencia i përdor të dhënat e siguruara në zbatim të këtij neni, për aq sa është e nevojshme për të verifikuar dhe siguruar saktësinë e të dhënave të Regjistrit qendror të gjendjes civile. Të dhënat e siguruara nga baza alternative të dhënash nuk përbëjnë burim të drejtpërdrejtë dhe të vetëm të dhënash, në lidhje me përbërësit e gjendjes civile të shtetasve. Agjencia i përdor të dhënat në përputhje me Ligjin për mbrojtjen e të dhënave personale.
+4. Shërbimi i gjendjes civile bashkëpunon me institucionet qendrore jashtë sektorit të regjistrimit dhe me sektorin privat për këmbimin e të dhënave në përputhje me Ligjin për mbrojtjen e të dhënave personale.

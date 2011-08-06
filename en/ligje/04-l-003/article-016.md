@@ -1,0 +1,5 @@
+# Article 16
+Foreign citizens and stateless person’s civil status
+1. Foreign citizens and stateless persons, with temporary or permanent residence in the Republic of Kosovo, as well as foreign citizens who have been granted asylum in the Republic of Kosovo shall enjoy all rights under this law, except the rights, which are closely related to the citizenship of Kosovo and documentation manner specifics.
+2. The civil status of foreign citizens with temporary or permanent residence in the Republic of Kosovo and stateless persons shall be defined in relevant state documents. Civil status of foreign citizens, who have been granted asylum in the Republic of Kosovo, it’s proved by the relevant asylum body records within the Ministry of Internal Affairs.
+3. Foreign citizens or stateless persons, residing temporary / permanently, visitors or transit visitors who are in Kosovo, have the right, through the civil status service, to evidence and prove their legal facts, in the territory of Republic of Kosovo, as every citizen of Kosovo, except when there is an obstacle or a special procedure, provided by law or international agreement.

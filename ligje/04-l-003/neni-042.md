@@ -1,0 +1,8 @@
+# Neni 42
+Mënyra e mbajtjes së aktit dhe dokumentacioni i kërkuar
+1. Akti i lidhjes së martesës nënshkruhet nga bashkëshortët, në prani të jo më pak se dy dëshmitarëve. Kur bashkëshortët nuk dinë shkrim lexim ose nuk janë në gjendje fizike të nënshkruajnë, ky fakt konstatohet në procesverbal.
+2. Martesa konsiderohet e lidhur kur zyrtari i gjendjes civile vërteton identitetin e secilit prej bashkëshortëve pasi ka përfunduar procedura e shpalljes së martesës, sipas Ligjit për familjen i Kosovës.
+3. Martesa e shtetasit të huaj, që banon jashtë shtetit ose është banues i përkohshëm në Republikën e Kosovës, me shtetas të Kosovës lidhet sipas dokumenteve të shtetit, shtetas i të cilit është ose ku ka banimin e përhershëm, të lëshuar jo më parë se tre muaj nga data që kërkohet të lidhet martesa, përveç rasteve kur ka mënyra dhe një afat tjetër, të përcaktuar në marrëveshje shumëpalëshe ose dypalëshe.
+4. Për të huajt të cilët kanë përfituar azil në Republikën e Kosovës ose janë refugjatë si dhe personat pa shtetësi akti i martesës bazohet në dokumentet personale, të vërtetuara brenda pesëmbëdhjetë (15) ditëve nga organi përkatës brenda Ministrisë së punëve të brendshme ose drejtpërdrejt nga të dhënat e këtij organi.
+5. Shtetasit e huaj ose personat pa shtetësi, me qëndrim të përkohshëm në Republikën e Kosovës, mund të lidhin martesë ndërmjet tyre në një zyrë të gjendjes civile, me dëshirën e vet. Gjithashtu, martesa mund të lidhet kur njëri ose të dy janë të burgosur në Republikën e Kosovës, kur në vendin e tyre nuk mund të lidhin martesë ose nuk mund të shkohet për shkaqe objektive.
+6. Agjencia me akt nënligjor nxjerrë rregullat për veprimet, që do të kryejnë zyrtarët e shërbimit të gjendjes civile, për dokumentacionin dhe procedurën që do të ndiqet.

@@ -1,0 +1,6 @@
+# Article 6
+Collection and civil status data exchange with third parties
+1. Other state and private Institutions collecting and administrating persons’ databases containing data related to civil status should supply the data in question on the basis of the request of Agency and in accordance with the Law on Protection of Personal Data.
+2. Institutions set out in paragraph 1 of this Article are obliged to provide an immediate and undisturbed access of Agency to relevant data bases, or to send to Agency the requested information not later than ten (10) days from the request receipt.
+3. Agency uses the provided data in the application of this Article, as long as it is necessary to verify and ensure the data accuracy of the Central Civil Status Register. The provided data from alternative data bases do not contain a direct and sole source of data in connection with the components of civil status registry of citizens. Agency uses the data in accordance with the Law on Protection of Personal Data.
+4. Civil Status Service cooperates with central institutions outside of civil registration and with private sector in order to exchange data in accordance with the Law on Protection of Personal Data.

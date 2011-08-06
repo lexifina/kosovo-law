@@ -1,0 +1,8 @@
+# Article 42
+Marriage holding act and required documentation
+1. The marriage bond shall be signed by the spouses, in the presence of at least two witnesses. When spouses can’t read and write or are not physically able to sign, this fact shall be mentioned in the minutes.
+2. The marriage is considered bonded when the civil status official verifies the identity of each of the spouses after the marriage bond procedure has been completed under the Family Law of Kosovo.
+3. Marriage of a foreign citizen who lives overseas or is temporary resident in the Republic of Kosovo, with Kosovo citizens shall be bonded according to the documents issued from the state whose citizen is or where he has permanent residency, which shouldn’t be older than three months from the date the request for marriage bond has been filed, unless there is a another way and other term, set out in multilateral or bilateral agreements.
+4. For foreigners who have been granted asylum in the Republic of Kosovo, or are refugees as well as stateless persons, the act of marriage is based on personal documents, verified within fifteen (15) days from the relevant body within the Ministry of Interior or directly from the data of this body.
+5. Foreign nationals or stateless persons with temporary residence in the Republic of Kosovo could do matrimony bond among themselves in a civil status office, with their free will. Also, marriage can be bonded when one or both are imprisoned in the Republic of Kosovo, when in their country cannot get into marriage bond or for objective reasons cannot go there.
+6. Agency with sub-legal act promulgates rules for actions that will be carried out by the officials of civil status service, for documentation and procedures to be followed.

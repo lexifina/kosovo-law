@@ -1,3 +1,0 @@
-# Article 30
-30.1. If marriage has been entered between our residents in foreign states, and when it is filed a request for registering such marriage in the marriage register, the Civil Registrar in the section “on remarks” shall note: “the registration is done on (specify the date) upon the certificate issued pursuant to a marriage register (specify the body of the foreign country that has issued such certificate, its seat, number and date.)”, while in the section “place of entry into marriage” he shall note: “place and state of entry into marriage”.
-30.2. The names of foreign states shall be notes as they are noted in the document, or in accordance with Article 23, paragraph 4. The right to marriage of foreign residents

@@ -1,0 +1,7 @@
+# Article 45
+Actions on occasion of a marriage bond
+1. The act of marriage bond shall be registered in the Principal Civil Status registry of each spouse when their registry is in the same office. When one or two of the spouses have their basic civil registry in different offices, then civil status official is authorized to inform the other relevant office / offices on information that act of marriage contains.
+2. When the civil status office finds from the register of a marriage bonded not in that office, that during the drafting of the marriage act, legal constraints were not considered, the Law was respected or it was acted in contradiction to it, then with no action undertaken the documents should be send back to the sending office, with appropriate explanations.
+3. The marriage act, translated and notarized shall, through the diplomatic and consular representation office, be sent to the competent body where one or two spouses are registered in the Principal Civil Status register.
+4. If there are no conditions for registration as per paragraph 3 of this Article, the registration shall be done directly in the civil status service according to the place of residence.
+5. The religious marriages cannot be registered in the Principal Civil Status registry according to the present law. Any other provision that is in contradiction to the present article shall be considered invalid.

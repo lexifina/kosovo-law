@@ -1,0 +1,3 @@
+# Neni 60
+Detyrat e shërbimit të gjendjes civile në përfaqësitë diplomatike dhe konsullore
+Veprimet, të cilat kryhen nga zyrtarët e shërbimit konsullor, që mbulojnë çështjet e shërbimit të gjendjes civile në përfaqësitë diplomatike dhe konsullore të Kosovës, duhet të përmbushin kriteret e përcaktuara nga ligji në fuqi. Këta zyrtar janë zyrtar të gjendjes civile dhe e kanë të dhënë provimin profesional të përcaktuar me paragrafin 2. të nenit 61 të këtij ligji. Ata administrojnë dokumentacionin dhe kryejnë veprime në Regjistrin e gjendjes civile për shtetasit e Kosovës, që janë me banim të përhershëm jashtë Kosovës, sipas përcaktimeve të bëra në këtë ligj dhe në dispozitat e tjera ligjore.

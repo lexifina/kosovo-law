@@ -1,0 +1,5 @@
+# Article 20
+Birth, Marriage and Death Acts
+1. Birth, marriage and death acts are filled out and presented in special acts in electronic form and printed only by the official of civil status service, after having managed directly, basic documents or personally received statements for facts of birth, marriage or death in accordance with the requirements of the legislation in force. These acts are kept, for each event, in chronologic order.
+2. Acts of birth, marriage and death for foreign nationals and stateless persons, permanently residing in the Republic of Kosovo, are kept at the Civil Status office. These acts are kept accountable by the official of civil status service and reflected in the Civil Status Central Registry.
+3. Acts of birth, marriage and death, kept abroad, the diplomatic or consular service of the Republic of Kosovo, for citizens of the Republic of Kosovo or foreign nationals or stateless persons, residing temporary or permanently in the Republic of Kosovo, will be submitted by the Ministry of Foreign Affairs in the Agency, till the January 20th of the coming year.
