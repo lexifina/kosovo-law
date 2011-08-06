@@ -1,0 +1,5 @@
+# Article 17
+1. Article 37 paragraph 37.3 of basic law is deleted and replaced with the following text:
+37.3. If a foreign trading association is obliged according to paragraph 1 of this Article to register at the Business Registration Agency, the authorized person should sign and deliver KBRA the “decision of the foreign trading association”, which comprises these data:
+2. Article 37 paragraph 37.3 point b) of basic law is deleted and replaced with the following text:
+b) Registration certificate of the foreign association at the place of origin or the document, which is equivalent to registration certificate, which should be original or notarized, not older than three (3) months from the date of issue and confirms regular establishment of foreign trading association in that jurisdiction. If the certificate is not in Albanian, Serbian or English Language, the same one should be translated into one of these three languages and translation should be notarized. This document should be attached to the decision;
