@@ -1,0 +1,6 @@
+# Neni 12
+Tarifat për Inspektime në lidhje me Mallrat e Rrezikshme
+12.1 AAC-ja do të ngarkojë dhe mbledhë tarifa për një inspektim me qëllim të sigurimit të përputhshmërisë me dispozitat e Titullit III, Pjesa 2, Kreu VI (Transportimi i Mallrave të Rrezikshme) të Ligjit Nr. 03/L-051 për Aviacionin Civil, dhe nenit 23 të Rregullores Nr. 6/2011, të datës 25 maj 2011, për transportimin e mallrave të rrezikshme përmes ajrit, në shumën prej (€) 400.
+12.2 AAC-ja do të ngarkojë dhe mbledhë tarifa për inspektim me qëllim të autorizimit të operatorit të transportit komercial të mallrave për të bartur mallra të rrezikshme, sipas kushteve të Certifikatës së Operatorit Ajror, në shumën prej (€) 400.
+12.3 AAC-ja do të ngarkojë dhe mbledhë tarifa për inspektim me qëllim të autorizimit të operatorit të transportit komercial të udhëtarëve për të bartur mallra të rrezikshme, sipas kushteve të Certifikatës së Operatorit Ajror, në shumën prej (€) 400.
+12.4 AAC-ja do të ngarkojë dhe mbledhë tarifa për aprovim dhe ripërtëritje të aprovimit të kursit trajnues për mallrat e rrezikshme për personat të cilët aplikojnë për aprovimin për të dërguar apo transportuar mallra të rrezikshme, në shumën prej (€) 400.

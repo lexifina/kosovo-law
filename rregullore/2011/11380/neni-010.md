@@ -1,0 +1,3 @@
+# Neni 10
+Tarifat për inspektimin e mjetit ajror për të përcaktuar nëse ka vlefshmëri ajrore
+AAC-ja do të ngarkojë dhe mbledhë tarifa për inspektim, kur bëhet aplikimi nga pronari i mjetit ajror (duke mos qenë inspektim i bërë me qëllim të lëshimit apo ripërtërirjes apo miratimit të certifikatës së vlefshmërisë ajrore apo lëshimit të certifikatës së vlefshmërisë ajrore për mjetin ajror që është i dedikuar për eksport) me qëllim të sigurimit që mjeti ajror ka vlefshmëri ajrore dhe i plotëson kërkesat për lëshimin e certifikatës së vlefshmërisë ajrore, ashtu siç është e përshtatshme për mjetin ajror në fjalë, sipas nenit 5 të kësaj Rregulloreje.
