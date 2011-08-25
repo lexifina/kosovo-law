@@ -1,0 +1,6 @@
+# Neni 16
+Mirëmbajtja e pajisjeve dhe mjeteve
+1. Pronarët e objekteve, pjesëve të objekteve dhe mjedisit, janë të obliguar të mirëmbajnë në gjendje të rregullt pajisjet, instalimet, ventilimet e gazrave, oxhaqet si dhe pajisjet e tjera, të cilat paraqesin rrezik për zgjerimin e zjarrit në harmoni me normativat teknike dhe udhëzimet e prodhuesve për të cilat duhet të ketë dokumentacion.
+2. Për instalimin e pajisjeve stabile të destinuara për lajmërimin dhe fikjen e zjarrit, detektimin e gazrave dhe avujve të ndezshëm, si dhe pajimet tjera mbrojtëse dhe instalimeve të cilat shërbejnë për evitimin e shkaktimit dhe zgjerimin e zjarrit dhe shpërthimit, kryesi i punëve është i detyruar të siguroj dëshminë nga prodhuesi për funksionim të rregullt të tyre, dhe procesverbalin mbi verifikimet e kryera nga personi juridik i autorizuar, dhe t’i jepet në shikim komisionit nga paragrafi 2. i nenit 14 të këtij ligji.
+3. Pronarët dhe shfrytëzuesit e objekteve, pjesëve të objekteve dhe mjedisit, obligimet e përcaktuara si në paragrafin 1. dhe 2. të këtij neni i rregullojnë me marrëveshje përmes kontratës, në pajtim me ligjet në fuqi.
+4.Në qoftë se nuk mund të vërtetohet pronari nga paragrafi 1. i këtij neni, obligimet e përcaktuara i bien në barrë shfrytëzuesit.
