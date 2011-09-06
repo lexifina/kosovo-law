@@ -1,0 +1,3 @@
+# Neni 62
+Ndalimi i përdorimit të dizajnit komunitar
+Nëse përdorimi i dizajnit komunitar, efekti i të cilit është përcaktuar në nenin 59 të këtij ligji, është në kundërshtim me përdorimin e dizajnit kombëtar të regjistruar para hyrjes së Republikës së Kosovës në Bashkimin Evropian, ose me aplikimin për dizajn kombëtar të regjistruar para hyrjes së Republikës së Kosovës në Bashkimin Evropian, pronari i dizajnit kombëtar mund të fillojë procedurën për ndalimin e përdorimit të dizajnit komunitar në Republikën e Kosovës dhe zgjerimin e së drejtës së dizajnit në territorin e Republikës së Kosovës. Pronari dëshmon që dizajni komunitar është në kundërshtim me dizajnin kombëtar.

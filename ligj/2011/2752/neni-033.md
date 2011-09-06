@@ -1,0 +1,5 @@
+# Neni 33
+E drejta e përparësisë
+1. Nëse aplikuesi për dizajn industrial ka paraqitur aplikacionin për herë të parë në ndonjë vend anëtar të Unionit të Parisit të themeluar me Konventën e Parisit për mbrojtjen e pronës industriale, me rastin e aplikimit për të njëjtin dizajn industrial në Republikën e Kosovës, mund të thirret në datën e aplikimit të parë, me kusht që aplikimin në Kosovë ta bëjë brenda afatit prej gjashtë (6) muajsh nga kjo datë.
+2. Aplikuesi që thirret në të drejtën e përparësisë sipas paragrafit 1. të këtij neni, Zyrës do ti paraqesë të dhënat themelore për aplikimin në të cilin thirret, shtetin, datën dhe numrin e aplikacionit, brenda afatit prej tre (3) muajsh nga data e aplikimit në Zyrë, duke prezantuar përshkrimin e aplikiacionit të parë të vërtetuar nga organi i autorizuar i shtetit anëtar të Unionit të Parisit si dhe përkthimin e përshkrimit.
+3. Nëse paraqitësi i aplikacionit nuk i përmbush kushtet konform paragrafit 1. të këtij neni, konsiderohet se e drejta e përparësisë nuk është kërkuar.

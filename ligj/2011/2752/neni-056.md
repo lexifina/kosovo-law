@@ -1,0 +1,5 @@
+# Neni 56
+Bashkimi i kërkesave për anulimin e dizajnit
+1. Në rast të parashtrimit të kërkesës për anulimin e dizajnit të regjistruar, të paraqitur gjatë periudhës së mbrojtjes dhe derisa Zyra nuk ka marrë ende vendim, personi i tretë i cili dëshmon se kundër tij është filluar procedurë gjyqësore për shkak të shkeljes së dizajnit të njëjtë si dhe parashtruesi i kërkesës për anulim, mund të bashkohen si palë në procedurën për anulimin e dizajnit, me kërkesë të parashtruar Zyrës.
+2. Bashkimi i palëve në procedurë sipas paragrafit 1. të këtij neni, zbatohet edhe në rastet kur pala e tretë dëshmon që pronari i të drejtës së dizajnit industrial ka kërkuar që ai të ndërpresë shkeljen e dyshuar të dizajnit dhe se pala e tretë ka filluar procedurën për të vërtetuar se ai nuk ka shkelur dizajnin.
+3. Kërkesa e përbashkët e palëve paraqitet me shkrim dhe përfshinë deklarimin e arsyeve të kërkesës. Kërkesa nuk do të shqyrtohet derisa të mos jetë paguar tarifa e përcaktuar në nenin 54 paragrafi 3. të këtij ligji.

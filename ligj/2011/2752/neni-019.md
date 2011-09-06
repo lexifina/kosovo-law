@@ -1,0 +1,6 @@
+# Neni 19
+E drejta në bazë të përdorimit të mëhershëm të dizajnit
+1. Të drejtën në dizajn në bazë të përdorimit të mëhershëm e ka personi i tretë, i cili mund të argumentoj se para datës së paraqitjes së aplikacionit për dizajn, apo para datës së përparësisë nëse është kërkuar, në territorin e Republikës së Kosovës ka filluar në mirëbesim përdorimin e dizajnit apo ka kryer përgatitje paraprake me qëllim të përdorimit dhe nëse dizajni i tillë nuk është krijuar me kopjimin e dizajnit të mbrojtur më parë.
+2. Personi i tretë, në bazë të përdorimit të mëhershëm, ka të drejtën e përdorimit të dizajnit për qëllime për të cilat është përdorur para datës së paraqitjes të aplikacionit për dizajn apo para datës së njohjes së të drejtës së përparësisë, nëse përparësia është kërkuar.
+3. Personi i cili ka të drejtë në dizajn në bazë të përdorimit të mëhershëm nuk mundet që personave të tjerë t’u lëshoj licencë për përdorimin e dizajnit.
+4. E drejta në bazë të përdorimit të mëhershëm nuk mund të bartet, përveç kur personi i tretë është një ndërmarrës dhe dizajni bartet bashkë me bartjen e ndërmarrjes në kuadrin e së cilës janë ndërmarr veprimet e përdorimit apo të zbatimit sipas paragrafit 1. të këtij neni.

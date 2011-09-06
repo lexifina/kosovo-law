@@ -1,0 +1,5 @@
+# Neni 34
+E drejta e përparësisë nga ekspozimi
+1. Nëse aplikuesi ka bërë ekspozimin e produktit që përbën dizajn industrial në ndonjë ekspozitë zyrtare ose në ndonjë ekspozitë ndërkombëtare zyrtarisht të pranuar në Kosovë ose në ndonjë shtet anëtar të Unionit të Parisit, mund të kërkoj që si datë e aplikimit të parë ti pranohet data e parë e ekspozimit të produktit, me kusht që paraqitjen e aplikacionit në Kosovë ta bëjë brenda afatit prej gjashtë (6) muajsh nga data e ekspozimit.
+2. Aplikuesi i cili thirret në të drejtën e përparësisë në bazë të datës së ekspozimit të produktit, është i detyruar që krahas aplikacionit në Zyrë të paraqes edhe vërtetimin e lëshuar nga ana e organit kompetent të shtetit anëtar të Unionit të Parisit, në të cilin vërtetohen të dhënat për llojin e ekspozitës, vendin e mbajtjes së ekspozitës, datën e hapjes dhe mbylljes, ditën e parë të ekspozimit të produktit të emërtuar në aplikacion si dhe dëshmi për dizajnin e produktit të paraqitur në ekspozitë.
+3. Nëse paraqitësi i aplikacionit nuk i përmbush kushtet konform paragrafit 2. të këtij neni, konsiderohet se e drejta e përparësisë nuk është kërkuar.
