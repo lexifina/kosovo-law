@@ -1,0 +1,5 @@
+# Article 83
+A Community trade mark as an earlier trade mark
+1. Within the meaning of Article 7 of this Law, an application for a Community trade mark and a Community trade mark shall be earlier trademarks compared to national applications for registration of Trademarks which are filed, as well as national Trademarks which are acquired on such applications after the day of the acceptance of the Republic of Kosovo into the full membership of the European Union.
+2. Within the meaning of Article 7 sub-paragraph 2.1.3. of this Law, an earlier Community trade mark having reputation in the European Union shall be taken into consideration in accordance with the provisions of Article 9, paragraph (1), point (c) of the Regulation on the Community trade mark .
+3. A national trade mark may not be declared to be invalid for the reason of being in conflict with an earlier Community trade mark, if such earlier Community trade mark fails to fulfill the conditions of use provided for in Article 15 of the Regulation on the Community trade mark.

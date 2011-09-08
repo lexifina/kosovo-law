@@ -1,0 +1,5 @@
+# Article 36
+Proof of use of the earlier trade mark
+1. If the applicant so requests, the holder of an earlier trade mark who has given notice of opposition shall have to furnish proof that, during the period of five (5) years preceding the date of publication of the application for registration of a trade mark, the earlier trade mark has been put to genuine use in the Republic of Kosovo in connection with the goods or services in respect of which it is registered and which he cites as justification for his opposition, or that there are proper reasons for non-use, provided the earlier trade mark has at that date been registered for not less than five (5) years.
+2. In the absence of proof that the earlier trade mark is used the opposition shall be rejected.
+3. If the earlier trade mark has been used in relation to only a part of the goods or services for which it is registered it shall, for the purposes of the examination of the opposition, be deemed to be registered in respect only of that part of the goods or services.

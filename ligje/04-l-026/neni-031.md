@@ -1,0 +1,6 @@
+# Neni 31
+Ekzaminimi lidhur me bazat absolute të refuzimit
+1. Kur marka tregtare sipas nenit 6 të këtij ligji nuk mund të regjistrohet për disa apo të gjitha mallrat apo shërbimet e mbuluara nga aplikimi për regjistrimin e markës tregtare aplikimi refuzohet për ato mallra apo shërbime.
+2. Kur marka tregtare përmban ndonjë element që nuk është i dallueshëm dhe len dyshime sa i përket sferës së mbrojtjes, zyra mund të kërkojë si kusht për regjistrim që paraqitësi të deklarojë se ai heq dorë nga e drejta ekskluzive mbi atë elementi. Çdo heqje dore publikohet së bashku me aplikimin apo regjistrimin e markës tregtare.
+3. Aplikuesi ka të drejtë që brenda gjashtëdhjetë (60) ditëve nga data e pranimit të njoftimit me shkrim për shkaqet e refuzimit për disa apo të gjitha mallrat apo shërbimet e mbuluara nga aplikacionit, të paraqes vërejtjet dhe të kërkojë plotësimin e aplikacioni dhe /ose të paraqesë dëshmi për faktet e reja të mundshme që do të mund të ndikonin në vendimin përfundimtarë të zyrës për refuzimin e aplikimit për regjistrim.
+4. Ky afat kohor mund të zgjatet me kërkesën e aplikuesit, pas pagesës së tarifës e cila duhet të bëhet brenda afatit kohor të përmendur në paragrafin 3. të këtij neni, ky afat kohor mund të zgjatet për më së shumti gjashtëdhjetë (60) ditë të llogaritura nga data e kalimit të atij afati kohor.

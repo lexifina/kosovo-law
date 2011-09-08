@@ -1,0 +1,4 @@
+# Article 87
+Prohibition of use of a Community trade mark
+1. If the use of a Community trade mark referred to in Article 83 of this Law conflicts with the use of a national trade mark acquired before the day of the acceptance of the Republic of Kosovo into the full membership of the European Union, or acquired on a national application, filed before the day of the acceptance of the Republic of Kosovo into the full membership of the European Union, the holder of such national trade mark may institute a legal action, claiming prohibition of the use in the Republic of Kosovo of the Community trade mark, the effect of which is, in accordance with Article 83 of this Law, extended to the territory of the Republic of Kosovo.
+2. The plaintiff shall prove that the Community trade mark conflicts with his/her national trade mark.

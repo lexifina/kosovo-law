@@ -1,0 +1,4 @@
+# Article 76
+Opposition to the international registration
+1. International registration designating the Republic of Kosovo shall be subject to opposition in the same way as a published national application for the registration of a trade mark, except that the publication of the application prescribed in Article 32 of this Law shall be replaced by the publication in the official gazette of international registrations published by the International Bureau (hereinafter referred to as: the WIPO gazette) and the time limit for filing the opposition shall run from the first day of the month following the month indicated on the publication of the WIPO.
+2. The provisions of paragraph 1 of this Article shall also apply in respect of the observations of third parties pursuant to Article 33 of this Law on an international registration designating the Republic of Kosovo.

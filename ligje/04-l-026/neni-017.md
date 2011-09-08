@@ -1,0 +1,7 @@
+# Neni 17
+Licencimi
+1 Licenca për përdorimin e markës tregtare mund të jepet për disa apo për të gjitha mallrat ose shërbimet për të cilat është regjistruar, për tërë apo një pjesë të territorit të Republikës së Kosovës. Licenca mund të jetë ekskluzive dhe jo ekskluzive.
+2. Pronari i markës tregtare mund shfrytëzoj të drejtat e fituara me regjistrimin e markës tregtare kundër një personi të pajisur me licencë, i cili shkel ndonjë dispozitë të kontratës së tij të licencimit lidhur me kohëzgjatjen, fushën e mbuluar me regjistrimi për të cilën marka tregtare mund të përdoret, gamën e mallrave apo shërbimeve për të cilat është dhënë licenca, territorin në të cilin marka tregtare mund të përdoret apo cilësinë e produkteve të prodhuara ose shërbimeve të ofruara nga personi i pajisur me licencë.
+3. Me kërkesë të njërës prej palëve licenca shënohet në Regjistrin e Markave Tregtare me kusht që të ofrohen dëshmi për licence si: kopja e certifikuar e marrëveshjes për licencim, pjesa e certifikuar e asaj marrëveshjeje apo certifikata origjinale për dhënien e licencës e bërë me shkrim dhe e nënshkruar nga të dyja palët i parashtrohen Zyrës dhe të jetë paguar tarifa e paraparë për regjistrimin e licencës në Regjistrin e Markave Tregtare.
+4. Licenca e markës tregtare publikohet në buletinin zyrtarë të Zyrës.
+5. Kërkesa për regjistrimin e licencës në Regjistrin e Markave Tregtare duhet të bëhet sipas kushteve dhe mënyrës së paraparë me akte nënligjore të miratuara nga Ministri.

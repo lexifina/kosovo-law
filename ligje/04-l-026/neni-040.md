@@ -1,0 +1,6 @@
+# Neni 40
+Regjistrimi
+1. Kur aplikimi për regjistrimin e markës tregtare i plotëson kërkesat e këtij ligji në veçanti kur baza sipas nenit 6 paragrafi 1. të këtij ligji nuk përbën pengesë për regjistrim dhe brenda afatit të përcaktuar në nenin 34 paragrafi 1. të këtij ligji nuk është paraqitur kundërshtim ndaj regjistrimit, apo kur kundërshtimi i paraqitur është refuzuar apo hedhur poshtë me vendim përfundimtar, zyra e fton aplikuesin që brenda gjashtëdhjetë (60) ditëve nga data e pranimit të ftesës, të paguajë tarifën e regjistrimit për mbajtjen në fuqi të markës tregtare për dhjetë (10) vite.
+2. Nëse nuk është paguar tarifa e mirëmbajtjes së markës tregtare për dhjetë (10) vitet e para brenda afatit të cekur në paragrafin 1. të këtij neni aplikimi për regjistrimin e markës tregtare hidhet poshtë.
+3. Nëse brenda afatit të përcaktuar në paragrafin 1. të këtij neni është paguar tarifa e mirëmbajtjes për dhjetë (10) vitet e para marka tregtare regjistrohet dhe futet në regjistrin e markave tregtare
+4. Pasi që marka tregtare është regjistruar dhe është futur në regjistrin e markave tregtare të dhënat për markën e regjistruar tregtare publikohen në buletinin zyrtare të Zyrës. Të dhënat të cilat publikohen përcaktohen me akt nënligjor

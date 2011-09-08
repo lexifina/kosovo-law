@@ -1,0 +1,9 @@
+# Article 48
+Grounds for revocation
+1. The trade mark shall be revoked upon a request to the Office, if:
+1.1. within a continuous period of five (5) years, the trade mark has not been put to genuine use in the Republic of Kosovo in connection with the goods or services in respect of which it is registered, and there are no proper reasons for non-use; however, no person may claim that the holder’s rights in a trade mark should be revoked where, during the interval between expiry of the five-year period and filing of the application or counterclaim, genuine use of the trade mark has been started or resumed;
+1.2. initiation or continuation of use within a period of three (3) months preceding the filing of the application or counterclaim which began at the earliest on expiry of the continuous period of five (5) years of non-use shall, however, be disregarded where preparations for the commencement or resumption occur only after the holder becomes aware that the application or counterclaim may be filed.
+1.3. as consequence of acts or inactivity of the holder, the trade mark has become the common name in the trade for a product or service in respect of which it is registered;
+1.4. as consequence of the use made of it by the trade mark holder or with his consent in respect of the goods or services for which it is registered, the trade mark is liable to mislead the public, particularly as to the nature, quality or geographical origin of those goods or services.
+2. Where the grounds for revocation of rights exist in respect of only some of the goods or services for which the trade mark is registered, the rights of the holder shall be declared to be revoked in respect of those goods or services only.
+3. When a trade mark is revoked it shall be deemed that its effects ceased on the date of the filing of the request for revocation.

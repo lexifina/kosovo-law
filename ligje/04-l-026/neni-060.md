@@ -1,0 +1,6 @@
+# Neni 60
+Kontrata për përdorimin e markës kolektive dhe certifikuese
+1. Aplikuesi i markës kolektive apo certifikuese duhet që së bashku me aplikimin për regjistrimin e markës kolektive apo certifikuese të paraqesë Kontratën e cila specifikon përdorimin e saj.
+2. Kontrata që specifikon përdorimin e markës kolektive duhet të theksojë në mënyrë të qartë personat e autorizuar për përdorimin e markës, kushtet e anëtarësisë së subjektit dhe nëse ekzistojnë kushtet e përdorimit të markës dhe sanksionet që pasojnë në rast të keqpërdorimit të markës kolektive apo certifikuese apo në rast të shkeljes së rregullave.
+3. Kontrata që përcakton përdorimin e markës certifikuese specifikon personat e autorizuar për përdorim të markës, karakteristikat për të qenë markë e certifikuar se si organi certifikues i teston ato karakteristika dhe se si t’i mbikëqyrë përdorimin e markës, tarifave që duhet të paguhen lidhur me përdorimin dhe procedurat për zgjedhjet e mosmarrëveshjeve.
+4 . Me anë të kontratës përcaktohet përdorimi i markës sipas nenit 59 paragrafi 2. i këtij ligji i cili duhet të autorizojë cilindo person, mallrat apo shërbimet e të cilit e kanë prejardhjen e tyre në zonën gjeografike, në mënyrë që të bëhen anëtarë të subjektit e cila është pronare e markës.

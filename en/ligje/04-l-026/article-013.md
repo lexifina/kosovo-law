@@ -1,0 +1,6 @@
+# Article 13
+Limitation of effects as a consequence of acquiescence
+1. Where, the holder of an earlier trademark has acquiesced, for a period of five (5) successive years, in the use of a later trade mark registered in the Republic of Kosovo while being aware of such use, he shall no longer be entitled on the basis of the earlier trade mark either to apply for a declaration that the later trade mark is invalid or to oppose the use of the later trade mark in respect of the goods or services for which the later trade mark has been used, unless registration of the later trade mark was applied for in bad faith.
+2. Paragraph 1 of this Article shall also apply to the holders of an earlier trade mark referred to in paragraph 3 Article 7 of this Law or any other earlier right referred to in sub-paragraphs 1.5 or 1.6 of Article 52 this Law.
+3. In the cases referred to in paragraphs 1 and 2 of this Article, the holder of a later registered trade mark shall not be entitled to oppose the use of the earlier right, even though that right may no longer be invoked against the later trademark.
+4. Holder of later registered trademark shall not have the right to oppose the use of earlier trade mark even though the holder of earlier trade mark may no longer be invoke that right against the later trademark.

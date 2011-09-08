@@ -1,0 +1,6 @@
+# Neni 55
+Dëshmia e përdorimit të markës së mëhershme tregtare
+1. Me kërkesë të pronarit të markës tregtare, pronari i markës së mëhershme tregtare që është palë në procedurën e shfuqizimit duhet të sigurojë dëshmi, që gjatë periudhës pesë vjeçare para datës së kërkesës për deklarimin e shfuqizimit, marka e mëhershme tregtare ka qenë në përdorim në Republikën e Kosovës për mallrat apo shërbimet për të cilat është regjistruar. dhe cilat i citon si arsyetime për kundërshtimin e tij, apo që ekzistojnë arsye të duhura për mospërdorim, me kusht që marka e mëhershme tregtare deri në atë datë ka qenë e regjistruar për jo më pak se pesë (5) vjet.
+2. Nëse në datën publikimit të aplikimi i markës, marka e mëhershme ka qenë e regjistruar për jo më pak se pesë (5) vjet pronari i markës së mëhershme duhet të sigurojë dëshmi se deri në atë datë janë përmbushur kushtet e cekura në nenin 36 të këtij ligji.
+3. Kërkesa për deklarimin e shfuqizimit refuzohet në mungesë të dëshmive që marka e mëhershme tregtare është përdorur sipas paragrafit 1. të këtij neni.
+4. Nëse marka e mëhershme tregtare është përdorur vetëm për një pjesë të mallrave apo shërbimeve për të cilat është regjistruar, atëherë shqyrtimi kërkesës për deklarimin e shfuqizimit, bëhet vetëm për atë pjesë të mallrave apo shërbimeve.
