@@ -1,0 +1,8 @@
+# Neni 45
+Veprimet e autoriteteve doganore
+1. Nëse ka arsye të mjaftueshme për të dyshuar se produktet e prodhuara sipas licencës së detyrueshme të dhënë në përputhje me dispozitat e këtij ligji janë duke u importuar në Kosovë në kundërshtim me dispozitat e nenit 44 paragrafi 1. të këtij ligji, organet kompetente të doganës ndalojnë produktet në fjalë për t’i kontrolluar, por jo më shumë se dhjetë (10) ditë pune. Në rrethana të veçanta, autoritetet doganore vendosin për zgjatjen e periudhës së ndalimit në maksimum edhe prej dhjetë (10) ditë pune.
+2. Autoriteti doganor informon menjëherë bartësin e së drejtës dhe prodhuesin ose eksportuesin e produkteve në fjalë, rreth ndalesave të cekura në paragrafin 1. të këtij neni dhe fton atë që të jap informacionet dhe prova për produktet në fjalë.
+3. Në qoftë se në periudhën e ndalimit, autoritetet doganore vërtetojnë se ka shkelje të licencës së detyrueshme, në kundërshtim me ndalimin e cekur në nenin 44 paragrafi 1. të këtij ligji, konfiskon dhe largon produktet nga qarkullimi në përputhje me rregullat doganore.
+4. Procedura e ndalimit dhe konfiskimit të mallrave bëhet me shpenzime të importuesit, në përputhje me rregullat doganore. Bashkë me importuesin lidhur me shpenzimet përgjigjet çdo person tjetër që tenton të bëjë importimin e paligjshëm.
+5. Nëse konstatohet se importi i produkteve të ndaluara në përputhje me dispozitat e këtij neni nuk shkelin dispozitat e nenit 44 paragrafi 1. të këtij ligji, autoritetet doganore i lejojnë qarkullimin e produkteve në territorin e Republikës së Kosovës, me kusht që kjo është në pajtim me rregullat doganore.
+6. Për çdo konfiskim dhe shkatërrim të produkteve, në përputhje me dispozitat e këtij neni Autoriteti doganor njofton Zyrën.

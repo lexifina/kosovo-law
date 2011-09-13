@@ -1,0 +1,4 @@
+# Article 87
+Application for the Certificate
+1. The application for the Certificate shall be filed with the Office within six (6) months from the date of the grant of the authorization, referred to in paragraph 1 and sub-paragraph 1.2 of Article 86 of this Law, and if the authorization has been granted before the grant of the basic patent, within six (6) months from the date of issuing the decision referred to in Article 80 paragraph 2 of this Law.
+2. The application for an extension of the duration referred to in paragraph 5 of Article 85 of this Law may be made when lodging the application for a certificate or when the application for the certificate is pending and the appropriate requirements of paragraph 4 or paragraph 5 of Article 88 respectively are fulfilled. The application for an extension of a duration of a certificate already granted shall be lodged not latter than two (2) years before the expiry of the certificate.

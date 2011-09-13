@@ -1,0 +1,4 @@
+# Neni 12
+Shpalosja e shpikjes pa pasoja të dëmshme
+1. Zbulimi i shpikjes sipas nenit 11 të këtij ligji nuk do të merret në konsideratë, nëse kjo ka ndodhur jo më parë se gjashtë (6) muaj para dorëzimit të aplikimit për patentë dhe në qoftë se ka ndodhur ose si pasojë e:
+1.1. abuzimit të dukshëm në lidhje me kërkuesit ose paraardhësit e tij ligjor, ose faktit që aplikuesi apo paraardhësit e tij ligjor ka zbuluar shpikjen në një ekspozitë ndërkombëtare zyrtare, ose zyrtarisht të njohur, sipas kushteve të parapara të Konventës për ekspozita ndërkombëtare, me kusht që aplikuesi në momentin e paraqitjes së aplikacionit për patentë tregon, se shpikja është zbuluar në këtë mënyrë, dhe jo më vonë se katër (4) muaj nga data e paraqitjes së kërkesës, dorëzon një certifikatë përkatëse për këtë qëllim.

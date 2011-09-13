@@ -1,0 +1,11 @@
+# Article 79
+Decisions upon submission of the Evidence
+1. If the patent owner fails to submit the evidence as referred to in Article 78 paragraph 1 of this Law, the patent shall lapse on the date of the expiry of the tenth year of the patent term.
+2. If on the basis of the submitted evidence the Office finds that the invention:
+2.1. meets the requirements on patentability as referred to in Article 78 paragraph 1 of this Law entirely, it shall issue the decision declaring that the patented invention meets requirements on patentability;
+2.2. meets the requirements conditions partly on patentability as referred to in Article 78 paragraph 1 of this Law, the office shall issue the decision with declaration where shall be stated that patented innovation meets the requirements conditions only partly, and amend the form request for patent recognition, respectively re-issue the Patent Specification after the tax is paid according to Article 48 of this Law.
+3. If the Office finds that the invention does not meet the requirements on patentability as referred to in Article 78 paragraph 1 of this Law, it shall issue the decision declaring the patent invalid.
+4. The Office shall communicate to the patent owner the decisions under paragraphs 2 and 3 of this Article and shall invite him to submit a written comment within two (2) months as from the day of receipt of the invitation.
+5. If the patent owner does not comply with the invitation within the time limit referred to in paragraph 4 of this Article, the Office shall issue a decision, where it declares that the patent and application did not show any effects.
+6. Where, on the basis of the submitted written evidence, the Office establishes that the granted patent does not comply with the requirements referred to in Article 53 of this Law it shall divide the patent into one or more patents preserving the date of filing of the initial application or the date of priority if such priority is claimed., provided that prescribed fees are paid.
+7. The relevant indications from the decisions referred to in this article shall be published in the bulletin of the Office, as specified by the sub-legal act.

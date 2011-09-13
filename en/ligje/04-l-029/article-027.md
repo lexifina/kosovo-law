@@ -1,0 +1,5 @@
+# Article 27
+Right of the prior User
+1. Patent shall have no effect against the person who before the filing date of application or before the date of recognition of the right of application priority, within her/his economic activities, had exploited or produced the product which is subject-matter of the invention, or had made real and serious preparations for exploitation of the invention in the Republic of Kosovo.
+2. The person referred to in paragraph 1 of this Article shall have the right to proceed, without the patent owner’s consent, with the exploitation of the invention to the extent to which she/he had exploited it or had prepared its exploitation up to the filing date of the application for the said invention.
+3. The right referred to in paragraph 2 of this Article may be transferred or inherited only with the working process and production plant in which the exploitation of the invention has been prepared or has started.

@@ -1,0 +1,7 @@
+# Article 11
+Novelty
+1. An invention shall be considered to be new if it does not form part of the state of the art.
+2. The state of the art shall comprise everything made available to the public on the world level by means of a written or oral description, by use, or in any other way, prior to the filing date of the patent application.
+3. Additionally, the content of national patent applications as filed and, after the accession of the Republic of Kosovo to the Patent Cooperation Treaty and the European Patent Convention, the content of all international and European patent applications with the effect for the Republic of Kosovo, the filing dates of which are earlier than the date of application referred to in paragraph 2 of this Article, and which were published on or after that date, shall be considered as comprised in the state of the art.
+4. Paragraphs 2 and 3 of this Article shall not exclude the patentability of any substance or composition, comprised in the state of the art, for use in the methods referred to in sub-paragraph 1.3 of paragraph 1 of Article 9 of this Law, provided that its use for any such method does not form part of the state of the art.
+5. Paragraphs 2 and 3 of this Article shall also not exclude the patentability of any substance or composition referred to in paragraph 4 of this Article for any specific use in a method referred to in sub-paragraph 1.3 of paragraph 1 of Article 9 of this Law, provided that such use does not form part of the state of the art.

@@ -1,0 +1,4 @@
+# Article 12
+Non-prejudicial invention Disclosures
+1. For the application of Article 11 of this Law, a disclosure of the invention shall not be taken into consideration if it occurred no earlier than six (6) months preceding the filing of the patent application and if it was due to, or in consequence of:
+1.1. An evident abuse in relation to the applicant or his legal predecessor, or the fact that the applicant or his legal predecessor has displayed the invention at an official, or officially recognized, international exhibition falling within the terms of the Convention on international exhibitions, provided that the applicant indicates in the patent application, at the time of its filing, that the invention has been so displayed, and not later than four (4) months as from the filing date of the application, submits a corresponding certificate to that effect.

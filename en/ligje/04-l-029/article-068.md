@@ -1,0 +1,6 @@
+# Article 68
+Correction or addition of the priority right Request
+1. A patent applicant may file a request for the correction or addition of a priority claim within a time limit of sixteen (16) months from the priority date or, if the correction or addition would cause a change in the priority date, sixteen (16) months from the priority date as so changed, whichever sixteen (16) month period expires first, provided that such a request is filed within four (4) months from the filing date of the patent application.
+2. On correction or filed of a request referred to in paragraph 1 of this Article, the applicant shall pay the defined fees. If the applicant fails to pay the fees, the request shall be considered as not filed.
+3. If the priority date is changed due to the correction or addition of the priority claim, the time limits shall be counted from the priority date as changed.
+4. The request referred to in paragraph 1 of this Article shall not be filed after the applicant has filed a request for publication in accordance with paragraph 2 of Article 75 of this Law, unless such a request for publication is withdrawn before the technical preparations for publication have been completed.
