@@ -1,0 +1,7 @@
+# Neni 13
+Dispozitat e përgjithshme mbi regjistrimin në kadastër
+1. Kërkesa për regjistrimin e ndryshimeve në Kadastër do të bëhet me shkrim në ZKK-ë ku ndodhet njësia kadastrale nga personi qe ka interes juridik apo me autorizim te veçantë. ZKK-ja do të konfirmojë kohën dhe datën e pranimit të kërkesës për regjistrim.
+2. Parashtruesi i kërkesës që kërkon regjistrimin e ndryshimit do t’ia bashkëngjesë kërkesës edhe matjet kadastrale, të paraparë me nenin 12 të këtij ligji dhe dokumentacionin tjetër për ta mbështetur kërkesën, sipas dispozitave të ligjit të aplikueshëm.
+3. Kërkesa për regjistrimin e ndryshimit duhet të parashtrohet brenda afatit prej gjashtëdhjetë (60) ditëve, nga dita e përfundimit të matjes kadastrale.
+4. ZKK-ja do ta shqyrtojë dokumentacionin e parashtruar, dhe nëse ky dokumentacion i parashtruar nuk është i mjaftueshëm sipas këtij ligjit, ZKK-ja do të caktojë një afat brenda të cilit parashtruesi i kërkesës duhet t’a parashtrojë dokumentacionin e plotë. Nëse kushtet për futjen e shënimit nuk janë plotësuar, ZKK-ja do të refuzojë kërkesën për futjen e shënimit.
+5. ZKK-ja do ta regjistrojë njësinë e re kadastrale, ose ndryshimet e të dhënave lidhur me parcelën ekzistuese, brenda afatit prej tre (3) ditësh, pas paraqitjes së kërkesës për regjistrim dhe do t’a informojë parashtruesin e kërkesës për vendimin e saj. Regjistrimi hyn në fuqi me evidentimin e vendimit të ZKK-së në regjistër.
