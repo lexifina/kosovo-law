@@ -1,0 +1,9 @@
+# Neni 27
+Shqiptimi i gjobave
+1. Për zbatimin e kompetencave të saj sipas këtij ligji, Agjencia mund të lëshojë urdhra dhe shqiptojë gjobat e përcaktuara në këtë nen ndaj ndërmarrjeve, punonjësve dhe personave të tjerë me funksione menaxhuese ose mbikëqyrëse mbi ndërmarrjet për:
+1.1.mosdhënien e përgjigjes brenda pesë ditësh pune nga dita e pranimit të kërkesës me shkrim nga një përfaqësues i autorizuar i Agjencisë për informatat ose dokumentacionin që është në posedim të të adresuarit, deri në njëmijë (1000) Euro në ditë për çdo ditë të mos përgjigjes - deri në maksimumin prej njëqind mijë (100.000) Euro;
+1.2.dhënien me qëllim të informatave të rrejshme një përfaqësuesi të autorizuar të Agjencisë -deri në një qind mijë (100.000) Euro;
+1.3.shkatërrimin, falsifikimin, fabrikimin ose fshehjen e të dhënave mbi ndërmarrjen - deri në njëqind mijë (100.000) Euro;
+1.4.fshehjen e qëllimshme ose transferimin e paligjshëm të aseteve të ndërmarrjes - deri në pesëdhjetë mijë (50.000) Euro ose një shumë e barabartë me tri herë vlerën e aseteve në fjalë, cilado që është më e lartë; dhe
+1.5.mosdorëzimin në Agjenci të çfarëdo aseti të ndërmarrjes pas marrjes së një urdhri me shkrim nga Bordi - deri në pesëdhjetë mijë (50.000) Euro ose shumën e barabartë me tri herë vlerën e aseteve të pa dorëzuara, cilado që është më e lartë.
+2. Çdo urdhër për shqiptimin e gjobave konform nenit 27.1 nënshkruhet nga Drejtori Menaxhues ose një Zëvendësdrejtor Menaxhues dhe i dorëzohet ndërmarrjes ose personit në fjalë. Urdhri hyn në fuqi menjëherë pas lëshimit të tij. Ndërmarrja apo personi në fjalë i ka tridhjetë ditë (30) pas dorëzimit të atij urdhri, për ta kundërshtuar atë pranë Dhomës së Posaçme. Dhoma e Posaçme i trajton ankesat e tilla me urgjencë dhe mundet, deri në zgjidhjen e çështjes ta pezullojë urdhrin dhe të shqiptojë masa të përkohshme lehtësuese që Dhoma e Posaçme i konsideron të nevojshme apo të duhura gjatë periudhës së shqyrtimit.

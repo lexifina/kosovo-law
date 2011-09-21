@@ -1,0 +1,3 @@
+# Neni 4
+Referimet
+Përveç nëse konteksti në mënyrë të qartë kërkon një interpretim tjetër, të gjitha referencat në këtë ligj ndaj një ligji, Shtojcës 1 të këtij ligji, një ligji, rregulloreje ose akti tjetër nënligjor, ose ndaj një dispozite të caktuar të tyre, duhet të interpretohen për të përfshirë të gjitha ndryshim- plotësimet pasuese të tyre. Nëse ligji, rregullorja ose akti nënligjor i sipër cekur shfuqizohet dhe zëvendësohet me legjislacion pasardhës mbi të njëjtën fushë, referencat duhet të interpretohen për të nënkuptuar legjislacionin pasardhës, dhe sipas rastit, dispozitat analoge në të.
