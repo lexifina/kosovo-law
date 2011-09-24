@@ -1,4 +1,0 @@
-# Neni 3
-Mundësitë për të ndjekur studimet e larta
-3.1. Arsimi i lartë i cili kryhet nga bartësit e licencuar të arsimit të lartë në Kosovë do të jetë i mundshëm për të gjithë personat në territorin e Kosovës, ose nëpërmjet mësimit në distancë brenda ose jashtë territorit të Kosovës në çfarëdo vendi, pa asnjë lloj diskriminimi të drejtpërdrejtë ose indirekt për ndonjë arsye reale apo të supozuar që ka lidhje me gjininë, racën, orientimin seksual, dëmtime fizike ose të një lloji tjetër, gjendjen civile, ngjyrën, fenë, opinionet politike apo të tjera, origjinën kombëtare, etnike apo sociale, përkatësinë ndaj një komuniteti kombëtar, pronësinë, vendlindjen apo ndonjë status tjetër.
-3.2. Nuk do të ketë kufizim moshe për t’u regjistruar apo për të marrë kualifikim të arsimit të lartë në Kosovë.

@@ -1,0 +1,5 @@
+# Neni 25
+Veprimtaria komerciale
+1. Bartësi publik i arsimit të lartë gëzon të drejtën që, në përputhje me dispozitat e këtij ligji, të ligjit tjetër të zbatueshëm, me licencën, me statutin dhe me planin strategjik të tij, të marrë masa për të nxitur e shfrytëzuar veprimtarinë e tij arsimore dhe veprimtarinë kërkimore për qëllime komerciale në favor të bartësit.
+2. Kur veprimtari të tilla komerciale përfshijnë ose potencialisht mund të përfshijnë shfrytëzimin e ndonjë të drejte të rëndësishme të pronës intelektuale lidhur me vepra letrare, artistike dhe shkencore, zbulime shkencore, projekte, shpikje, materiale, mallra ose shërbime të siguruara plotësisht apo pjesërisht duke përdorur fonde publike, bartësi duhet të kërkojë miratim paraprak nga Ministria. Për qëllimet e këtij neni, Ministria përcakton se cila është e drejta e rëndësishme e një prone intelektuale me anë të një udhëzimi administrativ, ku merret parasysh këshilla e dhënë nga Zyra për te drejtat e pronës intelektuale ose nga ministria kompetente sipas legjislacionit në fuqi.
+3. Tatimimi i aktivitetit komercial të një bartësi të arsimit të lartë publik është në përputhje me ligjin në fuqi.

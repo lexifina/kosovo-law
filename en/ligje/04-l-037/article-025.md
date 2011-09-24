@@ -1,0 +1,5 @@
+# Article 25
+Commercial Activity
+1. A provider of higher education shall be free within the provisions of this Law, other applicable law, its licence, its Statute and its Strategic Plan to take any measures to promote and exploit its education and research activities commercially in favor of the provider.
+2. Where such commercial activity includes, or could potentially include, the exploitation of any significant intellectual property right in any literary, artistic or scientific works, scientific discoveries, designs, inventions, materials, goods or services provided wholly or partially, or directly or indirectly out of public funds, the provider shall seek the prior approval of the Ministry. The Ministry shall determine what is a significant intellectual property right for the purposes of this Article in an Administrative Instruction which takes into account advice offered by the Office for Intellectual Property Rights according to the legislation in force.
+3. The taxation of commercial activity by a provider of higher education shall be in accordance with the applicable Law

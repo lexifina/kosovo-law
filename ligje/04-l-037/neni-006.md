@@ -1,0 +1,17 @@
+# Neni 6
+Kompetencat dhe përgjegjësitë e Ministrisë në ofrimin e Arsimit të Lartë
+1. Në përputhje me dispozitat e këtij ligji dhe me dokumentet plotësuese të nxjerra mbi bazën e tij dhe të atyre të nxjerra në bazë të nenit 14 të Ligjit për arsim në komunat e Republikës së Kosovës (03-L- 068, të majit 2008), Ministria është përgjegjëse për:
+1.1. planifikimin e zhvillimit të arsimit të lartë në Kosovë, në konsultim me Bartësit e akredituar të arsimit të lartë;
+1.2. rregullimin e statusit të bartësve publik dhe privatë të arsimit të lartë dhe miratimin e statuteve të tyre. Statutet e të gjitha universiteteve dhe të cilit do aplikues për titull ‘universitet’ duhet të ratifikohen nga Kuvendi;
+1.3. ndarjen e fondeve bartësve të arsimit të lartë për qëllime të mësimdhënies dhe të hulumtimit në interesin publik në kuadër të dispozitave të përgjithshme të ligjit të zbatueshëm për financimin e shërbimeve publike në Kosovë dhe duke siguruar që fondet e tilla janë shpenzuar në përputhje me prioritetet e dakorduara ndërmjet Ministrisë dhe çdo bartësi nëpërmjet instrumenteve të financimit, të specifikuara në formën e aktit nënligjor;
+1.4. autorizimin e formatit dhe përmbajtjes së Diplomës dhe të Shtojcës së diplomës, në bashkëpunim me Agjencinë Kosovare për Akreditim, të cilat lëshohen nga bartësit e akredituar të arsimit të lartë, të përcaktuar me akt nënligjor të nxjerrë nga Ministria;
+1.5. dhënien e propozimeve lidhur me krijimin e një skeme ose skemave për mbështetjen financiare të studentëve dhe rregullimin e administrimit të një skeme apo skemave të tilla;
+1.6. promovimin e lëvizjes së studentëve dhe të personelit brenda Zonës evropiane dhe atë ndërkombëtare të arsimit të lartë si dhe inkurajimin për përdorimin e gjuhës angleze për mësim krahas gjuhëve zyrtare.Vendosjen e rregullave lidhur me njohjen akademike dhe profesionale, në përputhje me standardet evropiane, qoftë përmes NARIC Kosova brenda Ministrisë, ose përmes Agjencisë Kosovare për Akreditim dhe informimi i publikut për statusin e kualifikimeve të huaja përmes ENIC Rrjetit evropian të qendrave për informim;
+1.7. promovimin e mundësive të barabarta në qasjen dhe pranimin në arsimin e lartë, në zhvillimin dhe trajnimin e personelit, në mundësitë për të mësuar gjatë gjithë jetës dhe në të gjitha aspektet e tjera të arsimit të lartë.
+1.8. krijimin e Këshillit shtetëror për arsimin e lartë, i cili këshillon Ministrin për çështje të arsimit të lartë, duke caktuar termat dhe referencat e tij si dhe për emërimin e anëtarëve;
+1.9. promovimin e lidhjeve midis bartësve publik të arsimit të lartë në Kosovë, bartësve privatë të arsimit dhe aftësimit, industrisë dhe tregtisë si dhe për inkurajimin e zhvillimit të ndërmarrësisë;
+1.10. promovimin e lidhjeve midis të gjithë bartësve të arsimit të lartë në Kosovë dhe institucioneve të arsimit të lartë në regjion dhe më gjerë.
+1.11. licencimin e bartësve të arsimit të lartë;
+1.12. sigurimin e ndihmesës, në përputhje dhe këtë ligj, për bartësit e akredituar të arsimit të lartë dhe studentëve të regjistruar aty;
+1.13. rregullimin e të gjitha çështjeve të tjera lidhur me arsimin e lartë, të cilat nuk janë të rregulluara veçmas në bazë të këtij ligji.
+2. Në ushtrimin e përgjegjësive dhe detyrave të saj në bazë të këtij ligji, Ministria respekton dhe promovon të drejtat e komuniteteve dhe anëtarëve të tyre, të përcaktuara në Ligjin për mbrojtjen dhe promovimin e të drejtave të komuniteteve dhe pjesëtarëve të tyre në Kosovë (Ligji nr. 03/L-047, mars 2008).

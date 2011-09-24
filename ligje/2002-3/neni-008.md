@@ -1,4 +1,0 @@
-# Neni 8
-Universitetet
-8.1 Universiteti do të jetë një institucion mësimor dhe shkencor, që jep diploma e tituj duke përfshirë nivelin e doktoratës me synimet e tij duke përfshirë përparimin në fushën e njohurive, ideve dhe diturisë në Kosovë, zhvillimin arsimor, shkencor, kulturor, social dhe ekonomik të Kosovës, nxitjen e qytetarisë demokratike dhe arritjen e standardeve më të larta në fushën e mësimdhënies e të mësimit.
-8.2 Në bazë të dispozitave të këtij ligji, emërtimi “Universitet” mund t’i jepet vetëm një bartësi të akredituar të arsimit të lartë, me një kontingjent prej të paktën 3.000 studentësh të rregulltë të regjistruar në mënyrë të pavarur dhe që organizon kurse apo jep programe në të paktën 5 grupe lëndësh të ndryshme, sikurse përcaktohet në udhëzimet administrative të dhëna nga Ministria.
