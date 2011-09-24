@@ -1,0 +1,10 @@
+# Article 3
+Basic Principles
+1. The rights of the whistle blower who reports/discloses in good faith unlawful actions of officials or responsible persons within public institutions at central or local level or within institutions, public or private enterprises are guaranteed.
+2. Whistle blower disclosing unlawful actions should act in good faith and should reasonably believe that the facts and information given in the disclosure are true.
+3. Whistle blower who discloses unlawful actions in good faith shall not be subject of punitive or disciplinary measures, dismissal or suspension from work and shall not be exposed to any form of discrimination.
+4. Whistle blower employee who was subject to discriminatory measures, including dismissal from work, is entitled to address the competent court, which, if proven that the whistle blower employee has been dismissed because of the disclosure of information, shall reinstate him/her and shall order the public institution at central or local level, institution, public or private enterprise to provide him with a compensation for the suffered damage.
+5. Whistle blower’s anonymity is guaranteed.
+6. If in case of disclosure of information about the commission of serious criminal offence, there is a potential risk for the security and integrity of the whistle blower and his/her close family members and to a larger scale to his/her property, whistle blower’s protection is to be provided in accordance with the Special Law for Protection of Witnesses through the methods stipulated by this law.
+7. While observing the principles of legality and good administration public institutions shall carry out the necessary checks pertaining to whistle blowers’ disclosure of information about the commission of unlawful actions.
+8. Regardless of the form and content of the whistle blowers’ disclosure of unlawful action it shall be considered as an official complaint. Response to the whistle blower’s disclosure shall be prepared by applying accordingly the procedures pertaining to the responses given to the parties, who file official submissions/ complaints to public administration bodies.
