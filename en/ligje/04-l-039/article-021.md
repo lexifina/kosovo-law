@@ -1,0 +1,7 @@
+# Article 21
+Inspection surveillance
+1. Inspection surveillance shall ensure that products placed on the market or made available satisfy the requirements which provide for a high level of protection of public interests, such as: health and safety in general, health and safety at the workplace, the protection of consumers, and protection of the environment and security.
+2. The inspection surveillance shall ensure to prevent or prohibit the distribution or to prohibit or restrict the placing on the market of products that are regulated by legislation in force, which is in compliance with EU laws even when products are used in compliance with the intended purpose or in conditions which can be prescribed, and when they are installed and maintained as required, but which can be reasonably foreseen that could endanger the health of users or otherwise are not in conformity with the requirements prescribed by the legislation in force.
+3. The inspection surveillance in co-ordination with the competent authorities shall notify, the European Commission and the Members States of the measures taken in accordance with paragraph 2. of this Article.
+4. The provisions on inspection surveillance shall also apply to products assembled or manufactured for the manufacturer’s own use where provided so in a special law or other acts.
+5. The provisions on inspection surveillance shall apply in so far as there are no specific provisions with the same objective in other legislation that is in compliance with the European Union legislation.
