@@ -1,0 +1,5 @@
+# Article 14
+Conflicts of Interest and Duty of Loyalty
+1. No member of a governing body shall be allowed to participate in the consideration or decision of any matter in which he or she has a direct or indirect personal or economic interest. A member of a governing body shall be deemed to have an economic interest if he/she or any family member has a direct or indirect economic interest.
+2. Any transaction between an NGO and an affiliated organization, or between an NGO and its members, officers, members of the Board, or employees shall be prohibited unless the governing body determines after reasonable investigation that the transaction is in the best interests of and fair and reasonable to, the NGO and that the NGO could not have obtained a more advantageous arrangement with reasonable effort under the existing circumstances.
+3. Officers and board members of an NGO have a duty to exercise loyalty to the NGO, to protect the confidentiality of non-public NGO-related information and interest of the NGO, and to carry out their responsibilities to the NGO with faith and diligence.

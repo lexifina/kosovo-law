@@ -1,0 +1,11 @@
+# Article 21
+Removal of NGO from Register
+1. The competent body may remove the NGO from register:
+1.1. in one of the cases referred to in paragraph 1 of Article 20 of this Law;
+1.2 if the NGO for three (3) years fails to file the annual statement foreseen under paragraph 5 of Article 12 of this Law.
+2. The competent body shall give to the NGO a written notice of the grounds for termination and the opportunity to respond prior making a decision to terminate an NGO’s registration.
+3. In the event of the termination or removal from the register of an NGO that received tax or fiscal benefits, public donations, or government grants, all assets remaining after discharge of the NGO’s liabilities shall be distributed to another NGO with the same or similar purposes. This NGO shall be identified in the NGO’s statute or with a proposal of the NGOs highest governing body. The Ministry shall establish the Committee for Distribution of remained Assets of terminated or removed from register NGOs, with representatives of NGOs too, pursuant to the sub-legal act issued by the Government.
+4. In all other cases, any assets remaining after the discharge of liabilities shall be distributed in accordance with the statute or a decision by the highest governing body and in all cases in compliance with Article 4 of this law.
+5. An NGO with public beneficiary status that is dissolved or removed from the register, or ceased its activity in Kosovo during a reporting period shall file a report for that period, pursuant to Article 4 and 18 of this law. In its report, the NGO shall state the date of dissolution, termination, removal from the register, the provisions made for winding up of its affairs, the amount of assets remaining after discharge, the intended disposition of those assets, and how the determination to dispose of assets was made (i.e., by provision in the Statutes of the organization, by decision of its highest governing body or by the competent body.)
+6. Authorized person of the NGO has legal responsibility for registration before the competent body and other bodies.
+7. After the exhaustion of all rights of appeal and based on the decision for removal from the register, the competent body shall remove the NGO from the register of NGOs.
