@@ -1,0 +1,4 @@
+# Neni 7
+Përdorimi i kredencialeve
+7.1 Kredencialet do të përdoren vetëm për ushtrimin e detyrave dhe përgjegjësive zyrtare, të përcaktuara në nenin 4 të kësaj Rregulloreje, LAC dhe/apo aktet normative që burojnë prej tij, të lëshuara nga AAC-ja. Bartësi i kredencialeve është përgjegjës për ruajtjen e kredencialeve. Keqpërdorimi apo posedimi i pavend i kredencialeve mund t’u nënshtrohet masave disiplinore kundër shkelësit.
+7.2 Inspektorët e AAC-së, gjatë ushtrimit të detyrave të tyre të caktuara, dhe gjatë ndërveprimit me operatorë, personelin e operatorëve dhe publikun në përgjithësi, duhet të mbajnë gjykim të mirë dhe sjellje profesionale të cilat reflektojnë politikat e praktikat e AAC-së, dhe gjithashtu duhet të përmbahen nga ndonjë veprim i pavend i cili do të dëmtonte kredibilitetin e AAC-së si institucion publik i autorizuar me ligj për të kryer detyra dhe përgjegjësi rregullatore në fushën e aviacionit civil në Republikën e Kosovës.
