@@ -1,0 +1,8 @@
+# Neni 15
+Mos pajtueshmëria me ushtrimin e funksionit publik
+1. Zyrtari i lartë nuk mund të jetë menaxher, anëtar i ndonjë organi menaxhues apo kontrollues i ndërmarrjeve private.
+2. Zyrtari i lartë në cilësinë e anëtarit të organit drejtues të ndërmarrjes në pronësi publike apo shoqërisë aksionare me pronë publike, mirëpo nuk ka të drejtë kompensimi me pagë të rregullt, përveç të drejtës në kompensimin e shpenzimeve të udhëtimit dhe shpenzimeve tjera të nevojshme.
+3. Zyrtari i lartë në cilësinë e anëtarit të organeve drejtuese dhe mbikëqyrës i personave juridik jo fitimprurës dhe personave juridik tjerë te cilat kryejnë pune nga lëmi i shkencës, sportit, arsimit, kulturës dhe veprimtarive humanitare, por nuk ka të drejtë te pranimit te kompensimit te shpenzimeve të udhëtimit dhe shpenzimeve tjera te nevojshme, për veç nëse nuk parashihet ndryshe me ligje tjera.
+4. Zyrtari i lartë i cili ushtron veprimtari te pavarur në ndërmarrje apo veprimtari tjetër fitimprurëse, është i detyruar te veproj ne pajtim me dispozitat e këtij neni.
+5. Ndërmarrja ne të cilën zyrtari i lartë ka pronësi apo pjesë të pronësisë, e drejtuar nga personi i besuar, nuk ka të drejtë te lidhi kontratë ose te përfitoj ndihmë nga institucionet qendrore ose lokale, ne të cilat zyrtari i lartë është në pozitë vendimmarrëse.
+6. Nëse zyrtari i lartë bie në kundërshtim me paragrafin 5. të këtij neni, atëherë Agjencia duhet të kërkoj nga organi kompetent anulimin e kontratës me ndërmarrjen apo kthimin e çfarëdo përfitimi material të ndërmarrjes nga Institucioni ne të cilin zyrtari i lartë është ne pozitë vendimmarrëse.
