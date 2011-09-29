@@ -1,0 +1,9 @@
+## KREU IV
+## REGJISTRIMI DHE MIRËMBAJTJA E DEKLARIMEVE TË PASURISË
+# Neni 13
+Regjistri i Deklarimeve
+1. Të dhënat e deklarimit të pasurisë së zyrtarit të lartë publik përfshin: emrin, mbiemrin, pozitën, emri i institucionit, adresa e institucionit, data e emërimit në funksion, data e dorëzimit të formularit, funksionet apo aktivitetet tjera që i ushtron zyrtari krahas funksionit publik, pasurinë e paluajtshme dhe llojin e saj, sipërfaqen, prejardhjen, vlerën e saj të paragjykuar dhe në pronësi të kujt është, pasurinë e luajtshme dhe llojin e saj, prejardhjen, viti i përfitimit, vlera e saj të paragjykuara, dhe në pronësi te kujt është, aksionet në shoqëritë tregtare apo në ndonjë institucion tjetër, posedimi i letrave me vlerë, para të gatshme, detyrimet financiare që i ka zyrtari ndaj personave fizik dhe juridik dhe të hyrat vjetore, të gjitha këto duhet të publikohen në faqen e internetit të Agjencisë brenda afatit prej gjashtëdhjetë (60) ditësh nga dita e kalimit të afatit për deklarim të pasurisë nga zyrtarët e lartë publik.
+2. Qasja në të dhënat që nuk bëhen publike e që kanë të bëjnë me deklarimin e pasurisë së zyrtarëve të lartë publik bëhet në përputhje me Ligjin për Qasje në Dokumentet Publike dhe Ligjin për Mbrojtjen e të Dhënave Personale.
+3. Çdo kush mund të paraqes informacione me shkrim tek Agjencia të cilat informacione kanë të bëjnë me deklarimin e bërë nga zyrtarët e lartë publik, me qëllim që të vërtetohet se ai deklarim është apo nuk është i saktë.
+4. Të dhënat të cilat nuk publikohen sipas paragrafit 1 të këtij neni mund të përdoren dhe procedohen tutje vetëm për qëllime të hetimit dhe parandalimit të korrupsionit apo kontrollit të konflikteve të mundshme të interesit të zyrtarit të lartë publik në lidhje me ushtrimin e funksioneve publike.
+5. Përpunimi i të dhënave personale që gjenden në regjistër bëhet në përputhje me Ligjin për Mbrojtjen e të Dhënave Personale.
