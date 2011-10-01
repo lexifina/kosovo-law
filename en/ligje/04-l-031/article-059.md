@@ -1,0 +1,5 @@
+# Article 59
+Persons Fleeing from Sentencing Country
+1. In cases when a Kosovo citizen, who is subject of a sentence imposed by a final judgment within the territory of a foreign country, attempts to avoid further execution of the sentence in the foreign country by fleeing to Kosovo territory, with the request of the foreign country Ministry may agree to take over the execution of the sentence in Kosovo.
+2. Upon the request of the country, where the person is sentenced, judicial authorities in Kosovo may arrest the person in question before receiving petition’s supporting documents or before receiving the decision on the request, or may take other measures to ensure person’s presence in its territory pending the decision on petition. Petition for temporary arrest should contain data provided for in paragraph 3. of Article 53 of this Law. Pursuant to this paragraph, the legal status of the sentenced person should not be aggravated at any time during the period spent under arrest.
+3. The consent of sentenced prisoner about the transfer of the execution of the sentence shall not be required.

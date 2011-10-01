@@ -1,0 +1,5 @@
+# Article 36
+Local Criminal Proceedings
+1. Person extradited to Kosovo shall not be criminally prosecuted or punished for any other criminal offence committed before his/her extradition, but only for the criminal offence the extradition is permitted for, excluding cases when requested country permits that. Records of requested country should be accompanied by legal documents and data pertaining to each statement given by extradited person in relation to the criminal offence.
+2. When extradition is permitted and becomes subject of determined conditions pertaining to the duration of the sentence, court shall be bound to abide by these conditions when imposing the sentence. If execution of a sentence imposed is already included, first instance court should modify the judgment and impose the punishment in accordance with conditions determined by the permission on extradition.
+3. If extradited person has been under detention in the foreign country for the criminal offence he/she is extradited for, time spent in detention shall be calculated in the imposed sentence.

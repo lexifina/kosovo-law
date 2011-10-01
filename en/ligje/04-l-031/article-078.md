@@ -1,0 +1,13 @@
+# Article 78
+Hearing through Telecommunication Means
+1. When requesting country requests that a person who is in the territory of Kosovo to be interviewed by foreign judicial authorities as a witness or as an expert and when the person cannot personally be present I the territory of requesting country, interview may be carried out through telecommunication means.
+2. Petition for interview through the means of telecommunication should indicate the reason why it is not possible or why it is not preferred to have the person present, the name of the judicial authority and names of persons who will administer the hearing session.
+3. Competent district court shall summon the person in question to show up in accordance with conditions provide for by local law.
+4. Interrogation through the means of telecommunication is to be carried out in accordance with below listed rules:
+4.1. interrogation should be carried out in the presence of the Judge, who is in charge to verify the identity of the person who is going to be interrogated and to respect all his/her rights provided by local law;
+4.2. requesting country and Ministry should agree upon measures for protection of person, who is going to be interrogated;
+4.3. interrogation may be administered directly or under the directives of judicial authorities of requesting country in accordance with laws of requesting country;
+4.4. upon the petition of requesting country or upon the petition of the person, who is going to be interrogated, Judge shall ensure to provide interpretation assistance during interrogation, whenever it is required; and;
+4.5. person who is going to be interrogated may use his/her right not to give any statement, what would aggravate his/her situation according to Kosovo law and to the law of requesting country.
+5. Without prejudicing none of the measures taken for the protection of the person in question, at the end of hearing there should be kept a record indicating the date and place of hearing, identity of the person heard, identity and functions of all persons in Kosovo that have taken part in hearing, each given oath as well as technical conditions of the hearing. Document then is to be submitted to the competent authorities of requesting country.
+6. On the basis of a foreign petition, local judicial authorities may implement provisions of this Article during person’s hearing through a video-conference. In this case decision for the hearing and about the methodology of the video-conference is to be carried out in accordance with local legislation. Defendant’s hearing may be carried out with his/her consent only.

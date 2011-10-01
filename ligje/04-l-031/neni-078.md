@@ -1,0 +1,13 @@
+# Neni 78
+Dëgjimi përmes mjeteve te telekomunikimit
+1. Kur shteti kërkues kërkon qe një person i cili gjendet ne territorin e Kosovës te merret ne pyetje ne cilësinë e dëshmitarit apo ekspertit nga autoritet gjyqësore te shtetit te huaj, dhe kur personi nuk është e mundshme qe personalisht te paraqitet ne territorin e shtetit kërkues, marrja ne pyetje mund te mundësohet përmes mjeteve te telekomunikimit.
+2. Lutja për marrje në pyetje përmes mjeteve te telekomunikimit duhet të përmbajë arsyen pse nuk është e mundshme apo e dëshirueshme qe personi te paraqitet personalisht, emrin e organit gjyqësor dhe personave qe do të udhëheqin seancën dëgjimore.
+3. Gjykata kompetente e qarkut do të ftoj personin përkatës qe te paraqitet ne përputhje me kushtet e paraqitura në ligjin vendor.
+4. Marrja në pyetje përmes mjeteve te telekomunikimit bëhet në pajtim me rregullat e me poshtme:
+4.1. marrja ne pyetje duhet te realizohet ne prani te gjyqtarit, i cili është përgjegjës për vërtetimin e identitetit të personit qe do të merret ne pyetje dhe respektimin e te drejtave themelore te tij, të përcaktuara me ligjin vendor;
+4.2. shteti kërkues dhe Ministria duhet te pajtohen lidhur me masat për mbrojtjen e personit qe do të merret në pyetje;
+4.3. marrja ne pyetje mund te udhëhiqet drejtpërdrejtë apo nen direktivat e organeve gjyqësore te shtetit kërkues në përputhje me ligjin e shtetit kërkues;
+4.4. me kërkesë te shtetit kërkues apo personit qe do të merret në pyetje, gjyqtari sigurohet qe gjatë marrjes ne pyetje te sigurohet përkthyesi, nëse kjo është e nevojshme; dhe
+4.5. personi qe do te merret ne pyetje mund të shfrytëzojë te drejtën për te mos dhënë dëshminë e cila do ta rëndonte situatën e tij apo saj sipas ligjit të Kosovës apo të shtetit kërkues.
+5. Duke mos paragjykuar asnjë nga masat e ndërmarra me qëllim të mbrojtjes së personit, në përfundim të dëgjimit duhet të mbahet procesverbal, në të cilin do të përfshihet data dhe vendi i mbajtjes së dëgjimit, identiteti i personit të dëgjuar, identiteti dhe funksioni i të gjithë personave të tjerë në Kosovë që kanë marrë pjesë në dëgjim, çdo betim të dhënë si dhe kushtet teknike në bazë te të cilave është mbajtur dëgjimi. Dokumenti duhet t’i dërgohet autoriteteve kompetente të shtetit kërkues.
+6. Në bazë të kërkesës së huaj, organet gjyqësore vendore mund të zbatojnë dispozitat e këtij neni në dëgjimin e të pandehurit përmes video konferencës. Në këtë rast, vendimi për mbajtjen dhe mënyra e mbajtjes së video konferencës do të bëhet në përputhje me legjislacionin vendor. Dëgjimi i të pandehurit mund të bëhet vetëm me pajtimin e tij/saj.

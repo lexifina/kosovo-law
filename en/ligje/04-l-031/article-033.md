@@ -1,0 +1,6 @@
+# Article 33
+Petition for Transit Passage through the Territory of the Republic of Kosovo
+1. In cases when extradition is required by other countries and extradited person is supposed to pass through the territory of the Republic of Kosovo, Minister of Justice, upon the submitted petition of requesting country, may give the permission for the transit passage of the extradited person through the territory of the Republic of Kosovo on condition that he/she is not citizen of Kosovo and is not involved in political or military offences.
+2. Petition for transit passage should be accompanied by documents provided for by Article 17 paragraph 2. of this Law.
+3. In cases when transit passage is carried out by air transportation, it is not necessary to request the passage permission provided for in paragraph 1. of this Article, if airplane is not expected to land within the territory of the Republic of Kosovo.
+4. In any case, requesting country should inform the Ministry of Justice about the transit passage provided for in paragraph 3. of this Article. Notifying document should contain the name of extradited person, country where person is going to be extradited to and the time of transit air passage.

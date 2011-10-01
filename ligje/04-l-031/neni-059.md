@@ -1,0 +1,5 @@
+# Neni 59
+Personat e ikur nga shteti dënues
+1. Në rastet kur shtetasi Kosovar i cili është subjekt i një dënimi të shqiptuar në territorin e shtetit të huaj si pjesë e aktgjykimit përfundimtar, tenton t’i ikë ekzekutimit të mëtejmë të dënimit në Shtetin e huaj përmes arratisjes në territorin e Kosovës, para se të ketë mbajtur dënimin, me kërkesë te shtetit të huaj Ministria mund te pajtohet të merr përsipër ekzekutimin e dënimit në Kosovë.
+2. Me kërkesë të Shtetit ku personi është i dënuar, organet gjyqësore në Kosovë mund, para arritjes së dokumenteve mbështetëse të kërkesës, ose para vendimit mbi këtë kërkesë, të arrestojë personin e dënuar apo të marrë çfarëdo qoftë mase tjetër për të siguruar që personi i dënuar të mbetet në territor të tij, në pritje të vendimit për kërkesën. Lutja për arrest të përkohshëm duhet të përfshijnë përmendurat dhënat e parapara në paragrafin 3. të nenit 53 të këtij ligji. Pozita juridike e personit të dënuar nuk duhet të përkeqësohet si rezultat i çfarëdo qoftë periudhe të kaluar në arrest, duke u bazuar në këtë paragraf.
+3. Pëlqimi i personit të dënuar nuk do të kërkohet për transferimin e ekzekutimit të dënimit.
