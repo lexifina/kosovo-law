@@ -1,6 +1,0 @@
-LAW NO. 2002/2
-ON PRIMARY AND SECONDARY EDUCATION IN KOSOVO
-The Assembly of Kosovo,
-Pursuant to the authority given to it under United Nations Interim Administration Mission in Kosovo (UNMIK) Regulation 2001/9 of 15 May 2001 on the Constitutional Framework for Provisional Self-Government in Kosovo, sections 9.1.34-45, UNMIK Regulation No. 2001/19 of 13 September 2001 on the Executive Branch of the Provisional Institutions of Self -Government in Kosovo, UNMIK Regulation No. 2000/11 of 3 March 2000 on the Establishment of the Administrative Department of Education and Science, UNMIK Regulation No. 2000/45 of 11 August 2000 on Self Government of Municipalities in Kosovo and UNMIK Regulation No. 2000/51 of 30 August 2000 on the Age of Compulsory School Attendance in Kosovo,
-Taking into account the United Nations Convention on the Rights of the Child, the International Covenant on Civil and Political Rights, the International Covenant on Economic, Social and Cultural Rights, the European Convention for the Protection of Human Rights and Fundamental Freedoms and the Protocol thereto, the European Charter for Regional or Minority Languages and other relevant principles reflected in internationally recognized legal instruments,
-For the purposes of regulating primary and secondary education in Kosovo, Hereby adopts the following Law:

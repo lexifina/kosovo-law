@@ -1,0 +1,8 @@
+# Neni 34
+Kualifikimet shtesë për emërim në pozita udhëheqëse dhe inspektorë
+1. Kandidatët që aplikojnë për pozitën e drejtorit apo zëvendësdrejtorit të një institucioni arsimor apo inspektorit të arsimit duhet të posedojnë licencën si mësimdhënës të kualifikuar.
+2. Me kërkesë të komunës dhe sipas këshillave të KSHLM, Ministria mund të ndryshojë kushtet e kërkuara në paragrafin 1. të këtij neni në raste të veçanta.
+3. Drejtorët dhe zëvendësdrejtorët e institucioneve arsimore dhe aftësuese që tërësisht apo kryesisht punojnë në gjuhët e komuniteteve do të jenë përfaqësues të atyre komuniteteve dhe do të jenë plotësisht të familjarizuar me identitetin e komunitetit përkatës.
+4. Të gjithë drejtorët dhe zëvendësdrejtorët e institucioneve arsimore dhe cilido person tjetër me përgjegjësi për të administruar institucionet arsimore që mbajnë pozitat e tyre deri në datën kur do të hyjë ky ligj në fuqi, duhet të kenë përfunduar me sukses deri më 31 korrik 2013 një program kualifikimi profesional për udhëheqje, administrim ose fusha të ngjashme, i cili duhet të jetë i autorizuar nga Ministria sipas rekomandimeve nga KSHLM-ja.
+5. Nga data 1 gusht 2013, të gjithë kandidatët për postet e cekura në paragrafin 4. të këtij neni para emërimit të tyre duhet të kenë përfunduar me sukses një program kualifikimi profesional për udhëheqje, administrim ose fushë të ngjashme, i cili është i autorizuar nga Ministria sipas rekomandimeve të KSHLM-së.
+6. Ministria, përmes një akti nënligjor, sipas këshillave të KSHLM, përcakton kërkesat për zhvillim profesional për personat që mbajnë pozitat e cekura në paragrafin 4. të këtij neni.

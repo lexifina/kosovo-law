@@ -1,0 +1,19 @@
+# Neni 33
+Licencimi i mësimdhënësve
+1. Licencimi i mësimdhënësve, zhvillimi i kornizës dhe standardet për zhvillim profesional dhe vlerësim të performancës është përgjegjësi e Ministrisë, e cila vepron sipas këshillave dhe rekomandimeve të KSHLM-së.
+2. Licencimi i mësimdhënësve përcakton kërkesat që duhet plotësuar nga mësimdhënësit për të hyrë dhe qëndruar në profesion, si dhe kriteret dhe kërkesat për avancim në sistemin e licencimit.
+3. Ministria, përmes aktit nënligjor, sipas këshillave të KSHLM-së, përcakton:
+3.1. sipas paragrafit 4. të këtij neni, kërkesat për kualifikim të mësimdhënësve, duke përfshirë nivelin e kërkuar të kualifikimit për një nivel të caktuar të arsimit parauniversitar.
+3.2. procedurat për avancimin e kualifikimit të mësimdhënësve ekzistues duke organizuar kualifikimin e tyre në nivelin e njëjtë të kërkuar për mësimdhënës të rinj, deri në Gusht 2020.
+3.3. kërkesat për zhvillim profesional dhe performancë të mësimdhënësve në kuadër të procesit të licencimit.
+3.4. standardet dhe procedurat e akreditimit të programeve të zhvillimit profesional të mësimdhënësve;
+3.5. standardet e praktikës profesionale të mësimdhënësve;
+4. Të gjitha programet universitare që qojnë drejt kualifikimit për mësimdhënës duhet që më së voni deri në fillim të vitit akademik 2012/2013 të jenë ekuaivalent me programet e ciklit të dytë prej 300 ECTS që përmbajnë komponentën akademike, profesionale dhe pjesë praktike, detajet e të cilave rregullohen përmes aktit nënligjor.
+5. Në rastin e mësimdhënësve të nivelit 4 të ISCED-it, duke përfshirë ata të punësuar në institucionet për arsimimin dhe aftësimin profesional, Ministria, në bazë të rekomandimeve të KSHLM-së, mund të specifikojë kërkesa shtesë apo alternative për aftësim që pasqyrojnë karakterin profesional të këtij niveli. Kualifikimet e tilla përcaktohen në një akt nënligjor.
+6. Pas rekomandimit të KSHLM-së, Ministria mund të saktësojë kualifikime shtesë për mësimdhënësit e nxënësve me vështirësi në të mësuar, të nxënësve me pengesa në dëgjim, të nxënësve me pengesa në të parë dhe të nxënësve që kanë pengesa në dëgjim dhe në të parë. Ato kualifikime përcaktohen përmes aktit nënligjor.
+7. Rivlerësimi i një mësimdhënësi të licencuar me qëllim të përtëritjes së licencës, do të ndodhë në një interval kohor që nuk kalon pesë vite nga data e lëshimit të licencës ekzistuese.
+8. Rivlerësimi i një mësimdhënësi të licencuar mund të iniciohet në çdo kohë, nëse puna e mësimdhënësit është një çështje për t’u brengosur; në raste të tilla, komuna ndërmerr hapat e duhur për t’i dhënë udhëzime dhe përkrahje mësimdhënësit në fjalë.
+9. Një licencë mund të revokohet apo pezullohet nga Ministria nëse sipas mendimit të saj, bazuar në një raport të përpiluar nga një mjek i pavarur, mësimdhënësi nuk është në gjendje të vazhdojë punën për shkak të mungesës së kapaciteteve shëndetësore, fizike apo mentale. Në raste të tilla, mësimdhënësi në fjalë do të ketë të drejtën për të paraqitur dëshmi mjekësore dhe të ankohet me shkrim në Ministri. Vendimi i Ministrisë do të jetë përfundimtar.
+10. Një licencë mund të merret apo pezullohet nga Ministria me kërkesë të drejtorit komunal të arsimit, atëherë kur procedurat disiplinore janë ndërmarrë kundër një mësimdhënësi. Pezullimi do të shqyrtohet pas përfundimit të procedurave të tilla dhe ndonjë ankese që mund të paraqitet.
+11. Licenca tërhiqet menjëherë nga Ministria pas shqiptimit të dënimit për shkelje të ligjit ose për vepra të padenja që përfshijnë fëmijët. Organet e caktuara shtetërore do të lajmërohen për këtë tërheqje sipas ligjit në fuqi.
+12. Nëse një person, i cili e ka marr licencën sipas këtij neni, lë përkohësisht profesionin e mësimdhënies me vullnetin e tij, mund të kthehet në statusin e mësimdhënësit me licencë të rregullt pa ndonjë periudhë provuese, nëse mungesa e tij është më e shkurtër se pesë (5) vite. Kjo dispozitë nuk është e aplikueshme për mësimdhënësit e shkarkuar nga pozitat e tyre.
