@@ -1,0 +1,8 @@
+# Neni 12
+Mbledhja e informatave
+1. Gjatë një hetimi Ministria mund t’u dërgojë pyetësorë palëve të interesuara, të cilat ajo beson se mund të kenë informacion të vlefshëm në lidhje me hetimin, përfshirë këtu prodhuesit vendorë, importuesit, eksportuesit, prodhuesit e huaj dhe qeveritë e vendeve eksportuese drejtpërdrejt të interesuara për produktet të cilat janë nën hetim.
+2. Ministria do t’u japë së paku tridhjetë (30) ditë eksportuesve, prodhuesve të huaj dhe vendeve të interesuara që pranojnë pyetësorin për të dhënë përgjigjet e tyre. Ky afat kohor do të fillojë nga data kur pyetësori i është dërguar pranuesit ose i është dorëzuar misionit diplomatik të vendit eksportues.
+3. Një zgjatje të afatit prej pesëmbëdhjetë (15) ditë mund ti jepet palës për dorëzim të përgjigjeve dhe do të aprovojë zgjatjen e afatit nëse ka arsye të bazuar.
+4. Gjatë hetimeve Ministria mund përmes pyetësorëve apo kërkesës me shkrim për sqarim apo për më shumë informacione, të kërkojë informata shtesë nga palët e interesuara. Këto kërkesa e kanë një afat kohor, të përcaktuar në këtë nen.
+5. Ministria mund të kryejë inspektime verifikimi, me qëllim të verifikimit të informacionit të dhënë nga palët e interesuara. Palët do të njoftohen për llojin e informacioneve që do të verifikohen gjatë inspektimeve për verifikim, edhe pse kjo nuk duhet ta parandalojë atë nga bërja e kërkesave për detaje të mëtejshme për sqarimin e informacionit të marrë.
+6. Ministria do të japë vlerësimin e saj në afat prej njëqindetetëdhjetë (180) ditëve për ekzistencën e rritjes së importit duke u bazuar në të dhënat që i referohen periudhës së caktuar, periudhë kjo për të cilën kërkohen informatat.

@@ -1,0 +1,4 @@
+# Neni 4
+Masat mbrojtëse dhe kushtet e zbatimit të tyre
+1. Masat mbrojtëse duhet të përbëjnë një detyrim mbrojtës ad valorem të llogaritur sipas vlerës së produktit të importuar e cila mund të zbatohet përmes kuotës tarifore në importet e produktit të hetuar.
+2. Masat mbrojtëse në produktet e importuara në territorin e Republikës së Kosovës zbatohet vetëm nëse është përcaktuar, përmes një hetimi të kryer sipas dispozitave të këtij ligji që produkti i hetuar është importuar në territorin e Republikës së Kosovës në sasi të mëdha dhe në kushte të tilla që i shkaktojnë ose kërcënojnë të shkaktojnë dëme serioze prodhuesve të mallrave të njëjta në Kosovë ose që shkakton çrregullime në një sektor të ekonomisë të cilat do të mund të sillnin përkeqësim të gjendjes ekonomike të këtij sektori në Kosovë.

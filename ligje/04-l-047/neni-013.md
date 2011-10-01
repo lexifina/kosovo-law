@@ -1,0 +1,5 @@
+# Neni 13
+Konsultimet me kërkesë të palëve të interesuara pjesëmarrëse
+1. Ministria me kërkesë të palëve të interesuara pjesëmarrëse, do të organizojë konsultime ku të gjitha palët e interesuara pjesëmarrëse do të mund t’i paraqesin informatat dhe argumentet. Kërkesa me shkrim për konsultime duhet të dorëzohet jo më vonë se dyzetepesë (45) ditë nga inicimi i një hetimi dhe/ose nga zbatimi i masave të përkohshme mbrojtëse.
+2. Palët e interesuara pjesëmarrëse do t’i dorëzojnë Ministrisë listën e përfaqësuesve që do të marrin pjesë në konsultime së paku shtatë (7) ditë para datës së konsultimeve.
+3. Konsultimet do të drejtohen nga një përfaqësues i autorizuar i Ministrisë, i cili do të sigurojë se konfidencialiteti i informatave që paraqesin sekret tregtar apo shtetëror (zyrtar) do të ruhet, si dhe do të ofrojë mundësi të barabarta të gjitha palëve për të paraqitur pikëpamjet e tyre. Ministria do të bëjë protokollet e konsultimeve, të cilat menjëherë do të vendosen në dosjen publike, me përjashtim të informatave konfidenciale, sipas nenit 26 të këtij ligji.

@@ -1,0 +1,8 @@
+# Article 22
+The Duration of a Safeguard Measures
+1. The duration of an initial safeguard measure shall not exceed four (4) years, including duration of the temporary safeguard measure based to article 20, paragraph 2 of present law, if there is no after affect of preventing the damage or threat of harm.
+2. The mentioned period can be extended, if the Ministry determines through latter investigations, conducted according to the provisions of this Law, that the application of the safeguard measure continues to be necessary to prevent or eliminate serious injury, and if there is evidence that the situation with respect to the producer’ productivity or economic conditions are improving due to the application of the safeguard measure.
+3. The investigation with respect to the extension of the period of the safeguard measure shall be initiated at least hundred and eighty (180) days before the end of the period of the initial measure already being applied.
+4. The total duration of a safeguard measure (including the duration of the provisional measure and the durations of the initial and extended measures) shall not exceed 8 years.
+5. Extension of the period of a safeguard measure shall cover the same products, on which the initial safeguard measure was applied. The conditions of the extended safeguard measure shall not be more restrictive than those at the end of the period of application of the initial measure.
+6. If the duration of a safeguard measure exceeds one year, the conditions of application of the measure shall be periodically liberalized during the whole period of application, as well as during the extension period of the measure.

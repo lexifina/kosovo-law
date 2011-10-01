@@ -1,0 +1,5 @@
+# Article 13
+Consultation upon request of the participating interested parties
+1. The Ministry shall, upon request of the participating interested parties, organize consultations, at which all participating interested parties may present information and arguments. A written request for consultations shall be submitted no later than forty five (45) days after the initiation of an investigation and/or application of a provisional safeguard measure
+2. Participating interested parties shall submit to the Committee the list of the representatives who will participate in the consultations at least seven (7) days before the date of consultations.
+3. Consultations shall be presided over by an authorized representative of the Ministry, who shall assure that confidentiality of information representing trade or state (official) secret is preserved, as well as shall provide an equal opportunity for all the parties to present their views. The Ministry shall make protocols of the consultations, which shall be promptly placed in the public file, with the exception of confidential information, pursuant to the Article 26 of this Law.
