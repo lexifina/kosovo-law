@@ -1,9 +1,0 @@
-# Section 74
-Composition and Decisions of the Jury
-74.1 The jury shall be composed of an uneven number of natural persons, but in no case less than three (3). These persons shall be selected by the contracting authority and shall not in any way be related to or affiliated with a participant in the contest. If the participants are required to possess a specific professional qualification, at least two thirds of the members of the jury shall also have that qualification or its equivalent.
-74.2 The jury shall decide the contest only on the basis of the criteria indicated in the design contest notice. The identity of the participants shall not be disclosed to the members of the jury.
-74.3 No person outside the jury shall influence or attempt to influence the decision of the jury or the opinion of any jury member.
-74.4 Only the decision of the jury shall be disclosed to a person who is not a jury member. The substance of the deliberations of the jury and the opinions of the individual jury members shall be maintained as confidential by all jury members. Except where required by a written order of the PPRC, a review panel or a court of competent jurisdiction, no jury member shall disclose or discuss the substance of such deliberations or the opinion of any individual jury member with any person who is not also a member of the jury. A jury member who violates the duty of confidentiality specified in this Section 74.4 shall be subject to an administrative penalty of up to 10,000 Euros which shall be determined and assessed by the PPRC.
-50 74.5 A jury shall make reasonable efforts to reach a consensus decision. If, after reasonable efforts, a majority of the members of the jury decide that a consensus decision cannot be reached, the jury shall decide the contest by majority vote. The Rules Committee shall establish clear, rational, non-discriminatory rules and procedures to govern such voting.
-TITLE IV
-ADDITONAL RULES ON WORKS CONCESSION CONTRACTS

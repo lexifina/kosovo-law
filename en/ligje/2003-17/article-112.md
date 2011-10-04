@@ -1,5 +1,0 @@
-# Section 112
-Decision-Making Deadline
-112.1 In order to protect the interests of the contracting authority and the concerned economic operators, proceedings before the review panel shall be efficient and concluded within the shortest period possible while respecting the provisions of the present law and the rules of procedure established pursuant to Section 103. .
-112.2 The review panel shall issue its final written decision, together with a written statement of the bases for such decision, and any order required to give effect to such decision not later than ten (10) calendar days following the expiration of the time limit specified in Section 110.7. Where the matter involves particularly complex issues or facts, the review panel may designate the matter as a particularly complex matter and may 64 then extend the deadline for the issuance of such decision, statement of reasons and order by a maximum of an additional ten (10) calendar days.
-112.3 The review panel shall promptly send its final written decision, its written statement of the bases for such decision, and any accompanying order to the contracting authority and the complainant.

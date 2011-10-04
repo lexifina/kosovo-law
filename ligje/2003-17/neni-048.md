@@ -1,7 +1,0 @@
-# Neni 48
-Dërgimi dhe përmbajtja e ftesave dhe kërkesave për kuotimin e çmimeve
-48.1 Gjatë procedurave të kufizuara, procedurave të negociuara pas publikimit të njoftimit të kontratës dhe procedurave të kuotimit të çmimeve, autoriteti kontraktues njëkohësisht do t’u dërgoj të gjithë kandidatëve të zgjedhur ftesën për tenderim.
-48.2 Gjatë procedurave të kufizuara dhe të negociuara pas publikimit të njoftimit të kontratës të gjitha ftesat për tenderim do të dërgohen së bashku me dosjen e tenderit, përveç për sa autoriteti kontraktues ka bërë të mundshme marrjen e dosjes së tenderit në mënyrë elektronike. Nëse autoriteti kontraktues i ka vënë materialet e tilla në dispozicion në mënyrë elektronike, ftesa do të përmbajë informacione të mjaftueshme që t’i mundësojë kandidatit qasje në këtë material.
-48.3 Gjatë procedurave të kuotimit të çmimeve, ftesa për tenderim duhet të përmbajë të gjitha informacionet materiale që u nevojiten kandidatëve për të dorëzuar kuota të përgjegjshme të çmimeve.
-48.4 Forma dhe përmbajtja e secilit tender, dokument ose informatë tjetër dorëzuar kandidatit, duhet të jetë indentike me ato që i dorëzohen secilit kandidat tjetër. Asnjë kandidat nuk do të ketë më pak ose më shumë qajse në çfarëdo dokumenti ose informacioni, sesa cilido kandidat tjetër.
-48.5 Nëse një aktivitet i prokurimit që përdor procedurat e kufizuara zbatohet me afate të përshpejtuara kohore sipas nenit 44.3, autoriteti kontraktues do të dërgojë ftesat për dorëzimin e tenderëve në mënyrën më të shpejtë të komunikimit që është e mundur.

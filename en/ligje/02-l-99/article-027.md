@@ -1,6 +1,0 @@
-## Chapter 1
-## Rules Governing Technical Specifications and Tender Dossiers
-# Section 27
-Tender Dossier 27.1. Except as provided in Section 27.2, a contracting authority shall draw up a tender dossier providing all relevant information on the concerned contract, including all material terms and conditions thereof, the applicable procurement procedure, any applicable eligibility requirements or selection criteria, the procedure governing complaints and such other information as the present law may require or the contracting authority deems necessary. If the concerned procurement activity requires the publication of a contract notice, the tender dossier shall contain a copy of such notice and such other relevant information that may be necessary to clarify and supplement the information contained in such notice. A contracting authority shall designate in the tender dossier the applicable technical specifications and, where appropriate, indicate its willingness to consider variants, but only in accordance with Sections 28 and 29 of the present law.
-27.2. The tender dossier requirements of Section 27.1 shall not apply to a procurement activity for (i) a minimal value contract or (ii) a contract to be awarded using price quotation procedures.
-23

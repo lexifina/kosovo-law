@@ -1,5 +1,0 @@
-# Neni 92
-Mirëmbajtja e Regjistrit të Prokurimit Publik
-92.1 APP-ja do të krijojë dhe do të mirëmbajë një Regjistër të azhurnuar të Prokurimit Publik që shërben si vend për ruajtjen e kopjeve elektronike të të gjitha njoftimeve, ftesave, deklaratave, raporteve, ankesave dhe vendimeve të regjistruara ose të nxjerra në lidhje me çdo aktivitet të prokurimit të kryer ose të filluar nga autoriteti kontraktues.
-92.2 APP-ja do të mirëmbajë një regjistër të tillë në mënyrë elektronike në formë të një baze kompjuterike të të dhënave. APP-ja do të krijojë një faqe në internet në mënyrë që të mundësohet qasja e publikut në të gjitha informacionet e regjistrit.
-92.3 Regjistri do të sigurojë një qasje të tillë në informacionet e tilla për një periudhë pesëvjeçare, pas (i) skadimit ose përfundimit të kontratës përkatëse publike, (ii) mbylljes së konkursit të projektimit, ose (iii) nëse aktiviteti i prokurimit formalisht anulohet ose përndryshe përfundon pa dhënien e kontratës, në datën kur aktiviteti i prokurimit është anuluar ose përfunduar.

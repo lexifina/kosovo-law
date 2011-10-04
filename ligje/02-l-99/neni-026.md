@@ -1,4 +1,0 @@
-# Neni 26
-(Shfuqizohet)
-PJESA II
-RREGULLAT PËR KONTRATAT PUBLIKE

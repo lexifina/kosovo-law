@@ -1,2 +1,0 @@
-# Section 70
-Design Contest Results Notice A contracting authority that has held a design contest shall, within two (2) business days of the conclusion of such contest, prepare a notice on the results of the design contest in the languages required by Section 12 of the present law. If the contracting authority is not the PPA, the contracting authority shall immediately submit to the PPA all language versions of such notice to the PPA. The contracting authority shall immediately submit to the PPRC all language versions of such notice.

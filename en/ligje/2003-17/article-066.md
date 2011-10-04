@@ -1,5 +1,0 @@
-# Section 66
-Groups of Economic Operators
-66.1 A request to participate or a tender may be submitted by a group of economic operators. No such group may be required to assume a specific legal form in order to submit the tender; however, the group selected may be required to do so after it has been awarded the concerned contract, to the extent that such a requirement is necessary for the satisfactory performance of the contract.
-66.2 If a tender is submitted by such a group, the group shall be required to submit with its tender a signed original of the agreement establishing such group. All contracting authorities shall set forth this requirement in their tender dossiers.
-66.3 All members of such a group shall be jointly and severally liable to the contracting authority for the contents of the group’s tender and, if the concerned contract is awarded to such group, the performance of such contract. All contracting authorities shall include in their tender dossiers a notice to this effect.

@@ -1,3 +1,0 @@
-# Neni 36
-Procedurat për kontratat me vlerë minimale
-Komisioni i Rregullave për Prokurim Publik është i autorizuar që në rregullat e prokurimit publik të vendosë një procedurë të veçantë për të rregulluar dhënien e kontratave me vlerë minimale. Komisioni i Rregullave për Prokurim Publik do të sigurojë që procedurat e tilla sigurojnë dhe mundësojnë konkurrencë adekuate, transparente dhe sa më ekonomike për përdorimin e fondeve publike. Komisioni i Rregullave për Prokurim Publik gjithashtu do të sigurojë që procedurat e tilla t’i rrespektojnë parimet e mos-diskriminimit dhe të gjitha dispozitat e aplikueshme të këtij ligji.

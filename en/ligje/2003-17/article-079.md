@@ -1,3 +1,0 @@
-# Section 79
-Rules Applicable When the Works Concessionaire is Not a Contracting Authority
-When the works concessionaire is not a contracting authority, such works concessionaire shall, when conducting procurement activities having as their object the award to a third party of a contract having an estimated value in excess of 100,000 Euros, conduct such activities in compliance with the provisions of the present law in the same manner as that required of a contracting authority. A works concessionaire shall comply with Sections 15-17 of the present law when estimating the value of its contracts. 51

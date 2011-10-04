@@ -1,4 +1,0 @@
-# Neni 2
-Fushëveprimi
-2.1 Ky ligj vlen për të gjitha aktivitetet e prokurimit të autoriteteve kontraktuese dhe koncesionerëve të punëve, ashtu siç përcaktohen këto terme në këtë ligj. Nga këto autoritete dhe koncesionerë kërkohet që, gjatë ushtrimit të aktiviteteve të tyre të prokurimit, t’i respektojnë dhe të veprojnë në përputhje me rregullat dhe kërkesave qenësore të këtij ligji.
-2.2 Poashtu, ky ligj vlen për të gjithë personat, operatorët ekonomik, dhe ndërmarrjet, ashtu si përcaktohen këto terme në këtë ligj, që janë të përfshirë, marrin pjesë ose interesohen, drejtpërdrejtë ose tërthorazi, në aktivitete prokurimi të rregulluara me këtë ligj; nga personat e tillë, operatorët, dhe ndërmarrjet poashtu kërkohet që t’i respektojnë dhe të veprojnë në përputhje me kërkesat procedurale të zbatueshme dhe qenësore të këtij ligji.

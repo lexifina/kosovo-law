@@ -1,5 +1,0 @@
-# Section 58
-Contract Award Criteria
-58.1. Except as provided for in Sections 58.2 and 58.3, a contracting authority shall make an award of a public contract to the economic operator submitting the lowest-priced tender.
-58.2. If, in accordance with Section 50, the contracting authority has specified in the tender dossier that the award of a public contract shall be made to the economic operator submitting the most economically advantageous tender, such award shall be made only on the basis of the criteria and weighting that have been specified in the tender dossier in accordance with Section 50.3.
-58.3. The PPRC shall establish in the public procurement rules a detailed procedure that contracting authorities shall be required to follow when examining, evaluating and comparing tenders and awarding public contracts. The PPRC shall ensure that such procedure is (i) in accordance with best international practice, (ii) provides for adequate competition and transparency, (iii) implements the principle of non-discrimination and (iv) and otherwise complies with all applicable provisions of the present law.

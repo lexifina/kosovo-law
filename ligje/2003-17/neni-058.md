@@ -1,5 +1,0 @@
-# Neni 58
-Kriteret për dhënien e kontratës
-58.1 Përveç siç thuhet në nenin 58.2 dhe 58.3, autoriteti kontraktues do të i’a japë kontratën publike operatorit ekonomik që ka dorëzuar tenderin me çmimin më të ulët.
-58.2 Nëse, në përputhshmëri me nenin 50, autoriteti kontraktues ka specifikuar në dosjen e tenderit se kontrata publike do t’i ipet operatorit ekonomik që ka dorëzuar tenderin më të favorshëm ekonomik, dhënia e tillë do të bëhet vetëm në bazë të kritereve dhe peshën e kritereve të tilla që janë specifikuar në dosjen e tenderit, në përputhshmëri me nenin 50.2.
-58.3 Komisioni i Rregullave për Prokurim Publik në rregullat e prokurimit publik do të vendosë një procedurë detale që autoritetet kontraktuese duhet ta respektojnë gjatë ekzaminimit, vlerësimit dhe krahasimit të tenderëve dhe dhënien e kontratave publike. Komisioni i Rregullave për Prokurim Publik do të sigurojë që procedurat e tilla (i) janë në përputhshmëri me praktikat më të mira ndërkombëtare, (ii) sigurojnë konkurrencë dhe transparencë adekuate, (iii) zbaton parimin e mos-diskriminimit, dhe (iv) përndryshe është në përputhshmëri me të gjitha dispozitat e aplikueshme të këtij ligji.

@@ -1,9 +1,0 @@
-# Section 86
-Appointment of Members
-86.1 The PPRC shall be comprised of five (5) individuals. All members shall be appointed as provided in this Section 86 for a term of five years.
-86.2 Each member of the PPRC shall have the status of a civil servant under the law applicable in Kosovo and shall not be subject to removal or suspension prior to the expiration of their term except by an order of the Government or an order of a court of competent jurisdiction as provided for in Section 89 of the present law.
-86.3 The President and the other members of PPRC shall be nominated by the Government and appointed by the Assembly. In making such nominations, the Government shall give regard to the requirements for membership specified in Sections 86.4 – 86.7
-86.4 No person may be appointed or serve as a member of the PPRC if he/she would be ineligible to participate in a procurement activity by reason of a provision of Section 61.2
-86.5 The Government shall ensure that each member of the PPRC holds a university degree, possesses substantial procurement or other relevant experience and is not ineligible by reason of Section 86.4.
-86.6 The Government shall ensure that at least one member of the PPRC possesses the same qualifications as those required under the applicable law for a judicial appointment. The Government shall designate such a member to serve as the Review Panel Chairperson, who shall be responsible for overseeing the PPRC’s proper implementation of the procurement review procedures established in Title VIII of the present law.
-86.7 The Government shall ensure that each of the other members of the PPRC meets one of the following criteria: (i) he/she is a lawyer, accountant, economist or other professional holding a university degree and possessing substantial procurement or other relevant experience, or (ii) he/she holds a university degree in engineering or architecture and has substantial experience in executing works projects.

@@ -1,5 +1,0 @@
-# Neni 66
-Grupet e operatorëve ekonomik
-66.1 Grupi i operatorëve ekonomik mund të dorëzojë ftesë për pjesëmarrje ose një tender. Nga asnjëri grup i tillë nuk kërkohet që të marrë përsipër ndonjë formë të veçantë ligjore për të paraqitur tenderin; mirëpo, nga grupi i përzgjedhur mund të kërkohet që të bëjë këtë pasi që të ipet kontrata në fjalë, për aq sa kjo është e nevojshme, për përmbushjen e mjaftueshme të kontratës.
-66.2 Nëse një tender dorëzohet nga një grup i tillë, nga grupi kërkohet që së bashku me tenderin e tij të dorëzojë edhe marrëveshjen për krijimin e atij grupi. Të gjitha autoritetet kontraktuese duhet që t’a parashtrojë këtë kusht në dosjet e tyre të tenderit.
-66.3 Të gjithë anëtarët e grupit në fjalë janë së bashku dhe secili veçmas të përgjegjshëm para autoritetit kontraktues për përmbajtjen e tenderit të grupit dhe nëse kontrata përkatëse i ipet grupit në fjalë, ata gjithashtu janë së bashku dhe veçmas të përgjegjshëm për ekzekutimin e kontratës në fjalë. Të gjitha autoritetet kontraktuese në dosjet e tyre të tenderit duhet ta përfshijnë një njoftim lidhur me këtë çështje.
