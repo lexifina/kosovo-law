@@ -1,0 +1,5 @@
+# Neni 8
+8.1 Të gjithë personat, të cilët kanë ose banojnë në një pronë të paluajtshme, janë të obliguar që ta regjistrojnë atë pronë në bazë të të dhënave për tatimin komunal të pronës, dhe t’i ofrojnë Komunës informacionin lidhur me pronën e paluajtshme, e cila i nënshtrohet regjistrimit më 1 mars ose para 1 marsit të çdo periudhe tatimore.
+8.2 Të gjithë personat, të cilët kanë, shfrytëzojnë ose marrin një pronë të paluajtshme, përveç rasteve të caktuara në nenin 8.3, duhet t’i lejojnë zyrtarët e autorizuar që përfaqësojnë autoritetet komunale të tatimit, të hyjnë në tokën dhe në ndërtesat e tyre gjatë orëve të ditës për t’i mbledhur të dhënat lidhur me vlerën e pronës.
+8.3 Komuna mund të kërkojë nga UNMIK-u, KFOR-i, ICO-ja, EULEKS - i ose zyrat e jashtme të ndërlidhjes që posedojnë ose shfrytëzojnë pronë të paluajtshme, të sigurojnë të dhëna mbi atë pronë për bazën e të dhënave tatimore mbi pronën komunale. Sigurimi i një informacioni të tillë duhet të bëhet në baza vullnetare dhe nuk cenon privilegjet dhe imunitetin që mund të vlejë në këto raste.
+Përgjegjësitë komunale

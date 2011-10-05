@@ -1,0 +1,7 @@
+# Neni 11
+11.1 Ministria e Financave nxjerrë udhëzim administrativ, me të cilin parashtrohen standardet unike të vlerësimit, sipas të cilave Komuna e vendos vlerën e pronës në treg. Standardet përfshijnë variablet relevante të vlerësimit, siç janë vlera në pajtim me kontratën e shitjes së pronës së paluajtshme, e vlerësuar nga organi kompetent, të ardhurat të cilat krijohen nga prona, shpenzimet e ndërtimit, vendi, madhësia dhe gjendja e pronës. Standardet do të bazohen në një vlerësim të përgjithshëm, pos rasteve kur prona shfrytëzohet për qëllime të veçanta ose për pronë unike.
+11.2 Drejtoria e përcakton vlerën e tregut të pronës që është nën juridiksionin e saj, në pajtim me standardet e përcaktuara në përputhje me dispozitat e Ligjit për tatimin në pronën e paluajtshme.
+11.3 Drejtoria e shqyrton dhe e përcjell vlerën e tregut të çdo prone që është nën juridiksionin e saj, për çdo tri ose pesë vjet.
+11.4 Drejtoria e rivlerëson pronën çdo vjet, nëse janë kryer ndërtime të reja ose janë bërë përmirësime thelbësore në pronë dhe nëse ekziston ndonjë ndryshim në shfrytëzimin e pronës.
+11.5 Pronari ose shfrytëzuesi i pronës mund të kërkojë nga Komuna rivlerësimin e pronës, kur prona ka pësuar dëm, për të cilin nuk është shkaktar ose përgjegjës pronari apo shfrytëzuesi, siç janë dëmet që mund të ndodhin nga thatësira, vërshimi, zjarri, tërmeti, lufta ose fatkeqësitë e tjera.
+Faturat e tatimit
