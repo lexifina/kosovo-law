@@ -1,0 +1,15 @@
+# Article 20
+Creditors Committee
+1. A Creditors Committee shall be appointed by the Court during the Initial Creditors Meeting. The Creditors Committee shall be comprised of a group of Persons that may reasonably be regarded as representative of all creditors. The Creditors Committee shall include two (2) of the Employee Representatives and at least three (3) but not more than seven (7) of the other non- employee creditors who have timely filed Proofs of Claim with the Administrator on or before the Claims Deadline. If one or more public authorities in Kosovo have filed a Proof of Claim, the
+Minister of Finance or his/her duly designated representative shall be included as one of the non- employee creditors on the Creditors Committee.
+2. The Court shall have the authority to issue any order that it deems necessary or advisable with respect to the functioning or representation of the Creditors Committee, including - but not limited to – an order designating a suitably qualified and independent third party to act on behalf of all creditors when the Creditors Committee fails to function fairly or effectively.
+3. Members of the Creditors Committee shall have the following rights and obligations:
+3.1. the right to receive a copy of the reports of the Administrator concurrently with the Court, such reports shall be provided by the Administrator every six (6) months;
+3.2. the right to receive any request or application for Court action;
+3.3. the right to request the Administrator to answer questions concerning the Enterprise;
+3.4. the right to request the Administrator to initiate an action to avoid a transaction under Article 15 or to reject a Claim under Article 30 of this law;
+3.5. the obligation to share with all Registered Creditors access to information obtained about the Enterprise;
+3.6. the right to receive reimbursement for reasonable travel and other costs incurred to attend Creditors Committee meetings;
+3.7. if requested by the Administrator, to act as consultation group for the Enterprise and the Administrator and to assist the Enterprise and the Administrator in their decision- making processes; and
+3.8. such other rights or obligations provided for by this law or by Court order.
+4. The Administrator may seek the removal of a member of the Creditors Committee where the Administrator has reasonable grounds to believe that such removal is necessary or desirable; such grounds may include, – but are not limited to – the existence of facts tending to demonstrate that such member is using its status as a member of the Creditors Committee to undermine the reorganization process or to impair or damage the Enterprise, its business or its continuing viability. Such removal may also be sought by the majority of the other members of the Creditors Committee. In either case, an application for the concerned member’s removal shall be submitted to the Court. If the application is granted, the Court shall remove the concerned member and replace such member with another Registered Creditor.

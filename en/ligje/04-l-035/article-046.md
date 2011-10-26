@@ -1,0 +1,6 @@
+## PART IX
+## ADMINISTRATIVE SANCTIONS
+# Article 46
+Submission of False Claim Documents
+1. Any Person who knowingly makes any materially false or misleading statement, orally or in writing, in connection with proceedings conducted under this law, or who knowingly submits a document in such proceedings containing such a materially false or misleading statement, or who knowingly assists or encourages any other person to commit such an act shall be liable for an administrative fine not exceeding one hundred thousand Euros (€100,000) per instance. In the case of a natural person such person may in addition become subject to criminal proceedings in accordance with the applicable provisions of the Provisional Criminal Code.
+2. Any Person knowingly submitting a false Claim or false document or making a false statement in a document submitted to the Court in proceedings under this law, shall be liable for an administrative fine not exceeding one hundred thousand Euro (€100,000) per instance. In the case of a natural person including officers and directors of legal persons, such persons may in addition become subject to criminal proceedings in accordance with the applicable provisions of the Provisional Criminal Code.

@@ -1,0 +1,3 @@
+# Neni 16
+Detyrimi për të bashkëpunuar me administratorin
+Ndërmarrja, menaxhmenti, punëtorët e Ndërmarrjes, duke përfshirë punëtorët e mëparshëm, dhe të gjithë personat përkatës, duke përfshirë të gjitha autoritetet publike, duhet të bashkëpunojnë me Administratorin dhe të sigurojnë qasje në të gjitha dokumentet dhe informatat lidhur me aktivitetet dhe veprimet e Ndërmarrjes, duke përfshirë, por pa u kufizuar, të gjitha informatat lidhur me Kërkesat, pagesat, transferet ose tjetërsimet e pronave dhe aseteve të Ndërmarrjes dhe të gjitha pagesat, transferet ose marrëveshjet afariste me Ndërmarrjen.

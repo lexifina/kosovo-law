@@ -1,0 +1,3 @@
+# Article 16
+Duty to Cooperate with Administrator
+The Enterprise, the Management, the employees of the Enterprise, including former employees, and all other relevant Persons, including all public authorities, shall co-operate with the Administrator and shall provide access to all documents and information concerning the activities and operations of the Enterprise and its Assets, including, but without limitation to, all information about Claims, disbursements, transfers or alienations of property and Assets of the Enterprise and of all payments, transfers or business dealings with the Enterprise.

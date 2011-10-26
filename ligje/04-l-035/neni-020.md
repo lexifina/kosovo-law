@@ -1,0 +1,14 @@
+# Neni 20
+Komisioni i kreditorëve
+1. Komisioni i kreditorëve caktohet nga gjykata gjatë mbledhjes së parë të kreditorëve. Komisioni i kreditorëve përbëhet nga një grup personash që mund të konsiderohen në mënyrë të arsyeshme si përfaqësues të të gjithë kreditorëve. Komisioni i Kreditorëve përshin dy (2) Përfaqësues të Punonjësve dhe së paku tre (3) por jo më shumë se shtatë (7) kreditorë tjerë jo- punonjës që kanë parashtruar Dëshmi të Kërkesës në kohë pranë Administratorit brenda Afatit të Kërkesave. Nëse Dëshmi të Kërkesës kanë paraqitur një apo më shumë autoritete publike të Kosovës, Ministri i Financave apo përfaqësuesi i tij/saj përfshihen si kreditorë jo-punonjës në Komisionin e Kreditorëve.
+2. Gjykata ka autoritet të nxjerrë urdhra që konsideron se janë të nevojshëm apo të këshillueshëm në lidhje me funksionimin apo përfaqësimin e komisionit të kreditorëve, përfshirë edhe urdhrin për caktimin e palës së kualifikuar dhe të pavarur të tretë për të vepruar në emër të të gjithë kreditorëve nëse komisioni i kreditorëve dështon të funksionojë si duhet apo në mënyrë efektive.
+3. Anëtarët e komitetit të kreditorëve kanë të drejtat dhe obligimet në vijim:
+3.1. të drejtën për të pranuar kopje të raporteve të Administratorit, në të njëjtën kohë me Gjykatën, raportet e tilla sigurohen nga administratori çdo gjashtë (6) muaj;
+3.2. të drejtën për të pranuar kërkesa për veprim të Gjykatës;
+3.3. të drejtën për t‟i kërkuar Administratorit të përgjigjet në pyetje që kanë të bëjnë me Ndërmarrjen;
+3.4. të kërkojë nga administratori që të ndërmarrë veprime për anulimin e transaksioneve sipas nenit 15 të këtij ligji ose ta refuzojë kërkesën sipas nenit 30 të këtij ligji;
+3.5. të ndajë me të gjithë Kreditorët e Regjistruar qasjen në informatat e marra për Ndërmarrjen.;
+3.6. të drejtën për të kërkuar kompensim për shpenzime të arsyeshme të udhëtimeve dhe shpenzime të shkaktuara për të marrë pjesë të takimet e komisionit të kreditorëve;
+3.7. nëse kërkohet nga Administratori, të veprojë si grup konsultimi për Ndërmarrjen dhe Administratorin në proceset e tyre vendimmarrëse; dhe
+3.8. të drejtat dhe obligimet e tjera të përcaktuara me këtë ligj apo me urdhër të gjykatës.
+4. Administratori mund të kërkojë largimin e një anëtari të komisionit të kreditorëve nëse Administratori ka baza të arsyeshme për të besuar se ai largim është i domosdoshëm apo i dëshirueshëm. Këto baza mund të përfshijnë, mes tjerash, ekzistimin e fakteve që mund të dëshmojnë se ai anëtar është duke e përdorur statusin e anëtarit në komisionin e kreditorëve për të minuar procesin e riorganizimit apo për të dëmtuar Ndërmarrjen. Largimi i tillë gjithashtu mund të kërkohet nga shumica e anëtarëve të tjerë të komisionit të kreditorëve. Në cilindo rast, kërkesa për largim do të parashtrohet në gjykatë. Nëse kërkesa pranohet, gjykata largon anëtarin dhe e zëvendëson atë me një tjetër kreditor të regjistruar.

@@ -1,0 +1,8 @@
+# Neni 13
+Marrja e kredisë së garantuar dhe të pagarantuar
+1. Administratori mund të marrë kredi të pagarantuar gjatë veprimtarisë së rregullt afariste të Ndërmarrjes. Kjo kredi duhet të miratohet nga gjykata dhe në rast të miratimit do të konsiderohet kërkesë për shpenzime administrative dhe do të paguhet në pajtim me prioritetet e përcaktuara në nenin 34 të këtij ligji.
+2. Administratori mund të ngarkojë ose të japë si garanci një interes mbi pronën ose asetet e ndërmarrjes në rast se duhet të marrë hua për te vazhduar afarizmin e ndërmarrjes.
+3. Administratori mund të japë si garanci një interes në një aset të e ngarkuar por që konsiderohet i një rangu më të lartë se ngarkesat dhe interesat e siguruara nga ai aset që para Vendimit te Moratoriumit, me kusht që:
+3.1. gjykata të ketë dhënë pëlqimin e saj, të cilin gjykata do ta japë vetëm nëse siguron mbrojtje adekuate të ngarkesave dhe interesave të siguruar më parë (nga ky aset); dhe
+3.2. Ndërmarrja nuk mund të sigurojë të ardhura në ndonjë mënyrë tjetër.
+4. Gjykata do të marrë vendim për të gjitha kërkesat e parashtruara nga Administratori për miratim të akteve të specifikuar në paragrafët 1. – 3. të këtij neni, jo më parë se njëzet (20) ditë dhe jo më vonë se gjashtëdhjetë (60) ditësh pas datës së parashtrimit të kërkesës në gjykatë dhe pas dorëzimit të një kopjeje të saj në komisionin e kreditorëve dhe palëve tjera për të cilat gjykata mund të udhëzojë se duhen informuar. Të gjitha palët që kundërshtojnë kërkesat në fjalë duhet të regjistrojnë shkresat e tyre brenda njëzet (20) ditësh pas pranimit të kërkesës. Administratori do t‟i ketë njëzet (20) ditë prej ditës së pranimit të kundërshtimeve për t‟iu përgjigjur shkresave në fjalë.

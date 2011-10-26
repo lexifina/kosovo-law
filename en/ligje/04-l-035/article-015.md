@@ -1,0 +1,12 @@
+# Article 15
+Voidance of Transactions
+1. Upon the request of the Administrator or any creditor or interest holder, the Court shall issue an order voiding any transfer, transaction or contract involving or affecting the assets or capital of the Enterprise made during the period from 22 March 1989 to the date of the Moratorium Decision (and rejecting and dismissing any Proof of Claim or Proof of Interest based thereon), if, in light of the available evidence and the circumstances prevailing at the time, the Court reasonably determines that such transfer, transaction or contract, or any payment or supply in relation thereto:
+1.1. was made for less than fair value;
+1.2. reduced the total assets of the Enterprise;
+1.3. had the purpose or effect of harming the interests of creditors;
+1.4. had the purpose or effect of defeating, delaying or hindering the ability of creditors to collect claims by transferring assets to any third party where the third party knew or should have known of such purpose or effect;
+1.5. was a result of a transaction with a creditor, through which the creditor obtained more than a proportional share of the assets of the Enterprise and the transaction occurred at a time when the creditor reasonably should have known that the Enterprise was or would be unable to fulfill its obligations;
+1.6. was in breach of any United Nations Security Council resolution or European Union Council Regulation imposing international sanctions, notwithstanding that it may have been subsequently recognized by a court decision or arbitral award; or
+1.7. is voidable or determined to be unenforceable on any of the bases specified in Article 30 of this law or any other legal basis.
+2. A transfer for the purpose of this Article shall include any mode (direct or indirect, absolute or conditional, voluntary or involuntary) of conveyance or transfer, sale, exchange, gift, disbursement, disposal, grant of a pledge, mortgage or other rights.
+3. The Court shall make a decision on any request submitted under paragraph 1 of this Article no earlier than twenty (20) days, and no later than sixty (60) days after the date on which the request is submitted to the Court and a copy thereof has been provided to the Creditors Committee and such other parties as the Court may direct. Any party opposing such request shall file its brief in opposition within twenty (20) days after being provided with the request. The party submitting the request shall have twenty (20) days to respond to any such brief in opposition.

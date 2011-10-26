@@ -1,0 +1,5 @@
+# Article 9
+Remuneration and Expenses of Administrator and Professional Service Providers
+1. Any remuneration or expense of the Administrator or a Professional Service Provider shall be subject to Court approval, which shall not unreasonably be withheld, if such remuneration or expense is to be the subject of a claim under Article 34 of this law.
+2. Any such court-approved remuneration or expense shall be paid from the cash resources of the Enterprise or from the proceeds of the sale of assets of the Enterprise or ownership interests in the Enterprise in accordance with the priority established by subparagraph 1.1.2 of paragraph 1. of Article 34 of this law.
+3. The Agency or a third party may pay a Professional Service Provider’s Court-approved remuneration and expenses in full or in part; and, in such event, the Agency or such third party shall be entitled to recover any amounts so paid in accordance with paragraph 2. of this Article in place of the concerned Professional Service Provider.

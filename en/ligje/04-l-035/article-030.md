@@ -1,0 +1,16 @@
+# Article 30
+Invalid and Improper Claims
+1. The Administrator shall deny, in whole or in part, the validity of any Claim or alleged equity or ownership interest if such denial is required or permitted by this law or another element of the Law of Kosovo or an order issued by the Court in the concerned proceeding.
+2. Without limiting the scope or applicability of paragraph 1. of this Article, the following shall constitute good and sufficient legal grounds under this law for rejecting a Claim or an alleged equity or ownership interest:
+2.1. the Claim or allegation is time-barred by applicable time limitations;
+2.2. the documentation for the Claim or alleged interest presented by the claimant or alleged interest holder remains incomplete after a request from the Administrator for supplementary documents or evidence; or
+2.3. any aspect of the documentation presented is fraudulent or there is good and substantial evidence to believe the Claim or alleged interest is fraudulent; or
+2.4. there is reason to believe that the transaction:
+2.4.1. was not approved though the proper internal procedures of the Enterprise;
+2.4.2. was executed on behalf of the Enterprise by someone without actual legal authority to bind the Enterprise;
+2.4.3. would not have been approved had it been submitted for proper internal approval, including but not limited to contracts that should have been approved by the Management or an Officer of the Enterprise at the relevant time but were not so approved;
+2.4.4. was entered into at the relevant time in breach of a fiduciary or other duty towards the Enterprise by the Management or an Officer under the law then applicable; or 2.4.5. was in violation of a regulation issued by the UN or a regulation or similar act issued by an authorized body of the European Union; and, in each case specified in this sub-paragraph the concerned creditor or interest claimant knew or, in the exercise of reasonable professional diligence, should have known of the concerned violation, breach or lack of authority.
+2.5. at the time the transaction was entered into the creditor knew or, in the exercise of reasonable professional diligence, should have known that the Enterprise was insolvent and the transaction resulted in the creditor being put in a more favorable position than other creditors;
+2.6. the transaction was done at a value that was materially less than the then prevailing market value;
+2.7. the payment or supply in relation to the transaction was in breach of one or more United Nations Security Council resolutions or European Union Regulations imposing international sanctions; or
+2.8. the Claim relates to a transaction that took place outside of Kosovo and (i) it concerns an entity or purported entity or business unit that, at the time of the effective date of the Confirmed Reorganization Plan, is separately managed from the Enterprise’s operations in Kosovo and (ii) the Administrator has determined that it is not practicable to seize in the name of the Enterprise the property or assets of such entity. Any such transaction concluded in the name of the Enterprise shall include transactions for which the business purpose was confined to the independent entity or business unit.
