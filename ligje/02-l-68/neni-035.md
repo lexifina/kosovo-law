@@ -1,4 +1,0 @@
-# Neni 35
-35.1. Me programin qeveritar për mbrojtje dhe shpëtim nga fatkeqësitë natyrore dhe nga fatkeqësitë e tjera përcaktohet qëllimi, politika dhe strategjia e mbrojtjes dhe shpëtimit nga fatkeqësitë natyrore dhe nga fatkeqësitë e tjera, për së paku 5 vjet.
-35.2. Programi qeveritar përmban:
-i. përcaktimin dhe vlerësimin e rrezikshmërisë, ii. situatën e mbrojtjes nga fatkeqësitë natyrore dhe nga fatkeqësitë e tjera, iii. përcaktimin e shkallës së mbrojtjes nga fatkeqësitë e veçanta natyrore dhe nga fatkeqësitë e tjera, iv. qëllimet themelore, detyrat e mbrojtjes dhe mënyra e realizimit të tyre, v. pasqyrën e masave parandaluese, vi. kahet e politikave shkencore, hulumtuese dhe zhvillimore, vii. drejtimet për organizimin e forcave dhe mjeteve për mbrojtje, shpëtim dhe ndihmë, viii. drejtimet për përpunimin e programeve arsimore, dhe ix. analizën dhe parallogaritë e shpenzimeve.

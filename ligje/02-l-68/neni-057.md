@@ -1,4 +1,0 @@
-# Neni 57
-57.1. Për kryerjen e detyrave të mbrojtjes, shpëtimit dhe ndihmës, organizohen njësitë dhe shërbimet e forcave për mbrojtje dhe shpëtim nga fatkeqësitë natyrore dhe nga fatkeqësitë e tjera, si vijon:
-i. njësitë për ndihmë të parë mjekësore, ii. njësitë për ndihmë të parë veterinare, iii. njësitë teknike shpëtimtare, iv. njësitë dhe shërbimet për mbrojtje radiologjike, kimike dhe biologjike, v. njësitë për logjistikë, vi. njësitë për evakuim dhe strehim, vii. njësitë për asanimin e terrenit, viii. njësitë për mbrojtjen e bimëve, ix. njësitë për deaktivizimin e mjeteve të paeksploduara, dhe x. njësitë për fikje të zjarrit.
-57.2. Qeveria, komuna, ndërmarrjet dhe institucionet e tjera, organizojnë njësitë dhe shërbimet nga alineja 1 e këtij neni, në përputhje me kriteret për organizimin, kompletimin dhe përgatitjen e forcave për mbrojtje nga fatkeqësitë natyrore dhe nga fatkeqësitë e tjera, të cilat i përcakton Qeveria.

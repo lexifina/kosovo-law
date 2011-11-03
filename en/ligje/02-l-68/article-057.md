@@ -1,4 +1,0 @@
-# Article 57
-57.1. In order to accomplish duties of protection, rescue and aid, shall be organized the units and services for force of protection and rescue from natural and other disasters as follows:
-i. Units for First medical aid; ii. Units for First veterinary aid; iii. Technical rescue units; iv. Units and services for radiological, chemical, biological protection; v. Logistic units; vi. Units for evacuation and shelter; vii. Units for conciliation of terrain; viii. Units for protection of plants; ix. Units of deactivating unexploded items; and, x. Units for fire extinguishing
-57.2. Government, municipality, economical enterprises and other institutions, organize service units from paragraph 1 of this Article in accordance with the criteria for organizing, completion and preparation of protecting forces from natural and other disasters, which are determined by Government.

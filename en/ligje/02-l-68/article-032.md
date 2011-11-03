@@ -1,5 +1,0 @@
-# Article 32
-32.1. Enterprises and other institutions should provide conditions and opportunities for realization of personal and reciprocal protections as well as realization of protective measures set forth by this Law.
-32.2. Enterprises and other Institutions which during the work process use, produce, and transport and deposit hazardous materials such are: oil and its derivatives and energetic gasses and make the realization of the activity by the hazardous means are required to establish emergency action and protection plan in accordance with legal provisions.
-32.3. Other enterprises and institutions, from paragraph 2 of this Article, at their own expense are obligated to establish and maintain equipment for intervention, to organize sufficient forces for 11 protection and rescue, to provide information and alarming of workers and population about the danger, always having in mind the scale of danger, which may result from their activity.
-32.4. Government, by special act, determines the classification, label and quantity of dangerous materials as well as activities and means from paragraph 2 of this Article.

@@ -1,0 +1,7 @@
+# Neni 113
+Shpenzimet e përgjithshme
+1. Aktivitetet administrative, teknike, mbikëqyrëse dhe aktivitetet tjera që kanë të bëjnë me mbrojtjen nga fatkeqësitë natyrore dhe fatkeqësitë tjera brenda kompetencave të shtetit financohen nga Buxheti i Republikës së Kosovës.
+2. Financimin e aktiviteteve të lidhura me mbrojtjen nga fatkeqësitë natyrore dhe fatkeqësitë tjera dhe çështjeve tjera në nivelin lokal e bëjnë organet lokale brenda kompetencave të tyre.
+3. Organet në nivelin qendror dhe lokal në përputhje me përgjegjësitë e tyre sigurojnë burime financiare për mbulimin e shpenzimeve të aktiviteteve të mbrojtjes, shpëtimit dhe ndihmës të domosdoshme për mbrojtjen e shëndetit dhe jetës së njerëzve, kafshëve, të mirave materiale dhe mjedisit.
+4. Ndërmarrjet, institucionet dhe organizatat tjera për të cilat kërkohet të organizojnë struktura për mbrojtje dhe shpëtim si dhe të zbatojnë masa dhe detyra që kanë të bëjnë me mbrojtjen nga fatkeqësitë natyrore dhe fatkeqësitë tjera, sigurojnë mjetet financiare për kompensimin e humbjeve të punëtorëve në aspektin e të hyrave gjatë trajnimeve sikurse edhe burimet financiare për t’i mbuluar shpenzimet për ushtrimet përgatitore dhe shpenzimet tjera lidhur me mbrojtjen.
+5. Shpenzimet e operacioneve të mbrojtjes, shpëtimit dhe ndihmës në raste të aksidenteve të shkaktuara nga persona të panjohur mbulohen si shtesë nga niveli lokal ku ka ndodhur aksidenti i tillë, apo nga niveli qendror nëse detyrat e mbrojtjes, shpëtimit dhe ndihmës janë nën përgjegjësinë e tij.

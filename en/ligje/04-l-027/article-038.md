@@ -1,0 +1,7 @@
+# Article 38
+The responsibilities of enterprises, institutions and other organizations
+1. Enterprises and other institutions should provide necessary conditions and opportunities for realization of personal and reciprocal protection as well as realization of preventive measures set forth by this Law.
+2. Enterprises and other Institutions which, use, produce, transport and deposit hazardous materials, oil and its derivatives and energetic gases and perform activities with the hazardous means are obliged to make the assessment of the risks and to draft the emergency action and protection plan in accordance with legal provisions.
+3. Other enterprises and institutions, from paragraph 2. of this Article, at their own expense are obliged to establish and maintain equipment for intervention, to organize sufficient forces for rescue and assistance, to provide information and alarming of workers and population about the danger and to co finance preparatory activities of a local level in proportion with the scale of danger, which may result from their activity.
+4. Except from institutions and enterprises in paragraph 2. of this Article, organizations that conduct educational activities, social, medical and other care or protection includes large number of persons are obliged to refine emergency response plans or to implement preventive measures.
+5. Activities and tools under paragraph 2. and 4. of this Article shall be determined by the Government, within sub-legal act.

@@ -1,4 +1,0 @@
-# Article 16
-16.1. The members of protection, rescue and assistance forces shall be called in:
-i. muster for the systematization ii. for initial and additional trainings, iii. for practice and other forms of practical training iv. Performing protection, rescue and aid duties as well as prevention of consequences from natural and other disasters. v. in case of natural and other disasters, the members of protection, rescue and aid forces may be called for service for protection and rescue, until the created situation from natural and other disasters is finalized.
-16.2. The member of protection, rescue and aid forces can perform active service in units and services for protection, rescue and aid forces, public services, enterprises, institutions and organizations which perform important services for protection, rescue and aid.

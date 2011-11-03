@@ -1,4 +1,0 @@
-# Article 56
-56.1. To accomplish operative duties from the field of protection, rescue and aid, competent government or municipal authority may designate enterprises, or institutions that possess means and appropriate staff.
-56.2. Enterprises and institutions from paragraph 1 of this Article determines the organization of duty accomplishment; take care for professional promotion of their employees and accomplish activities and other preparation in order to act in case of natural and other disasters.
-56.3. MDPR, competent authority of municipality or government authority, enterprises and institutions, which are determined in accomplishment of duties of protection, rescue and aid, ensuring also compensation of their real expenses for participation in accomplishment of duties and realization of preparations, which exceed their usual activities.

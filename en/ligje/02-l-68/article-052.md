@@ -1,3 +1,0 @@
-# Article 52
-Protection, rescue and aid in case of natural and other disasters include:
-i. First medical aid; ii. First veterinary aid; iii. Extinguishments and rescue of fire; iv. Rescue from ruins, avalanches, slides (earth, snow); v. Rescue from floods, weather catastrophes, ecological disasters and other disasters of rivers and lakes; vi. Rescue on the mountains; vii. Rescue on waters; viii. Rescue from serous traffic accidents; ix. Rescue from mine accidents; x. Safety from explosive and unexploded means; xi. Accomplishment of radiological, chemical, biological protection in case using dangerous materials; xii. Providing elementary conditions for life.

@@ -1,5 +1,0 @@
-# Neni 32
-32.1. Institucionet dhe ndërmarrjet e tjera duhet të sigurojnë kushte dhe mundësi për realizimin e mbrojtjes personale dhe reciproke si dhe realizimin e masave mbrojtëse të përcaktuara me këtë ligj.
-32.2. Institucionet dhe ndërmarrjet e tjera që në procesin e punës përdorin, prodhojnë, transportojnë dhe deponojnë materie të rrezikshme, naftë dhe derivate të saj si dhe gazra energjetike dhe realizojnë veprimtarinë me mjete të rrezikshme, duhet ta vlerësojnë rrezikshmërinë dhe të hartojnë planin për mbrojtje dhe shpëtim në pajtim me dispozitat ligjore.
-32.3. Institucionet dhe ndërmarrjet e tjera, nga paragrafi 2 i këtij neni, me shpenzime të veta duhet të vendosin dhe të mirëmbajnë pajisjet për ndërhyrje, të organizojnë forcat e nevojshme për shpëtim dhe ndihmë, të sigurojnë lajmërimin dhe alarmimin e punëtorëve dhe të popullatës për rrezik, duke marrë parasysh madhësinë dhe shkallën e rrezikut, të cilën e shkakton veprimtaria e tyre.
-32.4. Qeveria, me akt të veçantë, përcakton klasifikimin, emërtimin dhe sasitë e materieve të rrezikshme, si dhe veprimtaritë dhe mjetet, nga paragrafi 2 i këtij neni.

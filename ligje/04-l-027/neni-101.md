@@ -1,0 +1,6 @@
+# Neni 101
+Puna në kushte të papërshtatshme
+1. Nëpunësit civil në fushën e mbrojtjes dhe shpëtimit janë të detyruar të punojnë në kushte të papërshtatshme ku përfshihen zhurma, dridhjet, zonat e ndotura, aerosole, gazrat, substancat e rrezikshme kimike,mjete eksploduese dhe eksplozive dhe substancat tjera të rrezikshme, nëse janë të trajnuar për zbatimin e detyrave në kushte të tilla dhe të pajisur me pajisje mbrojtëse personale.
+2. Nëse nëpunësi civil nuk posedon pajisjet mbrojtëse personale të nevojshme, ka të ketë të drejtë ta refuzoj detyrën e tillë dhe menjëherë ta informoj eprorin tjetër më të lartë.
+3. Nëpunësit civil në fushën e mbrojtjes dhe shpëtimit të cilët kanë mbet të paaftë për shkak të lëndimeve të pësuara në punë, apo sëmundje profesionale apo në zbatimin e mbrojtjes, shpëtimit dhe ndihmës, do të ricaktohen në vende tjera të punës te organit përkatës në raport me aftësitë e mbetura për punë apo u jepet e drejta për rehabilitim profesional.
+4. E drejta për ricaktim në detyrë në organet lokale apo rehabilitimit profesional vlen edhe për nëpunësit civil të nivelit lokal në fushën e mbrojtjes dhe shpëtimit. Nëse ricaktimi është i pamundur apo nëse rehabilitimi profesional nuk mund të llogaritet i përshtatshëm, atëherë në rrethana të tilla aplikohet legjislacioni në fuqi.

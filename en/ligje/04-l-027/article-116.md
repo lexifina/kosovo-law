@@ -1,0 +1,24 @@
+## CHAPTER XIV
+## PUNITIVE PROVISIONS
+# Article 116
+Fines
+1. A fine of one thousand (1,000) to € five thousand (5,000), the natural person or legal entity:
+1.1. not immediately inform the nearest alarm, police or fire unit to the risk of disaster or other calamity whether one sees them or notified to him under Article 6 of this Law;
+1.2. if not perform, or in any way avoids the performance of material obligations set out in paragraph 1. of Article 25 of this law, If he / she does Performa, or in Some way avoids realization of material obligation;
+1.3. the employer shall remove from work or workplace changes SPRA participant or citizen who voluntarily participates in the carrying out of protection, rescue and relief under this law or causes any other damage due to the performance of the duties specified in paragraph 4. Article 27 of this Law;
+1.4. if within fifteen (15) days does not inform the relevant data for the changes set out in Article 35 of this Law;
+1.5. if he / she does not provide conditions or possibilities for realization of personal and workers protection or reciprocal, or does not accomplish foreseen protecting measures from paragraph 1. Article 38;
+1.6. if in the process of work, he / she uses, products, transports or dangerous deposits materials, Such as: oil and other derivatives, Energetic gases, or use perform which tools dangerous accident present risk for occurrence, or does evaluate the risk or plan for Protection and Rescue under paragraph 2. Article38;
+1.7. whether in relation to the width and the degree of risk, the cost of not establishing and maintaining its readiness to act or did not organize the forces needed for rescue and relief or fails to provide notification and alarm the workers and surrounding population, the risk or did not co preparatory activities related enterprises, institutions and other organizations or local bodies in proportion to the risk created by his activity in accordance with paragraph 3. Article 38 of this Law;
+1.8. did the processing of emergency response plans or did not plan the implementation of protection measures and tasks assigned to protect, rescue and assistance in cases of natural and other disasters as defined in paragraph 4. Article 38 of this Law;
+1.9. if the owner or occupier of residential buildings or other facilities not take protective measures provided, or provided does not offer protection for rescue and relief under paragraph 1. Article 39 of this law, whether or not to take measures to provide for the protection of cultural heritage and the environment under paragraph 2. of Article 39 of this Law;
+1.10. if the owner or user of residential buildings or other buildings not help the work of competent defense and rescue and does not provide him with records of the building, or information for residents and other users of the building under paragraph 3. Article 39 of this law;
+1.11. whether at the request of the Mayor does not compose emergency response plans set out in paragraph 3. of Article 46 of this Law;
+1.12. if the owner or user of facilities intended for public water supply, production, transport or storage of food, medicines or animal food, public health services or care and education of children, does not offer protection or not implement the measures set for radiological, chemical and biological weapons under paragraph 2. of Article 61 of this law;
+1.13. if as an investor does not ensure the construction of shelters under the provisions of Article 64 of this Law;
+1.14. I as an owner or user of shelters does not tell maintain in accordance with condition foreseen for use, or in case of risk does not allow it for people, for whom The shelter is designated in Article 65 of this law;
+1.15. if he / she does perform organizing appropriate to accomplish the duties, does after Training professional look of the EMPLOYEES, or does undertake other preparation measures for Acting in events of natural and other disasters under paragraph 2. Article 73 of this law;
+1.16. if it prevents the implementation of measures or does not comply with the measures specified in managing the protection and rescue incident commander set out in paragraphs 1., 3. and 4. in Article 82 of this Law;
+1.17. if the copies, or unlawfully uses the signs and uniforms SPRA's, or copies in circulation and uses similar road vehicles and other vehicles transporting SPRA, according to paragraph 2. Article 86 of this law;
+1.18. If he / she acts opposite to decisions of the inspector for Protection and Rescue Against Natural and Other disasters, according to Article 95 of this law.
+2. With a fine of one hundred (100) € - two hundred fifty (250) €, put the person in charge of the legal person, or responsible person of self-employed if he acts in contravention of paragraph 1. of this Article.

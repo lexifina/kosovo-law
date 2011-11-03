@@ -1,4 +1,0 @@
-# Neni 56
-56.1. Për realizimin e detyrave operative nga fusha e mbrojtjes, shpëtimit dhe ndihmës, organi kompetent i Qeverisë ose i komunës mund të përcaktojë ndërmarrjet ose institucionet që kanë në dispozicion mjete dhe kuadro përkatëse.
-56.2. Ndërmarrjet dhe institucionet, nga alineja 1 e këtij neni, përcaktojnë organizimin për realizimin e detyrave, kujdesen për aftësim profesional të punëtorëve të tyre, si dhe realizojnë 17 aktivitete dhe përgatitje të tjera për veprim në rast të fatkeqësive natyrore dhe fatkeqësive të tjera.
-56.3. DKMSH-ja, organi qeveritar apo organi kompetent i ndërmarrjeve dhe institucioneve të tjera, për personat të cilët i cakton për kryerjen e detyrave të mbrojtjes, shpëtimit dhe ndihmës, siguron kompensimin e shpenzimeve reale për pjesëmarrje gjatë kryerjes së detyrave, si dhe për realizimin e përgatitjeve, të cilat i tejkalojnë aktivitetet e tyre të rëndomta.

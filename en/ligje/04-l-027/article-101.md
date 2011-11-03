@@ -1,0 +1,6 @@
+# Article 101
+Work in inadequate conditions
+1. Civil servants in the field of protection and salvation are forced to work in unsuitable conditions including noise, vibration, contaminated areas, aerosols, gases, hazardous chemical substances, explosive devices and explosives and other dangerous substances, if they are trained for the implementation of tasks in such conditions and equipped with personal protective equipment.
+2. If the civil servant does not possess the necessary personal protective equipment, is entitled to refuse such duties and immediately inform the next higher supervisor.
+3. Civil servants in the protection and rescue who are left disabled due to injuries suffered at work or occupational disease or enforce protection, rescue and aid, to be redeployed to other work locations to the appropriate authority in relation to remaining capacity for work or was entitled to vocational rehabilitation.
+4. The right to reassignment to duty on local authorities or professional rehabilitation applies to civil servants at local level in the field of protection and salvation. If relocation is not possible or if vocational rehabilitation can not be considered suitable, then in such circumstances applicable legislation.

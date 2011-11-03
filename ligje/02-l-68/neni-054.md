@@ -1,4 +1,0 @@
-# Neni 54
-54.1. Njësitë, shërbimet dhe strukturat e tjera operative të shoqatave dhe të organizatave të tjera joqeveritare, realizojnë detyrat e mbrojtjes, të shpëtimit dhe të ndihmës, gjegjësisht shërbimin publik, në bazë të vendimit të organit kompetent komunal dhe qeveritar, nëse i përmbush kushtet e parapara.
-54.2. Organi kompetent vendos për:
-i. strukturën, vëllimin dhe mënyrën e kryerjes së detyrave, gjegjësisht të shërbimeve publike, ii. fillimin e realizimit të detyrave në raste emergjente, iii. mjetet financiare që i siguron komuna, gjegjësisht Qeveria për kryerjen e detyrave në raste emergjente, iv. mjetet financiare për pagesën e kompensimeve, në përputhje me këtë ligj për qytetarët që pësojnë gjatë intervenimit dhe sëmundjes profesionale, dhe v. mbikëqyrjen e kryerjes së detyrave në raste emergjente.

@@ -1,0 +1,8 @@
+# Neni 98
+Puna në ndërrime të ndara dhe orët e ndryshuara të punës
+1. Ngarkesa ditore e punës së nëpunësit civil në fushën e mbrojtjes dhe shpëtimit nuk duhet t’i kaloj dymbëdhjetë (12) orë në ditë. Mesatarja e ngarkesës ditore të punës së punëtorëve duhet të llogaritet si mesatare e ngarkesës së punës për periudhën e cila nuk duhet kaluar gjashtë muaj.
+2. Puna me ndërrime përfshinë të punuarit në rotacion ku punëtorët punojnë sipas orarit dymbëdhjetë (12) orësh, të përcjellur me njëzetekatër (24) apo dyzetetetë (48) orë pushim dhe të punuarit sipas orarit të posaçëm në mëngjes, pasdite por jo sipas radhës. Nëse puna kryhet në ndërrime apo në rotacion, duhet të sigurohet ndryshimi periodik i ndërrimeve.
+3. Nëpunësit civil në fushën e mbrojtjes dhe shpëtimit të cilët punojnë me ndërrime duhet tu jepet pushimi minimal ditor dhe javor i përcaktuar në afatin i cili nuk i kalon gjashtë (6) muaj.
+4. Nëse shërbyesi civil në fushën e mbrojtjes dhe shpëtimit detyrohet të punoj gjatë ditëve të lira për shkak të kërkesave të shërbimit, atij duhet t’i jepet pushimi javor në muajin aktual apo më së voni në muajin pasues.
+5. Puna në ndërrime mund të urdhërohet bazuar në vendimin e mbikëqyrësit për shkak të kërkesave të shërbimit sipas paragrafit 4. të nenit 101 të këtij ligji, masa e përkohshme për të siguruar kushtet elementare për jetë në zonën e goditur apo derisa nuk është më e nevojshme puna në ndërrime.
+6. Nëpunësit civil në fushën e mbrojtjes dhe shpëtimit të cilët punojnë në ndërrime apo në rrotacion duhet të kenë të drejt në pagesë të mjeteve ekzistenciale, nëse është e pamundur të sigurohen shujta gjatë kohës së rregullt të punës. Pagesa ekzistenciale për punën gjatë natës duhet të jetë tridhjetë përqind (30%) më e lartë.

@@ -1,0 +1,8 @@
+# Neni 32
+Grumbullimi dhe mbrojtja e të dhënave personale dhe materiale
+1. Organi përkatës grumbullon, përpunon, përdor dhe mban të dhënat personale dhe materiale për:
+1.1. pjesëtarët e SMSHN, nëpunësve civil në fushën e mbrojtjes dhe ndihmës si dhe vullnetarëve në zbatimin e detyrave të mbrojtjes, shpëtimit dhe ndihmës, emri, mbiemri, data, vendi i lindjes, adresa e përhershme dhe e përkohshme e banimit, datëlindjet e fëmijëve, të dhënat e njohurive dhe aftësive lidhur me mbrojtje, shpëtim dhe ndihmë, arsimim, punësimin, numrin e telefonit fiks dhe mobil si dhe resurset materiale të tyre;
+1.2. pjesëtarët e SMSHN përveç të dhënave në nën-paragrafin 1.1. të këtij paragrafi, duhet të paraqesin edhe të dhënat plotësuese për datën e kontrollit të fundit të gjendjes psiko-fizike dhe shëndetësore, përgjegjësitë brenda këtyre strukturave, për qëllime të sigurimit të përgatitjeve, mobilizimit, aktivizimit dhe dispozitave të të drejtave dhe obligimeve të pjesëtarëve SMSHN dhe forcave tjera të kësaj natyre;
+1.3. llojin, kapacitetin dhe gjendjen e mjeteve të transportit dhe mjeteve tjera subjekte të obligimit material si dhe emrin, mbiemrin, adresën e shtëpisë apo të punës të pronarëve dhe përdoruesve të mjeteve të tilla, pajisjeve dhe objekteve, për qëllime të kompletimit të ekipeve, njësive dhe shërbimeve.
+2. Organi përkatës mban bazën e të dhënave personale për pjesëtarët e mundshëm SMSHN, nëpunësit civil në fushën e mbrojtjes dhe ndihmës, vullnetarët, dhe personat subjekt të obligimeve materiale.
+3. Mbrojtja e të dhënave të përcaktuara në këtë nen bëhet në përputhje me Ligjin për Mbrojtjen e të Dhënave Personale.

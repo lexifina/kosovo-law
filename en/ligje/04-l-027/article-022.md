@@ -1,0 +1,5 @@
+# Article 22
+Volunteers Rights
+1. Persons who are involved voluntarily and not professionally, on protection, rescue and aid operations are organized into units, services and other operating structures within associations and other non-governmental organizations - fire fighting unit, the Red Cross organizations, rescue services in the mountains, divers clubs, inventor organizations, amateur radio clubs and other organizations, based on emergency response plans should not be assigned to protective duties or operations of protection and rescue structures, taking into account that the conditions set and requirements for specific skills and services they offer within such structures can not be provided by other members.
+2. Persons from paragraph 1. of this Article have the same rights and obligations as those members of voluntary organizations.
+3. During the war, units, services and other operating structures mentioned in paragraph 1. of this Article, along on protection and rescue structures will engage in protection, rescue and aid operations.

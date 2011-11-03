@@ -1,4 +1,0 @@
-# Article 45
-45.1. Radiological, chemical and biological protection contains measures and means for direct protection against radiological, chemical and biological weapons and consequences of disasters resulting from dangerous materials.
-45.2. Owners or users of dwelling buildings, which are designated for public supply, transport and storage of food items, medical supplies and animal food as well as public and health services, care and children’s education, shall provide the protection means and undertake appropriate measures for radiological, chemical and biological protection.
-45.3. Government by an Administrative Instruction regulates the organization of radiological, chemical and biological protection and determines the actions and measures of protection, based on paragraph 2 of this Article. 14

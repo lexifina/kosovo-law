@@ -1,0 +1,7 @@
+# Neni 38
+Përgjegjësitë e ndërmarrjeve, institucioneve dhe organizatave tjera
+1. Institucionet dhe ndërmarrjet duhet të sigurojnë kushte dhe mundësi të nevojshme për realizimin e mbrojtjes personale dhe reciproke si dhe implementimin e masave mbrojtëse të përcaktuara me këtë ligj.
+2. Institucionet dhe ndërmarrjet që përdorin, prodhojnë, transportojnë dhe deponojnë materie të rrezikshme, karburante dhe derivate të tyre dhe gazra energjetike dhe kryejnë veprimtari me mjete të rrezikshme, obligohen që të bëjnë vlerësimin e rreziqeve dhe të hartojnë plane të reagimit emergjent në pajtim me dispozitat ligjore.
+3. Institucionet dhe ndërmarrjet nga paragrafi 2. i këtij neni, me shpenzime të veta duhet të vendosin dhe të mirëmbajnë pajisjet për ndërhyrje, të organizojnë forcat e nevojshme për shpëtim dhe ndihmë, të sigurojnë lajmërimin dhe alarmimin e punëtorëve dhe të popullatës për rrezikun dhe të bashkë-financojnë aktivitetet përgatitore të nivelit lokal në proporcion me madhësinë dhe shkallën e rrezikut, të cilën e shkakton veprimtaria e tyre.
+4. Përveç institucioneve dhe ndërmarrjeve nga paragrafi 2. i këtij neni, organizatat të cilat kryejnë veprimtari edukative-arsimore, sociale, mjekësore dhe të tjera që përfshijnë kujdesin apo mbrojtjen e numrit të madh të personave, janë të obliguar të përpunojnë plane të reagimit emergjent apo të zbatojnë masa parandaluese.
+5. Aktivitetet dhe mjetet nga paragrafi 2. dhe 4. i këtij neni, do të përcaktohen nga Qeveria, me akt nënligjor.

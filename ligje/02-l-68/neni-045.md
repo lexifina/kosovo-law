@@ -1,4 +1,0 @@
-# Neni 45
-45.1. Mbrojtja radiologjike, kimike dhe biologjike, përbën masat dhe mjetet për mbrojtje të drejtpërdrejtë nga ndikimi i materieve radiologjike, kimike dhe biologjike, si dhe nga pasojat e fatkeqësive me materie të rrezikshme.
-45.2. Pronarët dhe shfrytëzuesit e objekteve dhe të pajisjeve të destinuara për furnizim publik, transport dhe deponim të gjërave ushqimore, medikamenteve dhe ushqimit për shtazë, si dhe shërbimet publike, shëndetësore dhe ruajtje dhe arsimim të fëmijëve, duhet t’i sigurojnë mjetet mbrojtëse dhe t’i ndërmarrin masat e parapara për mbrojtje kimike, biologjike dhe radiologjike.
-45.3. Qeveria, me udhëzim administrativ, e rregullon organizimin e mbrojtjes radiologjike, kimike dhe biologjike, si dhe përcakton mjete për mbrojtje dhe masat, nga alineja 2 e këtij neni.

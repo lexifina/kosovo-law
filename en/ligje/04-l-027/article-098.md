@@ -1,0 +1,8 @@
+# Article 98
+Work in separated shifts and modified working hours
+1. Daily work load of civil servants in the protection and rescue field should not exceed twelve (12) hours a day. The average daily work load of workers should be calculated as the average workload for the period which should not exceed six months.
+2. The work with shifts includes the work in rotation in which the employees work according to the twelve (12) hours schedule, followed by twenty four (24) or forty eight (48) hours break and the work according to the special schedule in morning, afternoon but not in the order. If the work is performed in rotation or in shifts, there must be provided the periodic modification of shifts.
+3. Civil servants in the protection and rescue field who work in shifts should be granted the minimum daily and weekly rest as defined in the term which does not exceed six (6) months.
+4. If the civil servant in the defense and rescue field is forced to work during the free days due to the demands of service, to him should be given a weekly holiday in the current month or not later than in the next month.
+5. Working in shifts may be ordered based on the decision of the supervisor due to the service requirements under paragraph 4. of Article 101 of this law, the temporary measure to ensure elementary conditions for life in the affected area or until when no longer is needed the work in shift.
+6. Civil servants in the protection and rescue fields who work in shift hours or rotation should have a right to payment of subsistence means, if it is impossible to be provided the meal during the regular working hour. Subsistence payments for work during the night should be thirty percent (30%) higher.

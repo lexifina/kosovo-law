@@ -1,0 +1,5 @@
+# Neni 22
+Të drejtat e vullnetarëve
+1. Personat të cilët janë të përfshirë vullnetarisht dhe jo profesionalisht, në operacione të mbrojtjes, shpëtimit dhe ndihmës dhe janë të organizuar në njësi, shërbime dhe struktura tjera operative brenda shoqatave dhe organizata tjera jo qeveritare - njësi të zjarrfikjes, organizmat e Kryqit të Kuq, shërbimet e shpëtimit në male, klubet e zhytësve, organizatat e zbuluesve, klubet radio amatore dhe organizatat tjera, bazuar në planet e reagimit emergjent nuk duhet të caktohen në detyra mbrojtëse apo operacione të strukturave për mbrojtje dhe shpëtim, duke marr parasysh që kushtet e përcaktuara dhe kërkesat për aftësi specifike si dhe shërbimet që ata ofrojnë brenda strukturave të tilla nuk mund të ofrohen nga pjesëtar të tjerë.
+2. Personat nga paragrafi 1. i këtij neni, kanë të njëjtat të drejta dhe obligime sikurse ato të pjesëtarit të organizatave vullnetare.
+3. Në gjendje lufte, njësitë, shërbimet dhe strukturat tjera operative të përmendura në paragrafin 1. të këtij neni, së bashku me strukturat për mbrojtje dhe shpëtim do të angazhohen në operacione të mbrojtjes, shpëtimit dhe ndihmës.
