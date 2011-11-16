@@ -1,0 +1,3 @@
+# Neni 32
+Punëdhënësi duhet të mbajë evidencën për :
+a) programet e trajnimit të punëtorëve për kryerjen e punëve në mënyrë të sigurt, b) kontrollimin paraprak dhe periodik mjekësor të punëtorëve të përcaktuar në punë, të cilat kryhen në kushte të veçanta të punës, c) aksidentet në punë, rastet e lëndimeve të rënda, vdekje në punë, rastet e sëmundjeve si pasojë e punës, d) raportet e të gjitha vlerësimeve për rreziqet dhe masat e ndërmarra për t'i eliminuar rreziqet e tilla, dhe rezultatet e kontrollimeve mbi efikasitetin e masave të tilla, dhe e) ndryshimet në proceset teknologjike, të cilat rrezikojnë ose mund të paraqesin rrezik për sigurinë në punë, mbrojtjen e shëndetit të të punësuarve dhe mjetet e punës.

@@ -1,0 +1,2 @@
+# Neni 2
+2.1. Siguria në punë, mbrojtja e shëndetit të shërbyesve civilë dhe e ambientit të punës, është pjesë integrale e organizimit të punës dhe e procesit të punës. Kjo vihet në funksion nëpërmjet punëdhënësit dhe punëmarrësit, përmes marrëveshjeve obliguese, rregullave të parapara dhe të pranuara për sigurinë në punë, mbrojtjen e shëndetit të shërbyesve civilë dhe ambientit të punës, masave tjera shtesë dhe udhëzimeve të përcaktuara nga punëdhënësi.

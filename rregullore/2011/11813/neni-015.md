@@ -1,0 +1,6 @@
+# Neni 15
+15.1. Punëdhënësi është i obliguar të krijojë kushte për sigurinë në punë, mbrojtjen e shëndetit të shërbyesve civilë dhe ambientit të punës për punëmarrësit e tij/saj. Punëdhënësi është i obliguar t’i mbulojë të gjitha shpenzimet për kurimin e të lënduarve në punë dhe sëmundjeve si rezultat i pasojave të punës.
+15.2. Punëdhënësi është i obliguar të organizojë dhe të ndërmarrë masa të nevojshme për sigurinë në punë, mbrojtjen e shëndetit të shërbyesve civilë dhe ambientit të punës, përfshirë parandalimin e rreziqeve në punë, ofrimin e informatave, trajnimeve, organizimit përkatës dhe masave të duhura për të siguruar dhe mirëmbajtur makinerinë, instrumentet, pajisjet, veglat, vendin e punës dhe mundësitë për të shkuar në vendin e punës.
+15.3. Punëdhënësi është përgjegjës për organizimin dhe zbatimin e masave për siguri në punë, mbrojtje të shëndetit të shërbyesve civilë dhe ambientit të punës. Punëdhënësi kontrollon efikasitetin e masave dhe ndërmerr masat e nevojshme për përmirësim të mëtejmë.
+15.4. Punëdhënësi dhe punëmarrësi, përveç të drejtave dhe detyrave të përcaktuara me ligj, janë të obliguar t`i respektojnë edhe dispozitat e Kontratës së përgjithshme kolektive mbi sigurinë dhe mbrojtjen e shëndetit në punë.
+15.5. Punëdhënësi, në pajtim me ligjin, cakton një zyrtar për siguri në punë (agjent për siguri në punë).

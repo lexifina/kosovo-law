@@ -1,0 +1,2 @@
+# Neni 8
+Është e drejtë e punëmarrësve ose e organizatave të tyre (sindikata), t’i zgjedhin - emërojnë përfaqësuesit e tyre për siguri në punë, mbrojtje të shëndetit të shërbyesve civilë dhe ambientit të punës. Personi i caktuar do ta mbikëqyrë zbatimin e masave të ndërmarra nga punëdhënësi dhe do të bashkëpunojë me inspektorin e punës dhe mbrojtjes në punë, në interes të punëmarrësve në sferën e sigurisë në punë, mbrojtjes së shëndetit të shërbyesve civilë dhe ambientit të punës.
