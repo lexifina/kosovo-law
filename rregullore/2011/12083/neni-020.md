@@ -1,0 +1,2 @@
+# Neni 20
+Rrethojat, si objekte të përkohshme në kuptim të kësaj Rregulloreje, mund të vendosen nga rruga, kur këtë e lejojnë planet urbanistike. Rrethojat nga rruga vendosen në vijën rregulluese. Mënyra e ndërtimit, forma, materiali dhe ngjyra e rrethojave, duhet t`i përshtatet pamjes së rrugës dhe rrethinës, por lartësia e tyre nuk mund të jetë më e lartë se 150 cm, dhe në lartësinë mbi 60 cm. nuk mund të jetë e plotë.

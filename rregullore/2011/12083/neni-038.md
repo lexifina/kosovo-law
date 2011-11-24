@@ -1,0 +1,2 @@
+# Neni 38
+Anulimi i lejes nga neni 37 i kësaj Rregulloreje, bëhet me Konkluzion të veçantë. Konkluzionin për anulimin e lejes e merr organi i cili e ka dhënë lejen. Afati për largimin e objektit është 8 ditë nga dita e pranimit të Konkluzionit mbi anulimin e lejes. Nëse objekti nuk largohet brenda afatit të caktuar, për largimin e objektit të përkohshëm, largimin e objektit e bën organi kompetent komunal, me detyrim që shpenzimet për largimin e objektit t’i mbulojë poseduesi i lejes së vendosjes së objektit.
