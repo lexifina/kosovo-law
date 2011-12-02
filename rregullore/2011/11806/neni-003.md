@@ -1,0 +1,2 @@
+# Neni 3
+Me hyrjen në fuqi të kësaj rregulloreje, pushon të vlej Rregullorja për tarifa, ngarkesa dhe gjoba komunale, 01 nr. 110 - 493/1 e dt. 12.3.2009, Vendimi për ndryshimet dhe plotësimet e Rregullores për tarifa, ngarkesa dhe gjoba komunale 01. nr. 031 - 2973, të dt 15.12.2010, dhe Vendimi për ndryshimin dhe plotësimin e Rregullores për tarifa, ngarkesa dhe gjoba Komunale 01. nr. 031 – 1663, të dt 19.7.2011.
