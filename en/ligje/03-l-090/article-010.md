@@ -1,9 +1,0 @@
-# Article 10
-Financial Rights
-1. A Private Partner shall have the right to charge, receive or collect tariffs or fees for the use of the facility or its services in accordance with the terms and condition set forth in an Agreement, which shall additionally provide the methods and formulas for the establishment and adjustment of those tariffs or fees, in accordance with the rules established by the competent Public Authority.
-2. When duly justified and required on the basis of Value-for-Money and with prior approval of the Ministry of Economy and Finance and the PPP-ISC, the Contracting Authority may provide economic supports and guarantees to ensure sustainability, implementation and/or financial viability of the Project. This economic supports must be preliminary identified in document of the request for proposals and/or is factor in proposal `s assessment. The economic support may take any reasonable form, including:
-2.1. direct payments to the Private Partner as a substitute for, or in addition to, tariffs or fees for the use of the facility or its services. These may include availability payments, cash subsidies, capital grants, minimal trafficking guarantees, payment guarantees and off-take and purchase agreements;
-2.2. contributions-in-kind, including asset transfers and land usage rights; and
-2.3. other financial support and similar guarantees.
-3. The Contracting Authority may also provide compensation to the Private Partner in the event that its financial condition is negatively and materially affected by unforeseeable changes in legislation or regulations which directly impact the Infrastructure Facility or services it provides.
-4. The Private Partner has a right to depreciate the value of its capital investment in the Infrastructure Facility utilizing a straight line depreciation method during the duration of the Agreement.

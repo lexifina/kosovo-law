@@ -1,0 +1,5 @@
+# Neni 20
+Të Drejtat dhe Përgjegjësitë e Partnerit Privat
+1. Partneri privat i gëzon të gjitha të drejtat e përcaktuara në marrëveshje, duke përfshirë por pa u kufizuar, në të drejtën për përdorimin dhe /ose shfrytëzimin e Shërbimit Publik ose Infrastrukturës Publike në pajtim me kushtet e përcaktuara në marrëveshje.
+2. Partneri privat duhet me përpikëri t’i plotësojë kushtet e marrëveshjes dhe t’i përmbush detyrimet e përcaktuara në marrëveshje.
+3. Me qëllimin e vetëm për të hyrë në marrëveshje dhe për zbatimin e Projektit, ofertuesi i përzgjedhur në pajtim me këtë ligj themelon një shoqëri tregtare në formë të shoqërisë aksionare ose shoqërisë me përgjegjësi të kufizuar e cila inkorporohet në bazë të ligjeve të Kosovës para formalizimit të marrëveshjes. Të gjitha kërkesat lidhur me kapitalin minimal të kërkuar për këtë shoqëri tregtare si dhe procedurat për marrjen e miratimit të Autoritetit Kontraktues për statutin dhe rregulloret e shoqërisë tregtare si dhe për ndryshimet e konsiderueshme në statut ose në rregullore do të përcaktohen në kushtet e kërkesës për propozime dhe duhet të jenë në pajtim me kërkesat e përcaktuara në ligjin e zbatueshëm.

@@ -1,8 +1,0 @@
-# Article 72
-Transitory period
-1. Continuous tendering procedures
-Provisions of this law regarding the procurement procedures and prior authorizations from PPP-ICS shall not be valid for tendering procedures for Public-Private-Partnerships which are materially advanced on the day of promulgation of this law. PPP-ISC shall define which projects are “materially advanced” and shall expel from prior authorization and settled procedures in this law, but under no circumstance a project shall not be expelled from this law, except if (i) potential bidders have already been pre-qualified in compliance with procedures settled in the Law on Public Procurement or in directions of procurement settled by any international financial institution or (ii) an official request for proposal documents is published in compliance with the Law on Public Procurement.
-2. Existing Steering Committees of the Projects
-If at the time when this law is promulgated, a PPP project is being implemented actively under supervision of a steering committee of the project settled by the Government and if the steering committee of the project has finalized open public procurement to engage a qualified adviser of transaction on the day of promulgation of this law, the existing steering committee shall act as PPP-ISC for all purposes related to implementation of the project until the contract is awarded in compliance with this law.
-3. Agreements Already Signed
-This law shall not apply to concession contracts already signed prior to the date of enforcement of this law. The referenced contracts shall only be renewed, amended, or extended in compliance with this law.

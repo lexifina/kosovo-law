@@ -1,3 +1,0 @@
-# Article 55
-Assignment of the Agreement
-Except as otherwise provided in Article 54 of this law, the rights and obligations of the Private Partner under the Agreement may not be assigned to third parties without the consent of the Contracting Authority. The Agreement shall set forth the conditions under which the Contracting Authority shall give its consent to an assignment of the rights and obligations of the Private Partner under the Agreement, including the acceptance by the new Private Partner of all obligations thereunder and evidence of the new Private Partner’s technical and financial capability as necessary for providing the service.

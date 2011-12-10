@@ -1,5 +1,0 @@
-# Neni 25
-Pjesëmarrja e Konsorciumeve
-1. Autoriteti Kontraktues, kur së pari i fton Ofertuesit për pjesëmarrje në procedurën e përzgjedhjes, do tu lejojë atyre formimin e konsorciumeve ofertuese. Informatat që kërkohen nga anëtarët e konsorciumeve ofertuese për ta dëshmuar kualifikimin e tyre sipas Nenit të mësipërm duhet të paraqiten si për konsorciumin në tërësi ashtu edhe për pjesëmarrësit individual.
-2. Përveç nëse shprehimisht është përcaktuar ndryshe në dokumentet e para-përzgjedhjes, secili anëtar i një konsorciumi mund të marrë pjesë, qoftë në mënyrë të drejtpërdrejtë ose të tërthortë, vetëm në një konsorcium në të njëjtën kohë. Shkelja e kësaj rregulle do të shkaktojë përjashtimin e menjëhershëm të konsorciumit dhe të anëtarit individual.
-3. Gjatë shqyrtimit të kualifikimeve të konsorciumeve ofertuese, Autoriteti Kontraktues do të merr parasysh aftësinë e secilit anëtar të konsorciumit dhe do të vlerësojë nëse kualifikimet e anëtarëve të konsorciumit janë të përshtatshme për përmbushjen e nevojave të të gjitha fazave të projektit.

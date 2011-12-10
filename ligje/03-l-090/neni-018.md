@@ -1,9 +1,0 @@
-## PJESA I
-## Identifikimi i Projekteve Potenciale
-# Neni 18
-Iniciativa e Sektorit Publik
-1. Identifikimi i Projekteve Potenciale do të bëhet nga Autoriteti Kompetent Publik, një Autoritet Publik, KDNM-PPP ose Njësia e PPP.
-2. Para tenderimit, Autoriteti Kontraktues duhet të bëjë një studim të fizibilitetit të projektit si dhe një analizë të qëndrueshmërisë dhe pranuarshmërisë bankare për të vendosur se a duhet të zbatohet Projekti. Kjo analizë duhet të bazohet në parimet e vlera për paratë, objektivat strategjike të sektorit, fizibilitetin teknik dhe komercial të projektit potencial si dhe aftësinë e projektit për tërheqjen e partnerëve potencial privat dhe financimit privat.
-3. Nëse Koncesioni ose Partneriteti Publiko-Privat i propozuar nuk i plotëson kriteret e arsyeshme për vërtetimin e fizibilitetit dhe vlerës për paranë të Projektit, atëherë Autoritetit Kontraktues nuk do ti lejohet që të vazhdojë me tenderimin e projektit sipas këtij ligji.
-4. Njësia e PPP dhe KDNM-PPP është kompetente për shqyrtimin e studimeve të identifikuara të këtyre çështjeve dhe nëse me arsye kërkohet të insistojnë në kryerjen e studimeve shtesë, qoftë nga Autoriteti Kontraktues ose nga Njësia e PPP para nxjerrjes së vendimit se a është një projekt i autorizuar për tu proceduar për tenderim.
-5. Me përjashtim të Projekteve të identifikuara në paragrafin 5. të nenit 12 që përfshijnë Punët Komunale pa Përkrahje Ekonomike, Garancione Buxhetore dhe/ose detyrime kontigjente me vlerë më të madhe se 5% e buxhetit vjetor të komunës në fjalë, të gjitha projektet PPP duhet të kenë një aprovim formal të shkruar nga KDNM-PPP para se të vazhdohet me tender. Autorizimi i përmendur do të epet ose refuzohet në bazë të shqyrtimit teknik të studimit të fizibilitetit të shkallës investuese dhe dokumenteve tjera të ndërlidhura të Projektit, si dhe në bazë të rekomandimeve të bëra nga Njësia e PPP në lidhje me draft dokumentet e tenderit.

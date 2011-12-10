@@ -1,0 +1,5 @@
+# Article 28
+Participation of Consortia
+1. The Public Authority, when first inviting the participation of Bidders in the selection proceedings, shall allow them to form bidding consortia. The information required from members of bidding consortia to demonstrate their qualifications shall relate to the consortium, as a whole as well as to its individual participants.
+2. Unless otherwise stated in the request for qualification, each member of a consortium may participate, either directly or indirectly, in only one consortium at the same time. A violation of this rule shall cause the disqualification of the consortium and of the individual members.
+3. When considering the qualifications of bidding consortia, the Public Authority shall consider the capabilities and levels of participation of each of the consortium members and assess whether the combined qualifications of the consortium members are adequate to meet the needs of all phases of the project. The Public Authority may specify minimum participation levels for key consortium members that are deemed essential to meeting qualification requirements.

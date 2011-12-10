@@ -1,0 +1,5 @@
+# Article 20
+Rights and Responsibilities of the Private Partner
+1. The Private Partner shall enjoy all rights set forth in the Agreement, including without limit, the exclusive right to utilize and/or exploit a Public Service or a Public Infrastructure in accordance with the terms and conditions stipulated in the Agreement.
+2. The Private Partner shall strictly comply with the terms of the Agreement and shall fulfill its obligations, as stipulated therein.
+3. For the sole purpose of entering into an Agreement and implementing a Project, the Bidder selected in accordance with the present law shall establish a business organization in form of a joint stock company or a limited liability company incorporated under the laws of Kosovo, prior to formalizing an Agreement. Any requirement relating to the minimum capital of such a business organization and the procedures for obtaining the approval of the Contracting Authority to its statute and by-laws and significant changes therein shall be set forth in the terms of the request for proposals and be consistent with requirements established by applicable law.

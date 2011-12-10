@@ -1,0 +1,6 @@
+# Neni 13
+Tarifat e Transaksionit dhe Mbikëqyrjes
+1. Autoriteti Publik mund të kërkojë pagesën e një tarife të transaksionit nga partneri privat me qëllim të kompensimit të pjesshëm ose të plotë të kostos që ndërlidhet me transaksionin në fjalë si dhe për të siguruar që ka burime të mjaftueshme financiare në dispozicion për monitorimin e përputhshmërisë me kushtet e marrëveshjes.
+2. Autoriteti Publik mund të kërkojë nga partneri privat pagimin e një tarife të mbikëqyrjes, qoftë të njëhershme ose në bazë vjetore me qëllim të kompensimit të pjesshëm ose të plotë të kostos që ndërlidhet me monitorimin e përputhshmërisë së të gjitha palëve me marrëveshjen PPP.
+3. Shuma e tarifave të transaksionit dhe/ose tarifave të mbikëqyrjes si dhe kushtet për pagimin e këtyre tarifave duhet të përcaktohen në dokumentet e kërkesës për propozime. Pagimi i tarifës së transaksionit dhe/ose të mbikëqyrjes konsiderohet detyrim i pa-negociueshëm dhe i detyrueshëm i ofertuesit të zgjedhur.
+4. Të gjitha tarifat e transaksionit dhe të mbikëqyrjes të arkëtuara në pajtim me këtë nen janë para publike të cilat depozitohen në fondin e konsoliduar të Kosovës në pajtim me Ligjin për Menaxhimin e Financave Publike dhe Përgjegjësitë si dhe rregullat përkatëse financiare.
