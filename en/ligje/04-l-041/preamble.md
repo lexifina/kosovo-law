@@ -1,0 +1,5 @@
+LAW No. 04/L-041 ON PRODUCTION, COLLECTION, PROCESSING AND TRADING OF TOBACCO
+Assembly of Republic of Kosovo,
+Based on Article 65 (1) of the Constitution of the Republic of Kosovo,
+Approves
+LAW ON PRODUCTION, COLLECTION, PROCESSING AND TRADING OF TOBACCO
