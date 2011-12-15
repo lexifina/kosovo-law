@@ -1,0 +1,6 @@
+# Neni 30
+Transmetimi dhe ritransmetimi i përmbajtjeve programore audiovizuale
+1. Shërbimet mediale audivizuale të licencuara nga Komisioni i Pavarur për Media - KPM si edhe operatorët kabllorë dhe operatorët tjerë që pavarësisht teknologjisë së përdorur ofrojnë përmbajtje audiovizuale, obligohen të bëjnë transmetimin dhe ritransmetimin e programeve bazuar në marrëveshjet valide për të drejtën e autorit.
+2. Marrëveshjet mbi të drejtën e autorit që kanë të bëjnë me transmetimin dhe ritransmetimin e programeve audiovizuale do të jenë të vlefshme vetëm pasi ato të jenë regjistruar nga shoqatat për administrim kolektiv të të drejtave të cilat licencohen nga Zyra për të drejtën e autorit pranë Ministrisë së Kulturës, në pajtim me nenin 171 të këtij ligji.
+3. Të gjitha ankesat që kanë të bëjnë me shkeljen e të drejtës së autorit gjatë transmetimit dhe ritransmetimit të programeve nga ana e shërbimeve me përmbajtje audiovizuale do të procedohen tek Komisioni i Pavarur për Media (KPM).
+4. Mos përmbushja e obligimeve dhe përgjegjësive nga ana e shërbimeve mediale audiovizuale për transmetimin dhe ritransmetimin e programeve, siç përcaktohen me këtë ligj, do të shqyrtohet nga KPM-ja në pajtim me dispozitat e Ligjit për Komisionin e Pavarur të Mediave.

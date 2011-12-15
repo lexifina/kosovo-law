@@ -1,0 +1,5 @@
+# Neni 40
+Shumat e kompensimit të veçantë
+1. Shumat e përgjithshme të kompensimeve të veçanta sipas nenit 38 të këtij ligji, që u takojnë të gjithë bartësve të të drejtave, sipas këtij ligji, i miraton Qeveria e Kosovës. Me kontratë të posaçme në mes të Shoqatës për administrim kolektiv të këtyre të drejtave dhe shfrytëzuesve, mund të caktohen tarifat e veçanta të këtyre kompensimeve.
+2. Shumat e kompensimeve të veçanta nga paragrafi paraprak caktohen ndaras: për çdo lloj të bartësve të fiksimit të tingullit ose pamjeve në varësi me kapacitetin e mundshëm dhe qëndrueshmërinë e fiksimit përfshirë CD-ROM, DVD dhe bartësit e ngjashëm, për çdo aparat fotokopjimi përfshirë faks- aparatet, skanerët etj., në varësi me kapacitetin e tyre, numrin e kopjeve në minutë dhe mundësinë e fotokopjimit me ngjyra në shumën e dyfishuar nga kopjimi bardh e zi, si dhe për çdo faqe të kopjuar.
+3. Shumat nga paragrafi 1. i këtij neni caktohen në vlera nominale të parasë. Me rastin e caktimit të lartësisë së tyre merret parasysh shtrirja e mundshme e pranisë së masave mbrojtëse efektive teknologjike në treg.

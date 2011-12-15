@@ -1,0 +1,2 @@
+# Article 120
+If the author has created a computer program while fulfilling his duties or according to the instruction by his employer, respectively if the author has created a computer program based on the contract for request of work, it is considered that all authors’ property rights and other authors; rights on that computer program were assigned exclusively and without limitations to the employer, respectively to the one requesting the program, unless otherwise provided by this contract.

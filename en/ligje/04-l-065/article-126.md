@@ -1,0 +1,6 @@
+# Article 126
+Author’s work from working relationship
+1. When the author’s work is created from the employee during his working relationship, while fulfilling his work duties or according to the instructions given by the employer, its is considered that the property rights and other author’s rights were assigned exclusively and without limitations to the employer, for a period of ten (10) years, from the completion of the work, unless otherwise provided by the employment contract or by another signed act with the employer.
+2. Regardless of the provisions referred to in paragraph 1. of this Article, the rights will be returned to the employed author before the completion of such term, in case of employer’s death, respectively in case of employer’s liquidation as a legal person.
+3. If the employer does not use the property rights on that work, or uses them in a negligible manner, the employed author has the right to ask from the employer to assign those rights to him, against compensation of expenses.
+4. Unless otherwise contracted between the author and employer, the employee, as the author of the work enjoys the right to claim additional compensation from the employer, if his salary evident disproportion with the incomings and savings realized due to the use of the work.
