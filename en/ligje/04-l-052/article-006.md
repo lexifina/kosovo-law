@@ -1,0 +1,5 @@
+# Article 6
+Powers to Conclude International Agreements
+1. The President and the Prime Minister and the Minister of Foreign Affairs shall be entitled to perform all acts relating to the conclusion of the International Agreements of the Republic of Kosovo, in compliance with Constitution of Republic of Kosovo and Vienna Convention on the Law of Treaties.
+2. The head of a diplomatic mission of the Republic of Kosovo or the authorized representative of the Republic of Kosovo at an international conference, international organization or one of its bodies shall be entitled to negotiate the conclusion of an International Agreement of the Republic of Kosovo or to approve its text with the State to which he is accredited or at the international conference, international organization or one of its bodies.
+3. Other persons may perform acts relating to the conclusion of the International Agreements of the Republic of Kosovo only provided they possess powers granted to them on the basis of the laws in force and according to the procedure established in Article 6 of this Law.

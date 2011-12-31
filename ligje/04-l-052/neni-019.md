@@ -1,0 +1,5 @@
+# Neni 19
+Informimi rreth marrëveshjeve ndërkombëtare të Republikës së Kosovës
+1. Informacioni për të gjitha marrëveshjet ndërkombëtare të cilat janë lidhur nga Republika e Kosovës ruhen dhe administrohen në Ministrinë e Punëve të Jashtme, pavarësisht nga publikimi në Gazetën Zyrtare.
+2. Kopja origjinale e marrëveshjes ndërkombëtare të nënshkruar përcillet brenda dhjetë (10) ditëve të punës, nga ministria përkatëse ose Qeveria ose agjencia shtetërore, te Ministria e Punëve të Jashtme për arkivim. Bashkë me marrëveshjen ndërkombëtare, ministria përkatëse ose Qeveria apo agjencia shtetërore dorëzon një dokument ku përshkruhet se kush, ku dhe kur e ka nënshkruar marrëveshjen ndërkombëtare si dhe versionin elektronik të marrëveshjes ndërkombëtare në gjuhët shqipe dhe serbe, si dhe në gjuhën e huaj relevante nëse është në dispozicion.
+3. Ministria e Punëve të Jashtme certifikon vërtetësinë e origjinalit të marrëveshjeve ndërkombëtare dhe i përcjell kopjet e origjinalit të marrëveshjeve te institucionet relevante shtetërore.

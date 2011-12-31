@@ -1,0 +1,5 @@
+# Neni 18
+Tërheqja nga marrëveshjet ndërkombëtare të Republikës së Kosovës ose suspendimi i zbatimit të tyre
+1. Marrëveshjet ndërkombëtare të Republikës së Kosovës mund të tërhiqen dhe zbatimi i tyre të suspendohet vetëm në bazë të dispozitave të marrëveshjeve ndërkombëtare, normave të së drejtës ndërkombëtare dhe në bazë të procedurës së vendosur përmes këtij ligji.
+2. Vendimi në lidhje me tërheqjen nga një marrëveshje ndërkombëtare të Republikës së Kosovës ose suspendimin e zbatimit të saj në bazë të normave universale të së drejtës ndërkombëtare, të referuara në paragrafin 1. të nenit 10 të këtij ligji, merret nga Kuvendi i Republikës së Kosovës me dy të tretat (2/3) e votave pas rekomandimit të Presidentit, me iniciativë të tij ose pas propozimit nga Qeveria.
+3. Vendimi për tërheqjen nga një marrëveshje ndërkombëtare të Republikës së Kosovës ose për suspendimin e zbatimit të saj në bazë të normave universale të së drejtës ndërkombëtare, përveç atyre të parapara në paragrafin 1. të nenit 10 të këtij ligji, merret nga Presidenti, me iniciativë të tij ose me rekomandim të Qeverisë.

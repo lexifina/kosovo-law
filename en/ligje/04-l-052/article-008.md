@@ -1,0 +1,7 @@
+# Article 8
+Negotiations of the International Agreement
+1. Prior to the commencement of negotiations, the relevant ministry or state agency shall propose the composition of the delegation, time and location for the negotiations to be held, after receiving the consent by the Ministry of Foreign Affairs.
+2. Ministry of Foreign Affairs, when giving consent for commencement of negotiations, shall also give the consent for composition of the delegation, the time and place where they shall be held.
+3. After each stage of negotiations of the International Agreements, the responsible ministry or state agency shall report the progress and results of the negotiations to the Ministry of Foreign Affairs. Any correspondence with foreign states and international organizations regarding the International Agreements shall be exchanged only through diplomatic channels.
+4. Any proposals made during the negotiations to make major changes or additions to the draft text of the International Agreement shall be subject to the review procedure by the relevant ministries or state agencies. Negotiations may be resumed if the relevant ministries or state agencies agree to the proposed changes and additions during the review procedure.
+5. If the relevant ministries or state agencies do not agree to the proposed changes or additions to the project text of the International Agreement, then amendments shall be examined and decided by the Government after the submission of the proposal by the Ministry of Foreign Affairs.

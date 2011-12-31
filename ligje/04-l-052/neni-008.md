@@ -1,0 +1,7 @@
+# Neni 8
+Negociatat për marrëveshje ndërkombëtare
+1. Para fillimit të negociatave, ministria ose agjencia shtetërore përkatëse propozon përbërjen e delegacionit, kohën dhe vendin ku do të zhvillohen negociatat, pasi të jetë marrë më parë pëlqimi i Ministrisë së Punëve të Jashtme.
+2. Ministria e Punëve të Jashtme me rastin e dhënies së pëlqimit për fillimin e negociatave, jep pëlqimin edhe për përbërjen e delegacionit, kohën dhe vendin ku do të zhvillohen ato.
+3. Pas çdo faze të negociatave të marrëveshjeve ndërkombëtare, ministria ose agjencia shtetërore përkatëse raporton rreth përparimit dhe rezultateve të negociatave tek Ministria e Punëve të Jashtme. Çdo korrespondencë me organizatat e huaja shtetërore dhe ndërkombëtare rreth marrëveshjeve ndërkombëtare shkëmbehet vetëm përmes kanaleve diplomatike.
+4. Çdo propozim i bërë gjatë negociatave për bërjen e ndryshimeve dhe plotësimeve të mëdha në projektin e tekstit të marrëveshjes ndërkombëtare i nënshtrohet procedurës së shqyrtimit nga ministritë ose agjencitë shtetërore. Negociatat mund të vazhdojnë nëse ministritë ose agjencitë shtetërore përkatëse pajtohen për ndryshimet dhe propozimet e bëra gjatë procedurës së shqyrtimit.
+5. Nëse ministritë ose agjencitë shtetërore përkatëse nuk pajtohen për ndryshimet ose plotësimet e propozuara në projektin e tekstit të marrëveshjes ndërkombëtare, atëherë me propozimin e Ministrisë së Punëve të Jashtme plotësimet dhe ndryshimet shqyrtohen dhe vendosen nga Qeveria.

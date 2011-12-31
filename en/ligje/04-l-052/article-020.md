@@ -1,0 +1,5 @@
+# Article 20
+Publication of International Agreements of the Republic of Kosovo
+1. International Agreements of the Republic of Kosovo shall be published in the Official Gazette once they are sent by the Office of the President of the Republic of Kosovo, Assembly of Republic of Kosovo respectively.
+2. To publish the International Agreement, the Ministry of Foreign Affairs shall send a paper and an electronic copy of the original text of the International Agreement in the Albanian and Serbian languages to the Official Gazette of Republic of Kosovo. If the International Agreement is done in a foreign language only, the Ministry of Foreign Affairs shall send to the Official Gazette the translation, on paper and in the electronic form, of the International Agreement into the Albanian and Serbian languages performed and verified under requirements of paragraph 3 of Article 5 of this law.
+3. The Ministry of Foreign Affairs shall publish in the Official Gazette and its webpage, informational releases on the entry of International Agreements into force.

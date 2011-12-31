@@ -1,0 +1,5 @@
+# Neni 6
+Kompetenca për të lidhur marrëveshje ndërkombëtare
+1. Presidenti, Kryeministri dhe Ministri i Punëve të Jashtme kanë të drejtën e kryerjes së të gjitha veprimeve të ndërlidhura me lidhjen e marrëveshjeve ndërkombëtare të Republikës së Kosovës, në pajtim me Kushtetutën e Republikës së Kosovës dhe Konventën e Vjenës për të Drejtën e Traktateve.
+2. Shefi i misionit diplomatik të Republikës së Kosovës ose përfaqësuesi i autorizuar i Republikës së Kosovës në një konferencë ndërkombëtare, organizatë ndërkombëtare ose një prej organeve të tyre ka të drejtën e negociimit të lidhjes së marrëveshjes ndërkombëtare të Republikës së Kosovës ose të miratojë tekstin me shtetin në të cilin është akredituar ose në konferencën ndërkombëtare, organizatën ndërkombëtare ose një prej organeve të tyre.
+3. Personat tjerë, mund të kryejnë veprime drejt lidhjes së marrëveshjeve ndërkombëtare të Republikës së Kosovës vetëm me kusht që kanë fuqi të deleguara në bazë të ligjit në fuqi dhe procedurës së përcaktuar në nenin 6 të këtij ligji.

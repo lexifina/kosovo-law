@@ -1,0 +1,5 @@
+# Article 15
+Binding Character of International Agreements
+1. The International Agreements the Republic of Kosovo that have entered into force shall be binding in the Republic of Kosovo.
+2. If a International Agreement of the Republic of Kosovo which has entered into force establishes norms other than those established by the laws, other legal acts of the Republic of Kosovo which are in force at the moment of conclusion of the International Agreement or which entered into force after the entry into force of the International Agreement, the provisions of the International Agreements of the Republic of Kosovo shall prevail.
+3. If a law or any other legal act has to be passed for the purpose of implementation of an International Agreement of the Republic of Kosovo, the Government of the Republic of Kosovo shall submit to the Assembly according to the established procedure a draft of the appropriate law or shall adopt an appropriate decision of the Government or ensure according to its competence the passing of another legal act.

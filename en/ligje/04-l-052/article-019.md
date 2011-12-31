@@ -1,0 +1,5 @@
+# Article 19
+Information on International Agreements of the Republic of Kosovo
+1. Information about all International Agreements that have been concluded by the Republic of Kosovo shall be stored and administered at the Ministry of Foreign Affairs; even they are published in the Official Gazette.
+2. The original copy of the signed International Agreement shall be forwarded, no later than within ten (10) working days, by the responsible ministry or Government or state agency to the Ministry of Foreign Affairs for storage. Together with the International Agreement, the responsible ministry or Government or state agency shall submit a document stating by whom, when and where the International Agreement was signed, and the electronic text of the International Agreement in the Albanian and Serbian and, where available, relevant foreign languages.
+3. The Ministry of Foreign Affairs shall certify the authenticity of copies of signed International Agreements and forward such copies to relevant state institutions.
