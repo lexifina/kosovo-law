@@ -1,0 +1,7 @@
+# Article 68
+Performance regime
+1. Infrastructure charging schemes shall through performance scheme encourage railway undertakings and the infrastructure managers to minimize disruptions and improve the performance of the railway network. This may include penalties for actions which disrupt the operation of the network, compensation for undertakings which suffer from disruption and bonuses that reward better than planned performance.
+2. Through specific indicators for improvement of the quality of the transport, determined in the system for collection of the railway infrastructure access charge, the carriers and the manager of the infrastructure shall be stimulated to reduce the delays and to improve the quality of the transport. This may include penalties for actions which disrupt the operation of the network, compensation for undertakings which suffer from disruption and bonuses that reward better than planned performance.
+3. The system stipulated in this Article shall contain measures for preventing disruptions of the management of traffic, compensating carriers that suffer losses due to the traffic management disruptions and premiums which shall be awarded to those entities that have improved their indicators or have exceeded the target indicators.
+4. The basic principles of the system stipulated in this Article shall refer and shall apply to the entire network in a non discriminatory and transparent matter.
+5. The performance scheme shall be published in the Network Statement.

@@ -1,0 +1,11 @@
+# Article 19
+Decision making principles
+1. The above tasks shall not be transferred to any infrastructure manager, railway undertaking or procurement unit.
+2. The body in charge of railway safety shall carry out its tasks in an open, non discriminatory and transparent way. In particular, it shall allow all parties to express their opinion and shall justify the decisions taken.
+3. The body in charge of railway safety shall promptly respond to requests and applications, and communicate its requests for information without delay. It will adopt all its decisions within four months after all requested information has been provided.
+4. The body in charge of railway safety may request the technical assistance of infrastructure managers and railway undertakings or other qualified bodies when it is carrying out the tasks.
+5. In the process of making proposals to develop the national regulatory framework, the body in charge of railway safety shall consult all people’s involved and interested parties, including infrastructure managers, railway undertakings, manufacturers and maintenance providers, users and staff representatives.
+6. The body in charge of railway safety shall be free to carry out all inspections and investigations that are needed for accomplishment of its tasks. It shall be granted access to all documents and premises, installations and equipment infrastructure managers and railway undertakings.
+7. The decisions of the body in charge of railway safety may be subject to judicial review before the competent Court.
+8. All persons involved and interested parties including infrastructure managers, railway undertakings, manufacturers and maintenance providers, users and staff representatives are entitled to lodge complaints with the Railway Market Regulatory body or initiate an administrative dispute against decisions of the body in charge of railway safety.
+9. The body in charge of railway safety shall cooperate with other bodies in charge of railway safety, especially within the context of the Transport Community Agreement between SEETO partners in order to facilitate and coordinate the safety certification of railway undertakings having been granted international train paths.

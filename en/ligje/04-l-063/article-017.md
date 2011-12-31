@@ -1,0 +1,4 @@
+# Article 17
+Closures of passenger services of general economic interest, tracks and stations
+1. The ministry makes the final decision for closures of passenger services of general economic interest, tracks and stations after consultation of all interested parties including their Railway Regulatory Authority. A Sub-legal act shall describe the procedures to prepare such proposals and the necessary compulsory consultations, especially the Railway Market Regulatory body.
+2. As a principle, no final decision to close passenger services of general economic interest in Kosovo shall be made without prior tendering on the international market to ensure that no train operating company should be able to provide in Kosovo the passenger services of general economic interest answering the needs for mobility in better economic conditions than the already existing service provider in Kosovo.

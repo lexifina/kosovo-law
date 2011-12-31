@@ -1,0 +1,6 @@
+# Neni 78
+Orari
+1. Menaxherët e infrastrukturës së shfrytëzimit të përbashkët duhet që sa më shpejt që është e mundshme të plotësojnë të gjitha kërkesat për kapacitetin e infrastrukturës duke përfshirë kërkesat për trasetë e trenave që kalojnë në më shumë se sa një rrjet dhe duhet që sa më shpejt të marrin parasysh të gjitha pengesat për aplikuesit duke përfshirë efektin ekonomik të biznesit të tyre.
+2. Menaxherët e infrastrukturës së shfrytëzimit të përbashkët mund të iu japin prioritet shërbimeve specifike në kuadër të planifikimit dhe procesit të koordinimit duke ofruar atë se prioritetet dhe specifikimet janë përshkruar në Ekspozeun e Rrjetit.
+3. Menaxherët e infrastrukturës së shfrytëzimit të përbashkët duhet t’i konsultojnë palët e interesuara në lidhje me draftin e orarit të trenave dhe të iu japin atyre një muaj për mendimet e tyre. Në palët e interesuara duhet të përfshihen të gjithë ata që kanë kërkuar kapacitet e infrastrukturës e gjithashtu edhe palët e tjera që dëshirojnë të kenë mundësinë të komentojnë se si do të ndikonte orari i trenave në mundësinë e prokurimit të shërbimeve hekurudhore gjatë periudhës së orarit të trenave.
+4. Menaxheret e infrastrukturës së shfrytëzimit të përbashkët duhet të ndërmarrin masat e duhura lidhur me secilën brengë.

@@ -1,0 +1,6 @@
+# Article 47
+Railway infrastructure management in extraordinary circumstances
+1. In the event of disruption of railway traffic caused by technical defects, serious accident, or incident, the manager of a railway infrastructure of common use shall undertake all necessary measures to reestablish regular traffic conditions in the shortest possible time period.
+2. All managers of a railway infrastructure of common use shall prepare a backup plan stipulating all the authorities and institutions that will have to be informed in the event of a serious accident, accident or an incident or serious disruptions of the train traffic.
+3. In case of an emergency when the railway infrastructure cannot be used, the manager of an infrastructure of common use can use other itineraries for a certain time period necessary to repair the infrastructure without previous notification to the railway undertakings using this railway infrastructure. It can also require from the railway undertakings to make available resources to normalize the situation as soon as possible.
+4. If the manager of a railway infrastructure of common use deems that it is necessary, it may require the railway undertakings to make available such resources as the manager deems are most appropriate, in order to normalize the traffic conditions in the shortest possible period of time.

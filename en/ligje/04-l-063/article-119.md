@@ -1,0 +1,6 @@
+# Article 119
+Construction of railway infrastructure
+1. Construction of the railway infrastructure, within the sense of this Law, shall mean construction of a new Railway on a new route as well as electric and communication, signal and safety, electrical shunting, electric energy and other facilities and devices, buildings and structures on a new Railway or on the existing railroads.
+2. The provisions of this Law that regulate the construction of the railway infrastructure shall also apply to the reconstruction of the railway infrastructure.
+3. The railway infrastructure shall be designed, constructed, reconstructed, overhauled, equipped and maintained to serve its purpose, according to the needs for traffic safety and environmental and nature protection, in accordance with this Act and with other regulations as well as with the determined capacity of the railroad, train speeds, axial load and weight of the freight cars per longitudinal meter, and with norms and standards prescribed by the ministry competent for railway matters according to TSIs, UIC standards and other existing norms and standards.
+4. The railroads that serve the international railway traffic have to fulfill the conditions determined in the international agreements obligatory for Kosovo.

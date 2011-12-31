@@ -1,0 +1,10 @@
+# Article 53
+Access to training facilities
+1. Railway undertakings applying for a safety certificate shall have fair and non-discriminatory access to training facilities for train drivers and staff accompanying the trains, whenever such training is necessary for the fulfillment of requirements to obtain the safety certificate.
+2. The services offered must include training on necessary route knowledge, operating rules and procedures, the signaling and control command system and emergency procedures applied on the routes operated.
+3. The infrastructure managers and their staff performing vital safety tasks shall have fair and non-discriminatory access to training facilities.
+4. If the training services do not include examinations and granting of certificates, the Ministry competent for railway matters shall ensure that railway undertakings have access to such certification if it is a requirement of the safety certificate.
+5. The body in charge of railway safety shall ensure that the provision of training services or, where appropriate, the granting of certificates meets the safety requirements.
+6. If the training facilities are available only through the services of one single railway undertaking or one single infrastructure manager, the Ministry competent for railway matters shall ensure that they are made available to other railway undertakings at a reasonable and non-discriminatory price, which is cost-related and may include a profit margin.
+7. When recruiting new train drivers, staff on board of trains and staff performing vital safety tasks, railway undertakings must be able to take into account any training, qualifications and experience acquired previously from other railway undertakings. For this purpose, such members of staff shall be entitled to have access to, obtain copies and communicate all documents attesting to their training, qualifications and experience.
+8. If an applicant is denied the access to training facilities, the applicant has a right of appeal before the Railway Market Regulatory body.

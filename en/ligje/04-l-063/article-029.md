@@ -1,0 +1,8 @@
+# Article 29
+Decision making process
+1. In the process of making proposals to develop the railway interoperability national framework, as well as in the process of monitoring, checking, delivering documents the body in charge of railway interoperability shall consult all persons involved and interested parties, including the national body in charge of railway safety, infrastructure managers, railway undertakings, manufacturers and maintenance providers, users and staff representatives
+2. The body in charge of railway interoperability shall carry out its tasks in an open, non discriminatory and transparent way: In particular, it shall allow all interested parties to be heard and it shall give reasons for its decisions.
+3. The body in charge of railway interoperability shall promptly respond to requests and applications, and communicate its requests for information without delay. It will adopt decisions within three months after all requested information has been provided,
+4. The body in charge of railway interoperability may request the technical assistance of the national body in charge of railway safety, infrastructure managers and railway undertakings, manufacturers and maintenance providers, national accredited bodies or other qualified bodies when it is carrying out its missions and tasks.
+5. The body in charge of railway interoperability shall have the power to request relevant information from the applicants, infrastructure managers, railway undertakings, manufacturers and maintenance providers, and any third party involved. The requested information must be supplied without undue delay.
+6. The body in charge of railway interoperability shall produce the annual report and submit it to the RRA, till the end of January of the coming year.

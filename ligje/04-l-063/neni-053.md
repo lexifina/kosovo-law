@@ -1,0 +1,10 @@
+# Neni 53
+Qasja në pajisjet e trajnimit
+1. Ndërmarrjet hekurudhore që aplikojnë për certifikatë të sigurisë duhet të kenë qasje të drejt dhe jo diskriminuese në pajisjet e trajnimit për trajnimin e makinistëve dhe stafin shoqërues të trenave kurdo që një trajnim i tillë është i domosdoshëm për plotësimin e kërkesave për të marrë certifikatën e sigurisë.
+2. Shërbimet e ofruara duhet të përfshijë trajnimin mbi domosdoshmërinë e njohjes të linjave, rregullave të operimit dhe procedurat, sinjalizimin dhe sistemin e telekomandimit si dhe procedurat e emergjencës të cilat aplikohen në operimin e linjave.
+3. Menaxherët e infrastrukturës dhe stafi i tyre të cilët kryejnë punët vitale të sigurisë duhet të kenë qasje të drejt dhe jo diskriminuese në pajisjet e trajnimit.
+4. Nëse shërbimet e trajnimit nuk përshijnë provimet dhe dhënien e certifikatave, atëherë ministria duhet të siguroj qasjen e ndërmarrjes hekurudhore në atë certifikim nëse kjo ka të bëjë me kërkesën për certifikatën e sigurisë.
+5. Autoriteti i sigurisë duhet të siguroj që ofrimi i shërbimeve të trajnimit, apo kur është e përshtatshme dhënia e certifikatës t’i plotëson kërkesat e sigurisë.
+6. Nëse pajisjet e trajnimit janë në dispozicion vetëm përmes të shërbimeve të një ndërmarrje të vetme hekurudhore apo të një menaxheri të vetëm të infrastrukturës, atëherë ministria duhet të siguroj se ato do të jenë në dispozicion për ndërmarrjet e tjera hekurudhore me një çmim të arsyeshëm dhe jo diskriminues dhe me kosto që mund të përfshijë një profit të vogël.
+7. Kur bëhet rekrutimi i makinistëve të rinj, atëherë stafi i ndërmarrjes hekurudhore që është në bordin e trenit dhe stafi që kryen detyrat vitale të sigurisë, duhet të jenë në gjendje të marrin parasysh ndonjë trajnim, kualifikim dhe përvojë të fituar më parë nga ndërmarrjet e tjera hekurudhore. Për këtë qëllim këta anëtarë të stafit duhet të kenë të drejt të kenë qasje, t’i marrin kopjet dhe t’i komunikojnë të gjitha dokumentet të cilat dëshmojnë trajnimin e tyre, kualifikimet dhe përvojën.
+8. Nëse aplikuesit i mohohet qasja në pajisjet e trajnimit, atëherë ai ka të drejt të ankohet tek Organi Rregullativ i Tregut.

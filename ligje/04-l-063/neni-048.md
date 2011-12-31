@@ -1,0 +1,11 @@
+## NËNKREU II
+## Ofruesit e pajisjeve speciale hekurudhore
+# Neni 48
+Ofruesi i pajisjeve speciale hekurudhore
+1. Pajisja speciale hekurudhore nënkupton lidhjen hekurudhore me rrjetin për qëllim të ofrimit të shërbimeve për transportin e udhëtarëve dhe të mallrave, e cila nuk është as port e as terminal. Ofrues i pajisjeve hekurudhore, nënkupton personin i cili ofron pajisjet speciale të shërbimeve hekurudhore.
+2. Ministria vendos nëse ofruesi i pajisjeve speciale hekurudhore do të deklarohet si menaxher i infrastrukturës i cili njëkohësisht do të jetë organ i cili aplikon pagesën dhe bënë alokimin e traseve të trenit. Në këtë rast ofruesi i pajisjeve speciale hekurudhore është i obliguar që të aplikoj për licencë dhe certifikatë bazuar në këtë ligj. Ky po ashtu është i obliguar që të prezanton ekspozenë e thjeshtësuar të rrjetit dhe të bënë kontrata kornizë apo kontratat për qasje në binarë, ashtu sikurse kërkohet me këtë ligj. Deklarata e tillë e rrjetit duhet të përpilohet sipas aktit nënligjor në pajtim me
+Direktivën e BE-së 2001/14 dhe propozimin për direktivën e re mbi Hapësirën Unike Evropiane të Transportit të shtatorit 2010.
+3. Nëse Ministria vendosë që ofruesi i pajisjeve speciale hekurudhore nuk ka nevojë të deklarohet si menaxher i infrastrukturës dhe organ i cili aplikon pagesat për rrjet dhe bënë alokimin e trasesë, atëherë ofruesi i pajisjeve speciale hekurudhore nuk ka nevojë që të ketë licencë dhe autorizim të sigurisë.
+4. Ofruesi i pajisjeve speciale hekurudhore ka të drejt të kryej transport në llogari të vet për qëllimet e veta dhe për ato komerciale.
+5. Në rast të transportit për nevojat e veta, atëherë ai nuk duhet të kërkoj licencë për ndërmarrjet hekurudhore apo të aplikoj për autorizim të thjeshtë të sigurisë, por duhet të jetë në pajtim me rregullat që kanë të bëjnë me sigurinë e transportit hekurudhor sikurse kërkohet me këtë ligj dhe me rregulloret pasuese. Deklarata e tillë e thjeshtësuar e rrjetit duhet të përpilohet sipas aktit nënligjor në pajtim me Direktivën e BE-së 2001/14 dhe propozimin për direktivën e re mbi Hapësirën Unike Evropiane të Transportit të shtatorit 2010.
+6. Ministria me një akt nënligjor duhet t’i përshkruaj të drejtat dhe obligimet për ofruesin e pajisjeve speciale hekurudhore të cilat kanë të bëjnë me operimet e sigurta, ndërtimin dhe mirëmbajtjen si dhe menaxhimin.

@@ -1,0 +1,3 @@
+# Neni 41
+Infrastruktura hekurudhore e Kosovës në shfrytëzim të përbashkët
+Rrjeti publik hekurudhor i Kosovës përbëhet nga linjat e tanishme dhe të ardhshme nacionale hekurudhore të Kosovës të cilat shërbejnë apo janë në gjendje t’iu shërbejnë terminaleve apo ndonjë lokacioni tjetër që ofron shërbime hekurudhore më shumë se sa një shfrytëzuesi. Ky rrjet quhet rrjeti hekurudhor publik i Kosovës i shfrytëzimit të përbashkët dhe duhet të ofrojë mundësi qasjeje për çdo ndërmarrje hekurudhore që i plotëson kushtet për këtë. Kjo përjashton shërbimet private të binarëve industrial në pronësi private, që shfrytëzohen për shërbimet e mallrave të veta.

@@ -1,0 +1,4 @@
+# Neni 17
+Mbylljet e shërbimeve të udhëtarëve, binarëve dhe stacioneve me interes të përgjithshëm ekonomik
+1. Ministria pas pranimit të propozimit nga ARH dhe të gjitha palëve tjera të interesuara, do të nxjerr vendimin përfundimtar lidhur me mbylljen e shërbimeve të udhëtarëve të interesit të përgjithshëm ekonomik, të binarëve dhe stacioneve. Përcaktimi i këtyre procedurave dhe konsultimeve të detyrueshme, bëhet me akt nënligjor.
+2. Parimisht nuk duhet të nxirret vendimi për mbylljen e shërbimeve të udhëtarëve të interesit të përgjithshëm ekonomik pa shpallje të tenderit ndërkombëtar për ofruesin e shërbimeve dhe verifikimin se nuk ka operator të trenave i cili është i interesuar të ofrojë këto shërbime, duke iu përgjigjur nevojave për mobilitet në kushte më të mira ekonomike sesa ofruesi i shërbimeve ekzistuese në Kosovë .

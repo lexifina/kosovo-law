@@ -1,0 +1,23 @@
+# Neni 96
+Kushtet për marrjen e licencës dhe certifikatës së makinistit
+1. Për të marrë licencën, aplikuesit duhet të plotësojnë minimumin e kërkesave të paraqitura në këtë ligj. Për të marrë certifikatë dhe që ajo të mbetet e vlefshme, aplikuesit duhet të mbajnë licencë dhe të plotësojnë kërkesat minimale të paraqitura më poshtë.
+2. Mosha minimale e aplikuesit, për të marrë licencë duhet të jetë së paku njëzetedy (22) vjeçare.
+3. Kërkesat bazike për marrjen e licencës:
+3.1. aplikuesit duhet që të paktën të kenë të kryer shkollën e mesme dhe të kenë të kryer me sukses trajnimin bazik. Akti nënligjor në pajtim me Direktivës së BE-së 2007/ 59 duhet të përshkruaj nivelin e edukimit dhe trajnimin e kërkuar.
+3.2. aplikuesit duhet të ofrojnë konfirmim të përshtatshmërisë së tyre fizike duke e kaluar kontrollin mjekësor të kryer nën mbikëqyrjen e institucionit mjekësor (kjo vendoset nga shtetet anëtare) të akredituar apo të njohur në përputhje me këtë ligj. Akti nënligjor në pajtim me Direktivën e BE-së 2007/ 59 duhet të përshkruaj kriteret të cilat duhet të plotësohen me këtë kontrollim mjekësor.
+3.3. aplikuesit duhet të demonstrojnë përshtatshmërinë e tyre psikologjike profesionale të kryer në institucionin mjekësor (kjo vendoset nga shtetet anëtare) të akredituar apo të njohur në përputhje me këtë ligj. Akti nënligjor në pajtim me Direktivën e BE-së 2007/59 duhet të përshkruaj kriteret që duhet ti plotësojë kontrolli mjekësor.
+3.4. aplikuesit duhet të demonstrojnë aftësinë e tyre të përgjithshme profesionale duke kaluar provimin i cili i mbulon të paktën lëndët e përgjithshme. Akti nënligjor në pajtim me Direktivën e BE-së 2007/59 duhet të përshkruaj lëndët e përgjithshme të këtij provimi.
+4. Kërkesat për marrjen e certifikatës së makinistit:
+4.1. aplikuesit për certifikatën e makinistit duhet ta njohin gjuhën shqipe dhe serbe.
+4.2. aplikuesit duhet të kalojnë testin mbi njohuritë dhe kompetencën e tyre profesionale në lidhje me mjetet lëvizëse për të cilat kërkohet certifikata. Akti nënligjor në pajtim me Direktivën e BE-së 2007/59 duhet të përshkruaj lëndët e përgjithshme të këtij provimi.
+4.3. aplikuesit duhet të kalojnë testin mbi njohuritë dhe kompetencën e tyre profesionale në lidhje me infrastrukturën hekurudhore për të cilat kërkohet certifikata. Akti nënligjor në pajtim me Direktivën e BE-së 2007/59 duhet të përshkruaj lëndët e përgjithshme të këtij provimi dhe aty ku është e përshtatshme edhe njohuritë gjuhësore.
+4.4. aplikuesit duhet të trajnohen nga ndërmarrja hekurudhore apo nga menaxheri i infrastrukturës për sistemin e menaxhimit të sigurisë të përshkruar në këtë ligj.
+5. Të gjitha kërkesat themelore për marrje të licencës së makinistit dhe kushtet për marrjen e certifikatës, duhet të përshkruhen në aktin nënligjor në pajtim me Direktivën e BE-së 2007/59 i cili po ashtu duhet të përshkruaj formatet e licencave dhe certifikatave të makinistëve dhe përmbajtjen e regjistrave të licencave dhe certifikatave të makinistëve të cilat duhet të mbahen nga autoriteti kompetent dhe të jenë në dispozicion për të gjitha palët e interesuara.
+6. Organi për licencimin e makinistëve duhet të publikoj procedurën për marrjen e licencës që duhet të ndjeket:
+6.1. të gjitha aplikimet për licencë duhet të paraqiten tek Organi për licencimin e makinistëve nga makinisti kandidat apo nga entiteti në emër të tij;
+6.2. aplikimet e paraqitura tek Organi për licencimin e makinistëve mund të jenë për dhënien e licencës së re, përmirësimin e të dhënave në licencë, përtëritjen apo duplifikimin e saj;
+6.3. organi për licencimin e makinistëve duhet të lëshoj licencë sa më shpejt që është e mundshme dhe jo më vonë se një (1) muaj pasi pranimit të dokumentacionit të domosdoshëm;
+6.4. licenca duhet të jetë e vlefshme për dhjetë (10) vite por që i nënshtrohet kontrollimeve periodike, inspektimeve dhe monitorimit;
+6.5. licenca duhet të lëshohet në vetëm një origjinal. Çfarëdo duplikati i licencës tjetër nga ajo e Organit për licencimin e makinistëve ku kërkohet duplifikimi, duhet të ndalohet.
+7. Secila ndërmarrje hekurudhore dhe menaxher i infrastrukturës duhet të vendos procedurat e veta për lëshimin dhe freskimin e certifikatave në përputhje me këtë ligj, si pjesë e sistemit të menaxhimit të sigurisë e gjithashtu procedurat e ankimit që u lejon makinistëve të kërkojnë shqyrtim të vendimit në lidhje me lëshimin, freskimin, suspendimin dhe tërheqjen e certifikatës. Në rast të mosmarrëveshjes, palët mund të ankohen tek Organi Rregullativ i Tregut apo te çfarëdo organi tjetër i pavarur.
+8. Ndërmarrjet hekurudhore dhe menaxheri i infrastrukturës duhet të freskojnë pa vonesë certifikatën kurdo që pronari i certifikatës të ketë marrë autorizimet shtesë në lidhje me mjetet lëvizëse apo infrastrukturën.

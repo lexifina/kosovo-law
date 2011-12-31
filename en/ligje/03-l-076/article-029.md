@@ -1,3 +1,0 @@
-# Article 29
-Publication of Decisions of the Authority
-The Authority shall inform every Person directly affected by any decision of the Authority relating to the issuance or revocation of a License, Safety Certificate or Permit, a dispute concerning a Track Access Agreement or any other matter set out in article 28 and the reasons for that decision, in writing within fourteen (14) days of making such decision. Such information shall be published by the Authority regularly, at least every six (6) months, and maintained at the business premises of the Authority for a period of five (5) years during which time it shall be available for inspection by the public during the business hours of the Authority.

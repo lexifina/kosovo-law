@@ -1,0 +1,4 @@
+# Article 33
+Status of the body in charge of railway accident investigation
+1. A permanent accident investigation body functions based in a Sub-legal act based on principles laid down in the EU Directive 2004/49. This body in charge of railway accident investigation shall comprise at least one permanent investigator able to perform the functions of investigator-in-charge in the event of an accident.
+2. The body in charge of railway accident investigation shall be independent in its organization, legal structure and decision making from any infrastructure manager, railway undertaking, charging body, allocation body and notified body, and from any party whose interests could conflict with the tasks entrusted to the investigating body. It shall furthermore be functionally independent from the body in charge of railway safety and from any Railway Market Regulatory body

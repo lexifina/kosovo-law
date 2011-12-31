@@ -1,0 +1,5 @@
+# Neni 79
+Bashkëpunimi në alokimin e kapacitetit të infrastrukturës në më shumë se një rrjet
+1. Menaxherët e infrastrukturës së shfrytëzimit të përbashkët në Kosovë duhet të bashkëpunojnë me menaxherët e tjerë të infrastrukturës për të mundësuar krijim efektiv dhe alokim të kapacitetit të infrastrukturës që kalon në më shumë se sa një rrjet. Ata duhet të organizojnë trasetë ndërkombëtare të trenave veçmas brenda kornizës se hapësirës të Observatorit të Transportit të Evropës Juglindore (SEETO) përgjatë Rrjetit të Transportit Trans Evropian (TENT).
+2. Procedurat për krijimin e këtyre traseve ndërkombëtare të trenave duhet t’i shoqëroj përfaqësuesit e menaxherëve të infrastrukturës për të gjitha infrastrukturat hekurudhore, vendimet e alokimit të të cilave kanë ndikim në më shumë se një menaxher i infrastrukturës.
+3. Duke punuar në bashkëpunim për alokimin e kapaciteteve në më shumë se një rrjet, menaxherët e infrastrukturës mund të jenë në gjendje të para aranzhojnë trasetë e trenave ndërkombëtar që mund të u vihen në dispozicion aplikuesve përmes ndonjërit nga menaxherët pjesëmarrës të infrastrukturës .

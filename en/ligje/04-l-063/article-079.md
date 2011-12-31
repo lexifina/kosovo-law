@@ -1,0 +1,5 @@
+# Article 79
+Cooperation in the allocation of infrastructure capacity on more than one network
+1. Managers of railway infrastructure of common use in Kosovo shall cooperate with other infrastructure managers to enable the efficient creation and allocation of infrastructure capacity which crosses more than one network. They shall organize international train paths, especially within the framework of the Transport Community Agreement between the SEETO partners and along the Trans European Transport Network (TEN T network).
+2. The procedures to create these international train paths shall associate representatives of infrastructure managers for all railway infrastructures of common use whose allocation decisions have an impact on more than one other infrastructure manager.
+3. Working in cooperation to allocate infrastructure capacity on more than one network, the managers of railway infrastructure of common use may be able to prearrange international train paths that can be made available to applicants via any of the participating infrastructure managers.

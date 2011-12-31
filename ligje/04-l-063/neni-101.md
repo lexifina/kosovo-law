@@ -1,0 +1,14 @@
+# Neni 101
+Indikatorët e sigurisë, metodat dhe qëllimet
+1. Treguesit e përbashkët të sigurisë. Në mënyrë që të lehtësohet vlerësimi i arritjes së qëllimeve të përbashkëta të sigurisë të zhvilluara në BE (QPS) dhe të ofrohet monitorim i zhvillimit të përgjithshëm të sigurisë hekurudhore, Organi përgjegjës për sigurinë duhet të mbledh informacion për treguesit e përbashkët të sigurisë (TPS) nëpërmes të raportit vjetor. TPS-të duhet të vendosen ashtu siç është definuar nga BE-ja dhe të bëhet propozimi i përdorimit të tyre nga ministria.
+2. Metodat e përbashkëta të sigurisë:
+2.1. metodat e përbashkëta të sigurisë (MPS) të zhvilluara nga BE-ja dhe të publikuara në Gazetën Zyrtare të Bashkimit Evropian, duhet të konsiderohen si bazike për sigurinë hekurudhore në Kosovë dhe duhet të përdoren nga organi përgjegjës për sigurinë;
+2.2. MPS të zhvilluara në BE përshkruajnë se si niveli i sigurisë dhe arritja e qëllimeve të sigurisë dhe përputhjes me kërkesat e tjera të sigurisë janë vlerësuar duke elaboruar dhe definua:
+2.2.1. vlerësimin e rrezikut dhe metodat e vlerësimit;
+2.2.2. metodat për vlerësimin e përputhjes me kërkesat në certifikatat e sigurisë dhe autorizimet e sigurisë të lëshuara në përputhje me këtë ligj;
+2.2.3. përderisa ata akoma nuk janë të mbuluar me STI metodat për të kontrolluar se nënsistemet strukturale të sistemeve hekurudhore trans Evropiane të shpejtësisë së lartë dhe ato konvencionale të sistemeve hekurudhore operohen dhe mirëmbahen në përputhje me kërkesat relevante esenciale.
+2.3. MPS-të të zhvilluara nga BE-ja duhet të merren si bazë për sistemin e menaxhimit të sigurisë në Kosovë. Ato duhet të përshkruhen me aktin nënligjor në pajtim me Direktivën e BE- së 2004/49 dhe 2008/10, si dhe rregulloreve tjera të BE-së të zhvilluara nga Agjencia Hekurudhore Evropiane;
+2.4. Ministria duhet të bëj korrigjimet e domosdoshme të rregullave nacionale të sigurisë për sistemin hekurudhor të Kosovës në dritën e miratimit të MPS-ve të zhvilluara në BE dhe të përshkruara në aktit nënligjor të përmendur më sipër.
+3. Caqet e përbashkëta të sigurisë:
+3.1. caqet e përbashkëta të sigurisë (CPS) së bashku me vlerësimin e kostos së tyre dhe përfitimet, treguesi i ndikimeve të tyre për akterët e ekonomisë dhe për ndikimin e tyre në pranimin social të rrezikut duhet të konsiderohen si baza për sigurinë hekurudhore në Kosovë dhe duhet të propozohen si caqe në Kosovë nga organi i ngarkuar me sigurinë hekurudhore. Ato duhet të definojnë nivelet e sigurisë që duhet të paktën të arrihen nga pjesët e ndryshme të sistemit Evropian të hekurudhave dhe nga sistemi si tërësi;
+3.2. Ministria duhet të bëj përpjekjet maksimale për të futur amendamentet e domosdoshme në rregullat nacionale të sigurisë për të arritur Caqet e Përbashkëta të Sigurisë ashtu si janë definuar në nivel të BE-së. Këto CPS duhet të përshkruhen në aktin nënligjor në pajtim me Direktivën e BE-së 2004/49 dhe 2008/10.

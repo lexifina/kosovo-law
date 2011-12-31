@@ -1,0 +1,4 @@
+# Neni 33
+Statusi i organit për hetimin e aksidenteve
+1. Organi i përhershëm i hetimit të aksidenteve funksionon me anë të aktit nënligjor në pajtim me parimet e Direktivës e BE-së 2004/ 49. Ky organ hetues i aksidenteve hekurudhore duhet të përbëhet të paktën nga një hetues i përhershëm i aftë për të kryer funksionet e hetuesit të ngarkuar në rast të aksidentit.
+2. Organi për hetimin e aksidenteve hekurudhore duhet të jetë i pavarur në organizimin e vet, strukturën ligjore dhe marrjen e vendimeve nga cilido menaxher i infrastrukturës, ndërmarrje hekurudhore, organ për pagesat, organ për alokim dhe organet e njoftimit, si dhe nga cilado palë interesi e cila mund të jetë në konflikt me detyrat e besuara për organin hetues. Për më tepër duhet të jetë funksionalisht i pavarur nga Autoriteti Nacional i Sigurisë dhe nga Organi Rregullativ i Tregut Hekurudhor.

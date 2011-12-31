@@ -1,0 +1,3 @@
+# Article 41
+Kosovo railway infrastructure of common use
+Kosovo public railway network is composed of the existing and future Kosovo national railway lines and of the existing and future railway lines serving or able to serve terminals or any other locations providing railway services to more than one final user. This public railway network of Kosovo is called railway network of common use, and it has to be accessible under equal terms to every railway undertakings fulfilling the conditions for access. It may be publicly or privately owned. It excludes the private siding facilities, owned by a private owner and used only for its own freight services.

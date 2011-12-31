@@ -1,0 +1,15 @@
+# Article 109
+Authorization for placing in service structural subsystems in Kosovo
+1. For each railway subsystem, an authorization for placing into service shall be obtained by the infrastructure manager or the railway undertaking from the body in charge of railway interoperability.
+2. To get this authorization for placing in service of a subsystem, the applicant shall demonstrate that the subsystem is designed, constructed and installed in such a way as to meet the essential requirements when integrated into the rail system. In particular, the applicant shall demonstrate:
+2.1. the technical compatibility of the subsystem with the system into which they are being integrated;
+2.2. the safe integration of the subsystem into the railway system;
+2.3. the subsystem complies with the relevant TSIs provision on operation and maintenance
+3. A structural subsystem shall be considered as being interoperable and meeting the safety essential requirements if it is covered by a declaration of verification.
+4. The EC declaration of verification for a railway subsystem shall be considered in Kosovo as valid if compliant with Kosovo legislation.
+5. The task of the nationally accredited body responsible for the verification of a subsystem shall begin at the design stage and covers the entire manufacturing period through the acceptance stage before the subsystem is placed in service. It shall also cover verification of the interfaces of the subsystem in question with the system into which it is incorporated.
+6. The nationally accredited body shall be responsible for compiling the technical file that has to accompany the declaration of verification. This technical file shall contain all the necessary documents relating to the characteristics of the subsystem and, where appropriate all the documents certifying conformity of the interoperability constituents. It shall also contain all the elements relating to the condition and limits concerning servicing, constant or routine monitoring, adjustment and maintenance.
+7. In the event of renewal or upgrading of a subsystem, the contracting entity or the manufacturer shall send to the body in charge of railway safety a file describing the project. After examination, it will be decided whether the extent of works means a new authorization for placing in service.
+8. A register of the infrastructure shall be kept, updated and published This register shall indicate the main features of each subsystem or part subsystem involved and their correlation with the features laid down under the applicable TSIs. To that end, each TSI shall indicate what information must be included in the register of infrastructure.
+9. In Kosovo, the register of infrastructure shall be kept and updated by each infrastructure manager established in Kosovo under the responsibility of the Railway Regulatory Authority with the contribution of the body in charge of railway safety.
+10. A Sub-legal act prepared on the basis of the EU Directive 2004/49 shall describe the procedures, documents and tests to be presented to get such authorizations for placing into service railway structural subsystems in Kosovo.

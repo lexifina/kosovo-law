@@ -1,0 +1,9 @@
+# Neni 104
+Certifikatat dhe autorizimet e sigurisë 1. Secila ndërmarrje hekurudhore që mban licencën duhet të merr certifikatën e sigurisë para se t’i jepet e drejta për qasje në një infrastrukturë hekurudhore. Qëllimi i certifikatës së sigurisë është të ofroj dëshmi se ndërmarrja hekurudhore ka të vendosur sistemin e menaxhimit të sigurisë dhe mund të plotësoj kërkesat e paraqitura në STI-të dhe në legjislacionin relevant të BE-së si dhe në rregullat nacionale të sigurisë në ofrimin e shërbimeve të transportit të sigurt në rrjet.
+2. Secili menaxher i infrastrukturës së shfrytëzimit të përbashkët duhet të merr autorizimin e sigurisë. Autorizimi i sigurisë duhet të përmbajë:
+2.1. përshkrimin që konfirmon pranimin e sistemit të menaxhimit të infrastrukturës;
+2.2. përshkrimin që konfirmon pranimin e dispozitave të menaxherit të infrastrukturës për të plotësuar kërkesat specifike të domosdoshme për dizajn, mirëmbajtje dhe operim të sigurt të infrastrukturës hekurudhore duke përfshirë kur është e përshtatshme mirëmbajtjen dhe operimin e kontrollit të trafikut dhe sistemin e sinjalizimit.
+3. Secila ndërmarrje hekurudhore duhet të pajiset me certifikatë (pjesën a dhe pjesën b) para se t’i jepet qasja në infrastrukturën hekurudhore.
+4. Të gjithë akterët e tregut të cilët janë pajisur me certifikata të sigurisë, autorizimet e sigurisë duhet të monitorojnë nëse ata i plotësojnë kërkesat e certifikatave të tyre dhe të marrin veprime korrektuese nëse është e domosdoshme.
+5. Organi i ngarkuar me sigurinë hekurudhore duhet të jetë i lirë për të kryer inspektimet dhe hetime të cilat janë të nevojshme për t’i kryer detyrat e veta dhe duhet t’i jepet qasje në të gjitha dokumentet relevante dhe objektet, instalimet dhe pajisjet e menaxherëve të infrastrukturës dhe të ndërmarrjeve hekurudhore.
+6. Organi i ngarkuar për dhënien për dhënien e certifikatave të sigurisë dhe autorizimeve të sigurisë është organi i Sigurisë
