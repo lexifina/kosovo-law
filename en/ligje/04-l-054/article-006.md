@@ -1,0 +1,20 @@
+# Article 6
+Special benefits
+1. Categories treated in this Law, depending on the status and criteria determined in this Law, due to the sublime sacrifice and highest contributions in the liberation war of the KLA, are also beneficiaries of special benefits, which are:
+1.1. supplements for care and assistance from the other person is the right realized by the KLA invalid and invalid of the civilian war with the degree of disability over 80%;
+1.2. medical and physical rehabilitation is the right realized by all KLA disabled, on the degree of disability according to the priority;
+1.3. primary, secondary and tertiary health services, are rights realized without compensation in public health institutions by martyrs` families, families of missing of the KLA, KLA invalids, as well as by members of their close families;
+1.4. hospital health services abroad, are the right which realizes without compensation, all KLA invalids if the disease is in question which can not heal in our country;
+1.5. health services abroad, are the rights enjoyed by the civil war invalids due to the deterioration of health conditions, that is a consequence of the war and for which there is no healing in our country;
+1.6. professional rehabilitation is the right realized by the KLA invalid, civilian invalid of the war, who are partially able to work, including vocational training to perform the jobs for which is required professional preparation of higher level than the one they had, no matter if the employment is provided to them after the professional rehabilitation;
+1.7. the orthopedic compensation is a right to provide orthopedic means for KLA invalids and civilian invalids of war, who have a damaged organism due to wounding or amputation of extremities;
+1.8. priority in employment in the public and private sector, in accordance with the Law no. 03/L-19 for training, professional rehabilitation and employment of persons with disabilities, is the right realized by the KLA invalids.
+2. The release from tax and customs of special vehicles for personal use (a car in every five (5) years) as well as orthopedic equipments are the rights realized by the KLA invalids of group I to group VII according to the degree of disability determined in Article 10 of this Law.
+3. Free tariff and reduced consumption of electricity for personal use, is the right enjoyed by the close families of the martyrs and KLA invalids in case of difficult economic conditions, when it fulfills criteria set up in the scheme of social assistance.
+4. Release from the property tax is the right realized by the martyrs’ families, families of the missing of the KLA, KLA invalids, civil war disabled and the families of civilian victims of war who are in difficult economic conditions.
+5. Duplex experience is the right realized by the disabled as unemployed or employed for the time spent in the war.
+6. Residential care is the right realized by the martyrs families, of the KLA missing persons, KLA invalids who are in difficult economical conditions, civil war invalids and close families of civil war victims, for whom the Government of Kosovo will be engaged for the provision of family housing through construction of collective social housing;
+6.1. priority in the realization of the right to family housing will have martyrs` close families and those of missing persons, invalids who have not resolved the family housing.
+7. Priority in the registration and admission to public educational institutions is the right realized by the people that are members of martyrs` families, to the KLA missing persons, KLA invalids and their families.
+8. Release from administrative payment expenses in public university education is the right realized by members of martyrs` families, to the KLA missing persons, KLA invalids and their families.
+9. Funeral expenses, transportation and military honors, are expenses and mortal ceremonial acts which shall be compensated by the Ministry after the excimation procedures and identification of missing soldier of the KLA.
