@@ -1,0 +1,4 @@
+# Neni 9
+Mbajtja e procedurës nga nën-kolegji apo gjyqtari i vetëm
+1. Çdo kolegj i specializuar i Dhomës së Posaçme mund të lëshojë urdhër për t‟ia deleguar njërit prej anëtarëve të tij, apo një nën-kolegji që përbëhet nga dy anëtarë të tij, përgjegjësinë dhe autoritetin për të mbajtur një pjesë apo procedurën e plotë për një rast që është juridiksion i fushës së tij. Aktgjykimet dhe Aktvendimet e dhëna nga një gjyqtar i tillë i vetëm apo nën-kolegj i tillë do të konsiderohet të jetë lëshuar nga kolegji i plotë i specializuar në fjalë.
+2. Pala ka të drejtën e apelimit të Aktvendimeve apo Aktgjykimeve të një gjyqtari të vetëm apo nën-kolegji. Çdo apel i tillë bëhet drejtpërdrejt në kolegjin e apelit, në pajtim me dispozitat e paragrafit 6. të nenit 10 të këtij ligji, i cili rregullon parashtrimin e apeleve.
