@@ -1,0 +1,14 @@
+# Neni 10
+Limitet në zotime dhe shpenzime
+1. Asnjë organizatë buxhetore nuk mund të tejkalojë numrin e pozitave të punësimit, në asnjë kohë gjatë vitit fiskal 2012, të specifikuar në Tabelat 3.1., 3.1A. dhe 4.1. të bashkëngjitur në këtë ligj.
+2 Me kusht që numri i të punësuarve të caktuar për programin në Tabelën 3.1., 3.1A. apo 4.1. mund të përshtatet nga vendimi i qeverisë në rrethanat vijuese:
+2.1. numri i pozitave të punësimit i përcaktuar në Tabelën 4.1 për të gjitha komunat e reja të krijuara në vitet 2011 dhe 2012, mund të ndryshohet nga Kryetari i Komunës, me kusht që ai ndryshim të mos kalojë njëzet përqind (20%) të numrit total të pozitave të aprovuara nga Komuna në përputhje me Ligjin. Të gjitha ndryshimet në numrin e stafit duhet të aprovohen nga Kuvendi Komunal. Të gjitha këto ndryshime të aprovuara në lidhje me stafin i dorëzohen Ministrit që do të bëjë azhurnimin e tyre në Tabelën 4.1.
+3. Punonjësit e Organizatave Buxhetore të Institucioneve të Pavarura që kanë pagat e tyre jashtë sistemit të pagave të Shërbyesve Civil, nuk mund të shfrytëzojnë të drejtën për shuajta dhe rritjen prej tridhjetë përqind (30%) sipas vendimit të Qeverisë.
+4. Dështimi për të respektuar limitet në numrin e të punësuarve është shkelje e këtij ligji dhe e LMFPP- së.
+5. Shpenzimi i parave publike nga kategoria e shpenzimeve subvencione e transfere, është i kufizuar në rrethanat kur ka bazë ligjore të qartë sipas këtij ligji dhe ndonjë ligji tjetër për ato shpenzime.
+6. Shpenzimi i parave publike nga kategoria e shpenzimeve mallra e shërbime, nuk është i lejuar për pagesën e punonjësve, qoftë në formë të mëditjeve apo si kontribute në mall, përfshirë këtu shujtat apo dhuratat.
+7. Një organizatë buxhetore nuk duhet të shpallë ftesën për tender për një projekt kapital të aprovuar, të identifikuar në Tabelat 3.2 dhe 4.2, pas 31 tetorit 2012, për shpenzim potencial në vitin fiskal 2012, përveç nëse ato shpenzime janë planifikuar për atë projekt kapital për vitet 2012 apo 2013, në Tabelat 3.2. dhe 4.2.
+8. Shpenzimet që kanë të bëjnë me shpronësimin duhet të aprovohen nga Qeveria para se të bëhet shpenzimi i tyre.
+9. Në rast se një individ, zyrtar, person apo një entitet pranon ndonjë pagesë nga Fondi i Kosovës, si rrjedhim i gabimit, ngatërrimit apo lëshimit, ato fonde i kthehen Fondit të Kosovës në afat prej pesë (5) ditësh nga pranimi i njoftimit me shkrim nga Drejtori i Thesarit, me të cilin njoftohet pala pranuese që ajo pagesë është bërë gabimisht:
+9.1. në rastet kur një organizatë buxhetore vëren që është bërë një pagesë e padrejtë, ajo informon menjëherë Drejtorin e Thesarit dhe menjëherë jepet urdhri për kthim;
+9.2. në rastet kur është bërë një pagesë e padrejtë dhe nuk është bërë kthimi, Drejtori i Thesarit ka tërë autoritetin për të përdorur mjetet e nevojshme juridike.

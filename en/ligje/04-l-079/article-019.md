@@ -1,0 +1,3 @@
+# Article 19
+Reduction of funds allocated in necessary case
+In compliance with Article 36 of the Law on Managing the Public Finances and Accountability, in order to keep the necessary level of budgetary reserve to provide budgetary sustainability, the amount of sixty million (60.000.000) Euro, from budgetary appropriation for year 2012, shall be unallocated, till the realization of one-time income from the proclamation of the winner of PTK. The amount of sixty million (60.000.000) Euro shall be identified from budgetary appropriation presented in this budget, excluding the appropriations for the category of wages and salaries as well as appropriation for the project of Highway- Road 7.

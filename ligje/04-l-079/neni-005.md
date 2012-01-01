@@ -1,0 +1,4 @@
+# Neni 5
+Të hyrat vetanake të Organizatave buxhetore të nivelit qendror
+1. Të gjitha të hyrat vetanake për organizatat buxhetore të nivelit qendror duhet të depozitohen nga Organizatat buxhetore qendrore në Fondin e Kosovës dhe regjistrohen në SIMFK në pajtim me Rregullat financiare të Thesarit. Pavarësisht nga dispozitat e nenit 3 të këtij ligji dhe ndarjet buxhetore në tabelën 3.1., të hyrat vetanake të nivelit qendror janë të ndara vetëm në atë nivel ku të hyrat e tilla depozitohen në Fondin e Kosovës dhe regjistrohen në kohë në SIMFK.
+2. Në rastet kur gjatë vitit fiskal shumat e të hyrave vetanake të një organizate të nivelit qendror që janë depozituar në Fondin e Kosovës dhe regjistruar në SIMFK kalojnë shumat e të hyrave të ndara në Tabelën 3.1. të asaj organizate buxhetore, apo mbesin të pashpenzuara në fund të vitit fiskal, atëherë ato të hyra bëhen të hyra të përgjithshme.

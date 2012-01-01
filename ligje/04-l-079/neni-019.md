@@ -1,0 +1,3 @@
+# Neni 19
+Reduktimi i fondeve të alokuara në rast nevoje
+Në pajtim me nenin 36 të Ligjit për Menaxhimin e Financave Publike dhe Përgjegjësitë, më qëllim të ruajtjes së nivelit të mjaftueshëm të rezervës buxhetore për të siguruar qëndrueshmërinë buxhetore, shuma prej gjashtëdhjetë milion (60.000.000) Euro, nga ndarjet buxhetore për vitin 2012, do të mbetet e pa alokuar, deri në realizimin e të hyrave të njëhershme nga shpallja e fituesit të PTK-së. Shuma prej gjashtëdhjetë milion (60.000.000) Euro do të identifikohet nga ndarjet buxhetore të prezantuara në këtë buxhet, përjashtuar ndarjet për kategorinë e pagave dhe mëditjeve si dhe ndarjet për projektin e Autostradës - Rruga 7.

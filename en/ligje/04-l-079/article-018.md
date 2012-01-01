@@ -1,0 +1,3 @@
+# Article 18
+Funds for protection of emergency assistance for liquidity
+In compliance with the foresights specified in Table 1, including even the financing from International Financial Institutions (International Monetary Fund and World Bank), Minister of Finance based on Memorandum of Understanding signed with Central Bank of Kosovo, shall appropriate the amount of forty-six million (46.000.000) Euro from bank balance sheet of the Government as a reserve for protection of emergency assistance for liquidity of financial system. These funds may be used only in compliance with the Memorandum of Understanding for emergency Assistance for liquidity signed between the Governor of Central Bank, Minister of Finance and Chair of the Committee on Budget and Finance.
