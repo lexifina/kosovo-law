@@ -1,0 +1,5 @@
+# Article 17
+Annual Report
+1. The state aid provider, within two (2) months after the end of the calendar year, during which the state aid has been granted, shall submit to the Office an annual report on aid granted during that calendar year. The form of an annual report is set forth in the Annex 2 of the sub-legal act “On Notification Procedures and Form” issued by the Ministry of Finance.
+2. Where, after examination of the information contained in the annual report and any further information submitted by the state aid provider, the Office has doubts as to compatibility of the aid with the provisions of this Law, then it shall request from him to provide the missing information. The Office shall specify what information is required and request their submission by March 31st.
+3. State Aid Commission, each year, on June 30, submits to the Government of Kosovo and Assembly of Kosovo the state aids report of the previous year, containing information of decisions taken by the Commission, the overall amount of the aid granted, as well as distribution of the aid through state aid schemes and individual aids.
