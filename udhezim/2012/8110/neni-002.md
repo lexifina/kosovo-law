@@ -1,0 +1,11 @@
+# Neni 2
+Përkufizimet
+Për qëllim të këtij Udhëzimi Administrativ, shprehjet në vijim kanë këto kuptime:
+“Drejtuesi i Misionit Konsullor”- nënkupton personin përgjegjës, i cili është i autorizuar ta ushtrojë atë detyrë. Sipas rastit, drejtuesi i misionit konsullor mund të jetë konsulli i përgjithshëm, konsulli, nënkonsulli dhe drejtuesi i shërbimit konsullor, në përfaqësinë diplomatike të Republikës së Kosovës;
+“Fletaplikacioni”- është dokumenti shtojcë i këtij Udhëzimi Administrativ përmes të cilit kandidati ofron të dhëna për mbështetjen e kërkesës së tij/saj;
+“Kandidati”- është personi që ka paraqitur aplikimin për postin vakant për drejtues të misionit konsullor ose për pozitë tjetër në misionin konsullor;
+“Komisioni përzgjedhës”- është Komisioni i përbërë prej të paktën tre anëtarëve, që janë zyrtarë në pozita udhëheqëse brenda Ministrisë së Punëve të Jashtme, dhe që caktohen nga Ministri;
+“Ministri”- është Ministri i Punëve të Jashtme të Qeverisë së Republikës së Kosovës;
+“Ministria”- është Ministria e Punëve të Jashtme të Qeverisë së Republikës së Kosovës;
+“Paneli intervistues”- është paneli që përbëhet nga një përfaqësues i lartë dhe një zyrtar i lartë i një zyre përkatëse të Ministrisë, të caktuar nga Ministri; Sekretari i Përgjithshëm i Ministrisë; një ekspert i jashtëm i caktuar nga Ministri; dhe një përfaqësues i komunitetit jo- shumicë, i caktuar nga Ministri;
+“Sekretari i Përgjithshëm”- është Sekretari i Përgjithshëm i Ministrisë së Punëve të Jashtme.
