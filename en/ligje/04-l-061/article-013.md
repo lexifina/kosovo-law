@@ -1,0 +1,4 @@
+# Article 13
+1. Before signing a contract for the sale of the apartment, the seller is obliged to ask the Kosovo Property Agency, to verify whether a requirement to certain apartment in the Housing and Property Directorate established by UNMIK Regulation 1999 / 23 and 2000/60 or in Kosovo Property Agency, established by UNMIK regulation 2006/50 amended and supplemented by Law No.03/L-079.
+2. If the Kosovo Property Agency or her heir confirms that the apartment that is the subject of sale is submitted an application at the institutions from paragraph 1 of this Article, it is obliged to send the seller a certified copy of the decision of the Housing and Property Claims Commission respectively Kosovo Property Claims Commission and such decisions shall be applied by the seller.
+3. Apartments which are subject to conflict of tenure rights can not be sold until the final decision of the court or other competent Institution.

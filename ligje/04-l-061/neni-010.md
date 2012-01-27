@@ -1,0 +1,5 @@
+# Neni 10
+1.Banesat, për të cilat është vërtetuar se shitësi i tyre është i panjohur, të drejtën e shitjes e bartë komuna në territorin e së cilës ndodhet banesa.
+2.Në kuptim të këtij ligji, banesat me shitës të panjohur konsiderohen ato banesa në lidhje me të cilat bartësi i së drejtës së disponimit është personi juridik i cili nuk e ka regjistruar veprimtarinë, ose ka ndërprerë aktivitetet e tij dhe sukcesori i tij është i pa njohur, ose selia e tij nuk dihet dhe bartësi i të drejtës banesore nuk është në gjendje të bëjë kërkesë për blerjen e banesës brenda afatit të përcaktuar me paragrafin 3. të nenit 7 të këtij ligji.
+3.Në rastet nga paragrafi 1. i këtij neni, bartësi i së drejtës banesore, i parashtron kërkesë për blerjen e banesës organit të autorizuar të administratës komunale në territorin e së cilës gjendet banesa.
+4.Organi komunal i autorizuar, pas përfundimit të procedurës së caktuar, aprovon kërkesën për blerjen e banesës së bartësit të së drejtës banesore i cili i ka plotësuar kushtet e parapara me këtë ligj dhe nënshkruan kontratën brenda afatit të përcaktuar me nenin 7 të këtij ligji.

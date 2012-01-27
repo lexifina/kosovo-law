@@ -1,0 +1,5 @@
+# Article 10
+1. The apartments, which have been proved that their vendor is unknown, the right to sell is borne to municipalities whose territory is the apartment.
+2. In terms of this Law, apartments of unknown vendor are considered such apartments whose holder of the tenure right is a legal entity who has not registered activity, or has ceased its activities and its successor is unknown, or its headquarter is not known and tenure rights holder is not able to apply for purchasing an apartment within the time specified in paragraph 3 of Article 7 of this Law.
+3. In cases under paragraph 1 of this Article, the holder of tenure rights, submits a request to buy the apartment to authorized body of the municipal administration in the territory of which the apartment is located.
+4. The local municipal authority, after completion of the determined procedure, shall approve the application for purchase of apartment of tenure right holder who has fulfilled the conditions under this Law and signs a contract within the time specified in Article 7 of the Law.
