@@ -1,0 +1,5 @@
+# Article 46
+Temporary stay for family unification purpose
+1. The application for issuing permit for temporary stay for family reunion purpose shall be entitled to submit the foreigner – close member of the family of the citizen of the Republic of Kosovo, the foreigner to whom is issued the temporary or permanent stay permit or the foreigner who has the status of asylum seeker.
+2. Close family members, in terms of provisions of this law, shall be considered spouses, minor children who have not created their families as well as parents of minor children. Close family member may be considered also the other relative, adopted or the adopter, if there exist particular personal or humanitarian causes for family unification in the Republic of Kosovo.
+3.On the case of submission of application for temporary stay according to this law, conditions provided in Article 41 of this Law shall be fulfilled as well as by the family member with stay in the Republic of Kosovo. Based on the temporary stay according to this law, the foreigner may work in the Republic of Kosovo on base of conditions provided in article 43 of this law.

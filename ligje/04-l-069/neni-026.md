@@ -1,0 +1,8 @@
+# Neni 26
+Obligimet e transportuesve
+1. Transportuesi mund ta sjell të huajin në pikën e kalimit kufitar nëse i plotëson kushtet për hyrje në Republikën e Kosovës.
+2. Nëse të huajit i është refuzuar hyrja në Republikën e Kosovës, transportuesi që e ka sjellë atë në kufi, duhet që me kërkesën e organit për kontrollin e kufirit, t’a kthejë të huajin në shtetin nga i cili ka hyrë, në shtetin ku dokumenti i të huajit është lëshuar, apo në ndonjë shtet tjetër që është i gatshëm ta pranojë atë.
+3. Nëse transportuesi nuk mund ta kthej të huajin nga Republika e Kosovës në pajtim me paragrafin 2. të këtij neni, duhet që menjëherë dhe me shpenzime e tij të siguroj transportues tjetër.
+4. Transportuesi i cili e ka sjellë të huajin në kufirin shtetëror apo në territorin e Republikës së Kosovës, në kundërshtim me paragrafin 1. të këtij neni, duhet të paguaj shpenzimet e akomodimit dhe kthimit prapa të të huajit.
+5. Detyrimet që rrjedhin nga ky nen duhet të zbatohen edhe ndaj transportuesit që bart të huajin në kufirin shtetëror ose brenda territorit të Republikës së Kosovës, i cili është duke kaluar transit ose të cilit i është refuzuar transporti i mëtutjeshëm nga transportuesi tjetër ose të cilit i është refuzuar hyrja në shtetin e destinacionit dhe është kthyer në Republikën e Kosovës.
+6. Organizatori i udhëtimeve turistike apo atyre të punës në Republikën e Kosovës, është i obliguar që për të huajt të cilëve i është ofruar shërbimi përkatës, t’i mbulojë shpenzimet e largimit nga Republika e Kosovës, nëse të huajit i është ndaluar hyrja apo huaji largohet me dhunë nga Republika e Kosovës dhe nëse këto shpenzime i huaji nuk mund t’i mbulojë vetë.
