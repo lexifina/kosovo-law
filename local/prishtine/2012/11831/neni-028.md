@@ -1,0 +1,2 @@
+# Neni 28
+(1) Për pranimin e udhëtarëve të tjerë gjatë transportit deri te vendi i përcaktuar, vendos udhëtari, i cili ka filluar shfrytëzimin e transportit taksi me pëlqimin e drejtuesit të automjetit taksi. (2) Nëse udhëtari i cili është pranuar gjatë udhëtimit, vazhdon shfrytëzimin e transportit taksi edhe pas vendit të përcaktuar të udhëtarit, i cili ka filluar shfrytëzimin e transportit taksi, vazhdimi i udhëtimit deri në distancën 100 m nuk konsiderohet si fillim i shfrytëzimit të transportit taksi.

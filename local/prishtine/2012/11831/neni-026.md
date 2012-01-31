@@ -1,0 +1,4 @@
+# Neni 26
+(1) Kompensimi për kryerjen e transportit taksi të udhëtarëve përcaktohet me çmimore të shërbimeve dhe paguhet në shumën që tregon taksimetri në vendin e arritjes së udhëtarit. (2) Në shumën e kompensimit për kryerjen e transportit taksi të udhëtarit është llogaritur edhe transporti i bagazhit. Drejtuesi i automjetit taksi është i obliguar të japë faturën për shërbimin e kryer. (3) Propozimin e çmimores nga paragrafi 1 i këtij neni, e përcakton drejtoria kompetente për çështjet e biznesit, në konsultim me Shoqatën e transportuesve taksi të udhëtarëve, kurse vendimin e merr Këshilli i drejtorëve. Çmimorja duhet të jetë e vendosur në vend të dukshëm brenda automjetit. (4) Çmimi i transportit në relacionet më të gjata se 25 km, mund të kontraktohet me marrëveshje të lirë, para fillimit të transportit, pa aktivizimin e taksimetrit.
+Faqe 8 nga 9
+Adresa: Rr. UÇK- 2-10.000 Prishtinë-Kosovë Telefon: + 381(0)38/230-900 http://www.prishtina-komuna.org
