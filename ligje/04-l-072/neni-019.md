@@ -1,0 +1,5 @@
+# Neni 19
+Mënyra e kryerjes së kontrollit kufitar në trafik rrugor
+1.Gjatë kryerjes së kontrollit kufitar në trafik rrugor personat të cilët e kalojnë kufirin shtetëror me automjet, sipas rregullit, qëndrojnë në automjet deri sa të kryhet kontrolli.
+2.Me përjashtim nga paragrafi 1. i këtij neni, nëse këtë e kërkojnë, rrethanat mund te kërkohet nga personat që të dalin nga automjeti dhe t'i tregojnë gjësendet të cilat i kanë më vete ose në mjetin transportues dhe të kryhet kontrolli i tyre, me qëllim të gjetjes së gjësendeve të ndaluara.
+3.Zyrtarët policor kufitar janë të autorizuar të kryejnë kontroll të mjetit transportues, duke e përfshirë edhe çmontimin e pjesëve të tij të veçanta pa urdhër gjyqësor, nëse ekzistojnë baza për dyshim se personi i cili e drejton mjetin transportues bart lëndë të ndaluara, si edhe gjësende dhe dokumente të cilat ndihmojnë në përcaktimin e identitetit të tij ose identitetit te udhëtareve të tjerë në mjetin transportues, si dhe për shkak të pengimit të kalimit joligjor të kufirit shtetëror.

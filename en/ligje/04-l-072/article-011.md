@@ -1,0 +1,4 @@
+# Article 11
+Facilitation of performing the border control
+1.A person who intends to cross the state border or has already crossed the border line, is obliged to provide valid travel document or other document designated for crossing the state border, to enable performing border control and must not leave the area of the border crossing point until all necessary formalities are completed, including vehicle inspections and transportation means, owned by the person who crosses the border.
+2.The person from paragraph 1 of this Article is obliged that at the request of the border police officer who carries out border control to provide information for all circumstances regarding the fulfillment of the conditions for crossing state border and act according to the instructions and orders of the border police officer.

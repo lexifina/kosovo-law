@@ -1,0 +1,4 @@
+# Neni 14
+Kontrolli kufitar minimal
+1.Kontrolli kufitar minimal realizohet për të gjithë personat të cilët e kalojnë kufirin shtetëror me qëllim që të kontrollohet dhe përcaktohet identiteti i tyre në bazë të dokumentit të udhëtimit ose dokumentit tjetër të përcaktuar për kalimin e kufirit shtetëror.
+2.Kontrolli kufitar minimal nga paragrafi 1. i këtij neni përbehet nga kontrolli i shpejtë dhe i rëndomte me ndihmën e aparateve teknike përkatëse dhe kontrolli në evidencat përkatëse dhe në bazat elektronike të dhënave. Ky kontroll kryhet me qëllim te vërtetimit nëse dokumenti i udhëtimit, përkatësisht dokumenti tjetër i përcaktuar për kalimin e kufirit shtetëror është i vjedhur, i keqpërdorur, i humbur ose i pavlefshëm si dhe verifikimit te vlefshmërisë se tij dhe të kontrollohet prania e shenjave të cilat dëshmojnë keqpërdorimin, falsifikimin ose ndryshimin e dokumentit.

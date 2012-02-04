@@ -1,0 +1,3 @@
+# Neni 62
+1.Me gjobë prej tremijë (3.000) deri pesëmijë (5.000) Euro, do t'i shqiptohet dënimi për kundërvajtje personit fizik dhe personit juridik i cili me fajin e tij me kërkesë të stacionit policor kompetent për kontrollin kufitar deri në fund të paraqitjes së udhëtareve nuk dorëzojnë informata të cilat kanë të bëjnë me udhëtaret të cilët i bartin deri te pika e përcaktuar e kalimit kufitar nëpërmjet së cilës ata do të hyjnë në territorin e Republikës së Kosovës, ose dorëzojnë të dhëna të pakompletuara ose të rrejshme (neni 24 i këtij ligji).
+2.Me gjobë prej tremijë (3.000) deri pesëmijë (5.000) Euro do t'i shqiptohet dënimi personit përgjegjës në personin juridik për veprimet nga paragrafi 1. i këtij neni.

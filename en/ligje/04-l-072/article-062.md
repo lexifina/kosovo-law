@@ -1,0 +1,3 @@
+# Article 62
+1.With a fine of three thousand (3 000) to five thousand (5 000) Euro will be imposed the penalty for offense to the physical person and legal person who with his fault with the request of the responsible police station for border control by the end of the presentation of passengers does not submit information relating to passengers who are carried to the determined border point, through which they will enter in the territory of the Republic of Kosovo, or submit incomplete or false data (Article 24 of this Law).
+2.With a fine of three thousand (3 000) to five thousand (5 000) Euro will be imposed the penalty to the responsible person on the legal person for the actions in paragraph 1 of this Article.

@@ -1,0 +1,4 @@
+# Neni 11
+Mundësimi i kryerjes së kontrollit kufitar
+1.Personi i cili ka për qëllim që ta kalojë kufirin shtetëror ose veç e ka kaluar kufirin shtetëror, detyrohet që të paraqes dokument të vlefshëm udhëtimi ose dokument tjetër të përcaktuar për kalimin e kufirit shtetëror, të mundësoj të kryhet kontrolli kufitar dhe nuk mund ta lëshoje zonën e pikës se kalimit kufitar deri sa nuk kryhen procedurat e nevojshme, duke i përfshirë edhe kontrollin e mjeteve transportuese dhe gjësendeve që i posedon personi i cili e kalon kufirin.
+2.Personi nga paragrafi 1. i këtij neni detyrohet që me kërkese të zyrtarit policor kufitar i cili kryen kontrollin kufitar ta informoj për të gjitha rrethanat në lidhje me plotësimin e kushteve për kalimin e kufirit shtetëror dhe të veprojë sipas udhëzimeve dhe urdhrave te zyrtarit policor kufitar.

@@ -1,0 +1,7 @@
+# Article 18
+Entry of members of foreign security bodies in the Republic of Kosovo
+1.In the Republic of Kosovo can enter members of foreign security bodies with uniform with firearms, equipment and vehicle that are marked with their signs in accordance with international agreement.
+2.Cases of paragraph 1 of this Article are not related to the entry, residence or transfer of foreign armed forces in the territory of the Republic of Kosovo for acting activities, training and participation in peacekeeping and humanitarian operations in accordance with the legislation in force.
+3.Members of foreign security bodies and military who with the invitation of the state institutions are on an official visit, as members of delegation can enter on the Republic of Kosovo even without a special permission, to wear a uniform and short firearm, whether it is an integral part of their uniform, with written notice, preliminary to the Ministry.
+4.Members of foreign security bodies who directly provide close protection to the representative of the foreign country and organization or international institution during the official visit or lawful stay in the Republic of Kosovo may possess and carry firearms, ammunition and equipment on the basis of a written permit issued by the Ministry.
+5.In the case of transit through the territory of Kosovo of members of foreign security authority, for the transfer of arms, ammunition and equipment is needed permission from paragraph 4 of this Article.

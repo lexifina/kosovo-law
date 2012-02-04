@@ -1,0 +1,7 @@
+# Neni 18
+Hyrja e pjesëtareve të organeve të huaja të sigurisë në Republikën e Kosovës
+1.Në Republikën e Kosovës mund të hyjnë pjesëtare të organeve të huaja të sigurisë me uniformë, me armë zjarri, pajisje dhe me automjet që është shënuar me shenja të tyre në pajtim me marrëveshje ndërkombëtare.
+2.Rastet nga paragrafi 1. i këtij neni nuk kanë të bëjnë me hyrjen, qëndrimin ose kalimin e forcave të huaja të armatosura në territorin e Republikës së Kosovës për aktivitete ushtruese, trajnim dhe pjesëmarrje në operacione paqeruajtëse dhe humanitare në pajtim me legjislacionin ne fuqi.
+3.Pjesëtarët e organeve të huaja të sigurisë dhe ushtarake të cilët me ftesë të institucioneve shtetërore janë në vizitë zyrtare si anëtare të delegacionit mund të hyjnë në Republikën e Kosovës edhe pa leje të veçantë, të mbajnë uniforma dhe armë zjarri të shkurtër, nëse ajo është pjese përbërëse e uniformes së tyre, me njoftim me shkrim paraprakisht në Ministri.
+4.Pjesëtarët e organeve të huaja të sigurisë të cilët drejtpërdrejt e sigurojnë përfaqësuesin e shtetit të huaj dhe organizatës ose institucionit ndërkombëtar gjatë vizitës zyrtare ose qëndrimit të ligjshëm në Republikën e Kosovës, mund të mbajnë armë zjarri, municion dhe pajisje në bazë të lejes me shkrim të lëshuar nga Ministria.
+5. Në rast te kalimit transit nëpër territorin e Republikës së Kosovës të pjesëtareve të organeve të huaja të sigurisë, për bartjen e armëve, municionit dhe pajisjes nevojitet leja nga paragrafi 4. i këtij neni.
