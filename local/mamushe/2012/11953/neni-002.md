@@ -1,0 +1,7 @@
+# Neni 2
+Subjektet që zhvillojnë veprimtari afariste në Komunën e Mamushës gjatë ditëve të punës prej të Hënës deri të Premten, do të kenë këtë orar të punës:
+1. Restorantet, kafenetë dhe kafiteritë.……………………….. 06ºº-23ºº 2. Kuzhinat popullore,qebaptoret,ëmbëltoret e çajtoret ......... 07ºº-23ºº 3. Shitoret me gjëra ushqimore…………………………….... 08ºº-23ºº 4. Zejtarët, tregtia me gjëra joushqimore………….………. 08ºº-21ºº 5. Furrat e bukës non stop (jo obligative), por mund të punojnë 05ºº- 22ºº 6. Ambulancat dhe barnatoret e sektorit privat……………... 07ºº-21ºº 7. Veprimtaritë rekreative,sportive dhe kulturore ………….. 08ºº-22ºº 8. Veprimtaritë prodhuese (nëse nuk i pengojnë qytetarët).... non-stop
+9. Pompat e benzinës…………………………….…….......... non-stop 10. Hotelet dhe motelet…………………………………. ........ non-stop 11. Disko klubet (të premten dhe të shtunën) punojnë prej orës 20ºº-6ºº
+kurse ditëve tjera prej orë 19ºº- 23ºº.
+12. Internet kafetë do të punojnë non-stop 24 orë.
+Përveç veprimtarive hoteliere, barnatoreve, salloneve të frizerëve dhe kiosqeve që shesin vetëm shtypin ditor, e Diela është ditë pushimi. Orarin e kujdestarisë për shitoret e gjërave ushqimore, që do të punojnë të dielave dhe gjatë festave, do ta bëjë Drejtoria për Buxhet dhe Financa, në bazë të datave të licencimit komunal të Biznesit. Kujdestarinë do ta mbajnë një shitore në Mamushë. Përjashtimisht, në raste të veçanta (dasma, ahengje, matura, ditëlindje, dasma- syneti, përvjetorë etj) mund të lejohet zgjatja e orarit të punës me leje të posaçme, lëshuar nga DBF.

@@ -1,0 +1,2 @@
+# Neni 7
+Të gjitha subjektet, të cilat nuk respektojnë orarin e punës, të fillimit dhe të mbarimit, paraqitur në këtë rregullore, pas konstatimit nga ana e inspekcioni, do të dënohen në shumë prej 100 €. Dënimi është mandator dhe shqiptohet nga inspektori kompetent. Ndaj të gjitha subjekteve afariste që kundërshtojnë nenet e parapara të kësaj Rregulloreje, do të ushtrohet fletëparaqitje në Gjykatën për Kundërvajtje, ku parashihet gjoba në vlerë prej 300-1.500€.
