@@ -1,0 +1,7 @@
+# Neni 30
+Zgjidhja e kontesteve lidhur me pensionet plotësuese të punësimit
+30.1. Çdo ankesë nga pjesëmarrësi ose përfituesi lidhur me një benificion të premtuar nga fondi pensional së pari duhet t’i dërgohet me shkrim bordit të drejtorëve të fondit pensonal. Bordi i drejtorëve të fondit pensional duhet t’i marrë në shqyrtim këto ankesa brenda nëntëdhjetë (90) ditësh pas marrjes së tyre dhe duhet të informojë me shkrim pjesëmarrësin ose përfituesin për vendimin e marrë dhe bazat mbi të cilat është mbështetur ai vendim. Pjesëmarrësit, përfituesit a përfaqësuesit të tyre duhet t’u lejohet që të jenë të pranishëm çdo herë kur bordi i drejtorëve e shqyrton çështjen e personit në fjalë.
+30.2. Pjesëmarrësi ose përfituesi mund të kërkojë zgjidhjen e kontestit në një gjykatë kompetente ligjore pas marrjes së vendimit me shkrim nga bordi i drejtorëve ose pas kalimit të nëntëdhjetë (90) ditëve pas parashtrimit të ankesës me shkrim, cilado që të jetë më e hershme.
+30.3. Në rastet kur pjesëmarrësit ose përfituesit ngrejnë padi për beneficionet e tyre dhe gjykata konstaton se fondi pensional është përgjegjës për ato beneficione, gjykata duhet t’i caktojë zhdëmtim pjesëmarrësit ose përfituesit aktual:
+(a). shumën e benificioneve të papaguara për të cilat është i obliguar fondi pensional dhe kamata nga data kur është dashur të bëhet pagesa deri në ditën e pagesës;
+(b). shpenzimet për paraqitjen e padisë apo hedhjen në gjygj për kompensimin e dëmeve.

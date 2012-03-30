@@ -1,0 +1,5 @@
+# Article 17
+Custody of Supplementary Employer Pensions Funds
+17.1. A Pension Fund shall by resolution of its Board of Directors select a Custodian for Pension Assets under investment by an Asset Manager. With respect to assets invested through an Open- end Vehicle, the Pension Fund Board must review the adequacy of custody arrangements and determine that they are appropriate for safeguarding Pension Assets.
+17.2. The custody of Pension Assets and the Custodian of Pension Assets must meet all the requirements for custody of Pension Asserts of Savings Pensions set forth in this Law, with the exception of the requirement for conducting a tender for the selection of a Custodian. Pension Assets must be held in separate accounts segregated from the assets of the employer, the assets of the Custodian, the assets of the Kosovo Pensions Savings Trust, and any other assets. The CBK shall issue additional regulations with respect to Custodians, including the procedure for obtaining a license for Custody.
+17.3. The Custodian shall not be liable to the Participants or Beneficiaries for the obligations of the Pension Fund or the Employer.

@@ -1,0 +1,25 @@
+# Neni 5
+Autorizimet dhe Përgjegjësitë e Fondit të Kursimeve Pensionale të Kosovës
+5.1. Fondi ka kompetencat dhe të drejtat e administruesit të besuar mbifondet pensionale.
+5.2. Të drejtat e Fondit lidhur me mjetet pensionale përfshijnë, por nuk kufizohen vetëm në:
+(a). udhëheqjen e tenderit për përzgjedhjen e menaxhuesit(ëve) të mjeteve dhe mbajtësit të mjeteve ose instrumenteve për investime të hapura në pajtim me këtë Ligj;
+(b). zbatimin e marrëveshjeve me menaxhuesin(it) e mjeteve, mbajtësit, instrumentet për investime të hapura, llogaritarët, revizorët, avokatët dhe kryerësit tjerë të shërbimeve të Fondit;
+(c). kërkimin dhe pranimin e informacionit nga drejtorët e mjeteve, instrumentet për investime të hapura, mbajtësit e mjeteve dhe kryerësit e tjerë të shërbimeve për të gjitha transaksionet në emër të Fondit, duke përfshirë edhe votimin e aksioneve që i mban Fondi;
+(d). miratimin e parimeve tëinvestimevepër Fondit;
+(e). shkarkimin dhe zëvendësimin e drejtorit të mjeteve, instrumenteve për investime të hapura, mbajtësve të mjeteve dhe kryerësve të tjerë të shërbimeve të Fondit;
+(f). pagimin e fitimeve të llogarive individuale për pensionet e kurysera siguruesve të anuiteteve me qëllim të blerjes së pensioneve për pjesëmarrësit dhe përfituesit në përputhje me këtë ligj;
+(g). lidhjen e marrëveshjeve për blerjen, shitjen, dhënien ose marrjen me qira të patundshmërive apo pajisjeve të nevojshme për funksionimin e Fondit;
+(h). punësimin e personelit ekzekutiv dhe joekzekutiv të Fondit;
+(i). lidhjen e marrëveshjeve të sigurimeve, duke përfshirë edhe sigurimin fiduciar për kompensim për këshillin drejtues, me kompanitë e sigurimeve të licencuara në Kosovë ose në shtetet anëtare të Organizatës për Bashkëpunim dhe Zhvillim Ekonomik;
+(j). përgatitjen e buxhetit të cilin e miraton Bordi i Drejtorëve;
+(k). caktimin e tarifave të arsyeshme të bazuara në shpenzime të çdo pjesëmarrësi për administrimin e Logarive Individuale miratuar nga Kuvendi ne baza vjetore Taksat e tilla nuk duhet të tejkalojnë 0.30% nëvit, pro-vlerësuar gjatë vitit në varësi të frekuencës në llogaritjen e çmimit të njësisë, dhe do të zbatohetvetëm për mjetet pensionale të investuara; dhe
+(l). rimbursimit të të gjitha shpenzimeve të tjera aktuale në lidhje me investimin e mjeteve pensionale, duke përfshirë por pa u kufizuar në: ngarkimet e transferimit, tarifat e menaxhimit të mjeteve dhe tarifat e performancës nga fondet e Pjesëmarrësit;
+5.3. Nga Fondi kërkohet që informacionin e mëposhtëm t’ia paraqesë Kuvendit, BQK-së dhe një kopje Qeverisë, përveç nënparagrafit (e) për të cilin raportohet në BQK.
+(a) raportet e audituaratë llogarive vjetore të pasurive dhe detyrimeve, të ardhurat dhe shpenzimet që i ka audituarfirma e pavarur e kontabilitetit të miratuar nga BQK-ja dhe i ka nënshkruar kontabilisti i certifikuar publik në përputhje me standardet e kontabilitetit ndërkombëtar apo me standardet tjera të miratuar nga BQK-ja në pajtim me ligjin në fuqi. BQK-ja mund t’i drejtojë pyetje shtesë auditoritapo ofruesve të tjerë të shërbimeve profesionale.
+(b) raportet tremujore, duke përfshirë hollësitë për shitjen dhe fitimin e mjeteve pensionale së bashku me identitetin e mjeteve, datën e transaksionit, çmimin me të cilin është bërë transaksioni dhe ndërmjetësi i cili është shfrytëzuar;
+(c) raportet vjetore për vlerën dhe proporcionin e mjeteve pensionale të cilat janë investuar në klasa të veçanta të mjeteve, duke përfshirë hollësitë e dhënësve të letrave të veçanta me vlerë nga data e vlerësimit të fundit të muajit të fundit të çdo periudhe vjetore:
+(d) raportet vjetore për të gjitha tarifat, si p.sh. pagesat e mbajtjes dhe pagesat tjera për shërbimet dhe transaksionet financiare;
+(e) pas emërimit, deklarata mbi të ardhurat personale dhe të pasurisë të anëtarëve të emëruar në bordin drejtues dhe deklarata të mëvonshme vjetore ku tregohen vetëm ndryshimet materiale; dhe
+(f) (f). çështje të tjera të cilat mund të caktohen përmes rregulloreve që duhet të nxirren nga BQK-ja.
+5.4. Informacioni i parashtruar në nenin 5.3 të këtij ligji dorëzohet mbi një bazë të përcaktuar tremujore ose vjetore ose në intervale të tilla më të shkurtëra që mund të saktësohen me rregulloret që i nxjerr BQK-ja. BQK-ja e cakton periudhën përkatëse brenda së cilës duhet të dorëzohet informacioni i tillë dhe cakton afatin në të cilin informacioni i tillë duhet të dorëzohet në fund të periudhës tremujore ose vjetore. BQK-ja nxjerr gjithashtu rregullore me të cilat saktësohet se çfarë informatash tjera mund të kërkohen dhe forma me të cilin do të sigurohet çfarëdo informacioni. BQK-ja mund të caktojë Auditorë të pavarur apo ofrues të tjerë të shërbimeve profesionale për të kryer anketa, vlerësime aktuariale apo kontrollim të llogarive, librave, dokumenteve dhe shënimeve të tjera të Fondit të Kursimeve Pensionale Të Kosovës.
+5.5. Informatat të cilat Fondi ia siguron BQK-së në përputhje me këtë ligj, përveç deklaratve mbi pasurinë, të dorëzuara në pajtim me paragrafin 5.3 (e) lartë, Fondi duhet t’i publikojë më së voni dymbëdhjetë (12) muaj pas dorëzimit të tyre. Fondi e organizon publikimin e këtyre informatave.

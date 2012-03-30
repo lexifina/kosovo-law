@@ -1,0 +1,13 @@
+## CHAPTER VI
+## FIDUCIARY BREACHES AND RESOLUTION OF DISPUTES
+# Article25
+Fiduciary Breaches
+25.1. A natural person or legal entity is a Fiduciary with responsibility to Participants and Beneficiaries pursuant to this Law to the extent that he or she:
+(a).exercises any discretionary authority or control with respect to the management of the Kosovo Pensions Savings Trust, a Supplementary Employer Pension Fund, a Pensions provider providing Supplementary Individual Pensions, or exercises any discretionary authority or control with respect to the management or disposition of the Pension Assets under the control or in the possession of any of these entities;
+(b).exercises any discretionary authority or control with respect to the preparation, calculation or issuance of a Pension Fund’s Actuarial Valuation, if a Defined Benefit Pension Fund;
+(c).provides any investment advice to the Kosovo Pensions Savings Trust, a Supplementary Employer Pension Fund, or a Pensions provider providing Individual Supplementary Pensions or has the responsibility to do so, without regard to whether such advice is actually provided and without regard to whether a fee was charged; and
+(d).has discretionary authority or control or responsibility in the transaction processing, record keeping, or maintenance of records for Participants or other administration of the Kosovo Pensions Savings Trust, a Supplementary Employer Pension Fund or a Pensions provider providing Supplementary Individual Pensions.
+25.2. A Fiduciary must perform his or her duties with the prudence, skill, and expertise of a person reasonably familiar with such financial and other matters; in the event that he or she lacks such expertise, he or she must obtain expert services.
+25.3. A Fiduciary shall be liable for the breach of a co-fiduciary if he or she knew or should have known of the breach. The legal entity employing a natural person committing a Fiduciary breach shall be absolutely liable for the breach.
+25.4. A Fiduciary’s liability for breach may be determined by a civil or criminal action according to this or other applicable law. Any Fiduciary breach in violation of this Law shall be a civil liability of the natural person or legal entity or both responsible for the breach.
+25.5. It shall be a Fiduciary breach for any Fiduciary to deal with Pension Assets for his or her own account or for his or her own benefit, or for the benefit of his or her own Affiliated Entities. It shall be a Fiduciary breach for any Fiduciary to enter into transactions with respect to Pension Assets where the other entity is and Affiliated Entity of the Fiduciary.

@@ -1,0 +1,6 @@
+# Neni 36
+Dispozitat lidhur me pensionet plotësuese të punëdhënësit dhe pensionet plotësuese individuale
+36.1. Të gjithë punëdhënësit që sigurojnë pensione plotësuese të punëdhënësit dhe të gjithë siguruesit e pensioneve që sigurojnë pensione plotësuese individuale i kanë katër (4) muaj në dispozicion nga dita e miratimit të këtij ligji për t’i harmonizuar kërkesat e tyre me këtë ligj.
+36.2. Nuk mund të bëhen kurrfarë kontributesh të reja pensionale dhe se punëdhënësit e siguruesit e pensioneve nuk mund të japin kurrfarë të drejtash apo premtimesh pas datës së hyrjes në fuqi të këtij ligji derisa pensioni plotësues i punësimit ose pensioni individual plotësues të mos jetë përshtatur me këtë ligj.
+36.3. BQK-ja duhet të nxjerrë rregullore lidhur me procedurat që nevojiten për prezantimin e planeve për respektimin dhe paraqitjen e kërkesave të licencimit sipas këti ligji dhe për të përcaktuar të drejtat e fituara të punonjësve, të pjesmarrësve dhe shfrytëzuesve përkitazi me premtimet ekzistuese për pension.
+36.4 Përfundimi i pensionit plotësues të punëdhënësit nga një punëdhënës që nuk është në pajtim me këtë ligj do të paraqesë shkelje fiduciare të punëdhënësit sipas këtij ligji. Kurrfarë mjetesh plotësuese pensionale të punëdhënësit nuk mund t’iu bartën punëdhënësve të tjerë në rast të likuidimit konform këtij neni.

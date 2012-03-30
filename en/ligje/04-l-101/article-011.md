@@ -1,0 +1,8 @@
+# Article 11
+Open-end Vehicle Investment by the Kosovo Pensions Savings Trust
+11.1. The Governing Board of the Trust may determine in the exercise of its fiduciary duty that the optimal investment for some or all Pension Assets of the Trust is an Open-end Vehicle.
+11.2. The Trust shall select one or more Open-end Vehicles by competitive international bid. The terms and procedure for conducting the bid, including pre-qualification requirements for the Open- end Vehicle, and any other requirements shall be established in conformity with this Law.
+11.3. Open-end Vehicles used for Trust investments must be licensed by a financial market authority of an OECD country where they are located, or by the financial market authority in Kosovo. The CBK may also promulgate Regulations applicable specifically to investments in Open-end Vehicles.
+11.4. The Governing Board of the Trust must review the custodial arrangements of Open-end Vehicles used for Trust investments and determine that they are appropriate for safeguarding Trust Pension Assets. The Custodial requirements of Article 8 of this law are not applicable to Pension Assets placed in Open-end Vehicles.
+11.5. The Trust may execute the standard subscription document of the Open-end Vehicle, which must specify the remuneration of the Open-end Vehicle and the manner of calculating the costs and charges as a percentage of the total amount of Pension Assets placed in such vehicle.
+11.6. The limitations on investment in a single issuer set forth in Articles 9.8 and 9.9 of this law shall not apply to investment in a single Open-end Vehicle, provided the Open-end Vehicle investment policy requires diversification as to generally conform to Articles 9.8 and 9.9 of this law.

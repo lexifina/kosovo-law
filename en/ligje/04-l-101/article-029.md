@@ -1,0 +1,13 @@
+# Article 29
+Resolution of Disputes with Respect to Basic and Savings Pensions
+29.1. Any complaint by a Participant or Beneficiary concerning a Basic Pension payable by the Administration shall first be made in writing to the Appeal Council of the Administration. The Appeal Council of the Administration must consider such complaints within ninety (90) days of receipt and must advise the Participant or Beneficiary of its decision and of the grounds for this decision in writing. The Participant or Beneficiary or his or her representative must be allowed to be present at any hearing of the matter.
+29.2. After receipt of a written decision from the Appeal Council of the Administration, or after the passage of ninety (90) days after the filing of a written complaint, whichever is earlier, the Participant or Beneficiary may seek resolution of the dispute in a court of competent jurisdiction.
+29.3. In cases where Participants or Beneficiaries file suit for benefits and the court finds that the Administration is liable for benefits, the court must award the prevailing Participant or Beneficiary:
+(a).the amount of unpaid benefits owed by the Administration, plus interest from date due until date paid; and
+(b).the cost of filing the action or lawsuit to recover the damages.
+29.4. Any complaint by a Participant or Beneficiary concerning a Savings Pension payable by the Kosovo Pensions Savings Trust shall first be made in writing to the Governing Board of the Trust. The Governing Board of the Trust must consider such complaints within ninety (90) days of receipt and must advise the Participant or Beneficiary of its decision and of the grounds for this decision in writing. The Participant or Beneficiary or his or her representative must be allowed to be present at any hearing of the matter by the Trust.
+29.5. The Participant or Beneficiary may seek resolution of the dispute in a court of competent jurisdiction after receipt of a written decision from the Governing Board of the Trust, or after the passage of ninety (90) days after the filing of a written complaint, whichever is earlier.
+29.6. In cases where Participants or Beneficiaries sue for benefits and the court finds that the Trust is liable for benefits, the court must award the prevailing Participant or Beneficiary:
+(a).the amount of unpaid benefits owed by the Pension Fund, plus interest from date due until date paid; and
+(b).the cost of filing the action or lawsuit to recover the damages.
+29.7. In cases where the Trust has transferred funds from a Participant’s Individual Account to an insurance company for payment of an Annuity pursuant to this Law, any dispute with respect to the payment of the Annuity shall be resolved pursuant to Article 31 of this Law.

@@ -1,0 +1,6 @@
+# Article 36
+Provisions with Respect to Supplementary Employer Pensions and Supplementary Individual Pensions
+36.1. All Employers providing Supplementary Employer Pensions and all Pensions Providers providing Supplementary Individual Pensions at the time of the adoption of this Law shall have four (4) months to conform to the requirements of this Law.
+36.2. No new Pension contributions may be made, and Employers and Pensions providers may give no new Pension entitlements or promises, after the effective date of this Law, until such time as the Supplementary Employment Pension or Supplementary Individual Pension has been brought in conformity with this Law.
+36.3. The CBK shall issue regulations concerning the required procedure for presenting compliance plans and licensing applications with respect to this Law and for determining the Vested Rights of Employees and Participants and Beneficiaries under this Law with respect to existing pension promises.
+36.4. Termination of a Supplementary Employer Pension by an Employer because it is not in compliance with this Law shall not be a Fiduciary Breach by the Employer under this Law. No assets of Supplementary Employer Pensions can revert to employers in the event of termination under this Article.

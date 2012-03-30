@@ -1,0 +1,7 @@
+# Neni 31
+Zgjidhja e kontesteve në lidhje me pensionet plotësuese individuale
+31.1. Çdo ankesë e pjesëmarrësit ose e përfituesit, që lidhet me pensionin plotësues individual të premtuar nga një sigurues pensionesh në pajtim me këtë ligj fillimisht i drejtohet me shkrim organit qeverisës të siguruesit të pensioneve. Organi qeverisës duhet t’i shqyrtojë këto ankesa brenda nëntëdhjetë (90) ditësh pas marrjes së tyre dhe duhet të informojë me shkrim pjesëmarrësin ose përfituesin lidhur me vendimin e tij dhe bazat mbi të cilat është marrë ky vendim. Pjesëmarrësit ose përfituesit apo përfaqësuesit të tyre duhet t’u lejohet që të jenë të pranishëm në çdo shqyrtim të çështjes në fjalë.
+31.2. Pjesëmarrësi ose përfituesit mund të kërkojnë zgjidhjen e kontesteve në një gjykatë kompetente pas marrjes së vendimit me shkrim nga organi qeverisës ose pas kalimit të nëntëdhjetë (90) ditëve pas dërgimit të ankesës me shkrim, cilado që të jetë më e hershme.
+31.3. Në rastet kur pjesëmarrësit ose përfituesit ngrejnë padi për beneficione dhe gjykata konstaton se ofruesi i pensioneve është përgjegjës për beneficione, gjykata duhet t’i caktojë zhdëmtim pjesëmarrësit ose përfituesit për:
+(a). shumën e beneficioneve të papaguara për të cilën është i obliguar ofruesi i pensioneve dhe kamatat nga data që duhej bërë pagesa deri në datën e pagesës dhe
+(b). shpenzimet për paraqitjen e padisë apo hedhjen në gjygj për kompensimin e dëmeve.

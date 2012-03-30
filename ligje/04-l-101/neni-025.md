@@ -1,0 +1,13 @@
+## KREU VI
+## SHKELJET FIDUCIARE DHE ZGJIDHJA E KONTESTEVE
+# Neni 25
+Shkeljet fiduciare
+25.1. Një person fizik ose juridik është një fiduciar me përgjegjësi ndaj pjesëmarrësve dhe shfrytëzuesve sipas këtij ligji në masën sa ai:
+(a). ushtron autoritet të diskrecional ose kontroll lidhur me menaxhimin e Fondit të Kursimeve Pensionale në Kosovë, Fondin pensional plotësues të punëdhënësit, siguruesin e pensioneve që ofron pensione plotësuese individuale ose që ushtron çdo autoritet të pakufizuar dhe kontroll në lidhje me menaxhimin apo udhëheqjen e fondit pensional që është nën kontrollin ose në posedimin e cilitdo prej këtyre subjekteve;
+(b). ushtron autoritet të diskrecional ose kontroll në lidhje me përgatitjen, llogaritjen dhe lëshimin e vlerësimit aktuarial të fondit pensional, nëse është fond pensional përfitimesh të caktuara;
+(c). ofron këshillim për investime për Fondin e Kursimeve Pensionale në Kosovë, fondin pensional plotësues të punëdhënësit ose të siguruesit të pensioneve që siguron pensionin plotësuese individual apo që ka përgjegjësinë për ta bërë këtë pa marrë parasysh nëse ky këshillim është ofruar dhe është ngarkuar me një pagesë të tillë dhe
+(d). ka autoritet të pakufizuar, kontroll ose përgjegjësi për përpunimin e transaksionit, mbajtjes së librave, mirëmbajtjen e regjistrave për pjesëmarrësit ose administrimin tjetër në Fondin e Pensionit të Sigurimeve në Kosovë, fondin pensional plotësuese të punëdhënësitt ose siguruesin e pensioneve që siguron pensione plotësuese individuale.
+25.2. Fiduciari duhet të kryejë detyrat e tij me maturi, aftësi dhe me përvojën e një personi që njeh këto lloj çështjesh financiare dhe gjithashtu edhe çështje të tjera; në rastin kur ai nuk e ka këtë përvojë, atëherë ai duhet ta kërkojë shërbimin e ekspertëve.
+25.3. Fiduciari duhet të jetë përgjegjës për shkeljet ndaj ndonjë bashkëfiduciari nëse ai ka ose është dashur të ketë njohuri rreth shkeljes. Personi juridik që punëson një person fizik i cili bën një shkelje fiduciare do të jetë tërësisht përgjegjës për shkeljen.
+25.4. Përgjegjësia e fiduciarit për shkelje mund të konstatohet me padi civile ose penale konform këtij ose ndonjë ligji tjetër në fuqi. Çdo shkelje fiduciare në kundërshtim me këtë Ligj paraqet përgjegjësi civile për personin fizik a personin juridik ose të dy së bashku do të jenë përgjegjës për atë shkelje.
+25.5. Konsiderohet shkelje fiduciare për çdo fiduciar që merret me mjetet pensionale në llogari të tij, për përfitimin e tij ose për përfitimin e partnerëve të tij. Konsiderohet shkelje fiduciare për çdo fidiciar nëse hyn në transaksione me mjetet pensionale, ku personi tjetër është person i ndërlidhur i fiduciarit.
