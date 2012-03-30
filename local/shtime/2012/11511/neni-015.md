@@ -1,0 +1,2 @@
+# Neni 15
+15.1. Me studentët përfitues të bursës, do të lidhet kontrata, e cila do të nënshkruhet nga drejtori i Drejtorisë për Arsim, Kulturë, Rini dhe Sport, 15.2. Nëse brenda afatit prej 15 ditëve, nga dita e njoftimit të kandidatit përfitues të bursës, nuk nënshkruhet kontrata nga ana e studentit, do të konsiderohet se ka hequr dorë nga bursa, 15.3. Me kontratë do të përcaktohet kohëzgjatja për të cilën jepet bursa, obligimet e përfituesit të bursës dhe kushtet e tjera.
