@@ -1,0 +1,4 @@
+# Neni 28
+Përdorimi i pronës së personave të tretë në rrethana urgjente
+1. Zyrtari policor është i autorizuar që përkohësisht ta marrë apo ta përdorë çfarëdo prone, duke përfshirë, por jo duke u kufizuar në mjetet e transportit, të komunikimit ose të mbrojtjes, që janë në posedim të cilitdo qytetar, mirëpo vetëm atëherë kur është e domosdoshme që të parandalohet rreziku i pashmangshëm për personat ose pronën apo për të arritur një objektiv tjetër policor urgjent, që kërkon veprim të menjëhershëm.
+2. Prona që merret në përdorim duhet t’i kthehet personit nga i cili është marrë menjëherë pasi të mos jetë më e nevojshme që të arrihen objektivat urgjent policor për çka edhe është marrë, por në asnjë rast jo më gjatë se njëzetekatër (24) orë pas marrjes. Policia do ta kompensoj pronarin apo poseduesin për çdo shpenzim apo dëm që i është shkaktuar pronës gjatë përdorimit të saj.

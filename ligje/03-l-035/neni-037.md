@@ -1,8 +1,0 @@
-## KREU IV
-## MENAXHMENTI I LARTË I POLICISË
-# Neni 37
-Drejtori i Përgjithshëm i Policisë
-37.1 Komisioni për Emërime të Larta dhe Disiplinë në Polici i propozon Ministrit kandidatët për emërim në pozitën Drejtor i Përgjithshëm i Policisë, ndërkaq Ministri i rekomandon Kryeministrit kandidatët e mundshëm për këtë post. Drejtorin e Përgjithshëm të Policisë e emëron Kryeministri, bazuar në propozimet e paraqitura nga Ministri.
-37.2 Drejtori i Përgjithshëm emërohet për një periudhë tri (3) vjeçare, dhe mund të riemërohet në fund të kësaj periudhe edhe për pesë (5) vjet të tjerë pa procedura konkurruese. Një person mund të shërbejë si Drejtor i Përgjithshëm në përgjithësi jo më shumë se tetë vjet.
-37.3 Kualifikimet e kandidatëve për pozitën e Drejtorit të Përgjithshëm të Policisë përfshijnë, por nuk kufizohen vetëm me, së paku pesë (5) vjet përvojë në punën policore me rritje të vazhdueshme të përgjegjësisë, së paku 3 vjet të shërbimit në menaxhmentin e lartë policor, diplomë nga një universitet i akredituar, dhe diplomim nga akademia trajnuese policore e Republikës së Kosovës apo me përfundim të ndonjë programi trajnues të barasvlershëm tek një institucion tjetër. Kandidati duhet të jetë në gjendje t’i përmbushë kualifikimet minimale për një zyrtar policor. Kandidatët i nënshtrohen një hetimi mbi të kaluarën e tyre, dhe nuk duhet të jenë shpallur fajtorë për ndonjë vepër penale.
-37.4 Drejtori i Përgjithshëm është përgjegjës që të udhëheqë, kontrollojë dhe mbikëqyrë Policinë, të bëjë rekomandime buxhetore te Ministri në emër të Policisë dhe ta menaxhojë dhe shpërndajë buxhetin e Policisë në përputhje me caktimet dhe prioritetet e parapara nga Ministri.

@@ -1,6 +1,0 @@
-# Neni 24
-Vëzhgimi parandalues i vendit publik
-24.1 Policia është e autorizuar të bëjë vëzhgim parandalues të vendit publik, duke përdorur pajisje për incizime video-akustike dhe pajisje fotografike për t’i vëzhguar vendet publike ku në të kaluarën shpesh janë kryer vepra penale, apo ku ka arsye të bazuar të besohet se vëzhgimi publik do ta zvogëlonte rrezikun nga kryerja e veprave penale dhe do ta përmirësonte sigurinë publike në të ardhmen.
-24.2 Policia është e autorizuar t’i përdorë incizimet video-akustike dhe fotografitë për të vëzhguar dhe mbledhur informacione në një tubim publik atëherë kur ka arsye të bazuar se tubimi publik mund t’i rrezikojë personat apo pronën. 9
-24.3 Para se të ndërmerret vëzhgimi parandalues, në përputhje me këtë nen, Policia do ta informojë publikun për qëllimin dhe arsyen e ndërmarrjes së këtij aktiviteti, përveç nëse kjo mund ta pengoj qëllimin apo rezultatin e vëzhgimit.
-24.4 Incizimet video dhe audio nga vëzhgimi parandalues do të mbahen jo me gjatë se pesëmbëdhjetë (15) ditë nga dita e incizimit, përveç kur pas kontrollimit, verifikohet se incizimi përmban të dhëna për veprimtari kriminale. Mbajtja e këtyre të dhënave më gjatë se kjo periudhë bëhet vetëm në rastet e parapara me ligjin në fuqi.

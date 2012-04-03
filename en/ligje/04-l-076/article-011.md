@@ -1,0 +1,7 @@
+# Article 11
+Police Powers
+1. During the performance of police duties, a Police Officer has power to impose reasonable control on people and property within his/her jurisdiction and power to issue and enforce lawful orders and instructions for members of society in general to achieve legitimate police objectives.
+2. The powers mentioned in this law describe the general powers and limitations of a police officer when performing duties related to prevention of the risk and maintenance of public order and safety. The powers and limitations of a Police Officer during performance of duties related to criminal investigation generally are described by other laws including, but not limited to, the Criminal Procedure Code of Republic of Kosova.
+3. In fulfilling their police duties, Police Officers have power to patrol the border, control transborder traffic, examine border crossing documents, enter onto private property along the border, except that they may not enter into private residences but may enter into railway stations, airports, trains and airplanes. The Police has the right to meet a property owner or require a property owner along the border to have a boundary path and to have gates in fences to provide access to the property for Police Officers on patrol.
+4. The Police shall provide security and protection to religious and cultural heritage sites in Republic of Kosova.
+5. Police officer exercises police powers off duty in accordance with the law.

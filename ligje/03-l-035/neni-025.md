@@ -1,7 +1,0 @@
-# Neni 25
-Përdorimi i forcës
-25.1 Zyrtari policor është i autorizuar ta përdorë forcën vetëm atëherë kur është e domosdoshme dhe vetëm deri në atë nivel që kërkohet për t’i arritur objektivat legjitime të Policisë.
-25.2 Zyrtari policor mund ta përdorë forcën për ta mbrojtur jetën e personit, për ta parandaluar sulmin, kryerjen e veprës penale, arratisjen e kryesit të veprës apo atëherë kur masat e tjera nuk janë të suksesshme për arritjen e një objektivi tjetër legjitim të Policisë.
-25.3 Zyrtari policor vepron me maturinë e tij/saj për ta përcaktuar llojin e forcës më të përshtatshme dhe kufizimet në përdorimin e forcës. Zyrtari policor merr parasysh rrethanat specifike, natyrën e veprës penale, shkallën e rrezikut ndaj personave të tjerë që janë të pranishëm dhe gjendjen fizike, mentale dhe emocionale të personit ndaj të cilit përdoret forca.
-25.4 Në rastet e përdorimit të forcës, zyrtari policor duhet të përpiqet ta minimizojë ndërhyrjen në të drejtat dhe liritë e personit dhe të minimizojë çfarëdo pasoje të dëmshme.
-25.5 Përdorimi i forcës, si term që përdoret në këtë ligj, përfshin por nuk kufizohet vetëm në përdorimin e: forcës fizike, shufrës zyrtare, sprejit, mjeteve pranguese, mjeteve për ndalimin e automjeteve, qenit të policisë, mjeteve kimike për paaftësim të përkohshëm, kalit të policisë, armëve të zjarrit, topave të ujit, automjeteve dhe llojeve të veçanta të armëve dhe mjeteve shpërthyese.

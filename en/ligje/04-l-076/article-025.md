@@ -1,0 +1,6 @@
+# Article 25
+Preventive Surveillance of a Public Place
+1. The Police has power to set-up preventive surveillance of a public place, using video and audio recording equipment and photographic equipment to survey public places where criminal acts have been committed often in the past, or where there is reasonable justification to believe that public surveillance will reduce the risk of criminal acts and improve public safety in the future, in accordance with Penal Procedure Code.
+2. The Police have power to use video and audio recording and photography to observe and collect information at a public gathering when there is reasonable justification to believe that the public gathering will endanger persons or property.
+3. Before undertaking preventive surveillance pursuant to this Article, the Police shall inform the public of its intent and its reasons for doing so, unless this might compromise the purpose and the outcome of the surveillance.
+4. Video and audio recordings resulting from preventive surveillance shall be retained no longer than thirty (30) days after the date of recording except when it is determined after inspection that the recordings contain evidence of criminal activities. Such recordings may be retained longer only in specific cases, as provided by applicable law.
