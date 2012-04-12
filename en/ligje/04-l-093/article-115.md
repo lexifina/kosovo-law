@@ -1,0 +1,4 @@
+# Article 115
+Regulations, Orders and Instructions of the CBK; Fees
+1. The CBK shall publish its Regulations, Instructions and Orders which shall take effect on the date of such publication or on such later date defined by sub-legal acts.
+2. The CBK shall charge fees to Microfinance Institutions and NBFIs for its supervisory and regulatory services in order to recover its direct and indirect costs incurred in providing such services. Fees shall be assessed on a cost recovery basis or based on any extraordinary expenses incurred by the CBK or its agents in relation to its supervisory activities with respect to a particular Microfinance Institution. Microfinance Institutions shall pay fees within ten days of presentation of a statement by the CBK. The CBK shall also charge fees to Microfinance Institutions for the use of the Credit Registry.

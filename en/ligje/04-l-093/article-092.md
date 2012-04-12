@@ -1,0 +1,11 @@
+## PART XV
+## REGISTRATION OF MICROFINANCE INSTITUTIONS AND NON-BANK FINANCIAL INSTITUTIONS
+# Article 92
+Registration and Supervision of Microfinance Institutions and NBFIs
+1. All legal entities seeking to operate as an NGO Microfinance Institution must register at Ministry of Public Administration and all legal entities seeking to operate as Joint Stock Company Microfinance Institutions must first register with the Ministry of Trade and Industry. Evidence of this registration must be presented to the CBK and thereafter all Microfinance Institutions shall also be registered at CBK. The provisions contained in PART II, Articles 7-14 of this Law shall apply to the registration of Microfinance Institutions.
+2. Upon receiving an application for registration, the CBK shall review the information submitted and once it deems the information complete it shall notify the applicant accordingly in writing. The CBK shall issue a Regulation providing the format and specifying the information required to be submitted in the application for registration.
+3. All NBFIs must be regulated by CBK. The CBK shall issue a regulation providing for the format and specifying the information required for each type of NBFI.
+4. No later than ninety (90) days after the applicant has been notified by the CBK that the application for registration is complete, the CBK shall issue a decision approving or denying the registration. By mutual agreement between the CBK and the applicant, the decision period can be extended for up to ninety (90) days. A notification of the denial of the registration shall state the grounds on which the registration was denied.
+5. The registration of a Microfinance Institution or a NBFI shall be approved for an indefinite period of time and is not transferable. Once registered, a Microfinance Institution or a NBFI shall commence operations within six (6) months from the date of the notification of the registration. If it does not commence operations with such time, the registration becomes invalid. The Microfinance Institution or NBFI may reapply for registration.
+6. All Registered Microfinance Institutions and NBFIs are required to be listed in the register of financial institutions maintained by the CBK.
+7. All Microfinance Institutions and NBFIs shall be supervised and regulated solely by the CBK under the provisions of this Law.

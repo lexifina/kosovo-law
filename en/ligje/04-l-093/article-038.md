@@ -1,0 +1,3 @@
+# Article 38
+Approval or Disapproval of Acquisitions of Equity Interests in a Bank
+In making a determination whether to approve an application to acquire an equity interest in a bank, the CBK shall assess the proposed acquisition with regard to the same criteria that apply in determining preliminary or final approval of an application for a license under Article 7 of this law, including but not limited to the expected effects of the proposed acquisition on the financial soundness of the bank, the resulting ownership structure of the bank and its effect on the CBK’s ability to conduct both solo and consolidated supervision, and the suitability of the proposed shareholders and their standing in the financial markets.

@@ -1,0 +1,12 @@
+## PART VIII
+## REPORTS AND EXAMINATION
+# Article 57
+Reports and Examination
+1. Each bank shall prepare and submit to the CBK reports concerning its large exposures, administration and operations, liquidity, solvency, and profitability and such other information as the CBK requires and those of its subsidiaries on an individual and a consolidated basis. The reports shall be prepared in such form and detail and shall be submitted at such intervals as shall be prescribed by the CBK.
+2. Each bank and each of its affiliates shall be subject to examinations by the CBK and by examiners appointed by the CBK. The examiners may visit banks at such reasonable times as CBK deems appropriate and may take such action as deemed necessary and advisable. Such examiners may include officials of the authority of another country that is charged with the monetary or prudential supervision of financial activities in that country if it concerns the examination of a bank that is a branch or affiliates of a foreign bank that has its head office in that country or has a significant interest in a foreign bank that is located in that country.
+3. In their examinations of banks and their affiliates, the CBK and examiners appointed by it may:
+3.1. examine the accounts, books, documents and other records of the bank or affiliates; and
+3.2. require Directors and Senior Managers, employees and agents of the bank or affiliates to provide all such information on any matter relating to its administration and operations as they shall reasonably request.
+4. Each bank and each of its affiliates shall admit and cooperate fully with the examiners of the CBK and the examiners appointed by the CBK. No one shall attempt to harass, hinder, delay, impede, intimidate or exert undue influence on an inspector of the CBK or the examiners appointed by it.
+5. Each affiliate of a bank and providers of professional or operations services to banks shall provide information to the CBK as the CBK may reasonably request concerning the bank’s operations and relations with such persons.
+6. The CBK may require reports and conduct examinations as provided in this article of any additional member of a banking group, if it deems it necessary for consolidated supervision. Consolidated supervision includes without limitation an assessment of the group’s organizational structure, management, risk management policies and internal controls.

@@ -1,0 +1,5 @@
+# Neni 52
+Regjistri i kredive
+1.Banka Qendrore e Kosovës e ka themeluar Regjistrin e Kredive me qëllim të mbledhjes dhe ofrimit të informacioneve për të lehtësuar rreziqet e zvogëluara dhe për të përmirësuar qasjen në kredi ndërsa siguron mbrojte maksimale të të dhënave personale. Raportimi i kredive është i detyrueshëm për të gjitha institucionet financiare që operojnë në Kosovë;
+2.Të gjithat institucionet financiare siç përcaktohen dhe parashihen me rregullore të BQK-së duhet të jenë anëtare të Regjistrit të Kredive që ndodhet në BQK. Ato kërkohen që të paraqesin në Regjistrin e Kredive të gjitha informacionet rreth kredive të tyre dhe produkteve të kredive, historinë e kthimit të kredisë së huamarrësit dhe garantuesit. Për qëllimet e pajtueshmërisë me ketë nen, të gjitha fushat e kërkuara të informacionit duhet të plotësohen. Rregulloret dhe udhëzimet operative të BQK-së ofrojnë informata të hollësishme rreth pajtueshmërisë, dënimeve, raporteve rreth kredive dhe të drejtat e huamarrësit;
+3.Informatat rreth hipotekave, pengut dhe kolateralit tjetër po ashtu mund të raportohen në Regjistrin e Kredive.

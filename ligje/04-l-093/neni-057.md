@@ -1,0 +1,12 @@
+## PJESA VIII
+## RAPORTET DHE EKZAMINIMET
+# Neni 57
+Raportet dhe ekzaminimet
+1.Çdo bankë përgatit dhe dorëzon në BQK raportet lidhur me ekspozimet e mëdha, administrimin dhe operacionet, likuiditetin, aftësinë pagues dhe fitimin, dhe ato të subjekteve të saj të varura në bazë individuale dhe të konsoliduar. Këto raporte përgatiten në formën dhe detajet dhe paraqiten në intervalet kohore të përcaktuara nga BQK-ja.
+2. Çdo bankë dhe çdo filial i saj është subjekt i shqyrtimeve financiare nga BQK-ja ose nga ekzaminerët të caktuar nga BQK-ja. Ekzaminerët mund ti vizitojnë bankat brenda kohës së arsyeshme që konsiderohet e përshtatshme nga BQK-ja dhe mund të ndërmarrin veprime që konsiderohen të nevojshme dhe të këshillueshme. Këta ekzaminerë mund të jenë zyrtarë të autoritetit të një vendi tjetër të huaj të ngarkuar me mbikëqyrjen monetare ose të arsyeshme të aktiviteteve financiare në atë vend nëse ekzaminimi bëhet për një bankë që është degë ose filial i një banke të huaj që ka drejtorinë e saj qendrore në atë vend ose ka një interes të konsiderueshëm në një bankë të huaj që është e vendosur në atë vend.
+3.Në ekzaminimet e bankave dhe filialeve të tyre, BQK-ja dhe ekzaminerët e caktuar prej saj mund:
+3.1.të shqyrtojnë llogaritë, librat, dokumentacionin dhe regjistrimet e tjera të bankës a të subjektit së varur; dhe
+3.2.të kërkojnë nga drejtorët dhe menaxherët e lartë, punonjësit dhe agjentët e bankës ose filialeve që t’ju ofrojnë të gjitha informacionet ose çështjet tjera lidhur me administrimin dhe operacionet e saj që ata me arsye mund t’i kërkojnë.
+4. Çdo bankë dhe çdo filial e saj duhet të pranojë dhe bashkëpunojë plotësisht me ekzaminerët e BQK- së dhe ekzaminerët e caktuar nga BQK-ja. Askush nuk ka të drejtë të përpiqet të provokojë, pengojë, vonojë, ndalojë, frikësojë ose të ushtrojë ndikim të pajustifikuar ndaj një inspektori të BPK-së ose ekzaminerëve të caktuar prej saj.
+5. Çdo filial i bankës dhe ofruesit e shërbimeve operacionale ose profesionale për bankat i japin informacion BQK-së që BQK-ja me arsye mund të kërkojë lidhur me operacionet dhe marrëdhëniet e bankës me këta persona.
+6. BQK-ja mund t’i kërkojë raportet dhe kryej ekzaminimet e parapara në këtë nen të ndonjë anëtari shtesë të grupit bankar, nëse këtë e konsideron të nevojshme për mbikëqyrje të konsoliduar. Mbikëqyrja e konsoliduar përfshinë pa kufizim vlerësimin e strukturës organizative të grupit, menaxhmentit, politikave për menaxhim të riskut dhe kontrolleve të brendshme.

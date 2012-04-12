@@ -1,0 +1,15 @@
+## PJESA XIV
+## DISPOZITAT E PËRGJITHSHME
+## Ky kapitull zbatohet për veprimtaritë e institucioneve mikrofinanciare dhe institucioneve jobankare financiare në Kosovë, siç definohen sipas këtij ligji dhe ofron një kornizë ligjore për regjistrimin, mbikëqyrjen dhe rregullimin e tyre.
+# Neni 90
+Përkufizimet
+Për qëllimit e këtij kapitulli, termat në vijim do të kenë këto kuptime:
+Kapital apo Kapital aksionar - vlera neto apo fondet e institucionit mikrofinanciar që paraqesin dallimin mes pasurisë dhe borxheve në përputhje me bilancin e gjendjes, i cili pasqyron standardet ndërkombëtare të kontabilitetit apo dhe përfshijnë, nëse institucioni mikrofinanciar është degë e institucionit mikrofinanciar të licencuar në ndonjë vend tjetër, edhe depozitin e tij që është i barabartë me kapitalin.
+Kapital i dhuruar - fondet e kapitalit të dhënë nga një donator si dhuratë ose grant.
+Hua - çdo pagesë apo zotim për pagesë të një shume të hollash në këmbim të së drejtës për kthimin e shumës së paguar dhe të asaj të papaguar dhe, me apo pa pagesë të kamatës apo të pagesave të tjera në atë shumë, duke përfshirë çdo zgjatje të afatit për pagesën e borxhit përkatës.
+Kufijtë e huas - huaja nga një institucion mikrofinanciar në shumën e përgjithshme maksimale prej njëzetepesëmijë (25,000) euro për një person të vetëm juridik dhe subjektet e varura kolektivisht; dhe për personin nënkupton se shuma e përgjithshme e kthimit të borxhit vjetor, duke përfshirë kapitalin dhe inversin, për të gjitha huat nuk mund të tejkaloj njëzetepesë përqind (25℅) të të hyrave të përgjithshme vjetore të individit.
+Amvisëria me të hyra të ulëta - amvisëria me të hyra bruto vjetore që janë të barabarta apo më të vogla se një dhe gjysma e shumës së të hyrës individuale bruto, e cila sipas Administratës Tatimore të Ministrisë së Financave nuk tatimohet;
+Individi me të hyra të ulëta - individi me të hyra vjetore bruto që janë të barabarta apo më të vogla se shuma e të hyrave individuale bruto, e cila sipas Administratës Tatimore të Ministrisë së Ekonomisë dhe Financave, nuk tatimohet;
+Institucioni mikrofinanciar OJQ - institucion mikrofinanciar që është regjistruar në Ministrinë e Administratës Publike për qëllimet e lirimit nga taksat si dhe në BQK si organizatë joqeveritare që për mision të saj ka qëllimin bamirës. Një institucion mikrofinanciar OJQ nuk lejohet të shesë ose transferojë veprimtarinë e saj, të bashkohet ose të ndryshojë strukturën e saj, e as nuk lejohet të shpërndajë ose në ndonjë mënyrë të paguajë fitimet, suficitin e kapitalit, dividentat ose ndonjë nga aktivat e saj, përveç asaj që është në përputhje me këtë ligj.
+SNRF - Standardet Ndërkombëtare të Raportimit Financiar të cilat janë standardet ndërkombëtare kontabël të bazuara në parime, interpretimet dhe korniza e miratuar nga Bordi i Standardëve Ndërkombëtare të Kontabilitetit.
+Suficiti i kapitalit - fondet e akumuluara që rrjedhin nga aktivitete dhe veprimtaritë e një institucioni mikrofinanciar. Të gjitha definicionet e paraqitura na Kapitullin I të këtij ligji gjithashtu vlejnë edhe për këtë kapitull.

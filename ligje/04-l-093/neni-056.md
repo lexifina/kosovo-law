@@ -1,0 +1,5 @@
+# Neni 56
+Publikimi i pasqyrave financiare dhe kërkesat tjera për shpalosje
+1.Çdo bankë brenda tridhjetë 930)ditëve të çdo tremujori kalendarik duhet të botojë në një gazetë kombëtare dhe në faqen e saj të internetit një përmbledhje të vërtetë dhe të saktë të bilancit të saj të tremujorit kalendarik të mëparshëm. Çdo bankë duhet gjithashtu, brenda katër (4) muajve nga mbyllja e vitit të saj financiar, të botojë në një gazetë kombëtare dhe në faqen e saj të internetit një përmbledhje të vërtetë dhe të saktë të bilancit të saj për vitin financiar të mëparshëm.
+2.Çdo bankë duhet gjithashtu, brenda katër muajve nga mbyllja e vitit të saj financiar, të botojë raportin e saj vjetor, që përmban pasqyrat e audituara financiare, dhe t’i vë në dispozicion të publikut kopjet e tyre sipas kërkesave dhe pa pagesë.Çdo bankë ia dërgon kopjet e raportit të saj vjetor BQK-së sapo ai të jetë gati dhe e publikon atë edhe në faqen e saj të internetit.
+3.BQK-ja mund t’i përcaktojë me rregullore kërkesat tjera për shpalosje për bankat.

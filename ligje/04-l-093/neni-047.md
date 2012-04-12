@@ -1,0 +1,9 @@
+# Neni 47
+Transaksionet me personat e ndërlidhur me bankat
+1.Asnjë bankë nuk duhet të hyjë në transaksione me ose në dobi të një personi që ka lidhje me to, nëse në një transaksion të tillë do të hyhej në kushte dhe afate më pak, ose fare të pafavorshme, me ose në dobi të personave që nuk janë të ndërlidhur.
+2.Pavarësisht asaj që u cek me lartë, asnjë bankë nuk duhet të ketë një ekspozim ndaj ose në dobi të një personi që ka lidhje me to, nëse si rezultat e kësaj, shume e përgjithshme e ekspozuar ndaj ose në dobi të personit që ka lidhje me to do të tejkalonte dhjetë përqind (10℅) të kapitalit të Shtyllës 1 të bankës.
+3.Ekspozimet e dhëna nga një bankë për një person të ndërlidhur me bankën i nënshtrohen miratimit paraprak nga ana e bordit të drejtorëve të bankës, përveç rasteve kur BQK-ja përjashton ekspozimin nën pragun e kërkuar minimal të përcaktuar nga BQK-ja. Çdo ekspozim i dhënë nga banka për një person i ndërlidhur me bankën të lajmërohet menjëherë në bordin e drejtorëve të bankës.
+4.Nëse ekspozimi është dhënë nga banka për një person të ndërlidhur me bankën në kundërshtim me këtë nen, ekspozimi i këtillë duhet të paguhet menjëherë dhe anëtarët e bordit të drejtorëve ose menaxheri i caktuar i degës, sipas rastit, janë personalisht përgjegjës, kolektivisht dhe individualisht, për pagesën e kapitalit dhe interesit si dhe të ngarkesave tjera për ekspozimet e dhëna në kundërshtim me këtë nen, me dijeninë dhe pa kundërshtimin e tyre.
+5.Ekspozimi i bërë nga ndonjë bankë ndaj ndonjë personi të lidhur me të është subjekt i kushteve ose kufizimeve siç përcaktohen me rregullore.
+6.BQK-ja zbret çdo huazim për personin e ndërlidhur me bankën për qëllimet e llogaritjes së nivelit të kapitalit rregullativ sipas nenit 15 dhe 16 të këtij ligji.
+7.Ky nen nuk zbatohet për bankën e huaj që është e licencuar për të operuar me një ose më shumë degë në Kosovë.

@@ -1,0 +1,3 @@
+# Neni 38
+Miratimi apo mosmiratimi i përvetësimit të interesave të kapitalit në një bankë
+Gjatë vendosjes për të miratuar një kërkesë për përvetësim të interesit të kapitalit në një bankë, BQK-ja vlerëson përvetësimin e propozuar sipas kritereve të njëjta që zbatohen për miratimin paraprak apo përfundimtar të një kërkese për licencë sipas nenit 7 të këtij ligji duke përfshirë por duke mos u kufizuar në efektet e pritura të përvetësimit të propozuar në qëndrueshmërinë financiare të bankës, strukturën rezultuese të pronësisë së bankës dhe efektin e saj në mundësinë e BQK-së për të kryer një mbikëqyrje ekskluzive dhe të konsoliduar dhe përshtatshmërinë e aksionarëve të propozuar dhe pozicionin e tyre në tregjet financiare.

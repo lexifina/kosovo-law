@@ -1,0 +1,3 @@
+# Neni 96
+Qeverisja e institucioneve mikrofinanciare dhe institucioneve jobankare financiare
+Veprimtaritë e një institucioni mikrofinanciar dhe një institucioni jobankar financiar qeverisen dhe menaxhohen nga dhe nën drejtimin e organeve të veta ekzekutive, në pajtim me këtë ligj dhe me statusin ligjor të institucionit. Institucioni mikrofinanciar dhe institucioni jobankar financiar duhet të veprojnë në pajtim me parimet e pranuara të qeverisjes së mire për të siguruar që biznesi i institucionit zhvillohet në mënyrë të sigurt dhe të shëndoshë. Institucioni mikrofinanciar apo institucioni jobankar financiar duhet t’i përmbahet të gjitha rregulloreve dhe urdhëresave të zbatueshme të nxjerra nga BQK- ja

@@ -1,0 +1,9 @@
+# Article 54
+External Audit
+1. The shareholders shall appoint, upon the recommendation of its Audit Committee and the Board of Directors, an independent and qualified external auditor acceptable to the CBK who shall, consistent with international audit standards:
+1.1. provide an opinion as to whether the annual financial statements present a fair and true view of the financial condition and performance of the bank in accordance with the provisions of this Law;
+1.2. review the adequacy of the practices and procedures for internal audit and control practices and procedures and make recommendations for remediation; and
+1.3. inform the Board of Directors about any fraudulent activity by an employee of the bank or any of its subsidiaries or any irregularity or deficiency in its administration or operations that may reasonably be expected to result in a material loss for the bank or such subsidiary.
+2. The external auditor of a bank, or any member of the audit firm, shall not be a bank related person or an agent or representative of the bank and shall not have any financial interest in the bank, with the exception of holding a deposit in the bank.
+3. The CBK may prescribe by regulation a requirement for rotation of auditors or engagement partners of audit firms after a specified period of time to ensure continued independence. The CBK shall have authority to require the removal or replacement of an auditor, or to directly appoint, remove, or replace an auditor, at the expense of the bank to do a re-audit, if the bank or the auditor fails to meet the requirements of this Article or where the CBK is not reasonably satisfied with the auditor’s performance.
+4. This article shall not apply to a foreign bank that is licensed to operate one or more branches in Kosovo, so long as so long as comparable requirements satisfactory to the CBK are applicable under the law under which the foreign bank is licensed in its home jurisdiction.

@@ -1,0 +1,5 @@
+# Neni 65
+Regjistrimi dhe plani i veprimit
+1.Jo më vonë se tridhjetë (30) ditë pas emërimit, administratori zyrtar përgatit dhe ia dorëzon BQK-së listën e regjistrimit të aktivës dhe pasivë së bankës. Një raport i këtillë specifikon aktivën sipas profileve të tyre të ndryshme të riskut dhe klasifikon kreditë joperformuese.
+2.Jo më vonë se gjashtëdhjetë (60) ditë pas emërimit, administratori zyrtar përgatit dhe ia dorëzon BQK-së raportin mbi gjendjen financiare dhe prospektet e ardhme të bankës që është subjekt i administrimit zyrtar.
+3.Në raportin e referuar në paragrafin 2. të këtij neni, administratori zyrtar propozon planin e veprimi, i cili, sipas nevojës, rekomandon rikthimin e bankës në pajtueshmëri me ligjin duke zbatuar një plan të masave korrektuese të cilat mund të përfshijnë rritjen e kapitalit; apo, nëse banka nuk mund të rehabilitohet, ndonjë linjë tjetër veprimi me qëllim të minimizimit të dëmtimit të depozitorëve dhe ruajtjes së stabilitetit në sektorin bankar. Administratori zyrtar ia paraqet me kohë BQK-së ndonjë raport shtesë ose informacion të kërkuar nga BQK-ja.

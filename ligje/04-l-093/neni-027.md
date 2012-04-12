@@ -1,0 +1,6 @@
+# Neni 27
+Mbledhjet e bordit të drejtorëve
+1. Mbledhja e bordit të drejtorëve mbahet sipas nevojës dhe së paku një herë në tre (3) muaj. Së paku një herë në vit një takim tremujor duhet të mbahen në Kosovë. Përveç takimit vjetor që mbahet në Kosovë, të gjitha takimet tjera mund të mbahen me anë të telekonferencës ose mjeteve tjera elektronike.
+2. Kryesuesi i bordit të drejtorëve thërret mbledhjet me kërkesë të kryeshefit ekzekutiv të bankës ose të dy anëtarëve të bordit të drejtorëve jo me vonë se katërmbëdhjetë (14) ditë nga dita a paraqitjes së kërkesës, ose përndryshe personi që paraqet kërkesën është i autorizuar për thirrjen e mbledhjes. Megjithatë, me kusht që të gjithë anëtarët e bordit të drejtorëve të jenë ftuar dhe ftesa të shoqërohet nga rendi i ditës, shumica e anëtarëve të bordit të drejtorëve mund të thërrasin një mbledhje jashtëzakonshme brenda tri (3) ditëve nga votimi për caktimin e një mbledhje të jashtëzakonshme të bordit të drejtorëve. Të gjitha dispozitat e këtij neni zbatohen për mbledhjet e jashtëzakonshme të bordit të drejtorëve.
+3. Vendimet e bordit te drejtoreve janë të vlefshme kur janë të pranishëm dhe votojnë shumica e anëtarëve të tij.
+4. Vendimet merren me shumicë të thjeshtë votash të anëtarëve të pranishëm, me përjashtim të rastit kur në statutin e bankës parashikohet një shumicë më e lartë

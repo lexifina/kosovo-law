@@ -1,0 +1,4 @@
+# Neni 110
+Trajtimi i kapitalit të dhuruar dhe suficitit të kapitalit
+1.Në rast të likuidimit vullnetar, likuidimit të detyruar të një institucion mikrofinanciar OJQ, çdo kapital i mbetur i dhuruar ose suficit i kapitalit duhet t’iu kthehet donatorëve fillestar ose të shpërndahet për qëllime bamirësie në Kosovë siç mund të kërkohet nga donatorët fillestar. Nëse kapitali fillestar i donatorit nuk kthehet, kapitali i dhuruar dhe suficiti i kapitalit do të shpërndahet për qëllime bamirësie sipas ligjeve në fuqi dhe planit të miratuar nga BQK-ja.
+2.As BQK-ja, e as anëtarët e organeve vendim-marrëse të BQK-së , ose personat e lidhur me BQK-në, nuk lejohen të përfitojnë drejtpërsëdrejti ose tërthorazi nga ndonjë plan i shpërndarjes për bamirësi të kapitalit të dhuruar dhe suficitit të kapitalit.

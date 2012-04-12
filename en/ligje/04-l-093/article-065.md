@@ -1,0 +1,5 @@
+# Article 65
+Inventory and Plan of Action
+1. Not later than thirty (30) days after the appointment, the Official Administrator shall prepare and deliver to the CBK an inventory of the bank’s assets and liabilities. Such report will itemize the assets according to their different risk profiles and classify the non-performing loans.
+2. Not later than sixty (60) days after the appointment, the Official Administrator shall prepare and deliver to the CBK a report on the financial condition and future prospects of the bank subject to official administration.
+3. In the report referred under paragraph 2. of this Article, the Official Administrator shall propose a plan of action which, as appropriate, shall recommend returning the bank to compliance with the law by carrying out a plan of corrective actions that may include a capital increase; or, if the bank cannot be rehabilitated, any other course of action designed to minimize disruption to depositors and preserve the stability of the banking sector. The Official Administrator shall promptly provide any additional report or information requested by the CBK.

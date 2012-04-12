@@ -1,0 +1,7 @@
+# Article 31
+Senior Managers
+1. Deputy Chief Executive Officer shall substitute for the Chief Executive Officer in case of his/her absence, and if the bank has no Deputy Chief Executive Officer appointed, the Chief Executive Officer shall authorize in writing one of the other Senior Managers to substitute for him and determine his/her authorities.
+2. Salary and other material rights of the Senior Managers shall be regulated by contract between the Chief Executive Officer and the Senior Managers, upon prior approval of the Board of Directors.
+3. Chief Executive Officer, Deputy Chief Executive Officer and the Senior Managers shall report to the Board of Directors each direct or indirect interest with Related Individuals or any the legal person with which bank has or intends to enter into business relationship.
+4. In case provided under Paragraph 1 of this Article, the Senior Manager may participate in such a business relation based upon written consent of the Board of Directors.
+5. In any case when the Chief Executive Officer is released of duty, resigns, dies or is ill or otherwise absent from his/her duties without the prior approval of Board of Directors for a period of more than thirty (30) consecutive calendar days, the Board of Directors must confirm the Deputy Chief Executive Officer in this position or appoint an interim Chief Executive Officer to serve until such time as the Board of Directors appoints a new Chief Executive Officer.

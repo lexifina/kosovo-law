@@ -1,0 +1,6 @@
+# Neni 97
+Bordi i drejtorëve i institucioneve mikrofinanciare dhe institucioneve jobankare financiare
+1.Institucionet mikrofinanciare dhe institucionet jobankare financiare, përveç nëse përcaktohet ndryshe nga BQK-ja, administrohen nga bordi i drejtorëve i cili emërohet nga themeluesi, aksionarët ose pronarët dhe i cili përbëhet nga një numër tek prej jo më pak se (3) tre anëtarë, nga të cilët shumica duhet të jenë të pavarur dhe joekzekutiv. Të gjithë anëtarët e Bordit të drejtorëve duhet të jenë “të përshtatshëm dhe të duhur” dhe me reputacion të mirë, duke i plotësuar kriteret e caktuara nga BQK-ja lidhur me kualifikimet, përvojën dhe integritetin e anëtarëve të Bordit drejtues. Para se ta marrin detyrën, anëtarët e bordit të drejtorëve të institucionit mikrofinanciar duhet të kenë miratim me shkrim nga BQK-ja.
+2.Bordi drejtues dhe anëtarët e tij nuk mund t’i delegojnë përgjegjësitë e veta tek të tjerët.
+3.Bordi drejtues duhet ta emërojë kryeshefin ekzekutiv ose menaxherin e përgjithshëm në takimet e rregullta vjetore. Bordi drejtues duhet të takohet së paku dy herë në vit.
+4.Çdo ndryshim në organin ekzekutiv ose menaxherin e përgjithshëm apo në menaxherët e lartë dhe anëtarët e bordit të drejtorëve duhet t’i paraqitet BQK-së për miratim.

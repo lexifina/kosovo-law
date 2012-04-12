@@ -1,0 +1,7 @@
+# Neni 31
+Menaxherët e lartë
+1. Zëvendëskryeshefi ekzekutiv zëvendëson kryeshefin ekzekutiv në mungesë të tij dhe, nëse baka nuk ka zëvendëskryeshef të emëruar, kryeshefi ekzekutiv autorizon me shkrim njërin nga menaxherët e lartë që ta zëvendësojë atë dhe t’i ushtrojë kompetencat e tij.
+2. Paga dhe të drejtat tjera materiale të menaxherëve të lartë rregullohen me kontratë ndërmjet kryeshefit ekzekutiv dhe menaxherëve të lartë, me miratimin paraprak të bordit të drejtorëve.
+3. Kryeshefi ekzekutiv, zëvendëskryeshefi ekzekutiv dhe menaxherët e lartë i raportojnë bordit të drejtorëve për çdo interes të drejtpërdrejt ose të tërthortë me individët e ndërlidhur apo me ndonjë person juridik me të cilin banka ka hyrë ose ka ndërmend të hyjë në marrëdhënie afariste.
+4. Në rastin e paraparë sipas paragrafin 1 të këtij neni, menaxherët e lartë mund të marrin pjesë në një marrëdhënie të tillë afariste në bazë të pëlqimit me shkrim të bordit të drejtorëve.
+5. Në rast se kryeshefi ekzekutiv largohet nga detyra, jep dorëheqje, vdes ose është i sëmurë ose në një mënyrë mungon në detyrat e tij pa miratimin paraprak të bordit të drejtorëve për një periudhë prej më shumë se tridhjetë(30) ditë vijuese kalendarike, bordi i drejtorëve duhet ta vendos në pozitë zëvendëskryeshefin ekzekutiv ose emëron një kryeshef ekzekutiv të përkohshëm për të shërbyer deri në kohën kur bordi i drejtorëve emëron kryeshefin e ri ekzekutiv.

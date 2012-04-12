@@ -1,0 +1,4 @@
+# Article 110
+Treatment of Donated Capital and Surplus Capital
+1. In the event of voluntary liquidation, mandatory receivership, or official administration of an NGO Microfinance Institution, any remaining Donated Capital or Surplus Capital must be returned to the original donor(s) or distributed for charitable purposes in Kosovo as may be directed by the original donor (s). If the initial capital of donator is not returned, Donated Capital and the Surplus Capital will be distributed for charitable purposes according to applicable Laws and the plan approved by CBK.
+2. Neither the CBK itself nor the members of decision- making bodies, or persons related to CBK are permitted to benefit either directly or indirectly from any plan for the charitable disposition of the Donated Capital and Surplus Capital.

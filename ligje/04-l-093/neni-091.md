@@ -1,0 +1,9 @@
+# Neni 91
+Ndalesat
+1.Asnjë person nuk mund të angazhohet në biznesin e një institucioni mikrofinanciar pa u regjistruar së pari në BQK sipas dispozitave të këtij ligji dhe pa qenë gjatë gjithë kohës në pajtueshmëri me këtë ligj dhe me rregulloret dhe urdhëresat në fuqi të nxjerra nga BQK-ja.
+2.Asnjë institucion mikrofinanciar ose institucion jobankar financiar i inkorporuar jashtë Kosovës nuk do të lejohet të angazhohet drejtpërdrejt në ndonjë aktivitet mikrofinanciar në Kosovë përveç nëse aktiviteti ndërmerret përmes një zyre të degës apo zyrës ndihmëse, të regjistruar sipas rregullit në BQK, dhe që i plotëson të gjitha kërkesat e këtij ligji dhe të BQK-së.
+3.Asnjë institucion mikrofinanciar ose institucion jobankar financiar nuk do ta përdor fjalën “bankë”, apo ndonjë fjalë të prejardhur nga fjala “bankë” në titullin e tij, apo ndonjë fjalë tjetër që është çorientuese lidhur me aktivitetet e veta financiare, gjendjen e tij financiare, statusin ligjor apo lidhjen me qeverinë apo me institucionet ndërkombëtare.
+4.Asnjë institucioni ekzistues mikrofinanciar nuk do t’i lejohet të vazhdojë veprimtarinë e tij pa aplikuar për regjistrim të ri sipas këtij ligji brenda një periudhe tre (3) mujore nga hyrja në fuqi e këtij ligji.
+5.Institucionet jobankare financiare të cilat tashmë janë licencuar nga BQK-ja lejohen të vazhdojnë veprimtaritë e tyre sipas licencave ekzistuese.
+6.Asnjë institucion i regjistruar mikrofinanciar nuk do të angazhohet në mbledhjen e depozitave pa miratimin paraprak me shkrim të BQK-së. Në asnjë rast një institucion mikrofinanciar nuk mund të angazhohet në mbledhje e depozitave që kalojnë pesëdhjetë përqind (50%) të suficitit të kapitalit të tij ose shumën maksimale prej njëqind e njëzetepesëmijë (125,000) euro, cilado që të jetë më e vogël.
+7.Institucionet jobankare financiare nuk mund të angazhohen në pranimin e depozitave.

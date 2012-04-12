@@ -1,0 +1,4 @@
+# Neni 4
+Përgjegjësia e BQK-së për dhënien e licencave
+1.BQK-ja ka përgjegjësi ekskluzive për dhënien e licencave për të gjitha bankat dhe regjistrimin e të gjitha Institucioneve Mikrofinanciare dhe Institucioneve Financiare Jo-bankare për lëshimin e lejeve të bankave të huaja në lidhje me themelimin e zyrave përfaqësuese.
+2.Një regjistër qendror mbahet nga BQK-ja për inspektim nga publiku i cili regjistron për çdo Institucion Financiar, emrin, adresat e drejtorisë qendrore dhe degëve dhe kopjet aktuale të aktit të themelimit apo dokumentacionit të ngjashëm të themelimit dhe akteve nënligjore. Një listë e të gjitha Institucioneve Financiare, licencat ose regjistrimet e të cilave janë anuluar gjithashtu mbahet në regjistër, por largohet dokumentacioni i tyre i themelimit dhe aktet nënligjore.

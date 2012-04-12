@@ -1,0 +1,4 @@
+# Neni 18
+Dividenda dhe Shpërndarjet Tjera të Kapitalit
+1. Asnjë bankë nuk duhet të paguajë ndonjë dividendë apo bëjë ndonjë shpërndarje tjetër të kapitalit pa miratimin e BQK-së. Në asnjë rrethanë nuk jepet miratimi, nëse sipas mendimit të BQK-së, pas kësaj shpërndarjes, banka do të kishte më pak kapital minimal të paguar ose rregullativ që kërkohet me këtë ligj apo me rregullore ose urdhëresë të BQK-së.
+2. Paragrafi 1 i këtij neni nuk zbatohet për bankën e huaj që është e licencuar për të operuar një ose më shumë degë në Kosovë, përveç nëse banka kërkohet nga BQK-ja që të mbaj në depozitë ekuivalente të kapitalit sipas paragrafit 2. të nenit 17 të këtij ligji dhe pagesa e dividendës ose shpërndarjes së kapitalit do t’ia pamundësonte bankës që të plotësojë kërkesën për depozitim të kapitalit ekuivalent.

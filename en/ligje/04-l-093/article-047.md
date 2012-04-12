@@ -1,0 +1,9 @@
+# Article 47
+Transactions with Bank-Related Persons
+1. No bank shall enter into a transaction with or for the benefit of a Bank-Related Person, if such transaction would be entered into on less favorable terms and conditions to the bank, or not at all, if such counterparty were not related to the bank.
+2. Notwithstanding the foregoing, no bank shall have an exposure to or for the benefit of a Bank- Related Person if, as a result thereof, the aggregate amount outstanding to, or for the benefit of, Bank-Related Persons would exceed ten percent (10%) of the bank's Tier 1 capital.
+3. Exposures provided by a bank to a bank-related individual are subject to the prior approval of the Board of Directors of the bank, except to the extent that the CBK exempts exposures below a de minimis threshold as determined by the CBK. Every exposure provided by a bank to a bank- related individual shall be promptly reported to the Board of Directors of the bank.
+4. If an exposure has been provided by a bank to a Bank-Related Person in violation of the provisions of this Article, such exposure must be immediately repaid, and the members of the Board of Directors, or the designated branch manager, as the case may be, shall be personally liable, jointly and severally, for payment of principal of, and interest and other charges on, exposure granted in violation of this section with their knowledge and without their objection.
+5. Exposure extended by any bank to any Bank-Related Person shall be subject to such additional conditions or restrictions as shall be prescribed by regulation.
+6. The CBK shall deduct any lending to a Bank-Related Person from capital for purposes of calculating regulatory capital ratios pursuant to Article 15 and Article 16 of this Law.
+7. This article shall not apply to a foreign bank that is licensed to operate one or more branches in Kosovo.

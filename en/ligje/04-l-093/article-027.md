@@ -1,0 +1,6 @@
+# Article 27
+Meetings of the Board of Directors
+1. A session of the Board of Directors shall be held when necessary, and at least once a quarter. At least once a year one of the quarterly meetings must be held in Kosovo. Other than the annual meeting held in Kosovo, all other meetings may be held via teleconferencing or other electronic means.
+2. Chairman of the Board of Directors shall convene the sessions upon request of the Chief Executive Officer of the bank or two (2) members of the Board of Directors no later than fourteen (14) days from the day of submission of the request, otherwise person who submitted the request shall be authorized for convening the session. However, provided that all members of the Board of Directors are invited and the invitation is accompanied by an Agenda, a majority of members of the Board of Directors may convene an emergency session within three (3) days of the vote to convene such emergency session of the Board of Directors. All provisions of this Article apply to emergency meetings of the Board of Directors.
+3. Decision of the Board of Directors shall be valid when majority of its members are present and vote.
+4. Decisions shall be taken by simple majority of votes of the members present, excluding the case when in the bank Statute is foreseen a higher majority.
