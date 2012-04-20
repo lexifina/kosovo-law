@@ -1,5 +1,0 @@
-# Neni 16
-16.1. Me rekomandimin e Shefit Ekzekutiv, Këshilli cakton një skemë për tarifat e licencës, për kategori të ndryshme të licencave të transmetimit që do të paguhen për çdo vit nga të licencuarit. Në caktimin e orarit, Zyra e Shefit Ekzekutiv i merr parasysh kushtet mbizotëruese dhe ato të projektuara të tregut. Tarifa e licencës do të jetë e njëjtë në kuadër të çdo kategori të licencave. Orari i tarifave i paraqitet Këshillit për aprovim.
-16.2. Zyra e Shefit Ekzekutiv e rishikon dhe mund të bëjë ndryshime në orarin e tarifave të licencave çdo dy (2) vjet.
-16.3. Tarifat vjetore të licencave mblidhen nga Zyra e Shefit Ekzekutiv. Paratë e mbledhura do të depozitohen në tërësi në një xhirollogari të KPM-së që caktohet nga autoriteti qeveritar kompetent për çështjet fiskale. Zyra e Shefit Ekzekutiv do të jetë përgjegjëse për mirëmbajtjen e shënimeve për të gjitha pagesat e tarifave të licencave. Ky proces do t’u nënshtrohet procedurave normale të revizionit, ashtu siç parashihen nga autoriteti qeveritar kompetent për çështjet fiskale.
-Reklamimi

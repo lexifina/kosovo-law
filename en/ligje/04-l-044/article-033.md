@@ -1,0 +1,6 @@
+# Article 33
+Protection of children and juveniles
+1.IMC will undertake appropriate measures to ensure that television broadcasters by broadcasters under their jurisdiction shall include no programme which might seriously damage the physical, mental and ethic development of juveniles, in particular programmes with a pornographic content or extreme violence.
+2.Measures provided from paragraph 1 of this Article shall also have the effect in other programmes which might damage the physical, mental and ethic development of juveniles except the cases when it was ensured, by selecting the time by the broadcaster or by any technical measure, that the juveniles in the area of broadcasting will not see or hear such broadcasting.
+3.Meantime, when such programmes are broadcasted in an un-coded way, ICM will ensure that they shall be accompanied by an acoustic remark or shall be identified by the presence of a visual symbol in their duration.
+4.Audiovisual media services with payment that may seriously damage the physical, mental and ethic development of juveniles shall be available only in the way that it is ensured that the juveniles, in normal circumstances, will not see or hear such audiovisual media services with payment.

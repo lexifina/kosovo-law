@@ -1,0 +1,6 @@
+# Neni 33
+Mbrojtja e fëmijëve dhe e të miturve
+1. KPM-ja do të ndërmarrë masat e duhura për të siguruar që transmetuesit televiziv nga transmetuesit nën juridiksionin e tyre nuk përfshijnë asnjë program i cili mund të dëmtonte në mënyrë serioze zhvillimin fizik, mental dhe moral të të miturve, në veçanti programet më përmbajtje pornografike ose dhunë ekstreme.
+2. Masat e ofruara nga paragrafi 1 kanë efekt po ashtu në programet tjera të cilat do të mund ta dëmtonin zhvillimin fizik, mental dhe moral të të miturve me përjashtim të rasteve kur është siguruar, me anë të selektimit të kohës nga transmetuesi ose nga ndonjë masë teknike, që të miturit në hapësirën e transmetimit nuk do ta shohin ose dëgjojnë transmetimin e tillë.
+3. Në ndërkohë, kur programet e tilla transmetohen në formë të pakoduar, KPM-ja do të sigurojë që ato janë të shoqëruara nga një vërejtje akustike ose janë të identifikuara me prezencën e një simboli pamor gjatë kohëzgjatjes së tyre.
+4. Shërbimet mediale audiovizuele me pagesë që mund të dëmtojnë seriozisht zhvillimin fizik, mendor apo moral të të miturve vihen në dispozicion vetëm në atë mënyrë që siguron se të miturit, në rrethana normale, nuk do t’i shohin apo dëgjojnë shërbimet e tilla mediale audiovizuele me pagesë.

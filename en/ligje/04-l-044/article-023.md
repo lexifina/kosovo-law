@@ -1,0 +1,8 @@
+# Article 23
+Issuance of licenses for audiovisual media services
+1. When the IMC decides to issue new broadcasting licenses for audiovisual media services, it shall widely publish a notice to this effect through the Executive Office. The notice shall include all relevant information about proposed licenses for audiovisual media services, the process for submitting applications, information required from applicants, the methodology and criteria for assessing license applications for audiovisual media services, and any other applicable fee for application and category of license.
+2. The IMC shall, through licensing, allocate sufficient frequencies that are available according to the frequencies plan for Kosovo, for Public Broadcaster making possible to offer radio television frequencies covering to a maximal possible level for population of Kosovo.
+3. The IMC shall, within thirty (30) days following the closing date for applications, decide on a competitive basis whether to issue a license to an applicant or not, according to the rules set in Article 21 and 22 of this Law.
+4. The IMC may, in exceptional circumstances, extend the deadline up to a maximum of sixty (60) days. When the closing date is extended, the Executive Office shall inform all applicants and the public of the extension of deadline and the reasons for thereof.
+5. The Executive Office shall provide applicants and other interested parties with an effective opportunity to make their representations before the IMC.
+6. The activity of providing the audio and/or audiovisual media services by order may be carried out by legal or natural persons that meet the requirements determined in sub-legal acts issued by the IMC.

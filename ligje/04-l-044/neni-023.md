@@ -1,0 +1,8 @@
+# Neni 23
+Lëshimi i licencave për shërbime mediale audiovizuele
+1. Kur KPM-ja vendos të lëshojë licenca të reja për shërbime mediale audiovizuele, do ta publikojë gjerësisht një njoftim për këtë qëllim përmes Zyrës Ekzekutive. Në njoftim përfshihet i tërë informacioni përkatës për licencat e propozuara të shërbimeve mediale audiovizuele, procesi për dorëzimin e aplikacioneve, informacioni që kërkohet nga kandidatët, metodologjia dhe kriteret për vlerësimin e aplikacioneve për licencat e shërbime mediale audiovizuele, dhe tarifat e përcaktuara për aplikacionin dhe për kategorinë e licencës.
+2. KPM-ja, përmes licencimit, duhet që të ndajë frekuenca të mjaftueshme, të disponueshme sipas planit frekuencor për Kosovën, për Transmetuesin Publik për t’i mundësuar që t’i ofrojë popullsisë së Kosovës një mbulim radio televiziv deri në masën maksimale të mundshme.
+3. KPM-ja, brenda tridhjetë (30) ditësh pas përfundimit të datës për aplikim, vendos mbi bazat e konkurrimit se a do t’ia lëshojë licencën një aplikanti, sipas rregullave të përcaktuara në nenet 21 dhe 22 të këtij ligji.
+4. Në rrethana të jashtëzakonshme, KPM-ja mund të zgjasë afatin e kufizimit deri në maksimum gjashtëdhjetë (60) ditësh. Kur data e përfundimit zgjatet, Zyra Ekzekutive i informon të gjithë aplikantët dhe publikun për zgjatjen e afatit dhe arsyet për këtë.
+5. Zyra Ekzekutive, aplikantëve dhe palëve të interesuara, u ofron mundësinë efektive që të bëjnë paraqitjen e tyre para KPM-së.
+6. Aktiviteti i ofrimit të shërbimeve mediale audio dhe/apo audiovizuele me porosi mund të kryhet nga personat juridikë apo fizikë të cilët i përmbushin kushtet e përcaktuara në aktet nënligjore të nxjerra nga KPM-ja.
