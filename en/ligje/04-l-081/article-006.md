@@ -1,0 +1,3 @@
+# Article 6
+1. Article 6 of the basic law paragraph 6.4 is amended and reworded as follows:
+6.4. Directorates take steps to identify the nature and extent of the need for social and family services within their territory. They prepare annual plans for developing and maintaining social and family services and maintain a database and develop statistics according to the recommendations of the Ministry. The municipality, through the relevant directorate, presents an annual report on activities related to social and family services and special reports on concrete cases with high risk or interest, at the request of the Ministry.
