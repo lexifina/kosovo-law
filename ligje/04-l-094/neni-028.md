@@ -1,0 +1,5 @@
+# Neni 28
+Përjashtimi nga obligimet e përgjithshme për monitorim
+1. Ofruesit e shërbimeve të shoqërisë informatike, kur ofrojnë shërbimet që përfshihen në nenet e këtij kreu nuk kanë obligime të veçanta për të monitoruar informacionin që ata e transmetojnë ose e ruajnë e as obligime të përgjithshme që aktivisht të kërkojnë fakte ose rrethana ku tregohet aktiviteti ilegal.
+2. Ofruesit e shërbimeve të shoqërisë informatike me shpejtësi do të informojnë autoritetet publike kompetente sipas legjislacionit ne fuqi për çështjen e pretenduar të aktivitetit ilegal të ndërmarrë ose informacionit të dhënë nga marrësi i shërbimeve të tyre dhe do t'i japin çdo autoriteti të tillë në bazë të kërkesës, informacionin që mundëson identifikimin e marrësve në shërbimet e tyre me të cilët ata kanë marrëveshje për ruajtje.
+3. Asgjë në këtë nen nuk interpretohet si detyrim ndaj ofruesve të shërbimeve të shoqërisë informatike për të monitoruar informacionin që ata transmetojnë ose e ruajnë ose që aktivisht të kërkojnë fakte ose informacion shtesë që dëshmon aktivitet ilegal në lidhje me aktivitetet e përshkruara në nenet 24, 25 dhe 26 të këtij ligji.

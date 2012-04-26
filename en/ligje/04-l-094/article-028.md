@@ -1,0 +1,5 @@
+# Article 28
+Exemption from General Obligation for Monitoring
+1. Information Society service providers, when providing the services covered by the Articles in this Chapter, have no general obligation to monitor the information which they transmit or store, nor a general obligation actively to seek facts or circumstances indicating illegal activity.
+2. Information society service providers shall promptly inform the public authorities competent according to the legislation in force in the matter alleged illegal activity undertaken or information provided by recipient of their service and shall grant to any such authority upon request information enabling the identification of recipients in their services with whom they have storage agreements.
+3. Provided that nothing in this Article shall be interpreted as imposing an obligation on Information Society service providers to monitor the information which they transmit or store or to actively seek fact or circumstances indicating illegal activity in connection with activities described in Articles 24, 25 and 26 of this Law.

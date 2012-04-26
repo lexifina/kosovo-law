@@ -1,0 +1,5 @@
+# Neni 34
+Performanca
+1. Përveç në rastet kur palët merren vesh ndryshe, furnizuesi duhet ta kryejë porosinë brenda tridhjetë (30) ditësh nga dita në vazhdim në të cilën konsumatori ka paraqitur porosinë tek furnizuesi.
+2. Kur furnizuesi nuk e plotëson pjesën e vet të kontratës me arsyen se mallrat ose shërbimet e porositura nuk janë në dispozicion, konsumatori duhet të informohet për këtë situatë dhe duhet t’i kthehet shuma që ka paguar menjëherë dhe jo më vonë se tridhjetë (30) ditë.
+3. Furnizuesi mund t’i ofrojë konsumatorit mallra ose shërbime të cilësisë së lartë por me çmim të njëjtë, me kusht që kjo mundësi të jetë ofruar para lidhjes së kontratës ose pasi të lidhet ajo. Kostoja e kthimit të mallit në pasim të ushtrimit të së drejtës për t’u tërhequr në çdo rast duhet të mbulohet nga furnizuesi, kurse konsumatori duhet të informohet për këtë gjë. Në raste të tilla furnizimi i mallrave nuk mund të merret se përbën shitje inerciale bazuar në nenin 36 të këtij ligji.
