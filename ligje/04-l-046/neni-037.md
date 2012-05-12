@@ -1,0 +1,6 @@
+# Neni 37
+Mbikëqyrja e funksionimit të RTK-së
+1. Mbikëqyrja e veprimtarisë së RTK-së kryhet nga organet e autorizuara për një gjë të tillë nga ligji dhe Statuti.
+2. Një trup i auditorëve është përgjegjës për mbikëqyrjen e rregullsisë dhe përputhshmërisë së veprimeve dhe auditimin e akteve për veprimet dhe akteve për veprimet e planifikuara të RTK-së në kuadër të kornizës së kompetencave që i ushtron mbi subjektet që kryejnë veprimtari publike.
+3. Përveç personave të autorizuar për të kërkuar përgjegjësi në emër të anëtarëve të organeve menaxhuese dhe mbikëqyrëse të përcaktuara nga ligji, Kuvendi i Kosovës gjithashtu është i autorizuar të kërkojë një përgjegjësi të tillë.
+4. Bordi i RTK-së e merr një raport auditimi nga një ekspert i pavarur i auditimit për çdo vit deri më 1 qershor. Ekspert i auditimit nuk mund të jetë një person i cili, gjatë dy (2) viteve para marrjes së detyrës nga Drejtori i Përgjithshëm ose nga Bordi i RTK-së, ka bashkëpunuar në çfarëdo mënyre në cilësi komerciale me RTK-në ose me subjektet e lidhura me të. RTK-ja dhe subjektet e lidhura me të nuk mund të bashkëpunojnë në cilësi komerciale me ekspertin e përzgjedhur të auditimit për dy (2) vite pas dorëzimit të raportit të auditimit.
