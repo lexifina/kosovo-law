@@ -1,0 +1,3 @@
+# Article 15
+1. The members of the Commission and the authorized person of MF, compile the minutes and sign it in four (4) original copies, which shall at least contain the location and time, the way of withdrawing winning numbers, the number of sold Tickets, respectively the total payment of the round or series, withdrawn winning combination and the possible remarks given by the Participants of the game.
+2. The report on the results of withdrawal or on the defining of winnings must be announced publicly by the Organizer immediately, but not later than seven (7) days from the date of the withdrawing of the winning numbers.

@@ -1,0 +1,3 @@
+# Neni 15
+1. Anëtarët e Komisionit dhe personi i autorizuari i MF-së, bëjnë procesverbal dhe nënshkruajnë katër (4) kopje origjinale, që së paku duhet të përmbajnë vendin dhe kohën, mënyrën e tërheqjes së numrave fitues, numrin e tiketave të shitura, përkatësisht pagesën e përgjithshme në xhiro apo në seri, kombinacionet fituese të tërhequra si dhe vërejtjet e mundshme të dhëna nga pjesëmarrësit në lojë.
+2. Raportin për rezultatet e tërheqjes apo për caktimin e fitimeve, organizatori duhet ta shpallë publikisht menjëherë, por jo më vonë se shtatë (7) ditë nga dita e tërheqjes së numrave fitues.
