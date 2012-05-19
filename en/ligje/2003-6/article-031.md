@@ -1,3 +1,0 @@
-# Article 31
-31.1. Libraries create and enrich their collections, in accordance with their type of library and the function they have, as well as with the needs of their users;
-31.2. The creation and enrichment of collections, as regards their volumes and structure, are developed on the basis of professional criteria for their safety and presentation of librarian materials containing information about literary, artistic and scientific creation at the country and world levels, on the principles of respecting civic, political and cultural rights of all the citizens, and on the principle of collection and presentation of librarian materials in the works in which cultural, ethnic, linguistic and democratic values are expressed, affirmed and developed.

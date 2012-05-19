@@ -1,7 +1,0 @@
-# Neni 2
-2.1. Biblioteka është institucion kulturor, edukues e informues, që grumbullon, pasuron, përpunon, mirëmban dhe ruan koleksionet e veta nga fushat e ndryshme të krijimtarisë dhe të veprimtarisë intelektuale, të përvojës e të opinionit njerëzor me qëllim që t’i bëjë të njohura dhe t’ua vë në dispozicion shfrytëzuesve për t’i lexuar, hulumtuar e studiuar dhe për t’i lënë në trashegimi gjeneratave te ardhshme.
-2.2. Biblioteka shërben për përhapjen e njohurive, kulturës, arsimit, shkencës dhe u ofron shfrytëzuesve mundësi për edukim, informacione dhe zhvillim personal kulturor, profesional, krijues, komunikues dhe qytetar.
-Biblioteka u mundëson qytetarëve realizimin e të drejtës për qasje të lirë në bibliotekë, të drejtën e kërkimit dhe të marrjes së informacioneve e të njohurive nga koleksionet bibliotekare dhe burimet tjera në çfarëdo forme, si dhe nxitë interesimin dhe shprehinë e qytetarëve për të mësuarit gjatë gjithë jetës, për zhvillimin e vazhdueshem të njohurive dhe mirëqenie shpirtërore.
-2.4. Biblioteka nxitë dhe ndihmon afirmimin e vlerave demokratike dhe perpjekjet për shoqëri të hapur e tolerante dhe për komunikimin universal të fryteve intelektuale.
-2.5. Biblioteka siguron mundësi të barabarta për shfrytëzuesit në ofrimin dhe përdorimin e informacioneve e shërbimeve bibliotekare.
-2 2.6. Në bashkësitë me më shumë gjuhë, kërkesat e pakicave etnike merren parasysh në kushte të barabarta dhe interesat e tyre kulturore prezantohen në materialet bibliotekare.

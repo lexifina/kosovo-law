@@ -1,0 +1,6 @@
+## KREU III
+## BOTIMET DHE MATERIALET BIBLIOTEKARE
+# Neni 23
+Botimet
+1. Çdo person ose subjekt që nxjerr botime në Kosovë, të cilat i dedikohen përdorimit publik, obligohet që pesë (5) ekzemplarë të çdo botimi t’ia dërgojë Bibliotekës Kombëtare të Kosovës në afat prej tridhjetë (30) ditësh nga dita e botimit. Nëse botuesi nuk është i identifikuar ose është i identifikuar rrejshëm, i panjohur, përkatësisht nuk ka vendqëndrim ose seli në Kosovë, këtë obligim do ta kryej shtypshkronja, përkatësisht subjekti që ka bërë botimin.
+2. Botime konsiderohen librat e shtypura dhe elektronike, materiali jo libër që nënkupton fonodokumentet, fotodokumentet, materiali i imët bibliotekar, broshurat, separatët, revistat, gazetat, riprodhimet artistike, veprat muzikore të shkruara në partitura, hartat gjeografike, atlaset, globuset e të gjitha llojeve, planet urbanistike, pllakatet, katalogët, programet, materialet braile, diapozitivat si dhe pjesët e tyre përbërëse a shoqëruese të riprodhuara në mënyrë grafike, CD-Rom-ët, DVD-të, disqet e gramafonit dhe kompakt-disqet, kasetat audio dhe vizuale të regjistruara, disketat kompjuterike të regjistruara dhe veprat tjera që riprodhohen me shtypshkrim ose në një mënyrë tjetër të ngjashme.
