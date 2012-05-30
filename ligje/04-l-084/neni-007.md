@@ -1,0 +1,5 @@
+# Neni 7
+Lartësia e pensioneve të pjesëtarit aktiv të FSK-së
+1. Lartësia e pensionit të rregullt të pjesëtarit aktiv të FSK-së llogaritet në bazë të përqindjes së pagës bruto të pjesëtarit dhe kohës së shërbimit. Paga bazohet në gradën e pjesëtarit të FSK-së, në momentin e pensionimit.
+2. Baza e pensionit të rregullt të pjesëtarit aktiv të FSK-së është dyzet përqind (40%) e pagës bruto së pjesëtarit të FSK-së në momentin e pensionimit. Për çdo vit shërbimi si pjesëtar aktiv i FSK, koeficienti i përqindjes rritet për dy përqind (2%), por nuk mund të kaloj gjashtëdhjetë përqind (60%) e pagës bruto.
+3. Lartësia e pensionit invalidor të pjesëtarit të FSK-së llogaritet varësisht nga shkalla e paaftësisë së përhershme për punë të fituar në shërbim. Pjesëtari aktiv realizon pensionin invalidor nga njëzet deri njëqind përqind (20-100%) të pagës bruto, në momentin e invaliditetit. Për çdo vit të shërbimit, si pjesëtar aktiv i FSK-së, pagesa financiare rritet për dy përqind (2%) në koeficientin e përqindjes, por nuk mund ta kaloj njëqind përqind (100%) të pagës bruto.

@@ -1,0 +1,5 @@
+# Article 7
+The amount of KSF active member’s pension
+1. The amount of KSF active member’s pension shall be calculated on a percentage of member’s gross salary and time of service. The salary shall be based on the KSF member’s rank at the moment of retirement.
+2. The base pension payment for the KSF active member is forty percent (40%) of the KSF member’s gross salary at the moment of the retirement. For every year of service as active KSF member, the coefficient increases for two percent (2%), but it cannot exceed sixty percent (60%) of the gross salary.
+3. The amount of a KSF member’s disability pension shall be calculated depending on the degree of permanent disability for work gained during the service. The active member enjoys a disability pension from twenty to one hundred percent (20-100%) of the gross salary, at the time of disability. For each year of service as KSF Active member, the financial payment increases for two percent (2%) in the percentage coefficient, but it cannot exceed one hundred percent (100%) of gross salary.
