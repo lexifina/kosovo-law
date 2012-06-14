@@ -1,0 +1,5 @@
+# Neni 4
+1. Neni 40 i ligjit bazik, paragrafi 2. riformulohet si në vijim:
+2. Tatimpaguesi i cili nuk pajtohet me vendimin e Departamentit të Ankesave mund të iniciojë procedurën e ankesës në pajtim me nenin 9 të Ligjit për plotësimin dhe ndryshimin e Ligjit për Administratën Tatimore dhe Procedurat Nr. 03/L-222. Procedurat e ankimit duhet të zhvillohen në përputhje me dispozitat e përcaktuara në nenin 10, 11 dhe 12 të Ligjit për plotësimin dhe ndryshimin e Ligjit për Administratën Tatimore dhe Procedurat Nr.03/L-222.
+2. Neni 40 i ligjit bazik, paragrafi 3. riformulohet si në vijim:
+3. Ndaj vendimit të Bordit të Pavarur për Rishqyrtime mund të ushtrohet ankesë në pajtim me procedurat e përcaktuara në nenin 9 të Ligjit për ndryshim dhe plotësim të Ligjit për Administratën Tatimore dhe Procedurat Nr. 03/L-222. Procedura e ankimit do të zhvillohet në pajtim me dispozitat e përcaktuara në nenin 10, 11 dhe 12 të Ligjit për plotësimin dhe ndryshimin e Ligjit për Administratën Tatimore dhe Procedurat Nr. 03/L-222.

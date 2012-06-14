@@ -1,0 +1,7 @@
+PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJIT PËR TATIMIN NË TË
+ARDHURAT E KORPORATAVE Nr. 03/L-162
+Kuvendi i Republikës së Kosovës;
+Në bazë të nenit 65 (1) të Kushtetutës së Republikës së Kosovës,
+Miraton
+LIGJ PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJIT PËR TATIMIN NË TËARDHURAT E
+KORPORATAVE Nr. 03/L-162
