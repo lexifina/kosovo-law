@@ -1,0 +1,6 @@
+# Neni 3
+1. Nenit 77 i ligjit bazik paragrafi 6. riformulohet si në vijim:
+6. Një tatimpagues i cili nuk e pranon vendimin e Sektorit të Ankesave mund të ankohet në Bordin e Pavarur për Rishqyrtime brenda tridhjetë (30) ditëve pas pranimit të njoftimit për vendim, për të gjitha vendimet e pranuara deri më 30 nëntor 2012. Duke filluar nga 1 dhjetori 2012, gjykata kompetente përgjegjëse për të pranuar ankesat kundër vendimeve të Sektorit të Ankesave duhet të jetë Divizioni Fiskal i Departamentit Administrativ të Gjykatës Themelore të
+Prishtinës. Afati brenda të cilës duhet të dorëzohet ankesa tek gjykata kompetente duhet të jetë tridhjetë (30) ditë nga data e pranimit të vendimit të Sektorit të Ankesave.
+2. Neni 77 i ligjit bazik paragrafi 8. riformulohet si në vijim:
+8. Kur Sektori i Ankesave nuk ka dorëzuar një vendim brenda gjashtëdhjetë (60) ditëve nga data kur ankesa është dorëzuar, tatimpaguesi mund të ankohet ndaj vlerësimit të çdo vendimi tjetër zyrtar drejtpërdrejtë në Bordin e Pavarur për Rishqyrtime, deri më 30 nëntor 2012. Duke filluar nga 1 dhjetori 2012, nëse Sektori i Ankesave nuk ka dorëzuar ndonjë vendim brenda gjashtëdhjetë (60) ditëve nga data kur ankesa është dorëzuar, tatimpaguesi mund të ankohet drejtpërdrejtë për vlerësimin fiskal ose ndonjë vendim tjetër zyrtar në gjykatën kompetente, siç është përkufizuar në nenin 3 të këtij ligji.
