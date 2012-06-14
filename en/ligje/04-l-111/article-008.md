@@ -1,0 +1,11 @@
+# Article 8
+1. Article 15 of the basic Law, paragraph 15.1 shall be reworded as following:
+15.1. The Board of Directors of a Central POE shall consist of five (5) or seven (7)
+Directors, where one (1) of them should be of non-majority community. All Directors, with the exception of one, shall be elected by the Government, and each such elected director shall have a term of three (3) years. The other director shall be the POE’s CEO, who shall be selected by the POE’s Board of Directors in accordance with Article 21 of this Law. In electing directors of the Board of Directors of a Central POE, the Government may only elect persons recommended to the Government by the relevant Recommendation Committee established by paragraph 2 of this Article. In electing directors, the Government shall ensure that from the list of recommendations at least two (2) directors are proficient in, or at least have an adequate knowledge of accountancy as required by Article 17.4 of Law No.03/L-087on Publicly Owned Enterprises.
+2. Article 15 of the basic Law, after paragraph 15.13 there is added a new paragraph 15.14 with the following text:
+15.14. Municipal Participation on the Boards of Regional Water Companies:
+a) at the Board of Directors for each RWC, the Government shall appoint at least half of the Directors from amongst candidates nominated by the Municipalities serviced by such RWC.
+b) the respective Municipalities shall submit to the Government a number of candidates fulfilling the criteria defined in this Law, which is at least three (3) more than the number of available director positions reserved for municipal representatives.
+c) if the respective municipalities do not nominate sufficient numbers of eligible candidatesto to serve as Directors, the municipalities will have one additional opportunity after six (6) months to submit new eligible candidates. In the interim, the Government may appoint a qualified interim Director.
+d) if the municipalities do not nominate eligible candidates for election within the additional six (6) month period, the Government shall appoint a qualified Director to serve for the remainder of the term.
+e) the nomination and appointment procedure for municipal candidates shall be set forth in a sub-legal act issued in accordance with this Law.

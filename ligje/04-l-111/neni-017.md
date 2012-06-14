@@ -1,0 +1,3 @@
+# Neni 17
+Neni 30 i ligjit bazik, paragrafi 30.1. pjesa e par e paragrafit ndryshohet dhe riformulohet si në vijim:
+30.1. Deri me 31 Tetor të çdo viti kalendarik, zyrtarët e secilës NP duhet të përgatisin Planin e Biznesit për vitin e ardhshëm kalendarik në pajtueshmëri me politikat zhvillimore të sektorit që i bën Ministria e Linjës dhe në përputhshmëri me Planet zhvillimore komunale. Ky plan duhet që së pari t’i dorëzohet për miratim Bordit të Drejtorëve. Pas miratimit, Plani Afarist i dorëzohet, për qëllime të informimit vetëm,sipas rastit, Ministrit ose Komisionit(eve) përkatëse Komunale të Aksionarëve. Plani i Biznesit mund të rishikohet pas gjashtëmujorit të parë të vitit. Plani Afarist duhet të analizojë së paku, si vijon:

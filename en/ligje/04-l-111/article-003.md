@@ -1,0 +1,2 @@
+# Article 3
+Article 5 of the basic Law, paragraph 5.1 in the second part of the paragraph, after the sentence “The select committee shall always include…”, the text “the Minister of Economy and Finance” shall be deleted and replaced with “the relevant Minister for Economic Development”; “Minister of Energy and Mining” shall be deleted and replaced with “relevant Minister for Finance”; “Minister of Transport and Telecommunications” shall be deleted and replaced with “Minister of Infrastructure”.

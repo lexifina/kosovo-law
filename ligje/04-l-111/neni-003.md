@@ -1,0 +1,2 @@
+# Neni 3
+Neni 5 i ligjit bazik, paragrafi 5.1. në pjesën e dytë të paragrafit, pas fjalisë “Komisioni i zgjedhur gjithnjë duhet të përfshijë...”, fshihet “Ministrin e Ekonomisë dhe Financave” dhe zëvendësohet me tekstin “Ministrin përkatës për Zhvillim Ekonomik”, fshihet “Ministrin e Energjisë dhe Minierave” dhe zëvendësohet me “Ministrin përkatës për Financa”, fshihet “Ministrin e Transportit dhe Postë- Telekomunikacionit” dhe zëvendësohet me “Ministrin e Infrastrukturës”.

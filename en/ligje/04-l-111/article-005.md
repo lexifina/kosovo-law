@@ -1,0 +1,4 @@
+# Article 5
+1. Article 9 of the basic Law, paragraph 9.2. point (i), the naming “Minister of Economy and Finance” shall be deleted and replaced with the text, “Minister of the relevant Ministry of Economic Development.
+2. Article 9 of the basic Law, paragraph 9.3 shall be reworded with the following text:
+9.3 The Government Privatization Committee shall be supported by a Privatization Implementation Unit that shall be established for this purpose by the Minister within the POE Policy and Monitoring Unit of the relevant Ministry for Economic Development. The Privatization Implementation Unit shall be directly accountable to the Government Privatization Committee and it shall include or be supported by professional external advisors as the Government Privatization Committee may deem necessary.

@@ -1,0 +1,5 @@
+LAW No. 04/L-111 ON AMENDING AND SUPPLEMENTING THE LAW No. 03/L-087 ON PUBLICLY OWNED ENTERPRISES
+Assembly of the Republic of Kosovo,
+Based on Article 65 (1) of the Constitution of the Republic of Kosovo,
+Approves
+LAW ON AMENDING AND SUPPLEMENTING THE LAW No. 03/L-087 ON PUBLICLY OWNED ENTERPRISES
