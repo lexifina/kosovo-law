@@ -1,0 +1,7 @@
+# Article 18
+1. Article 31 of the basic law, sub-paragraph 1.5. shall be reworded with the following text:
+1.5. the supply of services, including transport and ancillary services, but excluding the services exempted in accordance with Articles 27 and 28, where these are directly connected with the exportation or importation of goods. In regard of importation the exemption only apply for services that shall be included in the taxable amount according to sub-paragraph 1.4.2. of Article 25 of the basic law.
+2. Article 31 of the basic law, paragraph 2 the text after sub-paragraph 2.1.3. shall be deleted and replaced with the following text:
+“A traveler who is not settled within Kosovo shall mean a traveler whose permanent address or habitual residence is not located within Kosovo. In that case “permanent address or habitual residence” means the place entered as such in a passport, identity card or other document. Proof of exportation shall be furnished by means of the invoice or other documents in lieu thereof, endorsed by the customs office on exit from Kosovo.”
+3. Article 31 of the basic law, sub-paragraph 2.2 shall be reworded with the following text:
+2.2. the application of the exemption referred to in paragraph 2. of this Article, shall be defined by a sub-legal act which shall be issued by the Minister of Finance who shall also define the date from which the exemption shall begin to be applied.
