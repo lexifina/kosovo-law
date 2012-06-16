@@ -1,0 +1,5 @@
+LIGJI NR. 04/L-099 PËR NDRYSHIMIN DHE PLOTËSIMIN E KODIT NR. 03/L-109 DOGANOR DHE TË AKCIZAVE NË KOSOVË
+Kuvendi i Republikës së Kosovës;
+Në bazë të nenit 65 (1) të Kushtetutës së Republikës së Kosovës,
+Miraton
+LIGJ PËR NDRYSHIMIN DHE PLOTËSIMIN E KODIT NR. 03/L-109 DOGANOR DHE TË AKCIZAVE NË KOSOVË
