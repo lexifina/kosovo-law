@@ -1,0 +1,6 @@
+# Article 7
+1. Article 7 of the basic law, paragraph 7.1 the phrase “as per Article 4 point 1 (a) shall receive social assistance up to six (6) months” shall be deleted and replaced with the phrase “ for the first category shall receive social assistance up to twelve (12) months”.
+2. Article 7 of the basic law, paragraph 7.2 shall be reworded with the following text:
+7.2. Family which has acquired the right to social assistance as per second category shall receive social assistance up to six (6) months, with the condition that it will meet envisaged criteria during such period and shall take necessary employment measures, as requested by respective bodies. The respective bodies, require from the family member certified as jobseekers, evidence on attempts made to finding a job. Ministry, issues a sub-legal act on methods of jobseekers reporting at Employment Office, evidence on attempts to finding a job and the timeframes.
+3. Article 7 of the basic law, after paragraph 7.2 new paragraph 7.3 shall be added with the following text:
+7.3. After deadline of one (1) year, respectively six (6) months, family, individual, must submit a new request for the extension of the social assistance entitlement.

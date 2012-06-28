@@ -1,0 +1,6 @@
+# Neni 7
+1. Neni 7 i ligjit bazik, paragrafi 7.1.,togfjalëshi “ në përputhje me nenin 4, pika 1 (a) do të marrë ndihma sociale deri në gjashtë (6) muaj ” fshihet dhe zëvendësohen me togfjalëshin “ për kategorinë e parë do të marrë ndihma sociale deri në dymbëdhjetë (12 ) muaj”.
+2. Neni 7 i ligjit bazik, paragrafi 7.2. riformulohet me tekstin si në vijim:
+7.2. Familja që ka fituar të drejtën në ndihmë sociale për kategorinë e dytë do të marrë ndihmë sociale deri në gjashtë (6) muaj, me kusht që t’i përmbushë kriteret e parashikuara gjatë kësaj periudhe dhe të ndërmarrë veprime të nevojshme për punësim, sipas kërkesës së organeve përkatëse. Organet përkatëse kërkojnë nga anëtari i familjes i cili është i certifikuar si punëkërkues, dëshmi mbi orvatjet e tij për të gjetur punë. Ministria, nxjerr akt nënligjor për mënyrën e paraqitjes së punëkërkuesve, në Zyrën e punësimit, dëshmitë mbi orvatje për të gjetur punë dhe afatet kohore.
+3. Neni 7 i ligjit bazik, pas paragrafit 7.2. shtohet paragraf i ri 7.3. me tekstin si në vijim:
+7.3. Pas kalimit të afatit të periudhës prej një (1) viti, përkatësisht, gjashtë (6) muaj, familja, individi, duhet të bëjë kërkesë të re për vazhdimin e të drejtës për ndihmë sociale.
