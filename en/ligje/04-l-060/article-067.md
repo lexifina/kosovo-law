@@ -1,0 +1,2 @@
+# Article 67
+Inspector's obligations for interaction If performing the inspective monitoring of waste management, if the inspector estimates that besides of this law violation provisions and sub-legal acts issued under it, are violated the provisions of other laws relevant to environmental protection, he is obliged that in addition of undertaken measures for which have been authorized, to inform the other competent entity, in order to jointly carry out inspection supervision and to take measures foreseen by the law.

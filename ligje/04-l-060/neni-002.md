@@ -1,0 +1,2 @@
+# Neni 2
+Fushëveprimi Ky ligj rregullon menaxhimin e mbeturinave, planet për menaxhimin e mjedisit, të drejtat dhe detyrimet e personave të licencuar të cilët merren me menaxhimin e mbeturinave, mënyra dhe kushtet e mbledhjes së mbeturinave, transportit, trajtimit, përpunimit, magazinimit dhe deponimit përfundimtar, importin, eksportin dhe transitin e mbeturinave, monitorimin, sistemin informativ dhe financimin.

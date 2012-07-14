@@ -1,0 +1,11 @@
+# Neni 34
+Menaxhimi i mbeturinave komunale 1. Mbeturinat komunale duhet të mblidhen, grumbullohen trajtohen dhe menaxhohen në përputhje me dispozitat e këtij ligji dhe dispozitave tjera ligjore për rregullimin e veprimtarive komunale.
+2. Komunat, me akt nënligjorë, përcaktojnë kushtet dhe rregullat për menaxhimin e mbeturinave nga sipërfaqet publike.
+3. Mbeturinat komunale të përziera me mbeturina të rrezikshme, duhet të ndahen kur ekziston llogaria ekonomike, në të kundërtën konsiderohen mbeturina te rrezikshme.
+4. Amvisëritë dhe prodhuesit tjerë të mbeturinave komunale detyrohen që mbeturinat e tyre t'i hedhin në vende të caktuara për grumbullimin e mbeturinave komunale, ndërsa mbeturinat e rrezikshme t'i ndajnë dhe t'i dorëzojnë në vendet e caktuara për to.
+5. Komunat janë të detyruara të organizojnë sistemin për mbledhjen dhe grumbullimin e mbeturinave të vëllimshme.
+6. Amvisëritë dhe prodhuesit tjerë të mbeturinave komunale, janë të detyruar të bëjnë ndarjen e mbeturinave në lloje, sipas kushteve të përcaktuara nga autoriteti kompetent, me qëllim të trajtimit dhe riciklimit të tyre.
+7. Komunat me akt të veçantë, rregullojnë sistemin dhe kushtet për mënyrën e mbledhjes, ndarjes, përpunimit dhe riciklimit, orarin për mbledhjen e mbeturinave, llojin, numrin dhe mënyrën e shpërndarjes dhe vendosjes së kontejnerëve për mbeturina, mirëmbajtjen e vendeve ku grumbullohen mbeturinat dhe mënyrat për transportim të mbeturinave komunale.
+8. Menaxhimi i mbeturinave komunale nga komuna duhet të bëhet përmes kontratave të veçanta me një apo më shumë operator publik ose privat të licencuar për menaxhimin e mbeturinave.
+9. Dy e më shumë komuna me marrëveshje, sipas nenit 15 paragrafit 2. të këtij ligji, përcaktojnë të drejtat dhe
+LIGJI PËR MBETURINA - SHTOJCA 20 detyrimet lidhur me sigurimin e kushteve për menaxhimin e mbeturinave, për shfrytëzimin e objekteve për deponim, për përpunimin dhe magazinim të mbeturinave, të drejtat dhe detyrimet e ndërmarrjeve publike për menaxhimin e mbeturinave, mënyrën e marrjes së vendimeve në rastet e ankesave për çështjet specifike që kanë të bëjnë me menaxhimin e mbeturinave, si dhe çështje tjera të rëndësishme për organizimin dhe menaxhimin e mbeturinave.

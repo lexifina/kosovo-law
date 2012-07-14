@@ -1,0 +1,50 @@
+# Neni 71
+Kundërvajtjet 1. Me gjobë në të holla prej pesëmijë (5.000) deri në pesëdhjetëmijë (50.000) Euro gjobitet për kundërvajtje personi nëse:
+1.1. menaxhon me mbeturina pa u licencuar dhe nuk zbaton vendimet për masat shtesë - neni 22 paragrafi 2. dhe 6. i këtij ligji;
+1.2. objektet dhe impiantet për menaxhimin e mbeturinave nuk i pajisë me leje përkatëse -neni 23 paragrafi 1. i këtij ligji;
+1.3. ndërton objektet dhe impiantet për menaxhimin e mbeturinave, në kundërshtim me dispozitat ligjore dhe nuk i përmbush standardet minimale teknike për veprimtaritë që licencohen -neni 23 paragrafi 2. i këtij ligji;
+1.4. nuk i përfill kushtet e përcaktuara në licencë dhe nuk përfill kushtet dhe kriteret për zgjedhjen e lokacionit të deponive -neni 33 paragrafi 4. dhe 5. i këtij ligji;
+1.5. gjatë grumbullimit, ndarjes në lloje, magazinimit, transportimit, trajtimit dhe deponimit, mbeturinat e rrezikshme nuk i ambalazhon dhe paketon sipas rregullave të përcaktuara në aktin nënligjor, nga neni 35 paragrafi 2. i këtij ligji;
+1.6. deponon mbeturinat e rrezikshme pa e bërë trajtimin paraprak ose bënë hollimin e tyre me qëllim të shkarkimit të tyre në mjedis - neni 35 paragrafi 3. dhe 4. i këtij ligji;
+1.7. nuk zbaton dispozitat e aktit nënligjor nga neni 35 paragrafi 5. i këtij ligji;
+1.8. nuk ruan dokumentacionin përcjellës për bartjen e mbeturinave të rrezikshme sipas afatit të përcaktuar në nenin 36 paragrafi 4. i këtij ligji;
+1.9. bartjen e mbeturinave të rrezikshme nuk e përcjell me dokument të veçantë dhe nuk zbaton dispozitat e aktit nënligjor -neni 37 paragrafi 1. dhe 2. i këtij ligji;
+1.10. nuk zbaton masat shtesë për menaxhimin e mbeturinave -neni 38 paragrafi 2. i këtij ligji;
+1.11. menaxhon me mbeturinat nga ndërtimi dhe demolomi i objekteve ndërtimore pa u licencuar - neni 40 paragrafi 1. i këtij ligji;
+1.12. nuk cakton lokacionin për deponimin dhe nuk nxjerr rregulla për mënyrën e menaxhimit të mbeturinave nga ndërtimet dhe prishjet e objekteve ndërtimore dhe nuk zbaton dispozitat e aktit nënligjor të këtij ligji - neni 40 paragrafi 2. dhe 3. i këtij ligji;
+1.13. menaxhon me bateritë dhe akumulatorët mbeturinë pa u pajisur me licencë - neni 41 paragrafi 1. i këtij ligji;
+1.14. nuk vendos udhëzimet për klasifikimin në lloje, përmbajtjen e metaleve të rënda, mundësinë e riciklimit ose magazinimit, nuk mban dhe ruan evidencën për sasinë e prodhuar apo importuar si dhe nuk dorëzon bateritë dhe akumulatorët mbeturinë, në vend të caktuar dhe te personat e licencuar - neni 41 paragrafi 2. 3. dhe 4. i këtij ligji;
+1.15. menaxhon me gomat jashtë përdorimit dhe mbeturinat e gomës pa u pajisur me licencë - neni 42
+LIGJI PËR MBETURINA - SHTOJCA 36 paragrafi 1. i këtij ligji;
+1.16. nuk mban evidencën për sasinë e prodhuar dhe të importuar, për llojin dhe sasinë e mbledhur, trajtuar dhe deponuar, nuk raporton në Ministri si dhe nuk zbaton dispozitat e aktit nënligjor - neni 42 paragrafi 2. 3. 4. dhe 5. i këtij ligji;
+1.17. menaxhon me mbeturina elektrike dhe elektronike pa u pajisur me licencë -neni 43 paragrafi 1. i këtij ligji;
+1.18. përzien mbeturinat nga pajisjet elektrike dhe elektronike me mbeturinat e llojeve tjera, i deponon ato pa i trajtuar më parë, mbeturinat e lëngëta nga pajisjet elektrike dhe elektronike nuk i grumbullon të ndara dhe nuk i trajton në mënyrë të duhur, dhe nuk mban evidencën për sasinë e mbeturinave të prodhuara dhe për pajisjet elektrike dhe elektronike të importuara dhe nuk zbaton dispozitat e aktit nënligjor të këtij ligji - neni 43 paragrafi 3.,4., 5 , 6. dhe 7. i këtij ligji;
+1.19. menaxhon me mbeturinat nga gypat fluoreshent pa u pajisur me licencë - neni 44 paragrafi 1. i këtij ligji;
+1.20. mbeturinat nga gypat fluoreshent që përmbajnë merkur nuk i mbledhë të ndara, deponon këto mbeturina pa e bërë trajtimin paraprak të tyre, nuk i dorëzon ato te personi i licencuar dhe nuk mbanë evidencën për sasinë e grumbulluar të tyre - neni 44 paragrafi 2., 3.,4. dhe 5. i këtij ligji;
+1.21. menaxhon me PCB/PCT dhe mbeturinat me PCB/PCT pa u pajisur me licencë -neni 45 paragrafi 1. i këtij ligji;
+1.22. mbeturinat që përmbajnë PCB/PCT nuk i mbledh, grumbullon dhe klasifikon në lloje, përdor PCB në transformatorë, ripërdor mbeturinat me PCB/PCT dhe riciklon PCB/PCT. - neni 45 paragrafi 2. dhe 3. i këtij ligji;
+31.23. zotëruesi i pajisjes që përmban PCB/PCT më shumë se 5 dm nuk lajmëron pajisjen dhe nuk bënë planin për ndërrimin e sajë, apo trajtimin ose deponimin, nuk mban evidencën për sasinë e grumbulluar të PCB/PCT dhe mbeturinave me PCB/PCT, si dhe nuk zbaton dispozitat e aktit nënligjor të këtij Ligji - neni 45 paragrafi 4. 5. dhe 6. i këtij ligji;
+1.24. menaxhon mbeturinat që përmbajnë MOQN pa u pajisur me licencë -neni 46 paragrafi 1. i këtij ligji;
+1.25. nuk mban evidencën për sasinë e grumbulluar dhe të trajtuar të mbeturinave që përmbajnë MOQN -neni 46 paragrafi 2. i këtij ligji;
+1.26. menaxhon me mbeturina që përmbajnë azbest pa u pajisur me licencë - neni 47 paragrafi 1. i këtij ligji;
+1.27. mbeturinat që përmbajnë azbest nuk i mbledh, ndan, paketon, magazinon ose deponon në vendin e caktuar, nuk ndërmerr masa kundër emitimit te fijeve dhe pluhurit te azbestit në mjedis dhe nuk mban evidencën për sasinë e mbeturinave të magazinuara ose deponuara dhe shënimet nuk i dorëzon në Ministri - neni 47 paragrafi 2. 3. dhe 4. i këtij ligji;
+1.28. menaxhon me automjetet mbeturinë pa u licencuar - neni 48 paragrafi 1. i këtij ligji;
+1.29. nuk mbanë evidencën për sasinë e grumbulluar dhe të trajtuar të automjeteve mbeturinë dhe për komponentët e rrezikshme për mjedisin dhe shëndetin e njeriut dhe nuk prezanton librezën e automjetit -neni 48 paragrafi 3. dhe 4. i këtij ligji;
+1.30. menaxhon me mbeturina nga produktet medicinale -neni 49 paragrafi 1. i këtij ligji;
+1.31. mbeturinat që prodhohen gjatë shërbimeve mjekësore nuk i ndan sipas kategorisë në të rrezikshme dhe parrezikshme, nuk nxjerr planin për menaxhimin e mbeturinave dhe nuk cakton personin përgjegjës për zbatimin e planit - neni 49 paragrafi 2. dhe 3. i këtij ligji;
+1.32. nuk zbaton planin për menaxhimin e mbeturinave nga produktet medicinale dhe nuk zbaton dispozitat a akteve nënligjore - neni 49 paragrafi 4. 5. 6 .dhe 7. i këtij ligji;
+1.33. menaxhon me mbeturinat e dioksidit të titanit pa u pajisur me licencë - neni 50 paragrafi 2. i këtij ligji;
+LIGJI PËR MBETURINA - SHTOJCA 37 1.34. nuk mban evidencën për sasinë e grumbulluar, magazinuar, trajtuar dhe deponuar të mbeturinave, nuk ndërmerr masat për mbikëqyrjen e operacioneve të deponimit dhe nuk kontrollon dheun, ujin dhe ajrin në lokacionin ku dioksidi i titanit është shfrytëzuar, ruajtur dhe magazinuar - neni 50 paragrafi 3. dhe 4. i këtij ligji;
+1.35. menaxhon me mbeturinat nga ambalazhet dhe paketimet pa u licencuar - neni 51 paragrafi 1. i këtij ligji;
+1.36. përdor materialet për ambalazh të cilat nuk janë prodhuar dhe dizajnuar për t`i përmbush kushtet për mbrojtjen e mjedisit dhe shëndetit të njeriut - neni 51 paragrafi 2. i këtij ligji;
+1.37. menaxhon me mbeturinat e biodegradueshme pa u pajisur me licencë - neni 52 paragrafi 1. i këtij ligji;
+1.38. mbledh, demonton dhe trajton mbeturinat e biodegradueshme jashtë qendrës për grumbullimin e tyre - neni 52 paragrafi 2. i këtij ligji;
+1.39. nuk mban evidencën për sasinë e grumbulluar dhe trajtuar të kompostit apo gazit të përfituar nga mbeturinat e biodegradueshme dhe shkelë dispozitat nga akti nënligjor - neni 52 paragrafi 3. dhe 4. i këtij ligji;
+1.40. nuk mban shënimet dhe evidencën për prodhimin e lymit nga ujërat e zeza dhe ujërat e ndotura dhe organit kompetent komunal nuk i prezanton shënimet dhe evidencën për to - neni 53 paragrafi 1. dhe 2. i këtij ligji;
+1.41. shfrytëzon mbeturinat nga lymi i kanalizimit pa e bërë stabilizimin e tij dhe pa i bërë përgatitjet e duhura biologjike, kimike, termike dhe përpunimet tjera. - neni 53 paragrafi 4. i këtij ligji;
+1.42. menaxhon me mbeturina pa u pajisur me licencë - neni 55 paragrafi 1. i këtij ligji;
+1.43. nuk njofton Ministrinë për veprimet e forcës madhore e cila e ka pamundësuar menaxhimin e mbeturinave sipas kushteve të përcaktuara në licencë - neni 55 paragrafi 7. i këtij ligji;
+1.44. bënë qarkullimin ndërkufitar të mbeturinave në kundërshtim me dispozitat e këtij ligji dhe legjislacionit të BE – së dhe Konventës së Bazelit dhe sipas rregullave të transportit rrugor (ADR), transportit hekurudhor (RID) dhe transportit ajror - neni 56. paragrafi 1. i këtij ligji;
+1.45. importon mbeturinat jo të rrezikshme pa lejen e Ministrisë - neni 56 paragrafi 3. i këtij ligji;
+1.46. mbanë mbeturinat që kalojnë transit nëpër territorin e Republikës së Kosovës më gjatë se njëzetë e katër (24) orë - neni 56 paragrafi 6. i këtij ligji;
+2. Me gjobë në vlerë prej njëqind (100) deri në pesëqind (500) Euro do të dënohet për kundërvajtje nga paragrafi 1. i këtij neni edhe personi përgjegjës i personit juridik.

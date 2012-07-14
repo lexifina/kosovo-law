@@ -1,0 +1,10 @@
+# Neni 3
+Përjashtimet 1. Dispozitat e këtij ligji nuk zbatohen për: 1.1.materiet e gazta të emituara në atmosferë;
+1.2. vendet, përfshirë tokat e pamihura të kontaminuara dhe ndërtesat e vendosura në mënyrë te përhershme në ato vende; 1.3.dheu i pakontaminuar dhe materialet tjera nga natyra, të mihura gjatë zhvillimit të aktiviteteve të ndërtimit ku është e sigurt që ato materiale do të përdoren për qëllim të ndërtimit, ashtu në gjendjen e vet natyrore, në vendëndërtimin ku është bërë mihja;
+1.4. mbeturinat radioaktive;
+1.5. eksplozivet e dekomisionuar; 1.6.përmbajtjet fekalie, nëse nuk janë mbuluar nga paragrafi 2. nën-paragrafi 2.2. i këtij neni, kashta dhe materialet tjera të parrezikshme bujqësore apo pyjore që gjenden ne natyrë që përdoren në ferma, pyje apo për prodhimin e energjisë nga ajo biomasë përmes proceseve apo metodave të cilat nuk dëmtojnë mjedisin apo rrezikojnë shëndetin e njeriut.
+LIGJI PËR MBETURINA - SHTOJCA 22. Dispozitat nga nën-paragrafët 2.1., 2.2., 2.3. të këtij paragrafi përjashtohen nga fushëveprimi i këtij ligji, të cilat rregullohen me ligje tjera si :
+2.1. ujërat e zeza; 2.2.nën-produktet shtazore përshirë produktet e procesuara të mbuluara nga Rregullorja (EC) Nr. 1774/2002, përveç atyre të destinuara për incenerim, groposjet apo përdorimi për prodhim të biogasit apo në impiantet për kompostim;
+2.3. kërmat e shtazëve që nuk janë ther por kanë ngordhur, përfshirë shtazët e mbytura për t'i zhdukur sëmundjet epizootike dhe kujdesi i tyre është rregulluar në pajtim me Rregulloren (BE) Nr. 1774/2002;
+3. Pa prejudikuar detyrimet e tjera sipas legjislacionit përkatës të Republikës së Kosovës, nga ky ligj përjashtohen sedimentet e vendosura në brendi të ujërave sipërfaqësore, me qëllim të menaxhimit të ujërave dhe rrjedhave ujore ose parandalimin e përmbytjeve apo zbutjen e pasojave të përmbytjeve, thatësirave dhe bonifikimin e tokave, nëse vërtetohet se sedimentet e tilla janë jo të rrezikshme.
+4. Rregullat specifike për raste të veçanta, në menaxhimin e kategorive të caktuara të mbeturinave, përcaktohen me akte të veçanta.
