@@ -1,7 +1,0 @@
-# Article 16
-16.1. If construction work might pose a danger to other persons, the potentially dangerous area must be isolated and clearly marked by warning signs. If necessary the construction site has to be fenced off and provided with protection from falling objects. Special care is to be taken that the construction does not cause danger to passing pedestrians.
-16.2. If necessary adequate measures have to be taken to minimize noise, to protect against air pollution and to protect the soil as well as the ground water against pollution. The Ministry may by administrative instruction determine further details on special protective measures.
-16.3. If construction activities require access to public spaces the investor has to apply for a provisional use of public spaces as necessary and to the extent of proper execution of the construction work. The municipality may charge the investor for the permission.
-16.4. The investor has to obtain the permission from neighbors whose plot needs to be used during the construction work.
-16.5. Temporary construction and equipment such as scaffolding must be safe and stable and has to meet the requirements set out under articles 5 -8 of this Law.
-16.6. After construction completed, the construction site has to be cleared of all site construction equipments, materials, waste and alike. The surrounding area has to be restored to its former or planned condition. Documentation to be kept at the construction site

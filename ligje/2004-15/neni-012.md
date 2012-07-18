@@ -1,2 +1,0 @@
-# Neni 12
-Specifikimi i kërkesave themelore të parashikuara në nenet 5–8 të këtij Ligji, veçanërisht lidhur me muret, tavanet, kulmet, shkallët, daljet e emergjencës, ashensorët, hapësirat e hapura, sistemet hidraulike, elektrike dhe të ngrohjes, dhomat e banueshme, objektet përdhese dhe të veçanta, si dhe objekte të tjera ndërtimi definohen me aktin administrativ. Këto specifikime duhet të përcaktojne kushtet teknike për përdorimin e objekteve ndërtimore nga personat me aftësi të kufizuara.

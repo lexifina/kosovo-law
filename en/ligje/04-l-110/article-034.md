@@ -1,0 +1,7 @@
+# Article 34
+Demolishing Construction Works
+1. During an inspection the construction inspection may order the construction permit possessor to demolish a building if it has been determined that there is an irreparable irregularity that endangers the stability of the building, the stability of neighbouring construction works or otherwise puts human life at risk.
+2. In performing an inspection the construction inspector may order the construction permit possessor to demolish temporary buildings that have not been demolished within the specified time.
+3. By decision from paragraphs 1 and 2 of this Article, the construction inspection will determine the period within which the construction permit possessor is required to demolish the construction works or its parts.
+4. In the event that the action described in paragraph 3 of this Article is taken in connection with construction works subject to cultural heritage protection, including those in special protective zones, the construction inspection shall notify the competent governmental body.
+5. Notwithstanding paragraph 1 of this Article, the construction inspector shall not order the construction permit possessor to demolish the construction works or any of its parts if the removal would risk the health and human life, other buildings or the stability of surrounding land. In such event, the construction permit possessor shall draft a rehabilitation plan that shall be subject to the approval of the competent body.

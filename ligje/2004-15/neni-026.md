@@ -1,3 +1,0 @@
-# Neni 26
-Projekti ideor është dokumentacion teknik i cili përmban të dhëna bazë dhe të tjera, të nevojshme për përpilimin e projektit kryesor, lidhur me lokacionin e ngushtë dhe mënyrën e vendosjes së objektit; vlerësimin mbi ndikimet në mjedis si dhe masat për parandalimin ose uljen e ndikimeve negative në mjedisin jetësor- konform dispozitave ligjore të Ligjit për Mbrojtjen e Mjedisit; zgjidhjen themelore të formës dhe të funksionit, si dhe zgjidhjen teknike të objektit; vlerësimin preliminar të stabilitetit dhe sigurisë së objektit; zgjidhjen ideore të infrastrukturës teknike, të dhënat për objektet ose zonat historike-kulturore; skemat teknologjike, koston e përafërt të ndërtimit, transportin, mirëmbajtjen, propozimin për sigurimin e energjisë.
-Projekti kryesor

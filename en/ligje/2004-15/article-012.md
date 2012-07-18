@@ -1,2 +1,0 @@
-# Article 12
-Administrative instruction Specification of the basic requirements set forth in articles 5–8 of this Law, especially on walls, ceilings, roofs, stairs, emergency exits, lifts, openings, plumbing, electrical and heating systems, habitable rooms, flats and ground and special buildings as well as other building objects will be defined by a administrative instruction. These specifications must define technical conditions for construction buildings used by disabled persons.

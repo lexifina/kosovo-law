@@ -1,7 +1,0 @@
-# Neni 21
-21.1. Realizuesi ёshtё person fizik ose juridik i cili është përgjegjës për të zbatuar punën e ngarkuar në përputhje me kodet ekzistuese dhe projektin, si dhe për organizimin e duhur dhe funksionimin e sigurisë në vend ndërtim. Ai është i obliguar të sigurojë të gjitha materialet, pajisjet dhe produktet e ndërtimit që janë të deponuara në përputhje me Kreun III të këtij Ligji. Ai është përgjegjës për të siguruar provën e cilësisë së produkteve dhe pajisjeve, sipas kërkesave të këtij Ligjit. Ai është përgjegjës për ndërtimin në përputhje me lejen e ndërtimit dhe miratimin e lokacionit. Realizuesi nuk mund të fillojë punimet ose të lejojë punimet të realizohen para se projektet dhe udhëzimet e kërkuara për punimet të jenë të disponueshme në vend ndërtim.
-21.2. Nëse në ndërtim marrin pjesë dy ose më shumë realizues, investitori është i obliguar të emërojë realizuesin përgjegjës që t’i harmonizojë punët në mes tyre.
-21.3. Realizuesi e cakton inxhinierin kryesor të vend ndërtimit, në cilësinë e përgjegjësit i cili e udhëheq ndërtimin apo disa pjesë të ndërtimit.
-9 21.4. Realizuesi është i obliguar të lajmëroj investuesin për mangësitë e paraqitura gjatë procesit të ndërtimit.
-21.5. Realizuesi duhet të dëshmojë njohurin e tij profesionale, përvojën dhe duhet të jetë i licencuar nga Ministria kompetente. Ministria me akt administrativ do të përcaktoj kushtet dhe masat e licencimit.
-Inxhinieri Mbikëqyrës

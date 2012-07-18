@@ -1,0 +1,5 @@
+# Neni 25
+Dëmet e shkaktuara objekteve ndërtimore
+1. Në rast të dëmtimit të objekteve ndërtimore nga forca madhore sipas Ligjit për mbrojtje nga fatkeqësitë natyrore dhe fatkeqësitë tjera, riparimi dhe rindërtimi i atyre objekteve mund të bëhet pa leje ndërtimore nëse nuk bëhen ndryshime rrënjësore nga gjendja para dëmtimit, përveç objekteve të cilat kanë qenë të ndërtuara pa leje”.
+2. Në rast se riparimet dhe rindërtimet e bëra sipas paragrafit 1 të këtij neni bëjnë ndryshime qenësore në objekt, leja ndërtimore për riparim dhe rindërtim do të merret brenda dy (2) viteve nga dita e paraqitjes së dëmit. Për qëllim të këtij paragrafi, “ndryshimet qenësore” i referohen kushteve ndërtimore. Nëse riparimet dhe rindërtimet bëhen në objekt të trashëgimisë kulturore, kërkohet leja ndërtimore dhe harmonizimi me legjislacionin për trashëgimi kulturore.
+3. Riparimet dhe rindërtimet e bëra sipas këtij neni mund të bëhen në bazë të vendimit që nxjerr Qeveria sipas propozimit të Institucioneve përkatëse.
