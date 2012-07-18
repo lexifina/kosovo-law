@@ -1,0 +1,3 @@
+# Neni 3
+Neni 18 i ligjit bazik, pas paragrafit 18.4. shtohet paragrafi i ri 18.5. me tekstin si në vijim:
+18.5. Thesari themelon fondin special të rezervave për asistencë emergjente të likuiditetit te sistemit financiar. Fondi special i rezervave për asistencë emergjente të likuiditetit të sistemit financiar, mbahet në llogari të Bankës Qendrore të Kosovës dhe qeveriset dhe administrohet nga Banka Qendrore në pajtim me nenin 14 të Ligjit për Bankën Qendrore të Republikës së Kosovës. Mjetet e fondit AEL nuk mund të tërhiqen nga Thesari pa pëlqimin e Bankës Qendrore të Republikës së Kosovës. Këto fonde do të konsiderohen pjesë e bilancit bankar të Fondit të Konsoliduar të Kosovës.

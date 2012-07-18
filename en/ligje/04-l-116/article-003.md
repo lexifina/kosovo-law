@@ -1,0 +1,3 @@
+# Article 3
+Article 18 of a basic Law, after paragraph 18.4 there shall be added a new paragraph 18.5 with the following text:
+18.5. Treasury shall establish a special fund of reserves for Emergency Liquidity Assistance of financial system. Special fund of reserves for Emergency Liquidity Assistance shall be kept in the Central Bank of Republic of Kosovo account and shall be governed and administrated by the Central Bank in compliance with Article 14 of Law on Central Bank of Republic of Kosovo. Fund assets ELA cannot be withdrawn by the Treasury without consent of Central Bank of Republic of Kosovo. These funds shall be considered part of the bank balance of the Kosovo Consolidated Fund.
