@@ -1,0 +1,5 @@
+LIGJI Nr. 04/L – 067 PËR AGJENCINË E KOSOVËS PËR MBROJTJE NGA RREZATIMI DHE SIGURIA BËRTHAMORE
+Kuvendi i Republikës së Kosovës;
+Në bazë të nenit 65 (1) të Kushtetutës së Republikës së Kosovës,
+Miraton
+LIGJ PËR AGJENCINË E KOSOVËS PËR MBROJTJE NGA RREZATIMI DHE SIGURIA BËRTHAMORE
