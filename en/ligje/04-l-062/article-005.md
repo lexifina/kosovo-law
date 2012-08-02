@@ -1,0 +1,7 @@
+# Article 5
+Relationship between the Council and Municipal and Central Authorities
+1. The Municipality or Central Authorities shall consider the contributions, assessments and proposals/recommendations of the Council as provided for by the applicable legislation.
+2. The Municipality, in consultation with the relevant cultural heritage institutions, and in cooperation with the Council, shall draft and adopt the planning documents for the Village in compliance with the relevant legislation: Law No. 2003/14 on Spatial Planning and Law No. 03/L-106 on Amending the Law on Spatial Planning No. 2003/14 and Law No. 02/L-88/2006 on Cultural and Religious Heritage, UNESCO convention for cultural and natural heritage, UNESCO universal declaration for cultural diversity and relevant EU treaties.
+3. For the purpose of implementing paragraph 2. of this Article, the Municipality shall develop an integrated approach towards the SPZ and its surroundings, respecting the structure and character of the SPZ.
+4. The Council may request support from the Municipality Assembly or Central Government which provides support for implementation of the rights and authorities under this Law as needed.
+5. In case of disagreements between the Council and municipal authorities, on matters related to exercising the limited authority of the village under Articles 6, 7 and 9 of this Law, the parties shall refer to IMC and if it is justifiable in competent central institutions and in Competent Court for review.

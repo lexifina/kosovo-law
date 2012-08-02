@@ -1,0 +1,7 @@
+# Neni 5
+Marrëdhënia ndërmjet Këshillit dhe Autoriteteve Komunale dhe Qendrore
+1. Komuna ose autoriteti qendror i shqyrtojnë kontributet, vlerësimet dhe propozimet/rekomandimet e Këshillit siç përcaktohet me legjislacionin në fuqi.
+2. Komuna, në konsultim me institucionet përkatëse të trashëgimisë kulturore dhe në bashkëpunim me Këshillin hartojnë dhe miratojnë dokumentet e planifikimit për Fshatin në përputhje me legjislacionin relevant: Ligjin Nr. 2003/14 për Planifikimin Hapësinor dhe Ligjin Nr. 03/L-106 për Ndryshimin e Ligjit për Planifikimin Hapësinor Nr. 2003/14 dhe Ligjin Nr. 02/L- 88/2006 për Trashëgiminë Kulturore dhe fetare, Konventën e UNESCO për trashëgimi kulturore dhe natyrore, Deklaratën universale të UNESCO për diversitetin kulturor dhe traktatet relevante të BE.
+3. Me qëllim të zbatimit të paragrafit 2 të këtij neni, Komuna zhvillon një qasje të integruar ndaj ZVM-së dhe rrethinës së saj, duke respektuar strukturën dhe karakterin e saj.
+4. Këshilli, sipas nevojës, mund të kërkojë mbështetje nga Kuvendi i Komunës dhe Qeveria Qendrore të cilat sigurojnë mbështetje për zbatimin e të drejtave dhe autorizimeve sipas këtij Ligji.
+5. Ne rast te mosmarrëveshjeve në mes të Këshillit dhe autoriteteve komunale, për çështjet që kanë të bëjnë me ushtrimin e autoritetit të kufizuar të fshatit sipas neneve 6,7 dhe 9 të këtij Ligji, palët i referojnë në KZM, dhe nëse është e arsyeshme në institucionet kompetente qendrore dhe në Gjykatën kompetente, për shqyrtim.
