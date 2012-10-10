@@ -1,0 +1,6 @@
+# Neni 36
+Autorizimi për pilot testues
+36.1 Piloti i deltaplanit apo paraglajdit mund të kryejë fluturime si pilot testues vetëm nëse ai/ajo posedon autorizimin përkatës.
+36.2 Para se t’i nënshtrohet provimit për marrjen e autorizimit për pilot testues, aplikuesi duhet të jetë së paku 18 vjeç, duhet të posedojë licencën e pilotit të deltaplanit/paraglajdit për së paku dy vite dhe duhet të ketë përfunduar një kohë të përgjithshme të fluturimit prej së paku 200 orëve të fluturimit në deltaplan përkatësisht në paraglajd, nga të cilat së paku 100 orë të fluturimit në deltaplan përkatësisht në paraglajd i cili është i dedikuar për gara, dhe të ketë kryer së paku 20 orë të fluturimit në secilin nga pesë llojet e ndryshme të deltaplanëve përkatësisht paraglajdëve.
+36.3 Gjatë trajnimit për marrjen e autorizimit për pilot testues, aplikuesi duhet të kryejë trajnim shtesë teorik e praktik (fluturim) sipas programit të aprovuar të trajnimit në organizatën e aprovuar për trajnimin e pilotëve të deltaplanit apo paraglajdit apo tek prodhuesi i deltaplanëve përkatësisht paraglajdëve apo në qendrën e specializuar për testimin e deltaplanëve përkatësisht paraglajdëve.
+36.4 Pjesa teorike dhe praktike (fluturimi) e provimit për marrjen e autorizimit për pilotë testues në deltaplan apo paraglajd përmban elementet e saktësuara në Shtojcën 3 të kësaj Rregulloreje.
