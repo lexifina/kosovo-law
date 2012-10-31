@@ -1,0 +1,5 @@
+# Article 11
+General farm production rules
+1. The agricultural holding shall be managed in compliance with the requirements applicable to organic production.
+2. However, in accordance with specific conditions to be laid down in a specific sub-legal enactment, a holding may be split up into clearly separated units or aquaculture cultivation sites which are not all managed under organic production. As regards animals, different species shall be involved. As regards aquaculture the same species may be involved, provided that there is adequate separation between the production sites. As regards plants, different varieties that can be easily differentiated shall be involved.
+3.Where, in accordance with paragraph 2. of this Article, not all units of a holding are used for organic production, the operator shall keep the land, animals, and products used for, or produced by, the organic units separate from those used for, or produced by, the non-organic units and keep adequate records to show the separation.

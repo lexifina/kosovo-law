@@ -1,0 +1,10 @@
+# Neni 20
+Kriteret për produktet dhe substanca të caktuara gjatë përpunimit
+1. Autorizimi i produkteve dhe substancave për t’u përdorur në prodhimtarinë organike dhe përfshirja e tyre në listën e kufizimeve të produkteve dhe substancave sipas nenit 18, paragrafi 2 nënparagrafi 2.1 dhe 2.3 të këtij ligji, do të jetë subjekt i objektivave dhe parimeve të vendosura në kreun II të këtij ligji dhe kritereve në vazhdim, të cilat duhet të vlerësohen në tërësi:
+1.1. kur nuk disponohen mënyra të tjera të autorizuara në pajtim me këtë kapitull;
+1.2. kur do të ishte e pamundur të prodhohen apo të ruhen ushqimet apo të plotësohen kërkesat dietetike të vendosura në bazë të legjislacionit në fuqi pa përdorimin e tyre.
+2. Produktet dhe substancat sipas nenit 18. paragrafi 2. nënparagrafi 2.2 të këtij ligji gjenden në natyrë dhe mund t’u jenë nënshtruar vetëm proceseve mekanike, fizike, biologjike, enzimatike apo mikrobiale, dhe autorizimi i përdorimit të tyre bëhet vetëm kur këto produkte dhe substanca nga burime të tilla nuk gjenden në treg në sasi të mjaftueshme apo me cilësinë e duhur.
+3. Për autorizimin e produkteve dhe substancave dhe përfshirjen e tyre në listën e kufizuar që përcaktohen në paragrafin 1 të këtij neni, përcaktimin e kushteve dhe kufijtë specifikë për përdorimin e tyre, e nëse është e nevojshme edhe për heqjen e produkteve përcaktohet me akt nënligjor nga Ministria.
+4. Kur Komisioni për Bujqësi Organike vlerëson se nga lista sipas paragrafit 1 të këtij neni duhet të shtohet apo të hiqet një produkt apo substancë, apo të ndryshohen specifikimet e përdorimit sipas këtij paragrafi, ky Komisioni siguron përcjelljen zyrtare Autoritetit Kompetent të një dosje ku jepen arsyet për përfshirjen, heqjen apo ndryshimet.
+5. Kërkesat për ndryshimet apo heqjet, si dhe vendimet mbi to duhet të publikohen në web faqen e Ministrisë.
+6. Produktet dhe substancat e përdorura përpara hyrjes në fuqi, sipas nenit 18 paragrafit 2 nënparagrafit 2.2 dhe 2.3 të këtij ligji, mund të përdoren nëse janë në pajtim, apo mund të hiqen nga lista pas hyrjes në fuqi të këtij ligji nga Ministria.
