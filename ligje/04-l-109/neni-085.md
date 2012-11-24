@@ -1,0 +1,30 @@
+## KREU XIV
+## PROCESIMI I TË DHËNAVE PERSONALE DHE MBROJTJA E PRIVATËSISË NË SEKTORIN E KOMUNIKIMEVE ELEKTRONIKE
+# Neni 85
+Siguria,integriteti dhe besueshmëria
+1. Ofruesi i shërbimit të komunikimeve elektronike publike duhet të ndërmarrë masa adekuate teknike dhe organizative për ta mbrojtur sigurinë e shërbimeve. Duke pasur parasysh vlerën dhe koston e zbatimit, këto masa duhet të sigurojnë një nivel të duhur të sigurisë për rrezikun e paraqitur. Në veçanti, masat duhet të merren që të parandalojnë dhe zvogëlojnë ndikimin e incidenteve të sigurisë në shfrytëzuesit dhe rrjetat ndërlidhëse.
+2. Në rast të rrezikut të veçantë për sigurinë e rrjetit, ofruesi i shërbimit të komunikimeve elektronike publike duhet t’i informojë parapaguesit lidhur me një rrezik të tillë dhe, aty ku rreziku qëndron jashtë sferës së masave që mund të ndërmerren nga ofruesi i shërbimit, për ndonjë zgjidhje (kompensim) të mundshme, duke përfshirë indikacionin e kostos që ka mundësi të ndodhë.
+3. Ndërmarrësit që ofrojnë rrjeta të komunikimeve publike duhet të marrin të gjitha masat e nevojshme për të siguruar vazhdimësinë e shërbimeve të ofruara për këto rrjeta.
+4. Autoriteti mund të vendosë kërkesat teknike dhe organizative që garantojnë siguri, integritet dhe besueshmëri për rrjetat e komunikimeve publike dhe për shërbimet komunikuese elektronike publike.
+5. Ndërmarrësit që ofrojnë rrjeta për komunikime publike, ose shërbime komunikuese elektronike publike duhet të njoftojnë Autoritetin në përputhje me rregulloren e përcaktuar nga ajo për prishje të sigurisë ose humbje të integritetit që ka pasur ndikim të rëndësishëm në funksionimin e rrjetave ose shërbimeve. Autoriteti mund t’i informojë njerëzit, ose mund të kërkojë ta bëjnë vetë ndërmarrësit, kur konstaton që zbulimi i prishjes është në interes të publikut.
+6. Gjatë garantimit të sigurisë, integritetit dhe besueshmërisë së shërbimeve dhe rrjetave të komunikimeve elektronike publike, parandalimit të përhapjes së incidenteve të sigurisë, zvogëlimit të rrezikut për humbje nga ana e ofruesve të shërbimeve dhe/ose rrjetave të komunikimeve elektronike publike dhe/ose nga ana e shfrytëzuesve të shërbimeve të komunikimeve elektronike, si pasojë e këtyre incidenteve, Autoriteti mund të lëshojë urdhra detyrues për ndërmarrësit që ofrojnë shërbime dhe/ose rrjeta të komunikimeve elektronike publike dhe të vendosë afate kohore për zbatimin e këtyre detyrimeve. Urdhrat detyruese që i referohen këtij paragrafi mund të përfshijnë obligimet për auditim të sigurisë që duhet të bëhet nga një organ i kualifikuar dhe i pavarur dhe që rezultatet e auditimit t’i vihen në dispozicion Autoritetit. Kostot e auditimit që i referohen këtij paragrafi duhet të barten nga ndërmarrësi.
+7. Konsumatorët dhe përdoruesit tjerë fundor, nëse kërkojnë, duhet të kenë mundësin që të lidhin kontratë me ndërmarrësit tjerë që ofrojnë shërbime dhe/ose rrjete të komunikimeve elektronike ose qasje në rrjetet publike të komunikimeve elektronike.
+7.1 Kontrata së paku duhet të përmbajë:
+7.1.1 emrin dhe adresën e ndërmarrësit;
+7.1.2 shërbimet e ofruara, duke përfshirë:
+7.1.2.1 a ofrohet apo jo qasje në sherbimet emergjente dhe informacionin për lokacionin e thirrësit, dhe çfarëdo kufizimi në ofrimin e shërbimeve të emergjencës ;
+7.1.2.2 informacionin për kushtet tjera që kufizojnë qasjen dhe/ose përdorimin e aplikacioneve dhe shërbimeve, aty ku këto kushtëzime janë të lejuara në bazë të legjislacionit në fuqi;
+7.1.2.3 niveli më i ulët i kualitetit të shërbimit të ofruar, d.m.th. koha për inicimin e thirrjes dhe, ku është e përshtatshme, parametrat tjerë të kualitetit të shërbimeve të definuara nga Autoirteti;
+7.1.2.4 informacionin për procedurat e ndërmarra nga ndërmarrësi për matje dhe modifikim të trafikut për të shmangur mbingarkimin e rrjetit dhe informacionin se si këto procedura ndikojnë në kualitetin e shërbimit;
+7.1.2.5 informatat për llojet e mirëmbajtjeve dhe përkujdesjes së ofruar ndaj konsumatorëve, si dhe mënyrat për shfrytëzim të këtyre shërbimeve;
+7.1.2.6 çfarëdo kufizimi për shfrytëzim të pajisjeve fundore të ofruara nga ndërmarrësi;
+7.2. detajet për çmimet dhe tarifat, mënyrën se si informatat e përditësuara për të gjitha tarifat dhe shpenzimet e mirëmbajtjes mund të merren, mënyrat e ofruara të pagesës, si dhe çdo diferencë në çmime varësisht nga mënyra e pagesës;
+7.3. kohëzgjatja e kontratës dhe kushtet për përtëritje të kontratës, përfundimin e kontratës si dhe përfundimin e shërbimeve, duke përfshirë:
+7.3.1. përcaktimin e kohëzgjatjes minimale për të përfituar nga ofertat promovuese;
+7.3.2. çfarëdo pagese për bartshmërinë e numrave dhe identifikuesve tjerë
+7.3.3. çfarëdo pagese lidhur me shkëputjen e kontratës, përfshirë këtu pagesat që kanë të bëjnë me pajisjet fundore;
+7.3.4. kompensimin dhe rimbursimin në rastet kur shërbimi i ofruar nuk është në nivel të cilësisë së kontraktuar;
+7.3.5. mënyrën e inicimit të procedurës për zgjidhjen e mosmarrëveshjeve
+7.3.6. llojin e veprimit të cilin mund ta marrë ndërmarrësi për të reaguar ndaj sigurisë ose cenimit të integritetit dhe kërcënimeve .
+7.4. kontrata mund të përmbajë gjithashtu çfarëdo informacioni për kufizime që rrjetat dhe/ose shërbimet e komunikimeve elektronike të mos përdoren për aktivitete të jashtë ligjshme apo për shpërndarje të përmbajtjeve të dëmshme, si dhe për mënyrat për tu mbrojtur nga rreziqet për sigurinë personale, privatësinë dhe të dhënat personale.
+7.5. parapaguesit kanë të drejtë që të shkëpusin kontratën e tyre pa u ndëshkuar pas paralajmërimit për modifikim të kushteve të kontratës të propozuara nga ndërmarrësit që ofrojnë shërbime dhe/ose rrjete të komunikimeve elektronike. Parapaguesit duhet të informohen për të gjitha ndryshimet e propozuara në kushtet e kontratës jo më vonë se tridhjetë (30) ditë para futjes se këtyre ndryshimeve. Në rast të mospajtimit me ndryshimet e kushteve, parapaguesi ka të drejtë që, pa asnjë pasojë, të shkëput kontratën. Autoriteti duhet të specifikojë qartë formën për paralajmërimin e ndryshimit të kushteve të kontratës.

@@ -1,0 +1,6 @@
+# Article 35
+Obligation for account separation
+1. The Authority may impose obligations for accounting separation in relation to specified activity or activities related to access on an operator having SMP on the relevant market.
+2. The Authority shall establish the rules on accounting separation and the related requirements, including the auditing requirement.
+3. The Authority may require a vertically integrated company to make transparent its wholesale prices and its internal transfer prices inter alia to ensure compliance where there is a requirement for non-discrimination under Article 33 of this Law or, where necessary, to prevent unfair cross- subsidy. The Authority may specify the format and accounting methodology to be used.
+4. In order to facilitate the verification of compliance with obligations referred to in the Article 33 and 34 of this Law, the Authority may require that accounting records, including data on revenues received from third parties, be provided on request in the way and form defined in the Rules on accounting separation referred to in the paragraph 2 of this Article. Authority shall publish this information if necessary to contribute to an open and competitive market. In doing such, Authority shall take into account the rules pertaining to the confidential information.

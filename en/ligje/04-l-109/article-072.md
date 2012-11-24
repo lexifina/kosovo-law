@@ -1,0 +1,7 @@
+# Article 72
+Settlement of Disputes Based on End User Complaints
+1. In the event of a dispute arising between the provider of electronic communications services and the end user, the end user shall have the right to apply to the Authority for resolving the dispute through a preliminary out-of-court procedure. The end user may also apply directly to court.
+2. Paragraphs 6, 7, 8, 9, 11, 12, 13, 15, 16, 17, 19 and 20 of Article 84 of this Law shall apply mutatis mutandis to the settlement of disputes based on complaints by end users.
+3. Should an end user apply to the Authority without first applying to the provider of electronic communications services, the Authority shall take measures to reconcile the parties. The Authority shall not consider a dispute if the provider of electronic communications services proposes, within a time limit set by the Authority, a compromise settlement of the dispute and the end user accepts the proposal or does not reject it within a time limit set by the Authority.
+4. A decision issued by the Authority regarding the dispute may be appealed against to the competent court within thirty (30) days from the date of its adoption.
+5. The Authority shall establish the rules for the settlement of disputes based on complaints submitted by end users. The rules shall set out the requirements in respect of the form, content and filing of such applications, the submission and collection of evidence, and detailed reconciliation and dispute settlement procedures.

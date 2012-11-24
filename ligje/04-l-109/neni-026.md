@@ -1,0 +1,5 @@
+# Neni 26
+Mbrojtja e rrjeteve publike të komunikimeve
+1. Zona e mbrojtur e rrjeteve publike të komunikimeve përbëhet nga një rrip toke përgjatë linjave komunikuese me tela, të rrjeteve publike të komunikimit dhe rreth objekteve të infrastrukturës së komunikimeve elektronike, duke përfshirë çdo konstruksion dhe strukturë të vendosur në të. Është e ndaluar që në këtë zonë të ndryshohet destinimi i tokës, të ndërtohen ndërtesa dhe struktura tjera, të mënjanohen pajisjet dhe materialet, të gërmohet, të shpohen puse, të kryhen shpërthime dhe të kryhen vepra të tjera që mund ta dëmtojnë infrastrukturën e komunikimeve elektronike, pa miratimin paraprak nga pronarët e infrastrukturës së komunikimeve elektronike.
+2. Përmasat dhe metodat e përcaktimit të kufijve të zonave të mbrojtura, si dhe procedura për kryerjen e punëve brenda zonave të tilla do të përcaktohen nga Autoriteti.
+3. Punonjësit, apo përfaqësuesit tjerë që veprojnë nën autoritetin e një personi, infrastruktura e rrjeteve publike të komunikimit e të cilit influencohet, kanë të drejtë ta mirëmbajnë infrastrukturën e komunikimeve elektronike në përputhje me rregullat e përcaktuara nga Autoriteti.

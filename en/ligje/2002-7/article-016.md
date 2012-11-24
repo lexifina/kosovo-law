@@ -1,7 +1,0 @@
-# Section 16
-Market Entry Barriers Proceedings
-1. Not later than nine 9 months after the entry into force of this Law, the TRA shall deliver to the Assembly a report identifying and facilitating the removal of market entry barriers for entrepreneurs and other small businesses in the delivery of telecommunications services.
-2. The report shall take into account the opinions and concerns of the private sector, which opinions and concerns may be solicited either in a formal public proceeding, a request for written comments or both. In particular, this inquiry shall focus on the following matters:
-a) availability, quality and prices of leased lines, interconnection, including unbundled network elements, and, basic subscriber information suitable for telephone directories and yellow pages;
-b) competitive procurement of goods and services by PTK; and, c) barriers to the adoption of electronic commerce, including, but not limited to: i. electronic signatures; ii. public key infrastructure; iii. internet naming and addressing; and, iv. the technical and financial aspects of the international gateways, which provide interconnection and traffic routing for telephone calls into and out of Kosovo.
-3. The TRA shall undertake a new review of the subjects described in paragraph two 2 of this section and report to the Assembly not later than one 1 year after the initial review, and on an annual basis thereafter.

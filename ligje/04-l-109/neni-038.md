@@ -1,0 +1,5 @@
+# Neni 38
+Detyrimi për zgjedhjen dhe parazgjedhjen e bartësit
+1. Ndërmarrësit që kanë FNT në tregun përkatës për qasje në dhe shfrytëzim të rrjetit telefonik publik në lokacionin fiks, në përputhje me procedurën dhe kushtet e përcaktuara nga Autoriteti, do t’u mundësojnë, në llogari të vetë, parapaguesve të tyre qasjen në shërbimet e çdo ofruesi të shërbimeve telefonike të disponueshme për publikun, me të cilët janë të interkonektuar, nëpërmjet zgjedhjes ose parazgjedhjes së bartësit.
+2. Tarifat e vendosura për qasjen dhe për pagesën e aktivizimit të zgjedhjes ose parazgjedhjes duhet të jenë të bazuara në kosto. Për këtë qëllim, do të zbatohen rregullat e vendosura në nenin 40 të këtij ligji. Tarifat e imponuara parapaguesve për shfrytëzimin e të drejtave të tilla nuk duhet të shërbejnë si dekurajim për përdorimin e një mundësie të tillë. Për këtë qëllim, Autoriteti mund t’i kufizojë tarifat maksimale.
+3. Detyrimet e referuara në paragrafin 1. të këtij neni mund të imponohen nga Autoriteti ndaj çdo ndërmarrësi që ka FNT në tregun relevant, si edhe për imponimin e detyrimeve në lidhje me nën- paragrafin 1.4. të paragrafit 1. të nenit 32 të këtij ligji.

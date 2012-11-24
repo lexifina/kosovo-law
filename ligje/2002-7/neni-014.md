@@ -1,6 +1,0 @@
-# Neni 14
-Hetimet dhe kundravajtjet
-1. ART-i mund te hetojë çfarëdo fakte, kushte, veprimtari, apo çështje të cilat ai mendon se është e nevojshme të përcaktohet nëse ndonjë person ka shkelur apo do të shkelë këtë ligj, ligje tjera aplikative, apo çfarëdo vendimi të marrë në bazë të tyre, apo për të ushtruar çfarëdo përgjegjësie tjetër të ligjshme të ART-it.
-2. Gjatë ushtrimit të hetimeve të tilla, një anëtar i bordit të ART-it apo cilido zyrtar i caktuar nga bordi, do të ketë të drejtë që të ftojë dëshmitarë apo t’i detyrojë ata që të jenë të pranishëm, të marrë prova dhe dhe të kërkojë prodhimin e librave, letrave, kontratave, marrëveshjeve dhe shënimeve të tjera të nevojshme për hetimin.
-3. Në rast se ndonje person dështon që tu bindet urdhërave të ART-it, ART-i mund të kërkojë ndihmën e çfarëdo gjykatë me jurisdiksionin kompetent apo institucioni për zbatimin e ligjit për të siguruar pajtueshmërinë e personave në fjalë me të.
-4. Një kompani, organizatë apo njësi tjetër ligjore do të jetë e detyruar nga ky ligj nëse ka vepruar, ka marrë një vendim apo ka dështuar që të veprojë ku është dashur të veprojë, si rezultat i një vendimi të marrë apo veprimi të kryer (qoftë me qëllim, me pamaturi apo me neglizhencë) nga një drejtor, sekretar, menaxher, anëtar i bordit apo zyrtar tjetër i asaj kompanie, organizatë apo njësie.

@@ -1,3 +1,0 @@
-# Section 36
-Additional Mobile Tender
-Notwithstanding any other provisions of this Section, the TRA, in close coordination with the SRSG, shall issue a grant of right to use a radio frequency for GSM900 mobile public radio services pursuant to the procedures pertaining to public tender and auction. The Ministry shall prepare tendering documents and the tender shall be approved by TRA. Not later than six 6 months after the entry into force of this Law, the TRA, at the direction of the Ministry, shall offer a further License to any mobile service provider not currently providing mobile services in Kosovo market, by way of international competitive tender, pursuant to the terms of this Law and other applicable laws.

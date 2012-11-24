@@ -1,8 +1,0 @@
-# Section 62
-Marketing and Use of Electrical Devices
-1.Electrical devices manufactured in Kosovo or imported for use in Kosovo shall comply with the requirements of this Law. Compliance shall be demonstrated according to the documents, labeling and symbols specified by the TRA.
-2.When, as a result of electromagnetic interference, electrical devices or parts thereof cease to comply with the requirements of this section, the owners or users shall, at their own expense, repair the electrical devices and return them to full compliance with the requirements of this Law, or failing to do so, remove them from use in Kosovo.
-3.Inspectors appointed by the TRA shall prohibit the marketing, sale or use of any electrical device that fails to comply with the requirements of this Law.
-4.Electrical devices that are designed for educational or testing purposes may exceed the permissible level for generating electromagnetic interference, provided that they are designed for the study of electromagnetic phenomena and provided further, that reasonable measures are taken to ensure that the devices do not interfere with other electrical devices in the vicinity.
-5.For complicated electrical devices that fail to fulfill the requirements related to electromagnetic compatibility, the TRA may issue an operating License that is of limited scope in time and place, provided that reasonable measures are taken to ensure that the devices do not interfere with other electrical devices in the vicinity.
-6.The TRA shall prescribe procedures for the verification and labeling of electrical devices pursuant to the provisions of this section and shall make such information publicly available.

@@ -1,0 +1,4 @@
+# Neni 23
+Instalimi,mbrojtja, bashkëshfrytëzimi dhe mirëmbajtja e infrastrukturës së komunikimeve elektronike në rrjetin rrugor
+1. Pas koordinimit të veprimeve të tyre në pajtueshmëri me kërkesat e legjislacionit përkatës, me institucionet shtetërore qendrore, ose komunale, operatorët mund të përdorin brezin rrugor komunal dhe shtetëror, sheshet, tubacionet, rrjetin e ujësjellësit, urat, viaduktet, tunelet dhe strukturat e tjera për ndërtimin e rrjeteve publike të komunikimeve elektronike pa pagesë, ose me pagesë minimale për t’i mbuluar shpenzimet administrative të institucioneve përkatëse.
+2. Me përfundimin e instalimit, rindërtimit ose riparimit të infrastrukturës së komunikimeve elektronike, operatorët duhet të rregullojnë rrugët dhe/ose strukturat e lidhura, në përputhje me procedurat e përcaktuara me legjislacion tjetër.

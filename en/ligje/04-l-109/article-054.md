@@ -1,0 +1,28 @@
+# Article 54
+Use of Electronic Communications Resources
+1. The conditions set out in the rules for the assignment and use of electronic communications resources and in authorizations to use electronic communications resources shall be non- discriminatory, transparent and proportionate. The terms and conditions prescribed by the legal acts regulating the general terms and conditions for engaging in electronic communications activities shall not be repeated in the rules for the assignment and use of electronic communications resources and in authorizations to use electronic communications resources.
+2. The conditions set out in the rules for the use of radio frequencies (channels) and in authorizations to use radio frequencies (channels) may only be related to:
+2.1. designation of purpose for which radio frequencies (channels) are assigned (service, type of technology) as well as of coverage and quality requirements;
+2.2. effective and efficient use of radio frequencies (channels);
+2.3. technical and operational conditions necessary for the avoidance of harmful interference and for the limitation of exposure of the general public to electromagnetic fields, where such conditions are different from those included in the general terms and conditions for engaging in electronic communications activities set forth by the Authority;
+2.4. maximum time limit for the use of radio frequencies (channels), stated taking into account the purpose of radio frequencies (channels), effective use of radio frequencies (channels), amortization of investments;
+2.5. transfer of the right to use radio frequencies (channels) at the initiative of the right holder and conditions for such transfer. The Authority shall specify such conditions in authorizations to use radio frequencies (channels);
+2.6. payments for the supervision of use of radio frequencies (channels) and fees to the state budget in accordance with the procedure established by legal acts;
+2.7. any commitments made by a person in the course of a tendering or auction procedure;
+2.8. obligations under relevant international treaties and/or other agreements relating to the use of radio (frequencies) channels;
+2.9. obligations specific to an experimental use of radio frequencies.
+3. The conditions set out in the rules for the use of telephone numbers and in authorizations to use of telephone numbers may only be related to:
+3.1. designation of purpose (service) for which telephone numbers are used, including any requirements linked to the provision of that service, and tariff principles and maximum prices that can apply in the specific number range;
+3.2. effective and efficient use of telephone numbers;
+3.3. subscriber’s right to retain the telephone number;
+3.4. obligation to provide directory enquiry services;
+3.5. maximum time limit for the use of telephone numbers;
+3.6. transfer of the right to use telephone numbers at the initiative of the right holder and conditions for such transfer. The Authority shall specify such conditions in authorizations to use telephone numbers;
+3.7. fees for the supervision of use of telephone number and fees and payments payable to the state budget in accordance with the procedure established by legal acts;
+3.8. any commitments which a person has made in the course of a tendering or auction procedure;
+3.9. obligations under relevant international treaties and/or other agreements relating to the use of telephone numbers.
+4. Persons shall use electronic communications resources effectively and efficiently. The criteria for effective and efficient use of electronic communications resources shall be laid down in the rules for the assignment and use of electronic resources and in authorizations to use electronic communications resources.
+5. The Authority shall have the right to replace the assigned electronic communications resources with other resources of the same purpose giving notice to electronic communications resource users nine (9) months in advance or to revoke an authorization to use electronic communications resources giving notice to electronic communications resource users eighteen (18) months in advance, provided that this is required by international treaties obligations, legal acts of European Union, or if the purpose of electronic communications resources is changed. When implementing the provisions of this paragraph, the Authority shall apply mutatis mutandis the provisions of Article 55 of this Law.
+6. An entrepreneur that forfeits the right to be engaged in electronic communications activities shall also forfeit the right to use the relevant electronic communications resources.
+7. Where individual rights to use radio frequencies are granted for ten (10) years or more and such rights may not be transferred or leased between entrepreneurs, the Authority shall ensure that the criteria to grant individual rights of use apply and are in compliance with for the duration of the license validity, in particular in cases when the user of the right for use submits such a request and justifies the same request. If those criteria are no longer applicable, the individual right of use shall be changed into a general authorization for the use of radio frequencies, subject to prior notice and after a certain period of time, or shall be made transferable or leasable between entrepreneurs.
+8. Authority shall ensure that radiofrequencies are efficiently and effectively used in accordance with this Law. They shall ensure competition is not distorted by any transfer or accumulation of rights of use of radio frequencies. For such purposes, Authority may take appropriate measures such as mandating the sale or the lease of rights to use radio frequencies.

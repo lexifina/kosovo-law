@@ -1,5 +1,0 @@
-# Neni 70
-Mardhëniet kontraktuese dhe kërkesat gjuhësore
-1. Të gjitha marrëdhëniet ndërmjet një ofruesi të shërbimeve dhe një klienti do të përmbyllen në një kontratë me shkrim e cila specifikon kohën e lidhjes, llojet e shërbimeve të mirëmbajtjes që ofrohen, kompensimi dhe/apo rimbursimi si dhe një përmbledhje të procedurave për zgjidhjen e konflikteve. Sa ka të bëjë me shërbimet me parapagim, ofruesi i shërbimeve do tu dërgojë kushtet e tij shitësve të tij në teren në mënyrë që ata pastaj t’i shpërndajnë informatat shfrytëzuesve.
-2. Dispozitat e kontratave të cilat kanë të bëjnë me kompensim dhe/apo rimbursimin, të bazuara në ndërprerjen e shërbimeve apo reduktimit në qasje, do të vendosin nivelin maksimal që mund t’u rimbursohet shfrytëzuesve. Niveli maksimal i rimbursimit për shfrytëzuesit nuk do të jetë aplikativ nëse ky nivel maksimal është në disproporcion me dështimin e shërbimit dhe dëmtimin e shkaktuar.
-3. Një ofrues i shërbimeve do të furnizojë ART-in me të gjitha kontratat, nëse kërkohet. ART-i mund të shqyrtojë kontratën për të siguruar se ajo është në përputhshmëri me kushtet e përgjithshme të ofruesit të shërbimeve dhe në rast të konflikteve.

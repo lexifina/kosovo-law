@@ -1,5 +1,0 @@
-# Neni 45
-Ndalimi i subvencionimit
-1. Ofruesit e shërbimeve që kryejnë aktivitete të tjera afariste në të cilat ata kanë një fuqi të konsiderueshme në treg përbrenda kuptimit të këtij ligji apo rregullave përkatëse të konkurrencës që janë në fuqi në Kosovë, apo të cilët kanë të drejta të veçanta apo ekskluzive për kryerjen e aktiviteteve specifike afariste apo për shfrytëzimin e resurseve natyrore apo resurseve të tjera të kufizuara në të cilat nuk kanë qasje ofruesit e tjerë të shërbimeve të telekomunikiacioneve, do të detyrohen që të bëjnë ofrimin e shërbimeve të ndërlidhura me telekomunikacionet përmes një njësie tjetër ligjore.
-2. Asnjë ofrues i shërbimeve publike të telekomunikacionit me fuqi të konsiderueshme në treg nuk guxon të kryq subvencionojë plotësisht shërbimet e ndryshme të telekomunikacionit.
-3. Ofruesit e shërbimeve publike të telekomunikacionit që kanë fuqi të konsiderueshme në treg duhet që në mënyrë të qartë të bëjnë ndarjen e strukturave organizative dhe të shënimeve financiare të aktiviteteve të ndryshme të tyre qëllim që të llogariten në mënyrë të saktë fitimet dhe humbjet e secilit aktivitet afarist individualisht.

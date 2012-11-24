@@ -1,6 +1,0 @@
-# Section 60
-Marketing and Use of Radio and Terminal Equipment
-1.Radio and terminal equipment that fail to comply with the provisions of this Law and regulations and/or directive issued there under, shall not be marketed, sold, or used on the territory of Kosovo
-2.Inspectors specifically appointed by the TRA for that purpose may prohibit the marketing, sale or use of equipment specified in paragraph one 1 of this section or adopt other measures specifically approved by the TRA aimed at preventing the marketing, sale or use thereof on the territory of Kosovo.
-3. If radio and terminal equipment that is clearly labeled or otherwise declared to be conforming to the requirements of this Law causes serious damage to the network, emits harmful radio interference or inflicts other damage to the operation of the network, an service provider may exclude it or remove it from use. The service provider shall notify the user and the TRA of such exclusion or removal without delay and the TRA may confirm or overrule such a measure.
-4.The TRA shall describe the procedures for the verification and labeling such radio equipment and terminals in accordance with this section and shall make such information publicly available.

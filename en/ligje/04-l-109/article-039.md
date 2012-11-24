@@ -1,0 +1,4 @@
+# Article 39
+Obligation for providing leased lines
+1. An entrepreneur having SMP on the relevant leased line market must provide a set of leased lines as established by the Authority and comply with the procedure and conditions for providing such services set out in the rules approved by the Authority, also fulfill the obligations related to non-discrimination, cost-oriented prices including the introduction and use of a cost accounting system, transparency and creation of conditions for the provision of services.
+2. An entrepreneur having SMP on the relevant leased line market shall provide leased line services at prices that are derived from costs including a reasonable rate of return on investment. For this purpose, the Authority may establish the highest price level for the leased line services. Paragraphs 4 and 5 of Article 40 of this Law shall apply mutatis mutandis to the cost-orientation of prices and cost accounting.

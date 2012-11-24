@@ -1,0 +1,5 @@
+# Article 30
+Entrepreneurs with Significant Market Power
+1. An entrepreneur shall be considered to possess significant market power (SMP), if, either individually or jointly with others, it enjoys a position equivalent to dominance, i.e. a position of economic strength affording it a power to behave to an appreciable extent independently of competitors, customers and ultimately consumers.
+2. Where an entrepreneur has SMP in a relevant market, it may also be deemed to have SMP on a closely related market (the second market), if the links between the two markets are such as to allow the market power held in one market to be leveraged into the second market, thereby strengthening the market power of the entrepreneur. Consequently, remedies aimed at preventing such leverage may be applied in the second market.
+3. An entrepreneur shall be identified as having SMP where this has been determined by an order of the Authority based on market analysis, and it shall be deemed as such until the Authority determines by its order based on another market analysis that the entrepreneur does not have SMP.

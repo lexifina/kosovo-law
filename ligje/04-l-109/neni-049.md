@@ -1,0 +1,6 @@
+# Neni 49
+Dhënia e resurseve të komunikimeve elektronike drejtpërdrejt personit kërkues
+1. Autoriteti e ka të drejtën të ndajë resurset e komunikimeve elektronike në mënyrë të drejtpërdrejtë personit që i kërkon ato, në rastet kur plotësohet ndonjëri prej kushteve:
+1.1. Autoriteti nuk kufizon numrin e autorizimeve për shfrytëzim të resurseve të komunikimeve elektronike të kërkuara;
+1.2. pas publikimit që e bën Autoriteti për pranimin e një aplikacioni për ndarje të resurseve të komunikimeve elektronike, asnjë person tjetër nuk shpreh interes brenda afatit të caktuar kohor të përcaktuar nga Autoriteti për shfrytëzim të të njëjtit resurs, ose resurset e tilla janë të bollshme për t’iu ndarë të gjithë personave që kanë shprehur interes për atë resurs.
+2. Nëse Autoriteti pranon aplikacione për ndarje të resurseve të komunikimeve elektronike nga disa persona në të njëjtën kohë dhe resurset nuk mund t’iu jepen në të njëjtën kohë të gjithë personave që i kanë kërkuar ato, resurset e tilla duhet të jepen nëpërmjet tenderit, apo ankandit publik. Aplikacionet duhet të merren parasysh ashtu si janë pranuar brenda kohës së përcaktuar nga Autoriteti, duke marrë si kohë referente publikimin e informatës për pranimin e aplikacionit të parë.

@@ -1,0 +1,7 @@
+# Article 60
+Number portability
+1. Providers of public communications networks and/or publicly available electronic communications services shall ensure, on their own costs and in accordance with the procedure and conditions set forth by the Authority, that subscribers can port their numbers where there is a change of telephone service provider or the location of service provision or the way of provision of services.
+2. The requirement that all subscribers with numbers from the national numbering plan, who so request can retain their numbers independently of the entrepreneur providing the service shall apply:
+2.1. in the case of geographic numbers, at a specific location; and
+2.2. in the case of non-geographic numbers, at any location. This paragraph does not apply to the porting of numbers between networks providing services at a fixed location and mobile networks.
+3. Authority shall ensure that pricing between operators and/or service providers related to the provision of number portability is cost-oriented. For this purpose, the Authority shall have the right to apply the rules set out in Article 40 of the Law to all entrepreneurs bound by this Article. Tariffs imposed on subscribers for the exercise of such rights in the cases permitted by the Authority and according to the conditions set forth by it may not act as a disincentive for the use of such a possibility. For this purpose, the Authority may fix the highest price level.

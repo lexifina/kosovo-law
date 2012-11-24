@@ -1,0 +1,5 @@
+# Article 38
+Obligation for carrier selection and pre-selection
+1. Entrepreneurs having SMP in the relevant market for access to and use of public telephone network at a fixed location shall, in accordance with the procedure and conditions set forth by the Authority, to enable on their own account their subscribers to access the services of any operator of publicly available telephone services to which they are interconnected through carrier selection or pre-selection.
+2. Tariffs set for the access and the activation payment with regard to the carrier selection or pre- selection shall be cost-oriented. For this purpose, the rules set out in Article 40 of this Law shall apply. Tariffs imposed on subscribers for the exercise of such rights may not act as a disincentive for the use of such a possibility. For this purpose, the Authority may inclose a tariff ceiling.
+3. The obligation referred to in paragraph 1 of this Article may be imposed by the Authority on any entrepreneur having SMP on the relevant market as well as in relation to the imposition of the obligation referred to in sub-paragraph 1.4 paragraph 1 of Article 32 of this Law.

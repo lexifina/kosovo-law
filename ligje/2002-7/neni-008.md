@@ -1,9 +1,0 @@
-## Kapitulli 3
-## Autoriteti dhe parimet e veprimtarisë së ART-it
-# Neni 8
-Politikat operative dhe standardet e mirësjelljes
-1. Jo më vonë se tridhjetë (30) ditë nga hyrja në fuqi e këtij ligji, ART-i do të adoptojë rregullat e veta operative, duke përfshirë, por duke mos u kufizuar në, punësime dhe politika të punësimit të cilat janë jodiskriminuese dhe që bazohen në përshkrime të shkruara punë. Të gjitha rregullat administrative që adoptohen nga ART-i, do të vihen në dispozicion për inspektim nga publiku.
-2. Jo më vonë se tridhjetë (30) ditë nga hyrja në fuqi e këtij ligji, ART-i do të adoptojë standarde të mirësjelljes për anëtarët dhe personelin, standarde këto që do të sigurojnë që ata i kryejnë detyrat e tyre me ndershmëri dhe mirë, duke evituar konfliktetet e interesit. Standardet e tilla të mirësjelljes do të përfshijnë dispozita të veçanta mbi;
-a) përvetësimin e çfarëdo përfitimi, nga çfarëdo pajisje e telekomunikacionit apo pranimin e çfarëdo të ardhurash financiare nga cilido furnizues apo ofrues i shërbimeve, duke përfshirë, por duke mos u kufizuar në, para të gatshme, aksione, pasuri të patundshme, dhurata, udhëtime apo shërbime personale;
-b) pronësi në, apo autoritet për të ushtruar kontroll apo menaxhuar veprimtarinë e cilitdo furnizues të pajisjeve të telekomunikacionit apo ofruesi të shërbimeve, duke përfshirë PTK-në apo nënvarësve të saj ose cilitdo pasues në interes.
-3. Kufizimet e paragrafit (2) (b) nuk do të zbatohen për aksionet që investohen dhe që mbahen në formë të skemës së pensioneve apo fondit të ndërsjelltë të ndërmjetësuar, duke marrë parasysh sidoqoftë që vlera e aksioneve të tilla të mos kalojë 5 përqind të kapitalit të tregut, dhe duke marrë parasysh që aksionet e tilla të bëhen publike në formë të një deklarate zyrtare në kohën e vendosjes së tyre apo brenda 15 ditëve pas transakcionit të tillë.

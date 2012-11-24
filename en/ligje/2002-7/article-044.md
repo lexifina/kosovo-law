@@ -1,5 +1,0 @@
-# Section 44
-Service Providers with Significant Market Strength
-1. For the purposes of this Law, service providers shall be deemed to have significant market strength if they have a share in commercial activities of the same type of more than twenty-five per cent 25% for a particular service sector of the market in Kosovo. For the purposes of this section, the market shares of service providers that are subsidiaries of other companies working in the same sector, or companies which themselves control other companies working in the same sector shall be considered together and in their entirety.
-2. The TRA shall determine whether a service provider possesses significant market strength at the request of any service provider, or on its own motion.
-3. In determining whether a service provider has significant market strength, the TRA shall take into consideration the relative size of the service provider as compared to the size of the market, the service provider’s ability to influence market conditions, the service provider’s control of access to end users, and the service provider’s financial resources.

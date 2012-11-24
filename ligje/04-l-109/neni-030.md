@@ -1,0 +1,5 @@
+# Neni 30
+Ndërmarrësit me fuqi të ndjeshme tregu
+1. Ndërmarrësi do të konsiderohet që ka fuqi të ndjeshme tregu (FNT) nëse ai, ose bashkë me të tjerët ka një pozitë ekuivalente mbizotërimi, pra një pozitë të forcës ekonomike që i jep fuqi që të veprojë në nivel të konsiderueshëm në mënyrë të pavarur nga konkurrentët, klientët dhe shfrytëzuesit fundorë.
+2. Aty ku ndërmarrësi ka FNT në një treg relevant, gjithashtu mund të mendohet që ka FNT në një treg të lidhur ngushtë me të (tregu tjetër), nëse lidhjet në mes dy tregjeve janë të tilla që të lejojnë që fuqia e tregut që e ka në një treg të ndikojë në tregun tjetër, duke përforcuar fuqinë në treg të ndërmarrësit. Prandaj, detyrimet që kanë për qëllim parandalimin e ndikimit të tillë mund të zbatohen në tregun tjetër.
+3. Ndërmarrësi do të identifikohet që ka FNT atëherë kur përcaktohet me vendim të Autoritetit, bazuar në një analizë të tregut, dhe do të konsiderohet si e tillë derisa Autoriteti përcakton me vendim të saj, bazuar në një analizë tjetër të tregut që ndërmarrësi nuk ka FNT.

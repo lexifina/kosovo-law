@@ -1,0 +1,6 @@
+# Article 49
+Assignment of electronic communications resources Directly to the requesting person
+1. The Authority shall have the right to assign electronic communications resources directly to the person requesting them, in cases when any of the following conditions is fulfilled:
+1.1 the Authority does not limit the number of authorizations to use the electronic communications resources requested;
+1.2. after the publication by the Authority about the receipt of an application for the assignment of electronic communications resources, no other person expresses an interest, within the time limit set by the Authority, to use the same resources, or there are sufficient resources to be assigned to all persons having expressed such interest.
+2. Should the Authority receive applications for the assignment of electronic communications resources from several persons at the same time and the resources may not be assigned at the same time to all of the persons requesting them, such resources shall be assigned by public tender or by auction. Applications shall be considered as received at the same time if they have been submitted within the time limit set by the Authority, counting from the date of publication of information about the receipt of the first application.

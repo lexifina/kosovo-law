@@ -1,0 +1,5 @@
+# Article 26
+Protection of Public Communications Networks
+1. The zone of protection of public communications networks shall comprise a strip of land along the wire lines of public communications networks and around electronic communications infrastructure objects including any plants and structures contained in it. It shall be prohibited in this zone to change the purpose of land, construct other buildings and structures, store equipment and materials, excavate, drill wells, conduct explosions and perform other works that may damage the electronic communications infrastructure without prior consent by the owners of electronic communications infrastructure.
+2. The dimensions and methods of delimitating protection zones as well as the procedure for carrying out works within such zones shall be established by the Authority.
+3. Employees or other representatives acting under the authority of a person who operates an infrastructure of public communications networks shall have the right to maintain electronic communications infrastructure according to the rules set forth by the Authority.

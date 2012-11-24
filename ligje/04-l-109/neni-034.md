@@ -1,0 +1,12 @@
+# Neni 34
+Detyrimi për transparencë
+1. Autoriteti, pavarësisht nga dispozitat e nenit 18, mund t’i imponojë detyrimet për transparencë në lidhje me interkonekcionin dhe/ose qasjen dhe të kërkojë që ndërmarrësi me FNT ta publikojë informacionin e specifikuar nga Autoriteti, duke përfshirë:
+1.1. informacion për kontabilitetin;
+1.2. specifikimet teknike;
+1.3. karakteristikat/ veçoritë e rrjetit;
+1.4. termat dhe kushtet për dhënie dhe përdorim, duke përfshirë çdo kusht që kufizon qasjen dhe/ose përdorimin e shërbimeve dhe aplikacioneve aty ku kushtet e tilla janë të lejuara me akte ligjore;
+1.5. tarifat, duke përfshirë zbritjet.
+2. Autoriteti mund të kërkojë nga operatorët që kanë FNT në një treg relevant ta publikojnë një ofertë referimi për ofrimin e qasjes dhe të shërbimeve shoqëruese sipas kushteve të paraqitura nga Autoriteti, duke përfshirë kërkesat për përmbajtjen e ofertave të referimit. Oferta duhet të jetë mjaft e detajuar për të garantuar që nuk do të kërkohet nga ndërmarrësit që të paguajnë për facilitetet që nuk janë të nevojshme për shërbimin e kërkuar, duke dhënë një përshkrim për ofertat relevante që janë ndarë në komponente sipas nevojave të tregut dhe për termat dhe kushtet shoqëruese duke përfshirë çmimet e arsyetuara. Autoriteti ka të drejtë që të kërkojë për operatorin që ka ndryshim të FNT, brenda një periudhe të kufizuar të caktuar nga Autoriteti, termat dhe kushtet e një oferte referimi për të dhënë efekt në detyrimet e imponuara me këtë ligj për operatorët me FNT.
+3. Autoriteti mund të specifikojë informacionin e saktë që duhet të vihen në dispozicion sipas paragrafëve 1., 2. dhe 5. të këtij neni, nivelin e kërkuar të detajuar, mënyrën e publikimit dhe kushtet tjera të publikimit.
+4. Informacioni i referuar në paragrafët 1., 2. dhe 5. të këtij neni, duke përfshirë pikat gjeografike të interkoneksionit të rrjetit, kushtet e testimit të interkoneksionit, kushtet e pagesës dhe bashkëshfrytëzimit të infrastrukturës së komunikimeve elektronike, kushtet për përzgjedhjen e ofruesit të shërbimeve të komunikimeve elektronike dhe të tarifave, mund të mos konsiderohet informacion konfidencial.
+5. Operatori që ka për detyrë ofrimin e ‘shitjes me shumicë’ të qasjes në infrastrukturën e rrjetit dhe/ose qasjes së lirë (unbundled) në lakun lokal duhet ta publikojë një ofertë referente sipas kushteve të vendosura nga Autoriteti duke përfshirë kërkesat për përmbajtjen e ofertave referente. Dispozitat e paragrafëve 1. dhe 2. të këtij neni do të zbatohen në ofertën e tillë referente.

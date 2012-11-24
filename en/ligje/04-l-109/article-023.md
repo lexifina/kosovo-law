@@ -1,0 +1,4 @@
+# Article 23
+Installation, Protection, Sharing and Maintenance of Electronic Communications Infrastructure in Road Systems
+1. After having coordinated in accordance with the requirements of the relevant legislation, their actions with state or municipal institutions, operators may use the lanes of state and municipal roads, squares, pipelines, water bodies and their shores, bridges, viaducts, tunnels and other structures for the construction of public communications networks free or minimum charge to cover the administrative costs of respective Institutions.
+2. Upon the completion of installing, reconstructing or repairing electronic communications infrastructure, the operators must put roads and/or related structures in order in accordance with the procedure established by other legislation.

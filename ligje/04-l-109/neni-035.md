@@ -1,0 +1,6 @@
+# Neni 35
+Detyrimi për ndarjen e llogarive
+1. Autoriteti mund t’i imponojë detyrimet për ndarjen e llogarive për aktivitetin e veçantë ose aktivitetet për qasjen në operatorin që ka FNT në një treg relevant.
+2. Autoriteti vendos rregullat për ndarje të llogarive dhe kërkesat lidhur me të, duke përfshirë kërkesën për auditim.
+3. Autoriteti mund të kërkojë nga një kompani e integruar vertikalisht që të bëjë transparente çmimet me shumicë dhe çmimet e transfereve të saj të brendshëm, ndër të tjera për të garantuar përputhshmërinë aty ku ka kërkesë për jodiskriminim sipas nenin 33 të këtij ligji ose, aty ku është e domosdoshme, për të parandaluar kryq-subvencionimet e padrejta. Autoriteti mund ta specifikojë formën dhe metodologjinë e llogaritjes që do të përdoret.
+4. Në mënyrë që të lehtësohet verifikimi i përputhshmërisë me detyrimet të referuara në nenet 33 dhe 34 të këtij ligji, Autoriteti mund të kërkojë që të dhënat e llogarive, përfshirë të dhënat për të ardhurat e pranuara nga palët e treta, të jepen me kërkesë në mënyrën dhe formën e përcaktuar me rregullat për ndarjen e llogarive të referuar në paragrafin 2 të këtij neni. Autoriteti do ta publikojë këtë informacion nëse është e domosdoshme për të kontribuar për një treg të hapur dhe konkurrues. Në veprimin e tillë, Autoriteti do të marrë parasysh rregullat që lidhen me informacionin konfidencial.

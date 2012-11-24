@@ -1,6 +1,0 @@
-# Neni 42
-Kontabiliteti
-1. Ofruesit e shërbimeve të rrjetave publike të telekomunikacionit dhe shërbimeve duhet të sigurojnë ndarjen e duhur të niveleve organizative dhe atyre të kontabilitetit me qëllim që të lehtësohet ndarja e të hyrave, shpenzimeve dhe të çmimeve të shërbimeve individuale të telekomunikacionit që ata kryejnë, si dhe që të bëjnë revizionimin vjetor të deklaratave financiare bazuar në standardet ndërkombëtare të kontabilitetit dhe në bazë të ligjeve aplikative apo rregulloreve të UNMIK-ut në Kosovë, të publikojnë deklaratat e revizionuara financiare dhe të dorëzojnë një raport vjetor në ART.
-2. Ofruesit e shërbimeve të cilët ofrojnë shërbime publike të telekomunikacionit, përveç shërbimeve të tyre të transmetimit, duhet të mbajnë shënime të ndara financiare në lidhje me aktivitetet e tyre individuale në pajtim me paragrafin (1) të këtij neni.
-3. ART-i ka të drejtën që të inspektojë shënimet financiare të të gjithë ofruesve të shërbimeve.
-4. ART-i mund të kërkojë nga ofruesit e shërbimeve të telekomunikacionit që të adoptojnë standarde specifike të kontabilitetit me qëllim të parandalimit të subvencioneve të kryqëzuara të shërbimeve dhe me qëllim të përmbushjes së synimeve të tjera të këtij ligji.
