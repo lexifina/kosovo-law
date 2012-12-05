@@ -1,0 +1,40 @@
+Ligji Nr. 04/ L-153 01 nëntor 2012
+Shpallur me dekretin Nr.DL-051-2012, datë 09.11.2012 nga Presidentja e Republikës së Kosovës Atifete Jahjaga.
+1
+LIGJI Nr. 04/L-153 PËR RATIFIKIMIN E AMENDAMENTIT TË NENEVE TË MARRËVESHJES SË FONDIT MONETAR NDËRKOMBËTAR MBI REFORMËN E BORDIT EKZEKUTIV
+ANEKSI 1.
+Qeveritë në emër të të cilave është nënshkruar kjo Marrëveshje pajtohen si më poshtë:
+1. Teksti i nenit XII, pjesa 3 (b) do të ndryshohet si në vijim:
+(b) Në bazë të (c) më poshtë, Bordi Ekzekutiv do të përbëhet nga njëzet(20) Drejtorë Ekzekutivë të zgjedhur nga anëtarët, me Drejtorin Menaxhues si kryesues.
+2. Teksti i nenit XII, pjesa 3 (c) do të ndryshohet si në vijim:
+(c) Për qëllimet e çdo zgjedhjeje të rregullt të Drejtorëve Ekzekutivë, Bordi i Guvernatorëve, me një shumicë prej tetëdhjetë e pesë për qind (85 %) të votave të përgjithshme, mund të rrisë apo të ulë numrin e Drejtorëve Ekzekutivë të specifikuar në pikën (b) më sipër.
+3. Teksti i nenit XII, pjesa 3 (d) do të ndryshohet si në vijim:
+(d) Zgjedhjet e Drejtorëve Ekzekutivë do të kryhen në intervale prej dy (2) vitesh në përputhje me rregulloret që do të miratohen nga Bordi i Guvernatorëve. Këto rregullore do të përfshijnë një kufizim në numrin e përgjithshëm të votave që më shumë se një (1) anëtar mund të hedh për kandidatin e njëjtë.
+4. Teksti i nenit XII, pjesa 3 (f) do të ndryshohet si në vijim:
+(f) Drejtorët Ekzekutivë do të vazhdojnë detyrën derisa pasardhësit e tyre të jenë zgjedhur. Nëse pozita e një Drejtori Ekzekutiv mbetet vakante më shumë se nëntëdhjetë (90) ditë para përfundimit të mandatit të tij, një tjetër Drejtor Ekzekutiv do të zgjedhet për mandatin e mbetur, nga ana e anëtarëve që kanë zgjedhur ish-Drejtorin Ekzekutiv. Për zgjedhje do të nevojitet shumica e votave. Derisa pozita mbetet vakante, Zëvendësuesi i ish-Drejtorit Ekzekutiv do të ushtrojë kompetencat e tij, përveç atë të emërimit të Zëvendësuesit.
+5. Teksti i nenit XII, pjesa 3 (i) do të ndryshohet si në vijim:
+(i) Çdo Drejtor Ekzekutiv ka të drejtë të hedhë numrin e votave që u hodhën në dobi të zgjedhjes së tij.
+(ii) Kur dispozitat e pjesës 5 (b) të këtij neni janë të zbatueshme, votat që një Drejtor Ekzekutiv ndryshe do të kishte të drejtë t’i hedhte do të rriten ose zvogëlohen në mënyrën përkatëse. Të gjitha votat që një Drejtor Ekzekutiv ka të drejtë të hedhë, do të hedhën si një njësi.
+(iii) Kur pezullimi i të drejtave të votës së një anëtari të ndërpritet sipas nenit XXVI, pjesa 2(b), anëtari mund të pajtohet me të gjithë anëtarët që kanë zgjedhur një Drejtor Ekzekutiv që numri i votave të ndara për atë anëtar do të hedhen nga ai Drejtor Ekzekutiv, me kusht që, nëse nuk është kryer zgjedhja e rregullt e Drejtorëve Ekzekutivë gjatë periudhës së pezullimit, Drejtori Ekzekutiv në zgjedhjen e të cilit anëtari kishte marrë pjesë para pezullimit, apo pasardhësi i tij i zgjedhur në përputhje me paragrafin 3 (c) (i) të Aneksit L ose me (f) më sipër, ka të drejtë të hedhë numrin e votave të ndara për anëtarin. Anëtari, do të konsiderohet se ka marrë pjesë në zgjedhjen e Drejtorit Ekzekutiv, me të drejtë për të hedhur numrin e votave të ndara për atë anëtar.
+6. Teksti i nenit XII, pjesa 3 (j) do të ndryshohet si në vijim:
+(j) Bordi i Guvernatorëve miraton rregullore sipas të cilave një anëtar mund të dërgojë një përfaqësues për të marrë pjesë në çdo mbledhje të Bordit Ekzekutiv, kur është duke u konsideruar një kërkesë e bërë nga ai anëtar ose një çështje që veçanërisht ka të bëjë me atë anëtar.
+7. Teksti i nenit XII, pjesa 8 do të ndryshohet si në vijim:
+Fondi në çdo kohë do të ketë të drejtë të komunikojë pikëpamjet e veta në mënyrë joformale tek secili anëtar për çdo çështje që del nga kjo Marrëveshje. Fondi, mundet, me një shumicë prej shtatëdhjetë për qind (70%) të votave të përgjithshme, të vendosë të botojë një raport të bërë për një anëtar në lidhje me kushtet e tij monetare apo ekonomike dhe zhvillimet të cilat drejtpërdrejt kanë tendencë për të krijuar një çekuilibrimin serioz në bilancin ndërkombëtar të pagesave të anëtarëve. Anëtari përkatës ka të drejtë të përfaqësimit në pajtim me pjesën 3 (j) të këtij neni. Fondi nuk do të publikojë raportin që përfshin ndryshime në strukturën fundamentale të organizimit ekonomik të anëtarëve.
+8. Teksti i nenit XXI(a)(ii) do të ndryshohet si në vijim:
+(a) (ii) Për vendimet nga ana e Bordit Ekzekutiv për çështjet që kanë të bëjnë ekskluzivisht me Departamentin për të Drejtat Speciale të Tërheqjes, vetëm Drejtorët Ekzekutivë të zgjedhur nga të paktën një anëtar që është pjesëmarrës, kanë të drejtë vote. Secili nga këta Drejtorë Ekzekutivë ka të drejtë të hedhë numrin e votave të ndara për anëtarët që janë pjesëmarrës, votat e të cilëve janë numëruar për zgjedhjen e tij. Vetëm prania e Drejtorëve Ekzekutivë të zgjedhur nga anëtarët që janë pjesëmarrës dhe votat që i ndahen anëtarëve që janë pjesëmarrës do të llogariten për të përcaktuar nëse ekziston kuorumi ose nëse një vendim merret nga shumica e kërkuar.
+9. Teksti i nenit XXIX(a) do të ndryshohet si në vijim:
+(a) Çdo paqartësi sa i përket interpretimit të dispozitave të kësaj Marrëveshjeje, që lind ndërmjet ndonjërit anëtar dhe Fondit ose ndërmjet anëtarëve të Fondit do t’i paraqitet Bordit Ekzekutiv për vendimin e tij. Nëse pyetja prek ndonjë anëtar në veçanti, ai ka të drejtë të përfaqësimit në përputhje me nenin XII, pjesa 3 (j).
+10. Teksti i paragrafit 1(a) të Aneksit D do të ndryshohet si në vijim:
+(a) Çdo anëtar ose grup i anëtarëve që ka numrin e votave të ndara për të të hedhura nga një Drejtor Ekzekutiv do të emëroj një (1) Këshilltar në Këshill, i cili do të jetë Guvernator, Ministër në qeverinë e një anëtari ose person i rangut të krahasueshëm, dhe mund të emëroj deri në shtatë (7) Ndihmës. Me një shumicë prej tetëdhjetë e pesë për qind (85%) të votave të përgjithshme, Bordi i Guvernatorëve mund ta ndryshojë numrin e ndihmësve të cilët mund të emërohen. Një Këshilltar apo Ndihmës do të shërbejë deri në një emërim të ri ose deri në zgjedhjet e ardhshme të rregullta të Drejtorëve Ekzekutivë, cilado që ndodhë më parë.
+11. Teksti i paragrafit 5(e) të Aneksit D do të hiqet.
+12. Paragrafi 5(f) i Aneksit D do të rinumërohet si 5(e) e Aneksit D ndërsa teksti i paragrafit të ri 5(e) do të ndryshohet si në vijim:
+(e) Kur një Drejtor Ekzekutiv ka të drejtë të hedhë numrin e votave që i ndahen një anëtari në pajtim me nenin XII, pjesa 3 (i) (iii), Këshilltari i emëruar nga grupi, anëtarët e të cilit kanë zgjedhur atë Drejtor Ekzekutiv ka të drejtë të votojë dhe të hedhë numrin e votave të ndara për atë anëtar. Anëtari do të konsiderohet të ketë marrë pjesë në emërimin e Këshilltarit i cili ka të drejtë për të votuar dhe për të hedhur numrin e votave të ndara për anëtarin.
+13. Teksti i Aneksit E do të ndryshojë si në vijim:
+Dispozitat kalimtare në lidhje me Drejtorët Ekzekutivë
+1. Me hyrjen në fuqi të këtij Aneksi:
+(a) Çdo Drejtor Ekzekutiv i cili është emëruar në pajtim me ish-nenin XII, pjesët 3 (b) (i) ose 3 (c), dhe ka qenë në detyrë menjëherë para hyrjes në fuqi të këtij Aneksi, do të konsiderohet të jetë zgjedhur nga anëtari që e emëroi atë, dhe
+(b) Secili Drejtor Ekzekutiv i cili hedh numrin e votave të një anëtari në pajtim me ish-nenin XII, pjesët 3 (i) (ii) menjëherë para hyrjes në fuqi të këtij Aneksi, do të konsiderohet të jetë zgjedhur nga ai anëtar.
+14. Teksti i paragrafit 1(b) i Aneksit L do të ndryshojë si në vijim:
+(b) të emërojë një Guvernator ose Guvernator Zëvendësues, të emërojë ose të marrë pjesë në emërimin e një Këshilltari ose Këshilltari Zëvendësues, të zgjedhë ose të marrë pjesë në zgjedhjen e një Drejtori Ekzekutiv.
+15. Teksti i pjesës hyrëse të paragrafit 3 (c) të Aneksit L do të ndryshojë si në vijim:
+(c) Drejtori Ekzekutiv i zgjedhur nga anëtari, ose në zgjedhjen e të cilit ka marrë pjesë anëtari, do të pushojë së mbajturi pozitën, përveç nëse ai Drejtori Ekzekutiv ka të drejtë të hedhë numrin e votave të ndara për anëtarët e tjerë, të drejtat e votimit të të cilëve nuk janë suspenduar. Në rastin e dytë:
