@@ -1,0 +1,2 @@
+# Article 1
+Purpose The Agreement establishing the European Bank for Reconstruction and Development, as signed on May 29, 1990, as subsequently amended, is hereby ratified, along with the amendment to Article 1 of this Agreement, with the purpose of expanding in the countries of South and East Mediterranean, as approved by the EBRD Board of Governors on 30 September 2011 with the adoption of Resolution No. 137.
