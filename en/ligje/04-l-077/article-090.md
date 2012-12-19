@@ -1,0 +1,4 @@
+# Article 90
+Consequences of nullity
+1. If a contract is null and void each contracting party must return everything to the other party that was received on the basis of the contract; if this is impossible or if return is prevented by the nature of that which was performed appropriate monetary compensation must be provided according to the prices at the time the court ruling was issued, unless stipulated otherwise by law.
+2. If a contract is null and void because in terms of its content or purpose it contravenes fundamental moral principles the court may entirely or partly reject a claim by the dishonest party for the reimbursement of that provided to the other party; in ruling the court shall consider the extent to which one or both of the parties acted in good faith and the significance of the interests under threat.

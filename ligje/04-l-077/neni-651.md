@@ -1,0 +1,6 @@
+# Neni 651
+Ndryshimi i çmimit
+1. Në qoftë së me kontratë lidhur me ndryshimin e çmimit nuk është parashikuar diçka tjetër, kryerësi që e ka kryer detyrimin e vet në afatin e parashikuar mund të kërkojë rritjen e çmimit të punimeve në qoftë se në kohën midis lidhjes së kontratës e të përmbushjes së saj kanë ndryshuar çmimet e elementeve në bazë të cilave është caktuar çmimi i punimeve, kështu që do të duhej që ky çmim të ishte më i madh për më shumë se dy përqind (2%).
+2. Në rastin kur kryerësi i punimeve me faj të vet nuk i ka kryer punimet në afatin e parashikuar me kontratë, ai mund të kërkojë rritjen e çmimit të punimeve në qoftë se në kohën midis lidhjes së kontratës dhe ditës kur sipas kontratës është dashur të përfundoheshin punimet e elementeve në bazë të të cilave është caktuar, kështu që ky do të duhej sipas çmimeve të reja të këtyre elementeve të ishte më i madh për më se pesë për qind.
+3. Në rastet nga paragrafët e mësipërm, kryerësi mund të kërkojë vetëm diferencën në çmimin e punimeve që tejkalon dy (2%) përkatësisht pesë përqind (5%).
+4. Kryerësi nuk mund të thirret në rritjen e çmimit të elementeve në bazë të të cilave është caktuar çmimi i punimeve, në qoftë se deri te rritja e çmimit ka ardhur pas ardhjes së tij në vonesë.

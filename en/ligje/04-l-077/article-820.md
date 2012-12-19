@@ -1,0 +1,7 @@
+# Article 820
+Payment (commission)
+1. The mandator must pay the agent a commission for the contracts concluded with the latter’s mediation, and also for those contracts concluded by the agent if so authorized.
+2. The agent shall also have the right to a payment for those contracts concluded directly by the mandator with parties found by the agent.
+3. An agent that in accordance with a contract only works in a specific area or with specific parties shall also have the right to a payment for those contracts concluded for the mandatory with parties from that area or with the specific parties without the agent’s mediation.
+4. The agent shall only have the right to a commission for a contract concluded after the termination of the relationship between the agent and the mandator if the contract is the result of the agent’s endeavours during the relationship with the mandator and was concluded a reasonable time after the termination of this relationship or if the third person’s offer to conclude the contract came to the agent or the mandator prior to the termination of their relationship and it is a matter of any of the contracts under the first, second or third paragraphs of this article.
+5. Paragraph 2 and 3 of this Article shall not apply if the right to a commission was acquired by a previous agent in accordance with the paragraph 4. of this article, unless under the circumstances it would be just for the commission to be shared between the agents.

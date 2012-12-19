@@ -1,0 +1,4 @@
+# Neni 678
+Kur dërgesa nuk mund të dorëzohet
+1. Në qoftë se marrësi nuk mund të njoftohet për arritjen e dërgesës ose refuzon ta pranojë dhe në përgjithësi në qoftë se dërgesa nuk mund të dorëzohet ose në qoftë se marrësi nuk i’a paguan transportuesit shpërblimin qe e ka për detyrë dhe shumat e tjera që e ngarkojnë dërgesën, transportuesi ka për detyrë ta njoftojë për këtë dërguesin, të kërkojë prej tij udhëzime dhe të ndermerr masa të duhura për llogari të tij për ruajtjen e sendit.
+2. Në qoftë se brenda afatit të arsyeshëm personi i autorizuar nuk pranon dërgesën, transportuesi ka të drejtë ta shesë dërgesën sipas rregullave për shitjen e sendit në rastin e vonesës së kreditorit dhe të arkëtojë kërkesat e veta nga çmimi i realizuar, ndërsa mbetjen ka për detyrë ta depozitojë në gjykatë për personin e autorizuar.

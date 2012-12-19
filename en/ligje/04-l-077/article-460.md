@@ -1,0 +1,4 @@
+# Article 460
+Prevention of delivery of dispatched thing
+1. If after the dispatch of a thing it is shown that the buyer’s pecuniary circumstances have changed sufficiently for there to be a justifiable doubt as to whether the buyer will be able to pay the purchase money, the seller may prevent the delivery of the thing to the buyer even when the document by which the buyer is entitled to demand the delivery of the thing is already in the buyer’s hands.
+2. The seller may not prevent delivery if demanded by a third person with the correct document that gives such person the right to demand delivery of the thing, unless the document contains reservations regarding the effect of the transfer or if the seller shows that the holder of the document knowingly acted to the detriment of the seller when acquiring the document.

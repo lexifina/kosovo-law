@@ -1,0 +1,5 @@
+# Neni 84
+Të drejtat e përfaqësuesit të shitjeve të udhëtimeve 1. Përfaqësuesi i shitjeve të udhëtimeve për një kompani ose tregtar të vetëm autorizohet vetëm për veprimet juridike që lidhen me shitjen e mallrave dhe të përmendura në autorizim.
+2. Në rast se nuk është e sigurt, përfaqësuesi i shitjeve të udhëtimeve konsiderohet se nuk ka të drejtë të lidhë kontratë, por thjesht të marrë urdhra.
+3. Përfaqësuesit e shitjeve të udhëtimeve të autorizuar për lidhjen e kontratave për shitjen mallrave nuk autorizohen për lidhjen e kontratave për kredi ose për pranimin e të ardhurave të shitjeve, përveç nëse posedojnë një autorizim të veçantë për shitje të kredisë ose për pranimin e të ardhurave të shitjeve.
+4. Përfaqësuesit e shitjeve të udhëtimeve kanë të drejtë të pranojnë për autorizuesin deklarata në lidhje me të metat në mallra dhe deklarata të tjera në lidhje me përmbushjen e kontratës së lidhur me përfshirjen e tyre, dhe të marrë masat e nevojshme në emër të autorizuesit për të ruajtur të drejtat kontraktore të autorizuesit.

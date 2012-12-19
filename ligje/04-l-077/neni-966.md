@@ -1,0 +1,5 @@
+# Neni 966
+Pasojat e mospagimit të premisë dhe zvogëlimi i shumës së siguruar
+1. Në qoftë se kontraktuesi i sigurimit të jetës nuk paguan ndonjë premi kur rrjedh për pagesë, siguruesi nuk ka të drejtë që pagimin e saj të kërkojë në rrugë gjyqësore.
+2. Në qoftë se kontraktuesi i sigurimit me ftesën e siguruesit, e cila i duhet dorëzuar me letër të porositur, nuk e paguan preminë e rrjedhur për pagesë brenda afatit të caktuar në këtë letër, e që nuk mund të jetë më i shkurtër se një (1) muaj, duke llogaritur që nga dita kur i është dorëzuar letra, dhe as që e bën këtë ndonjë person tjetër i interesuar, siguruesi mundet vetëm, në qoftë se gjer atëherë janë paguar të paktën tri (3) premitë vjetore t’i deklarojë kontraktuesit të sigurimit se e zvogëlon shumën e siguruar në shumën e vlerës riblerëse të sigurimit, e në rastin e kundërt se e zgjidh kontratën.
+3. Në qoftë se rasti i siguruar ka ndodhur përpara zgjidhjes së kontratës ose zvogëlimit të shumës së siguruar, konsiderohet sikundër të jetë zvogëluar shuma e siguruar, respektivisht sikur kontrata të jetë zgjidhur, varësisht nga fakti nëse premitë janë paguar të paktën për tri (3) vjet ose jo.

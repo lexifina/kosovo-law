@@ -1,0 +1,4 @@
+# Neni 554
+Ruajtja e të drejtave gjatë dorëzimit
+1. Gjatë dorëzimit dhe ndarjes së pasurisë dorëzuesi mund të ruaj për veten e tij apo saj, bashkëshorten apo bashkëshortin e tij apo saj apo për çdo person tjetër të drejtën e uzufruktit mbi të gjithë pasurinë apo një pjesë të pasurisë së dorëzuar ose të kërkojë një rentë jetësore me para në dorë apo në vepër, mbajtje të përjetshme ose ndonjë kompensim tjetër.
+2. Nëse është arritur marrëveshja mbi uzufruktin ose rentën jetësore për dorëzuesin dhe bashkëshorten apo bashkëshortin e tij apo saj së bashku, atëherë në rast të vdekjes së njërit prej tyre uzufrukti apo renta jetësore i takon tjetrit në tërësinë e plotë të saj deri në vdekjen e këtij tjetrit, përveç nëse është përcaktuar ndryshe me marrëveshje ose përveç nëse rrjedh ndryshe nga rrethanat e rastit.

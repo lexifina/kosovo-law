@@ -1,0 +1,5 @@
+# Article 966
+Consequences of unpaid premium and reduction of insurance sum
+1. If in life assurance the policyholder fails to pay any premium when it falls due the insurance agency shall not have the right to demand payment in court.
+2. If at the insurance agency’s request, which must be delivered by registered post, the policyholder fails to pay a due premium by the deadline stipulated in the letter, which may not be shorter than one (1) month counted from when the letter was delivered, and this is not done by any other interested party, the insurance agency may only, if at least three (3) annual premiums have been paid prior to then, declare to the policyholder that it is reducing the insurance sum to the redeemable value of the insurance may declare that it is withdrawing from the contract.
+3. If the insurance case arose before the contract was rescinded or the insurance sum reduced, the insurance sum shall be deemed to have been reduced or the contract shall be deemed to have been rescinded, with regard to whether premiums had been paid for at least three (3) years.

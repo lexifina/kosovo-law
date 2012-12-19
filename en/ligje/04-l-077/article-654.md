@@ -1,0 +1,5 @@
+# Article 654
+Ordering party’s right to demand reduction in agreed fee
+1. If in the time between the conclusion of the contract and the performance of the contractor’s obligation the prices for elements on which the fee was based fell by more than two percent (2%) and the work was performed by the agreed deadline the ordering party shall have the right to demand an appropriate reduction in the agreed fee for the works above such a percentage.
+2. If it was agreed that the fee for the works would not be changed and the work was performed by the agreed deadline the ordering party shall have the right to a reduction in the agreed fee when the prices for elements on which the fee was based fell such that the fee would be more than ten per cent lower, the reduction being for the difference above ten percent (10%).
+3. If the works contractor is in delay the ordering party shall have the right to a proportionate reduction in the fee for the works for each fall in the price of elements on which the fee was based.

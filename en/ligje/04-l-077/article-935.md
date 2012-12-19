@@ -1,0 +1,8 @@
+# Article 935
+Increase in risk
+1. With regard to property insurance the policyholder shall be obliged to notify the insurance agency regarding any change in circumstances that could be significant to the assessment of risk; with regard to personal insurance the policyholder shall only be obliged if the risk increases because the insured person’s work has changed.
+2.. He shall be obliged to notify the insurer without delay of the increase in risk, and should the increase of risk occur without his actions, he shall be obliged to notify the insurer within fourteen (14) days after becoming aware of it.
+3. If the increase in risk is such that the insurance agency would not have concluded the contract if such was the situation when it was concluded, the insurance agency may withdraw from the contract.
+4. If the increase in risk is such that the insurance agency would only have concluded the contract under a higher premium if such was the situation when it was concluded, the insurance agency may propose a new level of premium to the policyholder.
+5. If the policyholder does not consent to the new level of premium within fourteen (14) days of receiving the proposal the contract shall terminate by law alone.
+6. However the contract shall remain valid and the insurance agency shall no longer be entitled to propose a new level of premium to the policyholder or withdraw from the contract if it fails to exercise these rights one (1) month of learning in any way of the increase in risk or if before this deadline passes it shows in any way that it consents to the extension of the contract (if it accepts a premium, pays an insurance payout for an insurance case arising after the increase, etc.).

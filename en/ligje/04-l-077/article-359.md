@@ -1,0 +1,3 @@
+# Article 359
+Compensation claims for reason of corruption
+If the damage was inflicted by an act on which the offering, provision, acceptance or demanding of a bribe or any other benefit or the promise thereof had a direct or indirect influence, or by the omission of action that would have prevented an act of corruption, or by any other act that according to law or international treaty entails corruption, the claim shall become statute-barred five (5) years after the injured party learnt of the damage and of the person that inflicted it; in any case it shall become statute-barred fifteen (15) years after the act was committed.

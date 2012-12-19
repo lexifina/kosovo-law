@@ -1,0 +1,6 @@
+# Neni 899
+E drejta e organizatorit të udhëtimit për të hequr dorë nga kontrata
+1. Organizatori i udhëtimit mund të heqë dorë nga kontrata, plotësisht ose pjesërisht, pa detyrimin e shpërblimit të dëmit, në qoftë se përpara ose gjatë kohës së zbatimit të kontratës lindin rrethana të jashtëzakonshme që nuk kanë mundur të parashikohen dhe as të shmangen ose të mënjanohen e që po të ekzistonin në kohën e lidhjes së kontratës, do të përbënin shkak të bazuar për organizatorin e udhëtimit që të mos e lidhë kontratën.
+2. Organizatori i udhëtimit mund të heq dorë nga kontrata pa detyrimin e shpërblimit të dëmit edhe kur numri minimal i udhëtarëve i parashikuar në vërtetimin mbi udhëtimin nuk është grumbulluar me konditë që për ketë rrethanë udhëtari të jetë njoftuar brenda afatit të caktuar që nuk mund të jetë më i shkurtër se pesë ditë para ditës kur udhëtimi është dashur të fillonte.
+3. Në rastin e heqjes dorë nga kontrata para zbatimit të saj, organizatori duhet të kthejë në tërësi atë që ka marrë nga udhëtari.
+4. Në qoftë se organizatori ka hequr dorë nga kontrata gjatë kohës së zbatimit të saj ka të drejtë të marrë shpërblim të drejtë për shërbimet e realizuara të kontraktuara, kurse ka për detyrë të marrë të gjitha masat e domosdoshme për ruajtjen e interesave të udhëtarit.

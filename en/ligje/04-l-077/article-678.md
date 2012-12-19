@@ -1,0 +1,4 @@
+# Article 678
+If consignment cannot be delivered
+1. If it is not possible to notify the recipient regarding the arrival of the consignment, if the recipient does not wish to accept it, if it is not possible to deliver the consignment or if the recipient fails to pay the carrier the payment owed and other sums charged on the consignment, the carrier must notify the sender of such, request the sender’s instructions and take all measures necessary to ensure the safekeeping of the thing at the sender’s expense.
+2. If an entitled person fails to take any measures in respect of the consignment by an appropriate deadline the carrier shall have the right to sell the thing under the rules on the sale of an indebted thing in the event of the creditor’s delay and to pay off the claims from the revenue acquired; the remainder must be deposited with the court for the entitled person.

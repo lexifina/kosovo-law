@@ -1,0 +1,5 @@
+# Article 464
+Inspection of thing and patent defects
+1. The buyer shall be obliged to inspect the thing received in the customary manner or forward it for inspection as soon this is possible under the normal course of events, and to notify the seller regarding any patent defects within eight (8) days or immediately in the case of a commercial contract; otherwise the buyer shall lose the right deriving therefrom.
+2. If the inspection was conducted in the presence of the two parties the buyer must immediately pass on to the seller any comments because of patent defects; otherwise the buyer shall lose the right deriving therefrom.
+3. If the buyer dispatches the thing onward without repacking it and when the contract was concluded the seller knew or should have known of the possibility of such onward dispatch the inspection may be deferred until the thing reaches its intended new destination; in this case the buyer must notify the seller regarding any defects as soon as the buyer could learn of them under the normal course of events from the customers.

@@ -1,0 +1,4 @@
+# Neni 183
+Shpërblimi në të holla
+1. Për dhembjet e pësuara fizike, për dhembjet e pësuara shpirtërore për shkak të zvogëlimit të aktivitetit jetësor, të shëmtimit, të cenimit të autoritetit, të nderit, të lirive ose të të drejtave të personalitetit, të vdekjes së personit të afërm, si dhe frikës, gjykata, po të konstatojë se rrethanat e rastit sidomos intensiteti i dhembjeve dhe i frikës dhe zgjatja e tyre e arsyetojnë këtë, do të gjykojë shpërblimin e drejtë në të holla, pavarësisht nga shpërblimi i dëmit material si dhe nga mungesa e dëmit material.
+2. Me rastin e vendosjes për kërkesën për shpërblimin e dëmit jo material, si dhe për lartësinë e shpërblimit të tij, gjykata do të kujdeset për rëndësinë e cenimit të së mirës dhe të qëllimit të cilit i shërben ky shpërblim, por edhe për atë, se me te mos të favorizohen synimet që nuk janë në pajtim me natyrën e saj dhe me qëllimin shoqëror.

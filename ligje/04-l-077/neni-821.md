@@ -1,0 +1,5 @@
+# Neni 821
+Shuma e shpërblimit
+1. Në qoftë se shuma e shpërblimit nuk është caktuar me kontratë, ose me tarifë, përfaqësuesit tregtar ka të drejtë në shpërblimin e zakonshëm në fushën në të cilën përfaqësuesit tregtar ka kryer aktivitetin për urdhërdhënësin, duke marrë parasysh natyrën punëve të agjencisë. Përfaqësuesit tregtar i cili ka ofruar shërbime për urdhërdhënësin në disa fusha ka të drejtë në provizionin e zakonshëm për këtë fushë në vendin ku ndodhet zyra kryesore.
+2. Nëse nuk është e mundur të përcaktohet provizioni sipas nenit paraprak, përfaqësuesit tregtar ka të drejtë provizioni në një shumë që i merr parasysh të gjitha rrethanat e punës së kryer, veçanërisht numrin dhe vlerën e punëve juridike të kryera ndërmjet urdhërdhënësit dhe personit të tretë si dhe natyrën dhe vështirësinë e përpjekjeve të përfaqësuesit tregtar.
+3. Në qoftë se në rastin konkret shpërblimi është përpjesëtimisht i madh në krahasim me shërbimin e bërë, gjykata mundet me kërkesën e urdhërdhënësit të zvogëlojë atë në një shumë të drejtë.

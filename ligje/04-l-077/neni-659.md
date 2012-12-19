@@ -1,0 +1,5 @@
+# Neni 659
+Detyra e njoftimit dhe humbja e të drejtave
+1. Porositësi ose fituesi tjetër ka për detyrë që për të metat ta njoftojë kryerësin dhe projektuesin e punimeve në afat prej gjashtë (6) muajsh, prej kur e ka konstatuar të metën, përndryshe humb të drejtën që të thirret në te.
+2. E drejta e porositësit ose e fituesit tjetër ndaj kryerësit respektivisht ndaj projektuesit sipas bazës së përgjegjësisë së tyre për të metat shuhet brenda një (1) viti duke llogaritur nga dita kur porositësi respektivisht fituesi e ka njoftuar projektuesin, përkatësisht kryerësin e punimeve për të metën.
+3. Kryerësi i punimeve apo projektuesi nuk mund të referohet në dispozitat e paragrafëve të mësipërm nëse defekti ka të bëjë me faktet që kanë qenë të njohura apo nuk kanë mundur të ngelin të panjohura dhe se kanë dështuar të njoftojnë porositësin, respektivisht fituesin tjetër, ose përmes veprimit të tyre ata e kanë keqinformuar porositësin, respektivisht fituesin, në atë mënyrë që ta bëjnë atë të mos ketë mundësi ta shfrytëzojnë këtë të drejtë me kohë.

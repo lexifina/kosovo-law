@@ -1,0 +1,7 @@
+# Neni 116
+Klauzula Rebus Sic Stantibus
+1. Në qoftë se pas lidhjes së kontratës krijohen rrethanat që e vështirësojnë përmbushjen e detyrimit të njërës palë, apo në qoftë se për shkak të tyre nuk mund të realizohet qëllimi i kontratës, e si në njërin, ashtu edhe në rastin tjetër në atë masë sa që del e qartë se kontrata nuk i përgjigjet më asaj që është pritur nga palët kontraktuese dhe se sipas vlerësimit të përgjithshëm do të ishte e padrejtë të mbahet në fuqi e tillë siç është, pala të cilës i është vështirësuar përmbushja e detyrimit, përkatësisht pala e cila për shkak të rrethanave të ndryshuara nuk mund ta realizojë qëllimin e kontratës, mund të kërkojë që kontrata të zgjidhet apo të ndryshohet.
+2. Zgjidhja e kontratës nuk mund të kërkohet në qoftë se pala thirret në rrethana të ndryshuara, ka pasur për detyrë që në kohën e lidhjes së kontratës të marrë në konsiderim këto rrethana ose ka mundur që këto t`i evitojë apo t`i përballojë.
+3. Pala që kërkon zgjidhjen e kontratës nuk mund të thirret në rrethana të ndryshuara që janë shkaktuar pas skadimit të afatit të caktuar për përmbushjen e detyrimit të saj.
+4. Kontrata nuk do të zgjidhet në qoftë se pala tjetër ofron ose pranon që kushtet përkatëse të kontratës të ndryshohen në mënyrë të drejtë.
+5. Në qoftë se është deklaruar zgjidhja e kontratës, gjykata me kërkesë të palës tjetër, do ta detyrojë palën që e ka kërkuar zgjidhjen t`ia shpërblejë palës tjetër pjesën e dëmit të caktuar në mënyrë të drejtë, të cilën e pëson për këtë.

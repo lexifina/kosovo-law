@@ -1,0 +1,5 @@
+# Neni 515
+Nëse është bërë bartja e pasurisë pa e njoftuar shitësin
+1. Në qoftë se shitësi e ka shitur sendin dhe pronësinë e tij e ka bartur në personin e tretë, duke mos e njoftuar përfituesin e të drejtës së parablerjes (blerësin), megjithëse i treti e ka ditur ose është dashur ta dinte se përfituesi i të drejtës së parablerjes ka të drejtën e parablerjes, përfituesi i të drejtës së parablerjes mundet brenda gjashtë (6) muajsh, nga koha kur është njoftuar për kontratën e shitjes, të kërkojë që bartja të anulohet dhe sendi t'i cedohet këtij nën të njëjta kushte.
+2. Në qoftë se shitësi e ka njoftuar në mënyrë jo të saktë blerësin mbi kushtet e shitjes së bërë personit të tretë, dhe nëse i treti e ka ditur këtë ose është dashur ta dinte, ky afat prej gjashtë (6) muajsh fillon të rrjedhë nga dita kur përfituesi i të drejtës së parablerjes ka mësuar për kushtet e vërteta të kontratës
+3. E drejta e parablerjes në çdo rast shuhet pasi të kenë kaluar pesë (5) vjet nga bartja e pronësisë në personin e tretë.

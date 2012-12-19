@@ -1,0 +1,3 @@
+# Neni 359
+Kompensimi i kërkesave për arsye të korrupsionit
+Në rast se dëmi është shkaktuar nga akti në të cilin ofrimi, dhënia, pranimi ose kërkesa e “ryshfetit“ ose ndonjë përfitimi tjetër ka pasur ndikim të drejtpërdrejtë ose jo të drejtpërdrejtë, ose nga mosveprimi apo veprimi që do të kishte parandaluar aktin e korrupsionit, ose nga ndonjë akt tjetër që sipas ligjit ose traktatit ndërkombëtar paraqet korrupsion, kërkesa parashkruhet pesë (5) vite pasi pala e dëmtuar të ketë mësuar për dëmin dhe personin që e ka shkaktuar atë; në cilindo rast, ajo parashkruhet pesëmbëdhjetë (15) vite pas kryerjes së aktit.

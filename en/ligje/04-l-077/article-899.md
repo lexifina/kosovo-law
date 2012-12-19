@@ -1,0 +1,6 @@
+# Article 899
+Travel organizer’s right to withdraw from contract
+1. The travel organizer may wholly or partly withdraw from the contract without being obliged to reimburse damage if before or during the performance of the contract there arise extraordinary circumstances that could not have been anticipated, avoided or averted and that would have been justifiable grounds for the travel organizer not to have concluded the contract had the they been in place when the contract was concluded.
+2. The travel organizer may also withdraw from the contract without being obliged to reimburse damage if the minimum number of travellers as cited in the travel confirmation has not been gathered, under the condition that the traveller is informed of this circumstance by a suitable deadline, which may not be less than five days before the day the travel was to begin.
+3. In withdrawal from the contract prior to performance thereof the travel organizer must refund all that was received from the traveller.
+4. A travel organizer that withdraws from the contract during performance thereof shall have the right to a fair payment for the agreed services that were performed, and shall be obliged to take any measures necessary to secure the traveller’s interests.

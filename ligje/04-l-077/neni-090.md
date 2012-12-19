@@ -1,0 +1,4 @@
+# Neni 90
+Pasojat e nulitetit
+1. Në rastin e nulitetit të kontratës secila palë kontraktuese ka për detyrë t’ia kthej palës atë që ka marrë në bazë të kontratës së tillë, e në rast se kjo është e pamundshme apo nëse kthimi parandalohet nga natyra e asaj që është plotësuar, duhet të bëhet kompensimi përkatës në të holla sipas çmimeve në kohën e nxjerrjes së vendimit gjyqësor, përveç nëse përcaktohet ndryshe me ligj.
+2. Në rast se kontrata është nul për shkak se sipas përmbajtjes ose qëllimit të vet është në kundërshtim me parimet themelore morale, gjykata mund të refuzojë tërësisht ose pjesërisht kërkesën e palës së pandërgjegjshme për kthimin e asaj që i ka dhënë palës tjetër; në marrjen e vendimit, gjykata do të ketë parasysh shkallën e veprimit në mirëbesim të njërës ose të të dy palëve dhe rëndësinë e interesave që cenohen.

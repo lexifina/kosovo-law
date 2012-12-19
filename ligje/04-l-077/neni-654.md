@@ -1,0 +1,5 @@
+# Neni 654
+E drejta e porositësit për të kërkuar zbritjen e çmimit të kontraktuar
+1. Në qoftë se në kohën midis lidhjes së kontratës dhe përmbushjes së detyrimit të kryerësit janë zbritur çmimet e elementeve në bazë të cilave është caktuar çmimi i punimeve për më tepër se dy për qind (2%), kurse punimet janë kryer brenda afatit të kontraktuar, porositësi ka të drejtë të kërkojë zbritjen përkatëse të çmimit të kontraktuar të punimeve mbi këtë përqindje.
+2. Në qoftë se është kontraktuar pandryshueshmëria e çmimit të punimeve, ndërsa këto janë kryer në afat të kontraktuar, porositësi ka të drejtë për zbritje të kontraktuar në rastin kur çmimet e elementeve, në bazë të të cilave është caktuar çmimi i punimeve, janë zbritur aq sa çmimi do të ishte më i vogël për më tepër se dhjetë për qind e pikërisht për diferencën në çmim prej më se dhjetë për qind (10%).
+3. Në rastin e vonesës së kryesit të punimeve, porositësi ka të drejtë për zbritjen proporcionale te çmimit të punimeve për çdo zbritje të çmimit të elementeve, në bazë të cilave është caktuar çmimi i punimeve.

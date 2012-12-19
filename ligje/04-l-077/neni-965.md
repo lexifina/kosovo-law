@@ -1,0 +1,6 @@
+# Neni 965
+Paraqitja e pasaktë e moshës së të siguruarit
+1. Përjashtimisht nga dispozitat e përgjithshme të këtij kreu mbi pasojat e paraqitjes të pasakta dhe mbi lënien në heshtje të rrethanave me rëndësi për çmuarjen e rrezikut, për kallëzime të pasakta mbi moshën në kontratat mbi sigurimin e jetës vlejnë këto rregulla:
+1.1. kontrata mbi sigurimin e jetës është nule dhe siguruesi ka për detyrë që në çdo rast t’i kthejë të gjitha premitë e marra, në qoftë se me rastin e lidhjes së saj është kallëzuar në mënyrë të pasaktë mosha e të siguruarit, ndërsa mosha faktike e tij kalon kufirin e moshës deri ku siguruesi sipas kushteve të veta dhe tarifave bën sigurimin e jetës;
+1.2. në qoftë se është paraqitur në mënyrë jo të saktë se i siguruari ka më pak vjet, ndërsa mosha faktike e tij nuk e kalon kufirin deri ku siguruesi bën sigurimin e jetës, kontrata është e vlefshme, ndërsa shuma e siguruar zvogëlohet në përpjesëtim me preminë e kontraktuar dhe me premitë e parashikuara për sigurimin e jetës së personave të moshës së personit të siguruar;
+1.3. kur i siguruari ka më pak vjet nga sa është paraqitur me rastin e lidhjes së kontratës, premia zvogëlohet në shumën përkatëse, ndërsa siguruesi ka për detyrë ta kthejë diferencën midis premive të marra dhe premive në të cilat ka të drejtë.

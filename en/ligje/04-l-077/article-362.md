@@ -1,0 +1,8 @@
+# Article 362
+Statute-barring periods for insurance contracts
+1. Claims by the policyholder or a third person from a life assurance contract shall become statute-barred after five (5) years, and claims from other insurance contracts shall become statute-barred after three (3) years, counted from the first day after the end of the calendar year in which the claim originated.
+2. If the person concerned shows that such person did not know that the insurance case had occurred by the day stipulated in the previous paragraph the statute-barring period shall run from the day such person learnt thereof; in any case the claim shall become statute-barred ten (10) years after the day stipulated in the previous paragraph for life assurance and after five (5) years for other types of insurance.
+3. Insurance agencies’ claims from insurance contracts shall become statute-barred after three (3) years.
+4. If in third party liability insurance an injured party claims or obtains compensation from an insured person the statute-barring period for the insured person’s claim against the insurance agency shall run from the day the injured party made a judicial claim for compensation against the insured person or when the insured person reimbursed the damage.
+5. A direct claim by a third injured party against an insurance agency shall become statute-barred at the same time as the claim against the insured person liable for the damage becomes statute-barred.
+6. The statute-barring period for a claim held by an insurance agency against the third person liable for the origin of the insurance case shall begin to run when the insured person’s claim against such person begins to run, and shall end after the same time.

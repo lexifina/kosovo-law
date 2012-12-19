@@ -1,0 +1,4 @@
+# Neni 392
+Kufizimi në rast të përgjegjësisë së njërës palë
+1. Kur një objekt i detyrimit është i pamundur për shkak të ngjarjes për të cilën përgjegjësinë e mban debitori, detyrimi kufizohet në objektin e mbetur në qoftë se e drejta e zgjedhjes i takon këtij, e nëse e drejta e zgjedhjes i takon kreditorit, ky mundet pas zgjedhjes së vet të kërkojë objektin e mbetur ose shpërblimin e dëmit.
+2. Kur një objekt i detyrimit është bërë i pamundur për shkak të ngjarjeve për të cilat është përgjegjës kreditori, detyrimi i debitorit shuhet, por në qoftë se këtij i takon e drejta e zgjedhjes ky mund të kërkojë shpërblimin e dëmit dhe ta kryejë detyrimin e vet nga objekti i mbetur, e në qoftë se e drejta e zgjedhjes i takon kreditorit – ky mund të japë shpërblimin e dëmit dhe të kërkojë objektin e mbetur.

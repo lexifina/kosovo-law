@@ -1,0 +1,7 @@
+# Article 116
+Rebus Sic Stcantibus Clausula
+1. If after the conclusion of a contract circumstances arise that render the performance of obligations by one party more difficult or owing to which the purpose of the contract cannot be achieved and in both cases to such an extent that the contract clearly no longer complies with the expectations of the contracting parties and in the general opinion it would be unjust to retain it in force as it is, the party whose obligations have been rendered more difficult to perform or the party that owing to the changed circumstances cannot realize the purpose of the contract may request the rescission or the revision of the contract.
+2. It shall not be possible to request the rescission of a contract if the party making reference to the changed circumstances should have taken such circumstances into consideration when the contract was concluded, or could have avoided them or could have averted the consequences thereof.
+3. The party requesting the rescission of the contract may not make reference to changed circumstances that arose after the deadline stipulated for the performance of such party’s obligations.
+4. A contract shall not be rescinded if the other party offers to have the relevant contract conditions justly amended or allows such.
+5. If a court rescinds a contract owing to changed circumstances it shall at the request of the other party instruct the party that requested the rescission to reimburse the other party for an appropriate part of the damage incurred for reason of the rescission of the contract.

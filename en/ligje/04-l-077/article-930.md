@@ -1,0 +1,6 @@
+# Article 930
+Intentional falsehood or incompleteness of declaration
+1. If the policyholder made any kind of false declaration or omitted any mandatory information but did not do so intentionally, the insurance agency may within one month of learning of the falsehood or incompleteness of the declaration choose to withdraw from the contract or to propose a higher premium in proportion to the greater risk.
+2. In such a case the contract shall terminate fourteen days after the insurance agency notified the policyholder of its withdrawal from the contract; if it proposes a higher premium the contract shall be rescinded by law alone if the policyholder does not accept the proposal within fourteen (14) days of receiving it.
+3. If the contract is rescinded the insurance agency must return the part of the premium pertaining to the time remaining to the end of the insurance period.
+4. If an insurance case arose before the falsehood or incompleteness of the declaration was determined, or after such but before the rescission of the contract or before an agreement on a higher premium is reached, the insurance payout shall be reduced in proportion to the level of the premiums paid and the level of the premiums that should have been paid with regard to the true risk.

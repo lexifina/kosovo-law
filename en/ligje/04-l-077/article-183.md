@@ -1,0 +1,4 @@
+# Article 183
+Monetary compensation
+1. Just monetary compensation independent of the reimbursement of material damage shall pertain to the injured party for physical distress suffered, for mental distress suffered owing to a reduction in life activities, disfigurement, the defamation of good name or reputation, the truncation of freedom or a personal right, or the death of a close associate, and for fear, if the circumstances of the case, particularly the level and duration of distress and fear, so justify, even if there was no material damage.
+2. Upon the decision on the request for the compensation of immaterial damage, as well as for the amount of the compensation, the court shall evaluate the importance of the violation of goods and the purpose to which this compensation shall serve, also in order not to support the tendencies that are not compatible with the nature and the social purpose thereof.
