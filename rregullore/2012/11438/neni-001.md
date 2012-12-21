@@ -1,0 +1,2 @@
+# Neni 1
+Rregullorja e Komisionit të Bashkimit Europian (EU) Nr. 805/2011, dt. 10 gusht 2011 për vendosjen e rregullave të hollësishme mbi licencën e kontrollorëve të trafikut ajror dhe certifikimeve tjera në mbështetje të Rregullores (EC) Nr. 216/2008, (më tej referuar si “Rregullorja e Komisionit”) shpallet e zbatueshme në Republikën e Kosovës. Rregullorja e Komisionit i është bashkëngjitur kësaj Rregulloreje si shtojcë dhe formon pjesën e saj përbërëse.

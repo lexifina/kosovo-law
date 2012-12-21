@@ -1,0 +1,3 @@
+# Neni 3
+3.1 Kuptimi i shprehjeve dhe definicioneve të përdorura në këtë Rregullore është i përfshirë në nenin 3 të Rregullores së Komisionit.
+3.2 Pavarësisht nga paragrafi 1 i këtij neni, shprehjet "Komuniteti", "ligji i Komunitetit", "legjislacioni i Komunitetit", "Instrumentet e Komunitetit", "Traktati i KE", "aeroport i Komunitetit", "Gazeta Zyrtare e Komuniteteve Europiane", "Gazeta Zyrtare e Bashkimit Europian", "transportues ajror i Komunitetit" dhe "Shtet(e) Anëtar(e)", të cilat mund të referohen në mënyrë të drejtpërdrejtë ose të tërthorazi në Rregulloren e Komisionit, duhet të lexohen në përputhje me Pikat 2 dhe 3 të Shtojcës II të Marrëveshjes për HPEA.
