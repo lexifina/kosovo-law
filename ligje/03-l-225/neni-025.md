@@ -1,0 +1,5 @@
+# Neni 25
+Veprimtaritë profesionale
+1. Prokurorët kanë të drejtë të marrin pjesë në organizata profesionale të cilat promovojnë pavarësinë dhe mbrojtjen e interesave profesionale të prokurorëve.
+2. Prokurorët mund të angazhohen në veprimtari të cilat janë në përputhje më Kodin e Etikës dhe Sjelljen Profesionale të Prokurorëve, siç është pjesëmarrja në takime shkencore, ligjërime apo trajnime dhe pjesëmarrje në përgatitjen e projekteve të ndryshme ligjore. Varësisht prej miratimit nga Kryeprokurori i Shtetit, prokurorët mund të marrin kompensim për veprimtaritë e tilla në përputhje me Kodin e Etikës dhe Sjelljen Profesionale të Prokurorëve në rast se nuk ekziston konflikt interesash dhe se nuk ka shkelje të ligjit, kodit të etikës apo akteve të tjera nën-ligjore.
+3. Në pajtueshmëri me dispozitat e Kodit të Etikës dhe Sjelljes Profesionale të Prokurorëve, prokurorët e shtetit mund të angazhohen në shkrime profesionale dhe shkencore por nuk mund të botojnë përmbajtjen relevante të dosjeve prokuroriale gjatë apo pas përfundimit të funksionit prokurorial, përveç nëse kjo lejohet shprehimisht me ligj apo akt nën-ligjor të lëshuar nga Këshilli.

@@ -1,0 +1,5 @@
+# Article 25
+Professional Activities
+1. Prosecutors have the right to take part in professional organizations which promote independence and the protection of professional interests of prosecutors.
+2. Prosecutors may engage in activities which are in accordance with the Code of Ethics and Professional Conduct of Prosecutors, such as attending professional or scientific meetings, lectures or trainings and taking part in the preparation of different legal projects. Subject to the approval of the Chief State Prosecutor, prosecutors may be remunerated for such activities in accordance with the Code of Ethics and Professional Conduct of Prosecutors provided there is no conflict of interest and there is no violation of law, code of ethics, or other sub-legal acts.
+3. Consistent with the provisions of the Code of Ethics and Professional Conduct of Prosecutors, Prosecutors may engage in professional and scientific writings but may not publish the relevant content of prosecutorial files during the exercise of or after completion of prosecutorial duty, unless it is expressly permitted by law or sub-legal act issued by the Council.
