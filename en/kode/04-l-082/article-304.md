@@ -1,0 +1,5 @@
+# Article 304
+Production, supply, selling, possession or provision for use the means of counterfeiting 1. Whoever produces, supplies, sells, receives, possesses or provides for use the means for counterfeiting money, securities or payment instruments, shall be punished by imprisonment of one (1) to five (5) years.
+2. Whoever produces, supplies, sells, receives possesses or provides for use the means for counterfeiting fiscal, postal or other stamps of value, marks for the fraudulent labeling of goods or inaccurate measures and weights shall be punished by a fine or by imprisonment of up to three (3) years.
+3. For the purposes of this Article, “means for counterfeiting” includes instruments, articles, computer programs and any other means peculiarly adapted for the counterfeiting or altering of money, securities or payment instruments, stamps of value, marks for labeling goods, measures and weights or of holograms or other components of currency, securities or payment instruments, which serve to protect against counterfeiting.
+4. The articles, means and the equipment for their manufacturing shall be confiscated.

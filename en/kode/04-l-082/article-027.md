@@ -1,0 +1,3 @@
+# Article 27
+Preparation of a criminal offense 1. Whoever intentionally prepares a criminal offense shall be punished only if expressly provided for by law.
+2. If the law prescribes the punishment for the preparation of a certain criminal offense, the preparation of the criminal offense includes supplying or making available the means to commit a criminal offense; removing the impediments to the commission of a criminal offense; agreeing, planning or organizing with another person the commission of a criminal offense; as well as, other activities that create conditions for the direct commission of a criminal offense, but which do not constitute the act itself.

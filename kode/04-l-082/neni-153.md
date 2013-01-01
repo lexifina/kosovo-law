@@ -1,0 +1,31 @@
+# Neni 153
+Krimet e luftës në shkelje të rëndë të ligjeve dhe zakoneve që zbatohen në konfliktet e armatosura që nuk janë të karakterit ndërkombëtar
+1. Kushdo që shkel rëndë ligjet dhe zakonet që zbatohen në konfliktet e armatosura që nuk janë të karakterit ndërkombëtar, brenda kornizës së përcaktuar të së drejtës ndërkombëtare, dënohet me:
+1.1. burgim prej së paku pesë (5) vjet ose me burgim të përjetshëm, për veprat penale nga nën paragrafët 2.4, 2.5, 2.7, 2.12, 2.23 ose 2.24 të paragrafit 2. të këtij neni; ose
+1.2. burgim prej së paku dhjetë (10) vjet ose me burgim të përjetshëm, për veprat penale nga nën paragrafët 2.1, 2.2, 2.3, 2.6, 2.8, 2.9, 2.10, 2.11, 2.13, 2.14, 2.15, 2.16, 2.17, 2.18, 2.19, 2.20, 2.21 ose 2.22 të paragrafit 2. të këtij neni.
+2. Shkelja e rëndë e ligjeve dhe e zakoneve që zbatohen për konfliktet e armatosura që nuk janë të karakterit ndërkombëtar, brenda kornizës së përcaktuar të së drejtës ndërkombëtare, nënkupton një ose më shumë nga veprimet vijuese:
+2.1. sulmet e drejtuara me qëllim kundër popullsisë civile ose ndaj individëve të veçantë civilë që nuk marrin pjesë drejtpërdrejt në konflikt;
+2.2. drejtimi me qëllim i sulmeve kundër ndërtesave, materialeve, njësive mjekësore dhe transportit, personelit fetar dhe personelit që përdorin shenjën dalluese të Konventave të Gjenevës në pajtim me të drejtën ndërkombëtare;
+2.3. sulmet e drejtuara me qëllim kundër personelit, instalimeve, materialeve, njësive ose automjeteve të përfshira në misionet e ndihmës humanitare ose paqeruajtëse në përputhje me Kartën e Kombeve të Bashkuara, për aq kohë sa gëzojnë të drejtën për mbrojtjen e atyre civilëve ose objekteve civile sipas të drejtës ndërkombëtare për konfliktet e armatosura;
+2.4. drejtimi me qëllim i sulmeve kundër ndërtesave fetare, shkollore, artistike, shkencore, me qëllime bamirëse, monumenteve historike, spitaleve dhe vendeve ku janë mbledhur të sëmurët dhe të plagosurit, me kusht që të mos jenë objektiva ushtarake;
+2.5. plaçkitja e një qyteti ose e një vendi, qoftë edhe kur merret me anë të sulmit;
+2.6. kryerja e dhunimeve, skllavëria seksuale, prostitucioni i detyruar, shtatzënia e dhunshme, steriliteti i detyruar ose ndonjë formë tjetër e dhunës seksuale, e cila përbën gjithashtu shkelje të rëndë të nenit 3, të përbashkët për të katër Konventat e Gjenevës;
+2.7. rekrutimi apo mobilizimi i fëmijëve nën moshën pesëmbëdhjetë vjet në forcat e armatosura kombëtare ose duke i përdorur ata të marrin pjesë aktivisht në armiqësi;
+2.8. urdhërimi për zhvendosjen e popullatës civile për shkaqe që lidhen me konfliktin, përveç kur kjo kërkohet për shkak të sigurisë së civilëve të përfshirë ose për shkaqe imperative ushtarake;
+2.9. vrasja ose plagosja dinake e luftëtarit kundërshtar;
+2.10. deklarimi se nuk do të ketë mëshirë;
+2.11. nënshtrimi i personave nën autoritetin e një pale kundërshtare ndaj të cilëve kryhen gjymtime fizike ose eksperimente të ndryshme mjekësore apo shkencore, të cilat nuk arsyetohen në aspektin e trajtimit mjekësor, dental apo spitalor ndaj personit përkatës dhe nuk janë në dobi të tij, e që shkaktojnë vdekje apo rrezik serioz ndaj shëndetit të një apo shumë personave të tillë;
+2.12. shkatërrimi apo marrja e pasurisë së armikut, përveç rasteve kur kjo kërkohet domosdoshmërisht për nevojat e luftës;
+2.13. sulmi ose bombardimi me çfarëdo mjete i qyteteve, fshatrave, vendbanimeve ose ndërtesave që janë të pambrojtura dhe të cilat nuk janë objektiva ushtarake;
+2.14. sulmet e drejtuara me qëllim kundër objekteve civile që nuk janë objektiva ushtarake;
+2.15. fillimi i sulmit të qëllimshëm, duke ditur se sulmi i tillë do të shkaktojë humbje aksidentale të jetës ose plagosje të civilëve, dëme të objekteve civile, dëme të gjëra, afatgjate dhe të rënda ndaj mjedisit natyror, që do të ishte haptazi tejkalim sa i përket përparësisë së gjithëmbarshme konkrete dhe të drejtpërdrejtë të parashikuar ushtarake;
+2.16. drejtimi me qëllim i sulmeve pa dallim kur sulmi i tillë nuk drejtohet në një objektiv specifik ushtarak, shfrytëzon metoda apo mjete të luftës të cilat nuk mund të drejtohen në objekte specifike ushtarake ose metoda apo mjete të luftës efekti i të cilave nuk mund të kufizohet dhe që, për pasojë, është i një natyre të tillë që godet objektivat ushtarake dhe civile ose objektet civile pa dallim;
+2.17. përdorimi i qëllimshëm i prezencës së civilëve ose i personave të tjerë që gëzojnë mbrojtje me qëllim të mbajtjes së disa pikave, zonave apo forcave ushtarake të mbrojtura nga operacionet ushtarake;
+2.18. vënia me qëllim e popullsisë civile në gjendje të urisë si metodë lufte, duke privuar ata nga mjetet e domosdoshme për ekzistencën e tyre, duke përfshirë këtu edhe pengimin e qëllimshëm të furnizimeve të parapara me Konventat e Gjenevës;
+2.19. përdorimi i helmeve ose i armëve helmuese;
+2.20. përdorimi i gazrave asfiksuese, helmuese ose i llojeve të tjera të gazrave dhe i të gjitha analogeve të lëngshme, materialeve ose mjeteve;
+2.21. përdorimi i plumbave që përhapen apo rrafshohen lehtë në trupin e njeriut, siç janë plumbat me mbulesë të fortë që nuk e mbulojnë plotësisht bërthamën ose janë të çarë me prerje;
+2.22. përdorimi i armëve, projektilave, materialeve dhe metodave të luftimit të një natyre të tillë që shkaktojnë plagosje të tepërta apo vuajtje të panevojshme ose të cilat nuk bëjnë dallim në shkaktimin e këtyre vuajtjeve, në shkelje me të drejtën ndërkombëtare për konfliktet e armatosura, duke përfshirë këtu armët kimike, armët biologjike, copëzat e padetektueshme, armët verbuese laserike ose minat mashtruese të përkufizuara në Protokollin II të Konventës mbi ndalimin ose kufizimin e disa armëve konvencionale të cilat konsiderohen se janë jashtëzakonisht dëmtuese ose kanë efekte pa i zgjedhur caqet, të datës 10 tetor 1980;
+2.23. skllavëria dhe tregtia me robërit;
+2.24. shqiptimi i dënimeve kolektive.
+3. Ky nen zbatohet për konfliktet e armatosura që nuk kanë karakter ndërkombëtar dhe nuk zbatohet për situatat e trazirave dhe të tensioneve të brendshme, siç janë trazirat, veprat sporadike dhe të izoluara të dhunës ose aktet e tjera të natyrës së ngjashme. Dispozitat e këtij neni vlejnë për konfliktet e armatosura që ndodhin në territorin e një shteti kur ekziston një konflikt i armatosur i zgjatur midis organeve të pushtetit dhe grupeve të organizuara të armatosura ose midis grupeve të tilla.

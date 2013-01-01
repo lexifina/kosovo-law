@@ -1,0 +1,5 @@
+# Article 429
+Giving bribes 1. Whoever promises, offers or gives, directly or indirectly, any undue gift or advantage to an official person so that the official person acts or refrains from acting in accordance with his or her official duties, shall be punished by a fine or imprisonment of up to three (3) years.
+2. Whoever promises, offers or gives, directly or indirectly, any undue gift or advantage to an official person so that the official person acts or refrains from acting, in violation of his or her official duties, shall be punished by a fine and imprisonment of three (3) months to three (3) years.
+3. When the offense under paragraph 1 of this Article results in a benefit exceeding fifteen thousand (15,000) EUR, the perpetrator shall be punished by fine and imprisonment of one (1) to eight (8) years.
+4. When the perpetrator of the offense provided for in paragraph 1 or 2 of this Article gave the bribe at the request of an official person or responsible person and reported the offense before it was discovered or before knowing that the offense was discovered, the court may waive the punishment.

@@ -1,0 +1,5 @@
+# Article 83
+Calculating detention and previous punishment 1. Time served in detention, house arrest as well as any period of deprivation of liberty related to the criminal offense shall be included in the punishment of imprisonment and of a fine.
+2. A punishment of imprisonment or of a fine for a minor offense or an economic offense which was served or paid by the convicted person shall be included in the punishment for a criminal offense whose elements include the elements of the minor offense or the economic violation. 22
+CRIMINAL CODE OF THE REPUBLIC OF KOSOVO 23 3. A protective measure which has been imposed for a minor offense or an economic offense shall be included in the accessory punishment for a criminal offense whose elements include the elements of the minor offense or the economic violation.
+4. One (1) day of detention, one (1) day of deprivation of liberty, one (1) day of imprisonment, and a fine of twenty (20) EUR are equal for the purposes of calculation under this Article.

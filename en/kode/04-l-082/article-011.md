@@ -1,0 +1,2 @@
+# Article 11
+Act of minor significance An act shall not constitute a criminal offense even though it has the characteristics of a criminal offense as defined by law if it is an act of minor significance. The act shall be deemed to be of minor significance when the danger involved is insignificant due to the nature or gravity of the act; the absence or insignificance of intended consequences; the circumstances in which the act was committed; the low degree of criminal liability of the perpetrator; or, the personal circumstances of the perpetrator.

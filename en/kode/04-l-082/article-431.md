@@ -1,0 +1,5 @@
+# Article 431
+Trading in influence 1. Whoever requests or receives, directly or indirectly, any undue gift or advantage, for himself or herself or for another person, or accepts an offer or promise of such gift or advantage, in order to exert an improper influence over the decision making of an official person or foreign public official, whether or not the influence is exerted and whether or not the supposed influence leads to the intended result, shall be punished by a fine or by imprisonment of up to eight (8) years.
+2. Whoever promises, offers or gives, directly or indirectly, any undue gift or advantage to another person, for himself or herself or another person, in order that this person exert an improper influence over the decision making of an official person or foreign public official, whether or not the influence is exerted or not and whether or not the supposed influence leads to the intended result, shall be punished by a fine or by imprisonment of up to five (5) years.
+3. The gift or benefit received or offered in violation of this Article shall be confiscated. 134
+CRIMINAL CODE OF THE REPUBLIC OF KOSOVO 135

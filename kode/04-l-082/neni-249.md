@@ -1,0 +1,6 @@
+# Neni 249
+Marrja apo mbajtja e kundërligjshme e fëmijës
+1. Kushdo që në mënyrë të kundërligjshme e merr, mban ose rrëmben fëmijën nga prindi, prindi adoptues, kujdestari apo personi tjetër i cili ushtron të drejtën prindërore mbi fëmijën, ose merr, mban ose rrëmben fëmijën nga enti të cilit i është besuar fëmija ose pengon ekzekutimin e vendimit të detyrueshëm të organit kompetent mbi dhënien e fëmijës në besim të personit ose entit tjetër, dënohet me burgim deri në tre (3) vjet.
+2. Kur kryesi i veprës penale nga paragrafi 1. i këtij neni është prindi, prindi adoptues, kujdestari apo personi tjetër i cili ushtron të drejtën prindërore mbi fëmijën ndaj të cilit organi kompetent ka shqiptuar vendim të detyrueshëm me të cilin i janë mohuar personit të tillë të drejtat prindërore apo të kujdestarisë për fëmijën apo kur organi kompetent ka shqiptuar vendim të detyrueshëm me të cilin edukimi dhe mbikëqyrja e fëmijës i besohet prindit tjetër apo personit tjetër, kryesi dënohet me burgim deri në një (1) vit.
+3. Kushdo që kryen veprën penale nga paragrafi 1. i këtij nenit për përfitim material apo për motive tjera të ulëta, dënohet me gjobë dhe me burgim prej një (1) deri në dhjetë (10) vjet.
+4. Kur kryesi i veprës penale nga paragrafi 2. i këtij neni vullnetarisht e kthen fëmijën, gjykata mund ta lirojë nga dënimi.

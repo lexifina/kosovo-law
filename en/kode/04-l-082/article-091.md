@@ -1,0 +1,8 @@
+# Article 91
+Mandatory rehabilitation treatment of persons addicted to drugs or alcohol 1. The court may order a measure of mandatory rehabilitation treatment in a health care institution for any perpetrator who has committed a criminal offense under the influence of drugs or alcohol if both of the following conditions are met:
+1.1. the court has imposed a punishment, a judicial admonition or a waiver of punishment on the perpetrator; and 1.2. the court determines that the primary factor motivating the criminal offense was related to perpetrator's addiction to drugs or alcohol and there are prospects for successful treatment.
+2. If the measure referred to in paragraph 1 of this Article is imposed in addition to the punishment of a fine, a judicial admonition or a waiver of punishment, the court may, with the consent of the perpetrator, decide that such measure be executed at liberty. If the perpetrator fails to undergo the treatment at liberty without a justifiable cause or if he or she arbitrarily quits the treatment, the court may order that the treatment be executed in a health care institution.
+3. If the measure referred to in paragraph 1 of this Article is imposed in addition to the punishment of a fine, a judicial admonition, or a waiver of punishment, the treatment may not last for more than two (2) years.
+4. If the measure referred to in paragraph 1 of this Article is imposed in addition to the punishment of imprisonment, it may last until the punishment is served. The time spent in the health care institution shall be calculated towards the imposed punishment.
+5. The court must examine the execution of this measure every two (2) months to determine whether it is necessary to continue the measure.
+CRIMINAL CODE OF THE REPUBLIC OF KOSOVO

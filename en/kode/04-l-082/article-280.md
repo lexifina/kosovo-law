@@ -1,0 +1,3 @@
+# Article 280
+Conversion or transfer of property derived from offenses in this chapter 1. Whoever converts or transfers property, knowing that such property is derived from any offense in this Chapter or from an act of participation in such offense or offenses, and such conversion or transfer is for the purpose of concealing or disguising the illicit origin of the property or of assisting any person who is involved in the commission of such an offense or offenses to evade the legal consequences of his actions shall be punished by a fine three times the value of the transferred or converted property and imprisonment up to ten (10) years.
+2. The converted or transferred property shall be confiscated.

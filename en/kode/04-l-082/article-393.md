@@ -1,0 +1,3 @@
+# Article 393
+False statements of co-operative witnesses 1. A co-operative witness who gives a statement or testimony that is false in any relevant part or who purposely omits to state the complete truth to a prosecutor or the police shall be punished by a fine or imprisonment of three (3) months to five (5) years.
+2. Whoever commits the offense referred to in paragraph 1 of this Article and subsequently withdraws the statement or testimony and reports or testifies truthfully before the end of his or her interview or testimony shall be punished by a fine of up to five hundred (500) EUR or by imprisonment of up to three (3) months, or the court may waive the punishment if there are mitigating circumstances.

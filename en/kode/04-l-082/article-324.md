@@ -1,0 +1,2 @@
+# Article 324
+Permitting altered utilities meters 1. Whoever tampers with or circumvents a meter on property in his or her possession or under his or her ownership or control to provide unmetered or improperly metered utilities shall be punished by a fine and imprisonment of up to three (3) years. 2.The conduct in paragraph 1 of this Article is not a criminal offense if the person upon obtaining knowledge of the tampered or circumvented meter immediately notifies the concerned Authorized Supplier of the existence of the tampered or circumvented meter.

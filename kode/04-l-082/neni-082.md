@@ -1,0 +1,4 @@
+# Neni 82
+Llogaritja e dënimit të personave të dënuar
+1. Nëse personi i dënuar gjykohet për vepër penale të kryer para se të ketë filluar mbajtjen e dënimit të shqiptuar me një dënim të mëparshëm, apo për vepër penale të kryer gjatë kohës së mbajtjes së dënimit me burgim, gjykata shqipton dënimin unik për të gjitha veprat penale (neni 80 i këtij Kodi), duke marrë parasysh dënimin e shqiptuar më parë. Dënimi ose pjesa e dënimit të cilin personi i dënuar e ka mbajtur llogaritet në dënimin e shqiptuar unik.
+2. Për vepër penale të kryer gjatë kohës së mbajtjes së dënimit me burgim, gjykata ia cakton dënimin kryesit pavarësisht nga dënimi i shqiptuar më parë nëse zbatimi i dispozitave të nenit 80 të këtij Kodi nuk do ta arrinte qëllimin e dënimit, duke marrë parasysh kohëzgjatjen e pjesës së pa mbajtur të dënimit të shqiptuar më parë.

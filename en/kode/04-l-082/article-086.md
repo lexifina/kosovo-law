@@ -1,0 +1,6 @@
+# Article 86
+Judicial admonition 1. A perpetrator subject to a judicial admonition shall be informed that he or she has committed a harmful and dangerous act which constitutes a criminal offense and that if he or she commits such an act again, the court will impose a more severe criminal sanction.
+2. A judicial admonition may be imposed for criminal offenses which are punishable by imprisonment of up to one (1) year or by a fine, when such offenses are committed under mitigating circumstances which render the offenses particularly minor.
+3. A judicial admonition may also be imposed for certain criminal offenses punishable by imprisonment of up to three (3) years under the conditions provided for by law.
+4. The court may impose a judicial admonition for more than one criminal offense committed concurrently, when each of the criminal offenses meet the conditions provided for in paragraph 2 or 3 of this Article.
+5. When determining whether to impose a judicial admonition, the court shall consider, in particular, the purpose of a judicial admonition, the perpetrator's past conduct, his or her behavior after the commission of the criminal offense, the degree of criminal liability, other circumstances surrounding the criminal offense and the voluntary participation of the perpetrator in a treatment program.

@@ -1,0 +1,3 @@
+# Article 339
+Intrusion into computer systems 1. Whoever, without authorization and with the intent to obtain an unlawful material benefit for himself, herself or another person or to cause damage to another person, alters, publishes, deletes, suppresses or destroys computer data or programs or in any other way intrudes into a computer system shall be punished by a fine and imprisonment of up to three (3) years.
+2. When the offense provided for in paragraph 1 of this Article results in a material benefit exceeding tent thousand (10,000) EUR, or material damage exceeding ten thousand (10,000) EUR, the perpetrator shall be punished by a fine and imprisonment of six (6) months to five (5) years.

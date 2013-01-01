@@ -1,0 +1,7 @@
+# Article 326
+Theft of services 1. Whoever by deception, departing or other means obtains services known to be available only for compensation and avoids paying for such services shall be punished by a fine and imprisonment of up to one (1) year.
+2. When the offense in paragraph 1 of this Article is committed by force or serious threat the perpetrator shall be punished by a fine and imprisonment up to three (3) years.
+3. If the value of the stolen services is less than fifty (50) EUR the perpetrator shall be punished by a fine or by imprisonment of up to six (6) months.
+4. For the purposes of this Article, “services” includes, but is not limited to transportation; labor; professional, technical, mechanical services; ski lift service; toll facilities; communications or telephone service; the supplying of food, lodging or other accommodation; the supplying of equipment, tools, vehicles or trailers for temporary use; the supplying of equipment for use; or Internet, computer or cable television system or access. “Services” also includes admission to entertainment, exhibitions, sporting events or other events which have an entrance fee or other charge for attending.
+5. Leaving a business, hotel or restaurant without paying or offering to pay for the hotel, restaurant or other services for which compensation is customarily paid upon the receiving of the services is proof that the services were obtained with intent to avoid payment. 104
+CRIMINAL CODE OF THE REPUBLIC OF KOSOVO 105

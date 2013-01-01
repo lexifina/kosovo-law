@@ -1,0 +1,3 @@
+# Article 314
+False tax related documents 1.Whoever makes a false statement or issues a false document when the submission of a truthful statement or document is required by law, or whoever does not issue a document whose issuance is required by law, shall be punished by a fine and by imprisonment of up to three (3) years.
+2. When the offense referred to in paragraph 1 of this Article involves a large number of documents, or if the offense was committed to avoid payment of taxes of fifteen thousand (15,000) EUR or more, the perpetrator shall be punished by a fine and imprisonment of six (6) months to five (5) years.

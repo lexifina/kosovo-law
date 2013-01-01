@@ -1,0 +1,2 @@
+# Article 84
+Calculating detention and punishments served in other jurisdictions The detention, deprivation of liberty during proceedings to transfer a person to another jurisdiction and the portion of a punishment served by the perpetrator pursuant to a judgment of a foreign court shall be calculated toward the punishment imposed by a court in the Republic of Kosovo for that same act or, if the punishment imposed outside of the Republic of Kosovo is not of the same character, the court shall calculate the punishment in a way it deems appropriate.

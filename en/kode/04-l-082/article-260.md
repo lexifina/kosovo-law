@@ -1,0 +1,5 @@
+# Article 260
+Irresponsible medical treatment 1. A physician who, when providing medical assistance, uses obviously inappropriate means or an incorrect method of treatment or fails to use appropriate hygienic measures and thereby causes the deterioration in the condition of a person shall be punished by imprisonment of up to three (3) years.
+2. A health care worker who, when providing medical assistance, uses obviously inappropriate means or an incorrect method of treatment or fails to use appropriate hygienic measures and thereby causes the deterioration in the condition of a person shall be punished as provided for in paragraph 1 of this Article.
+3. When the offense provided for in paragraph 1 or 2 of this Article results in any serious impairment to the health of a person, the perpetrator shall be punished by imprisonment of one (1) to eight (8) years.
+4. When the offense provided for in paragraph 1 or 2.of this Article results in the death of one or more persons, the perpetrator shall be punished by imprisonment of one (1) to twelve (12) years.

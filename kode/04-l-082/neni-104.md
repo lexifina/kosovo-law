@@ -1,0 +1,3 @@
+# Neni 104
+Rehabilitimi gjyqësor
+Gjykata, me kërkesën e personit të dënuar, mund të vendosë që dënimi t’i shlyhet nga evidenca e personit të dënuar dhe ai person konsiderohet i padënuar nëse ka kaluar gjysma e afatit përkatës të paraparë me paragrafin 2. të nenit 103 dhe nëse personi i dënuar gjatë kësaj kohe nuk ka kryer vepër të re penale. Me rastin e vendosjes për shlyerjen e dënimit të parashkruar ose përfunduar me falje ose me ndryshim të Kodit Penal, gjykata merr parasysh sjelljen e personit të dënuar pas mbajtjes së dënimit, natyrën e veprës penale dhe rrethanat e tjera të cilat mund të jenë të rëndësishme për vlerësimin e përshtatshmërisë së shlyerjes së dënimit.

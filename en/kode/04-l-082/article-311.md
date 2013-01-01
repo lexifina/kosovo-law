@@ -1,0 +1,3 @@
+# Article 311
+Abuse of insider information Whoever in non-compliance with his or her duties to protect the internal information of which he or she learns through the performance of an economic activity or ex officio, communicates to an unauthorized person information unknown 100
+CRIMINAL CODE OF THE REPUBLIC OF KOSOVO 101 to the public and capable of influencing the price of securities; or, whoever otherwise uses such information for personal gain, or for the purpose of securing an unfair advantage on the established securities market for any natural or legal person shall be punished by a fine and imprisonment of up to five (5) years

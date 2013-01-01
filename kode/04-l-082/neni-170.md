@@ -1,0 +1,25 @@
+# Neni 170
+Kontrabandimi me migrantë
+1. Kushdo që merret me kontrabandim të migrantëve dënohet me gjobë dhe me burgim prej dy (2) deri dhjetë (10) vjet.
+2. Kushdo që me qëllim të përfitimit të drejtpërdrejtë apo të tërthortë të dobisë financiare apo dobisë tjetër pasurore, prodhon, furnizon, siguron ose posedon dokument të rrejshëm të udhëtimit ose të identifikimit me qëllim të mundësimit të kontrabandimit me migrantë, dënohet me gjobë dhe me burgim deri në pesë (5) vjet.
+3. Kushdo që i mundëson personit i cili nuk është shtetas i Republikës së Kosovës të qëndrojë në Republikën e Kosovës ose personit i cili nuk është shtetas apo banor i përhershëm për të qëndruar në shtetin në fjalë, pa i përfillur kushtet e domosdoshme ligjore për qëndrim, me mjetet nga paragrafi 2. i këtij neni ose me çfarëdo mjetesh tjera të paligjshme, dënohet me gjobë dhe me burgim deri në një (1) vit.
+4. Tentativa për të kryer veprën penale nga paragrafi 3. i këtij neni është e dënueshme.
+5. Kushdo që organizon ose drejton personat e tjerë për të kryer vepër penale nga paragrafi 1. ose 2 dënohet me gjobë deri në pesëqind mijë (500.000) Euro dhe me burgim prej shtatë (7) deri në njëzet (20) vjet, ose me burgim prej një (1) deri në dhjetë (10) vjet për veprën penale nga paragrafi 3. i këtij neni.
+6. Kur vepra penale nga paragrafi 1., 2. ose 3. i këtij neni kryhet nga kryesi i cili vepron si anëtar i grupit ose në një mënyrë që rrezikon ose ka gjasë të rrezikojë jetërat apo sigurinë e migrantëve përkatës ose që përfshin trajtimin çnjerëzor apo poshtërues, duke përfshirë eksploatimin e migrantëve të tillë, kryesi dënohet me gjobë dhe me burgim jo më pak se pesë (5) vjet.
+7. Nëse vepra penale nga paragrafi 1., 2. ose 3. i këtij neni rezulton me vdekjen e një apo më shumë personave, kryesi dënohet me gjobë dhe me burgim së paku dhjetë (10) vjet ose me burgim të përjetshëm.
+8. Për qëllime të këtij neni:
+8.1. Shprehja “kontrabandim me migrantë” nënkupton çdo veprim me qëllim të përfitimit të drejtpërdrejtë ose të tërthortë të një dobie financiare ose të një dobie tjetër pasurore nga hyrja e paligjshme e personit në Republikën e Kosovës, i cili nuk është shtetas i Republikës së Kosovës ose i një personi qoftë shtetas i Republikës së Kosovës apo shtetas i huaj në shtetin në të cilin personi i tillë nuk është banor i përhershëm ose shtetas i atij shteti.
+8.2. Shprehja “hyrje e paligjshme” nënkupton kalimin e kufirit ose vijës kufitare të Republikës së Kosovës pa i përfillur kushtet e domosdoshme për hyrje të ligjshme në Republikën e Kosovës ose kalim i kufijve të ndonjë shteti pa i përfillur kushtet e domosdoshme për hyrjen e ligjshme në atë shtet.
+8.3. Shprehja “dokument i rrejshëm i udhëtimit ose i identifikimit” nënkupton çfarëdo dokumenti i udhëtimit ose i identifikimit:
+8.3.1. Që është falsifikuar ose ndryshuar në ndonjë mënyrë të caktuar nga cilido person përveç nga personi ose organi i autorizuar në bazë të ligjit për të prodhuar ose lëshuar dokument udhëtimi ose identifikimi;
+8.3.2. Që është lëshuar ose është siguruar në mënyrë jo të duhur përmes keqinterpretimit, korrupsionit, trysnisë apo në ndonjë mënyre tjetër të kundërligjshme; ose
+8.3.3. Që shfrytëzohet nga personi i cili nuk është mbajtësi i tij i vërtetë.
+9. Personi nuk është penalisht përgjegjës sipas këtij neni nëse ai është migrant që është objekt i veprës penale nga ky nen.
+10. Është penalisht përgjegjës:
+10.1. personi i cili rekruton, nxit, organizon, strehon ose bart persona në shtetet anëtare të Bashkimit Evropian, ose në ato të Marrëveshjes Schengen, me qëllim të realizimit dhe të përfitimit ekonomik, social ose të të drejtave të tjera, që janë në kundërshtim me të drejtën e Bashkimit Evropian dhe me rregullat e shteteve anëtare të Bashkimit Evropian, të Marrëveshjes Schengen dhe të së drejtës ndërkombëtare, dënohet së paku me katër (4) vjet burgim;
+10.2. nëse personi vepron në kundërshtim me paragrafin 10.1 dhe/ose ka qene në dijeni se me bartjen do të realizohen përfitime ose ndonjë të drejte nga paragrafi 10.1, në kundërshtim me të drejtën e Bashkimit Evropian dhe me rregullat e shteteve anëtare të Bashkimit Evropian, të
+Marrëveshjes Schengen dhe me të drejtën ndërkombëtare, dënohet prej një (1) deri në pesë (5) vjet burgim;
+10.3. nëse vepra është kryer për përfitime personale, kryesi do të dënohet për veprën, sipas paragrafit 10.1, me burgim, së paku tetë (8) vjet, ndërsa për veprën e kryer, sipas paragrafit 10.2, do të dënohet së paku me katër (4) vjet burgim;
+10.4. nëse vepra është kryer nga personi juridik, do të dënohet me gjobë;
+10.5. pajisjet dhe mjetet transportuese të përdorura për kryerjen e kësaj vepre do të konfiskohen.
+10.6. ky paragraf fillon të zbatohet në momentin kur Këshilli i Bashkimit Evropian merr vendim për heqjen e regjimit të vizave për qytetarët e Republikës së Kosovës.

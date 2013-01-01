@@ -1,0 +1,3 @@
+# Article 219
+Falsification of voting results 1. Whoever adds, removes or deletes votes or signatures, registers incorrectly a vote or the results of the election in the election documents, or publishes a vote or the results of the election or the voting that does not correspond to the actual voting, or in any other way falsifies a vote or the results of an election shall be punished by a fine or imprisonment of one (1) to three (3) years.
+2. When the offense provided for in paragraph 1. of this Article is committed by a member of the Election Commission or any other person abusing his or her duties, position or authorizations related to elections, the perpetrator shall be punished by imprisonment three (3) to five (5) years.

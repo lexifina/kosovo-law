@@ -1,0 +1,1 @@
+1CODE NO. 04/L-082 CRIMINAL CODE OF THE REPUBLIC OF KOSOVO Assembly of Republic of Kosovo, Based on Article 65 (1) of the Constitution of the Republic of Kosovo; Approves CRIMINAL CODE OF THE REPUBLIC OF KOSOVO GENERAL PART

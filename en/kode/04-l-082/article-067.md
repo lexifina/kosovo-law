@@ -1,0 +1,5 @@
+# Article 67
+Prohibition on driving motor vehicles 1. The court may prohibit a perpetrator who jeopardizes the safety of public traffic from driving a motor vehicle of a specific kind and category.
+2. The court shall determine the duration of the punishment ordered pursuant to paragraph 1 of this Article, which shall not be less than one (1) year and shall not exceed five (5) years, starting from the day the decision of the court becomes final. The period of time served in a prison or in a health care institution is not included in the duration of this punishment.
+3. When imposing a suspended sentence, the court may decide that such a suspended sentence will be revoked if the perpetrator violates the prohibition on driving the motor vehicle. This paragraph shall not apply if there are extra- ordinary circumstances which require the perpetrator to drive. 16
+CRIMINAL CODE OF THE REPUBLIC OF KOSOVO 17 4. If the punishment provided for in paragraph 1 of this Article is imposed on a person who has a foreign license for driving a motor vehicle, the punishment shall prohibit the use of the foreign license within the territory of the Republic of Kosovo.

@@ -1,0 +1,5 @@
+# Neni 199
+Tortura
+1. Personi zyrtar ose personi i cili duke vepruar nën ndikimin ose me pëlqimin apo pranimin e heshtur të personit zyrtar kryen aktin e torturës, dënohet me burgim prej një (1) deri në pesëmbëdhjetë (15) vjet.
+2. Kur vepra penale nga paragrafi 1. i këtij neni kryhet ndaj fëmijës, kryesi dënohet me burgim prej tre (3) deri në pesëmbëdhjetë (15) vjet.
+3. Për qëllime të këtij neni, akt i torturës nënkupton kryerjen ose moskryerjen e një akti me anë të të cilit me dashje personit i shkaktohet dhembja ose vuajtja e rëndë, qoftë fizike ose mendore, me qëllim të marrjes së informatës apo deklaratës nga personi i tillë ose nga personi i tretë, ose me qëllim të dënimin të personit të tillë për një vepër të cilën ai ose personi i tretë e ka kryer ose dyshohet se e ka kryer, ose për frikësimin apo shtrëngimin e personit ose të personit të tretë për arsye që kanë të bëjnë me diskriminim të çfarëdo lloji. Akti i torturës nuk përfshin asnjë veprim ose mosveprim që rrjedh vetëm nga aktet e pashmangshme apo karakteristike të sanksioneve të ligjshme.

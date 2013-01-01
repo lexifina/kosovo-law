@@ -1,0 +1,2 @@
+# Neni 128
+Dhuna ndaj përfaqësuesve të lartë të Republikës së Kosovës Kushdo që me qëllim të rrezikimit të rendit kushtetues apo sigurisë së Republikës së Kosovës, me përdorim të dhunës apo me kanosje të dhunës, pengon një apo më shumë nga personat e saktësuar në nenin 126 të këtij Kodi në ushtrimin e detyrave zyrtare apo i detyron të kryejnë apo të mos kryejnë ndonjë veprim nga fushëveprimi i detyrave të tyre, dënohet me burgim prej tre (3) deri në dhjetë (10) vjet.

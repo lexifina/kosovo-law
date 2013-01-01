@@ -1,0 +1,5 @@
+# Neni 428
+Marrja e ryshfetit
+1. Personi zyrtar i cili në mënyrë të drejtpërdrejtë apo të tërthortë, kërkon ose pranon ndonjë dhuratë apo përfitim tjetër për vete apo personin tjetër, ose që pranon ofertën apo premtimin për dhuratë apo përfitim të tillë, në mënyrë që personi zyrtar të veprojë ose të mos veprojë në pajtim me detyrën e tij zyrtare, dënohet me gjobë dhe me burgim prej gjashtë (6) muaj deri në pesë (5) vjet.
+2. Personi zyrtar i cili në mënyrë të drejtpërdrejtë apo të tërthortë, kërkon ose pranon ndonjë dhuratë apo përfitim tjetër për vete apo personin tjetër, ose që pranon ofertën apo premtimin për dhuratë apo përfitim të tillë, në mënyrë që personi zyrtar të veprojë ose të mos veprojë, në kundërshtim me detyrën e tij zyrtare, dënohet me gjobë dhe me burgim prej tre (3) deri në dymbëdhjetë (12) vjet.
+3. Nëse vepra penale nga paragrafi 1. i këtij neni rezulton me përfitim në vlerë që tejkalon pesëmbëdhjetë mijë (15.000) Euro, kryesi dënohet me gjobë dhe me burgim prej një (1) deri në tetë (8) vjet.

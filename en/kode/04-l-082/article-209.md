@@ -1,0 +1,3 @@
+# Article 209
+Preventing printing or distribution of printed materials and broadcasting of programs 1. Whoever unlawfully prevents the printing, recording, selling, distribution or broadcast of books, magazines, newspapers, audio or video tapes, radio and television programs, or other printed or recorded materials shall be punished by a fine or by imprisonment of up to one (1) year.
+2. If the offense provided for in paragraph 1 of this Article is committed by an official person abusing his or her position or authorizations, the perpetrator shall be punished by imprisonment of up to three (3) years.

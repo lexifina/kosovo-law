@@ -1,0 +1,3 @@
+# Article 397
+Tampering with evidence 1. Whoever, alters, removes, conceals, destroys, damages or renders unserviceable, in whole or in part, any record, property, object or document with the intent to impair the object's availability for use in an official proceeding, shall be punished by a fine or by imprisonment of six (6) months to five (5) years.
+2. Whoever, with the intent to prevent or hamper the collection of evidence in court proceedings or administrative proceedings, removes, shifts or changes the place of any boundary marker, land marker or any other mark designed to mark ownership or real estate or right to use water, or, with the same intent, places such markers in a misleading manner shall be punished as provided for in paragraph 1 of this Article.

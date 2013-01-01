@@ -1,0 +1,6 @@
+# Article 396
+Retaliation 1. Whoever takes any action harmful to any person, including interference with lawful employment or livelihood of any person, with the intent to retaliate for providing truthful information relating to the commission or possible commission of any criminal offense to police, an authorized investigator, a prosecutor or a judge, shall be fined and punished by imprisonment of up to three (3) years.
+2. Whoever with the intent to retaliate against any official person for any act performed in the course of his or her official duties, kills another person shall be punished by imprisonment of at least fifteen (15) years or lifelong imprisonment.
+3. Whoever with the intent to retaliate against any official person for any act performed in the course of his or her official duties attempts to kill another person shall be punished by imprisonment of at least ten (10) years.
+4. Whoever, with the intent provided for in paragraphs 1 to 3 of this Article, causes bodily injury or damages the property of any person shall be punished by at least three (3) years, but if the offense occurred in relation to a criminal proceeding, the perpetrator shall be punished by at least the same sentence as the most serious criminal offense that was the subject of the criminal proceeding. 126
+CRIMINAL CODE OF THE REPUBLIC OF KOSOVO 127

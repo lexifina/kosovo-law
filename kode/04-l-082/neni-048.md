@@ -1,0 +1,6 @@
+# Neni 48
+Zëvendësimi i dënimit me burgim me urdhrin për punë në dobi të përgjithshme 1. Gjykata, me pëlqimin e personit të dënuar, mund të zëvendësojë dënimin me burgim deri në gjashtë (6) muaj me urdhrin për punë në dobi të përgjithshme.
+2. Nëse e shqipton urdhrin për punë në dobi të përgjithshme, gjykata e urdhëron personin e dënuar të kryejë punë në dobi të përgjithshme pa pagesë për një periudhë të caktuar kohore prej tridhjetë (30) deri në dyqind e katërdhjetë (240) orë pune. Shërbimi sprovues vendos për llojin e punës në dobi të përgjithshme që duhet kryer nga personi i dënuar, cakton organizatën e veçantë për të cilën personi i dënuar do të kryejë punën në dobi të përgjithshme, vendos për ditët e javës gjatë të cilave puna në dobi të përgjithshme duhet të kryhet dhe e mbikëqyrë kryerjen e punës në dobi të përgjithshme.
+3. Puna në dobi të përgjithshme duhet të kryhet brenda kohës së caktuar nga gjykata dhe kjo kohë nuk mund të jetë me gjatë se një (1) vit.
+4. Nëse pas kalimit të kohës së caktuar personi i dënuar nuk e ka kryer punën në dobi të përgjithshme ose e ka kryer vetëm pjesërisht punën e tillë në dobi të përgjithshme, gjykata urdhëron dënimin me burgim. Një ditë burgim do të urdhërohet për çdo tetë (8) orë pune në dobi të përgjithshme që nuk është kryer.
+DËNIMET ALTERNATIVE

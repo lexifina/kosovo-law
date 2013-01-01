@@ -1,0 +1,3 @@
+# Article 78
+Special grounds to waive punishments for criminal offenses committed negligently 1. The court may waive the punishment of a perpetrator if he or she commits a criminal offense by negligence in the following cases:
+1.1. if the consequences of the criminal offense affect the perpetrator so severely that the punishment is unnecessary to achieve its purpose; or 1.2. if immediately after the commission of a criminal offense the perpetrator makes efforts to eliminate or reduce the consequences of the offense and if he or she completely or substantially compensates for the damage caused by the offense.

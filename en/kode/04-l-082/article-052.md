@@ -1,0 +1,6 @@
+# Article 52
+Conditions for imposing suspended sentences 1. A suspended sentence may be imposed on a perpetrator of a criminal offense for which the punishment of imprisonment of up to five (5) years is provided for by the law.
+2. A suspended sentence may be imposed on a perpetrator of a criminal offense for which the punishment of imprisonment of up to ten (10) years is provided by for the law if the provisions of mitigation of the punishment are applied.
+3. A suspended sentence may be imposed on a perpetrator as foreseen in paragraph 1 and 2 of this Article when the court imposes a punishment of a fine or of imprisonment of up to two (2) years, either for a single offense or concurrent offenses.
+4. When determining whether to impose a suspended sentence, the court shall consider, in particular, the purpose of a suspended sentence, the past conduct of the perpetrator, his or her behavior after the commission of the criminal offense, the degree of criminal liability and other circumstances under which the criminal offense was committed.
+5. When the court imposes a punishment of imprisonment and a fine, the court may impose a suspended sentence for both punishments or for only the punishment of imprisonment.

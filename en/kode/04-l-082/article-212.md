@@ -1,0 +1,4 @@
+# Article 212
+Preventing exercise of the right to vote 1. Whoever, in the exercise of duties entrusted to him or her related to elections, unlawfully, and with the intent to prevent another person from exercising his or her right to vote, fails to record such person in a voter registration list or removes such person from the voter registration list shall be punished by imprisonment of one (1) to three (3) years.
+2. Whoever, during the voting or the referendum unlawfully prevents, obstructs, hinders or influences the free decision of a voter or in any other manner prevents another person from exercising his or her right to vote shall be punished by imprisonment up to one (1) year.
+3. Whoever commits the offense from paragraphs 1 and 2 of this Article by the use of force or serious threat shall be punished by imprisonment of one (1) to five (5) years.

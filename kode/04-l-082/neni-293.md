@@ -1,0 +1,11 @@
+# Neni 293
+Falsifikimi i letrave me vlerë dhe instrumenteve të pagesës
+1. Kushdo që prodhon letra me vlerë të falsifikuara apo instrumente të pagesës të falsifikuara ose i ndryshon letrat me vlerë me qëllim që t’i përdorë si të vërteta, ose ia jep ato personit tjetër për përdorim ose i përdorë ato letra me vlerë si të vërteta, dënohet me burgim prej (6) gjashtë muaj deri në pesë (5) vjet.
+2. Kushdo që përdorë letra me vlerë të falsifikuara apo instrumente të pagesës të falsifikuara, dënohet me burgim prej tre (3) muaj deri në tre (3) vjet.
+3. Kushdo që duke ditur se letra me vlerë apo instrument i pagesës është i falsifikuar, pranon, transporton ose posedon letrën me vlerë apo instrumentin e pagesës të falsifikuar me qëllim që ta shpërndajë ose ta përdorë si të vërtetë, dënohet me burgim prej tre (3) muaj deri në pesë (5) vjet.
+4. Nëse vepra penale nga paragrafi 1. ose 2. i këtij neni përfshinë letra me vlerë apo instrumente të pagesës me vlerë të cekur që tejkalon dhjetëmijë (10.000) Euro, kryesi dënohet me burgim prej një (1) deri në tetë (8) vjet.
+5. Kushdo që ka pranuar si të vërteta letrat me vlerë apo instrumentet e pagesës të falsifikuara dhe i përdorë ato duke ditur se janë të falsifikuara, dënohet me gjobë ose me burgim deri në një (1) vit.
+6. Tentativa për të kryer vepër penale nga paragrafi 5. i këtij neni është e dënueshme.
+7. Letrat me vlerë, instrumentet e pagesës dhe pajisjet për prodhimin ose ndryshimin e tyre konfiskohen.
+8. Shprehja “instrument i pagesës” nënkupton instrument fizik, përveç parave, që i mundëson nga natyra e tij specifike, vetë apo në bashkim me ndonjë instrument tjetër të pagesës, mbajtësit apo përdoruesit që të transferojë paratë apo vlerën monetare. Kjo përfshinë, por nuk kufizohet në fletë aksione, certifikata të aksioneve, aksione, kredit kartela, kartela të euroçeqeve, kartela tjera të lëshuara nga institucionet financiare, euroçeqe, çeqe tjera të udhëtarëve dhe kartëmonedha të këmbimit, të cilat janë të mbrojtura kundër imitimit apo përdorimit të rremë përmes dizajnit, kodimit, nënshkrimit apo ndonjë mjeti tjetër.
+9. Letrat me vlerë ose instrumentet e pagesës përfshijnë letrat me vlerë ose instrumentet e pagesës të falsifikuara dhe letrat me vlerë ose instrumentet e pagesës të vërteta të cilat janë ndryshuar në aspektin material dhe me qëllim që të përdoren për qëllime mashtruese.

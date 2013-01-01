@@ -1,0 +1,9 @@
+# Article 89
+Mandatory psychiatric treatment in custody in a health care institution 1. The court may impose a measure of mandatory psychiatric treatment in custody in a health care institution on a perpetrator who has committed a criminal offense while in a state of mental incompetence or substantially diminished mental capacity, if it determines that:
+1.1. the perpetrator committed an offense punishable by imprisonment of at least three (3) years;
+1.2. there is a serious danger that the perpetrator will commit another criminal offense;
+1.3. the mandatory psychiatric treatment in custody is necessary to avoid the commission of another criminal offense;
+1.4. the perpetrator is unable to stand trial; and 1.5. the mandatory psychiatric treatment in custody is necessary to avoid a serious danger.
+2. The court shall suspend the measure of mandatory psychiatric treatment provided for in paragraph 1 of this Article upon verification that the need for the treatment in a health care institution has ceased.
+3. The time spent in a health care institution will count towards the term of the imposed punishment for the mandatory psychiatric treatment for the perpetrator who commits a criminal offense in a state of substantially diminished mental capacity and who was punished by imprisonment. If the time in custody for mandatory psychiatric treatment is less than the sentence of imprisonment, the court may order that the perpetrator be sent to prison to serve the remainder of the sentence or the court may order conditional release.
+4. When considering conditional release under paragraph 3 of this Article, the court, in addition to the conditions set forth in Article 94 of this Code, shall give special consideration to the success of the mandatory treatment of the perpetrator, his or her health, the time spent in the health care institution and the length of the sentence that has not been served.

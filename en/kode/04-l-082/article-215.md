@@ -1,0 +1,6 @@
+# Article 215
+Giving or receiving a bribe in relation to voting 1. Whoever promises, offers, gives any undue benefit or gift to any person, with the intent to influence that person to vote, not to vote, vote in favor or against a specific person or proposal, or to cast a void vote, in any election or referendum shall be punished by imprisonment of one (1) to five (5) years.
+2. Whoever requests or receives any undue benefit or gift for himself, herself or for another any person, or accepts an offer or promise of such benefit or gift, to vote or not to vote, to vote in favor or against a specific person or proposal, or to cast a void vote, in any election or referendum shall be punished by imprisonment of one (1) to five (5) years.
+3. Whoever serves as an intermediary and violates paragraph 1. or 2. of this Article shall be punished by imprisonment of one (1) to five (5) years.
+4. If the offense from paragraph 1-3 of this Article is committed by a member of the Election Commission or any other person during the exercise of his or her official duties in regard to voting, the perpetrator shall be punished by imprisonment from three (3) to five (5) years.
+5. The gift shall be confiscated.

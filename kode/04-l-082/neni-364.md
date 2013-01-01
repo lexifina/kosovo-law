@@ -1,0 +1,4 @@
+# Neni 364
+Punimet e paautorizuara dhe përvetësimi i monumenteve kulturore 1. Kushdo që pa autorizimin e organit kompetent kryen punë të konservimit, restaurimit apo punime hulumtuese në ndonjë monument kulturor, ose përkundër ndalimit ose joautorizimit, kryen gërmime apo hulumtime arkeologjike dhe me këtë e shkatërron ose e dëmton rëndë monumentin kulturor apo karakteristikat e tij, dënohet me gjobë ose me burgim deri në dy (2) vjet.
+2. Nëse vepra penale nga paragrafi 1. i këtij neni kryhet ndaj monumentit kulturor me vlerë apo me rëndësi të posaçme ose rezulton me dëm të madh, kryesi dënohet me gjobë dhe me burgim prej gjashtë (6) muaj deri në tri (3) vjet.
+3. Kushdo që gjatë hulumtimeve arkeologjike apo të hulumtimeve të tjera përvetëson ose merr objektin e gërmuar apo objektin e gjetur në ndonjë mënyrë tjetër i cili paraqet monument kulturor, dënohet me dënimin nga paragrafi 2. i këtij neni.

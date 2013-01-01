@@ -1,0 +1,13 @@
+# Article 171
+Trafficking in persons 1. Whoever engages in trafficking in persons shall be punished by a fine and imprisonment of five (5) to twelve (12) years.
+2. When the offense provided for in paragraph 1 of this Article is committed within a 350 meter radius of a school or other locality which is used by children or when the offense is committed against a person under the age of eighteen (18) years, the perpetrator shall be punished by a fine and imprisonment of three (3) to fifteen (15) years.
+3. Whoever organizes a group of persons to commit the offense in paragraph 1. of this Article shall be punished by a fine of up to five hundred thousand (500,000) EUR and by imprisonment of seven (7) to twenty (20) years.
+4. When the offense provided for in this Article is committed by an official person abusing his or her position or authorizations, the perpetrator shall be punished by:
+4.1. a fine and imprisonment of five (5) to fifteen (15) years in the case of the offense provided for in paragraph 1 or 2 of this Article;
+4.2. a fine and imprisonment of not less than ten (10) years in the case of the offense provided for in paragraph 3 of this Article;
+5. If the offense from paragraph 1-4 of this Article results in death of one or more persons, the perpetrator shall be punished by imprisonment of not less than ten (10) years or life long imprisonment.
+6. For the purposes of this Article and Article 172 of this Code expressions below shall have the following meaning:
+6.1. Trafficking in persons - the recruitment, transportation, transfer, harboring or receipt of persons, by threat or the use of force or other forms of coercion, abduction, fraud, deception, the abuse of power or the abuse of a position of vulnerability or the giving or receiving of payments or benefits to achieve the consent of a person having control over another person, for the purpose of exploitation.
+6.2. Exploitation - as used in sub-paragraph 6.1 of this paragraph shall include, but not be limited to, prostitution of others, pornography or other forms of sexual exploitation, begging, forced or compulsory labour or services, slavery or practices similar to slavery, servitude or the removal of organs or tissue.
+6.3. The consent of a victim of trafficking in persons to the intended exploitation shall be irrelevant where any of the means set forth in sub-paragraph 6.1. of this paragraph have been used against such victim.
+6.4. The recruitment, transportation, transfer, harboring or receipt of a child for the purpose of exploitation shall be considered “trafficking in persons” even if this does not involve any of the means set forth in subparagraph 6.1. of this paragraph.

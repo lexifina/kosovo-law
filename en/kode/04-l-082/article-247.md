@@ -1,0 +1,6 @@
+# Article 247
+Extramarital community with a person under the age of sixteen (16) 1. An adult who cohabits in extramarital community with a person between the ages of fourteen (14) and sixteen (16) years shall be punished by imprisonment of five (5) to twenty (20) years.
+2. A parent, an adoptive parent, guardian or another person exercising parental authority who permits or induces a person between the ages of fourteen (14) and sixteen(16) years to cohabit in extramarital community with another person shall be punished by imprisonment of five (5) to twenty (20) years.
+3. When the offense provided for in paragraph 1 or 2 of this Article is committed against a person under the age of
+CRIMINAL CODE OF THE REPUBLIC OF KOSOVO fourteen (14) years, the perpetrator shall be punished by imprisonment of at least fifteen (15) years.
+4. When the offense provided for in paragraph 2 or 3 of this Article is committed with the purpose of obtaining a material benefit, the perpetrator shall be punished by a fine and imprisonment of at least fifteen (15) years.

@@ -1,0 +1,7 @@
+# Neni 274
+Prodhimi dhe përpunimi i paautorizuar i narkotikëve, substancave psikotrope, analoge apo veglave, pajisjeve apo materialeve narkotike
+1. Kushdo që pa autorizim prodhon, kultivon, përpunon, nxjerr ose përgatit substanca apo preparate që janë shpallur si narkotikë ose substanca psikotrope, dënohet me gjobë dhe me burgim prej një (1) deri në dhjetë (10) vjet.
+2. Kushdo që pa autorizim prodhon, kultivon, përpunon, shet ose ofron për shitje substancën analoge, dënohet me gjobë dhe me burgim prej gjashtë (6) muaj deri në tre (3) vjet.
+3. Kushdo qe prodhon, transporton ose shpërndan preparate duke e ditur se ato do të përdoren për prodhim ose përpunim të paautorizuar të narkotikëve apo substancave psikotrope, dënohet me burgim prej dy (2) deri në dhjetë (10) vjet.
+4. Kushdo që pa autorizim prodhon, transporton, shpërndan, shet ose furnizon me vegla, pajisje apo materiale narkotike, duke ditur se këto janë përdorë ose do të përdoren për kultivim, prodhim, përpunim, trafikim apo përdorim të paautorizuar të çfarëdo substance ose preparati të cilat janë shpallur si narkotikë, substanca psikotrope apo analoge, dënohet me gjobë dhe me burgim prej një (1) deri në dhjetë (10) vjet.
+5. Substancat narkotike, substancat psikotrope ose substancat analoge dhe mjetet për prodhimin, shpërndarjen apo transportimin e tyre konfiskohen.
