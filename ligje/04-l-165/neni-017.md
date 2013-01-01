@@ -1,0 +1,4 @@
+# Neni 17
+Kredia për entitetet e përcaktuara dhe Ndërmarrjet në Pronësi Publike
+Ministri është i autorizuar që Entiteteve të Përcaktuara sipas paragrafit 2. të nenit 50 të LMFPP-së, apo ndërmarrjeve në pronësi publike sipas Ligjit për Ndërmarrjet në Pronësi Publike Nr. 03/L-087, tu japë kredi të kthyeshme dhe në përputhje me Afatet dhe Kushtet e aprovuara nga Qeveria. Shumat e aprovuara për kredi të tilla ndahen në bazë të këtij ligji dhe janë të paraqitura në Tabelën 1. Kredia e kthyeshme ose kredia do të bazohet në marrëveshjen e arritur në mes të Entitetit të përcaktuar apo
+Ndërmarrjes në Pronësi Publike që i pranojnë huat ose kreditë në njërën anë, dhe Ministrit në anën tjetër, ndërsa që do të përdoren vetëm për qëllimet e shpenzimeve kapitale.
