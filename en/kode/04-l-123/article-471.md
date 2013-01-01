@@ -1,0 +1,6 @@
+# Article 471
+Procedure to render decisions at the deliberation and voting session of the trial panel
+1. A decision of a panel of judges shall be rendered after oral deliberation and voting. A decision is rendered when a majority of the members of the panel have voted for it.
+2. The presiding trial judge shall direct the deliberation and the voting and shall vote last. It is his or her duty to see that all issues are fully examined from every point of view.
+3. If, in regard to individual questions on which a vote is taken, the votes are divided in several different opinions so that no one of them is in a majority, the issues shall be separated and the voting shall be repeated until a majority is reached. If a majority is not reached in this manner, a decision shall be taken whereby the votes which are most unfavourable to the defendant shall be added to the votes which are less unfavourable than these until the necessary majority is reached.
+4. The members of the panel may not refuse to vote on questions put by the presiding trial judge, but a member of the panel who has voted to acquit the accused or to revoke the verdict and who has remained in the minority shall not be obliged to vote on the penalty. If he or she does not vote, it shall be taken that he or she consented to the vote which was most favourable to the accused.

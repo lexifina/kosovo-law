@@ -1,0 +1,5 @@
+# Neni 301
+Mbajtja e rendit dhe mediat në gjykatore
+1. Gjyqtari i vetëm gjykues ose kryetari i trupit gjykues detyrohet të kujdeset për mbajtjen e rendit në gjykatore dhe dinjitetin e gjykatës. Ai menjëherë pas hapjes së seancës paralajmëron personat e pranishëm në shqyrtimin gjyqësor që të sillen si duhet dhe të mos e pengojnë punën e gjykatës. Gjyqtari i vetëm gjykues ose kryetari i trupit gjykues mund të urdhërojë kontrollin personal të personave të pranishëm në shqyrtimin gjyqësor.
+2. Gjyqtari i vetëm gjykues ose kryetari i trupit gjykues mund të urdhërojë largimin e publikut nga shqyrtimi gjyqësor, kur me masat për mbajtjen e rendit të parapara me këtë Kod nuk është e mundur të sigurohet mbajtja pa pengesë e shqyrtimit gjyqësor.
+3. Fotografimi, filmimi, regjistrimi televiziv dhe regjistrime të tjera përpos regjistrimit zyrtar të shqyrtimit gjyqësor lejohen, përveç nëse gjyqtari i vetëm gjykues ose kryetari i trupit gjykues kufizon fotografimin, filmimin, regjistrimin televiziv ose regjistrimet tjera me aktvendim të arsyetuar me shkrim.

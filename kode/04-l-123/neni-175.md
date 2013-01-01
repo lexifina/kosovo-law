@@ -1,0 +1,10 @@
+# Neni 175
+Urdhërarresti
+1. Gjyqtari i procedurës paraprake, gjyqtari i vetëm gjykues ose kryetari i trupit gjykues sipas detyrës zyrtare mund të lëshojë urdhërarrest me kërkesë të prokurorit të shtetit, ose në rrethana të ngutshme me kërkesë të policisë kur ekzistojnë kushtet nga paragrafi 1. i nenit 187 të këtij Kodi, ose kur i pandehuri i cili pasi është thirrur me rregull nuk paraqitet dhe nuk e arsyeton mungesën e tij ose kur thirrja nuk ka mundur t’i dërgohet sipas rregullit dhe kur sipas rrethanave është e qartë se i pandehuri i shmanget pranimit të thirrjes.
+2. Urdhërarresti lëshohet me shkrim dhe përfshin: emrin dhe mbiemrin e të pandehurit dhe të dhëna të tjera personale të njohura për gjyqtarin, përcaktimin e veprës penale me të cilën ngarkohet duke iu referuar dispozitës përkatëse të Kodit Penal, bazën mbi të cilën lëshohet urdhri dhe vulën zyrtare dhe nënshkrimin e gjyqtarit që lëshon urdhërarrestin. Nëse nuk përcaktohet ndryshe në urdhërarrest, urdhërarresti skadon në mesnatën e ditës së treqind e gjashtëdhjetë e pestë (365) të nga dita e lëshimit.
+3. Urdhërarrestin e ekzekuton policia.
+4. Zyrtari i policisë i ngarkuar për ekzekutimin e urdhrit ia dorëzon urdhrin të pandehurit dhe kërkon që i pandehuri ta shoqërojë. Kur i pandehuri këtë e refuzon, atëherë dërgohet forcërisht.
+5. Urdhri për paraqitje të detyrueshme të zyrtarëve të policisë ose të rojtarëve të institucionit ku personat mbahen në ndalim ekzekutohet nëpërmjet ndërmjetësimit të komandës ose eprorit të tyre.
+6. Në kohën e arrestimit, personi informohet në gjuhën që e kupton për arsyet e arrestimit dhe për të drejtat nga neni 167 i këtij Kodi.
+7. Menjëherë pas arrestimit, personi i arrestuar dërgohet para gjyqtarit i cili e ka lëshuar urdhrin.
+D. Premtimi i të pandehurit se nuk do ta braktisë vendqëndrimin

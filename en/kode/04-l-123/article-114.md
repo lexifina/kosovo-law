@@ -1,0 +1,4 @@
+# Article 114
+Limitations on Disclosure of Documents
+1. Public entities may request the pretrial judge to delay or reconsider an order to disclose files or documents if they consider that disclosure of their contents would harm the general interest. A pretrial judge must balance the harm to the general interest with the public interest in prompt adjudication of criminal proceedings, the human rights of the defendant or the rights of the injured party. There shall be a presumption in favor of disclosure of the files or documents of public entities. The public entity may object to a review panel the refusal of the pretrial judge to delay or reconsider his or her order. The review panel shall have the final decision.
+2. Business organizations and legal persons may request that information concerning their business be not published if it is sensitive or contains the private information of third-parties.

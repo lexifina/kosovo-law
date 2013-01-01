@@ -1,0 +1,4 @@
+# Article 422
+Reopening of criminal proceedings dismissed by a final ruling
+1. Criminal proceedings which were dismissed in a final form before the main trial can be reopened if the state prosecutor withdrew the indictment and it is proven that this withdrawal was a result of the criminal offence of the abuse of the official function of the state prosecutor. While proving this criminal offence, provisions of Article 423, paragraph 2 of the present Code shall be applied.
+2. If the indictment was dismissed based on insufficient evidence to support a well-grounded suspicion that the defendant has committed the criminal offence as described in the indictment and if new facts and evidence are discovered and obtained, a new indictment can be filed if the review panel determines that new evidence and facts justify this.

@@ -1,0 +1,10 @@
+# Article 284
+Reasoned Order that Property is Forfeited Required
+1. The single trial judge or trial panel shall, concurrent with the judgment of the trial, issue an order supported by reasoning that determines whether each building, immovable property, movable property or asset listed in the indictment in compliance with Article 241, paragraph 1 subparagraph 1.9 of the present Code, shall be forfeited or released.
+2. Each building, immovable property, movable property or asset listed in the indictment in compliance with Article 241, paragraph 1 subparagraph 1.9 of the present Code shall be considered separately in the order under paragraph 1 of present Article.
+3. The state prosecutor may request that the building, immovable property, movable property or asset be sold or liquidated. Funds from the sale or liquidation shall be used in accordance with paragraph 5 of this Article.
+4. The state prosecutor may request that the building, immovable property, movable property or asset be retained for the use by the government of Kosovo.
+5. If funds are forfeited directly or through paragraph 3 of this Article, the state prosecutor, injured party or victim advocate may request that the funds be used to compensate the injured party. Any remaining funds shall be transferred to the budget.
+6. The order under paragraph 1 of this Article shall instruct the Agency on the Management of Sequestered or Confiscated Assets to sell, liquidate, or retain the building, immovable property, movable property or asset. If a request under paragraph 5 of this Article is made, the court may order the compensation of the injured party. The single trial judge or trial panel may set additional conditions on the use of the property, if retained by the government.
+7. The order shall be sent to anyone who has a property right in the building, immovable property, movable property or asset, who may appeal the order.
+8. If the order is not appealed within one (1) week, the order shall be sent to the Agency on the Management of Sequestered or Confiscated Assets for execution.

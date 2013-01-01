@@ -1,0 +1,6 @@
+# Neni 317
+Kontrollimi, korrigjimi dhe nënshkrimi i procesverbalit të shqyrtimit gjyqësor, shqyrtimit fillestar dhe shqyrtimit të dytë
+1. Procesverbali i shqyrtimit gjyqësor, shqyrtimit fillestar dhe shqyrtimit të dytë përfundohet me mbarimin e seancës. Ai nënshkruhet nga procesmbajtësi, gjyqtari i vetëm gjykues, kryetari i trupit gjykues dhe palët e pranishme.
+2. Palët kanë të drejtë të kontrollojnë procesverbalin e përfunduar dhe pjesët shtojcë, të bëjnë komente mbi përmbajtjen dhe të kërkojnë korrigjimin e tij.
+3. Korrigjimet e emrave të shënuar gabimisht, të numrave jo të saktë dhe të gabimeve të qarta në shkrim mund të bëhen me urdhrin e gjyqtarit të vetëm gjykues ose kryetarit të trupit gjykues sipas detyrës zyrtare apo sipas propozimit të palës ose të personit që merret në pyetje. Korrigjime ose shtesa të tjera në procesverbal mund të urdhërohen vetëm nga gjyqtari i vetëm gjykues ose trupi gjykues.
+4. Komentet dhe propozimet e palëve lidhur me procesverbalin, si dhe korrigjimet dhe ndryshimet në procesverbal përfshihen si shtojcë në procesverbalin e përfunduar. Në shtojcë shënohen arsyet e mospranimit të sugjerimeve dhe komenteve të caktuara. Shtojcën e procesverbalit e nënshkruajnë procesmbajtësi dhe gjyqtari i vetëm gjykues apo kryetari i trupit gjykues.

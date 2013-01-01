@@ -1,0 +1,3 @@
+# Article 109
+Contraband or Evidence Unrelated to Basis of Search
+If during a search of a person, house or premises objects are found which are not related to the criminal offence which justified the search but which point to another criminal offence prosecuted ex officio, these objects shall also be described in the record and confiscated, and a receipt of confiscation shall immediately be issued. A notification thereof shall immediately be sent to the state prosecutor so that he or she can initiate criminal proceedings or amend the existing criminal proceedings. The objects confiscated shall be returned immediately if the state prosecutor finds that there are no grounds for criminal proceedings, nor any other legal ground for confiscating the objects.

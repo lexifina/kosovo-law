@@ -1,0 +1,5 @@
+# Article 193
+Detention on Remand After Indictment is Filed
+1. After the indictment has been filed and until the conclusion of the main trial, detention on remand may only be ordered, extended or terminated by a ruling of the single trial judge or presiding trial judge or the trial panel when it is in session. The single trial judge or presiding trial judge shall first hear the opinion of the state prosecutor, if proceedings have been initiated at his or her request, and the opinion of the defendant or the defense counsel. The parties may appeal against the ruling. Article 189 paragraphs 3 and 4 of the present Code shall apply mutatis mutandis.
+2. Upon the expiry of two (2) months from the last ruling on detention on remand, the single trial judge or presiding trial judge, even in the absence of a motion by the parties, shall examine whether reasons for detention on remand still exist and render a ruling by which detention on remand is extended or terminated. The parties may appeal against the ruling. Article 189 paragraphs 3 and 4 of the present Code shall apply mutatis mutandis.
+4. IMPLEMENTATION OF DETENTION ON REMAND

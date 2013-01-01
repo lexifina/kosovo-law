@@ -1,0 +1,3 @@
+# Neni 321
+Prania e personave të thirrur në shqyrtim gjyqësor dhe vërtetimi i identitetit të të pandehurit
+Kur gjyqtari i vetëm gjykues apo kryetari i trupit gjykues konstaton se në shqyrtim gjyqësor janë të pranishëm të gjithë personat e thirrur, ose kur gjyqtari i vetëm gjykues apo trupi gjykues vendos që shqyrtimi gjyqësor të mbahet në mungesë të ndonjë personi të thirrur apo vendimin për këto çështje e ka lënë për më vonë, gjyqtari i vetëm gjykues ose kryetari i trupit gjykues e thërret të akuzuarin dhe prej tij merr të dhënat personale, përveç të dhënave mbi dënimet e mëparshme, për të vërtetuar identitetin e tij.

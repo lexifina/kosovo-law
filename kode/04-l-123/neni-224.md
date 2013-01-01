@@ -1,0 +1,13 @@
+# Neni 224
+Urdhri për anonimitet prej të pandehurit
+1. Kur masat mbrojtëse të parapara në neni 222, paragrafi 1. i këtij Kodi janë të pamjaftueshme për të garantuar mbrojtjen e të dëmtuarit, dëshmitarit bashkëpunues ose të dëshmitarit i cili nuk është propozuar nga mbrojtja, gjyqtari kompetent në rrethana të jashtëzakonshme mund të marrë urdhër për anonimitet me të cilin i dëmtuari, dëshmitari bashkëpunues ose dëshmitari mbetet anonim për të pandehurin dhe mbrojtësin.
+2. Prokurori i shtetit kërkon urdhër për anonimitet prej të pandehurit vetëm me propozim me shkrim të mbyllur ku paraqiten fakte të cilat tregojnë se:
+2.1. ekziston rrezik serioz për të dëmtuarin, dëshmitarin bashkëpunues ose dëshmitarin për të cilin kërkohet urdhri për anonimitet; dhe
+2.2. anonimiteti do të parandalonte rrezikun serioz për të dëmtuarin, dëshmitarin bashkëpunues ose dëshmitarin.
+3. Gjykata nuk lëshon urdhër nga ky nen bazuar në kërkesën nga paragrafi 2. i këtij neni e cila bazohet në përshkrim të përgjithshëm të rreziqeve që i kanosen dëshmitarëve në raste të ngjashme.
+4. Para se të merret urdhër për anonimitet, gjyqtari kompetent zbaton seancë dëgjimore me dyer të mbyllura, në të cilën merren në pyetje i dëmtuari, dëshmitari bashkëpunues ose dëshmitari në fjalë dhe personat tjerë të nevojshëm siç është personeli policor ose ushtarak që kujdesen për rendin. Përveç këtyre personave, të pranishëm mund të jenë vetëm prokurori i shtetit, personeli i domosdoshëm i gjykatës dhe i prokurorisë.
+5. Gjyqtari kompetent mund të nxjerrë urdhër të tillë për anonimitet vetëm kur ai çmon se:
+5.1. ekziston rrezik serioz për të dëmtuarin, dëshmitarin bashkëpunues ose dëshmitarin apo anëtarin e familjes së tij dhe anonimiteti i plotë i të dëmtuarit, dëshmitarit bashkëpunues ose dëshmitarit është i nevojshëm për të parandaluar rrezikun e tillë serioz;
+5.2. dëshmia e të dëmtuarit, dëshmitari bashkëpunues ose dëshmitarit është e rëndësishme për çështjen sa që e bën të padrejtë realizimin e ndjekjes pa të;
+5.3. besueshmëria e të dëmtuarit, dëshmitarit bashkëpunues ose dëshmitarit është hetuar dhe zbuluar plotësisht për gjyqtarin kompetent në seancë të mbyllur; dhe
+5.4. nevoja për anonimitetin e të dëmtuarit, dëshmitarit bashkëpunues ose dëshmitarit është më e rëndësishme për vënien e drejtësisë se sa interesi i të pandehurit për ta ditur identitetin e të dëmtuarit, dëshmitarit bashkëpunues apo dëshmitarit në zbatimin e mbrojtjes.

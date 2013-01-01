@@ -1,0 +1,8 @@
+# Neni 281
+Pasuria që rezulton nga veprimet korruptive
+1. Në rastet kur procedura penale nuk përfundohet me aktgjykim me të cilin i akuzuari shpallet fajtor, sendet e fituara me vepër penale nga neni 344 i Kodit Penal dhe marrja ose dhënia e kundërligjshme e shpërblimit, dhuratës ose përfitimit nga nenet 214, 314, 315, 428, 429, 430 dhe 431 të Kodit Penal gjithashtu konfiskohen kur:
+1.1. vërtetohen elementet ligjore të veprës penale nga neni 344 i Kodit Penal ose vërtetohet se sende të caktuara janë fituar me vepër penale nga neni 344 i Kodit Penal; ose
+1.2. vërtetohen elemente ligjore të veprës penale nga nenet 214, 314, 315, 428, 429, 430 dhe 431 të Kodit Penal si dhe dhënia ose marrja e shpërblimit, dhuratës ose dobisë tjetër pasurore.
+2. Me kërkesë të arsyetuar të prokurorit të shtetit, gjykata merr aktvendim të posaçëm për konfiskim nga paragrafi 1. i këtij neni. Prokurori i shtetit në kërkesë shënon të gjitha të dhënat dhe rrethanat e rëndësishme për përcaktimin e dobisë pasurore të fituar me vepër penale, të sendeve të fituara nga vepra penale ose dhënies të kundërligjshme të shpërblimit, dhuratës apo përfitimit.
+3. Kopja e vërtetuar e aktvendimit me shkrim nga paragrafi 2. i këtij neni i dërgohet pronarit të parave ose pasurisë së konfiskuar nëse ai dihet. Kur pronari nuk dihet, aktvendimi shpallet në stendën e gjykatës dhe pas tetë ditëve konsiderohet se i është dorëzuar pronarit të panjohur.
+4. Pronarët e parave ose të pasurisë së konfiskuar kanë të drejtë ankese kundër aktvendimit nga paragrafi 2. i këtij neni kur ata mendojnë se nuk ka bazë ligjore për konfiskim.

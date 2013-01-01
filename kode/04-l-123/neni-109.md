@@ -1,0 +1,3 @@
+# Neni 109
+Kontrabanda ose provat që nuk kanë lidhje me bazën e kontrollit
+Nëse gjatë kontrollit të personit, shtëpisë ose lokaleve gjenden sende të cilat nuk kanë të bëjnë me veprën penale për të cilën është zbatuar kontrolli, por që tregojnë një vepër tjetër penale që ndiqet sipas detyrës zyrtare, këto sende gjithashtu përshkruhen në procesverbal, konfiskohen dhe menjëherë lëshohet vërtetimi për konfiskim. Prokurorit të shtetit menjëherë i dërgohet njoftimi në mënyrë që të fillojë procedure penale apo të ndryshojë procedurën penale ekzistuese. Sendet e konfiskuara kthehen menjëherë kur prokurori i shtetit konstaton se nuk ka bazë për ndjekje penale, e as ndonjë bazë tjetër ligjore për konfiskimin e sendeve.

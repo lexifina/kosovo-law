@@ -1,0 +1,4 @@
+# Neni 40
+Procedura për përjashtim
+1. Gjyqtari posa të mësojë se ekziston ndonjë arsye për përjashtim nga neni 39, paragrafi 1. ose 2. i këtij Kodi ndërpret çdo aktivitet lidhur me çështjen dhe për këtë e njofton kryetarin e gjykatës, i cili sipas procedurave apo rregullave të brendshme të gjykatës cakton zëvendësimin e tij. Në rastin e përjashtimit të kryetarit të gjykatës, ai kërkon drejtpërdrejt nga Kryetari i Gjykatës së Apelit që të caktojë zëvendësimin.
+2. Në qoftë se gjyqtari konstaton se ekzistojnë rrethana të cilat arsyetojnë përjashtimin e tij nga neni 39, paragrafi 3. i këtij Kodi, ai për këtë e njofton kryetarin e gjykatës. Derisa të merret vendim për përjashtim, gjyqtari mund të ndërmerr vetëm ato veprime të cilat janë domosdo të nevojshme për të penguar shtyrjen ose vonesën e palejueshme të çështjes.

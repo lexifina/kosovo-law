@@ -1,0 +1,5 @@
+# Neni 375
+Paanshmëria në shqyrtimin e mjetit juridik
+1. Asnjëra palë nuk lejohet të ketë komunikim në prezencën e vetëm njërës palë me kolegjin shqyrtues, Gjykatën e Apelit apo Gjykatën Supreme lidhur me kundërshtimin apo kërkesën për mjet juridik që pret zgjidhjen nga kolegji shqyrtues, Gjykata e Apelit ose Gjykata Supreme, apo të cilën pala pretendon ta paraqesë te kolegji shqyrtues, Gjykata e Apelit ose Gjykata Supreme.
+2. Asnjë gjyqtari i kolegjit shqyrtues, Gjykatës së Apelit apo Gjykatës Supreme nuk komunikon lidhur me kundërshtimin apo kërkesën për mjet juridik me palën e cila ka interes në këtë mjet juridik që pret vendimin e Gjykatës së Apelit apo Gjykatës Supreme, apo të cilën pala pretendon ta paraqesë para kolegjit shqyrtues, Gjykatës së Apelit apo Gjykatës Supreme.
+3. Gjyqtari me të cilin pala tenton të komunikojë pa praninë e palës tjetër, në kundërshtim me paragrafin 1. ose 2. të këtij neni, refuzon komunikimin menjëherë dhe informon palët tjera për tentimin e palës për të komunikuar pa praninë e tyre.

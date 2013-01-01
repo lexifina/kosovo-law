@@ -1,0 +1,9 @@
+# Neni 83
+Të dhënat plotësuese të kallëzimit penal të policisë
+1. Nëse prokurori i shtetit nga kallëzimi penal nuk mund të përcaktojë nëse pretendimet e përfshira në të janë të mundshme, ose të dhënat në kallëzim nuk sigurojnë bazë të mjaftueshme për fillimin e hetimit apo nëse prokurori vetëm ka dëgjuar se është kryer vepër penale, prokurori i shtetit, nëse nuk është në gjendje vetë të ndërmarrë këtë, kërkon nga policia që të mbledhë të dhënat e duhura. Policia detyrohet të veprojë sipas kërkesave të ligjshme të prokurorit.
+2. Prokurori i shtetit gjithashtu mund të mbledhë vetë të dhëna të tilla ose nëpërmjet organeve të tjera publike, duke përfshirë bisedën me dëshmitarët, të dëmtuarit dhe përfaqësuesit e tyre ligjor. Prokurori i shtetit mund të marrë pjesë së bashku me policinë në çdo marrje në pyetje të të dyshuarit duke respektuar të drejtat e të dyshuarit sipas dispozitave të këtij Kodi.
+3. Policia detyrohet t’i raportojë menjëherë prokurorit të shtetit mbi masat e ndërmarra nën udhëzimet e tij, e nëse ata nuk kanë mund t’i ndërmarrin ato, atëherë menjëherë i raportojnë prokurorit të shtetit për arsyet e pamundësisë së ndërmarrjes së masave të tilla.
+4. Prokurori i shtetit mund të kërkojë të dhëna të nevojshme nga organet publike dhe për këtë qëllim mund ta thërret personin i cili e ka dorëzuar kallëzimin penal.
+5. Prokurori i shtetit e hedh kallëzimin penal nga neni 79 i këtij Kodi brenda tridhjetë (30) ditësh nëse edhe pasi të jenë ndërmarr veprimet nga paragrafët 2., 3. dhe 4. të këtij neni vazhdojnë të ekzistojnë rrethanat nga paragrafi 1. i këtij neni.
+6. Policia, prokurori i shtetit dhe organet tjera publike detyrohen të procedojnë me kujdes në mbledhjen ose në sigurimin e të dhënave, duke pasur kujdes që të mos cenohet dinjiteti dhe reputacioni i personit të cilit i referohen të dhënat e tilla.
+3. MARRJA E INFORMATAVE

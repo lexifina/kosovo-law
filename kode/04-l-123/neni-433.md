@@ -1,0 +1,6 @@
+# Neni 433
+Personat e autorizuar për të paraqitur kërkesë për mbrojtje të ligjshmërisë
+1. Kërkesë për mbrojtje të ligjshmërisë mund të paraqesë Kryeprokurori i Shtetit, i pandehuri dhe mbrojtësi i tij. Pas vdekjes së të pandehurit, kërkesë për mbrojtje të ligjshmërisë në emër të tij mund të paraqesin personat e paraparë në nenin 424, paragrafi 1. fjalia e fundit e këtij Kodi.
+2. Kryeprokurori i shtetit, i pandehuri, mbrojtësi i tij dhe personat e paraparë në nenin 424, paragrafi 1. fjalia e fundit e këtij Kodi mund të paraqesin kërkesë për mbrojtje të ligjshmërisë brenda tre (3) muajve nga dita kur të pandehurit i është dorëzuar vendimi gjyqësor i formës së prerë. Nëse kundër vendimit të gjykatës themelore nuk paraqitet ankesë, afati rrjedh nga dita kur vendimi merr formë të prerë.
+3. Kur me vendim të Gjykatës Evropiane për të Drejtat e Njeriut është vërtetuar se me vendim përfundimtar janë shkelur të drejtat e njeriut në dëm të të pandehurit, afati për paraqitjen e kërkesës për mbrojtjen e ligjshmërisë rrjedh nga dita kur vendimi i Gjykatës Evropiane për të Drejtat e Njeriut i dorëzohet të pandehurit.
+4. Pavarësisht nga dispozitat e nenit 432, paragrafi 2. i këtij Kodi, kërkesë për mbrojtje të ligjshmërisë nga paragrafi 3. i këtij neni mund të paraqitet edhe kundër vendimit të Gjykatës Supreme të Kosovës.

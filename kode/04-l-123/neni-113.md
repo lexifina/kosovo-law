@@ -1,0 +1,7 @@
+# Neni 113
+Sendet që nuk mund të sekuestrohen përkohësisht
+1. Këto sende nuk mund të sekuestrohen përkohësisht:
+1.1. komunikimet me shkrim ndërmjet të pandehurit dhe personave të cilët sipas këtij Kodi nuk mund të dëshmojnë nga neni 126 i këtij Kodi, ose janë të liruar nga detyrimi për të dëshmuar dhe kanë refuzuar të bëjnë një gjë të tillë në pajtim me nenin 127 të këtij Kodi;
+1.2. shënimet nga personat e paraparë në nenin 126 të këtij Kodi lidhur me informacionin e fshehtë që u është besuar atyre nga i pandehuri; dhe
+1.3. sende të tjera, të mbrojtura me të drejtat e personave nga nenet 126 dhe 127 të këtij Kodi.
+2. Këto kufizime zbatohen vetëm nëse sendet e tilla janë nën mbikëqyrjen e personit që nuk mund të dëshmojë sipas nenit 126 të këtij Kodi ose që lirohet nga detyrimi për të dëshmuar dhe ka refuzuar dhënien e dëshmisë sipas nenit 127 të këtij Kodi. Sendet e mbrojtura nga e drejta e personave të paraparë në nenin 127, paragrafi 1., nën-paragrafi 1.5. i këtij Kodi gjithashtu nuk i nënshtrohen sekuestrimit nëse ato janë nën mbikëqyrjen e ndonjë spitali ose ndonjë instituti tjetër mjekësor. Kufizimet nuk zbatohen kur personat që nuk mund të dëshmojnë sipas nenit 126 të këtij Kodi ose që janë liruar nga detyrimi i dëshmimit dhe kanë refuzuar dhënien e dëshmisë sipas nenit 127 të këtij Kodi, dyshohen për nxitje apo bashkëpunim, për pengim të drejtësisë, për pranimin e mallrave të vjedhura ose kur sendet përkatëse janë marrë me vepër penale, janë përdorur ose janë paraparë të përdoren për kryerjen e veprës penale apo janë rezultat i veprës penale.

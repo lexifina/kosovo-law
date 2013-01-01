@@ -1,0 +1,6 @@
+# Article 275
+Evidence required to forefeit material benefits acquired by criminal offence
+1. Before the court can order a final order of criminal forfeiture for a building, immovable property, movable property or asset listed in the indictment, the indictment shall allege and the state prosecutor shall prove at the main trial that the building, immovable property, movable property or asset was a material benefit of the criminal offence being investigated, in accordance with Articles 276-280 of the present Code.
+2. The state prosecutor, injured party or defendant may question witnesses and submit evidence at the main trial to support or contest the proof required under paragraph 1 of this Article.
+3. A qualified financial expert may express an opinion whether the building, immovable property, movable property or asset listed in the indictment was proceed of the criminal offence being investigated in a report under Article 148 of the present Code and during testimony at the main trial.
+4. If the injured party has filed a property claim to recover the property acquired through the commission of a criminal offence or to receive the monetary equivalent thereof, that property claim may support the proof required under paragraph 1 of this Article, but may not serve as the sole or decisive proof under paragraph 1 of this Article.

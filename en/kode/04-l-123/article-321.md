@@ -1,0 +1,3 @@
+# Article 321
+Attendance of persons summoned at the main trial and establishment of defendant’s identity
+After the single trial judge or presiding trial judge has established that all persons summoned have appeared at the main trial or the single trial judge or trial panel has decided to conduct the main trial in the absence of some of the persons summoned or to postpone a decision on these issues, the single trial judge or presiding trial judge shall call on the accused and ask him or her to give his or her personal data, except data about prior convictions, in order to determine his or her identity.

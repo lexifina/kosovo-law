@@ -1,0 +1,5 @@
+# Neni 448
+Aktvendimi për kthim në gjendje të mëparshme
+1. Kryetari i trupit gjykues, i cili ka marrë aktgjykimin ose aktvendim kundër të cilit është ushtruar ankesë, merr aktvendim për kthim në gjendje të mëparshme.
+2. Kundër aktvendimit me të cilin lejohet kthimi në gjendje të mëparshme nuk lejohet ankesë.
+3. Kur i pandehuri paraqet ankesë kundër aktvendimit me të cilin refuzohet kthimi në gjendje të mëparshme, gjykata detyrohet që këtë ankesë ose ankesën kundër aktgjykimit apo aktvendimit për konfiskimin e dobisë pasurore, përgjigjen në ankesë dhe të gjitha procesverbalet t’ia dërgojë gjykatës më të lartë për marrjen e vendimit.

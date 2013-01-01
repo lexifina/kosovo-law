@@ -1,0 +1,10 @@
+# Article 149
+Special Investigative Opportunity
+1. The state prosecutor, victim, victim advocate, defendant or defence attorney may, on an exceptional basis, request the pretrial judge to take testimony from a witness or request an expert analysis for the purpose of preserving evidence where there is a unique opportunity to collect important evidence or there is a significant danger that such evidence may not be subsequently available at the main trial.
+2. The pretrial judge shall grant the request in paragraph 1 of this Article only where the criminal proceedings are investigating criminal offenses which are provided for in Article 90 of this Code.
+3. The pretrial judge shall impanel two (2) other judges for the Special Investigative Opportunity Panel.
+4. If an indictment is filed in the criminal proceeding, at least one of the two judges impaneled under Paragraph 3 of this Article shall be assigned as the presiding trial judge or assigned to the trial panel.
+5. An appeal can be filed with the review panel against the refusal of the pre-trial judge to take such testimony.
+6. In a Special Investigative Opportunity under the present Article, the pre-trial judge shall take such measures as may be necessary to ensure the efficiency and integrity of the proceedings and, in particular, to protect the rights of the defendant. The defendant and his or her defense counsel and the state prosecutor shall be present at the hearing for the taking of testimony. The victim and victim advocate shall also be informed of the hearing and will have the right to attend. The taking of testimony before the pre-trial judge shall be conducted in a manner in keeping with testimony taken at the main trial.
+7. Any testimony taken in a Special Investigative Opportunity Panel shall be audio- or audio-video recorded, with the recording filed in the case file.
+8. The testimony may be taken through video-conference technology if the witness is not within Kosovo and is not likely to return to Kosovo, or in accordance with a measure of witness protection.

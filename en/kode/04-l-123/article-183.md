@@ -1,0 +1,14 @@
+# Article 183
+House Detention
+1. The court may order that the defendant be placed under house detention, if:
+1.1. there is a grounded suspicion that the defendant has committed a criminal offence; and
+1.2. the circumstances under Article 187 paragraph 1 subparagraph 1.2 of the present Code obtain.
+2. The court shall decide on a measure under the present Article in a ruling supported by reasoning. The ruling must contain the justification for determining that the conditions under paragraph 1 of the present Article are met and that there is a need for this measure.
+3. The court shall determine in the ruling that the defendant may not move from the premises in which he or she permanently or currently resides or from a public treatment or care institution. The court may restrict or prohibit contacts between the defendant and persons with whom he or she does not live or persons who are not dependent on the defendant. Exceptionally, the court may allow the defendant to move for a specific time away from the premises where house detention is being implemented whenever this is unavoidably necessary to ensure essential living needs or to perform work.
+4. The ruling shall be served on the defendant and a copy shall be sent to the relevant police station on the territory where the measure is to be implemented.
+5. The court may order detention on remand, if the defendant violates the ruling. The defendant must always be informed of the consequences of non-compliance in advance.
+6. The court shall supervise the implementation of the measure of house detention, either directly or through the police. The police shall have the right to verify the implementation of the measure of house detention at any time, and shall randomly verify the presence of the defendant at the location of the house detention. The police shall inform the court without delay of any possible violations of the measure.
+7. Unless otherwise provided for by the present Article, the provisions of the present Code on detention on remand shall apply mutatis mutandis to the ordering, duration, extension and termination of the measure under the present Article. Provisions of the Criminal Code on the inclusion of detention in the punishment imposed shall also apply mutatis mutandis to the measure under the present Article.
+8. The single trial judge or presiding trial judge shall in all cases decide on the extension of house detention after the filing of the indictment based on a motion of the state prosecutor which is supported by reasoning. The defendant as well as his or her defense counsel, where the defendant has such, must be informed of the motion within three days of the expiry of the current ruling on house detention.
+9. The travel document of a person subject to house detention may be temporarily confiscated. An appeal against the ruling to confiscate temporarily a person’s travel document shall not stay execution.
+I. Diversion

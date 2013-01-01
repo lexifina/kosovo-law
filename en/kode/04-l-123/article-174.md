@@ -1,0 +1,8 @@
+# Article 174
+Summons
+1. The presence of the defendant in the proceedings shall be ensured by serving a summons. A summons shall be sent to the defendant by the court in accordance with Chapter XXVII of this Code.
+2. A summons shall be sent to the defendant in the form of a sealed letter containing: the name and address of the court sending the summons; the name and surname of the defendant; the designation of the criminal offence with which he or she is charged; the place, day and hour at which he or she is to appear; an indication that he or she is being summoned as the defendant; a warning that an order for arrest will be issued and he or she will be compelled to appear if he or she fails to appear; and the official stamp and name of the judge who issues the summons.
+3. When summoned for the first time, the defendant shall be advised in the summons of his or her right to engage a defense counsel and of the right of the defense counsel to attend his or her examination.
+4. The defendant shall immediately notify the court of any change in address or the intention to change the place of current residence. The defendant shall be informed of this obligation on the occasion of the first examination or the serving of an indictment and at the same time he or she shall be warned of the consequences of non-compliance as provided for by the present Code.
+5. If by reason of an illness or some other insurmountable obstacle the defendant is unable to comply with the summons, he or she shall be examined at the place where he or she is found or shall be transported to the court building or another place where the proceedings are taking place or the examination shall be postponed.
+C. Order for Arrest

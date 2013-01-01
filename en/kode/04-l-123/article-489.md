@@ -1,0 +1,4 @@
+# Article 489
+Hesitation in enforcement of decision and its corrections
+1. If a doubt arises as to whether the execution of a court decision is permissible or as to the calculation of a punishment, or if a final judgment fails to make a decision to credit pretrial detention or earlier served punishment, or the calculation has not been done correctly, a decision shall be made on those points in a separate ruling which shall be rendered by the presiding judge of the panel of the court which tried the case in the first instance. An appeal shall not stay execution of the ruling unless the court specifies otherwise.
+2. If doubt arises as to the interpretation of a court decision, the court that rendered the final decision shall decide on it.

@@ -1,0 +1,4 @@
+# Article 528
+Compensation after Death of Claimant
+1. Heirs shall inherit the right of the injured party to recover compensation only for material damage. If the injured party has already filed the petition, the heirs may continue proceedings only within the limits of the petition already submitted for compensation for material damage.
+2. After the death of the injured party, his or her heirs may continue proceedings for compensation for damages, or may initiate proceedings if the injured party had died before the expiry of the period of statutory limitation without waiving the right to file a petition.

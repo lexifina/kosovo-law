@@ -1,0 +1,4 @@
+# Neni 500
+Arsyet për ankesë kundër aktgjykimit mbi vërejtjen gjyqësore
+1. Kundër aktgjykimit për vërejtjen gjyqësore mund të paraqitet ankesë sipas arsyeve të parapara në nenin 383, paragrafi 1. nën-paragrafët 1.1., 1.2. dhe 1. 3. të këtij Kodi, si dhe për shkak të mosekzistimit të rrethanave që e arsyetojnë shqiptimin e vërejtjes gjyqësore.
+2. Kur aktgjykimi për vërejtjen gjyqësore përmban vendimin mbi masën për trajtim të detyrueshëm për rehabilitim, konfiskimin e dobisë pasurore të fituar me vepër penale, shpenzimet e procedurës penale ose kërkesën pasurore juridike, ndaj aktgjykimit të tillë mund të ushtrohet ankesë për shkak se gjykata nuk e ka zbatuar drejt masën e trajtimit të detyrueshëm për rehabilitim ose të konfiskimit të dobisë pasurore të fituar me vepër penale apo për arsye se vendimin për shpenzimet e procedurës penale ose për kërkesën pasurore juridike e ka marrë në kundërshtim me dispozitat ligjore.

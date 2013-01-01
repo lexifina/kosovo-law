@@ -1,0 +1,11 @@
+# Article 509
+Detention on remand of persons with a mental disorder
+1. Apart from cases in Article 187 of the present Code where detention on remand may be ordered, the court may order detention on remand against a person if:
+1.1. there is a grounded suspicion that such person has committed a criminal offence;
+1.2. according to a psychiatric examination ordered under Article 508 of the present Code, the person was in a state of mental incompetence or diminished mental capacity at the time of the commission of the criminal offence; and
+1.3. the person currently has a mental disorder and as a result, there are grounds to believe that he or she will endanger the life or health of another person.
+2. Detention on remand pursuant to paragraph 1 of the present Article may be ordered only if the state prosecutor has submitted a motion referred to in Article 512 of the present Code. Such detention on remand shall be served in a heath care institution and may last for as long as the defendant is dangerous but shall not exceed the prescribed periods of time for detention on remand set forth in Article 190 of the present Code.
+3. If the defendant is already in detention on remand and is subsequently determined to have been in a state of mental incompetence at the time of the commission of the criminal offence, the court shall order the defendant to serve the detention on remand in a health care institution if he or she currently has a mental disorder.
+4. The court shall render a ruling pursuant to paragraph 1 or 3 of the present Article only after hearing the state prosecutor, the defence counsel and the defendant, if his or her condition permits, and after reviewing the opinion of an expert. Such ruling shall be served on the state prosecutor, defendant and his or her defence counsel, the health care institution and the detention facility. The appeal shall not stay the execution of the order.
+5. The health care institution shall decide upon measures to ensure public safety and security and the security and safety of the defendant after consultation with the competent detaining authority, taking into account both security and therapeutic needs.
+6. Provisions under the present Code on detention on remand shall apply mutatis mutandis to detention on remand served in a health care institution.

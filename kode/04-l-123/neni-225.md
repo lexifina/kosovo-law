@@ -1,0 +1,5 @@
+# Neni 225
+Forma e urdhrit për anonimitet
+1. Urdhri për anonimitet duhet bërë me shkrim dhe nuk përmban ndonjë informacion që mund të çojë në zbulimin e identitetit të të dëmtuarit, dëshmitarit bashkëpunues, dëshmitarit apo anëtarit të familjes së tij, ose që do të mund të zbulonte ekzistimin ose do të ekspozonte ndaj një rreziku serioz sigurinë operacionale të hetimit të fshehtë të policisë.
+2. Të dhënat nga procesverbali i seancës së mbyllur hiqen nga procesverbali, mbyllen dhe ruhen si fshehtësi zyrtare menjëherë pas identifikimit dhe para marrjes në pyetje të të dëmtuarit, dëshmitarit bashkëpunues ose dëshmitarit.
+3. Të dhënat e kufizuara mund të inspektohen dhe të përdoren nga prokurori i shtetit dhe gjyqtari kompetent vetëm në procedurën e ankimit kundër urdhrit të shqiptuar nga neni 223 ose 224 të këtij Kodi. Ankesa kundër urdhrit për anonimitet dhe përdorimi i metodave për të parandaluar zbulimin e identitetit ndaj publikut, të dëmtuarit, dëshmitarëve, mbrojtësit dhe të pandehurit mund t’i paraqitet kolegjit shqyrtues kur urdhri është dhënë nga gjyqtari i procedurës paraprake. Në të kundërtën, mund të ushtrohet ankesë vetëm kundër aktgjykimit.

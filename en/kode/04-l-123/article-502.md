@@ -1,0 +1,5 @@
+# Article 502
+Effect of Appeal
+1. Where a judgment on judicial admonition is appealed by the state prosecutor to the detriment of the accused, the court of appeals may render a judgment by which the accused is found guilty and is punished or by which an alternative punishment is imposed on him or her, if it finds that the basic court has determined the material facts correctly but that correct application of the law requires that a punishment be imposed.
+2. On the occasion of any appeal against a judgment on judicial admonition, the court of appeals may render a judgment dismissing the indictment, or acquitting the accused of the charge, if it finds that the basic court has determined the material facts correctly but that correct application of the law warrants the rendering of one of the aforesaid judgments.
+3. When grounds specified in Article 401 of the present Code exist, the court of appeals shall render a judgment by which it rejects the appeal as unfounded and affirms the judgment on judicial admonition rendered by the basic court.

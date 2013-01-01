@@ -1,0 +1,4 @@
+# Article 344
+Reading of records or replay of recordings
+1. The record of a site inspection conducted outside the main trial, of a search of premises and a person and of the confiscation of objects, documents, books, files and other papers as well as technical recordings of evidentiary value shall be read or reproduced at the main trial in order to establish their contents. The trial panel shall have the discretion to allow an oral summary of these records, as well as the reproduction of the sound or camera recordings of the course of these investigative actions. Documents of evidentiary value shall, if possible, be submitted in their original form.
+2. Objects which may serve to clarify an issue may in the course of the main trial be shown to the accused and, if need be, to a witness or an expert witness.

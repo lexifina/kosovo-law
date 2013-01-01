@@ -1,0 +1,3 @@
+# Neni 437
+Refuzimi i kërkesës për mbrojtje të ligjshmërisë
+Gjykata Supreme e Kosovës me aktgjykim refuzon si të pabazë kërkesën për mbrojtjen e ligjshmërisë kur vërteton se nuk ekziston shkelje e ligjit për të cilën pretendon paraqitësi i kërkesës, ose kur kërkesa është paraqitur për shkak të vërtetimit të gabuar ose jo të plotë të gjendjes faktike nga nenet 386 dhe 432, paragrafi 2. i këtij Kodi.

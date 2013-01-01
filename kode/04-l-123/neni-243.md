@@ -1,0 +1,6 @@
+# Neni 243
+Shkresat që plotësojnë aktakuzën
+1. Në të njëjtën kohë me paraqitjen e aktakuzës, prokurori i shtetit paraqet edhe dokumentet e mëposhtme kur është e nevojshme:
+1.1. prokurori i shtetit paraqet mbështetjen e pohimit nga neni 263 të këtij Kodi së bashku me deklaratat e marra nga neni 132 të këtij Kodi apo provat e siguruara nga neni 219, paragrafi 6. të këtij Kodi të cilat synon ti paraqesë si prova të drejtpërdrejta pa praninë e dëshmitarëve. Mbështetja e pohimit përshkruan provat e pavarura që vërtetojnë deklaratat të cilat prokurori i shtetit synon t’i paraqesë si prova të drejtpërdrejta. Kjo mbështetje e pohimit mund të plotësohet ose të paraqitet në një kohë më të vonshme nëse dëshmitari për të cilin zbatohet kjo dispozitë nuk është më në dispozicion për të dëshmuar në shqyrtim gjyqësor.
+1.2. prokurori i shtetit paraqet kërkesë për të vazhduar apo për të zbatuar ndonjë nga masat për sigurimin e pranisë së të pandehurit. Nenet 173 deri 193 të këtij Kodi zbatohen përshtatshmërisht për çfarëdo kërkese nga ky paragraf.
+2. Prokurori i shtetit mund të paraqesë mbështetje të pohimit apo kërkesa nga ky nen edhe më pas nëse nuk ka mundur ta dijë bazën për paraqitjen e njoftimit apo kërkesës në kohën kur është ngritur aktakuza.

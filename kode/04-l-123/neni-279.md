@@ -1,0 +1,7 @@
+# Neni 279
+Të drejtat e palës së tretë që posedon dobinë pasurore nga vepra penale
+1. Kur shqyrtohet konfiskimi i dobisë pasurore të fituar me vepër penale, personi të cilit i është kaluar dobia pasurore si dhe përfaqësuesi i organizatës afariste ose personi juridik thirren për t’u marrë në pyetje gjatë hetimit dhe në shqyrtim gjyqësor. Në thirrje paralajmërohet se procedura mund të zbatohet edhe pa praninë e tij.
+2. Përfaqësuesi i organizatës afariste ose personi juridik në shqyrtim gjyqësor merret në pyetje pas të akuzuarit. Në mënyrë të njëjtë veprohet edhe me personin të cilit i është kaluar dobia pasurore e fituar me vepër penale, nëse ai nuk është thirrur si dëshmitar.
+3. Personi të cilit i është kaluar dobia pasurore dhe përfaqësuesi i organizatës afariste ose personi tjetër juridik kanë të drejtë të propozojnë marrjen e provave për përcaktimin e dobisë pasurore, dhe me lejen e gjyqtarit të vetëm gjykues ose kryetarit të trupit gjykues t’u bëjnë pyetje të pandehurit, dëshmitarëve dhe ekspertëve.
+4. Përjashtimi i publikut nga shqyrtimi gjyqësor nuk vlen për personin në të cilin ka kaluar dobia pasurore, përfshirë përfaqësuesin e ndërmarrjes afariste apo personin tjetër juridik.
+5. Kur gjykata vetëm në shqyrtim gjyqësor mëson se është ngritur çështja e konfiskimit të dobisë pasurore të fituar me kryerjen e veprës penale, e ndërpret shqyrtimin gjyqësor dhe e thërret personin në të cilin ka kaluar dobia pasurore e fituar me vepër penale ose përfaqësuesin e organizatës afariste apo personin tjetër juridik.

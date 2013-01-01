@@ -1,0 +1,6 @@
+# Neni 246
+Pranimi i fajësisë
+1. Në fillim të shqyrtimit fillestar, gjyqtari i vetëm gjykues ose kryetari i trupi gjykues e udhëzon të pandehurin për të drejtën e tij për të mos u deklaruar në çështjen e tij ose të mos përgjigjet në pyetje dhe nëse ai deklaron për çështjen, se nuk ka për detyrë të inkriminojë vetveten ose të afërmin, as të pranojë fajësinë; të mbrohet vetë ose nëpërmjet ndihmës juridike nga mbrojtësi sipas zgjedhjes së tij; të kundërshtojë aktakuzën dhe pranueshmërinë e provave të paraqitura në aktakuzë.
+2. Gjyqtari i vetëm gjykues ose kryetari i trupi gjykues pastaj çmon nëse e drejta e të pandehurit në mbrojtës është respektuar dhe nëse prokurori i shtetit ka përmbushur detyrimet që kanë të bëjnë me zbulimin e provave nga neni 244 i këtij Kodi.
+3. Pastaj prokurori i shtetit ia lexon aktakuzën të pandehurit.
+4. Pasi që gjyqtari i vetëm gjykues ose kryetari i trupi gjykues bindet se i pandehuri e kupton aktakuzën, të pandehurit i ofron mundësinë të pranojë fajësinë ose të deklarohet i pafajshëm. Nëse i pandehuri nuk e ka kuptuar aktakuzën, gjyqtari i vetëm gjykues ose kryetari i trupi gjykues thërret prokurorin e shtetit që t’ia shpjegojë aktakuzën të pandehurit në mënyrë që ai ta kuptojë pa vështirësi. Nëse i pandehuri nuk dëshiron të bëjë ndonjë deklarim lidhur me fajësinë e tij, konsiderohet se ai nuk e pranon fajësinë.

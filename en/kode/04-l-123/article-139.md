@@ -1,0 +1,7 @@
+# Article 139
+Orders Necessary for Evidence to be Examined by Expert
+1. A post-mortem examination shall be done by a qualified medical examiner upon the order of the state prosecutor. An autopsy may not be entrusted to the physician who treated the deceased. The Ministry of Justice shall issue guidelines and standards for post-mortem examinations.
+2. Toxicological laboratory analysis of samples taken from a victim may be ordered by a state prosecutor.
+3. If a defendant is unwilling to consent in writing to give a sample of blood, body tissue, DNA or other similar material or is unwilling to consent in writing to undergo a physical examination of injuries as required by an investigation, the state prosecutor shall request an order from the pretrial judge requiring the necessary sample or examination in accordance with Article 144 of this Code.
+4. Samples taken pursuant to an order under Paragraph 3 of this Article may be subjected to molecular and genetic examination, insofar as such measures are necessary to establish ancestry or to ascertain whether traces found originate from the defendant or the injured party. Such molecular or genetic examination may be conducted only upon an order of the pretrial judge.
+5. If existing medical records are likely to contain information relevant to the criminal proceedings, the state prosecutor shall request an order from the pretrial judge for the records to be released to the state prosecutor.

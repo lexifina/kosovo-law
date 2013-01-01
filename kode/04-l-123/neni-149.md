@@ -1,0 +1,10 @@
+# Neni 149
+Mundësia hetuese e veçantë
+1. Përjashtimisht, prokurori i shtetit, viktima, mbrojtësi i viktimave, i pandehuri ose mbrojtësi i tij mund të kërkojë nga gjyqtari i procedurës paraprake të merr dëshmi nga dëshmitari ose të kërkojë ekspertizë me qëllim të ruajtjes së provës kur ekziston një mundësi e veçantë për marrjen e provës së rëndësishme ose kur ka rrezik të konsiderueshëm se kjo provë nuk do të mund të merrej gjatë shqyrtimit gjyqësor.
+2. Gjyqtari i procedurës paraprake miraton kërkesën nga paragrafi 1. i këtij neni vetëm kur procedura penale zbatohet për hetimin e veprave penale të përcaktuar në nenin 90 të këtij Kodi.
+3. Gjyqtari i procedurës paraprake cakton dy (2) gjyqtarë tjerë në Panelin për Mundësinë Hetuese të Veçantë.
+4. Nëse ngritet aktakuza në procedurë penale, së paku njëri prej dy gjyqtarëve nga paragrafi 3. të këtij neni caktohet si kryetar i trupit gjykues ose caktohet në trupin gjykues.
+5. Kolegjit shqyrtues mund t’i paraqitet ankesë kundër mospranimit të gjyqtarit të procedurës paraprake për marrjen e dëshmisë së tillë.
+6. Në rastet e Mundësisë Hetuese të Veçantë sipas këtij neni, gjyqtari i procedurës paraprake merr masat e nevojshme për të siguruar efikasitetin dhe tërësinë e procedurës, dhe në veçanti për të mbrojtur të drejtat e të pandehurit. I pandehuri, mbrojtësi i tij dhe prokurori i shtetit janë të pranishëm në seancën e dëgjimit për marrjen e dëshmisë. Viktima dhe mbrojtësi i viktimave njoftohen për seancën e dëgjimit dhe ata kanë të drejtë të jenë të pranishëm. Marrja e dëshmisë nga gjyqtari i procedurës paraprake zbatohet në pajtim me dispozitat që rregullojnë marrjen e dëshmive në shqyrtim gjyqësor.
+7. Çdo deklaratë e marrë në Panelin e Mundësisë Hetuese të Veçantë audio incizohet ose audio dhe video incizohet, dhe ky incizim i bashkëngjitet shkresave të lëndës.
+8. Dëshmia mund të merret me anë të teknologjisë që mundëson video-konferencat nëse dëshmitari nuk gjendet në Kosovë dhe ka gjasë që mos të kthehet në Kosovë, apo në pajtim me masën për mbrojtjen e dëshmitarëve.

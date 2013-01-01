@@ -1,0 +1,7 @@
+# Neni 21
+Caktimi i lëndëve brenda gjykatave
+1. Procedura penale zhvillon dhe çështjen e gjykon në shkallë të parë në Departamentin e Përgjithshëm, Departamentin e Krimeve të Rënda apo ndonjë Divizion apo Departament të themeluar sipas nenit 8 të Ligjit për Gjykatat që ka juridiksion mbi veprat penale.
+2. Kur një fëmijë është i pandehur në një rast penal, ai rast do të ndahet nga çdo rast tjetër dhe do të shqyrtohet vetëm nga Departamenti për të Miturit në kuadër të Gjykatës Themelore, sipas Kodit të Drejtësisë për të Mitur, nr. 03/L-193 apo ligjit pasues.
+3. Departamenti i Përgjithshëm i Gjykatës Themelore zhvillon dhe çështjen e gjykon në të gjitha procedurat penale që nuk janë brenda juridiksionit të Departamentit për Krime të Rënda, Departamentit për të Miturit ose ndonjë Divizionit apo Departamentit të themeluar sipas nenit 8 të Ligjit për Gjykatat që ka juridiksion mbi veprat penale.
+4. Departamenti i Krimeve të Rënda i Gjykatës Themelore zhvillon dhe çështjen e gjykon në çfarëdo procedure penale ku prokurori i shtetit pretendon apo ka ngritur akuzë për një ose më shumë vepra të mundshme penale sipas nenit 15 të Ligjit për Gjykatat në përgjithësi, dhe veçanërisht ato vepra penale të cekura në nenin 22.
+5. Ndaj aktgjykimit të gjykatës themelore nuk mund të ushtrohet ankesë për arsye procedurale nëse ankuesi nuk e ka kundërshtuar në gjykatë themelore vendimin ligjor ose faktik mbi të cilin bazohet ankesa, përveç nëse ankuesi mund të demonstrojë rrethana të jashtëzakonshme që arsyetojnë një ankesë të tillë.

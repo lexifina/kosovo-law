@@ -1,0 +1,7 @@
+# Neni 387
+Ankesa kundër aktgjykimit lidhur me vendimin mbi sanksionin penal dhe vendimeve të tjera
+1. Ndaj aktgjykimit mund të ushtrohet ankesë lidhur me vendimin mbi shqiptimin e dënimit ose vërejtjes gjyqësore kur gjykata, duke pasur parasysh të gjitha rrethanat përkatëse, përkundër mostejkalimit të kompetencave ligjore nuk e ka caktuar drejt dënimin ose vërejtjen gjyqësore.
+2. Ndaj aktgjykimit gjithashtu mund të ushtrohet ankesë kur gjykata ka zbatuar ose nuk ka zbatuar dispozitat për zbutjen ose lirimin nga dënimi apo të vërejtjes gjyqësore.
+3. Vendimi për masën e trajtimit të detyrueshëm rehabilitues të personave të varur nga droga ose alkooli ose për konfiskimin e dobisë pasurore të fituar me vepër penale mund të kundërshtohet kur gjykata, përkundër faktit se nuk ka bërë shkelje të nenit 385, nën-paragrafi 1.5. i këtij Kodi, ka marrë vendim jo të drejtë ose nuk e ka shqiptuar masën e trajtimit të detyrueshëm me rehabilitim për personat e varur nga droga ose alkooli ose masën për konfiskimin e dobisë pasurore të fituar me vepër penale, përkundër ekzistimit të bazës ligjore për këtë.
+4. Ndaj vendimit mbi shpenzimet e procedurës penale mund të ushtrohet ankesë kur gjykata për shpenzimet e tilla ka vendosur në mënyrë jo të drejtë ose në kundërshtim me dispozitat e këtij Kodi.
+5. Ndaj vendimit mbi kërkesën pasurore juridike ose vendimit mbi publikimin e aktgjykimit mund të ushtrohet ankesë kur gjykata për çështjet e tilla ka marrë vendim në kundërshtim me dispozitat ligjore.

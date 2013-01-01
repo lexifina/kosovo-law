@@ -1,0 +1,5 @@
+# Neni 343
+Provat e marra jashtë gjykatës
+1. Kur në shqyrtim gjyqësor mësohet se dëshmitari ose eksperti i thirrur nuk mund të vijë në gjykatë ose kur paraqitja e tij do të shkaktonte vështirësi të konsiderueshme, gjyqtari i vetëm gjykues ose trupi gjykues, kur çmon se deklarimi i tij është i rëndësishëm, urdhëron që ta merr në pyetje gjyqtari i vetëm gjykues, kryetari i trupit gjykues ose gjyqtari anëtar i trupit gjykues jashtë shqyrtimit gjyqësor, ose marrja në pyetje të bëhet nga gjyqtari i procedurës paraprake brenda kompetencës territoriale ku banon dëshmitari apo eksperti.
+2. Kur është e nevojshme të zbatohet këqyrja ose rikonstruksioni jashtë shqyrtimit gjyqësor, këtë e bën gjyqtari i vetëm gjykues, kryetari i trupit gjykues ose gjyqtari anëtarë i trupit gjykues.
+3. Palët dhe i dëmtuari gjithmonë njoftohen kur dhe në cilin vend do të merret në pyetje dëshmitari apo do të zbatohet këqyrja ose rikonstruksioni dhe njoftohen se kanë të drejtë të jenë të pranishëm në këto veprime. Kur palët dhe i dëmtuari janë të pranishëm gjatë kryerjes së këtyre veprimeve, ata gëzojnë të drejtat e parapara në nenin 149, paragrafi 2. i këtij Kodi.

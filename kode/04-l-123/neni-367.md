@@ -1,0 +1,18 @@
+# Neni 367
+Paraburgimi pas shpalljes së aktgjykimit
+1. Me rastin e marrjes së aktgjykimit me të cilin i akuzuari dënohet me burgim, gjyqtari i vetëm gjykues ose trupi gjykues:
+1.1. cakton, vazhdon paraburgim kur ekzistojnë kushtet nga neni 187paragrafi 1. i këtij Kodi; ose
+1.2. ndërprenë paraburgimin nëse i akuzuari ndodhet në paraburgim kur pushojnë së ekzistuari shkaqet për të cilat është paraburgosur.
+2. Nëse gjyqtari i vetëm gjykues ose trupi gjykues shqipton dënim prej pesë (5) ose më shumë vjet burg të akuzuarit ia cakton paraburgimin, nëse ai nuk gjendet në paraburgim, ose ia vazhdon atë kur i akuzuari gjendet në paraburgim.
+3. Nëse dënimi i shqiptuar është më i ulët së pesë (5) vjet, atëherë paraburgimi caktohet ose vazhdohet nëse janë plotësuar kushtet e përcaktuara me nenin 187 par. 1. i këtij Kodi.
+4. Trupi gjykues gjithmonë ndërpren paraburgimin dhe urdhëron lirimin e të akuzuarit nëse:
+4.1. është liruar nga akuza;
+4.2. është deklaruar fajtor, por është liruar nga dënimi;
+4.3. është dënuar vetëm më gjobë ose i është shqiptuar vërejtja gjyqësore;
+4.4. i është shqiptuar një nga dënimet alternative, përveç dënimit me gjysmëliri nga neni 61 i Kodit Penal;
+4.5. për shkak të llogaritjes së paraburgimit në lartësinë e dënimit, ai veç e ka mbajtur dënimin; ose
+4.6. akuza është refuzuar, përveç në rastin kur është refuzuar për shkak të moskompetencës së gjykatës.
+5. Para caktimit ose heqjes së paraburgimit nga paragrafi 3. ose 4. i këtij neni, gjyqtari i vetëm gjykues ose trupi gjykues së pari dëgjon mendimin e prokurorit të shtetit, nëse procedura është filluar me kërkesën e tij, dhe pastaj dëgjon të akuzuarin apo mbrojtësin e tij.
+6. Kur i akuzuari gjendet në paraburgim dhe gjyqtari i vetëm gjykues ose trupi gjykues çmon se ende ekzistojnë shkaqet për të cilat ishte caktuar paraburgimi, paraburgimin e vazhdon me aktvendim të posaçëm. Gjithashtu, me aktvendim të posaçëm e cakton ose e heq paraburgimin. Ankesa kundër aktvendimit nuk e pezullon ekzekutimin e aktvendimit.
+7. Paraburgimi i caktuar ose i vazhduar sipas dispozitave të paragrafëve 3. deri 6. të këtij neni mund të zgjasë derisa aktgjykimi të merr formë të prerë, por jo më shumë se koha e dënimit të shqiptuar në aktgjykimin e gjykatës themelore.
+8. I akuzuari i dënuar me burgim, i cili gjendet në paraburgim, me kërkesën e tij mund të transferohet me aktvendim të gjyqtarit të vetëm gjykues ose të kryetarit të trupit gjykues në institucionin për mbajtjen e dënimit para se aktgjykimi të merr formë të prerë.

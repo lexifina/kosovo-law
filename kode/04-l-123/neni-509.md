@@ -1,0 +1,11 @@
+# Neni 509
+Paraburgimi për personat me çrregullime mendor
+1. Përveç rasteve nga neni 187 i këtij Kodi ku mund të urdhërohet paraburgimi, gjykata mund të urdhërojë paraburgim ndaj personit nëse:
+1.1. ekziston dyshim i bazuar se personi i tillë ka kryer vepër penale;
+1.2. në bazë të ekzaminimit psikiatrik të urdhëruar sipas nenit 508 të këtij Kodi, personi ka qenë në gjendje të paaftësisë mendore ose në gjendje të aftësisë së zvogëluar mendore në kohën e kryerjes së veprës penale; dhe
+1.3. personi aktualisht vuan nga çrregullimi mendor, dhe si rezultat i kësaj, ka arsye për të besuar se ai do të rrezikojë jetën apo shëndetin e ndonjë personi tjetër.
+2. Paraburgimi në pajtim me paragrafin 1. të këtij neni mund të urdhërohet vetëm nëse prokurori i shtetit ka paraqitur propozimin e paraparë në nenin 512 të këtij Kodi. Paraburgimi i tillë mbahet në institucionin e kujdesit shëndetësor dhe mund të zgjasë për aq kohë sa i pandehuri është i rrezikshëm, por që nuk kalon afatet e parapara për paraburgim në nenin 190 të këtij Kodi.
+3. Nëse i pandehuri ndodhet në paraburgim dhe më pas konstatohet se ka qenë në gjendje të paaftësisë mendore në kohën e kryerjes së veprës penale, gjykata urdhëron që i pandehuri të mbajë paraburgimin në institucionin e kujdesit shëndetësor nëse ai aktualisht ndodhet në gjendje të çrregullimit mendor.
+4. Gjykata merr aktvendim në pajtim me paragrafin 1. ose 3. të këtij neni vetëm pas dëgjimit të prokurorit të shtetit, mbrojtësit dhe të pandehurit, nëse gjendja e tij këtë e lejon, dhe pasi të ketë shqyrtuar mendimin e ekspertit. Aktvendimi i tillë i dërgohet prokurorit të shtetit, të pandehurit dhe mbrojtësit të tij, institucionit mjekësor dhe qendrës së paraburgimit. Ankesa nuk e pezullon ekzekutimin e urdhrit
+5. Institucioni i kujdesit shëndetësor vendos për masat për të siguruar sigurinë publike dhe sigurinë e të pandehurit pas konsultimeve me organin kompetent të paraburgimit, duke marrë parasysh nevojat për siguri dhe nevojat terapeutike.
+6. Dispozitat e këtij Kodi mbi paraburgimin zbatohen përshtatshmërisht për paraburgimin e mbajtur në institucionin e kujdesit shëndetësor

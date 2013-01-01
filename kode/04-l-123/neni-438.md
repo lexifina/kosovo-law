@@ -1,0 +1,8 @@
+# Neni 438
+Aktgjykimi mbi kërkesën për mbrojtjen e ligjshmërisë
+1. Kur Gjykata Supreme e Kosovës vërteton se kërkesa për mbrojtjen e ligjshmërisë është e bazuar, merr aktgjykim me të cilin, duke pasur parasysh llojin e shkeljes:
+1.1. ndryshon vendimin e formës së prerë;
+1.2. në tërësi ose pjesërisht anulon vendimin e gjykatës themelore dhe të gjykatës më të lartë ose vetëm vendimin e gjykatës më lartë dhe lëndën për vendim të ri ose për rigjykim ia kthen gjykatës themelore ose gjykatës më të lartë; ose
+1.3. kufizohet vetëm në vërtetimin e shkeljes së ligjit.
+2. Kur Gjykata Supreme e Kosovës çmon se kërkesa e paraqitur për mbrojtjen e ligjshmërisë në dëm të të pandehurit është e bazuar, vetëm konstaton shkeljen e ligjit pa ndikuar në vendimin e formës së prerë.
+3. Kur Gjykata e Apelit sipas këtij Kodi nuk ka pasur të drejtë ta mënjanojë shkeljen e ligjit e cila është bërë me vendim të shkallës së parë ose në procedurë gjyqësore që i ka paraprirë atij vendimi dhe Gjykata Supreme e Kosovës vërteton se kërkesa e paraqitur në dobi të të akuzuarit është e bazuar dhe se për mënjanimin e asaj shkelje duhet anuluar ose ndryshuar vendimin e shkallës së parë, Gjykata Supreme e Kosovës e anulon ose e ndryshon edhe vendimin e Gjykatës së Apelit, edhe pse me të nuk është shkelur ligji.

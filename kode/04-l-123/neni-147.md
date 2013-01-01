@@ -1,0 +1,12 @@
+# Neni 147
+Analiza kompjuterike
+1. Çdo ekzaminim ose analizë nga ky nen i nënshtrohet rregullave të ekspertizës dhe deklaratës së ekspertit nga nenet 136-142 të këtij Kodi.
+2. Për pajisjet kompjuterike, pajisjet elektronike të ruajtjes apo pajisje të ngjashme që janë marrë në mënyrë të ligjshme nëpërmjet një urdhri të gjykatës ose me pëlqim, prokurori i shtetit mund të autorizojë zyrtarin e policisë apo ekspertin për të shqyrtuar, analizuar dhe kërkuar për informata ose të dhëna që gjenden brenda pajisjeve kompjuterike, pajisjeve elektronike për ruajtje ose pajisjeve të ngjashëm.
+3. Zyrtari i autorizuar i policisë ose eksperti tjetër duhet të ketë arsimim, trajnim ose përvojë në analizat dhe kërkimin kompjuterik.
+4. Zyrtari i autorizuar i policisë ose eksperti tjetër nxjerrë raport ekspertimi me gjetjet e tyre në pajtim me nenin 138 të këtij Kodi, që do të përfshijë të dhënat e mëposhtme:
+4.1. zyrtari i autorizuar i policisë ose eksperti tjetër përshkruan pajisjet kompjuterike, pajisjet për ruajtjen e të dhënave, ose dosjet e veçanta kompjuterike të ekzaminuara, përfshirë edhe ndonjë emër identifikimi, numra ose etiketa të provave.
+4.2. zyrtari i autorizuar i policisë ose eksperti tjetër përshkruan se ku dhe si janë marrë nga policia pajisjet kompjuterike, pajisjet për ruajtje të dhënave ose dosjet e veçanta kompjuterike.
+4.3. zyrtari i autorizuar i policisë ose eksperti tjetër përshkruan radhën e mbikëqyrjes së pajisjeve kompjuterike, pajisjeve për ruajtjen e të dhënave ose dosjeve të veçanta kompjuterike.
+4.4. zyrtari i autorizuar i policisë ose eksperti tjetër përshkruan informacionin specifik faktik për të cilin ka qenë i autorizuar për të kërkuar në pajisje kompjuterike, pajisje për ruajtje të të dhënave ose dosje të veçanta kompjuterike.
+4.5. zyrtari i autorizuar i policisë ose eksperti tjetër përshkruan hapat e ndërmarrë në përputhje me praktikat më aktuale në fushën e forenzikës kompjuterike për të realizuar kërkimin në mënyrë të saktë dhe të besueshme, përfshirë por pa u kufizuar në hapat e ndërmarrë për të mbrojtur kundër humbjes së dosjeve, deshifrimit të dosjeve, rikthimit të dosjeve të fshira apo marrjen e të dhënave nga dosjet kompjuterike ose emailat.
+4.6. zyrtari i autorizuar i policisë ose eksperti tjetër përshkruan rezultatet e kërkimit dhe i bashkëngjet kopjen elektronike të dosjeve kompjuterike që janë të rëndësishme për kërkimet.

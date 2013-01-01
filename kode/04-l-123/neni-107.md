@@ -1,0 +1,6 @@
+# Neni 107
+Procedura para fillimit të kontrollit dhe të drejtat e të pandehurit
+1. Para fillimit të kontrollit, zyrtari i autorizuar i policisë ia prezanton urdhrin personit të cilit i drejtohet ky urdhër dhe atë e njofton se ka të drejtë të kontaktojë me avokatin i cili ka të drejtë të jetë i pranishëm gjatë kontrollit.
+2. Kur personi kërkon praninë e avokatit gjatë kontrollit, zyrtarët e autorizuar të policisë shtyjnë kontrollin derisa të arrijë avokati, por jo më shumë se dy (2) orë nga njoftimi i avokatit për kontroll. Ndërkohë, zyrtarët e autorizuar të policisë mund të kufizojë lëvizjen e personit përkatës dhe personave të tjerë në lokalet që do të kontrollohen. Në raste të ngutshme, zyrtarët e autorizuar të policisë mund të fillojnë kontrollin edhe para mbarimit të afatit kohor për ardhjen e avokatit.
+3. Para fillimit të kontrollit, zyrtarët e autorizuar të policisë kërkojnë nga personi që vullnetarisht të dorëzojë personin ose sendet që kërkohen.
+4. Përjashtimisht, kontrolli mund të fillojë pa prezantimin e urdhrit ose pa kërkesë të mëparshme për dorëzim të personit apo të sendeve të kërkuara, kur pritet rezistencë e armatosur ose kur ka mundësi të dështojë efekti i kontrollit nëse ai nuk zbatohet menjëherë dhe pa paralajmërim ose kur kontrolli zbatohet në lokale publike.

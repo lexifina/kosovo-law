@@ -1,0 +1,13 @@
+# Neni 127
+Dëshmitarët e liruar nga detyrimi për të dëshmuar
+1. Nga detyra e dëshmimit janë të liruar:
+1.1. bashkëshorti ose bashkëshorti jashtëmartesor i të pandehurit, përveç kur procedura zbatohet për vepër penale për të cilën mund të shqiptohet dënimi me të paktën pesë (5) vjet burgim dhe ai është i dëmtuar me atë vepër penale;
+1.2. personi i gjinisë së gjakut në vijë të drejtë me të pandehurin, bashkëshorti ose bashkëshorti jashtëmartesor: paraardhësit, pasardhësit, motrat, vëllezërit, axhët, dajët, tezet, hallat, fëmijët e motrave dhe vëllezërve; ose të afërmit: vjehrra, vjehrri, dhëndrri, nusja, motra e burrit/gruas, vëllai i burrit/gruas, kumbari, kumbarja, njerka, njerku; përveç kur procedura zbatohet për vepër penale për të cilën mund të shqiptohet dënimi me të paktën dhjetë (10) vjet burgim apo nëse është dëshmitar i veprës penale kundër fëmijës i cili bashkëjeton apo është i afërm me të apo me të pandehurin;
+1.3. prindi adoptues ose fëmija i adoptuar i të pandehurit, përveç kur procedura zbatohet për vepër penale për të cilën mund të shqiptohet dënimi me të paktën dhjetë (10) vjet burgim, ose ai është dëshmitar i veprës penale kundër fëmijës që bashkëjeton ose është i afërt me të apo me të pandehurin;
+1.4. personi fetar për atë çka i pandehuri apo një person tjetër i është rrëfyer;
+1.5. mbrojtësi, mbrojtësi i viktimave, mjeku, punëtori social, psikologu ose ndonjë person tjetër për faktet që i kanë mësuar gjatë ushtrimit të veprimtarisë së tyre kur detyrohen ta ruajnë si fshehtësi atë që e kanë mësuar me rastin e ushtrimit të profesionit; dhe
+1.6. gazetari apo botuesi, i cili punon në media apo një ose më shumë nga bashkëpunëtorët e tij në pajtim me ligjin e zbatueshëm.
+2. Personi i cekur në paragrafin 1., nën-paragrafët 1.4., 1.5. ose 1.6. të këtij neni nuk mund të refuzojë dëshmimin kur ekziston bazë ligjore për ta liruar nga detyrimi i mbajtjes së fshehtësisë.
+3. Organi kompetent që zbaton procedurën detyrohet që personat e cekur në paragrafin 1. të këtij neni, para marrjes së tyre në pyetje ose sapo të mësojë për marrëdhënien e tyre me të pandehurin, t'i bëjë me dije për të drejtën e tyre për të mos dëshmuar. Paralajmërimi dhe përgjigjja shënohen në procesverbal.
+4. Fëmija i cili, duke pasur parasysh moshën dhe zhvillimin intelektual, nuk është i aftë të kuptojë domethënien e të drejtës për të refuzuar dëshmimin nuk mund të pyetet si dëshmitar, përveç kur gjykata çmon se ata janë të aftë për të kuptuar se i nënshtrohen detyrimit për të treguar të vërtetën.
+5. Personi i cili ka të drejtë të mohojë dëshmimin ndaj njërit nga të pandehurit, lirohet nga detyrimi i dëshmimit edhe ndaj të pandehurve të tjerë kur dëshmia e tij, duke marrë parasysh çështjen, nuk mund të kufizohet në të pandehurit tjerë.

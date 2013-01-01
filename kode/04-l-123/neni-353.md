@@ -1,0 +1,4 @@
+# Neni 353
+Fjala përfundimtare e prokurorit të shtetit
+1. Prokurori i shtetit në fjalën e tij përfundimtare paraqet vlerësimin e tij për provat e shqyrtuara në shqyrtim gjyqësor, shpjegon konkluzionet e tij mbi faktet e rëndësishme për marrjen e vendimit, paraqet dhe arsyeton propozimin e tij për përgjegjësinë penale të të akuzuarit, për dispozitat e Kodit Penal të cilat duhet zbatuar si dhe për rrethanat lehtësuese dhe rënduese që duhet të merren parasysh me rastin e caktimit të dënimit. Prokurori i shtetit nuk mund të propozojë lartësinë e dënimit, por mund të propozojë shqiptimin e vërejtjes gjyqësore ose ndonjë dënim alternativ nga neni 49 i Kodit Penal.
+2. Në rastet kur i akuzuari i cili është dëshmitar bashkëpunues pranon fajësinë në bazë të marrëveshjes mbi fajësinë, prokurori mund të rekomandojë gjykatës kufijtë e dënimit, qortimin gjyqësor ose njërën nga dënimet alternative të parashikuara me Kodin Penal të Kosovës.

@@ -1,0 +1,3 @@
+# Neni 289
+Gjyqtarët zëvendësues
+Nëse parashihet se shqyrtimi gjyqësor do të zgjasë, kryetari i trupit gjykues mund të kërkojë nga kryetari i gjykatës të caktojë një gjyqtar për të marrë pjesë në shqyrtim gjyqësor në mënyrë që të zëvendësojë anëtarët e trupit gjykues në rast se nuk mund të marrin pjesë në shqyrtim gjyqësor. Ky gjyqtar quhet gjyqtar zëvendësues. Nëse mundësia hetuese e veçantë është zbatuar gjatë procedurës penale, një nga dy (2) gjyqtarët që kanë shërbyer në atë kolegj, por që nuk kanë qenë gjyqtar në procedurë paraprake, shërben si anëtar i trupit gjykues ndërsa tjetri si gjyqtar zëvendësues.

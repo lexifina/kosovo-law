@@ -1,0 +1,5 @@
+# Article 225
+Form of Order for Anonymity
+1. An order for anonymity shall be in writing and shall not contain any information which could lead to the discovery of the identity of the injured party, cooperative witness, witness or his or her family member or which could reveal the existence of or expose to serious risk the operational security of ongoing and confidential police investigations.
+2. Information in the record of the closed session shall be removed from the record and sealed and stored as an official secret immediately after the identification and prior to examination of the injured party, competent witness or witness.
+3. The restricted data may be inspected and used by the state prosecutor and the competent judge only in an appeal against an order issued under Article 223 or 224 of the present Code. An appeal against an order for anonymity and the use of methods to prevent disclosure of identity to the public, injured parties, witnesses, defence counsel and the defendant may be made to a review panel, if the order has been issued by a pre-trial judge. Otherwise it may only be appealed in an appeal of the judgment.

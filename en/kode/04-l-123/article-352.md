@@ -1,0 +1,4 @@
+# Article 352
+Parties’ Closing Statements
+1. Upon completion of the evidentiary proceedings, the single trial judge or presiding trial judge shall call on the parties, the injured party and the defence counsel to sum up their arguments. The state prosecutor shall speak first, then the injured party and the defence counsel, and finally the accused.
+2. Persons presenting closing statements may refer to the admissible evidence, as well as the proceedings, the applicable law, the character and demeanour of the witnesses as observed in the judicial proceedings, and may use charts, diagrams, court-approved transcripts of tapes, summaries and comparisons of evidence, if they are based on admissible evidence, as well as enlargements of exhibits and any demonstrative or illustrative exhibit or demonstration made in court.

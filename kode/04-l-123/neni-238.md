@@ -1,0 +1,4 @@
+# Neni 238
+Revokimi i shpalljes si dëshmitar bashkëpunues
+1. Me kërkesë të prokurorit të shtetit, urdhri i paraparë në nenin 237 të këtij Kodi mund të revokohet nga kolegji shqyrtues kur dëshmia e dëshmitarit bashkëpunues vërtetohet si e rreme në ndonjë pjesë të rëndësishme të saj, ose kur dëshmitari bashkëpunues nuk tregon të vërtetën e plotë.
+2. Dëshmitari bashkëpunues paralajmërohet për pasojat e dhënies së dëshmisë së rreme në ndonjë pjesë të rëndësishme të saj ose kur qëllimisht nuk e tregon të vërtetën e plotë para se të merret në pyetje nga gjyqtari i procedurës paraprake sipas nenit 237, paragrafi 1. i këtij Kodi dhe para se të dëshmojë nën mbrojtjen e urdhrit. Çdo dëshmim i tillë duhet të jetë ose në formë të shkruar në gjuhën e dëshmitarit bashkëpunues dhe e nënshkruar nga ai për të vërtetuar saktësinë e saj, ose e incizuar në audio apo videotrakë e cila për gjykatën është autentike.

@@ -1,0 +1,14 @@
+# Article 88
+Intrusive Covert and Technical Measures of Surveillance and Investigation
+1. Covert photographic or video surveillance, covert monitoring of conversations in public places, metering of telephone calls or disclosure of financial data may be ordered against a particular person or place if:
+1.1. there is a grounded suspicion that a place is being used for, or such person has committed a criminal offence which is prosecuted ex officio or, in cases in which attempt is punishable, has attempted to commit a criminal offence which is prosecuted ex officio; and
+1.2. the information that could be obtained by the measure to be ordered would be likely to assist in the investigation of the criminal offence and would be unlikely to be obtained by any other investigative action without unreasonable difficulty or potential danger to others.
+2. Metering of telephone calls or disclosure of financial data may also be ordered against a person other than the suspect, where the criteria in paragraph 1 subparagraph 1.1 of the present Article apply to a suspect and the precondition in paragraph 1 subparagraph 1.2 of the present Article is met and if there is a grounded suspicion that:
+2.1. such person receives or transmits communications originating from or intended for the suspect or participates in financial transactions of the suspect; or
+2.2. the suspect uses such person’s telephone.
+3. Covert monitoring of conversations in private places, search of postal items, interception of telecommunications, interception of communications by a computer network, controlled delivery of postal items, the use of tracking or positioning devices, a simulated purchase of an item, a simulation of a corruption offence or an undercover investigation may be ordered against a particular person, place or item if:
+3.1 there is a grounded suspicion that a place or item is being used for, or such person has committed or, in cases in which attempt is punishable, has attempted to commit a criminal offence listed in Article 90 of this Code.
+3.2. the information that could be obtained by the measure to be ordered would be likely to assist in the investigation of the criminal offence and would be unlikely to be obtained by any other investigative action without unreasonable difficulty or potential danger to others.
+4. The search of postal items, the interception of telecommunications or the interception of communications by a computer network may also be ordered against a person other than the suspect, where the criteria in paragraph 3 subparagraph 3.1 of the present Article apply to a suspect and the precondition in paragraph 3 subparagraph 3.2 of the present Article is met and if there is a grounded suspicion that:
+4.1. such person receives or transmits communications originating from or intended for the suspect; or
+4.2. the suspect is using such person’s telephone or point of access to a computer system.

@@ -1,0 +1,6 @@
+# Article 484
+Service of documents through other participants in the procedure
+1. Summonses and decisions issued before the end of the main trial and addressed to a person other than the defendant who is participating in the proceedings may be served on a participant in the proceedings who consents to serve them on the addressee, if the body concerned considers that their receipt is ensured in this manner.
+2. The persons referred to in paragraph 1 of the present Article may be informed of a summons to a main trial or other summonses and of a decision postponing a main trial or other scheduled actions by means of telecommunication if one can assume from the circumstances that notice given in that manner will be received by the addressee.
+3. An official note shall be made in the record that a summons or decision has been served in the manner provided for in paragraphs 1 and 2 of the present Article.
+4. A person who has been informed of or sent a decision pursuant to paragraph 1 or 2 of the present Article may suffer the harmful consequences of a failure to take action, only if it is ascertained that he or she received the summons or decision in good time and was made aware of the consequences of a failure to take action.

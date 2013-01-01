@@ -1,0 +1,21 @@
+# Article 208
+Recording of Sessions by Audio Recording or Audio-Video Recording
+1. Applicable sessions of pretrial testimony or special investigative opportunity session, or any other examination or interview as necessary, shall be video-recorded or audio-recorded in accordance with the following procedure:
+1.1. the person examined shall be informed, in a language he or she fully understands and speaks that the examination is to be audio- or video-recorded.
+1.2. the recording must include the data under Article 205 paragraph 1 of the present Code and the appropriate notification under Article 125 of the present Code, as well as the information needed to identify the persons whose statements are being recorded. When the statements of several persons are being recorded, it is necessary to ensure that it is possible to identify clearly from the recording who made which statement.
+1.3. in the event of an interruption in the course of the examination, the fact and the time of the interruption shall be recorded before the audio- or video- recording ends as well as the time of resumption of the examination.
+1.4. at the conclusion of the examination, the person being examined shall be offered the opportunity to clarify anything he or she has said and add anything he or she may wish. At the request of the examined person, the recording shall be immediately played back and corrections and explanations of that person shall be recorded. The time of conclusion of the examination shall always be noted.
+2. At the discretion of the state prosecutor or upon the order of the pretrial judge, single trial judge or presiding trial judge, the content of the tape may be transcribed. If it is transcribed, the transcript shall be completed as soon as practicable after the conclusion of the examination and, upon the request of the person examined, a copy of the transcript shall be supplied to him.
+3. At least four (4) copies of the audio or audio-video recording under this Article shall be made on CD or DVD disks, or their functional equivalent, and placed with the written record of the examination in the case file. One master copy shall remain with the case file at all times, one copy shall be provided to each defence counsel at the time of indictment, one copy shall be available to the victim advocate or victim representative, one copy shall be retained by the state prosecutor.
+4. The written record of the examination shall indicate or include:
+4.1. the fact that the examination was recorded by an audio-recording or video-recording device;
+4.2. the name of the person who performed the recording;
+4.3. the names of the people present during the recorded session;
+4.4. the fact that the examined person was informed in advance of the intent to record the examination;
+4.5. whether the recording was played back;
+4.6. a summary of the testimony; and
+4.7. copies of any exhibits shown to the person being examined.
+5. After making the required copies, the Recording Clerk shall seal the master copy of the recording and shall sign and file statement that the recording had not been altered or edited and is a true recording of the session.
+6. If a technical error occurs in the making of the audio or audio-video recording, the person whose testimony or examination is being recorded shall be advised of the technical error while being recorded, and shall be re-questioned on issues or answers whose recording was affected by the technical error or he or she will be allowed to make corrections on issues or answers whose recording was affected by the technical error.
+7. The audio or audio-video recording of the session may not be edited or altered. If an indictment is filed in the criminal proceeding for which the session was recorded, the presiding judge may rule an audio or audio-video recording of a session to be inadmissible if there is grounded cause to believe that the recording was edited or altered. Grounded cause under this paragraph cannot be premised solely upon a difference in testimony by the witness.
+8. Personal data about the defendant, injured party or witness which are recorded are confidential and may be used only in the course of criminal proceedings. A violation of this Paragraph shall be considered a breach of the ethical duties of the practitioner involved and may be sanctioned by the Court.
