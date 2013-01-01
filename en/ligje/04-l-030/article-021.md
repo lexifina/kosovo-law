@@ -1,0 +1,5 @@
+# Article 21
+Appointment of a representative
+1. The court that is conducting the criminal proceedings, in its first summon shall inform the defendant legal person whether they are obliged to appoint their representative within a time limit of eight (8) days from the day when the summon is served. If the legal person does not appoint a representative within the set time limit, the court shall appoint one of them as the representative.
+2. If the defendant legal person ceases to exist before the end of criminal proceedings with a judgment which is final, its legal descendant shall appoint their representative in a time limit of eight (8) days from the day when the legal person ceased to exist; if not, the court conducting criminal proceedings shall appoint the representative.
+3. The representative of the defendant legal person shall be appointed by the president of the court with a ruling that is given to the person who was appointed to be the representative of that legal person. An appeal is permitted against the decision, but an appeal shall not stay the execution of the ruling.

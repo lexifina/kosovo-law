@@ -1,0 +1,6 @@
+# Article 12
+Suspended sentence
+1. The court may impose to a legal person a suspended sentence for criminal offence.
+2. In a suspended sentence, the court may impose to a legal person a punishment up to fifty thousand (50.000) Euros, but that punishment shall not be executed provided the legal person sentenced for that time as imposed by court, which can not be less than one and not even longer than two (2) years (validation period) does not commit any new offence which contains elements of the criminal offence provided for in Article 5 of this law.
+3. In a suspended sentence the court may impose the punishment to be executed even if the legal person who is sentenced for a certain time does not return the material benefit gained through the committal of the criminal offence, does not compensate the damage that was caused by the committal of the criminal offence or does not fulfil its obligations provided for in penal provisions. The time limit for the fulfilment of these obligations is determined by court within the set time limit or validation.
+4. From the side of the imposition of the suspended sentence, conditions for the imposition of sentences, its effect and revocation of the punishment are implemented in accordance with the provisions from Articles 42 to 48 of Criminal Code of Kosovo.
