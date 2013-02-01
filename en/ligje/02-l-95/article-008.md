@@ -1,4 +1,0 @@
-# Article 8
-8.1. If the plant producer does not implement the measures designated in Article 7 point (a), (c) and (e) of this Law, the phytosanitary inspector designates their implementation on behalf of the plant producer.
-8.2. In exception to the provisions of Article 7 point (a), (c) and (e) of this Law, the plant producer, who is the owner or user of forest plants shall be responsible to inform the forest inspector and public forestry works executer immediately on the occurrence of harmful organisms form List I.A and II.A., and they shall immediately inform the competent organ for the protection of plants in accordance with Article 6, paragraph 3 of this Law.
-8.3. Persons who due to the nature of their job recognize or are suspicious about the new and unexpected occurrence of harmful organisms in plants shall inform the competent organs for plant protection.

@@ -1,2 +1,0 @@
-# Article 45
-If during the phytosanitary inspection check it is found that a part of the plant consignment, registered by the person in the register, produced, processed, or used in any other form in his property, is infected with harmful organisms presented in List I.A., II.A., I.B or II.B. List, the plant passport shall not be issued. It shall be issued only for the part, which is not suspected to be infected with harmful organisms and does not present any risk of harmful organisms spreading.

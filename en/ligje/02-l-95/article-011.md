@@ -1,3 +1,0 @@
-# Article 11
-11.1. In cases when harmful organisms presented in List I.A and II.A. for the territory of Kosovo and List I.B and II.B. for protected zones occur in the territory of Kosovo or symptoms that raise suspicions on the occurrence of harmful organisms from List I.A., II.A., I.B., II.B, appear in plants, plant products and other objects, plant producers and public works executers must immediately and consistently inform the phytosanitary inspector and the competent organ.
-11.2. The Plant producer shall protect plants, plant products and other objects in accordance with the instructions designated by the phytosanitary inspector. The method of informing shall be designated by the Ministry in a sub-legal act.

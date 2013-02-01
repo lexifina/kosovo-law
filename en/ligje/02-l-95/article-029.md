@@ -1,4 +1,0 @@
-# Article 29
-29.1. Any consignments of plants presented in List V.B. imported for the purpose of examination and scientific research selection must be checked by the phytosanitary inspection and must be accompanied by the import permit in compliance with article 18 of this Law and the phyto-certificate issued by its country of origin.
-29.2. In exception to article 19 paragraph 1 point (a) of this Law, the import permit shall be issued for plants presented in List V.B, without any phyto-certificate, or phytosanitary inspection check, which are intended for the personal use or for the immediate use within the border area of the country where plants and plant products and other objects are imported from.
-29.3. Small quantities of plants, plant products and other objects presented in List V.B in compliance with article 20 of this Law may be imported without phyto-certificate or phytosanitary inspection check.

@@ -1,2 +1,0 @@
-# Neni 25
-Përjashtim nga dispozitat e nenit 24, regjistrimi nuk është i obliguar për prodhuesit dhe përpunuesit e vegjël të cilët nuk merren me prodhimtari dhe përpunim profesional të bimëve, ose prodhimtaria dhe përpunimi, shitja e bimëve, produkteve bimore dhe objekteve të tjera është e destinuar për nevojat personale të personave fizikë në tregun lokal dhe nuk paraqesin rrezik për përhapjen e organizmave të dëmshëm.
