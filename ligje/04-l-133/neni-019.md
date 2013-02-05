@@ -1,0 +1,3 @@
+# Neni 19
+Neni 24 i ligjit bazik, paragrafi 1., riformulohet me tekstin si në vijim:
+1. Të gjitha institucionet e siguruara ofrojnë informacionin e nevojshëm të kërkuar nga Fondi dhe janë përgjegjëse për saktësinë dhe cilësinë e informacionit të ofruar. Fondi mund të kërkojë nga Banka Qendrore që të kryej ekzaminimin në vend të të dhënave dhe informacioneve në institucionet anëtare sipas këtij ligji; personelit të FSDK-së i lejohet që të marrë pjesë në ekzaminime të tilla. Gjithashtu, është përgjegjësi dhe kompetencë e FSDK-së që të kryej rregullisht me institucionet anëtare testet e softuerit të nevojshme për transferimin e të dhënave ndërmjet institucionit të dështuar dhe FSDK-së në rastin e ngjarjes së siguruar.

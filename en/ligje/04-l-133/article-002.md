@@ -1,0 +1,7 @@
+# Article 2
+1. Article 4 of the basic law, paragraphs 1. and 2. shall be reworded with the following text:
+1. All deposit-taking financial institutions in Kosovo are mandatory members of the Fund. A foreign bank licensed to take deposits in Kosovo through one or more branches is only a member, when the home country provides deposit insurance with a lower coverage than prescribed by this law.
+2. In the case of an insured event, the Central Bank shall immediately inform the Fund on the decision on initiating receivership against the deposit taking financial institution and the Fund shall promptly start the operation for reimbursing insured deposits.
+2. Article 4 of the basic law after paragraph 2., new paragraphs 3. and 4. shall be added with the following text:
+3. The Fund shall pay out of the Fund´s assets, only if the payment value is lower than the reimbursement value of insured deposits, the difference up to the insured amount to another bank in the case, the administrator or the receiver of a bank is transferring liabilities to another bank in line with the Articles 68.4 and 73.22 of the Law on Banks. The administrator and the receiver shall involve the Fund as early as possible in such transaction.
+4. The participation of a deposit taking financial institution under receivership in the deposit insurance scheme ends upon the finalization of compensation payments to the depositors of an institution in liquidation and the obligation to pay insurance premiums ends on the day of the insured event.

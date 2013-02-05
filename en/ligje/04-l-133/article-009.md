@@ -1,0 +1,12 @@
+# Article 9
+1. Article 12 of the basic law paragraph 1. shall be reworded with the following text:
+1. Upon timely presentation of evidence of ownership as defined under rule by the DIFK, the process for reimbursement in Euros of insured depositors shall begin as soon as possible and shall be completed on the payout day, but not later than thirty (30) days of the insured event. The Fund shall have the authority to pay the insured deposits in a single payment or a series of payments over the course of the thirty (30) days.
+2. The receiver of a deposit taking financial institution under receivership shall submit to the Fund, in electronic format, data and other documents necessary for the calculation and payout of the insured deposits under this law within three (3) business days following the insured event date.
+3. On the basis of data and documents under paragraph 1. and 2. of this Article, the Fund shall verify and determine the amount of the insured deposit for every insured depositor.
+4. On the basis of paragraph 3. of this Article, the Fund shall make the compensation available to the insured depositors either through employing a payout agent bank or other means as selected by the Fund.
+5. To facilitate prompt payment, the Fund shall set the rules for the procedure of the insured deposits payout.
+6. To be reimbursed the depositor has to present an evidence of its ownership, and any other natural person may be authorized to take the reimbursement for the depositor with a written and signed authorization of the depositor.
+7. In case of deposits used as collateral, the Fund shall effect any payment only, if the grounds for receiving the insured deposit can be determined without any doubt based on the parties’ agreement or under resolution of a Court or competent authority in Kosovo.
+8. Upon payment of insured depositors, the Fund shall subrogate to the claim position of insured depositors as set forth by the Law on Banks.
+9. Deposits not denominated in Euros that are instead denominated in a convertible currency shall be reimbursed in Euros at the daily exchange rate published by the European Central Bank as of the date of the insured event.
+10. Depositors will lose their right to get reimbursed by the Fund if the compensation amount has not been collected within two (2) years after the announcement of the notification. The Fund shall set the rule for uncollected compensation.

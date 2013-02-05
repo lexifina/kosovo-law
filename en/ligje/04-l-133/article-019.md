@@ -1,0 +1,3 @@
+# Article 19
+Article 24 of the basic law, paragraph 1., shall be reworded with the following text:
+1. All insured institutions shall provide any necessary information requested by the Fund and shall be responsible for the accuracy and quality of information provided. The Fund may request the Central Bank to examine onsite in the member institutions the data and information under this law; staff of DIFK shall be allowed to take part in such examinations. Additionally it should be the responsibility and power of DIFK, to regularly undertake with the member institutions tests of the software needed for the transfer of data between the failed institution and DIFK in an insured event.

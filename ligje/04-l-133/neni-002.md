@@ -1,0 +1,7 @@
+# Neni 2
+1. Neni 4 i ligjit bazik, paragrafët 1 dhe 2 riformulohen me tekstin si në vijim:
+1. Të gjitha institucionet financiare që pranojnë depozita në Kosovë janë anëtarë të detyrueshëm të Fondit. Një bankë e huaj e licencuar për të pranuar depozita në Kosovë përmes një apo më tepër degëve është anëtare vetëm atëherë kur vendi amë ofron sigurim të depozitave me një mbulesë më të vogël sesa ajo e përcaktuar me këtë ligj.
+2. Në rast të ndonjë ngjarje të siguruar, Banka Qendrore e njofton menjëherë Fondin për vendimin mbi fillimin e falimentimit ndaj institucionit financiar që pranon depozita ndërsa Fondi menjëherë fillon procedurën për rimbursimin e depozitave të siguruara.
+2. Neni 4 i ligjit bazik, pas paragrafit 2. shtohen paragrafët e ri 3. dhe 4. me tekstin si në vijim:
+3. Fondi paguan nga asetet e Fondit, vetëm nëse vlera e pagesës është më e vogël se sa vlera e rimbursimit të depozitave të siguruara, ndryshimin deri në shumën e siguruar bankës tjetër në rast se administratori ose likuidatori i bankës ia bart detyrimet një banke tjetër në përputhje me nenet 68.4 dhe 73.22 të Ligjit për Bankat. Administratori dhe likuidatori e përfshijnë Fondin në një transaksion të tillë sa më shpejt që të jetë e mundur.
+4. Pjesëmarrja e institucionit financiar që pranon depozita nën falimentim në skemën e sigurimit të depozitave përfundon me finalizimin e pagesave të kompensimit ndaj depozitorëve të institucionit në likuidim dhe detyrimi për pagesën e premiumeve të sigurimit mbaron në ditën e ngjarjes së siguruar.
