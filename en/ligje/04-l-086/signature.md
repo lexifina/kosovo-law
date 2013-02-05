@@ -1,0 +1,5 @@
+Law No. 04/L-086 13 December 2012
+Promulgated by Decree No. DL-060-2012, dated 26.12.2012,, President of the Republic of Kosovo Atifete Jahjaga
+LAW NO. 04/L-086 ON NATIONAL PARK “BJESHKËT E NEMUNA”
+ANNEX I
+CARTOGRAPHIC PRESENTATION OF NATIONAL PARK “BJESHKËT E NEMUNA”

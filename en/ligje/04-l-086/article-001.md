@@ -1,0 +1,3 @@
+# Article 1
+Purpose
+Part of the territory of Bjeshkët e Nemuna as a spatial integrity which is distinguished with natural values and rarity, with a large number of important forest ecosystems and other ecosystems preserved, with big number of endemic and relict species, with rich characteristics of geomorphologic features, hydrological and landscape that have scientific importance, educational, cultural-historical, recreational-tourist, and activities that contribute in economic development according to the environmental criteria, shall be declared National Park named: National Park "Bjeshket e Nemuna".

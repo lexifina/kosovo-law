@@ -1,0 +1,8 @@
+# Article 3
+Protection Regimes
+1. In the National Park “Bjeshkët e Nemuna” territory shall be established protection regimes according areas:
+1.1. the first area - includes parts of the territory of the National park “Bjeshkët e Nemuna” with exceptional natural features, with rare species, endangered plants and animals and types of habitats in the wild conditions of nature. This area bellongs to the regime of strict protection;
+1.2. the second area – active management - includes parts of the territory of National park “Bjeshkët e Nemuna” that is characterized by ecosystems, landscape values and other values of the nature where may be exercised ecotourism, traditional agriculture and activities that are not in contrary with the purposes of defense;
+1.3. the third area - sustainable use, includes parts of the territory of National park “Bjeshkët e Nemuna” scheduled for construction, reconstruction, protection of traditional and recreational facilities, tourism and the needs of inhabitants in the territory of National Park and the use of pasture and economic use of nature resources according to the Law on Protection of Nature and in compliance with relevant laws and Spatial Plan of National Park;
+1.4. buffer zone - the space of fifty (50) meters from the border of National park “Bjeshkët e Nemuna” that serves to prevent adverse impacts on National park.
+2. Determining of protection regimes shall be made by the National Park “Bjeshkët e Nemuna” Spatial plan whiles the activities and actions shall be conducted according the Management plan of the National park and legislation in force.
