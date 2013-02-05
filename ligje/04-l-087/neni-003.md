@@ -1,0 +1,8 @@
+# Neni 3
+Regjimet e mbrojtjes
+1. Në territorin e Parkut kombëtar “Sharri” vendosen regjimet e mbrojtës sipas zonave:
+1.1. Zona e parë - përfshinë pjesët e territorit të Parkut kombëtar “Sharri” me veçori natyrore të jashtëzakonshme, me lloje të rralla, të rrezikuara të bimëve dhe shtazëve dhe tipave të vendbanimeve në kushte të natyrës së egër. Kjo zonë gëzon karakterin e mbrojtjes strikte;
+1.2. Zona e dytë - menaxhimi aktiv përfshinë pjesët e territorit të Parkut kombëtar “Sharri” që karakterizohen me ekosisteme, vlera peizazhore dhe vlera tjera të natyrës ku mund të ushtrohen ekoturizmi, bujqësia tradicionale dhe veprimtaritë të cilat nuk janë në kundërshtim me qëllimet e mbrojtjes;
+1.3. Zona e tretë – e shfrytëzimit të qëndrueshëm përfshinë pjesët e territorit të Parkut kombëtar “Sharri” ku mund të bëhet : ndërtim, rindërtim, mbrojtje të objekteve tradicionale dhe rekreacion, turizëm dhe nevoja të banorëve në territorin e Parkut Kombëtar, si dhe shfrytëzim të kullosave dhe shfrytëzim ekonomik i të mirave të natyrës sipas Ligjit për Mbrojtjen e Natyrës si dhe në harmoni me ligjet përkatëse dhe Planin Hapësinor të Parkut Kombëtar.
+1.4. Zona e ndikimit - përfshinë hapësirën prej pesëdhjetë (50) metra nga kufiri i Parkut kombëtar “Sharri” që shërben për parandalimin e ndikimeve të dëmshme në Parkun kombëtar.
+2. Përcaktimi i regjimeve të mbrojtjes bëhet me Planin hapësinor të Parkut kombëtar “Sharri” ndërsa veprimtaritë dhe aktivitetet zhvillohen sipas Planit të menaxhimit të Parkut kombëtar dhe legjislacionit në fuqi.
