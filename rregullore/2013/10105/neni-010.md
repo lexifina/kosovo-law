@@ -1,0 +1,7 @@
+# Neni 10
+Konfidencialiteti dhe Liria e Veprimit
+1. Të gjithë ata që janë të përfshirë në ndërmjetësim, veçanërisht ndërmjetësuesi, palët dhe përfaqësuesit dhe këshilltarët e tyre, ekspertët, punonjësit e Zyrës, dhe personat e tjerë prezent në takime të palëve me ndërmjetësuesin, duhet të respektojnë aspektin konfidencial të ndërmjetësimit dhe nuk mund të përdorin apo t’i zbulojnë palës së tretë asnjë të dhënë apo informatë që i përket ndërmjetësimit apo që është siguruar gjatë ndërmjetësimit, pa pajtimin e palëve dhe të ndërmjetësuesit. Pas përfundimit të ndërmjetësimit, të gjitha raportet, dokumentet, dhe materialet tjera i kthehen palës që i ka dorëzuar, dhe asnjë kopje e tyre nuk ruhet pa pajtimin e palëve.
+2. Ndërmjetësuesi gjatë tërë procedurës së ndërmjetësimit nuk mund të zbuloj asnjë të dhënë, material, apo informatë për palën tjetër, pa lejen e shprehur nga pala e cila i ka ofruar atij këto të dhëna, materiale, apo informata.
+3. Procesverbalet e takimeve në mes të palëve dhe ndërmjetësuesit nuk ruhen.
+4. Zyra nuk mund t’i zbuloj askujt dosjet apo rezultatet e ndërmjetësimit pa pajtimin me shkrim të palëve.
+5. Zyra ruan propozimin dhe njoftimin e ndërmjetësuesit sa i përket suksesit apo dështimit të ndërmjetësimit. Zyra mund të përfshij të dhënat sa i përket numrit dhe rezultatit të ndërmjetësimeve dhe llojin e rasteve të ndërmjetësimit të kontestit në raportet vjetore të cilat publikohen për aktivitetet e saj por me kusht që këto të dhëna nuk e zbulojnë identitetin e palëve apo rrethanat specifike të rastit.
