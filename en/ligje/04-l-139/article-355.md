@@ -1,0 +1,8 @@
+# Article 355
+The rights and duties of the replacer private enforcement agent
+1. The person appointed as a replacer private enforcement agent shall have the same rights, duties and responsibilities as the private enforcement agent. The provisions of this law in relation to the commencement, image, and content of the legislation, performance of duties, responsibilities and disciplinary measures of the private enforcement agent, non-compliance with the enforcement actions, control of the work of the private enforcement agent and dismissal of the private enforcement agent shall also apply to the replacer enforcement agent.
+2. The replacer enforcement agent shall be authorized to enforce an application for the performance of official acts directed at the private enforcement agent to be replaced. He shall inform the applicant of the replacement.
+3. The enforcement agent to be replaced shall grant the replacer private enforcement agent access to his records insofar as required for the replacement.
+4. In the event of replacement on account of death, illness or absence the replacer private enforcement agent may continue providing records of the private enforcement agent that was the object of agreement with the latter.
+5. After expiry of the replacement, paragraph 3. of this Article shall apply mutatis mutandis to the replacer private enforcement agent with regards to the replaced private enforcement agent.
+6. When performing official acts, the replacer enforcement agent shall state his capacity. Except in the event of removal, he shall mention not only his own name, but also the name and place of practice of the private enforcement agent he replaces.

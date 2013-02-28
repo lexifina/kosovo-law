@@ -1,0 +1,6 @@
+# Neni 51
+Veprimet e organit përmbarues
+1. Me rastin e kryerjes së veprimeve përmbarimore në banesën e debitorit, në të cilën nuk është i pranishëm debitori, përfaqësuesi ligjor apo me prokurë i tij, apo personi i moshës madhore i familjes së tij, domosdo duhet të jenë të pranishëm së paku dy (2) qytetar të moshës madhore.
+2. Përmbarimi në lokalin afarist apo në lokalin tjetër të personit juridik bëhet gjatë orarit të punës dhe në prani të personit të cilin e cakton organi kompetent i personit juridik, e kur ky i fundit nuk e cakton personin e tillë, veprimet përmbarimore kryhen në praninë e së paku dy (2) qytetarë të moshës madhore.
+3. Kur veprimi përmbarimor duhet të kryhet në lokalin që është i mbyllur, kurse debitori nuk është i pranishëm ose nuk pajtohet që ta hapë lokalin vet, atëherë organi përmbarues do ta hapë lokalin në praninë e një (1) qytetari të moshës madhore dhe policisë.
+4. Gjatë kryerjes së veprimeve përmbarimore sipas dispozitave të paragrafit 1., 2., dhe 3. të këtij neni, organi përmbarues duhet të përpilojë procesverbal të posaçëm të cilin do ta në nënshkruajnë qytetarët e pranishëm, kurse një kopje e tij ose njoftimi për veprimin përmbarimor të kryer, do të afishohet në derën e banesës apo të lokalit afarist.

@@ -1,0 +1,4 @@
+# Neni 195
+Udhëzimi për fillim të procedurës kontestimore
+1. Bashkëpronarin që nuk është debitor të cilit i është kontestuar pjesa në paluajtshmërinë që është bërë objekt përmbarimi, organi përmbarues e udhëzon që të paraqet padi kundër kreditorëve, por edhe kundër debitorit, po qe se edhe ky ia konteston të drejtën e tij me qëllim që në procesin kontestimor ta provojë të drejtën e pretenduar. Nuk bëhet udhëzimi për ngritje të padisë, po qe se bashkëpronari i tillë ka mundësi që në vetë procedurën përmbarimore ta provojë ekzistimin e së drejtës së tij me anë të aktgjykimit të formës së prerë, dokumentit publik, ose dokumentit jopublik, të vërtetuar sipas ligjit.
+2. Për procesin kontestimor të filluar me padi, si dhe për të drejtën e bashkëpronarit që në të ta kërkojnë shtyrjen e procedurës së përmbarimit të filluar, në mënyrë të përshtatshme zbatohen dispozitat e këtij ligji me të cilat rregullohet veprimi i Gjykatës sipas prapësimit të personit të tretë.

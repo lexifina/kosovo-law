@@ -1,0 +1,4 @@
+# Neni 16
+Gjobat për vonesë të përmbarimit
+1. Kur debitori nuk përmbushë brenda afatit të caktuar çfarëdo obligimi monetar apo jo monetar të përcaktuar nga dokumenti përmbarues, sipas detyrës zyrtare, apo me propozim të kreditorit, do të përcaktojë një datë jo më pak se tri (3) ditë pas skadimit të afatit për përmbushje vullnetare nga data, me të cilën fillon llogaritja e gjobës nëse pagesa nuk është realizuar gjer në datën e caktuar.
+2. Gjobat për çdo ditë të vonesës do të jenë mbi pesë (5) euro por jo më lartë se pesdhjetë (50) euro për personat fizik, dhe mbi pesdhjetë (50) euro por jo më tepër se pesqind (500) euro për personat juridik. Gjobat do të shtohen për çdo ditë apo periudhë tjetër të vonesës, në pajtim me rregullat e Ligjit për Detyrimet, që nga dita e skadimit të afatit për përmbushjen e obligimeve e gjer sa të arrihet kjo përmbushje.

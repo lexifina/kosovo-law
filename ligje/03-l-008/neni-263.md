@@ -1,8 +1,0 @@
-# Neni 263
-263.1 Kur sendet e zëvendësueshme nuk janë gjetur as te debitori e as te personi i tretë, kërkuesi i përmbarimit mund të propozojë që përmbarimi të zbatohet duke e autorizuar gjykata që brenda afatit të caktuar t’i blejë diku tjetër këto sende me shpenzime të debitorit.
-263.2 Propozimin që sendet t’i blejë diku tjetër, kërkuesi i përmbarimit mund ta parashtrojë brenda shtatë ditësh nga dita në të cilën gjykata e ka njoftuar që sendet nuk janë gjetur as te debitori as te personi i tretë.
-263.3 Sipas propozimit të kërkuesit të përmbarimit gjykata me aktvendim e urdhëron debitorin që brenda afatit të caktuar ta depozitojë në gjykatë shumën e të hollave të nevojshme për blerjen e sendeve dhe e cakton përmbarimin për pagimin e kësaj shume me kamatëvonesë nga dita e vlerësimit të sendeve deri në ditën e depozitimit të shumës në gjykatë.
-263.4 Kërkuesi i përmbarimit ka për detyrë që në propozimin nga paragrafi 1 i këtij neni, ta përcaktoj mjetin përmbarimorë, me qëllim të pagimit të shumës së nevojshme për blerjen e sendeve të zëvendësueshme.
-263.5 Përmbarimi i aktvendimit nga paragrafi 1 dhe 3 i këtij neni, bëhet vetëm pasi të ketë marrë formë të prerë.
-263.6 Në qoftë se kërkuesi i përmbarimit në afatin nga paragrafi 2 i këtij neni nuk e ka parashtruar propozimin për blerjen e sendeve diku tjetër, gjykata do ta pezullojë procedurën përmbarimore, përveç se kur kërkuesi i përmbarimit me kohë e ka parashtruar edhe propozimin që debitori t’ia paguaj vlerën e sendeve që ka qenë i detyruar t’i dorëzojë.
-263.7 Po qe se gjatë zhvillimit të procedurës ndryshon vlera e sendeve të zëvendësueshme, kërkuesi i përmbarimit mund të kërkojë nga gjykata vlerësimin e ri dhe ta urdhërojë debitorin që ta paguajë dallimin e vlerës.

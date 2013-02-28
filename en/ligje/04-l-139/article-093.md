@@ -1,0 +1,6 @@
+# Article 93
+Unsuccessful attempt for sequestration
+1. If during sequestration of the wealth of debtor no movable items are found which may be the objects of enforcement, the enforcement body shall inform the requester of enforcement if he was not present during the sequestration.
+2. With request of the creditor which claims that the debtor may know where the missing movable property may be found, enforcement body shall order the debtor, within three (3) days from the day of delivery, to provide the information on the location of movable properties. If the debtor does not respect this obligation, provisions of articles 15 and 16 of this Law shall apply.
+3. Requester of sequestration, within three (3) months from the day of notification delivery, respectively from the day of attempt of sequestration during which he was present, may propose repeating sequestration.
+4. If requester of enforcement within the deadline from paragraph 3 of this article does not propose repeating sequestration, or if even in the repeated case of sequestration are not found items which may be the objects of enforcement, the enforcement authority shall suspend the enforcement procedure. Suspension in this case shall be regulation by the provisions of article 65 paragraph 1 of this law.

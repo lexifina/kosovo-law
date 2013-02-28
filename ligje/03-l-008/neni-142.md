@@ -1,5 +1,0 @@
-# Neni 142
-Sekuestrimi me pëlqimin e debitorit
-142.1 Debitori ka të drejtë që me anë të dokumentit të vërtetuar ta jep pëlqimin që me qëllim të realizimit të kërkesës së kreditorit të tij, të sekuestrohet një pjesë e të ardhurave personale të tij dhe t’i paguhet drejtpërdrejt kreditorit në mënyrën e caktuar në dokumentin e tillë.
-142.2 Dokumenti nga paragrafi 1 i këtij neni e ka efektin juridik të aktvendimit për ekzekutimin.
-142.3 Dokumentin nga paragrafi 1 të këtij neni, me efekte të dorëzimit të aktvendimit për përmbarimin, punëdhënësit të debitorit ia dërgon kreditori me anë të letrës rekomande. Përjashtimisht nga dispozitat e paragrafit 1 të këtij neni, sekuestrimi në bazë të pëlqimit të debitorit nuk prodhon efekte juridike në zbatimin e përmbarimit për të ardhurat personale për përmbushjen e kredisë në bazë të ushqimit ligjor, shpërblimit të dëmit të shkaktuar, cenimit të shëndetit, ose zvogëlimit, respektivisht humbjes së aftësisë punuese dhe të shpërblimit të dëmit për bazën e humbjes së ushqimit për shkak të vdekjes së dhënësit të ushqimit.

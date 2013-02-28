@@ -1,4 +1,0 @@
-# Article 278
-Re-obstruction of possession
-278.1 If in the basis of executive document, issued upon lawsuit for the obstruction of possession, is committed execution, or if the debtor has voluntarily fulfilled his obligation, and after this again obstructs possession which in essence does not differ from the previous obstruction, the court upon proposal from execution requester, in the basis of the same executive document will issue new decision on execution, with the purpose of restitution in to the previous state if this is needed, and will threaten the debtor with fine if he again commits obstruction of possession. In this case accordingly are applied the provisions of article 276 of this law.
-278.2 Proposal for execution from paragraph 1 of this article, the execution requester might submit within 30 days time-limit, from the day he acknowledged for re-obstruction of possession, but at latest within one year from the repeated obstruction.

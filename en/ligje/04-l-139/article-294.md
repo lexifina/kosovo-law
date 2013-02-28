@@ -1,0 +1,6 @@
+# Article 294
+Obligation for tolerance and omission
+1. If debtor is obligated to tolerate commission of any action, or to omit from the commission of an action, the enforcement body, upon proposal from the creditor who alleges that debtor is acting in contrary to his obligation, with decision or order will order debtor to behave in accordance with his obligation and threatens him with fine. Fines shall be enforced in case of failure to meet the obligations in line with Articles 15 and 16 of this law.
+2. The creditor may submit a proposal to the court to sentence the debtor a fine because he, despite of the enforcement body’s order, has continued to act in contradiction with the obligation. This proposal should be done in fifteen (15) days from the finding out of such debtor’s behavior, but at latest within one year from the breach of obligation.
+3. After expiration of deadline from paragraph 2 of this Article, the enforcement body through a decision shall refuse the proposal for sentencing a fine and shall suspend the procedure, while the creditor shall lose the right of presentation of new enforcement proposal, based on the same enforcement document.
+4. Provisions of Article 293 of this law shall accordingly apply for the enforcement procedure from paragraph 1 of this Article.

@@ -1,0 +1,6 @@
+# Article 173
+Enforcement against the portion of wealth of debtor in business organization
+1. Sequestration of the portion of the business organization owned by the debtor shall be conducted through the delivery of the enforcement decision or writ to the Kosovo Business Registration Agency, the Pledge Registry, and to any other competent registering body and respective trade associations, with the purpose or registering the right of pledge.
+2. The enforcement decision or writ on conducting enforcement against ownership of portions of business organizations shall be served on the enforcement creditor and the enforcement debtor.
+3. Enforcement debtor does not have the right to dispose with the sequestrated portion of his wealth in business organization.
+4. The evaluation and sale of the portion in business organization is conducted through application, in accorded manner, of the provisions of this law which value for the evaluation and sale of debtor’s items, but previously the enforcement body should inform the members of the business organization for assignment of the sale of the portion of property, inviting them that within fifteen (15) days deadline from the day of notification, make a statement on existence of interest for purchasing a part of debtor’s wealth.

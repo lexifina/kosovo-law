@@ -1,0 +1,5 @@
+# Neni 92
+Fitimi i të drejtës së pengut
+1. Kreditori e fiton të drejtën e pengut për sendet e luajtshme të inventarizuara.
+2. Në qoftë se inventarizimi është bërë në dobi të më tepër kreditorëve, radha e përparësisë së të drejtës së pengut nga paragrafi 1. i këtij neni, e fituar me anë të inventarizimit apo shënimit në regjistrin e inventarizimit sekuestrues, caktohet sipas ditës në të cilën ka arritur tek organi përmbarues propozimi për përmbarim. Po qe se propozimet e tilla kanë arritur tek organi përmbarues në të njëjtën ditë, atëherë të drejtat e pengut konsiderohen se janë të radhës së njëjtë.
+3. Propozimi për përmbarim i dërguar tek organi përmbarues me anë të letrës rekomande, konsiderohet se është dorëzuar tek organi përmbarues ne ditën kur ajo i është dorëzuar postës. Propozimi për përmbarim i dorëzuar organi përmbarues përmes komunikimit elektronik, nëse lejohet nga organi përmbarues, konsiderohet se i është dorëzuar organi përmbarues në datën kur është dërguar komunikimi elektronik, në pajtim me ligjin për procedurën kontestimore.

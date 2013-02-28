@@ -1,0 +1,5 @@
+# Article 160
+Enforcement against debtor with joint responsibility
+1. If based on enforcement document two or more debtors are jointly responsible, the enforcement body upon request from the creditor, against them shall issue only one enforcement decision or enforcement writ by which sequestration of the debtors account is conducted in amounts assigned in the enforcement decision or enforcement writ.
+2. Proposer may assign in the enforcement proposal the order of debtors for sequestrating the means from debtors, and the order is not given, means will be taken according to the order the debtors are mentioned in the enforcement proposal.
+3. If in the case from paragraph 2 of this article in the debtor’s account are insufficient means for fulfillment of obligation, bank will sent the enforcement decision or enforcement writ for application to the bank of other joint debtor, together with the report for completed enforcement up to that moment, and for this it will inform the enforcement body without delay.

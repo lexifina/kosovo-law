@@ -1,0 +1,7 @@
+# Neni 360
+Komisioni Profesional për Vlerësimin e Përmbarimit
+1. Për të siguruar që vlerësimi për zbatimin e përmbarimit të kryhet në kontinuitet dhe që mbikëqyrja e aktiviteteve të përmbaruesve të mos rrezikoj punën e tyre të papengueshme, Ministri emëron Komisionin Profesional për Vlerësimin e Përmbarimit (më tej: Komisioni) prej shtatë (7) anëtarëve dhe zëvendësve të tyre. Anëtarët dhe zëvendës anëtarët e Komisionit emërohen për periudhën prej katër (4) vitesh
+2. Anëtarët dhe zëvendës anëtarët e Komisionit, ministri i emëron nga radhët e: Gjykatës themelore (dy (2) anëtarë dhe zëvendës anëtar); Gjykatës së Apelit ( një (1) anëtar dhe një (1) zëvendës anëtarë); Gjykatës Supreme ( një (1) anëtarë dhe një (1) zëvendës anëtarë); Këshilli Gjyqësor ( një (1) anëtarë dhe një (1) zëvendës anëtar); Fakulteti juridik (një (1) anëtar dhe një (1) zëvendës anëtar; Ministria e Drejtësisë (një (1) anëtarë dhe një (1) zëvendës anëtar).
+3. Anëtarët dhe zëvendës anëtarët e Gjykatës themelore, Gjykatës së Apelit dhe të Gjykatës Supreme i propozon Këshilli Gjyqësor.
+4. Kryesuesin e Komisionit e zgjedhin anëtarët e Komisionit përmes votimit të fshehtë me shumicën e votave nga numri i përgjithshëm i anëtarëve të Komisionit, në takimin e saj konstituiv
+5. Për kryerjen e punëve profesionale dhe administrative për Komisionin, Ministria e cakton zyrtarët nga radhët e të punësuarve në Ministrinë e Drejtësisë.

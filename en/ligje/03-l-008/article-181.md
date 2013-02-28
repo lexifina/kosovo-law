@@ -1,4 +1,0 @@
-# Article 181
-Instruction for the initiation of the contested procedure
-181.1 Co-owner who is not execution debtor to whom is contested part in immovable item which is object of execution, the court instructs to present lawsuit against the execution proposers but also against the debtor, in case he disputes his right with purpose that in contested procedure proves his alleged right. The instruction for rendering lawsuit will not be done, if such co-owner has possibility to prove the existence of his right, in execution procedure, through final verdict, public document, or non-public document certified according to the law.
-181.2 For contested process initiated with lawsuit, and for the right of co-owner to request the adjournment of started execution procedure, in appropriate manner are applied provisions of this law by which is regulated the activity of the court according to the objection from third person.

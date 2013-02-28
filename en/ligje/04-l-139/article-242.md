@@ -1,0 +1,6 @@
+# Article 242
+The handover of real estate to the buyer
+1. After depositing the price, the enforcement body shall issue a written decision or order concluding that the real estate has been sold to the buyer.
+2. Through the written decision or order from paragraph 1. of this Article, the enforcement body shall decide that the real estate is to be handed to the buyer, whereas the public record official-holder of real estate shall be ordered to register the right of the property of the buyer over the real estate that he bought. Through this written decision or order the enforcement body shall order the cancellation of rights as provided in the written decision or order on sale of real estate.
+3. No objection is allowed against the written decision or order from paragraph 1. of this Article, while the decision may be challenged through an appeal.
+4. The written decision or order from paragraph 1. of this Article shall be published in the information board of the enforcement body three (3) days after publication in the information board of the enforcement body, it shall be considered that the written decision or order has been handed to all the persons to whom the conclusion must be handed regarding the sale, including participation of the auction.

@@ -1,0 +1,6 @@
+# Neni 93
+Tentimi i pasuksesshëm për sekuestrim
+1. Po që se me rastin e sekuestrimit në pasurinë e debitorit nuk gjenden sende të luajtshme që mund të bëhen objekt përmbarimi, organi përmbarues për një gjë të tillë do ta njoftoj kërkuesin e përmbarimit nëse nuk ka qenë i pranishëm gjatë sekuestrimit.
+2. Me kërkesën e kreditorit i cili përcakton mundësinë se debitori dinë se ku mund të gjenden pasuritë e padeklaruara të luajtshme, organi përmbarues urdhëron debitorin që në afat prej re (3) ditësh nga dita e dorëzimit të jep informatat për vendndodhjen e pasurive të luajtshme. Nëse debitori nuk respekton këtë detyrim aplikohen dispozitat e neneve 15 dhe 16 të këtij ligji.
+3. Kërkuesi i sekuestrimit, brenda afatit prej tre (3) muajsh nga dita në të cilën i është dërguar njoftimi, respektivisht nga dita e tentimit të sekuestrimit me rastin e të cilit ka qenë i pranishëm, mund të propozoj që sekuestrimi përsëri të kryhet.
+4. Nëse kërkuesi i përmbarimit brenda afatit nga paragrafi 3. i këtij neni, nuk e propozon kryerjen e serishme të sekuestrimit, apo nëse as me rastin e sekuestrimit të serishëm nuk gjenden sende që mund të bëhen objekt përmbarimi, autoriteti përmbarues do ta pezulloj procedurën e përmbarimit. Pezullimi në këtë rast rregullohet nga dispozitat e paragrafit 1. neni 65, të këtij ligji.

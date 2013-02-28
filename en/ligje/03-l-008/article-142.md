@@ -1,5 +1,0 @@
-# Article 142
-Sequestration upon consent of debtor
-142.1 Debtor has the right that through certified document give consent, for the purpose of realization of the creditor’s request, for sequestration of a part of his personal incomes and direct payment to his creditor, in assigned manner in such document.
-142.2 Document from paragraph 1 of this article has legal effect of execution decision.
-142.3 Document from paragraph 1 of this article, with effects of delivery of execution decision, to the employer of debtor is delivered by creditor through urgency letter. Exceptionally from the provisions of paragraph 1 of this article, sequestration in the basis of consent of debtor does not produce legal effects in application of execution on personal incomes for fulfilling the credit, in basis of legal nutrition, rewarding the caused damage, breach of health, decrease respectively loss of working ability and rewarding for damage in basis of loss of nutrition due to the death of nutrition provider.

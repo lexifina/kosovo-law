@@ -1,0 +1,9 @@
+# Neni 280
+Veprimet procedurale kur nuk janë gjetur sendet
+1. Kur sendet e zëvendësueshme nuk janë gjetur as te debitori e as te personi i tretë, kërkuesi i përmbarimit mund të propozojë që përmbarimi të zbatohet duke e autorizuar organin përmbarues që brenda afatit të caktuar t’i blejë diku tjetër këto sende me shpenzime të debitorit.
+2. Propozimin që sendet t’i blejë diku tjetër, kërkuesi i përmbarimit mund ta parashtrojë brenda shtatë (7) ditësh nga dita në të cilën organi përmbarues e ka njoftuar që sendet nuk janë gjetur as te debitori as te personi i tretë.
+3. Sipas propozimit të kërkuesit të përmbarimit organi përmbarues me aktvendim ose urdhër e urdhëron debitorin që brenda afatit të caktuar ta depozitojë te organi përmbarues shumën e të hollave të nevojshme për blerjen e sendeve dhe e cakton përmbarimin për pagimin e kësaj shume me kamatëvonesë nga dita e vlerësimit të sendeve deri në ditën e depozitimit të shumës te organi përmbarues.
+4. Kërkuesi i përmbarimit ka për detyrë që në propozimin nga paragrafi 1. i këtij neni, ta përcaktoj mjetin përmbarimorë, me qëllim të pagimit të shumës së nevojshme për blerjen e sendeve të zëvendësueshme.
+5. Përmbarimi i aktvendimit ose urdhrit nga paragrafi 1. dhe 3. i këtij neni, bëhet vetëm pasi të ketë marrë formë të prerë.
+6. Në qoftë se kërkuesi i përmbarimit në afatin nga paragrafi 2. i këtij neni nuk e ka parashtruar propozimin për blerjen e sendeve diku tjetër, organi përmbarues do ta pezullojë procedurën përmbarimore, përveç se kur kërkuesi i përmbarimit me kohë e ka parashtruar edhe propozimin që debitori t’ia paguaj vlerën e sendeve që ka qenë i detyruar t’i dorëzojë.
+7. Po qe se gjatë zhvillimit të procedurës ndryshon vlera e sendeve të zëvendësueshme, kërkuesi i përmbarimit mund të kërkojë nga organi përmbarues vlerësimin e ri dhe ta urdhërojë debitorin që ta paguajë dallimin e vlerës.

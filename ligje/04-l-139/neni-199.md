@@ -1,0 +1,6 @@
+# Neni 199
+Ndryshimi i objektit të përmbarimit
+1. Debitori ka të drejtë që brenda afatit prej shtatë (7) ditësh nga dita në të cilën i është dorëzuar aktvendimi për përmbarimin ose urdhri për përmbarim, t’i propozojë organi autoritetit përmbarues caktimin e përmbarimit në ndonjë objekt tjetër përmbarimi. Nëse debitori propozon një objekt tjetër, propozimit të këtillë debitori ka për detyrë t’ia bashkangjesë provën e duhur nga e cila shihet se atij i takon e drejta e pretenduar për paluajtshmërinë tjetër, në bazë të cilës provë mund të caktohet përmbarimi për paluajtshmërinë e këtillë kundër debitorit.
+2. Organi përmbarues do t’ia dërgojë propozimin e debitorit, kreditorit i cili mund të deklarohet rreth tij brenda shtatë (7) ditësh nga dita e dorëzimit.
+3. Brenda afatit nga paragrafi 2. i këtij neni, kreditori ka të drejtë që të paraqesë kërkesë për pagimin e shpenzimeve të procedurës së filluar në palujtshmërinë, si dhe të kërkojë depozitim të garancionit për shpërblimin e dëmit që mund ta pësojë nga shkaku i ndryshimit të objektit të përmbarimit.
+4. Për propozimin e debitorit organi përmbarues vendosë me anë të aktvendimit apo urdhrit, pasi t’i arrijë deklarimi i kreditorit të përmbarimit, respektivisht pasi të skadojë afati i caktuar nga paragrafi 2. i këtij neni, për paraqitjen e deklarimit.

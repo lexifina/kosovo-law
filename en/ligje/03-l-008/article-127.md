@@ -1,6 +1,0 @@
-# Article 127
-Authorizations of execution proposer
-127.1 With the transfer of credit for the purpose of encashment, the execution proposer is authorized to request from the execution debtor’s debtor payment of the noted amount in the execution decision or in special desion on transfer, if this amount has become required, to commit all needed actions for preservation and realization of the transferred credit, and to use all rights regarding the given pledge for insurance of such credit.
-127.2 With transfer of credit for the purpose of encashment, execution proposer does not have a right that in the burden of executive debtor contracts settlements, or to pardon debt to the debtor’s debtor, or to dispose with the transferred credit, or to agree with the debtor’s debtor that the decision on credit, if it is disputable, to be issued by arbitration.
-127.3 To the execution proposer to whom is transferred credit for encashment, the debtor’s debtor might present only the objections which might be presented to the execution debtor.
-127.4 Cession of the transferred credit committed by the execution debtor after its transfer does not have legal effect towards the rights of the execution proposer, obtained at the moment of its transfer.

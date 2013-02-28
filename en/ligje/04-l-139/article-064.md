@@ -1,0 +1,3 @@
+# Article 64
+Continuation of the postponed procedure
+A postponed enforcement may resume upon request of the party that requested postponement before the expiration of the period of postponement. In such event, the other party shall be notified on resuming the enforcement procedure through standard mail delivery to the last know registered address. If the creditor does not request the continuation of procedure even after fifteen (15) days from the day of expiration of the deadline for which the enforcement has been postponed, the enforcement body shall abandon the enforcement procedures of the case through a decision.

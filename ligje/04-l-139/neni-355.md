@@ -1,0 +1,8 @@
+# Neni 355
+Të drejtat dhe detyrat e zëvendësuesit të përmbaruesit privat
+1. Personi i emëruar si zëvendësues i përmbarues privat ka të njëjtat të drejta, detyra dhe përgjegjësi sikur përmbaruesi privat. Dispozitat e këtij ligji në lidhje me paraqitjen, imazhin dhe përmbajtjen e legjislacionit, kryerjen e detyrës, përgjegjësive dhe masave disiplinore të përmbaruesit privat, mos pajtueshmërisë me veprimet përmbarimore, kontrollin e punës së përmbaruesit privat dhe shkarkimin nga detyra të përmbaruesit privat vlejnë në mënyrë të njëjtë edhe për zëvendësuesin e përmbaruesit privat.
+2. Zëvendësuesi i përmbaruesit privat është i autorizuar të përmbarojë kërkesën për zbatimin e e akteve zyrtare të adresuara për përmbaruesin privat që zëvendësohet. Ai informon kreditorin për zëvendësimin.
+3. Përmbaruesi privat i cili duhet zëvendësuar i jep zëvendësuesit të përmbaruesit privat qasjen në të dhënat e tij siç kërkohet për zëvendësimin.
+4. Në rast të zëvendësimit për shkak të vdekjes, sëmundjes apo mungesës së përmbaruesit privat, zëvendësuesi mundet të vazhdojë me dorëzimin e të dhënave të përmbaruesit privat gjë e cila është objekt i marrëveshjes me këtë të fundit.
+5. Pas skadimit të zëvendësimit, paragrafi 3. vlen përshtatshmërish edhe për ish zëvendësuesin e përmbaruesit privat përkitazi me përmbaruesin privat të zëvendësuar.
+6. Gjatë kryerjes së detyrave zyrtare zëvendësuesi i përmbaruesit privat e deklaron kapacitetin e vet veprues. Në rast të shkarkimit nga detyra ai nuk përmend vetëm emrin e tij por edhe emrin dhe vendin e ushtrimit të praktikës së përmbaruesit privat të cilin e zëvendëson.

@@ -1,0 +1,5 @@
+# Neni 39
+Përmbarimi ndaj debitorit me përgjegjësi solidare
+1. Në qoftë se në bazë të dokumentit përmbarimorë dy apo më tepër debitor janë përgjegjës solidar, organi përmbarues, kundër tyre do të nxjerrë vetëm një aktvendim për përmbarimin, me të cilin bëhet sekuestrimi i llogarisë së debitorëve në shumat e caktuara me anë të aktvendimit apo urdhrit për përmbarimin.
+2. Propozuesi mund ta caktojë në propozimin për përmbarimin radhën e debitorëve sipas të cilës do të bëhet marrja e mjeteve nga debitorët, e në qoftë se ai nuk e ka bërë këtë, marrja e mjeteve do të bëhet sipas asaj radhe që janë përmendur debitorët në propozimin për përmbarim.
+3. Nëse në rastin nga paragrafi 2. i këtij neni nuk ka mjete të mjaftueshme në xhirollogarinë e debitorit për përmbushjen e detyrimit, organi përmbarues do të aplikojë vendimin përmbarues kundër pasurisë së debitorit tjetër solidar. Nëse është e nevojshme për arsye të juridiksionit që të dërgohet rasti në organin përmbarues tjetër, organi përmbarues do ta bëj këtë me shpejtësi me një raport për nivelin e përmbarimit të përfunduar gjer në atë moment.

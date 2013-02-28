@@ -1,0 +1,4 @@
+# Article 297
+Repeating obstruction of possession
+1. If enforcement is completed based on enforcement document, issued upon the claim due to obstruction of possession, or if the debtor has voluntarily fulfilled his obligation, and after this again obstructs the possession which in essence does not differ from the previous obstruction, the enforcement body upon proposal from enforcement requester, based on the same enforcement document will issue new enforcement decision or writ, with the purpose of restitution to the previous state if needed, and will threaten the debtor with fine if he again commits obstruction of possession. Provisions of Article 290 of this law shall be accordingly applied.
+2. Proposal for enforcement from paragraph 1 of this Article, the enforcement requester may submit within thirty (30) days from the day of finding out on the repeating obstruction of possession, but at latest within one (1) year from the repeated obstruction.

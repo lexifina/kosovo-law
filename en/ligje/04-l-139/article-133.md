@@ -1,0 +1,5 @@
+# Article 133
+Depositing of money with the enforcement body
+1. Debtor of the debtor, to whom the enforcement decision or enforcement writ or special decision for transfer is delivered, shall fulfill his obligation by depositing an amount of money or securities with the enforcement body.
+2. If, for the purpose of settlement of credit in transferred money, creditor should have initiated court procedure or other procedure, the court or other body which conducts the procedure, in a decision by which approves the request of enforcement creditor, will order debtor’s debtor that the obligated amount deposits with the enforcement body;
+3. Based on the decision ordering the debtor’s debtor to deposit an mandatory amount to the enforcement body, upon proposal of the enforcement creditor to whom the credit is transferred, the enforcement shall apply against debtor’s debtor and realized money by this enforcement after ex officio payment of procedural costs, will be delivered to the enforcement body.

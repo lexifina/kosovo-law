@@ -1,4 +1,0 @@
-# Neni 182
-Pronarët e pasurisë së përbashkët
-182.1 Dispozitat e neneve 180 dhe 181 të këtij ligji në mënyrë të përshtatur zbatohen edhe për pronarët (bashkëpjesëtarët) e pasurisë së përbashkët. Në qoftë se midis debitorit të përmbarimit dhe pronarëve të tjerë të pasurisë së përbashkët ka mosmarrëveshje lidhur me të drejtat e tyre në paluajtshmërinë e përbashkët, atëherë gjykata pronarin e pasurisë së përbashkët i cili i konteston të drejtat e debitorit për paluajtshmërinë e përbashkët, e udhëzon që të drejtat e veta t’i vërtetoj në procedurë kontestimore.
-182.2 Në procesin kontestimor të filluar me padi, si dhe lidhur me të drejtat e pronarëve që në të ta kërkojnë shtyrjen e procedurës së përmbarimit, në mënyrë të përshtatur zbatohen dispozitat e këtij ligji, me të cilat është rregulluar veprimi i gjykatës sipas prapësimit të personit të tretë.

@@ -1,0 +1,9 @@
+# Neni 234
+Çmimi i shitjes së paluajtshmërisë
+1. Në seancën e parë të ankandit të shitjes paluajtshmëria nuk mund të shitet me çmimin që është më i ulët se tetëdhjetë përqind (80%) e vlerës së përcaktuar. Ofertat fillestare për seancën e parë, që janë më të vogla se tetëdhjetë përqind (80%) së përcaktuar nuk do të shqyrtohen.
+2. Pa pëlqimin e personave të cilët në procedurën përmbarimore e kanë të drejtën që t’i realizojnë kreditë e tyre para kreditorit, paluajtshmëria në seancën e ankandit nuk mund të shitet për çmimin i cili nuk e mbulon as pjesërisht shumën e kredisë së propozuesit të përmbarimit.
+3. Në qoftë se paluajtshmëria nuk ka mundur të shitet në seancën e parë, organi permbarues do ta caktojë seancën e dytë brenda afatit prej tridhjetë (30) ditësh.
+4. Organi përmbarues e cakton seancën e dytë brenda afatit prej tridhjetë (30) ditësh edhe kur tre (3)ofertuesit më të volitshëm në seancën e parë nuk e kanë paguar çmimin blerës, brenda afateve të caktuara.
+5. Në seancën e dytë paluajtshmëria nuk mund të shitet për çmimin që është më i vogël se gjysma e vlerës së përcaktuar me konkluzionin për shitjen. Oferta fillestare në seancën e dytë nuk mund të jetë më e vogël se gjysma e vlerës së përcaktuar.
+6. Në qoftë se paluajtshmëria nuk shitet në seancën e dytë, organi përmbarues e cakton seancën e tretë brenda afatit prej pesëmbëdhjetë (15) deri tridhjetë (30) ditë. Në këtë seancë paluajtshmëria nuk mund të shitet me çmim me të vogël se nje e treta e vlerës së përcaktuar të paluejtshmerise.
+7. Po qe se nuk ekzistojnë persona me të drejtë parablerjeje ligjore, apo kontraktuale, atëherë personi i cili sipas këtij ligji e ka të drejtën e realizimit me prioritet të kredisë së tij nga çmimi i shitjes, e fiton të drejtën e parablerjes së paluajtshmërisë me çmimin e arritur në seancën e tretë.

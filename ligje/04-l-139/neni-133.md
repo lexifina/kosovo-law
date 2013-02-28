@@ -1,0 +1,5 @@
+# Neni 133
+Depozitimi i të hollave te organi përmbarues
+1. Debitori i debitorit të cilit i është dorëzuar aktvendimi për përmbarimin, apo urdhri për përmbarim, ose aktvendimi i posaçëm për kalimin, e përmbushë obligimin e vet duke depozituar shumën e të hollave, apo letrat me vlerë, te organi përmbarues.
+2. Në qoftë se me qëllim të realizimit të kredisë në të holla të kaluara, kreditori është dashur të fillojë procedurë gjyqësore apo procedurë tjetër, atëherë Gjykata apo organi tjetër që zhvillon procedurën, në vendimin me të cilin e miraton kërkesën e kreditorit të përmbarimit do ta urdhërojë debitorin e debitorit që shumën e detyruar ta depozitoj te organi përmbarues.
+3. Në bazë të vendimit me të cilin debitori i debitorit është urdhëruar që shumën e detyruar ta depozitoj te organi përmbarues, sipas kreditorit të propozuesit të përmbarimit në të cilin është bartur kredia, do të zbatohet përmbarimi kundër debitorit të debitorit dhe të hollat e realizuar me këtë përmbarim pas pagimit të shpenzimeve procedurale sipas detyrës zyrtare, do t’i dërgohen organit përmbarues.

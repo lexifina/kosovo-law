@@ -1,0 +1,13 @@
+# Article 15
+Fines in enforcement procedure
+1. Fines provided by this article may be imposed through a court decision for any action or omission violating provisions of this law or violation of the enforcement body decision issued pursuant to this law. These fines may be imposed by the court ex officio and based on justified proposal of private enforcement agent if all conditions for sentencing the fine have been met in the procedure carried by the private enforcement agent.
+2. Fines may be imposed against physical persons in enforcement procedure in amount from one hundred (100) to one thousand (1000) Euro, or against legal persons in amount from one thousand (1000) to ten thousand (10.000) Euro.
+3. Fine in amount of five hundred (500) to two thousand and five hundred (2500) Euro may be also imposed against responsible person of the legal person.
+4. Fines from paragraphs 2 of this Article may be imposed repeatedly, if the debtor does not act upon repeated order of the court or private enforcement agent or continues to act in contrary to such order.
+5. Before imposing the fine, the court shall allow the party against whom the fine was imposed, to make a statement, and when considered appropriate by the court, the court may schedule a session for the purpose of collecting evidence.
+6. The fine shall be imposed by the court considering all circumstances of the concrete case, especially the economic means of the party and significance of action that the party has expected to perform. The decision on fine shall provide the deadline for paying the fine.
+7. Fined person may appeal against the decision within seven (7) days from delivery.
+8. Fined person should pay the expenses incurred with the sentence and enforcement of this fine.
+9. After the enforcement of decision, the fine shall be realized ex officio by the enforcement body, in benefit of the current account used for funding the court. Enforcement expenses burden the court budget, while the payment of such costs determined by the conclusion, is applied in the procedure of forced settlement of fine.
+10. The fine may be also sentenced and enforced against the debtor and other physical persons, and against responsible person of legal person if they refuse to provide data about the wealth of the debtor, and if their actions and behaviors are in contradiction with the order of enforcement authority, or if they damage or reduce the wealth of debtor, or if they obstruct the enforcement authority in the commission of enforcement activities.
+11. Imposed fine according to the provisions of this article may not be turned to imprisonment.

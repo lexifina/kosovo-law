@@ -1,0 +1,4 @@
+# Article 265
+Registration of the pledge and the indication of the dispute
+1. If there is an evidence in the public record of real estates about registration of the pledge right, whereas the person on whose favor the foresight is registered, proves that the contested procedure is in the process in order to justify it, respectively that there is still time for initiation of this procedure, the credit which involves the foresight will be paid according to the way in which the credit is paid with an incentive condition.
+2. The credit which is recorded in the public record of real estates for the initiation of the contested process for the purpose of canceling the right of the pledge, or notification about different dispute, is settled in the manner in which the claim is settled depending on the conditions of settlement.

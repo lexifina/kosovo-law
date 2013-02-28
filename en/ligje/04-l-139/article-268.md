@@ -1,0 +1,6 @@
+# Article 268
+Appeal against the decision
+1. If the necessity of holding the enforcement body division session does not derive from this law, the enforcement body will publish in information board the decision or order for settlement of credits. After the third day from the publication in the information board, it shall be considered that the decision or order is delivered to all persons who have the right of settling their credits from the price of the sold real estate.
+2. Against the decision or order for settlement of credits the parties and persons who have alleged settlement of their credits from price of the sold real estate have the right to appeal.
+3. If an appeal against the decision or order for settlement of credits is filed within legal deadline, it shall be delivered to the parties and other participants in the enforcement procedure, while the decision or order will be enforced if the creditor within three (3) days from the day of delivery of appeal to him does not propose the postponement of enforcement until the moment of issuance of the second instance court decision.
+4. Enforcement of the decision or order for settlement of credits is conducted after the expiration of time-limit for filing of appeal from the persons who has the right to appeal against it.

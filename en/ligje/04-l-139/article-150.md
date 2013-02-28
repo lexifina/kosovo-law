@@ -1,0 +1,5 @@
+# Article 150
+Sequestration with consent of the debtor
+1. Debtor is entitled to give his consent through certified document for the purpose of settlement of the creditor’s request through sequestration of a part of his personal incomes and direct payment to his creditor, in the manner provided in such document.
+2. Document from paragraph 1 of this article has legal effect of enforcement decision or writ.
+3. The document from paragraph 1 of this article, which affects the delivery of enforcement decision or enforcement writ, shall be delivered to the employer of debtor by the creditor through registered letter. Exceptionally from the provisions of paragraph 1 of this article, sequestration based on consent of debtor does not produce legal effects in application of enforcement on personal incomes for settling the credit, based on legal nutrition, compensation of the caused damage, breach of health, decrease respectively loss of working ability and rewarding for damage based on loss of nutrition due to the death of nutrition provider.

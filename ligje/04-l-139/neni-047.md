@@ -1,0 +1,10 @@
+# Neni 47
+Dorëzimi i aktvendimit për përmbarimin dhe urdhri për përmbarim
+1. Për dorëzimin e aktvendimit për përmbarim apo urdhrit për përmbarim zbatohet neni 18 i këtij ligji.
+2. Aktvendimi për përmbarimin apo urdhri për përmbarim i dërgohet kreditorit dhe debitorit apo përfaqësuesve të tyre. Aktvendimi me të cilin hedhet poshtë apo refuzohet propozimi për përmbarim i dërgohet vetëm kreditorit.
+3. Në qoftë se kreditori për realizimin e kredisë së tij e propozon përmbarimin për pasurinë në të cilën debitori e ka të drejtën e bashkëpronësisë ose të pronësisë së përbashkët, organi përmbarues për aktvendimin e dhënë i njofton të gjithë bashkëpronarët, respektivisht titullarët e së drejtës së pronësisë së përbashkët.
+4. Aktvendimi për përmbarimin apo urdhri për përmbarim mbi kredinë në të holla të debitorit i dërgohet edhe debitorit të debitorit, kurse aktvendimi për përmbarimin apo urdhri për përmbarim për mjetet në llogarinë rrjedhëse të debitorit i dërgohet edhe bankës.
+5. Aktvendimi për përmbarimin apo urdhri për përmbarim në llogari bankare i dërgohet bankës pasi që të bëhet i formës së prerë, përveçse kur përmbarimi është caktuar në bazë të kambialit dhe çekut me protestë dhe faturë kthyese, po qe se janë të nevojshme për themelimin e kredisë.
+6. Aktvendimi për përmbarimin apo urdhri për përmbarim i dhënë në bazë të kambialit dhe çekut u dërgohet palëve menjëherë pas nxjerrjes, me qëllim të sekuestrimit të mjeteve në llogarinë rrjedhëse të debitorit.
+7. Aktvendimi për përmbarimin apo urdhri për përmbarim për sendet e luajtshme i dorëzohet debitorit me rastin e kryerjes së veprimit të parë përmbarimorë. Po qe se sendi i luajtshëm nuk ndodhet në posedimin e debitorit, atëherë vendimi apo urdhri i dorëzohet edhe personit te i cili ndodhet sendi i tillë.
+8. Aktvendimi për përmbarim apo urdhri për përmbarim për sendet e paluajtshme i dërgohet debitorit dhe kadastrës në territorin ku gjendet prona për regjistrimin e të drejtave në paluajtshmëri. Po qe se prona e paluajtshme nuk ndodhet në posedimin e debitorit, atëherë aktvendimi i dorëzohet edhe personit në posedim të pronës së paluajtshme.

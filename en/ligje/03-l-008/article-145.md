@@ -1,4 +1,0 @@
-# Article 145
-Obligation of sending data for account
-145.1 Court with the execution decision will oblige the bank to send a notification about all changes in debtor’s account, if there are no means in account or if the existing ones are not sufficient for fulfillment of the credit assigned by the execution decision. Notification covers changes in debtor’s account in time period of 30 days, from the day of delivery of execution decision and it should contain each transaction in account, including withdrawal of cash money, deduction of means or withdrawal from debtor’s account, and also their transfer within bank or between banks.
-145.2 Data which the bank sent to court and which has to do with transfer of monetary mean between banks should contain amongst others the name of recipient and the account number of accepting bank.

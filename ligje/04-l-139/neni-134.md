@@ -1,0 +1,6 @@
+# Neni 134
+Autorizimet e kreditorit të përmbarimit
+1. Me kalimin e kredisë me qëllim arkëtimi, dhe për qëllim të njoftimit të debitorit të debitorit për transferimin, autorizohet kreditori që të kërkojë nga debitori i debitorit përmbarimor pagimin e shumës së shënuar në aktvendimin apo urdhrin e përmbarimit, apo në aktvendimin e posaçëm për kalimin, në qoftë se kjo shumë është bërë e kërkueshme, t’i kryejë të gjitha veprimet e nevojshme për ruajtjen dhe realizimin e kredisë së kaluar, si dhe t’i shfrytëzojë të gjitha të drejtat lidhur me pengun të dhënë për sigurimin e kredisë së këtillë.
+2. Me kalimin e kredisë me qëllim arkëtimi, kreditori nuk ka të drejtë që në barrë të debitorit të lidhë ujdi, apo që debitorit të debitorit t’ia falë borxhin, ose që të disponoj me kredinë e kaluar, si dhe që me debitorin e debitorit të merret vesh që vendimin për kredinë, po qe se është kontestuese ajo ta nxjerrë arbitrazhi.
+3. Kreditorit në të cilin është bartur kredia për arkëtim, debitori i debitorit mund t’ia bëjë vetëm ato prapësime që do të mund t’ia bënte debitorit.
+4. Cedimi i kredisë së bartur i bërë nga debitori pas kalimit të saj, nuk ka efekt juridik kundrejt të drejtave që i ka fituar kreditori në momentin e kalimit të saj.

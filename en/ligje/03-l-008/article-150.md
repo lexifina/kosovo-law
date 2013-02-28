@@ -1,5 +1,0 @@
-# Article 150
-Execution towards debtor with solidar responsibility
-150.1 If in the basis of execution document two or more debtors are solidary responsible, then the court upon request from the execution proposer, against them issues only one execution decision by which is conducted sequestration of the debtors account in amounts assigned in the execution decision.
-150.2 Proposer might assign in the execution proposal the order of debtors according to which will be conducted taking of means by debtors, and if he fails to do so, the taking of means will be conducted according to the order in which the debtors are mentioned in the execution proposal.
-150.3 If in the case from paragraph 2 of this article in the debtor’s account are not sufficient means for fulfillment of obligation, bank will sent the execution decision for application to the bank of other solidar debtor, together with the report for committed execution up to that moment, and for this it will inform the court without delay.

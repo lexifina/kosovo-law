@@ -1,4 +1,0 @@
-# Neni 145
-Detyrimi i dërgimit të të dhënave për llogarinë
-145.1 Gjykata me anë të aktvendimit për përmbarimin do ta detyrojë bankën që të dërgojë njoftimin për të gjitha ndryshimet në llogarinë e debitorit, po qe se nuk ekzistojnë mjete në llogarinë apo nëse ato që ekzistojnë nuk janë të mjaftueshme për përmbushjen e kredisë së caktuar me aktvendimin për përmbarimin. Njoftimi i përfshinë ndryshimet në llogarinë e debitorit për periudhën kohore prej 30 ditësh, nga dita e dorëzimit të aktvendimit për përmbarimin dhe duhet ta përmbajë secilin transaksion në llogarinë, përfshire tërheqjen e parave të gatshme, derdhjen e mjeteve apo tërheqjen e tyre nga llogaria e debitorit, si dhe kalimin e tyre brenda bankës apo ndërmjet bankave.
-145.2 Të dhënat të cilat banka ia dërgon gjykatës e që kanë të bëjnë me kalimin e mjeteve monetare ndër-bankare duhet të përmbajnë përveç tjerash, emrin e marrësit dhe numrin e llogarisë në bankën pranuese.

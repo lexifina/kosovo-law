@@ -1,0 +1,6 @@
+# Neni 294
+Detyrimi për durim dhe mosveprim
+1. Në qoftë se debitori është i detyruar ta duroj kryerjen e ndonjë veprimi, ose të përmbahet nga kryerja e veprimit, organi përmbarues sipas propozimit të kreditorit që pretendon se debitori vepron në kundërshtim me detyrimin e tij, me aktvendim apo urdhër e urdhëron debitorin që të sillet në pajtim me detyrimin që e ka dhe e kërcënon me gjobë në të holla. Gjobat do të zbatohen në rast të mos përmbushjes së obligimeve në pajtim me nenet 15 dhe 16 të këtij ligji.
+2. Kreditori mund t’i parashtrojë Gjykatës propozim që debitorit t’i caktohet gjoba nga shkaku se ai përkundrejt urdhëresës së organit përmbarues ka vazhduar të veprojë në kundërshtim me detyrimin e tij. Ky propozim mund të bëhet brenda afatit prej pesëmbëdhjetë (15) ditësh nga marrja e dijenisë për sjelljen e tillë të debitorit, por më së voni brenda afatit prej një viti nga shkelja e detyrimit.
+3. Pas skadimit të afateve nga paragrafi 2 i këtij neni, organi përmbarues me aktvendim e refuzon propozimin për shqiptimin e gjobës në të holla dhe e pezullon procedurën, kurse kreditori e humbë të drejtën e paraqitjes së propozimit të ri për përmbarim, në bazë të të njëjtit dokument përmbarues.
+4. Për procedurën e përmbarimit nga paragrafi 1. i këtij neni, përshtatshmërish zbatohen dispozitat e nenit 293 të këtij ligji.

@@ -1,0 +1,7 @@
+# Article 360
+Professional committee for evaluation of enforcement
+1. In order to ensure that evaluation of enforcement is performed continuously and that oversight of the activities of the enforcement agents does not endanger their unhindered work, Minister appoints the Professional committee for evaluation of enforcement (hereinafter Committee) of seven (7) members and their deputies. Members and deputy members of the Committee are appointed for a period of four (4) years.
+2. The Minister appoints members and deputy members of the Committee from the ranks of: basic court (two (2) members and deputy members); Court of Appeals (one (1) member and one (1) deputy member); Supreme Court (one (1) member and one (1) deputy member); Judicial Council (one (1) member and one (1) deputy member); Faculty of Law (one (1) member and one (1) deputy member); Ministry of Justice (one (1) member and one (1) deputy member).
+3. Members and deputy members of the basic court, Court of Appeals and the Supreme Court are proposed by the Judicial Council.
+4. The Chairperson of the Committee is elected by the members of the Committee in a secret ballot with majority of votes of the overall number of the members of the Committee, in its constitutive meeting.
+5. For performance of the professional and administrative work for the Committee, the Ministry of Justice shall appoint officials from among the employees of the Ministry of Justice.

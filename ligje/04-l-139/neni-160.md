@@ -1,0 +1,5 @@
+# Neni 160
+Përmbarimi ndaj debitorit me përgjegjësi solidare
+1. Në qoftë se në bazë të dokumentit përmbarimorë dy apo më tepër debitor janë përgjegjës solidar, atëherë organi për përmbarim sipas kërkesës së kreditorit, kundër tyre e nxjerrë vetëm një aktvendim për përmbarimin ose urdhrin për përmbarim, me të cilin bëhet sekuestrimi i llogarisë së debitorëve në shumat e caktuara me anë të aktvendimit për përmbarimin ose urdhrin për përmbarim.
+2. Propozuesi mund ta caktojë në propozimin për përmbarimin radhën e debitorëve sipas të cilës do të bëhet marrja e mjeteve nga debitorët, e në qoftë se ai nuk e ka bërë këtë, marrja e mjeteve do të bëhet sipas asaj radhe që janë përmendur debitorët në propozimin për përmbarim.
+3. Në qoftë se në rastin nga paragrafi 2. i këtij neni, në llogarinë e debitorit solidar nuk ka mjete të mjaftueshme për përmbushjen e detyrimit, banka ia dërgon aktvendimin për përmbarimin ose urdhrin për përmbarim për zbatim bankës së debitorit tjetër solidar, bashkë me raportin për përmbarimin e kryer deri në atë moment, dhe për këtë ajo duhet ta njoftojë pa vonesë edhe organin përmbarues.

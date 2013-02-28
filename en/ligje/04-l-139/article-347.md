@@ -1,0 +1,5 @@
+# Article 347
+Liability for the damage
+1. The private enforcement agent shall be liable for the damage inflicted during the performance of enforcement actions and as a result of his negligence or of the negligence of the persons working under his responsibility as mentioned in Article 338 of this law.
+2. The private enforcement agent shall provide personal insure for the period of his activity and for the period not less than three (3) years following the transfer, revocation or retirement from profession, against the damages that may result from failure to accomplish his tasks or failure of individuals working under his responsibility as mentioned in Article 338 of this law.
+3. Minimum required insurance policy the enforcement agent must hold for damages that the enforcement agent may cause against the creditor, debtor, third parties or any other person during his service, shall be one hundred thousand (100.000) Euro or ten percent (10%) of the total value of registered decisions but not concluded by his/her Office.

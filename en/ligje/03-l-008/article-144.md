@@ -1,7 +1,0 @@
-# Article 144
-Compulsory execution
-144.1 Execution for realization of the monetary credit against the execution debtor might be applied for all monetary means that he has in his bank accounts, except cases when by the law is foreseen otherwise.
-144.2 With the execution decision in monetary means that are evidenced in the transaction account of debtor, the bank is ordered that the amount of money for which the execution is assigned, to transfer from transaction account of debtor to transaction account of execution proposer, while for credits which is not foreseen payment through bank account to pay such amount to the execution proposer in cash.
-144.3 Execution for monetary credit, which according to the deposited savings, flowing account, or account, valute account, or any other account in the bank excluding the transaction account of debtor, belongs to the execution debtor and it is assigned that way that through execution decision, bank is ordered that the amount of the money for which is assigned execution to pay to execution proposer as soon as the execution decision becomes final.
-144.4 Decision from paragraph 3 of this article, has the effects of execution decision by which is assigned sequestration of monetary credit and its transfer for encashment.
-144.5 In execution decision from paragraph 1, 2, and 3 of this article, it is noted the number of the debtor’s account from which the payment should be conducted, or other manner of commission of payment.

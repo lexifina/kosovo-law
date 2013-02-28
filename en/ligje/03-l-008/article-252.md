@@ -1,6 +1,0 @@
-# Article 252
-Appeal against the decision
-252.1 If the necessity of holding the court division session does not derive from this law, the court will publish in announcement board the decision for realization of credits. Upon expiration of the third day from the day of publication in the announcement board it is considered that the decision is delivered to all persons who have the right of realization of their credits from the price of the sold immovable item.
-252.2 Against the decision for realization of credits the right to appeal has the parties and persons who have alleged realization of their credits from price of the sold immovable item.
-252.3 If an appeal against the decision for realization of credits is filed within legal time-limit, the it is delivered to the parties and other participants in the execution procedure, while the decision will be executed if execution proposer within three days time-limit from the day of delivery of appeal to him does not propose the adjournment of execution until the moment of issuance of the second instance court decision.
-252.4 Execution of the decision for realization of credits is conducted after the expiration of time-limit for filing of appeal from the persons who has the right to appeal against it..

@@ -1,0 +1,9 @@
+# Article 280
+Procedure when the items are not found
+1. When the substitute items are not found with the debtor or third person, the enforcement requester may propose that enforcement is applied by the authorization of the enforcement body within the deadline to purchase such items on the debtor’s expenses.
+2. The proposal to purchase the items may be submitted by the enforcement requester within seven (7) days from the day when the enforcement body has informed him that items were not found with the debtor or with the third person.
+3. Upon proposal of the enforcement requester, the enforcement body by decision or order shall order the debtor deposit within the deadline to the enforcement body the amount of money needed for purchase of items and shall assign the enforcement for payment of this amount with interest-delay from the day of evaluation of items until the day of deposition of the amount with the enforcement body.
+4. The enforcement requester has a duty that in proposal from paragraph 1 of this Article assign an enforcement mean with the purpose of payment of the needed amount for purchase of substitute items.
+5. Enforcement of the decision or order from paragraph 1 and 3 of this Article is conducted only after it becomes final.
+6. If the enforcement requester within the deadline from paragraph 2 of this Article has not submitted the proposal for purchase of items, the enforcement body shall suspend the enforcement procedure except when the enforcement requester has timely submitted the proposal that debtor should pays him the value of items for which he was obliged to hand over.
+7. If during the conduct of the procedure the value of the substitute items has changes, the enforcement requester may request the enforcement body to provide new evaluation and may order the debtor to pay the difference in value.

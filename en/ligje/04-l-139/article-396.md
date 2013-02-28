@@ -1,0 +1,9 @@
+# Article 396
+Exams
+1. The content of the examination for the private enforcement agent shall be closely defined with regulation passed by the Minister of Justice, and shall ensure the knowledge of the private enforcement agents on all matters of public and private law and court procedure of relevance to their professional activities.
+2. The examination shall be publicly announced at least one (1) month prior to its administration, and all members of the public shall be invited to participate.
+3. The candidate who takes the examination for private enforcement agent shall compensate the expenses for taking the examination.
+4. The Minister of Justice determines the amount of the realistic expenses for taking the examination, including the amount necessary for preparing and administering the written part of the examination, preparation and delivery of materials and invitations, preparation of certificates and compensation of the work of the members and the secretary of the examining committee.
+5. If the expenses are not paid at the appropriate account of the Ministry of Justice prior to fifteen (15) days before the day schedule for the start of the examining session, the candidates will not be allowed to take the examination. If the candidate within one (1) year from the day of the payment of the examination cost has not taken the exam, the payment shall be returned to the candidate.
+6. The Minister shall appoint to positions as agents the candidates with the highest scores on the examination, unless there is some specific disability among the criteria for appointment identified in this Law that renders their appointment inappropriate. The Minister shall inform candidates of the scores achieved on the examination and shall inform unsuccessful candidates of the specific reason for their non-appointment.
+7. The Minister shall announce the appointments within one (1) month of the administration of the examination.

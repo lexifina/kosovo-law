@@ -1,0 +1,5 @@
+# Neni 163
+Përmbarimi për realizimin e kredisë në valutë të huaj
+1. Në qoftë se kredia e konstatuar në dokumentin përmbarues përbëhet nga të hollat në valutë të huajë dhe po qe se debitori e ka llogarinë devizore në valutë të tillë, me aktvendimin për përmbarimin ose urdhrin për përmbarim urdhërohet banka të e cila ndodhet llogaria devizore e debitorit, që ta bartë shumën përkatëse në valutë të huajë, nga llogaria e debitorit në llogarinë e kreditorit, ose që pagesën në valutë të huaj ta bëjë në ndonjë mënyrë tjetër të lejueshme me ligj.
+2. Kreditori mund të kërkojë që përmbarimi për përmbushjen e kredisë së tij në valutën e huajë të caktuar, të lejohet dhe zbatohet në llogaritë tjera, apo në sendet tjera të debitorit, si përmbarim për realizimin e kredisë së tij në shumën që është e nevojshme për blerjen e mjeteve devizore të detyruara nga personi i autorizuar.
+3. Dispozitat e paragrafit 1. dhe 2. të këtij neni, zbatohen edhe në rastet në të cilat përmbarimi caktohet kundër debitorëve që nuk janë persona juridik.

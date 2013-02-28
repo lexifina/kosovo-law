@@ -1,0 +1,4 @@
+# Article 16
+Fines for delaying the enforcement
+1. When the debtor fails to fulfill within any monetary or non-monetary obligation within the given deadline determined by the enforcement document, ex officio or upon the proposal of the creditor shall assign a date no less than three (3) days after the date for voluntary settlement, when fines start to accrue if not settled by the assigned date.
+2. The fine for each day of delay shall be no less than five (5) Euros but not more than fifty (50) Euros for a natural person, and no less than fifty (50) Euros but not more than five hundred (500) Euros for a legal person. Fines will accrue each day or other time period of delay, in accordance with the Law of Obligations, from the deadline expiration date for settling the obligation, until the settlement is completed.

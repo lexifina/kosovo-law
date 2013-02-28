@@ -1,0 +1,3 @@
+# Article 311
+Registration of item’s other rights when debtor is not registered as owner
+When upon the enforcement document the creditor is authorized to request registration of the right of pledge against the debtor, or any other right on items in real estate except the right of ownership, while the debtor is not registered as owner of real estate, the enforcement creditor may request through the enforcement proposal that the right of ownership be registered in debtor’s name followed by the registration of the right of creditor, if he presents evidence, in accordance with the provisions for registration of the rights in real estate, which show that the debtor has gained the right of ownership on such real estate.

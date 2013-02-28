@@ -1,0 +1,5 @@
+# Article 145
+Enforcement when the right to legal nutrition belongs to more persons
+1. If the right to legal nutrition respectively the right of rent for lost nutrition because of the death of nutrition provider towards the same debtor held by several persons, while the overall amount of their requests exceeds the part of personal incomes which may be the object of compulsory enforcement, the enforcement shall be assigned and applies in benefit of each of them, proportionally with the extent of their requests.
+2. If after the initiation of the application of the enforcement in personal incomes, respectively for other permanent monetary incomes, there is a new proposal for enforcement for credit from paragraph 1 of this article, the enforcement body will amend ex officio previously issued enforcement decision or writ in the sense of paragraph 1 of this article and will assign the amount which will in the future be paid to each of the creditors.
+3. In the case from paragraph 2 of this article the enforcement decision or enforcement writ should be also delivered to previous creditor, who has the right of objection against this decision or order.

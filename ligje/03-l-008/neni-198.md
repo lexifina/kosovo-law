@@ -1,5 +1,0 @@
-# Neni 198
-Kontrata e qirasë për sendet e paluajtshme
-198.1 Kontrata e qirasë për sendet e paluajtshme që janë lidhur dhe regjistruar në librin publik të paluajtshmërive para fitimit të së drejtës së pengut apo të drejtës së përmbushjes për realizimin e të cilës propozohet përmbarimi, nuk shuhen me faktin e shitjes së paluajtshmërisë.
-198.2 Kontratat e qirasë që nuk janë regjistruar në librin publik të paluajtshmërive para fitimit të së drejtës së pengut apo të drejtës së përmbushjes për realizimin e të cilës propozohet ekzekutimi, shuhen në momentin kur bëhet i formës së prerë aktvendimi për shitjen e paluajtshmërisë, po qe se midis blerësit dhe qiramarrësit nuk është kontraktuar ndonjë gjë tjetër.
-198.3 Qiradhënësi i mëparshëm përgjigjet për gjithë dëmin që e ka pësuar qiramarrësi me shuarjen e kontratave nga paragrafi 2 i këtij neni. Qiramarrësi nuk ka të drejtë të kërkojë shpërblimin e dëmit në procedurën e përmbarimit.

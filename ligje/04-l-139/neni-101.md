@@ -1,0 +1,7 @@
+# Neni 101
+Seanca e dytë e shitjes publike
+1. Me propozimin nga palët, organi përmbarues e cakton ankandin e ri në të cilin sendet e sekuestruara mund të shiten me çmim jo më të vogël se sa pesëdhjetë përqind (50%) e çmimit të përcaktuar gjatë vlerësimit të tyre.
+2. Propozimin për ankandin tjetër, ose për shitjen me anë të ujdisë së drejtpërdrejtë, pala mund ta paraqesë brenda afatit prej pesëmbëdhjetë (15) ditësh, nga dita e ankandit të parë, respektivisht nga dita e skadimit të afatit të caktuar nga organi përmbarues për shitje me anë të ujdisë së drejtpërdrejtë. Ankandi i dytë mbahet brenda tridhjetë (30) ditëve të propozimit për ankandin e dytë.
+3. Dispozitat e paragrafit 1. të këtij neni, zbatohen në mënyrë të përshtatshme edhe kur sendet e sekuestruara nuk kanë mundur të shiten në vlerën e çmuar me anë të ujdisë së drejtpërdrejtë në afatin e caktuar nga organi përmbarues.
+4. Në qoftë se pasuritë nga paragrafi 1. i këtij neni nuk shiten brenda afatit prej gjashtëdhjetë (60) ditësh nga dita e ofertës së parë për shitje apo në rast të tentimit të pasuksesshëm për shitje nga paragrafi 2., atëherë kreditori mund të kërkojë transferimin e sendeve në pronësi të tij, për mbulim të pjesshëm apo të plotë të kredisë në çmim të vlerësuar të atyre sendeve.
+5. Dispozitat e lartë përmendura të këtij neni do të aplikohen përshtatshmërish edhe për shitjen e sendeve të sekuestruara përmes marrëveshjes së drejtpërdrejt.

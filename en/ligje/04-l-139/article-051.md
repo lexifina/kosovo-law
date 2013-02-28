@@ -1,0 +1,6 @@
+# Article 51
+Actions of the enforcement authority
+1. During the conduct of enforcement actions in the house of debtor, where neither the debtor, his legal representative or authorized representative or an adult person from the debtor’s family is present, at least two (2) adult citizens should be present there.
+2. Enforcement in business premises or in other premises of legal person shall be done during the working hours and in presence of the person assigned by competent organ of the legal person, and should the latter fails to assign such person, the enforcement action shall be conducted with presence of at least two (2) adult citizens.
+3. When the enforcement action is to be conducted in a premise that is locked, whilst the debtor is not present or does not agree to open the premise, the enforcement body shall open the premise in presence of one (1) adult citizen and the police.
+4. During the commission of enforcement actions according to the provisions of paragraphs 1, 2, and 3 of this article, the enforcement body should draft separate record which will be signed by present citizens, while a copy or the notification for completed enforcement action, will be attached to the doors of the house of business premise.

@@ -1,0 +1,4 @@
+# Neni 23
+Vendimi dhe ujdia
+1. Sipas këtij ligji, vendim gjyqësor konsiderohet aktgjykimi, aktvendimi, si dhe vendimi tjetër i dhënë në procedurën gjyqësore ose të arbitrazhit, kurse ujdi gjyqësore konsiderohet ujdia e arritur përpara Gjykatës dhe arbitrazhit si dhe marrëveshja e arritur në procedurën e ndërmjetësimit.
+2. Vendim i organit administrativ, sipas këtij ligji konsiderohet vendimi dhe konkluzioni i dhënë në procedurë administrative nga organi ose shërbimi administrativ apo nga personi juridik i ngarkuar me autorizime publike, kurse aktpajtim administrative konsiderohet ujdia e arritur në procedurën administrative përpara organit ose shërbimit, përkatësisht personit juridik të tillë, po qe se ka të bëjë me detyrimin në të holla dhe po qe se me ligj nuk është paraparë diçka tjetër.

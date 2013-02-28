@@ -1,0 +1,5 @@
+# Article 92
+Gaining the right of pledge
+1. Creditor gains the right of pledge for inventoried movable items.
+2. If the inventory is done in benefit of more creditors, the order of priority of the right on pledge from paragraph 1 of this article, obtained through inventory or writing in the register of inventory for the purpose of sequestration, shall be assigned according to the order of receiving enforcement proposals by the enforcement body. If such proposals have arrived to the enforcement body at the same day, the right of pledge would be considered as being of the same order.
+3. Enforcement proposal submitted to the enforcement body through registered letter shall be considered to be submitted to the enforcement body at the day it is handed over to the post office. Proposal for enforcement delivered by the enforcement body through electronic communication, if allowed by the enforcement body, shall be considered as delivered to the enforcement body on the date of transmission of electronic communication in line with the law on contested procedure.

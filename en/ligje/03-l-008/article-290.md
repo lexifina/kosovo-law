@@ -1,3 +1,0 @@
-# Article 290
-Registration of item’s other rights when debtor is not registered as owner
-When upon the execution document the execution proposer is authorized that towards debtor require registration of the right of pledge, or any other right on items in immovability except the right of ownership, whilst the debtor is not registered as owner of immovability, the execution proposer might request with the execution proposal that the right of ownership be registered in debtor’s name and afterwards be registered the right of execution proposer, if he presents evidence, in accordance with the provisions for registration of the rights in movables, from which evidence is seen that the debtor has gained the right of ownership on such immovability.

@@ -1,0 +1,9 @@
+# Article 234
+The sale price of a real estate
+1. In the first session of the auction, real estates cannot be sold with the price that is lower than eighty percent (80%) of the determined value. The starting offers for the first session that is lower than eighty percent (80%) of the determined value will not be reviewed.
+2. Without agreement of persons who have a pre-purchase right in the enforcement procedure to settle their credits before creditor, the real estates in the auction session cannot be sold at the price that cannot even partly cover the amount of a proposer’s enforcement’s credit.
+3. In case that the real estates can not be sold in the first session, the enforcement body will determined the second session in the timeframe of thirty (30) days.
+4. The enforcement body will assign the second session in the timeframe of thirty (30) days even when three (3) convenient purchasers did not pay the bill in the first session within the foreseen deadline.
+5. In the second session the real estates cannot be sold at the price that is a lower than half of the assigned value with the selling conclusion. The starting offer in the second session cannot be lower than half of the determined value.
+6. In case that the real estate is not sold even in the second session, the enforcement body will determine the third session in the timeframe of fifteen (15) to thirty (30) days. In this session the real estates cannot be sold at a price lower than one third of the determined price of the real estate.
+7. In case there are persons with the right of pre-purchase or contractual right, than the person who according to the law has right of settlement with priority of his credit from selling price, shall acquire the right of pre-purchase of the real estates at the price reached in the third session.

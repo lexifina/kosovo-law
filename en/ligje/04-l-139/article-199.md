@@ -1,0 +1,6 @@
+# Article 199
+Change of enforcement object
+1. Debtor has right within seven (7) days from the day of delivery of enforcement decision or enforcement writ to him to propose to the enforcement body the assignment of enforcement on some other object of enforcement. If the debtor proposes another object, debtor has a duty to attach respective evidence indicating that he has the alleged right for other immovable item, based on which evidence the enforcement against such immovable item may be assigned.
+2. The enforcement body will deliver debtor’s proposal to creditor who may provide a statement within seven days from the day of delivery.
+3. Within the deadline from paragraph 2. of this Article, creditor has a right to present the request for payment of the costs of initiated procedure on immovable item, and to request depositing of guarantee for reward for damage that he may suffer because of the change of enforcement object.
+4. The enforcement body shall decide on the debtor’s proposal through a decision or writ after reception of the statement from the enforcement creditor, respectively after the expiration of assigned deadline from paragraph 2. of this Article, for presenting a statement.

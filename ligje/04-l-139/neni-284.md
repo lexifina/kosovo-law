@@ -1,0 +1,6 @@
+# Neni 284
+Mënyra e zbatimit të përmbarimit
+1. Procedura e përmbarimit me qëllim të zbrazjes dhe dorëzimit të sendit të paluajtshëm zbatohet ashtu që organi përmbarues, pasi t’i largojë personat dhe sendet nga paluajtshmëria, ia dorëzon atë në posedim kreditorit të përmbarimit.
+2. Zbrazja dhe dorëzimi i paluajtshmërisë bëhet vetëm pas kalimit të shtatë (7) ditëve nga dita në të cilën debitorit i është dorëzuar aktvendimi për përmbarimin ose urdhri përmbarues, i cili nuk ka paraqitur prapësim kundër aktvendimit ose urdhrit të këtillë. Në rast se kundër aktvendimit ose urdhrit për përmbarim debitori ka paraqitur prapësim, atëherë afati shtatë (7) ditor fillon të ecë nga dita në të cilën debitorit i dorëzohet aktvendimi për refuzimin e prapësimit.
+3. Në qoftë se me largimin e personave nga paluajtshmëria janë përfshirë personat e mitur, atëherë organi përmbarues për përmbarimin në zhvillim e sipër e njofton organin e kujdestarisë.
+4. Fuqinë punëtore të nevojshme dhe mjetet për transport me qëllim të kryerjes së përmbarimit, ka për detyrë t’i sigurojë propozuesi i përmbarimit. Njoftimin lidhur me këtë, organi përmbarues duhet t’ia dërgoj kreditorit së paku shtatë (7) ditë para se të fillojë zbatimi i përmbarimit.

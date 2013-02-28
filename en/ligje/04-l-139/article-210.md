@@ -1,0 +1,5 @@
+# Article 210
+Elapsing of the right on pledge
+1. The right of pledge on real estate recorded in real estate’s public books elapses on the day when the decision or writ on selling the real estate is enforced, although it may the case that creditors secured by pledge did not entirely settle their credits, except when the agreement from paragraph 2. of this Article exists.
+2. The buyer of real estate and the creditor who is secured by pledge, at latest in the session of its selling, may agree that the right of pledge remains even after enforcement of the decision or writ on sale, while buyer shall take over the debt of the debtor in relation with that creditor in the amount due to him in the enforcement procedure. In this case, the purchase price of real estate decreases for the amount of taken debt.
+3. The buyer and the creditor secured by pledge will conclude the agreement from paragraph 2. of this Article in the form of enforcement body’s agreement in enforcement procedure or the form of notaries’ document.

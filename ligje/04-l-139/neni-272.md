@@ -1,0 +1,9 @@
+## KREU X
+## PËRMBARIMI PËR REALIZIMIN E KREDISË JO NË TË HOLLA
+# Neni 272
+Caktimi i penaleve gjyqësore
+1. Kur debitori nuk e përmbushë brenda afatit të caktuar ndonjë detyrim jo monetar të caktuar me anë të dokumentit përmbarues, organi përmbarues i cili është kompetent që ta caktojë përmbarimin për kredinë jo monetare, sipas propozimit të kërkuesit të përmbarimit, me aktvendim ose urdhër për përmbarim ia cakton debitorit afatin plotësues dhe detyrimin, në rast të mosrespektimit të afatit të këtillë që propozuesit të përmbarimit t’ia paguajë shumën e caktuar të parave për secilën ditë vonese, ose njësi tjetër kohore, në pajtim me rregullat për marrëdhëniet detyrimore që nga dita e skadimit të afatit penalet gjyqësore.
+2. Afati plotësues nga paragrafi 1. i këtij neni, fillon të ecë nga dita në të cilën debitorit i dorëzohet aktvendimi me të cilin është caktuar afati i tillë. Ecja e afatit plotësues nuk ndërpritet as kur goditet me ankesë aktvendimi për caktimin e penaleve.
+3. Kundër aktvendimit nga paragrafi 1 i këtij neni, pala ka të drejtë ankese brenda afatit prej shtatë (7) ditësh. Ankesa e paraqitur nuk prodhon efekt suspenziv.
+4. Në qoftë se debitori brenda afatit prej pesëmbëdhjetë (15) ditësh, nga dita kur bëhet i formës së prerë aktvendimi nga paragrafi 1. i këtij neni e përmbushë detyrimin e vet, organi përmbarues mund ta zvogëlojë shumën e penaleve me kërkesë të debitorit të paraqitur brenda afatit prej shtatë (7) ditësh, por duke marrë parasysh qëllimin e pagimit të penaleve. Kërkesa e debitorit nuk ndikon në lejimin e përmbarimit dhe zbatimin e tij në bazë të aktvendimit të formës së prerë për pagimin e penaleve gjyqësore nga paragrafi 1. i këtij neni.
+5. Vendimi sipas paragrafit 1. deri ne 3. të këtij neni pasi që të marr formën e prerë mund të përmbarohet në të njëjtën procedurë.

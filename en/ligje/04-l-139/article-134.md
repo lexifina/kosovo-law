@@ -1,0 +1,6 @@
+# Article 134
+Authorizations of enforcement creditor
+1. With the transfer of credit for the purpose of encashment, and with the aim of informing the debtor’s debtor on transfer, the creditor is authorized to request from the enforcement debtor’s debtor payment of the noted amount in the enforcement decision or writ, or in special decision on transfer, if this amount has become required, to commit all needed actions for preservation and settlement of the transferred credit, and to use all rights regarding the given pledge for guarantee of such credit.
+2. With transfer of credit for the purpose of encashment, creditor does not have a right that in the burden of debtor contracts settlements, or to pardon debt to the debtor’s debtor, or to dispose with the transferred credit, or to agree with the debtor’s debtor that the decision on credit, if it is disputable, to be issued by arbitration.
+3. To the creditor to whom is transferred credit for encashment, the debtor’s debtor may present only the objections which may be presented to the debtor.
+4. Cession of the transferred credit completed by the debtor after its transfer does not have legal effect towards the rights of the creditor, obtained at the moment of its transfer.

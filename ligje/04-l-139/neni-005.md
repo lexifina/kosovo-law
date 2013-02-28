@@ -1,0 +1,10 @@
+# Neni 5
+Kompetenca
+1. Përmbarimin e cakton dhe zbaton organi përmbarues i paraparë me këtë ligj, po qe se me ligj tjetër nuk është paraparë ndryshe.
+2. Gjykata kompetente ka kompetencë lëndore për të urdhëruar dhe për të kryer përmbarimin si dhe për të vendosur për çështjet gjatë procedurës në pajtim me dispozitat e këtij ligji përveç nëse Gjykatat dhe autoritetet tjera përmbaruese kanë juridiksionin për të urdhëruar dhe për të kryer përmbarimin si dhe për të vendosur për çështjet gjatë procedurës.
+3. Përmbaruesi privat nxjerr urdhër në bazë të propozimit për kryerje të përmbarimit dhe kryen përmbarimin me qëllim të plotësimit të kërkesës së debitorit në bazë të dokumentit përmbarues, përveç nëse ndryshe parashikohet me ligj që urdhëron që përmbarimi dhe kryerja e përmbarimit të bëhet brenda juridiksionit të Gjykatës.
+4. Kompetenca territoriale për të vendosur për çështjet lidhur me aplikimin e procedurave përmbarimore caktohet me dispozitat e këtij ligji, varësisht nga mjetet dhe objekti i përmbarimit, si dhe në bazë të statusit të organit përmbarues.
+5. Për të vendosur çështjet që kanë të bëjnë me çdo prapësim, ankesë, parregullsi në procedurën përmbaruese sipas nenit 52 dhe 67 të këtij ligji, ose çfarëdo lloj procedure kundër veprimeve të ndërmarra nga Përmbaruesi privat, kompetencë ka Gjykata kompetente në territorin e së cilës debitori ka vendbanimin apo nëse nuk ka vendbanim ne Kosovë, atëherë në territorin në të cilin ka vendqëndrimin nëse është person fizik. Nëse debitori është person juridik, kompetencë territoriale ka Gjykata kompetente ku gjendet selia e debitorit. Nëse debitori nuk ka vendbanim të përkohshëm ose seli në Kosovë, kompetencë ka Gjykata kompetente në territorin e se cilës gjinden sendet e luajtshme dhe të paluajtshme e të cilat janë objekt përmbarimi.
+6. Gjykata është kompetente të vendos në procedurën e përmbarimit dhe të zbatoj përmbarimin e vendimeve gjyqësore lidhur me:
+6.1. të gjitha çështjet nga e drejta familjare dhe
+6.2. kthimin e punëtorëve dhe shërbyesve civil në punë dhe kompensimet tjera.

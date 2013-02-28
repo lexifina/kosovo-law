@@ -1,6 +1,0 @@
-# Neni 260
-Kur sendet nuk janë gjetur as te debitori e as te personi i tretë
-260.1 Në qoftë se sendet nuk janë gjetur as te debitori e as te personi i tretë, gjykata në të njëjtën procedurë me propozimin e kërkuesit të përmbarimit, do të çmojë vlerën e sendeve dhe me aktvendim e urdhëron debitorin që kërkuesit të përmbarimit brenda afatit të caktuar t’ia paguajë shumën e kësaj vlere.
-260.2 Propozuesi i përmbarimit mund të parashtrojë propozimin nga paragrafi 1 i këtij neni brenda afatit prej tri ditësh nga dita e njoftimit se sendet nuk janë gjetur as te debitori e sa te personi i tretë. Në qoftë se kërkuesi i përmbarimit nuk e parashtron propozimin e tillë në afatin e caktuar, gjykata do të pezullojë përmbarimin.
-260.3 Në bazë të aktvendimit nga paragrafi 1 i këtij neni, kërkuesi i përmbarimit mund të propozojë në të njëjtën procedurë përmbarimin për pagimin e shumës së caktuar. Propozimi i tillë duhet të parashtrohet më së voni në afatin prej shtatë ditësh nga dita e nxjerrjes së aktvendimit nga paragrafi 1 i këtij neni.
-260.4 Në qoftë se propozimi nga paragrafi 3 i këtij neni nuk parashtrohet në afatin e caktuar, gjykata do të pezullojë përmbarimin dhe do të anulojë aktvendimin nga paragrafi 1 i këtij neni dhe veprimet ekzekutive të kryera.

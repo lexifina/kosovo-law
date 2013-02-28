@@ -1,0 +1,5 @@
+# Neni 347
+Përgjegjësia për dëmet
+1. Përmbaruesi privat është përgjegjës për dëmet e shkaktuara gjatë kryerjes së veprimeve përmbarimore, edhe si rrjedhojë e neglizhencës së tij apo neglizhencës së personave që punojnë nën përgjegjësinë e tij siç përmendet në nenin 338 të këtij ligji.
+2. Përmbaruesi privat siguron vetën për periudhën e aktivitetit të tij dhe për periudhë jo më pak se tre (3) vjeçare pas transferit, revokimit apo pensionimit nga profesioni kundrejt dëmeve të cilat mund të rezultojnë nga mosplotësimi i detyrave të tij apo të atyre të cilët punojnë nën përgjegjësinë e tijë siç përmendet në nenin 338 të këtij ligji.
+3. Shuma minimale për sigurim për të cilën përmbaruesi privat duhet doemos të lidhë marrëveshje për sigurim për dëmet të cilat përmbaruesi privat mund t’iu shkaktojë kreditorit, debitorit palëve të treta apo personave të tjerë gjatë shërbimit të tij, është njëqind mijë (100.000) euro ose dhjetë përqind (10%) nga vlera e përgjithshme e vendimeve të regjistruara por të pa përfunduara në zyrën e tij.

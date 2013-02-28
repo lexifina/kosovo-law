@@ -1,0 +1,6 @@
+# Neni 205
+Ndryshimi i pronarit të paluajtshmërisë
+1. Ndryshimi i pronarit të sendit të paluajtshëm gjatë zhvillimit të procedurës përmbarimore, nuk e pengon vazhdimin e saj kundër pronarit të ri si debitor. Të gjitha veprimet përmbarimore të kryera më parë mbeten të vlefshme dhe pronari i ri nuk mundet gjatë zhvillimit të mëtejmë të përmbarimit, t’i kryejë veprimet të cilat nuk do të mund t’i kryente pronari i mëparshëm.
+2. Me propozimin e kreditorit organi përmbarues e nxjerrë aktvendimin apo urdhrin për vazhdimin e procedurës së përmbarimit, kundër pronarit të ri si debitor në atë procedurë. Kundër aktvendimit apo urdhrit të tillë pronari i ri nuk ka të drejtë ankimi.
+3. Kreditori i cili nuk e ka fituar të drejtën e pengut para se të jetë filluar përmbarimi, në momentin e shënimit të përmbarimit në librin publik të paluajtshmërive, e fiton të drejtën që nga paluajtshmëria ta realizojë kredinë para personit që në paluajtshmërinë e tillë e ka fituar më vonë të drejtën e pengut, apo të drejtën e realizimit të kredisë së vet.
+4. Pasi të jetë bërë shënimi i përmbarimit në librin publik të paluajtshmërive, nuk lejohet regjistrimi i ndryshimit të së drejtës së pronësisë të mbështetur në disponimin e debitorit, pa marrë parasysh se kur është bërë ky disponim.

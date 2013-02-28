@@ -1,0 +1,4 @@
+# Article 195
+Instruction for the initiation of the contested procedure
+1. Co-owner who is not debtor to whom is contested the part in immovable item which is the object of enforcement, is instructed by the enforcement body to file a claim against the creditors but also against the debtor, in case the latter disputes his right, with purpose of proving his allegation in the contested procedure. The instruction for rendering claim will not be provided if such co-owner may prove the existence of his right in the enforcement procedure, through final court decision, public document, or non-public document certified according to the law.
+2. Provisions of this law regulating the activity of the court upon objection from third person shall apply for contested process initiated with claim, and for the right of co-owner to request the postponement of enforcement procedure.

@@ -1,0 +1,10 @@
+# Article 5
+Jurisdiction
+1. The enforcement is determined and applied by the enforcement authority foreseen by this law, unless if it is foreseen otherwise with other law.
+2. Competent Court shall hold the subject matter jurisdiction to order and to carry out enforcement as well as to decide on other matters during the procedure pursuant to the provisions of this Law, unless other courts and enforcement authorities, respectively, have competence to order and carry out enforcement as well as to decide on other matters during the procedure.
+3. The private enforcement agent shall render the writ based on proposals for carrying out enforcement, and shall carry out the enforcement for the purpose of fulfillment of the debtor's claim based on an enforcement document, unless expressly provided by law that ordering of the enforcement and carrying out of the enforcement, respectively, shall be within the jurisdiction of the court.
+4. Territorial jurisdiction to decide on matters pertaining to enforcement procedure is determined with the provisions of this law, depending from the means and object of enforcement and upon the status of the enforcement body.
+5. To decide matters regarding any objection, appeal, irregularities in enforcement procedure under Articles 52 and 67 of this law, or any other procedure against actions of a private enforcement agent, jurisdiction is within the competent court in the territory in which the debtor’s residence is located, and if he does not have residence in Kosovo, then in the territory in which he stays, if debtor is a physical person. If debtor is a legal person, territorial jurisdiction rests in the competent court in the territory in which its seat is located. If the debtor does not have a temporary residence or seat in Kosovo, the basic court in the territory in which the movables or immovable items that are the object of enforcement are located will have jurisdiction.
+6. Court shall be competent to decide over the enforcement procedure and enforce court decision related to:
+6.1. all issues related to family law, and
+6.2. reinstating employees and civil servants at work, and other compensations.

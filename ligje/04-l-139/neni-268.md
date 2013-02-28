@@ -1,0 +1,6 @@
+# Neni 268
+Ankesa kundër aktvendimit
+1. Po qe se domosdoshmëria e mbajtjes së seancës dëgjimore të pjesëtimit te organi përmbarues nuk del nga ky ligj, aktvendimin apo urdhri për realizimin e kredive organi përmbarues do ta publikojë në tabelën e shpalljeve. Me kalimin e ditës së tretë nga dita e publikimit në tabelën e shpalljeve konsiderohet se aktvendimi ose urdhri u është dorëzuar të gjithë personave që kanë të drejtën e realizimit të kredive nga çmimi i paluajtshmërisë së shitur.
+2. Kundër aktvendimit ose urdhrit për realizimin e kredive kanë të drejtë ankese palët dhe personat që kanë pretenduar realizimin e kredive të tyre nga çmimi i shitjes së paluajtshmërisë.
+3. Në qoftë se ankesa kundër aktvendimit ose urdhrit për realizimin e kredive paraqitet brenda afatit ligjor, atëherë ajo u dërgohet palëve dhe pjesëmarrësve të tjerë të procedurës përmbarimore, kurse aktvendimi ose urdhri do të ekzekutohet në qoftë se kreditori brenda afatit prej tri (3) ditësh nga dita kur i është dorëzuar ankesa nuk e propozon shtyrjen e përmbarimit deri në momentin e nxjerrjes së vendimit të Gjykatës së shkallës së dytë.
+4. Përmbarimi i aktvendimit ose urdhrit për realizimin e kredive bëhet pasi të skadojë afati për paraqitjen e ankesës nga personat të cilëve u takon e drejta e ankimit kundër tij.
