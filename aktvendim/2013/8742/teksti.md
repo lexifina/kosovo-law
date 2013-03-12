@@ -1,0 +1,71 @@
+Rf:I'llRl.IK \ r KOS()\'lt;; · PI Hn~'1I1K \ I\fK"ORO · REPI "nll, OF KOSOWI GJYKATA KU .HTETU :8E
+YCTABHI1 CYll CONSTITtJf10NAL COURT
+Prishtina, me 2sjanar 2013 Nr. ref.: RK373/13
+AK1VENDIM PER PAPRANUESHMERI
+Rastin Nr. KI82/12
+Parashtruesi
+Milorad Rajovic
+Kerkese per vleresimin e kushtetutshmerise dhe te ligjshmerise se zhatimit te Rregullores se UNMIK-it, Nr. 2000/4, dhe te Ligjit te Repuhlikes se Kosoves, Nr. 2008/03 - L033
+GJYKATA KUSHTETUESE E REPUBLI:K:ES sit KOSOvES
+e perbere nga:
+Enver Hasani, Kryetar Ivan Cukalovic, Zevendeskryetar Robert Carolan, gjyqtar Altay Suroy, gjyqtar Almiro Rodrigues, gjyqtar Snezhana Botusharova, gjyqtare Kadri Kryeziu, gjyqtar, dhe Arta Rama-Hajrizi, gjyqtare
+Parashtruesiikerkeses
+Parashtrues i kerkeses eshte z. Milorad Rajovic, pronar i N. P. "Udarnik Komerc" ne 1. Mitrovice, te cHin e perfaqeson avokati Avni Q. Vula nga Prishtina (ne tekstin e metejme: Parashtruesi).
+Vendimi i kontestuar
+2. Kontestohet kushtetutshmeria e zbatimit te Rregullores se UNMIK-ut, Nr. 2000/4, "per status in, privilegjet dhe imunitetin e KFOR-it, UNMIK-ut dhe personelit te tij" (ne tekstin e metejme: Rregullorja e UNMIK-ut Nr. 2000/4), si dhe Ligji Nr. 2008/03 Lo33 "per statusin, imunitetin dhe privilegjet e misioneve diplomatike, konsullore dhe personelin ne Kosove dhe pranine nderkombetare ushtarake si dhe personelin e saj" (ne tekstin e metejme: Ligji Nr. 2008/03 - L033)
+Objekti i ~eshtjes
+3. Parashtruesi i kerkeses e konteston menyren ne te cilen Organizata per Siguri dhe Bashkepunim ne Evrope (ne tekstin e metejme: OSBE) interpreton dhe zbaton Rregulloren e UNMIK-ut Nr. 2000/4 si dhe Ligjin Nr. 2008/03 - Lo33. Ai pretendon se ato ligje kane shkelur te drejtat e tij pronesore, te garantuara me nenin 46 [Mbrojtja e Prones] te Kushtetutes se Republikes se Kosoves, si dhe te drejtat dhe lirite e parapara me nenin 1 (Mbrojtja e Prones) te Protokollit 1 te Konventes Evropiane per Mbrojtjen e te Drejtave te Njeriut dhe Lirive Themelore (ne tekstin e metejme: KEDNJ).
+Bazajuridike
+4. Kerkesa eshte bazuar ne nenin 113.7 dhe ne nemn 21.4 te Kushtetutes; ne nenin 20, ne nenin 22.7 dhe ne nenin 22.8 te Ligjit per Gjykaten Kushtetuese te Republikes se Kosoves, Nr. 03/L-121, te 15 janarit 2009 (ne tekstin e metejme: Ligji) dhe ne rregullin 56, paragrafi 2, te Rregullores se punes (ne tekstin e metejme: Rregullorja).
+Procedura ne Gjykate
+5. Me 7 shtator 2012, parashtruesi i kerkeses paraqiti kerkese ne Gjykaten Kushtetuese (ne tekstin e metejme: Gjykata).
+6. Me Vendimin e Kryetarit (Nr. GJR. KI82/12, te 5 tetorit 2012), gjyqtari Robert Carolan eshte caktuar Gjyqtar raportues. Te njejten lite, me vendimin e Kryetarit (Nr. KSH. KI82/12) eshte caktuar Kolegji shqyrtues, i perbere nga gjyqtaret: Altay Suroy (kryesues), Kadri Kryeziu dhe Arta Rama-Hajziri.
+7. Me 25 janar 2013, pas shqyrtimit te raportit te gjyqtarit Robert Carolan, Kolegji shqyrtues, i perbere nga gjyqtaret: Altay Suroy (kryesues), Kadri Kryeziu dhe Arta Rama-Hajrizi, i paraqiti Gjykates, ne perberje te plote, rekomandimin per papranueshmerine e kerkeses.
+Permbledhja e fakteve
+8. Z. Milorad Rajovic, pronar i N.P. "Udarnik Komerc", tash me seli ne Mitrovice, pretendon se eshte pronar i pakontestueshem i lokalit afarist, me nje siperfaqe te pergjithshme 1.078 m2, i cili gjendet ne Peje, ne adresen "Ndertesa per bamm Tarolit II".
+9. Kjo ndermanje ka fituar te drejtat pronesore per lokalet e lartpermendura afariste, ne baze te kontrates se shitbleIjes, te vertetuar ne Gjykaten Komunale ne Peje, C. nr. 224/94, te 13 marsit 1994, si<; eshte konfirmuar me Aktgjykimin e Gjykates Komunale ne Peje, C. nr. 224/94, te 13 prill 1994.
+10. Nga mesi i vitit 1999, ky lokal afarist ishte zene nga Misioni i OSBE-se, pa marreveshje paraprake gjegjesisht pa dijeni te pronarit te lokalit afarist.
+Pasi ka mesuar se ne lokalet e tij eshte vendosur Qendra Rajonale e Misionit te OSBE 11. se ne Kosove, z. Milorad Rajovic, ne vitin 1999, i eshte drejtuar Misionit te OSBE-se, duke kerkuar lidhjen e kontrates per shfrytezimin e objekteve te tij dhe pagesen e qirase perkatese. Megjithate, kerkesat e tij nuk jane marre ne konsiderate dhe as nuk jane pranuar.
+Ndermjet viteve 1999 dhe 2007, parashtruesi i dergoi Misionit te OSBE-se nje numer te 12. madh te shkresave, duke kerkuar respektimin e te drejtave te tij pronesore dhe lidhjen e nje kontrate per qirane e objektit te lartpermendur. Megjithate, perv~ pergjigjes me shkrim derguar parashtruesit, Misioni i OSBE-se nuk ka ndermarre asnje veprim konkret per ta zgjidhur kete problem.
+Me 28 dhjetor 2007, parashtruesi ushtroi ankese ne Institucionin e Avokatit te 13. Popullit.
+Me 3 mars 2008, Avokati i Popullit nxori Vendimin Nr. 2355/07, me te cHin e shpall te 14. papranueshme ankesen e parashtruesit, sepse nuk ishte ne perputhje me ratione personae ne baze te Rregullores se punes.
+15. Me 15 janar 2008 u mbajt nje takim ndermjet parashtruesit te kerkeses dhe perfaqesuesit te Misionit te OSBE-se. Ne ate takim, parashtruesi i kerkeses, per here te pare, mori nje oferte konkrete nga Misioni i OSBE-se per pagesen e qirase. Oferta, te cilen e kishte paraqitur perfaqesuesi i Misionit te OSBE-se, mbulonte vetem periudhen pas 1 korrikut 2007, ne kohezgjatje per nje vit, me mundesi te zgjatjes.
+16. Parashtruesi i kerkeses pohoi se, pas disa ore negociatash, "nen presion dhe kercenim" nga perfaqesuesi i Misionit te OSBE-se, ai pranoi oferten dhe nenshkroi kontraten e qirase, me nje marreveshje gojore qe zgjidhja e borxhit te qirase per periudhen 1999 - 1 nentor 2007, do te vazhdonte pas nenshkrimit te kontrates se ofruar.
+Me 20 shkurt 2008, parashtruesi i kerkeses ia dergoi shkresen e pare perfaqesuesit te 17. Misionit te OSBE-se, z. John Fennessy, me kerkese per fillimin e zgjidhjes se ~eshtjes se borxhit te mbetur per periudhen 1999 - 1 nentor 2007.
+18. Me 25 shkurt 2008, Departamenti i Administrates se Misionit te OSBE-se (John Fennessy) e informoi parashtruesin e kerkeses se kerkesa e tij per pages en e qirase per periudhen 1999 - 1 nentor 2007 ishte derguar ne seline e Misionit te OSBE-se ne Vjene, se selia e Misionit e kishte diskutuar kete ~eshtje dhe se eshte duke u pritur qendrimi i tyre.
+Parashtruesi i kerkeses, ne periudhen prej vitit 2009 e deri me 2011, ia dergoi tri (3) 19. shkresa te tjera Misionit te OSBE-se.
+20. Misioni i OSBE-se, ne te gjitha shkresat e parashtruesit te kerkeses, dergoi pergjigje me permbajtje te ngjashme, "se rasti i pa rashtruesit i kerkeses eshte me seline e OSBE-se ne Vjene, dhe qe Misioni i OSBE-se do ta informoje parashtruesin e kerkeses ne lidhje me vendimin dhe qendrimin e Qendres, posa qendrimi i tyre tejete i ,yohur".
+Pretendimet e parashtruesit te kerkeses
+21. Parashtruesi i kerkeses pretendon se Misioni i OSBE-se qellimisht i ishte shmangur detyrimit ndaj tij, duke qene i vetedijshem per poziten e tij, siC; parashihet me Rregulloren e UNMIK-ut Nr. 2000 /47.
+22. Ne mbeshtetje te pretendimit te tij, parashtruesi i kerkeses citon rastin e Bankes Kreditore te Prishtines kunder Misionit OSBE-se, ne vitin 2011, ku Gjykata Komunale ne Prishtine, me aktvendimin EDA. nr. 2553/2011, te 30 dhjetorit 2011, lejoi ekzekutimin kunder Misionit te OSBE-se per qirane e papaguar per shfrytezimin e lokaleve afariste te Bankes.
+23. Me 30 prill 2012, Misioni i OSBE-se, me parashtresen HOM/54/12, e kontestoi kete ekzekutim, duke u thirrur ne imunitetin e tij te para pare me dispozitat e Rregullores se UNMIK-ut, Nr. 2000/47.
+24. Ne baze te parashtreses se Misionit te OSBE-se, HOM/54/12, Gjykata Komunale ne Prishtine pastaj e anuloi Aktvendimin EDA. nr. 2553/2011.
+25. Gjykata Komunale theksoi se nje kreditor mund te zgjidhe kete c;eshtje duke iu drejtuar Komisionit per kerkesa, i cill ishte themeluar nga KFOR-i dhe UNMIK-u, ne pajtim me nenin 7 te Rregullores UNMIK/RREG 2000/47, te 18 gush tit 2000.
+26. Parashtruesi i kerkeses pretendon se, me shkresen e 10 shtatorit 2009, ai i ishte drejtuar "Panelit Keshillimor per te Drejtat e Njeriut", perkatesisht Komisionit te kerkesave, dhe se nga ky Keshill ka pranuar vetem nje shkrese, e cila eshte regjistruar me Nr. 308/09, me te cilen ata e informojne se kerkesa e tij eshte pranuar dhe se eshte caktuar personi qe do te marre rastin.
+27. Parashtruesi i kerkeses, gjithashtu, pretend on "qe per disa uite nuk kishte marre asrife shkrese nga Paneli Keshillimor per te Drejtat e Njeriut".
+28. Parashtruesi i kerkeses, ne kerkesen e tij, pretendon se iu ka mohuar e drejta per mjet juridik per t'i mbrojtur te drejtat e tij pronesore. Baze per pretendimin e parashtruesit eshte Rregullorja e UNMIK-ut Nr. 2000/47, si dhe Ligji 2008/03-033. Neni 2.1 i ketij Ligji parasheh: "UNMIK-u (ne kete rast OSBE-ja), prona e tij, fondet dhe asetet, jane te peIjashtuara nga C;do proces ligjor".
+29. Parashtruesi i kerkeses iu drejtua Gjykates Kushtetuese me kerkesat e meposhtme:
+"Qe 190 Gjykate te hape dhe zhuillon proceduren perkatese gjyqe·sore ne pajtim me dispozitat e nenit 46 te Ligjit nr. 03/L-121 "Per Gjykaten Kushtetuese te Republikes Kosoues" dhe gjate zhuillimit te kesaj procedure te bene uleresimin juridik te jakteue dhe argumenteue te prezantuara, te bene ekzaminimin e prouaue dhe qe, ne baze dispozitaue Kushtetuese dhe dispozitaue perkatese ligjore uendore e nderkombetare, te bene uleresimin e ligjshmerise dhe kushtetutshmerise se dispozitaue te larte permendura te Rregullores se UNMIK-ut nr. 2000/47 "Mbi statusin, priuilegjet dhe imunitetin e KFOR-it, UNMIK-ut dhe personelit te tyre" dhe te Ligjit nr. Nga aspekti i mbrojtjes se te drejtaue dhe liriue themelore dhe te pacenueshme te qytetareue te Kosoues dhe pastaj, ne baze te dispozitaue perkatese Kushtetuese, akteue juridike uendore e nderkombetare uer,;anerisht te theksuara me nenin 22/31 e lidhur me nenin 46 te kesaj Kushtetute, nenit 6.1 te Konuentes Europiane per te drejtat dhe lirite themelore te riferiut".
+"re shpalle te gabuara, te pabazuara, jo te drejta, kunder-kushtetuese dhe te kunderligjshme interpretimet e dispozitave mbi imunitetin e percaktuara me Rregulloren se UNMIK-ut nr. 2000/47 "Mbi statusin, privilegjet dhe imunitetin e KFOR-it, UNMIK-ut dhe personelit te tyre dhe me Ligjin nr 2008/03-L033 per statusin, imunitetin dhe privilegjet e misioneve diplomatike, konsullore dhe personelin ne Kosove dhe pranin nderkombetare ushtarake si dhe personelin e saj"; per rastet e cenimit dhe shkeljes se te drejtave pronesore te qytetareve te Kosoves si te drejta dhe liri te pacenueshme, te patjetersueshme e themelore te njeriut perkatesisht qytetareve ne Kosove dhe per rastet e kerkesave materiale financiare te qytetareve te Kosoviis, borxheve e demshperblimeve civile lidhur me shjrytezimin e sherbimeve dhe prones private te qytetareve te Kosoves apo te demtimeve te tyre".
+"Te cakton si kompetente Gjykaten Ekonomike ne Prish tin eapo Gjykaten Supreme te Kosoves - Dhoma e Vec;ante ne Prishtine qe te vendose lidhur me kerkesat e Ndermarrjes Private "UDARNIK KOMERC" ne emer te qirase se papaguar per shfrytezimin e lokaleve te saj ajariste nga ana e Misionit te OSBE-se - Qendra Regjionale Peje neperiudhen Korrik 1999 - 01.11.2007".
+Vleresimi i pranueshmerise se kerkeses
+30. Per te gjykuar kerkesen e parashtruesit, Gjykata duhet te shqyrtoje nese parashtruesi i kerkeses i ka permbushur kriteret per pranueshmeri, te parapara me Kushtetute, me Ligj dhe me Rregullore te punes.
+31. Perkitazi me kete, Gjykata i referohet nenit 113, paragra:6 1 dhe paragrafi 7, te Kushtetutes.
+"1. Gjykata Kushtetuese vendos vetem per rastet e ngritura para gjykates ne menyre ligjore nga pala e autorizuar".
+"7. Individet jane te autorizuar te ngrene shkeljet nga autoritetet publike te te drejtave dhe lirive te tyre individuale, te garantuara me Kushtetute, miriipo vetem pasi te kene shteruar te gjitha mjetetjuridike te percaktuara me ligj".
+32. Ne kete rast, parashtruesi kerkon "vleresimin e kushtetutshmerise se Rregullores se UNMIK-ut, Nr. 2000/47, per statusin, privilegjet dhe imunitetin e KFOR-it, UNMIK-ut dhe personelit te tij ne Kosove, si dhe te Ugjit 2008/03-033 te Republikes se Kosoves per statusin, imunitetin dhe privilegjet e misioneve diplomatike, konsullore dhe personelin ne Kosove dhe pranine nderkombetare ushtarake si dhe personelin e saj", dhe, ne kete menyre, Kushtetuta ne menyre shume te qarte e percakton ne nenin 113 se kush mund te kerkoje vleresimin e kushtetutshmerise se ligjit.
+33. Nje kerkese e tille per "vleresimin e kushtetutshmerise se Rregullores se UNMIK-ut Nr. 2000/47 dhe Ligjit 2008/03-033", eshte kontestim abstrakt i Rregullores dhe Ligjit te lartpermendur. Ne qofie se ky eshte qellimi i parashtruesit te kerkeses si individ, atehere ai nuk mund te konsiderohet si pale e autorizuar.
+34. Neni 113.2, neni 113.6 dhe neni 113.8 te Kushtetutes shprehimisht parashohin se cilat jane pale te autorizuara qe mund t'i drejtohen Gjykates per <;eshtjen e vleresimit abstrakt te kushtetutshmerise te ligjit.
+35. Gjykata veren se, ne kete rast, parashtruesit te kerkeses i mungon "pozicioni" ose autoriteti ne Gjykate, sepse parashtruesi i kerkeses nuk i ka plotesuar kerkesat e nenit
+Gjyqtari raportues
+Robert Carolan
+113.1 te Kushtetutes. Perve~ kesaj, sistemi kushtetues juridik i Kosoves nuk parasheh actio pop uZa ris, qe eshte modalitet i kerkesave individuale qe ia siguron ~do individi, i cili deshiron te mbroje interesin publik dhe rendin kushtetues, mundesine per t'iu drejtuar Gjykates Kushtetuese perkitazi me ate shkelje, edhe pse ai/ajo nuk e ka statusin e viktimes.
+36. Prandaj, Gjykata konsideron se parashtruesi i kerkeses nuk eshte pale e autorizuar per te kerkuar interpretimin e Rregullores se UNMIK -ut Nr. 2000/47 dhe te Ligjit 2008/03-033. Dhe, kjo kerkese duhet te shpallet e papranueshme, sepse eshte parashtruar nga pala e paautorizuar.
+PER KETO ARSYE
+Gjykata Kushtetuese, ne pajtim me nenin 113.1 dhe me nenin 113.7 te Kushtetutes; ne pajtim me nenin 46, me nenin 47 dhe me nenin 48 te Ligjit; si dhe me rregullin 36.1.a dhe 36.3.c te Rregullores se punes, ne seancen e mbajtur me 2sjanar 2013, njezeri
+VENDOSI
+TA HEDHE POSHTE kerkesen si te papranueshme; I.
+Ky vendim do t'u komunikohet paleve dhe do te botohet ne Gazeten Zyrtare, II. ne pajtim me nenin 20.4 te Ligjit; dhe
+Ky vendim hyn ne fuqi menjehere. III.
+Kryetari i Gjykates Kushtetuese
+Prof. dr. Enver Hasani
