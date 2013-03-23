@@ -1,0 +1,5 @@
+# Neni 9
+1. Neni 19 i ligjit bazik, paragrafi 1. riformulohet me tekstin si në vijim:
+1. Bankat dhe institucionet financiare aktivitetet e të cilave përfshijnë transfere elektronike do të marrin dhe verifikojnë emrin e plotë, numrin e llogarisë, adresën, ose në mungesë të adresës numrin e dokumentit të identifikimit, ose datën dhe vendin e lindjes, duke përfshirë kur është e nevojshme emrin e institucionit financiar, të autorit të transfereve të tilla. Informacioni do të përfshihet në mesazhin ose formularin e pagesës që shoqëron transferin. Nëse nuk ka numër llogarie, një numër unik referencë do të shoqërojë transferin.
+2. Neni 19 i ligjit bazik, paragrafi 4. riformulohet me tekstin si në vijim:
+4. Paragrafët 1. dhe 2. të këtij neni nuk zbatohen për transfere të ekzekutuara si rezultat i transaksioneve me kartë krediti ose kartë debiti, me kusht që numri i kartës së kreditit ose kartës së debitit të shoqëron transferin e rezultuar nga transaksioni, dhe nuk do të zbatohet për transfere midis bankave dhe/ose institucioneve financiare ku të dy iniciatori dhe përfituesi janë banka apo institucione financiare që veprojnë në emër të tyre.

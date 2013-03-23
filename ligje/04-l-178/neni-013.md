@@ -1,0 +1,3 @@
+# Neni 13
+1. Neni 24 i ligjit bazik, pas paragrafit 9. shtohet paragrafi i ri 10. me tekstin si në vijim:
+10. Drejtorët, zyrtarët, punonjësit dhe agjentët e OJQ-ve që bëjnë ose transmetojnë raporte në pajtim me këtë nen nuk do të japin raport, apo të komunikojnë ndonjë informacion që gjendet në raport apo në lidhje me raportin, tek ndonjë person apo subjekt, duke përfshirë çfarëdo personi ose subjekti, duke përfshirë ndonjë person apo subjekt të përfshirë në transaksion i cili është subjekt i raportit, përveç NjIF-së, përveç nëse autorizohet me shkrim nga NjIF-ja, një Prokuror, ose një Gjykatë.

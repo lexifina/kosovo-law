@@ -1,0 +1,15 @@
+# Neni 10
+1. Neni 21 i ligjit bazik, paragrafi 1. riformulohet me tekstin si në vijim:
+1. Kur subjektet e raportimit përcaktojnë, në përputhje me paragrafin 1. të nenit 17, se rreziku i pastrimit të parave apo financimi të terrorizmit është ngritur, ata do të marrin masa të arsyeshme për të mbajtur të azhurnuara informacionet e mbledhura në pajtim me nenin 17, dhe të zbatojnë masat e arsyeshme të shtuara për të monitoruar profilin e biznesit dhe të rrezikut, duke përfshirë burimin e fondeve, dhe të sigurojnë që të dhënat dhe informacionet e tjera janë mbajtur të azhurnuara. Rregullatori kompetent mund të nxjerrë udhëzime të detyrueshme në lidhje me to.
+2. Neni 21 i ligjit bazik, paragrafi 5. riformulohet me tekstin si në vijim:
+5. Subjektet raportuese duhet të marrin masa të arsyeshme për të përcaktuar nëse klientët e tyre janë persona të ekspozuar politikisht vendas, dhe nëse përcaktimi i tillë rezulton që një klienti të jetë një person i ekspozuar politikisht vendas, atëherë subjektet raportuese duhet të marrin masat e përcaktuara në nenin 19 paragrafi 1., në lidhje me e klientët e tillë.
+5.1. Subjektet raportuese duhet të sigurojnë që ata të përcaktojnë nëse klientët e tyre janë persona të ekspozuar politikisht të huaj, dhe përcaktimi i tillë rezulton që një klient të jetë një person i ekspozuar politikisht i huaj, atëherë subjektet raportuese duhet të marrin masat e mëposhtme:
+5.1.1. të marrin miratimin e një oficeri të subjektit raportues;
+5.1.2. të marrin masa të përshtatshme për të krijuar origjinën e mjeteve të përdorura në marrëdhënie ose transaksion; dhe
+5.1.3. të sigurohet monitorimi i vazhdueshëm dhe i forcuar i llogarisë dhe marrëdhënies.
+3. Neni 21 i ligjit bazik, paragrafët 6. dhe 7. riformulohen me tekstin si në vijim:
+6. Ndërmjetësuesit financiar nuk mund të hapin ose të mirëmbajnë llogaritë korresponduese me një bankë fiktive ose një bankë e cila është e njohur që lejon përdorimin e llogarive fiktive.
+7. Institucionet dhe personat që i nënshtrohen këtij ligji, do ti kushtojnë vëmendje të veçantë ndonjë rreziku të pastrimit të parave apo financimit të terrorizmit në lidhje me produktet apo transaksionet që promovojnë anonimitetin dhe të marrin të gjitha masat e nevojshme për të parandaluar përdorimin e tij për qëllime të pastrimit të parave apo financimit të terrorizmit.
+4. Neni 21 i ligjit bazik, pas paragrafit 7. shtohen paragrafët të rinj 8. dhe 9. me tekstin si në vijim:
+8. Shitësit në metale të çmuara dhe tregtarët në gurë të çmuar do të raportojnë çdo akt apo transaksion të dyshimtë tek NjIF-ja brenda tri (3) ditëve të punës dhe para ndërmarrjes së veprimeve të mëtejshme në lidhje me ndonjë transaksion të tillë apo akter. Raportet do të përgatiten në formën dhe mënyrën e rekomanduar nga NJIF-ja.
+9. Kompanitë e ndërtimit do të raportojnë çdo akt apo transaksion të dyshimtë tek NjIF-ja brenda tri (3) ditëve të punës dhe para ndërmarrjes së veprimeve të mëtejshme në lidhje me ndonjë transaksion të tillë apo akter. Raportet do të përgatiten në formën dhe mënyrën e rekomanduar nga NJIF-ja.
