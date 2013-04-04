@@ -1,0 +1,3 @@
+# Neni 26
+1. Plani operativ emergjent komunal harmonizohet me planin e reagimit kombëtar, ndërsa planet e reagimit emergjent të institucioneve, ndërmarrjeve dhe organizatave tjera harmonizohen me planet operative emergjente komunale.
+2. Harmonizimi reciprok i planeve bëhet në atë mënyrë që në kuadër të planit operativ emergjent komunal, përkatësisht planit të reagimit emergjent, përcaktohet organizimi dhe mënyra e zbatimit të detyrave, të cilat janë të përcaktuara në ekstraktin e planit nga neni 27 i kësaj rregulloreje, për ato institucione, ndërmarrje dhe organizata tjera, zbatuesit e detyrave, dhe planifikohen pajisjet dhe mjetet materialo-teknike të nevojshme për zbatimin e detyrave të parapara.

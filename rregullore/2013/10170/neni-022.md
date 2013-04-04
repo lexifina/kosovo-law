@@ -1,0 +1,2 @@
+# Neni 22
+Me planet e reagimit emergjent rregullohet organizimi dhe mënyra e realizimit të mbrojtjes dhe shpëtimit të punëtorëve, të mirave materiale dhe kulturore të institucioneve, ndërmarrjeve dhe organizatave tjera nga fatkeqësitë natyrore dhe fatkeqësitë tjera, si dhe mënyra e zbatimit të detyrave të cilat caktohen për ta në planet operative emergjente komunale, përkatësisht në planin e reagimit kombëtar.
