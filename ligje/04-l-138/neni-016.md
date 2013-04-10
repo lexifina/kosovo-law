@@ -1,0 +1,6 @@
+# Neni 16
+Puna e Këshillit të arsimit dhe aftësimit profesional dhe për të rritur
+1. KAAPRr, këshillon MASHT-in në orientimin e përgjithshëm për politikën e arsimit dhe aftësimit profesional dhe arsimin e të rriturve në Kosovë.
+2. KAAPRr, do të rishikojë çështjet e zhvillimit të arsimit dhe aftësimit profesional, do të jep këshilla, propozime dhe rekomandime të MASHT-it, përfshirë propozimet për ligjet dhe dokumentet tjera zyrtare lidhur me arsimin profesional. Gjithashtu, do të sigurojë një forum gjithëpërfshirës për harmonizimin e politikave dhe qasjeve përgjatë tërë sistemit të arsimit dhe aftësimit profesional, nëpërmjet angazhimit të partnerëve social dhe bartësve të tjerë me interes.
+3. KAAPRr, do të ofrojë këshilla dhe rekomandojë profilet për aprovim në të cilat duhet të bazohen programet e arsimit dhe aftësimit profesional, standardet për çdo profil, përmbajtjen profesionale të planprogramit për këto profile dhe kualifikimet profesionale, që duhet të përfshihen brenda kornizës së kualifikimeve. Gjithashtu, rekomandon librat shkollor dhe materialet mësimore për shfrytëzim në programet e tilla.
+4. KAAPRr, kryen edhe aktivitete të tjera që janë në pajtim me dispozitat e këtij ligji.
