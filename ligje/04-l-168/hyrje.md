@@ -1,0 +1,5 @@
+LIGJI Nr. 04/L-168 PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJIT NR. 04/L -101 PËR FONDET PENSIONALE TË KOSOVËS
+Kuvendi i Republikës së Kosovës;
+Në mbështetje të nenit 65 (1) të Kushtetutës së Republikës së Kosovës,
+Miraton
+LIGJ PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJIT NR. 04/L -101 PËR FONDET PENSIONALE TË KOSOVËS
