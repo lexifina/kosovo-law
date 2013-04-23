@@ -1,0 +1,3 @@
+# Article 33
+Entry into force
+This Law shall enter into force fifteen (15) days after its publication the Official Gazette of Republic of Kosovo.
