@@ -1,0 +1,6 @@
+LIGJI Nr. 04/L-146 PËR AGJENCINË PËR MENAXHIMIN E KOMPLEKSEVE MEMORIALE TË KOSOVËS
+Kuvendi i Republikës së Kosovës;
+Në mbështetje të nenit 65 (1) të Kushtetutës së Republikës së Kosovës,
+Miraton
+LIGJ PËR AGJENCINË PËR MENAXHIMIN E KOMPLEKSEVE MEMORIALE TË KOSOVËS
+DISPOZITAT E PËRGJITHSHME
