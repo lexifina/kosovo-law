@@ -1,0 +1,10 @@
+# Neni 33
+Edukimi profesional i personave të përfshirë në transport
+1. Personat e punësuar nga pjesëmarrësit, të përmendur në nenin 14 të këtij ligji, detyrimet e të cilëve lidhen me transportin e mallrave të rrezikshme, të kenë përfunduar programin e trajnimit profesional, në varësi të detyrave dhe përgjegjësive të pozicionit, dhe të kenë kaluar provimin e edukimit profesional.
+2. Edukimi profesional i personave sipas paragrafit 1. të këtij neni, si dhe shtrirja e njohurive të tyre për sigurinë e operacioneve të rëndësishme që ata kryejnë, duhet të jetë periodik në raste të parashikuara, me qëllim rifreskimin e njohurive, dhe kontrollet ndaj tyre të jenë të paparalajmëruara. Dokumentacioni mbi trajnimin e çdo punonjësi mbahet nga punëdhënësi në dosjen personale të çdo punëmarrësi, si dhe nga vetë punëmarrësi.
+3. Trajnimi profesional i personave të përmendur në paragrafin 1. të këtij neni mund të kryhet nga personi juridik i autorizuar nga Ministria nëse ata plotësojnë kushtet e vendosura, për këtë qëllim. Certifikatat e trajnimit para lëshimit duhet të regjistrohen.
+4. Provimi për aftësimin profesional të personave sipas paragrafit 1. të këtij neni kryhet nga institucionet e përmendura në paragrafin 3. të këtij neni.
+5. Programi, zbatimi, edukimi profesional dhe mënyra e organizimit të provimit përcaktohen me akt nënligjor të Ministrisë.
+6. Forma, përmbajtja, mënyra dhe procedura për lëshimin e certifikatave për personat që kanë dhënë provimin të përmendur në paragrafin 1. të këtij neni, si dhe kushtet që duhet të përmbushen nga organet sipas paragrafit 3. të këtij neni, përcaktohen me akt nënligjor të Ministrisë.
+7. Tarifat për trajnimin dhe, ose provimin e pjesëmarrësve në transport përcaktohen me akt nënligjor të Ministrisë në bashkëpunim me Ministrinë përgjegjëse për financa.
+8. Dispozitat e këtij ligji nuk zbatohen për personelin e punësuar sipas paragrafit 1. të këtij neni kur transporti është i përjashtuar nga dispozitat sipas marrëveshjes të nenit 5 të këtij ligji.

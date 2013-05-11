@@ -1,0 +1,10 @@
+# Article 33
+Professional education of people involved in transport
+1. People employed by the participants referred to in Article 14 of this Law, whose duties are related to the transport of dangerous goods, should have finalized professional training program, depending on the tasks and responsibilities of the position, and should have passed the professional education examination.
+2. Professional education of people according to paragraph 1 of this Article, as well as expansion of their knowledge on the safety of important operations they perform, should be periodical in foreseen cases, purposely to update knowledge, and checks on them shall be pre-notified. The documentation on the training of each employee shall be held by the employer in the personal dossier of each employee, as well as by the employee himself.
+3. Professional training of people referred to in paragraph 1 of this Article shall be performed by the authorized legal person by the Ministry in case they meet the conditions set for this aim. The training certificates shall be recorded prior to issuance.
+4. The examination on the professional qualification of people according to paragraph 1 of this Article shall be performed by the institutions referred to in paragraph 3 of this Article.
+5. Program, implementation, professional education and method of organizing the examination shall be defined by sub-legal act of the Ministry.
+6. Form and content, method and procedure for issuing certificates for people who passed the examination referred to in paragraph 1 of this Article, as well as the conditions to be fulfilled from the bodies according to paragraph 3 of this Article, shall be defined with sub-legal act by the Ministry.
+7. Fees on training and, or examination of participants in transport shall be defined by a joint instruction of the Ministry with the respective Ministry for Finance.
+8. Provisions of this Law shall not be implemented for the personnel employed according to paragraph 1 of this Article when the transport is exempted from the provisions according to the agreement in Article 5 of this Law.

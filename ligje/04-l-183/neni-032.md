@@ -1,0 +1,7 @@
+# Neni 32
+Trajnimi profesional i këshilltarit të sigurisë
+1. Ministria, në përputhje me marrëveshjet e përmendura në nenin 5 të këtij ligji, përcakton, me akt nënligjor programin e edukimit, zbatimin, mënyrën e trajnimit dhe mënyrën e vlerësimit të këshilltarëve të sigurisë.
+2. Ministria, në përputhje me marrëveshjet e përmendura në nenin 5 të këtij ligji, përcakton, me akt nënligjor, formën dhe vlefshmërinë e certifikatës së kualifikimit të këshilltarëve të sigurisë në paragrafin 3. të nenit 29 të këtij ligji, kushtet që duhet të plotësojnë institucionet që kryejnë procesin e trajnimit të këshilltarëve, përmbajtjen dhe mënyrën e kryerjes së provimeve, listën e lëndëve ose çështjeve që duhet të trajtohen dhe përbërjen e komisionit të caktuar për kryerjen e provimit. Tarifat për trajnimin dhe, ose provimin e këshilltarëve të sigurisë përcaktohen nga Ministria me akt nënligjor në bashkëpunim me Ministrinë përgjegjëse për financa.
+3. Komisioni i provimit të përmendur në paragrafin 2, të këtij neni, në fillim të çdo viti kalendarik emërohet nga Ministri me propozim të Komisioni sipas paragrafit 1. të nenit 54 të këtij ligji.
+4. Për punën e kryer sipas paragrafit 1. të këtij neni, anëtarët e komisionit shpërblehen sipas mënyrës dhe vlerave të përcaktuara me vendim të Qeverisë.
+5. Trajnimi profesional i personave të përmendur në paragrafin 1. të këtij neni mund të kryhet nga personi juridik i autorizuar nga Ministria, nëse ato plotësojnë kushtet e vendosura në aktin nënligjor të përmendur në paragrafin 2. të këtij neni.

@@ -1,0 +1,6 @@
+# Neni 43
+Mbikëqyrja e dërguesit, transportuesit ose marrësit
+1. Një person i autorizuar për kontrollin në rrugë nëse gjatë kontrollit në rrugë identifikon mangësi, kryen, gjithashtu, mbikëqyrjen e dërguesit, transportuesit ose marrësit të mallrave të rrezikshme ose të personave juridik ose fizik të tjerë pjesëmarrës, të përfshirë në transportin e mallrave të rrezikshme.
+2. Personat juridik ose fizikë janë të detyruar të lejojnë personin e autorizuar për inspektimin e mjetit, përshtatshmërinë e procedurave dhe njohjen me dokumentet në lidhje me transportin e mallrave të rrezikshme.
+3. Qëllimi i kontrollit sipas paragrafit 1. të këtij neni është përcaktimi i kushteve të sigurisë në lidhje me transportin e mallrave të rrezikshme nga persona juridikë ose fizikë, si dërguesi, transportuesi ose marrësi i mallrave të rrezikshme ose nga personat juridikë ose fizikë, të tjerë, pjesëmarrës në transportin e mallrave të rrezikshme.
+4. Kur gjatë kontrollit sipas paragrafit 1. dhe 2. të këtij neni konstatohen një ose më shumë shkelje në lidhje me transportin e mallrave të rrezikshme, të metat e identifikuara në transportin e pranishëm duhet të eliminoj para se mjeti të lerë vendin, ku ai është ndaluar për t’u mbikëqyrur.

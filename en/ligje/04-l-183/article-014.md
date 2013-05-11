@@ -1,0 +1,7 @@
+# Article 14
+Duties of the participants in increasing safety and reporting the events involving
+dangerous goods
+1. All participants in the land transport of dangerous goods shall take all the necessary measures in accordance with the nature and envisaged expansion of dangers, for the reduction or avoidance of damages in people, property and environment. They shall implement, in all cases, the requirements of the agreement in Article 5 of this Law in their respective fields.
+2. In case of a serious danger or immediate accident, where the public and property safety can be endangered, the participants in the transport of dangerous goods shall notify immediately the Alarm and Urgent Coordination Center of the Agency on Emergency Management 112, by putting at its disposal all the necessary information in order to undertake the actions.
+3. In case of a serious accident or incident during the activity of loading, filling, transport or unloading of dangerous goods, the loader, filler, transporter or consignee, respectively for the field they cover shall prepare a report on the accident in accordance with the provisions of the agreement in Article 5 and present it to the Minister. The form and content of the report model shall be defined by a sub-legal act of the Ministry.
+4. Consigner, transporter and consignee shall cooperate with each other and with authorized persons of the state authorities in exchange of information for increasing the safety, prevention measures and procedures to be followed in case of accidents and incidents.

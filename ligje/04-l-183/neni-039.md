@@ -1,0 +1,7 @@
+# Neni 39
+Trajnimi profesional i drejtuesve të mjeteve
+1. Drejtuesit e mjeteve që transportojnë mallra të rrezikshme duhet të jenë të pajisur me një certifikatë të vlefshme kualifikimi.
+2. Çertifikata e kualifikimit lëshohet pasi drejtuesi i mjetit i është nënshtruar një kursi trajnimi dhe pasi ka kaluar një provim mbi kërkesat e veçanta që duhet të plotësohen gjatë transportit të mallrave të rrezikshme. Trajnimi dhe testimi (kontrolli) i drejtuesve të mjeteve kryhet nga personi juridik i autorizuar nga Ministri, nëse ato plotësojnë kushtet sipas paragrafit 5. të këtij neni.
+3. Programi, zbatimi, metoda e trajnimit, metoda e testimit të aftësisë profesionale të drejtuesve dhe kushtet për akreditimin e institucioneve që kryejnë procesin e trajnimit të drejtuesve në përputhje me dispozitat e marrëveshjes në paragrafit 1. të nenit 5 të këtij ligji përcaktohen me akt nënligjor nga Ministria.
+4. Forma, përmbajtja dhe vlefshmëria e certifikatave, mënyra dhe procedura për lëshimin e certifikatave të drejtuesit e testuar, në përputhje me dispozitat e marrëveshjes në paragrafin 1. të nenit 5 të këtij ligji, kushtet që duhet të plotësohen nga institucionet e paragrafin 2. të këtij neni përcaktohen me akt nën ligjor nga Ministria.
+5. Institucionet e autorizuara sipas paragrafit 2. të këtij neni do të mbajnë në regjistër, çdo kurs trajnimi të miratuar, çdo person të trajnuar dhe të testuar, si dhe çdo çertifikatë kualifikimi të lëshuar, për një periudhë e cila përcaktohet me akt nën ligjor nga Ministria.

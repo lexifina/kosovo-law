@@ -1,0 +1,7 @@
+# Article 39
+Professional training of drivers
+1. Drivers of vehicles transporting dangerous goods should be equipped with a valid qualification certificate.
+2. The qualification certificate shall be issued after the driver undergoes a training course and after he passes an examination on the special requirements to be met during the transport of dangerous goods. Drivers’ training and testing (control) shall be performed by legal person authorized by the Minister, if they meet the conditions according to paragraph 5 of this Article.
+3. Program, implementation, training method, testing method of the professional skill of drivers and the conditions for the accreditation of the institutions performing the training process of drivers in accordance with the provisions of the agreement in paragraph 1 of Article 5 of this Law shall be defined by sub-legal act of the Ministry.
+4. Form, content and validity of certificates, method and procedure on issuing certificates to the tested drivers in accordance with the provisions of the agreement in paragraph 1 of Article 5 of this Law, conditions to be met by the institutions of paragraph 2 of this Article shall be defined with sub-legal act by Ministry.
+5. Authorized institutions according to paragraph 2 of this Article shall keep in the register each approved training course, each trained and tested person, as well as each qualification certificate issued for a period defined with sub-legal act by the Ministry.
