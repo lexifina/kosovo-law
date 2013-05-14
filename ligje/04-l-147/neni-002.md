@@ -1,0 +1,3 @@
+# Neni 2
+Fushëveprimi
+Me këtë ligj rregullohen të gjitha çështjet që kanë të bëjnë me: ujërat sipërfaqësorë, liqenet, akumulimet, rezervuarët, burimet natyrore, ujërat nëntokësorë, tokat e lagëta, truallin buzë brigjeve të lumenjve, çështjet që kanë të bëjnë me menaxhimin e tyre; përdorimin dhe shpërndarjen e ujërave, mbrojtjen dhe ruajtjen e ujërave, mbrojtjen nga veprimet e dëmshme të ujërave, duke përfshirë përmbytjet, vërshimet, thatësitë, erozionin, objektet dhe infrastrukturën ujore, financimin e ujërave, si dhe kushtet, mënyrat dhe veprimet me të cilat mund të shfrytëzohet ose shkarkohen ujërat.

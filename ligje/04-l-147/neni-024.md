@@ -1,0 +1,4 @@
+# Neni 24
+Ndikimet negative të ujërave të Kosovës në shtetet fqinjë
+1. Në rastet e rrezikut nga ndotja, si dhe ndotjeve të papritura apo shkarkimeve të ujërave të ndotura ose ndikimeve tjera nga ndonjë lum i cili kalon kufijtë e Republikës së Kosovës, Ministria në bashkëpunim me ministritë relevante, informon palët, shtetet të cilat rrezikohen nga gjendja e krijuar.
+2. Ministria obligohet të identifikojë shkaqet dhe pasojat nga ndotja dhe ndikimet tjera negative. Në afatin sa më të shkurt kohorë të filloj procedurat për ndërmarrjen e masave sanuese, si dhe të filloj proceduarat për negocimin dhe harmonizimin e veprimeve me autoritetet kompetente të shteteve në kufij për zbatimin e masave për minimizimin e rrezikut, si dhe eliminimin e rrezikut në burim të parë nga ku është ardhur ndotja apo efekti tjetër negativ në ujë.

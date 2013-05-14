@@ -1,0 +1,4 @@
+# Article 24
+Negative impacts of waters of Kosovo to the neighboring states
+1. In case of danger from pollution, and pollution discharges unexpected or contaminated water or other impacts from a river which crosses the borders of the Republic of Kosovo, Ministry of Environment and Spatial Planning -MESP in cooperation with the relevant Ministries inform the parties, states which are threatened by the created situation.
+2. Ministry is obliged to identify the causes and consequences of pollution and other negative effects and in a short term to initiate the procedures for undertaking adjustment measures, and to initiate procedures for negotiation and harmonization of actions with the competent authorities of boarder states in implementing measures for risk minimization, and elimination of the risk in first source from where is coming pollution or other negative effect on the waters.
