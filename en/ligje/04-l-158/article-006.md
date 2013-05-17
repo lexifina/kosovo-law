@@ -1,0 +1,6 @@
+# Article 6
+1. Article 9 of the basic law, paragraph 1. subparagraph 1.2 the word „sixty (60)” shall be replaced with „thirty (30) days” and the word „one hundred and twenty (120)“ shall be replaced with „sixty (60) days”. And at the end of subparagraph 1.2. shall be added the following text: “In case of major failures, the Licensee shall submit to the ICMM the improved plan within thirty (30) days, including the implementation schedule for review and approval by ICMM”;
+2. Article 9 of the basic law, paragraph 1. subparagraph 1.3 shall be reworded with the following text:
+1.3. to define measures which the Licence/Permit Holder is required to undertake to improve that failure, which might include paying the administrative fee in compliance with Article 79 paragraph 2 by the Licence/Permit Holder, if the failure has caused a seriously dangerous situation.
+3. Article 9 of the basic law, paragraph 1, subparagraph 1.4., after subparagraph 1.4.2. a new subparagraph 1.4.3. shall be added with the following text:
+1.4.3. priory was not revoked or suspended any Licence or Permit Holder or were collected the securities by ICMM, or by any other regulatory agency for environment of mines in Europe, unless such act is devaluated or cancelled by a competent court; and

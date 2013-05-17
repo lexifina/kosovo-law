@@ -1,0 +1,3 @@
+# Neni 5
+Neni 8 i ligjit bazik paragrafi 3., riformulohet me tekstin si në vijim:
+3. Për dorëzimin e zonës së licencës së hulumtimit aplikuesi duhet të sjell në KPMM koordinatat e zonës që do të mbahet dhe arsyeshmërinë e dorëzimit të zonës. Nëse aprovohet aplikacioni nga KPMM atëherë lëshohet aneks licence me sipërfaqe të reduktuar. Ndërsa për dorëzimin e zonës së licencës së shfrytëzimit aplikuesi duhet të sjell në KPMM koordinatat e zonës që do të mbahet edhe më tutje, arsyeshmërinë e dorëzimit të zonës dhe nëse zona e licencës së shfrytëzimit është shfrytëzuar pjesërisht atëherë detyrohet i licencuari të bëjë rehabilitimin e zonës së shfrytëzuar. Nëse aprovohet aplikacioni nga KPMM atëherë lëshohet aneks licence me sipërfaqe të reduktuar.

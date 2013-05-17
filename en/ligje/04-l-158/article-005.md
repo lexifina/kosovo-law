@@ -1,0 +1,3 @@
+# Article 5
+Article 8 of the basic law, paragraph 3 shall be amended with the following text:
+3. For handing in of the exploration licence zone, the applicant must bring to the ICMM the coordinates of the zone that will be held and the justification for handing in the zone. If the application is approved by ICMM, then an annex licence is issued with the reduced area. Whereas for handing in the zone of an exploitation licence, the applicant must bring to the ICMM coordinates of the zone to be held, the justification for handing in the zone, and if the zone of exploitation licence was partially exploited then the applicant is obliged to rehabilitate the exploited zone. If the application is approved by ICMM, then an annex licence is issued with the reduced area.

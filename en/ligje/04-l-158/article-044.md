@@ -1,0 +1,9 @@
+# Article 44
+1. Article 73 of the basic law , paragraph 4. shall be reworded with the following text:
+4. No Public Authority cannot approve or implement any spatial or urban plan with consent of the Ministry. Prior to giving this consent, the Ministry must consult the ICMM. The Ministry must provide the given consent except when ICMM submits the Ministry a written explanation which clearly shows that implementation of such a plan will interfere considerably with the coordinated and sustainable exploration of the Mineral Resources in Kosovo.
+2. Article 73 of the basic law , after paragraph 4., new paragraphs 5., 6., 7. and 8. shall be added with the following text:
+5. Based on the Mining Strategy, the Ministry in cooperation with the Geological Institute of Kosovo (GIK) and the ICMM prepares, and the Government of the Republic of Kosovo approves the Programme for Implementation of the Mining Strategy for a period of at least three (3) years. The Ministry is responsible for monitoring and implementation of the programme.
+6. The Programme for Implementation of the Mining Strategy defines measures and activities that need to be implemented including forecast of expenditures and expected funding sources, expected timelines for implementation and defines persons/institutions in charge for implementation.
+6.1. for implementation of Mining Strategy policies, the Government can approve secondary legislation, if necessary.
+7. All relevant institutions in the field of mining sector are obliged to fulfil obligations deriving from the Mining Strategy and the Programme for Implementation of the Mining Strategy.
+8. At the end of each calendar year, the Ministry drafts and presents annual progress report to the Government of the Republic of Kosovo, on the progress in implementing the Programme for Implementation of the Mining Strategy. The report must be presented within the first quarter of the subsequent calendar year.

@@ -1,0 +1,6 @@
+# Neni 6
+1. Neni 9 i ligjit bazik, paragrafi 1., nënparagrafi 1.2. fjala „gjashtëdhjetë (60)” zëvendësohet në “tridhjetë (30) ditë“ dhe fjala “njëqindenjëzet (120)“ zëvendësohet në “gjashtëdhjetë (60) ditë“. Dhe në fund të nënparagrafit 1.2. shtohet teksti si në vijim: “Në rast të dështimeve të mëdha, i Licencuari do ta dorëzojë tek KPMM-ja planin e përmirësimit brenda tridhjetë (30) ditësh, përfshirë orarin e implementimit për shqyrtim dhe aprovim nga KPMM-ja“;
+2. Neni 9 i ligji bazik, paragrafi 1., nënparagrafi 1.3, riformulohet me tekstin si në vijim:
+1.3. të përcaktojë masat të cilat bartësi i licencës/lejes kërkohet t’i marrë për të përmirësuar atë dështim, e cila mund të përfshin pagesën e gjobës administrative në pajtim me nenin 79 paragrafi 2. nga bartësi i licencës/lejes, nëse dështimi ka shkaktuar një gjendje seriozisht të rrezikshme;
+3. Neni 9 i ligji bazik, paragrafi 1., nënparagrafi 1.4., pas nënparagrafit 1.4.2 shtohet një nënparagraf i ri 1.4.3 me tekstin si në vijim:
+1.4.3. paraprakisht nuk i është revokuar ose suspenduar ndonjë licencë ose leje apo i është inkasuar letra me vlerë nga KPMM, apo nga ndonjë agjencion rregullator për ambient apo miniera në Evropë, përveç kur veprimi i këtillë është zhvleftësuar ose anuluar nga një gjykatë kompetente;dhe

@@ -1,0 +1,9 @@
+# Neni 44
+1. Neni 73 i ligjit bazik, paragrafi 4. riformulohet me tekstin si në vijim:
+4. Asnjë Autoritet Publik nuk mund të miratojë ose zbatojë ndonjë plan hapësinor ose urbanistik pa pëlqimin e Ministrisë. Para dhënies së këtij pëlqimi, Ministria duhet të këshillohet me KPMM. Ministria duhet ta japë pëlqimin në fjalë përveç nëse KPMM i dorëzon Ministrisë një shpjegim me shkrim i cili në mënyrë të qartë tregon se zbatimi i një plani të tillë do të ndërhyjë në masë të konsiderueshme me hulumtimin e koordinuar dhe të qëndrueshëm të Resurseve Minerale në Kosovë.
+2. Neni 73 i ligjit bazik, pas paragrafit 4. shtohen paragrafët e rinj 5.,6.,7., dhe 8. me tekstin si në vijim:
+5. Bazuar në Strategjinë Minerare, Ministria ne bashkëpunim me Institutin Gjeologjik të Kosovës dhe KPMM përgatit dhe Qeveria e Republikës së Kosovës miraton Programin për Zbatimin e Strategjisë Minerare për një periudhë së paku tre (3) vjeçare. Ministria është përgjegjëse për monitorimin dhe zbatimin të këtij programi.
+6. Programi për zbatimin e Strategjisë Minerare përcakton masat dhe aktivitet që duhen zbatuar përfshirë, parashikimin e shpenzimeve dhe burimet e pritura të financimit, kohën e pritshme të realizimit si dhe përcakton subjektet përgjegjëse për implementim.
+6.1. Për Zbatimin e politikave të Strategjisë Minerare, Qeveria mund të miratoj legjislacion sekondar, në rast se kjo është e domosdoshme.
+7. Të gjitha institucionet relevante në sektorin minerar janë të obliguara ti përmbahen obligimeve që rrjedhin nga Strategjia Minerare dhe Programi për Zbatimin e Strategjisë Minerare.
+8. Në fund të çdo viti kalendarik, Ministria harton dhe paraqet raportin vjetor të progresit të Qeverinë së Republikës së Kosovës, mbi progresin e realizmit të Programit për Zbatimin e Strategjisë Minerare. Ky raport duhet të paraqitet brenda tremujorit të parë të vitit vijues kalendarik.
