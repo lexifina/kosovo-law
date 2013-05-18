@@ -1,0 +1,9 @@
+# Article 42
+Right to refund
+1. A payer shall be entitled to a refund from his payment institution of an authorized fund transfer initiated by or through a payee which has already been executed, if the following conditions are met:
+1.1. the authorization did not specify the exact amount of the payment transaction when the authorization was made; and
+1.2. the amount of the payment exceeded the amount the payer could reasonably have expected taking into account his previous spending pattern, the conditions in his framework contract and relevant circumstances of the case. At the payment institution request, the payer shall provide factual elements relating to such conditions.
+2. The refund shall consist of the full amount of the executed transfer. However, the payer and his payment institution may agree in the framework contract that the payer is entitled to a refund even though the conditions for refund in paragraph 1. of this Article are not met.
+3. It may be agreed in the framework contract between the payer and his payment institution that the payer has no right to a refund where he has given his consent to execute the transfer directly to his payment institution and, where applicable, information on the future transfer was provided or made available in an agreed manner to the payer for at least one (1) week before the due date by the payment institution or by the payee.
+4. The payer can request the refund referred to in paragraph 1. of this Article of an authorized transfer initiated by or through a payee for a period of sixty (60) days from the date on which the funds were debited.
+5. Within ten (10) business days of receiving a request for a refund, the payment institution shall either refund the full amount of the transfer or provide justification for refusing the refund.

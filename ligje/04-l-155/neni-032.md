@@ -1,0 +1,5 @@
+# Neni 32
+Transmetimi i urdhërpagesave nëpërmjet sistemit të transferimeve elektronike të fondeve
+1. Nëse një urdhërpagesë që do t’i adresohet institucionit pranues transmetohet në sistemin e transfereve elektronike të fondeve, ky sistem konsiderohet të jetë një agjent i dërguesit më qëllim të transmetimit të urdhërpagesës tek institucioni. Nëse ekziston ndonjë mospërputhje ndërmjet kushteve të urdhërpagesës të transmetuar në sistemin e transfereve elektronike të fondeve nga dërguesi dhe kushteve të urdhërpagesës së transmetuar nga ky sistem tek institucioni, kjo e fundit mbizotëron, përveç nëse parashihet ndryshe nga rregullat e këtij sistemi.
+2. Institucioni i pagesave nuk duhet t’i shmanget asnjë obligimi ndaj klientit të tij vetëm për arsye të faktit se ai është palë në sistemin e përbashkët të transfereve elektronike të fondeve dhe se një palë tjetër në sistem ka dështuar në përmbushjen e obligimeve të tij sipas këtij ligji.
+3. Të drejtat dhe përgjegjësitë përkatëse të palëve në sistemin e përbashkët të transfereve elektronike të fondeve përcaktohen më anë të marrëveshjeve dypalëshe ose shumëpalëshe e që i nënshtrohet mbikëqyrjes së Bankës Qendrore.

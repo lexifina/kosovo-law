@@ -1,0 +1,5 @@
+# Article 32
+Transmission of payment orders through electronic fund transfers system
+1. If a payment order to be addressed to a receiving institution is transmitted to an electronic fund transfers system, this system is deemed to be an agent of the sender for the purpose of transmitting the payment order to the institution. If there is a discrepancy between the terms of the payment order as transmitted to the electronic fund transfers system by the sender and the terms of the payment order transmitted by this system to the institution, the latter shall prevail, unless otherwise provided by the rules of this system.
+2. A payment institution should not avoid any obligation to its customer by reason only of the fact that it is a party to a shared electronic fund transfers system, and that another party to the system had failed to fulfill its obligations under this Law.
+3. The respective rights and responsibilities of parties to a shared electronic fund transfers system shall be determined by bilateral or multilateral agreement subject to the Central Bank oversight.

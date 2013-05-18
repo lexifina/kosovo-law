@@ -1,0 +1,9 @@
+# Neni 42
+E drejta në kompensim
+1. Paguesi ka të drejtë që të kompensohet nga institucioni i tij i pagesave për një transfer të autorizuar të fondeve të iniciuar nga apo nëpërmjet të të paguarit i cili tashmë është ekzekutuar, nëse plotësohen kushtet si në vijim:
+1.1 .autorizimi nuk ka specifikuar shumën e saktë të transaksionit të pagesës kur është bërë autorizimi; dhe
+1.2. shuma e pagesës e ka tejkaluar shumën që paguesi më arsye ka mundur ta presë duke marrë parasysh strukturën e mëparshme shpenzuese, kushtet në kontratën e tij kornizë dhe rrethanat relevante të rastit. Më kërkesë të institucionit të pagesave, paguesi ofron elemente faktike lidhur me kushtet e tilla.
+2. Kompensimi përbëhet nga shuma e plotë e transferit të ekzekutuar. Megjithatë, paguesi dhe institucioni i tij i pagesave mund të pajtohen në kontratën kornizë se paguesi ka të drejtë kompensimi madje edhe nëse nuk plotësohen kushtet për kompensim në paragrafin 1. të këtij neni.
+3. Në kontratën kornizë, paguesi dhe institucioni i tij financiar mund të pajtohen që paguesi të mos ketë të drejtë kompensimi në rast se ai ka dhënë miratimin e tij për të ekzekutuar transferin drejtpërsëdrejti në institucionin e tij të pagesave dhe, kur është e aplikueshme, informacionet rreth transferit të ardhshëm janë dhënë apo vënë në dispozicion të paguesit sipas mënyrës së dakorduar për së paku një (1) javë para datës së paraparë nga ana e institucionit të pagesave apo nga i paguari.
+4. Paguesi mund të kërkojë kompensimin e referuar në paragrafin 1. të këtij neni për një transfer të autorizuar të iniciuar nga apo nëpërmjet tetë paguarit për një periudhë prej gjashtëdhjetë (60) ditë nga data në të cilën fondet janë debituar.
+5. Brenda dhjetë (10) ditëve pune nga pranimi i kërkesës për kompensim, institucioni i pagesave ose e kompenson shumën e plotë të transferit apo ofron një justifikim për refuzimin e kompensimit.
