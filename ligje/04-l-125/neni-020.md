@@ -1,0 +1,5 @@
+# Neni 20
+Kujdesi dytësor shëndetësor në komuna
+1. Kujdesi dytësor shëndetësor mund të organizohet edhe në nivelin komunal me kërkesën e Kuvendit përkatës komunal, dhe në pajtim me vendimin e Ministrit të Shëndetësisë.
+2. Institucionet e kujdesit shëndetësor që nuk janë pjesë e organizatës shëndetësore nga neni 68 i këtij ligji, në komunat ku kujdesi dytësor shëndetësor zbatohet në bazë të legjislacionit përkatës për vetëqeverisjen lokale, do të kenë kompetenca të zgjeruara për ofrimin e kujdesit shëndetësor sekondar, përfshirë këtu: regjistrimin dhe licencimin e institucioneve të kujdesit shëndetësor në bashkëpunim me Ministrinë; punësimin dhe pagesën e pagave dhe mëditjeve në pajtim me legjislacionin në fuqi; si dhe trajnimin e personelit dhe administratorëve të kujdesit shëndetësor, në bashkëpunim me Odat e profesionistëve shëndetësorë nga neni 78 i këtij ligji.
+3. Procedurat për zbatimin e kompetencave të kujdesit dytësor shëndetësor, rregullohen me këtë ligj dhe aktet e tjera nën-ligjore, përveç nëse nuk është përcaktuar ndryshe me legjislacionin përkatës për vetëqeverisje lokale.

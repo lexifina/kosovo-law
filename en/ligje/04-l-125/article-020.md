@@ -1,0 +1,5 @@
+# Article 20
+Secondary healthcare in municipalities
+1. Secondary healthcare can be organized at the municipal level with the request of respective municipal assembly, as well, in compliance with the Decree of the Minister of Health.
+2. Health care institutions that are not part of the health organization from Article 68 of this law in the municipalities where the secondary healthcare is implemented based on the relevant legislation for local self government, shall have extended competencies to provide secondary healthcare, including: registration and licensing of health care institutions in cooperation with the Ministry, recruitment, payment of wages and salaries in compliance with the legislation into force, as well astraining of health care personnel and administrators in cooperation with the chambers of health professionals from Article 78 of this Law.
+3. Procedures for implementation of competencies in secondary healthcare are regulated by this law and relevant sub-legal acts, except if it is not determined differently by relevant legislation governing local administration.

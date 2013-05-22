@@ -1,4 +1,0 @@
-# Neni 3
-Në nenin 30 shtohen dy paragrafë të reja 30.3 dhe 30.4 të cilat kanë përmbajtjen në vijim:
-30.3 Komuna e Mitrovicës së Veriut, Komuna e Graçanicës dhe Komuna e Shtërpcës, do të kenë kompetenca vetanake për ofrimin e kujdesit shëndetësor dytësor, duke përfshirë regjistrimin dhe licencimin e institucioneve të kujdesit shëndetësor, në bashkëpunim me Ministrinë e Shëndetësisë, marrjen në punë, pagesën e rrogave, aftësimin e personelit shëndetësor dhe administratorëve të kujdesit shëndetësor, në pajtueshmëri me udhëzimet dhe standardet e përcaktuara me legjislacionin në fuqi.
-30.4 Në përputhshmëri me Ligjin për Vetëqeverisje Lokale institucionet shëndetësore publike të nivelit dytësor kanë të drejtë të bashkëpunojnë me institucionet shëndetësore të komunave tjera brenda sferës së kompetencave të veta në fushën e kujdesit dytësor shëndetësor.

@@ -1,4 +1,0 @@
-# Neni 3
-3.1 Punonjësit privat të kujdesit shёndetёsor i takojnë të drejtat dhe detyrimet e përcaktuara me Ligjin e Punës.
-3.2 Punonjësi privat i kujdesit shёndetёsor ka detyrë të kryejë si më poshtë :
-a). Tё ofroj shёrbime tё kujdesit emergjent shёndetёsor; b). Të ofrojë shërbime të kujdesit shëndetësor në pajtim me doktrinën e pranuar mjekësore si dhe parimet e etikës mjekësore; c). T’u përmbahet standardeve të shërbimeve të kujdesit shëndetësor; d). Të marrë pjesë në ofrimin e shërbimeve të kujdesit shëndetësor në rastet e gjendjeve të jashtëzakonshme, me ftesë të organeve kompetente; e). Të marrë pjesë në programet për eliminimin e sëmundjeve ngjitëse, me ftesë të organeve kompetente; f). Ti respektojë të drejtat dhe përgjegjësitë e banorëve në kujdesin shëndetësor, në pajtim me ligjin sipas paragrafit 5.1 (c).
