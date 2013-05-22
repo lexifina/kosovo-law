@@ -1,0 +1,4 @@
+# Article 17
+Incompatibility
+1. The government should not hire, contract, or engage any person to perform work or serve in any capacity with responsibility for tobacco control, if that person is professionally engaged with the tobacco industry, or worked there in the last twelve (12) months or if that person has any other conflict of interest with the responsibilities of the position, contract, or service for tobacco control.
+2. The senior officer who finishes the mandate of public function, for one (1) year from the termination of contract, has no right of employment or be appointed to managing positions or be involved in tobacco control of companies, if his duties during the last two (2) years before the end of his public function were directly related to the supervision or control of the business of those companies.

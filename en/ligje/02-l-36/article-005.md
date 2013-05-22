@@ -1,5 +1,0 @@
-# Article 5
-5.1. Tobacco products being sold in the Kosovo market shall contain signs in compliance with the procedures foreseen by legal acts,
-5.2. Any type of individual package of tobacco products manufactured or imported and distributed to the Kosovo market shall contain the following information:
-a. The amount of nicotine; b. The amount of tar; c. The amount of carbon monoxide; d. The serial number or its equivalent; e. The name and address of the manufacturer or importer; f. The number of units in individual packages of tobacco products; g. The name and address of the packager, in cases when the manufacturer did not carry out the packaging
-5.3. Any type of package and any type of information presented for tobacco products shall not give the wrong impression regarding the characteristics of tobacco and its effects in the humans’ health, including also information that one type of tobacco products is less harmful than other types. Therefore, it is prohibited to use terms “light”, “ultra-light”, “mild”, “low tar” and similar terms and information in any type of tobacco package.

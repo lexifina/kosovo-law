@@ -1,0 +1,4 @@
+# Neni 17
+Papajtueshmëria
+1. Qeveria nuk duhet të punësojë, kontraktojë, apo të angazhojë ndonjë person për të kryer punë ose shërbyer në çfarëdo kapaciteti me përgjegjësi për kontrollin e duhanit, nëse ai person është i angazhuar profesionalisht me industrinë e duhanit, ose ka punuar aty në dymbëdhjetë (12) muajt e kaluar, ose nëse ai person ka ndonjë konflikt tjetër të interesit me përgjegjësitë e pozitës, kontratës, ose shërbimit për kontrollin e duhanit.
+2. Zyrtari i lartë i cili përfundon ushtrimin e funksionit publik nuk ka të drejtë për një vit të punësohet ose të emërohet në pozitë udhëheqëse, apo të përfshihet në kontrollin e kompanive të duhanit, nëse detyrat e tij gjatë periudhës dy (2) vjeçare para përfundimit të ushtrimit të funksionit publik kanë qenë drejtpërdrejtë të lidhura me mbikëqyrjen apo kontrollin e afarizmit të atyre kompanive.
