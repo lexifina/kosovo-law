@@ -1,0 +1,3 @@
+# Neni 55
+Apelimi në gjykatën kompetente
+Kundër vendimit të shkallës së dytë përkatësisht përfundimtar, me të cilin është shqiptuar masa disiplinore – humbja e të drejtës për ushtrimin e avokatisë prej gjashtë (6) muajsh deri në pesë (5) vjet, humbjes së të drejtës së ushtrimit të avokatisë prej pesë (5) vjet gjer në dhjetë (10) vjet apo të humbjes së përhershme të së drejtës për ushtrim të avokatisë apo shlyerje nga regjistri i praktikantëve prej gjashtë (6) muajsh gjer në tre (3) vjet, si dhe shlyerja e përhershme nga regjistri i praktikantëve, mund të hapet konflikti administrativ në gjykatën kompetente.

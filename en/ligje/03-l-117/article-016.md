@@ -1,4 +1,0 @@
-# Article 16
-The rights of lawyers in the course of solicitation
-1. The state bodies and other competent bodies should provide lawyers with necessary information and documents in order to enable them provide solicitation in concrete cases, provided this means do not conflict the obligation of keeping the official and professional secrecy. The lawyer, in the course of exercising his profession, is entitled to require from public administration institutions explanations, information and documents, related to the issue or the person who is provided solicitation or representation, in compliance with the law.
-2. The lawyer has the right, in accordance with investigation procedures, to participate in proceedings, to pose questions to the person he/she is soliciting, to witnesses and experts, to read and be acquainted with all acts and documents related to the case and to sign them after the investigation is brought to a close.
