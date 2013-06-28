@@ -1,2 +1,0 @@
-# Article 16
-Article 30, shall be amended and supplemented as follows: Paragraph 1, shall be amended as follows: “Pupils and students from place of residence to destination and vice versa”. In paragraph 1, after point 2 shall be supplemented also with another new point “invalids and persons under special care” After paragraph 6 shall be supplemented a new paragraph: “The Transport Operator shall be obliged that to all mentioned passengers in Article 30.1, fit them by an identification card.

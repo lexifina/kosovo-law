@@ -1,2 +1,0 @@
-# Article 44
-On the bus by which own account transport is performed, must be filled in a register of workers or of other persons, certified by the owner (transporter), or any other evidence of the right for the transportation of these workers or persons. On both sides, or on the lower right hand angle of the windshield window of the bus by which own account passenger transport is performed, must be marked with the inscription “Own Account Transport”.

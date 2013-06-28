@@ -1,2 +1,0 @@
-# Neni 44
-Në autobusin me të cilin kryhet transporti për nevoja personale duhet të jetë i plotësuar regjistri i punëtorëve ose i personave tjerë i vërtetuar nga ana e pronarit (transportuesit), ose ndonjë dëshmi tjetër për të drejtën e transportit së këtyre punëtorëve ose personave. Në të dy anët, ose në këndin e djathtë të poshtëm të xhamit mbrojtës të autobusit,me të cilët kryhet transporti i udhëtarëve për nevoja personale, duhet të jetë i shënuar mbishkrimi " Transporti për nevoja personale ".

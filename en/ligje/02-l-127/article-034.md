@@ -1,2 +1,0 @@
-# Article 34
-In Chapter VI, Provisional and Conclusive Provisions – shall be added a new Article as follows: “To all Transport Urban Operators of Passengers and Transport Freight Operators of Own Account of cargo weight from 3.5 t – 12 t, licensed by the Ministry, the license shall be valid until expiration of the license; for extension of exercising these types of transport, shall be licensed according to Article 3 of this Law”.
