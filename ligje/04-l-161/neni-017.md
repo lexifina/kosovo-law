@@ -1,0 +1,7 @@
+# Neni 17
+Punët me kushte të veçanta
+1. Punë me kushte të veçanta sipas dispozitave të këtij ligji, janë punët që mund të kryhen vetëm nga të punësuarit të cilët përveç kushteve të përgjithshme për themelimin e marrëdhënies së punës, duhet të përmbushin edhe kushtet dhe kriteret e veçanta të moshës, gjinisë, aftësisë profesionale, shëndetësore, fizike, gjendjes mendore, psiko-fizike dhe psikologjike.
+2. Punëdhënësi nuk duhet të caktojë të punësuarin në punë me kushte të veçanta, në qoftë se paraprakisht, në mënyrë të shkruar, nuk është përcaktuar që i punësuari i plotëson kushtet dhe kriteret e nevojshme nga paragrafi 1. i këtij neni.
+3. Punëdhënësi është i detyruar që para së ta caktojë të punësuarin në vend të punës me kushte të veçanta, ta dërgojë atë në kontroll mjekësor, që të konstatojë aftësitë e tij shëndetësore, fizike dhe psikike, për kryerjen e punëve në atë vend të punës.
+4. Punëdhënësi është i detyruar të ofrojë dëshmi me shkrim në përshkrimin e punëve dhe detyrave të punës për të punësuarin në vend të punës me kushte të veçanta, se ai i plotëson kushtet dhe kriteret për punë në vend të punës me kushte të veçanta në pajtim me paragrafin 1. të këtij neni.
+5. Punëdhënësi të punësuarin i cili punon në vend të punës me kushte të veçanta të punës, është i detyruar ta dërgojë në kontrollim mjekësorë së paku një herë në vit dhe sa herë të paraqitet nevoja, varësisht prej gjendjes shëndetësore të tij.
