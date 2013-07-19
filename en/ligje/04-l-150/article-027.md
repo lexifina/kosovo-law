@@ -1,0 +1,2 @@
+# Article 27
+The initiation of the procedure before the Court of Honor, regarding the determination of the violations of the member of the chamber from sub-paragraphs 1.4, 1.5, 1.6, and 1.7 of paragraph 1 of Article 25 of this Law may not be initiated after the expiration of the term of one (1) year from the day of the professional violation and the violation of the honor of the member of the chamber
