@@ -1,0 +1,4 @@
+# Neni 41
+Anulimi i procedurës për emrat e origjinës apo treguesit gjeografik të cilët kanë të bëjnë me zonën gjeografike që ndodhet jashtë Kosovës
+1. Në rast se anulimi kërkohet mbi bazat e referuara në nënparagrafin 1.3. të paragrafit 1. të nenit 38 të këtij ligji, pavarësisht prej dispozitës së paragrafit 1. të nenit 39 të këtij ligji, kërkesa ka mundësi që gjithashtu të parashtrohet nga autoritetet relevante të vendit të origjinës dhe pavarësisht prej dispozitës së paragrafit 2. të nenit 39 të këtij ligji kërkesa e tillë duhet që gjithashtu të shoqërohet me një kopje të certifikatës apo ndonjë dokumenti tjetër ligjor në gjuhën e vendit origjinës dhe të përkthyer që vërteton se emri tash e tutje nuk është i mbrojtur në vendin e origjinës.
+2. Në rast se kërkohet anulim mbi bazat e referuara në nënparagrafin 1.3. paragrafi 1. të nenit 38 dhe paragrafët 4. dhe 5. të nenit 39 të këtij ligji, nuk do të zbatohen.

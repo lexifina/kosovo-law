@@ -1,0 +1,9 @@
+# Article 39
+Cancellation Procedure
+1. Cancellation of a decision on the protection of a designation of origin or a geographical indication may be requested by any natural or legal person or by the office ex officio.
+2. The application under paragraph 1 of this Article shall contain the reasons for the request and any other information or document that will be prescribed in details by a sub-legal act issued by the Ministry.
+3. If the Office finds that the application does not contain all the requirements prescribed under paragraph 2 of this Article, the application will be canceled.
+4. If the application under paragraph 1 of this Article will contain all the requirements prescribed by paragraph 2 of this Article, it will be published in the Official Gazette of the Office.
+5. Within three (3) months from the date of publication of relevant data on the application for cancellation of the decision for protection of a designation of origin or geographical indication based on paragraph 4 of this Article, any interested person may provide an opposition declaration for the application for cancellation of the decision for protection of an designation of origin or geographical indication if such a person can show continued commercial support of the registered designation.
+6. If the Office finds that the application for cancellation of the decision for protection of the designation of origin or geographical indication is justified, it will cancel the registration of the designation of origin or a geographical indication, will delete the records from the Register after the decision on cancellation becomes final and will publish that fact in the Bulletin of the office.
+7. The Office shall reject the application for cancellation of the registration for protection of a designation of origin or a geographical indication if it determines that it is not grounded.

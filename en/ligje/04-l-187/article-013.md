@@ -1,0 +1,5 @@
+# Article 13
+Relations between trademarks, designations of origin and geographical indications
+1. Where a designation of origin or geographical indication is registered under this Law, the application for registration of a trademark corresponding to one of the situations referred to in Article 12 of this Law associated with the same class of product is rejected, if the application for trademark registration is submitted for registration after the date of filing of the application for registration, under this Law.
+2. Registered trademarks registered in contradiction with the preceding paragraph shall be repealed by the Office.
+3. A trademark, the use of which corresponds to one of the situations referred to in Article 12 of this Law, and to which it was applied for registration in good faith in Kosovo before to the date of filing of the application for registration, under this Law, may continue to be used despite registration of the designation of origin or geographical indication, if there are no grounds for its invalidity or revocation under the Law on Trademarks.
