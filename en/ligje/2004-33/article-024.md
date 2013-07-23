@@ -1,3 +1,0 @@
-# Article 24
-24.1. The authorized person from the Ministry, who has the responsibility to monitor, control, inspect and enforce the decisions or other rules related to quality standards concerning on-farm produced livestock products and for taking sample of feed stuff, additives and livestock products for official analysis, has the right to access the public and private property at any time and without prior warning.
-24.2. Livestock producers and livestock product processing industries, producers, processors, transporters and traders of the livestock feed material and additives shall upon request, provide the information necessary for the execution of quality control, and shall provide the needed assistance for the carrying out of the product quality control.
