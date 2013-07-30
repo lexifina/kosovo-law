@@ -1,0 +1,5 @@
+# Article 45
+Suspicion in the construction product
+1. If during the surveillance of a construction product it is suspected that the construction product does not meet the conditions set forth even though for that product have been applied or it is being applied the conformity assessment procedure, the competent inspectorate orders verification / testing of the construction product from the conformity assessment bodies.
+2. If during the controlling procedure of the construction product at the manufacturers, authorized representative, or distributor it is determined that the construction product does not meet the conditions set forth, the competent inspector through a decision orders the prohibition of placing on the market and distribution of the construction product, and with the same decision prohibits placing of the construction product in construction works.
+3. In the decision referred to paragraph 2. of this Article, shall be determined the costs for implementation of the verification / testing procedure and the bearer of the testing payment.

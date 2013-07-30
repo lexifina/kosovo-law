@@ -1,0 +1,4 @@
+# Article 22
+Responsibility of the conformity assessment authorized body
+1. The authorized body for carrying out conformity assessment activities of the construction product with technical specifications, respectively for the issuance of factory production control certificate is responsible for the implementation of these activities, respectively for the issuance of the certificate in accordance with the provisions and professional rules in force, and for the continued fulfillment of the conditions prescribed for granting the authorization.
+2. The authorized body for carrying out conformity assessment activities of the construction product with technical specifications, respectively for the issuance of factory production control certificate is obliged to notify the competent Ministry for any change relating to the conditions of granting or revocation of this authorization no later than fourteen (14) days from date of the change.

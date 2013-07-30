@@ -1,0 +1,8 @@
+# Neni 10
+Parimet e përgjithshme dhe përdorimi i shenjës së konformitetit
+1. Shenja e konformitetit, duhet të vendoset në ato produkte të ndërtimit për të cilat prodhuesi ka hartuar Deklaratën e Konformitetit në përputhje me nenet 6 dhe 7 të këtij ligji.
+2. Në qoftë se deklarata e konformitetit nuk është hartuar nga prodhuesi në përputhje me nenet 6 dhe 7 të këtij ligji, atëherë shenja e konformitetit nuk lejohet të vendoset.
+3. Me vendosjen e shenjës së konformitetit, prodhuesit marrin përgjegjësi për konformitet të produktit të ndërtimit me performancën e deklaruar, si dhe përputhjen me të gjitha kërkesat e zbatueshme të përcaktuara në këtë ligj dhe dispozitat tjera ligjore të cilat e përcaktojnë vendosjen e saj.
+4. Për çdo produkt ndërtimi konform standardit të harmonizuar ose për të cilët është lëshuar deklarata e konformitetit, shenja e konformitetit është shenja e vetme që vërteton konformitetin e produktit të ndërtimit me performancën e deklaruar në lidhje me karakteristikat themelore konform standardeve, ose deklaratës së konformitetit.
+5. Nuk mund të ndalohet ose të pengohet vendosja në treg apo përdorimi i produkteve të ndërtimit të shënjuar me shenjën e konformitetit, kur konformiteti i deklaruar korrespondon me kërkesat për përdorim të tillë në Republikën e Kosovës.
+6. Republika e Kosovës duhet të sigurojë se përdorimi i produkteve të ndërtimit të shënjuara me shenjën e konformitetit nuk do të pengohet nga rregullat ose kushtet e vendosura nga organet publike apo private që veprojnë si një ndërmarrje publike, apo që veprojnë si organ publik në bazë të një pozite monopoli ose nën mandatin publik, kur konformitetet e deklaruara korrespondojnë me kërkesat për përdorim të tillë.
