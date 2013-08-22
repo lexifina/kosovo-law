@@ -1,0 +1,5 @@
+# Neni 11
+Në nenin 21 të ligjit bazik, paragrafi 21.1, pika “a” zëvendësohet me tekstin si në vijim:
+a) një mbishikim të rrethanave ekonomike në të cilat është përgatitur buxheti dhe rekomandimet për një strategji afat-shkurte dhe afat-mesme fiskale, e cila, nëse kërkohet, përfshin përshtatjet fiskale për të adresuar çështjet e parapara në pikën i dhe ii, të këtij paragrafi. Përshtatjet e tilla fiskale duhet të realizohen në një horizont më të shkurtër kohor në rast të rritjes së të hyrave. Në veçanti, cilat do pranime të të hyrave që janë mbi të hyrat e buxhetuara përdoren në tërësi për të kompensuar deficitet e tepruara dhe për të rivendosur kufirin e deficitit:
+i. për të kompensuar brenda tri (3) viteve fiskale një deficit të tepruar, apo
+ii. për të rivendosur kufirin e deficitit pas një rritjeje të tij në përputhje me nenin 12 (22B) të këtij ligji, qoftë brenda tri (3) viteve fiskale nëse deficiti i tepruar ka qenë më i vogël se 1% apo brenda pesë (5) viteve fiskale në rast të një deficiti të tepruar më të lartë.
