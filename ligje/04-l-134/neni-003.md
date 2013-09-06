@@ -1,0 +1,29 @@
+# Neni 3
+Përkufizimet
+1. Shprehjet e përdorura në këtë ligj kanë këtë kuptim:
+1.1. Ndërtesë banimi në bashkëpronësi- ndërtesë e pavarur me dy apo më shumë njësi të përshtatshme dhe e parashikuar për banim, respektivisht për banim dhe ushtrim të aktiviteteve afariste e që është në pronësi të më shumë së një pronari.
+1.2. Njësitë individuale në ndërtesë - njësitë e banimit, njësitë afariste, apo hapësirat tjera të pavarura në ndërtesë në pronësi individuale madhësia e të cilës është përcaktuar me anë të kufinjve horizontal dhe vertikal të saj, të evidentuara në Marrëveshjen në Bashkëpronësi.
+1.3. Pronarë - personi fizik dhe juridik i cili është bartës i të drejtës së pronësisë në njësinë e ndërtesës.
+1.4. Krijuesi i bashkëpronësisë - institucioni shtetëror, personi juridik, personi ose grup personash fizikë që veprojnë së bashku, të cilët investojnë për krijimin e pronës, në emër të të cilëve regjistrohet për herë të pare.
+1.5. Marrëveshja e bashkëpronësisë - dokumenti i nënshkruar nga të gjithë pronarët e njësive që regjistrohet në Kadastër e që shërben si Akt për themelimin e ndërtesës në bashkëpronësi. Dokumenti duhet të reflektoj çdo ndryshim në ndërtesë me amendamentim, duke përfshirë çdo amendamentim të atyre dokumenteve dhe planet e lokacionit e planimetrinë. Kjo Marrëveshje përshkruan të drejtat dhe përgjegjësitë, kufizimet dhe kushtet për mënyrën e shfrytëzimit të elementeve të përbashkëta dhe njësive. Kjo zakonisht përfshinë rregulloret e një ndërtese në bashkëpronësi. Marrëveshja është dokumenti kryesor për udhëheqjen e një ndërtese në bashkëpronësi
+1.6. Plani i Lokacionit - plani që përfshinë tërë ndërtesën në bashkëpronësi ose një pjesë të saj në dy dimensione që tregon lokacionin e ndërtesës në bashkëpronësi dhe hapësirave, pjesëve dhe elementeve të përbashkëta.
+1.7. Planimetria -përshkrimi grafik i njësive individuale dhe bashkëpronësisë në ndërtesë
+1.8. Kufinjtë Horizontal -kufij të përcaktuar në marrëveshjen e bashkëpronësisë dhe nënkuptojnë hapësirën ndërmjet dy pllakave konstruktive respektivisht lartësinë e pastër dysheme-tavan të njësisë asisoj që prona e paluajtshme që është nën respektivisht mbi këto pllaka konstruktive nuk është pjesë e asaj njësie.
+1.9. Kufinjtë Vertikal - kufiri i përcaktuar të njësisë që nuk është një kufi horizontal i asaj njësie. Është definuar në marrëveshjen për bashkëpronësi e që nënkupton anët e brendshme të mureve që e kufizojnë njësinë.
+1.10. Bashkëpronësia - pjesë e pronës që nuk janë në pronësi individuale dhe nuk janë pronë publike, por në të cilat mbahet një interes i pandashëm nga pronarët e njësive.
+1.11. Elementet e bashkëpronësisë -pjesët, hapësirat dhe pajisjet e përbashkëta të ndërtesës në bashkëpronësi të cilat i shërbejnë njësive të ndërtesës dhe ndërtesës si tërësi, si dhe toka ndërtimore në të cilën është ndërtuar ndërtesa , zona e parkimit, objektet rekreative, e të ngjashme.
+1.12. Elementet e bashkëpronësisë për përdorim të veçantë - elementet për përdorim ekskluziv të një ose më shumë njësive individuale por nuk u shërbejnë njësive tjera në ndërtesë e që zakonisht janë hapësira ose elemente të përbashkëta të një kati.
+1.13. Elementet e bashkëpronësisë për përdorim të përgjithshëm -të gjitha elementet e bashkëpronësisë përveç elementeve e përbashkëta të veçanta.
+1.14. Shoqata e Pronarëve - autoriteti ligjor që funksionon si organizatë joqeveritare ose person juridik ku obligohen të anëtarësohen të gjithë pronarët e njësive individuale të ndërtesës në bashkëpronësi
+1.15. Kryesia e Shoqatës - grupi kryesues i pronarëve të njësive, të përfshirë në marrëveshje të bashkëpronësisë ose në rregulloren për funksionim dhe vepron në emër të Shoqatës.
+1.16. Rregulloret - çfarëdo marrëveshje që është adoptuar nga Shoqata për funksionimin, rregullimin dhe menaxhimin e Shoqatës.
+1.17. Rendi Shtëpiak - marrëveshja e adoptuar nga Shoqata për mënyrën e shfrytëzimit, administrimit dhe mirëmbajtjes së elementeve të bashkëpronësisë.
+1.18. Kuota e pjesëmarrjes në bashkëpronësi - pjesa e pronësisë së pandashme në bashkëpronësinë në ndërtesë e cila shërben për përcaktimin e masës së pjesëmarrjes në shpenzimet e përbashkëta dhe në votim për pronarët e çdo njësie.
+1.19. Sipërfaqe e shfrytëzueshme - sipërfaqja e përgjithshme e dyshemesë së njësisë në ndërtesë, duke mos përfshirë sipërfaqen që zënë nga muret e njësisë në ndërtesë.
+1.20. Administratori - shoqëri tregtare e regjistruar pranë organit kompetent për regjistrimin e bizneseve që është e kontraktuar nga Shoqata e Pronarëve për ushtrimin e menaxhimit, mirëmbajtjes apo shërbimeve tjera për të mirën e ndërtesës në bashkëpronësi.
+1.21. Sipërfaqja e përgjithshme e shfrytëzueshme - matje e sipërfaqes së shfrytëzueshme e të gjitha njësive, në metra katror.
+1.22. Administrimi - zbatimi i vendimeve të marra nga Kryesia e Shoqatës bazuar në rregulloret e aprovuara nga Shoqata me qëllim të realizimit të administrimit duke përfshirë mirëmbajtjen dhe operimin e sigurte të ndërtesës në bashkëpronësi.
+1.23. Banor - çdo person me qëndrim të përhershëm në ndërtesën në bashkëpronësi, dhe qiramarrësit me familjarët e tyre.
+1.24. Transaksion me konflikt interesi - kontratë, transaksion ose marrëdhënie tjetër financiare ndërmjet : Shoqatës së Pronarëve dhe një anëtari të Kryesisë së Shoqatës; administratorit dhe një anëtari të Kryesisë së Shoqatës (përveç kontratës së Shoqatës së Pronarëve me Administratorin); Shoqatës së Pronarëve dhe një pale të lidhur me një anëtar të Kryesisë së Shoqatës; Administratorit dhe një pale të lidhur me një anëtar të Kryesisë së Shoqatës.
+1.25. Palë e lidhur - bashkëshort, pasardhës, paraardhës, vëlla ose motër, bashkëshort /e i vëllait ose motrës, një pasuri apo trust në të cilën drejtori apo pala e lidhur me drejtorin ka interes përfitimi.
+1.26. Ministria - Ministria e Mjedisit dhe Planifikimit Hapësinor.
