@@ -1,4 +1,0 @@
-# Article 3
-Principles
-Spatial planning and regulation shall be base on the following internationally acceptable principles:
-(a) Promote the common interest of Kosovars by protecting natural resources and advocating sustainable development; (b) Promote an inclusive and participatory process of formulating development strategies and physical plans, which includes all stakeholders and communities without discrimination, men as well women; (c) Promote full transparency in the planning and decision-making process allowing stakeholders access to planning data and maps necessary for their full participation as a citizens right and duty; (d) Promote equitable economic and social opportunities for all Kosovars; (e) Promote improved quality of life and well balanced settlement pattern; and (f) Promote harmonization with ongoing European spatial development principles and plans.

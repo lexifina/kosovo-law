@@ -1,7 +1,0 @@
-# Neni 19
-Pjesëmarrja dhe shqyrtimi publik
-19.1 Planet hapësinore dhe zhvillimore të përgatitura në përputhje me këtë ligj do t’i nënshtrohen shqyrtimit publik dhe komentimeve para se këto plane të finalizohen.
-19.2 Ministria dhe komunat organizojnë shqyrtimet publike të planeve hapësinore dhe zhvillimore të tyre në suaza të kompetencave që kanë.
-19.3 Procedura e shqyrtimit publik do të rregullohet me akt të veçantë të Ministrisë. Si minimum ky akt duhet të marrë parasysh parimet vijuese të qeverisjes për pjesëmarrje publike:
-(a) Të gjitha procedurat e planifikimit hapësinor duhet të përgatiten në mënyrën e cila inkurajon pjesëmarrjen transparente publike; (b) Të gjitha informatat e nevojshme për kuptimin e përmbajtjes së dokumenteve të planifikimit do t’i ofrohen publikut nëpërmes bazës së të dhënave të planifikimit hapësinor, Gazetës Zyrtare ose mjeteve të informimit publik në kohë të duhur para mbajtjes së takimeve apo konsultimeve. (c) Pjesëmarrja publike duhet të jetë jo diskriminuese për gjinitë dhe komunitetet. (d) Propozimet e planifikimit dhe zhvillimit hapësinor do të përmbajnë vlerësimin e ndikimit të tyre shoqëror, mjedisor dhe ekonomik; (e) Afatet kohore duhet të mjaftojnë për diskutim publik pa shkaktuar vonesa të panevojshme.
-19.4. Planet zhvillimore dhe hapësinore do të përfshijnë përmbledhjen e shkurtër të kundërshtimeve, propozimeve dhe komenteve të bëra gjatë shqyrtimeve publike. Planet do të përmbajnë arsyetimin e qartë të pranimit ose të refuzimit të këtyre projekteve.
