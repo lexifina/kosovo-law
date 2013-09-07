@@ -1,0 +1,11 @@
+# Neni 3
+Përkufizimet
+1.Shprehjet e përdorura në këtë ligj kanë këtë kuptim:
+1.1. Gazetaria – mbledhja, pregatitja, përzgjedhja, fotografimi, regjistrimi, shkrimi, redaktimi, raportimi apo publikimi i lajmit dhe informacionit që ka të bëjë me ngjarje vendore apo ndërkombëtare, të cilat janë me interes për t’i përhapur në publik nëpërmjet medias.
+1.2. Gazetar - çdo person fizik apo juridik, i cili është i angazhuar rregullisht ose profesionalisht direkt për mbledhjen, redaktimin, prodhimin dhe shpërndarjen e informacionit për publikun, nëpërmjet një mediumi.
+1.3. Media - të gjitha format e komunikimit që kanë për qëllim shpërndarjen e informacionit te një numër më i madh i popullatës, duke përfshirë, mes tjerash, mediat e shtypura (përfshirë edhe broshurat, afishet, fletëpalosjet, revistat dhe gazetat), filmin/video xhirimet, radiotransmetimet dhe transmetimet televizive, audio incizimet dhe riprodhimet, transmetimet e shërbimit me mesazhe.
+1.4. Profesionistët e medias - stafi editorial dhe çdokënd, i cili gjatë ushtrimit të funksionit, mund të jetë në pozitë që të ketë njohuri për informacionin që mund të çojë tek zbulimi i burimit, pavarësisht nëse ky bëhet përmes mbledhjes, trajtimit editorial, produksionit apo shpërndarjes së informacionit. Termi përfshin gjithashtu kameramanët, fotografët dhe stafin e tyre mbështetës sic janë shoferët, përkthyesit etj.
+1.5. I angazhuar profesionalisht - të qenurit i punësuar nga një agjensi lajmesh apo kompani mediatike, ose i vetëpunësuar dhe puna e bërë është a) mjaftueshëm e lidhur apo e krahasueshme me punën e mediave tradicionale; b) është bërë me qëllimin për mbledhjen, redaktimin, prodhimin dhe shpërndarjen e lajmit; c) materiali ose informacioni është siguruar përgjatë aktivitetit të mbledhjes së lajmit.
+1.6. Burim – çdo person, që i jep informacion gazetarit.
+1.7. Materiale - shkrime, dokumente, blloqet e shënimeve, kaseta të zërit apo filmike, regjistrime, video, fotografi, ose mjete të tjera të papublikuara, të mbledhura me qëllimin për të ofruar nëpërmjet medias informacion për publikun.
+1.8. E drejta e heshtjes – ky term në këtë ligj nënkupton të drejtën për të mbrojtur identitetin e burimeve të informacionit përpara gjykatës, gjatë procedurës penale.
