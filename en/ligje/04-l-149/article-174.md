@@ -1,0 +1,7 @@
+# Article 174
+The manner of execution of the measure of mandatory psychiatric treatment upon detention the
+health care institution
+1. The measure of mandatory psychiatric treatment upon detention is executed in the health institution or in another special institution, that is located in the permanent residence or temporary location of the defendant, or if such a location is not located in that place, in the closest one with the place where the defendant has his permanent residence or the his/her temporary location or in the place where the criminal proceedings took place.
+2. The court shall decide about the health institution or the other appropriate institution where the measure of mandatory psychiatric treatment in detention must be executed. Upon deciding on the health care institution, the court shall take into consideration the risk that the defendant presents for his or her environment, for his/her permanent residence or his temporary location also taking into consideration his/her needs for treatment.
+3. When the court renders the measure of mandatory psychiatric treatment in detention it shall immediately send the decision and all of the data possessed to the competent Correctional Service and the health institution and the correctional institution for treatment.
+4. If the measure is rendered alongside the imprisonment sentence, the carrier of the criminal offence firstly will be sent to the healthcare institution for treatment.

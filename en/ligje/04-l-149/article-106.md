@@ -1,0 +1,5 @@
+# Article 106
+Reasons for postponement of the execution of disciplinary measures
+1. The conditional postponement of the execution of a disciplinary punishment shall be revoked if during the period of postponement of execution a new disciplinary punishment other than a reprimand is imposed on the convicted person.
+2. When a conditional postponement of the execution of a disciplinary punishment is revoked, an aggregate punishment shall be imposed for both the prior and the new disciplinary violation. The earlier disciplinary punishment shall be treated as determined and the aggregate disciplinary punishment shall be imposed by the application of the rules for calculating disciplinary punishments for concurrent disciplinary offences.
+3. When a conditional postponement of execution of the disciplinary punishment of solitary confinement is revoked, the solitary confinement imposed shall not exceed twenty (20) days if deprivation of assigned privileges is imposed for the later violation, but if solitary confinement is imposed for the later offence, the solitary confinement for a maximum of thirty (30) days may be imposed.

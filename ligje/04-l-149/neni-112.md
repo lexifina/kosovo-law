@@ -1,0 +1,5 @@
+# Neni 112
+Të drejtat e personit të dënuar në vetmi
+1. Gjatë ekzekutimit të dënimit disiplinor të vetmisë, personi i dënuar i gëzon të njëjtat kushte higjienike dhe shëndetësore sikurse personat tjerë të dënuar në institucionin korrektues dhe atij i lejohet qëndrim jashtë ambientit të mbyllur së paku një (1) orë në ditë për ajër të pastër dhe për ushtrime. Personi i dënuar, po ashtu ka të drejtë të vizitohet një herë nga bashkëshorti/ja, ose anëtari tjetër i familjes brenda periudhës pesëmbëdhjetë (15) ditore.
+2. Gjatë kohës së vetmisë personi i dënuar ka qasje në tekste mësimore, libra dhe shtypin ditor.
+3. Personi i dënuar në vetmi vizitohet nga mjeku çdo ditë kurse nga drejtori i institucionit korrektues dhe punëtori social një herë në shtatë (7) ditë, apo kur e kërkon nevoja edhe më shpesh.

@@ -1,0 +1,3 @@
+# Article 226
+1. Correctional officers, employed in the correctional institution, apart from the director and deputy director of the correctional institution and heads of organizational units, may, with the consent of the General Director, be assigned to other posts in the correctional institution provided that the employee fulfils the conditions envisaged in the Regulation on the Organization and Systematization of Posts and if the assignment is deemed necessary with the new organization or rationalization of work or is needed for the purpose of work.
+2. An appeal against the decision from the previous paragraph may be initiated with the Minister within eight (8) days from the day the decision is received.

@@ -1,0 +1,5 @@
+# Neni 27
+Revokimi dhe ndërprerja e shtyrjes së ekzekutimit të dënimit me burgim
+1. Kryetari i gjykatës kompetente themelore e revokon shtyrjen e ekzekutimit të dënimit me burgim, nëse ndërkohë konstatohet se arsyet për lejimin e shtyrjes nuk kanë ekzistuar, ose kanë pushuar së ekzistuari, ose personi i dënuar e ka shfrytëzuar periudhën e shtyrjes për qëllime të tjera e jo për ato për të cilat është lejuar.
+2. Nëse shtyrja i është lejuar gruas shtatzënë, fëmija i së cilës nuk ka lindur i gjallë, shtyrja ndërpritet gjashtë (6) muaj pas lindjes, dhe nëse fëmija vdes pas lindjes, shtyrja ndërpritet gjashtë (6) muaj pas vdekjes së fëmijës.
+3. Nëse shtyrja i është lejuar nënës së fëmijës më të ri se një (1) vit i cili vdes, shtyrja ndërpritet gjashtë (6) muaj pas vdekjes së fëmijës.

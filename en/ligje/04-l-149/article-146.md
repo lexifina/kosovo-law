@@ -1,0 +1,6 @@
+# Article 146
+Rehabilitation treatment program
+1. The competent health care institution or appropriate institution, in cooperation with the Probation Service, shall determine the rehabilitation treatment program for a person subject to a suspended sentence with an order for mandatory rehabilitation treatment. The Probation Service shall supervise such person’s compliance with the rehabilitation treatment program, in cooperation with the competent health care institution or appropriate institution.
+2. Every four (4) months, the Probation Service shall send reports to the court on the progress of the rehabilitation treatment program based on information provided by the competent health care institution or other appropriate institution.
+3. The competent health care institution or other appropriate institution shall immediately inform the Probation Service if the convicted person fails to comply with the rehabilitation treatment program. Failure by the convicted person to comply with the rehabilitation treatment program shall be assessed by the Probation Service and reported to the court.
+4. Upon the notification from the competent health institution on successful completion of the rehabilitation treatment program, such a report shall be sent to the court the Probation Service.

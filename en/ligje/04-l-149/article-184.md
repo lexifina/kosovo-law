@@ -1,0 +1,2 @@
+# Article 184
+If the basic court, which has rendered the imprisonment sentence or has replaced the sentence of a fine with an imprisonment sentence, is not competent for its execution, then it is obliged to send to the competent basic court the decision that has becomes legally binding and executable, for not later than within the time limit of three (3) days after the decision took its executable form.

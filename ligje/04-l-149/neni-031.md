@@ -1,0 +1,6 @@
+# Neni 31
+Pranimi i personit të dënuar në institucionin korrektues
+1. Kur personi i dënuar pranohet në institucionin korrektues, së pari vërtetohet identiteti i tij, baza dhe autorizimi për burgimin, ose burgimin e tij të përjetshëm dhe më pas i nënshtrohet kontrollit mjekësor brenda njëzetekatër (24) orëve nga pranimi i tij, apo në ditën e parë të punës pas pranimit. Emri i personit të dënuar, bazat dhe autorizimi për burgimin, ose burgimin e tij të përjetshëm, data dhe koha e ardhjes së tij në institucionin korrektues, kontrolli dhe raporti mjekësor shënohet në regjistër dhe dosjen personale të dënuarit.
+2. Me rastin e pranimit në institucionin korrektues, personi i dënuar njoftohet me shkrim për të drejtat dhe detyrimet qe i ka gjatë mbajtjes së denimit. Personi i denuar i cili nuk dinë shkrim dhe lexim njoftohet gojarisht.
+3. Teksti i këtij ligji dhe akti nënligjor për rendin shtëpiak në institucionet korrektuese janë në dispozicion në gjuhë të personave të dënuar gjatë tërë kohës së mbajtjes se denimit, në pajtim me ligjin për përdorimin e gjuhëve zyrtare.
+4. Procedurat në paragrafin 1., 2. dhe 3. të këtij neni nuk zbatohen në prani të personave të tjerë të dënuar. Personi i dënuar fotografohet.

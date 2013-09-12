@@ -1,0 +1,6 @@
+# Article 173
+Rehabilitation treatment program
+1. The health institution, the correctional facility or appropriate institution, in cooperation with the Probation Service, shall determine the rehabilitation treatment program for a person subject to a measure of mandatory rehabilitation treatment. The Probation Service shall supervise such person’s compliance with the rehabilitation treatment program, in cooperation with the health institution, the correctional facility or appropriate institution.
+2. Every two (2) months, the Probation Service shall send a report to the court on the progress of the rehabilitation treatment program based on information provided by the competent health care institution, the correctional facility or other appropriate institution.
+3. The health institution, the correctional facility or appropriate institution shall immediately inform the Probation Service if the convicted person fails to comply with the rehabilitation treatment program. Failure by the convicted person to comply with the rehabilitation treatment program shall be assessed by the Probation Service and reported to the court.
+4. The successful completion of the rehabilitation treatment program shall be reported by the Probation Service to the court. Upon the receipt of such report, the court shall issue a decision stating that the measure has been served.

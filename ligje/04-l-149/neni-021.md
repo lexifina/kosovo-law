@@ -1,0 +1,6 @@
+# Neni 21
+Procedura për shtyrjen e ekzekutimit të dënimit me burgim
+1. Personi i dënuar mund të parashtroj lutjen për shtyrjen e ekzekutimit të dënimit brenda shtatë (7) ditëve nga pranimi i urdhrit për mbajtjen e dënimit me burgim.
+2. Nëse urdhri nuk mund t’i dorëzohet të pandehurit ai i dorëzohet ndonjërit nga anëtarët madhorë të familjes, ose i lehet njoftimi për ditën dhe orën e dorëzimit. Nëse i dënuari nuk gjendet në adresën e tij në ditën dhe kohën e caktuar atij i ngjitet urdhri në derë. Dorëzimi i këtillë konsiderohet i rregullt.
+3. Nëse sëmundja e rëndë akute e personit të dënuar, ose vdekja e bashkëshortit të tij, fëmijës, fëmijës së adoptuar, prindit, ose prindit adoptues paraqitet pas kalimit të periudhës prej shtatë (7) ditëve, lutja mund të parashtrohet deri në ditën kur personi i dënuar duhet të paraqitet për mbajtjen e dënimit.
+4. Lutja për shtyrjen e ekzekutimit duhet të përmbajë arsyet e shtyrjes, provat që mbështesin shtyrjen dhe periudhën kohore për të cilën kërkohet shtyrja.

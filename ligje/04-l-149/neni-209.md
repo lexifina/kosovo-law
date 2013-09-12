@@ -1,0 +1,7 @@
+# Neni 209
+Tipet e Institucioneve Korrektuese
+1. Në bazë të shkallës së sigurisë dhe mënyrës së trajtimit të personave të dënuar, institucionet korrektuese mund të jenë të tipit të mbyllur, gjysmë të hapur dhe të hapur.
+2. Institucionet korrektuese të tipit të mbyllur kanë elemente të sigurisë fizike dhe materiale, siç janë zyrtaret korrektues te armatosur, muret rrethuese apo rrethoja, pajimet teknike dhe masat tjera të sigurisë që pengojnë arratisjen e personave të dënuar. Në kuadër të tipit të mbyllur bënë pjesë edhe burgu i sigurisë së lartë, për ekzekutimin e dënimit me burgim ndaj personave të klasifikuar me rrezikshmëri shumë të lartë, personave të paraburgosur të klasifikuar me rrezikshmëri shumë të lartë dhe atyre të dënuar me burgim të përjetëshëm
+3. Institucionet korrektuese të tipit gjysmë të hapur nuk kanë elemente të sigurisë fizike në formë të mbikëqyrjes së lëvizjeve dhe punës së personit të dënuar, por kanë elemente të sigurisë materiale që e pengojnë arratisjen e personave të dënuar.
+4. Institucionet korrektuese të tipit të hapur nuk kanë elemente të sigurisë fizike as materiale që e pengojnë arratisjen e personave të dënuar. Sjellja ndaj personave të denuar bazohet në vetë disiplinën e tyre dhe përgjegjësinë personale, kurse personeli korrektues mbikëqyrë lëvizjen dhe punën e personave të dënuar.
+5. Në institucionet korrektuese të tipit të mbyllur mbahet së paku një e treta (1/3) e dënimit me burgim të përjetshëm.

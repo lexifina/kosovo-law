@@ -1,0 +1,3 @@
+# Article 247
+1. If the oversight procedure finds that the correctional institution does not fulfill the health and hygiene conditions or if there is a security risk, the Minister may make a decision on provisional termination of operation of the correctional institution and transfer convicted persons or detained persons at another correctional institution.
+2. If there is a security breach in the correctional institution, the Minister may dismiss the director of the correctional institution and appoint, provisionally, another person to perform the duties of the director of the correctional institution.

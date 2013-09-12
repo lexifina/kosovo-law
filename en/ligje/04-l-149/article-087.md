@@ -1,0 +1,7 @@
+# Article 87
+Information
+1. A convicted person has the right to have access to the daily and periodical press in his or her mother tongue and other sources of public information.
+2. A convicted person has the right to have access to radio and television programs. The selection of programs shall take account of the preferences of convicted persons as well as their educational and recreational needs.
+3. All correctional facilities shall be equipped with a library for the use of convicted persons. The library shall contain books (including basic texts on human rights and criminal laws), magazines and newspapers in the mother tongue of the convicted persons to provide a choice for the convicted persons.
+4. Books, magazines and newspapers in the library shall be selected so as to improve the convicted persons’ level of knowledge, to develop their ability to have a critical approach to daily events as well as to give them recreational opportunities.
+5. A convicted person has the right to read books from the library of the correctional facility and books obtained by himself or herself. The Correctional Service can limit the access in literature that is dangerous for security of correction facility environment or toward security of particular person, that encourages hatred or violence, contains pornographic materials or which in any way influence in appearance of turbulences or different forms of criminality.
