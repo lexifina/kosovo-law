@@ -1,0 +1,6 @@
+# Article 15
+Joint Risk and Threats Analysis
+1. Authorities involved in IBM shall, in prescribed period, prepare a Joint Risk and Threats Analysis that shall be the basis for IBM and better planning for conducting joint activities.
+2. Officials of the authorities involved in IBM, responsible for Risk and Threats Analysis, as set forth under paragraph 4 of Article 10 of this Law, will utilize capacities of the Center in order to draft Joint Risk and Threats Analysis. The tasks of these officials, inter alia, are to collect, evaluate, analyze, compare and harmonize data and information between all authorities involved in IBM.
+3. Risk and Threats Analysis, mentioned in paragraph 1 of this Article, shall be made based on analytical and statistical indicators for a set period of time, and on the data and information, referred to in paragraph 2 of this Article, for the purpose of border control, border security, protection of human life and health, prevention and detection of crimes and violations, and measures undertaken and results achieved in their implementation.
+4. The IBM National Coordinator shall adopt the Standard Operating Procedure for Joint Risk and Threats Analysis, pursuant to paragraph 1 of this Article.

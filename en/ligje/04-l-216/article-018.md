@@ -1,0 +1,5 @@
+# Article 18
+Technical and Professional Assistance
+1. With the purpose to enhance efficiency, operationalize and rationalize performing of their duties and activities of joint interest, as well as joint actions in other fields of cooperation, authorities involved in the IBM, mutually offer their specific expertise and technical assistance.
+2. Unless it is not foreseen differently within this Law and other legislation in force, the authority involved in the IBM is obliged to temporarily make available to another authority equipment, facilities, personnel resources or special expert services in its possession that are not available to the other authority for use in measures that are necessary for cooperation in crime combating, control and monitoring or for international cooperation. The assistance may only be provided on the condition that it does not jeopardize the carrying out of the tasks laid down for the authority providing the assistance.
+3. The agencies and other authorities in the IBM may provide technical equipment for joint use.

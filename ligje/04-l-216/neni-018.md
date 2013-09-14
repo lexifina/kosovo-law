@@ -1,0 +1,5 @@
+# Neni 18
+Ndihma teknike dhe profesionale
+1. Me qëllim të ngritjes së efikasitetit, operacionalizimit dhe racionalizimit të kryerjes së detyrave të tyre dhe aktiviteteve me interes të përbashkët, si dhe veprimeve të përbashkëta në fusha tjera të bashkëpunimit, autoritetet e përfshira në MIK, në mënyrë të ndërsjellë ofrojnë ekspertizë të veçantë dhe asistencë teknike.
+2. Përveç nëse nuk është paraparë ndryshe me këtë ligj dhe legjislacionin tjetër në fuqi, autoriteti i përfshirë në MIK është i obliguar që përkohësisht të vë në dispozicion të një autoriteti tjetër pajisjet, objektet, burimet njerëzore apo shërbimet speciale të ekspertizës të cilat i ka në posedim por që nuk janë në dispozicion të autoritetit tjetër për përdorim të nevojshëm gjatë bashkëpunimit në luftë kundër krimit, kontrollit dhe monitorimit apo bashkëpunimit ndërkombëtar. Ndihma mund të ofrohet vetëm nëse nuk rrezikon kryerjen e detyrave të parapara nga autoriteti që ofron ndihmën.
+3. Agjencitë dhe autoritetet e tjera të përfshira në MIK mund të sigurojnë pajisje teknike për përdorim të përbashkët.
