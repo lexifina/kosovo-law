@@ -1,0 +1,7 @@
+# Neni 22
+Arrestimi i përkohshëm para pranimit të kërkesës për ekstradim
+1. Edhe para pranimit të kërkesës për ekstradim, personi i kërkuar mund të arrestohet dhe paraburgoset për një periudhë maksimale prej dyzet (40) ditësh, në qoftë se shteti kërkues dorëzon tek Ministria kërkesën për arrest të përkohshëm, në të cilën ceket se dokumentet e referuara në nenin 18 paragrafi 2 të këtij ligji ekzistojnë dhe se një kërkesë për ekstradim do të paraqitet në kohën e duhur. Kërkesa për arrest të përkohshëm mund të dërgohet përmes mënyrës elektronike.
+2. Njoftimet e INTERPOL-it që kërkojnë arrestimin e një personi me qëllim të ekstradimit, si dhe Urdhër Arrestet Evropiane kanë fuqi të njëjtë juridike me kërkesën për arrestim të përkohshëm.
+3. Bazuar në kërkesën për arrestim të përkohshëm, prokurori i shtetit dhe policia kanë të drejtë të arrestojnë personin e kërkuar. Masa për sigurimin e pranisë së personit në procedurë duhet të konfirmohet nga gjyqtari kompetent i procedurës paraprake brenda dyzet e tetë (48) orëve prej ditës së arrestimit, duke marrë parasysh dispozitat e nenit 21 paragrafi 2. të këtij Ligji. Gjyqtari i procedurës paraprake, sipas detyrës zyrtare, e liron personin nëse kërkesa për ekstradim nuk është pranuar nga gjykata brenda dyzet (40) ditësh nga dita e arrestimit.
+4. Lirimi nuk përjashton mundësinë e arrestimit të serishëm dhe ekstradimin e tij apo saj nëse kërkesa për ekstradim është pranuar më pas.
+5. Kodi i Procedurës Penale zbatohet përveç nëse parashihet ndryshe me këtë ligj.

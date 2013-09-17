@@ -1,0 +1,5 @@
+# Neni 66
+Personat e arratisur nga shteti dënues
+1. Në rastet kur shtetasi i Republikës së Kosovës është dënuar në shtetin e huaj me aktgjykim të formës së prerë, përmes arratisjes në Republikën e Kosovës tenton t’i ikë ekzekutimit të mëtejmë të dënimit në atë shtet, me kërkesë të organit kompetent të huaj Ministria mund të pajtohet të merr përsipër ekzekutimin e dënimit në Republikën e Kosovës.
+2. Me kërkesë të shtetit dënues, organi gjyqësor në Republikën e Kosovës mund që para pranimit të dokumenteve mbështetëse të kërkesës ose para vendimit mbi kërkesën, të arrestojë personin e dënuar apo të marrë çfarëdo mase tjetër për të siguruar që personi i dënuar të mbetet në territorin e Republikës së Kosovës, në pritje të vendimit lidhur me kërkesën. Kërkesa për arrest të përkohshëm duhet të përmbaj të dhënat e parapara në paragrafin 3. të nenit 60 të këtij ligji. Pozita juridike e personit të dënuar nuk duhet të rëndohet si rezultat i çfarëdo qoftë periudhe të kaluar në mbajtje, në pajtim me këtë paragraf.
+3. Pëlqimi i personit të dënuar nuk kërkohet për transferimin e ekzekutimit të dënimit.

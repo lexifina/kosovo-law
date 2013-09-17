@@ -1,0 +1,4 @@
+# Article 67
+Guarantees for sentenced persons transferred without their consent
+1. Any person transferred to the Republic of Kosovo without his or her consent under Article 60 of this Law shall not be prosecuted, sentenced, or detained for any offence committed prior to his or her transfer other than that for which the sentence to be enforced was imposed, nor shall he or she for any other reason be restricted in his or her personal freedom, except when the sentencing state so authorises. A request for authorisation shall be submitted, accompanied by all relevant documents and a legal record of any statement made by the convicted person.
+2. Notwithstanding the provision of paragraph 1. of this Article, national judicial authorities may take action to prevent the running of the statute of limitation.

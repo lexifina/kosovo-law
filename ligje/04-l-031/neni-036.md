@@ -1,5 +1,0 @@
-# Neni 36
-Procedurat penale vendore
-1. Personi i ekstraduar në Kosovë nuk do të ndiqet penalisht ose dënohet për asnjë vepër penale të kryer para dorëzimit të tij/saj për veç veprës penale për të cilën është lejuar ekstradimi, përjashtimisht kur shteti i lutur pranon. Shkresat e shtetit të lutur duhet të shoqërohen me dokumentet dhe të dhënat ligjore për çdo deklaratë të dhënë nga personi i ekstraduar në lidhje me veprën penale.
-2. Kur ekstradimi është dhënë dhe i nënshtrohet kushteve të caktuara në lidhje me llojin dhe lartësinë e dënimit, gjykata do të jetë e detyruar që ti përmbahet këtyre kushteve gjatë shqiptimit të dënimit. Nëse zbatimi i ndonjë dënimi të dhënë tani më është i përfshirë, gjykata që ka gjykuar në shkallën e parë duhet të ndryshojë aktgjykimin dhe të shqiptoj dënimin si në kushtet e përcaktuara për lejimin e ekstradimit.
-3. Nëse personi i ekstraduar ka qenë në paraburgim në shtetin e huaj për veprën penale për të cilën ai/ajo është ekstraduar, koha e kaluar në paraburgim do të llogaritet në dënimin e shqiptuar.

@@ -1,0 +1,9 @@
+# Neni 17
+Klauzola jodiskriminuese dhe standardet e të drejtave të njeriut
+1. Ekstradimi i një personi të kërkuar nuk lejohet nëse ekziston dyshimi i arsyeshëm se kërkesa është bërë për qëllime të ndjekjes penale ose të ndëshkimit për shkak të racës, fesë, gjinisë, shtetësisë, bindjes politike, etnisë, gjuhës, aftësisë së kufizuar, orientimit seksual, anëtarësimit të tij apo saj në ndonjë grup shoqëror, apo nëse pozita e tij apo saj në shoqëri mund të paragjykohet për njërën nga këto arsye.
+2. Ekstradimi nuk lejohet nëse ekzistojnë shkaqe të arsyeshme se personi i kërkuar mund t'i nënshtrohet torturës apo trajtimit mizor, çnjerëzor, poshtërues ose ndëshkimit.
+3. Ekstradimi nuk lejohet nëse ka arsye për të besuar se personi nuk do të pranojë garancitë minimale për një gjykim të drejtë në shtetin kërkues, siç parashihet me Kushtetutën e Republikës së Kosovës.
+4. Ekstradimi i kërkuar me qëllim të ekzekutimit të dënimit të shqiptuar me aktgjykim të dhënë në mungesë, lejohet vetëm nëse gjatë procedurës së zhvilluar kundër personit janë respektuar të drejtat minimale të mbrojtjes, të njohura për çdo person të akuzuar për kryerjen e një vepre penale.
+Ekstradimi mund të lejohet nëse shteti kërkues ofron garanci të mjaftueshme për të siguruar që personi i kërkuar ka të drejtën për rigjykim me qëllim që të sigurohen të drejtat minimale të mbrojtjes.
+5. Ekstradimi nuk lejohet nëse ka dyshime se personi do të gjykohet apo është gjykuar ose dënuar në shtetin kërkues nga një gjykatë e jashtëzakonshme ose e përkohshme, përveç nëse shteti kërkues jep garanci të mjaftueshme se gjykimi ose rigjykimi do të kryhet nga një gjykatë e rregullt në pajtim me ligjin.
+6. Ekstradimi nuk lejohet për çfarëdo arsye tjetër të bazuar që do të paraqiste shkelje të së drejtës ndërkombëtare ose standardeve tjera të të drejtave të njeriut.

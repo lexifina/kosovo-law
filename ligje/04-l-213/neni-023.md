@@ -1,0 +1,13 @@
+# Neni 23
+Procedura gjyqësore për ekstradim
+1. Lejueshmëria e kërkesës për ekstradim shqyrtohet nga kolegji prej tre gjyqtarëve të Gjykatës Themelore Kompetente.
+2. Nëse disa kërkesa për ekstradim janë parashtruar nga shtete të ndryshme në lidhje me personin e njëjtë, procedura do të bashkohet. Nëse procedurat janë në pritje nga gjykata të ndryshme, kompetente do të jetë gjykata që e para ka filluar procedurën për atë rast.
+3. Gjykata mund të lejojë përfaqësuesin e shtetit kërkues të jetë i pranishëm në procedurë.
+4. Brenda tri (3) ditësh nga data e marrjes së kërkesës për ekstradim, gjykata mban seancën dëgjimore në prani të prokurorit të shtetit, personit të kërkuar dhe mbrojtësit të tij. Nëse personi i kërkuar nuk ka mbrojtës, kryetari i trupit gjykues i emëron mbrojtësin sipas detyrës zyrtare.
+5. Në fillim të seancës kryetari i trupit gjykues informon personin për të drejtat e tij/saj në bazë të Kushtetutës së Republikës së Kosovës dhe Kodit të Procedurës Penale. Gjykata do të marr në pyetje të pandehurin në lidhje me rrethanat e tij apo të saj personale dhe në veçanti në lidhje me shtetësinë e tij/saj.
+6. Gjykata do të pyes personin nëse ai ose ajo pajtohet me ekstradimin dhe do të informojë atë për pasojat ligjore të një procedure të thjeshtuar të ekstradimit. Nëse personi është dakord, gjykata do të veprojë në pajtim me nenin 24 të këtij ligji.
+7. Nëse personi nuk e jep pëlqimin për ekstradimin e thjeshtuar dhe kundërshton ekstradimin, gjykata do ta shtyjë seancën dhe do të japë një afat prej dyzet e tetë (48) orësh në mënyrë që personi i kërkuar të tregoj arsyet mbi të cilat ai/ajo e kundërshton ekstradimin. Kundërshtimi mund të bazohet vetëm në faktin se personi nuk është personi i kërkuar nga shteti kërkues ose se nuk janë plotësuar kushtet që e lejojnë ekstradimin.
+8. Gjykata mund të caktojë një afat tjetër prej dyzet e tetë (48) orësh për prokurorin që të jetë në gjendje të reagoj ndaj kundërshtimit të bërë nga personi i kërkuar.
+9. Nëse vlerësohet se informacioni i dhënë nga shteti kërkues nuk është i mjaftueshëm për të marrë vendim, gjykata mund të paraqes kërkesë në Ministri për informata shtesë, e cila pastaj do të adreson kërkesën tek shteti kërkues. Gjykata mund të caktojë një afat kohor për pranimin e saj.
+10. Gjykata mund të vlerësoj çdo provë tjetër që e konsideron si të nevojshme.
+11. Në rastet kur ndaj personave që kërkohen të ekstradohen, janë duke u zhvilluar procedura penale në Republikën e Kosovës, Gjykata do ta evidentoj atë në procesverbal dhe poashtu do ta njoftoj Ministrinë. Në këto raste Gjykata do të provojë mundësitë e ngrirjes së çdo prone të të pandehurit për të siguruar shpërblimin e palës së dëmtuar sa i përket procedurës penale në Republikën e Kosovës.

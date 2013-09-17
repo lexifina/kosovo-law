@@ -1,0 +1,4 @@
+# Neni 67
+Garancia për personat e dënuar të transferuar pa pëlqimin e tyre
+1. Çdo person i transferuar në Republikën e Kosovës pa vullnetin e tij apo saj sipas nenit 60 të këtij ligji, nuk do të ndiqet penalisht, dënohet apo mbahet për një vepër penale të kryer para transferimit te tij apo saj, përveç asaj për të cilën është shqiptuar dënimi që do të ekzekutohet, si dhe nuk do të privohet nga liria për ndonjë arsye tjetër përveç për veprën për të cilën është lejuar transferimi, përjashtimisht nëse shteti dënues e autorizon një gjë të tillë. Kërkesa për autorizim duhet të dorëzohet, e shoqëruar nga dokumentet përkatëse dhe procesverbalin e çdo deklarate të bërë nga personi i dënuar.
+2. Pavarësisht prej dispozitës së paragrafit 1. të këtij neni, organet gjyqësore vendore mund të marrin masa të nevojshme sipas ligjit vendor për të parandaluar parashkrimin.

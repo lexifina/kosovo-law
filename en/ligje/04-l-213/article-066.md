@@ -1,0 +1,5 @@
+# Article 66
+Persons having fled from the sentencing state
+1. When a citizen of the Republic of Kosovo who is subject to a sentence imposed by a final judgment in another state attempts to avoid enforcement of the sentence in that state by fleeing to the Republic of Kosovo, upon the request of the competent authority of that state, the Ministry may agree to take over the enforcement of the sentence in the Republic of Kosovo.
+2. Upon the request of the sentencing state, before receiving the documents supporting the request or before a decision on the request is made, national judicial authorities may arrest the person or may take other measures to ensure his or her presence in the territory of the Republic of Kosovo pending a decision on the request. The request for temporary arrest should contain information provided for in paragraph 3. of Article 60 of this Law. The criminal status of the sentenced person shall not be aggravated as a result of any time spent under arrest pursuant to this paragraph.
+3. The consent of the sentenced person is not required in order to transfer the enforcement of the sentence.

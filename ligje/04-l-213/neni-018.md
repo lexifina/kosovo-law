@@ -1,0 +1,8 @@
+# Neni 18
+Kërkesa për ekstradim
+1. Procedura për ekstradim fillon në bazë të kërkesës me shkrim drejtuar Ministrisë.
+2. Kërkesa për ekstradim duhet të përmbaj veprën penale për të cilën kërkohet ekstradimi dhe shoqërohet nga dokumentet e mëposhtme:
+2.1. gjeneralitetet e personit të kërkuar, së bashku me të dhëna tjera që do të ndihmonin në vërtetimin e identitetit, shtetësisë dhe vendndodhjes së personit;
+2.2. origjinalin apo kopjen e vërtetuar të urdhër arrestit t ë lëshuar nga organet kompetente të shtetit kërkues, ose nëse personi i kërkuar është i dënuar për ndonjë vepër, origjinalin apo kopjen e vërtetuar të aktgjykimit ose ndonjë shkrese tjetër që përmban dënimin e shqiptuar, faktin që dënimi është i ekzekutueshëm dhe kohëzgjatjen e mbetur të dënimit që do të ekzekutohet. Këto dokumente duhet të përmbajnë kohën dhe vendin e kryerjes së veprës penale, rolin e personit në kryerjen e veprës penale dhe kualifikimin ligjor të veprës penale. Nëse dokumentet nuk përmbajnë informata e tilla kërkesa duhet të shoqërohet me një deklaratë në të cilën përshkruhen të dhënat sipas këtij paragrafi;
+2.3. ekstrakti nga ligji penal i shtetit kërkues, që është i zbatueshëm për çështjen në fjalë;
+2.4. nëse personi i kërkuar është dënuar në mungesë, duhet të ofrohet një deklaratë me të cilën tregohet se personi është ftuar personalisht apo përmes një përfaqësuesi të autorizuar në bazë të ligjit të shtetit kërkues, për datën dhe vendin e mbajtjes së shqyrtimit gjyqësor që ka sjell deri tek marrja e vendimit në mungesë, ose që personi ka deklaruar tek organi kompetent se nuk e kundërshton rastin apo një deklaratë që thekson mjetet juridike në dispozicion të personit për të përgatitur mbrojtjen apo për të kërkuar rigjykimin në prezencë të tij apo saj.
