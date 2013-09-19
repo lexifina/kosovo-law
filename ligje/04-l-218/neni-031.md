@@ -1,0 +1,5 @@
+# Nenin 31 Ofrimi i ndihmës dhe mbrojtjes së viktimave të trafikimit
+1. Ofrimin e ndihmës dhe mbrojtjes së viktimave të trafikimit me njerëz realizohet duke dhënë ndihmë shëndetësore, psikologjike, sociale dhe ligjore përmes masave të specializuara përkatëse.
+2. Viktimat e trafikimit dhe viktimat e supozuara përfitojnë shërbime shëndetësore falas nga autoritetet përkatëse shëndetësore, siç është e rregulluar me legjislacionin përkatës për shëndetësi.
+3. Shteti, përmes autoriteteve dhe organizatave të tij, ndërmerr masa të menjëhershme adekuate për identifikimin dhe referimin e viktimave të trafikimit me njerëz në shërbimet për mbrojtje dhe ndihmë, duke u mundësuar atyre një periudhë reflektuese prej tridhjetë (30) deri në nëntëdhjetë (90) ditë. Gjatë kësaj periudhe, ndalohet zbatimi i çfarëdo urdhri dëbues kundër personit të tillë.
+4. Viktimave të trafikimit me njerëz u jepet ndihmë dhe mbrojtje nga autoritetet e përcaktuara në nenin 6 të këtij ligji, në kuadër të kompetencave të tyre dhe në pajtim me këtë ligj dhe aktet tjera normative.

@@ -1,0 +1,3 @@
+# Neni 24
+Aftësimi profesional i viktimave të trafikimit
+Autoritetet bëjnë aftësimin profesional të viktimave të trafikimit me njerëz, sipas kushteve të përcaktuara me legjislacionin në fuqi, duke iu ofruar shërbime falas me prioritet në fushën e ndërmjetësimit në punësim, informacioneve, këshillimit profesional, orientimit profesional dhe trajnimeve profesionale, si dhe duke u siguruar të drejtën që të marrin pjesë në kursin e trajnimit profesional të financuar nga programi i papunësisë. Përfituesit e shërbimeve të përcaktuara në këtë paragraf janë viktimat e trafikuara të moshës mbi 16 vjet.

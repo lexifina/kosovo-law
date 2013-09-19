@@ -1,0 +1,5 @@
+# Article 12
+Official identification of victims of trafficking
+1. Official identification of victims of trafficking in human beings is done by the respective Police units, Prosecution, Victim Advocate and centers for social work based on Article 5 of this Law, when they have grounded doubt for believing that a certain person is a victim of trafficking, in line with the Standard Operating Procedures developed by the respective authorities.
+2. Ministry of Justice in cooperation with respective authorities draft the indicators’ list regarding trafficking in human beings, with aim to facilitate identification of victims by police, criminal, judicial and social authorities that might be in contact with the victims or potential victims of trafficking. Indicators’ list is adopted by the Government of the Republic of Kosovo.
+3. Upon proposal of the Ministry of Internal Affairs, the Ministry of Foreign Affairs and the Ministry of Labour and Social Welfare issue specific instructions for consular services, border police and labour inspectors with the aim of early identification of victims of trafficking.

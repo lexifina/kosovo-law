@@ -1,0 +1,8 @@
+# Article 33
+Role of the non-governmental sector
+1. National Authority supports, encourages and directs local nongovernmental organizations and international organizations to support authorities from Article 6 of this Law, in preventing and combating trafficking in human beings, and protection of victims of trafficking.
+2. Local and international nongovernmental organizations provide respective services for victims of trafficking, either with their initiative, on behalf of the municipal directorate in the case of municipal services, or on behalf of the National Authority in case of services at the Kosovo level.
+3. Each nongovernmental organization that provides services to victims of trafficking should be licensed by the respective institution, as well as adhere to regulations, guidance and procedures related to their activity, as determined by the respective institution.
+4. Institutions within the national authority might allocate funds and provide any other material assistance, including premises, or councils for nongovernmental organizations that provide respective services (in rehabilitation or reintegration shelters) for victims of trafficking at the Kosovo level.
+5. Due to inability to provide certain services for the victims, municipalities and central institutions might purchase services for victims of trafficking from local nongovernmental organizations, through respecting public procurement rules.
+6. Local nongovernmental organizations and international organizations are obliged to respect the legislation in force and minimum standards for protecting victims of trafficking and always accept monitoring and inspection of quality of services provided for the victims.

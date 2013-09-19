@@ -1,0 +1,5 @@
+# Neni 12
+Identifikimi zyrtar i viktimave të trafikuara
+1. Identifikimin zyrtar të viktimave të trafikimit me njerëz e bëjnë njësitë përkatëse të policisë, prokurorisë, mbrojtësi i viktimave dhe qendrat për punë sociale bazuar në nenin 5 të këtij ligji, kur kanë dyshim të bazuar për të besuar se një person i caktuar është viktimë e trafikimit në pajtim me Procedurat Standarde të Veprimit të hartuara nga autoritetet përkatëse.
+2. Ministria e Drejtësisë në bashkëpunim me autoritetet përkatëse hartojnë listën e treguesve lidhur me trafikimin e me njerëz, me qëllim të lehtësimit të identifikimit të viktimave nga autoritetet policore, penale, gjyqësore dhe sociale të cilët mund të jenë në kontakt me viktimat apo viktimat e mundshme. Lista e treguesve miratohet nga Qeveria e Republikës së Kosovës.
+3. Qeveria me propozimin e Ministrisë së Punëve të Brendshme, Ministrisë së Punëve të Jashtme dhe Ministrisë së Punës dhe e Mirëqenies Sociale, nxjerr udhëzues specifik për shërbimet konsullore, policinë kufitare dhe inspektorët e punës me qëllim të identifikimit të hershëm të viktimave të trafikimit.

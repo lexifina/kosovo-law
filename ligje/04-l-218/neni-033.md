@@ -1,0 +1,8 @@
+# Neni 33
+Roli i sektorit joqeveritar
+1. Autoriteti Kombëtar mbështet, inkurajon dhe orienton organizatat joqeveritare vendore dhe organizatat ndërkombëtare që të ndihmojnë autoritetet nga nenin 6 i këtij ligji, në parandalimin dhe luftimin e trafikimit më njerëz, dhe mbrojtjen e viktimave të trafikuara.
+2. Organizatat joqeveritare vendore dhe ndërkombëtare ofrojnë shërbime përkatëse për viktimat e trafikimit, qoftë me nismën e tyre, në emër të drejtoratit komunal në rastin e shërbimeve lokale, ose në emër të autoritetit kombëtar në rastin e shërbimeve në nivel të Kosovës.
+3. Çdo organizatë joqeveritare që ofron shërbime për viktimat e trafikimit duhet të licencohet nga institucioni përkatës, si edhe t’u përmbahet rregulloreve, udhëzimeve dhe procedurave lidhur me aktivitetet e tyre siç përcaktohen nga institucionin përkatës.
+4. Institucionet në kuadër të autoritetit kombëtar mund të ndajnë fonde dhe të ofrojnë çfarëdo ndihmë tjetër materiale, duke përfshirë lokalet, ose këshillat për organizatat joqeveritare që ofrojnë shërbime përkatëse (në strehimore, rehabilituese ose të reintegrimit) për viktimat e trafikimit në nivel të Kosovës.
+5. Në pamundësi të ofrimit të shërbimeve të caktuara për viktimat, komunat dhe institucionet qendrore mund të blejnë shërbime për viktimat e trafikimit nga organizatat joqeveritare vendore duke respektuar rregullat e prokurimit publik.
+6. Organizatat joqeveritare vendore dhe organizatat ndërkombëtare janë të obliguara që të respektojnë legjislacionin në fuqi dhe standardet minimale për mbrojtjen e viktimave të trafikimit dhe gjithmonë të pranojnë monitorimin dhe inspektimin e kualitetit te shërbimeve të ofruara për viktimat.

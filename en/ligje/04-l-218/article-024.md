@@ -1,0 +1,3 @@
+# Article 24
+Vocational training of victims of trafficking
+Authorities provide the vocational training for victims of trafficking in human beings, according to conditions set by the legislation in force, through provision of them free of charge services with priority on mediation in employment, information, professional counseling, professional orientation and professional training, as well as through providing them the right to take part in the professional training course funded by the unemployment programme. Beneficiaries of the determined services in this paragraph are victims of trafficking over sixteen (16) years of age.

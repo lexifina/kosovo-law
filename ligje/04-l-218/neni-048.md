@@ -1,0 +1,6 @@
+# Neni 48
+Zbatimi
+1. Përgjegjës për zbatimin e këtij ligji janë të gjitha autoritetet kompetente të përcaktuara në nenin 6 të këtij ligji, si dhe institucionet e tjera vendore edhe ndërkombëtare të cilat janë të interesuara të ndihmojnë luftën kundër trafikimit më njerëz.
+2. Obligohen institucionet shtetërore, çdo ofrues i shërbimeve në kuadër të këtyre institucioneve, OJQ-të dhe organizatat ndërkombëtare, t’i zbatojnë Strategjinë Nacionale dhe Planin e Veprimit kundër Trafikimit me Qenje Njerëzore, Procedurat Standarde të Veprimit, Strategjinë afatgjate për Ri- integrim të viktimave të trafikimit, Standardet minimale për kujdesin ndaj viktimave të trafikimit dhe aktet tjera përkatëse të nxjerra nga autoritetet kompetente, të cilat e trajtojnë parandalimin dhe luftimin e trafikimit me njerëz dhe mbrojtjen e viktimave të trafikuara.
+3. Të drejtat e viktimave të trafikimit ose të viktimave të supozuara të trafikimit që kërkojnë, ose është e arsyeshme të besohet se mund të kërkojnë azil ose çfarëdo formë të mbrojtjes plotësuese të përcaktuara me Ligjin për Azil në Kosovë, gjithmonë duhet të garantohen në përputhje me dispozitat e atij ligji.
+4. Qeveria mund të nxjerr vendime apo akte nënligjore të tjera për zbatimin e këtij ligji.
