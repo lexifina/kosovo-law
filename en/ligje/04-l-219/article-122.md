@@ -1,0 +1,5 @@
+# Article 122
+Storing of data
+1.Competent authorities for the treatment of foreigners, which collect and administer data of foreigners, according to the law, shall store them for a period of five (5) years after expiration of validity of the visa or temporary residence permit, or ten (10) years from the conclusion of punitive administrative or criminal proceedings.
+2. Competent authorities for the treatment of foreigners, which collect and administer personal data of foreigners, shall take appropriate organizational and technical measures to protect personal data from unlawful or accidental destruction, accidental loss, access or distribution to unauthorized persons, especially when data processing is performed in the network, as well as any other form of unlawful processing.
+3. Anyone who has access to personal data collected, stored and processed by competent authorities for the treatment of foreigners, as in the course of exercise of duties as well as upon conclusion, shall be subject to liability for maintaining confidentiality and non distribution of any personal data, except when otherwise specified by the law.

@@ -1,0 +1,7 @@
+# Article 74
+Decision for granting work permit
+1. The decision about the application for issuance of a work permit shall be issued by the DCAM, after confirmation of permit to work from MLSW. Such a decision may be appealed within eight (8) days from the receipt of the decision, to the Appeals Commission shall decide.
+2. Work permit shall be issued to foreign nationals for the period of time required to carry out the tasks, respectively for the time for which an employment contract or other relevant contracts are made, and the longest up to one (1) year.
+3. Notwithstanding paragraph 2. of this article, a foreigner’s work permit referred to in article 70 paragraph 1. sub-paragraph 1.5. of the law, shall be issued for a period of validity of two (2) years, unless otherwise required a shorter period of time for granting a work permit.
+4. A foreigner who has been granted a work permit for the reasons of seasonal work, may residence in the Republic of Kosovo at most six (6) months in the period of one (1) year and must residence outside the Republic of Kosovo for at least six (6) months before it may become possible again for him/her an entry into and residence for the purpose of work.
+5. Employer and Tax Administration on the basis of the head office of the legal entity or place of residence of a natural person, who uses the services of a foreign or the place where contracted work will be carried out, shall be informed by DCAM, for granting a work permit.

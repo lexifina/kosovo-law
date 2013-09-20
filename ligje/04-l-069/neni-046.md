@@ -1,5 +1,0 @@
-# Neni 46
-Qëndrimi i përkohshëm me qëllim të bashkimit familjar
-1. Kërkesën për lëshimin e lejes për qëndrim të përkohshëm më qëllim të bashkimit familjar, ka të drejtë ta paraqes i huaji-anëtari i ngushtë i familjes së shtetasit të Republikës së Kosovës, të huajit të cilit i është lejuar qëndrimi i përkohshëm apo përhershëm ose i huaji i cili ka statusin e azilantit.
-2. Anëtarët e familjes së ngushtë, në kuptimin e dispozitave të këtij ligji, konsiderohen bashkëshortët, fëmijët e mitur të cilët nuk kanë krijuar familjet e tyre si dhe prindërit e fëmijëve të mitur. Anëtar i familjes së ngushtë mund të konsiderohet edhe i afërmi tjetër, i adoptuar ose adoptuesi, nëse ekzistojnë shkaqe të veçanta personale apo humanitare për bashkimin e familjes në Republikën e Kosovës.
-3. Në rastin e paraqitjes së kërkesës për qëndrim të përkohshëm sipas këtij neni kushtet e parapara në nenin 41 të këtij ligji duhet të plotësohen edhe nga anëtari i familjes me qëndrim në Republikën e Kosovës. Në bazë të qëndrimit të përkohshëm sipas këtij neni, i huaji mund të punoj në Republikën e Kosovës në bazë të kushteve të parapara në nenin 43 të këtij ligji.

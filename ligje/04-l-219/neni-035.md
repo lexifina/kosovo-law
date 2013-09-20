@@ -1,0 +1,9 @@
+# Neni 35
+Detyrimet e transportuesit
+1. Transportuesi mund të sjellë një të huaj në pikën e kalimit kufitar të Republikës së Kosovës, në qoftë se i huaji ka një dokument udhëtimi të vlefshëm ose dokument tjetër të nevojshëm për kalimin e kufirit, ka një vizë të vlefshme nëse është e nevojshme ose lejeqëndrim.
+2. Transportuesi mund ta sjell të huajin në pikën e kalimit kufitar nëse i plotëson kushtet për hyrje në Republikën e Kosovës.
+3. Nëse të huajit i është refuzuar hyrja në Republikën e Kosovës, transportuesi që e ka sjellë atë në pikën e kalimit kufitar, duhet që me kërkesën e organit për kontrollin e kufirit, ta kthejë në shtetin nga i cili ka hyrë, në shtetin ku dokumenti i të huajit është lëshuar, apo në ndonjë shtet tjetër që është i sigurt që do ta pranon atë.
+4. Nëse transportuesi nuk mund ta kthej të huajin nga Republika e Kosovës në pajtim me paragrafin 3. të këtij neni, duhet që menjëherë dhe me shpenzimet e tij të siguroj transportues tjetër.
+5. Transportuesi i cili e ka sjellë të huajin në kufirin shtetëror apo në territorin e Republikës së Kosovës në kundërshtim me paragrafin 2. të këtij neni, duhet të paguaj shpenzimet e akomodimit dhe kthimit prapa të të huajit.
+6. Detyrimet që rrjedhin nga ky nen duhet të zbatohen edhe ndaj transportuesit që bartin të huajin në kufirin shtetëror ose brenda territorit të Republikës së Kosovës, i cili është duke kaluar transit ose të cilit i është refuzuar transporti i mëtutjeshëm nga transportuesi tjetër ose të cilit i është refuzuar hyrja në shtetin e destinacionit dhe është kthyer në Republikën e Kosovës.
+7. Organizatori i udhëtimeve turistike apo atyre të punës në Republikën e Kosovës, është i obliguar që për të huajt të cilëve i është ofruar shërbimi përkatës, t’i mbulojë shpenzimet e largimit nga Republika e Kosovës, nëse të huajit i është ndaluar hyrja apo largohet me forcë nga Republika e Kosovës dhe nëse këto shpenzime i huaji nuk mund t’i mbulojë vetë.

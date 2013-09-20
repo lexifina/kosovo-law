@@ -1,0 +1,5 @@
+# Neni 133
+1. Nga Inspektorati i Punës me gjobë në shumë prej pesëmijë (5.000) deri tetëmijë (8.000) euro do të dënohet punëdhënësi i huaj si person juridik, nëse para fillimit të dërgimit të punëtorit nuk e dorëzon deklaratën ose e dorëzon atë jo të plotë ose të gabuar (neni 80 i këtij ligji).
+2. Nga Inspektorati i Punës me një gjobë prej pesëqind (500) deri njëmijepesëqind (1.500) euro për shkeljet e referuara nga paragrafin 1. të këtij neni, do të dënohet punëdhënësi i huaj si person fizik, dhe personi përgjegjës i personit juridik.
+3. Inspektorati i Punës me gjobë prej pesëmbëdhjetëmijë (15.000) deri tridhjetëmijë (30.000) euro do ta dënoj çdo të huaji si marrës i shërbimit, nëse ai e di ose ka arsye për të ditur se për punën e përdor një punëtor të sistemuar i cili nuk është i punësuar ligjërisht nga një punëdhënës i huaj (neni 77 i këtij ligji);
+4. Inspektorati i Punës me gjobë prej tremijë (3.000) deri pesëmijë (5.000) euro për çdo të huaji për shkeljet e referuara në paragrafin 3. të këtij neni, do të dënohet përfituesi, personin fizik dhe personi përgjegjës i personit juridik.

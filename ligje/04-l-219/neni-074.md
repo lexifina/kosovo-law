@@ -1,0 +1,7 @@
+# Neni 74
+Vendimi për dhënien e lejeqëndrimit për punë
+1. Lidhur me kërkesën për lëshimin e lejeqëndimit për punë vendos DSHAM-i, pas konfirmimit për lejimin e punës nga MPMS-ja. Kundër vendimit mund të ushtrohet ankesë brenda tetë (8) ditëve nga pranimi i vendimit, për të cilën vendos Komisioni i Ankesave.
+2. Lejeqëndrimi për punë i lëshohet shtetasit të huaj për kohën sa është e nevojshme për kryerjen e punëve, respektivisht për kohën për të cilin është lidhur kontrata e punës ose kontrata tjetër përkatëse, e më së gjati deri një (1) vit.
+3. Përjashtimisht nga paragrafi 2. i këtij neni, lejeqëndrimi për punë të huajit nga neni 70 paragrafi 1. nën-paragrafi 1.5. të këtij ligji i lëshohet me afat të vlefshmërisë prej dy (2) vitesh, nëse nuk është kërkuar periudha më e shkurtër e lëshimit të lejeqëndrimit për punë.
+4. Shtetasi i huaj, të cili i është lëshuar lejeqëndrimi për punë për shkak të kryerjes së punëve sezonale, mund të qëndrojë në Republikën e Kosovës më së gjati gjashtë (6) muaj, në periudhën kohore prej një (1) viti dhe patjetër duhet të qëndrojë jashtë Republikës së Kosovës më së paku gjashtë (6) muaj, para se t’i i bëhet përsëri e mundur hyrja dhe qëndrimi me qëllim të punës.
+5. Punëdhënësi dhe Administrata Tatimore në bazë të selisë së personit juridik ose vendbanimit të personit fizik, i cili i shfrytëzon shërbimet e të huajit ose vendit ku puna e kontraktuar do të kryhet do të njoftohen nga DSHAM-i për dhënien e lejeqëndrimit për punë.

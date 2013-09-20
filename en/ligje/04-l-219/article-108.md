@@ -1,0 +1,6 @@
+# Article 108
+Detainment at the detention center
+1. Detainment at the detention center is a last resort administrative measure, which is issued and executed by the Border Police, against a foreigner, for whom a forced removal or removal order has been issued, based on the case-by-case assessment, when all possible alternative measures are implemented or when based on an assessment such measures are considered inapplicable to a foreigner, or to a foreigner who is under readmission procedures according to readmission agreements in force.
+2. A foreigner shall remain detained in the detention center, for the shortest period of time, until the legal proceedings are carried out, to enable his removal from the Republic of Kosovo, within the period of time specified in this law.
+3. Border police may detain a foreigner in the detention center for the reasons of public security, identity verification or other reasons.
+4. A foreigner shall be notified in written form, in one of the official languages and in English, for his/her detainment at the detention center, which shall contain the reasons for the detention, the detention period, the right to provide him/her with legal protection, as well as to contact his/her relatives.

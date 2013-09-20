@@ -1,0 +1,45 @@
+# Neni 3
+Përkufizimet
+1. Shprehjet e përdorura në këtë ligj kanë këtë kuptim:
+1.1. I huaji - çdo person fizik i cili nuk është shtetas i Republikës së Kosovës;
+1.2. Personi pa-shtetësi - personi i cili nuk konsiderohet shtetas i asnjë shteti në kuadër të fushëveprimit të ligjit të shtetit përkatës;
+1.3. Dokument udhëtimi –pasaporta ose ndonjë dokument i ngjashëm i cili i mundëson bartësit të tij të kaloj kufirin dhe në të cilin mund të vendoset viza;
+1.4. Dokumenti i udhëtimit për të huaj - dokument udhëtimi për të huaj, dokument udhëtimi për personat pa shtetësi, dokument udhëtimi për refugjatë, persona nën mbrojtje plotësuese dhe fletë udhëtimi për të huaj i lëshuar nga Republika e Kosovës;
+1.5. Transportuesi - personi fizik ose juridik profesioni i të cilit është të ofroj transportimin e personave;
+1.6. Migrant ditor – shtetasi i një shteti fqinj, ku ai banon dhe vjen çdo ditë në punë në Republikën e Kosovës dhe kthehet në vendin e tij të qëndrimit;
+1.7. Person juridik – entiteti i cili e ka atë status sipas ligjit të aplikueshëm, përveç për organet shtetërore ose publike që ushtrojnë autoritet shtetëror dhe për organizatat ndërkombëtare publike;
+1.8. Viza – autorizimi i dhënë nga Republika e Kosovës me qëllim të transitit përmes territorit të Republikës së Kosovës ose Aeroportit Ndërkombëtar, ose qëndrimit për një kohë të caktuar por jo më gjatë se tre muaj brenda një periudhe gjashtë mujore prej datës së hyrjes së parë në territorin e Republikës së Kosovës;
+1.9. Leje qëndrimi – çdo autorizim i lëshuar nga autoritetet e Republikës së Kosovës që lejojnë qëndrimin e ligjshëm të të huajit në territor, me përjashtim të:
+1.9.1. vizave;
+1.9.2. lejeve të lëshuara në pritje të shqyrtimit të kërkesave për leje qëndrim apo azil.
+1.10. Qëndrimi i paligjshëm –prezenca e të huajit në territorin e Republikës së Kosovës i cili nuk i plotëson, apo nuk i plotëson më kushtet për hyrje apo qëndrim në Republikën e Kosovës;
+1.11. Refugjat - personi i cili për shkak të frikës mirë të bazuar për të qenë i persekutuar për arsye të racës, religjionit, kombësisë, mendimit politik apo përkatësisë së grupit të caktuar shoqëror, është jashtë vendit të shtetësisë dhe nuk ka mundësi apo për shkak të frikës së tillë nuk ka dëshirë të përfitoj mbrojtjen e atij vendi, apo personin pa shtetësi i cili duke qenë jashtë vendit të banimit të mëparshëm të rregullt për arsye të njëjta siç përmendën më lartë, nuk ka mundësi, apo për shkak të frikës së tillë nuk ka dëshirë të kthehet në atë vend.
+1.11.1. Koncepti i racës në veçanti do të përfshijë konsideratën ndaj ngjyrës, prejardhjes, apo përkatësisë së ndonjë grupi të veçantë etnik;
+1.11.2. Koncepti i religjionit në veçanti do të përfshijë mbajtjen e besimeve teiste, jo- teiste dhe ateiste, pjesëmarrjen në apo abstenimin nga ritualet religjioze në hapësira private apo publike, qoftë i vetëm apo në bashkësi me të tjerët, aktet e tjera religjioze apo shprehjen e pikëpamjeve, ose format personale apo kolektive të sjelljes të bazuara në besimin religjioz apo të urdhëruara nga çfarëdo besimi religjioz;
+1.11.3. Koncepti i kombësisë nuk do të kufizohet në shtetësi apo në mungesën e saj, po në veçanti do të përfshijë përkatësinë në një grup të përcaktuar nga identiteti kulturor, etnik apo linguistik, nga origjina gjeografike apo politike apo nga marrëdhënia e grupit të tillë me popullatën e shtetit tjetër;
+1.11.4. Grupi do të konsiderohet të krijojë grupin e veçantë shoqëror kur në veçanti:
+1.11.4.1. pjesëtarët e atij grupi ndajnë një karakteristikë të lindur apo një prapavijë të përbashkët që nuk mund të ndërrohet, ose ndajnë ndonjë karakteristikë apo besim që është aq esencial për identitetin apo vetëdijen sa që personi nuk duhet të detyrohet të heq dorë nga e njëjta, dhe
+1.11.4.2. ai grup ka identitet të dalluar në vendin relevant, për shkak se i njëjti është i perceptuar si i ndryshëm nga shoqëria që e rrethon. Varësisht nga rrethanat ne vendin e origjinës, një grup i veçante social mund të përfshij një grup bazuar ne karakteristikat e përbashkëta te orientimit seksual. Orientimi seksual nuk mund te kuptohet qe duhet të përfshij akte qe konsiderohen te jenë kriminale në pajtim me ligjin kombëtar të Republikës së Kosovës.
+Aspektet e lidhura me moshën, përfshirë identitetin gjinor, duhet t’i jepet konsideratë e theksuar me qëllim të përcaktimit të anëtarësisë se grupit të veçantë social ose identifikimit të karakteristikave të një grupi të tillë.
+1.11.5. Koncepti i pikëpamjes politike në veçanti do të përfshijë mbajtjen e opinionit, mendimit apo besimit në çështjen që ka të bëjë me akterët potencial të persekutimit të përmendur në nen nën-paragrafin 1.11. të këtij neni dhe me politikat apo metodat e tyre, pavarësisht nëse opinioni, mendimi apo besimi i tillë është shprehur nga azilkërkuesi.
+1.12. Marrëdhënia e punës– ushtrimi i aktiviteteve që mbulojnë çfarëdo forme të punës të rregulluar me ligjet e aplikueshme ose në përputhje me praktikën e përcaktuar, për/ose nën drejtimin dhe/ose mbikëqyrjen e një punëdhënësi;
+1.13. Punëdhënësi – personi fizik ose juridik, duke përfshirë Agjencinë e Përkohshme të Punësimit, për/apo nën drejtimin dhe /ose mbikëqyrjen e të cilit puna është ndërmarrë;
+1.14. Punëmarrësi – personi fizik i cili është punësuar për kryerjen e punës apo shërbimeve për punëdhënësin kundrejt një pagese;
+1.15. Leje pune – autorizimi i bartësit të saj për të qëndruar dhe punuar në territorin e Republikës së Kosovës sipas kushteve të përcaktuara me këtë ligj;
+1.16. Punësimi ilegal –punësimi i një të huaji i cili qëndron ilegalisht në Republikën e Kosovës;
+1.17. Nënkontraktor – personi fizik ose juridik, të cilit i është caktuar kryerja e të gjitha ose një pjese të obligimeve të kontratës paraprake;
+1.18. Agjencia për Punësimin e Përkohshëm - personi fizik ose juridik, i cili në pajtim me legjislacionin e aplikueshëm lidh kontrata të punësimit me punëmarrësit e agjencisë së përkohshme, me qëllim të caktimit të tyre për të punuar përkohësisht për ndërmarrjet nën mbikëqyrjen dhe drejtimin e tyre;
+1.19. Punëtor sezonal - i huaji që banon në shtetin e të cilit ai është shtetas ose në të cilin ai ka një leje qëndrimi të përhershme, është me një punëdhënës të bazuar në Republikën e Kosovës dhe ka nënshkruar një kontratë për një punë të caktuar në një periudhë të caktuar jo më të gjatë se gjashtë (6) muaj;
+1.20. Punëdhënësi i huaji – personi fizik ose juridik që kryen punë në Republikën e Kosovës në bazë të një marrëveshjeje apo kontrate paraprake, dhe i cili ka një përfaqësi të regjistruar në Republikën e Kosovës;
+1.21. Punëtori i sistemuar - punëtori, punëdhënësi i tij/saj i huaj në kuadër të ofrimit të shërbimeve ndërkufitare i cili e ka dërguar atë për një periudhë të kufizuar kohore për të punuar në Republikën e Kosovës, i cili nuk është shteti në të cilin ai/ajo normalisht punon;
+1.22. Punësimi i punëtorëve me kualifikim të lartë –puna e një personi i cili:
+1.22.1. është i mbrojtur si një punëmarrës sipas Ligjit mbi Punën apo në pajtim me praktikën e brendshme, pa marrë parasysh marrëdhënien juridike, me qëllim të ushtrimit të punës efektive, apo nën drejtimin e dikujt tjetër;
+1.22.2. është paguar dhe
+1.22.3. e ka kompetencën adekuate dhe specifike, që dëshmohet me kualifikimet e larta profesionale.
+1.23. Kualifikime të larta profesionale – kualifikimet që dëshmohen në bazë të kualifikimeve të larta profesionale;
+1.24. Kualifikime të arsimit të lartë -- çdo diplomë, certifikatë apo dëshmi tjetër të kualifikimeve formale të lëshuara nga autoriteti kompetent për aftësimin e përfundimit të suksesshëm të një programi arsimimi pas shkollës së mesme, konkretisht një sërë kursesh të ofruara nga një institucion i arsimit të lartë i pranuar si institucion i arsimit të lartë nga Republika e Kosovës. Kualifikimet e arsimit të lartë duhet të merren parasysh, me kusht që studimet e nevojshme për arritjen e këtij kualifikimi zgjasin së paku tre (3) vjet;
+1.25. Kthimi – procesi i kthimit prapa të një të huaji, qoftë në pajtim me një obligim vullnetar apo të detyrueshëm për t’u kthyer, në vendin e tij të origjinës apo në vend tjetër;
+1.26. Largimi – ekzekutimi i obligimit për t’u kthyer, përkatësisht transportimi fizik jashtë Republikës së Kosovës;
+1.27. Ribashkimi familjar – hyrja dhe qëndrimi në territorin e Republikës së Kosovës të anëtarëve të familjes të të huajit që qëndron ligjshëm në Republikën e Kosovës në mënyrë që të ruhet njësia familjare, nëse marrëdhënia familjare ka lindur para ose pas hyrjes së të huajit;
+1.28. Fëmijë i pashoqëruar - shtetasi i huaj apo personi pa shtetësi, nën tetëmbëdhjetë (18) vjeç, që hyjnë në territorin e Republikës së Kosovës pa qenë të shoqëruar nga një person madhor, përgjegjës për ta, sipas ligjit apo traditës zakonore, dhe përderisa ata nuk janë nën kujdesin efektiv të personit të tillë, fëmijë i pashoqëruar përfshinë dhe të miturit e lënë vetëm pas hyrjes në territorin e Kosovës;
+1.29. Sponsor – i huaji i cili qëndron ligjërisht në Republikën e Kosovës dhe që parashtron kërkesë apo anëtarët e familjes të të cilit parashtrojnë kërkesë për ribashkimin familjar që të bashkohen me të.

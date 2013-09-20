@@ -1,0 +1,15 @@
+# Neni 97
+Largimi me forcë nga Republika e Kosovës
+1. Largimi me forcë i të huajit nga territori i Republikës së Kosovës bëhet nga Policia Kufitare atëherë kur i huaji:
+1.1. ka hyrë në mënyrë të paligjshme në territorin e Republikës së Kosovës dhe ekziston dyshimi i bazuar se do të përdorë territorin e saj për të kaluar ilegalisht drejt vendeve të tjera;
+1.2. nuk është larguar nga Republika e Kosovës brenda afateve kohore, të përcaktuara në urdhrin e largimit pa ndonjë arsye objektive, apo pas largimit nga territori dhe brenda afateve të ndalimit të hyrjes, ri-hyn në territorin e Republikës së Kosovës;
+1.3. nuk e ka lëshuar territorin e Republikës së Kosovës deri në gjashtëdhjetë (60) ditë pas përfundimit të afatit të vizës, të lejes së qëndrimit, ose afatit të qëndrimit të parashikuar në këtë ligj për të huajt që hyjnë pa vizë;
+1.4. është ripranuar nga një vend tjetër në kuadër të Marrëveshjeve të Ripranimit në fuqi në Republikën e Kosovës;
+1.5. është dënuar për një vepër penale për të cilën legjislacioni i Republikës së Kosovës parashikon një dënim minimal një (1) vit heqje lirie.
+2. Në rast se i huaji bëhet subjekt i largimit me forcë sipas këtij neni, ai mbahet i ndaluar në Qendër të Mbajtjes, derisa të ekzekutohet urdhri i largimit me forcë. Në rast të gjetjes së mundësive të tjera alternative, të zbatimit të masave të përkohshme siç përcaktohen me këtë ligj, këto të fundit kanë prioritet ndaj ndalimit.
+3. I huaji, i cili nuk disponon një dokument udhëtimi duhet të paraqitet vetë ose i shoqëruar nga autoritetet kompetente, pranë përfaqësive diplomatike dhe konsullore të akredituara në Republikën e Kosovës, për t'u pajisur me një dokument të tillë.
+4. Nëse në Republikën e Kosovës nuk ka përfaqësi diplomatike dhe konsullore të vendit të shtetasit të huaj, autoriteti përgjegjës në kuadër të MPB-së kërkon pajisjen me dokument udhëtimi në vendin e origjinës ose në përfaqësitë diplomatike dhe konsullore të vendit të shtetasit të huaj në ndonjë vend tjetër, nëpërmjet Drejtorisë Konsullore në Ministrinë e Punëve të Jashtme.
+5. Në rast se përfaqësia diplomatike nuk mund të lëshojë dokument udhëtimi, MPB –ja e pajisë të huajin me dokument standard udhëtimi të përcaktuar me marrëveshje ripranimi, i cili ka për qëllim zbatimin e largimit me forcë të të huajit.
+6. Në zbatim të këtij ligji, MPB-ja mund t’i lëshoj fletudhëtim të huajit, nëse i huaji nuk pajiset me dokument udhëtimi, sipas nenit 7 të këtij ligji.
+7. MPB në bazë të marrëveshjeve në fuqi në Republikën së Kosovës mund të bashkëpunoj me vende të tjera në procedurën e kthimit, apo kthimeve të përbashkëta të të huajve.
+8. Të huajit i komunikohet në formë të shkruar, në njërën nga gjuhët zyrtare dhe në gjuhën angleze, se ndaj tij do të ekzekutohet masa administrative e largimit me forcë, duke i shpjeguar arsyet e nxjerrjes së urdhrit, datën dhe vendin ku do të ekzekutohet, mënyrën e transportimit të tij për në vendin e destinacionit dhe afatin e ndalimit të hyrjes. Forma dhe procedura e urdhër largimit me forcë përcaktohet me akt nënligjor të nxjerrë nga MPB-ja.

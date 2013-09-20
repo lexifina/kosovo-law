@@ -1,0 +1,5 @@
+# Neni 122
+Ruajtja e të dhënave
+1. Autoritetet kompetente për trajtimin e të huajve, të cilat mbledhin dhe administrojnë të dhënat për të huajt, sipas këtij ligji, i ruajnë ato për një periudhë pesë (5) vjeçare pas skadimit të vlefshmërisë së vizës ose të lejes së përkohshme të qëndrimit, apo dhjetë (10) vjeçare nga përfundimi i procedurës ndëshkuese administrative ose penale.
+2. Autoritetet kompetente për trajtimin e të huajve, të cilët mbledhin dhe administrojnë të dhënat personale për të huajt, marrin masat e duhura organizative dhe teknike për mbrojtjen e të dhënave personale nga shkatërrimi i jashtëligjshëm ose aksidental, humbja aksidentale, qasja ose shpërndarja tek persona të paautorizuar, veçanërisht kur përpunimi i të dhënave kryhet në rrjet, si dhe nga çdo formë tjetër të përpunimit të jashtëligjshëm.
+3. Kushdo që ka qasje në të dhënat personale të mbledhura, ruajtura dhe përpunuara nga autoritetet kompetente për trajtimin e të huajve, si gjatë ushtrimit të detyrave si dhe pas përfundimit, i nënshtrohet detyrimit të ruajtjes së konfidencialitetit dhe mos shpërndarjes së asnjë të dhëne personale, përveç kur parashikohet ndryshe me ligj.

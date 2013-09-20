@@ -1,8 +1,0 @@
-# Article 26
-Obligations of transport carriers
-1. Transport carrier may carry the foreigner in the border crossing point if it meets conditions for entry in the Republic of Kosovo.
-2. If to the foreigner is refused the entry in the Republic of Kosovo, the transport carrier who has brought it to the border, must, upon request of the body for border control, to return the foreigner in the state from which he has entered, in the state where the document of the foreigner is issued, or in another state that is ready to admit him.
-3. If the transport carrier cannot return the foreigner from the Republic of Kosovo in compliance with paragraph 2 of this Article, shall immediately and with his costs to provide other transport carrier.
-4. If the transport carrier who has brought the foreigner in the state border or in the territory of the Republic of Kosovo, contrary to the paragraph 1 of this Article, shall cover the accommodation costs and the return of the foreigner.
-5. Obligation arising from this article shall be applicable also to the transport carrier who carries the foreigner in the border state or within the territory of the Republic of Kosovo, who is crossing transit or to whom is refused the onward transport by another transport carrier or to whom is refused the entry in the state of destination and it is returned in the Republic of Kosovo.
-6. The organizer of touristic travels or work travels in the Republic of Kosovo, shall be obliged, for foreigners to whom has provided the relevant service, to cover the expenses of departure from the Republic of Kosovo, if to the foreigner it is prohibited the entry or the foreigner is removed by violence from the Republic of Kosovo and if these expenses can not be covered by the foreigner.

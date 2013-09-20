@@ -1,0 +1,44 @@
+# Article 3
+Definitions
+1. Terms used in this Law shall have the following meaning:
+1.1. Foreigner - any person who is not a citizen of the Republic of Kosovo;
+1.2. Stateless Person – any person who is not considered a citizen of any state in the framework of the law of the pertinent state;
+1.3. Travel Document – a passport or other equivalent document entitling the holder to cross the border and to which a visa may be affixed;
+1.4. Travel Document for Foreigners – a travel document for foreigners, a travel document for stateless persons ,travel document for refugees, persons under subsidiary protection and travel paper for foreigners issued by the Republic of Kosovo;
+1.5. Carrier – a natural or legal person whose profession is to provide transport of persons;
+1.6. Daily Migrant – a citizen of a neighboring state, where he/she lives and comes every day to work in the Republic of Kosovo and returns back to his/her place of residence;
+1.7. Legal person – an entity having such status under the applicable law, except for state or public bodies exercising state authority and for public international organizations;
+1.8. Visa – an authorization issued by the Republic of Kosovo for the purpose of transit through territory of the Republic of Kosovo or international airport, or residence for a given time no longer than three months for a six months period from the date of first entry in the territory of the Republic of Kosovo;
+1.9. Residence permit – any authorization issued by the authorities of the Republic of Kosovo allowing a foreigner to stay legally on its territory, with the exception of:
+1.9.1. visas;
+1.9.2. permits issued pending examination of an application for a residence permit or for asylum.
+1.10. Illegal Residence – the presence on the territory of the Republic of Kosovo, of a foreigner who does not fulfill, or no longer fulfills the conditions for entry, residence or residence in the Republic of Kosovo;
+1.11. Refugee – a person who owing to the well founded fear of persecution for reason of race, religion, nationality, political conviction or belonging to a particular social group, is outside their country of nationality and is unable or, owing to such fear, is unwilling to avail himself or herself of the protection of that country, or a stateless person, who, being outside of the country of former habitual residence for the same reasons as mentioned above, is unable or, owing to such fear, unwilling to return to that country.
+1.11.1. the concept of race shall, in particular, include considerations of colour, descent, or membership of a particular ethnic group;
+1.11.2. the concept of religion shall in particular include the holding of theistic, non- theistic and atheistic beliefs, the participation in, or abstention from, formal worship in private or in public, either alone or in community with others, other religious acts or expressions of view, or forms of personal or communal conduct based on or mandated by any religious belief;
+1.11.3. the concept of nationality shall not be confined to citizenship or lack thereof but shall, in particular, include membership of a group determined by its cultural, ethnic, or linguistic identity, common geographical or political origins or its relationship with the population of another State;
+1.11.4. a group shall be considered to form a particular social group where in particular:
+1.11.4.1. members of that group share an innate characteristic, or a common background that cannot be changed, or share a characteristic or belief that is so fundamental to identity or conscience that a person should not be forced to renounce it, and
+1.11.4.2. That group has a distinct identity in the relevant country, because it is perceived as being different by the surrounding society. Depending on the circumstances in the country of origin, a particular social group might include a group based on a common characteristic of sexual orientation. Sexual orientation cannot be understood to include acts considered to be criminal in accordance with national law of the Republic of Kosovo. Gender related aspects, including gender identity, shall be given due consideration for the purposes of determining membership of a particular social group or identifying a characteristic of such a group;
+1.11.5. the concept of political opinion shall, in particular, include the holding of an opinion, thought or belief on a matter related to the potential actors of persecution mentioned in sub-paragraph 1.11 of this Article and to their policies or methods, whether or not that opinion, thought or belief has been acted upon by the applicant.
+1.12. Employment – the exercise of activities covering whatever form of labour or work regulator under the applicable law or in accordance with established practice for or under the direction and/or supervision of an employer;
+1.13. Employer – any natural person or any legal entity, including temporary work agencies, for or under the direction and/or supervision of whom the employment is undertaken;
+1.14. Employee – a natural person hired for conducting work or services against a payment for the employer;
+1.15. Work permit – the authorization entitling its holder to reside and work within the territory of the Republic of Kosovo under the terms of this law;
+1.16. Illegal employment – the employment of an illegally residing foreigner in the Republic of Kosovo;
+1.17. Sub-Contractor – any natural person or any legal entity, to whom the execution of all or part of the obligations of a prior contract is assigned;
+1.18. Temporary Work Agency – any natural or legal person who, in compliance with applicable law concludes contract of employment or employment relationships with temporary agency workers in order to assign them to user undertakings to work there temporarily under their supervision and direction;
+1.19. Seasonal worker – a foreigner that resides in the state of which he/she is citizen of or in which he/she has a permanent residence permit and who is with an employer based in the Republic of Kosovo and has signed a contract for a certain job for a limited time no longer than six (6) months;
+1.20. Foreign employer – a foreign natural or legal person which carries out work in the Republic of Kosovo based on previous agreement or contract and which has an authorized office registered in the Republic of Kosovo;
+1.21. Posted worker – a worker, his/her foreign employer in the framework of cross-border provision of services has sent him/her for a limited period of time to work in the Republic of Kosovo, which is not the state in which he/she normally works;
+1.22. Highly qualified employment – the employment of a person who:
+1.22.1. is protected as an employee under the law on employment or in accordance with national practice, irrespective of the legal relationship, for the purpose of exercising genuine and effective work for, or under the direction of someone else;
+1.22.2. is paid; and
+1.22.3. has the required adequate and specific competence, as proven by higher professional qualifications.
+1.23. Higher professional qualifications - qualification attested by evidence of higher education qualifications;
+1.24. Higher education qualification --- any diploma, certificate or other evidence of formal qualifications issued by a competent authority attesting the successful completion of a post- secondary higher education programme, namely a set of courses provided by an educational establishment recognized as a higher education institution by the State in which it is situated, a higher education qualification shall be taken into account, on condition that the studies needed to acquire this qualification it lasted at least three years;
+1.25. Return - the process of a foreigner going back, whether in voluntary compliance with an obligation to return or enforced, to his country of origin or to another country;
+1.26. Removal - the enforcement of the obligation to return, namely the physical transportation out of the Republic of Kosovo;
+1.27. Family reunification – the entry into and residence in the territory of the Republic of Kosovo by family members of a foreigner residing lawfully in the Republic of Kosovo in order to preserve the family unit, whether the family relationship arose before or after the resident’s entry;
+1.28. Unaccompanied child - foreign nationals or stateless persons under the age of eighteen (18), who enter the territory of the Republic of Kosovo without being accompanied by an adult who is responsible for them according to the law or customary tradition and for as long as they are not effectively taken into the care of such a person. An unaccompanied child includes minors left alone after entry in the territory of Kosovo.
+1.29. Sponsor - a foreigner residing lawfully in the Republic of Kosovo and applying or whose family members apply for family reunification to be joined with him/her.
