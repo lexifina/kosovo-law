@@ -1,0 +1,4 @@
+# Article 2
+1. In Article 9 of the annual Law on Budget of the Republic of Kosovo for year 2013, after paragraph 2, there shall be added a new paragraph 3 with the following text:
+3. All public money collected from goods imported by businesses registered in North of Mitrovica, Zubin Potok, Leposaviq or Zveçan, with are a destination for consumption in these municipalities, upon entering into Kosovo through customs points Jarinje (gate 1) or Brnjak (gate 31) are required to be sent to the Kosovo Fund and separately identified and accounted for in KFMIS, are hereby appropriated to the Development Trust Fund that is to be established by the EUSR in Kosovo in a commercial bank.
+2. In Article 9 of the Annual Law on Budget of the Republic of Kosovo for the year 2013, paragraph 3 shall be renumbered as paragraph 4.
