@@ -1,0 +1,2 @@
+# Neni 2
+Të punësuarit e Drejtorive për administrim të Parqeve Kombëtare (në tekstin e mëtejmë: Drejtoria), banorët e Parkut Kombëtar, pronarët dhe/ose përdoruesit e ligjshëm në pa luajtshmëritë në Parkun Kombëtar, personat fizik dhe juridik të cilët brenda Parkut Kombëtar kryejnë veprimtari të lejuara si dhe vizitorët e Parkut Kombëtar janë të detyruar që të ju përmbahen dispozitave të kësaj Rregullore.

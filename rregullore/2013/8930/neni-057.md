@@ -1,0 +1,4 @@
+# Neni 57
+1. Mbikëqyrësi dhe rojtari i natyrës, me autorizim të veçantë, gjatë kryerjes së detyrave të mbikëqyrjes dhe zbatimit të masave të mbrojtjes në Parqet Kombëtare bartin Shenjen e mbrojtjes së natyrës në pajtim me Udhëzimin Administrativ për Shenjën e mbrojtjes së natyrës dhe Drejtorisë që menaxhon me zonën e mbrojtur.
+2. Mbikëqyrësi dhe rojtari i natyrës, me autorizim të veçantë, gjatë kryerjes së detyrave të mbikëqyrjes dhe zbatimit të masave të mbrojtjes në Parqet Kombëtare e bartin kartën identitetit të lëshuar nga Ministria në pajtim me dispozitat e Udhëzimit administrativ për përmbajtjen, formën dhe mënyrën e lëshimit të kartës identifikuese si dhe dukjen e uniformës të mbikëqyrësit dhe rojtarit të natyrës.
+3. Me Kartën e identiteti mbikëqyrësi i natyrës, dhe rojtari i natyrës, me autorizim të veçantë i Drejtorisë e dëshmon identitetin zyrtar.

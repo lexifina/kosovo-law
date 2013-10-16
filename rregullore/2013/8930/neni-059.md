@@ -1,0 +1,2 @@
+# Neni 59
+Nëse mbikëqyrësit të natyrës, rojtarit të natyrës, me autorizim të veçantë, gjatë ushtrimit të mbikëqyrjes, si dhe në ndërmarrjes së masave dhe veprimeve për të cilat janë të autorizuar ju bëhet rezistencë fizike ose kërcënim i drejtpërdrejtë, ose nëse rezistenca e tillë pritet, mbikëqyrësi, mbikëqyrësi i natyrës, dhe rojtari i natyrës, me autorizim të veçantë mund të kërkojë ndihmë nga zyrtarët e autorizuar të administratës kompetente të policisë.
