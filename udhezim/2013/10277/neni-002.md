@@ -1,0 +1,3 @@
+# Neni 2
+Fushëveprimi
+Fushëveprimi i këtij Udhëzimi Administrativ përfshinë mënyrat e zhvillimit të bashkëpunimit të autoriteteve të përfshira në menaxhimin e integruar të kufirit, bashkërendimin e aktiviteteve të autoriteteve me qëllim të lehtësimit të qarkullimit të lirë të njerëzve dhe mallrave, shkëmbimit të informatave, të dhënave dhe analizën e përbashkët të rrezikut, operacionet e përbashkëta, kontrollin e përbashkët, planet kontigjente, intelegjencën kriminale dhe hetimet e përbashkëta, procedurat e bashkëpunimit ditor në pikë kalimet kufitare, aktivitetet trajnuese të përbashkëta dhe shkëmbimin e përvojave, ndërlidhjen dhe komunikimin e bazave të të dhënave, shfrytëzimin dhe përdorimin e përbashkët të pajisjeve.
