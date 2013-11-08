@@ -1,0 +1,4 @@
+# Neni 5
+Dukshmëria e vijës kufitare
+1. Nëse në bazë të marrëveshjeve së ratifikuara bilaterale, vija kufitare duhet të jetë pa drurë, kaçuba dhe vegjetacion tjetër e cila zvogëlon dukshmërinë e tabelave kufitare, shenjëzimeve dhe shenjave tjera, si dhe vazhdimësinë e vijës kufitare dhe përderisa nuk përshkruhet ndryshe nga marrëveshjet bilaterale të ratifikuara. Ministria e Bujqësisë, Pylltarisë dhe Zhvillimit Rural është përgjegjëse për sigurimin e dukshmërisë së vijës së kufirit.
+2. Ministria e Bujqësisë, Pylltarisë dhe Zhvillimit Rural duhet të njoftohet për çdo aktivitet që ndërmerret për mirëmbajtjen e dukshmërisë së vijës së kufirit, dhe përderisa nuk përshkruhet ndryshe nga marrëveshjet bilaterale të ratifikuara. Ministria e Bujqësisë, Pylltarisë dhe Zhvillimit Rural është përgjegjëse për sigurimin e dukshmërisë së vijës së kufirit.
