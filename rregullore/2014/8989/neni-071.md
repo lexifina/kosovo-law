@@ -1,0 +1,6 @@
+# Neni 71
+Struktura organizative e Zyrës se Punësimit në Klinë
+1. Struktura organizative e Zyrës së Punësimit në Klinë është si vijon:
+1.1. Zyra e Udhëheqësit; dhe
+1.2. Personeli i organit lokal.
+2. Numri i të punësuarve në Zyrën e Punësimit ne Klinë është katër (4).
