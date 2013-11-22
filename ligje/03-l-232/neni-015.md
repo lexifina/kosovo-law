@@ -1,8 +1,0 @@
-# Neni 15
-Procedura për kërkesë të licencës së eksportit dhe importit
-1. Licenca individuale kërkohet për çdo import, eksport, apo tranzit të mallrave ose shërbimeve strategjike.
-2. Licenca globale mund të lëshohet në bazë të një autorizimi të dhënë një eksportuesit të caktuar në lidhje me një lloj ose kategori të mallrave dhe shërbimeve strategjike, bazuar në miratimin e Komisionit dhe një licence të përgjithshme miratuar nga komisioni dhe publikuar nga Ministria . Komisioni mund të lëshojë licenca nëse aplikantet i nënshtrohen kushteve që ai i konsideron të duhura.
-3. Përveç nenit 7, paragrafit 2., të këtij ligji ku përcaktohet që çdo licencë për eksport apo import do të lëshohet për një periudhë gjashtë (6) mujore, licencat e dhëna sipas këtij neni lëshohen në kohëzgjatje prej një (1) viti. Licencat për transit të lëshuara sipas paragrafit 1. të këtij neni do të lëshohen për një kohëzgjatje prej dyzetetetë (48) orëve ne rrethana normale duke filluar menjëherë pas hyrjes në territorin doganor të Kosovës.
-4. Ministria mund t`i lëshojë eksportuesit licencën e përgjithshme për eksportin e mallrave të njëjtë, për një ose më shumë shtete, duke marrë parasysh llojin e mallrave strategjike, llojin dhe kohëzgjatjen e punëve eksportuese dhe shtetin në të cilin mallrat eksportohen.
-5. Përveç nenit 7, paragrafit 2. të këtij ligji ku përcaktohet që çdo licencë do të lëshohet për një periudhë kohore prej gjashtë (6) muajsh, licenca nga paragrafi 4. i këtij neni lëshohet me afat vlefshmërie deri në një (1) vit dhe mund të vazhdohet edhe për gjashtë (6) muaj të tjerë me kërkesën e eksportuesit.
-6. Me kërkesën e komisionit Ministria do të hartoj akt nënligjor për procedurën e aplikimit.

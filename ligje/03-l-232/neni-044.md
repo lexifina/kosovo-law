@@ -1,5 +1,0 @@
-# Neni 44
-Ndihma teknike
-1. Për ndihmën teknike të cilën personat juridik, e ofrojnë jashtë territorit të Republikës së Kosovës nevojitet licence nëse Ministria i ka njoftuar ata se ndihma teknike është e dedikuar të përdoret për zhvillimin, prodhimin, mirëmbajtjen, operimin, ruajtjes, detektimit, identifikimit apo shpërndarjes së armëve apo mjeteve nukleare eksplozive kimike, biologjike apo nukleare apo zhvillimin, prodhimin, mirëmbajtjen dhe ruajtjen e raketave që do të mund të shpërndajnë armë të tilla.
-2. Nëse personi juridik, personi fizik e din se ndihma teknike, të cilën ka për qëllim ta ofrojë, është e dedikuar për qëllime siç është treguar në paragrafin 1. të këtij neni, dhe për këtë ai duhet për këtë ta njoftojë Ministrinë e cila do të vendosë se a duhet licenca për këtë ndihmë teknike. Ndihma teknike mund të ofrohet vetëm pasi Ministria të ketë lejuar ndihmën teknike ose të ketë vendosur se leja e tillë nuk nevojitet.
-3. Paragrafi 1. dhe 2. i këtij neni nuk do të zbatohen nëse ndihma teknike ofrohet në formë të informatave, të cilat janë në sferën publike apo janë pjesë e kërkimeve bazë shkencore.

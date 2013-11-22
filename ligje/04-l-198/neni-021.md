@@ -1,0 +1,8 @@
+# Neni 21
+Baza e të dhënave, bashkëpunimi dhe raportimi
+1. Ministria detyrohet të mbajë bazën e të dhënave e cila përmban licencat e kërkuara, lëshuara dhe të përdorura si dhe ato të ndryshuara, pezulluara, revokuara dhe anuluara, dhe refuzimet e kërkesave për licencë dhe aktivitetet pas zbatimit të licencës për eksport, transit, trans-ngarkim, ri-eksport jashtë territorial, ri-transferim dhe ofrim të shërbimeve të ndërlidhura në bazë të dispozitave të këtij ligji.
+2. Për përmbushjen e detyrimeve të përcaktuara me këtë ligj, Ministria brenda kompetencave të veta mund të bashkëpunon me autoritetet kompetente të Qeverisë së Republikës se Kosovës, shkëmbejë informata me ta, të kërkoj informata në mënyrën e cila është në përputhje me ligjet për mbrojtjen e informatave sekrete në Republikën e Kosovës.
+3. Për përmbushjen e detyrimeve të përcaktuara me këtë ligj, Ministria brenda kompetencave të veta mund të bashkëpunon me organizata ndërkombëtare dhe me organet kompetente të shteteve tjera, t’ju ofroj atyre informatat gjegjëse në përputhje me detyrimet që i ka marrë përsipër Republika e Kosovës.
+4. Ministria merr pjesë në shkëmbin e informatave me shtetet anëtare të Bashkimit Evropian, lidhur me eksportin, importin, transitin, trans-ngarkimin, ri-eksportin jashtë territorial, ri-transferimin dhe ofrimin e shërbimeve të ndërlidhura me mallrat strategjike.
+5. Para 30 prillit të vitit kalendarik, Ministria e përgatit dhe ia dërgon Qeverisë së Republikës se Kosovës versionin e fshehtë të raportit vjetor për vitin paraprak për tregtinë me mallra strategjike dhe aktivitetet e Komisionit.
+6. Para 30 majit të vitit kalendarik, Ministria përgatit versionin për publikim në ueb-faqen e Ministrisë.

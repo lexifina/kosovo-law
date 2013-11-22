@@ -1,0 +1,5 @@
+# Article 18
+License Issuance for Transactions Involving Countries under Prohibitive or Restrictive
+Measures
+1. In case of submission of a license application for export, transit, transshipment, extra-territorial re- export, re-transfer, or provision of related services involving a country, entity, or legal or natural person which is on the list of countries, entities, and legal or natural persons against which prohibitive or restrictive measures have been applied by the United Nations, European Union, Organization for Security and Cooperation in Europe, or other international organizations, and member of which is the Republic of Kosovo, the only licenses that can be issued are for humanitarian purposes or for the needs of peacekeeping.
+2. Based on the foreign policy and national security interests of the Republic of Kosovo, the Ministry, through a sub-legal act, may establish a list of countries, entities, and legal or natural persons that are subject to prohibitive or restrictive measures on exports, imports, transits, transshipments, extra- territorial re-exports, re-transfers, or the provision of related services.

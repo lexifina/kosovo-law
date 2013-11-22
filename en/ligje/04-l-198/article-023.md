@@ -1,0 +1,14 @@
+# Article 23
+Internal Compliance Program
+1. The Ministry may require the applicants for global licenses and users of general licenses, on a case-by-case basis, to establish a mandatory internal compliance program (hereafter ICP). In such cases, the ICP is subject to the certification by the Ministry.
+2. Applicants for global licenses and users of general licenses for which the Ministry has determined an ICP to be mandatory must apply to the Ministry for certification of the ICP. The Ministry shall consider the following in determining whether to certify an ICP:
+2.1. the number of employees of the applicant, the volume of trade, the nature of transactions, the profile of consignees, and the declared end-use of strategic goods and related services; proven experience in handling and managing trade in strategic goods and related services; the record of compliance with strategic trade control; any relevant court decisions; licenses to produce or trading with strategic goods and/or related services, and experienced management staff;
+2.2. the appointment of a senior legal officer by the applicant as a responsible officer for the management of control over the trade with strategic goods and related services;
+2.3. a written commitment by the applicant, signed by the senior legal executive referred to in sub-paragraph 2.2 of this Article, to take all necessary steps to observe and enforce all specific conditions related to the end-use and strategic trade controls of any specific component or product received or exported.
+2.4. a written commitment by the applicant, signed by the senior legal executive referred to in sub-paragraph 2.2 of this Article, to provide to the Ministry detailed information on actions taken concerning the applicant’s procedures for performing background checks of end-users and verifying the legality of the end-use of all strategic goods to be exported, imported, transited, transshipped, extra-territorially re-exported, or re-transferred or in respect of which related services are to be provided;
+2.5. conformity of the ICP implemented by the applicant with the guidelines established by the Ministry.
+3. The Ministry, in cooperation with the Commission, shall assist legal and natural persons in the development of ICPs and provide them with the necessary information and guidance.
+4. The authorized representatives of the Ministry and/or relevant members of the Commission may audit ICPs.
+5. If an audit finds that an ICP does not satisfy the criteria identified in paragraph 2 of this Article or the guidelines established by the Ministry, the Ministry shall take appropriate measures based on the approval of the Commission. Such measures may include suspending or revoking the global license or the use of general licenses.
+6. The names of the companies with audited ICPs shall be published by the Ministry.
+7. The Ministry shall establish and publish the guidelines for an ICP.
