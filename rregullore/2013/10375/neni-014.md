@@ -1,0 +1,9 @@
+# Neni 14
+Shqyrtimi i aplikacionit nga Komisioni
+1. Komisioni gjatë shqyrtimit të aplikacionit për licencë, analizon dhe vlerëson aplikacionin dhe tërë dokumentacionin mbështetës.
+2. Përveç shqyrtimit të ndjeshmërisë së mallrave, përdorimit përfundimtar, përdoruesit të fundit, destinacionit, apo ndonjë karakteristikë tjetër relevante, Komisioni shqyrton edhe besueshmërinë e secilit person fizik apo juridik i cili është palë në transaksion dhe shqyrton dhe zbaton çdo informacion relevant në dispozicion, duke përfshirë informacionet inteligjente nga inteligjenca apo strukturave tjera relevante.
+3. Anëtarët e Komisioni brenda katër (4) ditësh pune nga pranimi i aplikacionit, duhet ta njoftojnë Departamentin për cilindo informacion që nuk e përmban aplikacioni e që i nevojitet anëtarit për të shqyrtuar aplikacionin dhe për të marrë një qëndrim.
+4. Departamenti menjëherë kërkon nga aplikuesi që të paraqesë informacionet që nuk gjenden në aplikacion të cilat i nevojiten anëtarit të Komisionit për të shqyrtuar aplikacionin dhe për të marrë një qëndrim.
+5. Afati prej ditës kur kërkohet informacioni nga anëtarët e Komisionit dhe deri në ditën kur informacioni i kërkuar pranohet nga anëtarët e Komisionit nuk llogaritet në kohën e procesimit të aplikacionit të përcaktuar në nenin 12, paragrafin 1 të Ligjit për Tregtinë e Mallrave Strategjike.
+6. Brenda pesëmbëdhjetë (15) ditësh pune nga pranimi i aplikacionit nga anëtarët e Komisionit, çdo anëtar i Komisionit paraqet aprovimin-(pozicionin)e saj me shkrim lidhur me aplikacionin për licencë.
+7. Anëtarët e Komisionit të cilët kanë rekomanduar refuzimin e aplikacionit duhet të paraqesin arsyetimin me shkrim për këtë, në pajtim me dispozitat e Ligjit për Tregtinë e Mallrave Strategjike dhe aktet nënligjore të tij, dhe duhet të cekin bazën e rekomandimit për ta refuzuar aplikacionin (paraqitja e kërkesës).
