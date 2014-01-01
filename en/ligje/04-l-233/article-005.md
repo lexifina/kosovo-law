@@ -1,0 +1,4 @@
+# Article 5
+Own Source Revenues of Central Budgetary Organizations
+1. All Own Source Revenues for Central Budgetary Organizations shall be deposited by the Central Budget Organizations into the Kosovo Fund and recorded in KFMIS in accordance with the Treasury Financial Rules. Notwithstanding the provisions contained in Article 3 of this Law and the budgetary appropriations in Table 3.1, Own Source Revenues of the Central level, are appropriated only to the extent that such revenues are deposited into the Kosovo Fund and duly recorded in the KFMIS.
+2. In cases where during the fiscal year, Central Budget Organizations Own Source Revenue amounts which have been deposited into the Kosovo Fund and duly recorded in the KFMIS exceed the amounts of appropriation in Table 3.1 of that Budget Organization, or remain unspent at the end of the fiscal year, then those revenues shall become general revenue.

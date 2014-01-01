@@ -1,0 +1,3 @@
+# Article 17
+Loans to Designated Entities and Publicly Owned Enterprises
+The Minister is authorized to provide to a Designated Entity according to paragraph 2 Article 50 of the LPFMA, or to a Publicly Owned Enterprise in accordance with the Law on Publicly Owned Enterprises No.03/L-087, a reimbursable loan and in compliance with the Terms and Conditions approved by the Government. The amounts approved for such credits are hereby appropriated according to this Law and set out in Table 1. The reimbursable credit or the credit shall be based on the agreement between the Designated Entity or the Publicly Owned Enterprise receiving the borrowing or loan in one hand and the Minister on the other hand, whereas they shall only be used for capital expenditure purposes.
