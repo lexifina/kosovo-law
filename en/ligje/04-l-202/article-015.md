@@ -1,0 +1,5 @@
+# Article 15
+Prior Review of Proposed Permissions
+1. If a competent authority within the Government of Kosovo proposes a draft act that impacts economic activity or involves the establishment or revision of a permissive requirement, such competent authority shall submit to the Office of the Prime Minister, prior to submission of such draft act to the Government, in advance of submitting such draft act to the Government, a written opinion on the conformity of such draft act with this Law.
+2. The Office of the Prime Minister shall prepare and present to the Government a written opinion on the conformity of such draft act with this Law prior to the review by the Government of such draft act.
+3. If a competent authority, that is an independent agency and reports to the Assembly, proposes a draft act that impacts economic activity or involves the establishment or revision of a permissive requirement, such competent authority shall submit the draft act to the parliamentary committee of respective field together with a detailed written opinion on the conformity of the proposed draft act by this Law.

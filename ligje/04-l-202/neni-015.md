@@ -1,0 +1,5 @@
+# Neni 15
+Shqyrtimi paraprak i lejimeve të propozuara
+1. Nëse një autoritet kompetent ne kuadër të Qeverisë së Kosovës propozon një projekt-akt që ka ndikim në veprimtarinë ekonomike ose përfshin vendosjen ose rishikimin e një kërkese për lejim, ky autoritet kompetent do ti dorëzojë Zyrës së Kryeministrit, para dorëzimit të projekt-aktit të tillë në Qeveri, një mendim me shkrim për konformitetin e këtij projekt-akti me këtë ligj.
+2. Zyra e Kryeministrit do të përgatisë dhe paraqesë në Qeveri një mendim me shkrim për konformitetin e projekt-aktit të tillë me këtë ligj para rishikimit të këtij projekt-aktit nga ana e Qeverisë.
+3. Nëse një autoritet kompetent, që është agjenci e pavarur dhe i raporton Kuvendit, propozon një projekt-akt që ka ndikim në veprimtarinë ekonomike ose përfshin vendosjen ose rishikimin e një kërkese për lejim, ky autoritet kompetent, do të dorëzojë projekt aktin te komisioni parlamentar i fushës përkatëse, se bashku me një mendim të hollësishëm me shkrim për konformitetin e projekt- aktit të propozuar me këtë ligj.
