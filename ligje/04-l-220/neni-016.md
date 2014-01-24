@@ -1,0 +1,11 @@
+# Neni 16
+Mekanizmat për zgjidhjen e kontesteve të investimit
+1. Një investitor i huaj ka të drejtë të kërkojë që një kontest i investimit të zgjidhet sipas ndonjë kushti apo procedure të aplikueshme me të cilën është arritur pajtimi me shkrim në mes investitorëve të huaj dhe Republikës së Kosovës.
+2. Në mungesë të një procedure të tillë të pajtuar, investitori i huaj ka të drejtë të kërkojë që kontesti i investimit të zgjidhet qoftë nëpërmjet procedurës gjyqësore në një gjykatë kompetente në Republikën e Kosovës apo nëpërmjet arbitrazhit vendor dhe ndërkombëtar. Investitori i huaj mund të zgjedhë secilën nga rregullat e mëposhtme procedurale për të qeverisur zgjidhjen e kontestit të investimit:
+2.1. Konventën e QNZKI, nëse investitori i huaj është shtetas i një vendi të huaj dhe ai vend dhe Kosova të dyja janë palë e asaj konvente në kohën e dorëzimit të kërkesës për arbitrazh;
+2.2. Rregullat Lehtësuese Shtesë të QNZKI, nëse kushtet juridike “ratione personae” të nenit 25 të Konventës QNZKI nuk janë përmbushur në kohën e dorëzimit të kërkesës për arbitrazh;
+2.3. Rregullat e UNCITRAL, në një rast të tillë autoritetit emërues i përmendur aty do të jetë Sekretari i Përgjithshëm i QNZKI; ose
+2.4. Rregullat OEN.
+3. Pëlqimi i Republikës së Kosovës për dorëzimin e një kontesti të investimit për arbitrazh sipas këtij neni në këtë mënyrë është i dhënë nën autoritetin e këtij ligji. Pëlqimi i investitorit të huaj mund të jepet në çdo kohë, qoftë me dorëzimin e një kërkese për arbitrazh apo duke ia paraqitur Agjencisë një kërkesë me shkrim ku jepet pëlqimi.
+4. Pëlqimet e përmendura më larët mendohet se kënaqin kërkesat për format e pëlqimit nën Kreun II të Konventës QNZKI, Rregullat Lehtësuese Shtesë të QNZKI, Rregullat e UNCITRAL, Rregullat e OEN, si dhe Konventa e Nju Jorkut. Në veçanti, nëse një vendim i arbitrazhit merret nga një organ arbitrazhi të huaj apo ndërkombëtar sipas procedurave të autorizuara me këtë nen, një vendim i tillë do të jetë i zbatueshëm sipas ligjit të aplikueshëm për arbitrazh dhe zbatimit të vendimit të arbitrazhit të huaj.
+5. Përveç nëse investitori i huaj dhe Republika e Kosovës pajtohen ndryshe me shkrim, çdo arbitrazh sipas këtij ligji do të mbahet në një vend anëtare të BE-së që gjithashtu është palë e Konventës së Nju Jorkut.

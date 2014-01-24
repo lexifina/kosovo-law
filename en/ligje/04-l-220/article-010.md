@@ -1,0 +1,4 @@
+# Article 10
+Illegal Action or Inaction
+1. Without prejudice to any other rights or remedies that a foreign investor may have, a foreign investor shall have a right to refer to the court or arbitration for compensation for losses and expenses incurred as a consequence of any action or inaction that is directed against the foreign investor and that is a violation of the applicable law in the Republic of Kosovo or generally accepted norms of international law; and is attributable to the Republic of Kosovo.
+2. Silence is consent – shall be applied in case if the foreign investor undertakes business activity of a certain type, without obtaining approval from the competent body, if an approval or rejection of the application is not given within the timeframe contemplated in the legislation in force.

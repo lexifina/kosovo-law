@@ -1,0 +1,7 @@
+# Neni 3
+Trajtimi i përgjithshëm
+1. Republika e Kosovës do t’ju jep investitorëve të huaj dhe investimeve të tyre trajtim të njëjtë dhe të barabartë me ndonjë investitor vendor dhe investimeve vendore.
+2. Republika e Kosovës i siguron investitorët e huaj dhe investimet e tyre mbrojtje dhe siguri të plotë dhe të vazhdueshme në përputhje me legjislacionin në fuqi.
+3. Në asnjë rast trajtimi, mbrojtja ose siguria që kërkohet nga ky paragraf nuk do të jetë më pak i favorshëm sesa që kërkohet nga normat e përgjithshme të pranuara të së drejtës ndërkombëtare apo ndonjë dispozitë të këtij ligji.
+4. Republika e Kosovës nuk do të dëmtojë me asnjë veprim apo mosveprim të paarsyeshëm apo diskriminues, veprimtarinë, menaxhimin, mirëmbajtjen, shfrytëzimin, gëzimin apo largimin e një organizate të huaj investuese apo të ndonjë investimi tjetër nga një investitor i huaj në Republikën e Kosovës. Republika e Kosovës nuk ndërhynë me aktivitetet dhe të drejtat e ligjshme dhe me interesat ligjërisht të njohura të një investitori të huaj.
+5. Çdo autoritet publik që shkel apo në ndonjë mënyrë dështon të respektojë të drejtat dhe garancitë të siguruara me këtë ligj për investitorët e huaj dhe investimet e tyre, do të jenë të detyruar të paguajnë kompensim, në pajtim me nenin 8 paragrafi 2. të këtij ligji për humbjet dhe harxhimet e shkaktuara si pasojë e një shkeljeje apo dështimi të tillë. Asnjë lloj imuniteti ligjor nuk do të shërbejë si mbrojtje për përgjegjësinë e krijuar nga ky nen.
