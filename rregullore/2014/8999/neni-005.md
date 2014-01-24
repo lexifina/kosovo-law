@@ -1,0 +1,7 @@
+# Neni 5
+Sekretari i KSK-së
+1. Në përputhje me nenin 16, paragrafin 2 të Ligjit Nr. 03/L-050 Për Themelimin e KSK-së, Sekretariati udhëhiqet nga Sekretari i KSK-së.
+2. Sekretari i KSK-së, i përgjigjet Kryesuesit të KSK-së dhe është përgjegjës për menaxhimin e gjithmbarshëm administrativ të Sekretariatit të KSK-së, sigurimin e zbatimit të funksioneve të besuara të njësive organizative të Sekretariatit; Qendrës se Situatave, Drejtorisë së Analizave dhe Politikave të Sigurisë (DAPS), Administratës si dhe sigurimin e informatave të sakta dhe këshillave të paanshme e profesionale për Kryesuesin e KSK-së.
+3. Sekretari i KSK-së është nëpunës civil, ndërsa kriteret dhe procedura e përzgjedhjes dhe e emërimit të tij, bëhet në përputhje me nenin 15 të Ligjit Nr. 03/l-149 për Shërbimin Civil të Republikës së Kosovës dhe dispozitat për- katëse të Rregullores, Nr. 06/2010 për Procedurat e Emërimit në pozita të larta drejtuese në Shërbimin Civil.
+4. Procedura e vlerësimit të performancës, procedura disiplinore dhe kushtet e shkarkimit të Sekretarit të KSK-së bëhet në përputhje me dispozitat përkatëse të Rregullores Nr. 06/2012 për Pozitat e larta drejtuese në Shërbimin Civil të Republikës së Kosovës.
+5. Mundësia e vazhdimit të mandatit të funksionit të Sekretarit të KSK-së bëhet në përputhje me kriteret dhe proce- durën e përcaktuar në nenin 22 Rregullores Nr. 06/2012 për Pozitat e larta drejtuese në Shërbimin Civil të Repub- likës së Kosovës.
