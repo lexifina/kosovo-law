@@ -1,0 +1,6 @@
+# Neni 7
+Përgjegjësitë e Shërbimeve Publike dhe subjekteve tjera për trajtimin e ndërtimeve pa leje 1. Ofruesit e shërbimeve publike duhet të procedojnë kërkesat për aprovim të kyçjeve në shërbime me ujë dhe rrymë brenda gjashtëdhjetë (60) ditë për aplikuesit të cilët janë duke u përpjekur të legalizojnë ndërtimet e tyre sipas këtij ligji.
+2. Nëse një kërkesë për aprovim të një kyçje në shërbime në ujë dhe rrymë refuzohet, bazat e refuzimit duhet të jepen me shkrim.
+3. Ofruesit e Shërbimeve publike do të bëjnë të gjitha përpjekjet e arsyeshme për të këshilluar aplikuesit për hapat e nevojshëm për ndërtim të kyçjeve të sigurta dhe legale që do të kualifikohen për aprovim dhe në të gjitha aspektet tjera do të veprojnë në përputhje me qëllimin e këtij ligji.
+4. Nëse procedimi i një aplikanti sipas këtij Ligji kërkon veprimin ose vendimin e entiteteve tjera private ose qeveritare, këto entitete do të veprojnë me kohë për të proceduar të gjitha kërkesat dhe të jepen të gjitha vendimet. Veprimet ose vendimet nuk do të refuzohen pa arsye.
+5. Nxjerrja ose tentimi për të nxjerrë pagesa që tejkalojnë taksat ose ngarkesat e zakonshme, të arsyeshme dhe të nevojshme nga aplikuesit që veprojnë sipas këtij ligji janë të ndaluara shprehimisht dhe shkelësi do të jetë subjekt i veprave financiare dhe penale sipas Kodit Penal të Kosovës.

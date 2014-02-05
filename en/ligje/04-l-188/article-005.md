@@ -1,0 +1,16 @@
+# Article 5
+The responsibilities of the Municipalities for treatment of unpermitted construction 1. Within six (6) months of entry into effect of this Law, the Municipalities shall be responsible for:
+1.1. allocating human resources necessary to effectively and efficiently implement this law within the time allowed;
+1.2. the municipality may contract additional services for efficient implementation of this Law within the allowed time;
+1.3. receiving the digital orthophoto map from the Ministry without compensation showing existing constructions throughout the entire territory of their municipalities;
+1.4. conducting a broad public awareness campaign at the local level starting from the enactment of the Law and lasting throughout the application phase;
+1.5. participating in trainings developed by the Ministry for municipality authorities for implementation of this law.
+2. Municipalities establish the Municipal Registry of Unpermitted Constructions and, within twelve (12) months and five (5) days after this law takes effect, shall submit it to the Ministry.
+LAW NO. 04/L-188 FOR TREATMENT OF CONSTRUCTIONS WITHOUT PERMIT / ANNEX
+3. Simultaneously with the identification of unpermitted constructions required by paragraph 2. of this Article, and for the twelve (12) month period after this law takes effect, the municipalities shall accept requests from applicants of unpermitted constructions to be included in the Municipal Registry of Unpermitted Constructions.
+4. Municipalities will make the standard form “Request to be Listed in Registry of Unpermitted Constructions” available to the public at the municipal offices and on the municipality’s web site.
+5. Municipalities will accept applications for legalization for a period of six (6) months after the National Registry of Unpermitted Constructions has been published.
+6. Within thirty (30) days after the end of the period of time allocated to receive applications for legalization of unpermitted constructions, the Municipality will compile an Applications Registry and submit this list to the Ministry.
+7. Within ten (10) days after publication of the Demolition List, Municipality shall post actual notice on the unpermitted constructions in Category I and II within their territory, that “this construction is subject to demolition – if the applicant of this construction has already submitted an application for legalization and this construction was marked for demolition in error, the applicant must notify the Ministry of Environment and Spatial Planning within ninety (90) days after publication of the Demolition List”.
+8. The Building Inspectorate of the Municipality shall commence the demolition of unpermitted Category I and II constructions within their territory listed in Demolition List within fifteen (15) days after the ending of public objections period as stated in paragraph 10. of Article 4 of this Law for those constructions as to which no objection to being included on the Demolition List was filed. If an objection was filed, no demolition shall occur until the objection is rejected.
+9. Municipality is responsible for reviewing applications and issuing decisions on legalization permits for the unpermitted constructions falling within Category I and II constructions as defined by the Law on Construction.

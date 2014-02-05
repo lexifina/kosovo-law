@@ -1,0 +1,5 @@
+# Article 18
+Demolition of Unpermitted Constructions for which no Application was Submitted 1. Any unpermitted construction listed in the National Registry of Unpermitted Constructions which has not been granted a decision for legalization shall be included in the Demolition List and a notice of demolition shall be posted on the unpermitted construction.
+2. Any applicant or legal successor, of an unpermitted construction, classified pursuant to paragraph 1. of this Article shall demolish the construction within thirty (30) days of receipt of a final decision.
+3. If a construction is not demolished in accordance with paragraph 2. of this Article, the Building Inspectorate shall demolish it within six (6) months and the cost of demolition and all damages shall be borne by the investor.
+4. Investors of demolished buildings shall be responsible for paying reasonable moving expenses for tenants of constructions who are forced to move because the investor did not successfully gain legalization under this law.

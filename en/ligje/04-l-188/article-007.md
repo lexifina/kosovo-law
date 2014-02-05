@@ -1,0 +1,6 @@
+# Article 7
+The Responsibilities of Utilities and Other Entities for Treatment of Unpermitted Constructions 1. Utility providers must process requests for approval of connection to water and energy services within sixty (60) days for applicants who are attempting to legalize their construction under this Law.
+2. If a request for approval of a connection to water and energy service is denied, the basis for the denial must be set forth in writing.
+3. Utility providers shall make all reasonable efforts to advise applicants on steps necessary to construct safe and legal connections that will qualify for approval and in all other aspects shall act consistently with the purpose of this Law.
+4. If an applicant proceeding under this Law requires the action or decision of other private or governmental entities, those entities shall act on time to process all requests and render all decisions. Actions or decisions shall not be unreasonably withheld.
+5. Extracting or attempting to extract payments in excess of customary, reasonable and necessary fees or charges from applicants proceeding under this Law is expressly prohibited and shall subject the perpetrator to financial and criminal penalties under the Criminal Code of Kosovo.
