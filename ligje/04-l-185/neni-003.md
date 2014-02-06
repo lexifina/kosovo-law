@@ -1,0 +1,3 @@
+# Neni 3
+Përcaktimi i sasive dhe i përqindjes së alkoolit të produkteve alkoolike 1. Përveç nëse nuk dëshmohet e kundërta:
+1.1. sasia dhe përqindja e alkoolit në çdo produkt alkoolik do të konsiderohet ashtu siç është e paraqitur në çdo etiketë të ngjitur apo të shtypur në ambalazhin e produktit alkoolik; dhe 1.2. në rastet kur sasia apo përqindja e alkoolit nuk është e shënuar në asnjë etiketë të ngjitur apo të shtypur në ambalazhin e produktit alkoolik, sasia dhe përqindja e alkoolit me përqindje 100% do të konsiderohet të jetë ashtu siç është përcaktuar në Shtojcën B të bashkangjitur këtij ligji.
