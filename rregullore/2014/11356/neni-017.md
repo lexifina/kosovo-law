@@ -1,0 +1,4 @@
+# Neni 17
+Kushtet të cilat duhet të përmbushen nga organizata për aftësime profesionale
+17.1 Me qëllim të zbatimit të programit të aftësimit profesional në përputhje me këtë rregullore, organizata për aftësime profesionale duhet të sigurojë:
+a) Hapësira, pajisje, vegla dhe mjete tjera të përshtatshme dhe të nevojshme për ofrim të ligjëratave teorike, ushtrimeve praktike dhe aftësimit në vend të punës, b) Strukturën e përshtatshme organizative në krye të së cilës gjendet udhëheqësi, c) Instruktorët dhe/ose mbikëqyrësit e autorizuar për të kryer aftësime profesionale në fusha specifike, në përputhje me programin për aftësim profesional, d) Literaturën dhe doracakët përkates profesionale, e) Dokumentacionin përkatës mbi kryerjen e aftësimit profesional dhe të testimeve,për njësi të veçanta profesionale, për secilin vijues ndaras, f) Doracakun operativ për aftësim profesional, g) Certifikatat mbi aftësimin.

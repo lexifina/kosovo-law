@@ -1,0 +1,6 @@
+# Neni 7
+Aftësimi profesional me qëllim të ripërtërirjes së certifikatës mbi aftësimin profesional
+7.1 Poseduesi i certifikatës mbi aftësimin profesional që në periudhën kohore prej së paku gjashtë (6) muaj nuk ka kryer vazhdimisht punët për të cilat posedon certifikatën mbi aftësimin profesional, para rifillimit të pavarur të detyrës në ato punë duhet të vijojë programin e aftësimit profesional me qëllim të ripërtërirjes së certifikatës mbi aftësimin profesional.
+7.2 Fillimi i procedurës së ripërtëritjes së certifikatës mbi aftësimin profesional duhet të fillohet më së voni 30 ditë para fillimit të programit të aftësimit profesional me qëllim të ripërtëritjes së certifikatës mbi aftësimin profesional.
+7.3 Renditja, përmbajtja dhe kohëzgjatja e aftësimit profesional me qëllim të ripërtëritjes së certifikatës mbi aftësimin profesional duhet të definohen ndaras për secilën punë me ndikim në sigurinë e operimeve në aerodrome në përputhje me programin e aprovuar të aftësimit profesional.
+7.4 Ripërtëritja e certifikatës mbi aftësimin profesional nënkupton që vijuesi i programit të aftësimit profesional në mënyrë të suksesshme ka kaluar vlerësimin teorik dhe praktik të njohurive dhe aftësive të duhura profesionale.
