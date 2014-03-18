@@ -1,0 +1,2 @@
+# Neni 1
+KONSTATOHET se janë përmbushur kushtet e përcaktuara në nën-paragrafët 1.1 deri 1.4, paragrafi 1 i nenit 4 të Ligjit për Shpronësimin e Pronës së Paluajtshme, Nr. 03/L- 139 me ndryshimet dhe plotësimet e Ligjit Nr.03/L-205 të datës 28.10.2010, për shpronësimin e pronës së paluajtshme për qëllim të përfitimit të ligjshëm publik- realizimin e projektit për asfaltimin e rrugës në fshatin Ashlan –Komuna e Vushtrrisë, parcela kadastrale P-70202048-00516-1, në sipërfaqe prej 40m2 nga sipërfaqja e përgjithshme prej 112m2, ZK Ashlan, me pronar Maliq Bajram Azemi.
