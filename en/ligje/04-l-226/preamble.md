@@ -1,0 +1,7 @@
+LAW NO. 04/L-226 ON AMENDING AND SUPPLEMENTING THE LAW No. 03/L-229 ON PROTECTION
+OF COMPETITION
+Assembly of Republic of Kosovo,
+Based on Article 65 (1) of the Constitution of the Republic of Kosovo,
+Approves
+LAW ON AMENDING AND SUPPLEMENTING THE LAW No. 03/L-229 ON PROTECTION
+OF COMPETITION
