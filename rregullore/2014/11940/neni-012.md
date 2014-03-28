@@ -1,0 +1,2 @@
+# Neni 12
+a).Në mbledhjet e komisionit mbahet procesverbali i cili do të prezantohet për shqyrtim dhe miratim në mbledhjen vijuese të radhës. b). Procesverbali duhet të përmbajë emrat e anëtarëve të pranishëm dhe anëtarëve të ftuar pjesëmarrës në mbledhje, rendin e ditës , esencën e diskutimit , rezultatin numerik të votimit dhe rezultatin e propozimeve të miratuara ose të refuzuara. c). Nëse kërkohet, në procesverbal duhet të shënohet edhe fakti se si ka votuar secili anëtarë.

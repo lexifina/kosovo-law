@@ -1,0 +1,3 @@
+# Neni 15
+a). Kryesuesi i mbledhjes vendosë për renditjen se kush kurë duhet të diskutoi , sipas kërkesave të bëra nga vetë anëtarët e komisionit. b). Pasi të marrin fjalën për diskutim anëtarët i drejtohen kryesuesit të mbledhjes dhe nuk kanë të drejtë të diskutojnë çështje jashtë pikës konkrete të përcaktuar në rend të ditës.
+c) . Nuk mund të kalohet për debatim në pikën tjetër të rendit të ditës, para se të përfundoi shqyrtimi dhe vendosja, për pikën për të cilën është hapë debat. ç). Kur kryesuesi apo secili Anëtar i komisionit e merrë fjalën për diskutim , anëtarëve tjerë nuk u lejohet të ndërhyjnë në diskutim pa e marr fjalën paraprakisht, nga kryesuesi i mbledhjes.

@@ -1,0 +1,2 @@
+# Neni 14
+a). Në mbledhjet e komisionit nuk mund të debatohen çështje të cilat i tejkalojnë autorizimet e dhëna nga Kuvendi Komunal. b). Në mbledhjet e komisionit, nuk mund të debatohet dhe të vendoset për asnjë çështje e cila paraprakisht nuk është aprovuar që të jetë në rend dite. c). Nëse propozohet ndryshimi i ndonjë çështje të përcaktuar për shqyrtim atëherë propozimi i dytë e zë vendin e të parit.
