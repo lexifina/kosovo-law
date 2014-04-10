@@ -1,0 +1,6 @@
+# Neni 34
+Kërkesat specifike për Listën teknike të sigurisë për kimikatet
+1. Prodhuesi, importuesi, eksportuesi, furnizuesi apo shpërndarësi është detyruar ti pajis marrësit apo perdoruesit e kimikateve me kerkesat specifike ne Listën teknike të sigurisë për kimikatet edhe nëse kimikati nuk i plotëson kriteret për klasifikim si i rrezikshëm, por përmban:
+1.1. një përqendrim individual, ≥1% të peshës për përzierjet jo-të gazta, dhe ≥0,2% të vëllimit tek përzierjet e gazta, ku të paktën një substance e përzierjes, paraqet rrezik për shëndetin e njeriut apo mjedisin;
+1.2. një përqendrim individual, ≥0,1 për qind të peshës tek përzierjet jo-të gazta, të paktën një substancë që është PBT ose vPvB; substanca të tilla si ato që kanë veti të ndërpresin funksionimin e sistemit endokrin, si dhe substancat që janë klasifikuar si kancerogjene, kategoria 1 ose 2 (ose kancerogjene, kategori 1A ose 1B), mutagjene, kategoria 1 ose 2 (ose mutagjene, kategori 1A ose 1B), apo toksike për sistemin riprodhues, kategoria 1 ose 2 (ose toksike për istemin riprodhues, të kategorisë 1A ose 1B) ose substanca të tjera që paraqesin shqetësim;
+1.3. substancat për të cilat janë përcaktuar përqendrimet maksimale të lejuara në zonat e punës.

@@ -1,8 +1,0 @@
-# Neni 6
-Testimet shtesë për substancat tashmë të notifikuara
-6.1. Përjashtimisht nga neni 9, i këtij ligji, çdo notifikues i substancës që tashmë është notifikuar, duhet ta informoj Ministrinë, kur:
-a) substanca e lëshuar në treg të arrijë sasinë prej 10 tonësh për prodhues për një vit apo kur shuma totale e lëshuar në treg të arrijë sasinë prej 50 tonësh për prodhues, në këto raste Ministria kërkon të ndërmerren teste/studime shtesë duke caktuar edhe afatin kohor, në përputhshmëri me aktet nënligjore të nxjerra në bazë të paragrafit 3, të këtij neni;
-b) sasia e substancës së lëshuar në treg të arrijë sasinë prej 100 tonësh për prodhues për një vit apo kur sasia totale e lëshuar në treg të arrijë 500 ton për prodhues, në këto raste Ministria kërkon ndërmarrjen e testeve/studimeve shtesë në afat të caktuar kohor, në përputhje me aktet nënligjore të miratuara në bazë të paragrafit 3 të këtij neni, përveç në rastet kur notifikuesi jep arsye pse testet/studimet nuk janë të nevojshme apo pse do të preferonte teste/studime shkencore alternative;
-c) substanca e lëshuar në treg të arrijë në sasinë prej 1000 tonësh për prodhues për një vit apo kur shuma totale e lëshuar në treg të arrijë sasinë prej 5000 tonësh për prodhues, në këto raste Ministria duhet të përpiloj program për testet/studime shtesë që duhen të ndërmerren në afatin kohor të caktuar, në përputhshmëri me aktet nënligjore të nxjerra në bazë të paragrafit 3, të këtij neni.
-6.2. Kur testimet shtesë kryhen në përputhje me paragrafin 1, të këtij neni, notifikuesi duhet t’i ofrojë Ministrisë rezultatet e studimeve të mbaruara.
-6.3. Ministri me akt nënligjor e përcakton mënyrën e trajtimit të testeve dhe studimeve të bëra nga notifikuesi për rastet e përcaktuara me këtë nen.
