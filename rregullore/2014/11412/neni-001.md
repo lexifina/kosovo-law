@@ -1,0 +1,4 @@
+# Neni 1
+Fusha e zbatimit
+1.1 Kjo Rregullore përcakton kërkesat për sigurimin e funksionimit të mjeteve fluturuese në përputhje me Standardet dhe Praktikat e Rekomanduara (SPR) përkatëse të Organizatës Ndërkombëtare të Aviacionit Civil (ONAC), të përcaktuara në Aneksin 6 të Konventës mbi Aviacionin Civil Ndërkombëtar.
+1.2 Operimet e mjeteve ajrore në Republikën e Kosovës do të rregullohen në bazë të dispozitave të SPR të Aneksit 6, Pjesa I – Transporti ajror ndërkombëtar komercial – Aeroplanët, Shtojcat 1-9, Shtesat A-K siç është publikuar në Botimin e 9 korrikut të vitit 2010 nga ONAC; Pjesa II – Aviacioni i përgjithshëm ndërkombëtar – Aeroplanët, Shtojcat 2.1, 2.2, 2.3, Shtesat 2.A, 3.A, 3.B të publikuara në Botimin e 7 korrikut të vitit 2008 nga ONAC, dhe Pjesa III - Operimet ndërkombëtare - Helikopterët, Shtojcat 1-5, Shtesat A-I të publikuara në Botimin e 7 korrikut të vitit 2010 nga ONAC.
