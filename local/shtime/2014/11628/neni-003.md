@@ -1,0 +1,7 @@
+# Neni 3
+Përkufizimet
+Përkufizimet e kësaj rregullore janë:
+3.1 “Seancat e Kuvendit Komunal”- Janë mbledhjet e rregullta dhe të jashtëzakonshme të anëtarëve të Kuvendit Komunal, 3.2 “Komitetet”- Janë trupa të Kuvendit Komunal, 3.3 “Pjesëmarrja e publikut”- Do të thotë kyçja e banorëve, në vendimmarrje të organeve të pushtetit lokal, 3.4 “Njoftimi i publikut”- Do të thotë afishimin e njoftimeve në tabelën e shpalljeve në ndërtesën e kuvendit komunal, publikimin e tyre ne media lokale dhe internet për mbajtjen e mbledhjeve të Kuvendit Komunal dhe Komiteteve,
+3.5 “Tubimet publike”- Janë tubime të organizuara nga Kuvendi Komunal dhe organet e tij me qëllim të njoftimit të qytetarëve me punën e organeve komunale dhe ngritjen e çështjeve të ndryshme nga banoret, 3.6 “Peticionet”- Janë kërkesa kolektive me shkrim që i adresohen Komunës respektivisht Kuvendit Komunal nga një grup i interesit apo organizata, rreth së cilës çdo çështje që ka të bëjë më përgjegjësitë e komunës me qellim që ajo të ndërmarrë ndonjë veprim ose përmbahet nga ndonjë veprim, 3.7 “Konsultimi publik i akteve komunale”- Nënkupton seanca dëgjimore, marrjen e propozimeve, sugjerimeve dhe vërejtjeve të publikut para miratimit të aktit.
+3.8 “Qasja ne dokumentet zyrtare”- Nënkupton shikimi i dokumenteve zyrtare të komunës në pajtim me Ligjin për qasje në dokumentet zyrtare.
+3.9 “Plani i veprimit” – Nënkupton hartimin e një plani operacional të Kryetarit të Komunës dhe të Kuvendit.
