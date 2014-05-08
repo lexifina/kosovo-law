@@ -1,0 +1,7 @@
+# Article 20
+Inheritors’ Pensions
+1. After the death of veteran, the entitlement of inheritor’s pension shall be passed to the unemployed spouse, ju- venile children and parents of the veteran, if they are not beneficiaries of social insurance pensions.
+2. Children of the veteran, who are under the age of eighteen (18) years at the time when the veteran dies, shall be entitled, that after the death of the pensioner, to the pension as children inheritors.
+3. The age regulated by paragraph 2 of this Article shall be extended to twenty-six (26) years in cases when chil- dren attend regular schooling during the education period provided for by the Law.
+4. Veteran’s children with disabilities shall be entitled to the pension as children inheritors regardless of their age, if they are disabled on the date of the death of the pensioner, under the same conditions as defined for the com- mon public pension, if defined and to the extent defined by Law into force.
+5. Priority in realization of the rights, among immediate members of the family according to this Law, shall be re- alized by the beneficiaries compliance with the provisions of the Law on Inheritance. Family members of the same line of heritage shall enjoy their rights according to the mutual agreement. In case there is no agreement reached, then the member of the immediate family from the same line of heritage has the priority in realization of the right, who has lived in the same household with the person from whom the right is being realized.

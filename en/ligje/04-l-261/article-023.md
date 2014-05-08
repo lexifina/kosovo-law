@@ -1,0 +1,5 @@
+# Article 23
+Entitlement to Free Health Care
+1. KLA Veterans and immediate family members shall enjoy the entitlement to free health services according to legal provisions into force by hospitals, dental clinics and health centres funded by the state as well as free med- ications for chronic diseases subject to criteria proposed by the Ministry of Health and approved by the Govern- ment in line with legislation into force.
+2. If state funded health institutions are not able to treat the health consequences resulting from the war, veterans shall be entitled to treatment abroad and outside state funded health institutions on the basis of rules and proce- dures proposed by the respective Ministry of Health and approved by the Government in line with legislation into force.
+3. Ministry of Labour and Social Welfare in cooperation with the Ministry of Health shall establish Post Traumatic Stress Centre for Kosovo Liberation Army Veterans for emotional, spiritual and trauma rehabilitation as a conse- quence of the war.

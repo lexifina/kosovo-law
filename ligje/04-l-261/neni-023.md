@@ -1,0 +1,5 @@
+# Neni 23
+E drejta në shërbime shëndetësore falas
+1. Veteranët të UÇK-së dhe anëtarët e familjes së ngushtë gëzojnë të drejtën e shërbimit shëndetësor falas sipas dispozitave ligjore në fuqi në spitalet, klinikat dentare dhe qendrat shëndetësore që financohen nga shteti, si dhe përfitojnë falas barnat për sëmundje kronike, sipas kritereve të propozuara nga ministria përkatëse për shëndetësi dhe të miratuara nga Qeveria, në pajtim me legjislacionin në fuqi.
+2. Në rastet kur nuk mund të bëhet trajtimi në institucionet shëndetësore shtetërore, për pasojat shëndetësore si pasojë e luftës, veteranët gëzojnë trajtimin jashtë vendit dhe jashtë institucioneve shtetërore të shëndetësisë, sipas rregullave dhe procedurave të propozuara nga ministria përkatëse për shëndetësi dhe të miratuara nga Qeveria, në pajtim me legjislacionin në fuqi.
+3. Ministria e Punës dhe Mirëqenies Sociale në bashkëpunim me Ministrinë e Shëndetësisë themelojnë Qendrën e Stresit Posttraumatik për Veteranet e Ushtrisë Çlirimtare të Kosovës, për rehabilitimin emocional, shpirtëror dhe të traumave si pasojë e luftës.

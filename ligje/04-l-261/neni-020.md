@@ -1,0 +1,7 @@
+# Neni 20
+Pensionet e trashëgimtarëve
+1. Pas vdekjes së veteranit, të drejtën e pensionit të trashëgimtarit e përfitojnë vetëm bashkëshorti/ja e papunësuar, fëmijët e miturit dhe prindërit e veteranit, në rastin kur nuk përfitojnë pensione nga sigurimet shoqërore.
+2. Fëmijët e veteranit, të cilët janë nën moshën tetëmbëdhjetë (18) vjeçare në kohën e vdekjes së tij kanë të drejtë që pas vdekjes së pensionistit të marrin pensionin e fëmijëve trashëgimtarë.
+3. Mosha e rregulluar në paragrafin 2. të këtij neni ngritët në njëzetegjashtë (26) në rastet kur fëmijët vijojnë shkollimin e rregullt, brenda kohëzgjatjes së periudhës së shkollimit të rregulluar me ligj.
+4. Fëmijët me aftësi të kufizuara të veteranit kanë të drejtë të marrin pensionin e fëmijëve trashëgimtarë pavarësisht nga mosha, nëse ata janë me aftësi të kufizuara në datën e vdekjes së pensionistit, sipas kushteve të njëjta të përcaktuara për pensionin e zakonshëm publik, nëse është përcaktuar dhe në atë masë sa përcaktohet sipas ligjit në fuqi.
+5. Përparësitë në realizimin e të drejtave, në mes të anëtarëve të familjes së ngushtë sipas këtij ligji, përfituesit i realizojnë në përputhje me dispozitat e Ligjit për Trashëgiminë. Anëtarët e familjes të radhës së njëjtë të trashëgimisë, do t’i realizojnë të drejtat sipas marrëveshjes së ndërsjellët. Në qoftë se marrëveshja nuk arrihet, përparësi në realizimin e të drejtës ka anëtari i familjes së ngushtë nga radhët e njëjtë trashëgimore, i cili me personin nga i cili realizohet e drejta, ka jetuar në bashkësi të njëjtë familjare.
