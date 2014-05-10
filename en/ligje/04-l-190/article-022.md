@@ -1,0 +1,8 @@
+# Article 22
+Pharmacovigilance
+1. The KMA shall operate a pharmacovigilance system which shall be used to collect information on the risks of medicinal products as regards patients or public health. Details of this pharmacovigilance system shall be determined in sub-legal act pursuant to this Law.
+2. Taking into account such information, KMA may impose an obligation to the marketing authorisation holder either to change the conditions of the Marketing Authorization for the concerned medicinal products, or to withdraw/to suspend the Marketing Authorization or to order recall the concerned medicinal products from the market.
+3. In its assessment of the information on adverse reactions of medicinal products, leading to an administrative decision related to the Marketing Authorization, the KMA may consult The Commission or its relevant sub- committee.
+4. The KMA shall oblige Marketing authorisation holder and Health Care Professionals to submit reports on all suspected serious adverse reactions of medicinal products. Reporting procedures shall be determined by sub- legal act pursuant to this Law.
+5. A marketing authorisation holder shall operate pharmacovigilance system for the fulfilment of his pharmacovigilance tasks equivalent to the pharmacovigilance system of the KMA referred to in paragraph 1. of this Article. Details of this pharmacovigilance system shall be determined in sub-legal act pursuant to this Law.
+6. A Marketing Authorization Holder shall have permanently and continuously at its disposal a local responsible person for pharmacovigilance in the Republic of Kosovo. Responsibilities of this person shall be described in sub- legal act pursuant to this Law.

@@ -1,3 +1,0 @@
-# Neni 2
-Fusha e zbatimit
-Këtij ligji i nënshtrohen të gjitha autoritetet publike, personat juridik dhe fizik që merren me prodhimin, tregtimin e produkteve dhe pajisjeve medicinale, produkteve të cilat përmbajnë substanca radioaktive apo që kanë të bëjnë me sigurinë e përdorimit të rrezatimit radioaktiv, preparateve imunologjike dhe derivateve të gjakut, preparateve vitaminoze dhe minerale, herbale, preparateve dietale, kozmetike, ushqimeve të fëmijëve që jepen me rekomandim të mjekut, lëndëve të para për prodhimin e produkteve medicinale, gjysëmprodukteve të produkteve medicinale dhe rregullimin e çmimit të produkteve medicinale

@@ -1,0 +1,6 @@
+# Neni 39
+Situatat e jashtëzakonshme
+1. Në rast të emergjencës akute, mungesës së produkteve medicinal në treg, situatave katastrofike si epidemive, fatkeqësive të mëdha natyrore, AKPPM me aprovim të Ministrit të Shëndetësisë mund të lëshojë licencë importi, për një sasi dhe lloj të caktuar të produktit medicinal dhe me një afat kohor të definuar, pa autorizim të marketingut. AKPPM mund ta lëshojë licencën e importit vetëm për produktet medicinale që nuk kanë si paralel produkt esencialisht të ngjashëm, të regjistruar në Republikën e Kosovës. Përkitazi me sasinë, llojin, cilësinë dhe afatin kohor grupi punues profesional i caktuar nga AKPPM propozon zbatimin e masave të veçanta, si në vijim:
+1.1. Ministri i Shëndetësisë njofton qeverinë gjegjësisht Kryeministrin për masat e marra dhe shpjegon arsyet pse është ndërmarr një masë e këtillë;
+1.2. Kryeministri brenda shtatë (7) ditësh nga data e njoftimit mund të kërkojë anulimin e vendimit dhe nëse kjo nuk ndodhë Ministria e Shëndetësisë dhe AKPPM vazhdojnë me procedurat e mëtutjeshme për tejkalimin e situatës.
+2. Kryeshefi i AKPPM-së, sipas propozimit të grupit punues dhe aprovimit të Ministrit ndërmerr masat e veçanta për zbatimin e këtij vendimi.

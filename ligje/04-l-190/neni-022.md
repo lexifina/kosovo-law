@@ -1,0 +1,8 @@
+# Neni 22
+Farmakovigjilenca
+1. AKPPM do të operojë sistemin e farmakovigjilencës që do të përdoret për të mbledhur informata mbi rreziqet e produkteve medicinale përkitazi me pacientët apo shëndetin publik. Të dhënat e hollësishme për këtë sistem të farmakovigjilencës do të përcaktohen me akt nën-ligjor në pajtueshmëri më këtë ligj.
+2. Duke marrë parasysh këtë informacion, AKPPM mund ta detyrojë poseduesin e autorizim marketingut ose për ndryshimin e kushteve të Autorizim Marketingut për produktet specifike medicinale, ose për anulimin/pezullimin e Autorizim Marketingut, ose mund ta urdhërojë që të tërheq këto produkte medicinale nga tregu.
+3. Gjatë vlerësimit të informatës mbi efektet anësore të produkteve medicinale, që qon kah një vendim administrativ përkitazi me Autorizim Marketingun, AKPPM mund të konsultohet me Komisionin ose me nën-komisionin e tij relevant.
+4. AKPPM obligon poseduesin e Autorizim Marketingut dhe profesionistët shëndetësorë për të paraqitur raporte mbi efektet e dyshuara serioze anësore të produkteve medicinale. Procedurat e raportimit do të përcaktohen me akt nën-ligjor në pajtueshmëri me këtë ligj.
+5. Poseduesi i Autorizim Marketingut do të operojë sistemin e farmakovigjilencës për përmbushjen e detyrave të tij të farmakovigjilencës ekuivalent me sistemin e farmakovigjilencës së AKPPM nga paragrafi 1. i këtij neni. Detajet e këtij sistemi të farmakovigjilencës do të përcaktohen me akt nën-ligjor në përputhje me këtë ligj.
+6. Poseduesi i Autorizim Marketingut duhet të ketë, përherë dhe vazhdimisht, në dispozicion një person vendor të përgjegjshëm për farmakovigjilencë në Republikën e Kosovës. Përgjegjësitë e këtij personi do të përcaktohen me akt nën-ligjor në pajtueshmëri me këtë ligj.

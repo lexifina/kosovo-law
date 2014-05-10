@@ -1,0 +1,6 @@
+# Article 39
+Emergency Situations
+1. In the case of acute emergency, lack of medicinal products in the market, catastrophic situations, such as epidemics, big natural disasters, KMA with the approval of the Minister of Health can issue import license, for a certain amount and type of medicinal products and for a defined term, without marketing authorization. KMA can issue import license only for medicinal products that do not have any essentially similar product – parallel, registered in the Republic of Kosovo. Regarding the amount, type, quality and the timeframe, the professional working group assigned by the KMA proposes to apply the special measures, as follows:
+1.1. The Minister of Health notifies the government, respectively the Prime Minister about the measures that were undertaken and submits the reasons why such a measure was undertaken.
+1.2. The Prime Minister, within seven (7) days from the date of notification can request the annulment of the decision and if such a thing does not happen the Ministry of Health and KMA continue with further procedures to overcome the situation.
+2. The CEO of KMA, according to the working group proposal and the approval of Minister, undertakes the special measure for implementation of this decision.

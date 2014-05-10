@@ -1,0 +1,5 @@
+# Article 20
+Quality Assurance of Medicinal Products
+1. Quality assurance of medicinal products concerns the establishment by the Marketing authorisation holder by means of satisfactory documentary and existing physical evidence that a medicinal product meets the foreseen quality standard requirements for placement in or export from the Republic of Kosovo in order to protect public health.
+2. The KMA based on the recommendation of The Quality Control Laboratory shall be entitled to perform any quality assurance procedure that is appropriate for any given medicinal product in order to protect public health. Procedures shall be determined by sub-legal act pursuant to this Law.
+3. In the case that a medicinal product does not meet the defined and applied quality standards, or in case that medicinal product is falsified or is suspected to be falsified, remedial action shall be taken as defined by a sub- legal act pursuant to this Law, including the provision for a complete removal of the concerned medicinal product from the Republic of Kosovo market for a fixed term up to one (1) year or permanent removal.
