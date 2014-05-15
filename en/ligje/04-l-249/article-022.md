@@ -1,0 +1,5 @@
+# Article 22
+Levels of Premiums for Mandatory Health Insurance
+1. Mandatory health insurance premiums for employees from Article 21 paragraph 1.1. and paragraph 1.2. of this Law shall be payable as a percentage of the pre-tax income to be shared equally by the employer and employee. The premiums are based on the costs of basic health care services proposed by the Fund and approved by Government and Assembly, at a rate that shall be approved by the Government and Assembly through the budget process.
+2. The mandatory health insurance premium for other citizens and residents from Article 21 paragraph 1.3. of this Law may be based on the costs of basic health care services proposed by the Fund and approved by Government and Assembly; and is calculated annually as a flat rate approved by the Government and Assembly through the budget process.
+3. The Fund shall propose to the Government changes of the premium from paragraph 1. and paragraph 2. of this Article during a fiscal year according to the consumer price index and other relevant factors such as special health circumstances.
