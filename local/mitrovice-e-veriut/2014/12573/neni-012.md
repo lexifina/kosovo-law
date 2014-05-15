@@ -1,0 +1,6 @@
+# Neni 12.
+Për tu siguruar përmbushja e të gjitha nevojave te qytetarëve dhe që punët e 12.1. vetqeverisjes të realizohen ne interesin më të mirë të qytetarëve, Komuna Mitrovicë e Veriut permes Kuvendit Komunal ose Kryetarit të Komunës ka mundësi që të lidhë ontrata me fshatra, vendbanime dhe kuartet e qytetit përmbrenda teritorit te saj.
+12.2. Secili fshat ka udhëheqesin e tij të zgjedhur në përpuethshmëri me regulloren komunale mbi zgjedhjet e fshatit. Udhëhëqësi i fshatit është personi kryesor kontaktues, përgjegjës për me organet komunale. Udhëhëqësi i fshatit i mbledh përmes konsultimeve me banorët e fshatit ne lidhje me punët dhe aktivitetet qe kanë të bëjnë me fshatin te cilin ai e përfaqëson, dhe propozimet I dergon tek kryetari I komunës ose kryetarit të kuvendit komunal.
+12.3. Kuvendi komunal mund të bart disa përgjegjësi tek fshatrat dhe organeve të tyre dhe te sigurojë burime nga komuna per ato fshatra, në përpuethshmëri me përgjëgjësitë dhe aktivitetet e bartura të cilat ata I zbatojnë.
+12.4. Kuvendi komunal mund te hap zyre lokale nëpër fshatra, në mënyrë që shërbimet të jenë më afer qytetarëve. Vendimin mbi themelimin e zyres lokale, përgjegjësitë dhe mbështetjen finaciaree sjell Kuvendi Komunal Mitrovicë e Veriut me shumicën e votave nga numri I pergjithshëm i kuvendar. 12.5.
+PJESA E KATËRT KUVENDI KOMUNAL MITROVICË E VERIUT
