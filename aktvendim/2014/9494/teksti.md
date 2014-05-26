@@ -1,0 +1,80 @@
+RI P: BI.I< 0; I ()~()\ . I' 'SllTlTCESI: C.l ')"( co I. 'OL {T
+Prishtine, me 22 maj 2014 Nr.ref.:RK626/14
+AKlVENDIM PER PAPRANUESHMERI
+ne
+Rastin Nr. K1160/13
+Parashtrues
+Desa Aleksic
+Vleresimi i kushtetutshmerise se Aktgjykimit AC-II- 12-006, te Kolegjit te Ankesave te Gjykates Supreme te Kosoves, te 30 majit 2013
+GJYKATAKUSHTETUESE E REPUBLlKES SE KOSOvES
+e perbere nga:
+Enver Hasani, kryetar Ivan Cukalovic, zevendeskryetar Robert Carolan, gjyqtar Altay Suroy, gjyqtar Almiro Rodrigues, gjyqtar Snezhana Botusharova, gjyqtare Kadri Kryeziu, gjyqtar, dhe Arta Rama-Hajrizi, gjyqtare
+Parashtruesiikerkeses
+Kerkesa eshte dorezuar nga znj. Desa Aleksic Cne tekstin e metejme: 1. parashtruesja e kerkeses), e cila perfaqesohet nga z. Muhamet Shala, avokat nga Prishtina.
+Vendimi i kontestuar
+2. Parashtruesja e konteston Aktgjykimin e Kolegjit te Ankesave te Dhomes se Posa<;me te Gjykates Supreme te Kosoves (ne tekstin e metejme: Kolegji i Ankesave i Dhomes se Posa<;me), AC-II- 12-006, te 30 majit 2013. Parashtruesja e kerkeses e ka pranuar kete aktgjykim me 12qershor 2013.
+Objekti i ~eshtjes
+3. Objekt i <;eshtjesse kerkeses eshte vleresimi i kushtetutshmerise se Aktgjykimit te Kolegjit te Ankesave te Dhomes se Posa<;me,AC-II- 12-006, te 30 majit 2013, me te cilin ankesa e se paditures (AI "Kosova-Export", NSH "Bujqesia" nga Fushe- Kosova) e perfaqesuar nga Agjencia Kosovare e Prones (AKP) ishte pranuar si e bazuar. Te njejten kohe ishte anuluar Aktgjykimi i Gjykates Komunale ne Prishtine, P. nr. 550/08, i 20 prillit 2010.
+4. Sipas parashtrueses se kerkeses, aktgjykimi i kontestuar ishte marre me shkelje
+te "kushtetutshmerise dhe ligjshmerise te percaktuar me kapitullin VII, neni 3, te Kushtetutes se Republikes se Kosoves, me te cilin 102, paragrafi ne baze percaktohet se gjykatat gjykojne te Kushtetutes dhe ligjit". Parashtruesja e kerkeses me tutje pretendon se ka pasur shkelje te nenit 31 te Kushtetutes, i cili garanton te drejten per gjykim te drejte dhe te paanshem si dhe te nenit 6 te Konventes Evropiane per te Drejta te Njeriut. Parashtruesja e kerkeses gjithashtu pretendon se i jane shkelur te drejtat e saj pronesore, te garantuara me nenin 46 te Kushtetutes.
+Baza juridike
+5. Kerkesa bazohet ne nenin 113.7te Kushtetutes se Republikes se Kosoves, nenin 47 te Ligjit per Gjykaten Kushtetuese te Republikes se Kosoves, Nr. 03/L-121, (ne tekstin e metejme: Ligji), dhe ne rregullin 56 te Rregullores se punes te Gjykates Kushtetuese te Republikes se Kosoves (ne tekstin e metejme: Rregullorja e punes).
+Procedura ne Gjykate
+6. Me 12 tetor 2013, parashtruesja e dorezoi kerkesen permes postes rekomande ne Gjykaten Kushtetuese te Republikes se Kosoves (ne tekstin e metejme: Gjykata). Kerkesa ishte pranuar me 16tetor 2013.
+7. Me 31 tetor 2013, Kryetari i Gjykates, me Vendimin nr. GJR. Kh60/13, caktoi gjyqtarin Kadri Kryeziu gjyqtar raportues. Te njejten dite, Kryetari i Gjykates, me Vendimin nr. KSH. Kh60/13, caktoi Kolegjin shqyrtues, te perbere nga gjyqtaret: Robert Carolan (kryesues), Almiro Rodrigues dhe Ivan Cukalovic.
+8. Me 12 nentor 2013, Gjykata e njoftoi parashtruesen e kerkeses dhe kerkoi nga ajo te dorezoje autorizimin per avokatin Muhamet Shala nga Prishtina.
+9. Me 12 nentor 2013, Gjykata e njoftoi Kolegjin e Ankesave te Dhomes se Posa<;mete Agjencise Kosovare te Prones (AKP)per regjistrimin e kerkeses.
+10. Me 4 dhjetor 2013, avokati Muhamet Shala e dorezoi autorizimin, dhene atij nga parashtruesja e kerkeses.
+11. Me 27 mars 2014, pas shqyrtimit te raportit te gjyqtarit raportues, Kolegji shqyrtues i rekomandoi Gjykates papranueshmerine e kerkeses.
+Permbledhja e fakteve
+12. Me tej eshte permbledhja e fakteve, sic; pretendohet nga parashtruesja ne kerkesen e saj dhe e shtjelluar ne aktgjykimin e kontestuar te bashkengjitur.
+13. Me 20 shkurt 2008, parashtruesja e kerkeses paraqiti padi ne Dhomen e Posac;me, duke kerkuar qe te anulohet kontrata e shitjes se pronave te paluajtshme, av. NR. 3039/63, te 21 nentorit 1963, te vertetuar nga Gjykata Komunale ne Prishtine, te lidhur ne mes te paraardhesit te parashtrueses se kerkeses, babait te saj Ctani i ndjere), Mile Vukmirovic dhe AlC "Kosmet- Export".
+14. Me 12 mars 2008, Trupi gjykues i Dhomes se Posac;me, me Vendimin SCC-08- 0044, i referohet padise se parashtrueses se kerkeses ne Gjykaten Komunale ne Prishtine, duke i udhezuar palet qe ne rast te ankeses kunder vendimit ose aktgjykimit, ajo duhej te ushtrohej ne Dhomen e Posac;me.
+15. Me 20 prill 2010, Gjykata Komunale ne Prishtine, me Aktgjykimin P. nr. 550/08, e aprovoi padine e parashtrueses se kerkeses dhe vertetoi se kontrata e shitjes se prones se paluajtshme av. Nr. 3-39, e 21 nentorit 1963, eshte e pavlefshme, dhe e obligoi te paditurin AlC "Kosmet-Export" t'ia ktheje pronesine dhe posedimin paditeses, si trashegimtare e radhes se pare dhe t'i lejoje parashtrueses ta regjistroje pronen e kontestuar ne emrin e saj.
+16. Me 5 gusht 2010, i padituri e dorezoi me kohe ankesen kunder Aktgjykimit te Gjykates Komunale ne Prishtine, P. nr. 550/08, te 20 prillit 2010. Ne ankese, i padituri pretendonte, inter alia, se gjykata e shkalles se pare do te duhej te kishte kontrolluar nese padia per anulimin e kontrates eshte paraqitur me kohe, pasi qe kontrata e shitjes ishte lidhur me 23 nentor 1963, perderisa padia per anulimin e kontrates eshte dorezuar me 2009, rrjedh se paditesi nuk i ka shfrytezuar afatet ligjore, prandaj padia si e tille do te duhej te hidhej poshte si e pabazuar.
+17. Me 25 qershor 2012, Kolegji i Ankesave ia dorezoi parashtrueses se kerkeses ankesen dhe dokumentet percjellese, ne menyre qe te dorezonte nje pergjigje ne ankese.
+18. Me 8 gusht 2012, parashtruesja e kundershtoi ankesen e te paditurit ne teresi dhe i propozoi Dhomes se Posac;mete hedhe poshte ankesen e te paditurit, si te pabazuar, ta vertetoje aktgjykimin e ankimuar, sepse sipas parashtrueses se kerkeses, ai aktgjykim eshte shume i qarte, i kuptueshem dhe i bazuar ne ligj.
+19. Me 30 maj 2013, Kolegjii Ankesave i Dhomes se Posac;menxori Aktgjykimin nr. AC-II- 12-006. Sipas arsyetimit ligjor te atij aktgjykimi, "Aktgjykimi iankimuar i Gjykates Komunale ne Prishtine nuk eshte i drejte ne pikepamje te rezultatit dhe te arsyetimit juridik, prandaj, duhet te anulohet".
+Kolegji i Ankesave i Dhomes se Posac;me me tej theksoi se "Gjykata e shkalles 20. se pare nuk e ka konstatuar ne menyre te drejte dhe komplete gjendjen faktike ne aktgjykimin e ankimuar dhe, per pasoje, gabimisht e ka zbatuar te drejten kur ne teresi e ka miratuar padine e paditeses materiale, si te bazuar dhe e ka anuluar kontraten per shitblerjen e paluajtshmerise. Gjykata nuk e ka reJuzuar padine si te pabazuar, edhe pse eshte paraqitur pas kalimit te afatit ligjor te percaktuar me ligj".
+Kolegji i Ankesave i Dhomes se Posac;me shtjelloi me tej se parashtruesja e 21. kerkeses "ka theksuar se kontrata eshte lidhur nen presion dhe me kercenime serioze, (ndersa supozon se ka munguar vUllneti i paraardhesit te paditeses te cilat ne per lidhje te kontrates) dhe edhe po te zbatoheshin keto dispozita, ashtu sic;eshte thene me pare, zbatimi kete rast nuk mund te zbatohen, i tyre e nenit nuk eshte i rregullt. Prandaj, vetem dispozitat 11 te LMD te cilat i rregullojne kontratat e rrezueshme (pavlefshmeria relative) mund te zbatohen ne lenden konkrete, e jo neni 103 dhe 104 i LMD (i cili e rregullon pavlefshmerine absolute te kontratave) qe parashohin pavlefshmeri te te lidhura ne kundershtim kontratave me parimet e caktuara kushtetuese te rregullimit publik, dispozitat detyruese dhe zakonet e mira, prandaj, kjo me asgje qe eshte ne kundershtim kontrate nuk eshte percaktuar me vlerat e te asaj kohe. Ne baze te kesaj, per permendura te sistemit gjyqesor-kushtetues dhe ne baze te nenit arsye te lartpermendura 10.10 te Ligjit per Dhomen e Vec;ante, eshte vendosur si ne dispozitiv".
+Pretendimet e parashtruesit te kerkeses
+Parashtruesja e kerkeses pohon se pavaresisht se Republika e Kosoves nuk e ka 22. miratuar ligjin per kthimin e prones private qe eshte marre gjate regjimit socialist, ne rastin konkret Konventa Evropiane per te Drejtat e Njeriut (ne tekstin e metejme: Konventa) duhet te jete drejtperdrejt e zbatueshme, ne vec;anti e drejta e kthimit te prones private, sipas parashtrueses se kerkeses, eshte e garantuar me Konvente.
+23. Prandaj, parashtruesja e kerkeses e konteston zbatimin e Ligjit per marredhenie detyrimore, i cili sipas saj, eshte ne kundershtim me Konventen. Parashtruesja me tej pretendon se kontrata per shitje, e nenshkruar nga paraardhesi i parashtrueses se kerkeses, "mund te njihet si asgje tjeter, por si kontrate e nje ... ne shteti totalitar, dhe duhet te konsiderohen si absolutisht e pavlefshme, pajtim me Konventen".
+Parashtruesja me tej pretendon se "nuk eshte kontestuese se qe nga viti 1990, 24. te drejte ne menyre nje numer i madh i qytetareve e kane fituar kete ne procedure ose gjyqesore, ne baze te anulimit institucionale, administrative te shitjes se prones se paluajtshme. te kontratave Prandaj, tani kemi siC;eshte Desa Aleksic, e cila ne krahasim kategorine e qytetareve me qytetaret ne realizimin tjere, eshte diskriminuar e te drejtave te saj pronesore dhe te kthimit".
+25. Parashtruesja gjithashtu pretendon se Dhoma e Posac;me ne rastet e ngjashme
+ka vendosur ndcyshe nga rasti i parashtrueses, dhe ne kete drejtim, e ka bashkengjitur kopjen e Vendimit ne rastin SCA-08-0042, ku ankesa e AKP-se eshte hedhur poshte si e papranueshme.
+Pranueshmeria e kerkeses
+26. Per te qene ne gjendje qe te shqyrtoje kerkesen e parashtrueses se kerkeses, Gjykata para se gjithash duhet te vleresoje nese parashtruesja e kerkeses i ka plotesuar kushtet e pranueshmerise, te percaktuara me Kushtetute dhe te specifikuara me tej me Ligjdhe me Rregullore te punes.
+27. Lidhur me kete, Gjykata veren se esenca e ankesave te parashtrueses se kerkeses ka te beje me shkeljen e pretenduar te se drejtes se saj per gjykim te drejte dhe te drejten pronesore, te dyja te garantuara me Kushtetute dhe me Konvente.
+- Sa i perket se parashtrueses se kerkeses ankeses lidhur me shkeljen epretenduar te se drejtes se saj per gjykim te drejte:
+28. Gjykata veren se parashtruesja nuk pajtohet me gjetjet e Kolegjit te Ankesave te Dhomes se Posac;medhe pretendon se Kolegji i Ankesave i Dhomes se Posac;me e ka zbatuar gabimisht Ligjin per marredheniet detyrimore.
+29. Ne kete drejtim, Gjykata merr parasysh rregullin 36 te Rregullores se punes, i cHiparasheh:
+(1) "Gjykata mund t'i shqyrtoje kerkesat vetem nese: c) kerkesa nuk eshte
+qartazi e pabazuar".
+30. Gjykata thekson se nuk eshte detyre e Gjykates Kushtetuese te merret me gabimet e fakteve ose te ligjit (ligjshmerise), qe pretendohet te jene bere nga Gjykata Supreme, pervec;dhe per aq sa ato mund te kene shkelur te drejtat dhe lirite e mbrojtura me Kushtetute (kushtetutshmeria).
+31. Lidhur me kete, Gjykata Kushtetuese riperserit se nuk vepron si gjykate e shkalles se katert, perkitazi me vendimet e nxjerra nga gjykatat e rregullta. Roli i gjykatave te rregullta eshte t'i interpretojne dhe t'i zbatojne rregullat perkatese te se drejtes procedurale dhe materiale (shih, mutatis mutandis, Garcia Ruiz kunder Spanjes [DHM], Nr. 30544/96, paragrafi 28, Gjykata Evropiane per te Drejtat e Njeriut [GJEDNJ] 1999-1; shih gjithashtu Aktvendimin per papranueshmeri ne rastin KI7o/n, parashtrues Faik Hima, Magbule Hima dhe se Aktgjykimit Bestar Hima, Vleresim i kushtetutshmerise te Gjykates Supreme, A. Nr. 983/08, te 7shkurtit 2011).
+32. Gjykata Kushtetuese veren se parashtruesja e kerkeses i ka shteruar te gjitha mjetet juridike te parapara me Ligjin per proceduren kontestimore, duke ushtruar ankese ne Gjykaten Komunale ne Prishtine dhe se Kolegji i Ankesave i Dhomes se Posac;mee mori kete parasysh dhe vertet iu pergjigj ankesave te saj ne c;eshtjetligjore.
+33· Prandaj, Gjykata konsideron se nuk ka asgje ne kerkese qe tregon se rastit i ka munguar paanshmeria, ose qe procedurat kane qene ne ndonje menyre te padrejta (shih, mutatis ECtHR, Vendimi per mutandis, Shub vs. Lituania, e kerkeses, Nr. 17064/06, i 30 qershorit 2009) pranueshmerine
+34· Sa i perket ankeses se parashtrueses se kerkeses se nje numer i madh i qytetareve e kane fituar kete te drejte ne menyre institucionale, ne procedure administrative ose gjyqesore, ne baze te anulimit te kontratave te shitjes se prones se paluajtshme dhe se eshte diskriminuar ne realizimin e te drejtave te saj pronesore dhe te kthimit, Gjykata veren se parashtruesja nuk i ka argumentuar pretendimet e saj. Deshmia e vetme ne mbeshtetje te pretendimeve te parashtrueses, e bashkengjitur ne kerkesen e saj, gjegj. Vendimi i Dhomes se Posac;me ne rastin SCA-oB-0042, nuk eshte relevante, pasi qe ne ate rast, ankesa e AKP-se ishte refuzuar si e paafatshme.
+- Sa i perket ankeses se parashtrueses lidhur shkeljen me e pretenduar te te drejtave te saj pronesore
+35. Parashtruesja me tej kerkoi nga Gjykata te deklaroje aktgjykimin e kontestuar te Kolegjit per Ankesa te Dhomes se Posac;mete pavlefshem pasi qe kontrata qe i ati i saj i ndjere e kishte nenshkruar ne vitin 1963, nuk eshte "... asgje tjeter perpos kontrate/kontrata te nje shteti totalitar, dhe duhet te konsiderohet si ... ne perputhje absolutisht e pavlefshme, me Konventen".
+36. Gjykata veren se parashtruesja iu referohet ngjarjeve qe kishin ndodhur ne vitin 1963·
+37. Ne kete drejtim, Gjykata duhet te percaktoje juridiksionin e saj kohor.
+Gjykata rikujton se, sipas rregullit 36 te Rregullores se punes te Gjykates, "Po 3B. edhe ne rastet ashtu, nje kerkese mund te konsiderohet si e papranueshme vijuese, kur: h) kerkesa nuk eshte ratione temporis ne pajtim me Kushtetuten".
+39. Kriteri i ngjashem per pranueshmeri eshte zbatuar nga Gjykata Evropiane per te Drejta te Njeriut.
+40. Ne pajtim me praktiken gjyqesore te Gjykates Evropiane per te Drejta te Njeriut, "Mohimi i pronesise apo ndonje te drejte tjeter in rem eshte ne parim nje veprim i menjehershem dhe nuk prodhon nje situate te vazhdueshme te te nje te drejte" (shih Malhous geke (vendim) "mohimit kunder Republikes [DHM], nr. 33071/96, GJEDNJ 2000-XII, me referenca te metejshme).
+41. Ne kete drejtim, Gjykata rikujton se ajo nuk mund merret me nje kerkese, qe ka te beje me ngjarjet qe kishin ndodhur para hyrjes ne force te Kushtetutes, gjegj. para 15 qershorit 200B (shih, Aktvendimin per papranueshmeri te Gjykates, ne rastin nr. 1B/10, Denic et ai, te 17gushtit 2011).
+42. Ne baze te asaj c;kau tha me lart, kerkesa e parashtrueses ne lidhje me shkeljen e pretenduar te te drejtave pronesore lidhur me ngjarjet qe kane ndodhur para 15 qershorit 200B, nuk eshte ratione ne pajtim me dispozitat e temporis, Kushtetutes.
+43. Per me teper, Gjykata perserit se sipas praktikes gjyqesore te Gjykates "neni 1 i Protokollit Evropiane per te Drejtat e Njeriut nr. 1 nuk mund te si vendosje e ndonje dety rim i te pergjithshem interpretohet te Shteteve Kontraktuese per te kthyer pronen qe iu ishte transferuar atyre para se ata e Neni 1i Protokollit ratifikuan Konventen. nr. 1 as nuk imponon kufizime ne Urine e Shteteve Kontraktuese per te percaktuar qellimin e kthimit te pronave dhe per te zgjedhur kushtet ne te cilat ata pajtohen per te rivendosur te drejtat nr. 39050/97 § pronesore te ish-pronareve" (shih Jantner kunder Sllovakise, 34,4 mars 2003)·
+44. Duke marre parasysh te gjitha ato qe u permenden me lart, Gjykata konstaton ne pajtim me nenin 113.7te se kerkesa nuk i ploteson kriteret per pranueshmeri Kushtetutes dhe rregullin 36 (1) c) dhe h) te Rregullores se punes.
+PER KETO ARSYE
+ne pajtim me nenin 113.7te Kushtetutes, nenin 48 te Ligjit dhe Gjykata Kushtetuese, me 27 mars rregullin 36 (1) c) dhe h) te Rregullores se punes, ne seancen e mbajtur 2014, njezeri
+VENDOS
+I. TA DEKLAROJE kerkesen te papranueshme;
+II. T'UA KUMTOJE kete vendim paleve;
+III. TA PUBLIKOJE kete vendim ne Gazeten Zyrtare, ne pajtim me nenin 20-4 te Ligjit; dhe
+IV. Kyvendim hyn ne fuqi menjehere.
+71iGjykates Kushtetuese
+!u4_U'!::--1 Prof. dr. Enver Hasani V -'
+Gjyqtari raportues
+tti~ adri Kryeziu
