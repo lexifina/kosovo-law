@@ -1,0 +1,7 @@
+LIGJI NR. 04/L - 253
+PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJIT 04/L-127 PËR REGJISTRIMIN E BUJQËSISË
+Kuvendi i Republikës së Kosovës;
+Në bazë të nenit 65 (1) të Kushtetutës së Republikës së Kosovës,
+Miraton:
+LIGJ PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJIT 04/L-127 PËR REGJISTRIMIN E
+BUJQËSISË
