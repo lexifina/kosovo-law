@@ -1,0 +1,9 @@
+# Article 16
+General provisions on calculation
+1. The amount of the countervailable subsidies shall be determined per unit of the subsidized product exported to the Kosovo. In establishing this amount the following elements may be deducted from the total subsidy:
+1.1. any application fee, or other costs necessarily incurred in order to qualify for, or to obtain, the subsidy;
+1.2. export taxes, duties or other charges levied on the export of the product to Kosovo specifically intended to offset the subsidy.
+2. Where an interested party claims a deduction, it must prove that the claim is justified.
+3. Where the subsidy is not granted by reference to the quantities manufactured/ produced, exported or transported, the amount of countervailable subsidy shall be determined by allocating the value of the total subsidy, as appropriate, over the level of production, sales or exports of the products concerned during the investigation period for subsidization.
+4. Where the subsidy can be linked to the acquisition or future acquisition of fixed assets, the amount of the countervailable subsidy shall be calculated by spreading the subsidy across a period which reflects the normal depreciation of such assets in the industry concerned. The amount so calculated which is attributable to the investigation period, including that which derives from fixed assets acquired before this period, shall be allocated as described in paragraph 2. of this Article. Where the assets are non-depreciating, the subsidy shall be valued as an interest-free loan, and be treated in accordance with Article 15 sub-paragraph 1.2 of this Law.
+5. Where a subsidy cannot be linked to the acquisition of fixed assets, the amount of the benefit received during the investigation period shall in principle be attributed to this period, and allocated as described in paragraph 2. of this Article, unless special circumstances arise justifying attribution over a different period.

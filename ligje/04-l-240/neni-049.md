@@ -1,0 +1,4 @@
+# Neni 49
+Shqyrtimi i kërkesës të eksportuesve/importuesve të ri
+1. Një eksportues, produktet e të cilit janë objekt i detyrimeve përfundimtare antidamping ose kundërbalancuese dhe i cili nuk është hetuar individualisht gjatë procedurës hetimore, jo për arsye të refuzimit për të bashkëpunuar, mund të kërkojë shqyrtim në mënyrë që t’i bëhet një shqyrtim individual. Kërkesa duhet t’i drejtohet Ministrisë, të jetë me shkrim dhe duhet të dokumentohet plotësisht sa i përket vlerës normale ose shumës së subvencionit kundërbalancues si dhe çmimeve aktuale apo të ardhshme të eksportit të tij. Industrisë së brendshme të Kosovës duhet t’i jepet mundësia për të dhënë komentet e saj në lidhje me këtë kërkesë.
+2. Për procedurat e hetimit sipas paragrafit 1 të këtij neni do të zbatohen dispozitat e këtij ligji.

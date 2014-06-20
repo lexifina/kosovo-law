@@ -1,0 +1,8 @@
+# Neni 51
+Rikthimi i fondeve- Rimbursimi
+1. Importuesi mund të kërkojë rikthimin e detyrimeve të grumbulluara nga organet kompetente nëse Ministria, pas konsultimit me Komisionin, përcakton se marzha e dampingut ose marzha e subvencionit, në bazë të së cilës janë paguar detyrimet, është eliminuar ose reduktuar në një nivel që është më i ulët sesa detyrimi në fuqi.
+2. Importuesi duhet të paraqesë, brenda gjashtëdhjetë (60) ditëve pas datës kur detyrimi i kërkuar për rikthim është mbledhur nga Ministria, një kërkesë me shkrim të dokumentuar në mënyrë të duhur për rikthimin e shumës së detyrimeve që ishte paguar.
+3. Kërkesa duhet të përmbajë informacionin e dokumentuar për shumën e kërkuar të rikthimit të detyrimeve antidamping ose kundërbalancuese për atë periudhë, si dhe dokumentet e plota doganore në lidhje me llogaritjen e pagesës së një shume të tillë.
+4. Ministria shqyrton kërkesën dhe heton rastin. Nëse eksportuesi ose prodhuesi dështon të sigurojë dëshmitë brenda afatit prej gjashtëdhjetë (60) ditësh, kërkesa do të refuzohet nga Ministria, pas konsultimit me Komisionin.
+5. Bazuar në kërkesën për rikthim, Ministria, pas konsultimit me Komisionin, gjatë hetimeve, do të vendosë nëse dhe deri në të cilën shumim do të bëhet rikthimi.
+6. Rikthimin e detyrimeve normalisht do të zhvillohet brenda dymbëdhjetë (12) muajve dhe në çdo rast jo më vonë se tetëmbëdhjetë (18) muaj nga data e kërkesës për rikthim. Çdo rikthim, i bazuar në të dhëna të duhura nga importuesi i produktit, i cili është objekt i detyrimeve antidamping ose kundërbalancuese, bëhet brenda nëntëdhjetë (90) ditëve nga data e vendimit për rikthim.

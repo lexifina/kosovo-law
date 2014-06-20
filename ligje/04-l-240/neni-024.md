@@ -1,0 +1,5 @@
+# Neni 24
+Ngecja materiale e krijimit ose zhvillimit të industrisë së Kosovës
+1. Dëmi mund të krijohet edhe nëse një prodhim i produktit të ngjashëm në Kosovë nuk ekziston akoma në një shkallë të konsiderueshme. Në mënyrë që të krijohet një ngecje e tillë materiale e krijimit ose zhvillimit të një in- dustrie të Kosovës duhet të ekzistojnë indikacione të qarta se në të ardhmen e afërt është gati për tu krijuar dhe/ose zhvilluar një prodhim i produktit të ngjashëm në Kosovë. Ngecja materiale duhet të bazohet në fakte.
+2. Gjithashtu duhet të konstatohet se efekti i importeve të dampuara ose të subvencionuara vonon në krijimin ose zhvillimin e një industrie të Kosovës materialisht dhe substancialisht e ngecur apo braktisur.
+3. Tregues për ngecje të tillë mund të jenë vonesat e konsiderueshme ose braktisja e miratimit të vendimeve apo planeve të detajuara dhe të provuara të investimeve, prodhimit, kostove, fuqisë punëtore, komercializimit apo marketingut që do të merreshin ose të viheshin në praktikë pa importe të dampuara ose subvencionuara.

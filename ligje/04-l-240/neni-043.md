@@ -1,0 +1,7 @@
+## KREU VIII
+## VENDOSJA DHE MBLEDHJA E DETYRIMEVE ANTIDAMPING DHE KUNDËRBALANCUESE
+# Neni 43
+Pajtueshmëria me rregullën e detyrimit më të ulët
+1. Ministria, pas shqyrtimit të fakteve që përcaktojnë ekzistencën e dampingut ose subvencionimit dhe pasojat e dëmeve të tyre, dhe duke marrë parasysh interesat e Kosovës, si dhe pas konsultimit të Komisionit, duhet të ven- dosë për vendosjen e detyrimeve përfundimtare anti-damping dhe kundërbalancuese. Në rastet kur janë të ven- dosura detyrimet e përkohshme, Ministria, pas konsultimit me Komisionin, vendosë detyrime përfundimtare jo më vonë se në ditën e fundit të vlefshmërisë së masave të përkohshme.
+2. Detyrimet përfundimtare anti-damping dhe kundërbalancuese nuk mund ta kalojnë marzhën e përcaktuar të dampingut apo të subvencionit dhe duhet të jenë më të ulëta se kjo marzhë, nëse një detyrim i tillë i ulët është i mjaftueshëm për të eliminuar dëmin e shkaktuar ndaj industrisë vendore të Kosovës. Në qoftë se dampingu ose subvencioni ka pushuar së ekzistuari ose nëse janë tërhequr subvencionet ose kur është demonstruar se sub- vencionet nuk japin ndonjë përfitim për eksportuesit e përfshirë atëherë nuk duhet të vendoset asnjë masë.
+3. Në shqyrtimin nëse një detyrim më i ulët është i mjaftueshëm Ministria duhet të marrë në mënyrë të veçantë parasysh nivelin e çmimit të shkurtuar nga importet e dampuara ose të subvencionuara dhe / ose nivelin e ar- syeshëm të fitimit të nevojshëm për industrinë vendore të Kosovës për shitjet e saj në tregun e Kosovës.

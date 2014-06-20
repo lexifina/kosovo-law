@@ -1,4 +1,0 @@
-# Neni 33
-Anashkalimi
-1. Masat antidamping që vendosen në përputhje me këtë ligj mund të zgjerohen për të përfshirë edhe importet nga shtetet e treta të mallrave të ngjashme ose pjesëve të tyre, kur Komisioni Vlerësues, pas një hetimi të rregullt, konstaton se është duke u bërë anashkalimi i masave antidamping. Dispozitat e nenit 13, të Rregullores së BE-së për antidamping rregullojnë kryerjen e këtyre hetimeve.
-2. Masat kundërbalancuese që janë vendosur në përputhje me këtë ligj, mund të zgjerohen për të përfshirë edhe importet nga shtetet e treta të mallrave të ngjashme ose pjesëve të tyre, kur Komisioni Vlerësues, pas një hetimit të rregullt, konstaton se është duke u bërë anashkalimi i masave kundërbalancuese. Dispozitat e nenit 23 të Rregullores së BE-së për masat kundërbalancuese rregullojnë kryerjen e këtyre hetimeve.

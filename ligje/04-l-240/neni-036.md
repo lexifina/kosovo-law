@@ -1,0 +1,8 @@
+# Neni 36
+Zbulimi i informatave
+1. Palët e interesuara mund të kërkojnë zbulim të informacioneve të rëndësishme dhe fakteve thelbësore dhe de- tajet të konsiderueshme themelore dhe mbi bazën e të cilave janë vendosur masat e përkohshme. Kërkesa duhet t’i drejtohet Ministrisë me shkrim menjëherë pas paraqitjes së detyrimeve të përkohshme dhe zbulimi duhet të bëhet me shkrim sa më shpejt të jetë e mundur pas kësaj.
+2. Palët e interesuara mund të kërkojnë një zbulim përfundimtar të informatave të rëndësishme, të fakteve themelore dhe detajeve dhe të vlerësimeve në bazë të cilave ka për qëllim të vendosë masat përfundimtare ose ndërprerjen e procedimit. Kërkesa duhet t‘i drejtohet Ministrisë me shkrim dhe duhet të pranohet jo më vonë se një muaj pas vendosjes së masave të përkohshme. Në rastet kur masa e përkohshme nuk është zbatuar, palët e interesuara do të kenë mundësinë për të kërkuar zbulimin përfundimtar brenda afateve kohore të përcaktuara nga Ministria.
+3. Zbulimi përfundimtar duhet të bëhet me shkrim sa më shpejt që të jetë e mundur, dhe të paktën një muaj para se të merret ndonjë vendim përfundimtar.
+4. Paraqitjet e bëra pas zbulimit përfundimtar do të merren parasysh vetëm nëse janë pranuar nga Ministria brenda një periudhe kohore të përcaktuar nga Ministria, e cila duhet të jetë të paktën dy (2) javë.
+5. Pasi që Ministria i përfundon hetimet, pas konsultimit me Komisionin, lëshon një vendim përfundimtar, i cili duhet të bëhet publik duke përfshirë arsyet e marrjes se ati vendimi, dhe duke pasur parasysh mbrojtjen e të dhë- nave konfidenciale.
+6. Vendimi përfundimtar publikohet në Gazetën Zyrtare. Vendimi gjithashtu i’u dërgohet palëve të interesuara.

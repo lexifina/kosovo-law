@@ -1,0 +1,8 @@
+# Article 36
+Disclosure of Information
+1. Interested parties may request disclosure of important information and the essential facts and details and considerations underlying the essential facts and on the basis of which provisional measures have been imposed. The request shall be addressed to the Ministry in writing immediately after the introduction of provisional duties and the disclosure shall be made in writing as soon as possible thereafter.
+2. Interested parties may also request a final disclosure of important information the essential facts and details and considerations on the basis of which it is intended to impose definitive measures or the termination of the proceeding. The request shall be addressed to the Ministry in writing and shall be received not later than one (1) month after the imposition of provisional measures. In cases where a provisional measure was not applied, the interested parties shall be given the opportunity to request final disclosure within the time limits specified by the Ministry.
+3. Final disclosure shall be made in writing as soon as possible and at least one (1) month before any definitive decision is taken.
+4. Representations made after final disclosure shall be taken into consideration only if received by the Ministry within a period set by the Ministry which shall be at least two (2) weeks.
+5. After the Ministry finishes the investigation, it shall, after consultation of the Commission, issue a definitive decision, which must be made public, including the reasons that led to that decision, and taking into consideration the protection of confidential data.
+6. The definitive decision shall be published in the Official Gazette. The decision shall also be delivered to the interested parties.

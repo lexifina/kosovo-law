@@ -1,0 +1,4 @@
+# Neni 41
+Ndërprerja pa masa
+1. Pas konsultimit me Komisionin, në rast se tërhiqet kërkesa për masa Ministria duhet menjëherë ti ndërpresë hetimet pa vendosur ndonjë detyrim, përveç nëse Ministria pas konsultimit me Komisionin, vendos ndryshe në in- teres të Kosovës. Hetimi duhet gjithashtu të ndërpritet kur Ministria pas konsultimit me Komisionin vendos që masat mbrojtëse janë të panevojshme.
+2. Hetimi gjithashtu duhet të ndërpritet menjëherë nëse Ministria, pas konsultimit me Komisionin është e bindur se nuk ka të dhëna të mjaftueshme të dampingut ose subvencionit dhe dëmtimit që justifikojnë vazhdimin e hetimit ose kur Ministria pas konsultimit me Komisionin konstaton se marzhat e dampingut ose subvencionit janë mini- male, siç përcaktohet në paragrafin 11 të nenit 28 të këtij ligji, ose kur vëllimi i importeve aktuale ose potenciale të dampuara ose të subvencionuara është i papërfillshëm, siç parashikohet në paragrafin 4 të nenit 28 të këtij ligji.

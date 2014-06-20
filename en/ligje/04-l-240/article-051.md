@@ -1,0 +1,8 @@
+# Article 51
+Refunding - Reimbursement
+1. The importer may request refunding of duties collected from the competent bodies if the Ministry, after consulting the Commission, determines that the dumping margin or the subsidy margin the basis of which the duties have been paid, has been eliminated or reduced to a level which is lower than the duty in force.
+2. The importer shall submit, within sixty (60) days after the date on which the duty requested to be refunded has been levied to the Ministry a duly documented written request for refunding of the duty amount that was paid.
+3. The request must contain documented information for the claimed amount of refunding of the antidumping or countervailing duty for the period, and the completed customs documents relating to the calculation of payment of such an amount.
+4. The Ministry reviews the request and investigates the case. If the exporter or the manufacturer/producer fails to provide the evidences within the sixty (60) days deadline, the application will be rejected by the Ministry, after consulting the Commission.
+5. Based on refunding application, the Ministry, after consulting the Commission, during the investigations, will decide whether and to which amount the refunding will be made.
+6. Refunding of duties will normally take place within twelve (12) months and in any case not later than eighteen (18) months from the date of the refunding request. Any refunding, based on proper data from the importer of the product, which is the subject of antidumping or countervailing duties, shall be done within ninety (90) days from the date of decision on refunding.

@@ -1,0 +1,6 @@
+# Neni 52
+Pezullimi
+1. Masat e vendosura sipas këtij ligji, mund të pezullohen në interes të Kosovës me një vendim të Ministrisë, pas këshillimit me Komisionin, për një periudhë jo më të gjatë se dymbëdhjetë (12) muaj. Pezullimi mund të zgjatet për një periudhë tjetër, jo më të gjatë se gjashtë (6) muaj, nëse Ministria, pas konsultimit me Komisionin, vendos për zgjatje mbi bazën e provave të mjaftueshme.
+2. Masat mund të pezullohet vetëm në bazë të një kërkese me shkrim dhe plotësisht të dokumentuar, drejtuar Ministrisë nga pala e interesuar duke siguruar dëshmi të faktorëve dhe kushteve të theksuara sipas paragrafi 3 të këtij neni.
+3. Masat mund të pezullohet vetëm kur kushtet e tregut të Kosovës kanë ndryshuar përkohësisht në atë masë sa që dëmi në industrinë vendore të Kosovës do të ishte i pamundur të rikthehet si pasojë e pezullimit, dhe me kusht që industrisë vendore të Kosovës i është dhënë mundësi për të dhënë komentet e saj dhe me kusht që këto komentet janë marrë parasysh.
+4. Masat munden, në çdo kohë dhe pas konsultimit të palëve të interesuara, të rivendosen nga Ministria, pas konsultimit me Komisionin, në qoftë se arsyeja për pezullim nuk është edhe më tej e zbatueshme.

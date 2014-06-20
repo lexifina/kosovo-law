@@ -1,0 +1,6 @@
+# Neni 37
+Verifikimet
+1. Ministria, kur e gjykon të arsyeshme mund të ndërmarrë veprime të kontrollit, inspektime dhe verifikime të të dhënave nga të gjitha palët e interesuara, që kanë të bëjnë me interesat e dampingut, subvencioneve, dëmeve dhe interesave të Kosovës. Gjithashtu mund të kryejë vizita verifikuese për të shqyrtuar të dhënat dhe për të ver- ifikuar të dhënat dhe informacionet e dhëna.
+2. Me qëllim të verifikimit të informacioneve të mbledhura dhe për të marrë informacione ato shtesë, Ministria, nëse e gjykon të nevojshme, mund të kryejë hetime edhe në vende të tjera, me kusht që ndërmarrjet në fjalë të japin pëlqimin e tyre dhe Qeveritë e vendeve në fjalë të jenë të njoftuara zyrtarisht dhe të mos ngrenë asnjë kundërsh- tim. Autoritetet e vendit eksportues duhet të njoftohet për emrat dhe adresat e ndërmarrjeve që do të vizitohen dhe datat e vizitave.
+3. Ministria e përgatit raportin për verifikimin e të dhënave për çdo kompani. Ky raport do të jetë plotësisht në dis- pozicion të kompanisë, ndërsa një version jo-konfidencial do të depozitohet në dosjen publike.
+4. Kompanitë e interesuara do të informohen në lidhje me natyrën e informacionit dhe të të dhënave të cilat do të verifikohen gjatë vizitës. Kërkesat e tjera për informata dhe verifikim të tyre mund të bëhen gjatë vizitave.

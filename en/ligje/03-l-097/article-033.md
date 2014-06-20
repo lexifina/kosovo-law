@@ -1,4 +1,0 @@
-# Article 33
-Circumvention
-1. Antidumping measures that have been imposed pursuant to this law may be extended to imports from third countries of like goods, or parts thereof, when the Evaluation Commission, after due investigation, determines that circumvention of such antidumping measures is taking place. The provisions of Article 13 of the EU Anti-Dumping Regulation shall govern the conduct of such investigations.
-2. Countervailing duties that have been imposed pursuant to this law may be extended to imports from third countries of like goods, or parts thereof, when the Evaluation Commission, after due investigation, determines that circumvention of such countervailing duties is taking place. The provisions of Article 23 of the EU Anti-Subsidy Regulation shall govern the conduct of such investigations.

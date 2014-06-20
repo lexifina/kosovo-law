@@ -1,0 +1,5 @@
+# Article 24
+Material retardation of the establishment or development of a Kosovo industry
+1. Injury may also be established if a manufacturing/production of the like product does not yet exist to a significant degree in Kosovo. In order to establish such a material retardation of the establishment or development of a Kosovo industry there must already exist clear indications that a manufacturing/production of a like product is about to be established and/or developed in Kosovo in the near future. The material retardation shall be based on facts.
+2. It has also to be found that the effect of the dumped or subsidized imports will be delayed in establishment or development of a Kosovo industry materially and substantially retarded or abandoned.
+3.An indication for such retardation may be substantial delays in or abandoning of the adoption of decisions or detailed and proven plans on investment, production, costs, work force, commercialization or marketing that would have been taken or put in practice without the dumped or subsidized imports.

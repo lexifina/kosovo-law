@@ -1,0 +1,6 @@
+# Article 37
+Verifications
+1. The Ministry, when it deems it appropriate may undertake actions for checks, inspections and data verification from all the interested parties, relating to dumping, subsidy, injury and Kosovo interests. It may carry out verification visits to examine the records and to verify data and information supplied.
+2. In order to verify the obtained information and to get additional ones, the Ministry, if it deems it necessary, may conduct investigations also in other countries, provided that the enterprise concerned give their consent and the government of the country concerned has been officially notified and raises no objection. The authorities of the exporting country should be notified of the names and addresses of the enterprises to be visited and the dates of visits.
+3. The Ministry prepares the report on data verification for each company. This report will be completely at the disposal of the company, whereas a non-confidential version will be filed in public file.
+4. The companies concerned will be informed about the nature of the information and the data, which will be verified during the visit. Other requests for information and their verification may be made during the visits.

@@ -1,6 +1,0 @@
-# Neni 21
-Marrëveshja për ndërprerjen e hetimit të subvencionimit
-1. Komisioni Vlerësues mund të ndërpresë një hetim për subvencionimin e mallrave të një eksportuesi të caktuar, ose të mallrave me prejardhje ose të eksportuara nga një shtet i caktuar, me ose pa vendosjen e masave të përkohshme ose përfundimtare për ato mallra, nëse Komisioni Vlerësues merr pëlqimin vullnetar sipas të cilit:
-1.1. shteti i prejardhjes dhe/ose eksportit pajtohet të eliminojë subvencionin ose të marrë masa tjera për kundërbalancimin e subvencionit; ose
-1.2. eksportuesi pajtohet ose të ndryshojë çmimin ose të ndërpresë eksportimin në Kosovë gjatë periudhës sa ato eksporte përfitojnë nga një subvencion që u nënshtrohet masave kundërbalancuese, nëse Komisioni Vlerësues konstaton se zbatimi i kësaj marrëveshje do të eliminojë dëmet ndaj industrisë kosovare. Rritja e çmimit në bazë të një marrëveshjeje të tillë asnjëherë nuk mund të jetë më e lartë se rritja e nevojshme për balancimin e subvencionit dhe do të jetë më e ulët se shuma e subvencionit, nëse rritja më e ulët e çmimit është e përshtatshme për eliminimin e dëmit ndaj industrisë përkatëse të Kosovës.
-2. Këto marrëveshje rregullohen në bazë të nenit 13 të Rregullores së BE-së për masat kundërbalancuese.
