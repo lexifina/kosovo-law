@@ -1,4 +1,0 @@
-# Neni 2
-Pensionet e aftësisë së kufizuar
-2.1 Pensionet e aftësisë së kufizuar do t’u ofrojnë mbështetje financiare personave të përzgjedhshëm në përputhje me kriteret e parashtruara në këtë ligj dhe sipas mjeteve të ndara për këtë qëllim nga Buxheti i Konsoliduar i Kosovës.
-2.2 Ministria formon Komisionin Mjekësor për të përcaktuar përzgjedhshmërinë mjekësore për pensionet e aftësisë së kufizuar. Ministria cakton Administratën Pensionale të Kosovës për ta administruar këtë skemë të pensioneve të aftësisë së kufizuar. Komisionet mjekësore do ta kryejnë punën nën menaxhimin dhe kontrollin e autoritetit përkatës. Ministria mund të caktojë organe të tjera për të përcaktuar përzgjedhshmërinë dhe për t’i administruar pagesat e kësaj skeme dhe të parashohë me dispozitë, që Ministria drejtpërdrejt t’i administrojë komisionet mjekësore.
