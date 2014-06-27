@@ -1,0 +1,2 @@
+# Neni 25
+Ngarkesat vjetore sipas aktvendimeve do të paguhen në konton bankare të Komunës, në çdo bankë komerciale sipas faturimit të bërë nga zyrtari kompetent i komunës në afatin prej 30 ditësh nga dita e marrjes së aktvendimit, ndërsa në rastet e mospagesës do ti lëshohet urdhëresë e posaçme për pagesë dhe pas skadimit të afatit prej tetë (08) ditësh nga marrja e kësaj urdhërese, do t’i bëhet aktvendimi mbi ndalimin e ushtrimit të veprimtarisë dhe inicimi i procedurës ligjore – fletëparaqitja në Gjykatën Kompetente.

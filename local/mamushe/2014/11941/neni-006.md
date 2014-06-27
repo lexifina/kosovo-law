@@ -1,0 +1,2 @@
+# Neni 6
+Me prezantimin e dokumentit të dëshmisë, anëtarët e ngushtë të familjeve të dëshmorëve, invalidët e luftës dhe anëtarët e ngushtë të familjeve të tyre, veteranët e luftës dhe anëtarët e ngushtë të familjeve të tyre, anëtarët e ngushtë të familjeve të viktimave civile të luftës, personat me aftësi të kufizuara dhe personat që realizojnë ndihma sociale në Qendrën për Punë Sociale, këto kategori lirohen nga pagesa e të gjitha shërbimeve nga neni 4.1 deri neni 7.1 (përjashtimisht 4.3.1.dhe 4.3.2 ) të kësaj rregullore.

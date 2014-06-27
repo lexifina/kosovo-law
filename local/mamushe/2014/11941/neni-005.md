@@ -1,0 +1,2 @@
+# Neni 5
+Zyrtarët nga Drejtoria për Administratë të Përgjithshme janë përgjegjës për këto shërbime dhe mbetet për obligim që zyrtarët e autorizuar (Qendra për Shërbim Qytetarëve) të bëjnë vjeljen, lëshimin e dëftesave dhe dorëzimin e pagesave në fund të orarit të punës Zyrtarit të të Hyrave vetanake të Drejtorisë për Buxhet dhe Financa, kurse zyrtari i të hyrave pas barazimit me zyrtarin e zyrës së pritjes bënë dorëzimin në xhirollogarinë e komunës.
