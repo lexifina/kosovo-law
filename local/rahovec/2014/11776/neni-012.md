@@ -1,0 +1,3 @@
+# Neni 12
+Pas marrjes së vendimit mbi lejimin e tokës për shfrytëzimin dhe lëshimin e kushtet urbanistike – teknike për vendosjen e objektit të përkohshëm, shfrytëzuesi është i obliguar që të lidh kontratë me Drejtoria për shërbime publike , komunale në afat, kohëzgjatje për 1 vit, me qëllim të rregullimit të çështjes së pagesës së kontributeve për shfrytëzim e tokës shtetërore-publike sipas Rregullores komunale mbi tarifat dhe taksat.
+Parashtruesve të kërkesave i lejohet vendosja e tavolinave, frigoriferëve dhe sendeve të ngjashme para lokaleve hoteliere dhe lokaleve tjera afariste sipas afatit të përcaktuar në kërkesën e palëve, por jo në afat më të gjatë se 1 (një) vit.
