@@ -1,0 +1,2 @@
+# Neni 3
+Mbrojtja e burimeve ujore nëntokësore - ” Bunarllyk-Galeria 1 dhe Bunarllyk-Galeria 2, dhe tre puset e reja 1,2,3” në Prizren, Komuna e Prizrenit, është me interes publik dhe personat juridikë ose fizikë kanë përparësi në masat dhe procedurat që ndërmerren në zonën e mbrojtur të burimeve ujore nëntokësore - ” Bunarllyk-Galeria 1 dhe Bunarllyk-Galeria 2, dhe tre puset e reja 1,2,3” në Prizren, Komuna e Prizrenit.
