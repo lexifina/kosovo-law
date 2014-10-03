@@ -1,0 +1,6 @@
+# Neni 18
+18.1 Secilit tatimpagues, i cili nuk bën kërkesë për regjistrim të pronës së paluajtshme, ose nuk i siguron Komunës informacionin për tatimin në pronë, në pajtim me nenin 8.1, do t’i dërgohet një vërejtje përfundimtare dhe nëse ai nuk i përmbahet brenda 60 ditësh pas dërgimit të njoftimit, atij do t’i merret e drejta për të ushtruar ankesë lidhur me tatimin.
+18.2 Secili person, i cili refuzon të drejtën për inspektim, në pajtim me nenin 8.2, lejon inspektimin në afat prej 60 ditësh nga refuzimi i parë, ose e humb të drejtën për të ushtruar ankesë kundër tatimit.
+18.3 Secili tatimpagues, i cili nuk e paguan tatimin në pronë në datën ose para datës së përcaktuar për pagesë, do t’i shtrohet dënimit në një shumë të hollash që është e barabartë me 5% të obligimit tatimor.
+18.4 Secili tatimpagues, i cili nuk e paguan tatimin në pronën brenda 60 ditësh pas ditës së fundit të përcaktuar për pagesë, do t’i nënshtrohet një dënimi plotësues në një shumë të hollash që është e barabartë me deri në 10% të obligimit tatimor.
+Kamata
