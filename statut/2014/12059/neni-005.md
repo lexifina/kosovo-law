@@ -1,0 +1,2 @@
+# Neni 5
+Kuvendi i Komunës dhe Kryetari i Komunës, ndajnë dekorata, tituj nderi, mirënjohje dhe shpërblime për individ dhe personave juridikë, në përshtatje me kontributet dhe vlerat, rolin dhe ndikimin e tyre në opinionin publik. Me rregullore të veçantë përcaktohen kushtet dhe mënyra e ndarjes së dekoratave, titujve të nderit, mirënjohjeve dhe shpërblimeve. Dhënia e mirënjohjeve dhe shpërblimeve në vlerë financiare, nuk duhet të tejkalojë vlerën prej 500€.

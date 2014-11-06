@@ -1,0 +1,2 @@
+# Neni 74
+Me rastin e zgjedhjes, Kryetari i Komunës e bën betimin apo deklaratën solemne përpara anëtarëve të kuvendit Komunës. Teksti i betimi është më sa vijon: “Betohem (ose deklaroj solemnisht) se do t’i kryej detyrat dhe do t’i ushtroj kompetencat e mia si Kryetar i Komunës së Gjilanit, me nderë, besnikëri, paanshmëri, me ndërgjegje dhe në pajtim me ligjin, në mënyrë që të sigurohen kushte për një jetë të qetë për të gjithë” Kryetari që dështon të japë betimin brenda një (1) muaji nga certifikimi i rezultateve të zgjedhjeve e humb mandatin.
