@@ -1,0 +1,2 @@
+Në mbështetje të nenit 144 të Kodit Doganor dhe të Akcizave Nr. 03/L-109, të nenit 8, paragrafi 1.4. të Rregullores nr. 02/2011 për Fushat dhe Përgjegjësitë Administrative të Zyrës së Kryeministrit e Ministrive, si dhe nenit 38, paragrafit 6 të Rregullores së Qeverisë Nr. 09/2011, Ministri i Financave nxjerr:
+UDHËZIM ADMINISTRATIV MF- NR.05/2014 PËR PLOTËSIMIN DHE NDRYSHIMIN E UDHËZIMIT ADMINISTRATIV NR. 11/2009 PËR IMPLEMENTIMIN E KODIT DOGANOR DHE TË AKCIZAVE, TË PLOTËSUAR DHE NDRYSHUAR ME UDHËZIMIN ADMINISTRATIV NR. 05/2010 DHE ME UDHËZIMIN ADMINISTRATIV NR. 06/2013
