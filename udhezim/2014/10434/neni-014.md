@@ -1,0 +1,7 @@
+# Neni 14
+1.Prodhuesi me qëllim të kryerjes së aktiviteteve të cilat bëjnë pjesë në procedurën për vlerësimin e konformitetit të produkteve ndërtimore duhet të:
+1.1.Ketë njësi të veçantë që do të kryejë vetëm aktivitetet e përcaktuara më parë (laboratorët testues dhe ose kontrollin e brendshëm të përhershëm të prodhimit);
+1.2.Emëroj personin përgjegjës për punën e njësisë në të cilën kryhen aktivitete të veçanta në procedurën e vlerësimit të konformitetit të produktit ndërtimor, dhe
+1.3.Vendos një sistem rregullash të shkruara për kryerjen e aktiviteteve të caktuara në procedurën e vlerësimit të konformitetit të produkteve ndërtimore, të cilat duhet të jenë të tilla qëtë sigurojnë rregullimet teknike, saktësinë, si dhe objektivitetin në rezultate të fituara dhe konformitetin me kërkesat e standarde përkatëse për produkte ndërtimore (lënda dhe shpeshtësia e testimit, pajisjet e kalibruara, mbikëqyrja e procesit të prodhimit, etj.).
+2. Prodhuesi mund t’ia besojë ekzekutimin e aktiviteteve në procedurën e vlerësimit të konformitetit të produkteve të ndërtimit subjektit tjetër i cili i plotëson kushtet në paragrafin 1 të këtij neni.
+3. Subjekti nga paragrafi 2 i këtij neni, do të kryej aktivitetet e besuara në emër dhe për llogari të prodhuesit, ndërsa për kryerjen e atyre aktiviteteve në raport me Ministrinë dhe personat e autorizuar ka pozitë dhe obligime të njëjta sikurse prodhuesi.

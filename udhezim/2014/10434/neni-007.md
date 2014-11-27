@@ -1,0 +1,3 @@
+# Neni 7
+1.Subjektit të autorizuar për vlerësimin e konformitetit nuk i lejohet të kryej aktivitetet e prodhimit, përfaqësuesit të autorizuar, importit apo distribuimit të produkteve ndërtimore dhe lëndës së parë për prodhimin e produkteve ndërtimore.
+2.Subjekti i autorizuar i cili për prodhuesin kryen aktivitetet e vlerësimit të konformitetit për kontrollin e produkteve të ndërtimit ose të një grupi të produkteve të ndërtimit, nuk i lejohet që për të njëjtin produkt të kryejaktivitete të tjera të vlerësimit të konformitetit ose të lëshojë certifikatën e kontrollimit të brendshëm të prodhimit për produktet e ndërtimit, përkatësisht certifikata ekonformitetit të produkteve ndërtimore,për të cilin subjekti është i autorizuar.

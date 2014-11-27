@@ -1,0 +1,6 @@
+# Neni 5
+1. Certifikata e kontrollit te brendshëm te prodhimit apo certifikatat e konformitetit të lëshuar jashtë vendit duhet të njihet me qellim qe ta zëvendësoj certifikatën e lëshuar komform dispozitave te këtij Udhëzimi Administrativ.
+2.Vlefshmërinë, e përcaktuar në paragrafin 1 të këtij Neni, e kryen një subjekt i autorizuar sipas dispozitave të këtij Udhëzimi Administrativ për aktivitetet e lëshimit të certifikatës së kontrollit të brendshëm të prodhimit, përkatësisht certifikatën e konformitetit.
+3. Pa marrë parasysh paragrafin 2 të këtij neni, nëse për disa fusha të produkteve nuk ka subjekt të autorizuar për të lëshuar certifikatën e kontrollit të brendshëm të prodhimit, certifikatën e konformitetit dhe vlefshmërinë e saj të përcaktuar në paragrafin 1 të këtij Neni, duhet ta vlerësoj komisioni i përcaktuar në nenin 18 të këtij Udhëzimi Administrativ.
+4. Në rastin e referuar në paragrafin 3 të këtij Neni, procedurat, kriteret dhe dokumentet në lidhje me aktivitetet e kërkuara për vlerësimin e konformitetit për vlefshmërinë përcaktohen me rregulloren për dokumentet e konformitetit të produkteve ndërtimore.
+5.Në rastin e referuar në paragrafin 3 të këtij Neni, shuma e kostos së validimit përcaktohet me këtë udhëzim.

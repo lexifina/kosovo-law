@@ -1,0 +1,7 @@
+# Neni 4
+1. Subjekti i autorizuar i cili lëshon certifikatën e konformitetit duhet të përmbush kërkesat sipas Standardit SK EN ISO/IEC 17065:2012.
+2. Në qoftë se për një fushë të caktuar të produkteve të ndërtimit nuk ka trup (certifikues) për verifikimin e konformitetit të produkteve të ndërtimit sipas kërkesave të Standardit SK EN ISO/IEC 17065:2012, atëherë autorizohet laboratori testues sipas kërkesave të standardit SK EN ISO/IEC 17025:2007 që të kryej aktivitetet e testimit të produktit të ndërtimit për dhënien e certifikatës të konformitetit për produktin e ndërtimit.
+3. Autorizimi, nga paragrafin 2 i këtij neni, lëshohet nga Ministri/ja me propozimin e komisionit të ekspertëve për produktet ndërtimore të referuara në Nenin 19, paragrafi 1 të këtij Udhëzimi Administrativ.
+4. Procedurat dhe kriteret për dhënien e autorizimit, të referuara në paragrafin 2 të këtij Neni, përcaktohen me këtë Udhëzimin Administrativ.
+5.Autorizimi për kryerjen e punëve ne vlerësimin e konformitetit te produkteve ndërtimore dhe autorizimi për kryerjen e punëve dhe dhënien e certifikatave, referuar në paragrafin 2 të këtij Neni, duhet të lëshohet ne afat prej një viti dhe mundë të vazhdohet për periudhë të njëjtë.
+6. Laboratori testues i autorizuar, në paragrafin 2 të këtij Neni, lëshon raport testimi sipas metodave të vlerësimit, respektivisht vlerësimin e konformitetit të përcaktuar me specifikim teknik.
