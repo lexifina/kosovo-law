@@ -1,0 +1,7 @@
+# Neni 16
+Vlerësimet buxhetore për legjislacionin e propozuar
+1. Kurdo që propozohet një legjislacion i ri apo strategji, ministria ose organi propozues, paraprakisht duhet të dorëzojë legjislacionin e ri apo strategjinë së bashku me një Deklaratë mbi Vlerësimin e Ndikimit Buxhetor dhe Ekonomik ekzistues në Ministrinë e Financave, për të cilën bëhet një vlerësim detal i ndikimit që mund të ketë legjislacioni i propozuar në Buxhetin e Përgjithshëm të Kosovës dhe ekonominë Kosovare.
+2. Propozuesi i një projektligji të ri ose projektligji për ndryshim dhe plotësim të një ligji ekzistues, duhet të merr një Deklaratë buxhetore nga Ministria e Financave lidhur me ndikimet buxhetore të projektligjit të ri ose projektligjit për ndryshim dhe plotësim të ligjit ekzistues, para dorëzimit të tij në Qeveri dhe Kuvend, për shqyrtim dhe miratim.
+3. Departamenti i buxhetit sipas nevojës në bashkëpunim me Departamentin e Politikave Ekonomike, shqyrtojnë
+Deklaratën mbi Ndikimin Buxhetor dhe Ekonomik të projektligjit të ri ose projektligjit për ndryshim dhe plotësim të ligjit ekzistues të propozuar dhe paraqesin opinionin e tyre të pavarur lidhur me këto çështje para Qeverisë ose Kuvendit, kur propozues është Kuvendi.
+4. Çdo iniciativë e re për shpenzime, përfshirë këtu legjislacionin e ri të propozuar, që nuk ka ndarje buxhetore të përfshirë në tabelat e bashkëngjitura, nuk do të marrë ndarjen buxhetore përveç nëse zbatohen shkurtime përkatëse në ndarjet tjera buxhetore në vlerë të njëjtë.

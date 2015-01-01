@@ -1,0 +1,5 @@
+# Article 3
+Budgetary appropriations of Kosovo General Budget
+1. Budgetary appropriations from the Kosovo Fund for the Fiscal Year 2015, as presented in Table 3.1, Table 3.1A and Table 4.1 attached to this Law shall be approved based on this Law.
+2. The Minister shall maintain a record of all approved budgetary appropriations, transfers of budgetary appropriations or other approved adjustments to budget appropriations made during Fiscal Year 2015 through the KFMIS, and supplemented if it is necessary by other records. At least twice a year, during the review of six (6) months report and final reporting on closure of the fiscal year, the Minister based on this register shall report on budgetary amendments and adjustments occurred during the Fiscal Year 2015.
+3. Any time when it is requested by the Assembly, the Minister shall, on behalf of the Government, present to the Assembly a comprehensive report detailing and reconciling the approved budgetary appropriation for 2015, all subsequent transfers and other changes and the final budgetary appropriations for the Fiscal Year 2015.

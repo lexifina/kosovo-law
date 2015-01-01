@@ -1,0 +1,3 @@
+# Neni 18
+Fondet për ruajtjen e asistencës emergjente për likuiditet
+Në pajtim me parashikimet e specifikuara në Tabelën 1, përfshirë edhe financimin nga Institucionet Financiare Ndërkombëtare (Fondin Monetar Ndërkombëtar dhe Bankën Botërore), Ministri i Financave bazuar në Memorandumin e Mirëkuptimit të nënshkruar me Bankën Qendrore të Kosovës, do të ndajë vlerën prej dyzetegjashtë milion (46.000.000) Euro nga bilanci bankar i Qeverisë si rezerve për ruajtjen e asistencës emergjente për likuiditet të sistemit financiar. Këto fonde mund të shfrytëzohen vetëm në pajtim me Memorandumin e Mirëkuptimit për Asistencën emergjente për likuiditet të nënshkruar ndërmjet Guvernatorit të Bankës Qendrore, Ministrit të Financave dhe Kryesuesit të Komisionit për Buxhet e Financa.
