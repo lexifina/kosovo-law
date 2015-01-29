@@ -1,0 +1,3 @@
+# Neni 2
+Neni 22 paragrafi 1 i ligjit bazik fshihet dhe riformulohet si në vijim:
+1. Plani alternativ për riorganizim - brenda tetëmbëdhjetë (18) muajve pas datës së publikimit të Njoftimit, për afatin e parashtrimit të kërkesave, në pajtim me nenin 17 të këtij ligji, administratori përgatit Planin e Propozuar për Riorganizim dhe e dorëzon atë para Komisionit të Kreditorëve. Një kopje e këtij plani i dorëzohet në të njëjtën kohë gjykatës. Gjykata mund të zgjasë periudhën prej tetëmbëdhjetë (18) muajsh, në maksimum prej tridhjetegjashtë (36) muaj, pas një apo më shumë kërkesave të dorëzuara në Gjykatë nga Administratori, përfshirë arsyet për një kërkesë të tillë.

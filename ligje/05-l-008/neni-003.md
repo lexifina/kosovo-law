@@ -1,0 +1,2 @@
+# Neni 3
+Neni 41 paragrafi 1, i ligjit bazik, fshihet dhe riformulohet si në vijim: Gjykata lëshon vendim për fillimin e procedurave të likuidimit në bazë të Ligjit të ndryshuar për Agjencinë Kosovare të Privatizimit, pas kalimit të periudhës prej tetëmdhjetë (18) muajsh nga afati maksimal i lejuar me nenin 22 të ligjit bazik dhe me pajtim me neni 2 të këtij ligji dhe, në rast se edhe pas këtij afati:

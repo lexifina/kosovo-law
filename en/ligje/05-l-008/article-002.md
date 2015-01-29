@@ -1,0 +1,3 @@
+# Article 2
+Article 22 paragraph 1. of the basic Law shall be deleted and reformulated as follows:
+1. Alternative reorganization plan - within eighteen (18) months after the date of publishing the Claims Deadline Notice in accordance with Article 17 of this law, the Administrator shall prepare a Proposed Reorganization Plan and shall submit such plan to the Creditors Committee. A copy of such plan shall be simultaneously filed with the Court. The Court may extend the referenced eighteen (18) month period for up to a maximum of thirty-six (36) months upon one or more requests submitted to the Court by the Administrator setting forth the reasons for such request.
