@@ -1,0 +1,3 @@
+# Neni 1
+Me këtë rregullore caktohet lartësia e tarifave, ngarkesave dhe gjobave për shërbime nga veprimtaritë komunale që do t’i paguajnë personat fizikë dhe juridikë në emër të shërbimeve komunale, lëshimit të dokumenteve publike, përpilimit të shkresave dhe ofrimit të shërbimeve profesionale sipas kërkesës së palëve apo sipas detyrës zyrtare, lejeve të punës për ushtrimin e veprimtarisë afariste dhe tregtare, lejeve për punë profesionale, për pronësi të automjeteve, të përdorimit apo shfrytëzimit të pronës Komunale, ngarkesave për ndërtimin dhe rrënimin e objekteve, për shfrytëzimin e burimeve natyrore, gjobat nga trafiku dhe gjobat për shkeljen e rregulloreve Komunale.
+II LARTËSIA E TAKSAVE DHE NGARKESAVE
