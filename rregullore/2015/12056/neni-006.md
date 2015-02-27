@@ -1,0 +1,17 @@
+# Neni 6
+Hyrja ne fuqi
+Kjo rregullore hyn në fuqi 15 ditë pas regjistrimit në zyrën e protokollit të MAPL-së dhe publikimit në gjuhën zyrtare në ueb faqen e Komunës.
+01.Nr. 016-122568 Kryesuesja e Kuvendit Gjilan , më 29.12.2015 _______________________ Valentina Bunjaku Rexhepi
+Arsyetimi
+Rregullorja mbi ndryshimet dhe plotësimet e rregullores për taksa, ngarkesa dhe gjoba komunale, 01. nr. 016-26468 e dt. 11.03.2015 është i bazuar në dispozitat e neneve 8, 12-16 të Ligjit për Financat e Pushtetit Lokal nr. 03/L-049, (GZ. e Republikës së Kosovës, nr. 27 e datës 03.06.2008) si dhe dispozitat e Statutit të Komunës së Gjilanit 01. nr. 016-126211 të datës 06.11.2014. Me këtë Projekt parashihet ndryshimi, plotësimi dhe harmonizimi i rregullores aktuale në dispozitat që prekin shërbimet publike komunale, shërbimet ne bujqësi sa i përket kontrollit të therjes së kafshëve dhe në kadastër.
+- Në shërbimet publike kemi harmonizim të taksave dhe riformulim të tyre e sidomos në infrastrukturë me qellim që të ruhet infrastruktura gjegjësisht prerja apo gropimi i rrugëve etj;
+- Nga Drejtoria e Bujqësisë janë caktuar tarifat për shërbimet që kryhen në kontrollin e therrjës së kafsheve në teritorin e komunës së Gjilanit nga isnpektoret e veterinarisë.
+- Në drejtorinë e kadastrit, gjeodezisë dhe pronës janë fshirë tarifat sa i përket lidhur me dhenien e tokës në shfrytëzim.
+Arsyetimi për fshirjen e këtyre tarifave është se me nxjerrjen e ligjit nr. 04/L-040 të dt. 22 nëntor 2012 i cili përcakton se prona komunale ipet në shfrytëzim në bazë të barabarsisë së palëve e cila realizohet me anë të ankandit publik. Këto tarifa që kanë figuruar në rregulloren për taksa, tarifa dhe gjoba janë jorelevante dhe si të tilla nuk duhet të parashihen më dhe është propozuar të fshihen. Lidhur me projekt-ndryshimin e kësaj rregulloreje, në pajtim nenin 17 dhe 18 të Statutit të Komunës së Gjilanit dhe në zbatim të nenit 4 të Rregullores për Transparencë në Komunë dhe nenit 7 të Udhëzimit Administrativ nr. 05/2013 për Transparencë në Komuna, janë zhvilluar edhe procedurat e dëgjimi publik me qytetarë me datën 27 tetor 2015 ku janë prezantuar qëllimet e ndryshimit të rregullores dhe efektet juridike që mund të ketë.
+Kërkesat e qytetarëve sa i përket tarifave dhe taksave ishin si në vijim:
+- Kërkesa që të shqyrtohet mundësia që KK-së të lirojë nga taksat lidhur për bartjen e pronësisë për trojet në ish Gavran për të cilat ende një pjesë e tyre figurojnë formalisht në emër të Komunës së Gjilanit, - Dhe të hiqet tarifa sa i përket kërkesës/ofertës formale që i bahet komunës për blerjen lidhur me transaksionet për shitblerjen e paluajtshmërive kur dihet se komuna asnjë kërkesë për blerjen e ndonjë paluajtshmërije të ofertuar nga ndonjë person nuk është blerë.
+Për të dyja këto propozime duhet të paraqitet një arsyetim nga vetë Drejtoria për Gjeodezi, kadastër dhe pronë lidhur me atë se si të veprohet me këto dy kërkesa. Aktualisht nuk ka ndonjë propozim konkret nga drejtoria përkatëse.
+Duke u bazuar
+Andaj bazuar në këtë arsyetim dhe në pajtim me nenin 58 shkronja h) të Ligjit për vetëqeverisjen Lokale dhe në pajtim me nenin 77 nënparagrafi 1.8 të Statutit të Komunës së Gjilanit i
+PROPOZOJ:
+Kuvendit të Komunës së Gjilanit në pajtim me rekomandimin e Komitetit për Politikë dhe Financa dhe në pajtim me nenin 40.2 pika a) të LVL-së dhe nenit 38 nënparagrafi 1.3 të statutit të Komunës së Gjilanit, të miratojë Rregulloren mbi Ndryshimin dhe Plotësimin e Rregullores për Organizimin, Kompetencat dhe Përgjegjësitë e Organeve të Administratës Komunale.
