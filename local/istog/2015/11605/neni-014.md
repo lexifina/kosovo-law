@@ -1,0 +1,8 @@
+# Neni 14
+Lirimi nga pagesa e taksave
+1. Nga pagesa e taksave për kryerjen e shërbimeve nga Drejtoria për Administratë, nga Drejtoria për Shëndetësi dhe Mirëqenie Sociale, dhënia e certifikatave mbi gjendjen ekonomike, dhe vërtetimeve për tatimin në pronë, lirohen: anëtarët e familjeve të Dëshmorëve të Luftës, familjeve të viktimave civile të luftës, invalidët e luftës, veteran të luftës, pensionistët, shfrytëzuesit e ndihmës sociale, personave me aftësi të veçanta, dhe studentët.
+2. Personat e verbër lirohen nga pagesa e të gjitha taksave komunale që i parasheh kjo Rregullore, bazuar në nenin 6 të Ligjit për personat e verbër Nr.04/L-092 të vitit 2011.
+3. Kategoritë e cekura në paragrafin 1 të këtij neni, nuk lirohen nga dënimi me gjobë sipas nenit 63 të Ligjit për Gjendjen Civile me Nr. 04/L-003 të vitit 2011.
+4. Nga pagesa e taksës për parashtrimin e kërkesave të përcaktuara me nenin 2, paragrafi 5 dhe nënparagrafin 5.1 të kësaj rregulloreje, lirohen të gjitha kategoritë e përcaktuara në paragrafin 1 të këtij neni, përfaqësuesit e komuniteteve të cilët parashtrojnë kërkesë në interes të komunitetit, të gjithë ata që parashtrojnë kërkesë për ndihmë shëndetësore, për ndihmë me rastin e vdekjes së anëtarit të ngushtë të familjes dhe ndihma për dëmet e shkaktuara nga fatkeqësitë e ndryshme natyrore dhe të tjera.
+5. Nga pagesa e taksës të përcaktuar me nenin 6, paragrafi 4 dhe nenëparagrafin 4.1 lirohen personat fizik dhe juridik për organizimin e koncerteve për qëllime humanitare.
+6. Peronat të cilët u përkasin kategorive të lartcekura janë të obliguar që të sjellin dëshmi përkatëse për tu liruar nga pagesa.
