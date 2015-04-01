@@ -1,0 +1,7 @@
+# Neni 1
+Neni 37, paragrafi 1, zëvendësohet me sa vijon:
+37.1 Transportuesit, shpediterët e mallrave, ofruesit e shërbimeve të trajtimit në tokë, agjentët e trajtimit të mallrave dhe operatorët që nuk kanë Certifikatë për operim ajror (AOC) të lëshuar dhe që nuk veprojnë në përputhje me kërkesat e Aneksit III të Rregullores (EEC) 3922/91 (të EU-OPS), duhet t’i zbatojnë plotësisht dispozitat e kësaj rregulloreje, dhe për të vazhduar me kryerjen e aktiviteteve që lidhen me transportin e mallrave të rrezikshme përmes ajrit, do të zotërojnë një certifikatë të mallrave të rrezikshme të lëshuar nga AACK, në pajtim me këtë rregullore jo më vonë se 30 qershor 2015.
+Neni 37, paragrafi 3, zëvendësohet me sa vijon:
+37.3 Operatori i caktuar i postës do t’i nënshtrohet plotësisht dispozitave të neneve 20.5, 25.6 dhe 25.11 të kësaj rregulloreje, jo më vonë se 30 qershor 2015.
+Neni 37, paragrafi 4, zëvendësohet me sa vijon:
+37.4 Ofruesit e trajnimit duhet t’i zbatojnë plotësisht dispozitat e kësaj rregulloreje, në mënyrë që të vazhdojnë kryerjen e aktiviteteve që lidhen me trajnimin mbi mallrat e rrezikshme dhe duhet të posedojnë certifikatën e ofruesit të shërbimeve të trajnimit të lëshuar në pajtim me këtë rregullore, jo më vonë se 30 qershor 2015.
