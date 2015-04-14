@@ -1,0 +1,6 @@
+# Neni 7
+Afatet kohore për dorëzimin e ankesës
+1. Ankesat dorëzohen brenda tridhjetë (30) ditëve nga dita kur paraqitet shkaku për ankesë ose në afat prej tridhjetë (30) ditësh nga dita kur ndërpritet sjellja - veprimi ndaj të cilit ushtrohet e drejta e ankesës.
+2. Në ato raste kur pjesëtari FSK-së për shkaqe të arsyeshme nuk ka mundur apo nga rrethana të ndryshme është penguar që të respektojë afatin kohor për paraqitje të ankesës sipas paragrafit 1 të këtij neni, ankesa e parashtruar jashtë afatit kohor mund të shqyrtohet veçanërisht nëse Autoriteti Vendimmarrës vlerëson se do të ishte e dobishme të shqyrtohet ankesa, me kusht që kërkesa e pjesetarit për shqyrtim të ankesës të bëhet brenda dhjetë (10) ditëve nga dita kur janë larguar pengesat dhe të jetë e argumentuar se afati është humbur pa fajin e tij. Këshillat mund të kërkohen edhe nga ZLKFT.
+3. Në rast se një pjesëtar është në mision jashtë vendit, apo ndërkohë dërgohet jashtë vendit dhe gjatë zbarkimit i skadon afati për dorëzimin e ankesës, atëherë ankesa do të shqyrtohet nëse vlerësohet se përgatitja dhe dorëzimi i ankesës nuk ka qenë e mundur gjatë asaj kohe.
+4. Përjashtimisht nga paragrafi 3 i këtij neni ankesa duhet të dorëzohet brenda afatit prej tridhjetë (30) ditësh pas kthimit nga misioni/operacioni.
