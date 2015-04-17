@@ -1,0 +1,4 @@
+# Article 2
+Scope 1. Provisions of this law shall be applicable to each person that participates or organizes, recruits, finances, incites, leads or trains persons or groups of persons with the aim of joining or partici- pating in a foreign army or police, in foreign paramilitary and parapolice formations, in organized groups or individually, in any other form of armed conflict outside the territory of the Republic of Kosovo.
+2. Provisions of this law shall not apply to citizens of the Republic of Kosovo who have citizenship of a foreign country, and are part of the army or military formation of the respective country, or who serve in military formations under the control of internationally recognized governments or international organizations.
+3. Provisions of this law shall not apply for structures of security sector of the Republic of Kosovo, which based on law act outside the territory of the Republic of Kosovo.

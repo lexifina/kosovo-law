@@ -1,0 +1,4 @@
+# Neni 2
+Fushëveprimi 1. dispozitat e këtij ligji zbatohen ndaj çdo personi i cili merr pjesë apo organizon, rekruton, financon, nxit, udhëheqë apo trajnon personat ose grupe të personave me qëllim të bashkimit apo pjesëmarrjes në ushtrinë ose policinë e huaj, në formacionet e jashtme paraushtarake ose parapolicore, në organizimet grupore apo individuale, në çfarëdo forme të konflikteve të armatosura jashtë territorit të Republikës së Kosovës.
+2. dispozitat e këtij ligji nuk zbatohen ndaj shtetasve të Republikës së Kosovës të cilët kanë shtetësinë e shtetit të huaj, dhe janë pjesë e ushtrisë ose formacionit ushtarak të tyre, ose shërbejnë në formacionet ushtarake nën kontrollin e qeverive ndërkombëtarisht të pranuara apo organizatave ndërkombëtare.
+3. dispozitat e këtij ligji nuk zbatohen për strukturat e sektorit të sigurisë të Republikës së Kosovës, të cilat në bazë të ligjit veprojnë jashtë territorit të Republikës së Kosovës.
