@@ -1,0 +1,4 @@
+# Neni 6
+Tarifat për Delegimin e Mbikëqyrjes sipas Nenit 83bis të Konventës së Çikagos
+6.1 Kur mbikëqyrja e sigurisë së një mjeti ajror i delegohet një shteti anëtar të HPEA- së sipas dispozitave të nenit 83bis të Konventës së Çikagos, atëherë do të mblidhet një tarifë vjetore prej (€) 8 për 500 kg të MTOW. Tarifa do të llogaritet nga e njëjta datë sikurse edhe data e ripërtëritjes apo vazhdimit të certifikatës të vlefshmërisë ajrore ose data e rilëshimit të Certifikatës së Verifikimit të Vlefshmërisë Ajrore për mjetin ajror në fjalë.
+6.2 Kur mbikëqyrja e sigurisë së një mjeti ajror i delegohet një shteti anëtar të ICAO- s, e i cili nuk është shtet anëtar i HPEA-së, sipas dispozitave të nenit 83bis të Konventës së Çikagos, atëherë do të mblidhet një tarifë vjetore prej (€) 15 për 500 kg të MTOW. Tarifa do të llogaritet nga e njëjta datë sikurse edhe data e ripërtëritjes apo vazhdimit të certifikatës së verifikimit të vlefshmërisë ajrore për mjetin ajror në fjalë.
