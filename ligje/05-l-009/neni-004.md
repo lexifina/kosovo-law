@@ -1,0 +1,4 @@
+# Neni 4
+Neni 11 i ligjit bazik, pas paragrafit 11.2 shtohen paragrafët 11.3 dhe 11.4 me tekstin si në vijim:
+11.3. Me propozim të Qeverisë, Kuvendi i Kosovës mund të marrë vendim që ta heqë nga kompetenca e Agjencisë Kosovare të Privatizimit ndonjë ndërmarrje shoqërore, ose njësi të caktuara organizative të një ndërmarrjeje shoqërore, përfshirë asetet e tyre dhe ta autorizojë Qeverinë që këtë ndërmarrje shoqërore, përkatësisht njësi të caktuara organizative të një ndërmarrjeje shoqërore, t’i regjistrojë si ndërmarrje publike.
+11.4. Me rastin e regjistrimit si ndërmarrje publike, ndërmarrja në fjalë i nënshtrohet ligjeve që zbatohen për ndërmarrjet publike dhe asetet e ndërmarrjes shoqërore, përkatësisht të njësisë së caktuar organizative të ndërmarrjes shoqërore do të konsiderohen si pjesë e Ndërmarrjes Publike.

@@ -1,0 +1,4 @@
+# Article 4
+Article 11 of the basic Law, after paragraph 11.2 there are added paragraphs 11.3 and 11.4 with the following text:
+11.3. At the Government’s proposal, the Assembly of Kosovo may issue a decision to remove from the competencies of Kosovo Privatization Agency any socially-owned enterprise, or certain organizational units of a socially-owned enterprise, including their assets, and to authorize the Government to register this socially-owned enterprise, respectively certain organizational units of a socially-owned enterprise as publicly-owned enterprises.
+11.4. Upon registration as a publicly-owned enterprise, said enterprise shall be subject to laws applied for publicly-owned enterprises, and the assets belonging to the socially-owned enterprise, respectively to the certain organizational unit of the socially-owned enterprise, shall be considered part of the Publicly-Owned Enterprise.
