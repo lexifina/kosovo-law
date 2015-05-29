@@ -1,0 +1,8 @@
+# Neni 5
+Vendi i varrezave
+1. Toka (lokacioni) pdr vaneza n€ qytet dhe n€ vendbanime planin urban, ndersa ne vend banime dera-fshatrat caktohet ne pe 2. Para caktimit te vendit (lokacionit) duhet pasur kujdes veganeri puseve prej te cilave banoret furnizohen me uji, ne mbrojtjen sanitare per mbrojtj en e vaffezave.
+3. N€se vanezat ekzisfuese permbushen me vaffe, kerkesen per I bejne banoret e qytetit apo te fshatit, kerkesa i parashtrohet Dr dhe Mbrojtje te Mjedisit.
+4. Kuvendi i Komun€s merr vendim p€r caktimin lokacionit permbushur lokacioni i vjeter, ne qytet b€het ne pajtim me planin pajtim me planin hapesinor.
+5. Kuvendi i Komunds me propozimin e komunitetit ose me per interesa te pdrgjithshme, mer€ vendimin per zhvendosjen e v tyre q€ jane jashtd perdorimit, me kusht qe zhvendosja dhe riva ndertimin e varrezave t€ reja ose n€ varrezat tjera ekzisfuese. 6' Shpenzimet e zhvendosjes se varrezave ne tersi apo nj€ pjes€ te 7. Drejtoria per Urbanizdm,Kadast€r dhe Mbrojtje te Mjedisit e I te varrezave.
+8. Me projekt n€ vaneza parashihen hapesirat, mrgdt, varret, gje sherbejne per kryerjen e ceremonise se varrimit, vend-varret sheno 9. Rregullimin dhe mirembajtj en e varrezave e bene DSHPMSH per te gjitha vend-varrezat.
+10. Komuna gjate planifikimit te buxhetit per vitin vijues planifi mirembajtjen e vrurezave. I L Kleriket fetar jane te obliguar te mbajne evidencdn e vareve dhe daten e varrimit. 12.PEr vendosjen dhe riparimin e permendoreve n€ vend-varr kerk 13. Kryerja e pundve sipas paragrafit 12 te ketij neni pa lejen e k eshte i obliguar qd te njoftoje inspektcionin komunal per marrjen e 14. Komuna bene pagesen e shpenzimeve td varrimit ne vlere prej familje as farefis, qletaret qe nuk kan€ qene nen€ perkujdesj asistenc€ sociale.
