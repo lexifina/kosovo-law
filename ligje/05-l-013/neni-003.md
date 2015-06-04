@@ -1,0 +1,3 @@
+# Neni 3
+Dokumentet e bashkëngjitura në Shtojcën nr. 1 të këtij ligji është e bashkëngjitur marrëveshja ndërmjet qeverisë së Republikës së Kosovës dhe qeverisë së Shteteve të bashkuara të amerikës për të përmirësuar pajtueshmërinë e rregulloreve tatimore në nivel ndërkombëtar dhe zbatimin e rregulloreve FatCa. LiGJi nr. 05/L -013 PËR RatiFiKimin e ma RËVeShJeS ndËRmJet qeVeRiSË SË RePUbLiKËS SË KOSOV S dhe qe eRiSË S ShteteVe tË baShKUaRa tË ameRiKËS PËR tË PËRmiRËSUaR PaJtUeShmËRinË e RReGULLOReVe tatimORe nË niVeL ndËRKOmbËtaR dhe Zbatimin e RReGULLOReVe FatCa
+Ligji Nr. 05/L -003 PËR MBiKËQYRjEN ELEKTRONiKE TË PERSONAVE, TË CiLËVE U KUFiZOHET LËViZjA ME VENDiM TË gjYKATËS

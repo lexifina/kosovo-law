@@ -1,0 +1,3 @@
+# Article 3
+Documents attached In Annex No. 1 of this Law is attached Agreement between the Government of the Republic of Kosovo and the Government of the United States of America to improve compliance of tax regulations at international level and implementation of FATCA regulations. LAw No. 5/L -013 ON RATIFICAT ON OF THE AGREEMENT BETWEEN THE GOVER MENT OF THE REPUBLIC OF KOSOVO AND THE GOVERNMENT OF THE UNITED STATES OF AMERICA TO IMPROVE COMPLIANCE OF TAX REGULATIONS AT THE INTERNATIONAL LEVEL AND IMPLEMENTING OF FATCA REGULATIONS
+Law No. 05/L -003 ON THE ELECTRONIC SUPERVISION OF PERSONS wHOSE MOVEMENT IS LIMITED BY THE DECISION OF THE COURT

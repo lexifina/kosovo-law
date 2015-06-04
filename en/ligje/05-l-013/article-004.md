@@ -1,0 +1,2 @@
+# Article 4
+Entry into force This law shall enter into force on the day of publication in the Official Gazette of the Republic of Kosovo. Law No.05/L-013 7 May 2015 Promulgated by Decree No. DL- 008-2015, dated 27.05.2015, President of the Republic of Kosovo Atifete Jahjaga. A 1 RATIFICATION OF THE AGREEMENT B TWEEN THE GOVERNMENT OF THE REPUBLIC OF KO VO AND THE GOVERNMENT OF THE UNITED STATES OF AMERICA TO IMPROVE COMPLIANCE OF TAX REGULATIONS AT THE INTERNATIONAL LEVEL AND IMPLEMENTING OF FATCA REGULATIONS

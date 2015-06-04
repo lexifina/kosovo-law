@@ -1,0 +1,2 @@
+# Neni 4
+Hyrja në fuqi Ky ligj hyn në fuqi ditën e publikimit në Gazetën Zyrtare të Republikës së Kosovës. Ligji Nr. 05/L -013 7 maj 2015 Shpallur me dekretin Nr. DL- 008-2015, datë 27.05.2015 nga Presidentja e Republikës së Kosovës Atifete Jahjaga. GJ n 1 RatiFiKimin e maRRËVeShJeS ndË mJet qeVeRiSË SË RePUbLiKËS SË KOSOVËS dhe qeVeRiSË SË ShteteVe tË baShKUaRa tË ameRiKËS PËR tË PËRmiRËSUaR PaJtUeShmËRinË e RReGULLOReVe tatimORe nË niVeL ndËRKOmbËtaR dhe Zbatimin e RReGULLOReVe FatCa
