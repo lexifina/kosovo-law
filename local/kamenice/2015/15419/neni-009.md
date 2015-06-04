@@ -1,0 +1,2 @@
+# Neni 9
+Procesverbalet nga takimet publike i cili permban te gjithe informacionin 1. Pdr gdo takim publik do te mbahet procesverbal nga populli dhe reagimet e komunal, propozimet e permendura e dhene nga p€rfaq€suesit tyre, si dhe te gjitha pyedet dhe pergjigiet. me te giitha pyedet dhe sugjerimet brenda 15 dit€ve nga dita e mbajdes 2. Procesverbali se mbledhjes, do t€ shqyrtohet Komitetit per Politik€ dhe Financa. Komiteti shqyrton gdo propozim te takimit dhe te jap€ rekomandimet e nevojshme te propozuara nd Kuvendin Komunal ne seancen e ardhshme.
