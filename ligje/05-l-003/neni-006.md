@@ -1,0 +1,7 @@
+# Neni 6
+Pëlqimi i personit 1. Gjykata, përpara shpalljes së vendimit përfundimtar, apo të ndonjë vendimi për masat e sigurimit të pranisë së të pandehurit, pyet personin nëse jep pëlqimin për përdorimin e mbikëqyrjes elektronike dhe i shpjegon atij të drejtat dhe detyrimet që burojnë nga përdorimi i saj te përcaktuara me këtë ligj.
+2. Përdorimi i mbikëqyrjes elektronike vendoset vetëm me pëlqimin e personit dhe pasi gjykata sigurohet se ai i kupton të drejtat dhe detyrimet që burojnë nga përdorimi i mbikëqyrjes elektronike.
+3. Pëlqimi i personit për përdorimin e mbikëqyrjes elektronike jepet me shkrim ose nëpërmjet deklarimit në seancë gjyqësore. në rastin kur personi është i mitur, pëlqimi duhet të jepet në të njëjtën formë edhe nga prindërit ose kujdestari i tij ligjor.
+4. Nëse personi nuk jep pëlqimin, sipas paragrafit 2 të këtij neni, gjykata nuk mund të vendosë përdorimin e mbikëqyrjes elektronike.
+5. Përjashtimisht nga paragrafi 2 i këtij neni, gjykata mund të vendosë përdorimin e Mbikëqyrjes Elektronike, edhe pa pëlqimin e personit, në rastin e parashikuar në nenin 2 paragrafin 1, nënparagrafin 1.2 të këtij ligji, nëse vlerëson se është e domosdoshme për të garantuar të drejtat kushtetuese të të tretëve dhe ekziston dyshimi i arsyeshëm, se personi paraqet rrezikshmëri për cenimin e këtyre të drejtave.
+6. Kundër vendimit nga paragrafi 5 i këtij neni mund të paraqitet ankesë në Gjykatën e Apelit.

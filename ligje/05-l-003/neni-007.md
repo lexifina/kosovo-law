@@ -1,0 +1,2 @@
+# Neni 7
+Caktimi i personit të afërt Kur është e nevojshme dhe e mundur, personi cakton një person të afërt, i cili ndihmon në zbatimin e vendimit për përdorimin e mbikëqyrjes elektronike. nëse jep pëlqimin të caktohet si i tillë, personi i afërt ka detyrimin të vendosë në dispozicion të gjykatës, dhe organit që realizon mbikëqyrje elektronike, adresën e tij të saktë dhe numrin e telefonit për kontakt, që duhet të jenë të dispozicion në çdo kohë.

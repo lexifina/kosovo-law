@@ -1,0 +1,9 @@
+# Article 17
+Actions in cases of violation of the decision of the court
+1. When the information on the map records the exit from the permitted zone or entry into the prohibited movement zone, as well as the damaging or removal of the device, the operation room shall immediately contact the person. If the latter cannot be contacted, the operation room shall contact the close person assigned on the decision of the court.
+2. If, within fifteen (15) minutes from the moment when contacted by the operation room, the person returns into the permitted zone or moves away from the prohibited zone, then no further action shall be taken. In this event, the operation room records this fact in a separate register.
+3. In the event when the person or the close person cannot be reached, the operation room shall immediately notify the state police to whom it conveys the information on the location of the person. Within twenty four (24) hours the operation room notifies the court and prosecution office on the violation and actions committed by it.
+4. Information obtained in cases foreseen by this article is stored for a six (6) month period starting from the time the violation is recorded. The prosecutor or court may order that stored information be preserved for longer than six (6) months.
+5. It shall not be recorded as a violation of conditions of Electronic supervision utilization in the events when the court or prosecution office communicated to the operation room in writing the authorization issued to the person to exit the permitted zone or to enter into the prohibited zone.
+6. The authorization shall contain the exact determination of the zone where the subject is permitted to move and the timeframe of moving permit.
+7. Detailed rules for the criteria on issuing authorizations are determined by a sub-legal act issued by the Minister of Justice.

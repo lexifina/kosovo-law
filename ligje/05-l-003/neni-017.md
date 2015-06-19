@@ -1,0 +1,8 @@
+# Neni 17
+Veprimet në rast të shkeljes së vendimit gjyqësor 1. Kur informacioni në hartë evidenton daljen nga zona e lejuar ose hyrjen në zonën e ndaluar të lëvizjes, si edhe dëmtimin ose heqjen e pajisjes, salla operative kontakton menjëherë personin. nëse ky i fundit nuk mund të kontaktohet, atëherë salla operative kontakton personin e afërt të përcaktuar në vendimin e gjykatës.
+2. nëse personi kthehet në zonën e lejuar ose largohet nga zona e ndaluar brenda pesëmbëdhjetë (15) minutave nga momenti që ai ose personi i afërt i tij kontaktohen nga salla operative, atëherë nuk ndërmerret asnjë veprim i mëtejshëm. në këtë rast salla operative e evidenton këtë fakt në një regjistër të posaçëm.
+3. nëse personi dhe personi i afërt nuk mund të kontaktohen, salla operative njofton menjëherë Policinë, duke ia përcjell informacionin për vendndodhjen e personit. Salla operative, brenda njëzet e katër (24) orëve, njofton gjykatën dhe prokurorinë për shkeljen, dhe veprimet e kryera.
+4. informacionet e përcaktuara me këtë nen ruhen për një periudhë gjashtë (6) mujore, duke filluar nga çasti i evidentimit të shkeljes. Prokurori ose gjykata mund të urdhërojë që informacionet të ruhen për një kohë më të gjatë se gjashtë (6) muaj.
+5. nuk evidentohet si shkelje e kushteve të përdorimit të mbikëqyrjes elektronike, rasti kur Gjykata apo Prokuroria i ka komunikuar me shkrim sallës operative autorizimin e lëshuar ndaj personit për të dalë nga zona e lejuar ose për të hyrë në zonën e ndaluar.
+6. autorizimi duhet të përmbajë përcaktimin e saktë të zonës ku lejohet të lëvizë subjekti dhe afatin e lejimit të lëvizjes.
+7. Rregulla të hollësishme për kriteret e dhënies së autorizimeve përcaktohen me akt nënligjor të nxjerrë nga ministri i drejtësisë.
