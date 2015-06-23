@@ -1,0 +1,4 @@
+# Neni 1
+Fushëveprimi
+1.1 Kjo Rregullore do të zbatohet në aeroportet e Republikës së Kosovës, organet menaxhuese të të cilëve vendosin tarifa për shkak të vënies në dispozicion apo ofrimit të hapësirave dhe shërbimeve të tyre aeronautike.
+1.2 Kjo Rregullore nuk do të zbatohet për tarifat e mbledhura për shërbimet e mbikalimit (en route) dhe shërbimeve terminale të navigacionit ajror në përputhje me Rregulloret nr. 14/2010 dhe 2/2011 të AAC-së, apo të tarifave të mbledhura për kompensim të shërbimeve në tokë të referuara në Aneksin e Rregullores nr. 4/2011 të AAC-së, ose për tarifat e vendosura për financimin e asistencës për udhëtarët me aftësi të kufizuara dhe të udhëtarëve me lëvizshmëri të reduktuar të referuara në Rregulloren e Ministrisë së Infrastrukturës nr. 2013/2 ose në Rregulloret që i ndryshojnë, plotësojnë apo zëvendësojnë të njëjtat.

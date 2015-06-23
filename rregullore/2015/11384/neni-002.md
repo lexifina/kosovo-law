@@ -1,0 +1,10 @@
+# Neni 2
+Përkufizimet
+Për qëllime të kësaj Rregulloreje:
+“Aeroport” nënkupton çfarëdo sipërfaqe tokësore e përshtatur për aterrim, ngritje dhe manovrim të mjetit ajror, duke përfshirë instalimet ndihmëse që këto operacione mund të përfshijnë për nevojat e trafikut ajror dhe shërbimeve, përfshirë instalimet e nevojshme për të ndihmuar shërbimet ajrore komerciale;
+“Organi menaxhues i aeroportit” nënkupton një organ i cili, në bashkëveprim me aktivitetet tjera ose jo, sipas rastit, ka si objektiv të vet në bazë të ligjeve kombëtare, rregulloreve ose kontratave, administrimin dhe menaxhimin e aeroportit ose rrjetit të infrastrukturës së aeroportit dhe koordinimin dhe kontrollin e aktiviteteve të operatorëve të ndryshëm që janë prezentë në rrjetin e aeroportit në fjalë;
+“Përdoruesi i aeroportit“ nënkupton çdo person fizik apo juridik me përgjegjësi për bartjen e udhëtarëve, postës dhe/apo mallrave përmes ajrit deri në, apo prej aeroportit në fjalë;
+“Tarifa e aeroportit” nënkupton tarifën e mbledhur në dobi të organit menaxhues të aeroportit dhe të paguar nga përdoruesit e hapësirave dhe shërbimeve, të cilat ofrohen ekskluzivisht nga organi menaxhues i aeroportit dhe të cilat janë të ndërlidhura me aterrimin, ngritjen, ndriçimin, furnizimin me karburante, parkimin e avionëve, dhe procesimin e udhëtarëve dhe mallrave;
+“Rrjeti i aeroportit” nënkupton një grup i aeroporteve të caktuara (dezignuara) si të tilla nga AAC-ja e Kosovës dhe të drejtuara nga i njëjti organ menaxhues i aeroportit;
+“AAC” nënkupton Autoritetin e Aviacionit Civil të Republikës së Kosovës, ndërsa për qëllime të Direktivës 2009/12/EC të Parlamentit dhe Këshillit Evropian të datës 11 mars 2009 mbi tarifat e aeroportit, nënkupton organin e pavarur mbikëqyrës sipas nenit 11 të kësaj Direktive;
+“Marrëveshja PPP” nënkupton Marrëveshjen e Partneritetit Publiko-Privat për operimin dhe zgjerimin e Aeroportit Ndërkombëtar të Prishtinës në mes të Republikës së Kosovës të përfaqësuar nëpërmjet Komitetit Drejtues Ndër-Ministror për Partneritetet Publiko-Private dhe “Aeroporti Ndërkombëtar Limak Kosova” Sh.A., të datës 12 gusht 2010.
