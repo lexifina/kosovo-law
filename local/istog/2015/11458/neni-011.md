@@ -1,0 +1,4 @@
+# Neni 11
+Lidhja e Kontratave
+l. Me studentdt pdrfitues td bursave lidhen kontratat dhe t€ nj€jtat n€nshkruhet nga Kryetari i dhe p€rfituesi Komunds i burs€s.
+2. Nese brenda afatit prej tridhjet€ (30) ditesh, nga dita e njoftimit te kandidatit p€rfitues te burs€s, se ka hequr dor€ nga bursa, perfitues nuk n€nshkruhet kontratanga ana e studentit. konsiderohet do td jet€ kandidati sipas radh€s. koh€zgjatja per te cil€n jepet bursa, obligimet e perfituesit te 3. Me kontrat€ do te percaktohet: burses dhe kushtet dera. qe fitojn€ burs€, te nj€jten do ta marrin sa zgjasin studimet e rregullta ne fakultetin te 4. Student€t cilin e vijojne, nese nuk e humbin vitin. e burses jane te obliguar q€ gdo vit arsimor t0 sjeltin deshmi tC regjistrimit t€ 5. P6rfituesit dhe certifikat€n e notave per vitin akademik q€ e shfryt€zojn€ burs€n. semestrit 6. Nese perfituesi humb te drejt€n per burs€. i burses nderron fakultetin,
