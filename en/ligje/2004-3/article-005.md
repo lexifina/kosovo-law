@@ -1,2 +1,0 @@
-# Article 5
-Real and determining occupational requirements Notwithstanding Articles 2(a), 3(a) and 3(b), a difference of treatment which is based on a characteristic related to one or more grounds such as those stated in Article 2(a), shall not be defined as discrimination where, by reason of the nature of the particular occupational activities concerned or of the context in which they are carried out, such a characteristic constitutes a real and determining occupational requirement, provided that the objective is legitimate and the requirement is proportionate.

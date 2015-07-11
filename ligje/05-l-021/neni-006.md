@@ -1,0 +1,3 @@
+# Neni 6
+Trajtimi i ndryshëm i përligjur
+Pavarësisht nga nenet 3 dhe 4 të këtij Ligji, nuk konsiderohet diskriminim dallimi në trajtim i cili bazohet në dallimet e dhëna në bazat e nenit një (1) të këtij Ligji, mirëpo i cili si i tillë paraqet karakteristikën reale dhe përcaktuese me rastin e punësimit, qoftë për shkak të natyrës së aktiviteteve profesionale ose të vetë kontekstit në të cilin kryhen punët e caktuara profesionale, nëse ajo dispozitë, kriter ose praktikë është e justifikuar nga një qëllim legjitim dhe ekziston një marrëdhënie e arsyeshme proporcionaliteti ndërmjet mjeteve të përdorura dhe qëllimit të synuar.

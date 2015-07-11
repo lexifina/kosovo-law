@@ -1,0 +1,3 @@
+# Article 6
+Other justified treatments
+Notwithstanding Articles 3 and 4 of this law it is not deemed a discrimination a distinction in treatment which is based on differences provided on grounds of Article 1 of this Law, but which as such represents real and determinant characteristic upon employment, either because of the nature of professional activities or of the context in which such professional works are conducted, if that provision, criterion or practice is justified by a legitimate purpose and there is a reasonable relationship of proportionality between the means employed and the targeted aim.
