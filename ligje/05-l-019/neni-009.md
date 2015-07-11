@@ -1,0 +1,8 @@
+# Neni 9
+Zgjedhja e Avokatit të Popullit 1. Avokatin e Popullit e zgjedh Kuvendi i Republikës së Kosovës, me shumicën e votave të të gjithë deputetëve të tij, për një mandat pesë (5) vjeçar, pa të drejtë rizgjedhjeje.
+2. Avokati i Popullit duhet të zgjedhet brenda tridhjetë (30) ditëve nga dita e propozimit të kandidatëve.
+3. Në rrethin e parë votohet për kandidatët e propozuar nga Komisioni përkatës i Kuvendit. Nëse në rrethin e parë asnjëri nga kandidatët nuk e fiton shumicën e votave të të gjithë deputetëve të Kuvendit, dy (2) kandidatët që fitojnë më së shumti vota, i nënshtrohen rrethit të dytë të votimit. Nëse as në rrethin e dytë nuk zgjedhet Avokati i Popullit, kandidati me numrin më të madh të votave nga rrethi i dytë, si kandidat i vetëm i nënshtrohet rrethit të tretë të votimit.
+4. Nëse kandidatët marrim numër të njëjtë të votave, votimi përsëritet derisa njëri prej kandidatëve fiton numrin më të madh të votave.
+5. Nëse Avokati i Popullit nuk zgjedhet në seancën e parë, Kuvendi i Republikës së Kosovës voton për zgjedhjen e Avokatit të Popullit në seancë plenare brenda tridhjetë (30) ditëve në vijim.
+6. Në seancën e ardhshme për zgjedhjen e Avokatit të Popullit, Kuvendi, sipas procedurës në paragrafin 3 të këtij neni voton për kandidatët e tjerë që kanë plotësuar kushtet e konkursit, sipas radhitjes në listën hartuar pas intervistimit nga Komisioni përzgjedhës i Kuvendit, duke përjashtuar kandidatët e propozuar nga komisioni përkatës për të cilët është votuar në seancën e parë.
+7. Nëse Avokati i Popullit nuk zgjidhet as në seancën e dytë brenda gjashtëdhjetë (60) ditëve, Kuvendi përsëri do të shpallë konkurs për Avokat të Popullit.

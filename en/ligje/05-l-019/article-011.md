@@ -1,0 +1,2 @@
+# Article 11
+Taking the office and oath 1. The Ombudsperson shall take the office after having given the oath before deputies of the Assembly of the Republic of Kosovo. 2.The text of the oath is as follows: “I solemnly swear and promise that i will perform faithfully, independently and impartially the duties and functions which are entrusted to me by the Constitution and by the Law and will protect and promote human rights and freedoms in the Republic of Kosovo”.

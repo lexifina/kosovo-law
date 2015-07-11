@@ -1,3 +1,0 @@
-# Neni 35
-Pranimi i donacioneve
-Institucioni i Avokatit të Popullit mund të pranojë donacione shtesë nga donatorët vendorë dhe ndërkombëtarë, për të cilat njoftohet Kuvendi i Republikës së Kosovës dhe të cilat nuk ndikojnë në pavarësinë financiare të Institucionit të Avokatit të Popullit dhe nuk janë në kundërshtim me ligjin dhe që nuk ndikojnë në pavarësinë e Institucionit të Avokatit të Popullit ose në të drejtat e tij prej Buxhetit të Republikës së Kosovës.

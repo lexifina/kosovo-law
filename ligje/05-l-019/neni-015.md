@@ -1,0 +1,3 @@
+# Neni 15
+Sigurimi i punës pas përfundimit të mandatit 1. Pas përfundimit të mandatit, Avokati i Popullit mund të kthehet në funksionin e tij/saj ose punën publike që kishte para zgjedhjes si Avokat i Popullit. Kur kjo nuk është e mundur, atëherë punëdhënësi i mëhershëm duhet t’i sigurojë një punë të paktën në nivelin e njëjtë, dhe që do të gëzonte pagën e barasvlefshme me atë që kishte para zgjedhjes si Avokat i Popullit.
+2. Avokatit të Popullit, të cilit i përfundon mandati, ose që për shkaqe të arsyeshme nuk mund ta vazhdojë punën e mëparshme ose nuk mund të gjejë punë tjetër adekuate, e as që i ka plotësuar kushtet e përgjithshme të pensionimit, gëzon të drejtën e pagës në vlerën e pagës së fundit të pranuar, por jo më gjatë se një (1) vit nga përfundimi i mandatit.

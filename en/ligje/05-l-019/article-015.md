@@ -1,0 +1,3 @@
+# Article 15
+Provision of job after the end of mandate 1. After the end of mandate, the Ombudsperson may return to his/her post or public work that he/she had prior to election as Ombudsperson. When this is not possible, then the previous employer must provide a job for him/her at least of the same level and that would receive the salary equivalent to the salary he/she had received prior to being elected as Ombudsperson.
+2. When the Ombudsperson, whose mandate expires, or cannot continue previous job due to reasonable causes nor find another appropriate job, neither has fulfilled general conditions for retirement, enjoys the right to a remuneration in the amount of the last received salary, but not longer than one (1) year from the end of the mandate.

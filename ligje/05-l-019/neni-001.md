@@ -1,0 +1,4 @@
+## KAPITULLI I
+## DISPoZITAT e PËRGJITHSHMe
+# Neni 1
+qëllimi 1.Ky ligj ka për qëllim krijimin e mekanizmit ligjor për mbrojtjen, mbikëqyrjen dhe promovimin e të drejtave dhe lirive themelore të personave fizik dhe juridik nga veprimet ose mosveprimet e paligjshme dhe të parregullta të autoriteteve publike, institucioneve dhe personave apo autoriteteve tjera të cilët ushtrojnë autorizime publike në Republikën e Kosovës (në tekstin e mëtejmë: autoritetet publike), si dhe krijimin e Mekanizmit Kombëtar për parandalim të torturës dhe trajtimeve e ndëshkimeve të tjera mizore, jonjerëzore dhe poshtëruese. 2.Avokati i Popullit është mekanizëm i barazisë për promovim, monitorim dhe mbështetje të trajtimit të barabartë pa diskriminim në bazat e mbrojtura nga Ligji për barazi gjinore dhe Ligji për mbrojtje nga diskriminimi.

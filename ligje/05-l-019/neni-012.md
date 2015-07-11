@@ -1,0 +1,4 @@
+# Neni 12
+Imuniteti 1. Avokati i Popullit, zëvendësit e tij dhe personeli i Institucionit të Avokatit të Popullit gëzojnë imunitet nga ndjekja penale, paditë civile ose shkarkimi për fjalët e dhëna apo të shkruara, për veprimtari ose vendimet që janë brenda fushës së përgjegjësisë të Institucionit të Avokatit të Popullit. Imuniteti funksional vazhdon edhe pas përfundimit të detyrës.
+2. Zyrat e Institucionit të Avokatit të Popullit janë të pacenueshme. Arkivat, lëndët, komunikimet,
+LIGJI Nr. 05/L -019 PËR AVOKATIN E POPULLIT prona, fondet dhe pasuritë e Institucionit të Avokatit të Popullit, kudo që janë apo nga kushdo që mbahen, janë të pacenueshme dhe gëzojnë imunitet nga kontrolli, marrja, nga kërkimi zyrtar i tyre, nga konfiskimi, nga shpronësimi apo nga çfarëdo ndërhyrje tjetër, qoftë përmes veprimit përmbarues, administrativ, gjyqësor apo legjislativ.

@@ -1,0 +1,3 @@
+# Neni 3
+Parimet bazë të veprimtarisë së Avokatit të Popullit 1.Avokati i Popullit është institucion i pavarur që udhëhiqet nga parimet e paanësisë, pavarësisë, epërsisë së të drejtave të njeriut, konfidencialitetit dhe profesionalizmit. 2.Dispozitat e këtij ligji zbatohen për mbrojtjen e të drejtave, lirive dhe interesave të të gjithë
+LIGJI Nr. 05/L -019 PËR AVOKATIN E POPULLIT personave në Republikën e Kosovës dhe jashtë saj nga veprimet apo mosveprimet e paligjshme të autoriteteve publike. 3.Institucioni i Avokatit të Popullit gëzon pavarësi organizative, administrative e financiare për realizimin e detyrave të përcaktuara me Kushtetutën e Republikës së Kosovës dhe me ligj.

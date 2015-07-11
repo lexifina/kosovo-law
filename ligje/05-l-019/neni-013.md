@@ -1,0 +1,5 @@
+# Neni 13
+Shkarkimi nga funksioni i Avokatit të Popullit dhe zëvendësve të tij/saj 1. Avokati i Popullit,dhe zëvendësit e tij/saj mund të shkarkohen për arsyet në vijim: 1.1.paaftësia fizike apo mendore që shkakton pamundësinë e tij për kryerjen e funksioneve të tij; 1.2.ka kryer vepër penale të dënueshme me legjislacionin e Republikës së Kosovës me gjashtë (6) apo më tepër muaj burgim në bazë të një vendimi gjyqësor të formës së prerë; 1.3.nëse kryen veprime në kundërshtim me nën-paragrafin 1.5 të nenit 6 dhe paragrafi 2 të nenit 7 të këtij ligji.
+2. Procedura për shkarkimin e Avokatit të Popullit duhet të jetë procedurë e hapur dhe publike, ku Avokatit të Popullit i garantohet e drejta të dëgjohet publikisht.
+3. Zëvendës Avokatin e Popullit e shkarkon Kuvendi, me votat e shumicës së të gjithë deputetëve të Kuvendit.
+4. Avokati i Popullit kërkon që Kuvendi i Republikës së Kosovës të shkarkojë nga detyra një apo më shumë zëvendës të tij/saj, për shkak të një apo më shumë arsyeve të parapara në këtë ligj.
