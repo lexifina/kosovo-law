@@ -1,5 +1,0 @@
-# Neni 16
-DISPOZITAT NDËSHKUESE 16.1. Punëdhënësi/Punëdhënësja në rast të shkeljes së paragrafit 13.5 të këtij Ligji, dënohet me gjobë prej 1,000 deri në 5,000 Euro.Personi përgjegjës në rast të shkeljes së paragrafit 13.5 të këtij ligji, denohet me gjobë prej 500 deri në 1.500 Euro. 16.2.Punëdhënësi/Punëdhënësja në rast të shkeljes së paragrafit 13.12 dhe 13.13 të këtij Ligji, dënohet me gjobë prej 5,000 deri në 10,000 Euro.Personi përgjegjës në rast të shkeljes së paragrafit 13.12 dhe 13.13 të këtij ligji, dënohet me gjobë prej 1.000 deri 3.000 euro.
-16.3. Personat juridik, në rast të shkeljes së paragrafit 15.2 të këtij Ligji, dënohen me gjobë prej 5,000 deri në 10,000 Euro.Personi përgjegjës në rast të shkeljes së paragrafit 15.2 të këtij ligji, denohet me gjobë prej 1.000 deri 3.000 Euro.
-16.4. Institucioni i autorizuar dhe personi përgjegjës për regjistrimin e pasurisë në regjistrat publik, në rast të shkeljes së paragrafit 16.7 të këtij Ligji dënohet me gjobë prej 10,000 deri në 20,000 Euro.
-16.5. Mjetet e mbledhura nga gjobat derdhen në Buxhetin e Konsoliduar të Kosovës.

@@ -1,2 +1,0 @@
-# Neni 6
-NJËSIA PËR BARAZI GJINORE Çështjet e diskriminimit që lidhen drejtpërdrejt me gjininë trajtohen nga njësia për barazi gjinore në kuadër të institucionit të Ombudspersonit, të themeluar me Rregulloren e UNMIK-ut nr. 2000/38, e cila po ashtu, ka përgjegjësi të rishikojë projektligjet, të japë komente lidhur me zbatimin e këtij ligji dhe me legjislacionin ekzistues, kur ka të bëjë me çështjet gjinore. Zyra për barazi gjinore në kuadër të institucionit të Ombudspersonit financohet nga Buxheti i Konsoliduar i Kosovës.

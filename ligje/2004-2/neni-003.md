@@ -1,6 +1,0 @@
-# Neni 3
-INSTITUCIONET DHE ORGANET UDHËHEQËSE 3.1. Me zbatimin e masave ligjore dhe afirmative vendoset pjesëmarrja e barabartë e femrave dhe meshkujve në organet e të gjitha niveleve të pushtetit ligjvënës, ekzekutiv, gjyqësor dhe institucionet publike, në mënyrë që pjesëmarrja në këto institucione të arrijë nivelin e pjesëmarjes së tyre te popullata e përgjithshme e Kosovës.
-3.2. Pjesëmarrja e barabartë e femrave dhe meshkujve sipas nenit 3 pika 3.1 arrihet në rastet kur pjesëmarrja e një gjinie në institucione, organe apo në nivele të pushtetit është 40 %.
-3.3. Gjatë emërimit në organet qendrore dhe në organet e qeverisjes lokale, si dhe te personat e tjerë juridik me pushtet publik, duhet të respektohet pjesëmarrja e barabartë e femrave dhe meshkujve në përputhje me paragrafin 3.2.
-3.4. Organet kompetente gjatë emërimit të anëtarëve të këshillave, komisioneve dhe organeve përfaqësuese brenda dhe jashtë Kosovës duhet të përfillin përfaqësimin e barabartë të femrave dhe meshkujve në këta këshilla, komisione dhe organe përfaqësuese.
-3.5. Gjatë emërtimit të institucioneve, ndërrmarjeve publike, rrugëve, të respektohet barazia gjinore. SUBJEKTET PËRGJEGJËSE PËR ARRITJEN E BARAZISË GJINORE DHE KOMPETENCAT E TYRE

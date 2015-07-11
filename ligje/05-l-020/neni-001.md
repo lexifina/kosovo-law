@@ -1,0 +1,7 @@
+## KAPITULLI I
+## DISPOZITAT E PËRGJITHSHME
+# Neni 1
+Qëllimi
+1. Ky ligj, garanton, mbron dhe promovon barazinë midis gjinive, si vlerë themelore për zhvillimin demokratik të shoqërisë.
+2. Ky ligj përcakton masat e përgjithshme dhe të veçanta për mbrojtjen dhe sigurimin e të drejtave të barabarta të femrave dhe meshkujve, si dhe përcakton institucionet përgjegjëse dhe kompetencat e tyre.
+3. Ky ligj është në përputhshmëri me Konventën për Eliminimin e të Gjitha Formave të Diskriminimit ndaj Femërs (CEDAW); Direktivën për krijimin e një kuadri të përgjithshëm për trajtimin e barabartë në punësim dhe profesion (Direktiva 2000/78/EC; Direktivën për zbatimin e parimit të mundësive të barabarta dhe trajtim të barabartë të meshkujve dhe femrave në çështjet e punësimit dhe profesionit (Direktiva 2006/54/EC); Direktivën në zbatimin progresiv të parimit të trajtimit të barabartë të meshkujve dhe femrave në çështjet e sigurimit shoqëror (Direktiva e Këshillit, datë 19 dhjetorit 1978 (79/7/EEC); Direktivën mbi zbatimin e parimit të trajtimit të barabartë midis meshkujve dhe femrave të angazhuar në një aktivitet në një kapacitet të vetë-punësuar dhe që shfuqizon Direktivën e Këshillit 86/613 / EEC (Direktiva 2010/41 EU, datë 7 korrik 2010); Direktivën për zbatimin e parimit të trajtimit të barabartë midis meshkujve dhe femrave në qasje dhe furnizim me mallra dhe shërbime (Direktiva 2004/113/EC).

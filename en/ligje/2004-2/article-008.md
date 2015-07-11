@@ -1,6 +1,0 @@
-# SECTION 8
-THE COLLECTION OF INFORMATION AND GENDER STATISTICS
-8.1. All data and statistical and non-statistical information collected, verified and processed by the central and local bodies, public services and institutions, public and private undertakings and other entities shall be presented according to the gender structure.
-8.2. Gender equality must be taken into account during the preparation of reports, analysis and projects by the central and local bodies, public institutions, public and private undertakings and other entities.
-8.3. The Institutions of Kosovo which according to the relevant laws are authorized to collect, verify process and analyze statistics, shall include the gender indicator on all of their activities, population registration, demographic surveys, and any surveys of other kinds.
-8.4. All data, statistical and non-statistical information that are collected, verified and processed in compliance with section 9.1 shall become a composite part of a statistical data base and may be accessed n accordance with the legal provisions that regulate the protection of the citizens’ personal data, and in compliance with the Law on the Access of Official Documentation.
