@@ -1,0 +1,5 @@
+# Neni 10
+1. Neni 19 i ligjit bazik, paragrafi 4, pas fjalëve “me shkrim”, shtohet fjala “në Këshill”.
+2. Neni 19 i ligjit bazik, pas paragrafit 4, shtohen paragrafët e ri 5 dhe 6 me tekstin si në vijim:
+5. Vlerësimi i performancës së gjyqtarëve me mandat fillestar bëhet së paku dy herë gjatë këtij mandati nga Komisioni për vlerësim të performancës së gjyqtarëve, një herë pas trajnimit fillestar dhe një herë në fund të mandatit fillestar. Kriteret për vlerësim gjatë mandatit fillestar do të specifikohen në një rregullore të nxjerrë nga Këshilli.
+6. Vlerësimi i performancës së gjyqtarëve me mandat të përhershëm bëhet çdo tri (3) vjet, në mënyrën e tillë që, pas hyrjes në fuqi të këtij ligji Këshilli cakton me short 1/3 e gjyqtarëve, brenda secilës gjykatë, si grupin e parë të cilët do t’u nënshtrohen vlerësimit të performancës në afat prej tre (3) muajsh. I njëjti short mbahet pas një (1) viti për t’ i caktuar gjyqtarët që do bëjnë pjesë në grupin e dytë, dhe grupin e tretë pas dy (2) viteve respektivisht.
