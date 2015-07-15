@@ -1,0 +1,5 @@
+# Neni 14
+1. Neni 21 i ligjit bazik, pas paragrafit 3, shtohen paragrafët e ri 4, dhe 5 me tekstin si në vijim:
+4. Vlerësimi i performancës së prokurorëve, me mandat fillestar, bëhet së paku dy herë gjatë këtij mandati nga Komisioni për vlerësim të performancës së prokurorëve, një herë pas trajnimit fillestar dhe një herë në fund të mandatit fillestar. Kriteret për vlerësim gjatë mandatit fillestar do të specifikohen në një rregullore të nxjerrë nga Këshilli.
+5. Vlerësimi i performancës se prokurorëve me mandat të përhershëm bëhet çdo tre (3) vjet, në mënyrën e tillë që, pas hyrjes në fuqi të këtij ligji, Këshilli cakton me short një e treta (1/3) e prokurorëve, brenda secilës prokurori, si grupin e parë të cilët do t’u nënshtrohen vlerësimit të performancës në afat prej tre (3) muajsh. I njëjti short mbahet pas një (1) viti për të caktuar prokurorët që do bëjnë pjesë në grupin e dytë dhe grupin e tretë pas dy (2) viteve, respektivisht.
+2. Neni 21 i ligjit bazik, paragrafi 3, pas fjalës “me shkrim”, shtohet fjala “në Këshill”, dhe vazhdon fjalia.
