@@ -1,0 +1,10 @@
+# Neni 38
+Situatat ndërkufitare të huaja
+1. Në rast të situatës ndërkufitare të huaj parashtruesi i kërkesës mund të paraqesë kërkesën e tij për dëmshpërblim në Ministrinë e Drejtësisë duke përdorur formularin standard të përcaktuar me nenin 30, paragrafin 6 të këtij ligji.
+2. Sa më parë që është e mundur, Ministria e Drejtësisë do të dërgojë kërkesën bashkë me dokumentet përcjellëse autoritetit kompetent të shtetit prej ku parashtruesi i kërkesës kërkon kompensimin. Nëse autoriteti i huaj vendimmarrës nuk do të pranojë kërkesën, apo do të kërkojë të dhëna shtesë, Ministria e Drejtësisë do të informojë menjëherë parashtruesin e kërkesës.
+3. Ministria e Drejtësisë do të sigurohet që kërkesa zyrtare për kompensim e dërguar tek autoriteti i huaj vendimmarrës do të bëhet në formularin e caktuar nga autoriteti i atij shteti.
+4. Kërkesa bashkë me dokumentet përcjellëse do të dërgohen në një nga gjuhët zyrtare të shtetit të cilit i dërgohet kërkesa apo në një nga gjuhët zyrtare të BE të cilat shteti pranues ka deklaruar se mund t’i pranojë.
+5. Nëse një autoritet i huaj vendimmarrës kërkon që një seancë dëgjimore apo intervistë e viktimës së krimit, dëshmitarit ose ekspertit të mbahet në Republikën e Kosovës, seanca dëgjimore apo intervista e tillë do të kryhet nga Komisioni, me kusht që personi që dëgjohet të pajtohet për seancën dëgjimore apo intervistën e tillë. Komisioni do t’i dërgojë një raport për seancën dëgjimore autoritetit të huaj vendimmarrës.
+6. Nëse një autoritet i huaj vendimmarrës kërkon që seanca dëgjimore të kryhet përmes përdorimit të video-konferencës apo telekomunikimit, dëgjimi i tillë do të kryhet në bashkëpunim me Ministrinë e Drejtësisë, me kusht që personi i cili do të dëgjohet pajtohet për dëgjim të tillë.
+7. Ministria e Drejtësisë në rolin e autoritetit asistues, nuk duhet të bëjë vlerësimin e kërkesës së parashtruar për kompensim.
+8. Veprimet e kryera nga Ministria e Drejtësisë në rolin e autoritetit asistues, nuk mund të ankimohen dhe nuk mund të paraqesin bazë për kërkesë për kompensim të tarifave apo shpenzimeve nga parashtruesi i kërkesës apo autoriteti vendimmarrës i shtetit të huaj.
