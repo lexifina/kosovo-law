@@ -1,0 +1,3 @@
+# Neni 2
+2.1 Rregullorja e Komisionit (EU) Nr. 1321/2014, e datës 26 nëntor 2014, për vlefshmërinë ajrore të vazhdueshme të mjeteve ajrore dhe prodhimeve, pjesëve dhe pajisjeve aeronautike, si dhe për aprovimin e organizatave dhe personelit të përfshirë në këto detyra, e referuar më tutje si “Rregullorja e Komisionit”, shpallet e aplikueshme në Republikën e Kosovës. Rregullorja e Komisionit i është bashkëngjitur kësaj Rregulloreje si shtojcë dhe formon pjesën e saj përbërëse.
+2.2 Çdo dispozitë e amendamenteve të ardhshme të Rregullores së Komisionit, pasi të bëhet pjesë e Shtojcës I ose II të Marrëveshjes për HPEA, do të jetë e aplikueshme drejtpërsëdrejti në Republikën e Kosovës.
