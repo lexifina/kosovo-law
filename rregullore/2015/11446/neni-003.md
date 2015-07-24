@@ -1,0 +1,4 @@
+# Neni 3
+3.1 Përkufizimet e shprehjeve dhe termave të përdorura në këtë Rregullore janë të përfshira në nenin 3 të Rregullores së Komisionit.
+3.2 Pavarësisht nga paragrafi 1 i këtij neni, shprehjet "Komuniteti", "Ligji i Komunitetit", "Legjislacioni i Komunitetit", "Instrumentet e Komunitetit", "Traktati i KE", "Aeroport i Komunitetit", "Gazeta Zyrtare e Komuniteteve Evropiane", "Gazeta Zyrtare e Bashkimit Evropian", "Transportues Ajror i Komunitetit" dhe "Shtet(e) Anëtar(e)", të cilat mund të referohen në mënyrë të drejtpërdrejtë ose të tërthorazi në Rregulloren e Komisionit, duhet të lexohen në përputhje me Pikat 2 dhe 3 të Shtojcës II të Marrëveshjes për HPEA.
+3.3. Për nevoja të kësaj Rregulloreje, “Autoriteti Mbikëqyrës Kombëtar”, siç referohet në Rregulloren e Komisionit Nr. 73/2010, në kontekstin e Republikës së Kosovës do të nënkupton Autoritetin e Aviacionit Civil të Republikës së Kosovës.
