@@ -1,0 +1,8 @@
+# Neni 13
+Sektori i Përgjimeve në kuadër të Policisë së Kosovës
+1. Sektori i Përgjimeve në kuadër të Policisë së Kosovës përmes qendrës monitoruese realizon proceset teknike të përgjimit përmes pajisjeve të telekomunikimit për llogari të institucioneve shtetërore të zbatimit të ligjit dhe hetimit të veprave penale sipas vendimit paraprak të marrë në bazë të këtij Ligji dhe KPPK-së.
+2. Sektori i Përgjimeve ligjore duhet të sigurohet se Urdhëri për përgjim përmban të gjitha të dhënat e kërkuara nga neni 9 i këtij ligji dhe të ekzekutojë vetëm kërkesat e lëshuara në përputhje të plotë me dispozitat e këtij Ligji dhe KPPK-së. Nëse kërkesa nuk i përmban të gjitha shënimet ajo kthehet mbrapa tek zyrtari i autorizuar.
+3. Sektori për Përgjime ligjore evidenton kërkesën për përgjim si dhe kujdeset për plotësimin e formularit të pranim/dorëzimit të Urdhërit për përgjim. Formulari i pranim dorëzimit të Urdhërit për përgjim duhet të përmbajë: llojin e Urdhërit ose kërkesës, detajet nga Urdhëri për përgjim, emrin e të dyshuarit, të dhënat për zyrtarin e autorizuar që kërkon përgjimin dhe mbikëqyrësin e tij për zbatim të Urdhërit, listën e personelit të autorizuar për qasje në materialet e përgjuara, provat dhe materialet tjera relevante për përgjimin, dokumentin e identitetit të zyrtarit të autorizuar apo të deleguarit të tij i cili bënë kërkesën.
+4. Secila kërkesë për përgjim nënshkruhet nga zyrtari pranues dhe shefi i Sektorit të Përgjimit.
+5. Sektori për përgjim duhet të jetë në dispozicion përmes kujdestarisë njëzet e katër (24) orë shtatë (7) ditë të javës, kryesisht në raste emergjente siç parashihet me Kodin e Procedurës Penale.
+6. Subjekti i përgjimit pas përfundimit të masës së ndërmarrë njoftohet me dispozitat e Kodit të Procedurës Penale.

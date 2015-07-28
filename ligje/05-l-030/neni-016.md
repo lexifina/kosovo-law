@@ -1,0 +1,8 @@
+# Neni 16
+Njësia ndërlidhëse
+1. Njësia ndërlidhëse është pajisje teknike e cila aktivizon ose ndalon përgjimin e një pajisjeje fundore pas Urdhërit të ligjshëm për përgjim të lëshuar nga Gjykata kompetente, nën administrimin dhe kontrollin e Kryeprokurorit të Shtetit.
+2. Njësia ndërlidhëse duhet të posedojë një softuer dhe sistem teknik që garanton ruajtjen e gjurmëve të plota mbi përdorimin e saj në pajtim me këtë ligj.
+3. Njësia Ndërlidhëse duhet të mirëmbajë regjistrat e aktivizimeve të përgjimeve. Regjistrat e tillë ruhen në pajtim me legjislacionin sekondar të nxjerrë nga Këshilli Prokurorial, pas konsultimit dhe marrëveshjes me Agjencinë për Mbrojtjen e të Dhënave Personale dhe Autoritetin Rregullativ të Komunikimeve Elektronike dhe Postare, dhe raportohet sipas kërkesës për vëmendje të Komisionerit në zbatim të funksioneve të përcaktuara në Kreun V të këtij ligji.
+4. Autoriteti që administron Njësinë Ndërlidhëse i përgjigjet vetëm gjykatës dhe vepron vetëm në bazë të Urdhërit gjyqësor të ligjshëm. Pas pranimit të këtij Urdhëri, autoriteti i tillë mundëson dhe lehtëson në aspektin teknik procesin e përgjimit në Qendrat Monitoruese të vendosura në Policinë e Kosovës dhe Agjencinë e Kosovës për Inteligjencë.
+5. Njësia ndërlidhëse nuk mund të transmetojë komunikime të përgjuara tek institucione apo palë të treta përveç ashtu siç është përcaktuar në Urdhërin që autorizon përgjimin dhe në përputhje me kërkesat e këtij ligji.
+6. Njësia ndërlidhëse duhet t’u bindet urdhëresave ligjore dhe të zbatojë masat e përgjimit të kërkuar sa më parë që të jetë e mundur dhe pa ndonjë vonesë të pajustifikuar.

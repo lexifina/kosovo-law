@@ -1,0 +1,4 @@
+# Article 17
+Parallel Interception
+1. The Interception Interface shall have necessary technical and organizational capacity to implement multiple parallel interceptions for a single target at Monitoring Centre when this is requested from different Authorized Institutions, after a lawful Court Order of competent jurisdiction. In such cases, officials of the Interception Interface, Monitoring Centre, Network Operators, and Service Providers, undertake the necessary measures to protect the identity of the respective Authorized Institutions and to protect the confidentiality of the interceptions in accordance with this law.
+2. Technical Standards in relation to parallel interceptions and maximum number of parallel interceptions shall be defined in secondary legislation, issued by RAEPC in accordance with Chief State Prosecutor, which shall be in compliance with principles defined in Article 4 of this Law and the best European practices.

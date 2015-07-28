@@ -1,0 +1,4 @@
+# Neni 21
+Siguria e Përgjimit
+1. Çdo person i punësuar apo i kontraktuar nga Njësia Ndërlidhëse, Qendrat Monitoruese, dhe Operatori i Rrjetit për instalimin, operimin ose mirëmbajtjen e objekteve, pajisjeve, interfejsëve dhe softuerëve të përgjimeve, duke përfshirë të gjithë të punësuarit të cilët trajtojnë ose mund të vihen në dijeni, duhet të ketë një verifikim sigurie të lëshuar nga Agjencia Kosovare e Inteligjencës në përputhje me Ligjin Nr. 03/L-178 për Klasifikimin e Informatave dhe Verifikimet e Sigurisë.
+2. Objektet, pajisjet, interfejsët dhe softuerët që do të instalohen dhe përdoren për qëllime të përgjimit duhet të kenë një verifikim të lëshuar nga Agjencia Kosovare e Inteligjencës, që vërteton se ato përputhen me kërkesat teknike dhe të sigurisë të përcaktuara në legjislacionin sekondar të lëshuar nga ARKEP.

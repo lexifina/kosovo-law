@@ -1,0 +1,4 @@
+# Neni 17
+Përgjimet Paralele
+1. Njësia ndërlidhëse duhet të kenë kapacitetin e nevojshëm teknik dhe organizativ për të zbatuar përgjime paralele të shumëfishta për një cak të vetëm në Qendrat Monitoruese kur kjo kërkohet nga institucionet e autorizuara pas Urdhërit të ligjshëm të Gjykatës me juridiksion kompetent. Në raste të tilla, zyrtarët e Njësisë Ndërlidhëse, Qendrës Monitoruese, Operatorëve të Rrjetit dhe Ofruesve të Shërbimeve marrin masat e domosdoshme që të ruajnë identitetin e institucioneve të autorizuara përkatëse dhe do të ruajnë fshehtësinë e përgjimeve sipas këtij ligji.
+2. Standardet teknike lidhur me përgjimet paralele dhe për numrin maksimal të përgjimeve paralele për një numër të caktuar të abonentëve përcaktohen në legjislacionin sekondar, të lëshuar nga ARKEP në pajtim me Kryeprokurorin e Shtetit, por të cilat duhet të jenë në përputhje me parimet e përcaktuara me nenin 4 të këtij ligji dhe me praktikat më të mira evropiane.

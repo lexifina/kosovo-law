@@ -1,0 +1,6 @@
+# Neni 29
+Ruajtja dhe shkatërrimi i të dhënave brenda Agjencisë Kosovare të Inteligjencës
+1. Drejtori i Agjencisë Kosovare të Inteligjencës apo të deleguarit e tij do të sigurohen që çfarëdo e dhëne e marrë përmes përgjimit të ligjshëm do të ruhet vetëm për sa kohë që është e rëndësishme për një hetim që është duke u zhvilluar dhe që lidhet drejtpërdrejt me zbatimin e një Urdhëri të një gjykatësi të Gjykatës Supreme.
+2. Çdo e dhënë e cila merret përmes përgjimit të ligjshëm, dhe çdo kopje e saj, do të fshihet në mënyrë të përhershme dhe/ose shkatërrohet nga Drejtori i Agjencisë Kosovare të Inteligjencës ose të deleguarit e tij, brenda një muaji kalendarik pasi të mos i shërbejë më hetimit që ndërlidhet me një operacion të ligjshëm të përgjimit të autorizuar nga një gjykatës i Gjykatës Supreme.
+3. Përveç kur heqja dorë nga përgjegjësia mund të merret me shkrim nga një gjyqtar i Gjykatës Supreme, Drejtori i Agjencisë së Inteligjencës së Kosovës ose i deleguari i tij do të fshij dhe/ose të shkatërrojë çfarëdo të dhëne të mbetur që ka rezultuar nga një përgjim i ligjshëm, jo më vonë se dymbëdhjetë muaj nga përgjimi i parë.
+4. Inspektori i Përgjithshëm i Agjencisë së Kosovës për Inteligjencë do të monitorojë personalisht shkatërrimin e të dhënave të lartpërmendura nga ana e Agjencisë së Kosovës për Inteligjencë.

@@ -1,0 +1,5 @@
+# Neni 31
+Periudha tranzicionale
+1. Operatorët e të dhënave dhe ofruesit e shërbimeve do të sigurojnë, prokurojnë, instalojnë, mirëmbajnë dhe përdorin objektet teknike, pajisjet, ndërfaqet dhe softuerët me qëllim të zbatimit të përgjimit të ligjshëm, si dhe do të bëjë aranzhimet e nevojshme organizative me qëllim që të mundësoj përgjimin e ligjshëm siç kërkohet nga ky ligj, brenda gjashtë (6) muajve pas hyrjes në fuqi të ligjit aktual.
+2. Të dhënat e ndërlidhura me thirrjet telefonike, duke përfshirë përmbajtjet e çfarëdo komunikimi të mbledhur dhe ruajtur nga Operatorët e Rrjetit para hyrjes në fuqi të këtij ligji, do të vazhdojnë të ruhen nga operatorët e rrjetit dhe do të vihen në dispozicion të institucioneve të autorizuar në përputhje me ligjin aktual, për një periudhë që nuk tejkalon nëntë (9) muaj. Pas skadimit të periudhës prej nëntë (9) muajsh, të dhënat do të shkatërrohen në përputhje me nenin 13 të këtij ligji.
+3. Një përfaqësues i Agjencisë për Mbrojtjen e të Dhënave dhe Komisioneri për kontrollin e ligjshmërisë së përgjimit do të monitorojë personalisht shkatërrimin e të dhënave.

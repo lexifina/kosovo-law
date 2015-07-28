@@ -1,0 +1,6 @@
+# Article 10
+Competent authority to order interception measures in criminal procedure
+1. The measure of electronic communications interception, including texts of messages or other electronic messages, interception of communications through computer networks shall be ordered only by the court upon the request of Kosovo State Prosecutor, except in cases when in urgent criminal procedures it acts in accordance with the provisional order issued in writing pursuant to principles of this law.
+2. In urgent criminal procedures, the competent authority to order in writing the provisional interception measure shall be the Kosovo State Prosecutor, in light of Article 91 of KCPC.
+3. The provisional order from paragraph 2 of this Article shall cease its effects and any information or evidence collected during this period shall not be lawful if such order is not confirmed in writing from the competent Judge within three (3) days from the issuing of such order and provisional orders from paragraph 2 of this Article cannot be repeated.
+4. The State Prosecutor is obliged according to official duty (ex officio) before issuing a provisional order to safeguard the respect of the basic principles foreseen in Article 4 of this Law.

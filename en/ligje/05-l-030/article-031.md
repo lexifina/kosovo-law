@@ -1,0 +1,5 @@
+# Article 31
+Transitional period
+1. Network Operators and Service Providers shall ensure procure, install, maintain and operate technical facilities, equipment, interfaces and software for the purpose of implementing Lawful Interception, and shall make any necessary organizational arrangements for the purpose of enabling Lawful Interception, as required by this Law, within six (6) month after the entry into force of this Law.
+2. Call related data, including the contents of any communication, which has been collected and stored by Network Operators prior to the entry into force of this Law, shall continue to be retained by Network Operators and made available to Authorized Institutions in accordance with this Law for a period not exceeding nine (9) months. Following the expiry of the nine (9) months period, the data shall be destroyed in accordance with Article 13 of this Law.
+3. A representative of the Data Protection Agency and the Commissioner for the Control of Interception Legality shall monitor, in person, the destruction of the data.

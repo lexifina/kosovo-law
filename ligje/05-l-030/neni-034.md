@@ -1,0 +1,20 @@
+# Neni 34
+Funksionet e Komisionerit
+1. Komisioneri ushtron kontroll të rregullt vjetor mbi ligjshmërinë e tërë procesit të përgjimeve nga institucionet e autorizuara me këtë ligj.
+2. Kontrolli vjetor përfshin një raportim të detajuar e që është publik, duke ruajtur konfidencialitetin e të dhënave dhe qëllimeve të përgjimit, dhe që analizon:
+2.1. monitorimin e koordinimit institucional gjatë zbatimit të përgjimit të komunikimeve elektronike bazuar në kërkesat e këtij ligji, duke përfshirë edhe shkeljet eventuale, dhe hartimin e rekomandimeve adekuate;
+2.2. krahasimin në mes të gjurmëve të përgjimit në pajisjet brenda ‘njësisë ndërlidhëse’ dhe ‘qendrës monitoruese’ dhe vendimeve për përgjim të ligjshëm të lëshuara në atë periudhë kohore;
+2.3. monitorimin, sipas mostrave të caktuara, të standardeve ligjore të vendimeve gjyqësore për përgjim të ligjshëm të lëshuara në atë periudhë kohore dhe promovimin e unifikimit të tyre brenda sistemit gjyqësor të Kosovës;
+2.4. identifikimin e shkeljeve të këtij ligji në zbatimin e procedurave të ushtrimit të përgjimit të ligjshëm;
+2.5. verifikimin nëse personat e autorizuar në kuadër të institucioneve të autorizuara për përgjim të ligjshëm e kanë ushtruar një mandat të tillë; dhe
+2.6. verifikimin e shkatërrimit të informacioneve të mbledhura nga procesi i përgjimit, sipas kërkesave të këtij ligji, KPPK-së, dhe ligjit për mbrojtjen e të dhënave personale.
+3. Konkluzionet dhe shkeljet e mundshme të gjetura nga Komisioneri nuk kanë efekt juridik në procedurën penale dhe vendimet e gjykatave kompetente. Konkluzionet e nxjerra nga Komisioneri shqyrtohen nga Këshilli Gjyqësor i Kosovës në rastet kur ato lidhen me përgjimin në procedurë penale apo Inspektori i Përgjithshëm i AKI-së në rastet që lidhen me përgjimin e ligjshëm për nevojat e sigurisë së Republikës së Kosovës dhe qytetarëve të saj.
+4. Në rastet kur konstatohen shkelje, Këshilli Gjyqësor i Kosovës i adreson ato në Panelin për Shqyrtimin e Vëzhgimit dhe Hetimit sipas KPPK-së, kurse Inspektori i Përgjithshëm i adreson sipas kompetencave në bazë të Ligjit për AKI-në.
+5. Komisioneri do të njoftoj Agjencinë për Mbrojtjen e të Dhënave Personale me gjetjet e raportit. Agjencia përkatëse në përputhje me kompetencat e saj ligjore, do të ndërmerr veprimet që i konsideron të nevojshme për të adresuar konkluzionet dhe gjetjet nga raporti i Komisionerit.
+6. Në rast të konstatimit të mos-përputhjes dhe lëshimeve teknike që i referohen por jo vetëm ndryshimit të të dhënave të krahasuara në mes të dhënave nga sistemet e operatorëve me të dhënat e gjurmëve të përgjimeve në pajisjet brenda njësisë ndërlidhëse dhe qendrave monitoruese, mos-përputhjes, mos respektimit të afateve kohore të urdhërit nga ana operatorëve të rrjetit dhe apo ofruesi i shërbimeve, Komisioneri do të njoftoj ARKEP me gjetjet e raportit nëse shkeljet e tilla involvojnë veprime të operatorëve të licencuar nga ana e ARKEP. Në rast të gjetjes së shkeljeve nga operatorët e telekomunikacionit, ARKEP i adreson shkeljet e tilla sipas këtij ligji dhe Ligjit për Komunikime Elektronike sa i përket fushës së saj të kompetencës.
+7. Komisioneri ka qasje të plotë në institucionet e autorizuara për të zbatuar vendimet për përgjim të ligjshëm dhe në tërë aparaturat përcjellëse teknike që i shërbejnë një qëllimi të tillë.
+8. Komisioneri e realizon qasjen nga paragrafi 6 i këtij neni në mjediset e AKI-së në konsultim dhe pas autorizimit prej Inspektorit të Përgjithshëm të AKI-së.
+9. Komisioneri e realizon qasjen nga paragrafi 6 i këti neni në mjediset e Policisë së Kosovës në konsultim me Drejtorin e Përgjithshëm të Policisë së Kosovës.
+10. Komisioneri duhet të bashkëpunoj ngushtë me Agjencinë për Mbrojtjen e të Dhënave Personale në mbrojtjen e të dhënave personale dhe privatësisë.
+11. Komisioneri nuk mund të ketë qasje në përmbajtjen e materialeve të përgjuara.
+12. Konkluzionet e Komisionerit nuk ndikojnë në procedurën e ankesës individuale pranë Agjencisë Shtetërore për Mbrojtjen e të Dhënave Personale (ASHMDHP).
