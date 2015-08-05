@@ -1,0 +1,4 @@
+# Article 5
+Entry into force This Law shall enter into force on the day of publication in the Official Gazette. Law No.05/L-046 16 July 2015 Promulgated by Decree No.DL-018-2015, dated 03.08.2015, President of the Republic of Kosovo Atifete Jahjaga
+LAW No. 05/L -046 ON SUPPLEMENTING AND AMENDING THE LAW No. 05/L-001 ON BUDGET OF REPUBLIC OF KOSOVO NOTE: CHARTS AS AN ANNEX OF LAW NO. 05/L -046 ON SUPPLEMENTING AND AMENDING THE LAW No. 05/L-001 ON BUDGET OF REPUBLIC OF KOSOVO, CAN BE FOUND PUBLISHED IN ELECTRONIC FORM IN WEB PAGE OF THE OFFICIAL GAZETTE.
+ELECTRONIC ADDRESS: gzk.rks-gov.net
