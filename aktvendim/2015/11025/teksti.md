@@ -1,0 +1,113 @@
+Prishtine, 10 gusht 2015 Nr. ref.: RK 818/15
+AKTVENDIM PER PAPRANUESHMERI
+ne
+Rastin nr. KISS/14
+Parashtrues
+Baton Morina
+Vleresim i kushtetutshmerise se Njoftimit te Zyres se Prokurorit te Shtetit, KMLP. I. nr. 1/14, te 7 marsit 2014
+GJYKATAKUSHTETUESE E REPUBLIKES SE KOSOvES
+e perbere nga:
+Arta Rama-Hajrizi, kryetare
+Ivan Cukalovic, zevendeskryetar Robert Carolan, gjyqtar Altay Suroy, gjyqtar Almiro Rodrigues, gjyqtar Snezhana Botusharova, gjyqtare, dhe Bekim Sejdiu, gjyqtar
+Parashtruesiikerkeses
+Kerkesa eshte parashtruar nga z. Baton Morina nga Gjakova (ne tekstin e 1. metejme: parashtruesi i kerkeses), i cili perfaqesohet nga z. Teki Bokshi, avokat nga Gjakova.
+Vendimi i kontestuar
+2. Parashtruesi i kerkeses konteston Njoftimin (KMLP. I. nr. 1/14, te 7 mars it 2014) e Zyres se Prokurorit te Shtetit nepermjet te cilit, i ishte refuzuar kerkesa per mbrojte te ligjshmerise ne lidhje me kerkesen per perseritje te procedures penale ne rastin e tij.
+Objekti i ~esh1jes
+3. Objekt i c;eshtjes eshte kerkesa e parashtruesit per vleresimin e kushtetutshmerise se vendimeve te kontestuara, te cilat, pretendohen te kene shkelur te drejtat e tij, te garantuara me Kushtetuten e Republikes se Kosoves me "nenin 21 [Parimet e (ne tekstin e metejme: Kushtetuta), perkatesisht 22 [Zbatimi i Drejtperdrejte i Marreveshjeve Pergjithshme}, nenin dhe Instrumenteve Nderkombetare}, nenin 24 [Barazia Para Ligjit} dhe nenin 31 [E Drejta per Gjykim te Drejte dhe te Paanshem}, paragrafi 1".
+Bazajuridike
+4. Kerkesa bazohet ne nenin 113.7 te Kushtetutes, ne nenin 47 te Ligjit per Gjykaten Kushtetuese te Republikes se Kosoves, Nr. 03/L-121 (ne tekstin e metejme: Ligji) dhe ne rregullin 56 te Rregullores se punes te Gjykates Kushtetuese te Republikes se Kosoves (ne tekstin e metejme: Rregullorja e punes).
+Procedura ne Gjykaten Kushtetuese
+5. Me 26 mars 2014, parashtruesi e dorezoi kerkesen ne Gjykaten Kushtetuese te Republikes se Kosoves (ne tekstin e metejme: Gjykata).
+6. Me 3 prill 2014, Kryetari, me Vendimin nr. GJR. KI55/14, caktoi gjyqtarin Kadri Kryeziu gjyqtar raportues. Te njejten dite, Kryetari, me Vendimin nr. KSH. KI55/14, caktoi Kolegjin shqyrtues, te perbere nga gjyqtaret: Robert Carolan (kryesues), Almiro Rodrigues dhe Ivan Cukalovic.
+7. Me 28 prill 2014, Gjykata e njoftoi parashtruesin per regjistrimin e kerkeses dhe kerkoi nga ai te dorezoje autorizimin per perfaqesim per z. Teki Bokshi. Te njejten dite, Gjykata i dergoi Gjykates se Apelit nje kopje te kerkeses.
+8. Me 4 qershor 2014, parashtruesi i kerkeses e dorezoi ne Gjykate autorizimin per perfaqesim.
+9. Me 24 shtator 2014, Gjykata kerkoi nga parashtruesi qe te specifikoje vendimet e kontestuara, dhe te dorezoje ne Gjykate kopjet e vendimeve qe nderlidhen me rastin.
+10. Me 9 tetor 2014, parashtruesi iu pergjigj kerkeses se Gjykates duke dhene disa sqarime shtese lidhur me kerkesen e parashtruar ne Gjykate. Mirepo, nuk dorezoi kopjet e vendimeve te kontestuara.
+11. Me 20 janar 2015, Gjykata i dergoi nje leter tjeter parashtruesit, duke kerkuar ne menyre specifike nga ai qe te dorezoje ne Gjykate te dy vendimet e referuara nga parashtruesi ne kerkesen e tij, por te cHat ai nuk i kishte dorezuar ne Gjykate, perkatesisht:
+a) Aktvendimin (PK. nr. 198/13, te 20 nentorit 2013) te Gjykates Themelore ne Peje; dhe b) Aktvendimin (PN. nr. 736/13, te 10 dhjetorit 2013) te Gjykates se Apelit.
+12. Me 2 shkurt 2015, parashtruesi iu drejtua Gjykates me kerkesen si ne vijim: "Luse Gjykaten e nderuar te titulluar qe te kete mirekuptim dhe menjehere pasi qe te siguroj shkresat, menjehere do te ia dergoj Gjykates".
+13. Me 18 shkurt 2015, Gjykata i dergoi nje kopje te kerkeses Zyres se Prokurorit te Shtetit.
+14. Me 20 shkurt 2015, Gjykata i dergoi nje leter tjeter parashtruesit nepermjet se ciles e njoftoi ate, qe Gjykata do te vazhdoje shqyrtimin e kerkeses ne baze te informatave dhe dokumenteve qe ka ne dispozicion, ne rast se ai nuk dorezon dokumentet e kerkuara nga Gjykata ne nje afat prej 7 (shtate) ditesh, nga dita e pranimit te shkreses.
+15. Me 5 mars 2015, parashtruesi dorezoi ne Gjykate dokumentet e kerkuara.
+16. Me 26 qershor 2015, Kryetarja e Gjykates me Vendimin nr. GJR. KI69/14, caktoi gjyqtarin Ivan Cukalovic si gjyqtar raportues ne vend te gjyqtarit Kadri Kryeziu te cilit mandati si gjyqtar i Gjykates Kushtetuese i mbaroi me 26 qershor 2015. Te njejten dite, Kryetarja e Gjykates me Vendimin nr. KSH. KI69/14, e caktoi veten si anetare te Kolegjit shqyrtues ne vend te gjyqtarit Ivan Cukalovic.
+17. Me 2 korrik 2015, pas shqyrtimit te raportit te gjyqtarit raportues, Kolegji shqyrtues i rekomandoi Gjykates, ne perberje te plote, ta deklaroje kerkesen te papranueshme.
+Permhledhja e fakteve
+18. Me 23 qershor 2006, Gjykata e Qarkut ne Peje (Aktgjykimi P. nr. 80/06) shpalli fajtor parashtruesin e kerkeses per shkak te kryerjes se dy veprave penale. Parashtruesi i kerkeses u denua me burgim ne kohezgjatje prej 4 (kater) vjetesh.
+19. Parashtruesi i kerkeses parashtroi ankese kunder Aktgjykimit te lartpermendur, "anulimin e aktgjykimit te ankimuar, si ne Gjykaten Supreme, duke kerkuar dhe kthimin e r;eshtjesper rigjykim ne shkallen e pare." Prokurori Publik i Qarkut ne Peje, gjithashtu, parashtroi ankese kunder te njejtit Aktgjykim duke "denimi i parashtruesit prej (kater) vitesh burgim te kerkuar qe 4 zevendesohet me nje denim me te ashper".
+20. Me 19 prill 2007, Gjykata Supreme [Aktgjykimi Ap. nr. 582/2006] e refuzoi ankesen e parashtruesit te kerkeses dhe aprovoi ankesen e Prokurorit Publik te Qarkut. Me ate rast Gjykata Supreme ndryshoi Aktgjykimin e Gjykates se Qarkut ne Peje vetem sa i perket vendimit per denim, me <;'rast denoi parashtruesin nga 4 Ckater) vjet me 12 Cdymbedhjete) vjet burgim.
+21. Me 31 dhjetor 2007, Gjykata Supreme CAktgjykimi, PId. nr. 78/2007) refuzoi duke vleresuar se "shkalla kerkesen e parashtruesit per mbrojtje te ligjshmerise e pare dhe shkalla e dyte kishin konstatuar drejte jaktet, se nuk kishte pasur shkelje thelbesore te dispozitave te procedures penale dhe se dispozitat e ligjit penal ishin zbatuar drejte".
+Kerkesa e pare e parashtruesit per perserilje te procedures penale prane gjykatave te rregullta
+22. Me 29 janar 2011, parashtruesi paraqiti kerkesen e pare ne Gjykaten e Qarkut se "neproceduren ne Peje, per perseritje te procedures penale duke pretenduar e vendosjes lidhur me ankesen prane Gjykates Supreme [...] eshte dashur te jete perjashtuar prokurori i c;eshtjesper shkak te mungeses se paanshmerise dhe subjektivizmit".
+23. Me 13 shtator 2011, Gjykata e Qarkut ne Peje CAktvendimi P. nr. 80/06) refuzoi kerkesen e parashtruesit per perseritje te procedures penale duke arsyetuar se"[ ...J nuk eshte paraqitur baza ligjore per rishikimin e procedures penale si~ kerkohet me nenin 444 par. 2 te KPPK-se [Kodit te Perkohshem te Procedures Penale] [...J".
+24. Parashtruesi paraqiti ankese kunder Aktvendimit te Gjykates se Qarkut ne Peje, ne Gjykaten Supreme.
+25. Me 13 tetor 2011, Gjykata Supreme CAktgjykimi Pn. nr. 530/2011) refuzoi ankesen e parashtruesit si te pabazuar dhe arsyetoi si ne vijim:
+"[ ...J drejt ka vepruar gjykata e shkalles se pare kur kerkesen per rishikim te procedures penale e ka reJuzuar [...J. [ ...J nga procesverbali i shqyrtimin
+kryesor nuk shihet se eshte paraqitur ndonje kerkese per perjashtimin e prokurorit apo cilitdopjesemarres ne proceduren e zhvilluar ne kete c;eshtje penalo-juridike dhe nuk ka indikacione se lidhur me prokurorin ne fjale eshte iniciuar ndonje procedure disiplinore apo penale qe nderlidhet me rastin konkret, andaj per tu konsideruar baze ligjore per rishikimin te procedures penale ne kuptim te nenit 442 par.l pika 1 e KPPKsipas par. 2 te po te njejtit nen duhet te provohet se aktgjykimi eshte pasoj e vepres penale
+te kryer nga personi qe ka kryer hetimet apo prokurori".
+Procedura prane Gjykates Kushtetuese ne Rastin nr. KI159/11
+26. Me 9 nentor 2011, parashtruesi parashtroi kerkese ne Gjykaten Kushtetuese [Shih, Rastin nr. KI159/11, Baton Morina, Aktvendim per papranueshmeri i 16 korrikut 2012] dhe kerkoi vleresim te kushtetutshmerise se Aktgjykimit CPn.nr. 530/2011, te 13 tetorit 2011) te Gjykates Supreme.
+27. Parashtruesi i kerkeses prane Gjykates kishte pretenduar shkelje te se drejtes per gjykim te drejte dhe te paanshem, te drejtes per mjete juridike, si dhe te drejtes per respektim te parimit te legalitetit dhe proporcionalitetit ne rastet penale. Parashtruesi po ashtu, nder te tjera, kishte pretenduar qe veprimet e ne Peje "kishin ndikim esencial qe c;eshtja te Prokurorit Publik te Qarkut gjykohet ne dem te te pandehurit" dhe se Prokurori Publik i Qarkut "kishte keqperdorur poziten e tij zyrtare" ne proceduren penale te zhvilluar ndaj tij.
+28. Me 16 korrik 2012, Gjykata vendosi per Rastin nr. KI159/n, duke e refuzuar kerkesen e parashtruesit per vleresim te kushtetutshmerise se Aktgjykimit te Nder te tjera, Gjykata arsyetoi se: "Nuk lartpermendur si qartazi te pabazuar. eshte ne juridiksionin e Gjykates Kushtetuese qe te vleresoje ligjshmerine dhe saktesine e provave te vendimeve te nxjerra nga gjykatat e rregullta [...J" dhe se "nuk ka juridiksion per te perseritur procedurat gjyqesore apo ne ndonje menyre te zevendesoje aktgjykimin e Gjykates Supreme me konstatimet e veta".
+Kerkesa e dyte e parashtruesit per perseritje te procedures penale prane gjykatave te ITegullta
+29. Pas nxjerrjes se Aktvendimit te lartpermendur nga Gjykata ne Rastin KI159/11, parashtruesi parashtroi kerkesen e dyte per perseritje te procedures penale, kete here ne Gjykaten Themelore ne Peje.
+30. Parashtruesi e arsyetoi kerkesen e tij te dyte, duke paraqitur pretendimet e njejta per mungesen e paanshmerise se Prokurorit Publik te Qarkut ne Peje. Ai qe "[...J jane zbuluar fakte te reja, qe ka gjasa ta gjithashtu pretendoi arsyetojne pafajesine e person it te denuar [parashtruesit] ose denimin e tij sipas nje dispozite me te bute penale e si prove e re do te konsiderohej deklarata e deshmitarit [...J".
+31. Me 20 nentor 2013, Gjykata Themelore ne Peje (Aktvendimi PK. nr. 198/13) refuzoi kerkesen e dyte te parashtruesit per perseritje te procedures penale si te pabazuar duke arsyetuar se:
+"[ ...J ne rastin konkret nukjane permbushur kushtet ligjore per perseritjen e procedures ndaj te gjykuarit Baton Morina [...J, edhe po te ishte degjuar me heret deshmitari ne jjale, edhe sikur po te degjohej tani nuk do ta ndryshoj rrjedhen e procedures penale ndaj te denuarit [...J. Sa iperket pretendimeve [ ...J se nuk eshte vendosur lidhur me kerkesen per perjashtimin e prokurorit te rastit kolegji shqyrtues ikesaj gjykate duke u bazuar edhe ne shkresat e lendes e pikerisht procesverbalit te shqyrtimit kryesor, shihet se nuk eshte paraqitur ndonje kerkese per perjashtimin e prokurorit apo cilido pjesemarres ne procedure gjyqesore, konstatohet se nuk ka indikacione se
+lidhur me prokurorin ne jjale eshte iniciuar ndonje procedure disiplinore apo penale qe nderlidhet me rastin konkret, andaj per tu konsideruar baze ligjore per rishikim te procedures penale ne kuptim te nenit 442 par 1. pika 1.te KPPK-se,sipas parag.2 te te njejtit nen duhet te provohet se aktgjykimi eshte pasoj e vepres penale te kryer nga personi qe ka kryer hetimet nga prokurori [...]c;kane rastin konkret keto prova mungojne".
+32. Me 10 dhjetor 2013, Gjykata e Apelit (Aktvendimi PN. nr. 736/13) refuzoi ankesen e parashtruesit kunder Aktvendimit te Gjykates Themelore ne Peje dhe arsyetoi si ne vijim:
+"[ ...J gjykata e shkalles se pare, drejt ka vleresuar se kerkesa e mbrojtesit te te gjykuarit per rishikimin e procedures penale eshte e pabazuar, meqe, ne rastin konkret nuk jane permbushur kushtet ligjore per rishikimin e procedures penale teparapara me nenin 423 par.l pika 1.3. [...J.
+[ ...J deshmia e deshmitarit nuk sjell ndonje prove te re te panjohur gjer me tani, qe do te ishte arsye ligjore per lejimin e rishikimit te procedures penale, e qe do te mund teprovonte pafajesine e te denuarit".
+33. Me 7 mars 2014, Zyra e Prokurorit KMLP. I. nr. 1/14], te Shtetit [Njoftimi refuzoi kerkesen e parashtruesit per mbrojtje te ligjshmerise te parashtruar kunder Aktvendimit te Gjykates se Apelit dhe te Aktvendimit te Gjykates Themelore ne Peje, me arsyetimin se nuk kishte baze ligjore per te ngritur kerkese per mbrojtje te ligjshmerise.
+Pretendimet e parashtruesit te kerkeses
+34. Parashtruesi i kerkeses pretendon se gjykatat e rregullta ia kane shkelur te 21 [Parimet drejtat e garantuara me Kushtetute, perkatesisht nenin e 22 Pergjithshme], nenin [Zbatimi i Drejtperdrejte i Marreveshjeve dhe nenin 24 [Barazia Para Ligjit] , nenin 31 [E Instrumenteve Nderkombetare], Drejta per Gjykim te Drejte dhe te Paanshem], paragrafi 1.
+thekson se "[...J ai eshte diskriminuar 35. Lidhur me keto pretendime, parashtruesi pse eshte mbrojtur nga avokati S.D." dhe Prokurori i Shtetit kishte "problem personal" me teo
+me tej, pohon se: 'T...J sipas ankeses se Prokurorit Publik eshte 36. Parashtruesi ndryshuar Aktgjykimi i shkalles se pare ne deme te akuzuarit ne aspektin e lartesis se denimit nga 4 vite ne 12, [...J nga e cila kuptohet se prokurori [...J permes ushtrimit te autoritetit te prokurorit ne te gjitha instancat ka ndikuar qe iakuzuari Baton Morina te denohet me denim sa me te larte".
+37. Ne perfundim, parashtruesi i drejtohet Gjykates me kerkesen ne vijim: "Anulimin e Aktvendimit te Gjykates Themelore ne Peje PK. nr. 198/13 te dates
+20.11.2013 te Gjykates se Apelit te Kosoves PN. nr. 736/13 te dates 10.12.2013 dhe te Njoftimit te Prokurorise se Shtetit te Kosoves KMLP. I. nr. 1/14 te dates
+7.03.2014".
+Pranueshmeria e kerkeses
+38. Para se gjithash, Gjykata shqyrton nese parashtruesi i ka permbushur kushtet e nevojshme te pranueshmerise, te percaktuara me Kushtetute dhe te specifikuara me tej me Ligj dhe me Rregullore te punes.
+Sa iperket pretendimeve te parashtruesit lidhur me kerkesen e iij te pare per perseritje te procedures penale
+39. SiC;u permend me lart, parashtruesi pretendon se ijane shkelur te drejtat e tij te me nenet 21, 22, 24 dhe 31 te Kushtetutes garantuara meqe, sipas tij, Prokurori Publik i Qarkut ne Peje kishte tejkaluar autorizimet e tij dhe nuk kishte vepruar ne menyre te paanshme gjate zhvillimit te procedures penale ne rastin e tij.
+40. Ne lidhje me kete, Gjykata veren se, parashtruesi, sikurse ne kerkesen e tij te pare Rasti nr. Kl159/11, te parashtruar ne Gjykate, i referohet argumenteve te njejta, lidhur me mungesen e paanshmerise se Prokurorit Publik te Qarkut ne Peje.
+41. Gjykata gjithashtu veren se, parashtruesi, edhe pse formalisht konteston (KMLP. I. nr. 1/14, te 7 marsit 2014) e Prokurorit Njoftimin te Shtetit, ne substance, ai konteston kushtetutshmerine e vendimeve te mehershme te te Aktgjykimit P. nr. 80/06, te 23 qershorit gjykatave te rregullta, perkatesisht 2006, te Gjykates se Qarkut ne Peje dhe Aktgjykimet (Ap. nr. 582/06, te 19 prillit 2007; Pkl. nr. 78/2007, te 31 dhjetorit 2007; Pn. nr. 530/2011, te 13 tetorit 2011)te Gjykates Supreme.
+42. Ne kete drejtim, Gjykata konsideron se keto pretendime te parashtruesit jane te njejta me ato te paraqitura ne kerkesen e tij te pare, te parashtruar ne Gjykaten Kushtetuese, si dhe jane te adresuara kunder vendimeve te njejta, kushtetutshmerine e te cilave kjo Gjykate tashme e ka vleresuar me rastin e nxjerrjes se Aktvendimit per papranueshmeri ne Rastin nr. Kl159/11.
+43. Prandaj, per sa i perket ketyre pretendimeve te perseritura te parashtruesit Gjykata i referohet rregullit 36 (3) (d) te Rregullores se punes i cHipercakton:
+"Po ashtu, nje kerkese mund te konsiderohet si e papranueshme edhe ne rastet vijuese, kur:
+[ ...J
+(d) Gjykata tashme ka nxjerre nje vendim per rastin ne jjale dhe kerkesa nuk ofron baze te mjaftueshme per nxjerrjen e nje vendimi te n; [ ...J"
+44. Sic;u permend me lart, Gjykata veren se tashme ka shqyrtuar keto pretendime te parashtruesit ne Rastin nr. Kl159/11 dhe i kishte refuzuar si qartazi te pabazuara. Me ate rast, Gjykata, pas vleresimit te kushtetutshmerise se Aktgjykimit (Pn. nr. 530/2011, te 13 tetorit 2011) te Gjykates Supreme, kishte konstatuar se nuk kishte argumente bindese dhe prova qe mund te qonin ne konkludim se ky Aktgjykim apo vendimet e tjera jane nxjerre dukshem ne menyre te padrejte apo arbitrare.
+45. bazuar ne rregullin 36 (3) (d) te Rregullores Si rrjedhoje, se punes, Gjykata konstaton se ajo tashme ka nxjerre nje vendim per rastin ne fjale, dhe se kjo pjese e kerkeses nuk ofron baze te mjaftueshme per nxjerrjen e nje vendimi te fl.
+Sa iperket pretendimeve te parashtruesit lidhur me kerkesen e tij te dyte per perseritje te procedures penale
+46. Per sa i perket pretendimeve te parashtruesit per shkelje te te drejtave te tij te garantuara me Kushtetute nga Zyra e Prokurorit te Shtetit (Njoftimi KMLP. I. nr. 1/14, i 7 marsit 2014), Gjykata i referohet nenit 48 te Ligjit dhe rregullit 36 (2) (d) te Rregullores se punes, te cilat parashohin:
+Neni 48 i Ligjit
+"Parashtruesi i kerkeses ka per detyre qe ne kerkesen e tij te qartesoj saktesisht se dlat te drejta dhe Uripretendon se ijane cenuar dhe cili eshte akti konkret iautoritetit publik te dUn parashtruesi deshiron ta kontestoj".
+Rregulli 36 (2) (d) i Rregullores se punes
+"(2) Gjykata do te deklaroje nje kerkese si qartazi te pabazuar, nese bindet se: [...J,ose
+(d) parashtruesi nuk deshmon ne menyre te mjaftueshme pretendimin tij. [...]"
+47. Ne kete drejtim, Gjykata veren se parashtruesi ne kerkesen e tij te dyte per perseritje te procedures penale, serish kishte pretenduar se Prokurori Publik i Gjykates se Qarkut ne Peje eshte dashur te perjashtohet dhe, si rrjedhoje e mos perjashtimit te tij ishte bere shkelje e rende e dispozitave te procedures penale dhe e nenit 31 te Kushtetutes. Perve<; kesaj, parashtruesi kishte arsyetuar kerkesen e tij te dyte per perseritje te procedures penale duke theksuar qe marrja ne pyetje e deshmitarit te ri do te ndryshonte gjendjen faktike, prandaj, kerkesa e tij per kete <;eshtjedo te duhej te miratohej.
+48. Me tutje, Gjykata veren se me rastin e refuzimit te kerkeses se tij te dyte per perseritje te procedures penale, gjykatat e rregullta kane adresuar pretendimet e parashtruesit dhe ijane pergjigjur kerkesave te tij.
+49. Me konkretisht, Gjykata veren se Gjykata Themelore ne Peje, me rastin e refuzimit te kerkeses se dyte te parashtruesit per perseritje te procedures penale, e arsyetoi vendimin e saj duke iu referuar dispozitave te ligjit ne fuqi dhe u ishte pergjigjur pretendimeve te parashtruesit te paraqitura ne kerkesen e tij.
+Ne Aktvendimin e saj, Gjykata Themelore ne Peje konstatoi se "[...J edhe po te 50. ishte degjuar me heret deshmitari nefjale, edhe sikur po te degjohej tani nuk do ta ndryshoj rrjedhen e procedures penale ndaj te denuarit [..J. Me tutje, nuk ka paraqitur "ndonje kerkese Gjykata Komunale theksoi qe parashtruesi per perjashtimin e prokurorit" dhe se rrjedhimisht nuk kishte "baze Ugjoreper rishikim te procedures penale ne kuptim te nenit 442 par 1. pika 1. te KPPK-
+.." se .
+Perve<;kesaj, Gjykata po ashtu veren se edhe Gjykata e Apelit, me rastin e 51. refuzimit te ankeses se parashtruesit te paraqitur kunder Aktvendimit te Gjykates Themelore ne Peje, e arsyetoi vendimin e saj duke iu referuar dispozitave te ligjit ne fuqi, si dhe parashtresave te parashtruesit ne ankese.
+Gjykata e Apelit kishte mbeshtetur plotesisht Aktvendimin e Gjykates se "gjykata e shkalles se pare, drejt ka vleresuar se Themelore duke konstatuar kerkesa e mbrojtesit te te gjykuarit per rishikimin e procedures penale eshte e pabazuar, meqe, ne rastin konkret nuk jane permbushur kushtet ligjore per rishikimin e procedures penale teparapara me nenin 423 par.l pika 1.3".
+52. Gjykata me tutje veren se edhe Zyra e Prokurorit te Shtetit kishte refuzuar kerkesen e parashtruesit per mbrojtje te ligjshmerise, pasi qe nuk kishte baze ligjore per nje kerkese te tille.
+53. Per me teper, Gjykata po ashtu veren se parashtruesi i kerkeses nuk ka shpjeguar saktesisht si dhe pse vendimet e kontestuara, me te cilat ishte refuzuar kerkesa e tij e dyte per perseritje te procedures perbejne shkelje te te drejtave dhe lirive te tij individuale, te garantuara me Kushtetute, dhe as nuk ka paraqitur prova per te arsyetuar pretendimin per nje shkelje te tille.
+54. Ne kete drejtim, Gjykata thekson se nuk eshte detyre e Gjykates Kushtetuese, qe te merret me gabimet e faktit ose te ligjit (ligjshmerise) qe pretendohet te jene kryer nga ana e Gjykates se Apelit apo nga Zyra e Prokurorit te Shtetit, pervec;, nese ato kane shkelur te drejtat dhe lirite e mbrojtura me Kushtetute (kushtetutshmerine).
+55. Gjykata Kushtetuese rithekson se nuk vepron si gjykate e shkalles se katert, perkitazi me vendimet e nxjerra nga gjykatat e rregullta ose nga autoritetet tjera publike. Roli i gjykatave te rregullta eshte t'i interpretojne dhe t'i zbatojne (Shih, mutatis rregullat perkatese te se drejtes procedurale dhe materiale mutandis, Garcia Ruiz kunder Spanjes, Nr. 30544/96, Aktgjykim i GJEDNJ-se i 21 janarit 1999, paragrafi 28; shih gjithashtu Gjykata Kushtetuese ne Rastin Faik Hima, Magbule Hima dhe Bestar Hima, Kl70/11, te parashtruesve Aktvendim per papranueshmeri i 16 dhjetorit 2011).
+56. Gjykata Kushtetuese mundet vetem te shqyrtoje nese provat jane paraqitur ne nje menyre te tille, dhe nese procedurat ne pergjithesi, te shikuara ne teresine e tyre, jane kryer ne menyre te tille sa qe parashtruesi te kete pasur gjykim te drejte (Shih, inter alia, Raporti i Komisionit Evropian per te Drejtat e Njeriut ne rastin Edwards kunder Mbreterise se Bashkuar, App. Nr. 13071/87, te aprovuar me 10 korrik 1991).
+57. Gjykata konsideron se procedurat ne Gjykaten Themelore dhe ne Gjykaten e Apelit, si dhe refuzimi i kerkeses se parashtruesit per mbrojtje te ligjshmerise nga Zyra e Kryeprokurorit te Shtetit kane qene te drejta dhe te arsyetuara (Shih, mutatis mutandis, Shub kunder Lituanise, Nr. 17064/06, KEDNJ, Vendimi i 30 qershorit 2009).
+58. Prandaj, Gjykata konstaton se kjo pjese e kerkeses duhet te deklarohet si e papranueshme sepse parashtruesi nuk ka deshmuar ne menyre te mjaftueshme pretendimin tij.
+59. Si perfundim, Gjykata, ne pajtim me rregullin 36 (2) (d) dhe 36 (3) (d) te Rregullores se punes, konkludon qe kerkesa eshte e papranueshme.
+PER KETO ARSYE
+Gjykata Kushtetuese, ne pajtim me rregullat 36 (2) (d) dhe 36 (3) (d) te Rregullores se punes, me 10 gusht 2015, njezeri
+VENDOS
+I. TA DEKLAROJE kerkesen te papranueshme;
+II. T'UA KUMTOJE kete vendim paleve;
+TA PUBLIKOJE kete vendim ne Gazeten Zyrtare, ne pajtim me nenin III.
+2004 te Ligjit; dhe
+IV. Ky vendim hyn ne fuqi menjehere.
+Gjyqtariraportues Kryetarj Gjykates Kushtetuese ~YJ2
+Ivan Cukalovic Arta Rama-Hajrizi
