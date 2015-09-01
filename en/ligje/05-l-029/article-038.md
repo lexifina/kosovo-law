@@ -1,0 +1,29 @@
+# Article 38
+Tax Payments
+1. According to this Law, each taxpayer under this Law shall make quarterly advance payments of tax to an account designated by the Tax Administration of Kosovo in a bank or financial institution licensed by the Central Bank of Kosovo by 15 April, 15 July, 15 October, and 15 January with respect to the calendar quarter immediately preceding these dates.
+2. The amount of each quarterly advance payment shall be as follows:
+2.1. Taxpayers with annual gross income of fifty thousand (50,000) € who are not required to, or do not opt to, submit the annual statements according to Article 37 of this Law shall make the following payments per quarter:
+2.1.1. three percent (3%) of gross income received from trade, transport, agricultural and similar commercial activities of each quarter, but not less than thirty seven point five (37.5) € per quarter.
+2.1.2. nine percent (9%) of gross income for the quarter from services, professional, vocational, entertainment and similar activities of each quarter, but not less than thirty seven point five (37.5) € per quarter.
+2.1.3. ten percent (10%) of gross rent income for the quarter (gross rent income not less than ten percent (10%) of the allowances foreseen in paragraph 4 of article 9 of this Law), reduced by any amount withheld during that quarter pursuant to paragraph 3 of Article 30 of this Law;
+2.1.4. if a taxpayer described in sub-paragraph 2.1 of this Article has no income on quarterly period, no payment shall be required, but the taxpayer shall submit the declaration of the quarterly instalment for the period when he/she has no tax liability.
+2.2. taxpayers, according to paragraph 1 of Article 37 of this Law, shall make the quarterly payments as follows:
+2.2.1. one-fourth (1/4) of the total tax liability for the current tax period based on estimated taxable income reduced by any amount withheld during the quarter with respect to that income in accordance with the relevant legislation on Corporate Income Tax; or
+2.2.2. for the second and subsequent tax periods that a taxpayer makes payment under this paragraph, at least one-fourth (1/4) of one hundred and ten percent (110%) of the total tax liability of the preceding tax period for current tax period, reduced by any amount withheld during the quarter with respect to that income in accordance with the relevant legislation on Corporate Income Tax;
+3. Taxpayer who exceeded the gross turnover over fifty thousand (50.000) € is obliged to report his/her income and shall make payments in accordance with paragraph 1 of Article 35 of this Law and sub-paragraph 2.2 of this Article, for the tax period in which the gross turnover exceeds fifty thousand (50.000) € and at least for three (3) subsequent tax periods.
+4. A taxpayer who makes quarterly advance payments pursuant to sub-paragraph 2.2 of this article shall perform a final settlement of tax and pay the final amount due on or before 31 March of the year following the tax period.
+5. The amount for final adjustment is the total tax amount for the tax period set in accordance with this Law, decreased for:
+5.1. the withholding tax amounts by others and paid to the TAK in accordance with relevant legislation on Corporate Income Tax;
+5.2. amounts paid in quarter instalments;
+5.3. external tax credit allowed according to this Law.
+6. If the amounts paid, or credited according to paragraph 5 of this Article are higher than the total tax amount set in accordance with this Law, the taxpayer shall be entitled to the:
+6.1. reimbursement of excessive amount of taxes paid; or
+6.2. on the taxpayer’s request is entitled to carry forward as advance for the subsequent year.
+7. If the advance payment has not been timely made or has been made in the amount which is lower than that required, TAK shall apply a penalty in an amount equal to the interest rate applicable at the time when the advance payment was obligatory to be made. There shall be no other additions in tax for late advance payments or insufficient payments. If payments or adjusted payments of quarterly instalments are made on or before the due date and the declaration with final regulations or final declaration with adjusted regulations is made as is foreseen under paragraph 4 of this Article, then there shall be no interest or penalty for insufficient payment required; if:
+7.1. the difference between the amount due in each instalment and the amount paid for each instalment is not greater than twenty percent (20%) of the amount due; or
+7.2. after the taxpayer’s first tax period, the amount paid in each instalment is at least ten percent (10%) higher than one-fourth (1/4) of the tax liability in the tax declaration for the preceding tax period.
+7.2.1. if TAK carries out a control of any year and makes an adjustment of tax of that year over twenty percent (20%), the exemption from penalty envisaged in sub- paragraph 7.2 of this Article shall not be applied in the requests for advance payment for the subsequent tax period.
+7.3. for the first business period, taxpayer shall not be found liable if the amount for quarter advance payments including the fourth quarter instalment is over eighty percent (80%) of the final obligatory tax for that tax period.
+7.4. taxpayer suffering losses in the Declaration of Corporate Income Tax of previous year is not entitled to use provisions of sub-paragraph 2.2.2 of this Article in making advance payments for the current year. Such taxpayer shall make advance payments in accordance with provisions of sub-paragraph 2.2.1 of this Article.
+7.5. penalty to be charged according to this Article shall be applied only to the underpaid amount from the obligatory date of advance instalments up to the date prescribed in paragraph 4 of this Article in order to make final adjustments for the tax periods.
+8. The Minister shall issue a sub-legal act for the implementation of this Article.

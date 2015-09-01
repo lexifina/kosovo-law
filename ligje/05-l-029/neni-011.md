@@ -1,0 +1,5 @@
+# Neni 11
+Shpenzimet e përfaqësimit, reklamës dhe promocionit ekonomik
+1. Në shpenzimet e përfaqësimit përfshihen shpenzimet me karakter të përgjithshëm që një person afarist bënë për prezantimin dinjitoz të saj në marrëdhënie me partnerët apo institucionet e tjera, si: organizimi i takimeve, prezantimi i projekteve të reja, përurimi i linjave apo prodhimeve të reja, qerasjet dhe pritje-përcjelljet që lidhen me aktivitetin e biznesit.
+2. Shpenzimet e përfaqësimit do të jenë të kufizuara në një përqind (1%) të të ardhurave bruto vjetore.
+3. Shpenzimet e reklamës dhe promocionit të cilat bëhen përmes formave të ndryshme të informimit, siç janë: televizioni, radio, gazeta, revista, reklama e drejtpërdrejtë, interneti, posterat, afishet, billbordat, reklamat tranzite e të tjera të ngjashme, janë shpenzime tërësisht të zbritshme për qëllime tatimore.

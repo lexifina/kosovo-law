@@ -1,0 +1,5 @@
+# Article 18
+Repairs and improvements
+1. In the case of any depreciable assets, the amounts spent for repairs or for improvements, excluding repairs for usual maintenance shall be capitalised and shall be added to the asset base, if repairs or improvements exceed the useful life of the asset for at least one (1) year and the amount of repair or improvement is higher than one thousand (1,000) € for that asset. If the repair or improvement is higher than one thousand (1,000) € or less for any assets, the amount of repairs or improvements shall be expenses in the year paid or occurred.
+2. If repairs or improvements meet the criterion for capitalisation according to paragraph 1 of this Article, the amount shall be capitalised and added to the remaining accounting value of the capital asset. The new asset accounting value shall be used as the basis for asset depreciation. The asset shall be depreciated in accordance with the applicable category rules.
+3. The Minister shall issue a sub-legal act for the implementation of this Article.

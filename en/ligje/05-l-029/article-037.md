@@ -1,0 +1,4 @@
+# Article 37
+Tax Declarations
+1. A taxpayer that is required or opts to be subject to taxation based on real income is obliged to prepare and declare income, by adjusting the income and expenses reported for taxable purposes. The taxpayer shall submit to TAK the annual declaration on corporate income tax by 31 March of the following year of the tax period. The declaration shall be made on the forms prescribed by the Tax Administration of Kosovo and the tax rate shall be the profit presented in financial statements prepared in accordance with the accounting standards, increased or decreased in accordance with provisions set out by this Law:
+1.1. such taxpayers are also required to submit, together with the tax declaration, the financial statements prepared in accordance with accounting standards and relevant applicable legislation in power.

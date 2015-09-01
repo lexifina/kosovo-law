@@ -1,0 +1,17 @@
+## KAPITULLI IV
+## FITIMET DHE HUMBJET NË KAPITAL, HUMBJET NË BIZNES
+# Neni 21
+Fitimet dhe humbjet në kapital
+1. Fitimet kapitale nënkuptojnë të ardhurën, të cilën tatimpaguesi e realizon përmes shitjes apo formave tjera të tjetërsimit të pasurive kapitale duke përfshirë pasurinë e tundshme, patundshme dhe letrat me vlerë.
+2. Shuma e fitimit kapital paraqet dallimin pozitiv të çmimit të shitjes së pasurisë kapitale dhe të çmimit të pasurisë siç është përcaktuar në paragrafin 5 të këtij neni.
+3. Çmimi i shitjes së një pasurie kapitale do të jetë shuma e çdo shume të pranuar, plus çdo kompensim tjetër i pranuar, si konsideratë për atë shitje.
+4. Nëse palët janë persona të lidhur dhe çmimi i shitjes është më i vogël se vlera e hapur e tregut, atëherë, për qëllim të këtij neni, çmimi i shitjes do të rregullohet në vlerën e hapur të tregut në mënyrën e përshkruar me akt nënligjor të nxjerrë nga Ministri.
+5. Kostoja e pasurisë kapitale është shuma, të cilën tatimpaguesi e ka paguar për përvetësimin e pasurisë, përfshirë shpenzimet e dala në përvetësimin e asetit që më herët nuk janë shpenzuar, që rritet me shpenzimet e përmirësimeve dhe zvogëlohet nga zhvlerësimet apo shpenzimet tjera të lejueshme sipas këtij ligji.
+6. Fitimet kapitale do të pranohen si të ardhura biznesi dhe humbjet kapitale si humbje biznesi, nëse nuk parashihet ndryshe me këtë ligj.
+7. Fitimet dhe humbjet kapitale nuk do të pranohen për asetet e grupuara, asetet në kategorinë 2 dhe kategorinë 3, të parapara me nenin 15, paragrafin 3, nënparagrafin 2 dhe nënparagrafin 3 të këtij ligji, të përvetësuara para hyrjes në fuqi të këtij ligji.
+8. Humbja kapitale nënkupton humbjen që e pëson tatimpaguesi nga shitja apo ndonjë formë tjetër e tjetërsimit të pasurisë kapitale, përfshirë pasurinë e tundshme, patundshme dhe letrat me vlerë.
+9. Shuma e humbjes në kapital paraqet dallimin negativ në mes të çmimit të shitjes së pasurisë kapitale sipas paragrafit 3 apo 4 të këtij neni dhe kostos së pasurisë kapitale siç është përcaktuar në paragrafin 5 të këtij neni.
+10. Humbjet kapitale do të trajtohen sikurse humbje të zakonshme nga veprimtaritë ekonomike. Dispozitat e nenit 23 të këtij ligji do të aplikohen për humbjet e përshkruara në këtë paragraf.
+11. Të ardhurat bruto nga fitimet kapitale nuk përfshijnë fitimet kapitale të realizuara nga shitja e pasurisë së Trustit të Kursimeve Pensionale të Kosovës apo ndonjë fondi tjetër pensional të përkufizuar me legjislacionin mbi pensionet në Kosovë.
+12. Një fitim kapital nuk do të pranohet në shndërrimin e pavullnetshëm të pasurisë deri në shkallën sa konsiderata e pranuar nga shndërrimi përbëhet qoftë nga pasuria e të njëjtit karakter ose natyrë, apo nga para që janë investuar në pasuri të të njëjtit karakter apo natyre përbrenda një periudhe zëvendësuese prej dy (2) vjetëve.
+13. Nëse një shitje e një aseti kapital përfshinë një marrëveshje me këste që zgjatë më shumë se periudha tatimore në të cilën shitja është finalizuar, ku të gjitha dokumentet e aplikueshme janë nënshkruar nga të gjitha palët dhe marrëveshja e shitjes është ligjërisht e zbatueshme, çdo fitim duhet të raportohet në bazë lineare gjatë ekzistencës së marrëveshjes me këste dhe shumës së fitimit që i atribuohet çdo periudhe tatimore duhet të raportohet në deklaratën tatimore si e ardhur në atë periudhë tatimore. Dispozitat tjera që lidhen me shitjet me këste rregullohen me akt nënligjor të nxjerr nga Ministri.

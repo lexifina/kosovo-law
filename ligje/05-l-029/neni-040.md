@@ -1,0 +1,4 @@
+# Neni 40
+Dispozitat shfuqizuese
+1. Me hyrjen në fuqi të këtij ligji, shfuqizohet Ligji Nr. 03/L-162 për Tatimin në të Ardhurat e Korporatave, miratuar nga Kuvendi më 29 dhjetor 2009 dhe publikuar në Gazetën Zyrtare të Republikës së Kosovës Nr. 64, më 1 shkurt 2010, Ligji nr. 04/L-103 për ndryshimin dhe plotësimin e Ligjit për Tatimin në të Ardhurat e Korporatave Nr. 03/L-162, miratuar nga Kuvendi më 3 maj 2012 dhe publikuar në Gazetën Zyrtare të Republikës së Kosovës Nr. 13, më 30 maj 2012, si dhe çdo dispozitë tjetër që bien në kundërshtim me këtë ligj.
+2. Përjashtimisht nga paragrafi 1, dispozitat e legjilsacionit të shfuqizuar nga paragrafi 1 i këtij neni, do të vazhdojnë të zbatohen nga ATK-ja në shqyrtimin e çështjeve tatimore që i takojnë periudhave deri në hyrjen në fuqi të këtij ligji.

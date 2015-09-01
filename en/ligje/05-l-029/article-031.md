@@ -1,0 +1,5 @@
+# Article 31
+Withholding tax for special categories
+1. Each taxpayer making payments to non-business natural persons, farmers, agriculturist, collectors of recycle materials, forest fruits, healing plants and similar, shall be obliged to withhold tax at the rate of three percent (3%) of gross payment, at the moment of payment.
+2. Each taxpayer which is required to withhold tax according to paragraph 1 of this Article, shall submit the statement of withholding tax and shall transfer the amount of the withholding tax in the accounts designated by TAK in a bank, or financial institution licensed by Central Bank of Kosovo within fifteen (15) days following the last day of each calendar month, in accordance with the sublegal act issued by the Minister.
+3. Each taxpayer which is required to withhold tax according to paragraph 1 of this Article, by 1 March of the subsequent tax period, shall provide to each non-business natural person withholding tax, a certificate of tax withholding in the form specified by a sub-legal act issued by the Minister.
