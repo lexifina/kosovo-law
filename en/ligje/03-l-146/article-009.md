@@ -1,6 +1,0 @@
-# Article 9
-Cancellation of registration
-1. Every registered taxable person may request that TAK cancel his registration for VAT purposes if his total supplies over the last twelve (12) calendar months, has fallen below the threshold referred to in Article 6 of this Law. The cancellation has effect twelve (12) months after the date of the submission of the request.
-2. Every registered taxable person is obliged to require the cancellation from the moment of ceasing his activity. He shall notify TAK within fifteen (15) days after the cessation of his activity. Such cancellation has effect from the date of notification of the cessation of activity.
-3. TAK may cancel the registration of a taxable person registered for VAT purposes where such person fails to comply with the provisions of this Law. TAK shall notify the person of the decision and provide the reasons for the decision.
-4. The Minister of Economy and Finance shall issue a sub-legal act to determine the procedures in respect of the implementation of the articles 7, 8 and 9 of this Law. This sub-legal act shall also provide specific threshold calculation rules for categories of persons whose turnover is for the majority composed of exempt supplies.

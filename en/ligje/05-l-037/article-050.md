@@ -1,0 +1,4 @@
+# Article 50
+Issuance and Sending invoices by electronic means and documents serving as invoices 1. Invoices and other documents issued pursuant to this Chapter, may be sent on paper or, subject to acceptance by the recipient, may be sent or may be made available by electronic means. The authenticity of the origin and the integrity of their content must be guaranteed by means of an advanced electronic signature or by means of electronic data interchange.
+2. The specific obligations or formalities relating to the issuance, the sending or making available of invoices or similar documents by electronic means and the electronic signature which are in accordance with the European Union arrangements and recommendations shall be defined in the sub-legal act to be issued by the Minister of Finance.
+3. Any document or message that amends and refers specifically and clearly to the initial invoice is treated as an invoice.

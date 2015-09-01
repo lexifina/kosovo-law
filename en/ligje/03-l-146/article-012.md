@@ -1,5 +1,0 @@
-# Article 12
-Application of goods for business needs under certain VAT deduction circumstances
-1. The application by a taxable person for the purposes of his business of goods produced, constructed, extracted, processed, purchased or imported in the course of such business, where the VAT on such goods, had they been acquired from another taxable person, would not be wholly deductible, are considered as a supply of goods for consideration.
-2. The application of goods by a taxable person for the purposes of a non-taxable area of activity, where the VAT on such goods became wholly or partly deductible upon their acquisition or upon their application in accordance with paragraph 1 of this Article, are considered as a supply of goods for consideration.
-3.With the exception of the cases referred to in Article 13 of this Law, the retention of goods by a taxable person, or by his successors, when he ceases to carry out a taxable economic activity, where the VAT on such goods became wholly or partly deductible upon their acquisition or upon their application in accordance with paragraph 1 of this Article, are also considered as a supply of goods for consideration.

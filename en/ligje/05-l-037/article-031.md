@@ -1,0 +1,14 @@
+## CHAPTER X
+## EXEMPTIONS ON EXPORTATION
+# Article 31
+Exemptions on exportation 1. The following transactions are exempted:
+1.1. the supply of goods dispatched or transported to a destination outside Kosovo by or on behalf of the vendor;
+1.2. the supply of goods dispatched or transported to a destination outside Kosovo by or on behalf of a customer not established within the territory of Kosovo, with the exception of goods transported by the customer himself for equipping, fuelling and securing private boats and private aircraft or any other means of transport for private use;
+1.3. the supply with goods to bodies recognised by the competent Kosovo Authority which export them out of Kosovo as part of their humanitarian, charitable or teaching activities outside Kosovo;
+1.4. the supply with services consisting in work carried out on movable property acquired or imported for the purpose of undergoing such work within Kosovo, and dispatched or transported out of Kosovo by the supplier, by the customer if not established within Kosovo or on behalf of either of them;
+1.5. the supply of services, including transport and supporting services, but excluding the services exempted in accordance with Articles 27 and 28 of this Law where these services are directly linked to exportation or importation of goods. When it comes to importation, exemptions shall apply only for services to be included in the taxable amount under sub-paragraph 1.4 of paragraph 1 of Article 25 of this Law.
+2. Goods to be carried in the personal luggage of travellers:
+2.1. when the supply of goods referred to in sub-paragraph 1.2 of paragraph 1 of Article 31 of this Law relates to goods to be carried in the personal luggage of travellers, the exemption shall apply only if the following conditions are met:
+LAW No. 05/L -037 ON VALUE ADDED TAX / ANNEX 2.1.1. the traveller is not established within Kosovo;
+2.1.2. the goods are transported out of Kosovo before the end of the third month following the one when the supply took place, 2.1.3. the total value of the supply, including VAT, is more than one hundred and seventy five (175) €. A traveller who is not established within Kosovo shall mean a traveller whose permanent address or residence is not located within Kosovo. In that case permanent address or residence shall mean a place entered as such in a passport, identity card or other document recognised as an identity document by the country within whose territory the supply takes place. Evidence of exportation shall be furnished by means of the invoice or other document in lieu thereof, endorsed by the customs office in exit from Kosovo.
+2.2. the reimbursement of VAT paid under sub-paragraph 2.1 of paragraph 2 of this Article shall be defined by sub-legal act to be issued by the Minister Finance who shall also define the date from when the reimbursement shall apply.

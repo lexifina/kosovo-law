@@ -1,0 +1,6 @@
+# Neni 38
+Mënyra e ushtrimit të së drejtës për të zbritur TVSH-në e zbritshme
+1. Personat e tatueshëm bëjnë zbritjen duke zbritur nga shuma totale e obligimit të TVSH-së për një periudhë të caktuar tatimore, shumën totale të TVSH-së në lidhje me të cilën gjatë së njëjtës periudhë ka lindur e drejta për ta zbritur në pajtueshmëri me paragrafin 1 dhe 2, të nenit 37 të këtij ligji.
+2. Nëse personi i tatueshëm nuk e zbret TVSH-në e tij të zbritshme në këtë periudhë tatimore, ai mund ta zbres këtë shumë të TVSH-së së zbritshme në çdo kohë pas kësaj periudhe tatimore, mirëpo, jo më vonë se në periudhën e fundit tatimore të vitit kalendarik që vijon pas vitit në të cilin ai e ka pasur të drejtën që të zbres TVSH-në e zbritshme.
+3. Nëse personi i tatueshëm pranon një faturë që tregon TVSH-në nga personi i cili nuk ka të drejtë që të kërkojë TVSH-në sipas këtij ligji, ai nuk duhet të zbres TVSH-në e paraqitur si TVSH të zbritshme, pavarësisht nga ajo se ai e ka paguar atë TVSH.
+4. Nëse një person i tatueshëm pranon një faturë që tregon një shumë të TVSH-së e cila e tejkalon shumën e TVSH-së, e cila është dashur të ngarkohet sipas këtij ligji, personi i tatueshëm nuk duhet të zbres shumën e tepërt si TVSH të zbritshme, edhe nëse është paguar ajo TVSH.

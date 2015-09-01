@@ -1,0 +1,16 @@
+# Article 40
+VAT Refund Claims 1. A taxable person may carry forward the excess VAT credit to the following tax period or may submit a VAT refund claim if the taxable person has carried forward the input VAT excess for three (3) consecutive months. The VAT return of a taxable person reflects an amount of deductions that exceeds the amount of VAT due amount. The excess VAT credit carried forward
+LAW No. 05/L -037 ON VALUE ADDED TAX / ANNEX may be applied against the VAT liability in the succeeding tax periods.
+2. Without prejudice to the relevant Law on Tax Administration and Procedures and for the purpose of ensuring the correct and straightforward application of this Article, the following procedures shall apply in respect of VAT refund claims:
+2.1. a taxable person may claim a VAT refund if for three (3) consecutive months is in credit and at the end of the third months the amount of VAT credit exceeds the value of three thousand (3,000) € and if all VAT and other tax returns for all past tax periods have been submitted;
+2.2. the taxable person that has exports may claim a VAT refund after each tax period, provided that the following conditions are met:
+2.2.1. the amount of VAT credit exceeds three thousand (3000) € at the end of the tax period;
+2.2.2. the taxable person complies with all applicable customs and VAT provisions, and 2.2.3. all VAT returns and other tax returns for all past periods are submitted.
+3. Proof in respect of VAT refund claims are as follows:
+3.1. at the moment of making a refund claim, the taxable person must be in the possession of all evidences and documents referred to in paragraph 4 of this Article and defined in the sub-legal act to be issued by the Minister of Finance;
+3.2. TAK shall retain the refund where the evidences and documents are not in the possession of the taxable person or if there are indications that the reported data in the VAT return in which the amount of the VAT refund is reported and previous VAT returns, are not correct. Such indications must be documented in an official minutes established by a TAK officer or Customs officer. Such tax report provides evidence unless the taxable person proves otherwise. TAK shall notify the taxable person that the refund will be retained and provide an explanation of the reasons for retaining the refund with a motivated decision;
+3.3. the refund shall be retained until the competent TAK office receives the necessary missing evidences, documents and tax returns. If the documentation is not provided within the required timeframes established by TAK, the control of the VAT refund claim will be closed and a final report will be issued and provided to the taxpayer explaining the reasons for not approving the refund claim;
+3.4. no interests for late refund as referred to in sub-paragraph 3.2 and 3.3 of this paragraph are incurred during the period that the VAT refund is retained;
+4. The Minister of Finance shall issue a sub-legal act to determine:
+4.1. the procedures and conditions in respect of VAT refunds related to periodic VAT returns; and
+LAW No. 05/L -037 ON VALUE ADDED TAX / ANNEX 4.2. alternative procedures for refunding VAT to persons not required to submit VAT returns, to persons who are stopping their economic activity and to taxable persons and customers not established in Kosovo.

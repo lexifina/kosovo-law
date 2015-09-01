@@ -1,0 +1,21 @@
+## CHAPTER XIII
+## DEDUCTIONS
+# Article 36
+The right to deduct VAT 1. The right to deduct input VAT shall be born when VAT becomes chargeable. A taxable person cannot deduct input VAT before the tax period in which he received invoices for goods or
+LAW No. 05/L -037 ON VALUE ADDED TAX / ANNEX services supplied to him or in which he received customs declarations for imported goods.
+2. Unless otherwise stipulated by this Law, a taxable person may deduct from his VAT liability, the VAT due or VAT paid in respect of purchases of goods or services, hereinafter indicated as input VAT, provided he used or will use such goods or services for the purposes of his taxable transactions:
+2.1. the input VAT due or paid within the territory of Kosovo in respect of goods or services supplied or to be supplied to him by another taxable person;
+2.2. the input VAT due or paid within the territory of Kosovo in respect of importation of goods;
+2.3. the input VAT due in accordance with paragraph 1 of Article 12 and Article 16 of this Law.
+3. In addition to the deduction referred to in paragraph 2 of this Article, every taxable person shall also have the right to deduct the input VAT referred to therein in so far as the goods and services are used for the following purposes:
+3.1. transactions relating to the activity from paragraph 1 of Article 4 of this Law carried out outside Kosovo in which that tax is due or paid, in respect of which VAT would be deductible if they had been carried out in Kosovo;
+3.2. transactions exempted pursuant to Chapters X, XI and XII of this Law.
+3.3. any of the transactions exempt in accordance with sub-paragraphs 1.1 till 1.6 of paragraph 1 of Article 28 of this Law, if the customer is established outside Kosovo or if such transactions are directly linked to goods intended for export to a country outside Kosovo.
+4. As regards goods and services used or to be used by a taxable person for transactions foreseen in paragraph 2 and 3 of Article 36 of this Law which VAT may be deducted, and for transactions, for which VAT shall not be deducted, only such a proportion of the VAT may be deducted as is attributable to the first transactions. Such proportion of input VAT shall be determined in accordance with Article 39 of this Law for all transactions carried out by the taxable person.
+5. A taxable person shall not deduct input VAT on:
+5.1. yachts and boats intended for sport and recreation, private aircraft, cars and motorcycles only used for non-business purposes, fuels and lubricants and spare parts and services closely linked thereto, other than vessels or vehicles used for leasing and renting and for resale, and vehicles used in driving schools for the provision of the drivers training programme in accordance with the regulations in force and combined vehicles for carrying out an activity of a public line and special line transport. If a vehicle is not used exclusively for carrying out an activity of a public and special line transport, a taxable person may claim a VAT deduction only for the part related to carrying out of this activity;
+5.2. the total purchase costs and current expenditures as regards cars used for both private, at the same time for business purposes. In such case, the right to deduct input VAT is only allowed to a maximum of fifty percent (50%).
+LAW No. 05/L -037 ON VALUE ADDED TAX / ANNEX 5.3. representation costs which shall include only costs for hosting and entertainment during business or social contacts, including food costs, drinks and accommodation costs.
+5.4. when the immovable property is part of a taxable person’s business assets and is being used for the taxable person’s business purposes and for private purposes or for his staff, or generally, for purposes other than of his business, the VAT on costs incurred on this property shall be deducted only to the extent this property is used for business purposes of the taxable person..
+5.5. regardless of Article 15 of this Law, changes to the proportion of using the immovable property as referred to sub-paragraph 5.4 of this paragraph shall be considered in line with principles set forth in Article 41 of this Law.
+5.6. the Minister of Finance shall issue a sub-legal act to determine the implementation and the costs subject to restrictions.

@@ -1,0 +1,4 @@
+# Neni 5
+Autoritetet Publike
+1. Autoritetet e nivelit qendror dhe lokal dhe organet tjera të rregulluara me ligj, nuk duhet të konsiderohen si persona të tatueshëm në lidhje me aktivitetet ose transaksionet, në të cilat angazhohen si autoritete publike edhe atëherë kur mbledhin tagra, taksa, kontribute ose pagesa në lidhje me ato aktivitete ose me ato transaksione.
+2. Nëse Autoritetet e nivelit qendror dhe lokal dhe organet tjera të rregulluara me ligj, angazhohen në aktivitetet ose transaksionet e përkufizuara në Shtojcën nr. 1 të këtij ligji, në lidhje me këto aktivitete ose me këto transaksione, ato duhet të konsiderohen si persona të tatueshëm, me kusht që këto aktivitete të mos zhvillohen në shkallë shumë të ulët sa që të jenë të papërfillshme, ose nëse zhvillohen nga personat juridikë apo fizikë, ku personat e tillë nuk do të ishin të obliguar të regjistrohen për qëllime të TVSH-së, sikur që është referuar në nenin 6 të këtij ligji.

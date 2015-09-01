@@ -1,0 +1,17 @@
+# Neni 40
+Kërkesat për rimbursim të TVSH-së
+1. Personi i tatueshëm mund të bartë kreditin e tepërt të TVSH-së në periudhën tatimore vijuese apo mund të dorëzojë kërkesën për rimbursim të TVSH-së, nëse personi i tatueshëm ka bartur tepricën e TVSH-së së zbritshme për tre (3) muaj radhazi. Deklarata e TVSH-së e personit të tatueshëm pasqyron një shumë të zbritjeve e cila e tejkalon shumën e obligimit të TVSH- së. Krediti i tepërt i bartur i TVSH-së mund të zbatohet kundrejt detyrimeve të TVSH-së në periudhat tatimore pasuese.
+2. Pa paragjykuar Ligjin përkatës për Administratën Tatimore dhe Procedurat, dhe me qëllim të sigurimit të zbatimit të drejtë dhe të saktë të këtij neni, për kërkesat e rimbursimit të TVSH-së duhet të zbatohen procedurat si në vijim:
+2.1. personi i tatueshëm mund të kërkojë rimbursimin e TVSH-së nëse për tre (3) muaj radhazi është në kreditim dhe në fund të muajit të tretë shuma e kreditimit të TVSH-së kalon vlerën prej tremijë euro (3000 €), si dhe nëse janë dorëzuar të gjitha deklaratat e TVSH-së dhe tatimeve tjera për të gjitha periudhat tatimore të kaluara.
+2.2. personi i tatueshëm që ka eksporte, mund të kërkojë rimbursimin e TVSH-së pas secilës periudhë tatimore, me kusht që të plotësohen kushtet si në vijim:
+2.2.1. shuma e kreditit të TVSH-së tejkalon tremijë euro (3000€) në fund të periudhës tatimore;
+2.2.2. personi i tatueshëm t’i përmbushë të gjitha dispozitat e aplikueshme doganore dhe të TVSH-së, dhe;
+2.2.3. të jenë dorëzuar të gjitha deklaratat e TVSH-së dhe deklaratat e tjera tatimore për të gjitha periudhat e kaluara.
+3. Dëshmitë në lidhje me kërkesën e rimbursimit të TVSH-së janë si në vijim:
+3.1. në momentin e bërjes së kërkesës për rimbursim, personi i tatueshëm duhet të posedojë të gjitha evidencat dhe dokumentet e referuara në paragrafin 4 të këtij neni dhe të përcaktuara me aktin nënligjor nga Ministri i Financave;
+3.2. ATK-ja nuk do të bëjë rimbursimin nëse personi i tatueshëm nuk posedon evidencat dhe dokumente, ose nëse ka indikacione që të dhënat e raportuara në deklaratën e TVSH-së në të cilën është raportuar shuma e rimbursimit të TVSH-së dhe deklaratat e mëparshme të TVSH-së nuk janë të sakta. Indikacionet e tilla duhet të dokumentohen në raport zyrtar të zyrtarit të ATK-së ose Doganës. Raporti zyrtar siguron evidencë derisa personi i tatueshëm të dëshmojë të kundërtën. ATK me një vendim të arsyetuar duhet të njoftojë personin e tatueshëm për mbajtjen e rimbursimit dhe ofrojë shpjegim për arsyet e mbajtjes së rimbursimit;
+3.3. rimbursimi do të mbahet derisa zyra kompetente e ATK-së të pranojë evidencat e nevojshme, dokumentet dhe deklaratat tatimore që kanë munguar. Nëse dokumentacioni nuk sigurohet brenda afateve të parapara, të caktuara nga ATK-ja, kontrolli i kërkesës për rimbursim të TVSH-së do të mbyllet dhe raporti final i cili do të shpjegojë arsyet për mos aprovimin e kërkesës së rimbursimit do t’i lëshohet dhe ofrohet tatimpaguesit;
+3.4. gjatë periudhës që mbahet rimbursimi i TVSH-së, për rimbursimin e vonuar siç referohet në nën-paragrafin 3.2 dhe 3.3 të këtij paragrafi, nuk krijohet interes.
+4. Ministri i Financave nxjerr akt nënligjor për të përcaktuar:
+4.1. procedurat dhe kushtet në lidhje me rimbursimet e TVSH-së që kanë të bëjnë me deklaratat periodike të TVSH-së, dhe;
+4.2. procedurat alternative për rimbursimin e TVSH-së për personat të cilët nuk janë të obliguar të dorëzojnë deklaratat e TVSH-së, personat të cilët ndërprejnë aktivitetin e tyre ekonomik dhe personat e tatueshëm dhe konsumatorët që nuk janë të vendosur në Kosovë.

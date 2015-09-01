@@ -1,0 +1,6 @@
+# Neni 12
+Aplikimi i mallrave të biznesit për nevoja të biznesit nën rrethana të caktuara të zbritjes
+së TVSH-së
+1. Shfrytëzimi i mallrave të prodhuara, ndërtuara, nxjerra, përpunuara, të blera ose importuara në kursin e atij biznesi, nga personi i tatueshëm për qëllime të biznesit të tij, ku TVSH-ja në ato mallra nuk do të jetë plotësisht e zbritshme, sikur ato të ishin marrë nga personi tjetër i tatueshëm, konsiderohen si furnizime të mallrave për konsideratë.
+2. Shfrytëzimi i mallrave nga personi i tatueshëm për nevoja të aktivitetit në një fushë jo të tatueshme, ku TVSH-ja në ato mallra bëhet plotësisht ose pjesërisht e zbritshme me përvetësimin ose shfrytëzimin e tyre në pajtueshmëri me paragrafin 1 të këtij neni, konsiderohen si furnizime të mallrave për konsideratë.
+3. Me përjashtim të rasteve të referuara në nenin 13 të këtij ligji, mbajtja e mallrave nga personi i tatueshëm, ose nga pasardhësi i tij, kur ai ka pushuar së zhvilluari aktivitetin e tij ekonomik apo ka ndërprerë regjistrimin, ku TVSH-ja në ato mallra bëhet plotësisht ose pjesërisht e zbritshme me përvetësimin e tyre ose me shfrytëzimin e tyre në pajtueshmëri me paragrafin 1 të këtij neni, gjithashtu konsiderohen si furnizime të mallrave për konsideratë.

@@ -1,0 +1,9 @@
+# Neni 56
+Ruajtja e faturave, faturave të borxhit të keq, notë debitit dhe notë kreditit, faturave
+të thjeshtësuara, kuponëve dhe dokumenteve që shërbejnë si fatura, librave dhe
+shënimeve
+1. Çdo person që ka të drejtën dhe obligimin e imponuar nga ky ligj, duhet të sigurohet që të ruhen kopjet e faturave, faturave të borxhit të keq, notë debitit dhe notë kreditit, faturave të thjeshtësuara, kuponëve dhe dokumenteve që shërbejnë si fatura, të lëshuara nga ai vetë ose nga klienti i tij në emrin e tij dhe për llogarinë e tij, dhe të gjitha dokumentet të cilat ai i ka pranuar, si dhe të gjitha librat dhe shënimet, regjistrat dhe të gjitha dokumentet tjera dëshmuese të ruhen për periudhën së paku prej gjashtë (6) vitesh, e cila fillon me një janar pas vitit në të cilin ka ndodhur momenti tatimor. Përjashtimisht nga ky rregull, ruajtja e dokumentacionit për pasurinë e paluajtshme duhet të vlejë periudha njëzet (20) vite. Të njëjtat rregulla vlejnë lidhur me ruajtjen elektronike të këtyre dokumenteve, librave, shënimeve dhe regjistrave.
+2. Çdo person që ka të drejtën dhe obligimin e imponuar nga ky ligj, duhet të mbajë dokumentet e referuara në paragrafin 1 të këtij neni, me radhitje sipas numrit rendor. Numri rendor gjithashtu duhet të figurojë në dokumentin origjinal të lëshuar për klientin e tij.
+3. Vendi i ruajtjes përcaktohet si vijon:
+3.1. çdo person që ka të drejtën dhe obligimin e imponuar nga ky ligj, mund të vendosë për vendin e ruajtjes për të gjitha dokumentet e referuara në paragrafin 1 të këtij neni. Personi i tatueshëm duhet të informojë ATK-në në lidhje me vendin e ruajtjes;
+3.2. ATK-ja duhet të ketë qasje në vendin e ruajtjes dhe të gjitha dokumentet gjithashtu duhet pa vonesë të vihen në dispozicion të ATK-së në vendin ku ai e ka biznesin e tij ose njësinë e tij fikse, ose në mungesë të këtij vendi, vendin ku ai e ka adresën e përhershme ose ku zakonisht banon në Kosovë, kurdo që ATK-ja i kërkon ato.

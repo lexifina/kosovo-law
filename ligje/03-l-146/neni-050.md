@@ -1,5 +1,0 @@
-# Neni 50
-Lëshimi dhe dërgimi i faturave përmes mënyrave elektronike dhe dokumenteve që shërbejnë si fatura
-1. Faturat dhe dokumentet e tjera të lëshuara sipas këtij kreu mund të dërgohen në letër ose varësisht se a pranon pranuesi mund të dërgohen ose vihen në dispozicion përmes mënyrave elektronike. Autenciteti i origjinës dhe integriteti i përmbajtjes së tyre duhet të garantohet nëpërmes të një nënshkrimi elektronik të avancuar ose nëpërmes të shkëmbimit elektronik të të dhënave EDI sikurse është definuar në aranzhimet dhe rekomandimet evropiane.
-2. Obligimet specifike ose formalitetet që lidhen me lëshimin, dërgimin ose vënien në dispozicion të faturave ose dokumenteve të ngjashme përmes mënyrës elektronike dhe nënshkrimet elektronike të cilat janë në pajtueshmëri me aranzhimet e Bashkimit Evropian dhe rekomandimet, do të përcaktohen në aktin nënligjor që nxirret nga Ministri i Ministrisë së Ekonomisë dhe Financave.
-3. Çdo dokument ose njoftim që plotëson dhe që i referohet në mënyrë specifike dhe të qartë faturës fillestare, trajtohet si faturë.

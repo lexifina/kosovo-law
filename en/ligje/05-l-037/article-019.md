@@ -1,0 +1,15 @@
+## CHAPTER IV
+## VENUE OF TAXABLE TRANSACTIONS
+# Article 19
+Venue of supply with goods 1. Where goods are not dispatched or transported, the venue of supply is deemed to be the venue where the goods are located at the time when the supply takes place.
+2. The venue of supply of goods with transport is determined as following:
+2.1. when goods are dispatched or transported by the supplier, or customer, or by a third person, the venue of supply shall be deemed to be the venue where the goods are located at the time when dispatch or transport of the goods to the customer begins;
+2.2. when goods dispatched or transported by the supplier, by the customer or by a third person are installed or assembled, with or without a trial run, by or on behalf of the supplier, the venue of supply shall be deemed to be the venue where the goods are installed or assembled.
+3. The venue of supply of goods on boards of ships, aircraft or trains is determined as following:
+3.1. when goods are supplied on boards of ships, aircraft or trains, the venue of supply shall be deemed to be within Kosovo if the point of departure of the passenger transport is in Kosovo.
+3.2. in the case of in-and-out trip, the return leg shall be regarded as a separate transport operation.
+4. Venue of supply with natural gas and electricity through distribution systems is determined as following:
+LAW No. 05/L -037 ON VALUE ADDED TAX / ANNEX 4.1. in case of the supply with gas through the natural gas distribution system, or of electricity, to a taxable dealer, the venue of supply shall be deemed to be the venue where that taxable dealer has established his business or has a fixed establishment for which the goods are supplied, or, in the absence of such a place of business or fixed establishment, the place where he has his permanent address or usually resides. For the purposes of this sub-paragraph, “taxable dealer” shall mean a taxable person whose principal activity in respect of purchases of gas or electricity is reselling those products and whose own consumption of those products is negligible.
+4.2. in the case of the supply with gas through the natural gas distribution system, or of electricity, where such a supply is not covered by sub-paragraph 4.1 of paragraph 4 of this Article, the venue of supply shall be deemed to be the venue where the customer effectively uses and consumes the goods.
+4.3. when all or part of the gas or electricity is not effectively consumed by the customer, those non-consumed goods shall be deemed to have been used and consumed at the venue where the customer has established his business or has a fixed establishment for which the goods are supplied. In absence of such a venue of business or fixed establishment, the customer shall be deemed to have used and consumed the goods at the venue where he has his permanent address or usually resides.
+5. The Minister of Finance shall issue a sub-legal act to define the venue of supply with goods in cases where several persons enter into transactions over the same good and where the good during the transport or dispatch is directly moved from the first supplier to the last recipient.

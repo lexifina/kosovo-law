@@ -1,0 +1,3 @@
+# Article 7
+Compulsory Registration – an obligation to communicate in registration data 1. Every person, unless otherwise provided in this Law, shall be obliged to register upon reaching the turnover referred to in paragraph 1 of Article 6 of this Law and shall notify the TAK within fifteen (15) calendar days from the moment the obligation for registration arises. The registration is effective on the date when the turnover is exceeded.
+2. Every person who has not notified and has not been registered in due time shall be registered in a compulsory manner by TAK with retroactive effect from the date of exceeding the threshold as defined in paragraph 1 of Article 6 of this Law.

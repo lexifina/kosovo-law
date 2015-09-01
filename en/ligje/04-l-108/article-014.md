@@ -1,8 +1,0 @@
-# Article 14
-1. Article 25 of the basic law after sub-paragraph 1.1. new sub-paragraphs 1.2. and 1.3. shall be added with the following text:
-1.2. where goods temporarily exported from Kosovo, are re-imported in Kosovo after having undergone repair, processing, adaptation, making up or re-working outside of Kosovo, the taxable amount shall be the value of the repair, processing, adaptation, making up or re-working.
-1.3. if goods have been supplied, while they were placed under an arrangement, a procedure or a treatment as referred to in Article 23, sub-paragraph 2.1 of this Law, the taxable amount shall be the value for the last supply, plus the value of exempted services that have been performed in relation to the goods after the last supply.
-2. Article 25 of the basic law the current sub-paragraphs 1.2 and 1.3 shall become sub-paragraphs 1.4 and 1.5 and the current sub-paragraph 1.4 shall be deleted from the text of the law.
-3. Article 25 of the basic law sub-paragraph 1.4.3 the reference to sub-paragraph 1.2.2 shall be changed to 1.4.2
-4. Article 25 of the basic law a new sub-paragraph 1.4.4 shall be added with the following text:
-1.4.4. in regard of goods that cease to be covered by an arrangement, a procedure or a treatment as referred to in Article 23, sub-paragraph 2.1. of this Law, the taxable amount shall include the value of exempted services that have been performed in relation to the goods. Sub-paragraph 1.3. applies for goods that have been supplied while they were placed under an arrangement, a procedure or a treatment as referred to in Article 23, subparagraph 2.1. of this Law.
