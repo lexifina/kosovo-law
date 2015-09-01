@@ -1,0 +1,5 @@
+# Article 40
+Source withholding tax for Special Categories 1. Each business natural person paying for natural non-business person farmers, collectors of recycling materials, berries, herbs and similar is obliged to withhold tax at source at the rate of three percent (3%) in gross payments at the time of payment.
+2. Each business natural person required to withhold tax at source under paragraph 1. of this Article, shall submit a statement of tax withholding and transfer the amount of tax withheld to an account designated by TAK in a bank or financial institution, licensed by the Central Bank of Kosovo within fifteen (15) days after the last day of each calendar month, in line with sub-legal act issued by the Minister.
+3. Each business natural person required to withhold under paragraph 1. of this Article, by 1st March of the year following the tax period shall, for each non-business natural person whose
+LAW No. 05/L -028 ON PERSONAL INCOME TAX income tax is withheld, provide a certificate tax withheld in a form specified within sub-legal act issued by the Minister.

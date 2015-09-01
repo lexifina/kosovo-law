@@ -1,0 +1,7 @@
+# Article 26
+Tax Losses 1. A tax loss as defined by this Law is the negative difference between the taxpayer’s income and expenses and allowances determined in accordance with this law.
+2. The amount of the tax loss determined under this Article may be carried forward for up to six (6) years of successive tax periods and shall be available as a deduction towards any income in those years.
+LAW No. 05/L -028 ON PERSONAL INCOME TAX 3. The carried forward amount taken into account for any tax period after the year of the tax loss shall be the entire amount of the loss, reduced for the aggregate amount previously allowed as a deduction.
+4. If a taxpayer suffered a tax loss more than one (1) year, this Article shall be applied to the losses in the order in which they have arisen.
+5. The provisions of this Article shall be allowable only to the business which created the loss. If the business has an ownership change of more than fifty percent (50%) or if a personal business enterprise is changed in any other form of business (legal entity, partnership, etc.) the loss carried forward shall no longer be allowed.
+6. The Minister shall issue a sub-legal act in order to regulate the provisions for carrying forward the loss related to the changing the type of business organization or changing ownership, as well as every other necessary provision of carrying forward loss for the implementation of this Article.

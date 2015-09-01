@@ -1,0 +1,3 @@
+# Neni 45
+Pagesa e tatimit për pasurinë e paprekshme 1. Secili tatimpagues, i cili merr të ardhura nga pasuria e paprekshme bën pagesa tremujore të tatimit në një llogari të caktuar nga ATK-ja në një bankë apo institucion financiar të licencuar nga BQK-ja, jo më vonë se pesëmbëdhjetë (15) ditë pas përfundimit të çdo tremujori kalendarik.
+2. Shuma e secilës pagesë tremujore sipas paragrafit 1 të këtij neni është dhjetë për qind (10%) e të ardhurave të tatueshme nga pasuria e paprekshme të realizuara në tremujorin kalendarik, e zbritur nga çdo shumë e mbajtur në burim në të drejtat pronësore në përputhje me nenin 39 të këtij ligji apo me dispozitat përkatëse të legjislacionit për tatimin në të ardhurat e korporatave.

@@ -1,0 +1,4 @@
+# Article 50
+Repealing provisions 1. By the entry into force of this Law, the Law no. 03/L-161 on Personal Income Tax, adopted by the Assembly on 29th of December 2009 and published in Official Gazette of the Republic of Kosovo No.64, on 01 February 2010, Law no. 04/L-104 on Amending and Supplementing the
+LAW No. 05/L -028 ON PERSONAL INCOME TAX Law on Personal Income Tax no. 03/L-161, adopted by the Assembly on 3rd of May 2012, and published in the Official Gazette of the Republic of Kosovo N0.13, on 30 May 2012 and any other provision in contradiction to this law shall be repealed.
+2. Regardless of paragraph 1., the provisions of repealed legislation of paragraph 1. of this Article shall continue to be applied by the TAK in reviewing the tax issues that pertain to periods until the entry into force of this Law.
