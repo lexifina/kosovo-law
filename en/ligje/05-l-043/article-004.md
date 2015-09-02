@@ -1,0 +1,11 @@
+## CHAPTER II
+## BENEFICIARIES OF THE DEBT FORGIVENESS
+# Article 4
+The Entities Benefiting from Debt Forgiveness
+1. From public debt forgiveness for the period up to 31 December 2008, pursuant to this law shall be entitled all persons who have outstanding obligations towards the State Institutions and Public Enterprises, provided that the same:
+1.1. shall carry out full payment of obligations for the period from 1 January 2009 until 31 December 2014, then such persons in addition to total debt forgiveness for the period until 31 December 2008, will also benefit remission of fines, penalties, interest and any other obligation arising from failure to timely pay the debt principal for the period January 1 2009 until December 31, 2014; or
+1.2. shall conclude agreements with the State Institution or Public Enterprise for payment of debts by instalments for the period 1 January 2009 to 31 December 2014. Where agreement is reached under sub-paragraph 1.2 of this Article, then such persons, in addition to entire debt forgiveness for the period until 31 December 2008, will also benefit remission of penalties for the period 1 January 2009 to 31 December 2014. Under this paragraph debt payment must be carried out:
+1.2.1. within two (2) years for legal persons from the date of entering into the agreement; and
+1.2.2. within three (3) years by natural persons, from the date of entering into the agreement.
+2. For outstanding debts until 31 December 2008, where the total amount of the basic debt (principal) is in smaller values from one (1) to one hundred (100) euro, the provisions of paragraph 1. of this Article shall not apply and the same will be automatically written-off.
+3. Notwithstanding the provisions of paragraph 1. of this Article, all persons who have no outstanding debts before 2008, but who decide to settle the obligations for the current period from 1 January 2009 to 31 December 2014, according to conditions set out in sub-paragraph 1.1. shall benefit the remission of fines, penalties, interest and any other obligations deriving from failure to timely pay the debt principal, or, if they decide to pay obligations for the current period 1 January 2009 to 31 December 2014 according to conditions set out in sub-paragraph 1.2. shall benefit the remission of penalties.

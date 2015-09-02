@@ -1,0 +1,11 @@
+## KAPITULLI II
+## PËRFITUESIT NGA FALJA E BORXHEVE
+# Neni 4
+Subjektet që përfitojnë nga falja e borxheve
+1. Nga falja e borxheve publike për periudhën deri më 31 dhjetor 2008, sipas këtij ligji përfitojnë të gjithë personat të cilët kanë obligime të pashlyera ndaj Institucioneve Shtetërore dhe Ndërmarrjeve Publike, me kusht që të njëjtit:
+1.1. të kryejnë pagesën e plotë të obligimeve për periudhën nga 01 janar 2009 deri me 31 dhjetor 2014, atëherë personat e këtillë, përveç faljes së tërësishme të borxhit për periudhën deri më 31 dhjetor 2008, do të përfitojnë edhe me faljen e gjobave, ndëshkimeve, interesit dhe çdo obligim tjetër që rrjedh nga mos pagesa me kohë e kryegjësë së borxhit për periudhën 01 janar 2009 deri me 31 dhjetor 2014, ose;
+1.2. të lidhin marrëveshje me Institucionin Shtetëror apo Ndërmarrjen Publike për pagesën e borxheve me këste për periudhën 01 janar 2009 deri me 31 dhjetor 2014. Në rastin kur arrihet marrëveshja sipas nën-paragrafit 1.2 të këtij neni, atëherë personat e këtillë, përveç faljes së tërësishme të borxhit për periudhën deri më 31 dhjetor 2008, do të përfitojnë edhe faljen e ndëshkimeve për periudhën 01 janar 2009 deri më 31 dhjetor 2014. Pagesa e borxhit sipas këtij paragrafi duhet te kryhet:
+1.2.1. brenda afatit prej dy (2) vitesh, për personat juridikë, nga data e lidhjes së marrëveshjes, dhe;
+1.2.2. brenda afatit prej tri (3) vitesh, nga personat fizikë, nga data e lidhjes së marrëveshjes.
+2. Për borxhet e pashlyera deri më 31 dhjetor 2008, ku shuma totale e borxhit bazë (kryegjësë) është në vlera të vogla prej një (1) deri njëqind euro (100), nuk vlejnë dispozitat e paragrafit 1 të këtij neni dhe të njëjtat do të fshihen me automatizëm.
+3. Pavarësisht dispozitave të paragrafit 1 të këtij neni, të gjithë personat që nuk kanë borxhe të pashlyera para vitit 2008, por që vendosin t’i shlyejnë obligimet për periudhën vijuese 01 janar 2009 deri 31 dhjetor 2014, sipas kushteve të vendosura në nën-paragrafin 1.1 do të përfitojnë falje të gjobave, ndëshkimeve, interesit dhe çdo obligim tjetër që rrjedh nga mos pagesa me kohë e kryegjësë së borxhit, apo, nëse vendosin t’i shlyejnë obligimet për periudhën vijuese 01 janar 2009 deri 31 dhjetor 2014, sipas kushteve të vendosura në nën-paragrafin 1.2 do të përfitojnë falje të ndëshkimeve.
