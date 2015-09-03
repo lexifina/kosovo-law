@@ -1,0 +1,7 @@
+## CHAPTER I
+## GENERAL PROVISIONS
+# Article 1
+Purpose and Scope 1. This Law regulates the conditions for purchase, possession, carrying, storage, production, deactivation, repair, trade, import, transit, sale, transport and marking of weapons and ammunition for natural and legal entities within the territory of the Republic of Kosovo and export from the territory of the Republic of Kosovo intended for civilian end use only.
+2. This law is in accordance with the Regulation (EU) No 258/2012 of the European Parliament and of the Council Of 14 March 2012 implementing Article 10 of the United Nations Protocol against the illicit manufacturing of and trafficking in firearms, their parts and components and ammunition, supplementing the United Nations Convention against Transnational Organized Crime (UN Firearms Protocol), and establishing export authorization, and import and transit measures for firearms, their parts and components and ammunition and Council Directive 91/477/EEC on control of the acquisition and possession of weapons amended with Directive 2008/51/EC of the European Parliament and of the Council of 21 May 2008.
+3. The trade of armament, equipment, weapons, parts of weapons and ammunition for military purpose is subject to the Law on Trade of Strategic Goods.
+4. The provisions of this Law shall not apply to military armament, equipment, weapons, parts of weapons and ammunition dedicated for the needs of the Kosovo Security Force and other authorized state institutions.

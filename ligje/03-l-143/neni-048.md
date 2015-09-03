@@ -1,9 +1,0 @@
-# Neni 48
-Trashëgimi i armës
-1. Në rast të vdekjes së pronarit të armës, anëtarët e moshës madhore të familjes së tij ose persona të tjerë të moshës madhore që kanë jetuar me të, në të njëjtën familje, janë të detyruar që në afat prej tridhjetë (30) ditësh nga vdekja e personit t’ua dorëzojnë armën dhe municionin organit kompetent ose stacionit policor më të afërt, për të cilën duhet të jepet dëshmi për dorëzim. Ne rastet kur anëtarët madhor te familjes nuk e dinë vendin se ku gjendet arma, por janë të sigurt se i vdekuri ka poseduar armën, ata duhet ta informojnë organin kompetent.
-2. Arma dhe municioni duhet të ruhen nga organi kompetent deri sa të vendoset në lidhje me trashëgiminë.
-3. Organi kompetent me akt nënligjor përcakton mënyrën e dorëzimit, pranimit dhe ruajtjes së armës dhe municionit në rast të vdekjes së pronarit të armës, si dhe formën dhe përmbajtjen e dëshmisë për dorëzim për armën dhe municionin që lëshohet nga organi kompetent.
-4. Personi që ka trashëguar armën dhe i përmbush kushtet nga nenit 7 të këtij ligji, në afat prej dy (2) muajve, pas përfundimit të procedurës së trashëgimisë mund të paraqet kërkesë për dhënien e lejes për armën. Personi që ka trashëguar armën dhe nuk i përmbush kushtet nga neni 7 i këtij ligji ose nuk e dëshiron marrjen e lejes, e informon organin kompetent që të fillojë procedurën në pajtim me nenin 36 të këtij ligji.
-5. Nëse kërkesa nga paragrafi 4 i këtij neni nuk paraqitet në afatin e paraparë ose kur kërkesa refuzohet, arma dhe municioni merren dhe me ato veprohet në pajtim me nenin 34 të këtij ligji.
-6. Në rast kur i vdekuri nuk ka trashëgimtarë, me armën veprohet sipas nenit 38 të këtij ligji.
-7. Organi kompetent do të informohet nga gjykata kompetente për përfundimin e procedurës së trashëgimisë në afat prej tetë (8) ditëve.

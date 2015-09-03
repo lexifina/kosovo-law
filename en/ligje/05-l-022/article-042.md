@@ -1,0 +1,15 @@
+# Article 42
+Duty to secure the weapon, parts of weapon and ammunition 1. The owner or user of the weapon, part of the weapon and ammunition shall secure the weapon in a manner that does not endanger the personal safety and security of others.
+2. The owner or user of the weapon shall transport the weapon in a manner, if technically possible, which the firearm is disassembled, respectively the barrel shall be separated from the closing mechanism, or if this is impossible, at the least the ammunition shall be separated from the firearm.
+3. It is prohibited to use a weapon by the weapon owner or user if he/she is under influence of alcohol, drugs or any another condition in which he may not understand the gravity of his actions.
+4. It is prohibited to carry weapon unless otherwise described in this law.
+5. It is prohibited for hunting or sports weapons to be used outside of the hunting area or civilian shooting ground. If an owner or user of a hunting weapon transports the weapon outside of the hunting area or civilian shooting ground, the owner or user shall transport the weapon in an adequate holster and all ammunition shall be stored separately from the weapon.
+6. It is prohibited to carry and use collection weapons outside of the permanent residence or dwelling of collector. Collection weapons may be transported outside of the permitted residence or dwelling only for repair, exhibition or sale of the collection weapon based on a permit to move a weapon issued by the competent body.
+7. It is prohibited to supply, possess and manufacture ammunition for collection weapons.
+8. Provision from paragraph 4. of this Article shall not apply for:
+8.1. participants of film productions, theatre performances and other cultural manifestations, were it is required to use unloaded weapons or weapons with blank-fire ammunition, ammunition for cinematographic use, for schools; and
+LAW No. 05/L -022 ON WEAPONS 8.2. acoustic starter pistols at sport manifestations.
+9. The Competent body shall be informed of the events of paragraph 8. of this Article at least fourteen (14) days prior to the event. The respective organization shall acquire consent by the competent body prior to executing the events.
+10. Pneumatic weapon and archery weapons (sinew backed weapons) shall be prohibited to be used outside the recognized shooting area or other licensed secured space.
+11. Sport shooting weapons, may be also used by persons from sixteen (16) to twenty (21) years, whereas pneumatic weapon and archery weapons (sinew backed) may be used also by persons from ten (10) to twenty (21) years old, only in licensed civilian shooting range or in other secure areas designated for sport shooting competition, only under the supervision of an authorized person, unless otherwise provided by the rules of International Shooting Sport Federation or World Archery Federation.
+12. It is prohibited the alteration of weapons from one category to another, exceptionally if there is a permit for adapters.

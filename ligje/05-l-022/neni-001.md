@@ -1,0 +1,7 @@
+## KAPITuLLI I
+## DISPOZITA E PËRgJITHSHME
+# Neni 1
+Qëllimi dhe fushëveprimi 1. Ky ligj rregullon kushtet për blerjen, posedimin, armëmbajtjen, ruajtjen, prodhimin, çaktivizimin, riparimin, tregtimin, importimin, transitin, shitjen, transportimin dhe shënjimin e armëve dhe municionit për personat fizik dhe juridik, brenda territorit të Republikës së Kosovës, si dhe eksportimin nga Republika e Kosovës të destinuara vetëm për përdorim civil.
+2. Ky ligj është në përputhshmëri me Rregulloren (BE) nr. 258/2012 të Parlamentit Evropian dhe të Këshillit të datës 14 mars 2012, që implementon nenin 10 të Protokollit të Kombeve të Bashkuara kundër prodhimit ilegal dhe trafikimit me armë, pjesëve të tyre, përbërësve dhe municionit, që e plotëson Konventën e Kombeve të Bashkuara kundër Krimit të Organizuar Transnacional (Protokolli i Armëve të Zjarrit të KB) dhe krijimi i autorizimit të eksportit, dhe importit dhe masat transite të armëve, pjesëve të tyre, përbërësve dhe municionit dhe Direktivën e Këshillit 91/477/KEE mbi kontrollin e marrjes dhe posedimit të armëve e ndryshuar me Direktiven 2008/51/KE e Parlamentit Evropian dhe Këshillit e datës 21 maj 2008.
+3. Tregtia e armatimit, pajisjeve, armëve pjesëve të armëve dhe municionit, për qëllime ushtarake, i nënshtrohet Ligjit për Tregtinë e Mallrave Strategjike.
+4. Dispozitat e këtij ligji, nuk zbatohen për armatim ushtarak, pajisje, armë, pjesë të armëve dhe municion, të dedikuar për nevojat e Forcës së Sigurisë së Kosovës dhe institucioneve tjera të autorizuara shtetërore të sigurisë.

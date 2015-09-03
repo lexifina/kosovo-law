@@ -1,0 +1,5 @@
+# Article 60
+Transport of weapons, parts of weapons and ammunition by a natural person 1. A citizen of the Republic of Kosovo or a foreigner with permanent residence or transiting may transport across the state border only weapons, parts of weapons and ammunition which are allowed in accordance with the provisions of this law.
+LAW No. 05/L -022 ON WEAPONS 2. While transporting a weapon, parts of weapon and ammunition pursuant to paragraph 1. of this Article, the citizen of the Republic of Kosovo or foreigner shall present the weapon, parts of the weapon and ammunition and the permit issued by the authority in charge, to the authorized officials at the border crossing point.
+3. If the authorized officials at the border crossing points during controlling find a weapon or ammunition that is not reported or a permit or license for weapon or ammunition has not been presented, the authorized official shall seize the weapon or ammunition until the final completion of a criminal offence procedure with a final decision.
+4. The Competent body regulates with a sublegal act the manner of transfer of weapons and ammunition in the state border.

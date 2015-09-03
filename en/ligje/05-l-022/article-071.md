@@ -1,0 +1,3 @@
+# Article 71
+Fines 1. The legal entity will be fined with a fine from one thousand (1000€) up to ten thousand (10.000 €) as the result of violations of Articles 12, 16, 44, 62, 64 and 66 of this law and they do not obey the timeframes determined with respective provisions of this law and they do not comply with conditions for test shooting according to this law.
+2. The Natural person will be fined with a fine from five hundred (500€) up to five thousand (5000€) as the result of violations of Articles 16, 44, 46, 47 and 66 of this Law and they do not obey the timeframes determined with respective provisions of this law and they do not comply with conditions for test shooting according to this law.

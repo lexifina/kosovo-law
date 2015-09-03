@@ -1,0 +1,4 @@
+# Neni 61
+Transporti i armës për gjah nga personi fizik 1. Shtetasit e Republikës së Kosovës të cilët kanë qëndrim të përhershëm në vende të jashtme dhe të huajt, kanë mundësi që për qëllime të gjahut të transportojnë armë gjahu dhe municion për atë armë në Republikën e Kosovës, nëse kanë leje për posedimin e armës së gjahut për gjah, sigurimin shëndetësor dhe ftesën për pjesëmarrje në gjah të aprovuar paraprakisht nga organi kompetent i destinacionit të fundit.
+2. Personat e përcaktuar në paragrafin 1 të këtij neni, janë të obliguar që gjatë kalimit në pikën kufitare ta paraqesin armën për gjah dhe municionin tek zyrtari i autorizuar.
+3. Zyrtarët e autorizuar gjatë kontrollit në pikën kufitare i lëshojnë personit nga paragrafi 1 i këtij neni pëlqim për transport të armëve për gjah gjatë aktiviteteve të gjahut në territorin e Republikës së Kosovës.

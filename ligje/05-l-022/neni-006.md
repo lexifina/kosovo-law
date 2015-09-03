@@ -1,0 +1,9 @@
+# Neni 6
+Kufizimi i pëlqimit 1. Personi fizik i cili është shtetas apo i huaj me vendqëndrim të përhershëm në Republikën e Kosovës ose personi juridik i regjistruar në regjistrin e biznesit të Republikës së Kosovës, duhet të kërkojnë pëlqim për blerjen e armës nga kategoria B dhe C të këtij ligji të cilin e lëshon organi kompetent.
+2. Pjesët thelbësore të armëve dhe municionit për armët me tyta të vjaskuara duhet të blihen në bazë të pëlqimit në përputhje me llojin e armës së zjarrit për të cilën është lëshuar leja.
+3. Pëlqimi për blerjen e armëve të zjarrit dhe pjesëve të armëve të zjarrit dhe të municionit nga paragrafët 1 dhe 2 të këtij neni, vlen gjashtë (6) muaj nga dita e lëshimit të pëlqimit.
+4. Municioni për armë zjarri me tyta të pavjaskuara mund të blihet në bazë të lejes së lëshuar për këto armë zjarri, për të cilin nuk është i nevojshëm pëlqimi.
+5. Personi fizik mund të posedojë municion për armë me tytë me vjaska më së shumti deri në dyqind (200) fishekë, përveç nëse dëshmohet së ekzistojnë shkaqe të arsyeshme për blerje dhe posedim të sasive më të mëdha si për gjah, shenjëtari ose në aktivitete të ngjashme.
+6. Personi fizik ose personi juridik i regjistruar si subjekt i gjahut, shenjëtarisë ose qendër për trajnim mund të posedojë deri në tre (3) kg barut të zi me qëllim të rimbushjes së municionit për armët me tytë pa vjaska për të cilën ata posedojnë leje.
+7. Personi fizik dhe personi juridik mund të posedoj municion të pakufizuar për armët pneumatike për të cilat posedon leje.
+LIGJI Nr. 05/L -022 PËR ARMË 8. Personi juridik që është i licencuar për ushtrimin e veprimtarisë në fushën e shërbimeve private të sigurisë i cili lejon mbajtjen e armës, mund të posedoj municion në sasi të kufizuar në bazë të dhomës së ruajtjes, kurse punëtori i licencuar te ky person juridik mund të mbajë më së shumti pesëdhjetë (50) fishekë për çdo armë të lejuar për mbajtje.

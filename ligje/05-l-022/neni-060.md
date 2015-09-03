@@ -1,0 +1,5 @@
+# Neni 60
+Transporti i armëve, pjesëve të armëve dhe municionit nga personi fizik 1. Shtetasi i Republikës së Kosovës ose i huaji me leje qëndrim të përhershëm ose i huaji që kalon transit, mund t’i bartë vetëm ato lloje të armës, pjesë të armëve dhe municionit, të cilat janë të lejuara në pajtim me dispozitat e këtij ligji.
+LIGJI Nr. 05/L -022 PËR ARMË 2. Gjatë bartjes së armës, pjesëve të armës dhe municionit nga paragrafi 1 i këtij neni, shtetasi i Republikës së Kosovës ose i huaji e kanë për detyrë të paraqesin armën, pjesët e armës dhe municionin, si dhe lejen e lëshuar nga autoritet përgjegjëse, zyrtarit të autorizuar në pikën e kalimit kufitar.
+3. Nëse zyrtari i autorizuar në pikën e kalimit kufitar gjatë kontrollit gjenë armë dhe municion të cilin nuk e ka lajmëruar ose për armën dhe municionin nuk e ka paraqitur lejen apo licencën, zyrtari i autorizuar duhet t’ia konfiskoj armën dhe municionin deri në përfundim të procedurës për kundërvajtje ose procedurës penale, me vendim të plotfuqishëm.
+4. Organi kompetent rregullon me akt nën ligjor mënyrën e bartjes së armëve dhe municionit në kufirin shtetëror.

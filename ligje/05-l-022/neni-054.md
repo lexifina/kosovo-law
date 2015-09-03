@@ -1,0 +1,10 @@
+# Neni 54
+Licenca për çaktivizim të përhershëm të armës 1. Çaktivizimi i përhershëm i armës sipas kategorive A, B, C dhe D do të bëhet përmes procedurave teknike të përcaktuara me akt nënligjor të nxjerrë nga organi kompetent, duke siguruar se arma është çaktivizuar sipas nenit 2 paragrafi 1 dhe nënparagrafi 1.40 të këtij ligji.
+2. Çaktivizimin e përhershëm të armës e bën personi juridik i cili është i regjistruar në regjistrin e bizneseve në Republikën e Kosovës dhe i cili është pajisur me licencë për prodhimin e armëve, pjesëve te armëve dhe municionit ose për riparimin e armëve, dhe kanë marrë licencën për çaktivizim nga organi kompetent.
+3. Aplikuesi paraqet kërkesën tek organi kompetent për marrjen e licencës për çaktivizim. Kërkesa përfshinë dokumentet sipas nenit 13 paragrafit 3 nënparagrfi 3.1, 3.2, 3.3, 3.5 dhe 3.6 të këtij ligji si dhe dëshminë për posedim të licencës për prodhim ose riparim.
+4. Organi kompetent vendos brenda tridhjetë (30) ditëve në lidhje me kërkesën nga paragrafi 3 i këtij neni, sipas procedurave nga neni 15 të këtij ligji.
+5. Pas kryerjes së procedurave teknike nga paragrafi 1 i këtij neni, personi juridik duhet të lëshoj vërtetim së është kryer procedura teknike për çaktivizimin e përhershëm të armës dhe duhet ta informojnë organin kompetent brenda dy (2) ditëve.
+6. Pronari i armës së çaktivizuar është i detyruar që në afat prej pesë (5) ditëve, sipas paragrafit 5 të këtij neni, t’ia dorëzojë armën dhe vërtetimin stacionit policor, kurse DSP-ja do të lëshoj certifikatë se arma është çaktivizuar. Personi juridik duhet ta vendos shenjën e identifikimit në armën e zjarrit të çaktivizuar e cila përfshinë shkronjat e kodit zyrtar ndërkombëtar të Republikës së Kosovës, vitin e çaktivizimit dhe shenjën D të çaktivizimit.
+LIGJI Nr. 05/L -022 PËR ARMË 7. Është i ndaluar riaktivizimi për përdorimin e armës e cila është çaktivizuar me parë.
+8. Është i ndaluar eksportimi i armëve të çaktivizuara.
+9. Arma e çaktivizuar ndalohet të nxjerret nga vendi ku mbahet.

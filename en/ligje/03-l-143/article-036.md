@@ -1,5 +1,0 @@
-# Article 36
-Sequestration
-1. In a case where the possessor of a hunting or shooting permit, a firearms possession permit, a weapon collection permit, a firearm carrying permit or a permit of Category D weapons a proceedings for a criminal offence from Article 10 paragraph 1 point 1.1 of this Law or minor offences procedure from Article 10 paragraph 1 point 1.2 of this Law have been initiated the competent body shall sequestrate the hunting or shooting permit, firearm carrying permit, weapon collection permit, the weapon/firearm and its ammunition until the issuance of final decision.
-2. The competent body shall sequestrate the permit, weapon/firearm and ammunition if during the extension of the validity of a permit, the competent body determines that the weapon/firearm is amortized or damaged to such a level that its use may endanger public safety or if the owner states that the repair is economically not justifiable.
-3. The owner may file an appeal to the Appeals Commission within fifteen (15) days from the day of reception of decision in paragraph 1 and 2 of this Article. This appeal does not stop execution of the decision.

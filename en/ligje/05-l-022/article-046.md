@@ -1,0 +1,3 @@
+# Article 46
+Disappearance, Loss or Theft of weapon, parts of the weapon and ammunition 1. In case of disappearance, loss or theft of a weapon, parts of weapons or ammunition, natural person or legal entity shall inform the competent body or the closest police station immediately after they have noticed the disappearance, loss or theft.
+2. In case of disappearance, loss or theft of the documents issued by competent body according to provisions of this law, natural person or legal entity shall inform the competent body where the weapon, parts of weapon and ammunition are registered or in the nearest police station. The owner shall submit a request for providing of copies of these documents to the competent body who shall provide these copies within eight (8) days.

@@ -1,9 +1,0 @@
-# Neni 18
-Leja për mbajtje të armës së zjarrit
-1. Leja për mbajtje të armës së zjarrit është leje e cila lejon punëtorin e certifikuar dhe të kontraktuar tek personi juridik i licencuar në fushën e sigurisë të personave, sigurimin e parave dhe gjërave tjera me vlerë, që të mbajë armë zjarri të kategorisë B dhe C gjatë orarit të punës në vendin e punës.
-2. Personat juridik që posedojnë armë zjarri në bazë të lejes për posedimin e armës se zjarrit duhet t’i japin armët e zjarrit për përdorim vetëm punëtorëve të certifikuar që kanë kontratë pune me atë person juridik dhe që kryejnë punën e sigurisë ndaj personave ose për bartjen parave dhe sendeve të tjera me vlerë, si dhe plotësojnë kushtet e cekura në nenin 7 të këtij ligji.
-3. Me kërkesën e personit juridik nga paragrafi 1 i këtij neni, organi kompetent, përdoruesit të armës së zjarrit i lëshon leje për mbajtjen e armës se zjarrit me afat të vlefshmërisë prej një (1) viti.
-4. Afati i vlefshmërisë së lejes për mbajtjen e armës së zjarrit do të vazhdohet, me kërkesën e personit juridik, nëse personi nën emrin e të cilit është dhënë leja edhe më tej i plotëson kushtet nga neni 7 i këtij ligji.
-5. Personi juridik bën kërkesën për vazhdimin e lejes për mbajtje të armës së zjarrit më së voni dy (2) muaj para skadimit të afatit të vlefshmërisë së saj.
-6. Personit, të cilit i ka pushuar marrëdhënia e punës te personi juridik nga paragrafi 1 i këtij neni, në ditën e pushimit të marrëdhënies së punës është i obliguar që armën dhe lejen për mbajtje të armës së zjarrit t’ia dorëzojë personit përgjegjës të personit juridik.
-7. Personi juridik nga paragrafi 6 i këtij neni është i obliguar që në afat prej tetë (8) ditësh nga dita e pushimit të marrëdhënies së punës ta njoftojë me shkrim organin kompetent lidhur me personin, të cilit i ka pushuar marrëdhënia e punës. Organi kompetent menjëherë e merr lejen për mbajtje te armës se zjarrit.

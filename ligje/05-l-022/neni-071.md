@@ -1,0 +1,3 @@
+# Neni 71
+Gjobat 1. Dënohet me gjobë prej njëmijë euro (1000€) deri më dhjetëmijë euro (10.000€) personi juridik i cili shkelë dispozitat e nenit 12, 16, 44, 62, 64 dhe 66 si dhe nuk i respekton afatet kohore të përcaktuara me dispozitat përkatëse të këtij ligji dhe nuk i përmbahet kushteve për qitjen provuese, sipas këtij ligji.
+2. Dënohet me gjobë prej pesëqind euro (500€) deri në pesëmijë euro (5000€) personi fizik i cili shkelë dispozitat e nenit 16, 44, 46, 47 dhe 66 si dhe nuk i respekton afatet kohore të përcaktuar me dispozitat përkatëse të këtij ligji dhe nuk i përmbahet kushteve për qitjen provuese, sipas këtij ligji.

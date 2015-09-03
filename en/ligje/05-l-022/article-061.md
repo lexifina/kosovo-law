@@ -1,0 +1,4 @@
+# Article 61
+Natural persons transporting hunting weapons 1. Citizens of the Republic of Kosovo with permanent residence permit abroad and foreigners may transport across the state border for hunting purposes hunting weapons and ammunition if they hold the permit for the hunting weapon, health insurance and the invitation to participate in hunting approved in advance by the competent body of final destination.
+2. Persons described in paragraph 1. of this Article are obliged at the time of crossing the border to present the hunting weapon and ammunition to the authorized official.
+3. Authorized officials during the control of the state border crossing will issue to the person from paragraph 1. of this Article consent for transporting of hunting weapons during hunting activities in the territory of Republic of Kosovo.
