@@ -1,0 +1,9 @@
+# Neni 5
+1. Në nenin 7 të ligjit bazik, paragrafi 2 nënparagrafi 2.1 fshihet dhe riformulohet me tekstin si në vijim:
+2.1. marka e regjistruar me një datë aplikimi apo datë të përparësisë më të hershme në Republikën e Kosovës.
+2. Në nenin 7 të ligjit bazik, paragrafi 2 nënparagrafi 2.3 fshihet dhe riformulohet me tekstin si në vijim:
+2.3 marka tregtare e cila është e mirënjohur në territorin e Republikës së Kosovës në datën e aplikimit për regjistrimin e markës tregtare, ose kur është e përshtatshme, të drejtën e përparësisë së kërkuar në lidhje me aplikimin për regjistrimin e markës tregtare.
+3. Në nenin 7 të ligjit bazik, paragrafi 3 fshihet dhe riformulohet me tekstin si në vijim:
+3. Me rastin e paraqitjes së kundërshtimit nga pronari i markës së mëhershme tregtare, sipas nenit 7. 2 të ligjit bazik nuk duhet të regjistrohet marka tregtare që është identike ose e ngjashme me markën e mëhershme tregtare, e cila mbrohet për mallra ose shërbime që nuk janë të ngjashme me ato për të cilat është regjistruar marka e mëparshme tregtare, nëse marka e mëhershme tregtare ka reputacion në Republikën e Kosovës dhe nga përdorimi i markës tregtare në fjalë, pa shkak të arsyeshëm, realizohet një përfitim i padrejtë nga karakteristika dalluese ose nga reputacioni i markës së mëhershme tregtare ose dëmtohet karakteristika dalluese ose reputacioni i markës së mëhershme tregtare.
+4. Në nenin 7 të ligjit bazik, paragrafi 4 fshihet dhe riformulohet me tekstin si në vijim:
+4. Me rastin e paraqitjes së kundërshtimit nga pronari i markës së mëhershme tregtare, marka tregtare nuk duhet të regjistrohet nëse përfaqësuesi ose agjenti i pronarit të markës tregtare pa autorizimin e pronarit aplikon për regjistrimin e markës tregtare në emrin e vet, përveç në rastet kur përfaqësuesi ose agjenti i arsyeton veprimet e tij.
