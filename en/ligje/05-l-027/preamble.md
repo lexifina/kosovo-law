@@ -1,0 +1,6 @@
+LAW No.05/L-027
+ON DIGITALIZATION OF TERRESTRIAL BROADCASTING TRANSMISSIONS
+Assembly of Republic of Kosovo;
+Based on Article 65 (1) of the Constitution of the Republic of Kosovo,
+Approves
+LAW ON DIGITALIZATION OF TERRESTRIAL BROADCASTING TRANSMISSIONS

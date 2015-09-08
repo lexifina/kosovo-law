@@ -1,0 +1,23 @@
+# Neni 3
+Përkufizimet
+1. Shprehjet e përdorura në këtë ligj kanë këto kuptime:
+1.1. Autoriteti Rregullativ i Komunikimeve Elektronike dhe Postare - është organi rregullator që zbaton dhe mbikëqyrë kornizën ligjore të definuar nga Ligji për komunikimet elektronike (në tekstin e mëtejmë ‘Autoriteti’);
+1.2. Dixhitalizimi – procesi i kalimit nga transmetimet radiodifuzive analoge në ato dixhitale/numerike;
+1.3. Kanalet televizive të licencuara për transmetim analog tokësor - janë të gjitha subjektet e licencuara nga KPM për transmetimin radiodifuziv analog në Republikën e Kosovës, qofshin ato me licenca për transmetim në tërë territorin apo me licenca për transmetim rajonal/lokal;
+1.4. Kapaciteti i gjithmbarshëm transmetues i multipleksit -nënkupton sasinë më të madhe të të dhënave dhe sinjaleve dixhitale që mund të transmetohen gjatë një njësie kohore të caktuar;
+1.5. Komisioni i Pavarur për Media - është organ i pavarur për rregullimin, menaxhimin dhe mbikëqyrjen e spektrit të frekuencave të transmetimit i cili rregullon të drejtat dhe përgjegjësitë e personave juridikë që ofrojnë shërbime mediale, audio dhe audiovizuale, të cilat përkufizohen në Ligjin për Komisionin e Pavarur për Media (në tekstin e mëtejmë ‘KPM’);
+1.6. Ministria - është Ministria përgjegjëse për fushën e komunikimeve elektronike (në tekstin e mëtejmë ‘Ministria’);
+1.7. Multipleksi - është një set i standardizuar i sinjaleve dixhitale, i shprehur në Mb/s (Mega-bit-për-sekondë), që përmban disa programe televizive dhe/ose të radios dhe/ose të dhëna të tjera, të cilat transmetohen dhe emetohen në të njëjtën kohë dhe në mënyrë të thurur;
+1.8. Must carry - nënkupton bartje të detyrueshme;
+1.9. Ofruesi i shërbimeve mediale - është personi fizik apo juridik që ka përgjegjësi redaktuese për përzgjedhjen e përmbajtjes së programeve audio apo audiovizuale të shërbimit mediatik audiovizual dhe i cili përcakton mënyrën se si ato do të organizohen;
+1.10. Operatori i multipleksit - është personi juridik që ofron infrastrukturën teknike për shpërndarjen tokësore të programeve dixhitale dhe shërbimet suplementare për transmetimin dixhital të të dhënave;
+1.11. Operatori i rrjetit - është çdo person juridik, i cili ofron çfarëdo forme të rrjetit për transmetim të programeve, ose një shërbim transmetimi për publikun dhe posedon licencën korresponduese, ose autorizim të lëshuar nga KPM-ja;
+1.12. Plani Kombëtar i Radio-Frekuencave - nënkupton dokumentin që përcakton brezat frekuencorë për shërbimet e ndryshme dhe kushtet bazike për ndarjen dhe dhënien e frekuencave, me qëllim të sigurimit të shfrytëzimit efektiv të spektrit të radio- frekuencave dhe shmangies së interferencave;
+1.13. Pranuesi Televiziv Dixhital - është pajisja për pranimin, dekodimin dhe transformimin e sinjalit televiziv dixhital në një formë të përshtatshme për reprodukimin e fotografisë, zërit dhe të dhënave tjera, e cila mund të jetë pajisje e veçantë, e vendosur brenda televizorit, apo në një tjetër pajisje;
+1.14. Qasja në multipleks - nënkupton shërbimin e ofruar nga operatori i rrjetit përmes rrjetit të komunikimit elektronik, nga pika e qasjes në rrjet;
+1.15. Transmetim radiodifuziv – shërbimi i transmetimit të programeve të radios dhe televizionit nëpërmjet një antene tokësore, rrjetit të komunikimeve elektronike, ose satelitore, në formë të koduar ose jo, për t’u marrë nga publiku;
+1.16. Transmetimi radiodifuziv analog - është transmetimi dhe pranimi i sinjalit analog televiziv dhe/ose të radios përmes transmetuesve tokësorë, në pajtim me standardet relevante ndërkombëtare;
+1.17. Transmetimi radiodifuziv tokësor dixhital - është transmetimi dhe pranimi i sinjalit dixhital televiziv dhe/ose të radios përmes transmetuesve tokësorë, në pajtim me standardet relevante ndërkombëtare;
+1.18. Televizioni me kualitet standard SDTV - është shërbimi i fotografisë dhe zërit të cilësisë standarde, në pajtim me rekomandimet relevante të Unionit Ndërkombëtar për Telekomunikacion (rekomandimet e ITU);
+1.19. Televizioni me kualitet të lartë HDTV - është shërbim që ofron fotografi dhe zë me cilësi më të lartë sesa cilësia standarde, duke i shtuar numrin e linjave analizuese për fotografi, duke ndryshuar metodën e analizës së fotografisë, duke e rritur proporcionin e faqeve të fotografisë në 16:9, si dhe duke i ndryshuar karakteristikat kolorometrike të fotografisë, në pajtim me rekomandimet relevante të Unionit Ndërkombëtar për Telekomunikacion (rekomandimet e ITU).
+2. Shprehjet tjera të përdorura në këtë Ligj do të kenë kuptimin e përcaktuar në Ligjin për Komunikimet Elektronike dhe Ligjin për Komisionin e Pavarur për Media.
