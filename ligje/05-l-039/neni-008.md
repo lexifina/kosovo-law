@@ -1,0 +1,3 @@
+# Neni 8
+Në nenin 36 të ligjit bazik, paragrafi 4 fshihet dhe riformulohet me tekstin si në vijim:
+4. Në bazë të kërkesës së arsyetuar gjykata mund t’i jap licencë të detyrueshme për patentën e parë, pronarit të patentës ose pronarit të të drejtave për varietetet bimore, i cili nuk mund të shfrytëzoj patentën e tij, patentën e dytë ose të drejtën për varietetin bimor, pa e shkelur patentën e parë ose të drejtën e mëhershme për varietetet bimore me kusht që shpikja e pretenduar për patentën e dytë ose varietetin e mbrojtur bimor, të përfshijë avancim të rëndësishëm teknik të një rëndësie të konsiderueshme ekonomike, në raport me shpikjen e pretenduar në patentën e parë.

@@ -1,0 +1,3 @@
+# Article 8
+In Article 36 of the basic Law, paragraph 4 shall be deleted and reworded with the following text:
+4. On a reasoned request, the court may grant a compulsory license in respect of a first patent to the owner of a patent or to the owner of a plants varieties rights who cannot use his patent , second patent or his plants varieties right without infringing the first patent or a prior plants varieties right, provided that the invention claimed in the second patent or a protected plant variety involves an important technical advance of considerable economic significance in relation to the invention claimed in the first patent.
