@@ -1,0 +1,4 @@
+# Neni 62
+Kufizimet në qasje
+1. Duke i pasur parasysh rrethanat e sigurisë dhe privatësisë, dokumentet, letrat, të dhënat dhe arkivat e Dhomave të Specializuara, Zyrës së Regjistrimit dhe Zyrës së Prokurorit të Specializuar nuk konsiderohen dokumente publike të Kosovës. E drejta e përgjithshme për të pasur qasje në të dhënat apo arkivat e Dhomave të Specializuara, përfshirë të Zyrës Rë regjistrimit dhe të Zyrës së Prokurorit të specializuar, nuk ekziston.
+2. Shtetet, autoritetet prokuroriale dhe gjyqësore, subjektet apo personat e tjerë mund të paraqesin kërkesë tek Dhomat e Specializuara për të pasur qasje në të dhënat e gjykatës me kusht që kjo qasje është në interes të drejtësisë dhe të mbrojë dhe ruajë konfidencialitetin dhe mbrojtjet që i jepen personit nga Dhomat e Specializuara ose nga Zyra e Prokurorit të Specializuar.

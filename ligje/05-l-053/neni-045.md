@@ -1,0 +1,4 @@
+# Neni 45
+Ankesat e ndërmjetme
+1. Ankesat e ndërmjetme të paraqitura nga i akuzuari apo nga Prokurori i specializuar në pajtim me këtë ligj dhe me Rregullat e Procedurës dhe Provave shqyrtohen nga paneli i Gjykatës së Apelit.
+2. Ankesat e ndërmjetme do të jenë të pranueshme që nga marrja e vendimeve apo urdhrave që kanë të bëjnë me paraburgimin apo me ndonjë parashtresë paraprake për kundërshtimin e juridiksionit të Dhomave të Specializuara. Çdo ankese tjetër të ndërmjetme duhet t’i aprovohet leja për ankesë përmes vërtetimit nga ana e gjyqtarit të procedurës paraprake ose trupit gjykues mbi bazën e asaj se ajo përfshinë një çështje e cila do të ndikojë në mënyrë të konsiderueshme në zhvillimin e drejtë dhe të shpejtë të procedurave ose në rezultatin e shqyrtimit gjyqësor dhe për të cilën, sipas mendimit të gjyqtarit të procedurës paraprake ose të trupit gjykues, zgjidhja e menjëhershme nga ndonjë Panel i Gjykatës së Apelit mund ta avancojë materialisht procedurën.

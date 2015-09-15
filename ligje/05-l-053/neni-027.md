@@ -1,0 +1,5 @@
+# Neni 27
+Kualifikimet e gjyqtarëve të Dhomave të specializuara
+1. Gjyqtarët e Dhomave të specializuara janë persona me moral të lartë, paanshmëri dhe integritet të cilët posedojnë kualifikime që kërkohen në shtetet e tyre përkatëse për t’u caktuar në detyrat më të larta gjyqësore. Ata janë të pavarur në përmbushjen e funksioneve të tyre dhe nuk pranojnë, as kërkojnë udhëzime nga ndonjë qeveri ose burim tjetër. Gjyqtarët e Dhomave të specializuara kanë aftësi të konsoliduara në fushën e të drejtës dhe procedurës penale ose në pjesët përkatëse të së drejtës ndërkombëtare, me përvojë të gjerë gjyqësore, prokuroriale, ose në mbrojtjen ligjore në procedurat penale ndërkombëtare ose vendore.
+2. Në përbërjen e përgjithshme të regjistrit të gjyqtarëve ndërkombëtarë për Dhomat e specializuara, kujdes i duhur i kushtohet aftësive të konsoliduara dhe përvojës së gjyqtarëve në të drejtën dhe procedurën penale dhe të drejtën ndërkombëtare.
+3. Gjyqtarët duhet të komunikojnë rrjedhshëm në gjuhën angleze.

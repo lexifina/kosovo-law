@@ -1,0 +1,3 @@
+# Neni 2
+Përputhshmëria me Nenin 55 të Kushtetutës
+Çdo kufizim i të drejtave dhe lirive themelore bëhet në përputhje me nenin 55 të Kushtetutës për qëllime objektive dhe të arsyeshme që janë shprehur në këtë nen, në pajtim me kapitullin II të Kushtetutës dhe standardet ndërkombëtare të drejtësisë dhe procesit të drejtë. Këto qëllime janë në interesin e Kosovës si shoqëri e hapur dhe demokratike dhe janë në shërbim të përmbushjes së obligimeve ndërkombëtare të Kosovës. Në përputhje me nenin 55 të Kushtetutës, këto kufizime shqiptohen vetëm në masën e nevojshme për përmbushjen e këtyre qëllimeve jetike.

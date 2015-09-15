@@ -1,0 +1,5 @@
+# Article 27
+Qualifications of the Specialist Chambers Judges
+1. The Specialist Chambers Judges shall be persons of high moral character, impartiality and integrity who possess the qualifications required in their respective states for appointment to the highest judicial offices. They shall be independent in the performance of their functions and shall not accept or seek instructions from any government or any other source. The Specialist Chambers Judges shall have established competence in criminal law and procedure or relevant parts of international law and constitutional law as appropriate, with extensive judicial, prosecutorial or defence experience in international or domestic criminal proceedings.
+2. In the overall composition of Roster of International Judges for the Specialist Chambers, due account shall be taken of the established competence and court experience of the judges in criminal law and procedure, international law and constitutional law as appropriate.
+3. Judges shall be fluent in English.

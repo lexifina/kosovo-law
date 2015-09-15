@@ -1,0 +1,3 @@
+# Neni 64
+Interpretimi
+Përveç rasteve kur konteksti kërkon qartë një interpretim tjetër, çdo referim që ky ligj i bën një ligji tjetër, një rregulloreje të UNMIK-ut ose akti nënligjor, ose ndonjë dispozite specifike të tyre, interpretohet se përfshin çdo ndryshim dhe të gjitha ndryshimet që u janë bërë atyre. Në rast se një ligj, rregullore ose akt nënligjor i tillë është shfuqizuar dhe është zëvendësuar me legjislacion pasardhës, që e rregullon të njëjtën çështje lëndore, ky referim interpretohet, përveç rasteve kur konteksti kërkon qartë një interpretim tjetër, si të nënkuptojë atë legjislacion pasardhës dhe, kur është e zbatueshme, dispozitën ose dispozitat analoge të tij.

@@ -1,0 +1,7 @@
+# Article 51
+Pardon or Commutation of Sentences
+1. The judgements of the Specialist Chambers shall not be subject to any pardon granted under
+Article 84(29) of the Constitution, nor shall any person convicted by the Specialist Chambers be
+eligible for pardon, regardless of where their sentence is served.
+2. The length of sentence may only be modified, altered or commuted by the Specialist Chambers or Agreed Arrangement if in place for that purpose in accordance with Article 60 (Residual Mechanism). The Specialist Chambers, or Agreed Arrangement accordingly, shall request notification from the State concerned if, pursuant to the applicable law of the State in which the convicted person is imprisoned, he or she is eligible for commutation of sentence. There shall only be commutation of sentence if the President of the Specialist Chambers, in consultation with the Specialist Chambers Judges, so decides on the basis of the interests of justice and the general principles of law.
+3. A convicted person serving his or her sentence may make an application to the Specialist Chambers should the conditions of detention fail to comply with international standards or protections under the Constitution. The President of the Specialist Chambers shall appoint a single judge to hear such an application under Article 33(2) in accordance the Rules on Assignment of Specialist Chambers Judges adopted under Article 25(2).

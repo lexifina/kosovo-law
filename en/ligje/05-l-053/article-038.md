@@ -1,0 +1,12 @@
+# Article 38
+Investigation and Preparation of Indictment
+1. The Specialist Prosecutor, other prosecutors and police in the Specialist Prosecutor’s Office shall have the power to conduct investigations against persons criminally liable for criminal offences within the jurisdiction of the Specialist Chambers.
+2. The Specialist Prosecutor, other prosecutors and police from the Specialist Prosecutor’s Office shall have the power to question potential suspects, victims and witnesses, to collect evidence, to conduct on-site investigations and to order the arrest of a person for no more than 48 hours under
+Article 41. In carrying out these tasks, the Specialist Prosecutor may, as appropriate, seek the
+assistance of state authorities under Articles 53-55 and if necessary through arrangements made under Article 4.
+3. If questioned, the suspect shall not be compelled to incriminate himself or herself or to confess guilt. Nor shall he or she be subjected to any form of coercion, duress or threat, to torture or to any other form of cruel, inhuman and degrading treatment or punishment. He or she shall have the following rights of which he or she shall be informed prior to questioning, in a language he or she speaks and understands:
+a. The right to be informed that there are grounds to believe that he or she has committed a crime within the jurisdiction of the Specialist Chambers;
+b. The right to remain silent, without such silence being considered in the determination of guilt or innocence, and to be cautioned that any statement he or she makes shall be recorded and may be used in evidence;
+c. The right to be assisted by Specialist Counsel of his or her own choosing and to be questioned in the presence of Specialist Counsel, including the right to have legal assistance provided by the Specialist Chambers without payment by him or her where he or she does not have sufficient means to pay for it;
+d. The right to have the free assistance of an interpreter if he or she cannot understand or speak the language used for questioning.
+4. Upon a determination that a well-grounded suspicion that a person is criminally liable for any offence within the jurisdiction of the Specialist Chambers, the Specialist Prosecutor shall prepare an indictment containing a concise statement of the facts and the crime or crimes with which the person is charged under this Law. The indictment shall be filed with the Specialist Chambers together with supporting material.

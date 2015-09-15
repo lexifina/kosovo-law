@@ -1,0 +1,4 @@
+# Article 62
+Restrictions on Access
+1. Given the security and privacy considerations, the documents, papers, records and archives of the Specialist Chambers, the Registry and the Specialist Prosecutor’s Office shall not be considered public documents of Kosovo. There shall be no general right of access to the records or archives of the Specialist Chambers, including the Registry, and the Specialist Prosecutor’s Office.
+2. States, prosecutorial and judicial authorities, other entities or persons may make an application to the Specialist Chambers to gain access to the court records provided that such access is in the interests of justice, and protects and maintains any confidentiality and protections granted to any person by either the Specialist Chambers or the Specialist Prosecutor’s Office.

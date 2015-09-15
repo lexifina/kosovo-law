@@ -1,0 +1,7 @@
+## KAPITULLI VII
+## NDËRVEPRIMI ME GJYKATAT DHE SUBJEKTET E KOSOVËS
+# Neni 52
+Statusi, privilegjet dhe imunitetet e Dhomave të Specializuara në Kosovë
+1. Statusi, privilegjet dhe imunitetet që i kanë zyrat dhe personeli i EULEX Kosova sipas Ligjit nr. 03/L-033 për statusin, imunitetet dhe privilegjet e misioneve diplomatike dhe konsullore në Republikën e Kosovës dhe personelit ndërkombëtar ushtarak, shtrihet për objektet, pronën, dokumentet dhe personelin e Dhomave të specializuara dhe Prokurorinë e specializuar në Kosovë. Përveç kësaj, avokatët, ekspertët, dëshmitarët ose çdo person tjetër që kryen funksione si pjesë e punës së Dhomave të specializuara dhe Prokurorisë së specializuara do të gëzojnë të njëjtin status, privilegje dhe imunitete.
+2. Objektet, prona, fondet, pasuria, arkivat dhe të dhënat e Dhomave të specializuara, Zyrës së regjistrimit dhe Prokurorisë së specializuar, kudo që janë të vendosura dhe nga kushdo që mbahen, janë të paprekshme dhe ka imunitet nga bastisja, sekuestrimi, marrja, konfiskimi, shpronësimi, qasja publike ose nga çdo formë tjetër e ndërhyrjes qoftë me veprim ekzekutiv, administrativ, gjyqësor apo legjislativ.
+3. Dhomat e Specializuara, krerët e tyre, gjyqtarët dhe stafi i tyre nuk i nënshtrohen asnjë mase ose veprimi nga qeveria apo autoritetet e Kosovës apo asnjë subjekti apo personi në Kosovë të cilat mund të ndikojë në ushtrimin e lirë dhe të pavarur të funksioneve të tyre sipas këtij ligji.

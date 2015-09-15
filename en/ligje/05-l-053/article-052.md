@@ -1,0 +1,7 @@
+## CHAPTER VII
+## INTERACTION WITH KOSOVO COURTS AND ENTITIES
+# Article 52
+The Status, Privileges and Immunities of the Specialist Chambers in Kosovo
+1. The status, privileges and immunities granted to the offices and personnel of EULEX Kosovo under the Law on the Status, Immunities and Privileges of Diplomatic and Consular Mission and Personnel in Republic of Kosovo and of the International Military Personnel, Law No. 03/L-033 shall be extended to the premises, property, papers and personnel of the Specialist Chambers and Specialist Prosecutor’s Office in Kosovo. In addition, counsel, experts, witnesses or any other person performing functions as part of the work of the Specialist Chambers and Specialist Prosecutor’s Office shall be extended the same status, privileges and immunities.
+2. The premises, property, funds, assets, archives and records of the Specialist Chambers, the Registry and the Specialist Prosecutor’s Office, wherever located and by whomsoever held, shall be inviolable and immune from search, seizure, requisition, confiscation, expropriation, public access or any other form of interference whether by executive, administrative, judicial or legislative action.
+3. The Specialist Chambers, its principals, judges and staff shall not be subjected by the government or authorities of Kosovo or any other entity or person in Kosovo to any measure or action that may impact the free and independent exercise of their functions under this Law.

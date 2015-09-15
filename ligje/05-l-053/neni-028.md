@@ -1,0 +1,7 @@
+# Neni 28
+Emërimi i gjyqtarëve
+1. Një Panel i Pavarur Përzgjedhës (“Paneli Përzgjedhës”) do të jetë përgjegjës për vlerësimin e kandidatëve dhe përzgjedhjen për emërimin e gjyqtarëve për regjistrin e gjyqtarëve ndërkombëtar, si dhe rekomandimet për emërimin e Kryetarit dhe Nënkryetarit të Dhomave të specializuara.
+2. Paneli përzgjedhës përbëhet prej tre anëtarëve ndërkombëtarë, ku së paku dy anëtarë janë gjyqtarë ndërkombëtarë me përvojë të konsiderueshme ndërkombëtare në fushën penale. Një nga gjyqtarët ndërkombëtar shërben si anëtar kryesues i panelit.
+3. Pasi t’i ketë shqyrtuar kandidatët e kualifikuar dhe t’i ketë intervistuar dhe vlerësuar kandidatët më të përshtatshëm, paneli përzgjedhës finalizon listën me emrat e kandidatëve që i rekomandon për pozitën e gjyqtarit në Dhomat e Specializuara. Paneli përzgjedhës merr vendimet, me shumicën e votave të anëtarëve të vet. Paneli përzgjedhës ia paraqet këtë listë Kreut tëë Misionit tëë BE-sëë për
+Siguri tëë Pëërbashkëët dhe Mbrojtje (“Autoriteti Emërues”) si rekomandime për emërimin e gjyqtarëve të Dhomave të specializuara në Regjistrin e Gjyqtarëve Ndërkombëtarë.
+4. Rekomandimet e dhëna nga ndonjë panel përzgjedhës i formuar para hyrjes në fuqi të këtij ligji nga ana e Autoritetit Emërues për këtë qëllim dhe në pajtim me këto parime gjithashtu mund të pranohen. Autoriteti Emërues i emëron personat nga lista e panelit përzgjedhës si gjyqtarë në Dhomat e specializuara dhe i vendosë ata në regjistër për aq kohë sa ekzistojnë Dhomat e specializuara.

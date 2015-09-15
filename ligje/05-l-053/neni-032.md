@@ -1,0 +1,6 @@
+# Neni 32
+Emërimi dhe Funksionet e Kryetarit dhe Nënkryetarit
+1. Bazuar në rekomandimin e panelit përzgjedhës, Autoriteti Emërues emëron Kryetarin dhe Nënkryetarin nga radhët e gjyqtarëve të Dhomave të specializuara, i cili shërben me orar të plotë. Kryetari e kryeson çdo panel të Gjykatës Supreme ku ai është anëtar.
+2. Në rast se posti i Kryetarit mbetet i lirë, Kryetari i ri zgjidhet me shumicën absolute të gjyqtarëve të Dhomave të specializuara nga radhët e gjyqtarëve të Dhomave të specializuara.
+3. Kryetari është përgjegjës për administrimin gjyqësor të Dhomave të Specializuara dhe për funksionet e tjera që i ngarkohen atij me këtë ligj.
+4. Në bazë të rekomandimit të Panelit Përzgjedhës, Autoriteti Emërues gjithashtu emëron një Nënkryetar të Dhomave të Specializuara nga radhët e gjyqtarëve të Dhomave të Specializuara. Nënkryetari do të aktivizohet nga regjistri dhe do të marrë përsipër detyrat e Kryetarit të Dhomave të Specializuara në mungesë të këtij të fundit apo nga pamundësia e tij/saj për të vepruar. Nënkryetari i Dhomave të Specializuara është gjithashtu përgjegjës për funksione tjera që i ngarkohen atij ose asaj me këtë ligj. Po që se posti i nënkryetarit mbetet vakant, një nënkryetar i ri i Dhomave të Specializuara zgjidhet nga radhët e gjyqtarëve të Dhomave të Specializuara me shumicë absolute të gjyqtarëve të Dhomave të Specializuara.

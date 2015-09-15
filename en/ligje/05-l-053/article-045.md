@@ -1,0 +1,4 @@
+# Article 45
+Interlocutory Appeals
+1. A Court of Appeals Panel shall hear interlocutory appeals from an accused or from the Specialist Prosecutor in accordance with this Law and the Rules of Procedure and Evidence.
+2. Interlocutory appeals shall lie as of right from decisions or orders relating to detention on remand or any preliminary motion challenging the jurisdiction of the Specialist Chambers. Any other interlocutory appeal must be granted leave to appeal through certification by the Pre-Trial Judge or Trial Panel on the basis that it involves an issue which would significantly affect the fair and expeditious conduct of the proceedings or the outcome of the trial and for which, in the opinion of the Pre-Trial Judge or Trial Panel, an immediate resolution by a Court of Appeals Panel may materially advance proceedings.

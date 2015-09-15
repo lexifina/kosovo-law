@@ -1,0 +1,5 @@
+# Neni 10
+Juridiksioni i njëkohshëm
+1. Brenda juridiksionit lëndor të tyre, Dhomat e specializuara kanë përparësi mbi të gjitha gjykatat e tjera të Kosovës.
+2. Në çdo fazë të hetimeve ose procedurave, Dhomat e specializuara ose prokurori i specializuar mund të urdhërojnë transferimin e procedurës brenda juridiksionit të tyre nga ndonjë prokuror tjetër ose ndonjë gjykatë tjetër [përveç Gjykatës Kushtetuese] në territorin e Kosovës tek Dhomat e specializuara dhe prokurori i specializuar. Prokurori i shtetit ose gjykata u përcjell Dhomave të specializuara çdo shkresë dhe të gjitha shkresat që i përkasin lëndës së kërkuar. Urdhri i Dhomave të specializuara për transferim është përfundimtar dhe detyrues.
+3. Ligji për Gjykatat, Ligji nr. 03/L-199, dhe Ligji nr. 03/L-053 për juridiksionin dhe kompetencat e gjyqtarëve dhe prokurorëve të EULEX-it në Kosovë, nuk vlejnë për çështjet që janë para Dhomave të specializuara dhe Prokurorisë së specializuar, ose për çështjet që janë objekt i ndonjë urdhri për t’iu transferuar Dhomave të specializuara dhe Prokurorisë së specializuar.
