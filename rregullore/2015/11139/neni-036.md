@@ -1,0 +1,9 @@
+# Neni 36
+Emërimet e përkohshme
+1. Emërimi i përkohshëm nënkupton caktimin e zyrtarit/es në një pozitë me të lartë për një periudhë të caktuar kohe, i cili kthehet në pozitën e tij/saj të përhershme.
+2. Kur për nevoja operacionale të dokumentuara kërkohet, plotësimi i menjëhershëm i një vendi të lirë pune si rezultat i një vendi pune të sapokrijuar, apo si rezultat i mungesave të tjera të post mbajtësit, suspendimeve të ndryshme, apo situatave tjera të pa paparapara, do të bëhen emërime të përkohshme nga drejtori i përgjithshëm në detyra të punës për kohë të caktuar.
+3. Si rregull, emërimet e përkohshme zgjasin vetëm për një afat kohor të caktuar, maksimumi 6 muaj, me mundësi vazhdimi edhe për 6 muaj tjerë, gjatë të cilit afat DBNJ duhet të zbatojë procedurat përkatëse për plotësimin e postit të tillë të lirë.
+4. Në rastet kur emërimi i përkohshëm është bërë për arsye të zëvendësimit të zyrtarëve që dalin në pushime të lehonisë apo që kërkojnë pushime pa pagesë për përkujdesje të fëmijës së porsalindur apo për pushime mjekësore tjera të dhëna me rekomandim të mjekut, në këso rastesh për të mbuluar postin e lirë, emërimi i përkohshëm mund të bëhet deri në dymbëdhjetë muaj.
+5. Gjatë kohës së emërimit të përkohshëm, punonjësi i emëruar përkohësisht gëzon të drejtën e pagesës për kategorinë e pozicionit dhe përfitimet që rrjedhin nga ndryshimi i pozitës së vendit të punës.
+6. Zyrtarët e ngritur përkohësisht në kategori, me rastin e kthimit të post mbajtësit në detyrë, apo zyrtarët që nuk kanë fituar në procedurën e ngritjes në kategori për postin e dhënë përkohësisht, rikthehen, në përfundim të afatit kohor në pozicionin dhe vendndodhjen e tyre të mëparshme.
+7. Në qoftë se posti i përkohshëm duhet të bëhet i përhershëm, atëherë duhet të hapet për konkurrim nga të tjerët. Për t’u emëruar përkohësisht një punëtor duhet të plotësohen të gjitha kërkesat për kualifikim, vlerësim, përvojë, e kushte tjera, njëjtë sikur për avancim të rregullt.

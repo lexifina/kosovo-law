@@ -1,0 +1,7 @@
+# Neni 30
+Testimi me shkrim për ngritje në Pozitë
+1. Aplikuesit e përzgjedhur nga aplikacionet për ngritje të nivelit i nënshtrohen procedurës së testit me shkrim.
+2. Për postet e drejtorëve të ATK-së, Drejtori i Përgjithshëm do të kërkojë që kandidatët të paraqesin vizionin e tyre përmes një prezantimi para një paneli i cili do te vlerësojë njohuritë dhe aftësitë e tyre. Pjesë e panelit mund të jetë edhe Drejtori i Përgjithshëm. Drejtori i Përgjithshëm do të merr vendimin përfundimtar.
+3. Testi me shkrim hartohet nga DBNJ në bashkëpunim me strukturat përkatëse të ATK- së dhe departamentin e postit të shpallur. Testi shërben për të vlerësuar, nëse aplikanti zotëron njohuritë dhe aftësitë e përgjithshme dhe specifike të nevojshme për kryerjen e detyrave të postit të shpallur. Kjo nënkupton se testi do të përmbajë pyetje të përgjithshme nga aktualiteti, baza ligjore e aplikueshme nga ATK, veprimtaria dhe procedurat tatimore.
+4. Testi me shkrim konsiderohet i kaluar, nëse kandidati ka kaluar pragun në minimum prej 60% të poenëve.
+5. Varësisht nga numri i kandidatëve që kanë plotësuar standardin e testimit dhe numrit të posteve të lira, ATK do të caktojë edhe numrin e kandidatëve për t’iu nënshtruar intervistës bazuar në ranglistën e lartësisë së pikëve të arritura në test, duke pasur parasysh që për një pozitë të intervistohen së paku tre dhe jo më shumë se gjashtë kandidat të suksesshëm, që kanë kaluar testin sipas lartësisë së poenëve
