@@ -1,0 +1,3 @@
+# Neni 1
+I - Dispozitat e përgjithshme
+Me këtë Statut rregullohen dispozitat e përgjithshme, emërtimi dhe selia, veprimtaria e QKMF “Dr. Nagip Rexhepi”, statusi juridik, përfaqësimi dhe prezantimi, struktura e institucionit, udhëheqja dhe trupat e institucionit, zhvillimi i vazhdueshëm profesional, mbikëqyrja e QKMF “Dr. Nagip Rexhepi”, aktet e përgjithshme të QKMF “Dr. Nagip Rexhepi”, pronësia dhe financimi, mbikëqyrja e brendshme dhe dispozitat kalimtare dhe përfundimtare lidhur me ushtrimin e veprimtarisë së kujdesit shëndetësor në Qendrën Kryesore të Mjekësisë Familjare “Dr. Nagip Rexhepi” (në tekstin e mëtejmë: QKMF “Dr. Nagip Rexhepi”).
