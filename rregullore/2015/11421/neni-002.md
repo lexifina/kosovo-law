@@ -1,0 +1,2 @@
+# Neni 2
+Kuptimi i shprehjeve dhe definicionet "Komuniteti", "ligji i Komunitetit", "legjislacioni i Komunitetit", "Instrumentet e Komunitetit", "Traktati i KE", "aeroport i Komunitetit", "Gazeta Zyrtare e Komuniteteve Evropiane", "Gazeta Zyrtare e Bashkimit Evropian", "transportues ajror i Komunitetit" dhe "Shtet(e) Anëtar(e)", të cilat mund të referohen ne mënyre te drejtpërdrejt ose tërthorazi në Rregulloren e Komisionit, duhet të lexohen në përputhje me Pikat 2 dhe 3 të Shtojcës II të Marrëveshjes për HPEA.
