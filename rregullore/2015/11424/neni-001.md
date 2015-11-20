@@ -1,0 +1,4 @@
+# Neni1
+1.2 Rregullorja e Komisionit (EC) Nr. 351/2008 e datës 16 prill 2008, e cila implementon Direktivën 2004/36/EC të Parlamentit Evropian dhe të Këshillit sa i përket prioritizimit të inspektimeve në platformë të mjeteve ajrore që përdorin aeroportet e Komunitetit, e referuar më tutje si “Rregullorja e Komisionit”, shpallet e aplikueshme në Republikën e Kosovës. Rregullorja e Komisionit i është bashkëngjitur kësaj Rregulloreje si shtojcë dhe formon pjesën e saj përbërëse.
+1.2 Dispozitat e Rregullores së referuar të Komisionittë aplikueshme në Republikën e Kosovës janë Nenet 1 deri në 3.
+1.3 Çdo dispozitë e amendamenteve të ardhshme të Rregullores së Komisionit, me futjen e saj në fuqi si pjesë e Shtojcës I ose II të Marrëveshjes për HPEA, do të jetë e aplikueshme drejtpërsëdrejti në Republikën e Kosovës.
