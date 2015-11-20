@@ -1,0 +1,4 @@
+# Neni 1
+1.1 Rregullorja e Komisionit (EC) Nr. 768/2006 e datës 19 maj 2006 e cila zbaton Direktivën 2004/36/EC të Parlamentit Evropian dhe të Këshillit në lidhje me mbledhjen dhe shkëmbimin e informatave mbi sigurinë e mjeteve ajrore të cilat përdorin aeroportet e Komunitetit dhe menaxhimin e sistemit të informatave, me tutje e referuar si "Rregullorja e Komisionit", shpallet e zbatueshme në Republikën e Kosovës. Rregullorja e Komisionit i është bashkëngjitur kësaj Rregulloreje si shtojcë dhe formon pjesën e saj përbërëse.
+1.2 Dispozitat e zbatueshme të Rregullores së Komisionit në Republikën e Kosovës janë Nenet 1 deri në 5.
+1.3 Çdo dispozitë e amandamenteve të ardhshme të Rregullores së Komisionit, me futjen e saj në fuqi si pjesë e Shtojcës I ose II të Marrëveshjes për HPEA, do të jetë e zbatueshme drejtpërsëdrejti në Republikën e Kosovës.
