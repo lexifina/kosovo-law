@@ -1,0 +1,4 @@
+# Neni 1
+1.1 Rregullorja e Komisionit (EC) Nr. 2111/2005 të Parlamentit Evropian dhe të Këshillit të datës 14 dhjetor 2005 për themelimin e listës së Komunitetit të transportuesve ajror të cilët i nënshtrohen ndalimit të operimeve brenda Komunitetit dhe në lidhje me informimin e aviopasagjerëve për identitetin e transportuesit ajror, dhe shfuqizimin e Nenit 9 të Direktivës 2004/36/EC, me tutje e referuar si "Rregullorja e Komisionit", shpallet e zbatueshme në Republikën e Kosovës. Rregullorja e Komisionit i është bashkëngjitur kësaj Rregulloreje si shtojcë dhe formon pjesën e saj përbërëse
+1.2 Dispozitat e zbatueshme të Rregullores së Komisionit në Republikën e Kosovës janë Nenet 1 deri 13, dhe Shtojca.
+1.3 Çdo dispozitë e amendamenteve të ardhshme të Rregullores së Komisionit, me futjen e saj në fuqi si pjesë e Shtojcës I ose II të Marrëveshjes për HPEA, do të jetë e zbatueshme drejtpërsëdrejti në Republikën e Kosovës.
