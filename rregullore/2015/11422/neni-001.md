@@ -1,0 +1,4 @@
+# Neni 1
+1.1 Rregullorja e Komisionit (EC) Nr. 474/2006 të datës 22 mars 2006 për themelimin e listës së Komunitetit të transportuesve ajror të cilët i nënshtrohen ndalimit të operimeve brenda Komunitetit të referuar në Kapitullin II të Rregullores (EC) Nr. 2111/2005 të Parlamentit Evropian dhe të Këshillit, me tutje e referuar si "Rregullorja e Komisionit", shpallet e zbatueshme në Republikën e Kosovës. Rregullorja e Komisionit i është bashkëngjitur kësaj Rregulloreje si shtojcë dhe formon pjesën e saj përbërëse.
+1.2 Dispozitat e zbatueshme të Rregullores së Komisionit në Republikën e Kosovës janë Nenet 1 deri 3, Shtojcat A dhe B.
+1.3 Çdo dispozitë e amandamenteve të ardhshme të Rregullores së Komisionit, me futjen e saj në fuqi si pjesë e Shtojcës I ose II të Marrëveshjes për HPEA, do të jetë e zbatueshme drejtpërsëdrejti në Republikën e Kosovës.
