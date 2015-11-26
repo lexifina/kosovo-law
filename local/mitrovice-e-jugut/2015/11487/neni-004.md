@@ -1,0 +1,2 @@
+# Neni 4
+Neni 4, paragrafi 4.2 i Rregullores riformulohet me tekstin si në vijim: "Në propozim- vendim duhet të propozohet numri i bursave, përfshirë këtu numrin e bursave që do të ndahen nga Komisioni për Ndarjen e Bursave për Studentë si dhe numri maksimal i bursave të studentëve që mund të përfitojnë pas shqyrtimit të ankesave eventuale nga komisioni i cili do të formohet me vendim të kryetarit; si dhe shuma financiare për një bursë e cila ipet për periudhën kohore nga 1 Tetori deri më 30 Qershor".
