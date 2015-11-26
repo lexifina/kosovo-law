@@ -1,0 +1,5 @@
+# Neni 6
+Lirimi nga tatimi mbi pronën e paluajtshme 6.1 Nga tatimi në pronë lirohen pronat në pronësi apo shfrytëzim nga Kombet e Bashkuara apo
+ndonjë organ i tyre, duke përfshirë UNMIK-un, KFOR-in, organizatat ndërkombëtare, qeveritë e huaja, zyrat e huaja të ndërlidhjes, agjencitë qeveritare, organizatat ndërqeveritare ose agjencitë e huaja donatore që kryejnë ndihma humanitare për rindërtim, administrim civil ose ndihmë teknike brenda Kosovës, organizatat joqeveritare me status të përfitimit të ndërsjellët publik në përputhje me Ligjin për Asocimin e Organizatave Joqeveritare në Kosovë, autoritetet publike edukative dhe institucionet shkencore, për derisa këto prona nuk janë të përdorura për qëllime komerciale.
+6.2 Institucionet fetare dhe institucionet tjera të përcaktuara me ligj, prona e të cilave mbahet dhe
+shfrytëzohet vetëm për qëllime fetare dhe humanitare, lirohen nga tatimi në pronë, por prona e cila shfrytëzohet ose mbahet për shfrytëzim të veprimtarive komerciale ose përfitim të të ardhurave nuk lirohet nga tatimi në pronë.

@@ -1,0 +1,2 @@
+# Neni 14
+Normat për kualitet të objekteve mbështeten në Udhëzimin Administrativ Nr. 03/2011, Ligjin mbi tatimin në pronën e paluajtshme në Kosovë Nr. 03/L-204, Ligjin Nr. 04/L-100 Për ndryshimin dhe plotësimin e Ligjit për tatimin në pronën e paluajtshme Nr. 03/L-204, si dhe udhëzimet tjera administrative që rregullojnë të gjitha çështjet tjera që kanë të bëjnë me tatimin në pronë e që nuk janë përfshirë në këtë Rregullore.
