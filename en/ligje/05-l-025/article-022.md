@@ -1,0 +1,7 @@
+# Article 22
+The procedure for admission to specialized mental health services with beds
+for persons who need involuntary treatment
+1. A person found in the circumstances envisaged in Article 19 of this law, is sent to mental health services with specialized with beds by medical personnel of emergency services, a person close to him/her or by any officer or other person who is aware of his/her health condition.
+2. Kosovo police, at the request of the medical staff, helps him in performing medical examinations and transfer of the person in the service of mental health care specialized with beds, and provides temporary protection of his property. In case of lack of immediate assistance of medical personnel, Kosovo Police is forced to accompany the person in the presence of family members or other relatives in the closest emergency medical service.
+3. The doctor in the service of mental health care specialized with beds, who decides on the involuntary treatment of a person shall immediately inform the police or medical personnel that has accompanied, and other family members who accompany and legal representative, if present. A person has the right to communicate with persons next to him or his legal representative.
+4. The doctor in the service of mental health care specialized with beds, who decides on involuntary treatment, describes in detail in the medical card all procedures followed and provides notification of the chief of the service for involuntary hospitalization, within twenty-four (24) hours.

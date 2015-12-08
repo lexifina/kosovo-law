@@ -1,0 +1,4 @@
+# Neni 31
+Pjesëmarrja e organizatave jofitimprurëse
+1. Ministria e Shëndetësisë mbështet iniciativat e organizatave jofitimprurëse që synojnë asistencë në realizimin e objektivave strategjikë të Ministrisë së Shëndetësisë në zhvillimin dhe përmirësimin e institucioneve të kujdesit të shëndetit mendor, si dhe të atyre organizatave që synojnë monitorimin e jashtëm e të pavaruar të respektimit të të drejtave të njeriut në këtë sektor.
+2. Veprimtaria e organizatave jofitimprurëse në ambientet e institucioneve të kujdesit të shëndetit mendor rregullohet në bazë të marrëveshjeve të mirëkuptimit dhe bashkëpunimit me Ministrinë e Shëndetësisë. Në çdo rast gjatë kësaj veprimtarie, këto organizata respektojnë legjislacionin në fuqi dhe ofrojnë siguri të nevojshme të përdorimit etik dhe ligjor të të dhënave personale dhe konfidenciale.
