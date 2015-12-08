@@ -1,0 +1,6 @@
+# Neni 5
+Të drejtat e femrës së punësuar për gjidhënie
+1. Secilës grua të punësuar që ushqen foshnjën me qumësht gjiri i takojnë të gjitha të drejtat e garantuara me legjislacionin përkatës në fuqi në Kosovë.
+2. Çdo e punësuar që ushqen foshnjën me qumësht gjiri, nëse nuk e shfrytëzon pushimin e lehonisë pas muajit të gjashtë të tij dhe sipas dispozitave përkatëse ligjore në fuqi, prej muajit të gjashtë (6) deri në një (1) vit ka të drejtën e pushimit me pagesë në kohëzgjatje prej dy (2) orë nё ditë brenda orarit të punës, duke mos përfshirë pushimin e rregullt gjatë orarit të punës, për ta ushqyer foshnjën me qumësht gjiri,siç është përcaktuar me këtë ligj.
+3. Çdo e punësuar që ushqen foshnjën me qumësht gjiri pas vitit të parë deri në dy (2) vjet ka të drejtën e një (1) orë në ditë pushim me pagesë brenda orarit të punës, për ta ushqyer foshnjën me qumësht gjiri, duke mos përfshirë pushimin e rregullt gjatë orarit të punës.
+4. Çdo e punësuar që ushqen foshnjën me qumësht gjiri, pushimin me pagesë në kohëzgjatje prej (1) një apo dy (2) orë në ditë brenda orarit të punës, e shfrytëzon në fillim, në mes, apo përfundim të orarit të punës, në marrëveshje me punëdhënësin dhe për këtë e njofton me shkrim punëdhënësin bashkë me vërtetimin e mjekut se e punësuara është në gjidhënie.
