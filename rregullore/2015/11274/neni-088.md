@@ -1,0 +1,6 @@
+# Neni 88
+Struktura organizative e Zyrës se Punësimit ne Mamushë
+1. Struktura organizative e Zyrës së Punësimit në Mamushë është si vijon:
+1.1. Zyra e Udhëheqësit, dhe
+1.2. Personeli i organit lokal
+2. Numri i të punësuarve në Zyrën e Punësimit ne Mamushë është dy (2).
