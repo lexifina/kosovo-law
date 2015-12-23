@@ -1,0 +1,8 @@
+# Neni 24
+Vlerësimi i dëmeve në raste të përsëritjes
+së tërmetit
+1. Nëse ndodh tërmet i ri gjatë kohës së zhvillimit të vlerësimit të dëmeve të tërmetit të parë ose menjëherë pas përfundimit të vlerësimit, ose derisa rezultatet e atij vlerësimi nuk kanë kaluar nëpër të gjitha fazat e miratimit dhe ende nuk janë miratuar masat për mënjanimin e pasojave të tërmetit, është e domosdoshme të përcaktohet nëse tërmeti i ri ka shkaktua shkatërrime të reja dhe ka zmadhuar dëmet, ndërsa në vlerën përfundimtare të dëmeve duhet përfshirë dëmet e reja dhe për këtë vendos komisioni lokal.
+2. Përcaktimi dhe pasqyrimi i përbashkët i dëmeve të cilat kanë ndodh në tërmetin e parë dhe atë të përsëritur kryhet sipas mënyrës së paraparë në Shtojcën numër 6, nga nënparagrafi 1.6 paragrafi 1 i nenit 28 të kësaj rregulloreje. Parimet bazë të atij vlerësimi përbëhen prej me sa vijon:
+2.1. për të mirat materiale në pronësi të personave juridik duhet kryer përsëri vlerësimin e dëmeve për çdo të mirë materiale në të cilat janë zmadhuar dëmet, përfshirë edhe ato të mira materiale të cilat nuk kanë qenë të dëmtuara nga tërmeti i parë, por janë shkaktuar si pasojë e përsëritjes së tërmetit;
+2.2. për të mirat materiale në pronësi të personave fizik, për të cilat është kryer vlerësimi individual i dëmeve, për objektet e banimit, sipas rregullit, veprohet në të njëjtën mënyrë si edhe për të mirat materiale në pronësi të personave juridik nga nënparagrafi 2.1, paragrafi 2, i këtij neni dhe
+2.3. për objektet në pronësi të personave fizik, për të cilat bëhet vlerësimi global i dëmeve, të dhënat e nevojshme sigurohen me anë të mostrave.
