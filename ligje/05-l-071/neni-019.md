@@ -1,0 +1,3 @@
+# Neni 19
+Fondet për ruajtjen e asistencës emergjente për likuiditet Në pajtim me parashikimet e specifikuara në Tabelën 1, përfshirë edhe financimin nga Institucionet Financiare Ndërkombëtare, Ministri nënshkruan Memorandum të Mirëkuptimit për ndarjen e dyzetegjashtë milion (46.000.000) Euro nga bilanci bankar i Qeverisë, si rezerve për ruajtjen e asistencës emergjente për likuiditet të sistemit financiar. Këto fonde mund të shfrytëzohen vetëm në pajtim me Memorandumin e Mirëkuptimit për Asistencën emergjente për likuiditet të nënshkruar ndërmjet Guvernatorit të Bankës Qendrore, Ministrit të Financave dhe Kryesuesit të Komisionit për Buxhet e Financa. LIGJI Nr. 05/L -071 PËR BUXHETIN E REPUBLIKЁS SЁ KOSOVЁS PЁR VITIN 2016
+Ligji Nr. 05/L -058 PËR DiZAjNiN iNDUSTRiAL

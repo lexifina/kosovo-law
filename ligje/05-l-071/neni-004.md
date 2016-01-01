@@ -1,0 +1,6 @@
+# Neni 4
+Ndarjet buxhetore komunale 1. Pavarësisht nga neni 3 i këtij ligji, ndarjet buxhetore në Tabelën 4.1, që janë të bazuara në të hyrat vetanake komunale, janë të autorizuara vetëm në atë nivel ku të hyrat e tilla depozitohen në Fondin e Kosovës dhe regjistrohen në kohë në SIMFK.
+2. Në rastet kur gjatë vitit fiskal shumat e të hyrave vetanake të një komune, që janë depozituar në Fondin e Kosovës dhe regjistruar në SIMFK, kalojnë shumat e të hyrave të ndara në Tabelën 4.1 të asaj komune, Thesari do të regjistroj këto mjete si bilance në dispozicion të komunave përkatëse. Këto bilance janë në dispozicion për të financuar ndarjet shtesë buxhetore në vitin aktual ose vitet vijuese të aprovuara në përputhje me procedurat e përcaktuara në LMFPP.
+3. Të hyrat vetanake komunale nga arsimi duhet të regjistrohen veçmas. Të hyrat e tilla mund të autorizohen dhe shfrytëzohen nga komuna vetëm për qëllime të arsimit.
+4. Të hyrat vetanake nga bashkë-pagesat e kujdesit primar shëndetësor duhet të regjistrohen veçmas dhe të hyrat e tilla mund të autorizohen dhe shfrytëzohen nga komuna vetëm për qëllime të kujdesit primar shëndetësor. IGJI 71 BUXHETIN E REPUBLIKЁS SЁ KOSOVЁS PЁR VITIN 2016
+Ligji Nr. 05/L -058 PËR DiZAjNiN iNDUSTRiAL

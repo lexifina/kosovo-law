@@ -1,0 +1,3 @@
+# Article 19
+Funds to maintain emergency liquidity assistance In accordance with the projections specified in table 1, including financing from the International Financial Institutions, the Minister of Finance shall sign the Memorandum of Understanding for the allocation of forty-six million (46.000.000) Euros from the Government bank balance as a reserve to maintain emergency liquidity assistance to the financial system. These funds can be used only in accordance with the Memorandum of Understanding on Emergency Liquidity Assistance signed between the Governor of the Central Bank, the Minister of Finance and Chairman of the Committee on Budget and Finance. LAW No. 05/L -071 ON BUDGET OF REPUBLIC OF K SOVO FO YEAR 2016
+LAW No. 05/L -058 ON INDUSTRIAL DESIGN

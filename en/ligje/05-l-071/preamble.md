@@ -1,0 +1,2 @@
+LAW No. 05/L -058 ON INDUSTRIAL DESIGN LAW No. 05/L -071 ON BUDGET OF REPUBLIC OF KOSOVO FOR YEAR 2016
+The Assembly of the Republic of Kosovo; Based on paragraphs (1) and (5) of Article 65 of Constitution of the Republic of Kosovo and Article 21 of the Law on Public Financial Management and Accountability; In order to define the Budget of Republic of Kosovo for fiscal year 2016 Adopts LAW ON BUDGET OF REPUBLIC OF KOSOVO FOR YEAR 2016
