@@ -1,0 +1,1 @@
+LAW Nо. 05/L-015 ON IDENTITY CARDS LAW Nо. 05/L-015 ON IDENTITY CARDS The Assembly of the Republic of Kosovo, Based on Article 65 (1) of the Constitution of the Republic of Kosovo, Approves LAW ON IDENTITY CARDS

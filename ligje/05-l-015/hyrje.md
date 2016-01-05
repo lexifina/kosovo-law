@@ -1,0 +1,1 @@
+LIGJI Nr. 05/L -015 PËR LETËRNJOFTIM LIGJI NR. 05/L -015 PËR LETËRNJOFTIM Kuvendi i Republikës së Kosovës; Në bazë të nenit 65 (1) të Kushtetutës së Republikës së Kosovës, Miraton LIGJ PËR LETËRNJOFTIM
