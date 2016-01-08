@@ -1,0 +1,12 @@
+# Article 5
+Prohibitions and exceptions
+1. No person may engage in the business of insurance, reinsurance, insurance intermediation or other activities that are required to be licensed and approved by this Law, without valid license and approval issued by the CBK under the provisions of this Law.
+2. No person may use the word “insurance”, “reinsurance”, “insurance intermediary”, “loss adjuster” or derivatives of those words in connection with a business, product or service or promotional activities without a license issued by the CBK to engage in insurance activities, unless such use is established or recognized by the Law. No representative office can use the word “insurance” in their names, except when the word “insurance” forms an integral part of the name of the foreign insurer to which they belong, provided that in such cases to add the word “representative office “.
+3. No insurer, reinsurer, insurance intermediary, or loss adjuster can use words in its name, which may lead to the misuses regarding their financial conditions, legal status or relationship with government or international institutions.
+4. The insurer of a foreign country is not allowed to offer and get direct insurance risk belonging to a person, a thing or liability, located in the territory of the Republic of Kosovo, without being licensed by the CBK.
+5. Provisions of paragraph 4 of this Article shall not apply to insurance risks related to marine and air transport, for a non – resident insurance in the Republic of Kosovo, or when it is otherwise envisaged in international agreements to which the Republic of Kosovo is a party. Nevertheless, in special cases, the prior approval of the CBK may be required.
+6. No person can make any untrue statements of material fact or make a false or misleading statement to conceal or do anything to create a false appearance, misleading for issuing insurance policies.
+7. Insurer licensed to engage in any kind of non-life insurance should not offer life insurance and vice versa.
+8. Reinsurance activities are exercised by the reinsurer licensed by the CBK and exercise only reinsurance activity.
+9. Reinsurer can exercise simultaneously reinsurance of life insurance and non-life classes.
+10. The CBK can allow insurers licensed in Kosovo, to ensure its own risks to a reinsurer in a foreign country, regardless of the fact whether these reinsurers are not licensed in Kosovo.

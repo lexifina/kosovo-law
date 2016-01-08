@@ -1,0 +1,11 @@
+# Neni 126
+Pezullimi dhe largimi i personave në nje sigurues, ndërmjetësues të sigurimeve dhe
+trajtues të dëmeve dhe profesionistëve tjerë
+1. Nëse BQK-ja konstaton se ndonjë aksionar, drejtor, menaxher i lartë apo punonjës i një siguruesi, ndërmjetësuesi të sigurimeve ose trajtuesi të dëmeve, ka bërë shkelje të këtij ligji, rregulloreve apo urdhrave të BQK-së apo është angazhuar në praktika të pasigurta dhe ka vazhduar me shkelje ose praktika të tilla edhe pas vërejtjes së BQK-së, BQK-ja mund të urdhërojë një apo më shumë nga masat në vijim:
+1.1. i kërkon siguruesit, ndërmjetësuesit apo trajtuesit të dëmeve në sigurime të shkarkojë personin e caktuar nga posti i tij;
+1.2. i ndalon këtij personi shërbimin apo pjesëmarrjen në punët e sigurimeve për një afat të caktuar apo përgjithmonë;
+1.3. ia ndalon personit ushtrimin e drejtpërdrejtë apo të tërthortë të së drejtës së votimit, që lidhet me siguruesin, ndërmjetësuesin apo trajtuesin e dëmeve;
+1.4. kërkon prej personit që të heqë dorë nga tërë pjesa apo një pjesë e interesit pronësor të tij të drejtpërdrejtë ose të tërthortë në siguruesin, ndërmjetësuesin apo trajtuesin e dëmeve apo të ndërpresë mbajtjen e një interesi të rëndësishëm në të; dhe
+1.5. kërkon prej personit që t’ia kompensojë siguruesit, ndërmjetësuesit apo trajtuesit të dëmeve, dëmet që mund të jenë shkaktuar nga këto shkelje.
+2. Nëse ndonjëri prej këtyre personave është i akuzuar me ndonjë vepër penale, BQK-ja mund të lëshojë urdhrin për suspendimin e përkohshëm të këtij personi nga posti i tij/saj në siguruesin, ndërmjetësuesin apo trajtuesin e dëmeve dhe, nëse është e aplikueshme, suspendimin e ushtrimit të së drejtës së votimit që rrjedh nga aksionet nga ky person, deri në zgjidhjen e lëndës penale. Pezullimi i lëndës penale apo vendimi për pafajësi nuk e pengon BQK-në që të marrë ndonjë masë ligjore sa i përket këtij personi sipas këtij ligji.
+3. Në rast se ndonjë person nuk i shet ose heq dorë prej aksioneve me të drejtë vote të siguruesit, ndërmjetësuesit apo trajtuesit të dëmeve në përputhje me urdhrin e lëshuar sipas këtij neni brenda periudhës kohore të përcaktuar, BQK-ja urdhëron që të gjitha aksionet që mbahen nga ky person, t’i kalohen një administratori të besuar për t’i shitur në ankand dhe të hyrat neto, pa shpenzimet e shitjes, do t’i kthehen atij personi.

@@ -1,0 +1,32 @@
+# Neni 104
+Detyrat dhe përgjegjësitë e likuidatorit dhe efektet e likuidimit
+1. Funksionet kryesore të likuidatorit janë që të administrojë siguruesin në likuidim, ta likuidojë pasurinë e tyre, të paguajë dëmet që u janë shkaktuar poseduesve të policave dhe kreditorëve.
+2. Likuidatori i ka të gjitha autorizimet e bordit të drejtorëve dhe aksionarëve të siguruesit në fjalë.
+3. Në varësi të qëllimit primar për plotësimin maksimal të detyrimeve të siguruesit ndaj poseduesve të policave dhe kreditorëve, likuidatori e shpejton shitjen e pasurisë së siguruesit dhe pagesat për poseduesit e policave.
+4. Likuidatori mund të ndërmarrë çfarëdo veprimi në drejtim të likuidimit të siguruesit.
+5. Likuidatori nuk mund të lëshojë polica të reja apo të zgjas afatin e policave ekzistuese.
+6. Likuidatori, me miratim me shkrim të BQK-së, mund të marrë hua të garantuar me aktivën e siguruesit ose të pa garantuar.
+7. Likuidatori mund të ndalojë ose kufizojë pagesën e çfarëdo detyrimi, të punësojë dhe largojë nga puna punonjësit, menaxherët apo këshilltarët, të ekzekutojë çfarëdo instrumenti në emër të siguruesit apo të iniciojë ose të mbrojë e të ndërmarrë në emër të siguruesit çfarëdo veprimi apo procedure ligjore.
+8. Likuidatori ka autorizime të pakufizuara për të hyrë dhe për t’i kontrolluar zyrat, librat e llogarive dhe shënimet tjera, si dhe pasurinë dhe detyrimet tjera të siguruesit.
+9. Me kërkesën e likuidatorit, zyrtari i zbatimit të ligjit ose zyrtarët tjerë do ta ndihmojnë likuidatorin që të hyjë në objektet e siguruesit, për t’i kontrolluar asetet e tij.
+10. Likuidatori ka të drejtë të paraqesë padi dhe të mbrohet kundër padive në gjykata të rregullta dhe në procedura arbitrazhi, në emër të siguruesit në likuidim.
+11. Likuidatori ka të drejta dhe privilegje të njëjta dhe i nënshtrohet detyrimeve, ndëshkimeve, kushteve dhe kufizimeve të njëjta që zbatohen për bordin e drejtorëve apo të punësuarve të tjerë, të një siguruesi të licencuar sipas këtij ligji.
+12. Të drejtat e bordit të drejtorëve dhe të aksionarëve të siguruesit suspendohen gjatë likuidimit. Likudatori i mban disa apo të gjithë anëtarët e bordit të drejtorëve dhe punonjësit me kompenzim të arsyeshëm që nevojitet për të administruar likuidimin dhe për t’i kryer funksionet, posaçërisht të caktuara me shkrim nga likuidatori.
+13. Likuidatori mund t’i largojë nga puna të gjithë punonjësit e siguruesit dhe ata mund të mos marrin kurrfarë kompensimi për shkak të këtij largimi.
+14. Likuidatori e siguron pasurinë e siguruesit dhe kërkon mbrojtjen e saj nga vjedhja apo nga ndonjë veprim tjetër i papranueshëm duke ndërmarrë veprime që veçmas përfshijnë:
+14.1. ndërrimin e çelësave dhe kufizimin e përdorimit të tyre të hyrjeve të jashtme të zyrave të siguruesve dhe të zyrave të brendshme, ku ka mjete financiare, të dhëna apo pajisje që do t’i mundësonin ndonjë individi të ketë qasje joligjore në mjetet financiare;
+14.2. ndërrimin apo krijimin e kodeve në kompjuterët e siguruesit dhe t’i lejohet qasje vetëm një numri të caktuar të punonjësve e të besueshëm;
+14.3. lëshimin e kartelave të reja të identifikimit me fotografi për hyrje të të punësuarve të autorizuar në lokalet e siguruesve dhe kontrollit të hyrjes të personave të tjerë në këto lokale;
+14.4. anulimin e autorizimeve për personat me përgjegjësi financiare të siguruesit dhe lëshuarjen e autorizimeve të reja dhe njoftimi i palëve të treta për këtë;
+14.5. informimin e poseduesve të policave, agjentëve, brokerëve, risiguruesve, zyrave relevante për tatim, bankave dhe bizneseve që kanë raporte afariste me siguruesin, se personat të cilët më parë kanë qenë të autorizuar për të dhënë këshilla në emër të siguruesve lidhur me udhëheqjen e pasurisë dhe llogarive, nuk kanë më autorizime të tilla dhe se vetëm likuidatori dhe individët e autorizuar nga ai kanë një autorizim të tillë, dhe;
+14.6. pezullimin e pagesave në përgjithësi me shpërndarje të gjerë dhe të pagesave të çfarëdo lloji për bordin e drejtorëve dhe aksionarët me kusht, që bordit të drejtorëve t’u paguhet rroga bazë për shërbimet e bëra sipas cilësisë së tyre si anëtar të bordit të drejtorëve.
+15. Likuidatori do të përgatis një bilanc të ri të gjendjes të siguruesit në likuidim, bazuar në përcaktimin e vlerës së aseteve në likuidim me zvogëlim ekuivalent me vlerën e detyrimeve të siguruesit në likuidim. Detyrimet do të konsiderohen si të pritura për pagesë dhe kamata do të pushojë së rrituri qysh nga dita e emërimit të likuidatorit.
+16. Brenda një (1) muaji pas marrjes në posedim të siguruesit, likuidatori bën regjistrimin e të gjitha pasurive të sigurimeve dhe ia dërgon një kopje të atij regjistrimi BQK-së, e cila do t’ia vë në dispozicion një kopje publikut për vlerësim.
+17. Pas marrjes në posedim të siguruesit nga Likuidatori:
+17.1. çdo afat, çdo çështje statutare, kontraktuese apo tjetër; kërkesat apo të drejtat e siguruesit që skadojnë apo shuhen, do të zgjaten edhe për gjashtë (6) muaj nga dita e skadimit apo e shuarjes;
+17.2. çdo konfiskim apo kamatë sigurie që ka ndodhur gjashtë (6) muajt e fundit para hyrjes në fuqi të likuidimit, anulohet dhe asnjë konfiskim apo interes sigurie, përveç atij të krijuar nga likuidatori gjatë zbatimit të këtij neni, nuk mund të konfiskohet nga pasuria e siguruesit nën likuidim, përderisa të zgjasë likuidimi; dhe
+17.3. shuhen të drejtat e aksionarëve, përveç të drejtës për pranimin e pasurisë nëse mbetet diç pas kryerjes së kënaqshme të kërkesave që kanë përparësi ndaj aksionarëve dhe e drejta për të pranuar çdo pagesë neto të marrë nga të ardhurat e siguruesit dhe kryesisht e gjithë pasuria e tij, nëse likuidatori vërteton se siguruesi ka pasur vlerë neto pozitive në kohën e shitjes.
+18. Kërkesat ndaj siguruesit duhet të dorëzohen te likuidatori, brenda nëntëdhjetë (90) ditësh pas shpalljes së fundit në gazetë. Kërkesa që nuk dorëzohet brenda këtij afati kohor mund të merren në konsiderim vetëm pas zgjidhjes së kënaqshme të të gjitha kërkesave të dorëzuara me kohë, dhe vetëm atëherë kur kërkuesi ka dhënë arsyetim të mjaftueshëm, lidhur me mos dorëzimin brenda afatit të përcaktuar, përndryshe, kërkesa nuk do të paguhet.
+19. Procedurat e përcaktimit të vlefshmërisë, shumës së kërkesave dhe likuidimi i pasurisë së siguruesit dhe pagesa e kërkesave, do të përcaktohet me rregullore nga ana e BQK-së.
+20. Shitja e pasurisë duhet të bëhet në mënyrë transparente dhe komercialisht të arsyeshme.
+21. Likuidatori i raporton BQK-së për çdo muaj për mbarëvajtjen e procedurave të likuidimit, në mënyrën siç e përcakton BQK-ja.
