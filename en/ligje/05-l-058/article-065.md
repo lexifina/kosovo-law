@@ -1,0 +1,2 @@
+# Article 65
+Persons who have the right to request the rights implementation Besides the holder of the rights or persons authorized by the holder of the right in accordance with the general rules of representation, the implementation of the rights conferred by this Law shall be entitled to require the licensee with the exclusive license to the extent to which he/ she has earned the right to exploitation of industrial design based on Law or legal transaction.

@@ -1,0 +1,6 @@
+# Neni 68
+Kërkesa për kompensimin e dëmit, për kompensim të zakonshëm dhe pasurim të padrejtë 1. Pronari i dizajnit mund të inicioj procedurë gjyqësore kundër personit i cili i ka shkaktuar dëm duke kryer pa autorizim veprimet sipas nenit 17 të këtij ligji, dhe të kërkoj kompensim për dëmin e shkaktuar në përputhje me dispozitat ligjore për kompensim të dëmeve.
+2. Pronari i dizajnit mund të inicioj procedurë gjyqësore kundër personit i cili ka kryer pa autorizim veprimet sipas nenit 17 të këtij ligji, duke kërkuar kompensimin në shumën që ai/ajo ka kërkuar në kontratën për licencën, nëse ajo ekziston.
+3. Pronari i dizajnit mund të inicioj procedurë gjyqësore kundër personit i cili ka kryer pa autorizim veprime sipas nenit 17 të këtij ligji dhe i cili pa bazë ligjore apo vendim gjykate, ka përfituar nga kjo. Pronari mund të kërkojë kthimin apo kompensimin e përfitimeve të tilla në bazë të rregullave të përgjithshme për pasurim të padrejtë.
+4. Kërkesat sipas paragrafit 1, 2 dhe 3 të këtij neni nuk e përjashtojnë njëra tjetrën. Kur vendoset për këto kërkesa të përmendura në paragrafët 1, 2 dhe 3 të këtij neni të paraqitura në mënyrë kumulative, Gjykata duhet të bazohet në dispozitat e përgjithshme të ligjit mbi Marrëdhëniet Detyrimore.
+25 Ligji Nr. 05/L -058 PËR DiZAjNiN iNDUSTRiAL

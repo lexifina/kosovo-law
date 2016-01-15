@@ -1,0 +1,3 @@
+# Neni 75
+Procedurat e përshpejtuara 1. Procedura në lidhje me shkeljen e dizajnit duhet të jetë e përshpejtuar.
+2. Me kërkesë të gjykatës ose të palës që ka iniciuar procedurën në lidhje me shkeljen e së drejtës së dizajnit, Agjencia pranon kërkesën për shpalljen e pavlefshmërisë së vendimit për dizajnin industrial të regjistruar të paraqitur para ose gjatë procedurës, do të veprojë në procedurë të përshpejtuar. Gjykata duke marrë parasysh rrethanat mund të vendos pezullimin e procedurës deri në marrjen e vendimit përfundimtar me kërkesë të palës për deklarimin e pavlefshmërisë së dizajnit industrial.

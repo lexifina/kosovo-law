@@ -1,0 +1,4 @@
+# Neni 80
+Dorëzimi i autorizimit 1. Përfaqësuesi i dizajnit industrial që pohon së është i autorizuar për të përfaqësuar pronarin para Agjencisë, por nuk i dorëzon Agjencisë autorizimin për të argumentuar, ftohet që në afat prej gjashtëdhjetë (60) ditësh nga data e pranimit të ftesës të paraqesë një autorizim të vlefshëm.
+30 Ligji Nr. 05/L -058 PËR DiZAjNiN iNDUSTRiAL 2. Me kërkesën e përfaqësuesit për dizajn industrial, afati kohor mund të vazhdohet edhe për gjashtëdhjetë (60) ditë të tjera nga data e skadimit të afatit të cekur në paragrafin 1 të këtij neni.
+3. Nëse përfaqësuesi për dizajn industrial nuk i dorëzon Agjencisë autorizimin e vlefshëm brenda afatit kohor dhe vazhdon të veprojë në emrin e vet, veprimet e ndërmarra nga përfaqësuesi konsiderohen sikur të mos ishin ndërmarrë fare.

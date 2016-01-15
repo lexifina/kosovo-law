@@ -1,0 +1,2 @@
+# Article 82
+Relationship with copyright Design protected by industrial design right registered in accordance with this Law, (in or in connection with the Republic of Kosovo), should be eligible for protection under the Law on Copyright and Related Rights, from the date when the design is created. The extent to and the conditions under which, such protection is given, including the level of originality required, shall be determined by the Law on Copyright and Related Rights.

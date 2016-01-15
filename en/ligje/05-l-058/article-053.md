@@ -1,0 +1,7 @@
+# Article 53
+Full or partial announcement of the invalidity of the registered industrial design 1. The Agency, through a decision, announces the design as full or partial invalid if: 1.1.the design is not a design in accordance with Article 3, paragraph 1. sub-paragraph 1.4. of this Law;
+1.2. the design does not meet the requirements under Articles 5, 6, 7, 8, 9 and 10 of this Law;
+1.3. the applicant or holder of the registered design has no rights according to this Law;
+1.4. the design is in conflict with a prior design which was made available to public after the date of application or in cases when the priority is claimed, after the received priority date, the design shall be protected from the date which existed before the registration of registered design in The Republic of Kosovo or before application for such a right; 1.5.any distinction sign is used in the next design, and the right holder of this distinctive sign has the right to prohibit such use; 1.6.if the design constitutes an unauthorized use of a work protected under the Copyright Law;
+1.7. if the design constitutes an unauthorized use of any of the items listed in Article 6 of the Paris Convention, or of badges, emblems or escutcheons and different graffiti other than those covered by Article 6 of the Paris Convention which are of particular public interest in the Republic of Kosovo.
+2. In cases when the industrial design is partially cancelled, may be maintained in the amended form, if that form is in accordance with the requirements for protection and if design identity is retained.

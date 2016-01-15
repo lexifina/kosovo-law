@@ -1,0 +1,4 @@
+# Neni 32
+E Drejta e përparësisë 1. Nëse aplikacioni për regjistrim të dizajnit industrial është paraqitur konform neneve 28 dhe 29 të këtij ligji, aplikuesi nga data e paraqitjes së aplikacionit, ka të drejtën e përparësisë ndaj çdo aplikuesi tjetër, i cili e paraqet më vonë aplikacionin për regjistrim të një dizajni industrial të njëjtë apo identik.
+2. Aplikacioni i paraqitur sipas Marrëveshjes Ndërkombëtare nënshkruese e së cilës është Republika e Kosovës, fiton të drejtën e përparësisë sipas dispozitave të marrëveshjes përkatëse ndërkombëtare.
+3. E drejta e përparësisë e kërkuar konform nenit 33 dhe 34 të këtij ligji, ka efekt ashtu që data e përparësisë llogaritet si data e paraqitjes së aplikaconit për dizajn industrial me qëllim të përcaktimit të të drejtave të cilat kanë përparësi në pajtim me paragrafin 1 të këtij neni.

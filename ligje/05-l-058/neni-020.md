@@ -1,0 +1,2 @@
+# Neni 20
+Shterrja e të drejtave Me futjen në treg nga pronari i dizajnit industrial apo me lejen eksplicite të tij, në Republikën e Kosovës, respektivisht pas aderimit të Republikës së Kosovës në Bashkimin Evropian edhe në territorin e ndonjërës nga shtetet e Bashkimit Evropian, përkatësisht në territorin e ndonjërës nga shtetet anëtare nënshkruese të Marrëveshjes mbi Zonën Ekonomike Evropiane, të produktit i cili përmban dizajnin industrial, shterren të drejtat ekskluzive në raport me atë produkt për territorin e Republikën e Kosovës.

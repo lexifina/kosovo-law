@@ -1,0 +1,5 @@
+# Article 49
+Renewal of registration 1. Registration of industrial design shall be extended at the request of the owner of the right or the person authorized by him, if the appropriate fee is paid. The request for extension must be submitted and taxes shall continue to be paid within a period of twelve (12) months which ends on the last date of the month in which protection ends. If this fails, then the application may be submitted and taxes must be paid within a period of six (6) months after the expiration of the protection, if the additional fees for this period are paid.
+2. The continuation of the registration begins the next day of the date of expiry of the previous period of protection.
+3. The continuation shall be registered and published in the Agency bulletin.
+LAW No. 05/L -058 ON INDUSTRIAL DESIGN 4. The relevant fees according to paragraph 1. and 2. of this Article, and the information on the application for continuation of industrial design registration shall be defined by sub- legal act.

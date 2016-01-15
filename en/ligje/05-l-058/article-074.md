@@ -1,0 +1,4 @@
+# Article 74
+Providing evidence during the civil procedure 1. When a party to the proceedings requires proof that belongs to the opposing party or that are under its control, the court invites the opposing party to submit such evidence within a specified time.
+2. The holder of the design in a role of the plaintiff, who alleges the violation of design on business is conducted in case of economical and material profits and thus presents during the proceedings and presents evidence such as: bank documents, financial or commercial documents or other evidence to confirm that they belong to opposing party or are under its control, the court invites the opposing party to submit such evidence within a specified time.
+3. If the party invited to present testimony, refuses that evidences belong to them or are under its control, the court may take the evidences to prove such a fact.

@@ -1,0 +1,2 @@
+# Article 20
+Exhaustion of the right Upon entry into the market by the owner of the industrial design or with his explicit permission, in the Republic of Kosovo, respectively, after the accession of the Republic of Kosovo in the European Union and in the territory of any of the countries of the European Union, respectively in the territory of any of the member states which have signed the Agreement on the European Economic Area, the product of which includes industrial design, exhausted exclusive rights in relation to that product on the territory of the Republic of Kosovo.

@@ -1,0 +1,2 @@
+# Article 60
+Community design as an earlier design According to Articles 6, 7, 8 and 53 of this Law, applications for the registration of Community Design as well as Protected Community Designs shall be considered as earlier designs in relation to the national design applications submitted, and national designs registered upon such applications after the accession of the Republic of Kosovo to the European Union.

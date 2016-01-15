@@ -1,0 +1,4 @@
+# Article 32
+The priority right 1.If the application for registration of the industrial design has been submitted according to Articles 28 and 29 of this law, the applicant from the date of submitting application has the right of priority towards any other applicant, who may submit later the application for registration of the same industrial design or identical.
+2. Every application filed under an International Agreement to which the Republic of Kosovo is a party, shall also give rise to the priority of such an application according to the provisions of the relevant international agreement.
+3. The right of priority invoked according to Articles 33 and 34 of this Law shall have the effect that the date of priority shall be deemed as the date of filing of the industrial design application for the purposes of establishing which rights take precedence in accordance with paragraph 1. of this Article.
