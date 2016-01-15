@@ -1,0 +1,9 @@
+# Neni 27
+Pezullimi i furnizimit shkyçja dhe rikyçja e konsumatorëve 1. Furnizuesi mund të pezullojë përkohësisht furnizimin e konsumatorit me energji termike në pajtim me rregullat dhe kodet përkatëse.
+2. Furnizuesi lëshon një njoftim për ta informuar me shkrim konsumatorin për pezullimin e furnizimit. Njoftimi i tillë do të përshkruaj arsyen dhe kohëzgjatjen e pezullimit të furnizimit me energji termike dhe do t’i caktojë masat që do të ndërmerren për pezullimin e ndërprerjes së furnizimit.
+3. Furnizuesi mund ta bëj pezullimin e përkohshëm të shërbimit për konsumatorin, nëse konsumatori nuk i përmbush obligimet që i ka në kontratë duke përfshirë riparimin e problemeve teknike që kanë ndodhur në rrjet dhe të pajisjeve matëse apo pajisjeve tjera të ngrohjes të instaluara brenda hapësirave të konsumatorit.
+4. Shkyçja e përkohshme mund të zgjatë deri në pesëmbëdhjetë (15) ditë, nëse brenda këtij afati nuk eliminohen shkaqet që kanë sjellë shkyçjen e përkohshme, furnizuesi ka të drejtë të bëj shkyçjen e përhershme të konsumatorit dhe shpenzimet e kyçjes bien në barrë të konsumatorit.
+5. Ndërmarrja e energjisë termike e rikyçë konsumatorin në sistemin e energjisë termike në afat prej tre (3) ditësh nga momenti i përmbushjes së obligimit dhe evitimit të shkakut të pezullimit. LIGJI Nr. 05/L -052 PËR ENERGJINË TERMIKE
+Ligji Nr. 05/L -058 PËR DiZAjNiN iNDUSTRiAL 6. Për konsumatorët, rregullat për pezullim do të specifikohen në kontratën e furnizimit me furnizuesin.
+7. Nëse pezullimi i furnizimit të konsumatorit me energji termike bëhet pa fajin e konsumatorit, konsumatorit i kompensohet dëmi i konstatuar nga Komisioni përkatës i formuar nga ndërmarrja e energjisë termike.
+8. Në rast të moskompensimit sipas paragrafit 7 të këtij neni, pala e pakënaqur ka të drejtë ankese në Zyrën e Rregullatorit për Energji sipas ligji të Rregullatorit për Energji.

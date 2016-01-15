@@ -1,0 +1,3 @@
+# Article 14
+Measures for the generation of thermal energy from renewable sources 1. The Ministry with sub-legal act shall set the measures of thermal energy generation using renewable energy sources, including target of the thermal energy generation using renewable energy sources or waste and cogeneration of thermal energy and electricity, and unused thermal energy, as a percentage of total annual generation for each generator in a period of ten (10) years.
+2. The Energy Regulatory Office shall impose special and favorable conditions for the priority purchase of thermal energy produced from renewable energy sources and cogeneration of electricity and thermal energy, considering that the price of thermal energy to be at reasonable and affordable level for consumers.

@@ -1,0 +1,4 @@
+# Article 22
+Responsibility for the Secondary System 1. Administration of the secondary thermal energy system in buildings in public or private use is performed by the administrator or owners’ association responsible for the operation and maintenance of an unregulated system from the point of secondary system supply, in accordance with relevant legislation.
+2. If a building which is under joint or partial possession without the establishment of a relevant housing association has several thermal energy users, where the existing thermal energy enterprise operates and maintains the secondary system based on the contractual arrangements with the owners of the building, according to the tariffs defined by Energy Regulatory Office.
+3. The thermal energy enterprise shall bill separately for operation and maintenance costs of the secondary system, in the rates approved by the Energy Regulatory Office.

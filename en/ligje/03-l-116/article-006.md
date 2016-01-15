@@ -1,4 +1,0 @@
-# Article 6
-1. Vertically integrated heat enterprises shall perform generation, distribution, and supply activities in a functionally separate manner. Transfers of information between such separate activities shall be prohibited except to the extent that the information is required to perform the tasks of the public supplier.
-2. For the purpose of avoiding discrimination, cross-subsidization, and distortion of competition, vertically integrated heat enterprises shall keep in their internal accounting such separate accounts for their generation, distribution, and supply activities, as they would be required to do if the activities in question were carried out by separate enterprises.
-3. Vertically integrated heat enterprises shall keep separate accounts for supply activities to eligible and non-eligible customers, as well as for non-heat activities.

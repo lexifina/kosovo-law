@@ -1,0 +1,5 @@
+# Neni 33
+Autorizimet e Inspektoratit të Energjisë 1. Nëse inspektorët në kryerjen e inspektimit konstatojnë se subjekti energjetik dështon në kryerjen e shërbimeve në përputhje me dispozitat e këtij ligji dhe standardet e zbatueshme të kërkuara me kodet teknike, përveç kompetencave në pajtim me legjislacionin në fuqi, kanë autorizime:
+1.1 të urdhërojnë heqjen e parregullsive të vërejtura dhe caktimin e afatit për eliminimin e tyre;
+1.2. të ndalojnë ndërtimin e objektit të prodhimit në qoftë se nuk është marrë leja për ndërtim;
+1.3. të urdhërojnë pezullimin e ndërtimit të mëtejshëm, gjegjësisht ndërprerjen e furnizimit me energji termike, apo shfrytëzimin e energjisë termike, nëse këto objekte nuk janë ndërtuar, nuk përdoren ose nuk mbahen në përputhje me dokumentet e miratuara ose certifikuara me rregulloret e veçanta teknike ose të tjera dhe për shkak të këtyre paraqitet një kërcënim i menjëhershëm për stabilitetin dhe sigurinë e objekteve energjetike, shëndetin apo jetën dhe sigurinë e trafikut ose ndërtesave ngjitur me këto objekte.

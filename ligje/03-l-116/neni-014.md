@@ -1,3 +1,0 @@
-# Neni 14
-1. Ministria e Energjisë dhe Minierave përcakton minimumin obligativ të sasisë për prodhimin e ngrohjes duke përdorur ngrohjen e pashfrytëzuar, burimin e ripërtërishëm të energjisë apo hedhurinat dhe bashkëprodhimin e ngrohjes dhe energjisë elektrike, si përqindje e prodhimit total vjetor për secilin prodhues gjatë një periudhe mbi dhjetë vjeçare (10) nga data e futjes në përdorim të sistemit për lëshimin dhe tregtimin me certifikatë të gjelbër.
-2. Ministria e Energjisë dhe Minierave mund të vendosë kushte të veçanta më të favorshme për blerje me prioritet të ngrohjes së prodhuar nga burimet e ripërtritshme të energjisë dhe bashkëprodhimit të energjisë elektrike dhe ngrohjes.

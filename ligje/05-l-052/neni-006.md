@@ -1,0 +1,4 @@
+# Neni 6
+Shthurja 1. Ndërmarrjet e energjisë termike të integruara vertikalisht kryejnë aktivitetin e prodhimit, transportimit dhe shpërndarjes, si dhe furnizimit me funksione të ndara. Bartja e informatave ndërmjet këtyre aktiviteteve të ndara është e ndaluar, përveç nëse këto informata kërkohen për përmbushjen e detyrave të furnizuesit publik.
+2. Ndërmarrjet e energjisë termike të licencuara për aktivitetin e prodhimit, transportimit, shpërndarjes dhe furnizimit ndajnë llogaritë e tyre të brendshme me qëllim të shmangies së diskriminimit, si dhe çrregullimit të konkurrencës.
+3. Ndërmarrjet e energjisë termike të integruara vertikalisht mbajnë kontabilitet të ndarë veçmas për aktivitetet e furnizimit të konsumatorëve me tarifa të rregulluara dhe me çmime të parregulluara, si dhe për aktivitete që nuk kanë të bëjnë me energji termike.

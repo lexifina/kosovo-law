@@ -1,0 +1,4 @@
+# Neni 22
+Përgjegjësia për sistemin sekondar 1. Administrimi i sistemit sekondar për energji termike në ndërtesa në shfrytëzim publik, apo privat bëhet nga administratori apo shoqata e pronarëve, që është përgjegjës për operim dhe mirëmbajtje të sistemit të parregulluar prej pikës së furnizimit të sistemit sekondar, në pajtim me legjislacionin përkatës.
+2. Nëse një ndërtesë që është në posedim të përbashkët apo të pjesshëm, pa themelim të administratorit apo shoqatës së pronarëve, ka disa shfrytëzues të energjisë termike, ndërmarrja ekzistuese për energji termike operon dhe mirëmban sistemin sekondar duke u bazuar në marrëveshjen e kontraktuar me banorët e ndërtesës, sipas tarifave që i përcakton Zyra e Rregullatorit për Energji.
+3. Ndërmarrja për energji termike faturon ndaras shpenzimet për operim dhe mirëmbajtje të sistemit sekondar, sipas tarifave të aprovuara nga Zyra e Rregullatorit për Energji.

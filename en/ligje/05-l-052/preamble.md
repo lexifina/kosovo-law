@@ -1,0 +1,1 @@
+LAW No. 05/L -058 ON INDUSTRIAL DESIGN LAW No. 05/L -052 ON THERMAL ENERGY Assembly of the Republic of Kosovo, Based on Article 65 (1) of the Constitution of the Republic of Kosovo, Approves: LAW ON THERMAL ENERGY

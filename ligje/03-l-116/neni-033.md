@@ -1,5 +1,0 @@
-# Neni 33
-1. Administrimi i sistemit sekondar për ngrohje në ndërtesa në shfrytëzim publik, apo privat bëhet nga titullari faktik, në pajtim me legjislacionin përkatës e që është përgjegjës për operim dhe mirëmbajtje të sistemit të pa-rregulluar prej pikës së furnizimit të sistemit sekondar.
-2. Nëse një ndërtesë që është në posedim të përbashkët apo të pjesërishëm pa themelim përkatës të asociacionit banesor ka disa shfrytëzues të ngrohjes, në të cilën, ndërmarrja ekzistuese për ngrohje operon dhe mirëmban sistemin sekondar duke u bazuar në marrëveshjen e kontraktuar me banorët e ndërtesës.
-3. Ndërmarrja për ngrohje ka të drejtë të faturoj ndaras shpenzimet për operim dhe mirëmbajtje të sistemit sekondar, sipas tarifave të aprovuara nga Zyra e Rregullatorit për Energji.
-4. Deri në hartimin e legjislacionit përkatës sipas paragrafit 1 të këtij neni shfrytëzuesit e fundit /pronarët e banesave do të lejojnë qasje në pronën e tyre me qëllim që ndërmarrja për ngrohje t’i përmbush përgjegjësitë e saj sipas këtij ligji.

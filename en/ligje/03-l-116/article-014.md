@@ -1,3 +1,0 @@
-# Article 14
-1. The Ministry of Energy and Mining shall specify the minimum mandatory quotas for heat generation using otherwise unutilized heat, renewable energy resources or waste and co-generation of heat and electricity, as a percentage of the total annual generation by each producer over a ten (10) year period from the date of introduction of the system for issuing and trading with green certificates.
-2. The Ministry of Energy and Mining may prescribe special, more favorable conditions for the purchasing priority of heat produced from renewable energy sources and co-generation of electricity and heat.
