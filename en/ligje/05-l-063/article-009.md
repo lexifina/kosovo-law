@@ -1,0 +1,3 @@
+# Article 9
+Article 62 of the basic Law, paragraph 5 shall be reworded with the following text:
+62.5 If the Municipal Assembly fails to approve and submit to the Minister its proposed budget and budget appropriations request by March 1, the Minister of Finance shall appoint a financial administrator in that municipality, who exercises duties and responsibilities defined by this Law. Following the approval and submission of the proposed budget and Budget appropriation request to the Minister, by Municipal Assembly, these documents are subject to the procedure provided in paragraph 4 of Article 62 of this Law and the competences of financial administrator shall cease.

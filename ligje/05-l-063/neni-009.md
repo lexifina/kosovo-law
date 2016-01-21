@@ -1,0 +1,3 @@
+# Neni 9
+Neni 62 i ligjit bazik, paragrafi 5, riformulohet me tekstin si vijon:
+62.5. Nëse kuvendi komunal dështon që ta miratojë dhe t’ia dorëzojë ministrit propozim-buxhetin dhe kërkesën për ndarje buxhetore, deri më 1 mars, atëherë ministri i Financave emëron një administrator financiar në atë komunë, i cili ushtron detyrat dhe përgjegjësitë, të përcaktuara me këtë ligj. Pas miratimit dhe dorëzimit të propozim- buxhetit dhe kërkesës për ndarje buxhetore te ministri, nga kuvendi komunal, këto dokumente i nënshtrohen procedurës së paraparë në paragrafin 4 të nenit 62 të këtij ligji dhe pushojnë kompetencat e administratorit financiar.
