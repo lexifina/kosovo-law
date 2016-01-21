@@ -1,0 +1,3 @@
+# Neni 15
+Neni 28 i ligjit bazik, pas paragrafit 9, shtohet paragrafi me numrin rendor 10, me tekstin si në vijim:
+10. Specifikat Teknike për kontratat e punës duhet të përcaktojnë në mënyrë të saktë natyrën dhe karakteristikat e performancës të punëve të kërkuara. Specifikat Teknike duhet të përfshijnë, si pjesë substanciale të vetën, një projekt ekzekutiv. Autoriteti Kontraktues është përgjegjës për hartimin e Projektit Ekzekutiv, dhe i cili në mënyrë mandatore duhet ti bashkëngjitet (gjithashtu në pajisje elektronike) Specifikave Teknike, të cilat janë pjesë të dosjes së tenderit. Asnjë Autoriteti Kontraktues nuk i lejohet që të lëshojë dokumentacionin e tenderit pa bashkëngjitur përshkrimin e hollësishëm të projektit.

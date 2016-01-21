@@ -1,0 +1,3 @@
+# Article 15
+Article 28 of the basic Law, after paragraph 9 there shall be added paragraph 10, with the following text:
+10. Technical Specifications for works contracts must precisely define the nature and characteristics of performance of the required works. Technical Specifications must include, as a substantial part of it, an Executive Project. Contracting authority is responsible for the design of the Executive Project which should be necessarily attached (in an electronic copy as well) to the Technical Specifications, which are part of the Tender Dossier. No contracting authority is permitted to issue tender documents without attaching a detailed project description.

@@ -1,0 +1,6 @@
+# Article 44
+1. Article 68 of the basic Law,paragraph 1 and sub-paragraph 1.4 shall be reworded with the following text:
+1. A contracting authority may require economic operators to submit evidence demonstrating that they meet the minimum economic and financial requirements specified in the tender dossier and the contract notice. When required so, the minimum annual turnover the economic operators must have shall not exceed the twofold anticipated contract value. Requirements on economic situation must be necessarily expressed in figures and shall refer maximum to the last three financial years. In cases when except the minimum turnover is necessary to submit the specific minimum turnover in a specific field covered by the contract, such turnover should not exceed for one point five (1.5) times the anticipated contract value. Economic operators shall, as a general rule, be permitted to satisfy such a requirement by submitting, as may be relevant and appropriate, one or more of the following references:
+1.4. copies of financial reports and management reports, certified by a known and licensed firm to examine or an independent licensed auditor; or
+2. Article 68 of the basic Law, after sub-paragraph 1.4 there shall be added a new sub-paragraph 1.5 with the following text:
+1.5. Annual Tax Statements submitted to the Tax Administration of Kosovo.

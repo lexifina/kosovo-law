@@ -1,0 +1,5 @@
+# Article 13
+1. Article 27 of the basic Law, paragraph 1 shall be reworded with the following text:
+1. Except as provided in paragraph 2 of this Article, a contracting authority shall draw up a tender dossier providing all relevant information on the concerned contract, including all material terms and conditions thereof, the applicable procurement procedure, any applicable eligibility requirements or selection criteria, the procedure governing complaints and such other information as the present Law may require or the contracting authority deems necessary. A contracting authority shall designate in the tender dossier the applicable technical specifications and, where appropriate, performance requirements, the scope for variants and information concerning subcontracting in accordance with Articles 28, 29, 30 and 31of this Law.
+2. Article 27 of the basic Law, in the end of paragraph 4 there shall be added the following sentence:
+Requirements set in the tender dossier and the contract notice shall be identical.

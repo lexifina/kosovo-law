@@ -1,0 +1,3 @@
+# Article 20
+1. Article 35 of the basic Law, paragraph 1 shall be reworded with the following text:
+1. A contracting authority may use negotiated procedures without publication of a contract notice to conduct a procurement activity only after it has complied with this Article. PPRC, pursuant to Article 87, paragraph 2, sub- paragraph 2.3 of this Law, must be notified by the concerned contracting authority within two (2) days of the date when decision about using such procedures has been taken. The contracting authority shall in the notification provide a detailed explanation of the facts considered and the justification for using the procedure.

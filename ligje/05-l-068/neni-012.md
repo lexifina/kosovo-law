@@ -1,0 +1,6 @@
+# Neni 12
+1. Neni 26 i ligjit bazik, në fund të paragrafit 1 shtohet një pasus si vijon:
+Përjashtimisht, për kontratat me vlera minimale që zhvillohen në Institucionet arsimore, në pajtim me nenin 19 paragrafi 4 të këtij ligji, person i autorizuar të nënshkruaj një kontratë është Drejtori i Institucionit Arsimor.
+2. Neni 26 i ligjit bazik, paragrafët 2 dhe 3 riformulohen me tekstin si në vijim:
+2. Përveç nënshkrimit të zyrtarit përgjegjës të prokurimit të përmendur në paragrafin 1. të këtij neni, kontratat me vlera të mëdha të autoriteteve kontraktuese duhet që gjithashtu të nënshkruhen në emër të autoritetit kontraktues nga Zyrtari Kryesor Administrativ, si dhe Ministri ose autoriteti tjetër përkatës publik. Nga ky rregull përjashtohet Presidenti, Kryetari i Kuvendit dhe Kryeministri. Nënshkrimet e përcaktuara sipas këtij neni, konfirmojnë dhe pranojnë të drejtat dhe detyrimet e përcaktuara në kontratë. Kontratat që nuk nënshkruhen në pajtim me paragrafin 1. dhe 2. të këtij neni janë të pazbatueshme.
+3. Kur Ministria e Financave cakton AQP-në për kryerjen e një aktiviteti të prokurimit konform nenit 95 të këtij ligji, personat e autorizuar për përmbylljen ose nënshkrimin e kontratës janë Zyrtari përgjegjës i Prokurimit dhe ZKA-ja i AQP-së.

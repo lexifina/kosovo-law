@@ -1,0 +1,5 @@
+# Neni 21
+1. Neni 36 i ligjit bazik, paragrafët 2, 3, 4, 7, 8 dhe 9 fshihen nga teksti i ligjit.
+2. Neni 36, i ligjit bazik, paragrafët 5 dhe 6 riformulohen me tekstin si në vijim:
+5. Dosja për kuotimin e çmimeve do të: (i) përshkruajë, në përputhshmëri me nenin 28, punët, mallrat ose shërbimet, (ii) informojë të gjithë operatorët ekonomik se kuotimet e tyre duhet të përmbajnë një shumë të përgjithshme të çmimit të saktë që autoriteti kontraktues duhet ta paguajë në mënyrë që të marrë mallrat ose shërbimet përkatëse dhe se shuma e tillë e çmimit të saktë duhet të përfshijë çfarëdo dhe të gjitha tatimet dhe doganat e aplikueshme si dhe të gjitha tarifat e tjera të transportimit, sigurimit, instalimit ose tarifat, ngarkesat ose shpenzimet e tjera të çfarëdo lloji dhe (iii) specifikojë datën deri në të cilën duhet të dorëzohen kuotimet e çmimeve.
+6. Për një aktivitet të prokurimit që ushtrohet sipas paragrafit 1 të këtij neni, data deri në të cilën duhet të pranohen të gjitha kuotimet e çmimeve duhet që të mos jetë më pak se pesë (5) ditë nga data e dërgimit të Dosjes për kuotimin e çmimeve.

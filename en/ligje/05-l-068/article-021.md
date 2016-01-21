@@ -1,0 +1,5 @@
+# Article 21
+1. Article 36 of the basic Law, paragraphs 2, 3, 4, 7, 8 and 9 shall be deleted from the Law.
+2. Article 36 of the basic Law, paragraphs 5 and 6 shall be reworded with the following text:
+5. A price quotation dossier shall (i) describe, in accordance with Article 28, the concerned works, goods or services, (ii) inform all economic operators that their quotations must contain a lump sum fixed price that the contracting authority would need to pay to obtain the concerned works, goods or services and that such lump sum fixed price shall include any and all applicable taxes and duties as well as any transportation, insurance, installation or other charges, fees or expenses of any description and (iii) specify the date by which price quotations must be received.
+6. For a procurement activity conducted pursuant to paragraph 1 of this Article, the date by which price quotations must be received shall be no less than five (5) days from the date of the dispatch of the price quotations dossier.

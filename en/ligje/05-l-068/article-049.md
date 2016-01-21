@@ -1,0 +1,8 @@
+# Article 49
+1. Article 87 of the basic Law, paragraph 2, sub-paragraphs 2.1, 2.4 and 2.13 shall be reworded with the following text:
+2. In addition to the matters specified above, the procurement expert shall have the responsibility and authority to:
+2.1. conduct monitoring of procurement and contract management activities for the purpose of monitoring the application of this Law;
+2.4. receive reports from contracting authorities as referred to in Article 35, paragraph 1 and Article 61, paragraph 5 of this Law in order to carry out the activity foreseen in the subsequent sub-paragraph 2.13. PPRC in each case can decide to check the aforementioned decisions and, if necessary, invite the concerned contracting authority to review its decision in accordance with the opinion issued. If the PPRC decides to check the above decisions, PPRC should do it within two (2) days after receipt of such report. PPRC opinions issued in accordance with this paragraph, have a non-binding character for contracting authorities, but competent authorities may take them into account when handling the complaints submitted in accordance with Part IX of this Law.
+2.13. For each calendar year shall prepare and submit to the Government and Assembly an annual report that analyses the public procurement activities for the calendar year in question, along with recommendations for improvements to the public procurement system and/or improvement of the present Law. This report is submitted not later than the end of March of the following calendar year.
+2. Article 87 of the basic Law, sub-paragraph 2.2 shall be deleted from the text of the Law.
+3. Article 87 of the basic Law, sub-paragraph 2.16 shall be deleted from the text of the Law.

@@ -1,0 +1,5 @@
+# Neni 14
+Pas nenit 27 të ligjit bazik, shtohet neni me numër rendor 27/A me tekstin si në vijim:
+Neni 27/A Ndarja e kontratave në Lote
+1. Kontratat publike mund të ndahen në lote homogjene apo heterogjene. Autoritetet kontraktuese duhet të tregojnë, në njoftimin e kontratës ose në ftesën e konfirmimit të interesit, nëse tenderët janë të kufizuar në një ose më shumë lote.
+2. Autoritetet kontraktuese munden, edhe atëherë kur është përcaktuar mundësia për të tenderuar në të gjitha lotet, të kufizojnë numrin e loteve që do të mund të shpërblehen tek një tenderues, me kusht që numri maksimal të përcaktohet në njoftimin e kontratës ose në ftesën për të konfirmuar interesin. Autoritetet kontraktuese do të përcaktojnë dhe do të paraqesin në dokumentet e tenderit kriteret objektive dhe jo-diskriminuese apo rregullat për shpërblimin e loteve të ndryshme, ku aplikimi për përzgjedhjen e kritereve për shpërblim do të rezultonte në shpërblimin e një tenderuesi me më shume lote se sa numri maksimal.

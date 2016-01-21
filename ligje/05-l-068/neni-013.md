@@ -1,0 +1,5 @@
+# Neni 13
+1. Neni 27 i ligjit bazik, paragrafi 1 riformulohet me tekstin si në vijim:
+1. Përveç siç parashihet në paragrafin 2. të këtij neni autoriteti kontraktues do të përpiloj një dosje të tenderit që ofron informatat përkatëse lidhur me kontratën në fjalë, duke përfshirë të gjitha termet dhe kushtet materiale të saj, procedurat e zbatueshme të prokurimit, çfarëdo kërkese të aplikueshme të përshtatshmërisë ose ndonjë kriter të përzgjedhjes, procedurat e ankesës si dhe informatat e tjera përkatëse siç kërkohen nga ky ligj ose siç i sheh të domosdoshme autoriteti kontraktues. Autoriteti kontraktues duhet të përcaktojë në dosjen e tenderit, specifikimet teknike të zbatueshme dhe, aty ku është e përshtatshme, kërkesat ekzekutuese, mundësinë e varianteve dhe informatat lidhur me nën-kontraktimin në pajtim me nenet 28, 29, 30 dhe 31 të këtij ligji.
+2. Neni 27 i ligjit bazik, në fund të paragrafit 4 shtohet fjalia si vijon:
+Kërkesat e përcaktuara në Dosjen e tenderit dhe në njoftimin për kontratë duhet të jenë identike.

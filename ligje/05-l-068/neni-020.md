@@ -1,0 +1,3 @@
+# Neni 20
+Neni 35 i ligjit bazik, paragrafi 1 riformulohet me tekstin si në vijim:
+1. Autoriteti kontraktues mund të përdorë procedurat e negociuara pa publikimin e njoftimit të kontratës për të ushtruar aktivitetin e prokurimit vetëm në përputhje me këtë nen. KRPP-ja, në përputhje me nenin 87, paragrafin 2, nën-paragrafin 2.3 të këtij ligji, duhet të njoftohet nga autoriteti kontraktues në fjalë brenda dy (2) ditëve nga data kur vendimi për përdorimin e procedurave të tilla është marrë. Autoriteti kontraktues duhet që në njoftim të ofrojë një shpjegim të hollësishëm të fakteve të konsideruara dhe justifikimin për përdorimin e procedurës.

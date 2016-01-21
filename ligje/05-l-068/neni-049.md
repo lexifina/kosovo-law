@@ -1,0 +1,8 @@
+# Neni 49
+1. Neni 87 i ligjit bazik, paragrafi 2, nën-paragrafët 2.1, 2.4 dhe 2.13. riformulohen me tekstin si në vijim:
+2.Përveç çështjeve të parapara më lartë, eksperti i prokurimit ka përgjegjësinë dhe autorizimin që:
+2.1. Të kryej monitorimet e aktiviteteve të prokurimit dhe menaxhimit të kontratave për qëllim të monitorimit të zbatimit të këtij ligji;
+2.4. Të pranoj raportet nga autoritetet kontraktuese siç referohet në nenin 35, paragrafi 1 dhe nenin 61, paragrafi 5, të këtij ligji, në mënyrë që të kryej aktivitetin e parashikuar në nën-paragrafin e mëposhtëm 2.13. KRPP-ja në çdo rast mund të vendos që të kontrolloj vendimet e sipërpërmendura dhe, nëse është e nevojshme, mund të ftojë autoritetin përkatës kontraktues për të rishikuar vendimin e tij në përputhje me opinionin e lëshuar. Nëse KRPP-ja vendos që të kontrolloj vendimet e sipërpërmendura, KRPP-ja këtë duhet ta bëjë brenda dy (2) ditëve pas pranimit të raportit të tillë. Opinionet e KRPP- së të lëshuara në përputhje me këtë paragraf, kanë karakter jo-detyrues për autoritetet kontraktuese, por autoritetet kompetente mund ti marrin ato në konsideratë gjatë trajtimit të ankesave të paraqitura në përputhje me Pjesën IX të këtij ligji.
+2.13. Për çdo vit kalendarik të përgatisë dhe dorëzojë në Qeveri dhe Kuvend një raport vjetor që analizon aktivitetet e prokurimit publik në Kosovë për atë vit kalendarik, së bashku me rekomandimet për përmirësimin e sistemit të prokurimit publik dhe/ose përmirësimin e këtij ligji, raport ky që dorëzohet jo më vonë se në fund të marsit të vitit vijues kalendarik;
+2. Neni 87 i ligjit bazik, nën-paragrafi 2.2 fshihet nga teksti i ligjit.
+3. Neni 87 i ligjit bazik, nën-paragrafi 2.16 fshihet nga teksti i ligjit.

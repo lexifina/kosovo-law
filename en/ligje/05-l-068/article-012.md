@@ -1,0 +1,6 @@
+# Article 12
+1. Article 26 of the basic Law, in the end of paragraph 1 there shall be added the following sentence:
+Exceptionally, for minimum value contracts developed in educational institutions, pursuant to Article 19, paragraph 4 of this Law, the Director of the Educational Institution is the person authorized to sign a contract.
+2. Article 26 of the basic Law, paragraphs 2 and 3 of shall be reworded with the following text:
+2. Besides the signature of the responsible procurement officer as mentioned in paragraph 1 of this Article contracts of large value of contracting authorities shall also be signed on behalf of such contracting authority by the Chief Administrative Officer, as well as the Minister or other relevant public authority concerned. From this rule are exempted the President, the President of the Assembly and the Prime Minister. The signatories designated in this Article, confirm and accept the rights and obligations established by the contract. Contracts not signed as mentioned in paragraph 1 and 2 of this Article shall be unenforceable.
+3. When the Ministry of Finance designates the CPA as to conduct a procurement activity, pursuant Article 95 of this Law, persons authorized to enter into or sign the concerned contract shall be the responsible Procurement officer and the CAO of CPA.

@@ -1,0 +1,3 @@
+# Neni 5
+1. Neni 8 i ligjit bazik, paragrafi 1 riformulohet me tekstin si në vijim:
+1. Jo më pak se tridhjetë (30) ditë para fillimit të çdo viti fiskal, secili autoritet kontraktues duhet të përgatisë planifikimin paraprak të prokurimit, dhe në rast të një autoriteti publik apo një ndërmarrje publike, duhet të dorëzoj me shkrim te Zyrtari Kryesor Administrativ i Autoritetit Kontraktues, në të cilat identifikohen me detale të arsyeshme të gjitha furnizimet, shërbimet dhe punët, që autoriteti kontraktues parasheh ti prokurojë gjatë vitit fiskal në fjalë. Planifikimi i tillë paraprak i prokurimit saktëson:
