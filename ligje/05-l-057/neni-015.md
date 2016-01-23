@@ -1,0 +1,5 @@
+# Neni 15
+Organet e FKGK-së 1. Organet e FKGK janë Bordi i Drejtorëve dhe Drejtori Menaxhues.
+LIGJI Nr. 05/L-057 PËR THEMELIMIN E FONDIT KOSOVAR PËR GARANCI KREDITORE 2. Detajet operative për secilin nga këto organe, përfshirë të drejtat dhe obligimet e secilit organ specifikohen në këtë Ligj, Statut dhe Politikat e Procedurave të Brendshme të miratuara nga Bordit i Drejtorëve.
+3. Detajet operative, rregullat dhe procedurat do të specifikohen në Statut dhe Politikat e Procedurave të Brendshme të FKGK të cilat do të aprovohen brenda gjashtëdhjetë (60) ditëve nga mbledhja e parë e Bordit të Drejtorëve, dhe do të shërbejnë si bazë ligjore për të drejtat dhe obligimet e secilit organ në pajtim me këtë Ligj.
+4. Bordi i Drejtorëve brenda gjashtëdhjetë (60) ditëve nga mbledhja e parë, duhet të aprovoj Statutin dhe Politikat e Procedurave të Brendshme me shumicën e thjeshtë të votave të Anëtarëve të Bordit. Statuti dhe Politikat e Procedurave të Brendshme mund të ndryshohen kohë pas kohe nga anëtarët e Bordit të Drejtorëve, me procedurën e njëjtë siç aprovohen fillimisht.

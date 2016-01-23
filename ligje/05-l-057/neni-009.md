@@ -1,0 +1,2 @@
+# Neni 9
+Produktet dhe shërbimet tjera financiare Pas 24 muajsh operimi në ofrimin e garancive kreditore, FKGK-ja mund të fillojë të ofrojë produkte e shërbime të reja me aprovimin paraprak të Bordit të Drejtorëve dhe BQK-së. Për të implementuar produkte apo shërbime të reja, FKGK-ja do të hartojë studimin e fizibilitetit dhe planin e biznesit, si dhe do të marrë aprovimin paraprak të Bordit të Drejtorëve dhe BQK-së.

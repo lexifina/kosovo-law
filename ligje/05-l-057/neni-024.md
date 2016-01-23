@@ -1,0 +1,2 @@
+# Neni 24
+Imuniteti nga Tatimi në të Ardhurat e Korporatave, TVSH dhe Tatimet tjera FKGK-ja është i liruar nga tatimi në të ardhura të korporatave, TVSH-ja, tatimi në dividentë, kamatë, apo të ardhura investimi të fituara nga fondet e depozituara apo investuara, si dhe nga të gjitha ngarkesat, mbajtjet apo taksat në lidhje me cilindo aspekt të opertimit të FKGK-së. FKGK nuk shpërndan ndonjë tepricë (suficit) dhe cfarëdo teprice (suficiti) do të mbetet në FKGK.

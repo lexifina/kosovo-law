@@ -1,0 +1,2 @@
+# Article 24
+Immunity from Corporate Income Tax, VAT and other Taxes The KCGF shall be exempt from Corporate Income Tax, VAT, and tax on dividends, interest or investment income earned from funds on credit guarantees or investments, and any other levy, withholding or tax to any aspect of the operations of KCGF. KCGF shall not distribute any surpluses and any such surpluses will remain within KCGF.

@@ -1,0 +1,9 @@
+## CHAPTER II
+## CREDIT GUARANTEES
+# Article 5
+Principles of Credit Guarantees 1. KCGF may issue Credit Guarantees or other products and services adopted in compliance with this Law and approved by the Board of Directors as provided in Article 17 of this Law. Any new products and services are subject to the provisions of Article 9 of this Law, including approval by the CBK.
+2. Financial Institutions licensed and supervised by the CBK may apply for registration to KCGF, and KCGF will evaluate such financial institutions based on the CBK methodology for risk assessment, other institutional factors and credit portfolio risk. If deemed qualified, the KCGF will register the Financial Institution.
+3. KCGF will register Financial Institutions and enter into a Guarantee Agreement with each registered institution specifying the coverage, limits, policies and procedures for putting Credits under the guarantee into force, paying fees to KCGF and for Registered Financial Institutions making claims to KCGF in the event of a Guaranteed Event and such other matters as may be established by the Charter and Internal Policies and Procedures.
+4. KCGF may provide Credit Guarantees to Financial Institutions registered with KCGF and meeting the criteria and requirements of the Guarantee Agreement.
+5. KCGF must approve in advance any restructuring, rescheduling or negotiated settlement of any Credits placed under the Credit Guarantee.
+LAW No. 05/L -057 ON THE ESTABLISHMENT OF THE KOSOVO CREDIT GUARANTEE FUND 6. Upon the occurrence of a Guaranteed Event, the KCGF shall pay the Registered Financial Institution the Payable Amount after the Registered Financial Institution makes a valid, documented Claim, and KCGF validates and approves the Claim. Any further recovery of principal of the Credit obtained by the Registered Financial Institution will be shared with KCGF based on the Guarantee Percentage.
