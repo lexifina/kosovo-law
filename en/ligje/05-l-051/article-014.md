@@ -1,0 +1,6 @@
+# Article 14
+The right of use
+1. A designation of origin or geographical indication registered according to this Law can be used by any producer or processor to advertise the product when it ensures that these products are in compliance with the relevant specifications and the producer or processor is registered in the Register of Authorized Users.
+2. Every product originating from Kosovo that is marketed according to the designation of origin or geographical indication in accordance with this Law shall be labelled with the indication “protected designation of origin” and “protected geographical indication” or with symbols that accompany them.
+3.Any product originating outside Kosovo that is marketed according to the registered designation of origin or geographical indication in accordance with this Law, in the same manner can be labelled with the indication “protected designation of origin” and “protected geographical indication” or with symbols associated to them.
+4. Ministry shall, with sub-legal act, establish symbols designed to publicise protected designation of origin or protected geographical indication and to be accompanying indication „protected designation of origin” or „protected geographical indication”.

@@ -1,4 +1,0 @@
-# Article 28
-Verification of agricultural products and foodstuffs
-1. In the case of agricultural products or foodstuffs certifying bodies referred to in Article 27 of this Law shall be approved by the Minister of the relevant Ministry of Agriculture. Specific conditions that are required for certification, the list of approved bodies and other matters of this nature will be determined by the Minister of the relevant Ministry of Agriculture.
-2. Details on the conditions and procedures for verification of compliance with agricultural product or foodstuff item with the provisions of the specification, if certification bodies have confirmed that the product does not comply with the provisions of specification, the procedure and manner of setting the fees for verification by the certifying bodies will be determined by the Minister of the relevant Ministry of Agriculture.

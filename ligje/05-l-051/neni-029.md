@@ -1,0 +1,4 @@
+# Neni 29
+Verifikimi i produkteve bujqësore dhe artikujve ushqimorë
+1. Në rast të produkteve bujqësore apo artikujve ushqimorë trupat certifikuese të cekura në nenin 28 të këtij ligji miratohen nga Ministri i Ministrisë përkatëse për Bujqësi. Kushtet e veçanta të cilat kërkohen për certifikim, lista e organeve të miratuara dhe çështje tjera të kësaj natyra do të përcaktohen nga Ministri i Ministrisë përkatëse për Bujqësi.
+2. Hollësitë për kushtet dhe procedurën për verifikim të pajtueshmërisë me produktin bujqësorë apo artikullin ushqimor me dispozitat e specifikacionit, në rast se trupat certifikuese kanë vërtetuar se produkti nuk përputhet me dispozitat e specifikacionit, procedura si dhe mënyra e caktimit të tarifave për verifikim nga trupat certifikuese përcaktohen me akt nënligjor nga Ministria përkatëse për Bujqësi.

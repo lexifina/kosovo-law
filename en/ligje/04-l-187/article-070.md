@@ -1,8 +1,0 @@
-# Article 70
-Obtaining evidence in the course of a civil procedure
-1. When a party in a civil procedure is based on the evidence that claims to be with the opposing party or under its control, the court will invite the opposing party to submit such evidence within the prescribed period of time.
-2. When the owner in accordance with Article 62 of this Law under the legal action claims that trademark infringement is carried out at commercial level in order to provide commercial or economic gaining, and for which he is based on banking, financial procedures or other similar economic document, papers or similar evidences, claiming that they are with opposing party or under its control, the court shall invite the opposing party to submit such evidences within the prescribed period of time.
-3. When the party that is invited to submit the evidence, denies possession of such evidences or that they are under its control, the court may take evidences to prove such a fact.
-4. The provisions of the Law on Contested Procedure regarding the right of refusal to submit evidence as a witnesses, it shall apply the mutatis mutandis to the party's right to refuse to submit evidence.
-5. The court, taking into account all the circumstances of the case, decides by its choice, on the importance of the fact that the party in possession of the evidence refuses to comply with a court decision ordering to present the evidences, or denies, contrary to the court's decision, that the evidence is under its possession.
-6. Against the court decision referred to in paragraphs 1 and 2 of this Article, shall not be allowed a special complaint.

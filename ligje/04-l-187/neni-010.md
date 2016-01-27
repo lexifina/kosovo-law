@@ -1,4 +1,0 @@
-# Neni 10
-Homonimet e emërtimeve të origjinës apo treguesve gjeografik
-1. Kur emrat e dy apo më shumë vendeve të produkteve apo të shërbimeve të origjinës të cilat janë identike apo pothuajse identike në të shkruar ose në të shqiptuar, mbrojtja e emrave të tillë nga një tregues gjeografik apo emërtim i origjinës do të jepet te të gjitha palët e interesuara që i plotësojnë kërkesat e përcaktuara me këtë ligj, dhe në përputhje me parimet e trajtimit të barabartë të prodhuesve të tregut, informimin e drejt të konsumatorëve dhe bërjen e biznesit me mirëbesim.
-2. Përdoruesi i homonimeve do të siguroj informata të mjaftueshme mbi etiketën e materialeve të paketimit në lidhje me origjinën e vërtetë të produktit, në mënyrë që të dallojnë një homonim nga një tjetër dhe të mos çorientohet konsumatori.

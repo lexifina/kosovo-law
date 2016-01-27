@@ -1,0 +1,4 @@
+# Article 10
+Homonyms of designations of origin and geographical indications
+1. A name proposed for registration that is wholly or partially homonymous with a name already entered in the Register of protected designations of origin and geographical indications may not be registered unless there is sufficient distinction in practice between the conditions of local and traditional usage and presentation of the homonym registered subsequently and the name already entered in the Register, taking into account the need to ensure equitable treatment of the producers concerned and that consumers are not mislead.
+2. A homonymous name which misleads the consumer into believing that products come from another territory shall not be registered even if the name is accurate as far as the actual territory, region or place of origin of the products in question is concerned.

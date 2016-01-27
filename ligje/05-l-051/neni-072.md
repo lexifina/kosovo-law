@@ -1,0 +1,8 @@
+# Neni 72
+Marrja e provave gjate zhvillimit të procedurës civile
+1. Kur pala në procedurë civile kërkon dëshmi duke pohuar se ato qe ndodhen me palën kundërshtuese apo nën kontroll të saj, gjykata do ta ftoj palën kundërshtuese që brenda afatit të caktuar kohor ti paraqes dëshmitë e tilla.
+2. Kur pretenduesi në bazë të Nenit 63 të këtij Ligji përmes veprimit ligjor pohon se shkelja e emëruesit të origjinës dhe treguesit gjeografik është kryer në nivel komercial për qëllime të sigurimit të përfitimit komercial apo ekonomik, dhe kur ai gjatë procedurës dëshmon duke kërkuar dokumente bankare, financiare apo dokumente të ngjashme ekonomike, letra apo dëshmi të ngjashme, duke pohuar se ato ndodhen me palën kundërshtuese apo janë nën kontroll të saj, Gjykata do të ftoj palën kundërshtuese që brenda afatit të caktuar kohor t’i paraqes dëshmitë e tilla.
+3. Kur pala e cila është ftuar të paraqes dëshminë, mohon se dëshmitë ndodhen me të apo janë nën kontroll të saj, gjykata mund të marr dëshmi për të vërtetuar një fakt të tillë.
+4. Dispozitat e Ligjit mbi Procedurën Kontestimore lidhur me të drejtën e refuzimit të paraqes dëshmi si dëshmitarë do të zbatohen mutatis mutandis për të drejtën e palës të refuzoj të paraqes dëshmi.
+5. Gjykata, duke marrë parasysh të gjitha rrethanat e rastit, vendos sipas zgjidhjes së saj, mbi rëndësinë e faktit që pala në posedim të dëshmisë refuzon të pajtohet me vendimin e gjykatës që e urdhëron të paraqes dëshmitë, apo mohon, në kundërshtim të vendimit të gjykatës, se dëshmitë ndodhen me të.
+6. Kundër vendimit të gjykatës të percaktuara në paragrafët 1. dhe 2. të këtij neni, nuk lejohet ankesë e veçantë.

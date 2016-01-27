@@ -1,0 +1,5 @@
+# Article 49
+Registration of authorized user
+1. If the application for registration of an authorized user meets all the requirements prescribed for granting the right of use of a protected designation of origin or a protected geographical indication, IPA will invite the applicant to pay the relevant fees for the initial period of protection.
+2. If the applicant fails to submit to IPA the evidence of payment of the prescribed fees for the initial period of protection based on the paragraph 1 of this Article, IPA shall reject the application.
+3. If the applicant submits to IPA the evidence of payment of the fee for the initial period of protection within the time limit specified in paragraph 1 of this Article, IPA shall take the decision for the registration of an authorized user of a protected designation of origin or a protected geographical indication and will register the protected designation of origin or protected geographical indication in the Register of Authorized Users.

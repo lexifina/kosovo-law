@@ -1,0 +1,9 @@
+# Article 40
+Cancellation Procedure
+1. Cancellation of a decision on a protected designation of origin or a protected geographical indication may be requested by any natural or legal person who has a legitimate interest or by the Agency ex officio.
+2. The application under paragraph 1 of this Article shall contain the reasons for the request and any other information or document that will be prescribed in details by a sub-legal act issued by the Ministry.
+3. If IPA finds that the application does not contain all the requirements prescribed under paragraph 2 of this Article, the application will be cancelled.
+4. If the application under paragraph 1 of this Article will contain all the requirements prescribed by paragraph 2 of this Article, it will be published in the Official Bulletin of IPA.
+5. Within three (3) months from the date of publication of relevant data on the application for cancellation of the decision on a protected designation of origin or protected geographical indication based on paragraph 4 of this Article, any interested person may provide a declaration of objection on the application for cancellation of the decision for protection of an designation of origin or geographical indication if such a person can show continued commercial support of the registered designation.
+6. If IPA finds that the application for cancellation of the decision for the protected designation of origin or protected geographical indication is justified, it will cancel the registration of the designation of origin or a geographical indication, will delete the records from the Register after the decision on cancellation becomes final and will publish that fact in IPA Bulletin.
+7. IPA shall refuse the application for cancellation of the registration of a protected designation of origin or a protected geographical indication if it determines that it is not in accordance.

@@ -1,0 +1,4 @@
+# Neni 10
+Homonimet e emërtimeve të origjinës apo treguesve gjeografik
+1. Emri i propozuar për regjistrim i cili është tërësisht ose pjesërisht homonim me emrin e evidentuar në regjistrin e emërtimeve të mbrojtura të origjinës ose treguesve të mbrojtur gjeografik, mund të mos regjistrohet derisa të mos ketë dallueshmëri të mjaftueshëm në praktikë mes kushteve të përdorimit lokal dhe tradicional dhe prezantim të homonimit të regjistruar më vonë si emrin tashmë të evidentuar në Regjistër, duke pasur parasysh nevojën për trajtim të barabartë të prodhuesve në fjalë dhe mos çorientimin e konsumatorëve.
+2. Emri homonim i cili e çorienton konsumatorin për të besuar që produktet kanë prejardhje nga një territor tjetër nuk duhet të regjistrohen edhe në qoftë se emri është i saktë derisa territori aktual, rajoni ose vendi i origjinës së produkteve në fjalë është i pasigurt.

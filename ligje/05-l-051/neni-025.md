@@ -1,0 +1,3 @@
+# Neni 25
+Përcaktimi i zonës gjeografike
+Zona gjeografike përcaktohet në një mënyrë të hollësishme dhe të përpiktë që nuk paraqet ndonjë dykuptimësi dhe cakton kufijtë në kuptim të lidhjes në mes cilësisë apo karakteristikave të produktit dhe mjedisit gjeografik të përcaktuara me këtë Ligj apo në kuptim të lidhjes në mes te një cilësie specifike, reputacionit apo ndonjë karakteristike tjetër të produktit dhe origjinës gjeografike të përcaktuara me këtë Ligj, ose në kuptim të marrëdhënieve mes kualitetit specifik, reputacionit ose ndonjë karakteristike tjetër të produktit dhe origjinës gjeografike të përcaktuar në nën-paragrafin 1.4 të paragrafit 1, të nenit 4 të këtij ligji.

@@ -1,0 +1,7 @@
+# Neni 11
+Emrat e origjinës dhe treguesit gjeografik që kanë të bëjnë me zonat gjeografike jashtë
+Kosovës
+1. Çdo person fizik apo juridik mund të aplikon për mbrojtjen e emrit të origjinës ose të treguesit gjeografik sipas dispozitave të përcaktuara të këtij ligji.
+2. Nëse emri i origjinës apo treguesi gjeografik ka të bëjë me zonat gjeografike jashtë Kosovës, mbrojtja jepet nëse aplikacioni përputhet me kriteret e përcaktuara në këtë ligj si dhe nëse emri në fjalë është i mbrojtur në vendin e origjinës. Pavarësisht nga dispozita e nenit 9 të këtij ligji, në këto raste një emër nuk mund të regjistrohet si emërtim i origjinës apo tregues gjeografik kur nuk është mbrojtur ose nuk mbrohet në vazhdimësi apo nuk përdoret në vendin e origjinës.
+3. Mbrojtja e emërtimit të origjinës apo treguesit gjeografik mund të jepet gjithashtu në bazë të marrëveshjeve bilaterale apo ndërkombëtare mbi mbrojtjen e ndërsjellë të emërtimit të origjinës apo treguesit gjeografik të me të cilat Republika e Kosovës lidh marrëveshje.
+4. Fusha e mbrojtjes së këtyre emërtimeve të origjinës apo treguesve gjeografik do të jetë e njëjtë me mbrojtjen e dhënë për emërtimet e origjinës apo treguesit gjeografik në bazë të këtij ligji nëse dhe deri në atë masë që marrëveshja përkatëse bilaterale apo ndërkombëtare nuk e parashikon ndryshe.

@@ -1,0 +1,3 @@
+# Article 25
+Definition of geographical area
+Geographical area is defined in a detailed and precise matter that there is no ambiguity and it sets the boards in terms of relation between the quality or characteristics of the product and the geographical environment referred to in this Law, or in terms of the relation between a specific quality, reputation or any other characteristic of the product and the geographical origin referred to in this Law, or in the meaning of the relation between a specific quality, reputation or any other characteristic of the product and the geographical origin referred to in to in subparagraph 1.4 of paragraph 1 of Article 4 of this Law.

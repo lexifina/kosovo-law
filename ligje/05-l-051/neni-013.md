@@ -1,0 +1,6 @@
+# Neni 13
+Marrëdhëniet në mes markave tregtare, emërtimeve të origjinës dhe treguesve
+gjeografik
+1. Kur një emërtim i origjinës apo tregues gjeografik është i regjistruar sipas këtij ligji, refuzohet aplikimi për regjistrimin e një marke tregtare që korrespondon me njërën nga situatat e përcaktuara në nenin 12 të këtij ligji lidhur me të njëjtin tip të produktit nëse aplikimi për regjistrim të markës tregtare është parashtruar për regjistrim pas datës së parashtrimit të aplikacionit për regjistrim në bazë të këtij ligji.
+2. Marka tregtare e regjistruar në kundërshtim me paragrafin 1 të këtij neni do të shfuqizohet nga API.
+3. Një markë tregtare, përdorimi i së cilës korrespondon me njërën nga situatat e përcaktuara në nenin 12 të këtij ligji, dhe për të cilën është aplikuar për regjistrim në mirëbesim në Kosovë para datës së parashtrimit të aplikacionit për regjistrim sipas këtij ligji mund të vazhdoj të përdoret pavarësisht nga regjistrimi i emërtimit të origjinës apo treguesit gjeografik po që se nuk ekziston baza për shfuqizim apo revokim të saj në bazë të Ligjit për Markat Tregtare. Në raste të tilla, përdorimi i treguesit gjeografikë të mbrojtur ose emërtimit të mbrojtur të origjinës lejohet të përdoret sikur marka tregtare relevante.

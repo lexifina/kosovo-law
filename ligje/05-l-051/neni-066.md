@@ -1,0 +1,5 @@
+# Neni 66
+Kërkesë për konfiskimin dhe shkatërrimin e produkteve
+1. Pretenduesi në pajtim me nenin 63 të këtij Ligji mund të ndërmarr veprim ligjor kundër çdo personi i cili ka kryer shkelje të një emri të origjinës apo treguesi gjeografik duke kryer pa autorizim njërin prej akteve të referuar në nenin 12 apo nenin 14 të këtij Ligji, duke kërkuar që produktet që shkelin emrin e origjinës apo treguesin gjeografik dhe në raste të duhura, materialet dhe mjetet e përdorura kryesisht në krijimin apo prodhimin e atyre produkteve të largohen nga tregu, të konfiskohen apo shkatërrohen në llogari të atij personi.
+2. Gjykata urdhëron masat e referuara në paragrafin 1. të këtij neni në llogari të të paditurit, përveç nëse ekzistojnë arsye të veçanta për të mos marrë një vendim të tillë.
+3. Në rast të urdhërimit të masës së referuar në paragrafin 1. të këtij neni, Gjykata do të kujdeset që ato të jenë të duhura në lidhje me natyrën dhe seriozitetin e shkeljes dhe duhet marr parasysh edhe interesin e palëve të treta.

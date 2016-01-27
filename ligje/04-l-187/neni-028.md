@@ -1,4 +1,0 @@
-# Neni 28
-Verifikimi i prodhimeve bujqësore dhe artikujve ushqimorë
-1. Në rast të produkteve bujqësore apo artikujve ushqimorë organet certifikuese të cekura në nenin 27 të këtij ligji miratohen nga Ministri i Ministrisë përkatëse për Bujqësi. Kushtet e veçanta të cilat kërkohen për certifikim, lista e organeve të miratuara dhe çështje tjera të kësaj natyre do të përcaktohen nga Ministri i Ministrisë përkatëse për Bujqësi.
-2. Hollësitë mbi kushtet dhe procedurën për verifikim të pajtueshmërisë me prodhimin bujqësorë apo artikullin ushqimor me dispozitat e specifikacionit, në rast se organet certifikuese kanë vërtetuar se produkti nuk përputhet me dispozitat e specifikacionit, procedura si dhe mënyra e caktimit të tarifave për verifikim nga organet certifikuese do të përcaktohen nga Ministri i Ministrisë përkatëse për Bujqësi.
