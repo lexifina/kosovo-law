@@ -1,0 +1,4 @@
+# Article 34
+Appeal to Customers’ Consultative Committee 1. Any customer affected by a disconnection that has not been effected in accordance with the provisions of this Law, or that has been any other rights accorded under the Customers’ Charter and the Service Contract violated by the Service Provider, may file a complaint to the Service Provider that effected such disconnection.
+2. If a customer who has made a complaint to a Service Provider pursuant to paragraph 1. of this Article, does not believe that its complaint has been satisfactorily resolved by the Service Provider within one calendar month of the date the complain reached the Service Provider, he may refer the matter in writing to the Customers’ Consultative Committee located in the Service Area for resolution.
+LAW No. 05/L-042 FOR REGULATION OF WATER SERVICES

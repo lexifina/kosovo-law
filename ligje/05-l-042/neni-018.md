@@ -1,0 +1,3 @@
+# Neni 18
+Shqyrtimi i kushteve të licencës së shërbimit 1. Autoriteti në pajtim me këtë ligj i shqyrton kushtet e caktuara të licencës për shërbime në pajtim në datën e përcaktuar për shqyrtim dhe çdo vit në këtë datë ose në ndonjë kohë tjetër që mund të përcaktohet me ndonjë marrëveshje.
+2. autoriteti mund të ndryshojë, plotësojë ose zëvendësojë cilat do kushte të caktuara për l icencë për shërbime në pajtim me paragrafin 1. të këtij neni, pas shqyrtimit të këtyre kushteve për së paku tridhjetë (30) ditë pune pas njoftimit me shkrim të ofruesit të shërbimeve. Në njoftim theksohet natyra dhe shtrirja e ndryshimit, plotësimit ose zëvendësimit dhe koha e plotfuqishmërisë.

@@ -1,0 +1,4 @@
+# Neni 34
+Ankesat e drejtuara komisionit këshillues të konsumatorëve 1. Cilido konsumator i prekur nga ndërprerja ndaj të cilit nuk është vepruar në përputhje me dispozitat e këtij ligji, ose ndaj të cilit ofruesi i shërbimeve ka bërë shkelje të parapara në kartën e konsumatorëve dhe kontratën e shërbimit, mund ti parashtrojë ankesë ofruesit të shërbimeve i cili ka bërë ndërprerjen.
+2. Nëse konsumatori i cili i ka parashtruar ankesë ofruesit të shërbimeve në pajtim me paragrafin 1. të këtij neni, nuk beson që ankesa e tij është zgjidhur në mënyrë të kënaqshme nga ofruesi i shërbimeve brenda një muaji kalendarik nga data kur kjo ankesë ka arritur tek ofruesi i shërbimeve, atëherë ai mund ta referojë çështjen me shkrim te komisioni këshillues i konsumatorëve që gjendet në zonën e shërbimit për ta zgjidhur.
+LIGJI Nr. 05/L -042 PËR RREGULLIMIN E SHËRBIMEVE TË UJIT

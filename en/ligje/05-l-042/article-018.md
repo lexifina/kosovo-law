@@ -1,0 +1,3 @@
+# Article 18
+Review of Service License Conditions 1. The Authority in accordance with this Law shall review any conditions imposed on a Service License pursuant to the date specified for such review and on each anniversary of such date or at any other time any agreement referred to may specify so.
+2. The Authority may amend, supplement or replace any conditions imposed on a Service License pursuant to paragraph 1. of this Article of this Law, following a review of such conditions on at least thirty (30) business days after written notice to the Service Provider. Such notice shall state the nature and extent of such amendment, supplement or replacement and the time when it shall take effect.

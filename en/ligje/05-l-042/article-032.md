@@ -1,0 +1,7 @@
+# Article 32
+Unauthorized Reconnections and Manipulation with Water Meters 1. No other person except the Service Provider who has made disconnection of customer to Water Services, has a right to make re-connection of the customer in Water Services.
+2. If a customer is being disconnected from Water Services and is reconnected contrary to paragraph 1. of this Article, that customer shall be considered as unauthorizely connected person. After Service Provider discovers unauthorized reconnection, shall implement the provisions set forth in Article 30 of this Law, which are applicable for unauthorized Connection.
+3. Any Person other than the Service Providers does not have the right to install and maintain the equipment for measuring the water consumed, those located in the public area or on the customers’ premises.
+4. If a customer acts contrary to paragraph 3. of this Article, A Service Provider has the right to disconnect the customer from Water Services and to initiate judicial proceedings in a competent court.
+5. A Service Provider has the right after consultation with the Authority to invoice the customer with financial damage that estimates caused as a result of manipulation with water meters.
+6. A Service Provider may confiscate all equipment for Water Services, including all water measurement equipment used in facilities that continuously are re-connected in Water Services contrary to paragraph 1. of this Article

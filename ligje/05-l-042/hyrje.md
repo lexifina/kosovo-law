@@ -1,0 +1,1 @@
+LIGJI Nr. 05/L -042 PËR RREGULLIMIN E SHËRBIMEVE TË UJIT LIGJI Nr. 05/L -042 PËR RREGULLIMIN E SHËRBIMEVE TË UJIT Kuvendi i Republikës së Kosovës; Në bazë të nenit 65 (1) të Kushtetutës së Republikës së Kosovës, Miraton LIGJ PËR RREGULLIMIN E SHËRBIMEVE TË UJIT

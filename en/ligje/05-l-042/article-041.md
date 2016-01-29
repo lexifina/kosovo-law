@@ -1,0 +1,6 @@
+# Article 41
+Review Committee 1. A Service Provider may apply to the Review Committee to review any decision made by the Authority pursuant to paragraph 2. Article 40 of this Law, provided that such application is made in writing within one (1) month of the date of the Authority’s decision. For the avoidance of doubt, tariff orders, administrative instructions and regulations issued by the Authority pursuant to this Law, shall also be subject to review by the Review Committee, if a Service Provider applies for such review.
+2. The Review Committee shall be comprised of a Chairperson appointed by the Assembly of the Republic of Kosovo, one (1) member appointed by the Authority and one (1) member appointed by the Service Provider that has filed the request for review.
+3. The Review Committee shall adopt the procedure to be applied in considering matters referred to the Review Committee.
+LAW No. 05/L-042 FOR REGULATION OF WATER SERVICES 4. After considering the representations of the Service Provider and the Authority, the Review Committee shall give the Service Provider and the Authority, a detailed written decision within thirty (30) days.
+5. The Authority shall provide an appropriate administrative and logistics assistance to the Review Committee.

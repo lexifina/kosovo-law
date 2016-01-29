@@ -1,0 +1,4 @@
+# Article 14
+Authority Fees 1. The Service Provider shall pay a non-refundable application fee to the Authority, on the date that the application form applying for the issuance or renewal of a Service License is submitted to the Authority.
+2. A Service Provider shall pay an annual license fee to the Authority in an amount of one and a half per cent (1.5%) of gross annual billing reported in its income statement for the previous year. Licensing annual fee shall be paid in twelve (12) equal installments. The first installment is due and payable on the first day of the calendar month following the month in which the Service License was issued to that Service Provider or renewed, and each subsequent installment becomes due on the first day of each subsequent calendar month.
+3. The incomes from Authority`s fee shall be deposited in the Budget of the Republic of Kosovo.

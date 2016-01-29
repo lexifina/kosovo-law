@@ -1,0 +1,6 @@
+# Neni 41
+Komisioni shqyrtues 1 .Ofruesi i shërbimeve mund t’i parashtrojë kërkesë Komisionit shqyrtues për të shqyrtuar çdo vendimi të sjellë nga autoriteti në pajtim me paragrafin 2 të nenit 40 të këtij ligji, me kusht që kërkesa të jetë bërë me shkrim brenda një (1) muaji nga data e vendimit të autoritetit. Për t’i ikur dyshimit, urdhëresat tarifore, udhëzimet administrative dhe rregulloret e lëshuara nga Autoriteti në pajtim me këtë ligj, gjithashtu i nënshtrohen shqyrtimit nga ana e Komisionit shqyrtues, nëse ofruesi i shërbimit parashtron kërkesën për një shqyrtim të tillë.
+2. Komision shqyrtues përbëhet nga kryesuesi i zgjedhur nga Kuvendi i Republikës së Kosovës, një anëtar i emëruar nga Autoriteti dhe një anëtar i emëruar nga ofruesi i shërbimeve, i cili ka parashtruar kërkesën për shqyrtim.
+3. Komisioni shqyrtues miraton procedurën, e cila zbatohet gjatë marrjes parasysh të çështjeve të referuara për komisionin shqyrtues.
+4. Pas shqyrtimit të prezantimeve të ofruesit të shërbimeve dhe të autoritetit, komisioni shqyrtues i jep ofruesit të shërbimeve dhe autoritetit një vendim të hollësishëm me shkrim brenda tridhjetë (30) ditëve.
+LIGJI Nr. 05/L -042 PËR RREGULLIMIN E SHËRBIMEVE TË UJIT 5. autoriteti ofron ndihmën e duhur logjistike e administrative komisionit shqyrtues.

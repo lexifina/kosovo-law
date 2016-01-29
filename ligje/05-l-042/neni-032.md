@@ -1,0 +1,7 @@
+# Neni 32
+Ri-lidhjet e paautorizuara dhe manipulimi me ujmatës 1. Asnjë person tjetër përveç ofruesit të shërbimeve i cili e ka bërë ndërprerjen e një konsumatori nga shërbimet e ujësjellësit, nuk ka të drejtë të bëj ri-lidhjen e atij konsumatori në shërbimet e ujësjellësit.
+2. Në rast se një konsumator pasi të jetë ndërprerë nga shërbimet e ujësjellësit ri-lidhet në kundërshtim me paragrafin 1. të këtij neni, ai konsumator do të konsiderohet si person i lidhur paligjshëm. Ofruesi i shërbimeve pas zbulimit të ri-lidhjes së paautorizuar do të zbatojë dispozitat e parapara me nenin 30 të këtij ligji, që janë të aplikueshme për lidhjet e paautorizuara.
+3. Asnjë person tjetër përveç ofruesit të sherbimeve nuk ka të drejtë të instalojë dhe mirëmbajë pajisjet për matjen e ujit të konsumuar, qoftë ata të vendosur në sipërfaqe publike apo në objektin e konsumatorit.
+4. Në rast se një konsumator vepron në kundërshtim me paragrafin 3 të këtij neni, ofruesi i shërbimeve ka të drejtë ta ndërprejë atë konsumator nga shërbimet e ujësjellësit dhe të iniciojë procedurë gjyqësore në gjykatën kompetente.
+5. Ofruesi i shërbimeve ka të drejtë t’i faturojë atij konsumatori edhe dëmin financiar që vlerëson, pas konsultimit me Autoritetin se i është shkaktuar si pasojë e manipulimit me ujëmatës.
+6. Ofruesi i shërbimeve mund t’i konfiskojë të gjitha pajisjet për shërbimet e ujësjellësit, duke përfshirë të gjitha pajisjet për matjen e ujit të përdorura në objektet të cilat në vazhdimësi rilidhen në shërbimet e ujësjellësit në kundërshtim me paragrafin 1 të këtij neni.
