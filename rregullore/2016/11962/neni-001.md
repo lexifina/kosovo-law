@@ -1,0 +1,2 @@
+# Neni 1
+Rregullorja (EC) Nr. 1070/2009 e Këshillit dhe Parlamentit Evropian e datës 21 tetor 2009, që amendon Rregulloret (EC) Nr. 549/2004, (EC) Nr. 550/2004, (EC) Nr. 551/2004 dhe (EC) Nr. 552/2004 shpallet e zbatueshme në Republikën e Kosovës. Rregullorja e (EC) Nr. 1070/2009 e Këshillit dhe Parlamentit Evropian i është bashkëngjitur kësaj Rregulloreje si shtojcë dhe formon pjesën e saj përbërëse.

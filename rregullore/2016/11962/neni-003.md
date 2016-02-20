@@ -1,0 +1,3 @@
+# Neni 3
+3.1 Kuptimi i shprehjeve dhe definicioneve të përdorura në këtë Rregullore është i përfshirë në Rregulloret e AAC-së Nr. 8/2009, Nr. 9/2009, Nr. 10/2009 dhe Nr. 11/2009.
+3.2 Pavarësisht nga paragrafi 3.1 i këtij neni, shprehjet "Komuniteti", "ligji i Komunitetit", "legjislacioni i Komunitetit", "Instrumentet e Komunitetit", "Traktati i KE", "aeroporti i Komunitetit", "Gazeta Zyrtare e Komuniteteve Europiane", "Gazeta Zyrtare e Bashkimit Europian", "transportues ajror i Komunitetit" dhe "Shtet(e) Anëtar(e)", të cilat mund të referohen në mënyrë të drejtpërdrejtë ose tërthorazi në Rregulloret e AAC-së Nr. 8/2009, Nr. 9/2009, Nr. 10/2009 dhe Nr. 11/2009,duhet të lexohen në përputhje me Pikat 2 dhe 3 të Shtojcës II të Marrëveshjes për HPEA.
