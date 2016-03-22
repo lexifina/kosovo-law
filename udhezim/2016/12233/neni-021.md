@@ -1,0 +1,7 @@
+# Neni 21
+Shpenzimet e borxhit të keq
+1. Bazuar në nenin 17 të Ligjit, kur një pagesë nuk është arkëtuar plotësisht apo pjesërisht për një shitje dhe është shpallur si e pa mbledhshme, konsiderohet borxh i keq dhe shuma e pa arkëtuar, lejohet shpenzim i periudhës në të cilën është njohur borxhi i keq.
+2. Neni 17, paragrafi 1, nënparagrafi 1.5.1 i Ligjit, kërkon që borxhet e këqija të “shlyhen” nga evidencat kontabël. Në termin e kontabilitetit “shlyhen” do të thotë që është bërë një rregullim në librat e tatimpaguesit për të reflektuar uljen e vlerës së llogarive të arkëtueshme. Duhet të jetë bërë një rregullim në librat e tatimpaguesit për të pasqyruar shpenzimin aktual të borxhit të keq, duke u bazuar në ato borxhe të veçanta që i plotësojnë kushtet siç janë paraparë në nenin 17 të Ligjit.
+3. Siç është paraparë në nenin 17, paragrafin 2 të Ligjit, çdo borxh i keq që është zbritur si shpenzim dhe që më vonë është mbledhur, përfshihet në të ardhurat në periudhën tatimore në të cilën është bërë mbledhja.
+4. Shuma e pa arkëtuar nuk konsiderohet borxh i keq nëse procedurat për ta shpallur borxh të keq nuk janë iniciuar brenda 24 muajve nga data e obligimit për pagesë.
+5. Në rastin e shpalljes së një borxhi të keq, shitësi lëshon një faturë të borxhit të keq, në të cilën shënohet "borxh i keq", vlerat përkatëse që korrigjohen, numrin rendor, nr. serik, datën e faturës së furnizimit me të cilën lidhet ky borxh. Kjo faturë përdoret nga shitësi për të zvogëluar të ardhurën ndërsa nga blerësi për të zvogëluar shpenzimin.

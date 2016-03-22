@@ -1,0 +1,20 @@
+# Neni 24
+Zhvlerësimi
+1. Bazuar në nenin 20, paragrafin 1 të Ligjit, vetëm pronari i pasurisë së prekshme që shfrytëzohet për zhvillimin e aktivitetit ekonomik, për të cilën mban rrezikun e konsumimit, prishjes apo vjetërsimit të mjetit, ka të drejtë të zbres shpenzimin e zhvlerësimit.
+1.1. Nuk lejohet zbritja e zhvlerësimit
+për qiramarrësin e aseteve, përveç nëse është përcaktuar në marrëveshjen e qirasë se është i përfshirë lizingu financiar dhe e drejta e pronësisë kalon mbi qiramarrësin nga qiradhënësi, përmes pagesave periodike.
+2. Sipas nenit 20, paragrafit 2 të Ligjit, shpenzimet për përmirësimin e pronës së dhënë me qira mbulohen përmes zbritjeve të zhvlerësimit duke përdorur metodën lineare të bazuar në kohëzgjatjen e kontratës së qirasë.
+2.1. Në rastin e kontratës së qirasë të pa afatizuar, ose kur kohëzgjatja e kontratës së qirasë zgjatet shpesh, qiramarrësi, sipas gjykimit më të mirë, bazuar në rregullat e kontabilitetit dhe praktikat më të mira, përcakton kohëzgjatjen e kontratës së qirasë dhe të njëjtën e shfrytëzon si tregues për llogaritjen e shpenzimeve vjetore të zhvlerësimit.
+2.2. Në rastin kur qiradhënësi dhe qiramarrësi arrijnë marrëveshje që në vend të pagesës së qirasë të kompensohen përmes investimeve që do t’i bëjë qiramarrësi, atëherë ky transaksion këmbimi trajtohet transaksion për konsideratë. Për vlerën e investimit të bërë nga qiramarrësi, i faturon qiradhënësit. Po ashtu, vlerën e njëjtë, qiradhënësi e konsideron të hyrë nga qiraja dhe i faturon qiramarrësit. Qiramarrësi e konsideron këtë faturë shpenzim / parapagim të qirasë dhe për të njëjtin mbanë tatimin në burim në qira për qiradhënësin.
+3. Për njohjen e shpenzimeve të zhvlerësimit përdoret metoda lineare, duke marrë parasysh normat e zhvlerësimit të kategorive të aseteve, të përcaktuara në paragrafin 3 dhe 4 të nenit 20 të Ligjit, si vijon:
+3.1. Për kategorinë e parë të aseteve, aplikohet norma e zhvlerësimit 5% dhe aseti zhvlerësohet në shuma të barabarta gjatë 20 periudhave tatimore.
+3.2. Për kategorinë e dytë të aseteve, aplikohet norma e zhvlerësimit 20% dhe aseti zhvlerësohet në shuma të barabarta gjatë 5 periudhave tatimore.
+3.3. Për kategorinë e tretë të aseteve, aplikohet norma e zhvlerësimit 10% dhe aseti zhvlerësohet në shuma të barabarta gjatë 10 periudhave tatimore.
+4. Evidenca e aseteve vazhdon të mbahet edhe pas njohjes së zhvlerësimit të plotë deri në kohën e shitjes, shkatërrimit, dhurimit apo mënyrë tjetër të tjetërsimit.
+5. Sipas nenit 20, paragrafit 5 të Ligjit, pasuria për qëllime të zhvlerësimit merret parasysh vetëm kur ajo është vënë në përdorim.
+5.1. Nuk lejohet zbritje për zhvlerësim nëse një pasuri nuk është vënë në përdorim dhe në qoftë se nuk i shërben qëllimit të aktivitetit ekonomik.
+5.2. Zhvlerësimi i vitit të plotë (1/1) kërkohet në lidhje me pasurinë që është vënë në përdorim në gjashtëmujorin e parë të vitit.
+5.3. Zhvlerësimi i pjesshëm (1/2) kërkohet në lidhje me pasurinë që është vënë në përdorim në gjashtëmujorin e dytë të vitit.
+5.3.1. Nëse është njohur zhvlerësimi i plotë në vitin e parë të përdorimit, për pasurinë që shitet apo tjetërsohet në gjashtëmujorin e parë të vitit, nuk njihet zhvlerësim në vitin e shitjes apo tjetërsimit. Mirëpo, për pasurinë që shitet apo tjetërsohet në gjashtëmujorin e dytë, atëherë zhvlerësimi në vitin e shitjes apo tjetërsimit njihet vetëm për gjashtëmujorin e parë.
+5.3.2. Nëse është njohur zhvlerësimi i pjesshëm në vitin e parë të përdorimit, dhe shitja apo tjetërsimi i pasurisë ndodh në gjashtëmujorin e dytë, atëherë zhvlerësimi në vitin e shitjes apo tjetërsimit njihet vetëm për gjashtëmujorin e parë.
+6. Sipas nenit 20, paragrafit 8 të Ligjit, blerja e një pasurie me vlerën deri në njëmijë (1,000) euro lejohet si shpenzim rrjedhës, me përjashtim kur pasuria funksionon si pjesë e një tërësie dhe vlera e tërësisë kalon mbi njëmijë (1,000) euro. Në raste të tilla edhe pse vlera e pasurisë është nën njëmijë (1,000) euro, kjo pasuri i nënshtrohet procedurës së zhvlerësimit në mënyrë individuale.
