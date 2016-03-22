@@ -1,0 +1,9 @@
+# Neni 28
+Administrata Komunale
+1. Komunat do të zhvillojnë riintegrimin në nivel lokal si bashkëpunim ndër-sektorial. Secila komunë do të ketë Zyrën Komunale për Kthim dhe Komunitete (ZKKK) dhe Komisionin Komunal për Riintegrim (KKR), në bazë të kompetencave të përcaktuara në Ligjin për Vetëqeverisje Lokale.
+2. Komuna përkatëse është përgjegjëse për zbatimin në nivelin lokal të vendimeve të riintegrimit të personave të riatdhesuar dhe për organizimin e dhënies së ndihmës dhe mbështetjes.
+3. Organi kompetent për çështje të banimin në kuadër të komunës përkatëse duhet të lëshoj vërtetim se personi apo familja e personit në fjalë nuk është përfitues i programit të rindërtimit apo programeve tjera të fushës së banimit.
+4. Përfitimet dhe ndihma për mbështetjen e riintegrimit kryesisht organizohen si pjesë e shërbimeve komunale dhe shërbimeve të tjera lokale në bashkëpunim dhe koordinim të ngushtë me autoritetet lokale të mirëqenies sociale, shëndetësisë, punësimit, arsimimit, banimit dhe ofruesve të tjerë të shërbimeve.
+5. Drejtoria për çështje sociale përkatësisht Qendra për Punë Sociale luan rol të rëndësishëm gjatë procesit të riintegrimit të personave të riatdhesuar në komunën përkatëse. QPS bën vlerësimin e përgjithshëm të nevojave të familjes përmes shqyrtimit të informative nga SMR, dokumentacionit në dispozicion dhe intervistimit të familjeve në teren, me vëmendje të veçantë familjeve me fëmijë dhe personave me nevoja të veçanta.
+6. Vlerësimi i nevojave ka për qëllim, por nuk kufizohet në shqyrtimin e gjendjes së banimit, kushteve socio-ekonimike, strukturën e familjes, disponushmërinë e dokumenteve të gjendjes civile dhe dokumenteve tjera të nevojshme, gjendjen shëndetësore, njohuritë gjuhësore, aftësitë profesionale, rrjetin mbështetës dhe nevojat specifike.
+7. Komunat mund të lidhin kontrata për ofrimin e shërbimeve me asociacione ose akterë të tjerë privat.
