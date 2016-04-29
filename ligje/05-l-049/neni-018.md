@@ -1,0 +1,15 @@
+## KAPITULLI VI
+## ADMINISTRIMI ME PASURINË E SEKUESTRUAR DHE TË KONFISKUAR
+# Neni 18
+Administrimi me pasurinë e sekuestruar
+1. Zyrtari i autorizuar i policisë që është përgjegjës për ekzekutimin e Urdhrit për sekuestrim është prezent në pranim dorëzimin e pasurisë së sekuestruar.
+2. Agjencia ndërmerr veprimet e nevojshme me qëllim që të mirëmbajë dhe ruaj në mënyrë adekuate vlerën e pasurive.
+3. Për pasurinë e paluajtshme të sekuestruar, Agjencia duhet t`a njoftojë organin kompetent për kryerjen e punëve të evidencës së paluajtshmërive, me qëllim të shënimit të barrës mbi këtë paluatjshmëri në evidencën përkatëse.
+4. Agjencia administron letrat me vlerë (bonot e thesarit), në pajtim me ligjin i cili rregullon qarkullimin e letrave me vlerë. Agjencia shënon heqjen dhe tjetërsimin e pronësisë së këtyre letrave me vlerë në Bankën Qendrore të Republikës së Kosovës dhe mund të angazhojë pjesëmarrësin e autorizuar në tregun e letrave me vlerë, me qëllim të ndjekjes së lëvizjeve të tregut të këtyre letrave me vlerë të sekuestruara.
+5. Agjencia bën vlerësimin e vlerës së pasurisë së sekuestruar, i cili përmban po ashtu një alternativë për vlerën që pasuria e sekuestruar do të kishte në rast të shitjes së detyruar nga Agjencia. Alternativa për vlerën e shitjes së detyruar do të përfshijë po ashtu llogaritjen e të gjitha kostove dhe shpenzimeve që mund të bëhen nëse pasuria e sekuestruar do të shitej ose jo.
+6. Agjencia duke u bazuar në analiza e veta do t`a këshilloj Gjykatën se a do të rezultonte një shitje e pasurisë apo jo në të ardhura përfituese ekonomike për Republikën e Kosovës. Nëse Agjencia vendosë që shitja e detyruar do të ishte joekonomike, i rekomandon gjykatës një, apo më shumë mundësi alternative të sistemimit të pasurisë së sekuestruar ashtu siç lejohet me ligj.
+7. Ruajtja e vlerës mund të sigurohet me mbajtjen, apo shitjen e pasurisë së sekuestruar nga ana e Agjencisë, në mënyrë që të zëvendësohet me një kundërvlerë monetare.
+8. Në të gjitha rastet me pasuritë të cilat kërkojnë një administrim të veçantë të kompanive, bizneseve të veçanta, apo pasuri specifike për të cilat nevojiten njohuri të veçanta në fushën relevante, Agjencia angazhon administratorë të pavarur të fushës përkatëse me synim të administrimit efikas dhe funksionimit të mirë të kësaj prone.
+9. Administratorët nga paragrafi 8 i këtij neni, përzgjidhen përmes shpalljes publike nga Agjencia. Me administratorin e përzgjedhur Agjencia lidhë kontratë, me të cilën rregullohen të drejtat dhe detyrimet reciproke dhe kushtet e shkëputjes së kontratës.
+10. Në rastet e veçanta Agjencia mund të kërkoj nga gjykata që pasuria e sekuestruar t’i lihet për ruajtje, apo shfrytëzim personit të cilit i është sekuestruar pasuria.
+11. Brenda dhjetë (10) ditëve të marrjes në administrim të pasurisë së sekuestruar, Agjencia informon gjykatën për pranimin e pasurisë dhe për lokacionin ku gjendet pasuria në ruajtje, për kushtet e përgjithshme të pasurisë, specifikat dhe vlerën e pasurisë duke përfshirë një kopje të regjistrimit të pasurisë.
