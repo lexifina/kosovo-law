@@ -1,0 +1,4 @@
+Qeveria e Republikës së Kosovës,
+Në mbështetje të nenit 93 (4) të Kushtetutës së Republikës së Kosovës, në pajtim me nenin 9 dhe 289, paragrafi 3 të Kodit Doganor dhe Akcizave të Kosovës (Gazeta Zyrtare e Republikës së Kosovës Nr. 43/2008, datë 11.11.2008), i plotësuar dhe ndryshuar me Ligjin Nr. 04/L-099 (Gazeta Zyrtare e Republikës së Kosovës Nr. 14/2012, datë 01.06.2012), me Ligjin Nr. 05/L-115 (Gazeta Zyrtare e Republikës së Kosovës Nr. 25/2012, datë 07.09.2012) dhe me Ligjin Nr. 04/L-237 (Gazeta Zyrtare e Republikës së Kosovës Nr. 32/2014, datë 15.05.2014), si dhe nenin 19 (6.2) të Rregullores Nr 09/2011 së Punës së Qeverisë (Gazeta Zyrtare e Republikës së Kosovës Nr. 15/2012, shtator 2011),
+Miraton:
+RREGULLORE (QRK) - NR.06 / 2016 PËR PËRCAKTIMIN E KRITEREVE DHE PROCEDURËS SË PËRDORIMIT/SHFRYTËZIMIT TË MALLRAVE TË KONFISKUARA NGA DOGANA
