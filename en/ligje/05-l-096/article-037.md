@@ -1,0 +1,4 @@
+# Article 37
+Off-Site Supervision 1. For the purposes of undertaking off-site supervision and monitoring of the reporting entities for assessing the compliance with the provisions of this Law of any rule or regulation issued in accordance with this Law, FIU-K and CBK may, by notice in writing served on a Reporting entity, require that the reporting entity to produce, within the time and at a place as may be specified in that notice, any documents, including those related to internal procedures under this Law or any regulation issued to fulfil their responsibilities under this Law, and provisions of paragraphs
+LAW No. 05/L-096 ON THE PREVENTION OF MONEY LAUNDERING AND COMBATING TERRORIST FINANCING 3., 4. and 5. of Article 35 shall be applied in accordance with the situation.
+2. Other sectorial supervisors may conduct off-site supervision, if this competence was given to them in accordance with paragraph 5. of Article 34.

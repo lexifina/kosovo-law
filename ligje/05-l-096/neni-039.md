@@ -1,0 +1,11 @@
+# Neni 39
+Të dhënat statistikore dhe informatat kthyese 1. NjIF-K, BQK, mbikëqyrësit e tjerë sektorial me të cilët NjIF-K ka hyrë në marrëveshje specifike individuale sipas paragrafit 5. të nenit 34 të këtij ligji, autoritetet e tjera kompetente që kanë përgjegjësi për të luftuar pastrimin e parave dhe financimin e terrorizmit, subjektet raportuese si dhe personat ose subjektet e tjera që kanë detyrime ose funksione sipas këtij ligji mbajnë të dhëna statistikore gjithëpërfshirëse përkatëse për fushën e tyre të përgjegjësisë.
+2. Në mbajtjen e të dhënave statistikore, personat, subjektet dhe autoritetet e përmendura në paragrafin 1. të këtij neni ndërveprojnë me NjIF-K e cila, në bashkëpunim me BQK ose mbikëqyrësit e tjerë sektorial, sipas rastit, mund të përcaktojë llojin e të dhënave statistikore që mund të kërkohen.
+3. Për këtë qëllim, NjIF-K, BQK ose mbikëqyrësi sektorial, nxjerrin akte nënligjore, urdhra ose udhëzime për mbajtjen e statistikave të atyre sektorëve nën fushëveprimin e tyre mbikëqyrës në pajtim me paragrafin 2. të nenit 66.
+4. Të dhënat statistikore të mbajtura sipas këtij neni vihen në dispozicion të NjIF-K brenda afateve kohore të përcaktuara prej NjIF-K, për t’i mundësuar që të rishikojë efektivitetin e sistemit kombëtar dhe për të bërë rekomandime në përputhje me rrethanat siç kërkohet sipas nenit 14 të këtij ligji.
+5. NjIF-K do të njoftojë subjektet raportuese, që kanë raportuar në NjIF-K një person ose transaksion në lidhje me të cilën ka pasur arsye për të dyshuar për pastrim parash apo financim të terrorizmit, lidhur me rezultatet të sjella nga raportimi i tyre.
+6. Njoftimi i përmendur në paragrafin 5. të këtij neni do të aplikohet për:
+6.1. të dhënat për numrin e raporteve të dërguara për transaksionet ose personave për të cilat ka arsye për të dyshuar lidhur me pastrimin e parave ose financim të terrorizmit;
+6.2. rezultatet e sjella nga raportimi i tillë, kur është e aplikueshme;
+6.3. informatat për trendët dhe teknikat lidhur me pastrimin e parave dhe financimin e terrorizmit;
+Ligji Nr. 05/L -096 PËR PARANDALiMiN E PASTRiMiT TË PARAVE DHE LUFTiMiN E FiNANCiMiT TË TERRORiZMiT 7. NjIF-K, BQK dhe mbikëqyrësit e tjerë sektorial sipas këtij neni bashkëpunojnë për qëllime të përmbushjes së përgjegjësive të tyre nën këtë nen.

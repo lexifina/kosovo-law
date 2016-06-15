@@ -1,0 +1,15 @@
+## CHAPTER VII
+## CRIMINAL OFFENCES
+# Article 56
+Criminal Offences of Money Laundering 1. Whoever, knowing or having cause to know that certain property is proceeds of some form of criminal activity, and which property is in fact proceeds of crime, or whoever, believing that certain property is proceeds of crime based on representations made as part of a covert measure conducted pursuant to Chapter IX of the Criminal Procedure Code of Kosovo, conducts the following actions, commits a criminal offence punishable with imprisonment of up to ten (10) years and a fine of up to three (3) times higher in the value of the property which is the subject of the criminal offence, as following:
+1.1. converts, transfers or attempts to convert or transfer the property for the purpose of concealing or disguising the nature, source, location, disposition, movement or ownership of the property;
+1.2. converts, transfers or attempts to convert or transfer the property for the purpose of assisting any person who is involved in, or purportedly involved in, the commission of the criminal offence that produced the property to evade the legal consequences, or apparent legal consequences, of his or her actions;
+1.3. converts, transfers or attempts to convert or transfer the property for the purpose
+LAW No. 05/L-096 ON THE PREVENTION OF MONEY LAUNDERING AND COMBATING TERRORIST FINANCING of promoting the underlying criminal activity;
+1.4. acquires, possesses, uses or attempts to acquire, possess or use the property;
+1.5. conceals or disguises the true nature, source, location, disposition, movement, rights with respect to, or ownership of property, or from an act of participation in such activity;
+1.6. participates in, associates to commit and aids, abets, facilitates and counsels the commission of any of the actions mentioned in sub-paragraphs 1.1. to 1.5. of this paragraph;
+2. For purposes of paragraph 1. of this Article, representations may be a basis for the belief that certain property constitutes the proceeds of crime, even if those representations only indirectly support the belief that the property constitutes the proceeds of crime.
+3. Without prejudice to the applicable criminal law with regard to a person who has committed related criminal offences outside the scope of the present paragraph:
+3.1. a person may be convicted of the criminal offence of money laundering, even if he or she has not been convicted at any time of the predicate criminal offence from which the proceeds of crime in the criminal offence of money laundering were derived;
+3.2. the same person may be prosecuted and convicted in separate proceedings of the criminal offences of money laundering and the predicate criminal offence from which the proceeds of crime in the criminal offence of money laundering were derived; and 3.3. the Courts of Kosovo may have jurisdiction over a criminal offence of money laundering, even if they do not have territorial jurisdiction over the predicate criminal offence from which the proceeds of crime in the criminal offence of money laundering were derived, since it has been committed outside Kosovo.

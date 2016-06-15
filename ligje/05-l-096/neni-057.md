@@ -1,0 +1,5 @@
+# Neni 57
+Vepra Penale e Financimit të Terrorizmit 1. Kushdo që me qëllim kryen, merr pjesë si bashkëpunëtor, siguron ose mbledhë fonde apo organizon ose drejton të tjerët drejtpërdrejt të ofrojnë ose të mbledhin fonde, apo përpjekja për ta bërë këtë, përmes çfarëdo mjeti, drejtpërdrejt ose tërthorazi, me qëllim që ato të përdoren ose në njohuri se ato do të përdoren në mënyrë të plotë ose pjesërisht për të kryer një akt terrorist, nga një terrorist; ose nga një organizatë terroriste, konsiderohet të ketë kryer aktin e financimit të terrorizmit.
+2. Vepra penale është kryer, pavarësisht se a ka ndodh një akt terrorist i përmendur në paragrafin 1. të këtij neni, ose nëse fondet janë përdorur në fakt për të kryer akt të tillë.
+3. Financimi i terrorizmit është i dënueshëm me burgim nga pesë (5) deri në pesëmbëdhjetë (15) vite, dhe me gjobë deri pesëqind mijë (500.000) euro.
+4. Tentativa për të kryer veprën penale të financimit të terrorizmit apo ndihmesa, mbështetja, lehtësimi ose këshillimi në kryerjen e ndonjë vepre të tillë, dënohet sikur vepra të kishte përfunduar.

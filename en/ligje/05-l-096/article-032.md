@@ -1,0 +1,9 @@
+# Article 32
+Additional Obligations on Immovable Property Transactions 1. When conveyance of immovable property rights involves a transaction or transactions of a monetary value of ten thousand (10.000) Euros or more or equivalent value in foreign currency, unless otherwise specified by law, each transaction shall be made by payment order or bank transfer.
+2. The Municipal Cadastral Office (MCO) shall not register a transfer of immovable property rights unless it receives, in addition to the other documents that are presented in accordance with law for the registration of the transfer, a statement in the manner and in the format specified by the FIU-K, that certifies:
+2.1. the registration of the transferor and transferee;
+2.2. the identity of any person or entity which has a financial interest or is a user of the property being transferred, and the nature of that interest or the beneficiary status;
+2.3. the purchase price and the manner of payment, including, if the payment is made, in whole or in part, by transfer of property other than cash, a description and an estimate of the value of the property;
+2.4. if the transfer is subject to paragraph 1. of this Article, the financial account number or numbers from which the payment was or will be debited and to which it was or will be transferred, and the names in which the accounts are held.
+3. The MCO shall maintain the declaration together with the other documents that are presented in accordance with the law for the registration of the transfer. In addition, the MCO shall, in the manner and format specified by the FIU-K, forward copies of all declarations received on a monthly basis.
+4. The decision of the MCO to reject registration on the grounds of failure to comply with the present Article, shall be made, and may be reviewed, in accordance with the applicable Law on the Establishment of the Immovable Property Rights Register.

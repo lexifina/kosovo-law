@@ -1,4 +1,0 @@
-# Article 15
-1. Article 26 of the basic law, paragraph 12 sub-paragraph 12.3. reference “paragraph 3 to 9 of Article 24 of this law” shall be deleted and replaced with the reference “paragraphs 3 to 9 of Article 26 of this law”.
-2. Article 26 of the basic law, after sub-paragraph 13, a new paragraph 13.a, shall be added with the following text:
-13.a. Directors, officers, employees and agents of any “covered professionals” who make or transmit reports pursuant to the present article shall not provide the report, or communicate any information contained in the report or regarding the report, to any person or entity, including any person or entity involved in the transaction which is the subject of the report, other than the FIU, unless authorized in writing by the FIU, a Prosecutor, or a Court.

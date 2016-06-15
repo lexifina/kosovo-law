@@ -1,0 +1,24 @@
+# Neni 14
+Detyrat dhe kompetencat e NjIF-K 1. NjIF-K është e autorizuar:
+1.1. të marrë dhe analizojë raportet dhe informacionet:
+1.1.1. të bëra dhe të ruajtura sipas neneve 16 deri në 33 të këtij ligji;
+Ligji Nr. 05/L -096 PËR PARANDALiMiN E PASTRiMiT TË PARAVE DHE LUFTiMiN E FiNANCiMiT TË TERRORiZMiT 1.1.2. që i janë ofruar NjIF-K-së nga NjIF-të e vendeve të huaja me funksione të ngjashme, nga gjykatat ose nga organet përgjegjëse për zbatimin e ligjit, duke përfshirë organizatat ndërqeveritare e ndërkombëtare, organet publike ose qeveritare; dhe 1.1.3. që i janë ofruar vullnetarisht NjIF-K-së në lidhje me dyshimet për pastrimin e parave, veprat e ndërlidhura penale dhe/ose financimit të terrorizmit.
+1.2. të grumbullojë informacione që kanë lidhje me aktivitetet e pastrimit të parave dhe veprave të ndërlidhura penale ose financimin e aktiviteteve terroriste dhe që është në dispozicion publik, përfshirë bazën e të dhënave komerciale në dispozicion;
+1.3. të kryejë analiza strategjike të informatave që i grumbullon dhe pranon, për parandalimin dhe luftimin e pastrimit të parave, veprave të ndërlidhura penale dhe financimit të terrorizmit;
+1.4. të kërkojë nga subjektet raportuese të dhëna, dokumente dhe informata që i duhen me qëllim që të ushtrojë detyrat që dalin nga ky ligj. Të dhënat, dokumentet dhe informatat duhet t’i ofrohen brenda afatit kohor të përcaktuar nga NjIF-K;
+1.5. të kërkojë nga organet publike ose qeveritare të dhëna, dokumente dhe informata që i duhen me qëllim që të ushtrojë detyrat që dalin nga ky ligj dhe qasje në bazat e të dhënave të cilat mbahen nga këto organe. Informatat e tilla duhet t’i ofrohen pa vonesë;
+1.6. të krijojë dhe mirëmbajë bazën e të dhënave për të gjitha informacionet e mbledhura ose të pranuara në lidhje me dyshimin për pastrimin e parave, veprat e ndërlidhura penale ose financimin e terrorizmit si dhe materiale të tjera të ngjashme relevante për punën e NjIF-K;
+1.7. të përpilojë informata, statistika, raporte dhe, duke u bazuar në ato, t’u bëjë rekomandime Ministrisë së Financave, Ministrisë së Drejtësisë, Policisë së Kosovës, Doganave të Kosovës dhe personave apo organeve të tjera relevante, në lidhje me masat që duhet të merren dhe legjislacionin që duhet të miratohet për të luftuar pastrimin e parave, veprat e ndërlidhura penale dhe financimin e terrorizmit;
+1.8. t’i bëjë publike raportet që do të ndihmojnë në kryerjen e detyrave të saj;
+1.9. të organizojë dhe kryejë trajnime të rregullta, përfshirë vetëdijesim dhe sensibilizim në lidhje me parandalimin e pastrimit të parave, veprave të ndërlidhura penale dhe financimit të terrorizmit si dhe detyrimet e subjekteve raportuese;
+1.10. të shpërndajë, në përputhje me dispozitat e këtij ligji, rezultatet që dalin nga analizat dhe çdo raport apo informacion të nevojshëm për autoritetet përkatëse;
+1.11. të miratojë akte nënligjore, të lëshojë urdhra dhe udhëzues mbi çështjet që kanë të bëjnë me sigurimin ose promovimin e pajtueshmërisë me këtë ligj, duke përfshirë por jo kufizuar në:
+1.11.1. përdorimin e formave të standardizuara raportuese;
+Ligji Nr. 05/L -096 PËR PARANDALiMiN E PASTRiMiT TË PARAVE DHE LUFTiMiN E FiNANCiMiT TË TERRORiZMiT 1.11.2. aktet ose transaksionet e dyshimta, përfshirë natyrën e akteve ose transaksioneve të dyshimta për qëllime të këtij ligji, si dhe hartimin e listave të indikatorëve të këtyre akteve dhe transaksioneve;
+1.11.3. lirimin e personave ose subjekteve, apo grup personash ose subjektesh, nga obligimet e raportimit sipas këtij ligji, si dhe metodat për të raportuar lirime të tilla.
+1.12. të lëshojë urdhër për moskryerjen e transaksionit në pajtim me këtë ligj apo të kërkojë nga subjektet raportuese të monitorojë llogaritë apo marrëdhënien e biznesit për një periudhë kohore deri në tre (3) muaj; apo për një periudhë shtesë siç përcaktohet nga NjIF-K;
+1.13. të mbikëqyrë dhe monitorojë subjektet raportuese për sa i përket pajtueshmërisë me këtë ligj si dhe me akte nënligjore, urdhrat dhe urdhëresat, që rrjedhin dhe parashihen me këtë ligj, qoftë në terren qoftë në distance;
+1.14. të merr pjesë në organizime për bashkëpunim ndërkombëtarë në fushën e parandalimit dhe zbulimit të pastrimit të parave, veprave të ndërlidhura penale dhe financimit të terrorizmit;
+1.15. të kryejë funksione të tjera në pajtim me këtë ligj.
+2. Stafi i NjIF-K-së ruan dhe nuk zbulon asnjë informacion të marrë në kuadër të fushëveprimit të detyrave të tyre, madje edhe pas ndërprerjes së detyrave të tyre brenda NjIF-K. Informacione të tilla mund të përdoren vetëm për qëllimet e ofruara në pajtim me këtë ligj.
+3. NjIF-K dhe institucionet e tjera në Kosovë bashkëpunojnë në mënyrë reciproke, ndihmojnë njëra-tjetrën gjatë kryerjes së detyrave të tyre dhe koordinojnë aktivitetet në kuadër të kompetencave të tyre në pajtueshmëri me ligjet e zbatueshme. Për këtë qëllim, NjIF-K mund të nënshkruajë marrëveshje apo memorandume mirëkuptimi.

@@ -1,0 +1,4 @@
+# Neni 53
+Pagesa dhe ekzekutimi i ndëshkimeve administrative 1. Subjekti raportues paguan gjobën administrative përmes transferit bankar brenda pesëmbëdhjetë (15) ditësh nga dita e dërgimit të vendimit final. Këtij vendimi i bashkëngjitet edhe udhëzimi për pagesën e gjobës.
+2. NjIF-K, BQK dhe mbikëqyrësit e tjerë sektorial, në koordinim me Ministrinë e Financave sigurojnë kompensimin e pagesave të gjobave administrative në rast të aprovimit të ekzekutueshëm të ankesës së subjektit raportues nga Gjykata.
+3. Në rast të mos-pagesës brenda pesëmbëdhjetë (15) ditësh nga dita e dërgimit të vendimit final përkitazi me ndëshkimin administrativ, NjIF-K, BQK dhe mbikëqyrësit e tjerë sektorial kërkojnë ekzekutimin në pajtim me dispozitat e Ligjit mbi Procedurën Përmbarimore. NjIF-K, BQK dhe mbikëqyrësit e tjerë sektorial kërkojnë nga subjekti raportues që të kompensojë shpenzimet procedurale dhe të gjitha shpenzimet e tjera të bëra gjatë procedurës së ekzekutimit.

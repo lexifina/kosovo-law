@@ -1,0 +1,3 @@
+# Neni 51
+Ankesa administrative tek BQK dhe mbikëqyrësit e tjerë sektorial 1. Subjekti raportues mund të ankohet kundër vendimit mbi ndëshkimin administrativ të vendosur sipas këtij ligji nga BQK apo mbikëqyrësit e tjerë sektorial nëse kjo kompetencë i është dhënë në pajtim me këtë ligj, duke dërguar ankesë brenda tridhjetë (30) ditësh nga dita e pranimit të vendimit mbi ndëshkimin administrativ nga BQK apo mbikëqyrësit e tjerë sektorial, për shkak të mos-pajtueshmërisë me dispozitat e këtij ligji.
+2. BQK dhe mbikëqyrësit e tjerë sektorial nxjerrin akte nënligjore për sektorët nën fushëveprimin e tyre mbikëqyrës në pajtim me paragrafin 2. të nenit 66 të këtij ligji,lidhur me procedurën e trajtimit të ankesës sipas këtij ligji.

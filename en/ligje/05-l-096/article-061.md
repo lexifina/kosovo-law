@@ -1,0 +1,3 @@
+# Article 61
+Exemption from Liability No civil or criminal liability action may be brought nor any professional sanction taken against any person or entity or a reporting entity under this Law or to any of their directors, officers and employees whether temporary or permanent based solely on the good faith transmission of information, submission of reports, or other action taken pursuant to this Law, or the voluntary good faith transmission of any information concerning a suspicious act or transaction, suspected money laundering or terrorist financing to the FIU-K.
+LAW No. 05/L-096 ON THE PREVENTION OF MONEY LAUNDERING AND COMBATING TERRORIST FINANCING

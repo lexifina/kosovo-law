@@ -1,0 +1,6 @@
+# Article 5
+The Oversight Board of FIU-K 1. The Oversight Board of the Financial Intelligence Unit (hereafter the Board) shall oversee and ensure independence of the FIU-K. The Board has no executive or enforcement powers vis-à-vis the FIU-K.
+2. The Board is comprised of the Minister of Finance who shall serve as the Chair of the Board. Other members of the Board shall include, ex officio, the Minister of Internal Affairs, the Chief Prosecutor of Kosovo, the Director-General of the Kosovo Police, the Director of the Tax Administration of Kosovo, the Director-General of the Customs of Kosovo and the Governor of the CBK.
+3. The Board shall convene as often as required by the FIU-K, but not less than two (2) times per year.
+4. The Boards’ meetings are convened by the Chair of the Board who decides upon the agenda, taking into consideration also the proposals of the FIU-K director. Meetings may also be convened at the written request of four (4) members of the Board.
+5. Board’s meetings shall be convened by communicating the time, venue and the meeting’s agenda to all Board members, at least five (5) working days before the date set for the meeting. In urgent cases, meetings may be convened at a shorter notice.

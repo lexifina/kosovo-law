@@ -1,5 +1,0 @@
-# Article 9
-1. Article 19 of the basic law, paragraph 1, shall be reworded with the following text:
-1. Banks and financial institutions whose activities include wire transfers shall obtain and verify the full name, account number, the address, or in absence of address the national identity number or date and place of birth, including when necessary the name of the financial institution, of the originator of such transfers. The information shall be included in the message or payment form accompanying the transfer. If there is no account number, a unique reference number shall accompany the transfer.
-2. Article 19 of the basic law paragraph 4. shall be reworded with the following text:
-4. Paragraphs 1 and 2 of the Article shall not apply to transfers executed as a result of credit card or debit card transactions, provided that the credit card or debit card number accompanies the transfer resulting from the transaction, nor shall they apply to transfers between banks and/or financial institutions where both the originator and the beneficiary are banks or financial institutions acting on their own behalf.

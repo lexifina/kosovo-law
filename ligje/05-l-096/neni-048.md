@@ -1,0 +1,9 @@
+## KAPITULLI VI
+## PROCEDURA E NDËSHKIMEVE ADMINISTRATIVE
+# Neni 48
+Verifikimi i dyshimit për moszbatim të ligjit 1. Në rastet kur NjIF-K, BQK, si dhe mbikëqyrësit e tjerë sektorial(vetëm nëse kjo kompetencë i është dhënë në pajtim me paragrafin 5. të nenit 34), dyshojnë se një subjekt raportues nën mbikëqyrjen e tyre ka dështuar për të qenë në përputhje me obligimet që parashihen në këtë ligj, atëherë menjëherë nis procesi i verifikimit të dyshimit dhe ekzistimit të kushteve për shqiptimin e ndëshkimit administrativ.
+2. Nëse është e nevojshme, mund të kryet inspektim i pajtueshmërisë, siç përcaktohet me këtë ligj, me qëllim që të verifikohet dyshimi për moszbatim të këtij ligji dhe ekzistimi i kushteve për shqiptimin e ndëshkimit administrativ.
+3. Pas verifikimi të dyshimit, gjetjeve dhe konstatimeve të evidentuara, NjIF-K, BQK dhe mbikëqyrësit e tjerë sektorial ofrojnë subjektit raportues mundësinë që të dorëzojë me shkrim observimet e tij rreth të gjeturave brenda dy (2) javësh, pas dhënies së njoftimit me shkrim për dështimin për të qenë në përputhje me dispozitat e ligjit.
+4. Njoftimi për dështimin për të qenë në përputhje me obligimet që parashihen në këtë ligj nënshkruhet nga udhëheqësi i departamentit/divizionit përkatës për mbikëqyrje të pajtueshmërisë në kuadër të NJIF-K, BQK apo mbikëqyrësve tjerë sektorial, protokollohet dhe dërgohet në mënyrë të verifikueshme tek subjektit raportues.
+5. Në bazë të të gjeturave dhe shqyrtimit të observimeve të pranuara NjIF-K, BQK dhe mbikëqyrësit e tjerë sektorial për shkeljet në kuadër të kompetencave të dhëna me këtë ligj, duhet të përcaktojnë nëse subjekti raportues ka dështuar që të zbatojë obligimet e përcaktuara në këtë ligj.
+6. Në rast se subjekti raportues nuk dorëzon observimet e tij brenda afatit prej dy (2) javësh, kjo nuk pengon në marrjen e vendimit përfundimtar për ndëshkim administrativ.

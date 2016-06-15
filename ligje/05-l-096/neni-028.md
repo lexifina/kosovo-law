@@ -1,0 +1,5 @@
+# Neni 28
+Ngrirja e përkohshme e transaksionit në kuadër të bashkëpunimit ndërkombëtarë 1. NjIF-K mund të lëshojë urdhër me shkrim për ngrirjen e përkohshme të ekzekutimit të transaksioneve, bazuar në kërkesën me shkrim të arsyetuar të çdo homologu të huaj që kryen funksione të ngjashme me NJIF-K, nën kushtet e përcaktuara me këtë ligj dhe si subjekt i reciprocitetit.
+2. Dispozitat e nenit 27 të këtij ligji aplikohen njëjtë si për ngrirjen e përkohshme të ekzekutimit të transaksioneve të përcaktuara në paragrafin 1. të këtij neni.
+3. NjIF-K mund të refuzojë kërkesën nga paragrafi 1. i këtij neni, nëse vlerëson se kërkesa e tillë rrezikon hetimet penale në Kosovë apo për shkaqe të sigurisë, dhe njofton me shkrim homologun e huaj kompetent i cili ka parashtruar kërkesën, duke paraqitur arsyet për refuzim.
+4. NjIF-K mund të kërkojë nga çdo homolog i huaj që kryen funksione të ngjashme me NjIF-K të urdhërojë ngrirjen e përkohshëm të transaksioneve nëse ka bazë të arsyeshme për të dyshuar për pastrim të parave ose financim të terrorizmit në lidhje me transaksionin ose personin.

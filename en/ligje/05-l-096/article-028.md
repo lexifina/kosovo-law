@@ -1,0 +1,5 @@
+# Article 28
+Temporary Freezing of Transaction within the International Co-operation 1. The FIU-K may issue a written order to temporary freeze the execution of transactions, on the basis of a written and grounded request of any foreign counterpart that performs similar functions to the FIU-K, under the conditions laid down in this law and under the conditions of reciprocity.
+2. The provisions of Article 27 of this Law shall apply, as appropriate, to the temporary freezing of the execution of transactions referred to in paragraph 1. of this Article.
+3. The FIU-K may refuse the request from paragraph 1. of this Article, if it considers that such request jeopardizes the criminal investigations in Kosovo or for security reasons, for which it shall inform in writing the competent foreign counterpart, stating the reasons for the refusal.
+4. FIU-K may request from each foreign counterpart conducting similar functions to those of FIU-K to order the temporary freezing of transactions if there are reasonable grounds to suspect for money laundering or terrorist financing in relation to the transaction or the person.

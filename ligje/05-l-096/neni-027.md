@@ -1,0 +1,9 @@
+# Neni 27
+Ngrirja e përkohshme e transaksioneve 1. NjIF-K mund të lëshojë urdhër me shkrim për subjektet raportuese për ngrirjen e përkohshme të transaksioneve, nëse vlerëson se ka bazë të arsyeshme për të dyshuar për pastrim parash ose financim të terrorizmit në lidhje me transaksionin ose personin që kryen transaksionin, për të cilin informon prokurorinë dhe organet tjera, kompetente në mënyrë që të marrin masa brenda kompetencave të tyre.
+2. Drejtori i NjIF-K ose personi i autorizuar mund, në raste urgjente, të japë urdhër gojor për ngrirjen e përkohshme të transaksioneve i cili do të konfirmohet me shkrim jo më vonë se në ditën pasardhëse të punës.
+3. Ngrirja e përkohshme në pajtim me paragrafët 1. dhe 2. të këtij neni mund të zgjasë për një periudhë maksimale prej dyzet e tetë (48) orëve nga momenti i dhënies së urdhrit për ngrirjen e përkohshme të transaksionit. Nëse afati kohor i përmendur në këtë paragraf ndodh gjatë ditëve të pushimit, NjIF-K mund të lëshojë një urdhër për të zgjatur afatin e tillë kohor edhe për njëzet e katër (24) orë shtesë.
+4. Gjatë kohës së ngrirjes së përkohshme të transaksionit, subjektet raportuese i nënshtrohen urdhrit të NjIF-K.
+5. Organet kompetente sipas paragrafit 1. të këtij neni ndërmarrin pa vonesë masat brenda kompetencave të tyre për të cilat ata informojnë NjIF-K menjëherë.
+6. Nëse NjIF-K vendos brenda kohës së përmendur në paragrafin 3. të këtij neni, se nuk ka bazë të arsyeshme për të dyshuar për pastrim të parave apo financim të terrorizmit, informon subjektin raportues se mund të kryejë transaksionin.
+7. Nëse NjIF-K nuk informon subjektin raportues lidhur me rezultatet e veprimeve të saj, brenda afatit të përmendur në paragrafin 3. të këtij neni, subjekti raportues konsiderohet të ketë leje për të ekzekutuar transaksionin.
+Ligji Nr. 05/L -096 PËR PARANDALiMiN E PASTRiMiT TË PARAVE DHE LUFTiMiN E FiNANCiMiT TË TERRORiZMiT

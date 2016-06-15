@@ -1,0 +1,4 @@
+# Neni 10
+Kompetencat dhe përgjegjësitë e Drejtorit të NjIF-K kundrejt Bordit 1. Një (1) herë në vit, Drejtori i NjIF-K i siguron çdo anëtari të Bordit një(1) raport të azhurnuar pesëmbëdhjetë (15) ditë para takimit të Bordit ku përmblidhen vendimet dhe aktivitetet administrative, ekzekutive dhe rregullatore të NjIF-K, dhe të gjitha aspektet e menaxhimit financiar, të hyrat dhe shpenzimet e NjIF-K.
+2. Nëse shumica e anëtarëve vendos se ka arsye që të besohet se NjIF-K nuk po vepron ose nuk ka vepruar, në pajtueshmëri me këtë ligj ose akte të tjera nënligjore të aplikuara në Kosovë, Bordi i drejtohet Auditorit të Përgjithshëm të Kosovës me lëndën përkatëse për mos- pajtueshmëri dhe i kërkon atij që të kryejë auditim. Raporti i auditimit i paraqitet Kuvendit të Kosovës.
+3. Drejtori i NjIF-K nuk është i obliguar që të zbulojë ndonjë informacion i cili mund të rrezikojë anën operacionale të punës së NjIF-K.
