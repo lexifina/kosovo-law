@@ -1,0 +1,7 @@
+# Neni 9
+Fondet e nën-huazuara nga huamarrja
+1. Fondet e huamarrjes të cilat janë nën- huazuar nga Ministri i Financave sipas Ligjit për Borxhet Publike tek institucionet publike me status jo organizatë buxhetore, nuk do të jenë pjesë e buxhetimit dhe alokimit sipas Nenit 5 të kësaj Rregulloreje.
+2. Fondet e nën huazuara sipas paragrafit 1 të këtij neni, reflektohen në Tabelën 1 të ligjit vjetor të Buxhetit të Republikës së Kosovës, tek pjesa e Financimit.
+3. Institucionet publike tek të cilat Ministria e Financave ka nën-huazuar fonde, duhet të dërgojnë planifikimet e shpenzimeve vjetore në baza të rregullta tek Ministria e Financave.
+4. Kryeshefët e ndërmarrjeve publike tek të cilët Ministria e Financave ka nën-huazuar fonde përgatisin procedurat e brendshme të kontrollit të brendshëm të përcaktuara me nenin 4 të kësaj Rregulloreje. Rregullat përkatëse i propozohen Bordit të Drejtorëve për aprovim, dhe i dërgohen Ministrisë së Financave për informim.
+5. Përjashtimisht nga neni 8 i kësaj Rregulloreje, rekrutimi i stafit të paragrafit 5 të këtij neni do të bëhet sipas Ligjit të Punës. Niveli i pagave të punonjësve të angazhuar sipas këtij neni propozohet nga Kryeshefi i Ndërmarrjes Publike dhe aprovohet nga Bordi i Drejtorëve. Megjithatë, lartësia e pagës së koordinatorit të njësisë në ndërmarrjet publike nuk duhet të tejkalojë nivelin e pagës së Zyrtarit Kryesor Financiare të ndërmarrjes publike përkatëse. Për të gjithë të punësuarit e tjerë aplikohet niveli i pagës në kuadër të Njësisë varësisht nga llogaridhënia menaxheriale.
