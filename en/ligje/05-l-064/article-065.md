@@ -1,0 +1,4 @@
+# Article 65
+Duration of the practical exam 1. The duration of the exam and the distance passed must be sufficient to assess the practical exam. Duration of driving should not be less than twenty-five (25) minutes for categories A, A1, B, B1 and BE, respectively forty-five (45) minutes for the other categories. This timing does not include the time of admission of the candidate in the exam, preparation of vehicle, technical inspection of vehicles in terms of road safety, specific actions in polygon and communication of exam results.
+2. Excluding paragraph 1 of this Article, the duration of the practical exam may end before the foreseen term, if the candidate fails to prove his ability in driving.
+LAW No. 05/L - 064 ON DRIVING LICENCE 3. Licence of driving examiner shall be suspended if acting in contradiction to the provisions of this Article and sub-legal acts that are issued based on this Law.

@@ -1,0 +1,5 @@
+# Neni 6
+Licenca e autoshkollës 1. Autoshkollës i lëshohet licenca për kategoritë A, B, C1, C1+E, C, C+E, D, ose D+E pasi t’i ketë plotësuar kushtet dhe kriteret e parapara në nenin 5 të këtij ligji dhe akteve nënligjore që nxirren në bazë të këtij ligji.
+2. Licenca lëshohet vetëm për një (1) kategori e cila vlen pesë (5) vjet, me mundësi të përtëritjes.
+3. Autoshkolla e cila ka licencë për kategorinë A, ka të drejtë t’i aftësojë kandidatët për kategorinë AM, A1 dhe A2 nëse automjeti i plotëson kushtet e parapara në nenet 49 dhe 63 të këtij ligji dhe të akteve nënligjore që nxirren në bazë të këtij ligji.
+4. Autoshkolla e cila ka licencë për kategorinë B ka të drejtë t’i aftësojë kandidatët për kategoritë M, L, B1, T, B+E nga pjesa teorike dhe B1, T, B+E nga pjesa praktike, nëse automjeti i plotëson kushtet e parapara në nenet 49 dhe 63 të këtij ligji dhe me aktet nënligjore që nxirren në bazë të këtij ligji. Dënohet për kundërvajtje, me gjobë prej njëmijë (1.000) deri në tremijë (3.000) Euro (€), personi përgjegjës në autoshkollën që aftëson kandidatët për shoferë pa licencë të vlefshme për kategorinë përkatëse.

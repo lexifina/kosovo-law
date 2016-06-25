@@ -1,0 +1,4 @@
+# Article 124
+Professional supervision 1. Professional supervision is monitoring of content, professionalism, standards, quality, efficiency in implementation of the tasks carried out according to the rules of this Law and sub- legal acts issued in compliance with these rules in order to increase road traffic safety.
+LAW No. 05/L - 064 ON DRIVING LICENCE 2. Professional supervision includes monitoring of standards and quality of the persons that train the candidates for drivers, persons that hold exam for driving licence, professional licensing exams, the progress of work of the entities authorized by the Ministry and other issues that influence to increase road traffic safety.
+3. The Ministry shall, with a sub-legal act, determine the implementation procedures of the professional supervising and the measures against entities and persons of the paragraph 2 of this Article who show weak professional performance.

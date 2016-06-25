@@ -1,0 +1,4 @@
+# Article 106
+Obligations of foreign nationals associated to driving licence 1. A foreigner to whom has been granted a temporary or permanent residence, Kosovo citizen, who returns from the another foreign country, the personnel of diplomatic representations, consular representations, missions of foreign countries, representatives of international organizations, foreign trade representations, of traffic, cultural and others, of foreign offices, correspondents, can drive the vehicle on the basis of a foreign valid drivers licence for the period up to one (1) year from the date of entry into Kosovo.
+2. Paragraph 1 of this Article is not related to the representatives of the organizations that operate in Kosovo (United Nations, KFOR, the Organisation for Security and Cooperation in Europe, etc.) unless otherwise provided by bilateral agreements.
+LAW No. 05/L - 064 ON DRIVING LICENCE

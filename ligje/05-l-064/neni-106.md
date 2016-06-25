@@ -1,0 +1,4 @@
+# Neni 106
+Detyrimet e shtetasve të huaj lidhur me patentën e shoferit 1. Shtetasi i huaj, të cilit i është lejuar qëndrimi i përkohshëm apo i përhershëm, qytetari i Kosovës i cili kthehet nga bota e jashtme, personeli i përfaqësive diplomatike, përfaqësive konsullore, i misioneve të shteteve të huaja, përfaqësive të organizatave ndërkombëtare, përfaqësive të huaja tregtare, të trafikut, kulturore e të tjera, si dhe i zyrave të huaja të korrespondentëve, mund të drejtojnë automjetin në bazë të patentës së huaj të vlefshme të shoferit për kohën deri në një (1)vit që nga dita e hyrjes në Kosovë.
+2. Paragrafi 1. i këtij nenit nuk ka të bëjë me përfaqësuesit e organizatave që veprojnë në Kosovë (Kombet e Bashkuar, KFOR-i, Organizata për siguri dhe bashkëpunim në Evropë, etj) përveç nëse parashihet ndryshe me marrëveshje bilaterale.
+Ligji Nr. 05/L - 064 PËR PATENTË SHOFERi

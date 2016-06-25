@@ -1,0 +1,4 @@
+# Article 97
+Recognition of driving licence 1. The person who possesses the driving licence issued in one of the European Union countries, including Switzerland, Norway, and the US, is not required to undergo additional testing when applying for the change into the driving licence of the Republic of Kosovo.
+2. With the exception from paragraph 1 of this Article, regarding the change of driving licences of other countries there is decided by the Ministry, based on the program for passing the driver’s exam, or through bilateral agreement between our state and any other state for the mutual recognition of driving licence.
+3. Ministry in cooperation with the Ministry of Internal Affairs shall, with sub-legal act, determine the procedures on applying for the foreign driving licence according to this Article.
