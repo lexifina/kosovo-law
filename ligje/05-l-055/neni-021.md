@@ -1,0 +1,7 @@
+# Neni 21
+Llojet e auditimit 1. Gjatë kryerjes së auditimeve vjetore të rregullsisë të detyrueshme me ligj, Zyra Kombëtare e Auditimit, në përputhje me standardet e njohura ndërkombëtare të auditimit të sektorit publik:
+1.1. ekzaminon pasqyrat vjetore financiare dhe llogaritë kryesore të institucionit të audituar, me qëllim të vlerësimit nëse raportet janë të besueshme dhe llogaritë
+Ligji Nr. 05/L-055 PËR AUDiTORiN E PËRgjiTHSHËM DHE ZYRËN KOMBËTARE TË AUDiTiMiT TË REPUBLiKËS SË KOSOVËS pasqyrojnë rezultatet e realizimit të buxhetit në mënyrë të drejtë;
+1.2. vlerëson nëse menaxhmenti iu ka përmbajtur ligjeve dhe akteve nënligjore të zbatueshme dhe nëse fondet janë përdorur për qëllimet e synuara; dhe 1.3. vlerëson fuksionimin e sistemit të menaxhimit financiar, funksionet e auditimit të brendshëm dhe sistemet e kontrollit të brendshëm.
+2. Zyra Kombëtare e Auditimit kryen auditime të ndërmjetme gjatë vitit financiar, duke përfshirë përcjelljen e zbatimit të rekomandimeve të auditimeve të mëhershme si dhe një analizë të masave të marra mbi bazën e këtyre rekomandimeve.
+3. Gjatë kryerjes së auditimeve të performancës ose llojeve tjera të auditimeve, Zyra Kombëtare e Auditimit, në përputhje me standardet e auditimit në sektorit publik të njohura ndërkombëtarisht vlerëson efikasitetin, efektivitetin dhe/ose ekonomiciteti e një aspekti të veçantë të operacioneve në tërësi ose të pjesshme të ndonjë institucioni, programi ose aktiviteti.

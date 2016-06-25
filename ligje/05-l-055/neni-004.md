@@ -1,0 +1,25 @@
+# Neni 4
+Auditori i Përgjithshëm 1. Auditori i Përgjithshëm është i pavarur nga ana funksionale, financiare dhe operative dhe nuk i nënshtrohet urdhrit ose ndikimit nga cilido person apo institucion tjetër.
+2. Auditori i Përgjithshëm, si Kreu i Zyrës Kombëtare të Auditimit, i jep llogari Kuvendit për ushtrimin e detyrave dhe kompetencave të përcaktuara në Kushtetutë, në këtë ligj, në aktet nënligjore dhe në standardet të auditimit të sektorit publik të njohura ndërkombëtarisht.
+Ligji Nr. 05/L-055 PËR AUDiTORiN E PËRgjiTHSHËM DHE ZYRËN KOMBËTARE TË AUDiTiMiT TË REPUBLiKËS SË KOSOVËS 3. Në përputhje me dispozitat e këtij ligji, Auditori i Përgjithshëm ka liri të plotë veprimi në kryerjen dhe ushtrimin e funksioneve dhe kompetencave. Në veçanti, Auditori i Përgjithshëm nuk i nënshtrohet kurrfarë urdhri për sa i përket:
+3.1. se a duhet apo nuk duhet të kryhet një auditim i caktuar;
+3.2. mënyrës si duhet të bëhet një auditim i caktuar; ose 3.3. përparësisë që i duhet dhënë ndonjë çështjeje të caktuar.
+4. Me propozim të Presidentit të Republikës së Kosovës, Kuvendi i Kosovë, me shumicë të votave nga të gjithë deputetët, emëron Auditorin e Përgjithshëm për një periudhë pesë (5) vjeçare. Kjo duhet të bëhet pas një procesi të hapur, të paanshëm dhe transparent të përzgjedhjes dhe intervistimit të administruar nga komisioni përzgjedhës i caktuar nga Presidenti i Kosovës. Anëtarët e këtij komisioni përzgjedhës duhet të jenë apartiak dhe i bëjnë publike rezultatet e procesit të përzgjedhjes.
+5. Auditori i Përgjithshëm duhet të jetë: një person i cili posedon kualifikimet e kërkuara, me moral të lartë, i paanshëm, i ndershëm, dhe me integritet për kryerjen e funksionit, si dhe:
+5.1. duhet të posedojë diplomë universitare dhe përvojën e duhur në fushën e kontabilitetit dhe auditimit, financave publike ose administratës publike për jo më pak se tetë (8) vite, nga të cilat duhet të jenë katër (4) përvojë menaxheriale; dhe 5.2. nuk është subjekt i një hetimi për kryerje të veprës penale, nuk është nën procedurë penale dhe nuk është dënuar nga një gjykatë kompetente për kryerjen e një vepre penale.
+5.3. nuk është, ose në çfarëdo kohe gjatë periudhës tre (3) vjeçare, para datës së aplikimit ka qenë zyrtar i zgjedhur publik, i emëruar politikisht ose bartës i një posti udhëheqës, ose vendimmarrës në një subjekt politik.
+6. Pozita e Auditorit të Përgjithshëm është punë me orar të plotë dhe nuk mund të jetë i punësuar me pagesë në ndonjë vend tjetër pune gjatë kohës gjersa shërben si Auditor i Përgjithshëm.
+7. Niveli i pagës së Auditorit të Përgjithshëm, caktohet me Ligjin përkatës që rregullon pagat e funksionarëve të lartë publikë.
+8. Deri në miratimin e Ligjit përkatës që rregullon pagat e funksionarëve të lartë publikë, paga e Auditorit të Përgjithshëm caktohet nga Kuvendi.
+9. Kurdo që pozita e Auditorit të Përgjithshëm mbetet e zbrazët, Kuvendi, në afat prej nëntëdhjetë (90) ditësh, e plotëson atë në pajtim me paragrafin 4 të këtij neni. Në rast të skadimit të mandati, Auditori i Përgjithshëm ushtron funksionin si Auditor i Përgjithshëm në largim deri në emërimin e Auditorit të ri të Përgjithshëm dhe marrjen e detyrave nga ana e tij/saj.
+10. Auditori i Përgjithshëm mund të japë dorëheqje, duke e njoftuar Kuvendin me shkrim gjashtëdhjetë (60) ditë më parë.
+11. Në rast të dorëheqjes së Auditorit të përgjithshëm, Zëvendës Auditori i Përgjithshëm do të
+Ligji Nr. 05/L-055 PËR AUDiTORiN E PËRgjiTHSHËM DHE ZYRËN KOMBËTARE TË AUDiTiMiT TË REPUBLiKËS SË KOSOVËS shërbejë si Ushtrues Detyre i Auditorit të Përgjithshëm në përputhje me këtë ligj, dhe do t’i ketë të njëjtat kompetenca dhe përgjegjësi si të Auditorit të Përgjithshëm.
+12. Auditori i përgjithshëm mund të suspendohet nëse:
+12.1. nëse ndaj Auditorit të Përgjithshëm ngritët aktakuzë për vepër penale, ai/ajo suspendohet me pagesë prej pesëdhjetë për qind (50%) të pagës së tij/ saj, deri në largimin e tij/ saj ose derisa të shpallet i pafajshëm me aktgjykim të formës së prerë të gjykatës. Suspendimi hyn në fuqi që nga momenti i ngritjes së aktakuzës nga ana e prokurorit.
+12.2. Gjykata kompetente në ditën e ngritjes së aktakuzës ndaj Auditorit të Përgjithshëm e dërgon njoftimin tek Kryetari i Kuvendit, i cili pasi ta njofton Kuvendin, si institucion që e ka emëruar, e njofton Auditorin e Përgjithshëm për suspendimin e tij.
+13. Kuvendi, me dy të tretat (2/3) të të gjithë deputetëve, mund ta shkarkojë nga detyra Auditorin e Përgjithshëm nëse:
+13.1. për një periudhë gjashtë (6) mujore nuk është në gjendje t’i kryejë detyrat për shkak të ndonjë sëmundjeje fizike apo mendore, që mund të ndikojnë në aftësinë për t’i kryer këto detyrat;
+13.2. gjatë kryerjes së detyrës merret me punë që bien ndesh me kodin etik ose gjendet në rrethana të cilat mund të komprometojnë aftësinë për të ushtruar detyrën;
+13.3. me anë të një aktgjykimi të plotfuqishëm, shpallet fajtor për ndonjë vepër penale dhe dënohet me burg;
+13.4. falimenton ose kërkon të përfitojë nga çfarëdo ligji ose rregulle për lirimin e debitorëve që kanë falimentuar ose janë josolventë.

@@ -1,0 +1,24 @@
+# Article 4
+The Auditor General 1. The Auditor General is functionally, financially and operationally independent and shall not be subject to direction or influence by any person or institution.
+2. The Auditor General, as the Head of the National Audit Office, is accountable before the Assembly for performing the duties and powers set forth by the Constitution, this Law, in sub- legal acts and internationally recognised public sector auditing standards.
+3. Subject to the provisions of this Law, the Auditor General shall have complete discretion in the performance or exercise of his or her functions and powers. In particular, the Auditor General shall not be subject to any direction in relation to:
+LAW No. 05/L-055 ON THE AUDITOR GENERAL AND THE NATIONAL AUDIT OFFICE OF THE REPUBLIC OF KOSOVO 3.1. whether or not a particular audit is to be conducted;
+3.2. the way in which a particular audit is to be conducted; or 3.3. the priority to be given to any particular matter.
+4. The Assembly of Kosovo shall upon the proposal of the President of the Republic of Kosovo with a majority of vote of all its deputies, appoint the Auditor General for a term of five (5) years. This shall be done after an open, impartial and transparent selection and interview process administrated by a selection committee appointed by the President of Kosovo. The members of the selection committee shall be nonpartisan and shall report in public about the outcome of the selection process.
+5. The Auditor General shall be a person who possesses the required qualifications, high moral character, impartiality and integrity that are necessary to carry out the functions, and who:
+5.1. has a university degree and qualified experience in the area of accounting and audit, public finance or public administration for not less than eight (8) years out of which four (4) years of management experience;
+5.2. is not under criminal investigation for a criminal offence, is not under criminal procedure and has not been sentenced by a court of competent jurisdiction for having committed a criminal offence;
+5.3. is not, or at any time during the three (3) years period, before application date an official elected publicly, appointed politically or bearer of a leading position or decision making in a political subject.
+6. The position of the Auditor General shall be a full-time basis and shall not hold other paid employment in any other organisation while serving as Auditor General.
+7. The salary level of Auditor General is determined by the respective law regulating salaries of senior public officials.
+8. Until the adoption of respective law regulating the salaries of senior public officials, the salary of the Auditor General shall be assigned by the Assembly.
+9. Whenever the position of Auditor General becomes vacant, the Assembly shall fill the vacancy within 90 (ninety) days in accordance with what is stated in paragraph 4. of this Article. In case of expiry of the mandate, the Auditor General shall exercise her/his function as the outgoing Auditor General until a new Auditor General is appointed and have taken office.
+10. The Auditor General may resign by giving the Assembly sixty (60) days written notice.
+11. In case of resignation by the Auditor General, the Deputy Auditor General shall serve as Acting Auditor General under this Law and shall have the same powers and responsibilities as the Auditor General.
+12. The Auditor General can be suspended if:
+LAW No. 05/L-055 ON THE AUDITOR GENERAL AND THE NATIONAL AUDIT OFFICE OF THE REPUBLIC OF KOSOVO 12.1. if against the Auditor General is filed an indictment for criminal offence, he/she shall be suspended with payment of fifty percent (50%) of his/her salary, until his/her dismissal or until is declared innocent by final judgment of the court. The suspension enters into force from the moment of filed indictment by the Prosecutor;
+12.2. competent court on the day of filed indictment against the Auditor General shall sent the notification to the President of the Assembly, who after notifying the Assembly, as an institution that has appointed, shall notify the Auditor General of his/her suspension.
+13. The Assembly may, with two thirds (2/3) of all deputies, discharge the Auditor General if:
+13.1. for a period of six (6) months is unable to perform the function of his/her office due to physical or mental disability affecting his/her capacity to perform such functions;
+13.2. has engaged in conflict with ethical code in the performance of his/her duties or in circumstances that might compromise his/her ability to perform his/her duties;
+13.3. is convicted upon final judgment of a criminal offence and is sentenced to a term of imprisonment; and 13.4. becomes bankrupt or applies to take benefit of any Law or rule for the relief of bankrupt or insolvent debtor.

@@ -1,0 +1,3 @@
+# Neni 22
+Komentet mbi draft raportet 1. Pas përfundimit të punës audituese, Zyra Kombëtare e Auditimit përgatit draft raportin e auditimit dhe ia dorëzon atë Kreut të institucionit të audituar për komente me shkrim.
+2. Institucioni i audituar dorëzon komentet e tij tek Zyra Kombëtare e Auditimit brenda pesëmbdhjetë (15) ditëve kalendarike pas pranimit të draft raportit të auditimit, ose për një kohë më të gjatë të caktuar nga Auditori i Përgjithshëm. Zyra Kombëtare e Auditimit merr parasysh këto komente para se të përgatisë raportin final të auditimit. Në rast të mospajtimit, ato do ti bashkëngjiten Raportit final të auditimit.

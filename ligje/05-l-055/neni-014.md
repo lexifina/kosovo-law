@@ -1,0 +1,5 @@
+# Neni 14
+Llogaridhënia 1. Auditori i Përgjithshëm dorëzon në Qeveri Pasqyrat Vjetore Financiare për t’i përfshirë ato në Raportin e Qeverisë mbi Buxhetin e Kosovës në pajtim me Ligjin përMenaxhimin e Financave Publike dhe Përgjegjësitë.
+2. Brenda katër (4) muajve nga përfundimi i vitit buxhetor, Auditori i Përgjithshëm i dorëzon Kuvendit Raportin Vjetor të Performancës rreth aktiviteteve të Zyrës Kombëtare të Auditimit. Ky raport përfshin ekstraktet relevante nga Pasqyrat Vjetore Financiare si dhe opinionin e auditimit të dhënë nga auditorët e pavarur.
+3. Kuvendi cakton një firmë të jashtme të pavarur dhe të pranuar ndërkombëtarisht që të kryejë auditimit e detyrueshëm me ligj të Pasqyrave Vjetore Financiare të Zyrës Kombëtare të Auditimit. Kjo firmë nuk do të zgjidhet për më shumë se tre (3) vitet me radhë dhe nuk mund të ketë lidhje të tjera pune me Zyrën Kombëtare të Auditimit.
+Ligji Nr. 05/L-055 PËR AUDiTORiN E PËRgjiTHSHËM DHE ZYRËN KOMBËTARE TË AUDiTiMiT TË REPUBLiKËS SË KOSOVËS

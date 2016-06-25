@@ -1,0 +1,3 @@
+# Neni 27
+Mbrojtja ligjore për ushtrimin e detyrave profesionale 1. Auditori i Përgjithshëm, Zëvendës Auditori i Përgjithshëm, Ndihmës Auditorët e Përgjithshëm dhe personeli tjetër i autorizuar që kryejnë auditime gëzojnë pavarësi të plotë dhe mbrojtje ligjore në ushtrimin e detyrave të tyre ligjore të autorizuara me këtë ligj.
+2. Mbrojtja ligjore që jepet përmes paragrafit 1 të këtij neni, nuk e mbron personin e autorizuar i cili, gjatë kryerjes së detyrave, vepron në kundërshtim me këtë ligj ose kryen vepra penale që nuk kanë lidhje me kryerjen e arsyeshme dhe profesionale të detyrave të punës.

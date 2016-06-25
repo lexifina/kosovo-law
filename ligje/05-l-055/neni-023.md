@@ -1,0 +1,10 @@
+# Neni 23
+Raportet e Auditimit 1.Zyra Kombëtare e Auditimit i dorëzon institucioneve të audituara raportet finale të auditimit. Kopje mund t’i dorëzohen çdo institucioni tjetër të ndërlidhur. Zyra Kombëtare e Auditimit publikon raportet finale të auditimit një (1) ditë pas dorëzimit të raporteve të tilla.
+2. Gjatë raportimit mbi auditimet e detyrueshme të rregullsisë, Zyra Kombëtare e Auditimit i dorëzon Raporte finale të Auditimit secilit institucion të audituar dhe Kuvendit jo më vonë se nëntëdhjetë (90) ditë nga dorëzimi i Pasqyrave Vjetore Financiare finale të organizatave buxhetore. Në rastet kur institucioni i audituar është një komunë, raporti final i Auditimit i dorëzohet edhe Kuvendit Komunal përkatës.
+3. Për auditimin e Raportit Vjetor të Qeverisë mbi ekzekutimin e Buxhetit të Kosovës, Zyra Kombëtare e Auditimit i dorëzon Kuvendit Raportin Vjetor të auditimit, në afatin e paraparë në Ligjin për Menaxhimin e Financave Publike dhe Përgjegjësitë.
+4. Zyra Kombëtare e Auditimit, në raportin e përmendur në paragrafin 3 të këtij neni, paraqet konkluzione dhe rekomandime të rëndësishme nga të gjitha auditimet e kryera.
+5. Brenda tridhjetë (30) ditësh nga pranimi i Raportit të Auditimit, çdo institucion i audituar
+Ligji Nr. 05/L-055 PËR AUDiTORiN E PËRgjiTHSHËM DHE ZYRËN KOMBËTARE TË AUDiTiMiT TË REPUBLiKËS SË KOSOVËS dorëzon një përgjigje Zyrës Kombëtare të Auditimit, ku përcaktohet se si institucioni do t’i adresojë rekomandimet e dhëna në raportin final të auditimit. Kjo përgjigje i dorëzohet gjithashtu Komisionit relevant të Kuvendit. Në rastet kur institucioni i audituar është një komunë, përgjigjja i dorëzohet edhe Kuvendit Komunal përkatës.
+6. Raportet e auditimit janë në dispozicion në ueb faqen e Zyrës Kombëtare të Auditimit, me përjashtim të informacioneve që kanë klasifikim (si sensitive dhe jo për publik) apo ndalesa tjera ligjore apo administrative në pajtim me legjislacionin në fuqi.
+7. Auditori i Përgjithshëm prezanton çdo vit Raportin vjetor të auditimit në seancë plenare të Kuvendit.
+8. Auditori i Përgjithshëm mundet, në çdo kohë, t’i drejtohet Kuvendit për çdo çështje brenda mandatit të Zyrës Kombëtare të Auditimit.

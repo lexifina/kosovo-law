@@ -1,0 +1,14 @@
+# Article 3
+Definitions 1. For the purposes of the present law the following definitions mean:
+1.1. Audit – means a qualified examination of legal and financial compliance or performance, carried out to satisfy the requirements of management (internal audit), or an external audit entity, or any other independent auditor, to meet statutory obligations (external audit);
+1.2. Audit Opinion - means a formal written expression of an opinion on the financial statements or any certain process within a specified framework, indicating the auditor’s overall conclusion based upon audit evidence obtained that provide a reasonable level of assurance (high but not absolute assurance);
+1.3. Audited Entity – means any public institution, publicly owned enterprise or other authority managing public funds subject to audit;
+LAW No. 05/L-055 ON THE AUDITOR GENERAL AND THE NATIONAL AUDIT OFFICE OF THE REPUBLIC OF KOSOVO 1.4. Auditor – means an officer authorised by the Auditor General to carry out all functions under this Law;
+1.5. Classified Information – means any information classified as confidential in compliance with respective applicable legislation;
+1.6. External Audit – means an audit conducted by a body which is external and independent from the audited entity;
+1.7. Internal control - means the organisation, policies and procedures used to ensure that government programmes achieve their intended results; that the resources used for these programmes are consistent with the stated objectives of the organisation concerned; that the programmes are protected from waste and mismanagement; and that reliable and timely information is provided;
+1.8. International Standards of Supreme Audit Institutions (ISSAIs) – means INTOSAI Auditing Standards;
+1.9. INTOSAI – means International Organisation of Supreme Audit Institutions;
+1.10. Public sector entity – is a general term which implies and includes all budget organisations, independent public agencies and other public authorities;
+1.11. Performance Audit - means an audit of the economy, efficiency and effectiveness with which an institution, programme or activity uses it resources in carrying out its responsibilities;
+1.12. The Regularity audit – is an attestation of financial accountability of accountable entities, involving examination and evaluation of financial records and expression of opinions on financial statements; attestation of financial accountability of the government administration as a whole; audit of financial systems and transactions, including evaluation of compliance with applicable statutes and regulations; audit of internal audit and internal control functions; audit of the probity and propriety of administrative decisions taken within the audited entity; and reporting of any other matters arising from or relating to the audit.

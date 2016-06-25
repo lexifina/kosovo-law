@@ -1,0 +1,4 @@
+# Neni 12
+Bashkëpunimi me Palët e Jashtme 1. Zyra Kombëtare e Auditimit bashkëpunon me institucione dhe organizata të ndryshme në fushat e ndërlidhura me auditimin apo zhvillimin profesional.
+2. Auditori i Përgjithshëm mund të angazhojë persona, firma të kualifikuara apo ndonjë institucion tjetër suprem të auditimit për t’i ndihmuar në kryerjen e çfarëdo detyre të Zyrës së auditimit. Duke e bërë këtë, ata do të respektojnë standardet e zbatueshme të auditimit të njohura ndërkombëtarisht si dhe standardet të Zyrës Kombëtare të Auditimit. Auditori i Përgjithshëm është përgjegjës për rezultatet dhe cilësinë e punës së kryer.
+Ligji Nr. 05/L-055 PËR AUDiTORiN E PËRgjiTHSHËM DHE ZYRËN KOMBËTARE TË AUDiTiMiT TË REPUBLiKËS SË KOSOVËS 3. Zyra Kombëtare e Auditimit mund të bashkëpunojë me Gjykatën Evropiane të Auditorëve dhe Institucionet Supreme të Auditimit të vendeve të huaja dhe ta përfaqësojë Kosovën në ONISA.

@@ -1,0 +1,10 @@
+# Article 23
+Audit Reports 1. The National Audit Office shall submit final Audit Reports to the audited institution. Copies may be sent to any other concerned institution. The National Audit Office shall make final Audit Reports public one (1) day after submission of such reports.
+2. When reporting on statutory Regularity audits, the National Audit Office shall submit final Audit Reports to each audited institution and to the Assembly no later than ninety (90) days after the submission of the Budget Organisation’s final Annual Financial Statements. In case the audited institution is a municipality, the final Audit Report shall also be submitted to the concerned municipal Assembly.
+3. For the audit of the Government’s Annual Report on the execution of the Kosovo Budget, the National Audit Office shall submit the Annual Audit Report to the Assembly within the deadline set forth in the Law on Public Finance Management and Accountability.
+4. The National Audit Office shall in the report mentioned in paragraph 3. of this Article present important conclusions and recommendations from all audits carried out.
+5. Within thirty (30) days of receiving the final Audit Report each audited institution shall deliver a response to the National Audit Office, which sets forth how the institution will address recommendations given in the final Audit Report. This response shall also be submitted to the concerned Assembly Committee. In case the audited institution is a municipality, the response shall also be submitted to the concerned municipal Assembly.
+6. The Audit Reports shall be available on the National Audit Office website, with the exception
+LAW No. 05/L-055 ON THE AUDITOR GENERAL AND THE NATIONAL AUDIT OFFICE OF THE REPUBLIC OF KOSOVO of information classified (as sensitive or not-for-publication) or other legal or administrative prohibitions in accordance with applicable legislation.
+7. The Auditor General shall annually present the Annual Audit Report in the Plenary Session of the Assembly.
+8. The Audit General may at any time address the Assembly on any matter within the mandate of the National Audit Office.
