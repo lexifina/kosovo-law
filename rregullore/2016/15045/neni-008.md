@@ -1,0 +1,8 @@
+# Neni 8
+Procesi i Shitjes
+1. Shitja e obligacioneve bëhet përmes rrjetit ekzistues të akterëve primar të cilët dorëzojnë urdhrat për blerje në Librin e Shitjes me Pakicë, në emër të klientëve. Ministria e Financave rezervon të drejtën e përzgjedhjes së një numri të kufizuar të akterëve primar dhe alokimin e shumës së ofruar ndërmjet tyre, duke u bazuar në aktivitetin e akterëve primar në tregun sekondar si dhe në performancën e tyre paraprake në programin e shitjes me pakicë.
+2. Libri i shitjes me pakicë hapet në ditën e caktuar sipas shpalljes zyrtare, dhe akterët primar fillojnë dorëzimin e urdhrave për blerje në emër të klientëve të tyre.
+3. Urdhri për blerje përmban të paktën emrin e investitorit, shumën për investim, si dhe kuponin sipas normës së publikuar në shpalljen zyrtare.
+4. Pranimi i urdhrave për blerje bëhet sipas parimit “kush vjen i pari shërbehet i pari”. Ministria e Financave rezervon të drejtën e refuzimit të pjesshëm apo të plotë të urdhrave që bien ndesh me kufizimet në këtë Rregullore apo me shpalljen zyrtare.
+5. Libri i Shitjes me Pakicë mbyllet në ditën e paraparë në shpalljen zyrtare, ose në ditën kur totali i shumës së urdhrave të dorëzuar ka arritur shumën e ofruar për shitje. Të gjithë urdhrat e dorëzuar në ditën e mbylljes pranohen, përjashtuar rastin kur pranimi i urdhrave vijues shkakton tejkalim të shumës së paraparë sipas paragrafit 3 të nenit 7 të kësaj Rregulloreje, me ç „rast urdhrat pranohen të plotë ose pjesërisht vetëm deri në këtë shumë.
+6. Në datën e emetimit bëhet shlyerja e transaksionit, ku llogaritë e akterëve primar debitohen apo kreditohen përkatësisht për totalin e shumës së urdhrave të pranuar.
