@@ -1,0 +1,4 @@
+# Article 6
+1. Article 5 of the Law No.03/L-053, as amended by Article 3 of the Law No.04/L-273, paragraph 5.1, the words “stipulated in Article 1.A sub-paragraph 1.2.”, are replaced with the words “defined in Article 1.A of this Law”.
+2. Article 5 Law No.03/L-053, as amended by Article 3 of the Law No.04/L -273, paragraph 5.2 is reworded as following: “5.2. Panels in which EULEX/International judges exercise their jurisdiction in civil proceedings will be composed of majority of local judges and presided by a local judge. In extraordinary circumstances upon reasoned request of the President of the Supreme Court, or reasoned request of the EULEX competent authority, and through the Chairman of the Judicial Council, or the Judicial Council may decide that the panel be composed of majority of EULEX judges”
+LAW No. 05/L-103 ON AMENDING AND SUPPLEMENTING THE LAWS RELATED TO THE MANDATE OF THE EUROPEAN UNION RULE OF LAW MISSION IN THE REPUBLIC OF KOSOVO
