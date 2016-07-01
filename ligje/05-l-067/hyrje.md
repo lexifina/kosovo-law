@@ -1,0 +1,7 @@
+Ligji Nr. 05/L -067
+PËR sTATUSIN DHE TË DREJTAT E PERSONAVE PARAPLEGJIK DHE TETRAPLEGJIK
+Kuvendi i Republikës së Kosovës;
+Në bazë të nenit 65 (1) të Kushtetutës së Republikës së Kosovës,
+Miraton
+LIGJ PËR sTATUSIN DHE TË DREJTAT E PERSONAVE PARAPLEGJIK DHE
+TETRAPLEGJIK

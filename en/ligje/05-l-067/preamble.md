@@ -1,0 +1,8 @@
+LAW No. 05/L-067
+ON THE STATUS AND THE RIGHTS OF PERSONS WITH PARAPLEGIA AND
+TETRAPLEGIA
+The Assembly of the Republic of Kosovo;
+Based on Article 65 (1) of the Constitution of the Republic of Kosovo,
+Approves
+LAW ON THE STATUS AND THE RIGHTS OF PERSONS WITH PARAPLEGIA AND
+TETRAPLEGIA
