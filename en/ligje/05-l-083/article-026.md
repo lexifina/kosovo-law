@@ -1,0 +1,9 @@
+# Article 26
+Imposition of a Stay of All Actions against Debtor 1. Except as provided in this Law, a petition filed for initiation of bankruptcy procedure initiated under Chapter III of this Law shall operate as a stay and injunction, without notice, applicable to all entities, of each of the following:
+1.1. the commencement or continuation of any aspect of a judicial, administrative, or other action or proceeding related to the debtor’s business activities against the debtor or its property including any freezing or locking of any bank accounts and that was or could have been commenced before the opening or commencement of the case;
+1.2. the enforcement, against the debtor or against property of the bankruptcy estate, of a judgment obtained before the opening or commencement of the case to the extent related to the debtor’s business activities;
+1.3. any act to obtain possession of property of the bankruptcy estate or of property from the estate or to exercise control over property of the bankruptcy estate;
+1.4. any act to create, perfect, or enforce any lien against property of the bankruptcy estate;
+1.5. any act to create, perfect, or enforce against property of the debtor any lien to the extent that such lien secures a claim that arose before the commencement of bankruptcy proceeding, and to the extent it relates to the business activities of the debtor;
+1.6. any act to collect, assess, or recover a claim against the debtor to the extent that it relates to the debtor’s business activities and to the extent that such claims arose before the commencement of bankruptcy proceedings; and 1.7. the setoff of any claim owing to the debtor and related to the debtor’s business activities that arose before the commencement of bankruptcy proceeding against any claim against the debtor.
+LAW No. 05/L - 083 ON BANKRUPTCY

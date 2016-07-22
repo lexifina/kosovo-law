@@ -1,0 +1,4 @@
+# Neni 52
+Shpërndarja e pronave të pasurisë falimentuese ndaj kreditorëve 1. Përfaqësuesi i pasurisë falimentuese e bënë shpërndarjen e pronave të pasurisë falimentuese ndaj kreditorëve, në momentin kur e sheh të arsyeshme dhe efektive për të bërë një shpërndarje të tillë.
+2. Përfaqësuesi i pasurisë falimentuese bënë shpërndarjen në periudha të ndryshme kohore, me aprovim të gjykatës, në rastin se kur e sheh të arsyeshme dhe efektive për ta bërë shpërndarjen në ato periudha. Gjatë kryerjes së shpërndarjeve të tilla, përfaqësuesi i pasurisë falimentuese mbanë një rezerve të arsyeshme për kërkesat e mundshme të cilat mund të lindin si rezultat i një vendimi që pritet të merr gjykata në lidhje me ato kërkesa.
+3. Përfaqësuesi i pasurisë falimentuese e bënë shpërndarjen në përputhje me prioritetet e shpërndarjeve të përcaktuara në këtë ligj.

@@ -1,0 +1,4 @@
+# Neni 28
+Kohëzgjatja e kufizuar 1. Moratoriumi sipas këtij Ligji është në fuqi për njëqind e njëzet (120) ditë prej momentit të hapjes së rastit, ose deri në momentin kur debitori pranon një lirim, përveq nëse ndryshe parashihet në këtë Ligj, ose nëse moratoriumi vazhdohet sipas këtij Ligji.
+2. Moratoriaumi mund të vazhdohet edhe pas njëqind e njëzet (120) ditëve, nëse gjykata e vërteton se përfaqësuesi i pasurisë falimentuese ka ofruar prova të mjaftueshme se vazhdimi i moratoriumit do të kontribuonte në realizimin e qëllimeve sipas këtij ligji. Në asnjë rast moratoriumi nuk mund të vlej më shumë se një 1 vit nga dita e hapjes së rastit.
+3. Gjatë kohëzgjatjes së moratoriumit sipas këij ligji, të gjitha afatet ligjore për të gjitha veprimet juridike kundër debitorit të cilat janë të ndaluara me moratorium, do të suspendohen. Vazhdimi i afateve fillon në momentin kur moratoriumi nuk është më i vlefshëm.

@@ -1,0 +1,8 @@
+# Neni 139
+Koordinimi i procedurës sipas këtij ligji me procedurën e huaj 1. Kur një procedurë e huaj dhe një procedurë sipas këtij Ligji ndodhin në të njëjtën kohë ndaj debitorit të njëjtë, gjykata do të kërkojë bashkëpunim dhe koordinim sipas dispozitave të parapara në nenet 135 deri 137 të këtij ligji, dhe do të zbatohen dispozitat si vijon:
+1.1. kur procedura në Kosovë është duke u zhvilluar në kohën e paraqitjes së kërkesës për njohjen e procedurës së huaj:
+1.1.1. çfarëdo mase e urdhëruar sipas nenit 129 ose nenit 131 të këtij ligji,
+LIGJI Nr. 05/L-083 PËR FALIMENTIMIN duhet të jetë konsistente me procedurën që është duke u zhvilluar në Kosovë; dhe 1.1.2. nëse procedura e huaj është njohur në Kosovë, neni 126 të këtij ligji, nuk aplikohet;
+1.2. Kur procedura në Kosovë fillon pas njohjes së procedurës së huaj, ose pas paraqitjes së kërkesës për njohje të procedurës së huaj:
+1.2.1. çfarëdo mase e urdhëruar sipas nenit 129 ose nenit 131 të këtij ligji, do të rishikohet nga gjykata dhe do të ndryshohet ose ndërpritet nëse nuk është konistete me procedurën në zhvillim në Kosovë; dhe 1.2.2. nëse procedura e huaj është procedurë e huaj kryesore, moratoriumi dhe ndërprerja të parapara në paragrafin 1 të nenit 130 të këtij ligji, do të ndryshohen ose ndërpriten sipas paragrafit 2 të nenit 130 të këtij ligji, nëse nuk janë konsistente me procedurat në zhvillim në Kosovë;
+1.3. Gjatë urdhërimit, vazhdimit ose ndryshimit të një mase që i është lëshuar një përfaqësuesi të huaj të pasurisë falimentuese të një procedure të huaj jo-kryesore, gjykata duhet të sigurohet se sipas ligjeve të Kosovës, asetet e tilla duhet administrauar në një procedurë të huaj jo-kryesore ose kanë të bëjnë me informata të nevojshme për atë procedurë.

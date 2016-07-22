@@ -1,0 +1,3 @@
+# Article 138
+Concurrent Proceedings-Commencement of a proceeding under this Law after recognition of a foreign main proceeding After recognition of a foreign main proceeding, a proceeding under this Law may be commenced
+LAW No. 05/L - 083 ON BANKRUPTCY only if the debtor has assets in Kosovo; the effects of that proceeding shall be restricted to the assets of the debtor that are located in Kosovo and, to the extent necessary to implement cooperation and coordination under all articles contained in Article 135 till 137 of this Law, to other assets of the debtor that, under the law of Kosovo should be administered in that proceeding.

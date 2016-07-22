@@ -1,0 +1,7 @@
+# Neni 93
+Shoqëritë Aksionare 1. Në rastet kur debitori është shoqëri aksionare sipas ligjit për shoqëritë tregtare, në momentin e mbylljes së rastit ose para mbylljes së rastit, në përputhje me dispozitat e parapara në këtë kapitull dhe sipas ligjit për shoqëritë tregtare, Administratori do të ndërmarrë të gjitha veprimet e nevojshme për shuarjen e shoqërisë aksionare:
+1.1. veprimet për shuarjen e shoqërisë aksionare përjashtojnë të gjitha kërkesat për thirrje të mbledhjeve të bartësve të aksioneve të shoqërisë. Kërkesat e përjashtuara përfshijnë edhe përjashtimin e kërkesës për dërgimin e njoftimeve për thirrje të mbledhjeve ose mbajtjen e cfarëdo takimi në lidhje me shuarjen e shoqërisë;
+1.2. veprimet e ndërmarra nga Administratori për shuarjen e shoqërisë aksionare përfshijnë edhe dërgimin e njoftimeve ndaj regjistrave të biznesit dhe administratës
+LIGJI Nr. 05/L-083 PËR FALIMENTIMIN tatimore në lidhje me mbylljen e rastit.
+2. Vetëm Administratori ka të drejtë të paraqes kërkesa që rrjedhin nga një ligj tjetër përveq ligjit të falimentimit, në emër të kreditorëve ndaj themeluesve, aksionarëve, zyrtarëve, drejtorëve, agjentëve ose menaxherëve të lartë të shoqërisë aksionare.
+3. E drejta për të paraqitur kërkesa sipas paragrafit 2 të këtij neni skadon në momentin e mbylljes së rastit të falimentimit ose më së largu 2 vite nga dita e hapjes së rastit të falimentimit.
