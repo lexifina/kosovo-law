@@ -1,0 +1,8 @@
+# Neni 40
+Rregullat e balancimit
+1. Rregullat e balancimit do të dizajnohen në mënyrë të barabartë, jodiskriminuese dhe transparente dhe do të bazohen në kritere objektive. Rregullat e balancimit do të pasqyrojnë nevojat e sakta të sistemit, duke marrë parasysh burimet në dispozicion të Operatorit të Sistemit të Transmetimit. Rregullat e balancimit duhet të jenë të bazuara në treg.
+2. Ngarkesat për mosbalancim duhet të pasqyrojnë shpenzimet për aq sa është e mundshme, duke ofruar masa stimuluese të balancimit mes hyrjes dhe daljes së gazit, si dhe duke evituar ndërsubvencionimin mes shfrytëzuesve të sistemit apo barrierat e hyrjes për përdorues të rinj të sistemit.
+3. Operatori i Sistemit të Transmetimit do të publikojë informata të mjaftueshme dhe të besueshme në kohë të duhur mbi statusin e balancimit të shfrytëzuesve të sistemit, të cilat janë të nevojshme për t’ua mundësuar shfrytëzuesve të sistemit ndërmarrjen e veprimeve korrigjuese në kohë të duhur. Niveli i informatave të ofruara duhet të pasqyrojë nivelin e informatave në dispozicion të operatorit të sistemit të transmetimit. Sigurimi i informatave të përcaktuara në këtë paragraf duhet të bëhet pa pagesë.
+4. Operatori i Sistemit të Transmetimit duhet të publikojë tarifat për ofrimin e shërbimeve balancuese.
+5. Operatori i Sistemit të Transmetimit do të bashkëpunojë me operatorët e sistemit të transmetimit të palëve tjera të Komunitetit të Energjisë në përpjekje për t’i harmonizuar regjimet balancuese dhe për t’i kanalizuar strukturat dhe nivelet e ngarkesave për mosbalancim, me qëllim të lehtësimit të tregtimit të gazit.
+6. Rregullat e balancimit duhet të jenë pjesë e Rregullave të Rrjetit të Transmetimit, sipas nenit 38 të këtij ligji.

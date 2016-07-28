@@ -1,0 +1,7 @@
+# Neni 5
+Aktivitetet e furnizimit me gazin natyror
+1. Një ndërmarrje e gazit natyror që bartë licencë për furnizim me gaz natyror mund të angazhohet në furnizimin me gaz natyror për cilindo konsumator, në pajtim me këtë ligj.
+2. Çdo konsumator në Kosovë, përfshirë konsumatorët fundorë dhe me shumicë, do të kenë të drejtë të zgjedhjes së lirë të furnizuesve dhe ndërrimit të tyre.
+3. Pa paragjykuar në mundësitë e Rregullatorit të imponojë obligime të shërbimit publik për qëllime të caktuara dhe për një periudhë të kufizuar kohore, furnizimi me gaz natyror do të sigurohet me çmime të parregulluara të tregut, në bazë të kontratave të negociuara mes furnizuesit dhe konsumatorit.
+4. Të gjithë furnizuesit do të blejnë gazin natyror për furnizim të konsumatorëve në tregun bilateral apo të organizuar të gazit natyror.
+5. Rregullat mbi kushtet e përgjithshme, të cilat miratohen nga Rregullatori, do të jenë obligative për të gjithë furnizuesit që operojnë në Kosovë, përveç nëse është përcaktuar shprehimisht ndryshe në këtë ligj. Kushtet e përgjithshme do të përcaktojnë kërkesa objektive, transparente dhe jodiskriminuese të cilat duhet të aplikohen në mënyrë të barabartë për të gjitha ndërmarrjet e gazit natyror, varësisht nga veprimtaria e tyre në tregun e gazit natyror. Kushtet e përgjithshme do të bëhen publike në faqen e Rregullatorit në internet dhe në faqet e furnitorëve të ndryshëm.

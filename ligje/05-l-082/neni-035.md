@@ -1,0 +1,4 @@
+# Neni 35
+Refuzimi i qasjes
+1. Operatorët e sistemit të transmetimit, shpërndarjes dhe depozitimit, mund ta refuzojnë qasjen ndaj sistemit në bazë të mungesës së kapaciteteve, apo në rastet kur qasja në sistem mund t’i pengojë ata në kryerjen e obligimeve të shërbimit publik, në bazë të vështirësive serioze ekonomike dhe financiare me kontratat “merr-ose-paguaj”, duke marrë parasysh kriteret dhe procedurat e përcaktuara me nenin 32 të këtij ligji. Refuzimi i tillë duhet të arsyetohet me prova.
+2. Ministria mund të kërkojë nga një ndërmarrje e gazit natyror që refuzon të ofrojë qasje për stabilimentet e saj në bazë të mungesës së kapaciteteve ose të mungesës së lidhjes për investime të nevojshme deri në masën që do të ishte ekonomikisht e arsyeshme ose kur një konsumator i mundshëm është i gatshëm të paguajë për zgjerim të kapacitetit.

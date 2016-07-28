@@ -1,0 +1,4 @@
+# Neni 23
+Konfidencialiteti i Operatorit të Sistemit të Transmetimit dhe Depozitimit
+1. Pa paragjykuar nenin 32 të këtij ligji dhe Ligjin për Rregullatorin e Energjisë ose ndonjë obligim tjetër ligjor për zbulimin e informatave, secili operator i sistemit të transmetimit dhe depozitimit duhet ta ruajë fshehtësinë e informatave të ndjeshme komerciale, të siguruara në vazhdën e kryerjes së punëve të tij, si dhe ta ndalojë zbulimin në mënyrë diskriminuese të informatave për veprimtarinë e vet, të cilat mund të jenë me përparësi komerciale.
+2. Operatorët e sistemit të transmetimit dhe depozitimit, në kontekstin e shitjeve apo blerjeve të gazit natyror nga ndërmarrjet gjegjëse, nuk do të abuzojnë me informatat e ndjeshme komerciale, të siguruara nga palët e treta, në kontekstin e ofrimit apo negocimit të qasjes ndaj sistemit.

@@ -1,0 +1,4 @@
+# Neni 2
+Fushëveprimi
+1. Ky ligj zbatohet me qëllim të përcaktimit të rregullave në lidhje me organizimin dhe funksionimin e sektorit të gazit natyror, caktimin e rregullave jodiskriminuese për objektet e depozitimit, duke marrë parasysh karakteristikat e veçanta të tregjeve kombëtare dhe rajonale dhe lehtësimin e krijimit të një tregu të shitjes me shumicë, funksionale dhe transparente me një nivel të lartë të sigurisë së furnizimit me gaz dhe sigurimin e mekanizmave për të harmonizuar rregullat për qasje në rrjet për shkëmbimet ndërkufitare të gazit.
+2. Rregullat e përcaktuara në ketë ligj do të zbatohen në mënyrë jodiskriminuese edhe për biogazin dhe gazin nga biomasa ose llojet tjera të gazit, deri në masën në të cilën gazrat mund të injektohen teknikisht dhe në mënyrë të sigurt, si dhe të transportohen nëpërmjet sistemit të gazit natyror.

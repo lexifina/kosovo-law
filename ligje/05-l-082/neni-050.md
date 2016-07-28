@@ -1,0 +1,17 @@
+# Neni 50
+Shmangiet në lidhje me zotimet “merr ose paguaj”
+1. Nëse një ndërmarrje e gazit natyror përballet, apo konsideron që do të përballet me vështirësi serioze ekonomike dhe financiare për shkak të zotimeve të saj në marrëveshjet “merr ose paguaj” në një apo më shumë kontrata të blerjes së gazit, ajo mund të aplikojë për një shmangie të përkohshme nga detyrimet për t’i ofruar qasje Zyrës së Rregullatorit për Energji.
+2. Kërkesat do të paraqiten rast për rast, ose para ose pas refuzimit të qasjes në sistem, sipas vlerësimit të ndërmarrjes së gazit natyror. Në rast të refuzimit të qasjes nga një ndërmarrje e gazit natyror, kërkesat do të paraqiten pa vonesë. Kërkesat do të përcillen me të gjitha informatat e nevojshme mbi natyrën dhe masën e problemit, si dhe mbi përpjekjet e bëra nga ndërmarrja e gazit natyror për ta zgjidhur problemin.
+3. Sa i përket situatës të përcaktuar në paragrafin 1 të këtij neni, nëse nuk ka në dispozicion zgjidhje të arsyeshme, Rregullatori mund të vendosë që të lejojë shmangien. Rregullatori do ta njoftojë pa vonesë Sekretariatin e Komunitetit të Energjisë mbi Vendimin e vet për të lejuar shmangien, së bashku me të gjitha informatat relevante që ndërlidhen me shmangien e tillë. Këto informata mund të dorëzohen në Sekretariatin e Komunitetit të Energjisë në formë të përmbledhur, duke i mundësuar Sekretariatit të Komunitetit të Energjisë marrjen e një Vendimi të bazuar. Brenda tetë (8) javësh pas pranimit të njoftimit, Sekretariati i Komunitetit të Energjisë do të nxjerrë një opinion me të cilin mund ta ftojë Zyrën e Rregullatorit për Energji që të ndryshojë apo tërheqë Vendimin për të lejuar shmangien e tillë.
+4. Në Vendimin e saj mbi lejimin apo jo të shmangies së përkohshme, Rregullatori do të marr parasysh në veçanti kriteret si në vijim:
+4.1. synimin për arritjen e një tregu jodiskriminues, transparent dhe konkurrues të gazit;
+4.2. nevojën për t’i përmbushur obligimet e shërbimit publik dhe për ta siguruar furnizimin;
+4.3. pozitën e ndërmarrjes së gazit natyror në tregun e gazit dhe gjendjen aktuale të konkurrencës në këtë treg;
+4.4. seriozitetin e vështirësive ekonomike dhe financiare të përballura nga ndërmarrjet e gazit natyror dhe ndërmarrjet e transmetimit apo konsumatorët;
+4.5. datat e nënshkrimit dhe kushtet e kontratës apo kontratave të tilla, duke përfshirë masën deri në të cilën ato mundësojnë ndryshimet në treg;
+4.6. përpjekjet që janë bërë për ta gjetur zgjidhjen e problemit;
+4.7. masën në të cilën kompania, në rastin e pranimit të zotimeve “merr ose paguaj” do të mund të parashikohej që vështirësitë serioze do të mund të përballeshin nga kompania, duke marrë parasysh dispozitat e këtij ligji;
+4.8. nivelin e lidhjes së sistemit me sisteme tjera dhe masën e ndërveprimit mes këtyre sistemeve; dhe
+4.9. efektet që lejimi i shmangies do të kishte në zbatimin korrekt të Direktivës përkatëse dhe ligjit sa i përket funksionimit të mirë të tregut të brendshëm të gazit natyror.
+5. Ndërmarrjet e gazit natyror të cilave nuk iu është aprovuar dërgimi sipas paragrafit 1 të këtij neni, nuk refuzojnë, apo tani e tutje nuk refuzojnë, qasjen në sistem për shkak të zotimeve “merr apo blej” të pranuara në kontratën e blerjes së gazit. Në këtë kuptim, Rregullatori siguron që dispozitat përkatëse të këtij ligji që rregullojnë qasjen e palëve të treta dhe kontratat e furnizimit me gaz aplikohen në tërësi dhe zbatohen në mënyrë adekuate.
+6. Çdo përjashtim, i aprovuar nga Rregullatorit publikohet dhe vërtetohet në mënyrë të rregullt.

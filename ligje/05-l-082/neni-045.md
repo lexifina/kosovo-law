@@ -1,0 +1,6 @@
+# Neni 45
+Monitorimi dhe mbikëqyrja e tregut të gazit natyror
+1. Rregullatori do të kryejë monitorimin dhe mbikëqyrjen e tregut të gazit natyror, nën kushtet dhe konditat e përcaktuara në këtë ligj dhe në Rregullat e Tregut.
+2. Rregullatori, në bashkëpunim të ngushtë me Autoritetin Kosovar të Konukurrencës , do të sigurojë krijimin e kushteve për konkurrencë efektive në tregun e gazit natyror dhe zhvillimin e tij.
+3. Deri më 31 mars të çdo viti, Rregullatori do të përgatisë dhe publikojë raportin mbi tregun e gazit natyror, i cili do të përfshijë së paku një shqyrtim të detajuar të organizimit dhe funksionimit të tregut të gazit natyror në Kosovë, një analizë të aktiviteteve të pjesëmarrësve të tregut të gazit natyror dhe trendet e të gjitha zhvillimeve në tregun e gazit natyror.
+4. Operatori i tregut të gazit natyror dhe Operatori i Sistemit të Transmetimit, brenda kompetencave të tyre përkatëse, do të analizojnë organizimin e tregut të gazit natyror dhe do t’i propozojnë Zyrës së Rregullatorit për Energji masa për përmirësimin e tij, dhe do ta informojnë Zyrën e Rregullatorit për Energji mbi të gjitha shkeljet indikative apo potenciale të kërkesave të parapara për veprimtari në tregun e gazit natyror.

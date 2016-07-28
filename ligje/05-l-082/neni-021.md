@@ -1,0 +1,23 @@
+# Neni 21
+Programi i pajtueshmërisë dhe Zyrtari i pajtueshmërisë
+1. Operatori i Sistemit të Transmetimit duhet të krijojë dhe zbatojë Programin e pajtueshmërisë në të cilin vendosen masat me qëllim që të mos lejohen sjellje diskriminuese si dhe të sigurojë që të bëhet monitorimi i tij në mënyrë adekuate. Programi i pajtueshmërisë përcakton obligimet specifike për punonjësit e Operatorit të Sistemit të Transmetimit për arritjen e objektivit të Programit. Programi i pajtueshmërisë miratohet nga Rregullatori. Pa paragjykuar kompetencat e Rregullatorit, pajtueshmëria me Programin e pajtueshmërisë monitorohet në mënyrë të pavarur nga Zyrtari i pajtueshmërisë.
+2. Zyrtari i pajtueshmërisë emërohet nga Organi mbikëqyrës, dhe miratohet nga Rregullatori.
+Rregullatori mund ta refuzojë miratimin e Zyrtarit të pajtueshmërisë vetëm për arsye të mungesës së pavarësisë apo kapacitetit profesional. Zyrtari i pajtueshmërisë mund të jetë person fizik ose person juridik.
+3. Zyrtari i pajtueshmërisë është përgjegjës për:
+3.1. monitorimin e zbatimit të Programit të pajtueshmërisë;
+3.2. përgatitjen e raportit vjetor, ku përfshihen masat e ndërmarra me qëllim të zbatimit të Programit të pajtueshmërisë. Raporti vjetor dorëzohet në Rregullatori;
+3.3.raportimin tek Organi Mbikëqyrës dhe dhënien e rekomandimeve lidhur me programin e pajtueshmërisë dhe zbatimin e tij;
+3.4. njoftimin e Rregullatorit për çfarëdo shkelje substanciale përkitazi me zbatimin e programit të pajtueshmërisë; dhe
+3.5. raportimin tek Rregullatori për çfarëdo marrëdhënie ekonomike dhe financiare ndërmjet aksionarit dhe Operatorit të Sistemit të Transmetimit.
+4. Zyrtari i pajtueshmërisë duhet t’ia dorëzojë Rregullatorit vendimet e propozuara për planin e investimeve apo për investimet individuale në rrjet. Kjo duhet të bëhet më së voni deri në kohën kur menaxhmenti apo organi kompetent administrativ i Operatorit të Sistemit të Transmetimit i dorëzon ato tek Organi Mbikëqyrës.
+5. Në rastet kur Organi Mbikëqyrës apo vetë aksionari kanë marrë një vendim që ka efekt të parandalimit apo të shtyrjes së një investimi të planifikuar, në planin dhjetë (10) vjeçar, për t’u realizuar brenda tre (3) viteve të ardhshme, Zyrtari i pajtueshmërisë i raporton për këtë Rregullatorit e cila pastaj duhet të veproj në pajtim me nenin 22 të këtij ligji.
+6. Rregullatori miraton kushtet e punësimit, duke përfshirë edhe kohëzgjatjen e mandatit të Zyrtarit të pajtueshmërisë. Këto kushte duhet të jenë të tilla që të sigurojnë pavarësi të Zyrtarit të pajtueshmërisë duke i siguruar, veç tjerash, edhe të gjitha burimet e nevojshme për përmbushjen e detyrave të tij. Gjatë mandatit të tij, Zyrtari i pajtueshmërisë nuk ka të drejtë të mbajë asnjë pozitë tjetër profesionale, të ushtrojë përgjegjësi apo interes, në mënyrë të drejtpërdrejtë apo të tërthortë, në ndërmarrjet tjera të energjisë apo ndonjë organizatë, ose agjenci qeveritare.
+7. Zyrtari i pajtueshmërisë raporton rregullisht, qoftë në mënyrë verbale apo me shkrim, tek Rregullatori dhe ka të drejtë që të raportojë edhe tek Organi Mbikëqyrës i Operatorit të Sistemit të Transmetimit.
+8. Zyrtari i pajtueshmërisë merr pjesë në të gjitha takimet e menaxhmentit apo organeve administrative të Operatorit të Sistemit të Transmetimit, dhe ato të Organit Mbikëqyrës. Zyrtari i pajtueshmërisë merr pjesë në të gjitha takimet që adresojnë çështjet si në vijim:
+8.1. kushtet për qasje në rrjet, në veçanti përkitazi me tarifat, shërbimet e qasjes së palëve të treta, ndarjen e kapaciteteve dhe menaxhimin e kongjestionit, transparencën, balancimin dhe tregjet dytësore;
+8.2. projektet e ndërmarra me qëllim të funksionimit, mirëmbajtjes dhe zhvillimit të sistemit të transmetimit, duke përfshirë investimet në linjat e reja të transmetimit, në zgjerim të kapaciteteve dhe në optimizmin e kapaciteteve ekzistuese;
+8.3. blerjet apo shitjet e energjisë të domosdoshme për operimin e sistemit të transmetimit.
+9. Zyrtari i pajtueshmërisë monitoron pajtueshmërinë e Operatorit të Sistemit të Transmetimit lidhur me konfidencialitetin e informacionit.
+10. Zyrtari i pajtueshmërisë ka qasje në të gjitha të dhënat relevante dhe në zyrat e Operatorit të Sistemit të Transmetimit dhe në të gjitha informatat e nevojshme për kryerjen e detyrave të tij.
+11. Organi mbikëqyrës mund ta shkarkojë Zyrtarin e pajtueshmërisë pas miratimit paraprak nga Rregullatori. Zyrtari i pajtueshmërisë shkarkohet për arsye të mungesës së pavarësisë apo kapacitetit profesional pas kërkesës së Zyrës së Rregullatorit për Energjisë.
+12. Zyrtari i pajtueshmërisë ka qasje në zyrat e Operatorit të Sistemit të Transmetimit pa njoftim paraprak.

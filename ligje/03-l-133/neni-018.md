@@ -1,4 +1,0 @@
-# Neni 18
-Refuzimi i qasjes
-1. Operatorët e sistemit të bartjes, shpërndarjes dhe deponimit, mund ta refuzojnë qasjen ndaj sistemit në bazë të mungesës së kapaciteteve, apo në rastet kur qasja në sistem mund t’i pengojë ata në kryerjen e obligimeve të shërbimit publik, të referuara në paragrafin 2 të nenit 4 të këtij ligji, në bazë të vështirësive serioze ekonomike dhe financiare me kontratat merr-ose-paguaj, duke marrë parasysh kriteret dhe procedurat e përcaktuara me nenin 23 të këtij ligji. Refuzimi i tillë duhet të arsyetohet.
-2. Ministria mund të kërkojë nga një ndërmarrje e gazit natyror që refuzon të ofrojë qasje për stabilimentet e saj në bazë të mungesës së kapaciteteve ose të mungesës së kyçjes për investime të nevojshme deri në masën që do të ishte ekonomikisht e arsyeshme ose kur një konsumator i mundshëm është i gatshëm të paguajë për zgjerim të kapacitetit.
