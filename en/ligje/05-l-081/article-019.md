@@ -1,0 +1,5 @@
+# Article 19
+Types of regulated activities
+1. Energy activities shall be carried out as competitive, market-based, activities without prejudice to the right of the Regulator to impose public service obligations, in accordance with the Law on the Energy Regulator, Law on Electricity and Law on Natural Gas.
+2. All energy enterprises shall serve the interests of individual customers by providing a safe, efficient, and reliable supply of electricity, thermal energy or natural gas, ensuring the efficient use of energy resources; respecting the protection of the environment; and preserving the health, life, and property of the citizens of Kosovo.
+3. The costs and expenses incurred by energy enterprises in connection with the discharge of public service obligations shall, subject to review by the Regulator to ensure their reasonableness, are acknowledged as justified costs and expenses for the purposes of setting tariffs. The compensation for these costs must not exceed the costs incurred in the discharge of public service obligations, except for the profit which the Regulator considers reasonable for such services.

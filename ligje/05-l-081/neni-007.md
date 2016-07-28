@@ -1,0 +1,11 @@
+# Neni 7
+Programi i Zbatimit të Strategjisë së Energjisë
+1. Bazuar në Strategji, Ministria përgatit dhe Qeveria miraton Programin për Zbatimin e Strategjisë për periudhën tre (3) vjeçare. Ministria është përgjegjëse për zbatimin e Programit të Strategjisë.
+2. Programi për Zbatimin e Strategjisë përcakton masat, programet dhe aktivitetet që duhen zbatuar, përfshirë parashikimin e shpenzimeve dhe burimet e pritura të financimit, afatet kohore për zbatim, subjektet përgjegjëse për zbatimin e të gjitha aktiviteteve dhe aranzhimet monitoruese dhe raportuese mbi progresin.
+3. Programi për Zbatimin e Strategjisë, përcakton bashkëpunimin e nevojshëm me organet dhe institucionet e qeverive lokale në lëmin e planifikimit të sektorit të energjisë, si dhe bashkëpunimin e nevojshëm me ndërmarrjet e energjisë dhe organizatat ndërkombëtare.
+4. Për zbatimin e detyrave që kanë të bëjnë me Strategjinë, Qeveria miraton akt nënligjorë për themelimin, financimin dhe operimin e zyrave komunale të energjisë, për të adresuar çështjet e zbatimit dhe monitorimit në nivel lokal.
+5. Ministritë dhe institucionet tjera të Qeverisë, përfshirë organet e qeverive lokale, këshillojnë dhe ndihmojnë Ministrinë në zbatimin e Programit të Zbatimit të Strategjisë, në pajtim me detyrat dhe autorizimet e tyre.
+6. Ndërmarrjet e energjisë dhe personat tjerë janë të obliguar t’i përmbahen politikave dhe obligimeve që rrjedhin nga Strategjia dhe Programi i Zbatimit të Strategjisë, deri në masën e përcaktuar në Programin e Zbatimit të Strategjisë. Në rastet kur pajtueshmëria me këto politika apo obligime rezulton me kosto shtesë që mbulohen nga ndërmarrjet e energjisë, Ministria, në bashkëpunim me Zyrën e Rregullatorit siguron që:
+6.1. këto shpenzime të jenë në mënyrë transparente dhe jodiskriminuese; dhe që
+6.2. ndërmarrjet e energjisë të jenë në gjendje t’i mbulojnë këto shpenzime të arsyeshme, përmes mjeteve tjera dhe detyrimeve tek konsumatorët.
+7. Ministria paraqet raportin vjetor para Qeverisë, mbi progresin në realizimin e Programit të Zbatimit të Strategjisë, si dhe nivelin e zbatimit të Strategjisë. Të gjitha raportet përfshijnë hollësi mbi përparimin përkatës në zbatimin e Programit të Zbatimit të Strategjisë, në periudhën e mbuluar nga raporti, dhe do t’i paraqesin zhvillimet që priten në periudhën e mbetur të Programit.

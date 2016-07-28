@@ -1,0 +1,63 @@
+# Article 3
+Definitions
+1. Terms used in this Law shall have the following meanings:
+1.1. Energy activities – performance of one or more activities of energy generation, transmission, distribution, supply or storage;
+1.2. Co-generation – process of simultaneous generation of electricity and thermal energy by the same energy source and during the same technological process;
+1.3. Energy balance – official document which presents the estimate of the overall energy demand for a one (1) year or ten (10) year period, as well as measures the implementation of which is planned in order to meet the said energy demand;
+1.4. Bio-fuel –liquid or gaseous fuels, produced from biomass and used in transport;
+1.5. Renewable Energy Sources – renewable non-fossil energy sources, such as: wind energy, solar energy, geothermal waters, wave energy, hydro energy, biomass, waste landfill gas, wastewater treatment gas, biogas, as well as every technology that generates electricity and has the certificate of guaranteeing institutions for this technology;
+1.6. Energy from renewable sources - energy from renewable non-fossil sources, such as energy from water, wind, solar, sea, biomass, aerothermal energy, geothermal energy, energy from landfill gas, sewage treatment plant gas and biogases;
+1.7. Biomass - biodegradable fraction of products, waste and residues from biological origin from agriculture (including vegetal and animal substances), forestry and related industries including fisheries and aquaculture, as well as the biodegradable fraction of industrial and municipal waste;
+1.8. Renewable energy targets – policy objectives of reaching a share of energy produced from energy sources in gross final energy consumption until a deadline specified in this Law;
+1.9. Bio liquids - liquid fuel for energy purposes other than for transport, including electricity and heating and cooling, produced from biomass;
+1.10. Gross final consumption of energy - energy commodities delivered for energy purposes to industry, transport, households, services including public services, agriculture, forestry and fisheries, including the consumption of electricity and heat by the energy branch for electricity and heat production and including losses of electricity and heat in distribution and transmission;
+1.11. Energy efficiency –a ratio between an output of performance, service, goods or energy and an input of energy;
+1.12. Energy – any form of energy generation (electricity, thermal energy or natural gas) for the purpose of supply or sale;
+1.13. Electricity – form of potential energy of charges in the electric field, which through metallic conductors shall be transmitted to customers;
+1.14. Thermal energy – energy for heating/cooling, spaces, sanitary hot water and industrial water that transported and distributed through water, steam or gases, benefited from thermal energy facilities, using fuel, geothermal sources, solar energy, unused thermal energy, to supply for customers through central thermal energy systems;
+1.15. Supply – sale, including resale, of energy to customers;
+1.16. Supplier – energy enterprise performing the supply activity;
+1.17. Last Opportunity Supply – mandatory public service of electricity or gas supply under conditions regulated for final consumer who in specific conditions has remained without supplier;
+1.18. Gas – natural gas and all other kinds of gases (natural liquid gas, petroleum liquid gas, steam petroleum liquid gas, city gas, biogas and gas from biomass), in that level that these gases may, technically and in a secured manner, should be mixed in the flow of natural gas and transported through the gas system;
+1.19. Natural gas – mixture of hydro-carbonate compositions, in gaseous state or in a mixture with crude petroleum, in underground natural reservoirs. Primary hydro- carbonates commonly found in such mixtures are: methane, ethane; propane; butane and pentane;
+1.20. Interconnector- a transmission line which crosses or spans a border between Contracting Parties and which connects the national transmission systems of the Contracting Parties;
+1.21. Codes – rules that are intended to establish the minimum technical design, operational requirements and standards, and commercial terms for relevant activities in the energy sector, and which are required by Law to be submitted for approval to the Regulator;
+1.22. Customer –a wholesale or final customer of energy;
+1.23. Wholesale customer - a natural or legal person that purchases and sales energy, inside or outside the system where he is established, excluding the sale of the energy to the final consumer;
+1.24. Final customer–a customer purchasing energy for its own use;
+1.25. Household customer- a customer purchasing energy for his own household consumption, excluding commercial or professional activities;
+1.26. Customer in need –a household customer of energy who due to his social status and/or health condition, shall have the right to be supplied with the energy in certain conditions, determined by the respective Ministry of social welfare, in accordance with the Law on Electricity;
+1.27. Non-household customer –a natural or legal person purchasing energy which is not for his own household use and includes producers and wholesale customers;
+1.28. Connection to network/system – physical connection of the facilities of an energy enterprise with the transmission/transport network or distribution/system, according to the determined conditions;
+1.29. License – document issued by the Regulator which enables the licensee to perform activities in the energy sector for which a license is required, in accordance with the provisions of the Laws related to the energy sector;
+1.30. Tariff methodology –rules, methods and principles established by the Regulator, and applied when a setting regulated tariffs;
+1.31. Ministry - Ministry responsible for the energy sector;
+1.32. Energy enterprise –any natural or legal person generally organized as a joint stock company that performs one or more activities in energy, generation, transmission, distribution, supply, trading, market organization and is responsible for commercial, technical or maintenance related to the stated activities, excluding the final consumer;
+1.33. Public service obligation –a duty imposed on an enterprise, which may relate to the security of supply, regularity, quality and price of supplies, energy efficiency, energy from renewable sources and environmental and climate protection which is non-discriminatory and does not distort competition beyond what is strictly necessary in order to achieve the provision of the public service in question;
+1.34. Public Service - service that is available in any time to final consumers and energy enterprises, with the prize fixed and/or with the conditions of access and use of energy services which should be available, adequate and sustainable, taking into consideration the security, regularity and quality of the service, environmental protection, efficiency of energy use and environmental protection, which shall be performed in compliance with the transparency and non-discriminatory principles and under the supervision of the authorities determined by the Law;
+1.35. Universal Service – obligatory service of public supply with electricity to provide the certain categories of consumers with the right to be supplied with the electricity of the required quality, with the reasonable, easy comparable, transparent, impartial and non-discriminatory tariffs;
+1.36. Energy Distribution - distribution of the energy through the distribution network/ system;
+1.37. Distribution System Operator – a natural or legal person responsible for operating, ensuring the maintenance of and, if necessary, developing the distribution system in a given area and, where applicable, its interconnections with other systems and for ensuring the long-term ability of the system to meet reasonable demands for the distribution of energy;
+1.38. Transmission System Operator - a natural or legal person responsible for operating, ensuring the maintenance of and, if necessary, developing the transmission system in a given area and, where applicable, its interconnections with other systems, and for ensuring the long-term ability of the system to meet reasonable demands for the transmission of electricity;
+1.39. Metering device –instruments registered in the registry of certified metering equipment in the Republic of Kosovo, used for measurement of generated, transmitted, distributed, supplied and consumed energy;
+1.40. Long-term planning - planning of the need for investment in generation and transmission and distribution capacity on a long-term basis, with a view to meeting the demand of the system for energy and securing supplies to customers;
+1.41. Generation – physical or chemical process of converting the fuels or renewable sources of the energy into electricity, in heating or other forms of energy;
+1.42. Producer –a natural or legal person generating of energy;
+1.43. Gas generation - production, delivery and sale of gas, excluding the natural gas use;
+1.44. Energy producer - energy enterprise that produces energy and takes part in the energy market;
+1.45. Energy sector –activities of energy that include generation, transmission, distribution, transport, storage, sale, resale, purchase and supply;
+1.46. Security –both security of supply and provision of energy and technical safety;
+1.47. Security of supply – ability of energy systems to supply final customers with adequate amounts of energy in order to meet their demand;
+1.48. Interconnected system - a number of transmission and distribution systems linked together by means of one or more interconnectors;
+1.49. Energy facilities –any installation, building, facility, including any auxiliary or related facility, systems and equipment, to include poles, pylons, transmission or distribution lines and pipelines whether underground or over-ground, that are used by an energy enterprise for its energy activities, or form part of a generation plant, transmission system or a distribution system, or are part of any directly connected customer equipment, any interconnectors, or any direct lines, or (for the purposes of Article 28 of this Law only) on the date of entry into force of this law are used by an energy enterprise for its mining activities under the rights held by that enterprise as a licensee or permit holder in respect of those activities;
+1.50. Distribution – transport of energy through distribution systems with a view to its delivery to customers, but not including supply;
+1.51. Tariff – price or set of prices for energy, for use of energy systems, or for other energy related services;
+1.52. Public land – land owned directly or indirectly by the Republic of Kosovo;
+1.53. Statistical transfer – agreement that may be concluded by parties with the purpose of statistical transfer of energy generated from renewable sources;
+1.54. Transmission – transport of energy, through high voltage systems and interconnected high voltage systems, with a view to its delivery to final customers, or to operators of distribution system, but not including supply;
+1.55. Transit – transfer of the energy with the origin from another state, with the destination for a third country, through the network in the territory of Kosovo, or transmission of the energy with the origin from another state, with the destination for that country through the network of Kosovo;
+1.56. Trader – an entity that purchases or sales energy, excluding the sale of the energy for final consumers;
+1.57. Energy market - purchases and sales of the energy, excluding the sale for final clients;
+1.58. Energy Regulatory Office (Regulator) – an independent agency in the energy sector, established by the Law on Energy Regulator;
+1.59. Energy Community Secretariat (ECS) – institution that provides administrative assistance to the Ministerial Council, High Permanent Level Group, Regulatory Board and Forums, in the management of the development process of Energy Community.
+2. Other terms used in this Law shall have the meanings defined in the Law on Electricity, Law on Energy Regulator, Law on Natural Gas and Law on Thermal Energy.

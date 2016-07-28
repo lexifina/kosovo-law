@@ -1,0 +1,5 @@
+# Neni 21
+Informatat konfidenciale
+1. Ndërmarrjet e energjisë që ushtrojnë aktivitete në fushën e energjisë elektrike, energjisë termike apo gazit natyror janë të obliguara të ruajnë informatat konfidenciale gjatë ushtrimit të aktiviteteve dhe kryerjes së detyrave të tyre sipas këtij ligji, përveç nëse me ligje të tjera kërkohet që informatat e tilla të publikohen ose t’iu vihen në dispozicion organeve qeveritare sipas legjislacionit në fuqi.
+2. Përcaktimi i informatave konfidenciale bëhet sipas rregullave të nxjerra nga Rregullatori dhe legjislacioni në fuqi.
+3. Përjashtimisht nga paragrafi 1 i këtij neni, Rregullatori dhe Ministria, gjatë ushtrimit të autoritetit, funksionit dhe detyrave të tyre, mund t’iu kërkojnë ndërmarrjeve të energjisë edhe informata konfidenciale. Pas pranimit të informatave të tilla nga Rregullatori apo Ministria, nëse konsiderohet se këto informata janë të regjistruara dhe konfidenciale, ato duhet të mbrohen dhe nuk mund të jenë subjekt i ligjeve për qasje në dokumente publike.
