@@ -1,0 +1,7 @@
+# Article 8
+Status and Salaries of Members of the Board and Personnel
+1. The salary of the Chairperson and members of the Board shall be set by the Assembly until the issuance of the respective Law on Salaries of Senior Public Officials.
+2. Wages and salaries of the personnel of the Regulator shall be set by the Board, taking into consideration the level of the salaries in the sector regulating it.
+3. For a period of one (1) year after the termination of the mandate as a member of the Board, former member shall be prohibited from representing in front of the Board on behalf of an energy enterprise licensed under this Law, or an entity directly or indirectly controlled by such licensed enterprise.
+4. No person shall, while a serving member of the Board, have the right to initiate negotiations, or become involved in negotiations, concerning his/her employment or consulting work, with any energy enterprise licensed under this Law or an entity directly or indirectly controlled by such licensed enterprise.
+5. No energy enterprise licensed under this Law, or an entity directly or indirectly owning or controlled by such licensed enterprise, shall have the right to initiate negotiations or become involved in negotiations concerning employment of or the use of the consulting services of a member of the Board. The licensed energy enterprise engaging in negotiations in breach of this paragraph shall be considered in breach of its license, and dealt with accordingly by the Regulator.

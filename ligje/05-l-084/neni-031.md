@@ -1,0 +1,3 @@
+# Neni 31
+Marrëveshja për furnizim
+Rregullatori do të sigurojë që të gjithë konsumatorët të kenë të drejtë për të përzgjedhur furnizuesin, në bazë të marrëveshjeve të furnizimit, pa marrë parasysh se në cilat shtete/Palë Kontraktuese të Komunitetit të Energjisë, është i regjistruar furnizuesi, përderisa furnizuesi t’i përmbahet rregullave të tregtimit dhe balancimit të përcaktuara nga autoritet përgjegjëse në Kosovë sipas legjislacionit në fuqi. Në këtë drejtim, Rregullatori duhet të ndërmarrë të gjitha masat e domosdoshme për të siguruar se procedurat administrative nuk diskriminojnë ndërmarrjet e furnizimit të regjistruara në shtetet tjera Palë Kontraktuese të Komunitetit të Energjisë.

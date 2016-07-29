@@ -1,7 +1,0 @@
-# Neni 7
-Statusi dhe pagat e anëtarëve të Bordit dhe personelit
-1. Asnjë anëtar i Bordit apo punonjës i Zyrës së Rregullatorit për Energji nuk ka status të nëpunësit civil.
-2. Anëtarët e Bordit do të paguhen me paga mujore dhe mëditje tjera në pajtim me ligjin e aplikueshëm për pagat e zyrtarëve të lartë publik.
-3. Për një periudhë njëvjeçare pas mbarimit të mandatit si anëtar i Bordit, personit të tillë i ndalohet të paraqitet para bordit në emër të një ndërmarrjeje për energji të licencuar në bazë të këtij ligji, apo një subjekti që kontrollohet në mënyrë direkte apo indirekte nga një ndërmarrje e licencuar.
-4. Gjatë shërbimit si anëtar i Bordit të Zyrës së Rregullatorit për Energji, asnjë person nuk ka të drejtë të fillimit të negociatave, apo të përfshihet në negociata, në lidhje me punësimin e tij/saj apo ofrimin e konsulencës nga ai/ajo me asnjë ndërmarrje energjetike të licencuar sipas këtij ligji, apo me ndonjë subjekt që kontrollohet në mënyrë direkte apo indirekte nga një ndërmarrje e licencuar.
-5. Asnjë ndërmarrje energjetike e licencuar sipas këtij ligji, apo subjekt që kontrollohet në mënyrë direkte apo indirekte nga një ndërmarrje e licencuar, nuk ka të drejtë të fillojë negociata, apo të përfshihet në negociata në lidhje me punësimin apo shfrytëzimin e shërbimeve konsulente të asnjë anëtari të Bordit. Kompanitë energjetike të licencuara që hyjnë në negociata që janë në shkelje të këtij paragrafi do të konsiderohet se janë duke shkelur licencën e tyre dhe do të trajtohen përkitazi nga Zyra e Rregullatorit për Energji.

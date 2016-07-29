@@ -1,0 +1,3 @@
+# Article 31
+Supply Agreement
+Regulator shall ensure that all customers have the right of choosing their supplier, based on supply agreements, regardless of which member/contracted parties of energy community, the supplier is registered in, as far as the supplier respects/follow compliance with trading and balancing rules defined from responsible institution, according to the laws in Kosovo. In this regard, the Regulator shall undertake all measures necessary to ensure that, the administrative procedures shall not discriminate supply enterprises registered in other states as contracted parties of Energy Community.

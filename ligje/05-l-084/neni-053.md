@@ -1,0 +1,9 @@
+## KAPITULLI XI
+## BANKROTIMI I TË LICENCUARVE
+# Neni 53
+Procedura në rast bankrotimi
+1. Në rastin e likuidimit apo bankrotimit të një të licencuari, Rregullatori ka kompetencë ta revokojë licencën dhe t’ia transferojë detyrimet e këtij të licencuari të një i licencuar tjetër i cili pajtohet të marrë përsipër detyrimet apo ta detyrojë të kryejë këto obligime, sipas dispozitave të licencës, megjithatë, ky nen nuk zbatohet për një proces të riorganizimit i cili mbikëqyret nga gjykata nëse i licencuari vazhdon veprimtarinë e tij gjatë këtij procesi.
+2. Në rast se asnjë nga të licencuarit ekzistues nuk është në gjendje apo nuk do që të marrë përsipër detyrimet e të licencuarit të bankrotuar apo të likuiduar, Rregullatori bën të gjitha përpjekjet për të siguruar transferimin e atyre aseteve që janë të domosdoshme për vazhdimin e aktivitetit të licencuar tek i licencuari i ri.
+3. Rregullatori mund të përfshijë në licencën e cilësdo ndërmarrje të energjisë që i nënshtrohet obligimeve të shërbimit publik një obligim që i kërkon të licencuarit të marrë përsipër detyrimet e furnizimit të konsumatorëve të një të licencuari të bankrotuar apo të likuiduar për një periudhë të caktuar kohore, ose me kushtet dhe kriteret e njëjta për furnizim, ose të ndryshuara, si dhe me kusht që ndërmarrja e energjisë të cilës i janë vënë obligimet është në gjendje të rikthejë kostot shtesë të imponuara nga obligimet.
+KAPTIULLI XII
+MBIKËQYRJA
