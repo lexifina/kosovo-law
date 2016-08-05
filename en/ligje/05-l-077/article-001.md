@@ -1,0 +1,2 @@
+# Article 1
+Purpose The purpose of this Law shall be to regulate the conditions and procedures for registration of unemployed, jobseekers and employers, providing the employment services and measures by the Employment Agency of the Republic of Kosovo (hereinafter EARK) as well as their obligations to EARK, to receive these services aimed at increasing employment and prevention of long-term unemployment in the Republic of Kosovo.

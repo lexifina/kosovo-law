@@ -1,0 +1,2 @@
+# Neni 1
+Qëllimi Qëllimi i këtij ligji është që të rregullohen kushtet dhe procedurat e regjistrimit të të papunësuarve, punëkërkuesve dhe punëdhënësve, ofrimin e shërbimeve dhe masave për punësim nga Agjencia e Punësimit e Republikës së Kosovës në tekstin e mëtejmë (APRK) dhe detyrimet e tyre ndaj APRK, për të marrë këto shërbime që kanë synim rritjen e punësimit dhe parandalimin e papunësisë afatgjate në Republikën e Kosovës.
