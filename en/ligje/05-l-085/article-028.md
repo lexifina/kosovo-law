@@ -1,0 +1,46 @@
+# Article 28
+Responsibilities and Rights of the Distribution System Operation 1. Responsibilities and rights of the Distribution System Operator are:
+1.1. distribution system operation;
+1.2. provision of coordinated functioning of the distribution system linked to networks of other operators and network user facilities;
+1.3. operation of the distribution system, in order to achieve reliability of electricity supply and economic use of the distribution network;
+1.4. provision of connections in the distribution network, in accordance with this law, for all system users requiring such connection, in accordance with the connection requirements defined in the Distribution Grid Code;
+1.5. provision of access to the distribution network, in accordance with regulatory, transparent and non-discriminatory principles, for system users or categories of system users, especially by not favouring its subsidiaries or shareholders;
+1.6. act in compliance with supply quality and distribution system safety standards, as approved by the Regulatory;
+1.7. ensure in emergency situations, stipulated by the Law on Energy, that interruptions of supply are conducted based on predetermined, non-discriminatory and transparent criteria;
+1.8. give priority to dispatch of electricity generation from renewable energy resources and co-generation, subject only to any limits specified for purposes of system security by the Transmission Grid Code and Distribution Grid Code;
+LAW No. 05/L-085 ON ELECTRICITY 1.9. establish and publish standard rules on cost coverage for technical adaptations in its distribution system, such as network connections or network reinforcements, which are necessary to integrate new electricity generation facilities of producers connected in the distribution system. Such rules shall be in compliance with the Energy Strategy and based on objective, transparent and non-discriminatory objectives, taking into consideration, specifically, all costs and profits related to the connection of such users in the system. Such rules shall be submitted for approval to the Regulatory;
+1.10. provide any new electricity producer wishing to be connected to the distribution system with a comprehensive and detailed description of the costs associated with the connection. For this service the Distribution System Operator may levy a charge that reflects its reasonable costs;
+1.11. establish and publish standards and rules relating to the sharing of costs of system installations, such as grid connections and reinforcements, between all system users benefiting from the system. Such rules shall be submitted for approval to the Regulatory, and shall be consistent with the Energy Strategy and all other applicable sub-legal acts;
+1.12. draft tariff methodologies for access and connection to the distribution system and application of tariffs for use of the distribution system and connection charges, in accordance with transparent and non-discriminatory principles that provide efficient economic signals for system users. methodologies, tariffs, charges and calculation methodology shall be approved by the Regulatory, and shall be published in the web- page of the Distribution System Operator, fifteen (15) days prior to the date of their application, in accordance with rules and procedures set forth in the Law on Energy Regulator;
+1.13. provide data from commercial metering points of producers and suppliers c connected in the distribution network, for final calculation settlement purposes;
+1.14. ensure availability of distribution capacities for electricity distribution for customers and producers connected in the distribution network;
+1.15. provide information to energy entities and distribution network users, which is necessary for effective access to the network and use of the distribution network, in a transparent and non-discriminatory manner;
+1.16. establish and maintain a register of customers in need;
+1.17. provide information on electricity demand estimates and other information required by the Transmission System Operator, the Regulatory or Ministry;
+1.18. implement measures to improve efficiency of energy distribution;
+1.19. protect the environment;
+1.20. execute agreements for provision of ancillary services with the Transmission System Operator, with the view of providing transmission system services;
+1.21. provide electricity for covering losses in the distribution system and for ancillary
+LAW No. 05/L-085 ON ELECTRICITY services in the distribution network, in accordance with the principles of electricity market, transparency and non-discrimination;
+1.22. execute agreements with distribution system users on provision of ancillary services, with the view of providing ancillary services in the distribution network in an economical and efficient manner;
+1.23. maintain a register of metering points for all respective parties for imbalance in the delivery points in the distribution network;
+1.24. analyze losses in the distribution network on annual basis, including assessment of technical losses and unauthorized electricity consumption and, if necessary, development and implementation of measures for loss reduction;
+1.25. prepare within any current year the annual plan of distribution losses for the forthcoming year, and submit it for approval to the Regulatory. The annual plan of losses shall include an assessment of technical losses and unauthorized electricity consumption;
+1.26. develop ten (10) year plans harmonized with the ten (10) year transmission network development plan, which shall be approved by the Regulatory, and fulfill obligations deriving from such plans;
+1.27. develop a five (5) year plan for distribution network development within any current year for five (5) year period, which shall be harmonized with the ten (10) year distribution network development plan, with spatial planning documentation and harmonized with the five (5) year transmission network development plan, which shall be approved by the Regulatory;
+1.28. compile within any current year an annual investment plan for the forthcoming year, which shall be approved by the Regulatory, and shall be harmonized with the ten (10) year and five (5) year distribution network development plan and with the relevant spatial planning documentation;
+1.29. maintain metering systems, collect and process data from commercial metering points of network users, in compliance with this law and Metering Code;
+1.30. support municipalities in preparing their local development plans, programs and strategies on matters affecting the distribution system;
+1.31. make available to the Transmission System Operator copies of five (5) year and ten (10) year distribution system development plans;
+1.32. comply of all actions with the Transmission Grid Code, Distribution Grid Code and all other codes and rules in force.
+2. The Distribution System Operator shall report to the Regulatory, as provided in its license and the Law on the Energy Regulator, and provide it with information on such matters it may specify, in such form and at such intervals as may be required by the latter.
+LAW No. 05/L-085 ON ELECTRICITY 3. The Distribution System Operator shall provide information to local governance units necessary for local developing planning while respecting the confidentiality of individual network users.
+4. The Distribution System Operator shall draft and regularly review the Distribution Grid Code for its system, in respective consultation with operators of other systems to which it is connected, and shall submit any potential changes for approval to the Regulatory.
+5. The Distribution Grid Code shall cover such matters as the Regulatory may specify, including:
+5.1. the minimum rules for design and operation of the distribution system, including obligations for maintaining an appropriate level of system security and reserve capacity;
+5.2. the technical rules establishing the minimum technical design and operational criteria for connection to the transmission system and interconnection and operation of other systems;
+5.3. the procedures applicable for system operations in contingency situations.
+6. The Distribution Grid Code shall be based on principles of interoperability of systems, objectivity and non-discrimination, and shall be applied and made public based on such principles;
+7. The Distribution System Operator shall be responsible for implementation of the Distribution Grid Code and reports on an annual basis to the Regulatory on its implementation.
+8. The Distribution System Operator shall be entitled to bill for and collect the remuneration due to it under the contracts for use of its system and for all other services provided. The terms and conditions, including rules and tariffs, for the provision of services by the Distribution System Operator shall be established in a non-discriminatory and cost-reflective way, and shall be submitted for the approval to the Regulatory. Upon approval by the Regulatory, they shall be made public.
+9. Distribution System Operator shall sell the energy required for the efficient operation of its distribution system, and any maintenance or other services required according to transparent, non-discriminatory and market-based procedures.

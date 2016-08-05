@@ -1,0 +1,16 @@
+## CHAPTER IV
+## ORGANIZATION OF THE ElECTRICITy MARKET
+# Article 22
+Electricity Market 1. The electricity market includes wholesale and retail electricity markets.
+2. Wholesale and retail sale and purchase of electricity is contracted through bilateral contracts or through the organized electricity market.
+3. The bilateral electricity market is the market in which electricity sale and purchase is conducted directly between electricity market participants, based on bilateral electricity sale and purchase agreements.
+LAW No. 05/L-085 ON ELECTRICITY 4. Trading of electricity in frame of the electricity market is done freely and based on economic interests of each participant.
+5. Publicly owned Electricity undertakings and those enterprises that provide public services, trade (bargain) electricity, needed for disbursement of their duties and responsibilities under the license, is carried out based on Procedures for trade of electricity which are proposed by the Transmission System Operator and approved and published by the Regulatory. In order to ensure efficiency of costs and cheapest price possible, taking into account specificities of the electricity market, these procedures are not subject to requirements of the Law on Public Procurement.
+6. Transmission System Operator is responsible for day ahead validation of contractual electricity sale and purchase schedules of parties inside Republic of Kosovo and cross border schedules, based on contractual obligations deriving from sales and purchases in the electricity market.
+7. The Market Operator and the Transmission System Operator are responsible for the organization of the day-ahead and intraday electricity market for physical trading of electricity in the entire territory of Republic of Kosovo, and for its coupling with other electricity markets. The possibility of constitution of a financial electricity auction shall not be restricted by the Market Operator.
+8. Transmission System Operator is responsible for organization and development of the balancing electricity market.
+9. In the balancing electricity market, the Transmission System Operator receives bids and offers in the balancing market for purposes of electricity system balancing, in order to guarantee operational safety of the electricity system, undertakes measures and activates electricity bids and offers for balancing purposes, based on economic merit order list.
+10. Market System Operator is responsible for calculation of electricity imbalance and imbalance prices for each market participant for each specified settlement period and for billing, in compliance with Market Rules.
+11. Participation in the balancing electricity market is regulated through agreements on balancing service provision, which the Transmission System Operator executes with balancing service providers. Such agreements shall contain a part of market rules related to electricity balancing and final settlements of balancing energy.
+12. The Market Operator shall perform the final financial settlement of balancing services provided.
+13. The Transmission System Operator shall inform the Regulatory on contracts on balancing services executed with balancing service providers and on the monthly implementation of such contracts, upon request of the Regulatory.

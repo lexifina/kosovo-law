@@ -1,0 +1,3 @@
+# Neni 20
+Informatat konfidenciale 1. Operatori i Sistemit të Transmetimit duhet të ruajë informatat konfidenciale gjatë kryerjes së aktiviteteve të veta. Publikimi apo zbulimi i informacioneve nga Operatori i Sistemit të Transmetimit lidhur me veprimtarinë e tij që mund t’i sjell përparësi ose përfitim ndonjë personi tjetër, kryhet në mënyrë jodiskriminuese.
+2. Pavarësisht nga paragrafi 1. i këtij neni, Ministria përgjegjëse për energji apo Rregullatori mund të kërkojnë nga Operatori i Sistemit të Transmetimit informacione konfidenciale të domosdoshme për t’i zbatuar funksionet, autorizimet, detyrat dhe përgjegjësitë e tyre.

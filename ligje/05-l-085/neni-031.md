@@ -1,0 +1,4 @@
+# Neni 31
+Shthurja dhe transparenca e llogarive 1. Ndërmarrjet e Energjisë që kryejnë aktivitete të rregulluara të energjisë duhet të ndajnë llogaritë e tyre të brendshme për këto aktivitete në formë të tillë sikur këto aktivitete të zhvilloheshin nga ndërmarrje të veçanta me qëllim që të shmanget diskriminimi, subvencionet e ndërsjella dhe
+LIGJI Nr. 05/L - 085 PËR ENERGJINË ELEKTRIKE shtrembërimi i konkurrencës. Ato gjithashtu duhet të mbajnë llogari , të cilat mund të jenë të konsoliduara , për aktivitete tjera të energjisë elektrike jo të rregulluara.
+2. Të gjitha ndërmarrjet e energjisë duhet të kenë llogaritë e ndara për aktivitetet e licencuara të tyre dhe për të gjitha aktivitetet tjera dhe duhet të sigurojnë se këto llogari janë audituar. Kur është e përshtatshme, ata do të mbajnë llogari të konsoliduara për, aktivitetet e tjera jo energjetike.

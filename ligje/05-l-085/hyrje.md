@@ -1,0 +1,1 @@
+LIGJI Nr. 05/L - 085 PËR ENERGJINË ELEKTRIKE LIGJI Nr. 05/L - 085 PËR ENERGJINË ELEKTRIKE Kuvendi i Republikës së Kosovës, Në mbështetje të Nenit 65 (1) të Kushtetutës së Republikës së Kosovës, Miraton: LIGJ PËR ENERGJINË ELEKTRIKE

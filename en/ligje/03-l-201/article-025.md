@@ -1,3 +1,0 @@
-# Article 25
-Development of competition
-The Energy Regulatory Authority, in consultation with the Kosovo Competition Commission and the authority responsible for monitoring State aid, shall, at least every three (3) years, carry out investigations into the functioning of the electricity market, and decide upon and impose any necessary and proportionate measures to promote effective competition and ensure the proper functioning of the market. These measures may include electricity release programmes whereby electricity undertakings are obliged to sell or make available a certain volume of electricity or grant access to part of their generation capacity to interested suppliers for a certain period of time.

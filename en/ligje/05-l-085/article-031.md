@@ -1,0 +1,3 @@
+# Article 31
+Unbundling and transparency of accounts 1. Energy Enterprises that carry out regulated energy activities shall separate their internal accounts for each of these activities as if the activities in question were carried out by special enterprises, with a view to avoiding discrimination, cross subsidies and distortion of competition. They shall also keep accounts, which may be consolidated, for other non-regulated electricity activities.
+2. All energy enterprises shall have separate accounts for their licensed energy activities and for all other activities and shall ensure that such accounts are audited. Where appropriate, they shall keep consolidated accounts for other, non-energy activities.

@@ -1,0 +1,25 @@
+# Article 7
+Obligations and rights of electricity producers 1. Electricity producers shall be obligated to:
+1.1. comply with all conditions stipulated in the license for carrying out the generation activity, if such a license is required;
+1.2. offer their capacity in a transparent, non-discriminatory and market-based way to all customers on the wholesale and retail electricity markets, including those under
+LAW No. 05/L-085 ON ELECTRICITY public service obligations;
+1.3. fulfil all technical and operational requirements, and especially conditions prescribed in the Transmission Grid Code and Distribution Grid Code, and rules prescribed in applicable technical regulations and standards;
+1.4. act in compliance with competition rules, when participating in the electricity market;
+1.5. maintain generation facilities and guarantee their operational safety and reliability, in accordance with the technical rules and standards;
+1.6. offer the Transmission System Operator and Distribution System Operator ancillary and balancing services, in compliance with the principles of electricity markets and in conformity with dynamic parameters of the Transmission Grid Code and Distribution Grid Code, and rules on organization of the electricity market; and to sign contracts based on the agreements reached in such cases and based on the contract to activate the generation facilities upon request of the Transmission System Operator and the Distribution System Operator in order to provide ancillary and balancing services;
+1.7. offer generation capacities available to the Transmission System Operator, for balancing, system operation and safety purposes;
+1.8. act in compliance with legislation related to environmental protection, to ensure permanent control on environmental impacts;
+1.9. equip themselves with adequate metering devices for the measurement of electricity that enters the system;
+1.10. comply with all other obligations that may arise from the implementation of this law, and related laws, regulations, rules or codes;
+1.11. where at least one of its generation assets has an installed capacity of more than five (5) MW, shall for a period of five (5) years keep at the disposal of the Regulatory, the Kosovo Competition Authority, and the Energy Community Secretariat or other international agreement or international legal acts binding on Kosovo mandated with such related tasks, all hourly data per plant that is necessary to verify all operational dispatching decisions and the bidding behavior at power exchanges, interconnection auctions, reserve markets and over-the-counter-markets. The per hour/per-plant information to be stored shall include, but shall not be limited to, data on available generation capacity and committed reserves, including allocation of those committed reserves on a per-plant level, at the times the bidding is carried out and when production takes place.
+1.12. to the extent required by the security of energy supply, the Regulatory may impose a temporary public service obligation on producers to sell the electricity generated at regulated conditions to a supplier under public service obligation, in compliance with the conditions stipulated in Article 5 of this law. The Decision by Regulatory shall be published and submitted to the Secretariat of the Energy Community.
+1.13. Regulatory may require electricity producers to sell a certain share of their capacity at the organized electricity market.
+LAW No. 05/L-085 ON ELECTRICITY 2. Producers of electricity, subject to the provisions of this Law, the Law on the Energy Regulator, and the relevant licenses, codes, and rules prescribed by the Regulatory, shall be entitled to:
+2.1. use energy sources they consider most suitable for the process of generation at their electricity plants, subject to the use of resources being conducted in compliance with all relevant technical and environmental requirements and energy efficiency;
+2.2. connect their power plants to the transmission system or distribution system, in compliance with respective rules and conditions;
+2.3. sell electricity in compliance with conditions of this law, other acts, and especially in compliance with the Market Rules;
+2.4. purchase electricity for their own purposes;
+2.5. access transmission and distribution systems, in compliance with respective rules and conditions;
+2.6. bill and collect payments, due to them under the signed contracts, for the sale of electricity, capacity, ancillary services and other contracted services.
+3. Electricity producers shall draft a program of measures to be undertaken with the view of increasing generation efficiency, and shall report to the Regulatory on annual basis;
+4. Producers connected to the transmission network or distribution network shall make the technical preparations in order to meet all technical conditions for the provision of ancillary services for said operators, in compliance with principles set forth in the Transmission Grid Code and Distribution Grid Code.

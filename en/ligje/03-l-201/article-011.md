@@ -1,8 +1,0 @@
-## CHAPTER IV
-## ELECTRICITY TRANSMISSION
-# Article 11
-Transmission System Operator
-1. The Transmission System Operator shall own and be responsible for the operation of the transmission system in Kosovo, and will own any other assets that are necessary for this activity, in accordance with a license issued by the Energy Regulatory Office.
-2. The Transmission System Operator shall be an independent joint-stock company, shall not be part of a vertically integrated electricity enterprise, and shall be independent from activities not related to transmission or to the administration of the electricity market, in terms of its legal form, organization, and decision making processes.
-3. In order to ensure the independence of the Transmission System Operator, the persons responsible for its management may not, directly or indirectly, participate in any company structures or any decision- making processes of the Ministry, the Energy Regulatory Office, or any other energy enterprise responsible for generation, maintenance, supply, servicing, distribution, or coal mines or other supplies of fuel.
-4. The Transmission System Operator shall establish, and the Energy Regulatory Office shall approve, a compliance programme, which sets out measures to be taken to ensure that discriminatory conduct is excluded and to ensure that the observance of such programme is adequately monitored. The programme shall set out the specific obligations of the employees of the Transmission System Operator to meet this objective. An annual public report, setting out the measures taken, shall be submitted by the person or body responsible for monitoring the compliance programme to the Energy Regulatory Office.

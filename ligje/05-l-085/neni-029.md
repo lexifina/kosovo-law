@@ -1,0 +1,4 @@
+# Neni 29
+Informatat konfidenciale 1. Operatori i Sistemit të Shpërndarjes duhet të ruajë konfidencialitetin e informacionit të ndjeshëm afarist që merr gjatë kryerjes së aktivitetit të tij si dhe duhet të parandalojë informacionet mbi aktivitetet e tij që mund të krijojnë përparësi komerciale nëse zbulohen në mënyrë diskriminuese.
+2. Operatori i Sistemit të Shpërndarjes i raporton Rregullatorit, siç përcaktohet në licencën e tij dhe Ligjin e Rregullatorit për Energji dhe i ofron asaj informata mbi çështjet që mund të kërkohen, në formën dhe intervalet kohore të përcaktuara prej saj.
+3. Pavarësisht paragrafit 1. të këtij neni, Ministria ose Rregullatori mund t’i kërkojnë Operatorit të Sistemit të Shpërndarjes që t’iu ofrojë informacion konfidencial i cili është i domosdoshëm për t’i kryer funksionet, autorizimet dhe detyrat e tyre.

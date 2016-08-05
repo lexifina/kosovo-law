@@ -1,0 +1,4 @@
+# Article 9
+Fuel reserves and/or of generating capacity 1. Licensed electricity producers shall maintain sufficient quantities of fuel reserves to ensure continuous and reliable electricity production, as well as special reserves for generation capacities that provide ancillary services for system operators for an initial period of two (2) years upon the entry into force of this Law. Compensation received for this obligation shall be reviewed by State Aid Office. The costs of fuel reserves and of reserve capacity of a producer are considered as operating costs.
+2. The level of fuel reserves that electricity producers should maintain shall be determined and published regularly by the Ministry.
+3. The Ministry shall issue secondary legislation regarding the level of fuel reserves that should keep electricity producers.

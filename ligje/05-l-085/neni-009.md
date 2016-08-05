@@ -1,0 +1,4 @@
+# Neni 9
+Rezervat e lëndëve djegëse dhe/ose e kapacitetit prodhues 1. Prodhuesit e licencuar të energjisë elektrike duhet të mbajnë sasi të mjaftueshme të rezervave të lëndëve djegëse, për të siguruar prodhim të vazhdueshëm dhe të besueshëm të energjisë elektrike, si dhe rezerva të veçanta për kapacitetet gjeneruese për të ofruar shërbime ndihmëse për operatorët e sistemit për një periudhë fillestare prej dy (2) vitesh pas hyrjes në fuqi të këtij ligji. Kompensimi për këtë detyrim duhet të shqyrtohet nga Zyra e ndihmës shtetërore. Kostot e rezervës së lëndës djegëse dhe të kapacitetit rezervë të një prodhuesi konsiderohen si kosto operimi.
+2. Niveli i rezervave të lëndëve djegëse që duhet të mbajnë prodhuesit e energjisë elektrike përcaktohet dhe publikohet rregullisht nga Ministria.
+LIGJI Nr. 05/L - 085 PËR ENERGJINË ELEKTRIKE 3. Ministria nxjerr akt nënligjor lidhur me nivelin e rezervave të lëndëve djegëse që duhet të mbajnë prodhuesit e energjisë elektrike.

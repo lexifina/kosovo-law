@@ -1,0 +1,5 @@
+# Neni 26
+Zhvillimi i Konkurrencës 1. Rregullatori, në konsultim me Autoritetin Kosovar të Konkurrencës dhe me Zyrën e Ndihmës Shtetërore, së paku çdo dy (2) vite duhet të kryejë hetime lidhur me funksionimin e tregut të energjisë elektrike. Raportet e Rregullatorit duhet të publikohen pa vonesë.
+2. Rregullatori mund të përcaktojë masa të nevojshme dhe proporcionale të obligimeve të shërbimit publik, me qëllim të nxitjes të konkurrencës efektive dhe për të siguruar funksionimin e rregullt të tregut të energjisë elektrike. Këto masa mund të përfshijnë programet për ofrimin në treg të sasive të caktuara të energjisë elektrike, sipas të cilit subjektet obligohen të shesin ose të vënë në disponim sasi të caktuara të energjisë elektrike ose mundësimin e qasjes në një pjesë të kapaciteteve të tyre prodhuese, furnizuesve të interesuar, për një periudhë kohore të caktuar.
+3. Masat e parapara me paragrafin 2. të këtij neni do të përcaktohen me një akt të veçantë i cili hartohet dhe miratohet nga Rregullatori pas konsultimit me Sekretariatin e Komunitetit të Energjisë.
+LIGJI Nr. 05/L - 085 PËR ENERGJINË ELEKTRIKE

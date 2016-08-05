@@ -1,0 +1,12 @@
+# Article 11
+Unbundling 1. The Transmission System Operator will own the transmission system which must be independent from generation and supply operations of electricity and conducted in accordance with the principles and requirements as set forth in the provisions of this law.
+2. The independence of the Transmission System Operator shall be considered ensured, in accordance with this law, when:
+2.1. person or persons that exercise direct or indirect control over enterprises that perform generation or supply functions do not exercise control or exercise any right, directly or indirectly, over the Transmission System Operator or over a Transmission System 2.2. person or persons that exercise direct or indirect control over the Transmission System Operator or over a Transmission System do not exercise control or exercise any right, directly or indirectly, over enterprises that perform generation or supply functions
+LAW No. 05/L-085 ON ELECTRICITY 2.3. the person or persons that appoint members of the supervisory board, the administrative board or bodies legally representing the undertaking of a Transmission System Operator are not entitled to directly or indirectly exercise control or exercise any right over an undertaking performing any of the functions of generation or supply.
+2.4. the same person is not entitled to be a member of the supervisory board, Administrative Board or other bodies that legally represent enterprises that perform functions of generation or supply and of bodies of the Transmission System Operator or a Transmission System.
+2.5. rights referred to in sub-paragraph 2.1., 2.2. and 2.3. of this Article, shall include, in particular:
+2.5.1. authority to exercise voting rights;
+2.5.2. authority to appoint members of the supervisory board, administrative board or bodies legally representing the enterprise; or 2.5.3. holding majority shares.
+3. Enterprises of energy that perform functions of generation or supply shall not have the right to directly or indirectly exercise control or any right over the Transmission System Operator and vice versa.
+4. When the person referred to in sub-paragraph 2.1., 2.2. and 2.3. of this Article is a public body, then the same public body may not exercise control over active undertakings in the production and/or supply of electricity.
+5. Before an enterprise is defined as a Transmission System Operator under provisions of this Article, it should be certified in accordance with the procedures stipulated in the Law on Energy Regulatory.

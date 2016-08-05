@@ -1,0 +1,13 @@
+# Neni 11
+Shthurja 1. Operatori i Sistemit të Transmetimit mban në pronësi sistemin e transmetimit i cili duhet të jetë i pavarur nga veprimtaria e prodhimit dhe furnizimit me energji elektrike dhe të kryhet në përputhje me parimet dhe kërkesat e përcaktuara në dispozitat e këtij ligji.
+2. Pavarësia e Operatorit të Sistemit të Transmetimit konsiderohet e siguruar, sipas këtij ligji, atëherë kur:
+2.1. personi apo personat që ushtrojnë kontroll të drejtpërdrejt apo të tërthortë mbi ndërmarrjen, që kryen funksionet e prodhimit apo të furnizimit, nuk ushtrojnë kontroll apo të drejta mbi Operatorin e Sistemit të Transmetimit apo Sistemin e Transmetimit;
+2.2. personi apo personat që ushtrojnë kontroll të drejtpërdrejt apo të tërthortë mbi Operatorin e Sistemit të Transmetimit ose mbi Sistemin e Transmetimit nuk ushtrojnë në mënyrë të drejtpërdrejtë apo të tërthortë çfarëdo kontrolli apo të drejte mbi ndërmarrjet që kryejnë funksione të prodhimit apo furnizimit;
+2.3. personi ose personat që emërojnë anëtarët e Bordit mbikëqyrës, bordit administrativ ose organeve që përfaqësojnë ligjërisht ndërmarrjen e Operatorit të Sistemit të Transmetimit nuk u lejohet që drejtpërdrejtë apo tërthorazi të ushtrojnë kontroll ose ndonjë të drejtë mbi ndërmarrjen që kryen aktivitete të gjenerimit ose furnizimit;
+2.4. i njëjti person nuk ka të drejtë të jetë anëtar i Bordit mbikëqyrës, apo Bordit administrativ ose organeve tjera që ligjërisht i përfaqësojnë ndërmarrjet që kryejnë funksione të prodhimit apo furnizimit dhe të atyre të Operatorit të Sistemit të Transmetimit ose Sistemit të Transmetimit;
+2.5. të drejtat të cilave u referohet në nën-paragrafet 2.1., 2.2. dhe 2.3. të këtij neni përfshijnë, në mënyrë të posaçme:
+LIGJI Nr. 05/L - 085 PËR ENERGJINË ELEKTRIKE 2.5.1. autoritetin për të ushtruar të drejta të votimit;
+2.5.2. autoritetin për të emëruar anëtarë të Bordit mbikëqyrës, Bordit administrativ apo organeve që ligjërisht e përfaqësojnë ndërmarrjen; apo 2.5.3. mbajtjen e shumicës së aksioneve.
+3. Ndërmarrjet e energjisë që kryejnë funksione të prodhimit apo furnizimit nuk kanë të drejtë që në mënyrë drejtpërdrejtë apo tërthortë të ushtrojnë çfarëdo lloj kontrolli apo të drejte mbi Operatorin e Sistemit Transmetimit si dhe anasjelltas.
+4. Në rastet kur personi të cilit i referohet në nën-paragrafet 2.1.,2.2. dhe 2.3. të këtij neni, është organ publik, i njëjti nuk mund të ushtrojë kontroll mbi ndërmarrjet që janë aktive në prodhimin dhe /ose furnizimin e energjisë elektrike.
+5. Para se një ndërmarrje të përcaktohet si Operator i Sistemit të Transmetimit sipas dispozitave të këtij neni, ajo duhet të certifikohet në pajtim me procedurat e përcaktuara në Ligjin për Rregullatorin e Energjisë.

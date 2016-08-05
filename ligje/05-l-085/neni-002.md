@@ -1,0 +1,2 @@
+# Neni 2
+Fushëveprimi Fushëveprimi i këtij ligji përfshin rregullat e përbashkëta për prodhimin, transmetimin, shpërndarjen, furnizimin, tregtimin dhe tregun e organizuar të energjisë elektrike, si pjesë e tregut rajonal dhe evropian të energjisë elektrike, si dhe përcakton rregullat që kanë të bëjnë me qasjen e palëve në rrjet, obligimet për shërbime publike, të drejtat e konsumatorëve dhe kushtet e konkurrencës.
