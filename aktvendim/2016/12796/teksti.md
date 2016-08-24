@@ -1,0 +1,88 @@
+IU.I'l'III.l("_\ l' KOSO\ES _PEII~ b_'1IIK\ "(KOBO _HEl'uIlU( OF KOSO\O GJYKATA KUSHTETUESE YCTABHH CYtI CONSTITUTIONAL COURT
+Prishtine, me 1gusht 2016 Nr. ref.: 973/16
+AK1VENDIM PER PAPRANUESHMERI
+ne
+rastin nr. KI59/16
+Parashtrues
+Agjencia Kosovare e Privatizimit
+Vleresim i kushtetutshmerise se Aktvendimit te Kolegjit te Ankesave te Dhomes se Posa~me te Gjykates Supreme te Kosoves per ~eshtje qe lidhen me Agjencine Kosovare te Privatizimit, AC-I-15-0237,te 18 shkurtit
+2016
+GJYKATAKUSHTETUESE E REPUBLIKES SE KOSOVES
+e perbere nga:
+Arta Rama-Hajrizi, kryetare
+Ivan Cukalovic, zevendeskryetar Robert Carolan, gjyqtar Altay Suroy, gjyqtar Almiro Rodrigues, gjyqtar Snezhana Botusharova, gjyqtare Bekim Sejdiu, gjyqtar Selvete Gerxhaliu-Krasniqi, gjyqtare dhe Gresa Caka-Nimani, gjyqtare
+Parashtruesi i kerkeses
+Kerkesa eshte dorezuar nga Agjencia Kosovare e Privatizimit (ne tekstin e 1. metejme: parashtruesi i kerkeses), e perfaqesuar nga zyrtaret e saj, z. Armend Hamzaj dhe z. Agron Kajtazi.
+Vendimi i kontestuar
+2. Parashtruesi i kerkeses konteston Vendimin e Kolegjit te Ankesave te Dhomes se Posac;me te Gjykates Supreme te Kosoves per c;eshtjet qe lidhen me Agjencine Kosovare te Privatizimit (ne tekstin e metejme: Kolegji i Ankesave), AC-I-15-0237, te 18 shkurtit 2016.
+3· Vendimi i kontestuar i eshte dorezuar parashtruesit te kerkeses me 2 mars 2016.
+4· Parashtruesi i kerkeses kerkon nga Gjykata Kushtetuese e Republikes se Kosoves (ne tekstin e metejme: Gjykata) te vendose mase te perkohshme qe "ti pezulloj te gjitha seancat gjyqesore [te Dhomes se Posac;me], ku si pale paraqitet AKP-ja apo nje Ndermarrje Shoqerore".
+Objekti i ~eshtjes
+5· Objekt i c;eshtjes eshte shqyrtimi i kushtetutshmerise se vendimit te baze te se drejtes kontestuar, per te cilin pretendohet se "ka shkelur parimet sic;jane parimi Res Judicata dhe Ne bis in Idem" (oo.) dhe "ka bere edhe shkelje te nenit 31 te Kushtetutes seKosoves". kushtetuese
+Bazajuridike
+6. Kerkesa bazohet ne nenet 21.4, 113.7 dhe 116.2 te Kushtetutes se Republikes se Kosoves (ne tesktin e metejme: Kushtetuta), ne nenin 27.1 dhe nenin 47 te Ligjit per Gjykaten Kushtetuese te Republikes se Kosoves, nr. 03/L-121 (ne tekstin e metejme: Ligji), dhe ne rregullat 29 dhe 54 te Rregullores se punes te Gjykates Kushtetuese (ne tekstin e metejme: Rregullorja e punes).
+Procedura ne Gjykate
+7· Me 29 mars 2016, parashtruesi e dorezoi kerkesen ne Gjykate.
+8. Me 31 mars 2016, Kryetarja e Gjykates caktoi gjyqtarin Almiro Rodrigues ~yqtar raportues dhe Kolegjin shqyrtues, te perbere nga gjyqtaret: Ivan Cukalovic (kryesues), Arta Rama-Hajrizi dhe Gresa Caka-Nimani.
+9· Me 5 prill 2016, Gjykata e informoi parashtruesin per regjistrimin e kerkeses dhe i dergoi nje kopje te kerkeses Dhomes se Posac;me.
+10. Me 13 qershor 2016, Kolegji shqyrtues shqyrtoi raportin e gjyqtarit raportues dhe i rekomandoi Gjykates papranueshmerine e kerkeses.
+Permbledhja e fakteve
+11. Me 17janar 2011, nje pale e interesuar ushtroi padi ne Kolegjin e Specializuar (SCL-11-0003) kunder parashtruesit te kerkeses, me ane te se ciles kerkonte kompensimin e te ardhurave personale ne nje shume te caktuar ne euro, duke perfshire edhe kamaten ligjore deri ne pagesen perfundimtare.
+12. Me 2 qershor 2015, Kolegji i speciaIizuar mbajti seance, ku parashtruesi 1 kerkeses perfaqesohej nga perfaqesuesit e autorizuar te AKP-se.
+13· Me 27 tetor 2015, Kolegji i specializuar mbajti edhe nje seance tjeter ku perfaqesuesit te njejte, te autorizuar te AKP-se, u paraqiten perseri per te perfaqesuar parashtruesin e kerkeses. Megjithate, Kolegji i speciaIizuar nuk i Iejoi ata ta perfaqesonin te paditurin sepse ata nuk ishin regjistruar ne Oden e Avokateve te Kosoves, por ishin te regjistruar ne Dhomen e Avokateve te Shqiperise.
+14· Me 28 tetor 2015, Kolegji i speciaIizuar (Vendimi SCL-ll-0003) vendosi qe e [Agjencise Kosovare te Privatizimit-AKP] se paditures "perfaqesuesit (...) perjashtohen nga rasti meqenese nuk jane anetare te nje Ode Avokatie apo ne Kosove". Ode te Avokateve
+15· Me 30 tetor 2015, parashtruesi ushtroi ankese me ane te se ciles kerkonte anulimin e vendimit te Iartpermendur, unifikimin e praktikes gjyqesore per raste te njejta dhe kompensimin e parashtruesit per (,:dopaushall gjyqesor qe duhej paguar per ankesen e tij. Per me teper, parashtruesi i kerkeses pohonte se kushti i vetem Iigjor per perfaqesuesin eshte qe ai te jete anetar i "nje" shoqate apo ode avokatesh.
+16. Me 18 shkurt 2016, Kolegji i ankesave (Vendimi AC-I-15-0237) e hodhi poshte si te papranueshme "ankesen kunder vendimit te Kolegjit te specializuar te te dates 28 tetor 2015", per shkak te "parimit DHPGJS-se, SCL-II-0003, qe nga nje anetar <;dopadites dhe i paditur duhet te perfaqesohet i nje ode avokatie apo nje ode te avokateve".
+Pretendimet e parashtruesit te kerkeses
+17· Parashtruesi pretendon se jane shkelur "parimet e drejtesise, si parimi Res dhe Ne bis in idem" dhe "neni 31 i Kushtetutes se Kosoves". Judicata
+18. Parashtruesi gjithashtu pretendon se Dhoma e Posa(,:me"ka bere edhe shkelje te nenit 31 te Kushtetutes se Kosoves i cili parasheh: kushtetuese "C;dokujt i e te drejtave ne procedure garantohet mbrojtje e barabarte para gjykatave, organeve te tjera shteterore dhe bartesve te kompetencave pub like".
+19· Parashtruesi i kerkon Gjykates e "te anuloj aktvendimin Kolegjit te i dates 28 Tetor 2015 dhe aktvendimin e Kolegjit Specializuar ASCL-ll-0003 i dates 18 shkurt e te Apelit AC-I-15-0237 2016, te leshuara nga Dhoma Posw;me".
+20. Ne fund, parashtruesi i kerkon Gjykates te vendose mase te perkohshme per te shmangur situaten ku "AKP-se dhe ndermarrjeve shoqerore te cilat e tyre njekohesisht perfaqesohen nga AKP-ja si administratore do t'iu shkaktohej demi i pariparueshem".
+Pranueshmeria e kerkeses
+Gjykata se pari shqyrton nese parashtruesi i kerkeses i ka permbushur kriteret 21. per pranueshmeri, te percaktuara ne Kushtetute dhe te specifikuara me tej ne Ligj dhe ne Rregullore te punes.
+Ne kete drejtim, Gjykata i referohet nenit 21 [Parimet e Pergjithshme] dhe 22.
+nenit 113 [Juridiksioni dhe Palet e Autorizuara] te Kushtetutes, te cilet
+percaktojne:
+Neni 21
+(...)
+4· Te drejtat dhe lirite themelore te parashikuara ne Kushtetute, vlejne edhe per personat juridike, per aq sa jane te zbatueshme.
+Neni 113
+1. Gjykata Kushtetuese vendos vetem per rastet e ngritura para gjykates ne menyre ligjore nga pala e autorizuar. (...) 7· Individet jane te autorizuar te ngrene shkeljet nga autoritetet publike te te drejtave dhe lirive te tyre individuale, te garantuara me Kushtetute, mire po vetem pasi te kene shteruar te gjitha mjetet juridike te percaktuara me ligj.
+23· Gjykata i referohet edhe nenit 48 [Saktesimi i kerkeses], i cili percakton se:
+e tij te qartesoj "Parashtruesi i kerkeses ka per detyre qe ne kerkesen saktesisht se cilat te drejta dhe liri pretendon se ijane cenuar dhe cili eshte akti konkret i autoritetit publik te cilin parashtruesi deshiron ta kontestoj".
+24· Perve<; kesaj, Gjykata merr parasysh edhe rregullin 36 [Kriteret e pranueshmerise] (1) (d) dhe (2) (d) te Rregullores se punes, i cili parasheh se:
+"(1) Gjykata mund ta shqyrtoje nje kerkese nese: [ ...J e (d) kerkesa nuk arsyetohet prima facie ose nuk eshte qartazi pabazuar.
+(2) Gjykata do te deklaroje nje kerkese si qartazi te pabazuar, nese bindet se: [...] (d) parashtruesi nuk deshmon ne menyre te mjaftueshme pretendimin e tij".
+Gjykata rikujton se parashtruesi i kerkeses pretendon "shkelje te nenit 31 te 25· Kushtetutes", sepse vendimi i kontestuar kishte shkelur te drejtat e tij "qe te perfaqesohet nga zyrtaret e saj prane DHPGJSK". Parashtruesi i kerkeses, gjithashtu, i referohet shkeljes se parimit res judicata dhe ne bis in idem.
+26. Gjykata me tej veren se argumenti klyesor i parashtruesit te kerkeses eshte nese ligji i aplikueshem ne Kosove duhet te interpretohet ne ate menyre qe t'i kerkoje parashtruesit te perfaqesohet ne procedurat prane Dhomes se Posac;;me te Gjykates Supreme nga nje avokat i regjistruar ne Oden e Avokateve te Kosoves ose te nje avokati te zgjedhur nga ai.
+27· Ne te vertete, parashtruesi i kerkeses ankohet se Dhoma e Posac;me e Gjykates Supreme kishte interpretuar gabimisht ligjin ne lidhje me perfaqesim dhe konsideron se Dhoma e Posac;me duhej te kishte interpretuar ndryshe dispozitat perkatese ligjore.
+28. Ne kete drejtim, ne pjesen perkatese te Aktgjykimit te Kolegjit te Ankesave shkruhet:
+"Ligji per Dhomen e PosQ(;me dhe Shtojca nuk i pergjigjen kesaj pyetjeje. apo nje Se neni 24.1 i Shtojces permend anetaret e nje "shoqate avokatesh nuk epercakton ne menyre te sigurt nese eshte menduar ode te avokateve" per aneta ret e shoqatave tjera te avokateve apo ode te avokateve pervec; Para se gjithash se atyre te Kosoves. nje gje e tille duhet te pranohet i Odes se rregulli i qarte qe paZet duhet te perfaqesohen nga nje anetar se gjyqtarit te Kosoves ose te Serbise dhe e drejta e perzgjedhjes Avokateve kryesues per te Zejuar anetaret e nje ode pervec; ne Kosove apo Serbi eshte dhene nga ZegjisZacioni i meparshem (shih nenin dhe i 24.1 24.3 Urdhereses Administrative te UNMIK-ut 2008/6), jane zevendesuar nga Zigjvenesi ne nenin 24.1 te Shtojces, duke dekZaruar se C;dopadites dhe i nga nje anetar i shoqates se avokateve paditur duhet .te perfaqesohet apo Per me teper, nuk mund te injorohet se percaktimi Ode te avokateve. i nje Zigjor si "anetar i shoqates se Avokateve apo odes se definicioni te paqarte ne Ligjin e Kosoves ne kuader avokateve" duhet te arrihet te kornizes Zigjore te Kosoves. Ligji i Kosoves i cili trajton probZemin ne fjaZe eshte Ligji Nr. 04/L-193 per Avokatine (LOAK). Ky Zigj rregullon te drejten per ne Kosove, perfshire e avokatit edhe te drejten e te ushtruar profesionin audiences ne gjykatat e Kosoves. Sipas nenit 1.1. te LOAK-se e drejta per te avokatine ne Kosove jipet pas regjistrimit ne Regjistrin e Odes se ushtruar Avokateve te Kosoves. Edhe pse parakushtet dhe procedurat per t'u regjistruar jane te ndryshme per avokatet vendas dhe avokatet e huaj, keta te fundit kane mundesine per t'u regjistruar dhe per t'u Zejuar qe te ushtrojne avokatine ne Kosove. Ne baze te nenit 40.1 te LOAK-se, Avokatet e avokatit ne territorin nga shtetet e tjera mund te ushtrojne profesionin e RepubZikes se Kosoves nen kushtet e reciprocitetit dhe duhet te kete nje se Drejtesise nga ana e Ministrise konfirmim te marreveshjes reciproke pasi te kete marre nje opinion nga Oda e Avokateve. Kjo c;eshtje eshte e rregulluar ne menyre ekspZicite me nenin 2 te aneksit te Statutit te Odes se te Kosoves (OAK), i cili parasheh se "Shtetasit e huaj kandidatet Avokateve e avokatise ne Kosove, duhet per ushtrimin ti nenshtrohen provimit te ne organizuar nga OAK, ne njeren nga gjuhet zyrtare ne pershtatshmerise Kosove. Forma, permbajtja dhe procedurat tjera te provimit te ne Rregulloren pershtatshmerise percaktohen per Licencimin e Avokateve te huaj." Perjashtim nga ky rregull eshte vetem per avokatet nga shtetet anetare te Bashkimit Evropian dhe Shtetet e Bashkuara te Amerikes. Te dy e huaj nga vendet e tjera dhe nga shtetet anetare avokatet te BE-se dhe te regjistruar ne regjistrin e posac;em te Avokateve SHBA-ve duhet tejene te Odes se Avokateve te Kosoves (OAK), me kusht te ofrimit te T1)e dokumenti qe deshmon se ata jane te regjistruar ne shtetet e tyre dhe se ata e ushtrojne avokatine (neni 40.5 i LOAK-se). Ne baze te autorizimit te e kishin leshuar nga AKP-ja, avokatet Gentian Gurra dhe Rudi Metaj, perfaqesuar AKP-ne ne proceduren prane Gjykates se Shkalles se J-re ne lenden SCL-ll-OG03 duke u prezentuar se atajane avokat te licencuar nga Dhoma Kombetare e Avokatise ne Shqiperi. Keta Avokat te cilet jane paraqitur si perfaqesues te AKP-se, nuk kane ofruar Gjykates deshmi se jane te regjistruar ne regjistrin e Odes se Avokateve te Kosoves".
+29· Gjykata veren se Kolegji i Ankesave ka shpjeguar kuptimin e nenit 24.1 te Shtojces se Ligjit per Dhomen e Posac;me; kerkesat e ndryshme midis legjislacionit te meparshem dhe atij aktual; kerkesat ligjore qe avokatet duhet te plotesojne per te perfaqesuar paditesit ose te paditurit prane Dhomes se Posac;me. Pas shqyrtimit te ketyre c;eshtjeveligjore, ai konkludoi se avokatet qe e perfaqesojne parashtruesin e kerkeses ne procedurat gjyqesore para tij nuk jane avokate te regjistruar ne Oden e Avokateve te Kosoves, siC;kerkohet me ligjin qe aplikohet ne Kosove.
+30. Gjykata konsideron se parashtruesi i kerkeses pretendon shkelje te parimeve juridike, si dhe nenin 31 te Kushtetutes, pa ofruar mbeshtetje apo shpjegime lidhur me menyren se si kane ndodhur keto shkelje. Parashtruesi i kerkeses bazon pretendimin e tij ne interpretimin e gabuar te ligjit te aplikueshem. Ky argument procedural ka te beje me fushen e ligjshmerise dhe si i tille nuk bie nen juridiksionin e Gjykates Kushtetuese, dhe, prandaj, nuk mund te shqyrtohet nga Gjykata.
+31. Ne kete drejtim, Gjykata thekson se nuk eshte detyre e saj te merret me gabimet e fakteve apo te ligjit qe pretendohet te jene kryer nga gjykatat e rregullta (ligjshmerise), pervec; dhe per aq sa ato te mund te kene shkelur te drejtat dhe lirite e mbrojtura me Kushtetute (kushtetutshmerine). Ajo mund te mos e vleresoje ligjin ne baze te te cilit gjykatat e rregullta kane nxjerre nje vendim ne vend te tjetrit, sepse po te ishte ndryshe, Gjykata do te vepronte si "gjykate e shkalles se katert" c;kado te nenkuptonte shperfillje te kufizimit te juridiksionit te saj. Ne te vertete, eshte detyre e gjykatave te rregullta te interpretojne dhe te zbatojne rregullat perkatese te se drejtes procedurale dhe te asaj materiale (Shih, Garcia Ruiz kunder [DHM], nr. 30544/96, Spanjes, para. 28, Gjykata Evropiane per te Drejtat e Njeriut [GJEDNJ] 1999-I; rasti nr. KI72/14, parashtruese e kerkeses Besa Qirezi, Aktgjykim i 4 shkurtit 2015, para. 65).
+32. Pervec;kesaj, Gjykata konsideron se Aktgjykimi i Kolegjit te Apelit teresisht iu pergjigj dhe i arsyetoi argumentet ne ankesen e parashtruesit. Parashtruesi i kerkeses nuk tregoi dhe deshmoi para Gjykates se procedurat ne Dhomen e Posac;me ishin te padrejta apo arbitrare apo qe te drejtat dhe lirite e tij te mbrojtura me Kushtetute, jane shkelur me interpretimin qe pretendohet te jete i gabuar te ligiit te aplikueshem per perfaqesim.
+33· Gjykata thekson se interpretimi i ligjit te aplikueshem per perfaqesim eshte c;eshtje e ligjshmerise. Asnje c;eshtje kushtetuese nuk eshte vertetuar dhe deshmuar nga parashtruesi i kerkeses.
+34· Gjykata perserit se, si rregull i pergjithshem, interpretimi i ligjit eshte c;eshtje vetem per gjykatat e rregullta, te gjeturat dhe konkluzionet e te cilave ne kete drejtim jane te detyrueshme per Gjykaten. Megjithate, kur nje vendim i nje gjykate te rregullt eshte qartazi arbitrar, Gjykata mund dhe duhet ta ve ate ne dyshim (Shih Sisojeva dhe te tjeret kunder Letonise, [DHM], Aktgjykimi nr. 60654/00, Aktgjykim i 15janarit 2007, para. 89).
+35· Referimi i parashtruesit te kerkeses ne shkeljen e parimeve res judicata dhe ne bis in idem nuk do te shqyrtohet nga Gjykata, pasi qe eshte nje argument i parendesishem dhe jo me vend per diskutimin e rastit e parashtruesit te kerkeses.
+36. Pervec; kesaj, Gjykata veren se parashtruesi i kerkeses nuk pajtohet me rezultatin e rastit; megjithate, mospajtimi nuk mund t'i sherbeje atij si e drejte te ngre kerkese te argumentueshme per shkelje te neneve 29 [E Drejta e Lirise dhe Sigurise], 30 [Te Drejtat e te Akuzuarit] dhe 31 [E Drejta per Gjykim te Drejte dhe te Paanshem] te Kushtetutes (Shih per shembull, Gjykata Kushtetuese rasti nr. KI125/n, Aktvendim per Shaban Gojnovci, papranueshmeri i 28 majit 2012, paragrafi 28).
+37· Prandaj, Gjykata konstaton se kerkesa e parashtruesit nuk i ploteson kerkesat per papranueshmeri te percaktuara me Kushtetute, te parapara me Ligj dhe te specifikuara me Rregullore te punes.
+38. Rrjedhimisht, kerkesa eshte qartazi e pabazuar ne baza kushtetuese dhe, ne pajtim me rregullin 36 (1) (d) dhe (2) (b) dhe (d) te Rregullores se punes, ajo eshte e papranueshme.
+Kerkesa per mase te perkohshme
+39· Parashtruesi i kerkeses i ka kerkuar Gjykates te vendose masen e perkohshme qe te "pezulloj te gjitha seancat gjyqesore EneDhomen e Posac;me] ku si pale paraqitet AKP-ja apo nje Ndermarrje Shoqerore".
+40. Parashtruesi nuk ka ofruar asnje argument apo arsye lidhur me ate se pse duhet qe Gjykata te vendose masen e perkohshme. Parashtruesi thjesht e ka kerkuar ate ne kerkesen e tij.
+41. Ne menyre qe Gjykata te vendose masen e perkohshme, ne pajtim me rregullin 55 (4) dhe (5) te Rregullores se punes, nevojitet qe:
+"(a) pala qe kerkon masen e perkohshme ka treguar (...), nese akoma nuk eshte vendosur per pranueshmerine e saj, rastin prima facie per e kerkeses; pranueshmerine
+(b) pala qe kerkon mase te perkohshme ka deshmuar se do te pesoje deme nese nuk lejohet masa eperkohshme; te pariparueshme dhe
+[...]
+Nese pala qe kerkon mase te perkohshme nuk paraqet deshmite e nevojshme, Kolegji shqyrtues do te rekomandoje rejuzimin e kerkeses".
+Si<;u permend me lart, parashtruesi i kerkeses nuk ka treguar rast prima facie 42. per pranueshmerine e kerkeses. Rrjedhimisht, kerkesa per mase te perkohshme duhet te refuzohet si e pabazuar.
+PER KETO ARSYE
+Gjykata Kushtetuese, ne pajtim me nenet 21.4, 113.7 dhe 116.2 te Kushtetutes, nenin 48 te Ligjit dhe rregullat 36 (1) (d) dhe (2) (d) dhe 55 (4) dhe (5) te Rregullores se punes, me 13 qershor 2016, njezeri
+VENDOS
+I. TA DEKLAROJE kerkesen te papranueshme;
+II. T' UA KUMTOJE kete vendim paleve;
+TA PUBLIKOJE kete vendim ne Gazeten Zyrtare, ne pajtim me nenin III.
+20. 4 te Ligjit; dhe
+IV. Ky vendim hyn ne fuqi menjehere.
+Almiro Rodrigues
