@@ -1,0 +1,2 @@
+# Neni 14
+Ky ligj hyn në fuqi pesëmbëdhjetë (15) ditë pas publikimit në Gazetën Zyrtare të Republikës së Kosovës. Ligji Nr. 05/L -078 5 gusht 2016 Shpallur me dekretin Nr. DL-036-2016, datë 23.08.2016 nga Presidenti i Republikës së Kosovës Hashim Thaçi. LIGJI NR. 05/L -078 PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJIT NR. 03/L-019PËR AFTËSIMIN, RIAFTËSIMIN PROFESIONAL DHE PUNËSIMIN E PERSONAVE ME AFTËSI TË KUFIZUARA
