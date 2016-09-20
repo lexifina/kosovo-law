@@ -1,0 +1,6 @@
+## KAPITULLI I
+## DISPOZITAT E PËRGJITHSHME
+# Neni 1
+Qëllimi
+1. Ky ligj ka për qëllim t’i përcaktojë rregullat bazë të sjelljes së pjesëmarrësve dhe subjekteve të tjera në trafikun rrugor, kushtet bazë që duhet t’i plotësojnë rrugët nga aspekti i sigurisë rrugore, sistemin e sinjalizimit të trafikut rrugor, shenjat që i japin personat e autorizuar zyrtarë, detyrat në rast aksidenti në trafikun rrugor, kushtet për drejtim të mjetit, pajisjet dhe pajimet të cilat duhen t’i kenë mjetet, dimensionet, masën më të madhe të lejuar, ngarkesën boshtore të mjetit, si edhe kushtet të cilat duhet t’i plotësojë mjeti në trafikun rrugor.
+2. Ky ligj transpozon pjesërisht Direktivën 2014/37/EU të datës 27.2.2014, e cila e amendamenton Direktivën e Këshillit 91/671/EEC në lidhje më përdorimin e detyrueshëm të rripave të sigurisë dhe sistemin e sigurisë për fëmijët në veturë, Direktivën 2014/47/EU të Parlamentit Evropian dhe Këshillit të datës 3.4.2014 mbi inspektimet teknike në rrugë të automjeteve komerciale që qarkullojnë dhe e shfuqizon Direktivën 2000/30EEC, Direktivën 91/671/EEC të datës 16.12.1991 për përafrimin e ligjeve të shteteve anëtare në lidhje me përdorimin e detyrueshëm të rripave të sigurisë për automjete neni 3.5 T.

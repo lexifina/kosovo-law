@@ -1,0 +1,5 @@
+# Neni 2
+Fusha e zbatimit
+1 Dispozitat e këtij ligji janë të obligueshme për të gjitha institucionet e Republikës së Kosovës, për subjektet e autorizuara dhe për pjesëmarrësit në trafik.
+2 Institucionet shtetërore, njësitë qendrore dhe lokale të qeverisjes, personat fizikë dhe juridikë, si dhe pjesëmarrësit në trafik, janë të obliguar që, duke vepruar sipas dispozitave të këtij ligji, ta kenë parasysh sigurinë, ta zhvillojnë solidaritetin, humanitetin dhe marrëdhëniet etike ndërmjet pjesëmarrësve në trafik, ta mbrojnë shëndetin dhe jetën e personave të tjerë, në veçanti të fëmijëve, të personave me invaliditet, të moshuarve dhe të personave me aftësi te kufizuara, si dhe të përkujdesen për mbrojtje të ambientit.
+3 Ministria e Arsimit është e obliguar të zhvillojë programe edukativo-arsimore që kanë për qëllim aftësimin për pjesëmarrje të sigurt në trafik, si dhe ngritjen dhe zhvillimin e nivelit të kulturës së trafikut, dhe atë duke filluar nga institucionet parashkollore, e duke vazhduar me të gjitha grupmoshat, varësisht prej nivelit të tyre psikofizik.

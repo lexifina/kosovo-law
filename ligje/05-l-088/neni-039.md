@@ -1,0 +1,8 @@
+# Neni 39
+Transporti i organizuar për fëmijë dhe nxënës
+1. Shoferi i mjetit i cili lëviz prapa mjetit në të cilin transportohen fëmijë, përkatësisht nxënës, shoferi i mjetit i cili vjen përballë në rrugë me një shirit të trafikut të caktuar për trafik në një drejtim, duhet të ndalen kur mjeti me të cilin transportohen fëmijët është ndalur në rrugë derisa fëmijët hyjnë ose dalin nga ai mjet.
+2. Nëse me mjet transportohen fëmijë në mënyrë të organizuar, mjeti duhet t’i plotësojë kushtet e veçanta dhe të jetë i shënuar me shenjë të veçantë, ndërsa gjatë kohës së hyrjes dhe daljes së fëmijëve nga mjeti, shoferi duhet t’i ndezë të gjithë treguesit e drejtimit të mjetit.
+3. Ndalohet të shënohet mjeti me anë të shenjës së veçantë nga paragrafi 2. i këtij neni, nëse nuk transportohen fëmijë në mënyrë të organizuar. Nëse ai mjet nuk transporton fëmijë, atëherë shenja e veçantë duhet mbuluar ose hequr.
+4. Dënohet për kundërvajtje, me gjobë prej njëqind (100) deri në treqind (300) euro, shoferi i cili nuk e ndal mjetin e vet në kushtet e parapara në paragrafin 1. të këtij neni dhe atij i shqiptohet një (1) pikë negative.
+5. Dënohet për kundërvajtje, me gjobë prej dyqind (200) deri në gjashtëqind (600) euro, personi përgjegjës për transportin e grupeve të organizuara të fëmijëve i cili urdhëron ose lejon që mjeti me të cilin bëhet transporti në fjalë nuk është i shënuar në mënyrën e përcaktuar në paragrafin 2. të këtij neni.
+6. Dënohet për kundërvajtje, me gjobë prej gjashtëdhjetë (60) eurosh, shoferi i mjetit që transporton grupe të organizuara fëmijësh, i cili vepron në kundërshtim me paragrafët 2. dhe 3. të këtij neni.

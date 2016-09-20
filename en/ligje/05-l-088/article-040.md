@@ -1,0 +1,5 @@
+# Article 40
+Terms and conditions for organized transport of children
+1. Vehicle for transport of children must have permission for this type of transport.
+2. Minister with sub-legal act defines the terms and conditions for the organized transport of children and pupils as well as the specific sign with which these vehicles must be marked.
+3. It shall be punished for offence by fine from two hundred (200) to six hundred (600) euro, the person responsible for organized group transport of children who acts in contradiction with paragraph 1. of this Article and gets three (3) negative points.
