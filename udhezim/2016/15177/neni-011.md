@@ -1,0 +1,4 @@
+# Neni 11
+Mbajtja e evidencës
+1. Pa cenuar dispozitat e legjislacionit për produkte mjekësore veterinare, subjektet të cilat blejnë ose prodhojnë substanca që kanë veprim tireostatik, estrogjenik, androgjenik ose gjestagjenik dhe beta – agonistë, subjektet të cilat posedojnë licencë për vënie në treg materieve të përmendura dhe subjektet të cilat blejnë, ose nga ato substanca prodhojnë produkte farmaceutike dhe produkte mjekësore veterinare duhet të mbajnë evidencë sipas rendit kronologjik, evidenca duhet të përmbajë sasitë e prodhuara ose të blera, dhe ato të shitura ose përdorura për prodhimin e produkteve farmaceutike dhe produkteve mjekësore veterinare dhe emrat e subjekteve të cilave i është shitur ajo sasi ose siguruar.
+2. Evidencat nga paragrafi 1 i këtij neni me kërkesë të autoritetit kompetent duhet të jenë në dispozicion, në formë të shkruar dhe elektronike.
