@@ -1,0 +1,3 @@
+# Neni 4
+Matja e dënimit disiplinor
+Me rastin e shqiptimit të dënimit disiplinor duhet të merret në konsideratë natyra, serioziteti, vullneti dhe natyra planifikuese e shkeljes disiplinore, shkeljet e mëparshme të personit të dënuar, shkaqet për shkeljen disiplinore, periudha kohore e kaluar nga shkelja e fundit disiplinore, qëllimi i personit të dënuar për të parandaluar apo eliminuar efektet e shkeljes disiplinore, përpjekjet e personit të dënuar që të nxis hetimin e shkeljes së tij, gjendja shëndetësore e personit të dënuar, masat parandaluese të vendosura ndaj të dënuarit për shkelje, si dhe pasojat e tjera të aktit.
