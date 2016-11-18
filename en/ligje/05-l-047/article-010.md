@@ -1,0 +1,3 @@
+# Article 10
+Article 44 of the basic Law paragraph 3., shall be re-worded with the following text:
+3. It shall be permissible, without the consent of the author and without payment, for a non profit-making library, museum, archive and educational and science institutions, to reproduce one additional copy from a copy of the work already in their permanent collection, if its purpose is to replace copies that have been lost, destroyed or have become unusable or to make a copy available to other libraries or similar archive services in order to replace in their own collections works that have been lost, destroyed or have become unusable, where it is impossible to obtain copies of the work through usual commercial channels.
