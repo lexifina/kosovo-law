@@ -1,0 +1,4 @@
+# Article 8
+Property Claims Commission
+1. The PCC as established by Law 03/L-079 on amending UNMIK Regulation 2006/50 on the resolution of claims relating to private immovable property, including agricultural and commercial property shall remain in place and continue to adjudicate the claims submitted to the Kosovo Property Agency until all of the claims submitted have been adjudicated, and it shall be activated as needed and paid for the sessions held.
+2. PCC shall consist of three (3) members. One (1) member shall be appointed by the Assembly of the Republic of Kosovo following the proposal of the President of the Supreme Court of the Republic of Kosovo. The current mandate of two(2) international members of the PCC, who are appointed in accordance with Law No. 04/L-274, shall continue under the terms and provisions set out in the decision on appointment.

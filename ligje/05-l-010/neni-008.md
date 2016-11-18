@@ -1,0 +1,4 @@
+# Neni 8
+Komisioni për kërkesa pronësore
+1. KKP i themeluar me Ligjin Nr. 03/L-079 për Ndryshimin e Rregullores së UNMIK-ut 2006/50 për Zgjidhjen e Kërkesave lidhur me Pronën e Paluajtshme Private, duke përfshirë Pronën Bujqësore dhe atë Komerciale vazhdon të punon dhe të vendosë kërkesat e paraqitura në Agjencinë Kosovare për Prona deri në vendosjen e të gjitha kërkesave të pranuara aktivizohet sipas nevojës dhe paguhet për sesionet e mbajtura.
+2. KKP përbëhet nga tre (3) anëtarë. Një anëtarë do të emërohet nga Kuvendi i Republikës së Kosovës pas propozimit nga Kryetari i Gjykatës Supreme të Republikës së Kosovës. Mandati aktual i dy (2) anëtarëve ndërkombëtar të KKP-së, të cilët janë emëruar në pajtim me Ligjin 04/L-274 do të vazhdojë sipas kushteve dhe dispozitave të caktuara në vendimin për emërim.
