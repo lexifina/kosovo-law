@@ -1,0 +1,5 @@
+# Neni 7
+Kompensimi i shpenzimeve për rikthim
+1. Kur kamatë-vonesa bëhet e arkëtueshme në transaksionet tregtare midis shoqërive tregtare në pajtim më nenin 4 të këtij ligji, dhe në transaksionet tregtare midis shoqërive tregtare dhe autoriteteve publike në pajtim me nenin 5 të këtij ligji, kreditori ka të drejtë të marrë nga debitori po ashtu në kompensim të shpenzimeve për rikthim, një shumë minimale të përcaktuar prej 40.00 (dyzet) eurosh.
+2. Shuma fikse që është përmendur në paragrafin 1 të këtij neni është e arkëtueshme pa pasur nevojë për rikujtim dhe si kompensim i shpenzimeve të kreditorit për rikthim.
+3. Krahas shumës fikse që është përmendur në paragrafin 1 të këtij neni, kreditori ka të drejtë ta marrë nga debitori një kompensim të arsyeshëm për çdo shpenzim për rikthim që e tejkalon këtë shumë fikse dhe që është shkaktuar për shkak të vonesës së pagesës nga debitori. Kjo mund t’i përfshijë shpenzimet e shkaktuara, mes tjerash për angazhimin e ndonjë avokati apo përmbaruesi privat.
