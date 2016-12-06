@@ -1,0 +1,2 @@
+# Neni 18
+Shfuqizimi i akteve paraprake Me hyrjen në fuqi të kësaj rregulloreje, shfuqizohet Vendimi mbi taksat administrative për lëshimin e lejes së ndërtimit, tarifat për ndikimet nga rritja e dendësisë së infrastrukturës për vitin 2013, 01. nr. 016-104974, më 01.07.2013 dhe Vendimi për ndryshimin dhe plotësimin e Vendimi mbi taksat administrative për dhënien e lejes së ndërtimit, tarifat për ndikimet nga rritja e dendësisë së infrastrukturës për vitin 2013, 01. nr. 016-104974, më 01.07.2013.

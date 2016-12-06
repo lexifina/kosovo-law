@@ -1,0 +1,5 @@
+# Neni 15
+Baza dhe mënyra e llogaritjes së tarifave
+1. Baza dhe mënyra e llogaritjes së lartësisë së taksës sipas nenit 5, është dhënë në tabelën e shpenzimeve për leje të ndërtimit dhe, mënyra e llogaritjes së tarifës për ndikimin nga densiteti në infrastrukturë sipas nenit 7, është dhënë në tabelën e shpenzimeve për kalkulimin e tarifave rregulluese për rritjen e dendësisë së infrastrukturës për vitin ‘2017, të cilat janë pjesë përbërëse e kësaj rregulloreje, ndërsa baza për llogaritjen e ndërtimit të infrastrukturës, është mesatarja e kontratave të realizuara në Komunën e Prishtinës për ndërtimin e infrastrukturës së re dhe shpenzimet në ndërtimin e infrastrukturës kryesore, në raport me sipërfaqe të ndërtuar (m²) dhe ka lartësinë si në nenin 11.
+2. Vendimi për llogaritjen e taksës dhe tarifave nga nenet 5, 7 dhe 11, përveç formës së paraparë ligjore, duhet të përmbajë bazën për llogaritjen e taksës, lartësinë e shkallëve tarifave të aplikuara, llogarinë përkatëse bankare dhe afatin për pagesën e taksës së llogaritur.
+Page 6 of 7

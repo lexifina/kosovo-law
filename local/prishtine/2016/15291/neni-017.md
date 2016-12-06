@@ -1,0 +1,4 @@
+# Neni 17
+Lirim nga takesat dhe tarifat 17.1 Nga lartësia e taksës dhe tarifave të përshkruara në nenet 5, 7 dhe 11, do të lirohen poseduesit e lejeve të lëshuara për objektet e interesit publik, të ndërtuara nga investimet kapitale të Komunës dhe niveli qendror, të ndërtimeve për nevojat e zgjidhjes së çështjes së banimit të rasteve sociale me investime në bazë të donacioneve, familjeve të ngushta të dëshmorëve, invalidëve të luftës, veteranet e luftës, ish të burgosurit politik dhe familjet e ngushta te tyre, personat me aftësi te kufizuara, objektet për përfaqësuesit diplomatikë ku investuese janë shtetet e huaja, investimet publiko-private dhe objektet me destinim fetar.
+17.2 Për lirimet nga tarifat e përcaktuara sipas paragrafit 17.1, duhet të prezantohen vërtetime nga institucionet përkatëse.
+VII. DISPOZITAT KALIMTARE DHE TË FUNDIT
