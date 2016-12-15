@@ -1,0 +1,13 @@
+# Neni 5
+Buxheti
+1. Buxheti i Fondit përcakton shpenzimet e Fondit për një vit financiar dhe burimet e mjeteve për mbulimin e shpenzimeve. Burimet për mbulimin e shpenzimeve përbëhet nga të ardhurat e sigurimeve shëndetësore të Fondit në një vit financiar dhe profiteve nga ana e perfitimeve.
+2. Drejtori i Fondit emeron komisionin teknik për të përgatitur projekt buxhetin e Fondit në bazë të Ligjit për Sigurimin Shëndetësor, buxhetit të shtetit dhe kritereve të miratuara nga Bordi Drejtues. Bordi Drejtues vendosë për numrin dhe përbërjen e komisionit teknik.
+3. Drejtori do të paraqesë buxhetin e Bordit Drejtues për miratim brenda afatit prej (15) dite pas publikimit të Ligjit Vjetor të Buxhetit të Shtetit në Gazetën Zyrtare të Republikës së Kosovës.
+4. Procedurat dhe kriteret për përgatitjen e buxhetit të Fondit pëcaktohen nga Bordi Drejtues.
+5. Bordi drejtues miraton buxhetin vjetor të Fondit brenda (30) tridhjetë ditësh pas publikimit të Ligjit Vjetor të Buxhetit të Shtetit në Gazetën Zyrtare.
+6. Nëse Bordi Drejtues nuk miraton buxhetin e Fondit në afatin e përcaktuar në paragrafin 5 të këtij neni, e drejta dhe detyrimi për të miratuar buxhetin bartet transferohet tek Qeveria, në bazë të propozimit të Ministrit të Shëndetësisë.
+7. Nëse buxheti i Fondit nuk është miratuar në fillim të vitit buxhetor, shpenzimet e çdo muaji të vitit të ri buxhetor mund të jetë deri në një të dymbëdhjetën e shpenzimeve të vitit të mëparshëm buxhetor deri në kohën që buxheti është miratuar. Nëse baza e të ardhurave të përshkruara në projekt-buxhet është më i ulët se në vitin e mëparshëm buxhetor, shpenzimet e çdo muaji të vitit të ri buxhetor mund të jetë deri në një të dymbëdhjetën e shumës së shpenzimeve të parashikuar në projekt- buxhetin, minus shumat e nevojshme për formimin e rezervave të parave të gatshme, deri në kohën që buxheti është miratuar.
+8. Shpenzimet e Fondit ndahen në shpenzime të sigurimeve shëndetësore dhe shpenzime operative të Fondit. Shpërndarja përkatëse e të ardhurave dhe shpenzimeve buxhetore duhet të përcaktohen në Buxhetin Vjetor të Fondit.
+9. Shpenzimet operative përfshijnë shpenzimet administrative dhe shpenzimet për pagat e të punësuarëve të Fondit. Shpenzimet operative nuk mund të kalojë kufirin prej pesë (5) % te Buxhetit Vjetor të Fondit.
+10. Gjatë (1) një viti financiar, Bordi Drejtues mund të miratojë një buxhet suplementar të Fondit përkatësisht për të rritur ose ulur të ardhurat dhe shpenzimet e Fondit në mënyrë të balancuar.
+11. Buxheti i Fondit publikohet në Gazetën Zyrtare dhe do të vihet në dispozicion në faqen e internetit të Fondit brenda pesëmbëdhjetë (15) diteve pas aprovimit nga Bordi Drejtues.
