@@ -1,0 +1,2 @@
+# Article 3
+Entry into force This law shall enter into force on the day of publication in the Official Gazette of the Republic of Kosovo Law No. 05/L-124 01 December 2016 Promulgated by Decree No.DL-043-2016, dated 14.12.2016, President of the Republic of Kosovo Hashim Thaçi. Annex of the Law no. 05 / L-124, Financing Agreement for IPA 2015 between Kosovo and European Union attached to the law is published in the website of the Official Gazette (gzk.rks-gov.net)
