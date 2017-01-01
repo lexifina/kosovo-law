@@ -1,0 +1,5 @@
+# Article 31
+General rules for calculating the fine
+1. The court will determine the height of the minor offence sanction to the perpetrator considering all mitigation and aggravation circumstances, particularly the severity of minor offence and consequences, the scale of responsibility, motives and circumstance under which the minor offence is conducted, background of the perpetrator, his/her personal situation and his stance after occurrence of minor offence, his/her economical situation, and other circumstances related to the personality of the perpetrator.
+2. If the minor offence has been repeated, and particularly will be taken into consideration if the previous minor offence was the same type as the new minor offence, were both conducted out of the same motives and how much time has passed since the previous sanctioned minor offence.
+3. Upon the calculation of the minor offence sanction, the previous minor offence sanction imposed cannot be considered as an aggravating circumstance if more than two (2) years from the day of the final judgement have past.

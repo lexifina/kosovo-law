@@ -1,0 +1,6 @@
+# Neni 30
+Afati për pagesën e gjobës
+1. Në vendimin për kundërvajtje, me të cilin përcaktohet afati i pagimit të gjobës, i cili nuk mund të jetë më i shkurtër se pesëmbëdhjetë (15) ditë, dhe më i gjatë se nëntëdhjetë (90) ditë nga data e formës së prerë të vendimit, ndërsa në rastet e arsyeshme, varësisht nga lartësia e dënimit me gjobë dhe gjendja ekonomike e të pandehurit, organi i kundërvajtjes apo gjykata mund të përcaktojë që sanksioni kundërvajtës, i shqiptuar me gjobë të paguhet në këste, por që afati i pagesës nuk mund të jetë më i gjatë se gjashtë (6) muaj.
+2. Përjashtimisht nga paragrafi 1 i këtij neni, në rastet e parapara me këtë ligj, mund të caktohet që sanksioni kundërvajtës, i shqiptuar me gjobë të paguhet menjëherë.
+3. Në rastin e pagimit të gjobës, në afatin e përcaktuar me urdhrin kundërvajtës, i dënuari lirohet nga pagimi 50% nga shuma e gjobës së shqiptuar.
+4. Nëse kryesi pjesërisht ose në tërësi nuk e paguan gjobën në afatin e përcaktuar, do të zbatohet përmbarimi i detyrueshëm në pajtim me dispozitat e Ligjit për Përmbarim. Urdhri kundërvajtës përmes të cilit shqiptohet gjoba do të cilësohet dokument përmbarues në përputhje me dispozitat e Ligjit për procedurën përmbarimore.

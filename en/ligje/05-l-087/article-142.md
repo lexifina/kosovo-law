@@ -1,0 +1,8 @@
+# Article 142
+Appeals procedure
+1. The judge will reject, with a final judgment the appeal, namely the objection which is not submitted in a timely and proper manner.
+2. If the judge fails to reject an appeal which is not submitted in a timely and proper manner, then this appeal would be rejected by the second instance court.
+3. When the judge who rendered the judgment for a minor offence related to the appeal finds that the procedure is incomplete, which could affect the regularity and legality of the judgment of minor offence before submitting it to the court of second instance will fill the procedure within the boundary of the statement in appeal.
+4. If in case of paragraph 1 of this Article, the judge determines that the appeal has been submitted in favour of the defendant, is based, the previous judgment for minor offence will be abolished and a new judgment will be rendered for minor offence, provided that the new judgment of minor offence cannot be less favourable to the defendant.
+5. The judge will always abolish the previous judgement for minor offence and with a judgement will suspend the minor offence procedure, if relative to the appeal of the defendant finds that there is any of the reasons specified from Article 100 paragraph 1 of this Law.
+6. The judge will send the appeal together with the letter of the case to court of second instance no later than within three (3) days after it determines that deadline for submitting appeals of the persons has expired, respectively bodies who under this law are authorized to submit appeal, namely from the date when the procedure is completed.

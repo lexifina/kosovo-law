@@ -1,0 +1,6 @@
+# Neni 84
+Rastet e veçanta të dorëzimit
+1. Personave pjesëtarë të Forcës së Sigurisë së Kosovës, të Policisë së Kosovës, punëtorëve të komunikacionit tokësorë, dhe ajror, dorëzimi i letërthirrjeve u bëhet nëpërmjet komandës së tyre, respektivisht udhëheqësit të drejtpërdrejtë, e sipas nevojës, në këtë mënyrë mund të bëhet dorëzimi edhe i shkresave të tjera.
+2. Personave të privuar nga liria, dorëzimi u bëhet nëpërmjet drejtorisë së Institucionit Korrektues në të cilin janë vendosur.
+3. Personave të cilët gëzojnë të drejtën e imunitetit në Republikën e Kosovës, nëse me marrëveshje ndërkombëtare nuk është paraparë ndryshe, shkresat iu dorëzohen nëpërmjet ministrisë kompetente për punë të jashtme.
+4. Shtetasve të Republikës së Kosovës në shtetin tjetër, shkresat iu dërgohen nëpërmjet përfaqësive diplomatike apo konsullore të Republikës së Kosovës, me kusht që shteti tjetër nuk kundërshton mënyrën e tillë të dorëzimit dhe që personi të cilit i dorëzohet në mënyrë vullnetare pajtohet që të pranoj shkresën. Nëpunësi zyrtar apo i autorizuar i përfaqësisë diplomatike apo konsullore e nënshkruan fletë dorëzimin si dorëzues, nëse shkresa i është dërguar vetë përfaqësisë, ndërsa nëse shkresa është dërguar me postë, atë e vërteton në flete dorëzim.

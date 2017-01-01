@@ -1,0 +1,6 @@
+# Neni 162
+Ekzekutimi i vendimit para marrjes së formës së prerë
+1. Vendimi për kundërvajtjen mund të ekzekutohet edhe para se të merr formën e prerë në këto raste, nëse i pandehuri nuk mund ta argumentojë identitetin e vet ose nuk e ka vendbanimin, ose nëse shkon për të qëndruar në botën e jashtme, kurse gjyqtari konstaton se ekziston dyshimi i bazuar se, i pandehuri do ta pengojë ekzekutimin e dëmit të dhënë.
+2. Në rastet nga paragrafi 1 i këtij neni gjykata në aktgjykim do të konstatojë që i pandehuri edhe para marrjes së formës së prerë të filloj me zbatimin e sanksionit të shqiptuar.
+3. Nëse i pandehuri e paraqet ankesën kundër aktvendimit nga paragrafi 1 i këtij neni, gjyqtari është i obliguar që ankesën bashkë me shkresat t’ia dërgojë gjykatës së shkallës së dytë brenda afatit prej njëzetekatër (24) orësh, duke llogaritur prej orës kur e ka marrë në dorëzim ankesën. Gjykata e shkallës së dytë është e obliguar që të vendosë lidhur me ankesën dhe t’ia dërgojë vendimin e vet gjyqtarit të gjykatës së shkallës së parë brenda afatit prej dyzet e tetë (48) orësh, duke e llogaritur prej orës kur i ka marrë në dorëzim shkresat e lëndës.
+4.Vendimi për kundërvajtjen, i marrë në procedurën ndaj të miturit, nuk mund të ekzekutohet para se të merr formën e prerë.

@@ -1,0 +1,4 @@
+# Article 80
+Obligatory personal delivery
+1. Written notes which are not indicated in Article 79 paragraph 2 of this Law shall be delivered personally, but in case a recipient is not found in his/her apartment, such letters can be handed over to some of his/her adult members of his/her family. If they are not found in their apartment, the written notes shall be handed over to a neighbour, if he/she agrees to it. If the delivery is done at the work place, and if a person to whom the letter shall be delivered is not found there, the delivery can be done to a person who is employed in the same work place, if he/she accepts to receive the written notes.
+2. If it is found that the person to whom the letter should be delivered is absent and because of that the persons from paragraph 1 of this article cannot deliver the written note on time, then the written note shall be sent back, indicating where the absent person is.

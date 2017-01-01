@@ -1,0 +1,8 @@
+# Neni 142
+Procedura sipas ankesës
+1. Ankesën, respektivisht prapësimin e paraqitur jo në kohën e duhur dhe të palejuar do ta hedhë poshtë me aktgjykim gjyqtari.
+2. Nëse gjyqtari lëshon që ta hedhë poshtë ankesën e cila është paraqitur jo në kohën e duhur është e palejuar, ankesën do ta hedhë poshtë gjykata e shkallës së dyte.
+3. Kur gjyqtari i cili e ka marrë aktgjykimin për kundërvajtjen lidhur me ankesën gjen se procedura nuk është e plotë, e kjo gjë ka mundur të ndikojë në rregullsinë dhe ligjshmërinë e aktgjykimit për kundërvajtjen, para se t’ia dërgojë gjykatës së shkallës së dytë do ta plotësojë procedurën brenda kufijve të thënieve në ankesë.
+4. Nëse në rastin nga paragrafi 1 i këtij neni, gjyqtari konstaton se ankesa e cila është paraqitur në favor të të pandehurit, është e bazuar, aktgjykimi i mëparshëm për kundërvajtjen do të shfuqizohet dhe do të merret aktgjykimi i ri për kundërvajtjen, me kusht që aktgjykimi i ri për kundërvajtjen nuk mund të jetë më i disfavorshëm për të pandehurin.
+5. Gjyqtari aktgjykimin e mëparshëm për kundërvajtjen gjithmonë do ta shfuqizojë dhe me aktgjykim do ta pezullojë procedurën e kundërvajtjes, nëse lidhur me ankesën e të pandehurit konstaton se ekziston ndonjëra prej arsyeve nga neni 100, paragrafi 1 i këtij ligji.
+6. Ankesën bashkë me shkresën e lëndës, gjyqtari ia dërgon gjykatës së shkallës së dytë, jo më vonë se brenda afatit prej tri (3) ditësh pasi të konstatojë se kanë kaluar afatet për paraqitjen e ankesës personave, respektivisht organeve të cilët në bazë të këtij ligji janë autorizuar të paraqesin ankesën, respektivisht nga data kur është plotësuar procedura.

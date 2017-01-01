@@ -1,0 +1,6 @@
+# Article 30
+Time limit for payment of fines
+1. On minor offence decision by which are defined the time limit for the payment of the fine, which cannot be less than fifteen (15) days and more than ninety (90) days from the date of the final judgement, whereas, when reasonable, depending from the height of the fine and the economic situation of the defendant, the body on minor offences or the court may determine the minor offence sanctioned by fine to be paid in instalments, however the payment period may not be longer than six (6) months.
+2. Exceptionally from paragraph 1 of this Article, in cases foreseen by this law, may be determined for the minor offence sanctioned by fine to be paid immediately.
+3. In the case of paying the fine within the deadline defined in the minor offence order, the person fined is released from paying fifty percent (50%) of the imposed fine.
+4. If the perpetrator pays partially or does not pay the fine in entirety within the defined time period, against him/her shall be applied forced execution in accordance with the provisions of the Law on Enforcement Procedure. Minor offence order through which there is imposed the fine shall be deemed as an enforcement document in compliance with the provisions of the Law on Enforcement Procedure.

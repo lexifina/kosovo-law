@@ -1,0 +1,4 @@
+# Neni 80
+Dorëzimi personal i detyrueshëm
+1. Shkresat që nuk janë shënuar në nenin 79, paragrafin 2 të këtij ligji dërgohen personalisht, por shkresat e këtilla në rastin kur marrësi nuk gjendet në banesë mund t’i dorëzohen ndonjërit prej anëtarëve të rritur të familjes. Nëse ata nuk gjenden në banesë, shkresa i dorëzohet fqiut nëse ai pajtohet për këtë gjë. Nëse dorëzimi bëhet në vendin e punës personit të cilit duhet t’i dorëzohet shkresa, e ky person nuk gjendet aty, dorëzimi mund t’i bëhet personit i cili është i inkuadruar në punë në atë vend nëse ai pajtohet që ta merr në dorëzim shkresën.
+2. Nëse konstatohet se personi të cilit duhet t’i dorëzohet shkresa nuk është i pranishëm dhe personat nga paragrafi 1 i këtij neni për këtë arsye shkresën nuk mund ta dorëzojnë me kohë, do të kthehet shkresa duke shënuar ku gjendet personi që mungon.

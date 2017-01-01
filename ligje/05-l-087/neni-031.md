@@ -1,0 +1,5 @@
+# Neni 31
+Rregullat e përgjithshme për matjen e sanksionit kundërvajtës
+1. Gjykata do t’ia caktoj lartësinë e sanksionit kundërvajtës, kryesit duke marr parasysh të gjitha rrethanat lehtësuese dhe rënduese, në veçanti peshën e kundërvajtjes dhe pasojat, shkallën e përgjegjësisë, motivet nga të cilat dhe rrethanat nën të cilat është kryer kundërvajtja, jeta e më hershme e kryesit, gjendja e tij personale dhe qëndrimi i tij pas kundërvajtjes së kryer, gjendja e tij pasurore, si dhe rrethanat e tjera që kanë të bëjnë me personalitetin e kryesit.
+2. Nëse kundërvajtja është kryer në përsëritje, në veçanti do të merret parasysh se kundërvajtja e më hershme a është e llojit të njëjtë sikurse kundërvajtja e re, se të dy kundërvajtjet a janë kryer nga të njëjtat motive dhe sa kohë ka kaluar nga sanksioni kundërvajtës i mëhershëm.
+3. Me rastin e matjes së sanksionit kundërvajtës si rrethanë rënduese nuk mund të merret parasysh sanksioni kundërvajtës i shqiptuar më herët nëse nga dita e vendimit të formës së prerë për kundërvajtje kanë kaluar më shumë se dy (2) vite.
