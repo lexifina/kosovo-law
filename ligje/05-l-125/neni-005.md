@@ -1,0 +1,5 @@
+# Neni 5
+Ndarjet buxhetore të buxhetit të përgjithshëm të Kosovës
+1. Ndarjet Buxhetore nga Fondi i Kosovës për vitin fiskal 2017, siç janë paraqitur në tabelat 3.1, 3.1A, 3.1.B, 3.2, 3.2B, 4.1, 4.2 dhe 4.3 të bashkangjitura këtij Ligji, miratohen në bazë të këtij Ligji.
+2. Ministri mban regjistrin e të gjitha ndarjeve buxhetore të miratuara, transferet e ndarjeve buxhetore dhe përshtatjet e tjera të miratuara të ndarjeve buxhetore të kryera gjatë vitit fiskal 2017 përmes SIMFK dhe të plotësuar, nëse ka kërkesë, me regjistra tjerë. Të paktën dy herë në vit, gjatë shqyrtimit të raportit gjashtë (6) mujor dhe raportimit përfundimtar për mbylljen e vitit fiskal, Ministri, mbi bazën e këtij regjistri raporton për ndryshimet dhe përshtatjet buxhetore të ndodhura gjatë vitit fiskal 2017.
+3. Në çdo kohë kur kërkohet nga Kuvendi, Ministri në emër të Qeverisë prezanton para Kuvendit raportin gjithëpërfshirës që ofron detajet dhe barazimin e ndarjeve buxhetore të aprovuara për vitin 2017, dhe të gjitha transferet pasuese dhe ndryshimet e tjera si dhe ndarjet buxhetore finale për vitin fiskal 2017.

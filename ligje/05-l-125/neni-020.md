@@ -1,0 +1,7 @@
+# Neni 20
+Vlerësimet buxhetore për legjislacionin e propozuar
+1. Kurdo që propozohet një legjislacion i ri, strategji ose ndonjë akt tjetër i ngjashëm, organi propozues e dorëzon atë paraprakisht në Ministrinë e Financave, së bashku me Formularin mbi Vlerësimin e Ndikimit Buxhetor. Ministria e Financave e bën një vlerësim detal të ndikimit që mund të ketë legjislacioni i propozuar në Buxhetin e Kosovës dhe në ekonomi së paku për tri (3) vitet e ardhshme fiskale.
+2. Propozuesi sipas paragrafit 1 të këtij neni, duhet të merr një opinion mbi vlerësimin e ndikimit buxhetor nga Ministria e Financave lidhur me ndikimet buxhetore të legjislacionit të propozuar para dorëzimit në Qeveri dhe Kuvend për shqyrtim dhe miratim.
+3. Departamenti i Buxhetit, sipas nevojës, në bashkëpunim me Departamentin e Politikave Ekonomike dhe Fiskale, shqyrtojnë Formularin mbi Ndikimin Buxhetor dhe Ekonomik të legjislacionit të propozuar dhe paraqesin opinionin e tyre të pavarur lidhur me këto çështje para Qeverisë, ose Kuvendit kur propozues është Kuvendi.
+4. Çdo iniciativë e re për shpenzime, përfshirë këtu legjislacionin e ri të propozuar, që nuk ka ndarje buxhetore të përfshirë në tabelat e bashkëngjitura, nuk do të marrë ndarjen buxhetore përveç nëse zbatohen shkurtime përkatëse në ndarjet e tjera buxhetore në vlerë të njëjtë.
+5. Asnjë projektligj nuk mund të procedohet në Qeveri apo në Kuvend për aprovim nëse nuk zgjidhet çështja e implikimeve financiare për vitin fiskal 2017 të paraparë në tabelat në kuadër të këtij Ligji.

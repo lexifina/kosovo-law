@@ -1,0 +1,7 @@
+# Article 20
+Budget estimates for proposed legislation
+1. Whenever new legislation, strategy or similar act is proposed, the proposing body shall submit that in advance to the Ministry of Finance, together with a Form of Budgetary Impact Assessment. The Ministry of Finance, makes a detailed assessment on the impact that proposed legislation could have in the General Budget of Kosovo and in the economy for at least three (3) coming fiscal years.
+2. The proposer under the paragraph 1 of this Article should receive an opinion on the budget impact assessment from the Ministry of Finance regarding the budgetary implications of the proposed legislation before its submission to the Government and the Assembly for further consideration and approval.
+3. If needed, the Budget department in cooperation with the Department of Economic and Fiscal Policy, reviews the Form on Budgetary and Economic Impact of the proposed legislation and present their independent opinion on these issues before the Government or the Assembly when the proposer is the Assembly.
+4. Any new initiative for expenditures, including the new proposed legislation, which does not have budget allocation included in the attached tables, will not receive budget allocation unless respective reductions in other budgetary allocations of the same amount are implemented.
+5. No Draft Law can be proceeded to the Government or Assembly for approval if the issue of financial implications for the fiscal year 2017 provided in the tables of this Law is not resolved.
