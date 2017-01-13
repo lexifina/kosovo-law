@@ -1,0 +1,8 @@
+LAW NO. 05/L – 044
+ON THE ENVIRONMENTALLY ENDANGERED ZONE OF OBILIQ AND ITS
+SURROUNDINGS
+Assembly of Republic of Kosovo,
+Based on the Article 65 (1) of the Constitution of the Republic of Kosovo,
+Adopts:
+LAW ON THE ENVIRONMENTALLY ENDANGERED ZONE OF OBILIQ AND ITS
+SURROUNDINGS
