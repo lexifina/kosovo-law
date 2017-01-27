@@ -1,4 +1,0 @@
-# Neni 5
-1. Në nenin 14 të Ligjit bazik pas paragrafit 1. shtohen paragrafët e rinj me tekstin si në vijim:
-2. Drejtoria e Akreditimit të Kosovës e pranuar si DAK si anëtare në Kooperimin Evropian për Akreditim, do te nënshkruaj marrëveshjen multilaterale me Kooperimin Evropian për Akreditim për pranimin e certifikatave te Akreditimit në mes shteteve anëtare te Kooperimit Evropian për Akreditim
-3. Për zbatimin e këtij Ligji dhe te gjitha veprimet te cilat i ndërmerr Drejtoria e Akreditimit të Kosovës duhet të zbatohen dispozitat prej nenit 4 deri në nenin 14 të Rregullores (KE) Nr. 765/2008 të Parlamentit dhe Këshillit Evropian më 9 Korrik 2008 që ka hyrë në fuqi me 1 Janar të vitit 2010 që përcakton kërkesat për Akreditim dhe mbikëqyrje të tregut që kanë të bëjnë me vënien e produkteve në treg me të cilën shfuqizohet Rregullorja (KEE) Nr. 339/93
