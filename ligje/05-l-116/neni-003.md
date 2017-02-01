@@ -1,0 +1,10 @@
+# Neni 3
+1. Neni 7, paragrafi 5 i ligjit bazik, ndryshohet si në vijim:
+7.5. Fondi sigurohet që të gjithë pjesëmarrësit të informohen për kontributet, datat e kontributeve, shumën e fituar nga investimi dhe mjetet në llogarinë individuale, për vitin raportues. Informimi bëhet si në vijim:
+7.5.1. të gjithë pjesëmarrësit aktivë që kanë pasur transaksione brenda një viti kalendarik, pas përfundimit të atij viti kalendarik pranojnë raportin përmes dërgesës postare ose përmes postës elektronike; dhe
+7.5.2. pjesëmarrësit të cilët nuk kanë pasur transaksione në llogarinë e tyre individuale, pranojnë raport së paku tre (3) vjet pas raportit të fundit që kanë pranuar.
+2. Neni 7, paragrafi 10 i ligjit bazik, ndryshohet si në vijim:
+7.10. Në rastet kur kontributet nuk dërgohen në llogaritë individuale si pasojë e mos identifikimit të punëdhënësit, ose punëdhënësi nuk ka dërguar listën e punëtorëve apo punëdhënësi ka dërguar më shumë mjete se që ka në listën e punëtorëve, shuma e paidentifikuar së bashku me fitimin apo humbjen, evidentohen nga Fondi në një llogari të veçantë.
+3. Neni 7 i ligjit bazik, pas paragrafit 10 shtohen paragrafët e ri me numër rendor 7.11 dhe 7.12, me tekstin si në vijim:
+7.11. Fondi në bashkëpunim me Administratën Tatimore të Kosovës në vazhdimësi zhvillon aktivitete për identifikimin e kontributeve të paidentifikuara. Në rast se për kontributet përkatëse nuk identifikohen paguesit nga ana e Fondit dhe nuk ka as lajmërim nga ana e vet paguesve deri në gjashtë (6) vjet nga viti i pagesës, atëherë Qeveria e Republikës së Kosovës e ka të drejtën e marrjes së vendimit për inkasimin e Fondeve përkatëse në Buxhetin e Republikës së Kosovës. Një vendim përkatës merret vetëm pasi që Bordi i Fondit të ketë informuar me shkrim Qeverinë që ka shtjerrë të gjitha mundësit e identifikimit të paguesve të kontributeve përkatëse.
+7.12. Në rast të identifikimit të paguesëve të kontributeve pas afatit gjashtë (6) vjeçar, mjetet e inkasuara sipas paragrafit 11 të këtij neni i kthehen Fondit, së bashku me kamatën ekuivalente me fitimin mesatar që ka pasur Fondi gjatë kësaj periudhe.
