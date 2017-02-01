@@ -1,0 +1,8 @@
+# Article 16
+Revocation of State Aid
+1. If state aid is given without prior decision of the Commission under Article 14 of this Law, the Department shall initiate procedures on unlawful aid.
+2. If the Department, acting on its own initiative, requested by the Commission, or on the basis of information from the stakeholders, obtains information on unlawful aid, it shall request from the provider of the unlawful state aid provider to submit all relevant information on the aforementioned aid within fifteen (15) working days.
+3. If for the granted aid, the state aid provider fails to submit the relevant information required within the period stipulated by the Department or provides incomplete information, than the Department will repeat the request for submission of necessary information, by imposing a new deadline of fifteen (15) working days.
+4. If within the deadline stipulated in paragraph 3. of this Article, the aid provider fails to present the required information, the Commission requires the state aid provider to suspend granting of aid.
+5. The state aid provider, after receiving the request from the Commission to suspend the state aid, must cease granting the aid, and, shall inform the Department in the written form in regards to this.
+6. The Commission shall order the revocation of the aid, in cases when it is assessed that state aid is not in compliance with the applicable provisions of state aid. Recovery of unlawful aid is made together with an average interest rate set by the Commission, and it is calculated from the day the unlawful aid was available to the beneficiaries until the date of recovery.

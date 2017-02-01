@@ -1,0 +1,7 @@
+# Article 11
+Notification for State Aid
+1. For all state aid schemes, the aid provider shall submit to the Department a complete notification on state aid scheme or the plan for individual aid, including the normative acts, except the draft laws which are processed for preliminary comments under Article 12 of this Law. The Aid notified under this paragraph shall not create effect prior to decision of the Commission to authorize aid.
+2. If within thirty (30) days from the receipt of notification on the proposed state aid or additional information, the Department does not require additional information from state aid provider or the beneficiary, it shall be deemed that the Department possesses all the information needed to assess the State aid.
+3. Notification is not required when individual aid is granted under the scheme which the Commission has already approved it with the decision pursuant to Article 14 of this Law, except in cases when the value of individual aid must be notified, according to the Commission’s decision.
+4. Where state aid notification is not completed, the Department shall request all additional information within a period of fifteen (15) days from the receipt of the notification. The notification is considered withdrawn if the requested information have not been submitted within the specified term.
+5. Procedures related to the notification for aid shall be regulated by the bylaw.

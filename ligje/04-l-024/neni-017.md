@@ -1,5 +1,0 @@
-# Neni 17
-Raporti vjetor
-1. Dhënësi i ndihmës shtetërore, brenda dy (2) muajve pas mbarimit të vitit kalendarik, gjatë të cilit është ndarë ndihma shtetërore, duhet t’i paraqesin Zyrës raportin vjetor lidhur me ndarjen e ndihmës gjatë atij viti kalendarik. Formati i raportit vjetor është i caktuar në Aneksin 2, të aktit nënligjor “Për procedurat dhe formatin e njoftimit” të cilin e nxjerr Ministria e Financave.
-2. Në rast se Zyra, pas shqyrtimit të të dhënave të raportit vjetor ose çfarëdo informacioni që paraqitet nga dhënësi i ndihmës shtetërore, dyshon se ndihma nuk është dhënë në pajtim me dispozitat e këtij ligji, atëherë do të kërkon nga ai të sigurojë të dhënat që mungojnë. Zyra përcakton se cilat të dhëna kërkohen dhe kërkojë paraqitjen e tyre deri më 31 mars.
-3. Komisioni për ndihmë shtetërore, çdo vit me 30 qershor, i dorëzon Qeverisë dhe Kuvendit të Kosovës raportin e ndihmave shtetërore për vitin e kaluar, ku përfshihen informacione për vendimet e marra nga Komisioni, shumën e përgjithshme të ndihmës së dhënë, si dhe shpërndarjen e ndihmës nëpërmjet skemave të ndihmës shtetërore dhe ndihmave individuale.

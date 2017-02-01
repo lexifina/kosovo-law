@@ -1,0 +1,8 @@
+# Neni 16
+Revokimi i ndihmës shtetërore
+1. Nëse ndihma shtetërore është dhënë pa vendimin paraprak të Komisionit sipas nenit 14 të këtij ligji, Departamenti fillon procedurat për ndihmë të kundërligjshme.
+2. Nëse Departamenti, me iniciativën e tij, me kërkesë të Komisionit apo në bazë të informatave nga palët e interesit, merr të dhëna për ndihmën e kundërligjshme, ajo kërkon nga dhënësi i ndihmës shtetërore të kundërligjshme të paraqesë të gjitha të dhënat për ndihmën në fjalë brenda pesëmbëdhjetë (15) ditëve pune.
+3. Në rast se për ndihmën e ndarë nga dhënësi i ndihmës, nuk paraqiten të dhëna të nevojshme, të përcaktuara nga Departamenti, ose nëse ofrohen informacione jo të mjaftueshme, atëherë Departamenti përsërit kërkesën për paraqitjen e informacioneve të domosdoshme, duke vendosur edhe një afat të ri kohor prej pesëmbëdhjetë (15) ditëve pune.
+4. Nëse brenda afatit të paraparë në paragrafin 3 të këtij neni dhënësi i ndihmës nuk paraqet të dhënat e kërkuara, Komisioni kërkon nga dhënësi i ndihmës shtetërore që të pezullojë dhënien e ndihmës.
+5. Dhënësi i ndihmës shtetërore, pasi të ketë pranuar kërkesën e Komisionit për pezullim të ndihmës shtetërore, ndërprenë dhënien e ndihmës dhe, për këtë, informon me shkrim Departamentin.
+6. Komisioni urdhëron revokimin e ndihmës, në rast se vlerësohet se ndihma shtetërore nuk është në pajtim me dispozitat në fuqi për ndihmën shtetërore. Kthimi i ndihmës së kundërligjshme bëhet së bashku me një normë mesatare të interesit të përcaktuar nga Komisioni dhe llogaritet nga dita kur ndihma e kundërligjshme ka qenë në dispozicion të përfituesit, deri në datën e kthimit.
