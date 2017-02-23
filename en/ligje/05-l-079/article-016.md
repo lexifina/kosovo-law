@@ -1,0 +1,12 @@
+# Article 16
+Services to investors after taking the decision to grant the strategic investment status
+1. After the decision to grant the strategic investment status has been taken, the investment entity through the Investment and Enterprise Support Agency may benefit services and facilities in the administrative procedures, pursuant to the provisions of this law, outlined as follows:
+1.1. assistance in administrative procedures for obtaining licenses, permits and authorizations at public institutions;
+1.2. assistance in the performing of preparatory actions, preparation of documents necessary to initiate administrative procedures for obtaining licenses, permits and authorizations;
+1.3. an accelerated procedure for examining applications which relate to the preparation, implementation and realization of strategic project;
+1.4. support on access to basic infrastructure, in accordance with the relevant Law on State Aid ;
+1.5. making available the state-owned immovable property for the purposes of developing and executing strategic investment projects.
+2. Operational group and the Investment and Enterprise Support Agency shall forward the requests of the investment entity that has gained the status of strategic investment, for obtaining licenses, permits and authorizations to the public institutions responsible for issuing these legal documents, within five (5) working days from the date the application was filed. The date of the application under this Article is the date of receipt of all documents required for obtaining licenses, permits and authorizations by the Investment and Enterprise Support Agency. If some documents are submitted on different dates, the date of submission shall be considered the date on which the last document was received.
+3. Public institutions, upon receipt of requests by the Investment and Enterprise Support Agency, within fifteen (15) working days, shall review and issue licenses, permits and authorizations, pursuant to the criteria set forth by the legislation in force.
+4. Exceptionally from paragraph 3. of this Article, due to justifiable reasons related to the complexity of licenses, permits and authorizations, the deadline shall be extended only once, for a period of fifteen (15) working days.
+5. The investment entity, which has obtained the strategic investment status, shall have the responsibility to accurately and truthfully fill the data and documents necessary for issuance of licenses, permits, and relevant authorizations in accordance with the legislation of Kosovo.

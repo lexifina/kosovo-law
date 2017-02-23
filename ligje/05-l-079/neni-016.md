@@ -1,0 +1,13 @@
+# Neni 16
+Shërbimet ndaj investitorit pas marrjes së vendimit për dhënien e statusit investim
+strategjik
+1. Pas marrjes së vendimit për dhënien e statusit investim strategjik, subjekti investues, nëpërmjet Agjencisë për Investime dhe për Përkrahjen e Ndërmarrjeve mund të përfitojë shërbime dhe lehtësira në procedurat administrative, në përputhje me dispozitat e këtij Ligji, të përshkruara në vijim:
+1.1. ndihmë në procedurat administrative për marrjen e licencave, lejeve dhe autorizimeve pranë institucioneve publike;
+1.2. ndihmë në kryerjen e veprimeve përgatitore, përgatitjen e dokumenteve që nevojiten për fillimin e procedurave administrative për marrjen e licencave, lejeve dhe autorizimeve;
+1.3. procedurë të përshpejtuar për shqyrtimin e kërkesave të cilat ndërlidhen me përgatitjen dhe zbatimin e projektit strategjik;
+1.4. përkrahje për qasje në infrastrukturë bazike, në përputhje me Ligjin përkatës për Ndihmë Shtetërore;
+1.5. vënie në dispozicion të pasurive të paluajtshme shtetërore për zhvillimin dhe realizimin e projekteve investuese strategjike.
+2. Grupi operacional dhe Agjencia për Investime dhe për Përkrahjen e Ndërmarrjeve përcjellë kërkesat e subjektit investues që ka përfituar statusin investim strategjik, për marrjen e licencave, lejeve dhe autorizimeve pranë institucioneve publike, kompetente për lëshimin e këtyre dokumenteve ligjore, brenda pesë (5) ditë pune nga data e paraqitjes së kërkesës. Data e paraqitjes së kërkesës në kuptim të këtij neni është data e pranimit të të gjitha dokumenteve që nevojiten për marrjen e licencave, lejeve dhe autorizimeve nga Agjencia për Investime dhe për Përkrahjen e Ndërmarrjeve. Nëse disa dokumente janë parashtruar në data të ndryshme, si datë e paraqitjes konsiderohet data në të cilën është pranuar dokumenti i fundit.
+3. Institucionet publike, me pranimin e kërkesave nga ana e Agjencisë për Investime dhe Përkrahjen e Ndërmarrjeve, brenda pesëmbëdhjetë (15) ditë pune, i shqyrtojnë dhe nxjerrin vendim mbi kërkesat për dhënien licencave, lejeve dhe autorizimeve, duke i respektuar kriteret e parapara me legjislacionin në fuqi.
+4. Përjashtimisht paragrafit 3. të këtij neni, për shkaqe të arsyeshme që lidhen me kompleksitetin e licencave, lejeve dhe autorizimeve, afati shtyhet vetëm një herë, për një periudhë kohe pesëmbëdhjetë (15) ditë pune.
+5. Subjekti investues, që ka përfituar statusin investim strategjik, ka përgjegjësinë për plotësimin me korrektësi dhe vërtetësi të të dhënave dhe dokumenteve të nevojshme për lëshimin e licencave, lejeve, autorizimeve përkatëse në përputhje me legjislacionin e Kosovës.

@@ -1,0 +1,6 @@
+# Neni 18
+Përdorimi i pasurive të paluajtshme shtetërore për realizimin e investimeve strategjike
+1. Disponimi me pasurinë e paluajtshme të Republikës së Kosovës për të realizuar projektet lidhur me investimet strategjike rregullohet me ligjet që kanë të bëjnë me qeverisjen dhe përdorimin e pronës shtetërore e publike, të drejtat pronësore, ligjin mbi obligacionet dhe ligjet që rregullojnë shfrytëzimin dhe disponimin e pronës së Republikës së Kosovës, nëse me këtë ligj nuk është rregulluar ndryshe.
+2. Prona e Republikës se Kosovës duke përfshirë pyjet, tokën pyjore, tokën bujqësore, rrugët publike do të jetë në disponim të Qeverisë së Kosovës në pajtim me rregullimin hapësinor dhe urbanistik. Kjo pronë mund përdoret nga Qeveria për të realizuar projektet me negociata direkte, sipas dispozitave të nenit 4 paragrafëve 1. deri 6, të këtij Ligji.
+3. Qeveria parasheh procedurat e dhënies në shfrytëzim të pronës nga paragrafi 2. i këtij neni dhe mund të angazhojë një ekspert gjyqësor për të caktuar vlerën e pronës së paluajtshme që jepet në shfrytëzim.
+4. Në rast se bartja e pronës e përcaktuar me paragrafin 2. të këtij neni, bëhet me qëllim të realizimit të projekteve strategjike të cilat kanë element të kontratave të parapara me Ligjin përkatës për Partneritet Publiko Privat, rregullat e prokurimit publik duhet të respektohen.

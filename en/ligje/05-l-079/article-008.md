@@ -1,0 +1,9 @@
+# Article 8
+The Investment and Enterprise Support Agency
+1. The Investments and Enterprise Support Agency in addition to the duties and powers provided under the relevant Law on Foreign Investments, in terms of implementation of this Law, also has the following responsibilities:
+1.1. define and describe the tasks, actions and procedures of each public authority regarding the preparation and implementation of each individual project for strategic investments and inform the interested investor;
+1.2. perform actions related to the presentation of project development, support strategic investment performance, and compile a list of measures and documents which should contain and/or should be obtained in order to accomplish the project of a strategic investment through accelerated procedures;
+1.3. harmonizes and coordinates public authority activities for the preparation and drafting of necessary documents for the the project and the deadlines for its implementation, in accordance with the competence of the relevant institutions;
+1.4. performs technical assessment of the strategic investment project, its strategic potential, operational risk and action plan for implementation of the project;
+1.5. analyzes the investment entity profile, and therefore is entitled to request the investor information regarding its financial capacity and its ability to generate sufficient funds to finance the investment, its financial statements, management structure, ownership, market positioning, previous experience related to the field of investment, similar projects, and other elements necessary to prove the ability of being a strategic investor, under the criteria of this law;
+1.6. proposes to the Committee rejection of the decision for granting the status of strategic investment and annulment of decision for granting the status for strategic investment.
