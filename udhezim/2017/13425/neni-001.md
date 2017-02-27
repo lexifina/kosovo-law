@@ -1,0 +1,4 @@
+# Neni 1
+Qëllimi
+1. Qëllimi i këtij Udhëzimi Administrativ është promovimi i investimve të përbashkëta rajonale në sektorin e energjisë, identifikimi i projekteve me interes për Komunitetin e Energjisë në infrastrukturë të energjisë elektrike, gazit dhe naftës, si dhe bashkërendimi i aktiviteteve në lëshimin e lejeve.
+2. Ky Udhëzim Administrativ është pjesërisht në përputhje me Rregulloren (KE) Nr. 347/2013 të Parlamentit Evropian dhe të Këshillit nё udhёzimet për Infrastrukturën Energjetike Trans-Evropiane, për shfuqizimin e Vendimit nr. 1364/2006/EC, si dhe për ndryshimin e Rregulloreve (EC) nr. 713/2009, (EC) Nr. 714/2009 dhe (EC) Nr. 715/2009, të inkorporuara dhe përshtatura me Vendimin e Këshillit të Ministrave 2015/09/MC-EnC, të datës 16 tetor 2015 për zbatimin e Rregullores (BE) Nr. 347/2013 të Parlamentit Evropian dhe Këshillit mbi Udhëzimet për Infrastrukturën Energjetike Trans-Evropiane.
