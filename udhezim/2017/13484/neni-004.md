@@ -1,0 +1,8 @@
+# Neni 4
+Zonat e sigurisë
+1. Zonat e sigurisë caktohen brenda dhe rreth zonave energjetike.
+2. Brenda çfarëdo zone të sigurisë është i ndaluar ose i kufizuar ndërtimi ose ngritja e çfarëdo ndërtese apo godine, kultivimi i bimësisë së lartë si drunjtë dhe pemët, prerja e bimëve ose pemëve, ose ushtrimi i aktiviteteve që mund të paraqesin rrezik ndaj sigurisë ose veprimtarisë së pandërprerë të instalimeve energjetike, sigurisë së shëndetit, jetës dhe pronës.
+3. Kur pronarët ose shfrytëzuesit e pronës bëjnë ndërtime të palejuara, rrethime, prerje ose aktivitete të tjera që janë në kundërshtim me rregullat për zonat e sigurisë, dhe kur dështojnë përpjekjet për ndalimin e ndërtimeve ose aktiviteteve të tilla ilegale të paautorizuara brenda afateve kohore të vendosura nga ndërmarrja e energjisë, ndërmarrja e energjisë është e autorizuar që të kërkojë nga komuna ndalimin dhe heqjen e ndërtimeve ilegale ose ndalimin e aktiviteteve, me shpenzime të pronarit ose shfrytëzuesit.
+4. Komuna pas pranimit të kërkesës nga ndërmarrja e energjisë sipas paragrafit 3 të këtij neni, brenda shtatë (7) ditësh i kryen veprimet e rrënimit të ndërtimit joligjor apo e ndalon aktivitetin joligjor.
+5. Asnjë veprim apo mosveprim, nuk duhet ta parandalojë, apo ta ndërprejë operimin normal të ndërmarrjes së energjisë, të rrezikojë sigurinë e stabilimentit energjetik, sigurinë dhe pronën, jetën apo shëndetin e personave.
+6. Çdo ndërtim, apo çdo punë e kryer nga pronari apo shfrytëzuesi i pronës që gjendet në zonën e sigurisë i nënshtrohet miratimit paraprak me shkrim, nga ndërmarrja e energjisë. Ndërtimi i tillë duhet t’i përmbushë kushtet adekuate teknike dhe të sigurisë dhe nuk duhet të vë në rrezik jetën, shëndetin, apo sigurinë e personave.

@@ -1,0 +1,7 @@
+# Neni 11
+Cenimi i zonave të sigurisë
+1. Çdo punë ndërtimore e paautorizuar, vazhdimi i ndërtimit, ndërtimi i rrethojës, mbjellja e drunjëve, ngritja e nivelit të tokës nën përçuesit elektrik, zhvendosja e shtyllës elektrike në vend tjetër apo aktivitet tjetër që është në kundërshtim me nenet 7, 8 dhe 9 të këtij Udhëzimi Administrativ, duhet të evitohet, apo ndalohet.
+2. Ndërmarrja e energjisë, kërkon nga pronari apo shfrytëzuesi i tokës që gjendet në zonën e sigurisë, përmes njoftimit me shkrim që menjëherë, ta ndalojë ushtrimin e veprimtarisë së paautorizuar sipas paragrafit 1 të këtij neni.
+3. Kopja e këtij njoftimi duhet t’i dërgohet, autoritetit kompetent komunal.
+4. Nëse pronari apo shfrytëzuesi i tokës që gjendet në zonën e sigurisë, vazhdon ta ushtrojë veprimtarinë e paautorizuar, apo nuk arrin ta mënjanojë ndërtimin e paligjshëm, ndërmarrja e energjisë kërkon nga autoriteti kompetent komunal që ta evitojë ndërtimin e paligjshëm, apo ta ndalojë atë. Shpenzimet e këtij mënjanimi i bart pronari apo shfrytëzuesi i pronës.
+5. Nëse aktiviteti i paautorizuar ndërtimor, ngritja e ndërtesës, thurja e gardhit, prerja e drunjëve mbjellja e drunjëve, apo veprimtaria tjetër e paautorizuar paraqesin rrezik të drejtpërdrejtë për sigurinë e stabilimentit energjetik, për sigurinë e pronës, apo për jetën dhe shëndetin e personave, ndërmarrja e energjisë ndërmerr masa të nevojshme për evitimin e këtij rreziku.
