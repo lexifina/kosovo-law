@@ -1,0 +1,3 @@
+# Article 2
+Ratification of the Agreement 1. Through this Law there are ratified:
+1.1. Financial Protocol between the Government of the Republic of Kosovo and the Government of the Republic of France; and 1.2. Loan Agreement for implementation of the Financial Protocol signed on July 5, 2016 between the Government of the Republic of Kosovo and the Republic of France, between the Ministry of Finance of the Republic of Kosovo, which operates on behalf and for the account of the Government of the Republic of Kosovo and NATIXIS, acting on behalf and for the account of the Government of the Republic of France.

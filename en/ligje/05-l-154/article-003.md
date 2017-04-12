@@ -1,0 +1,5 @@
+# Article 3
+Documents attached 1. The following documents are attached to the Appendix of this Law:
+1.1. Financial Protocol between the Government of the Republic of Kosovo and the Government of the Republic of France;
+1.2. Loan Agreement for implementation of the Financial Protocol signed on July 5,
+LAW No. 05/L -154 ON RATIFICATION OF FINANCIAL PROTOCOL BETWEEN THE GOVERNMENT OF THE REPUBLIC OF KOSOVO AND THE GOVERNMENT OF THE REPUBLIC OF FRANCE, AND THE LOAN AGREEMENT FOR THE IMPLEMENTATION OF FINANCIAL PROTOCOL BETWEEN THE MINISTRY OF FINANCE OF THE REPUBLIC OF KOSOVO AND NATIXIS 2016 between the Government of the Republic of Kosovo and the Republic of France, between the Ministry of Finance of the Republic of Kosovo, which operates on behalf and for the account of the Government of the Republic of Kosovo and NATIXIS, acting on behalf and for the account of the Government of the Republic of France; and 1.3. The parties agreeing on the time associated with Article 7, first paragraph, of the Financial Protocol.
