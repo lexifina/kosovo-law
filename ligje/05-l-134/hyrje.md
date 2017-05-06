@@ -1,0 +1,8 @@
+LIGJI Nr. 05/L-134
+PËR LEGALIZIMIN DHE DORËZIMIN E ARMËVE, MUNICIONIT DHE MJETEVE
+EKSPLOZIVE
+Kuvendi i Republikës së Kosovës;
+Në bazë të nenit 65 (1) të Kushtetutës së Republikës së Kosovës,
+Miraton:
+LIGJ PËR LEGALIZIMIN DHE DORËZIMIN E ARMËVE, MUNICIONIT DHE MJETEVE
+EKSPLOZIVE
