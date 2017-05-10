@@ -1,0 +1,6 @@
+# Neni 12
+Përgjegjësia
+1. Ndërmarrjet e energjisë nuk janë të detyruara të paguajnë çfarëdo dëmi të shkaktuar si rezultat i kufizimeve apo ndërprerjeve në furnizimin me energji elektrike, energji termike apo gaz natyror, si pasojë e shkaqeve të përcaktuara në nenin 4, paragrafi 2 të këtij Udhëzimi Administrativ, me përjashtim të atyre rasteve kur Zyra e Rregullatorit për Energji ka përcaktuar që emergjenca ka ndodhur si pasojë e neglizhencës së ndërmarrjes së energjisë apo të ndonjë punëtori të saj, apo që rasti i raportuar i abuzimit apo mbi përdorimit të masës është arsyetuar.
+2. Ndërmarrjet e energjisë janë përgjegjëse për dëmet e shkaktuara si rezultat që:
+2.1. nuk i kanë ofruar Komitetit Teknik Emergjent apo Operatorit të Sistemit të Transmetimit informatat e sakta, komplete apo të përditësuara në pajtim me nenin 5 të këtij Udhëzimi Administrativ.
+3. Zyra e Rregullatorit për Energji përcakton procedurat për vlerësimin e neglizhencës së tillë dhe kriteret për saktësimin e abuzimit potencial apo mbi përdorimin e masës emergjente, dëmet e shkaktuara nga ajo, si dhe kompensimin eventual që duhet paguar konsumatorëve dhe ndërmarrjeve të energjisë. Çfarëdo përcaktimi i tillë nga Zyra e Rregullatorit për Energji, pala e pakënaqur mund t’i nënshtrohet rishikimit gjyqësor në pajtim me Ligjin për Procedurën Administrative.
