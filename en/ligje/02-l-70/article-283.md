@@ -1,4 +1,0 @@
-# Article 283
-283.1. The driver of the motored vehicle designed for passenger transportation, driver of the transporting motored vehicle, of combined vehicles with the general measure more than 7.5 tons, must posses the sanitary certificate, in case that such vehicles are used for commercial transport of people and goods. The same applies to the vehicle driver who the vehicle operation have a basic profession.
-283.2. For a violation of this provision, in an amount from 300 to 700€ shall be fined also the Business Organization or the Public Institution in the name and within the authorization of which the vehicle driver, determined in paragraph 1 of this Article, has acted.
-283.3. For a violation of this provision, in an amount from 130€ shall be fined also the driver who does not posses the valid sanitary certificate during the motored vehicle operations for passengers or goods transport with the most allowed measure above 7,5 tons or the combined vehicles.

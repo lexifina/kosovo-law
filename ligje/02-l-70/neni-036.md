@@ -1,5 +1,0 @@
-# Neni 36
-36.1. Rruga publike dhe brezi i saj mbrojtës, përkatësisht rruga dhe trotuari,nuk lejohen të dëmtohen ose tё shfrytëzohen për qëllime të tjera (material ndërtimor, sendet, ose të ngjashme), përveç në rast rrezikut ose ne raste tjera të parapara me ligj ose të autorizuara nga organi kompetent.
-18 36.2. Kuvendet Komunale mund të lejojnë shfrytëzimin e pjesës së trotuarit (rrethoja, tavolina,ulëse, kioska ose të ngjashme),me kusht që nuk zvogëlohet dukshmëria e rrugës dhe që lëvizja e këmbësorëve të jetë e papenguar dhe e sigurt duke ju lënë hapësirë të trotuarit me gjerësi prej së paku 1,5 metra. Për rrugët magjistrale dhe regjionale, leja në fjalë mund të jepet vetëm me pëlqimin paraprak të Ministrisë së Transportit dhe të Post-Telekomunikacionit.
-36.3. Për shkelje të kësaj disopzite, dënohet me gjobë prej 70 €, personi që vepron në kundërshtim me dispozitat e paragrafit 1 të këtij neni.
-36.4. Për shkelje të kësaj disopzite, dënohet me gjobë prej 650 deri 2.500 €, edhe ndërmarrja ose institucioni në emër dhe brenda autorizimeve të së cilës ka vepruar personi i përcaktuar në paragrafin 3 të këtij neni.

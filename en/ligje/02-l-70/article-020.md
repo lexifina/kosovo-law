@@ -1,4 +1,0 @@
-# Article 20
-20.1. In traffic light on road more than 2 traffic tracks signed in length with signs on road where traffic destines for each track separately and which are placed onto traffic tracks – the red light - disallows the traffic along the traffic track onto which is placed, green light free passage through the traffic track onto which is placed the green light.
-20.2. Red light from paragraph 1 of this Article has “x” form, whilst green light the arrow form with the peak pointed down.
-20.3. For a violation of this provision, in an amount from 65 to 130€ shall be fined a traffic participant who does not respect the signs determined in this Article and will be pronounced the defense measures of motored vehicle operation forbiddance in duration from 2 till 6 months and 2 negative points.

@@ -1,5 +1,0 @@
-# Neni 162
-162.1. Sipas këtij ligji , automjetet nën përcjellje kanë kuptimin e atyre automjeteve për të cilët përcjellja nga KFOR-i është caktuar , duke përdorur automjete të veçanta që posedojnë pajisje sinjalizuese, me drita të kuqe,të kaltërta si dhe me automjete të zakonshme të policisë gjatë sinjalizimit.
-162.2. Mjetet nën përcjellje duke pasur kujdes në sigurinë e pjesëmarrësve tjerë të komunikacionit kanë të drejtën e përparësisë së kalimit kundrejt të gjitha mjeteve tjera përveç në kryqëzim ku komunikacioni rregullohet me shenjat e personit të autorizuar.
-162.3. Personi i autorizuar që rregullon komunikacionin rrugor është i detyruar të krijoj kushtet që mjetet me përparësi kalimi të kalojnë pa pengesa.
-162.4. Mjetet me përparësi kalimi kanë të drejtë të mos i zbatojnë rregullat e komunikacionit, kur ato mjete japin sinjale me drita të kuqe dhe të kaltër dhe sinjale zëri me intensitet të ndryshueshëm, përveç në rastet kur me një veprim të tillë do të rrezikoheshin pjesëmarrësit e tjerë në komunikacion.

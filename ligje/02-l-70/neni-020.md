@@ -1,4 +1,0 @@
-# Neni 20
-20.1. Në semafor në rrugë me më tepër se dy shirita të komunikacionit të shënuar për së gjati me shënime në rrugë, ku komunikacioni drejtohet për çdo shirit veçmas dhe të cilat janë të vendosura mbi shirita të komunikacionit, drita e kuqe ndalon komunikacionin përgjatë shiritit të komunikacionit mbi të cilin është e vendosur; drita e gjelbër kalimin e lirë nëpër shiritin e komunikacionit mbi të cilën është vendosur drita.
-20.2. Drita e kuqe nga paragrafi 1 i këtij neni e ka formën e “x”, ndërsa drita ngjyrë të gjelbër formën e shigjetës me maje të kthyer poshtë.
-14 20.3. Për shkelje të kësaj dispozite, dënohet me gjobë prej 65 deri 130 € pjesëmarrësi në komunikacion që nuk i respekton shenjat e përcaktuara në këtë nen dhe i shqiptohet masa mbrojtëse e ndalimit të drejtuarit të mjetit motorik për dy deri në gjashtë muaj si dhe i shqiptohen dy pikë negative.

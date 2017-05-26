@@ -1,4 +1,0 @@
-# Article 31
-31.1. Commands and signs of traffic participants can be given from:
-a) policeman, b) authorized persons from the Ministry of Transport and Communications and Municipality Assembly within their legal competencies, c) KFOR soldiers and Kosovo Protection Corpus (KPC) member are responsible to keep order, in order of ensuring the military vehicle movements and pedestrian movement, or to guarantee a rescue action cases initiated to save a life or a property of a person, d) personnel of the Border Guard (Police) within the border zone, e) railway personnel on the railway junctions, f) worker of the road authority or the other person that works on the road, if it is allowed to him or it is hired from the road authority, g) person which supervises the safety passage of road for children, on a adjusted place and signed for such passage.
-31.2. The above mentioned persons in paragraph 1 must be visible from a sufficient distance during the day and night.

@@ -1,4 +1,0 @@
-# Article 318
-318.1. On the renting vehicles, vehicles with which is performed the candidate capability for drivers license, taxi vehicles, buses, transporting vehicles for dangerous goods carriage, transporting vehicles the maximum allowed measure of which passes 7.500 kg and the combination of vehicles (on the further text: trailer), the preventive technical control will be performed in accordance with paragraph 3 of this Article.
-318.2. With exception from paragraph 1 of this Article, will not expose to the periodic technical control the light trailers, trailer houses, tractor trailer, vehicles fated for vintage carriage, entertainment and the working vehicles.
-318.3. Preventive technical controls of vehicles are performed every day (daily preventive technical control) and on the foreseen terms (preventive periodic technical controls - every 6 months).

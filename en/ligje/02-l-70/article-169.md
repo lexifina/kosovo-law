@@ -1,6 +1,0 @@
-# Article 169
-169.1. Equipments for giving the special signs with lights and sounds can be made up and be used only on vehicles with which Kosovo Police Service or Kosovo Protection Corpus (Article 162 of this law) members perform the vehicle escorting with priority passing (Article 165, paragraph 2, of this law).
-169.2. On the vehicles of the Kosovo Police Service, except the equipment of the paragraph 1 of this Article, can be made up also the equipments on which are written orders and notifications for the driver who moves on front or behind of the Kosovo Police Service vehicle (Compulsory Stoppage, Stop Police, Slowdown the speed, traffic accident, danger on the road and similar).
-169.3. For a violation of this provision, in an amount from 140€ shall be fined, the person if he makes up the equipments in contradiction with the provisions of this Article.
-169.4. For a violation of this provision, in an amount from 250 to 650€ shall be fined, the responsible person in the public institution if he makes up the equipments without the authorization or allows the make up of the equipments in contradiction with the provisions of this Article.
-169.5. For a violation of this provision, in an amount from 35 € shall be fined, the vehicle driver who moves in traffic with the made up equipments in contradiction with this Article.

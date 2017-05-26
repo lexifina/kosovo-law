@@ -1,4 +1,0 @@
-# Article 357
-357.1. Execution of the defensive measure of disallowance for motored vehicle operation can be hold over on the due term, except the violation from the Article 228 of this law, if the organ who pronounces the conviction of the defensive measure confirms according to the conditions in which is caused the violation, or dependably with his former behavior on traffic and can be waited and even without performing these measures in the future will not make violations of road traffic.
-357.2. For the violation decisions which are pronounced measure from paragraph 1 of this Article will be allocated the duration of those measures also the deferment term of their execution.
-357.3. If the violator on the term of which was deferred the execution of defensive measure for the motored motion vehicle disallowance, the defensive measure will not be executed.

@@ -1,3 +1,0 @@
-# Article 325
-325.1. Technical control entity is obliged to keep an evidence, to rehash the info onto the made technical controls and the ascertained vehicle irregularities and for every technical control to issue the certification on the factual condition.
-325.2. For a violation of this provision, in an amount from 3.500 to 8.500€ shall be fined the entity for the technical control of vehicles if orders or allows not keeping the evidence, to rehash the info onto the made technical controls and the ascertained vehicle irregularities or if issues the certification in contradiction with the factual condition.

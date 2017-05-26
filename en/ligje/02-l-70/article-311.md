@@ -1,3 +1,0 @@
-# Article 311
-311.1. The Ministry of Internal Affairs shall issue the testing plates. Exceptionally testing plates can issue also the company who deals with the retail vending of the motored vehicles, only for the un-registered vehicles which from vending the place till the place where they get registration, if they fulfill the foreseen legal conditions and if they are authorized by the Ministry of Internal Affairs.
-311.2. The procedures for issuing of testing plates shall be determined by the sub-legal act from the Ministry of Internal Affairs in cooperation with the Ministry of Transport and Communications.

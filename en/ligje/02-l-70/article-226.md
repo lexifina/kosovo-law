@@ -1,4 +1,0 @@
-# Article 226
-226.1. Driver who operates the motored vehicle on road traffic must be capable on the mental and physical point of view to operate the motored motion vehicle and to have knowledge and necessary skills.
-226.2. It is prohibited to operate the vehicle on road traffic the driver that is tired, sick or it is in such mental condition that he is incapable to operate the vehicle in a safe way, also the driver that is under narcotic drugs influence, medicaments and other substances on which is signed that it is not allowed their use before or during the vehicle operation on the road traffic.
-226.3. For a violation of this provision, in an amount from 130€ shall be fined, the vehicle driver who acts in contradiction with the rules of this Article and at the same time it will be pronounced the halt of motored motion vehicle operation on duration from at least 3 months and 2 negative points.

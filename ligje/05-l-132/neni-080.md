@@ -1,0 +1,5 @@
+# Neni 80
+Masat për mënjanimin e mangësive
+1. Nëse gjate inspektimit te rregullsisë teknike te mjetit identifikohen mangësitë nga pika 1.1 e paragrafit 1 te nenit 79, atëherë lëshohet certifikata e rregullsisë teknike te mjetit. Personi fizik ose juridik obligohet qe te mënjanojë mangësitë e identifikuara. Dënohet me gjobë njëqind (100.00) euro personi fizik i cili vepron në kundërshtim me këtë paragraf, ndërsa personi juridik dënohet me pesëqind (500.00) euro.
+2. Nëse gjate inspektimit te rregullsisë teknike te mjetit identifikohen mangësitë nga pika 1.2 e paragrafit 1 te nenit 79, atëherë mjeti nuk e kalon testin e rregullsisë teknike. Subjekti për kontrollim teknik i cakton afatin për mënjanimin e mangësisë i cili nuk mund të jetë më tepër se 30 ditë.
+3. Nëse gjate inspektimit te rregullsisë teknike te mjetit identifikohen mangësitë nga pika 1.3 e paragrafit 1 te nenit 79, atëherë mjeti nuk e kalon testin e rregullsisë teknike dhe i pezullohet e drejta për pjesëmarrje në trafik. Subjekti për kontrollim teknik i cakton afatin për mënjanimin e mangësive i cili nuk mund të jetë më tepër se 30 ditë.

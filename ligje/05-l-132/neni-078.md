@@ -1,0 +1,6 @@
+# Neni 78
+Zbatimi i kontrollimit teknik
+1. Kontrollimi teknik i mjeteve duhet të bëhet në harmoni me rregulloret valide dhe duke përdorur pajisje matëse pa të meta teknike të përshkruara dhe pajisjet tjera, pajisjet matëse duhet të jenë të miratuara të kontrolluara dhe të certifikuara në përputhshmëri me rregullat metrologjisë dhe të kalibruara siç duhet, nëse për to nuk ekzistojnë rregulla te metrologjisë, atëherë gjatë realizimit të kontrollimit teknik merren në konsideratë edhe udhëzimet për përdorimin e pajisjeve të cilat përdoren për kontrollimin teknik.
+2. Kalibrimi i pajisjeve të kontrollit teknik të mjeteve bëhet pas kontrollit të shtatë mijë (7000) mjeteve. Çmimi për kalibrim përcaktohet me akt nënligjor nga Ministria përkatëse për tregti dhe industri, në bashkëpunim me Ministrinë.
+3. Në qoftë se gjatë kontrollimit teknik konstatohet se mjeti është pa të meta teknike atëherë i lëshohet certifikata në të cilën shënohet afati me të cilin mjeti duhet të bëjë kontrollimin teknik të ardhshëm.
+4. Dënohet me gjobë nga tetëmijë (8000) € deri në 15.000.00 € subjekti juridik për kontroll teknike i cili gjatë kontrollimit teknik vepron në kundërshtim me këtë nen, ose e lëshon certifikatën e kontrollimit teknik pa qenë prezent mjeti, ndërsa personi përgjegjës dënohet me gjobë në vlerë prej katërqind (400) €.

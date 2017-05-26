@@ -1,6 +1,0 @@
-# Article 351
-351.1. Driver of the vehicles which perform the public transport (buses), vehicle drivers with the measure more than 7.5 tons, who has the main profession vehicle operation does not have the right to accomplish this activity without passing the exam at the “Safe driving” school and then every 5 years have to pass the exam at the “safe driving” school, respectively 5 years from the last date of passing the exam.
-351.2. To the person who completes with success the “safe driving” school program it will be issued certificate, the same must have the driver of paragraph 1 of this Article, during the vehicle allurement time and show it with the request of the authorized person.
-351.3. For the violation of this provision, in an amount from 130€ shall be fined, driver who during the time of movement with vehicle does not posses the certificates issued from the “Safe driving” school.
-351.4. For a violation of this provision, in an amount from 650 to 1.500€ shall be fined also the Business Organization or the Public Institution in the name and within the authorization of which the vehicle driver, determined in paragraph 3 of this Article, has acted.
-2. SPECIAL RULES FOR VIOLATION

@@ -1,3 +1,0 @@
-# Article 298
-298.1. Rules of this law onto the duration time of vehicle operation and the drivers rest (brake) are applied also towards the drivers of the vehicles that are registered outside Kosovo when those vehicles are operated on the territory of Kosovo if with the international contract is not designed different.
-298.2. Minister of Transport and Communications is authorized to promulgate the legal rules onto the general duration time of vehicle operation; onto the manner of separated crew on the vehicle; onto the drivers rest (break) regarding with the vehicle operation; onto the form and the individual passbook moderation of monitoring and instructions onto the fulfilling of the same.

@@ -1,0 +1,5 @@
+# Article 46
+Registration of vehicles owned by persons with temporary residence
+1. In the Republic of Kosovo there are registered vehicles whose owners are foreign citizens with temporary or permanent residence status, who register their vehicles pursuant to the customs requirements or temporary import requirements (temporarily imported vehicle) and are used according to a Leasing contract or business cooperation contracts contracted between companies seated in the Republic of Kosovo and other companies seated in a different state, as well as vehicles which are intended for sports and economic events. For these vehicles the registration certificate will be issued with a validity of one (1) year.
+2. Persons with temporary residence may register vehicles in their ownership with temporary plates. Registration with temporary plates cannot be shorter than sixty (60) days and not longer than twelve (12) months.
+3. Temporary registration of the vehicle may be done even by the personnel of international missions or international organizations determined by the Law.

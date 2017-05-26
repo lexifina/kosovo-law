@@ -1,4 +1,0 @@
-# Neni 66
-66.1. Nëse semaforit në kryqëzim i është shtuar një dritë plotësuese ose disa drita plotësuese në formë shigjete, gjatë kohës derisa ato drita janë të ndezura, shoferi mundet me mjet të kaloj në drejtim të shigjetave edhe gjatë kohës derisa është e ndezur drita e kuqe ose e verdhë, por duhet ti lëshoj mjetet të cilat lëvizin në rrugë ku ai është duke hyrë dhe këmbësorët të cilët e kalojnë atë rrugë.
-66.2. Nëse drita e gjelbër në semafor e ka formën e shigjetave, shoferit me mjet i lejohet lëvizja vetëm në drejtime të shigjetave.
-66.3. Për shkelje të kësaj disopzite, dënohet me gjobë prej 130 €, shoferi që vepron në kundërshtim me dispozitat e këtij neni, i shqiptohet masa mbrojtëse e ndalim i të drejtuarit të mjetit me veprim motorik në kohë zgjatje prej dy deri gjashtë muaj dhe i shqiptohen dy pikë negative.

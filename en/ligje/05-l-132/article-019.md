@@ -1,0 +1,9 @@
+# Article 19
+Obligations of the manufacturer
+1. The manufacturer is responsible for ensuring conformity of products whether or not is directly involved in all stages of the construction of a vehicle, system, component or separate technical unit; as well as in cases when he modifies or changes component parts or systems already approved in previous stages shall be proven by the conformity certificate.
+2. Where a manufacturer who has been granted with type homologation for vehicle, system component or separate technical unit is obliged for the withdrawal of product series of the approved type, when these products presents a serious risk to road safety, public health or environmental protection, he shall immediately inform the homologation authority (homologation) that granted the vehicle homologation as well as to propose the correct measures to be taken.
+3. If the authorized entity for homologation which granted the type homologation is itself not satisfied with the measures of the manufacturer from paragraph 2 of this Article, then the homologation authority shall take all protective measures required, including the withdrawal of the vehicle’s type homologation
+4. A fine of one thousand and five hundred (1.500) Euro up to two thousand (2.000) Euro is imposed on the manufacturer – legal person who acts contrary to the provisions of this Article.
+5. A fine of one thousand (1.000) Euro up to two thousand (2.000) Euro is imposed on the person responsible next to the manufacturer who acts contrary to the provisions of this Article.
+6. A fine of three thousand and five hundred (3.500) Euro up to five thousand (5.000) Euro is imposed on the authorized entity that acts contrary to the provisions of this Article.
+7. A fine of five hundred (500) Euro up to one thousand (1.000) Euro is imposed on the person in charge at the authorized entity who acts in contrary to the provisions of this Article.

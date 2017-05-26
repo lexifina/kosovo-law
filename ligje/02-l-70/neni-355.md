@@ -1,5 +1,0 @@
-# Neni 355
-355.1. Organi i cili shqipton dënimin respektivisht masën mbrojtëse nga ky ligj, duhet për shqiptimin e dënimit, gjegjësisht për masën të informon Autoritetin kompetent-Departamentin e drejtësisë dhe Shërbimin Policor të Kosovës brenda 8 ditë nga data e nxjerrjes së vendimit të plotfuqishëm.
-104 355.2. Për shqiptimin e masës mbrojtëse, pikët negative, masën e vërejtjes me shkrim. aksidentet e komunikacionit dhe pasojat e tyre, pastaj për shoferet dhe mjetet Shërbimit Policor të Kosovës duhet ta mbaj evidencën.
-355.3. Të dhënat e evidencës nga paragrafi 1 dhe 2 të këtij neni mund ti shfrytëzojnë organet e drejtësisë, organet të cilat udhëheqin procedurat për kundërvajtje, si dhe Shërbimi Policor i Kosovës.
-355.4. Për evidencat e aksidenteve të komunikacionit pastaj të shoferëve dhe mjeteve përveç organet nga paragrafi 3 i këtij nenit mund ti shfrytëzojnë edhe institucionet shëndetësore, organizatat dhe organet të cilat merren me sigurinë në komunikacion, pastaj personat të cilët kryejnë transportin publik ose për nevoja personale.

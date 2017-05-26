@@ -1,7 +1,0 @@
-# Neni 35
-35.1. Në rrugë, trotuar dhe në brezin mbrojtës të rrugës nuk lejohet lënia e mjeteve të dëmtuara, të papërdorura, të paregjistruara, të sendeve, materialit ose të gjërave të ngjashme si dhe hedhja e mbeturinave që mund të pengojnë ose rrezikojnë komunikacionin.
-35.2. Shoferi i mjetit është i detyruar ti heqë nga sipërfaqja e rrugës sendet që bien në rrugë nga mjeti i tij dhe sendet që i ka lënë në rrugë, kur e ka ndalur mjetin.
-35.3. Nëse shoferi, pronari i mjetit ose personi tjetër përgjegjës nuk vepron në përputhje me rregullat e paragrafit 2 të këtij neni, shpenzimet e tyre do ti mbulojë personi të cilit iu është besuar kryerja e mirëmbajtjes së rrugëve, nga ana e organit kompetent.
-35.4. Shoferi do ti largoj sendet të cilat i has gjatë ngasjes nëse nuk pengohet siguria në komunikacion, ose në të kundërtën për këtë do të lajmëroj Shërbimin Policor të Kosovës.
-35.5. Për shkelje të kësaj disopzite, dënohet me gjobë prej 650 deri 2.500 € personi që urdhëron ose lejon që në rrugë, trotuar ose nё brezin mbrojtës të rrugës të vendoset mjeti i dëmtuar, i pa përdorur, i pa regjistruar, të hidhen në rrugë ose trotuar mbeturinat ose sendet të cilat mund të rrezikojnë sigurinë në komunikacion, ose të cilat mund të ndotin ambientin si dhe nëse nuk i largon nga rruga dhe nga trotuari mjetet, mbeturinat, sendet dhe të ngjashme.
-35.6. Për shkelje të kësaj disopzite, dënohet me gjobë prej 35 €, pjesëmarrësi në komunikacion që vepron në kundërshtim me rregullat e paragrafit 1, 2 dhe 3 të këtij neni.

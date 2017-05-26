@@ -1,0 +1,6 @@
+# Article 17
+The validity of the type-homologation certificate
+1. The type homologation of vehicle can be granted only on the basis of the procedure implemented pursuant to the provisions of this Law and the provisions approved based on this law, and which meets the defined technical requirements.
+2. The type homologation certificate is issued for type of product which fulfils the determined requirements pursuant to this Law. The issued certificates are valid and the launch of the products in the market, as well as the launch of the use of the products is valid until the approval of the requirements for new amendments and supplementations. The provisions that implement the new supplementary requirements passed as per this Law determine the deadline for the validity of the type homologation, which cannot be shorter than six (6) months from the day these provisions became valid.
+3. A fine of three thousand and five hundred (3.500) Euro up to five thousand (5.000) Euro is imposed on the authorized entity that acts in contrary to the provisions of this Article.
+4. A fine of five hundred (500) Euro up to one thousand (1.000) Euro is imposed on the person in charge at the authorized entity from paragraph 3 of this Article.

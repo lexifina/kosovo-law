@@ -1,0 +1,5 @@
+# Article 47
+Vehicle registrations certificate with limited term
+1. Vehicles are registered when a foreign citizen, at the end of his stay, transports the vehicle purchased in Kosovo and intends to register it in another state, or vehicles that undergo improvements or repairs which are transported abroad. The traffic permit in this case is issued on a need-basis timeframe, depending on how much time it takes the vehicle to travel to the state it will be registered in. This temporary timeframe of circulation permit cannot be longer than thirty (30) days. In this case, vehicles are registered until the expiry of the validity of their traffic circulation permit.
+2. Vehicles which were registered in the Republic of Kosovo and which were stolen and later found are also registered; in this case, the traffic permit is issued for the time period required for the vehicle to arrive to the Republic of Kosovo but for a period not longer than thirty (30) days. The vehicle shall be registered for a time period until the expiry of the validity of the circulation permit.
+3. Vehicles as determined in paragraphs 1 and 2 of this Article shall be provided with temporary plates.

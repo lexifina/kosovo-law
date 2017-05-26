@@ -1,8 +1,0 @@
-# Neni 146
-146.1. Këmbësori gjatë kalimit të rrugës obligohet që të ketë kujdes të posaçëm dhe gjithherë, të shfrytëzojnë vendkalimin e këmbësorëve ku ekzistojnë. Këmbësori në atë vendkalim ka përparësi para mjeteve.
-146.2. Kalimi i rrugës jashtë vendkalimit të këmbësorëve lejohet nëse, distanca nga vendi ku dëshiron të kaloj rrugën nga vendkalimi i shënuar i këmbësorëve është më i madh se 100 metra. Megjithatë, nëse ekziston ndonjë kryqëzim ose rrugë bashkangjitëse brenda distancës prej 100 metrave, këmbësori mund të kaloj rrugën gjithashtu edhe në kryqëzimin e tillë.
-146.3. Kalimi i rrugës jashtë vendkalimit të këmbësorëve të përmendur në paragrafin 2, lejohet me kusht që nuk pengon dhe rrezikon sigurinë e komunikacionit. Këmbësori obligohet që t’u jap përparësi mjeteve dhe të kaloj rrugën duke shfrytëzuar rrugë më të shkurtër, tërthorazi me vijën qendrore të rrugës.
-146.4. Nëse ekziston urë apo tunel në rrugë, këmbësori detyrohet të lëvizë me kujdes të shtuar.
-146.5. Brenda zonës së banuar, në rrugën me dy shirita rrugor të ndarë në mes veti fizikisht, këmbësori obligohet që të shfrytëzoj vetëm vendkalimin e paraparë për këmbësorë.
-146.6. Nëse vendkalimi i këmbësorëve është shënuar në rrugë më dy shirita rrugor, kalimi i secilit shirit rrugor konsiderohet si vendkalim i ndarë. Kjo aplikohet gjithashtu edhe në vendkalimet e këmbësorëve, në vendet ku komunikacioni i mjeteve është i ndarë me anë të një pjese të ngritur, ose ndonjë pajisje tjetër teknike.
-146.7. Për shkelje të kësaj disopzite dënohet me gjobë prej 15 €, këmbësori i cili vepron në kundërshtim me dispozitat e këtij neni.

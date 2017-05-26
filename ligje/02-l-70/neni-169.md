@@ -1,6 +1,0 @@
-# Neni 169
-169.1. Pajisjet për dhënien e shenjave të posaçme me drita dhe shenjave zëri mundë të montohen dhe të përdoren vetëm në mjetet me të cilat pjesëtarët e Shërbimit Policor të Kosovës ose Trupave Mbrojtëse të Kosovës (neni 162 i këtij ligji),kryejnë përcjelljen e mjeteve me përparësi kalimi (neni 165 paragrafi 2 i këtij ligji).
-169.2. Në mjetet e Shërbimit Policor të Kosovës, përveç pajisjeve nga paragrafi 1 i këtij neni, mund të montohen edhe pajisjet në të cilat shkruhen urdhrat dhe lajmërimet për shoferin i cili lëvizë përpara ose prapa mjetit të Shërbimit Policor të Kosovës (ndalja e detyrueshme, ndal policia, zvogëlo shpejtësinë, aksident i komunikacionit, rrezik në rrugë dhe të ngjashme).
-169.3. Për shkelje të kësaj disopzite, dënohet me gjobë prej 140 € personi nëse monton pajisje në kundërshtim më dispozitat e këtij neni.
-169.4. Për shkelje të kësaj disopzite, dënohet me gjobë prej 250 deri 650 € zyrtari përgjegjës në institucionin publik nëse pa autorizim monton ose lejon montimin e pajisjeve ne kundërshtim me dispozitat e këtij neni.
-169.5. Për shkelje të kësaj disopzite, dënohet me gjobë prej 35 € shoferi që qarkullon në komunikacion më pajisje të montuara në kundërshtim me këtë nen.

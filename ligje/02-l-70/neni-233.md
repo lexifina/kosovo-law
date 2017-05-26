@@ -1,4 +1,0 @@
-# Neni 233
-233.1. Licencën për ligjëruesin profesional dhe për shofer instruktor e lëshon Ministria e Transportit dhe Post-Telekomunikacionit, ndërsa për ligjëruesin nga lënda mësimore “Dhënia e ndihmës së parë” 71 personave të lënduar në aksident komunikacioni e bën institucioni të cilin e autorizon Ministria e Transportit dhe Post-Telekomunikacionit në bashkëpunim me Ministrin e Shëndetësisë.
-233.2. Për shkelje të kësaj disopzite, dënohet me gjobë prej 500 deri 1.100 €, personi që urdhëron ose lejon që të bëhet aftësimi i kandidatëve pa licencë vlefshme të lëshuar nga Institucioni të cilin e autorizon Ministria e Transportit dhe Post-Telekomunikacionit.
-233.3. Për shkelje të kësaj disopzite, dënohet me gjobë prej 130 € shoferi i cili bënë aftësimin e kandidatëve për shofer pa licencë të vlefshme ose i cili nuk e ka licencën përkatëse për kategorinë e mjetit me të cilën bëhet aftësimi i kandidatit për shofer.

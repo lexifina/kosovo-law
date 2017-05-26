@@ -1,5 +1,0 @@
-# Article 30
-30.1. On the passageways flat with the railway line where with the case of train approach barriers and half-barriers will be released automatically also on the passageway flat with the railway line where the barriers and half-barriers will activate from the place where they can not be seen, must be placed the equipment for giving the acoustic signals with which the traffic participants will be informed for barriers and half-barriers release.
-30.2. Ministry of Transport and Communications with the secondary legislation act determines the regulations on the traffic and signalization signs on road, base regulations which roads and its elements must fulfill from the safety road aspect, regulations for traffic discontinuance on the road passageway flat with the railway line as well as regulations for alternative release during the road workings.
-30.3. For a violation of this provision, in an amount from 650 to 6.500€ shall be fined, the person responsible for placement of lighting traffic signs or the lighting acoustic signals, if does not place them in accordance with provisions of this Article.
-6. SIGNS THAT GIVE THE AUTHORIZED PERSONS

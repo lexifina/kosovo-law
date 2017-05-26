@@ -1,0 +1,5 @@
+# Article 84
+The installation of equipment for gas engine
+1. The installation of an engine with liquid gas oil, compressed gas, or other equipment, pursuant to the provisions of this law, is performed by a physical or legal person authorized by the Ministry according to certain determined procedures, competitive and published.
+2. The authorization from paragraph 1 of this Article is granted to the legal entities possesses the authorization from the manufacturer of the installations who fulfils space conditions, technical, safety criteria and the professional staff for setting installation and supplementary equipment of the transport vehicle.
+3. If the entity authorized for the installation of the equipment for a liquid oil gas engine fails to perform the entrusted procedure pursuant to the law, or ceases to fulfil the criteria from paragraph 2 of this Article, the Minister in charge for transport shall bring a decision to revoke the authorization and will determine a deadline of thirty (30) days to fix the identified deficiencies.

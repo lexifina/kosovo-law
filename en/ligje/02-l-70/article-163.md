@@ -1,3 +1,0 @@
-# Article 163
-51 163.1. Vehicle driver who runs into the vehicle or the vehicle column under escort and the driver which the vehicle under escort approaches or the vehicle column under escort is obliged to stop his vehicle, on the night instead of using the long lights use the short lights for road resplendence, to restrain precisely the orders which are given by the persons that escort the vehicles and to continue the movement only after all the escorted vehicles pass.
-163.2. For a violation of this provision, in an amount from 65€ shall be fined, vehicle driver who acts in contradiction with the provisions of Paragraph 1 of this Article.

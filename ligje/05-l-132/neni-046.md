@@ -1,0 +1,5 @@
+# Neni 46
+Regjistrimi i mjeteve në pronësi të personave me qëndrim të përkohshëm
+1. Në republikën e Kosovës regjistrohen mjetet, pronarët e të cilave janë shtetas të huaj me leje qëndrimi të përkohshme ose të përhershme, , të cilët regjistrojnë automjetet e tyre sipas rregullave doganore apo kërkesave të importit të përkohshëm (automjetet përkohësisht të importuara) dhe përdoren sipas kontratës Leasing, ose kontratës së bashkëpunimit afarist të kontraktuara ndërmjet kompanive me seli në Republikën e Kosovës dhe kompanive tjera me seli në ndonjë shtet tjetër, si dhe automjetet të cilat janë të destinuara për manifestime sportive, ekonomike. Për këto mjete lëshohet certifikata e regjistrimit me afat vlefshmërie prej një (1) viti.
+2. Personat me qëndrim të përkohshëm mund t’i regjistrojnë mjetet në pronësi të tyre me targa të përkohshme. Regjistrimi me targa të përkohshme nuk mund të jetë më shkurt se 60 ditë dhe as më gjatë se 12 muaj.
+3. Regjistrimin e përkohshëm të automjetit mund ta bëjë edhe personeli i misioneve ndërkombëtare apo i organizatave ndërkombëtare të përcaktuara me ligj.

@@ -1,7 +1,0 @@
-# Article 65
-65.1. On crossroad (junction) or some other place where the traffic is arranged by traffic lighting signs (on the further text traffic lights), traffic lights for the participants have this meaning:
-a) Red light - stop b) Green light - free passing 26 c) Orange light - glowing without interruption, means that it is not allowed the passing from the discontinuation track and to enter the junction, if at the moment of the orange lighting light, lies in that distance from the traffic light which can stop on safe way.
-d) On the traffic light, light with the green and red color can not switch on at the same time, whilst only the orange glowing light without interruption from transition of the green light into the red, can be switched on together before the green light is displayed.
-e) The green twinkling light warns the quick interruption of free passing, respectively introduction of the orange light and after that the red light.
-f) The orange twinkling light serves to warn the traffic participants to move with the advanced carefulness.
-65.2. For a violation of this provision, in an amount from 130€ shall be fined, vehicle driver on the place where the traffic is regulated by traffic lights, does not stop on the red light sign and shall be pronounced to him the defense measure of motored vehicle operation forbiddance in duration from 2 to 6 months as well as 2 negative points.

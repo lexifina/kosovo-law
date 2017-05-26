@@ -1,5 +1,0 @@
-# Neni 307
-307.1. Mjetet motorike dhe bashkangjitëse të regjistruara në ndonjë vend jashtë Kosovës mund të marrin pjesë në komunikacionin rrugor në territorin e Kosovës vetëm nëse e kanë lejen e komunikacionit valid të cilin e ka lëshuar organi kompetent i vendit në të cilin është i regjistruar mjeti rrugor si dhe shenjen ndërkombëtare të vendit të regjistrimit ose targat e regjistrimit të lëshuar nga organi i vendeve në të cilin shenja dhe numri i targave është sipas rregullave te Unionit Evropian.
-307.2. Mjeti bashkangjitës i huaj i cili nuk regjistrohet duhet në pjesën e prapme ta ketë targën e regjistrimit të përsëritur te mjetit tërheqës .
-307.3. Për kundërvajtje, dënohet me gjobë prej 200 € shoferi që drejton mjetin i cili nuk është i regjistruar sipas rregullave të këtij neni.
-90 307.4. Për shkelje të kësaj disopzite, dënohet me gjobë prej 200 € shoferi që për mjetin e regjistruar në vend të huaj nuk e ka lejen e komunikacionit të vlefshme, targat e regjistrimit, shenjen ndërkombëtare të vendit të regjistrimit ose e tërhjekë mjetin bashkangjitës të huaj i cili nuk është i regjistruar ose nuk e ka të përsëritur numrin e targave të mjetit tërhjekës.

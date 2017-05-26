@@ -1,4 +1,0 @@
-# Neni 208
-208.1. Shoferi i cili haset ose has në vendin e aksidentit të komunikacionit, ka për detyrë me kërkesën e personit të autorizuar, ta dërgojë personin, i cili është lënduar në aksidentin e komunikacionit, deri në institucionin më të afërt shëndetësorë.
-208.2. Shoferi ka për detyrë të veproj sipas rregullës së paragrafit 1 të këtij neni edhe para se të vijë personi i autorizuar, përveç në çoftë se ka ndodhur aksidenti në vendin në të cilin mund të pritet ardhja e shpejtë e mjetit të ndihmës së shpejtë apo në çoftë se shoferi konstaton se me mënyrën joprofesionale dhe jo përkatëse të bartjes gjendja e personit të lënduar mund të përkeqësohet.
-208.3. Për shkelje të kësaj disopzite, dënohet me gjobë prej 35 €, shoferi që vepron në kundërshtim me dispozitat e paragrafit 1 dhe 2 të këtij neni.

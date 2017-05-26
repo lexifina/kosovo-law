@@ -1,4 +1,0 @@
-# Neni 347
-347.1. Shoferi, të cilit i është marrë patenta e shoferit (neni 211) apo është larguar nga komunikacioni (neni 212), ose i është shqiptuar masa e ndalesës së drejtimit të mjetit motorik ose masa e ndalesës së vlefshmërisë së patentës së shoferit, nuk duhet të drejtojë gjatë asaj kohe mjetin motorik në komunikacionin rrugor. 101
-347.2. Për shkelje të kësaj disopzite, dënohet me gjobë prej 400 deri 800 €, personi nëse urdhëron ose lejon shoferin të cilit i është marr patentë shoferi ose iu është shqiptuar masa e ndalimit të drejtuarit e mjetit motorik i cili drejton mjetin në komunikacioni rrugor për atë kohë.
-347.3. Për shkelje të kësaj disopzite, dënohet me gjobë prej 200 deri në 400 €, shoferi të cilit i është marr patentë shoferi ose ju është shqiptuar masa e ndalimit të drejtuarit të mjetit motorik i cili drejton mjetin në komunikacioni rrugor për atë kohë ose nuk posedon fare patentë shofer.

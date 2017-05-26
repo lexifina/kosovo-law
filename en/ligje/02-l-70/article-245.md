@@ -1,6 +1,0 @@
-# Article 245
-245.1. The exam for driver can expose only the candidate who is capable on the licensed driving school and if fulfils the other conditions to earn the right to operate the motored motion vehicle, or to expose the driver’s exam for the additive category.
-245.2. On the drivers exam through the theory and practical testing it determines if the candidate for driver have knowledge and dexterity according to the foreseen program.
-245.3. On the exam part from the matter of operating the motored vehicle (practical part) the candidate gives on the polygon or some other area outside the public road where has to accomplish at least three on goings and the candidate after the positive evaluation of the questioner, the second part of the exam accomplishes on the public road.
-245.4. Driving Candidate during the proceeding accomplishment according to the paragraph 3 of this Article must be only on the vehicle.
-245.5. Ministry of Transport and Communications with a secondary legislation act determines the criteria and conditions for giving the exam on the polygon or some other area outside the public road, the actions which has to be performed also the polygon dimensions when the first part is accomplished of exam from the matter of motored motion vehicle operation.

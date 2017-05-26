@@ -1,0 +1,7 @@
+## KAPITULLI I
+## DISPOZITAT E PËRGJITHSHME
+# Neni 1
+Qëllimi
+1. Qëllimi i këtij ligji është përcaktimi i kushteve bazë të pajisjeve dhe instalimeve të cilat duhet ti ketë mjeti, dimensioni, masa më e madhe e lejuar dhe ngarkesa boshtore e mjetit si edhe kushtet të cilat duhet ti plotësoj mjeti në trafik, kushtet për importim, homologimin e tipit të mjetit, pjesës përbërëse, njësisë së pavarur teknike, kontrollimin teknik të automjeteve, kontrollimi i rregullsisë teknike në rrugë, regjistrimin e automjeteve, automjetet të cilat kanë dalë prej përdorimit si dhe çështjet tjera lidhur me to.
+2. Ky ligj është në përputhshmëri me Direktivën e Parlamentit Evropian dhe e Këshillit nr. 2014/45/EC e datës 3 Prill 2014 për kontrollet teknike periodike; 2014/46/EC të datës 3 Prill 2014 për regjistrimin e automjeteve; 2014/47/EC të datës 3 Prill 2014 për kontrollimin e rregullsisë teknike të automjeteve komerciale në rrugë; 2007/46/EC të datës 5 Shtator 2007 për krijimin e një kornize për miratimin e automjeteve dhe rimorkiove të tyre, dhe të sistemeve, komponentëve dhe njësive të veçanta teknike të destinuara për automjetet të tilla (Direktive Kornize); 2000/53/EC të datës 18 Shator 2000 për automjetet jashtë përdorimit; 1999/37/EC të datës 29 Prill 1999 për dokumentet e regjistrimit të automjeteve.
+3. Në kuadër të fushëveprimit të këtij ligji zbatohet ligji në fuqi për kundërvajtjet përveç nëse është përcaktuar ndryshe me këtë ligj.

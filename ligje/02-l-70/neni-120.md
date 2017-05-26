@@ -1,2 +1,0 @@
-# Neni 120
-Mjetet motorike te të cilat gjatësia nuk kalon 8m dhe gjerësia 2m, dhe të cilave nuk iu është bashkangjitur mjeti bashkangjitëse, kur është i ndalur ose i parkuar në rrugë brenda zonës së banuar, në vend të dritave të parapara në nenin 118 të këtij ligji, duhet të ketë të ndezur një dritë e cila nga ana e përparme shihet si e bardhë dhe një dritë nga ana e pasme si e kuqe dhe të vendosura në anën e kundërt nga skaji i rrugës në të cilën mjeti është i ndaluar ose i parkuar.

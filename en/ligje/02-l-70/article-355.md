@@ -1,5 +1,0 @@
-# Article 355
-355.1. Authority which pronounces the conviction respectively the defensive measure of this law, must for the convictions pronounce, respectively for the measure informs the competent authorities the justice department and the Kosovo Police Service within 8 days from the draw date or all-powerful decision.
-104 355.2. For the defensive pronunciation measure, negative points, remark measure on written, traffic accidents and their consequences, then for the drivers and the Kosovo Police Vehicles must maintain evidence.
-355.3 The evidence information from paragraph 1 and 2 of this Article can use the justice authorities, authorities which lead the procedures for violation, also the Kosovo Police Service.
-355.4. For traffic accident evidences then of drivers and vehicles except the authorities from paragraph 3 of this Article can use also the health institutions, organizations and authorities that deal with traffic safety, then the persons which perform the public transport or for personal needs perform.

@@ -1,5 +1,0 @@
-# Article 36
-36.1. Public road and its protective girdle, respectively road and sidewalk or its parts, are not allowed to be damaged or used (construction material, stuff, or similar) only on dangerous case, or on other foreseen cases by law or authorized by the competent body.
-36.2. The Municipal Assemblies may allow the use of the sidewalk part (embower, tables, seats, kiosks and similar) with condition not to diminish the road visibility and pedestrian movement to be undisturbed and safe while allowing space to the sidewalk with width from at least 1, 5 meters. For motorway and regional roads, the above mentioned license can be given only by the anticipatory consent by the Ministry of Transport and Communication.
-36.3. For a violation of this provision of this law, in an amount from 70€ shall be fined the person who acts in contradiction with the rules of paragraph 1 of this Article.
-36.4. For a violation of this provision, in an amount from 650 to 2.500€ shall be fined, also the enterprise or the institution in the name and within the authorization of which has acted the natural person determined in paragraph 3 of this Article.

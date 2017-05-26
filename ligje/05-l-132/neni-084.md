@@ -1,0 +1,5 @@
+# Neni 84
+Instalimi i pajisjes për motor me gaz
+1. Instalimin e pajisjes për motor me gaz të lëngshëm nafte, me gaz tokësor të kompresuar, ose pajisjes tjetër konform dispozitave të këtij ligji, e bëjnë subjektet juridike të autorizuar nga Ministria pas plotësimit të kushteve të përcaktuara me këtë ligj.
+2. Autorizimi nga paragrafi 1. i këtij neni, i jepet subjekteve juridike të cilat posedojnë autorizimin nga prodhuesi i instalimeve ose pajisjes që e instalon, përmbushin kushtet hapësinore, materialo-teknike, kushtet e sigurisë, si dhe kuadrin profesional për vendosjen e instalimit dhe pajisjes plotësuese të mjetit transportues.
+3. Nëse subjekti i autorizuar për instalimin e pajisjes për motor me gaz të lëngshëm nafte, dështon në kryerjen e procedurës në përputhje me ligjin ose e ndërpret përmbushjen e kushteve nga paragrafi 2. i këtij neni, Ministri i ngarkuar për transport me vendim do t’ia pezullojë autorizimin dhe do të përcaktoj afatin prej 30 ditësh për mënjanimin e mangësive të konstatuara.

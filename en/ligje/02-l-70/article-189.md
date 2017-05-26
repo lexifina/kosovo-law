@@ -1,6 +1,0 @@
-# Article 189
-189.1. On the transporting vehicle on the space for burden or on the combined vehicle that is towed by the tractor, can on the base of the special license can be carried more than five persons which work on the load and downloading or other works, from the inhabited place to the working place or conversely or from one to the other place. The driver must carry the special license and show it on the request of the authorized person.
-189.2. Persons transport on the vehicle from the paragraph 1 of this Article can be allowed also in other reasonable cases.
-189.3. Kosovo Police Service by consultation with the Ministry of Transport and Communications with a secondary legislation shall determine the conditions and criteria for taking the special license for vehicles, which accomplish the organized persons transport.
-189.4. For a violation of this provision, in an amount from 35€ shall be fined, vehicle driver if acts in contradiction with the provisions of this Article.
-189.5. For a violation of this provision, in an amount from 200 to 550€ shall be fined, also the Business Organization or the Public Institution in the name and within the authorization of which the vehicle driver, determined in paragraph 4 of this Article, has acted.

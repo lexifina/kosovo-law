@@ -1,3 +1,0 @@
-# Neni 216
-216.1. Kërkesa për mbajtjen e manifestimit sportiv a të ndonjë manifestimi tjetër ose për bërjen e aktiviteteve në rrugë, do të refuzohen, në qoftë se organizatori, sipas gjykimit të organit kompetent respektivisht Shërbimit Policor të Kosovës, nuk është në gjendje të zbatojë masat nga neni 60, paragrafi 2, të këtij Ligji.
-216.2. Në qoftë se, për shkak të mbajtjes së manifestimit sportiv a të një manifestimi tjetër ose të bërjes së aktiviteteve në rrugë, do të duhej ndaluar qarkullimin në drejtimet më të rëndësishme të komunikacionit apo me manifestimin, përkatësisht me aktivitetin do të rrezikohej në masë të madhe ose do të pengohej komunikacioni rrugor, kërkesa për dhënie të lejes mund të refuzohet.

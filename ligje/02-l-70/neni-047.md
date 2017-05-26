@@ -1,5 +1,0 @@
-# Neni 47
-47.1. Shoferi gjatë afrimit të vend-ndaljes së autobusit të shënuar, brenda zonës së banuar, obligohet që të zvogëloj shpejtësinë dhe nëse është e nevojshme të ndalet, në mënyrë që t’i mundësoj shoferit të autobusit apo ndonjë mjeti tjetër i cili kryen transportin publik të udhëtarëve, që të kyçet në komunikacion, nëse shoferi i mjetit të tillë sinjalizon me treguesin e drejtimit tendencën e tij që të ndërroj shiritin e komunikacionit ose të lëviz nga vend-ndalja e autobusit në rrugë.
-47.2. Shoferi i autobusit të përmendur në paragrafin 1, mund të hyj në shiritin e afërt të komunikacionit ose të lëviz në rrugë vetëm pasi që të sigurohet që veprimi i tillë, nuk do të shkaktoj kurrfarë pengimi apo rreziku në komunikacion.
-21 47.3. Për shkelje të kësaj disopzite, dënohet me gjobë prej 35 € shoferi që vepron në kundërshtim me paragrafin 1 të këtij neni.
-47.4. Për shkelje të kësaj disopzite, dënohet me gjobë prej 35 € shoferi i autobusit që vepron në kundërshtim me paragrafin 2 të këtij neni.

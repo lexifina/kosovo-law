@@ -1,0 +1,6 @@
+# Article 78
+The implementation of technical control
+1. The technical control of vehicles must be performed in compliance with the valid regulations, using standard measuring devices and other equipment. The latter must be approved, checked and certified pursuant to the meteorological rules or well calibrated; if no meteorological rules exist on them, then the instructions for the use of technical control equipment are taken in consideration during the control.
+2. The calibration of the equipment for the technical control of the vehicle is done after the control of seven thousand (7.000) vehicles. The calibration price shall be determined by sub- legal act by the relevant Ministry for trade and industry, in cooperation with the Ministry.
+3. If during the technical inspection is found that the vehicle has no technical defects, a certificate shall be issued to that vehicle stating the time when the vehicle shall perform the next technical control.
+4. A fine of eight thousand (8.000) Euro up to fifteen thousand (15.000) Euro shall be imposed on a legal entity for technical control which, during said control, acts contrary to this Article or issues a technical control certificate in the absence of the vehicle, while a fine of four hundred (400) Euro is imposed on the responsible person.

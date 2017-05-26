@@ -1,5 +1,0 @@
-# Article 340
-340.1. The vehicle movement speed ascertains with equipment measurement of speed movement of vehicle, with information on tachograph or while following the vehicle directly.
-340.2. Photography and the video prescription with info for the ascertained speed, the information in tachograph and the charge sheet for the radar perusal with no prescription and without speedometer, serve as an evidence of the ascertained speed of the vehicles movement.
-340.3. It can not be used or to install the outfits or equipments on the vehicle which have for cause to disturb the equipments which use the authorized persons which make the traffic observation on the road. If the authorized person meets the driver who is using or has installed in vehicle these equipments or 98 outfits will order the driver to remove them, and if the driver refuses to do this, equipment or the outfits will be removed with the driver’s expenditure.
-340.4. For a violation of this provision, in an amount from 140€ shall be fined, the driver who uses or has installed in vehicle equipments or the outfits which use the authorized persons which make the traffic observation on road.

@@ -1,4 +1,0 @@
-# Article 66
-66.1. If to the traffic light on crossroad (junction) is added a supplemental light or supplemental lights with the arrow form, during the time while those lights are on, the driver can cross with the vehicle on the direction of the arrows even during the time while the red light or orange light is on, but must let off the vehicles which are moving on that road where he is entering and the pedestrians who are crossing that road.
-66.2. If the green light on the traffic light has the arrow form, vehicle driver is allowed to move only on the arrow sign directions.
-66.3. For a violation of this provision, in an amount from 130€ shall be fined, vehicle driver who acts in contradiction with the provisions of this Article, to him will be pronounced the defense measure of motored vehicle operation forbiddance in duration from 2 to 6 months and two negative points.

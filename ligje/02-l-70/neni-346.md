@@ -1,4 +1,0 @@
-# Neni 346
-346.1. Personit, nga neni 242 të këtij ligji, i cili refuzon t’i nënshtrohet verifikimit të njohurive apo i cili gjatë verifikimit të njohurive nuk tregon rezultate pozitive, do t’i merret licenca, përkatësisht do t’i ndalohet puna derisa të tregon rezultate pozitive.
-346.2. Personat, nga paragrafi 1 i këtij neni, të cilët gjatë verifikimit të njohurive nuk tregojnë rezultat pozitiv, me kërkesën e tyre mund t’i nënshtrohen verifikimit të serishëm pas afatit të cilin e cakton Ministria e Transportit dhe Post-Telekomunikacionit e jo me pak se 15 ditë që nga dita e verifikimit të fundit.
-346.3. Në qoftë se personat, nga paragrafi 1 i këtij neni, edhe pas tri verifikimeve nuk tregojnë njohuri të mjaftueshme, nuk mund t’i qasen verifikimit të serishëm derisa të kalojnë gjashtë muaj që nga dita e verifikimit të fundit.

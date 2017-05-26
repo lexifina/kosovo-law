@@ -1,5 +1,0 @@
-# Neni 150
-150.1. Shoferi i mjetit gjatë afrimit të vendkalimit për këmbësorë, duhet të ushtroj kujdes të veçantë dhe ti jap përparësi këmbësorit i cili është ose hynë në vendkalim.
-150.2. Në qoftë se komunikacioni në vendkalimin e shënuar të këmbësorëve është i rregulluar me shenjat e komunikacionit me drita, ose me shenjat e personit të autorizuar, shoferi i mjetit është i detyruar ta ndal mjetin e vet para vendkalimit të shënuar për këmbësorë kur me shenjën e dhënë i është ndaluar kalimi.
-150.3. Nëse vendkalimi i shënuar i këmbësorëve nga paragrafi 2 i këtij neni gjendet në hyrje të rrugës, shoferi i cili lëvizë në atë rrugë është i detyruar të lëvizë me shpejtësi të zvogëluar dhe ti lëshoj të kalojnë këmbësorët të cilët gjinden ose hyjnë në vendkalim dhe sipas nevojës ta ndal mjetin e vet për ti lëshuar këmbësorët.
-150.4. Për shkelje të kësaj disopzite, dënohet me gjobë prej 130 €, shoferi që vepron në kundërshtim me dispozitat e këtij neni dhe njëkohësisht i shqiptohet masa e ndalimit e të drejtuarit e mjetit me veprim motorik deri në gjashtë muaj si dhe dy pikë negative.

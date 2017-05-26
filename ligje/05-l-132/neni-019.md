@@ -1,0 +1,9 @@
+# Neni 19
+Obligimet e prodhuesit
+1. Prodhuesi është përgjegjës të sigurojë përputhshmërinë e prodhimit edhe kur nuk është i përfshirë direkt në të gjitha fazat e ndërtimit të mjetit, sistemit, pjesës përbërëse apo njësisë së pavarur teknike, edhe në rastet kur i modifikon, ndryshon pjesët përbërëse apo sistemet tashmë të miratuara në fazat e mëparshme, e që e dëshmon përmes certifikatës së përputhshmërisë.
+2. Kur prodhuesi te cilit i është dhënë homologimi i tipit për mjetin, sistemin, pjesën përbërëse, njësinë e pavarur teknike, ne pajtim me dispozitat e këtij ligji obligohet për tërheqjen e serisë se prodhimeve te tipit tashme te homologuar, kur këto prodhime paraqesin rrezik për sigurinë në rugë, shëndetin publik dhe mjedisin; obligohet menjëherë ta lajmëroje autoritetin për homologim (homologues) dhe të propozoj përshkrimin e masave për korrigjim.
+3. Nëse subjekti i autorizuar për homologim i cili ka dhënë homologimin e tipit është i pakënaqur me masat e ndërmarra nga prodhuesi nga paragrafi 2. i këtij neni, atëherë autoriteti për homologim do të ndërmarrë të gjitha masat mbrojtëse përfshirë edhe tërheqjen e homologimit të tipit të mjetit.
+4. Dënohet me gjobë nga një mijë e pesëqind (1.500) € deri në dy mijë (2.000) € prodhuesi – personi juridik qe vepron ne kundërshtim me dispozitat e këtij neni.
+5. Dënohet me gjobë nga njëmijë (1.000) € deri në dymijë (2.000) € edhe personi përgjegjës pranë prodhuesit që vepron në kundërshtim me dispozitat e këtij neni.
+6. Dënohet me gjobë nga tremijë e pesëqind (3.500) € deri në pesëmijë (5.000) € subjekti i autorizuar që vepron në kundërshtim me dispozitat e këtij neni.
+7. Dënohet me gjobë nga pesëqind (500) deri në njëmijë (1.000) € personi përgjegjës pranë subjektit të autorizuar që vepron në kundërshtim me dispozitat e këtij neni.
