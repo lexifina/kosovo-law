@@ -1,0 +1,3 @@
+# Neni 32
+Dispozitat kalimtare 1. Brenda tetëmbëdhjetë (18) muajve, pas hyrjes në fuqi të këtij ligji, Ministria e Drejtësisë do të bëjë ndryshimin-plotësimin e Udhëzimit Administrativ për tarifat për shpërblimet dhe kompensimin e shpenzimeve për përmbaruesit privatë.
+2. Deri në ndryshimin-plotësimin e udhëzimi administrativ të paraparë në paragrafin 1. të këtij neni, vlejnë dispozitat e Udhëzimit Administrativ për tarifat për shpërblimet dhe kompensimin e shpenzimeve për përmbaruesit privatë. Hyrja në Fuqi Ky ligj hyn në fuqi pesëmbëdhjetë (15) ditë pas publikimit në Gazetën Zyrtare të Republikës së Kosovës. Ligji Nr. 05/L-118 18 prill 2017 Shpallur me dekretin Nr. DL-025-2017, datë 04.05.2017 nga Presidenti i Republikës së Kosovës Hashim Thaçi.

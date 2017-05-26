@@ -1,0 +1,8 @@
+# Neni 4
+1. Neni 13, i ligjit bazik, paragrafi 1. pas fjalës “kreditori” shtohet fjalia: “përveç shpenzimeve lidhur me efikasitetin e përmbarimit e cila përcaktohet me marrëveshje në mes të përmbaruesit privat me kreditorin”.
+2. Neni 13 i ligjit bazik, pas paragrafit 1., shtohet paragrafi i ri 1a., me tekstin si vijon: 1a. Tarifat për administrimin e rastit, si dhe tarifat tjera që paguhen nga debitori përcaktohen me akt nënligjor, të cilin e nxjerr ministri, ndërsa tarifa e efikasitetit të përmbarimit është tarifë, e cila paguhet nga kreditori vetëm pas kryerjes së përmbarimit dhe deri në vlerën e përmbaruar dhe shuma e saj përcaktohet me marrëveshje në mes të kreditorit dhe përmbaruesit privat brenda kufirit maksimal dhe minimal të përcaktuar me akt nënligjor të ministrit.
+Ligji Nr. 05/L-118 PËR NDRYSHiMiN DHE PLOTËSiMiN E LigjiT Nr. 04/L-139 PËR PROCEDURËN PËRMBARiMORE 3. Neni 13 i ligjit bazik, paragrafi 2. pas fjalës “neni” shtohen fjalët “përveç shpenzimeve lidhur me efikasitetin e përmbarimit”.
+4. Neni 13 i ligjit bazik, paragrafi 4., ndryshohet dhe plotësohet si vijon:
+4. Përveç tarifës së efikasitetit të përmbarimit, e cila përcaktohet me marrëveshje në mes të përmbaruesit privat dhe kreditorit, tarifat tjera paraprakisht paguhen nga kreditori, dhe pas përfundimit të procedurës, ato i ngarkohen debitorit.
+5. Neni 13 i ligjit bazik, pas paragrafit 6., shtohet paragraf i ri 7, me tekstin si vijon:
+7. Përjashtimisht paragrafëve 1,2,3 dhe 4 të këtij neni, organi i cili shqipton sanksion kundërvajtës me gjobë, tarifa e efikasitetit caktohet si tarifë fikse dhe i ngarkohet debitorit.

@@ -1,0 +1,9 @@
+# Article 4
+1. Article 13 of the basic Law, paragraph 1., after the word “creditor” shall be added the following sentence “except costs related to efficiency of the enforcement which may be determined by an agreement between private enforcement agent and the creditor”.
+2. Article 13 of the basic Law, after paragraph 1., a new paragraph 1a. shall be added with the following text: 1a. Fees for the administration of the case and other fees that are to be paid by the debtor shall be determined by a sub-legal act issued by the Minister, whereas the efficiency fee of the enforcement is a fee, which is paid by the creditor after completion
+LAW No. 05/L-118 ON AMENDING AND SUPPLEMENTING THE LAW No. 04/L-139 ON ENFORCEMENT PROCEDURE of the enforcement and only with respect to the value enforced and its amount shall be determined by an agreement between the creditor and the private enforcement agent within the maximum and minimum limit determined by a sub-legal act of the Minister.
+3. Article 13 of the basic Law, paragraph 2., after the word “article”, the following phrase shall be added “except costs related with the efficiency of the enforcement”.
+4. Article 13 of the basic Law, paragraph 4. shall be amended and supplemented with the following text:
+4 Except the efficiency fee of the enforcement, which is determined by agreement between private enforcement agent and the creditor, other initial fees are to be paid by the creditor, and after completion of the procedure they are to be charged to the debtor.
+5. Article 13 of the basic law, after paragraph 6. a new paragraph 7. shall be added with the following text:
+7. Notwithstanding paragraph 1., 2., 3. and 4. of this Article the body which imposes misdemeanor sanction with a fine, the efficiency fee is determined as a fixed fee and is attributable to the debtor.

@@ -1,0 +1,6 @@
+# Article 22
+Article 234 of the basic Law is reworded with the following text:
+1. In the first session of the public sale, real estate cannot be sold at a price that is lower than fifty percent (50%) of the value of real estate as appraised. The starting offers for the first session that are lower than fifty percent (50%) of the appraised value will not be reviewed.
+LAW No. 05/L-118 ON AMENDING AND SUPPLEMENTING THE LAW No. 04/L-139 ON ENFORCEMENT PROCEDURE 2. In case the real estate is not sold in the first session of the public sale, the enforcement body shall designate a second session of the public sale within a time frame of fifteen (15) to thirty (30) days. At this session, real estate shall not be sold at a value lower than one third (1/3) of the value of real estate as appraised.
+3. In case real estate is not sold in the second auction, the enforcement body shall, by proposal of creditor, render a decision to hand over the real estate to the ownership of creditor, in which case the claim against the debtor is considered fully covered.
+4. In case there are no persons with the right of pre-emption or contractual right, than the person who according to this law has right of settlement with priority of his credit from selling price, shall acquire the right of pre-emption of the real estate at the price reached in the second session.

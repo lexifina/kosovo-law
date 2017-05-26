@@ -1,0 +1,7 @@
+# Neni 22
+Neni 234 i ligjit bazik, riformulohet me tekstin si në vijim:
+1. Në seancën e parë të shitjes publike, paluajtshmëria nuk mund të shitet me çmimin që është më i ulët se pesëdhjetë përqind (50%) e vlerës së përcaktuar me vlerësimin e paluajtshmërisë. Ofertat fillestare në seancën e parë të shitjes publike, të cilat janë më të vogla se pesëdhjetë përqind (50%) e vlerës së përcaktuar, nuk do të shqyrtohen.
+2. Në qoftë se paluajtshmëria nuk ka mundur të shitet në seancën e parë të shitjes publike, organi përmbarues e cakton seancën e dytë të shitjes publike, brenda afatit prej pesëmbëdhjetë (15) deri në tridhjetë (30) ditë. Në këtë seancë, paluajtshmëria nuk mund të shitet me çmim më të vogël se një e treta (1/3) e vlerës së përcaktuar të paluajtshmërisë”.
+3. Në qoftë se paluajtshmëria nuk ka mundur të shitet as në ankandin e dytë, atëherë me propozim të kreditorit, organi përmbarues merr vendim që paluejtshmëria t’i dorëzohet kreditorit duke kaluar në pronësi të tij, me ç‘rast edhe kërkesa ndaj debitorit
+Ligji Nr. 05/L-118 PËR NDRYSHiMiN DHE PLOTËSiMiN E LigjiT Nr. 04/L-139 PËR PROCEDURËN PËRMBARiMORE konsiderohet si e përmbushur në tërësi.
+4. Po që se nuk ekzistojnë persona me të drejtë parablerjeje ligjore, apo kontraktuale, atëherë personi i cili sipas këtij ligji e ka të drejtën e realizimit me prioritet të kredisë së tij nga çmimi i shitjes, e fiton të drejtën e parablerjes së palujatshmërisë me çmimin e arritur në seancën e dytë.
