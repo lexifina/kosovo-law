@@ -1,0 +1,6 @@
+# Article 72
+Other languages and translations
+1. When a party makes a submission in a language other than determined by the Law on Language Use in the Republic of Kosovo, the public organ, without delay shall ask the party to provide translation within a reasonable deadline and informs him/her on the legal consequences if the translation, under paragraph 2. of this Article, is not submitted.
+2. If the party submits no translation within the deadline established under paragraph 1. of this Article, the submission shall be deemed abandoned.
+3. If the party provides the translation within the established deadline, according to paragraph 1. of this Article, the proceeding shall be deemed initiated at the date of the original submission for all legal purposes, except in relation to the deadline for the completion of the administrative proceeding, which shall only start counting from the date of submission of the translation.
+4. If upon receiving a submission in a language other than determined by the Law on the Use of Languages of the Republic of Kosovo the public organ fails to act in accordance with paragraph 1. of this Article, the deadline for the completion of the administrative proceeding shall, with all legal consequences, start counting from the date of such submission, which shall be deemed valid.

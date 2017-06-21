@@ -1,0 +1,5 @@
+# Neni 27
+Përgjegjësia për procedurën dhe vendimmarrjen
+1. Përveçse kur parashikohet ndryshe me ligj, zyrtari përgjegjës zhvillon procedurën administrative, vendos për çështjen, e nënshkruan vendimin si dhe siguron njoftimin e palës.
+2. Nëse, në dispozitat ligjore, parashikohet se vendimi përfundimtar merret dhe nënshkruhet nga një zyrtar tjetër i organit publik, i ndryshëm nga zyrtari përgjegjës, ky i fundit zhvillon procedurën administrative, përgatit një raport me shkrim, në të cilin paraqet një përmbledhje të procedurës së kryer si dhe formulon projekt-aktin apo kontratën administrative dhe ia paraqet atë për miratim dhe nënshkrim zyrtarit tjetër të përcaktuar nga ligji apo akti nënligjor.
+3. Nëse zyrtari tjetër nuk është dakord me projekt-aktin/kontratën e propozuar, ai është përgjegjës për hartimin apo zëvendësimin e projekt-aktit/kontratës administrative dhe nënshkrimin tij/saj. Raporti dhe projekt–akti/kontrata e propozuar nga zyrtari përgjegjës bëhet gjithashtu pjesë e dosjes së çështjes.

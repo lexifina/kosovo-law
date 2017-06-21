@@ -1,0 +1,10 @@
+# Article 119
+Delivery in person
+1. The delivery in person is done by a public organ official, by handing over the document to the recipient in person to one of the notification places provided under this Law. The delivery in person shall be certified with a delivery slip which is signed by both the recipient and the deliverer– official of the public organ (hereinafter: “deliverer”).
+2. If the recipient is not found at the place of notification, the official makes a second attempt to deliver in person, not earlier than twenty four (24) hours and not later than seventy two (72) hours after the first attempt.
+3. If the recipient is not found on the second attempt or in case he refuses to receive, the public organ official takes appropriate note and, when possible, certifies such situation with the signatures of two (2) witnesses present at the site.
+4. In the case referred to under paragraph 3. of this Article, the public organ official displays a notice at the place of notification, specifying the recipient and the place where the document can be received. The note shall also specify the date and hour when the notice was left, and the date that will be considered date of delivery in accordance with paragraph 5. of this Article. The display and notice information are also reflected in the delivery note which is certified with the signatures of two (2) present witnesses.
+5. The delivery, under paragraph 4. of this Article, shall be considered done after three (3) days from placing the notification.
+6. If the recipient is illiterate or cannot sign, the deliverer, in the presence of two (2) witnesses who sign the receipt, will mark his name and date of delivery and make note why the recipient has not put his signature.
+7. The delivery shall be done only during the working days and between 7:00 to 19:00.
+8. The public organ whose document must be delivered, for particularly important reasons can determine that the delivery is to be done on non-working days, national holidays and other holidays, even after 19:00, if this is needed without delay.

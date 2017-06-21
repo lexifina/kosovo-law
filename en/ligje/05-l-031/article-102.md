@@ -1,0 +1,5 @@
+# Article 102
+Death of a party and termination of a juridical person
+1. Should a natural person die in the course of the administrative proceeding dealing with matters personally related to him (“intuitu personae”) the public organ shall close the file and terminate the proceeding by a decision.
+2. In any other case than the one provided under paragraph 1. of this Article, when a natural person dies in the course of administrative proceeding of which he is a party, if the public organ considers the participation of the party as necessary, it shall temporarily suspend the proceeding until the legal successor is appointed.
+3. Except when the law provides otherwise, in case of extinction of a legal person who is a party of the proceeding, when another legal person takes over its rights and obligations in accordance with the law, the public organ shall continue the proceeding with the latter. In any other case, the public organ shall close the file and declare the termination of the proceeding.

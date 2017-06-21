@@ -1,0 +1,15 @@
+# Neni 33
+Pikat e vetme të kontaktit
+1. Kur sipas ligjit dy apo më shumë organe publike janë të përfshira në një procedurë të vetme administrative, të gjithë hapat proceduralë dhe formalitetet e nevojshme duhet të trajtohen nëpërmjet një pike të vetme kontakti.
+2. Ekzistenca e një pike të vetme kontakti nuk cenon kompetencën e secilit prej organeve publike si dhe të drejtën e palëve t’i drejtohen dhe komunikojnë drejtpërdrejt me organin publik kompetent.
+3. Pika e vetme e kontaktit ka këto detyra:
+3.1. të këshillojë aplikantin, njësoj siç detyrohet të bëjë organi publik kompetent dhe, t’i sigurojë atij informimin dhe ndihmën aktive sipas nenit 11 të këtij Ligji. Kjo përfshinë edhe informatat për mjetet dhe kushtet për qasjen në regjistrat publikë dhe në bazat e të dhënave shtetërore, si dhe për mjetet juridike.
+3.2. të pranojë kërkesën për nxjerrjen e një akti administrativ apo kryerjen e një akti real, si dhe çdo parashtresë tjetër sipas nenit 77 të këtij Ligji dhe t’ia transferojë ato organit publik kompetent;
+3.3. të komunikojë me palën, gjatë procedurës për të gjitha kërkesat procedurale, dhe
+3.4. t’ia bëjë të njohur palës çdo akt apo veprim administrativ, të nxjerrë/kryer nga organi publik kompetent, përfshirë aktet apo veprimet procedurale.
+4. Shërbimet e përcaktuara në paragrafin 3 të këtij neni, kryhen me kërkesë të palës, drejtpërdrejt në ambientet e pikës së vetme të kontaktit, si dhe nëpërmjet postës apo në mënyrë elektronike. Kjo nuk zbatohet për inspektimet në vend apo inspektimet e tjera fizike apo personale, të parashikuara nga ligji.
+5. Kërkesa e palës do të vlerësohet e parashtruar në kohë, nëse është parashtruar sipas këtij Ligji, në pikën e vetme të kontaktit apo në organin publik kompetent. Ndërsa afatet që ecin kundrejt organit publik, fillojnë të llogariten me parashtrimin e kërkesës së plotë, sipas këtij Ligji, në pikën e vetme të kontaktit, pavarësisht nga koha e nevojshme për transferimin e tyre te organi publik kompetent.
+6. Si rregull, ndërmjet organeve publike kompetente të përfshira në procedurën administrative pika e vetme e kontaktit do të jetë organi përgjegjës për vendimmarrjen më të rëndësishme. Caktimi apo krijimi i pikës së vetme të kontaktit, bëhet me marrëveshje të organeve publike kompetente të përfshira, apo me vendim të Qeverisë të Kosovës.
+7. Marrëveshja apo vendimi, sipas paragrafit 6 të këtij neni, përcakton gjithashtu, procedurat e brendshme të komunikimit ndërmjet pikës së vetme të kontaktit dhe organeve të tjera publike të përfshira.
+8. Si rregull, të gjitha procedurat dhe formalitetet administrative, në kompetencën e organeve të ndryshme publike, të nevojshme për fillimin dhe ushtrimin e një veprimtarie të caktuar shërbimi, do të trajtohen nëpërmjet një pike të vetme kontakti. Dispozitat e paragrafit 1 deri 7 të këtij neni zbatohen përshtashmërisht edhe në këtë rast. Qeveria e Kosovës përcakton veprimtaritë e shërbimit si dhe procedurat administrative dhe formalitetet e tjera, lidhur me fillimin dhe ushtrimin e veprimtarisë së shërbimit, të cilat kryhen nëpërmjet pikave të vetme të kontaktit.
+NËNKAPITULLI V Ndihma ndërmjet organeve publike (ndihma administrative)

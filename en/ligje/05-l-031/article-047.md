@@ -1,0 +1,10 @@
+# Article 47
+Structure and statutory elements of the written administrative act
+1. A written administrative act shall consist of:
+1.1. the introductory part, which indicates the name of the issuing public organ, legal basis, the name of the addressee, a brief note on the subject of the proceeding and date of issuance;
+1.2. the decisional part (Decision), which indicates what was decided including the term, condition or obligation (if applicable) as well as the costs of the proceedings, if any. The decisional part may be divided into more points. The costs of proceedings are quantified under a separate point of the decisional part;
+1.3. reasoning part (rationale);
+1.4. the concluding part, indicating when the act enters into force, legal remedies, including the public organ or the court where the legal remedy may be lodged, its form, the deadline for lodging and the way such deadline is calculated(legal advice). In case the lodging of an administrative appeal, according to the law, does not suspend the enforcement of the administrative act, the concluding part shall also contain this information as well as the reference to legal grounds for such exception.
+2. If the law does not provide otherwise, the written administrative act, shall also contain the signature or the written name and surname of the responsible official or the chair of the collegial body and the minutes-taker or in case if the latter is unable to sign, by any other member of the collegial organ.
+3. The signature requirement regarding electronic documents, under paragraph 2. of this Article shall be considered as fulfilled by an electronic signature in accordance with the special law. The electronic signature shall be based on a qualified certificate in which the identity of the public organ is expressed.
+4. The Government of the Republic of Kosovo may define by special decision another safe method that secures the authenticity and the integrity of the sent electronic document, and its particulars. An electronic document secured according to a decision of the Government shall be deemed as signed.

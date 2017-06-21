@@ -1,0 +1,11 @@
+# Article 16
+Ex-officio representative
+1. If no legal representative has been appointed to a natural person with no or limited capacity, if the appointed legal representative has a conflict of interest with that person or the legal representative is obviously not acting with due diligence, the public organ shall suspend the proceeding and shall request the appointment or the substitution of the legal representative to the organ competent for appointing the legal representative.
+2. In the cases provided in paragraph 1. of this Article, if there is urgency and when the interests of a party require so, the public organ may appoint an ex-officio representative until a legal representative has been appointed or substituted accordingly.
+3. The public organ conducting the administrative proceeding may also appoint an ex officio representative in the following cases:
+3.1. when communication with the party is impossible;
+3.2. the party is objectively prevented from looking after its interests and has not appointed a representative; or
+3.3. the party has no known residence or domicile in Kosovo and has not appointed a representative within the deadline set by the public organ.
+4. The public organ shall notify, without delay, the party about such appointment of representative. In the cases provided under subparagraph 3.1 and 3.3 of this Article, public organ shall notify about the appointment of representative through public announcement referred to in Article 122 of this Law.
+5. The ex-officio representative, in compliance with paragraph 2. of this Article shall participate and represent the party only in the procedural action for which he has been explicitly appointed or until the appointment or substitution of the legal representative. In the case provided for in paragraph 3. of this Article, the ex officio representative shall take part in the proceedings until the appearance of the party or his authorized representative.
+6. The ex-officio representative appointed by the public organ according to paragraphs 2. and 3. of this Article works on a voluntary basis but may request from the public organ the reimbursement of the unavoidable expenses caused by undertaking the assigned procedural actions.

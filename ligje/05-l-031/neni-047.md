@@ -1,0 +1,10 @@
+# Neni 47
+Struktura dhe elementet e detyrueshme të aktit administrativ të shkruar
+1. Akti administrativ i shkruar përmban:
+1.1. pjesën hyrëse, që tregon emrin e organit publik që ka nxjerrë aktin, bazën ligjore, emrin e atij të cilit i drejtohet akti, shënim të shkurtër të lëndës së procedurës dhe datën e nxjerrjes;
+1.2. pjesën urdhëruese (dispozitivin), që tregon çfarë është vendosur si dhe afatin, kushtin, detyrimin dhe shpenzimet e procedurës, nëse është i zbatueshëm. Dispozitivi mund të ndahet edhe në më shumë pika. Shpenzimet e procedurës përcaktohen në pikë të veçantë të dipozitivit.
+1.3. pjesën arsyetuese (në vijim: arsyetimin);
+1.4. pjesën përmbyllëse, që tregon kohën e hyrjes në fuqi të aktit, informatat për mjetet juridike, përfshirë organin publik apo gjykatën ku paraqitet mjeti juridik administrativ apo gjyqësor, formën e mjetit, afatin përkatës dhe mënyrën e llogaritjes së tij (këshillën juridike). Në rast kur ushtrimi i ankesës administrative, sipas ligjit, nuk pezullon zbatimin e aktit administrativ, pjesa përmbyllëse gjithashtu duhet të përmbajë këtë informacion, si dhe bazën ligjore për një përjashtim të tillë.
+2. Nëse nuk parashikohet ndryshe me ligj, akti administrativ i shkruar përmban emrin e mbiemrin e shkruar dhe nënshkrimin e nëpunësit përgjegjës gjegjësisht të kryetarit dhe të procesmbajtësit të organit kolegjial. Nëse procesmbajtësi ndodhet në pamundësi për të nënshkruar, në vend të tij nënshkruan një nga anëtarët e organit kolegjial.
+3. Kërkesa e nënshkrimit, sipas paragrafit 2 të këtij neni, në rastin e një dokumenti elektronik, do të vlerësohet e përmbushur nga një nënshkrim elektronik i kryer në pajtim me ligjin e posacëm. Nënshkrimi elektronik duhet të bazohet në një certifikatë të kualifikuar, në të cilën shprehet identiteti i organit publik përkatës.
+4. Qeveria e Republikës të Kosovës, me vendim të posaçëm, mund të përcaktojë një mënyrë tjetër të sigurt, që garanton autenticitetin dhe integritetin e dokumentit elektronik të dërguar dhe veçantitë e tij. Një dokument elektronik i garantuar në pajtim me një vendim të tillë të Qeverisë, do të vlerësohet, gjithashtu, si i nënshkruar.

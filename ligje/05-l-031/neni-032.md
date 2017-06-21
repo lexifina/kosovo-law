@@ -1,0 +1,8 @@
+# Neni 32
+Vendimmarrja e përbashkët e organeve publike
+1. Kur sipas ligjit, dy apo më shumë organe publike vendosin në një procedurë të vetme apo në disa procedura që lidhen me një veprimtari apo rezultat të vetëm, ato përcaktojnë me marrëveshje organin publik që do të nxjerrë aktin administrativ të përbashkët, i cili përfshin edhe vendimin e organit tjetër publik.
+2. Pavarësisht paragrafit 1 të këtij neni, secili prej organeve të përfshira, vendos vetëm brenda kompetencës përkatëse.
+3. Përveç kur parashikohet ndryshe me ligj, mosmarrëveshjet ndërmjet dy organeve publike lidhur me paragrafin 1 të këtij neni, zgjidhen sipas nenit 25 të këtij Ligji.
+4. Nëse me ligj është përcaktuar se, një organ publik vendos pas marrjes më parë të pëlqimit të mendimit apo miratimit të një organi tjetër publik, ky i fundit duhet ta japë mendimin, pëlqimin apo miratimin në një afat prej pesëmbëdhjetë (15) ditëve prej parashtrimit të kërkesës, përveç kur me dispozita të veçanta parashikohet një afat tjetër.
+5. Nëse nuk parashikohet ndryshe me ligj, kur organi publik, mendimi, pëlqimi apo miratimi i të cilit kërkohet nuk vepron brenda afatit të caktuar në paragrafin 4 të këtij neni, konsiderohet se mendimi, pëlqimi apo miratimi është dhënë dhe është në favor të palës. Në këtë rast, organi publik që nuk ka vepruar brenda afatit dhe organi i tij epror do të njoftohen për vazhdimin e procedurës në bazë të prezumimit të dhënies së mendimit, pëlqimit apo miratimit në favor të palës.
+6. Organi publik i cili nxjerrë vendim, është i detyruar që në vendimin e tij ta cekë aktin me të cilin organi tjetër publik ka dhënë apo ka refuzuar mendimin, pëlqimin apo miratimin, përkatësisht të cekë se në afatin e përcaktuar organi tjetër publik e ka dhënë ose jo atë.

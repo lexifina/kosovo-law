@@ -1,9 +1,0 @@
-# Article 18
-Wrongful submission of a request to non-competent body
-18.1. In cases when natural and legal persons, by mistake, submit requests to a public administration body, which has no competences over the subject of the request, the following procedure shall apply:
-a) the public administration body, to which the request is wrongfully submitted shall in the course of 2 days upon receipt, reach a decision declaring its non-competence over the matter;
-b) if the competent body to which the request should have been submitted belongs to the same ministry, agency, institution or structure, the request shall be forwarded to such competent body, accompanied by a cover letter from the body wrongly receiving it, one day after its declaration of non-competence. Natural and legal persons, wrongly submitting the request shall be notified in accordance with the procedure set out in
-Section VI, Part V of this Law;
-c) If the competent body to which the request, should have been submitted belongs to another ministry, agency, institution or structure, the request shall be returned to the natural and legal persons who submitted it 2 working days after the day when the request was made, which shall include the declaration of non-competence as well as any information on the competent body to which the natural and legal persons should approach.
-18.2. In cases set out in paragraph 1, item (c) hereof, a new timeline for termination of administrative proceeding shall be set. The new deadline shall be the same as the first one and shall be calculated since the moment when the natural and legal persons wrongly submitting the request, was notified.
-18.3. The decision of the public administration body declaring the non-competence may be appealed against by natural and legal persons in conformity with the procedures of the Article 28 of this Law.

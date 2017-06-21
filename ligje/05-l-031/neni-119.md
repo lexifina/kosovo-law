@@ -1,0 +1,10 @@
+# Neni 119
+Dorëzimi personal
+1. Dorëzimi personal bëhet nga nëpunësi i organit publik, nëpërmjet dorëzimit të shkresës personalisht marrësit, në një nga vendet e njoftimit të parashikuara nga ky Ligj. Dorëzimi i kryer personalisht vërtetohet me fletë-dorëzim, të cilin e nënshkruan marrësi dhe dorëzuesi – nëpunësi i organit publik (në vijim: “dorëzuesi)”.
+2. Nëse marrësi nuk gjendet në vendin e njoftimit, nëpunësi i organit publik bën një përpjekje të dytë për dorëzimin personal, jo më parë se njëzet e katër orë (24) orë dhe jo më vonë se shtatëdhjetë e dy (72) orë nga përpjekja e parë.
+3. Kur marrësi nuk gjendet në përpjekjen e dytë apo në rastet kur ai refuzon marrjen në dorëzim, nëpunësi bën shënimin përkatës në një fletë-dorëzim dhe, kur është e mundur, e vërteton situatën me nënshkrimin e dy dëshmitarëve të pranishëm.
+4. Në rastin e parashikuar në paragrafin 3 të këtij neni, nëpunësi i organit publik vendos një shënim në mjediset e vendit të njoftimit, duke specifikuar marrësin dhe zyrën përkatëse në organin publik ku mund të tërhiqet shkresa. Në shënim përcaktohet data dhe ora e lënies së shënimit, si dhe data që do të vlerësohet si data e kryerjes së njoftimit, sipas paragrafit 5 të këtij neni. Bërja e shënimit dhe të dhënat përkatëse, gjithashtu ceken në fletë-dorëzim i cili, kur është e mundur, vërtetohet me nënshkrimet e dy dëshmitarëve.
+5. Dorëzimi sipas paragrafit 4 të këtij neni, vlerësohet i kryer pas tre (3) ditëve nga data e vendosjes së shënimit.
+6. Nëse marrësi nuk mund të nënshkruajë, dorëzuesi, në praninë e dy dëshmitarëve të cilët nënshkruhen në fletë-dorëzim, do ta shënojë emrin e tij dhe ditën e dorëzimit dhe do të bëjë shënim pse marrësi nuk e ka vënë nënshkrimin e vet.
+7. Dorëzimi bëhet vetëm gjatë ditëve të punës, nga ora 7:00 deri në 19:00.
+8. Organi publik, dokumenti i të cilit duhet të dorëzohet, nga shkaqe veçanërisht të rëndësishme mund të përcaktojë që dorëzimi të bëhet edhe në ditë jo pune, ditë të festave shtetërore dhe festave tjera dhe ditë jo pune të cilat festohen, edhe pas orës 19:00, nëse kjo është e domosdoshme.

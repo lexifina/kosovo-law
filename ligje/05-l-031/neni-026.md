@@ -1,0 +1,6 @@
+# Neni 26
+Zyrtari përgjegjës për procedurën administrative
+1. Organi publik kompetent, në një procedurë administrative, vepron nëpërmjet zyrtarit përgjegjës të përcaktuar sipas këtij neni.
+2. Nëse nuk është përcaktuar drejtpërdrejt me ligj të veçantë, me akt nënligjor apo me rregullat e brendshme administrative të organizimit, titullari i organit publik, cakton paraprakisht, në përputhje me rregullat e organizimit të brendshëm, një njësi përgjegjëse për çdo lloj të procedurës administrative në kompetencë të organit. Vendimi bëhet publik me mjete të përshtatshme, përfshirë ueb-faqen e organit publik.
+3. Drejtuesi i njësisë përgjegjëse, të përcaktuar sipas paragrafit 2 të këtij neni, mban vetë ose ia delegon një nëpunësi tjetër të njësisë, përgjegjësinë për zhvillimin e procedurës administrative (në vijim: “zyrtari përgjegjës”). Drejtuesi i njësisë përgjegjëse, prezumohet të jetë zyrtar përgjegjës, deri në caktimin e një zyrtari tjetër përgjegjës sipas këtij paragrafi.
+4. Organi kolegjial mund t’ia delegojë njërit nga anëtarët e tij detyrën që të kryejë procedimin administrativ dhe të marrë vendimin, nëse kjo parashikohet shprehimisht me ligj të veçantë. Në këtë rast, anëtari i ngarkuar vepron si zyrtar përgjegjës dhe vë në dijeni organin kolegjial mbi rezultatet e procedurës administrative, përveçse kur parashikohet ndryshe me ligj.

@@ -1,0 +1,4 @@
+# Article 128
+Organ to whom the appeal shall be addressed
+1. Unless provided otherwise by law, an administrative appeal against an administrative act may be filed with the public organ that issued or that has the competence to issue the act (hereinafter referred to as “competent organ”), public organ that is superior to the competent organ or to another public organ provided by law (hereinafter referred to as “superior organ”). If the appeal has been filed with the superior organ, the latter shall forward it without delay to the competent organ.
+2. An appeal against administrative silence may be filed with the superior organ. If filed with the competent organ, the latter shall forward it without delay to the superior organ accompanied with the case file and a written report indicating reasons of silence.
