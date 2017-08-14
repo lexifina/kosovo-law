@@ -1,0 +1,7 @@
+# Neni 15
+Pjesëmarrja në programin trajnues
+1. Programet trajnuese do të ofrohen për instalues me përvojë, të cilët kanë kaluar apo aktualisht janë duke kaluar në llojet e trajnimeve si në vijim:
+1.1. në rastin e instalimit të bojlerëve apo kaldajave të biomasës, trajnime për instalues të hidraulikës, montues tubash, inxhinierë të energjisë termike, teknikë sanitarë dhe i pajisjeve për ngrohje apo ftohje, si parakusht;
+1.2. në rastin e instaluesve të pompave termike, trajnime si mjeshtër të hidraulikës, apo inxhinierë të ftohjes me shkathtësi bazike të energjisë elektrike dhe hidraulikes,prerje të tubave, saldim të nyjave, ngjitja e materialeve montuese, testimi i rrjedhjeve të sistemeve të ngrohjes apo ftohjes, si parakusht;
+1.3. në rastin e instaluesve të paneleve fotovoltaike apo diellore termike, trajnim në inxhinieri hidraulike apo të energjisë elektrike, për përsona me shkathtësi në hidraulikë, energji elektrike dhe izolim, duke përfshirë njohuri në saldimin e nyjave të tubave, ngjitjen e materialeve montuese, testim për rrjedhje nga hidraulika, aftësi për të lidhur tela, njohuri për materiale bazike për izolim, metoda të ndezjes dhe mbylljes, si parakusht; apo
+1.4. skemë për trajnime profesionale për t’i ofruar instaluesit shkathtësi adekuate që korrespondojnë me tri (3) vite shkollim në aftësitë e listuara në paragrafët 1.1., 1.2. apo 1.3. të këtij neni, duke përfshirë mësim në klasë dhe në vend të punës.

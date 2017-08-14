@@ -1,0 +1,6 @@
+# Neni 14
+Programi trajnues
+1. Ministria në konsultim me palët tjera të interesit si përfaqësuesit e industrisë së instaluesve dhe prodhuesve, kërkon nga Ministria përkatëse për arsim të përcaktojë përmbajtjen e programit trajnues për instaluesit e pajisjeve në stabilimentet që shfrytëzojnë biomasë, pompa termike, instalime të cekëta gjeotermike, kolektorëve diellor për energji termike dhe pajisjeve fotovoltaike.
+2. Testi mbahet nga organet profesionale, të cilat do të vendosen me anë të një vendimi të nxjerrë nga Ministria përkatëse për arsim, në bashkëpunim me Ministrinë dhe përfaqësues të industrisë së instaluesve dhe prodhuesve.
+3. Trajnimi duhet të përfshijë pjesën teorike dhe praktike, si dhe duhet të rezultojë me aftësimin e personelit të trajnuar për instalimin e pajisjeve dhe sistemeve përkatëse, në nivelin që është i mjaftueshëm për përmbushjen e kërkesave për përformancë dhe besueshmëri të konsumatorëve, për të siguruar punë cilësore në përputhje me të gjitha kodet dhe standardet e aplikueshme, duke përfshirë eko-etiketimin.
+4. Kursi i trajnimit përfundon me një test, pas së cilit lëshohet certifikata apo kualifikimi. Testi do të përfshijë një vlerësim praktik të instalimit të suksesshëm të pajisjeve apo sistemeve që shfrytëzojnë burime të ripërtërishme të energjisë.
