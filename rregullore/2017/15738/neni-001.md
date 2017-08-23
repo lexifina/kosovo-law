@@ -1,0 +1,4 @@
+# Neni 1
+Lënda dhe fushëveprimi
+Kjo rregullore përcakton rregullat e hollësishme për operatorët e vendeve të treta të avionëve të përmendur në nenin 4(1)(d) të Shtojcës së Rregullores të AAC- së Nr. 03/2009 (që transpozon në rendin e brendshëm juridik të Republikës së Kosovës Rregulloren (KE) Nr. 216/2008) të ndryshuar, referuar më poshtë si të Shtojcës së Rregullores të AAC-së Nr. 03/2009, të përfshirë në operacionet e transportit ajror komercial në, brenda ose jashtë territorit që i nënshtrohen dispozitave të Traktatit, përfshirë kushteve për lëshimin, mbajtjen, ndryshimin, kufizimin, pezullimin ose revokimin e autorizimeve të tyre, privilegjet dhe përgjegjësitë e bartësve të autorizimeve si dhe kushteve nën të cilat operacionet ndalohen, kufizohen ose u nënshtrohen kushteve të caktuara në interes të sigurisë.
+Faqe 5 nga 43
