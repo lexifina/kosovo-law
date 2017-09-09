@@ -1,0 +1,8 @@
+# Neni 9
+Konsistenca midis planeve të fluturimit dhe
+sloteve të aeroportit
+1. Republika e Kosovës duhet të sigurojë që, kur kërkohet nga një koordinator i slotit të aeroportit ose nga një organ drejtues i një aeroporti të koordinuar, njësia qendrore e MFTA-së apo njësitë lokale të MFTA-së u ofrojnë atyre planin e fluturimit të pranuar të një fluturimi që operon në atë aeroport, para se të zhvillohet fluturimi. Koordinatorët e slotit të aeroportit apo organet drejtuese të aeroporteve të koordinuara duhet të organizojnë qasjen në planet e fluturimeve të pranuara të ofruara nga njësia qendrore e MFTA-së ose njësia lokale e MFTA-së.
+2. Para fluturimit, operatorët duhet t’u sigurojnë aeroporteve informacionin e nevojshëm për nisjen dhe mbërritjen, për të mundësuar një korrelacion midis përcaktuesit të fluturimit të përfshirë në planin e fluturimit dhe atij të njoftuar për slotin e aeroportit përkatës.
+Faqe 19 nga 27
+3. Çdo operator, organ i menaxhimit të aeroportit dhe njësi e ShTA-së ka të drejtën e raportimit tek koordinatori i slotit të aeroportit për realizimin e përsëritur të shërbimeve ajrore në kohë që dallojnë dukshëm nga slotet e caktuara të aeroporteve apo me përdorimin e sloteve në mënyrë shumë të ndryshme nga ajo e treguar në kohën e caktimit, në rastin kur kjo dëmton aeroportin ose operacionet e trafikut ajror.
+4. Republika e Kosovës duhet të sigurojnë se njësia qendrore e MFTA-së u raporton koordinatorëve të sloteve të aeroportit mbi realizimin e përsëritur të shërbimeve ajrore në kohë që dallojnë nga ato të caktuara në slotet e aeroportit apo me përdorimin e sloteve në një mënyrë shumë të ndryshme nga ajo e treguar në kohën e caktimit, kur kjo sjell dëmtime të MFTA-së.
