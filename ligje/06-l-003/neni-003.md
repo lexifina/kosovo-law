@@ -1,0 +1,2 @@
+# Neni 3
+Hyrja në fuqi Ky ligj hyn në fuqi në ditën e publikimit në Gazetën Zyrtare të Republikës së Kosovës. Ligji Nr. 06/L -003 4 tetor 2017 Shpallur me dekretin Nr. DL-026-2017, datë 13.10.2017 nga Presidenti i Republikës së Kosovës Hashim Thaçi. ______________________ Shtojca e ligjit nr. 06/L-003, Marrëveshja financiare për IPA 2016 ndërmjet Republikës së Kosovës dhe Bashkimit Evropian. bashkëngjitur me këtë ligj është publikuar ne web faqen e Gazetës Zyrtare (gzk.rks-gov.net )
