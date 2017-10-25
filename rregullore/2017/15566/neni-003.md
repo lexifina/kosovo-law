@@ -1,0 +1,14 @@
+# Neni 3
+Pas Shtojcës 19 shtohet shtojca 20, si në vijim:
+Shtojca 20 Ministria e Inovacionit dhe Ndërmarrësisë
+Ministria e Inovacionit dhe Ndërmarrësisë ka këto kompeteca:
+i. Harton, zbaton, koordinon dhe mbikëqyrë politika, strategji dhe legjislacionin në fushën e inovacionit dhe ndërmarrësisë në emër të Qeverisë së Republikës së Kosovës;
+ii. Në bashkëpunim me Ministrinë e Financave dhe në përputhje me kornizën ligjore në fuqi propozon dhe administron buxhetin e Ministrisë;
+iii. Në emër të Qeverisë bashkëpunon me entitetet vendore dhe ndërkombëtare për sektorët e inovacionit dhe ndërmarrësisë dhe përkrah aktivitetet në hulumtim dhe zhvillim lidhur me avancimin social, ekonomik, shkencor dhe teknologjik të Kosovës;
+iv. Propozon politika për rregullimin e tregut të brendshëm për inovacion dhe ndërmarrësi, propozon masa fiskale dhe jofiskale në funksion të zhvillimit të sektorëve të inovacionit dhe ndërmarrësisë, promovon inovacionin dhe ndërmarrësinë, si dhe ofron përkrahje institucionale në realizim të projekteve më interes strategjik në fushën e Ndërmarrjeve të Vogla dhe të Mesme;
+v. Propozon strukturimin dhe udhëheqë programet (fondet) për inovacion dhe ndërmarrësi, harton politika dhe programe që mbron, përkrahë dhe stimulon zhvillimin e ndërmarrjeve të vogla dhe të mesme me fokus në eksportet e tyre, me synim punësimin e të rinjtë dhe ngritjen e kapaciteteve për femrat ndërmarrëse; duke siguruar rritje të punësimit dhe zhvillimit ekonomik;
+vi. Bën koordinimin ndërqeveritar për zhvillimin e ndërmarrësisë dhe inovacionit dhe krijon trupa koordinues në mes të Qeverisë së Kosovës dhe sektorit privat për inovacion dhe ndërmarrësi. Zbaton projektet për zhvillimin e resurseve njerëzore në fushën e inovacionit dhe ndërmarrësisë, si dhe krijon programe dhe instrumente për të integruar potencialin njerëzor sipas profesioneve me ndikim në zhvillimin e inovacionit dhe ndërmarrësisë;
+vii. Në bashkëpunim me Ministrinë e Integrimit Evropian dhe me Ministrinë e Financave negocion dhe zbaton projektet me donatorët projektet me donatorët, institucionet financiare ndërkombëtare dhe partnerët e tjerë në lidhje me instrumentet financiare në fushën e inovacionit dhe ndërmarrësisë;
+viii. Merr pjesë në Komitetin Kombëtar për Zhvillim Ekonomik, bashkëpunon me pushtetin lokal, komunitetin shkencor, shoqërinë civile, komunitetin e TIK, komunitetin e biznesit dhe me donatorët për themelimin e Qendrave rajonale të inovacionit dhe inkubatorëve të biznesit;
+ix. Në bashkëpunim me komunitetin e biznesit identifikon, përkrahë dhe ofron trajnime profesionale për ndërmarrësit dhe ndërton një sistem gjithëpërfshirës për mbështetje dhe zhvillim cilësor të ndërmarrësisë;
+x. Ofron bashkëpunim institucional në drejtim të zhvillimit të zonave ekonomike në shërbim të zhvillimit të inovacionit dhe ndërmarrësisë.
