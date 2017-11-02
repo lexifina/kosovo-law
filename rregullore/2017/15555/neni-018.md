@@ -1,0 +1,9 @@
+# Neni 18
+Ndjekja e rekomandimeve të sigurisë dhe
+bazës së të dhënave të rekomandimeve të
+sigurisë
+1. I adresuari i rekomandimit të sigurisë konfirmon pranimin e letrës përcjellëse dhe informon Komisionin për Hetimin e Aksidenteve dhe Incidenteve Aeronautike, i cili e ka lëshuar rekomandimin, brenda 90 ditëve nga dita e pranimit të asaj letre, për veprimet e ndërmarra apo që janë duke u shqyrtuar, dhe ku është e përshtatshme, kohës së nevojshme për përfundimin e tyre dhe arsyet në rast se nuk ndërmerret asnjë veprim.
+2. Brenda 60 ditëve nga pranimi i përgjigjes, Komisioni për Hetimin e Aksidenteve dhe Incidenteve Aeronautike informon të adresuarin nëse e konsideron apo jo përgjigjen adekuate dhe jep arsyetim nëse nuk pajtohet me vendimin për të mos ndërmarrë asnjë veprim.
+3. Komisioni për Hetimin e Aksidenteve dhe Incidenteve Aeronautike zbaton procedurat për të regjistruar përgjigjet ndaj rekomandimeve të lëshuara të sigurisë.
+4. Çdo njësi e cila pranon rekomandim të sigurisë, përfshirë edhe autoritetet përgjegjëse për sigurinë e aviacionit civil në nivel të Republikës së Kosovës i zbatojnë procedurat për monitorimin e progresit të veprimeve të ndërmarra si përgjigje ndaj rekomandimeve të pranuara të sigurisë.
+5. Komisioni për Hetimin e Aksidenteve dhe Incidenteve Aeronautike duhet të regjistrojnë në bazën qendrore, të krijuar sipas Rregullores së Komisionit (KE) Nr. 1321/2007 të datës 12 nëntor 2007 që përcakton rregullat zbatuese për integrim në një bazë qendrore të informatave mbi ndodhitë e aviacionit civil të shkëmbyera në përputhje me Direktivën 2003/42/EC, të gjitha rekomandimet të sigurisë të nxjerra në përputhje me nenin 17 (1) dhe (2), si dhe përgjigjet ndaj tyre. Autoritetet hetimore të sigurisë në mënyrë të ngjashme regjistrojnë në bazën qendrore të gjitha rekomandimet e sigurisë të pranuara nga vendet e treta.

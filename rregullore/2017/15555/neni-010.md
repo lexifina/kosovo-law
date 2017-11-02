@@ -1,0 +1,5 @@
+# Neni 10
+Pjesëmarrja e partnerëve të HPEA në
+hetimet e sigurisë
+1. Pas marrjes së njoftimit për një aksident ose incident të rëndë nga një tjetër shtet partner i HPEA apo një vend i tretë, partnerët e HPEA që janë Shteti i regjistrimit, Shteti i operatorit, Shteti i Projektimit dhe Shteti i prodhimit duhet që sa më shpejt të jetë e mundur ta informojë shtetin partner të HPEA ose vendin e tretë në territorin e të cilit ka ndodhur aksidenti ose incidenti i rëndë nëse kanë për qëllim të e emërojnë një përfaqësues të akredituar në përputhje me standardet ndërkombëtare dhe praktikat e rekomanduara. Kur të emërohet një përfaqësues i tillë i akredituar, duhet gjithashtu të ofrohet edhe emri dhe detajet e kontaktit si dhe data e pritshme e mbërritjes nëse përfaqësuesi i akredituar synon të udhëtojë në vendin i cili ka dërguar njoftimin.
+2. Përfaqësuesit e akredituar nga Shteti i Projektimit emërohen nga autoriteti për hetimin e sigurisë nga partnerët e HPEA në territorin e të cilës gjendet selia e mbajtësit të certifikatës për llojin e modelit të avionit apo motorit.
