@@ -1,0 +1,2 @@
+# Neni 8
+Hyrja në fuqi Ky ligj hyn në fuqi në ditën e publikimit në gazetën zyrtare. Ligji Nr. 06/L-002 31 tetor 2017 Shpallur me dekretin Nr. DL-027-2017, datë 10.11.2017 nga Presidenti i Republikës së Kosovës Hashim Thaçi. ___________________ Tabelat e Ligjit nr. 06/L -002 për plotësimin dhe ndryshimin e ligjit nr. 05/L-125 për Buxhetin e Republikës së Kosovës për vitin 2017, bashkangjitur me ligj janë publikuar në web faqen e Gazetës Zyrtare (gzk.rks-gov.net)
