@@ -1,0 +1,3 @@
+# Neni 40
+1. Hapësirën për mbeturina duhet përdor si dhomë zgjeruese në të cilën me valvul për rregullimin e mbi-shtypjes përcillet ajri i shfrytëzuar nga hapësirat sanitare nga neni 39 i kësaj rregulloreje dhe dërgohet në mjedisin e jashtëm përmes valvulit kundër-goditëse/jo kthyese për rregullimin e mbi-shtypjes. Hapja duhet të mbyllet me dyer që janë të qëndrueshme ndaj valës termike dhe që mbyllen hermetikisht dhe hapen në hapësirën për mbeturina.
+2. Në pajtim me nenin 38 paragrafin 1 të kësaj rregulloreje, hapësirat sanitare të objekteve dy-qëllimesh që përdoren në kohë paqe ndërtohen ndaras nga strehimoret.

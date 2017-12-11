@@ -1,0 +1,2 @@
+# Neni 43
+Sipërfaqja e hapësirës për vendosjen e para-filtrave përcaktohet në bazë të llojit, madhësisë dhe renditjes së njësive përbërëse prej të cilave formohen këta filtra. Fundi i hapësirës për para-filtra ranor duhet të jetë me një pjerrtësi prej 2%. Në pikën më të ulët të kësaj hapësire duhet paraparë kullimi i ujit të kondensuar nga filtri ranor në strukturën e hyrjes. Hapësira ajrore në hapësirën për para-filtra është e destinuar për zgjerimin e valës goditëse.

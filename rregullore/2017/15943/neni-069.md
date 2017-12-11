@@ -1,0 +1,2 @@
+# Neni 69
+Materialet që përdoret për prodhimin e rondelës (shiritit izolues) të pajisjeve për mbyllje duhet ta kenë fortësinë e 40 ShA deri në 50 ShA, fortësinë thyese së paku 10MPa dhe zgjatimin thyes së paku 250%. Ndryshimet e lejueshme të karakteristikave fizike-mekanike pas plakjes së përshpejtuar në ajër të ngrohtë në 373 K gjatë 70 orëve është: forca thyese më së shumti -15%, zgjatja thyese më së shumti -20% dhe fortësia më së shumti + 5 ShA. Deformimi i lejuar i përhershëm mund të jetë më së shumti 40%.

@@ -1,0 +1,4 @@
+# Neni 24
+1. Korridori hyrës i strehimores si objekt i pavarur, mund të jetë horizontal ose i pjerrët – me laurë, përkatësisht me shkallë, në pajtim me rregulloren për standardet hapësinore, kushtet urbanistike – teknike dhe normat për zvogëlimin e krijimit të pengesave për personat me nevoja të veçanta.
+2. Korridori hyrës i strehimores së mbrojtjes plotësuese si objekt i pavarur, duhet të ketë së paku një thyerje horizontale dhe një të pjerrtë.
+3. Korridori hyrës i strehimores së mbrojtjes elementare si objekt i pavarur, duhet të ketë së paku dy kthesa horizontale me këndin d=90 ±15º, të proporcionit midis akseve lineare të pjesës së kënddrejtë të korridorit dhe gjerësia ndriçuese e korridorit duhet të jetë sa më e madhe dhe aq sa hapja hyrëse nuk i ekspozohet drejtpërdrejt efekteve nga neni 13 i kësaj rregulloreje.
