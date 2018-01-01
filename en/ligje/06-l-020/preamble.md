@@ -1,0 +1,1 @@
+LAW No. 06/L-020 ON THE BUDGET OF THE REPUBLIC OF KOSOVO FOR YEAR 2018 LAW No. 06/L-020 ON THE BUDGET OF THE REPUBLIC OF KOSOVO FOR YEAR 2018 The Assembly of the Republic of Kosovo; Based on Article 65, paragraphs (1) and (5) of the Constitution of the Republic of Kosovo, Adopts LAW ON THE BUDGET OF THE REPUBLIC OF KOSOVO FOR YEAR 2018

@@ -1,0 +1,2 @@
+# Neni 20
+Fondet për ruajtjen e asistencës emergjente për likuiditet Në pajtim me parashikimet e specifikuara në Tabelën 1, bazuar në Memorandumin e Mirëkuptimit për Asistencën Emergjente, të nënshkruar ndërmjet Guvernatorit të Bankës Qendrore, Ministrit të Financave dhe Kryesuesit të Komisionit për Buxhet e Financa të Kuvendit të Kosovës, ndahen dyzetegjashtë milion (46.000.000) Euro nga bilanci bankar i Qeverisë si rezervë në raste emergjente për të ruajtur likuiditetin e sistemit financiar.

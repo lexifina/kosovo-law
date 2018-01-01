@@ -1,0 +1,5 @@
+# Article 22
+Issuance of securities 1. In order to issue the domestic state debt, the Minister of Finance, as the solely authorized to enter into state debts, shall within the budgetary year 2018 and the projected amount for the issuance of domestic debt in Table 1, issue securities through its fiscal agent under the conditions specified in the Law on Public Debt and other sub-legal acts deriving from this law, including the possibility to issue retail bonds to investors who are natural persons.
+2. The Minister of Finance shall issue retail bonds according to the prices defined in the Reference Coupon in line with sub-legal acts approved by the Government of the Republic of Kosovo.
+3. However, the amount required for the issuance of securities within the limit set out in paragraph 1., may be subject to review depending on the dynamics of budget execution and shall be decided by the Minister under legal authorization.
+LAW No. 06/L-020 ON THE BUDGET OF THE REPUBLIC OF KOSOVO FOR YEAR 2018

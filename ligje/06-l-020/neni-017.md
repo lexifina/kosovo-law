@@ -1,0 +1,6 @@
+# Neni 17
+Ekzekutimi i Buxhetit 1. Të gjithë zyrtarët kryesor financiar sigurojnë që të gjitha obligimet janë të regjistruara në
+LIGJI Nr. 06/L-020 PËR BUXHETIN E REPUBLIKЁS SЁ KOSOVЁS PЁR VITIN 2018 SIMFK në përputhshmëri me LMFPP-në dhe Rregullave Financiare të Thesarit.
+2. Zyrtari kryesor financiar i çdo organizate buxhetore, e cila nuk është komunë apo agjenci e pavarur, i dorëzon Ministrit përmes Thesarit brenda tre (3) javëve nga mbyllja e secilit tremujor një raport të detajuar për progresin e arritur në zbatimin e të gjitha projekteve kapitale me vlerë më të lartë se dhjetë mijë (10.000) euro.
+3. Të gjitha organizatat buxhetore përmes sistemit të Programit të Investimeve Publike (PIP) duhet të raportojnë në Ministrinë e Financave - Departamentin e Buxhetit, brenda tre (3) javëve nga mbyllja e secilit tremujor për progresin fizik dhe financiar të projekteve kapitale, me vlerë totale (për të gjitha vitet) mbi një milion (1,000,000) euro.
+4. Zyrtari kryesor financiar i secilës komunë i dorëzon Kryetarit të Komunës brenda tre (3) javëve nga mbyllja e secilit tre (3) mujor një raport të detajuar për progresin e arritur në zbatimin e të gjitha projekteve kapitale me vlerë më të lartë se dhjetë mijë (10,000) euro. Një kopje e raportit të tillë duhet t’i dorëzohet edhe Ministrit.
