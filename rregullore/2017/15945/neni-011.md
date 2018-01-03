@@ -1,0 +1,7 @@
+# Neni 11
+Mirënjohjet
+1. Mirënjohjet i ndahen pjesëtarëve të AME-së të cilët kanë marrë pjesë bujarisht në aktivitetet e mbrojtjes dhe shpëtimit, i kanë kontribuar reputacionit të institucionit ose në ndonjë formë tjetër i kanë dhënë kontribut shtesë veprimtarisë së mbrojtjes dhe shpëtimit në komunitet.
+2. Mirënjohjet mund t’i ndahen edhe nëpunësve tjerë shtetëror, organeve qendrore dhe lokale, shërbimeve emergjente dhe shtetasve të huaj, për kontribut të jashtëzakonshëm në zhvillimin e fushës së mbrojtjes dhe shpëtimit.
+3. Mirënjohja është e punuar në letër pergamenë natyral g/m2 të dimensioneve 350 x 250 mm e ngjyrës së kaltër, e kornizuar me yje të bardhë dhe përmban stemën e Republikës së Kosovës dhe simbolin e AME-së, emërtimet "Ministria e Punëve të Brendshme", dhe "Agjencia e Menaxhimit Emergjent", termin "MIRËNJOHJE", vendin për emrin, emrin e babës dhe mbiemrin e personit fizik, përkatësisht emrin dhe selinë e personit juridik të cilit i dorëzohet mirënjohja, arsyet e ndarjes së mirënjohjes, numrin, vendin dhe datën e lëshimit, si dhe vulën dhe nënshkrimin e Drejtorit të Përgjithshëm të AME-së (forma 3 e cila është pjesë përbërëse e kësaj rregulloreje).
+4. Mirënjohja është e vendosur në fascikël prej lëkure artificiale të ngjyrës së kaltër, me stemën e shtypur të Republikës së Kosovës në pjesën e përparme të fasciklës.
+5. Mirënjohjet ndahen në ceremonitë nga neni 22 i kësaj rregulloreje.
