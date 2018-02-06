@@ -1,0 +1,4 @@
+# Neni 7
+Prioriteti i procedurave
+1. Procedurat administrative cilat ndërlidhen me përgatitjen, përzgjedhjen, realizimin dhe mbikëqyrjen e projekteve për investime strategjike në pronësi të ndërmarjeve publike, si dhe me lëshimin e licencave, lejeve, autorizimeve dhe rekomandimeve, në zbatim të këtij ligjit për investime startegjike dhe të këtij udhëzimi, konsiderohen si procedura administrative me prioritet të lartë dhe ndiqen me procedura të përshpejtuara nga institucionet dhe autoritetet publike të Republikës së Kosovës të përfshira në këto procedura.
+2. Organet e administrates shtetërore trajtojnë në mënyrë të veçant procedurat administrative dhe procedurat tjera që duhet të ndërmerren për të zbatuar projektin strategjk në pronësi të ndërmarjeve publike, përbrenda fushëveprimit të vet të punës dhe do t’i evitojnë të gjitha pengesat e mundshme në zbatimin e mëtejshëm të projektit.
