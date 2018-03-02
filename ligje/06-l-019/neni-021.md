@@ -1,0 +1,3 @@
+# Neni 21
+Dispozitat ndëshkuese 1. Shkeljet e përcaktuara në nenin 20 të këtij ligji, nëse nuk përbëjnë vepër penale, dënohen me gjobë si më poshtë:
+1.1. me gjobë prej treqind (300) deri njëmijë e pesëqind (1,500) Euro ndëshkohet personi fizik, ndërsa me gjobë prej gjashtëqind (600) deri tre mijë (3,000) Euro ndëshkohet personi juridik për shkeljet e përcaktuara në nenin 20 paragrafi 1 i këtij ligji; dhe 1.2. me gjobë prej pesëqind (500) deri dymijë (2,000) Euro ndëshkohet personi fizik, ndërsa me gjobë prej një mijë (1,000) deri katër mijë (4,000) Euro ndëshkohet personi juridik për shkeljet e përcaktuara në nenin 20 paragrafi 2. i këtij ligji.

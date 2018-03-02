@@ -1,0 +1,1 @@
+LIGJI Nr. 06/L-019 PËR STANDARDIZIM LIGJI Nr. 06/L-019 PËR STANDARDIZIM Kuvendi i Republikës së Kosovës, Në mbështetje të nenit 65 (1) të Kushtetutës së Republikës së Kosovës, Miraton: LIGJ PËR STANDARDIZIM

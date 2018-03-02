@@ -1,0 +1,4 @@
+# Article 19
+Drafting, adoption and approval of Kosovo Standardization Documents 1. Kosovo documents for standardization shall be drafted, adopted and approved in accordance with rules and procedures for standardization activities.
+2. Kosovo documents for standardization shall be identified through labelling with letters and numbers:
+2.1. labelling with letters consists of letters “DS” (Document of Standardization), or a combination of letters DS and other labelling by letters, in cases of recognition or adoption of European or international documents of standardization; and 2.2. numerical labelling is composed by the number of standardization documents, and the year of their approval or adoption. These labelling shall not be used for other standardization documents apart of Kosovo’s standardization documents.

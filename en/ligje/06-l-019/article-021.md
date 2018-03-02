@@ -1,0 +1,3 @@
+# Article 21
+Punitive provisions 1. The offenses set forth in Article 20 of this law, if they do not constitute a criminal offense, will be punishable with following fine:
+1.1. with a fine of three hundred (300) to one thousand five hundred (1,500) Euro shall be punished a natural person, while by fine of six hundred (600) to three thousand (3,000) Euro shall be punished a legal person for offenses set forth in Article 20 paragraph 1 of this Law; and 1.2. with a fine of five hundred (500) to two thousand (2,000) Euro shall be punished a natural person, while with fine of one thousand (1,000) to four thousand (4,000) Euro shall be punished a legal person for offenses set forth in Article 20, paragraph 2 of this Law.

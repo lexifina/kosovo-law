@@ -1,0 +1,3 @@
+# Article 22
+Transitional Provisions 1. Standards of the Republic of Kosovo, labelled with letters KS, that are recognized, adopted or approved prior to the entry into force of this Law, are valid even after entry into force of this Law.
+2. Kosovo Standardization Agency in the Ministry of Trade and Industry established by Law No. 03/L-144 on Standardization, will continue all activities as KSA in accordance with this Law. Standardization activities that have started before the entry into force of this Law, shall be finalized in accordance with this Law and sub-legal acts deriving from this Law.

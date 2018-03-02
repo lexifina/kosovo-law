@@ -1,0 +1,3 @@
+# Neni 22
+Dispozitat kalimtare 1. Standardet e Republikës së Kosovës, të emërtuara me shkronjat SK, të cilat janë njohur, adoptuar apo miratuar përpara hyrjes në fuqi të këtij ligji, e ruajnë vlefshmërinë edhe pas hyrjes në fuqi të këtij ligji.
+2. Agjencia e Standardizimit e Kosovës në Ministrinë e Tregtisë dhe Industrisë e themeluar me Ligjin Nr. 03/L-144 për Standardizimin, do të vazhdojë të gjitha aktivitetet si ASK në përputhje me këtë Ligj. Aktivitetet e standardizimit të cilat kanë filluar përpara hyrjes në fuqi të këtij Ligji do të finalizohen në pajtim me këtë Ligj dhe me aktet nënligjore që derivojnë nga ky Ligj.

@@ -1,0 +1,28 @@
+# Neni 3
+Përkufizimet 1. Shprehjet e përdorura në këtë ligj kanë këto kuptime:
+1.1. Standardizimi - aktivitet i përcaktimit të rregullave për përdorim të përbashkët dhe të përsëritur, për probleme aktuale apo të tjera që mund të krijohen, që ka për qëllim arritjen e një shkalle optimale të rregullit në një kontekst të caktuar. Standardizimi është aktivitet, si rezultat i një konsensusi, i realizuar nga dhe për vetë palët e interesit, bazuar në gjithë përfshirje dhe transparencë;
+1.2. Agjencia Kosovare e Standardizimit - organi i vetëm i administratës shtetërore për standardizim në Kosovë, në tekstin e mëtejmë AKS;
+1.3. Organi Nacional i Standardizimit - organ i standardizimit në nivel shtetëror të një shteti tjetër;
+LIGJI Nr. 06/L-019 PËR STANDARDIZIM 1.4. Organizata Evropiane e Standardizimit - njëra nga organizatat: Komiteti Evropian për Standardizim (CEN), Komiteti Evropian i Standardizimit për Elektroteknikë (CENELEC), Instituti Evropian i Standardeve për Telekomunikacion (ETSI);
+1.5. Organizata Ndërkombëtare e Standardizimit - njëra nga organizatat: Organizata Ndërkombëtare për Standardizim (ISO), Komisioni Ndërkombëtar për Elektroteknikë (IEC), Unioni Ndërkombëtar për Telekomunikacion (ITU);
+1.6. OBT - Organizata Botërore e Tregtisë;
+1.7. Logo e Agjencisë Kosovare të Standardizimit - logo e përdorur nga AKS për identifikimin e saj siç është përcaktuar me ligjin përkatës për simbole shtetërore; dhe 1.8. Standard - dokument i hartuar me konsensus dhe i aprovuar nga një organ i njohur standardizimi, i cili ofron, për përdorim të përbashkët dhe të përsëritur, rregulla, udhëzime apo karakteristika për aktivitetet apo rezultatet e tyre, që kanë për qëllim arritjen e një shkalle optimale rregulli në një kontekst të dhënë me të cilën pajtueshmëria është vullnetare, dhe i cili është njëri nga këta si në vijim:
+1.8.1. Standard ndërkombëtar - standard i adoptuar nga një organizatë ndërkombëtare e standardizimit;
+1.8.2. Standard evropian - standard i adoptuar nga një organizatë evropiane e standardizimit;
+1.8.3. Standard i harmonizuar evropian - standard evropian i adoptuar në bazë të kërkesës së bërë nga Komisioni për zbatimin e legjislacionit të BE për harmonizim;
+1.8.4. Standard kosovar - standard i Republikës së Kosovës miratuar nga Agjencia Kosovare e Standardizimit, në përputhje me kërkesat e këtij ligji dhe i cili shënohet SK; dhe 1.8.5. Standard i harmonizuar kosovar - standard kosovar që miraton standardin e harmonizuar evropian në përputhje me ligjin dhe rregullat e standardizimit, i cili ofron prezumim të konformitetit për rregulloret përkatëse.
+1.9. Dokument standardizimi - dokument i miratuar nga organizatat evropiane dhe ndërkombëtare, dhe i miratuar nga AKS, si specifikimet teknike, raportet teknike, manualet apo marrëveshjet e veçanta teknike, respektimi i të cilit është vullnetar;
+1.10. Draft standard - dokument që përmban tekstin e specifikimeve teknike të subjektit të dhënë, i cili konsiderohet për miratim në përputhje me procedurat relevante të standardeve, dhe si i tillë ky dokument qëndron pas punës përgatitore dhe qarkullon për koment dhe shqyrtim publik;
+1.11. Specifikim teknik - dokument i cili përshkruan kërkesat teknike që duhet përmbushur nga një produkt, proces, shërbim ose sistem dhe i cili deklaron një ose më shumë nga këto:
+LIGJI Nr. 06/L-019 PËR STANDARDIZIM 1.11.1. karakteristikat e kërkuara të një produkti duke përfshirë nivelet e cilësisë, performancës, ndërveprimit, mbrojtjes së ambientit, shëndetit, sigurisë, dimensioneve, dhe duke përfshirë kërkesat e zbatuara të produktit në lidhje me emrin nën të cilin shitet produkti, terminologjia, simbolet, testimi dhe metodat e testimit, paketimi, shënjimi ose etiketimi dhe procedurat e vlerësimit të konformitetit;
+1.11.2. metodat dhe proceset e prodhimit të përdorura në produktet bujqësore, produktet e destinuara për konsumim nga njerëzit dhe kafshët, dhe produktet mjekësore, si dhe metodat dhe proceset e prodhimit të produkteve tjera, ku këto kanë ndikim në karakteristikat e tyre;
+1.11.3. karakteristikat e kërkuara të një shërbimi përfshirë nivelet e cilësisë, performancës, ndërveprimit, mbrojtjes së ambientit, shëndetit, sigurisë dhe duke përfshirë kërkesat e zbatuara tek ofruesi i informacionit që do të vihet në dispozicion për pranuesin;
+1.11.4. metodat dhe kriteret për vlerësimin e performancës së produkteve të ndërtimit, duke vënë kushtet e harmonizuara për vënie në treg të produkteve të ndërtimit në lidhje me karakteristikat themelore.
+1.12. Specifikim teknik i TIK - specifikim teknik në fushën e teknologjisë informative dhe të komunikimit;
+1.13. Program i punës së standardizimit - program pune i AKS, i cili përmban aktivitetet e standardizimit për një periudhë të caktuar kohore;
+1.14. Këshill Profesional i Standardizimit – trup këshillëdhënës nga palët e interesit (në tekstin e mëtejmë KPS);
+1.15. Komitet Teknik - grup i ekspertëve që veprojnë në fusha të caktuara të standardizimit (në tekstin e mëtejmë KT);
+1.16. Kodi i Praktikës së Mirë - dokument udhëzues që rrjedh nga marrëveshjet ndërkombëtare dedikuar trupave standardizuese (Kodi i Praktikës së Mirë i OBT për standardizimin aneksi 3 i marrëveshjes OBT-Barrierat Teknike të Tregut (BTT);
+1.17. Referim ndaj standardeve - referim i cili përcakton se njëra nga mënyrat, për të përmbushur kërkesat përkatëse të një rregullore teknike është zbatimi i standardit përkatës;
+1.18. Palë e interesit - person juridik ose fizik që në mënyrë direkte ose indirekte gjenden në një raport të caktuar me institucionin përkatës të standardizimit; dhe 1.19. Notifikimi - procesi i njoftimi të miratimit të standardeve nga Agjencia e Standardizimit të Kosovës në Organizatën Botërore të Tregtisë.
+LIGJI Nr. 06/L-019 PËR STANDARDIZIM

@@ -1,0 +1,3 @@
+# Neni 16
+Pezullimi dhe tërheqja e standardeve 1. Gjatë përgatitjes së një standardi evropian apo pas miratimit të tij, AKS nuk do të ndërmerr asnjë veprim që mund të jetë në konflikt ose që dëmton harmonizimin e synuar, e veçanërisht për fushën në fjalë nuk do të publikoj asnjë standard të ri, i cili nuk është në linjë me standardin ekzistues evropian ose ndërkombëtar.
+LIGJI Nr. 06/L-019 PËR STANDARDIZIM 2. Me publikimin e një standardi të ri apo të ndryshuar evropian si standard kosovar, të gjitha standardet kosovare që janë në kundërshtim me të, tërhiqen brenda një afati prej gjashtëdhjetë (60) ditëve.
