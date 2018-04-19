@@ -1,0 +1,4 @@
+# Article 2
+Article 20 of the basic Law, sub-paragraphs 4.1 and 4.3 shall be reworded with the following text:
+4.1. to exercise the function of the prosecutor in the Serious Crimes Department or in the Juvenile Department of the Basic Prosecution Office, the prosecutor must have a permanent mandate as a prosecutor and a positive performance assessment;
+4.3. to exercise the function of the prosecutor in the Special Prosecution Office of the Republic of Kosovo, the prosecutor must fulfill the criteria to work as prosecutor in the Serious Crimes Department, as well as have a positive performance assessment. The period of exercising the function of prosecutor in the Special Prosecution Office, assigned according to the provisions of this Law, is counted as an experience of the prosecutor in the Serious Crimes Department of the Basic Prosecution Office.
