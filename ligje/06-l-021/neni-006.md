@@ -1,0 +1,2 @@
+# Neni 6
+Llogaridhënia menaxheriale e drejtuesve të niveleve vartëse Drejtuesit e niveleve në vartësi të subjektit të sektorit publik, të cilët ushtrojnë funksione të përgjithshme menaxheriale, dhe të cilët kanë llogaridhënie menaxheriale, janë përgjegjës dhe raportojnë sipas shkallës hierarkike, deri tek zyrtari kryesor administrativ i subjektit të sektorit publik për procesin e buxhetit, statusin e sistemeve të kontrollit të brendshëm, rreziqet që parandalojnë përmbushjen e objektivave dhe masat e ndërmarra për minimizimin e tyre në institucionin që drejtojnë.

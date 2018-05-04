@@ -1,0 +1,6 @@
+# Article 24
+Rights of the Director of Internal Audit Unit and internal auditors 1. The Director of Internal Audit Unit and internal auditors shall have right to:
+1.1. free access to the management, members of staff and assets of the Public Sector Entity related to the audit assignment;
+1.2. free access to all information, including classified ones as per their respective level of clearance, access to information technology systems and all documents and records available, including the electronic ones, which are necessary for the performance of audit; and 1.3. request from the responsible officials data, summary statements, opinions, confirmations, documents and other information necessary in connection with the audit assignment.
+2. Internal auditors after approval of the Director of Internal Audit Unit and the Head of Public Sector Entity shall have the right to carry out checks in the structures and parties outside the Public Sector Entity, in cases where this is necessary for the execution of audit assignments. This type of checks shall be carried out after a prior notification according to the relevant legislation and in coordination with the management of structures and parties where such checks shall be carried out.
+LAW No. 06/L –021 ON PUBLIC INTERNAL FINANCIAL CONTROL

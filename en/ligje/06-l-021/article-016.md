@@ -1,0 +1,4 @@
+# Article 16
+Reporting on Internal Control System 1. The Head of the Public Sector Entity shall ensure that Financial Management and Control self-assessment is carried out every year within the entire Public Sector Entity and shall approve the annual report on internal control system.
+2. The annual report shall include Internal Control Statement, the self-assessment Financial Management and Control report, and results of internal and external audit activities.
+LAW No. 06/L –021 ON PUBLIC INTERNAL FINANCIAL CONTROL 3. Central government entities, local government entities and special funds shall submit their annual report to the Ministry of Finance, according to composition of paragraph 2 of this Article, by the end of the month of May, based on procedures established by the Ministry of Finance.

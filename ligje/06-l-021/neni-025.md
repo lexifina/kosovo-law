@@ -1,0 +1,12 @@
+# Neni 25
+Obligimet e drejtorit të njësisë së auditimit të brendshëm dhe auditorëve të brendshëm 1. Drejtori i njësisë së auditimit të brendshëm dhe auditorët e brendshëm:
+1.1. ushtrojnë funksionet e tyre në mënyrë objektive, profesionale dhe në përputhje me dispozitat e këtij Ligji dhe metodologjisë së auditimit të brendshëm për sektorin publik, të miratuar nga Ministri i Financave;
+1.2. veprojnë në përputhje me kriteret e përcaktuara në kodin e etikës, planin e auditimit dhe rregullat për konfidencialitet për auditimin e brendshëm;
+1.3. zhvillojnë vazhdimisht njohuritë dhe shkathtësitë profesionale, dhe ruajnë certifikimin e tyre profesional duke marrë pjesë në gjashtëdhjetë (60) orë trajnim brenda dy (2) vite të njëpasnjëshme, në përputhje me kriteret e përcaktuara në nenin 22 në këtë Ligj.
+2. Në rast të dyshimit për mashtrim gjatë auditimit, auditori i brendshëm njofton drejtorin e njësisë së auditimit të brendshëm, i cili menjëherë njofton udhëheqësin e subjektit të sektorit publik, ose autoritetet kompetente.
+3. Drejtori i njësisë së auditimit të brendshëm, përveç përgjegjësive të tij, është përgjegjës për:
+LIGJI Nr. 06/L-021 PËR KONTROLLIN E BRENDSHËM TË FINANCAVE PUBLIKE 3.1. aktivitetet e përgjithshme të njësisë së auditimit të brendshëm;
+3.2. të vepruar në pajtueshmëri me standardet e auditimit të brendshëm dhe rregulloret e auditimit të brendshëm si dhe metodologjinë e miratuar nga Ministri i Financave;
+3.3. përgatitjen dhe dorëzimin e planit strategjik dhe planit vjetor për rishikim dhe miratim tek udhëheqësi i subjektit të sektorit publik dhe te Komiteti i Audtitimit, në ato subjekte ku është i themeluar ky Komitet;
+3.4. bashkërendimin e ndërveprimit me Njësinë Qendrore Harmonizuese dhe me institucionet e auditimit të jashtëm, para dorëzimit të regjistrave apo raporteve palëve të jashtme, drejtori i njësisë së auditimit të brendshëm merr aprovimin nga udhëheqësi i subjektit të sektorit publik; 3.5.dërgimin e raporteve gjashtë (6) mujore dhe vjetore te Njësia Qendërore Harmonizuese më së largu deri më pesëmbëdhjetë korrik të vitit, respektivisht deri më pesëmbëdhjetë janar të vitit pasues.
+4. Drejtori i njësisë së auditimit të brendshëm i raporton udhëheqësit të subjektit të sektorit publik për të gjitha çështjet që i përkasin kryerjes së një auditimi të veçantë, dhe i propozon udhëheqësit të subjektit të sektorit publik që të angazhojë një ekspert të fushës, ku nevojiten aftësitë dhe shkathtësitë e veçanta që lidhen me kryerjen e auditimit.

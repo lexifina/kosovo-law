@@ -1,0 +1,2 @@
+# Article 6
+Managerial Accountability of Heads of subordinated levels Heads of subordinated levels of the public sector entity, exercising general managerial function and having managerial accountability shall be responsible and report as per hierarchic scale, up to the Chief Administrative Officer of the public sector entity on budget process, the status of internal control systems, risks that prevent achievement of objectives and measures taken to mitigate the risks in the institution they manage.
