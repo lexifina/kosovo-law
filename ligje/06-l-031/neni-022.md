@@ -1,0 +1,3 @@
+# Neni 22
+Ankesa 1. Kundër vendimit të inspektorit për pajisje nën presion, pala e pakënaqur në afat prej tetë (8) ditësh nga dita e pranimit të vendimit, mund t’i parashtrojë ankesë Inspektoratit për Energji, i cili në afat prej tridhjetë (30) ditësh nga dita e pranimit të ankesës vendos sipas ankesës. Ankesa e parashtruar kundër vendimit të inspektorit për pajisjet nën presion nuk e shtynë ekzekutimin e këtij vendimi.
+2. Kundër vendimit të Inspektoratit për Energji sipas ankesës pala e pakënaqur ka të drejtë që të ngritë kontest administrativ në pajtim me ligjin në fuqi mbi procedurën e përgjithshme administrative.

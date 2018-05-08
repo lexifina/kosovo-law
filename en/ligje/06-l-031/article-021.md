@@ -1,0 +1,4 @@
+# Article 21
+General rules for measuring offense sanctions 1. The Inspector for Pressure Equipment shall set the height of the minor offence taking into account all mitigating and aggravating circumstances, in particular the gravity of the offense and consequences, the degree of liability, the circumstances under which the minor offence was committed and the condition of its property.
+2. In case of a repeat offense, consideration will be paid to the fact whether the earlier offense is of the same nature as the new offense, whether the two (2) offenses have been committed in the same circumstances and how much time has passed from the earlier offense sanction.
+3. When considering the minor offense sanction as an aggravating circumstance, sanction imposed earlier shall not be considered if more than two (2) years have passed since the day of the final offense decision.

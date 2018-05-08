@@ -1,0 +1,6 @@
+# Article 8
+Obligations of importer 1. Importer is only allowed to place in the market pressure equipment or assemblies that meet the conformity requirements.
+2. Before placing on the market the pressure equipment or assemblies, importer shall ensure that the appropriate conformity assessment procedure has been carried out by the manufacturer based on the technical rules. Importer shall be ensured that manufacturer has drawn up the technical documentation and that the pressure equipment or assembly has the conformity marking and accompanied by adequate instructions for use appropriate operating instructions attached.
+3. Importers shall indicate their name, registered trade name or registered trade mark and the postal address at which they can be contacted on the pressure equipment or assembly. The contact details shall be in a language easily understood by consumers, other users and market surveillance authorities.
+4. Importers shall, for tent (10) years after the pressure equipment or assembly has been placed on the market, keep a copy of the EU declaration of conformity at the disposal of the market surveillance authorities.
+5. Importer is considered manufacturers and are subjected to the obligations of manufacturers if the pressure equipment or assembly is placed on the market under its name or trademark.

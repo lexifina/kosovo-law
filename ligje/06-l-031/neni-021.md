@@ -1,0 +1,4 @@
+# Neni 21
+Rregullat e përgjithshme për matjen e sanksionit kundërvajtës 1. Inspektori për pajisje nën presion do të caktoj lartësinë e sanksionit kundërvajtës kryesit duke marr parasysh të gjitha rrethanat lehtësuese dhe rënduese, në veçanti peshën e kundërvajtjes dhe pasojat, shkallën e përgjegjësisë, rrethanat nën të cilat është kryer kundërvajtja dhe gjendja e tij pasurore.
+LIGJI Nr. 06/L-031 PËR PAJISJET NËN PRESION 2. Nëse kundërvajtja është kryer në përsëritje, në veçanti do të merret parasysh se kundërvajtja e mëhershme a është e llojit të njëjtë sikurse kundërvajtja e re, se të dy(2) kundërvajtjet a janë kryer në të njëjtat rrethana dhe sa kohë ka kaluar nga sanksioni kundërvajtës i mëhershëm.
+3. Më rastin e matjes së sanksionit kundërvajtës si rrethanë rënduese nuk mund të merret parasysh sanksioni kundërvajtës i shqiptuar më herët nëse nga dita e vendimit të formës së prerë për kundërvajtje kanë kaluar më shumë se dy (2) vite.

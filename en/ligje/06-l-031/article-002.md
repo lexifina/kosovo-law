@@ -1,0 +1,8 @@
+# Article 2
+Scope 1. This Law includes the essential safety terms and requirements to be applied for the design, manufacture, conformity assessment, use and maintenance of pressure equipment and assemblies subject to a manometric working pressure of more than 0.5 bar.
+LAW No. 06/L –031 ON PRESSURE EQUIPMENT 2. The provisions of this Law shall apply to pressure equipment and assemblies that are new or old in the market, including new equipment and assemblies by producers established in Kosovo, or pressure equipment and assemblies which are new or old, imported from abroad.
+3. The provisions of this Law shall not apply to:
+3.1. bottles or cans for carbonated drinks for final consumption;
+3.2. radiators and pipes in warm water heating;
+3.3. pipelines comprising piping or a system of piping designed for the conveyance of any fluid or substance to or from an installation starting from and including the last isolation device located within the confines of the installation, including all the annexed equipment designed specifically for pipelines; this exclusion shall not apply to standard pressure equipment such as may be found in pressure reduction stations or compression stations;
+3.4. pipelines for supply, distribution and discharge of water with component equipment and main segments of hydroelectric systems, 3.5. engines including turbines and internal combustion engines, steam engines, gas- steam turbines, turbo-generators, compressors, pumps and actuating devices; and 3.6. pressure equipment consisting of flexible rubber wrap, air cushions, play balls, inflatable boats and similar pressure equipment.

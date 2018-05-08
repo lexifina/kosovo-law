@@ -1,0 +1,1 @@
+LIGJI Nr. 06/L-031 PËR PAJISJET NËN PRESION LIGJI Nr. 06/L-031 PËR PAJISJET NËN PRESION Kuvendi i Republikës së Kosovës, Në mbështetje të nenit 65 (1) të Kushtetutës së Republikës së Kosovës, Miraton: LIGJ PËR PAJISJET NËN PRESION

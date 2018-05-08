@@ -1,0 +1,6 @@
+# Neni 8
+Obligimet e importuesit 1. Importuesit i lejohet vënia në treg vetëm të pajisjeve ose instalimeve nën presion që i plotësojnë kushtet e konformitetit.
+2. Importuesi është i obliguar që para vënies në treg të pajisjeve ose instalimeve nën presion të verifikoj se prodhuesi ka kryer vlerësimin e konformitetit bazuar në rregullat teknike. Importuesi duhet të sigurohet që prodhuesi ka hartuar dokumentacionin teknik dhe që pajisja ose instalimi nën presion ka shenjën e konformitetit dhe janë të bashkangjitur udhëzimet adekuate për shfrytëzim.
+3. Importuesit duhet që në pajisjen ose instalimin nën presion të vendosin emrin, emërtimin tregtar të regjistruar ose shenjën tregtare të regjistruar dhe adresën postare ku mund të ketë qasje. Shënimet kontaktuese duhet të jenë në gjuhën e kuptueshme për konsumatorët, shfrytëzuesit dhe mbikëqyrësit e tregut.
+4. Importuesit janë të detyruar që deklaratën e konformitetit dhe dokumentacionin teknik ta kenë në dispozicion për organet e mbikëqyrjes së tregut në periudhë kohore prej dhjetë (10) viteve nga dita e futjes në treg të pajisjes ose instalimit nën presion.
+5. Importuesi konsiderohet si prodhues dhe i nënshtrohet obligimeve të prodhuesit në rastet kur pajisja ose instalimi nën presion vihet në treg me emrin e tij ose me shenjën tregtare të tij.

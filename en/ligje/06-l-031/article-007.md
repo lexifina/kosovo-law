@@ -1,0 +1,5 @@
+# Article 7
+Authorized Representatives 1. A manufacturer may, by a written mandate, appoint an authorised representative for the placing on the market of the pressure equipment or assemblies.
+2. An authorised representative shall perform the tasks specified in the mandate received from the manufacturer. The mandate shall allow the authorised representative to do at least the following:
+2.1. keep the declaration of conformity and the technical documentation at the disposal of national market surveillance authorities for ten (10) years after the pressure equipment or assembly has been placed on the market;
+LAW No. 06/L –031 ON PRESSURE EQUIPMENT 2.2. further to a reasoned request from a competent national authority, provide that authority with all the information and documentation necessary to demonstrate the conformity of the pressure equipment or assembly; and 2.3. cooperate with the competent national authorities, at their request, on any action taken to eliminate the risks posed by the pressure equipment or assembly covered by the authorised representative’s mandate.
