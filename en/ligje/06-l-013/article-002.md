@@ -1,0 +1,7 @@
+# Article2
+Definitions 1. Terms used in this Law shall have the following meaning:
+1.1. Basic Law - shall mean the Law No. 04/L-072 on State Border Control and Surveillance, amended and supplemented with Law No. 04/L-214;
+1.2. Joint Border-Crossing Point - shall mean any border crossing point in the territory of the Republic of Kosovo or in the territory of a neighbouring country, whereby border officers of our state and border officers of the neighbouring state shall conduct entry and exit control, one after the other, in accordance with their national legislation and pursuant to the bilateral agreement;
+1.3. Border officer – shall mean any public officer appointed in accordance with relevant local legislation at the border crossing point or along the border or in the immediate vicinity of the border, conducting border control duties in accordance with relevant local legislation;
+1.4. Threat to Public health - shall mean any disease with potential of becoming an epidemic, as foreseen in the regulation of the World Health Organization and other infective diseases or contagious parasitic diseases, if the same are subject to the applicable provisions for the protection of citizens of our country.
+LAW No. 06/L –013 ON AMENDING AND SUPPLEMENTING THE LAW No. 04/L-072 ON STATE BORDER CONTROL AND SURVEILLANCE, AMENDED AND SUPPLEMENTED WITH THE LAW No. 04/L-214 / ANNEX 1 / ANNEX 2 2. Other terms used in this Law shall have the same meaning as defined in the basic Law.

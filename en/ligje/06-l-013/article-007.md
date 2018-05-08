@@ -1,0 +1,14 @@
+# Article 7
+After Article 16 of the basic Law, a new Article 16A shall be added with the following text:
+LAW No. 06/L –013 ON AMENDING AND SUPPLEMENTING THE LAW No. 04/L-072 ON STATE BORDER CONTROL AND SURVEILLANCE, AMENDED AND SUPPLEMENTED WITH THE LAW No. 04/L-214 / ANNEX 1 / ANNEX 2
+Article 16A
+Special lanes and information on signs 1. State bodies shall, if possible, ensure special lanes particularly in the aerial and ground border crossing points, in order to control the persons pursuant to this Law. Such lanes shall be distinguished with signs which contain the indicators defined in Annex I, which is an integral part of this Law.
+2. State bodies shall ensure that such lanes are clearly shown, including cases when rules regarding the use of separate lanes are repealed, as foreseen in paragraph 10 of this Article, in order to ensure the optimal flow level of persons crossing the border.
+3. Persons who enjoy the right of entry to Kosovo are entitled to use the lanes marked with the sign provided in Part A of Annex I of this Law. They may also use the lanes marked with the sings provided in Part B1 (“no visa required”) and part B2 (“all passports”) of Annex I of the Law.
+4. Foreign citizens who are not obligated to possess a visa to cross the borders of Kosovo, in accordance with the domestic legislation, and citizens of foreign countries who have a valid residence permit or a long-term residence visa in Kosovo, can use the lanes marked with the signs provided in part B1 (“no visa required”) of Annex I of this Law. They may also use the lanes marked with the signs provided in part B2 (“all passports”) of Annex I of this Law.
+5. All other persons shall use the lanes marked with the sign provided in B2 (all passports) of the Annex I of this Law.
+6. The indicators of the signs mentioned in this Article can be displayed in the language(s) considered adequate by state bodies.
+7. Provision of special lanes marked with the sings provided in part B1 (no visa required) of Annex I of this Law is not obligatory. State bodies shall decide if they will do so, as well as the border crossing points in which, such practice will be applied, in accordance with practical needs and if local circumstance allow it.
+8. In terms of land border crossing points, if possible state bodies shall separate vehicle traffic into different lanes for heavy and light vehicles and buses, by using the signs as provided in Part C of Annex I of this Law.
+9. State bodies, can change the indicators for those signs, where appropriate under local circumstances.
+10. In cases of temporary misbalance of traffic flow in a certain border crossing point, the rules related to the use of different lanes may be not taken into consideration by state bodes for the time period needed with the aim of eliminating such misbalance.
