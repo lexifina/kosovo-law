@@ -1,0 +1,13 @@
+## KAPITULLI VI
+## SANKSIONET
+# Neni 23
+Sanksionet 1. Çdo shkelje e detyrimeve të përcaktuara në këtë ligj e që nuk përbën vepër penale sipas Kodit Penal të Republikës së Kosovës, paraqet kundërvajtje dhe dënohet me gjobë si më poshtë:
+1.1. për shkelje të dispozitave të parapara në nenin 12, nenin 13, paragrafin 1, 2 dhe 3, nenin 14, nenin 15, paragrafët 1, 2, 3 dhe 6, nenin 17, paragrafi 2, nenin 18, paragrafi 1, dhe nenin 19, paragrafi 1, zyrtari ose personi i afërm me të dënohet me gjobë nga
+LIGJI Nr. 06/L -011 PËR PARANDALIMIN E KONFLIKTIT TË INTERESIT NË USHTRIMIN E FUNKSIONIT PUBLIK njëmijë (1,000) Euro deri në dymijë (2,000) Euro dhe me dyfishin e tyre në rast përsëritje të shkeljes së vërtetuar;
+1.2. për shkelje të dispozitave të nenit 9, paragrafi 1, nën-paragrafët 1.4, 1.6, 1.7, 1.8, 1.9, 1.11, 1.12, 1.13 dhe 1.14, nenit 13, paragrafi 3, nenit 15, paragrafi 4 dhe 5 dhe nenit 18, paragrafi 1, nën-paragrafët 1.2, 1.3 dhe 1.4 të këtij ligji, personi i besuar dënohet me gjobë nga njëmijë (1,000) Euro deri në dymijë (2,000) Euro;
+1.3. për shkelje të dispozitave të parapara në nenin 8, paragrafët 3, 4 dhe 5, nenin 16, paragrafi 4, nenin 18, paragrafi 2, nenin 19, paragrafi 2, nenin 20, paragrafi 6, nenin 21, paragrafi 3 dhe nenin 22, paragrafi 9, zyrtari përgjegjës i institucionit dënohet me gjobë nga njëmijë (1,000) Euro deri në dymijë (2,000) Euro;
+1.4. për shkelje të dispozitave të nenit 13, paragrafi 1 dhe 3, nenit 15, paragrafi 5, nenit 18, paragrafi 1, nën-paragrafët 1.1, 1.2 dhe 1.3 dhe nenit 21, paragrafi 4 të këtij ligji, personi juridik privat dënohet me gjobë nga njëmijë (1,000) Euro deri në pesëmbëdhjetë mijë (15,000) Euro;
+1.5. kur nuk jepen pa arsye të dhënat e kërkuara nga Agjencia, sipas paragrafit 4 të nenit 21 të këtij ligji, personat përgjegjës të institucioneve dhe personave juridikë publikë dhe privatë dënohen me gjobë nga pesëqind (500) Euro deri në njëmijë e pesëqind (1,500) Euro;
+1.6. për shkelje të dispozitave të nenit 8, paragrafët 1 dhe 2, nenit 9, nenit 10, paragrafi 4, nenit 11, nenit 16, paragrafët 1, 2 dhe 3, nën-paragrafët 3.1, 3.2 dhe 3.3 dhe nenit 17, paragrafët 1 dhe 4 të këtij ligji, zyrtari ose personi i afërm me të dënohet me gjobë nga gjashtëqind (600) Euro deri në njëmijë e pesqind (1,500) Euro.
+2. Për shkelje të detyrimeve të përcaktuara në paragrafin 1 të këtij neni, gjykata mund të shqiptojë ndaj zyrtarit apo drejtuesit të institucionit, përveç dënimit me gjobë, edhe masën mbrojtëse të ndalimit të ushtrimit të funksionit publik me kohëzgjatje prej gjashtë (6) muaj deri në dy (2) vjet.
+3. Për veprat kundërvajtëse, Agjencia dhe çdo institucion punëdhënës inicion procedurën kundërvajtëse në pajtim me ligjin.

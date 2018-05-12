@@ -1,0 +1,3 @@
+# Article 14
+Membership in non-governmental organizations 1. Senior official has right to be a member of a steering body, with the exception of the steering function, of a non-governmental organization in the field of science, sport, culture, humanitarian activities and similar without the right for monetary compensation, except the right for travel expenses reimbursement and expenses related to these.
+2. Non-governmental organizations under paragraph 1. of this Article shall not be entitled to enter into a contract with or receive funding from the employing institution of the official who is a member of the governing body of this organization.

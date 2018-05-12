@@ -1,0 +1,2 @@
+# Article 2
+Scope The provisions in this law define the principles, rules and procedures of permitted and prohibited activities of officials in the performance of public duties as well as the measures foreseen for violation of provisions defined in this law. This law regulates also the procedures for reporting obligations, measures for prevention, identification, management and resolution of conflict of public and private interest during and after discharge of official public duties and the duties and responsibilities of competent authorities.

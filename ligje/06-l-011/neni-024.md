@@ -1,0 +1,7 @@
+# Neni 24
+Përgjegjësitë e tjera ligjore dhe pasojat mbi aktet 1. Çdo shkelje e dispozitave të këtij ligji do të konsiderohet edhe si shkelje disiplinore, pavarësisht përgjegjësive eventuale penale. Shkeljet disiplinore trajtohen në pajtim me rregullat që i rregullojnë marrëdhëniet e punës dhe statusin e zyrtarëve. Institucionet/organizatat që i kanë iniciuar procedurat disiplinore sipas këtij ligji duhet ta njoftojnë Agjencinë për inicimin dhe rezultatin e atyre procedurave.
+2. Dispozitat e këtij ligji nuk përjashtojnë përgjegjësinë disiplinore dhe penale të zyrtarit sipas legjislacionit në fuqi.
+3. Agjencia, çdo zyrtar, udhëheqës i zyrtarit dhe çdo institucion ushtrojnë kallëzim penal në prokurorinë e shtetit kompetente ndaj zyrtarit i cili shkel detyrimet e parapara me këtë ligj, e që përbëjnë vepër penale sipas Kodit Penal të Republikës së Kosovës.
+LIGJI Nr. 06/L -011 PËR PARANDALIMIN E KONFLIKTIT TË INTERESIT NË USHTRIMIN E FUNKSIONIT PUBLIK 4. Për inicimin e procedurës përkatëse, Agjencia, zyrtari dhe udhëheqësi i zyrtarit e njoftojnë udhëheqësin e institucionit në të cilin zyrtari punon apo ka punuar.
+5. Agjencia inicion procedurën administrative për revokimin ose shfuqizimin e akteve nga ana e institucionit që i ka lëshuar ato në konflikt interesi.
+6. Agjencia inicion procedurën administrative dhe/ose gjyqësore për anulimin e akteve dhe për obligimin e zyrtarit përgjegjës për shlyerjen e pasojave materiale dhe financiare të akteve të marra në kushtet e konfliktit të interesit.

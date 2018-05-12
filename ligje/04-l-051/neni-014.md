@@ -1,9 +1,0 @@
-# Neni 14
-Transferimi i të drejtave në drejtimin e ndërmarrjes
-1. Personi, Zyrtari i lartë, pronari i aksioneve, gjegjësisht pjesës së kapitalit në një ndërmarrje, gjatë ushtrimit të funksionit publik, duhet t’i transferojë të drejtat e administrimit ose menaxhimit,apo drejtimit tё ndërmarrjes tek ndonjë person të besuar.
-2. Personi Zyrtar i lartë, është i obliguar qe në afat prej tridhjetë (30) ditësh nga zgjedhja, vendosja ose emërimi në detyrë me post zyrtar, të bëjë transferimin e të drejtave në udhëheqjen e ndërmarrjes në personin e besuar kurse brenda afatit prej pesë (5) ditë nga data e transferimit se këtyre te drejtave ta njoftoj me shkrim Agjencinë.
-3. Personi i besuar nga paragrafi 1. i këtij neni do të veprojë në drejtim të realizimit të drejtave të zyrtarit të lartë dhe të drejtave nga kapitali në emër të tij por për llogari të zyrtarit.
-4. Nëse personi i besuar krijon marrëdhënie afariste me institucionet e qeverisjes qendrore, lokale, ndërmarrjet publike apo me ndërmarrjet private ku kapitali i pronës publike ka më shumë se pesë (5)% të kapitalit apo aksioneve, është i detyruar që të njoftoj zyrtarin e lartë lidhur me marrëdhëniet e tilla afariste.
-5. Gjatë kohës derisa të drejtat për administrim me ndërmarrjen i janë transferuar personit tjetër, zyrtari i lartë nuk ka të drejtë të jap informata, udhëzime, urdhëresa apo në ndonjë mënyrë tjetër të qëndroj në lidhje me personin e besuar ashtu që të ketë ndikim në realizimin e të drejtave dhe përmbushjen e detyrave që dalin nga të drejtat e anëtarëve të ndërmarrjeve të tilla.
-6. Zyrtari i lartë ka të drejtë të informohet për ecuritë dhe gjendjen në ndërmarrjen ku ka pronësi, ose pjesë të pronësisë.
-7. Zyrtari i lartë ka të drejtë të rikthej të drejtat ne administrimin apo menaxhimin e ndërmarrjes nga personi i besuar, kur sipas këtij ligji kushtet që diktuan këtë veprim nuk ekzistojnë më.

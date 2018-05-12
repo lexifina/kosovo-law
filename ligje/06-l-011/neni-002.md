@@ -1,0 +1,2 @@
+# Neni 2
+Fushëveprimi Dispozitat e këtij ligji përcaktojnë parimet, rregullat dhe procedurat lidhur me sjelljet e lejuara dhe të ndaluara të zyrtarëve gjatë kryerjes së detyrës publike si dhe masat e parapara për shkeljen e dispozitave të përcaktuara në këtë ligj. Ky ligj rregullon gjithashtu procedurat për detyrimet e raportimit, masat për parandalimin, identifikimin, menaxhimin dhe zgjidhjen e rasteve të konfliktit të interesit publik dhe private të zyrtarit gjatë dhe pas ushtrimit të detyrës publike si dhe detyrat e përgjegjësitë e autoriteteve përgjegjëse.

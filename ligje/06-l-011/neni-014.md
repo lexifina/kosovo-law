@@ -1,0 +1,3 @@
+# Neni 14
+Anëtarësia në organizata joqeveritare 1. Zyrtari i lartë mund të jetë anëtar i organit drejtues, me përjashtim të funksionit drejtues, të organizatës joqeveritare nga lëmi i shkencës, sportit, arsimit, kulturës, veprimtarive humanitare dhe të ngjashme pa të drejtë shpërblimi me pagesë, përveç të drejtës në kompensimin e shpenzimeve të udhëtimit dhe shpenzimeve të tjera të lidhura me to.
+2. Organizata joqeveritare sipas paragrafit 1. të këtij neni nuk ka të drejtë të lidhë kontratë ose të përfitojë fonde nga institucioni ku ushtron detyrën zyrtari që është anëtar i organit drejtues në këtë organizatë.
