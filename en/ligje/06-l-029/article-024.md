@@ -1,0 +1,7 @@
+# Article 24
+National radiological and nuclear emergency response plan 1. The Agency shall cooperate with the Agency for Emergency Management in preparation and execution of national radiological and nuclear emergency response plan, which shall be approved by the Government.
+2. The Agency shall ensure that the members of the public likely actually to be affected in the event of an emergency are immediately given information about the health protection measures applicable to them and about the action they should take in the event of such an emergency.
+LAW No. 06/L-029 ON RADIATION PROTECTION AND NUCLEAR SAFETY 3. The Agency shall, based on procedures, exchange information related to emergency, with neighbouring countries, international organizations in accordance with protocols and rules for exchange information.
+4. The Government shall, where appropriate, cooperate with other countries from an emergency exposure situation to an existing exposure situation.
+5. The Agency shall promptly share information and cooperate with neighbouring countries and relevant international organisations regarding the loss, theft or discovery of high-activity sealed sources, other radioactive sources and radioactive material.
+6. The radiological emergency response plan for emergencies that may occur on the territory of the Republic of Kosovo and for emergencies occurring outside its territory shall be approved by the Government.

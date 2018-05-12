@@ -1,5 +1,0 @@
-LAW No.04/L-067 FOR THE AGENCY OF KOSOVO ON RADIATION PROTECTION AND NUCLEAR SAFETY
-Assembly of Republic of Kosovo,
-Based on Article 65 (1) of the Constitution of the Republic of Kosovo,
-Approves
-LAW FOR THE AGENCY OF KOSOVO ON RADIATION PROTECTION AND NUCLEAR SAFETY

@@ -1,0 +1,4 @@
+# Neni 2
+Fushëveprimi 1. Ky ligj zbatohet për të gjitha aktivitetet dhe praktikat që përfshijnë përdorimin paqësor të energjisë bërthamore dhe rrezatimit jonizues të kryer në territorin ose nën juridiksionin ose kontrollin e Republikës së Kosovës.
+2. Ky Ligj zbatohet për çdo situatë ekspozimi të planifikuar, ekzistuese ose emergjente që përfshin një rrezik nga ekspozimi ndaj rrezatimit të cilat nuk mund të mos merren parasysh nga pikëpamja e mbrojtjes nga rrezatimi ose në lidhje me mjedisin, në funksion të mbrojtjes afatgjate të shëndetit të njeriut.
+3. Ky Ligj përcakton statusin, detyrat dhe përgjegjësitë e Agjencisë së Kosovës për Mbrojtje nga Rrezatimi dhe për Siguri Bërthamore, përgjegjësinë për të komunikuar me shtetet tjera dhe organizatat ndërkombëtare relevante dhe përgjegjësitë për të arritur objektivat e përcaktuara në këtë Ligj.

@@ -1,0 +1,2 @@
+# Neni 33
+Instalimet bërthamore Qeveria, me propozim të Agjencisë, nxjerr rregullore për instalimet bërthamore për kushtet e lokacionit, projektimit, ndërtimit, komisionimit, operimit dhe dekomisionimit të instalimit bërthamor, kërkesat për siguri, përmbajtjen e Raportit të Analizës së Sigurisë si dhe për dokumentacionin tjetër të sigurisë që do të krijohet, përdoret dhe mirëmbahet nga ndërmarrja.

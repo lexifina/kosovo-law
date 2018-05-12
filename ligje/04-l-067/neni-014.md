@@ -1,6 +1,0 @@
-# Neni 14
-Plani i veprimit për mbrojtje nga rrezatimi dhe siguria bërthamore
-1. Në zbatim të Strategjisë kombëtare për mbrojtje nga rrezatimi dhe siguria bërthamore, Agjencia harton Planin e Veprimit për mbrojtje nga rrezatimi dhe siguria bërthamore në bashkëpunim me institucionet përgjegjëse të Republikës së Kosovës, dokument i cili përmban masat konkrete për mbrojtje nga rrezatimi dhe siguria bërthamore që duhet të zbatohen nga institucionet si në nivel qendror ashtu edhe në atë lokal.
-2. Plani i veprimit për mbrojtje nga rrezatimi dhe siguria bërthamore mund të ndryshohet dhe plotësohet në bazë të propozimeve nga institucionet përgjegjëse ose me iniciativën e Agjencisë.
-3. Agjencia monitoron zbatimin e Planit të veprimit për mbrojtje nga rrezatimi dhe siguria bërthamore nga institucionet e Kosovës si në nivel qendror ashtu edhe në atë lokal. Për zbatimin e masave për mbrojtje nga rrezatimi dhe siguria bërthamore, institucionet përgjegjëse i raportojnë Agjencisë në mënyrë periodike një herë në gjashtë muaj si dhe kurdo që kjo kërkohet nga Agjencia.
-4. Në raportin vjetor të Agjencisë raportohet edhe për ecurinë e zbatimit të strategjisë dhe Planit të veprimit për mbrojtje nga rrezatimi dhe siguria bërthamore.

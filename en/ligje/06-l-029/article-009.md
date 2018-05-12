@@ -1,0 +1,4 @@
+# Article 9
+Transparency 1. The Agency shall ensure that information in relation to the justification of classes or types of practices, the regulation of radiation sources and of radiation protection is made available to undertakings, workers, members of the public, as well as patients and other individuals subject to medical exposure.
+2. The Agency shall ensure that necessary information in relation to the safety of facilities and relevant regulation is made available to workers and the general public, with specific consideration to local authorities, population and stakeholders in the vicinity of a nuclear installation.
+3. The obligations set out in paragraphs 1. and 2. of this Article shall mean the provision of data by the Agency and undertakings, within their competences. The data shall be available in accordance with the applicable legislation, without jeopardizing other security interests.

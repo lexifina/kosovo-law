@@ -1,0 +1,4 @@
+# Neni 9
+Transparenca 1. Agjencia siguron që të dhënat në lidhje me justifikimin e klasave apo llojeve të praktikave, rregulloret e burimeve të rrezatimit dhe mbrojtjes nga rrezatimi janë vënë në dispozicion të ndërmarrjeve, punonjësve, pjesëtarëve të publikut si dhe pacientëve dhe individëve të tjerë që i nënshtrohen ekspozimit mjekësor.
+LIGJI Nr. 06/L- 029 PËR MBROJTJE NGA RREZATIMI DHE SIGURI BËRTHAMORE 2. Agjencia siguron që të gjitha të dhënat e nevojshme për sigurinë e objekteve dhe rregulloret relevante të jenë të gatshme për punonjësit dhe publikun me theks të veçantë për autoritetet vendore, popullatën dhe akterët në afërsi të një instalimi bërthamor.
+3. Detyrimet e përcaktuara në paragrafët 1. dhe 2. të këtij neni nënkuptojnë sigurimin e të dhënave nga Agjencia dhe ndërmarrjet në kuadër të kompetencave të tyre. Të dhënat duhet të jenë në dispozicion në përputhje me legjislacionin në fuqi, pa rrezikuar interesat tjera të sigurisë.

@@ -1,2 +1,0 @@
-# Neni 23
-Personat juridik dhe fizik të cilët prodhojnë, bëjnë bartjen ose shfrytëzojnë burimet e rrezatimit jonizues, janë të obliguar që personave të cilët punojnë në vendet ku janë të ekspozuar me rrezatim jonizues, t’ u sigurojnë kontroll dozimetrike personale, t’i pajisin me mjete personale mbrojtëse dhe t’i udhëzojnë në kontroll të rregullt shëndetësor, t’u sigurojnë vërtetimin e saktësisë së atyre mjeteve si dhe përdorimin e tyre të drejtë.

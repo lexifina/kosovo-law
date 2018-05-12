@@ -1,0 +1,4 @@
+## KAPITULLI I
+## DISPOZITAT E PËRGJITHSHME
+# Neni 1
+Qëllimi 1. Qëllimi i këtij Ligji është të mbrojë shëndetin e individëve që i nënshtrohen ekspozimit profesional, mjekësor, publik dhe mjedisin nga efektet e dëmshme të rrezatimit jonizues dhe jojonizues, të sigurojë nivel të lartë të sigurisë bërthamore dhe të përmbushë detyrimet ndërkombëtare të Republikës së Kosovës në këtë fushë. 2.Ky Ligj është në përputhshmëri me direktivat e BE-së, me theks të veçantë: Direktivën për Standardet Bazë të Sigurisë (Direktiva 2013/59/EURATOM), Direktivën për Mbetjet Radioaktive dhe Menaxhimin e Lëndës Djegëse të Shpenzuar (Direktiva 2011/70/EURATOM), Direktivën për Ujin për Konsum Njerëzor (Direktiva 2013/51/EURATOM), Direktivën për Transportin e Mbetjeve Radioaktive dhe Lëndës Djegëse të Shpenzuar (Direktiva 2006/117/EURATOM) dhe Direktivën për Sigurinë Bërthamore të Instalimeve Bërthamore me ndryshimet (Direktiva 2014/87/EURATOM).

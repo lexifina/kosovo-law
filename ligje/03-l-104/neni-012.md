@@ -1,3 +1,0 @@
-# Neni 12
-Hulumtimi sistematik i përmbajtjes së radionuklideve në mjedis
-Zbulimi i prezencës, përcaktimi i rrezikut, informimi dhe ndërmarrja e masave për mbrojtjen nga rrezatimi jonizues bëhet sipas kushteve të përcaktuara dhe të parapara. Ministria harton program për hulumtimin sistematik të përbërjes së radionukleideve në ajër, tokë, lumenj, liqene, në të reshurat atmosferike, në gjallesat bimore dhe shtazore, në materialin ndërtimor, në sendet e përdorimit të përgjithshëm, në ujë të pijes, në gjërat ushqimore për njerëz, ushqimin e kafshëve dhe atë, në kushte normale, në rast të dyshimit për ngjarje të jashtëzakonshme si dhe gjatë situatës së jashtëzakonshme.

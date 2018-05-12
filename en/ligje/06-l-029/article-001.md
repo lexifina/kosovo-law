@@ -1,0 +1,4 @@
+## CHAPTER I
+## GENERAL PROVISIONS
+# Article 1
+Aim 1. The purpose of this Law is to protect the health of individuals subject to professional medical, public and environmental exposure against the dangers arising from ionizing and non-ionizing radiation, to assure high level of nuclear safety and to fulfil the international obligations of the Republic of Kosovo in this area. 2.This Law is in accordance with the EU directives, with special emphasis on: the Directive on Basic Safety Standards (Directive 2013/59/EURATOM), the Directive on Radioactive Waste and Spent Fuel Management (Directive 2011/70/EURATOM), the Directive on Water Intended for Human Consumption (Directive 2013/51/EURATOM), the Directive on Shipments of Radioactive Waste and Spent Fuel (Directive 2006/117/EURATOM), and the Directive on Nuclear Safety of Nuclear Installations with amendments (Directive 2014/87/EURATOM).
