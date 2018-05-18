@@ -1,0 +1,5 @@
+# Article 18
+1. Article 7 of the Annex of basic Law, sub-paragraph 2.6.3 shall be amended with the following text:
+2.6.3. includes a clear statement in bold type that all persons alleging to hold claims or interests in or against the enterprise are required to act in compliance with the requirements specified in the notice and repeat the proof of the claim or of the interest; without regard as to whether they have previously submitted such claim or informed the Court, the Agency or the Agency’s predecessor (the Kosovo Trust Agency) with respect thereto;
+2. Article 7 of the Annex of basic Law, paragraph 5 shall be amended as follows:
+5. Within fifteen (15) days after the initial publication of the Liquidation Notice, the Liquidation Authority shall again publish such notice in accordance with all requirements of the Advertisement Provisions. For the avoidance of doubt, this publication of the Liquidation Notice shall not affect the date and time of the Claims Submission Deadline, which shall remain as specified in the notice as originally published.
