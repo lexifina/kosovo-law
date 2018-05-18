@@ -1,0 +1,12 @@
+# Article 3
+Definitions 1. Terms used in this Law shall have the following meaning:
+1.1. Ministry – the Ministry responsible for the mining sector;
+1.2. Minister - Minister responsible for the mining sector;
+1.3. Kosovo Geological Service KGS - an independent body within the Ministry, which functions as an advisory, technical and scientific body of the state, and which carries out activities in the field of geological sciences in the territory of the Republic of Kosovo.
+1.4. Museum - National Museum of Crystals and Minerals “Trepça”.
+1.5. Geological Surveys - a set of activities and processes conducted for the purpose of discovering and obtaining relevant information on: geological construction, genesis, qualitative and quantitative characteristics of minerals and other geological, geothermal, hydrogeological, geological-engineering and geotechnical resources, geodynamic characteristics of the geological environment such as geological hazards, and hazards in terms of activating dangerous geological processes, spatial planning, environment
+LAW No. 06/L –039 ON KOSOVO GEOLOGICAL SERVICE protection and advancement;
+1.6. Geological survey works - includes all types of field, laboratory and cabinet surveys, studies and tests, that are carried out for the purpose of exploration and detection of minerals and other geological resources, underground waters, geothermal energy, and environmental geological researches;
+1.7. Geological Risk - is the possibility of activating a potentially hazardous geological process (landslides, demolitions, earthquakes, floods and similar) in a given area and at a certain period, which includes the size of the activated process (surface area involved in landslides, sinking, volume of moving masses, character of geological environment pollution, earthquake power and similar);
+1.8. Environmental protection - means the protection and presentation of natural values (geological, geomorphological phenomena of the historical development characteristics of the Earth’s crust and representative forms of these phenomena), protection from harmful natural processes (earthquakes, slides, erosion, flooding etc.) and from the negative technogenous actions (soil pollution during researches and utilization of useful minerals, groundwater contamination, artificial distortion of soil stability, air pollution and endangering protected natural values).
+2. Other terms used in this Law, which are not included in these definitions, shall have the meaning of the terms used in the legislation in force on Mines and Minerals.

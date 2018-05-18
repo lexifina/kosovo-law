@@ -1,0 +1,6 @@
+# Article 12
+Data collection 1. Kosovo Geological Service has the right and obligation to collect and store in the KGS Archives all current and future information and documentation in the field of basic geology, mineralogy, geophysics, geochemistry, stratigraphy, hydrogeology, engineering geology, seismology, sampling, their copies, and systematize, preserve, process and use such data in accordance with the rules outlined according to paragraph 5 of this Article.
+2. The geology archive shall operate under the Geological Service of Kosovo.
+3. The organization, operation and arrangement of the archives shall be done in line with the Law on Archives.
+LAW No. 06/L –039 ON KOSOVO GEOLOGICAL SERVICE 4. All natural and legal persons are obliged to cooperate with the Archives of the Kosovo Geological Service, and if in one way or another they have gotten hold of textual, graphical or factual documentation, they must submit such documents to the Geological Service Archives, unless they would be committing a criminal offense of concealing documentation of interest to Kosovo.
+5. The form of organization, use and utilization of archival material of the Kosovo Geological Service shall be determined by sub-legal act issued by the Ministry.

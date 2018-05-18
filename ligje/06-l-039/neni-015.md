@@ -1,0 +1,2 @@
+# Neni 15
+Bashkëpunimi me institucione të tjera 1.Shërbimit Gjeologjik të Kosovës bashkëpunon me institucione të tjera vendore dhe ndërkombëtare, në pajtim me legjislacionin në fuqi si dhe ofron informacione gjeoshkencore institucioneve publike në Republikën e Kosovës. 2.Shërbimi Gjeologjik i Kosovës bashkëpunon ngushtë me Fakultetin e Gjeoshkencave në përdorimin e Laboratorit për qëllime studimore shkencore.
