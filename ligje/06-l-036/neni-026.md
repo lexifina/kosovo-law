@@ -1,0 +1,3 @@
+# Neni 26
+Pas nenit 83, të Ligjit bazik, shtohet neni 83/A, me tekstin si në vijim:
+LIGJI Nr. 06/L -036 PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJIT Nr. 04/L-219 PËR TË HUAJT Neni 83/A Zyrtarët e institucionit kompetent kanë të drejtë të kryejnë intervista me të huajin dhe me ftuesin e tij/saj që të kërkojnë shpjegime dhe dokumente shtesë, që arsyetojnë hyrjen dhe qëllimin e vizitës dhe vërtetësinë e informatave të ofruara nga i huaji, si dhe të verifikojnë informatat e ofruara nga i huaji dhe ftuesi i tij/saj që të marrin vendim për lëshimin ose vazhdimin e vizës, lejes së qëndrimit, lejes së punës ose autorizimin për nevoja të punës.

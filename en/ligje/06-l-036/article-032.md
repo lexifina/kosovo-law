@@ -1,0 +1,4 @@
+# Article 32
+After Article 94 of the basic Law, there shall be added Article 94/A with the following text: Article 94/A Assisted voluntary return 1. Assisted voluntary return shall mean the removal of a foreigner to the country of origin based on a decision on return. In order to encourage assisted voluntary return, the police may revoke the decision on removal or revoke the entry and residence ban.
+LAW No. 06/L –036 ON AMENDING AND SUPPLEMENTING THE LAW No.04/L-219 ON FOREIGNERS 2. In the light of encouraging assisted voluntary return, the Ministry may conclude agreements or cooperate with other countries’ competent bodies, international organizations and civil society organizations.
+3. With the purpose of encouraging assisted voluntary return, DCAM shall provide travel documents and travel tickets, and conduct the financial payments.

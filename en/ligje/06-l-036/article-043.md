@@ -1,0 +1,2 @@
+# Article 43
+Article 128, paragraph 2 of the basic Law shall be reworded with the following text: From the Labour Inspectorate with a fine in the amount of one thousand (1.000) to two thousand (2.000) euro shall be punished an employer as a natural person, with a fine in the amount of five thousand (5.000) to seven thousand (7.000) euro shall be punished an employer as a legal entity and the responsible person of the legal entity shall be punished in the amount of one thousand (1.000) to two thousand (2.000) euro, who:

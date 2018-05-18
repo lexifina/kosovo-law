@@ -1,0 +1,2 @@
+# Neni 43
+Neni 128, paragrafi 2 i ligjit bazik, riformulohet me tekstin si në vijim: 2.Nga Inspektorati i Punës me gjobë në shumë prej njëmijë (1.000) deri dymijë (2.000) euro dënohet punëdhënësi si person fizik, me gjobë në shumën prej pesëmijë (5.000) deri shtatëmijë (7.000) euro do të dënohet punëdhënësi si person juridik, ndërsa personi përgjegjës i personit juridik dënohet me gjobë në shumën prej njëmijë (1.000) deri në dymijë (2.000) euro, i cili:

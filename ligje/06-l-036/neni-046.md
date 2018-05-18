@@ -1,0 +1,6 @@
+# Neni 46
+Neni 131, paragrafët 1, 2, 3 dhe 4, të Ligjit bazik, riformulohen me tekstin si në vijim:
+1. Me gjobë në shumë prej njëmijë (1.000) deri dymijë (2.000) euro për çdo të huaj të transportuar, do të dënohet nga policia transportuesi i të huajit të cilët nuk kanë pasaportë të vlefshme ose dokument tjetër që përdoret për kalimin e kufirit, vizë të vlefshme ose leje qëndrimi (neni 35 paragrafi 2. i këtij ligji).
+2. Me gjobë në shumë prej njëmijë (1.000) deri dymijë (2.000) euro për çdo të huaj të transportuar, do të dënohet nga policia transportuesi si person fizik i cili me shpenzimet e veta nuk e ka dërguar (larguar) të huajin deri të vendkalimi i kufirit ose nga Republika e Kosovës ose nuk i ka marrë përsipër shpenzimet për kthimin e të huajit (neni 35, paragrafi 3., 4. dhe 5. i këtij ligji).
+3. Me gjobë në shumën e njëmijë (1.000) deri dymijë (2.000) euro për çdo të huaji të asistuar, do të dënohet nga policia personi fizik i cili ndihmon një të huaj në mënyrë të paligjshme të kalojë kufirin, transit dhe qëndrimit të paligjshëm në Republikën e Kosovës (neni 36 i këtij ligji).
+4. Me gjobë në shumën prej pesëmijë (5.000) euro do të dënohet nga Policia një person juridik në rastin e paragrafit 2 dhe 3 të këtij neni, me gjobë në shumën prej dymijë (2.000) euro personi përgjegjës në personin juridik, për çdo të huaj të transportuar, apo të ndihmuar.

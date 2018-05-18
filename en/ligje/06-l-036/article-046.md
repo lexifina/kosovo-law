@@ -1,0 +1,7 @@
+# Article 46
+1. Article 131, paragraphs 1, 2, 3 and 4 of the basic Law shall be reworded with the following text:
+1. With a fine in the amount of one thousand (1.000) to two thousand (2.000) euro for each foreigner transported, shall be punished by the Police the carrier of a foreigner who does not have a valid passport or other document which is used for border crossing, a valid visa or a residence permit (Article 35, paragraph 2 of this Law).
+2. With a fine in the amount of one thousand (1.000) to two thousand (2.000) euro for each foreigner carried, shall be punished by Police the carrier as a natural person who at his/her own expense has not delivered (removed) a foreigner to the border crossing point or from the Republic Kosovo or has not taken over the expenses for the return of the foreigner (Article 35, paragraph 3, 4 and 5 of this Law).
+3. With a fine in the amount of one thousand (1.000) to two thousand (2.000) euro for each foreigner assisted shall be punished by Police a natural person who assists a foreigner illegally to cross the border, transit and illegal residence in the Republic of Kosovo (Article 36 of this Law).
+4. With a fine in the amount of five thousand (5,000) euro shall be punished by Police a legal entity in the case of paragraph 2 and 3 of this Article, with a fine in the amount of two thousand (2,000) euro the responsible person at the legal entity, for each foreigner carried or assisted.
+LAW No. 06/L –036 ON AMENDING AND SUPPLEMENTING THE LAW No.04/L-219 ON FOREIGNERS
