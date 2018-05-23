@@ -1,0 +1,5 @@
+# Article 14
+Industrial Metrology–Calibration of measurement standards and measuring instruments 1. Calibration of measurement standards and measuring instruments shall be carried out in the calibration laboratories, upon the request of the user 2. Traceability of the measurement standards and measuring instruments shall be ensured through the calibration or with certified reference materials.
+3. Measurement standards with documented traceability in compliance with Article 12 of this Law shall be used to ensure the metrological traceability. Traceability of measurement results for a measurement standard shall be confirmed through the calibration certificate.
+4. Depending on the applicable requirements and its usage, measuring instruments that are subject of legal metrological control may be calibrated. Except special cases provided for in applicable bylaws on metrology, calibration of measuring instruments is a decision that exclusively belongs to the user of the measuring instrument.
+5. The Kosovo national calibration laboratories services infrastructure shall be organized according to the provisions of the relevant Law on Accreditation

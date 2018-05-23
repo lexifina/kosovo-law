@@ -1,0 +1,6 @@
+# Article 17
+Type approval for legally controlled measuring instruments 1. Conformity assessment procedures for measuring instruments that are subject to the Regulation for Measuring Instruments and Non-Automatic Weighing Instruments shall be carried out in accordance with these Regulations.
+2. For measuring instruments not included in the Regulation for Measuring Instruments and Non-Automatic Weighing Instruments, General Director of KMA shall approve the type of the measuring instruments, following the recommendation of responsible officers of the KMA, when this measuring instrument meets the technical and metrological requirements.
+3. Director shall take a decision for refusal or withdrawal from the market of measuring instruments, following the recommendation of responsible officers of the Agency, when this measuring instrument does not meet required technical and metrological requirements, determined for a testing procedure.
+4. An appeal may be filed against the decision for refusal or withdrawal of measuring instruments to the professional commission for appeals, which shall be established with a decision of the Minister of the Ministry of Trade and Industry.
+5. A bylaw shall determine the procedures for approval of the type of legally controlled measuring instruments.

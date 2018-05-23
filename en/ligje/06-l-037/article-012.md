@@ -1,0 +1,8 @@
+# Article 12
+Traceability of measuring results 1. To implement the law and bylaws that determine the requirements for measurement, measuring instruments, non-automatic weighing instruments, pre-packages, including MCB, it is required the traceability for realization of SI and that may be obtained:
+1.1. through state measurement standards and certified reference materials, defined in Articles 10 and 11 of this Law.
+1.2. through traceability for recognized the national measurement standards or certified reference materials of other states where the level of uncertainty of state measuring etalons system is not sufficient or when the system does not cover the considered size.
+2. In order to confirm whether foreign measurement standards and national measurement standards meet the necessary requirements for traceability of measuring results, should be proved that the ILAC Traceability Policy and dissemination of the SI are applied. A reference should be made to CIPM MRA and laboratories accredited by national accreditation bodies which are signatories of ILAC MRA or Regional Agreements recognized by ILAC.
+3. Certified calibration results, testing results and measurement results determined by KMA and entities which maintain and use national measurement standards in Kosovo, shall be traceable for realization of SI and shall be presented in compliance with recommendations of CGPM and OIML, as well as with relevant applicable national and international measurement standards.
+4. Technical ability of KMA laboratories shall be determined with accreditation.
+5. Metrological requirements of traceability shall be regulated by a bylaw issued by the Ministry.

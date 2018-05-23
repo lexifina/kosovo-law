@@ -1,0 +1,2 @@
+# Neni 2
+Fushëveprimi Dispozitat e këtij ligji do të zbatohen në organizimin e aktiviteteve metrologjike, përdorimin e njësive matëse ligjore dhe gjurmueshmërinë e etalonëve të matjes në Republikën e Kosovës, vendosjes në treg dhe përdorimin e mjeteve matëse ligjore, vlerësimin e konformitetit të mjeteve matëse ligjore me kërkesat e përshkruara, produkteve të para-paketuara, vlefshmërinë e dokumenteve dhe shenjave të huaja të konformitetit, mbikëqyrjen metrologjike, si dhe çështje të tjera të lidhura me metrologjinë.

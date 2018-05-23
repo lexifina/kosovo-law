@@ -1,0 +1,2 @@
+# Neni 4
+Vënia në dispozicion e rezultateve të matjes për publikun Rezultatet e matjeve, të kryera me kërkesë të autoriteteve shtetërore ose që i shërbejnë nevojave të autoriteteve shtetërore dhe që kanë lidhje me transaksionet zyrtare, kujdesin shëndetësor, mbrojtjen e mjedisit, rendin publik, sigurinë dhe mbrojtjen e konsumatorit, duhet të vihen në dispozicion të publikut, në përputhje me legjislacionin ne fuqi.

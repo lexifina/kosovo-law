@@ -1,0 +1,2 @@
+# Article 2
+Scope The provisions of this Law shall apply to the organization of metrological activities, usage of legal measurement units and traceability of measurement standards in the Republic of Kosovo, placing on the market and usage of the legal measuring instruments, assessment of conformity of legal measuring instruments with the described requirements, pre-packaged products, validity of foreign conformity documents and marks, as well as other metrology-related issues.

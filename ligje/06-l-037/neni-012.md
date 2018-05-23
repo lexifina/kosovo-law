@@ -1,0 +1,8 @@
+# Neni 12
+Gjurmueshmëria e rezultateve të matjes 1. Për zbatimin e ligjit dhe akteve nënligjore që i përcaktojnë kërkesat për matjet, për mjetet matëse, për peshoret jo-automatike, për para-paketimet duke përfshirë SHEM, kërkohet gjurmueshmëria për realizimin e SI-së dhe ajo mund të merret:
+1.1. përmes sistemit të etalonëve shtetëror të matjes dhe materialeve referente të certifikuara të përcaktuara në Nenet 10 dhe 11 të këtij Ligji.
+1.2. përmes gjurmueshmërisë për etalonët e njohur shtetëror të matjes ose materialet referente të certifikuara të shteteve tjera kur shkalla e pasigurisë së sistemit të etalonëve shtetëror të matjes nuk është e mjaftueshme ose kur sistemi nuk e mbulon madhësinë e konsideruar.
+2. Për të konfirmuar nëse etalonët e huaja të matjeve dhe etalonët shtetëror të matjes plotësojnë kërkesat e nevojshme për gjurmueshmërinë e rezultateve matëse, duhet të vërtetohet se politika e ILAC-ut për gjurmueshmërinë dhe shpërndarja e SI-së është zbatuar. Referenca duhet të bëhet në CIPM MRA dhe laboratorë të akredituar nga organet kombëtare të akreditimit të cilat janë nënshkruese të ILAC MRA ose Marrëveshjet rajonale të njohura nga ILAC.
+3. Rezultatet e certifikuara të kalibrimit, rezultatet e testimit dhe rezultatet e matjes të përcaktuara nga AMK dhe subjektet që mirëmbajnë dhe përdorin etalonët shtetëror të matjes në Kosovë, do të jenë të gjurmueshme për realizimin e SI-së dhe paraqiten në përputhshmëri me rekomandimet e CGPM-së dhe OIML-së, si dhe me etalonë relevant të aplikueshëm shtetëror dhe ndërkombëtar.
+4. Aftësia teknike e laboratorëve të AMK-së përcaktohet me akreditim.
+5. Kërkesat metrologjike të gjurmueshmërisë rregullohen me akt nën-ligjor të nxjerra nga Ministria.

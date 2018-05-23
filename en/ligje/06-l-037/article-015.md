@@ -1,0 +1,9 @@
+# Article 15
+Conformity assessment of measuring instruments 1. Measuring instruments used for reasons of public interest, public health, security and order, consumer protection and environmental protection, collection of taxes and liabilities, fair trade, which directly or indirectly impact the daily life of citizens, shall be subject to the legal metrological control in compliance with the provisions of this Law.
+2. Activities of the legal entities related to measuring instruments determined in paragraph 1. of this Article shall be subject of legal metrological control according to the designation and supervision based on this Law.
+3. Conformity assessment procedures applicable for measuring instruments mentioned in paragraph 1. of this Article shall be determined through relevant bylaws, as follows:
+3.1. during the phase of designing the type of measuring instrument,
+LAW No. 06/L-037 ON METROLOGY 3.2. during the phase of production of measuring instruments, including non-automatic weighing instruments, pre-packages and MCB, prior placing them on the market, 3.3. during the phase of installation and placing the measuring instrument in use, 3.4. during the phase of repairing the measuring instrument, before placing again on the market, and 3.5. during the duration of using the measuring instrument.
+4. KMA may decide to recognize international or foreign certification systems when they provide equivalent reliability.
+5. KMA shall keep a register of conformity assessment certificates issued in compliance with the paragraph 4. of this Article.
+6. Bodies responsible for carrying out conformity assessment may receive and use during their work the results of international or foreign systems of conformity assessment, provided that the degree of reliability is recognized as equivalent with state procedures of Kosovo.
