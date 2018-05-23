@@ -1,0 +1,4 @@
+# Neni 19
+Kontrollimi dhe marrja e mostrave të mallrave lirimi i të cilave është pezulluar apo ndaluar 1. Dogana e Kosovës i siguron bartësit të vendimit dhe deklaruesit apo bartësit të mallrave mundësinë për të kontrolluar mallrat, lirimi i të cilave është pezulluar apo ndaluar.
+2. Dogana e Kosovës mund të marr mostra të cilat përfaqësojnë mallrat. Me kërkesën e bartësit të vendimit, Dogana e Kosovës mund t’ia ofrojë dhe dorëzojë mostrat bartësit të vendimit vetëm për qëllim të analizave dhe lehtësimit të procedurave në lidhje me mallrat e falsifikuara apo pirate. Çdo analizë e këtyre mostrave kryhet vetëm nën përgjegjësinë dhe me shpenzimet e bartësit të vendimit.
+3. Pas përfundimit të analizave, bartësi i vendimit i kthen Doganës së Kosovës mostrat e marra sipas paragrafit 2 të këtij neni, përveç nëse rrethanat nuk e lejojnë ndryshe. Mostrat duhet të kthehen para lirimit të mallrave apo para përfundimit të ndalimit të tyre.

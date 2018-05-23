@@ -1,0 +1,16 @@
+# Neni 26
+Procedura për shkatërrimin e mallrave në dërgesa të vogla 1.Mallrat në dërgesa të vogla mund të shkatërrohen nëse përmbushin të gjitha kushtet e mëposhtme: 1.1.dyshohet se mallrat janë të falsifikuara apo pirate;
+1.2. janë mallra që nuk prishen lehtë;
+1.3. mallrat mbulohen me vendimin e aprovuar të aplikimit;
+1.4. bartësi i vendimit ka kërkuar në aplikim përdorimin e procedurës së përcaktuar në këtë nen; dhe
+LIGJI Nr. 06/L -015 MBI MASAT DOGANORE PËR MBROJTJEN E TË DREJTAVE TË PRONËSISË INTELEKTUALE 1.5. mallrat janë transportuar në dërgesa të vogla.
+2. Kur zbatohet procedura e përcaktuar në këtë nen, paragrafët 3, 4, 5 dhe 6 të nenit 17, si dhe paragrafët 2 dhe 3 të nenit 19 të këtij Ligji nuk zbatohen.
+3. Dogana e Kosovës njofton deklaruesin apo mbajtësin e mallrave për pezullimin e lirimit të mallrave apo ndalimin e tyre brenda një (1) dite pune nga data e pezullimit të lirimit apo ndalimit të mallrave. Në njoftimin e pezullimit të lirimit apo ndalimit të mallrave përfshihen:
+3.1. njoftimin se Dogana e Kosovës ka për qëllim të shkatërrojë mallrat; dhe 3.2. të drejtat e deklaruesit apo bartësit të mallrave sipas paragrafëve 4, 5 dhe 6 të këtij neni.
+4. Deklaruesit apo mbajtësit të mallrave i ofrohet mundësia për të shprehur mendimin e tij brenda dhjetë (10) ditëve pune pas njoftimit për pezullimin të lirimit apo ndalimit të mallrave.
+5. Mallrat mund të shkatërrohen kur brenda dhjetë (10) ditëve pune nga data e njoftimit të pezullimit të lirimit të mallrave apo ndalimit të tyre, deklaruesi apo mbajtësi i mallrave ka dhënë pëlqimin e tij për shkatërrimin e mallrave, pranë Doganës së Kosovës.
+6. Kur deklaruesi apo mbajtësi i mallrave nuk ka dhënë pëlqimin e tij për shkatërrimin e mallrave dhe nuk ka njoftuar kundërshtimin e tij pranë Doganës së Kosovës, brenda afatit të parapare në paragrafin 5 të këtij neni, Dogana e Kosovës mund të vlerësojnë se deklaruesi apo mbajtësi i mallrave ka dhënë pëlqimin e tij për shkatërrimin e mallrave.
+7. Shkatërrimi kryhet nën mbikëqyrje doganore. Dogana e Kosovës, sipas kërkesës dhe kur është e mundur, i vë në dispozicion bartësit të vendimit informata për sasinë reale apo të vlerësuar të mallrave të shkatërruara dhe natyrën e tyre.
+8. Kur deklaruesi apo mbajtësi i mallrave nuk ka dhënë me shkrim pëlqimin e tij dhe kur nuk vlerësohet se ka dhënë pëlqimin e tij për shkatërrimin e mallrave në përputhje me paragrafin 6 të këtij neni, Dogana e Kosovës njofton menjëherë bartësin e vendimit për këtë dhe për sasinë dhe natyrën e mallrave. Dogana e Kosovës, sipas kërkesës, e njofton bartësin e vendimit me emrat dhe adresën e pranuesit të mallit, të dërguesit dhe deklaruesit apo mbajtësit të mallrave, procedurën doganore dhe origjinën, prejardhjen dhe destinacionin e mallrave, lirimi i të cilave është pezulluar apo ndaluar.
+9. Dogana e Kosovës liron mallrat apo përfundon ndalimin e tyre menjëherë pas përfundimit të të gjitha procedurave doganore, kur nuk kanë marrë informata nga bartësi i vendimit për fillimin e procedurës gjyqësore, nëpërmjet paraqitjes së një kopje të padisë dorëzuar në gjykatën kompetente për të vlerësuar nëse është shkelur e drejta e pronësisë intelektuale, brenda dhjetë (10) ditëve pune nga data e njoftimit të paraparë në paragrafin 8 të këtij neni.
+LIGJI Nr. 06/L -015 MBI MASAT DOGANORE PËR MBROJTJEN E TË DREJTAVE TË PRONËSISË INTELEKTUALE

@@ -1,3 +1,0 @@
-# Neni 20
-1. Për kundërvajtje gjoba në shumë prej 2.000 deri 5.000 Euro do të caktohet kundër personit juridik që vepron në kundërshtim me nenin 15 të këtij Ligji, për paraqitje, lirim për qarkullim të lirë, dalje, eksportim, vendosje nën procedurë të anulimit ose hyrje në zonë të lirë ose depo të lirë të mallrave për të cilat, në procedurën e mëparshme të kompletuar në pajtim me nenin 8 të këtij Ligji, është përcaktuar së shkakton shkelje të së drejtës së pronësisë intelektuale.
-2. Për kundërvajtje gjoba në shumë prej 200 deri 400 Euro, do të caktohet kundër personit fizik për veprimet e përcaktuara në paragrafin 1 të këtij neni.

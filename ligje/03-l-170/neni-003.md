@@ -1,6 +1,0 @@
-# Neni 3
-Kërkesa për veprim nga Dogana Masat paraprake për kërkesën për veprim nga Dogana (procedura sipas detyrës zyrtare)
-1. Dogana, në kursin e veprimit në një nga situatat që i referohen paragrafit 1 të nenit 1, të këtij Ligji dhe para se kërkesa është parashtruar nga bartësi i së drejtës, kanë baza të mjaftueshme për të dyshuar se mallrat shkelin të drejtën e pronësisë intelektuale, atëherë mund të anulojë lirimin e mallrave ose t’i ndalojnë ato.
-2. Dogana njofton bartësin e së drejtës për masat që i referohen paragrafit 1 të këtij neni në mënyrë që ti mundësojë bartësit të së drejtës të dorëzoj një kërkesë për veprimin në pajtim me nenin 4 të këtij Ligji. Deklaruesi ose pronari i mallrave, do të njoftohen po ashtu.
-3. Dogana mund po ashtu, pa publikuar asnjë të dhënë përveç sasisë aktuale apo të supozuar të mallrave dhe natyrës e tyre dhe para se të informohet bartësi i së drejtës për ndonjë shkelje të mundshme, të pyes bartësin e së drejtës që t’i pajis me çfarëdo të dhënë që do të ju nevojitet për të konfirmuar dyshimet e tyre.
-4. Brenda tre (3) ditëve të punës pas njoftimit, nëse bartësi i së drejtës nuk parashtron kërkesën për veprimin në pajtim me nenin 4 të këtij Ligji, lejohet lirimi i mallrave apo ndërpritet periudha e ndalesës, me kusht që të gjitha procedurat Doganore janë plotësuar.

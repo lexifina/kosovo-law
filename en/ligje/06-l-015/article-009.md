@@ -1,0 +1,3 @@
+# Article 9
+Notification regarding the decision 1. The Kosovo Customs shall notify the applicant of its decision granting or rejecting the application within thirty (30) working days of the receipt of the application. In the event of rejection, the Kosovo Customs shall notify the applicant on the reasons for rejection and shall inform him over the appeal procedure.
+2. If the applicant is notified on the suspension of the release or detention of the goods by the Kosovo Customs prior to submitting the application, the Kosovo Customs shall notify the applicant of its decision granting or rejecting the application within two (2) working days of the receipt of the application.

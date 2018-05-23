@@ -1,6 +1,0 @@
-# Article 21
-Final Provisions and Exceptions
-1. This law shall not apply to:
-1.1.the goods bearing a trademark with the consent of the holder of the trademark or to goods bearing a protected designation of origin or protected geographic indication or which are protected by a patent, supplementary protection certificate, national plant variety right, by the copyright or related right or by an industrial design right, determining the rights and protection of integrated circuit topography rights and which have been manufactured with the consent of the right holder, if they are placed in one of situations referred to the paragraph 1 of Article 1, of this Law without the consent of the right holder according to the license.
-1.2. Goods referred to in paragraph 1 of this Article which have been manufactured under conditions other than those agreed with the right holder.
-1.3. Goods part of the personal luggage of a traveler, items of non-commercial nature of a minimal value entered together with items from personal luggage of a traveler and items of non-commercial nature of a minimal value received from abroad on occasional basis and relieved from import duties payment in accordance with the provisions of the Customs and Excise Code, provided that there are no reasonable grounds to suspect that the goods are part of the commercial traffic.

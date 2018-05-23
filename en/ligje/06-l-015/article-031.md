@@ -1,0 +1,8 @@
+# Article 31
+Protection of data 1. The processing of personal data by the Kosovo Customs shall be carried out in accordance to provisions of the legislation in force for protection of data in the Republic of Kosovo.
+2. Personal data shall be collected and used solely for the purposes of this Law and those data shall be accurate and updated.
+3. The Kosovo Customs shall introduce the personal data into the database and shall control their processing.
+4. A data subject shall have a right to access his personal data that are processed through the database. If necessary, the data subject has the right to rectify, erase or block the personal data, in accordance with the legislation in force for protection of personal data.
+5. Requests to exercise the right of access, rectification or blocking of the data shall be submitted to the Kosovo Customs General Directorate, which is the competent body for reviewing them.
+6. Personal data shall not be kept longer than six (6) months from the date the relevant decision granting the application has been revoked or the relevant period, during which Kosovo Customs are to take actions to protect an intellectual property right, has expired.
+LAW No. 06/L-015 ON CUSTOMS MEASURES FOR PROTECTION OF INTELLECTUAL PROPERTY RIGHTS 7. Where the holder of decision initiated a court proceeding, as referred to in paragraph 5. of Article 23 and paragraph 9. of Article 26 of this Law and has notified the Kosovo Customs of the initiation of such proceedings, personal data shall be kept for six (6) months after a final court decision which determines whether an intellectual property right has been infringed, is rendered.

@@ -1,3 +1,0 @@
-# Article 11
-1. If, within ten (10) working days of receipt of the notification of suspension, of release or of detention, the Customs has not received the written statement by the right-holder according to the Articles 12 and 13 of this Law, or has not received the right holder’s agreement defined for in paragraph 1 of Article 9, of this Law, the Customs shall release the goods provided that all Customs formalities are completed. This period may be extended for a further ten (10) working days in appropriate cases.
-2. In the case of perishable goods suspected of infringing an intellectual property right, the period referred to in paragraph 1 of this Article shall be three (3) working days and it may not be extended.

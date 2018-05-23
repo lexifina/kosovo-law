@@ -1,0 +1,5 @@
+# Article 19
+Inspection and sampling of goods whose release has been suspended or which have been detained 1. The Kosovo Customs shall give the holder of the decision and the declarant or the holder of the goods the opportunity to inspect the goods whose release has been suspended or which have been detained.
+2. The Kosovo Customs may take samples that are representative of the goods. They may provide and send samples to the holder of the decision, at the holder’s request and strictly for the purposes of analysis and to facilitate the subsequent procedure in relation to counterfeit or pirated goods. Any analysis of those samples shall be carried out under the sole responsibility and at the expense of the holder of the decision.
+3. The holder of the decision shall, unless circumstances do not allow, return the samples referred to in paragraph 2. of this Article on completion of the analysis. The samples shall be returned before the release of the goods or before their detention is ended.
+LAW No. 06/L-015 ON CUSTOMS MEASURES FOR PROTECTION OF INTELLECTUAL PROPERTY RIGHTS

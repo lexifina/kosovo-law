@@ -1,0 +1,3 @@
+# Article 7
+Incomplete applications 1. Where the Kosovo Customs considers that the application does not contain all the information required by Article 6 of this Law, the Kosovo Customs shall request from the applicant that within ten (10) working days after receiving the notification to supply the missing information. In such cases, the time-limit referred to in paragraph 1. of Article 9 of this Law, shall be suspended until the relevant information is received.
+2. In case the applicant fails to supply the missing information within the deadline determined in paragraph 1. of this Article, the Kosovo Customs shall reject the application.

@@ -1,3 +1,0 @@
-# Neni 11
-1. Nëse, brenda dhjetë (10) ditëve të punës pas njoftimit për pezullimin, lirimin apo ndaljes, Dogana nuk ka pranuar deklaratën me shkrim nga bartësi i së drejtës sipas nenit 12 dhe 13 të këtij Ligji, apo nëse nuk ka pranuar marrëveshjen e bartësit të së drejtës të përcaktuar në paragrafin 1 të nenit 9 të këtij Ligji, Dogana do të liroj mallrat me kusht që të gjitha procedurat doganore të jenë përmbushur. Kjo periudhë mund të zgjatet në maksimum dhjetë (10) ditë tjera pune, në rastet e caktuara.
-2. Në rast së mallrat, që janë të natyrës që prishen shpejt, dyshohen se shkelin të drejtën e pronësisë intelektuale, periudha e referuar në paragrafin 1 të këtij neni do të jetë tre (3) ditë pune dhe nuk mund të vazhdohet.
