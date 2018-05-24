@@ -1,0 +1,4 @@
+# Neni 77
+Përgjegjësia për Veprimet e Themeluesve Para Regjistrimit 1. Nëse një ose më shumë themelues dhe/ose persona të tjerë kryejnë veprim në emër të Shoqërisë me Përgjegjësi të Kufizuar para regjistrimit të saj, duke përfshirë, por pa u kufizuar në hapjen e xhirollogarive bankare, blerjen apo dhënien me qira të pronës, apo lidhjen e kontratave apo krijimin e detyrimeve të tjera, personat që ndërmarrin veprimet e tilla janë personalisht dhe bashkërisht përgjegjës për kërkesat dhe detyrimet që lindin si rezultat i këtyre veprimeve, përveç nëse është arritur marrëveshje tjetër me palët e treta.
+2. Pas regjistrimit në ARBK, Shoqëria me Përgjegjësi të Kufizuar mund të marrë përsipër përgjegjësinë për këto kërkesa dhe detyrime. Në raste të këtilla, Shoqëria me Përgjegjësi të Kufizuar është e vetmja palë përgjegjëse për kërkesat dhe detyrimet.
+LIGJI Nr. 06/L -016 PËR SHOQËRITË TREGTARE

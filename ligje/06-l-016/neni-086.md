@@ -1,0 +1,2 @@
+# Neni 86
+Përgjegjësia për Kontributet e Dakorduara Aksionari është i detyruar që Shoqërisë me Përgjegjësi të Kufizuar t’ia paguajë të gjitha kontributet me afat, sipas Statutit apo Marrëveshjes së Inkorporimit të Shoqërisë me Përgjegjësi të Kufizuar apo sipas ndonjë marrëveshje tjetër të Aksionarëve. Ky detyrim nuk mund të arsyetohet për shkak të vdekjes, paaftësimit, ose paaftësisë tjetër për pagim të Aksionarit.

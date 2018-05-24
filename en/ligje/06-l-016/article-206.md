@@ -1,0 +1,8 @@
+## CHAPTER XII
+## CONTROL OF A JOINT STOCK COMPANY’S STOCK
+# Article 206
+Acquisition of a Control Block 1. As used in this Article, “affiliated persons” of a person means:
+1.1. other persons in which the person owns more than fifty percent (50%) of the voting power or otherwise exercises a controlling influence over them;
+1.2. family members of the person; or 1.3. persons who act in concert with the person to acquire stock or exercise influence over a Joint Stock Company under an arrangement or understanding with each other and the person.
+2. A person who intends, alone or together with his affiliated persons to acquire, taking into account the number of shares belonging to him and his affiliated persons, more than fifty percent (50%) of the common shares ( hereinafter: a control block of shares) of a Joint Stock Company with more than hundred (100) holders of common shares, must, no later than thirty (30) days prior to the date of acquiring one third (1/3) of shares, send a written notice to the Joint Stock Company about his intent to acquire a control block of such shares.
+3. A Joint Stock Company, a control block of shares of which is being acquired, does not have the right to take actions that impede this acquisition of the control block, except when such actions are taken by decision of a shareholders assembly, adopted by majority vote of the holders of common shares taking part in the meeting, excluding votes on shares held by shareholders who intend to acquire the control block of shares, and excluding votes on shares held by affiliated persons of the persons who intend to acquire the control of block of shares.

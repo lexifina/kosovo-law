@@ -1,4 +1,0 @@
-# Neni 88
-Arkiva duhet të jetë në dispozicion për të gjithë Pronarët
-88.1 Çdo shoqëri duhet të vej në dispozicion këtë arkivë për inspektim dhe kopjim gjatë orarit të rregullt të punës, për çdo pronar dhe çdo ish-pronar për periudhën kur ai ka qenë pronar.
-88.2 Nëse një shoqëri refuzon ta lejojë një pronar ose një ish-pronar ta merr ose ta inspektojë një informatë të këtillë ose nëse nuk i përgjigjet një kërkese me shkrim për shqyrtimin e të dhënave në fjalë brenda pesë (5) ditëve nga dorëzimi i kësaj kërkese, pronari ose ish-pronari i cili ka paraqitur kërkesën mund ti drejtohet gjykatës për ta urdhëruar shoqërinë që të lejojë qasjen në informatat përkatëse. Gjykata është e autorizuar që të përcaktojë se nëse pala kërkuese ka te drejtë në marrjen e informatave si dhe ta detyrojë shoqërinë për ta siguruar këtë informatë.

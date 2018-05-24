@@ -1,0 +1,3 @@
+# Article 72
+Withdrawal of a Limited Partner 1. Unless the Limited Partnership Agreement provides otherwise, a Limited Partner may withdraw from a Limited Partnership after submitting a written notice to all General Partners within a period of no less than (90) ninety days before the time of withdrawal. The right of the Limited Partner to a distribution of dividends after withdrawal is the same as the right of a General Partner of the General Partnership as provided in Article 62 of this Law.
+2. Withdrawal of a Limited Partner does not require the dissolution of the Limited Partnership, unless the withdrawal results in the Limited Partnership having no Limited Partners.

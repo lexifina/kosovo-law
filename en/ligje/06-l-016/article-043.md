@@ -1,0 +1,3 @@
+# Article 43
+Amendments and Supplementation to the Data on Publicly Owned Enterprises, Socially Owned Enterprises and Other Forms of Organization Established Pursuant to Special Laws 1. The procedures and the content of the documents required to amend the registered data of Publicly Owned Enterprises and Socially Owned Enterprises are the same as the procedures and the content specified in Article 40 and 41 of this Law.
+2. The procedures and the content of the documents required to amend the registered data for other forms of organization established pursuant to special laws, shall be specified by the special laws or by the sublegal acts approved according to those special laws.

@@ -1,0 +1,2 @@
+# Neni 200
+Regjistrimi dhe Hyrja në Fuqi e një Ndryshimi dhe Plotësimi Pas miratimit të një ndryshimi ose plotësimi në statutin e Shoqërisë Aksionare, Shoqëria Aksionare duhet të i’a dorëzojë ndryshimin ose plotësimin si dhe Statutin me ndryshime dhe plotësime të inkorporuara në ARBK sipas Pjesës së Dytë të këtij ligji. Ndryshimi ose plotësimi hyn në fuqi menjëherë pas publikimit nga ARBK sipas Pjesës së Dytë të këtij ligji.

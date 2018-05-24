@@ -1,4 +1,0 @@
-# Article 58
-Authority of a General Partner to Act for the Partnership
-58.1 Any act of a general partner that is apparently done for the purpose of carrying on the normal and customary business activities of the general partnership is binding on the general partnership and the other general partners. However, this rule shall not apply if (i) the concerned general partner had no authority to act for the general partnership in the particular matter and (ii) the person or organization with whom the partner was dealing knew that the partner lacked such authority.
-58.2 Any act of a general partner that is not apparently done for the purpose of carrying on the normal and customary business activities of the general partnership is not binding on the general partnership or the other general partners unless the concerned act was specifically authorized by the other general partners.

@@ -1,0 +1,4 @@
+# Article 90
+Personal Liability for Prohibited Distribution of Dividends 1. A Shareholder who receives a prohibited Distribution of dividends specified in paragraph 1. of Article 89 and who knew or should have known at the time that such distribution was prohibited by Article 89 of this Law, is personally liable to the Limited Liability Company for the return of the amount of the Distribution.
+2. A Shareholder, manager or other person who makes a prohibited Distribution of dividends, and who knew at the time that the Distribution was prohibited by Article 89 of this Law, is also personally liable to the Limited Liability Company for the return of the amount of all such Distributions.
+3. If more than one Shareholder and/or person are liable for the return of a Distribution under paragraph 1. and/or 2. of this Article, their liability shall be joint and several.

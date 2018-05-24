@@ -1,0 +1,6 @@
+# Article 126
+Restrictions on a Joint Stock Company’s Ability to Subscribe to or Deal with its Own Shares 1. Unless it is expressly permitted by a provision of this Law, a Joint Stock Company cannot subscribe to or acquire its own issued or un-issued Shares.
+LAW No. 06/L-016 ON BUSINESS ORGANIZATIONS 2. If any natural or legal person and/or Business Organization subscribes for or acquires the Shares of a Joint Stock Company on behalf of that Joint Stock Company:
+2.1. the interest of the Joint Stock Company in that transaction and the concerned Shares is as a matter of Law, null and void;
+2.2. the Joint Stock Company shall have no liability to pay for such Shares and shall have the right for immediate return of all moneys or assets which have been provided as payment for the Shares; and 2.3. the natural or legal person and/or Business Organization subscribing or acquiring the Shares is considered, as a matter of Law, to have subscribed for or acquired the Shares on their own behalf, and this person or organization is liable for paying for those Shares.
+3. The founders or in the case of an increase of the subscribed capital, the directors, shall also be personally liable to pay for the Shares subscribed or acquired in violation of this Article, unless they prove that no fault is attributable to them personally.

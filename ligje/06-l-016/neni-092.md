@@ -1,0 +1,4 @@
+# Neni 92
+Bartja e Aksioneve 1. Përveç nëse është përcaktuar ndryshe në Statutin e Shoqërisë me Përgjegjësi të Kufizuar, çdo Aksionar mund të bëjë bartjen e aksionit të tij, plotësisht ose pjesërisht përmes shitjes, pengut, dhurimit, trashëgimisë ose ndonjë forme tjetër të bartjes; me kusht që, ky paragraf të mos interpretohet ose zbatohet në një mënyrë që ka për qëllim pengimin e veprimit të një ligji i cili rregullon transaksionet e letrave me vlerë.
+LIGJI Nr. 06/L -016 PËR SHOQËRITË TREGTARE 2. Statuti i Shoqërisë me Përgjegjësi të Kufizuar mund të vendosë kufizime për bartjen aksioneve, duke përfshirë, por pa u kufizuar, në kufizimet e përcaktuara në nenet 93 dhe 94 të këtij ligji.
+3. Të drejtat dhe detyrimet e pranuesit të një Aksioni rregullohen sipas neneve 95 dhe 96 të këtij ligji.

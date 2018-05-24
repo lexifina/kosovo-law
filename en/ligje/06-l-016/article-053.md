@@ -1,0 +1,9 @@
+# Article 53
+Principle of Liability 1. General Partners are jointly and severally liable for all debts and other obligations incurred by or imposed by Law or contract on the General Partnership. This liability is unlimited and shall extend to all property and assets of any type directly or indirectly owned by a General Partner, except for the property and assets specified in the applicable legislation on enforcement procedure, and when:
+1.1. a contract which has created the liability expressly excludes properties or assets from liability;
+1.2. the Person or Business Organization who has claims has agreed that such assets or property are not subject to such claims.
+2. A natural or Legal Person and/or Business Organization, including a Business Organization, which is admitted as a General Partner into an existing General Partnership assumes joint and several liability for all debts and obligations of the General Partnership, including pre-existing obligations, to the same extent as all the existing General Partners.
+3. If an agreement among the General Partners contains any provisions which are contrary to paragraph 1. and 2. of this Article, such provisions shall not affect the rights of a third party unless the third party specifically agrees otherwise. In any case, the Agreement of the General Partnership and such provisions shall be effective and apply to all the General Partners.
+4. Property or assets shall be considered to be indirectly owned by a General Partner if:
+4.1. the General Partner can control the use or disposition of such property or assets, and 4.2. there is sufficient reason to conclude that another person or organization has been formally named as the principal owner for the purpose of protecting such property or assets from exposure to the liability of the General Partner.
+LAW No. 06/L-016 ON BUSINESS ORGANIZATIONS

@@ -1,0 +1,2 @@
+# Neni 163
+Numri i Drejtorëve Numri i anëtareve në Bordin e Drejtorëve të Shoqërisë Aksionare duhet të përcaktohet në statutin e Shoqërisë Aksionare. Për një Shoqëri Aksionare me më pak se dhjetë (10) aksionarë, Bordi i Drejtorëve duhet të ketë një (1) ose më shumë anëtarë. Për një Shoqëri Aksionare me dhjetë (10) ose më shumë aksionarë Bordi i Drejtorëve duhet të ketë jo më pak se tre (3) anëtarë.

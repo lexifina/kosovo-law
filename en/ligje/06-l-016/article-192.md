@@ -1,0 +1,3 @@
+# Article 192
+Voting Rights of a Share 1. Except as provided in the charter or the present law, each outstanding share of common stock or preferred stock of any class shall be entitled to one vote on each matter voted on at an assembly.
+LAW No. 06/L-016 ON BUSINESS ORGANIZATIONS 2. Shares may not be voted at an assembly if the shares are owned, directly or indirectly, by the Joint Stock Company or any legal person and/or Business Organization in which the Joint Stock Company has, directly or indirectly, a share or an ownership interest, entitling the Joint Stock Company to control voting from the shares of such Business Organization.

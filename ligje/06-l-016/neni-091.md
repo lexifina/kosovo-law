@@ -1,0 +1,7 @@
+## KAPITULLI VI
+## BASHKË-PRONËSIA DHE BARTJA E AKSIONEVE
+# Neni 91
+Bashkë-Pronësia e një Aksioni 1. Një aksion mund të jetë në pronësi të më shumë se një aksionari.
+2. Përveç nëse është përcaktuar ndryshe në Statutin e Shoqërisë me Përgjegjësi të Kufizuar, të gjithë bashkë-pronarët e një aksioni i ushtrojë të drejtat e tyre të votimit dhe të drejtat e tjera në Shoqërinë me Përgjegjësi të Kufizuar përmes një përfaqësuesi të vetëm të përbashkët, mirëpo ata janë përgjegjës bashkërisht dhe individualisht për të gjitha detyrimet që rrjedhin nga Aksioni.
+3. Kur aksioni është në pronësi të më shumë se një personi, secili bashkë-pronar duhet t’i dorëzojë Shoqërisë me Përgjegjësi të Kufizuar emrin dhe adresën e tij, për ruajtje në arkivën e Shoqërisë me Përgjegjësi të Kufizuar.
+4. Kur bashkë-pronarët kanë ose duhet ta kenë një përfaqësues të përbashkët, të gjithë bashkë-pronarët duhet të nënshkruajnë një deklaratë me shkrim për “caktimin e përfaqësuesit të përbashkët” dhe të i’a dorëzojnë atë Shoqërisë me Përgjegjësi të Kufizuar, e cila duhet ta ruajë deklaratën në adresën e regjistruar siç është përcaktuar në nenin 83 të këtij ligji. Të gjitha njoftimet që i dërgohen përfaqësuesit nga ana e Shoqërisë me Përgjegjësi të Kufizuar konsiderohet se u janë dërguar të gjithë bashkë-pronarëve. Nëse bashkë-pronarët nuk e nënshkruajnë deklaratën e paraparë në këtë nen, njoftimi që i dërgohet një bashkë-pronari konsiderohet se u është dërguar të gjithë bashkë-pronarëve.

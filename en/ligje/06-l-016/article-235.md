@@ -1,0 +1,2 @@
+# Article 235
+Compensation upon cross-border merger If the acquiring Corporation falls under the jurisdiction of a foreign state, the shareholder of a Corporation being acquired entered in the registry of Kosovo who does not agree to the merger resolution has the right, pursuant to the procedure, to transfer the shares thereof or to demand that the acquiring Corporation acquire the exchanged share or shares of the shareholder for monetary compensation.

@@ -1,3 +1,0 @@
-# Article 168
-Compensation of Directors
-A company may pay compensation to directors and reimburse directors for their reasonable expenses in serving the company as its directors. A decision to provide such compensation or reimbursement and approval of the amount and main conditions thereof may only be made by the shareholders or by an external committee to which shareholders delegate such power. This shall be done for each renewal or change of the directors’ terms. If it has delegated such decision, then the decision shall be disclosed to the shareholders at the next-following shareholder meeting.

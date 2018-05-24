@@ -1,0 +1,12 @@
+# Article 162
+Authority and Competence of the Board of Directors 1. The competence of a board of directors shall include making decisions on all matters except decisions which are reserved for the shareholders by law or by the Joint Stock Company’s charter. Subject to such reservations, the following matters are included within the exclusive competence of the board of directors:
+1.1. approving overall business strategy plans for the Joint Stock Company, its internal control, audit and risk management procedures; 1.2.convening annual and extraordinary shareholder assembly sessions;
+1.3. preparing the initial agenda of a shareholder assembly;
+1.4. determining the record date for the list of shareholders entitled to participate in a shareholder assembly;
+1.5. issuance of shares within the limits stated in the Joint Stock Company’s charter or by shareholder decision for each type and class of shares, when that power is conferred on the board of directors in the Joint Stock Company’s charter or by shareholder decision;
+1.6. issuance of bonds, options to acquire shares and other securities, when that power is conferred on the board of directors in the Joint Stock Company’s charter or by shareholder decision;
+1.7. hiring officers/senior managers of the Joint Stock Company, approval of the terms of agreements between such senior managers and the Joint Stock Company, 1.8. determination of the remuneration of and other terms of agreements with the Joint Stock Company’s auditor;
+1.9. determining the amounts of and the record dates, payment dates and procedures for dividend payments;
+1.10. approval of the company’s annual report, annual balance sheet and annual profit and loss account which shall then be submitted to the shareholders for approval;
+LAW No. 06/L-016 ON BUSINESS ORGANIZATIONS 1.11. if the Joint Stock Company reached the thresholds specified in the law in force on financial reporting, the Board of Directors shall engage an external auditor to perform an external audit of the annual financial statement as well as the books and records of the Joint Stock Company, and the audit statement shall be attached to the annual report of the Joint Stock Company; and 1.12. deciding any other matters which are referred to the exclusive competence of the board of directors in the Joint Stock Company’s charter.
+2. Matters within the exclusive competence of the board of directors may not be transferred to or decided by other persons or other bodies of the Joint Stock Company.

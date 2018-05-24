@@ -1,0 +1,5 @@
+# Neni 59
+Të Drejtat dhe Detyrimet Reciproke të Ortakëve të Përgjithshëm 1. Çdo ortak i përgjithshëm është i detyruar ndaj çdo ortaku tjetër të përgjithshëm qëtë shkëmbejë të dhënat financiare lidhur me Veprimtarinë Ekonomike të Ortakërisë së Përgjithshme.
+2. Përveç nëse është dakorduar ndryshe me ortakët e tjerë, ortaku i përgjithshëm që jep dorëheqje ose largohet nga Ortakëria e Përgjithshme, mbetet përgjegjës para palëve të treta për të gjitha borxhet dhe detyrimet e Ortakërisë së Përgjithshme që janë bërë ose janë krijuar para datës së tërheqjes ose largimit të tij nga Ortakëria e Përgjithshme. Përgjegjësia ndërmjet vetë ortakëve do të zgjidhet në bazë të Marrëveshjes mbi Ortakërinë e Përgjithshme.
+3. Ortakëria e Përgjithshme duhet ta kompensojë ortakun e përgjithshëm për pagesat e bëra dhe përgjegjësinë e ndërmarrë, nëse pagesat dhe përgjegjësia e tillë është bërë nga ortaku i përgjithshëm:
+3.1. gjatë ushtrimit apo avancimit të Veprimtarisë Ekonomike të zakonshme të Ortakërisë së Përgjithshme; ose 3.2. për mbrojtjen e Veprimtarisë Ekonomike ose pasurisë së Ortakërisë së Përgjithshme.

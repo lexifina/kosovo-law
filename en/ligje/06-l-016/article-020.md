@@ -1,0 +1,4 @@
+# Article 20
+Nature of Registration 1. Initial registration, any other registration and amendments to data in the Registry, and deregistration at KBRA have legal effect prescribed by this law.
+2. The registered information and documents published according to Article 22 of this Law shall be considered as correct with regard to a third person, except if the third person knew or should have known that the registration or document is not correct. A registration shall be considered not to apply with regard to transactions which are concluded before the sixteenth (16) day after the entry is made in the Registry if a third person proves that the third person was not aware nor should have been aware of the content of the registration.
+3. If information which must be entered in the Registry is not entered in the Registry, such information shall have legal effect with regard to a third person only if the third person knew or should have known about such information.

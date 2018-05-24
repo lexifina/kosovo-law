@@ -1,0 +1,3 @@
+# Article 2
+Scope 1. The present Law shall apply to all Business Organizations and other entities as stipulated in the present Law.
+2. The rules for issuing permits, licenses or other forms of Permissions, the regulation of activities undertaken by the Business Organization after registration, accounting, financial reporting, taxes and labour and employment practices in Business Organizations are not within the scope of the present Law, except for the exchange of data between electronic systems of the institutions responsible for these areas with the KBRA, including the institutions responsible for tax administration and financial reporting.

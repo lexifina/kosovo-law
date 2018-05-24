@@ -1,0 +1,5 @@
+# Article 69
+Transfer of Limited Partnership Interest 1. Unless the Limited Partnership Agreement provides otherwise, a Limited Partner may transfer his Partnership Interest in the Limited Partnership only after the approval of all General Partners. The transfer of a Partnership Interest includes the transfer of all rights and obligations of the Limited Partner.
+2. If required by Court decision, the General Partner(s) of a Limited Partnership must conduct the transfer of the Partnership Interest of the Limited Partner in the Limited Partnership to another natural or legal person and/or Business Organization.
+3. Unless the Limited Partnership Agreement provides otherwise, a Partnership Interest is transferred to the lawful heirs of a Limited Partner who is a natural person, after the death
+LAW No. 06/L-016 ON BUSINESS ORGANIZATIONS of such Limited Partner. If a Limited Partner is a Business Organization and is dissolved, the Partnership Interest of such Limited Partner in the Limited Partnership is transferred in accordance with the Law under which the dissolution of such organization occurs.

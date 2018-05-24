@@ -1,0 +1,5 @@
+# Article 73
+Dissolution and Conclusion of Business Activity 1. A Limited Partnership may continue its activity so long as at least one General Partner and one Limited Partner remain in the Limited Partnership. Unless the Limited Partnership Agreement provides otherwise, a Limited Partner has no authorization to dissolve the Limited Partnership.
+2. Unless the Limited Partnership Agreement provides otherwise, during the distribution of the assets of a Limited Partnership, the net assets of the Limited Partnership shall be distributed equally to Limited Partners and to General Partners.
+3. The dissolution of a Limited Partnership does not extinguish creditor claims against General Partners in a Limited Partnership, and neither does it extinguish any claim of a General Partner against another General Partner in the Limited Partnership. Upon the dissolution of the Limited Partnership, all the General Partners shall execute the requirements specified in paragraph 3.
+LAW No. 06/L-016 ON BUSINESS ORGANIZATIONS of Article 56 of this Law.

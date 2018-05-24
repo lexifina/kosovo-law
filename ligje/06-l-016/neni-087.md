@@ -1,0 +1,5 @@
+# Neni 87
+Dënimet për Shkak të Mos-pagesës së Kontributeve të Dakorduara 1. Memorandumi i Inkorporimit i Shoqërisë me Përgjegjësi të Kufizuar mund të përcaktojë dënime dhe pasoja të tjera për Aksionarët të cilët nuk paguajnë kontributin e dakorduar. Këto dënime të cilat përcaktohen në Memorandumin e Inkorporimit të Shoqërisë më Përgjegjësi të Kufizuar, mund të përfshijnë, por nuk kufizohen në, si vijon:
+1.1. zvogëlimin proporcional të Aksionit të Aksionarit në Shoqërinë me Përgjegjësi të Kufizuar;
+1.2. subordinimin e të drejtës së Aksionarit në pjesën e tij gjatë shpërndarjeve të dividendëve për aksionarët e tjerë që kanë dhënë kontributet e tyre, 1.3. shitjen e detyruar të Aksioneve të Aksionarit në Shoqërinë me Përgjegjësi të Kufizuar, 1.4. humbjen e Aksionit të Aksionarit në Shoqërinë me Përgjegjësi të Kufizuar; ose 1.5. përcaktimit, në bazë të një vlerësimi profesional ose formule, të vlerës së cilësdo pjesë të Aksionit të Aksionarit që është paguar, dhe shitjen e detyruar të asaj pjese në vlerën e përcaktuar.
+LIGJI Nr. 06/L -016 PËR SHOQËRITË TREGTARE

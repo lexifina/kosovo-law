@@ -1,0 +1,4 @@
+# Neni 161
+Kompensimi dhe Huatë për Drejtorët 1. Shoqëria Aksionare mund t’i paguajë pagën drejtorëve dhe t’i kompensojë shpenzimet e arsyeshme që ata i bëjnë gjatë ushtrimit të detyrës së tyre si drejtor të Shoqërisë Aksionare. Vendimi për pagë si dhe miratimi i shumës dhe kushteve kryesore mund të merret vetëm nga aksionarët. Kjo duhet të bëhet për çdo vazhdim ose ndryshim të kushteve të drejtorëve.
+2. Shoqëria Aksionare nuk mund t’i japë kredi ose hua një drejtori, me përjashtim të shumave minimale në lidhje me Veprimtarinë Ekonomike të Shoqërisë Aksionare, përveç nëse parashihet ndryshe me ligjin në fuqi.
+3. Paga dhe kompensimi i Drejtorëve të Bordit dhe zyrtarëve të tjerë të lartë të Shoqërisë Aksionare duhet të zbulohet në kuadër të raporteve vjetore të Shoqërisë Aksionare që dorëzohen sipas ligjit në fuqi për raportim financiar

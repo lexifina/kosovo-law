@@ -1,0 +1,4 @@
+# Neni 232
+Auditimi i Bashkimit Ndërkufitar 1. Në rastin e bashkimit ndërkufitar, auditori duhet të auditojë marrëveshjen e bashkimit.
+2. Për bashkimin ndërkufitar, mund të emërohen një apo më shumë auditorë për disa apo të gjitha korporatat që përvetësohen. Auditori apo auditorët emërohen vetëm nga Gjykata ose me lejen e gjykatës apo agjencisë administrative përkatëse të shtetit të huaj nën juridiksionin e të cilit bie njëra prej korporatave që përvetësohet apo korporatës përvetësuese.
+3. Në bazë të kërkesës së Korporatave në bashkim, gjykata kompetente e Kosovës emëron auditorin apo auditorët e përcaktuar në paragrafin 2 të këtij neni që duhet të ketë(në) ekspertizën dhe aftësitë e domosdoshme për auditimin e bashkimit ndërkufitar. Gjykata gjithashtu duhet të përcaktojë procedurën si dhe shumën e kompensimit për auditorin apo auditorët që emëron.

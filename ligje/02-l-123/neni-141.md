@@ -1,9 +1,0 @@
-## KREU III
-## Aksionet dhe Letrat me Vlerë
-# Neni 141
-Aksionet e Thjeshta dhe të Privilegjuara, Vlera Nominale, Mungesa e aksionit në prurësin
-141.1 Shoqëria aksionare mund të emetojë dy lloje të aksioneve, aksione të thjeshta dhe aksione të privilegjuara. Shoqëria duhet të ketë medoemos aksione të thjeshta dhe duhet të emetojë së paku një aksion të thjeshtë. Aksionet e privilegjuara të shoqërisë (por jo edhe aksionet e thjeshta) mund të ndahen në dy ose më shumë kategori me të drejta dhe privilegje të ndryshme.
-141.2 Aksionet e të gjitha llojeve dhe kategorive duhet të kenë vlerën e theksuar nominale. Nëse aksioni ka vlerën e theksuar nominale atëherë kjo vlerë duhet të jetë më së paku një (1) Euro cent. Vlera e theksuar nominale e një aksionit të thjeshtë ose të privilegjuar, mund të jetë – por nuk është e detyrueshme – më e madhe se një (1) Euro cent.
-141.3 Çdo aksion nga aksionet e thjeshta duhet të ketë vlerën e njëjtë nominale si aksionet e tjera të thjeshta. Çdo aksion nga kategori e caktuar e aksioneve të privilegjuara duhet të ketë vlerën e njëjtë nominale si aksionet e tjerë të të njëjtës kategori.
-141.4 Aksionet e thjeshta të shoqërisë nuk mund të konvertohen në aksione të privilegjuara ose në letra me vlerë. Sidoqoftë, aksionet e privilegjuara mund të konvertohen, nëse lejohet sipas statutit të shoqërisë, në aksione të thjeshta ose në aksioneve të kategorive të tjera të aksioneve të privilegjuara të shoqërisë.
-141.5 Shoqëria aksionare nuk është e autorizuar që të emetojë, dhe nuk do të emetojë, aksione në prurësin ose letra me vlerë në prurësin. Të gjitha aksionet ose letrat me vlerë të emetuara në kundërshtim me këtë nen, si dhe të gjitha të drejtat apo pretendimet qe rrjedhin si pasojë e këtyre aksioneve ose letrave me vlerë do të jenë nule, të pavlefshme dhe të pa-zbatueshme.

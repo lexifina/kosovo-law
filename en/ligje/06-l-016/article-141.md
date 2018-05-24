@@ -1,0 +1,11 @@
+# Article 141
+Partial Payment for Shares 1. Within the first thirty (30) days following its initial registration at KBRA, the Joint Stock Company may issue all or any part of its Shares in return for partial payment, but only if there is a written agreement between the Shareholder and the Joint Stock Company which provides that:
+1.1. any and all payments for such Shares must be made in cash and not in another way;
+1.2. not less than twenty five percent (25%) of the Par value of the Shares must be paid within thirty (30) days after the initial registration of the Joint Stock Company; and 1.3. the unpaid balance must be paid by a date that is no more than two (2) years from the date of the initial registration of the Joint Stock Company at KBRA.
+2. Except in the case of Shares issued pursuant to an Employee Share Scheme adopted in accordance with the present Law, Shares issued in the course of an increase in charter capital must be paid up in full and may not be issued as partly paid Shares.
+3. With respect to any partly paid Share, the following data shall be registered in the list of Shareholder of the Joint Stock Company, and if this Share is certified, in the Share certificate, if there is one:
+LAW No. 06/L-016 ON BUSINESS ORGANIZATIONS 3.1. the total amount of the purchase price of such Share;
+3.2. the amount that has been paid at the time of issuance, and 3.3. all amounts that have been paid at the time of issuance and time of such payment.
+4. The voting rights and all other rights of a partly paid Share, including rights to receive dividends and distributions, must be reduced to the necessary amount to reflect the amount which has not yet been paid for that Share.
+5. Without prejudice to the general applicability of paragraph 4. of this Article, if a Joint Stock Company declares a dividend for a type or class of Share, the Joint Stock Company must at the same time declare a dividend on the partly paid Shares of that type or class of Share, but the dividend payable on the partly paid Shares must be reduced to the necessary amount to reflect the amount that has not yet been paid for that Share. In this case the Joint Stock Company shall have the right to:
+5.1. end to the concerned Shareholder; or 5.2. distribute the dividend while retaining the amount not paid for that Share.

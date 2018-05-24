@@ -1,0 +1,3 @@
+# Neni 55
+Fitimet, humbjet, alokimet dhe shpërndarja e dividendit 1. Përveç nëse përcaktohet ndryshe në Marrëveshjen e Ortakërisë së Përgjithshme, të gjithë ortakët e përgjithshëm kanë të drejtë në një ndarje të barabartë të të gjitha fitimeve, humbjeve, alokimeve dhe shpërndarjeve të dividendëve të Ortakërisë së Përgjithshme.
+2. Përveç nëse përcaktohet ndryshe në marrëveshjen e Ortakërisë së Përgjithshme, brenda afatit prej tridhjetë (30) ditësh nga përfundimi i çdo viti kalendarik, Ortakëria e Përgjithshme duhet që të llogarisë dhe regjistrojë të gjitha fitimet apo humbjet e bëra në atë vit, dhe të bëjë ndarjen e përqindjeve të fitimeve ose humbjeve në llogaritë e ortakëve të përgjithshëm.

@@ -1,0 +1,3 @@
+# Neni 60
+E Drejta e Padisë për Shkelje të Marrëveshjes së Ortakërisë së Përgjithshme 1. Ortakëria e Përgjithshme mund të padit një Ortak të Përgjithshëm për shkeljen e Marrëveshjes së Ortakërisë së Përgjithshme ose për shkeljen e detyrimeve ndaj Ortakërisë së Përgjithshme të cilat i kanë shkaktuar dëm ortakërisë së përgjithshme. Ortaku i Përgjithshëm mund ta padisë Ortakërinë e Përgjithshme ose një ortak tjetër për përmbarimin e të drejtave të tij që dalin nga Marrëveshja e Ortakërisë së Përgjithshme ose nga ky ligj.
+2. Bazat për ngritjen e padisë në rastet e transaksioneve me konflikt interesit janë përcaktuar në Pjesën e Dhjetë të këtij ligji.

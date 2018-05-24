@@ -1,0 +1,8 @@
+## CHAPTER VII
+## SHAREHOLDERS AND SHAREHOLDER ASSEMBLIES
+# Article 179
+Annual Shareholder Assembly 1. Every Joint Stock Company shall hold a meeting of shareholders annually, to be known as its annual assembly.
+2. The annual assembly of the shareholders shall be held within thirty (30) days after the board receives the Joint Stock Company’s audited financial statements for each financial year, but not later than ninety (90) days after the end of the Joint Stock Company’s financial year. Provided it is consistent with the foregoing, the charter or the bylaws may specify the exact date and time, or a method for determining the exact date and time, for holding of the annual assembly. The board of directors shall be responsible for ensuring the timely holding of the annual shareholders assembly.
+3. The board of directors shall ensure that the shareholders are provided with the audited financial statements of the Joint Stock Company at least thirty (30) days to prior to the annual assembly.
+4. A Joint Stock Company’s annual shareholder assembly shall be held at the place stated in the Joint Stock Company’s charter or by-laws or if not there stated at a place fixed by the board of directors.
+5. Failure by the board of directors to call and hold an annual shareholder assembly at the time required by paragraph 2. of the present Article shall not affect otherwise valid Joint Stock Company action. However, such failure shall immediately give the shareholders the right, which may be exercised by one or more shareholders holding at least ten percent (10%) of the shares entitled to vote at the annual assembly, to call and hold the annual shareholders assembly.

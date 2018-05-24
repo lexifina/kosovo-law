@@ -1,0 +1,6 @@
+# Article 218
+Conditions for Approval of the Merger Plan 1. Rights and obligations shall arise from a merger agreement if the merger agreement is approved with the Merger Plan by all merging Limited Liability Companies. The approval of the Merger Agreement shall cover both the approval of the draft terms of merger and any alterations to the Charter of the acquiring Limited Liability Company necessitated by the merger.
+2. The shareholders shall be provided with the opportunity to examine the Merger Agreement and the Merger Plan at least two (2) weeks before deciding on approval of the Merger Agreement unless otherwise provided by law. A shareholder may demand a copy of the Merger Agreement or Merger Plan.
+3. In the case of a Limited Liability Company that is a party to the merger, the merger plan must be approved:
+3.1. by all of its Shareholders as required by paragraph 2. of Article 105 of this Law, or 3.2. by any smaller number or percentage of its Shareholders required by a provision of the Charter of the Limited Liability Company, if that provision is in compliance with paragraph 3. of Article 105 of this Law.
+4. In the case of a Joint Stock Company, the merger plan must be approved according to Article 222 of this Law.

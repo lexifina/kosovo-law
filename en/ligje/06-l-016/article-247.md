@@ -1,0 +1,3 @@
+# Article 247
+Valuation of assets to be transferred If a recipient Corporation is a Corporation whose charter capital is to be increased in connection with a demerger or if a new Corporation is to be founded upon a demerger, the procedure prescribed for valuation of a non-monetary contribution of a Corporation shall be used to assess whether the assets transferred by the Corporation being divided are sufficient for the increase of charter capital or for the charter capital of the Corporation being founded. Documents certifying the valuation of the assets shall be submitted to KBRA together with the application for registration of demerger.
+LAW No. 06/L-016 ON BUSINESS ORGANIZATIONS

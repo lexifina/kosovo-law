@@ -1,0 +1,3 @@
+# Article 263
+Access to documentation related to contracts or transactions with conflict of interest 1. All Partners or Shareholders, regardless of the number of Partnership Interests or Shares they own in the Partnership or Corporation, who want to file a lawsuit with the competent court according to Article 259 of this Law shall be fully entitled to access documents in possession of the Partnership or Corporation during preparation of their lawsuit, and before filing the lawsuit with the competent court.
+2. Administrative expenses related to copying, transporting or storing such documentation shall be borne by the Partners or Shareholders aiming to file such a lawsuit.

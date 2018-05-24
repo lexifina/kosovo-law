@@ -1,0 +1,5 @@
+# Neni 184
+Kuvendi ose Pjesëmarrja me Komunikim Elektronik ose Telefonik 1. Statuti i Shoqërisë Aksionare mund të parashikojnë që aksionarët mund të marrin pjesë në një kuvend të aksionarëve në mënyrë elektronike, telefonike apo mënyra të tjera të komunikimit nga larg, ose që i tërë kuvendi i aksionarëve të zhvillohet me anë të komunikimit nga largësia.
+2. Në çdo rast të tillë Shoqëria Aksionare do të sigurojë që:
+2.1. Çdo person i cili konsiderohet të jetë i pranishëm në kuvend me komunikim nga largësia të jetë në fakt një aksionar ose pronar i një autorizimi të vlefshëm; 2.2.Çdo person i tillë është në gjendje të marrë pjesë në kuvend dhe të votojë për të gjitha çështjet e paraqitura para aksionarëve, duke përfshirë edhe një mundësi për të lexuar ose të dëgjuar të gjitha punimet e kuvendit njëkohësisht me procedura të tilla; dhe 2.3.Çdo deklaratë ose votë e çdo personi të tillë është e regjistruar në procesverbalin e kuvendit.
+3. Ministria mund të nxjerrë akt nënligjor për rregullimin më të detajuar të kuvendeve të tilla.

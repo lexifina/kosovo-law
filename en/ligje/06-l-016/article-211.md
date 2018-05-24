@@ -1,0 +1,6 @@
+# Article 211
+Continuation of Business Activities upon Initiation of Voluntary Dissolution 1. Upon appearance of circumstances or decision on voluntary dissolution according to sub- paragraphs 1.1. or 1.2. of paragraph 1. of the Article 210 of the of this Law, a Joint Stock Company shall continue its existence as before, but it may not conduct any Business Activity except as appropriate for voluntary dissolution and winding up of activity, which may include:
+1.1. collecting money or assets owed by parties to the Joint Stock Company;
+1.2. paying or arranging for satisfaction of creditor claims;
+1.3. selling, upon compliance with sub-paragraph 1.2. of this Article, non-monetary assets of the Joint Stock Company; and
+LAW No. 06/L-016 ON BUSINESS ORGANIZATIONS 1.4. distributing assets remaining upon sale and satisfaction of creditor claims. Such activities shall be conducted by managing directors of the Joint Stock Company, unless the company appoints a qualified professional, natural or legal person, to exercise such authority. Such activities shall be paid from monetary assets of the Joint Stock Company, and such expense shall be treated as administrative costs as determination in the applicable law on bankruptcy.

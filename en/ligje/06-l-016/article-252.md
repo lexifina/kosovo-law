@@ -1,0 +1,5 @@
+# Article 252
+Demerger whereby new Corporation is founded 1. The provisions regarding recipient Corporations of this Chapter shall apply to Corporations being founded.
+2. In the foundation of a new Corporation, the foundation provisions for such Corporation shall apply unless the provisions of this chapter provide otherwise. The founder shall be the Corporation being divided.
+3. Upon demerger whereby a new Corporation is founded, the Managing Director(s) of the Corporation being divided shall draft a demerger plan which shall substitute for the demerger agreement. The demerger plan shall set out the official name, trade name if any, and registered address of the new Corporation. The charter of the Corporation being founded, which shall be approved by the demerger resolution, shall be appended to the demerger plan.
+4. The Managing Director(s) of shall submit an application for registration of the new Corporations and the demerger in the KBRA. PART NINE TRANSFORMATION OF BUSINESS ENTERPRISES

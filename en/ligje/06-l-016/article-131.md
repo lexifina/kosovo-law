@@ -1,0 +1,2 @@
+# Article 131
+Organizational Meeting of a Joint Stock Company Immediately after the registration of a Joint Stock Company, the initial directors named in the Charter must hold an organizational meeting in order to complete the organization of the Joint Stock Company by appointing the initial officers of the Joint Stock Company and in order to undertake their respective activities for which they are authorized.

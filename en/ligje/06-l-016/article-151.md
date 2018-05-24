@@ -1,0 +1,3 @@
+# Article 151
+Procedure for Authorizing Dividends 1. A decision authorizing and paying dividends may only be made by the Shareholders unless the authorization to make that decision has been conferred to the board of directors in the Charter of the Joint Stock Company.
+2. Each decision for distribution of dividends must specify the amount of dividend, date of specification of Shareholders who have the right to receive dividends which date must be later than the date of the decision authorizing the distribution, and the date in which the dividends must be paid, and the date in which the Joint Stock Company must notify persons who have the right to receive these dividends on the decision and other relevant issues.

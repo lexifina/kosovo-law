@@ -1,0 +1,5 @@
+# Neni 19
+Numri Unik Identifikues 1. Me rastin e regjistrimit fillestar, Shoqërisë Tregtare ose subjekti tjetër i përcaktuar në nenin 23 të këtij ligji i lëshohet Numri Unik Identifikues i cili shërben njëkohësisht si numër për identifikimin e Shoqërisë Tregtare për qëllime të regjistrimit dhe për qëllime tatimore, si dhe për qëllime të tjera të përcaktuara në aktin nënligjor të miratuar nga Qeveria sipas paragrafit 2 të këtij neni.
+2. Brenda gjashtë (6) muajve nga hyrja në fuqi e këtij ligji, Ministria në bashkëpunim me Ministrinë e Financave do të hartojë dhe Qeveria e Republikës së Kosovës do të miratojë një
+LIGJI Nr. 06/L -016 PËR SHOQËRITË TREGTARE akt nënligjor me të cilin përcaktohen kërkesat, kushtet dhe procedurat për krijimin e Numrit Unik Identifikues.
+3. Brenda një (1) viti nga hyrja në fuqi e këtij ligji, të gjitha autoritetet publike veprimtaria e të cilave ndikohet nga krijimi i numrit unik identifikues obligohen që të hartojnë dhe dorëzojnë për miratim në Qeverinë e Republikës së Kosovës ndryshimet dhe plotësimet e nevojshme në ligjet ose aktet nënligjore përkatëse.

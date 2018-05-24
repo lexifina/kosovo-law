@@ -1,0 +1,6 @@
+# Neni 240
+Raporti i Ndarjes 1. Drejtorët Menaxhues të Korporatave që marrin pjesë në ndarje duhet të përgatisin një raport me shkrim në të cilin shpjegohen dhe arsyetohen ligjërisht dhe ekonomikisht ndarja dhe marrëveshja e ndarjes. Me shpërndarje apo pjesëtim ku aksionet këmbehen me Aksionarë te Korporatës që ndahet, norma e këmbimit të Aksioneve, shpërndarja e Aksioneve të Korporatave që marrin pjesë në ndarje mes Aksionarëve të Korporatës që ndahet, si dhe shumën e pagesave shtesë, nëse ka pagesa shtesë për t’u bërë, duhen arsyetuar në raport. Vështirësitë në lidhje me valorizimin duhen përshkruar ndaras në raport.
+2. Raporti i ndarjes nuk ka nevojë të përgatitet në rastin e pjesëtimit me anë të këmbimit të aksioneve me Korporatën që ndahet, ose nëse kjo është miratuar nga të gjithë Aksionarët e
+LIGJI Nr. 06/L -016 PËR SHOQËRITË TREGTARE Korporatave që marrin pjesë në ndarje.
+3. Korporatat që marrin pjesë në ndarje mund të përgatisin raport të përbashkët të ndarjes.
+4. Raporti i ndarjes nuk ka nevojë të përmbajë informata, publikimi i të cilave mund të shkaktojë dëme të konsiderueshme ndaj Korporatës që merr pjesë në ndarje apo Korporatës që i përket të njëjtit grup me atë Korporatë. Në rastin e tillë, arsyeja për mos dorëzim të informatave duhet të përfshihet në raport.

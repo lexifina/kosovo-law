@@ -1,0 +1,8 @@
+## KAPITULLI VII
+## AKSIONARËT DHE KUVENDET E AKSIONARËVE
+# Neni 179
+Kuvendi Vjetor i Aksionarëve 1. Çdo Shoqëri Aksionare duhet të mbajë një kuvend vjetor të aksionarëve, e cila do të njihet si kuvendi i saj vjetor.
+2. Kuvendi vjetor i aksionarëve mbahet brenda tridhjetë (30) ditëve pasi Bordi të marrë raportin e audituar financiar për secilin vit financiar, por jo më shumë se nëntëdhjetë (90) ditë pas përfundimit të vitit financiar të Shoqërisë Aksionare. Me kusht që të jetë në pajtim me të mësipërmen, statuti ose rregulloret mund të përcaktojnë datën dhe kohën e saktë, ose metodën për përcaktimin e datës ose kohës së saktë, për mbajtjen e kuvendit vjetor, Bordi i Drejtorëve është përgjegjës për të siguruar mbajtjen me kohë të kuvendit vjetor të aksionarëve.
+3. Bordi i Drejtorëve duhet të sigurojë që aksionarëve t’u dërgohet deklarata e audituar financiare e Shoqërisë Aksionare së paku tridhjetë (30) ditë para kuvendit vjetor.
+4. Kuvendi vjetor i Aksionarëve i Shoqërisë Aksionare mbahet në vendin e caktuar në statutin e Shoqërisë Aksionare ose rregulloret ose nëse nuk është përcaktuar në statut ose rregullore atëherë në një vend që caktohet nga Bordi i Drejtorëve.
+5. Moskonvokimi dhe mosmbajtja e kuvendit vjetor të aksionarëve nga Bordi i Drejtorëve në kohën e përcaktuar me paragrafin 2 të këtij neni nuk ndikon në veprimtarinë e Shoqërisë Aksionare. Megjithatë, mos mbajtja e kuvendit vjetor të aksionarëve menjëherë u jep aksionarëve të drejtën, që mund të ushtrohet nga një ose më shumë aksionarë që mbajnë së paku dhjetë përqind (10%) të votave me të drejtë vote në kuvendin vjetor, që të thërrasin dhe mbajnë kuvendin vjetor të aksionarëve.

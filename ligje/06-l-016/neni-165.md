@@ -1,0 +1,2 @@
+# Neni 165
+Votimi Kumulativ për Drejtorët Përveç nëse është përcaktuar ndryshe në statutin e Shoqërisë Aksionare, në të gjitha zgjedhjet për drejtorët e Shoqërisë Aksionare, secili aksionar ka të drejtën e votës në bazë të numrit të aksioneve në pronësi të tij për të gjithë personat që janë kandiduar për drejtor, ose t’i mbledhë votat në fjalë dhe t’ia japë një kandidati aq vota sa edhe ka drejtorë që do të zgjidhen, shumëzuar me aksionet në fjalë, ose të shpërndajë votat e tilla të mbledhura kumulative në çfarëdo proporcioni ndërmjet numrit të kandidatëve.

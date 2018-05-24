@@ -1,0 +1,9 @@
+# Neni 220
+Pasojat e Bashkimit 1. Pas hyrjes së bashkimit në fuqi, sipas paragrafit 2 të nenit 121 të këtij ligji:
+1.1. Shoqëritë me Përgjegjësi të Kufizuar që janë palë në bashkim do të transformohen në një Shoqëri me Përgjegjësi të Kufizuar të vetme që do të emërohet në planin e bashkimit si Shoqëri me Përgjegjësi të Kufizuar e mbijetuar, dhe ekzistenca ligjore e ndarë e të gjitha Shoqërive me Përgjegjësi të Kufizuar të tjera –përveç Shoqërisë me Përgjegjësi të Kufizuar së mbijetuar –do të përfundojë;
+1.2. Shoqëria me Përgjegjësi të Kufizuar e mbijetuar është përgjegjëse për të gjitha detyrimet, të secilit lloj, të secilës Shoqëri me Përgjegjësi të Kufizuar në bashkim;
+1.3. Shoqëria me Përgjegjësi të Kufizuar e mbijetuar do të kenë të gjitha të drejtat dhe interesat në të gjitha asetet, të çfarëdo lloji, të secilës Shoqëri me Përgjegjësi të Kufizuar në bashkim;
+1.4. të gjitha kontestet dhe kërkesat ndaj cilësdo Shoqëri me Përgjegjësi të Kufizuar që ka qenë palë në bashkim, ekzistenca e të cilave është ndërprerë pas bashkimit, do të vazhdojnë ndaj Shoqërisë me Përgjegjësi të Kufizuar të mbijetuar; Shoqëria me Përgjegjësi të Kufizuar e mbijetuar – sipas ligjit – i zëvendëson të gjitha Shoqëritë e tjera me Përgjegjësi të Kufizuar të bashkuara, ekzistenca e të cilave është përfunduar nga bashkimi;
+1.5. Statuti i Shoqërisë me Përgjegjësi të Kufizuar së mbijetuar do të jetë Statuti i Shoqërisë me Përgjegjësi të Kufizuar së mbijetuar që është përcaktuar në planin e bashkimit;
+1.6. Aksionet e secilës Shoqëri me Përgjegjësi të Kufizuar në bashkim të cilat kërkohen me planin e bashkimit të konvertohen në Aksione dhe/ose letra me vlerë apo borxhe apo detyrime të tjera të Shoqërisë me Përgjegjësi të Kufizuar së mbijetuar duhen konvertuar;
+1.7. Shoqëria me Përgjegjësi të Kufizuar në bashkim konsiderohet të jetë shpërbërë që nga regjistrimi i bashkimit në ARBK. ARBK-ja duhet të shlyejë Shoqërinë me Përgjegjësi të Kufizuar në bashkim nga Regjistri.

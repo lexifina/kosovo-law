@@ -1,0 +1,3 @@
+# Neni 43
+Ndryshimi dhe Plotësimi i të Dhënave për Ndërmarrjet Publike, Ndërmarrjet Shoqërore dhe Format Tjera të Organizimit të Krijuara me Ligje të Veçanta 1. Procedura dhe përmbajtja e dokumentacionit të nevojshëm për ndryshimin e të dhënave të regjistruara të Ndërmarrjeve Publike dhe Ndërmarrjeve Shoqërore është e njëjtë me procedurën dhe përmbajtjen e përcaktuar në nenin 40 dhe 41 të këtij ligji.
+2. Procedura dhe përmbajtja e dokumentacionit të nevojshëm për ndryshimin e të dhënave të regjistruara për format tjera të organizimit të krijuara me ligje të veçanta do të përcaktohet në ato ligje të veçanta ose aktet nënligjore të miratuara sipas atyre ligjeve të veçanta.

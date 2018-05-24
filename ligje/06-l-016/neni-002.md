@@ -1,0 +1,3 @@
+# Neni 2
+Fushëveprimi 1. Ky ligj zbatohet për të gjitha shoqëritë tregtare dhe subjektet tjera të përcaktuara në këtë ligj.
+2. Rregullat për lëshimin e lejeve, licencave ose formave të tjera të lejimit, rregullimi i aktiviteteve në të cilat angazhohet shoqëria tregtare pas regjistrimit, kontabiliteti, raportimi financiar, tatimet si dhe praktikat e punës dhe punësimit të shoqërive tregtare nuk janë në fushëveprim të këtij ligji – përveç shkëmbimit të të dhënave ndërmjet sistemeve elektronike të institucioneve përgjegjëse për këto fusha në ARBK, duke përfshirë institucionet përgjegjëse për administratën tatimore dhe raportimin financiar.

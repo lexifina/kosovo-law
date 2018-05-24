@@ -1,4 +1,0 @@
-# Article 30
-1. In Article 221 of the basic law in the existing text. is renumbered as paragraph 221.1and amended the percentage from “50%” to the “20%”.
-2. To the Article 221 of the basic law after the renumbered paragraph as paragraph 221.1 is added new paragraph 221.2 with the following text:
-221.2. In case the transactions as described in paragraph 1 and 2 of Article 184, exceed 20% of company assets, the Board of Directors shall ask a written and independent opinion on transaction from the Professional Independent Finance Advisor who is licensed by the central banking authority or by any equivalent body licensed abroad in order to evaluate transaction conditions and to evaluate if the transaction is in accordance with the market price. This evaluation shall be presented to the stakeholders at least five (5) days before the transaction is approved by the stakeholders` emergency meeting.

@@ -1,0 +1,6 @@
+# Neni 226
+Pasojat e Bashkimit 1. Pas hyrjes në fuqi të bashkimit:
+1.1. Shoqëritë Aksionare që janë palë në bashkim përfshihen në një Shoqëri Aksionare të vetme e cila do të jetë Shoqëria Aksionare mbijetuese e emëruar në plan, dhe ekzistimi i Shoqërive Aksionare të tjera të veçanta përveç Shoqërisë Aksionare mbijetuese do të përfundojë;
+1.2. Shoqëria Aksionare përvetësuese do të marrë përsipër të gjitha asetet dhe detyrimet e çfarëdo lloji të Shoqërive Aksionare të cilat kanë qenë palë në bashkim dhe çfarëdo barre apo garancie tjetër që ka ezkistuar në lidhje me asetet e bartura nuk do të ndikohet nga bashkimi;
+1.3. të gjitha kontestet ose kërkesat tjera ndaj Shoqërive Aksionare në bashkim mund të vazhdohen kundër Shoqërisë Aksionare përvetësuese, e cila zëvendëson në kontest apo kërkesë Shoqërinë Aksionare ekzistenca e të cilës është përfunduar;
+1.4. statuti dhe rregulloret e Shoqërisë Aksionare përvetësuese do të jenë ato të përcaktuara në planin e bashkimit; dhe 1.5. aksionet e secilës Shoqëri Aksionare që ishte palë në bashkim që duhet të konvertohen në aksione, letra me vlerë ose borxhe ose detyrime tjera të Shoqërisë Aksionare përvetësuese do të konvertohen, dhe bartësit paraprak të këtyre aksioneve, letrave me lerë ose borxheve i posedojnë vetëm të drejtat e përcaktuara në planin e bashkimit.

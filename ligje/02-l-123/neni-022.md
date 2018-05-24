@@ -1,5 +1,0 @@
-# Neni 22
-Rezervimi i Emrit Tregtar
-22.1 Një person ose shoqëri tregtare e cila ka për qëllim ta shfrytëzojë një emër tregtar brenda një afati vijues prej njëqindetetëdhjetë (180) ditësh mundet, në qoftë se ky emër tregtar nuk është rezervuar ose regjistruar më parë, ta rezervojë shfrytëzimin ekskluziv të këtij emri tregtar, duke i’a paraqitur regjistrimit një kërkese mbi rezervimin e emrit tregtar. Kërkesa duhet të përmbajë emrin dhe adresën e parashtruesit të kërkesës dhe emrin tregtar të cilin dëshiron ta rezervojë.
-22.2 Pas pranimit të kësaj kërkese, Zyra e Regjistrimit do t’i kontrollojë të dhënat e veta dhe, nëse ky emër tregtar nuk është i rezervuar apo regjistruar më parë atëherë kjo zyrë do ta bëjë rezervimin e emrit tregtar për shfrytëzimin ekskluziv për parashtruesin e kërkesës për një afat të pa-ripërtritshëm prej njëqindetetëdhjetë (180) ditësh.
-22.3 Emri i rezervuar tregtar mund të bartet nga personi ose shoqëria tregtare te një person ose shoqëri tjetër tregtare duke i dorëzuar Zyrës së Regjistrimit një njoftim të nënshkruar lidhur me këtë bartje, në të cilin duhet të ceket emri tregtar dhe adresa e pranuesit.

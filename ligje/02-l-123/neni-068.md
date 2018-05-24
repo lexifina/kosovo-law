@@ -1,3 +1,0 @@
-# Neni 68
-Marrëveshja e Shoqërisë Komandite
-Çdo shoqëri komandite duhet gjithashtu të ketë marrëveshjen e shoqërisë komandite e cila përmban (i) dispozita që rregullojnë menaxhimin e shoqërisë komandite dhe veprimtarisë së saj tregtare, (ii) dispozita të cilat përcaktojnë dhe specifikojnë emrat dhe kontributet në kapitalin e shoqërisë komandite për secilin; dhe (iii) dispozita që rregullojnë të gjitha çështjet e tjera të cilat ortakët dëshirojnë ti përfshijnë në marrëveshje. Secili ortak i shoqërisë komandite është i detyruar që ta zbatojë këtë marrëveshje dhe në të duhet të theksojë se a e ka nënshkruar atë si ortak i përgjithshëm apo i kufizuar.

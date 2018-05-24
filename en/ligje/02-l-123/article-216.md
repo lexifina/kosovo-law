@@ -1,6 +1,0 @@
-# Article 216
-Nullification of a merger
-216.1 The merger may not be challenged by anyone as being void; provided, however that a shareholder or creditor of either the merging or acquiring company may file a complaint in Court challenging the validity of the merger if such compliant is filed with the Court no later than six months after the registration date of the merger.
-216.2 The Court may nullify the merger if it is determines that a decision on the merger taken at a meeting of shareholders was invalid beacause:
-(i) it was based on material misrepresentations such that the shareholders would not have voted in the manner they did if the misrepresentations had not been made and the consequences of the mispresentation can not be rectified by requiring the responsible parties to pay monetary damages to the shareholders; or (ii) it involved an irremediable breach of procedure that the court is determined to have a similar negative effect on the shareholders; or (iii) it involved an irremediable breach of procedure that negatively affected a creditor of the merging or acquiring company and that deprived such creditor of any right the creditor had to bring an action to prevent the merger taking effect.
-216.3 Any nullification under pervious Article above shall be published in the newspaper and filed with the Registry.

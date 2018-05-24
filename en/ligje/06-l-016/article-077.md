@@ -1,0 +1,3 @@
+# Article 77
+Liability for Actions of the Founder Prior to Registration 1. If one or more founders and/or other persons take action on behalf of a Limited Liability Company before it is registered including, but not limited to, opening bank accounts, purchasing or leasing property, or entering into contracts or other obligations, the persons taking such action shall be jointly and personally liable for claims and obligations arising out of such actions, unless a different agreement was reached with the concerned third parties.
+2. After registration at KBRA, the Limited Liability Company may assume liability for all such claims and obligations. In this case, the Limited Liability Company shall be solely liable for the claims or obligations.

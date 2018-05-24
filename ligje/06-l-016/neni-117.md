@@ -1,0 +1,4 @@
+# Neni 117
+Ekzekutimi i Kërkesave të Kreditorëve Ndaj Shoqërisë me Përgjegjësi të Kufizuar që i është Nënshtruar Shpërbërjes Vullnetare 1.Kërkesat e kreditorëve ndaj një Shoqërie me Përgjegjësi të Kufizuar që i është nënshtruar shpërbërjes vullnetare mund të ekzekutohen:
+1.1. ndaj Shoqërisë me Përgjegjësi të Kufizuar, deri në atë masë sa asetet e saj nuk i janë shpërndarë aksionarëve; ose 1.2. nëse të gjitha asetet u janë shpërndarë Aksionarë gjatë procedurës së shpërbërjes vullnetare, ndaj cilitdo Aksionar, deri në shumën e aksioneve të tij pro-rata ose aseteve që i janë shpërndarë atij gjatë shpërbërjes vullnetare, cilado të jetë më e vogël. Detyrimet e përgjithshme të Aksionarit për të gjitha kërkesat e kreditorëve sipas këtij neni, nuk mund ta tejkalojnë shumën e përgjithshme të aseteve të Shoqërisë me Përgjegjësi të Kufizuar që i janë shpërndarë atij.
+LIGJI Nr. 06/L -016 PËR SHOQËRITË TREGTARE PJESA E SHTATË SHOQËRIA AKSIONARE

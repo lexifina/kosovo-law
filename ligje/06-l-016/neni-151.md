@@ -1,0 +1,3 @@
+# Neni 151
+Procedurat për Autorizimin e Dividendëve 1. Vendimi për autorizimin dhe pagimin e dividendeve mundet të bëhet vetëm nga aksionarët, përveç nëse autorizimi për marrjen e vendimit në fjalë i është dhënë Bordit të Drejtorëve me statutin e Shoqërisë Aksionare.
+2. Secili vendim për autorizimin e dividendit duhet të precizojë shumën e dividendit, datën e përcaktimit të aksionarëve që kanë të drejtë në marrjen e dividendit, datë kjo që duhet të jetë pas datës së vendimit që autorizon dividendat dhe datën në të cilën dividenda duhet paguar, dhe datën kur Shoqëria Aksionare duhet që t’i njoftojë personat që kanë të drejtë në pranimin e këtyre dividendave mbi vendimin dhe çështjet e tjera të caktuara.

@@ -1,0 +1,2 @@
+# Neni 267
+Aktet nënligjore të zbatueshme deri në nxjerrjen e akteve të reja nënligjore Me kusht që mos të jenë në kundërshtim me këtë ligj dhe deri në nxjerrjen e akteve të reja nënligjore për zbatimin e duhur të këtij ligji, aktet nënligjore të zbatueshme do të vazhdojnë të mbesin në fuqi si në vijim:Udhezimi Administrativ Nr-03/2015 për Përcaktimin e Taksave për Shërbimet e Ofruara nga Agjencioni për Regjistrimin e Bizneseve.

@@ -1,0 +1,5 @@
+# Neni 158
+Shoqëria nuk duhet të Financojë Blerjen e Letrave të Veta me Vlerë 1. Një Shoqëri Aksionare nuk mund të jap hua ose çfarëdo lloj kredie, duke përfshirë pengun e aksioneve të veta me të cilat disponon, ndonjë personi fizik ose juridik dhe/ose Shoqërie Tregtare me qëllim të krijimit të mundësisë atij personi fizik ose juridik dhe/ose Shoqërie Tregtare për t’i blerë ose përvetësuar, drejtpërdrejt ose tërthorazi, qoftë nga Shoqëria Aksionare ose një palë e tretë, ndonjë aksion apo letër me vlerë të Shoqërisë aksionare.
+2. Kjo ndalesë nuk do të zbatohet për transaksionet e lidhura nga bankat ose institucioneve tjera financiare në vazhdën e veprimtarisë së tyre të zakonshme ekonomike, dhe as për transaksionet që kanë të bëjnë me Skemën e Aksioneve të Punonjësve, me kusht që blerja të mos rezultojë në atë që net asetet të bëhen më të vogla se sa kapitali themeltar plus rezervat e pa-shpërndashme.
+3. Shoqëria Aksionare nuk i pranon aksionet e veta si garanci për ndonjë detyrim që një person ose Shoqëri Tregtare e ka ndaj Shoqërisë Aksionare.
+LIGJI Nr. 06/L -016 PËR SHOQËRITË TREGTARE

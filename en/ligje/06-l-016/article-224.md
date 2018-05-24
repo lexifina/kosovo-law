@@ -1,0 +1,12 @@
+# Article 224
+Required Contents of Plan of Merger 1. A plan of merger shall state:
+1.1. the type of Joint Stock Company, the official name, and trade name if any, and the registered address of each Joint Stock Company that will merge and of the surviving Joint Stock Company into which each Joint Stock Company plans to merge;
+1.2. the terms and conditions of the proposed merger, including a summary of any legal terms drawn up by an independent expert;
+1.3. the manner and basis of converting the shares of each merging Joint Stock Company into cash or other property, or shares, other securities or debt or other obligations of the surviving Joint Stock Company or of any shareholder of the surviving Joint Stock Company, including the details of the share exchange ratio, the criteria and terms relating to the allotment of shares in the acquiring Joint Stock Company and the amount of any cash payment and the details the shares and the rights of the shares that will be acquired, including any special classes;
+1.4. the full text of the charter and by-laws of the surviving Joint Stock Company as it will be in effect immediately following the merger;
+1.5. the date from which the holding of any shares received in the merger entitles the holders to participate in profits of the surviving Joint Stock Company and any special conditions affecting that entitlement;
+1.6. the date from which the transactions of each non-surviving Joint Stock Company shall be treated for accounting purposes as being those of the surviving Joint Stock Company;
+LAW No. 06/L-016 ON BUSINESS ORGANIZATIONS 1.7. the rights conferred by the surviving Joint Stock Company on the holders of shares to which special rights are attached and the holders of securities other than shares, or the measures proposed concerning them;
+1.8. any special advantage or preference given to independent financial advisers or directors or officers of any Joint Stock Company in the merger;
+1.9. any provisions under which the proposed merger can be abandoned before its completion;
+1.10. any chance in the assets and liabilities of the between the date of the draft terms of merger and the date of the general meeting deciding on the merger; and 1.11. other provisions relating to the merger including but not limited to a possible provision that payment will not be made for any converted shares until or after the merger has become effective.

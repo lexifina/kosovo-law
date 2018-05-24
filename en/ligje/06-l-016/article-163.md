@@ -1,0 +1,2 @@
+# Article 163
+Number of Directors The number of members of a joint stock company’s board of directors shall be stated in the Joint Stock Company’s charter. For a Joint Stock Company with less than ten (10) shareholders, the board of directors shall have one (1) or more members. For a Joint Stock Company with ten (10) or more shareholders the board of directors shall have not less than three (3) members.

@@ -1,6 +1,0 @@
-# Neni 145
-Aksionet e Certifikuara dhe të Pa-Certifikuara
-145.1 Aksioni apo aksionet e shoqërisë aksionare mund të jenë të certifikuara (me certifikatë për aksionin) apo të pa-certifikuara.
-145.2 Nëse aksioni ose aksionet janë të certifikuara, certifikata e aksionit duhet të përmbajë (i) emrin e personit ose shoqërisë për të cilin është nxjerrë certifikata, (ii) numrin e aksioneve të përfaqësuara në certifikatë dhe numrin progresiv të certifikatës, (ii) llojin e aksioneve (të thjeshta ose të privilegjuara) të përfaqësuara në certifikatë, (iii) nëse aksionet përkatëse janë të një kategorie të caktuar të aksioneve të privilegjuara, atëherë duhet të theksohet kategoria përkatëse, dhe (iv) nëse aksionet përkatëse janë aksione të privilegjuara të një kategorie të caktuar, atëherë një deklaratë që parashtron të drejtat (duke përfshirë të drejtat e votimit) si dhe privilegjet e aksioneve të tilla siç janë paraqitur në statutin e shoqërisë.
-145.3 Përveç nëse është përcaktuar ndryshe në statutin e shoqërisë aksionare, bordi i drejtorëve mund të vendosë që disa ose të gjitha aksionet e certifikuara të shëndërrohen në aksione të pa certifikuara;
-145.4 Aksionet e certifikuara dhe të pa-certifikuara të të njëjtit lloj dhe kategori kanë të drejta identike.

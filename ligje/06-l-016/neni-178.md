@@ -1,0 +1,5 @@
+# Neni 178
+Kompensimi i Drejtorëve Menaxhues 1. Pagat dhe kompensimi i Drejtorëve Menaxhues përcaktohen nga Bordi i Drejtorëve si dhe duhen paraqitur në raportet vjetore të Shoqërisë Aksionare të dorëzuar për raportim financiar në pajtim me legjislacionin në fuqi.
+2. Pas vendosjes së procedurës së pagave dhe kompensimit të Drejtorëve Menaxhues dhe shumës së tarifave dhe benefiteve të tjera, si dhe lidhjes së kontratave me Drejtorët Menaxhues, Bordi i Drejtorëve siguron që shuma totale e pagesave që bëhen nga Shoqëria Aksionare tek Drejtorët Menaxhues janë në proporcionalisht të arsyeshme me detyrimet e Drejtorëve Menaxhues dhe gjendjen ekonomike të Shoqërisë Aksionare.
+3. Nëse gjendja ekonomike e Shoqërisë Aksionare përkeqësohet në masë të madhe dhe pagesat e mëtutjeshme për Drejtorët Menaxhues të pagave dhe kompensimeve të vendosura apo të miratuara me Drejtorët Menaxhues, apo lejimi i mëtutjeshëm i benefiteve të tjera për Drejtorët Menaxhues do të ishte tejet e padrejtë për Shoqërinë Aksionare, Shoqëria Aksionare mundet me vendim të Bordit të Drejtorëve të zvogëlojë pagat dhe kompensimet.
+LIGJI Nr. 06/L -016 PËR SHOQËRITË TREGTARE

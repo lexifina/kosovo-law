@@ -1,0 +1,2 @@
+# Neni 234
+Norma e këmbimit të aksioneve në rastin e Bashkimit Ndërkufitar Nëse, në bazë të ligjit të shtetit të huaj në juridiksionin e të cilit vepron Korporata që merr pjesë në bashkim, Aksionarët nuk kanë të drejtë të kërkojnë kompensim, atëherë Aksionari i Korporatës së regjistruar në Kosovë ka të drejtë të kërkojë kompensimin e tillë vetëm nëse Korporata që merr pjesë në bashkim nën juridiksionin e shtetit të juaj njeh, në marrëveshjen e bashkimit të saj, të drejtën e kërkimit të kompensimit të tillë.

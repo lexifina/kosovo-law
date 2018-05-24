@@ -1,4 +1,0 @@
-# Neni 93
-Kufizimet gjatë shpërndarjes
-93.1 Shoqëria nuk mund ta bëjë shpërndarjen për pronarët nëse pas hyrjes në fuqi të shpërndarjes, pasuria e përgjithshme e shoqërisë do të jetë më e vogël nga detyrimet e përgjithshme ose nëse shoqëria nuk do të jetë e aftë për pagimin e borxheve ose detyrimeve të tjera të cilat maturohen gjate veprimtarisë të saj të rregullt tregtare.
-93.2 Secilën here që shoqëria dëshiron të bëjë një shpërndarje, duhet së pari formalisht të konstatojë se kjo shpërndarje nuk është e ndaluar sipas paragrafit 1 të nenit 93 të këtij ligji. Ky konstatim duhet të bazohet në deklaratat financiare të përgatitura në pajtim me ligjet e zbatueshme për standardet e kontabilitetit dhe parimet e kontabilitetit që janë të vlefshme në ato rrethana dhe në rast të vlerësimit të pasurisë jo-monetare, në një vlerësim të drejtë dhe të pavarur që është i vlefshëm nën ato rrethana.

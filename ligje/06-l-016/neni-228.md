@@ -1,0 +1,2 @@
+# Neni 228
+Bashkimi i Shoqërisë Aksionare me Shoqërinë me Përgjegjësi të Kufizuar Një ose më shumë Shoqëri Aksionare mund të bashkohen në një ose më shumë Shoqëri me Përgjegjësi të Kufizuar të organizuara sipas këtij ligji, me kusht që të gjitha kushtet e parapara në nenet 221 deri 226 të këtij ligji, të plotësohen nga secila Shoqëri Aksionare dhe të gjitha kushtet e parapara në nenet 216 deri 220 të këtij ligji të plotësohen nga secila Shoqëri me Përgjegjësi të Kufizuar.

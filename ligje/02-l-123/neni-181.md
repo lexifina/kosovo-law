@@ -1,4 +1,0 @@
-# Neni 181
-Komisionet e Bordit
-Statuti ose rregulloret mund të përcaktojnë, ose drejtorët mund të miratojnë një vendim që themelon një ose më shumë komisione, (komisioni për auditim ose për shqyrtimin e kompensimeve ) që do të shqyrtojë, hulumtojë, rekomandojë ose të marrë masa të tjera jo-obligative e që janë në kuadër të kompetencës së bordit.
-Këto komisione mund të përfshijnë edhe anëtarët e bordit të drejtorëve dhe punëtorët e shoqërisë si dhe persona jashtë kompanisë. Përveç nëse statuti, rregulloret ose vendimi i bordit kërkojnë një numër më të madh, shumica e anëtarëve të komisionit e përbëjnë kuorumin dhe shumica e kuorumit është e nevojshme për çdo rekomandim ose veprim tjetër të komisionit. Të gjitha vendimet dhe veprimet e tjera të komisionit i nënshtrohen rishikimit, ndryshimit dhe miratimit me jo më pak se 2/3 e anëtarëve të bordit.

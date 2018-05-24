@@ -1,4 +1,0 @@
-# Neni 115
-Kryerja e detyrave personalisht ose si rrjedhojë e një vendimi gjyqësor
-115.1 Secili pronar i shoqërisë ka të drejtë të paraqesë padi në gjykatë në emrin dhe për interesat e tij, ose në emër të shoqërisë dhe për interesat e saj, kundër një drejtori menaxhues, për zbatimin e të drejtave që pronari ose shoqëria kanë kundër drejtorit menaxhues për shkeljen e detyrës së tij ndaj shoqërisë.
-115.2 Nëse pronari kërkon ekzekutimin e të drejtës së shoqërisë kundër një drejtori menaxhues, të gjitha dëmet që i atribuohen drejtorit menaxhues duhet të jenë prona të shoqërisë. Nëse gjykata konstaton se ankesa është e bazuar, Gjykata nxjerr vendim në favor të pronarit dhe kundër drejtorit menaxhues me ç’rast drejtori menaxhues duhet të paguajë shpenzimet e arsyeshme të pronarit. Këto shpenzimet të arsyeshme duhet të përfshijnë kompensimet ligjore të cilat bëhen nga pronari lidhur me përgatitjen, dorëzimin dhe udhëheqjen e ankesës.

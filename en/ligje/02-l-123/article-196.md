@@ -1,5 +1,0 @@
-# Article 196
-Record Date for a Meeting
-196.1 A company’s charter may fix or state the manner for fixing the record date for determining the list of the shareholders who are entitled to notice of a meeting, to demand an extraordinary meeting, to vote, or to take any other action.
-196.2 If the company’s charter does not fix or provide for fixing a record date, the board of directors may fix a future date as the record date. If no record date is fixed by the charter or the board of directors for an annual meeting, the record date shall be the date on which notice of the meeting is first mailed or otherwise given under Article 193 of this Law. If no record date is fixed by the charter or the board of directors for an extraordinary meeting, the record date shall be date on which the first demand for the meeting is signed and dated by a shareholder under Article 190 of this Law.
-196.3 A record date may not in any event be more than 60 nor less than 10 days before the meeting or action requiring a determination of shareholders.

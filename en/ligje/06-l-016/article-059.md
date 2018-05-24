@@ -1,0 +1,5 @@
+# Article 59
+Mutual Rights and Obligations of General Partners 1. Every General Partner is obligated to Share with every other General Partner the financial information related to the Business Activities of the General Partnership.
+2. Unless otherwise agreed with the other partners, a General Partner who resigns or otherwise leaves the General Partnership shall be liable to third parties for all debts and obligations of the General Partnership incurred or created before the date on which he resigns or otherwise leaves the General Partnership. Liability between the partners themselves shall be resolved based on the Partnership Agreement.
+3. The General Partnership must compensate the General Partner for payments made and for liabilities incurred if such payments were made or such liabilities were incurred by the General Partner:
+3.1. in the conduct or furtherance of the usual Business Activities of the General Partnership or 3.2. for the protection of the Business Activities of the General Partnership or the assets of the General Partnership.

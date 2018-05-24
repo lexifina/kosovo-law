@@ -1,0 +1,5 @@
+# Neni 167
+Shkarkimi i Drejtorëve 1. Një ose më shumë drejtorë të Shoqërisë Aksionare mund të shkarkohen në kuvendin e aksionarëve, me ose pa arsye të theksuar, me shumicë votash të aksioneve të cilat kanë pasur të drejtë të votojnë përzgjedhjen e drejtorëve, përveç se:
+1.1. asnjë drejtor nuk mund të shkarkohet në kuvendin e aksionarëve përveç nëse në njoftimin për mbajtjen e kuvendit theksohet se njëri ndër qëllimet e këtij kuvendi është edhe votimi për shkarkimin e këtijdrejtori; dhe 1.2. në rast se Shoqëria Aksionare ka votim kumulativ, nëse më pak se i tërë Bordi i Drejtorëve duhet të shkarkohet, asnjë drejtor nuk mund të shkarkohet nëse votat për shkarkimin e tij kanë qenë të mjaftueshme për ta zgjedhur atë në rast të votimit
+LIGJI Nr. 06/L -016 PËR SHOQËRITË TREGTARE komulativ për zgjedhjen e të tërë Bordit të Drejtorëve.
+2. Shkarkimi i një drejtori, vetvetiu nuk e paragjykon ndonjë të drejtë për kompensim apo kompensimin e dëmit pas shkarkimit, të cilën drejtori mund ta ketë në bazë të kontratës së tij me Shoqërinë Aksionare apo sipas ligjin për punën. Sidoqoftë, zgjedhja ose pozita e një personi si drejtor, vetvetiu, nuk krijon të drejta të këtilla.

@@ -1,0 +1,3 @@
+# Neni 28
+Procedura për Regjistrimin e Emrit Zyrtar dhe Emrit Tregtar 1. ARBK mund të refuzojë regjistrimin e emrave zyrtar ose tregtar të cilët janë në kundërshtim më frymën e Kushtetutës, ligjit ose moralin publik.
+2. Ministria nxjerr akt nënligjor për të përcaktuar më tutje procedurat e hollësishme në lidhje me Emrin Zyrtar të Shoqërive Tregtare dhe Emrin Tregtar, duke përfshirë rastet kur mund të bëhet refuzimi sipas paragrafit 1 më lartë. Ky akt nënligjor duhet të jetë në përputhje me dispozitat e këtij ligji dhe ligjit për markat tregtare, si dhe legjislacionin e aplikueshëm për pronën intelektuale.

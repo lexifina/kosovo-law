@@ -1,0 +1,2 @@
+# Neni 262
+Vlerësimi i Pavarur i Transaksioneve me Konflikt Interesi Të paktën pesëmbëdhjetë (15) ditë para votimit të një kontrate ose transaksioni me konflikt interesi me vlerë prej dhjetë përqind (10%) ose më shumë të të gjitha aseteve të Korporatës, duhet të merret një vlerësim i shkruar i pavarur mbi kushtet kryesore të kontratës ose transaksionit me konflikt të interesit nga një këshilltar i jashtëm dhe i pavarur financiar që gjithashtu duhet të vlerësojë nëse kontrata ose transaksioni është në përputhje me kushtet e tregut.

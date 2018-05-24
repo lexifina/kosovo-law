@@ -1,3 +1,0 @@
-# Article 129
-Liability for Founders’ Actions Before Registration
-If one or more founders and/or other persons take action on behalf of a joint stock company before it is registered (including but not limited to opening bank accounts, purchasing or leasing property, or entering into contracts or other obligations), the persons taking such action shall be jointly and severally personally liable for claims and obligations arising out of such actions, except as otherwise agreed by the concerned third parties. After the company has been registered, the company may assume liability for any or all such claims and obligations; in such event, the company shall thereafter be solely liable for any claims or obligations so assumed.

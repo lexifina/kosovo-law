@@ -1,4 +1,0 @@
-# Neni 30
-1. Neni 221 i ligjit bazik teksti ekzistues rinumërohet si paragraf 221.1. dhe ndryshohet përqindja nga “50%” në “20%”.
-2. Neni 221 i ligjit bazik pas paragrafit të rinumëruar si paragrafi 221.1. shtohet edhe një paragraf i ri 221.2. si vijon:
-221.2. Në rast se transaksionet e përcaktuara ne paragrafin 1. dhe 2. te nenit 184, kalojnë 20% të aseteve të kompanisë, Bordi i drejtorëve do te kërkoj një mendim te shkruar te pavarur mbi transaksionin nga një këshilltar financiar i pavarur profesional i licencuar nga autoriteti qendror bankar apo ndonjë autoritet ekuivalent i licencuar jashtë kosoves me qellim te shqyrtimit te kushteve te transaksionit si dhe te vlerësoi nëse transaksioni është ne pajtueshmëri me çmimin e tregut, Ky vlerësim iu prezantohet aksionarëve se paku pesë (5) dite para aprovimit te transaksionit nga takimi i jashtëzakonshëm i aksionareve .

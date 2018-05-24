@@ -1,0 +1,2 @@
+# Neni 125
+Autorizimi i Themeluesve Përfundon pas Regjistrimit Pas regjistrimit të një Shoqërie Aksionare dhe pasi që ajo të bëhet person juridik, të gjithë personat fizik ose juridik dhe/ose Shoqëritë Tregtare që ishin themelues të Shoqërisë Aksionare nuk kanë më autorizim për menaxhimin ose qeverisjen e saj. Megjithatë, nëse themeluesi përkatës është person fizik që pas regjistrimit të Shoqërisë Aksionare mban një pozitë tjetër në Shoqërinë Aksionare ky person ka autorizimin që vjen nga ajo pozitë.

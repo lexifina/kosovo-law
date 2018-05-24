@@ -1,0 +1,3 @@
+# Article 28
+Procedure for Registering Official Name and Trade Name 1. The KBRA may refuse the registration of official or trade names which are in contradiction to the spirit of the Constitution, law or public morale.
+2. The Ministry shall issue a sub-legal act to further define the detailed procedures related to the Official Name of the Business Organizations and the Trade Name, including cases in which a refusal may be made as per paragraph 1. of the present Article. Such act shall be in accordance with the provisions of this law and the law on trademarks as well as the applicable legislation on intellectual property.

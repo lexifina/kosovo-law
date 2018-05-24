@@ -1,0 +1,9 @@
+# Neni 140
+Pagesa për Aksione dhe Letra me Vlerë 1. Përveç se në relacion me skemën e aksioneve të punonjësve, një Shoqëri Aksionare nuk duhet të emetojë ose shesë aksionet ose letrat e saj me vlerë, përveç në një transaksion ku Shoqëria Aksionare menjëherë merr:
+1.1. pagesën e plotë sipas çmimit të parapaguar; ose 1.2. pagesën e pjesërishme sipas nenit 141 të këtij ligji.
+LIGJI Nr. 06/L -016 PËR SHOQËRITË TREGTARE 2. Përveç nëse parashihet ndryshe në Skemën e Aksioneve të Punonjësve të miratuar sipas këtij ligji, çmimi parapagues mund të paguhet me para të gatshme ose me pronë tjetër materiale ose jo-materiale ose të drejta me vlerë.
+3. Nëse pagesa bëhet në forma të tjera përveç parave, aksionari i ardhshëm i Shoqërisë Aksionare është i detyruar qe të angazhojë një vlerësues të jashtëm, të pavarur dhe të autorizuar i cili do të mbledh dhe dorëzoj para Bordit të Drejtorëve një raport për vlerësimin e drejt dhe të arsyeshëm të vlerës së pasurisë së ofruar në formë pagese si dhe një mendim formal se kjo vlerë është e mjaftueshme për të mbuluar çmimin blerës të aksionit ose letrës me vlerë e cila do të emetohet ose shitet. Raporti do të përmbaj së paku:
+3.1. një përshkrim të pasurisë ose të drejtave që ofrohen si pagesë;
+3.2. një përshkrim të metodës së vlerësimit e cila është përdorur nga vlerësuesi; dhe 3.3. një deklaratë nga vlerësuesi se shuma e arritur përmes kësaj metode është më së paku e barabartë me çmimin parapagues.
+4. Ky raport duhet të sigurohet dhe të miratohet nga Bordi i Drejtorëve para se aksionet të mund të emetohen.
+5. Përveç nëse parashihet ndryshe në Skemën e Aksioneve të Punonjësve të miratuar sipas këtij ligji, një Shoqëri Aksionare nuk mund të pranojë punë ose shërbime, qoftë të kryera apo që duhet të kryhen, si kompensim të pjesshëm ose të plotë për një aksion ose letër me vlerë.

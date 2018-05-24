@@ -1,0 +1,2 @@
+# Article 111
+Persons Charged with Duties All persons who according to authorizations by the Shareholders or Board of Directors exercise any competency which according to this Law, Charter or Incorporation Agreement is exercised by the Managing Director, shall have the same rights, duties and responsibilities of loyalty, responsibility, non-competition and disclosure of conflict of interest, as provided by Articles 258,259,260,261,262 and 263 of this Law.

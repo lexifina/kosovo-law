@@ -1,0 +1,13 @@
+## CHAPTER XIII
+## VOLUNTARY DISSOLUTION OF A JOINT STOCK COMPANY AND DECISION TO INITIATE BANKRUPTCY PROCEDURE
+# Article 210
+Causes of Voluntary Dissolution or Initiation of Bankruptcy Procedure 1. A Joint Stock Company shall be dissolved, and its business shall then be wound up, in case of:
+1.1. expiry of term if specified by Charter or any other circumstance as specified by
+LAW No. 06/L-016 ON BUSINESS ORGANIZATIONS Charter of the Joint Stock Company that may cause dissolution of termination of existence;
+1.2. decision of the shareholder assembly of the Joint Stock Company to voluntarily dissolve the Joint Stock Company;
+2. The Shareholder Assembly shall approve the initiation of the procedure in accordance with the law on bankruptcy or any other applicable law.
+3. If the dissolution of the Joint Stock Company is made according to sub-paragraph 1.1 or 1.2. of paragraph 1. of this Article, the activities of the Joint Stock Company shall be wound up and assets distributed according to this Article and Article 211 of this Law.
+4. The board of directors of the Joint Stock Company or the shareholders assembly shall propose voluntary dissolution or initiation of bankruptcy procedure, and such proposal shall be presented for adoption in the shareholder’s assembly in an annual or extraordinary session convened for this issue. The proposal for voluntary dissolution shall contain a plan with procedures to be followed, schedules and time periods for undertaking the activities related to the voluntary dissolution, and procedures for distribution to shareholders of the Joint Stock Company’s property remaining after creditors’ claims are satisfied.
+5. A written notice of the proposal shall be given to all shareholders entitled to attend and vote in the assembly.
+6. The proposal shall be approved upon receiving the affirmative vote of at least two-thirds (2/3) of the votes of the shares entitled to vote on the voluntary dissolution or initiation of bankruptcy procedures. The proposal shall be approved upon receiving the affirmative votes of at least two-thirds (2/3) of the votes of the shares entitled to vote on the proposal and two thirds of (2/3) the votes of the shares of each group entitled to vote as a group on the voluntary dissolution or initiation of bankruptcy procedure.
+7. The charter of a Joint Stock Company may supersede the two-thirds (2/3) vote requirement of paragraph 6. of this Article as to that company by specifying any larger vote requirement not less than two-thirds (2/3) of the votes of the shares entitled to vote on the issue and not less than two-thirds (2/3) of the votes of the shares of each voting group entitled to group voting on the issue.

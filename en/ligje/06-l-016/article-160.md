@@ -1,0 +1,2 @@
+# Article 160
+Qualifications of Directors Every director shall be a natural person. A Joint Stock Company’s charter may prescribe other requirements for qualification as a director. A director need not be a resident of Kosovo, unless the Joint Stock Company’s charter so prescribes. A director need not be a shareholder of the Joint Stock Company unless the Joint Stock Company’s charter so prescribes.

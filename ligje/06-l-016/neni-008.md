@@ -1,0 +1,4 @@
+# Neni 8
+Organizimi i ARBK 1. ARBK ka juridiksion në tërë territorin e Republikës së Kosovës dhe është institucioni i vetëm që ofron shërbim për publikun përmes sportelit të saj qendror dhe qendrave të regjistrimit në komuna me të cilat lidhë marrëveshje bashkëpunimi.
+2. ARBK ofron shërbim në komuna përmes qendrave të regjistrimit në komuna në përputhje me dispozitat e këtij ligji. Ministria lidh marrëveshje bashkëpunimi me komunat përkatëse, në të cilën përcaktohen kushtet dhe kriteret e ofrimit të shërbimit dhe treguesit kryesor të performancës, kualifikimet dhe kriteret e posaçme profesionale të nëpunësve në qendrat e regjistrimit në komuna si dhe trajnimet e detyrueshme për nëpunësit e sporteleve në komuna.
+3. Shpenzimet për mirëmbajtjen dhe menaxhimin e qendrave të regjistrimit në komuna barten nga komuna.

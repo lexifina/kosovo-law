@@ -1,7 +1,0 @@
-# Article 1
-Purposes and Scope of the Present Law
-1.1 The purpose of the present Law is to:
-a) specify the types of business organization through which business activity may be conducted in Kosovo;
-b) establish, for each type of business organization, the applicable registration requirements;
-c) set forth, for each type of business organization legal provisions with respect to its legal capacity and structure and its rights and obligations and those of its owners, managers, directors, legal representatives and third parties; and d) otherwise establish legal provisions that promote and facilitate the orderly and efficient creation, operation and dissolution of such business organizations.
-1.2 It is specifically provided that the present Law is limited in scope and does not establish rules or regulate matters falling within the scope of other primary normative acts. Without prejudice to the generality of the foregoing, it is specifically provided that rules governing the licensing and regulating of the activities of a business organization and the accounting, financial reporting and labor and employment practices of business organizations are not within the scope of the present Law. The financial reporting requirements of Business Organization shall follow the rules contained in UNMIK Regulation 2001/30 of 29 October 2001, on the Establishment of the Kosovo Board on Standards for Financial Reporting and a Regime for Financial Reporting of Business Organization or any other Applicable Law enacted for that purpose.

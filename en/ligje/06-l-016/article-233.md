@@ -1,0 +1,5 @@
+# Article 233
+Merger Decision upon Cross-Border Merger 1. At least one (1) month before the general assembly which decides on the merger, the shareholders shall be granted an opportunity to examine the merger agreement, merger plan and auditor’s opinion. The merger plan shall be made available to the representative of the employees of the Corporation or, in the absence thereof of representatives, to the employees of the Corporation at least one (1) month prior to the meeting or general meeting which decides on the merger.
+2. If all the shares of the Corporation being acquired granting voting rights belong to the acquiring Corporation, the meeting or shareholders assembly of the Corporation being acquired which decides on the merger need not approve of the merger agreement.
+3. The shareholders assembly of the Corporation being acquired may set, as a condition for approval of the merger decision that the acquiring Corporation has expressly approved of the procedure for participation by the employees of the acquiring Corporation in the management of the Corporation.
+LAW No. 06/L-016 ON BUSINESS ORGANIZATIONS

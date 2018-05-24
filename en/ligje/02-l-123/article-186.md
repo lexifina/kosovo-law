@@ -1,4 +1,0 @@
-# Article 186
-Duty of Care and Business Judgment Rule
-186.1 Every director and officer has a duty to (i) perform in those capacities in good faith and (ii) to perform and comply with the duties and obligations specified in Sections 184 and 187 and (iii) to ensure that his company-related decisions are made in the reasonable belief that he/she is acting in the company’s best interests, with due care and attention to his/her responsibilities, and with adequate consideration to the matters to be decided and on the basis of information reasonably available to him/her.
-186.2 A person who has acted as described in Section 186.1 and who makes a business judgment in good faith shall not be personally liable to the company or its shareholders for damages arising from the consequences of that judgment.

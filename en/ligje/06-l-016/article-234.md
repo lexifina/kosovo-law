@@ -1,0 +1,2 @@
+# Article 234
+Share Exchange Ratio upon Cross-Border Merger If, based on the law of the foreign state under whose jurisdiction a Corporation participating in the merger falls, the shareholders have no right to demand a refund, then a shareholder of a Corporation registered in Kosovo has the right to demand such refund only if a Corporation participating in the merger who falls under the jurisdiction of the foreign state recognises, in its merger agreement, the right to demand such refund.

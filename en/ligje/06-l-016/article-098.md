@@ -1,0 +1,9 @@
+# Article 98
+Acquisition of the Limited Liability Company’s Own Shares 1. Unless the Agreement of Incorporation restricts the right of the Limited Liability Company to acquire its own outstanding Shares, the Limited Liability Company may acquire one or more of its outstanding Shares, in whole or in part, at any time.
+2. However, the Limited Liability Company cannot acquire any of its outstanding Shares if, as a result of this acquisition, the Limited Liability Company’s total assets are reduced to such a degree that their total value is less than the total amount of the debts and obligations of the Limited Liability Company or if the Limited Liability Company will be unable to pay its debts and other obligations as they become due in the ordinary course of the Business Activity of the Limited Liability Company.
+3. Before it acquires its own outstanding Shares, the Limited Liability Company must first make a written decision that this acquisition is not prohibited by paragraph 2. of this Article. This decision must be based on financial statements prepared in accordance with applicable laws on accounting standards and principles, and in the case of valuation of non-monetary assets, based on an independent valuation.
+4. If a Limited Liability Company acquires or holds any of its own Shares, it may cancel such Shares. If the Limited Liability Company does not cancel such Shares, the Limited Liability Company is required to hold those Shares in its treasury.
+5. The Shares held in the treasury of the Limited Liability Company:
+5.1. have no voting rights whatsoever;
+5.2. are not counted for any purpose, including during the determination of the quorum or the determination of the number of outstanding Shares or the Shares with voting rights, and
+LAW No. 06/L-016 ON BUSINESS ORGANIZATIONS 5.3. have no right to receive, and shall not receive, any Distributions of dividends of the Limited Liability Company.

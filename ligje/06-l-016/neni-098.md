@@ -1,0 +1,9 @@
+# Neni 98
+Blerja e Aksioneve të Veta nga Shoqëria me Përgjegjësi të Kufizuar 1. Përveç nëse Marrëveshja e Inkorporimit e kufizon të drejtën e saj për blerjen e aksioneve të papaguara, Shoqëria me Përgjegjësi të Kufizuar mund të blejë pjesërisht ose plotësisht, në çdo kohë, një ose më shumë nga Aksionet e saj të papaguara.
+2. Megjithatë, Shoqëria me Përgjegjësi të Kufizuar nuk mund të blejë Aksionet e saj të papaguara nëse për shkak të kësaj blerje, asetet e përgjithshme të saj do të reduktohen deri në atë shkallë sa vlera e tyre e përgjithshme është më të ulët se shuma e përgjithshme e borxheve dhe detyrimeve të saj ose nëse Shoqëria me Përgjegjësi të Kufizuar nuk do të jetë në gjendje që t’i paguajë borxhet dhe detyrimet e tjera të cilat maturohen gjatë ushtrimit të veprimtarisë së zakonshme ekonomike.
+3. Para se të blejë aksionet e saj të papaguara, Shoqëria me përgjegjësi të Kufizuar së pari duhet të vendosë më shkrim se blerja nuk është e ndalur sipas paragrafit 2 të këtij neni. Ky vendim duhet të bazohet në pasqyrat financiare të përgatitura në pajtim me ligjet në fuqi që përcaktojnë standardet dhe parimet e kontabilitetit, dhe në rast të vlerësimit të aseteve jo- monetare, në bazë të një vlerësimi të pavarur.
+4. Nëse Shoqëria me Përgjegjësi të Kufizuar blen ose mban ndonjë aksion të saj, ajo mund ta anulojë aksionin. Nëse Shoqëria me Përgjegjësi të Kufizuar nuk e anulon këtë aksion, ajo duhet ta mbajë atë në thesarin e saj.
+5. Aksionet që mbahen në thesarin e Shoqërisë me Përgjegjësi të Kufizuar:
+5.1. nuk kanë kurrfarë te drejte të votës;
+5.2. nuk numërohen për çfarëdo qëllimi, duke përfshirë gjatë përcaktimit të kuorumit ose përcaktimit të numrit të aksioneve të papaguara ose Aksioneve me të drejtë vote; dhe 5.3. nuk kanë të drejtë, dhe nuk marrin pjesë në shpërndarjet e dividendëve të Shoqërisë me Përgjegjësi të Kufizuar.
+LIGJI Nr. 06/L -016 PËR SHOQËRITË TREGTARE

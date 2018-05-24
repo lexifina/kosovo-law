@@ -1,0 +1,12 @@
+# Article 190
+Voting in Person or by Proxy 1. A shareholder may vote his shares either in person or by proxy as provided for in paragraph 3. of this Article.
+2. Except where paragraph 2. of Article 192 of this Law applies, shares held by a Business Organization or legal person may be voted by an authorized representative of such Business Organization or legal person or the duly designated proxy of such authorized representative.
+3. A shareholder may appoint a proxy to vote his shares by providing such proxy with a written designation of proxy signed by the shareholder or, if the shareholder is a Business Organization or legal person, an authorized representative of such Business Organization or legal person. Such written designation of proxy must clearly state that the proxy shall have the power to vote the shareholder’s shares.
+4. Signed copies of the written designation of proxy must be delivered to the proxy and to the Joint Stock Company Secretary or other relevant officer of the Joint Stock Company prior or at the beginning of the assembly. Such a designation of proxy may contain restrictions on the proxy’s authority to vote the shares, including but not limited to directions on how the shares must be voted at a particular assembly. If the designation of proxy does not contain such restrictions or directions, the proxy may vote the shares as he wishes.
+5. A member of the Board of Directors, or an officer or senior manager of the concerned Joint Stock Company may not act as a proxy for a shareholder who is simultaneously an employee of that Joint Stock Company.
+6. A designation of proxy shall expire on the earlier of:
+6.1. the expiration date specified therein, if any; or 6.2. the date that is six (6) months from the date the designation of proxy is issued; or 6.3. if applicable, the moment the person who provided the designation of proxy revokes such designation of proxy in any manner provided for by paragraph 7. of this Article.
+7. A person who has provided another person with a designation of proxy may revoke that designation at any time by either by:
+7.1. delivering a revocation in writing to the to the Joint Stock Company secretary or other relevant officer of the Joint Stock Company prior to the beginning of the assembly; or 7.2. by attending the concerned assembly and voting the concerned shares in person.
+8. A revocation of a designation of proxy shall not render invalid any vote that was cast by the proxy prior to such revocation, if such vote was valid when cast.
+LAW No. 06/L-016 ON BUSINESS ORGANIZATIONS

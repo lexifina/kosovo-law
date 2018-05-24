@@ -1,3 +1,0 @@
-# Article 111
-Duty to Maintain Books and Records and Provide Access
-The managing director(s) of a company shall have the duty (i) to prepare and maintain the company’s books and records in accordance with all applicable Laws and regulations, (ii) to prepare an annual balance sheet and a written report on the management of the company and to present those to the owners at the end of each financial year of the company, and (iii) to provide, during normal business hours, routine and unobstructed access to all records, books and reports of or regarding the company to any owner who requests such access for the purpose of reviewing and/or copying such books, records and reports.

@@ -1,0 +1,13 @@
+## KAPITULLI XIII
+## SHPËRBËRJA E SHOQËRISË AKSIONARE DHE VENDIMI PËR INICIMIN E PROCEDURËS SË FALIMENTIMIT
+# Neni 210
+Shkaqet e Shpërbërjes Vullnetare ose Inicimit të Procedurës së Falimentimit 1. Shoqëria Aksionare do të shpërbëhet, dhe veprimtaria e saj ekonomike do të përmbyllet, në rast të:
+1.1. skadimit të kohëzgjatjes nëse është përcaktuar me Statut ose ndonjë rrethane tjetër të përcaktuar në Statutin e Shoqërisë Aksionare që mund të shkaktojë shpërbërjen ose përfundimin e ekzistencës;
+1.2. vendimit të kuvendit të aksionarëve të Shoqërisë Aksionare për shpërbërjen vullnetare të Shoqërisë Aksionare;
+2. Kuvendi i Aksionarëve miraton inicimin e procedurës sipas ligjit për falimentimin ose një ligji tjetër të aplikueshëm.
+3. Nëse Shpërbërja e Shoqërisë Aksionare bëhet sipas nën-paragrafëve 1.1 ose 1.2 të paragrafit 1 të këtij neni, veprimtaria e Shoqërisë Aksionare përmbyllet dhe asetet shpërndahen sipas këtij neni dhe nenit 211 të këtij ligji.
+4. Bordi i Drejtorëve i Shoqërisë Aksionare apo kuvendi i aksionarëve duhet të propozojë shpërbërjen vullnetare ose inicimin e procedurës së falimentimit dhe propozimin duhet ta dorëzojë për miratim në kuvendin e aksionarëve në një mbledhje vjetore ose të jashtëzakonshme të kuvendit të thirrur për këtë çështje. Propozimi për shpërbërjen vullnetare duhet të përmbajë një plan që përfshin, ndër të tjera, procedurat të cilat duhet të ndiqen, orarin dhe periudhat kohore për ndërmarrjen e aktiviteteve të shpërbërjes vullnetare, si dhe procedurat për shpërndarjen ndaj aksionarëve të aseteve të mbetura të Shoqërisë Aksionare pas përmbushjes së kërkesave të kreditorëve.
+5. Njoftimi me shkrim së bashku me propozimin duhet t’u dërgohet të gjithë aksionarëve që kanë të drejtë pjesëmarrje dhe vote në kuvend.
+6. Propozimi miratohet me votën pohuese të së paku dy të tretave të aksioneve që kanë të drejtë vote për propozimin për shpërbërje vullnetare ose inicimin e procedurës së falimentimit. Propozimi konsiderohet i miratuar nëse në favor të tij votojnë të paktën dy të tretat e aksioneve që kanë të drejtë vote në këtë propozim si dhe dy të tretat (2/3) e aksioneve në secilin grup të aksioneve që ka të drejtë të votimit grupor për propozimin e shpërbërjes vullnetare ose inicimin e procedurës së falimentimit.
+7. Statuti i Shoqërisë Aksionare mund ta zëvendësojë votimin me dy të tretat (2/3) i cili kërkohet sipas paragrafit 6 të këtij neni, duke përcaktuar çfarëdo metode të votimit që e tejkalon dy të tretat (2/3) e votave të aksioneve që kanë të drejtë vote në çështje dhe jo më pak se dy të tretat (2/3) e aksioneve të secilit grup votues që ka të drejtë në votim grupor mbi propozimin.
+LIGJI Nr. 06/L -016 PËR SHOQËRITË TREGTARE

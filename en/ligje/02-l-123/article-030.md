@@ -1,9 +1,0 @@
-# Article 30
-Amendments to the General Partnership Memorandum
-30.1 If there is any change in any information that has been provided to the Registry in connection with the registration of a general partnership, or if the general partners desire to change any such information, the general partners shall duly adopt a resolution authorizing an amendment to the memorandum. The resolution shall also instruct an authorized person to immediately sign and submit to the Registry a “notice of amendment”, which shall:
-a) specify the official name of the partnership and its registration number, b) set forth the text of each amendment;
-c) specify the date of adoption of each amendment by the general partners;
-d) include a statement certifying that the amendment was duly approved by the general partners in a manner that is consistent with (i) the present Law and (ii) the general partnership agreement, if any; and e) include a statement affirming that the person signing and submitting such notice (i) is a general partner or an “authorized person” of a general partner and (ii) that such person has been duly authorized to sign and submit such notice to the Registry.
-30.2 The person signing and submitting the notice of amendment shall attach to the notice: (i) a copy of the resolution and (ii) the full text of the general partnership memorandum as amended.
-30.3 If the amendment involves a change in the name of the registered agent of the general partnership, the person signing and submitting the notice of amendment must attach the written consent of the new registered agent indicating the new registered agent’s consent to serve in such capacity. Such written consent must be signed by the registered agent. If the registered agent is a business organization, it must be signed an authorized person of such business organization.
-30.4 The amendment shall become effective upon the submission of the notice and all required attachments.

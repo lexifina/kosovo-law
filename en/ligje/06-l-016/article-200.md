@@ -1,0 +1,2 @@
+# Article 200
+Registration and Entry into Force of an Amendment Upon adoption of an amendment to a Joint Stock Company’s charter, the Joint Stock Company shall submit such amendments and the entire charter incorporating the amendments at the KBRA pursuant to Part Two of the present Law. The amendment shall become effective after its publication by the KBRA as provided in Part Two of the present Law.

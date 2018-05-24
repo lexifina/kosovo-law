@@ -1,4 +1,0 @@
-# Neni 138
-Rregulloret
-138.1 Shoqëria aksionare duhet të ketë një komplet të rregulloreve të cilat përmbajnë dispozita për menaxhimin dhe funksionimin e shoqërisë. Si shembull, por pa u kufizuar, rregulloret mund të përmbajnë dispozita në lidhje me (i) përcaktimin e kohës, vendit dhe procedurave për mbledhjet e aksionarëve dhe bordit të drejtorëve, (ii) të drejtat dhe procedurat të cilat duhet të zhvillohen nga shoqëria gjatë votimit të aksionarëve ose drejtorëve në mbledhje, (iii) titujt dhe detyrat specifike të zyrtarëve dhe drejtorëve të shoqërisë, dhe (iv) formularë për certifikatat e aksioneve.
-138.2 Rregulloret mund të miratohen, ndryshohen ose revokohen nga aksionarët ose bordi i drejtorëve, përveç nëse këto autorizime janë rezervuar vetëm për aksionarët në statutin e shoqërisë. Asnjë rregullore e miratuar nga aksionarët nuk mund të ndryshohet ose revokohen nga bordi i drejtorëve, përveç nëse kështu është përcaktuar në rregullore.

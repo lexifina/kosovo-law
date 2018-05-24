@@ -1,0 +1,6 @@
+# Article 171
+Meetings and Notice of Meetings 1. The board of directors shall:
+1.1. hold a regular meeting, to be known as its annual meeting, immediately following each annual shareholder assembly. Other regular meetings shall be held at such times and places as may be determined by the board at its annual meeting or at another meeting of the board of which all directors shall have been given notice. No notice of regular meetings need be given except as the board may require.
+LAW No. 06/L-016 ON BUSINESS ORGANIZATIONS 1.2. hold at least two (2) board meetings annually for Joint Stock Companies.
+2. Extraordinary meetings of the board of directors may be called at any time by the chairman of the board, or, in the event of his failure to do so, by any director at the written request of any director made to the chairman. The person calling an extraordinary meeting shall give notice of the time and place of the meeting.
+3. Attendance of a director at any meeting shall constitute a waiver of any required notice of such meeting except where a director attends a meeting for the express purpose of objecting to the transaction of any business because the meeting was not lawfully called or convened, and states this at the beginning of the meeting.

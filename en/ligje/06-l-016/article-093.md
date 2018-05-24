@@ -1,0 +1,11 @@
+# Article 93
+Optional Provisions on Restrictions of a Transfer 1. The Charter of the Limited Liability Company may include, one or more of the restrictions on the transfer of Shares specified in paragraph 2. of this Article or similar restrictions. If these restrictions are included in the Charter of the Limited Liability Company, the provisions establishing these restrictions or similar restrictions may be worded in any manner acceptable to the Shareholders. These restrictions or similar restrictions on the transfer are not enforced unless they are expressly incorporated into the Charter of the Limited Liability Company.
+2. The Charter of the Limited Liability Company may provide that a Share must not be voluntarily or involuntarily transferred or pledged except when:
+2.1. the transfer has been approved in writing by all of the Shareholders of the Limited Liability Company;
+2.2. the transfer is made to the Limited Liability Company or another existing Shareholder;
+2.3. the transfer is made to the spouse, parents, legal heirs or the spouse of any legal heirs, or brothers or sisters;
+2.4. the transfer is made to a legal representative of the Shareholder upon the Shareholder’s death, or upon dissolution when the Shareholder is a Business Organization or legal person;
+2.5. the transfer is made to an Authorized Representative in a Bankruptcy Procedure;
+2.6. the transfer is made based on the existence of a pledge on the Share as security for a loan or other obligation of the Shareholder, if the pledge agreement;
+2.6.1. expressly provides that the pledgee has no voting or management rights in the Limited Liability Company or other competences established from the pledge, 2.6.2. contains a written agreement by the pledgee that he is subject to the Charter of the Limited Liability Company if he becomes the owner of the pledged Share; and 2.6.3. it has been approved by all the other Shareholders;
+LAW No. 06/L-016 ON BUSINESS ORGANIZATIONS 2.7. the transfer is made in compliance with the provisions of the Charter of the Limited Liability Company which includes the provisions specified or permitted by Article 94 of this Law; or 2.8. the transfer is made in case of a merger, according to Part Eight of this Law.

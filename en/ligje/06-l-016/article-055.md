@@ -1,0 +1,3 @@
+# Article 55
+Profits, Losses, Allocations and Distributions of Dividends 1. Unless the General Partnership Agreement specifies otherwise, all the General Partners have the right to an equal Share of all profits, losses, allocations and dividend distributions of the General Partnership.
+2. Unless the General Partnership Agreement specifies otherwise, within the period of thirty (30) days from the end of each calendar year, the General Partnership must formally calculate and record all the profits or losses incurred in that year and divide the percentage of profits or losses in the accounts of the General Partners.

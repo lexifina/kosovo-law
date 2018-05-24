@@ -1,0 +1,8 @@
+# Article 48
+Unlimited Liability, No Legal Personality 1. A Person may have only one Individual Business. A Person who is the owner of an Individual Business, shall have unlimited personal liability for all debts and other obligations incurred or imposed by Law or a contract, on the Individual Business. This liability is unlimited and extends to all property and assets of any type directly or indirectly owned by this Person, regardless of whether such property/assets are used for business purposes or for personal or household purposes, except for the property and assets specified by the applicable law on enforcement procedure, and when:
+1.1. a contract which has created the liability expressly excludes properties or assets from liability;
+LAW No. 06/L-016 ON BUSINESS ORGANIZATIONS 1.2. the Person or Business Organization who has claims has agreed that such assets or property are not subject to such claims.
+2. Property or assets shall be considered to be indirectly owned by a person who owns an Individual Business if:
+2.1. this person can control the use or disposition of such property or assets; and 2.2. there is sufficient evidence to conclude that another Person or Business Organization has been formally named as the principal owner for the purpose of protecting property or assets from exposure to liability of the person owning an individual business.
+3. An Individual Business is not a legal person. Nevertheless, it may enter into a contract, own property and sue or be sued in its own name or in the name of its owner.
+4. An Individual Business may conduct its Business Activities in one or more locations. PART FOUR GENERAL PARTNERSHIP

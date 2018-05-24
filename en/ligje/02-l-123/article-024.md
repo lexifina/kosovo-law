@@ -1,7 +1,0 @@
-# Article 24
-Service on or Delivery to a Business Organization
-24.1 The registered agent of a business organization shall be the Lawful agent of the business organization for the receipt of any service of process, notice, or demand that a public authority, a person or an organization is required or permitted by Law to deliver to the business organization.
-24.2 If any such service of process, notice or demand is delivered to a business organization’s registered agent, such delivery shall constitute, as a matter of Law, service on or delivery to the business organization.
-24.3 If delivery to the registered agent is not possible or reasonably practicable, such delivery may be effected by delivery to any general partner, manager, director or officer of the business organization.
-24.4 If delivery under paragraph 2 or 3 of this Article is not possible or reasonably practicable, such delivery may be effected by delivery to any of the business organization’s offices or other known places of business activity, including the physical premises specified in its registration documents as its registered office.
-24.5 Delivery shall be deemed to have been effected on the earlier of (i) the date of actual receipt or (ii) if delivery is effected through the use of the public postal authority, five (5) business days after its deposit with such authority, as evidenced by the official postmark, if the item is correctly addressed and the postage fully paid at the time of deposit.

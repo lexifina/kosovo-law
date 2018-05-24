@@ -1,0 +1,4 @@
+# Article 232
+Audit of Cross-Border Merger 1. Upon cross-border merger, an auditor shall audit the merger agreement.
+2. Upon cross-border merger, one or several auditors may be appointed to several or all of the Corporations being acquired. An auditor or auditors shall be appointed only by or with permission of a court or respective administrative agency of foreign state under whose jurisdiction one of Corporations being acquired or the acquiring Corporation falls.
+3. Based on the request of the merging Corporations, a competent court of Kosovo shall appoint the auditor or auditors specified in paragraph 2. of this Article who shall have the expertise and skills necessary for auditing a cross-border merger. The court shall also specify the procedure for and amount of remuneration for the auditor or auditors it appoints.

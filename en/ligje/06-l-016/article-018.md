@@ -1,0 +1,4 @@
+# Article 18
+Electronic Registration Services 1. For the purpose of facilitating registration procedures for Business Organization, and providing other registration related services, KBRA is authorized to initiate electronic registration of Business Organizations and provide other electronic registration services.
+2. Electronic registration activities and other registration services shall be conducted by using electronic means and devices, which guarantee the authenticity of origin and inviolability of the content of documents in electronic format.
+3. The Ministry, through a sub-legal act, shall determine the conditions, time limits and procedures for electronic registration of Business Organizations and the provision of other electronic registration services by KBRA in accordance with the present law.

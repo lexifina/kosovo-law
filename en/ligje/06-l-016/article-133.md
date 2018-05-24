@@ -1,0 +1,6 @@
+# Article 133
+Authorized and Issued Shares 1. The Charter of a Joint Stock Company determines the exact number of authorized common Shares and the exact number of authorized preferred Shares, if there are preferred Shares. If more than one class of preferred Shares are authorized, the Charter must specify the exact number of each authorized class.
+2. The number of authorized Shares of any type or class can be amended only by approval and registration of an amendment of the Charter in accordance with the applicable requirements of this Law.
+3. The Joint Stock Company may only issue Shares that have been authorized by its Charter.
+4. The Joint Stock Company may issue any number of Shares of any type or class of Shares authorized by its Charter, up to the maximum number established in the Charter for that type or class.
+5. The decision to issue authorized Shares and the determination of the number, time and other conditions of issuance, can only be made by the Shareholders of the Joint Stock Company, unless this authorization is conferred to the Board of Directors by the Charter, or Bylaws of the Joint Stock Company or a Decision of the Shareholders, and only to the extent permitted by the Charter, Bylaw, or the Decision.

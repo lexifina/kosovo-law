@@ -1,0 +1,13 @@
+# Neni 162
+Autoriteti dhe Kompetencat e Bordit të Drejtorëve 1. Kompetencat e Bordit të Drejtorëve përfshijnë marrjen e vendimeve mbi të gjitha çështjet përveç vendimeve të cilat u janë rezervuar aksionarëve me ligj ose me statutin e Shoqërisë Aksionare. Duke marrë parasysh rezervimet e lartpërmendura, çështjet në vijim që bien nën fushëveprimin e Bordit të Drejtorëve:
+1.1. miratimi i planeve gjithëpërfshirëse afariste strategjike të Shoqërisë Aksionare, kontrollet e brendshme, auditimin, si dhe procedurat e menaxhimit të riskut;
+1.2. thirrja e kuvendeve vjetore dhe të jashtëzakonshme të aksionarëve;
+1.3. përgatitja e agjendës fillestare të kuvendit të aksionarëve;
+LIGJI Nr. 06/L -016 PËR SHOQËRITË TREGTARE 1.4. përcaktimi i datës për listën e aksionarëve që kanë të drejtë të marrin pjesë në kuvendin e aksionarëve;
+1.5. emetimi i aksioneve brenda kufizimeve të përcaktuara në statutin e Shoqërisë Aksionare apo në vendimet e aksionarëve për secilin lloj dhe kategori të aksionit, kur autorizimi në fjalë i është dhënë Bordit të Drejtorëve me statutin e Shoqërisë Aksionare apo me vendim të aksionarëve;
+1.6. emetimi i bondeve, mundësive për blerjen e aksioneve dhe letrave tjera me vlerë, kur ajo kompetencë i është dhënë Bordit të Drejtorëve me Statut të Shoqërisë Aksionare apo me vendim të Aksionarëve;
+1.7. punësimi i zyrtarëve/menaxherëve të lartë të Shoqërisë Aksionare dhe miratimi i kushteve të marrëveshjeve ndërmjet menaxhmentit të lartë dhe Shoqërisë Aksionare;
+1.8. vendosja e kompensimit dhe kushtet tjera të marrëveshjes me auditorin e Shoqërisë Aksionare;
+1.9. përcaktimin e shumave dhe caktimin e datave të pagesës dhe procedurat për pagesën e dividendave;
+1.10. miratimi i raportit vjetor të Shoqërisë Aksionare, raportit të bilancit vjetor dhe vlerësimeve vjetore të fitimeve dhe të humbjeve të cilat pastaj do të dorëzohen tek aksionarët për miratim; dhe 1.11. Nëse Shoqëria Aksionare ka arritur kufijtëe përcaktuar me ligjin në fuqi për raportimin financiar, Bordi i Drejtorëve angazhon auditor të jashtëm për të kryer auditimin e jashtëm të deklaratës financiare vjetore si dhe të librave e regjistrave të Shoqërisë Aksionare, si dhe raporti i auditimit i bashkëngjitet raportit vjetor të Shoqërisë Aksionare; si dhe 1.12. vendosja e të gjitha çështjeve tjera të cilat kanë të bëjnë me kompetencën ekskluzive të Bordit të Drejtorëve të përcaktuar në statutin e Shoqërisë Aksionare.
+2. Çështjet që janë në kompetencën ekskluzive të Bordit të drejtorëve të Shoqërisë Aksionare nuk mund të barten ose të vendosen nga personat tjerë ose organet tjera të Shoqërisë Aksionare.

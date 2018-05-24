@@ -1,7 +1,0 @@
-# Article 28
-Amendments to the Registration Information of a Personal Business Enterprise
-28.1 If there is any change in any information that has been provided to the Registry in connection with the registration of a “personal business enterprise,” or if the owner desires to change any such information, the owner shall amend the information by signing and submitting to the Registry a “notice of amendment” which must:
-a) specify the official name of the personal business enterprise and its registration number;
-b) set forth the text of each amendment or attach an amended version of the form required by paragraph 1 of Article 27 of this Law; and c) include a statement affirming that the person signing such notice is the owner of the personal business enterprise.
-28.2 If the notice of amendment involves a change in the name of the registered agent of the personal business enterprise, and the new registered agent is not the owner, the owner must attach the written consent of the new registered agent indicating the new registered agent’s consent to serve in such capacity. Such written consent must be signed by the registered agent. If the registered agent is a business organization, it must be signed an authorized person of such business organization.
-28.3 The amendment shall become effective upon submission of the notice and, if required, the attachment described in paragraph 2 of this Article.

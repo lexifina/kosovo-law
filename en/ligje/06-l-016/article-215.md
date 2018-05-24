@@ -1,0 +1,4 @@
+# Article 215
+Enforcement of Creditor Claims Against a Joint Stock Company under Voluntary Dissolution 1. Creditor claims against a Joint Stock Company under voluntary dissolution may be enforced:
+1.1. against the voluntarily dissolved Joint Stock Company, to the extent of its assets which have not been distributed to the shareholders; or 1.2. if all of the assets have been distributed to the shareholders in voluntary dissolution procedure, against any shareholder to the extent of his pro-rata share of the claim or of the Joint Stock Company’s assets which have been distributed to him in liquidation, whichever is less. A shareholder’s total liability for all claims under this article shall not exceed the total amount of assets of the Joint Stock Company distributed to him.
+LAW No. 06/L-016 ON BUSINESS ORGANIZATIONS PART EIGHT MERGER AND DEMERGER OF CORPORATIONS

@@ -1,0 +1,6 @@
+# Neni 113
+Vazhdimi i Veprimtarisë Ekonomike pas Inicimit të Shpërbërjes Vullnetare 1. Pas shfaqjes së rrethanave ose vendimit për shpërbërje vullnetare sipas nën-paragrafëve 1.1 ose 1.2 të paragrafit 1 të nenit 112 të këtij ligji, Shoqëria me Përgjegjësi të Kufizuar vazhdon ekzistencën njëlloj si më parë, por nuk mund të ushtrojë Veprimtari Ekonomike përveç atyre të nevojshme për shpërbërjen vullnetare dhe përmbylljen e veprimtarisë, të cilat përfshijnë:
+1.1. mbledhjen e të hollave ose aseteve që palë të ndryshme i’a kanë borxh Shoqërisë me Përgjegjësi të Kufizar;
+1.2. pagimin ose aranzhimin për plotësimin e kërkesave të kreditorëve;
+1.3 shitjen pas përmbushjes së kërkesave të nenit 114 të këtij ligji, të aseteve jo- monetare të Shoqërisë me Përgjegjësi të Kufizuar; dhe 1.4. shpërndarjen e aseteve të mbetura pas shitjes dhe përmbushjes së kërkesave të kreditorëve. Këto aktivitete ushtrohen nga drejtorët menaxhues të Shoqërisë me Përgjegjësi të Kufizuar, përveç nëse Shoqëria me Përgjegjësi të Kufizuar emëron një
+LIGJI Nr. 06/L -016 PËR SHOQËRITË TREGTARE profesionist të kualifikuar, qoftë person fizik ose juridik, për ushtrimin e këtyre aktiviteteve të cilët paguhen nga asetet monetare të Shoqërisë me Përgjegjësi të Kufizuar dhe pagesa e të cilëve trajtohet si shpenzim administrativ sipas përcaktimeve në ligjin në fuqi për falimentimin.
