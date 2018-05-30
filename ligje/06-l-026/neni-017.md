@@ -1,0 +1,6 @@
+# Neni 17
+Personat e cenueshëm 1. Qeveria do t’iu kushtojë vëmendje, trajtim dhe kujdes të veçantë personave të cenueshëm.
+LIGJI Nr. 06/L- 026 PËR AZIL 2. Nevojat e veçanta sipas këtij ligji do të përcaktohen në bazë të vlerësimit individual të secilit aplikues, refugjat, person nën mbrojtjen plotësuese apo person nën mbrojtje të përkohshme.
+3. Aplikuesit, refugjatët, personat me mbrojtje plotësuese apo personat me mbrojtje të përkohshme me nevoja të veçanta, do të kenë trajtim të veçantë në pajtim me nevojat e tyre specifike me rastin e akomodimit, ofrimit të kushteve të veçanta të pranimit, trajtimin e nevojshëm mjekësor, dhe këshillimin e nevojshëm psikosocial.
+4. Aplikuesit, refugjatët, personat me mbrojtje plotësuese apo personat me mbrojtje të përkohshme të cilët kanë qenë objekt i torturës, përdhunimit apo akteve të tjera të rënda të dhunës, do të marrin trajtimin e duhur për dëmin e shkaktuar nga akte të tilla, në veçanti mundësinë për të pasur trajtimin apo kujdesin e duhur mjekësor dhe psikologjik.
+5. Ata që punojnë me viktimat e torturës, përdhunimit apo akteve të tjera të rënda të dhunës duhet të kenë marrë ose do të marrin trajnimin e duhur në lidhje me nevojat e tyre, dhe duhet t’i përmbahen rregullave të konfidencialitetit në lidhje me ndonjë informacion që ata mund të marrin gjatë punës së tyre.

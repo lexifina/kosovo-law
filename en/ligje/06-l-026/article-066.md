@@ -1,0 +1,4 @@
+# Article 66
+Re-application for international protection 1. A person, whose application has been rejected, and decision is made final, may submit a new application for international protection.
+2. The new application according to paragraph 1. of this Article shall be examined by a preliminary examination if applicant presents new evidence related to the determining whether he has a good chance to qualify for international protection. If during the preliminary examination according to this paragraph, new facts are ascertained likely significant that the applicant can be qualified for international protection, than the re-application will be examined through a regular examination.
+3. The application which is subject to preliminary examination according to paragraph 2. of this Article shall be examined in accordance with procedural guarantees foreseen in this Law.

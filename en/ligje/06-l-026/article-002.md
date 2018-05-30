@@ -1,0 +1,2 @@
+# Article 2
+Scope This Law will apply to all foreign nationals and stateless persons who have declared intention to apply for international protection in the territory of the Republic of Kosovo, including the border in the territorial waters or in transition zones as long as they are allowed to stay in the territory of the Republic of Kosovo as an applicant for international protection, as well as their family members, if they are included in the application for international protection in accordance with this law.

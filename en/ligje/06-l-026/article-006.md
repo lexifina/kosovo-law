@@ -1,0 +1,3 @@
+# Article 6
+International protection needs arising sur place 1. A well-founded fear of being persecuted or a real risk of suffering serious harm may be based on events which have taken place since the applicants left the country of origin.
+2. A well-founded fear of being persecuted or a real risk of suffering serious harm may be based on activities which the applicant was engaged from the time of leaving the country of origin, in particular where it is established that the activities relied upon constitute the expression and continuation of convictions or orientations held in the country of origin.

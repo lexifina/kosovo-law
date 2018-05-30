@@ -1,9 +1,0 @@
-# Article 11
-Assistance for Asylum seekers
-1. The asylum seeker shall be able to apply for asylum in a language which he or she understands.
-2. Within a period of fifteen (15) days from the submission of their application for asylum, the asylum seeker will be informed in a language that they understand, about the procedure of asylum, the rights and duties of such a procedure, as well as the right to contact UNHCR and any Non-Governmental Organization which offers assistance to asylum seekers.
-3. The asylum seeker shall have the right to choose a representative who will assist them and represent them during the process of deciding on asylum, at the expense of the asylum seeker.
-4. The representative of the asylum seeker and the representative of the UNHCR office have the right to contact the asylum seeker at all times and in each phase of the procedure deciding on asylum.
-5. The Asylum seeker has the right to talk with their representative, or with the UNHCR representative at any time and to be informed of this right.
-6. The representative shall enjoy access to such information in the asylum seeker’s file as is liable to be examined by the authorities responsible for examination of request for asylum insofar as the information is relevant to the examination of the application
-7. As an exception, the representative shall not enjoy access in the applicant’s file where disclosure of information or sources would jeopardise national security, the security of the organisations or person(s) providing the information or the security of the person(s) to whom the information relates or where the investigative interests relating to the examination of applications of asylum by the competent authority or the international relations of Republic of Kosovo would be compromised. In these cases, access to the information or sources in question shall be available to the competent authority, except where such access is precluded in cases of national security.

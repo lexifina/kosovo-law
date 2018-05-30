@@ -1,0 +1,6 @@
+# Article 17
+Vulnerable persons 1. Goverment shall pay particular attention treatment and special care to the vulnerable persons.
+2. Special needs under this Law shall be determined on the basis of individual assessment of each applicant, refugee, person under subsidiary protection or person under temporary protection.
+3. Applicants, refugees, persons with subsidiary protection or persons with temporary protection with special needs, will have special treatment in accordance with their specific needs in the case of accommodation, offering special reception conditions, the necessary medical treatment and the necessary psychosocial counseling.
+LAW No. 06/L-026 ON ASYLUM 4. Applicants, refugees, persons with subsidiary protection or persons with temporary protection who have been subjected to torture, rape or other serious forms of violence will receive the necessary treatment for the damage caused by such acts, in particular access to appropriate medical and psychological treatment or care.
+5. Those working with victims of torture, rape or other serious acts of violence shall have had and shall continue to receive appropriate training concerning their needs, and must adhere to the confidentiality rules in relation to any information they can obtain in their work.

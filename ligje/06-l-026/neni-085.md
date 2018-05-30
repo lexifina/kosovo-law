@@ -1,0 +1,9 @@
+# Neni 85
+Kthimi
+1. Republika e Kosovës do të ndërmarrë masat e nevojshme për t’ua bërë të mundur kthimin vullnetarë personave nën mbrojtje plotësuese ose atyre të cilëve mbrojtja e përkohshme iu ka përfunduar. Republika e Kosovës do të sigurohet se dispozitat që rregullojnë kthimin vullnetarë të personave nën mbrojtje të përkohshme lehtësojnë kthimin e tyre duke respektuar dinjitetin njerëzor. Republika e Kosovës do të sigurohet se vendimi lidhur me kthimin e këtyre personave është marrë duke njohur plotësisht faktet.
+2. Republika e Kosovës do të ndërmarrë të gjitha masat e nevojshme në mënyrë që kthimi
+LIGJI Nr. 06/L- 026 PËR AZIL me forcë i personave të cilëve afati i mbrojtjes së përkohshme iu ka përfunduar apo iu është ndërprerë të jetë në pajtim me respektimin e dinjitetit njerëzor.
+3. Republika e Kosovës do të sigurohet se vendimi lidhur me kthimin është marrë në bazë të njohurive faktike.
+4. Në rastet e kthimit me forcë, Republika e Kosovës duhet të marr në konsideratë ndonjë arsye bindëse humanitare, e cila mund ta bëjë kthimin e pamundur ose të paarsyeshëm në raste të veçanta.
+5. Republika e Kosovës do të marrë masa të nevojshme në lidhje me kushtet e banimit të personave të cilët kanë gëzuar mbrojtje të përkohshme dhe që nuk mund, duke pasur parasysh gjendjen e tyre shëndetësore, në mënyrë të arsyeshme të pritet që të udhëtojnë. Këtu hyjnë kategoria e personave të cilët vuajnë nga pasoja serioze negative, nëse trajtimi i tyre ndërpritet. Ata nuk mund të dëbohen për aq kohë sa kjo situatë vazhdon.
+6. Për aq kohë kur mbrojtja e përkohshme nuk ka përfunduar, Republika e Kosovës duhet që në bazë të rrethanave që mbizotërojnë në vendin e origjinës, t’iu japë konsideratë më të favorshme kërkesave nga personat të cilët kanë gëzuar mbrojtje të përkohshme dhe kanë ushtruar të drejtën e tyre për një kthim vullnetarë në shtetin pritës.

@@ -1,0 +1,5 @@
+# Neni 5
+Ndalimi i dëbimit ose i kthimit (Non -refoulement)
+1. Republika e Kosovës nuk duhet ta dëbojë ose ta kthejë aplikuesin, refugjatin, personin nën mbrojtje plotësuese apo personin nën mbrojtje të përkohshme në asnjë mënyrë në kufijtë e territoreve, ku do t’i kërcënohet jeta apo liria e tij për arsye të racës, religjionit, përkatësisë kombëtare, anëtarësisë në një grup të caktuar shoqëror apo bindjeve të tij politike.
+LIGJI Nr. 06/L- 026 PËR AZIL 2. Përfitimet nga paragrafi 1. i këtij neni nuk do të mund të kërkohen nga një aplikues refugjat, person me mbrojtje plotësuese apo person nën mbrojtje të përkohshme, për të cilin ka arsye të forta të mendohet se ai paraqet rrezik për sigurinë e Republikës së Kosovës apo i cili duke qenë i dënuar me vendim të formës së prerë për një krim veçanërisht të rëndë, paraqet rrezik për sigurinë e Republikës së Kosovës.
+3. Në rastet nga paragrafi 2. i këtij neni, leja e qëndrimit do të revokohet për një person, por nuk do të kthehet, të dëbohet ose do të ekstradohet për shkaqet që rrjedhin nga e drejta për jetë dhe ndalimi i torturës, trajtimi mizor, çnjerëzor, poshtërues ose ndëshkimi.

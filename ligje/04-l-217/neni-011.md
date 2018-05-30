@@ -1,9 +1,0 @@
-# Neni 11
-Ndihma për azilkërkuesit
-1. Azilkërkuesi mund të kërkojë azil në një gjuhë të cilën ai ose ajo e kupton.
-2. Azilkërkuesi në një afat pesëmbëdhjetë (15) ditor që nga paraqitja e kërkesës për azil do të informohet në një gjuhë të cilën e kupton lidhur me procedurën e azilit, të drejtat dhe detyrimet në procedurën e tillë, si dhe për të drejtën të kontaktoj UNHCR-në dhe ndonjë Organizatë Joqeveritare të cilat iu ofrojnë ndihmë azilkërkuesve.
-3. Azilkërkuesi ka të drejtë të zgjedh një përfaqësues, i cili do ta ndihmoj dhe përfaqësoj atë gjatë procedurës për përcaktimin e azilit, me shpenzime të azilkërkuesit.
-4. Përfaqësuesi i azilkërkuesit si dhe përfaqësuesi i Zyrës së UNHCR-së, kanë të drejtë të kontaktojnë azilkërkuesin në çdo kohë dhe në secilën fazë të procedurës për përcaktimin e azilit.
-5. Azilkërkuesi ka të drejtë të flas me përfaqësuesin e tij ose përfaqësuesin e UNHCR-së në çdo kohë, si dhe të jetë i informuar për këtë të drejtë.
-6. Përfaqësuesi gëzon qasje në informacion në dosjen e azilkërkuesit, siç i lejohet autoritetit të përcaktuar për të shqyrtuar kërkesën për azil, për aq sa është i rëndësishëm informacioni për shqyrtimin e kërkesës.
-7. Përjashtimisht përfaqësuesi nuk do e gëzoj të drejtën në dosjen e azilkërkuesit kur zbulimi i informatave ose burimeve do të rrezikonte sigurinë kombëtare, sigurinë e organizatave apo personit/personave që ofrojnë informacionin, sigurinë e personit/personave të cilëve u referohet informacioni ose kur interesat e hetimeve në lidhje me shqyrtimin e kërkesave të azilit nga organi kompetent ose marrëdhëniet ndërkombëtare të Republikës së Kosovës, do të rrezikoheshin. Në këto raste, qasja në informata ose burime në fjalë do të jetë në dispozicion të organit kompetent me përjashtim kur qasja e tillë është përjashtuar për shkak të sigurisë kombëtare.

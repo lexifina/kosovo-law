@@ -1,0 +1,2 @@
+# Neni 2
+Fushëveprimi Ky ligj do të zbatohet për të gjithë shtetasit e huaj dhe personat pa shtetësi të cilët kanë deklaruar qëllimin për të aplikuar për mbrojtje ndërkombëtare në territorin e Republikës së Kosovës, duke përfshirë kufirin në ujërat territoriale ose në zonat e transitit, për aq kohë sa atyre u lejohet të qëndrojnë në territorin e Republikës së Kosovës si aplikues për mbrojtje ndërkombëtare, si dhe për anëtarët e familjes, në qoftë se ata janë përfshirë në aplikacionin e tillë për mbrojtje ndërkombëtare në përputhje me këtë ligj.

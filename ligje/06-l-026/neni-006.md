@@ -1,0 +1,3 @@
+# Neni 6
+Nevoja e mbrojtjes ndërkombëtare që lind sur place 1. Frika e bazuar mirë për persekutim apo rreziku real i përjetimit të lëndimit serioz mund të bazohet në ngjarjet të cilat kanë ndodhur që nga koha kur aplikuesi e ka lëshuar vendin e origjinës.
+2. Frika e bazuar mirë për persekutim apo rreziku real i përjetimit të cenimit serioz mund të bazohet në aktivitetet në të cilat aplikuesi ishte angazhuar që nga koha e lëshimit të vendit të origjinës, në veçanti kur konstatohet që aktivitetet në fjalë paraqesin shprehje dhe vazhdimësi të bindjeve apo orientimeve që mbizotërojnë në vendin e origjinës.

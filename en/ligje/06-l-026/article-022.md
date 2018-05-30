@@ -1,0 +1,7 @@
+# Article 22
+Safe third country 1. Republic of Kosovo may apply the concept of the safe third country only after the competent authority has considered that the person seeking international protection in the third country concerned will be treated in accordance with the following principles:
+1.1. life and liberty are not threatened on the basis of race, religion, nationality, membership of a particular social group or political opinion;
+1.2. there is no risk of serious harm under the refugee definition and subsidiary protection;
+1.3 respect the principle of non-refoulement in accordance with the Geneva Convention;
+1.4. respect the prohibition of removal, in case of violation of the rights to freedom from torture and cruel, inhuman and degrading treatment under international law; and 1.5. the possibility exists to request refugee status and, if the person is found to be a refugee, receives protection in accordance with the Geneva Convention;
+2. The fact whether have been met the conditions to implement the concept of the third safe country shall be evaluated for each application separately, assessing whether a country meets the conditions referred to in paragraph 1. of this Article and if there is a connection between that country and the applicant, on the basis of which reasonably could be expected that he/she may seek international protection there, taking into account all the facts and circumstances of his/ her application.

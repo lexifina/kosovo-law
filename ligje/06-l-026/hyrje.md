@@ -1,0 +1,1 @@
+LIGJI Nr. 06/L- 026 PËR AZIL LIGJI NR. 06/L- 026 PËR AZIL Kuvendi i Republikës së Kosovës, Në mbështetje të nenit 65 (1) të Kushtetutës së Republikës së Kosovës, Miraton: LIGJ PËR AZIL
