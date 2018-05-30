@@ -1,0 +1,2 @@
+# Article 2
+Provisions of the Agreement on the State Border between the Republic of Kosovo and Montenegro, signed in Vienna, on 26 August 2015, if new legal arguments are provided, can be amended and supplemented with the consent of the parties. Provisions of this Agreement can be changed following the same procedure envisaged for its adoption. With the consent of parties, international Arbitration can be sought for changing provisions of the agreement.

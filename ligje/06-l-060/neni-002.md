@@ -1,0 +1,2 @@
+# Neni 2
+Dispozitat e Marrëveshjes për Kufirin Shtetëror në mes të Republikës së Kosovës dhe Malit të Zi, e nënshkruar në Vjenë me datë 26 gusht 2015, nëse ka fakte të reja ligjore, mund të ndryshohen dhe plotësohen me pëlqimin e palëve. Dispozitat e kësaj marrëveshje mund të ndryshohen sipas procedurës së njëjtë të paraparë për miratim. Me pajtimin e palëve, për ndryshimin e dispozitave të marrëveshjes mund të kërkohet edhe Arbitrazh ndërkombëtar.
