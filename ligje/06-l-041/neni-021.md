@@ -1,0 +1,3 @@
+# Neni 21
+Ndryshimet në emërim 1. Atëherë kur autoriteti emërues ka konstatuar apo është informuar që një trup i emëruar nuk është duke vazhduar t’i përmbushë kërkesat e përcaktuara në nenin 15 të këtij ligji apo që nuk po arrin të përmbushë obligimet e tij, ai kufizon, pezullon apo tërheqë emërimin, ashtu siç është e përshtatshme, varësisht nga shkalla e dështimit për të plotësuar këto kërkesa apo obligime.
+2. Në rast të kufizimit, pezullimit apo tërheqjes së emërimit, apo kur trupi i emëruar ndërprenë aktivitetin e tij, autoriteti emërues ndërmerr hapat e duhur për të siguruar që dosjet e atij trupi procedohen nga një tjetër trup i emëruar apo mbahen në dispozicion të autoritetit emërues, si dhe të inspektoratit kompetent me kërkesë të tyre.

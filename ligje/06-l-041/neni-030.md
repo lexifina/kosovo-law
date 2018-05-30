@@ -1,0 +1,3 @@
+# Neni 30
+Notifikimi i rregulloreve teknike sipas marrëveshjeve ndërkombëtare 1. Ministria përgjegjëse për çështjet e tregtisë dhe industrisë, në përputhje me rregullat e marrëveshjeve të ratifikuara ndërkombëtare të nënshkruara nga Republika e Kosovës, notifikon tek palët tjera sipas marrëveshjeve të tilla, rregulloret teknike që janë duke u hartuar dhe aktivitetet e përkatëse për vlerësimin e konformitetit në Republikën e Kosovës.
+2. Procedura e notifikimit të rregulloreve teknike dhe aktiviteteve për vlerësim të konformitetit të përcaktuara në paragrafin 1 të këtij neni rregullohet me rregullore të miratuar nga Qeveria e Republikës së Kosovës.

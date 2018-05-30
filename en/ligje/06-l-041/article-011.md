@@ -1,0 +1,2 @@
+# Article 11
+Declaration of conformity If a technical regulation requires a statement by the manufacturer that fulfilment of the requirements relating to a product has been demonstrated (hereinafter: declaration of conformity), the regulation shall provide that a single declaration shall be drawn up in respect of all legal acts applicable to the product containing all information required for the identification of the legislation to which the declaration relates, and giving the publication references of the acts concerned.

@@ -1,0 +1,3 @@
+# Article 16
+Presumption of conformity 1. Where a conformity assessment body demonstrates its conformity with the criteria laid down in the relevant Kosovo harmonized standards or parts thereof the references of which have been published in the Official Gazette of Kosovo, adopting relevant European harmonized standards, it shall be presumed to comply with the requirements set out in Article 15 of this Law in so far as the applicable harmonised standards cover those requirements.
+LAW No. 06/L-041 ON TECHNICAL REQUIREMENTS FOR PRODUCTS AND CONFORMITY ASSESSMENT 2. It is required by a specific technical regulation that the conformity with the criteria stated in paragraph 1. of this Article, has to be proven exclusively by obtaining an accreditation certificate.

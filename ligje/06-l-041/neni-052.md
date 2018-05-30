@@ -1,0 +1,9 @@
+# Neni 52
+Obligimet e tjera për informim 1. Trupi koordinues do të informoj Komisionin për autoritetet e mbikëqyrjes inspektuese dhe fushat e tyre të kompetencës.
+2. Trupi koordinues do t’i komunikojë programin e përgjithshëm të mbikëqyrjes së tregut shteteve tjera anëtare dhe Komisionit.
+3. Trupi koordinues do t’i komunikojë Shteteve të tjera anëtare dhe Komisionit për rishikimin dhe vlerësimin e funksionimit të aktiviteteve mbikëqyrëse të Kosovës dhe rezultatet e saj.
+4. Kur inspektorati kompetent merr vendim qe të tërheq një produkt të prodhuar nga një Shtet anëtar tjetër, trupi koordinues do të informoj operatorin ekonomik në adresën e treguar në produktin në fjalë ose në dokumentin shoqërues të atij produkti.
+5. Trupi koordinues do të sigurojë bashkëpunim efikas dhe shkëmbimin e informatave mes autoriteteve të mbikëqyrjes inspektuese dhe autoriteteve të mbikëqyrjes inspektuese të Shteteve anëtare tjera si dhe mes autoriteteve të tyre, Komisionit dhe agjencive përkatëse të Komunitetit në lidhje me programet e tyre të mbikëqyrjes inspektuese dhe të gjitha çështjet që lidhen me produktet që paraqesin rreziqet.
+6. Në zbatim të paragrafit 5 të këtij neni, trupi koordinues do t’i mbështet autoritetet e mbikëqyrjes inspektuese të Shteteve anëtare të tjera deri në një masë adekuate duke u dhënë informata ose dokumentacion, duke kryer hetimet e duhura ose çfarëdo mase tjetër të përshtatshme dhe duke marrë pjesë në hetimet e iniciuara në Shtetet anëtare të tjera.
+7. Çdo informacion i dhënë nga operatori ekonomik sipas nenit 48 të këtij ligji, duhet të përfshihet kur trupi koordinues njofton Shtetet anëtare tjera dhe Komisionin për gjetjet dhe veprimet e tij. Çdo informacion pasues do të identifikohet qartë sa i përket lidhjes me informacionin tashmë të ofruar.
+LIGJI Nr. 06/L -041 PËR KËRKESAT TEKNIKE PËR PRODUKTE DHE VLERËSIM TË KONFORMITETIT

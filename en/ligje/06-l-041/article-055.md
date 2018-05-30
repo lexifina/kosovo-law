@@ -1,0 +1,4 @@
+# Article 55
+Release of products 1. A product the release of which has been suspended by the Kosovo Customs pursuant to Article 54 of this Law shall be released if, within three (3) working days of the suspension of release, the Kosovo Customs have not been notified of any action taken by the competent inspectorate, and provided that all the other requirements and formalities pertaining to such release have been fulfilled.
+2. Where the competent inspectorate finds that the product in question does not present a serious risk to health and safety or cannot be regarded as being in breach of relevant legislation, that product shall be released, provided that all the other requirements and formalities pertaining to such release have been fulfilled.
+LAW No. 06/L-041 ON TECHNICAL REQUIREMENTS FOR PRODUCTS AND CONFORMITY ASSESSMENT

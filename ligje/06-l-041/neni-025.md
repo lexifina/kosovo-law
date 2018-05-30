@@ -1,0 +1,2 @@
+# Neni 25
+Rastet në të cilat obligimet e prodhuesve vlejnë për importuesit apo distributorët Importuesi apo distributori konsiderohet prodhues sipas këtij ligji dhe do i nënshtrohen obligimeve të prodhuesit sipas rregullores teknike përkatëse për produkte të veçanta, kur ai vendos një produkt në treg nën emrin apo markën tregtare të tij, kur modifikon një produkt tashmë të vendosur në treg në atë mënyrë që mund të ndikoj në përmbushjen e kërkesave teknike të përcaktuara.

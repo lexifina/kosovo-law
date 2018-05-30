@@ -1,0 +1,2 @@
+# Neni 34
+Parimi i konfidencialitetit Inspektoratet kompetente janë të detyruar që të ruajnë konfidencialitetin kur një gjë e tillë kërkohet, në mënyrë që të mbrojnë sekretet tregtare dhe të dhënat personale në pajtim me ligjin, varësisht nga kërkesa që të gjitha informatat relevante të bëhen publike deri në masën më të plotë të nevojshme për mbrojtjen e interesave të përdoruesve në kuptim të këtij ligji.

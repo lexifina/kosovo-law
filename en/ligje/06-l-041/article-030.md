@@ -1,0 +1,3 @@
+# Article 30
+Notification of technical regulations according to international agreements 1. The Ministry responsible for trade and industry issues, in accordance to the rules of ratified international agreements to which the Republic of Kosovo is a signatory, shall notify the other parties of such agreements, of the technical regulations under preparation in the Republic of Kosovo and related conformity assessment procedures.
+2. The procedure of notification of technical regulations referred to in paragraph 1. of this Article shall be governed by a regulation adopted by the Government of the Republic of Kosovo.

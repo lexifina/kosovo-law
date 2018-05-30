@@ -1,0 +1,4 @@
+# Article 17
+Subsidiaries of and subcontracting by designated bodies 1. Where a designated body subcontracts specific tasks connected with conformity assessment or has recourse to a subsidiary, it shall ensure that the subcontractor or the subsidiary meets the requirements set out in Article 15 of this Law and shall inform the designating authority accordingly.
+2. A designated body shall take full responsibility for the tasks performed by subcontractors or subsidiaries wherever these are established. Activities may be subcontracted or carried out by a subsidiary only with the agreement of the client.
+3. A designated body shall keep at the disposal of the designating authority the relevant documents concerning the assessment of the qualifications of the subcontractor or the subsidiary and the work carried out by them.

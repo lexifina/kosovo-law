@@ -1,0 +1,6 @@
+# Neni 51
+Shkëmbimi i informatave - RAPEX 1. Ku inspektorati kompetent merr apo synon të marrë një masë në përputhje me nenin 44 të këtij ligji dhe konsideron se arsyet që shtynë në marrjen e masës apo efektet e masës të shkojnë përtej territorit të Republikës së Kosovës, ai duhet menjëherë përmes trupit koordinues të njoftojnë Komisionin për këtë mase, në pajtim me paragrafin 4 të këtij neni. Ai gjithashtu do të
+LIGJI Nr. 06/L -041 PËR KËRKESAT TEKNIKE PËR PRODUKTE DHE VLERËSIM TË KONFORMITETIT informojë pa vonesë Komisionin për modifikimin ose tërheqjen e ndonjë mase të tillë.
+2. Nëse një produkt që paraqet rrezik serioz është vënë në dispozicion në treg, trupi koordinues do të njoftojë Komisionin për çfarëdo mase vullnetare të marrë dhe të komunikuara nga një operator ekonomik.
+3. Informacioni i ofruar në përputhje me paragrafët 1 dhe 2 të këtij neni do të përfshijë të gjitha të dhënat në dispozicion, në veçanti të dhënat e nevojshme për identifikimin e produktit, origjinën dhe zinxhirin furnizues të produktit, rrezikun e ndërlidhur, natyrën dhe kohëzgjatjen e masës kombëtare të vendosur si dhe çfarëdo mase vullnetare të marrë nga operatorët ekonomik.
+4. Për qëllimet e paragrafëve 1, 2 dhe 3 të këtij neni, mbikëqyrja inspektuese dhe sistemi i shkëmbimit të informacionit duhet të zbatohet ligji i veçantë për sigurinë e përgjithshme të produkteve.

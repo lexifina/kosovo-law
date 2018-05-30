@@ -1,0 +1,6 @@
+# Article 18
+Accredited in-house bodies 1. An accredited in-house body may be used to carry out conformity assessment activities for the undertaking of which it forms a part for the purpose of implementing the procedures as set out in a relevant technical regulation. That body shall constitute a separate and distinct part of the undertaking and shall not participate in the design, production, supply, installation, use or maintenance of the products it assesses. An accredited in-house boy does not need to be designated to carry out its activities.
+2. An accredited in-house body shall meet the following requirements: 2.1.it shall be accredited in accordance with the specific law on accreditation;
+2.2. the body and its personnel shall be organisationally identifiable and have reporting methods within the undertaking of which they form a part which ensure their impartiality and demonstrate it to the national accreditation body;
+2.3. neither the body nor its personnel shall be responsible for the design, manufacture, supply, installation, operation or maintenance of the products they assess nor shall they engage in any activity that might conflict with their independence of judgment or integrity in relation to their assessment activities;
+2.4. the body shall supply its services exclusively to the undertaking of which it forms a part.

@@ -1,6 +1,0 @@
-# Neni 14
-Shenja e konformitetit
-1. Në rastet kur dispozitat e nenit 1 paragrafi 1. të këtij ligji kërkojnë vendosjen e shenjës së konformitetit në produktet të cilat janë në konformitet me të gjitha dispozitat që zbatohen për ato produkte, shenja e përcaktuar e konformitetit duhet të vendoset para vendosjes së produktit në treg. Shenja e konformitetit duhet të vendoset në produktet për të cilat është e paraparë vendosja e saj dhe nuk lejohet të vendoset në produktet e tjera. Nëse nuk është e mundur që shenja e konformitetit të vendoset në produkt ose në pllakën për shenjim, atëherë kjo vendoset në paketim dhe në dokumentet shoqëruese, kur dispozita që zbatohet për atë produkt parasheh dokumente të tilla.
-2. Ministria kompetente me akt nënligjor përcakton formën, përmbajtjen, pamjen dhe mënyrën e përdorimit të shenjës së konformitetit.
-3. Me vendosjen e shenjës së konformitetit kur dispozitat kërkojnë atë, prodhuesi e merr përsipër përgjegjësinë për konformitetin e produktit me kërkesat e përcaktuara me dispozitat që zbatohen për atë produkt.
-4. Ndalohet vendosja e shenjave, simboleve apo mbishkrimeve tjera në produkte, forma dhe përmbajtja e të cilave mund të kuptohet nga pala e tretë si shenjë e konformitetit. Lejohet vendosja e shenjave tjera në produkte, me kusht që me këtë nuk zvogëlohet dukja dhe lexueshmëria e shenjës së konformitetit.

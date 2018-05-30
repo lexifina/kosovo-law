@@ -1,0 +1,11 @@
+# Neni 54
+Kontrolli i produkteve që hyjnë në treg 1. Dogana e Kosovës ka kompetencat dhe burimet e nevojshme për kryerjen në mënyrë të duhur të detyrave të tyre. Ata do të kryejnë kontrolle të përshtatshme të karakteristikave e produkteve në një shkallë përkatëse, në përputhje me parimet e përcaktuara në nenin 44 paragrafi 1 të këtij ligji, para se ato produkte të lëshohen në qarkullim të lirë.
+2. Të gjitha inspektoratet kompetente, përgjegjëse për mbikëqyrje të tregut si dhe Dogana e Kosovës përgjegjëse për kontrollin e kufijve të jashtëm do të bashkëpunojnë me njëri-tjetrin, duke ndarë informacionet e duhura për funksionet e tyre si dhe sipas nevojës.
+3. Dogana e Kosovës do të pezullojë lëshimin e një produkti në qarkullim të lirë në treg, kur në rrjedhën e kontrolleve të përcaktuara në paragrafin 1 të këtij neni, është gjetur si në vijim:
+3.1. produkti shfaq karakteristika të cilat japin shkas për të besuar se produkti kur instalohet, mirëmbahet dhe përdoret si duhet, paraqet një rrezik serioz për shëndetin, sigurinë, mjedisin ose për cilën do interes tjetër publik të përcaktuar në nenin 6, paragrafi 2 të këtij ligji;
+3.2. produkti nuk shoqërohet me dokumentacionin me shkrim ose elektronik që kërkohet nga legjislacioni përkatës apo nuk është shënjuar në përputhje me atë legjislacion;
+3.3. shenja CE është vendosur në produkt në mënyrë false ose mashtruese.
+4. Dogana e Kosovës njofton menjëherë inspektoratin kompetent për çdo pezullim nga paragrafi 3 i këtij neni.
+5. Në rastin e produkteve që prishen, Dogana e Kosovës do të mundohet për aq sa është e mundur, të sigurojë që cilado nga kërkesat që ata mund të vendosin sa i përket ruajtjes së produkteve ose parkimin e automjeteve të përdorura për transport, të jenë të përshtatshme për ruajtjen e këtyre produkteve.
+6. Në zbatim të nenit 54, 55 dhe 56 të këtij të ligji, neni 52, i këtij ligji do të zbatohen në lidhje me mekanizmat e bashkëpunimit ndërmjet doganave të Kosovës dhe autoriteteve të kontrolleve kufitare të shteteve të tjera anëtare, pa cenuar zbatimin e legjislacionit relevant duke siguruar sisteme më specifike të bashkëpunimit në mes këtyre autoriteteve.
+LIGJI Nr. 06/L -041 PËR KËRKESAT TEKNIKE PËR PRODUKTE DHE VLERËSIM TË KONFORMITETIT

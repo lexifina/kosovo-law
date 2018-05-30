@@ -1,0 +1,11 @@
+# Article 54
+Control of products entering the market 1. The Kosovo Customs shall have the powers and resources necessary for the proper performance of their tasks. They shall carry out appropriate checks on the characteristics of products on an adequate scale, in accordance with the principles set out in Article 44 paragraph
+LAW No. 06/L-041 ON TECHNICAL REQUIREMENTS FOR PRODUCTS AND CONFORMITY ASSESSMENT 1. of this Law, before those products are released for free circulation.
+2. All competent inspectorates in charge of market surveillance and Kosovo Customs in charge of external border controls shall cooperate with each other, by sharing information relevant to their functions and otherwise as appropriate.
+3. Kosovo Customs shall suspend release of a product for free circulation on the market when any of the following findings are made in the course of the checks referred to in paragraph 1. of this Article:
+3.1. the product displays characteristics which give cause to believe that the product, when properly installed, maintained and used, presents a serious risk to health, safety, the environment or any other public interest referred to in Article 6 paragraph 2. of this Law;
+3.2. the product is not accompanied by the written or electronic documentation required by the relevant legislation or is not marked in accordance with that legislation;
+3.3. the CE marking has been affixed to the product in a false or misleading manner.
+4. The Kosovo Customs shall immediately notify the competent inspectorate of any suspension from the paragraph 3. of this Article.
+5. In the case of perishable products, the Kosovo Customs shall, as far as possible, seek to ensure that any requirements they may impose with regard to the storage of products or the parking of vehicles used for transport are not incompatible with the preservation of those products.
+6. For the purposes of Articles 54, 55 and 56 of this Law, Article 52 of this Law shall apply in respect of cooperation mechanisms between Kosovo Customs and border controls authorities of other Member States, without prejudice to the application of relevant legislation providing for more specific systems of cooperation between those authorities.

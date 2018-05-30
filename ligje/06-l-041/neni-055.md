@@ -1,0 +1,3 @@
+# Neni 55
+Lejimi në qarkullim i produkteve 1. Një produkt lejimi i të cilit është pezulluar nga Dogana e Kosovës në pajtim me nenin 54 të këtij ligji, do të lejohet në qarkullim nëse brenda tri (3) ditëve të punës nga pezullimi Dogana e Kosovës nuk është njoftuar për çfarëdo veprimi të ndërmarrë nga inspektorati kompetent, dhe me kusht që të gjitha kërkesat e tjera dhe formalitetet përkatëse për lejimin e tillë janë plotësuar.
+2. Kur inspektorati kompetent konstaton se produkti në fjalë nuk paraqet rrezik serioz për shëndetin dhe sigurinë, ose konsiderohet se është në përputhje me legjislacionin përkatës, ai produkt do të lejohet në qarkullim, me kusht që të gjitha kërkesat e tjera dhe formalitetet përkatëse për lejim janë plotësuar.

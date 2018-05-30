@@ -1,0 +1,5 @@
+# Article 42
+Implementation of programme and reporting 1. Competent inspectorate shall implement the programme and adjust it, if needed, taking into account in particular the complaints and other information relevant for the implementation of the inspection surveillance affecting the assessment of the market situation.
+2. Competent inspectorate shall make an annual report on realisation of sectoral programme which in particular shall contain information on the conducted surveillance, the handling of complaints and other relevant information related to the implementation of inspection surveillance of products.
+3. The report referred to in paragraph 2. of this Article, shall be finalised by the competent inspectorate until the end of January of the current year for the previous year and delivered to the Coordination body for consolidation into a joint annual report on the inspection surveillance of products.
+4. The annual programme specified in paragraph 3. of this Article shall be published on the internet site of the Coordination body.

@@ -1,0 +1,3 @@
+# Neni 11
+Deklarata e konformitetit Nëse me rregullore teknike kërkohet hartimi i një deklarate nga prodhuesi që demonstron plotësimin e kërkesave në lidhje me një produkt (në tekstin e mëtejmë: deklaratë e konformitetit), rregullorja do të përcaktoj që një deklaratë e vetme të hartohet për të gjitha aktet ligjore të aplikueshme për produktin e që përmban të gjitha informatat e nevojshme për identifikimin e legjislacionit me të cilin ka të bëjë deklarata, duke i dhënë referencat e publikimit të akteve në fjalë.
+LIGJI Nr. 06/L -041 PËR KËRKESAT TEKNIKE PËR PRODUKTE DHE VLERËSIM TË KONFORMITETIT

@@ -1,0 +1,3 @@
+# Article 36
+Precautionary principle Competent inspectorates shall be bound to take measures as set out by this Law also in the case that there is no conclusive scientific proof regarding the risk that a product may pose, irrespective of whether the consequences of the risk are immediate or deferred, but there is an initial result of scientific research that suggests the seriousness of the risk because of potential consequences to health and safety of users, protection of property and the environment, health and safety at the workplace.
+LAW No. 06/L-041 ON TECHNICAL REQUIREMENTS FOR PRODUCTS AND CONFORMITY ASSESSMENT

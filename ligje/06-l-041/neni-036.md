@@ -1,0 +1,2 @@
+# Neni 36
+Parimi parandalues Inspektoratet kompetente janë të detyruara qe të marrin masa që përcaktohen me këtë ligj edhe në rast se nuk ka prova shkencore bindëse lidhur me rrezikun që një produkt mund të paraqesë, pavarësisht se a janë pasojat e rrezikut të menjëhershme apo të mëvonshme, përderisa ekziston një rezultat fillestar i kërkimit shkencor që tregon seriozitetin e rrezikut për shkak të pasojave të mundshme që mund të ketë për shëndetin dhe sigurinë e përdoruesve, mbrojtjen e pronës dhe mjedisit, shëndetin dhe sigurinë në vendin e punës.

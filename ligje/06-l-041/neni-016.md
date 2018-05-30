@@ -1,0 +1,3 @@
+# Neni 16
+Prezumimi i konformitetit 1. Atëherë kur trupi për vlerësimin e konformitetit demonstron konformitetin e tij me kriteret e përcaktuara në standardet e harmonizuara kosovare përkatëse apo pjesë të tyre, referencat e të cilave janë publikuar në Gazetën Zyrtare të Kosovës, të cilat adaptojnë standardet e harmonizuara Evropiane përkatëse, prezumohet që është në përputhje me kërkesat e përcaktuara në nenin 15 të këtij ligji për aq kohë sa standardet e harmonizuara të aplikueshme mbulojnë këto kërkesa.
+2. Me rregullore teknike specifike kërkohet që konformiteti me kriteret e përcaktuara në paragrafin 1 të këtij neni duhet të vërtetohet ekskluzivisht përmes certifikatës së akreditimit.

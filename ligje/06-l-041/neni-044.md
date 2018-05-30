@@ -1,0 +1,7 @@
+# Neni 44
+Kompetencat e inspektorit 1. Inspektori kryen kontrolle të përshtatshme për karakteristikat e produkteve në treg në një shkallë adekuate, me anë të kontrolleve të dokumenteve dhe sipas rastit, kontrolleve dhe testeve fizike dhe/ose laboratorike në bazë të mostrave adekuate.
+2. Gjatë kryerjes së kontrolleve dhe testeve, të specifikuara në paragrafin 1 të këtij neni, inspektori merr në konsideratë vlerësimin tashmë të kryer të rrezikut, ankesat e pranuara dhe të dhëna të tjera të rëndësishme për mbikëqyrjen inspektuese të produkteve.
+3. Operatori ekonomik i lejon inspektorit hyrjen në objektet e tij afariste dhe i ofron atij qasje në dokumentet dhe informatat e nevojshme për të vendosur gjendjen e punëve dhe për të marrë mostrat e nevojshme të produkteve.
+4. Në rastet kur operatori ekonomik paraqet raportet e testimit ose certifikatat që vërtetojnë konformitetin të cilat janë lëshuar nga një trup i akredituar i vlerësimit të konformitetit, inspektorët i trajtojnë këto raporte ose certifikata si dokumente publike, përmbajtja e të cilave konsiderohet e vërtetë derisa të vërtetohet e kundërta.
+5. Inspektorët mund të shkatërrojnë ose përndryshe t’i bëjnë të paoperueshme produktet që paraqesin rrezik serioz, kur ata e shohin të nevojshme.
+6. Inspektorati kompetent merr masat e duhura për të njoftuar përdoruesit brenda mandatit të tij në një afat kohor të përshtatshëm, për rreziqet që ata kanë identifikuar lidhur me çdo produkt në mënyrë që rreziku i lëndimit ose dëmtime të tjera të zvogëlohen.

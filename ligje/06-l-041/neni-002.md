@@ -1,0 +1,6 @@
+# Neni 2
+Fusha e zbatimit 1. Ky ligj zbatohet për të gjitha produktet, me përjashtim të produkteve të cilat janë të rregulluara me ligje të veçanta dhe rregullore teknike të miratuara në bazë të ligjeve të tilla.
+2. Nëse ligjet e veçanta dhe rregulloret teknike të referuara në paragrafin 1 të këtij neni nuk rregullojnë procedurat për emërimin e trupave për vlerësimin e konformitetit, vlefshmërinë e dokumenteve të huaja të konformitetit dhe shenjave të konformitetit, atëherë zbatohen dispozitat e këtij ligji.
+3. Dispozitat e këtij ligji të cilat rregullojnë notifikimin e trupave të emëruar për vlerësimin e konformitetit, mbajtjen e regjistrave dhe notifikimin e rregulloreve teknike gjithashtu zbatohen
+LIGJI Nr. 06/L -041 PËR KËRKESAT TEKNIKE PËR PRODUKTE DHE VLERËSIM TË KONFORMITETIT edhe për produktet të cilat janë të rregulluara me ligjet e veçanta dhe rregulloret e miratuara në bazë të ligjeve të veçanta.
+4. Zbatimi i këtij ligji nuk e ndalon inspektoratin kompetent të ndërmarrë masa më specifike, siç përcaktohet në ligjin përkatës për sigurinë e përgjithshme të produkteve. Dispozitat nga neni 53 deri 55 të këtij ligji zbatohen për aq kohë sa nuk ka dispozita të veçanta me të njëjtin objektiv në ligjet e veçanta për përputhshmërinë dhe sigurinë e produkteve.

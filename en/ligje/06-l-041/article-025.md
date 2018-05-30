@@ -1,0 +1,2 @@
+# Article 25
+Cases in which the obligations of manufacturers apply to importers or distributors An importer or distributor shall be considered a manufacturer for the purposes of this Law and he shall be subject to the obligations of the manufacturer under the technical regulation for particular product, where he places a product on the market under his name or trade mark or modifies a product already placed on the market in such a way that compliance with prescribed technical requirements may be affected.
