@@ -1,0 +1,1 @@
+LIGJI Nr. 06/L-012 PËR KRYEQYTETIN E REPUBLIKËS SË KOSOVËS, PRISHTINËN LIGJI Nr. 06/L-012 PËR KRYEQYTETIN E REPUBLIKËS SË KOSOVËS, PRISHTINËN Kuvendi i Republikës së Kosovës, Në mbështetje të nenit 65 (1) dhe nenit 13(2) të Kushtetutës së Republikës së Kosovës, Miraton: LIGJ PËR KRYEQYTETIN E REPUBLIKËS SË KOSOVËS, PRISHTINËN

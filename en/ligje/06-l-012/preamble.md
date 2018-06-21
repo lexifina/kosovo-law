@@ -1,0 +1,1 @@
+LAW No. 06/L-012 ON THE CAPITAL CITY OF THE REPUBLIC OF KOSOVO, PRISTINA LAW No. 06/L-012 ON THE CAPITAL CITY OF THE REPUBLIC OF KOSOVO, PRISTINA The Assembly of the Republic of Kosovo, Based on Article 65 (1) and Article 13 (2) of the Constitution of the Republic of Kosovo, Approves: LAW ON THE CAPITAL CITY OF THE REPUBLIC OF KOSOVO, PRISTINA
