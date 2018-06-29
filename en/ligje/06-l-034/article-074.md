@@ -1,0 +1,2 @@
+# Article 74
+Plain and intelligible language of terms of contract In the case of contracts where all or certain terms offered to the consumer are in writing, these terms must always be drafted in plain, intelligible language. Where there is doubt about the meaning of a term, the interpretation most favourable to the consumer shall prevail. This rule on interpretation shall not apply in the context of the procedures laid down in Chapter X of this Law.

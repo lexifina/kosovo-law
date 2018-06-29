@@ -1,0 +1,4 @@
+# Article 92
+Information concerning the borrowing rate 1. Where applicable, the consumer shall be informed of any change in the borrowing rate, on paper or another durable medium, before the change enters into force. The information shall state the amount of the payments to be made after the entry into force of the new borrowing rate and, if the number or frequency of the payments changes, particulars thereof.
+2. The parties may agree in the credit agreement that the information referred to in paragraph 1. of this Article is to be given to the consumer periodically in cases where the change in the borrowing rate is caused by a change in a reference rate, the new reference rate is made publicly available by appropriate means and the information concerning the new reference rate is also kept available in the premises of the creditor.
+LAW No. 06/L-034 ON CONSUMER PROTECTION

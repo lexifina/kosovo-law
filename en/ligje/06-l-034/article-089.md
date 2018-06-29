@@ -1,0 +1,3 @@
+# Article 89
+Obligation to assess the creditworthiness of the consumer 1. Before the conclusion of the credit agreement, the creditor assesses the consumer’s creditworthiness on the basis of sufficient information, where appropriate obtained from the consumer and, where applicable on the basis of a consultation of the relevant database.
+2. If the parties agree to change the total amount of credit after the conclusion of the credit agreement, the creditor updates the financial information at his disposal concerning the consumer and assesses the consumer’s creditworthiness before any significant increase in the total amount of credit.

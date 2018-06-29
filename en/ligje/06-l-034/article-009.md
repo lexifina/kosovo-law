@@ -1,0 +1,13 @@
+# Article 9
+Misleading actions 1. A commercial practice shall be regarded as misleading if it contains false information and is therefore untruthful or in any way, including overall presentation, deceives or is likely to deceive the average consumer, even if the information is factually correct, in relation to one or more of the following elements, and in either case causes or is likely to cause him to take a transactional decision that he would not have taken otherwise:
+1.1. the existence or nature of the product:
+1.2. the main characteristics of the product, such as its availability, benefits, risks, execution, composition, accessories, after-sale consumer assistance and complaint handling, method and date of manufacture or provision, delivery, fitness for purpose, usage, quantity, specification, geographical or commercial origin or the results to be expected from its use, or the results and material features of tests or checks carried out on the product;
+2. The extent of the trader’s commitments, the motives for the commercial practice and the nature of the sales process, any statement or symbol in relation to direct or indirect sponsorship or approval of the trader or the product:
+LAW No. 06/L-034 ON CONSUMER PROTECTION 2.1. the price or the manner in which the price is calculated, or the existence of a specific price advantage;
+2.2. the need for a service, part, replacement or repair;
+2.3. the nature, attributes and rights of the trader or his agent, such as his identity and assets, qualifications, prices won, status, approval, affiliation or connection and ownership of industrial, commercial and intellectual property rights;
+2.4. consumers rights, including the right to replacement or reimbursement under this law, when dealing with the aspects of selling the products to consumers and associated guarantees and/or risks that he may face.
+3. A commercial practice shall also be regarded as misleading if, in its factual context, taking account of all its features and circumstances, it causes or is likely to cause the average consumer to take a transactional decision that he would not have taken otherwise, and it involves:
+3.1. any marketing of a product, including comparative advertising, which creates confusion with any products, trademarks, trade names or other distinguishing marks of a competitor;
+3.2. non-compliance by the trader with commitments contained in codes of conduct by which the trader has undertaken to be bound, where:
+3.2.1. the commitment is not aspirational but is firm and is capable of being verified, 3.2.2. the trader indicates in a commercial practice that he is bound by the code.

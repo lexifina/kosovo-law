@@ -1,0 +1,3 @@
+# Article 43
+Omission of information on the right of withdrawal from the contract 1. If the trader has not provided the consumer with the information on the right of withdrawal as required by sub-paragraph 1.9. of Article 39 of this Law, the withdrawal period shall expire twelve (12) months from the end of the initial withdrawal period, as determined in accordance with Article 42 of this Law.
+2. If the trader has provided the consumer with the information provided for in paragraph 1. of this Article within twelve (12) months from the day referred to in Article 42 of this Law, the withdrawal period shall expire fourteen (14) days after the day upon which the consumer receives that information.

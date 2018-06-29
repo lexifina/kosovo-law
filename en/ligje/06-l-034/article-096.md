@@ -1,0 +1,5 @@
+# Article 96
+Linked credit agreements 1. Where the consumer has exercised a right of withdrawal, pursuant to the provisions of this Law concerning a contract for the supply of goods or services, the consumer shall no longer be bound by a linked credit agreement.
+2. Where the goods or services covered by a linked credit agreement are not supplied, or are supplied only in part, or are not in conformity with the contract for the supply thereof, the consumer shall have the right to pursue remedies against the creditor if the consumer has pursued his remedies against the supplier but has failed to obtain the satisfaction to which he is
+LAW No. 06/L-034 ON CONSUMER PROTECTION entitled according to the law or the contract for the supply of goods or services.
+3. This Article shall be without prejudice to any national rules rendering the creditor jointly and severally liable in respect of any claim which the consumer may have against the supplier where the purchase of goods or services from the supplier has been financed by a credit agreement.

@@ -1,0 +1,9 @@
+# Neni 66
+Pagesa e shërbimit të ofruar para tërheqjes nga kontrata 1. Nëse konsumatori ushtron të drejtën e tërheqjes nga kontrata sipas paragrafit 1 të nenit 65 të këtij ligji, nga ai mund të kërkohet të paguajë vetëm për shërbimin e ofruar nga ofruesi në përputhje me kontratën. Zbatimi i kontratës mund të fillojë vetëm atëherë pasi konsumatori të ketë dhënë miratimin e tij. Shuma e pagueshme nuk duhet të:
+1.1. tejkalojë vlerën e cila është në përpjesëtim me shkallën e shërbimit të ofruar, krahasuar me kontratën e plotë;
+1.2. në asnjë rast, të jetë e tillë që mund të interpretohet si ndëshkim.
+2. Konsumatorit nuk mund t’i kërkohet të paguajë ndonjë shumë me rastin e heqjes dorë nga kontrata e sigurimit.
+3. Ofruesi nuk mund të kërkojë nga konsumatori të paguajë çfarëdo vlere në bazë të paragrafit 1 të këtij neni përveç nëse mund të dëshmojë se konsumatori është njoftuar në mënyrën e duhur për shumën që duhet të paguajë, në përputhje me nënparagrafin 1.2.2 të paragrafit 1 të nenit 62 të këtij ligji.
+4. Ofruesi në asnjë rast nuk mund të kërkojë pagesën sipas paragrafit 1 të këtij neni nëse ka filluar zbatimin e kontratës para skadimit të periudhës së heqjes dorë të paraparë në paragrafin 1 të nenit 65 të këtij ligji.
+5. Ofruesi duhet, pa asnjë vonesë dhe jo më vonë se brenda tridhjetë (30) ditëve kalendarike, t’i kthejë konsumatorit çdo shumë që ka marrë prej tij në përputhje me kontratën në distancë, me përjashtim të shumës së përcaktuar në paragrafin 1 të këtij neni. Kjo periudhë fillon nga dita në të cilën ofruesi pranon njoftimin për tërheqje.
+6. Konsumatori i kthen ofruesit çdo shumë dhe/ose pronë që ai ka pranuar nga ofruesi pa ndonjë vonesë dhe jo më vonë se brenda tridhjetë (30) ditëve kalendarike. Kjo periudhë fillon nga dita kur konsumatori dërgon njoftimin për tërheqje nga kontrata.

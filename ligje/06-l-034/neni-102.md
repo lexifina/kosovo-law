@@ -1,0 +1,4 @@
+# Neni 102
+Detyrimet e caktuara të ndërmjetësuesve të kredisë ndaj konsumatorëve 1. Një ndërmjetësues kredie duhet të tregoj në reklamat dhe dokumentacionet e destinuara për konsumatorët shtrirjen e kompetencave të tij, në veçanti nëse ai punon vetëm me një ose më shumë kreditorë, ose si një ndërmjetësues i pavarur.
+2. Tarifa, nëse ekziston, e cila paguhet nga konsumatori tek ndërmjetësuesit e kredisë për shërbimet e tij, duhet t’i jetë shpalosur konsumatorit dhe pajtuar ndërmjet konsumatorit dhe ndërmjetësuesit të kredisë në letër ose në një tjetër medium të qëndrueshëm përpara përfundimit të marrëveshjes së kredisë.
+3. Pagesa, nëse ekziston, e cila paguhet nga konsumatori për ndërmjetësimin e kredisë për shërbimet e tij që komunikohen tek kredidhënësi nga ndërmjetësuesi i kredisë, me qëllim të llogaritjes së normës efektive vjetore të interesit.

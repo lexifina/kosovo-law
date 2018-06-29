@@ -1,0 +1,6 @@
+# Article 44
+Exercise of the right of withdrawal from the contract 1. Before the expiry of the withdrawal period, the consumer shall inform the trader of his decision to withdraw from the contract. For this purpose, the consumer may either:
+1.1. use the model withdrawal form as set out in a sub-legal act; or 1.2. make any other unequivocal statement setting out his decision to withdraw from the contract.
+LAW No. 06/L-034 ON CONSUMER PROTECTION 2. The consumer shall have exercised his right of withdrawal within the withdrawal period referred to in Article 42 and Article 43 of this Law if the communication concerning the exercise of the right of withdrawal is sent by the consumer before that period has expired.
+3. The trader may, in addition to the possibilities referred to in paragraph 1. of this Article, give the option to the consumer to electronically fill in and submit either the model withdrawal form that will be provided with a sublegal act or any other unequivocal statement on the trader’s website. In those cases the trader shall communicate to the consumer an acknowledgement of receipt of such a withdrawal on a durable medium without delay.
+4. The burden of proof of exercising the right of withdrawal in accordance with this Article shall be on the consumer.

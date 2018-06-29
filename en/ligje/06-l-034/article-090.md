@@ -1,0 +1,2 @@
+# Article 90
+Access to the Kosovo Credit Registry If the credit application is rejected on the basis of consultation of the Kosovo Credit Registry the creditor shall inform the consumer immediately and without charge of the result of such consultation and of the particulars of the Kosovo Credit Registry consulted in accordance with the legislation governing the personal data and data privacy protection.

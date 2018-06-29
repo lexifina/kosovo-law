@@ -1,5 +1,0 @@
-# Neni 49
-Detyrimet tjera për kreditë konsumuese
-1. Çdo publikim ose ofertë tjetër e shfaqur në njësitë tregtare, ku tregtari ofron produktet dhe/ose shërbime me kredi dhe me të cilën tregohet norma e interesit ose çfarëdo shifre që lidhet me koston e kredisë, përmban edhe deklarimin e normës efektive të interesit.
-2. Ekzistenca e një kontrate kredie nuk ndikon në asnjë mënyrë mbi të drejtat e konsumatorit ndaj furnizuesve të mallrave ose shërbimeve, të blera nëpërmjet një kontrate të tillë, në rastet kur mallrat ose shërbimet nuk janë furnizuar ose janë ndryshe, jo në përputhje me kushtet e kontratës për furnizimin e tyre.
-3. Kur konsumatori për blerjen e mallrave ose përfitimin e shërbimeve bëhet palë në një kontratë kredie me një person të ndryshëm nga furnizuesi i tyre dhe ekziston një lidhje e ngushtë tregtie ndërmjet kredi dhënësit dhe furnizuesit të mallit ose shërbimit, konsumatori ka të drejtën të kërkojë dëmshpërblim nga kredi dhënësi, kur mallrat ose shërbimet, objekt i kontratës së kredisë, nuk janë furnizuar ose janë ndryshe, jo në përputhje me kushtet e kontratës për furnizimin e tyre.

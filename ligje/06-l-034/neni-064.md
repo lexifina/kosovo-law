@@ -1,0 +1,5 @@
+# Neni 64
+Komunikimi i afateve dhe kushteve kontraktuale dhe të informacionit paraprak 1. Para se konsumatori të lidh çfarëdo kontrate apo oferte në distancë, ofruesi duhet t’i komunikojë konsumatorit të gjitha termat dhe kushtet kontraktuale dhe informatat e përmendura në paragrafin 1 të nenit 62 dhe nenin 63 të këtij ligji në letër apo në ndonjë tjetër medium të qëndrueshëm i cili është në dispozicion dhe i qasshëm për konsumatorin.
+2. Nëse kontrata është lidhur me kërkesën e konsumatorit duke përdorur mjete të komunikimit në distancë e cila nuk mundëson sigurimin e afateve dhe kushteve kontraktuale dhe informatat në përputhje me paragrafin 1 të këtij neni, ofruesi duhet t’i përmbush obligimet e tija sipas paragrafit 1 të këtij neni menjëherë pas lidhjes së kontratës.
+3. Në çfarëdo kohe gjatë marrëdhënies kontraktuale konsumatori ka të drejtë, me kërkesën e tij, të pranoj afatet dhe kushtet e kontratës në letër.
+4. Konsumatori ka të drejtë të ndryshoj mjetet e përdorura të komunikimit në distancë, përveç nëse kjo është në mospërputhje me kontratën e lidhur apo me natyrën e shërbimit financiar të ofruar.

@@ -1,0 +1,2 @@
+# Neni 126
+Fuqia detyrimore e vendimit të gjykatës Përgjatë procedurës së një veprimi individual nga konsumatori, sic parashihet në paragrafin 3 të nenit 122 të këtij ligji, kundër të njëjtit të paditur krahas procedurës mbi padinë kolektive, që kishte rezultuar si e suksesshme, gjykata është e detyruar të vendos në dobi të konsumatorit, nga konstatimet e gjykatës në procedurën mbi padinë kolektive.

@@ -1,0 +1,4 @@
+# Article 112
+Advance payment (prepayment) in timeshare, long-term holiday product, resale and exchange contracts 1. In relation to timeshare, long-term holiday product and exchange contracts, any advance payment, provision of guarantees, reservation of money on accounts, explicit acknowledgement of debt or any other consideration to the trader or to any third party by the consumer before the end of the withdrawal period according to Article 108 of this Law, is prohibited.
+2. In relation to resale contracts, any advance payment, provision of guarantees, reservation of money on accounts, explicit acknowledgement of debt or any other consideration to the trader or to any third party by the consumer before the actual sale takes place or the resale contract is otherwise terminated, is prohibited.
+LAW No. 06/L-034 ON CONSUMER PROTECTION

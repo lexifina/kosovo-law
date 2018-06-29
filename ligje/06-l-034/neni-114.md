@@ -1,0 +1,4 @@
+# Neni 114
+Ndërprerja e kontratave ndihmëse 1. Kur konsumatori ushtron të drejtën për t’u tërhequr nga kontrata kontratat e shfrytëzimit me afat të paluajtshmërive me qëllim të pushimit, shfrytëzimit afatgjatë të produkteve të pushimit, çdo kontratë ndihmëse e këmbimit për atë ose ndonjë kontratë tjetër ndihmëse ndërpritet automatikisht, pa asnjë kosto për konsumatorin.
+2. Kur çmimi është i mbuluar plotësisht ose pjesërisht nga një kredi e dhënë për konsumatorin nga tregtari ose nga një palë e tretë në bazë të një marrëveshjeje ndërmjet palës së tretë dhe tregtarit, pa paragjykuar nenin 86 të këtij ligji, marrëveshja e kredisë do të ndërpritet, pa kosto të konsumatorit kur konsumatori ushtron të drejtën të tërhiqet nga kontratat e shfrytëzimit me afat të paluajtshmërive me qëllim të pushimit, shfrytëzimit afatgjatë të produkteve të pushimit, të rishitjes dhe shkëmbimit.
+LIGJI Nr. 06/L-034 PËR MBROJTJEN E KONSUMATORIT

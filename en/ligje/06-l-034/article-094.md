@@ -1,0 +1,5 @@
+# Article 94
+Open-end credit agreements 1. The consumer may effect standard termination of an open-end credit agreement free of charge at any time unless the parties have agreed on a period of notice. Such a period may not exceed one (1) month.
+2. If agreed in the credit agreement, the creditor may effect standard termination of an open-end credit agreement by giving the consumer at least two (2) months’ notice drawn up on paper or on another durable medium.
+3. If agreed in the credit agreement, the creditor may, for objectively justified reasons, terminate the consumer’s right to drawdown on an open-end credit agreement. The creditor shall inform the consumer of the termination and the reasons for it on paper or on another durable medium, where possible before the termination and at the latest immediately thereafter, unless the provision of such information is prohibited by applicable legislation.
+LAW No. 06/L-034 ON CONSUMER PROTECTION 4. Reasonable objective reasons in paragraph 3. of this Article are: unauthorized or fraudulent use of credit or increased risk where the customer will not be able to pay back the credit.

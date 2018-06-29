@@ -1,5 +1,0 @@
-# Article 49
-Other Obligations for Consumer Credits
-1. Any publication or other offer displayed in commercial units, where the trader offers products and / or services on credit and which show the interest rate or any figure relating to the credit cost, contains also the declaration of interest effective rate.
-2. The existence of a credit contract does not affect in any way on the rights of consumer against the suppliers of commodities or services, purchased through such an contract, in cases where commodities or services were not supplied or otherwise were not in compliance with the contract terms for their supply.
-3. When the consumer, in order to purchase commodities or obtain services, become a party in a credit contract with a person different from their supplier and there is a close trade relationship between the creditor and supplier of commodities or services, the consumer has the right to seek compensation from the creditor when commodities or services, object of the credit contract, were not supplied or otherwise are not in accordance with the terms of the contract for their supply.

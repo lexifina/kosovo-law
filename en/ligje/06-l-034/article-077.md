@@ -1,0 +1,11 @@
+# Article 77
+Conformity with the contract 1. The seller must deliver goods to the consumers which are in conformity with the contract of sale.
+2. The consumable commodities are supposed to be in conformity with the contract of sale, if they:
+2.1. comply with the description given by the seller and possess the qualities of commodities which the seller has presented to the consumer as a sample or model;
+LAW No. 06/L-034 ON CONSUMER PROTECTION 2.2. are fit for any particular purpose for which the consumer requires them and which he made known to the seller at the time of conclusion of the contract and which the seller has accepted;
+2.3. are fit for the purposes for which commodities of the same type are normally used;
+2.4. show the quality and performance which are normal in commodities of the same type and which the consumer can reasonably expect, given the nature of the commodities and taking into account any public statements on the specific characteristics of the commodities made about them by the seller, the producer or his representative, particularly in advertising or on labelling.
+3. There shall be deemed not to be a lack of conformity for the purposes of this Article if, at the time the contract was concluded, the consumer was aware, or could not reasonably be unaware of, the lack of conformity, or if the lack of conformity has its origin in materials supplied by the consumer.
+4. The seller shall not be bound by public statements, as referred to in sub-paragraph 2.4. paragraph 2. of this Article if he:
+4.1. shows that he was not, and could not reasonably have been, aware of the statement in question, 4.2. shows that by the time of conclusion of the contract the statement had been corrected, or 4.3. shows that the decision to buy the consumer goods could not have been influenced by the statement.
+5. Any lack of conformity resulting from incorrect installation of the consumption commodities shall be deemed to be equivalent to lack of conformity of the commodities if installation forms part of the contract of sale of the commodities and the commodities were installed by the seller or under his responsibility. This shall apply equally if the product, intended to be installed by the consumer, is installed by the consumer and the incorrect installation is due to a shortcoming in the installation instructions.

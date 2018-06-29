@@ -1,0 +1,8 @@
+# Article 97
+Early repayment 1. The consumer shall be entitled at any time to discharge fully or partially his obligations under a credit agreement. In such cases, he shall be entitled to a reduction in the total cost of the credit. Such reduction consists in the interest and the costs for the remaining duration of the contract. Upon receipt of a credit prepayment request, the creditor must complete all the termination of the loan within fifteen (15) days.
+2. In the event of early repayment of credit, the creditor shall be entitled to fair and objectively justified compensation for possible costs directly linked to early repayment of credit provided that the early repayment falls within a period for which the borrowing rate is fixed as determined in the credit agreement.
+3. If the period between the early repayment and credit maturity is over one (1) year, the compensation given in paragraph 2. of this Article shall not exceed one (1%) percent of the credit amount paid before the deadline and if this period does not exceed one (1) year, the compensation does not exceed zero point five (0.5%) percent of the credit amount -principal paid in advance.
+4. Compensation for early repayment shall not be claimed:
+4.1. if the repayment has been made under an insurance contract intended to provide a credit repayment guarantee;
+4.2. in the case of overdraft facilities; or 4.3. if the repayment falls within a period for which the borrowing rate is not fixed.
+5. Any compensation shall not exceed the amount of interest the consumer would have paid during the period between the early repayment and the agreed date of termination of the credit agreement.

@@ -1,0 +1,11 @@
+# Article 38
+Information required for contracts other than distance and off-premises contracts 1. Before the consumer reaches a contract other than a distance or an off-premises contract, or any corresponding offer, the trader shall provide the consumer with the following information in a clear and comprehensible manner, if that information is not already apparent from the context:
+LAW No. 06/L-034 ON CONSUMER PROTECTION 1.1. the main characteristics of the goods or services, to the extent appropriate to the communication mean and to the goods or services;
+1.2. the identity of the trader, such as trader name, the geographical address at which he is established and his telephone number;
+1.3. the total price of the goods or services inclusive of taxes, or where the nature of the goods or services is such that the price cannot reasonably be calculated in advance, the manner in which the price is to be calculated, as well as, where applicable, all additional goods, delivery or postal charges or, where those charges cannot reasonably be calculated in advance, the fact that such additional payments may be obligatory;
+1.4. where applicable, the arrangements for payment, delivery, performance, the time by which the trader undertakes to deliver the goods or to perform the service, and the trader’s complaint handling policy;
+1.5. in addition to a reminder of the existence of a legal guarantee of conformity for goods, the existence and the conditions of after-sales services and commercial guarantees, where applicable;
+1.6. the duration of the contract, where applicable, or, if the contract is of indeterminate duration or is to be extended automatically, the conditions for terminating the contract;
+1.7. where applicable, the functionality, including applicable technical protection measures, of digital content;
+1.8. where applicable, any relevant interoperability of digital content with hardware and software that the trader is aware of or can reasonably be expected to have been aware of.
+2. Paragraph 1. of this Article shall also apply to contracts for the supply of water, gas or electricity, where they are not put up for sale in a limited volume or set quantity, of district heating or of digital content which is not supplied on a tangible medium.

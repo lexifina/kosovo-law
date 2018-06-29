@@ -1,0 +1,2 @@
+# Neni 11
+Praktikat agresive tregtare Një praktikë tregtare është agresive kur, nëse duke konsideruar të gjitha tiparet dhe rrethanat e saj, dobëson apo ka mundësi te dobësoj ndjeshëm lirinë e zgjedhjes ose sjelljen e konsumatorit për mallin apo shërbimin, nëpërmjet ushtrimit të dhunës psikike dhe/ose fizike, ose insistimit të tepruar dhe në këtë mënyrë, e shtyn konsumatorin të marre një vendim, të cilin, në të kundërtën, nuk do ta kishte marr.

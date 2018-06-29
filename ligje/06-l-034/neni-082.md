@@ -1,0 +1,3 @@
+# Neni 82
+Karakteri i detyrimit 1. Çdo kusht ose marrëveshje kontraktuare e lidhur me shitësin para se mungesa e konformitetit të bie në vëmendje të shitësit e cila në mënyrë të drejtpërdrejtë ose të tërthortë heq ose kufizon të drejtat që rezultojnë prej këtij kapitulli të këtij ligji, nuk do të jetë obliguese për konsumatorin.
+2. Në rastin e mallrave të dorës së dytë, shitësi dhe konsumatori mund të pajtohen për kushtet dhe marrëveshjet kontraktuare, që kanë periudhë më të shkurtër të obligimit të shitësit sesa ajo që përcaktohet në paragrafin 1 të nenit 80 të këtij ligji. Kjo periudhë nuk mund të jetë më e shkurtër se një (1) vit.

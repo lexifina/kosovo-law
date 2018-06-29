@@ -1,0 +1,5 @@
+# Neni 104
+Informacioni para kontraktual te kontratat e shfrytëzimit me afat të paluajtshmërive me qëllim të pushimit, shfrytëzimit afatgjatë të produkteve të pushimit, të rishitjes dhe shkëmbimit 1. Në kohë të mjaftueshme para se konsumatori të lidhet nga ndonjë kontratë apo ofertë, tregtari duhet t’i ofrojë konsumatorit, në mënyrë të qartë dhe të kuptueshme, informacion të saktë dhe të mjaftueshëm.
+2. Format standarde të informacionit të paraparë në paragrafin 1 të këtij neni, në rast të kontratat e shfrytëzimit me afat të paluajtshmërive me qëllim të pushimit, shfrytëzimit afatgjatë të produkteve të pushimit, të rishitjes dhe të shkëmbimit, do të rregullohen me akt nënligjor;
+3. Informacioni i paraparë në paragrafin 2 të këtij neni, do të sigurohet pa pagesë nga tregtari në letër ose në një medium tjetër të qëndrueshëm i cili është lehtë i arritshëm për konsumatorin.
+4. Informacioni i paraparë në paragrafin 2 të këtij neni duhet të jetë i hartuar në njërën nga gjuhët zyrtare të Republikës së Kosovës sipas përzgjedhjes së konsumatorit.

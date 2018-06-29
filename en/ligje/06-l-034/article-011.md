@@ -1,0 +1,2 @@
+# Article 11
+Aggressive commercial practices A commercial practice shall be regarded as aggressive if, taking account of all the features and circumstances, significantly impairs or is likely to impair the freedom of choice or consumer`s behaviour with regard to commodity or service by exercising psychological and/or physical violence, or excessive influence and thus causing the consumer to take a decision he would not have taken otherwise.

@@ -1,0 +1,6 @@
+# Neni 94
+Marrëveshjet mbi linjat e kredisë për konsumator 1. Konsumatori mund të ndërpres një marrëveshje të linjës së kredisë pa pagesë në çdo kohë, përveç nëse palët kanë rënë dakord mbi periudhën e njoftimit. Një periudhë e tillë nuk mund të kalojë afatin prej një (1) muaji.
+2. Në qoftë se është rënë dakord në marrëveshjen për kredi, kredidhënësi mund të ndërpres një marrëveshje të linjës së kredisë duke i dhënë konsumatorit njoftim të paktën dy (2) muaj të hartuar në letër ose në një tjetër medium të qëndrueshëm.
+3. Në qoftë se është rënë dakord në marrëveshjen e kredisë, kredidhënësi për shkaqe të
+LIGJI Nr. 06/L-034 PËR MBROJTJEN E KONSUMATORIT arsyeshme objektive mund të ndalojë të drejtën e konsumatorit për tërheqjen e mjeteve bazuar në marrëveshjen e linjës kreditore. Kredidhënësi duhet të informojë konsumatorin për ndalesën dhe arsyet e ndalesës në letër ose në një tjetër medium të qëndrueshëm, aty ku është e mundur para përfundimit dhe apo më së voni menjëherë pas përfundimit, përveç nëse dhënia e një informacioni të tillë është e ndaluar përmes legjislacionit në fuqi.
+4. Shkaqet e arsyeshme objektive nga paragrafi 3 i këtij neni janë: përdorimi i kredisë së pa- autorizuar ose mashtruese, ose rritjes së theksuar të riskut ku konsumatori nuk do të mund të përballonte kthimin e kredisë.

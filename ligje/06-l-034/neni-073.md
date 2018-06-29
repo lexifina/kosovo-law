@@ -1,0 +1,3 @@
+# Neni 73
+Padrejtësia e një kushti kontraktuar 1. Padrejtësia e një kushti kontraktuar do të vlerësohet duke marrë parasysh natyrën e mallrave ose shërbimeve për të cilat është lidhur kontrata dhe duke iu referuar të gjitha rrethanave që e përcjellin lidhjen e kontratës në kohën kur lidhet kontrata, dhe në të gjitha kushtet e tjera të asaj kontrate ose të një tjetër kontrate nga e cila varet ajo.
+2. Vlerësimi i natyrës së padrejtë të kushteve nuk duhet të lidhet as me përkufizimin e çështjes kryesore të kontratës por as me përshtatshmërinë e çmimit dhe shpërblimit në njërën anë, në krahasim me shërbimet apo furnizimet e mallrave në këmbim në anën tjetër, për aq sa këto kushte janë në gjuhë të thjeshtë dhe të kuptueshme.

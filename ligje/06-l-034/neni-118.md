@@ -1,0 +1,5 @@
+## KREU XV
+## MBROJTJA GJYQËSORE E INTERESAVE TË KONSUMATORIT
+# Neni 118
+Urdhër-veprimi për mbrojtjen e interesave kolektive të konsumatorëve 1. Në qoftë se një tregtar përdor dispozita të padrejta kontraktuale, praktika biznesi, ose në çfarë do mënyre tjetër shkel të drejtat e konsumatorëve të parapara me këtë ose tjetër Ligj, dhe në këtë mënyrë shkel interesat kolektive të konsumatorëve, një padi mund të iniciohet kundër tij duke kërkuar ndërprerjen ose ndalimin e një shkelje të tillë (në tekstin e mëtejmë: padi kolektive).
+LIGJI Nr. 06/L-034 PËR MBROJTJEN E KONSUMATORIT 2. Padia kolektive mund të iniciohet kundër një tregtari individual apo grupi tregtarësh nga i njëjti sektor ekonomik, kundër odave apo shoqatave ekonomike të tregtarëve të cilët inkurajojnë ose rekomandojnë praktika ose përdorimin e kushteve të kontratës, mbi të cilat kërkohet ndërprerje, ose kundër një hartuesi të një Kodi të sjelljes, kur ai kod promovon përdorimin e praktikave të paligjshme të biznesit, siç përcaktohet në dispozitat e nenit 72 të këtij ligji.

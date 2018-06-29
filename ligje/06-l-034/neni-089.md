@@ -1,0 +1,3 @@
+# Neni 89
+Detyrimi për vlerësimin e aftësisë kreditore të konsumatorit 1. Para lidhjes së marrëveshjes së kredisë, kredidhënësi duhet të vlerësoj aftësitë kreditore të konsumatorit në bazë të informatave të mjaftueshme, të cilat merren nga konsumatori, si dhe nga Regjistri Kreditor i Kosovës nëse është e aplikueshme.
+2. Nëse palët bien dakord për ndryshimin e shumës totale të kredisë pas lidhjes së marrëveshjes së kredisë, kredidhënësi duhet të përditësoj informacionin financiar që ka në dispozicion të tij në lidhje me konsumatorin dhe vlerëson aftësinë kreditore të konsumatorit para ndonjë rritjeje të konsiderueshme në vlerë të përgjithshme të kredisë.

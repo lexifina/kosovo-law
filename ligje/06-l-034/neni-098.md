@@ -1,0 +1,3 @@
+# Neni 98
+Përcaktimi i të drejtave 1. Nëse sipas marrëveshjes së kredisë apo një marrëveshje tjetër, të drejtat e kredi-dhënësit i barten një pale të tretë, konsumatori ka të drejtën e ankesës kundër palës së tretë dhe përdorimit të çfarëdo mbrojtje që është në dispozicion të tij kundrejt kredi-dhënësit fillestar, duke përfshirë edhe të drejtën e kompensimit kur kjo e fundit është e lejuar sipas legjislacionit për të drejtat detyrimore.
+2. Konsumatori duhet të informohet për të drejtat e bartura sipas paragrafit 1 të këtij neni, përveç kur kredi-dhënësi fillestar, në marrëveshje me palën e tretë, vazhdon të shërbejë me kredi në raport me konsumatorin.

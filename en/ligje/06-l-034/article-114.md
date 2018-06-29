@@ -1,0 +1,3 @@
+# Article 114
+Termination of ancillary contracts 1. Where the consumer exercises the right to withdraw from the timeshare or long-term holiday product contract, any exchange contract ancillary to it or any other ancillary contract is automatically terminated, at no cost to the consumer.
+2. Where the price is fully or partly covered by a credit granted to the consumer by the trader, or by a third party on the basis of an arrangement between the third party and the trader, without prejudice to Article 86 of this Law, the credit agreement shall be terminated, at no cost to the consumer, where the consumer exercises the right to withdraw from the timeshare, long-term holiday product, resale or exchange contract.

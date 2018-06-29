@@ -1,0 +1,6 @@
+# Neni 44
+Ushtrimi i së drejtës për tërheqje nga kontrata 1. Para skadimit të periudhës së tërheqjes, konsumatori informon tregtarin në lidhje me vendimin e tij për tu tërhequr nga kontrata. Për këtë qëllim, konsumatori mund të:
+1.1. përdorë formularin e tërheqjes që do të përcaktohet me akt nënligjor; apo 1.2. të bëjë ndonjë deklarim të qartë duke përcaktuar vendimin e tij për tu tërhequr nga kontrata.
+2. Konsumatori duhet të ushtrojë të drejtën e tij për tërheqje brenda periudhës së tërheqjes të paraparë në nenin 42 dhe nenin 43 të këtij ligji nëse informata në lidhje me ushtrimin e së drejtës për tërheqje dërgohet nga konsumatori para se të skadojë ajo periudhë.
+3. Përveç mundësive të parapara në paragrafin 1 të këtij neni, tregtari mund t’i ofroj konsumatorit opsionin që të plotësojë dhe dërgojë në mënyrë elektronike, qoftë nëpërmjet një formulari i cili do të përcaktohet me një akt nënligjor, apo ndonjë deklarim tjetër të qartë tek ueb-faqja e tregtarit. Në ato raste, tregtari ia komunikon pa vonesë konsumatorit njohjen mbi fletë-pranimin e tërheqjes përmes një mjeti të qëndrueshëm të komunikimit.
+4. Barra e provës për ushtrimin e të drejtës së tërheqjes në përputhje me këtë nen do të bie mbi konsumatorin.

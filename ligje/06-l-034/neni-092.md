@@ -1,0 +1,4 @@
+# Neni 92
+Informacion në lidhje me normën e interesit të kredisë 1.Konsumatori duhet të informohet për çdo ndryshim në normën së interesit, në letër ose në një medium tjetër të qëndrueshëm, para se ndryshimi të hyjë në fuqi. Informacioni do të përcaktoj shumën e pagesave që do të bëhen pas hyrjes në fuqi të normës së re të interesit dhe nëse numri i shpeshtësisë së pagesave ndryshon veçoritë e tyre.
+2. Në marrëveshjen e kredisë palët mund të bien dakord që informacioni i përmendur në paragrafin 1 të këtij neni t’i jepet konsumatorit periodikisht në rastet kur ndryshimi në normën e interesit shkaktohet nga një ndryshim në një normë reference, norma e re e referencës duhet të jetë në dispozicion të publikut përmes mjeteve të duhura dhe informatat në lidhje me normën e
+LIGJI Nr. 06/L-034 PËR MBROJTJEN E KONSUMATORIT re të referencës gjithashtu mbahen në dispozicion në ambientet e kredidhënësit.

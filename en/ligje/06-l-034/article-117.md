@@ -1,0 +1,9 @@
+## CHAPTER XIV
+## ADMINISTRATIVE AND LEGAL PROTECTION OF CONSUMERS
+# Article 117
+Request for consumer protection 1. If a trader does not respond to the customer’s complaint within the period referred to in paragraph 1. of Article 116 of this Law, the consumer may file a request for protection of his rights under this Law at the administrative body responsible for inspection and supervision of the implementation of this the Law, which will take action in accordance with this Law.
+2. If a trader rejects a complaint, the customer may file a request for protection of his rights to
+LAW No. 06/L-034 ON CONSUMER PROTECTION an inspection authority or seek protection of his rights by a court proceeding or extrajudicial procedures.
+3. In cases referred to in paragraph 2. of this Article, if a request for protection of rights was submitted to a competent inspection authority which may, by direct observation and/ or undertaking other certain actions, without the involvement of experts and organizations, determine that the consumer’s rights according to this Law are violated, especially the rights regarding the prices, guarantee, conformity of products, product damage given for repair, unfair terms in contracts and unfair trading practices, shall undertake actions and guide the trader to act regarding the complaint of the customer in accordance with this Law.
+4. If the competent inspection authority is not able to decide, on the basis of the implemented actions referred to in paragraph 3. of this Article, if the rights of a consumer under this Law are violated, shall inform the customer in writing that he may request protection of his rights in extrajudicial institutions or through judicial proceedings.
+5. Nothing in this Article shall prevent the customer to seek assistance in court or out of court proceedings even before he/she addresses a complaint against the trader.
