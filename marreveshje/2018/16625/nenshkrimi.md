@@ -1,0 +1,4 @@
+Ligji Nr. 06/L -062 04 qershor 2018
+Shpallur me dekretin Nr. DL-025-2018, datë 21.06.2018 nga Presidenti i Republikës së Kosovës Hashim Thaçi
+________________________________
+Shtojca e ligjit Nr. 06/L -062, “Traktati ndërmjet Republikës së Kosovës dhe Hungarisë për Ekstradim, të nënshkruar nga Ministrat e Drejtësisë së të dy vendeve, më 24 nëntor 2017, bashkëngjitur me ligj është publikuar ne web faqen e Gazetës Zyrtare (gzk.rks-gov.net )
