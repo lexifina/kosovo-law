@@ -1,0 +1,7 @@
+Qeveria e Republikës së Kosovës,
+Në mbështetje të nenit 93, paragrafin 4 të Kushtetutës së Republikës së Kosovës, nenit 34, paragrafin 1 të Ligjit Nr. 03/L-189 për Administratën Shtetërore të Republikës së Kosovës, nenit 19, paragrafin 6.2 të Rregullores Nr. 09/2011 së Punës së Qeverisë së Republikës së Kosovës dhe të nenit 23, paragrafin 10 të Rregullores Nr. 09/2012 për Standardet e Organizimit të Brendshëm dhe Sistematizimin e Vendeve të Punës në Administratën Shtetërore, nxjerr:
+RREGULLORE (QRK) NR. 11/2018
+PËR PLOTËSIMIN DHE NDRYSHIMIN E RREGULLORES
+(QRK) NR. 36/2013 PËR ORGANIZIMIN E BRENDSHËM DHE
+SISTEMATIZIMIN E VENDEVE TË PUNËS TË MINISTRISË SË PUNËVE
+TË BRENDSHME
