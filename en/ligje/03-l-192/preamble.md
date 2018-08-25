@@ -1,7 +1,0 @@
-LAW No.03/L –192
-ON INDEPENDENT OVERSIGHT BOARD FOR CIVIL SERVICE OF KOSOVO
-Assembly of Republic of Kosovo,
-Based on Article 65 (1) of the Constitution of the Republic of Kosovo,
-Approves
-LAW ON INDEPENDENT OVERSIGHT BOARD FOR CIVIL SERVICE OF KOSOVO
-GENERAL PROVISIONS

@@ -1,0 +1,8 @@
+# Article 16
+Review of the Complaints 1. A civil servant, or a candidate for employment in the Civil Service who is unsatisfied with the decision of the employing authority, shall have the right to appeal to the Board, regarding his claim for breach of the rules and principles set out in the legislation on Civil Service of the Republic of Kosovo.
+2. Civil Servant or candidate for employment in the Civil Service is entitled to submit a complaint to the Board electronically in accordance with the respective legislation for electronic communication as well as the rules set with the respective regulation for submitting complaints to the Board.
+3. On behalf of the Board, complaints are reviewed and decided upon by the College composed out of three (3) members, which is determined with the decision of the Board.
+4. Before appealing to the Board, the civil servant or applicant who alleges to be damaged, must exhaust all the internal appeals procedures of the employing authority concerned, unless otherwise defined by a special law.
+5. The Board should give the parties the right to present in written their evidence and facts related to the case. In cases involving disputes of material facts, both parties are given the
+LAW No. 06/L-048 ON INDEPENDENT OVERSIGHT BOARD FOR CIVIL SERVICE OF KOSOVO possibility to be questioned by the Board, with the aim of presenting the relevant evidence.
+6. A member of the Board, who monitored the election procedure for appointment of senior management and management level civil servants, shall not participate in the procedure of reviewing the complaints related to the same procedure.

@@ -1,0 +1,6 @@
+# Neni 24
+Sanksionet administrative për moszbatimin e vendimit të Këshillit 1. Në rast të moszbatimit të vendimit të Këshillit sipas nenit 21 të këtij ligji, Kryetari i Këshillit nxjerr vendim për ndalimin e 50 % të pagës mujore për personin përgjegjës, deri në zbatimin e vendimit të Këshillit.
+2. Vendimi sipas paragrafit 1 të këtij neni, i dërgohet për zbatim zyrtarit kryesor administrativ të Ministrisë përkatëse për menaxhimin e listës së pagave, i cili është i obliguar që në afat prej pesëmbëdhjetë (15) ditësh nga dita e pranimit të vendimit të zbatojë vendimin dhe të njoftojë me shkrim Këshillin për zbatimin e vendimit.
+3. Kundër vendimit për ndalimin e 50 % të pagës mujore, pala e pakënaqur ka të drejtë të inicimit të konfliktit administrativ në gjykatën kompetente për çështje administrative, në pajtim me dispozitat e ligjit për konfliktin administrativ.
+4. Inicimi i konfliktit administrativ nuk e ndalon ekzekutimin e vendimit të Këshillit.
+5. Në rast të moszbatimit të vendimit të Kryetarit të Këshillit për ndalimin e 50% të pagës mujore, Këshilli brenda afatit prej tridhjetë (30) ditësh nga dita e kalimit të afatit për zbatim mund të fillojë procedurën e përmbarimit të vendimit në gjykatën kompetente, në pajtim me dispozitat e ligjit për procedurën përmbarimore.
