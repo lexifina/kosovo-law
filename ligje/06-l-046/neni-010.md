@@ -1,0 +1,9 @@
+# Neni 10
+Detyrat e inspektorit administrativ 1. Inspektori administrativ është përgjegjës për të mbikëqyrë dhe vlerësuar nëse institucionet arsimore zbatojnë legjislacionin në fuqi.
+2. Detyrat e përgjithshme të inspektorit administrativ të ndërlidhura me të gjitha institucionet arsimore janë: 2.1.kontrollon nëse nxënësit dhe studentët e pranuar në institucionet arsimore i plotësojnë kriteret e pranimit siç parashihet me aktet ligjore; 2.2.kontrollon nëse regjistrat, certifikatat dhe dokumentacioni tjetër i institucionit arsimor për nxënësit dhe studentët është në pajtueshmëri me legjislacionin; 2.3.shqyrton ankesat lidhur me masat disiplinore kundër nxënësve dhe studentëve, pasi të jenë shfrytëzuar të gjitha mjetet ligjore për ankesë brenda institucionit arsimor dhe në rastin e institucioneve të arsimit parauniversitar, në nivel të DKA-së; 2.4.shqyrton ankesat e nxënësve, të prindërve dhe të studentëve lidhur me të gjitha llojet e diskriminimit. 2.5.Realizon aspekte tjera të inspektimit administrativ siç përcaktohet me legjislacion.
+3. Detyrat specifike të inspektorit administrativ të ndërlidhura me institucionet arsimore të nivelit SNKA 0-4 janë:
+3.1. kontrollon personelin udhëheqës, profesional dhe administrativ nëse i kanë kualifikimet e nevojshme dhe licencat për punësim;
+3.2. kontrollon saktësinë e të dhënave për numrat e nxënësve sipas nivelit dhe klasës, saktësinë e dokumenteve shkollore;
+3.3. vlerëson funksionimin e këshillit drejtues të institucionit;
+3.4. shqyrton ankesat e nxënësve dhe të prindërve në rastet e dhunës ndaj fëmijëve, pasi të jenë shfrytëzuar të gjitha mjetet ligjore brenda institucionit dhe në nivel të DKA- së;
+3.5. vlerëson shkeljet e mundshme ligjore që qojnë në përsëritjen e klasës në institucionet arsimore të nivelit SNKA 2-4, në bazë të ankesës nga nxënësit apo prindërit e tyre, pasi të jenë shfrytëzuar të gjitha mjetet ligjore për ankesë, brenda institucionit arsimor dhe në nivelin e DKA-së.

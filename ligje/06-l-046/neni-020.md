@@ -1,0 +1,3 @@
+# Neni 20
+Keqperdorimi i detyrës zyrtare 1. Krahas përgjegjësive të parapara me legjislacionin për shërbimin civil, inspektori i arsimit është përgjegjës, nëse: 1.1.zbulon informata ose dokumente konfidenciale nga inspektimi; 1.2.nuk merr masa për të adresuar parregullsitë dhe shkeljet ligjore, të evidentuara gjatë inspektimit të institucioneve arsimore; 1.3.nuk i informon organet kompetente për parregullsitë e evidentuara;
+LIGJI Nr. 06/L -046 PËR INSPEKTORATIN E ARSIMIT NË REPUBLIKËN E KOSOVËS 1.4.tejkalon ose keqpërdorë autorizimet e përcaktuara me legjislacionin e aplikueshëm. 1.5.nuk paraqet fletëparaqitje për ngritjen e procedurës disiplinore, apo të procedurës penale, në rast se ka konstatuar shkelje të ligjshmërisë.

@@ -1,0 +1,9 @@
+# Neni 24
+Sanksioni kundërvajtës me gjobë 1. Sanksioni kundërvajtës me gjobë, mund të parashihet në shumë të përcaktuar ose në shumë të caktuar.
+2. Me ligj sanksioni kundërvajtës me gjobë mund të parashihet në shumë të përcaktuar dhe atë:
+LIGJI Nr. 06/L -046 PËR INSPEKTORATIN E ARSIMIT NË REPUBLIKËN E KOSOVËS 2.1. në rast se është konstatuar shkelja nga paragrafi 1.3 i nenit 13 të këtij ligji, personi fizik dënohet në shumë prej njëmijë (1,000) deri në tremijë (3,000) euro, kurse personi juridik në shumë prej pesëmijë (5,000) deri në pesëmbëdhjetëmijë (15,000) euro.
+2.2. në rast se është konstatuar shkelja nga paragrafi 1.9 i nenit 13 të këtij ligji, personi fizik dënohet në shumë prej njëmijë (1,000) deri në tremijë (3,000) euro, kurse personi juridik në shumë prej dhjetëmijë (10,000) deri në tridhjetëmijë (30,000) euro.
+2.3. në rast se është konstatuar shkelja nga paragrafi 1.1 i nenit 13 të këtij ligji, personi fizik dënohet në shumë prej dyqind (200) deri në gjashtëqind (600) euro, kurse personi juridik në shumë prej dymijë (2,000) deri në gjashtëmijë (6,000) euro.
+2.4. në rast se është konstatuar shkelja nga paragrafët 1.4; 1.5; 1.6; 1.7; 1.8; 1.10; 1.11 dhe 1.12 të nenit 13 të këtij ligji, personi fizik dënohet në shumë prej dyqind (200) deri në gjashtëqind (600) euro, kurse personi juridik në shumë prej njëmijë (1,000) deri në tremijë (3,000) euro.
+2.5. në rast se është konstatuar shkelja nga paragrafi 4 i nenit 19 të këtij ligji, personi fizik dënohet me gjobë prej pesëqind (500) deri në njëmijëepesëqind (1,500) euro kurse personi juridik dymijë (2,000) deri në gjashtëmijë (6,000) euro.
+2.6. në rast se është konstatuar shkelja nga paragrafi 2.6 i nenit 10 të këtij ligji, personi fizik dënohet me gjobë prej pesëdhjetë (50) deri në njëqindepesëdhjetë (150) euro. 3.Për shkeljet tjera të cilat nuk janë paraparë me këtë ligj, zbatohen dispozitat ligjore në fuqi.

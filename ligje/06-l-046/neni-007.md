@@ -1,0 +1,2 @@
+# Neni 7
+Detyrat dhe përgjegjësitë e drejtorit të përgjithshëm 1. Detyrat dhe përgjegjësitë e drejtorit të përgjithshëm të Inspektoratit të Arsimit janë: 1.1.Planifikon, organizon, mbikëqyrë dhe udhëheq punën e Inspektoratit të Arsimit. 1.2.Kontrollon, inspekton dhe nxjerr vendime për çështjet kontestuese në institucionet arsimore. 1.3.Inicon ngritjen e procedurave adekuate administrative, civile, penale, në mbrojtje të ligjshmërisë dhe rregullsisë në funksionimin e institucioneve arsimore. 1.4.Për punën e vet, i përgjigjet Ministrit të Arsimit.
