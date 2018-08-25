@@ -1,0 +1,4 @@
+# Article 7
+The procedure on investigations initiation 1. Procedures on implementation of safeguard measures shall be initiated by written application by or on behalf of one or more producers of like or competitive products, registered in the Republic of Kosovo.
+2. A written application is considered submitted by or on behalf of the domestic producers only if it is supported by those domestic producers who together comprise a large amount of the total production of like or competitive products.
+3. In specific cases, the Ministry may initiate an investigation, without a written application from or on behalf of domestic industry, on its own initiative after consultation with the Commission based on sufficient evidence that the imported products into territory of the Republic of Kosovo are in such increased quantities and under such conditions that cause or threaten to cause serious injury to producers of like or competitive in Republic of Kosovo.

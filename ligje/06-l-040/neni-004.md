@@ -1,0 +1,3 @@
+# Neni 4
+Masat mbrojtëse dhe kushtet e zbatimit të tyre 1. Masat mbrojtëse janë të përkohshme dhe përbëjnë tarifën mbrojtëse ad valorem, të llogaritur sipas vlerës së produktit të importuar, e cila mund të zbatohet edhe përmes kuotës tarifore në importet e produktit të ngjashëm apo konkurrues.
+2. Masat mbrojtëse për produktet e importuara në territorin e Republikës së Kosovës zbatohen vetëm nëse është përcaktuar, përmes një hetimi të kryer sipas dispozitave të këtij ligji, se produkti i hetuar është importuar në territorin e Republikës së Kosovës në sasi aq të rritur dhe në kushte të tilla që shkakton ose kërcënon të shkaktojë dëm serioz tek prodhuesit e produkteve të ngjashme ose në Republikën e Kosovës.

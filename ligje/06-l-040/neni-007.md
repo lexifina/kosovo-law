@@ -1,0 +1,5 @@
+# Neni 7
+Procedura për fillimin e hetimeve 1. Procedurat e zbatimit të masave mbrojtëse iniciohen me anë të kërkesës me shkrim nga apo në emër të një apo më shumë prodhuesve të produkteve të ngjashme apo konkurruese, të regjistruara në Republikën e Kosovës.
+2. Kërkesa me shkrim konsiderohet si e dorëzuar nga ose në emër të prodhuesve vendor vetëm nëse mbështetet nga ata prodhues vendor të cilët së bashku përbëjnë një pjesë të madhe të prodhimit të përgjithshëm të produkteve të ngjashme apo konkurruese.
+3. Në raste të veçanta, Ministria mund të iniciojë hetimin, pa pasur kërkesë me shkrim nga ose në emër të industrisë vendore, me nismën e saj vetanake pas konsultimeve me Komisionin në bazë të dëshmive të mjaftueshme se produktet e importuara në territorin e Republikës së Kosovës janë në sasi të rritur dhe në kushte të tilla që shkaktojnë ose kërcënojnë t’i shkaktojnë dëm serioz prodhuesve të produkteve të ngjashme ose konkurruese në Republikën e Kosovës.
+LIGJI Nr. 06/L-040 PËR MASAT MBROJTËSE NË IMPORTE

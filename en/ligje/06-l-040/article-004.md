@@ -1,0 +1,3 @@
+# Article 4
+Safeguard measures and terms of their application 1. Safeguard measures shall be temporary and constitute an ad valorem safeguard measure, calculated according to the value of imported product, which can be applied even through the tariff quota on imports of the like or competitive product.
+2. Safeguard measures on products imported into the territory of the Republic of Kosovo shall be applied only if it is determined, through an investigation conducted pursuant to the provisions of this Law, that the investigated product is imported into the territory of the Republic of Kosovo in such increased quantities and under such conditions that causes or threatens to cause serious injury to producers of like or competitive products in Republic of Kosovo.
