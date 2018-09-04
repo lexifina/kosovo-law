@@ -1,4 +1,0 @@
-# Neni 32
-Gjaku i infektuar
-32.1 Gjaku dhe komponentët e gjakut nuk guxojnë të përdorën deri sa nuk bëhet analiza e paraparë biologjike dhe testet për sëmundjet që mund të barten me transfuzion. Institucionet e autorizuara transfuzive duhet t’i testojnë të gjitha mostrat e grumbulluara. Dokumentacioni për rezultate të testimeve duhet të ruhet në mënyrën që e përcakton Ministria e Shëndetësisë me akt nënligjor.
-32.2 Kur është vërtetuar infektimi i gjakut, organizata e autorizuar transfuzive menjëherë duhet të lajmëron për rezultatet e testimit Instituti Kombëtar i Shëndetit Publik të Kosovës. Doza e infektuar e gjakut duhet të largohet nga përdorimi, qartë të shënohet dhe të asgjësohet biologjikisht. Mostra e gjakut të infektuar duhet të ruhet në vendin veçanërisht të caktuar për këtë, deri në asgjësim.

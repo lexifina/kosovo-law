@@ -1,0 +1,7 @@
+# Article 40
+Monitoring and reporting of serious adverse events and reactions 1. Serious adverse event (due to error or accident) associated with the procedure of collection, testing, processing, storage and distribution of blood and blood components, which can affect the quality and safety of blood and its components, or the serious adverse reaction during or after transfusion which may be attributed to the quality and safety of blood and blood components, is notified to the authorized transfusion institution and to inspector for transfusion activity.
+2. The responsible doctor who uses the blood or blood components for therapeutic purposes is obliged that for each serious adverse event or reaction to announce without delay and in writing the authorized transfusion institution from which has been supplied with blood or blood components.
+3. The authorized transfusion institution is obliged to investigate the serious adverse event or reaction and reports in written to NCBTK.
+4. The authorized transfusion institution creates an accurate, effective and proved procedure to withdraw from circulation the blood and blood components which are associated with serious adverse events or reactions.
+5. NCBTK shall maintain a separate register of serious adverse events and reactions and informs the Ministry.
+6. The method of reporting, actions to be taken and the content of the form for reporting serious adverse events or reactions are determined by sub-legal act issued by the Ministry.

@@ -1,0 +1,5 @@
+# Article 37
+Responsibilities of the responsible doctor 1. The responsible doctor who uses blood or blood components in the treatment of patients is responsible for the reasonableness of fair use and administration of blood and blood components in accordance with the principles of adequate, rational use and good clinical practice.
+2. The responsible doctor verifies the identity of the final recipient of the blood and blood components which shall be administered, and to supervise the blood recipient during blood transfusion flow, ascertains positive effects and serious adverse reactions or events and takes actions according to hospital protocols in avoiding of serious adverse reactions and events.
+3. The responsible doctor who uses blood or blood components in the treatment of patients must fill in the form on the blood transfusion flow, which delivers to NCBTK, whereas a copy of it keeps in the medical records of the patient.
+4. The detailed procedure for the therapeutic use of blood and required forms on the blood transfusion flow are set in a bylaw by the Ministry.

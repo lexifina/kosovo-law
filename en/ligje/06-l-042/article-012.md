@@ -1,0 +1,4 @@
+# Article 12
+Reporting for transfusion activity 1. Director of NCBTK reports to the Minister on transfusion activity for previous year at not later than April 1st of the coming year.
+2. The annual report shall include: total number of blood donors, the total number of donations, an updated list of medical institutions which are supplied with blood or blood components, the unused blood units, the total number of each produced component and released or distributed, the incidence and prevalence of infectious markers in blood and blood components for transfusion-transmissible diseases, the number of components withdrawn from circulation, the number of reported serious adverse events and reactions.
+3. All Authorized transfusion institutions are obliged to document the transfusion activity and statistical data and submit them to NCBTK, not later than 15 January of the coming year.

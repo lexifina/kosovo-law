@@ -1,0 +1,1 @@
+LAW No.06/L-042 FOR BLOOD AND BLOOD COMPONENTS LAW No. 06/L-042 FOR BLOOD AND BLOOD COMPONENTS The Assembly of the Republic of Kosovo, Based on Article 65 (1) of the Constitution of the Republic of Kosovo, Approves: LAW FOR BLOOD AND BLOOD COMPONENTS
