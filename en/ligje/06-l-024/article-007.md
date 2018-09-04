@@ -1,0 +1,8 @@
+# Article 7
+The responsibilities of investors and owners of constructions without permit 1. Investors and owners of constructions without permit shall:
+LAW No. 06/L-024 ON TREATMENT OF CONSTRUCTIONS WITHOUT PERMIT 1.1. apply for legalization of their construction without permit and take all necessary actions to ensure that their applications are complete, accurate and true;
+1.2. pay the fees required for legalization as provided in Article 20 of this Law;
+1.3. demolish construction without permit in accordance with Article 11 of this Law if the same is not legalized;
+2. Notwithstanding provisions of paragraph 1. of this Article, investors of constructions without permit with many units have primary responsibility for applying for legalization under this Law. If the investor does not require legalization, one or more owners of the construction without permit may require legalization on behalf of the building.
+2.1. if one or more owners of construction without permit require legalization on behalf of the entire building, all costs of legalization will be divided among all owners of constructions without permit in proportionate shares based on the percentage of the size of the residential unit in relation to the building;
+2.2. the owners of the construction without permit who participate in the cost of legalization may initiate legal action against the owners of the construction without permit which do not participate in the cost of legalization to reimburse the unpaid parts, together with legal costs and other fees allowed by Law; and 2.3. the owners of the construction without permit may take legal action to reimburse the cost of legalization by the investor, together with other damages, costs and fees allowed by Law.

@@ -1,0 +1,12 @@
+# Article 16
+Treatment of interventions without permit in a building with permit 1. This Article applies to interventions without permit in buildings with permits, built until the date this Law takes effect.
+2. The Applicant shall submit, in the municipality where the construction is located, the Application Form and other required documents, as provided in a sub-legal act adopted by the Ministry in accordance with Article 24, sub-paragraph 1.1. of this Law and within the deadlines set in Article 21 of this Law.
+3. If Competent Body determines that the application is complete and the intervention without permit qualifies for legalization under this Law, Competent Body shall:
+3.1. determine whether the intervention without permit complies with basic health and safety requirements provided by sub-legal act adopted in accordance with Article 24, sub-paragraph 1.1 of this Law and with other provisions of this Law;
+3.2. legalizes the intervention without permit after the payment of the fee as provided in Article 20 of this Law;
+3.3. mark the intervention without permit as “legalized” in the Legalization Database after the payment of the respective fee as provided in accordance with Article 20 of this Law;
+3.4. register the construction at no extra cost in the Cadaster with a notation that it was legalized under this Law;
+3.5. register the property right over the construction parcel in the IPRR at no extra cost even if the owner of the construction is not the registered owner of the construction parcel but provides sufficient evidence for purposes of registration in the IPRR according to the applicable legislation; and 3.6. issue a Legalization Certificate and relevant documents that verify registration in the Cadaster and in the IPRR within ninety (90) days.
+4. If, at any stage of the process, there are deficiencies that can be corrected, applicant shall be notified in writing of the deficiency and be given a reasonable period of time not exceeding sixty (60) days, to correct and/or comply with the requirements so the legalization process can continue.
+5. If the construction does not qualify for legalization or the applicant fails to correct deficiencies in the application or in the construction, or fails to pay the respective fee required under Article
+LAW No. 06/L-024 ON TREATMENT OF CONSTRUCTIONS WITHOUT PERMIT 20 of this Law, Competent Body shall issue a written decision denying legalization and shall put the construction on the Demolition List.

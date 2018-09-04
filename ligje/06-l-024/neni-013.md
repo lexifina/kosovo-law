@@ -1,0 +1,16 @@
+# Neni 13
+Trajtimi i ndërtimeve të kategorisë I dhe ndërtimeve të kategorisë II të cilat janë shtëpi 1. Ky nen zbatohet për të gjitha ndërtimet pa leje të kategorisë I dhe ndërtimet pa leje të kategorisë II të cilat janë shtëpi, nëse këto ndërtime janë të përfunduara ose substancialisht të përfunduara.
+2. Aplikuesi dorëzon në komunën ku gjendet ndërtimi formularin e aplikimit dhe dokumentet tjera të kërkuara siç parashihet në aktin nënligjor të miratuar nga Ministria sipas nenit 24 nën- paragrafit 1.1. të këtij ligji dhe brenda afateve të përcaktuara në nenin 21 të këtij Ligji.
+3. Aplikacioni për legalizim duhet të përmbajë:
+3.1. certifikatën e pronësisë mbi parcelën ndërtimore ose dokumentacionin e nevojshëm për qëllime të regjistrimit në RDPP. Nëse aplikuesi nuk arrin të sigurojë as certifikatën e pronësisë dhe as dokumentacionin e nevojshëm për qëllime të regjistrimit në RDPP atëherë aplikacioni përfshihet në listën e pritjes sipas nenit 10, paragrafi 2. të këtij Ligji;
+3.2. matjet e nevojshme të përcaktuara në aktin nënligjor të miratuar nga Ministria sipas nenit 24, nën-paragrafi 1.1. të këtij Ligji;
+3.3. Deklaratë të nënshkruar nga pronari i ndërtimit pa leje se pranon të gjitha përgjegjësitë për sigurinë e strukturës së ndërtimit. Kjo deklaratë do të shënohet në certifikatën e legalizimit dhe do të regjistrohet në kadastër.
+4. Nëse një aplikues është përfitues i skemës së ndihmës sociale sipas Ligjit në fuqi për skemën e ndihmës sociale në Kosovë, komuna do të kryej, pa pagesë, matjet e nevojshme të përcaktuara në aktin nënligjor të miratuar nga Ministria sipas nenit 24, nën-paragrafit 1.1. të këtij Ligji.
+5. Nëse organi kompetent vlerëson se aplikacioni është i kompletuar dhe ndërtimi pa leje kualifikohet për legalizim sipas këtij Ligji, organi kompetent:
+5.1. legalizon ndërtimin pas pagesës së taksës së përcaktuar në nenin 20 të këtij Ligji;
+5.2. shënon ndërtimin si “i legalizuar” në Bazën e të Dhënave të Legalizimit pas pagesës së taksës përkatëse sipas nenit 20 të këtij Ligji;
+5.3. regjistron ndërtimin pa kosto shtesë në Kadastër, me një shënim se është i legalizuar sipas këtij Ligji;
+5.4. regjistron të drejtën pronësore mbi parcelën ndërtimore në RDPP pa kosto shtesë edhe nëse pronari i ndërtimit nuk është pronar i regjistruar i parcelës ndërtimore, por që ofron dokumentacion të mjaftueshëm për regjistrim në RDPP sipas legjislacionit ne fuqi;
+5.5. lëshon certifikatën e legalizimit dhe dokumentet përkatëse që vërtetojnë regjistrimin në Kadastër dhe në RDPP brenda gjashtëdhjetë (60) ditëve pas dorëzimit të aplikacionit të kompletuar nga aplikuesi.
+LIGJI Nr. 06/L-024 PËR TRAJTIMIN E NDËRTIMEVE PA LEJE 6. Nëse gjatë cilësdo fazë të procesit shfaqen mangësi të cilat mund të korrigjohen, aplikuesi njoftohet me shkrim lidhur me ato mangësi dhe i jepet një afat i arsyeshëm kohor jo me shumë se gjashtëdhjetë (60) ditë që t’i korrigjoj dhe/ose përmbushë kërkesat në mënyrë që procesi i legalizimit të mund të vazhdojë.
+7. Nëse ndërtimi pa leje nuk kualifikohet për legalizim apo nëse aplikuesi nuk i korrigjon mangësitë në aplikacion ose në ndërtimin pa leje, apo nuk e paguan taksën e kërkuar sipas nenit 20 të këtij Ligji, organi kompetent nxjerr vendim me shkrim për refuzim të legalizimit dhe e vendos ndërtimin pa leje në listën e rrënimit

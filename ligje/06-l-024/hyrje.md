@@ -1,0 +1,1 @@
+LIGJI Nr. 06/L-024 PËR TRAJTIMIN E NDËRTIMEVE PA LEJE LIGJI Nr. 06/L-024 PËR TRAJTIMIN E NDËRTIMEVE PA LEJE Kuvendi i Republikës së Kosovës, Në mbështetje të nenit 65 (1) të Kushtetutës së Republikës së Kosovës, Miraton: LIGJ PËR TRAJTIMIN E NDËRTIMEVE PA LEJE
