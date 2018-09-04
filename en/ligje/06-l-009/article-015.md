@@ -1,0 +1,5 @@
+# Article 15
+Legal effect of the mediation agreement 1. If the case is referred by the court, the written settlement agreement is submitted to the court, which upon its approval shall have the power of an enforcement document pursuant to the respective law on enforcement procedure.
+2. If the case is referred by the prosecution, the written settlement agreement is sent to the prosecution, which upon approval by the Chief Prosecutor has the power of final decision.
+3. If the case is referred by the competent administrative body, the agreement reached in writing should be sent to the competent administrative body, which after approval by the head of the administrative body has the power of an enforcement document.
+4. If the mediation commences with self- initiation by the parties, the agreement reached in writing signed by the parties and the mediator, which contains the clause (certificate) on the validity and enforceability of the agreement, shall have the power of enforcement document in accordance with the relevant Law on enforcement procedure.

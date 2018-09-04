@@ -1,0 +1,11 @@
+# Neni 3
+Përkufizimet 1. Për qëllimet e këtij ligji shprehjet e përdorura kanë këtë kuptim:
+LIGJI Nr. 06/L-009 PËR NDËRMJETËSIM 1.1. Ndërmjetësimi - nënkupton procedurën jashtëgjyqësore për zgjidhjen e kontesteve dhe mosmarrëveshjeve ndërmjet subjekteve të së drejtës në pajtim me kushtet e parashikuara në këtë ligj;
+1.2. Ndërmjetësimi i detyrueshëm-nënkupton procedurën e ndërmjetësimit të iniciuar nga gjyqtari kompetent i cili obligon palët ta provojnë procedurën e ndërmjetësimit, siç është paraparë me këtë ligj;
+1.3. Referent për ndërmjetësim- nënkupton zyrtarin e gjykatës apo atë të prokurorisë themelore. Zyrtarin e gjykatës që administron me rastet e referuara për ndërmjetësim nga gjykata dhe organet administrative, si dhe zyrtarin e prokurorisë që administron me rastet e referuara nga prokuroria. Referenti për ndërmjetësim mundet t’ i asistojë palët me rastet e vetë inicimit;
+1.4. Ndërmjetësuesi, është personi i tretë, i paanshëm, i licencuar nga Ministria e Drejtësisë, i cili është përzgjedh të ndërmjetësojë në mes palëve me qëllim të zgjidhjes së mosmarrëveshjeve, në pajtim me parimet e ndërmjetësimit;
+1.5. Dokument përmbarues (Titulli përmbarimor) nënkupton dokumentin siç është përcaktuar me Ligjin për Procedurën Përmbarimore;
+1.6. Marrëveshja e ndërmjetësimit, është marrëveshje e arritur me shkrim e nënshkruar nga palët dhe ndërmjetësuesi për zgjidhjen e kontestit ndërmjet palëve në procedurën e ndërmjetësimit. Pa marrë parasysh mënyrën e referimit të rastit marrëveshja e ndërmjetësimit ka fuqinë e titullit ekzekutiv - përmbarues dhe është i detyrueshëm për palët;
+1.7. Oda e Ndërmjetësuesve, është person juridik i pavarur jofitimprurës, që vepron në pajtim me këtë ligj dhe statutin e saj të miratuar nga Kuvendi i Përgjithshëm i Odës së Ndërmjetësueseve dhe të aprovuar nga Ministria e Drejtësisë;
+1.8. Hapësirë pune, zyrë apo ambient i përshtatshëm për zhvillimin e seancave të ndërmjetësimit sipas parimeve të ndërmjetësimit, e cila do të jetë në kuadër të gjykatës, prokurorisë apo lokacion tjetër të caktuar nga Oda e Ndërmjetësuesve, duke marrë në konsideratë vullnetin e palëve;
+1.9. Regjistri, është regjistri i ndërmjetësuesve të Licencuar nga Ministria e Drejtësisë.

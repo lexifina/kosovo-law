@@ -1,0 +1,2 @@
+# Article 13
+The effect of mediation on limitation and on the period of statutory limitation In mediation cases referred by court, prosecution office or a competent administrative body, the court, prosecution office or competent administrative body shall ensure that parties who choose mediation in an attempt to settle a dispute will not be prevented from initiating and continuing the judicial proceedings or arbitration in relation to this dispute upon the expiry of limitation or in the period of statutory limitation during the mediation process.

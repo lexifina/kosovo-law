@@ -1,0 +1,5 @@
+# Article 2
+Scope 1. The provisions of this Law shall be applied in mediation procedure of contested relations of subjects of the law in legal-property, commercial, family, labour relations and other cases of ownership disputes such as rights related to acquiring ownership rights through contractual relations or rights acquired by virtue of inheritance, bankruptcy procedures, and other civil, administrative and criminal relations, whereby parties can freely discharge their free will, unless a special law has foreseen the exclusive responsibility of the court, prosecution office or any other competent body.
+2. Mediation in the criminal field shall be applied in cases where there is foreseen the punishment by fine and the punishment by imprisonment up to three (3) years, except the cases foreseen in paragraph 3 of this Article.
+3. Mediation and mediation procedure shall not be applied in cases of domestic violence, in accordance with the Law against Domestic Violence or in any other dispute for which the exclusive responsibility of the court or any other competent body has been foreseen.
+LAW No.06/L –009 ON MEDIATION

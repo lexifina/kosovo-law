@@ -1,0 +1,4 @@
+# Article 18
+Conflict of interest 1. The mediator during the entire procedure should ensure in such a way that if he believes that his position or any circumstance known by him puts into question his impartiality, the same should declare those circumstances and undertake actions which avoid potential conflicts of interest.
+2. In case of a conflict of interest, the mediator shall terminate the mediation procedure and request that the mediation procedure proceeds with another mediator, unless the parties, even after being informed of the existence of such circumstances, have expressly agreed in writing that the same mediator performs the mediation proceedings.
+3. The mediator can not be engaged for any of the parties in the same dispute or contest where he has mediated, whether during or after the completion of mediation procedure.

@@ -1,0 +1,5 @@
+# Neni 15
+Efekti juridik i marrëveshjes së ndërmjetësimit 1. Nëse lënda është referuar nga gjykata, marrëveshja e arritur me shkrim i dërgohet gjykatës, e cila pas aprovimit, e ka fuqinë e dokumentit përmbarues sipas ligjit përkatës për procedurën përmbarimore.
+2. Nëse lënda është referuar nga prokuroria, marrëveshja e arritur me shkrim i dërgohet prokurorisë, e cila pas aprovimit nga kryeprokurori ka fuqinë e vendimit të formës së prerë.
+3. Nëse lënda është referuar nga organi kompetent administrativ, marrëveshja e arritur me shkrim duhet t’i dërgohet organit kompetent administrativ, e cila pas aprovimit nga udhëheqësi i organit administrativ, e ka fuqinë e dokument përmbarues.
+4. Nëse Ndërmjetësimi fillon me vetëinicimin e palëve, marrëveshja e arritur me shkrim e nënshkruar nga palët dhe ndërmjetësuesi, e cila përmban klauzolën (vërtetimin) mbi plotfuqishmërinë dhe ekzekutueshmerinë e marrëveshjes, ka fuqinë e dokumentit përmbarues në përputhje me ligjin përkatës për procedurën përmbarimore.

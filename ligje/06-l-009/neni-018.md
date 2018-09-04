@@ -1,0 +1,4 @@
+# Neni 18
+Konflikti i interesit 1. Ndërmjetësuesi gjatë gjithë procedurës duhet të kujdeset në atë formë që nëse beson se pozita e tij ose ndonjë rrethanë e njohur nga ai e vënë në pikëpyetje paanësinë e tij, i njëjti duhet t’i deklaroj ato rrethana dhe të ndërmarrë veprimet me anë të së cilave i shmanget konfliktit të interesit të mundshëm.
+2. Në rast se paraqitet konflikt i interesit, ndërmjetësuesi duhet të ndërpres procedurën e ndërmjetësimit dhe të kërkoj që procedura e ndërmjetësimit të vazhdoj me ndonjë ndërmjetësues tjetër, përveç nëse palët, pasi të janë informuar për ekzistimin e rrethanave të tilla, janë pajtuar shprehimisht me shkrim që ai ndërmjetësues të zhvillojë procedurën e ndërmjetësimit.
+3. Ndërmjetësuesi nuk mund të angazhohet për asnjërën palë në të njëjtën mosmarrëveshje apo kontest ku ai ka ndërmjetësuar, qoftë gjatë apo pas përfundimit të procedurës së ndërmjetësimit.

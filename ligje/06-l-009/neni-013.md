@@ -1,0 +1,2 @@
+# Neni 13
+Efekti i ndërmjetësimit në kufizimin dhe në periudhën e parashkrimit 1. Në rastet e ndërmjetësimit të referuara nga gjykata, prokuroria apo organi kompetent administrativ, gjykata, prokuroria apo organi kompetent administrativ do të siguroj që palët të cilët zgjedhin ndërmjetësimin në një përpjekje për të zgjidhur një mosmarrëveshje nuk do të jenë të penguar të iniciojnë dhe vazhdojnë procedurën gjyqësore ose arbitrazhin në lidhje me këtë mosmarrëveshje me skadimin e kufizimit ose në periudhën e parashkrimit gjatë procesit të ndërmjetësimit.
