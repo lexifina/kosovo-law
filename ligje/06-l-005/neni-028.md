@@ -1,0 +1,4 @@
+# Neni 28
+Detyrimi për të ofruar informacion mbi pronën (pasurinë/asetet) e debitorit 1. Komuna në ushtrim të detyrave të saj të parashikuara në këtë kapitull, bashkëpunon me të gjitha autoritetet publike, personat juridik apo organet të cilat administrojnë apo kanë në dispozicion informacionin e nevojshëm për pronën (pasurinë/asetet) e debitorit.
+2. Me kërkesë të komunës, autoritetet publike, personat juridik apo organet që kanë autoritetin mbi regjistrat e pronës dhe të drejtat mbi pronën (pasurinë/asetet) e debitorit apo kanë në posedim ndonjë pronë të debitorit, duhet të ofrojnë informacion mbi pronën (pasurinë/asetet) e debitorit në përputhje me procedurat e komunikimit të përcaktuara nga Qeveria e Republikës së Kosovës.
+3. Autoritetet publike, personat juridik dhe organet e referuara në paragrafin 1. të këtij neni nuk e informojnë debitorin se ato informata janë kërkuar.

@@ -1,0 +1,5 @@
+# Article 11
+Primary residence deduction 1. The natural person who, until 30 of November of the year before the tax year, establishes that the object unit serves as primary residence and declares this in the Municipality or during the inspection stage, shall be allowed a deduction of fifteen thousand (15,000) Euro from the appraised value of the object unit.
+2. The co-owner, co-possessor or joint possessor of an object unit that serves as primary residence is entitled to the primary residence deduction in proportion to his determined share.
+3. If the appraised value of the object unit is lower than the primary residence deduction, the remaining part of the deduction is subtracted from the appraised value of the parcel unit where the object unit under the same ownership or possession is constructed.
+4. The natural person who owns or possesses two (2) or more residential object units may declare in accordance with paragraph 1 of this Article only one of those objects as his primary residence, regardless of the fact that the object units may be located in different Municipalities.

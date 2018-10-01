@@ -1,0 +1,10 @@
+## KAPITULLI IX
+## GJOBAT
+# Neni 35
+Gjobat 1. Çdo poseduesi që nuk bën kërkesë për regjistrimin e pronës së paluajtshme që ai posedon dhe nuk i siguron Komunës informacionin e nevojshëm në pajtim me paragrafët 3. dhe 4. të nenit 14 të këtij Ligji, i dërgohet një letër kujtesë.
+2. Nëse poseduesi nuk i përmbahet letër kujtesës brenda tridhjetë (30) ditëve kalendarike nga data kur letër kujtesa e zyrës komunale të tatimit në pronë konsiderohet të jetë pranuar nga poseduesi, i shqiptohet gjobë në një shumë që është e barabartë me tridhjetë përqind (30%) të tatimit të vlerësuar në vitin pasues.
+3. Personi i cili refuzon të drejtën për inspektim në pajtim me paragrafët 4. dhe 5. të nenit 15 të këtij Ligji, duhet të lejojë inspektimin brenda tridhjetë (30) ditëve kalendarike nga refuzimi i parë. Në rast të mos lejimit, ndaj atij personi shqiptohet gjobë në një shumë që është e barabartë me tridhjetë përqind (30%) të tatimit të vlerësuar në vitin pasues.
+4. Tatimpaguesi i cili nuk deklaron ndonjë ndryshim në pronën e paluajtshme që ka në pronësi ose posedim në pajtim me paragrafin 8. të nenit 18 të këtij Ligji, i shqiptohet gjobë në një shumë që është e barabartë me dyfishin e tatimit të vlerësuar që rrjedh nga diferenca midis vlerës së re të vlerësuar dhe vlerës së vjetër.
+5. Tatimpaguesi i cili deklaron dy(2) apo më shumë njësi rezidenciale të objektit si vendbanimin e tij parësor në kundërshtim me nenin 11 të këtij Ligji, i shqiptohet gjobë prej njëqind (100) Eurosh.
+6. Tatimpaguesi i cili nuk e paguan tatimin në pronën e paluajtshme në datën ose para datës së fundit për pagesë i vendoset gjobë në një shumë që është e barabartë me dhjetë përqind (10%) të tatimit të papaguar.
+7. Gjobat e përcaktuara në paragrafët 2., 3., 4. dhe 6. të këtij neni shqiptohen nëse janë në kuadër të limitit të përcaktuar për sanksionet kundërvajtëse, sipas legjislacionit në fuqi. Nëse ndonjë gjobë është mbi limitin e përcaktuar, shqiptohet gjoba që është në tavanin e limitit të lejuar sipas legjislacionit në fuqi.

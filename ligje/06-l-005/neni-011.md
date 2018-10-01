@@ -1,0 +1,5 @@
+# Neni 11
+Zbritja për vendbanimin parësor 1. Personi fizik, i cili vendos deri më 30 nëntor të vitit para vitit tatimor se njësia e objektit shërben si vendbanim parësor dhe e deklaron këtë në komunë apo gjatë fazës së inspektimit, i lejohet zbritja prej pesëmbëdhjetë mijë (15,000) Euro nga vlera e vlerësuar e njësisë së objektit.
+2. Bashkëpronari, bashkë poseduesi ose poseduesi i përbashkët i një njësie objekti që shërben si vendbanim parësor, ka të drejtën e zbritjes për vendbanim parësor në proporcion me pjesën e tij të caktuar.
+3. Nëse vlera e vlerësuar e njësisë së objektit është më e vogël se zbritja për vendbanimin parësor, pjesa e mbetur e zbritjes zbritet nga vlera e vlerësuar e njësisë së parcelës ku është ndërtuar njësia e objektit në pronësi apo posedim të njëjtë.
+4. Personi fizik i cili ka në pronësi apo posedim dy (2) ose më shumë njësi rezidenciale të objekteve, mund të deklarojë në përputhje me paragrafin 1. të këtij neni, vetëm një prej këtyre objekteve si vendbanimin e tij parësor, pa marrë parasysh faktin që njësitë e objekteve mund të ndodhen në komuna të ndryshme.

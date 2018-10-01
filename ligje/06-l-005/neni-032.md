@@ -1,0 +1,10 @@
+# Neni 32
+Ankesa ndaj certifikatës së vlerës së vlerësuar 1. Personi i cili beson në mënyrë të arsyeshme se vlera e vlerësuar e pronës së paluajtshme që ai ka në pronësi dhe/ose posedon është e pasaktë, se ka gabime në regjistrat e tatimit në pronë mbi të cilat është bazuar certifikata e vlerës së vlerësuar, apo se certifikata e vlerës së vlerësuar është në kundërshtim me dispozitat e këtij Ligji, mund të ushtrojë ankesë për rishqyrtimin plotësisht ose pjesërisht të certifikatës së vlerës së vlerësuar nga Ministria e Financave. Ankesa mund të parashtrohet secilën herë që një certifikatë e re e vlerës së vlerësuar është lëshuar për atë pronë të paluajtshme.
+2. Ankesa e personit dorëzohet së bashku me dokumentacionin mbështetës me të cilin personi dëshiron të provojë pretendimet e tij, jo më vonë se dy (2) muaj nga dita e fundit për lëshimin e faturave të tatimit në pronë në atë vit tatimor.
+3. Ankesa e personit nuk e pezullon detyrimin për të paguar detyrimet tatimore.
+4. Pavarësisht nga paragrafi 3. i këtij neni, nuk lejohet të ndërmerret asnjë nga masat e mbledhjes së detyrueshme deri sa të merret një vendim përfundimtar mbi ankesën e personit.
+5. Paragrafi 4. i këtij neni nuk zbatohet ndaj ankesave të cilat refuzohen menjëherë si absolutisht të papranueshme dhe të pabaza.
+6. Ministria e Financave merr vendim në lidhje me ankesën e dorëzuar brenda gjashtëdhjetë (60) ditëve kalendarike nga pranimi i ankesës. Ministria e Financave mund të zgjasë deri në tridhjetë (30) ditë kalendarike, afatin për shqyrtimin e ankesës së dorëzuar, me një vendim të arsyetuar.
+7. Ministria e Financave i dërgon personit vendimin brenda pesë (5) ditëve pune pas datës së marrjes së vendimit.
+8. Nëse Ministria e Financave nuk merr vendim mbi ankesën e dorëzuar brenda afatit të përcaktuar në paragrafin 6. të këtij neni, personi mund të ushtrojë padi në Gjykatën Themelore të Prishtinës.
+9. Një person i cili nuk pajtohet me vendimin mbi ankesën, të marrë nga Ministria e Financave, mund të ushtrojë padi në Gjykatën Themelore të Prishtinës, brenda tridhjetë (30) ditëve kalendarike nga data kur vendimi konsiderohet të jetë pranuar nga personi.

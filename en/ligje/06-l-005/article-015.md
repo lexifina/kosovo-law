@@ -1,0 +1,8 @@
+# Article 15
+Inspection 1. The Municipality shall inspect immovable properties within the territory of the Municipality. The Municipality may engage private inspectors to assist in inspecting activities.
+2. Inspection activities shall be carried out each year for at least twenty per cent (20%) of all objects within the territory of the Municipality and only when it is necessary for parcels.
+3. Inspection activities shall be conducted in a reasonable manner that minimizes inconveniences or interferences to the person owning or possessing the immovable property.
+4. Except as provided for under paragraph 5 and 6 of this Article, all persons owning or
+LAW No. 06/L –005 ON IMMOVABLE PROPERTY TAX possessing immovable property, are obliged to allow the authorized persons representing the Municipality to enter their land and objects in order to collect the necessary information regarding the immovable property.
+5. Entrance to residential object units shall be allowed when it is impossible to collect the necessary information on the immovable property without entering the object and only upon a reasoned decision of the Municipality.
+6. The Municipality may request from legations and consulates accredited by the Republic of Kosovo, United Nations Organization, or any of its bodies, including its specialized agencies and missions, European Union or any of its bodies, including its specialized agencies and missions, or from foreign liaison offices owning or using the immovable property to provide the necessary information on that property, for property tax registers. Provision of such information shall be on a voluntary basis and without prejudice to privileges and immunity that may be applicable.

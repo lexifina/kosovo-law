@@ -1,0 +1,3 @@
+# Article 34
+Reimbursement 1. If the adopted decision or judgment is in favour of the taxpayer or the debtor, any overpaid tax liability by the taxpayer or the debtor and the interest paid for the tax liability paid in excess, calculated from the date of payment of tax liability to the date of reimbursement, shall be reimbursed to the taxpayer or debtor within ninety (90) calendar days from the date the final decision is adopted by a competent administrative or judicial authority.
+2. The charged interest rate is equal to the average annual rate established and published by the Ministry of Finance for the year before the tax year.

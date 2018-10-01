@@ -1,0 +1,4 @@
+# Article 39
+Occupied properties 1. Municipalities shall be obliged to release from all tax liabilities, persons whose property has been or is occupied according to a final decision issued by a public authority, competent to review cases of illegal occupation in Kosovo.
+2. Paragraph 1 of this Article shall apply to tax liabilities, arising from tax years during which the person had no access and didn’t use his property (in any form), as confirmed in a final decision issued by a competent public authority.
+3. For the implementation of this Article (identification of persons whose property is occupied), Municipalities shall cooperate and exchange information with the Kosovo Property Comparison and Verification Agency, Courts or any other public authority, competent to review cases of illegal occupation in Kosovo, according to the procedures stipulated in the sub-legal act issued by the Government of Kosovo pursuant to paragraph 6 of Article 14 of this Law.

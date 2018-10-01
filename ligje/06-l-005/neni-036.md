@@ -1,0 +1,10 @@
+## KAPITULLI X
+## DISPOZITA KALIMTARE DHE PËRFUNDIMTARE
+# Neni 36
+Njoftimet dhe komunikatat 1. Nëse një dispozitë e këtij Ligji kërkon dërgimin e një njoftimi me shkrim dhe/ose akti tjetër zyrtar një personi, ajo kërkesë konsiderohet se është përmbushur nëse njoftimi dhe/ose akti depozitohet, adresohet dhe tarifat paguhen në mënyrë të rregullt në Shërbimin Zyrtar Postar të Kosovës.
+LIGJI Nr. 06/L-005 PËR TATIMIN NË PRONËN E PALUAJTSHME 2. Njoftimi me shkrim dhe/ose akti tjetër zyrtar mund t’i dërgohet një personi përmes zyrtarëve të komunave ose Ministrisë së Financave, në përputhje me nenin 37 të këtij Ligji.
+3. Njoftimi dhe/ose akti tjetër zyrtar konsiderohet së është adresuar në mënyrë të rregullt nëse i është adresuar personit përkatës në adresën e fundit të ditur të atij personi. Nëse ky informacion (adresa) nuk mund të konstatohet nga të dhënat kadastrale në dispozicion ose të dhënat e tjera mbi pronën e paluajtshme në Kosovë, duke përfshirë të dhënat e Agjencisë Kosovare për Krahasim dhe Verifikim të Pronës dhe të dhënat e fundit mbi tatimin në pronë, komuna dhe Ministria e Financave mund të përdorë, nëse është në dispozicion, adresën (vendndodhjen) e njësisë së objektit në pronësi ose posedim të personit.
+4. Komuna dhe Ministria e Financave janë të lirë të vendosin për mënyrën e duhur të njoftimit (dërgim me postë, ose nëpërmjet zyrtarëve të tyre) duke pasur parasysh efektivitetin e tij, mbrojtje ligjore të interesave të palës, transparencën dhe koston.
+5. Njoftimi dhe/ose akti tjetër zyrtar mund t’i dërgohet një personi përmes mjeteve të komunikimit elektronik apo me faks, nëse personi ka kërkuar në mënyre eksplicite të njoftohet në atë mënyrë.
+6. Një njoftim dhe/ose akt zyrtar konsiderohet të jetë pranuar nga personi (personi ka marrë dijeni), tridhjetë (30) ditë kalendarike pas datës së marrjes/nxjerrjes së njoftimit dhe/ose aktit, siç parashihet me këtë ligj.
+7. Personat janë të detyruar të deklarojnë në komuna adresën e saktë ku dëshirojnë të njoftohen, në mënyrë që të sigurojnë marrjen në kohë të njoftimeve dhe/ose akteve.

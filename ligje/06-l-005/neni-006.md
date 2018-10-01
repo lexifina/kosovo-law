@@ -1,0 +1,7 @@
+# Neni 6
+Tatimpaguesi 1. Tatimpaguesi është pronari i pronës së paluajtshme.
+2. Nëse pronari i pronës së paluajtshme ka vdekur, ka pushuar së ekzistuari, nuk mund të përcaktohet ose nuk mund të gjendet, tatimpagues është personi i cili e posedon ligjërisht pronën e paluajtshme.
+3. Nëse pronari ose poseduesi i ligjshëm ka vdekur, ka pushuar së ekzistuari, nuk mund të gjendet, nuk mund të përcaktohet ose mund të përcaktohet por nuk ka qasje në pronën e paluajtshme, tatimpagues është personi i cili e posedon faktikisht pronën e paluajtshme. Një përcaktim i tillë nuk i jep kurrfarë të drejtash pronësore poseduesit.
+4. Në përputhje me kushtet e përcaktuara në paragrafët 1., 2. dhe 3. të këtij neni, përgjegjësia për pagesën e tatimit në pronën e paluajtshme për një vit tatimor të caktuar i përket personit i cili e ka në pronësi apo posedim pronën e paluajtshme që i nënshtrohet tatimit, në 30 nëntor të vitit para vitit tatimor.
+5. Kur e njëjta pronë e paluajtshme është në bashkëpronësi, bashkë-posedim ose posedim të përbashkët të dy ose më shumë personave, përgjegjës për pagesën e detyrimeve tatimore janë secili nga këta persona në proporcion me pjesën e tyre të caktuar. Tatimpaguesit janë individualisht përgjegjës për pagesën e detyrimeve tatimore.
+6. Kur e njëjta pronë e paluajtshme është në pronësi të përbashkët të dy ose më shumë personave, tatimpaguesit janë bashkërisht përgjegjës për pagesën e detyrimeve tatimore.

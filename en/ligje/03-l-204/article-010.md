@@ -1,5 +1,0 @@
-# Article 10
-Registration and Property Information
-1. All persons owning, using or occupying immovable property shall be liable to register that property in the municipal property tax database, and supply the relevant municipality with information concerning the immovable property subject to registration, on or before 1 March of each tax period. Procedures, including nature of information to be provided for this purpose, shall be set out in a sub-normative act issued by the Ministry of Finance and Economy.
-2. All persons owning, using or occupying immovable property, except as provided for under paragraph 3 of this Article, shall allow the authorized officials representing the municipal tax authorities to enter land and buildings at daylight hours to collect data regarding the value of the property.
-3. The relevant municipality may request the United Nations or any of its organs including UNMIK, the specialized agencies of the United Nations, KFOR, EU, ICO, EULEX or foreign liaison offices owning or using immovable property to provide data regarding that property for the municipal property tax database.

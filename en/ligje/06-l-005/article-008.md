@@ -1,0 +1,10 @@
+# Article 8
+Rules of classification 1. Classification of immovable property in agricultural, forest, residential, commercial, industrial or public property shall be based on the actual use of the immovable property.
+2. If the actual use cannot be determined, the Municipality classifies the immovable property by taking into consideration the planned use.
+3. If the planned use cannot be determined either, the Municipality shall classify the immovable property as residential property.
+4. If the immovable property is used or is planned to be used for two (2) or more purposes, the Municipality shall classify the immovable property in two (2) or more respective property categories, if the accurate area used or planned to be used for different purposes can be easily determined. Division of the immovable property in separate units, after its classification into two (2) or more property categories, is reflected in the property tax registers.
+5. If the immovable property is used or is planned to be used for two (2) or more purposes and the accurate area used or planned to be used for different purposes cannot be determined, the Municipality shall classify the entire immovable property based on the use that the largest part of the immovable property has.
+6. Unfinished and ruined objects, the actual and the planned use of which cannot be determined, are classified based on:
+6.1. the actual use of the parcel unit on which the building is constructed or is being constructed; or 6.2. the planned use of the parcel unit, if the actual use of the parcel unit cannot be determined.
+7. If the planned use of the parcel unit on which the object is constructed or is being constructed cannot be determined either, the Municipality shall classify the object as residential property.
+LAW No. 06/L –005 ON IMMOVABLE PROPERTY TAX 8. For the first tax year following the entry into force of this Law, the classification of the immovable properties is carried out by the Ministry of Finance, while for the following tax years by the Municipality.
