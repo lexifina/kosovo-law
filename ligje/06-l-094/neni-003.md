@@ -1,0 +1,2 @@
+# Neni 3
+Hyrja në fuqi Ky ligj hyn në fuqi në ditën e publikimit në Gazetën Zyrtare të Republikës së Kosovës. Ligji Nr. 06/L -094 20 shtator 2018 Shpallur me dekretin Nr. DL-043-2018, datë 09.10.2018 nga Presidenti i Republikës së Kosovës Hashim Thaçi ________________________________ Shtojca e ligjit Nr. 06/L -094, “Marrëveshja ndërmjet Republikës së Kosovës dhe Bashkimit Evropian mbi Pjesëmarrjen e Republikës së Kosovës në Programin “Evropa për Qytetarët”, bashkëngjitur me ligj është publikuar ne web faqen e Gazetës Zyrtare (gzk.rks-gov.net )
