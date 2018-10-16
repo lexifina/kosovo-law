@@ -1,0 +1,2 @@
+# Neni 3
+Hyrja në fuqi Ky ligj hyn në fuqi në ditën e publikimit në Gazetën Zyrtare të Republikës së Kosovës. Ligji Nr. 06/L -090 20 shtator 2018 Shpallur me dekretin Nr. DL-041-2018, datë 09.10.2018 nga Presidenti i Republikës së Kosovës Hashim Thaçi ________________________________________ Shtojca e ligjit Nr. 06/L -090, “Marrëveshja financiare për IPA 2017, Pjesa e Parë, ndërmjet Republikës së Kosovës dhe Bashkimit Evropian”, bashkëngjitur me ligj është publikuar ne web faqen e Gazetës Zyrtare (gzk.rks-gov.net )

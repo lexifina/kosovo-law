@@ -1,0 +1,2 @@
+# Article 3
+Entry into force This law shall enter into force on the day of publication in the Official Gazette of the Republic of Kosovo Law No. 06/L-090 20 September 2018 Promulgated by Decree No.DL-041-2018, dated 09.10.2018, President of the Republic of Kosovo Hashim Thaçi. __________________________________ Annex of the Law No. 06/L-090, the “Financial Agreement for IPA 2017, part one, between the Republic of Kosovo and the European Union”, attached to the law is published in the website of the Official Gazette (gzk.rks-gov.net)
