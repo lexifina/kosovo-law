@@ -1,0 +1,7 @@
+# Neni 13
+Fillimi i procedurave për emërimin e
+zyrtarit në pozita të larta drejtuese
+1.Titullari i institucionit ku është vendi i lirë i propozon ministrisë fillimin e procedurave për rekrutimin e zyrtarit në pozita të larta drejtuese.
+2.Ministria pa vonesë dhe jo me larg se (7) shtatë ditë pas propozimit të titullarit shpall konkursin publik dhe formon komisionin.
+3.Sekretaria ofron gjithë përkrahjen administrative dhe logjistike për Komisionin.
+4. Në rastet kur titullari i institucionit rekrutues përcakton se ekziston nevoja për kritere shtesë që janë specifike për atë pozitë (përveç atyre që tashmë janë specifikuar në kuadër të ligjeve specifike), atëherë titullari i institucionit para se të dorëzoj propozimin për shpalljen e konkursit tek Ministria e Administratës Publike, do të dorëzoj propozimin për kritere specifike tek Këshilli për pozitat e larta drejtuese. Brenda tetë (8) ditëve të punës pas pranimit të këtij aplikacioni, Këshilli për pozitat e larta drejtuese duhet t’i japë përgjigje titullarit të Institucionit, nëse miratohen apo jo kriteret e propozuara shtesë. Kriteret do të konsiderohen si të miratuara nëse nuk ka përgjigjje nga Këshilli për pozitat e larta drejtueses brenda kësaj periudhe prej tetë (8) ditësh pune. Nëse merret miratimi, kriteret e rishikuara do të dërgohen tek Ministri i Ministrisë së Administratës Publike për shpalljen e konkurist. Kriteret specifike duhet të ndërlidhen me pozitën dhe të kenë relevancë të arsyetueshme për pozitën.
