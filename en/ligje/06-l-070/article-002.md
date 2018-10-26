@@ -1,0 +1,5 @@
+# Article 2
+1. Article 74 of the Basic Law paragraphs 1., 3., and 5. shall be amended as follows:
+1.1. the text of paragraph 1. shall be replaced by the text “the natural person and the responsible person of the legal person for minor offence shall be punished with a fine of one hundred (100) euro, while the legal person for minor offence shall be punished with a fine of one thousand (1,000) euro.
+1.2. the text of paragraph 3. shall be replaced by the text “the natural person and the responsible person of the legal person for minor offence shall be punished with a fine of one hundred (100) euro, while the legal person for minor offence shall be punished with a fine of one thousand (1,000) euro.
+1.3. the text of paragraph 5. shall be replaced by the text “the natural person and the responsible person of the legal person for minor offence shall be punished with a fine of one hundred (100) euro, while the legal person for minor offence shall be punished with a fine of one thousand (1,000) euro.
