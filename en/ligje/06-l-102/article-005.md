@@ -1,0 +1,3 @@
+# Article 5
+Entry into force This Law shall enter into force fifteen (15) days after its publication in the Official Gazette of the Republic of Kosovo. Law No. 06/L-102 20 September 2018
+Promulgated by Decree No.DL-039-2018, dated 09.10.2018, President of the Republic of Kosovo Hashim Thaçi. ________________________________ Annex of the Law No. 06/L-102, “The Agreement between the European Union and the Republic of Kosovo signed on 05 June 2018 in Brussels, on the participation of Kosovo in the Creative Europe Programme for support to the Cultural and Creative Sectors”, attached to the law is published in the website of the Official Gazette (gzk.rks-gov.net)
