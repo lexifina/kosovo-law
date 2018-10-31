@@ -1,0 +1,2 @@
+# Neni 3
+Hyrja në fuqi Ky ligj hyn në fuqi pesëmbëdhjetë ditë (15) pas publikimit në Gazetën Zyrtare të Republikës së Kosovës. Ligji Nr. 06/L -095 20 shtator 2018 Shpallur me dekretin Nr. DL-044-2018, datë 09.10.2018 nga Presidenti i Republikës së Kosovës Hashim Thaçi ____________________________________ Shtojca e ligjit Nr. 06/L -095, “Marrëveshja ndërmjet Komisionit Evropian dhe Kosovës mbi pjesëmarrjen e Kosovës në ‘Erasmus +’, Programin e Unionit për Arsim, Trajnim, Rini dhe Sport, bashkëngjitur me ligj është publikuar ne web faqen e Gazetës Zyrtare (gzk.rks-gov.net )
