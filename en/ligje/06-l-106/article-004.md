@@ -1,0 +1,3 @@
+# Article 4
+Entry into force This law enters into force fifteen (15) days after the publication in Official Gazette of Republic of Kosovo. Law No. 06/L-106 20 September 2018
+Promulgated by Decree No.DL-040-2018, dated 09.10.2018, President of the Republic of Kosovo Hashim Thaçi. _______________________________________ Annex of the Law No. 06/L-106,”The Agreement between the Government of the Republic of Kosovo and the Government of Switzerland, signed on 13th of July 2018, related to Support Program for Water Supply and Sewerage in Rural Areas - Phase VI”, attached to the law is published in the website of the Official Gazette (gzk.rks-gov.net)
