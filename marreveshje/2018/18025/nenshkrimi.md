@@ -1,0 +1,4 @@
+Ligji Nr. 06/L -112 20 shtator 2018
+Shpallur me dekretin Nr. DL-042-2018, datë 09.10.2018 nga Presidenti i Republikës së Kosovës Hashim Thaçi
+__________________________________________
+Shtojca e ligjit Nr. 06/L -112, “Marrëveshja për Financim midis Republikës së Kosovës dhe Asociacionit Ndërkombëtar për Zhvillim për Projektin e Ekonomisë Digjitale të Kosovës, e nënshkruar më datë 20.07.2018, bashkëngjitur me ligj është publikuar ne web faqen e Gazetës Zyrtare (gzk.rks-gov.net )
