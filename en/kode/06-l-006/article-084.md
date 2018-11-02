@@ -1,0 +1,12 @@
+# Article 84
+Execution of the Measure of Committal to an Educational-correctional Institution 1. The educational measure of committal to an educational-correctional institution shall be executed in an educational-correctional institution established for this purpose. An educational- correctional institution is a correctional facility of the semi-opened and opened type.
+2. Females who are subject to this educational measure shall be accommodated in the female section of the educational-correctional institution.
+3. Adults who are subject to this educational measure, as well as juveniles who reach the age of eighteen (18) years in the educational-correctional institution, shall be accommodated in a special section of the educational-correctional institution.
+4. The director of the educational-correctional institution after receiving court’s ruling on imposition of educational-correctional measure shall decide on committal of the juvenile to a semi-opened or opened type of regime.
+5. The program, the rights, obligations and other benefits for juveniles in the Educational Correctional Centre shall be regulated with a special sub-legal act issued by the Ministry of Justice.
+CODE No. 06/L –006 JUVENILE JUSTICE CODE 6. The court shall order in writing the juvenile to report to the educational-correctional institution on a specific day for the execution of the educational measure.
+7. The period of time between the receipt of the order and the day of reporting shall be no less than eight (8) days and no more than fifteen (15) days.
+8. The court shall inform the educational-correctional institution of the date on which the juvenile shall report and shall serve the final decision along with birth certificate, school certificate or transfer document, medical examination report, previous criminal records, proceedings applied, social inquiry or pre-sentence report of the Probation Service.
+9. The authorized institution – which receives the ruling on execution, shall begin execution of the punishment within three (3) days after the receipt of the ruling.
+10. If a juvenile who has been properly summoned does not report at the educational-correctional institution, the court shall order that he be transported to the educational-correctional institution. If the juvenile hides or is in flight, the court shall order the issuance of a wanted notice.
+11. The method of transporting the juvenile to the educational institution shall not violate his dignity.

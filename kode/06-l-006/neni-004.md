@@ -1,0 +1,13 @@
+# Neni 4
+Parimet themelore 1. Interesi më i mirë duhet të jetë konsiderata mbizotëruese gjatë gjithë procedurës dhe veprimeve që ndërmirren ndaj fëmiut dhe të miturit.
+2. Sistemi i drejtësisë për të mitur synon mirëqenien e të miturit dhe siguron që çdo reagim ndaj kryerësve të mitur të jetë gjithmonë në proporcion me rrethanat e kryerësit dhe veprës penale.
+3. Kryerësve të mitur u shqiptohen masat e diversitetit dhe masat edukative, sipas nevojës, duke i dhënë përparësi masave dhe sanksioneve alternative në relacion me sanksionet penale.
+4. Privimi nga liria shqiptohet vetëm si mjet i fundit dhe do të kufizohet në afatin më të shkurtër të mundshëm. Gjatë kohës së privimit nga liria, i shqiptuar si dënim, kryesit të mitur i ofrohet edukim, ndihmë psikologjike, sipas nevojës, edhe ndihmë mjekësore, për ta lehtësuar rehabilitimin e tij.
+5. Fëmijës që merr pjesë në procedurë penale i ofrohet mundësia që të shprehet lirisht.
+6. Çdo i mitur i privuar lirie trajtohet me humanizëm për hir të dinjitetit të personalitetit të tij njerëzor, dhe me atë rast merren parasysh nevojat personale të moshës së tij. Në veçanti, çdo i mitur i privuar lirie ndahet nga madhorët, përpos nëse konsiderohet se është në interes të miturit të mos ndahet, dhe gëzojnë të drejtën e mbajtjes së kontakteve me familjen e tij përmes korrespondencave dhe vizitave, përveç rrethanave të jashtëzakonshme të përcaktuara me ligj.
+7. Çdo i mitur i privuar lirie ka të drejtë në ndihmë të menjëhershme ligjore dhe ndihmë tjetër adekuate, si dhe të drejtën për të kundërshtuar ligjshmërinë e privimit të tij nga liria pranë një gjykate të pavarur dhe të paanshme, si dhe në procedurë të menjëhershme.
+8. Për t’iu shmangur lëndimit për shkak të publicitetit të tepruar ose etiketimeve, e drejta e
+KODI Nr. 06/L-006 I DREJTËSISË PËR TË MITUR fëmijës për privatësi respektohet në të gjitha fazat. Në parim, nuk publikohet asnjë informacion që shpie në identifikimin e kryerësit të mitur apo riviktimizimin e viktimës.
+9. Procedura ndaj të miturit dhe procedra në të cilën i mituri është i dëmtuar me vepër penale është urgjente. Organet të cilat marrin pjesë në procedurë ndaj të miturit si dhe organet tjera dhe institucionet nga të cilat kërkohen njoftime, raporte ose mendime, janë të detyruar të veprojnë në mënyrë urgjente.
+10. Mosveprimi sipas procedurës së përcaktuar në paragrafin 9 të këtjij neni, si dhe mosrespektimi i afateve të parapara me këtë kod, mund të konsiderohet shkelje disiplinore, në pajtim me dispozitat përkatëse të legjislacionit në fuqi.
+11. Procedura ndaj fëmijëve dhe të miturve duhet të zhvillohet dhe zbatohet në pajtim me konceptin e qasjes miqësore.

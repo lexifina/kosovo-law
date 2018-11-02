@@ -1,0 +1,4 @@
+# Article 14
+Imposition of measures on a young adult for criminal offences committed as a young juvenile 1. Court proceedings cannot be conducted against an adult who has reached the age of twenty- one (21) years for a criminal offence committed as a juvenile under the age of sixteen (16) years.
+2. Court proceedings can be conducted against a young adult for a criminal offence committed as a juvenile under the age of sixteen (16) years only if the criminal offence is punishable by imprisonment of more than five (5) years.
+3. In the court proceedings specified in paragraph 2 of this Article, the court may only impose an appropriate institutional educational measure. The general criteria set forth in Article 13 of the present Code shall be considered, as well as the amount of time that has elapsed since the commission of the criminal offence.

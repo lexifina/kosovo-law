@@ -1,0 +1,3 @@
+# Neni 137
+Ekzekutimi 1. Masat e shqiptuara të diversitetit dhe edukuese dhe vendimet e formës së prerë me të cilat është shqiptuar dënimi, e të cilat janë bërë të formës së prerë para hyrjes në fuqi të këtij Kodi, do të zbatohen në pajtim me dispozitat e Kodit Nr.03/L-193 të Drejtësisë për të Mitur (“Gazeta Zyrtare e Republikës së Kosovës” nr.78/20.08.2010).
+2. Ekzekutimi i masave të diversitetit dhe edukuese si dhe të sanksioneve penale të cilat i ka filluar para hyrjes në fuqitë e këtij Kodi në pajtim me dispozitat e Kodit Nr. 03/L-193 të Drejtësisë për të Mitur (“Gazeta Zyrtare e Republikës së Kosovës” nr.78/20.08.2010), do të vazhdojë në pajtim me ato dispozita.

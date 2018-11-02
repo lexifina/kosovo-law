@@ -1,0 +1,2 @@
+# Article 136
+Application of the Provisions of the Previous Applicable Code If until the day of entry into force of the present Code there was a motion presented for imposition of the measure of punishment pursuant to the provisions of the Code No. 03/L-193 on Juvenile Justice Code (Official Gazette of the Republic of Kosovo No. 78/ 20.08.2010) the proceedings shall be terminated in accordance with those provisions.

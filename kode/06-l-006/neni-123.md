@@ -1,0 +1,5 @@
+# Neni 123
+Ekzaminimet mjekësore dhe marrja e mostrave nga trupi 1. Fëmija viktimë apo dëshmitar i nënshtrohet ekzaminimit mjekësor ose marrjes së një mostre nga trupi, vetëm nëse përmbushen kushtet e mëposhtme, gjykata lëshon një autorizim me shkrim për ekzaminimin mjekësor ose marrjen e ekzaminimeve nga trupi vetëm nëse ekzistojnë arsye të bazuara për të besuar se ekzaminimi ose marrja e një mostre nga trupi është i nevojshëm:
+1.1. prindërit, kujdestari ose personi mbështetës i tij janë të pranishëm; 1.2.pas dëgjimit të fëmijës dhe dhënies së pëlqimit nga prindërit.
+2. Nëse, në çdo etapë të fazës hetimore, ekziston një dyshim përsa i takon shëndetit të fëmijës viktimë ose dëshmitar, përfshirë shëndetin mendor të fëmijës, autoritetet kompetente që kryejnë procedurat, sigurojnë që fëmijës t’i bëhet një ekzaminim i përgjithshëm mjekësor nga një mjek sa më shpejt që të jetë e mundur.
+3. Pas këtij ekzaminimi mjekësor, autoriteti kompetent që kryen procedurat, bën të gjitha përpjekjet, me qëllim që fëmija të marrë trajtimin që rekomandohet nga mjeku, përfshirë dhe shtrimin në spital nëse është i nevojshëm.

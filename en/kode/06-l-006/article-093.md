@@ -1,0 +1,7 @@
+# Article 93
+Review of Institutional Educational Measure 1. The court that has imposed an educational measure shall review the execution of an educational measure every six (6) months.
+2. The juvenile, his parent, adoptive parent or guardian, the centre, institution or facility where the educational measure is executed or the Probation Service may request a review of the execution of an educational measure.
+3. The court shall issue a decision on the request referred to in paragraph 2 of this Article within eight (8) days of the receipt of the request. An appeal against the decision may be filed with the court of second instance within three (3) days from receipt of the decision.
+4. During the review, the court shall consider the reports of the Probation Service and of the director of the institution or facility where an institutional educational measure is executed and shall hear the juvenile, his parent, adoptive parent or guardian, the defence counsel, prosecutor, and the Probation Service.
+5. On the basis of the review, the court may decide to continue or terminate the execution of the educational measure, or substitute it for a less severe educational measure.
+6. As an exception to paragraph 5 of this Article, the court may substitute an education measure with a more severe educational measure if the juvenile has failed to comply with a special obligation imposed pursuant to Article 28 of the present Code.

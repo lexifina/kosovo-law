@@ -1,0 +1,16 @@
+# Article 90
+Disciplinary Procedures 1. The provisions on the disciplinary procedures and punishments applicable to persons sentenced to imprisonment set forth in the Law on Execution of Penal Sanctions shall apply mutatis mutandis to a juvenile subject to a measure of committal to an educational-correctional institution, unless this Code specifies otherwise.
+2. A juvenile may not be subject to solitary confinement as a disciplinary punishment.
+3. A juvenile may be accommodated in a special unit of the educational-correctional institution as a disciplinary punishment under the following conditions:
+3.1. the period of accommodation in a special unit may not exceed fifteen (15) days;
+3.2. the juvenile shall not be accommodated alone in the special unit, save the cases of extreme violence or dangerous behaviour that impact performing of the juvenile’s education programme. During this period, which may not be longer than forty-eight (48) hours, the juvenile shall be supervised by the psychologist and as required assistance and necessary advice shall be provided;
+3.3. the juvenile shall be entitled to exercise his right to spend at least three (3) hours daily outside closed premises during free time in accordance with Article 86 of the present Code and to receive visits according to Article 88 of the present Code.
+3.4. the juvenile shall have access to textbooks and other books and literature in the language he understands, and which shall not have harmful impact to his education; and 3.5. the juvenile shall be visited by a medical officer and educator once a day and by the director of the educational-correctional institution twice a week.
+3.6. the juvenile may be placed in a separate ward if there is a direct danger of physical injury of himself or violence against other persons and the verbal comfort was not sufficient;
+3.7. in regards to placing him in the separate ward, the following information shall be registered: the reason for placement on the separate ward; time of the beginning and end of the placement in separate ward; name of the employee in the institution under whose surveillance the juvenile stays in the separate ward; notification of the doctor on the health situation of the juvenile.
+4. The Director of the institution or person authorized by the Director shall notify the parent, adoptive parent or guardian in regards to the placement of the juvenile in a separate ward immediately after issuance of the relevant decision.
+5. All items that may be used by the juvenile to endanger his life and health shall be confiscated from the juvenile who is placed in a separate ward.
+6. The juvenile that is placed in a separate ward shall be under continuous surveillance of an
+CODE No. 06/L –006 JUVENILE JUSTICE CODE employee of the institution.
+7. The juvenile that is placed in a separate ward shall be entitled to meet with his parent, adoptive parent or guardian;
+8. After completion of the staying of juvenile in a separate ward, the psychologist of the institution, director of the institution or the person authorized by the director shall talk with the juvenile to identify the reasons for the juvenile’s conduct which resulted with his placement in a separate ward and the results of the talks shall be taken into account during the process of education of the juvenile in the future.

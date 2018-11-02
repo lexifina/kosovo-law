@@ -1,0 +1,3 @@
+# Neni 53
+Aktvendimi për fillimin e procedurës përgatitore 1. Procedura përgatitore fillohet me aktvendim të prokurorit të shtetit për të mitur. Në aktvendim përcaktohet i mituri ndaj të cilit zbatohet procedura përgatitore, koha e fillimit të procedurës përgatitore, përshkrimi i veprës që përcakton elementet e veprës penale, emërtimi ligjor i veprës penale, rrethanat dhe faktet që arsyetojnë dyshimin e bazuar për veprën penale, provat dhe informatat e mbledhura dhe raporti për ndonjë dënim ose masë të shqiptuar më parë ndaj të miturit. Një kopje e vulosur e aktvendimit mbi procedurën përgatitore i dërgohet pa vonesë gjyqtarit për të mitur.
+2. Dispozitat e Kodit të procedurës penale zbatohen përshtatshmërisht në procedurën përgatitore.

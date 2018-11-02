@@ -1,0 +1,1 @@
+KODI Nr. 06/L-006 I DREJTËSISË PËR TË MITUR KODI Nr. 06/L-006 I DREJTËSISË PËR TË MITUR Kuvendi i Republikës së Kosovës; Në bazë të nenit 65 (1) të Kushtetutës së Republikës së Kosovës, Miraton: KODI I DREJTËSISË PËR TË MITUR PJESA E PARË DISPOZITAT E PËRGJITHSHME

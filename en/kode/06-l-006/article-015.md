@@ -1,0 +1,4 @@
+# Article 15
+Imposition of measures and punishments on an adult for criminal offences committed as an adult juvenile 1. In court proceedings conducted against an adult for a criminal offence committed as an adult juvenile, the court may impose a measure or punishment in accordance with Article 12 of the present Code. The general criteria set forth in Article 13 of the present Code shall be considered, as well as the amount of time that has elapsed since the commission of the criminal offence.
+2. As an exception to paragraph 1 of this Article, instead of juvenile imprisonment, the court may impose a term of imprisonment or a suspended sentence.
+3. As an exception to paragraph 1 of this Article, instead of juvenile imprisonment, the court shall impose a term of imprisonment or a suspended sentence on an adult who has reached the age of twenty-three (23) years at the time of the court proceedings under the conditions foreseen by this Code.

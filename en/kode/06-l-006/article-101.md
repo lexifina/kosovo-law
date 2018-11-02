@@ -1,0 +1,6 @@
+# Article 101
+Serving the Sentence Together or Separation 1. As a rule, juveniles shall serve their sentences in joint environments with other sentenced juveniles.
+2. Upon the request of a juvenile, the director of the correctional facility may permit the juvenile to be separated from other convicted persons if the director determines that the concerns underlying the juvenile’s request are reasonable and there are no other alternatives for addressing the juvenile’s concerns. The request of the juvenile to be separated from other persons must be submitted in written form.
+3. The director of the correctional facility may order a juvenile to be separated from other convicted persons, without the request of the juvenile for such separation, only if such measure is necessary:
+3.1. to avert danger to the life or health of the juvenile or other persons; or 3.2. to avert a threat to the security of the correctional facility posed by the continued presence of the juvenile in the general prison population.
+4. The provisions in the Law on Execution of Penal Sanctions on separation from other convicted persons shall apply mutatis mutandis to the separation of a juvenile from other convicted persons.

@@ -1,0 +1,9 @@
+# Article 81
+Execution of a Measure of Intensive Supervision by the Guardianship Authority 1. The competent Guardianship Authority is authorized to execute the educational measure of intensive supervision.
+2. The Guardianship Authority shall, immediately upon receiving the ruling on imposing the
+CODE No. 06/L –006 JUVENILE JUSTICE CODE educational measure, designate the official person of the Guardianship Authority responsible for execution of the measure and shall immediately notify the court.
+3. If the Guardianship Authority within a period of at least every three (3) months fails to report on application of the intensive supervision measure by the Guardianship Authority, the juvenile judge shall notify the respective monitoring and inspection unit within the responsible Ministry of Labour and Social Welfare. The juvenile judge must be informed of the measures undertaken by the respective monitoring and inspection unit.
+4. The court, juvenile state prosecutor, Probation Service, schools and other institutions shall assist and cooperate with the Guardianship Authority in the execution of this educational measure.
+5. The parent, adoptive parent or the guardian of the juvenile shall inform the Guardianship Authority of any obstacle to the execution of the educational measure.
+6. The Guardianship Authority shall inform the court without delay of the failure of the juvenile to comply with a special obligation imposed pursuant to Article 28 of the present Code and of any obstacle to the execution of the educational measure.
+7. The provisions of the present Code on the execution of the educational measure of intensive supervision by a parent, adoptive parent or guardian shall apply mutatis mutandis to the execution of the educational measure of intensive supervision by the Guardianship Authority.

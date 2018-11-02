@@ -1,0 +1,8 @@
+# Article 124
+Supporting Person from the Centre for Social Work 1. From the beginning of the investigation stage and during the trial, victim or witness children shall be supported by a trained person who has the professional capabilities to communicate with children of different ages and development stages and to assist them in order to prevent the risk from violation, re-victimization.
+2. The supporting person shall be appointed by the competent judge. Prior to his appointment, the competent judge shall consult the child and his parents or guardian asking also for the child’s opinion on the gender of the supporting person to be appointed.
+CODE No. 06/L –006 JUVENILE JUSTICE CODE 3. The supporting person shall be given sufficient time to familiarize with the child before the first interview is conducted.
+4. When a child is invited for interview, the investigator shall inform the supporting person of the child for the time and the location where the interview will be conducted.
+5. Every interview of the victim or witness child conducted within the court proceedings shall be conducted in the presence of the supporting person.
+6. The continuity of relations between the child and the supporting person shall be ensured for as long as it is possible during the court proceedings.
+7. The competent judge that appointed the supporting person shall monitor the work of the supporting person and shall assist him, where appropriate. If the supporting person fails to perform his duties and functions in accordance with this Chapter, the court shall appoint a replacing supporting person after consulting the child.

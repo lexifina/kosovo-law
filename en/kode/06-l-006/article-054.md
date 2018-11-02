@@ -1,0 +1,3 @@
+# Article 54
+Appointing a mental health expert and presentence report 1. The court shall appoint an appropriate mental health expert when it is necessary to establish the state of the juvenile’s mental health either at the time of the commission of the criminal offence or the competency of the juvenile to stand trial or both. The court shall make such appointment ex officio or on the request of the juvenile state prosecutor, defence counsel, parents, adoptive parents or guardian. The examination shall be carried out in an appropriate and confidential environment. The opinion of the mental health expert shall be confidential and shall only be disclosed to the court and the parties.
+2. The court shall request the Probation Service to prepare a presentence report.

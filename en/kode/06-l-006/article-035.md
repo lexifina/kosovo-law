@@ -1,0 +1,4 @@
+# Article 35
+Term of juvenile imprisonment 1. The term of juvenile imprisonment cannot exceed the maximum term of imprisonment prescribed for the criminal offence but may be lower than the minimum term of imprisonment prescribed for the criminal offence.
+2. The term of juvenile imprisonment may not be imposed for less than six (6) months and not more than five (5) years and shall be imposed in full years and months. Exceptionally, the maximum term of juvenile imprisonment shall be ten (10) years for serious criminal offences punishable by life imprisonment, or if the juvenile has committed at least two (2) concurrent criminal offences each punishable by imprisonment of more than ten (10) years.
+3. When deciding on the term of juvenile imprisonment, the court shall consider all the mitigating and aggravating circumstances set forth in Article 13 of the present Code and Articles 73 and 74 of the Criminal Code of the Republic of Kosovo.

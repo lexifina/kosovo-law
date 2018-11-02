@@ -1,0 +1,5 @@
+# Article 29
+Committal to an educational-correctional institution 1. The court shall impose the measure of committal to an educational-correctional institution when a juvenile who has committed a criminal offence punishable by imprisonment of more than three (3) years requires specialized education and when such measure is in the best interest of the juvenile.
+2. Exceptionally from paragraph 1 of this Article, the court may impose the measure of committal to an educational-correctional institution when a juvenile who has committed a criminal offence punishable by imprisonment up to three (3) years, when other measures imposed on the juvenile failed to achieve the purpose.
+3. When deciding on the imposition of this measure, the court shall consider the gravity and nature of the criminal offence and whether the juvenile has previously been sentenced to an educational measure or juvenile imprisonment.
+4. The term of this measure may not be less than one (1) year or more than five (5) years.

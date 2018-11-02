@@ -1,0 +1,7 @@
+# Neni 23
+Llojet dhe kohëzgjatja e masave edukative 1. Llojet e masave edukative që mund të shqiptohen ndaj kryerësit të mitur janë: 1.1, qortimi gjyqësor;
+KODI Nr. 06/L-006 I DREJTËSISË PËR TË MITUR 1.2, masat e mbikëqyrjes së shtuar, dhe 1.3, masat institucionale.
+2. Qortimi gjyqësor shqiptohet ndaj të miturit, interesat e të cilit më së miri përfillen me një masë afatshkurtër, veçanërisht nëse vepra penale është kryer nga pamaturia apo pakujdesia.
+3. Masat e mbikëqyrjes së shtuar janë mbikëqyrja e shtuar nga ana e prindit, nga prindi adoptues ose kujdestarit të të miturit, mbikëqyrja e shtuar nga familja tjetër dhe mbikëqyrja e shtuar nga organi i kujdestarisë. Këto masa shqiptohen ndaj të miturit interesat e të cilit nuk kërkojnë izolimin nga mjedisi i tij i mëparshëm dhe mbahen me masë afatgjate që të miturit i ofron mundësinë e edukimit, rehabilitimit apo trajtimit. Kohëzgjatja e kësaj mase nuk mund të jetë më e shkurtër se tre (3) muaj apo më e gjatë se dy (2) vjet.
+4. Masat institucionale edukative janë, dërgimi i të miturit në institucion edukues korrektues dhe dërgimi i të mitur në institucionin e kujdesit të posaçëm. Këto masa shqiptohen ndaj të miturit interesat e të cilit më së miri përfillen me veçimin e tij nga mjedisi i mëparshëm dhe me masë afatgjate, që të miturit i ofron mundësinë e edukimit, rehabilitimit apo trajtimit.
+5. Kohëzgjatja e masës edukative nuk mund të kalojë afatin maksimal të burgimit të paraparë për veprën penale.

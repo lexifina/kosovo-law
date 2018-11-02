@@ -1,0 +1,2 @@
+# Neni 118
+Mbrojtësi i Viktimave Mbrojtësi i viktimave është përfaqësues i autorizuar i cili ka kompetencë për ta njoftuar palën e dëmtuar për të drejtat e tij dhe përfaqësimin e interesave të viktimës në procedurën ne prokurori dhe gjykatë, dhe kur është e nevojshme e referon viktimën tek ofruesit tjerë të shërbimeve. Mbrojtësi i viktimave vepron në emër të viktimës kur është e nevojshme për të ndaluar shkeljen e të drejtave të viktimës dhe për të kërkuar veprim për garantimin e mbrojtjes se tyre.

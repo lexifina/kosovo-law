@@ -1,0 +1,6 @@
+# Article 79
+Execution of a Measure of Intensive Supervision by a Parent, Adoptive Parent or Guardian 1. The execution of the educational measure of intensive supervision by a parent, adoptive parent or guardian begins when the parent, adoptive parent or guardian receives the final ruling on the imposition of the educational measure.
+2. The parent, adoptive parent or guardian shall obey the orders and instructions of the court which has imposed the educational measure and shall allow the Probation Service to verify the execution of the educational measure.
+CODE No. 06/L –006 JUVENILE JUSTICE CODE 3. The probation Service shall inform the court of the failure of the parent, adoptive parent or guardian to comply with orders and instructions.
+4. The parent, adoptive parent or guardian of a juvenile and the Probation Service shall inform the court on the progress of the execution of the educational measure according to the terms ordered by the court.
+5. The Probation Service shall inform the court without delay of the failure of the juvenile to comply with a special obligation imposed pursuant to Article 33 of the present Code and of any obstacle to the execution of the educational measure.

@@ -1,0 +1,2 @@
+# Article 78
+Protection Appropriate Measures During the execution of an educational measure, the court may impose appropriate measures to protect the rights and well-being of a juvenile, including placing the juvenile in a shelter or an educational or similar establishment, placing the juvenile under the supervision of the Guardianship Authority or transferring the juvenile to another family. The court shall inform the Guardianship Authority of any measure imposed.

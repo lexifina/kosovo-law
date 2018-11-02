@@ -1,0 +1,2 @@
+# Neni 78
+Masat adekuate të mbrojtjes Gjatë ekzekutimit të masës edukative, gjykata mund të shqiptojë masa adekuate për mbrojtjen e të drejtave dhe të mirëqenies së të miturit, duke përfshirë edhe vendosjen e të miturit në strehimore ose në institucionin edukativ apo të ngjashëm, vendosjen e të miturit nën mbikëqyrjen e organit të kujdestarisë ose transferimin e të miturit në ndonjë familje tjetër. Gjykata e njofton organin e kujdestarisë për cilëndo masë të shqiptuar.

@@ -1,0 +1,9 @@
+## KAPITULLI I
+## PROCEDURA
+# Neni 40
+Veprimet urgjente dhe ndalimi i gjykimit në mungesë 1. Kur i mituri është në mbajtje, arrest apo paraburgim, organet të cilat e zhvillojnë procedurën detyrohen të veprojnë me urgjencë.
+2. I mituri nuk mund të gjykohet në mungesë.
+3. Kur ndërmarrin ndonjë veprim në të cilin është i pranishëm i mituri dhe sidomos gjatë marrjes së tij në pyetje, organet që marrin pjesë në procedurë janë të obliguara që të veprojnë me kujdes, duke marrë parasysh zhvillimin psikologjik, ndjeshmërinë dhe karakteristikat personale
+KODI Nr. 06/L-006 I DREJTËSISË PËR TË MITUR dhe nevojave të veçanta të të miturit në mënyrë që zbatimi i procedurës të mos ketë ndikim të kundërt në zhvillimin e tij.
+4. I mituri duhet të informohet për të drejtat e tyre si ne vijim: 4.1.të drejtën për ta informuar mbajtësin e përgjegjësisë prindërore; 4.2.të drejtën për t’u asistuar nga një avokat; 4.3.të drejtën për mbrojtje të privatësisë; 4.4.të drejtën për të qenë i shoqëruar nga mbajtësi i përgjegjësisë prindërore gjatë fazave të procedurës, krahas atyre gjyqësore; 4.5.të drejtën për ndihmë ligjore; 4.6.të drejtën për vlerësim individual; 4.7.të drejtën për ekzaminim mjekësor; 4.8.të drejtën për kufizimin e privimit të lirisë dhe në të drejtën e masave alternative, duke përfshirë të drejtën për shqyrtim periodik të paraburgimit; 4.9.të drejtën për t’u shoqëruar nga mbajtësi i përgjegjësisë prindërore gjatë seancave gjyqësore; 4.10.të drejtën për t’u paraqitur personalisht në gjykim;
+4.11. Të drejtën për mjete efektive; dhe 4.12.të drejtën për trajtim specifik gjatë privimit nga liria. 5.Informacionet nga paragrafi 4 i këtij neni duhet të jepen me shkrim, me gojë, apo në të dy format, në gjuhë të thjeshtë dhe të kuptueshme dhe me kuptimin që informacioni i dhënë është regjistruar, duke përdorur procedurë regjistrimi.

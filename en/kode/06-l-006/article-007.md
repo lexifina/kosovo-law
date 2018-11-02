@@ -1,0 +1,6 @@
+# Article 7
+Determination of protection measures 1. At any time, the juvenile judge or a juvenile judicial panel may impose appropriate measures to protect the rights and well-being of a juvenile, including placing the juvenile in a shelter
+CODE No. 06/L –006 JUVENILE JUSTICE CODE or an educational or similar establishment, placing the juvenile under the supervision of the Guardianship Authority or transferring the juvenile to another family, if it is necessary to separate the juvenile from the environment in which he has lived or to offer help, assistance, protection or shelter for the juvenile. The juvenile judge or the juvenile judicial panel shall inform the Guardianship Authority of any measure imposed.
+2. The provisions of paragraph 1 of this Article shall also apply accordingly for child victim and witnesses.
+3. The Guardianship Authority or the authorized representative of a child by may request a juvenile judge or juvenile judicial panel to impose appropriate measures to protect the rights and well-being of the child.
+4. The costs for applying the protection measures of the juvenile set forth in paragraph 1 of this Article shall be paid from budgetary resources. SECOND PART ACTION WITH THE JUVENILE AND CHILD

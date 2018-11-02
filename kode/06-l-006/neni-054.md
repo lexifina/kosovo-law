@@ -1,0 +1,3 @@
+# Neni 54
+Caktimi i ekspertit të shëndetit mendor dhe raporti parandëshkues 1. Gjykata cakton ekspert përkatës të shëndetit mendor kur është e nevojshme të vërtetohet gjendja e shëndetit mendor të të miturit qoftë në kohën e kryerjes së veprës penale ose të konstatojë aftësinë e të miturit për t’u gjykuar ose në të dyja rastet. Gjykate caktimin e kësaj detyre e bën sipas detyrës zyrtare ose me kërkesën e prokurorit të shtetit për të mitur, të mbrojtësit, prindërve, prindërve adoptues a të kujdestarit. Kontrolli bëhet në ambient të përshtatshëm dhe konfidencial. Mendimi i ekspertit për shëndetin mendor është konfidencial dhe mund t’i zbulohet gjykatës dhe palëve.
+2. Gjykata kërkon nga shërbimi sprovues përgatitjen e raportit para ndëshkues.

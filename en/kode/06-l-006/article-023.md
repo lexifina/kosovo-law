@@ -1,0 +1,7 @@
+# Article 23
+Types and length of educational measures 1. The types of educational measures that may be imposed on a juvenile offender are:
+1.1. judicial admonition,
+1.2. measures of intensive supervision; and 1.3. institutional measures 2. Judicial admonition shall be imposed on a juvenile whose best interest is served by a short- term measure, particularly if the criminal offence was committed out of thoughtlessness or carelessness.
+3. Measures of intensive supervision are intensive supervision by the parent, adoptive parent or guardian of a juvenile, intensive supervision in another family and intensive supervision by the Guardianship Authority. These measures are imposed on a juvenile whose interests do not require isolation from his previous environment and is served by a long-term measure which provides the juvenile with an opportunity for education, rehabilitation or treatment. The term of this measure may not be less than three (3) months or more than two (2) years.
+4. Institutional educational measures are committal of a juvenile to an educational-correctional institution and committal of a juvenile to a special care facility. These measures are imposed on a juvenile whose best interest is served by isolation from his previous environment and by a long-term measure which provides the juvenile with an opportunity for education, rehabilitation or treatment.
+5. The duration of an educational measure may not exceed the maximum term of imprisonment prescribed for the criminal offence.

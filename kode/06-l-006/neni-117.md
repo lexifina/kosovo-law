@@ -1,0 +1,2 @@
+# Neni 117
+Zyra për Mbrojtje dhe Ndihmë Viktimave Zyra për Mbrojtje dhe Ndihmë Viktimave (në tekstin e mëtejmë: Zyra) ka për obligim që të sigurojë mbrojtjen e të drejtave të viktimave në sistemin e drejtësisë. Ky obligim ekziston kryesisht gjatë procedures së hetimeve, ndjekjes dhe dënimit të një kryesi. Ky obligim përfshin edhe rastet ku shteti përmes gjykatës mund ti kufizojë të drejtat dhe privilegjet e kryesit i një urdhëri për mbrojtje.

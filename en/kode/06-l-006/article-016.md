@@ -1,0 +1,4 @@
+# Article 16
+Imposition of measures or punishments on a young adult for criminal offences committed as a young adult 1. In court proceedings conducted against an adult for a criminal offence committed as a young adult, the court may impose a measure or punishment in accordance with Article 12 of the present Code, if it determines that the objective that would be achieved by imposing a term of
+CODE No. 06/L –006 JUVENILE JUSTICE CODE imprisonment would also be achieved by imposing the measure or punishment, considering the circumstances in which the criminal offence was committed, the expert opinion in relation to the psychological development of the young adult and his best interest.
+2. The measure or punishment which is imposed may only last until the person has reached the age of twenty-three (23) years.

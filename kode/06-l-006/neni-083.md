@@ -1,0 +1,7 @@
+# Neni 83
+Pezullimi i ekzekutimit të masës edukative institucionale 1. Me kërkesën e të miturit apo të prindit të tij, prindit adoptues ose kujdestarit, ose me propozimin e drejtorit të institucionit ku ekzekutohet masa edukative institucionale, masa edukative institucionale mund të pezullohet për arsye të justifikueshme deri në tre (3) muaj. Përjashtimisht, për qëllime të trajtimit shëndetësor, pezullimi mund të vazhdojë deri në përfundim të trajtimit. Periudha e pezullimit nuk llogaritet në ekzekutimin e masës.
+KODI Nr. 06/L-006 I DREJTËSISË PËR TË MITUR 2. Gjykata vendos për pezullimin.
+3. Ankesa kundër aktvendimit në shkallë të parë mund të parashtrohet në gjykatën e shkallës së dytë brenda tre (3) ditëve nga marrja e aktvendimit.
+4. Gjykata pezullon ekzekutimin e masës edukative institucionale edhe kur i mituri i është nënshtruar ekzekutimit të masës para hyrjes në fuqi të aktvendimit mbi kërkesën ose propozimin për shtyrje të ekzekutimit të masës dhe më vonë konstatohet se kërkesa ose propozimi ka qenë i bazuar.
+5. Në rastin e paraparë në paragrafin 1. të këtij neni, kohëzgjatja e ekzekutimit të masës edukative institucionale nuk llogaritet në kohëzgjatjen e pezullimit të ekzekutimit të masës edukative institucionale.
+6. Dispozitat e Ligjit mbi Ekzekutimin e Sanksioneve Penale mbi pezullimin e ekzekutimit të dënimit me burgim zbatohen përshtatshmërisht për pezullimin e ekzekutimit të masës edukative institucionale.

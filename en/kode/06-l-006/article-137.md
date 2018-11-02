@@ -1,0 +1,3 @@
+# Article 137
+Execution 1. The diversion and educational imposed measures and final decisions by which the punishment is imposed, which became final prior to the entry into force of this Code shall be applied in accordance with the provisions of the Code No. 03/L-193 on the Juvenile Justice Code (Official Gazette of the Republic of Kosovo No. 78/ 20.08.2010).
+2. Execution of the diversion and educational measures as well as of the criminal sanctions initiated prior to the entry into force of this Code in accordance with the Code No. 03/L-193 on the Juvenile Justice Code (“Official Gazette of the Republic of Kosovo No. 78/ 20.08.2010) shall continue in accordance with those provisions.

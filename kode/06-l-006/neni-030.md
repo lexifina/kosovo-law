@@ -1,0 +1,2 @@
+# Neni 30
+Dërgimi në institucionin për kujdes të posaçëm shëndetësor Gjykata mund të shqiptojë masën e dërgimit në një institucion për kujdes të posaçëm në vend të masës së dërgimit në institucion edukativo-korrektues me rekomandimin e ekspertit të mjekësisë kur të miturit i nevojitet përkujdesje e posaçme për shkak të çrregullimit mendor dhe kur kjo është në interesin më të mirë të të miturit. Gjykata e cila ka shqiptuar masën, çdo tre (3) muaj e rishikon nevojën për qëndrim të mëtejshëm në institucionin e kujdesit të posaçëm.

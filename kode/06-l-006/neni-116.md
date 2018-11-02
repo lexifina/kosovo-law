@@ -1,0 +1,3 @@
+# Neni 116
+Mbrojtja e fëmijëve nga kontakti me kryerësit e veprës penale 1. Personi madhor i cili është dënuar me vendim të formës së prerë për një vepër penale të paraparë në nenin 108 të këtij Kodi, nuk duhet të konsiderohet si kandidat që të punojë në një shërbim, institucion a organizatë që ofron shërbime për fëmijë.
+KODI Nr. 06/L-006 I DREJTËSISË PËR TË MITUR 2. Shërbimet, institucionet ose organizatat që ofrojnë shërbime për fëmijë, marrin masat e përshtatshme me qëllim që personat, të cilët janë akuzuar për një vepër penale, të cilësuar si vepër penale ndaj një fëmije, nuk janë në kontakt me fëmijët.

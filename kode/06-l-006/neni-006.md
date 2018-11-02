@@ -1,0 +1,2 @@
+# Neni 6
+Zbatimi subsidiar i ligjeve tjera Ndaj kryesit të mitur të veprës penale dhe fëmijëve viktima apo dëshmitarë, në procedurën penale, në çështjet të cilat nuk janë rregulluar ndryshe më këtë Kod, përshtatshmërisht zbatohen dispozitat e Kodit Penal të Republikës së Kosovës, Kodit të Procedurës Penale dhe të Ligjit për Ekzekutimin e Sanksioneve Penale, si dhe dispozitat tjera penalo juridike.

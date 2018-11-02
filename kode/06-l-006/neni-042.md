@@ -1,0 +1,4 @@
+# Neni 42
+Shoqërimi i të miturit 1. Prindërit, prindërit adoptues ose kujdestari kanë të drejtë ta shoqërojnë të miturin në të gjitha procedurat dhe nga ata mund të kërkohet që të marrin pjesë nëse kjo është në interes të të miturit. Gjykata mund ta përjashtojë prindin, prindin adoptues ose kujdestarin nga pjesëmarrja në procedurë nëse përjashtimi i tillë është në interesin më të mirë të të miturit.
+2. Kur prindërit, prindërit adoptues ose kujdestari i të miturit nuk e kryejnë detyrën e tyre prindërore, gjykata mund të caktojë një (1) kujdestar të përkohshëm për të miturin.
+3. Gjykatat mbajnë evidencë të përgatitur nga Qendra për Punë Sociale, për punëtorët socialë, arsimtarët, pedagogët ose specialistët vullnetarë nga mesi i të cilëve caktohet kujdestari i përkohshëm në rastet nga paragrafi 2 i këtij neni.

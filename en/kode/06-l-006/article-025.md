@@ -1,0 +1,4 @@
+# Article 25
+Intensive supervision by a parent, adoptive parent or guardian 1. The court shall impose the measure of intensive supervision by the parent, adoptive parent, or guardian, after hearing the parent, adoptive parent or guardian, when the parent, adoptive parent, or guardian is capable of supervising the juvenile, but has been negligent in such supervision and when such measure is in the best interest of the juvenile.
+CODE No. 06/L –006 JUVENILE JUSTICE CODE 2. When imposing this measure, the court may give the parent, adoptive parent, or guardian necessary instructions and order him or her to fulfil certain duties as part of the measure imposed in order to care for the juvenile and to have a positive influence on him or her.
+3. When imposing this measure, the court may order the Probation Service to verify the execution of the measure and to offer the necessary assistance to the parent, adoptive parent, or guardian.

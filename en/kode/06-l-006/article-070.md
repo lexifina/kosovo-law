@@ -1,0 +1,3 @@
+# Article 70
+Decision on the Appeal 1. The court of second instance may modify the appealed decision by imposing a more severe measure or punishment only if so requested in the appeal by the juvenile state prosecutor or the injured party in accordance with the relevant provisions of Criminal Procedure Code.
+2. If the judgment in the first instance did not impose juvenile imprisonment, the court of second instance may impose juvenile imprisonment only if a hearing is held. If the ruling or judgment in the first instance did not impose an institutional educational measure, the court of second instance may impose an institutional educational measure only if a hearing is held.

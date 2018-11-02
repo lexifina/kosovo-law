@@ -1,0 +1,2 @@
+# Article 118
+Victims’ Defence Counsel The victims’ defence counsel is an authorized representative who shall have the jurisdiction to inform the injured party of his rights and to represent the interests of the victim in the proceedings in the prosecutor’s office and court, and when necessary shall refer the victim to other service providers. The victims’ defence counsel shall act on behalf of the victim, when necessary, to stop the violation of victim’s rights and to request action for guaranteeing their protection.

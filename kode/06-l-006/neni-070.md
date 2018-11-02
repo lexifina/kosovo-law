@@ -1,0 +1,3 @@
+# Neni 70
+Vendimi lidhur me ankesën 1. Gjykata e shkallës së dytë mund ta ndryshojë vendimin ndaj të cilit është ushtruar ankesa duke e shqiptuar një masë apo dënim më të rëndë vetëm nëse është kërkuar kjo në ankesën e prokurorit të shtetit për të mitur apo të dëmtuarit në pajtim me dispozitat përkatëse të Kodit të Procedurës Penale.
+2. Nëse me aktgjykim në shkallë të parë nuk është shqiptuar burgim për të mitur, gjykata e shkallës së dytë mund ta shqiptojë burgimin për të mitur vetëm nëse mbahet shqyrtimi. Nëse me aktvendim ose me aktgjykim në shkallë të parë nuk është shqiptuar ndonjë masë edukative institucionale, gjykata e shkallës së dytë mund ta shqiptojë masën edukative institucionale vetëm nëse mbahet shqyrtimi.

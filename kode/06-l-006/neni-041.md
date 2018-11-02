@@ -1,0 +1,7 @@
+# Neni 41
+Mbrojtja e të miturit 1. I mituri duhet të ketë mbrojtësin me rastin e marrjes për herë të parë në pyetje, si dhe gjatë tërë procedurës.
+2. Mbrojtësi i të miturit mundet me qenë vetëm avokati i cili është anëtar i Odës së Avokatëve të Republikës së Kosovës.
+3. Nëse vet i mituri ose përfaqësuesi i tij ligjor nuk marrin mbrojtës, mbrojtësin, sipas detyrës zyrtare, me shpenzime publike e cakton gjykata ose prokurori i shtetit për të mitur, apo organi tjetër i cili e zbaton procedurën, sipas rregullit nga radhët e avokatëve me specializim të veçantë
+KODI Nr. 06/L-006 I DREJTËSISË PËR TË MITUR nga fusha e mbrojtjes së drejtave të miturve sipas renditjes nga regjistri i Odës së Avokatëve të Republikës së Kosovës.
+4. Mbrojtësi i caktuar sipas detyrës zyrtare në pajtim me paragrafin 3 të këtij neni mbetet deri në përfundimin e procedurës përveç nëse dalin rrethana objektive jashtë kontrollit të mbrojtësit për të mitur të cilat do ta kërkonin ndërrimin e përfaqësimit juridik të të miturit apo derisa i mituri ose përfaqësuesi i tij ligjor vetë nuk e zgjedhin mbrojtësin.
+5. Avokatët mbrojtës duhet t’i konsiderojnë të miturit si klientë me të drejta të plota, që nënkupton se ata janë të obliguar që të marrin parasysh dhe paraqesin mendimet e tyre, si dhe t’iu sigurojnë atyre të gjitha informatat dhe sqarimet e nevojshme në lidhje me pasojat e mundshme të pikëpamjeve dhe mendimeve të tyre.

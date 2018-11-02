@@ -1,0 +1,2 @@
+# Article 117
+Victims Advocacy and Assistance Office Victims Advocacy and Assistance Office (hereinafter the Office) shall be obliged to ensure protection of the rights of victims in the justice system. This obligation mainly exists during the investigation proceedings, prosecution and punishment of the offender. This obligation shall also include cases when the state through the court may limit the rights and privileges of the offender of a protection order.

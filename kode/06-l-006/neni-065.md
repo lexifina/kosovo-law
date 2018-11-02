@@ -1,0 +1,3 @@
+# Neni 65
+Personat e pranishëm në shqyrtimin gjyqësor 1. I mituri, mbrojtësi dhe prokurori i shtetit për të mitur janë të pranishëm në shqyrtimin gjyqësor.
+2. Përveç personave të paraparë me dispozitat e Kodit të procedurës penale, prindi, prindi adoptues ose kujdestari, përfaqësuesi i organit të kujdestarisë dhe përfaqësuesi i shërbimit sprovues thirren në shqyrtimin gjyqësor. Mosparaqitja e personave të tillë nuk e pengon gjykatën që ta mbajë shqyrtimin gjyqësor. 3.Dispozitat e Kodit të Procedurës Penale lidhur me ndryshimin dhe zgjerimin e akuzës po ashtu vlejnë në procedurën ndaj të miturit të ri,

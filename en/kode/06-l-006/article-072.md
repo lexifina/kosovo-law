@@ -1,0 +1,2 @@
+# Article 72
+The Request for Reopening of Criminal Proceedings The provisions on the reopening of criminal proceedings terminated by a final ruling or a final judgment as provided in provisions of the Criminal Procedure Code shall apply mutatis mutandis to the reopening of proceedings against a juvenile terminated by a final ruling terminating the proceedings at the main trial, a final ruling imposing an education measure and a final judgment imposing a punishment.

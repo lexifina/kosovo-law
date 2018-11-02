@@ -1,0 +1,2 @@
+# Neni 130
+Pyetja nga pala kundërshtare Sipas rastit dhe duke marrë në konsideratë të drejtat e kryesit, gjyqtari kompetent nuk lejon pyetjen e fëmijës viktimë apo dëshmitar nga kryesi. Kjo pyetje nga pala kundërshtare mund të ndërmerret nga përfaqësuesi i autorizuar përmes gjyqtarit për të mitur, i cili ka detyrën të parandalojë drejtimin e ndonjë pyetjeje që mund ta ekspozojë fëmijën ndaj kanosjes, vështirësisë apo ankthit të panevojshëm.

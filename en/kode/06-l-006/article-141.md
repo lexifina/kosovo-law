@@ -1,0 +1,2 @@
+# Article 141
+Entering into Force and Beginning of Application of the Code This Code shall enter into force fifteen (15) days after publication in the Official Gazette of the Republic of Kosovo and it shall be applied after six (6) months from the day of entering into force. Code No.06/L - 006 14 September 2018 Promulgated by Decree No.DL-038-2018, dated 04.10.2018, President of the Republic of Kosovo Hashim Thaçi.

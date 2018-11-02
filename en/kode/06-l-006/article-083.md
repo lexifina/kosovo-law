@@ -1,0 +1,7 @@
+# Article 83
+Suspension of Execution of Institutional Educational Measure 1. On the request of a juvenile or his parent, adoptive parent or guardian or on the motion of the director of the institution where the institutional education measure is being executed, the institutional educational measure may be suspended for justifiable reasons for up to three (3) months. Exceptionally, for the purpose of health treatment the suspension may last until the completion of the treatment. The period of suspension shall not be counted in the execution of the measure.
+2. The court shall decide on the suspension.
+3. An appeal against the ruling at first instance may be filed with the court of second instance within three (3) days from receipt of the ruling.
+4. A court shall suspend execution of the institutional educational measure also when the juvenile has been committed for the execution of the measure, before the ruling on the request or motion for a stay of execution of the measure enters into force and later it is established that the request or motion was grounded.
+5. In the case foreseen in paragraph 1 of this Article, the duration of the execution of the institutional educational measure is not to be counted in the length of the suspension of the execution of the institutional educational measure.
+6. The provisions of the Law on Execution of Penal Sanctions on the suspension of execution of a sentence of imprisonment shall apply mutatis mutandis to the suspension of execution of an institutional educational measure.

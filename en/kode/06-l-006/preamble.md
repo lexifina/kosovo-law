@@ -1,0 +1,1 @@
+CODE No. 06/L –006 JUVENILE JUSTICE CODE CODE No. 06/L –006 JUVENILE JUSTICE CODE Assembly of the Republic of Kosovo, Based on Article 65 (1) of the Constitution of the Republic of Kosovo, Adopts JUVENILE JUSTICE CODE FIRST PART GENERAL PROVISIONS

@@ -1,0 +1,2 @@
+# Article 30
+Committal to a special health care facility The court may impose the measure of committal to a special care facility instead of the measure of committal to an educational-correctional institution upon the recommendation of a medical expert when a juvenile requires special care due to a mental disorder and when this is in the best interest of the juvenile. The court that has imposed the measure shall review the need for further stay in the special care facility every three (3) months.

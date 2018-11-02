@@ -1,0 +1,7 @@
+# Article 41
+Defending the Juvenile 1. The juvenile must have a defence counsel when examined for the first time, as well as during the entire proceedings.
+2. Only a defence counsel registered at the Kosovo Bar Association can represent a juvenile.
+3. In a case when the juvenile or his legal representative does not engage a defence counsel, the court or juvenile state prosecutor, or other authority conducting the proceedings shall appoint ex officio a defence counsel at public expense, based on the rule of more specific defence
+CODE No. 06/L –006 JUVENILE JUSTICE CODE counsels specialized in the field of protection of juveniles’ rights according to the ordering from the register of Kosovo Bar Association.
+4. The defence counsel appointed ex officio in accordance with paragraph 3 of this Article shall remain until the completion of the proceedings, unless objective circumstances arise that are beyond the control of the juvenile defence counsel that would require change of the legal representation of the juvenile, or until the juvenile or his legal representative does not engage a defence counsel himself.
+5. Defense counsels should consider the juveniles as clients with full rights, that means that they are obliged to take into consideration and present their thoughts, as well as provide them with all necessary information and explanations related to the possible consequences of their views and thoughts.
