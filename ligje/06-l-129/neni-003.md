@@ -1,0 +1,3 @@
+# Neni 3
+Dokumentet e bashkëngjitura Bashkëngjitur me këtë ligj është marrëveshja ndërmjet Qeverisë së Republikës së Kosovës Ministrisë së Inovacionit dhe Ndërmarrësisë dhe Giz (Giz Gesellschaft Für Internationale Zusammenarbeit Agjencioni Gjerman Për Bashkëpunim Ndërkombëtar) për Bashkëfinancimin e Projektit CETEP (Krijimin e Punësimit Përmes Promovimit të Eksportit) e lidhur me datën 11 Korrik 2018.
+LIGJI Nr. 06/L -129 PËR RATIFIKIMIN E MARRËVESHJES NDËRMJET QEVERISË SË REPUBLIKËS SË KOSOVËS MINISTRISË SË INOVACIONIT DHE NDËRMARRËSISË DHE GIZ (GIZ GESELLSCHAFT FÜR INTERNATIONALE ZUSAMMENARBEIT AGJENCIONI GJERMAN PËR BASHKËPUNIM NDËRKOMBËTAR) PËR BASHKËFINANCIMIN E PROJEKTIT CETEP
