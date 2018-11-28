@@ -1,0 +1,3 @@
+# Article 6
+Accomplishment of the project for construction of the Memorial Complex “Adem Jashari” in Prekaz 1. The Inter-ministerial Committee under Article 5 of this Law is competent for the selection of the Committee of experts which is composed of at least three (3) experts and which will select the operator for the project accomplishment as well as the specialized company for monitoring performance of works by the selected operator, in compliance with criteria, conditions for announcing the competition and the application procedures for project selection proposed by the Inter-ministerial Committee and approved by the Government.
+2. The Committee referred to in paragraph 1. of this Article shall make the final technical acceptance of the accomplishment of works.

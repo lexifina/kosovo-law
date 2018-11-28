@@ -1,0 +1,4 @@
+# Article 7
+Expropriation of immovable property for the purpose of building the Memorial Complex “Adem Jashari” in Prekaz 1. For the purpose of construction and full functionality of the Memorial Complex “Adem Jashari” in Prekaz will be carried out the expropriation of all properties and construction facilities, which are located in the area defined in paragraph 1. of Article 4 of this Law and that are needed for the accomplishment of this project.
+2. The expropriation will be made according to the applicable provisions of the Law on expropriation.
+3. The competent authorities, in cooperation with representatives of Jashari family in Prekaz, will determine in particular, the manner and conditions for the relocation of houses and other buildings providing that the same will be carried out according to the applicable legislation and in accordance with the Spatial Plan for Special Zone.

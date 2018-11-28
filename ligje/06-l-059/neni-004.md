@@ -1,0 +1,4 @@
+# Neni 4
+Hapësira e zonës së veçantë 1. Kompleksi Memorial “Adem Jashari” në Prekaz përfshinë hapësirën e varrezave të dëshmorëve të lagjes Jashari, objektet nga të cilat është bërë rezistenca e armatosur, shtëpitë dhe objektet përcjellëse të kësaj familjeje, Lagjen Jasharaj, Lagjen nr.3 të qytetit të Skenderajt, zonën e ish fabrikës së municionit, një pjesë të Prekazit të Epërm; gjithsej katërqindepesëdhjetë
+LIGJI Nr. 06/L-059 PËR KOMPLEKSIN MEMORIAL “ADEM JASHARI” NË PREKAZ hektarë (450 ha) sipas planit ideor për Kompleksin Memorial “Adem Jashari” në Prekaz”, të hartuar nga grupi i ekspertëve, e në përputhje me sipërfaqen e përcaktuar me ligjet në fuqi.
+2. Hapësira nga paragrafi 1. i këtij neni dhe sipërfaqja e plotë që përfshin Kompleksin Memorial “Adem Jashari” në Prekaz, përcaktohet sipas Ligjit për Planifikimin Hapësinor dhe Ligjit përkatës që rregullon aspektet e trashëgimisë kulturore dhe historike.

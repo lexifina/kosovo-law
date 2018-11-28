@@ -1,0 +1,4 @@
+# Neni 7
+Shpronësimi i paluajtshmërive me qëllim të ndërtimit të Kompleksit Memorial “Adem Jashari” në Prekaz 1. Me qellim të ndërtimit dhe funksionalitetit të plotë të Kompleksit Memorial “Adem Jashari” në Prekaz, do të bëhet shpronësimi i të gjitha pronave dhe objekteve ndërtimore, të cilat gjenden në hapësirën e përcaktuar me paragrafin 1. të nenit 4 të këtij ligji dhe që nevojiten për realizimin e këtij projekti.
+2. Shpronësimi do të bëhet konform dispozitave të Ligjit në fuqi për shpronësimin.
+3. Autoritetet kompetente, në bashkëpunim me përfaqësuesit e familjeve Jasharaj në Prekaz, do të përcaktojnë në veçanti, mënyrën dhe kushtet për zhvendosjen e shtëpive dhe objekteve të tjera duke siguruar që e njëjta të bëhet, sipas legjislacionit në fuqi dhe në përputhje me Planin Hapësinor për Zonën e Veçantë.

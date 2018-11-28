@@ -1,0 +1,3 @@
+# Neni 6
+Realizimi i projektit për ndërtimin e Kompleksit Memorial “Adem Jashari” në Prekaz 1. Komiteti Ndërministror nga neni 5 i këtij ligji është kompetent për përzgjedhjen e Komisionit të ekspertëve i cili përbëhet prej së paku tre (3) ekspertëve dhe i cili do ta bëjë përzgjedhjen e operatorit për realizimin e projektit si dhe kompanisë së specializuar për mbikëqyrje të realizimit të punimeve nga ana e operatorit të përzgjedhur, në pajtim me kriteret, kushtet për shpalljen e konkursit si dhe procedurat e aplikimit të përzgjedhjes së projektit të propozuara nga Komiteti Ndërministror dhe të miratuara nga Qeveria.
+2. Komisioni i përcaktuar me paragrafin 1. të këtij neni do ta bëjë pranimin përfundimtar teknik të realizimit të punimeve.
