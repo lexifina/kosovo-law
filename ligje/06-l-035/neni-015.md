@@ -1,0 +1,9 @@
+# Neni 15
+Rrjetet shtesë të stacioneve meteorologjike dhe hidrologjike 1. Rrjetet shtesë të stacioneve hidrologjike dhe meteorologjike janë tërësia e një ose më shumë stacioneve meteorologjike dhe hidrologjike të ngritura nga pushteti qendror, lokal, kompanitë publike, institucionet, si dhe persona tjerë juridik ose ndërmarrësit.
+2. Njësitë e qeverisjes lokale, kompanitë publike dhe institucionet, si dhe subjektet dhe sipërmarrësit e tjerë ligjor, sipas nevojave të tyre të veçanta dhe me shpenzimet e tyre, mund të krijojnë rrjetin shtesë të stacioneve meteorologjike dhe hidrologjike.
+3. Rrjeti shtesë i stacioneve për monitorimin e cilësisë së ajrit përcaktohet me Ligjin për mbrojtjen e ajrit nga ndotja.
+4. Rrjetet shtesë të stacioneve meteorologjike, hidrologjike dhe të cilësisë së ajrit mund të
+LIGJI Nr. 06/L -035 PËR VEPRIMTARITË HIDROMETEOROLOGJIKE vendosen në qoftë se janë përmbush kushtet në lidhje me lokacionin e stacioneve meteorologjike dhe hidrologjike, programin monitorues, vrojtues dhe mënyrës së raportimit të stacioneve brenda këtyre rrjeteve.
+5. Në stacionet referar paragrafit 2 të këtij neni kryhen matjet dhe vrojtimet meteorologjike dhe hidrologjike dhe bëhen kontrollimi i validitetit teknik te instrumenteve dhe pajisjeve matëse meteorologjike dhe hidrologjike ne mënyrë të rregullt si ne sistemin shtetëror vrojtues për meteorologji dhe hidrologji.
+6. Pronarët e stacioneve të rrjetit shtesë meteorologjik dhe hidrologjik janë të obliguar të paguajnë kompensim të përshtatshëm për kontrollin teknik të instrumenteve dhe pajisjeve meteorologjike dhe hidrologjike.
+7. IHMK do të përcaktojë kushtet e përmendura në paragrafin 4 të këtij neni, që i referohet rrjeteve shtesë të stacioneve meteorologjike dhe hidrologjike me përjashtim të stacioneve të cilësisë së ajrit të referuar paragrafit 3 të këtij neni.

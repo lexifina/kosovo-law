@@ -1,0 +1,1 @@
+LIGJI Nr. 06/L -035 PËR VEPRIMTARITË HIDROMETEOROLOGJIKE LIGJI Nr. 06/L -035 PËR VEPRIMTARITË HIDROMETEOROLOGJIKE Kuvendi i Republikës së Kosovës; Në bazë të nenit 65 (1) të Kushtetutës së Republikës së Kosovës, Miraton: LIGJ PËR VEPRIMTARITË HIDROMETEOROLOGJIKE

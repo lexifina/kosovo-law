@@ -1,0 +1,3 @@
+# Neni 26
+Shkëmbimi internacional dhe publikimi i të dhënave meteorologjike dhe hidrologjike 1. Të dhënat publike të përmendura në nenin 27 të këtij ligji, IHMK do të përfshijë në shkëmbimin e të dhënave ndërkombëtare dhe t’i shpallë në raportet periodike dhe vjetore, në përputhje me ligjin dhe rregulloret e miratuara në bazë të tij.
+2. Të dhënat e përmendura në paragrafin 1 të këtij neni të marra në rrjetet shtetërore të stacioneve meteorologjike dhe hidrologjike si raporte periodike dhe vjetore duhet të dorëzohen autoritetit kompetent për aktivitetet për mbrojtjen e mjedisit, organit kompetent për mbrojtjen dhe shpëtimin në situata të jashtëzakonshme, në përputhje me ligjin.

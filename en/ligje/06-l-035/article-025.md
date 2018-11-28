@@ -1,0 +1,2 @@
+# Article25
+Transparency of meteorological and hydrological data The data and information on weather, climate, water condition and quality of air, water, and soil provided by HMIK, through the state system of metrological and hydrological stations and monitoring stations of air and water will be public in form of periodic reports and bulletins and anniversaries, as well as in form of real-time information for stations equipped with automatic data transfer.

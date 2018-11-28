@@ -1,0 +1,3 @@
+# Article 26
+International exchange and publication of meteorological and hydrological data 1. Public records referred to in Article 27 of this law, HMIK shall include international data exchange and announces in periodic and annual reports, in accordance with the law and regulations adopted based on it.
+2. The data referred to in paragraph 1. of this Article, obtained from state networks of meteorological and hydrological stations as periodic and annual reports must be submitted to the competent authority for environmental protection activities, to the competent body for protection and rescue in emergency situations, in accordance with the law.

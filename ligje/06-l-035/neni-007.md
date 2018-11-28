@@ -1,0 +1,4 @@
+# Neni 7
+Meteorologjia e aviacionit 1. Shërbimet meteorologjike me interes për aviacionin e Republikës së Kosovës i kryen Agjencia për Shërbimet e Navigacionit Ajror (ASHNA) e themeluar me Ligjin Nr. 04/L-250 për Agjencinë e Shërbimeve të Navigacionit Ajror dhe e certifikuar nga Autoriteti i Aviacionit Civil (AAC-ja) për ofrimin e shërbimeve të navigacionit ajror brenda Republikës së Kosovës duke përfshirë edhe shërbimet meteorologjike aeronautike.
+2. Të dhënat dhe raportimet meteorologjike nga shërbimet meteorologjike aeronautike duhet të jenë pjesë e Sistemit Informativ Hidrometeorologjik.
+3. IHMK do të bashkëpunojë me ofruesin e shërbimit meteorologjik të trafikut ajror, në përputhje me funksionet e parashikuara në këtë ligj dhe me marrëveshjen e bashkëpunimit me ofruesin e shërbimit meteorologjik të trafikut ajror.

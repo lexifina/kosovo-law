@@ -1,0 +1,4 @@
+# Article 23
+International cooperation 1. HMIK will cooperate with the international meteorological and hydrological organizations in accordance with the legal provisions and relevant international agreements, and will perform the state (national) meteorological functions, climate and hydrology in international organizations, hydro-meteorological information systems, hydrological and meteorological research and development programs, mainly in other international organizations in Europe and the WMO.
+2. HMIK shall provide connection relationship of Kosovo with international telecommunications and information systems in the field of meteorology, hydrology, monitoring and research of climate change, air quality monitoring, water and soil and also shall perform data processing operation and exchange of information from these areas in accordance with international obligations.
+LAW No. 06/L-035 ON HYDROMETEOROLOGICAL ACTIVITIES

@@ -1,0 +1,2 @@
+# Article 20
+Scientific research in the field of meteorology and hydrology out of the HMIK The essential scientific research activities in the field of hydrology and meteorology, including the development of numerical atmosphere models and hydrology as well as not carried out by HMIK but other research institutions as the Academy of Science and the University, these institutions have to perform their activities in cooperation with HMIK in accordance with the legislation in power.

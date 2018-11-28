@@ -1,0 +1,2 @@
+# Neni 20
+Kërkimet shkencore në fushën e meteorologjisë dhe hidrologjisë jashtë IHMK-së Aktivitetet themelore të kërkimit shkencor në fushën e hidrologjisë dhe meteorologji, duke përfshirë zhvillimin e modeleve numerike të atmosferës dhe hidrologjisë si dhe kërkimet në fushën e ndryshimit të motit, që nuk kryhen nga IHMK por nga institucione të tjera kërkimore si nga akademia e shkencës dhe universiteti, këto institucione duhet ta kryejnë aktivitetin e tyre në bashkëpunim me IHMK në përputhje me legjislacionin ne fuqi.

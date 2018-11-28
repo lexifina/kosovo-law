@@ -1,0 +1,11 @@
+# Article 9
+Performance of hydro-meteorological activities and other activities 1. Activities from Articles 6 and 8 of this law are of national interest, and are carried out by the Hydro-meteorological Institute of Kosovo- HMIK.
+2. Other meteorological and hydrological activities defined in Article 8 of this law besides the HMIK are performed also by the legal and natural persons for their own needs, with the exception of weather specifying and forecasting for the Republic of Kosovo. The official weather forecasting and early warning of possible natural disasters of hydro-meteorological origin for the Republic of Kosovo are provided by HMIK and are the exclusivity of HMIK.
+3. Legal entities and natural persons from paragraph 2. of this Article, the results obtained by monitoring are obligated that within thirty (30) days to submit to the HMIK, without compensation, for further processing and archiving in the database.
+4. Entities referred to in paragraph 2. of this Article shall obtain authorization from the Minister of MESP, for conducting hydro-meteorological activities.
+5. The HMIK sets criteria conducting the standards for measuring meteorological and hydrological equipment and training of personnel referred to in paragraph 1. of this Article.
+6. Conditions of granting authorization for conducting hydro-meteorological activities under Article 8 of this Law shall be regulated by a sub-legal act issued by the Ministry.
+7. Minister of MESP establishes the Commission to assess the fulfillment of conditions for the authorization award, and by the Commission proposal, Minister shall issue a ruling decision for the subject authorization from paragraph 2. of this Article, for performing activities under Article 8 of this Law.
+8. The ruling decision referred to in paragraph 6. of this Article, is valid for four (4) years, starting from the date of issuance.
+9. Against a ruling decision by which it rejects an application for authorization, from paragraph 4. of this Article, may be appealed to the Minister, within fifteen (15) days after receiving the decision.
+10. In necessary cases, the activities referred to in paragraph 2. of this Article shall be carried out by HMIK, for which the HMIK requires financial compensation.

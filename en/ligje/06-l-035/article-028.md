@@ -1,0 +1,5 @@
+# Article 28
+Publication of general meteorological and hydrological information 1. HMIK will release the general information with the purpose of weather forecast and condition of climate, air, water and soil, and will provide them through the media in the form of reports and via electronic networks or mail in written forms as text, tables, graphics, list, etc.
+2. At the request of users, HMIK may issue additional operational information referred to in paragraph 1. of this Article.
+3. The legal and natural persons who have received the additional information referred to in paragraph 2. of this Article are obliged to pay an adequate fee except the information that is of a public interest.
+4. The tangible assets as well as intellectual property rights created, which are a result of service delivery by the HMIK, referred to in paragraph 2. of this Article and Article 6, paragraph 4., Article 13, paragraph 3. and Article 15, paragraph 5. of this Law, must be owned by the Republic of Kosovo in accordance with copyright, regulation law and intellectual property law, unless is provided otherwise by a separate contract.

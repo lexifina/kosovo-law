@@ -1,0 +1,8 @@
+# Article 30
+Obtaining and providing extraordinary information and meteorological and hydrological warnings 1. HMIK, is responsible for the receipt and disclosure of extraordinary meteorological and hydrological information and for warning in the period prior to, during and immediately after the cessation of catastrophic meteorological and hydrological, natural disaster and nuclear accidents.
+2. HMIK gives warnings and information referred to in paragraph 1. of this Article, to MESP, the competent authorities for emergency situations and the competent authority of agriculture, forestry and of processing issues and water management, as well as other media and authorities concerned, in accordance with this law.
+3. The authorities and legal entities established in Article 15, paragraph 1. of this law are obliged to submit to the HMIK the available data and data collected in the additional networks of meteorological and hydrological stations for the period prior to, during and immediately after
+LAW No. 06/L-035 ON HYDROMETEOROLOGICAL ACTIVITIES cessation of natural disaster, meteorological and hydrological disasters and nuclear accidents, in accordance with the legislation in force.
+4. The collected data referred to in paragraph 3. of this Article, the HMIK must submit to the competent authorities.
+5. HMIK shall submit the monitoring report of the adversity duration to the KEPA/ MESP maximum sixty (60) days after termination of the impact of meteorological and hydrological disasters.
+6. HMIK determines the manner of release and providing meteorological and hydrological information, and mentioned warnings referred to in paragraph 1. and 2. of this Article.
