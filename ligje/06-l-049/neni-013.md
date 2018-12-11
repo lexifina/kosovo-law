@@ -1,0 +1,3 @@
+# Neni 13
+Transferi i dijes dhe teknologjisë 1. Transferi i dijes dhe teknologjisë nënkupton bartjen e të drejtës së pronësisë ose të drejtën për të përdorur një pjesë apo tërësinë e një teknologjie, ose të një ideje nga pala që e ka të drejtën për ta transferuar këtë lloj të dijes dhe teknologjisë 2. Transferi i dijes dhe teknologjisë zhvillohet në mes të institucioneve apo personave fizikë dhe juridikë brenda vendit;
+LIGJI Nr. 06/L-049 PËR INOVACION SHKENCOR DHE TRANSFER TË DIJES DHE TEKNOLOGJISË 3. Transferi i dijes dhe teknologjisë nënkupton edhe sjelljen e dijeve dhe teknologjive të reja nga jashtë apo dërgimin e dijeve dhe teknologjive jashtë vendit.
