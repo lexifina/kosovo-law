@@ -1,0 +1,4 @@
+# Article 16
+Participation of employees and persons who benefit from social activities 1. Any citizen of the Republic of Kosovo or foreign citizen shall, according to the legislation into force, have the right to be a member or employee of a social enterprise or benefit from the activity of a social enterprise.
+2. Irrespective of the chosen legal form, a social enterprise shall set out in its documentation the manner of participation in which employees or persons will benefit from social activities of the enterprise and their participation in the strategic decisions of the enterprise.
+3. Employees and beneficiaries shall be entitled to request information which allows them to participate in strategic decision making, especially on issues related to working conditions as well as the quality of goods and services delivered by the enterprise.

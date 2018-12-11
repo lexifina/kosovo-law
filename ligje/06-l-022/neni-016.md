@@ -1,0 +1,4 @@
+# Neni 16
+Pjesëmarrja e punonjësve dhe personave të cilët përfitojnë nga veprimtaria sociale 1. Secili qytetar i Republikës së Kosovës apo qytetar i huaj, në pajtim me legjislacionin në fuqi, ka të drejtë që të jetë anëtar ose i punësuar i ndërmarrjes sociale apo të përfitojë nga aktiviteti i ndërmarrjes sociale.
+2. Pavarësisht nga forma ligjore e zgjedhur ndërmarrja sociale në dokumentacionin e saj e paraqet mënyrën e pjesëmarrjes së punonjësve apo personave të cilët përfitojnë nga veprimtaria sociale e ndërmarrjes dhe pjesëmarrjen e tyre në vendimet strategjike të ndërmarrjes.
+3. Punonjësit dhe përfituesit kanë të drejtë që të kërkojnë informata të cilat ia lejojnë atyre që të marrin pjesë në vendimmarrje strategjike, në veçanti për çështjet që kanë të bëjnë me kushtet e punës si dhe cilësinë e mallrave dhe shërbimeve që ofrohen nga ndërmarrja.
