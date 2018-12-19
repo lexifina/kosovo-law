@@ -1,0 +1,4 @@
+# Neni 1
+Qëllimi
+1.Kjo Rregullore ka për qëllim përcaktimin e mënyrës së funksionimit të sistemit të integruar informativ në zhvillimin e sektorit të komunikimeve elektronike, për mbledhjen e informatave dhe të dhënave të nevojshme nga institucionet publike si dhe përcaktimin e të drejtave, detyrave dhe përgjegjësive të entiteteve të përfshira në Sistemin e Integruar Informativ për Zhvillim Ekonomik të Kosovës.
+2.Me këtë Rregullore përcaktohet përmbajtja, mënyra e grumbullimit të të dhënave, shpeshtësia dhe administrimi i tyre, me qëllim të grumbullimit të të dhënave në një sistem si dhe lehtësimi i qasjes në të dhëna, zvogëlimi i ngarkesës në institucionet apo entitetet prodhuese të të dhënave, qasja me kohë në të dhëna reale për qëllime hulumtuese dhe në funksion të krijimit të politikave publike të bazuara në të dhënat më të fundit.
