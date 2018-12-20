@@ -1,0 +1,1 @@
+LAW No. 06/L-079 ON ENERGY EFFICIENCY LAW No. 06/L-079 ON ENERGY EFFICIENCY The Assembly of the Republic of Kosovo, Based on Article 65 (1) of the Constitution of the Republic of Kosovo, Approves: LAW ON ENERGY EFFICIENCY

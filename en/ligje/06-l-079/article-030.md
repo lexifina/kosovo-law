@@ -1,0 +1,12 @@
+# Article 30
+Meetings of the Board of Directors 1. The meetings of the Board of Directors shall be chaired by the Chairperson, or in his or her absence, the Chairperson’s designee.
+2. The Board of Directors shall meet as often as the business of KEEF may require but not less frequently than four (4) times a year.
+3. Meetings of the Board of Directors are convened and notified to all Board Members by the Chairperson who shall decide the agenda upon proposal of the Managing Director of the KEEF.
+4. Meetings may also be convened at the written request of any two (2) members of the Board of Directors.
+5. Board of Directors meetings shall be convened by communicating the time, venue, agenda and any documentation required to be discussed in the meeting to all members of the Board of Directors at least ten (10) working days before the date set for the meeting; in the event of an emergency, meetings may be convened at shorter notice.
+6. Each member of the Board of Directors shall have one vote. In the event of equality of votes, the Chairperson shall have the deciding vote.
+7. The quorum for the conduct of business and taking of decisions at any meeting of the Board of Directors shall consist of at least four (4) members of the Board of Directors including the mandatory presence of the Chairperson or the Chairperson’s designee.
+8. Except as provided by this Law, decisions of the Board of Directors shall be adopted by a simple majority of those present and voting. However, meetings and voting by teleconference are permitted, but at least two (2) “in-person” meetings of the Board of Directors shall be held each year.
+9. Subject to the quorum requirement above, no act or proceeding of the Board of Directors shall be invalidated by reason of the existence of a vacancy or vacancies on the Board of Directors.
+10. The Board of Directors may invite persons as observers and experts to public sessions of the Board, who will not be permitted access to confidential information. Such observers could include representatives of donors, international finance institutions, specialized experts, associations, chambers of commerce, women’s and minorities’ groups and academia. Such invitees and experts will not have voting rights but may request and be invited by the Chairperson to address the Board of Directors.
+11. The Board of Directors shall establish Audit and Risk Management Committees. Additional Committees may be established by the Board of Directors.

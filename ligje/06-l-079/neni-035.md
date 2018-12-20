@@ -1,0 +1,8 @@
+# Neni 35
+Tipet e instrumenteve të financimit 1. FKEE, në bazë të Vendimit të Bordit të Drejtorëve pasi të ketë siguruar pëlqimin e Ministrisë së Zhvillimit Ekonomik dhe Ministrisë së Financave mund të zhvillojë dhe ofrojë Instrumente Financiare të ndryshme nën komponentët qarkullues dhe joqarkullues që promovojnë investime në fushën e efiçiencës së energjisë, përfshirë integrimin e burimeve të ripërtëritshme të energjisë në mjedise të ndërtuara, siç janë sistemet termike solare, ftohjen dhe ngrohjen gjeotermike, aplikimin e biomasës, dhe të ngjashme. 2.Çdo Instrument Financiar do të dizajnohet dhe implementohet duke respektuar në tërësi legjislacionin lokal të zbatueshëm dhe Marrëveshjet Financiare Ndërkombëtare, në rast se janë të aplikueshme.
+3. Në çdo rast, FKEE dhe përfituesit do të nënshkruajnë marrëveshje me të cilat definohen të drejtat dhe obligimet e palëve.
+4. Instrumentet financiare dhe marrëveshjet e ndërlidhura mund të përfshijnë, mes tjerash:
+4.1. Marrëveshjet për Shërbime Energjetike për projekte që do të implementohen në tërësi përmes fondit, siç definohet në nenin 37 të këtij ligji.
+4.2. llojet e tjera të marrëveshjeve, të kombinuara apo jo me grante për projektet që do të financohen nga FKEE për konsumator të kualifikuar rezidentë dhe mundësisht përfitues të tjerë.
+4.3 Instrumentet e tjera të financimit dhe marrëveshjet që synojnë konsumatorët e sektorit publik dhe/apo privat të energjisë për mbështetje dhe/apo zbatim të masave të EE të caktuara për FKEE për të arkivuar caqet e efiçiencës së energjisë të përcaktuara me ligjin për efiçiencën e energjisë.
+LIGJI Nr. 06/L -079 PËR EFIÇIENCË TË ENERGJISË 5. FKEE do të mbajë llogari të ndara për çdo produkt.

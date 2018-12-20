@@ -1,0 +1,3 @@
+# Article 13
+Availability of Energy Management and other qualification, accreditation and certification schemes 1. KEEA may adopt and define through the NEEAP measures that promote availability of certification schemes for Energy Management Systems. Other relevant qualification, accreditation and certification schemes may be promoted including trainings to service providers, energy managers, installers of energy-related building elements and other energy market stakeholders to increase capacities, make available reliable customer services and contribute to the achievement of national energy efficiency objectives.
+2. The schemes defined in paragraph 1. of this Article shall be made publicly available including appropriate awareness raising measures.

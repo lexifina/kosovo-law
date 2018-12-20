@@ -1,0 +1,7 @@
+# Article 34
+Revolving and non- Revolving components 1. To ensure its sustainability, KEEF shall, in principle, operate under the revolving mechanism as defined in paragraph 1.39. of Article 3 of this Law.
+2. KEEF can maintain in parallel a non-revolving component to provide grants, partial guarantees and other non-revolving financing instruments, as well as to be used for repayment by the KEEF of funds provided by a funding institution under repayment conditions. Regardless of the source or sources of funding, the total budget of KEEF for the non-revolving component shall be sufficient to cover all administrative and operating costs relating to this component.
+3. Allocation of funds to the revolving or to the non- revolving component shall be specified in the relevant agreements prior to the transfer of the funds to KEFF.
+4. Both revolving and non-revolving components of the fund will be monitored separately, using separate monitoring and accounting systems.
+5. Transfer of funds from the non-revolving component to the revolving component or from the revolving component to the not-revolving component may be done with decision of the Board
+LAW No. 06/L-079 ON ENERGY EFFICIENCY of Directors, fully justifying the reasons for such a decision and having the prior approval of the Ministry responsible for energy sector and the Ministry of Finance, as well as the prior endorsement of the donor or the International Financing Institution who provided the respective funds, when this is applicable

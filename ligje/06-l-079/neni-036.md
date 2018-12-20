@@ -1,0 +1,4 @@
+# Neni 36
+Kushtet e përgjithshme për implementim të Projekteve të përkrahura nga FKEE 1. FKEE do të monitorojë për së afërmi implementimin e marrëveshjes me përfituesit për të siguruar plotësimin e të gjitha kushteve të përcaktuara në Kontratë në mënyrë transparente dhe profesionale.
+2. Procedurat e vlerësimit dhe përbërja e komiteteve të vlerësimit për tenderë të realizuar nga Fondi apo nga përfituesit e Fondit do të përshkruhen në Thirrjen për Propozime. Komitetet e vlerësimit të tenderëve do të përfshijnë detyrimisht një ekspert të specializuar të pavarur që ka ekspertizën e duhur relevante për projektin që po shqyrtohet, i cili do të vërtetojë se tenderi i plotëson kushtet minimale teknike dhe specifikacionet e përcaktuara në Thirrjen për Propozime dhe/ose Dokumentet e Tenderit.
+3. Fondi do të kryejë pagesat vetëm pasi të jenë plotësuar kushtet dhe do të aplikojë ndëshkime vetëm në rast të mospajtueshmërisë me marrëveshjet relevante.

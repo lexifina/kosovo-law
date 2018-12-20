@@ -1,0 +1,9 @@
+# Neni 25
+Themelimi dhe baza juridike e FKEE 1. Themeluesi i Fondit të Kosovës për Efiçiencë të Energjisë është Republika e Kosovës, përmes këtij ligji.
+2. Fondi i Kosovës për Efiçiencë të Energjisë themelohet me këtë ligj si subjekt i pavarur autonom juridik në shërbim të interesit publik, me personalitet të plotë juridik dhe identitet ligjor që është i veçantë dhe i dallueshëm nga Bordi i Drejtorëve dhe Ekzekutivi i FKEE.
+3. Pa u kufizuar si në vijim, FKEE, ka të drejtë të kontraktojë, padisë dhe të paditet në emër të vet, aseteve të veta, investimeve në projektet e efiçiencës së energjisë dhe të pranojë çfarëdo kthimi të investimeve, pranojë dhe lëshojë grante dhe donacione, hua dhe instrumente të tjera financiare për t’i arritur objektivat e saj siç parashihet me këtë ligj.
+4. FKEE ka autonomi të plotë operacionale dhe administrative dhe funksionon jashtë kornizës së strukturave qeveritare të Kosovës dhe Shërbimit Civil të Kosovës dhe nuk konsiderohet si organizatë buxhetore në kuptim të Ligjit për Menaxhimin e Financave Publike dhe Përgjegjësitë dhe Ligjin për Buxhetin e Republikës së Kosovës.
+5. Të gjitha të hyrat që FKEE i siguron nga donacionet, kthimet në investime, tarifat dhe pagesat e tjera të pranuara apo ngarkuara në përputhje me këtë ligj dhe ligjet në fuqi, qeverisen me dispozitat e këtij ligji, dhe aktet nënligjore për FKEE të miratuara nga Qeveria e Kosovësë dhe Rregulloret e brendshme në fuqi për përkufizimin e rregullave dhe procedurave operacionale të FKEE. Në rast të mospërputhjeve me ligjet tjera në fuqi në lidhje me buxhetin dhe shpenzimet e FKEE, mbizotëron ky ligj.
+6. FKEE është përgjegjës për palët e treta me kapital të vet.
+7. FKEE ka të drejtë të ketë llogari bankare në bankat e themeluara në Kosovë.
+8. FKEE operon në tërë territorin e Republikës së Kosovës.

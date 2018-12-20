@@ -1,0 +1,16 @@
+# Neni 37
+Marrëveshjet për Shërbime Energjetike 1. Marrëveshjet e Shërbimit të Energjisë do të jenë instrumenti kryesor i FKEE për zbatimin e investimeve të efiçiencës së energjisë në Subjektet Publike në kuadër të komponentit qarkullues.
+2. Marrëveshja për Shërbime Energjetike nënshkruhet mes FKEE dhe entitetit publik, me çka FKEE i mundësohet t’i investojë fondet e veta në projekte të efiçiencës së energjisë dhe ta kthejë investimin nga entiteti publik në bazë të kursimeve të parapara sa i përket kostos së energjisë.
+3. Marrëveshja për Shërbime Energjetike do të implementohet si në vijim:
+3.1. FKEE do të lëshojë një Ftesë për Shprehje të Interesit që përcakton të gjitha afatet dhe kushtet e Marrëveshjes së Shërbimit të Energjisë duke përfshirë, mes tjerash, kriteret e pranueshmërisë, kërkesat minimale teknike dhe të tjera, dokumentacionin që duhet të dorëzohet nga aplikuesi, metodologjitë dhe supozimet kyçe për llogaritjen e energjisë bazë dhe kursimet e parashikuara të energjisë, format e aplikimit, 3.2. Në bazë të parimit “shërbehet i pari që pranohet”, FKEE do të përcaktojë projektet e pranueshme, të realizueshme dhe me kosto efektive të EE bazuar në kriteret e përcaktuara në Ftesën për Shprehje të Interesit.
+3.3 Për çdo projekt të pranueshëm, masat e EE do të përcaktohen në hollësi dhe do të llogaritet energjia bazë dhe kursimet e parashikiuara të kostove të energjisë nga investimi.
+3.4. Për projektet e përzgjedhura përfundimisht, FKEE do të nënshkruajë Marrëveshje për Shërbime Energjetike me entitetin publik. Kjo kontratë do të përfshijë, mes tjerash:
+3.4.1. vlerën e investimit nga FKEE.
+LIGJI Nr. 06/L -079 PËR EFIÇIENCË TË ENERGJISË 3.4.2. kursimet e projektuara të energjisë dhe afatin e kthimit të investimit.
+3.4.3. dispozita të qarta të shpagimit kompensimit të investimit tek FKEE.
+3.4.4. periudhën e shpagimit kompensimit të investimit tek FKEE, numrin e kësteve dhe shumat e shpagimit, sipas marrëveshjes me pranuesin e investimit.
+3.4.5. numrin e kësteve, që bazohet në kursimet e projektuara të energjisë, sipas përcaktimit në kontratën e nënshkruar me FKEE, për një periudhë jo më të gjatë se pesëmbëdhjetë (15) vite, në këste tremujore apo tjera të ngjashme; periudha e shpagimit dhe/ose shuma e kësteve mund të përshtatet ndaj ndryshimeve të mundshme të çmimit të energjisë, me kusht që shuma e gjithmbarshme të shpaguhet përgjatë periudhës jo më të gjatë se pesëmbëdhjetë (15) vite.
+4. FKEE do të jetë përgjegjës për organizimin e përgatitjes së specifikacioneve teknike, dizajnimin e projektit dhe dokumentacionit tjetër të ndërlidhur të projektit, prokurimin e punimeve dhe shërbimeve dhe nënshkrimin e të gjitha kontratave me operatorë ekonomikë.
+5. Përmbyllja përfundimtare e punimeve dhe shërbimeve do të certifikohet na një komision i pranimit, përbërja e së cilit do të përcaktohet në Thirrjen për Propozime dhe/ose në dokumentacionin e tenderimit.
+6. Certifikimi i përmbylljes përfundimtare të projektit konsiderohet vërtetim i kursimeve të projektuara të energjisë dhe institucioni përfitues do ta kthejë investimin e kapitalit tek FKEE, përfshirë të gjitha shërbimet për të cilat është arritur marrëveshja.
+7. Marrëveshja e Shërbimit të Energjisë nuk do të konsiderohet si borxh publik sipas ligjit për borxhin publik.
