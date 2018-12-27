@@ -1,0 +1,4 @@
+Qeveria e Republikës së Kosovës,
+Në mbështetje të nenit 93 (4) të Kushtetutës së Republikës së Kosovës, duke marrë parasysh nenin 4 të Rregullores nr. 02/2011 për fushat e përgjegjësisë administrative të Zyrës së Kryeministrit dhe Ministrive (22.03.2011), (Gazeta Zyrtare e Republikës së Kosovës /nr. 1 / 18 prill 2011, Prishtinë e ndryshuar dhe e plotësuar me rregulloren nr. 14/2017 rregulloren nr.15/2017 rregulloren nr. 16/2017 rregulloren nr. 07/2018 dhe me rregulloren nr. 22/2018, si dhe në pajtim me nenin 19 (6.2) të Rregullores së Punës së Qeverisë Nr. 09/2011,
+Miraton:
+RREGULLORE (QRK) NR.26/2018 PËR NDRYSHIMIN DHE PLOTËSIMIN E RREGULLORES NR. 02/2011 PËR FUSHAT E PËRGJEGJËSISË ADMINISTRATIVE TË ZYRËS SË KRYEMINISTRIT DHE MINISTRIVE E NDRYSHUAR DHE E PLOTËSUAR ME RREGULLOREN NR. 14/2017 REGULLOREN NR.15/2017 RREGULLOREN NR. 16/2017 RREGULLOREN NR. 07/2018 DHE ME RREGULLOREN NR. 22/2018
