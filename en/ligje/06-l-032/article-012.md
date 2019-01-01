@@ -1,0 +1,4 @@
+# Article 12
+Stocktaking of assets and liabilities 1. Business organizations, subject to this Law, must verify at least once a year the existence and evaluation of assets, liabilities, and capital through the stocktaking of these elements and their supporting evidence through the stocktaking process.
+2. Stocktaking of assets and liabilities is made under the responsibility of the steering body of business organizations and in accordance with the procedures approved thereby. The stocktaking should be reconciled with the accounting ledgers.
+3. If due to different circumstances, the initial (historical) state of the property does not possess source documents or the asset stock is unknown, their validity for registration purposes and tax purposes is assessed by licensed domestic or foreign real estate appraisers for evaluation and registration of assets.

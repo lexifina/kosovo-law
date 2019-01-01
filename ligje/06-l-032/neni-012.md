@@ -1,0 +1,4 @@
+# Neni 12
+Inventarizimi i pasurisë dhe detyrimeve 1. Shoqëritë tregtare që i nënshtrohen dispozitave të këtij Ligji, verifikojnë të paktën një (1) herë në vit, ekzistencën dhe vlerësimin e pasurive, detyrimeve dhe kapitalit, nëpërmjet inventarizimit të këtyre elementeve dhe dëshmive së tyre mbështetëse nëpërmjet procesit të inventarizimit.
+2. Inventarizimi i pasurive dhe detyrimeve kryhet nën përgjegjësinë dhe sipas procedurave të miratuara nga organi drejtues i shoqërive tregtare. Inventarizimi duhet të barazohet me librat kontabël.
+3. Nëse për shkak të rrethanave të ndryshme, gjendja fillestare (historike) e pasurisë nuk posedon dokumente burimore ose inventari i pasurive është i panjohur, vlefshmëria e tyre për qëllime të regjistrimit dhe qëllimeve tatimore vlerësohet nga vlerësues të licencuar vendor apo të huaj të pasurive të patundshme për vlerësim dhe regjistrim të pasurive.

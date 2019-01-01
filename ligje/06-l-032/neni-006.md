@@ -1,0 +1,5 @@
+# Neni 6
+Përgatitja e dokumenteve të kontabilitetit 1. Dokumenti i kontabilitetit duhet të jetë autentik, në gjendje të rregullt dhe i përgatitur në atë mënyrë që siguron mbikëqyrje me kohë. Personi i autorizuar për përfaqësim të ndërmarrësit ose personit të autorizuar për përfaqësim me delegim të autoritetit garanton me nënshkrim të tij në dokumentin e kontabilitetit se ky i fundit është autentik dhe në gjendje të rregullt.
+2. Përjashtimisht nga paragrafi 1. i këtij neni, fatura që shërben si dokument i kontabilitetit dhe që lëshohet nga ndërmarrësi nuk duhet të nënshkruhet, nëse është përpiluar sipas mënyrës e cila është në pajtim me legjislacionin tatimor dhe përmban emrin dhe mbiemrin e personit përgjegjës për lëshimin e saj.
+3. Dokumenti i kontabilitetit duhet hartohet në atë mënyrë që t’i mundësojë personit teknik të dallojë transaksionin përkatës.
+4. Ndërmarrësi ose personi përgjegjës kontrollon saktësinë dhe integritetin e dokumentit të kontabilitetit para vendosjes së informacioneve nga dokumenti i kontabilitetit në librat afariste.

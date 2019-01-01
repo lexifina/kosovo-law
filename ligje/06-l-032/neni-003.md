@@ -1,0 +1,46 @@
+# Neni 3
+Përkufizimet 1. Shprehjet e përdorura në këtë Ligj kanë këtë kuptim:
+1.1. Mbajtja e kontabilitetit - regjistrimi kronologjik në ditar dhe regjistrimi sistematik në librat e kontabilitetit i të gjitha veprimeve dhe fakteve ekonomiko-financiare që i përkasin një njësie ekonomike;
+1.2. Sistem kontabël - strukturë e organizuar që përbëhet nga metodat manuale ose të kompjuterizuara të kontabilitetit, procedura dhe kontrolle të dizajnuara që të mbledhin, regjistrojnë, klasifikojnë, analizojnë, përmbledhin, interpretojnë dhe prezantojnë të dhëna të sakta dhe në kohën e duhur për vendimmarrjet e menaxhmentit;
+1.3. Raporti vjetor - raport i nxjerrë nga shoqëritë tregtare për periudhën vjetore që përfshinë pasqyrat financiare për qëllime të përgjithshme, së bashku me opinionin e auditorit kur është e aplikueshme;
+1.4. Firmë auditimi - person juridik ose çfarëdo entiteti tjetër, pa marrë parasysh formën ligjore, që është e licencuar, në përputhshmëri me dispozitat e këtij Ligj për të kryer auditim ligjor;
+1.5. Pasqyra financiare për qëllim të përgjithshëm (PFQP) – pasqyra e pozitës financiare, pasqyra e të ardhurave, pasqyra e rrjedhës së parasë, pasqyra e ndryshimeve në ekuitete, shënimet plotësuese dhe materialet sqaruese të pasqyrave financiare;
+1.6. Shoqëri tregtare - çfarëdo lloji i shoqërisë tregtare e themeluar në Kosovë sipas legjislacionit në fuqi për shoqëritë tregtare;
+1.7. Shoqëri e huaj tregtare - shoqëri e huaj tregtare e përcaktuar sipas legjislacionin në fuqi për shoqëritë tregtare;
+1.8 Standardet Ndërkombëtare të Kontabilitetit (SNK) nënkuptojnë Standardet Ndërkombëtare të Raportimit Financiar (SNRF) dhe interpretimet e ndërlidhura të Komitetit për Interpretime të Standardeve (KIS), të Komitetit Ndërkombëtar të Interpretimeve për Raportim Financiar (KNIRP), rishikimet e këtyre standardeve dhe interpretimeve, si dhe standardet për të ardhmen dhe interpretimet e lëshuara dhe të adoptuara nga Bordi i Standardeve Ndërkombëtare të Kontabilitetit (BSNK), dhe të aprovuara nga KKRF-ja;
+1.9. Standardet Ndërkombëtare të Auditimit (SNA) - nënkuptojnë Standardet Ndërkombëtare të Auditimit dhe udhëzimet përkatëse të Bordit të Standardeve Ndërkombëtare të Auditimit dhe Sigurisë (BSNAS), dhe të aprovuar nga KKRF-ja;
+1.10. Auditor ligjor - personi fizik i cili është licencuar në përputhshmëri me dispozitat e këtij Ligji;
+1.11. Partner kyç i auditimit - nënkupton:
+1.11.1. auditorin ligjor të emëruar nga një firmë e auditimit për angazhim në auditim, i cili është përgjegjës për kryerjen e auditimit në emër të firmës së auditimit;
+1.11.2. në rast të auditimeve në grup, të paktën një (1) auditor i emëruar nga firma e auditimit si përgjegjës kryesor për kryerjen e auditimit në nivel të grupit, ose një (1) auditor i emëruar nga firma e auditimit si përgjegjës kryesor për
+LIGJI Nr. 06/L- 032 PËR KONTABILITET, RAPORTIM FINANCIAR DHE AUDITIM kryerjen e auditimit në nivel të degëve; ose 1.11.3. auditorin ligjor i cili e nënshkruan raportin e auditimit.
+1.12. Person - personi fizik ose personi juridik;
+1.13. Shoqatë profesionale e kontabilitetit dhe auditimit - organizatë jofitimprurëse, jo-qeveritare e kontabilitetit dhe auditimit e cila brenda periudhes tre (3) vjeçare nga hyrja në fuqi e këtij Ligji bëhet anëtare monitoruese, ndërsa brenda pesë (5) vjetëve nga hyrja në fuqi e këtij ligji bëhet anëtare me të drejta të plota e Federatës Ndërkombëtare të Kontabilistëve (FNK), dhe i shërben interesit publik nëpërmjet zbatimit të Deklarimeve për Obligimet e anëtarësimit në zhvillimin e profesionistëve të kontabilitetit dhe auditimit, dhe e cila përcakton dhe zbaton standardet etike dhe profesionale të cilat në vete ngërthejnë kërkesat fillestare dhe të vazhdueshme të arsimit profesional për kontabilistë dhe auditorë. Për shoqatat e themeluara pas hyrjes në fuqi të këtij Ligji, afatet vlejnë nga data e licencimit nga KKRF;
+1.14. Subjektet me interes publik (SIP) – janë:
+1.14.1. institucionet financiare, që i nënshtrohen licencimit nga Banka Qendrore e Republikës së Kosovës (BQK) në bazë të legjislacionit të fuqi;
+1.14.2. ndërmarrjet publike dhe shoqërore dhe shoqëritë tregtare që i plotësojnë kriteret e për t’u klasifikuar si shoqërive të mëdha tregtare, në përputhje me këtë Ligj;
+1.14.3. subjektet letrat me vlerë të të cilave janë të lejuara për tregtim në një treg të rregulluar në Republikën e Kosovës, sipas legjislacionit në fuqi.
+1.15. Auditim ligjor - auditimi i pasqyrave vjetore financiare individuale ose të pasqyrave vjetore financiare të konsoliduara që kryhet nga auditori ligjor apo firmë e auditimit, të paraparë sipas dispozitave të këtij Ligji;
+1.16. Autoriteti kompetent - autoriteti apo organizata e cila caktohet me ligj dhe ngarkohet me mbikëqyrje të auditorëve ligjor dhe firmave të auditimit dhe funksionet tjera në sistemin e raportimit korporativ financiar ose pjesë të tjera të veçanta;
+1.17. Personi që nuk e ushtron profesionin - personi fizik i cili para përfshirjes në qeverisje të sistemit për mbikëqyrje publike për auditim ligjor në Kosovë, nuk ka pasur të drejtë vote në një firmë auditimi, nuk ka qenë anëtar i organit administrativ ose drejtues i një firme auditimi dhe nuk ka qenë i punësuar apo i angazhuar në forma të tjera në një firmë auditimi për tri (3) vitet e fundit;
+1.18. Standardet Ndërkombëtare të Raportimit Financiar për Ndërmarrjet e Vogla dhe të Mesme (SNRF-të për NVM-të) - standardet të publikuara nga BSNK-ja dhe të miratuara nga KKRF-ja;
+1.19. Auditori i grupit - auditor ligjor dhe firmat e auditimit që kryejnë auditimin e pasqyrave financiare të konsoliduara;
+1.20. Grupi - nënkupton subjektin afarist mëmë dhe të gjitha filialet e saj;
+1.21. Firmat e ndërlidhura të auditimit - çdo firmë e auditimit, pavarësisht nga forma e saj ligjore, e cila është e lidhur me një firmë të auditimit në formë të pronësisë, kontrollit ose menaxhimit të përbashkët;
+LIGJI Nr. 06/L- 032 PËR KONTABILITET, RAPORTIM FINANCIAR DHE AUDITIM 1.22. Kompania mëmë - subjekti afarist i cili kontrollon një ose më shumë filiale;
+1.23. Filiali - ndërmarrje afariste të kontrolluar nga kompania mëmë, përfshirë çdo degë të një kompanie kryesore mëmë;
+1.24. Kompanitë e ndërlidhura - një ose më shumë kompani brenda një grupi;
+1.25. Kompanitë aksionare - kompania në të cilën një kompani tjetër ka një interes pjesëmarrës së paku njëzetë përqind (20 %) dhe ka ndikim të konsiderueshëm mbi politikat financiare dhe operative të të cilat kompania tjetër ushtron;
+1.26. Deklaratat e Obligimeve të Anëtarësimit (DOA) - kërkesa e detyrueshme të FNK-së ndaj anëtarëve të saj;
+1.27. Qarkullimi neto - shumën e gjeneruar nga shitja e mallrave dhe ofrimin e shërbimeve pas zbritjeve dhe kthimeve, duke përjashtuar tatimin mbi vlerën e shtuar dhe taksat tjera të lidhura direkt me qarkullim; dhe 1.28. Pasqyrat financiare të konsoliduara - pasqyra vjetore financiare të një grupi të ndërmarrësve, në të cilën ndërmarrësi i caktuar (kompania mëmë) gëzon të drejtën për të menaxhuar politikat financiare dhe afariste të një ose më shumë ndërmarrësve (filialeve), në mënyrën përmes së cilës nxjerr përfitime (kontrolle), derisa këto raporte prezantohen si unike;
+1.29. Rrjet – nënkupton:
+1.29.1. struktura e cila synon në bashkëpunim dhe të cilës auditori ligjor apo firma ligjore e auditimit i takon; dhe 1.29.2. struktura e cila synon ndarjen e fitimit, shpenzimeve apo pronësi të përbashkët, kontrollin apo menaxhimin, politikat dhe procedurat e përbashkëta të kontrollit të cilësisë, strategji të përbashkët të biznesit, shfrytëzimin e përbashkët të emrit të firmës ose të pjesës së konsiderueshme të resurseve profesionale.
+1.30. Mjetet themelore – nënkupton mjetet të cilat janë të destinuara për përdorim të vazhdueshëm të aktivitetit të biznesit;
+1.31. Çmimi i blerjes – nënkupton çmimin e pagueshëm dhe çdo shpenzim i cili ndodh gjatë blerjes, duke zbritur çdo zvogëlim të kostos të blerjes;
+1.32. Kosto e prodhimit – nënkupton çmimin blerës të lëndës së parë, materialit shpenzues, i cili është i lidhur drejtpërdrejtë me produktin e prodhuar, përfshirë këtu shpenzimet e përgjithshme fikse dhe të ndryshueshme që përfshihen në mënyrë të arsyeshme, dhe pa përfshirë shpenzimet e shpërndarjes;
+1.33. Rregullimi i vlerës – nënkupton rregullimin për regjistrimin e ndryshimeve në vlerat e aseteve në datën e pasqyrës së pozitës financiare;
+1.34. Ekstrapolim – nënkupton përshtatjen proporcionale të njësisë matëse për një vit të plotë financiar në rastet kur periudha e raportimit nuk përbën vit të plotë financiar;
+1.35. Kontabilist i certifikuar – personi i kualifikuar si kontabilist i certifikuar nga një shoqatë e licencuar nga KKRF, i cili është anëtar me status të rregullt në një shoqatë;
+1.36. Deklarata e Pajtueshmërisë – është deklaratë e cila përcakton politikat e
+LIGJI Nr. 06/L- 032 PËR KONTABILITET, RAPORTIM FINANCIAR DHE AUDITIM ndërmarrjes, të cilat sipas opinionit të drejtorëve janë përmbushur krahas obligimeve relevante të tyre;
+1.37. Çmimet kontigjente - janë çmime të përcaktuara, bazuar në rezultatet e punës së auditorit. Nënkupton që auditorët ligjorë apo firmat e auditimit ligjor nuk duhet të krijojnë marrëdhënie kontraktuale me çmime kontigjente për auditim apo shërbime të tjera të dhënies së sigurisë (assurance), pasi që marrëdhëniet e këtilla kontraktuale prodhojnë situatë të konflikt të interesit.

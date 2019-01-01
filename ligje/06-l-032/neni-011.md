@@ -1,0 +1,10 @@
+# Neni 11
+Regjistrat kontabël dhe librat e llogarive 1. Regjistrat kontabël janë të obliguar të mbahen nga shoqëritë tregtare.
+2. Regjistrat kontabël përfshijnë regjistra të hyrjeve fillestare kontabël dhe regjistra mbështetës, siç janë kontrollet dhe regjistrat e transfereve të fondeve elektronike; faturave; kontratave; librave kryesor dhe ato dytësor, shënimeve në ditar dhe rregullimeve tjera në pasqyrat financiare të cilat nuk janë reflektuar tek hyrjet në ditar, dhe regjistrat si fletë pune që mbështesin alokimet e kostos, llogaritjet, barazimet dhe shpalosjet. Regjistrat kontabël ruhen në sistemin e regjistrimit të dyfishtë kontabël.
+3. Librat e llogarisë përfshijnë regjistrat apo librat, ku regjistrohen të gjitha transaksionet e subjektit. Librat kontabël përfshijnë regjistra dhe ditarë. Ditari është libër kontabël në të cilin regjistrohen transaksionet në atë mënyrë se si kanë ndodhur.
+4. Libri kryesor është regjistër kronologjik kontabël i cili përdoret për të mbajtur gjurmët e transaksioneve financiare. Transaksionet kategorizohen dhe përmblidhen në llogaritë e Librit Kryesor. Llogaria është regjistër i veçantë për secilin lloj të pasurisë, detyrimit, kapitalit, të ardhurave dhe shpenzimeve dhe zërave jashtë bilancit të gjendjes. Llogaritë e librit përfshijnë të gjitha llogaritë e planit kontabël të njësisë ekonomike.
+5. Dokumentacioni përkatës për librin kryesor përbëhet nga:
+5.1. regjistrat kontabël që arsyetohen me dëshmi mbështetëse, të dokumenteve në formë të shtypur ose elektronike, që sigurojnë besueshmërinë e tyre;
+5.2. dokumentacioni mbështetës që mbahet si dëshmi e dokumentuar gjatë gjithë periudhës kohore, të përcaktuar me nenin 20 të këtij ligji;
+5.3. dokumentacioni mbështetës që ofron dëshmi për regjistrat e kontabilitetit që transaksionet janë legjitime, në formë elektronike apo në kopje fizike; dhe 5.4. Dokumenti mbështetës që tregon datën, palët e përfshira, shumën neto të tatimit,
+LIGJI Nr. 06/L- 032 PËR KONTABILITET, RAPORTIM FINANCIAR DHE AUDITIM taksat dhe përshkrimin e transaksionit.

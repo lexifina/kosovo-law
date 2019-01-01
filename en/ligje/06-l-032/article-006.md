@@ -1,0 +1,5 @@
+# Article 6
+Preparation of accounting documents 1. The accounting document must be authentic, in a regular condition and prepared in a manner that ensures timely oversight. The person authorized to represent the entrepreneur or the person authorized to represent by delegation of the authority, guarantees with his signature in the accounting document that the latter is authentic and in a regular condition.
+2. Notwithstanding paragraph 1 of this Article, the invoice serving as an accounting document issued by the entrepreneur should not be signed, if it is prepared in a manner which is in accordance with tax legislation and contains the name and surname of the person responsible for its issuance.
+3. The accounting document must be drafted in such a way as to enable the technical person to distinguish the relevant transaction.
+4. Entrepreneur or responsible person controls the accuracy and integrity of the accounting document before placing the information from the accounting document in the ledgers.
