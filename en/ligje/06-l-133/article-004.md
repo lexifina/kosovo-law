@@ -1,0 +1,4 @@
+# Article 4
+Approval of the Budget of Republic of Kosovo for Fiscal Year 2019 1. Budget of the Republic of Kosovo for Fiscal Year 2019 shall be approved as determined in Table 2 and Tables 3.1, 3.1A, 3.1.B, 3.2, 3.2B, 4.1, 4.2 and 4.3 attached to this Law.
+2. Pursuant to Article 20, paragraph 8 of LPFMA, macro-fiscal projections and assumptions for the Budget of the Republic of Kosovo for the fiscal year 2019 are based on the updated macro-fiscal framework 2019-2021, and for information purpose their description is attached with Annex 1 of this Law, along with performance indicators, in sectorial central budget level attached with Annex 2.
+3. Projections and fiscal medium term assumptions, as well as allocations for fiscal year 2019, with projections for two (2) following years, are summarized for information in Table 1 and 1.1 attached with this Law.

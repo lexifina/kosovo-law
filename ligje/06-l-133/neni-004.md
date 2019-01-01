@@ -1,0 +1,4 @@
+# Neni 4
+Miratimi i buxhetit të Republikës së Kosovës për vitin fiskal 2019 1. Miratohet Buxheti i Republikës së Kosovës për vitin fiskal 2019 siç është i përcaktuar në Tabelën 2 dhe Tabelat 3.1, 3.1A, 3.1.B, 3.2, 3.2B, 4.1, 4.2 dhe 4.3, të bashkangjitura me këtë ligj.
+2. Në pajtim me Nenin 20, paragrafi 8, të LMFPP, parashikimet dhe supozimet makro-fiskale për Buxhetin e Republikës së Kosovës për vitin fiskal 2019 bazohen në kornizën e azhurnuar makro-fiskale 2019-2021, dhe për qëllime informimi përshkrimi i tyre është bashkangjitur në Shtojcën 1 të këtij ligji, së bashku me treguesit e performancës në nivel sektorial të buxhetit qëndrore që janë bashkangjitur në Shtojcën 2.
+3. Parashikimet dhe supozimet afatmesme fiskale, si dhe ndarjet për vitin fiskal 2019 me parashikimet për dy (2) vitet vijuese, përmblidhen për informim në tabelën 1 dhe 1.1, të bashkangjitura me këtë ligj.

@@ -1,0 +1,5 @@
+# Article 18
+Conditional expenditures 1. Allocations and expenditures equal to revenues resulting from the reduce of tax debt stock and measures of administrative tax improvements shall be conditioned by the collection of these revenues, according to the assessment of the Ministry of Finance on quarterly basis.
+2. This conditioning shall apply to the value of expenditures that is equivalent to the level of revenues expected from sources determined in paragraph 1 of this Article, according to the amount determined in Table 1 attached to this Law.
+3. The Tax Administration of Kosovo conducts reporting for tax purposes of revenues from the reduction of tax debt stock and administrative improvement measures to increase tax compliance.
+4. In case of non-collection of revenues provided for under paragraph 2 of this Article, the Minister of Finance shall be authorized to take steps to reduce allocations or cancel commitments in the amount equivalent to the non-realization of revenues according to paragraph 2 of this Article.
