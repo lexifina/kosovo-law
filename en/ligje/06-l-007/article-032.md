@@ -1,0 +1,11 @@
+# Article 32
+Article 161 of the Law shall be reworded as follows:
+Article 161
+Notice to heirs 161.1. In addition to direct notice to the known heirs, the court or notary shall publish notice on the internet on the State Portal of the Republic of Kosovo and in the Official Gazette. The Chamber of Notaries shall publish notice on initiation of inheritance procedure, for which the notary is responsible, on its official website.
+161.2. Notices from the paragraph 1 of this Article shall also contain comprehensive explanatory information on the rights of heirs under the Law. This information shall be prepared and issued by the Ministry of Justice and shall be attached to all notices related to inheritance procedure.
+161.3. Notice from the paragraph 1 of this Article shall be open for at least thirty (30) days.
+161.4. Upon notice, as prescribed in this Article, the heirs shall be deemed to have received adequate notice on inheritance procedure.
+161.5. For cases of inheritance where the heir is deceased ten (10) or more years before procedure commenced, the heir wishing to receive his portion of heritance shall address to the assigned notary a properly notarized statement, which proves that the heir shall claim his share of inheritance, participating in the information session described in the Article 141 of the Law.
+161.6. For cases of inheritance when the heir has died later than ten (10) years before commencement of proceedings, any heir who failed to appear shall be deemed to continue protecting/claiming his rights to inheritance or that he accepts the inheritance.
+161.7. Any heir may confirm, through a certified statement that he understands the rights and obligations as an heir; and that the heir renounces the presence in the inheritance procedure, including to information session.
+161.8. The identified heirs shall be required to inform the court or notary on any potential unidentified heirs, for which they are aware. The identified heirs shall also provide the court or notary all information they possess regarding the location of potential heirs, who are unaccounted for. False statement before the court or notary shall be punishable under the Criminal Code of the Republic of Kosovo.

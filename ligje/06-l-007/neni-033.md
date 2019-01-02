@@ -1,0 +1,5 @@
+# Neni 33
+Pas nenit 161 të ligjit shtohet neni i ri si vijon:
+Neni 161A
+Seanca informuese 161a.1. Pas hapjes së procedurës trashëgimore, por para se të bëhet heqja dorë nga trashëgimia ose ndarja e trashëgimisë, noteri është përgjegjës për mbajtjen e seancave informuese në të cilën do t’i ftojë të gjithë trashëgimtarët e mundshëm të
+LIGJI Nr. 06/L-007 PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJIT NR. 03/L-007 PËR PROCEDURËN JOKONTESTIMORE marrin pjesë në seancë informuese në të cilën do t’i njoftojë me të drejtat dhe detyrimet e tyre si trashëgimtarë. 161a.2. Njoftimi për seancat informuese për trashëgimtarët bëhet bashkë me njoftimin nga neni 161 paragrafi 1. i ligjit. 161a.3. Pas plotësimit të kërkesës për dhënien e njoftimit të përcaktuara në këtë nen, të gjithë trashëgimtarët do të konsiderohet se kanë pranuar njoftimin konstruktiv për seancën informuese. Çdo trashëgimtar që nuk merr pjesë në seancën informuese do të konsiderohet se ka hequr dorë nga e drejta e tij për të marrë pjesë në seancë informuese përveç nëse ai trashëgimtar ka dërguar deklaratë të vërtetuar, siç është përshkruar në nenin161 paragrafi 8. të këtij ligji.”

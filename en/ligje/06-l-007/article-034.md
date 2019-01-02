@@ -1,0 +1,4 @@
+# Article 34
+After Article 165 of the Law there shall be added a new Article as follows:
+Article 165A
+165a.1. Declaration to waive the inheritance submitted to the court or notary shall be followed by a separate discussion with the heir, to ensure that he understands fully his rights to inheritance, in order to ensure that the heir is no longer under pressure against his will to waive, assess the reasons behind such waiver and to notify that the waive is irrevocable. The court or notary shall have the discussion with the heir during the waiver, without the presence of other possible heirs. 165a.2. If the court or notary is informed that an heir is under pressure to waive his/her inheritance, the court or notary can not accept the waiver but it/he/she shall refer the case to state prosecutor.

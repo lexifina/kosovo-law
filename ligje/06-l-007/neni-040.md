@@ -1,0 +1,2 @@
+# Neni 40
+Dispozitat kalimtare Nëse para hyrjes në fuqi të këtij ligji, testamenti është përpiluar apo është dorëzuar për ruajtje në gjykatë, procedura jo kontestimore ka filluar me udhëzimin e gjykatës trashëgimore, raste këto të përcaktuara me nenet 150 paragrafi 1. pika b; 180 paragrafi 1. pika b; 183 paragrafi 1. dhe 238 të ligjit, gjykata për këto raste vazhdon të ushtrojë kompetencën e saj sipas këtyre neneve të ligjit.

@@ -1,0 +1,2 @@
+# Article 40
+Provisional provisions If before entry into force of this Law, the will has been drawn or submitted for safekeeping to court, the out contentious procedure has been initiated at the instruction of the hereditary court, as specified under Article 150, paragraph 1, item b; Article 180 paragraph 1, item b; Article 183, paragraph 1 and Article 238 of the Law, the court shall retain competence over these cases in conformity with these Articles of the Law.

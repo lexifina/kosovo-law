@@ -1,0 +1,5 @@
+# Article 33
+After Article 161 of the Law, there shall be added a new Article as follows:
+LAW No. 06/L –007 ON AMENDING AND SUPPLEMENTING THE LAW NO. 03/L-007 ON OUT CONTENTIOUS PROCEDURE
+Article 161A
+Information Session 161a.1. Upon commencing the inheritance procedure, but before renouncing the inheritance or inheritance allocation, the notary shall be responsible for holding information sessions to which he/she shall invite all potential heirs to attend the information session, at which he/she shall notify them of their rights and obligations as heirs. 161a.2. Notice on information sessions for heirs shall be done together with notice under Article 161, paragraph 1 of the Law. 161a.3. Upon meeting the demand for awarding the notice set out under this Article, all heirs shall be deemed that they have received constructive notice on information session. Any hair failing to participation in the information session shall be deemed to have waived his right to attend the information sessions, unless the said heir submitted a certified statement, as prescribed under Article 161, paragraph 8 of this Law.
