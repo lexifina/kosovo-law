@@ -1,0 +1,2 @@
+# Neni 3
+Në nenin 12 të ligjit, pas paragrafit 2. shtohet paragrafi i ri si vijon: “12.3. nëse bashkëshorti pasjetues nuk ka objekt për banim ai mban të drejtën e tij të përdorë objektin banesor- martesor, në të cilin ka jetuar gjatë martesës, deri në vdekjen ose rimartesën e tij. Nëse objekti banesor shitet apo në ndonjë formë tjetër tjetërsohet, bashkëshortit pasjetues i sigurohet objekti i domosdoshëm i banimit.
