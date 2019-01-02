@@ -1,0 +1,2 @@
+# Article 32
+Entry into force This Law shall enter into force fifteen (15) days after its publication in the Official Gazette of the Republic of Kosovo, while provisions referring to the private sector shall start to be applicable one (1) year after the entry into force of this Law. Law No.06/L - 085 23 November 2018 Promulgated by Decree No.DL-062-2018, dated 13.12.2018, President of the Republic of Kosovo Hashim Thaçi.

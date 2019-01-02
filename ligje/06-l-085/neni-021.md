@@ -1,0 +1,3 @@
+# Neni 21
+Sinjalizimi lidhur me sigurinë kombëtare, mbrojtjen, inteligjencën dhe marrëdhëniet ndërkombëtare 1. Kur sinjalizimi i brendshëm apo jashtëm sipas këtij ligji ka të bëjë me informacionin e klasifikuar, sigurinë kombëtare, mbrojtjen, inteligjencën dhe marrëdhëniet ndërkombëtare, sinjalizuesi ia paraqet organit kompetent në këto fusha.
+LIGJI Nr. 06/L -085 PËR MBROJTJEN E SINJALIZUESVE 2. Brenda gjashtë (6) muajve institucionet përgjegjëse sipas paragrafit 1 të këtij neni, duhet të përcaktojnë rregulla dhe procedura për pranimin dhe trajtimin e llojeve të sinjalizimeve. Nëse nuk përcaktohen rregullat dhe procedurat, aplikohen rregullat e përgjithshme në përputhje me këtë ligj.
