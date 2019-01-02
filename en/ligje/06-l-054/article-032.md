@@ -1,0 +1,6 @@
+# Article 32
+Special conditions for judges 1. In addition to the minimum qualifications, all candidates for appointment as judges, for the purpose of appointment or promotion in the courts, must meet the following qualifications:
+LAW No. 06/L-054 ON COURTS 1.1. to serve as a judge in the Serious Crimes Department or the Juvenile Department of the Basic Court, the candidate should have at least three (3) years of experience as a judge in the field of criminal law; 1.2.to serve as a judge in the Department for Administrative Matters or Department for Commercial Matters of the Basic Court, the judge should have at least six (6) years of experience in the legal field, including experience in administrative and commercial matters;
+1.3. to serve as a judge in the Court of Appeals, the judge should have at least five (5) years of experience as a judge;
+1.4. to serve as a judge in the Supreme Court, the judge should have at least eight (8) years of experience as a judge.
+1.5. to serve as a judge in special department for cases under the jurisdiction of the Special Prosecution Office of the Republic of Kosovo, the candidate should meet the conditions to work as a judge in the Department of Serious Crimes and have a positive assessment of the performance.

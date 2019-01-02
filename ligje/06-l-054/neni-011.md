@@ -1,0 +1,5 @@
+# Neni 11
+Themelimi i degës se Gjykatës Themelore 1. Nëse në njërën nga komunat e themeluara, në pajtim me Ligjin për Kufijtë Administrativ të Komunave, nuk ka degë, dhe vlerësohet se ka nevojë të themelohet dega, komuna me vendim të Kuvendit Komunal, mund të paraqesë kërkesë në Këshill për themelimin e degës.
+2. Këshilli shqyrton kërkesat e tilla, dhe pas vlerësimit të ngarkesës me lëndë si dhe rrethanave të tjera, e shqyrton arsyeshmërinë e kërkesës dhe vendos. Këshilli e procedon propozimin, varësisht nga natyra e kërkesës së komunës sipas ligjit.
+3. Nëse Këshilli e aprovon kërkesën sipas paragrafit 1 të këtij neni, për themelim të degës së re, Këshilli i rekomandon Ministrisë së Drejtësisë, që të ndërmarrë masat e nevojshme për të propozuar ndryshimin dhe plotësimin e këtij ligji.
+4. Rrethanat që duhet marrë parasysh gjatë zbatimit të këtij neni përfshijnë, por nuk kufizohen në përmirësimin e qasjes në drejtësi, numrin e popullsisë, pozita gjeografike si dhe faktorët tjerë relevantë.

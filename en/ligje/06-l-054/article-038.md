@@ -1,0 +1,5 @@
+# Article 38
+Professional Activities 1. Judges may, upon prior approval by the Council, take part in professional organizations, scientific meetings that promote independence and protection of professional interests of Judges.
+2. Judges may, upon approval by the Presidents of the Courts and the Presidents upon approval by the Council, only outside the working hours, engage in activities that are in line with the Code of Ethics and Professional Conduct of Judges.
+3. In accordance to the provisions of the Code of Ethics and Professional Conduct of Judges, judges may engage in professional and scientific writing, but may not publish the substance of court deliberations gathered during or after the end of judicial process, unless expressively permitted by law or sub-legal act, issued by the Council.
+4. Judges shall, for activities foreseen in this Article, receive a remuneration, which cannot exceed the value of twenty five percent (25%) of the basic salary, and for this award the Judges shall notify the President of the Court whereas the Presidents of the Court shall notify the Council.

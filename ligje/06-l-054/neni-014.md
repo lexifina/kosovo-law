@@ -1,0 +1,17 @@
+# Neni 14
+Kompetencat dhe Përgjegjësitë e Kryetarit dhe nënkryetarit të Gjykatës 1. Kryetari i Gjykatës Themelore dhe i Gjykatës së Apelit, është përgjegjës për administrimin ditor të gjykatës, në përputhje me rregullat dhe procedurat e përcaktuara nga Këshilli. Kryetari i Gjykatës organizon dhe bashkërendon funksionimin e gjykatës; mbikëqyrë veprimtaritë financiare të gjykatës; dhe ndërmerr veprime të cekura me rregullat, procedurat apo urdhëresat e nxjerra nga Këshilli.
+2. Kryetari i gjykatës ka këto përgjegjësi:
+2.1. Autorizon dhe inicion procedurat për punësimin, disiplinimin dhe shkarkimin e personelit jogjyqësor, në përputhje me rregulloret e zbatueshme për personelin.
+2.2. Kryetari i gjykatës ka autoritet të përgjithshëm administrativ për menaxhimin e gjykatës si dhe siguron administrim efikas dhe efektiv të drejtësisë nga të gjitha degët, departamentet dhe divizionet e gjykatës.
+2.3. Kryetari i gjykatës, në bashkëpunim me gjyqtarët e gjykatës, zhvillon planin vjetor për menaxhimin e lëndëve dhe cakton lëndët tek departamentet dhe gjyqtarët, në atë mënyrë që të sigurojë zgjidhjen efikase të lëndëve.
+2.4. Kryetari i gjykatës në baza vjetore i dërgon Këshillit një raport mbi suksesin e zbatimit të planit të mëparshëm vjetor për menaxhimin e lëndëve.
+2.5. Kryetari i gjykatës i dërgon Këshillit raport tremujor me shkrim, që adreson punën e gjykatës, identifikon çfarëdo probleme me të cilat ballafaqohet gjykata, si dhe propozon hapa riparues për të adresuar problemet e identifikuara.
+2.6. Kryetari i gjykatës, në bazë të rregullave dhe urdhëresave të Këshillit, do të ndërmarrë të gjitha masat e nevojshme, për të siguruar menaxhim efektiv dhe efikas të gjykatës dhe të burimeve të saj, si dhe gjykimin e lëndëve brenda kohës së arsyeshme.
+2.7. Kryetari i gjykatës është përgjegjës për të siguruar se gjykata dhe procedurat para gjykatës janë të hapura dhe transparente për publikun.
+LIGJI Nr. 06/L - 054 PËR GJYKATAT 2.8. Pas shqyrtimit dhe pranimit nga Këshilli, planet dhe raportet tremujore dhe vjetore mbi menaxhimin e lëndëve do të bëhen publike.
+2.9. Kryetari i gjykatës është përgjegjës për të siguruar qasjen e publikut në gjykata, përfshirë qasjen e personave nga komunitetet që nuk janë shumicë në Kosovë.
+2.10. Kryetari i gjykatës thërret takim vjetor të të gjithë gjyqtarëve për këshillim mbi Administrimin e Drejtësisë në atë gjykatë; për të analizuar organizimin e gjykatës; për të shqyrtuar dhe propozuar ndryshime në procedura dhe praktika; për të ekzaminuar punën e arritur nga gjykata; si dhe për të adresuar çfarëdo problemi të administratës, me të cilin ballafaqohet gjykata. Kryetari i gjykatës brenda nëntëdhjetë (90) ditësh i dërgon Këshillit një raport mbi rezultatet e takimit vjetor të gjyqtarëve.
+2.11. Kryetari i gjykatës kryen edhe punë tjera të përcaktuara me ligj dhe me Rregullore të Këshillit. Kryetari për punën e tij i raporton Këshillit.
+2.12. Kryetari i gjykatës mund të delegojë kompetenca të caktuara.
+3. Kryetari i gjykatës, në konsultim me Këshillin Gjyqësor të Kosovës, cakton nënkryetarin e gjykatës nga radhët e gjyqtarëve të gjykatës përkatëse. Mandati i nënkryetarit të gjykatës është i njëjtë me mandatin e kryetarit përkatës.
+4. Nënkryetari i gjykatës ushtron detyrat e kryetarit të gjykatës në mungesë të tij, apo kur kryetari e ka të pamundshëm ushtrimin e detyrave të tij. Nënkryetari ushtron detyra tjera të cilat i delegohen me shkrim nga kryetari i gjykatës.

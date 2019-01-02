@@ -1,0 +1,4 @@
+# Neni 17
+Departamenti për Çështje Administrative i Gjykatës Themelore të Prishtinës 1. Departamenti për Çështje Administrative i Gjykatës Themelore të Prishtinës, gjykon dhe vendos në konfliktet administrative sipas padive kundër akteve administrative përfundimtare dhe për çështjet e tjera të përcaktuara me ligj.
+2. Të gjitha çështjet në Departamentin për Çështje Administrative të Gjykatës Themelore gjykohen nga një (1) gjyqtar profesionist, përpos nëse me ligj parashihet ndryshe.
+3. Në kuadër të Departamentit për Çështje Administrative të Gjykatës Themelore të Prishtinës, funksionon Divizioni Fiskal, në lidhje me paditë e ushtruara kundër akteve përfundimtare administrative, në çështjet që kanë të bëjnë me çështjet doganore dhe tatimore, tatimi mbi pronën e paluajtshme dhe çdo tatim ose kontribut tjetër të aplikuar në Republikën e Kosovës

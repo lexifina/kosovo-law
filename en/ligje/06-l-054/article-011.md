@@ -1,0 +1,5 @@
+# Article 11
+Establishment of the branch of a Basic Court 1. If, in one of the established municipalities, in accordance with the Law on Administrative Municipal Boundaries, there is no branch, and is considered that a branch needs to be established, the municipality may, by a decision of the Municipal Assembly, submit a request to the Council for the establishment of a branch.
+LAW No. 06/L-054 ON COURTS 2. The Council shall review such requests, and after evaluating the case load as well as other circumstances, examines the justification of the request and decides. The Council proceeds with the proposal depending on the nature of the municipal request under the law.
+3. If the Council approves the request under paragraph 1. of this Article for the establishment of a new branch, the Council shall recommend to the Ministry of Justice to take necessary measures to propose amending and supplementation of this Law.
+4. The circumstances that should be taken into account when applying this Article include but are not limited to improving access to justice, population number, geographic position and other relevant factors.
