@@ -1,4 +1,0 @@
-# Article 65
-Monitoring and supervision of the Chamber
-1. The legality of the activities of the Chamber shall be supervised by the Ministry of Justice, which may require from the Committee of the Chamber to submit the documents relevant to such supervision and file any objection against legal acts of, and measures taken by, bodies of the Chamber of Notaries, in accordance with the Law on Administrative Procedure and the Law on Administrative Disputes.
-2. The Chamber shall submit a comprehensive annual report concerning its activities to the Ministry of Justice at a time determined by the latter. Such report shall further address the activities of the Notaries, acting notaries and notary candidates during the preceding year, and a work schedule for the discharge of the main duties of the Chamber for the following year, including the relevant financial assessments.

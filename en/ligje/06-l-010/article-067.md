@@ -1,0 +1,5 @@
+# Article 67
+Council and President 1. The members of the Council, including the President and the Vice-President of the Chamber, are elected by the Assembly through a secret ballot, for a term of three (3) years.
+2. Between the Chamber’s Assembly sessions, the Council shall perform all the duties of the Chamber which do not fall within the exclusive competence of other bodies of the Chamber. It shall ensure compliance with the Chamber’s statute and the proper implementation of the Assembly’s resolutions.
+3. The President of the Chamber shall be the chairperson of the Council. The President shall convene the Council’s regular sessions. Proceedings and decisions of the Council shall be regulated by Rules of Procedure of the Council, which is adopted by the Assembly.
+4. The President shall represent the Chamber and shall ensure that the Chamber will act in full compliance of with the Law. In case of obstruction, his duties are performed by the Vice- President of the Chamber, while the most senior member of the Council when the Vice-President is obstructed.

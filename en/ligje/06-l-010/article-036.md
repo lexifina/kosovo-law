@@ -1,0 +1,4 @@
+# Article 36
+Translators 1. When any of the parties does not understand the language of the notarized deed, or when so requested by the party, a court translator shall be engaged, and such engagement and duty shall be noted in the notarized deed. Translator shall not be required if the notary and both witnesses understand the language of the party.
+2. Upon preparation of the original deed, the translator shall translate the content of the document into the language of the interested party, and shall place his/her signature upon it.
+3. When the translator is required, the notary shall aim to understand and faithfully transcribe in the notarized deed, the actual intention of the concerned party through the translator’s rendition of his statements. A written translation of the notarized deed shall be made at the concerned party’s request, which shall be enclosed in the original deed.

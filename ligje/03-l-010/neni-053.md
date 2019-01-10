@@ -1,4 +1,0 @@
-# Neni 53
-Obligimi për kthim
-1. Nëse Noteri nuk është në gjendje të dorëzojë paratë e gatshme, gjërat me vlerë dhe letrat e çmuara tek marrësi i përcaktuar dhe në kohën e specifikuar në dokumentin e noterizuar, ai apo ajo, pasi të ketë skaduar një afat i tillë, me procesverbal përkatës i dorëzon paratë e gatshme, gjërat me vlerë dhe letrat e çmuara palës, apo kur kjo tregohet e pamundur, tek gjyqtari përgjegjës për ruajtjen e tyre. Në rastin e dytë, noteri duhet të njoftojë palën që ka bërë dorëzimin e këtyre gjërave për lënien e tyre tek gjyqtari, me postë të regjistruar apo në mënyrë tjetër të sigurt.
-2. Nëse dokumenti origjinal i noterizuar nuk përmban kufizimin kohor për dorëzimin e gjërave të depozituara, noteri vepron ashtu si parashihet me paragrafin 1 të këtij neni, më së largu pesëmbëdhjetë (15) ditë pas marrjes së gjërave në dorëzim.

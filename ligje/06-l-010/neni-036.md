@@ -1,0 +1,4 @@
+# Neni 36
+Përkthyesit 1. Nëse ndonjëri nga pjesëmarrësit nuk e kupton gjuhen në të cilin hartohet akti noterial, apo kur atë e kërkon pala, duhet të ftohet përkthyesi gjyqësor në hartimin e aktit noterial, dhe në aktin noterial do të shënohet se është vepruar në atë mënyrë. Përkthyesi nuk nevojitet nëse noteri dhe dy92) dëshmitarë e zotërojnë gjuhën e palës.
+2. Pas përgatitjes së dokumentit origjinal, përkthyesi do të përkthej përmbajtjen e dokumentit në gjuhën e palës së interesuar dhe do të vejë nënshkrimin e tij.
+3. Kur është i nevojshëm përkthyesi, noteri do të përpiqet që nëpërmes tij të kuptoj vullnetin e vërtetë të palëve, dhe sipas atij vullneti në njërën nga gjuhet zyrtare të përpilon aktin, të cilin përkthyesi do tua përkthej pjesëmarrësve. Nëse pala kërkon, përkthimi i aktit do të shkruhet në gjuhën e palës dhe do t’i bashkëngjitet aktit origjinal noterial.

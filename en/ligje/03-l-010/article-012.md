@@ -1,8 +1,0 @@
-# Article 12
-Seal and signature
-1. Upon taking the oath, and without delay, the Notary requests the Chamber of Notaries to prepare his or her seal, at his or her own cost.
-2. The Notary seals shall all conform to a readily identifiable circular model, and comprise the concerned Notary’s name and first name as well as the seat of his or her Office. The general characteristics of the Notary seals shall, with the necessary adjustments, be consistent with the design of the Stamps of Courts, Prosecutor’s Offices and Penal Establishments, as envisioned in UNMIK Regulation No. 2000/30 of 20 May 2000, On Stamps and Headings of Courts, Prosecutor’s Offices and Penal Establishments.
-3. The mark of the Notary’s seal and a sample of his or her signature, as kept in the Chamber of Notary’s register, shall be approved and certified by the President of the District Court with jurisdiction over the seat of the Notary’s Office. The certified seal and signature shall be deposited with the Chamber and with the Municipal Court.
-4. The Notary may have only one official seal, which he or she keeps with special care, ensuring particularly that no third parties have access to it.
-5. The Notary shall immediately inform the competent Municipal Court, the Police and the Chamber of Notaries of the loss, theft or destruction of his or her seal by way of a facsimile or electronic message, and he or she shall confirm the loss, theft or destruction by way of personal delivery of the notification or by registered post with a form for acknowledgement of receipt.
-6. The Chamber of Notaries shall replace the lost or destroyed seal at the Notary’s costs.

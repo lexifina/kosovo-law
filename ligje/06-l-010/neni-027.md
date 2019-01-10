@@ -1,0 +1,8 @@
+# Neni 27
+Ushtruesi i detyrës së noterit 1. Nëse noterit i ka pushuar ushtrimi i detyrës se tij, Ministri mund të emërojë ushtruesin e detyrës së noterit pa konkurs publik, pas konsultimit me Odën.
+2. Për ushtrues të detyrës mund të emërohet vetëm noteri tjetër apo personi që i plotëson kushtet nga neni 4 i këtij ligji. Mandati i ushtruesit të detyrës së noterit zgjat deri në emërimin e noterit të ri, por jo me shumë se gjashtë (6) muaj. Në rastet e arsyeshme ky afat mund të zgjatet edhe për gjashtë (6) muaj të tjerë.
+3. Ushtruesi i detyrës së noterit jep betimin për noter para marrjes së detyrës, nëse ai më parë nuk e ka dhënë një betim të tillë.
+4. Ushtruesi i detyrës së noterit merr përsipër të gjitha dosjet, librat dhe dokumentacionin tjetër që i ka takuar noterit të cilin ai e zëvendëson. Ai siguron që të gjitha dosjet dhe arkivat e Noterit do të mbahen mirë, dhe që shërbimet dhe veprimet e ndërmarra nga noteri para zëvendësimit të tij do të kompletohen dhe kryhen. Ai nuk mund të ndërmarrë shërbime të reja noteriale.
+5. Ushtruesi i detyrës së noterit ka të drejtë të kërkojë shpenzimet të cilat janë krijuar pas marrjes së detyrës. Nëse pala ka paguar paradhënien për ndërmarrjen e veprimit të caktuar zyrtar, ka të drejtë që paradhënien ta llogarisë me rastin e llogaritjes së përllogaritjes së shpenzimeve përfundimtare.
+6. Ushtruesi i detyrës së noterit për kryerjen e detyrave, Odes ia paraqet përllogaritjen e veprimtarisë së tij dhe nga ajo merr kompensimin adekuat për kryerjen e punëve të noterit.
+7. Për dëmin, të cilin u shkakton ushtruesi i detyrës personave të tretë me rastin e ushtrimit të detyrës zyrtare përgjigjet vetë ushtruesi i detyrës së noterit.

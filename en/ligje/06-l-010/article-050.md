@@ -1,0 +1,3 @@
+# Article 50
+Confirmation that a person is alive 1. A notary may confirm that a person is alive if he or she knows that person personally and by name, or after ascertaining that person’s identity pursuant to the provisions of Article 35 of this Law.
+2. It shall be confirmed, in the original of the document issued by the party that the person concerned presented himself/herself before the notary. The document shall further comprise indication of the day, the month and the year, and, if so requested by the party, the hour when these events occurred. The notary shall further state in the confirmation how the person’s identity was ascertained.

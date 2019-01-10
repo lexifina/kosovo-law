@@ -1,0 +1,4 @@
+# Article 32
+Language use in Notarized Deeds 1. All notarized deeds shall be issued in the Albanian or the Serbian language, depending on the language better known by the notary processing the act. Notarized deeds may also be issued in other languages, in cases when the notary takes the personal legal liability regarding the knowing of such a language.
+2. In municipal level where the languages have a status of official languages or are used for official purposes as provided by Law, the parties may ask the notary to issue a copy in such a language, as they desire. This copy is deemed to be a notarized deed under paragraph 1 of this Article.
+3. If one of the parties does not understand the language in which the deed is drafted or if the party requests so, then the translator must participate in preparing the notarized deed. At the end of the notarial deed the notary shall note that translation of the notarial deed has been provided to the party.

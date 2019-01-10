@@ -1,7 +1,0 @@
-# Neni 17
-Obligimi për kryerjen e veprimeve zyrtare dhe përjashtimi
-1. Noteri ushtron personalisht obligimet e ngarkuara me ligj për të. Ai apo ajo nuk mund të refuzojë ushtrimin e detyrave të tij apo saj zyrtare pa një arsye të vlefshme, sikur që është kur ngritet dyshimi lidhur me paanësinë e tij apo saj, apo ashtu si mund të parashihet ndryshe me ligj.
-2. Në veçanti, Noteri nuk mund të ndërmarrë veprime zyrtare me kërkesë të palës për të cilën ai apo ajo e di që nuk ka kapacitetin ligjor për të ndërmarrë apo lidhur transaksionin në shqyrtim. Po ashtu, Noteri nuk mund të ndërmarrë veprimet zyrtare për të cilat ai nuk ka kompetencë, apo të cilat kërkohen në lidhje me transaksionin qartazi të turpshëm apo të paligjshëm.
-3. Nga Noteri kërkohet të shpjegojë refuzimin e tij për të vepruar në lidhje me personin apo personat në fjalë, si dhe procedurën për ankesë ndaj një refuzimi të tillë, përfshirë këtu të drejtën e personit të interesuar që të kërkojë lëshimin e dokumentit në të cilin tregohen arsyet për refuzimin e Noterit, në afat prej tri (3) ditësh pune.
-4. Dispozitat e Ligjit mbi Procedurën Administrative që kanë të bëjnë me personat zyrtarë, zbatohen edhe për Noterët për sa i përket përjashtimit nga obligimi për kryerjen e veprimeve zyrtare, dhe pala që ballafaqohet me refuzimin për kryerjen e aktit noterial mund të kundërshtojë një refuzim të tillë dhe të kërkojë kryerjen e aktit në fjalë, në pajtim me Ligjin mbi Kontestet Administrative.
-5. Veprimet zyrtare të ndërmarra në kundërshtim me paragrafin 1 të këtij neni nuk janë të plotfuqishme.

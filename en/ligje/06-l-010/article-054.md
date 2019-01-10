@@ -1,0 +1,11 @@
+# Article 54
+Safe-keeping and handing over of cash, securities and valuables 1. A notary may accept for safe-keeping cash, bills of exchange, cheques, government bonds and other securities, while he/she is obliged to accept such items only when deposited in connection with the compilation of a notarized deed to hand such items over to another person, or to deposit them to the specific state body.
+2. Should the taking over of the valuables or securities not be mentioned in the original notarized deed, minutes shall be kept, comprising at least the following information:
+2.1. number of register and depository book;
+LAW No. 06/L –010 ON NOTARY 2.2. place, date and time of the takeover;
+2.3. currency and value of cash or value of documents deposited;
+2.4. the name of the depositing party for safe-keeping and handover, and action to be taken in connection to such items.
+3. The notary shall issue a receipt regarding the taking over of the cash, valuables or securities to the party. The receipt shall specify the cash and the securities or valuables that have been deposited.
+4. If the cash, valuables or securities are sent to the notary by mail, the notary shall keep minutes of receipt of such items, in accordance with paragraph 2 of this Article. The letter shall be attached to the minutes.
+5. The notary shall keep the cash, securities or valuables deposited by the party in a separate envelope, on which the notary shall inscribe reference to contents of envelope and name of the party concerned. The cash shall be placed by the notary in a separate account in a bank or another financial institution. The notary may also deposit all other valuables in a safe-deposit box in a bank or other financial institution providing such services. Entrusted cash and valuables which may be kept in a separate account or in a safe-deposit box in a bank by the notary, can not be subject to the mandatory enforcement against the notary.
+6. The notary shall immediately surrender the cash, valuables and securities entrusted to him/ her to the government agency or person designated in the notarized deed as the recipient, after ascertaining the recipient’s identity in conformity with Article 35 of this Law. The recipient’s confirmation of receipt of the cash or securities shall be placed in the corresponding notary file, or in the book of deposits.

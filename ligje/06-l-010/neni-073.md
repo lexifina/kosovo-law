@@ -1,0 +1,3 @@
+# Neni 73
+Parashkrimi 1. Paraqitësit e autorizuar të propozimit për fillimin e procedurës disiplinore nga paragrafi 1. i nenit 72 të këtij ligji propozimin e paraqesin më së voni në afat prej gjashtë (6) muajsh nga dita e të mësuarit për shkeljet e kryera, apo në afat prej dy (2) vjetësh kur është kryer shkelja. Nuk mund të fillojë procedura disiplinore pas kalimit të afatit katër (4) vjeçar nga koha kur është kryer shkelja.
+LIGJI Nr. 06/L-010 PËR NOTERINË 2. Nëse shkelja disiplinore paraqet elemente të veprës penale dhe përgjegjësisë penale, përgjegjësia disiplinore mundet të filloj deri në kohën për të cilën parashkruhet fillimi i procedurës penale.

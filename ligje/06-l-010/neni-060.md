@@ -1,0 +1,4 @@
+# Neni 60
+Ekstrakti apo kopja e testamentit origjinal 1. Përveç kur parashihet ndryshe me dokumentin origjinal, ekstrakti apo kopjet e dokumentit origjinal që përmbajnë dëshirën e fundit të personit, apo dispozitat e të cilit zbatohen në rast të vdekjes së autorit të dokumentit, qoftë të përgatitura nga noteri apo të dorëzuara noterit në formë të shkruar, mund të lëshohen vetëm për autorin e dokumentit apo për ata që janë të autorizuar shprehimisht nga autori i dokumentit për marrjen e ekstrakti apo kopjeve të tilla. Dëshmia për një autorizim të tillë do të prezantohet në formë të dokumentit të vërtetuar, të nënshkruar nga autori i testamentit.
+2. Pas vdekjes së autorit të testamentit, ekstrakti apo kopjet e dokumentit origjinal mund të lëshohen vetëm pasi të bëhet e ditur dëshira e fundit.
+3. Data e shpalljes së vullnetit të fundit të dhënë në formën e paraparë me ligj, do të shënohet në ekstrakt apo në kopjen e origjinalit.

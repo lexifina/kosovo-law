@@ -1,0 +1,8 @@
+# Neni 43
+Përmbarueshmëria e dokumentit noterial 1. Dokumenti noterial është dokument përmbarimor në qoftë se është përpiluar në formën e paraparë dhe nëse në të është përcaktuar kryerja e detyrimit të caktuar për të cilën palët mund të merren vesh dhe nëse përmban deklaratën e detyruesit për atë që në bazë të atij dokumenti, mundet, e me qëllim të realizimit të detyrimit, pas arritshmërisë së detyrimit, në mënyrë të drejtpërdrejt të zbatohet përmbarimi i detyrueshëm.
+2. Nëse dokumenti noterial nga ky nen është përpiluar në bazë të autorizimit, autorizimi duhet të jetë i vërtetuar në gjykatë apo te noteri dhe të bashkangjitura në origjinal apo në kopjen e vërtetuar.
+3. Regjistrimi në regjistrin e të drejtave pronësore në paluajtshmëri në kadastër në bazë të dokumentit noterial, i cili përmban detyrimin e themelimit, bartjes, kufizimit apo pushimit të ndonjë të drejte mbi pronën e paluajtshme, duhet të kryhet regjistrimi në regjistër sipas ligjit në fuqi, nëse personi i detyruar shprehimisht është pajtuar për atë në dokumentin noterial.
+4. Kur obligimi varet nga kushti apo afati i cili nuk është i caktuar në mënyrë kalendarike, për përmbarueshmërinë e dokumentit noterial, nëse në atë dokument noterial palët ndryshe nuk janë marr vesh duhet që me dokument të provohet se ka arrit kushti përkatësisht afati, e nëse kjo nuk është e mundshme atëherë kjo do të vërtetohet me aktgjykim në procedurën kontestimore.
+5. Përmbarimi i dokumentit noterial mund të kundërshtohet sipas dispozitave të ligjit të procedurës përmbarimore.
+6. Në rastet kur dokumenti noterial është dokument përmbarimor sipas këtij neni, noteri me kërkesën e palës, vet e vënë në dokument vërtetimin për përmbarueshmërinë.
+LIGJI Nr. 06/L-010 PËR NOTERINË

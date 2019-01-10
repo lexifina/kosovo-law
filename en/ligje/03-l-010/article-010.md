@@ -1,6 +1,0 @@
-# Article 10
-Appeal Process against the decision for Selection of Notary
-1. An Internal Review Committee shall be established by the Ministry of Justice, for the purpose of hearing appeals against the notary competition process. The Internal Review Committee shall be comprised of two (2) judges and one Notary designated by the Assembly of the Chamber of Notaries. The Committee can not be comprised of members of the Notary Competition Commission.
-2. An appeal against the notary competition process may be lodged by unsuccessful candidates with the Internal Review Committee, within eight (8) days following service of notification of the results of the Competition. The Committee shall decide its decision on the appeal within ten (10) days following the lodging of the appeal. This decision shall be deemed as the final administrative enactment in the notary competition process.
-3. The filing of such petition is suspended in regard to the decision appointing Notaries.
-4. The decision of the Internal Review Committee may be challenged before the competent Court pursuant to the applicable administrative conflicts with indictment. The incitement may e submitted by unsatisfied candidates within eight (8) days following publication of the decision.

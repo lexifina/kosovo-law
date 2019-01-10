@@ -1,4 +1,0 @@
-# Neni 65
-Monitorimi dhe mbikëqyrja e Odës
-1. Ligjshmëria e aktiviteteve të Odës mbikëqyret nga Ministria e Drejtësisë, që mund të kërkojë nga Komisioni i Odës dorëzimin e dokumenteve relevante për një mbikëqyrje të tillë dhe parashtrimin e kundërshtimeve ndaj akteve ligjore dhe masave të ndërmarra nga organet e Odës së Noterëve, në pajtim me Ligjin për procedurën administrative dhe ligjin për kontestet administrative.
-2. Oda dorëzon raportin gjithëpërfshirës vjetor lidhur me aktivitetet e tij në Ministrinë e Drejtësisë, në kohën e përcaktuar nga ky i fundit. Raporti i tillë adreson aktivitetet e Noterëve, ushtruesve të detyrës së noterit dhe kandidatëve për noter gjatë vitit paraprak, si dhe orarin e punës për ushtrimin e detyrave kryesore të Odës për vitin pasues, përfshirë këtu vlerësimet relevante financiare.

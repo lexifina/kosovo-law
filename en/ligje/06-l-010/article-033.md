@@ -1,0 +1,8 @@
+# Article 33
+Preparation of notarized deeds 1. The Notary ascertains that the parties to the notarized deed are capable and authorized to undertake and conclude the legal transaction concerned. In doing so, the notary establishes the intention expressed by the parties. He or she then provides the necessary legal assistance to the parties, by explaining to them the applicable law and the legal effects of the transaction considered. The notary then prepares the relevant and necessary notarized deed, in which he
+LAW No. 06/L –010 ON NOTARY or she formulates in the appropriate clear and unambiguous statements the legal transaction concerned.
+2. At all stages in this process, the notary shall ascertain that no confusions or doubts arise in the mind of the parties as to the legal transaction under consideration and its legal effects or as to the preparation of the deed, with a view to protecting inexperienced or unskilled parties.
+3. The document thus drawn is read to the parties in the presence of the notary, who ensures, by asking the appropriate questions to the parties, that its content conforms in all regards to their intention.
+4. Where attachments are to be enclosed in the original deed, these should be at the disposal of the parties during the entire drafting process.
+5. After the original deed is drawn up, and its content has been read and approved, the notary shall ask the parties whether they approve the content of the deed, and if so, to personally sign it, underneath a detailed statement by the notary, to the effect that the applicable provisions of this Article has each been respected.
+6. All attachments to the deed shall also be signed on every page by the parties and the notary.

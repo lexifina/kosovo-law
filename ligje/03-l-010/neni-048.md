@@ -1,5 +1,0 @@
-# Neni 48
-Konfirmimi i konkluzioneve të bëra nga organet e personit juridik
-1. Nga Noteri mund të kërkohet të konfirmojë konkluzionet e kuvendit apo takimit të një organi tjetër të personit juridik. Në atë rast, noteri shënon në procesverbal datën, kohën dhe vendin e seancës, më pas përshkruan në hollësi procedimet dhe debatet në të cilat është dëshmitar, dhe i shton të gjitha informatat e kërkuara për të vlerësuar rregullsinë e procedimeve, me theks të veçantë në konkluzionet e seancës. Noteri shton informatat tjera që kërkohen me ligj.
-2. Procesverbali nga paragrafi 1 i këtij neni nënshkruhet gjithashtu nga personi që kryeson takimin.
-3. Sipas kërkesës, Noteri mund të përfshijë në procesverbal identitetin dhe funksionet e të gjithëve apo disa nga pjesëmarrësve në procedim, për shembull kryesuesin apo presidentin e takimit apo kuvendit. Nëse e bën këtë, noteri konstaton identitetin e personave të tillë në pajtim me Nenin 38 të këtij ligji dhe tregon në procesverbal mënyrën si e ka bërë këtë.

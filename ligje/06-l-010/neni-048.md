@@ -1,0 +1,6 @@
+# Neni 48
+Vërtetimi i nënshkrimit 1. Noteri mund të vërtetojë që pala personalisht ka nënshkruar dokumentin në praninë e tij, apo që nënshkrimi, që tanimë ka qenë në atë dokument, është vërtetuar nga pala si shkrim i tij.
+2. Klauzola e vërtetimit duhet të përpilohet në dokumentin origjinal, duke treguar mënyrën në të cilën është konstatuar identiteti i nënshkruesit, dhe shtojcën që dëshmon se nënshkrimi është
+LIGJI Nr. 06/L-010 PËR NOTERINË i vërtetë. Nën shtojcë duhet shënuar datën, që përcillet me nënshkrimin e noterit dhe vulën e tij zyrtare.
+3. Nëse pala që kërkon vërtetimin e nënshkrimit të tij është e verbër apo nuk din shkrim dhe lexim noteri lexon dokumentin para tij para se të vërtetojë nënshkrimin. Në këtë rast, kërkohet të jenë të pranishëm dy (2) dëshmitarë, në pajtim me dispozitat e nenit 37 të këtij ligji. Në fund, nëse noteri nuk e njeh gjuhën e dokumentit, ai do të lexohet nga ana e përkthyesit. Pjesëmarrja e dy (2) dëshmitarëve dhe/apo përkthyesit duhet të pasqyrohet në vërtetim.
+4. Nëse kërkohet vërtetimi i nënshkrimit të personit që vepron si përfaqësues i personit juridik apo agjencisë, noteri konfirmon vërtetimin që personi në fjalë ka nënshkruar dokumentin në emër të personit juridik apo agjencisë përkatëse. Sidoqoftë, ai mund ta bëj këtë vetëm pasi të ketë vërtetuar se personi është i autorizuar për këtë qëllim.
