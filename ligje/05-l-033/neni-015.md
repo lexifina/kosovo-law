@@ -1,4 +1,0 @@
-# Neni 15
-Neni 36 i ligjit bazik, pas paragrafit 4, shtohen paragrafët i ri 5 dhe 6, me tekstin si në vijim:
-5. Procedura nuk do të fillohet dhe zbatohet në Komision pasi të kaloj afati një (1) vjeçar nga njoftimi i pranuar në Zyrën e Prokurorit Disiplinor, për shkeljen e supozuar dhe pesë (5) vite nga dita e shkeljes së supozuar.
-6. Në rastin kur Zyra e Prokurorit Disiplinor ka lejuar parashkrimin e lëndës, ose shtyrjen e dërgimit të saj në gjykim të Komisioni Disiplinor, gjë e cila rezulton ta pamundësojë këtë të fundit për ta shqyrtuar atë sipas këtij ligji, Komisioni detyrohet ta njoftojë Këshillin për një lëshim të tillë të zyrës së Prokurorit Disiplinor. Mbi një lëshim të tillë këshilli kërkon përgjegjësi zyrtare nga zyra e prokurorit disiplinor dhe nëse për një gjë të tillë nuk merret përgjigje e arsyetuar, një lëndë të tillë detyrueshëm ia adreson Prokurorit të Shtetit për hetim eventual të keqpërdorimit të detyrës zyrtare nga Zyra e Prokurorit Disiplinor.

@@ -1,0 +1,9 @@
+# Neni 30
+Emërimi i Kryetarëve të Gjykatave dhe Gjyqtarëve Mbikëqyrës 1. Kryetarin e Gjykatës Supreme të Kosovës e emëron dhe shkarkon Presidenti, nga radhët e gjyqtarëve të Gjykatës Supreme, për mandat shtatë (7) vjeçar, pa mundësi të riemërimit, pas propozimit të Këshillit.
+2. Kryetarët e Gjykatave emërohen nga Këshilli në konsultim me gjyqtarët e gjykatave përkatëse. Në emërimin e Kryetarëve të Gjykatave, Këshilli do të marrë në konsiderim trajnimin e specializuar, përvojën menaxheriale dhe vlerësimin e performancës.
+3. Këshilli, pas një procesi të hapur, konkurrues dhe meritor, përzgjedh Gjyqtarin Mbikëqyrës të secilës degë të Gjykatës Themelore.
+4. Këshilli, në konsultim me Kryetarin e Gjykatës Themelore mund të caktojë një nën kryetar gjykate i cili do të ndihmojë në menaxhimin e gjykatës dhe në mungesë të Kryetarit të Gjykatës ky shërben si ushtrues detyre i Kryetarit të Gjykatës. 5.Kryetarët e gjykatave emërohen me një mandat pesë (5) vjeçar, pa të drejtë rizgjedhjeje. Pas përfundimit të mandatit si kryetar i gjykatës, gjyqtari do të vazhdojë të shërbejë si gjyqtar në të njëjtën gjykatë, në të cilën ishte emëruar fillimisht.
+6. Gjyqtarët mbikëqyrës emërohen me një mandat pesë (5) vjeçar, pa të drejtë rizgjedhjeje. Pas përfundimit të mandatit si gjyqtar mbikëqyrës, gjyqtari do të vazhdojë të shërbejë si gjyqtar në të njëjtën gjykatë, në të cilën ishte emëruar fillimisht.
+7. Në mënyrë që të sigurohet se gjykatat pasqyrojnë natyrën shumetnike të Kosovës, Këshilli do të përpiqet të sigurojë se anëtarët e komuniteteve që nuk janë shumicë në Kosovë të emërohen në role menaxhuese në gjyqësor, përfshirë këtu si Kryetarë Gjykatë dhe gjyqtarë Mbikëqyrës.
+8. Emërimi i Kryetarëve të Gjykatave dhe gjyqtarëve mbikëqyrës bëhet përmes një procesi të hapur, konkurrues, transparent dhe meritor, siç përcaktohet me ligj.
+LIGJI Nr. 06/L-055 PËR KËSHILLIN GJYQËSOR TË KOSOVËS

@@ -1,0 +1,14 @@
+# Article 8
+Composition and election of Council members 1. The Council, as defined by Article 108 of the Constitution, consists of thirteen (13) members with professional qualifications and expertise. Members are appointed for a term of five (5) years and are elected as follows:
+1.1. seven (7) members will be judges elected by members of the judiciary, as follows:
+LAW No. 06/L-055 ON KOSOVO JUDICIAL COUNCIL 1.1.1. two (2) judges of the Supreme Court;
+1.1.2. two (2) judges of the Court of Appeals;
+1.1.3. three (3) judges of the Basic Courts.
+1.2. two (2) members are elected by the Assembly Members, who shall hold their seats during the general allocation of seats, and at least one of them must be a judge;
+1.3. two (2) members are elected by the Assembly Members, who shall hold their seats reserved or guaranteed for representatives of the Serb community in Kosovo, and at least one of them must be a judge;
+1.4. two (2) members are elected by the Assembly Members, who shall hold their seats reserved or guaranteed for representatives of other communities, and at least one of them must be a judge.
+2. The Council members reflect the multiethnic nature and principles of gender equality in the Republic of Kosovo.
+3. Candidates for judicial positions reserved for members of non- majority communities in Kosovo, may be recommended for appointment only by Council members elected by Members of the Assembly who hold the seats reserved or guaranteed for members of non-majority communities in Kosovo. If this group of Council members does not propose a candidate for this position after two (2) consecutive sessions of the Council, then any member of the Council has the right to recommend a candidate for that judicial position.
+4. Candidates for judicial positions in the Basic Courts under whose jurisdiction exclusively lies the territory of one or more municipalities where the majority of the population belongs to the Kosovo Serb community, may be recommended for appointment only by the two (2) members of the Council elected by Assembly Members who hold seats reserved or guaranteed for the Serb community in the Republic of Kosovo, acting collectively and unanimously. If these two (2) members do not recommend a judicial candidate for this position during the two (2) consecutive sessions of the Kosovo Judicial Council, then any member of the Kosovo Judicial Council has the right to nominate a candidate for that position.
+5. All Council members should be able to contribute to the management and functioning of the courts in Kosovo. Respectable professionals can be appointed outside the legal field and may include persons with expertise in management, finance, information technology or social sciences.
+6. The Council shall adopt special regulations for the implementation of this Article.

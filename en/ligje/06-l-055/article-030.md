@@ -1,0 +1,9 @@
+# Article 30
+Appointment of Presidents of Courts and Supervising Judges 1. The President shall appoint or dismiss the President of the Supreme Court of Kosovo from the ranks of judges of the Supreme Court for a seven (7) year mandate with no possibility of reappointment after the proposal of the Council for his appointment or dismissal.
+2. The Presidents of the Courts shall be appointed by the Council in consultation with the judges of the respective courts. In appointing the Presidents of the Courts, the Council shall consider specialized training, managerial experience, and performance assessment.
+3. The Council, after an open, competitive and merit-based process, shall appoint the Supervising Judge of each branch of the Basic Court.
+4. The Council, in consultation with the President of the Basic Court, may appoint a Vice- President of the Court who shall assist in the management of the court and in the absence of the President of the Court shall serve as acting President of the Court.
+5. The Court Presidents shall be appointed for a five (5) year term, without the right to re- election. Upon termination of the mandate as President of the Court, the judge shall continue to serve as a judge in the same court where they were first appointed.
+6. The supervising judges shall be appointed for a five (5) year term, without the right to re- election. Upon termination of the mandate as a supervising judge, the judge shall continue to serve as a judge in the same court where they were first appointed.
+7. In order to ensure that courts reflect the multiethnic nature of Kosovo, the Council shall endeavour to ensure that members of non-majority communities in Kosovo are appointed to judicial management roles, including as Court Presidents and supervising judges.
+8. The appointment of the Presidents of Courts and supervising judges shall be conducted through an open, competitive, transparent and merit-based process as defined by the Law.

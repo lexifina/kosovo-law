@@ -1,5 +1,0 @@
-# Article 54
-Validity of Prior Actions of the Council Established under UNMIK Administrative Regulation 2005/52 and the Law on the Temporary Composition of the Kosovo Judicial Council
-1. All prior administrative actions of the Council taken under UNMIK Administrative Regulation 2005/52 or pursuant to the Law on the Temporary Composition of the Kosovo Judicial Council, including the promulgation of any rule, regulation, fee schedule, directive, or other official action, shall remain valid and in effect unless abrogated by this law or until such time as the Council modifies, repeals or clarifies such actions.
-2. All prior actions of the Council regarding the appointment, transfer or discipline of judges shall remain valid and in effect unless abrogated by this law or subsequent legal act.
-3. All prior personnel actions of the Council regarding the appointment, promotion, transfer or dismissal of administrative employees shall remain valid and in effect unless abrogated by this law or subsequent Council action.

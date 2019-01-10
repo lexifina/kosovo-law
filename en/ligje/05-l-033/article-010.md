@@ -1,5 +1,0 @@
-# Article 10
-1. Article 19 of the basic Law paragraph 4., after the word “in written”, is added the word “at Council”.
-2. Article 19 of the basic Law, after paragraph 4., new paragraphs 5 and 6 shall be added with the following text:
-5. The performance assessment of judges with initial term is conducted at least twice by the Judges Performance Assessment Committee, once after the initial training and once at the end of the initial term. The requirements for these evaluations during the initial term shall be specified through Regulation issued by the Council.
-6. Performance Assessment of judges with permanent term is conducted every three (3) years, in such a way that, after the entry into force of this law the Council shall assign by drawing 1/3 of judges, within every court, as the first group who shall be subject of the performance assessment within three (3) months. The same drawing shall be held after one (1) year to assign judges who will be part of the second group, and the third group after two (2) years, respectively.

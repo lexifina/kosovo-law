@@ -1,0 +1,7 @@
+# Neni 28
+Transferimi i Gjyqtarëve 1. Këshilli mund të transferojë një gjyqtar në një gjykatë tjetër për një periudhë deri në një (1) vit, në rastet kur gjykata tjetër ka numër të pamjaftueshëm të gjyqtarëve për shqyrtimin e lëndëve apo me qellim të ngritjes së efikasitetit.
+2. Transferimi sipas paragrafit 1 të këtij neni bëhet sipas rregullave të përcaktuara me Rregulloren e Këshillit për transferim të gjyqtarëve. 3.Këshilli, në rrethana të jashtëzakonshme, mund të transferojë përkohësisht një gjyqtar në një gjykatë apo degë tjetër të gjykatës, për periudhën kohore konform paragrafit 1.të këtij neni, me mundësi vazhdimi edhe për një vit tjetër.
+4. Gjyqtarët nuk mund të transferohen në cilëndo gjykatë tjetër kundër vullnetit të tyre, përveç nëse është e nevojshme për të siguruar funksionimin efikas të gjyqësorit ose për të shqiptuar masë disiplinore.
+5. Gjyqtarët mund të aplikojnë pranë Këshillit për transferim të përhershëm në një gjykatë tjetër.
+6. Gjyqtarët kanë të drejtë në ankesë drejtpërsëdrejti në Gjykatën Supreme kundër vendimit të Këshillit për transferim të përhershm apo transferim që tejkalon periudhën një (1) vjeçare. Këshilli nxjerrë rregullore për standardet dhe procedurat e ankesave.
+LIGJI Nr. 06/L-055 PËR KËSHILLIN GJYQËSOR TË KOSOVËS 7. Kur kryhet një transferim i përhershëm apo që tejkalon periudhën një (1) vjeçare, Këshilli do të përpiqet të sigurohet që transferimi nuk do të ndryshojë përbërjen etnike të gjykatës e cila preket nga transferimi.

@@ -1,0 +1,1 @@
+LIGJI Nr. 06/L-055 PËR KËSHILLIN GJYQËSOR TË KOSOVËS LIGJI Nr. 06/L-055 PËR KËSHILLIN GJYQËSOR TË KOSOVËS Kuvendi i Republikës së Kosovës, Në mbështetje të nenit 65 (1) të Kushtetutës së Republikës së Kosovës, Miraton: LIGJ PËR KËSHILLIN GJYQËSOR TË KOSOVËS

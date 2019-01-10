@@ -1,4 +1,0 @@
-# Neni 16
-1. Neni 39 i ligjit bazik, pas paragrafit 4, shtohen paragrafët e rinj 5 dhe 6 me tekstin si në vijim:
-5. Këshilli gjatë vendosjes për ankesë mund të refuzojë ankesën, të vërtetojë ose të ndryshojë vendimin ose ta prishë dhe ta kthej në rishqyrtim të Komisionit Disiplinor.
-6. Vendimi i tillë i Këshillit duhet të jetë i arsyetuar sa i takon provave të administruara nga të dyja palët, interpretimit të shkeljeve të pretenduara, dhe masës së dënimit të argumentuar që do t’i përshtatej arritjes së qëllimit të përcaktuar me këtë ligj. Në një rast të tillë, vendimi i Këshillit duhet të reflektojë, dhe të arsyetojë, zbatimin e parimit të proporcionalitetit në vendosje për çështjen e tillë. Një vendim i tillë bëhet transparent sipas kushtëzimeve të ligjit mbi të dhënat personale të Republikës së Kosovës.

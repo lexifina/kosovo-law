@@ -1,0 +1,15 @@
+# Neni 8
+Përbërja dhe përzgjedhja e anëtarëve të Këshillit 1. Këshilli, siç është përcaktuar me Nenin 108 të Kushtetutës, përbëhet nga trembëdhjetë (13) anëtarë, me kualifikime dhe ekspertizë profesionale. Anëtarët emërohen për një mandat pesë (5) vjeçar dhe zgjedhën në këtë mënyrë:
+LIGJI Nr. 06/L-055 PËR KËSHILLIN GJYQËSOR TË KOSOVËS 1.1. shtatë (7) anëtarë do të jenë gjyqtarë të zgjedhur nga anëtarët e gjyqësorit, si në vijim:
+1.1.1. dy (2) gjyqtarë të Gjykatës Supreme;
+1.1.2. dy (2) gjyqtarë të Gjykatës së Apelit;
+1.1.3. tre (3) gjyqtarë të Gjykatave Themelore.
+1.2. dy (2) anëtarë i zgjedhin deputetët e Kuvendit, të cilët i mbajnë vendet e fituara gjatë ndarjes së përgjithshme të vendeve dhe të paktën njëri prej këtyre të dyve, duhet të jetë gjyqtar;
+1.3. dy (2) anëtarë i zgjedhin deputetët e Kuvendit, të cilët i mbajnë vendet e rezervuara ose të garantuara për përfaqësuesit e komunitetit Serb në Kosovë, dhe të paktën njëri prej këtyre të dyve, duhet të jetë gjyqtar;
+1.4. dy (2) anëtarë i zgjedhin deputetët e Kuvendit, të cilët mbajnë vendet e rezervuara ose të garantuara për përfaqësuesit e komuniteteve të tjera, dhe të paktën njëri prej këtyre të dyve, duhet të jetë gjyqtar.
+2. Anëtarët e Këshillit pasqyrojnë natyrën shumetnike dhe parimet e barazisë gjinore në Republikën e Kosovës.
+3. Kandidatët për pozita gjyqësore, të cilat janë të rezervuara për pjesëtarët e komuniteteve që nuk janë shumicë në Kosovë, mund të rekomandohen për emërim vetëm nga anëtarët e Këshillit të zgjedhur nga deputetët e Kuvendit, të cilët mbajnë vendet e rezervuara ose të garantuara për pjesëtarët e komuniteteve që nuk janë shumicë në Kosovë. Nëse ky grup i anëtarëve të Këshillit nuk e propozon kandidatin për këtë pozitë gjyqësore pas dy (2) seancave të njëpasnjëshme të Këshillit, atëherë cilido anëtar i Këshillit ka të drejtë të rekomandojë kandidatin për atë pozitë gjyqësore.
+4. Kandidatët për pozita gjyqësore të gjykatave themelore, nën juridiksionin e të cilave përfshihet ekskluzivisht territori i një apo më shumë komunave, ku shumica e popullsisë i takon komunitetit Serb të Kosovës, mund të rekomandohen për emërim vetëm nga dy (2) anëtarët e Këshillit që i zgjedhin deputetët e Kuvendit, të cilët mbajnë vendet e rezervuara ose të garantuara për komunitetin Serb në Republikën e Kosovës të cilët veprojnë bashkërisht dhe në mënyrë unanime. Nëse këta dy (2) anëtarë nuk rekomandojnë kandidat gjyqësor për këtë pozitë, gjatë dy (2) seancave të njëpasnjëshme të Këshillit Gjyqësor të Kosovës, atëherë cilido anëtar i Këshillit Gjyqësor të Kosovës ka të drejtë të propozojë kandidat për atë pozitë.
+5. Të gjithë anëtarët e Këshillit duhet të jenë të aftë të kontribuojnë në menaxhimin dhe funksionimin e gjykatave në Kosovë. Profesionistë të respektuar, mund të emërohen jashtë fushës ligjore dhe mund të përfshijnë persona me ekspertizë në menaxhim, financa, teknologji informacioni ose shkencat shoqërore.
+6. Këshilli do të miratojë rregullore të veçantë për zbatimin e këtij neni.
+LIGJI Nr. 06/L-055 PËR KËSHILLIN GJYQËSOR TË KOSOVËS

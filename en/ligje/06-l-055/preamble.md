@@ -1,0 +1,1 @@
+LAW No. 06/L-055 ON KOSOVO JUDICIAL COUNCIL LAW No. 06/L-055 ON KOSOVO JUDICIAL COUNCIL The Assembly of the Republic of Kosovo, Based on Article 65 (1) of the Constitution of the Republic of Kosovo, Approves: LAW ON KOSOVO JUDICIAL COUNCIL

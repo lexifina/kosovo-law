@@ -1,0 +1,2 @@
+# Neni 22
+Emërimi i Gjyqtarëve 1. Presidenti emëron gjyqtarët në sistemin gjyqësor me mandat fillestar trevjeçar bazuar në propozimet e Këshillit. 2.Presidenti, brenda gjashtëdhjetë (60) ditësh, pas pranimit të propozimit, nxjerr dekret për emërimin në detyrën e gjyqtarit të kandidatit të propozuar nga Këshilli. Nëse brenda këtij afati Presidenti nuk e emëron gjyqtarin, Këshilli mund ta paraqesë edhe një herë tjetër kandidatin e propozuar së bashku me arsyetimin plotësues në formë të shkruar. Pas kësaj Presidenti emëron gjyqtarin sipas propozimit të Këshillit.

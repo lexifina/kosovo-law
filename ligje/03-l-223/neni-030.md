@@ -1,5 +1,0 @@
-# Neni 30
-Drejtori i njësisë për shqyrtimin e performansës së Gjyqësorit
-1. Drejtori i Njësisë për Shqyrtimin e Performansës së Gjyqësorit përzgjidhet, emërohet dhe shkarkohet nga Këshilli në përputhje me procedurat, kriteret dhe kualifikimet që zhvillohen dhe miratohen nga ana e Këshillit përmes rregulloreve të cilat janë në përputhje me detyrimet Kushtetuese si dhe detyrimet nga rregulloret e zbatueshme të personelit. Vendi i lirë i punës plotësohet pas shpalljes publike të pozitës dhe bazohet në një proces konkurrues, të bazuar në merita dhe të hapur
-2. Drejtori është përgjegjës ndaj Këshillit për administrimin efikas dhe efektiv të Njësisë për Shqyrtim të Performansës Gjyqësore. Drejtori i raporton drejtpërsëdrejti Kryesuesit të Këshillit. Drejtori i përgjigjet të gjitha kërkesave të Këshillit për informacion.
-3. Këshilli cakton pagën e Drejtorit të Njësisë për Shqyrtimin e Performansës së Gjyqësorit. Drejtori nuk do të pranojë kompensim shtesë për çfarëdo detyre apo punësimi nga cilido burim tjetër përpos rimbursimit për shpenzime të arsyeshme dhe të nevojshme
