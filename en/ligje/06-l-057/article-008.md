@@ -1,0 +1,3 @@
+# Article 8
+Dismissal of judges and prosecutors 1. The President of the Republic of Kosovo based on a proposal by the respective Council shall decide to dismiss a judge or a prosecutor. The respective Council shall propose to the President of the Republic of Kosovo the dismissal of a judge or a prosecutor only upon conviction of the judge or prosecutor of a serious criminal offense, an intentional violation of Law, or for serious neglect of duties.
+2. Upon dismissal, all rights and privileges arising from the office of judge or prosecutor shall be terminated with the exception of any entitlements provided for by Law which are related to the office and which by Law are not affected by the dismissal.

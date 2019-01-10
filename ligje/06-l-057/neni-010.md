@@ -1,0 +1,2 @@
+# Neni 10
+Parashkrimi Autoriteti Kompetent nuk kërkon fillimin e hetimeve si dhe Këshilli nuk fillon hetimet ndaj një gjyqtari apo prokurori për shkelje disiplinore në qoftë se kanë kaluar pesë (5) vjet nga koha e kryerjes së shkeljes së supozuar disiplinore, përveç nëse shkelja disiplinore konstituon vepër penale. Në rast të tillë, do të aplikohen dispozitat e Kodit Penal në lidhje me parashkrimin.

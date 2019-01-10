@@ -1,0 +1,3 @@
+# Neni 8
+Shkarkimi i gjyqtarëve dhe prokurorëve 1. Vendimet lidhur me shkarkimin e gjyqtarëve ose prokurorëve merren nga Presidenti i Republikës së Kosovës, në bazë të propozimit të Këshillit përkatës. Këshilli përkatës i propozon Presidentit të Republikës së Kosovës shkarkimin e gjyqtarëve apo të prokurorëve vetëm pas dënimit të gjyqtarit ose prokurorit për një vepër të rëndë penale, shkelje të qëllimshme të ligjit, ose mosrespektim të rëndë të detyrave.
+2. Pas shkarkimit, të gjitha të drejtat dhe privilegjet që dalin nga detyra e gjyqtarit ose prokurorit ndërpriten me përjashtim të ndonjë të drejte të paraparë me ligj e që ka të bëjë me detyrën, dhe e cila me ligj nuk preket nga shkarkimi.

@@ -1,0 +1,5 @@
+# Article 11
+Criminal offense 1. In cases when the alleged disciplinary offense contains elements of a criminal offense, the Competent Authority shall ex-officio refer the case to the State Prosecutor and provide written notification thereof to the Council and the Ombudsperson.
+2. If the State Prosecutor decides not to prosecute the offence, he or she shall inform the Competent Authority in writing of the decision, which shall then proceed in accordance with Article 9, paragraph 5 of this Law.
+3. Referral of the case to the State Prosecutor shall interrupt the statute of limitation and suspend the disciplinary proceedings.
+LAW No. 06/L –057 ON DISCIPLINARY LIABILITY OF JUDGES AND PROSECUTORS 4. If the referral of the case to the State Prosecutor results in a criminal conviction or acquittal, the State Prosecutor shall inform the Competent Authority in writing on the outcome of the criminal proceedings, and the Competent Authority shall proceed in accordance with Article 9 of this Law if the disciplinary case or the criminal case contains elements of a disciplinary offense.

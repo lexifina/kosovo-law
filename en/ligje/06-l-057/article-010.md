@@ -1,0 +1,2 @@
+# Article 10
+Statutory limitation A Competent Authority shall not request the initiation of investigations, and the Council shall not initiate investigations against a judge or prosecutor for disciplinary offenses if five (5) years have passed from the time that the alleged disciplinary offense has been committed, unless the disciplinary offence constitutes criminal offence. In that case, the provisions of the Criminal Code in relation to the statutory limitations shall be applicable.
