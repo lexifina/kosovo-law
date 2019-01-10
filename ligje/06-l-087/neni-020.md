@@ -1,0 +1,30 @@
+## KAPITULLI IV
+## DISPOZITAT NË LIDHJE ME KONFISKIMIN E PËRFITIMIT MATERIAL OSE TË MJETEVE PËR KRYERJEN E NJË VEPRE PENALE
+# Neni 20
+Kushtet kur pasuria i nënshtrohet konfiskimit në rastet e vdekjes, mungesës, çrregullimit ose paaftësisë mendore të të pandehurit 1. Në rastet kur ka pasuri që mund t’i nënshtrohen urdhrit kufizues të përkohshëm ose përfundimtar, një urdhër shtesë, sekuestrim përkohshëm, konfiskim i përkohshëm ose çfarëdo mase tjetër e përkohshme, me qëllim të konfiskimit përfundimtar, ose kur është ngritur një aktakuzë e cila përshkruan pasuritë që i nënshtrohen konfiskimit, por që procedurat penale nuk mund të vazhdohen, sepse i pandehuri:
+1.1. ka vdekur;
+1.2. është arratisur nga republika e kosovës;
+1.3. është i paarritshëm ose jo prezent në republikën e kosovës; ose 1.4. vuan nga një çrregullim ose paaftësi mendore. Gjykata mund të vazhdojë procedurat penale, me qëllim të konfiskimit të përfitimeve materiale ose të mjeteve për kryerjen e veprës penale.
+2. Në rastet e detajuara në paragrafin 1 të këtij neni, zbatohen dispozitat në vijim:
+2.1. për një të pandehur që ka vdekur, nëse nuk është angazhuar një avokat nga trashëgimtarët ligjorë të të vdekurit, gjykata do të caktojë ose vazhdojë caktimin e një avokati për të përfaqësuar interesat e të vdekurit.
+2.2. për një të pandehur që ka ikur nga Republika e Kosovës ose është i pa-gjurmueshëm, ose i cili nuk është prezent në Kosovë, ose i cili vuan nga një çrregullim, ose paaftësi mendore, gjykata do të caktojë ose vazhdojë caktimin e një avokati për të përfaqësuar interesat e të pandehurit ose të palës së tretë.
+3. I pandehuri përfaqësohet nga avokati i caktuar, në pajtim me nënparagrafët 2.1 dhe 2.2 të këtij neni. Avokati gëzon të drejtat e të pandehurit ose të palës së tretë, të përfaqësuar nga ai ose ajo. Avokati do të veprojë në interesat më të mirë të trashëgimtarit ligjor të të pandehurit të vdekur ose të të pandehurit.
+4. Në bazë të propozimit nga prokurori i Shtetit ose pala e dëmtuar, gjykata duhet të vazhdojë procedurën penale dhe procedurën për konfiskimin përfitimeve materiale ose të mjeteve për kryerjen e veprës penale, nëse:
+LIGJI Nr. 06/L-087 PËR KOMPETENCAT E ZGJERUARA PËR KONFISKIMIN E PASURISË 4.1. vlera e pasurisë që është objekt i konfiskimit të zgjeruar e kalon dhjetëmijë (10,000) euro; dhe 4.2. është në interes të drejtësisë që të vazhdohet me procedurat;
+5. Nëse pasuria nuk i nënshtrohen një urdhri të përkohshëm ose përfundimtar të kufizimit, ose ndonjë mase tjetër të përkohshme, siç është përcaktuar në paragrafin 1 të këtij neni, me qëllim të konfiskimit, prokurori ka nëntëdhjetë (90) ditë nga dita kur informacioni lidhur me rastet e përcaktuara në paragrafin 1 të këtij neni, është i njohur për Zyrën e Prokurorit për të lëshuar urdhër ose kërkesë për pasurinë, që të t’i nënshtrohet urdhrit kufizues të përkohshëm ose përfundimtar ose çfarëdo mase tjetër të përkohshme, siç është përcaktuar në paragrafin 1 të këtij neni, me qellim të konfiskimit.
+6. Nëse kushtet e specifikuara në paragrafin 4 të nenit aktual janë përmbushur, gjykata merr një vendim për të vazhduar procedurën penale dhe deklaron vlerën e pasurisë që i nënshtrohet konfiskimit dhe atë se përse është në interesin e drejtësisë që procedurat të vazhdohen.
+7. Nëse nuk është ngritur një aktakuzë, prokurori do të ketë njëqind e tetëdhjetë (180) ditë nga dita e vendimit të gjykatës nga paragrafi 6 i këtij neni, për të ngritur një aktakuzë ku përshkruhen pasuritë e specifikuara që i nënshtrohen konfiskimit. Gjykata zhvillon shqyrtimin kryesor në pajtim me Kodin e Procedurës Penale.
+8. Nëse aktakuza është ngritur para se të ndodhë njëri nga rastet e përshkruara në paragrafin 1 të këtij neni, gjykata merr vendim në pajtim me paragrafin 6 të këtij neni dhe zhvillon një shqyrtimin kryesor në përputhje me Kodin e Procedurës Penale.
+9. Dispozita e Kodit të Procedurës Penale për hetimin e konfiskimit zbatohet mutatis mutandis.
+10. Gjykata merr parasysh vetëm akuzat në aktakuzë që mbështesin konfiskimin e pasurisë.
+11. Nëse gjykata përcakton se i pandehuri ka kryer veprën penale dhe pasuritë që i nënshtrohen konfiskimit kanë qenë përfitim material ose mjete për të kryer veprën penale, nxjerr aktgjykim, i cili:
+11.1. përcakton se i pandehuri ka kryer një vepër penale;
+11.2. përcakton se pasuritë janë fituar nga kryerja e veprës penale nga nënparagrafi 11.1 i këtij neni, ose kanë qenë mjete për kryerjen e kësaj vepre penale;
+11.3. specifikon llojin e pasurive dhe vlerën e tyre monetare;
+11.4. urdhëron që kjo pasuri të transferohet në pronësi të Republikës së Kosovës ose na atë të palës së dëmtuar;
+11.5. detyron palët e treta që t’ia dorëzojnë pasuritë Republikës së Kosovës ose palës së dëmtuar, nëse ato nuk janë transferuar sipas nën-paragrafit 11.4 të këtij neni, ose të paguajnë vlerën monetare të pasurisë brenda pesëmbëdhjetë (15) ditësh nga data kur aktgjykimi është bërë përfundimtar; dhe 11.6. urdhëron që të bëhen ndryshimet respektive mbi të drejtat pronësore në regjistrat
+LIGJI Nr. 06/L-087 PËR KOMPETENCAT E ZGJERUARA PËR KONFISKIMIN E PASURISË publikë të gjykatës apo organit tjetër për llogari të Republikës së Kosovës ose palës së dëmtuar, siç është më e përshtatshme.
+12. Kundër aktgjykimit nga paragrafi 11 i këtij neni lejohet të bëhet ankesë. Dispozitat e kapitullit për mjetet juridike të Kodit të Procedurës Penale të Republikës së Kosovës, zbatohen mutatis mutandis.
+13. Nëse i pandehuri nuk gjendet në ndonjërën nga situatat e paraqitura në paragrafin 1 të këtij neni, ai ose ajo do të ketë të drejtën absolute që të gjykohet përsëri nga një panel tjetër gjyqësor.
+14. Në rastin kur i pandehuri nuk dënohet për akuzat e renditura në aktakuzë, të cilat e mbështesin konfiskimin e pasurive, gjykata e anulon aktgjykimin e dhënë sipas paragrafit 11 të këtij neni dhe ia kthen pasuritë të pandehurit.
+15. Në rast se pasuritë nuk janë më në dispozicion për t’u kthyer, i pandehuri ka të drejtën për kompensim për dëmet e shkaktuara nga konfiskimi i pajustifikuar, në përputhje dhe mutatis mutandis me dispozitat relevante të Kodit të Procedurës Penale.

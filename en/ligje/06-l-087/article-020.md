@@ -1,0 +1,31 @@
+## CHAPTER IV
+## PROVISIONS RELATED TO CONFISCATION OF MATERIAL BENEFIT OR INSTRUMENTALITY OF A CRIMINAL OFFENSE
+# Article 20
+Conditions when property is subject to confiscation in the cases of death, absence, mental disorder or disability of the defendant 1. When there are assets that could be subject to a temporary or final restraint order, additional order, Temporary Sequestration, Temporary Confiscation, or any temporary measure with the purpose of final confiscation, or when an indictment has been filed which describes assets subject to confiscation, but the criminal proceeding may not be continued because the defendant:
+1.1. has died;
+1.2. has fled the Republic of Kosovo;
+1.3. is untraceable or not present in the Republic of Kosovo; or
+LAW No. 06/L-087 OF EXTENDED POWERS ON CONFISCATION OF ASSETS 1.4. is afflicted by a mental disorder or disability. The Court may continue the criminal proceeding for the purpose of confiscating material benefits or an instrumentality of a criminal offence.
+2. In the cases detailed in paragraph 1. of this Article, the following provisions shall apply:
+2.1. for a defendant who has died, if an attorney has not been retained by the legal inheritors of the deceased, the court shall appoint, or continue the appointment of an attorney to represent the interests of the deceased;
+2.2. for a defendant who has fled the Republic of Kosovo, or is untraceable, or is not present in Kosovo, or is afflicted by a mental disorder or disability, the court shall appoint or continue the appointment of an attorney to represent the interests of the defendant or third party.
+3. The defendant is represented by the attorney appointed in accordance with sub-paragraphs 2.1. and 2.2. of this Article. The attorney enjoys the rights of the defendant or third party represented by him or her. The attorney shall act in the best interests of the legal inheritors of the deceased defendant or of the defendant.
+4. The Court, upon the proposal of the State Prosecutor or the injured party, shall continue the criminal proceeding and procedure for confiscation of material benefits or an instrumentality of a criminal offence if:
+4.1. the value of the asset subject to confiscation exceeds ten thousand (10,000) EUR; and 4.2. it is in the interest of justice to continue the proceedings.
+5. If assets are not subject to temporary or final restraint order or any other temporary measure as described in paragraph 1. of this Article with the purpose of confiscation, the prosecutor shall have ninety (90) days from the day when the information related to the cases described in paragraph 1. of this Article is known to the Office of the Prosecutor, to issue an order or to file a request for the assets to be subject to a temporary or final restrain order or any other temporary measure as described in paragraph 1. of this Article, with the purpose of final confiscation.
+6. If conditions specified in paragraph 4. of the present Article are met, the court shall take a decision to continue the criminal proceeding and shall state the value of the asset subject to confiscation and why it is in the interest of justice to continue the confiscation proceeding.
+7. If an indictment has not been filed, the prosecutor shall have one hundred and eighty (180) days from the day of court’s decision under paragraph 6. of this Article to file an indictment, to describe the specified assets subject to confiscation. The court shall conduct a main trial in accordance with the Criminal Procedure Code.
+8. If the indictment has been filed prior to the occurrence of one of the cases detailed in paragraph 1. of this Article, the court shall take a decision in accordance with paragraph 6. of this Article and shall conduct a main trial in accordance with the Criminal Procedure Code.
+LAW No. 06/L-087 OF EXTENDED POWERS ON CONFISCATION OF ASSETS 9. The provisions of the Criminal Procedure Code or investigation of the confiscation shall apply mutatis mutandis.
+10. The court shall only consider those counts in the indictment which support the confiscation of the asset.
+11. If the court determines that the defendant had committed the criminal offence and the assets subject to confiscation were material benefits or an instrumentality of this criminal offence, it shall render a judgment which:
+11.1. determines that the defendant has committed the criminal offence;
+11.2. determines that the assets were acquired with the commission of the criminal offence from sub-paragraph 11.1 of this Article, or were an instrumentality of this offence;
+11.3. specifies the type of the assets and its monetary value;
+11.4. orders that this asset be transferred to the ownership of the Republic of Kosovo or of the injured party;
+11.5. obliges third parties to hand over the assets to the Republic of Kosovo or to the injured party, if they have not been transferred according to sub-paragraph 11.4 of this Article or to pay the monetary value of the asset within fifteen (15) days from the date when the judgment became final; and 11.6. orders that in public registers of the court or other body to be made the respective changes of the property right on behalf of the Republic of Kosovo or the injured party, as is appropriate.
+12. An appeal is permitted against the judgment in paragraph 11. of this Article. Provisions of Chapter on legal remedies of the Criminal Procedure Code of the Republic of Kosovo shall apply mutatis mutandis.
+13. If the defendant is no longer in any of the situations detailed in paragraph 1. of this Article, he or she shall have the absolute right to be tried again by a different trial panel.
+14. In case the defendant is not convicted for the counts in the indictment, which support the confiscation of the asset, the court shall annul the judgment rendered pursuant to paragraph 11. of this Article and return the asset to the defendant.
+15. In the case the asset is no longer available for restitution, the defendant shall be entitled to compensation for damages caused by the unjustified confiscation in accordance, mutatis mutandis, with the relevant provisions of the Criminal Procedure Code.
+LAW No. 06/L-087 OF EXTENDED POWERS ON CONFISCATION OF ASSETS

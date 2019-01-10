@@ -1,0 +1,8 @@
+# Article 9
+Application for Final Restraint Order 1. The application for a final restraint order to the competent Court, shall contain:
+1.1. a copy of the temporary restraint order;
+1.2. a description of the articulable evidence which demonstrates the grounded suspicion detailed in paragraph 4. of Article 8 of this Law;
+1.3. a description of the necessity for the final restraint order to preserve the availability of the property for future confiscation pursuant to an application that may be made pursuant to Article 4 of this Law, including preventing the dissipation or depreciation in value of the property; and 1.4. details of all persons known to the State Prosecutor that may have an interest in the property.
+2. The State Prosecutor shall serve a copy of the application for final restraint on the defendant and any person named in the temporary restraint order, or person who may have an interest in the property.
+3. If a copy of the application for final restraint cannot be served upon the defendant, every person named in the application, or a person with interest in the property, for any reason, the prosecutor shall make a reasonable effort to serve the application on those persons.
+4. Reasonable efforts in paragraph 3. of this Article include mailing the application to the last known address of the defendant or person, mailing the application to the attorney for the defendant or person, publishing the application on the notice-board of the municipal assembly in the territory where the defendant lives, in the territory where the criminal offence was committed, and in the territory where the property was located, or publication in a daily newspaper.

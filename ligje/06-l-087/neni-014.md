@@ -1,0 +1,3 @@
+# Neni 14
+Urdhri Kufizues i Përkohshëm për pasurinë shtesë 1. Në vijim të lëshimit të një urdhri kufizues të përkohshëm, në çdo kohë gjatë hetimit penal, pasi të jetë ngritur aktakuza, gjatë shqyrtimin kryesor dhe në vijim të përmbylljes së shqyrtimit kryesor brenda të njëjtit afat kohor, të përshkruar në nenin 4 të këtij ligji, nëse plotësohen kushtet nga neni 8 i këtij ligji, një prokuror i Shtetit mund lëshojë një urdhër kufizues të përkohshëm për pasuri shtesë të të pandehurit, siç përshkruhet në nenin 3, nënparagrafin 1.5 të këtij ligji.
+2. Në vijim të lëshimit të urdhrit të kufizues të përkohshëm shtesë, zbatohen dispozitat e nenit 9 dhe nenit 11 të këtij ligji.

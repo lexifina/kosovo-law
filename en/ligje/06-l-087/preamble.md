@@ -1,0 +1,1 @@
+LAW No. 06/L-087 OF EXTENDED POWERS ON CONFISCATION OF ASSETS LAW No. 06/L-087 OF EXTENDED POWERS ON CONFISCATION OF ASSETS The Assembly of the Republic of Kosovo, Based on Article 65 (1) of the Constitution of the Republic of Kosovo, Approves: LAW OF EXTENDED POWERS ON CONFISCATION OF ASSETS

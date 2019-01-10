@@ -1,0 +1,3 @@
+# Article 14
+Temporary Restraint Order for Additional Property 1. Following the issuing of a temporary restraint order, at any stage during the investigation, after the indictment has been filed, during the main trial, and following the conclusion of the main trial within the same time limit detailed in Article 4 of this Law, if the conditions in Article 8 of this Law are met, a State Prosecutor may issue a temporary restraint order for additional property of the defendant as defined in Article 3 sub-paragraph 1.5 of this Law.
+2. Following the issuing of a further temporary restraint order, the provisions of Articles 9 and 11 of this Law shall apply.
