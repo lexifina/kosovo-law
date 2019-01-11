@@ -1,0 +1,5 @@
+# Neni 18
+1. Dispozitat e neneve 25 deri 27 të kësaj Rregullore nuk zbatohen në rastet kur:
+1.1. për arsye urgjente të shkaktuara nga rrethana të rënda dhe të paparashikuara që lidhen me mbrojtjen e shëndetit publik ose sigurisë, mbrojtjen e kafshëve ose ruajtjen e bimëve, si dhe për rregullat e shërbimeve, gjithashtu edhe për politikat publike, në veçanti mbrojtjen e të miturve, organi kompetent është i detyruar të përgatisë rregullore teknike në një periudhë shumë të shkurtër kohore me qëllim që të miratojë dhe prezantojë ato menjëherë pa pasur ndonjë mundësi për konsultim; ose,
+1.2. për arsye urgjente të shkaktuara nga rrethana të rënda në lidhje me mbrojtjen e sigurisë dhe integritetit të sistemit financiar, në veçanti mbrojtjen e depozituesve, investitorëve dhe personave të siguruar, organi kompetent është i detyruar që menjëherë t’i miratojë dhe zbatojë rregullat për shërbimet financiare.
+2. Në komunikimin e dërguar tek Komisioni, Ministria i jep arsyet për urgjencë kur miraton rregullore teknike në rrethana urgjente.

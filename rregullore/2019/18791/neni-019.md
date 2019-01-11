@@ -1,0 +1,6 @@
+# Neni 19
+Komunikimi i draftit
+1. Ministria i komunikon menjëherë Komisionit çdo draft rregullore teknike, të shoqëruar me një deklaratë që arsyeton domosdoshmërinë e nxjerrjes së një rregullore teknike të tillë, kur ato arsye nuk janë bërë të qarta në draft.
+2. Ministria nuk i komunikon Komisionit, sipas paragrafit 1 të këtij neni, tekstin e draft rregullores teknike nëse ai përmban vetëm një transpozim të tekstit të plotë të një standardi ndërkombëtar ose evropian, por është e detyruar të komunikojë të dhënat për standardin në fjalë.
+3. Sipas nevojës, dhe përveç nëse është dërguar me komunikim paraprak, Ministria njëkohësisht komunikon tekstin e dispozitave bazë legjislative ose rregullative që lidhen kryesisht dhe drejtpërdrejt me Komisionin, nëse notifikimi i këtij teksti është i nevojshëm për të vlerësuar implikimet e draft rregullores teknike.
+4. Ministria i komunikon draft rregulloren teknike përsëri Komisionit sipas kushteve të përcaktuara në këtë nen, nëse janë bërë ndryshime në draft që kanë efekt në ndryshimin e konsiderueshëm të fushëveprimit të saj, shkurtimin e afatit të parashikuar fillimisht për zbatim, shtimin e specifikimeve ose kërkesave, ose duke e bërë këtë të fundit më kufizues.

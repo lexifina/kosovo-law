@@ -1,0 +1,4 @@
+# Neni 35
+Kufizimi i komenteve dhe opinioneve
+1. Çdo koment ose opinion i detajuar lidhur me rregulloret teknike të notifikuara, të referuara në pikën 1.1.3, nën paragrafi 1.1, të paragrafit 1 të nenit 15 të kësaj Rregullore, duhet të jetë në lidhje vetëm me ato aspekte që mund të pengojnë tregtinë ose lëvizjen e lirë të shërbimeve ose lirinë e themelimit të ofruesit të shërbimeve, ndërsa jo për aspektet fiskale apo financiare të këtyre rregulloreve.
+2. Opinionet e detajuara në lidhje me rregulloret teknike të notifikuara që përmbajnë rregulla mbi shërbimet nuk do të zbatohen për asnjë masë të politikës kulturore, veçanërisht në fushën audiovizuale, të cilat Shtete Anëtare të Bashkimit Evropian i miratojnë në përputhje me legjislacionin e tyre, për shkak të diversitetit të tyre gjuhësor, karakteristikave të tyre specifike kombëtare dhe rajonale, dhe trashëgimisë së tyre kulturore.

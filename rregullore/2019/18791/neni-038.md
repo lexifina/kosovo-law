@@ -1,0 +1,5 @@
+# Neni 38
+1. AKS i dërgon një komunikatë odave ekonomike të Kosovës që një organ i huaj i standardizimit ka përfshirë në programin e tij të standardeve përgatitjen e një standardi të ri ose ndryshimin e një standardi ekzistues i cili nuk është një transpozim identik ose ekuivalent i standardeve ndërkombëtare ose evropiane, si dhe një kërkesë për shpërndarjen e informacionit tek anëtarët e tyre.
+2. Përfaqësuesit e biznesit të përcaktuara në paragrafin 1 i këtij neni dhe palët e tjera të interesuara mund të kërkojnë nga AKS që të ofrojë tekstet e draft standardeve nga programi i standardeve të organeve të huaja të standardizimit.
+3. AKS, në bazë të shqyrtimit të komunikimit të përcaktuar në paragrafin 1 të këtij neni dhe kërkesës nga palët e interesit të përcaktuar në paragrafin 2 të këtij neni, vendos nëse do të kërkojë nga organi i huaj i standardizimit, tekstin e çfarëdo draft standardi nga programi i standardeve.
+4. AKS, në bazë të rishikimit të draft standardit të përgatitur dhe komenteve nga palët e interesuara për atë standard, i komunikon komentet organit të huaj të standardizimit sipas nevojës.
