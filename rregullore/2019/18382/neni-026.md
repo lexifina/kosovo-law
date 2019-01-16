@@ -1,0 +1,6 @@
+# Neni 26
+Opinionet e detajuara
+1. Nëse Komisioni apo ndonjë prej Shteteve Anëtare e dërgon, brenda 3 (tre) muajve nga dita e marrjes së notifikimit nga Komisioni, opinionin e tyre të detajuar se draft rregullorja teknike krijon pengesa për lëvizjen e lirë të mallrave brenda tregut të brendshëm, organi kompetent shtyn miratimin e draft rregullores për gjashtë muaj nga kjo datë, dhe 4 (katër) muaj nëse draft rregullorja teknike ka një formë të marrëveshjes vullnetare brenda kuptimit të nën paragrafit 1.1.2., paragrafi 1 të nenit 15 të kësaj Rregullore.
+2. Dispozitat e përcaktuara në paragrafin 1 të këtij neni nuk zbatohen për rregullat mbi shërbime.
+3. Nëse Komisioni apo ndonjë prej Shteteve Anëtare dërgon, brenda 3 (tre) muajve nga dita e marrjes së notifikimit nga Komisioni, opinionin e tyre të detajuar se draft rregullorja teknike krijon pengesa për lëvizjen e lirë të shërbimeve ose për lirinë e themelimit të ofruesit të shërbimeve në tregun e brendshëm, organi kompetent shtyn miratimin e draft rregullores teknike për katër muaj nga kjo datë.
+4. Ministria, në bashkëpunim me organin kompetent i komunikon Komisionit veprimet që organi kompetent propozon të i ndërmarrë bazuar në opinionin e detajuar të pranuar dhe i tregon arsyet për mos marrjen në konsideratë të opinionit të detajuar.

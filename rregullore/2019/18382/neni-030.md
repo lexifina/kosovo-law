@@ -1,0 +1,5 @@
+# Neni 30
+Transparenca e programit të punës
+1. Pa cenuar detyrimet e transparencës të përcaktuara në nenin 13 të Ligjit Nr. 06/L- 019 mbi Standardizimin, AKS, jo më vonë se në kohën e publikimit të programit të saj të punës, notifikon programin në organizatat evropiane të standardizimit dhe organet e tjera kombëtare të standardizimit, si dhe në Komisionin Evropian.
+2. AKS nuk mund të kundërshtojë në programin e tij të punës një subjekt për standardizim i cili shqyrtohet në nivel evropian në përputhje me rregullat e përcaktuara nga organizatat evropiane të standardizimit dhe nuk mund të ndërmarrë ndonjë veprim që mund të cenoj një vendim në këtë drejtim.
+3. Gjatë përgatitjes së një standardi të harmonizuar ose pas miratimit të tij, AKS nuk ndërmerr asnjë veprim që mund të paragjykojë harmonizimin e synuar dhe, në veçanti, nuk publikon një standard të ri ose të rishikuar kombëtar, në fushën përkatëse, që nuk është plotësisht në përputhje me një standard të harmonizuar ekzistues. Pas publikimit të një standardi të ri të harmonizuar, të gjitha standardet të Kosovës që janë në kundërshtim tërhiqen brenda një afati kohor të arsyeshëm.

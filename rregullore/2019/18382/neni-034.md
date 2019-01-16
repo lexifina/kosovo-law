@@ -1,0 +1,5 @@
+# Neni 34
+Ofrimi i komenteve dhe opinioneve
+1. Nëse një palë e interesuar konsideron se draft rregullorja teknike e cila është subjekt i notifikimit paraqet një pengesë të pajustifikuar për lëvizjen e lirë të mallrave ose shërbimeve, ose pengesë për lirinë e themelimit të ofruesve të shërbimeve, ajo palë i komunikon organit kompetent komentet dhe sugjerimet.
+2. Nëse organi kompetent konsideron se draft rregullorja teknike së cilës i referohet notifikimi i huaj paraqet një pengesë të pajustifikuar të përcaktuar në paragrafin 1 të këtij neni, ai notifikon Ministrinë duke komunikuar me shkrim komentet e arsyeshme, propozon ndryshime në draft rregulloren teknike ose kërkon që Ministria të propozojë shtyrjen e miratimit duke dhënë një opinion të detajuar.
+3. Ministria shqyrton komentet nga organet kompetente, si dhe komentet dhe propozimet nga palët e interesuara të përcaktuara në paragrafin 1 i këtij neni dhe në bashkëpunim me ta vendosë për përmbajtjen dhe formën e komenteve ose opinioneve të detajuara të mundshme dhe ua komunikon ato nënshkruesit të marrëveshjes ndërkombëtare ose Shtetit Anëtar të Bashkimit Evropian.
