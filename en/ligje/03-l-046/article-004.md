@@ -1,8 +1,0 @@
-# Article 4
-Kosovo Assembly
-4.1 In accordance with the law, the Assembly of the Republic of Kosovo, shall have the competence to:
-a) exercise democratic parliamentary control over the Kosovo Security Force, b) oversee and investigate all matters related to the organisation, funding, manning, equipping, and basing of the Kosovo Security Force, c) legislate all matters related to the organisation, funding, manning, equipping, and basing of the Kosovo Security Force, d) adopt the annual budget and the rolling ten-year plan for the Kosovo Security Force;
-e) approve the deployment of the Kosovo Security Force during a state of emergency or to peace support operations overseas.
-4.2 The Assembly of the Republic of Kosovo shall establish a Parliamentary Committee which must have the competence to:
-a) require the Commander of the Kosovo Security Force to submit an annual report and to answer questions personally as required. The report shall be sent to the President and the Prime Minister.
-b) demand the presence of the Commander of the Kosovo Security Force at their meetings and to answer any questions, c) review the budget for the Kosovo Security Force prior to its submission to the Assembly of Kosovo for approval, d) review all equipment projects of a value higher than €1 million, both those to be funded by the Government of Kosovo and those to be funded by donors, prior to their submission to the Assembly of Kosovo for approval, e) make available to the International Military Presence all the information needed to identify all sources of funds and equipment provided to the Kosovo Security Force.

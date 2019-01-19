@@ -1,4 +1,0 @@
-# Neni 2
-Territori i fushëveprimit
-2.1 Pjesëtarët e Forcës së Sigurisë së Kosovës janë të autorizuar të shërbejnë brenda territorit të Republikës së Kosovës dhe dërgohen jashtë vendit në operacione vetëm kur t’u jepet mandati nga Kuvendi i Republikës së Kosovës dhe në marrëveshje me shtetin pranues, në bazë të ftesës së një organizate ndërkombëtare në të cilën Republika e Kosovës është anëtare ose aspiron të jetë, apo në bazë të një Rezolute të Këshillit të Sigurimit të KB-së.
-2.2 Pjesëtarët e Forcës së Sigurisë së Kosovës mund të marrin pjesë në shkollim, stërvitje dhe ushtrime jashtë kufijve territorial të Republikës së Kosovës pa miratimin e Kuvendit të Republikës së Kosovës vetëm atëherë kur janë të ftuar nga organizatat ndërkombëtare anëtare e të cilave është apo aspiron të bëhet Republika e Kosovës, apo në baza bilaterale me pjesëtarët e këtyre organizatave dhe pas autorizimit ministror.
