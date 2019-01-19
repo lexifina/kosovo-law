@@ -1,0 +1,1 @@
+LIGJI Nr. 06/L-122 PËR MINISTRINË E MBROJTJES LIGJI NR. 06/L-122 PËR MINISTRINË E MBROJTJES Kuvendi i Republikës së Kosovës; Në bazë të nenit 65 (1) të Kushtetutës së Republikës së Kosovës, Miraton: LIGJ PËR MINISTRINË E MBROJTJES

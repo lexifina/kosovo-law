@@ -1,5 +1,0 @@
-# Article 4
-Democratic Oversight
-4.1 In accordance with the law, the relevant Parliamentary Committee of the Assembly of the Republic of Kosovo shall have the competence to:
-a) examine Strategies, Laws, and Policy documents submitted by the Ministry for the Kosovo Security Force through the Government of the Republic of Kosovo, in accordance with this law, and prepare them for debate in theAssembly of the Republic of Kosovo, b) demand the presence of the Minister for the Kosovo Security Force, or the Permanent Secretary of the Ministry for the Kosovo Security Force, at their meetings and to answer any questions, c) review the budget for the Kosovo Security Force and the Ministry for the Kosovo Security Force prior to its submission to the Kosovo Assembly for approval, d) review all equipment projects of a value higher than €1 million proposed by the Ministry for the Kosovo Security Force, both those to be funded by the Government and those to be funded by donors, prior to their submission to the Kosovo Assembly for approval.
-4.2. The Provisions under article 3 and article 4 of this Law do not derogate from the rules of the Public Procurement.
