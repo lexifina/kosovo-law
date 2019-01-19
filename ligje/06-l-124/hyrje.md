@@ -1,0 +1,1 @@
+LIGJI Nr. 06/L-124 PËR SHËRBIM NË FORCËN E SIGURISË SË KOSOVËS LIGJI NR. 06/L-124 PËR SHËRBIM NË FORCËN E SIGURISË SË KOSOVËS Kuvendi i Republikës së Kosovës, Në mbështetje të Nenit 65 (1) të Kushtetutës së Republikës së Kosovës, Miraton: LIGJ PËR SHËRBIM NË FORCËN E SIGURISË SË KOSOVËS

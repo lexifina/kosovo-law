@@ -1,6 +1,0 @@
-# Neni 5
-Roli i Pranisë Ndërkombëtare Ushtarake në themelimin, zhvillimin dhe trajnimin fillestar të FSK- së
-5.1 Prania Ndërkombëtare Ushtarake (PNU) ka përgjegjësinë e gjithmbarshme për themelimin, zhvillimin dhe trajnimin fillestar të FSK-së pa paragjykuar përgjegjësitë e Përfaqësuesit Ndërkombëtar Civil.
-5.2 PNU-ja dhe Qeveria e Kosovës bashkërisht e zhvillojnë procedurën formale të përzgjedhjes për ata individë që dëshirojnë të konkurrojnë për t’iu bashkuar FSK-së, që do të përfshijë kërkesën për t’iu nënshtruar procesit të verifikimit për përcaktimin e përshtatshmërisë së aplikantëve për të shërbyer në kuadër të FSK-së.
-5.3 Nëse ish-pjesëtarët e TMK-së konkurrojnë dhe më pas pranohen për të shërbyer në FSK, atyre individëve nuk u ofrohen të drejta ose privilegje të veçanta dhe nuk do të mbajnë asnjë emblemë tjetër përveç atyre të miratuara për FSK-në.
-5.4 Gjatë emërimit dhe gradimit fillestar të ish-personelit të TMK-së në kuadër të FSK-së mund të merret parasysh grada, emërimet dhe përvoja e tyre të mëparshme në kuadër të TMK-së. Kriteret e moshës të saktësuara në nenin 6 të këtij ligji mund të anashkalohen për ish-personelin e TMK-së. Megjithatë, në të gjitha rastet, këto emërime duhet të jenë në shërbimin më të mirë për nevojat e FSK- së.

@@ -1,7 +1,0 @@
-# Neni 13
-Të dhënat e identifikimit dhe të personelit
-13.1 Pas regjistrimit në FSK, secilit pjesëtarë i caktohet numri unik personal i cili përbën bazën për të gjitha të shënimet e identifikimit dhe personale gjatë tërë karrierës.
-13.2 Secilit pjesëtarë aktiv dhe rezervë të FSK-së i lëshohet kartela personale e identifikimit me të cilën vërtetohet anëtarësimi i tij/saj në këtë Forcë. Kartela duhet të mbahet gjatë tërë kohës derisa pjesëtari është në detyrë.
-13.3 Pas regjistrimit, Dosjet Personale të Shërbimit iniciohen për të gjithë personelin aktiv dhe rezervë, të cilat mbajnë informata personale, përfshirë datën e lindjes, statusin martesor, anëtarët e familjes së ngushtë si dhe kualifikimet akademike dhe profesionale, historinë e shërbimit, kualifikimet në FSK përfshirë pjesëmarrjen në kurse dhe trajnime, dosjen e të gjitha ditëve të shfrytëzuara të pushimit, dosjet disiplinore dhe dekoratat e shpërblimet.
-13.4 Të gjitha dokumentet që kanë të bëjnë me kryerjen e detyrave, siç janë raportet e vlerësimit, duhet të mbahen në dosje të ndarë dhe shfrytëzohen vetëm për qëllime të zhvillimit profesional dhe të karrierës, përfshirë vendimet për ngritjet në detyrë dhe emërimet.
-13.5 Ministria për FSK-në është përgjegjëse për zhvillimin dhe mirëmbajtjen e një sistemi gjithëpërfshirës për kontrollimin, mirëmbajtjen dhe menaxhimin e dosjeve të personelit për tërë FSK- në, për të siguruar mbrojtjen dhe mirëmbajtjen e të drejtës së individit për privatësi. Rregullat e hollësishme për çështjet e personelit dhe dosjet u nënshtrohen rregulloreve të veçanta.

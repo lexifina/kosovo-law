@@ -1,7 +1,0 @@
-# Article 13
-Identification and Personnel Records
-13.1 On enlistment into the KSF, all members shall be allocated a unique personal number which is to form the basis of all identification and personal records throughout their career.
-13.2 All active and reserve members of the KSF are to be issued with personal identity cards to prove membership of the Force. This card is to be carried at all times whilst on duty.
-13.3 On enlistment a Personal Record of Service is to be initiated for all active and reserve personnel that records personal details, including date of birth, marital status, next of kin, and academic and professional qualifications; service history; KSF qualifications including courses and training attended; a record of all leave taken; disciplinary record; and, decorations and awards.
-13.4 All documents relating to performance, such as appraisal reports, are to be maintained in a separate record and are to be used only for the purpose of career and professional development, including decisions relating to promotion and appointments.
-13.5 The Ministry for the KSF is responsible for developing and maintaining a comprehensive system for the control, maintenance and management of personnel records throughout the KSF, to ensure their safekeeping and to maintain the individual’s right of privacy. Detailed policies on personnel issues and records are to be the subject of separate regulations.

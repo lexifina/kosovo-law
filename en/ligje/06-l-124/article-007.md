@@ -1,0 +1,3 @@
+# Article 7
+Oath 1. On the day of appointment as active and reserve officer and non-commissioned officer of the Kosovo Security Force the member makes an oath.
+2. The declaration of the oath is: “I do solemnly swear that I will be faithful and bear true allegiance to Republic of Kosovo, I will obey orders of the President of Republic of Kosovo and my superiors in accordance with the law; and that I will carry out my duties with diligence, honour and dignity. I do solemnly swear that I will enforce the Constitution of the Republic of Kosovo, and serve my homeland and people, and for their protection, I will not spare my life. I swear”.

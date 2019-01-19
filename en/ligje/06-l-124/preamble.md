@@ -1,0 +1,1 @@
+LAW No. 06/L-124 ON SERVICE IN THE KOSOVO SECURITY FORCE LAW NO. 06/L-124 ON SERVICE IN THE KOSOVO SECURITY FORCE The Assembly of the Republic of Kosovo, Based on Article 65 (1) of the Constitution of the Republic of Kosovo, Approves: LAW ON SERVICE IN THE KOSOVO SECURITY FORCE
