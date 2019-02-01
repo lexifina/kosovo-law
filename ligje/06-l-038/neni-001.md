@@ -1,0 +1,5 @@
+## KAPITULLI I
+## DISPOZITAT E PËRGJITHSHME
+# Neni 1
+Qëllimi 1. Qëllimi i këtij ligji është vendosja e rregullave për sigurimin e ofrimit të shërbimit postar dhe shërbimit universal postar në të gjithë territorin e Republikës së Kosovës, përcaktimi i kushteve për qasje në rrjetin postar, nxitja e konkurrencës së lirë, përcaktimi i parimeve për tarifat, sigurimi i transparencës së llogarive të ofrimit të shërbimit universal postar, përcaktimi i standardeve për shërbimin universal postar dhe vendosja e një sistemi për të siguruar pajtueshmërinë me këto standarde.
+2. Ky ligj është pjesërisht në përputhshmëri me Direktivën 97/67/KE të Parlamentit Evropian dhe të Këshillit, datë 15 dhjetor 1997, për rregullat e përbashkëta për zhvillimin e tregut të brendshëm të shërbimit postar të Komunitetit dhe përmirësimin e cilësisë së shërbimit, e ndryshuar me Direktivën 2002/39/KE të Parlamentit Evropian dhe Këshillit, datë 10 qershor 2002, dhe Direktivën 2008/6/KE të Parlamentit dhe Këshillit Evropian datë 20 shkurt 2008.

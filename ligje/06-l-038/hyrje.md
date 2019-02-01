@@ -1,0 +1,1 @@
+LIGJI NR. 06/L-038 PËR SHËRBIMET POSTARE LIGJI NR. 06/L-038 PËR SHËRBIMET POSTARE Kuvendi i Republikës së Kosovës; Në bazë të nenit 65 (1) të Kushtetutës së Republikës së Kosovës, Miraton: LIGJ PËR SHËRBIMET POSTARE

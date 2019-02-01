@@ -1,0 +1,9 @@
+# Neni 51
+Zgjidhja e mosmarrëveshjeve ndërmjet ofruesve të shërbimit postar 1.Autoriteti zgjidh mosmarrëveshjet ndërmjet ofruesve të shërbimit postar në çështjet që lidhen me zbatimin e këtij ligji dhe të akteve të nxjerra në zbatim të këtij ligji.
+2. Zgjidhja e mosmarrëveshjes ndërmjet ofruesve të shërbimit postar mund të iniciohet nga vet Autoriteti ose me kërkesën me shkrim të së paku njërit ofrues të shërbimit postar, në përputhje me procedurat e miratuara nga Autoriteti.
+3. Kur të pranohet një kërkesë për zgjidhje të mosmarrëveshjes, aplikohen dispozitat përkatëse të legjislacionit në fuqi.
+4. Autoriteti merr vendim për zgjidhjen e mosmarrëveshjes jo me vone se tridhjetë (30) ditë nga data e pranimit te kërkesës, përveç në rastet kur nevojitet kohë më e gjatë për shkak të kompleksitetit të çështjes objekt shqyrtimi.
+5. Autoriteti zgjidhë mosmarrëveshjen në përputhje me parimet dhe objektivat e këtij ligji, si dhe në përputhje me parimet e efikasitetit të kostos, bashkëpunimit, konkurrencës, gatishmërisë dhe barazisë procedurale të palëve të referuara në dispozitat përkatëse të legjislacionit në fuqi.
+6. Vendimi i Autoritetit është i detyrueshëm për palët dhe mbetet në fuqi edhe nëse hapet konflikti administrativ në gjykatën kompetente, përveç në rastet kur gjykata vendos ndryshe në pajtim me procedurat e përcaktuara me ligj.
+7. Vendimi i Autoritetit është dokument me fuqi ekzekutive. Nëse vendimi nuk ekzekutohet vullnetarisht, atëherë ky vendim mund të ekzekutohet në mënyrë detyruese në pajtim me procedurën e përshkruar në ligjet përkatëse në fuqi.
+LIGJI NR. 06/L-038 PËR SHËRBIMET POSTARE 8. Vendimet për zgjidhjen e mosmarrëveshjeve të lëshuara nga Autoriteti duhet të jetë publike deri në masën që nuk cenojnë konfidencialitetin e informatave dhe privatësinë e personave fizik.

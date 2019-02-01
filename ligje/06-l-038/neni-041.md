@@ -1,0 +1,7 @@
+# Neni 41
+Kutitë shtëpiake postare 1. Pronari apo administratori i një shtëpie, njësie të banesave apo lokaleve afariste, duhet të siguroj instalimin, etiketimin dhe mirëmbajtjen e kutisë shtëpiake postare në hyrje të shtëpisë, ndërtesës ose lokalit afarist. Shfrytëzuesi i shërbimeve postare të një shtëpie, njësie të banesave apo lokaleve afariste siguron që kutia postare, rregullisht, të zbrazet.
+2. Kutitë shtëpiake postare në ndërtesa shumëkatëshe shënohen me emrin e familjes apo numrin e apartamentit, ose emrin apo numrin e kompanisë. Ato instalohen në katin e parë dhe duhet të kenë qasje të lirë.
+3. Nëse personat e përmendur në paragrafin 1 të këtij neni, nuk arrijnë të përmbushin detyrimet e tyre, ofruesi i shërbimit postar i njofton ata me shkrim dhe i fton për të korrigjuar shkeljen, brenda një afati të caktuar kohor.
+4. Nëse personat e përmendur në paragrafin 1 të këtij neni, nuk arrijnë të korrigjojnë këto shkelje brenda afatit të caktuar, ofruesi i shërbimit universal postar nuk i shpërndan dërgesat postare dhe e njofton Autoritetin.
+5. Kutitë postare duhet të dizajnohen dhe instalohen në mënyrë të tillë që të mundësojnë shpërndarje të sigurt dhe privatësi të dërgesave postare.
+6. Në rastet e ndërtimit të ndërtesave të reja për qëllime biznesi ose të ndërtesave të banimit, sipërmarrësit ndërtues obligohen të ndërtojnë infrastrukturën për rrjetin postar, duke instaluar kutitë postare.

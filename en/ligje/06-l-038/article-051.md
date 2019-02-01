@@ -1,0 +1,9 @@
+# Article 51
+Dispute Settlement between Postal Service Providers 1. The Authority shall settle the disputes between the postal service providers on issues relating to the implementation of this law and the acts issued for the implementation of this law.
+2. Settlement of disputes between postal service providers may be initiated by the Authority itself or at the written request of at least one postal service provider in accordance with the procedures approved by the Authority.
+3. When a dispute settlement request is received, the relevant provisions of the applicable legislation apply.
+4. The Authority shall take a decision on the settlement of the dispute no later than thirty (30) days from the date of receipt of the request, except in cases where longer time is required due to the complexity of the matter under review.
+5. The Authority shall resolve the dispute in accordance with the principles and objectives of this Law and in accordance with the principles of cost efficiency, cooperation, competition, readiness and procedural equality of the parties referred to in the relevant provisions of the applicable legislation.
+6. The decision of the Authority is final and binding on both parties and remains in force even if an administrative dispute is opened in the competent court, unless the court decides otherwise in accordance with the procedures established by law.
+7. The decision of the Authority is a document with executive powers. If a decision is not executed voluntarily, then this decision may be executed in a binding manner in accordance with the procedure described in the applicable laws in force.
+8. Decisions to resolve disputes issued by the Authority shall be public to the extent that they do not affect the confidentiality of information and privacy of natural persons.
