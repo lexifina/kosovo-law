@@ -1,0 +1,16 @@
+# Neni 3
+1. Paragrafi 1. i neni 3 i ligjit bazik ndryshohet si në vijim:
+1. Për ta siguruar cilësinë e statistikave zyrtare, për ta ruajtur besimin e opinionit të gjerë,organizimin, zbatimin e Programit dhe harmonizimin e Statistikave Zyrtare me Kodin e Praktikës së Statistikave Evropiane, Statistikat Zyrtare sipas këtij Ligji udhëhiqen nga parimet e mëposhtme.
+2. Në nën-paragrafët 1.4. dhe 1.5. të nenit 3 në ligjin bazik, teksti ndryshohet si në vijim:
+LIGJI NR. 06/L-058 PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJIT NR. 04/L-036 PËR STATISTIKAT ZYRTARE TË REPUBLIKËS E KOSOVËS 1.4. Besueshmëria - do të thotë se statistika duhet të matet me besnikëri, me saktësi dhe në mënyrë të vazhdueshme të jetë i mundur realiteti, që është dizajnuar për t’u përfaqësuar, si dhe duke lënë të kuptohet se janë përdorur kriteret shkencore për përzgjedhjen e burimeve, të metodave dhe të procedurave;
+1.5. Efektiviteti i kostos - do të thotë se kostot e prodhimit të statistikave duhet të jenë në proporcion me rëndësinë e rezultateve dhe përfitimet e kërkuara, që burimet duhet të shfrytëzohen në mënyrë optimale dhe barra e përgjigjes të jetë minimizuar. Informacioni i kërkuar, kur është e mundur, të jetë i gatshëm të nxirret nga të dhënat në dispozicion ose nga burimet.
+3. Pas nën-paragrafit 1.10. të nenit 3 të ligjit bazik,shtohen nën-paragrafët si në vijim:
+1.11. Mandati për mbledhjen e të dhënave: Bartësit e Statistikave Zyrtare kanë mandat ligjor për mbledhjen e informatave për qëllime të Statistikave Zyrtare. Njësitë administrative, ndërmarrjet dhe ekonomitë familjare, si dhe publiku i gjerë, obligohen që t’u lejojnë qasje ose të japin të dhëna për qëllime statistikore, sipas kërkesës së autoriteteve të Statistikave Zyrtare;
+1.12. Mjaftueshmëria e burimeve: Bartësit e statistikave zyrtare duhet të kenë në dispozicion burime të mjaftueshme për t’i plotësuar kërkesat për statistika zyrtare;
+1.13. Angazhimi për cilësinë: Bartësit e statistikave zyrtare zotohen të punojnë dhe të bashkëpunojnë sipas parimeve të Deklaratës së cilësisë së Sistemit Statistikor të Kosovës dhe Sistemit Statistikor Evropian;
+1.14. Metodologjia: Metodologjia bazë, siguron domosdoshmërisht cilësinë e statistikave zyrtare. Kjo kërkon mjete,procedura dhe ekspertizë adekuate;
+1.15. Procedurat e përshtatshme statistikore:Procedurat e përshtatshme statistikore,të zbatuara nga mbledhja deri te vërtetësia e të dhënave,mbështet cilësinë e të dhënave;
+1.16. Zvogëlimi i ngarkesës së respondentëve: Ngarkesa në raportim duhet të jetë proporcionale me nevojat e shfrytëzuesve dhe jo e tepruar për respondentë. Bartësit e statistikave zyrtare e monitorojnë ngarkesën dhe i vendosin qëllimet për shkurtimin e saj gjatë gjithë kohës;
+1.17. Afatet kohore dhe përpikëria:Statistikat zyrtare publikohen në kohën e duhur dhe në mënyrë të përpiktë;
+1.18. Koherenca dhe krahasueshmëria: Statistikat zyrtare janë të qëndrueshme në kohë dhe të krahasueshme në nivel rajonal, vendi dhe më gjerë;
+1.19. Qasja dhe qartësia: Statistikat zyrtare paraqiten në formë të qartë dhe të kuptueshme, të publikuara në mënyrë të përshtatshme dhe të favorshme, të disponueshme dhe të qasshme, në mënyrë të paanshme, të mbështetura me metadata dhe udhëzime.

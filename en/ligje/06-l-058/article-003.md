@@ -1,0 +1,15 @@
+# Article 3
+1. Paragraph 1 of Article 3 of the basic Law shall be amended as follows: 1.In order to ensure the quality of official statistics, maintain the trust of the public, the organization, the implementation of the program and harmonization of official statistics with the code of practice of the European statistics, the official statistics under this Law shall be guided by the following principles:
+LAW NO. 06/L –058 ON AMENDING AND SUPPLEMENTING THE LAW NO. 04/L-036 ON OFFICIAL STATISTICS OF THE REPUBLIC OF KOSOVO 2. In sub-paragraphs 1.4 and 1.5 of the Article 3 of the basic Law, the text shall be amended as follows:
+1.4. Reliability - meaning that statistics must measure as faithfully, accurately and consistently as possible the reality that they are designed to represent and implying that scientific criteria are used for the selection of sources, methods and procedures;
+1.5. Cost effectiveness- meaning that the costs of producing statistics must be in proportion to the importance of the results and the benefits sought, that resources must be optimally used and the response burden minimized. The information requested shall, where possible, be readily extractable from available records or sources.
+3. After the sub-paragraph 1.10 of Article 3 of the basic Law, the sub-paragraphs shall be added as in the following:
+1.11. The mandate for data collection: Carriers of official statistics shall have a legal mandate to collect information for the purposes of official statistics. Administrative units, enterprises and households and the general public shall be obliged to allow access or to provide data for statistical purposes at the request of authorities of official statistics;
+1.12. Adequacy of resources: Carriers of official statistics shall have sufficient resources available to meet the requirements for official statistics;
+1.13. Quality Commitment: Carriers of official statistics shall pledge to work and cooperate according to the principles in the Declaration of quality of the Kosovo Statistical System and the European Statistical System;
+1.14. Methodology: Basic methodology necessarily ensures the quality of official statistics. This requires tools, procedures and adequate expertise;
+1.15. Appropriate statistical procedures: Appropriate statistical procedures applied from to the collection of data to the validation of data shall support quality of data;
+1.16. Minimizing the burden of respondents: Burden in reporting shall be in proportion with the needs of users and not excessive for respondents. Carriers of official statistics shall monitor the burden and shall set targets for its reduction at all times;
+1.17. Timeliness and punctuality: Official statistics shall be published on a timely basis and punctual basis;
+1.18. Coherence and comparability: Official statistics shall be stable over time and comparable at regional, country level and beyond;
+1.19. Access and clarity: Official statistics shall appear in a clear and understandable form, published in an appropriate and favourable manner, available and accessible in an impartial manner, based on metadata and guidance.
