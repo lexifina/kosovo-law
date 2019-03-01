@@ -1,0 +1,4 @@
+# Neni 32
+Ndalimi dhe përcaktimi i ekuivalencës 1. Me hyrjen në fuqi të këtij ligji, ndalohet çdo ndryshim në strukturën, komponentët apo nivelet e koeficienteve të pagave.
+2. Me rastin e krijimit të funksioneve, pozitave, apo emërtesat e reja, institucioni në të cilin krijohet pozita kërkon nga ministria përgjegjëse për administratën publike dhe ministria përgjegjëse e financave përcaktimin e klasës të pagës që zbatohet për atë funksion, pozitë apo emërtesë në bazë të ekuivalencës.
+3. Me marrjen e kërkesës, ministria përgjegjëse për administratën publike dhe ministria përgjegjëse e financave vlerësojnë funksionin, pozitën apo emërtesën me ekuivalencë në bazë të parimeve të këtij ligji dhe bëjnë propozimin për aprovim në Qeveri, për klasën e pagës që zbatohet për atë funksion, pozitë apo emërtesë.

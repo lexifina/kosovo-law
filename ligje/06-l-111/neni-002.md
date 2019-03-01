@@ -1,0 +1,10 @@
+# Neni 2
+Përkufizime 1. Në këtë ligj shprehjet/fjalët kanë këtë kuptim:
+1.1. Paga bazë, është komponenti kryesor apo i vetëm i pagës, që shpërblen punën sipas nivelit të kompleksit të funksionit, pozitës apo gradës dhe nivelit të kualifikimit të kërkuar për atë funksion, pozitë apo gradë. Kompleksi është pasojë e kombinuar e përgjegjësisë, rëndësisë dhe lirisë të vendimmarrjes, vështirësisë dhe rrezikshmërisë të kryerjes të detyrave në atë funksion, pozitë apo gradë, si dhe kufizimeve që shoqërojnë punën;
+1.2. Shtesë page, është komponent i pagës, që i shtohet pagës bazë dhe që synon të shpërblejë punën për kushte të vështira, sektorë apo specialitete të veçanta dhe që nuk shpërblehet nga paga bazë. Shtesa e pagës mund të jetë e rregullt, kur përfitohet çdo muaj, apo e parregullt, kur shpërblehet sipas rastit dhe sipas këtij ligji;
+1.3. Shtesë e rregullt”, është shtesa për kushte tregu, shtesa e posaçme, shtesa e performancës në sistemin e arsimit parauniversitar dhe shtesa për kushte të vështira/ të dëmshme të punës;
+1.4. “Shtesë e parregullt”, është shtesa për punë jashtë orarit të punës dhe shtesa e performancës;
+LIGJI NR. 06/L-111 PËR PAGAT NË SEKTORIN PUBLIK 1.5. “Shpërblim”, është pagesa që shpërblen punën e kryer nga anëtari i një organi kolegjial me kohë jo të plotë;
+1.6. “Kompensim”, është një pagesë në formën e heqjes së shpenzimeve të kryera apo që do të kryhen nga zyrtari, për udhëtime, qëndrim apo përfaqësim (reprezentacion) në apo gjatë ushtrimit të detyrës zyrtare;
+1.7. “Klasa e pagës”, është një ndarje që i korrespondon një koeficient i caktuar dhe që përbëhet nga një grup funksionesh, pozitash apo gradash me nivel të njëjtë apo pothuajse të njëjtë kompleksiteti dhe që përfitojnë të njëjtën pagë bazë.
+2. Shprehjet: “funksionar publik”, “funksionar publik me status të veçantë”, “zyrtar publik”, “nëpunës civil”, “nëpunës civil me status të veçantë”, “nëpunës i Shërbimit Publik”, “nëpunës kabineti”, “nëpunës administrativ dhe mbështetës”, në këtë ligj kanë të njëjtin kuptim me atë të përcaktuara në Ligjin për Zyrtarët Publik të Republikës së Kosovës.

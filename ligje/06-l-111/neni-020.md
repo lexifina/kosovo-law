@@ -1,0 +1,6 @@
+# Neni 20
+Shtesa e posaçme për nëpunësin e sistemit shëndetësor 1. Profesionistët shëndetësor në SHSKUK dhe QKMF, që ushtrojnë funksione udhëheqëse dhe të cilat nuk janë pjesë e shtojcës 1. të këtij ligji përfitojnë një shtesë të posaçme për ushtrimin e funksionit përkatës.
+LIGJI NR. 06/L-111 PËR PAGAT NË SEKTORIN PUBLIK 2. Nëpunësi profesional i sistemit shëndetësor, i cili ushtron detyrën si personel akademik në arsimin universitar kur këtë e lejon ligji, përfiton një shtesë në vlerë prej tridhjetë për qind (30%) të pagës për pozitën me orar të plotë të punës ku ofrohet shërbimi përkatës publik nga punëdhënësi i cili është përgjegjës për ofrimin e atij shërbimi.
+3. Nëpunësit profesionalë të sistemit shëndetësorë, të cilët ushtrojnë detyrën në profesione të veçanta, të rralla apo në lokacione të largëta, përfitojnë një shtesë të posaçme.
+4. Shtesa e posaçme, sipas paragrafëve 1. dhe 3. të këtij neni, nuk mund të jetë më e madhe se njëzet për qind (20%) e pagës bazë.
+5. Qeveria e Republikës së Kosovës, me propozimin e ministrit përgjegjës për administratën publike, ministrisë përgjegjëse për shëndetësi dhe ministrisë përgjegjëse për financa, miraton, me akt nënligjor, grup pozitat, rregullat për shtesën sipas këtij neni, kushtet e detajuara për përfitimin dhe masën e saj.

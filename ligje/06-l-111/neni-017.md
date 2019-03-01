@@ -1,0 +1,6 @@
+# Neni 17
+Shtesa për kushte të vështira/të dëmshme të punës 1. Shtesa për kushte të vështira/të dëmshme shpërblen punën në kushte të dëmshme për shëndetin.
+2. Kriteret, të cilat duhen përmbushur për përfitimin e shtesës për kushte të vështira/dëmshme të punës, janë:
+LIGJI NR. 06/L-111 PËR PAGAT NË SEKTORIN PUBLIK 2.1. kryerja normale e punës përfshin rrezikun e shkaktimit të plagëve, sëmundje ose probleme shëndetësore të menjëhershme apo të mëvonshme, si pasojë e ekspozimit në ambientin e punës ku paraqiten elemente të dëmshme kimike, fizike, biologjike, psikologjike, si dhe dëmtime nga përdorimi i mjeteve të punës; dhe 2.2. rreziku për shëndetin është i vazhdueshëm, i mundshëm dhe serioz, me gjithë faktin se institucioni ka ndërmarrë hapat e nevojshëm për përmirësimin e gjendjes në vazhdimësi.
+3. Shtesa për kushte të vështira/të dëmshme nuk mund të jetë më e lartë se dhjetë për qind (10%)e pagës bazë.
+4. Qeveria e Republikës të Kosovës, me propozimin e ministrit përgjegjës për administratën publike, ministrisë përgjegjëse për shëndetësi dhe ministrisë përgjegjëse për financa, miraton, me akt nënligjor, grup pozitat të cilat përfitojnë shtesa për kushte të vështira/të dëmshme të punës, kushtet e detajuara për përfitimin dhe vlerën e saj.

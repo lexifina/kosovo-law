@@ -1,0 +1,2 @@
+# Article 18
+Performance allowance for employee of pre-university education system 1. Professional employees of pre-university education system who show special results at work are entitled to receive performance allowance 2. Government of Republic of Kosovo, upon proposal of the minister responsible for public administration, ministry responsible for education and ministry responsible for finances, adopts, with a sub-legal act, rules for allowance according to paragraph 1 of this Article, detailed conditions for benefiting and its value.

@@ -1,0 +1,4 @@
+# Article 32
+Prohibition and determining of equivalence 1. Upon the entry into force of this Law, any change in salary structure, components or level of coefficients is prohibited.
+2. In case of creation of new functions, positions or job titles, the institution where such position is created shall request from the ministry responsible for public administration and ministry responsible for finance to determine the Salary Class that is applied for such function, position or job title based on equivalence.
+3. Upon receipt of the request, responsible ministry for public administration and responsible ministry of finance assess the equivalent function, position or title based on principles of this Law and submit proposal to the Government on the Salary Class that applies for such function, position or title.

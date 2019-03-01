@@ -1,0 +1,1 @@
+LAW NO. 06/L –111 ON SALARIES IN PUBLIC SECTOR LAW NO. 06/L –111 ON SALARIES IN PUBLIC SECTOR Assembly of Republic of Kosovo, Based on Article 65 (1) of the Constitution of Republic of Kosovo, Adopts LAW ON SALARIES IN PUBLIC SECTOR

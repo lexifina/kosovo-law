@@ -1,0 +1,10 @@
+# Article 2
+Definitions 1. Expressions/words in this law shall have the following meaning:
+1.1. Basic salary - is the main or only component of the salary, which rewards the work according to the level of complexity of function, position or grade and level of required qualification for that function, position or grade. Complexity is a combined consequence of responsibility, importance and decision making discretion, difficulty and risk in performing duties for that function, position or grade and limitations of that work;
+1.2. Salary allowance - is a component of salary, added to the basic salary and which aims to rewards the work in specific conditions, sectors or peculiarities that are not rewarded with basic salary. Salary allowance may be regular when it is received every month or not-regular when it is given randomly according to this Law;
+1.3. Regular allowance - is the allowance for market conditions, special allowance, performance allowance in the system of pre-university education and for difficult/ harmful working conditions;
+LAW NO. 06/L –111 ON SALARIES IN PUBLIC SECTOR 1.4. Non-regular allowance - is the allowance for overtime work/outside normal working hours and performance allowance;
+1.5. Reward - is the payment that rewards the work performed by a part-time member of a collegial body;
+1.6. Compensation - is the payment in the form of reimbursement of expenses incurred or that will incur by the official, for travel, stay or representation in or while performing official duty;
+1.7. Salary class - is a division corresponding with a specific coefficient and which consists of a group of functions, positions or grades of the same level or almost the same complexity and who receive the same basic salary;
+2. Expressions: “public functionary”, “public functionary with special status”, “public official”, “civil servant”, “civil servant with special status”, “public service employee”, “cabinet employee”, “administrative and supporting staff” in this law have the same meaning as defined in the Law on Public Officials in the Republic of Kosovo.

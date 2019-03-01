@@ -1,0 +1,6 @@
+# Article 20
+Special allowance for employee of health system 1. Health professionals in UHCSK and MFMC that exercise managing functions and that are not part of Annex 1 of this Law shall benefit a special allowance for exercising the relevant function.
+2. Health system professional employee who exercises the duty of academic personnel at the university education, when this is allowed by the Law, shall benefit an allowance in the value of thirty percent (30%) of the salary for the full-time job position where there is provided the relevant public service by the employer that is responsible for providing such a service.
+LAW NO. 06/L –111 ON SALARIES IN PUBLIC SECTOR 3. Professional employees of health system performing their duty in some specialized professions, in rare areas or in remote locations benefit a special allowance.
+4. Special allowances, as per paragraphs 1 and 3 of this Article cannot be higher than twenty percent (20%) of the basic salary.
+5. Government of Republic of Kosovo, upon proposal of the minister responsible for public administration, ministry responsible for health and ministry responsible for finances, adopts, with a sub-legal act, group of positions, rules for allowance according to this Article, detailed conditions for benefiting and its value.

@@ -1,0 +1,6 @@
+# Article 6
+Allowance for market conditions 1. Allowance for market conditions is received for specific required professions in specific key professional positions of civil service, for which the recruitment or retention of employees is objectively impossible because private market offers at least fifty percent (50%) higher salaries than the public sector.
+2. Value of allowance for market conditions cannot be higher than fifty percent (50%) of basic salary.
+3. Types of Positions and relevant professions for which the allowance for market conditions is received, value and procedures for receiving it are approved with a sub-legal act of Government
+LAW NO. 06/L –111 ON SALARIES IN PUBLIC SECTOR of Kosovo, upon the proposal of responsible ministry for public administration and ministry responsible for finances. The benefit of allowance for market conditions is reviewed on annual basis by the Government.
+4. Following the adoption of sub-legal act by the Government according to paragraph 3 of this Article, benefit of allowance for market conditions is approved by the ministry responsible for public administration and ministry responsible for finance, upon justified proposal of respective institution.
