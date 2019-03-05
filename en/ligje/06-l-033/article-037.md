@@ -1,0 +1,3 @@
+# Article 37
+Application for designation 1. A body to be designated to carry out third party tasks in the process of assessment and verification of constancy of performance shall submit an application for designation to the designating authority of Kosovo.
+2. The application shall be accompanied by a description of the activities to be performed, the assessment and/or verification procedures for which the body claims to be competent, and an accreditation certificate, issued by the national accreditation body (DAK), attesting that the body meets the requirements laid down in Article 30 of this Law.

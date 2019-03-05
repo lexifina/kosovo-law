@@ -1,4 +1,0 @@
-# Neni 22
-Përgjegjësia e organit te autorizuar për vlerësimin e konformitetit
-1. Organi i autorizuar për zbatimin e veprimeve të vlerësimit të konformitetit për produktin ndërtimor me specifikimet teknike, përkatësisht për lëshimin e certifikatës se kontrollit të prodhimit në fabrikë është përgjegjës për zbatimin e këtyre veprimeve, përkatësisht për lëshimin e certifikatës në përputhje me dispozitat dhe rregullat profesionale në fuqi, si dhe për përmbushjen e vazhdueshme të kushteve të përcaktuara për dhënien e autorizimit.
-2. Organi i autorizuar për zbatimin e veprimeve të vlerësimit të konformitetit, përkatësisht për lëshimin e certifikatës së kontrollit të prodhimit në fabrikë është i detyruar të njoftoj Ministrinë kompetente për çdo ndryshim në lidhje me kushtet e dhënies apo revokimit të këtij autorizimi më së voni katërmbëdhjetë (14) ditë nga dita e ndryshimit.

@@ -1,8 +1,0 @@
-# Article 10
-General Principles and Use of Conformity Marking
-1. The conformity marking shall be affixed to those construction products for which the manufacturer has drawn up a Declaration of Conformity in accordance with Articles 6 and 7 of this Law.
-2. If a declaration of conformity has not been drawn up by the manufacturer in accordance with Articles 6 and 7 of this Law, then the conformity marking shall not be allowed to be affixed.
-3. By affixing conformity marking, manufacturers take the responsibility for the conformity of the construction product with the declared performance as well as the compliance with all applicable requirements laid down in this Law and in other relevant legal provisions providing for its affixing.
-4. For any construction product in conformity with the harmonised standard, or for which a declaration of conformity has been issued, the conformity marking shall be the only marking which attests conformity of the construction product with the declared performance in relation to the essential characteristics, in conformity with the standards, or declaration of conformity.
-5. It may not be prohibited or impeded the placement on the market or the use of construction products bearing the conformity marking, when the declared conformity corresponds to the requirements for such use in the Republic of Kosovo.
-6. The Republic of Kosovo shall ensure that the use of construction products bearing the conformity marking shall not be impeded by rules or conditions imposed by public bodies or private bodies, or acting as a public body on the basis of a monopoly position or under a public mandate, when the declared conformity correspond to the requirements for such use.

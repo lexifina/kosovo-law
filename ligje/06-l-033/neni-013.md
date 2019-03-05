@@ -1,0 +1,11 @@
+# Neni 13
+Pika e kontaktit për produktet e ndërtimit 1. Ministria me vendim e cakton piken e kontaktit për produktet e ndërtimit.
+2. Pika e kontaktit për produktet e ndërtimit me kërkesë “ndër të tjera” të një operatori ekonomik apo autoriteti kompetent të një shteti tjetër, ofron informatat e mëposhtme për:
+2.1. rregullat teknike të zbatueshme për lloje të caktuara produkteve të ndërtimit në Kosovë dhe informata nëse ai lloj produkti i nënshtrohet kërkesës për autorizim paraprak sipas ligjeve të Kosovës, bashkë me informatat në lidhje me parimin e njohjes reciproke dhe zbatimin e këtij ligji në territorin e Kosovës;
+LIGJI Nr. 06/L-033 PËR PRODUKTE TË NDËRTIMIT 2.2. të dhënat kontaktuese të autoriteteve kompetente brenda Kosovës, përmes të cilave ata mund të kontaktohen drejtpërdrejtë, duke përfshirë të dhënat e veçanta për autoritetet përgjegjëse për mbikëqyrjen e implementimit të rregullave teknike në fjalë në territorin e Kosovës;
+2.3. mjetet juridike që janë të dispozicion në përgjithësi në Kosovë në rast të kontesteve ndërmjet autoriteteve kompetente dhe një operatori ekonomik.
+3. Pika e kontaktit për produktet e ndërtimit do të përgjigjet brenda pesëmbëdhjetë (15) ditë pune pas pranimit të një kërkese të referuar në paragrafin 2 të këtij neni.
+4. Pika e kontaktit për produktet e ndërtimit në Kosovë, ku operatori ekonomik e ka tregtuar në mënyrë të ligjshme produktin e ndërtimit, duhet t’i ofrojë operatorit ekonomik ose autoritetit kompetent informatat relevante ose vrojtimet.
+5. Pika e kontaktit për produktet e ndërtimit nuk do ngarkon tarifa për ofrimin e informatave të referuara në paragrafin 2 të këtij neni.
+6. Sa i përket detyrave të përkufizuara në paragrafin 2 të këtij neni, Ministria garanton që pika e kontaktit për produktet e ndërtimit ofron informata duke përdorur terme transparente dhe lehtësisht të kuptueshme mbi dispozitat ligjore brenda Kosovës që për përmbushjen e kërkesave themelore për punimet e ndërtimit, të zbatueshme për përdorimin e destinuar të çdo produkti të ndërtimit, siç parashihet në nenin 7 paragrafi 3 nën paragrafi 3.5 të këtij ligji.
+7. Pika e kontaktit për produktet e ndërtimit duhet të kryejë funksionet/detyrat e saj në mënyrë të tillë që shmang konfliktin e interesit, veçanërisht në lidhje me procedurat për marrjen e shenjës CE ose shenjës së konformitetit të Kosovës.

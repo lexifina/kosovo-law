@@ -1,0 +1,4 @@
+# Article 52
+Exercise of the delegation`s right 1. The Ministry is competent to adopt delegated acts under Article 50 of this Law for a period of five (5) years from the date of entry into force of this Law. The Ministry shall draw up a report in respect of the delegated power at the latest six (6) months before the end of the five (5) year period. The delegation of power shall be automatically extended for periods of an identical duration, unless the Government of Kosovo revokes it in accordance with Article 53 of this Law.
+2. As soon as it adopts a delegated act, the Ministry shall notify the Government of Kosovo and publish the act.
+LAW No. 06/L-033 ON CONSTRUCTION PRODUCTS 3. The power to adopt delegated acts is given to the Ministry and is subject to the conditions laid down in Articles 53 and 54 of this Law.

@@ -1,4 +1,0 @@
-# Article 44
-Prohibition the placing on the market of the construction product
-1. If during the monitoring process by competent inspectorate it is verified that the construction product does not meet the conditions prescribed by the provisions of this Law or special regulations, the inspectorate is obliged by a decision to prohibit the placing on the market, distribution and / or installation, regardless that for this product have been applied or are being applied the conformity assessment activities, respectively that the document of conformity has been issued for it.
-2. By the decision referred to in paragraph 1. of this Article, shall be ordered the recall of unused construction product which was not installed in construction works, if it is verified that the product nonconforming and endangers the lives of people and / or the environment.

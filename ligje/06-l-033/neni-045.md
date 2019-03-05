@@ -1,0 +1,3 @@
+# Neni 45
+Koordinimi i trupave të emëruara dhe të notifikuara 1. Ministria kujdeset qe të sigurojë që trupat e emëruara të Kosovës të kenë qasje në grupin e trupave të notifikuara të Bashkimit Evropian, që trupat e emëruara të kenë të drejtë të marrin pjesë në takimin e grupit dhe që t’u jepet qasje në dokumentet e grupit.
+2. Rregullat dhe udhëzimet nga grupi i trupave të notifikuara të Bashkimit Evropian janë detyrimore për trupat e emëruara për qëllime të shënjimit të konformitetit të Kosovës, përveç nëse Ministria me vendim të veçantë ndalon zbatimin e një ose më shumë dokumenteve të tilla në Kosovë.

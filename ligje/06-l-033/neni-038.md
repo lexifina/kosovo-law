@@ -1,0 +1,4 @@
+# Neni 38
+Procedura e emërimit 1. Autoriteti emërues mund të emërojë vetëm trupat të cilat i kanë përmbushur kërkesat e përcaktuara në nenin 33 të këtij ligji.
+2. Autoriteti emërues mund të informojë Komisionin Evropian dhe vendet e tjera për trupat të cilat i emëron sipas kërkesës.
+LIGJI Nr. 06/L-033 PËR PRODUKTE TË NDËRTIMIT 3. Emërimi përmban detaje të plota të detyrave që do të kryhen, referencën ndaj specifikimeve të harmonizuara teknike përkatëse dhe karakteristikat themelore për të cilat është trupi për vlerësimin e konformitetit kompetent, për qëllim të zbatimit të sistemit të përcaktuar me akt nënligjor sipas këtij ligji. Megjithatë, referenca ndaj specifikimit teknik të harmonizuar përkatës nuk është e nevojshme në rastet e emërimit horizontal të përcaktuar me akt nënligjor të këtij ligji.

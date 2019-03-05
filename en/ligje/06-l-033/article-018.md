@@ -1,0 +1,2 @@
+# Article 18
+Cases in which obligations of manufacturers apply to importers and distributors An importer or distributor shall be considered a manufacturer for the purposes of this Law and shall be subject to the obligations of a manufacturer pursuant to Article 14 of this Law, where he places a product on the market under his name or trademark or modifies a construction product already placed on the market in such a way that conformity with the declaration of performance or other proof of conformity may be affected.

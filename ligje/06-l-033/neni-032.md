@@ -1,0 +1,2 @@
+# Neni 32
+Mundësitë e informimit për Kosovën Ministria mund të informoj Komisionin Evropian për procedurat e saj kombëtare për vlerësimin dhe emërimin e trupave të emëruara që do të kryejnë detyra të palëve të treta në procesin e vlerësimit dhe verifikimit të qëndrueshmërisë së performancës dhe monitorimin e trupave të emëruara dhe çdo ndryshim të saj. Ministria mund të informojë edhe vendet e tjera gjithashtu.

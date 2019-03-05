@@ -1,0 +1,4 @@
+# Neni 52
+Ushtrimi i të drejtës për delegim 1. Ministria është kompetente për të miratuar aktet e deleguara sipas nenit 50 të këtij ligji për një periudhë prej pesë (5) vjetësh nga data e hyrjes në fuqi të këtij ligji. Ministria do të përgatisë një raport në lidhje me kompetencën e deleguar të paktën gjashtë (6) muaj para përfundimit të periudhës pesë (5) vjeçare. Delegimi i kompetencës vazhdohet në mënyrë automatike për periudhat me kohëzgjatje identike, përveç nëse Qeveria e Kosovës e revokon atë në përputhje me nenin 53 të këtij ligji.
+LIGJI Nr. 06/L-033 PËR PRODUKTE TË NDËRTIMIT 2. Pasi të miratojë aktin e deleguar, Ministria e njofton Qeverinë e Kosovës dhe e publikon aktin.
+3. Kompetenca për të miratuar aktet e deleguara i është dhënë Ministrisë dhe u nënshtrohet kushteve të përcaktuara në nenet 53 dhe 54 të këtij ligji.

@@ -1,0 +1,3 @@
+# Article 54
+Objections to delegated acts 1. The Government of Kosovo may object to a delegated act within a period of three (3) months from the date of notification. This period can be extended for three (3) months, upon the request of the Government.
+2. If after the expiry of the period referred to in paragraph 1. of this Article, the Government of Kosovo does not object to the delegated act, it shall be published and shall enter into force on the date specified in the document. The delegated act may be published and enter into force before the expiry of that period, if the Government of Kosovo has informed the Ministry that it won’t raise objections.

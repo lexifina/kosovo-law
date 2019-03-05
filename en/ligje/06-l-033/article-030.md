@@ -1,0 +1,5 @@
+# Article 30
+Designating authority 1. Ministry shall be the designating authority responsible for setting up and carrying out the necessary procedures for the assessment and designation of the bodies to be designated to carry out third-party tasks in the process of assessment and verification of constancy of performance for the purposes of this Law, and for the monitoring of designated bodies, including their compliance with Article 33 of this Law.
+2. Ministry may decide that the assessment and monitoring referred to in paragraph 1. of this Article shall be carried out by the General Accreditation Directorate (DAK).
+3. If Ministry delegates or otherwise entrusts the assessment, designation or monitoring referred to in paragraph 1. of this Article to a body which is not a governmental entity that body shall be a legal entity/person and shall comply mutatismutandis with the requirements laid down in Article 31 of this Law. It shall have arrangements to cover liabilities arising from its activities.
+4. Ministry shall take full responsibility for the tasks performed by the body referred to in paragraph 3. of this Article.

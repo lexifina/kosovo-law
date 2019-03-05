@@ -1,0 +1,5 @@
+# Article 35
+Subsidiaries and subcontractors of designated bodies 1. Where an designated body subcontracts specific tasks connected with the third party tasks in the process of assessment and verification of constancy of performance or has recourse to a subsidiary, it shall ensure that the subcontractor or the subsidiary meets the requirements set out in Article 33 of this Law, and shall inform the designating authority accordingly.
+2. The designated body shall take full responsibility for the tasks performed by subcontractors or subsidiaries wherever these are established.
+3. Activities may be subcontracted or carried out by a subsidiary only with the agreement of the client.
+LAW No. 06/L-033 ON CONSTRUCTION PRODUCTS 4. The designated body shall keep at the disposal of the designating authority the relevant documents concerning the assessment of the qualifications of any subcontractor or the subsidiary and the tasks carried out by such parties under the sub-legal act published under this Law.

@@ -1,0 +1,5 @@
+# Neni 30
+Autoriteti emërues 1. Ministria do të jetë autoriteti emërues përgjegjës për vendosjen dhe kryerjen e procedurave të nevojshme për vlerësimin dhe emërmin e trupave që do të jenë të emëruar qe të kryejnë detyrat e palëve të treta në procesin e vlerësimit dhe verifikimit të qëndrueshmërisë së performancës për qëllime të këtij ligji, si dhe për monitorimin e trupave të emëruara, duke përfshirë përputhshmërinë e tyre sipas nenit 33 të këtij ligji.
+2. Ministria mund të vendos që vlerësimi dhe monitorimi i referuar në paragrafin 1 të këtij neni, do të kryhet nga Drejtoria e Përgjithshme e Akreditimit (DAK).
+3. Nëse Ministria delegon ose i beson vlerësimin, emërimin ose monitorimin e përcaktuar në paragrafin 1, një trupi që nuk është entitet qeveritar, ai trup do të jetë një entitet/person juridik dhe duhet të jenë në përputhje mutatis mutandis me kërkesat e përcaktuara në nenin 31 të këtij ligji. Duhet të ketë marrëveshje që të mbuloj detyrimet që dalin nga aktivitetet e tij.
+4. Ministria do të marrë përgjegjësinë e plotë për detyrat e kryera nga trupi i përcaktuar në paragrafin 3 të këtij neni.

@@ -1,0 +1,6 @@
+## CHAPTER II
+## DECLARATION OF PERFORMANCE, “CE” MARKING AND KOSOVO CONFORMITY MARKING
+# Article 5
+Declaration of performance 1. When a construction product is covered by a Kosovo and European harmonised standard or conforms to a European or Kosovo Technical Assessment which has been issued for it, the manufacturer shall draw up a declaration of performance when such a product is placed on the market.
+LAW No. 06/L-033 ON CONSTRUCTION PRODUCTS 2. When a construction product is covered by a harmonised standard or conforms to a European or Kosovo Technical Assessment which has been issued for it, information in any form about its performance in relation to the essential characteristics, as defined in the applicable harmonised technical specification, may be provided only if included and specified in the declaration of performance except where, in accordance with Article 6 of this Law, no declaration of performance has been drawn up.
+3. By drawing up the declaration of performance, the manufacturer shall assume responsibility for the conformity of the construction product with such declared performance. In the absence of objective indications to the contrary, Kosovo authorities shall presume the declaration of performance drawn up by the manufacturer to be accurate and reliable.

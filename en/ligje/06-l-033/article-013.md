@@ -1,0 +1,11 @@
+# Article 13
+Product Contact Point for Construction 1. The Ministry, by decision, shall designate a Product Contact Point for Construction.
+2. The Product Contact Point shall, at the request of, “inter alia”, an economic operator or a competent authority of another country, provide the following information:
+2.1. the technical rules applicable to a specific type of construction product in Kosovo and information as to whether that type of product is subject to a requirement for prior authorisation under the Laws of Kosovo, together with information concerning the principle of mutual recognition and the application of this Law in the territory of Kosovo;
+2.2. the contact details of the competent authorities within Kosovo by means of which they may be contacted directly, including the particulars of the authorities responsible for supervising the implementation of the technical rules in question in the territory of Kosovo;
+LAW No. 06/L-033 ON CONSTRUCTION PRODUCTS 2.3. the remedies generally available in Kosovo in the event of a dispute between the competent authorities and an economic operator.
+3. The Product Contact Point shall respond within fifteen (15) working days of receiving any request as referred to in paragraph 2. of this Article.
+4. The Construction Product Contact Point in Kosovo where the economic operator has lawfully marketed the construction product, shall provide the economic operator or the competent authority with relevant information or observations.
+5. The Product Contact Point shall not charge any fee for the provision of the information referred to in paragraph 2. of this Article.
+6. With regard to the tasks defined in paragraph 2. of this Article, the Ministry shall ensure that the Product Contact Point for Construction provides information, using transparent and easily understandable terms, on the provisions within Kosovo aimed at fulfilling basic requirements for construction works applicable for the intended use of each construction product, as provided for in Article 7, paragraph 3, sub-paragraph 3.5 of this Law.
+7. The Product Contact Point for Construction shall be able to carry out its functions in a manner that avoids conflicts of interest, particularly in respect of the procedures for obtaining the CE marking or Kosovo conformity marking.

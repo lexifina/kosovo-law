@@ -1,0 +1,3 @@
+# Neni 37
+Aplikimi për emërim 1. Një trup për të qenë i emëruar që të kryejë detyra të palës së tretë në procesin e vlerësimit dhe verifikimit të qëndrueshmërisë së performancës, duhet të parashtron kërkesë për emërim tek autoriteti emërues i Kosovës.
+2. Kërkesa duhet të shoqërohet me një përshkrim të aktiviteteve që do të kryhen, procedurat e vlerësimit dhe/ose të verifikimit për të cilat trup pretendon të jetë kompetent dhe certifikatën e akreditimit, të lëshuar nga organi kombëtar i akreditimit (DAK), që vërteton se trupi për vlerësimin e konformitetit i plotëson kërkesat e përcaktuara në nenin 33 të këtij ligji.
