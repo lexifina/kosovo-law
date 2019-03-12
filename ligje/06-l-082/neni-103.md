@@ -1,0 +1,3 @@
+# Neni 103
+Shkelja e dispozitave për ndërlidhjen e sistemeve të dosjeve 1. Personi përgjegjës i organit shtetëror dënohet për kundërvajtje me gjobë prej një mijë (1,000) deri në pesë mijë (5,000) €, i cili ndërlidhë sistemet e dosjeve në kundërshtim me nenin 87 të këtij ligji.
+2. Personi përgjegjës i organit shtetëror dënohet për kundërvajtje me gjobë prej tetëqind (800) deri në dy mijë (2,000) €, nëse ndërlidhë sistemet e dosjeve nga evidenca penale ose evidencat e kundërvajtjeve me sistemet e dosjeve të tjera, ose ndërlidhë sistemet e dosjeve nga evidencat penale me sistemin e dosjeve nga evidenca e kundërvajtjeve sipas nenit 87 të këtij ligji.

@@ -1,0 +1,3 @@
+# Article 55
+Representation of the data subject 1. The data subject shall have the right to mandate a not-for-profit body, organisation or association which has been properly constituted in accordance with the law in force, as statutory objectives which are in the public interest, and is active in the field of the protection of data subjects’ rights and freedoms with regard to the protection of their personal data to lodge the complaint on his or her behalf, to exercise the rights referred to in Articles 53, 54 and 55 of this Law on his or her behalf, and to exercise the right to receive compensation referred to in Article 56 of this Law on his or her behalf.
+2. The authorization for the representative must be given in writing and certified by the competent body.

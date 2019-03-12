@@ -1,0 +1,8 @@
+# Neni 60
+Procedura e përzgjedhjes së Komisionerit 1. Komisioneri zgjedhet nga Kuvendi i Kosovës me shumicën e votave të të gjithë deputetëve të tij, për një mandat pesë (5) vjeçar, me mundësi rizgjedhjeje edhe për një mandat shtesë.
+2. Procedura për zgjedhje fillon me shpalljen e konkursit publik për zgjedhjen e Komisionerit, i cili publikohet në mediumet e shkruara dhe elektronike.
+3. Në konkurs caktohen kriteret për përzgjedhjen e komisionerit, të parapara me këtë ligj. Afati i kohëzgjatjes së konkursit nuk mund të jetë më i shkurtë se pesëmbëdhjetë (15) e as më i gjatë se njëzetë (20) ditë.
+4. Pas skadimit të afatit të paraparë në paragrafin 3. të këtij neni, paneli përzgjedhës, i caktuar nga komisioni parlamentar për siguri i Kuvendit të Republikës së Kosovës, brenda afatit prej pesëmbëdhjetë (15) ditësh, vlerëson nëse kandidatët i plotësojnë kushtet për t’u zgjedhur komisioner.
+5. Paneli përzgjedhës zhvillon intervistë me secilin kandidat, i cili plotëson kushtet për t’u zgjedhur komisioner dhe në bazë të të dhënave të paraqitura dhe rezultateve të intervistës, përgatitë listën e ngushtë të kandidatëve të kualifikuar për votim nga Kuvendi i Kosovës.
+6. Lista e ngushtë përmban tre (3) kandidatë, përveç në rastin kur brenda numrit tre (3), ka më shumë kandidatë me pikë të barabarta vlerësuese. Paneli përzgjedhës, listën e kandidatëve ia dorëzon komisionit, i cili, listën e ngushtë ia propozon Kuvendit të Kosovës. Propozimi i komisionit përmban arsyetimin përse paneli u ka dhënë përparësi disa kandidatëve, në krahasim me kandidatët tjerë.
+7. Në rast të përfundimit të mandatit, Komisioneri ushtron funksionin e tij deri në zgjedhjen e komisionerit të ri.

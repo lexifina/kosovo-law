@@ -1,0 +1,2 @@
+# Neni 51
+Njohja dhe zbatimi i kërkesave të vendeve të treta për transfer Aktgjykimet gjyqësore dhe çdo vendim i autoriteteve administrative të vendeve të treta që kërkojnë nga kontrolluesit apo përpunuesit transferimin apo zbulimin e të dhënave personale, mund të njihen apo të zbatohen vetëm bazuar në marrëveshjen ndërkombëtare ndërmjet vendit të tretë që bën kërkesën dhe Republikës së Kosovës, pa paragjykim ndaj arsyeve për transfer sipas këtij ligji.

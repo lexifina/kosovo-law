@@ -1,0 +1,3 @@
+# Neni 81
+Përdorimi i karakteristikave biometrike në sektorin publik 1. Sektori publik mund të përdorë karakteristikat biometrike, vetëm nëse domosdoshmërisht kërkohet për sigurinë e njerëzve, sigurimin e pronës ose mbrojtjen e të dhënave konfidenciale dhe sekreteve të biznesit, nëse kjo nuk mund të arrihet me mjete më të lehta.
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE 2. Pavarësisht nga paragrafi 1. i këtij neni, përdorimi i karakteristikave biometrike mund të lejohet në pajtim me obligimet që dalin nga marrëveshjet ndërkombëtare detyruese ose për identifikimin e personave që kalojnë kufirin shtetëror.

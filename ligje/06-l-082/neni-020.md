@@ -1,0 +1,9 @@
+## KREU VI
+## E DREJTA PËR TË KUNDËRSHTUAR DHE VENDIMMARRJA INDIVIDUALE AUTOMATIKE
+# Neni 20
+E drejta për të kundërshtuar 1. Subjekti i të dhënave ka të drejtën që në çdo kohë të kundërshtojë përpunimin e të dhënave personale në lidhje me të, për shkak të një situate personale të veçantë, nëse bazohet në nenin 5 paragrafin 1., nën-paragrafin 1.6. ose 1.5. të këtij ligji duke përfshirë profilizimin e bazuar në këto dispozita. Kontrolluesi nuk vazhdon të përpunojë të dhëna personale, përveç kur kontrolluesi demonstron shkaqe detyruese legjitime për përpunimin që mbizotërojnë mbi interesat, të drejtat dhe liritë e subjektit të të dhënave për ngritjen, ushtrimin ose mbrojtjen e pretendimeve ligjore.
+2. Nëse të dhënat personale përpunohen për qëllime të drejtpërdrejta marketingu, subjekti i të dhënave, në çdo kohë, ka të drejtën të kundërshtojë përpunimin e të dhënave personale në lidhje me të për këtë marketing, që përfshinë profilizimin në masën që ai lidhet me këtë marketing.
+3. Nëse subjekti i të dhënave kundërshton përpunimin për qëllime të drejtpërdrejta marketingu, të dhënat personale nuk vazhdojnë të përpunohen për këto qëllime.
+4. Jo më vonë se në momentin e komunikimit të parë me subjektin e të dhënave, e drejta e referuar në paragrafët 1. dhe 2.të këtij neni, sillet shprehimisht në vëmendjen e subjektit të të dhënave dhe i paraqitet qartazi dhe veçmas nga çdo informacion tjetër.
+5. Nëse të dhënat personale përpunohen për qëllime të kërkimeve shkencore ose historike, ose për qëllime statistikore, subjekti i të dhënave, për shkaqe që lidhen me gjendjen e tij ose të veçantë, ka të drejtën të kundërshtojë përpunimin e të dhënave personale në lidhje me të, përveç kur përpunimi është i nevojshëm për përmbushjen e një detyre të kryer për shkaqe të interesit publik.
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE

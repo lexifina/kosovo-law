@@ -1,0 +1,5 @@
+# Article 94
+Violation of the provisions on security of personal data 1. A fine of eight thousand (8,000) to forty thousand (40,000) € shall be imposed for a minor offence on a legal person or on the person who practices an independent activity, if he or she fails during the processing of personal data to ensure an adequate level of security for the protection of personal data according to article 31 of this law.
+2. A fine of one thousand (1,000) to four thousand (4,000) € shall be imposed for a minor offence on the responsible person of the legal person or on the person who practices an independent activity who commits an act from paragraph 1 of this Article.
+3. A fine of one thousand (1,000) to eight thousand (8,000) € shall be imposed for a minor offence on the responsible person of a state body who commits an act from paragraph 1 of this article.
+4. A fine of one thousand (1,000) to two thousand (2,000) € shall be imposed on an individual who commits an act from the paragraph 1 of this Article.

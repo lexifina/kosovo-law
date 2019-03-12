@@ -1,0 +1,2 @@
+# Article 51
+Recognition and implementation of third party claims for transfer Judgements and any decision of a third country administrative authorities requiring transfer or disclosure of personal data by controllers or processors, can only be recognized or implemented based on the international agreement between the third country submitting the request and the Republic of Kosovo, without prejudice to the reasons for transfer under this Law.

@@ -1,0 +1,3 @@
+# Neni 74
+E drejta për kundërshtim 1. Subjekti i të dhënave, në çdo kohë mund të kërkojë me shkrim që kontrolluesit e të dhënave të ndërpresin në mënyrë të përhershme ose të përkohshme përdorimin e të dhënave personale të tij ose të saj për qëllime të marketingut të drejtpërdrejtë. Brenda tetë (8) ditëve pas pranimit të kundërshtimit nga subjekti i të dhënave, kontrolluesit e të dhënave duhen të ndalojnë përdorimin e të dhënave personale për qëllime të marketingut të drejtpërdrejtë dhe brenda pesë (5) ditëve pasuese ata duhet të informojnë me shkrim subjektin e të dhënave për aprovimin e kërkesës së tyre.
+2. Shpenzimet për veprimet e kontrolluesit të të dhënave në lidhje me kërkesën nga paragrafi 1 i këtij neni i bartë kontrolluesi i të dhënave.

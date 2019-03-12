@@ -1,6 +1,0 @@
-# Article 9
-Processing for historical, statistical and scientific-research purposes
-1. Irrespective of the initial purpose of collection, personal data may be further processed for historical, statistical and scientific-research purposes.
-2. If personal data are further processed for purposes mentioned under paragraph 1 of this Article they shall be anonymized unless otherwise provided by law or if the data subject has given his or her prior written consent.
-3. Personal data disclosed to data recipients in accordance with paragraph 2 of this Article shall on completion of processing be destroyed or deleted, unless otherwise provided by law. Following the destruction or deletion the data recipient shall without delay inform in writing the data controller who disclosed the data about when and how the data were destroyed or deleted.
-4. The results of processing from paragraph 1 of this Article, shall be published in anonymised form, unless otherwise provided by law, unless the data subject has given his or her prior written consent for the publication in a non-anonymised form or unless the prior written consent for such publication has been given by the legal heirs of the deceased individual under this Law.

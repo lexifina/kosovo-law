@@ -1,0 +1,5 @@
+# Neni 25
+Kontrolluesit e përbashkët 1. Nëse dy (2) ose më shumë kontrollues përcaktojnë së bashku qëllimet dhe mjetet e përpunimit, ata quhen kontrollues të përbashkët. Ata përcaktojnë, në një mënyrë transparente,
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE përgjegjësitë e tyre përkatëse për përputhshmërinë me detyrimet sipas ligjit, veçanërisht në lidhje me ushtrimin e të drejtave të subjekteve të të dhënave dhe detyrat e tyre përkatëse për të dhënë informacionin e referuar në nenet 12 dhe 13 të këtij ligji, nëpërmjet një mase ndërmjet tyre. Masa mund të përcaktojë një pikë kontakti për subjektet e të dhënave.
+2. Masa e referuar në paragrafin 1. të këtij neni pasqyron rolet dhe raportet e kontrolluesve të përbashkët kundrejt subjekteve të të dhënave. Thelbi i masës i bëhet e ditur subjektit të të dhënave.
+3. Pavarësisht nga kushtet e masës së përmendur në paragrafin 1.të këtij neni, subjekti i të dhënave mund të ushtrojë të drejtat e tij ose të saj sipas këtij ligji në lidhje me dhe kundër çdo kontrolluesi.

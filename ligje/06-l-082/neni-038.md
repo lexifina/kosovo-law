@@ -1,0 +1,7 @@
+# Neni 38
+Pozicioni i zyrtarit për mbrojtjen e të dhënave 1. Kontrolluesi dhe përpunuesi garantojnë që zyrtari për mbrojtjen e të dhënave përfshihet në mënyrën dhe kohën e duhur, në të gjitha çështjet që kanë të bëjnë me mbrojtjen e të dhënave personale.
+2. Kontrolluesi dhe përpunuesi mbështetë zyrtarin për mbrojtjen e të dhënave në përmbushjen e detyrave të referuara në nenin 39 të këtij ligji duke parashikuar masat e nevojshme për të kryer ato detyra dhe pë t’u qasur në veprimet e përpunimit të të dhënave personale dhe për të mbajtur ekspertizën e vet.
+3. Kontrolluesi dhe përpunuesi garantojnë që zyrtari për mbrojtjen e të dhënave nuk merr udhëzime në lidhje me ushtrimin e këtyre detyrave. Ai ose ajo nuk pushohet apo penalizohet nga kontrolluesi ose përpunuesi për përmbushjen e detyrave të tij. Zyrtari për mbrojtjen e të dhënave raporton drejtpërdrejt në nivelin më të lartë menaxhues të kontrolluesit ose përpunuesit.
+4. Subjektet e të dhënave mund të kontaktojnë zyrtarin për mbrojtjen e të dhënave në lidhje me çështjet që i takojnë përpunimit të të dhënave të tyre personale dhe për ushtrimin e të drejtave të tyre sipas këtij ligji.
+5. Zyrtari për mbrojtjen e të dhënave i nënshtrohet fshehtësisë ose konfidencialitetit në lidhje me përmbushjen e detyrave të tij ose të saj.
+6. Zyrtari për mbrojtjen e të dhënave mund të përmbushë detyra të tjera. Kontrolluesi ose përpunuesi garantojnë që çdo detyrë tjetër e tillë nuk rezulton në konflikt interesash.

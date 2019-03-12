@@ -1,0 +1,4 @@
+# Article 95
+Violation of the provisions on direct marketing 1. A fine of four thousand (4,000) up to ten thousand (10,000) € shall be imposed for a minor offence on a legal person or a person who practices an independent activity, if in accordance with this law he processes personal data for the purposes of direct marketing and does not act in accordance with articles 73 or 74 of this law.
+2. A fine of eight hundred (800) to two thousand (2,000) € shall be imposed for a minor offence on the responsible person of the legal person or on a person practicing an independent activity who commits an act from paragraph 1 of this article.
+3. A fine of four hundred (400) to one thousand (1,000) € shall be imposed for a minor offence on an individual who commits an act from paragraph 1 of this article.

@@ -1,0 +1,3 @@
+# Article 89
+Personal data from previous institutions 1. If, prior to 12 June 1999, personal data have been stored from previous institutions mainly for self-assigned administrative tasks to be performed by authorities, institutions and other public state bodies, from the socialist republics, communities, associations of local authorities, or other public bodies, whereby the right to such data shall be bared by the carriers of public administration for administrative duties.
+2. Previous institutions, as defined in paragraph 1 of this Article, are former state bodies or economically active bodies, collective combines, operations or commercial objects, as well as social organizations of the former Social Federative Republic of Yugoslavia.

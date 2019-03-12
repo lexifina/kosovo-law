@@ -1,0 +1,2 @@
+# Article 9
+Processing of personal data relating to the criminal convictions and offences Processing of personal data relating to criminal convictions and offences or related security measures based on Article 5 paragraph 1 of this Law shall be carried out only under the control of official authority according to the relevant law. Any comprehensive register of criminal convictions shall be kept only under the control of official authority.

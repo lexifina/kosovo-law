@@ -1,0 +1,1 @@
+LAW NO. 06/L –082 ON PROTECTION OF PERSONAL DATA LAW NO. 06/L –082 ON PROTECTION OF PERSONAL DATA Assembly of the Republic of Kosovo, Based on Article 65 (1) of the Constitution of the Republic of Kosovo, Adopts LAW ON PROTECTION OF PERSONAL DATA

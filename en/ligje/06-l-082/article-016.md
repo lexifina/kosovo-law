@@ -1,0 +1,14 @@
+# Article 16
+Right to erasure (‘right to be forgotten’) 1. The data subject shall have the right to obtain from the controller the erasure of personal data concerning him or her without undue delay and the controller shall have the obligation to erase personal data without undue delay where one of the following grounds applies:
+1.1. the personal data are no longer necessary in relation to the purposes for which they were collected or otherwise processed;
+1.2. the data subject withdraws consent on which the processing is based according to Article 5 paragraph 1, sub-paragraph 1.1 of this Law or Article 8 paragraph 2, sub- paragraph 2.1 of this Law and where there is no other legal ground for the processing;
+LAW NO. 06/L –082 ON PROTECTION OF PERSONAL DATA 1.3. the data subject objects the processing pursuant to Article 20 paragraph 1 of this Law and there are no overriding legitimate grounds for the processing, or the data subject objects to the processing pursuant to article 20 paragraph 2 of this Law;
+1.4. the personal data have been unlawfully processed;
+1.5. the personal data have to be erased for compliance with a legal obligation to which the controller is subject;
+1.6. the personal data have been collected in relation to the offer of the services of information society referred to in Article 7 paragraph 1 of this Law.
+2. Where the controller has made the personal data public and is obliged pursuant to paragraph 1 of this Article to erase the personal data, the controller, taking account of available technology and the cost of implementation, shall take reasonable steps, including technical measures, to inform controllers which are processing the personal data that the data subject has requested the erasure by such controllers of any links to, or copy or replication of, those personal data.
+3. Paragraphs 1 and 2 of this Article shall not apply to the extent that processing is necessary:
+3.1. for exercising the right of freedom of expression and information;
+3.2. for compliance with a legal obligation which requires processing to which the controller is subject or for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller;
+3.3. for reasons of public interest in the area of public health in accordance with Article 8 paragraph 2, sub-paragraphs 2.8, 2.9 and paragraph 3 of this Law;
+3.4. for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes in accordance with article 8, paragraph 3 of this Law in so far as the right referred to in paragraph 1 of this Article is likely to render impossible or seriously impair the achievement of the objectives of that processing; or 3.5. for the establishment, exercise or defence of legal claims.

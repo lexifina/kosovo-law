@@ -1,0 +1,5 @@
+# Neni 6
+Kushtet për pëlqim 1. Nëse përpunimi bazohet në pëlqim, kontrolluesi duhet të jenë në gjendje të dëshmojë, që subjekti i të dhënave ka dhënë pëlqimin për përpunimin e të dhënave të tij personale.
+2. Nëse pëlqimi i subjektit të të dhënave jepet në formë të deklaratës me shkrim, e cila ka të bëjë edhe me çështje të tjera, kërkesa për pëlqim duhet të paraqitet në një mënyrë që është qartësisht e dallueshme nga çështjet e tjera, në një formë të kuptueshme dhe lehtësisht të qasshme, duke përdorur gjuhë të qartë dhe të thjeshtë.
+3. Subjekti i të dhënave ka të drejtën të tërheqë pëlqimin e tij në çdo kohë. Tërheqja e pëlqimit nuk ndikon në ligjshmërinë e përpunimit, bazuar në pëlqim para tërheqjes dhe subjekti i të dhënave njoftohet për këtë. Tërheqja duhet të bëhet në të njëjtën mënyrë si edhe vetë dhënia e pëlqimit.
+4. Gjatë vlerësimit, nëse pëlqimi është dhënë me vullnet të lirë, mbi të gjitha, duhet marrë parasysh nëse, përveç të tjerash, zbatimi i kontratës, përfshirë dispozitën e një shërbimi, kushtëzohet me pëlqimin e përpunimit të të dhënave personale që nuk është e domosdoshme për zbatimin e asaj kontrate.

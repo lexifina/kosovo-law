@@ -1,0 +1,11 @@
+# Article 65
+Cooperation with other bodies 1. The Agency shall cooperate with governmental and international institutions, other EU bodies, regarding issues considered important for access to public documents and personal data protection;
+2. In particular, the Agency shall apply measures for effective cooperation with supervisory authorities of other countries and international organizations and provides relevant information and mutual assistance in accordance with the applicable law. Mutual assistance covers, in particular, requests for information and supervisory measures, such as requests for carrying out authorizations and consultations, prior inspections and investigations.
+3. The Agency, without any delay and not later than one (1) month after the receipt of the request shall take all necessary measures required to respond the request of another supervisory authority. Such measures may include, in particular, transmitting relevant information for conducting investigations.
+4. Requests for assistance contain all necessary information, including the purpose and reasons of the request. The exchanged information shall be used only for the purpose for which it has been requested.
+5. The Agency shall not reject completion of the request, unless:
+5.1. it is not competent for the object of the request or for the measures required to execute; or 5.2. the action upon request would violate this law or other applicable laws.
+6. The Agency informs the requesting supervisory authority about the results or when appropriate, on the progress of measures taken to respond the request. The Agency provides reasons for rejecting the request in accordance with paragraph 4 of this Article.
+7. The Agency, as a rule, shall provide the information requested by other supervisory authorities by electronic means by using a standardized format.
+8. The Agency shall not require any payment for actions taken based on mutual assistance requests in terms of reciprocity.
+9. The Agency shall carry out joint operations, when appropriate and in compliance with the law in force, including joint investigations and measures of enforcement where members or the staff of other countries’ or international organizations supervisory authorities is included.

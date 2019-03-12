@@ -1,8 +1,0 @@
-# Article 24
-Right to supplement, correct, block, destroy, erase, delete and object
-1. At the data subject’s request the data controller must supplement, correct, block, destroy, delete or erase personal data which the data subject proves as being incomplete, inaccurate or not up to date, or if they were collected or processed contrary to law.
-2. At the data subject’s request the data controller must immediately inform all data recipients and data processors to whom personal data were disclosed about the measures taken according to paragraph 1 of this Article. The data controller is not obliged to do this if this would incur large costs.
-3. Data subjects whose personal data are processed in accordance with sub-paragraphs 1.5 and 1.6 of Article 5 of this Law shall have the right to object at any time to the processing of their data. The data controller shall accept the objection if the data subject demonstrates that the conditions for processing have not been fulfilled pursuant to sub-paragraphs 1.5 and 1.6 of Article 5 of this Law. In this case the personal data of the data subject may no longer be processed.
-4. If the data controller does not accept the objection from paragraph 3 of this Article, the data subject may ask the Agency to decide on whether the processing is in accordance with sub-paragraphs 1.5 and 1.6 of Article 5 of this Law. The data subject may lodge such request within fifteen (15) days upon receipt of the data controller’s objection.
-5. The Agency shall decide on requests from paragraph 4 of this Article within two (2) months upon receipt. The lodging of the request shall suspend the processing of the personal data.
-6. Costs for measures from paragraph 5 of this Article shall be borne by the data controller.

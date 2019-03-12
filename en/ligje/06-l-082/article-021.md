@@ -1,0 +1,7 @@
+# Article 21
+Automated individual decision making, including profiling 1. The data subject shall have the right not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning him or her or similarly significantly affects him or her.
+2. Paragraph 1 shall not apply if the decision:
+2.1. is necessary for entering into, or performance of, a contract between the data subject and a data controller;
+2.2. is authorised by a specific law to which the controller is subject and which also lays down suitable measures to safeguard the data subject’s rights and freedoms and legitimate interests; or 2.3. Is based on the data subject’s explicit consent.
+3. In the cases referred to in paragraph 2 sub-paragraph 2.1 and 2.3 of this Article, the data controller shall implement suitable measures to safeguard the data subject’s rights and freedoms and legitimate interests, at least the right to obtain human intervention on the part of the controller, to express his or her point of view and to contest the decision.
+4. Decisions referred to in paragraph 2 of this Article shall not be based on special categories of personal data referred to in Article 8 paragraph 1 of this Law, unless sub-paragraph 2.1 or 2.7 of Article 8 of this Law applies and suitable measures to safeguard the data subject’s rights and freedoms and legitimate interests are in place.

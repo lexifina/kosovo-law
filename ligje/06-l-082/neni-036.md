@@ -1,0 +1,11 @@
+# Neni 36
+Konsultimi paraprak 1. Kontrolluesi konsultohet me Agjencinë para përpunimit, nëse vlerësimi i ndikimit mbi mbrojtjen e të dhënave, sipas nenit 35 të këtij ligji, tregon që përpunimi do të rezultonte në një rrezik të lartë në mungesë të masave të marra nga kontrolluesi për të zbutur rrezikun.
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE 2. Nëse Agjencia është e mendimit që përpunimi i synuar, i referuar në paragrafin 1. të këtij neni, do të shkelte këtë ligj, veçanërisht nëse kontrolluesi ka identifikuar ose zbutur rrezikun në masë të pamjaftueshme, Agjencia, brenda një afati deri në tetë (8) javë nga marrja e kërkesës për konsultim, i paraqet kontrolluesit këshillë me shkrim dhe nëse zbatohet për përpunuesin mund të përdorë një prej kompetencave të përmendura në nenin 64 të këtij ligji. Ky afat mund të zgjatet gjashtë (6) javë, duke marrë parasysh kompleksitetin e përpunimit të synuar. Agjencia informon kontrolluesin dhe, sipas rastit, përpunuesin, për çdo zgjatje të tillë brenda një (1) muaji nga marrja e kërkesës për konsultime së bashku me shkaqet e vonesës. Këto afate mund të pezullohen derisa Agjencia të ketë përfituar informacionin që ai ka kërkuar për qëllimet e konsultimeve.
+3. Gjatë konsultimit me Agjencinë, në pajtim me paragrafin 1. të këtij neni, kontrolluesi i paraqet Agjencisë:
+3.1. sipas rastit, përgjegjësitë përkatëse të kontrolluesit, kontrolluesit të përbashkët dhe përpunuesve të përfshirë në përpunim, veçanërisht për përpunimin brenda një grupi ndërmarrjesh;
+3.2. qëllimet dhe mjetet e përpunimit të synuar;
+3.3. masat dhe garancitë e parashikuara për të mbrojtur të drejtat dhe liritë e subjekteve të të dhënave në pajtim me këtë ligj;
+3.4. sipas rastit, hollësitë e kontaktit për zyrtarin e mbrojtjes së të dhënave;
+3.5. vlerësimin e ndikimit të mbrojtjes së të dhënave, të parashikuar në nenin 35 të këtij ligji, dhe;
+3.6. çdo informacion tjetër të kërkuar nga Agjencia.
+4. Pavarësisht paragrafit 1.të këtij neni, Agjencia mund të kërkojë që kontrolluesit të konsultohen dhe të marrin autorizim paraprak në lidhje me përpunimin nga një kontrollues për kryerjen e një detyre që përmbushet nga kontrolluesi në interes publik, duke përfshirë përpunimin në lidhje me mbrojtjen sociale dhe shëndetin publik.

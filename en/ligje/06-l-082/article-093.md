@@ -1,0 +1,5 @@
+# Article 93
+Violation of the provisions on contractual processing 1. A fine of between twenty thousand (20,000) to forty thousand (40,000) € shall be imposed for a minor offence on a legal person or a person who practices an independent activity, if he oversteps the authorization contained in the contract from paragraph 2 of Article 32 of this Law or does not return personal data in accordance with paragraph 4 of Article 32 of this Law.
+LAW NO. 06/L –082 ON PROTECTION OF PERSONAL DATA 2. A fine of one thousand (1,000) to four thousand (4,000) € shall be imposed on the responsible person of the legal person or on the person who practices an independent activity for violations from paragraph 1 of this Article.
+3. A fine between five hundred (500) € to two thousand (2,000) € shall be imposed for a minor offence on the responsible person of a state body who commits an act from paragraph 1 of this Article.
+4. A fine of between two hundred (200) and eight hundred (800) € shall be imposed on an individual who commits an act from paragraph 1 of this Article.

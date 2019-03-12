@@ -1,0 +1,3 @@
+# Article 103
+Violation of the provisions on linking filing systems 1. A fine of one thousand (1,000) to five thousand (5,000) € shall be imposed for a minor offence on the responsible person of a state body, who links filing systems in contravention of article 87 of this law.
+2. A fine of eight hundred (800) to two thousand (2,000) € shall be imposed for a minor offence on the responsible person of a state body who links filing systems from criminal records or minor offence records with other filing systems, or links filing systems from criminal records with filing systems from records on minor offences according to article 87 of this law.

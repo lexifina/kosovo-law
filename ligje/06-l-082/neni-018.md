@@ -1,0 +1,2 @@
+# Neni 18
+Detyrimi i njoftimit në lidhje me korrigjimin ose fshirjen e të dhënave personale ose kufizimin e përpunimit Kontrolluesi komunikon çdo korrigjim ose fshirje të të dhënave personale ose kufizim të përpunimit të kryer, në pajtim me nenin 15, nenin 16 paragrafi 1. dhe nenin 17, të këtij ligji për çdo marrës, të cilit i janë deklaruar të dhënat personale, përveç kur kjo duket e pamundur ose lidhet me përpjekje joproporcionale. Kontrolluesi njofton subjektin e të dhënave në lidhje me këta marrës, nëse subjekti i të dhënave e kërkon këtë.

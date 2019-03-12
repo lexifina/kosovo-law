@@ -1,0 +1,4 @@
+# Neni 89
+Të dhënat personale nga institucionet e mëparshme 1. Nëse, para 12 qershorit 1999, të dhënat personale janë ruajtur nga institucionet e mëparshme,
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE kryesisht për detyrat administrative të vetcaktuara, të cilat duhej të kryheshin nga autoritetet, institucionet dhe organet e tjera publike të shtetit, nga republikat socialiste, komunitetet, shoqatat e autoriteteve lokale, apo organet e tjera publike, të drejtën për këto të dhëna e kanë bartësit e administratës publike, përgjegjëse për detyrat administrative.
+2. Institucionet e mëparshme, siç përkufizohet me paragrafin 1., të këtij neni, janë ish-organet e shtetit apo organet ekonomikisht aktive, kombinatet kolektive, operacionet apo objektet komerciale, si dhe organizatat shoqërore të ish-Republikës Socialiste Federative të Jugosllavisë.

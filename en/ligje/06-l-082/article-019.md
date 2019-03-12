@@ -1,0 +1,6 @@
+# Article 19
+Right to data portability 1. The data subject shall have the right to receive the personal data concerning him or her, which he or she has provided to a controller, in a structured, commonly used and machine-readable format and have the right to transmit those data to another controller without hindrance from the controller to which the personal data have been provided, where:
+1.1. the processing is based on a consent, pursuant to Article 5 sub-paragraph 1.1 or on a contract pursuant to Article 6 paragraph 1 and 2 or Article 8 sub-paragraph 2.1 of this Law; and 1.2. the processing is carried out by automated means.
+2. In exercising his or her right to data portability pursuant to paragraph 1 of this Article, the data subject shall have the right to have the personal data transmitted directly from one controller to another, where technically feasible.
+3. The exercise of the right referred to in paragraph 1 of this Article shall be without prejudice to article 16. That right shall not apply to processing necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller.
+4. The right referred to in paragraph 1 of this Article shall not adversely affect the rights and freedoms of others.

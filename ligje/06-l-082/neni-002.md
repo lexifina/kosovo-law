@@ -1,0 +1,4 @@
+# Neni 2
+Fushëveprimi 1. Ky ligj zbatohet për përpunimin e të dhënave personale nga organet publike dhe private. Ky ligj nuk zbatohet për përpunimin e të dhënave personale nëse përpunimi kryhet për qëllime krejtësisht personale.
+2. Ky ligj zbatohet edhe në zyrat diplomatike dhe konsullore, si dhe në të gjitha përfaqësitë e tjera zyrtare të Republikës së Kosovës jashtë shtetit.
+3. Ky ligj zbatohet edhe për kontrolluesit e të dhënave, të cilët nuk janë të themeluar në Republikën e Kosovës, por që për qëllime të përpunimit të të dhënave personale, përdorin pajisje automatike ose të tjera në Republikën e Kosovës, përveç nëse pajisjet e këtilla përdoren vetëm për qëllime të tranzitit nëpër territorin e Kosovës. Në këto rrethana, kontrolluesit duhet të caktojnë një përfaqësues të regjistruar në Kosovë.

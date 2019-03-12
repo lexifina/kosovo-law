@@ -1,8 +1,0 @@
-# Neni 68
-Përdorimi i karakteristikave biometrike në sektorin privat
-1. Sektori privat mund të përdorë karakteristikat biometrike vetëm nëse kjo është e domosdoshme për kryerjen e aktiviteteve për sigurinë e njerëzve, për sigurimin e pronës ose për mbrojtje të të dhënave konfidenciale ose sekreteve të biznesit. Të punësuarit duhet të informohen paraprakisht në formë të shkruar për përdorimin e karakteristikave të tyre biometrike, rreth masave që do të merren dhe të drejtat e tyre.
-2. Nëse nuk është paraparë ndryshe me ligj përkatës, kontrolluesi i të dhënave duhet që para marrjes së masave për përdorimin e karakteristikave biometrike t’i ofrojë Agjencisë përshkrimin e detajuar për masat që do të merren duke përfshirë informacionet që do t’i jepen subjektit të të dhënave, arsyet për marrjen e masave dhe masat mbrojtëse për mbrojtjen e të dhënave personale.
-3. Pas marrjes së informacionit nga paragrafi 2 i këtij neni, Agjencia brenda tridhjetë (30) ditësh duhet të vendosë nëse informacioni i marrë lidhur me masat është në pajtim me dispozitat e këtij ligji.
-4. Kontrolluesit e të dhënave mund të zbatojnë masat për përdorimin e karakteristikave biometrike, pas marrjes së autorizimit nga Agjencia.
-5. Kundër vendimit nga paragrafi 3 i këtij neni nuk lejohet ankesa, por mund të hapet konflikti administrativ në gjykatën kompetente.
-Nën-kreu L Regjistrimet e hyrjes dhe daljes nga ndërtesat

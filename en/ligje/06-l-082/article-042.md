@@ -1,0 +1,10 @@
+# Article 42
+Monitoring of approved Codes of Conduct 1. Without prejudice to the tasks and powers of the Agency under Articles 57, 64 and 65 of this Law, the monitoring of compliance with a code of conduct may be carried out by a body which has an appropriate level of expertise in relation to the subject-matter of the code and is accredited for that purpose by the Agency.
+2. A body as referred to in paragraph 1 of this Article may be accredited to monitor compliance with a code of conduct where that body has:
+2.1. demonstrated its independence and expertise in relation to the subject-matter of the code acceptable by the Agency;
+2.2. established procedures which allow it to assess the eligibility of controllers and processors concerned to apply the code, to monitor their compliance with its provisions and to periodically review its operation;
+2.3. established procedures and structures to handle complaints about infringements of the code or the manner in which the code has been, or is being, implemented by a controller or processor, and to make those procedures and structures transparent to data subjects and the public; and 2.4. demonstrated to the Agency that its tasks and duties do not result in a conflict of interests.
+LAW NO. 06/L –082 ON PROTECTION OF PERSONAL DATA 3. The Agency shall submit the criteria for accreditation of a body as referred to in paragraph 1 of this Article.
+4. Without prejudice to the tasks and powers of the Agency a body as referred to in paragraph 1 of this Article shall, subject to appropriate safeguards, take appropriate action in cases of infringement of the code by a controller or processor, including suspension or exclusion of the controller or processor concerned from the code. It shall inform the Agency of such actions and the reasons for taking them.
+5. The Agency shall revoke the accreditation of a body as referred to in paragraph 1 of this Article if the conditions for accreditation are not, or are no longer, met or where actions taken by the body infringe this law.
+6. This article shall not apply to processing carried out by public authorities and bodies.

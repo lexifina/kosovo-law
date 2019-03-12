@@ -1,0 +1,1 @@
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE Kuvendi i Republikës së Kosovës, Në mbështetje të nenit 65 (1) të Kushtetutës së Republikës së Kosovës, Miraton: LIGJ PËR MBROJTJEN E TË DHËNAVE PERSONALE

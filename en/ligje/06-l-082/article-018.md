@@ -1,0 +1,2 @@
+# Article 18
+Notification obligation regarding rectification or erasure of personal data or restriction of processing The controller shall communicate any rectification or erasure of personal data or restriction of processing carried out in accordance with Article 15, Article 16 paragraph 1 and Article 17 of this Law to each recipient to whom the personal data have been disclosed, unless this proves impossible or involves disproportionate effort. The controller shall inform the data subject about those recipients if the data subject requests it.

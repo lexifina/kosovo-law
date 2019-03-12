@@ -1,0 +1,6 @@
+# Article 83
+Use of biometric features in the private sector 1. The private sector may only use biometric features if this is necessarily required for the performance of activities for the safety of people, the security of property or the protection of confidential data or business secrets. Employees must be informed in writing prior to the use of their biometric characteristics, about the intended measures and their rights.
+2. If not otherwise provided by relevant law, the data controller shall prior to the introduction of measures using biometrics provide the Agency with a detailed description of the intended measures including the information to be given to data subjects, the reasons for their introduction and the safeguards for protection of personal data.
+3. Upon receipt of the information from paragraph 2 of this Article, the Agency shall decide within thirty (30) days whether the intended introduction of measures complies with the provisions of this Law.
+4. Data controllers may implement measures using biometrics upon the receipt of an authorization from the Agency.
+LAW NO. 06/L –082 ON PROTECTION OF PERSONAL DATA 5. No appeal against the decision from paragraph 3 of this Article is allowed, but an administrative dispute may be initiated in the competent court.
