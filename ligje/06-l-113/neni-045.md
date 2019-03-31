@@ -1,0 +1,3 @@
+# Neni 45
+Detyrimi i bashkëpunimit dhe shkëmbimit reciprok të informacionit 1. Çdo institucion, organ apo autoritet tjetër, që ushtron pushtet legjitim në Republikën e Kosovës, është i detyruar të bashkëpunojë dhe t’u përgjigjet kërkesave të agjencive të pavarura gjatë ushtrimit të kompetencave të tyre ligjore, në pajtim me ligjin.
+2. Në ushtrimin e autorizimeve të tyre ligjore, institucionet e administratës shtetërore dhe agjencitë e pavarura janë të obliguara të shkëmbejnë informacionin e nevojshëm në kuadër të veprimtarisë së tyre. NËNKAPITULLI 4 EMËRIMI DHE LIRIMI I TITULLARIT APO ANËTARIT TË ORGANIT DREJTUES TË AGJENCISË SË PAVARUR

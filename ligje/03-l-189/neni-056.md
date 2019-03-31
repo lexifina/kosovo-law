@@ -1,3 +1,0 @@
-# Neni 56
-Bashkëpunimi i organeve të administratës me qytetarët
-Organet e administratës shtetërore janë të detyruara, që qytetarëve t’iu mundësojnë realizimin e papenguar, ligjor dhe me kohë të të drejtave të tyre dhe detyrimeve; t’iu japin informata të nevojshme dhe shënime; t’iu ofrojnë ndihmën juridike pa diskriminim; të respektojnë dinjitetin dhe personalitetin e secilit qytetar; të ruajnë dhe avansojnë nivelin dhe autoritetin e organeve të administratës shtetërore rrjedhimisht të bashkëpunojnë, në suaza të kornizave ligjore, korrekte dhe civilizuese me qytetarët e Republikës së Kosovës dhe me secilin individ që i drejtohet me gojë apo me shkrim për ndonjë kërkesë, nevojë, të drejtë ose interes juridik, ekonomik ose qytetar.

@@ -1,0 +1,4 @@
+# Article 20
+Division 1. A division is the basic structure of organization of a ministry and shall be exclusively responsible for a certain area of responsibility within the ministry.
+2. Division is managed by the head of division. Head of division shall report directly to the director of department, to which the division belongs, unless otherwise provided for by this law.
+3. In case of absence, the head of division shall be substituted by the most senior level civil servant of the same division. Should there be more than one civil servant at the same level, he shall be substituted by the highest level civil servant with longest experience in the Civil Service. In case of short term incapacity or inability due to health of head of division, the substitution will be assigned by the director of department.

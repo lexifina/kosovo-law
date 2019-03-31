@@ -1,3 +1,0 @@
-# Article 56
-Cooperation of administration bodies with citizens
-State administration bodies are obliged to enable for the citizens an open legal realization and in time of their rights and obligations; to offer them necessary information; to offer them legal assistance without discrimination; to respect the dignity and personality of each citizen; to preserve and advance the level and authority of state administration bodies, to cooperate within the legal framework, in correct and civilized manner with citizens of Republic of Kosovo and with each individual that asks orally or in a written form for any request, necessity, right or legal, economic or civil interest.

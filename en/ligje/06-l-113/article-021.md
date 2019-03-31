@@ -1,0 +1,6 @@
+# Article 21
+Organization of responsible structures for internal administrative functions of the ministry 1. Information technology services, maintenance, logistics and other similar support services (hereinafter: “general management service”) shall be performed together by one administrative unit, which reports directly to the General Secretary.
+2. Services related to financial planning, implementation, accounting and reporting (hereinafter: “financial management service”) shall be carried out by an administrative unit, which reports directly to the General Secretary. Head of this unit is at the same time Chief Financial Officer who manages public finances in accordance with the Law.
+3. Functions of internal audit shall be exercised by an administrative unit directly reporting to the minister.
+4. Units as provided by paragraphs 1., 2. and 3. of this Article shall be organized as departments or divisions, depending on the size and complexity of relevant duties.
+5. Criteria for the organization of functions under paragraph 1., 2., 3. and 4. of this Article are regulated with a sub-legal act in accordance with this law and special laws, proposed by the responsible ministry for public administration and approved by the Government.

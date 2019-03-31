@@ -1,0 +1,5 @@
+# Article 49
+Merger of existing agencies 1. If the law on establishment of an Agency defined the creation of a new Agency as result of merger or termination of at least two (2) existing agencies, in addition to what is provided in paragraphs 1. and 2. of Article 48 of this law, it should contain provisions for: 1.1.defining all agencies that are merged/terminated;
+1.2. merger/termination date; and 1.3. regulating legal consequences on officials, property under administration, contracts, obligations towards third parties and further administrative procedures for agencies that are merged/terminated.
+2. Regulation of legal consequences under sub-paragraph 1.3. paragraph 1. of this Article should provide for continuation of activity and respecting interests of existing officials and other parties involved.
+3. Explanatory memorandum that accompanies the draft law on establishment, in addition to what is provided in paragraph 3. of Article 48 of this Law, should also contain a transition plan containing a list of tasks and deadlines for all activities of organizational nature that are necessary for the completion of reorganization process.
