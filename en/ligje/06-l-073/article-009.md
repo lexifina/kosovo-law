@@ -1,0 +1,5 @@
+# Article 9
+Submission of applications for additional compensation 1. Application for additional compensation for categories defined by this law, may be filed by the beneficiary or any other person authorized by him/her or by the spouse after death of the beneficiary.
+2. For realization of the right to additional compensation, according to the provisions of this Law, the applicant shall submit an application to the Regional Office of the Pension Administration Department under MLSW.
+LAW NO.06/L-073 ON THE STATUS OF ALBANIAN EDUCATION EMPLOYEES OF THE REPUBLIC OF KOSOVO FROM ACADEMIC YEAR 1990/91 UP TO THE ACADEMIC YEAR 1998/99 3. The spouse, after the death of beneficiary, is obliged to notify in written the pension administration of Kosovo on any change of circumstances that affect the right to receive the additional compensation.
+4. The Kosovo Pension Administration, as an administrative unit within the Ministry of Labour and Social Welfare, manages and administers payment of additional compensation according to this Law.
