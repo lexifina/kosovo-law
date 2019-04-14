@@ -1,0 +1,5 @@
+# Article 196
+Torture 1. An official person, or a person acting at the instigation of or with the consent or acquiescence
+CODE NO. 06/L-074 CRIMINAL CODE OF THE REPUBLIC OF KOSOVO of an official person, who commits an act of torture shall be punished by imprisonment of one (1) to fifteen (15) years.
+2. When the offense provided for in paragraph 1. of this Article is committed against a child, the perpetrator shall be punished by imprisonment of three (3) to fifteen (15) years.
+3. For the purposes of this Article, an act of torture means any act or omission by which severe pain or suffering, whether physical or mental, is intentionally inflicted on a person for the purpose of obtaining from such person or from a third person information or a statement, or punishing such person for an act that he or she or a third person has committed or is suspected of having committed, or for intimidating or coercing the person or a third person or for any reason based on discrimination of any kind. An act of torture does not include any act or omission arising only from, inherent in or incidental to lawful sanctions.

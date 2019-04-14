@@ -1,0 +1,4 @@
+# Article 292
+Deceiving consumers 1. Whoever, in the course of engaging in an economic activity and with the intent to deceive purchasers or consumers, uses or possesses with intent to use another’s trade name or trademark, another’s goods trademark or services trademark or another’s trademark related to geographical origin or any other special trademark of goods or components thereof in his or her own trade name, trademark, or special trademark of goods shall be punished by imprisonment of up to three (3) years.
+2. Whoever, with the intent to deceive purchasers or consumers, uses in production another’s sample or another’s model without authorization or distributes articles manufactured in this way shall be punished as provided for in paragraph 1. of this Article.
+3. The objects and the equipment for their manufacturing provided for in this Article shall be confiscated.

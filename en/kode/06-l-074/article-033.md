@@ -1,0 +1,3 @@
+# Article 33
+Assistance 1. Whoever intentionally assists another person in the commission of a criminal offense shall be punished more leniently than the perpetrator of the offense.
+2. Assistance in committing a criminal offense includes, but is not limited to: giving advice or instruction on how to commit a criminal offense; making available the means to commit a criminal offense; creating conditions or removing the impediments to the commission of a criminal offense; or, promising in advance to conceal evidence of the commission of a criminal offense, the perpetrator or identity of the perpetrator, the means used for the commission of a criminal offense, or the profits or gains which result from the commission of a criminal offense.

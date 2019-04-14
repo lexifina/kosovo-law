@@ -1,0 +1,3 @@
+# Article 149
+Conscription or enlisting of children in armed conflict 1. Whoever conscripts or enlists persons between the age of fifteen (15) and eighteen (18) years into armed forces or groups or uses them to participate actively in hostilities in an armed conflict of an international nature or an armed conflict not of an international character shall be punished by imprisonment of one (1) to ten (10) years.
+2. If the criminal offense under paragraph 1. of this Article is committed against a person under the age of fifteen (15), the perpetrator shall be punished by imprisonment of three (3) to twelve (12) years.

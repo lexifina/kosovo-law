@@ -1,0 +1,6 @@
+# Article 171
+Threats to use or commit theft or robbery of nuclear or radioactive material 1. Whoever threatens to use nuclear material to cause death or serious injury to any person or substantial damage to property or to the environment or to commit the offence described in Article 170, paragraph 6., sub-paragraph 6.4. of this Code shall be punished by imprisonment of one (1) to eight (8) years.
+2. Whoever, with the intent to compel a person, international organization or State to do or to refrain from doing an act, threatens to commit theft or robbery of nuclear material or the offence described in Article 170, paragraph 6., sub-paragraph 6.4. of this Code shall be punished by imprisonment of five (5) to fifteen (15) years.
+3. Whoever threatens to commit the offence described in Article 170, paragraph 3., of this Code or demands radioactive material, a device or a nuclear facility by serious threat or by use of force shall be punished by imprisonment of five (5) to fifteen (15) years.
+4. When the offenses provided for in paragraphs 1. to 3. of this Article result in the death of
+CODE NO. 06/L-074 CRIMINAL CODE OF THE REPUBLIC OF KOSOVO one or more persons or substantial material damage, the perpetrator shall be punished by imprisonment of not less than ten (10) years.

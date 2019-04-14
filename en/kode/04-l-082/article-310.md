@@ -1,2 +1,0 @@
-# Article 310
-Fraud in trading with securities Whoever in trading stocks or other securities or options, falsely represents the balance of assets, the data on profits and losses or other data which has considerable influence on the value of the above mentioned securities, thereby inducing one or more persons to make a purchase or sale of such securities, shall be punished by a fine and imprisonment of up to five (5) years.

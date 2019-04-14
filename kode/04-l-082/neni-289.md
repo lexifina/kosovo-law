@@ -1,5 +1,0 @@
-# Neni 289
-Mashtrimi ose dëmtimi i kreditorëve apo debitorëve
-1. Kushdo që duke ditur borxhin e tepërt ose insolvencën aktuale apo të pashmangshme, vë një kreditor apo debitor në pozitë më të favorshme përmes pagesës së borxheve apo në ndonjë mënyrë tjetër dhe me këtë shkakton dëme prej më tepër se pesëmijë (5.000) Euro ose rezulton në humbje të kreditorëve tjerë prej më tepër se pesëmijë (5.000) Euro, dënohet me burgim deri në tre (3) vjet.
-2. Kushdo që për të mashtruar ose shkaktuar dëm ndonjë kreditori apo debitori, pranon një kërkesë të rrejshme, lidhë kontrata të rrejshme ose kryen ndonjë veprim tjetër mashtrues me të cilin dëmton ndonjë kreditor apo debitor, dënohet me burgim prej gjashtë (6) muaj deri në pesë (5) vjet.
-3. Kur vepra penale nga paragrafi 1. ose 2. i këtij neni rezulton me dëm që tejkalon dyqind e pesëdhjetëmijë (250.000) Euro ose rezulton me humbje që tejkalon dyqind e pesëdhjetëmijë (250.000) Euro, ose kur si rezultat i kësaj i dëmtuari detyrohet ti nënshtrohet procedurës së riorganizimit ose falimentimit, kryesi dënohet me burgim prej një (1) deri në dhjetë (10) vjet.

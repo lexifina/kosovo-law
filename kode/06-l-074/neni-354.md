@@ -1,0 +1,8 @@
+# Neni 354
+Dëmtimi, shkatërrimi dhe nxjerrja e paautorizuar e monumenteve ose objekteve të mbrojtura jashtë Republikës së Kosovës
+1. Kushdo që dëmton ose shkatërron monumentin ose objektin e mbrojtur kulturor, historik, fetar, shkencor apo natyror, dënohet me gjobë ose me burgim deri në dy (2) vjet.
+2. Nëse vepra penale nga paragrafi 1. i këtij neni kryhet ndaj monumentit ose objektit të mbrojtur kulturor, historik, fetar, shkencor apo natyror që kanë vlerë të posaçme ose nëse vepra penale rezulton me dëm të rëndë, kryesi dënohet me gjobë ose me burgim deri në tre (3) vjet.
+3. Kushdo që pa autorizimin përkatës të organit kompetent nxjerrë jashtë Republikës së Kosovës monumentin ose objektin e mbrojtur kulturor, historik, fetar, shkencor apo natyror, dënohet me gjobë ose me burgim deri në një (1) vit.
+4. Nëse vepra penale nga paragrafi 3. i këtij neni ka të bëjë me monumentin ose objektin e mbrojtur kulturor, historik, fetar, shkencor apo natyror me vlerë të posaçme, kryesi dënohet me gjobë ose me burgim deri në tre (3) vjet.
+5. Për qëllime të këtij neni, shprehja “monument ose objekt i mbrojtur kulturor, historik, fetar, shkencor apo natyror” do të thotë objekt nderimi i një komuniteti fetar i cili ndodhet në pronën e caktuar për shërbime fetare, gur varri, varr apo vend tjetër i varrimit, monument publik, monument natyror, objekt artistik, shkencor apo artizanat i cili ruhet në koleksione publike ose në ekspozita publike, objekt i cili shërben për ndonjë nevojë publike ose zbukuron rrugën publike, sheshin apo parkun, atraksion natyror apo një lloj të rrezikuar i kafshëve ose bimëve.
+6. Tentativa për të kryer vepër penale nga paragrafi 1. ose 3. i këtij neni është e dënueshme.

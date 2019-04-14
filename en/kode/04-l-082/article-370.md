@@ -1,3 +1,0 @@
-# Article 370
-Failure to avoid danger 1. Whoever fails to take measures to prevent fire, flood, explosion, traffic disasters or any other danger to human life or physical safety or property on a large scale even though he or she could have done so without endangering himself, herself or another person, shall be punished by a fine or by imprisonment of up to one (1) year.
-2. Whoever prevents or obstructs another person from taking measures to avoid fire, flood, explosion, traffic disasters or any other danger to human life or physical safety or damage to property on a large scale shall be punished by imprisonment of three (3) months to three (3) years.

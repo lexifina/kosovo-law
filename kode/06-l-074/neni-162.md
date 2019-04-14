@@ -1,0 +1,4 @@
+# Neni 162
+Piratëria
+1. Anëtari i ekuipazhit ose udhëtari i anijes ose fluturakes, përveç anijes apo fluturakes ushtarake apo publike, i cili duke shkelur rregullat e së drejtës ndërkombëtare dhe me qëllim që vetes ose personit tjetër t’i sjell dobi pasurore apo dobi jopasurore apo për të plagosur rëndë personin tjetër, kryen dhunë të kundërligjshme ndaj anijes apo fluturakes tjetër ose kundër personit ose sendit në anije apo në fluturake në det të hapur apo në territorin i cili nuk është nën juridiksion të ndonjë shteti, dënohet me burgim prej një (1) deri në dhjetë (10) vjet.
+2. Veprimi i kryer nga anëtari i ekuipazhit të anijes ose fluturakes ushtarake ose publike, i cili është rebeluar dhe ka uzurpuar autoritetet e anijes ose të fluturakes përbën vepër penale sipas paragrafit 1. të këtij neni.

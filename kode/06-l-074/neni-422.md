@@ -1,0 +1,6 @@
+# Neni 422
+Dhënia e ryshfetit
+1. Kushdo që në mënyrë të drejtpërdrejtë apo të tërthortë, për vete apo për një person tjetër i premton, ofron ose i jep ndonjë dhuratë të paarsyeshme apo përfitim tjetër personit zyrtar, në mënyrë që ai person të veprojë ose të mos veprojë në pajtim me detyrën e tij zyrtare, dënohet me gjobë dhe me burgim deri në pesë (5) vjet.
+2. Kushdo që në mënyrë të drejtpërdrejtë apo të tërthortë, për vete apo për një person tjetër i premton, ofron ose i jep ndonjë dhuratë të paarsyeshme apo përfitim tjetër personit zyrtar, në mënyrë që ai person të veprojë ose të mos veprojë në kundërshtim me detyrën e tij zyrtare, dënohet me gjobë dhe me burgim prej gjashtë (6) muaj deri në pesë (5) vjet.
+3. Nëse vepra penale nga paragrafi 1. i këtij neni rezulton me përfitim në vlerë që tejkalon pesëmbëdhjetë mijë (15.000) Euro, kryesi dënohet me gjobë dhe me burgim prej një (1) deri në tetë (8) vjet.
+KODI NR. 06/L-074 PENAL I REPUBLIKËS SË KOSOVËS 4. Nëse kryesi i veprës penale nga paragrafi 1. ose 2. i këtij neni e ka dhënë dhuratën e paarsyeshme apo përfitimin me kërkesë të personit zyrtar apo personit përgjegjës dhe e lajmëron veprën para fillimit të procedurës penale ose para se ta dijë që ka filluar procedura penale, gjykata mund ta lirojë nga dënimi.

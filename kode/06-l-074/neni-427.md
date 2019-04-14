@@ -1,0 +1,4 @@
+# Neni 427
+Falsifikimi i dokumentit zyrtar
+1. Personi zyrtar i cili në dokumentin zyrtar, në regjistër ose në shkresën zyrtare shënon të dhëna të rreme ose nuk shënon të dhënat e duhura apo me nënshkrimin e tij ose me vulën zyrtare vërteton dokumentin zyrtar, regjistrin apo shkresën zyrtare e cila përmban të dhëna të rreme ose mundëson përpilimin e dokumentit, regjistrit ose shkresës së tillë me përmbajtje të rreme, dënohet me burgim prej gjashtë (6) muaj deri në pesë (5) vjet.
+2. Personi zyrtar i cili shfrytëzon dokumentin zyrtar, regjistrin ose shkresën zyrtare të rreme si të vërtetë në veprimtarinë e tij afariste ose i cili asgjëson, fsheh, dëmton apo në ndonjë mënyrë tjetër e bën të papërdorshëm dokumentin zyrtar, regjistrin ose shkresën zyrtare, dënohet me dënimin nga paragrafi 1. i këtij neni.

@@ -1,0 +1,5 @@
+# Article 256
+Unlawful exercise of medical or pharmaceutical activity 1. Whoever, without possessing professional qualifications or legal authorization, carries out medical treatment, pharmaceutical services or engages in some other medical activity for which specific qualifications are required by law shall be punished by a fine or by imprisonment of up to one (1) year.
+2. When the offense provided for in paragraph 1. of this Article results in grievous bodily injury or any serious impairment to the health of a person, the perpetrator shall be punished by imprisonment of six (6) months to five (5) years.
+3. When the offense provided for in paragraph 1. of this Article results in the death of one or more persons, the perpetrator shall be punished by imprisonment of one (1) to twelve (12) years.
+CODE NO. 06/L-074 CRIMINAL CODE OF THE REPUBLIC OF KOSOVO

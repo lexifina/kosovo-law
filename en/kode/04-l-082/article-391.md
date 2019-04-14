@@ -1,4 +1,0 @@
-# Article 391
-False statement under oath 1. Whoever, having taken an oath before an authority competent to administer affidavits or oaths, and thereafter signs an affidavit or states any matter that he or she does not believe to be true, or knowingly conceals or omits to state any matter relevant to the proceedings shall be punished by a fine or by imprisonment of up to three (3) years.
-2. When the declaration provided for in paragraph 1 of this Article has been given in the course of criminal proceedings, the perpetrator shall be punished by a fine or imprisonment of up to five (5) years.
-3. When the perpetrator of the criminal offense provided for in paragraph 1 of this Article voluntarily withdraws his or her statement before the end of his or her testimony the court may reduce the punishment.

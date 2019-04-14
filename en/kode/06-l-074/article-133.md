@@ -1,0 +1,3 @@
+# Article 133
+Training for terrorism 1. Whoever provides or receives training for terrorism shall be punished by imprisonment of five (5) to fifteen (15) years.
+2. For the purpose of this Article “training for terrorism” means training or instruction including providing or obtaining knowledge or practical skills in producing or using explosives, firearms or other weapons, chemical, bacteriological, nuclear, or other dangerous or hazardous substances to people, property and environment, or in other specific methods or techniques, for the purpose of committing or contributing to the commission of a terrorist offense, knowing that the skills provided or obtained are intended to be used for this purpose.

@@ -1,0 +1,6 @@
+# Neni 37
+Përgjegjësia penale e personave juridik 1. Personi juridik është përgjegjës për veprën penale të kryer nga personi përgjegjës, i cili veprën e ka kryer duke vepruar në emër të personit juridik dhe për dobi apo interesin e tij ose me atë vepër penale është shkaktuar dëm.
+2. Përgjegjësia e një personi juridik nga paragrafi 1. i këtij neni ekziston nëse vepra penale e personit përgjegjës është rezultat i:
+2.1. një kompetence për të përfaqësuar personin juridik, një autoriteti për të marrë vendime në emër të personit juridik ose një autoriteti për të ushtruar kontroll brenda personit juridik; ose 2.2. mungesës së mbikëqyrjes ose kontrollit nga personi i përcaktuar në nënparagrafin 2.1 të këtij paragrafi, i cili ka bërë të mundur kryerjen e veprës penale në dobi të personit juridik nga një person përgjegjës nën autoritetin e tij.
+3. Sipas kushteve të parapara në paragrafin 1 dhe 2 të këtij neni, personi juridik po ashtu është përgjegjës për veprën penale në rastin kur personi përgjegjës që ka kryer vepër penale nuk dënohet për atë vepër penale.
+4. Përgjegjësia penale e personit juridik nuk përjashton nga përgjegjësia penale një person përgjegjës i cili ka kryer, organizuar, nxitur ose ndihmuar në kryerjen e të njëjtës vepër penale.

@@ -1,0 +1,10 @@
+# Article 259
+Unlawful transplantation and trafficking of human organs and tissues 1. Whoever without a medical reason, without authorization or in contravention of applicable law takes with the purpose for transplantation parts of human body with the consent of the donor, shall be punished by a fine and imprisonment of six (6) months to five (5) years.
+2. Whoever without a medical reason, without authorization or in contravention of applicable law transplants parts of human body with the consent of the receiver, shall be punished by a fine or by imprisonment of up to three (3) years.
+3. When the offense provided for in paragraph 1. or 2. of this Article is committed without the consent of the donor or the consent of the receiver, the perpetrator shall be punished by a fine and by imprisonment of one (1) to eight (8) years.
+4. Whoever without authorization or in contravention of applicable law with the purpose for transplantation takes body parts of a deceased person shall be punished by a fine or by imprisonment of up to three (3) years.
+5. Whoever, without authorization or in contravention of applicable law, possesses, purchases, solicits for purchase, sells, transports, imports or exports a human organ or tissue for purposes
+CODE NO. 06/L-074 CRIMINAL CODE OF THE REPUBLIC OF KOSOVO of transplantation shall be punished by a fine and imprisonment of two (2) to twelve (12) years.
+6. Whoever for a reward or other gain acts as an intermediary to obtain a body or body parts of another living or deceased person with the purpose of transplantation, shall be punished by a fine and by imprisonment of six (6) months up to two (2) years.
+7. If the offense provided for in paragraphs 1. or 2. of this Article is committed by a physician, the perpetrator shall be punished by imprisonment of one (1) to eight (8) years.
+8. If the offense provided for in paragraph 3. of this Article is committed by a physician, the perpetrator shall be punished by imprisonment of three (3) to twelve (12) years.

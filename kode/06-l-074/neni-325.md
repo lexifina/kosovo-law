@@ -1,0 +1,4 @@
+# Neni 325
+Mashtrimi lidhur me pranimin e fondeve nga Komuniteti Ndërkombëtar 1.Kushdo që qëllimisht përdor ose paraqet deklarata apo dokumente të rrejshme, të pasakta apo jo të plota dhe si rezultat i këtij veprimi pranon ose merr fonde në mënyrë të kundërligjshme nga cilido vend i huaj, ose nga ndonjë agjenci apo entitet ndërkombëtar dënohet me burgim prej një (1) deri në pesë (5) vjet.
+2. Kushdo që fsheh të dhëna në shkelje të detyrimit të posaçëm për zbulimin e të dhënave të tilla dhe si rezultat i kësaj pranon apo mban në mënyrë të kundërligjshme fonde nga cilido vend i huaj, ose nga ndonjë agjenci apo entitet ndërkombëtar dënohet me gjobë ose me burgim prej një (1) deri në tre (3) vjet.
+3. Kushdo që përdor fondet nga cilido vend i huaj, ose nga ndonjë agjenci apo entitet ndërkombëtar ose cilitdo vend të huaj për tjera qëllime nga ato për të cilat janë dhënë, dënohet me burgim prej dy (2) deri në tetë (8) vjet.

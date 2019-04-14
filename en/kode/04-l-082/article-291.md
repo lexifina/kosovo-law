@@ -1,3 +1,0 @@
-# Article 291
-Entering into harmful contracts 1. A responsible person who engages in an economic activity, enters into a contract that he or she knows to be harmful for the business organization, or enters into a contract contrary to his or her authorizations and thereby causes damage to the business organization shall be punished by imprisonment of three (3) months to three (3) years.
-2. When the perpetrator of the offense provided for in paragraph 1 of this Article accepts a bribe or causes damage exceeding one hundred thousand (100,000) EUR, the perpetrator shall be punished by imprisonment of one (1) to ten (10) years.

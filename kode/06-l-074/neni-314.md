@@ -1,0 +1,9 @@
+# Neni 314
+Vjedhja e shërbimeve
+1. Kushdo që me anë të lajthimit, largimit ose mënyrave tjera siguron shërbime për të cilat dihet se mundësohen vetëm në shkëmbim të kompensimit dhe shmang pagesën për shërbime të tilla, dënohet me gjobë ose me burgim deri në tre (3) vjet.
+2. Nëse vepra penale nga paragrafi 1. i këtij neni kryhet me forcë ose kanosje serioze, kryesi dënohet me gjobë ose me burgim prej një (1) deri në tre (3) vjet.
+3. Nëse vlera e shërbimeve të vjedhura është më pak se pesëdhjetë (50) Euro, kryesi dënohet me gjobë ose me burgim deri në gjashtë (6) muaj.
+4. Për qëllime të këtij neni, “shërbime” përfshinë, por nuk kufizohet në transportimin; punën, shërbimet profesionale, teknike apo mekanike; shërbimet e skiliftit; objektet për biseda telefonikë; gazin, ujin, rrymën apo ngrohjen; shërbimet e komunikimit ose telefonisë; ofrimi i ushqimit apo akomodimit; furnizimi me pajisje, vegla, vetura ose kamp-shtëpiza për përdorim të përkohshëm; furnizimi i pajisjeve për shfrytëzim; ose qasja në sistemin e internetit, kompjuterik apo kabllor. “Shërbim” po ashtu përfshinë çmimin e hyrjes në evenimente sportive, zbavitëse, shfaqje ose ngjarje tjera që kanë çmim të hyrjes ose tarifë tjetër për pjesëmarrje.
+5. Largimi nga biznesi, hoteli apo restoranti pa ofruar për të paguar ose pa paguar për hotel, restorant apo shërbime tjera për të cilat kompensimi zakonisht paguhet pas pranimit të shërbimeve është dëshmi se shërbimet janë pranuar me qëllim të shmangies së pagesës.
+6 Për qëllime të këtij neni, vjedhja e shërbimeve të gazit, ujit, rrymës ose ngrohjes përfshin, por nuk kufizohet në marrjen, përdorimin, devijimin, nxjerrjen ose përfitimin nga ndonjë shërbim i gazit, ujit, rrymës ose ngrohjes që furnizohet nga ose përmes rrjetit përçues të rrymës apo rrjetit të shpërndarjes, pa autorizimin e furnizuesit të autorizuar.
+KODI NR. 06/L-074 PENAL I REPUBLIKËS SË KOSOVËS

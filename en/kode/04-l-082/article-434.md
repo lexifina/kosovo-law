@@ -1,3 +1,0 @@
-# Article 434
-Falsifying official document 1. An official person who, in an official document, official register or file, enters false information or fails to enter essential information or with his or her signature or official stamp certifies a document, official register or file which contains false data or enables the compilation of such document, register or file with false contents shall be punished by imprisonment of six (6) months to five (5) years.
-2. An official person who uses a false document, official register or file as if it were true in his or her duty or business activity or who destroys, hides, damages or in any other way renders unusable the document, official register or file shall be punished as provided for in paragraph 1 of this Article.

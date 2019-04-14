@@ -1,4 +1,0 @@
-## CHAPTER XXV
-## CRIMINAL OFFENSES AGAINST THE ECONOMY
-# Article 284
-Violating right of equality in exercising economic activity The official person who through the abuse of his or her official duty or authorizations, limits the free movement of capital, people, goods, services, work or means of reproduction in the Republic of Kosovo, or denies or limits the right of a business organization or legal person to engage in the circulation of merchandise or services in the Republic of Kosovo, or places a business organization or legal person in an unequal position with respect to another business organization or legal person in relation to working conditions or the circulation of merchandise or services, or limits the free exchange of merchandise or services, and thereby causes considerable profit for one business organization or legal person or considerable damage to another shall be punished by imprisonment of six (6) months to five (5) years.

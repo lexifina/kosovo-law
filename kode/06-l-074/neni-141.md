@@ -1,0 +1,6 @@
+# Neni 141
+Nxitja e përçarjes dhe mos durimit
+1. Kushdo që nxit ose përhap publikisht urrejtje, përçarje dhe mos durim midis grupeve kombëtare, racore, fetare, etnike e të tjera, apo bazuar në orientimin seksual, identitetin gjinor dhe karakteristikat e tjera personale, në mënyrën e cila mund të prishë rendin publik dënohet me gjobë ose me burgim deri në pesë (5) vjet.
+2. Kushdo që në mënyrë sistematike ose duke keqpërdorur pozitën apo autorizimet e tij kryen veprën nga paragrafi 1. i këtij neni ose shkakton trazira, dhunë ose pasoja të tjera të rënda me kryerjen e veprës së tillë, dënohet me burgim prej një (1) deri në tetë (8) vjet.
+3. Kushdo që kryen veprën penale nga paragrafi 1. i këtij neni përmes shtrëngimit, rrezikimit të sigurisë, përqeshjes së simboleve kombëtare, racore, etnike apo fetare, duke dëmtuar pasurinë e personit tjetër ose duke përdhosur monumentet apo varrezat, dënohet me burgim prej një (1) deri në tetë (8) vjet.
+4. Kushdo që në mënyrë sistematike ose duke keqpërdorur pozitën apo autorizimet e tij kryen veprën penale nga paragrafi 3. i këtij neni ose shkakton trazira, dhunë ose pasoja të tjera të rënda me kryerjen e veprës së tillë, dënohet me burgim prej dy (2) deri në dhjetë (10) vjet.

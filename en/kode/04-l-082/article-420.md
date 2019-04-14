@@ -1,3 +1,0 @@
-# Article 420
-Disrupting religious ceremonies 1. Whoever unlawfully disrupts or prevents a religious ceremony from taking place shall be punished by a fine or by imprisonment of up to one (1) year.
-CRIMINAL CODE OF THE REPUBLIC OF KOSOVO 2. When the offense provided for in paragraph 1of this Article is committed by the use of force or serious threat, the perpetrator shall be punished by imprisonment of three (3) months to three (3) years.

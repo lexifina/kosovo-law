@@ -1,3 +1,0 @@
-# Article 340
-Extortion 1. Whoever, with the intent to obtain an unlawful material benefit for himself, herself or another person, uses force or serious threat to compel another person to do or abstain from doing an act to the detriment of his or her property or another person's property shall be punished by a fine and imprisonment of three (3) months to five (5) years.
-2. When the offense provided for in paragraph 1 of this Article is committed by a perpetrator acting as a member of a group, is committed using a weapon or a dangerous instrument; or, the offense results in a material benefit in a sum that exceeds ten thousand (10,000) EUR, the perpetrator shall be punished by a fine and imprisonment of one (1) to ten (10) years.

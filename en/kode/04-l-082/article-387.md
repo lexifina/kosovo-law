@@ -1,4 +1,0 @@
-# Article 387
-Failure to inform of a person indicted by the international criminal tribunal 1. Whoever, having knowledge of the indictment and whereabouts of a person indicted by the international criminal tribunal and fails to report such whereabouts, although the timely discovery of the wanted person depends on such report, shall be punished by a fine or by imprisonment for a term up to three (3) years.
-2. A person is not criminally liable under this Article if he or she is related to the perpetrator of the criminal offense as the parent, child, spouse, sibling, adoptive parent or adopted child or person with whom the perpetrator lives in an extra-
-CRIMINAL CODE OF THE REPUBLIC OF KOSOVO marital communion.

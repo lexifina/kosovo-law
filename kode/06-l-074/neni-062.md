@@ -1,0 +1,7 @@
+# Neni 62
+Ndalimi i ushtrimit të funksioneve në administratën publike ose në shërbimin publik
+1. Gjykata ia ndalon kryesit ushtrimin e funksioneve në administratën publike ose në shërbimin publik prej një (1) deri në pesë (5) vjet pas mbajtjes së dënimit me burgim, nëse personi i tillë ka keqpërdorur këto funksione dhe është dënuar me burgim.
+2. Gjykata mund t’ia ndalojë kryesit ushtrimin e funksioneve në administratën publike ose
+KODI NR. 06/L-074 PENAL I REPUBLIKËS SË KOSOVËS në shërbimin publik prej një (1) deri në tre (3) vjet, nëse personi i tillë i ka keqpërdorur këto funksione dhe është dënuar me gjobë ose me dënim me kusht.
+3. Gjykata ia ndalon një personi zyrtar ushtrimin e funksionit në administratë publike apo funksioneve të shërbimeve publike prej një (1) deri në dhjetë (10) vjet pas mbajtjes së dënimit me burgim, nëse personi është dënuar për ndonjë nga veprat që përfshihen në Kapitullin XXXIII të këtij Kodi 4. Gjykata ia ndalon një personi zyrtar ushtrimin e funksionit në administratë publike apo në shërbime publike prej një (1) deri në pesë (5) vjet, nëse i njëjti është dënuar për dhunë në familje, sipas nenit 248 të këtij Kodi.
+4.1 Kur personi zyrtar dënohet me burgim efektiv, ndalesa e tillë ekzekutohet vetëm pas mbajtjes së dënimit me burgim. Për dënimin me kusht apo me gjobë, ndalesa në ushtrimin e funksionit në administratë publike apo në shërbime publike fillon të zbatohet në momentin që aktgjykimi merr formën e prerë.

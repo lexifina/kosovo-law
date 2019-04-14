@@ -1,0 +1,5 @@
+# Article 382
+False report or charge 1. Whoever falsely reports to an official person charged with the duty to investigate or prosecute that a particular person has committed a criminal offense prosecuted ex officio, while knowing that such person is not the perpetrator, shall be punished by fine or imprisonment of three (3) months to three (3) years.
+2. Whoever provides false evidence of a criminal offense or in any other manner causes the initiation of criminal proceedings for an offense prosecuted ex officio against a person whom he or she knows did not commit the offense shall be punished as provided for in paragraph 1. of this Article.
+3. Whoever reports that he or she has committed a criminal offense prosecuted ex officio, even though he or she has not committed such offense, shall be punished by a fine or by imprisonment of up to three (3) months.
+4. Whoever reports to an official person charged with the duty to investigate or prosecute that a criminal offense which is prosecuted ex officio has been committed, even though he or she knows that the offense has not been committed, shall be punished as provided for in paragraph 3. of this Article.

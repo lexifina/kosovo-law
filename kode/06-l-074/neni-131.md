@@ -1,0 +1,4 @@
+# Neni 131
+Lehtësimi dhe financimi në kryerjen e terrorizmit 1. Kushdo që, në çfarëdo mënyre, të drejtpërdrejtë ose të tërthortë, ofron, kërkon, mbledh ose fsheh, organizon, përgatit, vë në dispozicion fonde apo mjete të tjera materiale ose drejton të tjerët për këto veprime, me dashje se do të përdoren, dijeni apo bazë të arsyeshme për të besuar se do të përdoren, tërësisht ose pjesërisht, për apo nga një individ terrorist, grup terrorist, apo për të kryer apo për të kontribuar për kryerjen e veprës terroriste, dënohet me gjobë deri në pesëqind mijë (500.000) euro dhe me burgim prej pesë (5) deri në pesëmbëdhjetë (15) vjet.
+2. Që një vepër të përbëjë vepër penale sipas paragrafit 1 të këtij neni, nuk është e nevojshme që një veprim terrorist të ndodh ose nëse fondet janë përdorur në të vërtetë për të kryer një veprim të tillë terrorist.
+KODI NR. 06/L-074 PENAL I REPUBLIKËS SË KOSOVËS

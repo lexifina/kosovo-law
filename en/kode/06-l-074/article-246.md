@@ -1,0 +1,3 @@
+# Article 246
+Prevention and non-execution of measures for protecting children 1. Whoever fails to follow or prevents the execution of any educational measures and other measures prescribed by the court or other competent authority in charge of protecting children shall be punished by a fine or by imprisonment of up to one (1) year.
+2. Whoever, as the responsible person on duty in a body or institution for the protection, education or vocational training of children, exercises his or her duties in a irresponsible manner, thereby severely endangering or impairing the health or development of a child shall be punished by a fine or by imprisonment of up to three (3) years.

@@ -1,2 +1,0 @@
-# Article 155
-Conscription or enlisting of persons between the age of fifteen (15) and eighteen (18) years in armed conflict Whoever conscripts or enlists persons between the age of fifteen (15) and eighteen (18) years into armed forces or groups or uses them to participate actively in hostilities in an armed conflict of an international nature or an armed conflict not of an international character shall be punished by imprisonment of one (1) to ten (10) years.

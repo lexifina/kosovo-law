@@ -1,0 +1,6 @@
+# Neni 183
+Ngacmimi Seksual 1. Kushdo që ngacmon seksualisht personin tjetër, në veçanti personin i cili është i ndjeshëm për shkak të moshës, sëmundjes, paaftësisë, varësisë, shtatzënisë, paaftësisë së rëndë fizike apo mendore, dënohet me gjobë ose me burgim deri në tri (3) vjet.
+2. Ngacmimi seksual nënkupton cilëndo formë të sjelljes së padëshiruar verbale, joverbale ose fizike të natyrës seksuale, me qëllim të cenimit të dinjitetit apo që cenon dinjitetin e personit, dhe krijon një mjedis i cili është objektivisht frikësues, armiqësor, degradues ose poshtërues.
+3. Kur vepra penale nga paragrafi 1 i këtij neni kryhet nga kryesi i cili është mësues, udhëheqës fetar, profesionist i kujdesit shëndetësor, person të cilit i është besuar rritja ose kujdesi i personit të tillë apo në ndonjë mënyrë tjetër ka pozitë të autoritetit mbi atë person, kryesi dënohet me burgim prej gjashtë (6) muaj deri në tre (3) vjet.
+4. Kur vepra penale nga paragrafi 1, 2 ose 3 i këtij neni kryhet me përdorim të armës, mjetit të rrezikshëm ose ndonjë sendi tjetër që mund të shkaktojë lëndim të rëndë trupor apo dëmtim të rëndë të shëndetit mendor apo fizik, kryesi dënohet me burgim prej një (1) deri në pesë (5) vjet.
+5. Procedura penale për veprën penale nga paragrafi 1, 2 ose 3 i këtij neni fillohet sipas propozimit.

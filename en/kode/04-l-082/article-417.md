@@ -1,3 +1,0 @@
-# Article 417
-Impersonating an official 1. Whoever falsely claims to be an official or military person or wears the insignia of an official or military person without authorization shall be punished by a fine or by imprisonment of up to one (1) year.
-2. Whoever, with the intent to obtain a material benefit for himself, herself or another person or to cause damage to another person, falsely claims to be an official or military person or whoever, with the intent to obtain a material benefit for himself, herself or another person or to cause damage to another person and without authorization, wears the insignia of an official or military person or undertakes any action of an official or military person shall be punished by a fine and imprisonment of up to three (3) years.

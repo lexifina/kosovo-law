@@ -1,0 +1,4 @@
+# Article 150
+Employment of prohibited means or methods of warfare 1. Whoever during war or armed conflict employs weapons, projectiles and material and
+CODE NO. 06/L-074 CRIMINAL CODE OF THE REPUBLIC OF KOSOVO methods of warfare which are not provided for in sub-paragraph 2.20. of Article 145 or with sub- paragraph 2.22 of Article 147 of this Code but which are in violation of the international law of armed conflict shall be punished by imprisonment of not less than five (5) years.
+2. When the offense provided for in paragraph 1. of this Article results in the death of one or more persons, the perpetrator shall be punished by imprisonment of not less than ten (10) years or by life long imprisonment.

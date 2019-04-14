@@ -1,6 +1,0 @@
-# Neni 355
-Ndotja e ushqimit dhe e ujit të shtazëve
-1. Kushdo që me ndonjë materie helmuese apo të dëmshme e ndot ushqimin apo ujin e shtazëve, shpezëve, bletëve, shtazëve të egra apo peshqve, ose e ndot çfarëdo furnizimi ujorë natyrorë apo të bërë nga njeriu që siguron ujë për shtazë, shpezë, bletë, shtazë të egra apo peshq dhe me këtë rrezikon jetën apo shëndetin e shtazëve, shpezëve, bletëve, shtazëve të egra apo peshqve, dënohet me gjobë ose me burgim deri në dy (2) vjet.
-2. Kushdo që me ndonjë materie helmuese apo të dëmshme e ndot çfarëdo uji dhe me këtë rrezikon ekzistencën e shtazëve, shpezëve, bletëve, shtazëve të egra apo peshqve në ujë, dënohet me dënimin nga paragrafi 1. i këtij neni.
-3. Nëse vepra penale nga paragrafi 1. ose 2. i këtij neni rezulton me ngordhje të një numri të madh të shtazëve, shpezëve, bletëve, shtazëve të egra apo peshqve, në vlerë që tejkalon dhjetëmijë (10.000) Euro, kryesi dënohet me gjobë dhe me burgim prej tre (3) muaj deri në (3) tre vjet.
-4. Nëse vepra penale nga paragrafi 1. ose 2. i këtij neni kryhet nga pakujdesia, kryesi dënohet me gjobë ose me burgim deri në tre (3) muaj. Nëse vepra penale nga paragrafi 3. i këtij neni kryhet nga pakujdesia, kryesi dënohet me gjobë ose me burgim deri në gjashtë (6) muaj.

@@ -1,7 +1,0 @@
-# Article 268
-Irresponsible inspection of animal products destined for consumption 1. The veterinarian or the authorized person who, during the inspection of animals destined to be butchered or of meat destined for consumption, acts contrary to professional standards or in violation of the applicable provisions on standards of veterinary practice or does not carry out the inspection and thereby enables the circulation of meat and other articles harmful to people's health shall be punished by imprisonment of up to three (3) years.
-2. When the offense provided for in paragraph 1 of this Article is committed by negligence, the perpetrator shall be punished by a fine or by imprisonment of up to one (1) year.
-3. When the offense provided for in paragraph 1 of this Article results in grievous bodily injury or any serious impairment to the health of a person, the perpetrator shall be punished by imprisonment of one (1) to eight (8) years.
-4. When the offense provided for in paragraph 2 of this Article results in grievous bodily injury or any serious impairment to the health of a person, the perpetrator shall be punished by imprisonment of up to three (3) years.
-5. When the offense provided for in paragraph 1 of this Article results in the death of one or more persons, the perpetrator shall be punished by imprisonment of one (1) to twelve (12) years.
-6. When the offense provided for in paragraph 2 of this Article results in the death of one or more persons, the perpetrator shall be punished by imprisonment by imprisonment of one (1) to eight (8) years.

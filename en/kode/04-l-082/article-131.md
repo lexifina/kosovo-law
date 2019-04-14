@@ -1,8 +1,0 @@
-# Article 131
-Espionage 1. Whoever communicates, hands over a State secret or makes a State secret accessible to a foreign country, foreign organization or to the person serving them shall be punished from imprisonment of five (5) to twelve (12) years.
-2. Whoever creates an intelligence service in the Republic of Kosovo for a foreign State, country or organization or directs such service shall be punished by imprisonment of not less than ten (10) years.
-3. Whoever enters a foreign intelligence service, collects data for them or in any other way supports the work of such service shall be punished by imprisonment at least five (5) years.
-4. Whoever collects classified data or documents with the aim of communicating and handing them over to a foreign State, country, foreign organization or to the person serving them, shall be punished by imprisonment of three (3) to ten (10) years.
-5. If the commission of the criminal offense in paragraph 1, 2, 3. or 4 of this Article caused severe consequences for the security, economic or military power of the Republic of Kosovo, the perpetrator shall punished by imprisonment of at least ten (10) years.
-6. If the criminal offense listed in paragraph 1, 2, 3 or 4 of this Article is committed during the time of war, imminent danger of war, armed conflict or the revealing of a state secret concerns the security of the Republic of Kosovo, the perpetrator shall be punished by imprisonment of not less than ten (10) years.
-7. For the purposes of this Article, “State secret” means the military, economic, or official information, data or documents that by law or other provisions or decisions of a competent body and issued pursuant to the law that are pronounced as classified information.

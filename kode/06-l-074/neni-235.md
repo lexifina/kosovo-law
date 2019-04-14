@@ -1,0 +1,8 @@
+# Neni 235
+Ofrimi i lokaleve për prostitucion
+1. Kushdo që me dijeni ofron lokalin, qoftë si pronar i lokalit, qiradhënës, qiramarrës, shfrytëzues ose person përgjegjës, personit tjetër për qëllim të prostitucionit ose mundësimit të prostitucionit, dënohet me gjobë dhe me burgim deri në katër (4) vjet.
+2. Kur vepra penale nga paragrafi 1. i këtij neni kryhet brenda perimetrit prej treqind e pesëdhjetë (350) metrash nga shkolla ose mjedisi tjetër i cili përdoret nga fëmijët, kryesi dënohet me gjobë dhe me burgim prej gjashtë (6) muaj deri në pesë (5) vjet.
+3. Kur vepra penale nga paragrafi 1. ose 2. të këtij neni kryhet për qëllime të prostitucionit ose mundësimit të prostitucionit të një apo më shumë personave që janë midis moshës moshës gjashtëmbëdhjetë (16) dhe tetëmbëdhjetë (18) vjet, kryesi dënohet me gjobë dhe me burgim prej një (1) deri në dhjetë (10) vjet.
+4. Kur vepra penale nga paragrafi 1. ose 2. i këtij neni kryhet për qëllime të prostitucionit ose mundësimit të prostitucionit të një ose më shumë personave nën moshën gjashtëmbëdhjetë (16) vjet, kryesi dënohet me gjobë dhe me burgim prej pesë (5) deri në njëzet (20) vjet.
+5. Kur vepra penale nga paragrafi 1. ose 2. i këtij neni kryhet për qëllime të prostitucionit ose mundësimit të prostitucionit të një ose më shumë personave nën moshën katërmbëdhjetë (14) vjet, kryesi dënohet me gjobë dhe me burgim prej jo më pak se dhjetë (10) vjet.
+6. Për qëllime të këtij neni shprehja “mundësim i prostitucionit” përfshin por nuk kufizohet në rekrutimin, organizimin, ndihmën, kontrollimin, mbajtjen ose fshehjen e personit tjetër për qëllim të prostitucionit.

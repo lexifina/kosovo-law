@@ -1,2 +1,0 @@
-# Article 54
-Revocation of suspended sentences due to previously committed criminal offense The court shall revoke the suspended sentence if, after imposing the suspended sentence, there is a final judgment establishing that the convicted person committed another criminal offense prior to the imposition of the suspended sentence and if the court determines that the suspended sentence would have not been imposed if that criminal offense had been known. In such a case, the provisions of paragraph 3 Article 53 of this Code shall apply.

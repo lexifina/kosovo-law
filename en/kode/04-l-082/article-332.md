@@ -1,6 +1,0 @@
-# Article 332
-Unlawful occupation of real property 1. Whoever unlawfully occupies the real property of another person or any part thereof shall be punished by a fine or by imprisonment of up to two (2) years.
-2. When the offense provided for in paragraph 1 of this Article is committed under one of the following circumstances, 106
-CRIMINAL CODE OF THE REPUBLIC OF KOSOVO 107 the perpetrator shall be punished by imprisonment of three (3) months to three (3) years:
-2.1. when the occupied real property is part of a protected forest, a protected park or other forest with a special purpose, construction grounds or a road; or, 2.2. when the perpetrator occupies the real property knowing it has been subject of an eviction by order of the court or order or decision of any public entity or institution established under the applicable Laws of the Republic of Kosovo.
-3. The perpetrator shall be punished by imprisonment of one (1) to three (3) years when he or she has previously been convicted for unlawful occupation of real property or has been evicted from such real property by order of the court or order or decision of any public entity or institution established under the applicable Laws of the Republic of Kosovo.

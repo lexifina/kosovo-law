@@ -1,6 +1,0 @@
-# Article 51
-Suspended sentence 1. The court may impose a suspended sentence on the perpetrator in accordance with the provisions of this Code.
-2. In imposing a suspended sentence, the court shall determine a punishment for the perpetrator of the criminal offense and at the same time order that this punishment shall not be executed if the convicted person does not commit another criminal offense for the verification time determined by the court. The verification period cannot be less than
-CRIMINAL CODE OF THE REPUBLIC OF KOSOVO one (1) year or more than five (5) years.
-3. Within a suspended sentence the court may order that the punishment be executed if, within a determined time, the convicted person does not return the material benefit acquired from the commission of the criminal offense, does not compensate for the damage caused by the criminal offense or does not perform another obligation provided for by provisions in this Code. The court shall determine a deadline for the performance of these conditions within the verification period.
-4. When the court imposes a punishment of imprisonment or a fine, the court may impose a suspended sentence for both punishments or only for the punishment of imprisonment.

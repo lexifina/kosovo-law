@@ -1,0 +1,9 @@
+# Neni 339
+Mbajtja e paligjshme e substancave dhe e mbeturinave të rrezikshme
+1. Kushdo që duke shkelur ligjin, hedh, trajton, depoziton, transporton, eksporton ose importon substanca të rrezikshme apo mbeturina që mund të shkaktojnë vdekjen ose lëndimin e rëndë trupor të ndonjë personi ose dëm substancial material të cilësisë së ajrit, tokës, ujit, kafshëve, bimëve ose pasurisë, dënohet me gjobë dhe me burgim prej një (1) deri në katër (4) vjet.
+2. Kushdo që duke shkelur ligjin hedh, trajton, depoziton, transporton, eksporton ose importon substanca apo mbeturina radioaktive që mund të shkaktojnë vdekjen ose lëndimin e rëndë trupor të ndonjë personi ose dëm substancial material të cilësisë së ajrit, tokës, ujit, kafshëve,
+KODI NR. 06/L-074 PENAL I REPUBLIKËS SË KOSOVËS bimëve ose pasurisë, dënohet me gjobë dhe me burgim prej një (1) deri në pesë (5) vjet.
+3. Nëse vepra penale nga paragrafi 1. i këtij neni kryhet nga pakujdesia, kryesi dënohet me gjobë ose me burgim deri në një (1) vit.
+4. Nëse vepra penale nga paragrafi 2. i këtij neni kryhet nga pakujdesia, kryesi dënohet me gjobë ose me burgim deri në dy (2) vjet.
+5. Nëse vepra nga paragrafi 1. ose 2. i këtij neni rezulton me vdekje ose lëndim të rëndë trupor të ndonjë personi ose me dëm substancial material të pasurisë, kafshëve apo bimëve ose me keqësimin substancial material të cilësisë së ajrit, ujit ose tokës, kryesi dënohet me gjobë dhe me burgim prej tre (3) deri në dymbëdhjetë (12) vjet.
+6. Nëse vepra penale nga paragrafi 3. i këtij neni rezulton me vdekje ose lëndim të rëndë trupor të ndonjë personi ose me dëm substancial material të pasurisë, kafshëve apo bimëve ose me keqësimin substancial material të cilësisë së ajrit, ujit ose tokës, kryesi dënohet me gjobë ose me burgim prej një (1) deri në tetë (8) vjet.

@@ -1,5 +1,0 @@
-# Neni 206
-Shkelja e urdhrave për masat e fshehura ose teknike të vëzhgimit ose hetimit
-1. Zyrtari policor i autorizuar i cili zbaton një urdhër gjyqësor ose prokurorial për masat e fshehura ose teknike të vëzhgimit ose hetimit në shkelje të ligjit, dënohet me burgim prej tre (3) muaj deri në tre (3) vjet.
-2. Kushdo që zbulon informatën që do të dëmtojë efikasitetin e zbatimit të një urdhri për masat e fshehura ose teknike të vëzhgimit ose hetimit, dënohet me burgim prej gjashtë (6) muaj deri në tre (3) vjet.
-3. Personi përgjegjës për operimin e telekomunikimeve, rrjetave kompjuterike ose shërbimeve postare apo punonjësi i një institucioni financiar i cili nuk ndërmerr veprimet e duhura për të lehtësuar zbatimin e urdhrit për përgjimin e telekomunikimeve, për përgjimin e komunikimeve me anë të rrjetit kompjuterik, kontrollin e dërgesave postare, regjistrimin e thirrjeve telefonike ose zbulimin e të dhënave financiare, dënohet me gjobë ose me burgim prej tre (3) muaj deri në (3) tre vjet.

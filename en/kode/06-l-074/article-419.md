@@ -1,0 +1,6 @@
+# Article 419
+Fraud in office 1. An official person who, with the intent to obtain an unlawful material benefit for himself, herself or another person, by creating, using or presenting a false statement of an account or in any other way deceives an authorized person into making an unlawful disbursement of money or transfer of property, or other rights, shall be punished by a fine and imprisonment of six (6) months to five (5) years.
+2. Whoever, with the intent to commit, conceal or disguise an offence under Articles 309, 310,
+CODE NO. 06/L-074 CRIMINAL CODE OF THE REPUBLIC OF KOSOVO 421, 422, 423 or 424 of this Code, creates or uses an invoice or any other accounting document or record containing false or incomplete information, or omits to make a record of a payment, shall be punished by a fine and imprisonment of one (1) to eight (8) years.
+3. When the offense provided for in paragraph 1. of this Article results in a material benefit exceeding five thousand (5,000) EUR, the perpetrator shall be punished by a fine and imprisonment of one (1) to eight (8) years.
+4. When the offense provided for in paragraph 1. of this Article results in a material benefit exceeding fifty thousand (50,000) EUR, the perpetrator shall be punished by a fine and imprisonment of three (3) to twelve (12) years.

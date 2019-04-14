@@ -1,0 +1,4 @@
+# Neni 293
+Mashtrimi i blerësve
+1. Kushdo që me qëllim të mashtrimit të blerësve vë në qarkullim prodhime me shenjën në të cilën janë shënuar të dhëna të cilat nuk i përgjigjen përmbajtjes, llojit, prejardhjes apo kualitetit të produktit, vë në qarkullim produkte të cilat për nga pesha apo kualiteti nuk i përgjigjen asaj që rregullisht parashihet te produktet e tilla apo vë në qarkullim produkte pa shenjat që tregojnë për përmbajtjen, llojin, prejardhjen apo kualitetin e produktit kur shenja e tillë kërkohet me ligj, dënohet me gjobë ose me burgim deri në tre (3) vjet.
+2. Kushdo që me qëllim të mashtrimit të blerësve shpall rrejshëm se është zbritur çmimi i mallit apo se pritet rritja e çmimit të mallit ose në ndonjë mënyrë tjetër përdor haptazi reklamë të rreme, dënohet me gjobë ose me burgim deri në një (1) vit.

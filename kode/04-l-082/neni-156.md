@@ -1,3 +1,0 @@
-# Neni 156
-Përdorimi i mjeteve ose i metodave të ndaluara të luftimit 1. Kushdo që gjatë luftës apo konfliktit të armatosur përdorë armë, projektila dhe materiale e metoda të luftimit të cilat nuk parashihen me nën-paragrafin 2.20 të 151 ose me nën-paragrafin nenin 2.22 të nenit 153 të këtij Kodi dhe që janë në kundërshtim me të drejtën ndërkombëtare për konfliktet e armatosura, dënohet me jo më pak se pesë (5) vjet burgim.
-2. Nëse vepra nga paragrafi 1. i këtij neni rezulton me vdekjen e një ose më shumë personave, kryesi dënohet me burgim së paku dhjetë (10) vjet ose me burgim të përjetshëm.

@@ -1,0 +1,6 @@
+# Neni 171
+Kanosja për përdorimin ose kryerjen e vjedhjes apo të grabitjes së materialit nuklear ose radioaktiv
+1. Kushdo që kanos se do të përdor material nuklear për shkaktimin e vdekjes ose lëndimit të rëndë të ndonjë personi ose për të shkaktuar dëm substancial pasuror, ose mjedisor ose të kryejë veprën penale të paraparë në nenin 170, paragrafi 6, nënparagrafi 6.4. të këtij Kodi, dënohet me burgim prej një (1) deri në tetë (8) vjet.
+2. Kushdo që me qëllim të detyrimit të një personi, organizate ndërkombëtare ose shteti për të kryer ose për të mos kryer një vepër, kanos të kryejë vjedhje ose grabitje të materialit nuklear ose veprën penale të paraparë në nenin 170, paragrafi 6, nënparagrafi 6.4. të këtij Kodi, dënohet me burgim prej pesë (5) deri në pesëmbëdhjetë (15) vjet.
+3. Kushdo që kanos të kryejë veprën penale të paraparë në nenin 170, paragrafi 3 të këtij Kodi ose kërkon materiale radioaktive, një pajisje ose një strukturë nukleare me kanosje të rëndë ose me forcë, dënohet me burgim prej pesë (5) deri në pesëmbëdhjetë (15) vjet.
+4. Nëse vepra penale nga paragrafët 1 deri në 3 të këtij neni rezulton me vdekjen e një ose më shumë personave ose me dëm të madh material, kryesi dënohet me jo më pak se dhjetë (10) vjet burgim.

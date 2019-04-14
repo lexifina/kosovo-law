@@ -1,3 +1,0 @@
-# Article 224
-Violation of the right to strike 1. Whoever by the use of force or serious threat or in any other unlawful manner, prevents or obstructs a worker from organizing, participating or otherwise exercising any legal right to strike in accordance with the law and to participate in the strike or in any other manner exercise their right to strike, shall be punished by a fine or imprisonment of up to two (2) years.
-2. The employer or the responsible person who dismisses an employee because of his or her participation in a lawfully organized strike or who takes other measures by which the worker's labor rights are violated, shall be punished by a fine or imprisonment of up to two (2) years.

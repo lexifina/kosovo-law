@@ -1,0 +1,6 @@
+# Article 37
+Criminal liability of legal persons 1. A legal person is liable for the criminal offense committed by the responsible person, who committed the offense by acting on behalf of the legal person and for its benefit or interest or to cause damage with that criminal offense.
+2. The liability of a legal person under the paragraph 1. of this Article exists if the criminal offense of the responsible person is a result of:
+2.1. a power to represent the legal person, an authority to take decisions on behalf of the legal person or an authority to exercise control within the legal person; or 2.2. lack of supervision or control by the person defined in sub-paragraph 2.1. of this paragraph that has made possible the commission of the criminal offence for the benefit of the legal person by a responsible person under its authority.
+3. Pursuant to the conditions set out in paragraphs 1. and 2. of this Article, the legal person shall also be liable for criminal offenses in cases of the responsible person, who has committed the criminal offense but who was not sentenced for that criminal offense.
+4. The criminal liability of the legal person does not exclude a responsible person from the criminal liability, who has committed, organized, incited or assisted in committing the same criminal offense.

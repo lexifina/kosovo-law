@@ -1,5 +1,0 @@
-# Article 288
-Fraud in bankruptcy proceeding 1. Whoever, in relation to a bankruptcy proceeding, engages in one or more of the following activities with an administrator or a person acting in the capacity of administrator shall be punished by imprisonment of six (6) months to five (5) years:
-1.1. submits a false statement, document or claim, or gives false testimony;
-1.2. knowingly and fraudulently transfers, conceals or fails to turnover any property or documents to an administrator, or to a person acting in the capacity of administrator;
-1.3. knowingly and fraudulently gives, offers, receives or attempts to obtain any money, property, remuneration, compensation, reward, advantage, or promise of an act or forbearance to act in order to gain any advantage in a bankruptcy proceeding; or 1.4. knowingly and without permission from the estate administrator, sells, receives, steals, appropriates, destroys, desecrates, or purchases, either directly or indirectly, any papers or property of the estate.

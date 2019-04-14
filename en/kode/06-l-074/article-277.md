@@ -1,0 +1,8 @@
+## CHAPTER XXIV
+## ORGANIZED CRIME
+# Article 277
+Participation in or organization of an organized criminal group 1. Whoever, with the intent and with knowledge of either the aim and general activity of the organized criminal group or its intention to commit one or more criminal offenses which are punishable by a maximum imprisonment of at least four (4) years or more actively takes part in the group’s criminal activities knowing that such participation will contribute to the achievement of the group’s criminal activities, shall be punished by a fine of up to two hundred fifty thousand (250,000) EUR and imprisonment of at least seven (7) years.
+2. Whoever organizes, establishes, supervises, manages or directs the activities of an organized criminal group shall be punished by a fine of up to five hundred thousand (500,000) EUR and by imprisonment of at least ten (10) years.
+3. When the activities of the organized criminal group provided for in paragraph 1. or 2. of this Article result in death, the perpetrator shall be punished by a fine of up to five hundred thousand (500,000) EUR and by imprisonment of at least ten (10) years or life long imprisonment.
+4. The court may reduce the punishment of a member of an organized criminal group who, before the organized criminal group has committed a criminal offense reports to the police or prosecutor the existence, formation and information of the organized criminal group in sufficient detail to allow the arrest or the prosecution of such group.
+5. For the purposes of Article, “actively takes part” includes, but is not limited to, the provision of information or material means, the recruitment of new members and all forms of financing of the group’s activities.

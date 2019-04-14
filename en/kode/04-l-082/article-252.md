@@ -1,6 +1,0 @@
-# Article 252
-Avoiding maintenance support 1. Whoever fails to provide maintenance support to a person whom he or she is obliged to support based on a decision of the court which has entered into force, a settlement concluded before the court which has entered into force or a decision by another competent authority by avoiding employment, falsely reporting employment or income, changing jobs, place of residence or abode, alienating property or otherwise failing to provide subsistence support to such person shall be punished by imprisonment of up to one (1) year.
-2. When the offense provided for in paragraph 1 of this Article results in the death of the family member or serious impairment to his or her health, the perpetrator shall be punished by imprisonment of one (1) to eight (8) years.
-3. When the offense provided for in paragraph 1 of this Article involves a child, the perpetrator shall be punished by imprisonment of three (3) months to three (3) years.
-4. If the court imposes a suspended sentence, it may order, as a condition, that the perpetrator pay and regularly fulfill his or her obligations for maintenance support and unpaid obligations.
-5. If the perpetrator of the offense provided for in paragraph 1 of this Article fulfils the obligation before the imposition of the judgment of the court, the court may waive the punishment.

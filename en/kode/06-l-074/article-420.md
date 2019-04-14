@@ -1,0 +1,2 @@
+# Article 420
+Unauthorised use of property Whoever, without authorization, uses money, securities or other movable property which has been entrusted to him or her in his or her duty or generally in his or her workplace or which has been made accessible to him or her because of his or her service or work or whoever confers such property on another person for unauthorized use shall be punished by a fine or by imprisonment of up to three (3) years.

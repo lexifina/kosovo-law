@@ -1,0 +1,6 @@
+# Article 45
+Replacement of punishment with order for community service work 1. The court may, with the consent of the convicted person, replace the punishment of up to six (6) months imprisonment with an order for community service work.
+2. When imposing an order for community service work, the court shall order the convicted person to perform unpaid community service work for a specified term of thirty (30) to two hundred forty (240) working hours. The probation service will determine the type of community service to be performed by the convicted person, designate the specific organization for which the convicted person will perform the community service, decide on the days of the week when
+CODE NO. 06/L-074 CRIMINAL CODE OF THE REPUBLIC OF KOSOVO the community service work will be performed and supervise the performance of the community service work.
+3. The community service work shall be performed within a period specified by the court which shall not exceed one (1) year.
+4. If, upon the expiry of the specified period, the convicted person has not performed the community service work or has only partially performed such community service work, the court shall order a term of imprisonment. One (1) day of imprisonment shall be ordered for every eight (8) working hours of community service that was not performed. ALTERNATIVE PUNISHMENTS

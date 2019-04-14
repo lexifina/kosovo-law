@@ -1,0 +1,5 @@
+# Article 247
+Failure to report child abuse 1. Notwithstanding other provisions of law, whoever has reason to suspect that a child has suffered an incident of child abuse, mistreatment, abandonment or neglect, and fails to immediately report the abuse or neglect shall be punished by a fine or imprisonment of up to three (3) years.
+2. When the offense provided for in paragraph 1. of this Article is committed by a parent, an adoptive parent or guardian shall be punished by imprisonment of six (6) months to three (3) years.
+3. Whoever while engaged in a professional capacity related to the child, has reason to suspect that a child has suffered an incident of child abuse, mistreatment, abandonment or neglect or has been subjected to violence or a threat of violence and fails to immediately report it, shall be punished a fine or imprisonment of three (3) months to three (3) years.
+4. When the offense provided for in paragraphs 1., 2., or 3. of this Article results in the death of the child or serious impairment to his or her health, the perpetrator shall be punished by imprisonment of one (1) to eight (8) years.

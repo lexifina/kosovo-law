@@ -1,8 +1,0 @@
-# Article 330
-Misappropriation of another's property 1. Whoever, with the intent to obtain an unlawful material benefit for himself, herself or another person, appropriates property that has been entrusted to himself, herself or another person, shall be punished by a fine and imprisonment of up to one (1) year.
-2. When the offense provided for in paragraph 1 of this Article is committed by a guardian, attorney or any other person with a legal duty towards the owner of the property, the perpetrator shall be punished by a fine and imprisonment of up to three (3) years.
-3. When the value of the appropriated property exceeds ten thousand (10,000) EUR the perpetrator shall be punished by a fine and imprisonment of one (1) to five (5) years.
-4. When the appropriated property has a cultural, religious or historical value; is of special scientific, technical, or artistic importance; is part of a public collection, a protected private collection or a public exhibition; or, is a natural monument or object of nature under protection, the perpetrator shall be punished by a fine and imprisonment of one (1) to eight (8) years.
-5. Whoever unlawfully appropriates the movable property of another person which he or she has found or accidentally came into possession of, with the intent to obtain an unlawful material benefit for himself or herself or another person shall be punished by a fine and imprisonment of up to one (1) year.
-6. If the value of the property appropriated is less than fifty (50) EUR, the perpetrator shall be punished by a fine or up to six (6) months imprisonment.
-7. Criminal proceedings for the offense provided for in paragraphs 1 and 5 of this Article shall be initiated by a motion.

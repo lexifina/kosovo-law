@@ -1,5 +1,0 @@
-# Neni 431
-Ushtrimi i ndikimit
-1. Kushdo që në mënyrë të drejtpërdrejtë apo të tërthortë, kërkon ose pranon ndonjë dhuratë apo përfitim tjetër për vete apo personin tjetër, ose pranon ofertën apo premtimin për dhuratë apo përfitim të tillë, në mënyrë që të ushtrojë ndikim të padrejtë mbi vendimmarrjen e personit zyrtar apo zyrtarit publik të huaj, pavarësisht nëse ndikimi është ushtruar ose pavarësisht nëse ndikimi i supozuar shpie deri te rezultati i synuar, dënohet me gjobë ose me burgim deri në tetë (8) vjet.
-2. Kushdo që në mënyrë të drejtpërdrejtë apo të tërthortë, i premton, ofron ose i jep ndonjë dhuratë apo përfitim tjetër personit tjetër, në mënyrë që ky person të ushtrojë ndikim të papërshtatshëm mbi vendimmarrjen e personit zyrtar apo zyrtarit publik të huaj, pavarësisht nëse ndikimi është ushtruar ose pavarësisht nëse ndikimi i supozuar shpie deri te rezultati i synuar, dënohet me gjobë ose me burgim deri në pesë (5) vjet.
-3. Dhurata apo përfitimi i pranuar apo i ofruar në shkelje të këtij neni konfiskohet.

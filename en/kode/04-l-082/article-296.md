@@ -1,9 +1,0 @@
-# Article 296
-Violation of copyrights 1. Whoever, under his own name, or somebody else's name discloses or otherwise communicates to the public a copyrighted work or a performance of another, in whole or in part, shall be punished by a fine and imprisonment of three (3) months to up to three (3) years.
-2. Whoever during use of copyrighted work or a performance of another intentionally fails to state the name, pseudonym or mark of the author or performer, when this is required by law, shall be punished by fine and imprisonment for up to one (1) year.
-3. Whoever distorts, mutilates or otherwise harms a copyrighted work or a performance of another, and discloses it in such form or otherwise communicates it in such form to the public shall be punished for by fine or imprisonment for up to one (1) year.
-4. Whoever performs or otherwise communicates to the public a copyrighted work or a performance of another in an indecent manner, which is prejudicial to the honor and reputation of the author or performer, shall be punished by a fine or imprisonment for up to one (1) year.
-5. Whoever without authorization uses a copyrighted work or subject matter of related rights, shall be punished by imprisonment up to three (3) years.
-6. If, during the commission of the offense described in paragraph 5 of this Article, the perpetrator obtained for himself or for another person at least ten thousand (10,000) EUR but less than fifty thousand (50,000) EUR, he or she shall be punished by a fine and imprisonment of not less than three (3) months to five (5) years.
-7. When the perpetrator of the offense in paragraph 5 of this Article obtains for himself, herself, or for another person more than fifty thousand (50,000) EUR, he or she shall be punished by a fine and imprisonment of not less than six (6) months to eight (8) years.
-8. The objects and the equipment for their manufacturing provided for in this Article shall be confiscated.

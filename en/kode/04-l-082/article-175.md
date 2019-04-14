@@ -1,4 +1,0 @@
-# Article 175
-Hostage-taking 1. Whoever takes hostage and threatens to kill a person, to injure or to continue to keep such person with the intent to compel a State or international organization, to do or abstain from doing an act as an explicit or implicit condition for the release of the hostage, shall be punished by imprisonment of not less than three (3) years.
-2. Whoever intentionally deprives the hostage of his or her life in committing an offense provided for in paragraph 1 of this Article shall be punished by not less than ten (10) years or of life long imprisonment.
-3. When the offense in paragraph 1 of this Article results in the death of the hostage, the perpetrator shall be punished by imprisonment of not less than ten (10) years.

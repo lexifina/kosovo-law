@@ -1,0 +1,2 @@
+# Article 5
+Limitations on the execution of criminal sanctions and measures of mandatory treatment In the execution of a criminal sanction or a measure of mandatory treatment, certain rights of the perpetrator may be restricted only to the extent that is commensurate with the nature or the content of the sanction or measure and only in a manner that provides for the respect of his or her human dignity, and is in compliance with constitution and applicable legislation.

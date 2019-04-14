@@ -1,0 +1,10 @@
+# Article 86
+Mandatory psychiatric treatment at liberty 1. The court may impose a measure of mandatory psychiatric treatment at liberty on a perpetrator who has committed a criminal offense while in a state of mental incompetence or substantially diminished mental capacity, if it determines that:
+1.1. there is a serious danger that the perpetrator will commit a criminal offense;
+1.2. the mandatory psychiatric treatment at liberty is necessary to avoid the commission of another criminal offense; and 1.3. mandatory psychiatric treatment at liberty is sufficient to avoid serious danger.
+2. The measures of mandatory psychiatric treatment at liberty from paragraph 1. of this Article may be imposed on a perpetrator upon whom a measure of mandatory psychiatric treatment in custody in a health care institution was imposed when the court verifies that the custody in the health care institution is no longer necessary and the measures of mandatory psychiatric treatment at liberty are sufficient to address the considerations set forth in sub-paragraphs 1.1. to 1.3. of paragraph 1. of this Article.
+3. Subject to the conditions set forth in paragraph 1. of this Article, the court may impose mandatory psychiatric treatment at liberty on a perpetrator whose mental capacity is substantially diminished and who is on conditional release as provided for in Article 90 of this Code.
+4. The mandatory psychiatric treatment at liberty may not exceed three (3) years if it imposed on a perpetrator who has substantially diminished mental capacity.
+CODE NO. 06/L-074 CRIMINAL CODE OF THE REPUBLIC OF KOSOVO 5. The court may impose mandatory psychiatric treatment in custody in a health care institution:
+5.1. when the perpetrator fails to undergo the mandatory psychiatric treatment at liberty as set forth in paragraphs 1. to 3. of this Article;
+5.2. when the perpetrator abandons the mandatory psychiatric treatment at liberty; or 5.3. when, in spite of the mandatory psychiatric treatment in custody in a health care institution, there is a serious danger that the perpetrator will again commit a criminal offense.

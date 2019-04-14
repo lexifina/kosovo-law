@@ -1,0 +1,5 @@
+# Article 361
+Unlawful delivery or transportation of explosives or flammable materials 1. Whoever, in violation of the law transports or delivers for transport explosives or easily flammable materials shall be punished by a fine or by imprisonment of up to one (1) year.
+2. When the offense provided for in paragraph 1. this Article is committed by a person who delivers the explosives or easily flammable materials to be transported by public transportation or transports such materials himself or herself using public transportation shall be punished by a fine or imprisonment of up to three (3) years.
+3. Whoever in violation of the law delivers explosives or other easily flammable materials to premises where a large number of people convene, where a large number of people are gathered or where a large number of people are expected, shall be punished by imprisonment of six (6) months to three (3) years.
+4. If the criminal offense provided for in this Article is committed by negligence, the perpetrator shall be punished by a fine or imprisonment of up to one (1) year.

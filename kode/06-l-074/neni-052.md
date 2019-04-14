@@ -1,0 +1,3 @@
+# Neni 52
+Revokimi i dënimit me kusht për shkak të mos përmbushjes së kushteve
+Nëse dënimi me kusht është kushtëzuar me përmbushjen e një apo më shumë kushteve të paraparë me paragrafin 3 të nenit 48 dhe nenin 56 të këtij Kodi dhe personi i dënuar nuk përmbush kushtin apo kushtet brenda afatit të caktuar nga gjykata, gjykata mund ta vazhdojë afatin e përmbushjes së kushtit brenda afatit të verifikimit apo mund ta revokojë dënimin me kusht dhe ta ekzekutojë dënimin i cili është caktuar me dënimin me kusht. Nëse gjykata konstaton se personi i dënuar nuk ka mund ta përmbushë kushtin për shkaqe të arsyeshme, gjykata e heq përmbushjen e atij kushti ose e zëvendëson atë me një kusht tjetër përkatës të paraparë me ligj.

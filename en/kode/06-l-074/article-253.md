@@ -1,0 +1,7 @@
+# Article 253
+Employing persons infected by contagious diseases 1. Whoever, contrary to health laws, in a hospital, maternity hospital, school, restaurant, a store where food items are processed or hygienic services are carried out or in a similar business organization or workplace, employs or continues to employ a person whom he or she knows to be suffering from a contagious disease and thereby causes the transmission of the contagious disease shall be punished by a fine or by imprisonment of up to one (1) year.
+2. When the offense provided for in paragraph 1. of this Article is committed by negligence, the perpetrator shall be punished by a fine or by imprisonment of up to six (6) months.
+3. When the offense provided for in paragraph 1. of this Article results in the serious impairment to another’s health, the perpetrator shall be punished by imprisonment of six (6) months to three (3) years.
+4. When the offense provided for in paragraph 2. of this Article results in the serious impairment to another’s health, the perpetrator shall be punished by imprisonment of up to three (3) years.
+5. When the offense provided for in paragraph 1. of this Article results in the death of one or more persons, the perpetrator shall be punished by imprisonment of one (1) to ten (10) years.
+6. When the offense provided for in paragraph 2. of this Article results in the death of one or more persons, perpetrator shall be punished by one (1) to five (5) years.

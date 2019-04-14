@@ -1,5 +1,0 @@
-# Article 428
-Accepting bribes 1. An official person who requests or receives, directly or indirectly, any undue gift or advantage, for himself, herself or for another person, or who accepts an offer or promise of such gift or advantage, so that the official person acts or refrains from acting in accordance with his or her official duties, shall be punished by fine and imprisonment of six (6)
-CRIMINAL CODE OF THE REPUBLIC OF KOSOVO months to five (5) years.
-2. An official person who requests or receives, directly or indirectly, any undue gift or advantage, for himself or herself or for another person, or accepts an offer or promise of such gift or advantage, so that the official person acts or refrains from acting, in violation of his or her official duties, shall be punished by fine and imprisonment of three (3) to twelve (12) years.
-3. When the offense under paragraph 1 of this Article results in a benefit exceeding fifteen thousand (15,000) EUR, the perpetrator shall be punished by fine and imprisonment of one (1) to eight (8) years.

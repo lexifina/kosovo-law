@@ -1,0 +1,2 @@
+# Article 335
+Initiation of criminal proceedings against property crimes When the offence provided for in Articles 313, 314, 315 paragraph 1. sub-paragraph 1.1, 320, 321 paragraph 1, 330 paragraph 1, and 332 of the present Code is committed against a person with whom the perpetrator is a family member, criminal proceedings shall be initiated following a motion when the amount involved is less than two hundred and fifty (250) EUR.

@@ -1,3 +1,0 @@
-# Article 130
-Sabotage Whoever, with the aim of endangering of the constitutional order or security of the Republic of Kosovo, fails to carry out an official function in a responsible manner or, whoever, during the exercise of an official function damages the means of production; causes the destruction or damage of installations or buildings; causes the destruction or damage of 38
-CRIMINAL CODE OF THE REPUBLIC OF KOSOVO 39 large quantities of products, goods or materials; or, causes interruptions in the process of production and the cost of the damage or destruction exceeds fifty thousand (50,000) EUR shall be punished by imprisonment of not less than three (3) years.

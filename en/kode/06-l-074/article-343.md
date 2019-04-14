@@ -1,0 +1,6 @@
+# Article 343
+Providing irresponsible veterinarian assistance 1. A veterinarian or an authorized assistant of a veterinarian who, when in providing veterinarian assistance, prescribes or applies obviously inappropriate means or an incorrect method of treatment or fails to use appropriate hygienic measures and thereby causes the deterioration or in general violates the rules of the veterinary profession in the process of treatment and thereby
+CODE NO. 06/L-074 CRIMINAL CODE OF THE REPUBLIC OF KOSOVO causes sickness, a deterioration of sickness or the death of an animal shall be punished by a fine or by imprisonment of up to one (1) year.
+2. When the offense provided for in paragraph 1. of this Article is committed by negligence the perpetrator shall be punished by a fine or by imprisonment of up to six (6) months.
+3. When the offense provided for in paragraph 1. of this Article results in the death of a great number of animals or birds, the perpetrator shall be punished by imprisonment of three (3) months to three (3) years.
+4. When the offense provided for in paragraph 2. of this Article results in the death of a great number of animals or birds, the perpetrator shall be punished by a fine or imprisonment of up to one (1) year.

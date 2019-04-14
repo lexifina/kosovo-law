@@ -1,0 +1,4 @@
+# Article 308
+False tax related documents 1. Whoever makes a false statement or provides a false document including but not limited to a false receipt, when the submission of a truthful statement or document is required by law, or whoever does not issue a document whose issuance is required by law, shall be punished by a fine and by imprisonment of up to three (3) years.
+2. When the offense referred to in paragraph 1. of this Article involves a large number of documents, or if the offense was committed to avoid payment of taxes of fifteen thousand (15,000) EUR or more, the perpetrator shall be punished by a fine and imprisonment of six (6) months to five (5) years.
+3. If the offense provided for in paragraph 1. of this Article exceeds fifty thousand (50,000) Euros, the perpetrator shall be punished by a fine and imprisonment of one (1) to eight (8) years.

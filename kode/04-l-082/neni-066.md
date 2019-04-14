@@ -1,5 +1,0 @@
-# Neni 66
-Ndalimi i ushtrimit të profesionit, veprimtarisë ose detyrës
-1. Gjykata mund t’ia ndalojë kryesit të veprës penale ushtrimin e profesionit të caktuar, veprimtarisë së pavarur, detyrës menaxhuese apo administrative ose detyrave që janë të lidhura me sistemimin, menaxhimin apo shfrytëzimin e pasurisë në pronësi publike apo mbrojtjen e pasurisë së tillë, nëse ai person e ka keqpërdoruar pozitën e tij, veprimtarinë apo detyrën me qëllim të kryerjes së veprës penale ose nëse ka arsye të pritet që ushtrimi i profesionit, veprimtarisë apo detyrës së tillë nga ai mund të keqpërdoret për kryerjen e veprës penale.
-2. Gjykata e cakton kohëzgjatjen e dënimit të caktuar sipas paragrafit 1. të këtij neni, i cili nuk mund të jetë më i shkurtër se një (1) vit e as më i gjatë se pesë (5) vjet, duke llogaritur nga dita kur vendimi merr formën e prerë. Koha e mbajtur në burg ose në institucionin e kujdesit shëndetësor nuk llogaritet në kohëzgjatje të këtij dënimi.
-3. Kur shqipton dënimin me kusht, gjykata mund të vendosë që ky dënim me kusht të revokohet nëse kryesi nuk e respekton ndalesën e ushtrimit të profesionit, veprimtarisë apo detyrës.

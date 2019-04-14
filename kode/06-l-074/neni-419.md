@@ -1,0 +1,6 @@
+# Neni 419
+Mashtrimi në detyrë
+1. Personi zyrtar, i cili me qëllim të përfitimit të kundërligjshëm të dobisë pasurore për vete apo për personin tjetër, bën krijimin, përdorimin ose prezantimin e rremë të raportit të llogarive apo në ndonjë mënyrë tjetër e vë në lajthim personin e autorizuar në kryerjen e pagesës ose transferit të kundërligjshëm të parave, pasurisë ose të drejtave tjera, dënohet me gjobë dhe me burgim prej gjashtë (6) muaj deri në pesë (5) vjet.
+KODI NR. 06/L-074 PENAL I REPUBLIKËS SË KOSOVËS 2. Kushdo që me qëllim të kryerjes, fshehjes ose maskimit të një vepre penale sipas neneve 309, 310, 421, 422, 423 ose 424 të këtij Kodi, krijon ose përdor një faturë ose ndonjë dokument tjetër kontabël ose regjistrim që përmban informata të rrejshme ose jo të plota, ose heq dorë nga regjistrimi i pagesës, dënohet me gjobë dhe me burgim prej një (1) deri në tetë (8) vjet.
+3. Nëse vepra penale nga paragrafi 1. i këtij neni rezulton me dobi pasurore në vlerë që tejkalon pesëmijë (5.000) Euro, kryesi dënohet me gjobë dhe me burgim prej një (1) deri në tetë (8) vjet.
+4. Nëse vepra penale nga paragrafi 1. i këtij neni rezulton me dobi pasurore në vlerë që tejkalon pesëdhjetë mijë (50.000) Euro, kryesi dënohet me gjobë dhe me burgim prej tre (3) deri në dymbëdhjetë (12) vjet.

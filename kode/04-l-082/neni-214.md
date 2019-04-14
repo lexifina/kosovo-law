@@ -1,3 +1,0 @@
-# Neni 214
-Keqpërdorimi i detyrës zyrtare gjatë zgjedhjeve
-Çdo person zyrtar të cilit i janë besuar detyra lidhur me zgjedhjet, keqpërdor pozitën, detyrën apo autoritetin e tij duke urdhëruar, këshilluar ose kryer ndonjë vepër të kundërligjshme me qëllim të ndryshimit apo ndikimit të listës së regjistrimit të votuesve ose votimit të cilitdo person ose në ndonjë mënyrë tjetër vepron me qëllim që të ndryshojë, ndikojë ose pengojë ndonjë person nga ushtrimi i të drejtës së tij për të votuar, për të mos votuar, për të hedhur një votë të pavlefshme ose për të votuar në favor apo kundër një personi ose propozimi të caktuar, dënohet me gjobë dhe me burgim prej dy (2) deri në pesë (5) vjet.

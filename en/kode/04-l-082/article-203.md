@@ -1,5 +1,0 @@
-# Article 203
-Unauthorized disclosure of confidential information 1.An attorney, a defense counsel, physician or any other person who, without authorization, discloses confidential information that he or she became aware of while exercising his or her profession and that he or she is under legal duty to maintain as confidential, shall be punished by a fine or by imprisonment of up to one (1) year.
-2. A person is not criminally liable under paragraph 1 of this Article if he or she disclosed the confidential information in the public interest, if such interest outweighs the interest in the non-disclosure of the confidential information.
-3. Criminal proceedings for the offense provided for in paragraph 1 of this Article shall be initiated upon a motion.
-4. Public Interest” means the welfare of the general public outweighs the individual interest. The disclosure of confidential information is in the public interest if it involves plans, preparation or the commission of crimes against the constitutional order or territorial integrity of the Republic of Kosovo or other criminal offenses that will cause great bodily injury or death to another person.

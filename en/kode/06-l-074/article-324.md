@@ -1,0 +1,5 @@
+# Article 324
+Subsidy fraud 1. Whoever, in connection with the application for a grant, continuation, or modification of the terms of a subsidy, provides a competent authority with incorrect or incomplete information which is a condition for the granting, continuation or modification of a subsidy, or conceals such information in violation of an obligation to disclose such information to a competent authority, shall be punished by a fine or by imprisonment of up to five (5) years.
+2. Whoever uses such subsidy in violation of the law or for purposes other than those for which it was originally granted by the subsidy provider shall be punished by a fine or by imprisonment of up to five (5) years.
+3. If the offense provided for in paragraphs 1. or 2. of this Article results in material gain or material damage exceeding twenty-five thousand (25,000) EUR, the perpetrator shall be punished by imprisonment of one (1) to eight (8) years.
+4. A subsidy for the purposes of this provision means a benefit from public funds under the law of the Republic of Kosovo which, at least in part is granted without market related consideration and is aimed at stimulating the economy.

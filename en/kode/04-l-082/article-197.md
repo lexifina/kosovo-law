@@ -1,3 +1,0 @@
-# Article 197
-Coercion to obtain statements 1. An official person who, in abusing his or her position or authorizations, uses force or serious threat or any other prohibited means or manner to compel any suspect, defendant, witness, expert or other person to make a statement or declaration shall be punished by imprisonment of three (3) months to five (5) years.
-2. When the offense provided for in paragraph 1. of this Article is committed using grave violence or if the suspect, defendant, witness, expert or other person suffered grave consequences in the criminal proceedings as a result of the statement or declaration obtained by coercion, the perpetrator shall be punished by imprisonment of one (1) to ten (10) years.

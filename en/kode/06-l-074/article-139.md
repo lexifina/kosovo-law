@@ -1,0 +1,2 @@
+# Article 139
+Irrelevance of the commission of a terrorist offense and relationship to terrorist offenses For an act to constitute an offense as set forth in Articles 128-138 of this Chapter, it is not necessary that a terrorist offense be actually committed, nor shall it be necessary, insofar as the offenses referred to in Articles 132, 133, 134 and 137 of this Chapter are concerned, to establish a link to another offence in this Code.

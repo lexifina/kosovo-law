@@ -1,0 +1,8 @@
+# Article 426
+Disclosing official secrets 1. An official person who, without authorization, communicates, sends, or in some other way makes available to another person information which constitutes an official secret or obtains such information with the intent to convey it to an unauthorized person shall be punished by
+CODE NO. 06/L-074 CRIMINAL CODE OF THE REPUBLIC OF KOSOVO imprisonment of six (6) months to three (3) years.
+2. When the offense provided for in paragraph 1. of this Article is committed for personal gain or for the purpose of publishing or using the information outside of the Republic of Kosovo, the perpetrator shall be punished by a fine and imprisonment of one (1) to ten (10) years.
+3. When the offense provided for in paragraph 1. of this Article is committed by negligence, the perpetrator shall be punished by a fine or by imprisonment of up to three (3) years.
+4. The provisions of this Article shall apply to a person who discloses an official secret after his or her official status has ceased.
+5. For the purposes of this Article, the term “official secret” means information or documents proclaimed by law, other provisions, or by a decision by the competent authority issued on the basis of law to be an official secret and whose disclosure has caused or might cause detrimental consequences. However, the following are not official secrets:
+5.1. information or documents that pertain to grave violations of basic human rights or which the failure to disclose could endanger the constitutional order or security of the Republic of Kosovo; or, 5.2. information and documents that are intended to conceal the perpetrator of a criminal offense punishable by imprisonment of at least five (5) years.

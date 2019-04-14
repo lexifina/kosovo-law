@@ -1,6 +1,0 @@
-# Neni 144
-Përgatitja e veprave terroriste ose veprave penale kundër rendit kushtetues dhe sigurisë së Republikës së Kosovës
-1. Kushdo që përgatit kryerjen e veprave penale nga nenet 135-142 të këtij Kapitulli, dënohet me burgim prej një (1) deri në pesë (5) vjet.
-2. Për qëllime të këtij neni, shprehja “përgatitje e veprës penale” përfshin furnizimin apo aftësimin e mjeteve kryesve për kryerjen e veprës penale, eliminimin e pengesave për kryerjen e veprës penale, marrëveshjen, planifikimin apo organizimin me personat e tjerë për kryerjen e veprës penale, si dhe çfarëdo veprime tjera që krijojnë kushte për kryerjen e drejtpërdrejtë të veprës penale, por të cilat nuk e përbëjnë vet veprën penale.
-3. Kushdo që dërgon apo bartë në apo jashtë territorit të Republikës së Kosovës armë, eksploziv, helme, pajisje, municion apo material tjetër për kryerjen e një apo më shumë veprave penale nga ky kapitull, dënohet me burgim prej pesë (5) deri në pesëmbëdhjetë (15) vjet.
-4. Kushdo që me qëllim të kryerjes së një apo më shumë veprave terroriste nga ky Kapitull, dërgon apo bartë grupe te armatosura, pajisje ose burime tjera materiale në ose jashtë Republikës së Kosovës, dënohet me burgim prej dhjetë (10) deri në njëzet (20) vjet.

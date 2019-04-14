@@ -1,3 +1,0 @@
-# Article 323
-Alteration of an utilities meter 1. Whoever alters any meter used for measuring the quantity of any utility supplied to any premises by an Authorized Supplier or prevents any such meter or metering from correctly registering the quantity of any utility supplied shall be punished by a fine and imprisonment of up to three (3) years.
-2. For a prosecution of an offense under this Article, the possession of an artificial means for causing an alteration of the register of the meter or the prevention of the meter from duly registering shall be sufficient evidence that the alteration or prevention was intentionally caused the person who has the custody or control of the meter.

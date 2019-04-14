@@ -1,0 +1,5 @@
+# Neni 117
+Tradhtia ndaj vendit 1. Shtetasi i Republikës së Kosovës që në cilësinë e Presidentit të Republikës, Kryeministrit apo Ministrit të Punëve të Jashtme, nënshkruan pranimin e okupimit apo aktin e kapitullimit të shtetit dënohet me burgim së paku pesëmbëdhjetë (15) vjet ose me burgim të përjetshëm.
+2. Shtetasi i Republikës së Kosovës që në cilësinë e Presidentit të shtetit, Kryeministrit apo
+KODI NR. 06/L-074 PENAL I REPUBLIKËS SË KOSOVËS Ministrit të Punëve të Jashtme, nënshkruan marrëveshje ndërkombëtare ose ndonjë akt me të cilin pjesë të territorit të Republikës së Kosovës jepen apo lihen nën sovranitetin e ndonjë shteti tjetër, dënohen me burgim së paku pesëmbëdhjetë (15) vjet ose me burgim të përjetshëm.
+3 Shtetasi i Republikës së Kosovës që në cilësinë e Presidentit të Republikës së Kosovës, Kryeministrit apo Ministrit të Punëve të Jashtme, braktisë vendin gjatë kohës së luftës ose gjendjes së jashtëzakonshme duke lënë forcat e armatosura pa sistem të komandimit dënohet me burgim së paku pesëmbëdhjetë (15) vjet ose me burgim të përjetshëm.

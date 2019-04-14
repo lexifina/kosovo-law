@@ -1,3 +1,0 @@
-# Neni 340
-Detyrimi 1. Kushdo që me qëllim të përfitimit të kundërligjshëm të dobisë pasurore për vete apo personin tjetër, përdor forcën apo kanosjen serioze për të detyruar personin tjetër të kryej apo të mos kryejë ndonjë veprim në dëm të pasurisë së tij apo të personit tjetër, dënohet me gjobë dhe me burgim prej tre (3) muaj deri në pesë (5) vjet.
-2. Nëse vepra penale nga paragrafi 1. i këtij neni kryhet nga kryesi i cili vepron si anëtar i grupit; kryhet me përdorimin e armës apo mjetit të rrezikshëm; ose vepra penale rezulton me dobi pasurore në shumën që tejkalon dhjetëmijë (10.000) Euro, kryesi dënohet me gjobë dhe me burgim prej një (1) deri në dhjetë (10) vjet.

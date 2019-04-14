@@ -1,0 +1,6 @@
+# Article 317
+Robbery 1. Whoever, by the use of force or serious threat to attack the life or body of another person, appropriates the movable property of such person with the intent to obtain an unlawful material benefit for himself or herself or another person shall be punished by a fine and imprisonment of three (3) to twelve (12) years.
+2. When the offense provided for in paragraph 1. this Article involves a stolen object of a value exceeding five thousand (5,000) EUR, the perpetrator shall be punished by a fine and imprisonment of five (5) to twelve (12) years.
+3. When the offense provided for in paragraph 1. of this Article is committed by the perpetrator acting as a member of a group or while in possession of a weapon or dangerous instrument, the perpetrator shall be punished by a fine and imprisonment of seven (7) to twelve (12) years.
+4. When the offense provided for in paragraph 1. of this Article is committed by the perpetrator acting as a member of an armed group or the offense results in grievous bodily injury, the perpetrator shall be punished by a fine and imprisonment of seven (7) to fifteen (15) years.
+5. When the offense provided for in paragraph 1. of this Article results in death, the perpetrator shall be punished by a fine and imprisonment of not less than ten (10) years or lifelong imprisonment.

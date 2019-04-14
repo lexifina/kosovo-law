@@ -1,2 +1,0 @@
-# Article 154
-Attacks in armed conflicts not of an international character against installations containing dangerous forces Whoever, in violation of the laws and customs applicable in armed conflicts not of an international character, intentionally launches an attack against works or installations containing dangerous forces in the knowledge that such attack will cause excessive loss of life, injury to civilians or damage to civilian objects shall be punished by imprisonment of not less than ten (10) years or by lifelong imprisonment.

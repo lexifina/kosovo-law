@@ -1,0 +1,5 @@
+# Article 90
+Conditional release 1. A convicted person may be granted conditional release in accordance with this Code and the Law on the Execution of Penal Sanctions. The conduct of the convicted person while serving his or her punishment shall be taken into consideration when deciding whether or not conditional release is granted.
+2. A person convicted of a criminal offence for which a punishment of at least five (5) years imprisonment has been provided, may be granted conditional release after serving two-thirds (2/3) of the imposed sentence. For other criminal offences, the convicted person may be granted conditional release after having served half of the imposed sentence.
+3. A convicted person who has served thirty (30) years of a sentence of life long imprisonment may be granted conditional release on the condition that he or she does not commit another criminal offense. The minimum period of supervision by the Probation Service shall be at least five (5) years.
+4. Conditional release shall be decided by the Conditional Release Panel in accordance with the Law on the Execution of Penal Sanctions.

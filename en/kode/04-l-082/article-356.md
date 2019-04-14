@@ -1,4 +1,0 @@
-# Article 356
-Destruction of vegetation by harmful substances 1. Whoever, contrary to the law and by the use of a harmful substance, causes the destruction of, plants, trees or other vegetation and thereby causes damage of ten thousand (10,000) EUR or more shall be punished by a fine or by imprisonment of up to two (2) years.
-2. If the offense provided for in paragraph 1 of this Article is committed against a specially protected, plants, trees or vegetation, the perpetrator shall be punished by a fine or by imprisonment from three (3) months to three (3) years.
-3. When the offense provided for in paragraph 1 of this Article is committed by negligence, the perpetrator shall be punished by a fine or imprisonment of up to six (6) months. When the offense provided for in paragraph 2 of this Article is committed by negligence, the perpetrator shall be punished by a fine or by imprisonment of up to one (1) year.

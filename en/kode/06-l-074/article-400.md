@@ -1,0 +1,2 @@
+# Article 400
+Unlawful facilitation of the exercise of a profession, activity or duty Whoever enables another person to exercise a profession, activity or duty, even though he or she knows that a final judgment imposing an accessory punishment has prohibited the person from exercising such profession, activity or duty shall be punished by a fine or imprisonment of three (3) months to three (3) years.

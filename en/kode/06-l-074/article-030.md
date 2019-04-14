@@ -1,0 +1,3 @@
+# Article 30
+Voluntary abandonment of attempt 1. The court may waive the punishment of a person for a punishable attempt of a criminal offense if such person voluntarily abandons the commission of a criminal offense which he or she has commenced, even though he or she is aware that according to all the circumstances he or she could continue the act or, if after the completion of such an act, he or she prevents the occurrence of the consequences.
+2. The perpetrator shall be punished for those acts described in paragraph 1. of this Article which constitute another separate criminal offense. COLLABORATION IN CRIMINAL OFFENSES

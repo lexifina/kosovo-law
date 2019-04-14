@@ -1,0 +1,8 @@
+## CHAPTER XVII
+## CRIMINAL OFFENSES AGAINST LIBERTIES AND RIGHTS OF PERSONS
+# Article 190
+Violating equal status of citizens and residents of the Republic of Kosovo 1. Whoever due to the national or ethnic origin, race, religion, or because does not belong to any affiliation, or because of political beliefs or other beliefs, gender, disability, gender identity, sexual orientation, language, education, social status, social background, material condition, or any other personal characteristic, denies or restrict to the other the rights defined by the Constitution, Law or other provisions, other general acts or ratified international agreements, or gives privileges or favors on the basis of such a difference, shall be punished by imprisonment of up to three (3) years.
+2. Whoever denies or limits a member of an ethnic, religious or linguistic community in the Republic of Kosovo the right to freely express his or her identity or to enjoy his or her autonomy shall be punished by imprisonment of up to one (1) year.
+3. Whoever, contrary to the laws regarding the use of language and script, denies a national of the Republic of Kosovo the right to freely use his or her own language or script shall be punished by a fine or by imprisonment of up to one (1) year.
+4. When the offense provided for in paragraph 1. and 2. of this Article is committed by an official person abusing his or her position or authorizations, the perpetrator shall be punished by imprisonment of six (6) months to five (5) years;
+5. When the offense provided for in paragraph 3. of this Article is committed by an official person abusing his or her position or authorizations, the perpetrator shall be punished by imprisonment of six (6) months to three (3) years.

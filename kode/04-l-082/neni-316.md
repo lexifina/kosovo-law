@@ -1,6 +1,0 @@
-# Neni 316
-Dhënia e paarsyeshme e dhuratave
-1. Kushdo që jep, tenton të jep apo premton shpërblim, dhuratë apo ndonjë përfitim tjetër joproporcional personit i cili ushtron veprimtari ekonomike me qëllim të lënies anash të interesave të organizatës së tij të biznesit ose të personit juridik ose për t’i shkaktuar dëm organizatës së tillë të biznesit apo personit juridik me rastin e lidhjes së kontratës apo kryerjes së ndonjë shërbimi, dënohet me gjobë dhe me burgim deri në tre (3) vjet.
-2. Kushdo që jep, tenton të jep apo premton shpërblim, dhuratë apo ndonjë përfitim tjetër joproporcional personit i cili ushtron veprimtari ekonomike me qëllim të arritjes së ndonjë përparësie të paarsyetueshme për lidhjen e kontratës apo për kryerjen e ndonjë shërbimi, dënohet me gjobë dhe me burgim deri në tre (3) vjet.
-3. Nëse kryesi i veprës penale nga paragrafi 1. ose 2. i këtij neni jep shpërblim apo dhuratë sipas kërkesës dhe nëse veprën e lajmëron para së të jetë zbuluar apo para se ai ta ketë kuptuar se është zbuluar, gjykata mund ta lirojë nga dënimi.
-4. Dhurata apo shpërblimi i dhënë konfiskohen, përveç në rastin nga paragrafi 3. i këtij neni ku në rastin e tillë dhurata apo shpërblimi mund ti kthehen personit i cili e kishte dhënë.

@@ -1,5 +1,0 @@
-# Article 410
-Attacking official persons performing official duties 1. Whoever attacks or seriously threatens to attack an official person, judge, prosecutor or a person who assists in performing official duties related to public security or the security of the Republic of Kosovo or maintaining public order shall be punished by imprisonment of three (3) months to three (3) years.
-2. When the offense provided for in paragraph 1 of this Article results in light bodily injury to the official person or his or her assistant or involves a threat to use a weapon or dangerous instrument, the perpetrator shall be punished by imprisonment of six (6) months to five (5) years.
-3. When the offense provided for in paragraph 1 of this Article, results in grievous bodily injury to the official person or his or her assistant, the perpetrator shall be punished by imprisonment of one (1) to ten (10) years.
-4. When the perpetrator of the offense provided for in paragraphs 1, 2 or 3 of this Article is provoked by the unlawful or brutal action of the official person, the court may mitigate the punishment.

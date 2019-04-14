@@ -1,0 +1,3 @@
+# Neni 309
+Pranimi i rryshfetit në sektorin privat 1. Kushdo që drejton ose punon në cilësinë e një subjekti të sektorit privat ose që punon si person i vetëpunësuar, në mënyrë të drejtpërdrejtë ose të tërthortë kërkon ose merr ndonjë dhuratë të pamerituar ose keqpërdor pozitën ose premtimin nga dikush ose pranon një ofertë ose premtim për një dhuratë apo shpërblim të tillë, për vete ose për një person tjetër, me qëllim që të veprojë ose të mos veprojë në shkelje të detyrës ose të funksionit të tij gjatë ushtrimit të veprimtarisë ekonomike, financiare ose tregtare, dënohet me gjobë dhe me burgim prej gjashtë (6) muaj deri në pesë (5) vjet.
+2. Dhurata apo shpërblimi konfiskohet.

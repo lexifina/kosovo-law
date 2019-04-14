@@ -1,0 +1,2 @@
+# Article 387
+Intimidation during criminal proceedings Whoever uses force or serious threat, or any other means of compulsion, a promise of a gift or any other form of benefit to induce another person to refrain from making a statement or to make a false statement or to otherwise fail to state true information to the police, a prosecutor or a judge, when such information relates to obstruction of criminal proceedings shall be punished by a fine of up to one hundred and twenty-five thousand (125,000) EUR and by imprisonment of two (2) to ten (10) years.

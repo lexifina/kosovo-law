@@ -1,2 +1,0 @@
-# Neni 155
-Rekrutimi ose regjistrimi i personave midis moshës pesëmbëdhjetë dhe tetëmbëdhjetë vjet në konfliktin e armatosur Kushdo që rekruton ose regjistron personat midis moshës pesëmbëdhjetë (15) dhe tetëmbëdhjetë (18) vjet në forcat e armatosura ose në grupe apo i shfrytëzon ata për pjesëmarrje aktive në armiqësitë në një konflikt të armatosur të një karakteri ndërkombëtar ose në ndonjë konflikt të armatosur që nuk ka karakter ndërkombëtar, dënohet me burgim prej një (1) deri në dhjetë (10) vjet.

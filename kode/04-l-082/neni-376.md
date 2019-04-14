@@ -1,6 +1,0 @@
-# Neni 376
-Lejet, pëlqimet dhe licencat e rreme të armëve dhe dhënia e informatave te rreme
-1. Kushdo që jep informata të rreme, qoftë gojarisht apo me shkrim, në cilëndo fazë të procedurës së aplikimit për leje, pëlqim apo licencë të mbajtjes së armës apo mjetit plasës, dënohet me gjobë deri në pesëmijë (5.000) Euro ose me burgim deri në tre (3) vjet.
-2. Kushdo që prodhon, posedon, shet ose blen leje, pëlqim apo licencë të rreme të mbajtjes së armës apo mjetit plasës, dënohet me gjobë deri në pesëmijë (5.000) Euro ose me burgim deri në tre (3) vjet.
-3. Kushdo që mban lejen, licencën apo ndonjë autorizim tjetër për mbajtjen e armëve apo mjeteve plasëse dhe nuk ia tregon menjëherë lejen, licencën apo autorizimin tjetër policisë apo KFOR-it sipas kërkesës së tyre, dënohet me gjobë deri në dymijë e pesëqind (2.500) Euro ose me burgim deri në tre (3) muaj. Nëse kryesi nuk e ka lejen apo licencën në posedim në kohën e kërkesës dhe ai nuk njofton policinë apo KFOR-in për vendndodhjen e lejes, licencës apo autorizimit tjetër, kryesi dënohet me gjobë deri në dymijë e pesëqind (2.500) Euro ose me burgim deri në tre (3) muaj.
-4. Leja, licenca apo autorizimi tjetër i rremë konfiskohet. Mjetet për prodhimin e lejes, licencës apo autorizimit tjetër të rremë konfiskohen.

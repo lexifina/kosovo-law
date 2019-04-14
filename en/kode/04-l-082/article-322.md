@@ -1,4 +1,0 @@
-# Article 322
-Permitting unauthorized connection to utilities 1. Whoever permits an unauthorised connection or re-connection to a utility transmission or distribution network to exist on a property in his or her possession or under his or her ownership or control; or whoever, provides an unauthorised connection or re-connection to a utility transmission or distribution network to a property in his or her possession or under his or her ownership or control shall be punished by a fine and imprisonment of up to three (3) years.
-2. The conduct in paragraph 1 of this Article is not a criminal offense if the person upon obtaining knowledge of the unauthorized connection or re-connection, immediately notifies the concerned Authorized Supplier of the existence of such unauthorised connection or re-connection.
-CRIMINAL CODE OF THE REPUBLIC OF KOSOVO

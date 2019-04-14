@@ -1,4 +1,0 @@
-# Article 15
-Acts committed under coercion 1. An act committed under coercion is not a criminal offense.
-2. An act is committed under coercion when a person, faced with imminent force, or threat of violence endangering life, body or liberty which cannot otherwise be avoided, commits an unlawful act to avert the danger from himself, herself or a person with whom he or she has a domestic relationship. An act will only be considered to have been committed under coercion if, when the danger ceases to exist, the person immediately reports the coercion and the unlawful act to the competent authority.
-3. An act is not committed under coercion if, and to the extent that, the perpetrator could be expected under the circumstances to accept the danger, in particular because he or she caused the danger or because he or she was under a legal obligation to face such imminent force or threat of violence. In such circumstances the punishment may be reduced.

@@ -1,3 +1,0 @@
-# Neni 129
-Rrezikimi i rendit kushtetues me shkatërrimin apo dëmtimin e instalimeve dhe pajisjeve publike
-Kushdo që me qëllim të rrezikimit të rendit kushtetues apo sigurisë së Republikës së Kosovës, djeg ose në çfarëdo mënyre tjetër shkatërron apo dëmton zonën industriale, bujqësore ose ndonjë zonë tjetër ekonomike, sistemin e trafikut, lidhjet e telekomunikimeve, pajisjet publike të ujit, ngrohjes, gazit apo energjisë, pendat, depot, apo ndonjë ndërtesë tjetër të rëndësishme për sigurinë, furnizimin e qytetarëve, ekonominë apo funksionimin e shërbimeve publike, dënohet me jo më pak se tre (3) vjet burgim.

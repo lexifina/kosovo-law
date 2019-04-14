@@ -1,0 +1,11 @@
+# Article 311
+Smuggling of goods 1. Whoever, while crossing the border carries goods and avoids customs control, or whoever while avoiding customs control, carries the goods and crosses the border, shall be punished by a fine or by imprisonment of up to four (4) years.
+2. A first time offender under paragraph 1. of this Article, where the customs duty does not exceed five hundred (500) EUR, shall be punished by a fine or by imprisonment up to three (3) years.
+3. Whoever, without a proper license, avoids the customs control and crosses the border carrying goods, the export or import of which is prohibited, limited or requires a special license issued by the competent authorities, shall be punished by imprisonment of six (6) months to five (5) years.
+4. An official person who helps, facilitates, conceals, or does not hinder the offense shall be punished by imprisonment of one (1) to ten (10) years.
+5. When the offense provided for in paragraph 1., 2. or 3. of this Article is committed under one or more of the following circumstances, the perpetrator shall be punished by imprisonment of one (1) to ten (10) years:
+5.1. the perpetrator crosses the border with objects, goods or dangerous substances which put the life or health of humans at risk;
+5.2. the perpetrator crosses the border with objects, goods or dangerous substances that pose a danger to public security;
+5.3. the perpetrator uses force or serious threat or a weapon or a dangerous instrument during the commission of the offense.
+6. The goods provided for in paragraphs 1.,2. or 3. of this Article shall be confiscated. If the goods cannot be found, or for other reasons cannot be confiscated, the equivalent of the value of the goods shall be paid.
+7. The transport means or the means for carrying goods which were used for transporting the goods provided for in paragraphs 1., 2. or 3. of this Article may be confiscated.

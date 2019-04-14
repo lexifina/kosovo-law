@@ -1,0 +1,11 @@
+# Article 346
+Abuse of Animals and the Pollution of food and water for animals 1. Whoever maltreats an animal or engages in any sexual act with an animal for a sexual purpose, shall be punished by a fine or imprisonment of up to six (6) months.
+2. For the purposes of this Article:
+2.1 “maltreatment” shall mean causing the animal severe suffering, pain or distress, by any act or omission, which in its degree and in circumstances in which it is inflicted, is excessive or unnecessary;
+CODE NO. 06/L-074 CRIMINAL CODE OF THE REPUBLIC OF KOSOVO 2.2 ‘’sexual act’’ means penetration however slight of any part of the body of an animal with a person’s sexual organ, any part of the person’s body or an object for a sexual purpose;
+2.3 “sexual purpose” means any act done for the purposes of the sexual gratification of a person.
+3. Whoever organizes, finances, or hosts animal fights between animals of the same or different species or organizes or partakes in betting in such fights shall be punished by a fine or by imprisonment of up to one (1) year.
+4. Whoever, by the use of a noxious or harmful substance, pollutes food or water for animals, birds, bees, wild animals or fish or pollutes any water supply whether natural or man-made that provides water for animals, birds, bees, wild animals or fish and thereby endangers the life or health of animals, birds, bees, wild animals or fish shall be punished by a fine or by imprisonment of up to two (2) years.
+5. Whoever, by the use of a noxious or harmful substance, pollutes any body of water and thereby endangers the survival of animals, birds, bees, wild animals or fish in the water shall be punished as provided for in paragraph 4. of this Article.
+6. When the offense provided for in paragraph 4. or 5. of this Article results in the death of a large number of animals, birds, bees, wild animals or fish of a value exceeding ten thousand (10,000) EUR, the perpetrator shall be punished by a fine and imprisonment of three (3) months to three (3) years.
+7. When the offense provided for in paragraph 4. or 5. of this Article is committed by negligence, the perpetrator shall be punished by a fine or imprisonment up to three (3) months. When the offense provided for in paragraph 6. of this Article is committed by negligence, the perpetrator shall be punished by a fine or imprisonment of up to six (6) months.

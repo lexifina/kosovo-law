@@ -1,0 +1,4 @@
+# Article 325
+Fraud related to receiving funds from International community 1. Whoever intentionally uses or presents false, incorrect or incomplete statements or documents and as a result unlawfully receives or retains funds from any foreign country, or any agency or international entity shall be punished by imprisonment of one (1) to five (5) years.
+2. Whoever conceals information in violation of a specific obligation to disclose such information and as a result unlawfully receives or retains funds from any foreign country, or any agency or international entity shall be punished by a fine or by imprisonment of one (1) to three (3) years.
+3. Whoever uses funds from any foreign country, or any agency or international entity or any foreign country for purposes other than those for which they were originally granted shall be punished by imprisonment of two (2) to eight (8) years.

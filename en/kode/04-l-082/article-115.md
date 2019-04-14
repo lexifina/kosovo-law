@@ -1,7 +1,0 @@
-# Article 115
-Applicability of criminal laws of the Republic of Kosovo to specific criminal offenses committed outside the territory of the Republic of Kosovo 1. The criminal laws of the Republic of Kosovo apply to any person who commits the following criminal offenses outside the territory of the Republic of Kosovo;
-1.1. the criminal offenses provided for in Articles 148-153, 157-160, 164, 165, 166-169, 171, 173-175, 238, 241, 273-280, 293, 294, 302-304, 336 and 337 of this Code: and, 1.2. criminal offenses which on the basis of an international agreement binding on the Republic of Kosovo must be prosecuted even though committed abroad.
-2. The criminal laws of the Republic of Kosovo apply to any person who commits a criminal offense provided for in Articles 136-145 of this Code outside the territory of the Republic of Kosovo where such offense constitutes a threat to 32
-CRIMINAL CODE OF THE REPUBLIC OF KOSOVO 33 the security of the Republic of Kosovo or its population, in whole or in part.
-3. The criminal laws of Kosovo apply to any person who is a national of the Republic of Kosovo if such person commits a criminal offence outside the territory of the Republic of Kosovo and if this act is also punishable at the place of its commission.
-4. Paragraph 1 of this Article shall also apply to any person who, subsequent to the commission of a criminal offence, becomes a resident of the Republic of Kosovo.

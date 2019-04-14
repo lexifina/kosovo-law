@@ -1,0 +1,6 @@
+# Article 359
+Illegal Construction 1. A person who is contractor or a responsible person in a legal entity which is a contractor performing work without a building permit, where the law requires permit, shall be punished by a fine and by imprisonment of three (3) months to three (3) years.
+2. A person who is the owner, investor or a responsible person in a legal entity which is the investor of the facility being constructed without a building permit, where a permit is required, shall be punished by a fine and by imprisonment of six (6) months to five (5) years.
+3. When a stop work order has been issued and the person referred to in paragraphs 1. and 2. of this Article proceeds with the construction that has already commenced, the offender shall be punished by a fine and by imprisonment of one (1) to five (5) years.
+4. If the offense from paragraph 1., 2. or 3. of this Article is committed on public or state property, somebody else’s property, protected zones, special zones, specially protected zones, zones of special economic interest, sanitary zones for the use of water and protected zones for strategic purposes, the perpetrator shall be punished by one (1) year to eight (8) years.
+5. The illegal construction in this Article must be demolished and the cost of the demolition should be borne by the perpetrator.

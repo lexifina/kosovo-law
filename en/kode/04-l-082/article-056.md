@@ -1,3 +1,0 @@
-# Article 56
-Deadlines for revocation of suspended sentences 1. A suspended sentence may be revoked during the verification period. If a convicted person commits a criminal offense requiring revocation of the suspended sentence during the verification period but it is established by a final judgment only after the expiry of the verification period, the suspended sentence may be revoked no later than one (1) year after the expiry of the verification period.
-2. If a convicted person fails to comply with a condition imposed by the court as provided for in paragraph 3 of Article 51 and 59 of this Code within the time determined by the court, the court may revoke the suspended sentence no later than one (1) year after the expiry of the performance of obligations.

@@ -1,0 +1,10 @@
+# Article 254
+Irresponsible medical treatment 1. A doctor of medicine, doctor of dental medicine or other health care worker who in rendering health care services applies an obviously inadequate means or method of medical treatment or in some other way obviously fails to follow the rules of the health care profession or obviously acts carelessly, thereby causing the deterioration of an illness or the impairment of the health of another person shall be punished by imprisonment not exceeding one (1) year.
+2. If as a result of the criminal offence referred to in paragraph 1. of this Article another person suffers a serious bodily injury or the existing illness is considerably deteriorated, the perpetrator
+CODE NO. 06/L-074 CRIMINAL CODE OF THE REPUBLIC OF KOSOVO shall be punished by imprisonment not exceeding three (3) years.
+3. If as a result of the criminal offence referred to in paragraph 1. of this Article another person suffers an particularly serious bodily injury or a person’s pregnancy is terminated, the perpetrator shall be punished by imprisonment of six (6) months to five (5) years.
+4. If as a result of the criminal offence referred to in paragraph 1. of this Article one or more persons die, the perpetrator shall be punished by imprisonment of three (3) to twelve (12) years.
+5. If the criminal offence referred to in paragraph 1. of this Article is committed by negligence, the perpetrator shall be punished by imprisonment not exceeding six (6) months.
+6. If the criminal offence referred to in paragraph 2. of this Article is committed by negligence, the perpetrator shall be punished by imprisonment not exceeding one (1) year.
+7. If the criminal offence referred to in paragraph 3. of this Article is committed by negligence, the perpetrator shall be punished by imprisonment not exceeding three (3) years.
+8. If the criminal offence referred to in paragraph 4. of this Article is committed by negligence, the perpetrator shall be punished by imprisonment of one (1) to eight (8) years.

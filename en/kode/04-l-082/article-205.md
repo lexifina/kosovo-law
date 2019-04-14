@@ -1,6 +1,0 @@
-# Article 205
-Unauthorized photographing and other recording 1. Whoever, without authorization, photographs, films, or videos or in any other way records another person in his or her personal premises or in any other place where a person has a reasonable expectation of privacy, and in that way fundamentally violates another's privacy, shall be punished by a fine or by imprisonment of one (1) to three (3) years.
-2. Whoever without authorization passes on, displays or grants access to a third person to a photograph, film, videotape or any other recording obtained in violation of paragraph 1, shall be punished by imprisonment of one (1) to three (3) years.
-3. When the offense provided for in paragraph 1 of this Article is committed by an official person, in abusing his or her position or authorizations, the perpetrator shall be punished by imprisonment of two (2) to five (5) years.
-4. There is no criminal liability if the photographing or recording is conducted to discover a criminal offence or the perpetrators of a criminal offence, or to present as evidence to the police, prosecution or court, and if the photos or recordings are submitted to these authorities.
-5. The equipment used to commit the criminal offense provided for in paragraph 1. of this Article shall be confiscated.

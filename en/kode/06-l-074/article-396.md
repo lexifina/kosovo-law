@@ -1,0 +1,5 @@
+# Article 396
+Uprising of the persons deprived of liberty 1. Whoever, in the institution where he or she is detained on the basis of a lawful decision ordering the deprivation of liberty, organizes an uprising of persons deprived of liberty with the intent to release themselves by force or to attack jointly the official persons in such institution or to compel, through the use of force or serious threat, any person to do or abstain from doing an act in violation of their duty shall be punished by imprisonment of one (1) to five (5) years.
+2. A participant in the uprising provided for in paragraph 1. of this Article shall be punished by imprisonment of three (3) months up to one (1) year.
+3. When the offense provided for in paragraph 1. of this Article is committed by the use of force or serious threat, the perpetrator shall be punished by imprisonment of six (6) months to five (5) years.
+4. When the perpetrator of the offense provided for in paragraph 1. or 2. of this Article withdraws voluntarily from the uprising before exercising force or serious threat, the court may waive his punishment.

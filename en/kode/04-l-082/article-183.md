@@ -1,6 +1,0 @@
-# Article 183
-Inciting suicide and assisting in suicide 1. Whoever incites or assists another person to commit suicide, and the suicide is committed, shall be punished by imprisonment of one (1) to five (5) years.
-2. Whoever commits the offense provided for in paragraph 1 of this Article against a minor or a person whose capability to understand the gravity of his or her act or whose ability to control his or her behavior was substantially diminished, shall be punished by imprisonment of one (1) to ten (10) years.
-3. Whoever commits the offense provided for in paragraph 1 of this Article against a person under the age of fourteen (14) years or against a person who was incapable of understanding the gravity of his or her act or controlling his or her behavior shall be punished in accordance with Article 178 of this Code.
-4. Whoever treats another person in a subordinate position in a cruel or inhumane way and thereby causes such person to commit suicide shall be punished by imprisonment of six (6) months to five (5) years. For the purpose of this paragraph “person in a subordinate position” means a person who is under the supervision, rank, control or custody of the person who acted in a cruel or inhumane way.
-5. If, as a result of an offense provided for in paragraphs 1 to 4 of this Article, suicide has only been attempted, the punishment may be reduced.

@@ -1,0 +1,6 @@
+# Article 181
+Threat 1. Whoever seriously threatens by words, acts or gestures to harm another person in order to frighten or cause anxiety to such person shall be punished by a fine or by imprisonment of up to six (6) months.
+2. Whoever seriously threatens by words, acts or gestures to deprive another person of his or her life, to inflict grave bodily harm, to kidnap or deprive another person of his or her liberty or to inflict harm by fire, explosion or any other dangerous means shall be punished by a fine or by imprisonment of up to one (1) year.
+3. When the offense provided in paragraph 1. or 2. of this Article is committed against an official person in connection with his or her work or position or against several persons or when the offense is committed by a perpetrator acting as a member of a group, the perpetrator shall be punished by imprisonment of six (6) months to five (5) years.
+4. Whoever commits the offense provided for in this Article against the vulnerable victim, or by using a weapon, a dangerous instrument or another object capable of causing bodily injury or serious impairment to health, the perpetrator shall be punished by imprisonment of one (1) to five (5) years.
+CODE NO. 06/L-074 CRIMINAL CODE OF THE REPUBLIC OF KOSOVO

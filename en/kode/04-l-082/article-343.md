@@ -1,5 +1,0 @@
-# Article 343
-Usury 1. Whoever, on behalf of himself, herself or another person, accepts or negotiates an evidently disproportionate amount of property in return for a service to another person, by taking advantage of such person's difficult financial circumstances, difficult housing circumstances, hardship, inexperience or inability to make judgments shall be punished by a fine and by imprisonment of six (6) months to five (5) years.
-2. If the criminal offense provided for in paragraph 1 of this Article results in a financial loss of ten thousand (10,000)
-CRIMINAL CODE OF THE REPUBLIC OF KOSOVO EUR or if the perpetrator realized a material gain exceeding ten thousand (10,000) EUR, the perpetrator shall be punished by a fine and imprisonment of one (1) to eight (8) years.
-3. If the criminal offense provided for in paragraph 1 of this Article results in a financial loss of twenty-five thousand (25,000) EUR or if the perpetrator realized a material gain exceeding twenty five thousand (25,000) EUR, the perpetrator shall be punished by a fine and imprisonment of three (3) to twelve (12) years.

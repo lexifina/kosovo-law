@@ -1,0 +1,5 @@
+# Neni 331
+Fajdeja
+1. Kushdo që për vete apo për personin tjetër pranon ose kontrakton një shumë dukshëm joproporcionale të pasurisë në këmbim të shërbimit për personin tjetër, duke shfrytëzuar gjendjen e rëndë financiare të personit të tillë, gjendjen e rëndë të banimit, varfërinë, papërvojën ose paaftësinë për të gjykuar, dënohet me gjobë dhe me burgim prej gjashtë (6) muaj deri në pesë (5) vjet.
+2. Nëse vepra penale nga paragrafi 1. i këtij neni rezulton me humbje financiare në shumë prej më tepër se dhjetëmijë (10.000) Euro ose nëse kryesi ka realizuar dobi pasurore në shumë që tejkalon dhjetëmijë (10.000) Euro, kryesi dënohet me gjobë dhe me burgim prej një (1) deri në tetë (8) vjet.
+KODI NR. 06/L-074 PENAL I REPUBLIKËS SË KOSOVËS 3. Nëse vepra penale nga paragrafi 1. i këtij neni rezulton me humbje financiare në shumë prej më tepër se njëzetepesëmijë (25.000) Euro ose nëse kryesi ka realizuar dobi pasurore në shumë që tejkalon njëzetepesëmijë (25.000) Euro, kryesi dënohet me gjobë dhe me burgim prej tre (3) deri në dymbëdhjetë (12) vjet.

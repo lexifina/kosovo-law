@@ -1,0 +1,6 @@
+# Article 58
+Semi-liberty 1. When the court imposes a punishment of imprisonment of up to one (1) year, it may order the execution of the punishment in semi-liberty, due to the convicted person’s obligations related to work, education or vocational training, essential family responsibilities, or need for medical or rehabilitation treatment.
+2. When serving a punishment in semi-liberty, the convicted person is obliged to return to prison after performing his or her obligations outside the prison within the period of time determined by the court.
+3. When the convicted person does not perform his or her obligations provided for in paragraph 1. of this Article, the court shall revoke the order for the execution of the punishment in semi-
+CODE NO. 06/L-074 CRIMINAL CODE OF THE REPUBLIC OF KOSOVO liberty and order that the remaining punishment be served in a prison.
+4. When the court orders execution of the punishment in semi-liberty, it may also impose one or more of the conditions set out in paragraph 3. of Article 48 or Article 56 of this Code. ACESSORY PUNISHMENTS

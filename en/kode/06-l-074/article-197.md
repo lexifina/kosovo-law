@@ -1,0 +1,6 @@
+# Article 197
+Infringing inviolability of residences and premises 1. Whoever, without authorization or in an unlawful manner, enters the residence or closed premises of another person or fails to leave such residence or premises upon the request of the authorized person shall be punished by imprisonment of up to three (3) years.
+2. An attempt to commit the offense provided for in paragraph 1. of this Article shall be punishable.
+3. When the offense provided for in paragraph 1. of this Article is committed by an official person abusing his or her position or authorizations, the perpetrator shall be punished by imprisonment of six (6) months to five (5) years.
+4. When the offense provided for in paragraph 1. or 2. of this Article is committed by the use of a weapon, a dangerous instrument or another object capable of causing grievous bodily injury or serious impairment to health, the perpetrator shall be punished by imprisonment of one (1) to five (5) years.
+5. For the purposes of this Article, premises shall include but not be limited to a residence and the adjoining yard, a business, an office, a hotel or rented room.

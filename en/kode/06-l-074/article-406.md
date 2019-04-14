@@ -1,0 +1,2 @@
+# Article 406
+Removing or damaging official stamps or marks Whoever removes or damages an official stamp or mark affixed by an authorized official for the purpose of securing an object or premises, or whoever, without removal of or damage to the stamp or mark, opens the secured object or enters such premises, or opens the item where such stamp or mark was placed, shall be punished by a fine or imprisonment of up to three (3) years.

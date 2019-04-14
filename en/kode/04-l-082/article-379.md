@@ -1,5 +1,0 @@
-# Article 379
-Driving while impaired or intoxicated 1. Whoever drives a motor vehicle while impaired or under the influence of alcohol or any other intoxicating substance shall be punished by a fine or imprisonment of up to three (3) years.
-2. When the offense in paragraph 1 of this Article results in light bodily harm to a person or damage of five thousand (5,000) EUR or more to property, the perpetrator shall be punished by a fine or by imprisonment of six (6) months to five (5) years.
-3. When the offense provided for in paragraph 1 of this Article results in grievous bodily injury to any person or damage of twenty thousand (20,000) EUR or more to property, the perpetrator shall be punished by imprisonment of one (1) to eight (8) years.
-4. When the offense provided for in paragraph 1 of this Article results in the death of one or more persons, the perpetrator shall be punished by imprisonment of three (3) to twelve (12) years.

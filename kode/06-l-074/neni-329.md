@@ -1,0 +1,4 @@
+# Neni 329
+Shantazhi
+1. Kushdo që me qëllim të përfitimit të kundërligjshëm të dobisë pasurore për vete apo personin tjetër, kanos personin tjetër se do të zbulojë diç në lidhje me të apo personat e afërm të tij që do të dëmtojë nderin apo autoritetin e tyre dhe në këtë mënyrë e detyron personin e tillë të kryej apo të mos kryejë ndonjë veprim në dëm të pasurisë së tij apo të personit tjetër, dënohet me gjobë dhe me burgim prej gjashtë (6) muaj deri në pesë (5) vjet.
+2. Nëse vepra penale nga paragrafi 1. i këtij neni kryhet nga kryesi i cili vepron si anëtar i grupit apo kryhet me përdorim të armës apo mjetit të rrezikshëm ose vepra penale rezulton me dobi pasurore të kundërligjshme në shumën që tejkalon dhjetëmijë (10.000) Euro, kryesi dënohet me gjobë dhe me burgim prej një (1) deri në dhjetë (10) vjet.

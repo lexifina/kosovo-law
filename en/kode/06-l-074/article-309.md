@@ -1,0 +1,3 @@
+# Article 309
+Accepting bribes in the private sector 1. Whoever, directing or working for, in any capacity, a private sector entity, or working as a self- employed person directly or indirectly requests or receives any undue gift or advantage or the promise thereof or accepts an offer or promise of such gift or advantage, for himself, herself or for another person, in order to act or to refrain from acting in breach of his or her duty or function in the course of economic, financial or commercial activity shall be punished by a fine and by imprisonment of six (6) months to five (5) years.
+2. The gift or advantage shall be confiscated.

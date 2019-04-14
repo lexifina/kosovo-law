@@ -1,2 +1,0 @@
-# Article 128
-Violence against high representatives of the Republic of Kosovo Whoever, with the aim of endangering the constitutional order or security of the Republic of Kosovo by use of violence or threat of violence, obstructs one or more of the persons listed in Article 126 of this Code from carrying out their official functions or forces them to act or to omit an act from their scope of function, shall be punished by imprisonment of three (3) to ten (10) years.

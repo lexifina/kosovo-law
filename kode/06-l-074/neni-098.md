@@ -1,0 +1,8 @@
+# Neni 98
+Përmbajtja dhe zbulimi i të dhënave nga dosja penale
+1. Në dosje penale përfshihen të dhënat në vijim: të dhënat personale mbi kryesin e veprës penale; të dhënat mbi dënimin, vërejtjen gjyqësore, masën e trajtimit të detyrueshëm ose lirimin e kryesit nga dënimi i shqiptuar; ndryshimet në të dhënat mbi dënimet që janë futur në dosjen penale; dhe të dhënat mbi dënimet e mbajtura si dhe mbi shlyerjen e dënimeve të gabueshme.
+2. Të dhënat nga dosja penale mund të zbulohen vetëm në lidhje me dënimet të cilat nuk janë shlyer dhe mund t’i zbulohen gjykatës, prokurorisë dhe policisë lidhur me procedurën penale të zhvilluar kundër personit i cili më parë ka qenë i dënuar; organeve kompetente përgjegjëse për ekzekutimin e sanksioneve penale; dhe organeve kompetente që marrin pjesë në procedurën e dhënies së faljes apo shlyerjen e dënimeve.
+3. Të dhënat nga dosja penale, në bazë të kërkesës së arsyetuar, mund t’u zbulohen organeve
+KODI NR. 06/L-074 PENAL I REPUBLIKËS SË KOSOVËS publike nëse dënimet plotësuese ose masat e trajtimit të detyrueshëm janë ende në fuqi në kohën e paraqitjes së kërkesës.
+4. Në rastet kur është shlyer dënimi, të dhënat lidhur me atë dënim mund t’i zbulohen vetëm gjykatës, prokurorisë dhe policisë lidhur me procedurën penale e cila zhvillohet kundër personit të cilit i është shlyer dënimi i mëparshëm.
+5. Çdo personi, me kërkesën e tij, mund t’i jepen të dhëna për dosjen e tij penale kur këto të dhëna i nevojiten, përveç nëse kjo do të rrezikonte sigurinë kombëtare apo sigurinë e përgjithshme ose do të rrezikonte parandalimin, hetimin, zbulimin dhe ndjekjen e veprave penale.

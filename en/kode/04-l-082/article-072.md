@@ -1,3 +1,0 @@
-# Article 72
-Execution of accessory punishments 1. Subject to paragraph 2 of this Article, the execution of the accessory punishments provided for in Article 62 of this Code shall commence with the execution of a principal or alternative punishment.
-2. The execution of the accessory punishments provided for in sub-paragraphs 2.1, 2.2, 2.3, 2.4, 2.5 and 2.8 of paragraph 2 of Article 62 of this Code shall commence after the term of imprisonment has been executed. While serving the punishment of imprisonment, the convicted person may not enjoy the rights limited by the accessory punishments. CALCULATION OF PUNISHMENT

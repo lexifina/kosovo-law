@@ -1,0 +1,5 @@
+# Neni 424
+Ushtrimi i ndikimit
+1. Kushdo që në mënyrë të drejtpërdrejtë apo të tërthortë, kërkon ose pranon ndonjë dhuratë apo përfitim tjetër për vete apo personin tjetër, ose pranon ofertën apo premtimin për dhuratë apo përfitim të tillë, me pretendimin se ai apo ajo është në gjendje të ushtrojë ndikim të padrejtë mbi vendimmarrjen e personit zyrtar, zyrtarit të huaj publik ose personit të huaj zyrtar, pavarësisht nëse ndikimi është ushtruar ose pavarësisht nëse ndikimi i supozuar shpie deri te rezultati i synuar, dënohet me gjobë dhe me burgim prej një (1) deri në tetë (8) vjet.
+2. Kushdo që në mënyrë të drejtpërdrejtë apo të tërthortë, i premton, ofron ose i jep ndonjë dhuratë apo përfitim tjetër personit tjetër, në mënyrë që ky person të ushtrojë ndikim të papërshtatshëm mbi vendimmarrjen e personit zyrtar, zyrtarit të huaj publik ose personit të huaj zyrtar, pavarësisht nëse ndikimi është ushtruar ose pavarësisht nëse ndikimi i supozuar shpie deri te rezultati i synuar, dënohet me gjobë dhe me burgim prej gjashtë (6) muaj deri në tetë (8) vjet.
+3. Dhurata apo përfitimi i pranuar apo i ofruar në kundërshtim të këtij neni konfiskohet.

@@ -1,0 +1,4 @@
+# Article 326
+Misuse of insurance 1. Whoever, with the intent to collect insurance money or benefits from an insurer, destroys, damages, or hides property insured against such destruction, damage, loss or theft and then reports or falsely reports the destruction, damage, loss or theft shall be punished by a fine and imprisonment of up to three (3) years.
+2. Whoever, with the intent to collect insurance money or benefits for bodily injury or impairment of health from an insurer, falsely reports an injury or impairment shall be punished shall be punished by a fine and imprisonment of up to three (3) years.
+3. Whoever, with the intent to collect insurance money for bodily injury or impairment of health from an insurer, inflicts on himself or herself such injury or impairment and then reports the injury or impairment shall be punished by a fine and imprisonment of six (6) months to three (3) years.

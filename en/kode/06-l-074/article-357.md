@@ -1,0 +1,7 @@
+# Article 357
+Destroying, damaging or removing public installations 1. Whoever destroys, damages or removes installations or equipment for electricity, gas, water, heating, communications, sewage, environmental protection, pipelines, underwater cables, dams or other similar equipment and in this way causes a disturbance to the supply of services to the population or to the economy shall be punished by imprisonment of up to five (5) years.
+2. When the offense provided for in paragraph 1. of this Article is committed by negligence, the perpetrator shall be punished by a fine or by imprisonment of up to one (1) year.
+3. When the offense provided for in paragraph 1. of this Article results in grievous bodily injury or substantial damage to property, the perpetrator shall be punished by imprisonment of one (1) to eight (8) years.
+4. When the offense provided for in paragraph 1. of this Article results in the death of one or more persons, the perpetrator shall be punished by imprisonment of three (3) years up to twelve (12) years.
+5. When the offense provided for in paragraph 2. of this Article results in grievous bodily injury or substantial damage to property, the perpetrator shall be punished by imprisonment of six (6) months up to five (5) years.
+6. When the offense provided for in paragraph 2. of this Article results in the death of one or more persons, the perpetrator shall be punished by imprisonment of one (1) to eight (8) years.
