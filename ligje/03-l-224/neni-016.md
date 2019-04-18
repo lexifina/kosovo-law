@@ -1,5 +1,0 @@
-# Neni 16
-Drejtori i Njësitit për Shqyrtimin e Performansës së Prokurorisë
-1. Drejtori i Njësitit për Shqyrtimin e Performansës së Prokurorisë zgjidhet dhe emërohet nga Këshilli në përputhje me procedurat, kriteret dhe kualifikimet që do zhvillohen dhe miratohen nga Këshilli përmes rregulloreve të cilat janë në përputhje me detyrimet kushtetuese dhe detyrimet e rregulloreve të zbatueshme për personelin. Vendi i lirë i punës plotësohet duke u bazuar në një proces konkurrues, të bazuar në meritë dhe të hapur pas publikimit të pozitës.
-2. Drejtori është përgjegjës ndaj Këshillit për administrimin efikas dhe efektiv të Njësitit për Shqyrtimin e Performansës së Prokurorisë. Drejtori i raporton drejtpërsëdrejti Kryesuesit të Këshillit dhe i përgjigjet të gjitha kërkesave të anëtarëve të Këshillit për informata.
-3. Këshilli cakton pagën e Drejtorit të Njësitit për Shqyrtimin e Performansës së Prokurorisë. Drejtori nuk pranon kompensim shtesë për detyra apo punësim tjetër nga cilido burim tjetër përveç rimbursimit për shpenzime të arsyeshme dhe të nevojshme.

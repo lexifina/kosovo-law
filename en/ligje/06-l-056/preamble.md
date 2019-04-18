@@ -1,0 +1,1 @@
+LAW NO. 06/L –056 ON KOSOVO PROSECUTORIAL COUNCIL LAW NO. 06/L –056 ON KOSOVO PROSECUTORIAL COUNCIL Assembly of the Republic of Kosovo, Based on Article 65 (1) of the Constitution of the Republic of Kosovo, Adopts LAW ON KOSOVO PROSECUTORIAL COUNCIL

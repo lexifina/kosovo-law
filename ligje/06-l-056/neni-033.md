@@ -1,0 +1,4 @@
+# Neni 33
+Drejtori i Njësisë për Shqyrtimin e Performancës së Prokurorisë 1. Drejtori i Njësitit për Shqyrtimin e Performancës së Prokurorisë zgjidhet dhe emërohet nga Këshilli në pajtim me procedurat, kriteret dhe kualifikimet që do zhvillohen dhe miratohen nga Këshilli përmes rregulloreve të cilat janë në pajtim me detyrimet kushtetuese dhe detyrimet e rregulloreve të zbatueshme për personelin. Vendi i lirë i punës plotësohet duke u bazuar në një proces konkurrues, të bazuar në meritë dhe të hapur pas publikimit të pozitës.
+2. Drejtori i raporton Këshillit për administrimin efikas dhe efektiv të Njësisë për Shqyrtimin e Performancës së Prokurorisë. Drejtori i raporton drejtpërdrejt Kryesuesit të Këshillit dhe i përgjigjet të gjitha kërkesave të Këshillit për informata.
+3. Këshilli cakton pagën e Drejtorit të Njësitit për Shqyrtimin e Performancës së Prokurorisë.

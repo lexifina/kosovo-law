@@ -1,5 +1,0 @@
-# Article 14
-1. Article 21 the basic Law, after paragraph 3, there shall be added the new paragraphs 4 and 5 with the following text:
-4. The performance assessment of Prosecutors with initial mandate is performed at least twice during this mandate by Prosecutors Performance Assessment Committee, once after the initial training and once at the end of the initial mandate. The criteria for assessment during the initial mandate shall be specified in a Regulation issued by the Council.
-5. Performance Assessment of Prosecutors with permanent mandate is performed every three (3) years, in that way that, after entry into force of this Law, the Council shall assign by draw one third (1/3) of the prosecutors, within each prosecution office, as the first group that shall undergo the performance assessment within three (3) months. The same draw shall be conducted after one (1) year in order to assign prosecutors that will belong to the second group and third group after two (2) years, respectively.
-2. Article 21 of the basic Law, paragraph 3, after the wording “written objections”, there shall be added the wording “at the Council”, and the sentence continues.

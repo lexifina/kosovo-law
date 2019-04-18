@@ -1,0 +1,4 @@
+# Article 33
+Director of the Prosecution Performance Review Unit 1. The Director of the Prosecution Performance Review Unit shall be elected and appointed by the Council in accordance with procedures, requirements, and qualifications to be developed and adopted by the Council through regulations which shall be in line with Constitutional requirements and the requirements of applicable staff regulations. The vacancy shall be filled based on a competitive, merit-based, and open process after public announcement of the position.
+2. The Director shall report to the Council for the efficient and effective administration of the Prosecution Performance Review Unit. The Director shall report directly to the Chair of the Council and shall respond to all Council requests for information.
+3. The Council shall determine the salary of the Director of the Prosecution Office Performance Review Unit.

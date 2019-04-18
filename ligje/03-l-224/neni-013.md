@@ -1,4 +1,0 @@
-# Neni 13
-Buxheti Vjetor
-1. Në konsultim me Kryeprokurorin e Shtetit dhe Kryeprokurorët, Këshilli përgatitë buxhetin vjetor operues të Këshillit dhe të zyrave Prokuroriale. Këshilli i dërgon buxhetin e propozuar drejtpërsëdrejti Qeverisë siç përcaktohet me ligj. Nëse Ministri i Ekonomisë dhe Financave dërgon një buxhet për Këshillin dhe prokuroritë i cili ndryshon nga ai që është propozuar nga Këshilli, Ministri i Ekonomisë dhe Financave po ashtu do të i dërgojë për konsiderim Kuvendit të Kosovës buxhetin e rekomanduar fillimisht nga Këshilli dhe çfarëdo komenti mbi këtë.
-2. Këshilli edhe Kryeprokurori i Shtetit menaxhojnë buxhetin vjetor për Këshillin dhe prokurorinë mënyrë të pavarur dhe mbajnë përgjegjësi për mbikëqyrjen e shpenzimeve, alokimin e fondeve, mirëmbajtjen e llogarive të sakta dhe aktuale dhe kryerjen e auditimeve financiare.

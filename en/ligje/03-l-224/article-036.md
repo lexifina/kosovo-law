@@ -1,5 +1,0 @@
-# Article 36
-Director of Office of Disciplinary Prosecutor
-1. A Director of the Office of Disciplinary Prosecutor shall be selected by two-thirds (2/3) of the joint membership of both the Kosovo Judicial Council and the Kosovo Prosecutorial Counsel in accordance with personnel regulations. A vacancy shall be filled based on a competitive, merit-based, and open process after public announcement of the position.
-2. The Director of the Office of Disciplinary Prosecutor shall be responsible to both the Kosovo Judicial Council and the Kosovo Prosecutorial Council for the efficient and effective administration of the Office of Disciplinary Prosecutor and shall exercise his or her responsibilities pursuant to rules and regulations promulgated by both Councils.
-3. The Director of the Office of Disciplinary Prosecutor shall receive a salary equivalent to a judge of the Court of Appeals. The Director shall not accept additional compensation, other than reimbursement for reasonable and necessary expenses, for other duties or employment from any other source.

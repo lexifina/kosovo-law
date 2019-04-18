@@ -1,4 +1,0 @@
-# Neni 17
-Neni 29 i ligjit bazik, pas paragrafit 4 shtohen paragrafët e rinj 5 dhe 6 me tekstin si në vijim:
-5. Këshilli gjatë vendosjes për ankesë mund të refuzojë ankesën, vërtetojë ose ndryshojë vendimin e Komisionit Disiplinor.
-6. Në rastin kur Zyra e Prokurorit Disiplinor ka lejuar parashkrimin e lëndës, ose shtyrjen e dërgimit të saj në gjykim tek Komisioni Disiplinor, gjë që rezulton ta pamundësojë këtë të fundit për ta shqyrtuar atë sipas këtij ligji, Komisioni detyrohet ta njoftojë Këshillin për një lëshim të tillë të Zyrës së Prokurorit Disiplinor. Mbi një lëshim të tillë, Këshilli kërkon përgjegjësi zyrtare nga Zyra e Prokurorit Disiplinor dhe nëse për një gjë të tillë nuk merret përgjigje e arsyetuar, një lëndë të tillë detyrueshëm ia adreson Prokurorit të Shtetit për hetim eventual të keqpërdorimit të detyrës zyrtare nga Zyra e Prokurorit Disiplinor.

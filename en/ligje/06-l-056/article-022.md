@@ -1,0 +1,6 @@
+# Article 22
+Appointment of the Chief State Prosecutor and the Chief Prosecutors 1. The Council shall nominate the Chief State Prosecutor among the prosecutors and he/she shall be appointed by the President for one mandate, in the duration of seven (7) years without the possibility of reappointment.
+2. The Council appoints Chief Prosecutors for all other units of the State Prosecutor. Every prosecutor that fulfils the criteria under the Law on State Prosecutor, is entitled to be proposed for the post of the Chief State Prosecutor.
+3. Chief Prosecutor shall be appointed by the Council for a period of four (4) years, with a possibility of extension for one additional mandate.
+4. In order to secure that the State Prosecutor reflects a multi-ethnic nature of Kosovo, the Council shall try to secure that the members of the non-majority communities in Kosovo are appointed in managerial positions.
+5. The Council is authorized to remove a Chief Prosecutor from his or her position, in accordance with the performance evaluation conducted under the provisions of the applicable law, or in case of determination of the criminal behaviour, inadequate management, non-competence or failure in acting in accordance with the obligations deriving from the position.

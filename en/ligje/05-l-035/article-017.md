@@ -1,4 +1,0 @@
-# Article 17
-Article 29 of the basic Law, after paragraph 4 there shall be added new paragraphs 5 and 6 with the following text:
-5. The Council while deciding on an appeal, may dismiss the appeal, uphold or amend the decision of the Disciplinary Committee.
-6. In case when the Office of Disciplinary Prosecutor has allowed prescription of a case or postponement of its delivery for judgment at the Disciplinary Committee, which shall make impossible for the latter one to consider it under this Law, the Committee shall be obliged to notify the Council for such an omission of the Office of Disciplinary Prosecutor. Over such an omission, the Council shall require official liability from the Office of Disciplinary Prosecutor and if for such a thing there is not received a justified answer, shall address such a case, in a compulsory way, to the State Prosecutor for a possible investigation of misuse of the official duty by the Office of Disciplinary Prosecutor.
