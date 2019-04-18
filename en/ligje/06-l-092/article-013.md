@@ -1,0 +1,3 @@
+# Article 13
+Publication of the list of immovable properties of the municipality 1. The municipality shall publish the general list of immovable properties of the municipality, as well as special list of properties planned to be allocated for use for the coming year up to 31 December, justifying the public interest and economic development of the municipality.
+2. List of immovable properties for allocation for use shall contain the following data: cadastral data of the property, purpose, destination, date of publication of the announcement and period for allocation for use of immovable property of the municipality.

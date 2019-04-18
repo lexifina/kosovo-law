@@ -1,0 +1,3 @@
+# Article 9
+Regulation of property by the municipality 1. Upon the proposal of the Mayor, following the fulfilment of the criteria set forth in Article 5 of this Law, the Municipal Assembly shall render a decision to change the purpose of use for the immovable property of the municipality where the municipal building is located by demolishing, merging, dividing the immovable property of the municipality, in compliance with the conditions of the property for the purpose of allocating it for use.
+2. The decision of the Municipal Assembly shall be rendered by the majority of general members of the Municipal Assembly.

@@ -1,0 +1,5 @@
+# Neni 14
+Propozimi për dhënien në shfrytëzim të pronës së paluajtshme të komunës 1. Kryetari i Komunës i propozon Kuvendit të Komunës për miratim paraprak pronën e paluajtshme të komunës për dhënien në shfrytëzim, duke paraqitur arsyet dhe interesin publik.
+2. Propozimi për dhënien në shfrytëzim të pronës së paluajtshme të komunës duhet të identifikojë të dhënat kadastrale të pronës, madhësinë e saj, të specifikojë arsyet, qëllimin, kohëzgjatjen si dhe formën në të cilën rekomandohet procesi për dhënien e pronës në shfrytëzim.
+3. Kuvendi i Komunës merr vendim paraprak për dhënien në shfrytëzim të pronës së paluajtshme të komunës me shumicën e votave të anëtarëve që janë prezent në seancë të Kuvendit të Komunës. 4.Vendimi paraprak për dhënien në shfrytëzim të pronës së paluajtshme të komunës i nënshtrohen shqyrtimit të detyrueshëm të ligjshmërisë, ashtu siç është përcaktuar me Ligjin për Vetëqeverisje Lokale.
+5. Pas marrjes së vendimit paraprak për dhënien në shfrytëzim të pronës përkatëse të komunës, komuna bën publikimin e njoftimit në faqen zyrtare të komunës për pronën e cila është në dispozicion për dhënien në shfrytëzim afatgjatë apo afatshkurtër.

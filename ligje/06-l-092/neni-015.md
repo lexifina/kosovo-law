@@ -1,0 +1,5 @@
+# Neni 15
+Njoftimi publik 1. Pas marrjes se vendimit paraprak për dhënien në shfrytëzim të pronës së paluajtshme të komunës, komuna bën njoftimin publik për pronën e cila jepet në shfrytëzim, në afat prej pesëmbëdhjetë (15) ditësh kalendarike nga dita e publikimit.
+2. Njoftimi publik duhet të publikohet në faqen zyrtare të komunës, në tabelën e shpalljeve të komunës, në vendin ku gjendet prona e komunës e cila jepet në shfrytëzim dhe së paku në njërën nga mediat lokale të shkruara dhe elektronike.
+3. Njoftimi duhet të përmbajë të dhënat kadastrale të pronës, lokacionin, përshkrimin, kohëzgjatjen e shfrytëzimit, çfarëdo kushti apo kufizimi mbi dhënien e të drejtave për shfrytëzim, shfrytëzimin e lejuar të tokës, formën e konkurrimit, arsyeshmërinë për interesin publik apo zhvillimit ekonomik, çmimin fillestar, kërkesat për pjesëmarrje në konkurrim, përfshirë procedurat e regjistrimit të ofertuesve, kohën dhe vendin ku mbahet ankandi dhe hapja e ofertave.
+LIGJI NR. 06/L-092 PËR DHËNIEN NË SHFRYTËZIM DHE KËMBIMIN E PRONËS SË PALUAJTSHME TË KOMUNËS

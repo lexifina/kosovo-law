@@ -1,0 +1,4 @@
+# Article 15
+Public announcement 1. After the preliminary decision on allocating the immovable property of the municipality for use is taken, the Municipality shall, within the time limit of fifteen (15) calendar days, publish the announcement on the property allocated for use.
+2. The public announcement shall be published on the municipal official website, in the municipality’s announcements table, at the location of the municipal property subject to allocation and at least in one of the local press and electronic media.
+3. The announcement shall comprise cadastral data of the property, location, description, duration of use, any condition or restriction on the right of use, permitted use of land, competition form, justification for public interest or economic development, starting price, requirements for participating in the competition, including procedures for registering bidders, the time and place where the auction is to be held and the opening of bids.

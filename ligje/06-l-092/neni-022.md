@@ -1,0 +1,5 @@
+# Neni 22
+Mbikëqyrja e kontratave 1. Komuna mbikëqyrë realizmin e kontratave për dhënien në shfrytëzim të pronës së paluajtshme të komunës sipas planit dinamik realizues.
+2. Kryetari i Komunës obligohet që në raportet e tij të rregullta gjashtë (6) mujore ti paraqet Kuvendit të Komunës edhe raportimin e veçantë për monitorimin e realizimit të kontratave dhe përmbushjes së qëllimit të dhënies në shfrytëzim të pronave të paluajtshme, deri në fillimin e implementimit dhe arritjes së qëllimit të dhënies së pronës në shfrytëzim.
+3. Në rast të mos realizmit të planit dinamik të kontratës për dhënien në shfrytëzim të pronës së paluajtshme të komunës, duke tejkaluar afatet e përcaktuara me kontratë, Kryetari i Komunës merr vendim për shkëputjen e kontratës. Më ketë vendim njoftohet Kuvendi i Komunës.
+4. Në rast të evidentimit të shkeljes së kontratës apo shmangies nga qëllimi i shfrytëzimit të pronës së paluajtshme të komunës nga shfrytëzuesi, kryetari i komunës obligohet që në çdo kohë të njoftoj Kuvendin e Komunës me shkrim, së bashku me rekomandimin e tij për shkëputje të kontratës apo masat e caktuara ndaj shfrytëzuesit.
