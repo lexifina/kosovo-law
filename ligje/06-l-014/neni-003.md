@@ -1,0 +1,20 @@
+# Neni 3
+Përkufizimet 1. Shprehjet e përdorura në këtë ligj do të kenë kuptimin e mëposhtëm:
+1.1. Qasja ndaj të gjitha rreziqeve -një qasje gjithëpërfshirëse që siguron një lidhje me llojet tjera të rreziqeve si kërcënimi nga sulme të qëllimshme si dhe fatkeqësitë natyrore. Kjo do të sigurojë që të shfrytëzohen në maksimum ndërveprimi ndërmjet masave mbrojtëse por nuk do t’i jep theks të veçantë terrorizmit;
+1.2. Pika e kontaktit - Autoriteti Qendror Qeveritar, përgjegjës për të komunikuar dhe
+LIGJI Nr. 06/L-014 PËR INFRASTRUKTURËN KRITIKE / SHTOJCA 1 / SHTOJCA 2 shkëmbyer informacione për infrastrukturën kritike evropiane me autoritetet kompetente të Bashkimit Evropian dhe vendet tjera;
+1.3. Operator i infrastrukturës kritike - pronari i infrastrukturës kritike ose personin tjetër që menaxhon, udhëheq ose operon, plotësisht apo pjesërisht funksionet e përditshme të infrastrukturës kritike;
+1.4. Pronar i infrastrukturës kritike - personi që ka në pronësi infrastrukturën kritike;
+1.5. Mbrojtja e infrastrukturës kritike - të gjitha aktivitetet që kanë për qëllim sigurimin e funksionalitetit, vazhdimësisë dhe integritetit të infrastrukturave kritike për të parandaluar, zvogëluar dhe neutralizuar kërcënimin, rrezikun ose cenueshmerinë;
+1.6. Kriteret ndërsektoriale dhe sektoriale - një numër të kritereve që shfrytëzohen për identifikimin e infrastrukturës kritike kombëtare dhe evropiane;
+1.7. Koordinatori i sigurisë - personi nga ministria apo institucioni relevant i Qeverisë së Republikës së Kosovës që është përgjegjës për koordinimin e aktiviteteve për mbrojtjen e infrastrukturës kritike brenda një sektori;
+1.8. Zëvendëskoordinatori i sigurisë - përfaqësuesi nga Ministria e Punëve të Brendshme, i cili ndihmon koordinatorin e sigurisë në koordinimin e aktiviteteve për mbrojtjen e infrastrukturës kritike në një sektor të caktuar;
+1.9. Direktiva - i referohet Direktivës së Këshillit 2008/114/EC të datës 8 dhjetor 2008 për identifikimin dhe përcaktimin e infrastrukturave kritike evropiane dhe vlerësimin e nevojës për të përmirësuar mbrojtjen e tyre;
+1.10. Infrastruktura Kritike Evropiane apo “IKE” - një klasifikim i infrastrukturës kritike, çrregullimi ose shkatërrimi i së cilës do të kishte një ndikim të rëndësishëm në të paktën dy shtete evropiane. IKE potenciale do të identifikohet duke u bazuar në kriteret ndërsektoriale, duke përfshirë ndërvarësitë;
+1.11. Infrastruktura Kritike Kombëtare - një aset, sistem apo pjesë të saj të domosdoshme për mirëmbajtjen e funksioneve jetike dhe sociale, shëndetit, sigurisë, mirëqenies ekonomike ose sociale të njerëzve, dhe çrregullimi ose shkatërrimi i së cilës do të kishte një ndikim të konsiderueshëm në Republikën e Kosovës;
+1.12. Plani i sigurisë së operatorit (PSO) - një plan që identifikon të gjitha asetet e infrastrukturës kritike të pronarit/operatorit dhe përcakton zgjidhjet e duhura të sigurisë për mbrojtjen e tyre. PSO-ja përshkruan metodat dhe procedurat e sigurisë të cilat duhet të ndiqen nga pronari/operatori;
+1.13. Mbrojtja - të gjitha aktivitetet që kanë për qëllim sigurimin e funksionalitetit, vazhdimësisë dhe integritetit të infrastrukturave kritike në mënyrë që të largohet, zbutet dhe neutralizohet një kërcënim, rrezik ose cenueshmëri;
+1.14. Analiza e rrezikut - marrjen në konsideratë të skenarëve përkatës të kërcënimit për të vlerësuar cenueshmërinë dhe ndikimin e mundshëm të çrregullimit apo shkatërrimit të infrastrukturës kritike;
+LIGJI Nr. 06/L-014 PËR INFRASTRUKTURËN KRITIKE / SHTOJCA 1 / SHTOJCA 2 1.15. Informacioni i ndjeshëm i ndërlidhur me mbrojtjen e infrastrukturës kritike - faktet në lidhje me një infrastrukturë kritike, i cili nëse zbulohet mund të shfrytëzohet me qëllim për të shkaktuar çrregullimin apo shkatërrimin e instalimeve në infrastrukturën kritike;
+1.16. Zyrtari ndërlidhës i sigurisë - personi i caktuar nga pronari/operatori i infrastrukturës kritike kombëtare dhe evropiane, si pikë kontakti për çështje që ndërlidhen me sigurinë ndërmjet pronarit/operatorit të infrastrukturës kritike kombëtare dhe evropiane, dhe autoritetit përkatës qeveritar;
+1.17. MPB - Ministria e Punëve të Brendshme.

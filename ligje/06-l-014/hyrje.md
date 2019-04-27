@@ -1,0 +1,1 @@
+LIGJI Nr. 06/L-014 PËR INFRASTRUKTURËN KRITIKE / SHTOJCA 1 / SHTOJCA 2 LIGJI Nr. 06/L-014 PËR INFRASTRUKTURËN KRITIKE Kuvendi i Republikës së Kosovës, Në mbështetje të nenit 65 (1) të Kushtetutës së Republikës së Kosovës, Miraton: LIGJ PËR INFRASTRUKTURËN KRITIKE

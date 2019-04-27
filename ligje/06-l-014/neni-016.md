@@ -1,0 +1,4 @@
+# Neni 16
+Trajtimi i informacionit të ndjeshëm të IKE-së 1. Çdo person që trajton informacione të klasifikuara në pajtim me këtë ligj, në emër të Qeverisë së Kosovës apo të Komisionit Evropian, duhet të ketë një nivel të duhur të verifikimit të sigurisë në pajtim me legjislacionin përkatës. Qeveria e Republikës së Kosovës do të sigurojë se informacioni i ndjeshëm rreth mbrojtjes së infrastrukturës kritike evropiane, i dorëzuar në Komision Evropian apo shteteve evropiane, nuk do të përdoret për asnjë qëllim tjetër përveç mbrojtjes së infrastrukturës kritike.
+2. Paragrafi 1. i këtij neni zbatohet edhe për informacionet jo të shkruara të shkëmbyera gjatë takimeve në mes të Qeverisë së Kosovës, Komisionit Evropian apo shteteve evropiane dhe shteteve tjera ku trajtohen tema të ndjeshme lidhur me IKE.
+LIGJI Nr. 06/L-014 PËR INFRASTRUKTURËN KRITIKE / SHTOJCA 1 / SHTOJCA 2

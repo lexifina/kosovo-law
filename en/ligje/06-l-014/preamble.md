@@ -1,0 +1,1 @@
+LAW No. 06/L –014 ON CRITICAL INFRASTRUCTURE / ANNEX 1 / ANNEX 2 LAW No. 06/L –014 ON CRITICAL INFRASTRUCTURE Assembly of the Republic of Kosovo, Based on Article 65 (1) of the Constitution of the Republic of Kosovo, Approves LAW ON CRITICAL INFRASTRUCTURE

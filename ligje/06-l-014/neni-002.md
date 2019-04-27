@@ -1,0 +1,2 @@
+# Neni 2
+Fushëveprimi 1. Ky ligj rregullon infrastrukturën kritike kombëtare të Republikës së Kosovës dhe ofron udhëzime për identifikimin e infrastrukturave që do të përcaktohen si infrastrukturë kritike evropiane. Ky ligj gjithashtu identifikon sektorët dhe kriteret e infrastrukturës kritike kombëtare dhe evropiane dhe ofron udhëzime për menaxhimin tyre, duke përfshirë analizën e rrezikut, karakteristikat e planeve të sigurisë për pronarët/operatorët, rolet dhe përgjegjësitë e koordinatorëve të sigurisë së infrastrukturës kritike, si dhe gjobave për moszbatim.

@@ -1,0 +1,5 @@
+# Neni 14
+Zyrtari ndërlidhës i sigurisë së IKE-së 1. Zyrtari Ndërlidhës i Sigurisë do të funksionojë si pikë kontakti për çështjet e sigurisë ndërmjet pronarit/operatorit të IKE dhe MPB-së. Në rastet kur një infrastrukturë kombëtare kritike është caktuar edhe si IKE, zyrtari ndërlidhës i sigurisë do të jetë i njëjti person.
+2. Qeveria e Republikës së Kosovës do të sigurojë, me çfarëdo mase që konsiderohet e përshtatshme, që çdo IKE e caktuar e vendosur në territorin e Republikës së Kosovës të ketë një Zyrtar Ndërlidhës të Sigurisë. Zyrtari Ndërlidhës i Sigurisë do të emërohet brenda pesëmbëdhjetë (15) ditëve pasi pronari/operatori i infrastrukturës kritike njoftohet se infrastruktura e tyre është caktuar si IKE.
+3. Moszbatimi e këtij kriteri ndëshkohet sipas nenit 21 të këtij ligji.
+4. Qeveria e Republikës së Kosovës do të zbatojë një mekanizëm të përshtatshëm të komunikimit ndërmjet autoritetit përkatës qeveritar dhe Zyrtarit Ndërlidhës të Sigurisë me qëllim të shkëmbimit të informatave përkatëse në lidhje me rreziqet dhe kërcënimet e identifikuara në lidhje me IKE-në në fjalë.

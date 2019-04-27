@@ -1,0 +1,5 @@
+# Article 14
+Security Liaison Officer of ECI 1. The Security Liaison Officer shall function as the point of contact for security related issues between the Owner/Operator of the ECI and MIA. In cases when a national critical infrastructure is designated also as ECI, the Security Liaison Officer shall be the same person.
+LAW No. 06/L –014 ON CRITICAL INFRASTRUCTURE / ANNEX 1 / ANNEX 2 2. The Government of the Republic of Kosovo shall ensure, by any measure deemed appropriate, that each designated ECI located in the territory of the Republic of Kosovo possess a Security Liaison Officer. The Security Liaison Officer shall be nominated within fifteen (15) days after the Owner/Operator of the critical infrastructure is notified that their infrastructure is designated as ECI.
+3. Failure to apply this criterion is punishable according to Article 21 of this Law.
+4. The Government of the Republic of Kosovo shall implement an appropriate communication mechanism between the relevant government authority and the Security Liaison Officer with the objective of exchanging relevant information concerning identified risks and threats in relation to the ECI concerned.

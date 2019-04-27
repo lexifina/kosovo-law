@@ -1,0 +1,4 @@
+# Neni 8
+Bashkëpunimi publiko-privat 1. Mbrojtja e infrastrukturës kritike kombëtare kërkon koordinim dhe bashkëpunim me partnerët publik dhe privat, në mënyrë që të garantojë sigurinë dhe qëndrueshmërinë e infrastrukturës kritike kombëtare.
+2. Qeveria e Republikës së Kosovës, përmes MPB-së, do të ofrojë mundësi për angazhim dhe shkëmbim të informacioneve të infrastrukturës kritike përmes organizimit të seminareve, grupeve të punës, takimeve me qëllim të forcimit të partneritetit publiko-privat, dhe ndarjes së informacioneve relevante për rreziqet dhe kërcënimet ndaj infrastrukturës kritike, praktikat e mira dhe mësimet e nxjerra nga shtetet tjera.
+3. Qeveria e Republikës së Kosovës duhet të sigurojë stimulim financiar për pronarët/operatorët e infrastrukturës së caktuar si infrastrukturë kritike.

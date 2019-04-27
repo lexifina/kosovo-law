@@ -1,0 +1,2 @@
+# Article 2
+Scope This Law regulates the National Critical Infrastructure of the Republic of Kosovo and provides guidelines for the identification of infrastructures to be designated as European Critical Infrastructure. This Law also identifies National and European Critical Infrastructure Sectors and criteria and provides guidance on their management, including risk analysis, characteristics of Safety Plans for Owners/Operators, roles and responsibilities of Security Coordinators of Critical Infrastructure, as well as penalties for non-compliance.
