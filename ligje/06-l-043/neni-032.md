@@ -1,0 +1,4 @@
+# Neni 32
+Konflikti i interesit dhe detyrimi në lojalitet 1. Asnjë anëtari të organit drejtues nuk i lejohet të marr pjesë në diskutim apo në marrjen e vendimit për çështje kur ai ka interes privat të drejtpërdrejtë ose të tërthortë, personale ose pasurore, të cilat ndikojnë, mund të ndikojnë ose duket sikur ndikojnë në ligjshmërinë, transparencën, objektivitetin dhe paanësinë e tij gjatë ushtrimit të funksionit.
+2. Çdo transaksion ndërmjet OJQ-së dhe anëtarëve, të punësuarit, anëtarëve të bordit apo të organizatave të ndërlidhura, kryhet sipas vlerës së tregut ose në kushtet më të favorshme për OJQ-në.
+3. Të gjithë anëtarët dhe të punësuarit tjerë të një OJQ-je, obligohen që të tregojnë lojalitet ndaj OJQ-së, të mbrojnë fshehtësinë e informatave jo-publike dhe interesat e OJQ-së, si dhe të ushtrojnë detyrat dhe përgjegjësitë e tyre me mirëbesim dhe kujdes.

@@ -1,0 +1,2 @@
+# Neni 43
+Ankesat OJQ e cila nuk pajtohet me vendimet e Departamentit, që kanë të bëjnë, por nuk kufizohen në çështjet e mos-regjistrimit, shuarjes, çregjistrimit, ose kundër mosveprimit administrativ, ka të drejtë për të kundërshtuar ose kërkuar rishikimin e vendimeve, veprimeve apo mosveprimeve të Departamentit dhe institucioneve publike, duke përfshirë edhe të drejtën për të parashtruar padi në gjykatën kompetente për çështjet administrative brenda afatit prej tridhjetë (30) ditësh, në pajtim me Ligjin mbi Procedurën e Përgjithshme Administrative.

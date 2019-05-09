@@ -1,0 +1,4 @@
+# Article 32
+Conflict of interest and obligation of loyalty 1. Any member of a governing body shall not participate in the consideration or decision of any matter in which he or she has a direct or indirect personal or economic interest, which affect or may affect or appear to affect the legitimacy, transparency, objectivity and impartiality while exercising its function.
+2. Any transaction between an NGO and its members, employees, members of the Board, or affiliated organizations, shall be carried out at market value or under the most favourable conditions for the NGO.
+3. All members and other employees of NGO are obliged to show loyalty to the NGO, to protect the confidentiality of non-public NGO-related information and interest, and to carry out their duties and responsibilities with care and diligence.

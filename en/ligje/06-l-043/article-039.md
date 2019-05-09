@@ -1,0 +1,8 @@
+# Article 39
+Suspension and Revocation of Public Benefit Status 1. The Department may suspend a public benefit status of an NGO that fails to file a complete annual report within the time specified in Article 38 of this Law, and requests compliance of this obligation within thirty (30) days of the date of the notice and inform the NGO that failure to do
+LAW NO. 06/L –043 ON FREEDOM OF ASSOCIATION IN NON-GOVERNMENTAL ORGANIZATIONS so shall result in the suspension of the public benefit status.
+2. An NGO entitled with public benefit status that fails to file a complete report as required with paragraph 1 of this Article, its Public Benefit Status shall be suspended. The Department shall notify the NGO that its public benefit status and all benefits thereof have been suspended, and, if the NGO fails to provide the report within thirty (30) days of the notice on suspension, the Department issues a decision for the revocation of the public benefit status.
+3. The NGO to which been revoked the Public Benefit Status is retrospectively obliged for the period for which it has failed to report, to fulfil all obligations according to the legislation into force.
+4. The Department shall publish the list of NGOs whose Public Benefit Status has been revoked and notifies in writing the tax and customs authority.
+5. The NGO to which the public benefit status has been revoked is entitled to request the same status, after a period of two (2) years from the revocation date.
+6. The authorized representative of the NGO is entitled to challenge any decision of the Department regarding the suspension or revocation of the public benefit status of the NGO according to the provisions of the Law on General Administrative Procedure.

@@ -1,0 +1,3 @@
+# Article 43
+Appeals The NGO that does not agree with the Decisions of the Department, related but not limited to issues of non-registration, dissolving, deregistration or against administrative omissions, shall have the right to object or request the review of decisions, actions or omissions of the department and public institutions, including the right to file a lawsuit before the competent court on administrative matters in a time limit of thirty (30) days in accordance with the Law on General Administrative Procedure.
+LAW NO. 06/L –043 ON FREEDOM OF ASSOCIATION IN NON-GOVERNMENTAL ORGANIZATIONS

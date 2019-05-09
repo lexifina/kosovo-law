@@ -1,5 +1,0 @@
-# Neni 14
-Konflikti i interesave dhe detyrimi në lojalitet
-1. Asnjë anëtari të organit drejtues nuk i lejohet të marrë pjesë në diskutim apo në marrjen e vendimit për çështje ku ai ka interes direkt apo indirekt ekonomik. Anëtari i organit drejtues konsiderohet se ka interes ekonomik nëse ai/ajo, ose cilido anëtar i familjes së tij ka interes direkt apo indirekt ekonomik.
-2. Çdo transaksion ndërmjet OJQ-së dhe një organizate tjetër të ndërlidhur, apo ndërmjet OJQ-së dhe anëtarëve, zyrtarëve, anëtarëve të bordit ose punonjësve të saj ndalohet, përveç, nëse organi drejtues vendos, pas hetimeve të arsyeshme, se transaksioni është në interes, i drejtë dhe i arsyeshëm për OJQ-në, dhe se OJQ-ja nuk kishte mundur të sigurojë marrëveshje më të favorshme me përpjekje të arsyeshme dhe brenda rrethanave ekzistuese.
-3. Zyrtarët dhe anëtarët e bordit të një OJQ-je e kanë detyrë që të tregojnë lojalitet ndaj OJQ-së, të mbrojnë fshehtësinë e informatave jopublike të OJQ-së dhe interesat e OJQ-së, si dhe të ushtrojnë përgjegjësitë e OJQ-së me mirëbesim dhe kujdes.
