@@ -1,0 +1,1 @@
+LIGJI NR. 06/L -155 PËR NDALIMIN E LOJËRAVE TË FATIT LIGJI NR. 06/L -155 PËR NDALIMIN E LOJËRAVE TË FATIT Kuvendi i Republikës së Kosovës; Në bazë të nenit 65 (1) të Kushtetutës së Republikës së Kosovës, Miraton: LIGJ PËR NDALIMIN E LOJËRAVE TË FATIT

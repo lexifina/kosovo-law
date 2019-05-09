@@ -1,6 +1,0 @@
-# Article 78
-Criminal Offences
-1. Any unauthorized Person offering any kind of Games of Chance or any similar games, over any media including virtual media within the Republic of Kosovo, shall be sentenced to imprisonment from one (1) to three (3) years and punished with an amount from five thousand (5,000.00) € to twenty thousand (20,000.00) €.
-2. Any Person advertising or promoting unauthorized Games of Chance or any similar games, providing banking or other financial intermediary services for such unauthorized games shall be sentenced to imprisonment from one (1) to three (3) years and punished with an amount from two thousand (2,000.00) € to ten thousand (10,000.00) €.
-3. In relation with the crimes defined in this paragraph, any assets used for or any income generated from offering or helping to offer any such unauthorized games shall be confiscated.
-4. Games of Chance and any similar games organized abroad and offered in the Republic of Kosovo by any Person other than the organizer through any media including virtual media shall be regarded as unauthorized games and any person offering or helping to other to offer such Games of Chance shall be penalized within the scope of Articles 29 and 77 of this Law.

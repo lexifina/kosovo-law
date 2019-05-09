@@ -1,6 +1,0 @@
-# Neni 78
-Veprat penale
-1. Çdo person i paautorizuar që ofron ndonjë lloj të lojërave të fatit apo lojërave të ngjashme, përmes çdo mediumi duke përfshirë median virtuale në kuadër të Republikës së Kosovës, do të dënohet me burgim prej një (1) deri tre (3) vjet dhe dënohet me gjobë prej pesëmijë (5,000.00) € deri njëzetmijë euro (20,000.00) €.
-2. Çdo person që bën nxitjen apo publicitetin e lojërave të fatit të paautorizuara apo lojërave të ngjashme, duke ofruar shërbime bankare apo shërbime ndërmjetësuese financiare për lojëra të tilla të paautorizuara do të dënohet me burgim prej një (1) deri tre (3) vjet dhe dënohet me gjobë prej dymijë euro (2,000.00) € deri dhjetëmijë (10,000.00) €.
-3. Në lidhje me krimet e përcaktuara në këtë paragraf, do të konfiskohet çdo pasuri e përdorur për apo çfarëdo e ardhur e krijuar nga ofrimi ose duke ndihmuar ofrimin e ndonjë loje të paautorizuar të tillë.
-4. Lojërat e fatit dhe ndonjë lojë e ngjashme të organizuara jashtë vendit dhe të ofruara në Republikën e Kosovës nga ndonjë person tjetër e jo organizatori, përmes çdo mediumi duke përfshirë median virtuale duhet të konsiderohen si lojëra të paautorizuara dhe çdo person që ofron apo ndihmon në ofrimin e lojërave të tilla të fatit, do të ndëshkohet në kuadër të fushëveprimit të neneve 29 dhe 77 të këtij ligji.
