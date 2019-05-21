@@ -1,0 +1,4 @@
+# Neni 40
+Procedura për kontabilitet për të gjitha operacionet
+1. Udhëheqësi i SPP-së siguron zbatimin e procedurave të kontabilitetit në pajtueshmëri me legjislacionin në fuqi, siguron që regjistrimi i operacioneve ekonomike në dokumentin e kontabilitetit në një moment specifik, me një vëllim specifik dhe me parakushte të detyrueshme ashtu që të lejoj për vendime korrekte me pasoja pasuese financiare.
+2. Të gjitha kërkimet materiale (angazhimet paraprake), urdhrat e blerjes ose detyrimet e tjera kontraktuale ose programore (zotimet) që pësojnë një shpenzim ose pagesë të ardhshme, kundrejt një ndarje/buxhet të aprovuar duhet të gjurmohen. Kjo përfshin mbajtjen e shënimeve të angazhimeve për detyrimet kontraktuale shumëvjeçare. ZKA siguron që të ndërmerret një analizë e rregullt për të siguruar që të gjitha shpenzimet e njohura ose të vlerësuara të vendosen brenda një buxheti të aprovuar.
