@@ -1,0 +1,13 @@
+# Neni 6
+Procesi i fillimit dhe miratimit
+1. Pjesëtari aktiv i FSK-së i cili kërkon të angazhohet në punësim dytësor, kërkesën e bën sipas formularit (Shtojca 1) dhe e dërgon në zinxhirin komandues.
+2. Formularit i bashkëngjiten dokumentet të cilat përshkruajnë vendin e punës, rekomandimet e oficerit të drejtpërdrejtë, si dhe çfarëdo dokumenti tjetër në lidhje me punësimin dytësor, dhe të njëjtat procedohen për miratim përfundimtar sipas zingjirit komandues:
+2.1. KOMFSK për pjesëtarët: ushtarë, nënoficerë dhe oficerë, që shërbejnë në Ministrinë e Mbrojtjes dhe në Shtabin e Përgjithshëm pas rekomandimit të eprorit të drejtpërdrejtë;
+2.2. Zv. KOMFSK për pjesëtarët: nënoficerë dhe oficerë, që shërbejnë në njësitë vartëse të FSK-së, pas rekomandimit të eprorit të drejtpërdrejtë;
+2.3. Komandantët e Komandave të FSK-së për pjesëtarët: nënoficerë dhe oficerë, që shërbejnë në njësitë e tyre, pas rekomandimit të eprorit të drejtpërdrejtë.
+3. Shqyrtimi dhe miratimi i kërkesës për punësim dytësor duhet të bëhet në afat prej pesëmbëdhjetë (15) ditësh nga dita e paraqitjes së kërkesës së pjesëtarit deri te miratimi përfundimtar.
+4. Në raste të veçanta sipas nevojave, autoriteti për shqyrtimin e kërkesës për punësim dytësor mund të emërojë një komision prej tre (3) oficerësh për shqyrtimin e kërkesës dhe nxjerrjen e rekomandimit në lidhje me punësimin dytësor.
+5. Miratimi apo refuzimi i angazhimit në punësimin dytësor bëhet me shkrim dhe arsyetim në Formularin e kërkesës për miratim të punësimit dytësor. Pjesëtari aktiv i FSK-së është i obliguar që Formularin e miratuar/refuzuar të kërkesës për punësim dytësor ta paraqet për evidentim në dosjen fizike dhe elektronike (bazën e të dhënave ).
+6. Në të gjitha rastet e ndryshimit të angazhimit të punësimit dytësor, respektivisht ndryshimit të rrethanave të punësimit dytësor të miratuar paraprakisht, pjesëtarët e FSK-së përmes zingjirit komandues duhet të njoftojnë autoritetet kompetente të miratimit paraprak të angazhimit të punësimit dytësor duke ripërsëritur kërkesën sipas Shtojcës 1 të kësaj rregulloreje.
+7. Për rastet e miratimit të punësimit dytësor, të cilat nuk janë paraparë me këtë rregullore, përshtatshmërisht aplikohen procedurat sipas nivelit më të lartë hierarkik në MM/FSK.
+8. Pjesëtarët që angazhohen në aktivitete të lira apo anëtarësohen pa pagesë dhe në forma vullnetare në organizata joqeveritare dhe shoqata të ndryshme të regjistruara në institucionet qeveritare të Kosovës, duhet të njoftojnë me shkrim autoritetin kompetent të MM/FSK-së përmes zingjirit komandues rreth detajeve për angazhimin/anëtarësimin në to.
