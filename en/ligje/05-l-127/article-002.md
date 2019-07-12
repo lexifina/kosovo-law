@@ -1,3 +1,0 @@
-# Article 2
-Article 24, paragraph 1 of the Annex of the basic Law shall be reworded as following:
-1. Every claimant and respondent shall be represented by a member of a bar association or a chamber of advocates, except Agency, which at the Special Chamber of the Supreme Court of Kosovo is represented by persons authorized by the Agency, amongst them or other engaged persons. Employed or engaged person by the Agency in the meaning of this Article includes also the officials appointed by the Agency according to Article 14 of the Annex of the Law No. 04/L-034 on the Privatization Agency of Kosovo.

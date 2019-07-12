@@ -1,0 +1,5 @@
+# Article 51
+Orderly Conduct at Hearings
+1. Any party, lawyer, witness or other participant in oral proceedings whose conduct towards the Special Chamber, a judge or the Registrar or any other officer of the Special Chamber is incompatible with the dignity of the Special Chamber, or who acts offensively towards another party or such party’s lawyer, or who uses his/her rights for purposes other than those for which they were granted, may at any time be excluded from the proceedings by an order from the Special Chamber. The person concerned shall be given the opportunity to defend himself or herself. The order shall have immediate effect.
+2. Where a lawyer for a party is excluded pursuant to paragraph 1 of this Article, the proceedings shall be suspended for a period fixed by the Single Judge or the Presiding Judge in order to allow the party concerned to appoint a new lawyer.
+3. The Single Judge or Presiding Judge may exclude from oral proceedings any observer, whose conduct is incompatible with the dignity of the Special Chamber or who disturbs the oral proceedings.

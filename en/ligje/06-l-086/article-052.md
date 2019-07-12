@@ -1,0 +1,4 @@
+# Article 52
+Notice of Hearing
+1. The parties shall be summoned to the first hearing by written notice. The notice shall contain the date, time and venue of the hearing and shall be served on the parties no later than two (2) weeks before the date of the hearing.
+2. Upon application by any of the parties, the Single Judge or Presiding Judge shall postpone a hearing, if the party shows that it is prevented from appearing at the hearing for an important reason. The other party may be given an opportunity to comment on the request. The Single Judge or Presiding Judge shall decide on the postponement of the hearing and such decision shall be served on the parties. When granting a request for postponement, the Single Judge or Presiding Judge may order that the requesting party pay the costs which that party has caused the other party or parties to incur.

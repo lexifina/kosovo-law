@@ -1,0 +1,3 @@
+# Article 70
+Submission of New Evidence
+In exceptional circumstances and for good cause shown, the Appellate panel may permit a party to present to the Appellate Panel new evidence that was not available to the party during the evidentiary portion of the first instance proceedings. A written application for such permission must first be submitted to the Appellate Panel and served on the other parties not less than fifteen (15) days before the date of the hearing where such evidence is proposed to be presented. The Appellate Panel may authorize the presentation of such new evidence if it considers it to be in the interests of justice.

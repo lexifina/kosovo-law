@@ -1,0 +1,4 @@
+# Neni 49
+Dalja në terren dhe këqyrja në vend 1. Pas parashtrimit të një kërkese nga njëra pale, mund të kërkohet dalja në terren dhe këqyrja në vend kur fakti që duhet vërtetuar nuk mund të vërtetohet nëpërmjet marrjes në pyetje të dëshmitarit, raporteve të ekspertit apo paraqitjes së dokumenteve apo mjeteve tjera fizike.
+2. Pala që ka barrën e dëshmisë paraqet provat që mblidhen nëpërmjet dalja në terren dhe këqyrja në vend lidhur me një fakt të veçantë, nëpërmjet identifikimit të një vendi apo objekti të caktuar dhe faktit vërtetohet nga shikimi i terrenit apo inspektimi.
+3. Nëse vendi apo objekti është në posedim të një personi, i cili nuk është palë në procedurë, atëherë pala që ka barrën e dëshmisë mund të kërkojë nxjerrjen e një urdhri ndaj këtij personi për të lejuar qasjen në vendin apo objektin në fjalë.

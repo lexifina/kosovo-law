@@ -1,0 +1,5 @@
+# Neni 39
+Kundërpadia 1. I padituri duhet të paraqesë çfarëdo kundërpadie që mund të ketë brenda afatit të njëjtë kohor që lejohet për paraqitjen e përgjigjes në padi ndaj.
+2. Kundërpadia do t’iu nënshtrohen po të njëjtave kushteve të pranueshmërisë që përcaktohen me paragrafin 2 të nenit 36 të këtij ligji lidhur me kërkesat/ankesat. Paditësi, kundër të cilit është paraqitur një kundërpadi, mund të dorëzojë një kërkese tek Gjyqtari i vetëm apo Kolegji respektiv për të ndarë kundërpadinë nga procedurat mbi bazën e asaj që faktet e kontestit ndërmjet palëve, në lidhje me kërkesën/ankesën e parashtruesit, nuk kanë lidhje materiale me kundërpadinë. Gjyqtari i vetëm apo Kryesuesi i Kolegjit lejon një kërkesë të tillë nëse përcakton se në këtë mënyrë drejtësia do të vihet në vend. Nëse ndahet kundërpadia, atëherë ajo do të futet në regjistër si një lëndë e re dhe e veçantë, si dhe:
+2.1. kundërpadi do të konsiderohet kërkesa/ankesa në atë lëndë të re;
+2.2. pala kundërshtare në lëndën e mëparshme do të jetë paditësi në lëndën e re, si dhe 2.3. paditësi në lëndën e mëparshme do të jetë i padituri (Pala kundërshtare) në lëndën e re.

@@ -1,0 +1,5 @@
+# Article 39
+Cross-actions 1. A Respondent must file any cross-action (s) it may have within the same time period allowed for the filing of its defense.
+2. Cross-actions shall be subject to the same admissibility requirements established by paragraph 2 of Article 36 of this law for claims/appeals. A Claimant against whom a cross- action has been filed may apply to the Single Judge or Panel to sever the cross-action from the proceedings on the grounds that the facts in dispute between the parties with respect to Claimant’s claim/appeal do not materially relate to the cross-action. The Single Judge or Panel shall grant such application if it determines that the interests of justice would be served thereby. Where the cross-action is severed, it shall proceed as a new and separate case with a separate entry in the register, and:
+2.1. the cross-action shall be deemed the claim/appeal in that new case;
+2.2. the Respondent in the original case shall be the Claimant in that new case; and 2.3. the Claimant in the original case shall be the Respondent in the new case.

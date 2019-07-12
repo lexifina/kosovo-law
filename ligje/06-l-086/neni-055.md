@@ -1,0 +1,2 @@
+# Neni 55
+Korrigjimi i aktgjykimit Në rast të gabimeve në emra dhe numra, si dhe gabimet tjera në shkrim dhe llogaritje, mungesat në aspektin e formës së aktgjykimit dhe mospajtimi i kopjes me origjinalin e aktgjykimit, Dhoma e Posaçme, me nismë të saj apo me kërkesë të paraqitur nga palët, korrigjon aktgjykimin në çdo kohë. Në rast të korrigjimit të aktgjykimit, gjyqtari i vetëm, gjegjësisht kolegji, zbaton mutatis mutandis dispozitat e Ligjit për Procedurën Kontestimore.

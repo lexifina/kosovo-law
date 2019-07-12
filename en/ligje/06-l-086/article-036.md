@@ -1,0 +1,13 @@
+# Article 36
+Admissibility of Claim/Appeal 1. Upon receipt and registration of a claim or appeal and its assignment to the competent Single
+LAW NO. 06/L –086 ON THE SPECIAL CHAMBER OF THE SUPREME COURT OF KOSOVO ON PRIVATIZATION AGENCY RELATED MATTERS Judge or Panel pursuant to Article 21 of this Law, the Single Judge or the Panel shall determine whether the claim/appeal is admissible.
+2. A claim/appeal shall only be admissible if:
+2.1. the Special Chamber has jurisdiction pursuant to Article 5 Special Chamber Law;
+2.2. the Claimant has the right to initiate proceedings pursuant to paragraph 1 of Article 6 of the Special Chamber Law;
+2.3. the claim/appeal is brought against a party who may be a Respondent in proceedings before the Special Chamber pursuant to paragraph 2 of Article 6 of the Special Chamber Law;
+2.4. the claim/appeal has been filed within the period set forth in the present law or in other applicable laws;
+2.5. the claim/appeal was filed in accordance with Article 33 and 35 of this Law;
+2.6. there has been attached a copy of the legal act against or towards which the claim/ appeal has been filed.
+3. If the Single Judge or the Panel determines that the requirements set forth in paragraph 2 of this Article are not met, it shall reject the claim/appeal on the grounds of inadmissibility and shall specify with particularity the legal grounds for such rejection. If the claim/appeal is rejected solely for failure to comply with sub-paragraph 2.5 of this Article, the Single Judge or Panel shall issue an order to the Claimant specifying a reasonable period of time during which the Claimant may correct the concerned deficiencies and resubmit.
+4. Any Respondent may at any time file a written pleading challenging the claim or appeal as failing, as a matter of law, to state a claim on which relief or compensation may be awarded. If such a challenge is filed, the Claimant shall have fourteen (14) days to file its written response thereto. The Single Judge or Presiding Judge may then schedule a hearing on the issue.
+5. If, after considering the written and oral arguments of the parties, the Single Judge or Panel determines that no relief or compensation can be awarded in respect of the claim/appeal as a matter of law, it shall issue a Judgment rejecting the claim/appeal on that basis. If the Single Judge or Panel determines that the claim or appeal does state a claim on which relief or compensation may be awarded as a matter of law, it shall issue a Decision dismissing the Respondent’s challenge. Any such Judgment or Decision shall be appealable to the Appellate Panel in accordance with the rules governing such appeals.

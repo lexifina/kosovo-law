@@ -1,0 +1,10 @@
+# Article 69
+Oral Appellate Proceedings
+1. The Appellate Panel shall, on its own initiative or the written application of a party, decide to whether or not to hold on one or more hearing sessions on the concerned appeal. The Appellate Panel shall take into account any application for oral proceedings submitted by any of the parties setting forth its reasons for requesting oral proceedings. Such an application shall be filed prior to the closing of written appellate procedures.
+2. During hearings, the appellate panel shall be presided over by its Presiding Judge. The Presiding Judge shall be responsible for the proper conduct of the hearing. At the beginning of each hearing, the Presiding Judge shall ascertain the attendance of the parties and their lawyers.
+3. A party that is represented in a proceeding by a lawyer may address the Appellate Panel only through its lawyer, unless a member of the Appellate Panel puts a question directly to a party.
+4. At the opening of the hearings, the Presiding Judge shall give a short introduction to the appeal, the legal issues in dispute and any finding of fact made by the issuer of the concerned Decision or Judgment that a party has alleged to be “clearly erroneous”.
+5. At a hearing, the parties shall be given the opportunity to give oral presentations of their legal arguments. The parties shall confine their presentations to the facts and evidence reflected in
+LAW NO. 06/L –086 ON THE SPECIAL CHAMBER OF THE SUPREME COURT OF KOSOVO ON PRIVATIZATION AGENCY RELATED MATTERS the record that are material to the appeal and to the legal issues that are material to the appeal. The Appellate Panel may impose a reasonable limit on the period of time allocated to each party for such presentations.
+6. Except as specifically permitted pursuant to Article 70 of this Law, the judge(s) shall not conduct evidentiary proceedings.
+7. The Registrar shall ensure that verbatim minutes of all oral appellate hearings are taken and recorded by the court reporter. Such minutes shall be signed by the Presiding Judge.

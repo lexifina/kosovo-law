@@ -1,0 +1,3 @@
+# Neni 18
+Kryesuesit e Kolegjeve 1. Secili nga Kolegjet e apelit të Dhomës së Posaçme do të ketë një kryesues të Kolegjit në bazë të paragrafëve 6, 9 dhe 10 të nenit 4 të këtij ligji. Kryesuesit e Kolegjeve drejtojnë punën gjyqësore të kolegjit dhe kryesojnë dëgjimet dhe shqyrtimet, përveç nëse nuk parashikohet shprehimisht ndryshe me këtë ligj.
+2. Në rastet e përcaktuara si në nenin 4 paragrafi 9 i këtij ligji, Kryesues i Kolegjit do të jetë gjyqtari i vetëm i cili ka dorëzuar kërkesën për krijimin e kolegjit. Kryesuesi drejton punën gjyqësore të kolegjit dhe ndjek dëgjimet ndërsa dy (2) gjyqtarët e tjerë anëtarë të kolegjit marrin pjesë gjatë shqyrtimeve.

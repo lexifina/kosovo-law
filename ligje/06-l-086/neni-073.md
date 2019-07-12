@@ -1,0 +1,4 @@
+## KAPITULLI XIX
+## PROCEDURAT PËR RIORGANIZIM DHE LIKUIDIM
+# Neni 73
+Procedurat për riorganizim dhe likuidim Procedurat për kundërshtimin e vendimeve të Agjencisë, ose paraardhësit të saj (AKM-së), një administratori apo komisioni për likuidim në bazë të Rregullores së UNMIK-ut 2005/48 apo Ligjit nr. 04/L-035 për Riorganizimin e Ndërmarrjeve të Caktuara dhe Pasurisë së tyre apo çfarëdo legjislacioni pasues do të rregullohen nga po ky ligj apo legjislacioni pasues (cilitdo që është në fuqi). Në shkallë të parë, zhvillimi i lëndës apo procedurës lidhur me kundërshtime të tilla do t’i caktohet Gjyqtarit të vetëm sipas rregullave të përcaktuara për caktimin e lëndëve. Sa i përket çështjeve që nuk mbulohen me ligjin e tillë apo me legjislacionin pasues, do të zbatohen mutatis mutandis dispozitat më të përshtatshme të këtij ligji.

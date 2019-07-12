@@ -1,0 +1,2 @@
+# Article 55
+Rectification of the judgement In case of errors in names and numbers, as well as other errors in writing and calculation, missing in the aspect of the form of judgement and non-compliance of the copy with the original of the judgement, the Special Chamber shall, upon its own initiative or upon the request by the parties, rectify the judgement in any time. In case of the rectification of the judgement, the single judge, respectively the panel, shall apply the provisions of the Law on Contested Procedure mutatis mutandis.

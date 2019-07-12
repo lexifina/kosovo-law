@@ -1,0 +1,4 @@
+## CHAPTER XIX
+## REORGANIZATION AND LIQUIDATION PROCEEDINGS
+# Article 73
+Reorganization and Liquidation Proceedings The procedure for challenges to decisions taken by the Agency, its predecessor (the KTA), an Administrator, or a liquidation committee pursuant UNMIK Regulation 2005/48 or Law No. 04/L- 035 on Reorganization of Certain Enterprises and their Assets, or any successor legislation thereto shall be governed by such Law or successor legislation (whichever is then in effect). The conduct of cases or proceedings with respect to such challenges shall, in the first instance, be assigned to a Single Judge pursuant to the rules on case allocation. With respect to matters not covered in such Law of successor legislation, the most appropriate provisions of this law shall be applied mutatis mutandis.

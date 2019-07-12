@@ -1,0 +1,6 @@
+# Article 7
+Rules of Procedure at the Special Chamber
+1. The rules of procedure of the Special Chamber shall be those provided for in the present law. The Collegium of Judges of the Supreme Court, which includes Special Chamber judges as members, shall have the authority to issue such additional procedural rules as it may deem necessary or advisable to facilitate the efficient and orderly conduct of proceedings; provided that such additional procedural rules shall be consistent with and do not exceed the competences of the present law.
+2. Notwithstanding paragraph 1 of this Article, the procedural rules governing proceedings under UNMIK Regulation 2005/48, Law No. 04/L-035 on the Reorganization of certain enterprises and their assets, or any successor legislation thereto shall be as specified in such regulation or successor legislation.
+3. Any additional procedural rules issued under paragraph 1 or 2 of this Article shall also be consistent with the applicable procedural justice requirements established by the jurisprudence of European Court of Human Rights under the European Convention on Human Rights.
+LAW NO. 06/L –086 ON THE SPECIAL CHAMBER OF THE SUPREME COURT OF KOSOVO ON PRIVATIZATION AGENCY RELATED MATTERS
