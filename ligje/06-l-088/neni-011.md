@@ -1,0 +1,4 @@
+# Neni 11
+Neni 41 i ligjit bazik paragrafi 1 dhe 4 riformulohen me tekstin si në vijim:
+1. Ofruesi i shërbimeve, personi përgjegjës mund t’i parashtrojë kundërshtim Komisionit shqyrtues për të shqyrtuar çdo vendimi të sjellë nga Autoriteti në pajtim me paragrafin 2 të nenit 40 të këtij ligji, me kusht që kundërshtimi të jetë bërë me shkrim brenda tetë (8) dite nga data e vendimit të Autoritetit. Për t’i ikur dyshimit, urdhëresat tarifore, udhëzimet administrative dhe rregulloret e lëshuara nga Autoriteti në pajtim me këtë ligj, gjithashtu i nënshtrohen shqyrtimit nga ana e Komisionit shqyrtues, nëse ofruesi i shërbimit, personi përgjegjës parashtron kundërshtim për një shqyrtim të tillë.
+4. Pas shqyrtimit të prezantimeve të ofruesit të shërbimeve dhe të Autoritetit, komisioni shqyrtues i jep ofruesit të shërbimeve, personit përgjegjës dhe Autoritetit një vendim të hollësishëm me shkrim brenda tridhjetë (30) ditëve.

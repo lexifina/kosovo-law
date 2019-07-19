@@ -1,0 +1,15 @@
+# Neni 10
+Neni 40 i ligjit bazik riformulohet me tekstin si në vijim:
+1. Nëse Autoriteti, pas kryerjes së hetimeve të arsyeshme, vie në përfundim se ofruesi i shërbimeve, personi përgjegjës ka bërë shkelje sipas nenit 46B të këtij ligji, ose që licenca për shërbim duhet t’i merret për arsyet e parapara në paragrafin 4. të nenit 17 të këtij ligji, dërgon një paralajmërim për ofruesin e shërbimit:
+1.1. lidhur me karakterin e shkeljes të cilën ofruesi i shërbimeve, personi përgjegjës besohet ta ketë bërë, dëshmitë që mbështesin mendimin se një shkelje e tillë është bërë, gjobën administrative dhe pasojat e mundshme të shkeljes së tillë;
+1.2. lidhur me arsyet se përse Autoriteti beson që licenca për shërbime duhet të merret dhe rrethanat të cilat justifikojnë marrjen e tillë, nëse nuk evitohen brenda periudhës së specifikuar nga Autoriteti në paralajmërimin me shkrim;
+1.3. që Autoriteti mund të gjobisë ofruesin e shërbimeve, personin përgjegjës apo, nëse është e rëndësishme, t’ia merr licencën e shërbimit nëse rrethanat që kanë ndikuar në shkelje, ose të cilat justifikojnë marrjen e licencës për shërbime nuk evitohen brenda kohëzgjatjes së paralajmërimit ,dhe 1.4. që ofruesi i shërbimeve, personi përgjegjës ka afat prej pesëmbëdhjetë (15) ditësh pune për t’i parashtruar një deklaratë me shkrim Autoritetit përkitazi, me çdo çështje të cilat dëshiron të merren parasysh në mbrojtje të tij, siç janë faktet që zbusin përgjegjësinë e tij dhe ndonjë dëshmi tjetër te rëndësishme.
+2. Në fund të kohëzgjatjes së paralajmërimit, Autoriteti lëshon vendimin për ofruesin e shërbimeve, personin përgjegjës në të cilin ceket si në vijim:
+2.1. nëse është bërë shkelja, dhe a ekzistojnë rrethanat që kanë sjell deri te shkelja, dhe a janë evituar ashtu siç kërkohet nga Autoriteti;
+2.2. rrethanat që justifikojnë marrjen e licencës për shërbime a janë evituar ashtu siç kërkohet nga Autoriteti;
+2.3. se rrethanat që kanë sjell shkeljen ose justifikimin e marrjes së licencës për shërbime nuk janë evituar ashtu siç kërkohet nga Autoriteti: 2.3.1.shumën e cilës do gjobë administrative dhe afatin e pagesës;
+2.3.2. se licenca për shërbime është revokuar.
+LIGJI NR. 06/L -088 PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJIT NR. 05/L-042 PËR RREGULLIMIN E SHËRBIMEVE TË UJIT 2.4. të drejtën e ofruesit të shërbimeve, personit përgjegjës për t’ia parashtruar kundërshtimin brenda tetë (8) dite Komisionit shqyrtues për të shqyrtuar vendimin.
+3. Çdo gjobë administrative e shqiptuar ndaj Ofruesit të shërbimeve, personit përgjegjës në pajtim me nenin 46B duhet t’i paguhet Autoritetit:
+3.1. pesëmbëdhjetë (15) ditë pas datës së lëshimit të vendimit nga Autoriteti, apo 3.2. nëse Ofruesi i shërbimeve, personi përgjegjës i ka parashtruar kërkesën Komisionit shqyrtues për të shqyrtuar vendimin e tillë, ditën kur Komisioni shqyrtues merr vendimin e tij.
+4. Kamata sipas shkallës vjetore prej pesë përqind (5%) llogaritet për çdo shumë të papaguar sipas nenit 46/B të këtij ligji dhe i shtohet asaj shume në ditën e parë të secilit muaj.
