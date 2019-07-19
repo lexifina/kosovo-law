@@ -1,0 +1,8 @@
+# Article 15
+Costs for access to public documents 1. Consultation of public documents in the public institutions’ premises shall be granted free of charge, but does not exclude fees that can be imposed for related services rendered by libraries, archives and museums.
+2. Costs for a copy of a public document may be charged to the applicant, which shall be reasonable and shall not exceed the real cost for production and the service of a copy.
+3. Where charges are made by libraries, archives and museums, the total income from supplying and allowing reuse of public documents over the appropriate accounting period shall not exceed the cost or collection, production, reproduction, dissemination, preservation and rights clearance, together with a reasonable return on investment.
+4. No fees shall be charged concerning requests for personal data.
+5. Fees related to production and service of documents or a copy thereof shall be regulated by the sub-legal act issued by the respective Ministry of Finance and shall be unified for all public institutions.
+6. In the case of standard charges for the re-use of public documents any applicable condition and the actual amount of those charges, including the calculation basis for such charges, shall be pre-established and published, through electronic means where possible and appropriate.
+7. If documents re-used by a public institution as input for its commercial activities which fall outside the scope if its public task, the same charges and other conditions shall apply to the supply of the public documents for those activities as apply to other users.

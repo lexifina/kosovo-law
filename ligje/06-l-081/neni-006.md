@@ -1,0 +1,4 @@
+# Neni 6
+Publikimi i dokumenteve publike 1. Institucionet publike detyrohen të publikojnë, në mënyrë proaktive, çdo dokument publik, të prodhuar, të pranuar, të mbajtur apo të kontrolluar nga to, menjëherë pasi dokumentet e tilla të jenë bërë të gatshme për publikim, por jo më larg se pesëmbëdhjetë (15) ditë nga momenti i bërjes së tyre të qasshme.
+2. Përjashtimisht nga paragrafi 1. i këtij neni, institucionet publike nuk publikojnë proaktivisht ato dokumente publike, të cilat përmbajnë të dhëna që përbëjnë bazë për refuzimin e qasjes në dokumente publike në bazë të nenit 17 të këtij ligji.
+3. Me rastin e vendosjes nëse dokumentet publike përmbajnë ndonjërin prej kufizimeve të parapara me nenin 17 të këtij ligji, institucionet publike detyrohen të bëjnë testin e dëmit dhe të interesit publik para vendosjes për mospublikim të dokumenteve të tilla.

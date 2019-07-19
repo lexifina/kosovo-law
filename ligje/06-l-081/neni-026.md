@@ -1,0 +1,6 @@
+# Neni 26
+Kushtet dhe kufizimet për lejimin e ripërdorimit 1. Institucionet publike bëjnë dokumentet publike të qasshme për ripërdorim në cilëndo gjuhë dhe gjendje para-ekzistuese, dhe po që se është e mundshme, në format të hapur dhe të lexueshëm nga pajisjet teknologjike, së bashku me përmbledhjet e të dhënave të tyre.
+2. Institucionet publike nuk janë të detyruara që të transformojnë formatin e dokumenteve ose të vazhdojnë të krijojnë, përditësojnë informatat, vetëm me qëllim të ripërdorimit të tyre.
+3. Dokumentet publike, në të cilat bibliotekat, përfshirë bibliotekat universitare, muzetë dhe arkivat, kanë të drejta të pronësisë intelektuale, lejohen për ripërdorim për qëllime komerciale dhe jokomerciale vetëm në rast se ripërdorimi i dokumenteve të tilla është i lejueshëm.
+4. Institucionet publike ndalohen të bëjnë marrëveshje, të cilat lejojnë qasje për ripërdorim në baza ekskluzive. E drejta për ripërdorim duhet të jetë e hapur për të gjithë pjesëmarrësit potencialë në treg dhe ndalohet diskriminimi ndaj palëve të interesuara në qasjen për ripërdorim të dokumenteve publike.
+5. E drejta për ripërdorim nuk mund të aprovohet për dokumente publike për të cilat palët e treta mbajnë të drejta të pronësisë intelektuale.

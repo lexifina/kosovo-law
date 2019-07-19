@@ -1,0 +1,1 @@
+LAW NO. 06/L –081 ON ACCESS TO PUBLIC DOCUMENTS LAW NO. 06/L –081 ON ACCESS TO PUBLIC DOCUMENTS Assembly of the Republic of Kosovo, Based on Article 65 (1) of the Constitution of the Republic of Kosovo, Approves LAW ON ACCESS TO PUBLIC DOCUMENTS

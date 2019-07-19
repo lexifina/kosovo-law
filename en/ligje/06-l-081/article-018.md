@@ -1,0 +1,5 @@
+# Article 18
+Damage and Public Interest Test 1. Prior to making a decision to refuse a request for access to public documents in accordance with Article 17 of this Law, the public institution shall conduct a damage and public interest test.
+2. Public institutions shall determine, on the basis of the damage and public interest test, if the interests protected by paragraph 2 of Article 17 override the public interest for publication of public documents.
+3. The Agency shall, no later than six (6) months from the entry into force of this Law, adopt clear instructions for public institutions on the content and manner of conducting the damage and public interest test within the procedure of decision making and justifying decisions to refuse access to public documents pursuant to Article 17 of this Law.
+4. If the request relates to any of the issues enumerated in Article 17 paragraph 3 of this Law, the public documents shall be made accessible without any test, unless otherwise provided by any other applicable law.

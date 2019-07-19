@@ -1,0 +1,9 @@
+# Article 13
+Responsible officers for Access to Public Documents 1. All public institutions shall appoint a unit or responsible person for access to public documents.
+2. All requests for access to public documents addressed to the public institution shall be submitted to the unit or official responsible for access to public documents.
+3. The unit or official responsible for access to public documents shall, upon receipt and initial review of the request for access to public documents, identify which respective unit within the public institution possesses or controls the requested document.
+4. After granting access under this Law, the relevant unit within the public institution shall send the requested document to the applicant in accordance with the conditions provided by this Law and other applicable laws.
+5. The unit or official responsible for access to public documents shall keep accurate records of the number of requests for access to documents as well as any other relevant data regarding
+LAW NO. 06/L –081 ON ACCESS TO PUBLIC DOCUMENTS the number of applications approved, partially approved and rejected, as well as the reasoning provided and other relevant information that allows the identification of the respective request.
+6. The unit or official responsible for access to public documents shall prepare regular annual reports at latest on 31 January of the following year for the previous year and shall forward these reports to the Information and Privacy Agency, who shall prepare a comprehensive report of public institutions on implementation of the right of access to public documents.
+7. The archives office in each public institution shall maintain the register of public documents contained therein that are freely accessible to the public. This register shall be updated every three (3) months.

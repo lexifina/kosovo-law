@@ -1,0 +1,6 @@
+# Article 12
+Timelines for handling requests for access to public documents 1. The public institution shall, within seven (7) days from the date of recording the request, issue a decision to grant access to the requested document or render a justified decision for the full or partial refusal and inform the applicant of the right to request reconsideration of his request as well when and where to submit such request.
+2. Where the requested public document is considered, on the basis of a reasonable assessment, necessary for the protection of the life or liberty of a person, the public institution shall be obliged to provide an answer within forty-eight (48) hours.
+3. The public institution may extend the deadline set out under paragraph 1 of this Article for decision making on access to public documents to a maximum of fifteen (15) additional days if:
+3.1. the document has to be searched within a large number of documents or outside the public institution; or 3.2. the same applicant requests, with a single application, a large number of public documents.
+4. The public institution shall notify the applicant immediately of the progress and the reasons causing the extension of the deadline, but no later than eight (8) days after receiving the request.

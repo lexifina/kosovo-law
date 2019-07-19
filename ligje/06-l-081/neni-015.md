@@ -1,0 +1,8 @@
+# Neni 15
+Shpenzimet për qasje në dokumente publike 1. Shikimi i dokumenteve publike në objektet e institucionit publik është pa pagesë, duke mos ndaluar caktimin e tarifave për shërbimet e ndërlidhura të ofruara nga bibliotekat, arkivat dhe muzetë.
+2. Një tarifë mund t’i ngarkohet kërkuesit për kopje të dokumentit publik, e cila është e arsyeshme dhe nuk mund të tejkalojë shpenzimet e vërteta të riprodhimit dhe furnizimit të dokumentit.
+3. Kur bibliotekat, arkivat dhe muzetë kërkojnë tarifa, të ardhurat e përgjithshme nga dhënia dhe lejimi i ripërdorimit të dokumenteve publike përgjatë periudhës së duhur të kontabilitetit nuk e tejkalon koston e grumbullimit, prodhimit, riprodhimit, shpërndarjes, ruajtjes dhe verifikim të të drejtave, së bashku me një kthim të arsyeshëm nga investimi.
+4. Tarifa nuk mund të ngarkohet në lidhje me kërkesat për të dhëna personale.
+5. Tarifat për shpenzimet e prodhimit dhe dërgimit të dokumenteve apo kopjes së dokumenteve rregullohen me akt nënligjor të nxjerrë nga ministria përkatëse për financa dhe janë unike për të gjitha institucionet publike.
+LIGJI NR. 06/L-081 PËR QASJE NË DOKUMENTE PUBLIKE 6. Për tarifat standarde për ripërdorimin e dokumenteve publike, çdo kusht i vlefshëm dhe shuma e atyre tarifave, si dhe baza e llogaritjes së atyre tarifave, caktohet paraprakisht dhe publikohet, përmes mjeteve elektronike, aty ku është e mundur dhe e nevojshme.
+7. Nëse dokumentet ripërdoren nga ndonjë institucion publik si kontribut për aktivitetet e tij komerciale që janë jashtë fushëveprimit të detyrave të tij publike, tarifat e njëjta dhe kushtet e tjera që vlejnë edhe për përdoruesit e tjerë vlejnë edhe për dhënien e dokumenteve publike për ato aktivitete.
