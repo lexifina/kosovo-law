@@ -1,0 +1,8 @@
+# Article 2
+Article 25 of the basic law shall be amended as in the following:
+Article 25
+Fines 1. A fine of one hundred (100) Euros up to two thousand (2,000) Euros shall be imposed for misdemeanor upon a user who does not return, harm, alter or destroy the library material or in any other way violates the rules of use of the library material, while a legal person shall be fined with five hundred (500) Euros up to twenty thousand (20,000) Euros.
+2. A fine of two hundred (200) Euros up to two thousand (2,000) Euro shall be imposed on a library director for a misdemeanor if he/she does not send the appropriate data to the National Library of Kosovo.
+3. A fine of five hundred (500) Euro up to twenty thousand (20,000) Euros shall be imposed on the publisher for misdemeanor, respectively the subject that does not fulfill the obligation to send the compulsory specimen to the National Library of Kosovo.
+4. A fine of two hundred (200) Euro up to two thousand (2,000) Euros shall be imposed on the responsible person for library from public sector for a misdemeanor who fails to submit to the National Library of Kosovo a list of library collections that are extracted from the library’s use or list of collections which has ceased to function.
+5. A fine of five hundred (500) Euros up to two thousand (2,000) Euro shall be imposed for offenses upon natural persons possessing library materials of cultural heritage importance who do not notify the National Library of Kosovo for their alteration, while legal persons shall be fined from one thousand (1,000) Euros up to twenty thousand (20,000) Euros.
