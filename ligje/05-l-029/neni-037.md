@@ -1,4 +1,0 @@
-# Neni 37
-Deklarimi i tatimeve
-1. Tatimpaguesi, nga i cili kërkohet apo ai i cili zgjedh t’i nënshtrohet tatuarjes në bazë të të ardhurave reale, është i obliguar të përgatis dhe deklaroj të ardhurat, duke përshtatur për qëllime tatimore, të ardhurat dhe shpenzimet e raportuara. Tatimpaguesi duhet të dorëzojë në ATK deklaratën vjetore për tatim në të ardhurat korporale deri më 31 mars të vitit pasues të periudhës tatimore. Deklarimi bëhet në formularët e paraparë nga ATK-ja dhe baza tatimore do të jetë fitimi i paraqitur në pasqyrat financiare të përpiluara në përputhje me standardet e kontabilitetit, i rritur apo zvogëluar në përputhje me dispozitat e përcaktuara të këtij ligji.
-1.1. Së bashku me deklaratën tatimore, tatimpaguesit e tillë gjithashtu duhet ti dorëzojnë pasqyrat financiare të përpiluara në përputhje me Standardet e Kontabilitetit dhe legjislacionit përkatës në fuqi.

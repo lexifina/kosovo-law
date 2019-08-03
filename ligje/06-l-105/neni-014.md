@@ -1,0 +1,8 @@
+# Neni 14
+Provizionet për humbjet e pritura nga kreditë dhe provizionet teknike dhe matematike 1. Provizionet për humbjet e pritura nuk lejohen si shpenzime të zbritshme në përcaktimin e të ardhurave të tatueshme, përveç rasteve të parapara në paragrafët 2 dhe 3 të këtij neni.
+2. Bankat, institucionet mikrofinanciare dhe institucionet financiare jobankare të licencuara nga BQK, për përcaktimin e të ardhurave të tatueshme, kanë të drejtë që të njohin shpenzime të zbritshme provizionet për humbjet e pritura nga kreditë deri në tetëdhjetë (80%) përqind të shumës së përcaktuar me akt nënligjor të nxjerr nga BQK.
+3. Institucionet Financiare të Sigurimeve dhe Risigurimeve, të licencuara nga BQK, në përcaktimin e të ardhurave të tatueshme, kanë të drejtë që t’iu njihen shpenzimet e zbritshme, provizionet për rezervat teknike dhe matematike, deri në tetëdhjetë përqind (80%) të shumës së përcaktuar me Ligjin për Sigurimet dhe aktet nënligjore të nxjerra nga BQK.
+4. Pas njohjes së provizioneve sipas paragrafit 2 të këtij neni, çdo shumë e zvogëluar nga mbledhja e kredive të provizionuara, përfshihet në të ardhura të tatueshme, ndërsa çdo shumë e rritur në provizione deri në shumat e lejueshme, njihet shpenzim i zbritshëm.
+5. Pas njohjes së provizioneve teknike dhe matematike sipas paragrafit 3 të këtij neni, çdo shumë e zvogëluar nga provizionet, përfshihet në të ardhura të tatueshme, ndërsa çdo shumë e rritur në provizione deri në shumat e lejueshme, njihet shpenzim i zbritshëm.
+6. Në rast se BQK kërkon korrigjim të provizioneve të deklaruara sipas paragrafit 2 dhe 3 të këtij neni, ndryshimet e tilla duhet të rregullohen në deklaratë tatimore.
+7. Ministri nxjerr akt nënligjor për zbatimin e këtij neni.

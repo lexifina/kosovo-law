@@ -1,0 +1,14 @@
+## CHAPTER IV
+## CAPITAL GAINS AND LOSSES, BUSINESS LOSSES
+# Article 22
+Capital Gains and Losses 1. Capital gain means income that a taxpayer realizes through the sale or other forms of disposition of capital assets including movable, immovable assets and securities.
+2. The amount of capital gain is the positive difference between the sales price of the capital asset and the cost of the capital asset as determined under paragraph 5. of this Article.
+3. The sales price of a capital asset shall be the sum of any amount received, plus any other compensation received, as consideration for the sale.
+4. If the parties are related persons and the sales price is less than the open market value, then, for purposes of the present Article, the sales price shall be adjusted to the open market value in the manner prescribed in a sub-legal act issued by the Minister.
+5. The cost of the capital asset is the amount that the taxpayer paid for the acquisition of the asset, increased by the cost of improvements, and reduced by depreciation and other expenditures allowable under this Law.
+6. Capital gains shall be recognized as business income and capital losses as business losses, unless otherwise provided by this Law.
+7. Capital loss means the loss incurred by the taxpayer from the sale or any other form of alienation of capital property, including movable property, real estate and securities 8. The amount of capital loss is the negative difference between the sales price of the capital asset per paragraph 3. or 4. of this Article and the cost of the capital asset as determined under paragraph 5. of this Article.
+9. Capital losses shall be treated as ordinary losses from economic activities. The provisions of Article 24 of this Law shall apply to the losses described in this paragraph.
+10. Gross income from capital gains do not include capital gains realized from the sale of the assets of Kosovo Pension Savings Fund or any other pension fund defined under legislation on pensions in Kosovo.
+11. A capital gain shall not be recognized on the involuntary conversion of assets to the extent that the consideration received from the conversion that consists of either property of the same character or nature or money that is invested in property of the same character or nature within a replacement period of two (2) years.
+12. If a sale of a capital asset involves an instalment agreement that lasts more than the tax period in which the sale is finalized, where all applicable documents are signed by all parties and the sales agreement is legally enforceable, any gain must be reported on a straight-line basis over the life of the instalment agreement and the amount of gain attributable to any tax period must be reported on the tax declaration as income in that tax period. Further provisions related to instalment sales shall be described in a sub- legal act issued by the Minister.

@@ -1,0 +1,4 @@
+# Neni 29
+Shmangia e tatimeve të dyfishta 1. Tatimpaguesi rezident në Kosovë që përfiton të ardhura nga aktivitetet afariste jashtë Kosovës dhe i cili paguan tatimin në të ardhura në shtete tjera, sipas këtij ligji i lejohet një kredi tatimore për tatimin në të ardhura të paguar në shtetin tjetër që i atribuohet të ardhurave që krijohen në shtetin tjetër.
+2. Krediti tatimor i lejuar sipas paragrafit 1 të këtij neni, lejohet si zbritje nga tatimi mbi të ardhurat e rezidentit të Kosovës, në një shumë të barabartë me tatimin mbi të ardhurat e paguara jashtë Kosovës. Megjithatë, kjo zbritje nuk do të kalojë pjesën e tatimit të Kosovës, të llogaritur para zbritjes së dhënë, që i atribuohet të ardhurave të tatuara jashtë Kosovës.
+3. Çdo marrëveshje e zbatueshme ndërkombëtare për eliminimin e tatimit të dyfishtë në të ardhura, ka epërsi në raport me dispozitat e këtij ligji.

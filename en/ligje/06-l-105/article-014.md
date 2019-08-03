@@ -1,0 +1,8 @@
+# Article 14
+Provisions for expected losses on loans, technical and mathematical provisions 1. Provisions for expected losses are not allowed as deductible expenses in the determination of taxable income, except as provided in paragraphs 2. and 3. of this Article.
+LAW NO.06/L-105 ON CORPORATE INCOME TAX 2. Banks, microfinance institutions and non-bank financial institutions licensed by the CBK for the determination of taxable income shall be entitled to recognize deductible expenses the provision for expected losses from loans up to eighty percent (80%) of the amount determined by a sub-legal act issued by the CBK.
+3. Financial insurance and reinsurance institutions licensed by the CBK, in determining the taxable income, shall be entitled to recognize the deductible expenses for technical and mathematical reserves up to eighty percent (80%) of the amount determined by the Law on Insurances and sub-legal acts issued by the CBK.
+4. After recognizing the provisions under paragraph 2. of this Article, any amount deducted from the collection of provisioned loans shall be included in taxable income, and any amount increased up to the allowable amount shall be recognized as a deductible expense.
+5. After the recognition of technical and mathematical provisions under paragraph 3. of this Article, any amount deducted from provisions is included in taxable income, and any amount increased in provision up to the allowable amount is recognized as deductible expense.
+6. If the CBK requires correction of the provisions declared under paragraphs 2. and 3. of this Article, such changes shall be regulated in the tax declaration.
+7. The Minister shall issue a sub-legal act for the implementation of this Article.

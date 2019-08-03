@@ -1,6 +1,0 @@
-# Article 34
-Treatment of Commercial Income of Non-Governmental Organizations
-1. A non-governmental organization that conducts any commercial or other activity that is not exclusively related to its public purpose shall be charged income tax at the rate of ten percent (10%) on income derived from such unrelated business activity, reduced by any deductions that are directly related to the carrying on of such business and which are allowed by this Law.
-2. TAK has the authority to control every NGO to determine the extent of the respect of rules according to which NGOs operate. In the cases when it is ascertained that profits of NGOs exceed the reasonable level of the organisation’s profits, which has been established as a non- profitable organisation, TAK has the authority to treat such excessive profits in compliance with provisions of paragraph 1 of this Article.
-3. Each NGO engaging in the activities exempted from tax according to sub-paragraph 1.1 of Article 7 of this Law and in other commercial activities shall keep separate records and notes on the activity of public profit and on the other commercial activities.
-4. The Minister shall issue a sublegal act by means of which he shall foresee the meaning of “Excessive profit” according to this Article.

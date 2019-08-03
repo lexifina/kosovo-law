@@ -1,0 +1,5 @@
+# Article 27
+Reorganization 1. Transfers of property pursuant to a written plan for a reorganization of a taxpayer, whether due to bankruptcy, merger, acquisition, division, exchange of shares or otherwise, which is approved by the TAK, shall not be taxed under this Law.
+2. In the case of reorganization, the value of the property held by the reorganized taxpayer shall be determined based on the acquisition value of such property upon reorganization.
+3. During reorganization, the fair distribution of shareholder’s equity interest shall not constitute taxable income to the shareholder.
+4. Except as otherwise established in a sub-legal act issued by the Minister, the acquiring taxpayer shall succeed to and take the place of the acquired taxpayer with respect to inventories, loss carry forwards, dividend accounts, and all other such items. Loss carry forwards are allowable to the acquiring taxpayer only if provided in the plan of reorganization and approved by the Tax Administration according to the provisions established in the sub-legal act referred to in this paragraph of this Article.

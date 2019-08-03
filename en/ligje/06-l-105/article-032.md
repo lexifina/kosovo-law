@@ -1,0 +1,5 @@
+# Article 32
+Withhold Tax for Special Categories 1. Any taxpayer who makes payments for natural non-business persons, farmers, collectors of recycled materials, mountain fruit, medicinal plants and similar, is obliged to withhold tax at the rate of one percent (1%) in gross payment, at the time of payment.
+2. Each taxpayer, who is required to withhold tax under paragraph 1. of this Article, shall submit a tax withholding statement and transfer the amount of withholding tax to the account determined by TAK, in a bank or financial institution licensed by the CBK, within fifteen (15) days after the last day of each calendar month, in accordance with the sub-legal act issued by the Minister.
+3. Each tax payer which is required to withhold tax under paragraph 1. of this Article shall, prior
+LAW NO.06/L-105 ON CORPORATE INCOME TAX to 1st of March of the year following the tax period, provide each natural non-business person with a certificate of withheld tax in the form specified by the sub-legal act issued by the Minister.

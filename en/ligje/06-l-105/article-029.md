@@ -1,0 +1,4 @@
+# Article 29
+Avoidance of Double Taxation 1. A taxpayer resident in Kosovo who receives income from business activities outside of Kosovo and who pays income tax to any other state shall be allowed a tax credit under this Law for the amount of income tax paid to such State that is attributable to the income derived from that other state.
+2. The tax credit allowed in paragraph 1. of this Article shall be allowed as a tax deduction on the income of the resident of Kosovo to an amount equal to income tax paid outside Kosovo. However, such deduction shall not exceed the part of taxation in Kosovo calculated prior to the deduction provided, and attributed to incomes outside Kosovo.
+3. Any applicable international agreement on the avoidance of double taxation on income shall supersede the provisions of this law.

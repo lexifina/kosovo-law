@@ -1,0 +1,5 @@
+# Neni 18
+Zbritjet e posaçme për pasuritë e reja 1. Nëse një tatimpagues blen linjat prodhuese për uzina dhe makineri, inventar të hekurudhës dhe lokomotiva që shfrytëzohen për transportin hekurudhor, aeroplanë, anije, mjetet e rënda për transport, pajisjet për bartje të dheut, buldozerët, gërmuesit e dheut dhe mjetet tjera të rënda për qëllimet e aktiviteteve ekonomike të tatimpaguesit, përveç zbritjes normale të zhvlerësimit të lejueshëm, lejohet një zbritje e veçantë prej dhjetë për qind të çmimit të përvetësimit të pasurisë në vitin në të cilin pasuria është vënë për herë të parë në shërbim.
+2. Zbritja lejohet vetëm nëse pasuria është e re ose është vënë për herë të parë në përdorim në Kosovë. Zbritja nuk lejohet nëse pasuria është bartur nga një biznes ekzistues ose një biznes i mëparshëm në Kosovë apo jashtë Kosovës.
+3. Zbritjet tjera të posaçme mund të jepen vetëm nëse parashihen me ligj të veçantë.
+4. Zbritja sipas paragrafit 1 të këtij neni nuk lejohet për personat të cilët përfitojnë sipas nenit 8, pargrafit 3 të këtij ligji.

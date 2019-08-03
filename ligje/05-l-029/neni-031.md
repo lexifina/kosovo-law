@@ -1,5 +1,0 @@
-# Neni 31
-Mbajtja e Tatimit në Burim për Kategori të Veçanta
-1. Çdo tatimpagues që bënë pagesa për personat fizik jo-afarist, bujqit, fermerët, grumbulluesit e materialeve recikluese, frutave të malit, bimëve mjekuese dhe të ngjashme me to është i obliguar të mbajë tatimin në burim në shkallën prej tre përqind (3%) të bruto pagesës, në momentin e pagesës.
-2. Secili tatimpagues, që kërkohet të mbajë tatimin në burim sipas paragrafit 1 të këtij neni, dorëzon pasqyrën e tatimit të mbajtur në burim dhe e transferon shumën e tatimit të mbajtur në burim në llogarinë e caktuar nga ATK-ja në një bankë, apo institucion financiar, i licencuar nga Banka Qendrore e Kosovës brenda pesëmbëdhjetë (15) ditëve pas ditës së fundit të secilit muaj kalendarik, në përputhje me aktin nënligjor të nxjerr nga Ministri.
-3. Secili tatimpagues që kërkohet të mbajë tatimin në burim sipas paragrafit 1 të këtij neni, deri më 1 mars të vitit vijues të periudhës tatimore, i siguron secilit person fizik jo afarist nga i cili është mbajtur tatimi në burim, një certifikatë të tatimit të mbajtur në burim në formën e specifikuar në aktin nën ligjor të nxjerr nga Ministri.
