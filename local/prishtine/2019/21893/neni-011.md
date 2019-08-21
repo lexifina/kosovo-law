@@ -1,0 +1,3 @@
+# Neni 11
+SHITJA E BILETAVE TE PARKIMIT PIIRMES INTERNETIT
+I ' Shitja dhe l€shimi i biletave elektronike t€ parkimit permes internetit (oreshe, ditore dhe biletave t€ tjera t€ parkimit). Sh6rbimi zhvillohet permes platformes s6 internetit, e cila munddson lidhjen n€ sistemin e pages6s dhe kontrollimit te parkimit. p6r shfryt€zimin e sh€rbimit eshte i nevojsh€m regjistrimi i shfryt€zuesit. 2, Bazuar nE t€ dh€nat e marra nga serveri qendror, operatori i parkingut ka mund€si q€ tE l€shoj€ fatur€n p6r t€ gjitha pagesat td cilat i ka kryer p6rmes k€tij sherbimi, nese vetg pala nuk ka pasur mundEsi p€r ta shtypur fatur€n.
