@@ -1,0 +1,5 @@
+# Neni 6
+M6nyra e p€rzgjedhjes s6 an6tar6ve t6 Asamblesd
+6.1. NE takim t€ p€rbashkEt, K€shilli i nx€nEsve fton kryesitE e klasave 6-g; 6'2' Nga t€ giithe nx€nesit e ftuar n€ takim perzgjidhen perfaqesuesit per Asamble, n0 m6nyr€ t€ fsheht€, sipas nenit 4,par.4.4,te k6saj rregulloreje; 6'3. Secili nx€n€s i pranishem nd takim ka tE drejte t€ propozoj6 dhe t€ jete i propozuar; 6'4' Secili nxen€s ka t€ drejte t€ deklarohet se a pajtohet te jete kandidat perflaqesues i shkoll€s p6r Asamble;
+6.5. Nxdn€sit e kandiduar p€r p€rfaqEsues t€ Asamblese paraqiten me nje fial€ rasti; 6'6' Pdrzgjedhja e kandidatdve b€het p€rmes procesit t€ votimit, t€ hapur ose t€ mbyllur;
+6.7 . P6rzgjedhja e asamblistEve b€het n6 jav€n e tret6 t€ tetorit, nE gdo dy vjet; 6'8' Duke respektuar kuot€n gjinore dhe gjith€pcrfshirjen, p€rzgjidhen kandidatet t€ cilet kan6 numrin m€ td madh t€ votave (varesisht nga numri i asamblist€ve qe do t€ p6rzgjidhen); 6'9. N€se ka num€r t€ barabart€ te votave, atEherd shkohet ne rundin tjet€r. Komisioni zgjedhor €sht6 gj ith€p6rfshir€s.
