@@ -1,0 +1,2 @@
+# Article 9
+Representation of communities In central public institutions, at least ten percent (10%) of job positions in all categories of public officials should be filled in by members of non-majority communities in Kosovo and who meet admission criteria, while at the municipal level, fulfillment of number of job positions for members of communities will be in accordance with percentage of population in that municipality.

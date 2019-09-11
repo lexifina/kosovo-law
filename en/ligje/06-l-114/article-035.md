@@ -1,0 +1,7 @@
+# Article 35
+Selection of position and appointment 1. Successful candidates, under paragraph 9. of the Article 34 of this Law, according to the ranking starting from the one with highest scores, shall be entitled to choose and be appointed to any vacant position of the group for which recruitment was conducted, and in any other vacant position of the same group, that may be vacant during the validity period of such list.
+2. Responsible Unit shall, within seven (7) days from announcement of the list or from creation of a vacancy, organize selection process for the position according to the preference from candidates and appoints the candidate in the chosen position, according to paragraph 1. of this Article.
+3. Candidate who has chosen a position and is appointed in that position cannot exercise again the right to chose.
+LAW NO. 06/L-114 ON PUBLIC OFFICIALS 4. Any appointment in contradiction to this Article is invalid.
+5. The list of candidates not appointed as per paragraphs 1. and 2. of this Article shall remain valid for a period of one (1) year from the announcement of winners. If during this period another competition procedure is organized for the same group, candidates from the previous list are ri-ranked according to the results of both lists.
+6. Government, upon proposal of the ministry responsible for public administration, with a sub- legal act, adopts detailed procedures for the appointment in the professional category.

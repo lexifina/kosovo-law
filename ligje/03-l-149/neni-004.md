@@ -1,6 +1,0 @@
-# Neni 4
-Kategoritë e punonjësve publikë të cilët nuk janë pjesë e Shërbimit Civil
-1. Në bazë të këtij ligji, statusi i nëpunësit civil nuk aplikohet për kategoritë e mëposhtme: stafi mësimor i sistemit arsimor, stafi mjekësor i sistemit shëndetësor, krijuesit dhe përformuesit e artit, zyrtarët policorë të Policisë së Kosovës, zyrtarët doganorë të Doganave të Kosovës, zyrtarët korrektues të Shërbimit Korrektues të Kosovës dhe pjesëtarët e Forcës së Sigurisë së Kosovës, të emëruarit politik dhe të gjithë ata që emërohen në pozita nga të emëruarit politik dhe anëtarët e kabineteve të tyre, që nga kabineti i Presidentit, Kryetarit të Kuvendit, Kryeministrit dhe kabinetet e ministrave. Marrëdhënia e tyre e punës rregullohet me Ligjin e Punës, ligje të veçanta, me marrëveshje kolektive ose me rregullore sektoriale.
-2. Zyrtarët e zgjedhur në pozita zgjedhëse në institucionet e administratës publike dhe zyrtarët e emëruar nga zyrtarët e zgjedhur në pozita të caktuara nuk janë nëpunës civil (në tekstin e mëtejmë: “funksionarët publikë”).
-3. Të gjithë nëpunësit e punësuar në kabinetet e funksionarëve publike nuk janë nëpunës civilë.
-4. Personeli i punësuar nga institucionet e administratës në nivel qendror dhe komunal, përgjegjës për kryerjen e funksioneve mbështetëse dhe të mirëmbajtjes, nuk janë nëpunës civilë.

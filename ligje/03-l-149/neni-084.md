@@ -1,6 +1,0 @@
-# Neni 84
-Ndërprerja e marrëdhënies së punës për shkak të paaftësisë për të vepruar
-1. Marrëdhënia e punës e nëpunësit civil ndërpritet për shkak të paaftësisë për ushtrimin e detyrës në shërbimin civil, e cila është dëshmuar dhe certifikuar nga komisioni mjekësor. Marrëdhënia e punës ndërpritet për shkak të paaftësisë vetëm në rast kur shkalla e paaftësisë nuk e mundëson transferimin në ndonjë pozitë tjetër në shërbimin civil.
-2. Në administratën publike nuk është e lejueshme ndërprerja e marrëdhënies së punës e nëpunësve civilë për shkak të problemeve të vogla ose joserioze shëndetësore, të cilat nuk e pengojnë ushtrimin e detyrave nga nëpunësi civil.
-3. Nëpunësit civilë, marrëdhënia e punës së të cilëve ndërpritet për shkak të paaftësisë fizike ose problemeve shëndetësore që nuk e pengojnë ushtrimin e detyrave të tjera pas ricaktimit në një funksion dhe punë tjetër, mund të ankohen kundër vendimit për ndërprerjen e marrëdhënies së punës.
-4. Nëpunësit civilë, marrëdhënia e punës së të cilëve ndërpritet për shkak të paaftësisë fizike ose problemeve shëndetësore të shkaktuara si rezultat i kryerjes së detyrës zyrtare, janë në përkujdesje të Qeverisë dhe rregullohen me akte nënligjore.

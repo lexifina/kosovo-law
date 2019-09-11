@@ -1,0 +1,3 @@
+# Neni 7
+Parimet e përgjithshme të menaxhimit të zyrtarëve publikë 1. Menaxhimi i marrëdhënies juridike me nëpunësit civilë, me nëpunësit e Shërbimit Publik dhe me nëpunësit administrativo-teknikë dhe mbështetës, udhëhiqet nga ligji dhe bazohet, gjithashtu, në parimin e mundësive të barabarta, meritës, transparencës, profesionalizmit dhe paanësisë politike, mosdiskriminimit, përfaqësimit të drejtë gjinor dhe të komuniteteve dhe synon garantimin e qëndrueshmërisë dhe vazhdimësisë në detyrë.
+2. Menaxhimi i marrëdhënies juridike me nëpunësin e kabinetit bazohet në raportet e nëpunësit me titullarin e kabinetit.

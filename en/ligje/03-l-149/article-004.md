@@ -1,6 +1,0 @@
-# Article 4
-Categories of Public Employees excluded from the Civil Service
-1. Under the terms of this Law the status of Civil Servant does not apply to the following categories: the teaching staff of the education system, the medical staff of the health service, creators and art performers, Police Officers of the Kosovo Police, Customs Officers of the Kosovo Customs, Correctional Officers of the Kosovo Correctional Service and Members of the Kosovo Security Force, political appointees and all the persons appointed in positions by the political appointees and members of their cabinets, starting from the cabinet of the President, President of the Assembly, Prime-Minister and cabinets of the Ministers. Their employment relationship shall be regulated in accordance with the Law on Labor, special laws, collective agreements or with sector regulations.
-2. Officials elected to elected positions in the institutions of the public administration and officials appointed by elected officials to specific positions are not Civil Servants (hereinafter referred to as: “Public Officials”).
-3. Personnel employed in the cabinets of public officials are not Civil Servants.
-4. The personnel employed by the institutions of the public administration in the central and municipal level responsible to carry out support and maintenance work are not Civil Servants.
