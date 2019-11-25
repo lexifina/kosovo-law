@@ -1,0 +1,5 @@
+# Neni ll
+Masat ndEshkuese I 1' 1 Ndaj pal€ve t€ cilat nuk e respektojne rendin shtepiak dhe nuk i binden menaxhmentit te objektit sportiv do te merren masa ndeshkuese, suspendim i p€rkohshem per t€ drejt€ shfryt€zimi te palestrds, me koh€zgiatje te lire p€r tu percaktuar nga p€rgjegfesi i palestr€s dhe nese perseritet me shum€ se dy here i njejti veprim, at€here i merret e drejta per shfrytezim pergjithmon€, derisa otganizataose klubi n€ fial€ €sht€ e perb€re nga te njejtit akter€.
+rl '2 Per d€met eventual te shkaktuara nga klubet apo subjetet tjera p€rkat€se, pergjegisia bie te shfrytzuesi i cili e ka shkaktu d€min, andaj kompenzimet duhet bere n€ afat€ prej pes€ (5) diteve ne gjirollogarine e Komunes sE Kamenic€s .
+1 1'3 D€met e shkaktuara vleresohen nga komisioni ad-hok prej tre an6tardve i em€ruar nga drejtoria p€r Kulture, Rini dhe Sport. N€ rast te moskompenzimit te d€meve ne afatin e p"-ry* kohor, procedura e kompenzimit do te vendosei permes organeve gjyqesore, permbaruesit privat p€rfshir€ kamaten ligiore si dhe ndales€n per silfrytezuesii deri ne zgjedhjen e kontestit.
+d
