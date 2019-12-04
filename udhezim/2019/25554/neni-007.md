@@ -1,0 +1,4 @@
+# Neni 7
+Thirrja për seancën dëgjimore
+1. Pas marrjes së deklaratës/përgjigjes me shkrim nga noteri apo personat e tjerë te parapare në nenin 3 të këtij Udhëzimi ose pas skadimit të afatit të përcaktuar në paragrafin 2 të nenit 8 të këtij udhëzimi administrativ, Komisioni Disiplinor, brenda 30 ditëve do ta caktoj një seancë dëgjimore, duke i njoftuar palët për vendin dhe kohën e mbajtjes së kësaj seance. Kryetari i Komisionit Disiplinor i dërgon thirrje për seancën dëgjimore iniciuesit, të noterit dhe përfaqësuesit të tij , si dhe personave të tjerë, prania e të cilëve konsiderohet e nevojshme nga Komisioni Disiplinor.
+2. Në ftesën për seancë dëgjimore, Komisioni Disiplinor detyrimisht e paralajmëron noterin dhe përfaqësuesin e tij se procedimet disiplinore do të kryhen edhe në mungesë të tyre, nëse ata mungojnë në seancë dhe mungesën e tyre nuk e arsyetojnë, apo arsyet e dhëna për mungesë nuk mbështeten në prova të cilat e arsyetojnë mungesën.
