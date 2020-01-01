@@ -1,0 +1,3 @@
+# Article 24
+Re-classification of budgetary expenditures Ongoing projects from previous years, presented in annex 1 of this Law, for the purpose of planning in the appropriate category of expenditure, are transferred from the category of “Capital Expenditures” to the category of expenditure “Goods and Services” of the BO/s, under the relevant sub-program, by maintaining the code and name of the project in KFMIS as provided by the Law on Budgetary Appropriations for 2019. Their allocation is made only for the purpose specified in the project, while for financial reporting purposes, the disclosure is made based on project number, in continuation of execution from the previous year.
+LAW NO. 07/L-001 LAW ON THE BUDGET APPROPRIATIONS OF THE REPUBLIC OF KOSOVO FOR YEAR 2020

@@ -1,0 +1,4 @@
+# Article 20
+Supervision of project implementation 1. For the purpose of implementation and supervision of projects financed by borrowing and other projects of interest to the Republic of Kosovo, on the proposal of the Minister of the relevant Ministry, the Minister may decide to allow the compensation of relevant experts for overseeing the implementation of such projects, in accordance with the legislation in force on public debt. In this case, the source of their funding is also provided.
+2. Supervision of the implementation of projects financed under paragraph 1. of this Article may only be provided if it is determined by the borrowing agreement.
+3. Budgetary organizations that implement one or more projects funded under paragraph 1. shall establish only one unit for project implementation.

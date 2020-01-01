@@ -1,0 +1,3 @@
+# Neni 24
+Ri-klasifikimi i shpenzimeve buxhetore Projektet në vazhdimësi nga vitet paraprake, të paraqitura në shtojcën 1 të këtij ligji, me qëllim të planifikimit në kategorinë adekuate të shpenzimeve, barten nga kategoria e shpenzimeve kapitale në kategorinë e shpenzimeve mallra dhe shërbime te OB-të, në nën-programin përkatës, duke ruajtur kodin dhe emërtimin e projektit në SIMFK të marrë nga ligji për ndarjet buxhetore të vitit 2019. Alokimi i tyre bëhet vetëm për qëllimin e përcaktuar në projekt, ndërsa për efekt të raportimit financiar, shpalosja bëhet me numër të projektit, në vazhdimësi të ekzekutimit nga viti paraprak.
+LIGJI NR. 07/L-001 MBI NDARJET BUXHETORE PËR BUXHETIN E REPUBLIKЁS SЁ KOSOVЁS PЁR VITIN 2020
