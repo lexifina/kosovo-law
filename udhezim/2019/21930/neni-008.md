@@ -1,0 +1,8 @@
+# Neni 8
+Klasifikimi i shpenzimeve që ndërlidhen me
+aktivitetet kyçe të
+projektit
+1. Shpenzimet në fazën e identifikimit të projektit: stafi i ekipit të projektit, shpenzimet e udhëtimit që ndërlidhet me vlerësimin e lokacionit, aktivitetet kërkimore, raportet preliminare të vlerësimit, studimet e fizibilitetit dhe asistenca teknike, klasifikohen si shpenzime rrjedhëse.
+2. Shpenzimet në fazën e formulimit të projektit: shpenzimet për stafin e ekipit të projektit, konsulentët, shpenzimet e udhëtimit të ekipit të projektit, përgatitjen e tenderit, tarifat ligjore, tarifën e analizës së vlerësimit afarist dhe asistenca teknike, klasifikohen si shpenzime rrjedhëse.
+3. Shpenzimet në fazën e zbatimit (faza e projektimit, planifikimit dhe prokurimit): shpenzimet për konsulentët, tenderi, tarifat ligjore, tarifa e analizës së vlerësimit afarist, përfshirë reklamimin e tenderëve, negocimi dhe përgatitja e kontratës, asistenca teknike dhe shpenzimet e bartjes së pronësisë lidhur me shpronësimin e asetit, me kusht që kompensimi i është paguar pronarit origjinal, klasifikohen si shpenzime kapitale.
+4. Shpenzimet në fazën e zbatimit (faza e realizimit/ndërtimit të projektit): shpenzimet për blerjen apo përvetësimin e tokës, prishjen e ndërtimeve ekzistuese, tarifat ligjore, tarifën e analizës së vlerësimit afarist, taksat/tatimet administrative lidhur me blerjen apo përvetësimin e asetit, punët përgatitore të tokës, punimet infrastrukturore, punimet ndihmëse, pagesat për progresin lidhur me fazat kyçe të ndërtimit, stafi i njësisë për implementimin e projektit, menaxhimi i tenderit/kontratës, klasifikohen si shpenzime kapitale.
