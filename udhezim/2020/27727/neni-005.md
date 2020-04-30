@@ -1,0 +1,5 @@
+# Neni 5
+Trajtimi dhe menaxhimi i regjistrit
+1. Procesi i trajtimit dhe menaxhimit të regjistrit të padive kolektive të paraqitura dhe atyre të përfunduara me aktgjykime të plotfuqishme nga Departamenti për Çështje Ekonomike i Gjykatës Themelore të Prishtinës, zbatohet dhe monitorohet nga Departamenti për Mbrojtjen e Konsumatorit.
+2. Zyrtarët në kuadër të Departamentit për Mbrojtjen e Konsumatorit të cilët mbikëqyrin regjistrin sipas paragrafit 1 të këtij neni, duhet të raportojë drejtpërdrejtë te Menaxhmenti i Lartë i Ministrisë së Ekonomisë, Punësimit Tregtisë, Industrisë, Nderremarësisë dhe Investimeve Strategjike.
+3. Departamenti për Mbrojtjen e Konsumatorit mban përgjegjësi të drejtpërdrejtë për procesin e trajtimit dhe menaxhimit të regjistrit për paditë kolektive të paraqitura dhe atyre të përfunduara me aktgjykime të plotfuqishme nga Departamenti për Çështje Ekonomike i Gjykatës Themelore të Prishtinës, si dhe siguron që ky proces është në përputhje me ligjet dhe rregulloret e Departamentit për Mbrojtjen e Konsumatorit në Ministrinë e Ekonomisë, Punësimit Tregtisë, Industrisë, Nderremaresisë dhe Investimeve Strategjike
