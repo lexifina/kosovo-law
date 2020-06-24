@@ -1,0 +1,10 @@
+# Neni 16
+Marrja e masave në vendet e punës
+1. Punëdhënësit ose ndërmarrja sigurojnë që për qëllime të mbrojtjes nga rrezatimi, të merren masa lidhur me të gjitha vendet e punës ku punonjësit janë të detyruar të marrin një ekspozim më të madh se një dozë efektive prej 1 mSv në vit ose një dozë ekuivalente prej 15 mSv në vit për lenten e syrit ose 50 mSv në vit për lëkurën dhe gjymtyrët.
+Masa të tilla do të jenë në përshtatshmëri me natyrën e instalimeve dhe burimeve dhe me madhësinë dhe natyrën e rreziqeve.
+2. Për vendet e punës të përcaktuara në paragrafin 3 të nenit 35 të kësaj rregulloreje, dhe ku ekspozimi i punonjësve mund të kalojë një dozë efektive 6 mSv në vit ose një vlerë përkatëse ekspozimi të integruar në kohë ndaj radonit, do të menaxhohen si një situatë e ekspozimit të planifikuar. Për vendet e punës të përcaktuara në paragrafin 3 të nenit 35 të kësaj rregulloreje, dhe ku doza efektive për punonjësit është më pak se ose e barabartë me 6 mSv në vit ose një vlerë përkatëse ekspozimi të integruar në kohë ndaj radonit, ekspozimet do të mbahen nën kontroll dhe do të vlerësohen çdo vit nga eksperti për mbrojtjen nga rrezatimi në një raport me shkrim që i paraqitet Agjencisë.
+3. Për një ndërmarrje të fluturimeve ajrore ku dozat efektive nga rrezatimi kozmik për ekuipazhet mund të kalojë 6 mSv në vit, do të zbatohen kërkesat përkatëse të përcaktuara në këtë Rregullore, duke mbajtur parasysh veçoritë specifike për këtë situatë ekspozimi. Kur doza efektive për ekuipazhet mund të jetë mbi 1 mSv në vit, ndërmarrja duhet të marrë masat e duhura, në veçanti:
+3.1. Të vlerësojë ekspozimin e ekuipazhit në fjalë;
+3.2. Të marrë parasysh ekspozimin e vlerësuar gjatë organizimit të grafikut të fluturimeve me qëllim që të zvogëlojë dozën për ekuipazhin e ekspozuar në nivel të lartë;
+3.3. Të informojë punonjësit për rreziqet për shëndetin e tyre në punë dhe për dozën e tyre individuale.
+3.4. Të zbatojë paragrafin 1 të nenit 8 të kësaj rregulloreje për anëtaren e ekuipazhit ajror që është shtatzënë.
