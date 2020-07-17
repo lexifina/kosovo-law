@@ -1,0 +1,22 @@
+# Article 37
+Education 1. It is prohibited to deprive a child of his/her right to education.
+2. The respective ministry of education should provide inclusive and equal access for all students in quality and free education on the basis of equal opportunities and non-discrimination, in accordance with age and ability to understand at all levels of pre-university education. This right shall also be granted to a child who is willing to continue education upon completing compulsory education.
+3. A child attending all forms of pre-university education shall be protected from all forms of physical and mental violence, abuse, maltreatment, exploitation, corporal punishment, negligence or any other form that puts at risk the life, safety, health, education and development of the child. The child shall be protected from violence exercised by the educational personnel, their peers and any other person within the educational system. During the educational process, it shall be forbidden to promote hate speech, violence, intolerance, or discrimination and other forms which incite human conflict.
+4. The parent or guardian shall take appropriate measures in order for the child to attend the compulsory education or other levels of education, according to the child’s desires, and to ensure their regular and unobstructed attendance.
+5. The Ministry responsible for education, as the responsible public authority, and the local education units shall take concrete measures in order to:
+LAW NO. 06/L-084 ON CHILD PROTECTION 5.1. encourage lifelong learning, develop the child’s respect for cultural identity, language and national values, respect for different cultures and environmental preservation;
+5.2. enable the child access to preschool education as well as compulsory free education for all children, even in cases where the children may have passed the age for compulsory education but have been unable to attend it;
+5.3. develop parental education programs, in cooperation with relevant institutions, including programs for preventing domestic violence;
+5.4. organize special lesson plans for a child who fails to reach the appropriate levels of the curriculum, in order to prevent the barriers to further education of the child;
+5.5. identify and address the cases of children at risk of dropping-out and undertake concrete actions according to national policies for dealing with cases at school and municipality level;
+5.6. organize special education learning plans for drop-out children, children who never attended school or returning from abroad, in order to integrate them into the national education system;
+5.7. monitor the child’s right to rest, as well as the right to participate in cultural and artistic activities;
+5.8. address the prevention of child involvement in serious and dangerous labour, addressing this issue with curricular, cross-curricular and extracurricular approaches;
+5.9. provide effective mechanisms for prevention, treatment within the school and reporting situations of violence and other negative phenomena to responsible authorities;
+5.10. foresee and enforce appropriate sanctions for educational staff in cases where it exercises, allows, encourages, tolerates or does not report violent actions in educational institutions, according to this law; 5.11.ensure child protection on the Internet, promoting the use of Information and Communications Technology in a useful and responsible manner;
+5.12. address the prevention of child trafficking by raising awareness, and treating children at risk of being trafficked with a proactive approach;
+5.13. include modules for protection against the risk of abuse and sexual exploitation in pre-university and higher education institutions curricula;
+5.14. relevant Ministry on Education, Science and Technology to guarantee attendance to primary and secondary education institutions for children of families who are in enmity.
+6. In cases when a child not attending compulsory education, due to non-registration in the civil status offices or other reasons, are identified, the appropriate child protection officer within the relevant Directorate in Municipality shall take immediate measures to register the child at school, according to the legislation in force.
+7. During the educational process, the child is treated with dignity by the teachers and the staff, and is informed about his rights and means of exercising them, according to this law.
+LAW NO. 06/L-084 ON CHILD PROTECTION

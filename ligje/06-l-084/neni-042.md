@@ -1,0 +1,15 @@
+# Neni 42
+Shëndeti 1. Fëmijës i garantohet e drejta për kujdes shëndetësor falas, përfitimi nga shërbimet për trajtimin e sëmundjes e për riaftësimin e shëndetit me standard të lartë. Kjo e drejtë nuk mund të kufizohet, pavarësisht nëse fëmija është i regjistruar ose jo në regjistrin e gjendjes civile, apo për çfarëdo arsye tjetër.
+2. Garantimi i kësaj të drejte bëhet nga ministria përgjegjëse për shëndetësinë, e cila merr masa:
+2.1. për të ulur vdekshmërinë foshnjore dhe fëmijërore;
+2.2. për t’i siguruar fëmijës kujdesin shëndetësor falas e cilësor, duke e vënë theksin në zhvillimin e kujdesit shëndetësor parësor;
+2.3. për të luftuar sëmundjen dhe kequshqyerjen, duke marrë masa për sigurinë e produkteve ushqimore, ujit të pastër dhe duke marrë parasysh rreziqet e ndotjes së mjedisit natyror;
+2.4. për t’u siguruar nënave kujdesin e duhur shëndetësor, para dhe pas lindjes;
+2.5. për të mundësuar, në bashkëpunim me ministrinë përgjegjëse për arsim, që të gjitha grupet shoqërore dhe në veçanti prindërit dhe fëmijët, të marrin informacion, të kenë mundësi edukimi e të përkrahen për shëndetin dhe të ushqyerit e fëmijës, përparësitë e ushqyerjes me gji, higjienën dhe përmirësimin e mjedisit, si dhe parandalimin e aksidenteve;
+2.6. për të zhvilluar kujdesin shëndetësor parandalues që siguron zhvillim optimal të fëmijës, këshillimin e prindërve dhe fëmijës, edukimin dhe shërbimet në fushën e shëndetit riprodhues për prindërit dhe fëmijët, në varësi të moshës dhe aftësisë së tyre për të kuptuar;
+2.7. për verifikimin periodik të trajtimit që i bëhet fëmijës së vendosur në institucione të kujdesit shëndetësor ose në mbrojtje të përkohshme apo të përhershme, me vendim të gjykatës;
+2.8. për ruajtjen e konfidencialitetit gjatë dhe pas ekzaminimit mjekësor të fëmijës, ndaj palës së tretë, me përjashtim të rasteve kur rrezikohet shëndeti ose jeta e fëmijës, sipas nenit 23 të këtij ligji;
+2.9. për ofrimin e shërbimit të kujdesit shëndetësor për fëmijët me aftësi të kufizuar, me qëllim riaftësimin, integrimin e barabartë në shoqëri;
+2.10. për identifikimin e hershëm të problemeve shëndetësore të fëmijëve përmes vizitave në shtëpi dhe referimin e tyre në sektorët e tjerë përkatës për trajtim ndër sektorial.
+3. Prindërit kanë detyrimin të kërkojnë kujdes mjekësor, me qëllim që fëmija të gëzojë standardin më të lartë shëndetësor, si dhe për të parandaluar situata që mund të jenë të rrezikshme për jetën, rritjen dhe zhvillimin e fëmijës.
+LIGJI NR. 06/L-084 PËR MBROJTJEN E FËMIJËS 4. Vizitat e rregullta në shtëpi për gruan shtatzënë dhe fëmijë deri në moshën 3 (tre) vjeç janë të detyrueshme. Ato kryhen sipas standardeve të këtyre vizitave dhe realizohen në kuadër të pakos bazike të shërbimeve të kujdesit parësor shëndetësor. Vizitat në shtëpi kanë për qëllim mbrojtjen e shëndetit të nënës dhe fëmijës, duke përfshirë këshillimin për mirërritjen e fëmijës, parandalimin dhe shmangien e braktisjes së fëmijës, abuzimin, shfrytëzimin dhe neglizhimin ose çdo lloj tjetër dhune ndaj fëmijës.

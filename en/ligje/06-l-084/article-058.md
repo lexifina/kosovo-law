@@ -1,0 +1,4 @@
+# Article 58
+Persons sentenced for sexual abuse or exploitation of child 1. Persons sentenced for sexual abuse, child exploitation, enabling prostitution and child pornography shall not be allowed to exercise their professions that include any contact with children, in accordance with the provisions of the Criminal Code of Kosovo.
+2. Kosovo Judicial Council by a sub-legal act defines the rules and procedures for maintaining the database of the DNAs of persons convicted for criminal offences against sexual integrity. The DNA database should include persons convicted for these criminal offences, regardless of whether their victims are children or adults.
+3. The relevant Ministry of Education and relevant Municipal Education Directorates should make sure that the persons sentenced of sexual abuse or child exploitation are not included in the educational system through employment.

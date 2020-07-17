@@ -1,0 +1,6 @@
+# Neni 43
+Mbrojtja e fëmijës nga substancat e dëmshme dhe të ndaluara 1. Fëmija duhet të mbrohet nga përdorimi i substancave narkotike, alkoolit, produkteve të duhanit, produkteve toksike, substancave psikotrope dhe substancave të tjera që janë të deklaruara të dëmshme nga autoritetet përkatëse.
+2. Çdo personi dhe operatori ekonomik i ndalohet t’i shesë dhe t’i shërbej fëmijës deri në tetëmbëdhjetë (18) vjeç, alkool, produkte të duhanit, produkte toksike, substanca psikotrope dhe substanca të tjera që janë të deklaruara të dëmshme nga autoritetet përkatëse, në të kundërtën do të dënohet sipas legjislacionit në fuqi.
+3. Përdorimi ose angazhimi i fëmijës në prodhimin, shpërndarjen apo trafikimin e substancave të tilla, është i ndaluar dhe sanksionohet me legjislacionin përkatës në fuqi.
+4. Masat e duhura mbrojtëse dhe parandaluese, përfshirë edhe avokimin e një mënyre të shëndetshme të jetesës dhe dekurajimin e çdo lloj abuzimi me substanca narkotike dhe psikotrope, rregullohen me akt nënligjor të miratuar nga Qeveria, me propozim nga ministritë përkatëse për shëndetësinë.
+5. Trajtimi i fëmijës që është i varur nga drogat dhe abuzimi me substanca të tjera narkotike duhet të ofrohet në një mjedis të mbyllur, vetëm si mjet i fundit dhe vetëm me pëlqimin e të përfaqësuesit ligjor apo përmes një urdhërese të gjykatës.

@@ -1,0 +1,5 @@
+# Article 25
+Legal protection measures 1. The Centre for Social Work and the Police assist and intervene in families, on referral basis or in cases when the family is unable or when there is a grounded suspicion that the family is unable to protect the child from the risk against his or her life, violence, negligence, maltreatment, abuse and exploitation.
+2. Child protection shall be realized through undertaking protective measures, implementing interventions to respect the rights of the child and provide services, as needed, which aim at the development and well-being of the child in his or her family environment or by placing him/ her in alternative care, when the child is temporarily or permanently deprived of the care of the parents or when, due to his best interest, he or she cannot be left under the care of the parents.
+3. Competent institutions support the parents or guardian in raising their child and should try to provide the necessary assistance to the family in need, even in the early phases when such a thing is necessary and to refer the child and family to the child protection services.
+LAW NO. 06/L-084 ON CHILD PROTECTION

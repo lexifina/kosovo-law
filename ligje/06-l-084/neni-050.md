@@ -1,0 +1,7 @@
+# Neni 50
+Mosha minimale e fëmijës për punësim 1. Mosha minimale për punësim përcaktohet me ligj duke marrë parasysh kohën e nevojshme që i nevojitet fëmijës për të arritur pjekurinë e duhur fizike dhe mendore dhe për të përfunduar arsimin bazë. Ndalohet angazhimi i fëmijës nën moshën minimale për punësim në ndonjë marrëdhënie pune, të paguar ose jo.
+2. Asnjë punëdhënës nuk mund të punësojë dhe lidhë kontratë pune me ndonjë fëmijë nën moshën pesëmbëdhjetë (15) vjeç.
+LIGJI NR. 06/L-084 PËR MBROJTJEN E FËMIJËS 3. Marrëdhënia e punës mund të themelohet me fëmijën nga pesëmbëdhjetë (15) vjeç deri në tetëmbëdhjetë (18) vjeç.
+4. Fëmija mund të punësohet vetëm në aktivitete ekonomike që nuk janë të dëmshme për zhvillimin dhe shëndetin e fëmijës, posaçërisht nuk i pengojnë që të vijojnë shkollimin dhe shfrytëzimin e kohës së lirë, si dhe nëse ajo punë nuk është e ndaluar me legjislacionin në fuqi. E lejuar është edhe puna e cila është pjesë e praktikës profesionale dhe nën mbikëqyrjen përkatëse, pasi të jenë evidentuar dhe eliminuar të gjitha rreziqet.
+5. Për pagesën e kontributeve dhe detyrimeve të tjera ligjore, punëdhënësi është i detyruar që fëmijën e punësuar ta lajmërojë në Administratën Tatimore të Kosovës, institucionet e tjera të cilat i menaxhojnë dhe administrojnë skemat e obligueshme pensionale dhe të tjera.
+6. Parandalimin dhe ndalimin e formave të rrezikshme të punës së fëmijëve në Kosovë, rregullohet me udhëzim administrativ të nxjerrë nga Qeveria, me propozim të ministrisë përkatëse për punë dhe mirëqenie sociale.

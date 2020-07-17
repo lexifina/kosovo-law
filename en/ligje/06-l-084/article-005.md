@@ -1,0 +1,13 @@
+# Article 5
+Best interest of the child 1. The best interest of the child shall prevail and have the highest consideration regarding all child-related actions and decisions that are taken by parents or guardians, institutions, child protection services, child protection professionals, courts, administrative authorities or legislative bodies.
+2. This law, and other legal acts that regulate the matters relating to child protection, as well as any other individual act based on them, is subject to the principle of the best interest of the child.
+LAW NO. 06/L-084 ON CHILD PROTECTION 3. The best interest of the child requires a comprehensive effort to ensure the child’s physical, psychological, moral and spiritual integrity and promotion of human dignity, by taking into account the individual characteristics and the child’s social condition.
+4. In order to ensure the best interest of the child, the following principles should be observed:
+4.1. the family is primarily responsible for caring for and protecting the children; institutions help families with this obligation and intervenes only when the family is unable or incapable or needs help to protect the child;
+4.2. sustainability should be a key goal, by choosing the intervention that least interferes with the child’s life to ensure the stability of the child’s personal relation with society, environment and guarantee the continuity of child education, training or employment;
+4.3. administrative and judicial decisions affecting the child must be taken and enforced promptly and without unreasonable delays;
+4.4. parents, guardians and the child shall take part in all stages of the procedure unless it is in contradiction with the child’s best interest;
+4.5. views of the child depending on age and maturity of the child to comprehend the situation;
+4.6. background of the child considering special situations of abuse, negligence, exploitation or other forms of violence against the child and the potential risk of occurrence of similar situations in the future;
+4.7. continuity of personal relations between the child and persons with whom they have kinship, social and/or spiritual relations, and all decisions and initiatives that are subject of this Law, should consider the individuality, age and maturity, mother tongue, sex, gender, identity, health condition and special abilities of the child in order to preserve ethnic, racial, religious and cultural identity of the child, in line with the circumstances.
+5. Interpretation of the child’s best interests should be in full compliance with the Convention on the Rights of the Child and no supposed interpretation of what is in the best interest of the child can justify the violation of any right recognized by the Convention.

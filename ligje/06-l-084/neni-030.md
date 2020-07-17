@@ -1,0 +1,8 @@
+# Neni 30
+Shtëpitë për mbrojtjen e fëmijës 1. Me këtë ligj themelohen shtëpitë për mbrojtjen e fëmijëve, nga Ministria përkatëse për Punë dhe Mirëqenie Sociale, në bazë të Ligjit përkatës për Vetëqeverisje Lokale pran Qendrave për Punë Sociale përkatëse ku funksionojnë gjykatat dhe prokuroritë themelore.
+2. Ministria përkatëse e Punës dhe Mirëqenies Sociale përcakton standardet dhe miraton themelimin e shtëpisë për mbrojtjen e fëmijëve.
+3. Shtëpitë për Mbrojtjen e Fëmijës ofrojnë shërbime emergjente për mbrojtjen e fëmijës, jo më gjatë se tri (3) ditë.
+4. Shtëpitë shërbejnë edhe si qendra për zhvillimin e procedurave për të gjitha rastet e dhunës, me theks të veçantë veprave penale kundër integritetit seksual, kur fëmija është viktimë apo dëshmitar. Ofrimin e shërbimeve këshilluese, veçanërisht terapive të ndryshme, si dhe shërben si vend strehim i përkohshëm i fëmijëve të cilët nuk kanë mundësi të kthehen në shtëpi, nuk mund të strehohen në strehim familjar, apo atyre që janë në shtëpi por kërkohet largimi i tyre për shkak të rrezikut të lartë që i kanoset jetës apo shëndetit të tyre.
+5. Shtëpitë në thelb të punës kanë zbatimin e konceptit të qasjes miqësore, reagimit urgjent, veprimit ndërdisiplinor dhe koordinimit ndërmjet institucioneve dhe akterëve të përfshirë në ofrimin e shërbimeve dhe zgjidhjen e rastit në afat sa më të shkurtë kohor.
+6. Shtëpitë për Mbrojtjen e Fëmijës financohen nga Buxheti i Republikës së Kosovës dhe donatorët.
+7. Organizimi dhe fushëveprimi i shtëpive për mbrojtjen e fëmijës rregullohet me akt nënligjor të propozuar nga ministria përkatëse për Punë dhe Mirëqenie Sociale dhe të miratuar nga Qeveria.

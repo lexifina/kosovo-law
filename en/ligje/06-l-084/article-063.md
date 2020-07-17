@@ -1,0 +1,10 @@
+## CHAPTER IX
+## TRANSITIONAL AND FINAL PROVISIONS
+# Article 63
+Education on child protection 1. In the framework of their responsibilities and obligations, the respective institutions are obliged to implement educational programs to sensitize the protection and care of the child. In schools
+LAW NO. 06/L-084 ON CHILD PROTECTION and respective education institutions, learning tools and school curricula used as applicable in all levels should be orientated in protection and care for the child.
+2. Compilation, adoption and implementation of educational program, drafting of materials, textbooks and revision of the existing materials and texts must be done with the inclusion of the child protection perspective and the elimination of negative, gender stereotypes, prejudices, and other practices that are contrary to the principles established in this Law and the development of guidelines for child protection from harmful information and materials.
+3. Institutions, at central and local level, shall provide human and financial resources for implementation of policies necessary in preparing, implementing and supervising the development and education of a child in early childhood in Kosovo.
+4. Responsible institutions such as relevant unit for good governance, Kosovo Institute for Public Administration, Academy of Justice and Academy for Public Safety, should prepare specific programs for professional capacity building in the field of child protection with the purpose of implementing this Law.
+5. The relevant Ministry for education within three (3) years after the publication of this Law is obliged to harmonize all textbooks and curricula with the provisions of this Law.
+6. Government, upon proposal of the relevant Ministry for Education Science and Technology, shall issue Administrative Instruction regarding the realization of the rights defined by this Law, and provides programs that promote education, raise awareness regarding the degrading consequences of bodily punishment and parental programs that promote non violent methods of discipline in the family and school, as well as child protection from violence and abuse.

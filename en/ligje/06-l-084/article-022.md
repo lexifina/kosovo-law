@@ -1,0 +1,6 @@
+# Article 22
+Formal institutional system and phone line for children 1. The Government shall be responsible for establishing a functional institutional formal system to identify and coordinate the protection and care in any case where a child is suspected or identified as abused, neglected, mistreated or trafficked.
+2. Child Protection System includes legal framework, structures, measures and actions which coordinate interventions to prevent, identify in time, evaluate and intervene through a multi- disciplinary action plan and aimed at protecting the child and his/her best interest.
+3. Formal system for child protection on responding to cases of children at risk is directed and implemented by specialized workers of services for child protection.
+4. Relevant Unit for Good Governance establishes the free-of-charge line for Child Protection. The free line will serve children who need to ask and receive advice, and to report cases of violence, abuse, negligence and trafficking. Children should be provided with support, counselling and services pursuant to their needs and in accordance with their best interest.
+5. Relevant Unit for Good Governance, in order to fulfil the goal of the free-of-charge line shall cooperate closely with public institutions, in particular with the relevant Ministry of Labour and Social Welfare.

@@ -1,0 +1,10 @@
+# Article 14
+Role of the Municipality 1. Each municipality is responsible for providing preventive, protection and reintegration measures and services for child protection within its territory according to standards and policies determined by the Government or the relevant Ministries.
+2. Municipalities shall take steps to identify the nature and extent of the need for child protection within their territory.
+3. Municipalities shall prepare annual plans and financing for the development and maintenance of child protection services.
+4. Municipalities are obliged through respective directorates, to determine at least one child protection officer, who shall be obliged to cooperate, exchange information and data with the relevant Unit for Good Governance.
+5. During the preparation of their annual plans, municipalities are obliged to consult widely with the relevant unit for good governance, relevant ministries, civil society organisations and other relevant groups and professional groups in their territory on the development, planning and delivery of child protection services.
+6. Each municipality should have at least three (3) foster families for children without parental care, who are evaluated, trained and approved according to the standards set forth by the relevant Ministry of Social Welfare.
+7. In order to realize common objectives and interests related to child protection competences, two or more municipalities may enter into cooperation relationships in compliance with applicable legislation.
+8. Develops programs and projects to ensure the rights and welfare of the child, prevent and reduce factors endangering the life and moral, physical, psychological and emotional integrity of the child;
+9. For the purpose of community awareness and achievement of concrete and certain results for children who do not have access to existing services, municipalities should organize information, education meeting and training for child protection, by coordinating and harmonizing actions through integrated services of the education sectors, social services, health and other governmental, non-governmental and community organizations.

@@ -1,0 +1,1 @@
+LAW NO. 06/L-084 ON CHILD PROTECTION LAW NO. 06/L-084 ON CHILD PROTECTION The Assembly of the Republic of Kosovo, Based on Article 65 (1) of the Constitution of the Republic of Kosovo, Approves: LAW ON CHILD PROTECTION

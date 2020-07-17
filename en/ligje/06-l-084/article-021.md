@@ -1,0 +1,3 @@
+# Article 21
+The establishment of Multidisciplinary Roundtables for Support in Case Management 1. Multidisciplinary roundtables for assistance in case management shall be established in the municipalities of the Republic of Kosovo, at the professional level.
+2. Working procedures in multidisciplinary roundtables for assistance in case management, led by the case manager, in coordination and interaction with the structures and services responsible for child protection, shall operate based on detailed procedures that will be determined by a sub-legal act, proposed by the relevant Ministry of Labour and Social Welfare and approved by the Government.

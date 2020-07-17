@@ -1,0 +1,2 @@
+# Article 64
+Public awareness At the latest one (1) year following the publication of this Law, the Government is obliged to launch a campaign to promote and develop a program to raise the public awareness on the present Law. The campaign is prepared by the relevant Unit for Good Governance in cooperation with relevant institutions that under this law have the obligations for protection of a child.

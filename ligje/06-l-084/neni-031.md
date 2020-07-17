@@ -1,0 +1,6 @@
+# Neni 31
+Monitorimi i masave të mbrojtjes 1. Menaxheri i rastit ne QPS dhe kujdestari i fëmijës janë përgjegjës për monitorimin e masave të mbrojtjes për fëmijën dhe të paktën një (1) herë në muaj duhet të bëhet rishikimi lidhur me mbarëvajtjen, progresin e masës dhe/ose për nevojën e ndryshimit apo heqjen e saj, në konsultim me profesionistët e tjerë të organit të kujdestarisë.
+2. Menaxheri i rastit për mbrojtjen e fëmijës duhet të merr pëlqimin e Organit të Kujdestarisë për heqjen e masës së mbrojtjes dhe kthimin e fëmijës në familje, duke e argumentuar edhe me dokumentacion përkatës, që vërteton se prindërit janë në gjendje të kujdesen për fëmijën dhe kthimi i fëmijës në familje është në interesin më të mirë të tij.
+3. Nëse masa mbrojtëse është caktuar nga gjykata, menaxheri i rastit paraqet kërkesën në gjykatë për heqjen e masës mbrojtëse.
+4. Në rast se, në kuadër të Planit Individual të Mbrojtjes, prindërit kanë qenë të detyruar të ndjekin kurse prindërimi apo të kryejnë ndonjë veprim tjetër, zyrtari përkatës për mbrojtjen e fëmijës verifikon përfundimin me sukses të këtyre detyrimeve për prindërit dhe përfshinë informacionin përkatës në propozimin për heqjen e masës mbrojtëse.
+LIGJI NR. 06/L-084 PËR MBROJTJEN E FËMIJËS

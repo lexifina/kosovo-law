@@ -1,0 +1,4 @@
+# Article 8
+Non-discrimination 1. All children are entitled to the same rights recognized by the applicable legislation and the Convention and shall be guaranteed such rights without any distinction, regardless of race, colour, gender, language, religion, political or other affiliations, national, ethnic or social origin, property, disability, family background or any other condition of the child or his parents or his/ her legal representatives.
+2. All institutions, service providers, child protection professionals must take all appropriate measures, in order for the child to be protected from all forms of discrimination.
+3. Parents or guardian, family members, trusted persons, professionals for child protection who consider that the principle of equal treatment has not been applied to the child, may initiate the procedure and submit facts before a competent authority in accordance with the provisions of the respective Law on protection from discrimination.

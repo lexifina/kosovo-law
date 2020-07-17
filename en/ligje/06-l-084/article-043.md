@@ -1,0 +1,6 @@
+# Article 43
+Protection of children from harmful and prohibited substances 1. Children must be protected from use of narcotic substances, alcohol, tobacco products, toxic products, psychotropic substances and other substances that are declared harmful by the relevant authorities.
+2. Every person and economic operator shall be prohibited to sell and serve the children, until the age of eighteen (18), alcohol, tobacco products, products containing toxic substances and other substances that are declared harmful by the relevant authorities, otherwise will be sentenced under the legislation in force.
+3. Use or engagement of a child in production, distribution or trafficking of such substances is prohibited and sanctioned by the relevant legislation in force.
+4. Adequate protective and preventive measures, including advocacy of a way of healthy living and discouraging of any kind of abuse with drugs and psychotropic substances shall be regulated by a sub-legal act approved by the Government with a proposal by the relevant ministry of health.
+5. Treatment of children who are addicted to drugs and abuse of other narcotic substances should be offered a closed environment only as a last resort and only with the consent of the legal representative or a court order.

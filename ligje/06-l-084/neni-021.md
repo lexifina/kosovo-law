@@ -1,0 +1,3 @@
+# Neni 21
+Themelimi i tryezave multidisiplinare për ndihmë në menaxhimin e rastit 1. Tryezat multidisiplinare për ndihmë në menaxhimin e rasteve themelohen në komunat e Republikës së Kosovës, në nivel profesionistësh.
+2. Procedurat e punës, në tryezat multidisiplinare për ndihmë në menaxhimin e rasteve, të udhëhequra nga menaxheri i rastit, në koordinim dhe bashkëveprim me strukturat dhe shërbimet përgjegjëse për mbrojtjen e fëmijës, veprojnë mbi bazën e procedurave të detajuara që do të përcaktohen me akt nënligjor, që propozohet nga Ministria përkatëse për Punë dhe Mirëqenie Sociale dhe aprovohet nga Qeveria.

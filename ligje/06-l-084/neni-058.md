@@ -1,0 +1,4 @@
+# Neni 58
+Personat e dënuar për abuzim seksual apo shfrytëzim të fëmijës 1. Personat e dënuar për abuzim seksual, shfrytëzim të fëmijës, mundësim në prostitucion dhe pornografi të fëmijës ndalohet të ushtrojnë profesione në përputhje me dispozitat e Kodit Penal të Kosovës, që përfshijnë çdo formë kontakti me fëmijët.
+2. Këshilli Gjyqësor i Kosovës me akt nënligjor përcakton rregullat dhe procedurat për mbajtjen e bazës së të dhënave me ADN-të e personave të dënuar për veprat penale kundër integritetit seksual. Në këtë bazë të të dhënave me ADN-të duhet të përfshihen edhe personat e dënuar për këto vepra penale, pa marrë parasysh nëse viktimat e tyre janë fëmijë ose të rritur.
+3. Ministria përkatëse për arsim dhe drejtoritë përkatëse për arsim të komunave duhet të sigurojnë që të mos përfshihen përmes punësimit në sistemin arsimor, personat e dënuar për abuzim seksual apo shfrytëzim të fëmijës.

@@ -1,0 +1,5 @@
+# Neni 48
+Mbrojtja nga të gjitha format e dhunës 1. Fëmija mbrohet nga të gjitha format e dhunës fizike dhe mendore, abuzimi, neglizhimi, keqtrajtimi, shfrytëzimi, trafikimi, pengmarrja, pornografia, abuzimin seksual, si dhe forma të tjera të dhunës, pavarësisht vendit ku kryhet, sipas legjislacionit në fuqi.
+2. Prindërit e fëmijës ose kujdestari, në bashkëpunim me institucionet që ofrojnë shërbime për mbrojtjen e fëmijës marrin të gjitha masat e nevojshme për të bërë të mundur rehabilitimin fizik, psikologjik e emocional, si dhe integrimin social të fëmijës viktimë e dhunës, neglizhimit, keqtrajtimit, shfrytëzimit ose abuzimit, sipas legjislacionit në fuqi.
+3. Subjektet e përmendura në paragrafin 2. të këtij neni, sigurojnë të gjitha kushtet e nevojshme, me qëllim integrimin e fëmijës në një jetë normale dhe duke respektuar dinjitetin dhe pikëpamjet e fëmijës, në përputhje me moshën e tij.
+4. Ndalohet ndëshkimi trupor ose i ndonjë forme tjetër, që sjell pasoja në zhvillimin fizik dhe mendor të fëmijës.

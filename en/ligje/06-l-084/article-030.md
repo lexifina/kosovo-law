@@ -1,0 +1,8 @@
+# Article 30
+Child Protection Houses 1. This law establishes homes for the Protection of Children from the respective Ministry of Labor and Social Welfare, under the relevant Law on Local Self-Government, under the Centers for Social Work where relevant basic and prosecution courts operate.
+2. The Ministry of Labour and Social Welfare sets standards and approves the establishment of the Child Protection Houses.
+LAW NO. 06/L-084 ON CHILD PROTECTION 3. Child Protection Houses shall provide emergency child protection services, no longer than three (3) days.
+4. The houses shall also serve as centres for conducting the procedures in all cases of violence, with special emphasis on offenses against sexual integrity, when the child is a victim or a witness. Provide counselling services, especially for different therapies, and shall also serve as temporary shelter for children who are unable to return home, children who cannot be accommodated in family shelters or children who are at home but are required to leave from there because their lives or health are highly endangered.
+5. The priority of these centres shall be the implementation of the concept of friendly approach, urgent response, interdisciplinary action and coordination between institutions and stakeholders involved in service delivery and case resolution in the shortest time possible.
+6. Child Protection Houses shall be funded by the Budget of the Republic of Kosovo and by donors.
+7. The organization and scope of the Child Protection Houses shall be regulated by a sub-legal act proposed by the respective Ministry of Labour and Social Welfare and approved by the Government.

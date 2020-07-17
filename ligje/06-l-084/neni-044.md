@@ -1,0 +1,5 @@
+# Neni 44
+Ndalimi i pjesëmarrjes në klubet e natës dhe lojërave të fatit 1. Ndalohet hyrja e fëmijës në klubet e natës, lokalet e lojërave të fatit, qasja në lojërat e fatit online si dhe në qendrat argëtuese për të rritur dhe të ngjashme. Fëmijët nuk lejohen të shesin dhe të blejnë produkte të rrezikshme për shëndetin dhe sigurinë e tyre.
+2. Organi përkatës komunal duhet t’ia imponojë kërkesën operatorit të ndonjë ngjarjeje publike për të kufizuar qasjen për fëmijën në përgjithësi, ose për fëmijën nën moshën e caktuar, nëse ngjarja ka mundësi të ndikojë negativisht në mirëqenien fizike ose psikologjike të fëmijëve.
+3. Nëse fëmija është i pranishëm në një vend, siç është përshkruar në paragrafin 1. të këtij neni, ofruesi i shërbimit për mbrojtjen e fëmijës duhet t’i kërkojë fëmijës që të largohet nga ai vend dhe ta trajtojë në përputhje me legjislacionin në fuqi.
+4. Masat e duhura parandaluese dhe mbrojtëse për ndalimin e fëmijës, sipas paragrafit 1. të këtij neni, rregullohen me akt nënligjor të miratuar nga Qeveria, me propozim nga Ministria përkatëse për Punë të Brendshme.

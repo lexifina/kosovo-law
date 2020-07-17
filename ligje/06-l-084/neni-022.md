@@ -1,0 +1,7 @@
+# Neni 22
+Sistemi institucional formal dhe linja e telefonit për fëmijë 1. Qeveria ka përgjegjësinë e ndërtimit të një sistemi formal, funksional, institucional për të identifikuar dhe koordinuar mbrojtjen dhe kujdesin për çdo rast fëmije të dyshuar ose të identifikuar si të abuzuar, neglizhuar, të lënë pas dore, keqtrajtuar apo trafikuar.
+2. Sistemi i Mbrojtjes së Fëmijës përfshin kuadrin ligjor, strukturat, masat dhe veprimet të cilat koordinojnë ndërhyrjet për të parandaluar, identifikuar në kohë, vlerësuar dhe ndërhyrë përmes një plani veprimi multidisiplinar dhe që synon mbrojtjen e fëmijës, si dhe mbrojtjen e interesit më të mirë të fëmijës.
+3. Sistemi formal i mbrojtjes së fëmijës për përgjigje për rastet e fëmijëve në rrezik, drejtohet dhe zbatohet nga punonjës të specializuar të shërbimeve të mbrojtjes së fëmijës.
+4. Njësia përkatëse për Qeverisje të Mirë themelon linjën telefonike falas për Mbrojtjen e Fëmijës. Linja telefonike falas shërben për ofrimin e ndihmës së fëmijëve që kanë nevojë të pyesin dhe këshillohen për të drejtat e tyre, si dhe për të raportuar rastet e dhunës, abuzimit, neglizhencës dhe trafikimit. Fëmijës duhet t’i ofrohet mbështetje, këshillim dhe shërbim sipas nevojave të shprehura në përputhje me interesin më të mirë të tyre.
+5. Njësia përkatëse për Qeverisje të Mirë për përmbushjen e qëllimit të Linjës telefonike falas
+LIGJI NR. 06/L-084 PËR MBROJTJEN E FËMIJËS bashkëpunon ngushtë me institucionet publike, veçanërisht me Ministrinë përkatëse për Punë dhe Mirëqenie Sociale.

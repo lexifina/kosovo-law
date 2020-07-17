@@ -1,0 +1,5 @@
+## KAPITULLI IV
+## MASAT PËR MBROJTJEN E FËMIJËS
+# Neni 24
+Parandalimi 1. Për të siguruar të drejtat dhe mirëqenien e fëmijës duhet të parandalohen rreziqet që rrezikojnë mirëqenien dhe zhvillimin e fëmijës. Parandalimi përfshin perceptimin e situatave dhe ngjarjeve që kërcënojnë fëmijën sa më shpejt që të jetë e mundur dhe reagimin e tyre, duke përfshirë identifikimin e problemeve të zhvillimit dhe sjelljes së fëmijës, problemet që ndodhin në mjedisin familjar, identifikimin e abuzimit dhe rritjen e masave mbrojtëse që promovojnë mirëqenien dhe zhvillimin e fëmijës.
+2. Institucionet publike, private dhe organizatat jo qeveritare, sipas mandatit të tyre, duhet të zhvillojnë masa për të parandaluar nevojën e fëmijës për ndihmë dhe për të zvogëluar problemet ekzistuese. Masat duhet të bazohen në nevojat e fëmijës, të mbështesin marrëdhëniet ndërmjet fëmijës dhe personave që rrisin fëmijën, të mbështesin sjelljen sociale. Masat e tilla duhet të jenë të arritshme, me kohë dhe të kenë një efekt pozitiv afatgjatë.

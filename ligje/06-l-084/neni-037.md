@@ -1,0 +1,23 @@
+# Neni 37
+Edukimi dhe arsimimi 1. Ndalohet privimi i fëmijës nga e drejta për edukim dhe arsimim.
+LIGJI NR. 06/L-084 PËR MBROJTJEN E FËMIJËS 2. Ministria përkatëse për arsim duhet të sigurojë qasje gjithëpërfshirëse dhe frekuentim të arsimimit falas e cilësor, në bazë të mundësive të barabarta dhe pa diskriminim, në përputhje me moshën dhe aftësinë e tij për të kuptuar në gjitha nivelet e arsimit para universitar. Kjo e drejtë i garantohet edhe fëmijës që dëshiron të vazhdojë të arsimohet pas përfundimit të arsimit të detyrueshëm.
+3. Në të gjitha nivelet e arsimit para universitar, fëmija mbrohet nga të gjitha format e dhunës fizike dhe mendore, abuzimi, keqpërdorimi, shfrytëzimi, ndëshkimi trupor, neglizhenca, apo ndonjë formë tjetër që vë në rrezik jetën, sigurinë, shëndetin, edukimin, arsimimin dhe zhvillimin e fëmijës. Fëmija mbrohet nga dhuna e shfaqur qoftë nga personeli arsimor, bashkëmoshatarët dhe nga secili person tjetër, brenda sistemit edukativo arsimor. Në procesin edukativ dhe arsimor, është e ndaluar të promovohet gjuha e urrejtjes, dhuna, jo toleranca, diskriminimi dhe format e tjera që nxisin konflikte ndër njerëzore.
+4. Prindi ose kujdestari merr masa të përshtatshme që fëmija të ndjekë arsimin e detyrueshëm ose nivele të tjera të arsimimit, sipas dëshirës së fëmijës, si dhe të garantojë frekuentimin e rregullt të tij dhe pa pengesa.
+5. Ministria përkatëse për arsim, si autoritet publik përgjegjës, si dhe njësitë arsimore nga pushteti lokal marrin masa konkrete, me qëllim që:
+5.1. të inkurajojë mësim-nxënien gjatë gjithë jetës, të zhvillojë respektin e fëmijës për identitetin kulturor, për gjuhën dhe vlerat kombëtare, respektin për kulturat e ndryshme si dhe respektin për ruajtjen e mjedisit;
+5.2. të mundësojnë qasjen e fëmijës në arsimin parashkollor, si dhe arsimin e detyrueshëm falas për të gjithë fëmijët, edhe në rastet kur fëmijët mund të kenë kaluar moshën për arsimin e detyrueshëm, por që kanë qenë në pamundësi për ta ndjekur atë;
+5.3. në bashkëpunim me institucionet relevante të zhvillojnë programe edukimi për prindër, përfshirë programe për parandalimin e dhunës në familje;
+5.4. të organizojnë plane mësimore të veçanta për fëmijën që nuk arrijnë nivelet e duhura që synon programi mësimor, me qëllim të parandalimit të barrierave për shkollimin e mëtejmë të fëmijës;
+5.5. të identifikojnë dhe trajtojnë rastet e fëmijëve në rrezik për ta braktisur shkollën si dhe të ndërmarrin veprime konkrete sipas politikave nacionale për trajtimin e rasteve në nivel të shkollës dhe komunës;
+5.6. të organizojnë plane mësimore të veçanta për fëmijë që braktisin shkollën ose që nuk e kanë frekuentuar asnjëherë shkollën apo për fëmijët që kthehen nga qëndrimi jashtë vendit, me qëllim integrimin e tyre në sistemin kombëtar të edukimit;
+5.7. të mbikëqyrin të drejtën e fëmijës për t’u çlodhur, si dhe të drejtën për të marrë pjesë në aktivitete kulturore e artistike;
+5.8. të adresojnë parandalimin e përfshirjes të fëmijëve në punë të rënda dhe të rrezikshme, duke e trajtuar këtë tematikë me qasje kurrikulare, ndërkurrikulare dhe ekstrakurrikulare;
+5.9. sigurimi i mekanizmave efikasë për parandalim, trajtim brenda shkollës dhe raportim tek autoritetet përgjegjëse të rasteve të dhunës dhe dukurive të tjera negative;
+5.10. të zbatojnë sanksione përkatëse ligjore për personelin e institucioneve edukativo-
+LIGJI NR. 06/L-084 PËR MBROJTJEN E FËMIJËS arsimore, në rast kur ushtron, lejon, nxit, toleron ose nuk raporton veprime të dhunshme në institucionet edukativo-arsimore, sipas këtij ligji;
+5.11. të sigurojnë mbrojtjen e fëmijës në internet, duke promovuar përdorimin e teknologjisë informative të komunikimit, në mënyrë të dobishme dhe përgjegjshme;
+5.12. me anë të vetëdijesimit të adresohet parandalimi i trafikimit të fëmijëve, me qasje proaktive të trajtohet fëmija në rrezik për tu trafikuar;
+5.13. në plan-programet mësimore të përfshijë module për mbrojte nga rreziku i abuzimit dhe shfrytëzimit seksual në institucionet e arsimit para universitar dhe arsimit të lartë;
+5.14. ministria përkatëse për arsim shkencë dhe teknologji të garantojë vijueshmërinë në institucionet e arsimit fillor dhe të mesëm për fëmijët e familjeve që gjenden në hasmëri.
+6. Në rastet kur identifikohen fëmijë që nuk vijojnë arsimin e detyrueshëm, për shkak të mos regjistrimit në zyrat e gjendjes civile ose arsye tё tjera, zyrtari përkatës për mbrojtjen e fëmijës në kuadër të drejtorisë përkatëse në komunë ndërmerr masa të menjëhershme për regjistrimin e fëmijës në shkollë, sipas legjislacionit në fuqi.
+7. Gjatë procesit mësimor e edukativ fëmija trajtohet me dinjitet nga mësuesit dhe personeli, si dhe informohet për të drejtat e tij dhe mjetet e ushtrimit të tyre, sipas këtij ligji.

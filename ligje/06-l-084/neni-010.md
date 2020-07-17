@@ -1,0 +1,6 @@
+# Neni 10
+Roli i Institucionit të Avokatit të Popullit për mbrojtën e fëmijës 1. Avokati i Popullit është institucion i pavarur i cili ndër të tjera i mbron të drejtat e fëmijës, të parapara me Kushtetutë, ligje dhe akte të tjera si dhe me instrumente ndërkombëtare të të drejtave të njeriut, veçanërisht me Konventën për të Drejtat e Fëmijës.
+2. Një zëvendës i Avokatit të Popullit, në kuadër të kompetencave të deleguara nga Avokati i Popullit, duhet të jetë përgjegjës edhe për mbrojtjen e të drejtave të fëmijës.
+3. Çdo fëmijë, person apo grup i personave mund t’i parashtrojë ankesë Avokatit të Popullit lidhur me mbrojtjen e të drejtave të fëmijës sipas procedurave të parapara me legjislacionin në fuqi. Avokati i Popullit nxjerr Rregullore për mënyrën e ankesës së fëmijës, siç përcaktohet në këtë ligj.
+4. Shoqatat, organizatat apo subjektet tjera juridike mund të iniciojnë apo përkrahin ankesat në emër të parashtruesit, me marrjen e pëlqimit të prindit apo kujdestarit të tij, si dhe mendimin e fëmijës kur ai është në gjendje që të jap atë, për zhvillimin e procedurave tek Avokati i Popullit.
+LIGJI NR. 06/L-084 PËR MBROJTJEN E FËMIJËS 5. Kur Avokati i Popullit fillon procedurën me iniciativë të vetë lidhur me shkeljen e të drejtave dhe lirive të një numri më të madh të fëmijëve, nuk është i nevojshëm pëlqimi nga paragrafi 4. i këtij neni.

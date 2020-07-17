@@ -1,0 +1,5 @@
+## CHAPTER IV
+## CHILD PROTECTION MEASURES
+# Article 24
+Prevention 1. The risks that endanger the well-being and development of the child must be prevented in order to ensure the rights and well-being of the child. Prevention shall include the perception of child-threatening situations and events at the earliest time possible as well as their response, including the identification of child development and behavioural problems, problems occurring in the family environment, the identification of abuse and the increase of protective measures that promote the well-being and development of the child.
+2. Public and private institutions and non-governmental organizations, according to their mandate, should develop measures to prevent the child’s need for assistance and to reduce existing problems. Measures should be based on the needs of the child, support the relationship between the child and the persons raising the child, and support social behaviour. Such measures should be achievable, timely, and have a positive long-term effect.

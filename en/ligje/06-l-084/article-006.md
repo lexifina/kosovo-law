@@ -1,0 +1,2 @@
+# Article 6
+Gradual development of skills The principle of gradual development of skills should be taken into account in accordance with the development of child skills, the proper orientation and direction for the exercise of the rights acknowledged by the legislation in force and the Convention, and provide due importance regarding all child-related decisions and actions that are taken by parents or guardians, other trusted persons, institutions, child protection services, child protection professionals, courts, administrative authorities or legislative bodies.

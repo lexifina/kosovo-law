@@ -1,0 +1,5 @@
+# Article 48
+Protection from all forms of violence 1. A child shall be protected against all forms of physical and mental violence, abuse, negligence, mistreatment, exploitation, trafficking, kidnapping, pornography, sexual abuse, and other forms of violence, regardless of where it is performed, according to the applicable legislation.
+2. The child’s parents or guardian, in cooperation with institutions that provide child protection services, shall take all necessary measures to enable physical, psychological and emotional rehabilitation as well as the social integration of the child victim of violence, negligence, mistreatment, exploitation or abuse, according to the legislation in force.
+3. The subjects mentioned in paragraph 2. of this Article shall provide all necessary conditions for the purpose of integrating the child into a normal life and respecting the dignity and views of the child in accordance with his/her age.
+4. Corporal punishment or some other form of punishment, which has implications on the child’s physical and mental development, is prohibited.

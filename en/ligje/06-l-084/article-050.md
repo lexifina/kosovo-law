@@ -1,0 +1,7 @@
+# Article 50
+The minimum age for the child’s employment 1. The minimum age for employment is determined by law, taking into account the time required for the child to achieve the appropriate physical and mental maturity and to complete basic education. It is forbidden to engage a child under the minimum age for employment in any paid or non-paid employment relationship.
+2. No employer can hire and enter into an employment contract with any child under the age of fifteen (15).
+3. The employment relationship can be established with a child from fifteen (15) to eighteen (18).
+4. The child can only be employed in economic activities that are not harmful to the development and health of the child, especially when they do not prevent them from attending school and use of leisure time, and if such labor is not prohibited by the legislation in force. The labor that is part of the professional practice and under the respective supervision, after all risks have been identified and eliminated, is also allowed.
+5. In regards to the payment of contributions and other legal obligations, the employer shall be obliged to register the employed child in the Tax Administration of Kosovo, and other institutions that manage and administer mandatory pension schemes and others.
+6. Preventing and Prohibiting Dangerous Forms of Child Labor in Kosovo is regulated by an administrative instruction issued by the Government upon proposal by the relevant Ministry of Labor and Social Welfare.

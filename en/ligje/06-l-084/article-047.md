@@ -1,0 +1,3 @@
+# Article 47
+Prohibition of Abduction, Sale and Trafficking in Children 1. Abduction, sale and trafficking of the child for any purpose or in any form is prohibited and is a criminal offence. The punishments provided must be strict and proportionate to those foreseen for comparable serious offences.
+2. The child is protected from abduction, trafficking, selling and any form of sexual exploitation and abuse, including illegal sexual activity, exploitation of the child in prostitution or other illegal sexual practices, exposure, appearance or involvement in pornographic material or sexual abuse of children, according to the provisions of the Criminal Code and other applicable laws.

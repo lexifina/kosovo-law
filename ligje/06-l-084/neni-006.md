@@ -1,0 +1,3 @@
+# Neni 6
+Zhvillimi gradual i aftësive Parimi i zhvillimit gradual të aftësive, duhet të merret parasysh në përputhje me zhvillimin e aftësive të fëmijës, drejtimin dhe udhëheqjen e duhur për ushtrimin e të drejtave që njihen nga legjislacioni në fuqi dhe Konventa dhe t’iu jepet rëndësia e duhur në të gjitha veprimet dhe vendimet, që kanë të bëjnë me fëmijën, të marra nga prindërit apo kujdestari, personat e tjerë të besueshëm, institucionet, shërbimet për mbrojtjen e fëmijës, profesionistët për mbrojtjen e fëmijës, gjykatat, autoritetet administrative apo organet legjislative.
+LIGJI NR. 06/L-084 PËR MBROJTJEN E FËMIJËS

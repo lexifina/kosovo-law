@@ -1,0 +1,11 @@
+## KAPITULLI VIII
+## DISPOZITAT NDËSHKUESE
+# Neni 62
+Rastet e shkeljeve me elemente kundërvajtjeje 1. Për rastet e shkeljeve të këtij ligji që përbëjnë vepra kundërvajtje shqiptohen gjobat si në vijim:
+1.1. gjobë në shumë prej 30 (tridhjetë) deri në 600 (gjashtëqind) euro, i shqiptohet për kundërvajtje personit fizik, që kryen, fton ose nxit për shkeljet e përkufizuara në nenin 44 të këtij ligji. Këshilli i Pavarur i Mediave shqipton gjobën në përputhje me ligjin përkatës në fuqi për Kundërvajtje;
+1.2. gjobë në shumë prej tridhjetë (30) deri në gjashtëqind (600) euro, i shqiptohet për kundërvajtje personit fizik për shkeljen e dispozitave sipas nenit 36 dhe 47 të këtij Ligji. Gjobat shqiptohen nga Inspektoratet përkatëse pranë ministrive mandatorë për të ofruar mbrojtjen e fëmijëve dhe inspektoratet përkatëse pranë Komunës;
+1.3. gjobë në shumë prej 500 (pesëqind) deri në 20,000 (njëzet mijë) euro i shqiptohet operatori ekonomik, i cili shkel nenin 42 të këtij Ligji. Inspektorati përkatës i punës në kuadër të Ministrisë përkatëse të Punës dhe Mirëqenies Sociale dhe inspektorati përkatës pranë komunës shqipton gjobën në përputhje me legjislacionin në fuqi;
+1.4. gjobë në shumë prej pesëqind (500) euro deri në njëzet mijë (20,000) euro ju shqiptohet personave juridikë, personave përgjegjës ose organit me autorizime publike, për shkeljet e përcaktuara në nenet 50, 51, dhe 52 të këtij ligji, përfshirë edhe veprimet sanksionuese me rastin e shkeljeve apo mosveprimit. Organi kompetent në kuadër Ministrisë përkatëse të Punës dhe Mirëqenies Sociale dhe organi kompetent në kuadër të Ministrisë përkatëse të Punëve të Brendshme shqiptojnë gjobën në përputhje me legjislacionin në fuqi;
+1.5. Gjobë në shumë prej njëqind (100) euro deri në dy mijë (2,000) euro i shqiptohet personit fizik, për shkeljet e përcaktuara në nenet 50, 51, dhe 52 të këtij ligji, përfshirë edhe veprimet sanksionuese me rastin e shkeljeve apo mosveprimit. Organi kompetent në kuadër të ministrisë përkatëse të punës dhe mirëqenies sociale dhe organi kompetent në kuadër të Ministrisë përkatëse të Punëve të Brendshme shqiptojnë gjobën në përputhje me legjislacionin në fuqi.
+2. Mjetet e mbledhura nga gjobat derdhen në fondin për Kompensimin e Viktimave, sipas Ligjit përkatës për kompensimin e viktimave të krimit
+LIGJI NR. 06/L-084 PËR MBROJTJEN E FËMIJËS

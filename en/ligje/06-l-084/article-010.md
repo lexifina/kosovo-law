@@ -1,0 +1,6 @@
+# Article 10
+Role of Ombudsperson Institution in child protection 1. Ombudsperson is an independent institution which among other things protects the rights of the child, foreseen by the Constitution, laws and other acts as well as by international instruments of the human rights, in particular with the Convention on the Rights of the Child.
+2. A deputy Ombudsperson within the competencies delegated by the Ombudsperson shall also be responsible for protecting the rights of the child.
+3. Every child, person or group of persons may file a complaint to the Ombudsperson regarding the protection of rights of the child according to the procedures set forth in the applicable legislation. Ombudsperson shall issue a Regulation on the manner of appeal of the child, as set forth by this Law.
+4. Associations, organizations or other legal entities may initiate or support complaints on behalf of the applicant, upon obtaining the consent of the parents or guardian, as well as the child`s opinion when he/she is able to provide it, for conducting the proceedings at the Ombudsperson`s office.
+5. When the Ombudsperson initiates the procedure on his/her own initiative regarding the violation of the rights and freedoms of a large number of children, the consent from paragraph 4. of this Article is not required.

@@ -1,0 +1,5 @@
+# Neni 8
+Mos diskriminimi 1. Çdo fëmijë ka të drejtë në të njëjtat të drejta të njohura me legjislacionin në fuqi dhe Konventën, t’i garantohen ato pa asnjë lloj dallimi, pavarësisht nga raca, ngjyra, gjinia, gjuha, feja, opinioni politik ose çdo opinion tjetër, nga origjina kombëtare, etnike ose shoqërore, pasuria, paaftësia, prejardhja familjare apo çdo gjendje tjetër e fëmijës ose prindërve të tij, apo përfaqësuesve të tij ligjorë.
+2. Të gjitha institucionet, ofruesit e shërbimeve, profesionistët për mbrojtjen e fëmijës, duhet të marrin të gjitha masat e duhura, me qëllim që fëmija të jetë i mbrojtur nga të gjitha format e diskriminimit.
+3. Prindërit apo kujdestari, anëtarët e familjes, personi i besueshëm, profesionistet për mbrojtjen e fëmijës, të cilët konsiderojnë se parimi i trajtimit të barabartë nuk është zbatuar ndaj fëmijës, mund të iniciojnë procedurë dhe paraqesin fakte para organit kompetent, në përputhje me dispozitat e ligjit përkatës për mbrojtje nga diskriminimi.
+LIGJI NR. 06/L-084 PËR MBROJTJEN E FËMIJËS

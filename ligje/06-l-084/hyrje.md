@@ -1,0 +1,1 @@
+LIGJI NR. 06/L-084 PËR MBROJTJEN E FËMIJËS LIGJI NR. 06/L-084 PËR MBROJTJEN E FËMIJËS Kuvendi i Republikës së Kosovës, Në mbështetje të nenit 65 (1) të Kushtetutës së Republikës së Kosovës, Miraton: LIGJ PËR MBROJTJEN E FËMIJËS
