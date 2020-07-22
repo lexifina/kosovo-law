@@ -1,0 +1,8 @@
+# Neni 4
+Kërkesat për etalonët shtetëror të matjes
+1. Etalonët shtetëror të matjes duhet të gjurmohen në SI sipas kushteve të përshkruara nga Marrëveshja e Njohjes së Ndërsjellë të Standardeve Kombëtare të Matjes dhe Certifikatave të Kalibrimit të lëshuara nga Institutet Kombëtare të Metrologjisë, të hartuara nga Komiteti Ndërkombëtar për Peshat dhe Matjet (në tekstin e mëtejmë CIPM) nën autoritetin që i është dhënë sipas nenit 10 të Rregullave në shtojcat në Konventën e Metrit.
+1.Etalonët shtetëror të matjes duhet të kalibrohen periodikisht dhe të krahasohen në mënyrë ndërlaboratorike me etalonët shtetëror të matjeve të shteteve të tjera sipas kushteve të paragrafit 1 të këtij neni për të siguruar gjurmueshmërinë dhe krahasueshmerinë e matjeve të bëra në Republikën e Kosovës.
+3. Karakteristikat teknike dhe metrologjike të etalonit shtetëror të matjes duhet të mbahen brenda kufijve të përcaktuar gjatë gjithë periudhës së jetës së tij.
+4. Të gjitha pajisjet prej të cilave përbëhet etaloni shtetëror i matjes dhe lokalet (hapësirat) ku janë instaluar ose përdorur, do të konsiderohen si pjesë përbërëse të etalonit shtetëror të matjes.
+5. Karakteristikat teknike dhe metrologjike të etalonëve shtetëror të matjes duhet të mundësojnë kalimin e shkallës së vlerave në etalonët përkatëse të matjes të nivelit më të ulët në një nivel të pranueshëm ndërkombëtar.
+6. Konfigurimi i pajisjeve, kushtet e përdorimit dhe konservimi (ruajtja) duhet të identifikohen plotësisht dhe qartë. Rezultatet, paqartësitë dhe qëndrueshmëritë afatgjata të karakteristikave teknike dhe metrologjike duhet të dokumentohen plotësisht.
