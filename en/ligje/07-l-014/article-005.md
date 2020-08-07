@@ -1,0 +1,4 @@
+# Article 5
+1. Article 6 of basic Law, paragraph 6 shall be reworded with the text as follows:
+6. Municipal budget reserves, by Minister’s decision might be carried over to the category of wages and allowances, depending on the entry into force of the Law No.
+LAW NO. 07/L –014 ON AMENDING AND SUPPLEMENTING THE LAW NO. 07/L-001 ON BUDGET APPROPRIATIONS FOR THE BUDGET OF REPUBLIC OF KOSOVO FOR YEAR 2020 06/L-111 on Salaries in Public Sector. In case when this is not necessary, such budget reserve, by Minister’s approval might be carried over to all expenditure categories with exception of wage and allowances category, according to the requirement and decision of the Municipality Assembly. These budget transfers are not subject to the restrictions of transfers included in Article 30 of LMPFA or Article 15 of basic Law.

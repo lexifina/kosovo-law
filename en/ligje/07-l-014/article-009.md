@@ -1,0 +1,4 @@
+# Article 9
+1. Article 18 of basic Law, paragraph 1 shall be reworded with the text as follows:
+1. Upon the entry into force of this Law, accounting records from budget execution pursuant to Law No. 07/L-001 on budget appropriations for the budget of Republic of Kosovo for year 2020, for the ministries affected by the restructuring and in accordance with Article 10 of this Law, should be identified and appropriately transferred as expenses to the respective budget organization, for all expenditure categories, and are recorded as appropriations pursuant to this Law. Records or accounting books are transferred by the
+LAW NO. 07/L –014 ON AMENDING AND SUPPLEMENTING THE LAW NO. 07/L-001 ON BUDGET APPROPRIATIONS FOR THE BUDGET OF REPUBLIC OF KOSOVO FOR YEAR 2020 Government decision by structure and they become part of the accounting records of the restructured Ministry, no later than thirty (30) days after the entry into force of this Law.

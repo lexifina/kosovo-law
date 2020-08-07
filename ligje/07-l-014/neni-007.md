@@ -1,0 +1,3 @@
+# Neni 7
+Neni 14 i ligjit bazik, pas paragrafit 6. shtohet paragraf i ri me numrin rendor 7., me tekstin si në vijim:
+7. Autorizohet Ministria e Financave që për marrëveshjet financiare ndërkombëtare të parapara në këtë Ligj - “Projekti Emergjente Covid-19 për Kosovën” me Asociacionin Ndërkombëtar për Zhvillim, dhe projekti “Instrumenti për financim te sektorit publik për reagim emergjent ndaj Covid-19” me Bankën për Zhvillim e Këshillit të Evropës, me rastin e ratifikimit të tyre, përmes Programit të Rimëkëmbjes Ekonomike të buxhetojë dhe alokojë për shpenzim te organizatat buxhetore bartëse të projekteve, për të rimbursuar dhe zëvendësuar burimet e financimit për shpenzimet e ndodhura (të destinuara për Covid-19) nga granti qeveritar deri në fund të vitit fiskal.

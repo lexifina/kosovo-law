@@ -1,0 +1,4 @@
+# Article 10
+1. In the Article 24 of the basic law, unnumbered paragraph is numbered as 1.
+2. In the Article 24 of the basic Law, after paragraph 1 there shall be added a paragraph with number 2, with the following text:
+2. The funds planned for the budget organization “The Academy of Sciences and Arts”, related to the payment of permanent monthly rewards to regular and correspondent members of the Academy, are re-classified and transferred from the category of “salaries and allowances” to the category of “subsidies and transfers”, in sub - program “Members of the Academy”, in accordance with Article 25 of Law No. 05 / L-038 on the Academy of Sciences and Arts of Kosovo. Payment of permanent monthly rewards is made in accordance with the Article 3, paragraph 1.31 of the basic Law and other legislation in force for public finances.

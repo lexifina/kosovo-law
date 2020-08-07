@@ -1,0 +1,10 @@
+# Neni 11
+Pas nenit 24 të ligjit bazik shtohen 2 nene të reja me numër rendor 24A dhe 24B në tekstet si në vijim:
+Neni 24 A
+Programi i Rimëkëmbjes Ekonomike 1. Krijohet Programi i Rimëkëmbjes Ekonomike, përmes të cilit ndahen mjetet sipas propozimit nga Ministri dhe aprovimit nga Qeveria, bazuar në planin e zbatimit të aprovuar nga Qeveria. Mjetet e ndara nga të gjitha burimet e financimit, transferohen dhe alokohen në kategorinë përkatëse të shpenzimit, nën programin përkatës buxhetor si dhe organizatën buxhetore përgjegjëse për zbatim, në përputhje me planin e miratuar, duke përjashtuar kufizimin e paraparë në nenin 11, paragrafi 11 i ligjit bazik. Këto lëvizje të buxhetit nuk janë subjekt i kufizimeve të transfereve të përfshira në nenin 30 të LMFPP-së apo të nenit 15 të ligjit bazik.
+2. Projektet kapitale të identifikuara në zbatim të Programit të Rimëkëmbjes Ekonomike, që financohen nga burimet specifike përcaktohen me vendim të Qeverisë, sipas mekanizmit në paragrafin 1. të këtij neni.
+3. Në rastin kur mjetet ndahen në kuadër të buxhetit të Ministrisë së Financave, nën-programi Thesari i Kosovës, për t`u transferuar te një organizatë jo buxhetore, autorizohet Thesari që të bëjë transferin e mjeteve te përfituesi i paraparë në planin e zbatimit sipas paragrafit 1. të këtij neni, pas nënshkrimit të marrëveshjes nga ana e Ministrit dhe përfituesit.
+4. Mjetet nga Programi i Rimëkëmbjes Ekonomike nuk mund të përdoren për të paguar dënime gjyqësore apo kompensime tjera të ngjashme ndaj të cilave ekspozohen organizatat buxhetore, agjencitë e pavarura, apo ndërmarrjet publike.
+Neni 24B
+Përshtatja e tabelave buxhetore me rregulloret për sistematizimin e brendshëm Pas aprovimit të rregulloreve për organizimin e brendshëm të institucioneve publike sipas kërkesave të Ligjit Nr. 06/L-113 për Organizimin dhe Funksionimin e Administratës Shtetërore dhe të Agjencive të Pavarura, autorizohet Ministria e Financave të bëjë përshtatjet e nevojshme në tabelat buxhetore të këtij Ligji.
+LIGJI NR. 07/L-014 PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJIT ME NR.07/L-001 MBI NDARJET BUXHETORE PËR BUXHETIN E REPUBLIKЁS SЁ KOSOVЁS PЁR VITIN 2020

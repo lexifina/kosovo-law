@@ -1,0 +1,4 @@
+# Neni 9
+Neni 18 i ligjit bazik, paragrafi 1. riformulohet me tekstin si në vijim:
+1. Pas hyrjes në fuqi të këtij Ligji, regjistrimet kontabël nga ekzekutimi i buxhetit mbi bazën e Ligjit Nr. 07/L-001 mbi ndarjet buxhetore për buxhetin e Republikës së Kosovës për vitin 2020, për ministritë e ndikuara nga ristrukturimi dhe sipas nenit 10 të këtij Ligji, duhet të identifikohen dhe barten përshtatshmërisht si shpenzime te organizata buxhetore përkatëse, për të gjitha kategoritë e shpenzimeve, dhe regjistrohen kundrejt
+LIGJI NR. 07/L-014 PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJIT ME NR.07/L-001 MBI NDARJET BUXHETORE PËR BUXHETIN E REPUBLIKЁS SЁ KOSOVЁS PЁR VITIN 2020 ndarjeve buxhetore sipas këtij Ligj. Regjistrimet apo librat kontabël barten me vendim të Qeverisë sipas strukturës dhe të njëjtat bëhen pjesë e regjistrave kontabël të ministrisë së ristrukturuar, jo më vonë se tridhjetë (30) ditë nga dita e hyrjes në fuqi të këtij Ligji
