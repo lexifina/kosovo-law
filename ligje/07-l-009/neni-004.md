@@ -1,0 +1,2 @@
+# Neni 4
+Hyrja në fuqi Ky ligj hyn në fuqi pesëmbëdhjetë (15) ditë pas publikimit në Gazetën Zyrtare të Republikës së Kosovës. Ligji Nr. 07/L - 009 23 korrik 2020 Shpallur me dekretin Nr. DL-106/2020, datë 06.08.2020 nga Presidenti i Republikës së Kosovës Hashim Thaçi ________________________________ Shtojca e ligjit Nr. 07/L -009, “Marrëveshja ndërmjet Bashkimit Evropian dhe Kosovës mbi pjesëmarrjen e Kosovës në Programin e Bashkimit “Fiscalis 2020” që ka hyrë ë fuqi më 01 Gusht 2017”, bashkëngjitur me ligj është publikuar ne web faqen e Gazetës Zyrtare (gzk.rks-gov.net)
