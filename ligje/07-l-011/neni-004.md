@@ -1,0 +1,2 @@
+# Neni 4
+Hyrja në fuqi Ky ligj hyn në fuqi pesëmbëdhjetë (15) ditë pas publikimit në Gazetën Zyrtare të Republikës së Kosovës. Ligji Nr. 07/L-011 23 korrik 2020 Shpallur me dekretin Nr. DL-109/2020, datë 06.08.2020 nga Presidenti i Republikës së Kosovës Hashim Thaçi ________________________________ Shtojca e ligjit Nr. 07/L -011, “Marrëveshja ndermjet Bashkimit Evropian dhe Kosovës mbi pjesëmarrjen e Kosovës në Programin e Bashkimit “Dogana 2020”, bashkëngjitur me ligj është publikuar ne web faqen e Gazetës Zyrtare (gzk. rks-gov.net )
