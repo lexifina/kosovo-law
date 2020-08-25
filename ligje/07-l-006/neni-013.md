@@ -1,0 +1,10 @@
+# Neni 13
+Testimi, diagnoza dhe trajtimi 1. Testimi, diagnoza dhe trajtimi i personave të dyshimtë apo të sëmurëve me COVID-19 kryhet në bazë të protokolleve përkatëse, të hartuara nga OBSH, IKSHPK, Ministrisë së Shëndetësisë dhe të miratuara, me vendim, nga ministri përgjegjës për shëndetësinë.
+2. MSH me akt nënligjor përcakton kontrollin dhe cilësinë e testeve sipas protokolleve ndërkombëtare, validuar dhe me markën CE.
+3. Diagnostifikimi dhe trajtimi i pacientëve me COVID-19 kryhet në bazë të protokollit të caktuar, të hartuar nga Komitetet Shtetërore për Sëmundjet Infektive dhe IKSHPK dhe të miratuara me vendim nga Ministri i Shëndetësisë.
+4. Testimin dhe identifikimin e sëmundjes me COVID-19 e kryejnë institucionet shëndetësore publike, private dhe publiko-private të licencuara, sipas legjislacionit në fuqi.
+5. Ministria e Shëndetësisë mbështet në aspektin organizativ dhe financiar laboratorët e mikrobiologjisë në kuadër të IKSHPK-së në nivelin terciar, sekondar dhe primar që janë pjesë e integruar e kujdesit publik shëndetësorë me qëllim të identifikimit, menaxhimit dhe kontrollit të pandemisë COVID-19.
+6. Organizimi dhe funksionimi i laboratorëve të mikrobiologjisë të shëndetit publik kryhet sipas protokolleve të përcaktuara nga IKSHPK dhe të miratuara me vendim nga Ministri i Shëndetësisë.
+7. Institucionet shëndetësore private, laboratorët privatë për testim dhe identifikim të COVID-19 obligohen të licencohen nga Ministria e Shëndetësisë dhe janë të obliguar të respektojnë protokollet e IKSHPK-së për testim, identifikim dhe raportim. Raportimi i testimeve, rasteve pozitive dhe negative është i obligueshëm për të gjitha institucionet shëndetësore dhe bëhet çdo 24 – 48 orë në IKSHPK sipas vendimit të Ministrisë së Shëndetësisë.
+8. Me qëllim të trajtimit të infeksionit me COVID-19, Komiteti Etik i AKPPM me aprovimin e Ministrit të Shëndetësisë mund të lejoj përdorimin e barnave dhe plazmës konvalescente që janë në fazën e hulumtimeve klinike.
+9. Çdo institucion shëndetësor i cili bën testimin e personit për COVID-19, është i detyruar të lëshoj dëshmi mbi testimin.

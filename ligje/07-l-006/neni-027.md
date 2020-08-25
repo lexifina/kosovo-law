@@ -1,0 +1,4 @@
+# Neni 27
+Qarkullimi ndërkufitar 1. Personi i cili hyn në territorin e Republikës së Kosovës në mënyrë legale dhe nuk deklaron vendin e origjinës prej nga vjen si dhe nuk vepron sipas udhëzimeve të organeve kompetente ose refuzon ti nënshtrohet masave të kontrollit të detyrueshëm mjekësor dhe izolimit apo karantinimit dënohet me gjobë prej pesëqind (500) euro.
+2. Personi i cili ka hy në mënyrë ilegale në territorin e Republikës së Kosovës dhe nuk deklarohet si dhe nuk iu nënshtrohet masave të detyruara të kontrollit mjekësor dhe izolimit apo karantinimit të obligueshëm dënohet me gjobë prej pesëqind (500) euro si masë shtesë përpos masave ligjore për kalim ilegal të kufirit të paraparë me legjislacionin në fuqi.
+LIGJI NR. 07/L-006 PËR PARANDALIMIN DHE LUFTIMIN E PANDEMISË COVID-19 NË TERRITORIN E REPUBLIKËS SË KOSOVËS

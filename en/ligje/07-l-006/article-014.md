@@ -1,0 +1,4 @@
+# Article 14
+Responsibilities and coordination of institutions during the COVID-19 pandemics 1. MoH and NIHPK for implementation of protection measures and rules related to transport, isolation, treatment and anti-pandemic COVID-19 measures, coordinate with the Ministry of Internal Affairs, Ministry of Defense, Ministry of Transport and Infrastructure, Kosovo Police, Customs, KVFA, Health Inspectorate and other institutions.
+2. During the COVID-19 pandemics, all health service structures, depending on the ministry responsible for health and other ministries regarding the prevention and combating the COVID-19, shall report to the Ministry of Health through committees or commissions established for this purpose.
+LAW NO. 07/L-006 ON PREVENTING AND COMBATING COVID-19 PANDEMICS IN THE TERRITORY OF THE REPUBLIC OF KOSOVO

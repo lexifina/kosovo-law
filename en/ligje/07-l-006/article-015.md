@@ -1,0 +1,7 @@
+# Article 15
+Cooperation with municipality level 1. Ministry of Health and NIHPK are obliged to regularly inform the municipal level on preventive measures and situation with COVID-19 pandemics.
+2. Each municipality of the Republic of Kosovo is informed of the strategy, preventive measures approved by NIHPK and MoH, as well as for tested persons, negative and positive cases, suspected cases, contact cases and recovered persons in the territory of the defined municipality according to the law on local self-government.
+3. Local level is obliged to apply strategy, measures for prevention, management and control of the COVID-19 pandemics, and to support the central level, health institutions and health workers for implementation of measures to prevent and fight the COVID-19 pandemics.
+4. Government of Kosovo by decision establishes the Committee for coordination and assessment of situation with the COVID-19 pandemics and obliges municipalities to establish municipal sub-committees in order to prevent and combat the pandemics.
+5. The Government of Kosovo is obliged to support municipalities with protective measures and financial means in the combat against the COVID-19 pandemics.
+6. Based on the strategy, approved protocols for prevention, management and control of the COVID-19 pandemic, Kosovo municipalities are obliged to prepare action-plan for identification and treatment of patients with COVID-19, by providing medicaments and necessary material basis.

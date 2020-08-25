@@ -1,0 +1,3 @@
+# Neni 2
+Fushëveprimi 1. Ky ligj përcakton përgjegjësitë dhe rolin e institucioneve shtetërore, institucioneve shëndetësore publike, private dhe publiko-private në marrjen e masave për parandalimin, kontrollin, trajtimin, monitorimin, sigurimin e financimit dhe ndarjen e përgjegjësive gjatë pandemisë COVID-19.
+2. Ky ligj përcakton masat dhe sanksionet të cilat do të ndërmerren ndaj personave fizik dhe juridik, shtetas të Republikës së Kosovës apo të huaj me qëndrim në Republikën e Kosovës, të cilët i shkelin rregullat, vendimet dhe udhëzimet e nxjerra nga organet kompetente, gjatë gjithë kohëzgjatjes së periudhës së infeksionit, pandemisë të shkaktuar nga COVID-19.
