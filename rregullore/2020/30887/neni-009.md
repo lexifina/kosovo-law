@@ -1,0 +1,6 @@
+# Neni 9
+Hyrja në fuqi
+Kjo rregullore hyn në fuqi në ditën e publikimit në Gazetën Zyrtare.
+Avdullah Hoti
+________________________ Kryeministër i Republikës së Kosovës
+21.08.2020
