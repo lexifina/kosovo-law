@@ -1,0 +1,2 @@
+# Neni 15 - Ndryshimi i k6saj Marr0veshjeje p6r Financim
+(1)Qdondryshimik€sajMarrdvesllejep€rFinancimdotebehetmeshkrim'dukep€rfshird shk€mbimin e letrave. (2) Nese perfituesi i tpA II kerkon njc ndryshim, k€rkesa duhet € paraqitet bashkerisht tek Komisioni t€ pahen giashtE muaj para se ndryshimi synohet te hyje nc fuqi' (3)KomisionimundtendryshojcDokumentetModelndshtojccnIIl,IllA,IVdhevpapasur nevoj€p6rnj€ndryshimtekdsajMarreves\iejeperFinancim.PerfifuesiteIPAIIdote informohen me shkrim p€r gdo ndryshim te tillE dhe hyrjes se tij ntt fuqi'
