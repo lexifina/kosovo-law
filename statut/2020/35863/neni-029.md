@@ -1,0 +1,2 @@
+# Neni 29
+Rektori do ta njoftoj Këshillin Drejtues për çdo veprim apo lëshim të Këshillit Drejtues, i cili, sipas mendimit të Rektorit, përbën një shpërdorim të fondeve publike që i janë dhënë. Në rast se Këshilli Drejtues nuk vepron për të korrigjuar një veprim të tillë jo të duhur apo lëshim, Rektori do të raportojë rreth kësaj çështjeje drejtpërdrejt në Ministri. Në raste të tilla, Këshilli Drejtues nuk mund të ndërmarrë asnjë veprim ndaj Rektorit, me përjashtim të rasteve kur vet Ministria e lejon një gjë të tillë.
