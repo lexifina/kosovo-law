@@ -1,0 +1,2 @@
+# Neni 29
+Rektori do ta njoftojë Këshillin Drejtues për çdo veprim apo lëshim të Këshillit drejtues, i cili, sipas mendimit të tij, përbën një shpërdorim të fondeve publike që i janë dhënë. Në rast se Këshilli drejtues nuk vepron për të korrigjuar një veprim të tillë jo të duhur apo lëshim, atëherë Rektori do t‟ia raportojë drejtpërdrejt këtë veprim ose lëshim MASHT-in. Në raste të tilla Këshilli drejtues nuk mund të ndërmarrë asnjë veprim ndaj rektorit, me përjashtim të rasteve kur vetë MASHT e lejon një gjë të tillë.
