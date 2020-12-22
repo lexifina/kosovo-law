@@ -1,0 +1,5 @@
+# Neni 60
+1. Për detyrimet arsimore, të cilat financohen nga fondet publike, Universiteti i cakton njësisë akademike një numër të caktuar të personelit akademik dhe joakademik dhe i siguron infrastrukturën e duhur në përputhje me detyrimet arsimore të përcaktuara nga Këshilli drejtues me propozimin e Senatit.
+2. Njësia akademike si anëtare e Universitetit është përgjegjëse për zbatimin e programeve të studimeve të akredituara në kuadër të profilit të saj arsimor dhe në përputhje me dispozitat e arsimit të lartë. Senati i cakton programet e studimeve.
+3. Njësia akademike është përgjegjëse për zhvillimin e kërkimeve shkencore dhe për punën artistike në kuadër të fusheveprimtarisë së saj.
+4. Programet interdisiplinare të studimeve, që përfshijnë disa njësi akademike, do të themelohen me vendim të Senatit dhe sipas propozimeve të njësive akademike pjesëmarrëse.
