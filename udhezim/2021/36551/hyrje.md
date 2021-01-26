@@ -1,0 +1,4 @@
+Qeveria e Republikës së Kosovës,
+Në mbështetje të Nenit 93 (4) të Kushtetutës së Republikës së Kosovës, Në pajtim me Nenin 8 (4) të Kodit nr. 06/L- 006 të drejtësisë për të mitur (Gazeta Zyrtare, nr. 17 / 18 tetor 2018), duke marrë parasysh Nenin 11.A dhe Nenin 11.B të Ligjit nr. 02/L-17 për shërbime sociale dhe familjare (Gazeta Zyrtare nr. 12 / 01 maj 2007) i ndryshuar dhe plotësuar me Ligjin nr. 04/L-081 për ndryshimin dhe plotësimin e Ligjit nr. 02/L-17 për shërbime sociale dhe familjare (Gazeta Zyrtare / nr. 5 / 05 prill 2012), si dhe në pajtim me Nenin 19 (6.2) të Rregullores së Punës së Qeverisë nr. 09/2011 (Gazeta Zyrtare, nr. 15 / 12 shtator 2011),
+Miraton:
+UDHËZIM ADMINISTRATIV (QRK)- NR. 01/2021 PËR MBROJTJEN DHE TRAJTIMIN E FËMIJËVE KRYERËS TË VEPRAVE PENALE NËN MOSHËN E PËRGJEGJËSISË PENALE

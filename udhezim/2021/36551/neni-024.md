@@ -1,0 +1,6 @@
+# Neni 24
+Mbrojtja e fëmijës nën moshën e përgjegjësisë penale në situata urgjente
+1. Në raste urgjente, jo më vonë se njëzet e katër (24) orë nga pranimi i informimit ose vënies në dijeni rreth kryerjes së ndonjë vepre penale të rëndë ose veprave të përsëritura, policia pas konsultimit me prokurorin e shtetit për të mitur e informon dhe kërkon nga organi i kujdestarisë ndërmarrjen e masave urgjente adekuate për trajtimin dhe mbrojtjen e fëmijës.
+2. Kjo masë urgjente e ndihmës përfundon në momentin kur organi i kujdestarisë përpilon programin e mbrojtjes për fëmijën.
+3. Nëse një zyrtar i shërbimeve sociale ka arsye të bazuar se në një rast të caktuar ekziston rrezik serioz, imediat për shëndetin, sigurinë dhe mirëqenien e një fëmije, ai mundet sipas kompetencave që ka, të hyjë në çdo objekt banimi dhe të vendosë fëmijën në një vend të sigurt, ku i ofrohet përkujdesja për një periudhë të caktuar, jo më të gjatë se shtatëdhjetë e dy orë (72).
+4. Para se të skadojë afati prej shtatëdhjetë e dy (72) orësh, nëse Organi i Kujdestarisë nuk siguron pëlqimin e prindit ose kujdestarit, rastin duhet ta paraqesë në gjykatën kompetente, e cila vendos për kujdestarinë e fëmijës. Kur rrethanat e kërkojnë, gjykata mund t’i japë urdhër Organit të Kujdestarisë për vlerësim brenda një periudhe prej njëzetenjë (21) ditësh, për të mundësuar hetime të mëtutjeshme.
