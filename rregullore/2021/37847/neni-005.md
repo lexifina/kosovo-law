@@ -1,0 +1,11 @@
+# Neni 5
+Procedurat për angazhimin e bashkëpunëtorëve të jashtëm në aktivitetet artistike të AKKV “Shota”
+1. Angazhimi i bashkëpunëtorëve të jashtëm profesionalë në projektet e AKKV “Shota” bëhet me kritere publike përmes thirrjes së hapur për pjesëmarrje në audicion.
+2. Komisioni për audicion në bazë të kritereve të publikuara në thirrjen e hapur përzgjedh kandidatët e përshtatshëm për angazhim në realizimin e projektit të caktuar.
+3. Komisioni për audicion përbëhet nga tre (3) anëtarë dhe emërohet nga drejtori i AKKV “Shota”, pas propozimit të udhëheqësit artistik.
+4. Në punën e komisionit për audicion, pa të drejtë vote, mund të marrin pjesë edhe anëtarët e Këshillit Drejtues dhe drejtori i AKKV “Shota”.
+5. Në rastet e veçanta, të cilat konsistojnë në mungesën evidente dhe të dokumentuar të konkurencës, në profilin dhe/apo nivelin e dëshiruar artistik, rasteve të angazhimeve urgjente që nuk planifikohen dhe nuk mund të parashikohen dhe rasteve kur nga vlerësimi me shkrim i udhëheqësit artistik konstatohet se profili i një artisti të caktuar i përshtatet natyrës dhe kërkesave artistike për realizimin e suksesshëm të veprës artistike, angazhimi mund të bëhet pa audicion në përputhje me procedurën e rregulluar me këtë Rregullore.
+6. Vendimi për angazhimin e një bashkëpunëtori të jashtëm pa audicion, bëhet pas konstatimit të mungesës së profilit të tillë brenda strukturës së të punësuarve në institucion si dhe pas konstatimit të fakteve dhe rrethanave të përcaktuara në paragrafin pesë (5) të këtij neni.
+7. Mungesën e profilit si në paragrafët 5 dhe 6 të këtij neni e konstaton udhëheqësi artistik me një kërkesë të arsyetuar për verifikim dhe konstatim të mungesës, të cilën e drejton në zyrën e drejtorit për konfirmim.
+8. Udhëheqësi artistik, në rastet e angazhimit të bashkëpunëtorëve të jashtëm pa audicion, është i obliguar që për secilin profil të bashkëpunëtorit të propozuar për angazhim të përgatisë një vlerësim ku do të përfshihet arsyetimi dhe niveli i përgatitjes artistike dhe profesionale, si dhe të sigurojë përshtatshmërinë e kritereve artistike dhe profesionale me natyrën e projektit në të cilin angazhohet.
+9. Vetëm pas një vlerësimi të tillë, si dhe pasi të jenë zbatuar procedurat e përcaktuara në paragrafët 5, 6, 7 dhe 8 të këtij neni, drejtori mund të iniciojë procedurat për angazhim.

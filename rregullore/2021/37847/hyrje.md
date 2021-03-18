@@ -1,0 +1,5 @@
+Ministri i Kulturës, Rinisë dhe Sportit,
+Duke u bazuar në nenin 10 dhe 11 të Ligjit Nr. 06/L–113 për Organizimin dhe Funksionimin e Administratës Shtetërore dhe agjencive të pavarura (Gazeta Zyrtare e Republikës së Kosovës / Nr. 7 / 01 mars 2019, Prishtinë), në mbështetje të nenit 9 (paragrafi 1, nënparagrafi 1.9) të Ligjit Nr. 04/L–164 për Ansamblin Kombëtar të Këngëve dhe Valleve “Shota” dhe për Ansamblet e Tjera (Gazeta Zyrtare 12/2013) dhe nenin 23 të Statutit të Ansamblit Kombëtar të Këngëve dhe Valleve ”Shota”, si dhe nenin 8 (paragrafi 1, nënparagrafi 1.4) dhe shtojcën 3 të Rregullorës Nr. 06/2020 për fushat e përgjegjësisë administrative të zyrës së kryeministrit dhe të ministrive, Ministrja e Kulturës, Rinisë dhe Sportit,
+Miraton:
+RREGULLORE NR. 01/2021 MBI PROCEDURAT DHE KRITERET E REALIZIMIT TË PAGESAVE SHTESË TË STAFIT TË BRENDSHËM ARTISTIK, PROFESIONISTËVE E ARTISTËVE TË JASHTËM SI DHE PROCEDURAT E KONTRAKTIMIT TË SHËRBIMEVE DHE
+FURNIZIMEVE ME PËRMBAJTJE PROFESIONALE-ARTISTIKE NË KUADËR TË PROJEKTEVE TË ANSAMBLIT KOMBËTAR TË KËNGËVE DHE VALLEVE “SHOTA”
