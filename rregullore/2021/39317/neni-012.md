@@ -1,0 +1,31 @@
+## KAPITULLI III - ZYRA E
+## KRYEMINISTRIT DHE MINISTRITË
+# Neni 12
+Funksionet e Zyrës së Kryeministrit
+1. Kryeministri udhëheq Zyrën e Kryeministrit.
+2. Zyra e Kryeministrit përfshin: Kabinetin e Kryeministrit, zëvendëskryeministrat dhe këshilltarët e tyre, Zyrën e Sekretarit të Përgjithshëm, zyrat dhe njësitë që ushtrojnë përgjegjësitë dhe funksionet e caktuara në Zyrën e Kryeministrit.
+3. Zyra e Kryeministrit koordinon punën e ministrive.
+4. Zyra e Kryeministrit mbështet veprimtarinë e Qeverisë, Kryeministrit, zëvendëskryeministrave dhe të ministrave dhe është përgjegjëse për:
+4.1. Përgatitjen e propozimeve të projekt amendamenteve kushtetuese, projektligjeve, projekt akteve nënligjore, koncept dokumenteve (vlerësimit të ndikimit), vlerësimeve Ex-post të legjislacionit, dokumenteve strategjike dhe propozimeve të tjera, nga fushëveprimi i Qeverisë si tërësi dhe i Zyrës së Kryeministrit, si dhe monitoron dhe siguron zbatimin e tyre;
+4.2. Hartimin e politikave në sferën e qeverisjes së mirë, të drejtave të njeriut, mundësive të barabarta dhe në çështjet kundër diskriminimit;
+4.3. Përgatitjen dhe organizimin e mbledhjeve të Qeverisë dhe mbledhjeve tjera të kryesuara nga Kryeministri ose nga një zëvendëskryeministër në emër të tij, si dhe ofrimin e mbështetjes administrative dhe analitike trupave qeveritare, dhe mekanizmave të tjerë;
+4.4. Koordinimin e punës së ministrive për planifikimin dhe hartimin e projektligjeve dhe projekt akteve nënligjore, përgatitjen dhe monitorimin e Programit Legjislativ dhe Planit Legjislativ për aktet nënligjore, Programit të Vlerësimit Ex-Post të legjislacionit, shqyrtimin e konsistencës së projekt ligjeve dhe projekt akteve nënligjore me kornizën kushtetuese dhe ligjore, me Acquis të BE-së, kontrollimin e cilësisë së tyre me standardet e hartimit të legjislacionit, si dhe zbatimin dhe monitorimin e tyre;
+4.5. Udhëheq procesin për zvogëlimin e barrës administrative përmes koordinimit dhe mbështetjes së ministrive në zhvillimin e propozimeve të bazuara në analiza, si dhe shqyrton projekt-aktet juridike që synojnë uljen e barrës administrative;
+4.6. Koordinimin e punës së ministrive për zhvillimin e koncept dokumenteve (vlerësimit të ndikimit), kontrollimin e cilësisë së tyre, monitorimin e Listës së Koncept Dokumenteve, koordinimin e aspekteve të tjera të Rregullimit më të Mirë, si dhe zbatimin dhe monitorimin e tyre;
+4.7. Udhëheq koordinimin e hartimit të strategjisë gjithëpërfshirëse për zhvillim dhe koordinon punën e ministrive për hartimin e dokumenteve strategjike të nivelit shtetëror, sektorial / ndërsektorial dhe horizontal, kontrollimin e cilësisë së tyre, monitorimin e Planit të Dokumenteve Strategjike, siguron që prioritetet qeveritare pasqyrohen në planifikimet buxhetore të Qeverisë, si dhe zbatimin dhe monitorimin e tyre;
+4.8. Shqyrtimin e propozim vendimeve para miratimit nga Qeveria për të siguruar përputhshmërinë me legjislacionin në fuqi, si dhe monitorimin dhe raportimin e zbatimit të tyre;
+4.9. Bashkërendimin e zbatimit të Programit të Qeverisë, hartimin e Deklaratës së Prioriteteve, zhvillimin e prioriteteve dhe politikave strategjike të Qeverisë, si dhe zbatimin dhe monitorimin e zbatimit të tyre;
+4.10. Koordinimin e punës për përgatitjen e Planit të Punës së Qeverisë me ministritë dhe institucionet e tjera përkatëse, si dhe monitorimin dhe raportimin për zbatimin e tij;
+4.11. Koordinimin e marrëdhënieve mes Qeverisë dhe Kuvendit, Presidentit, institucioneve të pavarura dhe agjencive të pavarura;
+4.12. Koordinimin e procesit të bashkëpunimit të Qeverisë me shoqërinë civile dhe përfshirjen e tyre në procesin e hartimit të politikave;
+4.13. Koordinimin e procesit të konsultimeve ndër-institucionale dhe me publikun gjatë hartimit të politikave dhe legjislacionit;
+4.14. Koordinimin e komunikimit të Qeverisë me publikun;
+4.15. Koordinimin e zhvillimit dhe monitorimin e zbatimit të politikave që kanë të bëjnë me llogaridhënien dhe transparencën;
+4.16. Koordinimin me Presidentin, Kuvendin, ministritë dhe institucionet tjera për publikimin e legjislacionit në Gazetën Zyrtare në pajtim me legjislacionin në fuqi;
+4.17. Promovimin dhe nxitjen e vetëdijesimit për politikat qeveritare dhe legjislacionin në fuqi, duke përfshirë standardet ndërkombëtare për të drejtat e njeriut;
+4.18. Udhëheqjen dhe bashkërendimin e hartimit të dokumentit strategjik për procesin e integrimit evropian dhe monitoron zbatimin e tij;
+4.19. Bashkërendimin dhe monitorimin e zbatimit të reformave dhe obligimeve nga procesi i integrimit evropian në nivel shtetëror si dhe sigurimin e përafrimit të legjislacionit dhe politikave me ato të BE-së;
+4.20. Bashkërendimin e përkthimit të legjislacionit të BE-së në funksion të përafrimit të legjislacionit vendor me atë të BE-së;
+4.21. Udhëheqjen, bashkërendimin dhe programimin e ndihmës financiare të BE-së për institucionet e Republikës së Kosovës, koordinimin e donatorëve dhe lidhjen e marrëveshjeve financiare në fushën e ndihmave financiare të BE-së në kuadër të procesit të para-anëtarësimit dhe bashkëpunimit për zhvillim, në funksion të agjendës zhvillimore të vendit;
+4.22. Në bashkëpunim të ngushtë me institucionet e tjera publike, përgatitjen dhe koordinimin e procesit të ngritjes së kapaciteteve institucionale në fushën e integrimit evropian;
+4.23. Ushtrimin e kompetencave dhe funksioneve tjera të cilat i janë caktuar me ligj, akte nënligjore, vendim të Qeverisë, vendim të Kryeministrit apo legjislacionin tjetër në fuqi.

@@ -1,0 +1,5 @@
+# Neni 31
+Dispozitat kalimtare
+1. Brenda gjashtë (6) muajve nga hyrja në fuqi e kësaj rregulloreje, me propozimin e Zyrës së Kryeministrit, përmes ndryshimit dhe plotësimit të kësaj rregulloreje, Qeveria nxjerr Kodin e Mirësjelljes për Këshilltarët Politikë dhe Nëpunësit e Punësuar në Kabinet.
+2. Udhëzimi Administrativ Nr. 2/2005 për të drejtat e detyrat e të Emëruarve Politikë dhe Kodi i mirësjelljes së tyre vazhdon të zbatohet deri në nxjerrjen e një kodi tjetër nga ana e Qeverisë.
+3. Në rastet kur sistemi ministror i është nënshtruar ri-organizimit sipas përbërjes së re qeveritare, deri në reflektimin e strukturës qeveritare në ligjin vjetor të buxhetit (rishikim) si organizata buxhetore, strukturat ministrore funksionojnë me rregullimin aktual buxhetor, me Zyrtar Kryesor Administrativ dhe Zyrtar Kryesor Financiar (në tekstin e mëtejmë: ZKA dhe ZKF) që raportojnë te ministri i ministrisë përkatëse, në aspektin e financave publike. Megjithatë, koordinimin e nevojshëm me kabinetin e ministrit dhe Zyrës së Kryeministrit e mundëson Sekretari i Përgjithshëm në rolin e ZKA sipas delegimit nga ministri.
