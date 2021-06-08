@@ -1,0 +1,4 @@
+# Neni 7
+Paragrafi 2 dhe paragrafi 4 i nenit 14 (Testi fizik për ushtar) të Rregullores bazë ndryshohen dhe plotësohet, si në vijim:
+2. Kriteri i kalueshmërisë se testimit fizik është 60% për secilën disiplinë, bazuar në skemën e manualit të testimit fizik të FSK-së i cili është i publikuar në ueb faqen e MM-së.
+4. Të gjithë kandidatët pajisen me teknologji përkatëse për matjen e rezultatit. Nëse FSK-ja nuk posedon pajisje të tilla, kandidati nënshkruan formularin e rezultatit, menjëherë pas përfundimit të testimit të secilës disiplinë. Në rast të kontestimit ose mospranueshmërisë së rezultatit nga ana e kandidatit, i njëjti realizon të drejtën e ankesës sipas procedurave të parapara me Rregulloren bazë, përmes mundësisë së ofrimit të pamjeve vizuale të regjistruara nga kamerat e FSK-së gjatë testimit.
