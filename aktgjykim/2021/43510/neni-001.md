@@ -1,0 +1,5 @@
+# Neni1
+Ndryshimet
+Qe nga data e hyrjes ne fuqi te kesaj Rregulloreje, [ ... J B. Nenet 10.1, 10.2 dhe 10.4 te Rregullores se UNMIK-ut nr. 2003/13 ndryshohen si vijon: [ ... J 10.4 Sipas ketij neni, punetori konsiderohet legjitim nese eshte i regjistruar si punetor i ndermarrjes ne pronesi shoqerore ne kohen e privatizimit apo
+te fillimit te procedures se likuidimit dhe nese konstatohet se ka qene ne listen e pagave te ndermarrjes per jo me pak se tri vite. Kjo kerkese nuk i perjashton punetoret nga paraqitja e ankeses ne Dhomen e Posac;me, ne pajtim me paragrafin 10.6., te cilet pretendojne se edhe ata do te ishin regjistruar apo punesuar po te mos kishin qene te diskriminuar.
+[ ... J
