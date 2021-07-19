@@ -1,0 +1,10 @@
+# Neni 19
+Zbatimi i të drejtës së fëmijës për
+privatësi
+1. Për të zbatuar të drejtën e fëmijës për privatësi, subjektet e mëposhtëm mund të marrin në shqyrtim:
+1.1. gjyqtarët për të mitur duhet të respektojnë fshehtësinë e informacionit për fëmijët, sipas rastit, të mbrojnë fshehtësinë e informacionit lidhur me fëmijët, duke urdhëruar përjashtimin e plotë të publikut dhe të mbajnë seancë me dyer të mbyllura;
+1.2. prokurorët për të mitur duhet të respektojnë fshehtësinë e informacionit për fëmijët viktima dhe dëshmitarë të veprës penale, të kërkojnë marrjen e masave për mbrojtjen e identitetit të fëmijës viktimë ose dëshmitar, në rast se këto masa nuk zbatohen automatikisht, si dhe të ndjekë penalisht median nëse shkelet e drejta e fëmijës për sa i takon jetës private apo fshehtësisë së informacionit.
+1.3. profesionistët që punojnë me dhe për fëmijët duhet të respektojnë rregullat e rrepta të konfidencialitetit, t’i mbajnë dokumentet që bëjnë publik të dhënat për fëmijën në vend të sigurt dhe mos t’ia bëjnë të ditur këtë informacion askujt, pa qenë paraprakisht të autorizuar;
+1.4. mediat duhet të miratojnë dhe zbatojnë masa vetërregulluese për të mbrojtur fshehtësinë e informacionit dhe të dhënat personale të viktimës. Në pajtim me këtë udhëzim administrativ dhe legjislacionin në fuqi, mbrojtja e privatësisë së fëmijës duhet të përcaktohet në Kodin e Etikës të Komisionit të Pavarur të Mediave dhe Kodin e Mediave të Shkruara të Kosovës, që përfshinë por nuk kufizohet në:
+1.4.1. dhënien e anonimitetit ose e një pseudonimi, përdorimin e ekraneve ose zërave maskues, fshirjen e emrave dhe elementeve të tjerë që mund të çojnë në identifikimin e një fëmije nga të gjitha dokumentet, duke ndaluar çdo formë të regjistrimit si foto, audio apo video,
+1.4.2. mbrojtjen e të dhënave personale, që përfshijnë por nuk kufizohen në procedura disiplinore, regjistrimi i rasteve të dhunës, trajtimi mjekësor në shkollë, orientimi shkollor, arsimi special për personat me aftësi të kufizuara dhe ndihma sociale për nxënësit nga familjet e varfëra.

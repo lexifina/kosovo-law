@@ -1,0 +1,10 @@
+# Neni 31
+Sigurimi i intervistimit të përshtatshëm për fëmijën dhe parandalimi i frikësimit
+1. Intervistat dhe mbledhja e deklaratave nga fëmijët duhet, aq sa është e mundur, të kryhet nga profesionistë të trajnuar dhe kur mbahet më shumë se një intervistë me fëmijën, preferohet që ato të kryhet nga i njëjti person.
+2. Intervista duhet të zhvillohet në një mjedis asnjanës dhe miqësor për fëmijën, numri dhe kohëzgjatja e intervistave duhet të jetë sa më e kufizuar dhe e përshtatshme për moshën e fëmijës, ndërsa kohëzgjatja e intervistës të mos jetë më shumë se dyzetepesë (45) minuta.
+3. Në zbatimin e legjislacionit në lidhje me provat, i jepet përparësi interesit më të mirë të fëmijës, dhe kur është e nevojshme, mund të përshtaten disa elemente të rregullave të provave në mënyrë që të shmangen traumat shtesë për fëmijët, ose të vendosen rregulla procedurale më pak të rrepta, për këtë qëllim lejohet mbledhja e provave përmes lidhjes audio, video si dhe dëshmia e ekspertëve para gjykimit.
+4. Kontakt i drejtpërdrejtë midis fëmijës viktimë ose dëshmitar me të dyshuarin duhet të shmanget sa më shumë që të jetë e mundur.
+5. Kur fëmijët do të pyeten ose shprehin dëshirën për të dëshmuar në procedurat familjare, duhet t'i kushtohet vëmendje e duhur pozicionit të tyre të cenueshëm në familje dhe efektit që dëshmia e tillë mund të ketë si dhe duhet të bëhen përpjekje për të siguruar që fëmija të ndërgjegjësohet për pasojat e dëshmisë dhe të mbështetet në dhënien e provave.
+6. Kur është në interesin më të mirë dhe mirëqenien e fëmijës gjyqtari mund të lejojë një fëmijë të mos dëshmojë.
+7. Deklaratat dhe provat e një fëmije nuk duhet të supozohen kurrë si të pavlefshme ose të pabesueshme vetëm për shkak të moshës së fëmijës dhe çdo fëmijë, mosha dhe pjekuria e të cilit i mundësojnë të jep dëshmi të kuptueshme dhe të besueshme, me ose pa forma të përshtatshme të ndihmës, duhet të konsiderohet si dëshmitar ose palë e aftë.
+8. Personave mbështetës duhet t’u lejohet të shoqërojnë dhe kur është e përshtatshme, të ndihmojnë fëmijën gjatë intervistave paraprake dhe gjatë dhënies së dëshmisë.

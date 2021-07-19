@@ -1,0 +1,9 @@
+# Neni 25
+Fëmijët dhe policia
+1. Në të gjitha situatat kur fëmijët mund të vijnë në kontakt me policinë, policia duhet të zbatojë udhëzimet për drejtësinë mike ndaj fëmijës, me një rëndësi të veçantë kur merren me fëmijë me nevojë për mbrojtje.
+2. Policia duhet të respektojë të drejtat personale dhe dinjitetin e të gjithë fëmijëve dhe duhet të marrin parasysh moshën dhe pjekurinë e tyre dhe çdo nevojë të veçantë të tyre.
+3. Kurdoherë që një fëmijë privohet nga liria, fëmija duhet të informohet, në një mënyrë dhe gjuhë që është e kuptueshme dhe e përshtatshme për moshën, për arsyet për të cilat është privuar nga liria, si dhe duhet të sigurohet prania e përfaqësuesit të Organit të Kujdestarisë.
+4. Fëmijës, që nga momenti i privimit të lirisë, duhet t'i jepet mundësia që të kontaktojë menjëherë përfaqësuesin ligjor ose një person të cilit ai i besojnë si dhe duhet t’i sigurohet qasje te një avokat.
+5. Përfaqësuesi ligjor duhet të njoftohet menjëherë për ndalimin e fëmijës së tyre gjegjësisht për praninë e fëmijës në stacion policor, duke i dhënë detaje mbi arsyen pse fëmija është mbajtur dhe u kërkohet të vijnë në stacion. Fëmijët kanë të drejtë për të informuar një person të rritur të cilit ata i besojnë nëse prindi nuk mund të arrihet ose identiteti i tyre është i është i panjohur, ose nëse prindi mund të rrezikonte thellësisht procedurën ose nëse informimi i prindit do të ishte në kundërshtim me interesin më të mirë të fëmijës.
+6. Policia duhet të sigurojë që, sa është e mundur, asnjë fëmijë në kujdestarinë e tyre nuk është ndaluar së bashku me të rriturit.
+7. Fëmija që privohet nga liria në polici duhet të mbahet në kushte të sigurta dhe të përshtatshme për nevojat e tij, ku ndalimi nuk mund të kalojë njëzetekatër (24) orë dhe pas kalimit të kësaj periudhe, policia e liron të miturin, përveç nëse gjyqtari për të mitur cakton paraburgim.

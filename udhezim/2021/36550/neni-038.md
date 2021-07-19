@@ -1,0 +1,10 @@
+# Neni 38
+Përgjegjësitë institucionale dhe
+individuale
+1. Institucioni që zhvillon procedurën ka përgjegjësitë për të përmbushur obligimet e përcaktuara në këtë Udhëzim Administrativ dhe duhet të ndërmarrin të gjitha masat e nevojshme për të siguruar kryerjen e përgjegjësive të tyre dhe të sigurojnë infrastrukturën dhe shërbimet e nevojshme në këtë drejtim.
+2. Autoritetet dhe personat përgjegjës janë të detyruara që në pajtim me legjislacionin në fuqi të marrin pjesë në procedura ku janë të përfshirë fëmijët, që të procedojnë në mënyrë të shpejtë dhe pa vonesa.
+3. Qendrat për Punë Sociale duhet të ofrojnë ndihmë për gjykatat kurdoherë që një gjë e tillë kërkohet nga ato, duke marrë pjesë në mënyrë aktive në seanca dëgjimore të gjykatës dhe duke ofruar kontribut cilësor dhe me kohë, vlerësime ekspertize dhe mendime në të gjitha procedurat që përfshijnë fëmijët.
+4. Ministria përkatëse për punë sociale duhet të ndërmerr hapa për të siguruar trajnime për stafin e Qendrave për Punë Sociale me qëllim të zbatimit të duhur dhe përkatës të dispozitave që rregullojnë mbrojtjen e fëmijës, si dhe të sigurojë mbështetje të mjaftueshme logjistike dhe hapësira për to, me qëllim që ato t'i përmbushin obligimet e tyre që përcaktohen me legjislacionin në fuqi.
+5. Çdo komunë duhet të sigurojë se Qendrat për Punë Sociale në territorin e tyre të kenë resurse të duhura sipas standardeve që saktësohen nga Ministria përkatëse për punë sociale për ofrimin e shërbimeve sociale dhe familjare.
+6. Instituti Kosovar për Administratë Publike, Akademia e Drejtësisë, Akademia për Siguri Publike të përgatisin dhe realizojë programe të posaçme për ngritjen e kapaciteteve profesionale në fushën e mbrojtjes së fëmijës dhe Drejtësisë mike ndaj fëmijës në pajtim me këtë Udhëzim Administrativ dhe legjislacionin përkatës në fuqi.
+7. Çdo person fizik dhe juridik mban përgjegjësi në bazë të dispozitave të legjislacionit në fuqi, kur, me veprim ose mosveprim ka bërë shkeljen e parimeve të Drejtësisë Mike ndaj fëmijës.
