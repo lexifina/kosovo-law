@@ -1,0 +1,4 @@
+# Neni 3
+Vërtetimi i aftësisë shëndetësore
+1. Gjatë ushtrimit të aktivitetit të tyre aeronautik me mjete ajrore të specifikuara në nenin 1 të këtij Udhëzimi, të gjithë drejtuesit e mjeteve ajrore duhet të jenë të pajisur me “Certifikatë mjekësore” - dokument që vërteton se personi është i aftë në pikëpamje psikofizike për ta drejtuar automjetin e rregulluar sipas Ligjit Nr. 05/L – 064 për patentë shoferi dhe aktet tjera nënligjore ne fuqi për rregullimin e kësaj fushe.
+2. Drejtuesit e mjeteve ajrore sipas nenit 1 te këtij udhëzimi administrativ mbajnë përgjegjësi për përcjelljen e gjendjes se tyre mjekësore të shprehur ne një deklaratë me shkrim që dëshmon aftësi mjekësore për operim të sigurte të aktivitetit aeronautik me mjetet ajrore te përcaktuara sipas Nenit 1. Një formë e kësaj deklarate është e bashkangjitur si Shtojcë e këtij Udhëzimi.
