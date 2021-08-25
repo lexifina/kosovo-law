@@ -1,0 +1,2 @@
+# Article 2
+Ratification of Amendment 02 to the Bilateral Agreement between the Government of the Republic of Kosovo and the Government of Grand Duchy of Luxembourg on the Development Cooperation Project “KSV/017: Health Support Programme (Part II)” The amendment 02 of the Agreement between the Government of the Republic of Kosovo and the Government of the Grand Duchy of Luxembourg for the Development Cooperation Project “KSV/017: Health Support Program (Part II)” is hereby ratified.

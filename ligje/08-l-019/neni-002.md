@@ -1,0 +1,2 @@
+# Neni 2
+Ratifikimi i amendamentimit 02 të Marrëveshjes Bilaterale ndërmjet Qeverisë së Republikës së Kosovës dhe Qeverisë së Dukatës së Madhe të Luksemburgut për Projektin e Bashkëpunimit për Zhvillim “KSV/017: Programi për Mbështetje Shëndetësore (Pjesa II)” Ratifikohet amendamentimi 02 i Marrëveshjes ndërmjet Qeverisë së Republikës së Kosovës dhe Qeverisë së Dukatës së Madhe të Luksemburgut për “Projektin e Bashkëpunimit për Zhvillim-KSV/017: Programi për Mbështetje Shëndetësore (Pjesa II)”.
