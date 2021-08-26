@@ -1,0 +1,9 @@
+# Neni 4
+Aplikimi për regjistrim në regjistër
+1. Çdo person fizik apo juridik që dëshiron të regjistrohet në regjistër duhet ta dorëzoj aplikacionin në formular standard në kopje fizike apo elektronike përmes souftuerit STRATLINK, së bashku me dokumentet përkatëse në Departament. Aplikuesi apo përfaqësuesi i tij, të cilit i është dhënë kjo e drejtë duhet ta nënshkruaj aplikacionin.
+2. Formulari i aplikacionit për regjistrim në regjistër bëhet në përputhje me Udhëzimin përkatës Administrativ për formularin e regjistrimit, formën e licencës, certifikatës, lejes dhe aplikacionit për kontrollin e mallrave strategjike dhe shërbimeve të ndërlidhura. Aplikacioni duhet të jetë i vërtetuar me vulë dhe nënshkrim të palës përgjegjëse të personit juridik.
+3. Dokumentet të cilat i bashkëngjiten aplikacionit për regjistrimin në regjistër duhet të përmbajnë:
+3.1. Përshkrimin e aktiviteteve komerciale të aplikuesit në të kaluarën dhe përshkrimi i aktiviteteve të planifikuara në të ardhmen, përfshirë: llojet e mallrave të prodhuara, llojet e mallrave, softuerëve, apo teknologjisë që aplikuesi synon ta eksportoj apo importoj, shërbimet që tregtuesi synon t’i ofroj një përshkrim të shkurtër të veprimtarisë tregtuese të huaj në të kaluarën dhe aktualisht, si dhe shtetet me të cilat është bërë tregtia e jashtme;
+3.2. Një listë të punonjësve të angazhuar për ofrimin e shërbimeve që ndërlidhen me mallrat strategjike, përfshirë numrat e tyre personal të identifikimit, datëlindjet, adresat, dhe numrat e telefonit, nëse aplikuesi është person juridik;
+3.3. Një kopje të licencës për aktivitetet që kërkojnë autorizimin nga autoritetet e Qeverisë së Kosovës për trajtimin e mallrave strategjike brenda shtetit, nëse kjo është e zbatueshme;
+3.4.Çdo informatë shtesë që DKTMS mund ta kërkoj, sipas nevojës.
