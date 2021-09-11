@@ -1,0 +1,3 @@
+# Article 3
+Attached documents In the Annex of this Law there is attached the Amendment No. 1 of the Agreement Concerning the Draft Program for Financial Cooperation.
+LAW LAW NO. 08/L -024 ON RATIFICATION OF AMENDMENT NO.1 TO THE AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF KOSOVO AND THE GOVERNMENT OF HUNGARY ABOUT THE ESTABLISHMENT OF A FRAMEWORK PROGRAMME FOR FINANCIAL COOPERATION
