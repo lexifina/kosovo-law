@@ -1,0 +1,171 @@
+REPUBUKA E KOSOVES - PEIIYIiJIHKA KOCOBO - REPUBUC OF KOSOVO
+GJYKATA KUSHTETUESE
+YCTABHH CY.l1: CONSTITUTIONAL COURT
+Prishtine, me 20 gusht 2021
+Nr. ref.: RK 1838/21
+AKTVENDIM PER PAPRANUESHMERI
+ne
+rastin nr. KI96/20
+Parashtrues
+Vegim Bllacaku
+Vleresim i kushtetutshmerise se Aktvendimit te Gjykates Supreme [Rev. nr. 352/2018], te 28 tetorit 2019
+GJYKATA KUSHTETUESE E REPUBLIKES sit KOSOvES
+e perbere nga:
+Gresa Caka Nirnani, kryetare Bajrarn Ljatifi, zevendeskryetar Selvete Gerxhaliu -Krasniqi, gjyqtare Safet Hoxha, gjyqtar Radornir Laban, gjyqtar Rernzije Istrefi-Peci, gjyqtare dhe Nexhrni Rexhepi, gjyqtar
+Parashtruesiikerkeses
+Kerkesa eshte parashtruar nga Vegirn Bllacaku, nga Kornuna e Prishtines (ne 1. tekstin e rnetejrne: parashtruesi i kerkeses).
+Vendimi i kontestuar
+2. Parashtruesi i kerkeses konteston Aktvendimin [Rev. nr. 352/2018] e 28 tetorit 2019 te Gjykates Supreme te Republikes se Kosoves (ne tekstin e metejme: Gjykata Supreme) ne lidhje me Aktvendimin [Ac. nr. 856/2016] e 23 gushtit 2016 te Gjykates se Apelit te Republikes se Kosoves (ne tekstin e metejme: Gjykata e Apelit) dhe Aktgjykimin [C. nr. 1454/10] e 23 marsit 2012 te Gjykates Komunale ne Prishtine.
+3. Parashtruesi i kerkeses aktvendimin e kontestuar e ka pranuar me 3 mars 2020.
+Objekti i ~eshtjes
+4. Objekt i <;eshtjes eshte vleresimi i kushtetutshmerise se aktvendimeve te lartcekura permes te cilave, sipas pretendimit te parashtruesit te kerkeses i jane shkelur te drejtat dhe lirite themelore te tij te garantuara me nenin 31 [E Drejta per Gjykim te Drejte dhe te Paanshem], 49 [E Drejta e Punes dhe Ushtrimit te Profesionit] te Kushtetutes se Republikes se Kosoves (ne tekstin e metejme: Kushtetuta) si dhe nenin 6 (E drejta per nje proces te rregullt) te Konventes Evropiane per te Drejtat e Njeriut (ne tekstin e metejme: KEDNj).
+Bazajuridike
+5. Kerkesa bazohet ne paragrafet 1 dhe 7 te nenit 113 te Kushtetutes se Republikes se Kosoves (ne tekstin e metejme: Kushtetuta), ne nenet 22 [Procedimi i kerkeses] dhe 47 [Kerkesa individuale] te Ligjit per Gjykaten Kushtetuese te
+Republikes se Kosoves, nr. 03/L-121 (ne tekstin e metejme: Ligji) dhe ne . rregullin 32 [Parashtrimi i kerkesave dhe pergjigjeve] te Rregullores se punes
+se Gjykates Kushtetuese te Republikes se Kosoves (ne tekstin e metejme: Rregullorja e punes).
+Procedura ne Gjykaten Kushtetuese
+6. Me 18 qershor 2020, parashtruesi e dorezoi kerkesen ne Gjykaten Kushtetuese te Republikes se Kosoves (ne tekstin e metejrne: Gjykata).
+7. Me 23 qershor 2020, Kryetarja e Gjykates caktoi gjyqtarin Nexhmi Rexhepi gjyqtar raportues. Te njejten dite, Kryetarja caktoi Kolegjin shqyrtues, te perbere nga gjyqtaret: Gresa Caka-Nimani (kryesuese), Bajram Ljatifi dhe Safet Hoxha.
+8. Me 3 korrik 2020, Gjykata e njoftoi parashtruesin per regjistrimin e kerkeses. Ne po te njejten dite, Gjykata i dergoi nje kopje te kerkeses Gjykates Supreme.
+9. Me 3 korrik 2020, Gjykata e njoftoi per regjistrimin e kerkeses Gjykaten Themelore ne Prishtine (ne tekstin e metejme: Gjykata Themelore) dhe kerkoi nga ajo dorezimin e fletektheses qe deshmon se kur parashtruesi e ka pranuar aktvendimin e kontestuar te Gjykates Supreme.
+10. Me 7 korrik 2020, Gjykata Themelore dorezoi ne Gjykate fletekthesen qe deshmon se parashtruesi i kerkeses, Aktvendimin e kontestuar e kishte pranuar me 3 mars 2020.
+11. Me 25 maj 2021, bazuar ne piken 1.1 te paragrafit 1 te nenit 9 (Perfundimi i mandatit para kohes) te Ligjit dhe Rregullit 7 (Doreheqja e gjyqtareve) te Rregullores se Punes, Gjyqtari Bekim Sejdiu paraqiti doreheqjen e tij nga pozita e gjyqtarit prane Gjykates Kushtetuese.
+12. Me 26 qershor 2021, bazuar ne paragrafin 4 te Rregullit 12 te Rregullores se punes dhe Vendimit te Gjykates KK-SP 71-2/21, gjyqtarja Gresa Caka-Nimani mori detyren e Kryetares se Gjykates, ndersa bazuar ne piken 1.1 te paragrafit 1 te nenit 8 (Perfundimi i mandatit) te Ligjit, Kryetarja Arta Rama-Hajrizi perfundoi mandatin e Kryetares dhe te gjyqtares se Gjykates Kushtetuese.
+13. Me 29 korrik 2021, Kolegji shqyrtues e shqyrtoi raportin e gjyqtarit raportues dhe njezeri i rekomandoi Gjykates papranueshmerine e kerkeses.
+Permbledhja e fakteve
+14. Parashtruesi i kerkeses ishte i punesuar ne Kompanine e Sigurimit Fizik, Teknik dhe Elektronik WDG (ne tekstin e metejme: Kompania WDG), ne poziten e rojes, sipas kontrates [0422/06] per nje periudhe te caktuar, perkatesisht nga 1 marsi 2006 deri me 28 shkurt 2007.
+15. Me 23 maj 2006, Kompania WDG mori vendim qe te nderpres punesimin e parashtruesit te kerkeses.
+16. Ne nje date te paspecifikuar, parashtruesi i kerkeses paraqiti ankese ne Gjykaten Komunale ne Prishtine kunder vendimit per nderprerjen e punesimit te tij nga Kompania WDG.
+17. Me 16 maj 2007, Gjykata Komunale ne Prishtine permes Aktgjykimit [C1. nr. 153/2006] e anuloi vendimin e Kompanise WDG per nderprerjen e punesimit te parashtruesit te kerkeses dhe vendosi qe ky i fundit te kthehet ne vendin e punes me te gjitha te drejtat nga marredhenia e punes nga 23 maji 2006.
+18. Me 26 qershor 2010, parashtruesi i kerkeses paraqiti padi ne Gjykaten Komunale ne Prishtine, kunder Kompanise WDG, me propozimin qe te kompensohet financiarisht prej 23 majit 2006 e deri me 28 shkurt 2010, meqe Kompania WDG nuk e kishte zbatuar Aktgjykimin [C1. nr. 153/2006] e 16 majit 2007 te Gjykates Komunale ne Prishtine.
+19. Me 23 mars 2012, Gjykata Komunale ne Prishtine permes Aktgjykimit [C. nr. 1454/10] e refuzoi kerkesen e parashtruesit te kerkeses me arsyetimin se Kompania WDG, me 1 korrik 2011, kishte permbushur detyrimin e gjykuar financiar ne emer te pagave te papaguara per periudhen 23 maj 2006 deri me
+28 shkurt 2007, aq sa ishte e vlefshme kontrata e punes, ne vlere prej 2.393.59 euro. Per me teper, Gjykata Komunale ne Prishtine arsyetoi se parashtruesi i kerkeses nuk kishte argumentuar kerkesen e tij per kompensim financiar mbi ate se kishte kontrate te vlefshme te punes deri ne vitin 2010 apo deri me 28 shkurt 2008.
+Me 9 tetor 2012, parashtruesi paraqiti padi ne Gjykaten Themelore ne 20. Prishtine kunder Kompanise WDG, duke kerkuar qe te detyrohet kjo e fundit qe t'ia kompensoje pagat mujore, nga 28 shkurti 2007 deri me 26 qershor 2008, ne vlere prej 3.824.00 euro me kamate ligjore.
+Me 5 nentor 2015, Gjykata Themelore ne Prishtine permes Aktvendimit [C. nr. 21. 2699/12] vendosi qe te refuzoje padine si te palejueshme me arsyetimin se parashtruesi i kerkeses nuk kishte kontestuar Aktgjykimin [C. nr. 1454/10] e 23 marsit 2012 te Gjykates Komunale ne Prishtine, permes te cilit ishte vendosur njehere lidhur me pretendimet e parashtruesit te kerkeses dhe ishin vertetuar faktet lidhur me kompensimin financiar nga Kompania WDG, dhe rrjedhimisht, ~eshtja konkrete e parashtruesit te kerkeses sipas Gjykates Themelore ne Prishtine perben tashme ~eshtje te gjykuara sipas nenit 166 dhe 391 te LPK-se.
+Ne nje date te specifikuar, parashtruesi i kerkeses paraqiti ankese kunder 22. Aktvendimit [C. nr. 2699/12] te Gjykates Themelore te 5 nentorit 2015 ne
+Gjykaten e Apelit me pretendimin per aplikim te gabuar te se drejtes materiale dhe vertetim te gabuar te gjendjes faktike, me propozimin qe te prishet aktvendimi i kontestuar dhe ~eshtja te kthehet ne rigjykim.
+Me 23 gusht 2016, Gjykata e Apelit permes Aktvendimit [Ac. nr. 856/2016] 23. refuzoi ankesen e parashtruesit te kerkeses dhe vertetoi Aktvendimin [C. nr. 2699/12] te 5 marsit 2015 te Gjykates Themelore ne Prishtine, me arsyetimin se kjo e fundit e kishte vendosur/refuzuar tashme pretendimin e parashtruesit sa i perket kompensimit financiar per periudhen 23 maj 2006 deri me 28 shkurt 2010.
+Me 18 qershor 2019, parashtruesi i kerkeses i dergoi shkrese Kompanise WDG 24. dhe kerkoi qe duke u bazuar ne Aktgjykimin [Cl. nr. 153/2006] te 16 majit
+2006 te Gjykates Komunale ne Prishtine, t' ia mundesoj rikthimin ne vendin e punes.
+Ne nje date te specifikuar, parashtruesi i kerkeses paraqiti ankese kunder 25. Aktvendimit [Ac. nr. 856/2016] te 23 gushtit 2016 te Gjykates se Apelit ne
+Gjykaten Supreme me pretendimin per aplikim te gabuar te se drejtes materiale dhe vertetim te gabuar te gjendjes faktike, me propozimin qe te prishte aktvendimin e kontestuar dhe qe ~eshtja te kthehet ne rigjykim.
+Me 28 tetor 2019, Gjykata Supreme permes Aktvendimit [Rev. nr. 352/2018] 26. refuzoi ankesen e parashtruesit te kerkeses dhe vertetoi Aktvendimin e Gjykates se Apelit, me arsyetimin se ky i fundit nuk ishte i perfshire ne shkelje thelbesore te dispozitave te procedures kontestimore dhe gjithashtu per
+~eshtjen e njejte ekziston Aktgjykimi [C. nr. 1454/10] i 23 marsit 2012 te Gjykates Komunale ne Prishtine. Gjykata Supreme, nder te tjera, vleresoi se neni 391, paragrafi 1 i LPK-se parasheh se gjykata hedhe poshte padine nese konstaton se per ~eshtjen e ngritur me padine ekziston gjyqvaresia.
+Pretendimet e parashtruesit te kerkeses
+Parashtruesi i kerkeses pretendon se gjykatat e rregullta kane shkelur te 27. drejtat e tij te garantuara me nenet 21 [Parimet e Pergjithshme], nenin 31 [E Drejta per Gjykim te Drejte dhe te Paanshem], nenin 49 [E Drejta e Punes dhe Ushtrimit te Profesionit] te Kushtetutes, si dhe nenin 6 [E drejta per nje proces te rregullt] te KEDNj-se. .
+Parashtruesi i kerkeses pretendon si ne VlJlm: "Sepse ne Aktgjyldmin 28. Cl.nr.153/2006 te Gjykates Komunale te Prishtines eshte percaktuar qarte se Kompania e sigurimeve Fizike WDG e ka per detyre te me kthej ne vendin
+tim te punes dhe te me kompensoje te ardhurat nga marredhenia e punes deri ne kthimin ne vendin tim te punes. Ky aktgjykim nuk eshte permbushur ne teresi nga Kompania WDG, e dla m'i ka realizuar pagesat vetem per periudhen 23.05.2006 -28.02.2007, ndersa per periudhen nga 28.02.2007 e deri 28.02.2008 sa kam qene pa pune nuk me jane kompensuar te njejtat sepse WDG nuk me ka kthyer ne vendin tim te punes dhe e kane shkeputur kontraten e punes pa me kthyer fare ne vendin tim te punes. Kjo mos permbushje nga detyrimi i Aktgjykimit Cl.nr.153/2006 i plotfuqishem i
+Gjykates Komunale te Prishtines e ka cenuar tif drejten time te punes si dhe te drejten e ekzistences sodale mua dhefamiljes time, si mbajtes ifamiljes pa te ardhura mujore per ekzistence".
+Me tutje, parashtruesi i kerkeses thekson: "Po ashtu, nuk eshte marre asnje 29. vendim tjeter nga kompania per shkeputjen e kontrates valide ndermjet meje dhe punedhenesit. Nje fakt i tille, nenkupton se une kam qene ne marredhenie pune ne kompanine e sigunmit fizik WDG den me 23.08.2008, kur duke pare se e njejta nuk me mundesonte kthimin ne pune, jam detyruar te krijoj
+marredhenie te re te punes".
+Pergjate pretendimeve te tij, parashtruesi i kerkeses thekson: "Prandaj 30. kerkesepadia ime me nr. C.nr.2699/12 e 09. 10. 2012 nuk eshte gje e gjykuar siC; eshte e parapare ne nenin 166.2 te LPK-se sepse une kam parashtruar padi per periudhen kohore sa kam qene i papune. Ndersa kompania e sigurimit WDG ka qene e detyruar te me kthej ne vendin e punes, flasim ketu per penudhen kohore nga 01.03.2007 den 23.06.2008. Ku per te njejten periudhe gjykata nuk ka vendosur dhe nuk ka kurrfare aktgjykimi apo aktvendimi prandaj; nuk mund te thuhet se eshte gje e gjykuar".
+31. Perfundimisht, parashtruesi i kerkeses kerkon nga Gjykata: (i) te deklaroje kerkesen te pranueshme; (ii) te konstatoje se ka pasur shkelje te nenit 31 te Kushtetutes, ne lidhje me nenin 6 te KEDNJ-se, (iii) te deklaroje te pavlefshem Aktvendimin e Gjykates Supreme [Rev. nr. 352/2018] te 28 tetorit 2019 dhe te kthej kete te fundit ne rivendosje.
+Dispozitat Relevante Kushtetuese dhe Ligjore
+KUSHTETUTA E REPUBLlKES sit KOSOvES
+Neni31
+[E Drejta per Gjykim te Drejte dhe te Paansheml
+l.<;dokujt i garantohet mbrojtje e barabarte e te drejtave ne procedure para gjykatave, organeve te tjera shteterore dhe bartesve te kompetencave publike.
+2. <;dokush gezon te drejten per shqyrtim publik te drejte dhe te paanshem lidhur me vendimet per te drejtat dhe obligimet ose per cilendo akuze penale qe ngrihet kunder saj/tij brenda nje afati te arsyeshem, nga nje
+gjykate e pavarur dhe e paanshme, e themeluar me ligj.
+[ .... J
+KONVENTA EVROPIANE PER TE DREJTAT E NJERIUT
+Neni6
+(E drejta per nje proces te rregullt)
+"Ne percaktimin e te drejtave dhe detyrimeve te tij civile ose te ~do akuze penale kunder tij, ~do person ka te drejte qe ~eshtja e tij te degjohet drejtesisht, publikisht dhe brenda nje afati te arsyeshem nga nje gjykate e pavarur dhe e paanshme".
+Rregullore nr. 2001/27 per Ligjin Themelor te Punes ne Kosove, i 8 tetorit 2001
+Neni 10
+Kontrata e punes
+10.1 Kontrata e punes mund te lidhet:
+[ ... ]
+(a) per nje kohe te pacaktuar ose (b) per nje kohe te caktuar.
+Neni 11
+Shkeputja e kontrates se punes
+11.1 Kontrata e punes shkeputet:
+(a) me rastin e vdekjes se punonjesit; (b) me marreveshje me shkrim ndermjet punonjesit dhe punedhenesit;
+(c) ne rastet e renda te sjelljes se keqe nga punonjesit;
+(~) per shkak te permbushjes se pakenaqshme te detyrave te punes
+nga ana e punonjesit; (d) me skadimin e kohezgjatjes se punesimit; dhe
+(dh) sipas jUqise ligjore.
+[ ... J
+Vleresimi i pranueshmerise se kerkeses
+32. Gjykata fillimisht shqyrton nese parashtruesi i kerkeses i ka permbushur kriteret e pranueshmerise, te percaktuara me Kushtetute, te parashikuara me Ligj dhe te specifikuara me tej me Rregullore te punes.
+33. Ne kete drejtim, Gjykata fillimisht iu referohet paragrafeve 1 dhe 7 te nenit 113 te Kushtetutes, te cilet percaktojne:
+"(1) Gjykata Kushtetuese vendos vetem per rastet e ngritura para gjykates ne menyre ligjore nga pala e autorizuar.
+[ ... ]
+(7) Individet jane te autorizuar te ngrene shkeljet nga autoritetet publike te te drejtave dhe lirive te tyre individuale, te garantuara me Kushtetute, mirepo vetem pasi te kene shteruar te gjitha mjetet juridike te percaktuara me ligj".
+34. Ne vazhdim, Gjykata shqyrton nese parashtruesi i kerkeses i ka permbushur kriteret e pranueshmerise, siC; parashikohen ne Ligj. Ne kete drejtim, Gjykata i referohet neneve 47 [Kerkesa individuaIe], 48 [Saktesimi i kerkeses] dhe 49 [Matet] te Ligjit, te cilet parashikojne:
+Neni47
+[Kerkesa individuale]
+1. "C;do individ ka te drejte te kerkoje nga Gjykata Kushtetuese mbrojtje juridike ne rast se pretendon se te drejtat dhe lirite e tija individuale te
+garantuara me Kush tetu te jane shkelur nga ndonje autoritet publik.
+2.Individi mund ta ngrite kerkesen ne jjale vetem pasi qe te kete shteruar
+te gjitha mjetet juridike te percaktuara me ligj".
+Neni 48
+[Saktesimi i kerkeses]
+"Parashtruesi i kerkeses ka per detyre qe ne kerkesen e tij te qartesoj saktesisht se cilat te drejta dhe liri pretendon se ijane eenuar dhe eili eshte akti konkret i autoritetit publik te eilin parashtruesi deshiron ta kontestoj".
+Neni49
+[AfatetJ
+"Kerkesa parashtrohet brenda afatit prej kater (4) muajve. Afati filIon te eee qe nga dita kur parashtruesit i eshte dorezuar vendimi gjyqesor.[ ... J".
+Per sa i perket permbushjes se ketyre kritereve, Gjykata konstaton se 35. parashtruesi i kerkeses eshte pale e autorizuar, i cili konteston nje akt te nje autoriteti publik, perkatesisht Aktvendimin e Gjykates Supreme [Rev. nr. 352/2018] te 28 tetorit 2019, pasi i ka shteruar te gjitha mjetet juridike te percaktuara me ligj. Parashtruesi i kerkeses gjithashtu ka qartesuar te drejtat dhe lirite qe ai pretendon se i jane shkelur, ne pajtim me kerkesat e nenit 48 te Ligjit dhe e ka dorezuar kerkesen ne pajtim me afatet e percaktuara ne nenin 49 te Ligjit.
+Perve<; kesaj, Gjykata shqyrton nese parashtruesi i kerkeses ka permbushur 36. kriteret e pranueshmerise te percaktuara ne rregullin 39 [Kriteret e pranueshmerise] . te Rregullores se punes. Rregulli 39 (2) i Rregullores se punes percakton kriteret ne baze te se cilave Gjykata mund te shqyrtoje kerkesen, duke perfshire kriterin qe kerkesa te mos jete qartazi e pabazuar. Specifikisht, rregulli 39 (2) percakton qe:
+"(2) Gjykata mund ta konsideroje kerkesen te papranueshme, nese kerkesa eshte qartazi e pabazuar, sepse parashtruesi nuk deshmon dhe nuk mbeshtete ne menyre te mjaftueshme pretendimin e tij".
+Gjykata rikujton se ne substance pretendimi kryesor i parashtruesit te 37. kerkeses eshte shkelja e te drejtave te garantuara me nenin 31 [E Drejta per Gjykim te Drejte dhe te Paanshem] te Kushtetutes ne lidhje me nenin 6 (E drejta per nje proces te rregullt) te KEDNJ-se, me arsyetimin se ne baze te Aktgjykimit [Cl. nr. 153/2006] te Gjykates Komunale te Prishtines te 16 majit
+2007, Kompania WDG e ka kompensuar parashtruesin e kerkeses vetem per periudhen sa kishte kontrate te vlefshme, respektivisht prej 23 majit 2006 e deri me 28 shkurt 2007, ndersa sipas parashtruesit te kerkeses, Kompania WDG do te duhej ta kishte kompensuar edhe per periudhen pas perfundimit te kontrates se punes, respektivisht prej 28 shkurtit 2007 e deri me 28 shkurt
+2008, me arsyetimin se kontrata e tij e punes ishte nderprere dhe rikthimi i tij ne pune nuk kishte ndodhur asnjehere, e gjitha kjo, sipas parashtruesit te kerkeses rezulton ne moszbatim te plote te Aktgjykimit [Cl. nr. 153/2006] te Gjykates Komunale te Prishtines, te 16 majit 2007.
+Gjykata veren se parashtruesi i kerkeses pretendon se Aktgjykimi [Cl. nr. 38. 153/2006] i Gjykates Komunale te Prishtines, te 16 majit 2007, nuk eshte zbatuar ne teresi nga Kompania WDG me arsyetimin se kjo e fundit per periudhen sa parashtruesi nuk ishte i punesuar dhe i rikthyer ne pune, respektivisht per periudhen pas skadimit te kontrates, prej 28 shkurtit 2007 e deri me 28 shkurt 2008, nuk ishte kompensuar. Gjykata veren se parashtruesi i kerkeses ne anen tjeter pretendon se 39. Kompania WDG do te duhej ta kishte kompensuar deri me 23 gusht 2008, me arsyetimin se ka qene ne marredhenie pune edhe gjate kesaj periudhe kohore dhe se Kompania WDG nuk kishte ndermarre asnje veprim formal per shkeputje te kontrates se punes te lidhur me date 1 mars 2006.
+Gjykata rikujton se parashtruesi i kerkeses kishte kontrate per nje periudhe te 40. caktuar me Kompanine WDG, nga 1 marsi 2006 deri me 28 shkurt 2007.
+Ndersa, marredhenia e tij e punes ishte nderprere nga Kompania WDG, me 23 maj 2006, pa i skaduar akoma kontrata e punes.
+Gjykata rikujton se parashtruesi i kerkeses konteston vendimin per 41. nderprerjen e punesimit nga ana e Kompanise WDG, duke iniciuar kontest gjyqesor fillimisht ne Gjykaten Komunale ne Prishtine.
+Ne kete drejtim, Gjykata fillimisht iu referohet pjeses relevante te Aktgjykimit 42. [C1. nr. 153/2006] te Gjykates Komunale ne Prishtine, te 16 majit 2007, e cila vendosi si ne vijim:
+"APROVOHET kerkesepadia e paditesit Vegim Bllacaku nga Prishtina, ANULOHET si i kunderligjshem vendimi i te paditures KS fizik WDG -SHA Drejtoria Qendrore ne Kastriot, nr.1260106 I DT. 23.05.2006 me te cilin paditesit i eshte shkeputur kontrata e punes dhe DETYROHET e paditura
+qe paditesin ta kthej ne pune dhe detyra te punes me te gjitha te drejtat nga marredhenia e punes qe nga dt. 23.05.2006, ne afatin prej 8 ditesh nga dita e plotfuqishmerise se ketij aktgjykimi, nen kanosjen e permbarimit me dhune".
+Gjykata veren se Gjykata Komunale ne Prishtine permes Aktgjykimit [C1. nr. 43. 153/2006] te 16 majit 2007 kishte aprovuar ankesen e parashtruesit te kerkeses dhe kishte detyruar kompanine WDG qe ta kthej parashtruesin e kerkeses ne pune me te gjitha te drejtat nga marredhenia e punes qe nga dita e largimit, perkatesisht nga 23 maji 2006, por sipas parashtruesit te kerkeses,
+Kompania WDG nuk e kishte rikthyer ne pune - e kjo sipas tij perben moszbatim ne teresi te ketij Aktgjykimi te Gjykates Komunale ne Prishtine, i cili ishte ne favor te parashtruesit te kerkeses.
+44. Ne vijim, Gjykata veren se parashtruesi i kerkeses ishte ankuar ne Gjykaten Komunale ne Prishtine, duke kerkuar kompensimin financiar lidhur me pagat nga 23 maji 2006 deri me 28 shkurt 2010, periudhe kjo e cila perf shin kohen pas skadimit te kontrates se punes se parashtruesit te kerkeses me Kompanine WDG - me arsyetimin se nuk ishte rikthyer ne vendin e punes ashtu siC; e percaktonte Aktgjykimi [C1. nr. 153/2006] i 16 majit 2007, i Gjykates Komunale ne Prishtine.
+Ne kete kontekst, Gjykata do t'i referohet pjeses relevante te Aktgjykimit [C. 45. nr. 1454/10] te Gjykates Komunale ne Prishtine, te 23 majit 2012, i cili theksonse:
+"E paditura me daten 01.07.2011 ndaj paditesit ka permbushur obligimin financiar ne emer te pagave te papaguara per periudhen 23.05.2006 deri me daten 28.02.2007, deri ne afatin e vlefshmerise se kontrates se punes dhe tabeles se pagave, ne shume te pergjithshme prej 2.393.59 euro, fakt jokontestues mes paleve. Shume kjo e konfirmuar edhe me ekspertizen financiare sipas se ciles paga neto e paditesit ka qene 239,93 euro. Andaj, gjykata vendosi si ne dispozitiv meqenese paditesi perkunder obligimit me dispoziten e nenit 7 dhe 319 te LPK-se nuk arriti te argumentoj se me te padituren ka pas kontrate pune gjere me vitin 2010, me saktesisht gjere
+me 28.02.2008".
+Gjykata veren se parashtruesi i kerkeses ishte kompensuar financiarisht nga 46. Kompania WDG, ne emer te pagave te papaguara per periudhen kohore sa kishte kontrate valide, perkatesisht prej 23 majit 2006 deri me 28 shkurt 2007, ndersa per periudhen pas 28 shkurtit 2007, parashtruesi i kerkeses nuk kishte argumentuar se kishte kontrate pas kesaj periudhe, ne menyre qe t'i akordohet kompensimi financiar.
+Ne vazhdim, Gjykata veren se parashtruesi i kerkeses perseri ishte ankuar ne 47. Gjykaten Themelore ne Prishtine me pretendimin e njejte, duke kerkuar qe te detyrohet Kompania WDG te kompensoje ne emer te pagave mujore parashtruesin e kerkeses per periudhen 28 shkurt 2007 deri me 23 qershor 2008, ne vlere prej 3.824.00 euro, por ankesa e tij ishte refuzuar me arsyetimin se rasti i parashtruesit te kerkeses perbente c;eshtje te gjykuar ne kuptim te nenit 166 dhe 391 te LPK-se sepse rasti i parashtruesit te kerkeses lidhur me pretendimin e tij per kompensim financiar gjere me 23 qershor
+2008 ishte trajtuar, vendosur dhe ne fund ishte refuzuar permes Aktgjykimit [1454/10] te Gjykates Komunale ne Prishtine, te 23 majit 2012, i cili kishte arsyetuar si ne vijim:
+"Ne seancen pergatitore te dates 05.11.2015, perfaqesuesi i te paditures e ka njoftuar gjykaten se lidhur me c;eshtjen konkrete juridike eshte zhvilluar edhe nje procedure tjeter prane kesaj gjykate dhe ne ate procedure me aktgjykim C.nr.14541Jo te dates 23.03.2012, eshte rejuzuar
+kerkesepadia e paditesit per detyrimin e te paditures per kompensimin e pagave per periudhen kohore 23.05.2006 deri me 28.02.2010, pra perfshire edhe periudhen kohore per te cilen eshte paraqitur padia e dates
+09.10.2012. Gjykata pasi vleresoi proven e prezantuar gjegjesisht, aktgjykimin C.nr.1454/10 dhe pas vertetimit te faktit se kunder aktgjykimit ne jjale, paditesi nuk ka paraqitur ankese, keshtu bazuar ne faktin se c;eshtja konkrete juridike perben c;eshtje te gjykuar, konform nenit 166, pika 2 dhe nenit 391, paragrafit 1) pikes (d) te Ligjit per proceduren kontestimore (LPK) ... ".
+Me tutje, Gjykata veren se parashtruesi i kerkeses me pas ishte ankuar ne 48. Gjykaten e Apelit, e cila kishte refuzuar ankesen si te pabazuar permes Aktvendimit [Ac. nr. 856/2016] te 26 gushtit 2016, e cila nder te tjera, kishte arsyetuar si ne vijim:
+"Pretendimet ankimore te paditesit kjo gjykate i vlereson si te pabazuara pasi qe gjykata e shkalles e pare nuk ka bere aplikim te gabuar te se
+drejtes materiale per te cilen 190 gjykate kujdeset sipas detyres zyrtare, e ne anen tjeter nga shkresat e len des shihet qarte se Gjykata Komunale ne Prishtine me Aktgjykimin C.nr.1454/20 10 te dates 23.03.2012 e ka rejuzuar kerkesepadine e paditesit per detyrimin e te paditures per kompensimin e pagave per periudhen 23.05.2006 gjere me daten 28.02.2010, pra perfshire edhe periudhen kohore per te cilen eshte paraqitur padia e paditesit per kompensimin e te ardhurave personale".
+Ne fund, Gjykata veren po ashtu se revizioni i paraqitur kunder aktvendimit te 49. lartcekur ne Gjykaten Supreme ishte refuzuar nga kjo e fundit permes
+Aktvendimit [Rev. m. 352/2018] te 28 tetorit 2019, i cHi kishte arsyetuar si ne VlJlm:
+"Vleresimi i gjykatave te instancave me te uleta mbi palejueshmerine e padise ka mbeshtetje ne dispozitat ligjore. Neni 391, par 1 pika (d) i LPK-se parashikon se gjykata me aktvendim e hedh poshte padine si te palejueshme po qe se konstaton se c;eshtja eshte gje e gjykuar (res iudicata). Ne rastin konkret, per c;eshtjen e njejte ekziston aktgjykimi i gjykates se shkalles se pare ne Prishtine, C. nr. 1454/10 dt.23.03.2012 ... ".
+Gjykata veren se Gjykata Komunale ne Prishtine permes Aktgjykimit [C1. nr. 50. 153/2006] te 16 majit 2007 vendosi qe parashtruesin e kerkeses ta kthej ne vendin e punes me te gjitha te drejtat nga marredhenia e punes nga 23 maji
+2006.
+Gjykata veren se punedhenesi, perkatesisht Kompania WDG, e kishte 51. kompensuar financiarisht ne emer te pagave mujore parashtruesin e kerkeses ne vIere 2.393.59 euro per periudhen nga 23 maji 2006, dita kur ishte Iarguar nga puna, deri me 28 shkurt 2007, diten kur parashtruesit te kerkeses i skadonte kontrata e punes.
+Gjykata veren se parashtruesi i kerkeses pretendon se Kompania WDG per 52. periudhen nga 28 shkurti 2007, dita kur kontrata e punes skadonte, e deri me 28 shkurt 2008 nuk eshte kompensuar duke perfshire periudhen edhe pas skadimit te kontrates dhe ne fund as nuk eshte kthyer ne vendin e punes.
+Gjykata veren se kontrata e punes se 1 marsit 2006 e Iidhur ne mes 53. parashtruesit te kerkeses dhe Kompanise WDG ishte krijuar duke u mbeshtetur ne dispozitat 9, 10 dhe 11 te Rregullores se UNMIK-ut 2001/27 per Ligjin Themelor te Punes ne Kosove, te 8 tetorit 2001.
+54. Ne kete kontekst, Gjykata veren se neni 11.1, paragrafi d) i Rregullores se UNMIK-ut 2001/27 per Ligjin Themelor te Punes ne Kosove, te 8 tetorit 2001, percaktonte shprehimisht se "Kontrata e punes shkeputet me skadimin e kohezgjatjes se punesimit ... ".
+Gjykata rikujton se parashtruesi i kerkeses kishte kontrate me afat te caktuar, 55. me saktesisht nga 1 marsi 2006 e deri me 28 shkurt 2007 dhe i eshte realizuar e drejta e kompensimit te te ardhurave vetem per periudhen deri sa kishte kontrate me Kompanine WDG, dhe se kjo kontrate nuk perbente siguri qe parashtruesit do t'i vazhdohej marredhenia e punes nga punedhenesi edhe pas skadimit te saj.
+Ne kete drejtim, Gjykata veren qe parashtruesit te kerkeses i eshte akorduar 56. kompensimi financiar ne vIere prej 2.393.59 euro, per kohen sa ishte Iarguar ngapuna.
+Gjykata me tej deshiron te thekson se Aktgjykimi i Gjykates Komunale ne 57. Prishtine nuk ka percaktuar se punedhenesi, gjegjesisht Kompania WDG, duhet qe te riperterije marredhenien e punes me parashtruesin e kerkeses pas perfundimit te kontrates me afat te caktuar.
+Per sa i perket pretendimeve te ngritura nga parashtruesi i kerkeses, Gjykata 58. veren se te gjitha vendimet e gjykatave te rregullta shpjeguan dhe arsyetuan se perse parashtruesit te kerkeses iu refuzua kerkesa per kompensimin e pagave per periudhen sa nuk kishte kontrate me punedhenesin.
+Gjykata deshiron te sqaroje se nuk eshte detyre e saj qe te shqyrtoje nese 59. gjykatat e rregullta, ne kete rast Gjykata Themelore dhe Gjykata e Apelit, me aktvendimet e tyre kane interpretuar drejt ligjin e aplikueshem, por te shqyrtoje dhe te marr parasysh nese ajo me vendimet e tyre te lartpermendura kishin cenuar te drejtat dhe lirite individuale te mbrojtura me Kushtetute (kushtetutshmeria).
+Gjykata ka parasysh se parashtruesi gjithashtu pretendon se "kerkesepadia 60. ime me nr. C.nr.2699/12 e 09.10.2012 nuk eshte gje e gjykuar siC; eshte e parapare ne nenin 166. 2 te LPK-se sepse une kam parashtruar padi per periudhen kohore sa kam qene i papune".
+61. Ne lidhje me kete, Gjykata veren se parashtruesi i kerkeses pretendon se kerkesa e tij [C. nr. 2699/12] e 9 tetorit 2012 drejtuar Gjykates se Apelit nuk perben <;eshtje te gjykuar si<; eshte vleresuar nga kjo e fundit permes Aktvendimit [AC. nr. 856/2016] te 23 gushtit 2016, sepse padia e parashtruesit te kerkeses kishte te bente me kompensimin e pagave per nje periudhe tjeter, perkatesisht prej 28 shkurtit 2007 deri me 23 qershor 2008.
+Ne kete aspekt, Gjykata veren se Gjykata e Apelit permes Aktvendimit [Ac. nr. 62. 856/2016] te 23 gushtit 2016 kishte refuzuar kerkesen e parashtruesit te kerkeses si te pathemelte, duke u bazuar ne nenin 208 dhe 209, paragrafi (b) te LPK-se, pasi qe pretendimi i parashtruesit per kompensimin e pagave per
+periudhen sa ishte i papune ishte vendosur dhe sqaruar ne menyre te drejte nga Gjykata Themelore e Prishtines permes Aktvendimit [C. nr. 2699/12] te 15 nentorit 2015, pasi qe, sipas kesaj te fundit, ne baze te nenit 166 dhe 391 te LPK-se, kerkesa e parashtruesit perbente <;eshtje te gjykuara ngase <;eshtja e kompensimit te pagave gjate periudhes sa parashtruesi nuk kishte kontrate pune ishte shqyrtuar dhe refuzuar permes Aktgjykimit [C. nr. 1454/10] te Gjykates Komunale ne Prishtine, te 23 marsit 2012.
+Ne kete aspekt, Gjykata veren se Gjykata Komunale ne Prishtine permes 63. Aktgjykimit [C. nr. 1454/10] te 23 marsit 2012, lidhur me pretendimin e parashtruesit per kompensimin e pagave per periudhen pas 28 shkurtit 2007, kishte vleresuar se " ... paditesi perkunder ohligimit me dispoziten e nenit 7 dhe 319 te LPK-se nuk arriti te argumentoj se me te padituren ka pas kontrate pune gjere ne vitin 2010, me saktesisht gjere me 28.02.2008".
+Gjykata veren se vendimet e gjykatave te rregullta adresuan ankesen e 64. parashtruesit te kerkeses dhe ne fund shpjeguan se perse iu refuzua kerkesa ne lidhje me pretendimet e tij, e qe kryesisht kishte te bente me mosofrimin e provave dhe fakteve te besueshme per ekzistimin e te drejtes se pretenduar dhe ekzistimin e nje marredhenie kontraktuale me Kompanine WDG per periudhen 28 shkurt 2007 deri me 28 shkurt 2008, ne menyre qe t' i akordohet kompensimi i pagave.
+Gjykata thekson se ne praktiken e saj gjyqesore ne shume raste ka konstatuar 65. se c;eshtjet e faktit dhe c;eshtjet e interpretimit dhe zbatimit te ligjit jane brenda fusheveprimit te gjykatave te rregullta dhe te autoriteteve te tjera publike, ne kuptim te nenit 113.7 te Kushtetutes dhe si te tilla jane c;eshtje te ligjshmerise, pervec; dhe perderisa, c;eshtje te tilla rezultojne ne shkelje te te drejtave dhe lirive themelore te njeriut ose krijojne nje situate antikushtetuese (shih, mes tjerash, Gjykata Kushtetuese, rasti nr. KI33/16, parashtruese Minire Zeka, Aktgjykim i 4 gushtit 2018, paragrafi 91; Shih, mutatis mutandis, rasti i Gjykates Kushtetuese KI86/11, parashtrues i kerkeses Milaim Berisha, Aktvendim per papranueshmeri, i 5 prillit 2012; rasti KI122/18, parashtruesi i kerkeses Limak Kosovo IntemationalAirport J. S. C. "Adem Jashari", Aktvendim per papranueshmeri, i 6 nentorit 2019, paragrafi 56; rasti KI128/19, parashtrues i kerkeses Artan Mala, Aktvendim per papranueshmeri, i 20 janarit 2021, paragrafi 40).
+Rrjedhimisht, roli i Gjykates Kushtetuese eshte i kufizuar ne kuptimin e 66. vleresimit te interpretimit te ligjit, ajo duhet te sigurohet dhe te ndermerr masa kur argumentohet se nje gjykate e rregullt ka "aplikuar ligjin ne menyre qartazi te gabuar" ne nje rast specifik dhe i cili mund te kete rezultuar ne "konkluzione arbitrare" apo "qartazi te paarsyeshme" per parashtruesin e kerkeses. (Perkitazi me parimet themelore ne lidhje me interpretimin dhe aplikimin qartazi te gabuar te ligjit, shih nder te tjera, rastin e Gjykates KI154/17 dhe 05/18, parashtrues te kerkeses, Basri Deva, Afiirdita Deva dhe pergjegjesi te me Aktvendim per Shoqeria kujizuar "Barbas", papranueshmeri, i 28 gushtit 2019, paragrafet 60 deri ne 65 dhe referencat e perdorura aty). (Shih, ne kete kontekst, po ashtu rastin e GJEDNJ-se, Anheuser-Busch Inc. kunder Portugalise, Aktgjykim i 11 janarit 2007,
+paragrafi 83; dhe gjithashtu, rastet e Gjykates KI06/17, parashtrues L. G. dhe pese te tjeret, cituar me lart, paragrafi 40; dhe KI122/16, cituar me lart, paragrafi 59).
+Ne kete drejtim, per tli shmangur keqkuptimet nga ana e parashtruesit te 67. kerkeses, duhet pasur parasysh se "drejtesia" qe kerkohet me nenin 31 te Kushtetutes ne lidhje me nenin 6 te KEDNJ-se, nuk eshte drejtesi "substanciale", por drejtesi "procedurale". Ne terma praktik, dhe ne parim, kjo shprehet me procedure kontradiktore, ku palet degjohen dhe vendosen ne te njejtat kushte para Gjykates. (Shih gjithashtu rastin e Gjykates nr. KI42/16 parashtrues Valdet Sutaj, Aktvendim per papranueshmeri, i 7 nentorit 2016, paragrafi 41 dhe referencat tjera te permendura aty; dhe KI49/19, cituar me lart, paragrafi 55).
+Gjykata, veren se parashtruesi i kerkeses nuk pajtohet me rezultatin e rastit te 68. tij. Megjithate, pakenaqesia e parashtruesit te kerkeses me rezultatin e procedures nga gjykatat e rregullta nuk mund vetvetiu te ngreje pretendim te argumentueshem per shkeljen e se drejtes per gjykim te drejte dhe te paanshem (shih, mutatis mutandis, rastin Mezotur - Tiszazugi Tarsulat kunder Hungarise, GJEDNJ, Aktgjykimi i 26 korrikut 2005, paragrafi 21; dhe shih, gjithashtu rastin KI56/17, parashtruese e kerkeses Lumturije Murtezaj, Aktvendim per papranueshmeri, i 18 dhjetorit 2017, paragrafi 42).
+69. Prandaj, bazuar ne si me siper, Gjykata duke u mbeshtetur edhe ne standardet e vendosura ne praktiken e vet gjyqesore ne raste te ngjashme dhe praktiken gjyqesore te GJEDNJ-se, konstaton se parashtruesi i kerkeses nuk ka deshmuar dhe nuk ka mbeshtetur ne menyre te mjaftueshme pretendimet e tij se procedurat prane gjykatave te rregullta ne ndonje menyre ishin te padrejta apo arbitrare dhe se permes Aktvendimit te kontestuar i eshte shkelur e drejta per gjykim te drejte dhe te paanshem, e garantuar me nenin 31 te Kushtetutes ne lidhje me nenin 6 te KEDNJ-se.
+Rrjedhimisht, kerkesa eshte qartazi e pabazuar ne baza kushtetuese dhe 70. deklarohet e papranueshme ne pajtim me rregullin 39 (2) te Rregullores se punes.
+PER KETO ARSYE
+Gjykata Kushtetuese ne pajtim me nenin 113.7 te Kushtetutes, ne nenin 20 te Ligjit dhe rregullat 39 (2) dhe 59 (2) te Rregullores se punes, me 29 korrik 2021 njezeri
+VENDOS
+TE DEKLAROJE kerkesen te papranueshme; I.
+II. T'UA KUMTOJE kete vendim paleve;
+III. TE PUBLIKOJE kete vendim ne Gazeten Zyrtare, ne pajtim me nenin
+20-4 te Ligjit;
+IV. Ky vendim hyn ne fuqi menjehere.
