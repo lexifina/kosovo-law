@@ -1,0 +1,4 @@
+# Neni 4
+Kriteret e gërmimit
+1. Kriteret e gërmimit nënkuptojnë lloje e praktikave dhe metodologjisë arkeologjike që përfshijnë konceptin e gërmimit arkeologjik. Për realizimin e çdo ndërhyrjeje arkeologjike në zonat e mbrojtura arkeologjike nevojitet miratimi me shkrim nga institucioni kompetent, pas dorëzimit të projektit në përputhje me legjislacionin.
+2. Në të gjitha rastet, kur projektet e restaurimit përmbajnë faza të ndërhyrjes arkeologjike duhet të marrin miratimin e institucionit kompetent dhe të përfshijnë në stafin e tyre të punës specialistë arkeologë nga institucionet shtetërore të specializuara në fushën e njejtë së cilës i takon edhe lokaliteti arkeologjik respektivisht gjetjet arkeologjike. I njëjti rregull ndiqet edhe në rastet kur projektet arkeologjike përmbajnë faza restaurimi. Në të gjitha projektet e tjera arkeologjike konsiderohet domosdoshmëri përfshirja në staf e së paku një arkeologu.
