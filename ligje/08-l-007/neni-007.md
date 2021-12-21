@@ -1,0 +1,3 @@
+# Neni 7
+Ndalimi i përdorimit ekskluziv të infrastrukturës së shfrytëzueshme 1. Ndalohet shfrytëzimi ekskluziv i infrastrukturës së shfrytëzueshme nga një ose më shumë operatorë të rrjetit, duke përfshirë infrastrukturën fizike në ndërtesë. Shfrytëzimi ekskluziv i një infrastrukture të shfrytëzueshme nga operatorët e rrjetit, ndaras ose bashkërisht, nuk lejohet në asnjë marrëveshje, akt nënligjor ose dispozitë. Çdo marrëveshje, akt nënligjor ose dispozitë e tillë do të jetë e pavlefshme.
+2. Ndalimi i specifikuar në paragrafin 1 të këtij neni nuk kufizon operatorët e rrjetit për të shfrytëzuar hapësirat në infrastrukturë të shfrytëzueshme për përdorimin e tyre në rast të ndërtimeve aktuale ose të ardhshme bazuar në vërtetimin përkatës.

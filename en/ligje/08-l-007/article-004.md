@@ -1,0 +1,6 @@
+## CHAPTER II
+## ACCESS TO EXISTING PHYSICAL INFFRASTRUCTURE
+# Article 4
+Right of access to existing physical infrastructure 1. Every network operator shall have the right to offer to entrepreneurs providing or authorized to provide electronic communications networks and / or services access to its physical infrastructure in order to deploy elements of high-speed electronic communications networks. The right of access should be provided through a mutual agreement between the parties involved in the process, which will clearly define the rights and obligations arising from this agreement, including the regulation of the financial aspect, ie the price.
+LAW NO. 08/L - 007 ON MEASURES TO REDUCE THE COST OF DEPLOYING HIGH-SPEED ELECTRONIC COMMUNICATIONS NETWORKS 2. Entrepreneurs providing electronic communications networks and/or services shall have the right to provide access to their physical infrastructure to other network operators in order to deploy networks not only electronic communications networks.
+3. Every network operator shall, upon written request of an entrepreneur, meet all reasonable requirements for access to its physical infrastructure, under fair and reasonable terms, including price, in order to deploy elements of high-speed electronic communications networks.

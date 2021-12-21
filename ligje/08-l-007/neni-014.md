@@ -1,0 +1,7 @@
+# Neni 14
+Përjashtimi nga ofrimi i informacionit në pikën e vetme të informacionit 1. Operatori i rrjetit mund të lirohet nga detyrimi për të ofruar informacion në pikën e vetme të informacionit të infrastrukturës ekzistuese fizike në rastet vijuese, nëse:
+1.1. informacioni ka të bëjë me informacionet kritike të përcaktuara në legjislacionin në fuqi;
+1.2. publikimi mund të shkaktojë zbulimin e një informacioni të tillë, qasja në të cilin duhet të kufizohet për shkak të sigurisë kombëtare, sigurisë së rrjetit dhe kërkesave të shëndetit publik.
+2. Duke pasur parasysh paragrafin 1 të këtij neni, operatori i rrjetit brenda pesëmbëdhjetë (15) ditëve, siguron administratorin e pikës së vetme të informacionit dhe rregullatorin përkatës të sektorit me informacion të saktë mbi vendndodhjen e infrastrukturës ndaj së cilës nuk do të aplikohen detyrimet e përcaktuara në nenin 13, të këtij ligji si dhe opinionin me shkrim të rregullatorit të sektorit për përjashtimin.
+3. Administratori i pikës së vetme të informacionit duhet të marrë vendim lidhur me qasjen e jashtëzakonshme, pas marrjes së mendimeve të arsyetuara nga rregullatori përkatës i sektorit dhe pas kryerjes së konsultimit publik sipas nenit 12 paragrafi 2 të këtij ligji.
+4. Administratori i pikës së vetme të informacionit është i autorizuar të vendosë për përjashtimin e detyrimit për të paraqitur informacion në platformën e vetme të informacionit të infrastrukturës së përdorshme.

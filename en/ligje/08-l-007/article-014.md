@@ -1,0 +1,7 @@
+# Article 14
+Exemption from provision of information to single information point 1. A network operator may be relieved of obligation to provide information to the single information point of existing physical infrastructure in the following cases, if:
+1.1. information pertains to critical information defined under the legislation into force;
+1.2. publication can cause disclosure of such information, access to which should be limited due to national security, network safety and public health requirements.
+LAW NO. 08/L - 007 ON MEASURES TO REDUCE THE COST OF DEPLOYING HIGH-SPEED ELECTRONIC COMMUNICATIONS NETWORKS 2. Taking into consideration paragraph 1 of this Article, network operator, within fifteen (15) days shall provide the single information point administrator and relevant sector regulator with a precise information on the location of the infrastructure to which obligations set out in the Article 13 of this Law shall not apply with respective evidence, as well as written opinion of the sector regulator on the exemption.
+3. The single information point administrator shall make a decision regarding exceptional access, after obtaining reasoned opinions from respective sector regulator and after performing a public consultation according to the Article 12 paragraph 2 of this Law.
+4. The single information point administrator is authorized to decide on exemption of obligation to submit information to single information platform of usable infrastructure.

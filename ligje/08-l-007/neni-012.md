@@ -1,0 +1,3 @@
+# Neni 12
+Përjashtimet 1. Detyrimet e parashikuara në nenet 9, 10 dhe 11 të këtij ligji mund të përjashtohen në rast se infrastruktura ekzistuese fizike konsiderohet të jetë teknikisht e papërshtatshme për vendosjen e rrjeteve të komunikimeve elektronike të shpejtësisë së lartë ose në rast të infrastrukturës kritike.
+2. Këto përjashtime duhet të arsyetohen në mënyrë të duhur. Administratori i pikës së vetme të informacionit duhet ta bëjë publik informacionin mbi përjashtimet, në mënyrë që tu jap mundësinë palëve të interesuara që të komentojnë përjashtimet brenda një periudhe prej pesë (5) ditësh pune.

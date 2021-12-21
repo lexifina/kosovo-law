@@ -1,0 +1,9 @@
+# Neni 15
+Të dhënat e mbajtura në pikën e vetme të informacionit 1. Administratori i pikës së vetme të informacionit do të jetë përgjegjës për projektimin e Pikës së Vetme të Informacionit, menaxhimin e tij, ruajtjen dhe administrimin e të dhënave dhe disponueshmërinë. Informacioni vijues duhet të jetë i qasshëm nëpërmjet pikës së vetme të informacionit:
+1.1. informacioni mbi synimin për të ndërtuar infrastrukturë fizike, përfshirë rregullat dhe kushtet për qasje dhe përdorim;
+1.2. të dhënat për çdo infrastrukturë të përdorshme, përfshirë në formatin GIS, që është në pronësi, përdorim ose menaxhim të operatorëve të rrjetit;
+1.3. udhëzime teknike, nëse ka, lidhur me qasjen dhe përdorimin e infrastrukturës së shfrytëzueshme.
+2. Operatori i rrjetit që ka fituar asetin shtetëror në kuadër të të drejtave pronësore është i detyruar të përcaktojë rregullat për përdorimin e tij dhe të ofrojë informacion të plotë për pikën e vetme të informacionit brenda tridhjetë (30) ditëve kalendarike nga transferimi i pronësisë.
+3. Operatori i rrjetit që ka infrastrukturë fizike në përdorim ose në menaxhim duhet të sigurojë informacionin e parashikuar në nën-paragrafët 1.2 dhe 1.3 të paragrafit 1 të këtij neni, në pikën e vetme informative brenda tridhjetë (30) ditëve nga dita kur kanë marrë atë infrastrukturë në përdorim ose në menaxhim.
+LIGJI NR. 08/L - 007 PËR MASAT PËR ULJEN E KOSTOS SË SHTRIRJES SË RRJETEVE TË KOMUNIKIMEVE ELEKTRONIKE TË SHPEJTËSISË SË LARTË 4. Çdo ndryshim në rregulla, afate ose informata, të cilat i’u janë dhënë pikave të vetme të informacionit, duke marrë parasysh paragrafët e mësipërm, duhet të dorëzohen në platformë në baza tremujore ose sipas afateve të përcaktuara nga administratori i pikave të vetme të informacionit pas miratimit të ndryshimit të tyre.
+5. Administratori i pikës së vetme të informacionit duhet të përcaktojë formatin me të cilin të dhënat do të dorëzohen në platformë.

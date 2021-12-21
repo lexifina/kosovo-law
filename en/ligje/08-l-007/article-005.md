@@ -1,0 +1,3 @@
+# Article 5
+Request for access to existing physical infrastructure 1. Request for access under Article 4 of this Law shall be made in writing to the network operator. The request shall specify the network elements for which access is requested, including the time frame for this purpose, according to the provisions of this Law.
+2. The network operator shall, upon receipt of a request for access, respond to the possibility of granting or not access to its physical infrastructure or to reach agreement on specific terms and conditions, including price, within two (2) months of receipt of the request.

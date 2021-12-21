@@ -1,0 +1,5 @@
+# Article 11
+On-site surveys 1. Entrepreneur of electronic communications infrastructure, upon receiving positive response from the network operator, have the rights to request to the network operator, in written form for on-site surveys of specific elements of their physical infrastructure.
+2. Written request specified in paragraph 1 of this Article, shall specify the elements of the network concerned with a view of deploying elements of high-speed electronic communications networks.
+3. On-site surveys of the specified network elements shall be granted under proportionate, non- discriminatory and transparent terms within one (1) month from the date of receipt of the written request.
+LAW NO. 08/L - 007 ON MEASURES TO REDUCE THE COST OF DEPLOYING HIGH-SPEED ELECTRONIC COMMUNICATIONS NETWORKS 4. Entrepreneurs providing or authorized to provide public communications networks that obtain access to information pursuant to this Article shall take appropriate measures to ensure respect for confidentiality, and operating and business secrets.
