@@ -1,0 +1,4 @@
+# Article 29
+Increasing the quota of the Republic of Kosovo 1. The remaining payment for increasing the Kosovo Republic quota for members of the World Bank Group is authorized, namely the full fulfilment of commitments to increase the value of the Quota of the Republic of Kosovo, according to Article 4 of Law No. 03/L-152 for the Membership of the Republic of Kosovo in the International Monetary Fund and World Bank Group Organizations.
+2. The Kosovo Treasury is authorized to proceed with the transfer of funds in the amount up to four million and five hundred thousand euros (4,500,000 €) or equivalent, from the bank balance of the Single Treasury Account and to present and recognize the same as financial asset of the Republic of Kosovo.
+LAW NO. 08/L-066 ON BUDGET APPROPRIATIONS FOR THE BUDGET OF THE REPUBLIC OF KOSOVO FOR YEAR 2022

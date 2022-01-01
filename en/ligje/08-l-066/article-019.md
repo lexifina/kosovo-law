@@ -1,0 +1,4 @@
+# Article 19
+Supervising the implementation of projects 1. In order to implement and supervise projects financed by borrowing and other projects of interest to the Republic of Kosovo, upon the proposal of the Minister of the relevant ministry, the Minister may decide to allow remuneration of relevant experts that are not part of the list of employees of any budget organization that receive a salary from Kosovo Budget, to supervise the implementation of such projects in accordance with the applicable legislation on public debt. In this case, the source of their funding shall be provided.
+2. Supervision of the implementation of the financed projects pursuant to paragraph 1. of this Article may be done only if it is not otherwise provided for by the loan agreement.
+3. Budget organizations implementing one or more projects financed under paragraph 1. of this Article may establish only one project implementation unit.

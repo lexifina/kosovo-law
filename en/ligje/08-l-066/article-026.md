@@ -1,0 +1,3 @@
+# Article 26
+VAT on borrowing projects 1. Within sub program VAT for borrowing-funded projects, funds are appropriated with the purpose of covering VAT, in cases where such taxes are not covered by borrowers.
+2. According to the request from the budgetary organization implementing the borrowing project, with the approval of the Minister, funds from this program are appropriated and transferred to the respective spending category in the respective budgetary (sub) program. These budgetary movements are made excluding the restriction foreseen in the Article 12, paragraph 11. of this law and are not subject to the restrictions of transfers included in Article 30 of the LMFPP or Article 16 of this law.
