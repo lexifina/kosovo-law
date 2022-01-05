@@ -1,0 +1,3 @@
+Ligji Nr. 08/L-006 06 dhjetor 2021
+Shpallur me dekretin Nr. DL-192/2021, datë 16.12.2021 nga Presidentja e Republikës së Kosovës Vjosa Osmani-Sadriu
+____________________________ *Shtojca e Ligjit nr. 08/L-006 “Ligji për Ratifikimin e Amendamentimit të Marrëveshjes Ndërkombëtare me Bankën Evropiane për Investime (BEI) për financimin e projektit për Rehabilitimin e Linjës Hekurudhore 10”, bashkangjitur me ligj janë publikuar në web faqen e Gazetës Zyrtare (gzk.rks-gov.net )
