@@ -1,0 +1,1 @@
+LIGJI NR. 08/L - 029 PËR PUNIMET NGA METALET E ÇMUARA LIGJI NR. 08/L - 029 LIGJ PËR PUNIMET NGA METALET E ÇMUARA Kuvendi i Republikës së Kosovës: Në bazë të nenit 65 (1) të Kushtetutës së Republikës së Kosovës, Miraton: LIGJ PËR PUNIMET NGA METALET E ÇMUARA
