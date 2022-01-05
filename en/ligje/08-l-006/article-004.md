@@ -1,0 +1,3 @@
+# Article 4
+Entry into Force This law shall enter into force fifteen (15) days after publication in the Official Gazette of the Republic of Kosovo. Law No. 08/L-006 06 December 2021
+Promulgated by Decree No. DL-192/2021 dated 16.12.2021 President of the Republic of Kosovo Vjosa Osmani-Sadriu __________________________________ *Annex of the Law No. 08/L-006, “On Ratification the agreement between the Government of the Republic of Kosovo and the European Investment Bank (EIB) for financing the project for the Rehabilitation of Railway Line 10”, attached to the law is published in the website of the Official Gazette (gzk.rks-gov.net)
