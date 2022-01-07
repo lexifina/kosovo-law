@@ -1,0 +1,5 @@
+# Article 57
+Termination of activity 1. The trust service provider shall inform the signatory, the creator of the electronic seal and the Ministry at least (3) three months prior to terminating the activity.
+2. The trust service provider shall ensure the continuity of certification services to the signatory, namely the creator of the electronic seal to a new service provider of the same level, to whom it forwards the complete documentation, while the signatory and the creator of the electronic seal notifies them on the terms of the new service provider.
+LAW NO. 08/L -022 ON ELECTRONIC IDENTIFICATION AND TRUST SERVICES IN ELECTRONIC TRANSACTIONS 3. If the trust service provider does not ensure the continuity of certification services to a new service provider, he/she shall revoke all certificates issued and, within forty-eight (48) hours, notify the Ministry to which he/she submits all the documentation relating to the services provided.
+4. The Ministry shall revoke all certificates issued by the issuing trust service provider, which for whatever reason have not been revoked, at the cost of the service provider.

@@ -1,0 +1,5 @@
+# Neni 57
+Ndërprerja e veprimtarisë 1. Ofruesi i shërbimit të besuar njofton nënshkruesin, krijuesin e vulës elektronike dhe Ministrinë, së paku tre (3) muaj para se të ndërprerje veprimtarinë e tij.
+2. Ofruesi i shërbimit të besuar siguron vazhdimësinë e shërbimeve të certifikimit për nënshkruesin, gjegjësisht krijuesin e vulës elektronike te një ofrues i ri i shërbimit të nivelit të njëjtë të sigurisë, të cilit i përcjell dokumentacionin e plotë, kurse nënshkruesin dhe krijuesin e vulës elektronike i njofton mbi kushtet e ofruesit të ri të shërbimit.
+3. Nëse ofruesi i shërbimit të besuar nuk siguron vazhdimësinë e kryerjes së shërbimeve të certifikimit tek një ofrues i ri i shërbimeve, ai është i obliguar t’i revokojë të gjitha certifikatat e lëshuara dhe brenda dyzet e tetë (48) orëve të njoftoj Ministrinë të cilës i dorëzon tërë dokumentacionin në lidhje me shërbimet e ofruara.
+4. Ministria i revokon të gjitha certifikatat e lëshuara nga ofruesi shërbimit të besuar i cili ka lëshuar certifikatat dhe të cilat për çfarëdo arsye nuk janë revokuar dhe atë në kosto të këtij ofruesi të shërbimit.

@@ -1,0 +1,6 @@
+# Neni 11
+Njohja e mjetit të identifikimit elektronik 1. Kur një Institucion publik ose privat, për një shërbim që e ofron në internet, kërkon identifikimin elektronik për t’u qasur në këtë shërbim, mund të shfrytëzoj mjetet e identifikimit elektronik të lëshuara në një shtet anëtar të BE-së me qëllim të autentifikimit ndërkufitar nëse:
+1.1. mjeti i identifikimit elektronik është lëshuar brenda skemës së identifikimit elektronik, i cili është vendosur në listën e skemave të identifikimit elektronik të publikuara nga Komisioni Evropian;
+1.2. niveli i sigurisë së mjetit të identifikimit elektronik i korrespondon nivelit të barabartë ose më të lartë të sigurisë që kërkohet nga institucioni i cili e aktivizon atë shërbim në internet;
+1.3. institucioni publik ose privat administron një shkallë të mjaftueshme ose më të lartë të sigurisë në lidhje me qasjen në atë shërbim në internet.
+2. Kur një institucion publik ose privat, për një shërbim që e ofron në internet, kërkon identifikimin elektronik për t’u qasur në këtë shërbim, mund të shfrytëzoj mjetet e identifikimit elektronik të lëshuara në një shtet jo-anëtar i BE-së me qëllim autentifikimit ndërkufitar, përmes një marrëveshjeje reciproke.

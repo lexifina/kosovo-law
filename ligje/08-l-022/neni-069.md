@@ -1,0 +1,2 @@
+# Neni 69
+Efekti juridik i shërbimit të kualifikuar të regjistruar të transmetimit elektronik Autoriteti publik, gjegjësisht personi juridik nuk mund të refuzojë pranimin dhe dërgimin e të dhënave përmes përdorimit të shërbimeve të transmetimit elektronik vetëm sepse janë në formë elektronike ose nuk i plotësojnë të gjitha kërkesat e një shërbimi të kualifikuar të regjistruar të transmetimit elektronik.

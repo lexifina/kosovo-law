@@ -1,0 +1,4 @@
+# Neni 30
+Transferimi i detyrave të ofruesit të kualifikuar të shërbimit të besuar 1. Ofruesi i kualifikuar i shërbimit të besuar, në pamundësi të ushtrimit të aktivitetit të tij, mund të i transferoj detyrat e tij të parapara me këtë ligj dhe me aktet nënligjore në zbatim të tij, te një ofrues tjetër i shërbimeve, nëse ky i plotëson kushtet e parapara me këtë ligj për ushtrimin e aktivitetit të njëjtë.
+2. Transferimi nuk e përjashton nga përgjegjësia ofruesin paraprak të shërbimit prej detyrimeve që rrjedhin nga ky ligj.
+3. Kur ofruesi i kualifikuar i shërbimit të besuar e informon paraprakisht përdoruesin mbi transferimin e detyrave nga paragrafi 1. i këtij neni të një ofrues tjetër i shërbimeve kualifikuara të besuara, atëherë ai nuk është përgjegjës për dëmet që rrjedhin nga përdorimi i shërbimeve që tejkalojnë kufizimet e lejuara.

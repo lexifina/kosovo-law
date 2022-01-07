@@ -1,0 +1,8 @@
+# Neni 24
+Vlerësimi i përputhshmërisë së shërbimeve të besuara të kualifikuara 1. Vlerësimin e përputhshmërisë së shërbimeve të besuara të kualifikuara, për të cilat sipas këtij ligji kërkohen kushte të veçanta si dhe kushtet të cilat duhet të plotësohen nga ofruesi i kualifikuar i shërbimeve të besuara për transaksionet elektronike i kryen Ministria.
+2. Vlerësimi i përputhshmërisë nga paragrafi 1. i këtij neni kryhet para se të fillohet ofrimi i shërbimeve të besuara të kualifikuara për certifikim dhe të paktën një herë në njëzet e katër (24) muaj.
+3. Ministria mund të inicioj një vlerësim të jashtëzakonshëm të përputhshmërisë nëse identifikohen parregullsi në ofrimin e shërbimeve të besuara të kualifikuara ose nëse ka ndodhur një incident i cili ka pasur ndikim të konsiderueshëm në sigurinë e informacionit.
+4. Ministria mund t’i bartë kompetencat nga paragrafët 1.,2.,dhe 3. të këtij neni, te një autoritet kompetent për vlerësimin e përputhshmërisë së ofruesve të kualifikuar të shërbimeve të besuara dhe shërbimeve të të besuara të kualifikuara që ata ofrojnë.
+LIGJI NR. 08/L - 022 PËR IDENTIFIKIMIN ELEKTRONIK DHE SHËRBIMET E BESUARA NË TRANSAKSIONET ELEKTRONIKE 5. Nëse vlerësimin e përputhshmërisë e kryen autoriteti kompetent nga paragrafi 4. i këtij neni, ofruesi i kualifikuar i shërbimit të besuar duhet të dorëzojë në Ministri raportin e vlerësimit të përputhshmërisë të lëshuar nga ky autoritet brenda tri (3) ditëve të punës nga dita e pranimit.
+6. Kostoja e vlerësimit të përputhshmërisë, mbulohet nga ofruesi i kualifikuar i shërbimit të besuar.
+7. Lista e standardeve, përmbajtja dhe procedurat për vlerësimin e përputhshmërisë së shërbimeve të besuara të kualifikuara përcaktohen me akt nënligjor.

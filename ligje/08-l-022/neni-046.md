@@ -1,0 +1,8 @@
+# Neni 46
+Vlerësimi i pajtueshmërisë të pajisjeve për krijimin e një nënshkrimi ose vule të kualifikuar elektronike 1. Vlerësimi i pajtueshmërisë së pajisjeve të kualifikuara për krijimin e një nënshkrimi ose vule elektronike me kushtet e përcaktuara në nenin 45 të këtij ligji kryhet nga Ministria.
+2. Pajisjet e kualifikuara për krijimin e nënshkrimit ose vulës elektronike, për të cilat konstatohet se janë në përputhje me kushtet e nenit 45 të këtij ligji, vendosen në regjistrin e pajisjeve të kualifikuara të certifikuara për krijimin e nënshkrimeve ose vulave elektronike.
+3. Ministria mban dhe publikon në uebfaqen e saj një regjistër të pajisjeve të kualifikuara për krijimin e një nënshkrimi ose vule elektronike që janë në pajtueshmëri me kushtet e nenit 45 të këtij ligji.
+4. Regjistri nga paragrafi 2. i këtij neni duhet të përmbaj të dhënat e fundit mbi pajisjet e kualifikuara për krijimin e një nënshkrimi ose vule elektronike që i publikon Komisioni Evropian.
+5. Pajisjet e kualifikuara për krijimin e një nënshkrimi ose vule elektronik të cilat janë të vendosura në regjistrin e përmendur në paragrafin 2. këtij neni, mund të hiqen nëse Ministria konstaton se
+LIGJI NR. 08/L - 022 PËR IDENTIFIKIMIN ELEKTRONIK DHE SHËRBIMET E BESUARA NË TRANSAKSIONET ELEKTRONIKE nuk janë në pajtueshmëri me kushtet e nenit 45 të këtij ligji.
+6. Forma, përmbajtja dhe mënyra e mbajtjes së regjistrit nga paragrafi 2. i këtij neni si dhe mënyra e paraqitjes së kërkesës, formularit dhe dokumentacionit të nevojshëm për regjistrim, në përputhje me rregullat që rregullojnë procedurën e përgjithshme administrative rregullohen me akt nënligjor të nxjerrë nga Ministri.

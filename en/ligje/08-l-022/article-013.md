@@ -1,0 +1,5 @@
+# Article 13
+Use of electronic identification schemes in electronic transactions 1. For the determination of the identity in the electronic transactions are used the electronic identification schemes that are set out in the Register as in Article 12 of this Law.
+2. In cooperation with the public institution, the electronic identification scheme that is set out in the register referred to in Article 12 of this Law may be used to determine the identity of the party.
+3. In the communications of the party with public institution, the identity of the party is verified on the basis of an electronic identification scheme of high-level assurance that replaces the signature of the party.
+4. In the case from paragraph 3 of this Law, the low and substantial level assurance electronic identification scheme may be used if the degree of risk from possible abuse or damage does not consider it necessary to use a high-level assurance scheme, which will be specified in the sub-legal act referred to in paragraph 2 of Article 9 of this Law.

@@ -1,0 +1,6 @@
+# Article 11
+Recognition of electronic identification means 1. When a public or private institution for an online service requires electronic identification to access this service, it may use electronic identification means issued in an EU Member State for purpose of cross-border authentication if:
+1.1. the electronic identification means is issued under an electronic identification scheme that is included in the list of electronic identification schemes published by the European Commission;
+LAW NO. 08/L -022 ON ELECTRONIC IDENTIFICATION AND TRUST SERVICES IN ELECTRONIC TRANSACTIONS 1.2. the assurance level of the electronic identification means corresponds to an assurance level equal to or higher than the assurance level required by the institution which activates that online service;
+1.3. the public or private institution administers the assurance level substantial or high in relation to accessing that service online.
+2. When a public or private institution for an online service requires electronic identification to access this service, it may use electronic identification means issued in an non - EU Member State for purpose of cross-border authentication, through a reciprocal agreement.

@@ -1,0 +1,8 @@
+# Article 23
+Verification of identity of trust qualified service relying parties 1. When issuing a qualified certificate for a trust service, a qualified trust service provider shall verify the identity and, if applicable, any specific attributes of the natural or legal person to whom the qualified certificate is issued, in accordance with provisions of this Law.
+2. The qualified trust service provider verifies the data according to paragraph 1 of this Article:
+2.1. by the physical presence of the natural person or of an authorized representative of the legal person; or 2.2. remotely, using electronic identification means, for which prior to the issuance of the qualified certificate, a physical presence of the natural person or of an authorized representative of the legal person was ensured and which meets the requirements of substantial or high assurance level under Article 9 of this Law;
+2.3 through a qualified electronic signature certificate or a qualified electronic seal issued in accordance with requirements of sub-paragraphs 2.1 or 2.2 of this Article; or 2.4. by using other identification methods recognised at country level which provide equivalent assurance in terms of reliability to physical presence.
+3. For any possible change of the data from paragraph 1 of this Article, a natural or legal
+LAW NO. 08/L -022 ON ELECTRONIC IDENTIFICATION AND TRUST SERVICES IN ELECTRONIC TRANSACTIONS person is obliged to inform, without delay, the qualified trust service provider.
+4. In cases where the qualified trust service provider is not able to verify the identity of the identification means applicant, verification of the identity and verification of the Identity Card are done by the competent body that has issued this document.

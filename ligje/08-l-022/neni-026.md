@@ -1,0 +1,3 @@
+# Neni 26
+Institucioni publik si ofrues i shërbimeve të besuara të kualifikuara 1. Institucioni publik mund të bëhet ofrues i shërbimeve të besuara nëse i plotëson të gjitha kushtet për ofrimin e shërbimeve të parapara me këtë ligj dhe me rregulloren e vet të punës.
+LIGJI NR. 08/L - 022 PËR IDENTIFIKIMIN ELEKTRONIK DHE SHËRBIMET E BESUARA NË TRANSAKSIONET ELEKTRONIKE 2. Rregullorja e punës së Institucionit publik nga paragrafi 1. i këtij neni, duhet të përmbajë llojin e shërbimit të besuar që ofrohet, mënyrën e kryerjes dhe rregullimin e procesit të kryerjes së shërbimit të besuar të kualifikuar.

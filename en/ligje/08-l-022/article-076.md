@@ -1,0 +1,3 @@
+# Article 76
+General rules for measuring the minor offense sanction 1. The Inspection Officer shall impose a fine to the offender pursuant to Article 75 of this Law, taking into account all the mitigating and aggravating circumstances, in particular, the gravity of the minor offense and its consequences, the degree of liability and circumstances under which the offense was committed.
+LAW NO. 08/L -022 ON ELECTRONIC IDENTIFICATION AND TRUST SERVICES IN ELECTRONIC TRANSACTIONS 2. Notwithstanding the measures provided for in Article 75 of this Law, when the Inspector Officer assesses that violations of the service provider compromise the integrity and reliability of the service, he/she shall terminate, in part or in full, the activity of that service provider.

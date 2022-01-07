@@ -1,0 +1,3 @@
+# Neni 76
+Rregullat e përgjithshme për matjen e sanksionit kundërvajtës 1. Zyrtari për inspektim i cakton kundërvajtësit gjobën sipas nenit 75 të këtij ligji, duke marrë parasysh të gjitha rrethanat lehtësuese dhe rënduese, në veçanti peshën e kundërvajtjes dhe pasojat, shkallën e përgjegjësisë dhe rrethanat nën të cilat është kryer kundërvajtja.
+2. Pavarësisht masave të parashikuara në nenin 75 të këtij ligji, kur zyrtari për inspektim e vlerëson se shkeljet e ofruesit të shërbimeve cenojnë integritetin dhe besueshmërinë e shërbimit e ndërpret përkohësisht, pjesërisht apo plotësisht veprimtarinë e këtij ofruesi të shërbimit.
