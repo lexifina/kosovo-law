@@ -1,0 +1,2 @@
+# Article 6
+International humanitarian operations International humanitarian operations refer to operations of providing assistance in cases of humanitarian disasters, technical, technological or ecological disasters which endanger the health and lives of the people, property and environment, as well as provision of assistance in cases of the destructions due to a war or terrorism or other disasters.

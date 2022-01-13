@@ -1,0 +1,3 @@
+# Neni 12
+Delegimi dhe pranimi i autoritetit komandues 1. Gjatë dërgimit të FSK-së jashtë vendit, Republika e Kosovës mund t’i transferojë pjesë të autoritetit të vet komandantit ushtarak të një shteti të huaj ose një organizate ndërkombëtare, në të njëjtën mënyrë, mund të pranojë një autoritet, që i jepet nga një komandant ushtarak i një shteti të huaj ose nga një organizatë ndërkombëtare, vetëm brenda detyrës së misionit dhe kufizimeve të autorizuara.
+2. Autoritetet kompetente për dërgimin e FSK-së në operacione ndërkombëtare jashtë vendit, në çdo rast, në aktin e dërgimit duhet të përcaktojnë misionin dhe mandatin e këtyre forcave.

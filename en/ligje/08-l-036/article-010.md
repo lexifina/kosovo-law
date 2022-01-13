@@ -1,0 +1,4 @@
+# Article 10
+Procedure for the participation in other military activities 1. Deployment of the KSF in other military activities abroad is done based on an invitation from
+LAW NO. 08/L - 036 ON OVERSEAS DEPLOYMENT OF THE KOSOVO SECURITY FORCE the hosting country based on bilateral agreements or within the invitation of an international organization.
+2. For the participation of the KSF in other military activities according to Article 9 of this Law, the Minister of Defense issues a decision. 3.Technical agreements for the realization of other military activities abroad according to this article, which are an integral part of the basic agreements, are signed by the Minister of Defense or the person authorized by him, without being subject to the procedures of the relevant law on international agreements.

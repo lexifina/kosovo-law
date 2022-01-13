@@ -1,0 +1,5 @@
+# Article 7
+Procedures on Participation to International humanitarian operations 1. The deployment of the KSF in international humanitarian operations is done on the basis of the request for assistance by the host country, based on the offer by the Republic of Kosovo, based on international agreements, at the invitation of any international organization, or at the request of any of the member states of international security organizations, as well as by any Resolution of the Security Council of United Nations Security.
+2. Decision on the KSF personnel deployment for international humanitarian operations is taken by Government of the Republic of Kosovo with proposal of the Minister of Defense.
+3. Assembly of the Republic of Kosovo shall be informed immediately with the decision of the Government according to paragraph 2 of this Article.
+4. Following the decision of the Government, according to paragraph 2 of this Article, President of the Republic of Kosovo shall authorize the overseas deployment of KSF.

@@ -1,0 +1,3 @@
+# Article 12
+Delegation and acceptance of the Commanding Authority 1. When deploying the KSF overseas, the Republic of Kosovo may transfer part of its authority to the military commander of a foreign state or an international organization, in the same way, it may accept an authority given to it by a military commander of a foreign state or by an international organization, only within the mission duties and authorized limitations.
+2. Competent authorities for the KSF deployment in international overseas operations, in each case, in the act of the deployment shall define mission and mandate of these forces.
