@@ -1,0 +1,3 @@
+# Neni 17
+Përdorimi i sistemit elektronik të inspektimit nga organet inspektuese jashtë administratës shtetërore dhe nivelit komunal 1. Sistemi elektronik i inspektimit lejon qasjen dhe përdorimin, përmes moduleve të veçanta, edhe për organet tjera inspektuese të përjashtuara nga fushëveprimi i këtij ligji ose organeve inspektuese që janë jashtë administratës shtetërore dhe nivelit komunal, të cilët mund të qasen në sistemin elektronik të inspektimit pas lidhjes së marrëveshjes së bashkëpunimit me Zyrën e Inspektorit të Përgjithshëm.
+2. Informatat që mblidhen nga raportimi i organeve të tjera inspektuese mund të përdoren për qëllime statistikore dhe për hartimin e raporteve të përgjithshme për inspektimet në Republikën e Kosovës.

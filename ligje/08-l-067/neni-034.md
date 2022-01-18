@@ -1,0 +1,5 @@
+# Neni 34
+Koha për kryerjen e inspektimit 1. Përveç nëse parashihet shprehimisht ndryshe me ligj të posaçëm, veprimet e inspektimit zhvillohen në kohën më të përshtatshme për kryerjen e efektshme të tyre, pavarësisht nga orari normal i punës së inspektorit apo subjektit të inspektimit.
+2. Në raste të veçanta dhe me vendim paraprak me shkrim nga zyrtari përgjegjës për lëshimin e miratimit te inspektori ose trupa inspektuese mund të miratoj ndalimin e hyrjes në mjediset nën inspektim apo pllombimin e makinerive, të pajisjeve dhe të dokumenteve të caktuara, për periudhën e ndërprerjes së veprimeve të inspektimit, deri në rifillimin normal të tyre, por jo për më shumë se dy (2) ditë kalendarike. Kjo ndalesë aplikohet vetëm në rastet kur inspektimi në vend nuk mund të përfundojë pa ndërprerje.
+3. Vendimi sipas paragrafit 2 të këtij neni pasqyrohet në procesverbalin e inspektimit dhe i njoftohet gojarisht përfaqësuesit të subjektit të inspektimit, si dhe pasqyrohet në procesverbalin e inspektimit. Vendimi nuk mund të ankimohet veçmas.
+LIGJI NR.08/L-067 PËR INSPEKTIMET - SHTOJCA

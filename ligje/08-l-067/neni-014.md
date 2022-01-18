@@ -1,0 +1,8 @@
+# Neni 14
+Trajnimi i vazhdueshëm i inspektorëve 1. Të gjithë inspektorët pa përjashtim janë të obliguar që të ndjekin trajnimin e detyrueshëm për përditësimin e njohurive dhe aftësive profesionale specifike për inspektim dhe pas ndjekjes së trajnimit do të certifikohen për Inspektor.
+2. Inspektorët obligohen që pas përfundimit të trajnimit të detyrueshëm, t’i nënshtrohen testimit për njohuritë dhe aftësitë e fituara gjatë trajnimit.
+3. Inspektorët të cilët e kalojnë testin me mbi gjashtëdhjetë (60) % pikëve do të certifikohen për inspektor sipas këtij ligji dhe dispozitave ligjore në fuqi.
+4. Inspektoret të cilët nuk arrijnë që të kalojnë testin kanë të drejte që ti nënshtrohen testit deri në tre (3) herë brenda periudhës gjashtë (6) muaj.
+5. Inspektoret të cilët nuk arrijnë që të kalojnë testin sipas këtij neni, nuk do të certifikohen dhe përbën shkak për mos konfirmimin e punës provuese si dhe largimin e inspektorit nga shërbimi civil.
+6. Zyra e Inspektoratit të Përgjithshëm në bashkëpunim me Institutin e Administratës Publike do të hartojnë, organizojnë trajnimin si dhe do të bëjnë testimin dhe certifikimin e Inspektorëve për njohuritë dhe aftësitë e fituara gjatë trajnimit.
+7. Programi i trajnimit të detyrueshëm për Inspektorët, përmbajtja, kushtet, kriteret, mënyra dhe procedura e organizimit të trajnimit dhe testimit përcaktohet me akt nënligjor i cili propozohet nga Ministria përgjegjëse për administratë publike në bashkëpunim me Institutin e Kosovës për Administratën Publike, Zyrën e Inspektorit të Përgjithshëm dhe i cili miratohet nga Qeveria e Republikës së Kosovës.

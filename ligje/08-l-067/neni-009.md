@@ -1,0 +1,8 @@
+# Neni 9
+Njësitë e veçanta inspektuese 1. Njësitë e veçanta inspektuese organizohen dhe funksionojnë si departamente ose si divizione brenda një ministrie, një agjencie ekzekutive apo një agjencie rregullatore, në pajtim me ligjin përkatës për organizimin dhe funksionimin e administratës shtetërore.
+2. Njësia e veçantë inspektuese ushtron kompetencën e saj në tërë territorin e Republikës së Kosovës. Sipas nevojës, strukturat lokale të një njësie të veçantë inspektuese mund të organizohen si pjesë e degëve lokale të ministrisë, agjencisë ekzekutive ose agjencisë rregullatore.
+3. Njësia e veçantë inspektuese drejtohet nga udhëheqësi i njësisë së veçantë inspektuese:
+3.1. Në rastet kur njësia e veçantë inspektuese organizohet si departament ose divizion brenda një ministrie apo një agjencie rregullatorë, udhëheqësi i departamentit apo divizionit kryen detyrat e kryeinspektorit sipas këtij ligji;
+3.2. Në rastet kur njësia e veçantë inspektuese organizohet si departament ose divizion brenda një agjencie ekzekutive, udhëheqësi i departamentit ose divizionit kryen detyrat e kryeinspektorit sipas këtij ligji.
+4. Njësitë e veçanta inspektuese në administratën shtetërore përcaktohen në Shtojcën e cila është pjesë përbërëse e këtij ligji. Të gjitha ndryshimet dhe plotësimet e mëvonshme në përmbajtjen e Shtojcës që bëhen pas hyrjes në fuqi të këtij ligji dhe përmes ligjeve të posaçme, evidentohen në regjistrin e organeve inspektuese që mbahet nga Zyra e Inspektorit të Përgjithshëm sipas nenit 12, paragrafi 1, nën-paragrafi 1.11 të këtij ligji.
+LIGJI NR.08/L-067 PËR INSPEKTIMET - SHTOJCA

@@ -1,0 +1,3 @@
+# Article 10
+Functioning of specific inspection units within the responsible ministry, executive agency or regulatory agency In the case of the establishment of a Special Inspection Unit under Article 9, paragraph 1. of this Law within a responsible ministry, an Executive Agency or Regulatory Agency the provisions of Article 8 of this Law shall apply mutatis mutandis to regulate the relationship of the Special Inspection Unit with the responsible ministry but without prejudice to the lines of accountability set out in the applicable law on the organization and functioning of the state administration and the independent agencies.
+LAW NO. 08/L-067 ON INSPECTIONS

@@ -1,0 +1,7 @@
+# Neni 8
+Funksionimi i Inspektoratit qendror në kuadër të ministrisë përgjegjëse 1. Ministria përgjegjëse mbështet funksionimin efikas të inspektoratit qendror në vartësi të saj. Kjo përgjegjësi nuk përfshin drejtimin operacional të veprimtarisë së inspektimit.
+2. Mbikëqyrja e performancës dhe veprimtarisë së inspektorateve qendrore ushtrohet nga ministria përgjegjëse në pajtim me ligjin në fuqi për organizimin dhe funksionimin e administratës shtetërore dhe të agjencive të pavarura.
+3. Në mbikëqyrjen e punës së inspektoratit qendror, ministria përgjegjëse mbështetet nga Zyra e Inspektorit të Përgjithshëm. Inspektorati qendror dorëzon paraprakisht draftin e planit të performancës dhe raportin vjetor të performancës edhe në zyrën e Inspektorit të Përgjithshëm.
+4. Ministri përgjegjës mund të aprovoi me shkrim dhe në mënyrë të arsyetuar, fillimin e një inspektimi nga një inspektorat qendror për një fenomen ose çështje të caktuar me interes publik.
+5. Kur inspektorati qendror organizohet në nivel rajonal ose lokal, atëherë drejtuesit e degëve lokale, së bashku me kryeinspektorin e inspektoratit qendror, informojnë drejtpërdrejt edhe kryetarët e komunave që mbulohen nga degët lokale përkatëse të paktën një (1) herë në vit për veprimtarinë e inspektimeve në komunat përkatëse.
+6. Përmbajtja e planit vjetor dhe raportit vjetor të performancës dhe rregullat e hollësishme për hartimin dhe formatin e planit të performancës miratohen nga qeveria në pajtim me ligjin përkatës për organizimin dhe funksionimin e administratës shtetërore dhe të agjencive të pavarura.

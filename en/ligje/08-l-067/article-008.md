@@ -1,0 +1,8 @@
+# Article 8
+Functioning of the Central Inspectorate within the responsible ministry 1. The responsible ministry shall support the efficient functioning of the Central Inspectorate under its authority. This responsibility shall not include the operational guidance of the inspection activities.
+2. Supervision of the performance and activity of the Central Inspectorates shall be exercised by the responsible ministry in accordance with the applicable law on the organization and functioning of the state administration and independent agencies.
+3. In supervising the performance of the central inspectorate, the responsible ministry shall
+LAW NO. 08/L-067 ON INSPECTIONS be supported by the Office of the Inspector General. The Central Inspectorate shall submit in advance the draft performance plan and annual performance report at the Office of the Inspector General.
+4. The responsible Minister may order, in writing and providing reasoning, the commencement of an inspection by a Central Inspectorate of a certain phenomenon or matter of public interest.
+5. When the central inspectorate is organized at regional or local level, then heads of local branches together with the Chief Inspector of the Central Inspectorate shall directly inform the mayors covered by the respective local branches at least once a year for the inspection activities in the respective municipalities.
+6. The content of the annual plan and annual performance report and the detailed rules for drafting and the performance plan format shall be adopted by the Government in accordance with the Law on the Organization and Functioning of the State Administration and Independent Agencies.

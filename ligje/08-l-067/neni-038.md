@@ -1,0 +1,23 @@
+# Neni 38
+Të drejtat e inspektorit 1. Inspektori me rastin e realizimit të inspektimit, ka këto të drejta:
+1.1. Të kërkojë dokumentin e identifikimit personave të cilët janë prezent me rastin e inspektimit me qëllim të vërtetimit të identitetit gjatë procedurës së inspektimit;
+1.2. Inspektori ka të drejtë të hyjë lirisht në çdo vend dhe të inspektojë ndërtesat, mjediset, objektet, mjetet e transportit, në të cilat ose përmes të cilave ushtron veprimtarinë e tij subjekti i inspektimit, si dhe të inspektojë instalimet, pajisjet, makineritë, produktet, gjësendet, substancat, përbërësit dhe çdo send tjetër të lidhur me veprimtarinë që është objekt i inspektimit;
+1.3. Të bëjë fotografime, filmime apo regjistrime me mënyra apo mjete të tjera teknike, të mjediseve, instalimeve, proceseve të punës dhe ndërtesave, objekteve, mjeteve të transportit, instalimeve, pajisjeve, makinerive, produkteve, sendeve, substancave, përbërësve dhe çdo sendi tjetër, që lidhet me veprimtarinë e subjektit të inspektimit;
+1.4. Të marrë, pa pagesë, si dhe të përdorë për qëllime të inspektimit çdo të dhënë ose dokument për subjektin e inspektimit dhe veprimtarinë e tij, nga çdo institucion shtetëror që i disponon ato;
+1.5. Inspektori ka të drejtë për qëllim të inspektimit të marrë, pa pagesë, mostra të produkteve, materialeve, mallrave, substancave apo prodhimeve:
+1.5.1. Mostrat merren në prani të përfaqësuesit të subjektit të inspektimit, përveç rasteve kur ai është përjashtuar, me vendim, nga të qenit i pranishëm gjatë inspektimit. Përpara zgjedhjes së mostrave, inspektori i shpjegon përfaqësuesit procedurën e marrjes së tyre;
+1.5.2. Mostra merret në sasinë e nevojshme për kryerjen e ekzaminimit apo analizave dhe për të siguruar përsëritjen e tij; (nëse është e nevojshme) 1.5.3. Marrja e mostrave pasqyrohet në procesverbalin e inspektimit. Organi inspektues detyrohet të njoftojë rezultatet e ekspertizës apo të ekzaminimit brenda katër (4) ditëve kalendarike nga data e marrjes së rezultatit të tyre;
+1.5.4. Shpenzimet për përzgjedhjen, transportin dhe ekzaminimin apo analizën e mostrave barten nga organi inspektues. Këto shpenzime më pas i barten subjektit të inspektimit vetëm nëse rezultati i ekzaminimit apo analizave provon shkeljen e dispozitave ligjore përkatëse. Shuma e shpenzimeve që bartet nga subjekti i inspektimit pasqyrohet në vendimin përfundimtar të inspektimit apo në një akt administrativ të veçantë;
+1.5.5. Udhëzuesit e hollësishëm për marrjen dhe trajtimin e mostrave, sipas llojit të inspektimit, si dhe metodologjia e llogaritjes së shpenzimeve miratohet nga Zyra e Inspektorit të Përgjithshëm;
+1.5.6. Këto dispozita zbatohen përshtatshmërisht edhe për kryerjen e ekspertizave të tjera të nevojshme për verifikimin e produkteve, pajisjeve, proceseve apo makinerive.
+LIGJI NR.08/L-067 PËR INSPEKTIMET 1.6. Të administrojë çdo mjet tjetër prove, sipas ligjit në fuqi për procedurën e përgjithshme administrative, për përcaktimin e situatës faktike dhe rrethanave të nevojshme për marrjen e vendimit përfundimtar të inspektimit;
+1.7. Merr vendime të menjëhershme për ndalimin e pjesshëm ose të plotë të punës aty ku ka fakte të pa mohueshme dhe të verifikuara se është duke vepruar në kundërshtim me dispozitat ligjore;
+1.7.1. Vendosjen e shenjave të punës apo bllombave bllokuese për mbylljen e plotë ose të pjesshme të veprimtarisë dhe pajisjeve të punës. Shenjat apo bllombat bllokuese duhet të përmbajnë stemën e Inspektoratit.
+1.8. Të kërkojë nga subjekti i inspektues ose personit përgjegjës, sqarime, raporte me shkrim në lidhje me çështjet e inspektimit;
+1.9. Të konstatojë gjendjen faktike përmes shikimit vizuel, audio dhe video incizimit të cilat mund të shfrytëzohen në procedurën e inspektimit;
+1.10. Të sanksionojë subjektin, në rastet kur konstaton se janë shkelur dispozitat ligjore si dhe të inicioj procedurë kundërvajtëse dhe penale për shkak të shkeljes së dispozitave ligjore;
+1.11. Urdhëron punëdhënësin në marrjen e veprimeve konkrete për zbatimin e dispozitave ligjore në afat të caktuar kohor;
+1.12. Në rastet kur vlerëson se ka pengesa në realizimin e inspektimit apo kompetencave të tij inspektori mund të kërkojë asistencën policore;
+1.13. Në rast se punëdhënësi apo përfaqësuesi i tij, refuzon ta nënshkruajë raportin zyrtar, atëherë duhet të përshkruhet arsyeja e refuzimit të nënshkrimit;
+1.14. Inspektori i kryen detyrat e tij në atë mënyrë që në ushtrimin e kompetencave të tyre, ata ndërhyjnë në funksionimin e subjektit vetëm deri në masën e nevojshme për të siguruar inspektimin efektiv;
+1.15. Subjekti obligohet që t’i ofrojë bashkëpunim inspektorit për të gjitha çështjet që janë në funksion të inspektimit.
