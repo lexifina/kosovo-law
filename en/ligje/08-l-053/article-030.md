@@ -1,0 +1,2 @@
+# Article 30
+Publishing the decision In civil proceedings in respect of an infringement of an exclusive right to topography, the Court may, at the request of the claimant, order the perpetrator to compensate the costs of disseminating information relating to the court’s judgment, including posting the decision and publishing it fully or partially in the media or on the internet. The Court shall determine the amount of reasonable publication expenses to be compensated by the perpetrator.

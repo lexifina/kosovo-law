@@ -1,0 +1,12 @@
+## CHAPTER III
+## EXCLUSIVE RIGHTS GRANTED
+# Article 6
+Determination and duration of exclusive rights 1. Exclusive rights shall be granted to the rightholders to protection under Article 4 of this law, in the event an application has been submitted for topography registration at IPA, according to the provisions of this law.
+2. The application to register the topography can be submitted either before the first commercial exploitation of the topography anywhere in the world or within two (2) years from the date of the first commercial exploitation of the topography anywhere in the world.
+3. If the application is not submitted within two (2) years from the date of the first commercial exploitation of the topography anywhere in the world, it is deemed that the exclusive rights have not entered into force during this period and that they can no longer be granted.
+4. The exclusive rights shall be determined in:
+4.1. the date when the topography is first exploited anywhere in the world, provided that the application for topography registration is submitted within two years (2) from that date, or 4.2. the date on which the application for topography registration is submitted to the IPA under this law’s provisions.
+5. The persons defined in Article 5 of this Law shall have the right to protection of topography according to the provisions of Article 24 of this law for the period before their exclusive rights come into existence, if they prove that another person has reproduced, exploited commercially or fraudulently imported the topography for that purpose. This provision is without prejudice to other remedies for the exercise of exclusive rights granted under paragraphs 1., 2., 3. and 4. of this Article.
+LAW NO. 08/L-053 ON SEMICONDUCTOR TOPOGRAPHS 6. The exclusive rights shall come to an end ten (10) years from any previous date of the following dates:
+6.1. from the year following the end of the calendar year in which the application for registration has been filed, or 6.2. from the year following the end of the calendar year in which the topography is first commercially exploited anywhere in the world provided that the application for registration is submitted within two (2) years from the date of first commercial exploitation of the topography.
+7. If no request for topographic registration has been submitted before the IPA and no commercial exploitation of the topography has been made within fifteen (15) years from the date on which the topography was first fixed or encoded, the exclusive rights may no longer be granted.

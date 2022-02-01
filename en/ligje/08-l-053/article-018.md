@@ -1,0 +1,3 @@
+# Article 18
+Transfer registration in the register and the legal effects of that registration 1. Whenever the exclusive rights in topography are transferred to another party or when a license is assigned to, a proper note shall be made in the register of topographies, at the request of the party and the tax must be paid. If it is verified that the license registered in the register has expired, the note is deleted from the register.
+2. In court proceedings and other cases related to the exclusive rights in topography, the party that was last registered as the holder of the exclusive rights in the register of topographies shall be considered the holder of the exclusive rights.

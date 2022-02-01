@@ -1,0 +1,8 @@
+# Neni 3
+Përkufizimet 1. Shprehjet e përdorura në këtë ligj kanë këtë kuptim:
+1.1. Produkt gjysmëpërçues nënkupton çdo produkt në formën e tij përfundimtare apo të ndërmjetme, që përbëhet nga një trup i materialit që përmban shtresë të materialit gjysmëpërçues, si dhe që ka një ose më shumë shtresa të tjera të përbëra nga materiali përçues, izolues apo gjysmëpërçues, ku shtresat janë të rregulluara sipas një modeli tredimensional të paracaktuar, si dhe që kanë për qëllim të kryejnë, vetëm apo së bashku me funksionet e tjera, një funksion elektronik;
+1.2. Topografia e një produkti gjysmëpërçues (në tekstin e mëposhtëm - topografia) nënkupton një varg imazhesh të ndërlidhura, të cilat, sido të jenë të fiksuara apo të koduara, paraqesin model tredimensional të shtresave nga të cilat përbëhet produkti gjysmëpërçues dhe në të cilin varg, secili imazh përbën pjesë të tërë modelit të një
+LIGJI NR. 08/L-053 PËR TOPOGRAFITË E GJYSMËPËRÇUESVE sipërfaqeje të produktit gjysmëpërçues në çdo fazë të prodhimit të tij;
+1.3. Shfrytëzimi komercial i topografisë nënkupton shitjen, marrjen me qira, dhënien me qira apo ndonjë shpërndarje komerciale tjetër e topografisë apo e ndonjë produkti gjysmëpërçues të prodhuar me anë të topografisë apo ndonjë oferte për këto qëllime. Shfrytëzimi në kushtet e konfidencialitetit nuk konsiderohet shfrytëzim komercial, nëse nuk ndodh shpërndarje e mëtejshme tek palët e treta;
+1.4. Kontrata për licencë nënkupton kontratën për licencë sipas ligjit përkatës për marrëdhëniet e detyrimeve;
+1.5. API është agjencia përkatëse për pronësi industriale, e themeluar në kuadër të Ministrisë përkatëse për Industri, Ndërmarrësi dhe Tregtisë.

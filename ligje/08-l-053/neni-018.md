@@ -1,0 +1,3 @@
+# Neni 18
+Regjistrimi i bartjes në regjistër dhe efektet juridike të regjistrimit 1. Kurdo që të drejtat ekskluzive në topografi barten tek një palë tjetër apo kur asaj i jepet ndonjë licencë, bëhet shënimi përkatës në regjistrin e topografive, sipas kërkesës së palës, ndërsa paguhet taksa. Nëse vërtetohet se licenca e regjistruar në regjistër ka skaduar, shënimi fshihet nga regjistri.
+2. Në procedurat gjyqësore dhe rastet tjera që kanë të bëjnë me të drejtat ekskluzive në topografi, bartëse e të drejtave ekskluzive konsiderohet pala që është regjistruar më së voni si bartëse e të drejtave ekskluzive në regjistrin e topografive.

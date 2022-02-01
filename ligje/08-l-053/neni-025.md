@@ -1,0 +1,6 @@
+# Neni 25
+Padia për kompensimin e dëmeve 1. Gjykata, sipas padisë së palës së dëmtuar, e urdhëron personin i cili me vetëdije, ose që ka pasur bazë të arsyeshme për të ditur, i ka shkelur të drejtat ekskluzive në topografi, ta kompensojë bartësin e së drejtës për secilin dëm që i është shkaktuar si rezultat i shkeljes.
+2. Për t’i llogaritur dëmet, gjykata i merr parasysh të gjitha aspektet përkatëse, siç janë pasojat negative ekonomike, duke përfshirë fitimet e humbura që i janë shkaktuar palës së dëmtuar, çdo fitim të padrejtë të përvetësuar nga shkelësi dhe, në rastet e duhura, elementet tjera përveç faktorëve ekonomikë, siç është dëmi moral që i është shkaktuar titullarit të së drejtës nga shkelja.
+3. Si alternativë ndaj paragrafit 2 të këtij neni, në rastet e përshtatshme, dëmet mund të llogariten edhe në bazë të shumës së honorarëve apo taksave që shkelësi do të kishte paguar po të kishte kërkuar licencën për përdorim nga titullari i të drejtës.
+4. Nëse shkelësi nuk ka kryer veprime shkelëse me vetëdije, apo me bazë të arsyeshme për të ditur, gjykata mund ta urdhërojë ose rikthimin e fitimeve që shkelësi ka përvetësuar nga shfrytëzimi i paautorizuar i topografisë së mbrojtur, sipas rregullave të përgjithshme për pasurimin e pabazë, ose pagesën e dëmshpërblimit, i cili mund të jetë i paracaktuar.
+LIGJI NR. 08/L-053 PËR TOPOGRAFITË E GJYSMËPËRÇUESVE

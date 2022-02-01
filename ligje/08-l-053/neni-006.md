@@ -1,0 +1,12 @@
+## KAPITULLI III
+## TË DREJTAT EKSKLUZIVE TË DHËNA
+# Neni 6
+Përcaktimi dhe kohëzgjatja e të drejtave ekskluzive 1. Të drejtat ekskluzive u jepen bartësve të së drejtës në mbrojtje vetëm sipas nenit 4 të këtij ligji, nëse është paraqitur kërkesë për regjistrim të topografisë në API, sipas dispozitave të këtij ligji.
+2. Kërkesa për regjistrim të topografisë mund të paraqitet ose para shfrytëzimit komercial të parë të topografisë kudo në botë, ose brenda dy (2) vitesh nga data e shfrytëzimit komercial të parë të topografisë kudo në botë.
+3. Nëse kërkesa nuk paraqitet brenda dy (2) viteve nga data e shfrytëzimit komercial të parë të topografisë kudo në botë, konsiderohet se të drejtat ekskluzive nuk kanë hyrë në fuqi gjatë kësaj periudhe dhe se ato nuk mund të merren më.
+4. Të drejtat ekskluzive përcaktohen në:
+4.1. datën kur topografia shfrytëzohet për herë të parë kudo në botë, me kusht që kërkesa për regjistrim të topografisë të paraqitet brenda dy (2) viteve nga ajo datë, ose 4.2. datën në të cilën kërkesa për regjistrim të topografisë është paraqitur në API sipas dispozitave të këtij ligji.
+5. Personat e përcaktuar në nenin 5 të këtij ligji kanë të drejtë në mbrojtje të topografisë sipas dispozitave të nenit 24 të këtij ligji për periudhën para jetësimit të të drejtave ekskluzive të tyre, nëse dëshmojnë se një person tjetër e ka riprodhuar, shfrytëzuar komercialisht apo importuar topografinë në mënyrë mashtruese për atë qëllim. Kjo dispozitë nuk i paragjykon mjetet tjera juridike për ushtrimin e të drejtave ekskluzive që jepen sipas paragrafëve 1, 2, 3 dhe 4 të këtij neni.
+LIGJI NR. 08/L-053 PËR TOPOGRAFITË E GJYSMËPËRÇUESVE 6. Të drejtat ekskluzive marrin fund kur kalojnë dhjetë (10) vjet nga cilado datë që është më e hershme nga datat në vijim:
+6.1. nga viti pas përfundimit të vitit kalendarik në të cilin është paraqitur kërkesa për regjistrim, ose 6.2. nga viti pas përfundimit të vitit kalendarik të shfrytëzimit komercial të parë të topografisë kudo në botë, me kusht që kërkesa për regjistrim të paraqitet brenda dy (2) vitesh nga data e shfrytëzimit komercial të parë të topografisë.
+7. Nëse nuk paraqitet kërkesa për regjistrim të topografisë pranë API-së si dhe asnjë shfrytëzim komercial i topografisë nuk është bërë brenda pesëmbëdhjetë (15) viteve nga data në të cilën topografia është fiksuar apo koduar për herë të parë, të drejtat ekskluzive nuk mund të merren më.

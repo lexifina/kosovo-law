@@ -1,0 +1,2 @@
+# Neni 30
+Publikimi i vendimit Në procedurën civile përkitazi me shkeljen e një të drejte ekskluzive në një topografi, gjykata, me kërkesë të paditësit, mund ta urdhërojë shkelësin t’i kompensojë shpenzimet për shpërndarjen e informatave lidhur me vendimin gjyqësor, duke përfshirë postimin e vendimit dhe publikimin e plotë apo të pjesshëm të tij në media apo në internet. Gjykata e përcakton lartësinë e shpenzimeve të arsyeshme për publikim që duhet t’i kompensojë shkelësi.

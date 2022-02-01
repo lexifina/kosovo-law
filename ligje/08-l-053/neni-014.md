@@ -1,0 +1,4 @@
+# Neni 14
+Procedimi i kërkesës për regjistrim 1. Kur e procedon kërkesën për regjistrim, API-ja shqyrton nëse kërkesa për topografi i përmbush kushtet e përcaktuara me nenin 11 të këtij ligji dhe me aktin nënligjor të nxjerrë nga Ministri.
+LIGJI NR. 08/L-053 PËR TOPOGRAFITË E GJYSMËPËRÇUESVE 2. Nëse konstatohen mangësi në kërkesë, atëherë parashtruesit i jepet një afat kohor prej dy (2) muaj nga dita e njoftimit nga API-ja që të korrigjojë mangësitë. Nëse paraqitësi i kërkesës nuk ndërmerr hapa për ta korrigjuar mangësinë që është vërejtur, kërkesa hidhet poshtë. Paraqitësi i kërkesës njoftohet për atë vendim.
+3. Kërkesa e hedhur poshtë rivendoset nëse brenda tre (3) muajve pas skadimit të periudhës së paraparë në vendimin zyrtar, paraqitësi i kërkesës e kërkon dhe paraqet deklaratë, apo ndërmerr hapa për të korrigjuar mangësitë si dhe nëse, brenda së njëjtës periudhë, e paguan taksën e përcaktuar për rivendosje. Rivendosja mund të ofrohet vetëm një herë.

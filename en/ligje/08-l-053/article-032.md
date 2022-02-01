@@ -1,0 +1,8 @@
+# Article 32
+Punitive measures 1. A fine in the amount of five thousand (5.000) to fifteen thousand (15.000) euros shall be imposed on a legal entity which, during the exercise of its commercial activity, in any form uses topography in contradiction to Article 5 and Article 6 of this Law.
+LAW NO. 08/L-053 ON SEMICONDUCTOR TOPOGRAPHS 2. A fine in the amount of five hundred (500) to one thousand five hundred (1.500) euros shall be imposed to the responsible person of the legal person according to paragraph 1. of this Article.
+3. A fine in the amount of two thousand (2.000) to five thousand (5.000) Euros shall be imposed to a natural person who carries out individual business, and who during the exercise of his commercial activity, in any form uses topography in contradiction to Article 5 and Article 6 of this law.
+4. A fine in the amount of three thousand (3.000) to ten thousand (10.000) Euros shall be imposed on a legal entity that uses the license in contradiction to the provisions of Article 10 of this law.
+5. A fine in the amount of five hundred (500) to two thousand (2.000) Euros shall be imposed to the responsible person in the legal entity, who uses the license in contradiction to the provisions of Article 10 of this law.
+6. A fine in the amount of one thousand (1.000) to three thousand (3.000) Euros shall be imposed to a natural person who carries out individual business who uses the license in contradiction to the provisions of Article 10 of this law.
+7. In cases when the typograph is used in contradiction to the provisions of this law, by which it is presumed that a criminal offense has been committed, the provisions of the Criminal Code of the Republic of Kosovo shall apply.
