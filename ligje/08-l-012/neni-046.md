@@ -1,0 +1,4 @@
+# Neni 46
+Nominimet 1. Brenda pesëmbëdhjetë (15) ditëve nga dita e publikimit të listës së anëtarëve themelues të Odës, çdo person emri i të cilit gjendet në listë, ka të drejtë ta nominojë vetën apo një person tjetër që gjendet në atë listë për t’u zgjedhur si Anëtar i Bordit Drejtues ose Anëtar i Komisioneve tjera.
+2. Procedura dhe mënyra e nominimit për t’u zgjedhur si anëtar i Bordit drejtues ose anëtar i komisioneve tjera, në periudhën e përkohshme të Odës, rregullohet me akt nënligjor të përcaktuar me nenin 44 të këtij ligji.
+3. Brenda pesëmbëdhjetë (15) ditëve nga dita e përfundimit të afatit të nominimit, Komisioni i Ministrisë për Themelimin e Odës publikon në faqen elektronike zyrtare të Ministrisë, listën e personave të nominuar për t’u zgjedhur në pozitat e përcaktuara në paragrafin 1 të këtij neni.

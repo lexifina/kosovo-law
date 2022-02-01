@@ -1,0 +1,4 @@
+# Article 46
+Nominations 1. Within fifteen (15) days of the publication of the list of the establishing members of the Chamber, any person whose name is on the list has the right to nominate himself/herself and/ or any other person on that list to serve as a Member of the Steering Board or Member of the other Committees.
+2. The procedure and manner of nomination to be elected as a member of the Steering Committee or a member of other committees, in the temporary period of the Chamber, is regulated by a sub-legal act defined in Article 44 of this Law.
+3. Within fifteen (15) days from the day of the end of the nomination deadline, the Ministry’s Committee for the Establishment of the Chamber shall publish, in the official website of the Ministry, the list of nominees to be elected in the positions defined in paragraph 1 of this Article.

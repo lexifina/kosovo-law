@@ -1,0 +1,3 @@
+# Article 27
+Recognition of professional licenses issued outside the Republic of Kosovo 1. A person who has been licensed outside the Republic of Kosovo to exercise the profession of architect or engineer in the field of construction, before engaging in professional activity in Kosovo, must submit to the relevant Chamber a request for recognition as well as documents proving the possession of a professional license issued abroad.
+2. The Chamber shall, through a Regulation, set out the criteria and procedure for the recognition of professional licenses issued outside the Republic of Kosovo in accordance with this Law and the legislation into force.

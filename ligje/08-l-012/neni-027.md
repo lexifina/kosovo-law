@@ -1,0 +1,3 @@
+# Neni 27
+Njohja e licencave profesionale të lëshuara jashtë Republikës së Kosovës 1. Personi i cili është licencuar jashtë Republikës së Kosovës për ushtrimin e profesionit të arkitektit apo inxhinierit në fushën e ndërtimit, para se të angazhohet në veprimtari profesionale në Kosovë duhet të paraqesë pranë Odës përkatëse kërkesën për njohje si dhe dokumente të cilat dëshmojnë posedimin e licencës profesionale të lëshuar jashtë vendit.
+2. Oda me Rregullore përcakton kriteret dhe procedurat për njohjen e licencave profesionale të lëshuara jashtë Republikës së Kosovës në pajtim me këtë ligj dhe legjislacionin në fuqi.

@@ -1,0 +1,5 @@
+# Article 20
+Evaluation Committee and other committees 1. The Steering Board of the Chamber establishes the Evaluation Committee which will be responsible for reviewing and deciding on applications for license made by architects and engineers in the field of construction.
+2. The Steering Board may establish other Committees for the fulfilment of the responsibilities of the Steering Board set out under this Law and the Statute of the Chamber.
+3. The Evaluation Committee and other Committees set out in paragraphs 1 and 2 of this Article shall be composed of the members of the Steering Board. For the purposes of the service in the Evaluation Committee and other Committees, no extra compensation is allowed except for the regular compensation that members receive as members of the Board of Directors.
+LAW NO. 08/L -012 ON THE CHAMBERS OF ARCHITECTS AND ENGINEERS IN THE FIELD OF CONSTRUCTION 4. The organization and work of the Committees set out under this Article shall be regulated by the Statute of the Chamber and other Chamber’s regulations.

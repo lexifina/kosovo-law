@@ -1,0 +1,3 @@
+# Neni 14
+Zgjedhjet e organeve të Odës në Kuvend 1. Zgjedhjet mbahen në bazë të votës së lirë dhe të barabartë të anëtarëve të Kuvendit në përputhje me këtë ligj dhe Statutin e Odës.
+2. Të gjitha çështjet që kanë të bëjnë me procesin e zgjedhjeve të organeve të Odës, duke përfshirë procedurat e nominimit për anëtar të Bordit Drejtues, anëtar të Komisionit Mbikëqyrës, Komisionit të Ankesave dhe Komisionit Disiplinor, kuorumi i seancave zgjedhore të Kuvendit dhe çështje të tjera që ndërlidhen me punën e Kuvendit, vazhdimin e mandatit të Kuvendit dhe organeve të Odës deri në zgjedhjen e Kuvendit dhe organeve të reja, e që nuk janë rregulluar në dispozitat e këtij ligji, përcaktohen me Statut.

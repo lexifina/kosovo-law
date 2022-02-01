@@ -1,0 +1,3 @@
+# Article 14
+Election of the chamber bodies in the assembly 1. Elections shall be held on the basis of free and equal votes of members of the Assembly in accordance with this Law and the Statute of the Chamber.
+2. All matters pertaining to the election process of the Chamber bodies, including the nomination procedures for members of the Steering Board, members of the Supervisory Committee and the Complaints Commission, the quorum of the Assembly’s electoral sessions and other issues related to the work of the Assembly, the extension of the mandate of the Assembly and the bodies of the Chamber until the election of the new Assembly and new bodies, which are not regulated by the provisions of this Law, shall be defined by the Statute.
