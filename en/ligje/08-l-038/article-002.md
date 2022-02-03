@@ -1,0 +1,29 @@
+# Article 2
+Chapter VIII and Article 47 of the Law shall be amended and supplemented as follows:
+CHAPTER VIII
+MINOR OFFENCE SANCTIONED BY FINES
+Article 47
+1. A fine in the amount of five hundred (500) up to twenty thousand (20,000) euros shall be imposed on a legal person-health institution for a minor offence, if:
+1.1. removal of tissues, cells, transplantation of tissues and cells and donation of the tissues is done contrary to basic principles defined in the Article 4 of the Law;
+1.2. transplantation is carried out in contradiction with the medical standards and criteria defined by Article 6 of the Law;
+1.3. prohibited actions are carried out in relation to: trading of human tissues and cells; sell-purchase transplants, and any kind of activity which favours the advertisement, trading and trafficking of transplants; distribution and publishing of data or information that enable the identification of the donor and the recipient; advertising and promotion of tissues and cells available for the purpose of initial gain and which are not in accordance with the adequate guidance; genetic manipulation of the embryo; donation of tissues and cells by alive underage donors, except under the conditions set out in Article 7 of the Law;
+1.4. health institution performs the implant for the persons not registered in the waiting list of persons for transplantation of tissues and cells in accordance with Article 20, paragraph 7 of the Law;
+LAW NO. 08/L -038 ON AMENDING AND SUPPLEMENTING THE LAW NO. 04/L-192 ON TRANSPLANTATION OF TISSUES AND CELLS 1.5. the health institution does not store data on the removals and implants performed and does not record the data on the removed tissues and cells in the protocol according to Article 20, paragraph 10 of the Law;
+1.6. the health institution fails to establish and implement the system for immediate blocking, withdrawal or destruction of all tissues and cells, which may lead to a reaction or serious adverse incident according to Article 21, paragraph 2 of the Law;
+1.7. the health institution performing the activities related to transplantation has not appointed the person who organizes, controls and bears the responsibility for the examination, removal, treatment, processing, testing, classification, marking, storage, distribution and implementation of tissues and cells according to Article 22 of the Law;
+1.8. removal of tissues and cells for transplantation is done by the person who has not given written consent during his life; human corpse of a person under the age of eighteen (18) years; human corpse with unknown identity according to Article 23, paragraphs 4, 5 and 6 of the Law;
+1.9. tissues and cells removed from the deceased person is carried out in contradiction with the criteria provided by Article 24 of the Law;
+1.10. the health institution where the tissues or cells removed from the human corpse within the determined deadline does not register the procedure in the Centre according to Article 26 of the Law;
+1.11. removal of tissues and cells from the alive donor is carried out in contradiction with the conditions provided in Article 27 of the Law;
+1.12. the right of the citizen of the Republic of Kosovo or foreign citizen with permanent residence in the Republic of Kosovo to express his will freely, during his life, is violated, regarding his consent or objections in writing regarding donation of the tissues and cells after his death, according to criteria defined in Article 28 of the Law;
+1.13. hematopoietic cells by the person who has no capacity to act according to Article 29, paragraph 3 of the Law;
+1.14. health institution that performs the removal of tissues or cells from an alive donor does not notify the Centre within the deadline provided by Article 32 of the Law;
+1.15. implantation of tissues and cells is carried out in contradiction with the conditions defined in Article 34 of the Law;
+1.16. the health institution performing the transplantation does not take all necessary measures to ensure that the quality system includes at least the documentation provided in Article 39 paragraphs 3, 4 and 5 of the Law;
+1.17. the health institution that performs the transplantation does not report to the bank for tissues and cells for any case when a serious unwanted reaction occurs according to Article 40 of the Law;
+1.18. the import and export of tissues and cells from the tissue and cell bank is carried out in contradiction with the conditions provided by Article 41 of the Law.
+2. With fine in the amount of five hundred (500) up to fifteen thousand (15,000) Euros there shall be punished the legal person - health institution for a minor offence, which violates the provisions of Article 18, paragraph 4; paragraph 5; paragraph 8; paragraph 9 and paragraph 10; Article 25, Article 30, Article 31, Article 35 and Article 44 of the Law.
+LAW NO. 08/L -038 ON AMENDING AND SUPPLEMENTING THE LAW NO. 04/L-192 ON TRANSPLANTATION OF TISSUES AND CELLS 3. For the minor offences specified in paragraph 1 of this Article, the responsible person in the legal person -health institution shall be fined from one hundred (100) up to two thousand (2,000) euros.
+4. For the minor offences specified in paragraph 2 of this Article, the responsible person in the legal person-health institution shall be fined, from five hundred (500) up to four thousand (4,000) Euros.
+5. For the minor offences specified in paragraph 1 sub-paragraph 1.1; 1.2; 1.3; 1.7; 1.8; 1.9; 1.11; 1.12; 1.13; 1.15 and 1.18 of this Article there shall be punished natural person - health professional, respectively the other person with a fine from one hundred (100) up to two thousand (2,000) euro.
+6. For minor offences according to Article 25, 30, 31, 35 and 44, there shall be punished the natural person-health professional, respectively the other person with a fine from one hundred (100) up to two thousand (2,000) euros.
