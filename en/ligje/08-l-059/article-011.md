@@ -1,0 +1,6 @@
+# Article 11
+Novelty 1. An invention shall be considered new if it does not form part of the prior knowledge.
+2. Prior knowledge shall comprise of everything made available to the public worldwide, by means of written or oral description, by use, or otherwise, prior to the filing date of the patent application.
+3. Prior knowledge also constitutes the content of the national patent application as it has been filed, the filing dates of which are earlier than the date of application, referred to in paragraph 2 of this Article, and which were published on or after this date.
+4. Paragraphs 2 and 3 of this Article shall not exclude patentability - patent protection of a substance or composition, which is part of the prior knowledge for use in the methods referred to in Article 9 paragraph 1 sub-paragraph 1.3 of this Law, provided that its use in such methods does not form of prior knowledge.
+5. Paragraphs 2 and 3 of this Article shall not exclude the patentability of any substance or composition referred to in paragraph 4 of this Article for any specific use in a method referred to in Article 9 paragraph 1 sub-paragraph 1.3 of this Law, provided that such use does not form part of prior existing knowledge.

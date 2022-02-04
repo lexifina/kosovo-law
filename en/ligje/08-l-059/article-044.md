@@ -1,0 +1,3 @@
+# Article 44
+Prohibition of importation 1. The import into the Republic of Kosovo of products manufactured under a compulsory license granted pursuant to this Law for the purposes of release for free circulation, re-importation, placing under suspensive procedures or placing in a free zone or free warehouse shall be prohibited.
+2. Paragraph 1 of this Article shall not apply in the case of re-export of the product to the importing country cited in the application and identified in the packaging and documentation associated with the product, or placing under a transit warehouse or customs procedure, transit or in a free zone or free warehouse for the purpose of re-export to that importing country.

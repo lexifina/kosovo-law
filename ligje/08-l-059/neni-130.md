@@ -1,0 +1,2 @@
+# Neni 130
+Nxjerrja e akteve nënligjore Ministria nxjerr aktet nënligjore sipas nenit 5 paragrafi 4; nenit 6, paragrafi 6; nenit 47 paragrafi 2; nenit 48 paragrafi 1; neni 49 paragrafi 3; nenit 52 paragrafi 2; nenit 54 paragrafi 3; nenit 60 paragrafi 3; nenit 76 paragrafi 2; nenit 77 paragrafi 2; nenit 79 paragrafi 7; nenit 80 paragrafi 7; nenit 83 paragrafi 4; nenit 88 paragrafi 6; nenit 92; nenit 94 paragrafi 2; nenit 109 paragrafi 2 dhe nenit 125 paragrafi 4, në afat prej dymbëdhjetë (12) muajsh nga hyrja në fuqi e këtij ligji.

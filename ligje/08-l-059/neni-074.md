@@ -1,0 +1,5 @@
+# Neni 74
+Njohja e së drejtës së patentës 1. Nëse konstatohet që aplikimi për patentë përmbush të gjitha kërkesat e përcaktuara në nenet 70 dhe 72, paragrafi 1 të këtij ligji, API-ja nxjerr vendim për njohjen e së drejtës së patentës dhe e regjistron patentën në Regjistrin e patentave.
+2. API-ja nxjerr vendimin sipas paragrafit 1 të këtij neni pas skadimit të afatit prej tetëmbëdhjetë (18) muajsh nga data e dorëzimit të aplikimit, ose nëse kërkohet përparësia, nga data e mëhershme e përparësisë, me kusht që taksa për mirëmbajtjen e patentës, vendimit, publikimit, certifikatës dhe specifikacionit të jenë paguar nga aplikuesi sipas nenit 48 të këtij ligji, apo brenda dy (2) muajve nga marrja e njoftimit të API-së.
+3. Patenta e njohur prodhon efekte juridike ndaj palëve të treta nga data e publikimit në Buletinin Zyrtar të API-së.
+4. Deri sa të nxirret vendimi sipas nenit 79, paragrafi 2 të këtij ligji, fusha e mbrojtjes përcaktohet sipas përmbajtjes së kërkesave patentore, sipas aplikimit.

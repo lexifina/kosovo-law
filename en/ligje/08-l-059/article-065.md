@@ -1,0 +1,3 @@
+# Article 65
+Elements of the invention regarding the patent claim on priority right 1. If the recognition of one or more priority rights is claimed, the right shall cover only those elements of the invention which are included in the first application or applications whose priority is claimed.
+2. If certain elements of the invention for which priority is claimed do not appear among the patent claims formulated in the previous application, the right of priority may nonetheless be granted, provided that the elements of the previous application can be verified by all constituent parts of application.

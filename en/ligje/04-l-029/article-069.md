@@ -1,6 +1,0 @@
-# Article 69
-Determination of the application filing Date
-1. The Office shall, when determining the application filing date, examine whether the requirements of Article 51 of this Law are met.
-2. If the application does not contain all items referred to in Article 51 of this Law and the date of filing cannot be determined, the Office shall invite the applicant to correct the deficiencies indicated in the invitation, within a time limit of two (2) months as from the day of receipt of the invitation.
-3. If the applicant does not comply with the office invitation within the time limit referred to in paragraph 2 of this Article, the patent application shall be rejected with decision.
-4. If the applicant corrects the deficiencies within the time limit referred to in paragraph 2 of this Article, the Office shall issue a notification whereby the date of receipt of the required corrections shall be determined as the filing date of the patent application, and it shall enter the application into the Register of Patent Applications kept by the Office.

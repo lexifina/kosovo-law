@@ -1,0 +1,5 @@
+# Neni 53
+Bashkimi i shpikjeve 1. Për çdo shpikje paraqitet aplikim i veçantë për patentë.
+2. Me një aplikim për patentë mund të kërkohet njohja e patentës për më shumë shpikje vetëm në rastet kur ato shpikje janë të lidhura ndërmjet tyre ashtu që formojnë një koncept unik të shpikjes dhe me to realizohet uniteti i shpikjes.
+3. Kur me aplikimin për patentë deklarohet një grup shpikjesh, kërkesa për bashkim të tyre realizohet vetëm kur ekziston lidhja teknike midis atyre shpikjeve, që përfshin një apo më shumë tipare teknike të njëjta ose korresponduese të tipareve të veçanta teknike. Shprehja “tipare të veçanta teknike” nënkupton ato tipare që definojnë kontributin e secilës prej shpikjeve të deklaruara, që të marra si tërësi, tejkalojnë njohuritë e mëparshme.
+4. Përcaktimi nëse një grup i shpikjeve është i lidhur në atë mënyrë që përbën koncept të vetëm të përgjithshëm shpikës bëhet pa marrë parasysh nëse shpikjet janë deklaruar në kërkesa të ndara ose si alternativa brenda një kërkese të vetme.

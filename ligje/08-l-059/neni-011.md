@@ -1,0 +1,6 @@
+# Neni 11
+Risia 1. Shpikja konsiderohet e re nëse nuk bën pjesë në njohuritë e mëparshme.
+2. Njohuria e mëpërparshme përbëhet prej gjithë asaj që i është vënë në dispozicion publikut në nivel botëror, me anë të përshkrimit të shkruar ose gojor, përdorimit, ose në ndonjë mënyrë tjetër, para datës së dorëzimit të aplikimit për patentë.
+3. Njohuri të mëparshme përbëjnë edhe përmbajtja e aplikimit për patentë kombëtare ashtu siç është dorëzuar, datat e dorëzimit të të cilave janë më të hershme se sa data e aplikimit, të theksuara në paragrafin 2 të këtij neni, dhe të cilat janë botuar në këtë datë ose pas kësaj date.
+4. Paragrafët 2 dhe 3 të këtij neni nuk përjashtojnë patentueshmërinë - mbrojtjen me patentë të substancës ose përbërjes, e cila bën pjesë në njohuritë e mëparshme për përdorim në metodat e theksura në nenin 9, paragrafi 1, nën-paragrafi 1.3. të këtij ligji, me kusht që përdorimi i saj në metoda të tilla nuk bën pjesë në njohuritë e mëparshme.
+5. Paragrafët 2 dhe 3 të këtij neni nuk përjashtojnë patentueshmërinë e asnjë substance ose përbërjeje të theksuar në paragrafin 4 të këtij neni për përdorim specifik në metodën e theksuar në nenin 9, paragrafi 1, nën- paragrafi 1.3. i këtij ligji, me kusht që përdorimi i tillë nuk është pjesë e njohurive të mëparshme ekzistuese.

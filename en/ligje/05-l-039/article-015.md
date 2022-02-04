@@ -1,4 +1,0 @@
-# Article 15
-In Article 93 of the basic Law, paragraph 1 and 2 shall be deleted and reworded with the following text:
-1. Within the limits of the protection conferred by the basic patent, the protection given by the Protection Supplementary Certificate shall extend only to the product covered by the authorisation to place on the market a medicinal product intended for humans or animals, or a plant protection product respectively, as well as for any use of the product as a medicinal product intended for humans or animals, or a plant protection product, respectively, that has been authorized before the expiry of the Protection Supplementary Certificate
-2. The Protection Supplementary Certificate shall confer to the owner of the basic patent or to his successor in title the same rights as are conferred by the basic patent and shall be subject to the same limitations and the same obligations.

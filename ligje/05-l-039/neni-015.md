@@ -1,4 +1,0 @@
-# Neni 15
-Në nenin 93 të ligjit bazik, paragrafët 1 dhe 2 fshihen dhe riformulohen me tekstin si në vijim:
-1. Brenda kufijve të mbrojtjes që e siguron patenta bazë, mbrojtja e dhënë nga „Certifikata Suplementare për Mbrojtje“ duhet të kufizohet vetëm për produktin e mbuluar nga autorizimi për të vendosur në treg një produkt medicinal të dedikuar për njerëzit apo kafshët, përkatësisht për mbrojtjen e bimëve, si dhe për çdo përdorim të produktit si produkt medicinal të dedikuar për njerëzit apo kafshët, përkatësisht për mbrojtjen e bimëve, që është autorizuar para skadimit të „Certifikatës Suplementare për Mbrojtje“.
-2.Certifikata Suplementare për Mbrojtje“ duhet t’i sigurojë pronarit të patentës bazë ose pasardhësit të tij ligjor të drejtat e njejta që sigurohen nga patenta bazë dhe kjo certifikatë do t’i nënshtrohen kufizimeve dhe obligimeve të njejta.

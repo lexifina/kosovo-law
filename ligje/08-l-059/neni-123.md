@@ -1,0 +1,8 @@
+# Neni 123
+Procedura e përshpejtuar dhe zbatimi i dispozitave të ligjeve të tjera 1. Procedura në lidhje me shkeljen e patentës duhet të jetë e përshpejtuar.
+2. Masat e përcaktuara në nenet 113 deri 124 të këtij ligji vlejnë për çdo shkelje të patentës përveç nëse ligjet e tjera parashohin masa me te favorshme për mbajtësin e patentës.
+3. Gjatë procedurës për shkeljen e të drejtës së patentës zbatohen edhe dispozitat e ligjeve tjera në fuqi.
+4. Me kërkesë të gjykatës ose të palës që ka iniciuar procedurën për shkeljen e së drejtës së patentës, API pranon kërkesën për shfuqizimin ose shpalljen e pavlefshmërisë së vendimit për patentën e regjistruar, të paraqitur para ose gjatë procedurës dhe vepron në procedurë të shpejtë. Gjykata, duke marrë parasysh rrethanat, vendos ndërprerjen e procedurës deri te vendimi përfundimtar.
+5. Masat, procedurat dhe mjetet e parapara me nenet 113 deri 124 të këtij ligji duhet të jenë të drejta, të barabarta, proporcionale dhe të përballueshme. Ato nuk duhet të parashohin afate kohore të paarsyeshme apo vonesa të paarsyeshme dhe duhet të zbatohen ashtu që të evitojnë barrierat në tregti dhe të ofrojnë mbrojtje kundër abuzimit te tyre.
+6. Në zbatimin e neneve 113 deri 124 të këtij ligji vlejnë dispozitat e Ligjit përkatës për Procedurën Kontestimore për shpenzimet procedurale me rastin e njohjes së shpenzimeve ligjore dhe shpenzimeve të bartura nga pala e suksesshme. Çfarëdo shpenzimi procedural i njohur duhet të kompensohet nga pala humbëse. Në veçanti, shpenzimet dhe tarifat ligjore duhet të përfshijnë çfarëdo shpenzimi të ndërlidhur siç janë shpenzimet e dëshmitarëve, avokatëve, ekspertëve dhe këshilltarëve teknik të palëve dhe shpenzimet për zbulimin e shkelësve.
+LIGJI NR. 08/L-059 PËR PATENTAT

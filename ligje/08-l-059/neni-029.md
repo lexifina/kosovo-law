@@ -1,0 +1,3 @@
+# Neni 29
+Shterimi i të drejtave ekskluzive 1. Të drejtat ekskluzive të fituara me patentë që kanë të bëjnë me veprimet e kryera në territorin e Republikës së Kosovës në lidhje me produktin e mbrojtur me patentë, konsiderohen të shuara me vënien e produktit të patentuar në tregun e Republikës së Kosovës nga pronari i patentës ose me pëlqimin e tij, përveç nëse ekzistojnë shkaqe të tjera ligjore në bazë të të cilave pronari i patentës mund të ndalojë tregtimin e mëtejshëm të produktit dhe procesit.
+2. Dispozitat e paragrafit 1 të këtij neni zbatohen gjithashtu me ndryshimet e nevojshme në të drejtat ekskluzive të dhëna me Certifikatë.

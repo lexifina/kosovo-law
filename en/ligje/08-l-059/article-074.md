@@ -1,0 +1,5 @@
+# Article 74
+Grant of the Patent rights 1. If it has been established that the patent application complies with all the requirements referred to in Articles 70 and 72 paragraph 1 of this Law, the IPA shall issue a decision on the grant of a patent and enter the patent in the Register of patents.
+2. IPA shall issue a decision referred to in paragraph 1 of this Article after the expiry of eighteen (18) months from the date of filing, or if priority is claimed, the earlier date of priority provided that the fees for the maintenance of a patent, for printing of the publication thereof, and for the issuance of the patent certificate and patent specification have been paid in compliance with Article 48 of this Law from the applicant or in time period of two (2) months after notification issued by the IPA.
+3. Granted patent takes effect against third parties from the date of its publication in the Official Bulletin of the IPA.
+4. Until the issuance of a decision under Article 79 paragraphs 2 of this Law, the scope of protection shall be determined by the contents of patent claims as applied.

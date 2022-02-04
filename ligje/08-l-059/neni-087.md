@@ -1,0 +1,3 @@
+# Neni 87
+Aplikimi për Certifikatë 1. Aplikimi për Certifikatë dorëzohet në API brenda gjashtë (6) muajve nga data e dhënies së autorizimit, sipas nenit 86, paragrafi 1, nën-paragrafi 1.2 të këtij ligji, si dhe nëse autorizimi është dhënë para dhënies së patentës bazë, brenda gjashtë (6) muajve nga data e dhënies së patentës.
+2. Aplikimi për kohëzgjatjen e afatit të përmendur në paragrafin 5 të nenit 85 të këtij ligji mund të bëhet në API kur paraqitet aplikimi për certifikatë ose kur aplikimi për certifikatë është ende i pazgjidhur dhe plotësohen kushtet e përcaktuara në paragrafin 4 dhe 5, të nenit 88 të këtij ligji. Aplikimi për kohëzgjatje të afatit të certifikatës së dhënë mund të parashtrohet jo më vonë se dy (2) vite para skadimit të afatit të certifikatës.

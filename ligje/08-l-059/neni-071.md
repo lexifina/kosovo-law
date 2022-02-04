@@ -1,0 +1,3 @@
+# Neni 71
+Shqyrtimi i vizatimeve apo i pjesëve që mungojnë nga përshkrimi 1. Nëse gjatë shqyrtimit, API-ja vërteton se mungon një pjesë e përshkrimit apo e vizatimit nga aplikimi, ajo njofton aplikuesin që të plotësojë aplikimin me pjesët e përshkrimit apo vizatimet që mungojnë brenda dy (2) muajve nga pranimi i njoftimit.
+2. Nëse pjesa e munguar e përshkrimit ose vizatimeve dorëzohet në API brenda afatit kohor të caktuar në paragrafin 1 të këtij neni, ajo pjesë e përshkrimit ose ai vizatim përfshihet në aplikim dhe data e dorëzimit është data në të cilën API-ja ka pranuar pjesën e përshkrimit ose vizatimit. Në të kundërtën, konsiderohet se aplikuesi nuk u referohet pjesëve të përshkrimit apo vizatimeve.

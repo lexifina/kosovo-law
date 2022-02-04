@@ -1,9 +1,0 @@
-# Neni 67
-Rivendosja e së drejtës së përparësisë
-1. Nëse aplikacioni për patentë me të cilin është kërkuar e drejta e përparësisë nga aplikacioni i parë i paraqitur në datën i cili është i mëvonshëm se data në të cilën kalon periudha e përparësisë në bazë të nenit 63 paragrafi 1. të këtij ligji, paraqitësi i aplikacionit të patentës mund të paraqes kërkesë për rivendosjen e së drejtës së përparësisë.
-2. Kërkesa e përcaktuar në paragrafin 1. të këtij neni dorëzohet brenda dy (2) muajve nga data e skadimit të periudhës së të drejtës për përparësi.
-3. Zyra miraton kërkesën për rivendosjen e të drejtës së përparësisë, me kusht që aplikuesi:
-3.1. të cekë arsyet të cilat vërtetojnë se deri te lëshimi i afatit me të cilin pranohet periudha e përparësisë ka ardhur edhe përkundër kujdesit të duhur; dhe
-3.2. të paguaj tarifat e përcaktuar me nenin 48 të këtij ligji.
-4. Nëse aplikuesi nuk i plotëson kushtet nga paragrafi 3. i këtij neni, Zyra me vendim refuzon kërkesën për rivendosjen e së drejtës së përparësisë.
-5. Kërkesa e cekur në paragrafin 1. të këtij neni nuk mund të paraqitet pasi që aplikuesi ka dorëzuar kërkesën për publikimin e aplikimit sipas nenit 75 paragrafit 2. të këtij ligji, përveç nëse kërkesa e tillë për publikim, është tërhequr para se të kenë përfunduar përgatitjet teknike për publikimin e aplikimit.

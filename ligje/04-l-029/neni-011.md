@@ -1,7 +1,0 @@
-# Neni 11
-Risia
-1. Shpikja konsiderohet e re, nëse nuk bënë pjesë në njohuritë e mëparshme.
-2. Njohuria e më përparshme përbëhet prej gjithë asaj që i është vënë në dispozicion publikut në nivel botëror, me anë të përshkrimit të shkruar ose gojor, përdorimit, ose në ndonjë mënyrë tjetër, para datës së dorëzimit të aplikacion për patentë.
-3. Njohuri të mëparshme përbëjnë edhe përmbajtja e aplikacionit për patentë kombëtare ashtu siç është dorëzuar, si dhe pas pranimit të Republikës së Kosovës në Traktatin e bashkëpunimit për patenta dhe Konventën Evropiane të patentave, përmbajtja e të gjitha aplikacioneve për patentë ndërkombëtare dhe Evropiane me efekt për Kosovën, datat e dorëzimit të të cilave janë të më hershme se sa data e aplikacionit, të cekur në paragrafin 2. të këtij nenin, dhe të cilat janë botuar në këtë datë ose pas kësaj date.
-4. Paragrafët 2. dhe 3. të këtij neni nuk përjashtojnë patentueshmërinë - mbrojtjen me patentë e substancës ose përbërjes, e cila bënë pjesë në njohuritë e mëparshme për përdorim në metodat e cekura në nenin 9 paragrafi 1. nën-paragrafi 1.3. të këtij ligji, me kusht që përdorimi i saj në metoda të tilla nuk bënë pjesë në njohuritë e mëparshme.
-5. Paragrafët 2. dhe 3. të këtij neni nuk përjashtojnë patentueshmërinë e asnjë substance ose përbërjeje të cekur në paragrafin 4. të këtij neni për përdorim specifik në metodën e cekur në nenin 9 paragrafi 1. nën-paragrafi 1.3. i këtij ligji, me kusht që përdorimi i tillë nuk është pjesë e njohurive të mëparshme ekzistuese.

@@ -1,6 +1,0 @@
-# Neni 68
-Korrigjimi ose plotësimi i kërkesës të së drejtës së përparësisë
-1. Aplikuesi për patentë, mund të paraqes kërkesën për korrigjimin ose plotësimin e kërkesës për njohjen e së drejtës së përparësisë, brenda afatit kohor prej gjashtëmbëdhjetë (16) muajve nga data e së drejtës për përparësi, apo nëse korrigjimi ose plotësimi do të shkaktoj ndryshime në datën e përparësisë, gjashtëmbëdhjetë (16) muaj nga data e kërkuar për korrigjim apo plotësim të përparësisë, nga periudha e mëhershme gjashtëmbëdhjetë (16) mujore, me kusht që kërkesa e tillë të jetë paraqitur brenda katër (4) muajve nga data e paraqitjes së aplikacionit për patentë.
-2. Për korrigjimin apo plotësimin e kërkesës sipas paragrafit 1. të këtij neni aplikuesi paguan tarifën përkatëse. Në rast të mospagimit të tarifës kërkesa konsiderohet se nuk është bërë.
-3. Nëse data e përparësisë është ndryshuar për shkak të korrigjimit ose plotësimit të kërkesës, afati kohor duhet të llogaritet nga data e përparësisë së ndryshuar.
-4. Kërkesa sipas paragrafit 1. të këtij neni nuk mund të paraqitet pasi që aplikuesi ka dorëzuar kërkesën për publikimin e aplikimit sipas nenit 75 paragrafit 2. të këtij ligji, përveç nëse kërkesa e tillë për publikim, është tërhequr para se të kenë përfunduar përgatitjet teknike për publikimin e aplikimit.

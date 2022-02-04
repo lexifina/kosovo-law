@@ -1,4 +1,0 @@
-# Neni 87
-Aplikimi për certifikatë
-1. Aplikacioni për certifikatë dorëzohet në Zyrë, brenda gjashtë (6) muajve nga data e dhënies së autorizimit, sipas nenit 86 paragrafi 1. nën-paragrafi 1.2. të këtij ligji dhe nëse autorizimi është dhënë para dhënies së patentës bazë, brenda gjashtë (6) muajve nga data e lëshimit të vendimit sipas nenit 80 paragrafit 2. të këtij ligji.
-2. Aplikacioni për kohëzgjatjen e afatit të përmendur në paragrafin 5. të nenit 85 të këtij ligji mund të bëhet kur parashtrohet aplikacioni për certifikatë ose kur aplikacioni për certifikatë është ende i pa zgjidhur dhe plotësohen kushtet e përcaktuara në paragrafin 4. apo paragrafin 5. të nenit 88 aplikacioni për kohëzgjatje të afatit të certifikatës së dhënë mund të parashtrohet jo më vonë se dy (2) vite para mbarimit të afatit të certifikatës.

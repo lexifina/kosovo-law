@@ -1,0 +1,5 @@
+# Article 53
+Unity of the inventions 1. A separate patent application is submitted for each invention.
+2. With a patent application, the recognition of a patent may be requested for more inventions only in cases when those inventions are connected with each other so that they form a unique concept of invention and with them the unity of invention is realized.
+3. Where a group of inventions is claimed in a patent application, the requirement of unity of shall be fulfilled only when there is a technical relationship among those inventions involving one or more of the same or corresponding special technical features. The expression “special technical features“ shall mean those features, which define a contribution which each of the claimed inventions considered as a whole makes over the prior knowledge.
+4. The determination whether a group of inventions is so linked as to form a single general inventive concept shall be made without regard to whether the inventions are claimed in separate claims or as alternatives within a single claim.

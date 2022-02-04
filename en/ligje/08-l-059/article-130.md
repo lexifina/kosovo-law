@@ -1,0 +1,2 @@
+# Article 130
+Issuance of sub-legal acts The Ministry shall issue sub-legal acts according to Article 5 paragraph 4; Article 6 paragraph 6; Article 47 paragraph 2; Article 48 paragraph 1; Article 49 paragraph 3; Article 52 paragraph 2; Article 54 paragraph 3; Article 60 paragraph 3; Article 76 paragraph 2; Article 77 paragraph 2; Article 79 paragraph 7; Article 80 paragraph 7; Article 83 paragraph 4; Article 88 paragraph 6; Article 92; Article 94 paragraph 2; Article 109 paragraph 2 and Article 125 paragraph 4, within twelve (12) months from the entry into force of this Law.
