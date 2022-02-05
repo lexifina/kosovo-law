@@ -1,4 +1,0 @@
-# Neni 74
-Sigurimi i dëshmive gjatë procedurës civile 1. Kur pala në procedure civile kërkon dëshmi të cilat pretendon se i përkasin palës kundërshtuese apo që janë nën kontrollin e saj, gjykata fton palën kundërshtuese t’i paraqesë dëshmitë e tilla brenda afatit të caktuar kohor.
-2. Kur pronari i dizajnit është paditës dhe pretendon se shkelja e dizajnit është kryer në veprimtari komerciale me qëllim të përfitimit material apo ekonomik dhe këtë e vërteton gjatë procedurës, si dhe paraqet dëshmi si: dokumente bankare, financiare ose dokumente komerciale apo dëshmi të tjera duke pretenduar se ato i përkasin palës kundërshtuese apo janë nën kontrollin e saj, gjykata fton palën kundërshtuese t’i paraqesë dëshmitë e tilla brenda afatit të caktuar kohor.
-3. Kur pala ftohet që të paraqesë dëshmitë dhe ajo nuk pranon që dëshmitë i përkasin asaj ose janë nën kontrollin e saj, gjykata mund t’i marrë dëshmitë për të vërtetuar një fakt të tillë.

@@ -1,8 +1,0 @@
-# Article 45
-Deferment of publication 1. The applicant may request, while filing the application, that the publication of the registered industrial design be deferred for a period of twelve (12) months from the date of filing the application or, if a priority is claimed, from the date of priority.
-2. Upon such request, where the conditions set out in paragraph 1. of this Article, the industrial design shall be registered, either the design presentation nor any data relating to the application shall not be open to public.
-3. The Agency shall publish in its bulletin the request on the deferment of the publication of the registered industrial design, which shall be accompanied by information on the holder of the registered industrial design, the date of filing the application and other information defined by sub-legal act.
-4. In the case referred to in paragraph 1. of this Article, the Agency at the expiry of the period of deferment, shall invite the applicant or design owner, within thirty (30) days from the day of receiving invitation, to provide a graphic or photographic reproduction of the design as prescribed by Article 28, paragraph 1 sub-paragraph 1.3. of this Law.
-5. If the holder of the industrial design fails to comply with the invitation referred to in paragraph 4. of this Article or if the maintenance fee for the first five (5) year period of industrial design protection has not been paid, it is considered that the industrial design has not have legal effects.
-6. In the case of the multiple applications as to Article 29 of this law, provisions referred to
-LAW No. 05/L -058 ON INDUSTRIAL DESIGN paragraph 1. and 3. of this Article may also apply only to some of the designs included in that application.

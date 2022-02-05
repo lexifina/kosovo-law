@@ -1,0 +1,2 @@
+# Neni 78
+Nxjerrja e akteve nënligjore Ministri nxjerr akte nënligjore sipas nenit 21 paragrafi 4., neni 22 paragrafi 9., nenit 23 paragrafi 5., neni 28 paragrafi 4., neni 30 paragrafi 3., neni 36 paragrafi 2., nenit 38 paragrafi 3., nenit 40 paragrafi 8., neni 44 paragrafi 2., neni 45 paragrafi 3., neni 46 paragrafi 2., neni 49 paragrafi 4., neni 50 paragrafi 6., neni 54 paragrafi 4. dhe neni 71 paragrafi 2., në afat prej dymbëdhjetë (12) muajsh nga hyrja në fuqi e këtij ligji.

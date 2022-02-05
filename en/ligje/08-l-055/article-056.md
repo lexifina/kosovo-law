@@ -1,0 +1,5 @@
+# Article 56
+Participation of suspected violator in procedure 1. In case of the submission of the request for invalidation of registered industrial design during the protection period and until AIP has not yet made a decision, a third person who testifies that against him court proceedings have been initiated because of infringement of this design, as well as the applicant for invalidity announcement, can join as a party to the procedures for the announcement of design’s invalidity, such request shall be submitted at the AIP.
+2. The paragraph 1. of this Article shall also be applied in cases when any third party proves that the right holder of the industrial design has requested that he/she ceases an alleged infringement of the design and the third party has initiated the procedure to prove that he/she has not infringed the industrial design.
+3. The request to join as a party shall be submitted in writing and shall include the causes for the join. The request shall not be reviewed until the specified fees have been paid in accordance to Article 54 paragraph 3. of this Law.
+LAW NO. 08/L-055 ON INDUSTRIAL DESIGN

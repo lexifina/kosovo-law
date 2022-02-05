@@ -1,2 +1,0 @@
-# Neni 65
-Personat që kanë të drejtë të kërkojnë zbatimin e të drejtave Përpos pronarit të së drejtës ose personave të autorizuar nga pronari i së drejtës në përputhje me rregullat e përgjithshme të përfaqësimit, zbatimi i të drejtave të fituara nga ky Ligj ka të drejtë të kërkohet edhe nga i licencuari me licencë ekskluzive deri në atë masë të cilën ai/ajo e ka fituar të drejtën për përdorim të dizajnit industrial në bazë të ligjit ose transaksionit ligjor.

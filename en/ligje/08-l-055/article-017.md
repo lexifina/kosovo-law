@@ -1,0 +1,4 @@
+# Article 17
+The exclusive rights granted by the industrial design 1. The owner of the industrial design shall have the exclusive right to use the registered design and prevent third parties from using the design without his/her permission.
+2. The use, pursuant to paragraph 1. of this Article, shall include especially the processing, offer, placement on the market, import, export or the use of the product in composition of which the design is applied or the storage of the product for these purposes is included.
+3. If the publication of a registered industrial design is deferred in accordance of Article 45 of this Law, for the duration of the deferment, the owner of the industrial design shall have the right to prevent third parties from taking the actions referred to in paragraph 2. of this Article, only if such use results from copying of the registered design.

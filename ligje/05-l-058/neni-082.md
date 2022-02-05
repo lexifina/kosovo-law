@@ -1,2 +1,0 @@
-# Neni 82
-Marrëdhënia me të drejtën e autorit Dizajni i mbrojtur nga e drejta e dizajnit industrial e regjistruar në pajtim me këtë Ligj (në ose në lidhje me Republikën e Kosovës), duhet të kenë të drejtë për mbrojtje në bazë të Ligjit për të Drejtat e Autorit dhe të Drejtat e Përafërta, që nga data kur është krijuar dizajni. Shkalla në të cilën, dhe kushtet në të cilat, ipet një mbrojtje e tillë, duke përfshirë nivelin e origjinalitetit të kërkuar, duhet të përcaktohet me Ligjin për të Drejtat e Autorit dhe të Drejtat e Përafërta.

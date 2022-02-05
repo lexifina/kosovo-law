@@ -1,0 +1,4 @@
+# Neni 68
+Sigurimi i dëshmive gjatë procedurës civile 1. Kur pala në procedurë civile kërkon dëshmi të cilat pretendon se i përkasin palës kundërshtuese apo që janë nën kontrollin e saj, gjykata e fton palën kundërshtuese që t’i paraqesë dëshmitë e tilla brenda afatit të caktuar kohor.
+2. Me kërkesë të palës që ka prezantuar dëshmi për ta mbështetur shkeljen e një dizajni në një shkallë komerciale me qëllim të përfitimit material apo ekonomik dhe ka specifikuar gjatë procedurës dëshmi si: dokumente bankare, financiare ose dokumente komerciale nën kontrollin e palës kundërshtare, gjykata e fton palën kundërshtuese që t’i paraqesë dëshmitë e tilla brenda afatit të caktuar kohor, me kusht të ruajtjes së informacionit konfidencial.
+3. Kur pala ftohet që t’i paraqesë dëshmitë dhe nuk pranon se këto dëshmi i përkasin dhe janë nën kontroll të palës, gjykata mund t’i marrë dëshmitë për ta vërtetuar një fakt të tillë.

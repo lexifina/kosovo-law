@@ -1,0 +1,5 @@
+# Neni 56
+Pjesëmarrja e shkelësit të dyshuar në procedurë 1. Në rast të paraqitjes së kërkesës për shpalljen e pavlefshmërisë së dizajnit industrial të regjistruar, të paraqitur gjatë periudhës së mbrojtjes dhe derisa API nuk ka marrë ende vendim, personi i tretë i cili dëshmon se kundër tij është filluar procedurë gjyqësore për shkak të shkeljes së këtij dizajni si dhe paraqitësi i kërkesës për shpallje të pavlefshmërisë mund të bashkohen si palë në procedurën e shpalljes së pavlefshmërisë së dizajnit, ndërsa kërkesa e tillë paraqitet në API.
+2. Paragrafi 1. i këtij neni zbatohet edhe në rastet kur pala e tretë dëshmon se pronari i së drejtës së dizajnit industrial ka kërkuar që ta ndërpresë shkeljen e dyshuar të dizajnit dhe se pala e tretë e ka filluar procedurën për të vërtetuar se nuk e ka shkelur dizajnin industrial.
+3. Kërkesa për t’u bashkuar si palë duhet të paraqitet me shkrim dhe përfshin deklarimin e arsyeve për bashkim. Kërkesa shqyrtohet pasi të jetë paguar taksa përkatëse sipas nenit 54, paragrafit 3. të këtij ligji.
+LIGJI NR. 08/L-055 PËR DIZAJNIN INDUSTRIAL

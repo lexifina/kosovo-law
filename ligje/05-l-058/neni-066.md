@@ -1,5 +1,0 @@
-# Neni 66
-Kërkesa për deklarimin dhe kërkesa për ndërprerjen e shkeljes së dizajnit 1. Pronari i dizajnit mund të inicioj procedurë gjyqësore për vërtetimin e shkeljes së të drejtave të dizajnit të tij, kundër personit i cili ka shkelur të drejtën e dizajnit, duke kryer pa autorizim ndonjë prej veprimeve të përcaktuara sipas nenit 17 të këtij ligji duke kërkuar deklarimin e shkeljes.
-24 Ligji Nr. 05/L -058 PËR DiZAjNiN iNDUSTRiAL 2. Pronari i dizajnit industrial mund të inicioj procedurë gjyqësore kundër personit i cili ka shkelur dizajnin duke kryer pa autorizim ndonjë prej veprimeve të përcaktuara sipas nenit 17 të këtij ligji, duke kërkuar ndalimin e shkeljeve të tilla ose të ngjashme në të ardhmen.
-3. Pronari i dizajnit mund të inicioj procedurë gjyqësore kundër personit i cili ka ndërmarrë veprime pa autorizim, që kanë shkelur apo përbëjnë tentim serioz për shkelje të dizajnit dhe kërkon ndalimin e veprimeve të tilla.
-4. Procedura sipas paragrafit 1, 2 dhe 3 të këtij neni mund të iniciohet kundër personit i cili gjatë aktivitetit afarist kryen shërbime që përdoren në veprimet që shkelin dizajnin ose nga i cili mund të pasojë shkelja e dizajnit.

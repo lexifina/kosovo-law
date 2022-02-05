@@ -1,4 +1,0 @@
-# Article 67
-The request for seizure and destruction of products 1. The holder of an industrial design may initiate a legal action against a person who has infringed an industrial design by performing without authorization of any of the acts referred to in Article 17 of this Law, claiming that the products infringing the industrial design be removed from the market, seized or destroyed at the expense of that person.
-2. The court shall order the measures referred to in paragraph 1. of this Article at the expense of the defendant, unless there are special reasons that such an act not to be undertaken.
-LAW No. 05/L -058 ON INDUSTRIAL DESIGN 3. When the measures are imposed as specified in paragraph 1. of this Article, the Court must ensure that they are proportionate to the nature and reliability of the violation.

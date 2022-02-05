@@ -1,2 +1,0 @@
-# Article 43
-Registration If the application fulfills requirements for registration of an industrial design according to Article 41 of this Law, to the extent that the application has not been refused by virtue of Article 42 of this Law, the Agency by decision registers the design, under the condition that the fee for registration of the industrial design has been paid within thirty (30) days from the date of receiving of the invitation for registration of the industrial design.

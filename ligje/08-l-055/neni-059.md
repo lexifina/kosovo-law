@@ -1,0 +1,2 @@
+# Neni 59
+Personat që kanë të drejtë të kërkojnë zbatimin e të drejtave të dizajnit Përpos pronarit të dizajnit dhe personave të autorizuar prej tij, zbatimin e të drejtave të dizajnit të fituara nga ky ligj kanë të drejtë ta kërkojnë edhe të licensuarit me licencë ekskluzive nga pronari i dizajnit deri në atë masë në të cilën e kanë fituar të drejtën e përdorimit të dizajnit industrial në bazë të kontratës për licencë sipas këtij ligji.

@@ -1,0 +1,2 @@
+# Article 59
+Persons entitled to request the exercise of design rights In addition to the design owner and persons authorized by him/her, the licensee with the exclusive license of the owner shall be entitled to request the exercise of the rights conferred by this Law to the extent to which they have acquired the right to exploitation of industrial design based on the license contract under this law.

@@ -1,5 +1,0 @@
-# Neni 49
-Vazhdimi i regjistrimit 1. Regjistrimi i dizajnit industrial vazhdohet me kërkesë të pronarit të së drejtës ose nga personi shprehimisht i autorizur nga ai, me kusht që të jetë paguar taksa përkatëse. Kërkesa për vazhdim duhet të paraqitet dhe taksa për vazhdim duhet të paguhet brenda periudhës prej dymbëdhjetë (12) muajsh e cila përfundon në datën e fundit të muajit në të cilin përfundon mbrojtja. Nëse dështohet kjo atëherë kërkesa mund të paraqitet dhe taksa duhet të paguhet brenda periudhës prej gjashtë (6) muajsh pas skadimit të mbrojtjes, me kusht që të jetë paguar taksa shtesë për këtë periudhë.
-2. Vazhdimi i regjistrimit fillon ditën e nesërme të datës së skadimit të afatit të periudhës së mëparshme të mbrojtjes.
-3. Vazhdimi regjistrohet në regjistër dhe publikohet në buletinin e Agjencisë.
-4. Taksa përkatëse lidhur me paragrafin 1 dhe 2 të këtij neni dhe të dhënat të cilat duhet t’i përmbaj aplikacioni për vazhdimin e regjistrimit të dizajnit industrial përcaktohen me akt nënligjor.

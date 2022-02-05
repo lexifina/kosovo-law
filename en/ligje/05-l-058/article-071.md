@@ -1,7 +1,0 @@
-# Article 71
-Request for transferring the design rights through the Court 1. If the design application is filed by an unauthorized person or is registered in the register on the name of the person in conflicting provisions in Articles 11, 12, 13 and 14 of this Law, the authorized person may institute at the court a request for transfer of the industrial design, or to require registration of it in the register as designer in accordance with Article 16 of this Law.
-2. A person authorized as referred in paragraph 1. of this Article may initiate the procedure at the court for transfer of design, throughout the duration of design protection.
-3. The Court should immediately as ex officio, inform the Agency for the judgment against who cannot be appealed, in order to transfer registration in the registry for publication in the bulletin of the Agency.
-4. If the design is transferred through a judgment, license and other rights that are in favour of third parties cease on the day of entry of transfer in the register.
-5. If before registration of transfer of design through a court, the holder of unauthorized design
-LAW No. 05/L -058 ON INDUSTRIAL DESIGN or licensees have used the relevant design used it or made effective and serious preparations to use it in good faith, the court may recognize them the right of non exclusive license for usage after the following request submitted to the court no later than three (3) months from the date of registration of transfer.

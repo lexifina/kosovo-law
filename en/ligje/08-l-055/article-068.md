@@ -1,0 +1,4 @@
+# Article 68
+Providing evidence during the civil procedure 1. When a party to the proceedings requires evidence that belongs to the opposing party or that are under its control, the court shall invite the opposing party to submit such evidence within a specified time.
+2. At the request of the party who has provided evidence to verify the infringement of a design at commercial level for the purpose of material or economic profit and has specified during the proceedings, evidence such as: bank documents, financial or commercial documents under the control of the opposing party, the court shall invite the opposing party to submit such evidence within the prescribed time limit, provided that confidential information is preserved.
+3. If the party is invited to present testimony, refuses that evidences belong to them or are under its control, the court may take the evidences to prove such a fact.
