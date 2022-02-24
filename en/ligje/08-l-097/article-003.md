@@ -1,0 +1,3 @@
+# Article 3
+Attached documents Attached to this Draft Law there is the Agreement between the Republic of Kosovo and the Republic of North Macedonia on Status of the Members of the Security Forces of the Republic of Kosovo and Army of the Republic of North Macedonia during their Temporary Stationing and transit in territory of respective states.
+LAW NO. 08/L -097 ON RATIFICATION OF THE AGREEMENT BETWEEN THE REPUBLIC OF KOSOVO AND THE REPUBLIC OF NORTH MACEDONIA ON STATUS OF THE MEMBERS OF THE SECURITY FORCES OF THE REPUBLIC OF KOSOVO AND ARMY OF THE REPUBLIC OF NORTH MACEDONIA DURING THEIR TEMPORARY STATIONING IN TERRITORIES OF RESPECTIVE STATES
