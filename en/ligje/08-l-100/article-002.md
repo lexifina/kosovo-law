@@ -1,0 +1,3 @@
+# Article 2
+Scope of the Law 1. This Law has as its scope the participation of Kosovo as the Associated Country and will contribute to all parts of the Horizon Europe - Framework Programme on Research and Innovation (Horizon Europe Program) referred to in Article 4 of the Regulation (EU) 2021/695 and implemented through the specific program established by Decision (EU) 2021/764, in their most up-to-date versions, and through a financial contribution to the European Institute of Innovation and Technology.
+2. Regulation (EU) 2021/819 of the European Parliament and of the Council, and Decision (EU) 2021/820, in their most updated versions, shall apply to the participation of Kosovo legal entities in the Knowledge and Innovation Communities.

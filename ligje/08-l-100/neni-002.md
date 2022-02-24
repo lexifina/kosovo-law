@@ -1,0 +1,3 @@
+# Neni 2
+Fushëveprimi i ligjit 1. Ky ligj ka fushëveprim pjesëmarrjen e Kosovës si një vend i asociuar dhe do të kontribuojë në të gjitha pjesët e Programit Horizon Europe - Korniza e Programit për Kërkimin dhe Inovacionin (Programi Horizon Europe) i referuar në nenin 4 të Rregullores (BE) 2021/695 dhe i zbatuar përmes programit specifik i krijuar me Vendimin (BE) 2021/764, në versionet e tyre më të azhurnuara dhe përmes një kontributi financiar në Institutin Evropian të Inovacionit dhe Teknologjisë.
+2. Rregullorja (BE) 2021/819 e Parlamentit Evropian dhe e Këshillit dhe Vendimi (BE) 2021/820, në versionet e tyre më të azhurnuara, do të zbatohen për pjesëmarrjen e subjekteve juridike të Kosovës në Komunitetet e Dijes dhe Inovacionit.
