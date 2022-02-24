@@ -1,0 +1,6 @@
+# Article 5
+Reciprocity 1. Reciprocity exists when a citizen of the Republic of Kosovo or a legal person with seat in Kosovo can acquire the right to immovable property in the state of foreign citizen under the same conditions as the foreign citizen can acquire the right to immovable property in the Republic of Kosovo.
+2. The provisions of this law shall not apply if the manner and conditions for the acquisition of property rights of foreigners to immovable property are governed otherwise by the Law or an international agreement.
+3. In the event of foreign double citizenship, reciprocity shall be determined in accordance with the law of the country in which the foreigner resides or the law of the country in which foreigner had a permanent residence before obtaining the permanent residence permit in the Republic of Kosovo.
+4. When a foreigner is stateless, reciprocity shall be determined in accordance with the legislation of the country of his birth or of the country in which he is registered or in the country in which he was a foreign resident before obtaining the permanent residence permit in the Republic of Kosovo.
+5. Ministry of Justice shall determine the reciprocity and shall maintain a database on the reciprocity with particular countries in relation to ownership rights of foreigners to immovable property.

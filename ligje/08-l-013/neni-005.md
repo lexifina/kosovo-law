@@ -1,0 +1,6 @@
+# Neni 5
+Reciprociteti 1. Reciprociteti ekziston kur një shtetas i Republikës së Kosovës ose një person juridik me seli në Kosovë mund të fitoj të drejtën në pronë të paluajtshme në shtetin e shtetasit të huaj nën kushte të njëjta nën të cilat shtetasit e huaj mund të fitojnë të drejtën në pronë të paluajtshme në Republikën e Kosovës.
+2. Dispozitat e këtij ligji nuk do të zbatohen nëse me Ligj ose me ndonjë marrëveshje ndërkombëtare rregullohet ndryshe mënyra dhe kushtet për fitimin e të drejtave pronësore të të huajve në pasuri të paluajtshme.
+3. Në rastin e shtetësisë së huaj të dyfishtë, përcaktimi i reciprocitetit bëhet duke marrë për bazë ligjin e vendit në të cilin i huaji ka vendbanimin ose ligjin e vendit në të cilin i huaji ka pasur qëndrim të përhershëm para se të marrë një leje qëndrimi të përhershëm në Republikën e Kosovës.
+4. Në rastin kur një i huaj është pa shtetësi, reciprociteti përcaktohet duke marrë për bazë legjislacionin e vendit të lindjes së tij apo vendin në të cilin është i regjistruar ose në vendin në të cilin ishte banor i huaj para se të marrë leje qëndrimi të përhershme në Republikën e Kosovës.
+5. Ministria e Drejtësisë përcakton reciprocitetin dhe mirëmban bazën e të dhënave për reciprocitetin me vende të veçanta mbi të drejtat pronësore në pronën e paluajtshme të huajve.
