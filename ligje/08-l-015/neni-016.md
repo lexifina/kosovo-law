@@ -1,0 +1,21 @@
+# Neni 16
+Kompetencat dhe përgjegjësitë e Kryetarit dhe Nënkryetarit të Gjykatës 1. Kryetari i Gjykatës Komerciale është përgjegjës për administrimin ditor të gjykatës, në përputhje me rregullat dhe procedurat e përcaktuara nga KGJK. Kryetari i Gjykatës Komerciale organizon dhe bashkërendon funksionimin e Gjykatës Komerciale; mbikëqyrë veprimtaritë financiare të Gjykatës Komerciale dhe ndërmerr veprime të cekura me rregullat, procedurat apo urdhëresat e nxjerra nga KGJK.
+2. Kryetari i Gjykatës Komerciale ka këto përgjegjësi:
+2.1. mbikëqyrë punën e Këshilltarit Ligjor dhe funksionimin e Njësisë Ligjore dhe në konsultimin e duhur me gjyqtarët e Gjykatës, do të ndihmojë Këshilltarin Ligjor në marrjen e vendimeve në lidhje me mbajtjen, caktimin dhe vlerësimin e Bashkëpunëtorëve Profesional brenda Njësisë Ligjore;
+2.2. ka autoritet të përgjithshëm administrativ për menaxhimin e gjykatës si dhe siguron administrim efikas dhe efektiv të drejtësisë nga të gjitha shkallët, departamentet dhe divizionet e gjykatës;
+2.3. në bashkëpunim me gjyqtarët e gjykatës, zhvillon planin vjetor për menaxhimin e lëndëve dhe cakton lëndët tek departamentet, në atë mënyrë që të sigurojë zgjidhjen efikase të lëndëve;
+2.4. në baza vjetore i dërgon KGJK- së një raport mbi suksesin e zbatimit të planit të mëparshëm vjetor për menaxhimin e lëndëve;
+2.5. i dërgon KGJK-së raportin tremujor me shkrim, që adreson punën e Gjykatës Komerciale, identifikon çfarëdo probleme me të cilat ballafaqohet Gjykata, si dhe propozon hapa përmirësues për të adresuar problemet e identifikuara;
+2.6. në bazë të rregullave dhe urdhëresave të KGJK-së do të ndërmarrë të gjitha masat e nevojshme, për të siguruar menaxhim efektiv dhe efikas të Gjykatës Komerciale dhe të burimeve të saj, si dhe gjykimin e lëndëve brenda kohës së arsyeshme;
+2.7. është përgjegjës për të siguruar se gjykata dhe procedurat para gjykatës janë të hapura dhe transparente për publikun;
+2.8. pas shqyrtimit dhe pranimit nga KGJK planet dhe raportet tremujore dhe vjetore mbi menaxhimin e lëndëve do të bëhen publike;
+2.9. për të siguruar qasjen e publikut në Gjykatë, përfshirë qasjen e personave nga komunitetet që nuk janë shumicë në Kosovë;
+2.10. thërret takimin vjetor të të gjithë gjyqtarëve për këshillim mbi administrimin e drejtësisë në atë Gjykatë, për të analizuar organizimin e Gjykatës, për të shqyrtuar dhe propozuar ndryshime në procedura dhe praktika; për të ekzaminuar punën e arritur nga Gjykata, si dhe për të adresuar çfarëdo problemi të administratës, me të cilin ballafaqohet Gjykata. Kryetari i Gjykatës Komerciale brenda nëntëdhjetë (90) ditësh i dërgon KGJK-së një raport mbi rezultatet e takimit vjetor të gjyqtarëve;
+2.11. në konsultim me gjyqtarët e Gjykatës Komerciale, Administratorin, Akademinë e Drejtësisë dhe KGJK-në, do ti propozojë një program të rregullt dhe të vazhdueshëm të trajnimit gjyqësor, që adreson zhvillimet materiale juridike dhe praktikat relevante komerciale;
+LIGJI NR. 08/L-015 PËR GJYKATËN KOMERCIALE 2.12. kryen edhe punë tjera të përcaktuara me ligj dhe rregulloret e KGJK-së;
+2.13. Kryetari i Gjykatës Komerciale i raporton KGJK-së.
+3. Kryetari i Gjykatës do të konsultohet nga KGJK gjatë vlerësimit të performancës së Administratorit të Gjykatës.
+4. Kryetari i Gjykatës mund të delegojë detyra administrative tek personeli i përshtatshëm gjyqësor dhe jo-gjyqësor i Gjykatës Komerciale.
+5. Kryetari i Gjykatës Komerciale i propozon Këshillit Gjyqësor të Kosovës që ta caktojë nënkryetarin e Gjykatës Komerciale nga radhët e gjyqtarëve të Gjykatës Komerciale. Në çdo rast, procedura e përzgjedhjes së nënkryetarit duhet të jetë e hapur, transparente dhe me mundësi të barabarta të ofrimit të kushteve për të gjithë kandidatët. Mandati i nënkryetarit të Gjykatës Komerciale është i lidhur me mandatin e kryetarit përkatës.
+6. Nënkryetari i Gjykatës ushtron detyrat e kryetarit të gjykatës në mungesë të tij, apo kur kryetari e ka të pamundshëm ushtrimin e detyrave të tij. Nënkryetari ushtron detyra tjera të cilat i delegohen me shkrim nga Kryetari i Gjykatës.
+7. Kryetari i Gjykatës gjatë mandatit si kryetar nuk ushtron funksionin e gjyqtarit. Pas përfundimit të mandatit si kryetar, vepron si gjyqtar i Dhomës së Shkallës së Dytë të Gjykatës Komerciale.

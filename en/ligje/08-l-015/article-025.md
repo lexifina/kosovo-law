@@ -1,0 +1,2 @@
+# Article 25
+Recruitment of Legal Secretaries and Clerical and Administrative Staff Recruitment of Legal Secretaries and other clerical and administrative staff by the Commercial Court shall be processed pursuant to the applicable law on civil servants as well as regulations of the KJC, whereas the President of the Commercial Court and the Commercial Court judges shall be consulted on the needs for professionals to be recruited in such positions.

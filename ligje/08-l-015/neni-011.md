@@ -1,0 +1,5 @@
+# Neni 11
+Dhomat e Shkallës së Parë 1. Dhomat e Shkallës së Parë shqyrtojnë dhe gjykojnë rastet nga gjyqtari individual.
+2. Dhomat e Shkallës së Parë janë kompetente për të gjykuar në shkallë të parë të gjitha çështjet në juridiksionin e Gjykatës Komerciale.
+3. Me pranimin e një parashtrese që e fillon një rast në Gjykatën Komerciale, Administratori i Gjykatës menjëherë ia cakton rastin Departamentit përkatës. Cilado palë që nuk pajtohet me caktimin e rastit në Departamentin përkatës mund të kundërshtojë dhe të kërkojë që rasti t’i transferohet një departamenti tjetër; por me kusht që çdo kundërshtim i tillë, nëse kërkohet, të parashtrohet në seancën e parë të thirrur për rastin. Nëse kërkesa nuk parashtrohet përbrenda afatit të caktuar, kërkesa për transferim të tillë të rastit mund të refuzohet pa mbajtjen e një seance për shqyrtimin e kërkesës.
+4. Palët mund të ankohen ndaj një urdhri që lejon ose refuzon kërkesën për transferim të tillë të rastit në dhomat e shkallës së dytë brenda një afati prej 7 (shtatë) ditësh.

@@ -1,0 +1,2 @@
+# Neni 32
+Rritja e efikasitetit të Gjykatës Për të rritur efikasitetin e Gjykatës Komerciale për trajtimin e mosmarrëveshjeve në mënyrë të duhur siç parashikohet në këtë Kapitull, me propozim të Kryetarit të Gjykatës Komerciale mund të formohen divizione të specializuara, në pajtim me legjislacionin përkatës në fuqi. Gjyqtarët në këto divizione caktohen nga Kryetari i Gjykatës në mënyrë të përsëritur ose sipas nevojës.

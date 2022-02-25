@@ -1,0 +1,6 @@
+# Neni 9
+Qasja, Barazia dhe Transparenca në Gjykatën Komerciale 1. Gjykata Komerciale trajton të gjithë personat në mënyrë të barabartë, pa diskriminim në bazë të racës, ngjyrës, gjinisë, gjuhës, fesë, opinioneve politike ose të tjera, prejardhjes kombëtare apo shoqërore, lidhjes me ndonjë komunitet, pronës, gjendjes ekonomike, gjendjes sociale, orientimit seksual, lindjes, aftësisë së kufizuar ose ndonjë statusi tjetër personal, ashtu siç përshkruhet në konventat ndërkombëtare.
+2. Çdo person ka qasje të barabartë në Gjykatën Komerciale dhe askujt nuk i mohohet e drejta e një procesi të rregullt gjyqësor, ose për mbrojtje të barabartë para ligjit. Çdo person fizik dhe juridik ka të drejtën në gjykim të drejtë dhe brenda afatit të arsyeshëm kohor.
+3. Çdo person ka të drejtë t’i drejtohet Gjykatës Komerciale për të kërkuar mbrojtjen dhe zbatimin e të drejtave të tij, për aq sa veprimet për të mbrojtur ose zbatuar ato të drejta janë brenda kompetencave të Gjykatës Komerciale.
+4. Të gjitha seancat gjyqësore të Gjykatës Komerciale do të jenë të hapura për publikun përveç nëse ligjet tjera shprehimisht përcaktojnë që çështjet e caktuara të mos zbulohen publikisht.
+5. Gjykata Komerciale do të funksionojë në mënyrë të shpejtë dhe efikase për të siguruar zgjidhjen në kohë të kontesteve.

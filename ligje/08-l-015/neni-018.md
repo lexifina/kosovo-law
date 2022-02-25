@@ -1,0 +1,2 @@
+# Neni 18
+Rregulloret për organizimin e brendshëm të Gjykatës Komerciale KGJK miraton rregullore për organizimin e brendshëm të Gjykatës Komerciale, pas konsultimeve me Kryetarin e Gjykatës Komerciale. Kryetari i Gjykatës do të takohet dhe të konsultojë gjyqtarët, Këshilltarin Ligjor dhe Administratorin për të hartuar politika, shqyrtuar proceset dhe për të përcaktuar shqetësimet e përbashkëta në lidhje me organizimin dhe funksionimin e Gjykatës.
