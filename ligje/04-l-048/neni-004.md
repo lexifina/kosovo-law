@@ -1,3 +1,0 @@
-# Neni 4
-Parimi i tregtisë së lirë
-Autoriteti publik apo aktet normative nuk mund të vendosin kufizime, ndalime ose kushtëzime në asnjë aktivitet tregtar me jashtë, të dëmtojne apo te vendosin kushte mbi aftësinë apo të drejtën e cilitdo resident apo jo-rezident për tu përfshirë apo për tu marrë me aktivitete tregtare me jashtë, përveç në rastet kur ky ligj e përcakton në mënyrë specifike apo e lejon të kundërtën. Gjithashtu, një autoritet publik apo akti normativ nuk mund të vendosë masa të tilla që prodhojnë kërkesa specifike, kufizuese, dhe ndaluese, përveç në rastet kur ky ligj e përcakton në mënyrë specifike apo e lejon të kundërtën.

@@ -1,0 +1,4 @@
+# Neni 22
+Dispozitat e përgjithshme 1. Procedurat e aplikimit, shqyrtimit, dhënies, refuzimit dhe revokimit të lejeve duhet të jenë në përputhje me Ligjin për Sistemin e Lejeve dhe Licencave dhe Ligjin për Procedurën e Përgjithshme Administrative.
+2. Nëse përdoren procedurat e lejeve për administrimin e kuotave, shuma e përgjithshme e kuotave që zbatohet sipas sasisë ose vlerës, datat e hapjes dhe mbylljes së kuotave, dhe çdo ndryshim i tyre botohen. Në rastin e kuotave të alokuara ndërmjet vendeve furnizuese, informacioni mbi aksionet e kuotave të alokuara për vendet e ndryshme furnizuese botohet menjëherë si akt ligjor njëzet e një (21) ditë përpara. Botimi bëhet në Gazetën Zyrtare, në sajtet zyrtare dhe në mediume të tjera plotësuese.
+3. Procedurat e lejeve mund të jenë automatike dhe joautomatike. Kriteret dhe procedurat e lejeve rregullohen me ligjet përkatese dhe aktet nënligjore.

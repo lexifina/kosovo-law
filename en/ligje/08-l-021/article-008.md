@@ -1,0 +1,8 @@
+# Article 8
+National treatment in trade in goods 1. Except as otherwise provided by this Law, products that have been imported into the territory of the Republic of Kosovo shall be accorded no less favorable treatment than that accorded to domestic like products regarding the respective Laws, sub-legal acts and other acts of general application affecting internal sale, offering for sale, purchase, transportation, distribution or use of products.
+2. Products imported into the territory of the Republic of Kosovo shall not be subject, directly or indirectly, to internal taxes or other internal charges of any kind in excess of those applied,
+LAW NO. 08/L - 021 ON FOREIGN TRADE directly or indirectly, to like domestic products. Internal taxes or other internal charges shall not be applied to imported goods so as to afford protection to domestic production.
+3. Except as may be otherwise provided by international agreement, the provisions of this Article shall not apply to:
+3.1. legislation governing the procurement by state authorities of for public purposes and not with a view to commercial resale or use in the production of goods for commercial sale;
+3.2. subsidies paid exclusively to domestic producers, including subsidies to domestic producers derived from the proceeds of internal taxes or charges applied consistently with the provisions of the paragraphs of this Article and subsidies effected through state purchases of domestic products;
+3.3. internal price control measures, unless such measures have the effect of preventing the importation of foreign products, or deprive them of their competitive advantage consisting in lower prices.

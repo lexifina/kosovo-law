@@ -1,0 +1,5 @@
+# Article 35
+National treatment and market access for services 1. National treatment and market access limitations on the supply of services in the territory of the Republic of Kosovo shall be defined by the respective Laws governing the respective sector.
+2. In respect of all measures affecting the supply of services, treatment no less favourable than that accorded to domestic services and service suppliers shall be accorded to like services and service suppliers of another country, if so required and to the extent provided for by a free trade agreement ratified or by other international obligations of the Republic of Kosovo.
+3. The requirement of paragraph 2 of this Article may be met by according to like services and service suppliers of another country either formally identical treatment or formally different treatment to that accorded to domestic like services and service suppliers.
+4. Formally identical or formally different treatment shall be considered to be less favourable if it modifies the conditions of competition in favour of domestic services or service suppliers compared to like services or service suppliers of another country.

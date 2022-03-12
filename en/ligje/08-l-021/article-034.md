@@ -1,0 +1,4 @@
+# Article 34
+Most-Favoured-Nation treatment in Trade in Services 1. With respect to any measure covered by this Law, the most-favoured-nation treatment shall be accorded to the like services and service suppliers of another country, if so required by a free trade agreement ratified or by other international obligations of the Republic of Kosovo.
+2. Treatment no less favourable than treatment accorded to services and service suppliers of another contracting party or third state, shall be accorded immediately and unconditionally to like services and service suppliers of all other parties to the free trade agreement.
+3. Treatment shall be considered to be no less favourable if it does not modify the conditions of competition in favour of domestic services or service suppliers, in comparison with like services or service suppliers of another country.

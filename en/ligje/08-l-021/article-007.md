@@ -1,0 +1,6 @@
+## SUB-CHAPTER I
+## GENERAL PROVISIONS
+# Article 7
+Most-Favoured-Nation Treatment in trade in goods 1. With respect to customs duties and charges of any kind imposed on imports or exports, internal taxes or other internal charges, the levying of such duties and charges, as well as the rules and formalities related to importation and exportation, most-favoured-nation-treatment shall be accorded to imported or exported goods unless otherwise required by international agreement or the provisions of this Law.
+2. Any advantage, favour, privilege or immunity granted by the Republic of Kosovo to any product originating in or destined to another contracting party or to a third State, shall be accorded immediately and unconditionally to the like products originating in or destined to the territories of all other parties to the free trade agreement or of the countries identified in the unilateral decision of the Government.
+3. In the event that any country or region applies prohibitions, restrictions or other like measures imposing an unfair or a discrimination burden against the Republic of Kosovo’s trade, the Government may, at the proposal of the Ministry, take counter-measures against the country or region in question.

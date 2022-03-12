@@ -1,0 +1,4 @@
+# Neni 34
+Trajtimi i kombit më të favorizuar në tregtinë me shërbime 1. Sa i përket cilësdo masë që mbulohet nga ky ligj, trajtimi i vendit më të favorizuar u akordohet shërbimeve të ngjashme dhe furnizuesve të shërbimeve të një vendi tjetër, nëse kështu kërkohet me marrëveshje të ratifikuar të tregtisë së lirë ose me detyrime të tjera ndërkombëtare të Republikës së Kosovës.
+2. Trajtimi jo më pak i favorshëm se trajtimi që u jepet shërbimeve dhe ofruesve të shërbimeve të një pale tjetër kontraktuese ose një shteti të tretë u jepet menjëherë dhe pa kushte shërbimeve dhe ofruesve të shërbimeve të të gjitha palëve të tjera në marrëveshjen e tregtisë së lirë.
+3. Trajtimi konsiderohet të mos jetë më pak i favorshëm nëse nuk modifikon kushtet e konkurrencës në favor të shërbimeve ose furnizuesve vendor të shërbimeve, në krahasim me shërbimet e ngjashme ose furnizuesit e shërbimeve të një vendi tjetër.

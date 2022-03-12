@@ -1,0 +1,6 @@
+## KAPITULLI III
+## TREGTIA ME MALLRA NËNKAPITULLI I DISPOZITA TË PËRGJITHSHME
+# Neni 7
+Trajtimi i kombit më të favorizuar në tregtinë me mallra 1. Në lidhje me detyrimet doganore dhe tarifat e çdo lloji të vendosura për importet ose eksportet, taksat e brendshme ose tarifat e tjera të brendshme, metodën e mbledhjes së detyrimeve dhe tarifave të tilla, si dhe rregullat dhe formalitetet në lidhje me importimin dhe eksportimin, trajtimi i kombit më të favorizuar u akordohet mallrave të importuara ose eksportuara, përveç nëse kërkohet ndryshe nga marrëveshja ndërkombëtare ose dispozitat e këtij ligji.
+2. Çdo avantazh, favor, privilegj ose imunitet i dhënë nga Republika e Kosovës për cilindo produkt që e ka origjinën nga ose është i destinuar për një palë tjetër kontraktuese ose një shtet të tretë, akordohet menjëherë dhe pa kushte për produkte të njëjta që e kanë origjinën nga ose janë të destinuara për territoret e të gjitha palëve të tjera të marrëveshjes së tregtisë së lirë ose të vendeve të identifikuara në vendimin e njëanshëm të Qeverisë.
+3. Në rast se ndonjë vend ose rajon zbaton ndalesa, kufizime ose masa të tjera të ngjashme që vendosin një barrë të padrejtë ose diskriminuese ndaj tregtisë së Republikës së Kosovës, Qeveria me propozim të Ministrisë mund të ndërmarrë kundërmasa ndaj vendit ose rajonit përkatës.
