@@ -1,0 +1,7 @@
+# Article 20
+Other punitive provisions 1. Violation of this Law or sub-legal act arising from this Law shall be prosecuted according to the Law on Minor Offences. Prosecution shall take place within five (5) years after the violation is committed and the punishment is executed within ten (10) years after the decision for punishment becomes final.
+2. Penalties referred to in Article 19 of this Law shall not exclude the obligations and sanctions determined by other laws.
+3. Several penalties referred to in Article 19 of this Law can be applied to a person at the same.
+4. When it ascertains the violation of this Law or of the sub-legal act deriving from this Law, the Market Inspectorate or other competent body may temporarily close the point of sale, in order to protect the public safety, environment, consumer or competition. The point of sale can be reopened when the violation is remedied.
+5. The means collected from the imposition of fines shall be transferred to the budget of the Republic of Kosovo.
+6. Within seven (7) days after the final decision it is ascertained the violation of this Law or sub- legal act deriving from this Law, the Market Inspectorate shall publish a notice of the decision. The notice shall state the name of the entity, the name of the responsible person, the date of the control, the location, the description of the violation, the ascertainment and the measures taken, the legal basis, as well as the copy of the decision.

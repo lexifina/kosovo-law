@@ -1,0 +1,2 @@
+# Article 23
+Repealing Upon entry into force of this Law, Law No. 2004/5 on Trade of Petroleum and Petroleum Products in Kosovo, Law No. 02/L-89 on Amending and Supplementing the Law No. 2004/5 on Trade of Petroleum and Petroleum Products in Kosovo, as well as Law No. 03/L-138 on Amending and Supplementing the Law No. 2004/5 on Trade of Petroleum and Petroleum Products in Kosovo shall be abrogated.
