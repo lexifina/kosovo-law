@@ -1,0 +1,2 @@
+# Neni 3
+Hyrja në fuqi Ky Ligj hyn në fuqi ditën e publikimit në Gazetën Zyrtare të Republikës së Kosovës. Ligji Nr. 08/L-126 24 shkurt 2022 Shpallur me dekretin Nr. DL-80/2022, datë 09.03.2022 nga Presidentja e Republikës së Kosovës Vjosa Osmani-Sadriu _____________________________ *Tabelat e Ligjit nr. 08/L-126 “Për Ratifikimin e i Marrëveshjes për Sigurime Shoqërore në mes të Qeverisë së Republikës së Kosovës dhe Qeverisë së Republikës së Shqipërisë.” bashkangjitur me ligj janë publikuar në web faqen e Gazetës Zyrtare (gzk.rks-gov.net)
