@@ -1,0 +1,2 @@
+# Article 1
+Article 22, paragraph 6. of the basic law is amended as in the following: In case of election in the Assembly of the Republic of Kosovo, the public official, accepting the mandate, suspends the employment relationship from the date of certification of candidate’s election until the end of the respective mandate, in which case he/she returns to an equivalent position. Exceptionally, this paragraph does not apply to academic staff at the universities in the position of full professor, associate professor, assistant professor and university assistant.

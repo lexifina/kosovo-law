@@ -1,0 +1,2 @@
+# Neni 1
+Neni 22, par. 6 i ligjit bazik ndryshohet si në vijim: Në rast të zgjedhjes në Kuvendin e Republikës së Kosovës, zyrtari publik, i cili pranon mandatin, pezullon marrëdhënien e punës prej datës së certifikimit të zgjedhjes së kandidatit deri në përfundim të mandatit përkatës, me ç‘rast kthehet në pozitë ekuivalente. Përjashtimisht, ky paragraf nuk zbatohet ndaj personelit akademik në universitet në pozitën e profesorit të rregullt, profesorit të asociuar, profesor asistent dhe asistent universiteti.
