@@ -1,0 +1,3 @@
+# Article 14
+Paragraph 1. of Article 84 of the basic law is reworded as follows:
+1. Upon receipt of a request for mutual legal assistance, the Ministry, after examining its permissibility, shall send it for execution to the Special Prosecution Office or the competent Basic Prosecution Office. In case the competent authority is a basic prosecution office, the jurisdiction shall be determined based on the territory the person concerned resides or may be found, or the object concerned is located. In case the residence of the person is unknown, then the competent authority is the Basic Prosecution Office in Prishtina.
