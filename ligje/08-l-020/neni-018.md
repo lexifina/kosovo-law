@@ -1,0 +1,2 @@
+# Neni 18
+Përcjellja e kërkesave dhe komunikimeve tjera Kërkesat dhe komunikimet, të parapara në Kapitullin III, duhet të përcjellën në mënyrat më të shpejta të mundshme, të cilat shteti i kërkuar ka bërë të ditur se i pranon. Përcjellja mund të bëhet me çfarëdo mjeti të përshtatshëm, me kusht që dokumenti i pranuar reflekton drejtë përmbajtjen e dokumentit të përcjellur dhe të gjitha informatat në të janë të lexueshme.

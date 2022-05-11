@@ -1,0 +1,4 @@
+# Article 11
+Service of transmitted documents 1. The requested court of Kosovo shall serve the document or have it served, in accordance with the legislation of Kosovo, or by a particular method requested by the foreign transmitting authority, unless that method is incompatible with the legal order of the Republic of Kosovo.
+2. The requested court of Kosovo shall take all necessary steps to effect the service of the document as soon as possible, and in any event within one month of receipt. If it has not been possible to effect service within one month of receipt, it shall:
+2.1. immediately inform the foreign transmitting authority, directly or through the central authority; and 2.2. continue to take all necessary steps to effect the service of the document where service seems to be possible within a reasonable period of time, unless indicated otherwise by the foreign transmitting authority.

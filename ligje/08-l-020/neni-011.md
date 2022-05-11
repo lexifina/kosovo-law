@@ -1,0 +1,5 @@
+# Neni 11
+Shërbimi i dokumenteve të përcjellura 1. Gjykata e kërkuar e Kosovës duhet që ta shërbejë vetë dokumentin ose ta aranzhojë shërbimin, në përputhje me legjislacionin e Kosovës, ose me një metodë të veçantë të kërkuar nga autoriteti përcjellës i huaj, përveç nëse kjo metodë është në kundërshtim me rendin juridik të Republikës së Kosovës.
+2. Gjykata e kërkuar e Kosovës do të ndërmarrë të gjitha hapat e nevojshëm për të kryer shërbimin e dokumentit sa më parë që është e mundur dhe në çdo rast brenda një muaji nga pranimi i saj. Nëse nuk ka qenë e mundur të kryhet shërbimi brenda një muaji nga pranimi, ajo do të:
+2.1. informojë menjëherë autoritetin përcjellës të huaj, drejtpërdrejtë ose përmes autoritetit qendror, dhe 2.2. do të vazhdojë të ndërmarrë të gjitha hapat e nevojshëm për të kryer shërbimin e dokumentit, ku shërbimi është vlerësuar se është i mundshëm brenda një periudhe të arsyeshme kohore, përveç nëse përcaktohet ndryshe nga autoriteti përcjellës i huaj.
+LIGJI NR. 08/L - 020 PËR BASHKËPUNIM JURIDIK NDËRKOMBËTAR NË ÇËSHTJET CIVILE

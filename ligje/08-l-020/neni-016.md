@@ -1,0 +1,3 @@
+# Neni 16
+Shërbimi nga zyrtarët diplomatikë ose konsullorë 1. Autoritetet përcjellëse të huaja janë të lira të bëjnë shërbimin e dokumenteve gjyqësore për shtetasit e vendit kërkues, që qëndrojnë në Republikën e Kosovës, pa zbatuar asnjë detyrim, drejtpërdrejt përmes zyrtarëve diplomatikë ose konsullorë.
+LIGJI NR. 08/L - 020 PËR BASHKËPUNIM JURIDIK NDËRKOMBËTAR NË ÇËSHTJET CIVILE 2. Gjykatat e Kosovës janë të lira të bëjnë shërbimin e dokumenteve gjyqësore për shtetasit e Republikës së Kosovës, që qëndrojnë në shtetin e kërkuar, pa zbatuar asnjë detyrim, drejtpërdrejt përmes zyrtarëve diplomatikë ose konsullorë, nëse kjo pranohet nga shteti i kërkuar.

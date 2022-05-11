@@ -1,0 +1,7 @@
+# Neni 23
+Refuzimi për ekzekutim 1. Kërkesa për dëgjimin e një personi nuk do të ekzekutohet nga gjykata e kërkuar e Kosovës, kur personi në fjalë kërkon të drejtën e refuzimit të dhënies së dëshmisë ose ndalimit të dhënies së dëshmisë:
+1.1. sipas të drejtës së Republikës së Kosovës, ose 1.2. sipas të drejtës së juridiksionit të gjykatës kërkuese, dhe kur një e drejtë e tillë është përcaktuar në kërkesë, ose, nëse është e nevojshme, para gjykatës së kërkuar, kjo është konfirmuar nga gjykata kërkuese.
+2. Përveç arsyeve të përmendura në paragrafin 1. të këtij neni, ekzekutimi i kërkesës mund të refuzohet nëse:
+2.1. kërkesa nuk bie në fushëveprimin e këtij ligji, ose 2.2. ekzekutimi i kërkesës sipas të drejtës së Republikës së Kosovës nuk bie në fushëveprimin e gjyqësorit, ose 2.3. depozita ose paradhënia e kërkuar në pajtim me paragrafin 4 të Nenit 26, nuk bëhet brenda gjashtëdhjetë (60) ditëve pasi gjykata e kërkuar e Kosovës kërkon një depozitë apo paradhënie të tillë.
+3. Ekzekutimi i kërkesës nuk mund të refuzohet nga gjykata e kërkuar e Kosovës vetëm mbi bazën se sipas të drejtës së Kosovës, gjykatat e Kosovës kanë kompetencë ekskluzive mbi atë çështje ose se e drejta e Kosovës nuk do të lejonte padi për atë çështje.
+4. Nëse ekzekutimi i kërkesës refuzohet për një nga arsyet e përmendura në paragrafin 2, gjykata e kërkuar e Kosovës duhet ta njoftojë gjykatën kërkuese brenda gjashtëdhjetë (60) ditëve nga marrja e kërkesës, drejtpërdrejtë ose përmes Autoritetit Qendror.

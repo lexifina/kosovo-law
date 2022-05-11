@@ -1,0 +1,6 @@
+# Neni 20
+Ekzekutimi i kërkesës me praninë dhe pjesëmarrjen e palëve 1. Nëse parashikohet nga legjislacioni i vendit të gjykatës kërkuese, palët dhe/ose, nëse ka, përfaqësuesit e tyre kanë të drejtë të jenë të pranishëm gjatë procesit të marrjes së dëshmive nga gjykata e kërkuar.
+2. Gjykata kërkuese, në kërkesën e saj, njofton, drejtpërdrejtë ose përmes Autoritetit Qendror, gjykatën e kërkuar që palët dhe/ose, nëse ka, përfaqësuesit e tyre, do të jenë të pranishëm dhe, kur është nevoja, kërkohet edhe pjesëmarrja e tyre. Ky informacion mund të jepet edhe në çdo kohë tjetër të përshtatshme.
+3. Nëse pjesëmarrja e palëve dhe/ose, nëse ka, përfaqësuesve të tyre, kërkohet gjatë procesit të marrjes së dëshmive, gjykata e kërkuar do të përcaktojë kushtet nën të cilat ata mund të marrin pjesë.
+4. Gjykata e kërkuar e Kosovës njofton palët dhe/ose, nëse ka, përfaqësuesit e tyre për kohën, vendin ku do të zhvillohen procedurat dhe, sipas nevojës, për kushtet nën të cilat ata mund të marrin pjesë.
+5. Paragrafët 1. deri 4. të këtij neni nuk duhet të ndikojnë në mundësinë që gjykata e kërkuar të kërkojë nga palët dhe/ose, nëse ka, ndonjë përfaqësues të tyre, të jenë të pranishëm ose të marrin pjesë në procesin e marrjes së dëshmive, nëse kjo mundësi parashikohet nga e drejta e Republikës së Kosovës.

@@ -1,0 +1,6 @@
+# Neni 21
+Ekzekutimi i kërkesës me praninë dhe pjesëmarrjen e përfaqësuesve të gjykatës kërkuese 1. Nëse është në përputhje me ligjin e vendit të gjykatës kërkuese, përfaqësuesit e gjykatës kërkuese kanë të drejtë të jenë të pranishëm në procesin e marrjes së dëshmive nga gjykata e kërkuar.
+2. Për qëllimet e këtij Neni, termi “përfaqësues” përfshinë anëtarët e personelit gjyqësor, të caktuar nga gjykata kërkuese, në përputhje me ligjin e juridiksionit të saj. Gjykata kërkuese mund edhe të caktojë, në përputhje me ligjin e juridiksionit të saj, ndonjë person tjetër, siç mund të jetë një ekspert.
+LIGJI NR. 08/L - 020 PËR BASHKËPUNIM JURIDIK NDËRKOMBËTAR NË ÇËSHTJET CIVILE 3. Gjykata kërkuese, në kërkesën e saj, njofton gjykatën e kërkuar që përfaqësuesit e tyre do të jenë të pranishëm dhe se kërkohet pjesëmarrja e tyre, nëse kjo është e nevojshme. Ky informacion mund të jepet edhe në çdo kohë tjetër të përshtatshme.
+4. Nëse kërkohet pjesëmarrja e përfaqësuesve të gjykatës kërkuese në procesin e marrjes së dëshmive, gjykata e kërkuar do të përcaktojë kushtet nën të cilat ata mund të marrin pjesë.
+5. Gjykata e kërkuar e Kosovës njofton gjykatën kërkuese për kohën, vendin ku do të zhvillohen procedurat dhe, sipas nevojës, për kushtet nën të cilat përfaqësuesit mund të marrin pjesë.

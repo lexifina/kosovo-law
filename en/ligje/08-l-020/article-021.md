@@ -1,0 +1,6 @@
+# Article 21
+Execution of the request with the presence and participation of representatives of the requesting court 1. If it is compatible with the law of the country of the requesting court, representatives of the requesting court have the right to be present in the process of the taking of evidence by the requested court.
+2. For the purposes of this Article, the term “representative” shall include members of the judicial staff designated by the requesting court, in accordance with the law of its jurisdiction. The requesting court may also designate, in accordance with the law of its jurisdiction, any other person, such as an expert.
+3. The requesting court shall, in its request, inform the requested court that its representatives will be present and, when appropriate, that their participation is requested. This information may also be given at any other appropriate time.
+4. If the participation of the representatives of the requesting court is requested in the process of the taking of evidence, the requested court shall determine the conditions under which they may participate.
+5. The requested court of Kosovo shall notify the requesting court, of the time when, and the place where, the proceedings will take place, and, where appropriate, the conditions under which the representatives may participate.

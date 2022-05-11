@@ -1,0 +1,2 @@
+# Article 18
+Transmission of requests and other communications Requests and communications provided for in Chapter III shall be transmitted by the swiftest possible means, which the requested State has indicated it accepts. The transmission may be carried out by any appropriate means, provided that the document received accurately reflects the content of the document forwarded and that all information in it is legible.

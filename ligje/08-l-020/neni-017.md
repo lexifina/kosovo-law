@@ -1,0 +1,8 @@
+## KAPITULLI III
+## MARRJA E DËSHMIVE
+# Neni 17
+Dispozitat e përgjithshme për ekzekutimin e kërkesës për marrjen e dëshmive 1. Gjykata e kërkuar e Kosovës duhet ta zbatojë kërkesën për marrjen e dëshmive pa vonesë dhe, më së voni, brenda nëntëdhjetë (90) ditëve nga pranimi i kërkesës.
+2. Gjykata e kërkuar e Kosovës duhet të ekzekutojë kërkesën në pajtim me legjislacionin e Republikës së Kosovës.
+3. Gjykata kërkuese mund të kërkojë që kërkesa të ekzekutohet në pajtim me një procedurë të veçantë të parashikuar me ligjin e vendit të origjinës. Gjykata e kërkuar e Kosovës duhet të veprojë në përputhje me një kërkesë të tillë, përveç nëse kjo procedurë është në kundërshtim me të drejtën e Republikës së Kosovës ose për shkak të vështirësive të mëdha praktike. Nëse gjykata e kërkuar e Kosovës nuk vepron në përputhje me kërkesën për një nga këto arsye, ajo duhet të informojë gjykatën kërkuese, drejtpërdrejtë ose përmes Autoritetit Qendror.
+4. Gjykata kërkuese mund të kërkojë nga gjykata e kërkuar e Kosovës që të përdorë teknologjinë e komunikimit në procesin e marrjes së dëshmive, në veçanti duke përdorur videokonferencat dhe telekonferencat. Gjykata e kërkuar e Kosovës duhet të veprojë në përputhje me një kërkesë të tillë, përveç nëse kjo procedurë është në kundërshtim me të drejtën e Republikës së Kosovës ose shkaku i vështirësive të mëdha praktike. Nëse gjykata e kërkuar e Kosovës nuk vepron në përputhje me kërkesën për një nga këto arsye, ajo duhet të informojë gjykatën kërkuese, drejtpërdrejtë ose përmes autoritetit qendror.
+5. Kërkesa për marrjen e dëshmive nuk duhet të bëhet ose të pranohet për të marrë dëshmi që nuk janë të destinuara për përdorim në procedurat gjyqësore, të filluara ose të parapara.

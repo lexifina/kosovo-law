@@ -1,0 +1,8 @@
+## CHAPTER III
+## TAKING OF EVIDENCE
+# Article 17
+General provisions on the execution of the request for the taking of evidence 1. The requested court of Kosovo shall execute the request for the taking of evidence without delay and, at the latest, within ninety (90) days of receipt of the request.
+LAW NO. 08/L -020 ON INTERNATIONAL LEGAL COOPERATION IN CIVIL MATTERS 2. The requested court of Kosovo shall execute the request in accordance with the legislation of the Republic of Kosovo.
+3. The requesting court may call for the request to be executed in accordance with a special procedure provided for by the law of the country of origin. The requested court of Kosovo shall comply with such a requirement, unless this procedure is incompatible with the law of the Republic of Kosovo or by reason of major practical difficulties. If the requested court of Kosovo does not comply with the requirement for one of these reasons it shall inform the requesting court, directly or through the Central Authority.
+4. The requesting court may ask the requested court of Kosovo to use communications technology in the process of the taking of evidence, in particular by using videoconference and teleconference. The requested court of Kosovo shall comply with such a requirement unless this procedure is incompatible with the law of the Republic of Kosovo or by reason of major practical difficulties. If the requested court of Kosovo does not comply with the requirement for one of these reasons, it shall inform the requesting court, directly or through the central authority.
+5. The request for the taking of evidence shall not be filed or accepted to obtain evidence which is not intended for use in judicial proceedings, commenced or contemplated.
