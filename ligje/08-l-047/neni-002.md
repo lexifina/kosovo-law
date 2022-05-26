@@ -1,0 +1,27 @@
+# Neni 2
+Neni 37 i ligjit ndryshohet dhe plotësohet si vijon: “Neni 37 Sanksioni kundërvajtës me gjobë 1. Inspektorati farmaceutik me gjobë në shumë prej pesëqind (500) e deri në njëzet mijë (20,000) euro dënon personin juridik nëse:
+1.1. nëse vepron në kundërshtim me kushtet e përcaktuara me nenin 10 të ligjit;
+1.2. nëse vepron në kundërshtim me kushtet e përcaktuara me nenin 12 të ligjit;
+1.3. bartësi i autorizimit të importit të produkteve medicinale nuk e informon AKPPM- në dhe bartësin e Autorizimit të Marketingut për informatat e siguruara se produktet që gjenden brenda fushës së autorizimit të tij të importit janë të falsifikuara ose janë të dyshuara si të falsifikuara sipas nenit 12, paragrafi 7 të ligjit;
+1.4. dispenzimi dhe shitja me pakicë e produkteve medicinale bëhet në kundërshtim me nenin 14 të ligjit;
+1.5. përgatesat magjistrale nuk prodhohen dhe dispenzohen nga barnatoret dhe jo nga laboratorët galenike, për pacient individual, duke u bazuar në përshkrimin e mjekut të licencuar sipas nenit 15, paragrafi 3 të ligjit;
+1.6. certifikimi për vënie në treg të çdo serie të përgatesës magjistrale të përgatitur në laboratorin galen nuk kryhet nga Laboratori për Kontroll të Cilësisë sipas nenit 15, paragrafi 5 të ligjit;
+1.7. produkti medicinal plasohet në Republikën e Kosovës pa Autorizimin për marketing sipas nenit 16 paragrafi 1 të ligjit;
+LIGJI NR.08/L-047 PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJIT NR. 04/L-190 PËR PRODUKTE DHE PAJISJE MEDICINALE 1.8. AKPPM dhe Komiteti Etik nuk njoftohen menjëherë për ndonjë efekt serioz anësor, aksident apo ndonjë ndodhi tjetër e papritur që paraqitet gjatë hulumtimit sipas nenit 18, paragrafi 9 të ligjit;
+1.9. produktet medicinale të siguruara nga bartësi i hulumtimit për qëllim të hulumtimeve klinike nuk etiketohen qartë për hulumtime klinike sipas nenit 18 paragrafi 11 të ligjit;
+1.10. reklamimi dhe prodhimi i produkteve medicinale bëhet në kundërshtim me nenin 19 të ligjit;
+1.11. produktet medicinale pa licencë apo pa Autorizim Marketingu me mangësitë e listuara nuk shkatërrohen, përfshirë paketimin e tyre, me qëllim të parandalimit të rrezikut për jetë dhe për shëndetin e njerëzve apo kafshëve ose për mjedisin sipas nenit 23 të ligjit;
+1.12. barnatorja refuzon pranimin e produkteve të papërdorshme medicinale të blera në atë barnatore që dorëzohen nga personi fizik sipas nenit 23, paragrafi 9 të ligjit;
+1.13. prodhuesi ose përfaqësuesi i tij i autorizuar para se pajisja medicinale të vendoset në treg apo të vihet në përdorim në Republikën e Kosovës, nuk e dorëzon në AKPPM dosjen për regjistrim sipas nenit 25 paragrafi 2 të ligjit;
+1.14. prodhuesi apo përfaqësuesi i tyre i autorizuar nuk raportojnë tek organi përkatës për vlerësimin e përputhshmërisë për të gjitha ndryshimet relevante përkitazi me pajisjen medicinale sipas nenit 28, paragrafi 4 të ligjit;
+1.15. personat juridikë ose personat fizikë të cilët merren me qarkullimin me shumicë ose me dispenzimin e pajisjeve medicinale punojnë pa i plotësuar kushtet për licencë të përcaktuara nga AKPPM sipas nenit 29, paragrafi 6 të ligjit;
+1.16. përdoruesi profesional nuk merr masa të domosdoshme në pajtim me nenin 30, paragrafi 1 dhe pajisja medicinale nuk përdoret në pajtim me qëllimin e synuar të përshkruar për pajisjen sipas nenit 30 paragrafi 4 të ligjit;
+1.17. përdoruesi profesional nuk mbanë evidencën e pajisjeve medicinale që përdoren, huazohen, posedohen apo përdoren te pacienti sipas nenit 30, paragrafi 6 të ligjit;
+1.18. prodhuesi që synon të zhvillojë hulumtimin për të vërtetuar performancën apo për të caktuar dhe vlerësuar efektet anësore të pajisjes medicinale para vënies së saj në treg apo vënies së pajisjes në përdorim, institucioni hulumtues apo sponsori nuk bën njoftim me shkrim dhe nuk merr autorizim me shkrim nga AKPPM para fillimit të hulumtimit klinik sipas nenit 31 të ligjit;
+1.19. furnizuesit, dispenzuesit dhe përdoruesit profesional të pajisjeve medicinale në Republikën e Kosovës të cilët zbulojnë apo dyshojnë në çfarëdo efekti serioz të pajisjes medicinale nuk i raportojnë këto efekte anësore AKPPM-së, sipas nenit 32 të ligjit;
+1.20. reklamimi dhe promovimi i pajisjeve medicinale të cilat përdoren nga personat juridikë dhe fizikë të cilët ofrojnë përkujdesje shëndetësore për njerëzit bëhet në kundërshtim me nenin 33 të ligjit.
+2. Për kundërvajtje nga paragrafi 1 i këtij neni dënohet personi përgjegjës në personin juridik me gjobë prej njëqind (100) euro e deri në dy mijë (2,000) euro.
+3. Për kundërvajtje nga paragrafi 1, nën-paragrafët 1.8, 1.9, 1.10, 1.11, 1.15, 1.16, 1.17, 1.19, dhe 1.20 i këtij neni dënohet profesionisti shëndetësor - personi fizik me gjobë prej njëqind (100) euro e deri në dy mijë (2,000) euro.
+LIGJI NR.08/L-047 PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJIT NR. 04/L-190 PËR PRODUKTE DHE PAJISJE MEDICINALE 4. Për kundërvajtje nga paragrafi 1, nën-paragrafët 1.10, 1.11 dhe 1.18 i këtij neni dënohet personi fizik me gjobë prej njëqind (100) euro e deri në dy mijë (2,000) euro.
+5. Inspektorati farmaceutik inicion procedurën civile, kundërvajtëse dhe penale për veprimet e paligjshme të personit fizik, personit juridik dhe personit fizik që ushtron biznes individual dhe njofton AKPPM.
+6. AKPPM në kuadër të kompetencave dhe detyrave nga fushëveprimtaria e vet, inicion procedurën civile dhe penale nëse konstaton se subjektet e përcaktuara me ligj kanë bërë shkelje gjatë zhvillimit të procedurës administrative.”
