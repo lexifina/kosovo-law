@@ -1,0 +1,13 @@
+# Neni 7
+1. Neni 53 ndryshohet dhe plotësohet si vijon:
+1. Me gjobë prej një mijë (1,000) deri në njëzet mijë (20,000) euro dënohet për kundërvajtje personi juridik nëse:
+a) organet kompetente për zbatimin e masave parandaluese dhe trajtimin e të sëmurëve hasin në pengesa gjatë hyrjes në institucione shëndetësore publike e private, objekte banuese, ndërmarrje punuese, për të bërë hulumtimin epidemiologjik, izolimin, hospitalizimin, mbikëqyrjen shëndetësore të kontakteve, vaksinimin, depistimin, dezinfektimin, denzinsektim dhe deratizimin dhe trajtimin profilaktik (më tej: DDD);
+b) konstaton dhe nuk paraqet sëmundjen, vdekjen nga sëmundja ngjitëse, epideminë, tajimin e shkaktarëve të sëmundjeve të caktuara ngjitëse, bartjen e viruseve të hepatitit B dhe C, bartjen e virusit të HIV-it, bartjen e parazitëve të malarjes, lëndimin nga kafsha e tërbuar ose nga kafsha për të cilin dyshohet se është e tërbuar (neni 13, 14 dhe 15);
+c) sipas mënyrës së paraparë nuk kryhet dezinfektimi, parandalimi i tajimeve, gjësendeve personale dhe sendeve tjera, pajisjeve, i dhomave dhe hapësirave shëndetësore, të shkollave dhe institucioneve tjera për fëmijë dhe të rinjë (neni 19 dhe 20);
+d) me rastin e shfaqjes së sëmundjeve ngjitëse nuk është kryer dezinfektimi i personave dhe i gjësendeve personale, hapësirave të banimit, i hapësirave tjera dhe deratizimi në qendrat e banimit, aeroporte, në mjetet e tjera të komunikacionit publik, në depot dhe lokalet e tjera të punës (neni 21 dhe 22);
+e) nuk e zbaton masën e përgjithshme ose të posaçme për mbrojtje nga sëmundjet ngjitëse kur kjo është e domosdoshme në bazë të programit të organit kompetent apo kur nuk e zbaton atë brenda afatit të paraparë me këtë program (neni 9);
+f) nuk e kryen DDD e detyrueshme sipas neneve 19 deri 23 të ligjit;
+g) pranon në punë, përkatësisht mban në punë aktive personin për të cilin është konstatuar se lëngon nga sëmundja e caktuar ngjitëse ose tajon bacile të sëmundjes së tillë, ose nëse nuk siguron kontrollet periodike shëndetësore për personat që janë në punë e që ushtrojnë veprimtari të caktuara (neni 26 dhe 27);
+h) nuk ia bën të mundshme organit kompetent shëndetësor që t’i kryejë kontrollet e parashikuara të personave, të ndërtesave dhe të produkteve, ose të marrë materialin e nevojshëm për kontroll, me qëllim të parandalimit e të luftimit të sëmundjeve ngjitëse (neni 40);
+i) nuk vepron në bazë të vendimit të ekzekutueshëm të organit kompetent për punët e kontrollit sanitar me të cilin është dhënë urdhëri për marrjen e masave të caktuara për mbrojtje nga sëmundjet ngjitëse (neni 43 dhe 45).
+2. Për kundërvajtjen nga paragrafi 1 i këtij neni dënohet personi përgjegjës në personin juridik me gjobë në shumë prej njëqind (100) deri në dy mijë (2,000) euro.
