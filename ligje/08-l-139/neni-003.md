@@ -1,0 +1,2 @@
+# Neni 3
+Hyrja në fuqi Ky ligj hyn në fuqi ditën e publikimit në Gazetën Zyrtare të Republikës së Kosovës. Ligji Nr. 08/L-139 11 maj 2022 Shpallur me dekretin Nr. DL-149/2022, datë 25.05.2022 nga Presidentja e Republikës së Kosovës Vjosa Osmani-Sadriu _________________________ *Tabelat e Ligjit nr. 08/L-139 “Për Ratifikimin e Marrëveshjes së Kredisë për projektin e Zhvillimit të Impiantit të Ujërave të Zeza në Mitrovicë, në mes të Republikës së Kosovës dhe Bankës Evropiane për Investime” bashkangjitur me ligj janë publikuar në web faqen e Gazetës Zyrtare (gzk.rks-gov.net )

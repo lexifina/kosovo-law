@@ -1,0 +1,3 @@
+# Article 3
+Entry into force This Law shall enter into force on the day of the publication in the Official Gazette of the Republic of Kosovo. Law No. 08/L-139 11 May 2022
+Promulgated by Decree No. DL-149/2022 dated 25.05.2022 President of the Republic of Kosovo Vjosa Osmani-Sadriu __________________________________ *Annex of the Law No. 08/L-139, “On ratification on the Loan Agreement between the Republic of Kosovo and the European Investment Bank for the Mitrovica Wastewater Treatment Plant Development Project” attached to the law is published in the website of the Official Gazette (gzk.rks-gov.net)
