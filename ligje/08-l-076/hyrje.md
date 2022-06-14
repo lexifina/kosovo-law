@@ -1,0 +1,1 @@
+LIGJI NR.08/L-076 PËR MBROJTJEN E SEKRETEVE TREGTARE LIGJI NR.08/L-076 PËR MBROJTJEN E SEKRETEVE TREGTARE Kuvendi i Republikës së Kosovës: Në mbështetje të nenit 65 (1) të Kushtetutës së Republikës së Kosovës, Miraton: LIGJ PËR MBROJTJEN E SEKRETEVE TREGTARE

@@ -1,0 +1,10 @@
+# Neni 5
+Marrja, përdorimi dhe zbulimi i paligjshëm i sekreteve tregtare 1. Marrja e sekretit tregtar pa pëlqimin e mbajtësit të sekretit tregtar konsiderohet e paligjshme, sa herë që kryhet përmes:
+1.1. qasjes së paautorizuar, marrjes ose kopjimit të ndonjë dokumenti, objekti, materiali, substance ose dosje elektronike, ligjërisht nën kontrollin e mbajtësit të sekretit tregtar, që përmban sekretin tregtar ose nga i cili mund të nxirret sekreti tregtar; ose
+LIGJI NR.08/L-076 PËR MBROJTJEN E SEKRETEVE TREGTARE 1.2. çdo sjellje tjetër, e cila, sipas rrethanave të rastit, konsiderohet e kundërt me praktikat e ndershme tregtare.
+2. Përdorimi ose zbulimi i sekretit tregtar konsiderohet i paligjshëm sa herë që kryhet pa pëlqimin e mbajtësit të sekretit tregtar, nga një person i cili vërtetohet se plotëson ndonjë nga kushtet e mëposhtme:
+2.1. ka përvetësuar sekretin tregtar në mënyrë të paligjshme;
+2.2. ka shkelur marrëveshjen e konfidencialitetit ose ndonjë detyrim tjetër për mos- zbulim të sekretit tregtar;
+2.3. ka shkelur ndonjë detyrim kontraktues ose ndonjë detyrim tjetër për kufizimin e përdorimit të sekretit tregtar.
+3. Marrja, përdorimi ose zbulimi i sekretit tregtar konsiderohet gjithashtu i paligjshëm sa herë që një person, në kohën e marrjes, përdorimit ose zbulimit, e ka ditur ose, në bazë të rrethanave të rastit, është dashur ta dijë, se sekreti tregtar ishte marrë në mënyrë direkte ose indirekte nga një person tjetër i cili po e përdorte ose po e zbulonte sekretin tregtar në mënyrë të paligjshme sipas dispozitës së paragrafit 2 të këtij neni.
+4. Prodhimi, ofrimi ose vendosja në treg e mallrave që shkelin sekretin tregtar, ose importi, eksporti ose magazinimi i mallrave që shkelin sekretin tregtar për ato qëllime, konsiderohet gjithashtu përdorim i paligjshëm i sekretit tregtar, kur personi që kryen veprimtari të tilla e ka ditur, ose në bazë të rrethanave të rastit, është dashur ta dijë, se sekreti tregtar është përdorur në mënyrë të paligjshme sipas dispozitës së paragrafit 2 të këtij neni.

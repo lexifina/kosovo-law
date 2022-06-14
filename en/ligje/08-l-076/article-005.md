@@ -1,0 +1,11 @@
+# Article 5
+Unlawful acquisition, use and disclosure of trade secrets 1. The acquisition of a trade secret without the consent of the trade secret holder shall be considered unlawful, whenever carried out by:
+1.1. unauthorised access to, appropriation of, or copying of any documents, objects, materials, substances or electronic files, lawfully under the control of the trade secret holder, containing the trade secret or from which the trade secret can be deduced;
+1.2. any other conduct which, under the circumstances, is considered contrary to honest commercial practices.
+2. The use or disclosure of a trade secret shall be considered unlawful whenever carried out, without the consent of the trade secret holder, by a person who is found to meet any of the following conditions:
+2.1. having acquired the trade secret unlawfully;
+2.2. being in breach of a confidentiality agreement or any other duty not to disclose the trade secret;
+2.3. being in breach of a contractual or any other duty to limit the use of the trade secret.
+3. The acquisition, use or disclosure of a trade secret shall also be considered unlawful whenever a person, at the time of the acquisition, use or disclosure, knew or ought, under the circumstances, to have known that the trade secret had been obtained directly or indirectly from another person who was using or disclosing the trade secret unlawfully within the provision of paragraph 2. of this Article.
+4. The production, offering or placing on the market of goods infringing trade secret, or the importation, export or storage of goods infringing trade secret for those purposes, shall also be considered an unlawful use of a trade secret where the person carrying out such activities knew, or ought, under the circumstances, to have known that the trade secret was used unlawfully within the provision of paragraph 2. of this Article.
+LAW NO. 08/L-076 ON THE PROTECTION OF TRADE SECRETS
