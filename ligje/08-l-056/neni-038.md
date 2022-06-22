@@ -1,0 +1,7 @@
+# Neni 38
+Njoftimi, të drejtat dhe detyrimet e palës 1. Autoriteti ia dorëzon konkluzionin për filli min e procedurës palës kundër të cilës ka filluar pro- cedura dhe parashtruesit të kërkesës për leji min e përqendrimit. Në konkluzionin e do rë zu ar, mbu lo het ose hiqet pjesa që për mban fsheh tësi tregtare si pas nenit 51 të këtij ligji.
+2. Pala kundër të cilës ka filluar procedura para shtron vërejtjet, informatat dhe dokumentet për lën dën brenda afatit të caktuar nga Autoriteti.
+3. Autoriteti cakton afatin nga paragrafi 2 i këtij neni për secilin rast veç e veç. Afati fillestar nuk mund të jetë më i gjatë se tridhjetë (30) ditë. Me kër ke sën e palës dhe për shkaqe të arsyeshme, Auto ri teti mund të shtyjë afatin deri në tridhjetë (30) ditë shtesë.
+4. Nëse pala kundër të cilës ka filluar procedura nuk vepron sipas kërkesës dhe brenda afatit të cak tuar nuk njofton Auto ritetin se nuk është në gje n dje të veprojë, Auto riteti kon staton faktet dhe rre thanat sipas detyrës zyr ta re, mbështetur në njo hu ritë e veta, të dhënat dhe do ku men- tet që zotëron. Autoriteti pa vonesë i dorëzon pa lës njoftim për konstatimin paraprak të fak te ve sipas nenit 46 të këtij ligji dhe pas taj cak ton seancë dëgjimore.
+5. Nëse procedura fillon sipas propozimit nga neni 35 të këtij ligji, Autoriteti nuk ia dorëzon pro pozuesit konkluzionin nga paragrafi 1 i këtij neni, por e njofton me shkrim për filli min e pro- cedurës.
+LIGJI NR. 08/L-056 PËR MBROJTJEN E KONKURRENCËS

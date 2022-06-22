@@ -1,0 +1,8 @@
+# Neni 13
+Detyrimi për të kërkuar lejimin e përqendrimit 1. Pjesëmarrësit në përqendrim duhet t’i kër kojnë paraprakisht Autoritetit t’ua lejojë rea li zi min e përqendrimit të synuar nëse:
+1.1. pjesëmarrësit në përqendrim kanë mbi një zet (20) milionë euro qarkullim të për bash- kët në tregun ndërkombëtar dhe njëri pjesë marrës në për qen d rim ka mbi një (1) milion euro qarkullim në tregun e brendshëm; ose 1.2. së paku dy pjesëmarrës në përqendrim kanë mbi tre (3) milionë euro qarkullim në tre gun e brendshëm.
+2. Qarkullimi i pjesëmarrësve në përqendrim llo ga ritet sipas raporteve financiare të vitit fi nan- ciar që i paraprin vitit të përqendrimit. Nëse para shtruesit nuk kanë arritur të mbyllin rapor tet financiare vjetore para se të para shtrojnë kër ke sën për lejimin e përqendrimit, qar ku llimi i pje- sëmarrësve llogaritet sipas rapor te ve fi nan ci are të vitit të fundit financiar për të ci lin janë mby llur raportet financiare.
+3. Nëse pjesëmarrësi i përqendrimit i përket një gru pi ndërmarrjesh të lidhura, për qarkullim me rren të ardhurat e të gjitha ndërmarrjeve të gru pit. Nuk merren parasysh të hyrat nga shitja e mall rave ose shërbimeve brenda grupit.
+4. Nëse përqendrimi ka të bëjë me blerjen e pjes shme të ndër marrjes sipas para grafit 1 të ne nit 11 të këtij ligji, merret para sysh vetëm qar ku lli mi i pje sëve që janë ob jekt i për qen d rimit.
+5. Trajtohen si një për qen d rim marrëveshjet nga para grafi 4 i këtij neni që lidhen bren da një peri udhe dy vjeça re mes ndër marr je ve të njëjta. Për qen drimi lind në datën e transa k si onit të fundit.
+6. Autoriteti shqyrton kërkesat për lejimin e për qen drimit vetëm kur parashtrohen në përputhje me paragrafin 1 të këtij neni.

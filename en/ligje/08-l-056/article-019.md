@@ -1,0 +1,5 @@
+# Article 19
+Repeal and change of the decision for permitting the concentration 1. The Authority may, ex officio or at the request of the participant in the concentration, repeal the decision to permit the concentration when:
+1.1. the participant in the concentration provided inaccurate or false information regarding the crucial facts; or 1.2. the participant in the concentration does not apply the measures or conditions within the deadlines set by the decision of the Authority.
+2. In the cases from sub-paragraph 1.1. of this Article, the Authority shall repeal the decision in accordance with Article 12 of this Law and sets measures, conditions and deadlines for resetting effective competition in the market.
+3. The Authority may, ex officio or at the request of the participant in the concentration, change the decision to permit the concentration if the concentration participant is unable to implement the measures or conditions within the specified deadlines due to unforeseen and unavoidable circumstances beyond its control of the concentration. The changed decision shall set new measures, conditions and deadlines.

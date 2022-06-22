@@ -1,0 +1,5 @@
+# Neni 19
+Shfuqizimi dhe ndryshimi i vendimit për lejimin e përqendrimit 1. Sipas detyrës zyrtare ose me kërkesë të pjesë ma rrë sit në përqendrim, Autoriteti mund ta shfu qi zojë vendimin për lejimin e përqendrimit kur:
+1.1. pjesëmarrësi në përqendrim ka dhënë in for mata të pasakta ose të rrejshme lidhur me fak tet vendimtare; ose 1.2. pjesëmarrësi në përqendrim nuk zbaton ma sat ose kushtet brenda afateve të cak- tuara me vendimin e Autoritetit.
+2. Në rastet nga nënparagrafi 1.1 i këtij neni, Auto riteti shfuqizon vendimin në përputhje me ne nin 12 të këtij ligji dhe cakton masa, kushte dhe afate për rivendosjen e konkurrencës efektive në treg.
+3. Sipas detyrës zyrtare ose me kërkesë të pjesë ma rrë sit në për qendrim, Autoriteti mund të ndry- shojë vendimin për lejimin e për qen drimit, nëse pjesë marrësi në përqendrim nuk mund të zbatojë masat ose kushtet brenda afateve të cak tuara për shkak të rrethanave të pa para shi kue shme dhe të pashmangshme jashtë kontrollit të tij. Ven dimi i ndryshuar cakton masa, kushte dhe afate të reja.

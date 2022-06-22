@@ -1,6 +1,0 @@
-# Neni 42
-Përjashtimi i dokumentacionit në kontrollin e paparalajmëruar
-1. Gjatë kontrollit të paparalajmëruar nga dokumentacioni që është duke u kontrolluar bëjnë përjashtim letrat, shënimet dhe format tjera të komunikimit në mes të ndërmarrjes që është duke u zhvilluar procedura dhe të autorizuarit të tij, të cilat konsiderohen informacione të fshehta.
-2. Autoriteti ka të drejtë të inspektojë dokumente nëse ndërmarrja ose i autorizuari i tij refuzojnë të japin në shikim dokumentacionin duke u thirr në fshehtësi të informacionit të referuar në paragrafin 1. të këtij neni.
-3. Në rast se personi i autorizuar i Autoritetit konsideron se nuk është fjala për informacion konfidencial të referuar në paragrafin 1. të këtij neni është i detyruar që atë dokument ose kopjen e atij dokumenti të vërtetuar ta futë në një zarf të posaçëm para ndërmarrësit dhe të autorizuarit të tij nëse është prezent, ta mbyllë, të shënoj datën dhe të vulosë me vulën zyrtare të Autoritetit, të cilën do ta nënshkruajnë të gjitha palët prezent dhe të autorizuarit.
-4. Në rastet e referuara në paragrafin 2. dhe 3. të këtij neni, aplikohen dispozitat e ligjit për Procedurën Administrative për të vendosë lidhur me këtë çështje.

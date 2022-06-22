@@ -1,0 +1,6 @@
+# Neni 64
+Bashkëpunimi i Autoritetit me gjyqësorin dhe organet e tjera 1. Autoriteti bashkëpunon me organet gjyqësore dhe organet e tjera kompetente në çështje që kanë të bëjnë me shtrembërimin e konkurrencës në treg në Republikën e Kosovës.
+2. Sipas kërkesës me shkrim të Autoritetit, Mi nis tria për gje gjëse për punët e brend shme sigu ron ndihmë në kontrollin e paparalajmëruar ose sekue strimin e sendeve dhe doku menteve, sipas neneve 40, 41, 42, 43 dhe 44 të këtij ligji.
+3. Me kërkesën e Autoritetit sipas nenit 39 të kë tij ligji, organi publik i dorëzon Auto ritetit in for- matat dhe dokumentet e kër kua ra, duke për fshirë të dhënat dhe dokumentet që për mbajnë fshehtësi tregtare.
+4. Gjatë rregullimit të veprimtarive ekonomike brenda Republikës së Kosovës, organet e ad mi- nis tratës qendrore dhe lokale zbatojnë dispozitat e këtij ligji dhe marrin parasysh rekomandimet e Autoritetit sipas nenit 32 të këtij ligji.
+5. Me vetënismë ose kërkesë të ministrisë për gje gjëse për in dus tri, ndër ma rrësi dhe tregti, Auto riteti mban tryezë ose konferencë ku or ga net publike, sho qa tat e ndërmarrjeve dhe sho qa- tat e kon su ma to rëve mund të parashtrojnë vë rej t je mbi gjendjen e tregut.

@@ -1,6 +1,0 @@
-# Neni 49
-Procedura e Konstatimit të Kushteve për Shqiptimin e Masës Ndëshkuese
-1. Komisioni konstaton se pala në procedurë ka çrregulluar konkurrencën e tregut ose ka shkelë dispozitat e këtij ligji, Autoriteti i dorëzon palës njoftimin për konstatimin e gjendjes faktike në lëndën konkrete dhe njoftimin për përmbajtjen e vendimit të Komisionit të marrë në bazë të konstatimit të gjendjes faktike.
-2. Autoriteti bashkë me njoftimin nga paragrafi 1. i këtij neni, palës ia dorëzon edhe ftesën për seancë dëgjimore në të cilën do t'i jepet mundësia për të siguruar mbrojtje, respektivisht ofron prova për konstatimin e kushteve për shqiptimin e masave ndëshkuese, si dhe konstatimin e rrethanave lehtësuese dhe rënduese si kritere për përcaktimin e nivelit të masave ndëshkuese të përcaktuara në dispozitat e këtij ligji.
-3. Pas përfundimit të seancës dëgjimore nga paragrafi 2. i këtij neni, Komisioni në pajtim me kompetencat nga neni 28 i këtij ligji, vendos për ekzistimin e kushteve për shqiptimin e masës ndëshkuese, përcakton lartësinë e saj si dhe kushtet dhe mënyrën e përmbarimit.
-4. Autoriteti në pajtim me vendimet e Komisionit, me të cilat është konstatuar çrregullimi i konkurrencës dhe me të cilat është konstatuar ekzistimi i kushteve për shqiptimin e masës ndëshkuese dhe lartësinë e saj, përmbyllë procedurën me marrjen e vendimit përfundimtar.

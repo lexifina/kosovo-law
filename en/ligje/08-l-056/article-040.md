@@ -1,0 +1,18 @@
+# Article 40
+Unannounced inspection at premises of the Party 1. The Authority may, without notice, inspect the premises of the enterprise or other person under investigation if there is a risk of concealment or destruction of evidence.
+2. Before carrying out the unannounced inspection, the Authority shall request the court to authorize the officials of the Authority to enter the facility where the inspection will be carried out without notice or special permission.
+3. If there is a reasonable suspicion that the evidence in the possession of the Party to the procedure may disappear or be altered, the authorized Authority officials themselves or with the assistance of the authorized experts of the Police perform unannounced inspection and notify the person in possession of the building or items.
+4. Before carrying out the unannounced inspection, the authorized officials of the Authority shall show the party in the procedure or the owner of the facility the official identification card and the authorization from the court for conducting the inspection.
+5. The authority regulates the form and content of the legitimacy with a sub-legal act.
+LAW NO. 08/L-056 ON PROTECTION OF COMPETITION 6. If other persons authorized in accordance with paragraph 3. of this Article participate in the inspection, they shall demonstrate to the Party in the procedure or the owner of the building the authorization of the Authority for participation in inspection.
+7. The officials authorized for the unannounced inspection according to paragraph 3. of this Article may:
+7.1. carry out inspections on all business premises, open warehouses and means of transport at the headquarters of the enterprise against which the procedure is conducted and at any other address at which the enterprise operates;
+7.2. look at business books and other documents which are related to the business of the enterprise;
+7.3. obtain or copy business books, extracts from business books, data and other documents and any information accessible to the enterprise, including legally secured data, regardless of the form and means in which they are stored;
+7.4. obtain the necessary documentation to make a copy of the documents;
+7.5. seal with lead the premises, facility, business books and documents during the time of inspection and as far as is necessary to carry out the inspections;
+7.6. request from the representatives and employees of the enterprise a verbal statement on the facts or documents related to the building and purpose of the inspection, while the received statements are recorded;
+7.7. require representatives and employees of enterprises to submit written observations on the facts or documents related to the building of inspection, as well as to determine the necessary deadline for the submission of observations.
+8. If for technical reasons it is not possible to make copies of the necessary documents during the inspection, the authorized official shall compile a report.
+9. In case of temporary seizure of items, business books and other documents during the unannounced inspection, the Authority shall draw up an official submission in which it shall indicate in particular the place where the items were found and their description.
+10. The authorized official of the Authority shall without delay give the Party to the procedure or the owner of the items a certificate for the items and other documents temporarily seized. 11.Items, business books and other documents temporarily seized are kept until the ascertainment of all the facts and circumstances that contain those items, and at the latest until the receipt of the decision concluding the procedures in the Authority.

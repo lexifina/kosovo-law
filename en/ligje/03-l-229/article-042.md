@@ -1,6 +1,0 @@
-# Article 42
-Exclusion of documentation in unannounced inspection
-1. During unannounced inspection, letters, notes and other forms of communications between the enterprise against which the procedure is being carried out and authorized representative, which are considered secret information, are excluded from the documentation which is being inspected.
-2. The authority has the right to inspect the documents if the company or its authorized refuse to provide documentation in view being summoned in secret information referred to in paragraph 1 of this Article
-3. The authorized person of the Authority has the right to inspect such documentation. In case the authorized person of the Authority considers that there are no grounds for confidential information referred to in paragraph 1 of this Article, it is obliged to put the certified document or its copy into a special envelope, which shall be sealed, dated and stamped with the official stamp of the Authority, in the presence of the entrepreneur or his authorized representative, and all parties and authorized representatives shall sign it.
-4. In cases referred to in paragraph 2, 3 of this Article, provisions of law on Administrative Procedures shall be applied accordingly in order to make a decision concerning this issue.
