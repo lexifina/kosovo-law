@@ -1,0 +1,10 @@
+# Neni 7
+Detyrat dhe përgjegjësitë e MASHTI-t
+1. Planifikon garat me nxënës në nivel qendror, duke i përfshirë në planin strategjik për arsimin parauniversitar dhe në planin vjetor të punës së MASHTI-t.
+2. Themelon komisionin në nivel të MASHTI-t prej 7-9 anëtarë, për koordinimin e organizimit të garave me nxënës në nivel qendror. Komisioni në përbërje me përfaqësues MASHTI/ Departamenti i arsimit parauniversitar/, DKA, shkolla, universiteti, ekspertë, organizatat/shoqatat profesionale të specializuara që merren me organizimin e garave me nxënës, themelohet nga Sekretari i përhershëm i Ministrisë, me propozim nga Departamenti për arsim parauniversitar në MASHTI.
+3. Siguron buxhetin vjetor për organizimin e garave në nivel qendror, ndarjen e çmimeve për nxënësit fitues të garave nacionale.
+4. Siguron mbështetjen dhe përkrahjen e nxënësve fitues në gara, përmes përkrahjes dhe organizimit të aktiviteteve dhe programeve përkrahëse për nxënësit fitues në garat e organizuara në nivel vendi, në përputhje me talentin, interesimet, nevojat dhe karakteristikat e këtyre nxënësve.
+5. Siguron mbështetjen dhe përkrahjen e nxënësve për përgatitje dhe pjesëmarrje në garat ndërkombëtare ku përfaqësohet shteti.
+6. Monitoron, mbikëqyrë cilësinë e funksionimit të sistemit të garave me nxënës përmes Komisionit për organizimin dhe koordinimin e garave dhe mekanizmave tjerë të MASHTI-t, si dhe siguron përmirësimin dhe avancimin e vazhdueshëm të këtij sistemi.
+7. Përcakton kriteret dhe mënyrën e regjistrimit në MASHTI të organizatave/shoqatave profesionale të specializuara që organizojnë gara me nxënës, që aplikojnë për të siguruar përkrahje të ndryshme financiare dhe jofinanciare për organizimin e garave dhe për programe dhe aktivitete të përkrahjes për nxënës.
+8. Siguron dhe bën transparente çdo vit listën e organizatave/shoqatave profesionale të specializuara që përfaqësojnë shtetin në garat ndërkombëtare, që kanë autorizime speciale në gara të ndryshme ndërkombëtare dhe listën e organizatave/shoqatave profesionale të specializuara që organizojnë gara me karakter kombëtar dhe regjional.

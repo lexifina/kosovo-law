@@ -1,0 +1,4 @@
+# Neni 2
+Fushëveprimi
+Ky Udhëzim administrativ zbatohet në tërë sektorin e arsimit parauniversitar në Republikën e Kosovës.
+Ministrja e Arsimit, Shkencës, Teknologjisë dhe Inovacionit, në mbështetje të nenit 5 të Ligjit nr. 04/L-032 për Arsimin Parauniversitar në Republikën e Kosovës, (Gazeta zyrtare nr. 17/16, shtator 2011), nenit 3 pika (a) të Ligjit nr. 03/L-068 (Gazeta zyrtare 30/2008, qershor 20008)) për arsimin në komunat e Republikës së Kosovës, nenit 8, paragrafit 1, nënparagrafit 1.4, nenit 14 paragrafit 1 nënpragrafit 1.7, shtojcës 1 pikës 7 të Rregullores (QRK) nr. 02/2021 për Fushat e Përgjegjësisë Administrative të Zyrës së Kryeministrit dhe Ministrive si dhe Udhëzimit administrativ nr. 03/2013 për standardet e hartimit të akteve normative (GZ, nr. 03/2013, dt. 16.05.2013), nxjerr:
