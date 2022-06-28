@@ -1,0 +1,9 @@
+# Article 20
+The right of the traveller to terminate the contract 1. The traveller may terminate the travel package contract at any time before the start of the implementation of the travel package.
+2. In the case referred to in paragraph 1 of this Article, the organizing agency loses its right to the contracted price of the package and the traveller may be required to pay a reasonable and justifiable fee to the organizing agency.
+3. The travel package contract may set reasonable and standardized fees for its termination.
+4. If the standardized contract termination fees are not contracted by the parties, the amount of the termination fee shall correspond to the package price, minus the cost savings of the organizing agency and revenues from the provision of travel services to another user.
+5. At the request of the traveller, the organizing agency shall provide a justification for the amount of the termination fee.
+6. Without prejudice to paragraphs 1-5 of this Article, the traveller shall have the right to terminate the travel package contract before the start of the implementation of the travel package without paying any termination fee in case of unavoidable and exceptional circumstances that occur at the destination or in its immediate vicinity and affect the implementation of the package or affect the transport of travellers to the destination.
+7. In case of termination of the travel package contract according to paragraph 6 of this Article, the traveller shall be entitled to a full reimbursement of any payment made for the package but is not entitled to additional compensation.
+8. The organizing agency shall reimburse all payments made by or on behalf of the traveller for the package, minus the relevant termination fee without undue delay but not later than fourteen (14) days after the termination of the travel package contract.

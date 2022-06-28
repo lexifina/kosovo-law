@@ -1,0 +1,23 @@
+## SUB-CHAPTER I
+## OBLIGATIONS OF THE TRAVEL PACKAGE
+# Article 15
+Pre-contractual information on travel packages 1. The organizers and intermediaries, if the packages are sold through the intermediary, shall be required to provide the passenger with appropriate standard information as well as the information according to paragraph 2 of this Article if relevant to the package before the traveller assumes any obligation under the travel contract, package or any other corresponding offer.
+LAW NO. 08/L-074 ON TOURISM 2. The traveller shall be informed about the main characteristics of travel services which include:
+2.1. the destination, itinerary and duration of the stay, with the dates and, if the accommodation is included, the number of nights included;
+2.2. means, characteristics and category of transport, point of departure and of return, dates and times, respectively locations and duration of intermediate interruptions and transport links. When the exact time has not yet been determined, the business entity shall inform the traveller of the approximate time of departure and return;
+2.3. location, key characteristics and, as appropriate, the tourist category of accommodation including the rules of the country of destination;
+2.4. meal time planning;
+2.5. visits, excursions or other services included in the total price according to the agreement of the parties on the package;
+2.6. when it is not clear from the context whether any of the travel services will be offered to the traveller as part of a group and if so, when it is possible, to indicate the approximate group number;
+2.7. in case the traveller benefits from other tourist services and the benefit of these services is dependent on effective verbal communication, he shall be informed about the language in which these services are performed;
+2.8. if the travel or vacation is generally suitable for persons with reduced mobility and at the request of the traveller, the traveller shall be provided with accurate information on the suitability of the travel or vacations, taking into account the needs of the traveller;
+2.9. name of the company and the address of the organizing agency and, where possible, of the subcontractor or vendor of a service within the package, their telephone number and their email address;
+2.10. the total price of the package including taxes and, when applicable, all additional fees. In the event that additional costs may arise which could not have been reasonably calculated before the conclusion of the contract, the traveller shall be provided with information of the type of these expenses that the traveller may have;
+2.11. payment arrangements, including any amount or percentage of the price to be paid as an advance payment and the time limit for payment of the remainder, or financial guarantees to be paid or provided by the traveller;
+2.12. if applicable, the minimum number of persons required for such tourist packages as well as the time limit when the party may withdraw from the contract if the number is not met;
+2.13. general information on passport and visa requirements including approximate visa application periods and information on health formalities of the country of destination;
+2.14. information that the passenger can terminate the contract at any time before the start of the package implementation, in exchange for payment of an appropriate termination fee;
+2.15. information on optional or compulsory insurance to cover the cost of termination of the contract by the traveller or the cost of assistance including repatriation in the event of accident, illness or death.
+LAW NO. 08/L-074 ON TOURISM 3. The travel agency that mediates in the conclusion of travel package contracts for packages organized by the organizing agency which does not have its registered office in the Republic of Kosovo must indicate in the promotional materials and in the pre-contractual information to make public the general terms and conditions of the travel organizer as well as the rights and obligations of the travel agency and the service user at least in one of the official languages according to the legislation in force (hereinafter referred to as official language).
+4. The information set out in this Article shall be provided in a clear, comprehensible and visible manner and when such information is provided in writing, it shall be legible and written in the official language, or in another language that the consumer knows and understands.
+5. All pre-contractual information included in this Article shall be an integral part of the contract on the travel package regulated by this Law.

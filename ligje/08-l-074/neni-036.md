@@ -1,0 +1,3 @@
+# Neni 36
+Shërbimet turistike në turizmin shëndetësor 1. Shërbimet turistike në turizmin shëndetësor konsiderohen si shërbime të organizimit të transportit, transferimit turistik dhe akomodimit, si shërbime individuale ose si udhëtim i organizuar që u jepet përdoruesve të shërbimeve shëndetësore.
+2. Shërbimet e turizmit nga paragrafi 1 i këtij neni mund të sigurohen nga institucionet mjekësore, subjektet dhe profesionistët e kujdesit shëndetësor në përputhje me aktet e veçanta që rregullojnë kujdesin shëndetësor, përdoruesit e shërbimeve të tyre mjekësore, pa qenë nevoja të regjistrojnë një agjenci të udhëtimit, por në kushtet e parashikuara për ofrimin e shërbimeve të agjencisë së udhëtimit, të përcaktuara me këtë ligj.

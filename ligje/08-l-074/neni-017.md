@@ -1,0 +1,5 @@
+# Neni 17
+Transferimi i kontratës së paketës së udhëtimit 1. Para fillimit të zbatimit të paketës së udhëtimit, udhëtari mund ta transferojë kontratën e udhëtimit të paketës tek një person që i plotëson të gjitha kushtet e zbatueshme për atë kontratë, pas njoftimit të organizatorit me një njoftim të arsyeshëm. Njoftimi i dhënë agjencisë organizatore jo më vonë se shtatë (7) ditë para fillimit të udhëtimit të paketës konsiderohet si i arsyeshëm.
+2. Transferuesi i kontratës së paketës së udhëtimit dhe ai të cilit i transferohet ajo duhet të jenë bashkërisht përgjegjës për pagesën e çmimit dhe çdo tarife, ngarkese apo shpenzimi tjetër shtesë që rrjedhë nga transferimi i kontratës.
+3. Agjencia organizatore duhet të informojë transferuesin lidhur me kostot aktuale të transferimit i cili nuk duhet të jetë i paarsyeshëm dhe nuk duhet të tejkalojë koston aktuale të agjencisë organizatore për shkak të transferimit të kontratës së paketës së udhëtimit.
+LIGJI NR. 08/L-074 PËR TURIZMIN 4. Agjencia organizatore duhet t’i sigurojë transferuesit dëshmi të tarifave ose kostove të tjera shtesë që rrjedhin nga transferimi i kontratës së paketës së udhëtimit.

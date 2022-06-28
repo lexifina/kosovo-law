@@ -1,0 +1,4 @@
+# Article 14
+Obligation to provide tour instructions 1. For each group organized separately, travel agencies shall provide a tour guide who meets the conditions set out in Articles 28 and 29 of this Law for each program of the travel package in Kosovo or abroad.
+2. Notwithstanding paragraph 1 of this Article, the travel agency shall not provide a tour guide during the transport if the transport is organized by public transport. The agency does not need to provide a tour guide during transport to the starting point of the vacation within the travel or during the return from vacation or travel.
+3. Notwithstanding the provisions of this Article, the travel agency may engage a tour escort during transport to the starting point of the vacation within the travel or during the return from vacation or the travel.

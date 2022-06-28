@@ -1,0 +1,3 @@
+# Article 36
+Tourist services in health tourism 1. Tourist services in health tourism are considered as services of organization of transport, tourist transfer and accommodation, as individual services or as organized travel given to users of health services.
+LAW NO. 08/L-074 ON TOURISM 2. Tourism services from paragraph 1 of this Article may be provided by medical institutions, health care entities and professionals in accordance with special acts that regulate health care, users of their medical services, without the need to register a travel agency, but under the conditions provided for the provision of travel agency services, defined by this Law.

@@ -1,0 +1,5 @@
+# Neni 25
+Shpenzimet e akomodimit të nevojshëm 1. Për aq kohë sa është e pamundur të sigurohet kthimi i udhëtarit siç është rënë dakord në kontratën
+LIGJI NR. 08/L-074 PËR TURIZMIN e paketës së udhëtimit për shkak të rrethanave të pashmangshme dhe të jashtëzakonshme, agjencia organizatore duhet të plotësojë koston e nevojshme të akomodimit, nëse është e mundur, të kategorisë ekuivalente, për një periudhë jo më të gjatë se tri (3) net për udhëtarin.
+2. Kufizimi i shpenzimeve nga paragrafi 1 i këtij neni nuk zbatohet për personat me lëvizshmëri të kufizuar dhe çdo person që shoqëron gratë shtatzëna dhe të miturit e pashoqëruar, si dhe personat që kanë nevojë për një mjekim të veçantë, me kusht që agjencia organizatore të jetë njoftuar për nevojat e tyre të veçanta të paktën dyzet e tetë (48) orë para fillimit të paketës së udhëtimit.
+3. Agjencia organizatore nuk mund të kërkojë rrethana të pashmangshme dhe të jashtëzakonshme për të kufizuar përgjegjësinë sipas paragrafit 1 të këtij neni nëse ofruesi përkatës i transportit nuk mund të mbështetet në të tilla rrethana. NËNKAPITULLI IV ULJA E ÇMIMEVE DHE KOMPENSIMI PËR DËMET

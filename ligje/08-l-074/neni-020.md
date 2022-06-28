@@ -1,0 +1,9 @@
+# Neni 20
+E drejta e udhëtarit për ta ndërprerë kontratën 1. Udhëtari mund ta ndërpresë kontratën e paketës së udhëtimit në çdo kohë para fillimit të zbatimit të paketës së udhëtimit.
+2. Në rastin e cekur në paragrafin 1 të këtij neni, agjencia organizatore humbet të drejtën e saj për çmimin e kontraktuar të paketës dhe udhëtarit mund t’i kërkohet të paguajë një tarifë të arsyeshme dhe të justifikueshme për agjencinë organizatore.
+3. Kontrata e paketës së udhëtimit mund t’i përcaktojë tarifat e arsyeshme dhe të standardizuara të ndërprerjes së saj.
+4. Nëse tarifat e standardizuara të ndërprerjes së kontratës nuk janë përcaktuar me kontratë nga palët, shuma e tarifës së ndërprerjes duhet të korrespondojë me çmimin e paketës, minus kursimet e kostos së agjencisë organizatore dhe të ardhurat nga ofrimi i shërbimeve të udhëtimit tek një përdorues tjetër.
+LIGJI NR. 08/L-074 PËR TURIZMIN 5. Me kërkesën e udhëtarit, agjencia organizatore duhet të japë një arsyetim për shumën e tarifës së ndërprerjes.
+6. Pa rënë ndesh me paragrafët 1-5 të këtij neni, udhëtari duhet të ketë të drejtë për ta ndërprerë kontratën e paketës së udhëtimit para fillimit të zbatimit të paketës së udhëtimit pa paguar asnjë tarifë ndërprerjeje në rast të rrethanave të jashtëzakonshme dhe të pashmangshme që ndodhin në destinacionin ose në afërsi të tij të afërt dhe ndikojnë në realizimin e paketës ose ndikojnë në transportin e udhëtarëve në destinacion.
+7. Në rast të ndërprerjes së kontratës së paketës së udhëtimit sipas paragrafit 6 të këtij neni, udhëtari ka të drejtën e rimbursimit të plotë të çdo pagesë të bërë për paketën por nuk ka të drejtë për kompensim shtesë.
+8. Agjencia organizatore duhet të rimbursojë të gjitha pagesat e bëra nga ose në emër të udhëtarit për paketën, minus tarifën përkatëse të ndërprerjes, pa vonesa të panevojshme por jo më vonë se katërmbëdhjetë (14) ditë pas përfundimit të kontratës së paketës së udhëtimit.

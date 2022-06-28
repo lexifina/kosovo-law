@@ -1,0 +1,13 @@
+# Neni 11
+Sigurimi ndaj palëve të treta
+1. Agjencia e udhëtimit e cila organizon paketa të udhëtimit, turne ose ekskursione duhet të sigurojë përmbushjen e detyrimeve të saja kontraktuale ndaj palëve të treta përmes garancisë bankare ose policës së vlefshme të sigurimit:
+1.1. Sigurimi duhet të mbulojë kompensimin e dëmit të shkaktuar ndaj udhëtarit nga mos përmbushja, përmbushja e pjesshme ose përmbushja e parregullt e detyrimeve sipas marrëveshjes së udhëtimit, itinerarit të udhëtimit ose itinerarit të ekskursionit si dhe kompensimin e dëmeve të shkaktuara për shkak të pamundësisë së agjencisë së udhëtimit për t’i shlyer kostot e nevojshme të strehimit ose akomodimit, ushqimit dhe kthimit të udhëtarëve nga një udhëtim në vendin e nisjes brenda dhe jashtë vendit;
+1.2. Garancia bankare ose polica e sigurimit duhet t’i mbulojë po ashtu rastet e pamundësisë të përmendura më sipër të shkaktuara nga falimentimi i agjencisë së udhëtimit.
+2. Agjencia e udhëtimit duhet të sigurojë garancinë bankare ose policën e sigurimit nga paragrafi 1 i këtij neni në vazhdimësi përgjatë gjithë kohëzgjatjes së veprimtarisë së saj.
+3. Ministri, me akt nënligjor, përcakton mbulueshmërinë e sigurimit, shumën dhe procedurat e realizimit dhe dëmshpërblimit ndaj palëve të treta.
+4. Agjencia e udhëtimit që organizon turne ose ofron shërbime të transportit për udhëtarët duhet t’i përdorë mjetet e veta të transportit ose mjetet e transportit të transportuesve të tjerë që kanë policën e tyre të sigurimit për mbulimin e pasojave të një aksidenti.
+5. Agjencia organizatore e paketës duhet që, përmes garancisë bankare, të mbulojë:
+5.1. rimbursimin e të gjitha pagesave të bëra nga ose në emër të udhëtarit në lidhje me kontratën e udhëtimit për paketat dhe shërbimet që nuk kryhen ose që kryhen vetëm pjesërisht si pasojë e falimentimit;
+5.2. kompensimin e udhëtarit për shpenzimet e strehimit të nevojshëm, ushqimin dhe kthimin në vendin e nisjes në Kosovë apo jashtë vendit si dhe të gjitha pretendimet e tjera në këtë drejtim në rast të falimentimit të agjencisë organizatore nëse transporti ishte i përfshirë në kontratën e paketës së udhëtimit.
+6. Për t’i përmbushur detyrimet e saj të përcaktuara në paragrafin 5 të këtij neni, agjencia organizatore i jep të drejtën udhëtarit për t’i zgjidhur drejtpërdrejt pretendimet e tij nga sigurimi dhe si dëshmi e një të drejtë të tillë.
+LIGJI NR. 08/L-074 PËR TURIZMIN 7. Agjencia organizatore duhet të vë në dispozicion të udhëtarit informacione lidhur me përmbajtjen e këtyre termave dhe kushteve të përgjithshme të garancisë bankare apo policës së sigurimit. Agjencia organizatore duhet gjithashtu të vë në dispozicion edhe informacionin lidhur me rastet e sigurimit vullnetar kur kjo është e aplikueshme.

@@ -1,0 +1,4 @@
+# Article 25
+Necessary accommodation expenses 1. As long as it is impossible to secure the return of the passenger as agreed in the travel package contract due to unavoidable and exceptional circumstances, the organizing agency shall meet the necessary cost of accommodation, if possible, of the equivalent category, for a period not exceeding three (3) nights for the traveller.
+2. The limitation of expenses from paragraph 1 of this Article shall not apply to persons with limited mobility and any person accompanying pregnant women and unaccompanied minors, as well as persons in need of special treatment, provided that the organizing agency has been notified of their special needs at least fourty-eight (48) hours before the start of the travel package.
+3. The organizing agency may not require unavoidable and extraordinary circumstances to limit liability under paragraph 1 of this Article if the relevant transport provider cannot rely on such circumstances.

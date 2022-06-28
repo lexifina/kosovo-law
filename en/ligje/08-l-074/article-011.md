@@ -1,0 +1,12 @@
+# Article 11
+Third party insurance 1. The travel agency that organizes travel packages, tours or excursions, shall ensure the fulfilment of its contractual obligations to third parties through a bank guarantee or a valid insurance policy:
+1.1. the insurance shall cover compensation for damage caused to the traveller by non-fulfilment, partial fulfilment or improper fulfilment of obligations under the travel agreement, travel itinerary or excursion itinerary as well as compensation for damages caused due to the inability of the agency travel to cover the necessary costs of housing or accommodation, food and return of travellers from a travel to the place of departure within and outside the country;
+1.2. the bank guarantee or insurance policy shall also cover the cases of inability mentioned above caused by the bankruptcy of the travel agency.
+2. The travel agency shall provide the bank guarantee or insurance policy from paragraph 1 of this Article continuously for the entire duration of its activity.
+3. The Minister shall, with a sub-legal act, determine the insurance coverage, the amount and the procedures of realization and compensation to third parties.
+4. The travel agency that organizes tours or provides transportation services for travellers shall use its own means of transport or means of transport of other carriers who have their insurance policy to cover the consequences of an accident.
+5. The agency organizing the package shall, through the bank guarantee, cover:
+5.1. reimbursement of all payments made by or on behalf of the traveller regarding the travel contract for packages and services not performed or partly performed as a result of bankruptcy;
+5.2. compensation of the traveller for the expenses of necessary accommodation, food and return to the place of departure in Kosovo or abroad as well as all other claims in this regard in case of bankruptcy of the organizing agency if the transport was included in the travel package contract.
+6. In order to fulfil its obligations set out in paragraph 5 of this Article, the organizing agency shall give the traveller the right to directly resolve his/her claims from the insurance and as evidence of such a right.
+7. The organizing agency shall make available to the traveller information regarding the content of these general terms and conditions of the bank guarantee or insurance policy. The organizing agency shall also make available information on voluntary insurance cases where applicable.
