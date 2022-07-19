@@ -1,0 +1,2 @@
+# Neni 9
+Plani i shfrytëzimit të burimeve minerale Operatori i cili shfrytëzon burimet minerale dhe menaxhon pajisjet për trajtimin e mbeturinave inerte ose dheun e pa ndotur që rezulton nga shfrytëzimi i burimeve minerare, është i detyruar të hartojë Planin e Menaxhimit të Burimeve Minerale në përputhje me dispozitat e Ligjit përkatës për miniera dhe minerale bazuar në kushtet e veçanta të përcaktuara në legjislacionin për fushën minerale.

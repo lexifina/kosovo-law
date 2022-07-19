@@ -1,0 +1,3 @@
+# Article 24
+Inspections 1. Prior to the commencement of deposit operations and at regular intervals thereafter, including the after-closure phase, the competent authority shall inspect any waste facility covered by Article 11 of this Law, in order to ensure that it complies with the relevant conditions of the permit.
+2. The operator shall keep up-to-date records of all waste management operations and make them available for inspection by the competent authority and to ensure, that in the event of a change of operator during the management of a waste facility, there is an appropriate transfer of relevant up-to-date information and records relating to the waste facility.

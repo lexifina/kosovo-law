@@ -1,0 +1,2 @@
+# Article 9
+Mining resource exploitation plan The operator who exploits the mining resources and manages the facilities for the treatment of inert waste or unpolluted soil resulting from the exploitation of mineral resources is obliged to draft the Mineral Resources Management Plan in accordance with relevant the Law on mines and minerals on the basis of special conditions laid down in the mining legislation.
