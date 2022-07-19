@@ -1,0 +1,2 @@
+# Neni 32
+Hyrja në fuqi Ky ligj hyn në fuqi pesëmbëdhjetë (15) ditë pas publikimit në Gazetën Zyrtare të Republikës së Kosovës. Ligji Nr. 08/L-033 14 qershor 2022 Shpallur me dekretin Nr. DL-183/2022, datë 28.06.2022 nga Presidentja e Republikës së Kosovës Vjosa Osmani-Sadriu 1.3. përmbajtja e procesverbalit, formulari i Certifikatës për dhënien e provimit, dhe përmbajtja e evidencës për provimin e dhënë të jurisprudencës.
