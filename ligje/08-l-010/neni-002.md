@@ -1,0 +1,2 @@
+# Neni 2
+Fushëveprimi Dispozitat e këtij ligji janë të detyrueshme për të gjitha autoritete publike dhe private me qëllim të ngritjes së efikasitetit për grumbullim, mirëmbajtje, shpërndarje dhe përdorim të qëndrueshëm të informacioneve hapësinore si dhe shkëmbimit më të mirë nëpërmjet zbatimit të standardeve të informacioneve dhe shërbimeve efektive ndërvepruese të cilat do të përdoren nga autoritete publike dhe private brenda territorit të Republikës së Kosovës.

@@ -1,0 +1,2 @@
+# Article 2
+Scope The provisions of this law are mandatory for all public and private authorities in order to increase efficiency for sustainable collection, maintenance, distribution and use of spatial information and better exchange through the implementation of effective interactive information and services standards which will be used by public and private authorities within the territory of the Republic of Kosovo.

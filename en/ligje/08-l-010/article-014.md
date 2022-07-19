@@ -1,0 +1,4 @@
+# Article 14
+Cooperation with other actors 1. KCA, in addition to public authorities, cooperates closely with the private sector, in order to create an as comprehensive as possible spatial database.
+2. Public authorities cooperate with each other, but also with the private sector, for the implementation of joint initiatives, the exchange of spatial information produced by them, the development of information technology and the enrichment of the spatial information base.
+3. To ensure cooperation, according to paragraph 1. and 2. of this Article, KCA and public authorities inform private and academic entities about the initiatives undertaken by them, in implementation of this law, and invite them to participate and express their opinion through participation in the meetings of the Inter-Ministerial Committee for Land Administration and National Infrastructure on Spatial Information of Kosovo, organized for this purpose.

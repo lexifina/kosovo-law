@@ -1,0 +1,4 @@
+# Neni 14
+Bashkëpunimi me akterë të tjerë 1. AKK, përveçse me autoritetet publike, bashkëpunon ngushtë me sektorin privat, me qëllim krijimin e një baze informacionesh hapësinore sa më gjithëpërfshirëse.
+2. Autoritetet publike bashkëpunojnë ndërmjet tyre, por dhe me sektorin privat, për realizimin e nismave të përbashkëta, shkëmbimin e informcioneve hapësinore të prodhuara prej tyre, zhvillimin e teknologjisë së informacionit dhe pasurimin e bazës së informacioneve hapësinore.
+3. Për të siguruar bashkëpunimin, sipas paragrafëve 1 dhe 2 të këtij neni, AKK dhe autoritetet publike informojnë subjektet private për nismat e ndërmarra prej tyre, në zbatim të këtij ligji, si dhe i ftojnë ata të marrin pjesë dhe të shprehin mendimin e tyre nëpërmjet pjesëmarrjes në mbledhjet e Komitetit Ndërministror për Administrimin e Tokës dhe për Infrastrukturën Kombëtare për Informacionin Hapësinor të Kosovës, të organizuara për këtë qëllim.
