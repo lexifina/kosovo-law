@@ -1,0 +1,7 @@
+# Neni 9
+Komponimet 1. Në përshkrimin, prezantimin dhe etiketimin e një pije të fortë alkoolike, përdorimi i një emri ligjor të vendosur në kategoritë e pijeve të forta alkoolike të përcaktuara në Shtojcën I të këtij ligji ose treguesit gjeografik në komponime për pijet e forta alkoolike lejohet me kusht:
+1.1. alkooli i cili përdoret në prodhimin e pijeve të forta alkoolike rrjedh ekskluzivisht nga pija e fortë e përcaktuar në përbërës, përveç alkoolit që mund të jetë i pranishëm në aromatizues, ngjyra ose përbërës të tjerë të lejuar të cilët përdoren për prodhimin e asaj pije të fortë alkoolike; dhe 1.2. pija e fortë alkoolike nuk është holluar vetëm me shtimin e ujit ashtu që fortësia e saj alkoolike është nën fortësinë minimale të dhënë për kategorinë përkatëse të pijeve alkoolike të përcaktuar në Shtojcën I të këtij ligji.
+LIGJI NR. 08/L-070 PËR PIJET E FORTA ALKOOLIKE 2. Emrat ligjorë të përcaktuar në nenin 8 të këtij ligji, shprehjet “alkool”, “alkool i fortë”, “pije”, “pije e fortë alkoolike” dhe “ujë” nuk duhet të jenë pjesë e një komponimi që përshkruan një pije alkoolike.
+3. Komponimet që përshkruajnë një pije alkoolike duhet të:
+3.1. shënohen me shkronja të fontit, madhësisë dhe ngjyrës së njëjtë;
+3.2. nuk lejohen të ndërprehen me elemente tekstuale dhe ilustrative të cilat nuk janë pjesë përbërëse të saj, dhe 3.3. nuk lejohet të shkruhen me një madhësi të fontit më e madhe se madhësia e fontit e cila përdoret për emërtimin e pijeve alkoolike.

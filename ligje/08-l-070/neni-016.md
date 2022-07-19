@@ -1,0 +1,6 @@
+# Neni 16
+Metodat referente për analizat 1. Alkooli etilik me origjinë bujqësore, distilat me origjinë bujqësore ose pije alkoolike të forta do të analizohen për të verifikuar pajtueshmërinë me këtë ligj, analiza duhet të jetë në përputhje me metodat e analizës referuese të BE-së për të përcaktuar përbërjen e tyre fiziko- kimike dhe karakteristikat organoleptike të tyre.
+2. Metodat e tjera të analizës që kryhen nga Laboratori përkatës, lejohen me kusht që saktësia, përsëritshmëria dhe riprodhueshmëria e metodave të jenë të paktën të barabarta me ato të metodave analitike referuese përkatëse të BE-së për analiza si në vijim:
+2.1. metodat e analizës të cilat janë vërtetuar në bazë të procedurave të njohura ndërkombëtarisht dhe që, mbi të gjitha, plotësojnë kriteret;
+LIGJI NR. 08/L-070 PËR PIJET E FORTA ALKOOLIKE 2.2. metodat e analizës që përputhen me standardet e rekomanduara të Organizatës Ndërkombëtare për Standardizim (ISO);
+2.3. metodat e analizës të njohura dhe të publikuara nga Organizata Ndërkombëtare e Vreshtarisë dhe Enologjisë (OIV); ose 2.4. në mungesë të një metode të referuar në nën paragrafët 2.1., 2.2. ose 2.3. të këtij neni për shkak të saktësisë, përsëritshmërisë dhe riprodhueshmërisë së saj lejohet një metodë tjetër analize e miratuar nga trupa akredituese në Kosovë.

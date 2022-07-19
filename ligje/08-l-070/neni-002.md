@@ -1,0 +1,2 @@
+# Neni 2
+Fushëveprimi Dispozitat e këtij ligji janë të detyrueshme për të gjitha institucionet dhe njësitë përkatëse të tyre si dhe të gjithë personat që marrin pjesë në prodhimin, përpunimin, tregtimin, përshkrimin, mbikëqyrjen, inspektimin dhe etiketimin e pijeve të forta alkoolike gjatë prezantimit dhe shënimit të ushqimit në përdorimin e alkoolit etilik dhe distilatit me origjinë nga produktet bujqësore.

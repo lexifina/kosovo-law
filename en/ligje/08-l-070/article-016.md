@@ -1,0 +1,6 @@
+# Article 16
+Reference methods of analysis 1. Where ethyl alcohol of agricultural origin, distillates of agricultural origin or spirit drinks are to be analysed to verify that they comply with this Law, such analysis shall be in accordance with EU reference methods of analysis for the determination of their chemical and physical composition and organoleptic properties.
+2. Other methods of analysis performed by respective laboratory shall be permitted on condition that the accuracy, repeatability and reproducibility of the methods are at least equivalent to those of the relevant EU reference methods of analysis as in the following:
+2.1. methods of analysis that have been validated by internationally recognised procedures and that, in particular, meet the criteria;
+2.2. methods of analysis conforming to the recommended standards of the International Organisation for Standardisation (ISO);
+2.3. methods of analysis recognised and published by the International Organisation of Vine and Wine (OIV); or 2.4. in the absence of a method as referred to in sub-paragraph 2.1. 2.2. or 2.3. of this Article by reason of its accuracy, repeatability and reproducibility a new method of analysis shall be approved by the accreditation bodies in Kosovo.
