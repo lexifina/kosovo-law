@@ -1,0 +1,5 @@
+# Neni 23
+Bashkëpunimi ndërkombëtar dhe rajonal
+1. MPB në bashkëpunim me institucionet tjera përgjegjëse ndërrmarrin hapat e duhur për të forcuar bashkëpunimin ndërkombëtar rajonal, dypalësh ose shumëpalësh për parandalimin, zbulimin, hetimin, ndjekjen penale, referimin dhe raportimin e rasteve pranë organeve kompetente, të personave përgjegjës për veprimet që përfshijnë pornografinë me fëmijë përmes internetit apo ndonjë forme tjetër, duke përfshirë edhe format tjera të lojërave që dëmtojnë dhe rrezikojnë shëndetin dhe jetën e fëmijës.
+2. Pjesë e bashkëpunimit ndërkombëtar dhe koordinimit ndërmjet autoriteteve mund të jenë edhe organizatat joqeveritare vendase ose ndërkombëtare dhe organizatat ndërkombëtare që janë të specializuara në këtë fushë.
+3. Në kuadër të bashkëpunimit ndërkombëtar përveç aspektve të parandalimit dhe luftimit të këtij fenomeni duhet të përfshihen edhe aspektet që ndihmojnë fëmijët viktima në rehabilitimin e tyre fizik, psikologjik dhe emocional, riintegrimin shoqëror, riatdhesimin.
