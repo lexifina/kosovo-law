@@ -1,0 +1,6 @@
+# Article 31
+Informing the public on the Strategy and Action Plans 1. The Ministry, the final draft of the Strategy and Action Plan for Air Quality from Article 27 of this Law, the Short-Term Action Plan from Article 29 of this Law, and the Report from Article 30 paragraph 3 of this Law; as well as the Municipality, the final draft of the Action Plan from Article 28 of this and 29 of this Law and the Report from Article 30 paragraph 4 of this Law, should publish on their websites for receiving opinions, remarks, comments and possible suggestions.
+2. The Ministry and the Municipality informs the public through the media about the place where the documents from paragraph 1 of this Article are published, as well as about the manner and time of giving opinions, remarks and suggestions.
+LAW NO. 08/L-025 ON PROTECTION OF AIR FROM POLLUTION 3. The deadline for giving opinions, comments and suggestions may not be shorter than thirty (30) days from the day of publication.
+4. The Ministry and the Municipality for the documents from paragraph 1 of this Article, review the given opinions, remarks and suggestions and assess their reasonableness.
+5. After the approval of the documents from paragraph 1 of this article, they will be published in the Official Gazette of the Republic of Kosovo.

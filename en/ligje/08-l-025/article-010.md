@@ -1,0 +1,5 @@
+# Article 10
+Air quality monitoring at the local level 1. Municipalities shall establish air quality monitoring stations in their territory when they consider that the level of pollution is greater than the set limit values due to the increased development of industry or expansion of working areas.
+2. The Mayor shall, in cooperation with the responsible directorate for environment, determine the locations of metering stations for air quality monitoring in consultation with the Ministry, prepare the program of measurement of the pollution level and provide the implementation conditions.
+3. The responsible directorate for environment shall conduct the supervision on the implementation of the obligations from paragraph 1 and 3 of this Article and shall publish the data on the website of the Municipality.
+4. The responsible directorate for environment shall submit to KEPA the basic and validated data for air quality monitoring and the report on pollution levels and air quality assessment, by March 30 of the current year, for the previous calendar year.

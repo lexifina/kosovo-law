@@ -1,0 +1,3 @@
+# Neni 11
+Monitorimi i cilësisë së ajrit nga ana e operatorëve ekonomik 1. Operatori ekonomik, është i obliguar të siguroj monitorimin e cilësisë së ajrit sipas vendimit për Pëlqim Mjedisor, Leje Mjedisore, Leje Mjedisore të Integruar dhe Leje Mjedisore Komunale, në pajtim me legjislacionin përkatës.
+2. Personi juridik – laboratori testues dhe kalibrues i cili i kryen matjet për operatorin e caktuar është i obliguar t’ia dorëzoj Ministrisë, AMMK dhe Komunës, të dhënat bazë dhe të validuara të monitorimit të cilësisë së ajrit dhe raportin për shkallën e ndotjes dhe vlerësimit të cilësisë së ajrit deri më 31 mars të vitit aktual, për vitin e kaluar kalendarik.

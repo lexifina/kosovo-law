@@ -1,0 +1,3 @@
+# Article 21
+Emission limit values of evaporated organic compounds for stationary sources 1. Limit emissions values of the evaporated organic compounds from stationary sources, their monitoring and evaluation, data registering for stationary sources in which organic solvents or other products are used, the manner of reducing these emissions into the air, the manner of / and the deadline for submission of the report for these emissions by the operator, are defined in the sub-legal act from Article 6 paragraph 2 of this Law.
+2. Limit values for the content of evaporated organic compounds in certain products and relevant technical requirements are determined by sub-legal act from Article 6 paragraph 2 of this Law.

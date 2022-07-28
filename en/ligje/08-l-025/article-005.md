@@ -1,0 +1,6 @@
+# Article 5
+Competent authorities for air protection 1. The effectiveness of protection and improvement of air quality and ozone layer, mitigation and adaptation to climate change is ensured by the central and local level within the competencies provided by this Law and other sub-legal acts.
+2. The evaluation of the air quality and the management of the Air Information System is done by the Ministry.
+3. The competent authorities for monitoring the air quality, monitoring the emissions of pollutants into the air from stationary sources, controlling the metering system for continuous measurements of emissions from stationary sources, are defined in Articles 8, 9, 10, 11 and 12 of this Law.
+LAW NO. 08/L-025 ON PROTECTION OF AIR FROM POLLUTION 4. The National Institute of Public Health researches the impact of environmental factors on the health of the population and gives professional recommendations to the competent Institutions to eliminate the identified deficiencies and their harmful impact on health.
+5. Scientific institutions, citizens as individuals or organized in organizations for air protection, shall contribute to the realization of research purposes, protection and improvement of air quality and implementation of the effective protection.

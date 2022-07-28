@@ -1,0 +1,3 @@
+# Neni 22
+Synimet për zvogëlimin e ekspozimit ndaj PM2.5 në nivel kombëtar, për mbrojtjen e shëndetit të njeriut 1. Për të zvogëluar ekspozimin dhe për të arritur synimet për zvogëlimin e ekspozimit ndaj grimcave PM 2.5, në përputhje me nivelet e ndotjes dhe afateve kohore, Ministria në bashkëpunim me organet e tjera qeveritare dhe lokale siguron ndërmarrjen e të gjitha masave të nevojshme.
+2. Treguesi i ekspozimit mesatar ndaj PM2.5, shpërndarja dhe numri i pikave matëse në të cilat bazohet treguesi mesatar i ekspozimit për PM2.5 dhe i cili në mënyrë adekuate reflekton ekspozimin e përgjithshëm të popullsisë, përcaktohet në aktin nënligjor nga neni 7 paragrafi 1 i këtij Ligji.

@@ -1,0 +1,4 @@
+# Neni 43
+Mbrojtja e shtresës së ozonit 1. Zvogëlimi gradual dhe ndërprerja e shfrytëzimit të substancave të cilat e dëmtojnë shtresën e ozonit zbatohen me mbikëqyrjen e shpenzimit të atyre substancave, me ndalimin e përdorimit të prodhimeve të cilat përmbajnë substanca të tilla ose varen nga to, zvogëlimin e rrjedhjeve nga prodhimi, mbledhjen dhe shkatërrimin e substancave të tilla dhe masave tjera të cilat në mënyrën kost-efektive kontribuojnë në mbrojtjen e shtresës së ozonit.
+2. Gazrat serrë të fluoruara përdoren si zëvendësim për substancat të cilat dëmtojnë shtresën e ozonit, kurse për shkak të potencialit të tyre në ngrohjen globale zbatohen masat me qëllim të zvogëlimit të emisioneve të atyre gazrave dhe në këtë mënyrë të ndikohet në zbutjen e ndryshimeve klimatike.
+3. Dispozitat nga paragrafi 1 dhe 2 i këtij neni, me propozim të Ministrisë e rregullon Qeveria me akt nënligjor.

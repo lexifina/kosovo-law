@@ -1,0 +1,2 @@
+# Article 2
+Scope This Law shall apply to all natural or legal persons, whose activities directly or indirectly pollute the air, as well as to all public and private authorities that perform the activity of air quality monitoring, monitoring emissions of pollutants from stationary sources and verification of the metering system for continuous measurement of pollutants emissions from stationary sources.

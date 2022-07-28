@@ -1,0 +1,5 @@
+## KAPITULLI V
+## MASAT PËR PARANDALIMIN DHE ZVOGËLIMIN E NDOTJES SË AJRIT
+# Neni 18
+Mbrojtja e cilësisë së ajrit në zona dhe aglomerate 1. Në zonat dhe aglomeratet për të cilat është vërtetuar se niveli i disa ndotësve nga neni 12, paragrafi 1 i këtij ligji është mbi vlerat kufitare, vlerat e synuara dhe qëllimeve afatgjata për ozonin sipërfaqësor, duhet të zbatohen masat për zvogëlimin e ndotjes së ajrit me qëllim të arritjes së vlerave kufitare, vlerave të synuara dhe qëllimeve afatgjata për ozonin sipërfaqësor. Masat duhet të harmonizohen me planet e veprimit për përmirësimin e cilësisë së ajrit.
+2. Në zona dhe aglomerate për të cilat është vërtetuar se niveli i dioksidit të sulfurit dhe dioksidit të azotit janë mbi vlerën e pragut të paralajmërimit dhe pragut të paralajmërimit për ozonin sipërfaqësor, duhet të zbatohen masat nga Plani i Veprimit Afatshkurtër, me qëllim të arritjes së vlerave kufitare apo vlerave të synuara për ozonin sipërfaqësor dhe për këtë të informohet publiku.

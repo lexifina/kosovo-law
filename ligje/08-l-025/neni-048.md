@@ -1,0 +1,3 @@
+# Neni 48
+Raporti vjetor për cilësinë e ajrit 1. Raportin vjetor për cilësinë e ajrit në Republikën e Kosovës e harton AMMK deri më 30 Qershor të vitit vijues për vitin e kaluar kalendarik.
+2. Raporti nga paragrafi 1 i këtij neni hartohet në bazë të aktit nënligjor të përcaktuar në nenin 12 paragrafi 1 të këtij ligji dhe përmban: pasqyrën e nivelit të ndotësve në ajër të cilët tejkalojnë vlerën kufitare, vlerën e synuar, objektivat afatgjate, pragun e informimit dhe pragun e paralajmërimit, për kohën e caktuar dhe të gjitha të dhënat e nevojshme të përcaktuara në nenin 47 paragrafi 2 dhe 4 të këtij ligji.

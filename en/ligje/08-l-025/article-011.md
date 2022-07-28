@@ -1,0 +1,3 @@
+# Article 11
+Air quality monitoring by economic operators 1. The economic operator is obliged to ensure air quality monitoring according to the decision for Environmental Consent, Environmental Permit, Integrated Environmental Permit and Municipal Environmental Permit, in accordance with the relevant legislation.
+2. Legal entity - testing and calibration laboratory that performs measurements for the designated operator, is obliged to submit to the Ministry, KEPA and to the Municipality, the basic and validated data of air quality monitoring and the report on the pollution level and air quality assessment by March 31 of the current year, for the previous calendar year.

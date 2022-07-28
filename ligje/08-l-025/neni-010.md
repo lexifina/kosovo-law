@@ -1,0 +1,5 @@
+# Neni 10
+Monitorimi i cilësisë së ajrit në nivel lokal 1. Komunat vendosin stacionet për monitorimin e cilësisë së ajrit në territorin e vet, kur vlerësojnë se shkalla e ndotjes është më e madhe se vlerat e përcaktuara kufitare, për arsye të rritjes dhe zhvillimit të industrisë apo zgjerimit të zonave punuese.
+LIGJI NR. 08/L-025 PËR MBROJTJEN E AJRIT NGA NDOTJA 2. Kryetari i Komunës në bashkëpunim me drejtorinë përgjegjëse për mjedis, cakton lokacionet e stacioneve matëse për monitorimin e cilësisë së ajrit në konsultim me Ministrinë, përgatitë programin e matjeve të shkallës së ndotjes dhe siguron kushtet për zbatim.
+3. Drejtoria përgjegjëse për mjedis kryen mbikëqyrjen për zbatimin e obligimeve nga paragrafi 1 dhe 3 të këtij neni dhe të dhënat nga matjet e kryera i publikon në ueb faqen e Komunës.
+4. Drejtoria përgjegjëse për mjedis ia paraqet AMMK-së të dhënat bazë dhe të validuara për monitorimin e cilësisë së ajrit dhe raportin për nivelet e ndotjes dhe vlerësimin e cilësisë së ajrit deri më 30 mars të vitit aktual, për vitin e kaluar kalendarik.

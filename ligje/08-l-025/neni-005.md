@@ -1,0 +1,6 @@
+# Neni 5
+Autoritetet kompetente për mbrojtjen e ajrit 1. Efektiviteti i mbrojtjes dhe përmirësimit të cilësisë së ajrit dhe të shtresës së ozonit, zbutja dhe përshtatja ndaj ndryshimeve klimatike sigurohet nga niveli qendror dhe niveli lokal brenda kompetencave të parapara me këtë ligj dhe aktet tjera nënligjore.
+2. Vlerësimin e cilësisë së ajrit dhe menaxhimin e Sistemit Informativ të Ajrit e bën Ministria.
+3. Autoritetet kompetente për monitorimin e cilësisë së ajrit, monitorimin e shkarkimeve të ndotësve në ajër nga burimet e palëvizshme, kontrollimin e sistemit matës për matjet kontinuale të emisioneve nga burimet e palëvizshme janë të përcaktuara në nenin 8, 9, 10, 11 dhe 12 të këtij ligji.
+4. Instituti Kombëtar i Shëndetësisë Publike hulumton ndikimin e faktorëve mjedisor në shëndetin e popullatës dhe jep rekomandime profesionale institucioneve kompetente për eliminimin e mangësive të identifikuara dhe ndikimin e tyre të dëmshëm në shëndet.
+5. Institucionet shkencore, qytetarët si individë ose të organizuar në organizata për mbrojtjen e ajrit, kontribuojnë në realizimin e qëllimeve të hulumtimit, mbrojtjes dhe përmirësimit të cilësisë së ajrit dhe zbatimit të mbrojtjes efikase.

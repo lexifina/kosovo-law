@@ -1,0 +1,3 @@
+# Neni 21
+Vlerat kufitare të emisioneve të bashkëdyzimeve organike të avullueshme për burimet e palëvizshme 1. Vlerat kufitare të emisioneve të bashkëdyzimeve organike të avullueshme nga burimet e palëvizshme, monitorimin dhe vlerësimin e tyre, regjistrin e të dhënave për burimet e palëvizshme në të cilat përdoren tretjet organike ose prodhimet tjera, mënyrën e zvogëlimit të këtyre emisioneve në ajër, mënyrën dhe afatin e dorëzimit të raportit për këto emisione nga ana e operatorit, përcaktohen në aktin nënligjor nga neni 6 paragrafi 2 i këtij ligji.
+2. Vlerat kufitare për përmbajtjen e bashkëdyzimeve organike të avullueshme në produkte të caktuara dhe kërkesat përkatëse teknike përcaktohen me akt nënligjor nga neni 6 paragrafi 2 i këtij ligji.

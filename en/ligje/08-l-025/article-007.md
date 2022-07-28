@@ -1,0 +1,9 @@
+## CHAPTER IV
+## MONITORING AND EVALUATION OF AIR QUALITY
+# Article 7
+Determination of limit values for air quality 1. Upon the proposal of the Ministry, the Government shall, by sub-legal act, determine the air quality limit values, target values for certain pollutants in the air, information thresholds, alarm thresholds, criteria for determining the AQMS, number of monitoring points, measurement methods, sample analysis, time and the form of reporting, the assessment of the air pollution level.
+2. By sub-legal act from paragraph 1 of this Article, depending on the properties of pollutants, the low and high evaluation threshold, tolerance limits, target values, basic components of the mentioned values, are determined average exposure indicators, targeted exposure reduction at national level, exposure concentration, critical values, warning threshold, alert threshold and
+LAW NO. 08/L-025 ON PROTECTION OF AIR FROM POLLUTION specific human health protection measures undertaken during their introduction, as well as deadlines for reducing the tolerance limit and to achieve target values for surface ozone.
+3. By the sub-legal act from paragraph 1 of this Article, the Government determines the limit values for the protection of human health, protection of vegetation and ecosystem.
+4. Limit values, target values, alarm thresholds for arsenic, cadmium, mercury, nickel and benzo (a) perennial, criteria for determining sampling points for fixed measurements, number of monitoring points, measurement methods, analysis of samples, time and form of reporting, assessment of the level of air pollution by these pollutants, is determined by the Ministry with a sub-legal act.
+5. In order to ensure the protection of air quality, manufacturers, importers, exporters, transporters, traders and commercial users of equipment, products, materials and substances that pollute the air, are obliged to adhere to the limit values set by the legislation on air.

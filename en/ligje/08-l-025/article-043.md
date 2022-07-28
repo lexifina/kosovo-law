@@ -1,0 +1,4 @@
+# Article 43
+Ozone layer protection 1. The gradual reduction and cessation of the use of substances which deplete the ozone layer, shall be implemented by supervising the consumption of those substances, by prohibiting the use of products which contain such substances or depending on them, reducing leakages from production, collection and destruction of such substances and other measures which in a cost-effective way contribute to the protection of the ozone layer.
+2. Fluorinated greenhouse gases are used as a substitute for substances that damage the ozone layer, and due to their potential in global warming measures are implemented in order to reduce emissions of those gases and thus affect the mitigation of climate change.
+3. The provisions from paragraph 1 and 2 of this Article, upon the proposal of the Ministry, are regulated by the Government with a sub-legal act.

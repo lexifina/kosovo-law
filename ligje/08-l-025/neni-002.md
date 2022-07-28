@@ -1,0 +1,2 @@
+# Neni 2
+Fushëveprimi Ky ligj zbatohet ndaj të gjithë personave fizikë dhe juridikë, aktivitetet e të cilëve në mënyrë të drejtpërdrejtë apo të tërthortë e ndotin ajrin si dhe ndaj të gjitha autoriteteve publike dhe private të cilat kryejnë veprimtarinë e monitorimit të cilësisë së ajrit, monitorimin e emisioneve të ndotësve nga burimet e palëvizshme dhe verifikimin e sistemit matës për matjen e vazhdueshme të emisioneve të ndotësve nga burimet e palëvizshme.

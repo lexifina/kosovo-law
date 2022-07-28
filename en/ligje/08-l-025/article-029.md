@@ -1,0 +1,8 @@
+# Article 29
+Short Term Action Plans 1. If in a certain zone or agglomeration there is a risk of exceeding the pollution alarm threshold, the Municipality for that area or agglomeration drafts a Short-Term Action Plan, which contains measures to be taken in the short term, in order to reduce the risk and/ or reduce pollution.
+2. The Short-Term Action Plan from paragraph 1 of this Article, depending on the individual cases, may provide for effective control measures and, where necessary, prohibit activities which cause a risk of exceeding the limit values, target values or threshold of alarms.
+3. The Short-Term Action Plan may include measures related to: motor vehicle circulation, construction activities, operation of industrial facilities, use of industrial products, heating in the household and to provide for specific activities, in order to protect vulnerable groups of population.
+4. If in a certain zone or agglomeration there is a risk of exceeding the alarm threshold for surface
+LAW NO. 08/L-025 ON PROTECTION OF AIR FROM POLLUTION ozone, the Ministry prepares the Short-Term Action Plan only for that part, where according to the assessment there is a significant potential to reduce the risk or continue the same situation, taking into account geographical, meteorological and economic conditions.
+5. The Ministry and the Municipality should inform the public, including stakeholders about the results of the research, the implementation and content of the Short-Term Action Plan as well as the implementation of this plan.
+6. The polluter is obliged to implement and finance the measures for the reduction of air pollution, defined in the Short-Term Action Plan from paragraph 1 of this Article.

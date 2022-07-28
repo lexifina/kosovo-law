@@ -1,0 +1,3 @@
+# Neni 37
+Vërtetësia dhe saktësia e të dhënave 1. Personi juridik i cili është akredituar nga DAK, ka për detyrë që punët e monitorimit të cilësisë së ajrit, emisioneve në ajër dhe kontrollin vjetor të pajisjeve të sistemit matës për matje kontinuale të emisioneve të ndotësve nga burimet e palëvizshme t’i kryej me cilësi dhe përgjegjësi, në pajtim me rregullat e profesionit, si dhe është përgjegjës për vërtetësinë dhe saktësinë profesionale të të dhënave dhe punëve të kryera.
+LIGJI NR. 08/L-025 PËR MBROJTJEN E AJRIT NGA NDOTJA 2. 2.Personi juridik i akredituar duhet të siguroj paanshmërinë e punëtorëve të tij dhe të cilët nuk duhet të jenë të ekspozuar ndaj presioneve të biznesit, financiare dhe të tjera, të cilat mund të ndikojnë në gjykimin e tyre teknik.
