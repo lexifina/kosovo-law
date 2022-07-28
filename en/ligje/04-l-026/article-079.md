@@ -1,4 +1,0 @@
-# Article 79
-Proving the use of an international registration
-1. For the purpose of proving the use of an international registration in the opposition procedure, procedure for the declaration that a trade mark is invalid or revoked, relating to an international registration of a mark, the date of the expiry of a one-year period running from the day following the date of notification communicated by the International Bureau on an international registration designating the Republic of Kosovo, shall be taken as the date of the international trade mark registration.
-2. If upon the expiry of a one-year period referred to in paragraph 1 of this Article, the procedure in respect of an international registration designating the Republic of Kosovo has not yet been concluded the date on which the Office notified the International Bureau its final decision on the grant of protection, shall be taken as the date of the international registration.

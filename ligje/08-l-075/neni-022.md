@@ -1,0 +1,3 @@
+# Neni 22
+Efektet ndaj palëve të treta 1. Dispozitat ligjore të cekura në nenet 17, 18 dhe 21 të këtij ligji zbatohen ndaj palëve të treta vetëm pas regjistrimit në Regjistrin e Markave Tregtare. Dispozitat e cekura në këtë paragraf zbatohen ndaj palëve të treta edhe përpara se marka tregtare të jetë regjistruar në regjistër, nëse dëshmohet se pala e tretë ishte në dijeni të ekzistimit të një drejte të tillë.
+LIGJI NR. 08/L-075 PËR MARKAT TREGTARE 2. Paragrafi 1 i këtij neni nuk zbatohet në rastin kur një subjekti fiton markën tregtare ose të drejtën lidhur me markën tregtare përmes bartjes së tërë subjektit ekonomik apo përmes trashëgimisë.

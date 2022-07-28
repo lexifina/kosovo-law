@@ -1,0 +1,1 @@
+LIGJI NR. 08/L-075 PËR MARKAT TREGTARE LIGJI NR. 08/L-075 PËR MARKAT TREGTARE Kuvendi i Republikës së Kosovës, Në mbështetje të Nenit 65(1) të Kushtetutës së Republikës së Kosovës, Miraton: LIGJ PËR MARKAT TREGTARE

@@ -1,0 +1,4 @@
+# Neni 81
+E drejta e Ndërhyrjes së pronarit të markës regjistruar të mëvonshme me qëllim të mbrojtjes në procedurat e shkeljes 1. Në procedurat e shkeljes, pronari i një marke tregtare nuk ka të drejtë të ndalojë përdorimin markës të regjistruar më vonë, kur kjo markë tregtare e regjistruar më vonë nuk do të shpallet e pavlefshme në zbatim të nenit 15 paragrafi 1 ose 2, dhe nenit 53 dhe 54 të këtij ligji.
+2. Pronari i markës tregtare nuk ka të drejtë të ndalojë përdorimin e markës tregtare të regjistruar më vonë, në pajtim me paragrafin 1 të këtij neni, pronari i kësaj marke tregtare të regjistruar më vonë nuk ka të drejtë të ndalojë përdorimin e markës tregtare të mëhershme në procedurat e shkeljes, edhe pse për atë të drejtë të mëhershme nuk mund të thirrët kundër markës tregtare të mëvonshme.
+LIGJI NR. 08/L-075 PËR MARKAT TREGTARE

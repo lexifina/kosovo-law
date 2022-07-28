@@ -1,0 +1,2 @@
+# Article 63
+Observation by third parties regarding collective or certification marks Any natural or legal person, group or body referred to in Article 33 paragraph 1. of this law may submit to the IPA written observations based on the particular grounds on which the application for a collective or certification mark should be refused under the terms of Article 62 paragraphs 1. and 2. of this Law.

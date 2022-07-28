@@ -1,7 +1,0 @@
-# Article 78
-Procedure for revocation and declaration of invalidity of an international registration
-1. Procedure in respect of a request for revocation or declaration of invalidity of an international registration designating the Republic of Kosovo shall be the same as the procedure in respect of a request for revocation or declaration of invalidity of a national trade mark registration, except that the provisions of paragraphs 2, 3, 4 and 5 of this Article shall apply instead of Article 50 paragraph 3 or Article 54 paragraph 3 of this Law, respectively.
-2. Office shall in accordance with the Madrid Agreement or the Madrid Protocol notify the holder of the international registration that a request for revocation or declaration of invalidity has been filed and shall invite him to appoint the representative who shall within sixty (60) days from the date of receipt of such notification, file with the Office a authorization.
-3. The time limit referred to in paragraph 2 of this Article extended. for sixty (60) days.
-4. After the representative has filed the authorization, the Office shall send him/her a copy of the request for revocation or declaration of invalidity as filed.
-5. The time limit for submitting observation on the request for revocation or declaration of invalidity of an international registration is sixty (60) days from the date of receipt of the copy of the request for revocation or declaration of invalidity by the representative.

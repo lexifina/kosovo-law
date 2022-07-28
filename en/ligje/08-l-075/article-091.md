@@ -1,0 +1,4 @@
+# Article 91
+Submission of authorization 1. A trademark representative that claims to be authorized to represent the holder before the IPA, but does not supply the IPA with the written authorization to support that fact, shall be invited to submit a valid authorization within sixty (60) days from the date of receipt of the invitation, pursuant to Article 7 sub-paragraph 2.5. of this Law.
+2. Upon request of the trademark representative, the time limit may be extended for another two (2) month counted from the expiration date of the time limit referred to in paragraph 1. of this Article.
+3. If the trademark representative does not supply the IPA with an authorization in the prescribed time limit and continues to act in his own name, the actions performed by the trademark representative shall be deemed not to have been taken at all.

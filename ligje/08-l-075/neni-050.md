@@ -1,0 +1,7 @@
+# Neni 50
+Procedura e revokimit 1. API shqyrton nëse kërkesa për revokim është paraqitur në pajtim nenit 49 paragrafi 2 të këtij ligji nëse është paguar taksa e përcaktuar për kërkesë për revokim dhe nëse kërkesa për revokim është paraqitur sipas aktit nënligjor. të nxjerrë nga Ministria.
+2. Kur kërkesa për revokim sipas paragrafi 1, është paraqitur para skadimit të periudhës prej pesë (5) vitesh nga regjistrimi i markës tregtare për të cilën kërkohet revokimi. API refuzon kërkesën për revokim me vendim.
+3. Nëse kërkesat e përcaktuara në paragrafin 1. të këtij neni plotësohen atëherë API i dërgon pronarit të markës tregtare një kopje të kërkesës për revokim ashtu dhe e fton atë që brenda dy (2) muajve nga data e pranimit të ftesës t’i paraqesë vërejtjet e tij mbi kërkesën e paraqitur për revokim.
+4. Me kërkesë të pronarit të markës tregtare, e cila duhet të behët sipas afatit kohor të përcaktuar në paragrafin 3. të këtij neni në të cilën mund të zgjatet edhe për dy (2) muajve nga data e kalimit të atij afati kohor.
+5. Nëse pronari i markës tregtare nuk i paraqet vërejtjet e tij ndaj kërkesës për revokim brenda afatit të përcaktuar kohor, atëherë regjistrimi i markës tregtare revokohet sipas kërkesës së paraqitur për revokim. Nëse API gjate procedurës se shqyrtimit konstaton se kërkesa për revokim është e justifikuar, të drejtat e pronarit të markës tregtare do të shfuqizohen.
+6. Nëse API e sheh të nevojshme ajo mund të organizoj mbajtjen e seancave diskutimi.

@@ -1,0 +1,2 @@
+# Neni 59
+Markë certifikuese Çdo person fizik ose juridik, duke përfshirë institucione, autoritete dhe organe të të tjera publike, mund të aplikojë për markë certifikuese me kusht që personi i tillë të mos ushtrojë një biznes që përfshin furnizimin e mallrave ose shërbimeve për të cilat kërkohet certifikimi. Pronari i një marke tregtare certifikuese ka të drejtë të autorizojë dhe mbikëqyrë përdorimin e markës tregtare nga subjektet që kanë autorizimin për të përdorur një markë certifikuese, në përputhje me rregulloren e përdorimit te markës certifikuese.

@@ -1,0 +1,4 @@
+# Article 12
+Trademarks registered in the name of the trade representative 1. When the trademark is registered in the name of the trade representative without the authorization of the trademark holder, the holder has the right to request the following:
+1.1. object the use of the trademark by the trademark agent or his representative by submitting a claim to the competent court and request the transfer of the trademark on his behalf. When the transfer request has been made in whole or in part by the court and the judgment has become final, the IPA shall ensure that the partial or complete transfer of the trademark is recorded in the Register and published.
+2. Instead of carrying the trademark according to sub-paragraph 1.1 of this Article, the holder may request the declaration of abrogation of this trademark in accordance with Article 52 of this Law.

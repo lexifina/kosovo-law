@@ -1,0 +1,4 @@
+# Article 15
+Exclusion of a declaration of invalidity due to tolerance 1. When the holder of an earlier trademark has tolerated without opposition for an uninterrupted period of five (5) years the use of a trademark later registered in the Republic of Kosovo, being aware of its use, he loses the right to seek on the basis of the earlier trademark to declare the later trademark invalid or oppose the use of the later trademark for the goods or services for which the later trademark was used, unless the registration of the later trademark has been made in bad faith.
+2. Paragraph 1. of this Article shall also apply to the holder of the earlier trademark referred to in Article 7 paragraph 3. of this law.
+3. In the cases referred to in paragraphs 1. and 2. of this Article, the holder of a later trademark shall have no right to object to the use of the earlier trademark, although he can no longer invoke that right against the later trademark.

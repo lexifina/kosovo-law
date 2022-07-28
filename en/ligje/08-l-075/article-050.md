@@ -1,0 +1,7 @@
+# Article 50
+Revocation procedure 1. The IPA shall review whether a request for revocation has been filed pursuant to Article 49 paragraph 2. of this Law, if the fee determined for the request for revocation has been paid and if the request for revocation has been submitted according to the sub-legal act On trademark registration issued by the Minister.
+2. When the request for revocation according to paragraph 1. of this Article is submitted before the expiration of the period of five (5) years from the registration of the trademark for which the revocation is requested, the IPA shall reject the request for revocation by decision.
+3. If the requirements set forth in paragraph 1. of this Article are met, the IPA shall send to the trademark holder a copy of the request for revocation and invites him that within two (2) months from the date of receipt of the invitation submit his observations on the request for revocation.
+4. Upon request of the trademark holder, which shall be made within the time limit as defined in paragraph 3. of this Article, which may be extended also for two (2) months from the date of expiration of that time limit.
+5. If the trademark holder does not submit his oppositions to the request for revocation within the set time limit, then the trademark registration shall be revoked according to the request for revocation. If during the examination procedure the IPA finds that the request for revocation is justified, the rights of the trademark holder shall be invalid.
+6. The IPA may arrange discussion sessions if deemed necessary.

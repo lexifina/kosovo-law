@@ -1,0 +1,9 @@
+# Neni 60
+Dispozita të veçanta për markën kolektive dhe certifikuese 1. Në përjashtim nga neni 6 nën-paragrafi 1.3 të këtij ligji, shenjat apo indikacionet që mund të shërbejnë, në tregti, për të emërtuar prejardhjen gjeografike të mallrave apo shërbimeve mund të regjistrohen si marka kolektive apo certifikuese.
+2. E drejta e një markë kolektive apo certifikuese nuk i jep të drejtë pronarit që ta ndalojë një palë të tretë që në veprimtaritë afariste të përdorë shenja apo indikacione të tilla, me kusht që ai i përdor ato në pajtim me praktikat e ndershme industriale apo tregtare, sidomos ndaj palës së tretë që ka të drejtën ta përdorë treguesi gjeografik.
+3. Kërkesat e përcaktuara në nenin 16 të këtij ligji do të përmbushen, kur përdorimi i një marke kolektive ose certifikuese, në përputhje me nenin 16 të këtij ligji, bëhet nga çdo person që ka autoritetin ta përdorë atë.
+Neni 60
+Dispozita të veçanta për markën kolektive dhe certifikuese 1. Në përjashtim nga neni 6 nën-paragrafi 1.3 të këtij ligji, shenjat apo indikacionet që mund të shërbejnë, në tregti, për të emërtuar prejardhjen gjeografike të mallrave apo shërbimeve mund të regjistrohen si marka kolektive apo certifikuese.
+2. E drejta e një markë kolektive apo certifikuese nuk i jep të drejtë pronarit që ta ndalojë një palë të tretë që në veprimtaritë afariste të përdorë shenja apo indikacione të tilla, me kusht që ai i përdor ato në pajtim me praktikat e ndershme industriale apo tregtare, sidomos ndaj palës së tretë që ka të drejtën ta përdorë treguesi gjeografik.
+3. Kërkesat e përcaktuara në nenin 16 të këtij ligji do të përmbushen, kur përdorimi i një marke kolektive ose certifikuese, në përputhje me nenin 16 të këtij ligji, bëhet nga çdo person që ka autoritetin ta përdorë atë.
+LIGJI NR. 08/L-075 PËR MARKAT TREGTARE

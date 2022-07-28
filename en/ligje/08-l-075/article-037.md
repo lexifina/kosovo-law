@@ -1,0 +1,4 @@
+# Article 37
+Examination of the opposition 1. If the trademark applicant submits the observations regarding the opposition within the set deadline, the IPA shall examine the justifications of the basis stated in the opposition.
+2. If examination of the opposition reveals that the opposition is unjustified, the IPA shall decide to refuse the opposition. The decision refusing the opposition shall be sent to both the opponent and to the applicant and after becoming final, the procedure for registration of the trademark applied for shall be continued.
+3. If it is verified that the trademark may not be registered in respect of all of the goods or services for which the application for registration of a trademark has been made, the application for registration shall be refused only for those goods or services. The decision refusing the application shall be sent to both the opponent and to the applicant.

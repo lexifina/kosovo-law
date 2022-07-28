@@ -1,7 +1,0 @@
-# Neni 28
-E drejta e përparësisë
-1. Nëse aplikuesi për regjistrimin e markës tregtare ka paraqitur kërkesë për regjistrim të markës tregtare në formë të rregullt në Republikën e Kosovës, nga ndonjë shtet që është palë në Konventën e Parisit apo Marrëveshjen për themelimin e Organizatës Botërore të Tregtisë, për të njëjtën markë tregtare me mallrat apo shërbime që janë identike apo që i përmbajnë ato për të cilat është paraqitur aplikimi, ai mundet të thirret në të drejtën e përparësisë së paraqitjes së aplikimit të parë, me kusht që ai të aplikoj për regjistrim të markës tregtare në Republikën e Kosovës brenda gjashtë (6) muajsh nga data e paraqitjes së aplikimit të parë.
-2. Aplikuesi që thirret në të drejtën e përparësisë do të shënojë në aplikimin për regjistrimin e markës tregtare të dhënat përkatëse në aplikimin e parë, shtetin, datën numrin e aplikimit dhe jo më vonë se tre (3) muaj nga data e paraqitjes së aplikimit në Zyrë, do të dorëzojë një kopje autentike të aplikimit të parë.
-3. Nëse aplikuesi nuk i plotëson kushtet nga paragrafi 2. i këtij neni e drejta e përparësisë së kërkuar humbet.
-4. Çdo paraqitje që është e barasvlershme me një paraqitje të rregullt sipas ligjit të shtetit ku është bërë apo sipas marrëveshjeve dypalëshe apo shumëpalëshe njihet si thirrje në të drejtën e përparësisë.
-5. Paraqitje e rregullt nënkupton plotësimin e kushteve të nevojshme për të fituar datën e aplikimit, pavarësisht rezultatit përfundimtar të aplikimit.

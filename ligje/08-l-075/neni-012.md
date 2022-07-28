@@ -1,0 +1,4 @@
+# Neni 12
+Markat tregtare të regjistruara në emër të përfaqësuesit tregtar 1. Kur marka tregtare është regjistruar në emër të përfaqësuesit tregtar pa autorizimin e pronarit te markës tregtare, pronari ka të drejtë të kërkoj si ne vijim:
+1.1. kundërshtojë përdorimin e markës tregtare nga agjenti tregtar ose përfaqësuesi i tij duke paraqitur një kërkesë në gjykatën kompetente dhe te kërkojë bartjen e markës tregtare në emër të tij. Kur kërkesa për bartje është bërë pjesërisht ose plotësisht nga gjykata dhe aktgjykimi është bërë i formës së prerë, API do të sigurojë që bartja e pjesshme ose e plotë e markës tregtare të regjistrohet në Regjistër dhe të publikohet.
+2. Në vend të bartjes të markës tregtare sipas nën-paragrafit 1.1 të këtij neni, pronari mund të kërkojë deklarimin e shfuqizimit së kësaj marke tregtare në përputhje me nenin 52 të këtij Ligji.

@@ -1,7 +1,0 @@
-# Article 17
-Licensing
-1. A trade mark may be licensed for some or all of the goods or services for which it is registered and for the whole or part of the territory of the Republic of Kosovo. A license may be exclusive or non-exclusive.
-2. The trade mark holder may invoke the rights conferred by that trade mark against a licensee who contravenes any provision in his licensing contract with regard to its duration, the form covered by the registration in which the trade mark may be used, the scope of the goods or services for which the license is granted, the territory in which the trade mark may be affixed, or the quality of the goods manufactured or of the services provided by the licensee.
-3. On request of one of the parties the license in respect of a trade mark shall be entered in the trade mark register provided sufficient evidence of the license such as a certified copy of the license agreement, the certified part of that agreement or the original certificate granting the license made in writing and signed by both parties, are submitted to the Office and provided that the fee prescribed for the entry of the license in the trade mark register is paid.
-4. The license of the trade mark shall be published in the official bulletin of the Office.
-5. The license registration request shall be submitted under the requirements and order defined by sub-legal acts, approved by the Minister.

@@ -1,7 +1,0 @@
-# Article 56
-Examination of the observations request for declaration of invalidity
-1. If the trade mark holder submits his observations on the request for declaration of invalidity within the prescribed time limit, the Office based on request shall examine the justification for the declaration of invalidity.
-2. The Office may invite the parties to submit additional evidence, documents and observations within sixty (60) days of the receipt for the invitation. If the parties do not respond to the invitation of the Office in the prescribed time limit, the Office shall make a decision on the basis of the facts contained in the request for declaration of invalidity and in the observation on such request.
-3. If the Office during the examination of the request reveals that the request for declaration of invalidity is unjustified, the Office with a decision shall decide to refuse the request for declaration of invalidity. The decision refusing the request for declaration of invalidity shall be sent to both parties.
-4. If the Office, during the examination of the request, reveals that the trade mark may not be registered in respect of some or all of the goods or services for which was registered, then the trade mark shall be declared invalid in respect of those goods or services. The decision declaring the trade mark invalid shall be sent to both parties.
-5. The decision declaring the trade mark invalid for all or some of the goods or services shall be entered in the Trade Mark Register and published in the official gazette of the Office upon becoming final.

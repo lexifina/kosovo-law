@@ -1,0 +1,3 @@
+# Article 22
+Effects in relation to third parties 1. The legal provisions referred to in Articles 17, 18 and 21 of this Law shall apply to third parties only after registration in the Trademark Register. The provisions mentioned in this paragraph shall apply to third parties even before the trademark has been registered, if it is proved that the third party was aware of the existence of such a right.
+2. Paragraph 1. of this Article shall not apply in the case when an entity acquires the trademark or the right related to the trademark through the transfer of the entire economic entity or through inheritance.

@@ -1,3 +1,0 @@
-# Neni 30
-Në nenin 100 të ligjit bazik, paragrafi 6, referimi i neneve ’’nga 103 dhe 104’’ ndryshohet në ’’102 dhe 103“. LIGJI Nr. 05/L - 040 PËR N RYSHIMIN DHE PLOTËSIMIN E LIGJIT Nr.04/L-026 PËR MARKAT TREGTARE
-LIGJI Nr. 05/L-027 PËR DIXHITALIZIMIN E TRANSMETIMEVE RADIODIFUZIVE TOKËSORE / SHTOJCA

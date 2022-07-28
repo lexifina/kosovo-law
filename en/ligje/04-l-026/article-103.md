@@ -1,8 +1,0 @@
-# Article 103
-Taking of evidence in the course of the civil procedure
-1. Where a party to the civil proceedings invokes evidence claiming that it lies with the other party or under its control, the court shall invite the other party to present such evidence within a specified time limit.
-2. Where the holder of a trade mark as a plaintiff in a legal action claims that the infringement of a trade mark has been committed on a commercial scale for the purpose of acquiring commercial or economic benefit, and has make it likely during the proceedings, and where he invokes in the proceedings banking, financial or similar economic documents, papers or the like evidence, claiming that they lie with the other party or under its control, the court shall invite the opposing party to present such evidence within a specified time limit.
-3. Where the party, which is invited to present evidence, denies that the evidence lies with it or under its control, the court may take evidence to establish such a fact.
-4. The provisions of the Law on Contested Procedures in regard to the rights for refusal to provide the evidence as a witness, shall apply the mutatis mutandis to the party’s rights to refuse their presence as a witness.
-5. The court shall, taking into consideration all the circumstances of the case, decide on the importance of the fact that the party having the evidence refuses to comply with the court’s decision ordering it to present evidence, or denies, contrary to the court’s opinion.
-6. Against the decision of the court referred to in paragraphs 1 and 2 of this Article a separate appeal shall not be allowed.

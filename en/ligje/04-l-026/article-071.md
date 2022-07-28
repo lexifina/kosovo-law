@@ -1,4 +1,0 @@
-# Article 71
-Content of the application for the international registration and the request for recording the changes in the International Register
-1. An application for the international registration and a request for recording a change in the International Register shall be filed as prescribed by the Madrid Agreement, the Madrid Protocol, the Common regulations under the Madrid agreement concerning the international registration of marks and the Protocol relating to that agreement (hereinafter referred to as “the Common Regulations”) and this Law and sub-legal acts under this Law.
-2. The filing of an application for the international registration and a request for recording a change in the International Register shall be subject to payment to the Office of a fee in accordance with sub-legal acts.

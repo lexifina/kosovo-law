@@ -1,0 +1,2 @@
+# Article 59
+Certification mark Any natural or legal person, including institutions, authorities and other public bodies may apply for a certification mark provided that such person does not conduct a business involving the supply of goods or services for which certification is required. The holder of a certification trademark may authorize and supervise the use of the trademark by entities that have the authorization to use a certification mark in accordance with the regulations on the use of the certification mark.

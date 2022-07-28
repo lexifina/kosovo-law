@@ -1,0 +1,4 @@
+# Neni 64
+Ndryshimet në rregulloret që rregullojnë përdorimin markës kolektive ose certifikuese 1. Pronari i një marke kolektive ose certifikuese duhet t’i paraqesë API-së çdo ndryshim ne rregullore që rregullon përdorimin e markës 2. Ndryshimet në rregulloret që rregullojnë përdorimin regjistrohen në Regjistër, përveç nëse rregulloret e ndryshuara nuk plotësojnë kërkesat e nenit 61 të këtij ligji ose përfshijnë një nga arsyet e refuzimit të përmendura në nenin 62 të këtij ligji.
+LIGJI NR. 08/L-075 PËR MARKAT TREGTARE 3. Ndryshimet në rregulloret që rregullojnë përdorimin hyjnë në fuqi vetëm nga data e hyrjes së regjistrimit së atyre ndryshimeve në regjistër.
+4. Ndryshimet në rregulloret që rregullojnë përdorimin kanë ndikim ndaj palëve të treta vetëm nga data e shënimit të ndryshimit në Regjistrin e Markave Tregtare 5. Neni 63 i këtij ligji do të zbatohet për rregulloret e ndryshuara që rregullojnë përdorimin.

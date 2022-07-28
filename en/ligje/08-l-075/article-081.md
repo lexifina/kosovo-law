@@ -1,0 +1,3 @@
+# Article 81
+The right of the trademark holder to intervene later in order to protect himself in the infringement proceedings 1. In infringement proceedings, the holder of a trademark shall not be entitled to prohibit the use of a trademark registered later, when such trademark shall not be declared invalid pursuant to Article 15, paragraph 1. or 2., Article 53 and 54 of this Law.
+2. The holder of a trademark shall not be entitled to prohibit the use of a trademark registered later, in accordance with paragraph 1. of this Article, while the holder of such trademark registered later shall not be entitled to prohibit the use of an earlier trademark in infringement proceedings, although he may not be invoked based on that earlier right against the later trademark.

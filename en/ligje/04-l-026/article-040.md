@@ -1,6 +1,0 @@
-# Article 40
-Registration
-1. Where an application meets the requirements of this Law, in particular where the grounds referred to in Article 6 paragraph 1 of this Law do not constitute the barrier to the registration and where no opposition has been filed within the period referred to in Article 34 paragraph 1 of this Law or, if filed, the opposition has been rejected or refused by a definitive decision, the Office shall invite the applicant to pay the registration fee for the maintenance of the trade mark for the first ten (10) year period within sixty (60) days from the date of the receipt of the invitation.
-2. If the registration fee for the maintenance of the trade mark for the first ten (10) year period is not paid within the period prescribed in paragraph 1 of this Article the application for registration of a trade mark shall be rejected.
-3. If the registration fee for the maintenance of the trade mark for the first ten (10) year period is paid within the period prescribed in paragraph 1 of this Article the trade mark shall be registered and entered into the trade mark register.
-4. After the trademark is registered and entered into trademark register, the data of registered trademark shall be published in the Office official bulletin. The data to be published shall be defined by sub-legal act.
