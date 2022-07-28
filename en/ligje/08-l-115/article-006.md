@@ -1,0 +1,8 @@
+# Article 6
+1. Article 14 of the Basic Law, paragraphs 1., 2. and 4. shall be reworded with the following text:
+1. Tobacco products and substitutes that are imported or produced for release for free circulation in the customs territory of the Republic of Kosovo must have fiscal banderole with the inscription “Republic of Kosovo-Ministry of Finance, Labor and Transfers”, which except the inscription must contain the characteristic markings, security elements as well as the letters and serial number.
+2. Tobacco products and tobacco substitutes, from paragraph 1. of this Article, in which banderoles are wrongly placed or banners are premeditatedly damaged, are considered excise products for which no excise tax has been calculated and paid.
+4. Excise taxpayers on tobacco products and their substitutes must place fiscal banderole in retail packages under the plasticized layer, which is visible and which is damaged when opening the package.
+2. Article 14 of the Basic Law, after paragraph 7., paragraphs 8. and 9. shall be added with the following text:
+8. Notwithstanding paragraph 4. of this Article, in the case of tobacco products which are in special or unusual packaging, the tobacco banderole may be placed directly on the original packaging so that it is visible and not possible to be removed from the packaging without damaging the banderole itself or the packaging.
+LAW NO. 08/L-115 ON AMENDING AND SUPPLEMENTING THE LAW NO. 04/L-021 ON EXCISE ON TOBACCO PRODUCTS 9. Ministry of Finance, Labor and Transfers shall issue a sub-legal act that determines the form, content and manner of placing fiscal banderoles.

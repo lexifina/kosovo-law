@@ -1,0 +1,8 @@
+# Neni 6
+1. Neni 14 i ligjit bazik, paragrafët 1, 2 dhe 4 riformulohen me tekstin si në vijim:
+1. Produktet dhe zëvendësuesit e duhanit që importohen apo prodhohen për lëshim në qarkullim të lirë në territorin doganor të Republikës së Kosovës duhet të kenë të vendosura banderola fiskale më mbishkrim “Republika e Kosovës-Ministria e Financave, Punës dhe Transfereve”, e cila krahas mbishkrimit duhet të përmbajë shenjat karakteristike, elementet e sigurisë, shkronjat dhe numrin e serisë.
+2. Produktet e duhanit dhe zëvendësuesit e duhanit, nga paragrafi 1 i këtij neni, në të cilat banderolat janë vendosur gabimisht apo banderolat janë dëmtuar me paramendim, konsiderohen produkte akcizore për të cilat nuk është llogaritur dhe paguar akciza.
+4. Tatimpaguesit e akcizës ne produktet e duhanit dhe zëvendësuesit e tij duhet ti vendosin banderolat fiskale në pako për shitje me pakicë nën shtresën e plastifikuar, që është e dukshme dhe e cila dëmtohet me rastin e hapjes së pakos.
+LIGJI NR. 08/L-115 PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJIT NR. 04/L-021 PËR AKCIZËN NË PRODUKTET E DUHANIT 2. Neni 14 i ligjit bazik, pas paragrafit 7 shtohen paragrafët 8 dhe 9 me tekstin si në vijim:
+8. Përjashtimisht nga paragrafi 4 i këtij neni, në rastin e produkteve të duhanit të cilat janë në paketim të veçantë ose të pazakontë, banderola e duhanit duhet të vendoset drejtpërdrejt në paketimin origjinal në mënyrë që të jetë e dukshme dhe të mos jetë e mundur të hiqet nga paketimi pa u dëmtuar vetë banderola ose paketimi.
+9. Ministria e Financave, Punës dhe Transfereve nxjerr akt nënligjor që përcakton formën, përmbajtjen dhe mënyrën e vendosjes banderolave fiskale.
