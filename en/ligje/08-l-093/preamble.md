@@ -1,0 +1,6 @@
+LAW NO. 08/L-093 ON AMENDING AND SUPPLEMENTING THE LAW No. 03/L-042 ON PLANT PROTECTION PRODUCTS
+Article 5
+Permit for Persons responsible for Agricultural Pharmacies 1. The natural and legal persons that wish to place PPP in the market must meet the special conditions for facilities, premises, equipment and staff, determining the registration number for entry in the register of entities that can place PPP in the market.
+2. The person responsible for working with PPPs and placing them on the market and for notifying, giving advice, keeping records and selling PPPs must obtain a Permit for the person responsible in agricultural pharmacies from the Ministry.
+3. The Ministry maintains and updates the Register of persons responsible for agricultural pharmacies.
+4. The Ministry with a sub-legal act regulates the issue of determining the conditions that must be meet regarding the provision of a Permit for persons responsible for agricultural pharmacies, special conditions for facilities, premises and equipment for placing on the market of PPP. ON AMENDING AND SUPPLEMENTING THE LAW No. 03/L-042 ON PLANT PROTECTION PRODUCTS The Assembly of the Republic of Kosovo; Based on Article 65 (1) of the Constitution of the Republic of Kosovo, Approves: LAW ON AMENDING AND SUPPLEMENTING THE LAW No. 03/L-042 ON PLANT PROTECTION PRODUCTS
