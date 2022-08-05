@@ -1,8 +1,0 @@
-# Neni 2
-Për qëllime të këtij ligji, shprehjet në tekst janë të definuara si më poshtë:
-Korrupsion - nënkupton çdo shkelje të detyrës së personave zyrtarë ose përgjegjës në subjektet juridike dhe çdo veprimtari e iniciatorëve apo përfituesve të kësaj sjelljeje, e drejtuar si përgjigje ndaj një shpërblimi që drejtpërdrejt ose indirekt është premtuar, ofruar, dhënë, kërkuar, pranuar apo është pritur për t’u marrë për veten apo për një person tjetër. Person zyrtar - nënkupton personin në kuptim të nenit 107 paragrafi 1 të Kodit të përkohshëm Penal të Kosovës.
-Person përgjegjës në entitet juridik - nënkupton personin në kuptim të nenit 107 paragrafi 2 të Kodit të Përkohshëm Penal të Kosovës.
-Personi zyrtar i lartë - nënkupton Presidentin e Kosovës, Kryeministrin, Kryetarin dhe deputetët e Kuvendit, ministrat, sekretarët e qeverisë, sekretarët permanentë, drejtorët e zyrave brenda ministrive gjyqtarët dhe prokurorët si dhe zyrtarët e lartë ndërkombëtarë në kuptim të këtij Ligji.
-Marrëdhënie e afërt - nënkupton marrëdhënien mes dy personave: të cilët janë në vijë të gjakut në vijë të drejtë gjerë në pakufi, në vijë të tërthortë deri në shkallën e katërt dhe në gjini të krushqisë deri në shkallën e dytë.
-2 Vepër serioze e korrupsionit - nënkupton një vepër korruptive ashtu siç përkufizohet nga Kodi Penal i Kosovës, e cila përfshin vlerat mbi 10.000 EURO ose pjesëmarrjen e një zyrtari të lartë publik.
-Përparësi personale - nënkupton arritjen e ndonjë përftimi material ose jo material në formën e së drejtës apo përparësisë që nuk i takon këtij personi si dhe dhënia e kësaj përparësie një pale tjetër.

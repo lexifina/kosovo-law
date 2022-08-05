@@ -1,0 +1,6 @@
+# Neni 20
+Detyrimi për të dërguar informacione dhe dokumente në Agjenci 1. Me kërkesë të Agjencisë, organet qendrore dhe lokale, institucionet e sektorit publik, mbajtësit e autorizimeve publike dhe personat e tjerë juridikë publikë ose privat, duhet t’i paraqesin pa pagesë Agjencisë, brenda tetë (8) ditëve pas kërkesës së tillë, të gjitha të dhënat, përfshirë të dhënat personale dhe dokumentet e kërkuara për kryerjen e detyrave të Agjencisë, në pajtim me dispozitat e ligjeve të tjera.
+2. Nëse autoritetet, personat fizikë dhe juridikë të përmendur në paragrafin 1 të këtij neni nuk i përgjigjen Agjencisë brenda periudhës dhe mënyrës së përmendur në atë paragraf, Agjencia e informon organin që mbikëqyr punën e atyre autoriteteve dhe personave për marrjen e masave, dhe mund të paraqesë raport të posaçëm në Kuvendin e Kosovës.
+3. Në rast se autoritetet vazhdojnë të refuzojnë ofrimin e informacioneve dhe dokumentacionit të kërkuar, agjencia shqipton masë në pajtim me nenin 23 të këtij ligji.
+4. Në rast se autoritetet vazhdojnë të refuzojnë ofrimin e informacioneve dhe dokumentacionit të kërkuar, Agjencia e njofton Prokurorin e Shtetit ose në raste të caktuara njofton Policinë.
+5. Dokumentacionin e kërkuar nga Agjencia, institucionet tjera obligohen t’ju ofrojnë pa pagese, përveç nëse shprehimisht parashihet ndryshe me ligj.

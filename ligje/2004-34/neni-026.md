@@ -1,3 +1,0 @@
-# Neni 26
-26.1. Personi zyrtar profesionist nuk duhet të ushtrojë funksione administrative, mbikëqyrëse, apo përfaqësimi në shoqëritë tregtare, firma, institucione, kooperativa, fonde apo agjensione.
-7 26.2. Si përjashtim nga paragrafi 1 i këtij neni, personi zyrtar profesionist mund si përfaqësues i organit të tij, të jetë anëtar bordi i një institucioni apo agjensioni publik, apo anëtar i bordit mbikëqyrës së një ndërmarrjeje publike, fondi publik apo shoqërie komerciale ku autoriteti qendror apo lokal është mbajtësi i aksioneve apo i të drejtave të tjera në bazë të të cilave merr pjesë në menaxhim apo kapital.

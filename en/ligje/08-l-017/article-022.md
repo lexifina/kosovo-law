@@ -1,0 +1,5 @@
+# Article 22
+Conclusion of administrative investigation 1. The administrative investigation under Article 17 of this law, defined according to the competencies of the Agency, shall be concluded within a period of six (6) months from the moment the administrative investigation begins. Exceptionally, in special cases the Director of the Agency may permit extension of deadline for maximum of one (1) month.
+2. The extension of the deadline for conclusion of the administrative investigation under paragraph 1. of this Article shall be reasoned in writing by the director and the reasoning shall be part of the case file.
+3. Upon conclusion of the administrative investigation, the Agency shall issue a decision on closure of the case and shall impose measures or sanctions within the scope of the Agency.
+4. The Agency is responsible for notifying the prosecution or relevant institutions of the actions taken by the Agency as a result of the case referred and returned pursuant to Article 18 of this law.

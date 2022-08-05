@@ -1,4 +1,0 @@
-# Neni 29
-29.1. Nëse pas zgjedhjes, emërimit, ose konfirmimit të mandatit, personi zyrtar vazhdon të kryejë një aktivitet apo funksion që ky Ligj e përcakton si të papajtueshëm me funksionin e ri, Agjensioni nxjerr një paralajmërim për personin zyrtar dhe vendos një afat sipas të cilit atij do t’ju kërkohet të ndërpresin aktivitetin apo të heqin dorë nga posti. Afati i caktuar nga Agjensioni nuk mund të jetë më i shkurtër se 15 ditë apo më i gjatë se 3 muaj.
-29.2. Në rast se personi zyrtar i referuar në paragrafin paraprak vazhdon kryerjen e aktiviteteve apo funksioneve të papajtueshme pavarësisht nga paralajmërimi i Agjensionit, Agjensioni propozon fillimin e procedurës për shkarkimin nga detyra nga organi kompetent.
-29.3. Nëse organi kompetent konstaton që personi zyrtar vazhdon të kryejë një aktivitet apo funksion të papajtueshëm, ai fillon procedurën për shkarkimin nga funksioni. Organi kompetent duhet të informojë Agjensionin për vendimin e saj final.
