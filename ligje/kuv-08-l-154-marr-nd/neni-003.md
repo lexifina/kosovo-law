@@ -1,0 +1,2 @@
+# Neni 3
+Hyrja në fuqi Ky ligj hyn në fuqi ditën e publikimit në Gazetën Zyrtare të Republikës së Kosovës. Ligji Nr. 08/L-154 21 korrik 2022 Shpallur me dekretin Nr. DL-259/2022, datë 08.08.2022 nga Presidentja e Republikës së Kosovës Vjosa Osmani-Sadriu _____________________________ *Tabelat e Ligjit nr. 08/L-154 “Për Ratifikimin e Marrëveshjes së Bashkëfinancimit për Studimin e Fizibilitetit dhe Projekt- Idesë për Lidhjen Hekurudhore Durrës -Prishtinë” bashkangjitur me ligj janë publikuar në web faqen e Gazetës Zyrtare (gzk.rks-gov.net )

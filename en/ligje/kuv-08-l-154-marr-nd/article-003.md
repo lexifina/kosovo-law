@@ -1,0 +1,2 @@
+# Article 3
+Entry into force This law shall enter into force on the day of publication in the Official Gazette of the Republic of Kosovo. Law No. 08/L-154 21 July 2022 Promulgated by Decree No. DL-259/2022 dated 08.08.2022 President of the Republic of Kosovo Vjosa Osmani-Sadriu __________________________________ *Annex of the Law No. 08/L-154, “On Ratification of the Co-Financing Agreement on the Feasibility Study and the Project-Idea for the Railway Connection Durrës - Prishtina” attached to the law is published in the website of the Official Gazette (gzk.rks-gov.net)
