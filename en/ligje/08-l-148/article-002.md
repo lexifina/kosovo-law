@@ -1,0 +1,2 @@
+# Article 2
+Ratification of the Agreement “Financial Framework Partnership Agreement between the Republic of Kosovo and the European Commission on specific arrangements for implementation of union financial assistance to Kosovo under the Instrument for Pre-Accession Assistance (IPA III)” shall be considered ratified upon the entry into force of this law. The agreement and its annexes are an integral part of this law.

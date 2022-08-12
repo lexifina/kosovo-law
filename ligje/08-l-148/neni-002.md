@@ -1,0 +1,2 @@
+# Neni 2
+Ratifikimi i marrëveshjes “Marrëveshja e Partneritetit për Kornizën Financiare ndërmjet Republikës së Kosovës dhe Komisionit Evropian për marrëveshjet për zbatimin e Ndihmës Financiare të Unionit për Kosovën në kuadër të Instrumentit të Para-anëtarësimit (IPA III)”, konsiderohet e ratifikuar me hyrjen në fuqi të këtij ligji. Marrëveshja dhe shtojcat e saj janë pjesë integrale të këtij ligji.
