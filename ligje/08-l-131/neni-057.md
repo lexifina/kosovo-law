@@ -1,0 +1,4 @@
+# Neni 57
+Kontrollimi mjekësor i zyrtareve korrektues 1. Kontrollimi mjekësor për zyrtaret korrektues kryhet njëherë gjatë tri (3) viteve nga organi kompetent mjekësor i cili vërteton aftësitë psiko-fizike dhe shëndetësore, ndërsa sipas nevojës me propozimit të drejtorit të IK zyrtari mund të dërgohet për kontrolle mjekësore edhe në periudhat më të shkurta kohore për të cilën vendosë drejtori i përgjithshëm.
+2. Nëse te i punësuari nga paragrafi 1. i këtij neni paraqiten ndryshime psikike, apo në gjendjen e përgjithshme shëndetësore e cila e bënë të paaftë për kryerjen e atyre punëve udhëzohet në organin kompetent për vlerësimin e aftësisë punuese në pajtim me ligjin me të cilin përcaktohen të drejtat nga sigurimi pensional dhe invalidor.
+3. Në qoftë se organi kompetent përcakton ekzistimin e aftësisë profesionale të mbetur, i punësuari sistemohet në punë të tjera në pajtim me mundësitë e shërbimit korrektues, apo i mundësohet rikualifikimi.

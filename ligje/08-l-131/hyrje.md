@@ -1,0 +1,1 @@
+LIGJI NR. 08/L-131 PËR SHËRBIMIN KORREKTUES TË KOSOVËS LIGJI NR. 08/L-131 PËR SHËRBIMIN KORREKTUES TË KOSOVËS Kuvendi i Republikës së Kosovës, Në mbështetje të Nenit 65(1) të Kushtetutës së Republikës së Kosovës, Miraton: LIGJ PËR SHËRBIMIN KORREKTUES TË KOSOVËS

@@ -1,0 +1,6 @@
+# Article 64
+Work publicity 1. The Minister and the Director General of KCS, directly or through persons authorized by them, shall inform the public about the execution of penal sanctions, about the work and processes in KCS, provided that the official secret is not violated and the security is not endangered in the correctional institution.
+2. All information regarding convicted persons and detained persons is confidential, not disclosed and are not made known to the public or the media.
+3. Notwithstanding paragraph 2. of this Article, the Minister or the Director General may disclose confidential information to the media or other public information groups provided that the provision of such information is in accordance with the general public interest.
+4. Convicted persons may not be interviewed by the media or other persons without their prior consent and without the permission of the Director General. 5.The provisions of the Juvenile Justice Code apply to juveniles. 6.The Director General, according to the concluded agreement, allows access to documents of organizations which deal with the protection of human rights.
+7. The provisions of this Article do not affect the powers of the Ombudsperson or other institutions authorized according to the Laws in force.

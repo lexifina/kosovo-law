@@ -1,0 +1,2 @@
+# Article 33
+Obligation to Avoid Conflict of Interest The KCS staff should not allow their private interests to conflict with their public position, to avoid performing private or public duties that conflict with their position and that may create a conflict of interest. KCS staff act in accordance with the provisions of this Law and the legislation in force for the prevention of conflict of interest.

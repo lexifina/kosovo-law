@@ -1,0 +1,4 @@
+# Neni 63
+Vizitat e personave apo grupeve në institucionet korrektuese 1. Drejtori i Përgjithshëm në bazë të kërkesës lejon vizitat e personave, grupeve të interesuara, përfaqësuesve të institucioneve vendore dhe të huaja, si dhe të shoqatave të cilat merren me mbrojtjen e drejtave njerëzore, të punëtorëve shkencor të cilët merren me hulumtimin e kriminalitetit, përfaqësuesve të mjeteve të informimit si dhe të studentëve të fakulteteve përkatëse në institucionet korrektuese.
+LIGJI NR. 08/L-131 PËR SHËRBIMIN KORREKTUES TË KOSOVËS 2. Dispozitat e paragrafit 1. të këtij neni nuk zbatohen në raport me përfaqësuesit e organeve shtetërore kur kryejnë punët nga kompetenca e tyre.
+3. Personave të cilët vizitojnë institucionin korrektues, Drejtori i Përgjithshëm mund të lejojë bisedë me personat e dënuar, apo me personat e caktuar të dënuar, me prezencën apo pa prezencën personit zyrtar. Ky paragraf nuk cenon autorizimet e Avokatit të Popullit.

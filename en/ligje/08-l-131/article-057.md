@@ -1,0 +1,4 @@
+# Article 57
+Medical Examination of Correctional Officers 1. The medical examination for correctional officers is performed once in three (3) years by the competent medical body which confirms the psycho-physical and health capabilities, while as needed, on the proposal of the director of the CI, the officer can be sent for medical examinations even in shorter periods for which the Director General decides.
+2. If the employee under paragraph 1. of this Article manifests mental changes, or in the general state of health which made him incapable of performing those tasks, he is instructed by the competent body for the assessment of working ability in accordance with the Law by which the rights to pension and disability insurance are determined.
+3. If the competent body determines the existence of the remaining professional ability, the employee is systemized in other jobs in accordance with the possibilities of the Correctional Service, or is re-qualified.

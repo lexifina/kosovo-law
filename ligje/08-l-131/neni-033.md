@@ -1,0 +1,2 @@
+# Neni 33
+Detyrimi për shmangien nga konflikti i interesit Personeli i SHKK-së duhet të mos lejojë që interesat e tyre private të bien ndesh me pozitën e tyre publike, të shmangin kryerjen e detyrave private ose publike, që bien ndesh me pozitën e tyre dhe që mund të krijojnë konflikt interesi. Personeli i SHKK-së veprojnë në pajtim me dispozitat e këtij ligji dhe legjislacionit në fuqi për parandalimin e konfliktit të interesit.

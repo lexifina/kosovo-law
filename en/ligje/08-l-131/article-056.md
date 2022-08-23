@@ -1,0 +1,6 @@
+# Article 56
+Transfer of Correctional Officers 1. A Correctional Officer may be transferred from one Correctional Institution to another as:
+1.1. Temporary transfer;
+1.2. Permanent transfer. 2.Temporary transfer is done by decision of the Director General for the needs of Correctional Institutions or at the request of the correctional officer for up to six (6) months within two (2) years. 3.The permanent transfer is done at the request of the correctional officer and the recommendation of the director of the institution and by decision of the Director General.
+4. Permanent transfer is also done in cases of internal reorganization of work or closure of a correctional institution. 5.The correctional officer upon his request can be transferred to the position of civil servant if he meets the criteria set for the position, with the recommendation of the Director of the CI and the approval of the Director General. 6.The civil servant in KCS, upon his request, may be transferred to the position of correctional officer in the equivalent rank provided that he has completed the training for correctional officer.
+LAW NO. 08/L-131 ON KOSOVO CORRECTIONAL SERVICE 7. When the transfer of KCS correctional staff is made at the request of the correctional facility, the institution shall cover the transportation costs.
