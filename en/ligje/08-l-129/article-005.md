@@ -1,0 +1,11 @@
+# Article 5
+Principles 1. Public officials of the Kosovo Probation Service exercise their duties based on the principles of:
+1.1. Legality- KPS exercises all duties and responsibilities based on the legislation into force and applicable international instruments in the area of human rights;
+1.2. Effectiveness and efficiency - public officials of KPS have to ensure the application of laws, rules and administrative and safety procedures for the fulfilment of the objectives of KPS;
+1.3. Equality and non-discrimination - there is not allowed any direct or indirect discrimination based on race, colour, gender, language, religion, political or other convictions, national or social background, affiliation with any community, property, economic and social standing, sexual orientation, in compliance with the legislation on protection from discrimination;
+1.4. Transparency - KPS provides an open access for the citizens and other stakeholders regarding its work;
+1.5. Communication - is conducted in an understandable language if a person does not speak or understand the official language and in a manner appropriate for the persons with disabilities, in line with standards and legislation into force through the most suitable methods;
+1.6. Respect for private life of the person under supervision and his family- public officials shall, during their work, be guided by the highest ethical standards, integrity, merit and professionalism. Officials shall, during their work, ensure the preservation of the dignity and integrity of the person under supervision and his family;
+1.7. Protection of data - information created and administered due to the function shall be ensured in compliance with the legislation into force on the protection of personal data;
+LAW NO. 08/L -129 ON KOSOVO PROBATION SERVICE 1.8. Avoidance of conflict of interest - public officials of KPS shall be obliged to avoid any conflict between their private interest and public interest in the exercise of their duties pursuant to the Law;
+1.9. Accountability – public officials of KPS shall be obliged to be accountable regarding the exercise of their authorizations during the exercise of the duties and accountabilities of the work in compliance with the relevant legislation into force.

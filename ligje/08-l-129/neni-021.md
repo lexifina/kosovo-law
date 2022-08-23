@@ -1,0 +1,2 @@
+# Neni 21
+Detyrimi për shmangien nga konflikti i interesit Zyrtarët Publik të SHSK-së nuk lejojnë që interesat e tyre private të bien ndesh me pozitën e tyre publike, të shmangin kryerjen e detyrave private ose publike, që bien ndesh me pozitën e tyre dhe që mund të krijojnë konflikt interesi. Zyrtarët Publik të SHSK-së veprojnë në pajtim me dispozitat e këtij ligji dhe legjislacionin në fuqi për parandalimin e konfliktit të interesit.

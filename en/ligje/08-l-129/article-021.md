@@ -1,0 +1,2 @@
+# Article 21
+Obligation to avoid conflict of interest Public Officials of KPS shall not allow their private interests to conflict with their public position, shall avoid performing private or public duties that conflict with their position and that may create a conflict of interest. Public Officials of KPS shall act in accordance with the provisions of this law and the legislation in force for the prevention of conflict of interest.
