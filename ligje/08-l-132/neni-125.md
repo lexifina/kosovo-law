@@ -1,0 +1,3 @@
+# Neni 125
+Pajisja me fletë lëshim 1. Pas lirimit nga institucionit korrektues, personi i dënuar pajiset me fletë lëshim i cili mes tjerash përmban të dhënat personale të personit të dënuar, datën e pranimit në institucionin korrektues, datën e lëshimit dhe sipas nevojës, datën kur personi i dënuar duhet të paraqitet në stacionin policor. Personi i dënuar i cili është liruar me kusht pajiset me fletë lëshim që përmban obligimin për moskryerjen e ndonjë vepre të re penale dhe afatin e caktuar kohor të lirimit të tij me kusht.
+2. Drejtori i Institucionit Korrektues nxjerr Fletë lëshim i cili shërben si dëshmi për përfundimin e dënimit.

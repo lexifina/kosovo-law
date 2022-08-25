@@ -1,4 +1,0 @@
-# Article 168
-1. If the convicted person is in possession of a driver’s license, the police shall execute this accessory punishment by summoning the convicted person and confiscating the driver’s license for the duration of the punishment.
-2. If the convicted person is not in possession of a driver’s license, this accessory punishment shall be executed by recording the punishment in the register of the administrative body which is competent for issuing drivers’ licenses. The competent body shall register the data on the convicted person, the imposed accessory punishment and its duration.
-3. The execution of this accessory punishment commences on the date of the confiscation of the driver’s license or of the recording of the punishment in the register of the competent body which is competent for issuing drivers licenses.

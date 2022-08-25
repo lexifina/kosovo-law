@@ -1,0 +1,6 @@
+# Article 170
+Transfer of the person to whom the measure of compulsory psychiatric treatment at liberty with custody in a health care institution has been imposed 1. If the person to whom the measure of compulsory psychiatric treatment with custody has been imposed is at liberty, the court shall order his transfer to the health care institution, or shall order the issuance of a warrant, but if the person is in detention, the staff of Kosovo correctional service shall accompany him to the health care institution.
+2. The person to whom this measure is imposed, is transferred to the health care institution accompanied by health care employees.
+3. The person against whom this measure is executed has the same rights and obligations as a person serving a prison sentence, unless the needs of treatment require otherwise.
+4. Upon the proposal of the health care institution where this measure is executed, for the duration of the measure the court may decide on the transfer of the person from one health care institution to another.
+5. The court which imposed the measure in the first instance shall monitor the legality of its execution. The public body competent for health shall monitor the professional treatment ability, which is provided during the execution of the measure.

@@ -1,7 +1,0 @@
-# Neni 107
-Procedura disiplinore
-1. Në rastet e shkeljeve të rënda disiplinore, drejtori i institucionit korrektues zbaton procedura disiplinore dhe merr vendime lidhur me to. Në rastet e shkeljeve të lehta disiplinore, mbikëqyrësi i lartë në institucionin korrektues zbaton procedurat disiplinore dhe merr vendime lidhur me to.
-2. Procedurat disiplinore mbahen në seancë dëgjimi në të cilën dëgjohet personi i dënuar dhe verifikohet deklarata e tij. Personit të dënuar i cili nuk ka njohuri të mjaftueshme të gjuhës së përdorur në procedurë disiplinore i sigurohet përkthyesi. Atij i mundësohet që me arsye të thërret dëshmitarë, t’u parashtrojë pyetje dëshmitarëve, të paraqesë prova, të shqyrtojë provat materiale dhe dokumentet, si dhe të paraqesë parashtresa duke përfshirë edhe parashtresat lidhur me dënimin disiplinor.
-3. Para shqiptimit të dënimit disiplinor merret parasysh sjellja dhe puna e kryer nga personi i dënuar.
-4. Dënimi disiplinor i vetmisë nuk mund të fillojë të ekzekutohet para sigurimit të konstatimit mjekësor me shkrim me të cilin vërtetohet se personi i dënuar është në gjendje të aftë fizike dhe psikike për qëndrim në dhomën e vetmisë gjatë periudhës së caktuar kohore.
-5. Vendimi i arsyetuar mbi dënimin disiplinor përpilohet me shkrim dhe i dërgohet personit të dënuar.

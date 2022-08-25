@@ -1,0 +1,6 @@
+# Article 137
+Report on the revocation of the alternative punishment 1. When the court accepts the report of the Probation Service, which contains data on the violation of the conditions of the alternative punishment, or the non-fulfilment of any obligation, the court shall examine the possibility of revoking the alternative punishment and notify the convicted person about the content of the report by giving him the right to respond to the report. The convicted person is informed that he / she has the right to hire a lawyer at his/her own expense.
+2. During the review period of the revocation of the alternative punishment, its execution is suspended.
+3. After the court reviews the report of the probation service and the answers received from the convicted person, or his defence counsel, it decides whether to revoke the alternative punishment, or take further action in accordance with the Criminal Code of Kosovo.
+4. The court makes a reasoned decision in writing within thirty (30) days after receiving the report from the probation service. This decision is sent to the convicted person, his defence counsel, the probation service and the state prosecutor.
+5. The convicted person may appeal against the decision within eight (8) days of its receipt.

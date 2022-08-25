@@ -1,0 +1,6 @@
+# Article 193
+Supervision of human rights 1. Supervision regarding the protection and status of human rights and the conditions, in which criminal sanctions and other measures imposed in criminal proceedings are executed, is performed by the official for prisoner’s rights in the Ministry’s office of human rights.
+2. The officer for prisoners’ rights shall oversee the protection and status of human rights and the conditions under which criminal sanctions and other measures imposed in criminal proceedings are executed in correctional facilities independently, or in cooperation with competent inspectors, or with international institutions, or other institutions which are competent for the monitoring and
+LAW NO. 08/L-132 ON THE EXECUTION OF CRIMINAL SANCTIONS realization of human rights and fundamental freedoms, in accordance with the Law and relevant international documents.
+3. The officer for prisoners’ rights is independent in his work, and the competent bodies and institutions are obliged to provide all relevant information for his work.
+4. The officer for prisoners’ rights shall report his work to the head of the office of human rights at the Ministry of Justice and to the Secretary General.

@@ -1,3 +1,0 @@
-# Neni 18
-Neni 122 i Ligjit, paragrafi 2 riformulohet me tekstin si në vijim:
-2. Paneli për lirim me kusht përbëhet prej tre (3) anëtarëve: një (1) gjyqtar i Gjykatës Supreme, i deleguar nga Kryetari i Gjykatës Supreme; një (1) gjyqtar i Gjykatës së Apelit i deleguar nga Kryetari i Gjykatës së Apelit dhe një (1) gjyqtar i Gjykatës Themelore në Prishtinë, i deleguar nga Kryetari i Gjykatës Themelore. Në rastet kur me ligj parashihet përjashtimi i anëtarit të panelit në një çështje të caktuar apo zëvendësimi në mungesë të ndonjë anëtari tjetër udhëheqësit e këtyre institucione delegojnë një person tjetër.

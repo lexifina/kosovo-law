@@ -1,0 +1,7 @@
+# Article 175
+Measure of treatment 1. The health institution shall immediately notify the court that imposed the measure in the first instance, when the person against whom the measure was imposed has not been subjected to treatment at liberty, if he has arbitrarily terminated the treatment, or if it considers that the treatment has been unsuccessful.
+2. Ex officio, or on the proposal of the health institution in which the person is treated, or should be treated, the court may prescribe compulsory psychiatric treatment with custody if:
+2.1. the perpetrator has not been subjected to treatment at liberty, has terminated treatment arbitrarily, or when the treatment has been deemed unsuccessful by the health care institution;
+2.2. there are reasons for imposing such a measure.
+3. The decision to impose the measure of compulsory psychiatric treatment with custody is taken after hearing the state prosecutor, defense counsel and the person against whom the measure has been imposed, if his condition allows and after reviewing the opinion of the independent expert, who is not employed in the health care institution where the measure is executed.
+4. After the person no longer needs treatment in the health institution, the competent custodial body is responsible for providing help to the person against whom the measure was executed after the termination of compulsory treatment at liberty.

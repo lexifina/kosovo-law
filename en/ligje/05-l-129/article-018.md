@@ -1,3 +1,0 @@
-# Article 18
-Article 122 of the Law, paragraph 2 shall be reworded with the following text:
-2. The parole panel is comprised of three (3) members: one (1) judge from Supreme Court delegated by the President of the Supreme Court; one (1) judge from the Court of Appeals, delegated by the President of the Court of Appeals, and one (1) judge from the Basic Court in Prishtina, delegated by the President of the Basic Court. On cases where with the Law there is foreseen exclusion of the panel member in certain matter or replacement in absence of another member, the heads of these institutions shall delegate another person.

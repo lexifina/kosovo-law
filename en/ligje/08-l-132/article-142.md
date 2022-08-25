@@ -1,0 +1,3 @@
+# Article 142
+The manner of execution of the conditional sentence with an order for supervision by the probation service 1. When the court imposes a suspended punishment, with an order for supervision by the probation service, according to the provisions of the Criminal Code of Kosovo, it shall immediately send the judgment and all the data in its possession to the probation service competent for the execution of this alternative punishment.
+2. If the convicted person is held in detention on remand, the court shall also send the judgment to the relevant correctional facility where he is being held. The director of the respective correctional facility shall release the convicted person by decision in order to execute this alternative punishment.

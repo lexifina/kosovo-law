@@ -1,0 +1,2 @@
+# Article 166
+Deciding on the expulsion of foreign nationals When the court decides on the expulsion of a foreign citizen from the territory of Kosovo, according to the provisions of the Criminal Code of Kosovo, it shall immediately send the judgment and all the data in its possession to the police station in the territory where the convicted person has his residence for execution of this accessory punishment.

@@ -1,0 +1,2 @@
+# Article 192
+Supervision of health, hygiene and safety conditions If in the supervision procedure by the competent body it is confirmed that the Correctional Institution does not meet the foreseen health and hygienic conditions or if the safety is inherently endangered, the Minister may issue a decision on the temporary cessation of the work of the Correctional Institution and apply the transfer of convicted persons or persons in detention on remand to another correctional institution.

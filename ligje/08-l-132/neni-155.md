@@ -1,0 +1,3 @@
+# Neni 155
+Mënyra e ekzekutimit të ndalimit të ushtrimit të funksioneve në administratën publike, ose në shërbimin publik 1. Kur gjykata vendos që kryerësit t’ia ndalojë ushtrimin e funksioneve në administratën publike, ose në shërbimin publik, sipas dispozitave të Kodit Penal të Kosovës, menjëherë ia dërgon aktgjykimin dhe të gjitha të dhënat që i posedon Ministrisë përkatëse së Administratës Publike për ekzekutim të këtij dënimi plotësues.
+2. Nëse personi i dënuar nuk i përmbahet ndalesës së ushtrimit të funksioneve në administratën publike, ose në shërbimin publik, Ministria përkatëse e Administratës Publike e njofton gjykatën për mosrespektimin e ndalesës.

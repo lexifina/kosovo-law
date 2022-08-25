@@ -1,0 +1,12 @@
+# Article 20
+Postponement of execution of imprisonment 1. The execution of the imprisonment sentence may be postponed at the request of the convicted person or his representative:
+LAW NO. 08/L-132 ON THE EXECUTION OF CRIMINAL SANCTIONS 1.1. until the illness is cured, if the convicted person suffers from a serious acute illness;
+1.2. no later than the end of the third year of the child’s life, if the convicted female person has completed the sixth month of pregnancy;
+1.3. no later than three (3) months from the date of commencement of the postponement of execution, if the spouse, child, adopted child, parent, or adoptive parent of the convicted person has died, or suffers from any serious illness;
+1.4. no later than six (6) months from the date of commencement of the postponement of execution, if the wife of the convicted person will give birth in three (3) months, or if less than six (6) months passed from the day she gave birth and has no other family member to help her;
+1.5. no later than six (6) months from the date of commencement of the postponement of execution, if the husband, or any other family member of the convicted person is summoned with the convicted person to serve the sentence of imprisonment, or, if any of them is already in prison;
+1.6. no later than three (3) months from the day of the commencement of the postponement of execution, if the postponement is requested by the convicted person for performing agricultural or seasonal work that cannot be postponed, or for work as a result of a natural disaster and family of the convicted person does not have proper labour force, as well as when the convicted person is obliged to perform the work already started and its non-performance would cause considerable harm;
+1.7. no later than six (6) months from the date of commencement of the postponement of execution, if the convicted person requests a postponement to complete schooling, or to take the exam he/she has prepared.
+2. The day when the decision for postponement of execution is taken is considered the day of the beginning of the postponement of execution.
+3. The convicted person may request the postponement of the sentence at most twice for any of the reasons provided by this article.
+4. The execution of the sentence cannot be postponed, if the execution of the sentence, or part of the sentence will become impossible due to the statute of limitations

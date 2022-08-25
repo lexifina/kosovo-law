@@ -1,6 +1,0 @@
-# Neni 224
-1.Vërtetimi i aftësive shëndetësore dhe psikofizike të punësuarve si zyrtar korrektues të cilët punojnë në punët e sigurimit kryhet njëherë gjatë dy (2) viteve, ndërsa sipas nevojës së paraparë mund të dërgohen edhe në periudhat më të shkurta kohore, për çka vendosë drejtori i përgjithshëm.
-2. Vërtetimi i aftësive shëndetësore të punësuarve të cilët punojnë në punët e tjera për të cilat stazhi i punës llogaritet në kohëzgajtje të rritur, kryhet një herë në tre vjet, ndërsa sipas nevojës së paraqitur mund të dërgohen edhe në periudhat kohore më të shkurta, për çka vendosë drejtori i institucionit korrektues.
-3. Nëse te i punësuari nga paragrafi 1. dhe 2. i këtij neni paraqiten ndryshime psikike, apo në gjendjen e përgjithshme shëndetësore e cila e bënë të paaftë për kryerjen e atyre punëve udhëzohet në organin kompetent për vlerësimin e aftësisë punuese në pajtim me ligjin me të cilin përcaktohen të drejtat nga sigurimi pensional dhe invalidor.
-4. Në qoftë se organi kompetent përcakton ekzistimin e aftësisë profesionale të mbetur, i punësuari sistemohet në punë të tjera në pajtim me mundësitë e Shërbimit Korrektues, apo i mundësohet rikualifikimi. Nëse nuk ekziston mundësia e sistemimit në punë tjera të punësuarit i pushon marrëdhënia e punës.
-5. Vendimin për pushimin e marrëdhënies së punës e nxjerrë Drejtori i Përgjithshëm.

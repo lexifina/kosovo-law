@@ -1,0 +1,4 @@
+# Article 140
+The manner of execution of the conditional punishment with an order for compulsory rehabilitation treatment 1. The conditional release with an order for compulsory rehabilitation treatment is executed in the health care institution or in any other relevant institution.
+2. When the court imposes a suspended punishment with an order for compulsory rehabilitation treatment, it shall immediately send the judgment and all the information in its possession to the competent probation service and the competent health care institution, or the relevant institution for the execution of this punishment.
+3. If the convicted person is held in detention on remand, the court shall also send the decision to the detention facility where he is being held. The director of the detention facility shall release the convicted person in order for this alternative punishment to be executed.

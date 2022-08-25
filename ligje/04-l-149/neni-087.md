@@ -1,7 +1,0 @@
-# Neni 87
-Informimi
-1. Personi i dënuar ka të drejtë të ketë qasje në shtypin ditor dhe atë periodik në gjuhën e tij amtare dhe në burime të tjera të informimit publik.
-2. Personi i dënuar ka të drejtë të ketë qasje në programet e radios dhe të televizionit. Gjatë zgjedhjes së programeve merret parasysh parapëlqimi i personave të dënuar, si dhe nevojat e tyre arsimore dhe rekreative.
-3. Të gjitha institucionet korrektuese pajisen me bibliotekë për t’u shfrytëzuar nga personat e dënuar. Biblioteka përmban libra (duke përfshirë tekste bazike mbi të drejtat e njeriut dhe ligjet penale), revista dhe gazeta në gjuhën amtare që personave të dënuar u mundësojnë alternativa të shumta.
-4. Librat, revistat dhe gazetat në bibliotekë zgjidhen në atë mënyrë për të përmirësuar nivelin e njohurive të personave të dënuar, për të zhvilluar aftësitë e tyre për qëndrim kritik ndaj ngjarjeve ditore, si dhe për t’u ofruar rekreacion.
-5. Personi i dënuar ka të drejtë të lexojë libra nga biblioteka e institucionit korrektues dhe libra të siguruara nga ai. Shërbimi Korrektues mund të kufizoj qasjen në literaturë e cila është e rrezikshme për sigurinë e ambienteve të institucionit korrektues, apo për sigurinë e ndonjë personi, e cila inkurajon urrejtjen, apo dhunën përmban materiale pornografike, apo të cilat në çfarëdo mënyre ndikojnë në paraqitjen e çrregullimeve apo formave të ndryshme të kriminalitetit.

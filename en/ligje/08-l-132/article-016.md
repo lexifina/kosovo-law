@@ -1,0 +1,2 @@
+# Article 16
+The competent court for sending the person to serve the sentence when the residence of the convicted person is unknown When the place of residence and domicile of the convicted person are not known, the basic court that rendered the decision on sending the convicted person to serve the imprisonment or life imprisonment shall be the competent court, and if such decision was rendered by the court of appeals, then the basic court which is located in the jurisdiction of the court of appeals shall be the competent court.

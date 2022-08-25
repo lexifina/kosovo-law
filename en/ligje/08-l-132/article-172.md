@@ -1,0 +1,6 @@
+# Article 172
+Providing assistance after release from health care 1. After the person is released from the health institution, the competent custodial body is responsible for the person against whom the measure has been executed in providing assistance after release from the health institution.
+2. If the perpetrator who has committed a criminal offense in a state of reduced mental capacity is released from the health institution, and if he has spent less time in the health institution than the duration of the specified imprisonment, the court shall consider conditional release for that person.
+3. When deciding on conditional release, the court shall particularly take into account the success of the treatment of the convicted person, his health condition, the time spent in the health institution and the remaining time of the sentence.
+4. If the court decides on conditional release, it may also impose a measure of compulsory psychiatric treatment at liberty, if there are grounds for imposing such a measure.
+5. If the court decides that the convicted person will serve the remainder of the prison sentence, the Kosovo Correctional Service staff shall refer him or her to the correctional facility.

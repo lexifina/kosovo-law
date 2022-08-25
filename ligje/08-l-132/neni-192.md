@@ -1,0 +1,2 @@
+# Neni 192
+Mbikëqyrja e kushteve shëndetësore, higjenike dhe sigurisë Në qoftë se në procedurën e mbikëqyrjes nga organi përkatës kompetent vërtetohet se Institucioni korrektues nuk i plotëson kushtet e parapara shëndetësore dhe higjienike apo nëse qenësisht është rrezikuar siguria, Ministri mund të nxjerr vendim për ndërprerjen e përkohshme të punës së Institucionit korrektues dhe të zbatojë transferimin të personave të dënuar apo të personave në paraburgim në institucion tjetër korrektues.

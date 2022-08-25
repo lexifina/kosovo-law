@@ -1,7 +1,0 @@
-# Article 47
-Medical examinations and visits
-1. A medical officer shall see and examine every convicted person after admission and thereafter, as necessary, in order to identify possible physical or mental diseases and to take all measures necessary for medical treatment.
-2. Health care is provided during service of sentence of imprisonment or life imprisonment by periodic and frequent examinations, regardless of whether a request is made by the convicted person.
-3. A medical officer shall visit daily all sick persons, persons who report illness or injury and persons to whom attention is specially directed. The medical officer shall report immediately the presence of illness requiring particular investigation and specialist care.
-4. When a convicted person exhibits behavior indicating that he or she may attempt to harm him or herself or to commit suicide, staff shall take all the necessary measures to prevent self-injury or suicide. If a convicted person attempts to harm him or herself or to commit suicide, a professional multidisciplinary team shall initiate the action necessary to assist him or her to address whatever is causing him or her to be inclined to attempt such action.
-5. A convicted person suspected or diagnosed as suffering from an infectious or contagious disease shall be immediately treated. When a mental disorder or an emotional disturbance is suspected, appropriate measures shall be taken without delay, in accordance with the applicable law and rules concerning psychiatric assistance and mental health.

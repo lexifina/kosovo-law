@@ -1,0 +1,5 @@
+# Article 52
+Child custody by the female convicted person 1. A convicted woman who has a child may retain it until she is eighteen (18) months of age and then the child’s parents decide whether custody of the child is entrusted to the father, relatives, or other persons.
+2. If the parents do not agree on the custody of the child, or if their agreement is harmful to the child, the court which is competent according to the place of residence or stay of the mother at the time of the sentence decides who the child is entrusted to.
+3. When a decision is made under paragraph 2 of this Article, the court shall first of all take into account the best interests of the child, including the protection and safety of the child, as well as his or her physical and mental well-being.
+4. When the child is kept in a correctional facility with his/her mother, special measures are taken to provide a child room with qualified persons in which the child is placed when he/she is not in the care of his/her mother.

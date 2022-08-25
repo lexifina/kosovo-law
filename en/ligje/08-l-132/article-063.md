@@ -1,0 +1,4 @@
+# Article 63
+Visit of the foreign citizen by the diplomatic or consular representative 1. A foreign national has the right to be visited by the diplomatic representative, or consul of the state of which he is a citizen, or of the state which protects his interests. A foreign citizen who
+LAW NO. 08/L-132 ON THE EXECUTION OF CRIMINAL SANCTIONS is not under the protection of any state has the right to be visited by the competent bodies and organizations of Kosovo and by the competent international organizations.
+2. The consular or diplomatic representative of the foreign state and the representative of the competent international organization is obliged to inform the director of the correctional facility of the visit he will make to the prisoners in accordance with the international legal acts applicable in Kosovo.

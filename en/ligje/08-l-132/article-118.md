@@ -1,0 +1,6 @@
+# Article 118
+Execution of the decision of panel for conditional release 1. The ruling on conditional release shall be served on the convicted person within three (3) days from the day the ruling was rendered, and shall also be recorded in the court that imposed the sentence.
+2. The decision of the conditional release panel together with the file of the convicted person conditionally released must be submitted to the probation service within three (3) days after receiving the decision on conditional release.
+3. The ruling granting conditional release includes, inter alia, the date on which the convicted person will be released from serving the sentence.
+4. If conditional release is not allowed, the ruling shall include, inter alia, the date on which the conditional release panel may review the convicted person’s request for conditional release. The date for review may not be shorter than three (3) months and not longer than twelve (12) months.
+5. If the convicted person is imposed the disciplinary punishment of solitary confinement between the date of rendering the ruling on conditional release and the date of conditional release from serving the sentence, the Conditional Release Panel shall review the ruling.

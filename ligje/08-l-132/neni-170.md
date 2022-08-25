@@ -1,0 +1,6 @@
+# Neni 170
+Transferimi i personit të cilit i është shqiptuar masa e trajtimit të detyrueshëm psikiatrik në liri me ndalim në institucionin e kujdesit shëndetësor 1. Nëse personi ndaj të cilit është caktuar masa e trajtimit të detyrueshëm psikiatrik, me ndalim ndodhet në liri, gjykata urdhëron transferimin e tij në institucionin e kujdesit shëndetësor, ose urdhëron lëshimin e letër rreshtimit, por nëse personi ndodhet në paraburgim, personeli i Shërbimit Korrektues të Kosovës e përcjell në institucionin e kujdesit shëndetësor.
+2. Personi ndaj të cilit është caktuar kjo masë, transferohet në institucionin e kujdesit shëndetësor i shoqëruar nga punëtorët e kujdesit shëndetësor.
+LIGJI NR. 08/L-132 PËR EKZEKUTIMIN E SANKSIONEVE PENALE 3. Personi ndaj të cilit ekzekutohet kjo masë ka të drejta dhe detyrime të njëjta sikurse person i cili mban dënimin me burgim, nëse nevojat e trajtimit nuk kërkojnë ndryshe.
+4. Me propozimin e institucionit të kujdesit shëndetësor ku ekzekutohet kjo masë, gjykata gjatë kohëzgjatjes së masës, mund të vendosë për transferimin e personit nga një institucion i kujdesit shëndetësor në tjetrin.
+5. Gjykata e cila ka caktuar masën në shkallë të parë monitoron ligjshmërinë e ekzekutimit të saj. Organi publik kompetent për shëndetësi monitoron aftësinë profesionale të trajtimit, i cili ofrohet gjatë ekzekutimit të masës.

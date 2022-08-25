@@ -1,0 +1,6 @@
+# Article 148
+Supervision of the performance of community service work 1. When the court imposes the punishment with an order for community service work and orders the convicted person to contact the probation service, or to fulfil one or more obligations according to the provisions of the Criminal Code of Kosovo, the probation service shall supervise the keeping of contact, or the fulfilment of the obligation.
+2. If the convicted person does not keep in touch with the probation service, or does not fulfil the obligation ordered by the court, the probation service shall notify the court after verifying the facts and reasons for not keeping of contact, or not fulfilling the obligation.
+3 The administration bodies at central and local level, institutions and other legal entities, as well
+LAW NO. 08/L-132 ON THE EXECUTION OF CRIMINAL SANCTIONS as natural persons are obliged to cooperate with the probation service and regional probation offices in the execution of the punishment with an order for community service work.
+4. The Minister shall conclude cooperation agreements on the execution of the punishment for community service work from paragraph 3 of this Article. Mutual rights and obligations are defined by cooperation agreements.

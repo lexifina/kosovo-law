@@ -1,3 +1,0 @@
-# Neni 226
-1. Zyrtari korrektues i punësuar në institucionin korrektues, përveç drejtorit dhe zëvendës drejtorit të institucionit korrektues dhe të udhëheqësve të njësive organizative të institucionit, mundet me pëlqimin e Drejtorit të Përgjithshëm të sistemohet në insitucionin korrektues në punët të tjera, për të cilat i plotëson kushtet e parapara me Rregulloren për organizimin dhe sistematizimin e vendeve të punës, nëse atë e urdhëron organizimi i ri, apo racionalizimi i punëve apo nevoja e punëve.
-2. Kundër vendimit nga paragrafi paraprak mund të ushtrohet ankesë Ministrit në afat prej tetë (8) ditësh nga data e pranimit të vendimit.

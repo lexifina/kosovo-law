@@ -1,0 +1,4 @@
+# Article 155
+The manner of execution of the prohibition of exercising functions in the public administration, or in the public service 1. When the court decides to prohibit the perpetrator from exercising functions in the public
+LAW NO. 08/L-132 ON THE EXECUTION OF CRIMINAL SANCTIONS administration, or in the public service, according to the provisions of the Criminal Code of Kosovo, it shall immediately send the judgment and all the data it possesses to the respective Ministry of Public Administration for the execution of this accessory punishment.
+2. If the convicted person does not comply with the prohibition on exercising functions in the public administration, or in the public service, the respective Ministry of Public Administration shall notify the court of non-compliance with the prohibition.

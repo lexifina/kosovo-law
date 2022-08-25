@@ -1,7 +1,0 @@
-# Article 209
-Types of correctional facilities
-1. According to the level of security and the nature of the treatment of the convicted persons correctional facilities may be of the confined, semi-confined and open type.
-2. In confined correctional facilities, there are elements of physical and material security such as armed guards, surrounding walls or surrounding wires, technical devices and other security measures which constitute impediments to the escape of convicted persons. Within confined correctional facilities is High security prison for the execution of sentences against persons who are qualified as highly dangerous persons, detaining highly dangerous persons and those who are sentenced with life imprisonment
-3. In semi-confined correctional facilities, there are no elements of physical security in the form of the supervision of the movement and work of the convicted persons, but there are elements of material security which would constitute impediments to the escape of convicted persons.
-4. In open correctional facilities there are no elements of material nor physical security which would constitute impediments to the escape of convicted persons. Conduct towards the convicted persons is based on their self-discipline and personal responsibility and the correctional staff supervises the movement and work of the convicted persons.
-5. At least one-third (1/3) of life imprisonment shall be served in correctional facilities of the confined type.

@@ -1,0 +1,2 @@
+# Article 5
+Purpose of execution of criminal sanctions The execution of criminal sanctions aims at the re-socialization and reintegration of the convicted person into society and his preparation for life, as well as for responsible behaviour. Execution of criminal sanctions also serves to protect society by preventing the commission of other criminal offenses and restraining others from committing criminal offenses.

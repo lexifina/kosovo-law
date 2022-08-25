@@ -1,7 +1,0 @@
-# Article 180
-1. The institution of health institution immediately informs the court that has rendered the measure at the first instance, when the person whom the measure was executed has not undergone the treatment while in freedom, in case he has arbitrarily discontinued the treatment or if he considers the treatment was unsuccessful.
-2. The court, as per this official duty or upon proposal of the health care institution, in which the person is being treated or should be treated, can order the measure of the mandatory psychiatric treatment in detention if:
-2.1. the carrier of the of the criminal offence had not undergone the treatment in freedom, has discontinued his her treatment arbitrarily or when the treatment was considered as unsuccessful by the health care institution; and
-2.2. if there are reasons for the rendering of such a measure.
-3. The decision for the rendering of the measure of mandatory psychiatric treatment in detention is taken after having heard the public prosecutor, the defense attorney and the person whom the measure was executed if his health conditions allow this and after the evaluation of the opinion of an independent expert, that is not employed at the health care institution where the measure is executed.
-4. Since the person does not need any more treatment at the institute of health, the competent organ for custody is responsible for the person towards whom the measure is executed for giving help after the discontinuation of the mandatory treatment in freedom.

@@ -1,0 +1,4 @@
+# Article 163
+Execution procedure for seizing a driving license 1. If the convicted person possesses a driving license, the police shall execute this accessory punishment by summoning the convicted person and seizing the driving license for the duration of the punishment.
+2. If the convicted person does not possess a driving license, this accessory punishment is executed by registering the punishment in the register of the administrative body competent for issuing the driving license. The competent body shall record the data of the convicted person, the accessory punishment imposed and its duration.
+3. The execution of this accessory punishment begins on the day of seizure of the driving license, or the registration of the punishment in the register of the body competent for issuing the driving license.

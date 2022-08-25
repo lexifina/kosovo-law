@@ -1,3 +1,0 @@
-# Article 187
-1. If the sentenced person with imprisonment due to minor offences was summoned in a regular manner and does not appear at the correctional institution, the competent court for minor offences shall order his escorting, and if he is hiding or at large, the court shall order the issuing of an arrest order.
-2. In cases as foreseen under paragraph 1. of this Article the commencement of the execution of the imprisonment sentence due to minor offences shall be calculated from the day when the sentenced person was apprehended whereas the transportation fees shall be covered by the sentenced person.

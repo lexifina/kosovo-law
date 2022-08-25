@@ -1,0 +1,3 @@
+# Article 179
+Conditions for persons in detention on remand 1. Detainees in the relevant correctional facility are held under the same conditions as convicted persons in connection with accommodation, food, health care, use of coercive measures, special measures to maintain order and security, and compensation for damage caused during the time of the application of the detention measure.
+2. In the event of the need to secure the detainee while outside the correctional facility on any grounds, the security is performed by Kosovo Correctional Service - KCS, in special cases in cooperation with the Kosovo Police.

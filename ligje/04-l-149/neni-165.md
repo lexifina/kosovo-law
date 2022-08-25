@@ -1,5 +1,0 @@
-# Neni 165
-Pavlefshmëria e lejes së vozitjes
-1. Organi kompetent i autorizuar për dhënien e lejeve të vozitjes këtë dënim e ekzekuton me thirrjen e personit të dënuar dhe shënimin në lejen e vozitjes së tij si të pavlefshme gjatë kohës së ekzekutimit të këtij dënimi plotësues për llojin dhe kategorinë e caktuar të automjetit.
-2. Nëse personi i dënuar nuk ka leje të vozitjes, ose ka leje të dhënë nga organi kompetent i shtetit të huaj, ky dënim plotësues ekzekutohet me regjistrimin e dënimit në regjistrin e organit kompetent për dhënien e lejeve të vozitjes. Organi publik kompetent regjistron të dhënat e personit të dënuar, dënimin e shqiptuar plotësues dhe kohëzgjatjen e tij.
-3. Pas përfundimit të dënimit plotësues, personi i dënuar mund të kërkojë dhënien e lejes së re të vozitjes nga organi kompetent.

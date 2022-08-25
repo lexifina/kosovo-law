@@ -1,0 +1,5 @@
+# Article 174
+Reporting to the health care institution 1. The health institution shall send to the court that has imposed the measure in the first instance a report on the health condition and success of the treatment of the person against whom the measure was executed, at least once in six (6) months, and more often at the request of court.
+2. When the health institution deems that it is no longer necessary to treat the person against whom the measure has been imposed, it shall immediately inform the court which has imposed the measure in the first instance.
+3. The court which has imposed the measure in the first instance, ex officio, or upon the proposal of the defendant, the defense counsel, the health institution, or the competent custodial body, shall terminate the measure if it finds that it is no longer necessary to treat the person against whom such measure was imposed.
+4. The decision to terminate the measure is taken after hearing the state prosecutor, defense counsel and the person against whom the measure has been imposed, if his condition allows and after reviewing the opinion of the expert.

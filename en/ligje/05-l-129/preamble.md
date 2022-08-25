@@ -1,8 +1,0 @@
-LAW No. 05/L –129
-ON AMENDING AND SUPPLEMENTING THE LAW No. 04/L-149 ON THE EXECUTION OF
-PENAL SANCTIONS
-Assembly of the Republic of Kosovo,
-Based on Article 65 (1) of the Constitution of the Republic of Kosovo
-Approves
-LAW ON AMENDING AND SUPPLEMENTING THE LAW No. 04/L-149 ON THE
-EXECUTION OF PENAL SANCTIONS

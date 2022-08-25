@@ -1,3 +1,0 @@
-# Neni 247
-1. Në qoftë se në procedurën e mbikëqyrjes vërtetohet se Institucioni korrektues nuk i plotëson kushtet e parapara shëndetësore dhe higjienike apo nëse qenësisht është rrezikuar siguria, Ministri mund të nxjerr vendim për ndërprerjen e përkohshme të punës së Institucionit korrektues dhe të zbatojë transferimin të përsonave të dënuar apo të personave në paraburgim në institucion tjetër korrektues.
-2. Nëse në Institucionin korrektues është prishë siguria, Ministri mund të shkarkojë nga detyra drejtorin e Institucionit korrektues dhe përkohësisht të caktojë personin tjetër i cili do të kryej punët e drejtorit të Institucionit korrektues.

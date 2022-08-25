@@ -1,7 +1,0 @@
-# Article 107
-Disciplinary procedure
-1. In cases of serious disciplinary violations, the director of the correctional institution conducts disciplinary procedures and renders decisions on them. In cases of minor disciplinary violations, a senior supervisor at the correctional institution conducts disciplinary procedures and renders decisions on them.
-2. Disciplinary procedures shall be conducted at a hearing at which the convicted person shall be heard and his or her statements shall be verified. A convicted person who does not have an adequate understanding of the language used in the disciplinary procedures is entitled to the assistance of an interpreter. He or she shall be given a reasonable opportunity to summon witnesses, question witnesses, introduce evidence, examine exhibits and documents and make submissions, including submissions respecting the disciplinary punishment.
-3. Before a disciplinary punishment is imposed, the behavior and work performance of the convicted person shall be assessed.
-4. The disciplinary punishment of solitary confinement cannot be executed before a written medical opinion is obtained which states that the convicted person is in a physical and psychological condition and capable to endure a period of time of solitary confinement in the room in which solitary confinement is executed.
-5. A reasoned decision on a disciplinary punishment shall be set out in writing and delivered to the convicted person.

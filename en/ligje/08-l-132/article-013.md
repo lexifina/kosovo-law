@@ -1,0 +1,7 @@
+# Article 13
+Placement of convicted persons in correctional facilities 1. Convicted persons are placed in correctional facilities in accordance with the individual risk assessment, taking into account the duration of the sentence, age, gender, health status and other characteristic features of the convicted persons. If possible, convicted persons are placed in a correctional facility close to his / her permanent residence.
+2. After the evaluation and classification by the respective unit, the General Director or his authorized person through a decision shall determine the placement of the convicted person in the CI where the execution of the sentence will be applied.
+3. When placing a convicted person, the possibility of implementing joint re-socialization programs should also be considered, as well as the need to avoid negative impacts.
+4. Male and female convicted persons are placed separately. Pregnant women, women giving birth and mothers caring for their children are placed separately from other convicted women.
+5. Adults are not placed in a correctional facility, or in a part of a juvenile correctional facility, exceptionally adults may be placed in a separate part of the juvenile correctional institution who perform work of a specific nature or heavy work for the needs of the Institution, which juveniles are not allowed to perform.
+6. Convicted persons are not placed in the same part of the institution as detained persons. Persons convicted for the first time are not placed in the same room as convicted recidivists.

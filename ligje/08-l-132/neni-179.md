@@ -1,0 +1,3 @@
+# Neni 179
+Kushtet për personat në paraburgim 1. Të paraburgosurit në institucionin korrektues përkatës qëndrojnë nën kushtet e njëjta sikurse edhe personat e dënuar lidhur me vendosjen, ushqimit, mbrojtjes shëndetësore, përdorimit të masave të dhunës, të masave të veçanta për mbajtjen e rendit dhe sigurisë, dhe kompensimit për dëmin e shkaktuar gjatë kohës së zbatimit të masës së paraburgimit.
+LIGJI NR. 08/L-132 PËR EKZEKUTIMIN E SANKSIONEVE PENALE 2. Në rast nevoje të ruajtjes të paraburgosurit gjatë kohës së qëndrimit jashtë institucionit korrektues sipas cilësdo bazë, sigurinë e kryen Shërbimi Korrektues i Kosovës- SHKK, në raste të veçanta në bashkëpunim me Policinë e Kosovës.

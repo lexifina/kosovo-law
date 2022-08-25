@@ -1,0 +1,4 @@
+# Article 159
+Execution of prohibition of driving the vehicle 1. When the court decides to prohibit the perpetrator from driving, according to the provisions of the Criminal Code of Kosovo, it shall immediately send the judgment and all the data it possesses to the competent body for issuing driving licenses in the territory where the convicted person resides, for the execution of this accessory punishment.
+2. If the residence of the convicted person is not known, the competent body authorized to issue driving licenses in the territory where the convicted person resides shall execute this accessory punishment.
+3. If the convicted person has no place of residence in Kosovo, the judgment shall be sent to the competent body authorized to issue driving licenses in the territory where the criminal offense was committed.

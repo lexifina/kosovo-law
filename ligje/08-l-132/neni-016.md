@@ -1,0 +1,2 @@
+# Neni 16
+Gjykata kompetente për dërgimin e personit në mbajtje dënimi kur nuk dihet vendqëndrimi i personit të dënuar Kur vendqëndrimi dhe vendbanimi i personit të dënuar nuk dihen, kompetente për dërgimin e personit të dënuar për mbajtjen e dënimit me burgim, ose me burgim të përjetshëm është gjykata themelore që ka marrë vendim në shkallë të parë dhe nëse këtë vendim e ka marrë Gjykata e Apelit, atëherë kompetente është gjykata themelore e cila gjendet në selinë e Gjykatës së Apelit.

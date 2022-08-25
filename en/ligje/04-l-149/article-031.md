@@ -1,6 +1,0 @@
-# Article 31
-Receiving a convicted person at correctional facility
-1. When a convicted person is admitted to a correctional facility, his or her identity and the grounds and authority for his or her imprisonment or life imprisonment shall first be established and then he or she shall undergo a medical examination within twenty four (24) hours of arrival or on the first working day after arrival. The name of the convicted person, the grounds and authority for his or her imprisonment or life imprisonment and the date and time of his or her arrival at the correctional facility, control and medical report shall be recorded in a register.
-2. On the occasion of admission to a correctional facility, the convicted person shall be informed in written about the rights and obligations entitled to during the service of sentence. An illiterate convicted person shall be given this information orally.
-3. The text of the present Law and the secondary legislation on domestic order within correctional facilities shall be available in the languages of convicted persons, while serving the sentence, in compliance with the Law on the Use of Official Languages.
-4. The procedures under paragraphs 1, 2 and 3 of the present Article shall not, be carried out in the presence of other convicted persons. The convicted person shall be photographed.

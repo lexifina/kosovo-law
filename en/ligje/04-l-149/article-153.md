@@ -1,6 +1,0 @@
-# Article 153
-Community Service performance supervision
-1. When the court imposes a sentence with an order for community service work and orders the convicted person to maintain contact with the Probation Service or to perform one or more of the obligations provided for in accordance with the Provisional Criminal Code, the Probation Service shall supervise the maintenance of contact or the performance of the obligation.
-2. If a convicted person fails to maintain contact with the Probation Service or to perform an obligation ordered by the court, the Probation Service shall inform the court after verifying facts and the reasons for the failure to maintain contact or to perform the obligation.
-3. Central and local level administration bodies, institutions and other legal persons as well as natural persons are obliged to cooperate with the Probation Service and the Regional Probation Offices in the execution of sentences ordering community service work.
-4. The Minister shall conclude cooperation agreements with regard to the execution of sentences ordering community service work from paragraph 3. of the present Article. The cooperation agreements shall set out mutual rights and obligations.

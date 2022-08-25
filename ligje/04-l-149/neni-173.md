@@ -1,6 +1,0 @@
-# Neni 173
-Programi i trajtimit të rehabilitimit
-1. Institucioni shëndetësor, institucioni korrektues, apo institucioni përkatës, në bashkëpunim me shërbimin sprovues cakton programin e trajtimit të rehabilitimit për personin që i nënshtrohet masës së trajtimit të rehabilitimit të detyrueshëm. Shërbimi sprovues mbikëqyrë nëse personi vepron në përputhje me programin e trajtimit rehabilitues, në bashkëpunim me institucionin shëndetësor, institucionin korrektues, apo institucionin përkatës.
-2. Shërbimi sprovues i dërgon çdo dy (2) muaj raport gjykatës për përparimin e arritur në programin e trajtimit rehabilitues bazuar në informatat e siguruara nga institucioni shëndetësor, i institucionit korrektues, apo i institucionit tjetër përkatës.
-3. Institucioni shëndetësor, institucioni korrektues, apo institucioni përkatës menjëherë e informojnë shërbimin sprovues nëse personi i dënuar nuk i përmbahet programit të trajtimit rehabilitues. Mos përmbushja e programit të trajtimit rehabilitues nga personi i dënuar vlerësohet nga shërbimi sprovues dhe i raportohet gjykatës.
-4. Përfundimi i suksesshëm i programit të trajtimit rehabilitues i raportohet gjykatës nga shërbimi sprovues. Pas marrjes së raportit të tillë gjykata merr vendim me të cilin vërtetohet mbajtja e masës së tillë.

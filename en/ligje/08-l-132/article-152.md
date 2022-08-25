@@ -1,0 +1,3 @@
+# Article 152
+The manner of execution of punishment in semi-liberty 1. When the court imposes the sentence of imprisonment and orders the execution of the sentence in semi-liberty, it shall immediately send the judgment and all the information in its possession to the competent probation service and the correctional facility for the execution of this alternative punishment.
+2. The General Director of the Correctional Service determines the correctional facility where the order for semi-liberty will be executed, taking into account the place of work, or other obligations and responsibilities of the convicted person and other acting factors.

@@ -1,0 +1,3 @@
+# Article 146
+The manner of execution of the punishment with an order for community service work 1. When the court imposes the punishment with the order for community service work, according to the provisions of the Criminal Code of Kosovo, it immediately sends the judgment with all the data in its possession to the probation service competent for the execution of this alternative punishment.
+2. If the convicted person is detained, the court also sends the decision to the detention facility where he is being held. The director of the relevant correctional facility shall release the convicted person in order for this alternative punishment to be executed.

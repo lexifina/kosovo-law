@@ -1,0 +1,4 @@
+# Article 147
+Program of community service work 1. The Probation Service shall develop the program for community service work for the convicted person in accordance with the provisions of the Criminal Code of Kosovo and based on his abilities, skills and background.
+2. The probation service shall oversee the execution of the punishment with the order of community service work.
+3. The probation service, in coordination with the organization where the community service work will be performed, shall establish the security rules for cases of injury in the workplace or illness, general conduct in the workplace and other relevant issues before starting the community service work. The sub-legal act on working hours, vacations, weekly vacations and protection at the workplace are applied during community service work.

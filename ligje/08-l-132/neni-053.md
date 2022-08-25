@@ -1,0 +1,4 @@
+# Neni 53
+Rrethanat dhe nevojat e posaçme për risocializimin në ambientet korrektuese 1. Risocializimi në ambientet korrektuese merr parasysh rrethanat dhe nevojat e posaçme të secilit person që kanë të bëjnë me risocializimin e tij. Për caktimin e të gjitha rrethanave dhe faktorëve të rëndësishëm për planifikimin e riedukimit të personit në institucionin korrektues dhe riintegrimin e tij shoqëror pas lirimit, vrojtimi i personalitetit bëhet në fillim të ekzekutimit të dënimit dhe vazhdon gjatë tërë kohës së dënimit.
+LIGJI NR. 08/L-132 PËR EKZEKUTIMIN E SANKSIONEVE PENALE 2. Gjatë ekzekutimit të dënimit, programi riedukues përfshihet, ose ndryshohet për t’iu përshtatur përparimit të arritur dhe rrethanave të tjera përkatëse. Për përmbushjen e këtij qëllimi hartohet plan i përshtatshëm kohor për realizimin e këtij programi.
+3. Personi i dënuar inkurajohet që të bashkëpunojë në realizimin e programeve dhe aktiviteteve risocializuese në institucion.

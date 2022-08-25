@@ -1,0 +1,4 @@
+# Article 153
+Supervision of the convicted person in semi-liberty 1. The director of the correctional facility shall supervise the convicted person during his imprisonment, while the competent probation service shall supervise him during his semi-liberty.
+2. If the convicted person does not return to the correctional facility after performing his or her duties, the director of the correctional facility shall notify the court after verifying the facts and reasons for not returning to the correctional facility.
+3. If the convicted person does not fulfil his / her obligations related to work, education, qualification or vocational training, family responsibilities, or the need for treatment or medical rehabilitation, the probation service notifies the court after verifying the facts and reasons for non-fulfilment of such obligations.
