@@ -1,0 +1,1 @@
+LAW NO. 08/L-114 ON POPULATION AND HOUSING CENSUS LAW NO. 08/L-114 ON POPULATION AND HOUSING CENSUS The Assembly of the Republic of Kosovo; Based on Articles 65 (1) of the Constitution of the Republic of Kosovo, Adopts: LAW ON POPULATION AND HOUSING CENSUS
