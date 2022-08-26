@@ -1,0 +1,3 @@
+# Neni 9
+Ruajtja e fshehtësisë 1. Komisioneri gjatë ushtrimit të mandatit të tij është i detyruar të ruaj fshehtësinë lidhur me të informacionin që i janë bërë të njohura gjatë punës të tij, në pajtim me Legjislacionin për informacionin e klasifikuar. 2.Komisioneri edhe pas përfundimit të mandatit, është i detyruar të ruaj fshehtësinë lidhur me të informacionin që i janë bërë të njohura gjatë mandatit të tij, në pajtim me Legjislacionin për informacionin e klasifikuar.
+3. Kjo nuk vlen për korrespondencën zyrtare, apo çështjet që përgjithësisht janë të njohura për publikun, apo, ato çështje, të cilat sipas rëndësisë së tyre, është e qartë se nuk kërkohet të klasifikohen sipas nivelit të sigurisë.

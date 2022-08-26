@@ -1,0 +1,8 @@
+# Article 15
+Proposal procedure 1. The proposal procedure starts with public vacancy announcement for the election of the Commissioner which shall be published in written and electronic media.
+2. In the competition shall be set the conditions for the election of the Commissioner, provided by this law. The deadline of the competition cannot be shorter than fifteen (15) days nor longer than twenty (20) days.
+3. After the expiration of the deadline provided for in paragraph 3. of this Article, the selection panel, appointed by the functional committee of the Assembly of the Republic of Kosovo, within a period of fifteen (15) days shall evaluate whether the candidates fulfil the conditions to be elected as a commissioner.
+4. The selection panel shall conduct the interview with each candidate, who fulfils the conditions to be elected commissioner and based on the data presented and on the results of the interview, prepares the short list of the qualified candidates for voting by the Assembly of Kosovo.
+LAW NO. 08/L-133 ON THE PARLIAMENTARY COMMISSIONER FOR THE SECURITY FORCE 5. The short list contains three (3) candidates, except in the case where within the number of three (3), there are more candidates with the equal evaluation points. The selection panel shall submit the list of candidates to the Committee, which proposes the short list to the Assembly of Kosovo. The proposal of the Committee contains reasoning why the panel gave priority to some of the candidates compared to other candidates.
+6. After the expiration of the mandate, the commissioner exercises his function until the election of a new commissioner.
+7. The election process of a commissioner begins six (6) months before the end of the mandate of a current commissioner.
