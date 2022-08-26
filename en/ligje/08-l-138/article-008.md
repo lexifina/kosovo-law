@@ -1,0 +1,15 @@
+# Article 8
+3OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / No. 27 / 25 AUGUST 2022, PRISTINA
+Article 8
+Fees and Charges 1. The Registered Financial Institution will pay KCGF a Guarantee Fee at the time the Credit is put under a Credit Guarantee by the KCGF and annually thereafter on the outstanding principal balance of the guaranteed loan.
+2. In addition to the guarantee fee according to paragraph 1. of this Article, which constitutes the basic fee applied by the KCGF for Registered Financial Institutions, the KCGF may also apply the following fees for the services provided:
+2.1. Commitment fee;
+2.2. Maintenance fee;
+2.3. Fee at the level of the guaranteed portfolio.
+3. Commitment fee and maintenance fee are complementary fees that can be applied together with the guarantee fee, while the portfolio guarantee level fee can be applied as a complementary fee together with the guarantee fee or in particular as a replacement of the guarantee fee.
+4. The percentage and methodology of calculation of the tariffs applied by KCGF will be specified in the Guarantee Agreements. The level of fees applied by the KCGF should cover the overall operation costs and eventual loan losses of the KCGF, calculated throughout its portfolio to enable the stability of the KCGF. Any surpluses of fees collected above the operational costs and eventual loan losses will be retained in the KCGF for purposes of increasing the sustainability of the KCGF.
+5. The level of the guarantee fee will be led by the following principles:
+5.1. functioning, management and administration is led by the principle of rationality, efficiency and effectiveness of administrative and other costs, by ensuring the sustainability of the KCGF; and 5.2. KCGF will undertake necessary measures that the level of the fee will not impact the level of interest rates related to the financing of the loans of MSMEs or farmers with Farm Identification Number in a need.
+6. KCGF will periodically assess the levels of the fees and calculation methodology in relation to its overall operational and budgetary sustainability and risk assessments and adjust them accordingly to cover its operational costs and loan losses. Registered Financial Institutions are responsible for their own credit analysis and risk assessment of loans to be covered by the KCGG Credit Guarantee.
+7. The fees charged to Registered Financial Institutions are not interest.
+8. In exceptional circumstances when there is a need for emergency support of the economy of Kosovo or when it is considered necessary for further support of a certain sector or economic activity, KCGF with the prior approval of the Board of Directors may enter into an agreement with the Government of the Republic of Kosovo, one or more donors or international financial institutions for the purpose of subsidizing/paying one or more fees applicable to registered financial institutions for one or more guarantee windows. The amount of applicable fee or fees to be subsidies/paid is determined by the KCGF according to the principles set out in this Article.
