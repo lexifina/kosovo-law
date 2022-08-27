@@ -1,0 +1,4 @@
+# Neni 23
+Pavlefshmëria e të dhënave dhe masat përjashtuese 1. Të dhënat të cilat nuk i përmbushin kriteret e cilësisë konsiderohen si të dhëna të pavlefshme.
+LIGJI NR. 08/L-103 PËR SISTEMIN E MENAXHIMIT TË PERFORMANCËS SË KOMUNAVE DHE SKEMËN E GRANTIT TË BAZUAR NË PERFORMANCË 2. Në rast se gjatë procesit të verifikimit vërtetohet se një komunë ka raportuar të dhëna të pasakta në krahasim me dokumentet referuese dhe që rezulton në performancë më të lartë, performanca e asaj komune në fushën për të cilën të dhënat janë të pasakta, shpallet e pavlefshme.
+3. Në rast se vërtetohet se një komunë ka raportuar të dhëna të pasakta apo fiktive të cilat ndikojnë rritjen e performancës në treguesit e Grantit të Performancës, e njëjta përjashtohet nga e drejta për të përfituar nga ky grant në vitin e alokimit.

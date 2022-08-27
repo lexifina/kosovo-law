@@ -1,0 +1,4 @@
+# Article 24
+The right to appeal 1. Municipalities have the right to provide comments or file a complaint about the performance appraisal, within seven (7) working days from the day of communication of results.
+2. The complaint is reviewed by the performance complaints commission, established by decision of the Secretary General of the Ministry and consists of three (3) members from the Ministry with the right to vote respecting the criteria of gender representation. The complaints review process is open to civil society and donors as observers.
+3. The performance complaints commission within fifteen (15) working days after the deadline for receipt of complaints defined in paragraph 1. of this Article, issues a decision regarding the objection of the municipality. The decision of the Commission is final and cannot be changed.

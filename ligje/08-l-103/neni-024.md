@@ -1,0 +1,4 @@
+# Neni 24
+E drejta për ankesë 1. Komunat kanë të drejtën e ofrimit të vërejtjeve ose parashtrimit të ankesës rreth vlerësimit të performancës, brenda afatit prej shtatë (7) ditë pune nga dita e komunikimit të rezultateve.
+2. Ankesa shqyrtohet nga komisioni i ankesave të performancës, i themeluar me vendim të Sekretarit të Përgjithshëm të Ministrisë dhe përbëhet prej tre (3) anëtareve nga Ministria me të drejtë vote duke respektuar kriterin e përfaqësimit gjinor. Procesi i shqyrtimit të ankesave është i hapur për shoqërinë civile dhe donatorët në cilësinë e vëzhguesve.
+3. Komisioni i ankesave të performancës brenda pesëmbëdhjetë (15) ditë pune pas mbylljes së afatit për pranimin e ankesave të përcaktuar në paragrafin 1 të këtij neni, nxjerr vendim në lidhje me ankesën e komunës. Vendimi i Komisionit është i plotfuqishëm dhe nuk mund të ndryshohet.
