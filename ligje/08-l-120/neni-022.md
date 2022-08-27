@@ -1,0 +1,6 @@
+# Neni 22
+Gjurmueshmëria 1. Gjurmueshmëria e ushqimit, ushqimit për kafshë, kafshëve që prodhojnë ushqim apo ndonjë substancë tjetër që pritet të përfshihet në ushqim të njerëzve apo kafshëve zbatohet nëpër të gjitha fazat e prodhimit, përpunimit dhe shpërndarjes.
+2. Operatoret e biznesit të ushqimit dhe ushqimit për kafshë duhet të jenë në gjendje ta identifikojnë çdo person që ka furnizuar me ushqim, ushqim për kafshë apo me kafshë prej të cilave është prodhuar ushqim, apo ndonjë substancë tjetër që është apo do të përfshihet në ushqim apo ushqim për kafshë. Operatori duhet te krijoj sistemet dhe procedurat për të ofruar informata sipas nevojës të cilat i ka në dispozicion agjencia.
+3. Operatori i biznesit të ushqimit dhe ushqimit për kafshë duhet te kenë sisteme dhe procedura për të identifikuar biznese tjera, të cilat kanë qenë të furnizuara me produktet e tyre. Ky informacion është në dispozicion për agjencinë sipas kërkesës.
+4. Ushqimi ose ushqimi për kafshë i cili është i plasuar apo do të plasohet në tregun e Republikës së Kosovës duhet të etiketohet apo identifikohet në mënyrë adekuate për ta lehtësuar gjurmueshmërinë e tij, me anë të dokumenteve dhe informatave në përputhje me kërkesat specifike.
+5. Ministria me akt nënligjor i përcakton rregullat për gjurmueshmëri.

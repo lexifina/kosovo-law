@@ -1,0 +1,28 @@
+# Article 3
+Definitions 1. Terms used in this Law shall have the following meaning:
+1.1. Food - any substance or product, whether processed, partially processed or unprocessed, intended to be, or reasonably expected to be ingested by humans, drink,
+LAW NO. 08/L-120 ON FOOD chewing gums, and any substance which intentionally is incorporated into the food, during the process of production, preparation or processing. Food also includes water: water used for public supply of the population as drinking water, water used or/and incorporated into food during the process of production, preparation and its processing, water packaged in the original packaging as drinking water. Food does not mean feed, live animals, unless they are prepared for placing into the market for human consumption, plants and fruits before harvesting, medicines and medicinal products, cosmetic, tobacco and its products, narcotic substances and psychotropic substances and residues and contamination;
+1.2. Food business - any business procedure, whether for profit or not and whether for public or private carrying out any activity at any stage of production, processing, storage, transport or food distribution;
+1.3. Food business operator - natural or legal persons responsible for ensuring that the requirements of this law are met within the business that he/she manages;
+1.4. Feed - any substance or product, including additives in feed whether processed, partially processed or unprocessed intended to be used for feeding;
+1.5. Feed business - any public activity, whether for profit, public or private, carrying out the production, processing, storage, transport and distribution of feed, including any producer who is producing, processing or storing feed on its private holdings;
+1.6. Feed business operator - any natural or legal person responsible for ensuring that the requirements of this law are met within its feed business which manages;
+1.7. Retail - handling and/or processing of food and its storage at the point of sale or delivery to the final consumer, and that includes distributive terminals, catering operations, factory canteens, food supply by the institution, restaurants and other similar operative food services, shops, distributive centres- supermarkets as well as wholesale shops;
+1.8. Placing on the market - holding food and feed for sale, including the offer for sale and any other way of transfer, whether paid or not, sale, distribution as well other way manner of the circulation;
+1.9. Risk - a function of the probability of a negative healthy effect and the severity of that effect as a result of a risk;
+1.10. Risk analyses - a process consisting of three interconnected components, risk assessment, risk management and risk communication;
+1.11. Risk assessment - a scientifically based process consisting of four steps: identification, risk characterization, exposure assessment and risk characterization;
+1.12. Risk management - the process through which is done the comparison of opportunities of the action of competent authority related to the risk in cooperation with interested participants, considering risk assessment and other legitimate factors, and, if need be, selecting appropriate prevention measures and control options;
+1.13. Risk communication - the interactive exchange of information and opinions during all analyses process as regards hazards and risks, risk related factors and risk perceptions, among risk assessor’s competent authorities, consumers, food producers for human consumption and feed, the academic community and other interested parties including the explanation and findings of risk assessment, and, basis of the risk management decisions;
+LAW NO. 08/L-120 ON FOOD 1.14. Hazard - biological, chemical or physical agent in food and feed with the potential to cause a harmful effect in health;
+1.15. Treatability - the ability to trace and follow a food, feed, food-producing animal or substance intended to be, or expected to be incorporated into a food or feed, through all stages of production, processing and distribution;
+1.16. Stage of production, processing and distribution - any stage, including import and primary production, processing, storage as a raw material or partly processed, transport, sale or supply to final consumer with food for human consumption and also import, production, processing, storage and, transport, distribution, sale and supply with feed;
+1.17. Primary production - the production or cultivation of primary products including harvesting, milking and production of animals before slaughter. It also includes hunting, fishing and harvesting of wild plant products;
+1.18. The final consumer - a natural person who shall use and consume the food for its personal needs, and shall not use the food as a part of any food business operation;
+1.19. Government - the Government of the Republic of Kosovo;
+1.20. Ministry - the Ministry responsible for Agriculture, Forestry and Rural Development;
+1.21. FVA - Food and Veterinary responsible Agency;
+1.22. NIPHK - - the National Institute of Public Health of Kosovo;
+1.23. HACCP - Hazard Analysis and Critical Control Point;
+1.24. Official Control - any control performed by the FVA to verify compliance with the Law on Food and Animal Feed and with the rules on health, animal welfare and environment;
+1.25. Food additive - any substance that is added to food for technological reasons of production, processing, preparation, packaging, transportation or storage and as a result this additive or its by-product, directly or indirectly, becomes an integral part of food. The food additive as such is not used as food and is not considered as a food ingredient regardless of its nutritional value.

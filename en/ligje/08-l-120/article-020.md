@@ -1,0 +1,2 @@
+# Article 20
+Presentation Without prejudice to more specific provisions of food law, the labelling, advertising and presentation of food or feed, including their shape, appearance or packaging, the packaging materials used, the manner in which they are arranged and the setting in which they are displayed, and the information which is made available, must be in compliance with the legislation on consumer protection.

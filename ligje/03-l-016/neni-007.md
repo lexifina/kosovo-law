@@ -1,5 +1,0 @@
-# Neni 7
-1. Nën rrethanat e veçanta, kur pas vlerësimit të informatave të ofruara, është identifikuar mundësia e veprimit të dëmshëm të ushqimit për shëndetin e njerëzve, dhe ekzistojnë dyshimet shkencore, organet kompetente duhet të ndërmarrin masat e përkohshme të menaxhimit të duhur të rrezikut, për sigurimin e mbrojtjes së nivelit të lartë të shëndetit të njerëzve, derisa të sigurohen informatat e duhura të bazuara shkencërisht për vlerësimin e tërësishëm të rrezikut.
-2. Masat e ndërmarra nga paragrafi 1. i këtij neni, duhet të jenë të përshtatshme dhe të mos e kufizojnë tregtinë më tepër se sa është e nevojshme më qëllim të arritjes së nivelit të lartë të mbrojtjes së shëndetit publik, duke llogaritur në realizueshmërinë e tyre teknike dhe ekonomike të bazuar në gjendjen faktike.
-3. Masat e ndërmarra duhet sërish të shqyrtohen në afatin e duhur, varësisht nga niveli i identifikimit të rrezikut për jetë dhe shëndet të njerëzve dhe nga lloji i informatave të bazuara shkencërisht për sqarimin e dyshimit shkencor, sikurse edhe për zbatimin e vlerësimit gjithëpërfshirës të hazardit.
-II.3. PARIMI I TRANSPARENCËS

@@ -1,0 +1,5 @@
+# Article 7
+Precautionary principle 1. In specific circumstances, where the following assessment of available information the possibility of harmful effects on health is identified but scientific suspicion exists, competent authorities should take temporary measures of necessary risk management to ensure high level of human health protection unless it will be provided scientifically based information for final risk assessment.
+2. Measures adopted on the base of paragraph 1. of this Article shall be proportionate and no more restrictive of trade than is required to achieve high level of public health protection, taking in to account the technical and economic feasibility based on practical condition.
+3. The measures should be reviewed in proper time, depending on the level of ability to identify the danger for life and health of the people and from the type of information based on explanation of scientific doubt, as well as for the implementation of the overall assessment of the hazard.
+LAW NO. 08/L-120 ON FOOD
