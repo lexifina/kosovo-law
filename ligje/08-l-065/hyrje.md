@@ -1,0 +1,1 @@
+LIGJI NR. 08/L-065 PËR PRODUKTET BIOCIDE LIGJI NR. 08/L-065 PËR PRODUKTET BIOCIDE Kuvendi i Republikës së Kosovës: Në bazë të nenit 65 (1) të Kushtetutës së Republikës së Kosovës, Miraton: LIGJ PËR PRODUKTET BIOCIDE

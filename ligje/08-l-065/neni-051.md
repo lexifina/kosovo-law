@@ -1,0 +1,2 @@
+# Neni 51
+Shtojcat 1. Shtojcat 1, 2, 3 dhe 4 janë pjesë përbërëse e këtij ligji: 1.1.Shtojca 1: Lista e substancave aktive të referuara në Nenin 25 (a), të Rregullores nr. 528/2012, apo paragrafi 6 të nenit 7, të këtij ligji; 1.2.Shtojca 2: Llojet e produkteve biocide dhe përshkrimet e tyre të referuara në nenin 2 (1), të Rregullores nr. 528/2012, apo nën paragrafi 1.1, paragrafi 1, nenin 3, të këtij ligji; 1.3.Shtojca 3: Parimet e përgjithshme për vlerësimin e dosjeve për produktet biocide; 1.4.Shtojca 4, Kërkesa për Import Prodhim dhe Regjistrim të produktit biocid.

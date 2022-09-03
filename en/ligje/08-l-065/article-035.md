@@ -1,0 +1,4 @@
+# Article 35
+Information system for biocidal products 1. The exchange of information with EU institutions and international Institutions for biocidal products is based on the provisions of the documents ratified by the Government of the Republic of Kosovo and European Union.
+2. The collection, processing, storage and exchange of information with local institutions on biocidal products is the duty of the Ministry, based on the provisions of this Law, and by obligations for reporting and information under national legislation on chemicals.
+3. The Ministry shall inform the public and relevant authorities for the dangers that may arise from the use of active substances in biocidal products, from biocidal products, and the form treated products, therefore recommend needed measures to reduce the risk.

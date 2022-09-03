@@ -1,0 +1,11 @@
+# Article 16
+Packaging, labelling, storage and transport of biocidal products 1. Natural and legal persons who possess the authorization for the biocidal product which they place on the market, the permitted person who stores, manufactures, provides services with biocidal products and imports biocidal products, is obliged to:
+1.1. undertake all necessary measures to protect the humans’ health, animals, plants, the environment and in particular to avoid pollution of soil and water;
+1.2. ensure that each employee of a legal person who commits actions of storage or the transportation of biocidal products, to be trained, instructed, informed and monitored by the professional technical manager, contracted by the employer for implementing the relevant regulations;
+1.3. ensure that biocidal products to be packaged and labeled in accordance with the approved summary of biocidal product characteristics, in particular the statements on risks and statements on precautionary measures, as referred in the Law on Chemicals.
+2. It is prohibited that biocidal products be packaged in the manner that could create confusion, uncertainty or dilemma for their users.
+3. Storage of biocidal products shall be in warehouses with special rooms or spaces, positioned appropriately, with necessity capacity, as needed built with fire-resistant materials, the suitable entry-exit, dry and protected from frost, bright and ventilated, equipped with warning signs,
+LAW NO. 08/L-065 ON BIOCIDAL PRODUCTS protected from acts of theft or vandalism, equipped with the proper devices, staffed and organized with personnel, to meet the management of biocidal products.
+4. Preservation of biocidal products should have made by persons who are equipped with personal protective equipment, equipped with emergency and first aid, equipped with fire extinguishers.
+5. The transport of biocidal products shall have carried out by safe tools and convenient, which do not transport food products, animal foods or medical drugs, do not harm the biocide packages, do not expose the load to the rain or water, and which are easily for cleaning.
+6. Transportation of biocidal products is carried out by persons and equipped with tools for personal protection, equipped with accessories for action in emergency cases and first aid, equipped with fire extinguishers, according to the legislation.

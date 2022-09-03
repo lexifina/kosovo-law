@@ -1,0 +1,11 @@
+## KAPITULLI IV
+## INFORMATAT PËR PRODUKTET BIOCIDE
+# Neni 13
+Klasifikimi, paketimi dhe etiketimi i produkteve biocide 1. Zotëruesit e autorizimit sigurojnë që produktet biocide të klasifikohen në përputhje me përmbledhjen e miratuar të karakteristikave të produktit biocid, në veçanti deklaratat për rrezikun (H) dhe deklaratat për masat parandaluese (P), sipas dispozitave të Ligjit përkatës për Kimikate.
+2. Produktet të cilat mund të ngatërrohen me ushqimet për njerëzit, përfshirë pijet, apo ushqimet për kafshët, paketohen përshtatshëm për të minimizuar gjasat e një ngatërrimi të tillë. Nëse janë në dispozicion për publikun ato përmbajnë përbërës për të dekurajuar konsumimin e tyre, dhe në veçanti nuk duhet të jenë tërheqëse për fëmijët.
+3. Produktet biocide klasifikohen sipas nivelit të rrezikshmërisë.
+LIGJI NR. 08/L-065 PËR PRODUKTET BIOCIDE 4. Produktet biocide klasifikohen edhe duke u bazuar në rrezikshmërinë e tyre, si produkte biocide me rrezikshmëri të ulët, të cilat përmbajnë substanca aktive të Shtojcës 1 të këtij ligji dhe produktet biocide me rrezikshmëri të lartë, të cilat përmbajnë substance aktive të aprovuara sipas listës së Bashkimit Evropian.
+5. Klasifikimi i produkteve biocide bazohet në klasifikimin e substancave aktive, lidhur me efektet kancerogjene, mutagjene, toksike për riprodhim, efektet në mjedis dhe veti të tjera që lidhen si me vetitë e substancave aktive vepruese, si dhe me vetitë e substancave që paraqesin shqetësim, metaboliteve, mbetjeve dhe papastërtive.
+6. Klasifikimi i produkteve biocide sipas objektit të veprimit, kryhet bazuar në qëllimin dhe mënyrën e përdorimit të produktit biocid dhe përcakton klasën e produkteve biocide, klasifikimin sipas sipërfaqeve që trajtohen.
+7. Zotëruesit e autorizimit sigurojnë që etiketat nuk janë çorientuese në lidhje me rreziqet nga produkti biocid për shëndetin e njeriut, shëndetin e kafshëve apo mjedisin apo efikasitetin e tij. 8.Etiketa duhet të tregojë në mënyrë të qartë dhe të pashlyeshme shënimet për karakteristikat, përmes të cilave përdoruesi i produkteve biocide informohet për karakteristikat e specifikuara në nenin 25, të këtij ligji.
+9. Çdo njësie paketuese me produkte biocide duhet t’i bashkëngjitet Udhëzuesi për përdorim, i shkruar në gjuhët zyrtare, në përputhje me kushtet e caktuara me këtë ligj.

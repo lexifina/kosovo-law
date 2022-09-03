@@ -1,0 +1,8 @@
+# Neni 19
+Agjencia për Mbrojtjen e Mjedisit të Kosovës 1. Agjencia për Mbrojtjen e Mjedisit të Kosovës zbaton dhe mirëmban Sistemin e Informimit për produkte biocide, i cili i referohet si Regjistri për substancat aktive, për produktet biocide të autorizuara dhe artikullin e trajtuar (këtu e tutje Regjistri).
+2. Regjistri përmban Listën e Bashkimit Evropian për substancat aktive të aprovuara; Listën e Bashkimit Evropian për produkte biocide të autorizuara; Listën e prodhuesve të produkteve biocide të autorizuara; Listën e personave të pajisur me leje që ofrojnë shërbime me produkte biocide; Listën e sasisë së produkteve biocide të prodhuara dhe/ose importuara; Listën e substancave aktive të prodhuara dhe/ose të importuara; Listën e artikullit të trajtuar dhe shënimet tjera, të cilat konsiderohen të rëndësishme që mban edhe Agjencia Evropiane e Kimikateve.
+3. Regjistri përdoret për shkëmbimin e informacioneve ndërmjet Ministrisë, institucioneve, dhe personave fizikë dhe juridikë, ndërsa sipas kërkesës edhe për Agjencinë Evropiane të Kimikateve.
+4. AMMK bën regjistrimin e të dhënave për produktet biocide në formën elektronike dhe të shkruar, përpunimin e të dhënave dhe shpërndarjen e tyre në formë të raporteve vjetore ose sipas kërkesave të veçanta.
+5. AMMK kontrollon nëse këto të dhëna janë dërguar nga operatoret në formatin e saktë dhe njofton pa vonesë inspektoratin e mjedisit në përputhje me rrethanat.
+6. AMMK është e detyruar që sipas dispozitave të legjislacionit në fuqi për mbrojtjen e mjedisit të ofrojë bashkëpunim, të raportojë dhe të ofrojë shënime për institucionet e BE-së.
+LIGJI NR. 08/L-065 PËR PRODUKTET BIOCIDE

@@ -1,0 +1,3 @@
+# Article 48
+Appeals procedure against the decisions of the Commission 1. Against the decision of the Commission for issuing a permit for the provision of services with biocidal products or an import permit, provided in Articles 20, 29 and 43 of this Law, the party has the right to appeal within thirty (30) days from the decision to the Appeals Commission for reviewing decisions regarding permits in the Ministry.
+2. Against the decision of the Commission for review of the complaint for equipment with a permit, the legal entity has the right to initiate an administrative dispute with the Basic Court Pristina - Department on Administrative Affairs, within fifteen (15) days from the date of receipt of the decision.

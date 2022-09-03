@@ -1,0 +1,5 @@
+# Neni 27
+Leja për import dhe leja për ofrimin e shërbimit me produkte biocide 1.Ministria lëshon leje për importin e substancave aktive dhe/ose produkteve biocide, sipas dispozitave të Ligjit përkatës për Kimikate. Kjo leje vlen edhe për magazinimin e kimikateve. 2.Ministria, sipas këtij ligji, lëshon leje për ofrimin e shërbimeve me produkte biocide.
+3. Leja, sipas paragrafit 1, të këtij neni, nuk lëshohet, për personat që nuk dëshmojnë miratimin e substancave aktive dhe/ose autorizimin e produktit biocid dhe nuk i plotësojnë kushtet tjera të përcaktuara me këtë ligj.
+4. Leja, sipas paragrafit 1, të këtij neni, lëshohet edhe për personat juridikë që zhvillojnë veprimtari individuale për të cilat përdorin produktet biocide, si: veprimtarinë e artit, veprimtaritë studimore shkencore dhe veprimtaritë tjera specifike, ku është e përshtatshme të përdorën produktet biocide.
+5. Leja për importin e produkteve biocide lëshohet brenda periudhës tridhjetë (30) ditësh, nga dita e dorëzimit të kërkesës.

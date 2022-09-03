@@ -1,0 +1,5 @@
+# Neni 14
+Reklamimi i produkteve biocide 1. Publikimet, dhënia e udhëzimeve dhe këshillave është e lejuar vetëm për produktet biocide që posedojnë autorizimin për vënien e tyre në treg.
+2. Reklamat për produkte biocide, përveç përputhjes me dispozitat e Ligjit përkatës për Kimikate, përfshijnë edhe përcaktimet ‘Përdorni biocidet në mënyrë të sigurt’. Gjithmonë lexoni etiketën dhe informacionet mbi produktin para përdorimit’. Këto duhet të jenë të dallueshme dhe të lexueshme në mënyrë të qartë.
+3. Reklamuesit mund të zëvendësojnë fjalën ‘biocide’ në fjalitë e përshkruara me një referim të qartë të llojit të produktit që është duke u reklamuar.
+4. Reklamat për produkte biocide nuk i referohen produktit në një mënyrë që është çorientuese në lidhje me rreziqet nga produkti për shëndetin e njeriut, shëndetin e kafshëve, mjedisin apo efikasitetin e tij. Në çfarëdo rasti, reklamimi i një produkti biocid nuk përmend ‘produktin biocid me rrezik të ulët’, ‘jo toksik’, ‘i padëmshëm’, ‘natyror’, ‘i favorshëm për mjedisin’, ‘i favorshëm për kafshët’ apo ndonjë indikacion të ngjashëm.

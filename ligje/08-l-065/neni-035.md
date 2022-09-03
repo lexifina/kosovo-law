@@ -1,0 +1,4 @@
+# Neni 35
+Sistemi informimit për produktet biocide 1. Shkëmbimi i informacioneve me institucionet e BE-së dhe ato ndërkombëtare për produktet biocide bëhet duke u bazuar në dispozitat e dokumenteve të ratifikuara nga Qeveria e Republikës së Kosovës dhe Bashkimi Evropian.
+2. Mbledhja, përpunimi, ruajtja dhe shkëmbimi i informacioneve me institucionet vendore për produktet biocide është detyrë e Ministrisë, duke u bazuar në dispozitat e këtij ligji, dhe sipas detyrimeve për raportim dhe informim sipas legjislacionit në fuqi për kimikatet.
+3. Ministria informon publikun dhe autoritetet përkatëse për rreziqet që mund të rrjedhin nga përdorimi i substancave aktive për produktet biocide, nga produktet biocide, si dhe nga produktet e trajtuara, andaj rekomandon marrjen e masave të nevojshme për zvogëlimin e rrezikut.

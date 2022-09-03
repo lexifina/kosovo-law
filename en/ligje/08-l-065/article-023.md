@@ -1,0 +1,4 @@
+# Article 23
+Providing services with biocidal product 1. In the scope of the tasks performed by NIPHK and FVA, for public needs, there is also the supervision of the performance of services with biocidal products, which is organized for the control of harmful organisms in special circumstances.
+LAW NO. 08/L-065 ON BIOCIDAL PRODUCTS 2. Legal persons, provided with a permit to perform service with biocidal products, through agreement with interested persons, use biocides and perform services with biocidal products under the constant care for the protection of the environment and human health.
+3. Institutions, Agencies and public enterprises of the Republic of Kosovo, within their competences and for their needs, contract persons equipped with permits to perform services with biocidal products for spaces of public institution, in order to protect the environment and public health.

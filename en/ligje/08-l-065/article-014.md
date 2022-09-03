@@ -1,0 +1,5 @@
+# Article 14
+Advertisement for biocidal products 1. Publications, instructions and advices are allowed only for biocidal products that have authorization for placing them on the market.
+LAW NO. 08/L-065 ON BIOCIDAL PRODUCTS 2. Advertisement for biocidal products, in addition to compliance with provisions of the relevant Law on chemicals includes the sentences ‘Use biocides safely`., Always read the label and product information before use’. The sentences are distinct and clearly legible at about all advertisement.
+3. Advertisers may replace the word ‘biocides’ in the prescribed sentences with a clear reference to the type of product that is being advertised.
+4. Advertisements for biocidal products do not refer to the product in a way that could be misleading about the risks from the product to human health, animal health or the environment or its efficacy. In any case, the advertising of a biocidal product does not mention ‘product bicoid of low risk’, ‘non-toxic’, ‘harmless’, ‘natural’, ‘conducive to environment’, ‘conducive to the animals’ or any similar indication.

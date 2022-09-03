@@ -1,0 +1,3 @@
+# Article 41
+Liability for damages 1. The Authorization Holder for introduction of the biocidal product in the market, the holder of the permit for providing the service with the biocidal product and the holder of the permit for import and production, in the territory of the Republic of Kosovo, is responsible for damages which are created due to non-implementation of conditions under this law, and acts issued by this law, or due to inaccurate statements about the nature of the biocidal product.
+2. It is prohibited the testing of biocidal products in vertebrates, in order for the test results to be used for approval of the active substance or authorization of a biocidal product.

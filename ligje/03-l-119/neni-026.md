@@ -1,5 +1,0 @@
-# Neni 26
-Leja me procedurë të shkurtër - Regjistrimi
-1. PB me rrezikshmëri të ulët, mund të vendosën në treg me leje të lëshuar sipas procedurës së shkurtër – Regjistrimi- nëse substanca aktive e tyre është e regjistruar në Listën I.A.
-2. Kërkesa për nxjerrjen e lejes sipas procedurës së shkurtër për vendosjen në treg të PB-ve të listës IA, duhet të përmbaj shënimet: për parashtruesin e kërkesës, shënimet për PB-në, për qëllimin e përdorimit, ndikimet dhe efektet e PB, metodat për analiza, propozimin për klasifikim, paketim dhe shenjim, Listën e sigurisë teknike sipas dispozitave të Ligjit për kimikate, nëse është e nevojshme deklaratën për qasje në informata të cilat kanë të bëjnë me PB-të, të gjitha substancat aktive në përbërje të PB, dhe shënime të tjera që janë të rëndësishme për mbrojtjen e shëndetit të njerëzve, kafshëve dhe mjedisit.
-3. Dokumentacionin e nevojshëm për regjistrimin e PB, procedurat e regjistrimit, afatet për prezantimin e dokumentacionit, lëshimin e lejes, Qeveria me propozim te Ministrit nxjerr akte të veçanta nënligjore në bashkëpunim me Ministrin e MSH dhe Ministrin e MBPZHR .
