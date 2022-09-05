@@ -1,0 +1,6 @@
+# Neni 9
+Përkujdesja adekuate
+1. Profesionistët dhe praktikantët që punojnë për fëmijët dhe me fëmijët duhet të trajnohen dhe të udhëzohen në lidhje me të drejtat e fëmijëve, legjislacionin dhe procedurat për mbrojtjen e fëmijëve dhe në përgjithësi mbi zhvillimin e fëmijës.
+2. Protokolet ndër ose multi-disiplinare të nevojshme duhet të jenë në dispozicion për të udhëhequr rolin dhe reagimin ndaj dhunës ndaj fëmijës.
+3. Sistemi i integruar i monitorimit dhe vlerësimit të situatës së fëmijëve, i zhvilluar në bazë të standardeve, treguesve, definicioneve dhe mjeteve, duhet të jenë në dispozicion dhe të bashkërendohen nga njësia përkatëse për Qeverisje të Mirë në Zyrën e Kryeministrit. Sistemi duhet të jetë i qasshëm dhe në mënyrë efektive të informojë raportimin dhe monitorimin e pavarur të kualitetit të shërbimeve të ofruara për fëmijët me qëllim të ngritjes së nivelit të llogaridhënies ndaj institucioneve përgjegjëse për avancimin e të drejtave të fëmijëve në Kosovë.
+4. Të gjitha institucionet dhe ofruesit e shërbimeve, organizatat e shoqërisë civile, organizatat jo qeveritare, bizneset dhe kompanitë private, që punojnë drejtëpërdrejtë me fëmijët duhet të kenë rregulla dhe udhëzime në lidhje me politikat për mbrojtjen e fëmijës që ndërlidhen me parandalimin, reagimin dhe raportimin e rasteve.
