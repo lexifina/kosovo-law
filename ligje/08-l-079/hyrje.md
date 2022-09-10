@@ -1,0 +1,2 @@
+9LIGJI NR.08/L-079 PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJIT Nr.02/L-85 PËR PESHKATARI DHE AKUAKULTURË Qëllimi i këtij ligji është ndryshimi dhe plotësimi i Ligjit Nr.02/L-85 për Peshkatari dhe Akuakulturë dhe harmonizimi i tij me Ligjin për Kundërvajtje.
+LIGJI NR.08/L-079 PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJIT Nr.02/L-85 PËR PESHKATARI DHE AKUAKULTURË Kuvendi i Republikës së Kosovës, Në mbështetje të Nenit 65 (1) të Kushtetutës së Republikës së Kosovës, Miraton: LIGJ PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJIT Nr.04/L-127 PËR REGJISTRIMIN E BUJQËSISË
