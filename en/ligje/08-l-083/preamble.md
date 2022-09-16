@@ -1,0 +1,2 @@
+LAW NO. 08/L-083 ON AMENDING AND SUPPLEMENTING THE WINE LAW NO. 02/L-8 LAW NO. 08/L-083
+ON AMENDING AND SUPPLEMENTING THE WINE LAW NO. 02/L-8 The Assembly of the Republic of Kosovo; Based on Article 65 (1) of the Constitution of the Republic of Kosovo, Approves: LAW ON AMENDING AND SUPPLEMENTING THE WINE LAW NO. 02/L-8
