@@ -1,0 +1,11 @@
+# Article 3
+After Article 2 of the law, the new Article 2A shall be added as follows:
+Article 2A
+1. The Sanitary Inspectorate of Kosovo exercises the tasks of inspection supervision to legal and natural persons who exercises individual business and natural persons activities from
+Article 1A of this Law and to natural persons who endanger the public-health interest.
+2. The Sanitary Inspectorate in the field of prevention and control of communicable diseases supervises the implementation of the law and other provisions that regulates the following:
+2.1. implementation of general measures for the prevention and control of contagious diseases (health insurance of fair food, ensuring the health regularity of items for general use, ensuring health regularity of drinking water, baths, beaches, swimming pools water, fountain waters and other waters of public health interest, provision of sanitary-technical and hygienic conditions in public places, in public buildings, spaces, premises and equipment of legal and natural entity and means of public transport, provision of sanitary-
+LAW NO. 08/L-050 ON AMENDING AND SUPPLEMENTING LAW NO. 2003/22 ON THE SANITARY INSPECTORATE OF KOSOVO technical conditions of swimming pools, waste water and other materials of waste character, mandatory disinfection, desinsection and temporary deratization);
+2.2. Implementation of particular measures for prevention and control of infectious diseases (early detection of sources of infection and routes of transmission of infection, laboratory research of disease pathogens, respectively epidemic of infectious diseases, notification, transport, isolation and cure of the infected, counter-epidemic disinfection, disinsectization and deratization, health supervision of embryo carriers, employees and other persons, immunization, seroprophylaxis and chemoprophylaxis, quarantine);
+2.3. implementation of other measures for the prevention and control of communicable diseases (measures in case of epidemic or natural disasters, transfer, burial and burial of dead persons, measures for the prevention and control of nosocomial infections);
+2.4. exercise other tasks and implementing other measures when defined by a special provision.

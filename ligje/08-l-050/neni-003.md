@@ -1,0 +1,11 @@
+# Neni 3
+Pas nenit 2 të ligjit shtohet neni i ri 2A si në vijim:
+Neni 2A
+1. Inspektorati Sanitar i Kosovës punët e mbikëqyrjes inspektuese i kryen ndaj personave juridik, personave fizik që ushtrojnë biznes individual dhe personave fizik të cilët kryejnë veprimtari nga
+neni 1A të këtij Ligji dhe ndaj personave fizik të cilët rrezikojnë interesin publiko-shëndetësor.
+2. Inspektorati Sanitar në fushën e parandalimit dhe të pengimit të sëmundjeve ngjitëse mbikëqyrë zbatimin e ligjit dhe të dispozitave tjera me të cilat rregullohen:
+2.1. zbatimi i masave të përgjithshme për parandalimin dhe luftimin e sëmundjeve ngjitëse (sigurimi shëndetësor i ushqimit të drejtë, sigurimi i rregullsisë shëndetësore të sendeve për përdorim të përgjithshëm, sigurimi i rregullsisë shëndetësore dhe ujit për pije, të banjave, plazheve, të ujërave të bazeneve, të ujërave të fontaneve dhe të ujërave tjera me interes publiko-shëndetësor, sigurimi i kushteve sanitaro-teknike
+LIGJI NR. 08/L-050 PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJIT NR. 2003/22 PËR INSPEKTORATIN SANITAR TË KOSOVËS dhe higjienike në vendet publike, në ndërtesat publike, hapësirat, lokalet dhe pajisjet e personave juridik dhe fizik dhe të mjeteve të qarkullimit publik, sigurimi i kushteve sanitaro-teknike të bazeneve, hedhurinave ujore dhe të materialeve tjera të karakterit të hedhurinave, kryerja e detyrueshme e dezinfektimit, dezinsektimit dhe deratizimit të përkohshëm);
+2.2. zbatimi i masave të veçanta për parandalimin dhe luftimin e sëmundjeve ngjitëse (zbulimi i hershëm i burimeve të infektimit dhe rrugët e bartjes së infektimit, hulumtimi laboratorik i shkaktarëve të sëmundjeve, përkatësisht të epidemisë së sëmundjeve ngjitëse, lajmërimi, transporti, izolimi dhe shërimi i të sëmurëve, dezinfektimi kundërepidemik, dezinsektimi dhe deratizimi, mbikëqyrja shëndetësore ndaj embrioneve bartëse, ndaj të punësuarve dhe të personave tjerë, imunizimi, seroprofilaksa dhe kemoprofilaksa, karantimi);
+2.3. zbatimi i masave tjera për parandalimin dhe luftimin e sëmundjeve ngjitëse (masat në rastin e epidemisë apo të fatkeqësive elementare, bartja, varrosja dhe varrimi i personave të vdekur, masat për parandalimin dhe luftimin e infeksioneve spitalore);
+2.4. kryerja e punëve tjera dhe zbatimi i masave tjera kur kjo është caktuar me dispozitë të veçantë.
