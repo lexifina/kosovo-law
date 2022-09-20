@@ -1,0 +1,2 @@
+# Article 19
+The capacity of a natural person to exercise a commercial activity Capacity of a natural person acting in the course of his/her business activity without the status of a legal person shall be governed by the law of the state in which that person is registered as an entrepreneur. Where no registration is required, the law of the state where the person has the principle place of business shall apply.

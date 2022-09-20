@@ -1,0 +1,2 @@
+# Neni 177
+Kryerja e punëve të kujdestarisë për shtetasit e Republikës së Kosovës që gjenden jashtë vendit Punët e kujdestarisë për shtetasit e Republikës së Kosovës që gjenden jashtë vendit i kryen përfaqësia konsullore ose përfaqësia diplomatike e Republikës së Kosovës nëse atë nuk e kundërshton shteti në të cilin gjendet përfaqësia e Republikës së Kosovës, ose nëse kjo është e rregulluar me marrëveshjen ndërkombëtare.

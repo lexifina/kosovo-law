@@ -1,0 +1,2 @@
+# Article 5
+Stateless persons and refugees 1.If a person has no nationality or if his/her nationality cannot be established, the applicable law shall be determined according to his/her habitual residence. 2.If a person has the status of a refugee, the applicable law shall be determined according to his/her habitual residence. 3.If a person referred to in paragraph 1 or 2 of this Article has no habitual residence or if the same cannot be established, the applicable law shall be determined according to his/her residence.

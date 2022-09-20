@@ -1,0 +1,3 @@
+# Article 180
+Issuance of certificates on the provisions of law which are in force or were in force in the Republic of Kosovo 1. Certificates on the provisions which are in force or were in force in the Republic of Kosovo are issued for their use before the authorities of a foreign state by the executive body which is in charge of the affairs of justice.
+2. The certificate referred to in paragraph 1 of this Article shall contain the name of the act, the date of issuance or when it ceased to be in force and the exact wording of the relevant provisions of that act. SECTION SIX TRANSITIONAL AND FINAL PROVISIONS

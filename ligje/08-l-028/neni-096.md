@@ -1,0 +1,2 @@
+# Neni 96
+Dëmi i shkaktuar në anije apo aeroplan E drejta kompetente për dëmin e shkaktuar në anije gjatë kohës kur ajo gjendet në detin e hapur, apo në aeroplan, është e drejta e shtetit në të cilin anija ose aeroplani është regjistruar. NËNKAPITULLI XIV MARRËDHËNIET JOKONTRAKTORE- PASURIMI PA BAZË, GJËRIMI I PUNËVE TË HUAJA PA AUTORIZIM (NEGOTIORUM GESTIO) DHE PËRGJEGJËSIA PARAKONTRAKTORE (CULPA IN CONTRAHENDO)

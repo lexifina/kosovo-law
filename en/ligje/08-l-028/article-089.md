@@ -1,0 +1,3 @@
+# Article 89
+Habitual residence 1. For the purposes of this sub-chapter, the habitual residence of companies, foundations and associations, regardless of whether they are legal persons or do not have legal personality, shall be the place of central administration. Where the event giving rise to the damage occurs, or the damage arises, in the course of operation of a branch, agency or any other establishment, the place where the branch, agency or any other establishment is located shall be treated as the place of habitual residence.
+2. For the purposes of this sub-chapter, the habitual residence of a natural person acting in the course of his/her business activity shall be his/her principal place of business

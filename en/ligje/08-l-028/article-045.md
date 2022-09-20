@@ -1,0 +1,2 @@
+# Article 45
+Special rule on defence In the case of maintenance obligations other than those arising from a parent-child relationship towards a child and those referred to in Article 44 of this Law, the debtor may contest a claim from the creditor on the ground that there is no such obligation under both the law of the state of the habitual residence of the debtor and the law of the state of the common nationality of the parties, if there is one.

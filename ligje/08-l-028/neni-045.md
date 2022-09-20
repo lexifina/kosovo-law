@@ -1,0 +1,2 @@
+# Neni 45
+Dispozita e posaçme mbi mbrojtjen Lidhur me detyrimin e ushqimit ndaj personave tjerë, përveç detyrimit të ushqimit të prindërve ndaj fëmijëve, si dhe për detyrimet e ushqimit të paraparë në nenin 44 të këtij ligji, ushqimdhënësi mundet ta kontestojë kërkesën e shfrytëzuesit të ushqimit në bazë të faktit se as sipas të drejtës së vendqëndrimit të zakonshëm të ushqimdhënësit, as sipas të drejtës të shtetësisë të përbashkët të palëve, nëse kanë shtetësi të përbashkët, nuk është i paraparë detyrimi i atillë për ushqim.

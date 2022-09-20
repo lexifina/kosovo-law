@@ -1,0 +1,2 @@
+# Neni 105
+Subrogimi ligjor Nëse kreditori ka kërkesa ndaj debitorit, dhe personi i tretë ka detyrim ta plotësoj kërkesën, ose e ka plotësuar kërkesën që del nga ai detyrim, e drejta e cila është kompetente për detyrimin e personit të tretë që ta plotësoj kërkesën e kreditorit, do të caktoj se a është dhe në cilën masë është personi i tretë i autorizuar që t’i realizojë ndaj debitorit të drejtat që kreditori i ka pasur ndaj debitorit sipas të drejtës kompetente për marrëdhënien e tyre.

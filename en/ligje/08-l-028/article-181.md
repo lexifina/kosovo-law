@@ -1,0 +1,4 @@
+# Article 181
+Application of the Law 1. The provisions of this Law for determining the applicable law shall not be applied to relations which came into existence before the entry into force of this Law.
+2. If, before the date of entry into force of this Law, a final judgment or a decision of the first instance has been rendered whereby the proceedings before the first instance court are terminated, the further proceeding shall be continued according to the previous provisions on jurisdiction and procedure in relations with an international element and provisions for the recognition of foreign judgments.
+3. If, after the date of entry into force of this Law, the first instance judgment or decision from paragraph 2 of this Article is set aside, further proceedings shall be continued in accordance with the provisions on jurisdiction and procedure in relations with an international element and with the provisions on recognition of the foreign judgments of this Law.

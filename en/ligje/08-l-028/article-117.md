@@ -1,0 +1,2 @@
+# Article 117
+Jurisdiction on provisional and protective measures The court of the Republic of Kosovo shall have jurisdiction for granting provisional or security measures against persons or property which at the moment of the action are located in the Republic of Kosovo, even in cases when, according to the provisions of this Law, the court does not have jurisdiction to decide of the main matter.

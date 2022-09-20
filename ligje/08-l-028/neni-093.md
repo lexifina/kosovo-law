@@ -1,0 +1,2 @@
+# Neni 93
+Dëmet ndaj ambientit E drejta kompetente për përgjegjësinë jokontraktore për dëmet e shkaktuara ndaj ambientit ose për dëm të pësuar nga individët ose ndaj pronës si rezultat i atij dëmi, kompetente është e drejta nga neni 90 paragrafi 1 i këtij ligji, përveç në rastet kur personi i cili kërkon kompensim të dëmit vendos që ta parashtroj padinë sipas të drejtës së shtetit ku është shkaktuar ngjarja nga e cila shkaktohet dëmi.

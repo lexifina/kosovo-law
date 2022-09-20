@@ -1,0 +1,10 @@
+# Article 80
+Consumer contracts 1. A contract concluded by a natural person for a purpose which can be regarded as being outside his/her trade or profession (the consumer) with another person acting in the exercise of his/her trade or profession (the entrepreneur), shall be deemed to be a consumer contract.
+LAW NO. 08/L -028 ON PRIVATE INTERNATIONAL LAW 2. Notwithstanding Articles 78 and 79 of this Law, a contract as per paragraph 1 of this Article shall be governed by the law of the state where the consumer has his habitual residence, provided that the entrepreneur:
+2.1. pursues his/her commercial or professional activities in the state where the consumer has his/her habitual residence, or 2.2. by any means, directs such activities to that state or to several states including that state, and the contract falls within the scope of such activities.
+3. Notwithstanding the provision of paragraph 2 of this Article, the parties may choose the law applicable to a contract which fulfils the requirements of paragraph 2 of this Article, in accordance with Article 75 of this Law. Such a choice may not, however, have the result of depriving the consumer of the protection afforded to him by provisions that cannot be derogated from by agreement by virtue of the law which, in the absence of choice, would have been applicable on the basis of paragraph 2 of this Article.
+4. If the requirements of paragraph 2 of this Article are not fulfilled, the law applicable to a consumer contract shall be determined pursuant to the provisions of Articles 75 and 76 of this Law.
+5. The provisions of paragraphs 2 and 3 of this Article shall not apply to:
+5.1. a contract for the supply of services where the services are to be supplied to the consumer exclusively in a state other than that in which he has his habitual residence;
+5.2. a contract of carriage other than a contract with which a combined service of travel and accommodation is provided for a single price;
+5.3. a contract relating to a real right in immovable property or a tenancy of immovable property other than a contract relating to the right to use immovable properties on a timeshare basis.

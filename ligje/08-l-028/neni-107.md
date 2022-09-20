@@ -1,0 +1,4 @@
+# Neni 107
+Barra e provës 1. E drejta e cila është kompetente për marrëdhëniet kontraktore dhe jokontraktore aplikohet, për marrëdhëniet kontraktore dhe jokontraktore, nëse i përmban rregullat të cilat ngrisin supozimet ligjore ose e rregullon barrën e provës.
+2. Një kontratë ose veprim i cili synon të ketë efekt juridik mund të dëshmohet me cilëndo mënyrë të dëshmimit që njihet nga e drejta e Republikës së Kosovës ose sipas cilësdo të
+LIGJI NR.08/L-028 PËR TË DREJTËN NDËRKOMBËTARE PRIVATE drejtë në të cilën dërgon neni 83 i këtij ligji, sipas të cilës ajo kontratë ose ai veprim është i plotfuqishëm për nga forma, me kusht që ajo dëshmi të mund të administrohet nga gjykatat e Republikës së Kosovës NËNKAPITULLI XVII FORMA E PUNËVE JURIDIKE DHE E EFEKTEVE JURIDIKE, PËRFAQËSIMI DHE PARASHKRIMI

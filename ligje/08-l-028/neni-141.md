@@ -1,0 +1,2 @@
+# Neni 141
+Zgjedhja e kompetencës Gjykata e Republikës së Kosovës do të jetë kompetente edhe për shqyrtimin e trashëgimisë e cila nuk gjendet në Republikën e Kosovës, nëse trashëgimlënësi në disponimin e tij në rast të vdekjes e ka zgjedhur të drejtën e Republikës së Kosovës si të drejtë kompetente për trashëgiminë e tij në testament apo formë tjetër të disponimit me të drejtat e tij të trashëgimisë. NËNKAPITULLI VI DISPOZITAT E VEÇANTA: JURIDIKSIONI PËR TË DREJTAT SENDORE

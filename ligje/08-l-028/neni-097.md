@@ -1,0 +1,4 @@
+# Neni 97
+Pasurimi i pa bazë 1. Nëse përgjegjësia jokontraktore e cila krijohet nga pasurimi i pa bazë, përfshirë edhe pagesa në të holla të cilat janë bërë me gabim ndërlidhet me marrëdhënie tjetër ekzistuese midis palëve, siç është marrëdhënia e krijuar me kontratë ose veprim të dëmshëm dhe nëse ajo marrëdhënie është ngushtë e lidhur me pasurimin pa bazë, në atë rast kompetente është e drejta me të cilën rregullohet ajo marrëdhënie tjetër.
+2. Nëse sipas paragrafit 1 të këtij neni nuk mund të konstatohet e drejta kompetente, kurse palët në momentin kur ka ndodhur ngjarja që shkakton pasurimin pa bazë e kanë pasur vendqëndrimin e zakonshëm në të njëjtin shtet do të aplikohet e drejta e atij shteti.
+3. Nëse sipas paragrafëve 1 dhe 2 të këtij neni nuk mund të caktohet e drejta kompetente, për pasurimin pa bazë do të jetë kompetente e drejta e shtetit ku është bërë pasurimi pa bazë.

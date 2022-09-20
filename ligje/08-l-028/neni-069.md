@@ -1,0 +1,3 @@
+# Neni 69
+Pasuria kulturore 1. Nëse sendi i prekshëm i cili është shpallur pasuri kulturore i një shteti, në mënyrë të kundërligjshme nxirret nga territori i atij shteti, e drejta kompetente për kthimin e sendit është e drejta e atij shteti, përveç nëse ai shtet e zgjedh si kompetente të drejtën e shtetit në territorin e të cilit ndodhet sendi në momentin e parashtrimit të kërkesës për kthimin e sendit.
+2. Nëse e drejta e shtetit e cila sendin konkret e ka shpallur si pasuri të veten kulturore nuk i mundëson mbrojtje poseduesit të sendit në mirëbesim, ai mund të thirret në mbrojtjen që ia mundëson e drejta e shtetit në territorin e të cilit ndodhet sendi në momentin e parashtrimit të kërkesës për kthimin e pasurisë kulturore.

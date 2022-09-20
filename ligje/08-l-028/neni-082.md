@@ -1,0 +1,3 @@
+# Neni 82
+Shprehja e vullnetit dhe plotfuqishmëria materiale 1. Për ekzistimin dhe plotfuqishmërinë materiale të kontratës ose ndonjë dispozite të saj, kompetente është e drejta e cila sipas këtij ligji do të ishte kompetente për kontratën nëse ajo kontratë ose ndonjë dispozitë e saj do të ishte e plotfuqishme.
+2. Megjithatë, që të vërtetohet se pala kontraktore nuk ka dhënë pëlqim për kontratën, ajo mund të thirret në të drejtën e shtetit në të cilin ka vendqëndrim të zakonshëm, nëse sipas rrethanave konkrete del se nuk do të ishte e arsyeshme që të vlerësohet sjellja e saj sipas të drejtës që do të ishte kompetente sipas paragrafit 1 të këtij neni.

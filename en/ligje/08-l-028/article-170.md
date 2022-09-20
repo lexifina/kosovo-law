@@ -1,0 +1,4 @@
+# Article 170
+Course of proceedings 1. If the court, to which the application for recognition of the foreign judgment is submitted, determines that there are no obstacles for recognition, it will render a decision recognizing the foreign judgment. 2.The court shall serve the decision for recognition of the foreign judgment to the applicant and to the respondent and notify them that an objection against the decision for recognition is allowed within thirty (30) days from the day of receiving the decision.
+3. Notwithstanding the provisions of paragraph 2 of this Article, the court shall not serve a decision recognizing a foreign judgment on divorce to the other party if the party seeking recognition is a national of the Republic of Kosovo, and the other party has no domicile or habitual residence in the Republic of Kosovo.
+LAW NO. 08/L -028 ON PRIVATE INTERNATIONAL LAW

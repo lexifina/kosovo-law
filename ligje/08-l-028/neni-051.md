@@ -1,0 +1,2 @@
+# Neni 51
+Interpretimi dhe aplikimi i dispozitave të këtij nënkapitulli Dispozitat e këtij nënkapitulli do të interpretohen dhe aplikohen konform Rregullores (EC) 4/2009 të Këshillit të datës 18 dhjetor të vitit 2008 për kompetencën, të drejtën kompetente, njohjen dhe ekzekutimin e vendimeve dhe bashkëpunimit ndërkufitar për çështje që u dedikohen detyrimeve për ushqim. NËNKAPITULLI VII MARRËDHËNIET FAMILJARE: ADOPTIMI

@@ -1,0 +1,2 @@
+# Article 130
+Exclusive international jurisdiction in disputes on establishment, termination and status changes of legal entities The court of the Republic of Kosovo shall have exclusive jurisdiction in proceedings which have as their object the validity of the constitution, the nullity or the dissolution of companies or other legal persons or associations of natural or legal persons, or the validity of the decisions of their organs, if the company, legal person or association has its seat in the Republic of Kosovo.

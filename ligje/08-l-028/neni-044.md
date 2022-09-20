@@ -1,0 +1,2 @@
+# Neni 44
+Dispozita e posaçme për bashkëshortët dhe bashkëshortët e mëparshëm Për detyrimin e ushqimit midis bashkëshortëve, ose bashkëshortëve të mëparshëm, ose palëve në martesë që është shpallur e pavlefshme, neni 42 i këtij ligji nuk do të aplikohet nëse atë e kundërshton njëra nga palët, kurse e drejta e shtetit tjetër, posaçërisht e drejta e shtetit të vendqëndrimit të përbashkët është në lidhje më të ngushtë me atë martesë. Në atë rast, kompetente është e drejta e atij shteti.

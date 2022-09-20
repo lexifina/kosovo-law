@@ -1,0 +1,4 @@
+# Neni 181
+Aplikimi i ligjit 1. Dispozitat e këtij ligji për caktimin e të drejtës kompetente nuk do të aplikohen për marrëdhëniet e krijuara para se të hyjë në fuqi ky ligj.
+2. Nëse para datës së hyrjes në fuqi të këtij ligji është nxjerrë aktgjykim i plotfuqishëm i shkallës së parë, ose aktvendim me të cilin procedura para gjykatës së shkallës së parë përfundon, procedura e mëtutjeshme do të vazhdohet sipas dispozitave të deri atëhershme në fuqi për kompetencën dhe procedurën për marrëdhëniet me element ndërkombëtar dhe dispozitave për njohjen e vendimeve të huaja gjyqësore.
+LIGJI NR.08/L-028 PËR TË DREJTËN NDËRKOMBËTARE PRIVATE 3. Nëse pas ditës së hyrjes në fuqi të këtij ligji abrogohet vendimi i shkallës së parë nga paragrafi 2 i këtij neni, procedura e mëtutjeshme do të zhvillohet sipas dispozitave për kompetencën dhe procedurën në çështjet me element ndërkombëtar dhe sipas dispozitave për njohjen e vendimeve të huaja gjyqësore të këtij ligji.

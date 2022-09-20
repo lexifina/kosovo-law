@@ -1,0 +1,10 @@
+# Neni 47
+Zgjedhja e të drejtës kompetente 1. Me përjashtim të dispozitave nga neni 42 deri në nenin 46 të këtij ligji, dhënësi i ushqimit dhe shfrytëzuesi i ushqimit mundet në çdo kohë të zgjedhin si kompetente për detyrimet e ushqimit njërën nga këto të drejta:
+1.1. të drejtën e cilit do shteti shtetas i të cilit është ndonjëra nga palët në momentin kur është bërë zgjedhja.
+1.2. të drejtën e cilit do shteti në të cilin ka qenë vendqëndrimi i zakonshëm i ndonjërës nga palët në momentin kur është bërë zgjedhja.
+1.3. të drejtën që palët e kanë zgjedhur si kompetente, ose të drejtën materiale e cila aplikohet në marrëdhëniet e tyre pronësore.
+1.4. të drejtën që palët e kanë zgjedhur si kompetente, ose të drejtën materiale që aplikohet te shkurorëzimi i tyre dhe ndarja juridike.
+2. Marrëveshja për zgjedhjen e të drejtës kompetente patjetër duhet të jetë e përpiluar me shkrim dhe e nënshkruar nga të dyja palët, ose të jetë e regjistruar në çfarë do mënyre që mundëson përmbajtja të shfrytëzohet dhe palët të mund më vonë të thirren në atë marrëveshje.
+3. Paragrafi 1 i këtij neni nuk aplikohet ndaj detyrimeve për ushqim për persona më të ri se 18 vjet ose ndaj personit madhor i cili për shkak të paaftësisë personale ose për shkak të pamundësisë nuk është në gjendje t’i mbroj interesat e veta.
+LIGJI NR.08/L-028 PËR TË DREJTËN NDËRKOMBËTARE PRIVATE 4. Pavarësisht se cila e drejtë është zgjedhur si kompetente konform paragrafit 1 të këtij neni, në mundësinë e heqjes dorë nga ushqimia e shfrytëzuesit të ushqimit aplikohet e drejta e shtetit në të cilin pranuesi i ushqimit ka pasur vendqëndrim të zakonshëm në kohën kur është zgjedhur e drejta kompetente.
+5. E drejta të cilën palët e kanë zgjedhur si kompetente konform paragrafit 1 të këtij neni, nuk do të aplikohet nëse aplikimi i asaj të drejte dukshëm do të shkaktonte pasoja të padrejta dhe të padëshirueshme për cilën do qoftë palë, përveç nëse në momentin e zgjedhjes të drejtës palët kanë qenë në detaje të informuara dhe kanë qenë të vetëdijshme për pasojat e asaj zgjedhjeje.

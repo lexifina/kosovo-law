@@ -1,0 +1,3 @@
+# Neni 46
+Zgjedhja e të drejtës kompetente për procedurën konkrete 1. Përjashtimisht nga dispozitat e neneve 42 deri në nenin 45 të këtij ligji, vetëm për nevojat e procedurës konkrete dhënësi dhe shfrytëzuesi i ushqimit, munden shprehimisht ta zgjedhin si kompetente për dhënien e ushqimit të drejtën e shtetit ku zhvillohet procedura.
+2. Marrëveshja për zgjedhjen e të drejtës kompetente e lidhur para se të zhvillohet procedura patjetër duhet të jetë në formë të shkruar dhe e nënshkruar nga të dy palët, ose të jetë e regjistruar në cilën do qoftë mënyrë dhe të mundësojë qasje për shfrytëzim dhe thirrje në atë marrëveshje.

@@ -1,0 +1,2 @@
+# Article 119
+Exceptional jurisdiction In exceptional circumstances, if this Law does not provide for jurisdiction of a court or other authority of the Republic of Kosovo, the court or other authority of the Republic of Kosovo may hear the case if the proceedings cannot be initiated abroad or when it would be unreasonable to demand that the action be brought abroad, provided that the dispute is sufficiently connected with the Republic of Kosovo.

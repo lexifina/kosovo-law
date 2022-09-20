@@ -1,0 +1,4 @@
+# Neni 153
+Sigurimi i shpenzimeve procedurale (cautio iudicatum solvi) 1. Nëse personi pa shtetësi i cili nuk ka vendbanim në Republikën e Kosovës, shtetasi i huaj ose personi juridik i cili nuk është i regjistruar në regjistrin e Republikës së Kosovës e fillon procedurën para gjykatës së Republikës së Kosovës, është i detyruar që të paditurit, me kërkesën e tij t’ia sigurojë shpenzimet e procedurës.
+2. I padituri është i detyruar që kërkesën nga paragrafi 1 i këtij neni ta parashtroj më së voni në seancën përgatitore, nëse seanca përgatitore nuk është mbajtur në seancën e parë për shqyrtimin kryesor para se të lëshohet në seancë për çështjen kryesore, përkatësisht pasi ka kuptuar se ka prezumime për kërkimin e sigurimit të shpenzimeve.
+3. Sigurimi i shpenzimeve gjyqësore jepet në para, por gjykata mund të lejoj që sigurimi të jepet edhe në formë tjetër të përshtatshme.

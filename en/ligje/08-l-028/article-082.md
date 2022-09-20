@@ -1,0 +1,3 @@
+# Article 82
+Consent and material validity 1. The existence and material validity of a contract, or of any term of a contract, shall be determined by the law which would govern it under this Law if the contract or term were valid.
+LAW NO. 08/L -028 ON PRIVATE INTERNATIONAL LAW 2. Nevertheless, a party, in order to establish that he/she did not consent, may rely upon the law of the state in which he/she has his/her habitual residence if it appears from the circumstances that it would not be reasonable to determine the effect of his/her conduct in accordance with the law specified in paragraph 1 of this Article.

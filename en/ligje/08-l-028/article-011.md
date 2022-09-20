@@ -1,0 +1,4 @@
+# Article 11
+Determination of the content of foreign law 1. The court or other competent authority shall ex officio determine the content of the foreign applicable law. The court or other competent authority may resort to the methods provided for in international agreements, may request information regarding the content of the foreign law from the authority of state administration responsible for justice matters, or request an expert opinion. 2.The parties to the proceedings may submit a public document or an expert opinion on the content of the foreign law.
+3. Upon choice of the applicable law, the court or other authority may order a party which bases motions or objections on foreign law to assist in the determination of the content of the said law.
+4. If the content of a foreign law cannot be determined in manners provided in paragraphs 1, 2 and 3 of this Article, the law of the Republic of Kosovo shall apply.

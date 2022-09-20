@@ -1,0 +1,4 @@
+# Neni 89
+Vendqëndrimi i zakonshëm 1. Sipas dispozitave të këtij nënkapitulli konsiderohet se vendqëndrimi i zakonshëm i shoqërive tregtare, fondacioneve dhe shoqatave, pavarësisht se a janë persona juridik ose organizata që nuk kanë cilësi të personave juridik, është në vendin ku gjendet selia kryesore. Kur veprimi nga
+LIGJI NR.08/L-028 PËR TË DREJTËN NDËRKOMBËTARE PRIVATE i cili shkaktohet dëmi kryhet, ose dëmi shkaktohet nga veprimtaria e degës, përfaqësisë, filialës ose nga ndonjë njësie tjetër afariste, vendi i selisë së asaj njësie afariste do të konsiderohet si vendqëndrim i zakonshëm.
+2. Për qëllimet e këtij nënkapitulli, si vendqëndrim i zakonshëm i personit fizik i cili ushtron veprimtari tregtare konsiderohet vendi kryesor ku ai e ushtron veprimtarinë. NËNKAPITULLI XIII MARRËDHËNIET JOKONTRAKTORE : DETYRIMET JOKONTRAKTORE TË SHKAKTUARA NGA VEPRIMI I DËMSHËM

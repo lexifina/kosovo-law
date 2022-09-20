@@ -1,0 +1,3 @@
+# Article 163
+Final decision on the same matter between the same parties 1. A foreign judgment shall not be recognized if on the same matter the court or other authority of the Republic of Kosovo has rendered a final decision or if another foreign judgment has been recognized in the Republic of Kosovo that was rendered for the same matter and between the same parties.
+2. If a proceeding is pending before the court of the Republic of Kosovo, initiated earlier, on the same matter and between the same parties, the court shall stay the recognition procedure of the foreign judgment until the final conclusion of those proceedings.

@@ -1,0 +1,3 @@
+# Neni 166
+Mosrespektimi i të drejtës në mbrojtje 1. Gjykata e Republikës së Kosovës do ta refuzoj njohjen e vendimit të huaj gjyqësor, nëse njëra nga palët dëshmon se:
+1.1. për shkak të parregullsive në procedurë, nuk ka mundur të mbrohet në procedurë; ose 1.2. ftesa, padia ose vendimi me të cilin fillohet procedura nuk i janë dorëzuar personalisht, përkatësisht nuk është bërë përpjekje për dorëzim personal, përveç nëse ai/ajo është lëshuar në shqyrtim për çështjen kryesore në procedurën e shkallës së parë; ose 1.3. nuk është lënë kohë e mjaftueshme për përgatitjen e mbrojtjes nga momenti i dorëzimit të padisë deri në momentin e caktimit të seancës.

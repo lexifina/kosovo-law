@@ -1,0 +1,2 @@
+# Article 7
+Domicile of natural persons 1.For the purposes of this Law, the domicile of a natural person is deemed to be the place where that person has settled with intention to live there permanently. 2.A natural person is presumed to have established a domicile in the State where his/her domicile is registered. 3.Where the registration referred to in paragraph 2 of this Article was made in several States, a natural person is deemed to be domiciled in the State in which the registration was made and to which the person is most closely connected.

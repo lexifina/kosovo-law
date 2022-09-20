@@ -1,0 +1,4 @@
+# Article 64
+Real rights in respect of movable property 1. The acquisition and loss of a real right in respect of movable property shall be governed by the law of the state on the territory of which the movable property is located when the action or facts that are invoked as basis of the acquisition or the termination occur.
+2. Where particular actions or circumstances, that are prerequisite to the acquisition or loss of a real right in respect of movable property, were initiated in one state, they shall be deemed also consummated in another state where the last action or circumstance occurred thereby initiating acquisition or termination of the real right.
+LAW NO. 08/L -028 ON PRIVATE INTERNATIONAL LAW 3. The content and exercise of the real right in respect of movable property shall be governed by the law of the state on the territory of which the movable property is located.

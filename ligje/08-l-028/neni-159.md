@@ -1,0 +1,2 @@
+# Neni 159
+Kushtet dhe parimet e ekzekutimit të vendimeve të huaja gjyqësore 1. Kushtet për njohjen dhe ekzekutimin e vendimeve të huaja gjyqësore, nga Gjykata kompetente e Republikës së Kosovës janë të njëjta, me përjashtim të parimit të reciprocitetit, i cili vlen si kusht, vetëm për ekzekutimin e vendimeve të huaja gjyqësore 2. Kushti i parimit të reciprocitetit sipas paragrafit 1 të këtij neni, përjashtohet në ato raste kur, njëra nga palët është shtetas i Republikës së Kosovës, apo ka vendbanim apo vendqëndrim të zakonshëm në Republikën e Kosovës.

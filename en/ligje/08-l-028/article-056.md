@@ -1,0 +1,5 @@
+# Article 56
+The applicable law on the admissibility and material validity of testament or other forms of disposition of property upon death 1.The competent right for the admissibility and material validity of the testament or other form of disposition of property upon death, shall be the right which, according to this Law, would be competent for the inheritance of the person that has made the testament as he died on the day in which the act of disposition has been made.
+2. Notwithstanding paragraph 1 of this Article, a person may choose as the law to govern the existence, material validity, effects and interpretation of the testament in accordance with Article 54 of this Law.
+3. Paragraph 1 of this Article shall apply, as appropriate, to the modification or revocation of a testament or other form of disposition of property upon death. In the event of a choice of law in accordance with paragraph 2 of this Article, the modification or revocation shall be governed by the chosen law. 4.This Article does not apply to agreements as to succession.
+LAW NO. 08/L -028 ON PRIVATE INTERNATIONAL LAW

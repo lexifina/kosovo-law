@@ -1,0 +1,2 @@
+# Neni 19
+Aftësia e veprimit të personit fizik i cili ushtron veprimtari tregtare Për aftësinë e veprimit të personit fizik që të ushtrojë veprimtari tregtare pa themelim të personit juridik kompetente është e drejta e shtetit ku ai person është i regjistruar si ndërmarrës. Nëse regjistrimi nuk është i nevojshëm, kompetente është e drejta e shtetit në të cilin personi fizik e ka vendin kryesor të veprimtarisë.

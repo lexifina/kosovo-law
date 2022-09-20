@@ -1,0 +1,4 @@
+# Article 153
+Security for costs (cautio iudicatum solvi) 1. If a stateless person who is not habitually resident in the Republic of Kosovo, or a foreign national or a legal person who is not registered in the registry of the Republic of Kosovo, initiates proceedings before a court in the Republic of Kosovo he/she shall at the defendant’s request be obliged to deposit security for costs in favour of the defendant.
+2. The defendant is obliged to make the request referred to in paragraph 1 of this Article not later than in the preparatory hearing and, if the preparatory hearing has not been held, at the first hearing on the merits before he/she pleads to the merits, or as soon as he/she has learned that there are conditions for requesting the security.
+3. The security for costs shall be provided in money, but the court may approve the provision of security also in another suitable form.

@@ -1,0 +1,2 @@
+# Neni 32
+Aplikimi i së drejtës së Republikës së Kosovës Kur e drejta kompetente e caktuar sipas nenit 29 apo 31 të këtij ligji nuk e parasheh mundësinë e shkurorëzimit të martesës, ose nuk mundëson të drejtë të barabartë për shkurorëzim në bazë të gjinisë së bashkëshortëve, kompetente është e drejta e Republikës së Kosovës. NËNKAPITULLI IV MARRËDHËNIET FAMILJARE: EFEKTET E MARTESËS - EFEKTET PERSONALE TË MARTESËS

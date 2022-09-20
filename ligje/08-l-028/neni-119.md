@@ -1,0 +1,2 @@
+# Neni 119
+Kompetenca e jashtëzakonshme Në raste të jashtëzakonshme, nëse ky ligj nuk parasheh kompetencë të gjykatës ose organit tjetër të Republikës së Kosovës, gjykata ose organi tjetër i Republikës së Kosovës mund të vendosë për një rast nëse procedura nuk mund të fillohet në një shtet tjetër apo do të ishte e paarsyeshme të kërkohet fillimi në një shtet tjetër, nëse marrëdhënia ka lidhje të mjaftueshme me Republikën e Kosovës.

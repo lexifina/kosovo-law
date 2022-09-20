@@ -1,0 +1,5 @@
+# Neni 65
+Bartja e sendeve të luajtshme në Republikën e Kosovës (konflikti mobil i ligjeve) 1. Nëse në sendin e luajtshëm i cili ndodhet në shtetin tjetër fitohet ndonjë e drejtë sendore dhe bartet në Republikën e Kosovës, e drejta sendore pranohet në Republikën e Kosovës nëse e drejta e Republikës së Kosovës e njeh të drejtën sendore e cila sipas përmbajtjes dhe efekteve juridike është adekuate më të drejtën sendore e cila është fituar në shtetin tjetër.
+2. Në përmbajtjen, shfrytëzimin dhe regjistrimin e të drejtës sendore në sendet e luajtshme nga paragrafi 1 i këtij neni aplikohet e drejta e Republikës së Kosovës.
+3. Nëse sipas të drejtës së Republikës së Kosovës është i domosdoshëm regjistrimi në regjistrin e të drejtave sendore nga paragrafi 1 i këtij neni në Republikën e Kosovës dhe nëse regjistrimi bëhet në afat prej gjashtëdhjetë (60) ditësh nga dita kur sendi ka arritur në Republikën e Kosovës, dita e regjistrimit në regjistër konsiderohet dita kur sendi ka arritur në Republikën e Kosovës.
+LIGJI NR.08/L-028 PËR TË DREJTËN NDËRKOMBËTARE PRIVATE

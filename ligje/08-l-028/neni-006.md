@@ -1,0 +1,4 @@
+# Neni 6
+Vendqëndrimi i zakonshëm i personave fizik 1. Për zbatimin e këtij ligji, vendqëndrim i zakonshëm i personit fizik konsiderohet vendi ku personi ka themeluar qendër të përhershme të aktiviteteve jetësore, pa marrë parasysh ndonjë formalitet për t’u regjistruar dhe pavarësisht lejes për qëndrim apo vendosje nga organet kompetente shtetërore.
+2. Gjatë caktimit të vendqëndrimit të zakonshëm sipas kuptimit të paragrafit 1 të këtij neni, duhet të merren parasysh posaçërisht rrethanat e karakterit personal ose profesional, të cilat tregojnë lidhjet e qëndrueshme të personit me atë vend, ose dëshirën që të krijohen lidhje të tilla.
+LIGJI NR.08/L-028 PËR TË DREJTËN NDËRKOMBËTARE PRIVATE 3. Pavarësisht paragrafëve 1 dhe 2 të këtij neni, për të përcaktuar vendqëndrimin e zakonshëm të personave fizik në kuadër të veprimtarisë së tyre tregtare, për marrëdhëniet nga nënkapitujt 6 dhe 7 i këtij ligji, zbatohen dispozitat e neneve 75 dhe 87 të këtij ligji.

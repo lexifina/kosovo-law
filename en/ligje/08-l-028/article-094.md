@@ -1,0 +1,2 @@
+# Article 94
+Liability for protest actions in employment relations (industrial action) Without prejudice to the provision of Article 88 paragraph 2 of this Law, the law applicable to a non-contractual obligation in respect of the liability of a person in the capacity of a worker or an employer or the organisations representing their professional interests for damages caused by a protest action of the workers or employers such as a strike or a lock out which are pending or carried out, shall be the law of the state where the action is to be, or has been, taken.

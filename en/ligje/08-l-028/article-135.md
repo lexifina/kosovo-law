@@ -1,0 +1,2 @@
+# Article 135
+International competence on issuing of a marriage permit to a minor On issuing a marriage permit to a minor, the court of the Republic of Kosovo shall also have jurisdiction if the applicant is a national of the Republic of Kosovo, or if one of the applicants is a national of the Republic of Kosovo, regardless of the domicile or habitual residence of persons who wish to enter into marriage.

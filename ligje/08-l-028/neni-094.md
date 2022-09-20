@@ -1,0 +1,2 @@
+# Neni 94
+Përgjegjësia nga veprimet e protestës në marrëdhënie të punës Pavarësisht nga dispozitat e nenit 88 paragrafit 2 të këtij ligji, e drejta kompetente për përgjegjësinë jokontraktore të personit në cilësinë e punëtorit ose punëdhënësit, ose të organizatave që i përfaqësojnë interesat e veta profesionale, për dëmin e shkaktuar nga protestat e punëtorëve ose punëdhënësve siç është greva ose llokaut (lock out), kompetente është e drejta e shtetit ku është ndërmarrë apo pritet të ndërmerret veprimi i protestës.

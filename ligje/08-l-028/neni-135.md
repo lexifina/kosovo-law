@@ -1,0 +1,2 @@
+# Neni 135
+Kompetenca ndërkombëtare për dhënien e lejes për lidhjen e martesës së personit të mitur Për dhënien e lejes për lidhjen e martesës personit të mitur, kompetente është gjykata e Republikës së Kosovës nëse parashtruesi i kërkesës është shtetas i Republikës së Kosovës, përkatësisht nëse njëri nga parashtruesit e kërkesës është shtetas i Republikës së Kosovës, pa marrë parasysh se ku e kanë vendbanimin apo vendqëndrimin personat që dëshirojnë të lidhin martesë.

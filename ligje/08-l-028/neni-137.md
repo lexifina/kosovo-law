@@ -1,0 +1,3 @@
+# Neni 137
+Adoptimi 1. Gjykata e Republikës së Kosovës është kompetente të vendos për adoptimin dhe pushimin e adoptimit nëse njëri nga adoptuesit ose i adoptuari është shtetas i Republikës së Kosovës, ose ka vendqëndrim të zakonshëm në Republikën e Kosovës, në momentin e inicimit të procedurës për adoptim.
+LIGJI NR.08/L-028 PËR TË DREJTËN NDËRKOMBËTARE PRIVATE 2. Nëse i adoptuari është shtetas i Republikës së Kosovës dhe ka vendqëndrim të zakonshëm në Republikën e Kosovës në momentin e inicimit të procedurës për adoptim, kompetenca e organit të Republikës së Kosovës për marrëdhëniet nga paragrafi 1 i këtij neni është ekskluzive. NËNKAPITULLI V DISPOZITAT E VEÇANTA: JURIDIKSIONI NË ÇËSHTJET E TRASHËGIMISË

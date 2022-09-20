@@ -1,0 +1,3 @@
+# Article 22
+Name 1.The name of a person and the change of the said name shall be governed by the law of the state of which the person is a national.
+2. The effect of the change of nationality on the name shall be determined by the law of the state whose nationality the person has acquired. Where such person is stateless, the effect of the change of his/her habitual residence on the name shall be determined by the law of the state in which the said person establishes his/her new habitual residence. 3.Notwithstanding paragraph 1 of this Article, the name and the change thereof may be governed by the law of the Republic of Kosovo, should this be requested by a person who is habitually resident in the Republic of Kosovo.

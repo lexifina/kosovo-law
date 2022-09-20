@@ -1,0 +1,10 @@
+# Neni 80
+Kontratat e konsumatorëve 1. Kontrata ndërmjet një personi që mund të konsiderohet jashtë zanatit apo profesionit të tij (konsumatorit) me një person tjetër i cili vepron në kuadër të zanatit apo profesionit të tij (ndërmarrësi) konsiderohet si kontratë e konsumatorëve.
+2. Pavarësisht neneve 78 dhe 79 të këtij ligji, për kontratën sipas paragrafit 1 të këtij neni kompetente është e drejta e shtetit në të cilën konsumatori e ka vendqëndrimin e zakonshëm, nëse tregtari:
+2.1. e ushtron veprimtarinë tregëtare ose profesionale në shtetin e vendqëdrimit të zakonshëm të konsumatorit; ose 2.2. në çfarëdo mënyre veprimtarinë e orienton drejt atij shteti ose drejt më tepër shteteve, ku është i përfshirë edhe ai shtet, kurse kontrata bën pjesë në lëminë e asaj veprimtarie.
+3. Pavarësisht nga dispozita e paragrafit 2 të këtij neni palët munden, në përputhje me nenin 75 të këtij ligji, ta zgjedhin të drejtën kompetente për kontratën me konsumatorin që i plotëson kushtet nga paragrafi 2 i këtij neni. Me atë zgjedhje palët nuk munden ta privojnë konsumatorin nga mbrojtja që ai e ka në bazë të dispozitave aplikimi i të cilave nuk mund të përjashtohet me kontratë, të përmbajtura në të drejtën e cila është kompetente sipas paragrafit 2 të këtij neni.
+LIGJI NR.08/L-028 PËR TË DREJTËN NDËRKOMBËTARE PRIVATE 4. Nëse kërkesat nga paragrafi 2 i këtij neni nuk janë plotësuar, e drejta kompetente për kontratat e konsumatorëve caktohet me aplikimin e dispozitave të neneve 75 dhe 76 të këtij ligji.
+5. Dispozitat nga paragrafët 2 dhe 3 të këtij neni nuk aplikohen te:
+5.1. kontratat për dhënien e shërbimeve, nëse ato shërbime i jepen konsumatorit vetëm në shtetin në të cilin ai nuk ka vendqëndrim.
+5.2. kontratat për transport, përveç për kontratat me të cilat me çmim unik ofrohet shërbim i kombinuar për udhëtim dhe vendosje.
+5.3. kontratat që kanë për objekt të drejta sendore në send të paluajtshëm, ose kanë me qira paluajtshmëri, përveç kontratës për shfrytëzim të kufizuar kohor të paluajtshmërisë (time sharing).

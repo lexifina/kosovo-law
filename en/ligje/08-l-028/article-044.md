@@ -1,0 +1,2 @@
+# Article 44
+Special rule with respect to spouses and ex-spouses In the case of a maintenance obligation between spouses, ex-spouses or parties to a marriage which has been annulled, Article 42 of this Law shall not apply if one of the parties objects and the law of another state, in particular the state of their last common habitual residence, has a closer connection with the marriage. In such a case the law of that other state shall apply.

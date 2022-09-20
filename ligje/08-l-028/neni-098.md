@@ -1,0 +1,4 @@
+# Neni 98
+Gjërimi i punëve të huaja pa autorizim (Negotiorum gestio) 1. Nëse detyrimi jokontraktor i krijuar nga gjërimi i punëve të huaja ndërlidhet me marrëdhënie ekzistuese midis palëve, siç është marrëdhënia e krijuar me kontratë ose nga efekti i dëmshëm, dhe nëse ajo marrëdhënie është ngushtë e lidhur me gjërimin e punëve të huaja pa autorizim, për atë detyrim kompetente është e drejta sipas të cilës rregullohet ajo marrëdhënie.
+2. Nëse e drejta kompetente te gjërimi i punëve të huaja pa autorizim nuk mund të caktohet sipas paragrafit 1 të këtij neni, kurse të dyja palët kanë pasur vendqëndrim të zakonshëm në shtetin e njëjtë në kohën kur ka ndodhur ngjarja e cila e ka shkaktuar dëmin, do të jetë kompetente e drejta e atij shteti.
+3. Nëse e drejta kompetente nuk mund të caktohet sipas paragrafëve 1 dhe 2 të këtij neni, kompetente do të jetë e drejta e shtetit në të cilin është kryer gjërimi i punëve të huaja pa autorizim.

@@ -1,0 +1,2 @@
+# Neni 130
+Kompetenca ekskluzive ndërkombëtare te kontestet për themelimin, pushimin dhe ndryshime statusore të personave juridik Gjykata e Republikës së Kosovës ka kompetencë ekskluzive te kontestet për plotfuqishmërinë e themelimit, pushimin dhe shpërbërjen e shoqërive tregtare apo personave të tjerë juridik apo organizatave të personave fizikë apo personave juridik, apo plotëfuqishmërinë e vendimeve të organeve të tyre, nëse shoqëria tregtare, personi tjetër juridik ose organizata e ka selinë në Republikën e Kosovës.

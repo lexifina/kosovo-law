@@ -1,0 +1,9 @@
+# Neni 147
+Kontratat e konsumatorëve 1. Gjykata e Republikës së Kosovës është kompetente edhe për kontestet te të cilat konsumatori e padit ndërmarrësin, nëse konsumatori ka vendbanim në Republikën e Kosovës.
+2. Për kontestet nga kontratat e konsumatorëve te të cilat ndërmarrësi është paditës, kurse konsumatori është i paditur, gjykata e Republikës së Kosovës ka kompetencë ekskluzive nëse konsumatori ka vendbanim në Republikën e Kosovës.
+3. Nga dispozitat e paragrafit 2 të këtij neni mund të bëhet shmangia vetëm në bazë të marrëveshjes për kompetencë e cila:
+3.1. është lidhur pas lindjes së kontestit;
+3.2. i mundëson konsumatorit i cili nuk ka vendbanim në Republikën e Kosovës të iniciojë procedurë para gjykatës së Republikës së Kosovës; ose 3.3. është lidhur midis konsumatorit dhe ndërmarrësit, ku në kohën e lidhjes së kontratës të dyja palët kanë pasur vendbanim ose vendqëndrim të zakonshëm në shtetin e njëjtë dhe parasheh kompetencë të gjykatës të atij shteti, me kusht që marrëveshja mos të jetë në kundërshtim me të drejtën e atij shteti.
+4. Dispozitat nga paragrafët 1, 2 dhe 3 të këtij neni aplikohen vetëm për kontestet nga:
+4.1. kontrata për shitjen e mallit me pagesë në këste; ose 4.2. kontrata për hua e cila kthehet me këste ose në cilëndo formë tjetër të kredisë të lejuar për shkak të financimit të shitjes së mallrave; ose 4.3. çdo rast tjetër te i cili kontrata lidhet me personin i cili kryen veprimtari tregtare ose profesionale në Republikën e Kosovës ose i cili e orienton veprimtarinë e atillë kah Republika e Kosovës ose kah më tepër shtete në mesin e të cilave është dhe Republika e Kosovës, kurse kontrata përfshihet në ato suaza.
+5. Dispozitat nga paragrafët 1, 2, 3 dhe 4 të këtij neni nuk aplikohen në kontratat për transport, përveç te kontratat te të cilat për çmim unik jepet shërbim i kombinuar për udhëtim dhe vendosje.

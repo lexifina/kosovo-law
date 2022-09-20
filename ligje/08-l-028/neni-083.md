@@ -1,0 +1,11 @@
+# Neni 83
+Plotfuqishmëria formale 1. Kontrata e lidhur midis palëve ose përfaqësuesve të tyre të cilët në momentin e lidhjes së kontratës gjenden në të njëjtin shtet për nga forma është e plotfuqishme nëse i plotëson kërkesat e parapara në:
+1.1. të drejtën e shtetit e cila është kompetente për përmbajtjen e kontratës sipas dispozitave të këtij neni; ose 1.2. të drejtën e shtetit në të cilin lidhet kontrata.
+LIGJI NR.08/L-028 PËR TË DREJTËN NDËRKOMBËTARE PRIVATE 2. Kontrata e lidhur midis palëve ose përfaqësuesve të tyre të cilët në momentin e lidhjes së kontratës nuk ndodhen në të njëjtin shtet, për nga forma është e plotfuqishme nëse i plotëson kërkesat e parapara në:
+2.1. të drejtën e shtetit e cila është kompetente për përmbajtjen e kontratës sipas dispozitave të këtij ligji; ose 2.2. të drejtës së ndonjërit nga shtetet ku cilado qoftë prej palëve ose përfaqësuesve të tyre ndodheshin në momentin e lidhjes së kontratës; ose 2.3. të drejtën e cilitdo nga shtetet në të cilat ndonjëra nga palët kanë pasur vendqëndrim të zakonshëm në momentin e lidhjes së kontratës.
+3. Puna e njëanshme juridike lidhur me kontratën që është lidhur ose duhet të lidhet, për nga forma është e plotfuqishme nëse i plotëson kushtet e parapara në:
+3.1. të drejtën e shtetit e cila sipas këtij ligji është kompetente ose do të ishte kompetente për përmbajtjen e kontratës; ose 3.2. të drejtën e shtetit ku puna e njëanshme juridike ndërmerret;
+3.3. të drejtën e shtetit ku pala e cila ka ndërmarr punën e njëanshme juridike ka pasur vendqëndrim të zakonshëm në kohën e ndërmarrjes së punës së njëanshme juridike.
+4. Pavarësisht nga dispozitat e paragrafëve 1, 2 dhe 3 të këtij neni për formën e kontratave të konsumatorëve, kompetente është e drejta e shtetit në të cilin konsumatori ka vendqëndrim të zakonshëm.
+5. Pavarësisht nga dispozitat e paragrafëve 1, 2, 3 dhe 4 të këtij neni, kontratat që u dedikohen të drejtave sendore mbi paluajtshmëri ose marrje me qira të paluajtshmërive për nga forma janë të plotfuqishme nëse i plotësojnë kushtet e parapara në të drejtën e shtetit ku gjendet paluajtshmëria, nëse sipas asaj të drejte ato kushte:
+5.1. vlejnë pavarësisht nga ajo se në cilin shtet lidhet kontrata, ose cila e drejtë është kompetente për kontratën; dhe 5.2. nga aplikimi i të cilës nuk mund të hiqet dorë me kontratë.

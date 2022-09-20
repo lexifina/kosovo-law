@@ -1,0 +1,2 @@
+# Article 161
+Exclusive jurisdiction of the court of the Republic of Kosovo A foreign judgment shall not be recognized if the court or other authority of the Republic of Kosovo has exclusive jurisdiction over the specific matter, unless this Law allows the parties to initiate proceedings before a foreign court for a specific dispute for which the court of the Republic of Kosovo has exclusive jurisdiction.

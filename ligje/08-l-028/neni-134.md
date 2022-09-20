@@ -1,0 +1,3 @@
+# Neni 134
+Kontestet mbi përkujdesjen prindërore 1. Te kontestet për përkujdesjen, rritjen dhe edukimin e fëmijëve të cilët janë nën përkujdesje prindërore, kompetente është gjykata ose organ tjetër i Republikës së Kosovës nëse:
+1.1. fëmija është shtetas i Republikës së Kosovës; ose 1.2. fëmija ka vendqëndrim të zakonshëm në Republikën e Kosovës; ose 1.3. fëmija, vendqëndrimi i zakonshëm i të cilit nuk mund të konstatohet, ose është refugjat, ose person ndërkombëtarisht i shpërngulur për shkak të ngjarjeve në shtetin e vendqëndrimit të tij të zakonshëm, ndodhet në territorin e Republikës së Kosovës.

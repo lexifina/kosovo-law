@@ -1,0 +1,5 @@
+# Neni 31
+E drejta kompetente për shkurorëzim në mungesë të zgjedhjes së palëve 1. Në mungesë të zgjedhjes sipas nenit 29 të këtij ligji, për shkurorëzimin e martesës kompetente është e drejta e shtetit ku të dy bashkëshortët e kanë pasur vendqëndrimin e zakonshëm në kohën e parashtrimit të padisë.
+2. Nëse bashkëshortët nuk kanë pasur vendqëndrim të zakonshëm në shtetin e njëjtë në kohën e parashtrimit të padisë, kompetente është e drejta e shtetit në të cilën ato e kanë pasur vendqëndrimin e zakonshëm të fundit, me kusht që të mos ketë kaluar mbi një (1) vit nga pushimi i atij qëndrimi deri në momentin e parashtrimit të padisë, edhe nëse njëri nga bashkëshortët ka vendqëndrim të zakonshëm në atë shtet në momentin e parashtrimit të padisë.
+LIGJI NR.08/L-028 PËR TË DREJTËN NDËRKOMBËTARE PRIVATE 3. Nëse kushtet nga paragrafët 1 dhe 2 të këtij neni nuk plotësohen, kompetente është e drejta e shtetit shtetësinë e të cilit e kanë të dy bashkëshortët në momentin e parashtrimit të padisë.
+4. Nëse kushtet nga paragrafët 1, 2 dhe 3 të këtij neni nuk janë plotësuar, kompetente është e drejta e Republikës së Kosovës.

@@ -1,0 +1,5 @@
+# Neni 56
+E drejta kompetente për pranueshmërinë dhe plotëfuqishmërinë materiale të testamentit apo formës tjetër të disponimit me pasuri në rast të vdekjes 1. Për pranueshmërinë dhe plotfuqishmërinë materiale të një testamenti apo forme tjetër të disponimit me pasuri pas vdekjes, kompetente është e drejta e cila, sipas këtij ligji, do të ishte kompetente për trashëgiminë e personit që e ka bërë testamentin sikur ai të vdiste në ditën në të cilën është bërë akti i disponimit.
+2. Pavarësisht nga paragrafi 1 i këtij neni, për ekzistimin, plotëfuqishmërinë materiale, efektet dhe interpretimin e testamentit trashëgimlënësi mundet ta zgjedh të drejtën kompetente konform nenit 54 të këtij ligji.
+3. Paragrafi 1 i këtij neni aplikohet edhe gjatë ndryshimit dhe revokimit të testamentit të hartuar më herët. Në rastin kur është zgjedhur e drejta kompetente konform paragrafit 2 të këtij neni, në dorëheqjen ose ndryshimin e atillë aplikohet e drejta e zgjedhur.
+4. Ky nen nuk zbatohet ndaj marrëveshjeve për trashëgimi.

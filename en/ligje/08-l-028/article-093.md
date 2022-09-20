@@ -1,0 +1,2 @@
+# Article 93
+Environmental damage The law applicable to a non-contractual obligation arising out of environmental damage or damage sustained by persons or property as a result of such damage shall be the law determined pursuant to Article 90, paragraph 1 of this Law, unless the person seeking compensation for damage chooses to base his/her claim on the law of the state in which the event giving rise to the damage occurred.

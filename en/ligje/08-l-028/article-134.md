@@ -1,0 +1,3 @@
+# Article 134
+Disputes on parental custody 1. The court or other authority of the Republic of Kosovo shall also have jurisdiction over disputes relating to the disputes, raising and education of the children that are under parental custody, if:
+1.1. the child is a national of the Republic of Kosovo; or 1.2. the child has his/her habitual residence in the Republic of Kosovo; or 1.3. the child, whose habitual residence cannot be determined, or who is a refugee, or an internationally displaced person due to events in his/her state of habitual residence, is located in the territory of the Republic of Kosovo.

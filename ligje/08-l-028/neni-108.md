@@ -1,0 +1,2 @@
+# Neni 108
+Forma e punëve juridike dhe e efekteve juridike Nëse me këtë ligj nuk është përcaktuar ndryshe konsiderohet se puna juridike apo veprimi juridik për nga forma janë të plotfuqishëm, nëse janë të plotfuqishëm qoftë sipas të drejtës së vendit ku lidhet puna juridike, përkatësisht ku ndërmerret veprimi juridik, qoftë sipas të drejtës e cila është kompetente për përmbajtjen e punës juridike, përkatësisht veprimit juridik.

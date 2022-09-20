@@ -1,0 +1,2 @@
+# Article 61
+Interpretation and application of provisions of this sub-chapter The provisions contained in this sub-chapter of this Law shall be interpreted and applied in accordance with EU Regulation No. 650/2012 of the European Parliament and of the Council of 4 July 2012 on jurisdiction, applicable law, recognition and enforcement of decisions and acceptance and enforcement of authentic instruments in matters of succession and on the creation of a European Certificate of Succession.

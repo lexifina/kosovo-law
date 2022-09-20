@@ -1,0 +1,3 @@
+# Neni 163
+Vendimi i plotfuqishëm për çështjen e njëjtë midis palëve të njëjta 1. Vendimi i huaj gjyqësor nuk do të njihet nëse për çështjen e njëjtë gjykata ose organ tjetër i Republikës së Kosovës ka nxjerrë vendim të plotfuqishëm ose nëse në Republikën e Kosovës është njohur ndonjë vendim tjetër i huaj gjyqësor që është nxjerrë për çështjen e njëjtë dhe midis palëve të njëjta.
+2. Gjykata do ta ndërprej procedurën e njohjes së vendimit të huaj gjyqësor nëse para gjykatës së Republikës së Kosovës është në zhvillim e sipër procedura e filluar më herët për çështje të njëjtë dhe midis palëve të njëjta deri në përfundimin e plotfuqishëm të procedurës.

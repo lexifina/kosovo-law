@@ -1,0 +1,3 @@
+# Article 144
+Disputes related to aircrafts or ships 1. The court of the Republic of Kosovo shall have jurisdiction in disputes regarding real rights on aircrafts or ships and disputes on rental of an aircraft or a ship, provided that the register, in which the aircraft or the ship is registered, is kept in the territory of the Republic of Kosovo.
+2. The court of the Republic of Kosovo shall have jurisdiction regarding disputes on obstruction to possession of an aircraft or a ship referred to in paragraph 1 of this Article, provided that the register, in which the aircraft or the ship is registered, is held in the territory of the Republic of Kosovo, or the obstruction has occurred in the territory of the Republic of Kosovo.

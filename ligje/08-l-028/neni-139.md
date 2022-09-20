@@ -1,0 +1,3 @@
+# Neni 139
+Kompetenca sipas vendit ku ndodhet trashëgimia 1.Gjykata e Republikës së Kosovës është kompetente për shqyrtimin e trashëgimisë edhe në rastet kur trashëgimlënësi në momentin e vdekjes nuk ka pasur vendbanim ose vendqëndrim të zakonshëm në Republikën e Kosovës, nëse një pjesë ose e tërë masa trashëgimore ndodhet në Republikën e Kosovës, dhe nëse:
+1.1. e drejta e Republikës së Kosovës është zgjedhur si e drejtë kompetente për shqyrtimin e trashëgimisë nga ana e trashëgimlënësit në pajtim me nenin 54 të këtij ligji; ose 1.2. trashëgimlënësi në momentin e vdekjes ka qenë shtetas i Republikës së Kosovës; ose 1.3. aplikimi i këtij neni bëhet vetëm ndaj asaj trashëgimie.

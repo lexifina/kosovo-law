@@ -1,0 +1,3 @@
+# Article 139
+Jurisdiction based on the location of the estate 1. The court of the Republic of Kosovo shall also have jurisdiction to decide on the succession when the deceased did not have habitual residence in the Republic of Kosovo at the time of death, provided that assets of the estate or the entire estate are/is located in the Republic of Kosovo, and if:
+1.1. the law of the Republic of Kosovo has been chosen as the applicable law to the succession by the deceased in accordance with Article 54 of this Law; or 1.2. the deceased had the nationality of the Republic of Kosovo at the time of death; or 1.3. the application of this Article is only intended for that estate.

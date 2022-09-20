@@ -1,0 +1,3 @@
+# Neni 15
+Dispozitat me aplikim të drejtpërdrejtë 1. Dispozitat e të drejtës së Republikës së Kosovës aplikimi i të cilave konsiderohet vendimtar për mbrojtjen e interesit publik siç janë sistemi politik, shoqëror ose ekonomik i shtetit, aplikohen në të gjitha rastet që bien brenda fushëveprimit të tyre, pavarësisht të drejtës që do të ishte rëndom kompetente.
+2. Përjashtimisht, gjykata mund t’i merr parasysh edhe normat e aplikimit të drejtpërdrejtë të shtetit tjetër me të cilat çështja ka lidhmëri më të ngushtë. Gjatë vendosjes për aplikimin e tyre, gjykata duhet të marrë parasysh qëllimin dhe pasojat nga aplikimi ose mos aplikimi i tyre.

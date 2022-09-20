@@ -1,0 +1,3 @@
+# Article 107
+Burden of proof 1. The law governing a contractual or non-contractual obligation shall apply to the extent that, in matters of contractual or non-contractual obligations, it contains rules which raise presumptions of law or determine the burden of proof.
+LAW NO. 08/L -028 ON PRIVATE INTERNATIONAL LAW 2. A contract or an act intended to have legal effect may be proved by any mode of proof recognized by the law of the Republic of Kosovo or by any of the laws referred to in Article 83 of this Law under which that contract or act is formally valid, provided that such mode of proof can be administered by the court of the Republic of Kosovo.

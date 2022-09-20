@@ -1,0 +1,2 @@
+# Neni 61
+Interpretimi dhe aplikimi i dispozitave nga ky sekcion Dispozitat nga ky nënkapitull do të interpretohen dhe aplikohen konform me Rregulloren e BE-së Nr. 650/2012 të Parlamentit Evropian dhe të Këshillit nga 4 korriku i vitit 2012 për kompetencën, të drejtën kompetente, njohjen dhe ekzekutimin e vendimeve, pranimin dhe ekzekutimin e instrumenteve autentike në çështjet e trashëgimisë dhe të formimit të çertifikatës evropiane për trashëgimi. NËNKAPITULLI IX TË DREJTAT SENDORE
