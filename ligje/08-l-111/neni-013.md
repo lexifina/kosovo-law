@@ -1,0 +1,8 @@
+# Neni 13
+Dorëzim-pranimi i materialit arkivor 1. Institucionet publike që hyjnë në fushëveprimin e këtij Ligji obligohen që brenda afatit ligjor ta dorëzojnë të gjithë materialin arkivor në Agjenci.
+2. Fondkrijuesit dhe fondposeduesit janë të obliguar që materialin arkivor, më të vjetër se tridhjetë (30) vjet nga viti i krijimit, ta dorëzojnë në Agjenci.
+3. Në rastet e veçanta, përkatësisht kur rrezikohet materiali arkivor si dhe në rastet kur shuhet veprimtaria e fondkrijuesit, dorëzimi i materialit arkivor mund të bëhet para afatit të përcaktuar në paragrafin 2 të këtij neni.
+4. Materiali arkivor dorëzohet nga krijuesi ose poseduesi, i regjistruar dhe i evidentuar në pajtim me rregullat dhe normat tekniko-profesionale dhe metodologjike për evidentimin, dorëzimin dhe pranimin e materialit arkivor.
+5. Nëse materiali arkivor nuk është i rregulluar sipas standardeve dhe kritereve profesionale, atëherë, Agjencia e përcakton afatin brenda të cilit poseduesi obligohet ta rregullojë masën e materialit arkivor në përputhje me udhëzimet profesionale të Agjencisë. Nëse poseduesi, për arsye të ndryshme, nuk i zbaton udhëzimet profesionale për rregullimin e materialit, Agjencia mund të marrë përsipër të bëjë një gjë të tillë, por vetëm me shpenzimet e poseduesit.
+6. Shpenzimet nga paragrafi 5 i këtij neni llogariten sipas tarifës së paraparë me rregullore të brendshme, të cilin e harton Agjencia dhe e miraton Ministria përkatëse për Kulturë.
+7. Procedura e dorëzim – pranimit të materialit arkivor rregullohet me akt nënligjor, të cilin e harton Agjencia dhe e miraton Ministria përkatëse për Kulturë.

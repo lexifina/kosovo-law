@@ -1,0 +1,8 @@
+# Article 13
+Handover-receipt of archival material 1. Public institutions within the scope of this Law are obliged to handover all archival material to the Agency within the legal deadline.
+2. The fundcreators and fundpossessers are obliged to handover to the Agency the archival material older than thirty (30) years from the year of creation.
+3. In special cases, respectively when the archival material is endangered as well as in cases when the activity of the fund creator is extinguished, the handover of the archival material can be done before the deadline defined in paragraph 2. of this Article.
+4. The archival material is handed over by the creator or possessor registered and evidenced in accordance with the rules and technical-professional and methodological norms for evidencing, handing over and receiving the archival material.
+5. If the archival material is not arranged according to the methodology and professional criteria, then, the Agency shall determine the deadline within which the possessor is obliged to arrange the amount of archival material in accordance with the professional instructions of the Agency. If the possessor, for various reasons, does not follow the professional instructions for arranging the material, the Agency may undertake to do so, but only at the expense of the possessor.
+6. Expenses from paragraph 5. of this Article are calculated according to the fee provided by internal regulations, which is drafted by the Agency and approved by the and approved by the relevant Ministry of Culture.
+7. The procedure of handover-receipt of archival material is regulated by a sub-legal act, which is drafted by the Agency and approved by the relevant Ministry for Culture.
