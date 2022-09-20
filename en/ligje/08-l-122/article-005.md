@@ -1,0 +1,4 @@
+# Article 5
+Transitional Provisions 1. The existing staff and property of the Office for the Registration of Political Parties shall be transferred into the new Office as established by this Law.
+2. Not later than thirty (30) days from entry into force of this Law, a public announcement shall be made for application of candidates for the position of Director of the Office for Registration and Certification of Political Entities. The selection procedure of the Director ends within three (3) months from entry into force of this Law.
+LAW NO. 08/L-122 ON AMENDING AND SUPPLEMENTING THE LAW NO. 03/L-174 ON FINANCING THE POLITICAL PARTIES, AMENDED AND SUPPLEMENTED BY THE LAW NO. 04/L-058 AND LAW NO. 04/L-122 AND THE LAW NO. 03/L-073 ON GENERAL ELECTIONS IN THE REPUBLIC OF KOSOVO, AMENDED AND SUPPLEMENTED BY THE LAW NO. 03/L-256

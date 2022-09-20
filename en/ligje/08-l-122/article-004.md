@@ -1,0 +1,2 @@
+# Article 4
+Repeal With the entry into force of this Law, all legal provisions stipulated in the Law no. 03/L-174 on the Financing of Political Entities, as amended and supplemented by the Law no. 04/L-058, Law no. 04/L-122 and Law no. 03/L-073 on General Elections in the Republic of Kosovo, amended and supplemented by the Law no. 03/L-256 that conflict with provisions of this Law shall be repealed.

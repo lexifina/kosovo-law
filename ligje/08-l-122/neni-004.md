@@ -1,0 +1,2 @@
+# Neni 4
+Shfuqizimi Me hyrjen në fuqi të këtij ligji shfuqizohen të gjitha dispozitat ligjore që bien ndesh me dispozitat e këtij ligji dhe të përcaktuara me Ligjin Nr. 03/L-174 për Financimin e Subjekteve Politike, të ndryshuar dhe plotësuar me Ligjin Nr. 04/L-058, Ligjin Nr. 04/L-122 dhe Ligjin Nr. 03/L-073 për Zgjedhjet e Përgjithshme në Republikën e Kosovës, të ndryshuar dhe plotësuar me Ligjin Nr. 03/L-256.
