@@ -1,0 +1,7 @@
+# Article 41
+After Article 99 of the basic Law, a new Article 99/A shall be added with the following text:
+LAW NO. 08/L-063 ON AMENDING AND SUPPLEMENTING THE LAWS RELATED TO THE RATIONALIZATION AND ESTABLISHMENT OF ACCOUNTABILITY LINES OF THE INDEPENDENT AGENCIES Article 99/A Transitional Provisions 1. Within six (6) months after the entry into force of this Law, the CAA shall draft and adopt the Regulation on internal organization in accordance with the legislation in force on the organization and functioning of the state administration and independent agencies.
+2. Upon entry into force of this Law, the mandate of the members of the Board shall cease.
+3. CAA employees shall continue to have the civil servant status even after this Law enters into force.
+4. Director General and Deputy Director General of CAA appointed according to the basic Law, shall continue to exercise their mandate even after this Law enters into force. His/her status and mandate is regulated with the respective Law on Public Officials and the respective Law on the Organization and Functioning of State Administration and Independent Agencies.
+5. In the entire text of the Law No. 03/L-051 on Civil Aviation, the designation “Ministry of Transport and Telecommunication” shall be replaced with the designation “responsible Ministry for Transport” 6. Within six (6) months, the remaining sub-legal acts under the basic Law shall be prepared, harmonized and approved by the Minister.

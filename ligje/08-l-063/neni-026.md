@@ -1,0 +1,2 @@
+# Neni 26
+Pas nenit 27 të Ligjit bazik shtohet një nen i ri 27/A si në vijim: Neni 27/A Mbikëqyrja e Akademisë Mbikëqyrja e Akademisë së Drejtësisë bëhet nga Këshilli Drejtues. Gjatë mbikëqyrjes zbatohen përshtatshmërisht neni 29, 30 dhe 31 i Ligjit Nr. 06/L -113 për organizimin dhe funksionimin e administratës shtetërore dhe të Agjencive të Pavarura, që rregullojnë pjesët që kanë të bëjnë me Agjencitë Ekzekutive.
