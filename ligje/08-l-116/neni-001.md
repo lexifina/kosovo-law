@@ -1,0 +1,3 @@
+# Neni 1
+Qëllimi 1. Qëllimi i këtij ligji është ndryshimi dhe plotësimi i Ligjit Nr.04/L-197 për Kimikate, (në tekstin në vijim ligji bazik).
+2. Ky Ligj është pjesërisht në përputhje me Rregulloren (KE) Nr. 1907/2006 e Parlamentit Evropian dhe e Këshillit e 18 Dhjetor 2006 në lidhje me Regjistrimin, Vlerësimin, Autorizimin dhe Kufizimin e Kimikateve (REACH), krijimin e një Agjencie Evropiane të Kimikateve, ndryshimin e Direktivës 1999/45/EC dhe shfuqizimin Rregullorja e Këshillit (EEC) Nr. 793/93 dhe Rregullorja e Komisionit (KE) Nr. 1488/94, si dhe Direktiva e Këshillit 76/769/EEC dhe Direktivat e Komisionit 91/155/EEC, 93/67/EEC, 93/105/EC dhe 2000/21/EC, duke përfshire të gjitha ndryshimet dhe korrigjimet në REACH të miratuar deri me tani.

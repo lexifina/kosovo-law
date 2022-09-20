@@ -1,0 +1,2 @@
+# Article 2
+1. Article 1 of the basic law shall be amended and supplemented as follows: The purpose of this law is to set out the conditions for placing on the market of hazardous substances, the procedure for obtaining a permit of chemicals, conditions for classification, labeling, packaging, import of hazardous chemicals, the responsibilities of the competent authority for the implementation, control, reporting and monitoring of this law as well as the administration, supervision and control of detergents.

@@ -1,0 +1,2 @@
+# Neni 2
+1. Neni 1 i ligjit bazik, ndryshohet dhe plotësohet, si në vijim: Qëllimi i këtij ligji është përcaktimi i kushteve për vendosjen në treg të kimikateve të rrezikshme, procedura e paisjes me leje për kimikate, kushtet për klasifikim, etiketim, paketim, import të kimikateve të rrezikshme, përgjegjësitë e autoritetit kompetent për zbatimin, kontrollin, raportimin dhe monitorimin e këtij ligji si dhe administrimin, mbikqyrjen dhe kontollin e detergjentëve.
