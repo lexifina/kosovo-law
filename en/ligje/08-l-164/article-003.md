@@ -1,0 +1,2 @@
+# Article 3
+Entry into force This law enters into force on the day of its publication in the Official Gazette of the Republic of Kosovo Law No. 08/L-100 21 January 2022 Promulgated by Decree No. DL-309/2022 dated 14.10.2022 President of the Republic of Kosovo Vjosa Osmani-Sadriu __________________________________ *Annex of the Law No. 08/L-164, “On the Ratification of the Addendum No.2 to Financing Agreement between the Republic of Kosovo and the European Union on IPA 2018 Programme.” attached to the law is published in the website of the Official Gazette (gzk. rks-gov.net)
