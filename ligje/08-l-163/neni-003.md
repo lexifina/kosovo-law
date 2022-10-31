@@ -1,0 +1,2 @@
+# Neni 3
+Hyrja në fuqi Ky ligj hyn në fuqi në ditën e publikimit në Gazetën Zyrtare të Republikës së Kosovës. Ligji Nr. 08/L-163 14 tetor 2022 Shpallur me dekretin Nr. DL-314/2022, datë 27.10.2022 nga Presidentja e Republikës së Kosovës Vjosa Osmani-Sadriu _____________________________ *Tabelat e Ligjit nr. 08/L-163 “Për Ratifikimin e “Amendamentimit 2 të Marrëveshjes financiare ndërmjet Republikës së Kosovës dhe Bashkimit Evropian për Programin IPA 2015” bashkangjitur me ligj janë publikuar në web faqen e Gazetës Zyrtare (gzk.rks-gov.net)
