@@ -1,0 +1,3 @@
+# Article 3
+Entry into force This law enters into force the day of the publication in the Official Gazette of the Republic of Kosovo. Law No. 08/L-170 14 October 2022
+Promulgated by Decree No. DL-312/2022 dated 27.10.2022 President of the Republic of Kosovo Vjosa Osmani-Sadriu __________________________________ *Annex of the Law No. 08/L-170, “On Ratification of the agreement between the Republic of Kosovo, represented by the Ministry of Finance, Labour and Transfers and the European Union on the participation of Kosovo in ‘Customs’, the Union programme for cooperation in the field of customs.” attached to the law is published in the website of the Official Gazette (gzk.rks-gov.net)
