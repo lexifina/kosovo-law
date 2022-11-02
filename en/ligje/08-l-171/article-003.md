@@ -1,0 +1,3 @@
+# Article 3
+Entry into force This law enters into force on the day of its publication in the Official Gazette of the Republic of Kosovo. Law No. 08/L-171 14 October 2022
+Promulgated by Decree No. DL-318/2022 dated 28.10.2022 President of the Republic of Kosovo Vjosa Osmani-Sadriu __________________________________ *Annex of the Law No. 08/L-171, “On Ratification of the Co-Financing Agreement for the Prizren Innovation and Training Park Project (PIT) between the Republic of Kosovo represented by the Ministry of Finance, Labor and Transfers and the Federal Republic of Germany represented by GIZ.
