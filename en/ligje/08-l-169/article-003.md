@@ -1,0 +1,3 @@
+# Article 3
+Entry into force This law enters into force the day of the publication in the Official Gazette of the Republic of Kosovo Law No. 08/L-169 14 October 2022
+Promulgated by Decree No. DL-320/2022 dated 28.10.2022 President of the Republic of Kosovo Vjosa Osmani-Sadriu __________________________________ *Annex of the Law No. 08/L-169, “On the Ratification of the agreement between the Republic of Kosovo, represented by the Ministry of Finance, Labour and transfers and the European Union on the participation of Kosovo in ‘Fiscalis’, the Union programme for cooperation in the field of taxation.” attached to the law is published in the website of the Official Gazette (gzk. rks-gov.net)
