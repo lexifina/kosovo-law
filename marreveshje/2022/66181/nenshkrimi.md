@@ -1,0 +1,3 @@
+Ligji Nr. 08/L-171 14 tetor 2022
+Shpallur me dekretin Nr. DL-318/2022, datë 28.10.2022 nga Presidentja e Republikës së Kosovës Vjosa Osmani-Sadriu
+_____________________________ *Tabelat e Ligjit nr. 08/L-171 “Për Ratifikimin e Marrëveshjes së Bashkëfinancimit për Projektin Parku i Inovacionit dhe Trajnimit Prizren (PIT) ndërmjet Republikës së Kosovës përfaqësuar nga Ministria e Financave, Punës dhe Transfereve dhe Republikës Federale të Gjermanisë Përfaqësuar nga GIZ”, bashkangjitur me ligj janë publikuar në web faqen e Gazetës Zyrtare (gzk.rks-gov.net)
