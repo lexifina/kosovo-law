@@ -1,0 +1,4 @@
+# Neni 16
+Kompensimi i shpenzimeve të varrimit 1. Anëtarët e familjes së viktimës së ndjerë kanë të drejtë në kompensim për shpenzimet e varrimit. Kompensimi sipas këtij neni paguhet në shumë fikse prej një mijë (1,000) euro.
+LIGJI NR. 08/L-109 PËR KOMPENSIMIN E VIKTIMAVE TË KRIMIT 2. Kompensimi për shpenzimet nga paragrafi 1 i këtij neni, mund të kërkohet si pjesë e kërkesës për kompensim të menjëhershëm ose të rregullt. Parashtruesi i kërkesës duhet të posedojë autorizimin e anëtarëve të tjerë të familjes për tërheqjen e këtij kompensimi.
+3. Përveç kompensimit të paraparë me paragrafin 1 të këtij neni parashtruesi i kërkesës mund të kërkojë edhe kompensim për shpenzimet e transportimit të kufomës së viktimës nga një shtet tjetër. Shpenzimet rreth këtij transporti duhen të jenë të dokumentuara.

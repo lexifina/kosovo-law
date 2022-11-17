@@ -1,0 +1,4 @@
+# Article 32
+Transmission and access to data 1. Administrators of personal information databases, state authorities, local community authorities and bodies exercising public powers, which possess data on relevant circumstances and facts required for decision-making, shall transfer the above-mentioned data to the Commission whenever requested in writing.
+2. Upon a written request from the Commission, data on circumstances and facts relevant to the decision-making, may also be submitted to the Commission voluntarily by individuals in possession of such data.
+3. Access to contents of the indictment, supporting documents, State Prosecution reports, and court decisions held by the Commission for decision-making purposes may be allowed only to members of the Commission, officials of the Commission Support Unit of the commission dealing with the application, the victim or his/her legal representative, authorized representative and competent state authorities.

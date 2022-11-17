@@ -1,0 +1,7 @@
+# Article 26
+Obligation to provide information 1. Every institution that comes into contact with the victim, shall have the obligation to inform him/her about the right to compensation under this Law.
+2. The Ministry of Justice shall publish the necessary information on how to apply for compensation, application forms and other necessary instructions on its website for all domestic and transboundary situations. The Ministry of Justice shall publish information about the compensation program. All information shall be published in line with the Law on the use of languages and in English.
+3. If necessary the Ministry of Justice, will provide general instructions to the applicants. The instructions will include information on how to complete the application and what supporting documentation may be needed.
+4. Whenever necessary the Ministry of Justice shall ensure the exchange of information with the competent authorities of other countries, competent for performing duties in compensation application procedures, in line with the regulations of the respective countries. The Ministry of Justice shall provide assistance and seek adequate solutions regarding implementation of provisions in transboundary situations.
+5. At the request of the Commission, the police shall provide data on the criminal offense from which the victim claims to have suffered.
+6. Healthcare and social institutions, police, prosecution, courts and institutions from local and central level should make information on Victim Compensation Program available in public places.
