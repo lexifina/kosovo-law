@@ -1,0 +1,3 @@
+Ligji Nr. 08/L-195 24 nëntor 2022
+Shpallur me dekretin Nr. DL-334/2022, datë 25.11.2022 nga Presidentja e Republikës së Kosovës Vjosa Osmani-Sadriu
+_____________________________ *Tabelat e Ligjit nr. 08/L-195 “Për Ratifikimin e Marrëveshjes ndërmjet Ministrisë së Mbrojtjes së Mbretërisë së Bashkuar të Britanisë së Madhe dhe Irlandës Veriore dhe Ministrisë së Mbrojtjes, në emër të Qeverisë së Republikës së Kosovës, lidhur me atashimin e personelit nga Forca e Sigurisë së Kosovës në Kompaninë Roulment të Këmbësorisë në ishujt Falkland.” bashkangjitur me ligj janë publikuar në web faqen e Gazetës Zyrtare (gzk.rks-gov.net)
