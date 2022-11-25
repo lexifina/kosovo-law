@@ -1,0 +1,3 @@
+Law No. 08/L-195 24 November 2022
+Promulgated by Decree No. DL-334/2022 dated 25.11.2022 President of the Republic of Kosovo Vjosa Osmani-Sadriu
+__________________________________ *Annex of the Law No. 08/L-195, “On Ratification of the agreement between the Ministry of Defence of the United Kingdom of Great Britain and Northern Ireland and the Ministry of Defence, on behalf of the Government of the Republic of Kosovo, related to the attachment of personnel from the Kosovo Security Force in the Falkland Islands to the Roulment Infantry Company.” attached to the law is published in the website of the Official Gazette (gzk.rks-gov.net)
