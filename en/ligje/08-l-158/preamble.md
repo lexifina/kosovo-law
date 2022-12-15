@@ -1,0 +1,8 @@
+LAW NO. 08/L-158
+ON AMENDING AND SUPPLEMENTING THE LAW NO. 06/L-122 ON
+THE MINISTRY OF DEFENSE
+The Assembly of the Republic of Kosovo;
+Based on Article 65 (1) of the Constitution of the Republic of Kosovo,
+Approves:
+LAW ON AMENDING AND SUPPLEMENTING THE LAW NO. 06/L-122 ON
+THE MINISTRY OF DEFENSE
