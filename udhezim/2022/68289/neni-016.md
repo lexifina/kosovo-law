@@ -1,0 +1,4 @@
+# Neni 16
+Depozitimi i ri i materialit biologjik
+1. Nëse materiali biologjik i depozituar në përputhje me nenin 13 të këtij Udhëzimi nuk është më në disponueshëm në institucionin e pranuar depozitues, ndërprerja e disponueshmërisë konsiderohet të mos ketë ndodhur nëse depozitimi i ri i atij materiali është bërë në një institucion tjetër depozitues të njohur, me të njëjtat kushte si ato të përcaktuara në Traktatin e Budapestit, dhe nëse:
+1.1. një kopje e dëftesës së depozitës së re, të lëshuar nga një institucion depozitues, i përcillet API-së brenda katër muajve nga data e depozitimit të ri, e cila përmban aplikimin për patentë ose numrin e patentës, dhe 1.2. depozitimi i ri shoqërohet me një deklaratë të nënshkruar nga depozituesi, e cila vërteton se materiali i ri biologjik i depozituar është i njëjtë me depozitën origjinale.

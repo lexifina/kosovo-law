@@ -1,0 +1,11 @@
+# Neni 13
+Depozitimi i materialit biologjik
+1. Nëse shpikja përfshin përdorimin ose ka të bëjë me materialin biologjik, i cili nuk është në dispozicion për publikun dhe që nuk mund të përshkruhet në aplikimin për patentë në mënyrën e cila mundëson realizimin e shpikjes nga një person i aftësuar në atë fushë, shpikja konsiderohet të jetë shpalosur në përputhje me nenin 55 paragrafi 1 të Ligjit perkates për Patentat, nëse:
+1.1. një mostër e materialit biologjik është depozituar në ndonjë institucion të njohur si institucion depozitues, në të njëjtat kushte si ato të përcaktuara në Traktatin e Budapestit për Njohjen Ndërkombëtare të Depozitimit të Mikroorganizmave për Qëllime të Procedurës së Patentës, më 28 prill 1977, dhe atë jo më vonë se data e dorëzimit të aplikimit;
+1.2. aplikimi i dorëzuar jep informata relevante që janë në dispozicion të aplikuesit për karakteristikat e materialit biologjik;
+1.3. në aplikim shënohet institucioni depozitues dhe numri i referues i materialit biologjik të depozituar; dhe
+1.4. në rastet kur materiali biologjik depozitohet nga një person i cili nuk është aplikues, emri dhe adresa e depozituesit shënohet në aplikim, ndërsa API-së i dorëzohet një dokument si dëshmi që depozituesi ka autorizuar aplikuesin që t'i referohet aplikimit të materialit biologjik të depozituar dhe ka dhënë pëlqimin e tij të pa rezervë dhe të parevokueshëm për të vënë në dispozicion të publikut materialin e depozituar, në përputhje me nenin 15 të këtij udhëzimi.
+2. Informata nga paragrafi 1 nënparagrafët 1.3 dhe 1.4 mund të paraqitet:
+2.1. brenda gjashtëmbëdhjetë ( 16 )muajve nga data e dorëzimit të aplikimit ose, nëse pretendohet prioriteti, pas datës së prioritetit, kjo periudhë konsiderohet të jetë respektuar nëse informacioni është komunikuar përpara përfundimit të përgatitjeve teknike për publikimin e aplikimit për patentë.
+2.2. deri në datën e dorëzimit të aplikimit për publikim të parakohshëm në përputhje me nenin 75 paragrafi 2 të Ligjit përkatës për patentat.
+3. Periudha e zbatueshme do të jetë ajo e cila do të skadon e para. Komunikimi i këtiij iformacioni do të konsiderohet se përbënë pajtimin e parezervuar dhe parevokueshëm të parashtruesit të aplikacionit që materiali I depozituar të vihet në dispozicion të publikut në pajtim me nenin 15 të këtij Udhëzimi.
