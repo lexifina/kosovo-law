@@ -1,0 +1,7 @@
+# Article 5
+Budget appropriations of the Republic of Kosovo’s general budget
+1. The budget allocations from the Kosovo Fund for the Fiscal Year 2023, as presented in Tables 2., 3.1., 3.1.A., 3.1.B., 3.2., 3.2.B., 4.1., 4.1.B., 4.2., 4.2.B. and 4.3. attached to this law, shall be approved based on this law.
+2. The Minister shall ensure maintenance of records of all approved budgetary appropriations, transfers and reallocations of budgetary appropriations and other approved adjustments to budget appropriations made during the fiscal year 2023 through the KFMIS, and supplemented, if there are requirements, by other records in compliance with LPMFA. At least twice a year, during the review of the six (6) months report and final reporting on the closure of the fiscal year, the Minister assures that based on this register there is a report on budgetary amendments and adjustments that have occurred during the Fiscal Year 2023.
+3. Whenever it is requested by the Assembly, the Minister shall, on behalf of the Government,
+5
+present to the Assembly a comprehensive report detailing and reconciling the approved budget appropriations for year 2023, all subsequent transfers and other changes and the final budgetary appropriations for the Fiscal Year 2023.

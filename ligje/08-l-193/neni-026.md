@@ -1,0 +1,4 @@
+# Neni 26
+TVSH për projektet e huamarrjes
+1. Në kuadër të nën programit TVSH për projektet e financuara nga huamarrja, ndahen mjete me qëllim të mbulimit të TVSH-së, në rastet kur nga huadhënësi nuk mbulohen taksat e tilla.
+2. Sipas kërkesës nga OB-ja zbatuese e projektit të huamarrjes, me miratim të Ministrit, mjetet nga ky program ndahen dhe transferohen në kategorinë përkatëse të shpenzimit në (nën) programin përkatës buxhetor. Këto lëvizje buxhetore bëhen duke përjashtuar kufizimin e paraparë në nenin 12, paragrafi 11. të këtij ligji, dhe nuk janë subjekt i kufizimeve të transfereve të përfshira në nenin 30 të LMFPP-së apo të nenit 16 të këtij ligji.

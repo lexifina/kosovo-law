@@ -1,0 +1,11 @@
+# Article 17
+Budget execution
+1. The Chief Administrative Officer of BO shall be the main legal responsible person for budget
+15
+execution, in accordance with Article 10 of the LPFMA as well as sub-legal acts approved by the Minister, including the delegation of expenditures to BO.
+2. All Chief Financial Officers shall ensure that all liabilities are recorded in KFMIS in accordance with the LPFMA and the Treasury Financial Rules.
+3. The Treasury of Kosovo through KFMIS shall report on a quarterly basis for budget execution, which includes the execution of capital projects approved by this law, in accordance with Article 45 of the LPFMA.
+4. All BO shall, through PIP system, report to the Ministry of Finance, Labour and Transfers- Budget Department, within three (3) weeks from the end of each quarter for the physical and financial progress of capital projects, with total value (for all years) over one million euro (1,000,000 €).
+5. The Chief Financial Officer of each municipality shall submit to the Mayor within three (3) weeks from the closure of each three (3) months a detailed report on the progress achieved in the implementation of all capital projects worth more than ten thousand euro (10,000 €). A copy of such report must also be submitted to the Minister.
+6. Every central-level BO that funds or co-funds local-level projects on regular municipal funding must implement clear, fair and transparent criteria. The central BO and the beneficiary municipality shall sign an agreement which regulates the obligations of both parties regarding the procurement process, implementation and supervision of the project, settlement of obligations, completion and technical acceptance of the project, as well as asset registration. Agreements under this Article must be in line with the budget possibilities of budget financing or co-financing organizations and shall be authorized in advance by the Minister.
+7. Appropriations of funds shall be allowed on a quarterly basis, for the entire fiscal year at once for the purpose of committing funds, as long as funds are spent on a monthly basis based on the cash inflow planned in the relevant module in KFMIS, in accordance with by-laws.
