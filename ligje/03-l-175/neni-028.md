@@ -1,8 +1,0 @@
-# Neni 28
-Regjistrimet e Borxheve dhe Garancive Shtetërore
-1. Regjistrimet e Borxheve dhe Garancive Shtetërore do të ofrojnë të dhëna për Borxhet e Brendshme dhe ato Ndërkombëtare në jo më pak se dy kategori, do të thotë, së pari borxhet në formë të Letrave me Vlerë të Qeverisë, dhe së dyti borxhet në formë të Kontratave për Financim. Ministri do të krijojë Rregullore të cilat do të parashohin informatat që do të përmbahen në një regjistrim të tillë.
-1.1. Dispozitat e Veçanta për Borxhet dhe Garancitë Shtetërore të emetuara në ndonjë valutë tjetër nga valuta kombëtare. Regjistrimet e Borxheve dhe Garancitë Shtetërore do të ofrojnë Informata lidhur me valutën apo valutat tjera nga valuta kombëtare në të cilën do të paguhet secili detyrim, si dhe vlerësimet origjinale dhe aktuale të tyre, si në valutën kombëtare ashtu edhe në valutën apo valutat në të cilën është premtuar pagesa. Informatat lidhur me kurset aktuale të shkëmbimit të valutave do të ofrohen nga Banka Qendrore.
-1.2. Dispozitat e Veçanta të Borxheve Shtetërore të cilat janë huazuar. Regjistrimet e Borxheve Shtetërore do të ofrojnë informata lidhur me të gjitha marrëveshjet për Hua Të Subvencionuar.
-1.3. Kërkesa për Botim. Regjistrimet për Borxhet dhe Garancitë Shtetërore do të përditësohen vazhdimisht nga Ministria dhe të botohen çdo gjashtë muaj në një gazetë të qarkullimit të përgjithshëm në Kosovë dhe do të jenë në dispozicion në faqen e internetit të Ministrisë në formë elektronike, dhe do të përfshijë të dhënat krahasimore, kudo që është e mundshme, për së paku me një vit më parë ose më gjatë nëse janë në dispozicion. Ky publikim gjashtëmujor do të përfshijë edhe raportin për të gjitha borxhet e papaguara Komunale dhe garancitë.
-PJESA II
-HUAMARRJA KOMUNALE

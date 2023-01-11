@@ -1,3 +1,0 @@
-# Article 38
-Discrepancy of Laws
-In the event of a discrepancy between the provisions of this Law and those of other laws previously approved by the Assembly that contain provisions on, or otherwise affect the status of, State Debt and State Guarantees, this Law shall preponderate on all such prior laws, except that the validity of State Debt and State Guarantees contracted before the entry into force of this law, remain into force. Specifically the following laws, or portion of laws, are revoked by the provisions of this law: Part V, Article 30 of the LLGF and Law on International Financial Agreements in its entirety.

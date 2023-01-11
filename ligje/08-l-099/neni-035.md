@@ -1,0 +1,8 @@
+# Neni 35
+Thirrja e garancive shtetërore
+1. Pala e garantuar, të cilës i është lëshuar garancia shtetërore paguan detyrimin e nevojshëm për huan e garantuar, sipas kushteve të përcaktuara në marrëveshjen përkatëse.
+2. Në rast se pala e garantuar vlerëson se do të dështoj të paguajë huan në shumën dhe kohën e paraparë sipas marrëveshjes përkatëse, pala e garantuar duhet ta informoj Ministrinë tridhjetë (30) ditë më herët se data kur duhet bërë pagesa e huas.
+3. Pagesa për garanci shtetërore për hua mund të shndërrohet në borxh shtetëror vetëm pasi të jetë evidentuar se pagesa, apo pagesat e pritura të huas për të cilën është dhënë garancia, nuk janë bërë në pajtim me kushtet dhe rregullat e huas së garantuar.
+4. Edhe pas pagesës së shumës së garancisë së përcaktuar në paragrafin 2 të këtij neni, pala e garantuar mbetet përgjegjës ndaj Ministrisë për të ripaguar të gjitha pagesat e bëra për këtë garanci, duke përfshirë por jo kufizuar në shpenzimet e interesit, shpenzimet e dënimeve dhe shpenzimet tjera të ndërlidhura me shërbimin e huas së garantuar në përputhje me marrëveshjen në mes të palës së garantuar dhe Ministrisë.
+5. Shndërrimet sipas paragrafit 3 të këtij neni, nuk i nënshtrohen kufizimeve të borxhit të vendosura me Ligjin vjetor për ndarje buxhetore apo në nenin 13 të këtij ligji, si dhe kanë efekt neutral në kufirin e borxhit shtetëror sipas nenit 13 dhe 14 të këtij ligji. Një shndërrim i tillë me kërkesën e organizatës buxhetore apo huamarrësit, aprovohet në Qeveri me propozim të Ministrisë.
+6. Shumat e shtyra për pagesë sipas këtij neni i nënshtrohen një shkalle të interesit e cila përcaktohet nga legjislacioni në fuqi për menaxhimin e financave publike për situatë të ngjashme.

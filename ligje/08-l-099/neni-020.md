@@ -1,0 +1,4 @@
+# Neni 20
+Ristrukturimi i marrëveshjes ndërkombëtare
+1. Ristrukturimi i projektit të financuar përmes marrëveshjes ndërkombëtare, duke përfshirë ristrukturimin e komponentëve të tij, ri-alokimin e mjeteve brenda qëllimit sektorial, afateve të zbatimit të projekteve, apo elemente tjera të projektit, që nuk rezultojnë në ndryshime thelbësore sipas paragrafit 1 të nenit 19 të këtij ligji, nuk trajtohen si amendamentim i marrëveshjes ndërkombëtare, nëse shprehimisht janë parashikuar në marrëveshjen e ratifikuar. Në raste të tilla, Ministri është i autorizuar të aprovojë ristrukturimin e tillë në pajtim me marrëveshjen.
+2. Ndryshimi i planit të amortizimit të kredisë si dhe periudhës së pritjes të marrëveshjes ndërkombëtare të ratifikuar nuk përbën ndryshim substancial të marrëveshjes ndërkombëtare përderisa ky ndryshim nuk rezulton me zgjatje të afatit të maturimit të kredisë. Në raste të tilla, Ministri është i autorizuar të aprovojë një ndryshim të tillë.

@@ -1,0 +1,4 @@
+# Article 20
+Restructuring of international agreement
+1. Restructuring of a project financed through an international agreement, including the restructuring of its components, reallocation of funds within the sector objectives, project implementation deadlines, or other project elements, which do not result in substantial changes under paragraph 1 of Article 19 of this Law shall not be perceived as an amendment to an international agreement, if expressly provided for in the ratified agreement. In such cases, the Minister is authorized to approve such restructuring in accordance with the agreement.
+2. The change in the loan amortization schedule and grace period of the ratified international agreement shall not constitute a substantial change to an international as long as this change does not result in an extension of the loan’s maturity period. In such cases, the Minister is authorized to approve such a change.

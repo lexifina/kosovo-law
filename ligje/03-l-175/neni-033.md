@@ -1,4 +1,0 @@
-# Neni 33
-Ushtrimi i përbashkët i autoritetit komunal siç është i autorizuar në nenin 124 (4) të Kushtetutës
-1. Marrëveshjet e përbashkëta. Një apo më shumë komuna mund të lidhin marrëveshje me komuna të tjera (përfshirë krijimin e përbashkët të një entiteti të veçantë ligjor) për qëllime të financimit, ndërtimit dhe funksionimit të përbashkët të investimeve kapitale që shfrytëzohen për shërbime komunale. Entiteti i tillë ligjor ka autoritetin e njëjtë për të financuar, ndërtuar dhe vepruar me mjetet e tilla që janë të përbashkëta për të gjitha ato komuna që e kanë krijuar atë.
-2. Garancitë. Komunat mund të garantojnë pjesën e tyre pro rata të obligimeve financiare të entitetit të tillë ligjor. Sidoqoftë, garancitë duhet të trajtohen si borxhe për qëllime të pajtimit me kufizimet e borxheve të përkufizuara në nenin 32 të këtij Ligji.

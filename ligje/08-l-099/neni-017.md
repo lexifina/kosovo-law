@@ -1,0 +1,8 @@
+# Neni 17
+Kontraktimi i borxhit shtetëror përmes marrëveshjes ndërkombëtare
+1. Hyrja në borxh shtetëror përmes marrëveshjeve ndërkombëtare realizohet vetëm nëpërmjet Ministrisë.
+2. Kontraktimi i borxhit shtetëror përmes marrëveshjeve ndërkombëtare me shtetet tjera, organizatat ndërkombëtare apo organizatat ose institucionet financiare ndërkombëtare, realizohet sipas procedurave të përcaktuara në legjislacionin në fuqi për marrëveshjet ndërkombëtare.
+3. Përjashtimisht nga paragrafi 2 i këtij neni, marrëveshjet ndërkombëtare me organizatat ose institucionet financiare ndërkombëtare ku Republika e Kosovës është anëtare, nuk i nënshtrohen procedurave të miratimit të nismës për marrëveshje ndërkombëtare, të përcaktuara në nenin 4, paragrafi 2, të Ligjit Nr. 04/L-052 për Marrëveshjet Ndërkombëtare apo në çdo legjislacion tjetër pasues që mund të ketë rregullim të ngjashëm.
+4. Ekzekutimi dhe mbikëqyrja e zbatimit të projekteve të cilat financohen përmes marrëveshjeve financiare janë nën përgjegjësinë e plotë të organizatës buxhetore ose institucionit përfitues të projektit. Organizata buxhetore ose entiteti përfitues i financimit merr pjesë në çdo fazë të procesit të sigurimit të financimit.
+5. Organizatat buxhetore apo entitetet zbatuese të projekteve me financim nga organizatat financiare ndërkombëtare, në varësi të kapaciteteve njerëzore të brendshme të organizatës buxhetore, mund të themelojnë NjZP sipas këtij ligji, vetëm nëse kushtëzohet me marrëveshje ndërkombëtare
+6. Kompensimi i anëtarëve të NjZP sipas paragrafit 5 të këtij neni bëhet nga Buxheti i Kosovës, në përputhje me aktin nënligjor që nxirret nga Ministri.

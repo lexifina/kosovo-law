@@ -1,0 +1,8 @@
+# Article 17
+Entrance into state debt through international agreement
+1. Entrance into a state debt through international agreements shall be performed only through the Ministry.
+2. Entering into state debt through international agreements with other states, international organizations or international financial organizations or institutions shall be carried out in accordance with the procedures set forth in the legislation in force for international agreements.
+3. Notwithstanding paragraph 2 of this Article, international agreements with international organizations or international financial institutions, where the Republic of Kosovo is a member, shall not be subject to the procedures for approving the initiative for international agreements as stipulated in Article 4, paragraph 2 of Law No.04/L-052 on International Agreements or any other subsequent legislation that may have a similar regulation.
+4. Execution and supervision of the implementation of projects financed through financial agreements are under full responsibility of the budget organization or beneficiary institution of the project. The budget organization and the beneficiary entity of the funding shall be involved in every stage of the process for obtaining financing.
+5. Budget Organizations or project implementing entities financed by international financial organizations, depending on the internal human resources capacities of the budget organization, may establish PIUs under this Law, only if such an establishment is conditioned by the international agreement.
+6. Compensation of PIU members under paragraph 5 of this Article, shall be made from the Budget of Kosovo, in accordance with the sub-legal act issued by the Minister.

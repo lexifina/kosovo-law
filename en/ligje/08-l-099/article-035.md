@@ -1,0 +1,8 @@
+# Article 35
+Calling for state guarantee
+1. The obligor, to whom the state guarantee is issued, shall pay the required obligation for the guaranteed loan, in accordance with the terms set forth in the relevant agreement.
+2. In the event that the obligor expects to fail to pay the loan in the amount and within the time provided for in the relevant agreement, the obligor must inform the Ministry thirty (30) days before the due payment date.
+3. A payment under state loan guarantee may be converted into state debt only after it has been established that the payment or the expected loan payments for which the guarantee was issued were not made in accordance with the terms and conditions of the guaranteed loan.
+4. Even after payment of the amount of the security specified in paragraph 2 of this Article, the obligor shall remain liable to the Ministry for repayment of all payments made for such guarantee, including, but not limited to, interest, penalty and other expenses related to servicing guaranteed loan in accordance with the agreement between the obligor and the Ministry.
+5. Conversions under paragraph 3 of this Article shall not be subject to debt ceilings established by the annual Law on budget appropriations or by Article 13 of this Law, and shall have a neutral effect on the state debt ceiling under Article 13 and 14 of this Law. Such conversion at the request of the budget organization or the borrower is approved by the Government upon the proposal of the Ministry.
+6. The deferred amounts for payment according to this Article shall be subject to an interest rate determined by the legislation in force on public financial management for a similar situation.

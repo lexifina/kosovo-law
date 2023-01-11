@@ -1,7 +1,0 @@
-# Neni 35
-Të ndryshme
-1. Libri kontabël i borxhit komunal. Ministria mban një libër kontabël të të gjitha borxheve komunale ekzistuese. Ministri është i autorizuar që të miratojë rregullore lidhur me informatat që duhet përmbajtur në një libër kontabël të tillë. Libri kontabël përditësohet në mënyrë të vazhdueshme nga Ministria, është i hapur për inspektim nga publiku dhe publikohet në baza vjetore.
-2. Autoriteti i zyrtarëve komunal. Kryetari i komunës dhe çdo zyrtarë komunal që është i autorizuar sipas vendimit, janë të autorizuar të ndërmarrin çdo veprim të nevojshëm për apo të lidhur me marrjen e borxhit, në përputhje me kushtet dhe rregullat e vendimit.
-3. Informacioni publik. Të gjitha dokumentet në lidhje me autorizimin e borxhit, duke përfshirë edhe vendimin dhe çdo marrëveshje financimi, duhet të jenë informacion publik dhe në dispozicion për publikun, në kushte dhe rregulla të arsyeshme.
-4. Librat dhe të dhënat. Komuna është e obliguar të mbajë të dhënat dhe informacionin e nevojshëm për të lejuar verifikimin e kushteve të borxhit dhe respektimin e kushteve të vendimit, duke përfshirë, por jo kufizuar, përdorimin e të ardhurave nga borxhi, në përputhje me kërkesat e vendimit. Ky informacion do të jetë publik, sipas paragrafit 3 të nenit 35 të këtij Ligji.
-5. Kontratat e qiradhënies. Për kontratat e qiradhënies dhe marrëveshjet e ngjashme financiare prej të cilave dalin pagesat në këste për një periudhë kohore do të aplikohen procedurat dhe autorizimet e njëjta si për borxhin afatgjatë.
