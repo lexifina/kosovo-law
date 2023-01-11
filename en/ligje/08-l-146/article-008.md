@@ -1,0 +1,5 @@
+# Article 8
+Filing of a request to a foreign country
+1. The ministry responsible for foreign affairs, through diplomatic channels, shall send the request to a foreign country in order to freeze the assets of the designated persons in accordance with the decision of the Government, if there are suspicions that the designated person has assets in that country.
+2. The request shall contain relevant data of the person, the data proving the reasonable suspicion that the person is or was involved in activities including terrorism; terrorist financing; involved in activities of a terrorist group or in committing a terrorist act or is associated with proliferation of weapons of mass destruction. The proposal shall also contain detailed information regarding the assets that may be subject to a freezing order.
+3. The Ministry responsible for foreign affairs shall undertake necessary steps in order to obtain information regarding the actions of the foreign country in response to the request filed according to the paragraph 1 of this Article.

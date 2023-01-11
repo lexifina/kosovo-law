@@ -1,0 +1,3 @@
+# Article 31
+Adoption of sub-legal acts
+The Ministry responsible for Foreign Affairs pursuant to paragraph 4 of Article 4 of this Law, the Ministry responsible for finance pursuant to paragraph 11 of Article 13, paragraph 6 of Article 15, paragraph 8 of Article 22 of this Law and the Government pursuant to paragraph 6 of Article 5, paragraph 4 of Article 14 of this Law in consultation with other relevant actors as may be necessary, adopt, amend, or repeal sub-legal acts to implement the obligations arising from this Law, in order to promote and ensure compliance with this Law. Sub-legal acts will be issued within six (6) months from the date of entry into force of this Law.

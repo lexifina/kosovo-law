@@ -1,0 +1,9 @@
+# Article 7
+Proposal for inclusion of the designated person to the list of the
+United Nations Security Council
+1. The Government may propose, through diplomatic channels, to the Committee of the Security Council 1267/1989 and the Committee of the Security Council 1988 of the United Nations to include a person in the list of designated persons of the United Nations Security Council, if:
+1.1. the person, who has been included in the local list of persons designated by the Government, is related to persons or organizations designated by the Resolutions of the United Nations Security Council;
+1.2. the person is not in the list of persons designated by the United Nations Security Council.
+2. The proposal for designation as required by the paragraph 1 of this Article shall contain relevant information clearly identifying the subject of proposal and supporting the reason for suspecting that the person is or was involved in terrorist activities; terrorist financing; involved in activities of a terrorist group or committing a terrorist act or is associated with proliferation of weapons of mass destruction.
+3. The proposal shall, according to paragraph 1 of this Article, contain detailed information regarding the assets that may be subject to the freezing order and other information as requested by relevant standards of the Committees of the United Nations Security Council, and where possible, the proposal shall be submitted using standard forms adopted by these Committees.
+4. If there is a proposal for designation according to paragraph 1 of this Article, it should be specified that Republic of Kosovo can be publicly presented by the United Nations as a country eligible to propose persons for designation, and there shall be clearly determined which parts of the proposal and additional information are to be handled as confidential and they shall not be made publically available without a written agreement with the Government.

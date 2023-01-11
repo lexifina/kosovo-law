@@ -1,0 +1,6 @@
+# Neni 14
+Detyrimet e organeve kompetente
+1. Organet kompetente që licencojnë dhe/ose regjistrojnë entitetet juridike duhet të konsultojnë listën e personave të përcaktuar para dhe gjatë procesit të licencimit dhe/ose regjistrimit.
+2. Zyrat kadastrale komunale, noterët, si dhe të gjitha institucionet tjera kompetente që mbajnë ose administrojnë regjistra të fondeve dhe pasurive, duhet të konsultojnë listën e personave të përcaktuar para ose gjatë regjistrimit, hartimit ose vërtetimit të një kontrate apo transaksioni të pasurive të paluajtshme.
+3. Organet kompetente sipas paragrafit 2 të këtij neni nuk do të bëjnë regjistrimin dhe as nuk përpilojnë kontratë të paluajtshmerisë, dhe pa vonesë do të raportojnë në NjIF-K, nëse personi i përcaktuar figuron si drejtor, person përgjegjës ose ka shumicën e aksioneve në pronësi, fondacion, truste ose marrëveshje ligjore ose shfaqet si palë kontraktuese në një transaksion të pasurive të paluajtshme, si dhe asetet e mbajtur nga ta, duhet të ngrihen menjëherë. Raporti për pasuritë e tilla duhet dorëzuar në NjIF-K pa vonesë.
+4. Procedura dhe mënyra e zbatimit të obligimeve të përcaktuara me këtë nen rregullohen me akt nënligjor të propozuar nga ministria përgjegjëse për financa, dhe miratohet nga Qeveria.

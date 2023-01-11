@@ -1,0 +1,3 @@
+# Neni 31
+Miratimi i akteve nënligjore
+Ministria përgjegjëse për Punë të Jashtme në zbatim të paragrafit 4 të nenit 4 të këtij ligji, ministria përgjegjëse për financa në zbatim të paragrafit 11 të nenit 13, paragrafit 6 të nenit 15, paragrafit 8 të nenit 22 të këtij ligji dhe Qeveria në zbatim të paragrafit 6 të nenit 5, paragrafit 4 të nenit 14 të këtij ligji në konsultim me akterët tjerë relevant siç mund të jetë e nevojshme, miratojnë, ndryshojnë, apo shfuqizojnë aktet nënligjore për zbatimin e detyrimeve të dala nga ky ligj, me qëllim të promovimit dhe sigurimit të pajtueshmërisë me këtë ligj. Aktet nënligjore do të nxirren brenda gjashtë (6) muajsh nga data e hyrjes në fuqi të këtij ligji.

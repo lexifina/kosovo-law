@@ -1,0 +1,6 @@
+# Article 14
+Obligations of the competent bodies
+1. Competent bodies licensing and/or registering legal entities must consult the list of designated persons before and during the process of licensing and/or registering.
+2. Municipal Cadastral Offices, Notaries, as well as all other competent institutions that maintain or administer registers of funds and assets, must consult the list of designated persons before or during the registration, drafting or certification of a contract or real estate transaction.
+3. The competent institutions according to paragraph 2 of this Article shall not register or draw up an immovable property contract, and shall report to the FIU-K without delay, if the designated person appears as a director, responsible person or owns a majority of the shares, foundation, trust or legal agreement or appears as a contracting party in a real estate transaction, as well as the assets held by them, shall freeze immediately. The report on such assets shall be submitted to the FIU-K without delay.
+4. The procedure and manner of implementation of the obligations set out in this article are regulated by a sub-legal act proposed by the ministry responsible for finance, and approved by the Government.
