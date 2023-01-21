@@ -1,0 +1,4 @@
+# Article 2
+Scope
+1. The provisions of this law shall be mandatory for all natural or legal persons whose activity directly or indirectly affects the environment, human health, biodiversity, land, soil, water, air, climate, material assets, cultural heritage and landscape, as well as paying special attention to species and habitats protected by relevant laws, as well as institutions which deal with the implementation of the provisions of this law.
+2. The provisions of this law do not apply to projects that have the sole purpose of responding to civil emergencies and for the purposes of national protection according to a case-by-case assessment, if such a thing is provided for in the legislation related to these projects, it is considered that their implementation will have a negative impact on the environment.

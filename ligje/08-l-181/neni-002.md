@@ -1,0 +1,4 @@
+# Neni 2
+Fushëveprimi
+1. Dispozitat e këtij ligji janë të detyrueshme për vlerësimin e ndikimeve të projekteve aktiviteti i të cilëve në mënyrë të drejtpërdrejtë apo të tërthortë ndikon në mjedis, shëndetin e njeriut, biodiversitetin, tokën, dheun, ujin, ajrin, klimën, pasuritë materiale, trashëgiminë kulturore dhe peizazhin duke i’u kushtuar rëndësi të veçantë specieve dhe habitateve të mbrojtura me ligjet përkatëse si dhe për institucionet të cilat merren me zbatimin e dispozitave të këtij ligji.
+2. Dispozitat e këtij ligji nuk zbatohen për projekte që qëllim të vetëm kanë reagimin ndaj emergjencave civile dhe për qëllimet e mbrojtjes kombëtare sipas vlerësimit rast për rast, nëse një gjë e tillë parashikohet në legjislacionin që ka të bëjë me këto projekte, konsiderohet se zbatimi i tyre do të ketë ndikim negativ në mjedis.
