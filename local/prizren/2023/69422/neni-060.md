@@ -1,0 +1,8 @@
+# Neni 60
+60.1 Pronari i automjetit taksi i cili nuk ka leje për ushtrimin e veprimtarisë së transportit taksi të udhëtarëve apo shenjën “ TAXI” përkatësisht “ RADIOTAXI” përjashtohet nga trafiku nga inspektori i trafikut rrugor dhe nga zyrtari i autorizuar i Policisë. I merret libreza e qarkullimit dhe targa e automjetit në kohëzgjatje prej 48 orë deri në 5 ditë. Kthimi i librezës së qarkullimit dhe targave të automjetit bëhet pas pagesës së gjobës mandatore.
+60.2. Vendimi për përjashtimin e automjetit taksi nga trafiku i dorëzohet drejtuesit aty për aty. Pasojat dhe shpenzimet e krijuara për shkak të aplikimit të dispozitës nga paragrafi paraprak i këtij neni në tërësi i bartë pronari i automjetit, përkatësisht drejtuesi.
+60.3 Hyrja në automjet dhe dalja e udhëtarëve nga automjeti taksi nuk mund të bëhet në vendqëndrimet e autobusëve.
+59.4. Kur drejtuesi i automjetit taksi nuk e kryen transportin taksi të udhëtarëve, përkatësisht kur përdor automjetin taksi për nevojat e veta, është i obliguar që nga kulmi i automjetit të heq shenjën “TAXI” apo “ RADIOTAXI”.
+60.5. Automjetet taksi të regjistruara për transportin taksi të udhëtarëve në territorin e komunave të tjera mund të kryejnë transportin e udhëtarëve në Komunën e Prizrenit në rastin kur sjellin udhëtarë nga Komunat tjera, por në kthim nuk guxojnë të marrin udhëtarë të rinjë, ndërkaq vetëm mund të kthejnë udhëtarët që kanë sjellur.
+60.6 Me automjetet taksi nuk mund të transportohet numër më i madh i udhëtarëve nga numri i ulëseve të regjistruara në automjet dhe as që mund të vendoset më vonë numër më i madh i ulëseve nga ato që janë të regjistruara.
+VENDQËNDRIMET – STACIONET E AUTOMJETEVE TAKSI
