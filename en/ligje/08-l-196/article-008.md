@@ -1,0 +1,5 @@
+# Article 8
+Salary calculation in cases of additional function
+1. If the public functionary, public officer, other officers as well as university academic staff, receiving the basic salary according to the Annexes to this Law engage in work in another public institution, when this is allowed by the special law, they shall receive payment as a salary up to twenty percent (20%) of the basic salary for engagement in that institution.
+2. The Government of the Republic of Kosovo shall, at the proposal of the Ministry responsible for finances and the consent of the Ministry responsible for public administration, approve by a by-law the conditions, extent and the procedure for payment of additional commitment, according to paragraph 1. of this Article.
+3. The conditions, measures, and payment procedure as per paragraph 1. of this Article for the employees in the Presidency of the Republic of Kosovo, the Constitutional Court of the Republic of Kosovo, the Justice System, the Assembly of the Republic of Kosovo, and the independent constitutional institutions are regulated by this law and by a special act approved by the competent bodies of the institutions.

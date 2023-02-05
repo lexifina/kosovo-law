@@ -1,0 +1,6 @@
+# Neni 37
+Kompensimi për udhëtime dhe shpenzimet e përfaqësimit
+1. Zyrtaret/ët publik/e, funksionaret/ët publik/e dhe kategoritë e tjera të të punësuarave/ëve që paguhen nga buxheti i shtetit kanë të drejtë të kompensohen për shpenzimet e kryera për udhëtime dhe për qëndrim zyrtar brenda dhe jashtë vendit.
+2. Zyrtaret/ët publik/e, funksionaret/ët publik/e dhe kategoritë e tjera të të punësuarave/ëve që paguhen nga buxheti i shtetit, gjatë ushtrimit të detyrës zyrtare, kanë të drejtë të kompensohen për shpenzimet e kryera për përfaqësim.
+3. Kushtet, mënyra, vlera e kompensimit dhe procedura për përfitimin e kompensimit, sipas paragrafëve 1. dhe 2. të këtij neni, miratohen me akt nënligjor të Qeverisë së Kosovës, me propozim të ministrisë përgjegjëse për financa dhe me pëlqim të ministrisë përgjegjëse për administratën publike.
+4. Kushtet, mënyra, vlera e kompensimit dhe procedura për përfitimin e kompensimit, sipas paragrafëve 1. dhe 2. të këtij neni, për nëpunësit në Presidencën e Republikës së Kosovës, Gjykatën Kushtetuese të Republikës së Kosovës, Sistemin e Drejtësisë, Kuvendin e Republikës së Kosovës, dhe institucionet e pavarura kushtetuese rregullohen me këtë ligj dhe me akt të veçantë të miratuar nga organet kompetente të institucioneve.

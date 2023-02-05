@@ -1,0 +1,9 @@
+# Neni 28
+Shtesa për vëllimin e punës
+1. Organizatat buxhetore, në rastet e parashikuara nga ky ligj, mund të japin shtesën për vëllim të punës, për kryerjen e punës për shkak të rritjes së vëllimit të punës, nëse kanë mjete në dispozicion për këtë qëllim nga kursimet e fondeve të pagave që krijohen për shkak të mungesës së nëpunëseve/ve civil, apo pozitave të paplotësuara për të cilat janë paraparë mjete në planin financiar të shfrytëzuesit buxhetor dhe fonde për projekte të veçanta.
+2. Nëpunëset/it civil përfitojnë shtesën për shkak të rritjes së vëllimit të punës, për punën e kryer dhe që tejkalon rezultatet e pritshme të punës në një (1) muaj, nëse në këtë mënyrë është e mundur të sigurohet një mënyrë më racionale arritja e rezultateve të punës si dhe buxheti.
+3. Shtesa për vëllimin e punës miratohet nga zyrtarja/i kryesor administrativ i institucionit, pas marrëveshjes me nëpunësen/in civil për të punuar me vëllim të shtuar.
+4. Shtesa e përcaktuar në paragrafin 1. të këtij neni, nuk mund të jetë më e lartë se 0.5% e fondeve totale të përdorura nga organizata buxhetore, për pagën bazë të zyrtareve/ëve publik të organizatës buxhetore në të njëjtin vit financiar.
+5. Për qëllim të zbatimit të këtij neni, Qeveria e Republikës së Kosovës do të trajtohet si një (1) organizatë buxhetore.
+6. Rregullat për fitimin, vlerën e shtesës si dhe periudhën e përfitimit përcaktohen me akt nënligjor të Qeverisë, me propozim të ministrisë përgjegjëse për financa dhe me pëlqim të ministrisë përgjegjëse për administratën publike.
+7. Kriteret dhe procedura për përfitimin e shtesës sipas këtij neni, në Presidencën e Republikës së Kosovës, Gjykatën Kushtetuese të Republikës së Kosovës, Sistemin e Drejtësisë, Kuvendin e Republikës së Kosovës, dhe institucionet e pavarura kushtetuese, rregullohet me këtë ligj dhe me akt të veçantë të miratuar nga organet kompetente të institucioneve.

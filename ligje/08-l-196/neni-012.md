@@ -1,0 +1,7 @@
+# Neni 12
+Shpërblimi i funksionareve/ëve për kohë të pjesshme
+1. Anëtaret/ët e organeve drejtuese, (këshilla, borde, komisione) kolegjiale, të institucioneve kushtetuese, të agjencive të pavarura dhe të institucioneve të sistemit të drejtësisë, të krijuara me ligj që nuk e ushtrojnë mandatin me kohë të plotë dhe nuk përmenden shprehimisht në Shtojcën Nr.1 të këtij ligji, shpërblehen në masën njëzet për qind (20 %) të pagës së kryetares/ it të organit kolegjial me kohë të plotë.
+2. Në rastin kur edhe kryetarja/i e/i organit drejtues është me kohë të pjesshme, atëherë shpërblimi si dhe shpërblimi i anëtareve/ëve të organit drejtues, bëhet në masën tridhjetë për qind (30%) për kryetaren/in dhe njëzet për qind (20%) për anëtaret/ët, të pagës bazë së zyrtares/it kryesor administrativ të institucionit.
+3. Shpërblimi i parashikuar në paragrafët 1. dhe 2. të këtij neni, në rastin kur organi kolegjial mblidhet së paku një (1) herë në muaj, përfitohet çdo muaj, me kusht pjesëmarrje në mbledhjet e organit kolegjial.
+4. Shpërblimi i parashikuar në paragrafët 1. dhe 2. të këtij neni, në rastin kur organi kolegjial mblidhet më rrallë se një (1) herë në muaj, shpërblimi përfitohet për çdo mbledhje të organit kolegjial, me kusht pjesëmarrje në mbledhje.
+5. Përjashtimisht, kryetarja/i, anëtarja/i dhe të punësuarat/it e/i tjerë të institucionit, në marrëdhënie pune me kohë të plotë, nuk përfitojnë shpërblimin e parashikuar në paragrafët 1 dhe 2 të këtij neni, për pjesëmarrje në mbledhjet e organit kolegjial.

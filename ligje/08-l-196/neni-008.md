@@ -1,0 +1,5 @@
+# Neni 8
+Llogaritja e pagës në raste të funksionit shtesë
+1. Funksionarja/i publike, zyrtarja/i publike, zyrtaret/ët e/i tjera/ë, si dhe stafi akademik universitar që marrin pagën bazë sipas shtojcave të këtij ligji, nëse angazhohen me punë në një institucion tjetër publik, kur këtë e lejon ligji i veçantë, marrin pagesë, si pagë deri në njëzet për qind (20%) të pagës bazë për angazhimin në atë institucion.
+2. Qeveria e Republikës së Kosovës me propozim të ministrisë përgjegjëse për financa dhe pëlqim të ministrisë përgjegjëse për administratën publike miraton me akt nënligjor, kushtet, masën dhe procedurën e pagesës për angazhimin shtesë sipas paragrafit 1. të këtij neni.
+3. Kushtet, masa dhe procedura e pagesës për angazhimin shtesë sipas paragrafit 1. të këtij neni për nëpunëset/it në Presidencën e Republikës së Kosovës, Gjykatën Kushtetuese të Republikës së Kosovës, Sistemin e Drejtësisë, Kuvendin e Republikës së Kosovës, dhe institucionet e pavarura kushtetuese rregullohen me këtë ligj dhe me akt të veçantë të miratuar nga organet kompetente të institucionit përkatës.

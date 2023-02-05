@@ -1,0 +1,6 @@
+# Article 42
+Determining the equivalence
+1. Upon the entry into force of this law, any change in the structure, components or levels of salary coefficients shall be prohibited.
+2. In the case of the creation of new functions, positions or designations, the institution in which the position is created shall request from the ministry responsible for public administration the determination of the salary class that applies to that function, position or designation on the basis of equivalence.
+3. Upon receiving the request, the ministry responsible for public administration shall evaluate the function, position or designation with the equivalence based on the principles of this law and makes a proposal for approval to the Government, for the salary class that applies to that function, position or designation.
+4. The creation of new functions, positions, or designations for officials in the President of Republic of Kosovo, the Constitutional Court of the Republic of Kosovo, the Justice System, the Assembly of the Republic of Kosovo, and the independent constitutional institutions are regulated by this law and by a special act approved by the competent bodies of the institutions, shall be regulated by this law and by a special act approved by the competent bodies of institutions.

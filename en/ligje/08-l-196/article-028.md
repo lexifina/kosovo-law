@@ -1,0 +1,9 @@
+# Article 28
+Workload allowance
+1. Budgetary organizations may, in cases provided for by this Law, grant a workload allowance for the performance of work due to the increased workload, if they have funds available for this purpose from the savings of the salary funds that are accumulated due to the lack of civil servants, or unfilled positions for which funds are provided for in the financial plan of the budget user and funds for special projects.
+2. Civil servants shall receive a workload allowance due to the increased workload for the work performed that exceeds the expected results of the work in one (1) month, if in this way it is possible to provide a more rational way of achieving work results as well as the budget.
+3. The workload allowance shall be approved by the chief administrative officer of the institution, upon the agreement with the civil servant.
+4. The allowance defined in paragraph 1. of this Article shall not be higher than 0.5% of the total funds used by the budget organization, for the basic salary of public officers of the budget organization in the same financial year.
+5. To implement this Article, the Government of the Republic of Kosovo shall be treated as a single budgetary organization.
+6. The benefiting rules, the allowance value and the benefit period shall be determined by a Government bylaw, at the proposal of the Ministry of Finance and the consent of the Ministry of Public Administration.
+7. The criteria and procedure for benefiting the allowance under this Article by a civil servant of the office of the President of Republic of Kosovo, the Constitutional Court of the Republic of Kosovo, the Justice System, the Assembly of the Republic of Kosovo, and the independent constitutional institutions are regulated by this law and by a special act approved by the competent bodies of the institutions.

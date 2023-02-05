@@ -1,0 +1,8 @@
+# Article 38
+Compensation for additional function
+1. When public officials, according to the applicable legislation, are appointed to serve on a board, professional commission or other public body that requires professional expertise and constitutes an additional function for the officer, this public officer shall be entitled to additional compensation for this function.
+2. The compensation under point 1. of this Article does not mean the duties and responsibilities derived from the position held by the public official, including participation in commissions and/ or other bodies established within the institution.
+3. The compensation under this Article shall be made at the rate of thirty percent (30%) for the chairman and twenty percent (20%) for the members, of the basic salary of the chief administrative officer of the institution in which the board, professional commission or other public body is established.
+4. The compensation provided for under this Article, in the case when the board, professional commission or other public body meets at least once a month, is obtained every month, provided that the meeting is attended.
+5. The compensation provided for under this Article, in the case that the board, professional commission or other public body meets less than once a month, the compensation shall be received for each meeting, provided that the meeting is attended.
+6. The government shall, at the proposal of the ministry responsible for public administration and after the consent of the ministry responsible for finances, approve the criteria for obtaining this compensation by means of a by-law.

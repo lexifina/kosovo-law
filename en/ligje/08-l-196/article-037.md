@@ -1,0 +1,6 @@
+# Article 37
+Compensation for travel and representation costs
+1. Public offers, public functionaries and other categories of offers who are paid from the state budget shall be entitled to be reimbursed for costs incurred for travel and official stay inside and outside the country.
+2. Public officers, public functionaries and other categories of officers who are paid from the state budget shall, during the exercise of their official duties, be entitled to be reimbursed for the costs incurred for representation.
+3. The terms, manner, compensation amount and the benefiting compensation procedure under paragraph 1. and 2 of this Article shall be approved by a Kosovo Government bylaw, at the proposal of the Ministry of Finance and the consent of the Ministry of Public Administration.
+4. The terms, manner and compensation amount and the benefiting compensation procedure under paragraph 1. and 2. of this Article for officials in the Presidency of the Republic of Kosovo, the Constitutional Court of the Republic of Kosovo, the Justice System, the Assembly of the Republic of Kosovo and independent constitutional institutions shall be regulated by this Law and by a special act approved by the competent bodies of the institutions.
