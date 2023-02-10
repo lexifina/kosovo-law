@@ -1,0 +1,5 @@
+# Article 19
+Obligation to Provide Data 1. The Agency shall request, during the audit of the declaring entity, data and information about the declaration of assets and the sources of their creation, and checks the accuracy of these declarations.
+2. In case of full audit of assets, the declaring entity is obliged to submit, within fifteen (15) days from the filing of the request of the Agency, relevant evidence on the required data, including bank reports for all bank accounts declared under Article 6 of this Law.
+3. Failure to provide the clarifications and data provided for in paragraph 2 of this Article, shall be considered a circumstance for initiating the relevant procedures provided by this Law.
+4. Central and local bodies, public sector institutions, holders of public authorizations and other public or private legal entities must submit to the Agency, free of charge, within eight (8) days after such request, all data, including personal data and documents required for the performance of the duties of the Agency, in accordance with the provisions of other laws.

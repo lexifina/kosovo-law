@@ -1,0 +1,4 @@
+# Article 30
+Sanctions in relation to gifts 1. Any official person who does not notify his/her institution of receiving a gift, shall be punished with a fine of up to ten percent (10%) of his/her net monthly salary, but in no case shall this amount exceed the threshold of five hundred (500) Euro.
+2. Any official person who does not submit the gift to be exposed in the gifts’ corner, shall be punished with a fine of up to ten percent (10%) of his/her net monthly salary, but in no case shall this amount exceed the threshold of five hundred (500) Euro.
+3. The contact officer who does not update the gift register or fails to notify the Agency for the gift register, shall be punished with a fine of up to ten percent (10%) of his/her net monthly salary, but in no case shall this amount exceed the threshold of five hundred (500) Euro.

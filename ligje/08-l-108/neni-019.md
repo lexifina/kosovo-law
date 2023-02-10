@@ -1,0 +1,5 @@
+# Neni 19
+Obligimi për ofrimin e të dhënave 1. Agjencia gjatë kontrollit të subjektit deklarues kërkon të dhëna dhe informata rreth deklarimit të pasurive dhe burimet e krijimit të tyre si dhe kontrollon saktësinë e këtyre deklarimeve.
+2. Me rastin e kontrollit të plotë të pasurisë, subjekti deklarues obligohet që brenda afatit prej pesëmbëdhjetë (15) ditësh nga paraqitja e kërkesës së Agjencisë të sjellë dëshmi përkatëse për të dhënat e kërkuara, përfshirë edhe raportet bankare për të gjitha llogaritë bankare të deklaruara sipas nenit 6 të këtij Ligji.
+3. Mos ofrimi i sqarimeve dhe të dhënave të kërkuara në paragrafin 2. të këtij neni, konsiderohet rrethanë për inicimin e procedurave përkatëse të parapara me këtë ligj.
+4. Organet qendrore dhe lokale, institucionet e sektorit publik, mbajtësit e autorizimeve publike dhe personat e tjerë juridik, publik ose privat, duhet t’i paraqesin pa pagesë Agjencisë, brenda tetë (8) ditëve pas kërkesës së tillë, të gjitha të dhënat, përfshirë të dhënat personale dhe dokumentet e kërkuara për kryerjen e detyrave të Agjencisë, në pajtim me dispozitat e ligjeve të tjera.

@@ -1,0 +1,4 @@
+# Neni 30
+Masat ndëshkuese në lidhje me dhuratat 1. Secili person zyrtar i cili nuk njofton institucionin e tij për pranimin e dhuratës ndëshkohet me gjobë deri në dhjetë për qind (10%) të pagës mujore neto të tij, por në asnjë rast kjo shumë nuk duhet të kalojë pragun prej pesëqind Euro (500€).
+2. Secili person zyrtar që nuk dorëzon dhuratën për ta ekspozuar në këndin e dhuratave ndëshkohet me gjobë deri në dhjetë për qind (10%) të pagës mujore neto të tij, por në asnjë rast kjo shumë nuk duhet të kalojë pragun prej pesëqind Euro (500€).
+3. Zyrtari kontaktues i cili nuk përditëson regjistrin e dhuratave apo dështon në njoftimin e Agjencisë për regjistrin e dhuratave ndëshkohet me gjobë deri në dhjetë për qind (10%)të pagës mujore neto të tij, por në asnjë rast kjo shumë nuk duhet të kalojë pragun prej pesëqind Euro (500€).

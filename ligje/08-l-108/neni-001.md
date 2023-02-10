@@ -1,0 +1,2 @@
+# Neni 1
+Qëllimi Ky ligj ka për qëllim përcaktimin e sistemit të deklarimit të pasurisë, duke përfshirë mënyrat dhe procedurat e deklarimit të pasurisë dhe të dhuratave, prejardhjen dhe kontrollin e pasurisë së deklaruar dhe të dhuratave, si dhe subjektet deklaruese me qëllim të parandalimit të korrupsionit, konfliktit të interesit dhe fuqizimin e integritetit të institucioneve publike, përfshirë edhe sanksionimin.

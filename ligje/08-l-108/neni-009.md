@@ -1,0 +1,3 @@
+# Neni 9
+Deklarimi i rregullt vjetor i subjekteve deklaruese 1. Deklarimi i rregullt vjetor i pasurisë, bëhet gjatë kohës së ushtrimit të funksionit publik nga 1 marsi deri më 31 mars të çdo viti kalendarik për vitin paraprak për periudhën nga 1 janari deri më 31 dhjetor.
+LIGJI NR. 08/L-108 PËR DEKLARIMIN, PREJARDHJEN DHE KONTROLLIN E PASURISË DHE TË DHURATAVE 2. Përjashtimisht nga paragrafi 1. i këtij neni, në rastet kur në vitin paraprak është bërë deklarimi sipas nenit 8 të këtij Ligji, deklarimi i rregullt vjetor mbulon vetëm periudhën prej ditës se emërimit të subjektit deklarues deri me datën 31 dhjetor të periudhës raportuese.
