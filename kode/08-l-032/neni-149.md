@@ -1,0 +1,3 @@
+# Neni 149
+Marrja në pyetje e të pandehurit para ngritjes së aktakuzës 1. Përveç rasteve të parapara në nenin 234, paragrafi 2 të këtij Kodi, i pandehuri duhet të merret në pyetje nga prokurori i shtetit para ngritjes së aktakuzës. Nëse i pandehuri hetohet për vepër apo vepra penale për të cilat dënimi maksimal i paraparë është deri në tre (3) vjet burgim, mjafton që i dyshuari apo i pandehuri të jetë marrë në pyetje në polici me autorizim të prokurorit të shtetit.
+2. Pas thirrjes, i pandehuri detyrohet të paraqitet para prokurorit të shtetit. Neni 172, paragrafi 2 deri në 5 të këtij Kodi zbatohen përshtatshmërisht.

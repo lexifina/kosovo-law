@@ -1,0 +1,3 @@
+# Neni 247
+Shqyrtimet për përcaktimin e vlefshmërisë së propozimeve 1. Nëse gjyqtari i vetëm gjykues ose kryetari i trupit gjykues çmon se është e nevojshme mbajtja e shqyrtimit, për të vlerësuar kundërshtimet e të pandehurit nga neni 243 apo kërkesat nga neni 244 të këtij Kodi, ai e cakton dhe zbaton shqyrtimin e tillë sa më parë që të jetë e mundur, por brenda pesëmbëdhjetë (15) ditëve pas datës së paraqitjes të propozimeve të të pandehurit dhe përgjigjes së prokurorit të shtetit nëse ka paraqitur përgjigje.
+2. Gjyqtari i vetëm gjykues ose kryetari i trupit gjykues nxjerr aktvendim me shkrim të arsyetuar sa më parë që të jetë e mundur pas shqyrtimit të mbajtur sipas këtij neni dhe jo më vonë se pesëmbëdhjetë (15) ditë nga dita e mbajtjes së shqyrtimit nga ky nen.

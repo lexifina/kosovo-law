@@ -1,5 +1,0 @@
-# Article 350
-Modification of Indictment at Main Trial
-1. If the state prosecutor finds in the course of the main trial that the evidence presented indicates that the factual situation as described in the indictment has changed, he or she may modify the indictment orally during the main trial and may also make a motion to recess the main trial in order to prepare a new indictment.
-2. If the trial panel grants the recess of the main trial in order for a new indictment to be prepared, it shall determine the time in which the state prosecutor shall be obliged to file a new indictment. A copy of the new indictment shall be served on the accused. If the state prosecutor fails to file a new indictment within the prescribed period of time, the court shall resume the main trial on the basis of the previous indictment.
-3. When the indictment has been modified, the accused or the defence counsel may make a motion to recess the main trial in order to prepare the defence. The trial panel shall recess the main trial to allow for the preparation of defence, if the indictment has been substantially modified or extended.

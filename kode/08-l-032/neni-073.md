@@ -1,0 +1,4 @@
+# Neni 73
+E drejta e policisë për të ndaluar për kohë të shkurtë
+Policia ka të drejtë t’i ndalojë dhe të mbledhë informacione nga personat që gjenden në vendin e kryerjes së veprës penale, të cilët mund të japin informacione të rëndësishme për procedurën penale, nëse ka gjasa që mbledhja e informacionit nga këta persona më vonë do të ishte e pamundur ose do të zvarriste në mënyrë të konsiderueshme procedurën apo do të shkaktonte vështirësi të tjera. Ndalimi i personave të tillë nuk mund të zgjasë më shumë se sa është e nevojshme për të marrë emrat, adresat dhe informacionet e tjera relevante dhe në asnjë rast nuk mund të zgjasë më shumë se gjashtë orë. Ndalimi mund të bëhet vetëm nëse nuk ka mjete të tjera për të arritur deri tek informacioni. Policia e trajton personin e ndaluar me dinjitet, nuk e ndalon personin në qendër të paraburgimit dhe nuk i vë pranga.
+KODI NR. 08/L-032 I PROCEDURËS PENALE

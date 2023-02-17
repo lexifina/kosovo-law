@@ -1,0 +1,2 @@
+# Article 113
+Return of Temporarily Sequestrated or Restrained Evidence or Specified Property Except as provided in Article 276 of this Code, evidence or specified property that are temporarily sequestered or restrained during criminal proceedings shall be returned to the owner or possessor if the proceedings are terminated or if there are no grounds for them to be temporarily sequestered or confiscated.

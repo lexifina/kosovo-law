@@ -1,5 +1,0 @@
-# Article 463
-Decision on Motion to Realize Property Claims
-1. The court shall decide on property claims.
-2. In a judgment pronouncing the accused guilty the court may award the injured party the entire property claim or may award him or her part of the property claim and refer him or her to civil litigation for the remainder. If the data collected in the criminal proceedings do not provide a reliable basis for either a complete or a partial award, the court shall instruct the injured party that he or she may pursue the entire property claim in civil litigation.
-3. If the court renders a judgment acquitting the accused of the charge or rejecting the charge or if it renders a ruling to dismiss criminal proceedings, it shall instruct the injured party that he or she may pursue the property claim in civil litigation. When a court is declared not competent for the criminal proceedings, it shall instruct the injured party that he or she may present his or her property claim in the criminal proceedings commenced or continued by the competent court.

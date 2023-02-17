@@ -1,0 +1,2 @@
+# Neni 121
+Njohja e dëshmitarëve Asgjë në këtë Kod nuk i ndalon palët që të takohen me dëshmitarët e tyre para se të dëgjohen si dëshmitarë në shqyrtim gjyqësor, për të rikonfirmuar apo sqaruar informacionet e dhëna gjatë marrjes në pyetje në procedurë paraprake, deklaratës në procedurë paraprake apo mundësisë hetuese të veçantë, ose për të njoftuar dëshmitarin për rregullat e gjykatës dhe rrjedhën e procesit gjatë shqyrtimit gjyqësor.

@@ -1,7 +1,0 @@
-# Neni 533
-Realizimi i të drejtave tjera
-1. Personit të cilit për shkak të dënimit të paarsyeshëm ose arrestimit të pabazë i ka pushuar marrëdhënia e punës ose sigurimi social sipas sistemit të mirëqenies sociale, ka të drejtë të përfitojë kohën e humbur të papunësisë dhe të sigurimit duke ia llogaritur kohën e humbur të papunësisë sikur të ishte i punësuar gjatë dënimit ose arrestimit të pabazë. Në stazh llogaritet edhe koha që ka qenë pa punë për shkak të dënimit të paarsyeshëm ose arrestimit të pabazë, nëse humbja e vendit të punës nuk është shkaktuar me fajin e atij personi.
-2. Me rastin e çdo vendosjeje për të drejtën në të cilën ndikon gjatësia e stazhit të punës apo stazhit të sigurimit social, organi kompetent merr parasysh stazhin e njohur nga paragrafi 1. i këtij neni.
-3. Kur organi kompetent nga paragrafi 2. i këtij neni nuk e merr parasysh stazhin e njohur nga paragrafi 1 i këtij neni, i dëmtuari mund të kërkojë që gjykata nga neni 527, paragrafi 1. i këtij Kodi të konfirmojë njohjen e asaj kohe sipas ligjit. Padia paraqitet kundër organit kompetent i cili refuzon të pranojë stazhin e pranuar dhe kundër organit publik kompetent në lëmin e çështjeve gjyqësore.
-4. Me kërkesë të organit në të cilin realizohet e drejta nga paragrafi 2. i këtij neni, kontributi i caktuar për kohën e pranuar nga paragrafi 1. i këtij neni paguhet nga mjetet buxhetore.
-5. Stazhi i sigurimit social i pranuar me paragrafin 1. të këtij neni në tërësi llogaritet në stazhin pensional.

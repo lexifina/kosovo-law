@@ -1,0 +1,10 @@
+# Neni 277
+Urdhri i arsyetuar për konfiskimin e pasurisë 1. Aktgjykimi përmban urdhrin e arsyetuar që përcakton nëse duhet të konfiskohet secili send nga pasuria e përcaktuar në aktakuzë, në pajtim me nenin 235, paragrafi 1, nën-paragrafit 1.9 të këtij Kodi ose në njoftim sipas nenit 278 paragrafi 5 të këtij Kodi.
+2. Çdo ndërtesë, pasuri e paluajtshme, pasuri e luajtshme apo aset i përshkruar në aktakuzë në pajtim me nenin 235, paragrafin 1 nën-paragrafin 1.9 të këtij Kodi ose në njoftim sipas nenit 278 paragrafi 5 të këtij Kodi shqyrtohet veçmas në urdhrin nga paragrafi 1 i këtij neni.
+3. Nëse gjyqtari i vetëm gjykues ose trupi gjykues ka urdhëruar konfiskimin e pasurisë për zëvendësimi të vlerës në bazë të nenit 273 të këtij Kodi, ai jep arsyetim për çdo send të asaj pasurie.
+4. Prokurori i shtetit mund të kërkojë që pasuria e specifikuar të shitet apo të likuidohet. Mjetet e grumbulluara nga shitja apo likuidimi përdoren në pajtim me paragrafin 6 të këtij neni.
+5. Shitja e pasurisë së specifikuar të konfiskuar bëhet në pajtim me Ligjin për Agjencinë për Administrimin e Pasurive të Sekuestruara ose të Konfiskuara.
+6. Prokurori i shtetit mund të kërkojë që pasuria e specifikuar të mbahet për shfrytëzim nga Qeveria e Kosovës.
+7. Nëse mjetet konfiskohen drejtpërdrejt apo nëpërmjet paragrafit 3 të këtij neni, prokurori i shtetit, i dëmtuari ose viktima apo mbrojtësi i viktimave ose përfaqësuesi i viktimës mund të kërkojë që mjetet të përdoren për kompensimin e të dëmtuarit. Mjetet e mbetura i kalohen buxhetit të shtetit.
+8. Urdhri nga paragrafi 1 i këtij neni udhëzon Agjencinë për Administrimin e Pasurisë së Sekuestruar ose të Konfiskuar që të shesë, likuidojë ose të mbajë pasurinë e specifikuar. Nëse paraqitet kërkesë nga paragrafi 7 i këtij neni, gjykata mund të urdhërojë kompensimin e të dëmtuarit. Gjyqtari i vetëm gjykues ose trupi gjykues mund të përcaktojë kushte shtesë lidhur më përdorimin e pasurisë, nëse pasuria mbahet nga Qeveria.
+9. Agjencia për Administrimin e Pasurisë së Sekuestruar ose të Konfiskuar e ekzekuton urdhrin brenda dhjetë (10) ditëve nga lëshimi i saj.

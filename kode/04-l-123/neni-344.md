@@ -1,4 +1,0 @@
-# Neni 344
-Leximi i procesverbaleve ose riprodhimi i regjistrimeve
-1. Procesverbalet për këqyrjen e vendit jashtë shqyrtimit gjyqësor, për kontroll të lokaleve dhe të personit, marrjen e sendeve, dokumenteve, librave, dosjeve dhe shkresave të tjera si dhe incizime teknike me vlerë provuese lexohen ose riprodhohen në shqyrtim gjyqësor për vërtetimin e përmbajtjes së tyre. Trupi gjykues gëzon të drejtë diskrecioni të lejojë prezentim të përmbledhur gojor të këtyre të dhënave, si dhe riprodhim të regjistrimit audio ose video të rrjedhës së këtyre veprimeve hetimore. Dokumentet që kanë rëndësinë e provës, sipas mundësisë, dorëzohen në formë origjinale.
-2. Sendet që gjatë shqyrtimit gjyqësor mund të shërbejnë për sqarimin e çështjes, mund t’i tregohen të akuzuarit, e në rast nevoje, edhe dëshmitarëve dhe ekspertëve.

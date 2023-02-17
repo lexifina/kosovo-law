@@ -1,0 +1,8 @@
+# Article 135
+Obligations of Expert Witness 1. A person being summoned as an expert witness is required to respond to the summons and to provide his findings and opinion within a certain time limit. At the request of the expert witness, on justifiable grounds, the authority conducting proceedings may extend the time limit.
+2. If an expert witness duly summoned fails to appear and does not justify his absence, or departs without authorization from the location where he is to be questioned, the authority conducting proceedings may order him to be brought in forcibly and the court may impose a fine of two hundred and fifty (250) EUR on expert witness, and a fine up to one thousand (1000) EUR on a professional institution.
+3. If an expert witness, after being cautioned about the consequences of declining to perform
+CODE NO. 08/L-032 CRIMINAL PROCEDURE CODE expert examination, refuses to perform expert examination without a justifiable reason, or does not provide his expert opinion within the designated time limit, the court may impose a fine up to of five hundred (500) EUR on him, and a fine up to two thousand (2000) EUR on a professional institution.
+4. In the case referred to in paragraphs 2. and 3. of this Article, the court shall request the institution to initiate disciplinary proceedings against the expert witness if the expert examination is performed by a public authority.
+5. In the investigative stage the fines under paragraphs 2., 3. and 4. of this Article shall be imposed by the court upon request of the state prosecutor.
+6. An appeal against a ruling ordering a fine is decided on by the review panel. An appeal does not stay execution of the ruling.

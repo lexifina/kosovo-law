@@ -1,4 +1,0 @@
-# Neni 290
-Marrja në pyetje e dëshmitarëve ose ekspertëve jashtë gjykimit
-1. Kur dëshmitari ose eksperti i thirrur në shqyrtim gjyqësor nuk mund të paraqitet për shkak të sëmundjes kronike ose për shkak të pengesave të tjera, dëshmitari i tillë ose eksperti mund të merret në pyetje në vendin ku ai banon, përveç nëse dëshmitari apo eksperti i tillë është marrë në pyetje gjatë mundësisë hetuese të veçantë.
-2. Palët, mbrojtësi dhe i dëmtuari njoftohen për kohën dhe vendin e marrjes në pyetje nëse kjo është e mundshme duke pasur parasysh ngutin e procedurës. Nëse i akuzuari ndodhet në paraburgim, gjyqtari i vetëm gjykues ose kryetari i trupit gjykues vendos nëse prania e tij gjatë marrjes në pyetje është e nevojshme, duke siguruar që në mungesë të të akuzuarit, mbrojtësi i tij të jetë i pranishëm. Kur palët, mbrojtësi dhe i dëmtuari janë të pranishëm, ata i gëzojnë të drejtat nga neni 149, paragrafi 6. i këtij Kodi.

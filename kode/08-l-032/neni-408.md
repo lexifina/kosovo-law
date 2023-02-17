@@ -1,0 +1,5 @@
+# Neni 408
+Aktvendimet dhe urdhrat që mund të ankimohen 1. Kundër aktvendimeve ose urdhrave të gjyqtarit të procedurës paraprake dhe kundër aktvendimeve ose urdhrave të tjera të gjykatës themelore, palët dhe personat të drejtat e të cilëve janë shkelur, në pajtim me nenin 411 të këtij Kodi mund të paraqesin ankesë, me përjashtim kur me dispozitat e këtij Kodi shprehimisht nuk lejohet ankesë e tillë.
+2. Kundër aktvendimit ose urdhrit të marrë në procedurë paraprake nga kolegji shqyrtues nuk lejohet ankesë, me përjashtim të rasteve kur ky Kod parasheh ndryshe.
+3. Aktvendimet ose urdhrat që merren për përgatitjen e shqyrtimit gjyqësor dhe të aktgjykimit mund të kundërshtohen vetëm me ankesë kundër aktgjykimit, përveç kur ky Kod parasheh ndryshe.
+4. Kundër aktvendimit të Gjykatës Supreme të Kosovës nuk lejohet Ankesë.

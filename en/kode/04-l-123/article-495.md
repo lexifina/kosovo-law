@@ -1,5 +1,0 @@
-# Article 495
-Punitive Order Issued by Judgment
-1. If the single judge agrees with the request, he or she shall issue a punitive order by a judgment.
-2. The punitive order shall state that the state prosecutor's request is satisfied and that the punishment in the request shall be imposed on the defendant whose personal data shall be clearly indicated. The enacting clause of the judgment on a punitive order shall contain the necessary information under Article 365, paragraph 1, of the present Code, including the decision on a property claim, if a motion for its realization was filed. A statement of grounds shall state the evidence which justifies the issuance of the punitive order.
-3. The punitive order shall contain an instruction to the defendant in accordance with the provisions under Article 496, paragraph 2, of the present Code and stating that after the expiry of the term for submitting an objection, if no objection is submitted, the punitive order shall become final and the punishment imposed on the defendant shall be enforced.

@@ -1,0 +1,5 @@
+# Article 350
+Parties’ Closing Statements
+1. Upon completion of the evidentiary proceedings, the single trial judge or presiding trial judge calls on the parties and their representatives, to sum up their arguments. The state prosecutor speaks first, then the injured party or victim, victim advocate or victim’s representative, the defense counsel, and finally the accused.
+2. Persons presenting closing statements may refer to the admissible evidence, as well as the proceedings, the applicable law, the character and demeanour of the witnesses as observed in the judicial proceedings, as well as mitigating and aggravating factors. They may use charts, diagrams, court-approved transcripts of tapes or their functional equivalent, summaries and comparisons of evidence, if they are based on admissible evidence, as well as enlargements of exhibits and any demonstrative or illustrative exhibit or demonstration made in court.
+3. If a sentencing hearing has been requested pursuant to Article 356 of this Code, the closing statements shall only address arguments and facts regarding the guilt or innocence of the accused.

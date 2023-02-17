@@ -1,0 +1,3 @@
+# Neni 355
+Përfundimi i shqyrtimit gjyqësor, këshillimi dhe votimi 1. Nëse pas përfundimit të fjalës përfundimtare të palëve, gjyqtari i vetëm gjykues ose trupi gjykues nuk çmon se duhet marrë prova të tjera dhe nuk është bërë kërkesë për seancën për caktimin e dënimit nga prokurori i shtetit, i akuzuari apo mbrojtësi i tij, apo nëse të gjitha palët pajtohen që të mos mbahet seanca për caktimin e dënimit sepse seanca e tillë nuk është e nevojshme, gjyqtari i vetëm gjykues ose kryetari i trupit gjykues shpall shqyrtimin gjyqësor të përfunduar.
+2. Pas kësaj, gjyqtari i vetëm gjykues tërhiqet për të marrë aktgjykim, ndërsa trupi gjykues tërhiqet për këshillim dhe votim për të marrë aktgjykimin.

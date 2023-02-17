@@ -1,0 +1,10 @@
+# Neni 102
+Aktvendimi për fillimin e hetimit
+1. Hetimi fillohet me aktvendim të prokurorit të shtetit. Aktvendimi përcakton personin kundër të cilit do të kryhet hetimi, në rast se dihet. Ky person mund të idenfitikohet në bazë të të dhënave personale të tij ose përmes nofkës, fotografisë, karakteristikave tjera fizike apo dalluese ose mënyrave tjera të identifikimit që mundësojnë përcaktimin e personit. Aktvendimi gjithashtu përmban kohën e fillimit të hetimit, përshkrimin e veprës e cila tregon elementet e veprës penale, emërtimin ligjor të veprës penale, rrethanat dhe faktet që e justifikojnë dyshimin e arsyeshëm për veprën penale, nëse masat e veçanta hetimore janë autorizuar dhe provat me të dhënat e mbledhura deri në atë moment. Një kopje e aktvendimit të hetimit i dërgohet pa vonesë gjyqtarit të procedurës paraprake.
+2. Aktvendimi i prokurorit të shtetit për fillimin e hetimit gjithashtu mund të lëshohet nëse personi apo personat nga paragrafi 1 i këtij neni nuk janë të njohur. Me të identifikuar personin apo personat, prokurori i shtetit e ndryshon aktvendimin përshtatshmërisht.
+3. Rezultatet e veprimeve fillestare të policisë dhe mbledhjes së provave janë pjesë e lëndës hetimore.
+4. Pas nxjerrjes së aktvendimit nga ky nen, hetimi zbatohet dhe mbikëqyret nga prokurori i shtetit.
+KODI NR. 08/L-032 I PROCEDURËS PENALE 5. Prokurori i shtetit mund të ndërmerr veprime hetimore ose të autorizojë policinë që të ndërmerr veprime hetimore lidhur me mbledhjen e provave.
+6. Hetimi kryhet vetëm lidhur me veprën penale të përcaktuar në aktvendimin mbi fillimin e hetimit apo në aktvendimin e ndryshuar. Nëse i pandehuri është i ditur dhe përfshihet në aktvendimin për fillim të hetimit apo në aktvendimin e ndryshuar, hetimi zbatohet vetëm ndaj tij.
+7. Aktvendimit nga ky nen mund ti bashkëngjitet kërkesa për urdhër të gjykatës sipas nenit 103 të këtij Kodi.
+8. Aktvendimit nga ky nen mund ti bashkëngjitet kërkesa për urdhër ndalues të gjykatës sipas Kapitullit XVIII të këtij Kodi. B. Kontrolli dhe konfiskimi

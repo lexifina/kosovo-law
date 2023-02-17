@@ -1,0 +1,8 @@
+# Neni 24
+Urdhrat dhe aktvendimet e gjyqtarit të procedurës paraprake
+1. Gjyqtari i procedurës paraprake në departamentin e përgjithshëm apo në departamentin e krimeve të rënda është kompetent për të nxjerr aktvendime apo urdhra siç parashihet me këtë Kod.
+2. Urdhrat e gjyqtarit të procedurës paraprake në departamentin e përgjithshëm apo në departamentin e krimeve të rënda mund të shqyrtohen nga kolegji shqyrtues i të njëjtit departament të asaj gjykate pas paraqitjes së kundërshtimit nga palët. Nëse nuk ka numër të mjaftueshëm të gjyqtarëve, kryetari i gjykatës mund të caktojë gjyqtarët nga ndonjë departament tjetër për të shërbyer në kolegjin shqyrtues.
+KODI NR. 08/L-032 I PROCEDURËS PENALE 3. Aktvendimi i gjyqtarit të procedurës paraprake mund të shqyrtohet pas ankesës së paraqitur në Gjykatën e Apelit.
+4. Çdo urdhër i gjyqtarit të procedurës paraprake që prek të drejtat e të dëmtuarit ose viktimës mund të shqyrtohet nga kolegji shqyrtues i gjykatës themelore sipas paragrafit 2 të këtij neni brenda dyzet e tetë (48) orëve nga paraqitja e kundërshtimit. Prokurori i shtetit, mbrojtësi i viktimave ose përfaqësuesi i viktimave mund të kërkojnë shqyrtimin e urdhrit të gjyqtarit të procedurës paraprake në emër të të dëmtuarit ose viktimës apo vetë i dëmtuari ose viktima.
+5. Afati për paraqitjen e kundërshtimeve kundër urdhrave të gjyqtarit të procedurës paraprake është dyzet e tetë (48) orë nga momenti kur pala pranon urdhrin, në pajtim me nenin 378 të këtij Kodi.
+6. Afati për paraqitje të ankesave kundër aktvendimeve dhe urdhrave të gjyqtarit të procedurës paraprake është pesë (5) ditë prej kur pala e pranon aktvendimin apo urdhrin, në pajtim me nenin 378 të këtij Kodi, përveç nëse ndryshe parashihet me këtë Kod.

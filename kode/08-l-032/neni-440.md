@@ -1,0 +1,2 @@
+# Neni 440
+Mbrojtja e të drejtave sipas Kushtetutës së Republikës së Kosovës, Konventës Evropiane për të Drejtat e Njeriut dhe Gjykatës Evropiane për të Drejtat e Njeriut Mjetet e jashtëzakonshme juridike sipas këtij Kapitulli mund të paraqiten në bazë të të drejtave të siguruara me këtë Kod dhe të mbrojtura me Kushtetutën e Republikës së Kosovës ose Konventën Evropiane për të Drejtat e Njeriut dhe protokollet e saj, si dhe me vendimet e Gjykatës Evropiane për të Drejtat e Njeriut. PJESA E TRETË ADMINISTRIMI I PROCEDURËS

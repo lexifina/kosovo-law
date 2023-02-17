@@ -1,5 +1,0 @@
-# Article 375
-Fairness in Legal Remedies
-1. No party shall be permitted to have ex parte communication with the review panel, court of appeals or the Supreme Court regarding an objection or request for legal remedy that is pending before the review panel, court of appeals or the Supreme Court, or which the party intends to file before the review panel, court of appeals or the Supreme Court.
-2. No judge of the review panel, court of appeals or Supreme Court shall engage in an ex parte communication with a party regarding an objection or request for legal remedy to which the party has an interest which is pending before the court of appeals or the Supreme Court, or which the party intends to file before the review panel, court of appeals or the Supreme Court.
-3. The judge with whom the party attempts to have ex parte communications in violation of paragraph 1 or 2 of this Article shall immediately refuse the communications and shall inform the other parties of the attempted ex parte communication.

@@ -1,9 +1,0 @@
-# Article 132
-Pretrial Testimony
-1. During the investigative stage, the state prosecutor shall summon witnesses, victims, experts and the defendant or defendants to provide pre-trial testimony relevant to the criminal proceedings.
-2. During the investigative stage, the state prosecutor shall interview protected witnesses and cooperative witnesses while ensuring the appropriate safety and security for the protected or cooperative witnesses.
-3. A witness shall be summoned by serving a written summons which shall indicate: the name and surname and occupation of the witness, when and where he or she is to appear, the criminal case in connection with which he or she is summoned, an indication that he or she is summoned as a witness and the consequences of unjustifiable non-compliance with the summons.
-4. A person under the age of sixteen (16) years shall be summoned as a witness through his or her parents or legal representative, except where that is not possible for reasons of urgency or other circumstances.
-5. A witness who by reason of old age, illness or serious disability is unable to comply with the summons may be examined out of court.
-6. The state prosecutor shall give five (5) days written notice to the defendant, defence counsel, injured party and victim advocate of the date, time and location of the pre-trial testimony. A copy of the notice shall be placed into the file.
-7. Failure of the defendant, defence counsel, injured party or victim advocate to participate in a session of pretrial testimony after receiving notice under Paragraph 6 of this Article, without justification, shall prevent that same defendant, defence counsel, injured party or victim advocate from objecting to the admissibility of the testimony at a later stage of the criminal proceeding. These consequences shall be given in the notice provided in Paragraph 6 of this Article.

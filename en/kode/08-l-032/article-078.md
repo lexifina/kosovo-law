@@ -1,0 +1,5 @@
+# Article 78
+Collection of Information from Injured Party by Police
+1. When gathering information from an injured party or victim, the police shall inform the injured party or victim of his rights under Article 63 of this Code and upon the request of the injured party or victim and, where the injured party or victim belongs to one of the categories referred to in Article 63, paragraph 1. of this Code, shall notify the Victim Advocacy Office or the victim’s representative, if any.
+2. A person against whom any of the measures provided for in Articles 70-78 of this Code has been taken is entitled to file an appeal with the competent state prosecutor within three (3) days from the taking of the measures.
+3. The state prosecutor shall, without delay, verify the grounds for the appeal referred to in paragraph 2. of this Article, and if it is established that the actions or measures undertaken violate the criminal law or the code of conduct applicable to the police or employment obligations, he shall act in accordance with the law and shall inform the person who filed the appeal.

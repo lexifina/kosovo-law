@@ -1,0 +1,9 @@
+# Neni 44
+Bazat për përjashtimin e pjesëmarrësve të tjerë në procedurë penale 1. Mbrojtësi i viktimave ose përfaqësuesi i viktimës, procesmbajtësi, përkthyesi, specialisti dhe eksperti përjashtohet kur:
+KODI NR. 08/L-032 I PROCEDURËS PENALE 1.1. është palë ose është dëmtuar me veprën penale;
+1.2. është bashkëshort, bashkëshort jashtëmartesor, person në afri gjinie në vijë të drejtpërdrejtë të çfarëdo shkalle ose në vijë anësore deri në shkallën e katërt, person në afri krushqie deri në shkallën e dytë me të pandehurin, mbrojtësin e tij, prokurorin, të dëmtuarin ose viktimën;
+1.3. është kujdestar ligjor, nën kujdestari ligjore, fëmijë i adoptuar ose prind adoptues, prind birësues ose fëmijë i birësuar i të pandehurit, mbrojtësit të tij, prokurorit, të dëmtuarit ose viktimës;
+1.4. në çështjen e njëjtë penale ka marrë pjesë në procedurë si gjyqtar, prokuror, mbrojtës, ose është pyetur si dëshmitar apo ekspert; ose 1.5. ekziston konflikti i interesit siç përcaktohet me legjislacionin përkatës.
+2. Bazat për përjashtim të përcaktuara në paragrafin 1 të këtij neni zbatohen edhe për përfaqësuesin e viktimës, përveç në rastet e përcaktuara në nënparagrafët 1.1 deri 1.3 të këtij neni lidhur me marrëdhënien e tij me të dëmtuarin ose viktimën.
+3. Kryetari i trupit gjykues, gjyqtari i vetëm gjykues, gjyqtari i procedurës paraprake ose kryetari i kolegjit shqyrtues apo kolegjit ankimor vendos për përjashtimin e procesmbajtësit, përkthyesit, specialistit, ekspertit, mbrojtësit të viktimave dhe përfaqësuesit të viktimave.
+4. Në qoftë se zyrtari i autorizuar i policisë zbaton veprime hetimore në bazë të këtij Kodi, për përjashtimin e tij vendos prokurori i shtetit. Po qe se me rastin e ndërmarrjes së këtyre veprimeve merr pjesë procesmbajtësi, për përjashtimin e tij vendos personi zyrtar i cili ndërmerr veprimet.

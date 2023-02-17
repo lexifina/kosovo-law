@@ -1,6 +1,0 @@
-# Neni 275
-Provat e nevojshme për konfiskimin e dobisë pasurore, të fituar me vepër penale
-1. Para se gjykata të lëshojë urdhër përfundimtar për konfiskimin penal të ndërtesës, pasurisë së paluajtshme, pasurisë së luajtshme ose aseteve të përcaktuara në aktakuzë, në aktakuzë duhet të pretendohet dhe prokurori i shtetit duhet ta provojë në shqyrtim gjyqësor se ndërtesa, pasuria e paluajtshme, pasuria e luajtshme ose aseti ka qenë dobi pasurore e veprës penale nën hetim, në pajtim me nenet 276-280 të këtij Kodi.
-2. Prokurori i shtetit, i dëmtuari ose i pandehuri mund të marrin në pyetje dëshmitarët dhe të paraqesin prova në shqyrtim gjyqësor për të mbështetur ose kundërshtuar provat nga paragrafi 1. i këtij neni.
-3. Në raportin nga neni 148 i këtij Kodi dhe gjatë dëshmisë në shqyrtim gjyqësor, eksperti financiar i kualifikuar mund të shpreh mendimin e tij nëse ndërtesa, pasuria e paluajtshme, pasuria e luajtshme apo aseti i përcaktuar në aktakuzë është rrjedhojë e veprës penale që është nën hetim.
-4. Nëse i dëmtuari ka paraqitur kërkesë pasurore juridike për rikthimin e sendit të humbur nga vepra penale ose për kompensimin monetar ekuivalent për vlerën e sendit, kjo kërkesë pasurore juridike mund të mbështet dëshminë që kërkohet në paragrafin 1. të këtij neni, por nuk mund të merret si provë e vetme apo vendimtare nga paragrafi 1. i këtij neni.

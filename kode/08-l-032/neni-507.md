@@ -1,0 +1,8 @@
+# Neni 507
+Masat e trajtimit të detyrueshëm sipas kodit penal
+1. Kryerësi me çrregullim mendor apo personi i cili trajtohet si i tillë gëzon të drejtat dhe masat
+KODI NR. 08/L-032 I PROCEDURËS PENALE e trajtimit të detyrueshëm nga Kapitulli V i Kodit Penal.
+2. Ndaj kryerësit që veprën penale e ka kryer në gjendje të paaftësisë mendore apo në gjendje të aftësisë esencialisht të zvogëluar mendore, prokurori i shtetit përveç paraqitjes së propozimit apo aktakuzës paraqet edhe konfirmimin me shkrim se ndaj atij kryerësi nuk zhvillohet procedurë tjetër për vepër penale të kryer në gjendje të paaftësisë mendore apo në gjendje të aftësisë së zvogëluar mendore. Në rast se ka procedura tjera, prokurori i shtetit në propozim apo aktakuzë paraqet propozimin për bashkimin e procedurave që zhvillohen ndaj kryerësit në atë gjykatë.
+3. Kur ka disa procedura në zhvillim e sipër ndaj të pandehurit, gjykata, sipas propozimit të prokurorit të shtetit apo sipas detyrës zyrtare, kujdeset që ato t’i bashkojë dhe të zhvillojë vetëm një procedurë penale të bashkuar, ku për te gjitha vendos me një vendim dhe kryerësit i shqiptohet dënimi apo masa në pajtim me dispozitat ligjore.
+4. Kur vepra penale është kryer nga kryerësi në gjendje të paaftësisë mendore apo në gjendje të aftësisë esencialisht të zvogëluar mendore së bashku me kryerës të tjerë që nuk janë në një gjendje të tillë të çrregullimit mendor, procedura penale veçohet nga prokurori i shtetit dhe ndaj kryerësit me çrregullime mendore zhvillohet procedurë e ndarë.
+5. Nëse është ngritur aktakuzë ndaj te akuzuarit me aftësi esencialisht të zvogëluar mendore, gjykata përshtatshmërisht cakton seancën e shqyrtimit fillestar. Ndërkaq, kur prokurori i shtetit parashtron propozim, shqyrtimi fillestar nuk mbahet.

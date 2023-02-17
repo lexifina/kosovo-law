@@ -1,7 +1,0 @@
-# Article 232
-Mediation Proceedings
-1. The state prosecutor may refer the criminal report on a criminal offence punishable by a fine or by imprisonment of up to three (3) years for mediation. Before so doing, the state prosecutor shall take account of the type and nature of the act, the circumstances in which it was committed, the personality of the perpetrator and his or her prior convictions for the same criminal offence or for other criminal offences, as well as his or her degree of criminal liability.
-2. The mediation shall be conducted by an independent mediator. The mediator shall be obliged to accept a case referred by the state prosecutor and shall be obliged to take measures to ensure the contents of the agreement are proportionate to the seriousness and consequences of the act.
-3. An agreement may only be reached through mediation with the consent of the defendant and the injured party.
-4. On receiving notification that an agreement has been reached, the state prosecutor shall dismiss the criminal report. The mediator is obliged to inform the state prosecutor of a failure to reach an agreement and the reasons for such failure. The length of time for reaching an agreement may not exceed three (3) months.
-5. An agreement concluded due to mediation shall be enforceable, mutatis mutandis, under the Law on Obligational Relationships and the Law on Mediation, or successor law.

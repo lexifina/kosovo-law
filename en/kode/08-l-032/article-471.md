@@ -1,0 +1,4 @@
+# Article 471
+The Sequence for Reviewing Matters which are Subject to Voting 1. When rendering a decision, a vote is first taken on whether the court is competent, on whether it is necessary to complete the proceedings, and on other preliminary issues.
+2. When rendering a decision on the main issue, a vote is first taken on whether the accused has committed the criminal offense and whether he is criminally liable, and thereafter a vote is taken on the punishment, other criminal sanctions or measures of mandatory treatment, the costs of criminal proceedings, property claims and other issues which are to be decided.
+3. If an individual has been charged with several criminal offenses, a vote is taken on criminal liability and punishments for each criminal offense, and thereafter a vote is taken on a single punishment for all the criminal offenses.

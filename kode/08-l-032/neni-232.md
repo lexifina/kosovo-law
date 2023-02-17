@@ -1,0 +1,5 @@
+# Neni 232
+Njoftimi i të pandehurit për identitetin e dëshmitarit bashkëpunues
+1. Nëse prokurori i shtetit ka për qëllim të thërrasë dëshmitarin bashkëpunues për të dëshmuar në gjykim, prokurori i shtetit jep njoftim me shkrim të pandehurit, mbrojtësit të tij dhe gjyqtarit të vetëm gjykues ose kryetarit të trupit gjykues së paku katërmbëdhjetë (14) ditë para fillimit të shqyrtimit gjyqësor.
+2. Prokurori i shtetit mund të kërkojë nga gjyqtari i vetëm gjykues ose kryetari i trupit gjykues që të paraqesë këtë njoftim me masa mbrojtëse ose të anonimitetit sipas Kapitullit XIII të këtij Kodi, nëse prokurori përfshin informata në njoftim se dëshmitari bashkëpunues do të vihet në rrezik nëse njoftimi i vihet në dispozicion publikut. Gjykata vendosë pa vonesë për këtë kërkesë.
+3. Ky njoftim nga prokurori i shtetit ofron përmbledhje të dëshmisë së pritshme dhe rëndësisë për gjykimin, së bashku me çdo raport policor ose materiale të tjera të shkruara, të cilat dokumentojnë informacionin e dhënë nga dëshmitari bashkëpunues.

@@ -1,5 +1,0 @@
-# Neni 280
-Procedura për palën e tretë që posedon dobinë pasurore nga vepra penale
-1. Gjykata mund të shqiptojë konfiskim të dobisë pasurore të fituar me kryerjen e veprës penale në aktgjykim me të cilin i akuzuari shpallet fajtor ose në aktgjykim mbi vërejtjen gjyqësore, si dhe në aktvendim me të cilin shqiptohet masa e trajtimit të detyrueshëm për rehabilitim të kryerësve të veprave penale të varur nga alkooli ose droga.
-2. Në dispozitivin e aktgjykimit ose të aktvendimit, gjykata përcakton shumën e parave dhe sendin e konfiskuar. Kur ka shkaqe të arsyeshme, gjykata mund të lejojë pagesë me këste të dobisë pasurore të fituar nga veprat penale dhe cakton afatin e pagesës dhe shumën e saj.
-3. Kur gjykata ka shqiptuar konfiskim të dobisë pasurore të fituar me vepër penale ndaj personit, organizatës afariste apo ndaj personit tjetër juridik, kopja e vërtetuar e aktgjykimit ose e aktvendimit i dërgohet edhe personit në të cilin ka kaluar dobia pasurore si dhe përfaqësuesit të organizatës afariste apo personit tjetër juridik.

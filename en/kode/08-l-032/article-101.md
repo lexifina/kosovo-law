@@ -1,0 +1,7 @@
+# Article 101
+General Principles of Investigative Stage
+1. During the investigative stage the state prosecutor shall ascertain not only inculpatory but also exculpatory circumstances and evidence, and shall ensure that evidence, which may not be available at the main trial, is taken. During this stage, the state prosecutor shall also collect evidence that is relevant for a meritorious decision by the court on the type and severity of the criminal sanction.
+2. The aim of an investigation is to collect evidence and data necessary for deciding whether to file an indictment or to discontinue proceedings and to collect evidence which might be impossible or difficult to reproduce at the main trial.
+3. Every person against whom the state prosecutor has a reasonable suspicion that he has committed a criminal offense shall be named as a defendant in the ruling on imitation of investigation. Every defendant named in the ruling shall be entitled to the rights of a defendant under this Code.
+4. If the state prosecutor becomes aware of evidence of the commission of another criminal offense or another suspect during an investigation, the state prosecutor may initiate a new investigation of the new criminal offense or suspects, or may amend the ruling of or expand the existing investigation. The state prosecutor shall inform the pretrial judge about new or amended rulings.
+5. During the investigative stage, unauthorized disclosure of collected information, materials, data or evidence shall be prohibited.

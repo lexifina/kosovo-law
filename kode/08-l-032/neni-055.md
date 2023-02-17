@@ -1,0 +1,4 @@
+# Neni 55
+Përjashtimi i mbrojtësit 1. Mbrojtës nuk mund të jetë i dëmtuari ose viktima, bashkëshorti apo bashkëshorti jashtëmartesor i të dëmtuarit ose viktimës, e as personi që është në gjini gjaku në vijë të drejtë në cilëndo shkallë, në vijë anësore deri në shkallën e katërt ose të krushqisë deri në shkallën e dytë me të dëmtuarin, viktimën apo prokurorin.
+KODI NR. 08/L-032 I PROCEDURËS PENALE 2. Mbrojtës nuk mund të jetë as personi i cili është thirrur si dëshmitar, përveç nëse sipas këtij Kodi është liruar nga detyra e të dëshmuarit dhe ka deklaruar se nuk do të dëshmojë ose nëse mbrojtësi pyetet si dëshmitar në rastin nga neni 123 paragrafi 1 nënparagrafi 1.2 i këtij Kodi.
+3. Mbrojtës nuk mund të jetë as personi, i cili në të njëjtën lëndë ka vepruar si gjyqtar, prokuror i shtetit apo zyrtari i autorizuar.

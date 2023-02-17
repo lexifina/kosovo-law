@@ -1,0 +1,9 @@
+# Neni 129
+Marrja e deklaratës në procedurë paraprake
+1. Gjatë fazës së hetimit, prokurori i shtetit thërret dëshmitarët, viktimat, ekspertët dhe të pandehurin apo të pandehurit për të dhënë deklaratë në procedurë paraprake.
+2. Gjatë fazës së hetimit, prokurori i shtetit merr në pyetje dëshmitarët e mbrojtur dhe dëshmitarët bashkëpunues duke siguruar sigurinë e përshtatshme për ta.
+3. Dëshmitari thirret duke ia dërguar thirrjen me shkrim në të cilën shënohet emri, mbiemri dhe profesioni i dëshmitarit, koha dhe vendi ku duhet të paraqitet, lënda penale për të cilën thirret, shënimi se thirret si dëshmitar dhe paralajmërimi për pasojat e mungesës pa arsye.
+4. Thirrja si dëshmitar e personit që nuk ka mbushur moshën gjashtëmbëdhjetë (16) vjet bëhet nëpërmjet prindërve të tij apo përfaqësuesit ligjor, përveç kur kjo nuk është e mundur për shkak të nevojës për veprim të ngutshëm ose për shkak të rrethanave të tjera.
+5. Dëshmitari i cili për shkak të pleqërisë, sëmundjes ose të metave të rënda trupore nuk mund t’i përgjigjet thirrjes, mund të pyetet jashtë gjykatës.
+6. Prokurori i shtetit e njofton me shkrim pesë (5) ditë më herët të pandehurin, mbrojtësin, të dëmtuarin dhe mbrojtësin e viktimave apo përfaqësuesin e viktimës lidhur me datën, kohën dhe vendin ku do të merret deklarata në procedurë paraprake. Kopje e njoftimit i bashkëngjitet shkresave të lëndës.
+7. Mospjesëmarrja e pajustifikuar e të pandehurit, mbrojtësit, të dëmtuarit ose viktimës apo mbrojtësit të viktimave ose përfaqësuesit të viktimave në seancën për marrjen e deklaratës në procedurë paraprake, pasi të ketë pranuar njoftimin nga paragrafi 6, ia mohon atij të pandehuri, mbrojtësi, të dëmtuari apo mbrojtësi të viktimës që të kundërshtojë pranueshmërinë e dëshmisë në një fazë të mëvonshme të procedurës penale. Këto pasoja ceken në njoftimin nga paragrafi 6 t këtij neni.

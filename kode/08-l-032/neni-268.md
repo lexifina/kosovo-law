@@ -1,0 +1,9 @@
+# Neni 268
+Bazat për ankesë për lëshimin ose refuzimin e urdhrit ndalues përfundimtar 1. Prokurori i shtetit, i pandehuri dhe pala e tretë e cekur në urdhrin ndalues përfundimtar mund të paraqesë ankesë ndaj lëshimit apo refuzimit të urdhrit, brenda pesëmbëdhjetë (15) ditëve nga pranimi i urdhrit me shkrim.
+2. Ankesa nuk e pezullon ekzekutimin e urdhrit. Dispozitat e Kapitullit XXI të këtij Kodi zbatohen përshtatshmërisht.
+3. Bazat e vetme për ankesë nga i pandehuri ose nga pala e tretë sipas paragrafit 1 i këtij neni janë:
+3.1. prokurori i shtetit nuk e ka vërtetuar dyshimin e bazuar të specifikuar në paragrafin 1 të nenit 260 të këtij Kodi, ose 3.2. prokurori i shtetit nuk e ka përshkruar domosdoshmërinë e urdhrit ndalues të përkohshëm siç është specifikuar në nenin 260 nënparagrafin 3.2 të këtij Kodi, ose
+KODI NR. 08/L-032 I PROCEDURËS PENALE 3.3. në rastin e pasurisë së specifikuar që është mjet i veprës penale në pronës të palës së tretë dhe nuk është dhuratë e njollosur, pala e tretë ka vërtetuar se posedon mjetin e specifikuar dhe nuk ka ditur ose nuk ka mundur të dyshojë në mënyrë të arsyeshme se pasuria është përdorur si mjet.
+4. Bazat e vetme për ankesë nga i prokurori i shtetit sipas paragrafit 1 të këtij neni janë:
+4.1. Prokurori i shtetit e ka vërtetuar dyshimin e bazuar të specifikuar në paragrafin 1 të nenit 260 të këtij Kodi;
+4.2. Prokurori i shtetit e ka përshkruar domosdoshmërinë e urdhrit ndalues të përkohshëm siç është specifikuar në nën-paragrafin 3.2. të nenit 260 të këtij Kodi, ose 4.3. Në rastin e pasurisë së specifikuar që është mjet i veprës penale në pronësi të palës së tretë dhe nuk është dhuratë e njollosur, pala e tretë nuk ka dëshmuar se është në pronësi të mjetit të specifikuar dhe nuk ka ditur apo nuk ka mundur të ketë dyshuar në mënyrë të arsyeshme se pasuria do të përdorej si mjet i veprës penale.

@@ -1,0 +1,8 @@
+# Article 282
+Persons Summoned to Main Trial
+1. The persons summoned to appear at the main trial include the accused, his defense counsel, the state prosecutor, the injured party or victim and victim advocate or victim’s representative, as well as the interpreter. Witnesses and expert witnesses proposed by the state prosecutor in the indictment and by the accused under Article 250 of the present Code are also summoned to the main trial.
+2. Article 172 of the present Code applies to the contents of the summonses served on the accused and witnesses. When defense is not mandatory, the accused is instructed in the summons that he has the right to engage defense counsel but that the main trial need not be postponed because defense counsel has not come to the main trial or because the accused has engaged defense counsel at the main trial.
+3. The accused is served with the summons no less than eight (8) days before the main trial so as to have sufficient time between the service of the summons and the day of the main trial to prepare his defense. At the request of the accused, or at the request of the state prosecutor and with the agreement of the accused, this prescribed period of time may be shortened.
+4. The injured party who has not been summoned to appear as a witness is informed in a summons that the main trial may be held in his absence and that his statement on a property claim shall be read.
+5. The accused, witness and expert witness are informed in the summonses of the consequences of failure to appear at the main trial.
+6. At the request of the Ombudsperson of Kosovo, the Ombudsperson is also notified of the main trial for the purpose of monitoring the criminal proceedings within the limits of his authority.

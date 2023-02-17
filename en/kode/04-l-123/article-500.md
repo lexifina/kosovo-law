@@ -1,4 +1,0 @@
-# Article 500
-Grounds for appeal against the judgment on judicial admonition
-1. The judgment on judicial admonition may be appealed on grounds provided for in Article 383 paragraph 1 subparagraphs 1.1, 1.2 and 1.3 of the present Code and on the ground that circumstances warranting the rendering of a judicial admonition do not exist.
-2. Where a judgment on judicial admonition contains a decision on a measure of mandatory rehabilitation treatment, confiscation of the material benefit acquired by the commission of a criminal offence, costs of criminal proceedings or a property claim, such judgment may be challenged on the ground that the court has not applied correctly the measures of mandatory rehabilitation treatment or the confiscation of the material benefit acquired by the commission of a criminal offence or that its decision on the costs of criminal proceedings or on the property claim was rendered contrary to legal provisions.

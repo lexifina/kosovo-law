@@ -1,0 +1,6 @@
+# Article 54
+Limits of Representation by Defense Counsel
+1. In criminal proceedings a defense counsel is not allowed to represent two or more defendants in the same case, regardless of whether the case has been severed or the stage of the proceedings. A defense counsel may not represent a legal person and a natural person in the same case, unless the natural person is the only person who owns, manages and is employed by the legal person.
+2. A defendant may have up to three (3) defense counsel, and it shall be considered that the right to defense shall be considered satisfied if one of the defense counsel is participating in the proceedings.
+3. If a defendant has more than one defense counsel, one defense counsel shall be nominated the lead counsel by the defendant. If the defendant fails to do so, the lead counsel will be the first one to submit his power of attorney. Service upon the lead counsel of documents, including indictments, requests, replies, appeals and the documents required to be disclosed to defendants shall constitute service upon all attorneys representing the party. Only the submissions filed by the lead counsel shall be considered by the court. However, if the lead counsel is unavailable to file a submission, another defense counsel may file a submission with the consent of the defendant.
+CODE NO. 08/L-032 CRIMINAL PROCEDURE CODE

@@ -1,0 +1,5 @@
+# Neni 350
+Fjala përfundimtare e palëve
+1. Pas përfundimit të procedurës së provave, gjyqtari i vetëm gjykues ose kryetari i trupit gjykues u jep fjalën palëve dhe përfaqësuesve të palëve për t’i përmbledhur argumentet e tyre. Së pari, fjalën e merr prokurori i shtetit, pastaj i dëmtuari ose viktima, mbrojtësi i viktimave ose përfaqësuesi i viktimës, mbrojtësi dhe në fund i akuzuari.
+2. Personat në fjalën përfundimtare mund t’u referohen provave të pranueshme, si dhe procedurës, ligjit në fuqi, karakterit dhe sjelljes së dëshmitarëve gjatë procedurës gjyqësore, si dhe rrethanave lehtësuese dhe rënduese. Ata mund të përdorin tabela, diagrame, përshkrime incizimesh të lejuara nga gjykata ose ekuivalentin e tyre funksional, përmbledhje dhe krahasime të provave nëse ato bazohen në prova të pranueshme, si dhe zmadhim të ekzemplarëve të tyre për t’i demonstruar ose për t’i paraqitur si ilustrim në gjykatë.
+3. Nëse është kërkuar seancë për caktimin e dënimit në pajtim me nenin 356 të këtij Kodi, fjalët përfundimtare trajtojnë vetëm argumentet dhe faktet në lidhje me fajësinë ose pafajësinë e të akuzuarit.

@@ -1,0 +1,6 @@
+# Neni 487
+Ekzekutimi i aktgjykimit lidhur me shpenzimet e procedurës penale, konfiskimin dhe kërkesën pasurore juridike 1. Në rastin e shpenzimeve të procedurës penale, taksen përkatëse për kompensimin e viktimave të krimit, konfiskimit dhe kërkesës pasurore juridike, aktgjykimi ekzekutohet nga gjykata kompetente sipas dispozitave të zbatueshme në procedurën e përmbarimit.
+2. Arkëtimi i detyrueshëm i shpenzimeve të procedurës penale që duhet derdhur në buxhet bëhet sipas detyrës zyrtare. Shpenzimet e arkëtimit të detyrueshëm fillimisht mbulohen nga mjetet buxhetore të gjykatës.
+3. Nëse aktgjykimi përmban urdhrin për konfiskimin e pasurisë, prona e tillë automatikisht bëhet pronë e shtetit. Një kopje e vërtetuar e aktgjykimit të formës së prerë duhet t’i dërgohet menjëherë Agjencisë për Administrimin e Pasurisë së Sekuestruar dhe të Konfiskuar, të cilat mund t’i shesin objektet ose t’i vendosin ato në përdorim të Qeverisë. Të ardhurat monetare nga shitja e objekteve të tilla do të kreditohen në buxhet.
+4. Përveç rihapjes së procedurës penale ose kërkesës për mbrojtjen e ligjshmërisë, urdhri i formës së prerë për konfiskimin e sendit mund të ndryshohet në çështje gjyqësore civile nëse lind një mosmarrëveshje në lidhje me pronësinë e sendit të konfiskuar.
+KODI NR. 08/L-032 I PROCEDURËS PENALE

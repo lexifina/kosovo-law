@@ -1,0 +1,7 @@
+# Article 476
+Alternatives to Personal Service
+1. A document for which the present Code does not specify obligatory personal service is served in person but if the addressee is not found at home or at work, such document may be given to any adult member of his household, who must accept the document. If they are not found at
+CODE NO. 08/L-032 CRIMINAL PROCEDURE CODE home, the document is left with a guardian or a neighbour, if he consents to accept it. If service is effected at the workplace of a person on whom a document is to be served and that person is not found there, it may be served on a person authorized to receive the mail, who must accept the document, or a person employed at that same workplace, if he consents to accept the document.
+2. If a document cannot be served on persons under paragraph 1 of the present Article, a note is left for the addressee with an indication of the post office at which the document can be collected and the time limit within which it may be collected. A document not collected within the time limit specified shall be returned.
+3. If it is ascertained that the person on whom a document is to be served is absent and that the persons referred to in paragraph 1 of the present Article may not therefore present the document to him on time, the document is returned with an indication of where the absent person is located.
+4. Paragraphs 1 to 3 of this Article have no application to the circumstances of electronic service of summons or other documents.

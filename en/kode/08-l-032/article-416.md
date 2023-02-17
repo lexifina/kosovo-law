@@ -1,0 +1,9 @@
+# Article 416
+Decisions on Appeals against Ruling or Order 1. An appeal against a ruling or order of the Basic Court is decided by the Court of Appeals in a session of the panel, unless otherwise provided for by the present Code.
+2. In deciding on an appeal the court may dismiss by a ruling the appeal as belated or inadmissible, reject it as unfounded or accept it and modify the ruling or order, or annul it and return it for reconsideration where necessary.
+3. In deciding on an appeal against a ruling by which the indictment is dismissed, the court may reject the appeal by a judgment if it finds that there are grounds for such judgment.
+4. In examining an appeal, the court inquires ex officio into whether the Basic Court had the subject matter jurisdiction to render the ruling or order and whether the ruling or order was rendered by the authority empowered to render it.
+5. The ruling of the Court of Appeals is signed by the presiding judge of the appellate panel.
+6. Unless otherwise provided under the present Code, the session on the appeal against the ruling or order is scheduled within thirty (30) days after the state prosecutor has returned the files, unless extended by the President of the Court of Appeals upon the request of the presiding judge of the panel.
+CODE NO. 08/L-032 CRIMINAL PROCEDURE CODE 7. Unless otherwise provided under the present Code, the ruling under this Article, is drawn up in writing within fifteen (15) days after the session, unless extended by the President of the Court of Appeals upon the request of the presiding judge of the panel.
+8. Article 380 paragraph 3, Article 385 paragraph 1 sub-paragraphs 1.1 through 1.4, Articles 386, 395 and 397, Article 404 paragraphs 1 and 3, and Article 405 paragraph 1 of the present Code apply mutatis mutandis to appeal against ruling or order.

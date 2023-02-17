@@ -1,0 +1,8 @@
+# Neni 282
+Personat e thirrur në shqyrtim gjyqësor
+1. Në shqyrtim gjyqësor thirret i akuzuari dhe mbrojtësi i tij, prokurori i shtetit, i dëmtuari ose viktima dhe mbrojtësi i viktimave ose përfaqësuesi i viktimës si dhe përkthyesi. Dëshmitarët dhe ekspertët e propozuar nga prokurori i shtetit në aktakuzë dhe nga i akuzuari sipas nenit 250 të këtij Kodi thirren po ashtu në shqyrtimin gjyqësor.
+2. Lidhur me përmbajtjen e thirrjes për të akuzuarin dhe dëshmitarët zbatohet neni 172 i këtij Kodi. Kur mbrojtja nuk është e detyrueshme, i akuzuari në thirrje udhëzohet për të drejtën e tij
+KODI NR. 08/L-032 I PROCEDURËS PENALE në mbrojtës, por shqyrtimi gjyqësor nuk mund të shtyhet nëse mbrojtësi nuk vjen në shqyrtimin gjyqësor ose për shkak se i akuzuari ka angazhuar mbrojtës në shqyrtimin gjyqësor 3. Të akuzuarit i dërgohet thirrja jo më vonë se tetë (8) ditë para shqyrtimit gjyqësor që ai të ketë kohë të mjaftueshme ndërmjet dërgimit të thirrjes dhe ditës së shqyrtimit gjyqësor për përgatitjen e mbrojtjes. Me kërkesën e të akuzuarit ose të prokurorit të shtetit dhe me pëlqimin e të akuzuarit, ky afat mund të shkurtohet.
+4. Gjykata në thirrje e njofton të dëmtuarin i cili nuk thirret si dëshmitar se shqyrtimi gjyqësor do të mbahet edhe pa praninë e tij dhe se deklarata e tij për kërkesën pasurore juridike do të lexohet.
+5. I akuzuari, dëshmitari dhe eksperti njoftohen në thirrje për pasojat e mosparaqitjes në shqyrtimin gjyqësor.
+6. Me kërkesë të Avokatit të Popullit, Avokati i Popullit gjithashtu njoftohet për shqyrtimin gjyqësor me qëllim të monitorimit të procedurës penale në kufijtë e autorizimeve të tij.

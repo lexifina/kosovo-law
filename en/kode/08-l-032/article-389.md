@@ -1,0 +1,6 @@
+# Article 389
+Procedure related to the appeal against a judgment at the Court of Appeals 1. Upon receiving the files, the Secretary of the Court of Appeals will send the files to the state prosecutor within the Appellate Prosecution Office who examines and returns them to the court without delay at latest within seven (7) days with the proposal or declares that he will file it at the appellate panel session.
+2. After the appellate state prosecutor has returned the files, the case is assigned to the reporting judge.
+3. The reporting judge may, when necessary, secure a report on violations of provisions of criminal procedure from the Basic Court, and he may also verify through that court, or in some other way, the allegations in the appeal relating to new evidence and new facts or he may secure the necessary reports or documents from other agencies or legal persons.
+CODE NO. 08/L-032 CRIMINAL PROCEDURE CODE 4. Upon the review of the case, the reporting judge will inform the presiding judge who will schedule a session of the appellate panel.
+5. If the accused is in detention on remand, the reporting judge examines ex officio whether reasons for detention on remand still exist within five (5) days upon receiving the case file.

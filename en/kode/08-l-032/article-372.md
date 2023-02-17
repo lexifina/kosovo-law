@@ -1,0 +1,3 @@
+# Article 372
+Execution of Penal Sanctions 1. If the court decides on extension or imposition of detention on remand following the announcement of judgment, or when the court imposes a punishment based on provisions of Article 368 paragraph 7 of the present Code, it is deemed that the accused is serving the sentence pursuant to provisions of the Law on Execution of Penal Sanctions. 2.When a final sentence is imposed with imprisonment, while the accused has fled Kosovo or
+CODE NO. 08/L-032 CRIMINAL PROCEDURE CODE is avoiding serving his sentence, the single trial judge or presiding judge shall issue an arrest warrant for the accused in accordance with Article 173 of the present Code.

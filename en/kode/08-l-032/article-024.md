@@ -1,0 +1,7 @@
+# Article 24
+Orders and Rulings by the Pretrial Judge
+1. A pretrial judge in the General Department or Serious Crimes Department shall be competent to issue rulings or orders as foreseen by this Code.
+CODE NO. 08/L-032 CRIMINAL PROCEDURE CODE 2. Orders of a pretrial judge in the General Department or Serious Crimes Department may be reviewed upon a party’s objection by a review panel from the same Department of that court. If there are insufficient judges, the President of the Court may assign judges from another Department to serve on the review panel.
+3. A ruling by a pretrial judge may be reviewed upon an appeal by the Court of Appeals.
+4. Any order by the pretrial judge that affects the rights of the injured party or victim may be reviewed by the review panel of the Basic Court under paragraph 2. of this Article within forty- eight (48) hours from the objection being filed. The state prosecutor, victim advocate or victim’s representative may request the review of the pretrial judge’s order on behalf of the injured party or victim or by the injured party or victim himself or herself.
+5. The deadline for objections to orders by a pretrial judge is forty-eight (48) hours from the receipt of the order by the party, in accordance with Article 378 of this Code. 6.The deadline for appeals from rulings and orders by a pretrial judge is five (5) days from the receipt of the ruling or order by the party, in accordance with Article 378 of this Code, unless otherwise provided for by this Code.

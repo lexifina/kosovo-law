@@ -1,0 +1,7 @@
+# Neni 333
+Përdorimi i dëshmisë së mëparshme të dëshmitarit
+1. Pala mund të propozojë marrjen e provës në shqyrtim gjyqësor nga dëshmia e mëparshme e dëshmitarit, nëse dëshmia e tillë është marrë gjatë mundësisë hetuese të veçantë nga neni 147 të këtij Kodi.
+2. Pala mund të propozojë marrjen e provës në shqyrtim gjyqësor nga dëshmia e mëparshme e dëshmitarit nëse dëshmia e tillë është marrë gjatë seancës për marrjen e deklaratës në procedurë paraprake nga neni 129 i këtij Kodi, dëshmitari nuk është në dispozicion për të dëshmuar dhe është paraqitur mbështetje e provave në pajtim me nenin 258 të këtij Kodi.
+3. Prokurori i shtetit mund të propozojë marrjen e provës në shqyrtim gjyqësor nga incizimet audio ose video ose ekuivalenti i tyre funksional, të të akuzuarit të marra në pajtim me nenin 88 ose 90 të këtij Kodi.
+4. Nëse është bërë incizimi audio ose video ose ekuivalenti i tyre funksional i dëshmisë ose deklaratës nga paragrafit 1 deri 3. të këtij neni ajo riprodhohet në tërësi gjatë shqyrtimit gjyqësor, përveç nëse gjyqtari i vetëm gjykues ose trupi gjykues vendosin që dëgjimi i tërësishëm i videokasetës apo audiokasetës përmban tepër shumë informata të parëndësishme. Në rast të tillë, gjyqtari i vetëm gjykues ose trupi gjykues mund të urdhërojë që pjesë të veçanta dhe të rëndësishme të videokasetës apo audiokasetës të riprodhohen në shqyrtim gjyqësor.
+5. Ky nen nuk e ndalon përdorimin e deklaratave të mëparshme nga një dëshmitar gjatë marrjes në pyetje, marrjes së tërthortë në pyetje dhe rimarrjes në pyetje dhe rishqyrtimit të dëshmitarit.

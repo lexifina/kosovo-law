@@ -1,0 +1,6 @@
+# Article 238
+Filings Supplemental to the Indictment
+1. Concurrent with filing the indictment, the state prosecutor files the following documents if appropriate:
+1.1. the state prosecutor files a notice of corroboration of evidence under Article 258 of this Code with any statement taken under Article 129 of this Code or evidence obtained under Article 215, paragraph 6. of this Code that he intends to submit as direct evidence which could not be challenged by the defendant or defense counsel though questioning during some stage of the criminal proceedings. The notice of corroboration of evidence describes the independent evidence that corroborates the statement that the state prosecutor intends to submit as direct evidence. This notice of corroboration of evidence may be supplemented or filed at a later date if a witness for whom this provision applies is no longer available to testify at the main trial.
+1.2. the state prosecutor files a request to continue or implement any measure to ensure the presence of the defendant. Articles 171 through 190 of this Code apply mutatis mutandis to any request under this paragraph.
+2. The state prosecutor may file notices of corroboration or requests under this Article at other times if he could not know the basis for filing the notice or request at the time the indictment was filed.

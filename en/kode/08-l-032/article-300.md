@@ -1,0 +1,2 @@
+# Article 300
+Opening of Session The single trial judge or presiding trial judge opens the session and announces the case to be tried at the main trial and, if there is a trial panel, the composition of the trial panel. He then determines whether all the persons summoned have appeared and, if they have not, he checks whether they were served with a summons and whether the absent persons have justified their absence.

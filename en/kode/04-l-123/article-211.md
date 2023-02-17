@@ -1,6 +1,0 @@
-# Article 211
-Recording by Others
-1. The pre-trial judge may permit other persons who have a legitimate interest to audio or video- record specific investigative actions, if this would have an insignificant influence on the rights, especially the right to privacy, of the defendant, the injured party, witnesses, and other participants in the proceedings. Personal details about the defendant, injured party or witness are confidential and may be used only in the course of criminal proceedings.
-2. On the motion of a party or ab initio the president of the Court may exceptionally authorize such recordings provided for in paragraph 1 of the present Article in the case of a main trial.
-3. The parties and the defense counsel may make an audio-recording of the main trial which is held in open court. Personal data about the defendant, injured party or witness which are recorded are confidential and may be used only in the course of criminal proceedings. An audio- recording made under this paragraph shall not be played to a witness.
-4. Where the recording of the main trial is permitted, the single trial judge or presiding trial judge may for justifiable reasons prohibit the recording of specific parts of the session.

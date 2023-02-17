@@ -1,0 +1,3 @@
+# Neni 372
+Ekzekutimi i sanksioneve penale 1. Kur gjykata vendos për vazhdimin ose caktimin e paraburgimit pas shpalljes së aktgjykimit, ose kur gjykata e cakton dënimin konform dispozitës së nenit 368, paragrafit 7 të këtij kodi, konsiderohet se i akuzuari është në vuajtje të dënimit konform dispozitave të Ligjit për ekzekutimin e sanksioneve penale.
+2. Kur me aktgjykim të formës së prerë shqiptohet dënimi me burgim ndërsa i akuzuari ka ikur jashtë Kosovës apo i shmanget mbajtjes së dënimit, gjyqtari i vetëm gjykues ose kryetari i trupit gjykues lëshon urdhërarrest për të akuzuarin në pajtim me nenin 173 të këtij Kodi.

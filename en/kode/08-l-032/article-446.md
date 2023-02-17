@@ -1,0 +1,3 @@
+# Article 446
+Petition to Return to Status Quo Ante 1. If the defendant for justified reasons does not within the prescribed period of time file an appeal against a judgment or against a ruling to confiscate, the court allows a return to the status quo ante for filing the appeal if, within eight (8) days following the termination of the reasons for not acting within the prescribed period of time, the defendant files a petition for a return to the status quo ante and files the appeal simultaneously with the petition.
+2. A petition for a return to the status quo ante may not be filed if three (3) months have passed from the date when the prescribed period of time expired.

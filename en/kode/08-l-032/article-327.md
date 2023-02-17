@@ -1,0 +1,3 @@
+# Article 327
+Evidence Given by Witness at Main Trial 1.The single trial judge or presiding trial judge issue a schedule of the witnesses, beginning with the witnesses proposed by the state prosecutor, the witnesses proposed by the injured party or victim or victim advocate or victim’s representative, and then the witnesses proposed by the defendant or defense counsel. If possible, the schedule calls witnesses in the order that the state prosecutor, injured party or victim, victim advocate or victim’s representative, defendant and defense counsel proposed.
+2. The state prosecutor, defendant or injured party may request the court to hear witnesses to rebut testimony or evidence presented by other party under paragraph 1 of the present Article.

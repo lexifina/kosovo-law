@@ -1,0 +1,11 @@
+# Neni 56
+Mbrojtja e detyruar 1. I pandehuri duhet të ketë mbrojtës në këto raste:
+1.1. nga marrja në pyetje për herë të parë e deri në përfundim të procedurës penale me vendim të formës së prerë kur i pandehuri është memec, shurdh, i verbër ose shpreh shenja të çrregullimeve apo paaftësisë mendore dhe kështu është i paaftë që të mbrohet vetë me sukses;
+1.2. nga arrestimi, gjatë seancës për caktimin e paraburgimit dhe gjatë kohës derisa ai gjendet në paraburgim;
+1.3. nga momenti i marrjes në pyetje për herën e parë për vepër penale të dënueshme me të paktën pesë (5) vjet burgim;
+1.4. në procedurë sipas mjeteve të jashtëzakonshme juridike kur i pandehuri është memec, shurdh ose shpreh shenja të çrregullimit apo të paaftësisë mendore ose është shqiptuar dënimi me burgim të përjetshëm;
+1.5. në të gjitha rastet kur i pandehuri kërkon të hyjë në marrëveshje për pranimin e fajësisë; ose 1.6. në të gjitha rastet kur i akuzuari gjykohet në mungesë sipas nenit 303 të këtij Kodi.
+2. Në qoftë se i pandehuri në rastin e mbrojtjes së detyruar nuk angazhon mbrojtës, e angazhimin nuk e bën askush nga personat në nenin 52 paragrafi 7 i këtij Kodi, gjyqtari kompetent ose organi tjetër kompetent që e zbaton procedurën i cakton një mbrojtës sipas detyrës zyrtare me shpenzime publike. Kur mbrojtësi caktohet sipas detyrës zyrtare nga momenti i marrjes në pyetje, i pandehuri njoftohet për këtë me rastin e dorëzimit të aktakuzës.
+3. Në qoftë se i akuzuari në rastin e mbrojtjes së detyruar mbetet pa mbrojtës gjatë procedurës dhe nëse ai nuk angazhon mbrojtës tjetër, gjyqtari kompetent ose organi tjetër kompetent që e zbaton procedurën cakton një mbrojtës të ri sipas detyrës zyrtare në shpenzime publike.
+4. Personi juridik nuk ka të drejtë në mbrojtës të caktuar me shpenzime publike.
+5. Në rastet e mbrojtjes së detyruar, mund të hiqet dorë nga e drejta për të pasur mbrojtës në pajtim me nenin 52, paragrafi 3 të këtij Kodi. Në raste të tilla, avokati i caktuar sipas detyrës zyrtare mbahet për të vepruar si “avokat në gatishmëri” me të vetmen përgjegjësi për të qenë i pranishëm dhe për ta këshilluar të dyshuarin ose të pandehurin gjatë tërë procedurës. Në qoftë se i dyshuari ose i pandehuri tërheq heqjen dorë, avokati në gatishmëri bëhet mbrojtës.

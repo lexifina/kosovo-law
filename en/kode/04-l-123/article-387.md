@@ -1,7 +1,0 @@
-# Article 387
-Appeal against the judgment related to the decision on criminal sanction and other decisions
-1. A judgment may be challenged in respect of a decision on a punishment or a judicial admonition on the grounds that the court, while not exceeding its authority under the law, has nevertheless failed to determine the punishment or judicial admonition correctly, having regard to all the relevant.
-2. The judgment may also be challenged on the grounds that the court has applied or failed to apply the provisions on the mitigation or waiver of punishment or on judicial admonition.
-3. A decision on a measure of mandatory rehabilitation treatment of persons addicted to drugs or alcohol or on confiscation of the material benefit acquired by the commission of a criminal offence may be challenged on the grounds that the court, while not violating Article 385 subparagraph 1.5 of the present Code, has nevertheless rendered that decision incorrectly, or failed to impose the measure of mandatory rehabilitation treatment of persons addicted to drugs or alcohol or the measure of confiscation of the material benefit acquired by the commission of a criminal offence even though there were legal grounds for this.
-4. A decision on the costs of criminal proceedings may be challenged if the court has determined these costs incorrectly or in violation of the provisions of the present Code.
-5. A decision on a property claim or a decision on an order to publish a judgment may be challenged if the court has decided these issues in violation of the provisions of the law.

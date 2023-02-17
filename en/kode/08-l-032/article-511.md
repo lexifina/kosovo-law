@@ -1,0 +1,7 @@
+# Article 511
+Dismissal or Suspension of Proceedings due to Ruling on Incompetence to Stand Trial
+1. If the court rules that a defendant is incompetent to stand trial during the course of proceedings due to a permanent mental disorder, it issues a decision to dismiss the proceedings.
+2. If the court rules that a defendant is incompetent to stand trial during the course of proceedings because he has become afflicted by a temporary mental disorder after committing the criminal offense, the investigation is suspended or the main trial is adjourned, in accordance with the present Code.
+3. If proceedings were suspended pursuant to paragraph 2 of the present Article, proceedings shall be resumed upon the request of the state prosecutor as soon as the reasons for the
+CODE NO. 08/L-032 CRIMINAL PROCEDURE CODE rendering of such ruling cease to exist.
+4. If the court rules that a defendant is incompetent to stand trial pursuant to the present Article, it may request the initiation of proceedings for his committal to a health care institution pursuant to the applicable Law on Out Contentious Procedure. In such case, the court may rule that the defendant be detained in a health care institution for a maximum period of fourty-eight (48) hours pending the initiation of proceedings for committal to a health care institution under the applicable Law on Out Contentious Procedure, if as a result of the person’s mental disorder there are grounds to believe that he will endanger the life or health of another person.

@@ -1,0 +1,6 @@
+# Neni 470
+Procedura për marrjen e vendimeve në seancë për këshillim dhe votim nga trupi gjykues 1. Vendimi i trupit gjykues merret pas këshillimit gojor dhe votimit. Vendimi miratohet kur për të voton shumica e anëtarëve të trupit gjykues.
+2. Kryetari i trupit gjykues drejton këshillimin dhe votimin, kurse vetë voton i fundit. Ai detyrohet të kujdeset për shqyrtimin e tërësishëm të të gjitha çështjeve nga çdo këndvështrim.
+3. Kur votat për ndonjë çështje individuale për të cilën duhet votuar ndahen në disa mendime të ndryshme, kështu që asnjëri prej tyre nuk e ka shumicën, çështjet ndahen dhe votimi përsëritet derisa të arrihet shumica e votave. Nëse në këtë mënyrë nuk arrihet shumica, atëherë merret vendim sipas të cilit votat të cilat janë më të pafavorshme për të pandehurin u shtohen votave të cilat janë më pak të pafavorshme se këto derisa të arrihet shumica e nevojshme.
+4. Anëtarët e trupit gjykues nuk mund ta refuzojnë votimin për çështjet që i parashtron kryetari i trupit gjykues, por anëtari i trupit gjykues i cili ka votuar për lirimin e të akuzuarit ose për
+KODI NR. 08/L-032 I PROCEDURËS PENALE revokimin e vendimit dhe ka mbetur në pakicë nuk detyrohet të votojë për dënimin. Në qoftë se ai nuk voton, konsiderohet se pajtohet me votën që është më e favorshme për të pandehurin.

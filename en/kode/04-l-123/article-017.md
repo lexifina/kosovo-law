@@ -1,3 +1,0 @@
-# Article 17
-Timing of Consequences that Limit Rights
-When it is provided that the initiation of criminal proceedings has the consequence of limiting certain rights, and the criminal proceedings are for a criminal offence punishable by more than three (3) years, such consequence shall take effect, if it is not determined otherwise by law, upon the entry into force of the indictment. If the criminal proceeding is for a criminal offence punishable by a fine or imprisonment of no more than three (3) years, the consequence shall take effect from the day when the rendered judgment of conviction becomes final, unless otherwise provided by law.

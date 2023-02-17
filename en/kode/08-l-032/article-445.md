@@ -1,0 +1,5 @@
+# Article 445
+Calculation of Prescribed Periods of Time 1. A prescribed period of time is calculated in hours, days, months and years.
+2. The hour or day when a service or communication was made or when an event occurred, which serves as the commencement of a prescribed period of time, is not included in the prescribed period of time, but the next hour or next day is taken as commencement of the prescribed period of time. Twenty-four (24) hours shall be taken as a day, but a month shall be computed according to the calendar.
+3. A prescribed period of time set in months or years expires on the last month or year at the end of the same day of the month on which the prescribed period of time began. If there is no such day in the last month, the prescribed period of time expires on the last day of that month.
+4. If the last day of the prescribed period of time falls on an official holiday, on Saturday or Sunday or on any other day when the competent body does not work, the prescribed period of time expires at the end of the next working day.

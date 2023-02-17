@@ -1,0 +1,1 @@
+CODE NO. 08/L-032 CRIMINAL PROCEDURE CODE CODE NO. 08/L-032 CRIMINAL PROCEDURE CODE The Assembly of the Republic of Kosovo; Based on Article 65 (1) of the Constitution of the Republic of Kosovo, Adopts: CRIMINAL PROCEDURE CODE PART ONE GENERAL PROVISIONS

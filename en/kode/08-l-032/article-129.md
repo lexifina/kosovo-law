@@ -1,0 +1,9 @@
+# Article 129
+Pretrial Testimony
+1. During the investigative stage, the state prosecutor shall summon witnesses, victims, experts and the defendant or defendants to provide pretrial testimony.
+2. During the investigative stage, the state prosecutor shall interview protected witnesses and cooperative witnesses while ensuring the appropriate safety and security for the protected or cooperative witnesses.
+3. A witness shall be summoned by serving a written summons which shall indicate: the name and surname and occupation of the witness, when and where he is to appear, the criminal case in connection with which he is summoned, an indication that he is summoned as a witness and the consequences of unjustifiable non-compliance with the summons.
+4. A person under the age of sixteen (16) years shall be summoned as a witness through his parents or legal representative, except where that is not possible for reasons of urgency or other circumstances.
+5. A witness who by reason of old age, illness or serious disability is unable to comply with the summons, may be examined out of court.
+6. The state prosecutor shall give five (5) days written notice to the defendant, defense counsel, injured party and victim advocate or victim’s representative of the date, time and location of the pretrial testimony. A copy of the notice shall be placed into the case file.
+7. Failure of the defendant, defense counsel, injured party or victim, victim’s advocate or victim’s representative to participate in a session of pretrial testimony after receiving notice under paragraph 6. of this Article, without justification, shall prevent that same defendant, defense counsel, injured party or victim’s advocate from objecting to the admissibility of the testimony at a later stage of the criminal proceeding. These consequences shall be given in the notice provided in paragraph 6. of this Article.

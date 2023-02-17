@@ -1,5 +1,0 @@
-# Neni 231
-Kushtet kur ndjekja nuk është e detyrueshme
-1. Prokurori i shtetit nuk detyrohet të fillojë ndjekjen penale ose mund të heqë dorë nga ndjekja:
-1.1. kur ligji penal parasheh që gjykata mund ta lirojë nga dënimi kryerësin e veprës penale dhe prokurori i shtetit çmon se nga aspekti i rrethanave aktuale të çështjes vetëm gjykimi pa sanksion nuk është i nevojshëm; ose
-1.2. kur kryerësi i veprës penale të dënueshme me gjobë ose burgim deri në një (1) vit sinqerisht pendohet për veprën penale dhe ndalon pasojat e dëmshme ose bën kompensimin e dëmit, kurse prokurori i shtetit çmon se nga aspekti i rrethanave të çështjes sanksioni penal nuk do të ishte i arsyeshëm.

@@ -1,3 +1,0 @@
-# Neni 476
-Dorëzimi personal i shkresave
-Shkresa, që sipas këtij Kodi duhet dorëzuar personalisht, i jepet direkt personit të cilit i është adresuar. Në qoftë se personi, të cilit shkresa duhet dorëzuar personalisht nuk gjendet në vendin ku duhet bërë dorëzimi, dërguesi mëson se kur dhe ku mund të gjendet ai person dhe le njoftimin me shkrim te ndonjëri nga personat e paraparë në nenin 477 të këtij Kodi, që marrësi i shkresës të gjendet në banesën e tij ose në vendin e punës në ditën dhe orën e caktuar për të pranuar shkresën. Kur edhe pas kësaj dërguesi nuk e gjen personin të cilit duhet dorëzuar shkresën, ai vepron sipas dispozitave të nenit 477, paragrafi 1. i këtij Kodi dhe dorëzimi i tillë konsiderohet se është kryer.

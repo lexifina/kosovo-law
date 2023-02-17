@@ -1,0 +1,10 @@
+# Neni 152
+Marrja në pyetje e të pandehurit gjatë deklaratës në procedurë paraprake
+1. Gjatë marrjes në pyetje për herë të parë, i pandehuri duhet të tregojë emrin dhe mbiemrin e tij dhe nofkën nëse ka; emrin dhe mbiemrin e prindërve të tij; mbiemrin e vajzërisë së nënës; vendlindjen dhe vendbanimin e tij; ditën, muajin dhe vitin e lindjes; numrin e tij personal të identifikimit; kombësinë dhe shtetësinë; profesionin e tij dhe rrethanat familjare; a di shkrim dhe lexim; shkollimin e tij; a ka të ardhura personale edhe pozitën e tij materiale; a është ndonjë procedurë penale kundër tij për ndonjë vepër tjetër penale në zbatim e sipër; dhe nëse është i mitur, identitetin e përfaqësuesit të tij ligjor. Ai informohet për detyrimin e tij për të njoftuar për çdo ndryshim adrese ose për çdo qëllim ndryshimi të vendqëndrimit.
+2. I pandehuri merret në pyetje gojarisht. Gjatë marrjes në pyetje atij mund t’i lejohet të mbajë shënime.
+3. Marrja në pyetje zbatohet duke respektuar plotësisht dinjitetin e të pandehurit.
+4. Të pandehurit pyetjet i parashtrohen në mënyrë të qartë, të kuptueshme dhe të përpiktë. Pyetjet të pandehurit nuk duhet parashtruar në bazë të supozimit që i pandehuri ka pranuar diçka që ai nuk e ka pranuar.
+5. Ndalesat nga paragrafi 4 i këtij neni zbatohen pavarësisht nga pëlqimi i të pandehurit.
+6. Të pandehurit i parashtrohen pyetje bazuar në provat dhe shkresat që janë relevante për procedurën penale. Gjatë pyetjeve që kanë të bëjnë me prova apo dokumente, të pandehurit i paraqitet çdo provë ose shkresë relevante. Provat ose dokumentet identifikohen qartë në procesverbal.
+7. Sendet të cilat janë të lidhura me veprën penale ose të cilat shërbejnë si provë, pas përshkrimit nga i pandehuri atij i prezantohen për njohje. Nëse këto sende nuk mund të sillen, i pandehuri dërgohet në vendin ku ato ndodhen.
+8. Marrja në pyetje të pandehurit duhet t’i ofrojë mundësinë për t’i kundërshtuar arsyet e dyshimit kundër tij dhe për të nxjerrë në pah faktet që janë në favor të tij.

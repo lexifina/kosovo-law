@@ -1,7 +1,0 @@
-# Article 21
-Allocation of Cases within Courts
-1. Criminal proceedings shall conduct and adjudicate the case in the first instance in the General Department, Serious Crimes Department or any Division or Department established under Article 8 of the Law on Courts which has jurisdiction over criminal offences.
-2. When a child is a defendant in a criminal case, that case shall be severed from any other case and heard exclusively by the Department for Minors within the Basic Court, governed by the Juvenile Justice Code, No. 03/L-193 or successor law.
-3. The General Department of the Basic Court shall conduct and adjudicate the case to all criminal proceedings that are not within the jurisdiction of the Serious Crimes Department, the Department for Minors, or any Division or Department established under Article 8 of the Law on Courts which has jurisdiction over criminal offences.
-4. The Serious Crimes Department shall conduct and adjudicate the case any criminal proceeding where one or more of the potential criminal offences under Article 15 of the Law on Courts in general, and specifically those criminal offences listed in Article 22, have been alleged or charged by the State Prosecutor.
-5. The judgment of the Basic Court may not be appealed on procedural grounds if the appellant has not challenged in basic court the legal or factual decision upon which the appeal is based, unless the appellant can demonstrate extraordinary circumstances that justify such an appeal.

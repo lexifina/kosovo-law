@@ -1,5 +1,0 @@
-# Article 159
-Time Limits of Investigation
-1. If an investigation is initiated, the investigation shall be completed within two (2) years. If an indictment is not filed, or a suspension is not entered under Article 157 of this Code, after two (2) years of the initiation of the investigation, the investigation shall automatically be terminated.
-2. The pre-trial judge may authorize a six (6) month extension of an investigation under Paragraph 1 of this Article where a criminal investigation is complex, including but not limited to if there are four or more defendants, multiple injured parties have been identified, a request for international assistance has been made, or other extraordinary circumstances exist.
-3. If a defendant has been arrested and is being held in detention on remand, the pre-trial judge shall not order an extension under Paragraph 2 of this Article or any extension of the detention on remand unless the state prosecutor demonstrates that the investigation is being actively conducted and any delay is beyond the control of the state prosecutor.

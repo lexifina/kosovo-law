@@ -1,0 +1,6 @@
+# Article 459
+Filing of Motion to Realize Property Claims 1. A motion to realize a property claim in criminal proceedings is filed with the competent body with which the criminal report is filed or the court before which proceedings are being conducted.
+2. The motion may be filed no later than the end of the main trial before the Basic Court.
+3. The person authorized to file the motion must state his claim specifically and submit evidence.
+4. If the authorized person has not filed the motion to realize his property claim in criminal proceedings before the indictment is brought, he shall be informed that he may file that motion up to the end of the main trial. If a criminal offense has caused damage to publicly-owned, state- owned or socially-owned property and no motion has been filed, the court so informs the body or competent authority under Article 458 paragraph 2 of the present Code. The party is informed that failure to file the motion may disqualify the injured party from Victim Compensation Program even if the party would meet other eligible criteria under the applicable law.
+5. If a criminal offense has caused damage to publicly-owned, state-owned or socially-owned property and no motion has been filed, the court so informs the body or competent authority under Article 458 paragraph 2 of the present Code.

@@ -1,0 +1,5 @@
+# Article 371
+De Minimus Errors in Judgment
+1. Errors in names and numbers, other obvious writing and computing errors, deficiencies regarding the form of the written judgment and discrepancies between the judgment drawn up in writing and its original are corrected under a separate ruling of the single trial judge or presiding trial judge, on the motion of the parties, defense counsel or ex officio.
+2. If de minimus or harmless errors in the judgment are the subject of an appeal, the court of appeals may correct the judgment under Article 403 of the present Code.
+3. If the judgment as drawn up in writing and its original differ with respect to the data provided for in Article 364 paragraph 1 sub-paragraphs 1.1-1.4 and 1.6 and paragraph 2 sub-paragraphs 2.1 and 2.3 of the present Code, the ruling on corrections is served on persons referred to in Article 368 of the present Code. In such case, the prescribed period of time for filing an appeal against the judgment runs from the day of service of such ruling. No separate appeal may be permitted against this ruling.

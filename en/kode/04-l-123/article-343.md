@@ -1,5 +1,0 @@
-# Article 343
-Evidence Taken outside of Court
-1. If it becomes known at the main trial that a summoned witness or expert witness is unable to appear before the court or that his or her appearance involves considerable difficulties, the trial panel may, if it deems his or her testimony to be important, order that he or she give his or her testimony to the single trial judge or presiding trial judge or a judge on the trial panel outside the main trial, or that the testimony be given to a pre-trial judge in whose jurisdictional territory the witness or expert witness resides.
-2. If an inspection or reconstruction of the event has to be carried out outside the main trial, it shall be conducted by the single trial judge or presiding trial judge or a judge on the trial panel.
-3. The parties and the injured party shall always be advised when and where a witness shall be examined or when and where an inspection or reconstruction of an event shall take place, and shall be instructed of their right to attend these actions. If the parties and the injured party are present at these actions, they shall have the rights under Article 149 paragraph 2 of the present Code.

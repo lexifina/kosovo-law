@@ -1,0 +1,5 @@
+# Article 334
+Use of prior testimony of persons subjected to interference 1. The pre-trial interview and pre-trial testimony is admissible and may be used as direct evidence during the main trial if the single trial judge or trial panel is satisfied that the failure of the person to give evidence or testifying materially differently from the evidence given in the pre- trial interview or pre-trial testimony was influenced by improper interference, including threats, intimidation, injury, bribery, or coercion.
+2. For the purposes of paragraph 1 of the present Article, an improper interference may relate to the physical, economic, property, or other interests of the person or of another person.
+3. For the purpose of applying this Article, the single trial judge or trial panel may have regard to any relevant evidence, including written evidence.
+4. If the pre-trial interview is deemed admissible under the present Article it may not be used as the sole or as a decisive inculpatory evidence for a conviction.

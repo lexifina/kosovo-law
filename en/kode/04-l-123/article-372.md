@@ -1,4 +1,0 @@
-# Article 372
-Execution of Penal Sanctions
-1. If the court decides on extension or imposition of detention on remand following the announcement of judgment and the accused agrees with it, or when the court imposes a punishment based on provisions of Article 369 paragraph 5 of the present Code, it shall be deemed that the accused is serving the sentence pursuant to provisions of the Law on Execution of Penal Sanctions.
-2. If the judgment includes a penal sanction with a punishment from Article 367, paragraph 2 or 3 or in the final, written judgment under Article 369 paragraph 5 of the present Code, but the accused has left Kosovo or is evading service, the single trial judge or presiding trial judge shall issue an order for the arrest of the accused in compliance with Article 175 of the present Code.

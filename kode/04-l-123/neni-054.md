@@ -1,4 +1,0 @@
-# Neni 54
-Kualifikimet e mbrojtësit
-1. Për mbrojtës mund të angazhohet vetëm avokati i cili është anëtar i Odës së Avokatëve të Kosovës, por të cilin mund ta zëvendësojë praktikanti i avokatisë. Kur procedura zbatohet për vepër penale të dënueshme me së paku pesë vjet burgim, praktikanti i avokatisë mund ta zëvendësojë avokatin vetëm nëse e ka kaluar provimin e judikaturës. Pranë Gjykates së Apelit dhe Gjykatës Supreme të Kosovës, të pandehurin mund ta përfaqësojë vetëm avokati i cili është anëtar i Odës së Avokatëve së Kosovës.
-2. Mbrojtësi ia paraqet autorizimin e tij policisë, prokurorit të shtetit apo gjykatës pranë së cilës zbatohet procedura. I dyshuari ose i pandehuri gjithashtu mund t’i japin mbrojtësit autorizimin edhe gojarisht dhe kjo shënohet në procesverbalin e policisë, të prokurorit të shtetit apo gjykatës pranë së cilës zbatohet procedura.

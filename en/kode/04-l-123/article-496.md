@@ -1,7 +1,0 @@
-# Article 496
-Service of judgment for punitive order its objection
-1. The punitive order shall be served on the defendant and his or her defence counsel, if he or she has one, and the state prosecutor.
-2. The defendant or his or her defence counsel may, within a term of eight (8) days of receipt, submit an objection against the punitive order in writing or orally on the record with the court. The objection need not contain a statement of reasons; it may propose evidence for the benefit of the defence. The defendant may waive his or her right to submit an objection, but he or she may not withdraw the submitted objection after the main trial has been scheduled. Payment of a fine before the expiry of the term for submitting an objection shall not be deemed to be a waiver of the right to an objection.
-3. The judge shall grant a return to the status quo ante to the defendant who, for justifiable reasons, fails within the prescribed period of time to submit an objection. The provisions of Articles 447 and 448 of the present Code shall apply when deciding on a petition for a return to the status quo ante.
-4. If the single judge does not dismiss the objection as belated or because it is submitted by an unauthorized person, he or she shall schedule the main trial on the state prosecutor's indictment.
-5. A review panel of three (3) judges shall decide on an appeal from the ruling on the dismissal of the objection against the punitive order within the deadline set forth in paragraph 1 of Article 494 of the present Code.

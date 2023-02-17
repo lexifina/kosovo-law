@@ -1,9 +1,0 @@
-## KAPITULLI XXIII
-## AFATET
-# Neni 445
-Afatet
-1. Afatet e parapara me këtë Kod nuk mund të vazhdohen, përveç kur këtë shprehimisht e lejon ligji. Në qoftë se afati për realizimin e të drejtës së mbrojtjes dhe të drejtave të tjera procedurale të të pandehurit është paraparë me ligj, me kërkesën e tij me shkrim ose gojarisht në procesverbalin e gjykatës ky afat mund të shkurtohet.
-2. Kur deklarata është e lidhur me afat, konsiderohet se është dhënë brenda afatit nëse i është dorëzuar marrësit të autorizuar para kalimit të afatit.
-3. Kur deklarata dërgohet nëpërmjet postës, postës rekomande apo telegramit ose me ndonjë mjet tjetër si teleks, telefaks ose mjete të tjera të ngjashme, dita e postimit ose e dërgimit konsiderohet si ditë e dorëzimit për personin që i është dërguar. Dërguesi i deklaratës konsiderohet se nuk e ka lëshuar afatin kur personi të cilit tentohet t’i dërgohet deklarata nuk e ka marrë me kohë për shkak të gabimeve në mjetet e dërgimit për të cilat dërguesi nuk ka qenë në dijeni.
-4. I pandehuri i cili gjendet në paraburgim, gjithashtu mund të jep deklaratë që është e lidhur me afat duke e përfshirë atë në procesverbalin e gjykatës që zbaton procedurën ose duke e dërguar në drejtorinë e burgut, kurse personi i cili gjendet në mbajtje të dënimit ose ndodhet në ndonjë institucion tjetër me urdhër për trajtim të detyrueshëm për rehabilitim, mund t’ia dërgojë deklaratën e tillë drejtorisë së institucionit ku është vendosur ai. Dita kur është përpiluar procesverbali i tillë apo kur deklarata i është dërguar drejtorisë së institucionit konsiderohet si ditë e dorëzimit të marrësit të autorizuar.
-5. Kur parashtresa dorëzimi i së cilës është i lidhur me afat, për arsye të mosdijes ose të gabimit të qartë të dërguesit i është dërguar gjykatës jokompetente para kalimit të afatit, konsiderohet se është dorëzuar me kohë, përkundër faktit se te gjykata kompetente arrin pas kalimit të afatit të paraparë.

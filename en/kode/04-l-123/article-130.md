@@ -1,7 +1,0 @@
-# Article 130
-General Requirements of Pretrial Interviews, Pretrial Testimony or Special Investigative Opportunity
-1. A witness shall be examined separately and without the presence of other witnesses. A witness shall answer questions orally.
-2. Subsequently, the witness shall be asked to state his or her first name and surname, the name of his or her father and mother, personal identity number, occupation, place of current residence, place of birth, age and relation to the defendant and the injured party. The witness shall be warned of the obligation to report to the court any change in address or place of current residence.
-3. The provision in paragraph 2 of the present Article shall not apply when it conflicts with measures for the protection of injured parties and witnesses as provided for by the present Code.
-4. Police officers are obligated to give personal information under Paragraph 3 of this Article but shall be informed of their right to give the address of their police station rather than the address of their current residence.
-5. A person who has not reached the age of eighteen (18) years, especially if that person has suffered damage from the criminal offence, shall be examined considerately to avoid producing a harmful effect on his or her state of mind. If necessary, a child psychologist or child counselor or some other expert should be called to assist in the examination of such person.

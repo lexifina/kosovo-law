@@ -1,0 +1,7 @@
+# Article 21
+Allocation of Cases within Courts
+1. Criminal proceedings shall be conducted and the case shall be adjudicated in the first instance in the General Department, Serious Crimes Department or any Division or Department established under the applicable Law on Courts which has jurisdiction over criminal offenses.
+2. When a child is a defendant in a criminal case, that case shall be severed from any other case and heard exclusively by the Department for Minors within the Basic Court, governed by the Juvenile Justice Code in force or successor law.
+3. The General Department of the Basic Court shall conduct and adjudicate the case in all criminal proceedings that are not within the jurisdiction of the Serious Crimes Department, the Department for Minors, or any Division or Department established under the applicable Law on Courts which has jurisdiction over criminal offenses.
+4. The Serious Crimes Department of the Basic Court shall conduct and adjudicate the case in any criminal proceeding where the State Prosecutor alleges or has filed charges for one or more criminal offenses which provide a punishment of imprisonment of more than ten (10) years and criminal offenses that are considered serious crimes according to Article 22 of this Code.
+CODE NO. 08/L-032 CRIMINAL PROCEDURE CODE 5. The Special Department of the Basic Court in Pristina shall conduct and adjudicate the case in any criminal proceeding under the jurisdiction of the Special Prosecution of the Republic of Kosovo pursuant to the provisions of the applicable Law on Courts.

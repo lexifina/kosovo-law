@@ -1,0 +1,11 @@
+# Neni 172
+Thirrja
+1. Prania e të pandehurit në procedurë penale sigurohet nëpërmjet thirrjes.
+2. Thirrja para shqyrtimit fillestar çdo herë dërgohet në letër të mbyllur e cila përfshin: emrin dhe mbiemrin e të pandehurit, përcaktimin e veprës penale për të cilën akuzohet, vendin, ditën dhe orën kur duhet të paraqitet i pandehuri, njoftimin se thirret në cilësi të të pandehurit, paralajmërimin se në rast të mosparaqitjes do të lëshohet urdhërarrest dhe do të sillet në gjykatë forcërisht, vulën zyrtare dhe emrin e gjyqtarit i cili lëshon thirrjen.
+3. Kur i pandehuri thirret për herë të parë, në thirrje udhëzohet për të drejtën e tij për të angazhuar mbrojtës dhe se mbrojtësi mund të jetë i pranishëm gjatë marrjes së tij në pyetje.
+4. Gjatë kohëzgjatjes së procedurës, i pandehuri duhet menjëherë ta njoftojë gjykatën për çdo ndryshim të adresës së tij ose për qëllimin e ndryshimit të vendqëndrimit. I pandehuri njoftohet për këtë detyrim në rastin e marrjes në pyetje për herë të parë ose me rastin e dorëzimit të aktakuzës dhe njëkohësisht paralajmërohet për pasojat e mospërmbushjes së detyrimit siç është paraparë me këtë Kod.
+5. Pavarësisht nga dispozitat tjera të këtij Kodi, gjatë shqyrtimit fillestar gjykata mund të kërkojë nga palët e pranishme, mbrojtësi apo mbrojtësi i viktimave ose përfaqësuesi i viktimës që ta japin së paku një adresë elektronike për kontakt, qoftë numër telefoni, adresë të postës elektronike apo ndonjë adresë tjetër të komunikimit elektronik. Thirrjet e ardhshme të dërguara në adresën elektronike, e cila është dhënë vullnetarisht nga palët, kanë të njëjtin efekt sikurse format tjera të thirrjes, nëse bëhen në pajtim me dispozitat e këtij Kodi.
+6. Dispozitat e paragrafit 4 të këtij neni që detyrojnë palët ta njoftojnë gjykatën për ndryshimet në adresën ose vendqëndrimin zbatohen përshtatshmërisht në lidhje me ndryshimet në informacionin e kontaktit elektronik.
+7. Kur i pandehuri nuk është në gjendje t’i përgjigjet thirrjes për shkak të sëmundjes ose pengesës tjetër të paevitueshme, ai pyetet në vendin ku gjendet ose dërgohet në ndërtesën e gjykatës apo në vendin tjetër ku është duke u zbatuar procedura ose shtyhet marrja e tij në pyetje.
+8. Thirrja dorëzohet në mënyrat e përcaktuara në pajtim me dispozitat e Kapitullit XXVII të këtij
+KODI NR. 08/L-032 I PROCEDURËS PENALE Kodi. C. Urdhërarresti

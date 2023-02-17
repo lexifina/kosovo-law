@@ -1,5 +1,0 @@
-# Neni 310
-Arsyet për shtyrjen e shqyrtimit gjyqësor
-1. Përveç rasteve të përcaktuara me këtë Kod, shqyrtimi gjyqësor mund të shtyhet me aktvendim të gjyqtarit të vetëm gjykues apo të trupit gjykues, kur duhet mbledhur prova të reja ose kur gjatë shqyrtimit gjyqësor vërtetohet se tek i akuzuar, pas kryerjes së veprës penale është paraqitur çrregullim ose paaftësi mendore e përkohshme ose kur ekzistojnë pengesa të tjera për zbatim të suksesshëm të shqyrtimit gjyqësor.
-2. Kur është e mundur, në aktvendim me të cilin shtyhet shqyrtimi gjyqësor caktohet dita dhe ora e vazhdimit të shqyrtimit gjyqësor. Me të njëjtin aktvendim, gjyqtari i vetëm gjykues ose trupi gjykues mund të urdhërojë mbledhjen provave të cilat me kalimin e kohës mund të humbin.
-3. Kundër aktvendimit nga paragrafi 2. i këtij neni nuk lejohet ankesë.

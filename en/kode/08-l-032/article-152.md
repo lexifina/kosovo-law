@@ -1,0 +1,10 @@
+# Article 152
+Questioning of the Defendant during Pretrial Testimony
+1. At the first examination, the defendant should be asked to provide his first name and surname and nickname, if any; the name and surname of his parents and the maiden name of his mother; his place of birth and place of residence; the day, month and year of his birth; his personal identification number; his nationality and citizenship; his occupation and family conditions; whether he is literate; his education; his personal income and his financial position; whether criminal proceedings against him for some other criminal offense are in progress; and if he is a minor, the identity of his legal representative. He shall be informed of the obligation to report any change in address or an intended change of the place of current residence.
+2. The defendant shall be examined orally. He may be permitted to make use of his notes during the examination.
+3. The examination shall be conducted with full respect for the dignity of the defendant.
+4. The defendant shall be asked questions in a clear, distinct and precise manner. Questions to the defendant must not proceed from the assumption that the defendant has admitted something he has not admitted.
+CODE NO. 08/L-032 CRIMINAL PROCEDURE CODE 5. The prohibitions under paragraph 4. of this Article shall apply irrespective of the defendant’s consent.
+6. The defendant shall be asked questions based on evidence or documents that are relevant to the criminal proceeding. Any relevant evidence or documents shall be shown to the defendant during questions related to the evidence or documents. The evidence or documents shall be clearly identified for the record.
+7. Objects which are related to the criminal offense or which serve as evidence shall be presented to the defendant for recognition, after he has first described them. If these objects cannot be brought, the defendant may be taken to the place where they are located.
+8. The examination should give the defendant an opportunity to dispel the grounds for suspicion against him and to assert the facts that are in his favor.

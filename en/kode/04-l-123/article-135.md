@@ -1,6 +1,0 @@
-# Article 135
-Failure of Witness to Appear
-1. If a witness who has been duly summoned fails to appear and does not justify his or her failure to appear or if he or she leaves the place where he or she should be examined without permission or a valid reason, such witness may be compelled to appear and may be fined up to two hundred fifty (250) EUR for each time he or she fails to appear.
-2. If a witness appears when summoned but after being warned of the consequences refuses to give testimony without legal justification, he or she may be fined up to two hundred fifty (250) EUR. If even then the witness refuses to testify, he or she may be imprisoned. This imprisonment shall last for as long as the witness refuses to testify or until his or her testimony becomes unnecessary, or until criminal proceedings terminate, but shall not exceed one (1) month.
-3. An appeal against a ruling imposing a punishment of a fine or imprisonment shall always be decided by the review panel. An appeal against the ruling on imprisonment shall not stay the execution of the ruling. The punishment under paragraphs 1 and 2 of the present Article shall be imposed by a judge.
-4. Members of armed forces and the police may not be imprisoned but their refusal to testify shall be reported to their respective commands.

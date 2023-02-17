@@ -1,6 +1,0 @@
-# Article 103
-General Principles of Investigative Stage
-1. During the investigative stage the state prosecutor shall ascertain not only inculpatory but also exculpatory circumstances and evidence, and shall ensure that evidence, which may not be available at the main trial, is taken.
-2. The aim of a investigation is to collect evidence and data necessary for deciding whether to file an indictment or to discontinue proceedings and to collect evidence which might be impossible or difficult to reproduce at the main trial.
-3. Every person against whom the state prosecutor has a reasonable suspicion that he or she has committed a criminal offence shall be named as a defendant in the decision to initiate a investigation. Every defendant named in the decision shall be entitled to the rights of a defendant under the present Code.
-4. If the state prosecutor becomes aware of evidence of the commission of another criminal offence or another suspect during a investigation, the state prosecutor may initiate a new investigation of the new criminal offence or suspects, or may amend the decision of or expand the existing investigation. The state prosecutor shall inform the pre-trial judge about new or amended decisions.

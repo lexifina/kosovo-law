@@ -1,4 +1,0 @@
-# Article 40
-Procedure for Disqualification
-1. As soon as he or she discovers a ground for disqualification under Article 39 paragraph 1 or 2 of the present Code, a judge shall discontinue all the activity on the case and report such ground to the president of the court who, in accordance with the procedures governing the internal court rules, shall appoint a substitute. In the case of disqualification of a President of a court, he or she shall ask the President of the Court of Appeals to appoint a substitute.
-2. If a judge considers that there are other circumstances which would justify his or her disqualification under Article 39, paragraph 3, of the present Code, he or she shall inform the president of the court about such circumstances. Until a decision on disqualification is rendered, the judge may only conduct actions that are absolutely necessary to prevent postponement or impermissible delay of the case.

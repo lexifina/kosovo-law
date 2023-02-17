@@ -1,5 +1,0 @@
-# Article 280
-Procedure for Third Party Possessing Material Benefit of Criminal Offence
-1. Confiscation and forfeiture of the material benefit acquired by the commission of a criminal offence may be imposed in a judgment in which the accused is declared guilty or a judicial admonition is imposed, as well as in a ruling on a measure of mandatory rehabilitation treatment of perpetrators addicted to alcohol or drugs.
-2. In the enacting clause of the judgment or ruling the court shall specify the object or sum of money to be confiscated. Where there are justifiable grounds, the court shall permit the payment of the material benefit in installments fixing the time limit and the amounts thereof.
-3. A certified copy of the judgment or ruling shall be served on the person to whom the material benefit has been transferred as well as on the representative of a business organization or a legal person, if the court has imposed the confiscation of material benefit acquired by the commission of a criminal offence on that person, business organization or legal person.

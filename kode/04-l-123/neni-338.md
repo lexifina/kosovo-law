@@ -1,8 +1,0 @@
-# Neni 338
-Leximi i deklaratave të tjera të dhëna më parë
-1. Përveç rasteve të parapara me këtë Kod, procesverbalet mbi deklarimet e dëshmitarëve, të bashkakuzuarve ose pjesëmarrësve të dënuar për vepër penale, si dhe procesverbalet dhe shkresat tjera mbi konstatimin dhe mendimin e ekspertit, sipas vendimit të trupit gjykues mund të lexohen vetëm në këto raste:
-1.1. kur personat e marrë në pyetje kanë vdekur, kanë çrregullime ose paaftësi mendore, nuk mund të gjenden ose ardhja e tyre në gjykatë është e pamundur apo dukshëm e vështirësuar për shkak të pleqërisë, sëmundjes ose shkaqeve të tjera të rëndësishme;
-1.2. kur dëshmitarët ose ekspertët, pa arsye ligjore, nuk dëshirojnë të dëshmojnë në shqyrtim gjyqësor; ose
-1.3. kur palët pajtohen që, në vend të marrjes së drejtpërdrejtë në pyetje të dëshmitarit apo ekspertit i cili nuk është i pranishëm, pavarësisht se ka qenë i thirrur, të lexohet procesverbali mbi dëshminë e tij të mëparshme.
-2. Procesverbalet mbi marrjen e mëparshme në pyetje të personave të cilët janë liruar nga detyra e dëshmimit nuk lexohen nëse këta persona nuk janë thirrur në shqyrtim gjyqësor ose nëse kanë deklaruar se nuk dëshirojnë të dëshmojnë në shqyrtimin gjyqësor. Kur personat e tillë, pasi të kenë dëshmuar më parë, e përdorin të drejtën e tyre për të mos dëshmuar në shqyrtim gjyqësor, ose nëse nuk kanë ardhur në shqyrtim kur janë thirrur, procesverbali mbi dëshminë e mëparshme është provë e papranueshme.
-3. Arsyet e leximit të procesverbalit shënohen në procesverbalin e shqyrtimit gjyqësor, e me rastin e leximit tregohet nëse dëshmitari ose eksperti është betuar.

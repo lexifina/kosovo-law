@@ -1,3 +1,0 @@
-# Neni 444
-Dënimet për parashtresat me shkrim ose për paraqitjet gojore me përmbajtje ofenduese
-Gjykata e dënon me gjobë deri në dyqindepesëdhjetë (250) Euro mbrojtësin ose të dëmtuarin i cili në parashtresë ose gojarisht ofendon ose fyen gjykatën apo personin që merr pjesë në procedurë. Aktvendimin lidhur me dënimin e merr gjyqtari apo kolegji para të cilit është dhënë deklarata, e kur ajo është bërë në parashtresë e merr gjykata e cila duhet të vendosë për parashtresën. Kundër këtij aktvendimi lejohet ankesë. Kur prokurori i shtetit e ofendon tjetrin, për këtë njoftohet prokurori kompetent i shtetit që e mbikëqyr atë. Për dënimin e avokatit apo të praktikantit të avokatisë njoftohet Oda e Avokatëve.

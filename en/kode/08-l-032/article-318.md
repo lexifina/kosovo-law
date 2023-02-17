@@ -1,0 +1,4 @@
+# Article 318
+Initial Instructions of the Court to Witnesses and Injured Parties 1. Having established the identity of the accused, the single trial judge or presiding trial judge directs the witnesses and expert witnesses to a designated place where they wait until called upon to testify. The single trial judge or presiding trial judge may, if necessary, call on the expert witnesses to remain in the courtroom to follow the course of the main trial.
+2. If the injured party is present and has not yet filed his property claim, the single trial judge or presiding trial judge reminds him that he may file a motion to realize such claim within criminal proceedings.
+3. The single trial judge or presiding trial judge may take necessary measures to prevent collusion between witnesses, expert witnesses and the parties.

@@ -1,0 +1,8 @@
+## KAPITULLI XXVII
+## DËRGIMI I SHKRESAVE
+# Neni 474
+Mënyrat e dërgimit të shkresave 1. Në parim, shkresat dërgohen me postë apo siç parashihet ndryshe me këtë nen. Dërgesa mund të bëhet edhe nëpërmjet organit kompetent komunal, zyrtarit të organit që ka marrë vendimin ose drejtpërdrejt përmes atij organi.
+2. Thirrja për të marrë pjesë në shqyrtim gjyqësor ose thirrjet tjera gjykata ia dërgon palëve në pajtim me përmbajtjen e përcaktuar në nenin 172 të këtij Kodi. Gjykata mund t’ia komunikojë thirrjet edhe gojarisht personit i cili gjendet në gjykatë së bashku me udhëzimin për pasojat e mosparaqitjes së tij. Thirrja e bërë në këtë mënyrë shënohet në procesverbal të cilin personi i thirrur e nënshkruan, përveç kur kjo thirrje është shënuar në procesverbalin e shqyrtimit gjyqësor. Kjo mënyrë konsiderohet si dërgesë e rregullt.
+3. Gjykata apo prokurori i shtetit mund të urdhërojë Policinë e Kosovës që të bëjë dërgimin
+KODI NR. 08/L-032 I PROCEDURËS PENALE e shkresave, nëse pas përpjekjes së parë nga paragrafit 1 ose 2 të këtij neni dërgimi është i pasuksesshëm, është e paqartë nëse dërgimi ka qenë i suksesshëm ose personi i thirrur nuk paraqitet. Gjykata mund të urdhërojë Policinë e Kosovës për të dërguar thirrjen pa shfrytëzuar mundësitë nga paragrafi 1 ose 2 të këtij neni nëse çmon se personi me gjasë nuk do të veprojë në pajtim me thirrjen nga paragrafët 1 dhe 2 të këtij neni.
+4. Pa marrë parasysh dispozitat tjera të këtij neni, pas shqyrtimit fillestar gjykata mund t’i dorëzojë thirrjet për t’u paraqitur në shqyrtimet pasuese gjyqësore ose në procedurat tjera në adresat e kontaktit elektronik në pajtim me nenin 172 paragrafi 5 të këtij Kodi. Gjykata mund t’i dorëzojë dokumentet tjera në mënyrë të ngjashme.

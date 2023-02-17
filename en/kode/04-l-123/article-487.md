@@ -1,7 +1,0 @@
-# Article 487
-Enforcement of judgment related to expenditures of criminal proceedings, confiscation of material benefits and property claims
-1. With respect to the costs of criminal proceedings, confiscation of material benefit and property claims the judgment shall be executed by the competent court under the provisions that apply to enforcement proceedings.
-2. Collection by compulsion of the costs of criminal proceedings which are to be paid into the budget shall be carried out ex officio. The costs of collection by compulsion shall be paid first from the budgetary resources of the court.
-3. If a judgment imposes the accessory punishment of confiscation of objects, such objects shall automatically become the property of the State. A certified copy of the final judgment shall immediately be sent to the Agency for Management of Sequestered and Confiscated Assets which may sell the objects or place them in the use of the Government. The monetary proceeds from sale of such objects shall be credited to the budget.
-4. Paragraph 3 of the present Article shall also apply mutatis mutandis when a decision is made on the confiscation of objects on the basis of Chapter XVIII, Section 2 of the present Code.
-5. Aside from the reopening of criminal proceedings or a petition for the protection of legality, a final order to confiscate an object may be amended in civil litigation if a dispute arises as to the ownership of the object confiscated.

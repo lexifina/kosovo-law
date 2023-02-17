@@ -1,0 +1,3 @@
+# Article 151
+Right of the Defendant to Interpretation or Translation
+1.The defendant is interrogated with the assistance of an interpreter or translator in the cases provided by this Code. 2.When the defendant is deaf or dumb, questions are asked through a qualified sign language interpreter or translator. If the interrogation cannot be carried out in this way, the person who knows how to communicate with the defendant is invited to the role of interpreter or translator, but not in cases of conflict of interest. 3.If the interpreter or translator has not been sworn in before, he swears that he will faithfully translate the questions posed to the defendant and the statements given. 4.The interpreter or translator acts in accordance with Article 211 of this Code.

@@ -1,6 +1,0 @@
-# Article 9
-Equality of Parties
-1. The defendant and the state prosecutor shall have the status of equal parties in criminal proceedings, unless otherwise provided for by the present Code.
-2. The defendant has the right and shall be allowed to make a statement on all the facts and evidence which incriminate him or her and to state all facts and evidence favorable to him or her. He or she has the right to request the state prosecutor to summon witnesses on his or her behalf. He or she has the right to examine or to have examined witnesses against him or her and to obtain the attendance and examination of witnesses on his or her behalf under the same conditions as witnesses against him or her.
-3. The injured party has the right and shall be allowed to make a statement on all the facts and evidence that affects his or her rights, and to make a statement on all the facts and evidence. He or she has the right to examine witnesses, cross-examine witness and to request the state prosecutor to summon witnesses.
-4. If the state prosecutor determines that during the investigation were collected sufficient evidence to proceed to the main trial, the state prosecutor shall draft the indictment and shall present the facts on which he or she bases the indictment and shall provide evidence of these facts.

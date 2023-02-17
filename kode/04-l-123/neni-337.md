@@ -1,7 +1,0 @@
-# Neni 337
-Përdorimi i dëshmisë së mëparshme të dëshmitarit
-1. Pala mund të propozojë marrjen e provës në shqyrtim gjyqësor nga dëshmia e mëparshme e dëshmitarit, nëse dëshmia e tillë është marrë gjatë mundësisë hetuese të veçantë nga neni 149 të këtij Kodi.
-2. Pala mund të propozojë marrjen e provës në shqyrtim gjyqësor nga dëshmia e mëparshme e dëshmitarit nëse dëshmia e tillë është marrë gjatë seancës për marrjen e deklaratës në procedurë paraprake nga neni 132 i këtij Kodi, dëshmitari nuk është në dispozicion për të dëshmuar dhe është paraqitur mbështetje e pohimit në pajtim me nenin 263 të këtij Kodi.
-3. Prokurori i shtetit mund të propozojë marrjen e provës në shqyrtim gjyqësor nga audiokasetat apo videokasetat e të akuzuarit të marra në pajtim me nenin 88 ose nenin 92 të këtij Kodi.
-4. Nëse është bërë videokaseta ose audiokaseta e dëshmisë ose deklaratës nga paragrafi 1. deri 3. të këtij neni ajo reprodukohet në tërësi gjatë shqyrtimit gjyqësor, përveç nëse gjyqtari i vetëm gjykues ose trupi gjykues vendosin që dëgjimi i tërësishëm i videokasetës apo audiokasetës përmban tepër shumë informata të parëndësishme. Në rast të tillë, gjyqtari i vetëm gjykues ose trupi gjykues mund të urdhërojë që pjesë të veçanta dhe të rëndësishme të videokasetës apo audiokasetës të reprodukohen në shqyrtim gjyqësor.
-5. Ky nen nuk ndalon përdorimin e deklaratave të mëparshme të dëshmitarit gjatë marrjes së tërthortë në pyetje të atij dëshmitari.

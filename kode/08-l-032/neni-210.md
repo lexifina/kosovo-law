@@ -1,0 +1,8 @@
+# Neni 210
+Qasja e të dëmtuarit ose viktimës dhe mbrojtësit të viktimës ose përfaqësuesit të viktimës në shkresat e lëndës
+1. I dëmtuari ose viktima, mbrojtësi i viktimës ose përfaqësuesi i viktimës kanë të drejtë të shikojnë, kopjojnë ose fotografojnë shkresat dhe provat materiale që i disponon gjykata ose prokurori i shtetit nëse ka interes legjitim për të bërë një gjë të tillë.
+2. Gjykata ose prokurori i shtetit mund të refuzojnë lejimin e shikimit, të kopjimit ose të fotokopjimit të shkresave ose provave materiale nëse interesi legjitim i të pandehurit dhe i personave të tjerë kalon interesin e të dëmtuarit, ose nëse ka gjasa reale që shikimi, kopjimi ose fotokopjimi mund të rrezikojë qëllimin e hetimit ose jetën dhe shëndetin e njerëzve apo do të zvarriste në mënyrë të konsiderueshme procedurën dhe nëse i dëmtuari ende nuk është pyetur si dëshmitar.
+3. Nëse prokurori i shtetit refuzon shikimin e shkresave, i dëmtuari mund t’i paraqesë ankesë gjyqtarit të procedurës paraprake. Vendimi i gjyqtarit të procedurës paraprake është përfundimtar.
+4. Nëse gjyqtari i procedurës paraprake refuzon shikimin e shkresave me të cilat disponon gjykata, atëherë mund të paraqitet ankesë në kolegjin shqyrtues.
+5. Të dhënat mund të redaktohen apo të shënjohen nga prokurori i shtetit me vijë të trashë të zezë për të fshehur të dhëna të caktuara në kopjet e shkresave të cilat përmbajnë të dhëna të ndjeshme.
+6. Dispozitat e këtij neni varen nga masat për mbrojtjen e të dëmtuarve, dëshmitarëve dhe privatësisë së tyre si dhe mbrojtjen e informacioneve konfidenciale siç parashihet me ligj, përfshirë Kapitullin XIII të këtij Kodi.

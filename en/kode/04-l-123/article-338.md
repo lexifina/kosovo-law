@@ -1,8 +1,0 @@
-# Article 338
-Reading of other previously entered statements
-1. Except in cases provided for in the present Code, records containing the testimony of witnesses, the co-accused or participants who have already been convicted of the criminal offence as well as records and other documents regarding the findings and opinions of expert witnesses may be read according to a decision of the trial panel only in the following cases:
-1.1. if the persons who have been examined have died, become afflicted with mental disorder or disability or cannot be found, or if their appearance before the court is impossible or involves considerable difficulties due to old age, illness or other important reasons;
-1.2. if the witnesses or expert witnesses refuse to testify at the main trial without lawful reasons; or
-1.3. if the parties agree that the direct examination of a witness or expert witness who has failed to appear, irrespective of whether he or she has been summoned or not, be replaced by reading the records of his or her previous examination.
-2. Records of previous examinations of persons exempt from the duty to testify may not be read if such persons were not summoned to the main trial or if they exercised their right not to testify at the main trial. If such persons exercised their right not to testify at the main trial after they had already been examined or if they did not come to court when summoned, the record of their prior examination shall be inadmissible evidence.
-3. The reasons for the reading of the record shall be indicated in the record of the main trial and during the reading it shall be announced whether or not the witness or expert witness took the oath.

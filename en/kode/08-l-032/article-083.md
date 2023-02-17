@@ -1,0 +1,8 @@
+# Article 83
+Supplemental Information to Police Criminal Report
+1. If from the criminal report itself the state prosecutor is unable to conclude whether the allegations contained in it are probable, or if information in the report does not provide a sufficient
+CODE NO. 08/L-032 CRIMINAL PROCEDURE CODE basis for an investigation to be initiated or if the state prosecutor has only heard a rumor that a criminal offense was committed, the state prosecutor, if he is unable to do so on his own, shall request that the police gather the necessary information. The police are bound to follow the state prosecutor’s lawful requests.
+2. The state prosecutor may also gather information on his own, or from other public entities, including by speaking to witnesses and injured parties, and their legal counsel. The state prosecutor may participate with the police in any examination of the defendant while he must respect the rights of suspects under this Code.
+3. The police shall have a duty to report immediately to the state prosecutor on the measures they have undertaken under his instruction or, if the police is unable to undertake them, they shall immediately report to the state prosecutor the reasons for their inability to undertake such measures.
+4. The state prosecutor may request necessary data from public entities and may for this purpose summon the person who has submitted the criminal report.
+5. The police, state prosecutor and other public entities have a duty to proceed cautiously in gathering or supplying information, taking care not to harm the dignity and reputation of the person to whom such information refers.

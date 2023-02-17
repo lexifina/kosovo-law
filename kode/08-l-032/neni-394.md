@@ -1,0 +1,3 @@
+# Neni 394
+Kufijtë e shqyrtimit të ankesës nga Gjykata e Apelit 1. Gjykata e Apelit shqyrton aktgjykimin në pjesën për të cilën është ushtruar ankesë. Përveç kësaj, kur paraqitet ankesa, gjykata e shqyrton sipas detyrës zyrtare nëse ekziston shkelje e dispozitave të procedurës penale sipas nenit 384 paragrafit 1 të këtij Kodi ose nëse është shkelur ligji penal në dëm të të akuzuarit.
+2. Kur paraqitet ankesë në dëm të të akuzuarit, gjykata shqyrton sipas detyrës zyrtare nëse është bërë shkelje lidhur me shqiptimin e sanksionit penal sa i përket llojit të sanksionit që parashihet me ligj. Gjykata sipas detyrës zyrtare gjithmonë shqyrton nëse është shkelur ligji penal në dëm të të akuzuarit.

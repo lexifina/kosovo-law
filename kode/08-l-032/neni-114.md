@@ -1,0 +1,8 @@
+# Neni 114
+Procedura për pasurinë pronësia e së cilës është e panjohur
+1. Kur pasuria është gjetur nga kontrolli i personit, banesës apo pronës tjetër dhe nuk dihet se kujt i takon, prokurori i shtetit e përshkruan pasurinë dhe e shpall përshkrimin në tabelën e njoftimeve të kuvendit të komunës në territorin e së cilës i pandehuri jeton dhe në territorin e së cilës është kryer vepra penale. Në njoftimin e tillë pronari thirret të paraqitet brenda gjashtë (6) muajve nga dita e shpalljes së parë të njoftimit ose në të kundërtën sendi shitet me urdhër të prokurorit të shtetit nga Agjencia për Administrimin e Pasurive të Sekuestruara dhe të Konfiskuara. Paratë e fituara nga shitja kalojnë në pronësi të Republikës së Kosovës dhe transferohen në Programin për Kompensim të Viktimave të Krimit.
+2. Kur ndonjë pasuri ka vlerë mbi pesëmijë (5000) euro, njoftimi i njëjtë si në paragrafin 1 të këtij kodi gjithashtu publikohet në shtypin e përditshëm.
+3.Kur pasuria mund të prishet ose mirëmbajtja e saj kërkon shpenzime të konsiderueshme, mund të shitet sipas urdhrit të gjykatës në bazë të të cilit të ardhurat e fituara transferohen për
+KODI NR. 08/L-032 I PROCEDURËS PENALE ruajtje në një llogari bankare që është nën kontrollin e Agjencisë për Administrimin e Pasurisë së Sekuestruar dhe Konfiskuar deri në urdhrin e radhës nga gjykata.
+4. Paragrafi 3 i këtij neni zbatohet edhe për sendet që i përkasin të pandehurit i cili është arratisur ose një kryerësi të panjohur.
+5. Pronari ka të drejtë që të kërkojë kompensimin e pasurisë apo të ardhurat nga shitja e saj në procedurë civile brenda tri (3) viteve nga kalimi i afatit kohor të përcaktuar në paragrafin 2 të këtij neni. C. Marrja e provave para ngritjes së aktakuzës

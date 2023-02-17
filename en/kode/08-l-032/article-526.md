@@ -1,0 +1,6 @@
+# Article 526
+Petition for Compensation and its Statutory Limitations
+1. The right to compensation for damages shall be statute-barred three (3) years from the entry into force of the judgment in the first instance acquitting the accused of the charge or rejecting the charge, or from the entry into force of the first instance ruling dismissing the charge or terminating the proceedings. If the appeal was decided by a higher court, the right to seek compensation for damages shall be statute-barred three (3) years from the receipt of the decision of that court.
+2. Before filing the claim for compensation for damages with the court, the injured party shall address a petition to the competent public authority in the field of judicial affairs to reach agreement on the existence of the damages and the type and extent of compensation.
+3. In the instance referred to in sub-paragraph 1.2, paragraph 1 of Article 525 of the present Code the request may only be processed if the state prosecutor fails to initiate prosecution at the competent court within three (3) months of receipt of the final ruling. If the state prosecutor initiates prosecution at the competent court after the expiry of that period of time, proceedings for compensation for damages shall be suspended until criminal proceedings have been concluded.
+CODE NO. 08/L-032 CRIMINAL PROCEDURE CODE

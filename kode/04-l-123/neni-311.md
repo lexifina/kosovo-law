@@ -1,5 +1,0 @@
-# Neni 311
-Ndryshimi i përbërjes së trupit gjykues gjatë shtyrjes
-1. Kur përbërja e trupit gjykues është ndryshuar, shqyrtimi gjyqësor i shtyrë fillon rishtas. Por, në rastin e tillë, trupi gjykues pas dëgjimit të palëve mund të vendosë që dëshmitarët dhe ekspertët të mos merren sërish në pyetje dhe të mos bëhet këqyrja e re e vendit, por të lexohen deklarimet e dëshmitarëve dhe ekspertëve të dhëna në shqyrtimin e mëparshëm gjyqësor apo të lexohet procesverbali i këqyrjes së vendit.
-2. Kur përbërja e trupit gjykues nuk ka ndryshuar, shqyrtimi gjyqësor i shtyrë vazhdohet para të njëjtit trup gjykues dhe kryetari i trupit gjykues shkurtimisht paraqet rrjedhën e shqyrtimit gjyqësor të mëparshëm. Por, edhe në këtë rast, trupi gjykues mund të caktojë që shqyrtimi gjyqësor të fillojë rishtas.
-3. Kur shtyrja ka zgjatur më shumë se tre (3) muaj ose kur shqyrtimi gjyqësor mbahet para një kryetari tjetër të trupit gjykues, shqyrtimi gjyqësor duhet të fillojë rishtas dhe përsëri të shqyrtohen të gjitha provat.

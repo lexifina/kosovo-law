@@ -1,0 +1,8 @@
+## CHAPTER XXXVI
+## PROCEEDINGS FOR COMPENSATION, REHABILITATION AND EXERCISE OF OTHER RIGHTS OF PERSONS WHO HAVE BEEN CONVICTED OR ARRESTED WITHOUT JUSTIFICATION SUB – CHAPTER I PROCEEDINGS FOR DAMAGE COMPENSATION OF PERSONS WHO HAVE BEEN CONVICTED OR ARRESTED WITHOUT JUSTIFICATION
+# Article 525
+Persons who Have the Right to Compensation for Unjustified Conviction 1.A person shall be entitled to damage compensation for an unjustified conviction if a penal sanction has been imposed in a final form on him or if he has been found guilty and punishment was waived, but later on the basis of an extraordinary legal remedy, the reopened proceedings were dismissed in a final form or he was acquitted of the charge by a final judgment or the charge against him was rejected, except in the following instances:
+1.1. where the proceedings were terminated or a judgment rejecting the charge was rendered because in the new proceedings the injured party withdrew the motion as a result of the agreement with the defendant; or
+1.2. where in the reopened proceedings the charge was dismissed by a ruling because the court did not have competence and the authorized state prosecutor initiated prosecution before the competent court.
+2. The convicted person shall not be entitled to compensation for damages caused if, by a false confession or in some other way, he deliberately brought about his conviction, except where he was compelled to do so.
+3. In the case of conviction for concurrent offenses, the right to compensation for damages exists for the criminal offense for which conditions for recognition of compensation have been fulfilled.

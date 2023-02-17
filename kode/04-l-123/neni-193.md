@@ -1,5 +1,0 @@
-# Neni 193
-Caktimi i paraburgimit pas ngritjes së aktakuzës
-1. Pas ngritjes së aktakuzës dhe deri në përfundim të shqyrtimit gjyqësor, paraburgimi mund të caktohet, vazhdohet ose të hiqet vetëm me aktvendim të gjyqtarit të vetëm gjykues, kryetarit të trupit gjykues ose trupit gjykues në seancë. Gjyqtari i vetëm gjykues ose kryetari i trupit gjykues së pari dëgjon mendimin e prokurorit të shtetit kur procedura është filluar me kërkesën e tij dhe mendimin e të pandehurit ose mbrojtësit. Kundër aktvendimit palët kanë të drejtë ankese. Neni 189, paragrafët 3. dhe 4. të këtij Kodi zbatohen përshtatshmërisht.
-2. Pasi të kalojnë dy (2) muaj nga aktvendimi i fundit për paraburgim, gjyqtari i vetëm gjykues apo kryetari i trupit gjykues edhe pa propozimin e palëve shqyrton nëse ende ekzistojnë arsyet për paraburgim dhe merr aktvendim për vazhdimin ose heqjen e paraburgimit. Kundër aktvendimit palët kanë të drejtë ankese. Neni 189, paragrafët 3. dhe 4. të këtij Kodi zbatohen përshtatshmërisht.
-4. ZBATIMI I PARABURGIMIT

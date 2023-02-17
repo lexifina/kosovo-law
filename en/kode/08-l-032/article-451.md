@@ -1,0 +1,3 @@
+# Article 451
+Payment of Costs due to Fault of a Person that Caused Them 1. The defendant, the injured party or victim, the defense counsel, the victim advocate or victim’s representative, the witness, the expert witness, the interpreter, and the specialist, regardless of the outcome of the criminal proceedings, shall meet the costs of their compulsory appearance, the postponement of an investigative action, and other costs of proceedings incurred through their own fault, as well as the corresponding share of the scheduled amount.
+2. A separate ruling is rendered concerning the costs under paragraph 1 of the present Article, unless the matter of costs to be paid by the defendant is decided in a decision on the main issue.

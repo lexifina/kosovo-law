@@ -1,0 +1,3 @@
+# Article 494
+Dismissal of Request for Punitive Order 1. A single trial judge dismisses a request to issue a punitive order if it concerns a criminal offense for which such request may not be filed or if the state prosecutor requests the imposition of a punishment which is not permitted under the law. The review panel decides within a prescribed period of forty-eight (48) hours on the state prosecutor’s appeal from a ruling on dismissal.
+2. If the single trial judge considers that the information in the indictment does not offer sufficient grounds to issue a punitive order or that according to such information the imposition of some other punishment than the one requested by the state prosecutor can be expected, he, upon receipt of an indictment, schedules a main trial.

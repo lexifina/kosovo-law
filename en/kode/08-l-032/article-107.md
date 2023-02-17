@@ -1,0 +1,7 @@
+# Article 107
+Search and Temporary Sequestration of Evidence or Specified Property not Detailed in the Search Order 1. If during the execution of a search order of a person, residence or other property evidence, or specified property are found which are not set forth in the order for the search but which are otherwise evidence of this or another criminal offense or specified property, this evidence or specified property shall be described in the record and temporarily sequestered, and a receipt of temporary sequestration shall immediately be issued and maintained as set forth in Article 110 of this Code.
+2. A notification thereof shall immediately be sent to the state prosecutor, no later than within forty-eight (48) hours after the search is completed.
+3. With regard to evidence and specified property temporarily sequestrated under this Article, the state prosecutor shall, within seventy-two (72) hours from the execution of the search, apply to the court in order to obtain retroactive approval of the court for the search and temporary sequestration, in compliance with Constitutional provisions.
+4. If the search and temporary sequestration are retroactively approved by the court:
+4.1. temporarily sequestrated evidence shall be dealt with thereafter in accordance with Article 110 of this Code;
+4.2. within seven (7) days of the retroactive approval by the court, temporarily sequestrated specified property shall be subject to an application by the state prosecutor for a final restraint order pursuant to Article 261 of this Code.

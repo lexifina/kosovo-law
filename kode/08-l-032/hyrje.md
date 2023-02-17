@@ -1,0 +1,1 @@
+KODI NR. 08/L-032 I PROCEDURËS PENALE KODI NR. 08/L-032 I PROCEDURËS PENALE Kuvendi i Republikës së Kosovës: Në bazë të nenit 65 (1) të Kushtetutës së Republikës së Kosovës, Miraton: KODIN E PROCEDURËS PENALE PJESA E PARË DISPOZITAT E PËRGJITHSHME

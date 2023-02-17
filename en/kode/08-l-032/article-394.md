@@ -1,0 +1,3 @@
+# Article 394
+Scope of Appeal Review by the Court of Appeals 1. The Court of Appeals examines the part of the judgment which is challenged by the appeal. In addition, when an appeal is filed, the court examines ex officio whether there exists a violation of the provisions of criminal procedure under Article 384 paragraph 1 of this Code or whether the criminal law was violated to the detriment of the accused.
+2. If an appeal is filed to the detriment of the accused, the court examines ex officio whether there has been a violation regarding the penal sanction as to the type of sanction provided by the law. The court always examines ex officio whether the law has been violated to the detriment of the accused.

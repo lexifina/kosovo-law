@@ -1,0 +1,7 @@
+# Neni 504
+Mbikëqyrja e trajtimit të detyrueshëm rehabilitues nga gjykata
+1. Gjykata e cila ka shqiptuar masën e trajtimit të detyrueshëm për rehabilitim në institucionin e kujdesit shëndetësor, sipas detyrës zyrtare ose me propozimin e institucionit për kujdes shëndetësor dhe bazuar në mendimin e ekspertit të psikiatrisë, i merr të gjitha vendimet lidhur me kohëzgjatjen dhe ndryshimin e masës nga neni 87 i Kodit Penal.
+2. Vendimet nga paragrafi i mëparshëm merren nga kolegji shqyrtues pas seancës së dëgjimit. Njoftimi për seancë dëgjimi i dërgohet prokurorit të shtetit dhe mbrojtësit. Para marrjes së vendimit, gjykata dëgjon mendimin e ekspertit dhe të kryerësit nëse gjendja e tij shëndetësore e lejon këtë.
+3. Në procedurë për shqyrtim të vazhdimit ose ndryshimit të masës për trajtim të detyrueshëm për rehabilitim, kryerësi duhet të ketë mbrojtës.
+4. Çdo dy (2) muaj, gjykata në pajtim me paragrafin 2 të këtij neni vendos sipas detyrës zyrtare nëse ende ekzistojnë kushtet për masën e trajtimit të detyrueshëm për rehabilitim në institucionin për kujdes shëndetësor. Eksperti i cili nuk punon në institucionin e kujdesit shëndetësor ku kryerësi i është nënshtruar trajtimit të detyrueshëm për rehabilitim, kryen ekspertimin dhe paraqet konstatimin e tij me shkrim dhe kur është e nevojshme, bën deklarim në gjykatë.
+5. Gjykata pushon zbatimin e masës nga paragrafit 1 i këtij neni kur trajtimi ose rehabilitimi më nuk janë të nevojshëm ose kur ka kaluar koha e përcaktuar në nenin 87 të Kodit Penal.

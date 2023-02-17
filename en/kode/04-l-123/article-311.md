@@ -1,5 +1,0 @@
-# Article 311
-Change of Composition of Trial Panel during Adjournment
-1. When the composition of the trial panel has changed, the adjourned main trial shall start from the beginning. However, after hearing the parties, the trial panel may in this case decide not to examine the witnesses and expert witnesses again and not to conduct a new site inspection, if one was done, but rather to read the testimony of the witnesses and the expert witnesses given at the previous main trial or the record of the site inspection.
-2. If the composition of the trial panel has not changed, the adjourned main trial shall be continued and the presiding trial judge shall give a short account of the course of the previous main trial. However, the trial panel may in this case also decide to recommence the main trial from the beginning.
-3. If the main trial has been adjourned for more than three (3) months or if it is held before a new presiding trial judge, the main trial shall recommence from the beginning and all the evidence shall be examined again.

@@ -1,5 +1,0 @@
-# Article 301
-Maintenance of order and media in the courtroom
-1. The single trial judge or presiding trial judge shall be obliged to ensure the maintenance of order in the courtroom and the dignity of the court. Toward this end, he or she may immediately upon the opening of the session warn the persons present to behave properly and not to obstruct the work of the court. The single trial judge or presiding trial judge may order a personal search of persons present at the main trial.
-2. The single trial judge or presiding trial judge may order that the audience present at the main trial be removed from the session if it is not possible to ensure by the measures for the maintenance of order provided for by the present Code that the main trial shall be held without disturbance.
-3. Photography, film, television and other recordings apart from the official recording of the main trial is permitted, unless the single trial judge or presiding trial judge limits photography, film, television or other recordings in a reasoned written decision.

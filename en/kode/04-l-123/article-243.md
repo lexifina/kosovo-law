@@ -1,6 +1,0 @@
-# Article 243
-Filings Supplemental to the Indictment
-1. Concurrent with filing the indictment, the state prosecutor shall file the following documents if appropriate:
-1.1. the state prosecutor shall file a notice of corroboration under Article 263 of the present Code with any statement taken under Article 132 of the present Code or evidence obtained under Article 219, paragraph 6 of the present Code that he or she intends to submit as direct evidence without the presence of the witness. The notice of corroboration shall describe the independent evidence that corroborates the statement that the state prosecutor intends to submit as direct evidence. This notice of corroboration may be supplemented or filed at a later date if a witness for whom this provision applies is not longer available to testify at the main trial.
-1.2. the state prosecutor shall file a request to continue or implement any measure to ensure the presence of the defendant. Articles 173 to 193 of the present Code shall apply mutatis mutandis to any request under this paragraph.
-2. The state prosecutor may file notices of corroboration or requests under this Article at other times if he or she could not know the basis for filing the notice or request at the time the indictment was filed.

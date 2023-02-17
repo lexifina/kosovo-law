@@ -1,4 +1,0 @@
-# Article 54
-Qualification as Defense Counsel
-1. Only a member of the Chamber of Advocates of Kosovo may be engaged as defense counsel, but an attorney in training may replace the member of the Chamber of Advocates. If proceedings are being conducted for a criminal offence punishable by imprisonment of at least five years, an attorney in training may replace a member of the bar only if he or she has passed the judicial examination. Only a member of the bar can represent a defendant before the Court of Appeals or Supreme Court of Kosovo.
-2. The defense counsel shall submit his or her power of attorney to the police, state prosecutor or the court before which proceedings are being conducted. The suspect and the defendant may give the defense counsel a verbal power of attorney, which shall be entered in the record of the police, state prosecutor or the court before which proceedings are being conducted.

@@ -1,4 +1,0 @@
-# Article 238
-Revocation of Declaration of Cooperative Witness
-1. Upon an application by the state prosecutor, the order provided for in Article 237 of the present Code may be revoked by a review panel if it is established that the testimony of the co-operative witness was false in any relevant part or that the co-operative witness omitted to state the complete truth.
-2. The co-operative witness shall be warned of the consequences of giving testimony that is false in any relevant part or purposely omitting to state the complete truth before being heard by the pre-trial judge under Article 237 paragraph 1 of the present Code, and before giving testimony under the protection of the order. Any such testimony must be either in written form in the language of the co-operative witness, signed by him or her to acknowledge its truthfulness, or recorded on audio- or video-tape which is determined to be authentic by the court.

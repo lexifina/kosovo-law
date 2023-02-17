@@ -1,0 +1,6 @@
+# Neni 273
+Zëvendësimi i vlerës së pasurisë 1. Pavarësisht nga dispozitat e nenit 92 të Kodit Penal, nëse gjykata ka konstatuar se i pandehuri ka pranuar dobi pasurore nga vepra penale ose ka bërë dhuratë të njollosur dhe nëse dobia pasurore ose dhurata e njollosur në tërësi ose pjesërisht nuk është në dispozicion për t’u konfiskuar për ndonjë arsye, gjykata konfiskon çdo pasuri tjetër të të pandehurit ose të palës së tretë deri në vlerën monetare të dobisë pasurore ose dhuratës së njollosur të përshkruar në përputhje me nenin 269 të këtij Kodi, pavarësisht se kjo pronë tjetër nuk është e përshkruar në aktakuzë sipas nenit 235 nënparagrafi 1.9 të këtij Kodi ose në njoftim sipas nenit 278 paragrafi 5 të këtij Kodi.
+2. Prokurori i shtetit paraqet në gjykatë prova të pasurisë shtesë të të pandehurit ose të palës së tretë që është në dispozicion për t’u konfiskuar si pasuri për zëvendësimin e vlerës.
+3. Pasuria për zëvendësimin e vlerës përfshinë pasurinë si të origjinës së ligjshme ashtu edhe asaj të paligjshme.
+4. Nëse gjykata njofton të pandehurin ose palën e tretë se ka për qëllim të konfiskojë pasurinë për zëvendësimin e vlerës, i pandehuri ose pala e tretë mund t’ia paguajë gjykatës shumën për zëvendësimin e vlerës.
+5. Nëse i pandehuri ose pala e tretë e respekton paragrafin 4 të këtij neni, gjykata nuk e konfiskon pasurinë për zëvendësimin e vlerës.

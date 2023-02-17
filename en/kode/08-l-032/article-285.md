@@ -1,0 +1,4 @@
+# Article 285
+Examination of Witnesses or Expert Witnesses Outside the Courtroom
+1. If a witness or an expert witness who was summoned to the main trial is unable to appear because of a chronic illness or some other impediment, such witness or expert witness may be examined at the place where he resides, unless such witness or expert witness has already been examined during a special investigative opportunity.
+2. The parties, defense counsel and the injured party are informed of the time and place of the examination if that is possible considering the urgency of the proceedings. If the accused is in detention on remand the single trial judge or presiding trial judge decides whether his presence at the examination is necessary, providing that in the absence of the accused his defense counsel can be present. When the parties, the defense counsel and the victim advocate or victim’s representative are present, they have the rights under Article 147 of this Code.

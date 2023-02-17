@@ -1,0 +1,8 @@
+# Article 533
+Realization of Other Rights
+1. A person who by virtue of an unjustified conviction or groundless arrest has lost employment
+CODE NO. 08/L-032 CRIMINAL PROCEDURE CODE or social insurance under the social welfare system shall be entitled to benefit for the period of time lost as an unemployed or insured person in that way counted as if he were employed during the time lost through the unjustified conviction or groundless arrest. The time of unemployment resulting from an unjustified conviction or groundless arrest which did not occur through the fault of that person shall also be counted in the period of service.
+2. In every decision on a right affected by the length of work service or of insurance contribution, the competent body shall take into account the length of time recognized in accordance with paragraph 1 of the present Article.
+3. If the competent body under paragraph 2 of the present Article disregards the length of time recognized under paragraph 1 of the present Article, the injured party or victim may request that the court referred to in Article 527, paragraph 1 of the present Code confirm that the recognition of this time is carried out in accordance with the law. The claim shall be filed against the competent body which disputes the period of service and the competent public authority in the field of judicial affairs.
+4. On request of the body where the right under paragraph 2 of the present Article is exercised, the contribution prescribed for the period recognized under paragraph 1 of the present Article shall be paid out of budgetary resources.
+5. The length of time of insurance coverage recognized under paragraph 1 of the present Article shall be included entirely as pensionable employment.

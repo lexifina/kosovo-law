@@ -1,0 +1,3 @@
+# Neni 6
+Veprimet fillestare dhe fillimi i procedurës penale 1. Veprimet fillestare të policisë mund të fillohen nga zyrtari i policisë në pajtim me nenet 70 – 78 dhe 82-83 të këtij Kodi 2. Procedura penale fillohet vetëm me vendim të prokurorit të shtetit kur ekziston dyshim i arsyeshëm se është kryer vepër penale ose kur është ngritur aktakuzë e drejtpërdrejtë sipas dispozitave të këtij Kodi.
+3. Prokurori i shtetit mund të fillojë procedurën penale në pajtim me paragrafin 2 të këtij neni pas marrjes së informacionit nga policia, institucioni tjetër publik, institucioni privat, qytetari, media, nga informacioni i marrë në një procedurë tjetër penale ose pas ankimit ose propozimit të të dëmtuarit ose viktimës.

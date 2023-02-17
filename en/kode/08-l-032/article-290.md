@@ -1,0 +1,5 @@
+# Article 290
+Persons that shall not be Excluded from the Main Trial and Maintenance of Confidentiality
+1. The exclusion of the public does not apply to the parties, victim advocate or victim’s representative and the defense counsel, except for cases foreseen in Article 297, 303 and 337 of this Code and except under the conditions of the provisions regarding the protection of injured parties, cooperative witnesses and witnesses as set forth in Chapter XIII of the present Code.
+CODE NO. 08/L-032 CRIMINAL PROCEDURE CODE 2. The single trial judge or presiding trial judge may grant permission for certain officials, academics, public figures and, on the request of the accused, also the spouse or extra-marital partner of the accused and his close relatives to attend a main trial which is not open to the public.
+3. The single trial judge or presiding trial judge warns the persons attending the main trial which is closed to the public of their obligation to keep confidential all information that comes to their knowledge at the trial and informs them that disclosing such information constitutes a criminal offense.

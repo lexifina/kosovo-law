@@ -1,0 +1,7 @@
+# Neni 21
+Caktimi i lëndëve brenda gjykatave 1. Procedura penale zhvillohet dhe çështja gjykohet në shkallë të parë në Departamentin e Përgjithshëm, Departamentin e Krimeve të Rënda apo ndonjë Divizion apo Departament të themeluar sipas Ligjit përkatës për Gjykatat që ka juridiksion mbi veprat penale.
+2. Kur një fëmijë është i pandehur në një rast penal, ai rast do të ndahet nga çdo rast tjetër dhe do të shqyrtohet vetëm nga Departamenti për të Miturit në kuadër të Gjykatës Themelore, sipas Kodit përkatës të Drejtësisë për të Mitur në fuqi apo ligjit pasues.
+3. Departamenti i Përgjithshëm i Gjykatës Themelore zhvillon dhe çështjen e gjykon në të
+KODI NR. 08/L-032 I PROCEDURËS PENALE gjitha procedurat penale që nuk janë brenda juridiksionit të Departamentit për Krime të Rënda, Departamentit për të Miturit ose ndonjë Divizionit apo Departamentit të themeluar sipas Ligjit përkatës për Gjykatat që ka juridiksion mbi veprat penale.
+4. Departamenti i Krimeve të Rënda i Gjykatës Themelore zhvillon dhe çështjen e gjykon në çfarëdo procedure penale ku prokurori i shtetit pretendon apo ka ngritur akuzë për një ose më shumë vepra të mundshme penale për të cilat është paraparë dënim me burgim mbi dhjetë (10) vjet si dhe veprat penale që konsiderohen krime të rënda sipas nenit 22 të këtij Kodi.
+5. Departamenti Special i Gjykatës Themelore në Prishtinë zhvillon dhe çështjen e gjykon në të gjitha procedurat penale për lëndët në kompetencë të Prokurorisë Speciale të Republikës së Kosovës në pajtim me dispozitat e Ligjit përkatës për Gjykatat.
