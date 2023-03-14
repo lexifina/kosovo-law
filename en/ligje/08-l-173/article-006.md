@@ -1,0 +1,21 @@
+# Article 6
+Obligation of the operator of essential service to report a cyber incident
+1. An operator of essential services shall inform the CSA immediately, but not later than twenty- four (24) hours after becoming aware of a cyber incident:
+1.1. which has a significant impact on the security of the system or the continuity of the service;
+1.2. a significant impact of which on the security of the system or the continuity of the service is not obvious but can be reasonably presumed.
+2. A cyber incident has a significant impact if at least one of the following conditions is met:
+2.1. the impact of the cyber incident is at least high according to the degree of consequences determined in the system risk assessment prepared on the basis of Article 5, paragraph 2 of this Law;
+2.2. due to a cyber-incident, the provision of the service cannot be continued after the passing of the maximum permitted time of disruption of the service provided by the relevant service level agreement or requirements for the continuity of the service;
+2.3. the continuity of the service of the provider of another service is disrupted due to the cyber incident;
+2.4. extraordinary measures set out in the system risk assessment prepared under Article 5 paragraph 2 of this Law or in any other document, if any, which describing the restoration of the continuity of the service or the security of the system need to be applied for resolving the cyber incident;
+2.5. the service provider, the provider of another service, or service users suffer or may suffer significant damage due to the cyber incident.
+3. The obligation set forth in paragraph 1 of this Article shall not limit the right of the operators of essential services to notify the CSA of a cyber incident that does not have a significant impact as defined in paragraph 2 of this Article.
+4. Within a reasonable period of time, the operator of essential service is obliged to notify persons possibly affected by the cyber incident with a significant impact, or the public, if the persons affected persons cannot be notified individually.
+5. Based on the information provided in the notification by the operator of essential services, the CSA shall inform all affected operators of essential services if the incident has a significant impact on the continuity of the essential services. The CSA, in accordance with the legislation in force, safeguards the security and commercial interests of the operator of essential services, as well as the confidentiality of the information provided in the notification.
+6. If the operator of essential services fails to comply with the notification obligation provided for in paragraph 4 of this Article within a reasonable period of time, the CSA may notify the person affected or the public itself, also informing the operator of essential services of such notification.
+7. In resolving a cyber incident with significant impact, the operator of essential services is required to submit to the CSA a report which includes information on the causes of the cyber incident, the time spent in its resolution, the measures applied and the impact of the cyber incident.
+8. The Operator of Essential services must maintain user data in accordance with applicable legislation.
+9. When circumstances permit, the CSA shall provide the operator of essential services that has reported the incident with relevant information on the actions taken following its notification, such as information that may support effective incident handling.
+10. For all information systems, to which access is restricted or completely prohibited, the operators of essential services are obliged to make sure that the user is clearly and automatically warned with information, as well as under what conditions the user can use the information system, or that the use of this information system is prohibited, and the legal consequences of the unauthorized access.
+11. Failure to comply with the obligations set out in this Article by the operator of essential services shall be determined as minor offence.
+12. The procedure for notification of the cyber incident and the format of the report will be determined by a sub-legal act approved by the Minister of the Ministry responsible for internal affairs.

@@ -1,0 +1,11 @@
+# Article 9
+Prevention and resolution of a cyber-incident
+1. Ensuring cyber security, prevention and resolution of a cyber-incident to the extent provided by this law shall be coordinated by the CSA.
+2. For the purpose of ensuring cyber security, the CSA in coordination with the Ministry of Defence, the Regulatory Authority of Electronic and Postal Communications and other security institutions, analyses the risks posed to the security of systems and their impact on the state, society and security of systems.
+3. CSA will establish and maintain an electronic register of cyber security risks for the country.
+4. For the purpose of preventing and resolving a cyber-incident, the CSA in cooperation with the State Cyber Security Training Centre in MD\KSF organizes exercises with operators of essential service and digital service providers.
+5.CSA sends alerts to operators of essential service and digital service providers to enable them to take measures to avoid or reduce the impact of a cyber incident.
+6. CSA has the right to exchange information with a foreign state or with the European Union Cyber Security Agency or with another organization regarding the prevention and resolution of a cyber incident for the performance of the functions set out in this Law or an obligation arising from European Union legislation or in cases as provided for in an international agreement, provided that the information exchanged does not harm national security or criminal proceedings.
+7. When exchanging information, the CSA shall take into account the business interests of the operator of essential service or digital service provider and shall abide by the obligation to keep business secrets.
+8. In order to ensure security of information systems and protection of personal data, CSA coordinates and cooperates with public institutions with competences in this field, with service providers, non-governmental organizations and civil society representatives to develop activities and programs for prevention of cyber incidents.
+9. The manner of data registration and disclosure of information in the electronic register of the cyber security risks shall be determined by a sub-legal act approved by the Minister of the Ministry responsible for Internal Affairs.

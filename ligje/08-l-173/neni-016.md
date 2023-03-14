@@ -1,0 +1,20 @@
+# Neni 16
+Detyrat dhe përgjegjësitë
+1. ASK është institucion përgjegjës për propozim dhe zbatimin e masave për siguri kibernetike në Republikën e Kosovës.
+2. ASK ka për detyrë të monitoroj, inspektoj dhe koordinoj aktivitetet e institucioneve përgjegjëse për siguri kibernetike në Republikën e Kosovës, si dhe të ndërmerr masa në rast të moszbatimit, në pajtim me këtë ligj.
+3. ASK në bashkëpunim me Qendrën Shtetërore Trajnuese për Siguri Kiberentike ka për detyrë realizimin e testimeve dhe ushtrimeve të përbashkëta me operatorët e shërbimeve esenciale dhe ofruesit e shërbimeve digjitale, me qëllim evidentimin e cenueshmërisë.
+4. ASK ka për detyrë reagimin ndaj kërcënimeve dhe incidenteve në hapësirën kibernetike të Republikës së Kosovës.
+5. ASK administron me regjistrin e incidenteve kibernetike dhe regjistrin e kërcënimeve kibernetike.
+6. ASK bën hulumtime dhe analiza, si dhe nxjerr rekomandime për zbatim nga institucionet e tjera.
+7. ASK krijon platformë elektronike për shkëmbim të informatave në kohë reale. Shfrytëzues të kësaj platforme do të jenë operatorët e shërbimeve esenciale dhe ofruesit e shërbimeve digjitale.
+8. Bashkëpunon me autoritetet e shteteve të huaja dhe organizatat ndërkombëtare në lidhje me aspektet që janë nën përgjegjësinë e ASK-së dhe është pika e vetme e kontaktit.
+9. ASK ka kompetencat dhe mjetet për të kërkuar nga operatorët e shërbimeve esenciale dhe ofruesit e shërbimeve digjitale që të ofrojnë:
+9.1. informacionin e nevojshëm për të vlerësuar sigurinë e rrjetit të tyre dhe sistemeve të informacionit, duke përfshirë politikat e dokumentuara të sigurisë;
+9.2. dëshmitë e zbatimit efektiv të politikave të sigurisë, të tilla si rezultatet e një auditimi të sigurisë të kryer nga institucionet kompetente, duke përfshirë dëshmitë themelore, të cilat duhet të jenë në dispozicion të ASK-së.
+10. Pas vlerësimit të informacionit ose rezultateve të auditimeve të sigurisë të referuara në paragrafin 9 të këtij neni, ASK mund të lëshojë udhëzime detyruese për operatorët e shërbimeve esenciale për të korrigjuar mangësitë e identifikuara.
+11. ASK bashkëpunon ngushtë me Agjencinë për Informim dhe Privatësi kur adreson incidente që rezultojnë në shkelje të të dhënave personale.
+12. ASK koordinon aktivitetet e saj me institucionet e sigurisë dhe mbrojtjes, bashkëpunon me CSIRT-at sektorial kombëtar, CSIRT-at e OShE, CSIRT-at e OShD, zyrtarët e sigurisë së informacionit të caktuar dhe autoritetet ndërkombëtare.
+13. ASK-ja bën certifikimin e sigurisë për pajisjet dhe shërbimet e teknologjisë së informacionit dhe komunikimeve, në rastet kur kërkohet nga institucionet publike, i cili nënkupton se pajisjet dhe shërbimet janë nga ofrues të besueshëm, dhe kryejnë vetëm funksionet e përcaktuara nga prodhuesi në karakteristikat e pajisjes, dhe jo ndonjë funksion shtesë të paligjshëm, siç mund të jetë përgjimi, apo marrja e informatave. ASK-ja do të përgatisë listën ofruesve të pajisjeve dhe shërbimeve të teknologjisë së informacionit dhe komunikimeve që nuk janë të besueshme, e cila do t’i propozohet Qeverisë së Kosovës për aprovim. Të gjitha pajisjet dhe shërbimet e teknologjisë së informacionit dhe komunikimeve të listuara, do të jenë të ndaluara për përdorim në institucionet e Republikës së Kosovës.
+14. Rregullat dhe procedurat për procesin e certifikimit dhe përgatitjes së listës me pajisjet dhe shërbimet e teknologjisë së informacionit dhe komunikimeve që nuk janë të besueshme, do të definohen me akt nënligjor të miratuar nga ministri i Ministrisë përgjegjëse për Punë të Brendshme.
+15. Qeveria e Republikës së Kosovës me propozim të Ministrit të Ministrisë përgjegjëse për punë të brendshme me akt nënligjor, miraton rregullat dhe masat e sigurisë së qasjes së fëmijëve në internet, të cilin do të obligohen ta zbatojnë të gjithë ofruesit e shërbimeve të internetit në Republikën e Kosovës. Gjatë hartimit të aktit nënligjor MPB bashkëpunon me ASK-në dhe Autoritetin Rregullativ të Komunikimeve Elektronike dhe Postare.
+16. ASK do të krijoj platformë komunikuese me qytetarë dhe biznese që do të jetë në shërbim 24/7 për raportim të incidenteve kibernetike.
