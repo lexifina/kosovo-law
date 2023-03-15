@@ -1,0 +1,8 @@
+LIGJI NR. 08/L-215
+PËR RATIFIKIMIN E MARRËVESHJES PËR LËVIZJEN E LIRË ME LETËRNJOFTIME NË
+BALLKANIN PERËNDIMOR
+Kuvendi i Republikës së Kosovës;
+Në mbështetje të neneve 18 dhe 65 (1) të Kushtetutës së Republikës së Kosovës,
+Miraton:
+LIGJ PËR RATIFIKIMIN E MARRËVESHJES PËR LËVIZJEN E LIRË ME LETËRNJOFTIME
+NË BALLKANIN PERËNDIMOR
