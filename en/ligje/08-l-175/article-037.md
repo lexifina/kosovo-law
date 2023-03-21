@@ -1,0 +1,5 @@
+# Article 37
+The conditions for concluding a classified contract
+1. Economic Operators interested in participating in procurement classified as ‘’SECRET’’ and ‘’CONFIDENTIAL’’, should be previously equipped with the required ISC level. The personnel representing the Economic Operator in classified procurement and other individuals who will have access to classified information must be appropriately certified in accordance with the requirements of the applicable legislation.
+2. Economic Operators interested to participate in a classified procurement at the “RESTRICTED” level, are not equipped with ISC.
+3. The personnel representing the Economic Operator in this procurement, and all persons who shall have access to classified information, are briefed of the security rules and procedures for the protection of classified information and individually accepting his or her responsibilities with regard to the protection of classified information and sign the statement for the storage of Classified Information prior to the commencement of classified procurement procedures.

@@ -1,5 +1,0 @@
-# Neni 14
-Kontestimi i Klasifikimit
-1. Bartësit e autorizuar të informacioneve të klasifikuara, të cilët,në mirëbesim, besojnë se statusi i tyre i klasifikimit nuk është i duhur apo nuk është i justifikuar sipas ligjit, mund ti propozojnë autoritetit të klasifikimit që e ka prodhuar informacionin e klasifikuar, që të rishikojë statusin e klasifikimit dhe sipas nevojës ta deklasifikojë informacionin apo ta degradojë nivelin e klasifikimit.
-2. Autoriteti i klasifikimit e shqyrton propozimin dhe brenda tetë (8) ditëve nga pranimi i propozimit dhe e informon me shkrim bartësin e tillë të autorizuar për vendimin.
-3. Personat, të cilëve u është mohuar qasja në informacione të klasifikuara, mund ta kontestojnë vendimin e klasifikimit duke paraqitur kërkesë për rishikim pranë autoritetit të klasifikimit që e ka prodhuar informacionin e klasifikuar. Një kërkesë e tillë për rishikim paraqitet brenda tre (3) ditëve nga data e pranimit të vendimit të qasjes në informacionet e klasifikuara. Në këtë rast zbatohen dispozitat mbi rishikimin administrativ sipas Ligjit për Procedurën Administrative dhe nuk ka efekt suspenziv.

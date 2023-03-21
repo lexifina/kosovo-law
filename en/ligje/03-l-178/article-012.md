@@ -1,8 +1,0 @@
-# Article 12
-Declassification
-1. Information shall be declassified as soon as it no longer requires protection and does not meet the criteria for classification of information pursuant to this Law.
-2. The Classification authority, which has originated classified information, shall conduct the declassification of such information.
-3. The decision for declassification of information shall be in writing and shall provide reasons for the declassification. The decision shall be communicated immediately by the Classification authority to all public authorities and other addressees, to whom they have sent or copied the document.
-4. The Classification Authority which has originated classified information shall conduct a review every five (5) years to verify if classified information continues to require protection in accordance with the classification criteria established by this Law. Should the Classification Authority come to the conclusion that the classified information does not meet classification requirements, it shall immediately issue a declassification decision.
-5. Notwithstanding the requirement for a mandatory review pursuant to paragraph 4 of this Article, a Classification Authority referred to in paragraph 2 of this Article shall immediately declassify information if it becomes aware of facts that clearly indicate that the information does not require protection according to classification criteria established by this Law.
-6. Classified foreign government information may be declassified by Kosovo authorities only if such information has been declassified by the foreign classification authority that has classified the information.

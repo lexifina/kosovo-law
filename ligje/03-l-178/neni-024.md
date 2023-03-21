@@ -1,5 +1,0 @@
-# Neni 24
-Autoriteti Verifikues
-1. Agjencia e Kosovës për Inteligjencë është Autoriteti Verifikues që ka përgjegjësi për të zhvilluar procedura të verifikimit të sigurisë, siç është përcaktuar me këtë ligj, për të gjitha institucionet publike të Republikës së Kosovës dhe kontraktuesve të tyre.
-2. Agjencia e Kosovës për Inteligjencë themelon një departament të veçantë verifikimi që është ekskluzivisht përgjegjës për të zbatuar procedurat e verifikimit të sigurisë. Departamenti i Verifikimit të Sigurisë dhe të gjithë të punësuarit dhe personeli i angazhuar në të duhet të jetë politikisht i paanshëm, profesional, pa paragjykime në gjykimin e tyre dhe të veprojnë vetëm në pajtim me ligjin dhe që nuk marrin udhëzime nga ndonjë person apo institucion.
-3. Kërkesat për të kryer procedura verifikimi i paraqiten udhëheqësit të Departamentit të Verifikimit të Sigurisë me shkrim nga drejtuesi përkatës i institucionit publik, duke specifikuar nivelin e klasifikimit për të cilin kërkohet verifikimi i sigurisë.

@@ -1,0 +1,5 @@
+# Neni 37
+Kushtet për lidhjen e një kontrate të klasifikuar
+1. Operatorët Ekonomik të interesuar për të marrë pjesë në një prokurim të klasifikuar në nivelin “SEKRET” dhe “KONFIDENCIAL”, duhet të jenë të pajisur më parë me nivelin e kërkuar të verifikimit të sigurisë. Personeli që përfaqëson Operatorin Ekonomik në prokurimin e klasifikuar dhe individët e tjerë, që do të kenë qasje tek informacioni i klasifikuar, duhet të jenë të certifikuar përshtatshmërisht, sipas kërkesave të legjislacionit në fuqi.
+2. Operatorët Ekonomik të interesuar për të marrë pjesë në një prokurim të klasifikuar në nivelin “I KUFIZUAR”, nuk pajisen me CSI.
+3. Personeli që përfaqëson Operatorin Ekonomik në këtë prokurim dhe të gjithë personat që do të kenë qasje tek informacioni i klasifikuar, njoftohen mbi rregullat e sigurisë dhe procedurat për mbrojtjen e informacionit të klasifikuar dhe duke pranuar individualisht përgjegjësitë e tij ose të saj në lidhje me mbrojtjen e informacionit të tillë dhe nënshkruajnë deklaratën për ruajtjen e informacionit të klasifikuar, përpara fillimit të procedurave të prokurimit të klasifikuar.
