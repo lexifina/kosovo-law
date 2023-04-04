@@ -1,0 +1,3 @@
+Kryeministri i Republikës së Kosovës.
+Në mbështetje të nenit 94 (3) të Kushtetutës së Republikës së Kosovës, nenit 28 (3) të Ligji Nr. 06/L -113 për Organizimin dhe Funksionimin e Administratës Shtetërore dhe të Agjencive të Pavarura, nenit 9 (2) dhe (7) të Rregullores (QRK) Nr. 01/2020 për Standardet e Organizimit të Brendshëm, Sistematizimin e Vendeve të Punës dhe Bashkëpunimin në Institucionet e Administratës Shtetërore dhe Agjencitë e Pavarura, nxjerr:
+RREGULLORE (ZKM) NR. 01/ 2023 PËR ORGANIZMIN E BRENDSHËM DHE SISTEMATIZIMIN E VENDEVE TË PUNËS NË INSTITUTIN E KOSOVËS PËR ADMINISTRATË PUBLIKE
