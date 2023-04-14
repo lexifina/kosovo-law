@@ -1,0 +1,14 @@
+# Article 19
+Criteria for substantial change
+1. It is considered essential when the change of plant represents a great risk for safety, human health or the environment and if any of the following criteria are met:
+1.1. any extension or change that reaches the capacity thresholds set out in Annex 1, or if not included in the environmental impact assessment procedure;
+1.2. an increase of more than fifty percent (50%) of production capacity in the equipment of production units;
+1.3. an increase of more than fifty percent (50%) in the consumption of water, raw materials or energy;
+1.4. an increase of more than twenty-five percent (25%) in the mass of air pollutant emissions appearing in the permit, or of the total air emissions produced in each of the emission sources, as well as the introduction of new pollutants in significant quantities;
+1.5. an increase in mass emission greater than twenty-five percent (25%) or twenty-five percent (25%) of the emission concentration of any of the primary substances, or the introduction of new substances into the permit in accordance with the legal provisions o relevant water legislation;
+1.6. if there is an increase more than ten (10) tons per year in the generation of hazardous waste whenever and in cases of structural modification of the process, or an increase of more than twenty-five percent (25%) of the total amount of hazardous waste generated, calculated in quantity of maximum production of hazardous waste;
+1.7. an increase in the production of non-hazardous waste of more than fifty (50) tons per year, as long as an increase of more than fifty percent (50%) of non-hazardous waste, including inert waste, calculated in the maximum amount of waste production;
+1.8. change in the operation of a waste incineration or co-incineration plant, which operates only for the treatment of non-hazardous waste, which transforms them into a structure involving the incineration or co-incineration of hazardous waste and which is included in Annex 1 of this law.
+2. The order of quantitative and qualitative criteria provided in paragraph 2 of this Article are non-restrictive. The Commission may set restrictive criteria in certain cases arising from specific circumstances.
+3. If successive non-substantial changes are made to a plant prior to the review of the permit, during the review period, the sum of two (2) or more non-essential changes that meet any of the criteria in paragraph 1 of this article, shall be deemed to be substantial modification.
+4. If the substantial change is requested after another non-substantial change, before the review of the permit or during the review period, all previous non-substantial changes must be reviewed together, according to the procedures provided in article 18 of this law, after this the permit is changed.
