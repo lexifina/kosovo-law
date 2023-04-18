@@ -1,0 +1,3 @@
+# Article 24
+Implementation of the decision of the European Commission
+When considered necessary to adopt a special act for the implementation of the decision of the European Commission which bans or restricts placing on the market and export of a certain product or group of products that pose a serious risk to health and safety of the consumer, the Government of the Republic of Kosovo shall, no later than fifteen (15) working days from the decision of the European Commission, issue a decision which sets out actions of producers and distributors in relation to the implementation of the decision of the European Commission.

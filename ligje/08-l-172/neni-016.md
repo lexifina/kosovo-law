@@ -1,0 +1,9 @@
+# Neni 16
+Shkëmbimi i informacionit në lidhje me produktet e rrezikshme me Bashkimin Evropian
+1. Inspektorati kompetent përdor sistemin RAPEX për të njoftuar Komisionin Evropian për produktet e rrezikshme në tregun e Republikës së Kosovës që paraqesin rrezik që nuk lejohet, në përputhje me këtë ligj.
+2. Njoftimi nga paragrafi 1 i këtij neni i dërgohet Komisionit Evropian nëse konsiderohet se produkti i rrezikshëm i vënë në dispozicion në treg mund të shkaktojë rrezik përtej territorit të Republikës së Kosovës.
+3. Pas njoftimit nga paragrafi 1 i këtij neni, autoriteti përgjegjës duhet të informojë Komisionin Evropian gjithashtu për masat e marra nga inspektorati kompetent, duke saktësuar arsyet për miratimin e tyre, si dhe për çdo modifikim ose heqje të masave të tilla.
+4. Pas njoftimit nga paragrafi 1 i këtij neni, autoriteti përgjegjës, nëse konstaton se ka të bëjë me një rrezik serioz, duhet të njoftojë Komisionin Evropian për masat e ndërmarra vullnetarisht nga operatorët ekonomikë.
+5. Nëse inspektoriati kompetent konsideron se produkti i rrezikshëm i vënë në dispozicion në treg nuk mund të shkaktojë rrezik përtej territorit të Republikës së Kosovës, njofton Komisionin Evropian për masat e marra për aq sa përfshijnë informacion që mund të jetë me interes për shtetet anëtare të Bashkimit Evropian, dhe në veçanti nëse merren për të parandaluar, eliminuar ose zvogëluar një rrezik të ri i cili ende nuk është raportuar tek Komisioni Evropian.
+6. Njoftimi nga paragrafi 1 i këtij neni duhet të përmbajë të gjithë informacionin në dispozicion, në veçanti informacionin që mundëson identifikimin e produktit, origjinën dhe zinxhirin e furnizimit të produktit, rrezikun e përcaktuar, natyrën dhe kohëzgjatjen e masës së detyrueshme të ndërmarrë si dhe masat vullnetare të marra nga prodhuesit dhe shpërndarësit.
+7. Paragrafët 1, 2, 3, 4, 5 dhe 6 të këtij neni nuk përjashtojnë detyrimin për të shkëmbyer informacione në përputhje me legjislacionin në fuqi.

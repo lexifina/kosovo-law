@@ -1,0 +1,9 @@
+# Article 4
+Safe product
+1. The safe product shall mean any product which, under normal or reasonably foreseeable conditions of use including the period in which the product has been used, as well as the requirements for putting into work, installation and maintenance, where applicable, poses no risk or a minimal risk compatible with the product’s use and considered to be acceptable and consistent with a high level of protection for the safety and health of consumers and other users. For determination of the safe product, the following are taken into account in particular:
+1.1. product properties, including its composition, packaging, instructions for assembly, installation and maintenance;
+1.2. effect on other products, where it is reasonably foreseeable that it will be used with other products;
+1.3. presentation of the product, in terms of display, labelling, any warnings and instructions for its use and disposal, storage or destruction after its use, as well as any other mark or information on the product;
+1.4. the appearance of the product, especially a non-food product, which might mislead the consumer if its shape, odor, color, appearance, packaging, labelling, volume, size or other properties resemble a foodstuff and consequently may be used by consumers, especially children, in a way that may pose a risk to their health and life, such as choking, poisoning or stomach problems due to placing those products in their mouth, sucking or ingesting them;
+1.5. the categories of consumers and other users at risk when using a particular product, especially children and the elderly.
+2. The possibility of achieving higher levels of safety or the availability of other products presenting a lower degree of risk shall not constitute grounds for considering a product to be dangerous.

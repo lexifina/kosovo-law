@@ -1,0 +1,9 @@
+# Neni 4
+Produkt i sigurt
+1. Produkt i sigurt është çdo produkt që, në kushte normale ose arsyeshëm të parashikueshme të përdorimit, duke përfshirë periudhën në të cilën produkti është përdorur, si dhe kërkesat e zbatueshme të vënies në punë, instalimit dhe mirëmbajtjes, nuk paraqet asnjë rrezik ose paraqet rrezik minimal në përputhje me përdorimin e produktit dhe që konsiderohet i pranueshëm dhe në përputhje të qëndrueshme me një nivel të lartë të mbrojtjes të sigurisë dhe shëndetit të konsumatorëve dhe përdoruesve të tjerë. Për përcaktimin e produktit të sigurt, merren parasysh në veçanti:
+1.1. karakteristikat e produktit, përfshirë përbërjen, paketimin, udhëzimet për montim, instalim dhe mirëmbajtje;
+1.2. ndikimi në produkte të tjera, kur mund të parashikohet në mënyrë të arsyeshme se produkti do të përdoret me produkte të tjera;
+1.3. paraqitja e produktit, për sa i përket ekspozimit, etiketimit, paralajmërimeve dhe udhëzimeve për përdorimin dhe asgjësimin, ruajtjen ose shkatërrimin e tij pas përdorimit, si dhe çdo shenjë tjetër ose informacion mbi produktin;
+1.4. pamja e produktit, sidomos e produktit joushqimor, i cili mund të çorientojë konsumatorin, nëse forma, aroma, ngjyra, pamja, paketimi, etiketimi, vëllimi, madhësia ose karakteristikat e tjera i ngjajnë një produkti ushqimor dhe si pasojë mund të përdoret nga konsumatorët, sidomos nga fëmijët, në një mënyrë që mund të paraqesë rrezik për shëndetin dhe jetën e tyre, si ngulfatja, helmimi ose problemet me sistemin e tretjes për shkak të futjes së produktit në gojë, thithjes ose gëlltitjes;
+1.5. kategoritë e konsumatorëve dhe përdoruesve të tjerë në rrezik kur përdorin një produkt të caktuar, sidomos fëmijët dhe të moshuarit.
+2. Mundësia e arritjes së niveleve më të larta të sigurisë ose disponueshmëria e produkteve të tjera që paraqesin shkallë më të vogël rreziku nuk përbën bazë për ta konsideruar një produkt të rrezikshëm.
