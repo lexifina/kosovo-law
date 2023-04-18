@@ -1,2 +1,0 @@
-# Neni 1
-Në Ligjin nr. 2003/3 për Pyjet e Kosovës të aprovuar nga Kuvendi i Kosovës në nenin 36, pikat 36.1; 36.2; 36.3; 36.4; 36.5; dhe 36.7- fjalët “Përveç dëmeve të tjera që mund ti nënshtrohen ligjit, gjyqi mund të dënoj dhe urdhërojë personin që të paguaj gjobën” fshihen dhe zëvendësohen me fjalët: “Përveç kompensimit tjetër, i cili mund të jetë caktuar me ligj, gjykata mund të gjobisë personin për kundërvajtje në pajtim me ligjin në fuqi”.

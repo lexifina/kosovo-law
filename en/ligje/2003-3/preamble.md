@@ -1,3 +1,0 @@
-LAW NO. 2003/3
-ON FORESTS IN KOSOVO
-The Assembly of Kosovo, Taking into account United Nations Interim Administration Mission in Kosovo (UNMIK) Regulation No. 1999/1 of 25 July 1999 on the Authority of the Interim Administration in Kosovo, as amended, Taking into account UNMIK Regulation 2001/9 on the Constitutional Framework for Provisional Self-Government, Taking into account UNMIK Regulation No. 2001/19 of 13 September 2001 providing for the creation of Executive Agencies, For the purpose of protecting and promoting the forests of Kosovo whilst allowing for the coordinated and regulated sustainable development of the resources within those forests, Hereby promulgates the following:

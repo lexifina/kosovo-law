@@ -1,0 +1,8 @@
+# Article 4
+Determination of forests and forest land
+1. Forest is the area covered with forest trees, higher than five (5) meters in their stage of maturity, in the form of forest stand or small groups of trees, with a crown density of more than 10% which also includes the biological community, which is greater than 50 acres.
+2. Forest land or other wooded lands are areas covered by forest trees in the form of forest stand or individual trees higher than five (5) meters in their maturity stage, in combination with bare or shrub-bush land, with a tree coverage equal to or greater than 0.50 ha and coverage with trees equal or greater than 10%, which could serve for additional production, as well as providing ecological and social forest functions.
+3. Part of the forest land referred to in paragraph 2. of this Article is bare or shrub-bush land appropriate for forestry purposes, or with a tree cover of less than 10%, and surface greater than 0.50 ha, if such land type appears by nature, or is appropriate for the establishment or re- establishment of forests, and included into corresponding spatial and forestry plans.
+4. For statistical purposes, the land referred to in paragraph 3. of this Article shall be recorded separately from the forest land and excluded from any calculation of the forest land share.
+5. Land occupied by forest roads, forest nurseries, plantations of fast growing tree species, forest tree protection belts narrower than twenty (20) meters, tree parks and boulevards within settlements shall not considered as forests or forest land.
+6. Criteria for classification of forests and forest land, as well as other land appropriate for forest use, shall be established by sub-legal acts of the Ministry.

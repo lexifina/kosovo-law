@@ -1,4 +1,0 @@
-# Article 32
-Professional Standards
-32.1 (a) The Minister may, by rule, establish standards for certifying persons as qualified to mark trees before harvest under this Law. (b) Standards under this section may require persons to have certain levels of education or experience, to be of good character, and to follow codes of professional conduct. (c) Rules under this section may set different certification levels based on ownership, forest type, or other circumstance relevant to the skill required to mark trees. (d) Rules under this section shall empower the Forest Agency to issue, renew, and revoke certifications. (e) Rules under this section may establish reasonable fees for issuing or renewing certifications.
-32.2 If applicable standards are in effect under this Article, only trees marked by a certified person shall be considered lawfully marked under this Law.
