@@ -1,0 +1,103 @@
+REPUBLIKA E KOSOVES - REPUBLIKA KOSOVO - REPUBLIC OF KOSOVO
+GJYKATA KUSHTETUESE
+USTAVNISUD CONSTITUTIONAL COURT
+Prishtine, me 18 maj 2023 Nr. Ref.:RK 2182/23
+AK1VENDIM PER PAPRANUESHMERI
+ne
+rastin nr. KI183j22
+Parashtrues
+Rexhep Kastrati
+Vleresim i kushtetutshmerise se Aktgjykimit ARJ. UZVP .NR.46j 22 te 15 qershorit 2022, te Gjykates Supreme te Kosoves
+GJYKATA KUSHTETUESE E KOSOvES
+e perbere nga:
+Gresa Caka-Nimani, kryetare Bajram Ljatifi, zevendeskryetar, Selvete Gerxhaliu-Krasniqi, gjyqtare Safet Hoxha, gjyqtar Radomir Laban, gjyqtar Remzije Istrefi-Peci, gjyqtare N exhmi Rexhepi, gjyqtar dhe Enver Peci, gjyqtar
+Parashtruesi i kerkeses
+Kerkesa eshte parashtruar nga Rexhep Kastrati me vendbanim ne Komunen e 1. Prishtines (ne tekstin e metejrne: parashtruesi i kerkeses).
+Vendimi i kontestuar
+2. Parashtruesi i kerkeses e konteston Aktgjykimin [ARJ.UZVP.NR.46/22] te 15 qershorit
+2022, te Gjykates Supreme te Kosoves (ne tekstin e metejme: Gjykata Supreme) ne nderlidhje me Aktgjykimin [AA.nr.714/2020] te 21 marsit 2022, te Gjykates se Apelit te Kosoves (ne tekstin e metejme: Gjykata e Apelit) dhe Aktgjykimin [A.nr.1925/17], e 21 tetorit 2020, te Gjykates Themelore ne Prishtine, Departamenti per <;eshtje Administrative (ne tekstin e metejme: Gjykata Themelore).
+3. Parashtruesi i kerkeses Vendimin e kontestuar e ka pranuar me 28 korrik 2022.
+Objekti i <;eshtjes
+4. Objekt i c;eshtjes eshte vleresimi i kushtetutshmerise se Aktgjykimit te kontestuar, permes te cileve pretendohet se parashtruesit te kerkeses i jane shkelur te drejtat dhe lirite e tij themelore te garantuara me nenin 31 [E Drejta per Gjykim te Drejte dhe te
+Paanshem] te Kushtetutes se Republikes se Kosoves (ne tekstin e metejme: Kushtetuta) ne lidhje me nenin 6 (E drejta per nje proces te rregullt) te Konventes Evropiane per te Drejtat e Njeriut (ne tekstin e metejme: KEDNJ) dhe nenin 32 [E Drejta per Mjete juri dike ] te Kushtetutes.
+Bazajuridike
+5. Kerkesa bazohet ne paragrafet 1 dhe 7 te nenit 113 [Juridiksioni dhe Palet e Autorizuara] te Kushtetutes, ne nenet 22 [Procedimi i kerkeses] dhe 47 [Kerkesa Individuale] te Ligjit per Gjykaten Kushtetuese te Republikes se Kosoves, nr. 03/L-121 (ne tekstin e metejme: Ligji) dhe ne rregullin 32 [Parashtrimi i kerkesave dhe pergjigjeve] te Rregullores se punes se Gjykates Kushtetuese te Republikes se Kosoves (ne tekstin e metejme: RregullOIja e punes).
+Procedura ne Gjykate
+6. Me 22 nentor 2022, parashtruesi i kerkeses e dorezoi kerkesen e tij permes postes, te cilen Gjykata Kushtetuese te Republikes se Kosoves (ne tekstin e metejme: Gjykata) e pranoi me 24 nentor 2022.
+7. Me 5 dhjetor 2022, Kryetarja e Gjykates permes Vendimit [Nr. GJR.KSH183/22] e caktoi gjyqtaren Selvete Gerxhaliu-Krasniqi Gjyqtare raportuese dhe Kolegjin shqyrtues te perbere nga gjyqtaret: Gresa Caka-Nimani (kryesuese), Bajram Ljatifi dhe Safet Hoxha (anetare).
+8. Me 9 dhjetor 2022, Gjykata njoftoi parashtruesin e kerkeses per regjistrimin e kerkeses. Ne te njejten dite, nje kopje e kerkeses iu dergua Gjykates se Supreme.
+9. Po ashtu, ne te njejten dite Gjykata njoftoi Gjykaten Themelore per regjistrimin e kerkeses dhe kerkoi qe te dorezoje ne Gjykate flete-kthesen qe deshmon se kur parashtruesi i kerkeses e ka pranuar vendimin e kontestuar. Gjykata Themelore po ate dite e dorezoi ne Gjykate flete-kthesen e kerkuar qe deshmon se parashtruesi vendimin e kontestuar e ka pranuar me 28 korrik 2022.
+10. Me 16 dhjetor 2022, gjyqtari Enver Peci dha betimin para Presidentes se Republikes se Kosoves, me c;'rast filloi mandati i tij ne Gjykate.
+11. Me 27 prill 2023, Kolegji shqyrtues shqyrtoi raportin e Gjyqtares raportuese dhe njezeri i rekomandoi Gjykates papranueshmerine e kerkeses.
+Permbledhja e fakteve
+12. Nga shkresat e lendes, rezulton se permes Vendimit [2017-YR-86S] te Ministrise se Puneve te Brendshme, gjegjesisht, Policise se Kosoves - Drejtoria per Migracion dhe te Huaj (ne tekstin e metejme: Ministria e Puneve te Brendshme) te 17 nentorit 2017, parashtruesi i kerkeses u denua me gjobe ne shume prej 4.000 (kater mije) euro, per shkak te akomodimit te shtetases se huaj [E.B], ne kundershtim me nenin 36 te Ligjit Nr. 04/L-219 per te Huajt (ne tekstin e metejme: Ligji per te Huaj)
+13. Ne nje date te pasaktesuar, parashtruesi i kerkeses ne Gjykaten Themelore parashtroi padi per konflikt administrativ kunder Ministrise se Puneve te Brendshme, permes te ciles kerkoi anulimin e Vendimit [Nr.2017-YR-86s], te 7 nentorit 2017, te Ministrise se Puneve te Brendshme.
+14. Me 21 tetor 2020, Gjykata Themelore permes Aktgjykimit [A.nr.192S/17] refuzoi padine e parashtruesit te kerkeses si te pabazuar, me arsyetimin si ne vijim:
+"Gjykata nga provat te cilat jane administruar ne seancen e shqyrtimit kryesor referuar procesverbalit te dates 07.11.2017, raportit te policit data 02.10.2017 dhe 03.10.2017veren se paditesi ka vepruar ne kundershtim me dispozitat ligjore te Ligjit per te Huaj. Gjykata ka vleresuar edhe pretendimet e paditesit te dhena ne padi dhe gjate shqyrtimit gjyqesor por te njejtat pretendime i vleresoi si te pabazuara, pasi qe paditesi me asnje prove te vetme nuk i ka aprovuar te njejtat pretendime. Ne kete
+kuptim gjykata vlereson se vendimi kontestues i te paditures, eshte i drejte dhe bazuar ne ligj dhe se organi i paditur, drejte ka zbatuar dispozitat ligjore, drejte ka vertetuar gjendjen faktike dhe drejte ka zbatuar ligjin material.Mbi keto arsye kerkesepadine e paditesit nuk e aprovoi, sepse vlereson se nuk eshte cenuar ligji ne dem teti/'.
+1S. Me 9 nentor 2020, parashtruesi i kerkeses ne Gjykaten e Apelit parashtroi ankese kunder Aktgjykimit [A.nr.192S/17], te 21 tetorit 2020, te Gjykates Themelore, per shkak te: (i) shkeljes se rregullave te procedures kontestimore; (ii) vertetimit te gabuar te gjendjes faktike; dhe (iii) aplikimit te gabuar te se drejtes materiale, me propozimin qe te anulohet si i pabazuar vendimi i lartcekur i Gjykates Themelore dhe lenda t'i rikthehet gjykates se shkalles. se pare ne rishqyrtim. Ne ankesen e dorezuar, parashtruesi i kerkeses theksoi se: "Ne arsyetim nuk jane perfshire tere faktet vendimtare, lidhur me rastin ne fjale dhe nuk e arsyetojne dispozitivin e ketij aktvendimi" dhe se ne lidhje me strehimin e shtetases se huaj, i njejti thekson se "Kronologjia e njoftimit per rastin e shtetasit te huaj, ka vazhduar panderprere ne polici. Perpos njoftimeve, une edhe me shkrim ju kam drejtuar Prokurorise si dhe Keshillit per te Drejtat e Njeriut ne Prishtine".
+16. Me 21 mars 2022, Gjykata e Apelit permes Aktgjykimit [AA.nr.714/2020] refuzoi ankesen e parashtruesit te kerkeses si te pabazuar dhe vertetoi Aktgjykimin [A.nr.192S/17] e 21 tetorit 2020, te Gjykates Themelore. Gjykata e Apelit nder tjerash theksoi se: "[. . .] sipas vleresimit te kolegjit te kesaj gjykate, aktgjykimi i ankimuar i gjykates se shkalles se pare, eshte i qarte dhe i kuptueshem, ndersa ne arsyetimin e tij jane dhene arsyet e mjaftueshme per faktet vendimtare, te cila i pranon edhe 190 gjykate. Prandaj, kolegji i kesaj gjykate vlereson se e drejta materiale, eshte aplikuar drejte dhe se nuk eshte shkelur ligji material ne dem te paditesit".
+17. Ne nje date te pasaktesuar, parashtruesi i kerkeses ne Gjykaten Supreme parashtroi kerkese per rishqyrtim te jashtezakonshem te vendimit gjyqesor, gjegjesisht, te Aktgjykimit [AA.nr.714/2020] te 21 marsit 2022 te Gjykates se Apelit, te cilin e kontestoi per shkak te (i) shkeljes se rregullave te procedures administrative dhe (ii) aplikimit te gabuar te se drejtes materiale.
+18. Me 15 qershor 2022, Gjykata Supreme permes Aktgjykimit [ARJ.UZVP.nr.46/2022] refuzoi si te pabazuar kerkesen per rishqyrtim te jashtezakonshem gjyqesor, te parashtruesit te kerkeses, te parashtruar kunder Aktgjykimit [AA.nr.714/2020] te 21 marsit 2022 te Gjykates se Apelit, me arsyetimin si ne vijim:
+"[ ... J pretendimet ne kerkesen e paditesit [parashtruesit te kerkesesJ per shqyrtim te jashtezakonshem gjyqesore jane te pabazuara, ngase nuk jane me ndikim per
+vertetim te ndryshem te gjendjesfaktike nga ajo qe ka vertetuar gjykata e shkalles se dyte. Sipas vleresimi te kesaj gjykate, aktgjykimi i kontestuar i gjykates se shkalles se dyte eshte i qarte dhe i kuptueshem, Ne arsyetim te aktgjykimit te kontestuar jane dhene mjaft arsye mbifaktet vendimtare te cilat i pranon edhe kjo gjykate. Gjykata vlereson se e drejta materiale eshte aplikuar drejte dhe nuk eshte shkelur ligji ne dem te paditesit [parashtruesit te kerkeses}".
+Pretendimet e parashtruesit te kerkeses
+19. Parashtruesi i kerkeses pretendon se Aktgjykimi i kontestuar, i Gjykates Supreme eshte nxjerre ne shkelje te te drejtave dhe lirive te tij themelore te garantuara me nenet: 31 [E Drejta per Gjykim te Drejte dhe te Paanshem] dhe 32 [E Drejta ne Mjetet Juridike] te Kushtetutes.
+20. Parashtruesi i kerkeses ne kerkesen e tij, ne pjesen e pershkrimit te permbledhur te fakteve thekson si ne vijim: "[Parashtruesi i kerkesesJ ndaj vendimeve te gjykatave te rregullta ka parashtruar ankese ne Gjykaten e Apelit, kerkesen per shqyrtimin e vendimit gjyqesor te jashtezakonshem dhe pergjigjen ne ankese", ndersa ne pjesen e arsyetimit te kerkeses dhe shkeljeve te pretenduara te Kushtetutes, thekson se: "Vendimet e gjykatave te rregullta ne Republiken e Kosoves jane ne kundershtim me nenin 32 te Kushtetutes se Republikes se Kosoves. Nje vajze ecila quhej [''E.B''] ka ardhur spontanisht ne banesen time, une nuk e kame njohur, ka qene koha e FTOHTE, ka qene e zbathur. Une e kame ftuar stacionin e policise numer nje (1). N}e polic ka ardhur - polici me emerin [A.H.] i cili mua me ka thene: '~ mundet te qendroje tekju SONTE", ndersa ne do te hym dhe do ta strehojme personin por i permendur nuk ka ardhur asnjehere. Prove: kerkese per rishqyrtimin e jashtezakonshem, ankesa dhe pergjigja ne ankese."
+21. Ne fund, parashtruesi i kerkeses ne pjesen e kerkeses se tij lidhur me pasqyren e zgjidhjes se kerkuar kerkon: "[. . .] qe te anulohen vendimet e gjykatave te rregullta ne Rep.Kosoves si te pabazuara ne Kushtetute (neni 31)".
+Dispozita relevante Kushtetuese dhe Ligjore
+KUSHTETUTA E REPUBLIKES sit KOSOvES
+Neni31
+[E Drejta per Gjykim te Drejte dhete Paanshem]
+1. (:dokujt i garantohet mbrojtje e barabarte e te drejtave ne procedure para gjykatave, organeve te tjera shteterore dhe bartesve te kompetencave publike. [ .. .]
+Neni 3 2 [E Drejta per MjeteJuridike]
+"Secili person ka te drejte te perdore mjetet juridike kunder vendimeve gjyqesore dhe administrative te cilat cenojne te drejtat ose interesat e saj/tij ne menyren e percaktuar me ligj."
+KONVENTA EVROPIANE PER TE DREJTAT E NJERIUT
+Neni6
+(E drejta per nje proces te rregullt)
+"1. (:do person ka te drejte qe c;eshtja e tij te degjohet drejtesisht, publikisht dhe brenda nje afati te arsyeshem nga nje gjykate e pavarur dhe e paanshme, e krijuar me ligj, e cila do te vendose si per mosmarriiveshjet ne lidhje me te drejtat dhe detyrimet e tij te natyres civile, ashtu edhe per bazueshmerine e c;do akuze penale ne ngarkim te tij. Vendimi duhet te jepet publikisht, por prania ne sallen e gjykates mund t'i ndalohet shtypit dhe publikut gjate tere procesit ose gjate nje pjese te tij, ne interes te moralit, te rendit publik ose sigurise kombetare ne nje
+shoqeri demokratike, kur kjo kerkohet nga interesat e te miturve ose mbrojtja e jetes private te paleve ne proces ose ne shkallen qe c;mohet teper e nevojshme nga gjykata, kur ne rrethana te vec;anta publiciteti do te demtonte interesat e drejtesise. [ ... J"
+LIGJI NR. 04/L-219 PER TE HUAJT, I NDRYSHUAR DHE PLOTESUAR ME LIGJIN NR. o6/L-036 PER NDRYSHIMIN DHE PLOTESIMIN E LIGJIT NR.04/L-219 PER TE HUAJT
+Neni 36 , N dalimi per dhenien e ndihmes se jashteligjshme per te huaj
+''Asnje i huaj nuk duhette ndihmohet ne kalimin e paligjshem te kufirit shteteror, per transit neper territorin ku i huaji ka hyre ne menyre te paligjshme ne
+Republiken e Kosoves dhe te qendroj paligjshem. "
+Vleresimi i pranueshmerise se kerkeses
+Gjykata duhet se pari te shqyrtoje nese parashtruesi i kerkeses i ka permbushur kriteret 22. e pranueshmerise, te pereaktuara me Kushtetute dhe te speeifikuara me tej me Ligj dhe me Rregullore te punes.
+Ne kete drejtim, Gjykata u referohet paragrafeve 1 dhe 7 te nenit 113 [Juridiksioni dhe 23. Palet e Autorizuara] te Kushtetutes, i eili pereakton:
+"1. Gjykata Kushtetuese vendos vetem per rastet e ngritura para gjykates ne menyre ligjore nga pala e autorizuar. [ ... J
+7. Individet jane te autorizuar te ngrene shkeljet nga autoritetet publike te te drejtave dhe lirive te tyre individuale, te garantuara me Kushtetute, mirepo vetem pasi te kene shteruar te gjitha mjetet juridike te percaktuara me ligj."
+24. Gjykata gjithashtu i referohet nenit 47 [Kerkesa individuale], nenit 48 [Saktesimi i kerkeses] dhe nenit 49 [Matet] te Ligjit te cilet percaktojne: .
+Neni 47
+[Kerkesa individuale]
+(:do individ ka te drejte te kerkoje nga Gjykata Kushtetuese mbrojtje juridike ne rast se pretendon se te drejtat dhe lirite e tija individuale te garantuara me Kushtetute jane shkelur nga ndonje autoritet publik.
+Individi mund ta ngrite kerkesen ne Jjale vetem pasi qe te kete shteruar te gjitha mjetet juridike te percaktuara me ligj.
+Neni48
+[Saktesimi i kerkeses]
+"Parashtruesi i kerkeses ka per detyre qe ne kerkesen e tij te qartesoj saktesisht se cilat te drejta dhe liri pretendon se i jane cenuar dhe cili eshte akti konkret i autoritetit publik te cilin parashtruesi deshiron ta kontestoj. "
+Neni49
+[Matet]
+"Kerkesa parashtrohet brenda a/atit prej kater (4) muajve. A/ati fillon te ece qe nga dita kur parashtruesit i eshte dorezuar vendimi gjyqesor."
+25. Per sa i perket permbushjes se ketyre kerkesave, Gjykata konstaton se parashtruesi i kerkeses eshte: (i) pale e autorizuar; (ii) konteston Aktgjykimin [ARJ.UZVP.NR-46/22] e 15 qershorit 2022, te Gjykates Supreme te Kosoves; (iii) ka saktesuar dispozitat kushtetuese per te cilat pretendon se jane cenuar ne rastin e tij; (iv) ka shteruar te gjitha mjetetjuridike te percaktuara me ligj, si dhe (v) e ka dorezuar kerkesen brenda afatit te percaktuar ligjor.
+26. Pervec; kesaj, Gjykata shqyrton nese parashtruesi i kerkeses ka permbushur kriteret e pranueshmerise te percaktuara ne rregullin 39 [Kriteret e pranueshmerise] te Rregullores se punes. Paragrafi 2 i rregullit 39 te Rregullores se punes percakton kriteret ne baze te se cilave Gjykata mund te shqyrtoje kerkesen, duke perfshire kriterin qe kerkesa te mos jete qartazi e pabazuar. Specifikisht, pika d e paragrafit 1 dhe paragrafi 2 i rregullit 39 te Rregullores se punes percaktojne qe:
+"(1) Gjykata mund ta konsideroje nje kerkese te pranueshme nese:
+[ .. .]
+[ ... ]
+(d) kerkesa qarteson saktesisht dhe ne menyre adekuate paraqet /aktet dhe pretendimet per shkelje te te drejtave apo dispozitave kushtetuese.
+(2) Gjykata mund ta konsideroje kerkesen te papranueshme, nese kerkesa eshte qartazi e pabazuar, sepse parashtruesi nuk deshmon dhe nuk mbeshtete ne menyre te mjaftueshme pretendimin e til'.
+Bazuar ne praktiken gjyqesore te GJEDNJ-se por edhe te Gjykates, nje kerkese mund 27. te shpallet e papranueshme si "qartazi e pabazuar" ne teresine e saj ose vetem perkitazi me ndonje pretendim specifik qe nje kerkese mund te ngertheje. Ne kete drejtim, eshte me e sakte t'iu referohet te njejtave si "pretendime qartazi te pabazuara". Keto te fundit, bazuar ne praktiken gjyqesore te GJEDNJ-se, mund te
+kategorizohen ne kater grupe te ve<;anta: (i) pretendime qe kualifikohen si pretendime "te shkalles se katert"; (ii) pretendime qe kategorizohen me nje "mungese te dukshme ose evidente te shkeljes"; (iii) pretendime "te pambeshtetura apo te paarsyetuara"; dhe ne fund, (iv) pretendime '7confuze dhe te paqarta". Kete koncept te papranueshmerise mbi bazen e nje kerkese te vleresuar si "qartazi te pabazuar", dhe specifikat e kater kategorive te lartcekura te pretendimeve te kualifikuara si "qartazi te pabazuara" te zhvilluara permes praktikes gjyqesore te GJEDNJ-se, Gjykata i ka pervetesuar edhe ne praktiken e saj gjyqesore perfshire por duke mos u kufizuar ne rastet Kl40/20, parashtrues Sadik Gashi, Aktvendim per Papranueshmeri, i 20 janarit 2021; Kl163118, parashtrues Kujtim Lleshi, Aktvendim per Papranueshmeri, i 24 qershorit 2020; Kl21/21, parashtrues, Asllan Meka, Aktvendim per Papranueshmeri, i 28 prillit 2021, Kl107/21, parashtrues Ramiz Hoti, Aktvendim per Papranueshmeri, i 21 tetorit 2021).
+Ne kete aspekt, dhe fillimisht, Gjykata rikujton qe rrethanat e rastit konkret nderlidhen 28. me ate se parashtruesi i kerkeses permes Vendimit [2017-YR-86S] te Ministrise se Puneve te Brendshme, te 17 nentorit 2017, ishte denuar me gjobe ne shume prej 4.000 (kater mije) euro, per shkak te akomodimit te shtetases se huaj [E.B], ne kundershtim me nenin 36 te Ligjit per te Huajt. Kunder ketij vendimi, parashtruesi i kerkeses parashtroi padi per konflikt administrativ, te cilen padi, Gjykata Themelore me 21 tetor 2020, permes Aktgjykimit [A.nr.192S/17] e refuzoi si te pabazuar. Me 21 mars 2022, Gjykata eApelitpermesAktgjykimit [AA.nr.714/2020] refuzoi ankesen e parashtruesit te kerkeses si te pabazuar dhe vertetoi Aktgjykimin e Gjykates Themelore, me arsyetimin se aktgjykimi i ankimuar i gjykates se shkalles se pare, eshte i qarte dhe i kuptueshem, ndersa ne arsyetimin e tij jane dhene arsyet e mjaftueshme per faktet vendimtare. Parashtruesi i kerkeses gjithashtu parashtroi kerkese per rishqyrtim te jashtezakonshem te vendimit gjyqesor, perkatesisht te Aktgjykimit te Gjykates se Apelit ne Gjykaten Supreme, ku kjo e fundit kerkesen e tij e refuzoi si te pabazuar.
+Gjykata rikujton se parashtruesi i kerkeses pretendon se permes Aktgjykimit te 29. kontestuar te Gjykates Supreme atij i jane shkelur te drejtat e garantuara me nenet 31 dhe 32 te Kushtetutes. Megjithate, Gjykata ve ne pah se parashtruesi i kerkeses ne kerkesen e tij nuk ka specifikuar se si keto te drejta jane shkelur ne rastin e tij dhe as nuk of ron ndonje arsyetim perkates lidhur me shkeljen e tyre. I njejti vetem thekson se: "Vendimet e gjykatave te rregullta ne Republiken e Kosoves jane ne kundershtim me nenin 32 te Kushtetutes se Republikes se Kosoves. [ .. .] dhe kerkon "[. . .] qe te anulohen vendimet e gjykatave te rregullta ne Rep.Kosoves si te pabazuara ne Kushtetute (neni 31)".
+Gjykata, ne kete kontekst thekson se, duke u bazuar ne nenin 48 te Ligjit dhe 30. paragrafin (1) (d) dhe (2) te rregullit 39 te Rregullores se punes dhe praktiken e saj gjyqesore, ajo vazhdimisht ka theksuar se: (i) palet kane detyrim qe te qartesojne saktesisht dhe ne menyre adekuate te paraqesin faktet dhe pretendimet; dhe gjithashtu (ii) te deshmojne dhe ne menyre te mjaftueshme te mbeshtesin pretendimet e tyre per shkelje te te drejtave apo dispozitave kushtetuese (shih rastet e Gjykates Kl163/18, parashtrues Kujtim Lleshi, i cituar me lart, paragrafi 8s, dhe Kl124/20 parashtrues MuhamedAli Ceysiilmedine, Aktvendim per Papranueshmeri, i 20 janarit 2021,
+paragrafi 42).
+31. Gjykata gjithashtu rikujton se ajo po ashtu vazhdimisht ka theksuar se vetihn permendja e nje neni te Kushtetutes, pa arsyetim te qarte dhe adekuat se si eshte shkelur ajo e drejte, nuk mjafton si argument per te aktivizuar makinerine e mbrojtjes qe of ron Kushtetuta dhe Gjykata, si institucion qe perkujdeset per respektimin e te drejtave dhe lirive te njeriut (shih, ne kete kontest, rastet e Gjykates, KI02118, parashtrues Qeveria e Republikes se Kosoves [Ministria e Mjedisit dhe Planifikimit Hapesinor], Aktvendim per papranueshmeri, i 20 qershorit 2019, paragrafin 36; dhe
+KI95119, parashtrues Ruzhdi Bejta, Aktvendim per papranueshmeri i 8 tetorit 2019, paragrafet 30-31).
+32. Ne rastin konkret, parashtruesi i kerkeses pretendon shkelje te neneve 31 dhe te nenit 32 te Kushtetutes, pa arsyetuar dhe mbeshtetur shkeljen e te njejtave permes Aktgjykimit te kontestuar te Gjykates Supreme.
+33. Prandaj, pretendimet e parashtruesit te kerkeses per shkelje te neneve 31 dhe 32 te Kushtetutes jane pretendime "te pambeshtetura apo paarsyetuara", dhe rrjedhimisht, te papranueshme si qartazi te pabazuara ne baze kushtetuese ashtu siC; eshte percaktuar me nenin 48 te Ligjit dhe rregullin 39 (1) (d) dhe (2) te Rregullores se punes.
+PER K.ETO ARSYE
+Gjykata Kushtetuese, ne pajtim me nenin 113.7te Kushtetutes, ne nenet 20, 47 dhe 48 te Ligjit dhe ne pajtim me rregullat 39 (1) (d) dhe (2), si dhe 59 (2) te Rregullores se punes, me 27 prill 2023, njezeri:
+VEND OS
+TE DEKLAROJE kerkesen te papranueshme; I.
+T'UA KUMTOJE kete Aktvendim paleve; I.
+TE PUBLIKOJE kete Aktvendim ne Gazeten Zyrtare, ne pajtim me nenin 20-4 II. te Ligjit;
+Ky Aktvendim hyn ne fuqi menjehere. III.
