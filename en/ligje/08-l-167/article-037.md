@@ -1,0 +1,6 @@
+# Article 37
+Professional activities
+1. The prosecutor with the prior approval of the Chief Prosecutor of the Prosecution Office, while the Chief Prosecutors of Prosecution Offices with the prior approval of the Council, have the right to participate in professional organizations or scientific meetings which promote the independence and protection of professional interests of prosecutors.
+2. The Prosecutor with the approval of the Chief Prosecutor of the Prosecution Office and the Chief Prosecutors of Prosecution Offices with the approval of the Council participate in activities which are in accordance with the Code of Ethics and professional conduct of prosecutors after their working hours only.
+3. In accordance with the provisions of the Code of Ethics and Professional Conduct of Prosecutors, prosecutors may engage in professional and scientific writing, but may not publish the relevant content of prosecutorial files during or after the termination of the prosecutorial function, unless expressly permitted by applicable legislation.
+4. Prosecutors and Chief Prosecutors, for the activities provided in this Article, receive a remuneration, which may not exceed the value of twenty-five (25%) percent of the basic salary, and for this remuneration the prosecutors notify the Chief Prosecutor, while the Chief Prosecutors notify the Council.

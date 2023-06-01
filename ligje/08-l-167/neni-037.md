@@ -1,0 +1,6 @@
+# Neni 37
+Veprimtaritë profesionale
+1. Prokurori me aprovim paraprak të Kryeprokurorit të prokurorisë, ndërsa Kryeprokurorët e prokurorive, me aprovimin paraprak të Këshillit, kanë të drejtë të marrin pjesë në organizata profesionale, takime shkencore, të cilat promovojnë pavarësinë dhe mbrojtjen e interesave profesionale të prokurorëve.
+2. Prokurori me aprovimin e Kryeprokurorit të prokurorisë dhe Kryeprokurorët e prokurorive me aprovim të Këshillit, vetëm jashtë orarit të punës, marrin pjesë në veprimtari të cilat janë në përputhje me Kodin e Etikës dhe sjelljen profesionale të prokurorëve.
+3. Në pajtim me dispozitat e Kodit të Etikës dhe sjelljes profesionale të prokurorëve, prokurorët mund të angazhohen në shkrime profesionale dhe shkencore, por nuk mund të botojnë përmbajtjen relevante të dosjeve prokuroriale gjatë apo pas përfundimit të funksionit prokurorial, përveç nëse kjo lejohet shprehimisht me legjislacionin në fuqi.
+4. Prokurorët dhe Kryeprokurorët, për aktivitetet e parapara në këtë nen pranojnë shpërblim, i cili nuk mund të tejkalojë vlerën prej njëzetepesë (25%) për qind të pagës bazë, dhe për këtë shpërblim prokurorët e njoftojnë Kryeprokurorin, kurse Kryeprokurorët e njoftojnë Këshillin.
