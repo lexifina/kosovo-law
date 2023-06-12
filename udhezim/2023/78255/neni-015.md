@@ -1,0 +1,6 @@
+# Neni 15
+Të dhënat e pasakta, paqarta dhe jo të plota
+1. Të dhënat të cilat nuk janë sakta, qarta dhe plota konsiderohen si të dhëna të pavlefshme dhe si rregull nuk merren parasysh gjatë matjes së performancës komunale.
+2. Përjashtimisht paragrafit 1 të këtij neni, nëse gjatë procesit të verifikimit të të dhënave identifikohet se komuna ka raportuar një të dhënë të pasaktë apo në kundërshtim me standardet për cilësi, e dhëna do të shpallet e pavlefshme vetëm për faktin konkret që është synuar të provohet përmes asaj të dhëne. Në rastet kur shumica e të dhënave për të provuar përmbushjen e të dhënave nuk plotësojnë standardet e cilësisë, pavlefshmëria do të aplikohet në nivel të treguesit që përfshinë ato të dhëna.
+3. Nëse gjatë procesit të verifikimit vërtetohet se një komunë, ka raportuar të dhëna të pasakta të cilat kanë rezultuar me performancës më të lartë, fusha për të cilën të dhënat janë të pasakta, shpallet e pavlefshme dhe vlerësohet me 0.
+4. Nëse vërtetohet se një komunë ka raportuar të dhëna të pasakta apo fiktive të cilat ndikojnë rritjen e performancës në treguesit e Grantit të Performancës, e njëjta përjashtohet nga e drejta për të përfituar nga ky grant në vitin e alokimit.

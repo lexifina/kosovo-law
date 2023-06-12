@@ -1,0 +1,6 @@
+# Neni 5
+Rregullat dhe procedura e zhvillimit të Dokumentit Kryesor të SMPK
+1. Zhvillimi i dokumentit kryesor të SMPK bëhet nga Ministria. Ministri me vendim emëron grupin e punues për zhvillimin e Dokumentit Kryesori, i cili përbëhet prej anëtarëve nga Ministria, ministritë e linjës, komunat, kontributdhënësit, shoqëria civile. Në grupin punues pasqyrohet përfaqsimi gjinor në pajtim me ligjin përkatës për barazi gjinore. Grupi punues udhëhiqet nga Ministria.
+2. Me propozim të grupit punues dhe vendim të ministrit mund të themelohen grupe të specializuara të punës që kanë në përbërje përfaqësues të ministrisë, ministrive të linjës dhe ekspert përkatës të fushës. Këto grupe veprojnë në bazë të udhëzimeve dhe kërkesave të grupit punues të përcaktuar në paragrafin 1 të këtij neni.
+3. Gjatë zhvillimit të Dokumentit Kryesor të SMPK-së, Ministria bashkëpunon me palët e interesit, përfshirë: ministritë̈ e linjës, komunat, institucionet e tjera të administratës shtetërore, donatorët dhe shoqërinë civile.
+4. Gjatë zhvillimit të dokumentit kryesor grupi punues kujdeset që të përfshijë të gjitha elementet e SMPK dhe sidomos fushat, treguesit dhe të dhënat të cilat janë pjesë e SMPK-së bazuar në kompetencat vetanake të komunave të përcaktuara me Ligjin për Vetëqeverisje Lokale dhe legjislacionit përkatës në fuqi.

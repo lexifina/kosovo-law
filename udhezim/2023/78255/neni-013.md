@@ -1,0 +1,8 @@
+# Neni 13
+Menaxhimi i procesit të matjes së performancës në komunë
+1. Përveç sa përcaktohet në nenin 19 dhe 20 të ligjit, për të siguruar një proces sa më korrekt dhe të drejtë të matjes së performancës, nga secila komunë duhet të ndërmerren disa veprime siç janë përcaktuar në këtë nen.
+2. Menjëherë pasi të pranohet kërkesa për raportim nga ministria, koordinatori njofton zyrtarët komunal dhe njësitë tjera komunale për obligimet rreth mbledhjes së të dhënave të nevojshme për procesin e matjes së performancës komunale.
+3. Të dhënat e raportuara duhet të janë të dokumentuara dhe të mbështetura në fakte të cilat provojnë saktësinë e tyre. Formulari me të dhënat e raportuara duhet të autorizohet në SEMPK për të vërtetuar aprovimin nga zyrtari komunal për raportim të performancës. Raportimi i të dhënave nga zyrtari komunal në SEMPK bëhet pas verifikimit të saktësisë së tyre nga koordinatori.
+4. Raportimi dhe autorizimi i të dhënave bëhet në formë elektronike përmes SEMPK-së. Në rastet e mosfunksionimit të sistemit elektronik, raportimi me të gjitha dokumentet relevante bëhet përmes adresës elektronike, duke shfrytëzuar format e dërguara nga Njësia. Në raste të tilla, zhvillohen procedura të njëjta për menaxhimin e të dhënave si në formën elektronike.
+5. Koordinatori bënë verifikimin dhe përmbledhjen përfundimtare të të dhënave të raportuara dhe pas autorizimit elektronik në SEMPK, i dërgon për aprovim tek kryetari i komunës i cili brenda afatit ligjor bën aprovimin dhe autorizon të njëjtat në SEMPK.
+6. Çdo raportim dhe ndryshim i të dhënave pas afatit është i pavlefshëm dhe nuk merret parasysh gjatë procesit të matjes së performancës nga Njësia.
