@@ -1,0 +1,19 @@
+# Neni 20
+Hyrja në fuqi
+Kjo Rregullore hyn në fuqi shtatë (7) ditë pas publikimit në Gazetën Zyrtare të Republikës së Kosovës.
+Albulena Haxhiu __________________
+Ministre e Drejtësisë
+___/___/2023
+Shtojca nr.1: Formular i Ankesës
+ANKESË
+Unë _________________, më datë ___________, kam aplikuar për ndihmë juridike falas në ___________, zyra në ____________,
+☐ kam pranuar vendim për refuzim
+☐ nuk kam pranuar vendim
+Prandaj, parashtroj këtë ankesë, me arsyetimin si në vijim: ______________________________________________________________________________________ ______________________________________________________________________________________ ______________________________________________________________________________________ ______________________________________________________________________________________ ______________________________________________________________________________________ ______________________________________________________________________________________ Nëse kjo hapësirë është e pamjaftueshme, atëherë mund të përdorni faqe shtesë.
+☐ Unë (gjithashtu) parashtrojë ankesë si rezultat i shërbimeve joprofesionale ose jo-etike nga
+☐ Zyrtari/ja për ndihmë juridike falas ____________
+☐ Avokati/ja, i/e autorizuar nga Agjencia ____________
+☐ OJQ ____________
+Unë mendoj se këto shërbime ishin joprofesionale ose jo-etike, sepse: ______________________________________________________________________________________ ______________________________________________________________________________________ ______________________________________________________________________________________ ______________________________________________________________________________________ ______________________________________________________________________________________ ______________________________________________________________________________________ Nëse kjo hapësirë është e pamjaftueshme, atëherë mund të përdorni faqe shtesë.
+Nënshkrimi i parashtruesit/es të kërkesës: ____________ Data: ____________
+Numri i telefonit: ____________
