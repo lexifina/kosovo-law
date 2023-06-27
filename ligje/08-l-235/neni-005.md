@@ -1,0 +1,7 @@
+# Neni 5
+1. Në tabelën 3.1 të Ligjit Bazik bëhen ndryshimet ashtu që nën programi buxhetor me kod
+02000, “Zyra për Çështjet e Trashëgimisë së TMK”, në kuadër të organizatës buxhetore Ministria e Mbrojtjes, me kod 217, së bashku me numrin e të punësuarve dhe buxhetin përkatës, barten si nën program i veçantë buxhetor në kuadër të organizatës buxhetore Ministria e Punëve të Brendshme, me kod 214, në kuadër të programit buxhetor “Shërbimet e Administratës Qendrore” me kod 11314, në kategorinë e njëjtë të shpenzimeve.
+2. Shpenzimet e realizuara nga Ministria e Mbrojtjes në kuadër të nën programit buxhetor me kod 02000, deri në hyrjen në fuqi të këtij ligji do të njihen dhe llogariten si shpenzime të realizuara me rastin e bartjes sipas paragrafit 1 të këtij neni.
+3. Përveç shpenzimeve që barten nga paragrafi 1 i këtij neni, bartjes tek organizata buxhetore i nënshtrohen të gjitha transaksionet në SIMFK, në të njëjtin status të ekzekutimit të buxhetit në të cilin gjinden aktualisht me hyrjen në fuqi të këtij ligji. Ekzekutimi i të gjitha shpenzimeve do të bëhet nga Ministria e Punëve të Brendshme me kodin buxhetor 214 në përputhje me planifikimet dhe buxhetin.
+4. Aspektet e tjera procedurale të bartjes dhe raportimit mund të rregullohen me vendim të Ministrit.
+5. Bartjet e specifikuara në paragrafin 1 të këtij neni nuk i nënshtrohen kufizimeve të vendosura në nenin 30 të ligjit përkatës për menaxhimin e financave publike dhe përgjegjësitë.
