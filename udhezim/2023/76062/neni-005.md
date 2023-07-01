@@ -1,0 +1,5 @@
+# Neni 5
+Pagesa e TVSH-së
+1. Në rastin e furnizimit të energjisë elektrike të tregtuar nëpërmjet Bursës Shqiptare të Energjisë Elektrike, TVSH-ja bëhet e ngarkueshme në momentin kur shpallen rezultatet në tregjet e ankandeve të ditës në avancë ose brenda së njëjtës ditë ose në momentin kur urdhër porositë përputhen në rastin e tregut të vazhdueshëm brenda së njëjtës ditë.
+2. Për efekt të përllogaritjes së TVSH-së blerësi i energjisë elektrike nga Bursa Shqiptare e Energjisë Elektrike kryen procedurat e ngarkesës së kundërt të TVSH-së në cilësinë e personit përgjegjës për pagesën e TVSH-së. Procedurat për zbatimin e kësaj pike dhe fillimi i aplikimit të kësaj skeme të veçantë përcaktohen sipas këtij Udhëzimi Administrativ.
+3. Deri më 31 dhjetor 2026, TVSH-ja është e pagueshme nga personi i tatueshëm (blerësi) për të cilin kryhet furnizimi me energji elektrike nga Bursa Shqiptare e Energjisë Elektrike në përputhje me dispozitat e këtij Udhëzimi Administrativ dhe dispozitat e nenit 52, paragrafit 1.4, nënparagrafit 1.4.6, të Ligjit Nr. 05/L-037 për TVSH.
