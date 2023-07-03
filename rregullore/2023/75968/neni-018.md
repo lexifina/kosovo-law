@@ -1,0 +1,6 @@
+# Neni 18
+Sigurimi i gjërave, objekteve, lokacioneve, zonave, vendngjarjes, provave dhe dëshmive
+1. PU-ja, më qëllim të ruajtjes, të parandalimit të kontaminimit të vendit të ngjarjes, parandalimit të veprave të kundërligjshme, është e autorizuar të bëjë sigurimin e gjërave, objekteve, lokacioneve, zonave, vendngjarjeve, provave dhe dëshmive.
+2. PU-ja gjatë realizimit të këtij autorizimi mund të kufizojë përkohësisht lëvizjen në zona të caktuara.
+3. PU-ja është i autorizuar ta sigurojë vendin e ngjarjes dhe me urdhër të Prokurorit tё Shtetit kompetent ta ekzaminojë vendin e ngjarjes të veprës penale ose aksidentit, të ndërmerr të gjitha masat e nevojshme për të përcaktuar vendndodhjen e kryerësit, të ndalojë kryerësin ose ndihmësin e tij nga fshehja ose arratisja, të gjejë dhe të sigurojë fakte, të gjejë dhe të ruajë gjurmët dhe provat e tjera të veprës penale ose të aksidentit dhe gjërat të cilat mund të shërbejnë si prova dhe të mbledhë informacione lidhur me veprën penale ose aksidentin.
+4. Me qëllim të mbrojtjes së viktimave të veprës penale apo të aksidentit, PU-ja është i autorizuar ta pengojë incizimin video-akustik në perimetrin e sigurisë së vendit të ngjarjes të veprës penale apo aksidentit.

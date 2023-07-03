@@ -1,0 +1,4 @@
+# Neni 21
+Përdorimi i pronës së personave të tretë në rrethana emergjente dhe të jashtëzakonshme
+1. PU-ja është i autorizuar që përkohësisht të marrë apo ta përdorë çfarëdo prone, duke përfshirë, por jo duke u kufizuar në mjetet e transportit, të komunikimit ose të mbrojtjes, që janë në posedim të personave të tretë, atëherë kur është e domosdoshme, që të parandalohet rreziku i pashmangshëm për personat ose pronën apo për të arritur një objektiv tjetër policor urgjent që kërkon veprim të menjëhershëm.
+2. Prona që merret në përdorim duhet t’i kthehet personit nga i cili është marrë, menjëherë pasi që të mos jetë më e nevojshme të arrihen objektivat urgjentë policorë për çka edhe është marrë, por në asnjë rast jo më gjatë se 24 orë pas marrjes. Pronari apo poseduesi ka të drejtën e kompensimit nga FSK-ja për çdo shpenzim apo dëm që i është shkaktuar pronës gjatë përdorimit të saj.
