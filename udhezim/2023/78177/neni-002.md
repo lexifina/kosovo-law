@@ -1,0 +1,4 @@
+# Neni 2
+Në nenin 6 paragrafi 9 nën paragrafi 9.1 i Udhëzimit Administrativ (MBPZHR) -NR.04/2022 për Masat dhe Kriteret e Përkrahjes për Zhvillim Rural për vitin 2022, e ndryshuar dhe plotësuar me Udhëzimin Administrativ (MBPZHR)-NR.14/2022 neni 3 pas paragrafi 1 shtohet një paragraf i ri si ne vijim:
+1A. AZHB-ja mund ta zgjatë afatin e zbatimit edhe për 30 ditë, nëse ka arsye të qëndrueshme për këtë siç janë: kushtet e papërshtatshme atmosferike, apo sjellja e ndonjë makinerie specifike prej ndonjë vendi tjetër, me kusht që të parashtrohet kërkesa për zgjatje të afatit nga përfituesi me përjashtim të sektorit të rrushit.
+Paragrafi 2 i nenit 3 të Udhëzimit Administrativ (MBPZHR)-NR.04/2022 për Masat dhe Kriteret e Përkrahjes për Zhvillim Rural për vitin 2022, e ndryshuar dhe plotësuar me Udhëzimin Administrativ (MBPZHR)-NR.14/2022, fshihet në tërësi.
