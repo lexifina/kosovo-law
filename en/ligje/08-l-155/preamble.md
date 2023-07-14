@@ -1,0 +1,6 @@
+LAW NO. 08/L-155
+ON TARGETED SANCTIONS AGAINST FOREIGN HUMAN RIGHTS VIOLATORS
+Assembly of the Republic of Kosovo;
+Based on Article 65 (1) of the Constitution of the Republic of Kosovo,
+Adopts:
+LAW ON TARGETED SANCTIONS AGAINST FOREIGN HUMAN RIGHTS VIOLATORS
