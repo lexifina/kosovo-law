@@ -1,0 +1,24 @@
+# Neni 41
+Kërkesat për Deklarim Financiar
+1. Çdo subjekt politik i certifikuar për pjesëmarrje në zgjedhje, dorëzon Raportet e Deklarimit Financiar të Fushatës së Subjektit, duke i përfshirë të gjitha degët dhe pjesët përbërëse të tij, për periudhën që fillon nëntëdhjetë (90) ditë para zgjedhjeve dhe me mbarim në ditën e zgjedhjeve. Raporti i Publikimit Financiar për Fushatën dorëzohet jo më vonë se tridhjetë (30) ditë kalendarike pas ditës certfikimit të zgjedhjeve.
+2. Secili Raport i Publikimit Financiar të Fushatës, i secilit subjekt politik, duke i përfshirë të gjitha degët e tyre dhe pjesët përbërëse, përfshinë publikimin komplet dhe të saktë të:
+2.1. të ardhurave të subjektit politik për periudhën raportuese, përfshirë burimin dhe datën e të gjitha kontributeve me para të gatshme;
+2.2. të gjitha shpenzimet, përfshirë shpenzimet e fushatës, të bëra nga subjekti gjatë periudhës raportuese; dhe
+2.3. një fletë bilanci që i paraqet pasuritë, detyrimet dhe barazimin e subjektit prej ditës së parë deri te dita e fundit e periudhës së raportimit.
+3. Subjektet politike i sigurojnë Zyrës kopjet e dëftesave për secilën pagesë administrative të paguar.
+4. Zyra do i raporton KQZ-së për secilën pagesë administrative të mbledhur dhe të transferuar në Buxhetin e Kosovës.
+5. Nëse një subjekt politik nuk e dorëzon Raportin e Publikimit Financiar të Fushatës deri në afatin përfundimtar ose, nëse e dorëzon raport jo të plotë ose të pasaktë, Zyra mund t’ia paraqesë ankesën PZAP-it në pajtim me procedurat e atij organi.
+6. Secili subjekt politik i certifikuar për pjesëmarrje në zgjedhje i mban dhe ruan në arkivat e tyre, për një periudhë shtatë (7) vjeçare, shënimet e sakta dhe të detajuara të gjendjes financiare të subjektit dhe të gjitha degëve për periudhën e mbuluar me Raportet e Publikimit Financiar të Fushatës, përfshirë:
+6.1. librat e mbajtjes së llogarive me shënime, në pajtueshmëri me parimet llogaritëse të pranuara në përgjithësi:
+6.1.1. të gjitha të ardhurat sipas burimit, shumës, duke e identifikuar mënyrën se si është kryer pagesa (d.m.th., para të gatshme, çek, draft bankier, etj.); dhe
+6.1.2. të gjitha pagesat të cilat i ka kryer subjekti ndaj personit tjetër, qëllimi i pagesës dhe mënyra se si është kryer pagesa.
+6.2. dëftesat për të gjitha shpenzimet që tejkalojnë shumën prej njëqind euro (100 €);
+6.3. shënimet bankiere për të gjitha llogaritë të cilat i mban subjekti politik ose që janë në emër të tij;
+6.4. dokumentet të cilat e ndërtojnë bazën ligjore për pronësi ose posedim të tërë pasurisë së patundshme të subjektit politik;
+6.5. kontratat, partner i të cilave është subjekti, përfshirë kontratat lidhur me qiranë ose blerjen e pasurisë së tundshme apo të patundshme;
+6.6. një regjistrim i të gjitha kontributeve të subjektit, pa marrë parasysh se kur janë bërë, përfshirë:
+6.6.1. vlerën e secilit kontribut;
+6.6.2. datën kur secili kontribut është dhënë;
+6.6.3. emrin e plotë, adresën dhe Regjistrimin Civil, numrin e pasaportës ose të lejes së vozitjes të secilit kontribues; dhe
+6.6.4. emrin e plotë të personit i cili e ka pranuar kontributin në emër të subjektit.
+7. Të gjithë zyrtarët për financa ndjekin një trajnim për llogaritjen dhe auditimin, të organizuar nga Zyra menjëherë pas emërimit të tyre, nëse ata nuk i ofrojnë Zyrës një shkallë të pranueshme të ekspertizës dhe përvojës që tregon se një trajnim i tillë nuk është i domosdoshëm.

@@ -1,0 +1,5 @@
+# Article 22
+Identical or Similar Names
+1. The CEC shall not certify a political entity under a name or acronym that is the same as, or, in the judgment of the CEC, is confusingly or misleadingly similar to, the name or acronym under which a different political entity has previously been certified.
+2. If two or more political entities apply for certification under names or acronyms that are the same, or so similar that they are likely to cause confusion or mislead voters, the CEC shall decide which entity has the right to be certified under the name or acronym. In deciding which political entity has the right to be certified under a name or acronym, the CEC shall consider the date on which each entity submitted its application to the CEC and each entity’s previous use of the names or acronyms.
+3. Nothing in this Article precludes the certification of an independent candidate under his or her legal name. Where candidate names are the same, the CEC may include distinguishing information to avoid confusion on the ballot.

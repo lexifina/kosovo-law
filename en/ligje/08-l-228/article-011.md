@@ -1,0 +1,8 @@
+# Article 11
+Adjudication Process
+1. All decisions of the Election Complaints and Appeals Panel, including decisions related to the inclusion or exclusion of the name from the VL, shall be final and binding to be implemented by CEC, unless the complaint allowed under of this Law is submitted within the stipulated time limit and the Supreme Court of Kosovo decides otherwise.
+2. The Election Complaints and Appeals Panel shall notify CEC and any other party against whom the complaint has been filed and provide these parties with the opportunity to respond. Any response to the complaint must be received within two (2) working days of notification by the Election Complaints and Appeals Panel that the complaint has been received.
+3. The Election Complaints and Appeals Panel shall provide copies of written decisions to the parties involved as in paragraph 2 of this Article, within seventy-two (72) hours, from the moment the complaint is received.
+4. Complaints related to unfair exclusion from the Voters List, regular or by mail, must be received by the Election Complaints and Appeals Panel no later than forty (40) days before election day.
+5. The Election Complaints and Appeals Panel will not act on complaints that do not meet the conditions defined in the rules of procedure. The Election Complaints and Appeals Panel may generally reject a complaint or group of complaints if they do not present a prima facie case or where the complaint or group of complaints is manifestly unfounded.
+6. The Election Complaints and Appeals Panel shall have the authority to order CEC to take remedial action on issues related to claims related to VL.

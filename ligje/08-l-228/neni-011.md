@@ -1,0 +1,8 @@
+# Neni 11
+Procesi i vendosjes
+1. Të gjitha vendimet e Panelit Zgjedhor për Ankesa dhe Parashtresa, përfshirë edhe vendimet që kanë të bëjnë me përfshirjen apo përjashtimin e emrit nga LV-ja, janë përfundimtare dhe të detyrueshme për t’u zbatuar nga KQZ-ja, përveç nëse ankesa e lejuar sipas këtij ligji parashtrohet brenda afatit të paraparë dhe Gjykata Supreme e Kosovës vendos ndryshe.
+2. Paneli Zgjedhor për Ankesa dhe Parashtresa, e njofton KQZ-në dhe çdo palë tjetër ndaj së cilës është ngritur ankesa dhe u ofron këtyre palëve mundësinë për t’u përgjigjur. Çdo përgjigje në ankesë duhet të pranohet brenda dy (2) ditëve të punës prej njoftimit nga Paneli Zgjedhor për Ankesa dhe Parashtresa që ankesa është pranuar.
+3. Paneli Zgjedhor për Ankesa dhe Parashtresa u ofron kopjet e vendimeve me shkrim palëve të përfshira si në paragrafin 2 të këtij neni, brenda afatit prej shtatëdhjetë e dy (72) orëve, nga momenti i pranimit të ankesës.
+4. Ankesa lidhur me përjashtim të padrejtë nga Lista e votuesve, e rregullt apo përmes postës, duhet të pranohet nga Paneli Zgjedhor për Ankesa dhe Parashtresa jo më vonë se dyzet (40) ditë para ditës së zgjedhjeve.
+5. Paneli Zgjedhor për Ankesa dhe Parashtresa nuk do të veprojë ndaj ankesave të cilat nuk i plotësojnë kushtet e përcaktuara në rregullat e procedurës. Paneli Zgjedhor për Ankesa dhe Parashtresa mund në përgjithësi të refuzojë një ankesë apo grup ankesash nëse ato nuk paraqesin raste prima facie ose ku ankesa apo grupi i ankesave është dukshëm i pabazë.
+6. Paneli Zgjedhor për Ankesa dhe Parashtresa ka autoritetin për të urdhëruar KQZ-në për të marrë masa riparuese për çështje në lidhje me kërkesat që kanë të bëjnë me LV-të.

@@ -1,0 +1,15 @@
+# Neni 8
+Lista e votuesve
+1. KQZ-ja mban Listën e votuesve dhe siguron që e njëjta bazohet në të dhënat e sakta, të përditësuara dhe më të fundit të Regjistrit Qendror Civil dhe e cila në mënyrë sistematike largon nga lista personat e vdekur dhe personat që kanë hequr dorë nga shtetësia. Kjo listë përmban:
+1.1. ekstraktin më të vonë në dispozicion nga Regjistri Qendror Civil i të gjithë votuesve me të drejtë vote të cilët janë regjistruar si shtetas të Kosovës sipas Ligjit për shtetësinë;
+1.2. të gjithë shtetasit me të drejtë vote jashtë Kosovës, të cilët në mënyrë të suksesshme kanë aplikuar dhe janë regjistruar për votim në përfaqësi diplomatike apo përmes postës, si votues jashtë Kosovës.
+2. Lista e votuesve nga paragrafi 1 i këtij neni, përmban informatat personale të ofruara për secilin votues siç janë: emri, mbiemri, data e lindjes, adresa dhe Qendra e Votimit ku ai/ajo është caktuar për të votuar.
+3. Me qëllim të saktësimit të listës së votuesve dhe konfirmimit të të drejtës për votim, KQZ- së i garantohet qasja në bazën e të dhënave dhe regjistrat e institucioneve kompetente, duke përfshirë por pa u kufizuar në regjistrat e: Agjencisë së Statistikave të Kosovës, Agjencisë Kadastrale, Agjencisë për Regjistrim Civil dhe Administratës Pensionale.
+4. Lista e votuesve është në dispozicion për të pasur qasje në të ashtu siç parashihet me rregullat e KQZ-së.
+5. Lista e votuesve do të jetë publike edhe në vitet jozgjedhore, ku votuesit do të kenë mundësi që të njoftohen lidhur me qendrat e votimit dhe të kërkojnë ndërrimin e qendrave të votimit. Agjencia e Regjistrimit Civil është e obliguar që së paku dy (2) herë në vit t’ia ofrojë KQZ-së ekstraktin e Regjistrit Qendror Civil.
+6. Të gjitha aktivitetet dhe dokumentet e organeve shtetërore, të gjitha paraqitjet dhe të dhënat lidhur me qytetarët e regjistruar në Listën e votuesve lirohen nga pagesa e tarifave dhe taksave.
+7. Të dhënat personale të qytetarëve në Listën e votuesve shënohen në gjuhët dhe alfabetet në të cilat mbahen shënimet origjinale në pajtim me Ligjin për përdorimin e gjuhëve në Kosovë.
+8. Gjykata kompetente duhet të dorëzojë të dhënat në KQZ për personat të cilëve u është marrë zotësia e veprimit me vendim gjyqësor të formës së prerë. Këto të dhëna dorëzohen ashtu siç kërkohet nga KQZ-ja.
+9. Regjistri Qendror Civil pajis KQZ-në me të gjitha informatat përkatëse që Komisioni Qendror i Zgjedhjeve kërkon për të mirëmbajtur Listën e votuesve në pajtim me afatet kohore të caktuara nga KQZ-ja.
+10. KQZ u ofron komisioneve komunale të zgjedhjeve (KKZ), një kopje elektronike dhe/apo kopje të shtypur të listës preliminare të votuesve për komunën e tyre.
+11. Shfrytëzimi dhe përdorimi i të dhënave personale të shtetasve të Republikës së Kosovës nga ana e KQZ-së apo organeve kompetente të saj, bëhet vetëm për qëllime të procesit zgjedhor dhe në pajtim me udhëzimet e agjencisë përgjegjëse për Informim dhe Privatësi, si dhe në pajtim me legjislacionin në fuqi për mbrojtjen e të dhënave personale.

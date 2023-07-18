@@ -1,0 +1,8 @@
+# Article 9
+Review of Voters List and Challenge Period
+1. Eligible voters may challenge, as specified under Article 10 of this Law, inaccuracies or omissions in the Voters List during a period established for that purpose by the CEC.
+2. Prior to the start of the Challenge and Confirmation Period, following the declaration of the election date by the President of Kosovo, CEC shall make the preliminary Voters List available at CEC Office in each municipality in accordance with the Law on Protection of Personal Data. The preliminary Voters List shall be included in the electronic search tool, which shall be published on the CEC website.
+3. Prior to the commencement of the challenge period, CEC shall provide access to the preliminary Voters List to the contact person of each political subject certified in the elections. Any use of the preliminary Voters List that is contradiction to this law or the Law on Protection of Personal Data shall constitute a legal violation.
+4. During the election period, CEC shall provide access to the preliminary Voters List to accredited election observation organizations, upon their individual request. Accredited election observers may observe the challenge and confirmation period at all locations where the preliminary Voters List is available for viewing.
+5. The CEC shall, after the public has had the opportunity to challenge inaccuracies and omissions in the Voters List, but before the day of the election, certify that the Voters List has been established in accordance with this law.
+6. Decisions on changes to the Voters List shall be made by the Election Complaints and Appeals Panel.

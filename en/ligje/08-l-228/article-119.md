@@ -1,0 +1,8 @@
+# Article 119
+Complaints
+1. A person who has a legal interest in a matter within the jurisdiction of ECAC, or whose right concerning the electoral process as established by this law or electoral rule have been violated, may submit a complaint to the ECAC within fourty-eight (48) hours from the moment the polling station closes and ECAC decides on the appeal within ninety-six (96) hours from its submission.
+2. The Office may submit a complaint to the ECAC in respect of a Political Entity failing to comply with this law or CEC Rules affecting the electoral or the registration process.
+3. The ECAC shall not consider a complaint concerning a decision of the CEC, as set under this Law.
+4. The ECAC may impose sanctions on a Political Entity for violation of this law or CEC rules committed by the members, supporters and candidates of the Entity. A Political Entity may submit evidence to the ECAC showing that it made reasonable efforts to prevent and discourage its members, supporters and candidates from violating this law or electoral rules. The ECAC shall consider such evidence in determining an appropriate sanction, if any, to be imposed on the Political Entity. Prior imposing the fine, ECAC requires the political entities to immediately avoid the violation within the specified period. This applies to violations that can be avoided and do not have major and irreparable consequences.
+5. The ECAC may upon its own discretion consider matters otherwise within its jurisdiction, when strictly necessary to prevent serious injustice.
+6. The provision of false information to the ECAC shall be a violation of this law that the ECAC may sanction.

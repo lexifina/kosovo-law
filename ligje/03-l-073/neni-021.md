@@ -1,6 +1,0 @@
-# Neni 21
-Emrat Identik apo të Ngjashëm
-21.1 KQZ–ja nuk e certifikon subjektin politik me emër apo akronim që është i njëjtë si, apo sipas gjykimit të KQZ-së, është i ngatërrueshëm, mashtrues ose i ngjashëm me, emrin apo akronimin me të cilin një subjekt tjetër politik është certifikuar më herët.
-21.2 Nëse dy apo më shumë subjekte politike aplikojnë për certifikim me emra apo akronime që janë të njëjta, apo aq të ngjashme sa që me siguri se do të shkaktojnë ngatërrim apo çorientojnë votuesit, KQZ–ja vendos se cili subjekt ka të drejtën për t’u certifikuar me emrin dhe akronimin. Në vendimin se cili subjekt politik ka të drejtën për t’u certifikuar nën cilin emër dhe akronim, KQZ–ja ka parasysh datën kur secili subjekt ka dorëzuar aplikimin e tij në KQZ dhe përdorimin paraprak të emrave dhe akronimeve.
-21.3 Për qëllim të këtij neni, koalicioni konsiderohet të jetë një subjekt politik tjetër nga një palë zgjedhje në tjerat në të ardhmen përveç nëse anëtarësia përfshinë të gjitha partitë politike që më parë kanë qenë pjesë e koalicionit.
-21.4 Asgjë në këtë nen nuk e pamundëson certifikimin e kandidatëve të pavarur me emrin ligjor të tij apo saj. Në rast se emrat janë të njëjtë, KQZ-ja mund të përfshijë informata për të bërë dallimin e tyre dhe për t’i ikur ngatërrimit në fletëvotim.

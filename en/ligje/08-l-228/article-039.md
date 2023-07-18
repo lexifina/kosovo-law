@@ -1,0 +1,5 @@
+# Article 39
+Sanctions for Violations of the Principles of this Code
+1. The violation of the Code of Conduct set forth in this Law, in cases when these violations have not affected the elections results, is considered an administrative offence and is punishable by a fine, as determined by the ECAP.
+2. Violations of the Code of Conduct set forth in this Law, in cases when they have influenced the results of the elections, in addition to the relevant sanctions, shall also be submitted with the competent prosecution by ECAP.
+3. The person who has a legal interest in a matter within the jurisdiction of the ECAP, or whose rights have been violated in terms of alleged violations of the Code of Conduct for Political Entities, their supporters and candidates during the electoral campaign period and election day, may submit a complaint to ECAP within forty-eight (48) hours from the occurrence of the alleged violation, and ECAP shall decide on the complaint within seventy-two (72) hours from the time of its receipt.

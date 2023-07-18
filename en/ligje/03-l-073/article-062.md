@@ -1,4 +1,0 @@
-# Article 62
-Oath of Declaration and Appointment
-62.1 The President shall issue a letter of appointment to each Member of the CEC who shall personally appear before the President or his designated representative on a date notified by the President and make the following Declaration in the language of his or her choice: “I solemnly declare that I shall discharge the duties of my office as Member of the CEC honorably, faithfully, impartially, diligently and conscientiously.”
-62.2 If a person appointed to be a Member of the CEC fails, without good cause shown, to make the Declaration pursuant to article 67.1, the President shall request the appointing organization to appoint a different person. If the authority fails to appoint an eligible person to be a member of the CEC within 14 days of such request, the President shall at his discretion select and appoint an eligible person to fill the vacant position.

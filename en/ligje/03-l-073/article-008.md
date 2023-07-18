@@ -1,8 +1,0 @@
-# Article 8
-Review of Voters List and Challenge Period
-8.1 Eligible voters may challenge, as specified under article 9, inaccuracies or omissions in the Voters List during a period established for that purpose by the CEC.
-8.2 Prior to the start of the Challenge and Confirmation Period, following the declaration of the election date by the President of Kosovo, the CEC Secretariat shall make the VL available at MEC Office in each municipality as set out by CEC rules and in conformity with data protection law. In addition, the MEC may designate additional locations to view the VL when necessary to allow for access to it within its municipality.
-8.3. Decisions regarding changes in the VL shall be made by the court of first instance.
-8.4 Prior to the commencement of the challenge period the CEC shall provide the designated Contact Person of each certified Political Entity with the VL. Any use of the VL by certified political entities that contravenes Chapter V on the Code of Conduct for Political Entities and their Supporters and Candidates, shall be a violation of this Law. Changes to the VL may be done in accordance with CEC rules.
-8.5 The CEC shall provide accredited electoral observers with the VL during the election period upon individual request. Accredited electoral observers may observe the Challenge and Confirmation Period in all locations where the VL is available for viewing.
-8.6 The CEC shall, after the public has had the opportunity to challenge inaccuracies and omissions in the Voters List, but before the day of the election, certify that the Voters List has been established in accordance with applicable law.

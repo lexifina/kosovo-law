@@ -1,0 +1,8 @@
+# Neni 9
+Shqyrtimi i Listës së votuesve dhe periudha e kundërshtimit
+1. Votuesit me të drejtë vote mund të kundërshtojnë, siç është e përcaktuar në nenin 10 të këtij ligji, pasaktësitë apo lëshimet në Listën e votuesve gjatë periudhës së vendosur për atë qëllim nga KQZ-ja.
+2. Para fillimit të periudhës së kundërshtimit dhe konfirmimit, pas shpalljes së datës së zgjedhjeve nga Presidenti i Kosovës, KQZ e bën listën preliminare të votuesve të disponueshme në zyrat e KKZ-së, në secilën komunë, në pajtim me ligjin për mbrojtjen e të dhënave personale. Lista preliminare e votuesve do të përfshihet në makinën kërkuese elektronike, e cila do të publikohet në ueb faqen e KQZ-së.
+3. Para fillimit të periudhës së kundërshtimit, KQZ-ja i ofron qasje në listën preliminare të votuesve personit kontaktues të secilit subjekt politik të certifikuar në zgjedhje. Çdo përdorim i listës preliminare të votuesve që është në kundërshtim me këtë ligj ose me ligjin për mbrojtjen e të dhënave personale, paraqet shkelje ligjore.
+4. Gjatë periudhës së zgjedhjeve KQZ-ja u ofron qasje në listën preliminare të votuesve organizatave vëzhguese të akredituara të zgjedhjeve, sipas kërkesave të tyre individuale. Vëzhguesit e akredituar të zgjedhjeve mund të vëzhgojnë periudhën e kundërshtimit dhe konfirmimit në të gjitha lokacionet ku lista preliminare e votuesve është në dispozicion për t’u shikuar.
+5. Pasi që publiku të ketë pasur mundësinë të sfidojë pasaktësitë dhe mangësitë në Listën e votuesve, mirëpo para ditës së zgjedhjeve, KQZ-ja vërteton se Lista e votuesve është në përputhje me këtë ligj.
+6. Vendimet për ndryshimet në Listën e votuesve merren nga Paneli Zgjedhor për Ankesa dhe Parashtresa.

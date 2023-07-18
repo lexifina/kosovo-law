@@ -1,0 +1,7 @@
+# Article 17
+Processing of Applications for Certification
+1. The Office shall review each application for certification and if it determines that a political entity has not satisfied all of the criteria set out in the Article 16 of this Law, then the Office shall, within ten (10) days after the receipt of the application, send a notice informing the entity of the reason or reasons why its application for certification is not sufficient.
+2. An applicant who receives a notice under paragraph 5 of Article 13 of this Law has five (5) working days to submit a revised application or an explanation that addresses the concerns identified in the notice.
+3. The Office shall make a written recommendation to the CEC for or against the approval of each application it receives within five (5) days from receiving full documentation. The recommendation shall contain written explanation for each criterion. No party shall be certified unless it fulfils all of the criteria set forth.
+4. After receiving a recommendation from the Office, the CEC shall either approve or reject the application for certification within seven (7) days.
+5. Upon a decision of the CEC, the Office shall immediately notify the applicant in writing about the status of the application, and in case of rejection, provide the reasons for the rejection and advise the applicant of its right to appeal to the ECAP within forty-eight (48) hours. The ECAP shall decide on the appeal within forty-eight (48) hours from its receipt.

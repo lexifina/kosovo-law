@@ -1,6 +1,0 @@
-# Neni 80
-Gjobat dhe Masat Tjera
-80.1 Subjektet politike të certifikuara ose OJQ-të që kanë nominuar persona për të qenë anëtarë të KVV- ve janë përgjegjës për të siguruar që personat e tillë marrin pjesë në të gjitha seancat e trajnimit të organizuara nga KQZ-ja.
-80.2 Subjektet politike të certifikuara ose OJQ-të që kanë nominuar persona për të qenë anëtarë të KVV- ve janë përgjegjës për të siguruar që personat e tillë janë të përpiktë në vijimin dhe kryerjen e detyrave në vendvotimin e tyre në terminët dhe periudhat kohore siç udhëzohen nga KKZ-ja.
-80.3 Kur personi, ose personat, që emërohen nga një subjekt politik i certifikuar ose OJQ dështojnë në përmbushjen e obligimeve pa ndonjë arsye të fortë të saktësuar në paragrafët 1 dhe 2 të këtij neni, çështja raportohet nga KKZ-ja në Komisionin Zgjedhor për Ankesa dhe Parashtresa. Komisioni Zgjedhor për Ankesa dhe Parashtresa mund të shqiptojë gjobë ose sanksionim, nëse gjen se çështja është provuar.
-80.4 Aty ku, sipas mendimit të Komisionit Komunal të Zgjedhjeve, një anëtar i këshillit të vendvotimit nuk është, për cilëndo arsye, i gatshëm ose është i paaftë t’i përmbushë obligimet e veta, KKZ-ja i jep fund emërimit të atij anëtari. Vendi vakant që del si rezultat i një vendimi i tillë duhet, deri sa është e mundur, të plotësohet në pajtim me dispozitat e këtij ligji.
