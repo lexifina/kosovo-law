@@ -1,0 +1,42 @@
+# Neni 15
+Hyrja në fuqi
+Kjo rregullore hyn në fuqi shtatë (7) ditë pas publikimit në Gazeten Zyrtre të Republikes së Kosovës.
+Armend MEHAJ ________________ Ministër i Ministrisë së Mbrojtjes
+Datë: 11/07/2023
+Shtojca 1. Vlerësim i sigurisë
+[NIVELI I KLASIFIKIMIT]
+PASQYRA E GJENDJES TË PËRGJITHSHME TË SIGURISË FIZIKE NË [Kazerma]
+NJËSIA/KAZERMA
+KRITERET
+RRETH LOKACIONI OJA
+SHËRBIME T E BRENDSH ME
+SISTEMI I KAMERAVE
+SISTEMI I AKSES KONTROLLIT
+NDRIQIMI
+PENGESAT FIZIKE/POR TA
+ZONAT E SIGURISË
+GJENDJA E PËRGJITHSHME
+Emri i Kazermës Nota Nota Nota Nota Nota Nota Nota Nota Nota Mesatare
+Dobët Mesatare Kënaqshëm 1 2 3 4 5
+SIGURIA E PERSONELIT DHE INFORMACIONIT TË KLASIFIKUAR NË [Kazerma]
+NJËSIA/KAZERMA
+KRITERET
+SIGURIA FIZIKE E IK
+LEJET E SIGURISË
+TRANSP. I DOKUMENTACIONIT
+LOKACIONE TË SIGURTA PËR TAKIME
+INFRASTRUKTURA PËR GJENDJA E PËRGJITHSHME NXJERRJEN E IK
+Emri i Kazermës Nota Nota Nota Nota Nota Nota Nota Mesatare
+Dobët Mesatare Kënaqshëm 5 1 2 3 4
+1
+SIGURIA NË DEPOTË E ARMATIMIT, MUNICIONIT DHE EKSPLOZIVËVE NË [Kazerma]
+NJËSIA/KAZERM A
+KRITERET
+SIGURIA FIZIKE
+LEJET E SIGURISË
+SISTEMI I KAMERAVE/AKSESI T/ALARMIT
+LOKACIONI GJENDJA E PËRGJITHSHME
+No Emri i Kazermës Nota Nota Nota Nota Nota Nota Mesatare ta
+Kënaqshëm Dobët Mesatare
+1 2 3 4
+5
