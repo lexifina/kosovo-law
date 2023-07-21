@@ -1,0 +1,3 @@
+# Article 112
+Paragraph 7. of Article 30 of the Basic Law shall be amended as follows:
+7. Within ten (10) working days after the day of making the decision on execution of outstanding tax liabilities, the Authority that made the decision shall execute the decision in accordance with the rules established in the relevant Law on General Administrative Procedure. When the enforcement is within the competence of the municipality, it uses the funds for the execution of financial liabilities defined by this law and, accordingly, the rules that the Tax Administration uses for mandatory collection according to the applicable laws.

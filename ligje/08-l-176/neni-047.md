@@ -1,0 +1,5 @@
+## KAPITULLI XI
+## NDRYSHIMI DHE PLOTËSIMI I LIGJIT NR. 03/L-230 PËR VLERËSIMIN STRATEGJIK
+## MJEDISOR
+# Neni 47
+Paragrafi 5 i nenit 12 i Ligjit bazik fshihet.

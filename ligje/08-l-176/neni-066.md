@@ -1,0 +1,5 @@
+## KAPITULLI XXI
+## NDRYSHIMI DHE PLOTËSIMI I LIGJIT NR. 2003/22 PËR INSPEKTORATIN SANITAR TË
+## KOSOVËS
+# Neni 66
+Paragrafi 30.3 i nenit 30 i Ligjit bazik fshihet.

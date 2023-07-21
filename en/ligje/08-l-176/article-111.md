@@ -1,0 +1,5 @@
+## CHAPTER XXXVI
+## AMENDING AND SUPPLEMENTING THE LAW NO. 06/L-005 ON IMMOVABLE PROPERTY
+## TAX
+# Article 111
+Article 29 of the Basic Law shall be deleted.

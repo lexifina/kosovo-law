@@ -1,0 +1,3 @@
+# Neni 112
+Paragrafi 7 i nenit 30 i Ligjit bazik ndryshohet si në vijim:
+7. Brenda dhjetë (10) dite pune pas ditës së marrjes së vendimit mbi ekzekutimin e detyrimeve tatimore të papaguara, autoriteti që ka marrë vendimin bën ekzekutimin e vendimit në pajtim me rregullat e përcaktuara në Ligjin përkatës për Procedurën e Përgjithshme Administrative, kur ekzekutimi është në kompetencë të komunës e njëjta përdorë mjetet për ekzekutimin e detyrimeve financiare të përcaktuar në këtë Ligj dhe përshtatshmërish rregullat që përdorë administrata tatimore për mbledhjen e detyrueshme sipas legjislacionit në fuqi.
