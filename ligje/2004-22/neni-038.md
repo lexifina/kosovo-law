@@ -1,3 +1,0 @@
-# Neni 38
-38.1.Nëse konstatohet se në përbërjen e jurisë vlerësuese ka ndodhur të jetë personi që nuk mund të bëhej a mbetej anëtar i jurisë në kuptim të paragrafit 6 të nenit 43 të këtij ligji, atëherë Këshilli Drejtues e nulon vendimin e jurisë, e shkarkon dhe e largon nga juria anëtarin e tillë, në vend të tij emëron një anëtar të ri, si dhe cakton mbledhjen e jurisë duke lënë një afat të arsyeshëm me qëllim që anëtari i ri të njihet me projektet e paraqitura.
-38.2.Nëse, pas vendimit për subvencionimn e projektit konstatohet një rast si në paragrafin e mësipërm, atëherë vendimi i jurisë për përzgjedhjen e projektit dhe i këshillit drejtues për subvencionimin e projektit do të nulohen me fuqi prapavepruese.

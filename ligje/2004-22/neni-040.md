@@ -1,2 +1,0 @@
-# Neni 40
-Paraqitësit e projekteve filmike do të njoftohen me shkrim për vendimet e këshillit drejtues që përmban një arsyetim të shkurtë për miratimin e projektit filmik fitues, përkatësisht për refuzimin e miratimit. Njoftimi për miratimin e projektit fitues, me të dhënat identifikuese për paraqitësin e tij dhe për përbërjen e jurisë vlerësuese, publikohen në shtypin ditor dhe në faqen zyrtare të QKK në Internet.

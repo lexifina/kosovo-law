@@ -1,5 +1,0 @@
-# Article 16
-16.1.The CCK distributes relevant labels based on a submitted register with titles of works of film, and presented evidence within meaning of Article 13 of this Law, after the due compensation (further: tax) for the overall quantity of labels.
-16.2.The CCK distributes as many labels as is the quantity declared by the user, or distributor of videograms respectively, for putting into trade during the calendar year.
-16.3.Labels are distributed every calendar year continuously and are not valid after the end of previous year.
-16.4.The excess of published and undistributed labels during the calendar year, are disposed by the special CCK Committee and one representative of the Ministry of Culture is included in its composition. Disposal with the relevant data on serial sign and numerical quantity of the labels in excess shall be carried out until 15 January of the following year for the previous calendar year, and all members of Committee sign the minutes on disposal and they are retained as a financial document.

@@ -1,4 +1,0 @@
-# Neni 33
-33.1.Në përputhje me programin e aktiviteteve dhe potencialin financiar për vitin përkatës, jo më larg se dy muaj pas miratimit të mjeteve buxhetore, këshilli drejtues shpall konkurs për projekte filmike: për filma artistikë të metrazhit të plotë e të shkurtër, për filma dokumentarë dhe për filma vizatimorë të animuar.
-33.2.Të drejtë pjesëmarrjeje në konkurs kanë të gjithë personat juridikë, vendës ose të huaj të regjistruar në Kosovë si subjekt biznesi për prodhimin e filmit (producentët filmikë), si dhe kineastët me statusin e artistit të lirë, nëse me këtë ligj nuk përcaktohet ndryshe. Nuk kanë të drejtë pjesëmarrjeje në konkurs punëtorët e QKK dhe anëtarët e Këshillit drejtues.
-33.3.Procedurat e përzgjedhjes së projekteve rekomandohen nga këshilli drejtues, kurse miratohen nga ana e Ministrit .
