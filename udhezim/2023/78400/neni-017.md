@@ -1,0 +1,10 @@
+## KAPITULLI VII
+## OBJEKTIVAT PËR CILËSINË E TË DHËNAVE
+# Neni 17
+Objektivat për cilësinë e të dhënave për vlerësimin e cilësisë së ajrit
+1. Objektivat për cilësinë e të dhënave paraqiten në tabelën 1, të Shtojcës III të këtij Udhëzimi Administrativ.
+2. Pasiguria e shprehur në nëntëdhjetë e pesë (95)% e intervalit të besueshmërisë të metodave te vlerësimit vlerësohet në pajtueshmëri sipas principeve të CEN “Udhëzues lidhur me shprehjen e pasigurisë së matjeve” -ENV 13005-1999, metodologjia e ISO 5725-1994 dhe udhëzuesit të ofruar në raportet e CEN. ”Cilësia e ajrit – qasja për vlerësimin e pasigurisë për metodat referente të matjes për ajrin mjedisor”- CR 14377:2002E.
+3. Përqindjet e pasigurisë në tabelën 1 të Shtojcës III të këtij Udhëzimi Administrativ janë dhënë për matje individuale mesatare gjatë periudhës që konsiderohet si vlerë kufitare për vlerën e synuar në rast të ozonit, për nëntëdhjetë e pesë (95)% të intervalit të besueshmërisë. Pasiguria për matje fikse duhet të interpretohet si e aplikueshme në regjionin e vlerës kufitare të përshtatshme për vlerat e synuara të ozonit.
+4. Pasiguria për metodën e modelimit definohet si devijim maksimal i niveleve të përqendrimeve të matura dhe llogaritura për nëntëdhjetë (90)% të pikave individuale të monitorimit gjatë periudhës së shqyrtuar nga vlerat kufitare për vlerat e synuara në rastin e ozonit, pa marrë parasysh kohëzgjatjen e ndodhisë. Pasiguria për metodën e modelimit do të interpretohet si e zbatueshme në zonën e vlerës kufitare të përshtatshme për vlerën e synuar në rastin e ozonit. Matjet fikse që duhet të zgjedhen për krahasim me rezultatet e modelimit janë reprezentative për shkallën e mbulimit me metodën e modelimit.
+5. Pasiguria për vlerësim objektiv definohet si devijim maksimal i niveleve të matura dhe të llogaritura të përqendrimeve përgjatë periudhës që konsiderohet nga vlera kufitare, ose vlera e synuar për ozon pa e llogaritur kohëzgjatjen e ndodhisë.
+6. Kërkesat për marrjen minimale të të dhënave dhe kohëzgjatjen e matjeve nuk përfshijnë humbjet e të dhënave si rezultat i kalibrimeve të rregullta apo mirëmbajtjes normale të instrumenteve.

@@ -1,0 +1,9 @@
+# Neni 13
+Pozicionimi i mikronivelit për pikat monitoruese
+1. Kriteret e më poshtme duhet të zbatohen në shkallë më të lartë të zbatueshmërisë:
+1.1. Rrjedhja e ajrit përreth sondës hyrëse të aparatit të marrjes së mostrave duhet të jetë pa pengesa të jetë e lirë në hark prej dyqind e shtatëdhjetë (270º) ose njëqind e tetëdhjetë shkallë (180º) që do të ndikonte në rrjedhjen e ajrit në afërsi të aparatit të marrjes së mostrës,disa metra larg ndërtesave, ballkoneve, drunjëve dhe pengesave tjera dhe së paku zero pikë pesë (0.5)m larg ndërtesës më të afërt, në rastin kur pikat mostruese përfaqësojnë cilësinë e ajrit në linjën e ndërtesave;
+1.2. Në përgjithësi pika hyrëse e marrjes së mostrave të jetë midis një pikë pesë (1.5)m zona e frymëmarrjes dhe katër (4)m mbi tokë. Pozicionimi më i lartë mund të jetë gjithashtu i përshtatshëm nëse stacioni përfaqëson një zonë të madhe dhe çdo shmangie duhet të dokumentohet plotësisht.
+1.3. Sonda hyrëse nuk duhet të pozicionohet në afërsi të drejtpërdrejtë të burimit ndotës në mënyrë që të shmanget futja direkte e emisionit pa përzierje me ajrin mjedisor;
+1.4. Dalja e tubit të shkarkimit të aparatit të marrjes së mostrave duhet të pozicionohet në atë mënyrë që të shmanget riqarkullimi i ajrit shkarkues në lokacionin hyrës të mostrës;
+1.5. Për të gjithë ndotësit lokacioni i pikave mostruese për monitorimin e ndotjes nga trafiku duhet të jetë së paku njëzet e pesë (25)m nga skaji i udhëkryqeve kryesore dhe jo më shumë se dhjetë (10)m nga trotuari.
+2. Faktorët që duhet të merren në konsideratë për pozicionimin e mikronivelit për pikat mostruese janë: burimet interferuese, siguria, qasja, vënia në dispozicion e energjisë elektrike dhe komunikimi telefonik, dukshmëria e lokacioneve në varësi nga ambienti rrethues, siguria e publikut dhe operatorëve, preferenca e bashkëvendosjes së pikës së përzgjedhjes së mostrave për ndotësit e ndryshëm dhe kërkesat e planifikuara.
