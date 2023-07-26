@@ -1,0 +1,4 @@
+# Neni 9
+Verifikimi i reciprocitetit sipas legjislacionit të shtetit të huaj
+1. Pas marrjes së të dhënave nga legjislacioni i shtetit të huaj, së pari verifikohet se a mundet, sipas legjislacionit të atij shtetit, shtetasi apo personi juridik i Republikës e Kosovës, të fitojnë të drejtën e pronësisë mbi një pronë të njëjtë dhe që gjendet në zonë të njëjtë në këtë shtet, në mënyrën, procedurat dhe kushtet e kërkuara nga shtetasi i huaj.
+2. Nëse Ministria konstaton se një shtetas apo personi juridik i Republikës e Kosovës, mund të fitojë të drejtën e pronësisë mbi pronën e pa luajtshme të njëjtit lloj që ndodhen në të njëjtën zonë në vendin e të huajit, gjithashtu vlerëson se a përcakton legjislacioni i shtetit të huajt kushte të njëjta ose të ngjashme për fitimin e të drejtës pronësore, mbi të njëjtin lloj të pronës së paluajtshme që ndodhen në zonë të njëjtë.
