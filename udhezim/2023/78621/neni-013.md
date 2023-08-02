@@ -1,0 +1,4 @@
+# Neni 13
+Shenja e të dhënave konfidenciale
+1. Duke pasur parasysh se vendimi i Autoritetit mbi vlerësimin e lejimit të përqendrimeve publikohet, paraqitësi i kërkesës është i detyruar që çdo të dhënë, qartë dhe dukshëm të shënojë se a është fjala për të dhënat që aplikohet dispozita e fshehtësisë zyrtare dhe afariste nga neni 51 paragrafi 2 të Ligjit. E njëjta gjë vlen edhe për provat e bashkangjitura dhe dokumentet që paraqitësi i kërkesës ose ndërmarrësit tjerë ia parashtrojnë Autoritetit.
+2. Do të konsiderohet se mund të publikohen të gjitha të dhënat që në raport nuk janë shënuar në mënyrën e përshkruar në paragrafin 1 të këtij neni, si dhe të gjitha të dhënat që janë shënuar si sekrete siç është përcaktuar në paragrafin 1 të këtij neni, për të cilat Autoriteti ka gjetur se janë të publikuara ose të njohura botërisht.

@@ -1,0 +1,3 @@
+# Neni 1
+Qëllimi
+Qëllimi i këtij Udhëzimi Administrativ është përcaktimi i procedurës për paraqitjen e Kërkesës së Përqendrimit, përmbajtjen e kërkesës dhe formën e dokumenteve, si dhe të dhënat që paraqitësi i kërkesës duhet të dorëzojë me formular, përmbajtjen e njoftimit të blerjes së aksioneve, kompanive të sigurimit dhe institucionet e tjera financiare, si dhe kriteret për vlerësimin e përqendrimit në procedurën e kryer nga Autoriteti për Mbrojtjen e Konkurrencës (në tekstin e mëtejmë: Autoriteti) në bazë të dispozitave të Ligjit për Mbrojtjen e Konkurrencës (në tekstin e mëtejmë: Ligji).
