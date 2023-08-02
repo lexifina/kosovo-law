@@ -1,0 +1,11 @@
+# Neni 2
+Përkufizimet
+1. Në këtë Udhëzim, shprehjet në vijim kanë kuptimet:
+1.1. Gjobë - nënkupton gjobën e shqiptuar nga Autoriteti ndaj ndërmarrjes për shkelje të nenit 5 të Ligjit për Mbrojtjen e Konkurrencës (në tekstin e mëtejmë - LMK), siç është specifikuar në nenin 57, paragrafi 1, nën paragrafi 1.1 të LMK.
+1.2. Marrëveshjet e ndaluara (kartelet) - nënkupton një marrëveshje ose praktikë të bashkërenduar ndërmjet dy ose më shumë ndërmarrjeve, që synojnë të koordinojë sjelljet e tyre konkurruese në treg, ose të ndikojë në parametrat përkatës të konkurrencës me anë të praktikave të tilla, por pa u kufizuar në fiksimin ose koordinimin e çmimeve të blerjes ose shitjes, ose edhe të kushteve tjera tregtare, duke u përfshirë në lidhje me të drejtat e pronësisë intelektuale, shpërndarjen e kuotave të prodhimit ose shitjes, ndarjen e tregjeve dhe klientëve, përfshirjen dhe manipulimin me oferta, kufizimet e importeve dhe eksporteve, ose veprimet anti-konkurruese kundër konkurrentëve të tjerë.
+1.3. Iniciatori - nënkupton ndërmarrjen e cila ka organizuar dhe drejtuar kryerjen e aktivitetit kartel. Ndërmarrjet të cilat janë angazhuar në bisedime ose kanë bërë thirrje për bashkim në kartel, nuk do të konsiderohen iniciator të kartelit në kuptim të këtij Udhëzimi.
+1.4. Nxitësi - nënkupton ndërmarrjen e cila në mënyrë aktive inkurajon ndërmarrjet tjera ose konkurrentët e tyre për tu bashkangjitur në kartel, veçanërisht me anë të detyrimit apo kërcënimit, të drejtpërdrejtë apo të tërthortë.
+1.5. Kërkesë - nënkupton kërkesën për lirim ose zvogëlim të gjobës e cila dorëzohet në Autoritet, nga ndërmarrja pjesëmarrëse në kartel, në përputhje me LMK dhe këtë Udhëzim.
+1.6. Shënues - rezervimi i mundësisë që një ndërmarrje të futet në radhën për përjashtim nga gjoba, pas paraqitjes së kërkesës dhe mbledhjes së informacioneve e provave të mjaftueshme, për të përmbushur kushtet për përjashtim nga gjoba.
+1.7. Deklarata e ndërmarrjes - nënkupton prezantimin me gojë ose me shkrim të ofruar vullnetarisht nga ndërmarrja pjesëmarrëse në kartel për Autoritetin, duke përshkruar njohuritë dhe rolin e saj në kuadër të kartelit, prezantim ky i cili është hartuar posaçërisht për t'iu dorëzuar Autoritetit, me synim për të përfituar nga lirimi ose zvogëlimi i gjobës.
+2. Shprehjet tjera në këtë Udhëzim, korrespondojnë me përkufizimet e përdorura në LMK.

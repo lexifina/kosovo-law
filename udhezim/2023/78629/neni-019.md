@@ -1,0 +1,4 @@
+# Neni 19
+Vendimi për uljen e gjobës
+1. Nëse ndërmarrja e cila ka siguruar uljen e kushtëzuar të gjobës sipas nenit 18 të këtij Udhëzimi si dhe i plotëson kushtet e nenit 15 të këtij Udhëzimi gjatë gjithë procedurës në Autoritet, atëherë Autoriteti do t'i autorizojë ndërmarrjes uljen e gjobës në vendimin e miratuar sipas nenit 55, paragrafi 1, nën paragrafi 1.1 të LMK. Masa specifike e uljes së gjobës do të përcaktohet duke pasur parasysh kushtet e përcaktuara në nenin 17 të këtij Udhëzimi.
+2. Nëse ndërmarrja e cila ka siguruar uljen e kushtëzuar të gjobës sipas nenit 18 të këtij Udhëzimi dhe në cilën do kohë gjatë procedurës në Autoritet, shkelë ndonjë nga kushtet e nenit 15 të këtij Udhëzimi, Autoriteti do ta revokojë uljen e kushtëzuar të gjobës dhe do ta njoftojë me shkrim menjëherë ndërmarrjen në lidhje me këtë.
