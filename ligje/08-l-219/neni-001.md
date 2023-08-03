@@ -1,0 +1,3 @@
+# Neni 1
+Qëllimi
+Ky Ligj ka për qëllim ndryshimin dhe plotësimin e Ligjit Nr. 04/L-054 për statusin dhe të drejtat e dëshmorëve, invalidëve, veteranëve, pjesëtarëve të Ushtrisë Çlirimtare të Kosovës, viktimave civile dhe familjarëve të tyre, i ndryshuar dhe plotësuar me Ligjin Nr. 04/L-172 për statusin dhe të drejtat e dëshmorëve, invalidëve, veteranëve, pjesëtarëve të Ushtrisë Çlirimtare të Kosovës, viktimave të dhunës seksuale të luftës, viktimave civile dhe familjarëve të tyre (ligji bazik), me qëllim të zgjatjes së afatit për përfitimin e statusit të viktimës së dhunës seksuale gjatë luftës.
