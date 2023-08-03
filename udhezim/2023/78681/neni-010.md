@@ -1,0 +1,6 @@
+# Neni 10
+Kontrolli i cilësisë së mjaltit, prodhimeve të mjaltit dhe prodhimeve tjera bletare
+1. Për të përcaktuar përshtatshmërinë e mjaltit, prodhimeve të mjaltit dhe prodhimeve tjera bletare me standardet e cilësisë së kërkuar sipas këtij udhëzimi administrativ, për qëllim të kontrollit zyrtar, përdoren dhe vlejnë metodat e njohura analitike, metodat ndërkombëtarisht të miratuara nga Bashkësia Europiane dhe Codecs Alimentarius: PSO 7.2.K-26; PSO 7.2.K-27; DIN 10750; DIN 10759:2016-12; DIN 10753:2000-12; DIN 10743:2013-05 dhe DIN 10751-3:2000-02 dhe metodat e njohura nga institucionet vendore për standardizim.
+2. Metodat e njohura ndërkombëtarisht për kontrollin e parametrave fizik, kimik dhe biologjik të mjaltit, prodhimeve të mjaltit dhe prodhimeve tjera bletare janë përcaktuar në Shtojcën 4 të këtij udhëzimi administrativ.
+3. Analizat për kontrollin zyrtarë të cilësisë dhe sigurisë së mjaltit, prodhimeve të mjaltit dhe prodhimeve tjera bletare merren nga Agjencioni i Ushqimit dhe Veterinarisë.
+4. Proceduarat e marrjes së mostrave dhe ruajtjes së rezultateve të analizave bëhet sipas legjislacionit përkatë në fuqi për proceduarat e marrjes së mostrave zyrtare dhe ruajtjes së rezultateve të analizave.
