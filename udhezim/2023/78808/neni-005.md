@@ -1,0 +1,5 @@
+# Neni 5
+Pranimi i rezultatëve
+1. Nëse kërkesa për Drejtat e Seleksionuësit të Bimëve apo Listën Kombëtare të Kosovës tregon se testi i DUS-it është kryer, Departamenti aplikon për rezultatet e testit DUS në instuticionin përkatës (UPOV) për testim sipas formës së përcaktuar në Shtojcën 1 të këtij Udhëzimi Administrativ.
+2. Departamenti i pranon rezultatet e testit DUS, të kryer në një vend tjetër i cili ka kushte agroklimatike të krahasueshme dhe me kusht që ekzaminimi është kryer sipas standardeve ndërkombëtare si dhe sistemin informativ të UPOV - detabaza GENIE apo në detabazen e Zyrës së Komunitetit të Varieteteve të Bimëve (ZKVB) nëse thuhet se vendi ku është kryer testi DUS ka përvojë në testimin e species në fjalë.
+3. Pas pranimit të raportit përfundimtar mbi vlerësimin teknik, Departamenti merr vendimin lidhur me dhënen e së Drejtës së Seleksionuesit të Bimëve në pajtim me dispozitat e Ligjit nr.02/L-98 për mbrojtjen e varieteteve të bimëve dhe e informon aplikuesin për vendimin e marrë.
