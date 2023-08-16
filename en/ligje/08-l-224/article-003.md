@@ -1,0 +1,6 @@
+# Article 3
+1. After paragraph 1. sub-paragraph 1.7 of Article 10 of the Basic Law, two sub-paragraphs shall be added with the following text:
+1.8. for the primary residence, up to the first thirty thousand (30,000) Euros of the ap praised property of the natural person who decides by November 30 of the year before the tax year that the building unit serves as the primary residence and declares this in the municipality, or during the inspection phase; and
+1.9. for agricultural land, up to the first fifty thousand (50,000) Euros of the property ap praised as an agricultural unit of the natural person who decides by November 30 of the year before the tax year for which agricultural unit requests the exemption, and declares this in the municipality or during the inspection phase.
+2. Paragraphs 4. and 5. of Article 10 of the Basic Law shall be deleted, and a new paragraph is placed with the following text:
+4. the tax exemptions defined by sub-paragraphs 1.8 and 1.9 of paragraph 1. of Article 10 are applied only once within the tax year for each taxpayer, regardless of the number of properties and/or possessions of the taxpayer, and regardless of the fact that the units may be located in different municipalities.
