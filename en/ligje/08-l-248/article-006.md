@@ -1,0 +1,4 @@
+# Article 6
+Abrogation of legal provisions
+1. By this law sub-paragraph 7., of sub-paragraph 3., of paragraph 2. of Article 6 of the Adminis trative Instruction (MLSW) No.09/2015 on Categorization of Beneficiaries of Contribute Paying Pensions according to Qualification Structure and Duration of Payment of Contributions - Pen sion Experience shall be abrogated, as well as any other legal provision that is in contradiction with this law.
+2. The remaining part of the Administrative Instruction (MLSW) No.09/2015 on Categorization of Beneficiaries of Contribute Paying Pensions according to Qualification Structure and Dura tion of Payment of Contributions - Pension Experience shall continue to be implemented to the extent that it is not in contradiction with this Law and/or until it is not repealed by any other sub-legal act.
