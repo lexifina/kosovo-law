@@ -1,9 +1,0 @@
-# Neni 10
-10.1. Institucioni parashkollor e ushtron veprimtarinë e vet në bazë të planit dhe programit të punës, i cili bëhet për një vit shkollor dhe zgjat, nga 1 shtatori i vitit vijues deri më 31 gusht të vitit të ardhshëm.
-10.2. Planin dhe programin vjetor të punës për një vit shkollor e bie këshilli drejtues i institucionit parashkollor më së largu deri më 31 gusht.
-10.3. MASHT nxjerr udhëzim administrativ lidhur me këshillin drejtues, përbërjen dhe kompetencat e tij.
-10.4. Plani vjetor i punës përfshin programet edukative, programet e mbrojtjes shëndetësore të fëmijëve, të higjienës dhe ushqimit, të kujdesit shoqëror si dhe programet tjera të cilat institucioni parashkollor i realizon në marrëveshje me prindërit e fëmijëve.
-10.5. Organizimi dhe komponentet e detajizuara të jetës në institucionet parashkollore do të përcaktohen nga plani vjetor i punës, i miratuar nga këshilli drejtues i institucionit parashkollor në bashkëpunim me këshillin e prindërve.
-10.6. Plani vjetor i punës do të përcaktojë organizimin e institucionit dhe orët e punës, programet, edukimin dhe kujdesin për fëmijët (në kujdesin familjar të fëmijëve), vendosjen e fëmijëve në grup mosha, punën e profesionalistëve dhe personelin tjetër në institucion, bashkëpunimin me prindërit për edukimin dhe kujdesin, shëndetin dhe ndihma të tjera, mbikëqyrje të edukatorëve fillestar, relacionet e komunitetit, bashkëpunimin me personelin trajnues të institucionit parashkollor në fushën e edukimit parashkollor, programet e avancimit të personelit, programet e punës të institucionit për trupin profesional dhe personelin tjetër, si dhe dinamikën e veprimtarisë edukative, nevojat materiale dhe të tjera për realizimin e procesit edukativ.
-10.7. Zbërthimi i detyrave të dhëna në paragrafin dy dhe detyrave tjera rregullohet me udhëzim administrativ.
-Prezantimi i plan programeve parashkollore
