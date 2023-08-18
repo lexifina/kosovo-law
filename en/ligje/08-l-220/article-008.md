@@ -1,0 +1,7 @@
+# Article 8
+Pricing methodology
+1. The external reference pricing methodology shall be the basis for determining the price of medicinal products.
+2. The sources of data regarding the wholesale price of medicinal products shall be the publi cations of the latest official reports of the time, the official web portal of the responsible official institutions of these reference countries: Albania, North Macedonia, Montenegro, Croatia and the country of origin.
+3. In the absence of the price of the product from the countries referred to in paragraph 2. of this Article, the source of data regarding the wholesale price of medicinal products shall be the pub lications of the latest official reports of the time, the official web portal of the responsible official institutions of these reference countries: Slovenia, Estonia, Bulgaria and the country of origin.
+4. In the event of impossibility to obtain information through the source of information defined in this Law, then the information will be obtained through official channels from the states specified in paragraph 2. and 3. of this Article.
+5. In the event that the price declared by the marketing authorization holder, or the representa tive of the marketing authorization holder for the territory of the Republic of Kosovo, is equal to or lower than the price calculated by the Commission, then the declared price shall become the mandatory price for sales in Kosovo.

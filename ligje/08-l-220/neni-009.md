@@ -1,0 +1,17 @@
+## KAPITULLI III
+## PËRCAKTIMI I ÇMIMIT TË PRODUKTEVE MEDICINALE TEK QARKULLUESIT ME
+## SHUMICË DHE PAKICË
+# Neni 9
+Kalkulimi i çmimeve me shumicë
+1. Baza për çmimin me shumicë të produktit medicinal do të jetë çmimi i produktit medicinal individual, me të njëjtin emër të pambrojtur ndërkombëtar, prodhues identik, formë identike farmaceutike, fortësi identike dhe numër i njëjtë i njësive të vetme në një paketim me vendet të përcaktuara në nenit 8 të këtij ligji.
+2. Në rast se një bartës i autorizim marketing ka përcaktuar një emër tjetër të mbrojtur në vende të ndryshme atëherë krahasimi bëhet sipas të njëjtit produkt medicinal të atij bartësi të autorizim marketingut pavarësisht emrit të mbrojtur që mund të jetë i ndryshëm.
+3. Në rast të formës së ndryshme farmaceutike, forma të ngjashme (p.sh. tabletë - drazhe, tabletë – kapsulë) mund të merren për krahasim. Megjithatë, produktet me lirim të modifikuar nuk mund të barazohen me forma me lirim të menjëhershëm.
+4. Në rast të numrit të ndryshëm të njësive apo vëllimit për paketim në mes të shtetit/eve referent/e dhe paketimit për të cilin aplikohet, për bazë krahasimi do të merret kalkulimi i bazuar në njësi. Do të merret parasysh paketimi me numrin më të afërt të njësive në paketim të atij produkti në shtetet e referencës. Së pari, do të llogaritet çmimi i referencës për njësi, të produktit medicinal, i cili pastaj shumëzohet me numrin e njësive për paketimin që aplikon.
+5. Çmimi i produktit medicinal përcaktohet duke kalkuluar çmimin mesatar me shumicë të dy çmimeve më të ulëta të atij produkti nga shtetet referente të përcaktuara në paragrafin 2, të nenit 8 të këtij ligji.
+6. Në rast se çmimi i një produkti gjendet vetëm në një nga shtetet e përcaktuara në paragrafin 2 të nenit 8 të këtij ligji atëherë çmimi do të merret për bazë me kusht që nuk është më i lartë se mesatarja e dy çmimeve më të ulëta të atij produkti nga shtetet e përcaktuara në paragrafin 3 të nenit 8 të këtij ligji.
+7. Në rast se çmimi me shumicë i produktit medicinal të deklaruar nuk mund të sigurohet në asnjë prej shteteve referente të përcaktuara në këtë Ligj, por nëse në ndonjërin nga shtetet e BE çmimi i produktit është më i lirë se çmimi i deklaruar nga bartësi i autorizimit për marketing ose nga përfaqësuesi i autorizuar i bartësit të autorizimit për marketing, atëherë si çmim referent merret ai çmim.
+8. Në qoftë se çmimi mesatar me shumicë i produktit nga shtetet referente të përcaktuara në paragrafin 2 të nenit 8 të këtij ligji nuk arrin të sigurohet, atëherë përdoret çmimi mesatar me shumicë i të dy çmimeve më të ulëta të produkteve nga shtetet referente të përcaktuara në paragrafin 3 të nenit 8 të këtij ligji.
+9. Çmimi referent me shumicë i produktit medicinal në euro do të llogaritet duke përdorur kursin ditor të këmbimit të Bankës Qendrore në Kosovë të valutës përkatëse.
+10. Pjesë përbërëse e çmimit me shumicë është vlera e marzhës të qarkullimit me shumicë dhe shpenzimeve të tjera vartëse jo më shumë se 7.5% që llogaritet duke i shtuar çmimit të importit CIP, marzhin e qarkullimit me shumicë dhe shpenzimet e ndërlidhura, por jo më shumë se sa vlera e kalkuluar sipas paragrafëve 5, 6, 7 apo 8 të këtij neni.
+11. Për produkteve medicinale pa Autorizim për Marketing që importohen sipas legjislacionit përkatës përcaktimi i çmimit bëhet duke i shtuar çmimit të importit CIP, marzhin e qarkullimit me shumicë dhe shpenzimet e ndërlidhura në vlerë jo më shumë se 7.5%.
+12. Importuesi obligohet të deklarojë çmimin gjatë aplikimit për Leje Importi.

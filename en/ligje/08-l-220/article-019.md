@@ -1,0 +1,4 @@
+# Article 19
+1. Entities that already have marketing authorization shall, within three (3) months from the entry into force of the Law, make the price declaration.
+2. For the cases of medicinal products that before the entry into force of this Law were in circu lation without Marketing Authorization and Limited Authorization and that are allowed to be in circulation according to the legal acts in force, the price declaration procedure shall be carried out according to the decision of the Commission and in accordance with the provisions of this Law within a limited period of six (6) months.
+3. Within six (6) months from the entry into force of this Law, each entity must have had applied to all the products available the prices according to the official list of wholesale and retail prices of medicinal products published by the Ministry.
