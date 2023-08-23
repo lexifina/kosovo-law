@@ -1,4 +1,0 @@
-# Article 39
-39.1 Any health institutions or health employees who while performing their regular activities detect any infectious diseases are obliged to take the specific measures for preventing and fighting the further infection spreading and most necessary anti-epidemic and hygienic measures conditioned from disease nature and other persons by their environment for the protection manner from this infection.
-39.2 Any health institution is obliged to ensure the sanitary and other conditions and apply the respective technical-sanitary, hygienic sanitary, organizational measures and responsibilities for protection from infection within the institution itself.
-39.3 Any health institution, under its general legal act, in conformity with the approved dispositions based on this Law, determines the measures, obligations, and responsibilities for protection from the infection in view of paragraphs 1 and 2 of this article.

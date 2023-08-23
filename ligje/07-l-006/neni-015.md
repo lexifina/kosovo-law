@@ -1,7 +1,0 @@
-# Neni 15
-Bashkëpunimi me nivelin komunal 1. Ministria e Shëndetësisë dhe IKSHK obligohen të informojnë, rregullisht nivelin komunal për masat parandaluese dhe situatën me pandeminë COVID-19.
-2. Çdo Komunë e Republikës së Kosovës informohet me strategjinë, masat parandaluese të miratuara nga IKSHPK dhe MSH, si dhe për personat e testuar, raste negative dhe pozitive, rastet e dyshuara, rastet e kontaktit dhe personat e shëruar në territorin e komunës të përcaktuara sipas ligjit për vetëqeverisje lokale.
-3. Niveli lokal është i obliguar të zbatojë strategjinë, masat për parandalim, menaxhim dhe kontroll të pandemisë COVID-19 si dhe të mbështes nivelin qendrorë, institucionet shëndetësore dhe punonjësit shëndetësorë për zbatimin e masave për parandalimin dhe luftimin të COVID-19.
-4. Qeveria e Kosovës me vendim themelon Komitetin për koordinimin dhe vlerësimin e situatës me pandeminë COVID-19 dhe obligon që të themeloj komunat nen komitete komunale me qëllim të parandalimit dhe luftimit të pandemisë.
-5. Qeveria e Kosovës obligohet që të mbështesë komunat me masat mbrojtëse dhe mjete financiare në betejën kundër pandemisë COVID-19.
-6. Bazuar në strategjinë, protokollet e miratuara për parandalim, menaxhim dhe kontroll të pandemisë COVID-19, komunat e Kosovës janë të obliguara që të përgatisin plan-veprimin për identifikimin dhe trajtim të pacientëve me COVID-19 , duke siguruar medikamentet dhe bazën materiale të nevojshme.

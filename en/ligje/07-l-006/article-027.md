@@ -1,4 +1,0 @@
-# Article 27
-Cross-border movement 1. A person entering in the territory of the Republic of Kosovo legally and does not declare the country of origin he/she comes and does not act according to the instructions of the competent bodies or refuses to be subject of compulsory medical examination and isolation or quarantine, shall be punished by fine of five hundred (500) euros.
-2. A person entering illegally in the territory of the Republic of Kosovo and does not declare himself/herself and is not subject to compulsory medical examination and isolation or mandatory quarantine, shall be punished with fine of five hundred (500) euros as an additional measure in addition to the legal measures for illegal border crossing provided by the legislation in force.
-LAW NO. 07/L-006 ON PREVENTING AND COMBATING COVID-19 PANDEMICS IN THE TERRITORY OF THE REPUBLIC OF KOSOVO

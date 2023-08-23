@@ -1,3 +1,0 @@
-# Article 2
-Scope 1. This law defines responsibilities and the role of state institutions, public, private and public- private health institutions in taking measures to prevent, control, treat, monitor, provision of funding and share of responsibilities during the COVID-19 pandemics.
-2. This law defines measures and sanctions that will be taken against natural and legal persons, citizens of the Republic of Kosovo or foreign citizens residing in the Republic of Kosovo, who violate the rules, decisions and instructions issued by competent authorities throughout the duration of infection period, pandemics caused by COVID-19.

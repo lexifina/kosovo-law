@@ -1,8 +1,0 @@
-# Neni 9
-Njoftimi dhe raportimi për COVID-19 1. Çdo institucion publik apo jopublik është i obliguar të raportojë në IKSHPK apo institucion të përcaktuar nga MSH rastet e dyshuara apo të identifikuara me COVID-19.
-2. IKSHPK është institucioni përgjegjës, i cili përcakton standardet e raportimit, harton udhëzimin kombëtar dhe koordinon veprimet në këtë fushë, në të gjithë vendin.
-3. IKSHPK komunikon dhe raporton në Organizatën Botërore të Shëndetësisë në lidhje me pandeminë COVID-19.
-4. Çdo institucion publik dhe privat është i obliguar të raportoj në IKSHPK rastet e sëmundjes, infeksionit me COVID-19.
-5. Raportimi dhe njoftimi përfshin informacionin e caktuar sipas standardeve të miratuara nga IKSHPK, raportimi kryhet brenda 24-48 orëve, duke filluar që nga momenti i paraqitjes pranë mjekut, por, nëse mjeku e konsideron rastin urgjent, raportimi dhe njoftimi kryhen edhe me gojë dhe sa më shpejt të jetë e mundur, sipas mjeteve përkatëse dhe praktike të komunikimit. Raportimi i vdekjes nga COVID-19 kryhet brenda 24-48 orëve sipas standardeve të raportimit të miratuar nga IKSHPK.
-LIGJI NR. 07/L-006 PËR PARANDALIMIN DHE LUFTIMIN E PANDEMISË COVID-19 NË TERRITORIN E REPUBLIKËS SË KOSOVËS 6. IKSHPK ka për detyrim që të raportoj në komunikim zyrtar raste pozitive me COVID-19 me institucionet tjera të nivelit qendror dhe lokal. Lista e rasteve të testuara dhe të diagnostifikuar çdo 24 orë i dërgohet komunave dhe organizatave punonjëse ku ushtron veprimtarinë personi i dyshuar apo pozitiv me COVID-19, si dhe rastet e shëruara.
-7. IKSHPK me listën e dërguar në institucionet tjera, mund të dërgoj edhe masa dhe rekomandime të tjera për rastet pozitive me COVID-19.

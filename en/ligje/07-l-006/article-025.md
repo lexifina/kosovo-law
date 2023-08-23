@@ -1,4 +1,0 @@
-# Article 25
-Certain activities in public and private environments 1. Legal entity that organizes activities prohibited by a decision of the competent body shall be punished with fine of two thousand (2000) Euros and the prohibition of activity, while the responsible person of the legal entity shall be punished with a fine of two thousand (2000) Euros.
-LAW NO. 07/L-006 ON PREVENTING AND COMBATING COVID-19 PANDEMICS IN THE TERRITORY OF THE REPUBLIC OF KOSOVO 2. A natural person who organizes public and non-public activities prohibited by a decision of the competent body shall be punished with fine of two hundred (200) euros and by prohibition of the activity.
-3. The entry of unauthorized natural persons in special premises including but not limited to: isolation facilities or public, private quarantine, health facilities, where the entry/exit is prohibited without a special decision, shall be punished by a fine of one hundred (100) euros.

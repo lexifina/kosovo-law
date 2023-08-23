@@ -1,3 +1,0 @@
-# Neni 6
-6.1 Masat për parandalimin dhe luftimin e sëmundjeve ngjitëse që mund të kalojnë nga kafshët në njerëz, i zbatojnë institucionet shëndetësore, ISK në bashkëpunim me institucionet veterinare që kanë të bëjnë me njoftimin reciprok për shfaqjen dhe përhapjen e këtyre sëmundjeve dhe me organizimin e zbatimin e masave kundërepizootike, kundërepidemike, higjienike dhe masave tjera për parandalimin, përkatësisht luftimin e sëmundjeve të veçanta sipas dispozitave të këtij ligji dhe Ligjit për inspektoratin sanitar të Kosovës Nr. 2003/22.
-6.2 IKSHP hulumton, studion dhe analizon situatën epidemiologjike të vendit dhe përcakton strategjinë për përmirësimin e vazhduar të saj.

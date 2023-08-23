@@ -1,2 +1,0 @@
-# Article 40
-Any resident, organization or other institution are obliged to enable the competent administration authorities, health institutions and health employees to conduct the unforeseen sanitary controls of persons, buildings and products control, get sufficient material for control and undertake other foreseen measures, respectively specified for prevention or fighting against the infectious diseases.

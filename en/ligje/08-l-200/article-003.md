@@ -1,0 +1,62 @@
+# Article 3
+Definitions
+1. Terms used in this Law shall have the following meaning:
+1.1. Infectious agent - any microorganism, such as viruses, prions, bacteria, parasites and mosses that cause infectious diseases in the host;
+1.2. Epidemiological survey – a field research consisting of active systematic collection of data on the suspected case, environmental factors of interest for a particular health is sue. It starts with descriptive epidemiological data, collected routinely and with additional field research through the epidemiological questionnaire;
+1.3. Anthropozonosis (zoonosis) –animal infectious diseases which in specific circum stances affect the human organism;
+1.4. Disease burden -the weight that an infectious disease occupies in the population, including health consequences, socio-economic cost and health costs;
+1.5. Source of infection - the object that serves as a natural place for the occurrence and multiplication of microbes and from where they, being extracted in various ways in the external environment, infect other receptive persons. The only source of infection is humans or animals during incubation, clinical manifestations, reconvalescence, in latent or inapparent form, as well as healthy or diseased, acute and chronic microbe carriers;
+1.6. Specific health issues - include Patient safety infections during health care and antimicrobial resistance;
+1.7. DDD - Disinfection, Disinsectization and Deratization;
+1.8. Deratization – the extermination of the transmissible caustic of the infectious dis ease causer bearers through mechanical, chemical and biologic method;
+1.9. Disinfection – extermination of the infectious agents outside the human organism through mechanical, physical and chemical methods on the surfaces of objects, in addi tion to bacterial spores;
+1.10. Disinsectization – destruction of vectors (insects) carrying the causes of infectious diseases through physical, chemical and biological methods;
+1.11. Damage - damage to the structure or functions of the body and / or any harmful effects arising from them;
+1.12. ECDC – European Centre for Disease Prevention and Control;
+1.13. Undesirable effect - a reaction which occurs after receiving the vaccine for up to thirty (30) days;
+1.14. Elimination of the disease - removal of the disease and its consequences in a certain place, as a result of public health efforts;
+1.15. Endemic – a constant presence of the infectious disease of the infectious agent in a specific geographic region or population which in particular circumstances erupts into an epidemic;
+1.16. Epidemic –emergence of two or more cases of the infectious diseases connected in time and territory or an enormous increase in the number of disease cases which is considered unusual in terms of number, time, place and population affected or an unu sual increase in the number of diseases with complications or death as well as the ap pearance of a large number of diseases the cause of which is unknown;
+1.17. Eradication of the disease - the extinction of the disease, its cause and conse quences, in a certain place, as a result of public health efforts;
+1.18. Tracking contacts - a measure implemented to investigate persons who have been exposed to a source of infection or a serious threat to health, domestically or across borders, and who are at risk of having or developing a disease;
+1.19. Food hygiene - the necessary hygienic measures and conditions of food to control the risk and ensure its suitability for human consumption in accordance with its destina tion.
+1.20. Immunoprophylaxis – prevention of infectious disease through vaccines;
+1.21. Infection – penetration and multiplication of various microbial agents in human organism, without developing the clinical screening of the contagious disease;
+1.22. Other significant infection - an infection, which is not part of the list of compulso rily reportable diseases, which according to the relevant doctor or qualified health worker, present or may present significant damage to human health;
+1.23. Health-related infections - are diseases or pathologies caused by the presence of an infectious agent or its products, in connection with and as a result of exposure to health care institutions, health care procedures or treatments;
+1.24. Incubation - the time interval from the introduction of microorganisms in the human body to the appearance of signs of disease;
+1.25. Invasion or colonization - is the entry and multiplication of the biological agent in the host organism, without developing signs of disease, through various routes of trans mission;
+1.26. Isolation – is an anti-epidemic measure, the purpose of which is to separate in fected people from healthy ones to prevent the spread of infection;
+1.27. Quarantine - the restriction of the movements of healthy people who have been in contact with the sick or the source of infection of infectious diseases and which requires their stay in a certain environment;
+1.28. Serious cross-border health threat - a life-threatening or serious health hazard of biological, chemical, environmental or unknown origin that spreads or poses a risk of spreading beyond national borders and that may require regional coordination to ensure a high level of human health protection;
+1.29. Chemoprophylaxis – the prevention of infectious disease through drugs;
+1.30. Contamination - any type of contamination, including microbiological, chemical and radiation, with or without signs of disease;
+1.31. Disease control - the reduction of morbidity or mortality as a result of efforts to minimize the damage caused to the population;
+1.32. Diagnostic laboratory - a unit that has human capacity, equipped with equipment and reagents, which make it possible to perform diagnostic tests for infections in humans;
+1.33. Public health measure - a decision or action, which aims to prevent, monitor, or control the spread of disease or contamination with an infectious agent, dealing with seri ous risks or reducing their impact on public health;
+1.34. Epidemiological surveillance - the systematic collection, recording, analysis, in terpretation and dissemination of data and analysis on infectious diseases and other related health issues;
+1.35. Microbe carrier - a human, animal, including birds, etc., that harbors and secretes infectious agents, in the absence of clinical signs of disease, and serves as a potential source for the spread of disease;
+1.36. Monitoring - the continuous observation, detection or review of changes in a condi tion, situation or activity, with continuous function by making systematic data collection and analysis on specific indicators, associated with infectious agents or serious national, cross-border and international health threats;
+1.37. Sick person – a person affected by an infectious disease;
+1.38. Pandemic - a serious national and transboundary threat to health, is a life or health threat, of biological, chemical, environmental and unknown origin, which spreads or pos es a potential risk of spreading within the country and beyond national borders and that, to ensure a high level of human protection, there is a need for coordination at national, regional and international levels;
+1.39. Disease prevention - the set of measures aimed not only at preventing the onset of the disease, but also at stopping the progression and reducing its consequences, in case of its occurrence;
+1.40. Case definition - a set of common diagnostic criteria, which must be met in order to accurately identify the disease, cases of disease or serious cross-border health threats, in a given population, while excluding other cases of disease and threats not related to them;
+1.41. Prophylaxis – prevention of the occurrence of infectious disease through vaccines, serums and drugs;
+1.42. Infectious diseases reporting - the notification of the relevant health authorities for the suspected, possible or confirmed case of infectious diseases;
+1.43. Sporadic cases - are cases of infectious diseases presented in a territory, but not related in time;
+1.44. The route of transmission - the route of transmission of the infectious agent from the source to the host, directly or indirectly, from a sick person or microbe carrier to a healthy person, as well as from animals and their products to humans;
+1.45. Seroprophylaxis - prevention of infectious disease through serums;
+1.46. Serum - immunobiological preparations containing ready-made antibodies;
+1.47. Infectious disease - an infectious disease caused by an infectious agent, which is transmitted from person to person, through direct contact with an infected person or indirectly, through exposure to a vector, animal, surface, contaminated object, product, environment or bodily fluid exchange in the presence of infectious agent;
+1.48. Patient safety - the protection of the patient from possible harms related to health care;
+1.49. Alerting - the surveillance system, based on one or two signs of illness;
+1.50. Early and rapid warning system - a system of surveillance, which operates in real time and collects information about diseases that cause epidemics, in order to take immediate and real-time public health measures;
+1.51. EWS - Early warning system;
+1.52. Safe food - food suitable for the needs of people, food which can not adversely affect human health;
+1.53. Vaccine – an immunobiological preparation that contains infectious disease agents that stimulate the production of antibodies after injection;
+1.54. Focus of infection - a territory characterized by the presence of the source of infection (human or animal) and favourable environmental factors for the spread of infec tion;
+1.55. Surveillance – a health follow-up of contacts, for a period as long as that of the incubation of the disease, in order to identify new cases in time;
+1.56. Cold chain - a set of equipment, materials, procedures for securing the storage, and transportation of vaccines as well as other immunobiological products under the conditions specified by the manufacturer and the responsible trained persons;
+1.57. Biosafety- is used to describe the safety principles, technologies and rules to be followed up in order to prevent the non-deliberate expose to the pathogen agents and toxins or their accidental launch into the environment;
+1.58. Biosecurity- refers to the security measures taken at institutional and personal level with the purpose of preventing the diversions/attempted attacks or deliberate launch or deviation of pathogens and toxins as well as for preventing their steal or misuse;
+1.59. One Health - is a unified approach that determines that the health of people is closely connected to the health of animals and our shared environment.

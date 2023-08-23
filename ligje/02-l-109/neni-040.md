@@ -1,2 +1,0 @@
-# Neni 40
-Çdo banorë, organizatë apo institucion tjetër kanë për detyrë që t’u mundësojnë organeve kompetente të administratës, institucioneve shëndetësore dhe punëtorëve të shëndetësisë që ti ushtrojnë kontrollet e paparashikuara sanitare të personave, kontrollet e ndërtesave dhe produkteve, të marrin material të nevojshëm për kontroll dhe të ndërmarrin masa të tjera të parashikuara, përkatësisht të caktuara për parandalimin ose për luftimin e sëmundjeve ngjitëse.
