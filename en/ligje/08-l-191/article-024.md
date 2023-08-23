@@ -1,0 +1,7 @@
+# Article 24
+Appointment of commissions and their proceedings
+1. Upon receiving a motion from a relevant institution, but not later than thirty (30) days from the receipt of such motion, the Ministry shall render a decision to initiate disciplinary proceedings, thereby duly notifying party that is subject to disciplinary proceedings.
+2. The Ministry shall appoint a Disciplinary Commission, which consists of two (2) representa tives of the Ministry and one (1) substitute member, with a two (2) year term, with a possibility of extension. A third member shall be appointed ad-hoc from amongst experts in the same field of expertise with the expert subject to disciplinary proceedings.
+3. The Minister shall also appoint an Appeals Commission, which consists of one (1) repre sentative from the Kosovo Judicial Council from amongst the judges, one (1) representative of the Kosovo Prosecutorial Council from amongst the prosecutors, one (1) representative of the Ministry of Justice and one (1) substitute member, with a two (2) years term, with a possibility of extension. Members from amongst the Kosovo Judicial Council and the Kosovo Prosecutorial Council shall be appointed to the Appeals Commission upon the proposals of the respective councils.
+4. In case the institutions fail to respond to the invitation for being members of the Evaluation Commission, the Minister may by decision replace them with non-judge and non-prosecutor members
+5. The Ministry shall issue a sub-legal act to regulate the disciplinary proceedings.
