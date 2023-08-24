@@ -1,0 +1,3 @@
+# Article 13
+Article 376 of the basic Law, after paragraph 2, there shall be added a new paragraph 2a as follows:
+2a. In cases of cessation of the function of private enforcement agent, for any reason, ac cording to paragraph 1 of Article 376 of the basic Law, the enforcement cases and other data related to the enforcement actions shall be transferred proportionally to the enforce ment agents of the territory of the Basic Court, for which there has been appointed the enforcement agent the function of whom has been ceased, a process that is managed by the joint Committee of the Ministry of Justice and Chamber of the Private Enforcement Agents, with the participation of the enforcement agents the cases are delegated to.

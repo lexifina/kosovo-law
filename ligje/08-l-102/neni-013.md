@@ -1,0 +1,3 @@
+# Neni 13
+Neni 376 i Ligjit bazik, pas paragrafit 2, shtohet një paragraf i ri 2a. si vijon:
+2a. Në rastet e pushimit për çfarëdo arsye të funksionit të përmbaruesit privat, sipas paragrafit 1 të nenit 376 të ligjit bazik, lëndët përmbarimore dhe të dhënat tjera që ndërlidhen me veprime përmbarimore, barten në mënyrë proporcionale të përmbaruesit e territorit të Gjykatës Themelore, për të cilën përmbaruesi që i ka pushuar funksioni ka qenë i emëruar, proces i cili menaxhohet nga Komisioni i përbashkët i Ministrisë së Drejtësisë dhe Odës së Përmbaruesve Privatë, me pjesëmarrje të përmbaruesve që i delegohen lëndët.
