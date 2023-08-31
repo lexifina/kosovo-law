@@ -1,0 +1,8 @@
+LIGJI NR. 08/L-184
+PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJIT NR. 06/L-024 PËR TRAJTIMIN E
+NDËRTIMEVE PA LEJE
+Kuvendi i Republikës së Kosovës;
+Në mbështetje të nenit 65 (1) të Kushtetutës së Republikës së Kosovës,
+Miraton:
+LIGJ PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJIT NR. 06/L-024 PËR TRAJTIMIN E
+NDËRTIMEVE PA LEJE
