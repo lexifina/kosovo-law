@@ -1,0 +1,3 @@
+# Neni 7
+Parimi i jo diskriminimit
+Është i ndaluar çfarëdo lloj diskriminimi i drejtpërdrejtë apo i tërthortë apo pjesëmarrje në organizata që mbështesin apo paraqesin diskriminim në bazë të kombësisë apo lidhjes me ndonjë komunitet, origjinës sociale apo kombëtare, racës, etnisë, ngjyrës, lindjes, origjinës, seksit, gjinisë, identitetit gjinor, orientimit seksual, gjuhës, shtetësisë, besimit fetar dhe besimit, përkatësisë politike, mendimit politik apo mendimeve të tjera, gjendjes sociale ose personale, moshës, gjendjes familjare ose martesore, shtatëzënisë, lehonisë, gjendjes pasurore, gjendjes shëndetësore, aftësisë së kufizuar, trashëgimisë gjenetike ose ndonjë baze tjetër, me qëllim të zbatimit të parimit të trajtimit të barabartë.
