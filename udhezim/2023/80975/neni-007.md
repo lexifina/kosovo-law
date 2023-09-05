@@ -1,0 +1,7 @@
+# Neni 7
+Dispozitat përfundimtare
+1. Procesi i votimit për largimin e kryetarit të komunës nga funksioni zhvillohet sipas procedurave dhe rregullave për zgjedhjet të përcaktuara me Ligjin për Zgjedhjet e Përgjithshme dhe Ligjin për Zgjedhjet Lokale.
+2. KQZ duhet të ndërmarrë veprimet për administrimin e procesit të votimit për largimin e kryetarit nga funksioni, i cili zhvillohet jo më vonë se dyzet e pesë (45) ditë nga dita e konstatimit përfundimtar se kërkesa për largimin e kryetarit është mbështetur nga së paku 20% e votuesve të regjistruar në komunën përkatëse. Për çdo fazë të procesit KQZ konsultohet me kryesuesin e kuvendit komunal dhe grupin nismëtar.
+3. Nëse shumica e votuesve të komunës përkatëse nga lista e përfundimtare e votuesve, pesëdhjetë përqind plus 1 (50% + 1), votojnë për largimin e kryetarit, konsiderohet se kryetari i komunës është larguar nga funksioni.
+4. Nëse numri i votuesve që kanë votuar për largimin e kryetarit të komunës nuk arrin 50%+1, konsiderohet se iniciativa për largimin e kryetarit të komunës ka dështuar.
+5. Nëse konstatohet përfundimisht që iniciativa për largimin e kryetarit të komunës nga funksioni ka dështuar për shkak të mosplotësimit të kushtit për votimin e 50%+1 të votuesve për largim ekryetarit nga funksioni, iniciativa tjetër me kërkesë për largimin e kryetarit të njëjtë, nuk mund të iniciohet para kalimit të afatit prej 12 muajsh nga dita e konstatimit përfundimtar për dështimin.
