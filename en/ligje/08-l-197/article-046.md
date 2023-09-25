@@ -1,0 +1,15 @@
+# Article 46
+Appointment and mandate of lower and middle management positions
+1. A candidate applying for the position of a lower or middle management level, evaluated by the Admission Committee with the highest points and above the minimum threshold of seventy percent (70%) of the overall evaluation points, shall be considered the winning candidate and is appointed to the corresponding position, for a four (4) years term with the right to continue without competition only for another mandate with the same duration.
+2. The candidate selected according to paragraph 1. of this Article shall be appointed to the position by the responsible unit.
+3. The extension of the term, in the case of state administration institutions, shall be approved by the responsible unit, at the proposal of the immediate supervisor, based on his or her performance during the mandate. For other state institutions, the decision on the extension of the term shall be taken by the responsible unit at the proposal of the immediate supervisor.
+4. The proposal for the extension of the term shall be made at least three (3) months before the end of the term.
+5. The extension of the term, in the case of municipal institutions, shall be approved by an ad hoc committee consisting of the immediate supervisor and two (2) representatives of the responsible unit.
+6. The extension of the term under this Article shall be done if, at the end of the first term, the average performance of the civil servant's tern us evaluated at least by "meets expectations".
+7. Upon the termination of the second term, or in case the term is not extended in accordance with this Article, a civil servant shall have the right to compete for the same position he or she held.
+8. Those appointed in the middle or lower management category, who were in civil service before being appointed to the middle or lower management category, shall be appointed to a vacant position in the professional category, provided that they meet the criteria for appointment to the position concerned.
+9. In derogation of paragraph 8. of this Article, those appointed in the middle or lower management category, who have not been in civil service, shall be released from civil service once their mandate ends.
+10. Until the appointment to a professional category position, a civil servant shall be placed on the waiting list and shall enjoy the rights as defined in Article 67 of this Law.
+11. Declining the appointment to a position of the professional category, assigned by the responsible unit, shall comprise a cause for the servant’s dismissal from civil service
+12. The Government of Kosovo shall, at the proposal of the minister responsible for public administration, through a bylaw, adopt the rules for the implementation of this Article.
+13. The rules for implementation of this Article for the employees in the Presidency of the Republic of Kosovo, the Constitutional Court of the Republic of Kosovo, the Justice System, the Assembly of the Republic of Kosovo, and the independent constitutional institutions, shall be regulated by this Law and by a special act adopted by the competent bodies of these institutions.

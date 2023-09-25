@@ -1,7 +1,0 @@
-# Neni 14
-Njësia për Menaxhimin e Burimeve Njerëzore (NJMBNJ) 1. Çdo institucion, që punëson zyrtarë publikë në fushën e veprimit të këtij ligji, themelon Njësinë për Menaxhimin e Burimeve Njerëzore.
-2. Njësia për Menaxhimin e Burimeve Njerëzore, e themeluar sipas paragrafit 1 të këtij neni, do të jetë në varësi të drejtpërdrejtë të udhëheqësit më të lartë administrativ të institucionit.
-3. Qeveria, me propozim të ministrit përgjegjës për administratë publike, mund të vendosë që disa institucione të administratës shtetërore të krijojnë një njësi të përbashkët të menaxhimit të burimeve njerëzore apo që disa funksione të njësive të menaxhimit të burimeve njerëzore të një agjencie ekzekutive të kryhen nga institucioni mbikëqyrës.
-4. Institucioni, i cili nuk plotëson kriteret për krijimin e njësisë, në pajtim me legjislacionin përkatës, që rregullon organizimin e brendshëm, përgjegjësinë e menaxhimit të burimeve njerëzore e kryen zyrtari përkatës për menaxhimin e burimeve njerëzore.
-5. Njësia për Menaxhimin e Burimeve Njerëzore është e obliguar të mbajë raport vjetor për menaxhimin e burimeve njerëzore për institucionin e saj dhe deri më 31 dhjetor të vitit aktual ta dërgojë atë për aprovim te udhëheqësi më i lartë administrativ institucionit. Një kopje të këtij raporti, pas aprovimit të udhëheqësi më i lartë administrativ, deri më 15 janar të vitit vijues, duhet ta dërgojë në DMZP në ministrinë përgjegjëse për administratë publike
-LIGJI NR. 06/L - 114 PËR ZYRTARËT PUBLIKË

@@ -1,0 +1,14 @@
+# Neni 5
+Kategoritë e zyrtares/it publik
+1. Kategoritë e zyrtares/it publik janë:
+1.1. Nëpunësja/i i shërbimit civil;
+1.2. Nëpunësja/i i shërbimit publik;
+1.3. Krijuesja/i dhe performuesja/i e/i artit dhe kulturës;
+1.4. Nëpunësja/i teknik dhe mbështetës; dhe
+1.5. Zyrtarja/i i kabinetit.
+2. Nëpunësja/i i shërbimit civil është zyrtarja/i publik në kuadër të shërbimit civil i cili merr pjesë në formulimin dhe/apo zbatimin e politikave, monitorimin e zbatimit të rregullave dhe procedurave administrative dhe ofrimin e mbështetjes së përgjithshme profesionale dhe administrative në zbatim. Nëpunësja/i i shërbimit civil ushtron detyrën në pozitën përkatëse, duke filluar nga zyrtarja/i profesional deri në pozitën e drejtueses/it të lartë, në administratën e Presidentes/it të Republikës së Kosovës, në administratën e Kuvendit të Republikës së Kosovës, në Zyrën e Kryeministres/it të Republikës së Kosovës, në Ministri, në Agjenci Ekzekutive dhe në degë lokale të tyre, institucione të pavarura kushtetuese, në agjenci të pavarura dhe rregullatore, në administratën komunale dhe çdo nëpunëse/ës statusi i të cilit është përcaktuar si nëpunëse/ës i shërbimit civil, me ligj të veçantë.
+3. Nëpunësja/i i shërbimit publik është zyrtarja/i publik i cili ofron shërbime publike të drejtpërdrejta për qytetarët në fushën e arsimit, shëndetësisë, kulturës, artit, në fushën e mjekësisë ligjore, si dhe shërbime tjera të ngjashme publike. Nëpunësja/i i shërbimit publik ushtron detyrën në pozitën përkatëse duke filluar nga niveli profesional deri në nivelin e lartë drejtues. Nëpunësja/i i shërbimit publik është edhe nëpunësja/i i shërbimeve të brendshme në administratën e shërbimeve publike pjesë e administratës shtetërore, në administratën e shërbimeve publike apo pjesë e komunës.
+4. Krijuesja/i dhe performuesja/i i artit dhe kulturës është zyrtarja/i publik që ushtron profesionin e saj/tij artistik në një institucion të artit apo të kulturës.
+5. Nëpunësja/i teknik dhe mbështetës është zyrtarja/i publik që kryen veprimtari ndihmëse të mirëmbajtjes, të ruajtjes, të vozitjes dhe veprimtari të ngjashme në institucionet publike.
+6. Zyrtarja/i i Kabinetit është zyrtarja/i publik, që ushtron detyrën në Kabinetin e Presidentes/it të Republikës së Kosovës, të Kryetares/it të Kuvendit të Republikës së Kosovës, të Kryetares/it të
+Gjykatës Kushtetuese, të Kryeministres/it të Republikës së Kosovës, të Zëvendëskryeministres/it, të Ministres/it ose të titullares/it të institucionit të pavarur kushtetues, si dhe të Kryetares/it dhe nënkryetares/it të Komunës. Zyrtarja/i i kabinetit ushtron detyrën e udhëheqëses/it të kabinetit, këshilltares/it, ndihmëses/it apo zëdhënëses/it të titullares/it të kabinetit, si dhe stafit teknik dhe mbështetës të kabinetit. Statusin e zyrtares/it të kabinetit e kanë edhe nëpunëset/it të cilët ushtrojnë detyrat për nën kryetaren/in e Kuvendit të Republikës së Kosovës dhe për grupin parlamentar.

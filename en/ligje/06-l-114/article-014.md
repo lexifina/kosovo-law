@@ -1,6 +1,0 @@
-# Article 14
-Human Resource Management Unit (HRMU) 1. Every institution that employs public officials within the scope of this Law, establishes human resource management unit.
-2. Human Resource Management Units established under paragraph 1. of the present Article shall report directly to the chief administrative officer of the institution.
-3. Government upon proposal of the minister responsible for public administration may decide to establish a common human resource management unit for several institutions of state administration, or part of human resource unit functions of an executive agency to be performed by the oversight institution.
-4. Institution that does not meet the criteria for establishing such unit, and in compliance with respective legislation regulating the internal organization, responsibility for human resource management shall be assumed by relevant human resource management officer.
-5. Human Resource Management Unit is required to have an annual report on human resources management for its institution and submit it by 31 December of current year for approval to the chief administrative officer of the institution. A copy of this report, after the approval by the chief administrative officer, by 15 January of the following year, must be sent to DMPO in the ministry responsible for public administration.

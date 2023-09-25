@@ -1,0 +1,17 @@
+# Article 49
+Appointment and term of senior management positions
+1. An immediate supervisor shall, through a reasoned decision, select the winning candidate proposed in accordance with paragraph 8. of Article 47 within a period of thirty (30) days from the announcement of winners.
+2. The candidate selected in accordance with paragraph 1. of this Article shall be appointed to duty by the Government of the Republic of Kosovo, for institutions of state administration, or the head of the institution for other state institutions.
+3. In the first year of appointment, an employee appointed for the first time to a senior management category position shall be required to attend the special program for the senior management category employees, organized by KIPA.
+4. Refusal of the obligation to undergo the special training program for the employee in the senior management category, shall comprise a cause for dismissal from civil service.
+5. The appointment to a senior management category position, according to paragraphs 1. and 2. of this Article, shall be valid for a period of four (4) years subject to extension of the same job position for only one (1) term and for the same period.
+6. The extension of the term, in the case of state administration institutions, shall be approved by the Government, at the proposal of the immediate supervisor, based on the employee's performance in the case of other state institutions, the decision to extend the term shall be taken by the immediate supervisor.
+7. The proposal for the extension of the term shall be made at least three (3) months before the end of the term.
+8. The extension of the term under this Article shall be done if, at the end of the first term, the average performance of the civil servant's tern us evaluated at least by "meets expectations".
+9. Upon the termination of the second term, or in case the term is not extended in accordance with this Article, a civil servant shall have the right to compete for the same position he or she held or for any other vacant position in the civil service.
+10. Those appointed in the senior management category, who were in civil service before being appointed to the middle or lower management category, shall be appointed to a vacant position in the professional category, provided that they meet the criteria for appointment to the position concerned.
+11. Exceptionally from paragraph 10. of this Article, those appointed in the senior management category, who have not been in civil service, shall be released from civil service once their mandate ends.
+12. Until the appointment to a professional category position, a civil servant shall be placed on the waiting list and shall enjoy the rights as defined in Article 67 of this Law.
+13. Declining the appointment to a position of the professional category, assigned by the responsible unit, shall comprise a cause for the servant’s dismissal from civil service.
+14. The Government of Kosovo shall, at the proposal of the minister responsible for public administration, through a bylaw, adopt the rules for the implementation of this Article.
+15. The rules for implementation of this Article for the employees in the Presidency of the Republic of Kosovo, the Constitutional Court of the Republic of Kosovo, the Justice System, the Assembly of the Republic of Kosovo, and the independent constitutional institutions, shall be regulated by this Law and by a special act adopted by the competent bodies of these institutions.

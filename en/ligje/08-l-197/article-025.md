@@ -1,0 +1,10 @@
+# Article 25
+Political rights
+1. A public official shall have the right to participate in political activities and express his or her political convictions only outside official working hours and outside public institution facilities.
+2. A civil servant, with the exception of a civil servant of the high, middle and low management level, may be a member of political parties, but may not be a member of the central and municipal governing bodies of a political party.
+3. A public service employee and technical and support employee may be a member of political parties and a member of the governing bodies of a political party, except for a public service employee of high, middle and low management level, who may be members of political parties, but they cannot be members of the central and municipal governing bodies of a political party.
+4. A public official shall have the right to run and be elected in the elections for the Assembly of the Republic of Kosovo or for municipal bodies, except when otherwise determined by the law.
+5. A public official who runs in the central or local elections should suspend his or her job position seven (7) days before the commencement of the official campaign. The suspension shall end five (5) days after the official closing of the campaign.
+6. In case of election in the Assembly of the Republic of Kosovo, a public official accepting the term shall suspend employment relationship from the date of certification of the candidate`s election until the end of that respective mandate in the equivalent position, exclusively university academic staff (full-time professor, associate professor, assistant professor, professor, lecturer, assistant).
+7. Exceptionally, the suspension pursuant to paragraph 6. of this Article shall not be done for positions that are mandated.
+8. Upon completion of the mandate as elected according to paragraph 6 of this Article, a public official shall have the employment relationship in the institution where he was employed or in another institution guaranteed, in the same or equivalent position, provided that he or she meets the criteria for appointment to the said position.

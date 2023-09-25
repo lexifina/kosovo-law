@@ -1,3 +1,0 @@
-# Article 7
-General principles for management of public officials 1. Management of legal relationship with civil servants, Public Service employees and administrative-technical and support staff shall be governed by the Law and shall be based, also, on the principle of equal opportunities, merit, transparency, professionalism and political impartiality, non-discrimination, fair gender and communities representation and aims to guarantee sustainability and continuity in office.
-2. Management of legal relationship with the cabinet employee is based on the relationship of employee with the head of cabinet.

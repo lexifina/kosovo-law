@@ -1,5 +1,0 @@
-# Neni 24
-E drejta e informimit dhe ankimimit 1. Zyrtari publik ka të drejtën të informohet për fillimin e çdo procedure dhe çdo vendimmarrje, që ka të bëjë me marrëdhënien e tij të punës.
-2. Zyrtari publik ka të drejtë të qasjes në dosjen e tij personale dhe të kërkojë ndryshimin dhe plotësimin e të dhënave të saj.
-3. Nëpunësi civil ka të drejtë të paraqesë ankesë drejtpërdrejt në KPMSHC për çdo veprim apo mosveprim, që i cenon të drejtat apo interesat e ligjshme, të drejta këto, që burojnë nga marrëdhënia e Shërbimit Civil sipas këtij ligji. E drejta e ankimit në KPMSHC i njihet edhe çdo kandidati në një procedurë pranimi në Shërbimin Civil. Pas shterimit të drejtës së ankimit në KPMSHC, mund të iniciohet konflikt administrativ në gjykatën kompetente për çështjet administrative.
-4. Nëpunësi i Shërbimit Publik dhe nëpunësi administrativ dhe mbështetës kanë të drejtë të ankohen sipas këtij ligji te punëdhënësi dhe më pas mund të fillojë kontest administrativ në gjykatën kompetente. NËNKAPITULLI 2 DETYRIMET E ZYRTARIT PUBLIK

@@ -1,0 +1,15 @@
+# Neni 46
+Emërimi dhe mandati në pozitat e nivelit të ulët dhe të mesëm drejtues
+1. Kandidatja/i për pozitën e nivelit të ulët apo të mesëm drejtues, e/i vlerësuar nga komisioni i pranimit me pikët më të larta dhe mbi pragun minimal të shtatëdhjetë për qind (70 %) të pikëve të përgjithshme të vlerësimit, konsiderohet kandidate/at fitues dhe emërohet në pozitën përkatëse për një mandat me kohëzgjatje prej katër (4) vitesh me të drejtë vazhdimi pa konkurrim vetëm edhe për një mandat tjetër me kohëzgjatje të njëjtë.
+2. Kandidatja/i i përzgjedhur sipas paragrafit 1. i këtij neni, emërohet në detyrë nga njësia përgjegjëse.
+3. Vazhdimi i mandatit, në rastin e institucioneve të administratës shtetërore, miratohet nga njësia përgjegjëse, me propozim të mbikëqyrëses/it të drejtpërdrejtë, duke u bazuar në performancën e saj/tij gjatë mandatit. Për institucionet e tjera shtetërore, vendimi për vazhdimin e mandatit merret nga njësia përgjegjëse pas propozimit nga mbikëqyrësja/i i drejtpërdrejtë.
+4. Propozimi për vazhdim të mandatit bëhet të paktën tre (3) muaj para përfundimit të mandatit.
+5. Vazhdimi i mandatit, në rastin e institucioneve komunale miratohet nga një komision adhoc që përbëhet nga udhëheqësja/i i drejtpërdrejtë dhe dy (2) përfaqësues të njësisë përgjegjëse.
+6. Vazhdimi i mandatit sipas këtij neni bëhet, nëse në fund të mandatit të parë mesatarja e performancës së mandatit të nëpunëses/it civil është vlerësuar së paku me vlerësimin “arrin pritshmëritë”.
+7. Pas përfundimit të mandatit të dytë, ose në rast të mos vazhdimit të mandatit në pajtim me këtë nen, nëpunësja/i civil ka të drejtë të konkurrojë për të njëjtën pozitë që e ka mbajtur.
+8. Të emëruarat/it në kategorinë e mesme apo të ulët drejtuese, që kanë qenë në shërbimin civil para emërimit në kategorinë e mesme apo të ulët drejtuese, sistemohen nga njësia përgjegjëse në një pozitë të lirë të kategorisë profesionale me kusht që plotësojnë kriteret për emërim në pozitën në fjalë.
+9. Përjashtimisht paragrafit 8. të këtij neni, të emëruarit në kategorinë e mesme apo të ulët drejtuese, që nuk kanë qenë në shërbimin civil, pas përfundimit të mandatit lirohen nga shërbimi civil.
+10. Deri në emërimin në një pozitë të kategorisë profesionale, nëpunësja/i civil vendoset në listën e pritjes dhe gëzon të drejtat ashtu siç përcaktohet në nenin 67 të këtij ligji.
+11. Refuzimi për t’u emëruar në pozitën e kategorisë profesionale, të caktuar nga njësia përgjegjëse, përbën shkak për lirimin e nëpunëses/it nga shërbimi civil.
+12. Qeveria e Kosovës, me propozim të ministrisë përgjegjëse për administratën publike, miraton me akt nënligjor rregullat për zbatimin e këtij neni.
+13. Rregullat për zbatimin e këtij neni për nëpunëset/it në Presidencën e Republikës së Kosovës, Gjykatën Kushtetuese të Republikës së Kosovës, Sistemin e Drejtësisë, Kuvendin e Republikës së Kosovës, dhe institucionet e pavarura kushtetuese, rregullohet me këtë ligj dhe me akt të veçantë të miratuar nga organet kompetente të këtyre institucioneve.

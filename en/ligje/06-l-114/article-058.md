@@ -1,5 +1,0 @@
-# Article 58
-Effects of suspension 1. Upon completion of suspension, unless there is a decision for termination of Civil Service relationship, pursuant to this Law, the Civil servant shall be restored to his/her earlier position, and in case such position is permanently occupied, such civil servant shall be transferred to another position of the same category.
-2. In case of suspension for more than three (3) months, the previous working position shall not be occupied until the end of suspension.
-LAW NO. 06/L-114 ON PUBLIC OFFICIALS 3. The period of suspension, in cases under paragraphs 1.1., 1.2., 1.3., 1.7. and 1.8. of Article 56 and paragraph 1.1. of Article 57 of the present Law, shall be counted into Civil Service experience.
-4. During suspension, the civil servant shall not receive the salary, except in cases under paragraphs 1.1. of Article 56, in case the procedure ends without a disciplinary measure and in cases provided in paragraph 1.7. of Article 56, employee receives fifty (50%) per cent of full salary, excluding any type of salary allowance for a suspension period of up to six (6) months.

@@ -1,2 +1,0 @@
-# Neni 84
-Marrëveshjet për shërbime të veçanta Marrëveshjet për shërbime të veçanta, sipas paragrafit 4 të nenit 12 të Ligjit të Shërbimit Civil nr. 03/L-149 të Republikës së Kosovës, të lidhura para hyrjes në fuqi të këtij ligji, janë të vlefshme deri në afatin e përcaktuar në ato marrëveshje në pajtim me dispozitat e lartcekura. Pas kësaj periudhe, marrëveshjet për shërbimet e veçanta lidhen sipas legjislacionit përkatës të prokurimit publik.
