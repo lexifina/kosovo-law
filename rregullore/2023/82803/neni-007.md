@@ -1,0 +1,10 @@
+# Neni 7
+Të drejtat e subjektit të të dhënave
+1. Pronari apo operaratori i dronit janë të obliguar që në çdo kohë të i respektoj të drejtat e subjekteve të të dhënave personale dhe t’i mundësoj në mënyrën sa më të përshtatshme realizimin e të drejtave të tyre. Çdo subjekt i të dhënave ka të drejtë të informohet për të dhënat personale të cilat përpunohen.
+2. Në rast kur të dhënat personale merren drejtpërdrejt nga subjekti i të dhënave, përdoruesi i licencuar, i jep subjektit të të dhënave informacionin ashtu siç është paraparë në nenin 12 të LMDHP-së.
+3. Në rast kur të dhënat personale nuk merren drejtpërdrejt nga subjekti i të dhënave, përdoruesi i licencuar i dronëve i jep subjektit të të dhënave informacionin ashtu siç është paraparë në nenin 13 të LMDHP-së.
+4. Çdo subjekt i të dhënave ka të drejtën të merr konfirmimin nga përdoruesi i dronëve nëse po përpunon të dhëna që kanë të bëjnë me të ose jo, si dhe të ketë qasje në të dhënat e veta të cilat përpunohen nga përdoruesi i dronëve të ushtron të drejtën e qasjes.
+5. Nëse subjekti i të dhënave konstaton se të dhënat e tij janë të pasakta dhe jo të plota, ka të drejtë të kërkoj të bëjë korrigjimin dhe plotësimin e të dhënave personale, të ushtron të drejtën e korrigjimit.
+6. Nëse të dhënat personale nuk janë më të nevojshme në lidhje me qëllimin për të cilin janë mbledhur apo përpunuar, apo nëse zbatohet ndonjë shkak i paraparë sipas nenit 16, paragrafi 1 i LMDHP-së, subjekti i të dhënave ka të drejtë të kërkoj nga përdoruesi i licencuar i dronit të bëjë fshirjen e të dhënave të tij, të ushtron të drejtën e fshirjes (‘drejtën për t’u harruar’).
+7. Kërkesën për të realizuar të drejtën e tij mund të bëjë: vetë subjekti i të dhënave, përfaqësuesi ligjor i pajisur me autorizim përkatës, prindi apo kujdestari kur fëmija nuk ka zotësi të plotë për të vepruar ose kur është duke vepruar në interes të fëmijës.
+8. Kërkesa duhet të përmbajë të dhëna të mjaftueshme për të vërtetuar identitetin e kërkuesit dhe të dërgohet në mënyrën ashtu siç ka kërkuar parashtruesi i kërkesës.
