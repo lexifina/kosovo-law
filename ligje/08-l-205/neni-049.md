@@ -1,0 +1,25 @@
+# Neni 49
+Përjashtimet dhe kufizimet e tjera
+1. Lejohet pa pëlqimin e autorit ose bartësit tjetër të së drejtës së autorit dhe pa pagesën e shpërblimit:
+1.1. citimi i shkurtër i një vepre tjetër për qëllime të tilla si kritika ose recesioni, me kusht që ato të lidhen me një vepër ose një temë tjetër që tashmë është vënë në dispozicion të publikut ligjërisht, dhe me kusht që të tregohet burimi, duke përfshirë emrin e autorit, përveçse kur kjo rezulton e pamundur, dhe se përdorimi i tyre është në përputhje me praktikën e drejtë dhe në masën e kërkuar nga qëllimi specifik;
+1.2. përdorimi i veprave në formë ilustrimi në botime, transmetime ose regjistrime të tingujve ose vizuale për mësimdhënie ose kërkim shkencor në të gjitha nivelet, për sa kohë që tregohet burimi, duke përfshirë emrin e autorit, përveç rasteve kur kjo rezulton e pamundur, dhe në masën e justifikuar nga qëllimi jo komercial që duhet të arrihet;
+1.3. përdorimi i veprave të botuara për shfaqje publike në festimet shkollore me kusht që interpretuesit të mos kompensohen për një interpretim të tillë;
+1.4. përdorimi digjital i veprave dhe lëndëve të tjera, me kusht që një përdorim i tillë:
+1.4.1. zhvillohet nën përgjegjësinë e një institucioni arsimor, në mjediset e tij ose në mjedise të tjera, ose nëpërmjet një mjedisi elektronik të sigurt të qasshëm vetëm nga nxënësit ose studentët e institucionit arsimor dhe stafi për mësim;
+1.4.2. shoqërohet me shënimin e burimit, duke përfshirë emrin e autorit, përveç rasteve kur kjo rezulton e pamundur.
+1.5. riprodhimi dhe shpërndarja nga shtypi, transmetimi, komunikimi publik ose vënia në dispozicion e publikut në mënyrë ndërvepruese, e artikujve të botuar mbi temat aktuale ekonomike, politike ose fetare ose të veprave të transmetuara ose lëndëve të tjera të të njëjtit karakter, në rastet kur kjo nuk është e rezervuar shprehimisht dhe për sa kohë që tregohet burimi, duke përfshirë emrin e autorit;
+1.6. përdorimi i veprave ose lëndës tjetër në lidhje me raportimin e ngjarjeve aktuale, në masën e justifikuar nga qëllimi për informim dhe për sa kohë që tregohet burimi, duke përfshirë emrin e autorit, përveç rasteve kur kjo rezulton e pamundur;
+1.7. përdorimi i fjalimeve politike, si dhe ekstrakteve të leksioneve publike ose veprave ose lëndëve të ngjashme në masën që justifikohet nga qëllimi informues dhe me kusht që të tregohet burimi, duke përfshirë emrin e autorit, përveç rasteve kur kjo rezulton të jetë e pamundur;
+1.8. përdorimi për qëllime të sigurisë publike ose për të siguruar kryerjen dhe raportimin e duhur të procedurave parlamentare, administrative ose gjyqësore;
+1.9. regjistrimi kalimtar i veprave të bëra nga organizatat transmetuese me mjetet e tyre dhe për transmetimet e tyre, duke siguruar që regjistrimet e tilla do të fshihen ose shkatërrohen pas dymbëdhjetë (12) muajsh, me përjashtim të atyre që kanë karakter të jashtëzakonshëm dokumentar, të cilat mund të ruhen në arkivat zyrtare shtetërore;
+1.10. përdorimi, për përfitimin e personave me aftësi të kufizuara, që lidhen drejtpërdrejtë me aftësinë e kufizuar dhe të një natyre jo komerciale, në masën që kërkohet nga paaftësia specifike;
+1.11. përdorimi gjatë festimeve fetare ose festimeve zyrtare të organizuara nga një autoritet publik;
+1.12. përdorimi i veprave, si veprat e arkitekturës ose skulpturës, të bëra për t’u vendosur përgjithmonë në vende publike;
+1.13. përdorimi për qëllimin e reklamimit të ekspozitës publike ose shitjes së veprave artistike, në masën e nevojshme për të promovuar ngjarjen, duke përjashtuar çdo përdorim tjetër tregtar;
+1.14. përdorimi për qëllime karikature ose parodie;
+1.15. përdorimi në lidhje me demonstrimin ose riparimin e pajisjeve;
+1.16. përdorimi i një vepre artistike në formën e një ndërtese ose një vizatimi ose plani të një ndërtese për qëllime të rindërtimit të ndërtesës;
+1.17. përdorimi nëpërmjet komunikimit ose vënies në dispozicion të publikut në mënyrë ndërvepruese, për qëllime hulumtimi ose studimi personal, për anëtarët individualë të publikut, në vende e dedikuara në mjediset e institucioneve apo hapësirave që janë të qasshme për publikun, në lidhje me veprat dhe lëndën tjetër që nuk është subjekt i blerjes ose licencimit që gjenden në koleksionet e tyre;
+1.18. për të bërë kopje të çdo vepre ose lënde tjetër që është përgjithmonë në koleksionet e tyre, në çdo format ose medium, për qëllime të ruajtjes së këtyre veprave ose lëndëve të tjera dhe në masën e nevojshme për një ruajtje të tillë, për institucionet e trashëgimisë kulturore. Çdo dispozitë kontraktuale në kundërshtim me këtë përjashtim është e pavlefshme.
+2. Lejohet pa pëlqimin e autorit ose titullarit tjetër të së drejtës së autorit, por kundrejt pagesës së një shpërblimi të drejtë, riprodhimi i transmetimeve të bëra nga institucione sociale që ndjekin qëllime jo komerciale, si spitalet ose burgjet.
+3.Çdo dispozitë kontraktuale në kundërshtim me përjashtimet e parashikuara në paragrafin 1., nën-paragrafët 1.4. dhe 1.18. të këtij neni janë të pavlefshme.

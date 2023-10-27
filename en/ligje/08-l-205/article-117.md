@@ -1,0 +1,3 @@
+# Article 117
+Derogation for online music rights required for radio and television programmes
+The requirements under this subchapter shall not apply to collective management organisations when they grant, on the basis of the voluntary aggregation of the required rights, in compliance with the competition rules, a multi-territorial licence for the online rights in musical works required by a broadcaster to communicate or make available to the public its radio or television programmes simultaneously with or after their initial broadcast as well as any online material, including previews, produced by or for the broadcaster which is ancillary to the initial broadcast of its radio or television programme.

@@ -1,0 +1,6 @@
+# Neni 50
+Nxjerrja e tekstit dhe të dhënave për qëllime të kërkimit ose hulumtimit shkencor
+1. Riprodhimet dhe nxjerrjet e bëra nga organizatat hulumtuese dhe institucionet e trashëgimisë kulturore që kanë qasje të ligjshme në vepër nuk cenojnë të drejtat e autorit në lidhje me veprën, kur nxjerrjen e tekstit dhe të dhënave nga veprat ose një lëndë tjetër të mbrojtur, e kanë bërë për të kryer hulumtime për qëllime shkencore.
+2. Kopjet e veprave ose lëndëve të tjera të mbrojtura të bëra në përputhje me paragrafin 1. të këtij neni, duke përfshirë edhe verifikimin e rezultateve të hulumtimit, duhet ruhen me nivel të duhur të sigurisë dhe mund të mbahen për qëllime të kërkimit shkencor.
+3. Bartësit e të drejtave duhet të lejohen të aplikojnë masa për të garantuar sigurinë dhe integritetin e rrjeteve dhe bazave të të dhënave ku ruhen veprat ose lëndët tjera. Masat e tilla nuk duhet të shkojnë përtej asaj që është e nevojshme për të arritur këtë objektiv.
+4. Bartësit e të drejtave, organizatat hulumtuese dhe institucionet e trashëgimisë kulturore, së bashku përcaktojnë praktikat më të mira të pranuara në lidhje me zbatimin e detyrimit dhe masave të përmendura në paragrafët 2. dhe 3. të këtij neni respektivisht.

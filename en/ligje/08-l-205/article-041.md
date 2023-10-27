@@ -1,0 +1,9 @@
+# Article 41
+Author’s remuneration
+1. The fee payable to the author by the other contracting party to legal agreements relating to the transfer of all or part of the economic right, the granting of the exploitation or for the exploitation license shall be obligatorily determined as a percentage, agreed freely between the parties. The computation of the percentage shall be based on gross revenues without exception or the gross expenditure or on the combined gross revenues and expenditure realized from the activity of the other contracting party in the course of the exploitation of the work.
+2. By way of derogation, in the following circumstances, the fee may be agreed as a lump sum:
+2.1. when it is practically impossible to establish the basis for the calculation of a percentage fee or when there are no means of monitoring the implementation of a percentage arrangement;
+2.2. when the expenditure required for the calculation and the monitoring is likely to be out of reasonable proportion to the fee to be collected;
+2.3. when the nature or the conditions of the exploitation make the implementation of a percentage impossible, notably when the author’s contribution is not an essential element in the intellectual creation as a whole, or when the use of the work is secondary in relation to the object of the exploitation.
+3. The obligatory percentage arrangement of the fee prescribed in paragraph 1. of this Article, shall be implemented in all circumstances provided that this Law does not stipulate otherwise, and provided that it does not concern works created by employees in the execution of the employment contract, computer programs or advertisement in any form.
+4. If remuneration of author is not determined by contract, it shall be determined according to ordinary payments for the type of work, according to the extent and duration of use as well as other circumstances.

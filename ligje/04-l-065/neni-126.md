@@ -1,6 +1,0 @@
-# Neni 126
-Vepra e autorit nga marrëdhënia e punës
-1. Kur vepra e autorit krijohet nga i punësuari gjatë marrëdhënies së punës, duke përmbushur detyrat e veta të punës ose sipas udhëzimeve të punëdhënësit, konsiderohet se të drejtat pasurore dhe të drejtat tjera të autorit i janë kaluar ekskluzivisht dhe pakufizime punëdhënësit, për një periudhë dhjetëvjeçare që nga përfundimi i veprës, nëse me kontratën e punësimit apo me një akt tjetër të shkruar me punëdhënësin nuk është parashikuar ndryshe.
-2. Pavarësisht nga dispozitat e paragrafit 1. të këtij neni, të drejtat do t’i kthehen autorit të punësuar para mbarimit të afatit të tillë, në rast të vdekjes së punëdhënësit, përkatësisht në rast të likuidimit të punëdhënësit si person juridik.
-3. Nëse punëdhënësi fare nuk i shfrytëzon të drejtat pasurore mbi atë vepër, ose i shfrytëzon në masë të papërfillshme, autori i punësuar ka të drejtë të kërkojë nga punëdhënësi që ky t’ia kalojë ato të drejta kundrejt kompensimit të shpenzimeve.
-4. Nëse nuk është kontraktuar ndryshe në mes autorit dhe punëdhënësit, i punësuari si autor i veprës gëzon të drejtën të kërkojë nga punëdhënësi kompensim shtesë, nëse paga e tij është në shpërpjesëtim të dukshëm me fitimet apo kursimet e realizuara në saje të shfrytëzimit të veprës.

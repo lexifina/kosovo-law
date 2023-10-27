@@ -1,3 +1,0 @@
-# Neni 10
-Neni 44 i ligjit bazik, paragrafi 3, riformulohet me tekstin si në vijim:
-3. Lejohet që pa lejen e autorit dhe pa pagesë, një bibliotekë jo-fitim prurëse, muze, arkiv dhe institucion arsimor dhe shkencor, të riprodhojë një kopje shtesë nga një kopje e veprës e cila gjendet tashmë në koleksionin e përhershëm të tyre, nëse qëllimi është të zëvendësojë kopjet që kanë humbur, janë shkatërruar ose janë bërë të papërdorshme, apo për të bërë një kopje të disponueshme për bibliotekat e tjera apo shërbimet arkivore të ngjashme në mënyrë që të zëvendësojnë nga koleksionet e tyre kopjet që kanë humbur, janë shkatërruar ose janë bërë të papërdorshme, në rastet kur është e pamundur të marrin kopje të veprës për mes formave të zakonshme komerciale.

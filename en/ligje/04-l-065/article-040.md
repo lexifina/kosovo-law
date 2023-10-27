@@ -1,5 +1,0 @@
-# Article 40
-The amount of special remuneration
-1. The entire amounts of the special remuneration under Article 38 of this Law, which belong to all beneficiaries entitled under this Law, shall be adopted by the Government of Kosovo. With a special contract between a collective association of rights and users, special tariffs for such remuneration may be provided for.
-2. The amounts mentioned in the preceding paragraph shall be set separately: for each sound and visual fixation medium depending on the possible duration of the fixation including e.g. CD- ROMs, DVD-s and similar media; for each photocopy appliance including fax machines, scanners etc, depending on its capacity, number of copies per minute, and its capacity to make coloured copies, double the amount of black-and-white copying; as well as for each photocopy page
-3. The amounts under paragraph 1. of this Article shall be determined in nominal money value. When setting these amounts, the probable extent of the application of effective technological measures on the market must be taken into account.

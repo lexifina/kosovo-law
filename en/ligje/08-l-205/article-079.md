@@ -1,0 +1,4 @@
+# Article 79
+Independence of protection
+1. The right provided for in Article 78 of this Law shall apply irrespective of the eligibility of that database for protection by copyright or by other rights, which means, inter alia, that, where a database is protected by copyright and the maker of the database is the owner of copyright in the database, his or its sui generis right provide for in Article 78 of this Law and the copyright of which he or it is the owner shall be applied in parallel and independently from each other.
+2. The right provided for in Article 78 of this law shall apply irrespective of the eligibility of the contents of the database for protection by copyright or by other rights, and the protection of databases under that right shall be without prejudice to the rights existing in respect of their contents.

@@ -1,0 +1,20 @@
+## KAPITULLI I
+## DISPOZITAT E PËRGJITHSHME
+# Neni 1
+Qëllimi
+1. Ky ligj ka për qëllim përcaktimin, rregullimin dhe mbrojtjen e të drejtave të autorit përkatësisht të drejtave të autorëve në lidhje me veprat e tyre nga fusha letrare, shkencore dhe artistike. Gjithashtu, mbron dhe rregullon edhe të drejtat e përafërta me të drejtën e autorit, përkatësisht të drejtat e interpretuesve, prodhuesve të fonogrameve, prodhuesve të filmave, organizatave transmetuese, të drejtat mbi veprat e pabotuara më parë, të drejtat e botuesve, të drejtat e botuesve të shtypit në lidhje me përdorimet në internet (në tekstin e mëtejmë: të drejtat e përafërta) dhe të drejtat sui generis të krijuesve të bazave të të dhënave.
+2. Ky ligj është në përputhshmëri të plotë me këto direktiva të Bashkimit Evropian:
+2.1. Direktivën 93/83/EEC e datës 27 shtator 1993 e cila ka synuar lehtësimin e transmetimit ndërkufitar të programeve audio-vizuale, përkatësisht transmetimit me satelit dhe ritransmetimit kabllorë;
+2.2. Direktivën 2001/29/EC të datës 22 maj 2001 mbi harmonizimin e aspekteve të caktuara të të drejtës së autorit dhe të drejtave të përafërta në shoqërinë e informacionit;
+2.3. Direktivën 2001/84/CE e datës 27 shtator 2001, mbi të drejtën e rishitjes, respektivisht përfitimin e autorit të një vepre origjinale të artit;
+2.4. Direktivën 96/9/EC e datës 11 mars 1996, mbi mbrojtjen ligjore të bazave të të dhënave;
+2.5. Direktivën 2006/115/EC e datës 12 dhjetor 2006, për drejtat mbi qiradhënien dhe huazimin e të drejtave të autorit dhe të drejtave e përafërta në fushën e të drejtave pronësore intelektuale;
+2.6. Direktivën 2004/48/KE e Parlamentit Evropian dhe e Këshillit e 29 prillit 2004 mbi zbatimin e të drejtave të pronësisë intelektuale;
+2.7. Direktivën 2009/24/EC versioni i kodifikuar e datës 23 prill 2009 e cila ka harmonizuar legjislacionin Evropian në lidhje me mbrojtjen e programeve kompjuterike;
+2.8. Direktivën 2011/77/EU të datës 27 shtator 2011 mbi kohëzgjatjen e mbrojtjes së të drejtave të autorit dhe të drejtave të përafërta, (OJ L 265, 11/10/2011, p. 1 – 5), e cila direktivë ka ndryshuar Direktivën 2006/116/EC e datës 12 dhjetor 2006;
+2.9. Direktivën 2012/28/EU e datës 25 tetor 2012 mbi përdorimin e lejueshëm të veprave jetime;
+2.10. Direktivën (BE) 2019/790 e Parlamentit Evropian dhe e Këshillit, e datës 17 prill 2019 mbi të drejtën e autorit dhe të drejtat e përafërta në Tregun e Përbashkët Dixhital dhe ndryshimin e Direktivave 96/9/EC dhe 2001/29/EC;
+2.11. Direktivën 2014/26/BE e Parlamentit Evropian dhe e Këshillit e 26 shkurtit 2014 për menaxhimin kolektiv të të drejtës së autorit dhe të drejtave të përafërta dhe licencimin shumë-territorial të të drejtave në veprat muzikore për përdorim online në tregun e brendshëm;
+2.12. Direktivën (BE) 2017/1564 e Parlamentit Evropian dhe e Këshillit e datës 13 shtator 2017 për përdorime të caktuara të lejuara të veprave të caktuara dhe lëndëve të tjera të mbrojtura nga e drejta e autorit dhe të drejtat e përafërta për të mirën e personave të verbër, me shikim të dëmtuar ose ndryshe të shtypura të paaftë dhe ndryshimin e Direktivës 2001/29/KE për harmonizimin e disa aspekteve të së drejtës së autorit dhe të drejtave të lidhura me shoqërinë e informacionit;
+2.13. Rregulloren (BE) 2017/1563 Parlamenti Evropian dhe Këshilli i 13 shtatorit 2017 mbi shkëmbimin ndërkufitar ndërmjet Bashkimit dhe vendeve të treta të kopjeve të formatit të aksesueshëm të veprave të caktuara dhe lëndëve të tjera të mbrojtura nga e drejta e autorit dhe të drejtat e përafërta për përfitimin e personave që janë të verbër, me shikim të dëmtuar ose ndryshe me aftësi të kufizuara të shtypura;
+2.14. Direktivën (BE) 2019/789 e Parlamentit Evropian dhe e Këshillit e datës 17 Prill 2019 që përcakton rregullat mbi ushtrimin e të drejtës së autorit dhe të drejtave të lidhura me të, të zbatueshme për transmetime të caktuara në internet të organizatave transmetuese dhe ritransmetimet e programeve televizive dhe radiofonike, dhe që ndryshon Direktiva e Këshillit 93/83/KEE.

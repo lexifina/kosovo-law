@@ -1,0 +1,6 @@
+# Neni 137
+Transmetimi dhe ritransmetimi i përmbajtjes programore audiovizuale
+1. Ofruesit e shërbimeve mediale si dhe operatorët kabllorë dhe operatorët tjerë, të licencuara nga Komisioni i Pavarur për Media (në tekstin e mëtejmë KPM) të cilët pa marrë parasysh teknologjinë që përdorin dhe ofrojnë përmbajtje audiovizuale, janë të obliguara të bëjnë transmetimin dhe ritransmetimin e programeve në bazë të marrëveshjeve të vlefshme për të drejtën e autorit.
+2. Marrëveshjet që kanë të bëjnë me ritransmetimin e programeve audiovizuale, janë të vlefshme vetëm pasi të jenë regjistruar nga organizatat e menaxhimit kolektiv të licencuara nga Ministria e Kulturës, në pajtim me nenin 88 të këtij ligji.
+3. Të gjitha ankesat lidhur me shkeljen e të drejtës së autorit dhe të drejtave të përafërta, gjatë transmetimit dhe ritransmetimit të programeve do të procedohen nga KPM.
+4. Mos përmbushja e obligimeve dhe përgjegjësive nga ana e organizatave transmetuese dhe subjekteve të tjera të përmendura në paragrafin 1. të këtij neni, për transmetimin dhe ritransmetimin e programeve, të përcaktuara me këtë ligj, do të shqyrtohet nga KPM-ja në pajtim me dispozitat e Ligjit për Komisionin e Pavarur për Media.

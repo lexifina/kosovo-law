@@ -1,2 +1,0 @@
-# Neni 120
-Nëse autori ka bërë program kompjuterik duke përmbushur detyrat e tij të punës ose sipas udhëzimeve të punëdhënësit të tij, përkatësisht nëse autori ka bërë program kompjuterik në bazë të kontratës për porosi të veprës, konsiderohet se të gjitha të drejtat pasurore dhe të drejtat tjera të autorit mbi atë program kompjuteri i janë kaluar ekskluzivisht dhe pa kufizime punëdhënësit, përkatësisht porositësit të programit, nëse me kontratë nuk parashihet ndryshe.

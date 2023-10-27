@@ -1,0 +1,9 @@
+## SUBCHAPTER III
+## REPRESENTATION OF RIGHTHOLDERS, MEMBERSHIP AND ORGANIZATION OF
+## COLLECTIVE MANAGEMENT ORGANISATIONS
+# Article 89
+Operational standards of collective management organisations
+1. Collective management organisations shall carry out all the tasks within the scope of their activities in such a manner as to ensure the achievement of the maximum possible level of effectiveness, good business practice, economic efficiency and transparency.
+2. Collective management organisations act in the best interests of the rightholders whose rights they represent and that they do not impose on them any obligations which are not objectively necessary for the protection of their rights and interests or for the effective management of their rights. ‘Management fees’ means the amounts charged, deducted or offset by a collective management organisation from rights revenue or from any income arising from the investment of rights revenue in order to cover the costs of its management of copyright or related rights.
+3. Exceptionally, by the Statute of a collective management organisation, the organization may stipulate that a particular portion of such funds shall be allocated for cultural purposes and for the improvement of the pension, health and social status of its members. The amount of funds allocated for such purposes shall not exceed ten percent (10%) of the net income of the collective management organisation.
+4. Collective management organisations shall adhere to the international and generally accepted rules, standards and principles which apply to collective rights management in practice, in particular to those which relate to professional support service, determination of remuneration rate for the use of works, documentation and the international exchange thereof, as well as to the calculation and distribution of remunerations to the domestic and foreign authors.

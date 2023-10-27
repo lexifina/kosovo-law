@@ -1,4 +1,0 @@
-# Neni 2
-Në nenin 4 të ligjit bazik pas nënparagrafit 1.19, shtohen paragrafët 1.20. dhe 1.21.me tekstin si në vijim:
-1.20. Satelit - do të thotë çfarëdo sateliti që vepron në breza frekuencash, të cilat sipas Ligjit të telekomunikacioneve, janë rezervuar për transmetimin e sinjaleve të kapshme nga publiku ose të cilat janë rezervuar për komunikim të mbyllur, bazë-bazë (nga një pikë në një tjetër). Megjithatë, në rastin e fundit, në rrethanat në të cilat ndodh, pranimi individual i sinjaleve duhet të jetë i krahasueshme me ato që zbatohen në rastin e parë.
-1.21.Ritransmetim kabllor - është ritransmetimi i njëkohshëm, i pandryshuar dhe i pandërprerë te publiku, nëpërmjet sistemit me tel, mediumet optike dhe mikrovalore për marrjen nga publiku të transmetimit që vjen nga një organizatë tjetër transmetuese.

@@ -1,0 +1,7 @@
+# Neni 39
+Kufijtë e vlefshmërisë së klauzolave kontraktore
+1. Asnjë klauzolë e kontratës për të drejtën e autorit nuk është e vlefshme nëse me të autori kalon ose bartë të drejtën e autorit ose autorizon përdorimin në një numër të pacaktuar ose qëllim të paidentifikuar të veprave që ai do të krijojë në të ardhmen. Megjithatë, në lidhje me autorizimin e organizatave të menaxhimit kolektiv për të menaxhuar të drejtën e autorit ose të drejtat e përafërta, zbatohet neni 87 paragrafi 2. i këtij ligji.
+2. Asnjë klauzolë e kontratës për licencim nuk është e vlefshme nëse me të autori autorizon çfarëdo mënyre të shfrytëzimit të veprës së tij, e cila është ende e panjohur në kohën e lidhjes së kontratës. Megjithatë, metoda e përdorimit e cila evoluon pas lidhjes të kontratës nuk duhet të konsiderohet një mënyrë përdorimi ende e panjohur në kohën e lidhjes së kontratës ku:
+2.1. thjesht ajo që është e përfshirë është një mënyrë përdorimi e njohur edhe më parë por vetëm bëhet e mundur të aplikohet me më shumë efikasitet ose më cilësi më të mirë; ose
+2.2. mënyra e re e përdorimit zëvendëson një mënyrë përdorimi të veprës, e cila është e njohur qysh në kohën e lidhjes së kontratës nga pikëpamja e natyrës dhe shtrirjes së saj.
+3. Të gjitha klauzolat në kontratën për të drejtën e autorit që janë në kundërshtim me dispozitat e këtij Ligji konsiderohen nule dhe të pavlefshme dhe në vend të tyre zbatohen kushtet e përcaktuara me këtë Ligj.

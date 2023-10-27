@@ -1,0 +1,9 @@
+# Neni 41
+Shpërblimi i autorit
+1. Pagesa që i bëhet autorit nga pala tjetër kontraktuese sipas marrëveshjeve juridike që kanë të bëjnë me bartjen e të gjithë ose një pjese të së drejtave ekonomike, dhënien në shfrytëzim ose licencën e shfrytëzimit, përcaktohet me marrëveshje të lirë ndërmjet palëve. Përllogaritja e përqindjes bazohet në të hyrat bruto pa përjashtim ose në shpenzimet bruto, ose në të ardhurat dhe shpenzimet bruto të kombinuara të realizuara nga veprimtaria e palës tjetër kontraktuese gjatë shfrytëzimit të veprës.
+2. Përjashtimisht, në rrethanat e mëposhtme, pagesa e autorit mund akordohet si një shumë e përgjithshme:
+2.1. kur është praktikisht e pamundur të vendoset baza për llogaritjen e një pagese në një vlerë të shprehur në përqindje ose kur nuk ka mundësi ose mjete për të monitoruar zbatimin e një marrëveshjeje me përqindjeje;
+2.2. kur shpenzimet që kërkohen për llogaritjen dhe monitorimin ka të ngjarë të jetë jashtë proporcionit të arsyeshëm me pagesën që do të realizohet;
+2.3. kur natyra ose kushtet e shfrytëzimit e bëjnë të pamundur zbatimin e një përqindjeje, veçanërisht kur kontributi i autorit nuk është një element thelbësor në krijimin intelektual në tërësi, ose kur përdorimi i veprës është dytësor në lidhje me objektin i shfrytëzimit.
+3. Rregullimi i përqindjes obligative të pagesës nga paragrafi 1. i këtij neni më lartë, zbatohet në të gjitha rrethanat, me kusht që me këtë ligj të mos përcaktohet ndryshe dhe nëse nuk ka të bëjë me veprat e krijuara nga punëtorët në përmbushjen e një kontrate pune, dhe në lidhje me programe kompjuterike ose reklama.
+4. Nëse shpërblimi i autorit nuk është i caktuar me kontratë, ai caktohet sipas pagesave të zakonshme për llojin e veprës, sipas kohëzgjatjes dhe vëllimit të përdorimit si dhe rrethanave të tjera.

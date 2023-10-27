@@ -1,0 +1,11 @@
+# Article 40
+Application of copyright contracts
+1. The assignee or licensee shall be obliged to make a statement on the acceptance of a work delivered to him under a contract relating to a work to be created in the future within the time limit provided in the contract, and, in the absence of such time limit, within two (2) months from the date of the delivery of the work to him. Where no statement is made by the assignee or licensee within such a time limit, the work shall be considered as accepted.
+2. The assignee or licensee may return the work to the author for corrections to be made in it with reference to justified grounds by setting reasonable deadline. If the author refuses to make corrections without reasonable grounds or fails to make the corrections by the deadline set, the assignee or licensee may rescind from the contract without payment of remuneration.
+3. If the author authorizes the use of his work, he is obliged to perform on it the alterations not affecting its essence but indispensable for the use foreseen in the contract. Should he refuse or be unable to meet this obligation, the assignee or licensee may perform the alterations without his consent.
+4. The author may unilaterally terminate the copyright contract if:
+4.1. the licensee fails to commence the use of the work within the period determined in the contract or – in the absence of a stipulated period – within the period to be reasonably expected in the given situation; or
+4.2. the licensee uses the work in an obviously inappropriate manner from the viewpoint of the nature and extent of the use of the work foreseen in the contract.
+5. The author may not in advance waive his right of termination referred to in paragraph 4. of this Article. Such waiver may be excluded by contract only for a five (5) years’ period following the conclusion of the contract or the delivery of the work if this occurs at a later date than is that of the conclusion of the contract.
+6. Instead of termination of the contract referred to in paragraph 4. of this Article, the author may terminate the exclusivity of the license with a simultaneous proportional reduction of the fee to be paid to him for the use.
+7. For implementation of the copyright contract, the relevant provisions of the Law on Obligational Relationships apply, unless otherwise provided by this Law.

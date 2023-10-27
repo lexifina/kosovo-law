@@ -1,0 +1,7 @@
+# Article 38
+Contents and interpretation of copyright contracts
+1. A copyright contract, with the exception the use of works in newspapers and other periodical publications, shall be concluded in written form and shall set out the nature and extent of uses of the work covered by it, the period of its validity, the territory for which it applies, the amount of remuneration or the basis for determining such amount for the use of the work, the conditions and time limits for payment of the remuneration.
+2. If, in a copyright contract, the territory for which it applies is not stipulated, it shall only be applicable for uses in the territory of the Republic of Kosovo.
+3. If, in a copyright contract, the term of its validity is not stipulated, it shall be deemed to have been concluded for three (3) years as from the date of its conclusion if it concerns use of a work in its original form, and for five (5) years if it concerns use of a work in an adapted or otherwise modified form or in translation.
+4. If the contract does not specify sufficiently clearly the nature and extent of the use of the work for which authorization is granted, it shall be interpreted to only cover that kind of nature and that extent of use of the work that is indispensable for the objective of the contract identifiable on the basis of its contents.
+5. In general, where any aspect of the contract is ambiguous, the ambiguity should be resolved by accepting that kind of interpretation of the contract which is the more favorable one from the viewpoint of the author.

@@ -1,0 +1,7 @@
+# Article 91
+Membership rules of collective management organisations
+1. A collective management organisation shall accept rightholders and entities representing rightholders, including other collective management organisations and associations of rightholders, as members if they fulfil the membership requirements, which shall be based on objective, transparent and non-discriminatory criteria. Those membership requirements shall be included in the statute or membership terms of the collective management organisation and shall be made publicly available. In cases where a collective management organisation refuses to accept a request for membership, it shall provide the rightholder with a clear explanation of the reasons for its decision.
+2. The statute of a collective management organisation shall provide for appropriate and effective mechanisms for the participation of its members in the organisation’s decision-making process. The representation of the different categories of members in the decision-making process shall be fair and balanced.
+3. A collective management organisation shall allow its members to communicate with it by electronic means, including for the purposes of exercising members’ rights.
+4. A collective management organisation shall keep records of its members and shall regularly update those records.
+5. At least thirty percent (30%) of members of the collective management organisation may ask from one or more independent auditors to conduct auditing of collective management organisation’s activity.

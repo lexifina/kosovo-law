@@ -1,0 +1,10 @@
+# Neni 30
+Zbatimi i parimit të vendit të origjinës për shërbimet ndihmëse online
+1. Aktet e komunikimit tek publiku të veprave dhe lëndës të tjetër të mbrojtur, me mjete me tela apo pa tela, dhe të vënies në dispozicion të publikut të veprave ose lëndëve të tjera të mbrojtura, me mjete me tela apo pa tela, në atë mënyrë që anëtarët e publiku mund t’iu qasen atyre nga një vend dhe në një kohë të zgjedhur individualisht prej tyre, që ndodh kur ofrohen për publikun:
+1.1. radio programet;
+1.2. programet televizive, të cilat janë:
+1.2.1. lajmet dhe programet aktuale; ose
+1.2.2. produksionet e financuara plotësisht të organizatës transmetuese, në një shërbim ndihmës online që ofrohet ose është nën kontrollin dhe përgjegjësinë e një organizate transmetuese, si dhe aktet e riprodhimit të këtyre veprave ose temave të tjera të mbrojtura që janë të nevojshme për ofrimin, qasjen ose përdorimin e një shërbimi të tillë online për të njëjtat programe, për qëllime të ushtrimit të së drejtës së autorit dhe të drejtave të lidhura me këto akte, do të konsiderohet se ndodhin vetëm në shtetin në të cilin organizata transmetuese ka selinë e saj kryesore. Paragrafi 1., nën-paragrafi 1.2. i këtij neni nuk zbatohet për transmetimet e ngjarjeve dhe zhvillimeve sportive dhe lëndës tjetër të mbrojtur të përfshirë në to.
+2. Kur caktojnë shumën e pagesës që do të bëhet për të drejtat për të cilat zbatohet parimi i vendit të origjinës, siç përcaktohet në paragrafin 1. të këtij neni, palët marrin parasysh të gjitha aspektet e shërbimit ndihmës online, siç janë karakteristikat e shërbimit, duke përfshirë kohëzgjatjen e disponueshmërisë në internet të programeve të ofruara në atë shërbim, audiencën dhe versionet gjuhësore të ofruara. Nën-paragrafi 1. i këtij neni nuk përjashton llogaritjen e shumës së pagesës në bazë të të ardhurave të organizatës transmetuese.
+3. Parimi i vendit të origjinës, i përcaktuar në paragrafin 1. të këtij neni, nuk cenon lirinë kontraktuale të mbajtësve të të drejtave dhe organizatave transmetuese për të rënë dakord për të kufizuar shfrytëzimin e këtyre të drejtave.
+NËNKAPITULLI VI DISA TË DREJTA TË TJERA EKONOMIKE

@@ -1,0 +1,8 @@
+# Neni 109
+Aftësia për të procesuar licencat shumë territoriale
+1. Një organizatë e menaxhimit kolektiv, e cila jep licenca shumë-territoriale për të drejtat në internet në veprat muzikore, ka kapacitet të mjaftueshëm për të përpunuar në mënyrë elektronike, në mënyrë efikase dhe transparente, të dhënat e nevojshme për administrimin e licencave të tilla, duke përfshirë për qëllimet e identifikimit të repertorit dhe monitorimin e përdorimit të tij, faturimin e përdoruesve, mbledhjen e të ardhurave nga të drejtat dhe shpërndarjen e shumave që u takojnë mbajtësve të të drejtave.
+2. Për qëllimet e paragrafit 1. të këtij neni, organizata e menaxhimit kolektiv duhet t’i plotësojë së paku këto kushte:
+2.1. të ketë aftësinë për të identifikuar me saktësi veprat muzikore, tërësisht ose pjesërisht, të cilat organizata e menaxhimit kolektiv është e autorizuar t’i përfaqësojë;
+2.2. të ketë aftësinë për të identifikuar me saktësi, tërësisht ose pjesërisht, në lidhje me çdo territor përkatës, të drejtat dhe bartësit e tyre përkatës të të drejtave, për çdo vepër muzikore ose pjesë në të, të cilën organizata e menaxhimit kolektiv është e autorizuar të përfaqësojë;
+2.3. të përdorin identifikues unik për të identifikuar bartësit e të drejtave dhe veprat muzikore, duke marrë parasysh, sa më shumë që të jetë e mundur, standardet dhe praktikat vullnetare të industrisë të zhvilluara në nivel ndërkombëtar;
+2.4. të përdorin mjetet e duhura për të identifikuar dhe zgjidhur në kohë dhe në mënyrë efektive, mospërputhjet në të dhënat e mbajtura nga organizatat e tjera të menaxhimit kolektiv që japin licenca shumë-territoriale për të drejtat në internet në veprat muzikore.

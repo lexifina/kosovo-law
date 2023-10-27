@@ -1,8 +1,0 @@
-LAW No. 05/L-047
-ON AMENDING AND SUPPLEMENTING THE LAW No.04/L-065 ON COPYRIGHT AND
-RELATED RIGHTS
-The Assembly of the Republic of Kosovo;
-Based on Article 65 (1) of the Constitution of the Republic of Kosovo,
-Approves
-LAW ON AMENDING AND SUPPLEMENTING THE LAW No.04/L-065 ON COPYRIGHT
-AND RELATED RIGHTS

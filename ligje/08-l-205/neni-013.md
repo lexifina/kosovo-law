@@ -1,0 +1,10 @@
+# Neni 13
+E drejta e autorit në veprat e krijuara në marrëdhënie pune
+1. Kur një vepër krijohet nga punëmarrësi në kryerjen e detyrave të tij të punës, sipas udhëzimeve të dhëna nga punëdhënësi i tij, përveç nëse me kontratë parashikohet ndryshe, punëdhënësi ka të drejtë të ushtrojë të drejtat ekonomike në veprën e krijuar për një afat prej dhjetë (10) vitesh, nga përfundimi i veprës.
+2. Paragrafi 1. i këtij neni zbatohet vetëm kur vepra përdoret në sferën e aktiviteteve normale të punëdhënësit të parapara në kohën e marrëveshjes për detyrat e autorit.
+3. Pavarësisht nga dispozitat nga paragrafi 1. i këtij neni, të drejtat autorit të punësuar do t’i kthehen para përfundimit të afati tillë, në rast të vdekjes së punëdhënësit, përkatësisht në rast të likuidimit të punëdhënësit si person juridik.
+4. Nëse punëdhënësi nuk i shfrytëzon të drejtat pronësore mbi atë vepër, ose i shfrytëzon ato në masë të papërfillshme, autori i punësuar ka të drejtë të kërkojë nga punëdhënësi t’ia kalojë ato të drejta, kundrejt kompensimit të shpenzimeve.
+5. Nëse nuk është kontraktuar ndryshe ndërmjet autorit si punëmarrës dhe punëdhënësit, punëmarrësi, si autor i veprës, gëzon të drejtën të kërkojë kompensim shtesë nga punëdhënësi, nëse paga e tij është në disproporcion të dukshëm me të ardhurat dhe kursimet e realizuara për shkak të përdorimit të veprës.
+6. Autori i punësuar do të ruajë të drejtën e autorit për çdo vepër që nuk është krijuar në kryerjen e detyrave të tij të punës, si dhe për çdo përdorim të veprës së krijuar në kuadër të detyrave të tij të punës që nuk mbulohet nga aktivitetet normale të punëdhënësit të përmendura në paragrafin 2. të këtij neni.
+7. Në rastin e veprave kolektive, paragrafët 2. deri në 6. të këtij neni nuk zbatohen.
+8. Kur një program kompjuterik ose një bazë e të dhënave krijohet nga një punonjës gjatë ushtrimit të detyrave të tij/saj ose gjatë zbatimit të udhëzimeve të dhëna nga punëdhënësi i tij/saj, punëdhënësi ka të drejtë ekskluzivisht të ushtrojë të gjitha të drejtat ekonomike në programin e krijuar në këtë mënyrë, përveç rasteve kur parashikohet ndryshe me kontratë.

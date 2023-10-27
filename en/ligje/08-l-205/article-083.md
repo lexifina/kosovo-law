@@ -1,0 +1,5 @@
+# Article 83
+Term of protection of the right of producers of databases
+1. The right provided for in Article 78 of this law shall be protected from the date of completion of the making of the database until the expiry of fifteen (15) years calculated from January 1 of the year following the date of completion.
+2. In the case of a database which is made available to the public in whatever manner before the expiry of the period provided for in paragraph 1. of this Article, the term of protection of the right of the producer of the database shall expire fifteen (15) years calculated from January 1 of the year following the date when the database was first made available to the public.
+3. Any substantial change, evaluated qualitatively or quantitatively, to the contents of a database, including any substantial change resulting from the accumulation of successive additions, deletions or alterations, which would result in the database being considered to be a substantially new investment, evaluated qualitatively or quantitatively, shall qualify the database resulting from that investment for its own term of protection.

@@ -1,0 +1,6 @@
+# Neni 114
+Marrëveshjet ndërmjet organizatave të menaxhimit kolektiv për licencimin shumë-
+territorial
+1. Zyra siguron që çdo marrëveshje përfaqësimi ndërmjet organizatave të menaxhimit kolektiv, me anë të së cilës një organizatë e menaxhimit kolektiv mandaton një organizatë tjetër të menaxhimit kolektiv që të japë licenca shumë-territoriale për të drejtat në internet për veprat muzikore, në repertorin e saj muzikor, do të jetë e një natyre jo ekskluzive. Organizata e mandatuar e menaxhimit kolektiv do t’i menaxhojë ato të drejta në internet mbi baza jo diskriminuese.
+2. Organizata mandatuese e menaxhimit kolektiv është e obliguar t’i informojë anëtarët e saj për kushtet kryesore të marrëveshjes, duke përfshirë kohëzgjatjen e saj dhe kostot e shërbimeve të ofruara nga organizata e mandatuar për menaxhim kolektiv.
+3. Organizata e mandatuar e menaxhimit kolektiv është e obliguar të informojë organizatën mandatare të menaxhimit kolektiv, për kushtet kryesore sipas të cilave do të licencohen të drejtat e kësaj të fundit, duke përfshirë natyrën e shfrytëzimit, të gjitha dispozitat që kanë të bëjnë ose ndikojnë në tarifën e licencës, kohëzgjatjen e licencës, periudhat kontabël dhe territoret e mbuluara.

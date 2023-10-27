@@ -1,0 +1,5 @@
+# Neni 83
+Afati i mbrojtjes së të drejtës së prodhuesve të bazave të të dhënave
+1. E drejta e përcaktuar në nenin 78 të këtij ligji, mbrohet nga data e përfundimit të prodhimit të bazës së të dhënave, deri në kalimin e pesëmbëdhjetë (15) viteve, llogaritur nga 1 janari i vitit pasardhës pas datës së përfundimit.
+2. Në rastin e bazës së të dhënave e cila vihet në dispozicion të publikut në çfarëdo mënyre, para skadimit të afatit nga paragrafi 1. të këtij neni, afati i mbrojtjes së të drejtës së prodhuesit të bazës së të dhënave përfundon pesëmbëdhjetë (15) vjet llogaritur nga 1 janari i vitit pasardhës pas datës kur baza e të dhënave është vënë për herë të parë në dispozicion të publikut.
+3. Çdo ndryshim thelbësor, i vlerësuar në mënyrë cilësore ose sasiore, në përmbajtjen e një baze të të dhënave, duke përfshirë çdo ndryshim thelbësor që rezulton nga grumbullimi i shtesave, fshirjeve ose ndryshimeve të njëpasnjëshme, që do të rezultonte që baza e të dhënave të konsiderohet si një investim thelbësor i ri, vlerësuar në mënyrë cilësore ose sasiore, do të kualifikojë bazën e të dhënave që rezulton nga ai investim për afatin e vet të mbrojtjes.

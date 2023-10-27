@@ -1,0 +1,7 @@
+# Neni 37
+Kalimi dhe licencimi për të drejtat ekonomike
+1. Të drejtat ekskluzive ekonomike, të drejtat për shpërblim të autorëve nëse me këtë ligj nuk është paraparë ndryshe, mund të barten ose kalohen nga autorët ose pronarët e tjerë të së drejtave të autorit me kontratë. Si rezultat i një kalimi të tillë, përfituesi do të jetë pronari i ri i të drejtës së autorit.
+2. Në lidhje me të drejtat ekskluzive ekonomike të autorëve, licencat mund të jepen në formë të licencës ekskluzive ose në formë të licencës jo ekskluzive. Nëse në kontratën e licencës nuk parashihet që ajo është ekskluzive, licenca do të konsiderohet jo ekskluzive.
+3. Sipas një licence ekskluzive, vetëm i licencuari mund ta përdorë veprën brenda kufijve të përcaktuar në kontratë. Brenda këtyre kufijve, ai do të ketë gjithashtu të drejtën të autorizojë ose ndalojë përdorimin e veprës nga persona të tjerë.
+4. Sipas licencës jo-ekskluzive, i licencuari, brenda kufijve të përcaktuar në kontratë, mund ta përdorë veprën në të njëjtën mënyrë si personat e tjerë që kanë marrë autorizimin për ta përdorur atë. Ai nuk ka të drejtë të autorizojë ose të ndalojë përdorimin e veprës nga persona të tjerë, përveç nëse parashihet ndryshe në kontratë.
+5. Kur një autor i ka transferuar ose licencuar një të drejtë një botuesi, një transferim ose licencë e tillë që botuesi të ketë të drejtën për një pjesë të kompensimit për përdorimin e veprës së bërë sipas një përjashtimi ose kufizimi të e drejta e transferuar ose e licencuar.

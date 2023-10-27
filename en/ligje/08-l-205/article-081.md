@@ -1,0 +1,5 @@
+# Article 81
+Rights and obligations of lawful users of databases
+1. The producer of a database which is made available to the public in whatever manner may not prevent a lawful user of the database from extracting and/or re-utilizing insubstantial parts of its contents, evaluated qualitatively and/or quantitatively, for any purposes whatsoever. Where the lawful user is authorized to extract and/or re-utilize only part of the database, this paragraph shall apply only to that part. Any provision contrary to this paragraph shall be null and void.
+2. A lawful user of a database which is made available to the public in whatever manner may not perform acts which conflict with normal exploitation of the database or unreasonably prejudice the legitimate interests of the producer of the database.
+3. A lawful user of a database which is made available to the public in any manner may not cause prejudice to the holder of a copyright or related rights in respect of the works or other objects of protection contained in the database.

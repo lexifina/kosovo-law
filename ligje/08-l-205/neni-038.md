@@ -1,0 +1,7 @@
+# Neni 38
+Përmbajtja dhe interpretimi i kontratave të së drejtës së autorit
+1. Kontrata për të drejtën e autorit, me përjashtim të përdorimit të veprave në gazeta dhe botime të tjera periodike, duhet të lidhet me shkrim dhe përcakton natyrën dhe vëllimin e përdorimit të veprës që mbulon ajo, periudhën e vlefshmërisë së saj, territorin për të cilin aplikohet, masën e shpërblimit ose bazën për përcaktimin e shumës së tillë për shfrytëzimin e veprës, kushtet dhe afatet kohore për pagesën e shpërblimit.
+2. Nëse në kontratën për të drejtën e autorit nuk është paraparë territori për të cilin aplikohet, ajo do të zbatohet vetëm për përdorimet në territorin e Republikës së Kosovës.
+3. Nëse në kontratën për të drejtën e autorit nuk është paraparë afati i vlefshmërisë së saj, ajo konsiderohet e lidhur për tre (3)vjet nga data e lidhjes së saj, nëse ka të bëjë me përdorimin e veprës në formën e saj origjinale, dhe për pesë (5) vjet nëse ka të bëjë me përdorimin e një vepre në formë të përshtatur ose të modifikuar ndryshe ose në përkthim.
+4. Nëse kontrata nuk e specifikon mjaft qartë natyrën dhe shtrirjen e përdorimit të veprës për të cilën është dhënë autorizimi, ajo do të interpretohet se mbulon vetëm atë lloj natyre dhe atë masë të përdorimit të veprës që është e domosdoshme për të përmbushur objektin e kontratës, i identifikueshëm në bazë të përmbajtjes së saj.
+5. Në përgjithësi, kur ndonjë aspekt i kontratës është i paqartë, paqartësia duhet të zgjidhet duke pranuar atë lloj interpretimi të kontratës që është më i favorshëm nga këndvështrimi i autorit.

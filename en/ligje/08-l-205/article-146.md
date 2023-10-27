@@ -1,0 +1,3 @@
+# Article 146
+Abrogation provisions
+Upon entry into force of this Law, the following laws shall be abolished: Law No. 04/L-065 on Copyright and Related Rights (Official Gazette of the Republic of Kosova/No.27/30 November 2011, Pristina); Law No. 05/L-047 on Amending and Supplementing the Law No.04/L-065 on Copyright and Related Rights (Official Gazette of the Republic of Kosova /No. 37/03 November 2016, Pristina); Law No. 06/L-120 on Amending and Supplementing the Law No. 04/L-065 on Copyright and Related Rights, Amended and Supplemented by the Law No.05/L-047 (Official Gazette of the Republic of Kosovo/ No.13/04 July 2019, Prishtina), as well as all other by-laws which contradict this law.

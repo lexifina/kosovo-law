@@ -1,0 +1,3 @@
+# Article 103
+User’s obligations
+Users shall provide a collective management organisation, within an agreed or pre-established time and in an agreed or pre-established format, with such relevant information at their disposal on the use of the rights represented by the collective management organisation as is necessary for the collection of rights revenue and for the distribution and payment of amounts due to rightholders. When deciding on the format for the provision of such information, collective management organisations and users shall take into account, as far as possible, voluntary industry standards.

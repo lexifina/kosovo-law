@@ -1,0 +1,18 @@
+## CHAPTER VII
+## MANDATE OF COPYRIGHT OFFICE
+# Article 121
+Status and tasks of the Office
+1. The Office for copyright and related rights operates within the respective Ministry on Culture and has a program/subprogram, where the funds for financing the Office are provided by the budget of the Republic of Kosovo and other alternative financing in accordance with the legislation in force. The Office is led by the director, and has the following duties:
+1.1. developing and within its competence applying - adequate strategy and policy for the protection, exercise and enforcement of copyright, related rights and other rights protected by this Law in accordance with the international obligations, national legislation and the corresponding national interests of the Republic of Kosovo;
+1.2. in order to fulfill its task mentioned in sub-paragraph 1.1. of this Article, collecting necessary information, carrying out studies, and consultations with governmental bodies, institutions, as well as with the representatives of the interested owners of rights and users;
+1.3. submitting to the Government and/or other governmental bodies proposals where certain measures necessary for the applications of the strategy and policy mentioned in sub- paragraph 1.1. of this Article would go beyond its competence;
+1.4. preparing draft laws and regulations concerning the protection, exercise and enforcement of copyright, related rights and other rights protected by this Law;
+1.5. representing the Republic of Kosovo at international and regional organizations dealing with copyright, related rights and other rights protected by this Law;
+1.6. establishing and maintaining mutually advantageous cooperation with governmental offices, agencies and research institutions and other organizations of other countries dealing with copyright, related rights and other rights protected by this Law, in accordance with the intergovernmental policy of the Republic of Kosovo;
+1.7. in cooperation with the competent judicial, administrative and customs authorities and where necessary initiating proceedings for the application enforcement measures actively participating in the fight against infringements of rights and, in particular, piracy;
+1.8. leads and coordinates the Task Force against Piracy;
+1.9. proposes to the relevant Minister for Culture, the licensing of collective management organizations, the Office supervises the activities of collective management organizations;
+1.10. promoting awareness of governmental bodies, judicial, administrative and other institutions, owners of rights and users as well as the general public, concerning the importance and the political, legal and practical aspects of the protection, exercise and enforcement of copyright, related rights and other rights protected by this Law, through preparing and distributing information materials, organizing awareness campaigns, and maintaining active relationship with the press and media;
+1.11. receiving from collective management organisations, rightholders, users, and other interested parties notifications for that purpose of activities or circumstances which, in their opinion, constitute a breach of the provisions of this law.
+2. The organization and operation of the Office are determined by internal regulations for the Internal Organization and Systematization of Job Positions of the relevant ministry of culture.
+3. The establishment, operation and composition of Task Force against Piracy as a coordinating body, shall be determined by sub-legal act proposed by the relevant Ministry of Culture and approved by the Government of Kosovo.

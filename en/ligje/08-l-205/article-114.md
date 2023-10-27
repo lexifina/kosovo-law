@@ -1,0 +1,5 @@
+# Article 114
+Agreements between collective management organisations for multi-territorial licensing
+1. Any representation agreement between collective management organisations whereby a collective management organisation mandates another collective management organisation to grant multi-territorial licences for the online rights in musical works in its own music repertoire shall be of a non-exclusive nature. The mandated collective management organisation shall manage those online rights on a non-discriminatory basis.
+2. The mandating collective management organisation shall inform its members of the main terms of the agreement, including its duration and the costs of the services provided by the mandated collective management organisation.
+3. The mandated collective management organisation shall inform the mandating collective management organisation of the main terms according to which the latter’s online rights are to be licensed, including the nature of the exploitation, all provisions which relate to or affect the licence fee, the duration of the licence, the accounting periods and the territories covered.

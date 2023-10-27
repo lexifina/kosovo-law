@@ -1,0 +1,19 @@
+# Neni 57
+Përdorimet e lejuara të veprave të caktuara dhe lëndëve të tjera të mbrojtura nga e drejta e autorit dhe të drejtat e përafërta në dobi të personave të verbër dhe me shikim
+të dëmtuar ose paaftësi leximi
+1. Do të lejohet, pa autorizim të autorit dhe pa kompensim, të kryhet çdo veprim që është i nevojshëm për të mundësuar:
+1.1. një person përfitues ose një person që vepron në emër të tyre, për të bërë një kopje në format të aksesueshëm të një vepre, në të cilën personi përfitues ka qasje të ligjshme dhe që është menduar për përdorimin e tyre ekskluziv;
+1.2. një ent i autorizuar për të bërë një kopje në format të aksesueshëm të një vepre, në të cilën ka akses të ligjshëm, ose për të komunikuar, vënë në dispozicion, shpërndarë ose huazuar këtë kopje një personi përfitues ose një subjekti tjetër të autorizuar në baza jofitimprurëse për qëllimin të përdorimit ekskluziv nga një person përfitues. Ky autorizim përfshin edhe ilustrime të të gjitha llojeve që gjenden në veprat letrare ose muzikore.
+2. Kopja e veprës ose e një lënde tjetër të mbrojtur, që në mënyrë ose formë alternative i mundëson personit të verbër apo me shikim të dëmtuar ose aftësi të kufizuara në lexim, qasje në veprën ose lëndën tjetër, duhet të respektojë integritetin e veprës ose lëndës tjetër; me konsideratën e duhur për ndryshimet e nevojshme për ta bërë veprën ose lëndën tjetër të mbrojtur të qasshme në formatin alternativ.
+3. Përjashtimi i paraparë në paragrafin 1. të këtij neni nuk mund të anulohet me kontratë.
+4. Subjekti i autorizuar që kryen veprimet e përmendura në paragrafin 1. të këtij neni, vendos dhe ndjek praktikat e veta për të siguruar që:
+4.1. shpërndan, komunikon dhe vë në dispozicion kopje të formatit të qasshëm vetëm për personat me shikim të dëmtuar ose aftësi të kufizuara në lexim ose subjekte të tjera të autorizuara;
+4.2. merr hapat e duhur për të dekurajuar riprodhimin, shpërndarjen dhe komunikimin e paautorizuar për publikun ose vënien në dispozicion të publikut të kopjeve të formatit të qasshëm;
+4.3. tregon kujdesin e duhur dhe mban shënime për trajtimin e punimeve ose lëndëve të tjera dhe të kopjeve të tyre në format të qasshëm;
+4.4. publikon dhe përditëson, në faqen e tij të internetit, nëse është e përshtatshme, ose nëpërmjet kanaleve të tjera në internet ose jashtë tij analog apo fizik, informacione se si i përmbush detyrimet e përcaktuara në nën-paragrafët 4.1. deri 4.3. të këtij neni;
+4.5. praktikat e përmendura në nën-paragrafin 4.1. të këtij neni vendosen dhe ndiqen në respekt të plotë të rregullave të zbatueshme për përpunimin e të dhënave personale të personave me dëmtim të shikimit ose aftësi të kufizuara në lexim.
+5. Subjektet e autorizuara të themeluara në Kosovë që kryejnë aktet e përmendura në paragrafin 1. të këtij neni, ua ofrojnë informacionin e mëposhtëm në mënyrë të qasshme, sipas kërkesës, personave përfitues, subjekteve të tjera të autorizuara ose mbajtësve të të drejtave:
+5.1. listën e veprave ose lëndëve të tjera për të cilat ka kopje të formatit të qasshëm dhe formatet e disponueshme;
+5.2. emrin dhe detajet e kontaktit të subjekteve të autorizuara me të cilat është angazhuar në shkëmbimin e kopjeve të formatit të qasshëm, sipas paragrafit 2. të këtij neni.
+6. Subjektet e autorizuara janë të obliguara t’i komunikojnë Zyrës: emrat e tyre dhe detajet e kontaktit dhe t’u ofrojnë në mënyrë qasshme, sipas kërkesës, personave përfitues, subjekteve të tjera të autorizuara ose bartësve të të drejtave listën e veprave ose lëndëve të tjera të mbrojtura, për të cilat subjekti ka kopje të formatit të qasshëm dhe formatet e disponueshme, si dhe emrin dhe detajet e kontaktit të subjekteve të autorizuara me të cilat është angazhuar në shkëmbimin e kopjeve të formatit të qasshëm.
+7. Përjashtimi zbatohet për të gjitha llojet e veprave, duke përfshirë bazat e të dhënave dhe programet kompjuterike dhe në lidhje me autorët si dhe bartësit e të drejtave të përafërta.

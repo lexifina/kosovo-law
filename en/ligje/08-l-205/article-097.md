@@ -1,0 +1,6 @@
+# Article 97
+Deductions
+1. The collective management organisation is required to provide the rightholder with information on management fees and other deductions from the rights revenue and from any income arising from the investment of rights revenue, before obtaining his consent to its managing his rights.
+2. Deductions shall be reasonable in relation to the services provided by the collective management organisation to rightholders, including, where appropriate, the services referred to in paragraph 4. of this Article, and shall be established on the basis of objective criteria.
+3. Management fees shall not exceed the justified and documented costs incurred by the collective management organisation in managing copyright and related rights. The requirements applicable to the use and the transparency of the use of amounts deducted or offset in respect of management fees apply to any other deductions made in order to cover the costs of managing copyright and related rights.
+4.Where a collective management organisation provides social, cultural or educational services funded through deductions from rights revenue or from any income arising from the investment of rights revenue, such services shall be provided on the basis of fair criteria, in particular as regards access to, and the extent of, those services.

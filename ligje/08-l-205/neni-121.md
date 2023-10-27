@@ -1,0 +1,18 @@
+## KAPITULLI VII
+## MANDATI I ZYRËS PËR TE DREJTAT E AUTORIT
+# Neni 121
+Statusi dhe detyrat e Zyrës
+1. Zyra për të drejtat e autorit dhe të drejtat e përafërta funksionon në kuadër të ministrisë përkatëse për kulturë e cila ka programin/nënprogramin, ku mjetet për financimin e Zyrës sigurohen nga buxheti i Republikës së Kosovës dhe financimet e tjera alternative në përputhje me legjislacionin në fuqi. Zyra udhëhiqet nga drejtori, dhe ka këto detyra:
+1.1. zhvillimin dhe brenda kompetencës së saj zbatimin e strategjisë dhe politikës adekuate për mbrojtjen, dhe zbatimin e të drejtës së autorit, të drejtave të përafërta dhe të drejtave të tjera të mbrojtura nga ky ligj, në përputhje me detyrimet ndërkombëtare, legjislacionin kombëtar dhe interesat përkatëse kombëtare të Republikës së Kosovës;
+1.2. për të përmbushur detyrat e përmendura në nën-paragrafin 1.1., të këtij neni, mbledhë e informacion të nevojshëm, kryen studime dhe konsultime me organet qeveritare, institucionet, si dhe me përfaqësuesit e pronarëve të interesuar të të drejtave dhe përdoruesve;
+1.3. t’i paraqesë Qeverisë dhe/ose organeve të tjera qeveritare propozime kur masat e caktuara të nevojshme për zbatimin e strategjisë dhe politikës së përmendur nën- paragrafin 1.1. të këtij neni, tejkalojnë kompetencën e saj;
+1.4. hartimin e projektligjeve dhe rregulloreve lidhur me mbrojtjen, ushtrimin dhe zbatimin e të drejtës së autorit, të drejtave të përafërta dhe të drejtave të tjera të mbrojtura me këtë ligj;
+1.5. përfaqësimin e Republikës së Kosovës në organizatat ndërkombëtare dhe rajonale që merren me të drejtën e autorit, të drejtat e përafërta dhe të drejtat tjera të mbrojtura me këtë Ligj;
+1.6. vendosjen dhe mbajtjen e bashkëpunimit për arsyeje të përfitimit reciprok me zyrat qeveritare, agjencitë dhe institucionet kërkimore dhe organizatat tjera të vendeve të tjera që merren me të drejtën e autorit, të drejtat e përafërta dhe të drejtat e tjera të mbrojtura me këtë ligj, në përputhje me politikën ndërqeveritare të Republikës së Kosovës;
+1.7. në bashkëpunim me autoritetet kompetente gjyqësore, administrative dhe aty ku është e nevojshme inicimin e kërkesave për fillimin e procedurave për aplikimin e masave zbatuese, në mënyrë aktive merr pjesë në luftën kundër shkeljeve të të drejtave dhe në veçanti piraterisë;
+1.8.udhëheq dhe koordinon Task Forcën kundër Piraterisë;
+1.9. propozon ministrit përkatës për Kulturë licencimin e organizatave të menaxhimin kolektiv, Zyra bën mbikëqyrjen e aktiviteteve të organizatave të menaxhimit kolektiv;
+1.10. promovimin e ndërgjegjësimit të organeve qeveritare, gjyqësore, administrative dhe institucioneve të tjera, pronarëve të të drejtave dhe përdoruesve, si dhe publikut të gjerë, në lidhje me rëndësinë dhe aspektet politike, ligjore dhe praktike të mbrojtjes, ushtrimit dhe zbatimit të drejtave të autorit, të drejtave të përafërta dhe të drejtave të tjera të mbrojtura me këtë ligj, përmes përgatitjes dhe shpërndarjes së materialeve informative, organizimit të fushatave vetëdijesuese dhe mbajtjes së marrëdhënieve aktive me shtypin dhe mediat;
+1.11.marrjen e njoftimeve nga organizatat e menaxhimit kolektiv, mbajtësve të të drejtave, përdoruesve dhe palëve të tjera të interesuara për atë qëllim të aktiviteteve ose rrethanave që, sipas tyre, përbëjnë shkelje të dispozitave të këtij ligji.
+2. Organizimi dhe funksionimi i Zyrës përcaktohen me rregullore të brendshme për Organizimin e Brendshëm dhe Sistematizimin e Vendeve të Punës të ministrisë përkatëse për kulturë.
+3. Themelimi, funksionimi dhe përbërja e Task Forcës kundër piraterisë si trup koordinues, përcaktohen me akt nënligjor të propozuar nga ministria përkatëse për kulturë dhe të miratuar nga Qeveria e Kosovës.

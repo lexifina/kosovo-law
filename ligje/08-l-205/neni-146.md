@@ -1,0 +1,3 @@
+# Neni 146
+Dispozita shfuqizuese
+Me hyrjen në fuqi të këtij ligji, shfuqizohet: Ligji nr. 04/L-065 për të Drejtat e Autorit dhe të Drejtat e Përafërta (Gazeta Zyrtare e Republikës së Kosovës / Nr.27/30 Nëntor 2011, Prishtinë); Ligji nr. 05/L-047 për Ndryshimin dhe Plotësimin e Ligjit Nr.04/L-065 për të Drejtat e Autorit dhe të Drejtat e Përafërta (Gazeta Zyrtare e Republikës së Kosovës/Nr. 37 / 03 Nëntor 2016, Prishtinë) dhe Ligj Nr. 06/L-120 për Ndryshimin dhe Plotësimin e Ligjit Nr. 04/L-065 për të Drejtat e Autorit dhe të Drejtat e Përafërta i Ndryshuar dhe Plotësuar me Ligjin Nr. 05/L-047 (Gazeta Zyrtare e Republikës së Kosovës /Nr.13/04 Korrik 2019, Prishtinë). Si dhe të gjitha aktet e tjera nënligjore të cilat bien në kundërshtim me këtë ligj.

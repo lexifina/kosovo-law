@@ -1,0 +1,4 @@
+# Article 126
+Evidence
+1. On application by a party which has presented reasonably available evidence sufficient to support its claims, and has, in substantiating those claims, specified evidence which lies in the control of the opposing party, the Court may order that such evidence be presented by the opposing party, subject to the protection of confidential information. A reasonable sample of a substantial number of copies of a work or any other protected object is considered by the competent judicial authorities to constitute reasonable evidence.
+2. Under the same conditions, in the case of an infringement committed on a commercial scale the Court may order, where appropriate, on application by a party, the communication of banking, financial or commercial documents under the control of the opposing party, subject to the protection of confidential information.

@@ -1,0 +1,8 @@
+# Article 141
+Other foreign holders of related rights
+1. The protection under this Law shall enjoy other foreign holders of related rights which have their domicile or corporate seat registered in the Republic of Kosovo.
+2. The protection under this Law shall enjoy the producer of phonogram and film producer if their phonogram or film was first published in the Republic of Kosovo.
+3. The protection under this Law shall enjoy the publisher with respect to his related rights if his edition was first published in the Republic of Kosovo or within thirty (30) days of having been published in another country.
+4. The protection under this Law shall enjoy the broadcaster that transmits his broadcast from transmitters located on the territory of the Republic of Kosovo.
+5. The right provided for in Article 78 of this Law shall also apply to companies and firms formed in accordance with the law of the Republic of Kosovo and having their registered office, central administration or principal place of business within the territory of the Republic of Kosovo. However, where such a company or firm has only its registered office in the territory of the Republic of Kosovo, its operations also must be genuinely linked on an ongoing basis with the economy of the Republic of Kosovo.
+6. Agreements extending the right provided for in Article 78 of this Law to databases made in third countries and falling outside the provisions of paragraph 5. of this Article shall be protected on the basis of an international treaty to which the Republic of Kosovo will become a party. The term of any protection extended to databases made in other countries shall not exceed that provided for in Article 78 of this law.

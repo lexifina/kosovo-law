@@ -1,0 +1,8 @@
+# Neni 141
+Bartës të tjerë të huaj të të drejtave të përafërta
+1. Mbrojtjen sipas këtij ligji e gëzojnë bartësit e tjerë të huaj të të drejtave të përafërta, të cilët e kanë vendbanimin ose selinë e përbashkët të regjistruar në Republikën e Kosovës.
+2. Mbrojtjen sipas këtij ligji e gëzon prodhuesi i fonogramit dhe producenti i filmit nëse fonogrami ose filmi i tyre është publikuar për herë të parë në Republikën e Kosovës.
+3. Mbrojtjen sipas këtij ligji e gëzon botuesi në lidhje me të drejtat e tij të përafërta, nëse botimi i tij për herë të parë është publikuar në Republikën e Kosovës ose brenda tridhjetë (30) ditëve nga publikimi në një shtet tjetër.
+4. Mbrojtjen sipas këtij ligji e gëzon transmetuesi që transmeton transmetimin e tij, nga transmetuesit që ndodhen në territorin e Republikës së Kosovës.
+5. E drejta nga neni 78 i këtij ligji vlen edhe për ndërmarrjet dhe kompanitë e formuara në pajtim me legjislacionin e Republikës së Kosovës dhe që kanë selinë e tyre, administratën qendrore ose vendin kryesor të biznesit në territorin e Republikës së Kosovës. Megjithatë, kur një kompani apo firmë e tillë ka vetëm selinë e saj të regjistruar në territorin e Republikës së Kosovës, operacionet e saj gjithashtu duhet të jenë të lidhura realisht në baza të vazhdueshme me ekonominë e Republikës së Kosovës.
+6. Marrëveshjet që shtrijnë të drejtën nga neni 78 i këtij ligji në bazat e të dhënave të bëra në vendet e treta dhe që bien jashtë dispozitave të paragrafit 5. të këtij neni, mbrohen në bazë të një traktati ndërkombëtar në të cilin Republika e Kosovës do të bëhet palë. Afati i çdo mbrojtjeje të shtrirë në bazat e të dhënave të krijuara në vende të tjera nuk do të kalojë atë të përcaktuar në nenin 78 të këtij ligji.

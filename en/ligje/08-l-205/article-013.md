@@ -1,0 +1,10 @@
+# Article 13
+Copyright in works created under employment
+1.Where a work is created by an employee in the execution of his employment duties following the instructions given by his employer, unless otherwise provided by contract, the employer shall be entitled to exercise the economic rights in the work so created, for a period of ten (10) years, from the completion of the work.
+2. Paragraph 1. of this Article shall only apply where the work is used within the field of the employer’s normal activities foreseen at the time of the agreement concerning the author’s duties.
+3. Regardless of the provisions referred to in paragraph 1. of this Article, the rights will be returned to the employed author before the completion of such term, in case of employer’s death, respectively in case of employer’s liquidation as a legal person.
+4. If the employer does not use the property rights on that work, or uses them in a negligible manner, the employed author has the right to ask from the employer to assign those rights to him, against compensation of expenses.
+5. Unless otherwise contracted between the author and employer, the employee, as the author of the work enjoys the right to claim additional compensation from the employer, if his salary is in evident disproportion with the incomings and savings realized due to the use of the work.
+6. The employed author shall maintain copyright in respect of any work not created in the execution of his employment duties as well as of any use of a work created under his employment duties that is not covered by the employer’s normal activities mentioned in paragraph 2. of this Article.
+7. In the case of collective works, paragraphs 2. to 6. of this Article shall not apply.
+8. Where a computer program or a database is created by an employee in the execution of his duties or following the instructions given by his employer, the employer exclusively shall be entitled to exercise all economic rights in the program so created, unless otherwise provided by contract.

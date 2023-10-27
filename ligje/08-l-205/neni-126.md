@@ -1,0 +1,4 @@
+# Neni 126
+Provat
+1. Me kërkesë të një pale, e cila paraqet prova të arsyeshme, të mjaftueshme për të mbështetur pretendimin e saj, dhe për të provuar këto pretendime ekzistojnë prova të veçanta, të cilat prova janë nën kontrollin e palës kundërshtare, Gjykata mund të urdhërojë që këto prova të paraqiten nga pala e kundërshtare, duke ju nënshtruar rregullave mbi mbrojtjen e informacionit konfidencial. Provë e arsyeshme nga autoritetet kompetente gjyqësore konsiderohet një mostër e arsyeshme e një numri konsiderueshëm kopjesh të veprave, ose çdo objekti tjetër të mbrojtur.
+2. Në rrethana të njëjta, kur kryhet shkelje në nivel komercial Gjykata mund të urdhëroj, kur është e nevojshme, me kërkesë të palës propozuese, paraqitjen e dokumenteve bankare, financiare ose komerciale të palës kundërshtare, dokumente që janë subjekt i mbrojtjes së informacionit konfidencial.

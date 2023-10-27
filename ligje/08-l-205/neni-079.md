@@ -1,0 +1,4 @@
+# Neni 79
+Pavarësia e mbrojtjes
+1. E drejta e përcaktuar në nenin 78 të këtij ligji, zbatohet pavarësisht nga përshtatshmëria e asaj baze të dhënash për mbrojtje me të drejtën e autorit ose me të drejta të tjera, që nënkupton, inter alia ose ndër të tjera, se kur baza e të dhënave mbrohet nga e drejta e autorit dhe prodhuesi i bazës së të dhënave është pronari i së drejtës së autorit në bazën e të dhënave, e drejta e tij sui generis e parashikuar në nenin 78 të këtij ligji dhe e drejta e autorit, pronar i së cilës është ai ose ajo zbatohet paralelisht dhe në mënyrë të pavarur nga njëra-tjetra.
+2. E drejta e përcaktuar në nenin 78 të këtij ligji, zbatohet pavarësisht nga përshtatshmëria e përmbajtjes së bazës së të dhënave për mbrojtje me të drejtën e autorit ose me të drejta të tjera, dhe mbrojtja e bazave të të dhënave sipas asaj të drejte nuk cenon të drejtat që ekzistojnë në lidhje me përmbajtjen e tyre.
