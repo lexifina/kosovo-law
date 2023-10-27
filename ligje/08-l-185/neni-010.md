@@ -1,0 +1,13 @@
+# Neni 10
+Detyrimet e përgjithshme
+1. Me qëllim të parandalimit dhe eliminimit të dhunës në familje dhe dhunës ndaj grave, institucionet e të gjitha niveleve në Republikën e Kosovës, obligohen të zbatojnë masat legjislative dhe masat e tjera duke përfshirë, por duke mos u kufizuar në:
+1.1. Miratimin e Strategjisë Kombëtare për Parandalimin dhe Mbrojtjen nga Dhuna në Familje dhe planeve të veprimit në përputhje më këtë ligj dhe me programin kombëtar për mbrojtjen nga dhuna ne familje, dhuna ndaj grave dhe dhuna në baza gjinore;
+1.2. Vendosjen e të drejtave të viktimave në qendër gjatë hartimit të të gjitha politikave, dokumenteve dhe legjislacionit nga paragrafi 1 i këtij neni;
+1.3. Miratimin e masave për të nxitur ndryshimet sociale dhe kulturore të sjelljes së grave dhe burrave me synimin për të zhdukur paragjykimet, zakonet, traditat dhe të gjitha praktikat e tjera që bazohen në idenë e inferioritetit të grave ose në rolet stereotipi të grave dhe meshkujve;
+1.4. Caktimin e burimeve të përshtatshme njerëzore dhe financiare për programe, projekte dhe iniciativa për parandalimin e dhunës në familje, dhe duke ofruar përgjigje gjithëpërfshirëse ndaj dhunës ndaj grave fuqizimin dhe riintegrimin e viktimave, dhe duke siguruar që nevojat specifike të viktimave të cenueshme të merren parasysh dhe të adresohen siç duhet;
+1.5. Bashkëpunimin me shoqërinë civile dhe shoqatat profesionale të gazetarëve dhe punonjësve të medias, për të forcuar kapacitetin e mediave për raportim profesional, për çështje që lidhen me dhunën në familje, dhunën ndaj grave dhe dhunën në baza gjinore;
+1.6. Të njohë, inkurajojë dhe mbështesë, në të gjitha nivelet, punën e organizatave përkatëse joqeveritare dhe punën e shoqërisë civile aktive në luftën kundër dhunës ndaj grave, dhe të krijojë një bashkëpunim efektiv me këto organizata;
+1.7. Ngritjen e kapaciteteve të personave përgjegjës, për trajtimin e rasteve të dhunës në familje dhe ndaj grave, me qëllim të parandalimit dhe identifikimit të dhunës, nevojave dhe të drejtave të viktimave si dhe parandalimin e ri viktimizimit të tyre;
+1.8. Organizimin e fushatave të vetëdijesimit për dhunën në familje, dhunën ndaj grave dhe barazinë gjinore, në bashkëpunim me shoqërinë civile, organizatat joqeveritare në veçanti organizatat e grave, mekanizmat për të drejtat e njeriut dhe median;
+1.9. Mbledhjen dhe raportimin e rregullt të të dhënave statistikore të ndara në baza gjinore për të gjitha format e dhunës të rregulluara me këtë ligj;
+1.10. Në bazë të fushëveprimit të bëjnë përgatitjen dhe mbështetjen e hulumtimeve lidhur me shkaqet, efektet dhe nivelin e rasteve të dhunës dhe ndëshkimit të tyre.

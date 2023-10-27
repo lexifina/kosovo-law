@@ -1,0 +1,6 @@
+# Article 39
+Protection measure of confiscation of item with which the act was committed
+1. The protection measure of confiscation of the item with which the offense was committed, or the items with which it is suspected the violence may be conducted or repeated, it is pronounced for the purpose of protecting the protected party against whom the violence was perpetrated or of other persons.
+2. The measure from paragraph 1 of this Article, in cases where the responsible party is equipped or is expected to be equipped with a weapon permit, may also include the prohibition to issue a certificate for a weapon permit to the responsible party or revoke the permit and sequestrate the weapon under the provisions of the Law on Weapons.
+3. The court ex officio requires the protected party and/or the responsible party to let them know whether the responsible party possesses or has access to weapons in order to determine whether the responsible party poses a risk to the personal safety of the protected party or other persons under protection.
+4. The protection measure from paragraph 1 of this Article is applied in accordance with the Code Criminal Procedure Code of Kosovo, in cases when the responsible party is in possession of weapons illegally.

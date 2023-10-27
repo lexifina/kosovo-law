@@ -1,0 +1,22 @@
+# Article 19
+Responsibilities of the Kosovo Police
+1. The Kosovo Police must respond to each report of acts or threats of domestic violence and gender-based violence or violation of a protection order or emergency protection order, regardless of who makes the report.
+2. The police evaluates the dangerousness of the reported case from the moment of the initial response and takes security measures for the victim, the members who are in a family relationship with him/her and other persons involved in the case.
+3. If there is a reasonable suspicion that an act related to domestic violence and violence against women has been committed, the Kosovo Police detains the alleged perpetrator in accordance with the Law.
+4. The Kosovo Police shall take appropriate measures to prevent violence and to protect victims, including but not limited to:
+4.1. providing a special telephone line for reporting domestic violence and violence against women and recording these calls;
+4.2. informing the victim, the legal representative or the victim’s advocate about the victim’s rights in accordance with this law, in particular the right to request an order for temporary emergency protection according to Article 28, 52, 53 and 54 of this law;
+4.3. informing the victim about legal, psychological and other assistance services offered by government institutions and the authorized network of non-governmental organizations that provide services to victims;
+4.4. informing the relevant service providers defined according to this law, and enabling contact between the service provider and the victim at the request of the victim;
+VIOLENCE
+4.5. ensuring the transportation of the victim and her dependents to the appropriate medical facility for treatment or medical check-up during the police case proceedings;
+4.6. ensuring the transportation of the victim and, if necessary, her dependents to a shelter or other suitable and safe accommodation, at the request of the victim and together with the social worker;
+4.7. if the need arises, providing protection for the one who reported the violence, in accordance with the relevant legal obligations related to the protection of witnesses;
+4.8. the removal of the responsible party from the residence where the protected party or any part of it resides, in the event that by means of the protection order or the emergency protection order, the measure provided for in Article 32 of this Law is determined;
+4.9. ensuring official contact for the victim or her legal representative with the police investigation officer domestic violence within the Kosovo Police. If the police investigating domestic violence is missing, then another Kosovo Police officer must help the victim.
+5. The Kosovo Police compiles a daily report on the case regardless of whether the offense was committed and whether someone was detained and a copy of this report is delivered to the victim, her legal representative, the victim’s advocate and the Centre for social work.
+6. The Kosovo Police at the moment of identifying the victim of domestic violence or violence against women must invite the state prosecutor to respond to the case immediately, in case the actions constitute a criminal offense according to the definitions of the Criminal Code, and must invite the Centre for Social Work where that person has the residence and the victims’ advocate, in order to assess the dangerousness, the needs of the victim and the notification with the rights of the victim.
+7. If there is a well-founded suspicion that an act related to domestic violence has been committed, regardless of whether the perpetrator has been arrested or his location has been found, the Kosovo Police must regularly notify the victim or the legal representative and the victim’s advocate on the process of investigations, including information regarding the whereabouts of the suspect of violence or his or her release from imprisonment.
+8. The Kosovo Police executes all orders and tasks assigned by the court.
+9. The Minister of Internal Affairs and the General Director of Police establish the organizational structure and hierarchy of bodies within the police for dealing with domestic violence and violence against women and gender-based violence with sufficient human and financial capacities.
+10. The Kosovo Police is obliged to make the friendly rooms functional for the special treatment of the victims and their dependents.

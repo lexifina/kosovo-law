@@ -1,0 +1,6 @@
+# Neni 5
+Trajtimi me prioritet
+1. Institucionet shtetërore, personat juridikë që kryejnë autorizime publike të përcaktuara me ligj, funksionarët, zyrtarët dhe personat e tjerë të autorizuar që kryejnë punë në emër të shtetit, kanë detyrimin të trajtojnë me prioritet të gjitha masat dhe aktivitetet për të parandaluar çdo efekt të dhunës me bazë gjinore ndaj grave dhe dhunës në familje.
+2. Subjektet nga paragrafi 1 të këtij neni janë të detyruar të ndërmarrin me prioritet të gjitha masat e duhura legjislative, administrative, gjyqësore dhe masa të tjera, për të parandaluar, mbrojtur, hetuar, ndëshkuar dhe siguruar kompensim të drejtë të viktimave përfshirë edhe pjesëtimin me prioritet të pasurisë së përbashkët për viktimat e dhunës në familje.
+3. Personat zyrtarë në institucionet që kryejnë veprimtari në fushën e mbrojtjes sociale, punëve të brendshme, shëndetësisë, mbrojtjen e fëmijëve dhe arsimin, si dhe gjykatat kompetente në procedurat civile, administrative dhe penale për dhunën në familje, dhunën në baza gjinore dhe dhunë ndaj grave janë të detyruar të veprojnë urgjentisht, me prioritet të shtuar ndaj interesave dhe nevojave të viktimës.
+4. Trajtimi me prioritet nënkupton edhe kujdesin e shtuar në ndërmarrjen e masave të nevojshme për vlerësimin e rrezikshmërisë, nga të gjitha autoritetit relevante, me qëllimi të parandalimit të përsëritjes së dhunës.

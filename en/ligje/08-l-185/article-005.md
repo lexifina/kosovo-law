@@ -1,0 +1,6 @@
+# Article 5
+Priority handling
+1. State institutions, legal persons that perform public authorizations defined by law, functionaries, officials and other authorized persons that perform work on behalf of the state, have the obligation to prioritize all measures and activities to prevent any effect of gender-based violence against women and domestic violence.
+2. The entities from paragraph 1 of this Article are obliged to undertake with priority all the appropriate legislative, administrative, judicial and other measures, to prevent, protect, investigate, punish and ensure fair compensation of the victims, including even the priority division of the joint property for victims of domestic violence.
+3. Officials in institutions that perform activities in the field of social protection, internal affairs, health, child protection and education, as well as courts competent in civil, administrative and criminal procedures for domestic violence, gender-based violence and violence against women are obliged to act urgently, with advanced priority to the interests and needs of the victim.
+4. Treatment with priority shall mean even the increased care in undertaking the necessary measures for the evaluation of dangerousness, by all relevant authorities, with the aim of preventing the recurrence of violence.

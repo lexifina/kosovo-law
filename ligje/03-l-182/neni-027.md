@@ -1,3 +1,0 @@
-# Neni 27
-Programi i Kosovës Kundër Dhunës në Familje
-Ministria e Punës dhe e Mirëqenies Sociale, në bashkëpunim me: Ministrinë e Shëndetësisë, Ministrinë e Drejtësisë, Ministrinë e Administrimit të Pushtetit Lokal, Ministrinë e Punëve të Brendshme, Ministrinë e Kulturës, të Rinisë dhe të Sportit dhe me atë të Arsimit, është përgjegjëse për mbështetjen dhe për ngritjen e strukturave ndihmëse dhe të infrastrukturës së nevojshme, që shërben për mbështetjen dhe për plotësimin e nevojave të personave ndaj të cilëve është ushtruar dhuna në familje, përfshirë këtu asistencën sociale dhe shërbimet mjekësore, në pajtim me legjislacionin në fuqi.
