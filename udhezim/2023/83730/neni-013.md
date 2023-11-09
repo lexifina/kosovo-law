@@ -1,0 +1,4 @@
+# Neni 13
+Datat e lëshimit të kategorive
+1.Datat e lëshimit të kategorive barten nga patentë shoferi i huaj në patentë shoferi të RKS. Në rast se data e kategorisë/ve nuk mund të identifikohet lexohet do të merret për bazë data e dhënies së provimit në MMPHI, ose data e lëshimit të patentë shoferit të huaj dhe në rast kur kjo nuk është e mundur, do të vendosen datat e aplikimit për ndërrimin e patentë shoferit të huaj.
+2. Përjashtimisht paragrafit 1 të këtij neni, poseduesit e patentë shoferit të RKS-së ose të UNMIK- ut të cilët e kanë ndërruar me patentë shoferi të huaj dhe në rast se në patentë shoferin e huaj iu kanë vendosur data tjera të lëshimit të kategorisë e jo ato të cilat i ka pasur në patentë shoferi të UNMIK-ut apo RKS-së, me rastin e ndërrimit të patentë shoferit të huaj duhet t’ju kthehen datat e lëshimit të kategorive sikurse i ka pasur në patentë shoferi të UNMIK-ut apo RKS-së për kategoritë përkatëse.
