@@ -1,0 +1,7 @@
+# Neni 15
+Ushqyerja e specieve të caktuara brenda dhe jashtë stacioneve të ushqyerjes dhe në
+kopshte zoologjike
+1. Autoriteti kompetent mund të autorizojë përdorimin e materialt të Kategorsë 1 që përbëhet nga tërë trupi ose pjesët e kafshëve të ngordhura që përmbajnë material të specfikuar të rrezikshëm për ushqyerje kur:
+1.1. në stacion të ushqyerjes, të specieve të rrezikuara ose të mbrojtura të zogjëve nekrofag dhe specieve tjera që jetojnë në habitatin e tyre natyral, për promovim të biodiverstetit, që i nënshtrohet plotësmit të kushteve të përcaktuara në Nënkapitullin 2, Kapitullin II, Shtojcës IV të këtij Udhëzimi Administrativ;
+1.2. jashtë stacioneve të ushqyerjes, nëse është e përshtatshme pa grumbullim paraprak të kafshëve të ngordhura, të kafshëve të egra të përcaktuara në paragrafin 1 nënparagrafiit 1.1 të Nënkapitullit 2, Kapitullit II, Shtojcës IV të këtij Udhëzimi Administrativ, që i nënshtrohet kushteve të përcaktuara në Nënkapitullin 3, Kapitullin II, Shtojcës IV të këtij Udhëzimi Administrativ.
+2.Autoriteti kompetent mund të autorizojë përdorimin e materialt të Kategorisë 1 që përbëhet nga tërë trupi ose pjesët e kafshëve të ngordhura që përmbajnë material të specfikuar të rrezikshëm dhe përdormin e materialeve të derivuara nga kafshët e kopshtit zoologjik për ushqyerje të kafshëve të kopshtit zoologjik që i nënshtrohen plotësimit të kushteve të përcaktura në Nënkapitulli 4, Kapitullin II, Shtojcës IV.

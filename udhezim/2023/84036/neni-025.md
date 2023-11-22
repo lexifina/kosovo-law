@@ -1,0 +1,9 @@
+# Neni 25
+Produktet e ndërmjetme
+1. Produktet e ndërmjetme të importuara brenda ose që kalojnë tranzit nëpër territorin e Republikës së Kosovës do të plotësojnë kushtet për kontrollë të rrezikut potencial për shëndet publik dhe të kafshëve të përcaktuara në Shtojcën X të këtij Udhëzimi Administrativ.
+2. Produktet e ndërmjetme të cilat janë transportuar në ndërmarrje ose fabrikë të përcaktuar në pikën 3 të Shtojcës X të këtij Udhëzimit Administrativ mund të trajtohen pa kufizime të mëtutjeshme sipas Udhëzimit Administrativ (MBPZHR) - Nr. 05/2022, nëqoftëse:
+2.1. ndërmarja ose fabrika ka hapësira adekuate për pranimin e produkteve të ndërmjetme, të cilat parandalojnë bartjen e sëmundjeve ngjitëse tek njerëzit ose kafshët;
+2.2. produktet e ndërmjetme nuk paraqesin ndonjë rrezik për bartjen e sëmundjeve ngjitëse tek njerëzit apo kafshët, për shkak të purifikimit të tyre ose trajtimeve tjera të cilave i’u janë nënshtruar nënproduktet shtazore të cilat përbëjnë produktet e ndërmjetme, për shkak të koncentrimit të nënprodukteve shtazore në produktet e ndërmjetme ose për shkak të masave adekuate të biosigurisë për trajtimin e produkteve të ndërmjetme;
+2.3. ndërmarja ose fabrika mban shënime në regjistra mbi sasinë e materialeve të pranuara, kategorinë e tyre, nëse është e aplikueshme, dhe ndërmarrjeve, fabrikave ose operatorëve të cilët ata i kanë furnizuar me produktet e tyre; dhe
+2.4. materialet e ndërmjetme të papërdorura ose materialet e tjera të tepërta nga ndërmarrja ose fabrika, siç janë produktet me afat të skaduar, hudhen në pajtim me Udhëzimin Administrativ (MBPZHR) Nr.05/2022.
+3. Operatori ose pronari i ndërmarrjes ose fabrikës së destinuar për produkte të ndërmjetme ose përfaqësuesi i tyre do të përdorë ose dërgojë produktet e ndërmjetme në mënyrë ekskluzive për përzierje, mbështjellje, mbledhje, paketim ose etiketim të metejshëm sipas nën paragrafit 1.35 të Nenit 3 të ketij Udhëzimi Administrativ.

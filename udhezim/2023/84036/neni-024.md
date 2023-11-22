@@ -1,0 +1,11 @@
+# Neni 24
+Vendosja në treg dhe përdorimi i fertilizuesve organik dhe pasuruesve të tokës
+1. Operatorët do të plotësojnë kërkesat për vendosjen në treg, përveç importit, të fertilizuesve organik dhe pasuruesve të tokës, dhe përdorimin e produkteve të tilla, posacërisht aplikimit të tyre në tokë, siç është përcaktuar në Nenet 15 paragrafi 1 nënparagrafin 1.9 dhe Nenin 32 paragrafin 1 të Udhëzimit Administrativ (MBPZHR) Nr.05/2022, të vendosura në Shtojcën IX të këtij Udhëzimi Administrativ si:
+1.1. Vendosja në treg e te poshteshenuarave nuk i nënshtrohen asnje kushti te shëndetit të kafshëve;
+1.2. glasat nga zogjët e egër të detit të importuar;
+1.3. terrene te gatshme për rritje, te ndryshme nga ato te importit që përmbajnë më pak se:
+1.3.1. 5% te volumit te produktit te derivuar nga materiali i Kategorise 3 ose Kategorise 2 te ndryshme nga plehu i procesuar;
+1.3.2. 50% te volumit nga plehu i procesuar.
+2. Kur fertilizuesi organik ose pasuruesi i tokës, i cili është prodhuar nga pluhuri i mishit dhe kockave të derivuar nga materiali i Kategorisë 2 ose nga proteinat e procesuar të kafshëve, do të aplikohet në tokë, autoriteti kompetent do të autorizojë një ose më shumë komponentë të cilët duhet të përzihen me ato materiale, të përcaktuara me Nenin 32 paragrafi 1, nënparagrafi 1.4 të Udhëzimit Administrativ (MBPZHR) Nr.05/2022, sipas kritereve të vendosura në pikën 3 të Nënkapitullit 1 të Kapitullit II të Shtojcës IX të ketij Udhëzimi Administrativ.
+3. Autoriteti kompetent i Republikës së Kosovës vendit si vend i origjines dhe vendit te destinacionit që i ndanë një kufi i përbashkët mund të autorizojë dërgimin e plehut në mes fermave me vendndodhje në regjionet e kufinjëve të këtyre dy vendeve, që i’u nënshtrohen kushteve adekuate të kontrollit të ndonje rreziku të mundshëm për shëndetin publik dhe të kafshëve, dhe është obligim i operatorëve të mbaj regjistra adekuat që përcaktohen me marreveshje bilaterale.
+4. Siç është përcaktuar në Nenin 30 paragrafi 1 të Udhëzimit Administrativ (MBPZHR) Nr.05/2022, autoriteti kompetent inkurajon, kur është e nevojshme, hartimin, shpërndarjen dhe përdorimin e udhëzuesve nacional për pariktika të mira bujqësore për aplikimin e fertilizuesve organik dhe pasuruesve të tokës.
