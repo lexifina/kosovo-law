@@ -1,3 +1,0 @@
-# Neni 8
-Kompetenca e veçantë e PSRK-së për lëndët e deleguara nga gjykatat ndërkombëtare
-PSRK-ja do të ketë kompetencë të veçantë për të hetuar dhe ndjekur penalisht krimet, duke përfshirë format e ndryshme të tentimeve dhe të bashkëpunimit në krime të cilat mund të referohen nga organet kompetente të gjykatave ndërkombëtare, siç janë Tribunali ndërkombëtar për krime në ish-Jugosllavi i themeluar me anë të Rezolutës nr. 827 të Këshillit të Sigurimit të Kombeve të Bashkuara, tek autoritetet e Kosovës për hetim dhe/ose ndjekje në përputhje me procedurat e përcaktuara sipas ligjit në fuqi dhe me marrëveshjet ndërmjet organeve kompetente.
