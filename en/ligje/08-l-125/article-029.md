@@ -1,0 +1,6 @@
+# Article 29
+Evidence of movable assets and other goods
+1. The central authorities of Republic of Kosovo and local government units maintain evidence on the condition, value, and movement of publicly-owned movable assets, which they possess in accordance with the Law.
+2. Evidence on movable assets and other goods is maintained by the possessor of property on the basis of completed registration, according to the situation as of 31 December of the year for which the registration is done, according to the financial value.
+3. The authorities defined in this Law are required to submit the data on movable assets to Unit of Public Property Administration in electronic format, in order to maintain the Immovable Property Register, respectively of accounting evidence of movable assets, which data are submitted by the end of March of following year for the previous year. The authorities are also required to submit to Unit of Public Property Administration all changes in movable assets made during the year.
+4. The manner of maintaining the evidence of movable and immovable assets and of the registration of assets in public ownership is defined by a sub-legal act adopted by the Government, on proposal of Ministry of Justice.

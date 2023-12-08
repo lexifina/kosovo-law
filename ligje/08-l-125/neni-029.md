@@ -1,0 +1,6 @@
+# Neni 29
+Evidenca e sendeve të luajtshme dhe të mirave tjera
+1. Organet qendrore dhe njësitë e vetëqeverisjes lokale mbajnë evidencën për gjendjen, vlerën dhe lëvizjen e sendeve të luajtshme në pronësi publike, të cilat i disponojnë në pajtim me ligjin.
+2. Evidenca e sendeve të luajtshme dhe të mirave tjera mbahet nga poseduesit e pasurisë në bazë të regjistrimit të kryer, me gjendjen në ditën 31 dhjetor të vitit për të cilin kryhet regjistrimi, sipas vlerës financiare.
+3. Organet e përcaktuara sipas këtij ligji janë të obliguara që të dhënat për sendet e luajtshme t’ia dërgojnë Njësisë për Administrimin e Pronës Publike në formën elektronike, me qëllim të mbajtjes së Regjistrit të Paluajtshmërisë, përkatësisht të evidencës kontabilistike të sendeve të luajtshme, të cilat të dhëna duhet të dërgohen deri në fund të marsit të vitit vijues për vitin paraprak. Organet, gjithashtu, janë të detyruara që Njësisë për Administrimin e Pronës Publike, t’ia dërgojnë të gjitha ndryshimet në sendet e luajtshme të bëra gjatë vitit.
+4. Mënyra e mbajtjes së evidencës së sendeve të luajtshme dhe të paluajtshme dhe e regjistrimit të sendeve në pronësi publike përcaktohet me akt nënligjor të aprovuar nga Qeveria, me propozimin e Ministrisë së Drejtësisë.
