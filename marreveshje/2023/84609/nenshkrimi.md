@@ -1,0 +1,3 @@
+Ligji Nr. 08/L-221 23 nëntor 2023
+Shpallur me dekretin Nr. DL-189/2023, datë 06.12.2023 nga Presidentja e Republikës së Kosovës Vjosa Osmani-Sadriu
+___________________________ *Ligji nr. 08/L-221 “Për Ratifikimin e Marrëveshjes së Kredisë dhe Projektit ndërmjet Republikës së Kosovës, përfaqësuar nga Ministria e Financave, Punës dhe Transferëve, KOSTT(operator sistemi, transmisioni dhe tregu SH.A) dhe KFW, Frankfurt am Main ( KFW) për projektin “ Zhvillimi i Sektorit të Energjisë VII- Përmirësimi i rrjetit të transmetimit.”, bashkangjitur me marrëveshje janë publikuar në web faqen e Gazetës Zyrtare (gzk.rks-gov.net)
