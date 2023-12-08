@@ -1,0 +1,13 @@
+# Neni 5
+Kompensimi për lëndimin fizik apo dëmtim të shëndetit
+1. Kërkesa nga parashtruesit e kërkesës për kompensim për lëndim fizik apo dëmtim të shëndetit bëhet në pajtim me nenin 11 të Ligjit.
+2. Komisioni përcakton shkallën e dhembjes dhe lartësitë e kompensimit në bazë të dokumentacionit të paraqitur nga parashtruesi i kërkesës për kompensimin në pajtim me nenin 11 paragrafit 3 të Ligjit.
+3. Lëndimi apo dëmtimi sipas nenit 11 të Ligjit duhet të jetë i natyrës së rëndë në pajtim me nenin 6, paragrafi 1.2 dhe 1.3 të Ligjit.
+4. Për të përmbushur kushtet për kompensim sipas nenit 11, nën paragrafit 3.1 të Ligjit, pasoja e shkaktuar duhet të jetë në përputhje me përkufizimin e përcaktuar në nenin 186, paragrafi 1, nën paragrafët 1.1, 1.2 dhe 1.3. të Kodit Penal të Kosovës, me kusht që lëndimet, dëmtimet apo sëmundja të kenë kohëzgjatje mbi 6 javë.
+5. Për të përmbushur kushtet për kompensim sipas nenit 11, nën paragrafit 3.2 të Ligjit, pasoja e shkaktuar duhet të jetë në përputhje me përkufizimin e përcaktuar në nenin 186, paragrafi 2, nën paragrafët 2.1, 2.2, 2.3, 2.4 dhe 2.5 të Kodit Penal të Republikës së Kosovës, me kusht që lëndimet, dëmtimet apo sëmundja të jenë me pasoja afatgjate apo të përhershme.
+6.Komisioni përcakton edhe lartësinë e kompensimit për shpenzimet e realizuara për hospitalizim, medikamente dhe shërbime tjera përcjellëse të domosdoshme për trajtimin e viktimave për lëndimet sipas këtij neni. Kompensimi do të bëhet vetëm për shpenzimet e dokumentuara me kupon fiskal nga parashtruesi i kërkesës, të cilat nuk janë ofruar falas nga institucioni shëndetësor.
+7. Kompensimi sipas këtij neni nuk përfshinë terapitë rehabilituese në banjat termike.
+8.Të gjitha shërbimet duhet të jenë të rekomanduara dhe ofruara nga specialistët mjekësor të licencuar të fushës përkatëse.
+9.Vartësit e viktimave të cilët kanë bartur shpenzimet e hospitalizimit, medikamenteve dhe shërbimeve tjera për trajtimin e viktimave kanë të drejtën në kompensim në bazë të dokumentacionit të paraqitur sipas kritereve të mësipërme.
+10. Komisioni, në pajtim me paragrafin 5 të nenit 11 të Ligjit, me votë unanime, ka diskrecion që të tejkalojë maksimumin e paraparë të kompensimit sipas paragrafit 4 të nenit 11 të Ligjit, nëse e gjen të arsyeshme se shpenzimet e realizuara për trajtimin e lëndimit të rëndë apo dëmtimit të shëndetit fizik kanë qenë të domosdoshme.
+11. Kompensimi për lëndimin fizik apo dëmtimin e shëndetit mund të realizohet përmes kërkesës për kompensim të menjëhershëm dhe të rregullt. Në kuadër të kompensimit të menjëhershëm viktima mund të kompensohet vetëm për shpenzimet e hospitalizimit, medikamenteve dhe shërbimeve tjera përcjellëse për trajtimin e këtij lëndimi apo dëmtimi të shëndetit.

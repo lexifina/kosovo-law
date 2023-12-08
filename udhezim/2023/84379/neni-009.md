@@ -1,0 +1,7 @@
+# Neni 9
+Kompensimi për humbjen e të drejtës në mbajtje
+1. Kompensimi për humbjen e të drejtës në mbajtje mund të jepet në rastet kur i ndjeri ka qenë kontribues në mbajtjen e parashtruesit/ve të kërkesës për kompensim sipas këtij neni. Kompensimi sipas këtij paragrafi nuk do të kalojë shumën maksimale prej tremijë (3000) euro.
+2.Viktima e cila ka vartës dhe është kontribues në mbajtjen e vartësve, ka të drejtë në emër të vartësve të parashtrojë kërkesë për kompensim sipas nenit 15, paragrafi 2, me kusht që viktima të mos ketë pranuar kompensim sipas nenit 11 paragrafi 3 i Ligjit. Nëse viktima ka dorëzuar kërkesën për kompensim sipas nenit 11 paragrafi 3 të Ligjit dhe njëkohësisht edhe sipas nenit 15 paragrafi 2 të Ligjit, Komisioni vlerëson bazën më të arsyeshme për kompensim. Kompensimi sipas këtij paragrafi nuk do të kalojë shumën maksimale prej tremijë (3000) euro.
+3.Për të realizuar të drejtën në kompensim sipas këtij neni, viktima, respektivisht vartësit duhet të dokumentojnë punësimin apo çfarëdo kontributi tjetër financiar në mbajtjen e vartësve, si dhe gjendjen financiare të vartësve.
+4. Nëse më shumë se një vartës ka qenë në varshmëri financiare nga viktima lartësia e kompensimit në mënyrë kumulative për vartësit nuk do të tejkalojë totalin e paraparë me Ligj.
+5. Kompensimi për humbjen e së drejtës në mbajtje mund të realizohet vetëm përmes kërkesës për kompensim të rregullt.
