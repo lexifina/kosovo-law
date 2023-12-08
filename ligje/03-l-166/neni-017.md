@@ -1,8 +1,0 @@
-# Neni 17
-Procedura e ndjekjes
-1. Në rastet urgjente dhe plotësisht të arsyetuara, apo dyshime të bazuara në lidhje me përgatitjen ose kryerjen e veprës penale me anë të sistemeve kompjuterike, me qëllim të mbledhjes së dëshmive ose identifikimit të kryerësve, ruajtjes së shpejtë të të dhënave kompjuterike ose të të dhënave që i referohen të dhënave mbi trafikun e të dhënave, duke iu nënshtruar rrezikut të shkatërrimit ose ndryshimit, zbatohen dispozitat procedurale si vijon:
-1.1. gjatë hetimit të krimit me kërkesë të organit hetues ruajtja e të dhënave urdhërohet nga prokurori, ndërsa gjatë procedurës gjyqësore me urdhër të gjykatës;
-1.2. masa që i referohet paragrafit 1 të këtij neni vlen për periudhën kohore deri nëntëdhjetë (90) ditë, me mundësi të zgjatjes edhe për tridhjetë (30) ditë;
-1.3. urdhri i prokurorit ose urdhri i gjykatës dërgohet, menjëherë, tek cilido ofrues i shërbimeve, apo tek ndonjë person që posedon të dhënat që i referohen nën-paragrafit 1.1 të këtij paragrafi, atëherë personi përkatës është i obliguar që ti ruaj shpejtë ato sipas kushteve të ruajtjes së fshehtësisë;
-1.4. në rastin kur të dhënat i referohen trafikut të të dhënave që janë nën posedimin e disa ofruesve të shërbimeve, ofruesi i shërbimeve që i referohet nën-paragrafit 1.3 të këtij paragrafi është i obliguar që menjëherë t’i ofroj organit të hetimit të krimeve informatat e nevojshme për të identifikuar ofruesit e tjerë të shërbimeve për të qenë në dijeni mbi të gjitha elementet në zinxhirin e shfrytëzuar të komunikimit;
-1.5. prokurori është i obliguar që deri në fund të hetimit t’i njoftoj me shkrim personat që janë nën hetime për krimet dhe të dhënat e të cilëve janë ruajtur.
