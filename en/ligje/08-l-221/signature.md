@@ -1,0 +1,3 @@
+Law No. 08/L-221 23 November 2023
+Promulgated by Decree No. DL-189/2023 dated 06.12.2023 President of the Republic of Kosovo Vjosa Osmani-Sadriu
+____________________________ * Law No. 08/L-221, “On Ratification on the Loan and Project Agreement between the Republic of Kosovo, represented by the Ministry of Finance, Labor and Transfers, KOSTT (Operator System, Transmission and Market J.S.C.) and KfW, Frankfurt Am Main (“KfW”) for the Project “Development of the Energy Sector VII - Improvement of Transmission Network””, attached with agreement is published in the website of the Official Gazette (gzk.rks-gov.net)
