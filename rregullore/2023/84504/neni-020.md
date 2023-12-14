@@ -1,0 +1,15 @@
+# Neni 20
+Procedurat për emërimin dhe gradimin e oficerëve të lartë
+1. Procedurat për emërimin dhe gradimin e oficerëve të lartë, iniciohen në çdo kohë të ekzistimit të pozitave të lira në kuadër të strukturës së FSK-së.
+2. Në pozitat kyçe të oficerëve të lartë, të cilat mbeten të lira, fillimi i procedurave pёr gradimin e oficerëve të lartë nuk duhet të tejkalojë periudhën prej 90 ditëve.
+3. KOMFSK-ja emëron Bordin Vlerësues prej 3 (tre) anëtarëve me gradë Gjeneral.
+4. G1SHPFSK shërben si Sekretari e Bordit Vlerësues. Sekretaria e Bordit ёshtё pёrgjegjёse pёr pёrgatitjen e listës së oficerëve qё plotёsojnë kriteret pёr gradim, njoftimin e oficerëve për aplikim për gradën e radhës, si dhe mbështet Bordin Vlerësues me dokumentacionin e nevojshëm për vlerësimin e oficerëve.
+5. Bordi Vlerësues brenda 20 ditëve të punës vlerёson të gjithë kandidatët që kanë aplikuar dhe i plotësojnë kriteret për gradim dhe emërim sipas Shtojcës 12.
+6. Bordi Vlerësues njofton me shkrim secilin kandidat për numrin e pikëve për çdo element të vlerësuar dhe rekomandimin pёr gradim. Pjesëtarët në rast se nuk pajtohen me vlerësimin nga ana e Bordit Vlerësues kanë të drejtë ankese, nё afat prej 3 ditësh pas marrjes sё njoftimit nga Bordi Vlerësues. Ankesa i drejtohet për shqyrtim Bordit Vlerësues si autoritet kompetent që ka bërë vlerësimin e pjesëtarit. Kur Bordi Vlerësues vlerëson se ankesa është e pranueshme dhe e bazuar plotësisht, bën plotësimin dhe ndryshimin e vlerësimit të pjesëtarit.
+7. Kur Bordi vlerëson se ankesa nuk është plotësisht e pranueshme dhe është e pabazuar, ankesën e përcjellë te Bordi për Shqyrtimin dhe Zgjidhjen e Ankesave, me sqarimet përkatëse në një afat prej 2 ditësh pune.
+8. Bordi për Shqyrtimin dhe Zgjidhjen e Ankesave, brenda tri (3) ditëve të punës, vendos mbi ankesën dhe vendimin e dërgon te Bordi Vlerësues dhe te pjesëtari.
+9. Pas përfundimit të procedurave sipas paragrafit 8 të këtij neni, Bordi Vlerësues, brenda 5 ditëve të punës, procedon të KOMFSK-ja listën e kandidatëve së paku dy (2) kandidatë për pozitë, sё bashku me rekomandimin dhe arsyetimin për gradimin dhe emërimin në pozitën përkatëse.
+10. KOMFSK-ja, jo më vonë se 10 ditë pune, pas vlerësimit të kandidatëve potencialë për gradim në gradën Gjeneral Brigade, rekomandimin dhe arsytimin për kandidatin e procedon te Ministri i Mbrojtjes.
+11. Ministri i Mbrojtjes, në konsultim me Kryeministrin, sipas rekomandimit të Komandantit të Forcës së Sigurisë së Kosovës, i propozon Presidentit emërimet dhe gradimet në gradën e Gjeneralit, përveç gradës Gjenerallejtënant. Propozimi bëhet jo më vonë se 15 ditë kalendarike pas marrjes së rekomandimit të Komandantit të Forcës së Sigurisë së Kosovës.
+12. Emërimi dhe gradimi i oficerëve në gradën Gjeneral bëhet me Dekret të Presidentit të Republikës së Kosovës.
+13. Gradimin nga Gjeneral Brigade në Gjeneral Major, realizohet sipas kritereve të parapara në këtë rregullore dhe rekomandohet nga KOMFSK-ja te Ministri i Mbrojtjes me arsyetimin përkatës për emërim dhe gradim.
