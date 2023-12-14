@@ -1,0 +1,13 @@
+# Neni 4
+Parimet dhe kërkesat kryesore të Sistemit të Vlerësimit të Vjetor
+1. Vlerësimi i rezultateve të arritura, aftësive dhe potencialit të pjesëtareve është një nga përgjegjësitë më të rëndësishme të komandantëve dhe drejtuesve të të gjitha niveleve.
+2. Vlerësimi përfshin tërësinë e vlerave dhe cilësive morale, të karakterit, profesionale në kryerjen e detyrës dhe realizimin e objektivave.
+3. Vlerësimi i pjesëtarëve të jetë i matshëm, i drejtë, i paanshëm, objektiv, i besueshëm dhe i ballafaquar me detyrat, arritjet konkrete sipas objektivave dhe jo në bazë të përceptimeve individuale të autoriteteve vlerësuese.
+4. Vlerësimi përfundimtar të jetë produkt i ndjekjes së vijueshme të ecurisë së pjesëtarëve. Çdo pjesëtar ka një histori vlerësimi dhe jo vetëm një vlerësim përfundimtar.
+5. Vlerësimi është një proces këshillimi e komunikimi i vijueshëm midis eprorit që vlerëson dhe pjesëtarit që vlerësohet, më qëllim që ky i fundit të ndërgjegjësohet për detyrimet që ka dhe të marrë pjesë në procesin e hartimit dhe realizimit të detyrave dhe objektivave. Vlerësimi duhet të jetë i plotë, për të gjitha rubrikat e parashikuara dhe jo i pjesshëm, apo i cunguar. Ai duhet të niset nga faktet për të mbërritur në vlerësimin final dhe jo e kundërta, të nisësh nga vlerësimi final dhe pastaj të kërkosh fakte për ta justifikuar atë.
+6. Raportet e vlerësimit duhet të jenë të sakta, të drejta, të jepen në kohë, më qëllim që të sigurohet mbështetja e autoriteteve përkatëse për përzgjedhjen, përparimin në gradë dhe karrierë, mbajtjen dhe emërimin në detyrë të pjesëtarëve më cilësorë.
+7. Vlerësimi vjetor i punës duhet të përmbajë aftësitë, dobësitë dhe mundësitë që natyrshëm ka çdo ushtarak. Përsosmëria është një synim legjitim për të gjithë, por normalisht, jo të gjithë janë të përkryer. Prandaj, nuk mund të ketë vlerësime pa asnjë të metë. Pjesëtari duhet të ndërgjegjësohet për cilësitë, vlerat, mangësitë e dobësitë e tij, me qëllim që të përmirësohet e zhvillohet më tej.
+8. Procesi i vlerësimit të pjesëtareve dhe raportet e vlerësimit vjetor të punës nuk mund të përdoren si mjete disiplinore, presioni e frike ndaj pjesëtarit që vlerësohet.
+9. Raportet e vlerësimit duhet të jenë autonome, të pavarura njëri nga tjetri.
+10. Këto parime dhe kërkesa mundësojnë një vlerësim të drejtë dhe lejojnë pjesëtarët që të kuptojnë më lehtë se çfarë kuptimi ka çdo pikë e marrë në vlerësim.
+11. Pjesëtrët që kanë marrë medalje/mirënjohje sipas akteve ligjore ne fuqi si dhe çmimiet që merren në gara ushtarake dhe në kurset që zhvillohen brenda dhe jashte vendit përkatës duhet të pasqyrohet në vlerësim.
