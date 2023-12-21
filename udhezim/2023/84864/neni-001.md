@@ -1,0 +1,3 @@
+# Neni 1
+Qëllimi
+Udhëzimi Administrativ ka për qëllim përcaktimin e rregullave që sigurojnë përfshirjen e qytetarëve dhe grupeve përfaqësuese në vendimmarrje lokale, transparencën dhe llogaridhënien e organeve të komunës, gjithashtu përcakton rregullat, parimet, format, procedurat dhe standardet minimale të konsultimit publik në komuna me rastin e zhvillimit të politikave dhe akteve nënligjore në komunë si dhe obligimet e komunave për të siguruar qasjen nëpërmjet teleprezencës dhe teknologjisë digjitale për të garantuar transmetimin në distancë dhe monitorimin nga autoritetet qendrore, shoqëria civile dhe qytetarët.
