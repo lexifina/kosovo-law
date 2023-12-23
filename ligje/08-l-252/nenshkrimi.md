@@ -1,0 +1,3 @@
+Ligji Nr. 08/L-252 23 nëntor 2023
+Shpallur me dekretin Nr. DL-190/2023, datë 06.12.2023 nga Presidentja e Republikës së Kosovës Vjosa Osmani-Sadriu
+___________________________ *Ligji nr. 08/L-252 “Për Ratifikimin e marrëveshjes në mes të Republikës së Kosovës, e përfaqësuar nga Ministria e Bujqësisë Pylltarisë dhe Zhvillimit Rural dhe Deutsche Gesellschaft für Zusammenarbeit (GIZ) GmbH për projektin Mbështetja për zhvillimin e qëndrueshëm të sektorit të bujqësisë në zonat rurale përmes diversifikimit të aktiviteteve.” bashkangjitur me marrëveshje janë publikuar në web faqen e Gazetës Zyrtare (gzk.rks-gov.net)
