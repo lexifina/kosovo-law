@@ -1,0 +1,4 @@
+# Neni 24
+Huadhënia për entitetet publike, kapitalizimi dhe blerja e aksioneve
+1. Ministria e Financave, Punës dhe Transfereve, me miratim paraprak të Qeverisë, ka të drejtë t‟i jap hua çdo entiteti në sektorin publik që plotëson kushtet dhe kriteret e përcaktuara sipas legjislacionit në fuqi, deri në shumën e specifikuar në tabelën 1.1. Ky kufizim nuk vlen për kreditë e nën-huazuara tek entitetet publike sipas ligjit përkatës për borxhin shtetëror.
+2. Ministria e Financave, Punës dhe Transfereve, me miratim paraprak të Qeverisë, ka të drejtë të shfrytëzojë mjetet e parapara për Kapitalizim dhe Blerje të Aksioneve deri në shumën e specifikuar në tabelën 1.1. me qëllim kapitalizimin (shtimin e kapitalit themeltar) për Fondin Sovran dhe blerjen e aksioneve në ndërmarrje apo iniciativa në fushën e mbrojtjes dhe sigurisë, aviacionit, dhe energjisë së ripërtëritshme.

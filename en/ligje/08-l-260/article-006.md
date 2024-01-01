@@ -1,0 +1,7 @@
+# Article 6
+Municipal budget appropriations
+1. Notwithstanding Article 5 of this Law, budget appropriations in Table 4.1 that are based on the Municipal Own Source Revenues, shall be authorized for expenditure only after such revenues are deposited in the Kosovo Fund and duly recorded in the KFMIS.
+2. In cases when during the fiscal year, the amount of a municipality‟s own source revenue, which have been deposited into the Kosovo Consolidated Fund and recorded in KFMIS, exceed the amounts of revenues appropriated in Table 4.1 of that municipality, Kosovo Treasury shall report such funds as available balances of the respective municipalities. These balances shall be available to fund activities and new or existing projects in current year, approved in accordance with procedures set out in the LPFMA.
+3. Municipal own source revenues from education shall be recorded separately and such revenues shall only be authorized and used by the municipality for education purposes only.
+4. Municipal own source revenues from primary health care co-payments shall be recorded separately and such revenues shall be authorized and used by the municipality for primary health care purposes only.
+5. Revenues that according to the legal authorization are collected by central-level budget organizations such as traffic fines, court fines, and similar, shall be allocated for expenditure in the respective municipalities every three (3) months.

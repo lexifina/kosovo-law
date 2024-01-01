@@ -1,0 +1,4 @@
+# Article 30
+Increasing the quota of the Republic of Kosovo
+1. It is authorized the payment of capital in the amount of one million and four hundred thirty-seven thousands and one hundred thirty-four euros (1,437,134 €) in the Council of Europe Development Bank with the aim of increasing participating certificates of Republic of Kosovo, according to Article 5 of the Law No. 04/L-222 on the Ratification of the Articles of the Agreement of the Council of Europe Development Bank and the Membership in CEB.
+2. The Kosovo Treasury shall be authorized to proceed with the transfer of funds one million and four hundred thirty-seven thousand and one hundred thirty-four euros (1,437,134 €) or equivalent, from the bank balance of the Treasury Single Account and shall present and recognize the same as financial assets of the Republic of Kosovo.

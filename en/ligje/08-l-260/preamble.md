@@ -1,0 +1,8 @@
+LAW NO.08/L-260
+ON BUDGET APPROPRIATIONS FOR THE BUDGET OF THE REPUBLIC OF KOSOVO FOR YEAR
+2024
+Assembly of the Republic of Kosovo
+Based on Article 65, paragraphs (1) and (5) of the Constitution of the Republic of Kosovo,
+Adopts:
+LAW ON BUDGET APPROPRIATIONS FOR THE BUDGET OF THE REPUBLIC OF KOSOVO FOR
+YEAR 2024
