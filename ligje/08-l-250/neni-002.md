@@ -1,0 +1,3 @@
+# Neni 2
+Fushëveprimi
+Ky ligj zbatohet ndaj të gjithë operatoreve dhe sektorëve aktiviteti i të cilëve ndikon në efekte të ndryshimeve klimatike në territorin e Kosovës, duke përfshirë: industrinë energjetike, prodhuese, të ndërtimit, të lëndëve djegëse, të minierave dhe mineraleve, të pyjeve, biodiversitetit dhe zonave të mbrojtura, të bujqësisë e blegtorisë, menaxhimit të ujërave, mbeturinave, shëndetit, transportit, infrastrukturës rrugore e hekurudhore, aeroportet, tubacionet, digat, ujin dhe ujërat e zeza, planifikimin urban, menaxhimin e tokës, turizmin, arsimin, emergjencat civile dhe në menaxhimin e fatkeqësive
