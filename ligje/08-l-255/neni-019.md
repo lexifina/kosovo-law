@@ -1,0 +1,9 @@
+# Neni 19
+Shërbimet tretësore
+1. Shërbimet tretësore janë shërbime sociale të kujdesit të vazhdueshëm dhe intensiv të ofruara 24 orë në ditë gjatë gjithë javës për personat në rrezik ose viktimat. Personi qëndron për një periudhë më të shkurtër ose më të gjatë për trajtim ose rehabilitim.
+2. Shërbimi ofrohet sa më afër vendbanimit të përfituesit por jo domosdoshmërisht në të njëjtën komunë
+3. Shërbimet tretësore përfshijnë, por pa u kufizuar:
+3.1. strehimi familjar brenda apo jashtë familjes biologjike ku fëmijës ose të rriturit i sigurohet strehim dhe kujdes në mjedis familjar. Shërbimet e banimit përfshijnë pritjen, banimin, ushqimin, veshmbathjen, higjienën, kujdesin në dhomë, kujdesin për shëndetin, kujdestarinë, edukimin, aktivitetet e punës, rehabilitimin psiko-social dhe kohën e lirë;
+3.2. shtëpi në grupe të vogla si një formë e kujdesit dhe mbrojtjes alternative jashtë familjes biologjike. Shërbimet përfshijnë pritjen, banimin, ushqimin, veshmbathjen, higjienën, kujdesin në dhomë, shëndetin dhe kujdesin, kujdestarinë, edukimin, aktivitetet e punës, rehabilitimin psiko-social dhe kohën e lirë;
+3.3. qendra e pranimit një strehimore e siguruar si banim i përkohshëm i organizuar për individët, të afërmit e tyre të gjakut ose familjen strehuese, të cilët janë në situata të vështira ose emergjente, derisa të dërgohen në një shërbim tjetër profesional. Këto shërbime përfshijnë pritjen, banimin, ushqimin, veshmbathjen, higjienën, kujdesin në dhomë, shëndetin dhe kujdesin, kujdestarinë, edukimin, aktivitetet e punës, rehabilitimin psiko-social dhe kohën e lirë;
+3.4. banimi mbështetës në shtëpitë në grupe si një formë e veçantë e banimit ku shërbimet mbështetëse ofrohen për deri në pesë (5) persona të cilët qëndrojnë së bashku 24 orë në ditë, dhe atyre i’u ofrohet mbështetje e përhershme ose e përkohshme profesionale dhe e organizuar në mënyrë që të përmbushin nevojat themelore jetësore në afat të shkurtër ose të gjatë.

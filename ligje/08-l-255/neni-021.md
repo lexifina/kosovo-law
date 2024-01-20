@@ -1,0 +1,7 @@
+# Neni 21
+Kujdestaria
+1. Kujdestaria është formë e mbrojtjes për fëmijën pa kujdes prindëror, i cili vendoset në kujdestari dhe gëzon mbrojtje të veçantë nga institucionet publike, kur prindërit e tij e kanë të pamundur të ushtrojnë përkujdesjen prindërore, pa u kufizuar vetëm në shkaqet se të dy prindërit kanë vdekur ose nuk njihen, janë shpallur të zhdukur, i’u është hequr kujdesi prindëror ose kanë humbur aftësinë për të vepruar, apo për çdo shkak tjetër i cili me vendim të gjykatës jep arsye për vendosje në të mirë të mirëqenies së fëmijës.
+2. Kujdestaria si formë e mbrojtjes ofrohet ndaj personit të moshës madhore, të cilit i hiqet aftësia për të vepruar me vendim të gjykatës.
+3. Kujdestaria për raste të veçanta caktohet për shkak të pasurisë së pa definuar (kujdestari speciale), në emër të pasurisë së supozuar të personit, në rastet kur pronari i pasurisë është i panjohur dhe kur personi i tillë nuk ka përfaqësues ligjor, si dhe kur kujdestaria është e paevitueshme për të mbrojtur interesat ligjore të personit.
+4. Kujdestaria e veçantë caktohet për fëmijën në rastet kur prindërit ushtojnë kujdesin prindëror, mirëpo mes tyre dhe fëmijës ekziston kontest për punë juridike të dukshme që kanë të bëjnë më pasurinë e fëmijës.
+5. Procedura për caktimin e kujdestarisë, llojet e kujdestarisë dhe çështje të tjera lidhur me kujdestarinë rregullohen me akt nënligjor të nxjerr nga Ministri.

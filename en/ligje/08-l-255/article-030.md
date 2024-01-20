@@ -1,0 +1,13 @@
+# Article 30
+Child beneficiary of social services
+1. Child beneficiary of the social service includes the child:
+1.1 without parental care, who is without both parents, is of unknown parents, abandoned by parents, of parents who have been deprived of the right to live with the child, of parents who have been deprived of parental rights and the child of parents prevented from performing their parental duties such as (imprisoned, hospitalized, on the run, with temporary work abroad, the child of missing parents, the child of parents with serious mental illnesses or disorders, as well as the child without a home ;
+1.2. a neglected child, who due to insufficient supervision and care of parents or guardians, and the negative influence of the environment, needs protection;
+1.3. who has abandoned schooling and regular education, who is in conflict with the law and who with his behaviour violates the generally accepted norms, including the child under the age of criminal responsibility;
+1.4. whose development has been hindered by family circumstances, whose parents are unable to provide him with normal conditions for physical, mental and emotional development, as well as proper education;
+1.5. with disabilities;
+1.6. a victim of domestic, gender-based violence and other forms of violence, a victim of physical, mental or sexual violence and who has suffered physical, mental damage, or violation of his rights and freedoms, according to the principle of equality in the public or private sphere of life;
+1.7. victim of human trafficking, who has been abducted, hidden, transported or accepted by force for the purpose of exploitation, even if none means of threat or use of force, coercion, fraud, lying or similar form have been used similar regardless of whether or not the child gave his consent voluntarily or through fraud and deception.
+1.8. victim of misuse of narcotic, psycho-active substances and other forms of addiction, which, due to addiction, negative social influences and disorders, damages and endangers his health and life;
+1.9. with citizenship of the Republic of Kosovo and a foreign child who does not have an accompanying adult, who before entering the Republic of Kosovo are unaccompanied by their parents or legal guardian, or a child who remains unaccompanied by their parents, after entering the territory of the Republic of Kosovo;
+1.10. who, due to special circumstances, needs an appropriate form of social care due to poverty, flight, refugee, state of war, suffering from forced migration, death of one or more family members, return from recovery, release from institution or from other unforeseen circumstances.

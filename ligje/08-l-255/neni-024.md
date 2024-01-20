@@ -1,0 +1,13 @@
+# Neni 24
+Strehimi rezidencial
+1. Strehimi rezidencial është formë e mbrojtjes së fëmijës pa kujdes prindëror, të rriturit dhe të moshuarit pa kujdes familjar, i cila sigurohet nëpërmjet banimit dhe plotësimit të nevojave themelore jetësore, si dhe mbrojtjes shëndetësore të përfituesit i cili nuk ka kushte për të qëndruar në familje dhe të cilit nuk mund t’i sigurohet shërbimi social nëpërmjet strehimit familjar dhe shërbimit në familje.
+2. Përjashtimisht, kur format e tjera të strehimit dhe të kujdesit nuk mund të sigurohen dhe situata e nevojës për mbrojtje për fëmijën është emergjente, fëmija vendoset përkohësisht në strehim rezidencial për fëmijë.
+3. Ambientet që ofrojnë strehim rezidencial duhet të jenë të vogla dhe të organizuara mirë për mbrojtjen e të drejtave dhe plotësimin e nevojave të fëmijës në ambiente që i ngjasojnë sa më shumë mjediseve familjare.
+4. Paneli për strehim rezidencial funksionon në kuadër të Departamenti përkatës në Ministri, i cili emërohet nga Ministri prej tre (3) anëtarëve, me përbërje dy (2) përfaqësues nga Departamenti përkatës në Ministri, një (1) përfaqësues nga institucionet e përkujdesit rezidencial.
+5. Paneli për strehim rezidencial në nivel lokal funksionon në kuadër të Komunës, i cili emërohet nga Komuna prej tre (3) anëtarëve, me përbërje një (1) përfaqësues nga Drejtorati komunal përkatës, një (1) përfaqësues nga Qendra për Punë Sociale dhe një (1) përfaqësues nga institucioni i përkujdesit rezidencial.
+6. Organizimi, detyrat dhe përgjegjësitë e Panelit për strehim rezidencial përcaktohet me akt nënligjor të nxjerr nga Ministri.
+7. Përveç nevojave nga paragrafi 1 dhe 2 i këtij neni, sigurohet edhe qasja në arsim dhe aspekte tjera që ndikojnë në zhvillimin e kapaciteteve psiko - fizike të fëmijës.
+8. Shërbimet e strehimit rezidencial i ofrohen përfituesit që t’i sigurojnë përgatitjen për kthimin e tij në familjen biologjike, strehimin në familje tjetër, përkatësisht, përgatitjen e tij për jetë të pavarur në pajtim me burimet familjare, nevojat dhe interesin më të mirë të tij.
+9. Me rastin e zgjedhjes për të drejtën e përfituesit në strehim rezidencial, organet kompetente shqyrtojnë të gjitha mundësitë e tjera dhe llojet e shërbimeve jashtë strehimit rezidencial, dhe strehimin rezidencial e aplikojnë kur nuk ekziston mundësi tjera, veçmas me kujdes të shuar për fëmijët nën moshën 3 vjeçare.
+10. Shërbime të strehimit rezidencial mund të ofrojë ofruesi i shërbimeve sociale dhe familjare, i cili e ka marrë licencën dhe pëlqimin për ofrimin e këtyre shërbimeve.
+11. Kushtet për ofrimin e strehimit rezidencial, llojet e strehimit, kushtet për kryerjen e strehimit, llojet dhe numrin e përfituesve të vendosur, rregullohen me akt nënligjor të nxjerr nga Ministri.

@@ -1,5 +1,0 @@
-# Neni 14
-14.1. Në rastet kur një gjykatë merret me fëmijë gjatë seancave penale ose civile, duke përfshirë, por pa u kufizuar me seancat e drejtësisë për të mitur, dhe rastet e besimit të fëmijëve, ose në rastet kur është involvuar mirëqenia e një të rrituri të rrezikuar, gjykata mund të kërkojë nga qendra për punë sociale zhvillimin e hetimeve dhe ofrimin e vlerësimit profesional të rrethanave sociale të personit në fjalë dhe të bëjë rekomandime për mirëqenien e tij të ardhshme.
-14.2. Me marrjen e kërkesës së tillë nga gjykata, drejtori i qendrës përkatëse për punë sociale urdhëron fillimin e një hetimi të tillë nga ana e një nëpunësi të shërbimeve sociale të miratuar për këtë destinim dhe i siguron gjykatës raportin e kërkuar. Raportet e tilla duhet t’i dorëzohen gjykatës jo më vonë se 21 ditë pas bërjes së kërkesës, përveç nëse në kërkesë nuk është përcaktuar ndryshe.
-14.3. Gjykata nuk merr vendim përfundimtar në një rast ku nevojitet raporti i tillë derisa nuk i ka vlerësuar se duhet përmbajtjen dhe rekomandimet e tij.
-Dispozitat të tjera

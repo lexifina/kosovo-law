@@ -1,5 +1,0 @@
-# Article 14
-14.1. In cases where a Court is dealing with children in criminal or civil proceedings, including but not limited to juvenile justice hearings and child custody cases, or in cases where the welfare of a vulnerable adult is involved, the Court may request the relevant Centre for Social Work to conduct inquires and to provide an expert assessment of the social circumstances of the person in question and to make recommendations for their future well being.
-14.2. Upon receipt of such a request from the Court, the relevant Centre for Social Work Director will cause such inquiries to be made by a Social Services Officer approved for the purpose and furnish the Court with reports accordingly. Such reports must be submitted to the Court no later than twenty-one days of the request being made, unless otherwise specified in the request.
-14.3. The Court makes no final disposal in a case for which such a report is required until it has given due consideration to its content and recommendations.
-Other provisions

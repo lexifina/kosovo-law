@@ -1,0 +1,8 @@
+# Neni 43
+Vendosja për kërkesën e përfituesit
+1. Me rastin e vendosjes së kërkesës së përfituesit për pranimin e të drejtës nga ky Ligj, Qendra për Punë Sociale është e obliguar që të vlerësojë gjendjen e përgjithshme të rrezikut social dhe nevojat e individit në familje, dhe mund të përcaktojë të drejta të tjera me të cilat në mënyrë të përshtatshme plotësohen nevojat e përfituesit dhe nxjerr vendim.
+2. Qendra për Punë Sociale është e obliguar që në procedurën e realizimit të të drejtës nga shërbimet sociale dhe familjare të hartojë planin individual dhe planin e aktiviteteve në trajtim, dhe të përcaktojë qëllimin që synohet të arrihet, të ndërmerren aktivitete të nevojshme që personi në gjendje nevoje të aftësohet për përkujdesje për vetveten dhe të anëtarëve të familjes.
+3. Procedura për realizimin e të drejtës nga shërbimet sociale dhe familjare është urgjente, dhe në këtë rast Qendra për Punë Sociale duhet të nxjerrë vendimin për kërkesën në afat prej pesëmbëdhjetë (15) ditësh.
+4. Nëse nevojitet që të kryhet procedurë e veçantë e vlerësimit, Qendra është e obliguar që vendimin ta nxjerrë në afat prej tridhjetë (30) ditëve pas pranimit të kërkesës së rregullt, përkatësisht të zhvillimit të procedurës sipas detyrës zyrtare.
+5. Në rastet urgjente siç është ndërmarrja e masave me qëllim të evitimit të rrezikut të drejtpërdrejtë të nevojave themelore jetësore për jetën dhe shëndetin e individëve, në veçanti të fëmijës, Qendra për Punë Sociale ndërmerr veprime për ofrimin e menjëhershëm të shërbimit përkatës në pajtim me ligjin.
+6. Në rastin nga paragrafi 5 i këtij neni, vendimi për ofrimin e shërbimit të menjëhershëm nxirret në formën e shkruar në afat prej tetë (8) ditësh.

@@ -1,8 +1,0 @@
-# Article 8
-8.1. Legal entities, not in the Government Sector, including enterprises, voluntary organizations and associations, faith based organizations, self-help groups and other local, national and international organizations are encouraged to provide Social and Family Services, either on their own initiative or, under contract, on behalf of the municipal Directorate in the case of local services, or the Department in the case of Kosovo wide services.
-8.2. To facilitate this, the Municipalities and the Department of Social Welfare offer advice and guidance to non-government organizations proposing to undertake such activities.
-8.3. Any non-government organization providing Social and Family Services must register with the appropriate authority and be licensed by the Department of Social Welfare and must adhere to the regulations, directives and procedures relating to their activities as laid down by the Ministry.
-8.4. Municipalities are permitted to enter into contracts with non-government organizations for the provision of specific Social and Family Services within its territory, on behalf of the Municipality, on condition that such contracts are in keeping with the Municipal annual Social and Family Services plan.
-8.5. The Ministry of Social Welfare is permitted to make grants and provide any other material assistance, including premises, or advice to non-government organizations providing specific Social and Family Services across Kosovo.
-8.6. The Ministry is permitted to enter into contracts with non-government organizations for the provision of specific Social and Family Services across Kosovo.
-Services to children and Families

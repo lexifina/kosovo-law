@@ -1,3 +1,0 @@
-# Neni 6
-1. Neni 6 i ligjit bazik, paragrafi 6.4. ndryshohet dhe riformulohet si vijon:
-6.4. Drejtoratet marrin hapa për të identifikuar natyrën dhe përmasat e nevojës për shërbime sociale dhe familjare brenda territorit të tyre. Ato përgatisin plane vjetore për zhvillimin dhe mirëmbajtjen e shërbimeve sociale dhe familjare dhe mbajnë bazën e të dhënave dhe nxjerrin statistika sipas rekomandimeve të Ministrisë. Komuna, përmes drejtorive përkatëse, paraqet raport vjetor për aktivitete qe lidhen me shërbime sociale dhe familjare si dhe raporte të veçanta në raste konkrete me rrezikshmëri apo interes të lartë, me kërkesën e Ministrisë.

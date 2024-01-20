@@ -1,0 +1,8 @@
+# Article 43
+Decision on the beneficiary’s application
+1. When deciding on the beneficiary’s application for the acceptance of the right from this Law, the Centre for Social Work is obliged to assess the general state of social risk and the needs of the individual in the family, and may determine other rights with it which adequately meet the needs of the beneficiary and issue a decision.
+2. The Centre for Social Work is obliged to draw up the individual plan and the plan of activities in treatment in the procedure of realizing the right to social and family services, and to determine the goal that is intended to be achieved, to undertake necessary activities for the person in state of need to be able to take care of oneself and family members.
+3. The procedure for realizing the right to social and family services is urgent, an in this case the Centre for Social Work must issue a decision on the request within fifteen (15) days.
+4. If it is necessary to carry out a special evaluation procedure, the Centre is obliged to issue the decision within thirty (30) days after the acceptance of the regular application, namely the conduct of the procedure ex officio.
+5. In urgent cases, such as the undertaking of measures in order to avoid the direct risk of basic life needs for the life and health of individuals, in particular the child, the Centre for Social Work undertakes actions for the immediate provision of the relevant service in accordance with the law.
+6. In the case from paragraph 5 of this Article, the decision on the provision of immediate service is issued in written form within eight (8) days.

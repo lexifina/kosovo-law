@@ -1,0 +1,18 @@
+# Neni 4
+Parimet
+1. Shërbimet sociale udhëhiqen nga parimi i:
+1.1. respektimit të integritetit dhe dinjitetit të përfituesit të shërbimeve sociale, fëmijës apo të rriturit, i cili bazohet në drejtësinë sociale, përgjegjësinë dhe solidaritetin që ofrohet, duke respektuar integritetin fizik dhe psikik, të sigurisë, si dhe duke respektuar bindjet morale, kulturore dhe religjioze në pajtim me të drejtat dhe liritë njerëzore të garantuara;
+1.2. mos diskriminimit të përfituesit sipas racës, gjinisë, moshës, përkatësisë kombëtare, religjionit, përkatësisë politike, sindikale apo të përcaktimit tjetër, të gjendjes pasurore, kulturës, gjuhës, aftësisë së kufizuar, përkatësisë së grupit të caktuar shoqëror, apo cilësive tjera personale dhe të vazhdimësisë së ofrimit të shërbimeve sociale;
+1.3. informimit të përfituesit për të gjitha të dhënat të cilat janë të rëndësishme për përcaktimin e nevojave të tyre sociale dhe realizimit të të drejtave, si dhe për atë se si ato nevoja mund të përmbushen kënaqshëm;
+1.4. qasjes individuale dhe të lehtë tek përfituesi në ofrimin e shërbimeve sociale për të gjithë ata që janë në nevojë sociale, ashtu që këto shërbime sigurohen dhe ofrohen, për aq sa është e mundur pranë familjes ose komunitetit të përfituesit të shërbimit me qëllim të sigurimit të mirëqenies shoqërore dhe përdorimin me efikasitet të fondeve;
+1.5. garantimit të pjesëmarrjes aktive të përfituesit në krijimin, zgjedhjen dhe shfrytëzimin e të drejtave sociale, i cili bazohet në pjesëmarrjen, vlerësimin e gjendjes dhe të nevojave, si dhe vendimmarrjes për pranimin e shërbimeve të nevojshme;
+1.6. respektimit të interesit më të mirë të përfituesit në realizimin e të drejtës në shërbime sociale;
+1.7. gjithë përfshirjes dhe pluralizmit të shërbimeve dhe i ofruesve të shërbimeve sociale sipas kushteve dhe mënyrës së paraparë me ligj;
+1.8. transparencës në pikëpamje të përfshirjes së opinionit për mbrojtjen sociale në mjetet publike të informimit, si dhe në mënyra tjera në pajtim me ligjin;
+1.9. respektimit të privatësisë me rastin e ofrimit të shërbimeve të përkujdesjes sociale të përfituesit të të drejtave në sistemin e përkujdesjes sociale.
+1.10. fshehtësisë dhe mbrojtjes së të dhënave personale, ashtu që përfituesit e të drejtës në sistemin e kujdesit social duhet t’u sigurohet fshehtësia dhe mbrojtja e të dhënave personale në pajtim me ligjin.
+1.11. vazhdimësisë së shërbimeve sociale, që nënkupton udhëzimin dhe përcjelljen e përfituesit përgjatë një periudhe kohore përmes një pakoje gjithëpërfshirëse të shërbimeve që mbulon çdo nivel dhe intensitet të kujdesit shëndetësor dhe social që një personi mund t’i duhen gjatë gjithë jetës;
+1.12. mos bërjes dëm, që nënkupton se shërbimet sociale duhet të ofrohen duke u bazuar në kuptimin e kontekstit në të cilin problemet sociale të ngritura bëhen nëpërmjet një vlerësimi se si intervenimi mund të ndër veprojë kundrejt një vendimi për të ofruar shërbimet sociale duke shmangur ndikimin negativ, dhe duke arritur ndikim pozitiv;
+1.13. personit dhe familjes në qendër, nënkupton që shërbimet sociale duhen ofruar duke i’u përshtatur nevojave të secilit përfitues, duke zhvilluar plan të intervenimit individual për çdo rast në harmoni me kompleksitetin e rastit;
+1.14.ofrimit të shërbimeve gjithëpërfshirëse dhe të integruara, që ofrohen nëpërmjet vlerësimit të cenueshmërisë së shumëfishtë të përfituesit si individ apo në grup;
+1.15. vlerësimit dhe gatishmërisë për të ofruar kualitet, që nënkupton se shërbimet sociale duhen zhvilluar me një qasje sistematike për të përmirësuar kualitetin e shërbimeve të ofruara, si dhe metodologjinë për mbikëqyrjen dhe monitorimin e zbatimit të programeve të reja.

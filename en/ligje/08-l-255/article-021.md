@@ -1,0 +1,7 @@
+# Article 21
+Guardianship
+1. Guardianship is a form of protection for the child without parental care, who is placed in guardianship and enjoys special protection from public institutions, when his parents are unable to exercise parental care, without being limited only to the reasons that both parents are dead or they are not known, have been declared missing, have been deprived of parental care or have lost the capacity to act, or for any other reason which, by court decision, gives grounds for placement in the interest of the child’s well-being.
+2. Guardianship as a form of protection is offered to the person of adult age, who is deprived of the capacity to act by court decision.
+3. Guardianship for special cases is assigned due to undefined property (special guardianship), on behalf of the person’s alleged property, in cases where the owner of the property is unknown and when such person does not have a legal representative, as well as when guardianship is unavoidable to protect the legal interests of the person.
+4. Special guardianship is assigned to the child in cases where the parents exercise parental care, but between them and the child there is a dispute over obvious legal matters related to the child’s property.
+5. The procedure for assigning guardianship, the types of guardianship and other matters related to guardianship are regulated by a sub-legal act issued by the Minister.

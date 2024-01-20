@@ -1,0 +1,16 @@
+# Article 38
+Territorial competence
+1. The Center for Social Work in whose territory the party resides shall have competence on the realization of rights to social and family services.
+2. If the party does not have a fixed residence in the territory of the Republic of Kosovo, the territorial competence is determined according to the temporary residence of the party.
+3. If the residence or temporary residence of the party cannot be determined, the provisions of the Law on general administrative procedure shall apply.
+4. The territorial competence of the Center for Social Work in the case of the child is determined according to the place of residence, namely the temporary residence of the parents.
+5. For the child whose parents live separately, the territorial competence of the Center for Social Work is determined according to the place of residence, namely the temporary residence of the parent to whom the child is entrusted by court decision.
+6. Until the decision from paragraph 5 of this Article is issued, the Center for Social Work has territorial competence according to the place of residence, respectively, of the temporary residence of the parent where the child lives.
+7. If the parents who live separately have been deprived of the right to custody and care of the child, or the child has been entrusted with custody and care to another person or the social service home for the child, the Center for Social Work according to the place of residence or temporary residence of the parents before their separation shall have competence.
+8. The territorial competence of the Center for Social Work for the child is not changed if the parents have been deprived of parental rights, except in the case of adoption.
+9. The Center for Social Work which has started the procedure is obliged, if during the procedure the circumstances according to which the territorial competence is determined are changed, to send the documents of the case, without delay, not later that seven (7) days, to the competent Center for Social Work.
+10. If the beneficiary changes residence or temporary residence, the Center for Social Work is obliged to, without delay, not later that seven (7) days, send the case documents to the competent Center for Social Work according to the residence or temporary residence of the beneficiary, which decides on the right to utilization within a period of fifteen (15) days from the day of sending the documents.
+11. In cases where the beneficiary from paragraph 10 of this Article changes residence or temporary residence by moving outside the territory of Kosovo, the Center for Social Work initiates interstate cooperation through the responsible mechanisms of the country.
+12. The applicant or the person who has been found in the position of social risk outside the territory of his residence, the Center for Social Work competent for that territory ensures the appropriate right to social protection.
+13. The applicant, who does not have a residence in the territory of Kosovo, the territorial competence is determined according to the temporary residence.
+14. The Center for Social Work in the territory in which the application has been submitted or the person has been found shall be competent for the applicant with an unknown place of residence.
