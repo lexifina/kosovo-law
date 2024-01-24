@@ -1,0 +1,25 @@
+# Neni 3
+Përkufizimet
+1. Shprehjet e përdorura në këtë ligj kanë këto kuptime:
+1.1. Ministria – nënkupton Ministrinë përgjegjëse për Bujqësi, Pylltari dhe Zhvillim Rural;
+1.2. Ministri- ministri përgjegjës për bujqësi, pylltari dhe zhvillim rural;
+1.3.Agjencia e Ushqimit dhe Veterinarisë (Agjencia) - nënkupton autoritetin përgjegjës për kontrollin në fushën e sigurisë, higjienës, gjurmimit dhe etiketimit të ushqimit në zonat e përpunimit, paketimit, shpërndarjes, shitjes me shumicë dhe pakicë sipas legjislacionit në fuqi;
+1.4. Organizimi i tregut – nënkupton politikat shtetërore për organizimin dhe menaxhimin e tregut të produkteve bujqësore me qellim të arritjes të standardeve të tregut për prodhimet bujqësore dhe kërkesave të konsumatorit;
+1.5. Prodhues – nënkupton personin fizik ose juridik, ose një grup personash fizikë ose juridik, pavarësisht nga statusi i tyre juridik që i është dhënë këtij grupi dhe anëtarëve të tij me ligj, i cili ushtron një veprimtari bujqësore;
+1.6. Produkt bujqësor – nënkupton produkte bimore të prodhuara në fermë, që vijnë nga faza e parë e përpunimit;
+1.7. Faza e parë e përpunimit – nënkupton pranimin, klasifikimin, ruajtjen, magazinimin, transportimin ose shitjen, e një produkti bujqësor të prodhuar me kusht që produkti fillestar bujqësor të jetë përbërësi ose përbërësi kryesor dhe duhet të jetë i përdorshëm si ushqim, hidrate të karbonit, materie energjetike, ose lëndë të parë industrial;
+1.8. Veprimtari bujqësore – nënkupton prodhimin e produkteve bujqësore dhe mbajtjen e sipërfaqeve bujqësore në gjendje të përshtatshme për kultivim;
+1.9. Tregtar – nënkupton çdo person fizik ose juridik i cili:
+1.9.1. mban pemë dhe perime që i nënshtrohen standardeve të tregut me qëllim;
+1.9.2. ofrimin e tyre për shitje ose tregtimin e tyre në ndonjë mënyrë tjetër; ose
+1.9.3. kryen ndonjë nga aktivitetet e përcaktuara në nënparagrafin 1.9.1 të këtij neni për sa i përket pemëve dhe perimeve që i nënshtrohen standardeve të tregut.
+1.10. Organizatat e Prodhuesve - nënkupton një grup prodhuesish ose fermerësh i formuar ligjërisht, që do të thotë biznes rurale i cili është në pronësi dhe kontroll të prodhuesve, që angazhohen në aktivitete të përbashkëta duke i lejuar prodhuesit të bashkëpunojnë zyrtarisht për të përmirësuar pozicionin e tyre në zinxhirin e furnizimit;
+1.11. Fondi operacional – nënkupton fondin e krijuar nga organizatat prodhuese në sektorin e pemëve- perimeve dhe/ose shoqatat e tyre për zbatimin e programit të tyre operacional;
+1.12. Programi operativ - nënkupton programin operacional i plotë ose i pjesshëm i përbërë nga masa të identifikuara, por të pa realizuara, nga organizatat anëtare ose shoqatat e paraqitura sipas programeve të tyre operacionale të miratuara nga Ministria;
+1.13. Standardedet UNECE – nënkupton standardet e zhvilluara nga Komisioni Ekonomik i Kombeve të Bashkuara për Evropën që përdoren ndërkombëtarësht nga qeveritë, prodhuesit, tregtarët, importuesit, eksportuesit dhe organizatat ndërkombëtare;
+1.14. Emërtimi i origjinës – nënkupton emrin e rajonit, vendit specifik ose në raste të veçanta emri i shtetit, i cili përdoret për të përshkruar një produkt me origjinë nga ai rajon, vend ose shtet specifik, cilësitë ose karakteristikat e të cilit janë kryesisht ose ekskluzivisht si rezultat të një mjedisi të caktuar gjeografik me faktorë natyrorë dhe njerëzorë të trashëguar nga ky mjedis dhe si rezultat i prodhimit, përpunimit dhe përgatitjes së produktit i cili është zhvilluar tërësisht në zonën e përcaktuar gjeografike, e përcaktuar me Ligjin përkatës për Treguesit Gjeografike dhe Emërtimet e Origjinës;
+1.15. Treguesi gjeografik – nënkupton emrin e rajonit, vendit specifik ose në raste të veçanta emri i shteti, i cili përdoret për të përshkruar një produkt me origjinë nga ai rajon, vend i caktuar ose shtet, ka një cilësi, reputacion ose karakteristika të tjera specifike që vijnë si rezultat i origjinës gjeografike, prodhimi dhe/ose përpunimi dhe/ose përgatitja e të cilave bëhet tërësisht në zonën e përcaktuar gjeografike, e përcaktuar me Ligjin përkatës për Treguesit Gjeografike dhe Emërtimet e Origjinës;
+1.16. Regjistri i shfrytëzuesve të autorizuar i emërtimeve të mbrojtura të origjinës- nënkupton regjistrin e përdoruesve të autorizuar të emërtimeve të mbrojtura të origjinës dhe treguesve të mbrojtur gjeografikë, e përcaktuar me Ligjin përkatës për treguesit gjeografikë dhe emërtimet e origjinës;
+1.17. Regjistri i tregtarëve të pemëve, perimeve dhe patateve nënkupton listën e tregtarëve, persona fizikë ose juridikë, të përfshirë në tregtimin e produkteve bujqësore në të gjitha fazat e tregut;
+1.18. Etiketa nënkupton një copë letër të lexueshme, të dukshme dhe të pashlyeshme që i ngjitet zakonisht një malli për tu tregtuar që tregon llojin, klasën, varietetin, cilësinë, çmimin dhe vendin e prodhimit të origjinës së atij produkti;
+1.19. IQBSUVP- nënkupton Inspektoratin Qendror të Bujqësisë, Sigurisë Ushqimore, Veterinës dhe Pylltarisë, kompetent për shqiptimin e gjobave.
