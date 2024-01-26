@@ -1,7 +1,0 @@
-ON THE NATIONAL ENSEMBLE OF SONGS AND DANCES “SHOTA”
-AND OTHER ENSEMBLES
-Assembly of Republic of Kosovo;
-Based on Article 65 (1) of the Constitution of the Republic of Kosovo,
-Approves
-LAW ON THE NATIONAL ENSEMBLE OF SONGS AND DANCES “SHOTA”
-AND OTHER ENSEMBLES
