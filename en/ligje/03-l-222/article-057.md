@@ -1,5 +1,0 @@
-# Article 57
-Administrative Penalty for Failure to Install Fiscal Electronic Device for capturing and recording transactions
-1. Any person required to use a fiscal electronic device (FED) to record all transactions made in the course of their economic activity, who fails to install such an electronic device, shall be subject to an administrative penalty of one thousand (1,000) Euros for each such failure.
-2. If a person required to install a FED repeatedly, after having been issued three or more fines for failure to install an FED, fails to install an FED, the tax administration shall be authorized to take such steps as necessary to cancel the taxpayer’s fiscal number and VAT certificate, if applicable, followed by a request to the Business Registration Agency to de-register the business.
-3. If a person described in paragraph 1 of this Article attempts to circumvent the FED, or tampers with the programming of the FED or data to be entered into the FED, in order to record incorrect data in the FED, such person shall be subject to an administrative penalty in the amount of one thousand (1,000) €.

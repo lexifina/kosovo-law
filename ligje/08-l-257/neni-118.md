@@ -1,0 +1,5 @@
+# Neni 118
+Rregullat ndërkombëtare
+1. Aty ku ligjet ekzistuese të Kosovës për tatime lidhen me tatuarjen ndërkombëtare nuk e adresojnë tatuarjen e transaksioneve ndërkombëtare, ato mund të interpretohen me Direktivat e Bashkimit Evropian, si dhe rregullave dhe parimeve ndërkombëtare.
+2. Aty ku ligjet ekzistuese tatimore që lidhen me tatuarjen e dyfishtë ndërkombëtare juridike të të ardhurave dhe kapitalit të personave në Republikën e Kosovës nuk adresojnë tatuarjen e tillë, do të interpretohen me parimet e Modelit të Konventës Tatimore mbi të Ardhurat dhe mbi Kapitalin të OECD, Modeli i Konventës për tatuarje të dyfishtë i Kombeve të Bashkuara, me qëllim të shmangies së tatuarjes së dyfishtë të të ardhurave dhe kapitalit të tillë.
+3. Aty ku ligjet ekzistuese tatimore që lidhen me tatuarjen e transaksioneve për TVSh për mallrat dhe shërbimet nuk adresojnë tatuarjen e tillë, ato mund të interpretohen me parimet e Direktivave të Sistemit të TVSh së Bashkimit Evropian dhe gjykimeve të Gjykatës Evropiane të Drejtësisë.

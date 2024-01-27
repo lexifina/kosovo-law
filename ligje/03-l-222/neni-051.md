@@ -1,5 +1,0 @@
-# Neni 51
-Ndëshkimet Administrative lidhur me mos deklarim dhe mos pagesë
-1. Kur një person kërkohet të dorëzojë një deklaratë tatimore sipas legjislacionit të aplikueshëm në Republikën e Kosovës, nuk e dorëzon këtë deri në datën e kërkuar, personi i tillë do t’i nënshtrohet një ndëshkimi administrativ prej pesë përqind (5%) të tatimit të papaguar për secilin muaj apo pjesë të muajit për të cilin është vonuar, me një ndëshkim maksimal administrativ për pagesë prej njëzetepesë përqind (25%) të obligimit tatimor.
-2. Kur një person kërkohet të paguajë një tatim sipas legjislacionit të aplikueshëm në Republikën e Kosovës, nuk paguan tërë apo një pjesë të tatimit të tillë deri në datën e kërkuar, personi i tillë do t’i nënshtrohet një ndëshkimi administrativ prej një përqind (1%) të obligimit tatimor për secilin muaj apo pjesë të muajit për të cilën ajo pagesë është vonuar, deri në maksimum dymbëdhjetë (12) muaj.
-3. Ndëshkimi administrativ i paraparë në paragrafin 2. të këtij neni nuk do të aplikohet për asnjë muaj apo pjesë të muajit gjatë së cilit ndëshkimi administrativ i paraparë në paragrafin 1. të këtij neni është aplikuar.

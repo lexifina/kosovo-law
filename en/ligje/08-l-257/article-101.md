@@ -1,0 +1,19 @@
+# Article 101
+Sanctions for not submitting, not creating or not presenting data
+1. Unless otherwise provided in this law, any person who is required to submit an information statement with TAK and who fails to do so by the due date or who submits an inaccurate or incomplete statement, shall be liable to a sanction of one hundred fifty (150.00) Euros for each statement not submitted, and for each inaccurate or incomplete statement, up to a maximum of three thousand (3,000.00) Euros.
+2. Any person who is required to create or retain records, including the requirement to place the fiscal number or the unique ID number of the business on all receipts and invoices issued, under the legislation applicable in Republic of Kosovo and who fails to do so shall be liable to a fine as follows:
+2.1. a fine of one hundred and fifty (€150.00) Euros for the taxpayer with an annual turnover of up to thirty thousand (€30,000.00) Euros;
+2.2. a fine of two hundred and fifty (€250.00) Euros for the taxpayer with an annual turnover of thirty thousand Euros and one cent (€30,000.01) to two hundred thousand (€200,000.00) Euros;
+2.3. a fine of five hundred (€500.00) Euros for the taxpayer with an annual turnover of two hundred thousand Euros and one cent (€200,000.01) to five hundred thousand (€500,000.00) Euros;
+2.4. a fine of one thousand (€1,000.00) Euros for the taxpayer with an annual turnover of five hundred thousand Euros and one cent (€500,000.01) to five million (€5,000,000.00) Euros; and
+2.5. a fine of two thousand (€2,000.00) Euros for the taxpayer with an annual turnover of five million Euros and one cent (€5,000,000.01) and more.
+3. The base for calculating the fines provided in paragraph 2. of this Article is the turnover of the previous fiscal year. For new businesses, the base is the real turnover of the current year.
+4. Procedural rules for establishing the time within which transactions must be entered into the accounting books for purposes of the fine provided in paragraph 2. of this Article, shall be regulated with a by-law.
+5. Any person who is required to provide access to books or records under Articles 8 and 9 of the law, and who fails to do so, shall be liable to a fine of one hundred fifty (150.00) Euros for each day of default following the date specified by the TAK. In such cases, the TAK may also request a warrant from a judge authorizing the entry or access sought under Articles 8 and 9 of this Law.
+6. Any person who is required to install a FED/FS or software for the recording of transactions made in the course of their economic activity, and who fails to issue a receipt from such FED/FS or software to their customer, shall be liable to a fine determined in accordance with the provisions of paragraph 2. of this Article. In case of equipment or power failure, as well as in case of any problem with the FED/FS or software, handwritten receipts are issued instead of the receipts issued by a FED/FS or software, which have been approved by TAK in hard copy or electronic form.
+7. Pursuant to paragraph 6. of this Article, the TAK prohibits the exercise of business activity at points of sale in cases where continuous penalties are applied, such as:
+7.1. seven (7) calendar days in cases where three (3) penalties are applied on different dates within the calendar year;
+7.2. fifteen (15) calendar days in cases where four (4) penalties are applied on different dates within the calendar year.
+8. Any person who does not update the information as required by law is subject to a fine of one hundred and fifty (€150.00) Euros.
+9. Any person who accepts payment in violation of paragraphs 9., 10., 11. and 12. of Article 6 of this Law, is subject to a fine determined in accordance with the provisions of paragraph 2. of this Article.
+10. The Minister shall issue a by-law to describe the procedures through which this Article is implemented.

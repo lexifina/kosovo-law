@@ -1,0 +1,7 @@
+# Neni 19
+Anulimi i dokumenteve tatimore
+1. Administrata Tatimore e Kosovës mund të anulojë dokumentet tatimore të lëshuara nga ajo, në qoftë se konstatohet se janë bërë shkelje të legjislacionit tatimor.
+2. Administrata Tatimore e Kosovës publikon njoftim në ueb faqen e saj apo në media kur është tërhequr certifikata e një tatimpaguesi, në mënyrë që bizneset tjera të jenë në dijeni për tërheqjen dhe ndikimin e kësaj tërheqjeje në mundësinë e tyre për të hyrë në transaksione ligjore me atë biznes.
+3. Çdo herë kur ATK gjatë verifikimit të dokumentacionit identifikon ndonjë transaksion/faturë fiktive, pavarësisht se a është biznesi që ka lidhur transaksionin/lëshuar faturën i publikuar në ueb-faqe të ATK-së apo jo, ai transaksion/ajo faturë nuk do të pranohet për qëllime të njohjes së shpenzimeve në Deklaratën e Tatimit në të Ardhura, nuk do të pranohet për qëllime të njohjes së TVSh së zbritshme, si dhe për të dy bizneset, si: për biznesin i cili e ka lëshuar faturën për transaksionin fiktiv dhe biznesin që e ka pranuar faturën për transaksionin fiktiv, ATK do të ndërmarrë masat e përcaktuara me legjislacionin në fuqi.
+4. Në rastet kur ATK ndalon ushtrimin e aktivitetit ekonomik të tatimpaguesit për shkak të shkeljeve të dispozitave ligjore, njofton ARBK me qëllim të anulimit të certifikatës së regjistrimit të biznesit.
+5. Ministri nxjerr akt nënligjor për përcaktimin e kushteve dhe mënyrën e anulimit të dokumenteve tatimore dhe lëshimit të dokumenteve publike.

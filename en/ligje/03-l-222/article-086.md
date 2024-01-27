@@ -1,6 +1,0 @@
-# Article 86
-Temporary International Measures
-1. Where the existing taxation laws of Kosovo relative to international taxation do not address taxation of international transactions, they may be supplemented by application of the principles of the OECD Model Tax Convention on Income and on Capital.
-2. Where the existing tax laws relative to the international juridical double taxation of in command capital of persons in Republic of Kosovo do not address such taxation, the principles of the OECD Model Tax Convention on Income and on Capital shall apply in order to avoid double taxation of such income and capital.
-3. Where there are questions regarding interpretation of the Kosovo Law on Value Added Tax, the law shall be interpreted in line with the principles of the European Union VAT System Directives and the judgments of the European Court of Justice.
-4. In accordance with Article 9 of this law, the Director General may issue public rulings, either in general or on a case-by-case basis, to supplement the provisions of existing income tax or VAT laws in accordance with paragraphs 1 through 3 of this Article. Upon entering a mutual tax convention with a contracting state, rulings under this Article with respect to transactions between Republic of Kosovo and that contracting state will no longer be authorized.

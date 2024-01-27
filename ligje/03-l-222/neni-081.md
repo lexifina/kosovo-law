@@ -1,4 +1,0 @@
-# Neni 81
-Rishqyrtimi juridik
-1. Kundër vendimeve të Bordit mund të bëhet ankesë në gjykatë të juridiksionit kompetent me kusht që ankesat e tilla të jenë pranuar brenda gjashtëdhjetë (60) ditëve nga pranimi i njoftimit të vendimit të Bordit. Një vendim i gjyqit të juridiksionit kompetent lidhur me lëndën nën ankesë është vendim përfundimtar. Nëse fakte të reja bëhen të ditura pas një vendimi të gjyqit, ato fakte mund të përdoren nga ATK të bëjë një vlerësim të ndonjë tatimi shtesë që mund të jetë obligim.
-2. Në diskrecionin e gjykatës, nëse duket se ankesa në gjyq nuk është e arsyeshme, apo ka pak bazë apo nuk ka bazë, Gjyqi mund të kërkojë nga personi që e parashtron ankesën të vendosë një garanci bankare, apo ndonjë formë tjetër të garancie, para se Ankesa të merret parasysh nga Gjyqi. Nëse Gjyqi është i kënaqur se ankesa ka bazë juridike të arsyeshme, nuk do të kërkohet pagesë apo garanci

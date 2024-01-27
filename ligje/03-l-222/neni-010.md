@@ -1,5 +1,0 @@
-# Neni 10
-Vendimet shpjeguese individuale
-1. Drejtori i Përgjithshëm mund t’i lëshojë një vendim shpjegues një personi të caktuar duke i sqaruar se si ATK do të interpretojë dhe zbatojë dispozitat e këtij legjislacionit tatimor që e administron atë ashtu siç zbatohet për një transaksionin të caktuar apo marrëveshje të planifikuar nga personi i cili kërkon vendimin shpjegues.
-2. Në qoftë se tatimpaguesi ka bërë një deklarim të tërësishme dhe të vërtetë të natyrës të të gjitha aspekteve të transaksionit që ka vlerë për vendimin shpjegues, dhe transaksioni kryhet në të gjitha pikëpamjet materiale ashtu siç është përshkruar në kërkesën e tatimpaguesit për vendim shpjegues, vendimi shpjegues do të jetë detyrues për ATK dhe tatimpaguesin në lidhje me zbatimin e ligjit siç parashikohej në kohën e nxjerrjes së vendimit shpjegues.
-3. Ministri do të nxjerrë një akt nënligjor për të përshkruar kërkesat për të kërkuar një vendim shpjegues individual; përfshirë dokumentet që kërkohen, informatat që duhet përmbajtur në kërkesë, afatet kohore për të kërkuar dhe lëshuar vendime shpjeguese dhe pagesat që kërkohen për të kërkuar një vendim shpjegues individual.

@@ -1,6 +1,0 @@
-# Article 3
-1. Article 77, paragraph 6. of the basic Law shall be reworded with the following text:
-6. A taxpayer who does not accept a decision of the Appeals Division may appeal it to the Independent Review Board within thirty (30) days of receiving the notification of the decision, for all decisions received by 30 th November 2012. As of 1 st December 2012, the competent court entitled to receive the appeals against the Appeal Division’s decisions shall be the Fiscal Division of the Administrative Department of the Basic Court of Pristina. The time within which to lodge an appeal before the competent court shall be thirty (30) days from receiving the notification of the Appeal Division’s decision.
-2. Article 77 paragraph 8. of the basic Law shall be reworded with the following text:
-8. Where the Appeals Division has not delivered a decision within sixty (60) days of the date on which an appeal was filed, the taxpayer may appeal on the assessment or any other official determination directly to the Independent Review Board, by 30 th November 2012. As of 1 st
-December 2012, if the Appeals Division has not delivered a decision within sixty (60) days of the date on which an appeal was filed, the taxpayer may appeal directly the challenged fiscal assessment or any other official determination to the competent court, as defined in Article 3 of this Law.

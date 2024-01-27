@@ -1,0 +1,26 @@
+## CHAPTER III
+## DATA DOCUMENTATION
+# Article 6
+Creating and Retaining Records
+1. Taxpayers are obliged to keep books and records compatible with the tax legislation in force. A person who is liable to pay or withhold tax and contributions, shall create records of account in written or electronic form which determines their liability to pay.
+2. The specific books and records required to be prepared and retained shall be the same as those set out in the tax legislation in force. The TAK may require a taxpayer to translate any records that are not in one of the official languages of the Republic of Kosovo. The TAK shall determine the format of record keeping as well as the criteria that must be contained in the software used by businesses for wholesale and retail sales.
+3. Notwithstanding the record keeping requirements set out in other tax legislation in force:
+3.1. a person required to create records under this Law, shall retain those records for a period of at least six (6) years after the end of the tax period in which the tax liability to which they relate arose;
+3.2. records relating to assets that are depreciable over a period of more than six (6) years must be kept for the depreciable life of the assets, plus one additional year;
+3.3. records related to assets that require the determination of the basis for the treatment of capital gains or the determination of the profit on their sale, must be kept until such assets have been sold or exhibited with plus six (6) additional years;
+3.4. records related to the activity of long-term construction contracts, must be kept plus six (6) years from the end of the project;
+3.5. The Tax Administration of Kosovo may allow taxpayers, who so request, to store original records on microfilm or another storage medium and such records shall be treated as being originals subject to any conditions specified by TAK;
+3.6. the records required to be created and retained under this Article shall relate to the tax periods specified in the legislation in force in Kosovo. The TAK may allow the taxpayer to keep records for different tax periods where it believes this is necessary for efficient operation, and in such case the TAK shall specify the application of those laws to ensure that the TAK, the Kosovo Pension Savings Fund (hereinafter: the KPSF) or any other similar fund, have not been adversely affected.
+3.7. records related to electronic services must be kept for a period of at least ten (10) years after the end of the tax period when the electronic services were provided.
+3.8. records related to investable gold transactions must be kept for a period of at least ten (10) years.
+4. Books and records for businesses with an annual turnover above the VAT registration threshold level are kept in accordance with the general principles of accounting and financial reporting according to the legislation in force in the Republic of Kosovo.
+5. Every taxpayer, regardless of the annual turnover, in addition to keeping the books and records provided by law, shall keep a record of goods in stock at the end of the calendar year, which must be ready by January 10 of the following year.
+6. Goods in possession of a taxpayer must be documented as to origin.
+7. The Tax Administration of Kosovo may require that all supplies made by all or certain types of persons be recorded on FED/FS or software, and may establish the specifications of the types of electronic devices and software which shall be used for such recording. In the case of supplies made by certain taxable persons involving transactions which are not recorded by electronic means, the TAK may require such taxable persons to issue receipts in a manner prescribed by the TAK.
+8. All persons engaged in economic activity who are required to install FED/FS or software for recording transactions related to their economic activity, shall issue a receipt to the customer that complies with the technical specifications for receipts.
+9. Any transaction in excess of three hundred (€ 300) Euros, made between persons involved in an economic activity, is required to be made through a bank account and/or other forms of payment electronically.
+10. Pursuant to paragraph 9 of this Article, in cases where the transaction is in excess of one hundred Euros (€ 100), but it is partially paid in cash and the rest in kind, the cash payment is required to be made through the bank account and/or other forms of payment electronically.
+11. Any transaction in excess of the value determined by decision of the Minister, made between the person who conducts an economic activity and the natural person who is not a business, is required to be done through the bank account and/or other forms of payment electronically.
+12. Pursuant to paragraph 11. of this Article, in cases where the transaction is in excess of the limit determined by decision of the Minister, but it is partially paid in cash and the rest in kind, the cash payment is required to be made through the bank account and/or other forms of payment electronically.
+13. Any salary paid to the employee is required to be made through a licensed financial institution.
+14. The Minister shall issue a by-law regarding the implementation of this Article, including the conditions and benefits of consumers, in order to stimulate the issue of fiscal receipts.

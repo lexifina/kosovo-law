@@ -1,6 +1,0 @@
-# Neni 52
-Ndëshkimet administrative lidhur me nën deklarimin e tatimit dhe mbi deklarimin e rimbursimeve tatimore
-1. Kur nga një person kërkohet të plotësojë një deklaratë tatimore sipas legjislacionit të zbatueshëm në Kosovë nën-deklaron shumën korrekte të obligimit tatimor apo mbi-deklaron shumën korrekte të një rimbursimi tatimor për të cilin ata kanë të drejt, personi i tillë do t’i nënshtrohet një ndëshkimi administrativ prej:
-1.1. pesëmbëdhjetë përqind (15%) të diferencës mes shumës korrekte të tatimeve që duhet të deklarohet dhe shumës që në të vërtetë është deklaruar aty ku ndodh që nën-deklarimi i tillë ose mbi-deklarimi është deri në 10% apo me pak; ose
-1.2. njëzetepesë përqind (25%) e ndryshimit mes shumës korrekte të tatimit që duhet të ishte deklaruar dhe shumës që në të vërtetë është deklaruar aty ku ndodh që nën-deklarimi i tillë ose mbi-deklarimi sipas nën-paragrafit 1.1. të këtij paragrafi është me shumë se dhjetë përlind (10%) e shumës korrekte të tatimit;
-2. Për qëllime të paragrafit 1. të këtij neni, tatimpaguesi i cili kërkohet të plotësojë deklaratën tatimore për një periudhë tatimore dhe nuk dorëzon deklaratën e tillë, konsiderohet se ka deklaruar se shuma e detyrimit tatimor të detyruar nga ai ose ajo për atë periudhë tatimore ka qenë zero.

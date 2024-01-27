@@ -1,3 +1,0 @@
-# Article 25
-Liability of responsible persons
-The persons referred to in paragraphs 1 and 2 of Article 16 of this law shall be jointly and severally liable with respect to those tax obligations which are not fulfilled due to a willful or gross negligent breach of the duties imposed on them resulting in taxes which are not assessed or are not paid or are not assessed or paid on time. The same shall apply in cases where tax credits and refunds are paid without legal grounds under the conditions of sentence 1 of this Article. The liability shall also include interest according to Article 28 of this law.

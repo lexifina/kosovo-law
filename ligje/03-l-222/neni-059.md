@@ -1,3 +1,0 @@
-# Neni 59
-Ndëshkimi administrativ për mallrat pa origjinë
-Kur një person i angazhuar në aktivitet ekonomik posedon mallra pa origjinë ai person do t’i nënshtrohet ndëshkimit administrative me njëzetepesë përqind (25%) të vlerës së tregut së mallrave. Ato mallra mund të merren dhe të mbahen në kujdestari të ATK-së me qëllim të caktimit të detyrimit penal. Në këtë rast, do të ndiqen procedurat për vlerësim për rrezik në nenin 21 të këtij ligji, dhe procedurat e marrjes së mallit dhe shitja e tyre do të rregullohet me dispozitat e neneve 34, 35 dhe 36 të këtij ligji. Drejtori i Përgjithshëm mund të lëshojë një urdhër për rrezik sikurse është paraparë në nenin 39 të këtij ligji.

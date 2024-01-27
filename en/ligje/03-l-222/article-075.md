@@ -1,4 +1,0 @@
-# Article 75
-Powers of the tax investigation unit in criminal proceedings
-1. Any official of the Tax Investigation Unit shall have the same powers and responsibilities that police officers have who are authorized to carry out investigative and related functions under the supervision of the public prosecutor (Judicial Police). Any official of the Tax Investigation Unit shall proceed in cases of suspected criminal tax offenses in accordance with the Criminal Procedure Code of Kosovo. They have the right to make direct referrals to the competent public prosecutor.
-2. A search order shall be executed by the Tax Investigation Unit, and where required, with the necessary assistance of police officers, generally within forty-eight hours of the issuance of the order. However, upon the request of the competent Public Prosecutor the pre-trial judge may authorize an extension of the execution period for up to four weeks, if this is justified by the complexity of the case.

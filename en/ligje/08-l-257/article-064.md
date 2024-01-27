@@ -1,0 +1,5 @@
+# Article 64
+Individual ruling
+1. The Tax Administration of Kosovo may issue a ruling to a particular person explaining how TAK shall interpret and apply the provisions of the tax legislation that it administers as it applies to a particular transaction or arrangement planned by the person seeking the ruling.
+2. If the taxpayer has made a full and true disclosure of the nature of all aspects of the transaction relevant to the ruling, and the transaction proceeds in all material respects as described in the taxpayer’s application for the ruling, the individual ruling shall be binding on TAK and the taxpayer with respect to the application of the law as it stood at the time of the individual ruling.
+3. The Minister shall issue a by-law to prescribe the requirements for requesting an individual ruling, including the documents required, the information to be included in the request, timeframes for requesting and issuing individual rulings, and the fees to be required to be issued an individual ruling.

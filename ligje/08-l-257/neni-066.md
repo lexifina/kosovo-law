@@ -1,0 +1,26 @@
+# Neni 66
+Konfidencialiteti i informatave tatimore
+1. Çdo zyrtari ose personi tjetër, i cili në ushtrimin e detyrave të tij zyrtare ka qasje tek informatat e tatimpaguesit, i ndalohet t’ia zbulojë informata e tilla ndonjë personi tjetër, përveç rastit kur kjo gjë është e nevojshme në procedurat tatimore, në procedurat penale të krimeve në fushën e tatimeve, ose nëse është përcaktuar ndryshe në këtë nen.
+2. Pavarësisht nga paragrafi 1 i këtij neni, një zyrtar tatimor mund t’u zbulojë informata për tatimpaguesin personave vijues:
+2.1. Ministrisë së Financave, aty ku ato informata janë të nevojshme për qëllime zyrtare të Ministrisë. Informatat e tilla të tatimpaguesit i nënshtrohen kërkesave dhe sanksioneve të njëjta të konfidencialitetit sikurse janë vendosur në këtë nen;
+2.2. Fondit të Kursimeve Pensionale të Kosovës, për një qëllim të autorizuar nga legjislacioni dhe rregulloret në fuqi lidhur me pensionet në Republikën e Kosovës apo fondeve të tjera ashtu siç është përcaktuar me ligje të veçanta;
+2.3. Institucionit të Avokatit të Popullit, për përdorim në zgjidhjen e ankesave të tatimpaguesit;
+2.4. Gjykatave për qëllime zyrtare;
+2.5. Agjencisë së Regjistrimit të Bizneseve të Kosovës, për mirëmbajtjen e regjistrit të bizneseve. ATK mund t’ia zbulojë informatat për identifikimin individual Regjistrit të Bizneseve të Kosovës për qëllime të çregjistrimit ose për qëllime të informimit të Regjistrit të Bizneseve të Kosovës lidhur me informatat e tatimpaguesit të cilat nuk kanë mundur të vërtetohen përmes vizitës personale. Zbulimi për Regjistrin e Bizneseve të Kosovës po ashtu është i autorizuar sipas nevojës për të verifikuar të dhënat e regjistrimit të bizneseve të regjistruara me Regjistrin e Bizneseve të Kosovës.
+2.6. Auditorit të Përgjithshëm - Zyrës Kombëtare të Auditimit të Kosovës, për qëllim të auditimit të ATK në përputhje me legjislacionin dhe rregulloret në fuqi lidhur me auditimin e përgjithshëm në Republikën e Kosovës;
+2.7. Zyrtarëve të institucioneve shtetrore ose të punësuarve të ATK gjatë dhe për qëllim të kryerjes së detyrave të tyre zyrtare;
+2.8. Autoriteteve tatimore dhe doganore të një vendi të huaj në përputhje me traktatet ose marrëveshjet ndërkombëtare të ratifikuara;
+2.9. Doganës së Kosovës, për qëllime të administrimit të legjislacionit doganor;
+2.10. Çdo personi, kur tatimpaguesi është dënuar për mashtrim ose kur informatat përmbajnë një listë të personave të regjistruar për TVSh, me qëllim që personat të verifikojnë nëse janë duke bërë biznes me një person të regjistruar për TVSh; apo çdo personi, kur informatat përmbajnë një listë të personave, përfshirë numrat e tyre fiskal apo numrat unik të identifikimit, me qëllim të kryerjes së veprimtarisë ekonomike.
+2.11. Zyrës së Prokurorisë së Shtetit apo agjencive kompetente për zbatimin e ligjit:
+2.11.1. për ndjekjen penale apo hetimin e rasteve të dyshuara për shpëlarje të parasë apo financim të terrorizmit dhe, përveç sikurse është paraparë në nën- paragrafët 2.12.2. ,2.12.3 dhe 2.13 të këtij paragrafi, për hetimin e veprave tjera penale në Republikën e Kosovës kur është siguruar miratimi paraprak nga gjykata;
+2.11.2. për ndjekjet penale të veprave penale, përveç atyre që lidhen me veprat penale në fushën e tatimeve, nëse një informatë e tillë merret gjatë kohës së procedurave të shmangies së tatimit apo kundërvajtjeve tatimore; dhe
+2.11.3. për ndjekjet penale të veprave penale, përveç atyre të shmangies së tatimeve që ndëshkohen me burg sipas Kodit Penal apo për ndonjë krim ekonomik që në bazë të mënyrës së kryerjes apo nga shkalla e dëmit të shkaktuar ka gjasa të ketë shkaktuar seriozisht prishje të rregullit ekonomik të Republikës së Kosovës apo ka gjasa të rrezikojë seriozisht besueshmërinë e përgjithshme apo integritetin e biznesit apo autoritetin e rregullt funksional dhe institucionet publike;
+2.12. Zyrës së Prokurorisë së Shtetit apo agjencisë kompetente ekzekutuese me zyrtarë të Njësisë së Standardeve Profesionale sipas nevojës në realizimin e përgjegjësive dhe autorizimeve të tyre.
+2.13. Publikut:
+2.13.1. kur është i nevojshëm zbulimi për të përmirësuar faktet të cilat janë shpërndarë publikisht në mënyrë të pasaktë dhe të cilat munden seriozisht të rrezikojnë besueshmërinë në administrimin e ATK. Vendimi për zbulimin e këtyre të dhënave mund të merret nga ATK pasi që është dëgjuar tatimpaguesi; dhe
+2.13.2 kur është e nevojshme të jepen informatat në lidhje me çregjistrimin, mohimin e regjistrimit, heqjen e regjistrimit, apo vendosjen në gjendjen joaktive të çdo tatimpaguesi apo ish tatimpaguesi sikurse parashihet në këtë Ligj.
+2.14. Institucioneve tjera të Republikës së Kosovës sipas kërkesave të tyre, me qëllim të kryerjes së detyrave zyrtare;
+3. Tatimpaguesi mund të lirojë çdo person nga detyrimi i konfidecialitetit. Lirimi i tillë duhet të jetë me shkrim dhe mund të kufizohet në dhënien e informatave të caktuara ose t’i shfrytëzojë për një qëllim të veçantë.
+4. Informatat dhe dokumentet e veçanta të cilat do të konsiderohen informata konfidenciale, si dhe procedurat për përcaktimin dhe qasjen në informatat e tilla konfidenciale, përcaktohen me rregullore të brendshme të nxjerrë nga Drejtori.
+NËNKAPITULLI II MARRËDHËNIA E PUNËS NË ADMINISTRATËN TATIMORE TË KOSOVËS

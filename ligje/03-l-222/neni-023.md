@@ -1,5 +1,0 @@
-# Neni 23
-Anulimi i dokumenteve tatimore
-1. Drejtori i Përgjithshëm mund të anuloj dokumentet tatimore të lëshuar nga ATK në qoftë se konstatohet së janë bërë shkelje të legjislacionit tatimor
-2. Drejtori i Përgjithshëm mund të publikojë një njoftim në gazetat e përgjithshme ditore dhe në faqen e internetit të administratës tatimore kur është tërhequr certifikata e një tatimpaguesi ashtu që bizneset tjera të jenë në dijeni për tërheqjen dhe ndikimin e saj në mundësinë e tyre për të hyrë në transaksione ligjore me atë biznes. Mundësia për të publikuar njoftime të tilla gjithashtu do të përfshijë autorizimin për të publikuar njoftimin për mos-lëshim të një numri fiskal siç është paraparë në nenin 11 të këtij ligji,, nëse administrata tatimore nuk ka qenë në gjendje të verifikojë ekzistencën apo adresën e një entiteti i cili ka dorëzuar dokumentet e regjistrimit në Agjencinë për Regjistrimin e Bizneseve.
-3. Për zbatim të paragrafit 1 të këtij neni Ministri për Ekonomi dhe Financa nxjerr akt nënligjor për përcaktimin e kushteve dhe mënyrën e anulimit të dokumenteve tatimore dhe lëshimi i dokumenteve publike.

@@ -1,3 +1,0 @@
-# Article 87
-Sub-Legal Act
-The Minister of Economy and Finance shall have the authority to promulgate, in writing, implementing regulations (sub-legal acts) of general applicability as may be necessary and appropriate to further the proper, reasonable and uniform interpretation and application of this law. Such implementing regulations shall be administered and applied by the TAK. No such implementing regulation shall have or be given any legal effect until properly published in the Official Gazette of Kosovo and otherwise made publicly available by the TAK in accordance with the Law on Access to Official Documents.

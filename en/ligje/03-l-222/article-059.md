@@ -1,3 +1,0 @@
-# Article 59
-Administrative Penalty for goods without origin
-Where a person engaged in economic activity possesses goods without origin, that person shall be liable to an administrative penalty of twenty-five percent (25%) of the market value of the goods. Such goods may be seized and taken into protective custody by TAK for the settlement of the penalty liability. In such cases, the procedures for jeopardy assessment in Article 21 of this law shall be followed, and the procedures for seizure and sale of these goods shall be governed by the provisions of Articles 34, 35, and 36 of this law. The Director General may issue a jeopardy order as provided in Article 39 of this law.

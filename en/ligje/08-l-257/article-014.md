@@ -1,0 +1,11 @@
+# Article 14
+Self-assessment
+1. Where a person submits a tax declaration required under the legislation in force, the tax stated as due, if any, on the tax form shall be treated as the taxpayer’s self-assessment of tax payable and properly due.
+2. The taxpayer may submit an amendment to the tax declaration within three (3) years after the mandatory date when the declaration was submitted, if they later discover an error in the tax declaration they previously submitted.
+3. Where a taxpayer realizes before the period for an assessment has elapsed that a return submitted by him or her or for him or her is incorrect or incomplete and that this can lead or has already led to an understatement of tax or overstatement of tax refunds and credits, he or she shall be obliged to indicate this without undue delay and to effect the necessary corrections.
+4. The obligation defined in paragraph 3 of this Article is also valid on the future holder of the taxpayer or the taxpayer based on Article 12 of this Law. The notification obligation shall apply where the conditions for tax exemption, tax reduction or other tax privileges cease to exist, whether in full or in part.
+5. The amended tax declaration must be accompanied by any additional tax due or, if applicable, a request for credit against another liability (current or future), or a refund of the excess tax paid. The change in the statement must be documented through records.
+6. Pursuant to paragraph 2 of this Article, the amendment of the VAT tax declaration for any earlier tax period than the period assessed by the TAK, is only allowed with TAK approval.
+7. Except as provided in paragraphs 1 and 2 of Article 110 of this law, for the purposes of determining sanctions under this law, no amended tax declarations for a tax period will have any effect after the
+TAK has exercised any power under Article 8 and/or 9 of this law, in relation to that tax period, and has commenced a tax investigation with respect to that tax period.
+8. In cases where the employer is not required to withhold tax, pension contribution or any other contribution, the employee shall submit a declaration and pay the liability at the end of the year or in the monthly period when they receive the funds.

@@ -1,0 +1,7 @@
+# Article 19
+Cancellation of Tax Documents
+1. The Tax Administration of Kosovo can cancel any tax document issued by the TAK if any violation of tax legislation is determined.
+2. The Tax Administration of Kosovo shall publish a notice on its website or on the media, when a taxpayer certificate has been withdrawn so that other businesses can become aware of the withdrawal, as this would impact on their ability to engage in legal transactions with that business.
+3. Every time when the TAK, during the documentation verification, identifies any fictitious transaction/ invoice, regardless of whether the business that concluded the transaction/issued the invoice is published on TAK’s website or not, that transaction/invoice will not be accepted for the purposes of recognizing expenses in the Income Tax Declaration, it will not be accepted for the purposes of recognizing the deductible VAT, while against both businesses, the one that issued the invoice for the fictitious transaction and the one that received the invoice for the fictitious transaction, the TAK will undertake the measures defined by the Legislation in force.
+4. In cases where the TAK prohibits the exercise of the taxpayer’s economic activity due to violations of legal provisions, it shall notify the KBRA with the aim of canceling the business registration certificate.
+5. The Minister shall issue a by-law on determining the conditions and manner of canceling tax documents and issuing public documents.
