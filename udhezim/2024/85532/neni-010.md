@@ -1,0 +1,8 @@
+# Neni 10
+Kufizimet e përjashtuara 1. Përjashtimi i përcaktuar në nenin 3 nuk zbatohet për detyrimet e mëposhtme në marrëveshjet e kërkimit dhe zhvillimit:
+1.1. detyrimi për të mos kundërshtuar:
+1.1.1. pas përfundimit të kërkimit dhe zhvillimit, vlefshmërinë e të drejtave të pronësisë intelektuale të cilat:
+1.1.1.1. palët mbajnë në tregun e brendshëm; dhe 1.1.1.2. janë të rëndësishme për kërkimin dhe zhvillimin; ose 1.1.2. pas skadimit të marrëveshjes së kërkimit dhe zhvillimit, vlefshmërinë e të drejtave të pronësisë intelektuale të cilat:
+1.1.2.1. palët mbajnë në tregun e brendshëm; dhe 1.1.2.2. mbrojnë rezultatet e kërkimit dhe zhvillimit;
+1.2. detyrimin për të mos dhënë licenca palëve të treta për të prodhuar produktet e kontratës ose për të aplikuar teknologjitë e kontratës, përveç nëse marrëveshja parashikon shfrytëzimin e rezultateve të kërkimit dhe zhvillimit të përbashkët ose të paguar nga një ose më shumë palë dhe një shfrytëzim i tillë bëhet në tregun e brendshëm kundrejt palëve të treta.
+2. Paragrafi 1, pika a, është pa paragjykim ndaj mundësisë për të parashikuar përfundimin e marrëveshjes së kërkimit dhe zhvillimit në rast se njëra nga palët kundërshton vlefshmërinë e të drejtave të pronësisë intelektuale të përmendura në paragrafin 1, pika 1.1 i dhe 1.1.2 3. Nëse marrëveshja për kërkim dhe zhvillim përfshin ndonjë nga kufizimet e përjashtuara të përmendura në paragrafin 1 të këtij neni, përjashtimi i përcaktuar në nenin 3 do të vazhdojë të zbatohet për pjesën e mbetur të marrëveshjes së kërkimit dhe zhvillimit, me kusht që kufizimet e përjashtuara të mund të shkëputen nga ajo pjesë e mbetur dhe me kusht që të plotësohen kushtet e tjera të këtij Udhëzimi Administrativ.

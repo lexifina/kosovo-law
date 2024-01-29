@@ -1,0 +1,2 @@
+# Neni 1
+Qëllimi Qëllimi i këtij Udhëzimi Administrativ është të përcaktojë kategoritë e marrëveshjeve për kërkim dhe zhvillim që Autoriteti i Konkurrencës (në tekstin e mëtejmë: Autoriteti) i konsideron se plotësojnë normalisht kushtet e përcaktuara në nenin 5.2 të Ligjit nr. 08/L-056 për Mbrojtjen e Konkurrencës (në tekstin e mëtejmë ligji), të vlerësojë ndikimin e këtyre marrëveshjeve në tregun përkatës, dhe të përcaktojë rastet kur këto marrëveshje nuk janë objekt i përjashtimit.
