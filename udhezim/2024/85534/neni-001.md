@@ -1,0 +1,6 @@
+# Neni 1
+Qëllimi
+1. Ky Udhëzim Administrativ (në tekstin e mëtejmë - Udhëzimi), ka për qëllim përcaktimin e kritereve në të cilat mbështetet Autoriteti i Konkurrencës (në tekstin e mëtejmë - Autoriteti) kur përkufizon pozitën dominuese të ndërmarrjeve në treg dhe përcakton fuqinë e një ndërmarrje në tregun relevant në kontekstin e zbatimit të Ligjit për Mbrojtjen e Konkurrencës (në tekstin e mëtejmë - LMK).
+2. Kriteret e përcaktuara në këtë Udhëzim do të përdoren për zbatimin e rregullave për përcaktimin e pozitës dominuese (sipas nenit 8 i Ligjit) si dhe për qëllimet e vlerësimit të bashkimit (neni 12 i Ligjit) për vlerësimin nëse një pozitë dominuese është forcuar apo përndryshe po pengohet ndjeshëm konkurrenca efektive.
+3. Udhëzimi mund të përdoret nga ndërmarrjet e biznesit për qëllimet e vlerësimit të fuqisë së tyre në tregun relevant.
+4. Gjatë përcaktimit të pozitës dominuese, fuqisë në treg dhe pengesave të rëndësishme ndaj konkurrencës efektive, Autoriteti do të mbështetet në praktikën e tij gjyqësore, atë të gjykatave të Kosovës dhe do të marrë parasysh udhëzimet dhe praktikat gjyqësore të Komisionit Evropian dhe Gjykatave Evropiane. Hapi i parë për vlerësimin e mundësisë së ekzistencës së një pozite dominuese është përkufizimi i një tregu relevant dhe përkufizimi i pjesëmarrësve të tregut dhe kushteve tjera për tregun relevant të përkufizuar.
