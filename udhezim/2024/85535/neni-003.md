@@ -1,0 +1,6 @@
+# Neni 3
+Qasja e përgjithshme ndaj sjelljeve abuzive
+1. Qëllimi i veprimtarisë zbatuese të Autoritetit në lidhje me sjelljen shfrytëzuese është të sigurojë
+që ndërmarrjet dominuese të mos dëmtojnë konkurrencën efektive duke pasur ndikim negativ në mirëqenien e konsumatorit. Abuzimi shfrytëzues rezulton nga një sjellje e cila konsiderohet e padrejtë ose e paarsyeshme ndaj atyre klientëve që varen nga një ndërmarrje dominuese për furnizimin e mallrave dhe shërbimeve në tregun relevant (p.sh. në veçanti, një çmim mund të jetë i tepërt nëse shuma e margjinës së fitimit të ndërmarrjes dominuese është e tepërt në krahasim me kostot e prodhimit dhe kur në të njëjtën kohë çmimi është ose (a) i padrejtë në vetvete ose (b) kur krahasohet me produktet konkurruese).
+2. Qëllimi i veprimtarisë zbatuese të Autoritetit në lidhje me sjelljen përjashtuese është të ruajë
+procesin konkurrues në treg dhe të sigurojë që ndërmarrjet që mbajnë një pozitë dominuese të mos përjashtojnë konkurrentët e tyre me mjete të tjera, përveçse të konkurrojnë për meritat e produkteve ose shërbimeve që ata sigurojnë. Ajo që ka vërtet rëndësi është mbrojtja e një procesi konkurrues efektiv dhe jo thjesht mbrojtja e konkurrentëve. Kjo mund të nënkuptojë që konkurrentët që u japin më pak konsumatorëve për sa i përket çmimit, zgjedhjes, cilësisë dhe inovacionit do të largohen nga tregu.

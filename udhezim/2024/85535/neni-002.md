@@ -1,0 +1,13 @@
+# Neni 2
+Koncepti i keqpërdorimit të pozitës dominuese
+1. Nuk është në vetvete e paligjshme që një ndërmarrje të jetë në një pozitë dominuese.
+Gjithashtu nuk është e ndaluar që një ndërmarrje që mban pozitën dominuese të “konkurrojë” rivalët e saj, duke përdorur aftësi dhe efikasitet superior për të fituar klientë në dëm të ndërmarrjeve që janë më pak të afta ose më pak efikase. Kjo sjellje është pjesë e procesit konkurrues, i cili i shtyn ndërmarrjet të përmirësojnë performancën e tyre dhe të zhvillojnë dhe ofrojnë produkte që janë më tërheqëse për klientët, dhe nuk duhet të pengohen, si dhe një ndërmarrje e tillë dominuese ka të drejtë të konkurrojë sipas meritave të saj. Konkurrenca në bazë të meritës mund të çojë në largimin nga tregu ose në margjinali imin e konkurrentëve që janë më pak efikas, dhe po aq më pak tërheqës për konsumatorët nga pikëpamja, ndër të tjera, e çmimit, zgjedhjes, cilësisë ose inovacionit. Sidoqoftë, ndërmarrja në fjalë ka një përgjegjësi të veçantë për të mos lejuar që sjellja e saj të dëmtojë konkurrencën e vërtetë, të pa-shtrembëruar në treg.
+2. Ndërmarrja dominuese përfiton nga përdorimi i metodave të ndryshme nga ato të vëzhguara
+nën konkurrencën efektive. Kjo mund të ketë efekt në pengimin e ruajtjes së shkallës së konkurrencës ende ekzistuese në treg ose pengimin e rritjes së asaj shkalle të konkurrencës. Kështu abuzimi me një pozitë dominuese mund të përshkruhet si çdo sjellje e një ndërmarrje dominuese që nuk mund të konsiderohet si konkurrencë e bazuar në cilësi dhe çmim ose parametra të tjerë të konkurrencës (si inovacioni) dhe që ka si efekt kufizimit të konkurrencës. Një abuzim i tillë mund të marrë forma të ndryshme
+3. Ndërsa format e abuzimit nuk janë të kufizuara, sjellja abuzive në përgjithësi bie në njërën ose
+të dyja kategoritë e mëposhtme:
+3.1. sjellje e cila shfrytëzon klientët ose furnizuesit (për shembull, çmimet tepër të larta),
+ose 3.2. sjellje që rezulton në sjellje përjashtuese, sepse heq ose dobëson konkurrencën nga
+konkurrentët ekzistues, ose krijon ose forcon pengesat në hyrje, duke hequr ose dobësuar kështu konkurrencën e mundshme. Sjellja përjashtuese mund të përfshijë çmime tepër të ulëta dhe skema të caktuara zbritjeje, ku efekti i saj (i mundshëm) është të përjashtojë një treg, si dhe kufizime ose refuzime vertikale për të furnizuar aty ku këto (ka të ngjarë) të përjashtojnë tregje ose të dëmtojnë konkurrencën.
+4. Nëse një ndërmarrje dominuese lidh një marrëveshje me furnizuesin ose klientin e saj për të
+zbatuar një sjellje abuzive, kjo marrëveshje mund të trajtohet gjithashtu nga neni 5 i Ligjit për Mbrojtjen e Konkurrencës.

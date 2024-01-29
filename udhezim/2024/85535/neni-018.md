@@ -1,0 +1,8 @@
+# Neni 18
+Sakrifica
+1. Autoriteti do ta shikojë një sjellje që përfshin në vete sakrificë, duke vendosur një çmim më
+të ulët për të gjithë ose një pjesë të caktuar të prodhimit të tij gjatë periudhës kohore përkatëse, ose duke zgjeruar prodhimin e tij gjatë periudhës përkatëse kohore, ndërmarrja dominuese ka pësuar ose po pëson humbje që mund të ishin shmangur. Autoriteti do të marrë KMSH (kostoja mesatare e shmangshme) si pikënisjen e duhur për të vlerësuar nëse ndërmarrja dominuese ka pësuar ose po pëson humbje të shmangshme. Nëse një ndërmarrje dominuese ngarkon një çmim nën (KMSh) për të gjithë ose një pjesë të prodhimit të tij, nuk po mbulon kostot që mund të ishin shmangur duke mos prodhuar atë prodhim: po pëson një humbje që mund të ishte shmangur.2 Kështu që, çmimi nën (KMSh) do të shihet në shumicën e rasteve nga Autoriteti si një tregues i qartë i sakrificës.
+2. Megjithatë, koncepti i sakrificës nuk përfshin vetëm çmimet nën (KMSh). Për të treguar një
+strategji grabitqare, Autoriteti gjithashtu mund të hetojë nëse sjellja e dyshuar grabitqare çoi në një periudhë afatshkurtër në të ardhura neto më të ulëta nga sa mund të pritej nga një sjellje alternative e arsyeshme, domethënë nëse ndërmarrja dominuese pësoi një humbje që mund të ishin shmangur.
+3. Në disa raste do të jetë e mundur të mbështetet në dëshmi të drejtpërdrejta të përbëra nga
+dokumente të ndërmarrjeve dominuese të cilat tregojnë qartë një strategji grabitqare, siç është një plan i detajuar për të sakrifikuar për të përjashtuar një konkurrent, për të parandaluar hyrjen ose për të parandaluar shfaqjen e një tregu, ose dëshmi për kërcënime konkrete të veprimit grabitqar.

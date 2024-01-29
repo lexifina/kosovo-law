@@ -1,0 +1,8 @@
+# Neni 15
+Zbritjet me shumë produkte
+1. Zbritja me shumë produkte mund të jetë anti-konkurruese në tregun e lidhur ose atë lidhës
+nëse është aq e gjerë sa konkurrentët po aq efikasë që ofrojnë vetëm disa nga përbërësit nuk mund të konkurrojnë kundër bashkimit me zbritje.
+2. Në teori, do të ishte ideale nëse efekti i zbritjes mund të vlerësohej duke shqyrtuar nëse të
+ardhurat shtesë mbulojnë kostot shtesë për secilin produkt në bashkimin (e produkteve) e ndërmarrjes dominuese. Sidoqoftë, në praktikë vlerësimi i të ardhurave shtesë është kompleks. Prandaj, në praktikën e tij të zbatimit, Autoriteti në shumicën e situatave do të përdorë çmimin shtesë si një përfaqësues të mirë. Nëse çmimi shtesë që klientët paguajnë për secilin prej produkteve të bashkuara të ndërmarrjes dominuese mbetet mbi KMRrAGj të ndërmarrjes dominuese nga përfshirja e atij produkti në pakon bashkuese, Autoriteti normalisht nuk do të ndërhyjë pasi një konkurrent po aq efikas me vetëm një produkt duhet, në parim, të jetë në gjendje të konkurrojë me fitim kundër paketës me produkte të bashkuara. Sidoqoftë, mund të kërkohen veprime për zbatim nëse çmimi shtesë është nën KMRrAGj, sepse në një rast të tillë edhe një konkurrent po aq efikas mund të parandalohet nga zgjerimi ose hyrja.
+3. Nëse provat sugjerojnë që konkurrentët e ndërmarrjes dominuese po shesin bashkime
+identike, ose mund ta bëjnë këtë në kohën e duhur pa u penguar nga kosto të mundshme shtesë, Autoriteti në përgjithësi do ta konsiderojë këtë si një bashkim (produktesh) që konkurron kundër një bashkimi (produktesh), në këtë rast pyetja relevante nuk është nëse të ardhurat shtesë mbulojnë kostot shtesë për secilin produkt në pako, por përkundrazi nëse çmimi i bashkimit të produkteve si tërësi është grabitqar.

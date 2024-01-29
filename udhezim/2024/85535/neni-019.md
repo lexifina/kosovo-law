@@ -1,0 +1,16 @@
+# Neni 19
+Përjashtim anti-konkurrues
+1. Nëse ka të dhëna të mjaftueshme e të besueshme, Autoriteti i Konkurrencës do të zbatojë
+analizën e konkurrentit po aq efikas, të përshkruar në paragrafët 3,4,5 i nenit 5, për të përcaktuar nëse sjellja është e aftë të dëmtojë konsumatorët. Normalisht vetëm çmimi nën KMRrAGj është i aftë të përjashtojë konkurrentë po aq efikas nga tregu.
+2. Përveç faktorëve të përmendur tashmë në paragrafin 3 nenit 4, Autoriteti në përgjithësi do të
+hetojë nëse dhe si sjellja e dyshuar zvogëlon gjasat që konkurrentët të konkurrojnë. Për shembull, nëse ndërmarrja dominuese është më mirë e informuar për koston ose kushtet e tjera të tregut, ose mund të shtrembërojë sinjalet e tregut në lidhje me përfitimin, ajo mund të përfshihet në sjellje grabitqare në mënyrë që të ndikojë në pritshmëritë e hyrjeve të mundshme dhe në këtë mënyrë të pengojë hyrjet. Nëse sjellja dhe efektet e saj të mundshme ndihen në tregje të shumta dhe/ose në periudha të njëpasnjëshme në hyrje të mundshme,
+2 Në shumicën e rasteve kostoja mesatare e ndryshueshme AVC (KMN) dhe AAC (KMSh) do të jenë të njëjta, pasi shpesh vetëm kostot variabël mund të shmangen. Sidoqoftë, në rrethanat kur AVC dhe AAC ndryshojnë, kjo e fundit pasqyron më mirë sakrificën e mundshme: për shembull, nëse ndërmarrja dominuese duhej të zgjeronte kapacitetin në mënyrë që të ishte në gjendje të paraprinte, atëherë kostot e fundosura të atij kapaciteti shtesë duhet të merren parasysh në duke parë humbjet e ndërmarrjes dominuese. Ato kosto do të pasqyroheshin në AAC, por jo në AVC.
+mund të tregohet se ndërmarrja dominuese po synon një reputacion për sjellje grabitqare. Nëse konkurrenti i synuar varet nga financimi i jashtëm, ulje të konsiderueshme të çmimeve ose sjellje të tjera grabitqare nga ndërmarrja dominuese mund të ndikojnë negativisht në performancën e konkurrentit, në mënyrë që qasja i tij në financime të mëtejshme të minohet seriozisht.
+3. Autoriteti nuk konsideron se është e nevojshme të tregohet se konkurrentët kanë dalë nga
+tregu në mënyrë që të demonstrojë se ka pasur një përjashtim anti-konkurrues.
+4. Kjo nuk do të thotë që Autoriteti do të ndërhyjë vetëm nëse ndërmarrja dominuese ka të
+ngjarë të jetë në gjendje të rrisë çmimet e saj mbi nivelin që ekziston në treg para sesa sjellja të ndodhë. Është e mjaftueshme, për shembull, që sjellja ka të ngjarë të parandalojë ose vonojë një rënie të çmimeve që përndryshe do të kishte ndodhur. Identifikimi i dëmit të konsumatorit nuk është një llogaritje mekanike e fitimeve dhe humbjeve, dhe nuk kërkohet dëshmi të fitimeve të përgjithshme. Dëmi i mundshëm i konsumatorit mund të demonstrohet duke vlerësuar efektin e mundshëm përjashtues të sjelljes, të kombinuar me marrjen parasysh të faktorëve të tjerë, siç janë pengesat në hyrje. Në këtë kontekst, Autoriteti gjithashtu do të marrë parasysh mundësitë për ri-hyrje.
+5. Mund të jetë më e lehtë për ndërmarrjen dominuese të përfshihet në sjellje grabitqare nëse
+synon në mënyrë selektive klientë të veçantë me çmime të ulëta, pasi kjo do të kufizojë humbjet e pësuara nga ndërmarrja dominuese.
+6. Ka më pak gjasa që ndërmarrja dominuese të angazhohet në sjellje grabitqare nëse sjellja ka
+të bëjë me një çmim të ulët të zbatuar përgjithësisht për një periudhë të gjatë kohore
