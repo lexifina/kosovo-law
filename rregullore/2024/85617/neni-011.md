@@ -1,0 +1,3 @@
+# Neni 11
+Efekti kumulativ i rrjeteve paralele të marrëveshjeve me rëndësi të vogël 1. Autoriteti, sipas detyrës zyrtare, mund të fillojë procedurën për vlerësimin e një marrëveshjeje të caktuar me rëndësi të vogël e cila plotëson kërkesat e kësaj rregulloreje, nëse ka baze të arsyeshme për të dyshuar se efektet kumulative të asaj marrëveshjeje së bashku me marrëveshjet e tjera me rëndësi të vogël në të njëjtën treg përkatës, mund të shtrembërojë ndjeshëm konkurrencën në treg.
+2. Autoriteti mund të iniciojë procedurën, sipas paragrafit 1 të këtij neni, nëse konstaton se rrjete paralele të marrëveshjeve me rëndësi të vogël të cilat mund të kenë efekte kumulative në çrregullimin e konkurrencës, mbulojnë më shumë se tridhjetë për qind (30%) të tregut përkatës.

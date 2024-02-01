@@ -1,0 +1,2 @@
+# Neni 7
+Kufizime të rënda të konkurrencës Marrëveshjet të cilat kanë si objekt parandalimin, kufizimin ose shtrembërimin e konkurrencës, duke përfshirë marrëveshjet e parashikuara në nenet 8 dhe 9 të kësaj Rregulloreje, përbëjnë nga natyra e tyre kufizime të rëndësishme të konkurrencës, prandaj nuk mund të konsiderohen si marrëveshje me rëndësi të vogël sipas neneve 3, 4 dhe 5, të kësaj Rregulloreje.
