@@ -1,0 +1,5 @@
+# Neni 6
+Shpallja e konkursit publik për personat me aftësi të kufizuar
+1. Me qëllim të përmbushjes së kriterit ligjor të punësimit të personave me aftësi të kufizuar, ku çdo punëdhënës është i obliguar të punësojë një (1) person me aftësi të kufizuara në çdo pesëdhjetë (50) punëtor, institucioni publik me aktin e brendshëm bën identifikimin e pozitave për këtë kategori dhe shpall konkurs për plotësimin e këtyre vendeve të punës.
+2. Konkursi për punësimin e personave me aftësi të kufizuar është i llojit të mbyllur, ku mund të aplikojnë vetëm personat me aftësi të kufizuar, dhe zhvillohet sipas dispozitave të këtij Udhëzimi Administrativ, duke siguruar kushte të nevojshme procedurale për këtë kategori.
+3. Dispozitat e këtij neni nuk janë kufizuese për pjesëmarrjen e personave me aftësi të kufizuar në konkurse publike sipas dispozitave të këtij Udhëzimi Administrativ, apo ndaj dispozitave të tjera të veçanta për kandidatët me pikë të barabarta, përkatësisht të përparësisë së përzgjedhjes së kandidatëve nga kategoria e personave me aftësi të kufizuar në raport me kandidatët e tjerë, në konkurset publike.
