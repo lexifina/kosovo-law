@@ -1,0 +1,131 @@
+REPUBLIKA E KOSOvEs - REPUI3LIKA KOSOVO - REPUBLIC OF KOSOVO
+GJYKATA KUSHTETUESE
+USTAVNISUD CONSTITUTIONAL COURT
+Prishtine, me 11 mars 2024
+Nr. Ref.:RK 2398/24
+AKTVENDIM PER]p' APRANUE§HMERI
+ne
+rastin nr. IU33/23
+Parashtrues
+Flurentin Berisha
+Vleresim i kushtetutshmerise se Aktgjyldmit te Gjylmtes Themelore ne Gjakove,
+[Po nr. 36/22] dhe [Po nr.76/22], te 7 tetorit 2022
+GJYKATA KUSHTETUESE E REPUBLlKES sit KOSOvES
+e pe1'be1'e nga:
+G1'esa Caka-Nimani, kryetare Bajram Ljatifi, zevendeskryetar Selvete Gerxhaliu-Krasniqi, gjyqtare Safet Hoxha, gjyqtar Radomir Laban, gjyqtar Remzije Istrefi-Peci, gjyqtare Nexhmi Rexhepi, gjyqta1' dhe Enver Peci, gjyqtar
+Parashtruesi i l{erkeses
+Kerkesa eshte dorezuar nga Flurentin Be1'isha, me vendbanim ne Gjakove (ne tekstin e 1. metejme: parashtruesi i kerkeses), i perfaqesuar nga Ko1'ab Bokshi, avokat ne Gjakove.
+Vendimi i kontestuar
+2. Parashtruesi i kerkeses konteston kushtetutshmerine e Aktgjykimit [P. nr. 36/22 dhe P. nr. 76/22J te Gjykates Themelore ne Gjakove, te 7 tetorit 2022 (ne tekstin e metejme: Gjykata Themelore).
+Objekti i «;eshtjes
+3. Objekt i <;eshtjes eshte vleresimi i kushtetutshmerise se aktgjykimit te kontestuar, me te cilin pretendohet se parashtruesit te kerkeses i jane shkelur te drejtat e garantuara me nenin 30 [Te Drejtat e te AkuzuaritJ dhe nenin 31 [E Drejta per Gjykim te Drejte dhe te PaanshemJ te Kushtetutes se Republikes se Kosoves (ne tekstin e metejme: Kushtetuta), ne lidhje me nenin 6 (E drejta per nje proces te rregullt) te Konventes Evropiane per te Drejtat e Njeriut (ne tekstin e metejme: KEDNj).
+Baza juridike
+4. Kerkesa bazohet ne nenin 113.1 dhe 7 [Juridiksioni dhe PaWt e AutorizuaraJ te Kushtetutes se Republikes se Kosoves (ne tekstin e metejme: Kushtetuta), ne nenet 22 [Procedimi i kerkesesJ dhe 47 [Kerkesa IndividualeJ te Ligjit nr. 03/L-121 per Gjykaten Kushtetuese te Republikes se Kosoves (ne tekstin e metejme: Ligji) dhe ne rregullin 25 [Parashtrimi i kerkesave dhe pergjigjeveJ te Rregullores se punes te Gjykates Kushtetuese te Republikes se Kosoves (ne tekstin e metejme: Rregullorja e punes).
+5. Me 7 korrik 2023, Rregullorja e punes se Gjykates Kushtetuese te Republikes se Kosoves Nr. 01/2023, u publikua ne Gazeten Zyrtare te Republikes se Kosoves dhe hyri ne fuqi 15 dite pas publikimit te saj. Rrjedhimisht, gjate shqyrtimit te kerkeses, Gjykata Kushtetuese i referohet dispozitave te Rregullores se lartcekur. Lidhur me kete, konform rregullit 78 (Dispozitat kalimtare) te Rregullores se punes Nr. 01/2023, perjashtimisht, dispozita te caktuara te Rregullores se punes Nr. 01/2018, do te vazhdojne te zbatohen ne lendet e regjistruara ne Gjykate perpara shfuqizimit te saj, vetem nese dhe per aq sa jane me te favorshme per palet.
+Procedura ne Gjykaten Kushtetuese
+6. Me 6 shkurt 2023, perfaqesuesi i parashtruesit te kerkeses dorezoi kerkesen permes postes, te cilen Gjykata Kushtetuese e Republikes se Kosoves (ne tekstin e metejme: Gjykata) e pranoi me 8 shkurt 2023.
+7. Me 16 shkurt 2023, Kryetarja e Gjykates, permes Vendimit [Nr. GJR. KI33/23J caktoi gjyqtaren Selvete Gerxhaliu-Krasniqi gjyqtare raportuese dhe Kolegjin shqyrtues, te perbere nga gjyqtaret: Gresa Caka-Nimani (kryesuese), Bajram Ljatifi dhe Safet Hoxha (anetare).
+8. Me 24 janar 2023, Gjykata e njoftoi parashtruesin e kerkeses per regjistrimin e kerkeses dhe kerkoi qe te dorezoje autorizimin per perfaqesim. Ne te njejten dite, Gjykata i dergoi nje kopje te kerkeses Gjykates Themelore duke e njoftuar per regjistrimin e saj.
+9. Me 6 mars 2023, Gjykata pranoi autorizimin e perfaqesuesit te parashtruesit te kerkeses.
+Me 25 shtator 2023, Gjykata kerkoi nga Gjykata Themelore informata shtese ne lidhje 10. me ate "se a lea pasur parasht1'uesi i leerleeses peljaqesues ligjor ne procedurat para Gjyleates Themelore ne Gjaleove".
+11. Me 5 tetor 2023, Gjykata Themelore dorezoi ne Gjykaten Kushtetuese procesverbalin e shqyrtimit fillestar te mbajtur me 5 tetor 2022 lidhur me <;eshtjen penale [P. nr. 36/22] te parashtruesit te kerkeses.
+12. Me 23 janar 2024, Kolegji shqyrtues shqyrtoi raportin e gjyqtares raportuese dhe njezeri i rekomandoi Gjykates papranueshmerine e kerkeses.
+Permbledhja e falcteve
+13. Parashtruesi i kerkeses paraqet kerkese per here te dyte ne Gjykate duke kontestuar vendime te ndryshme.
+14. Nga shkresat e lendes rezulton se parashtruesi i kerkeses ishte i perfshire ne nje vjedhje te pasurise se luajtshme.
+15. Me 28 janar 2022, Prokuroria Themelore - Departamenti i Pergjithshem ne Gjakove ngriti aktakuzen [Nr. PP/ll. nr. 1758/21] dhe [PP/ll. nr. 1770/22] te 23 shkurtit 2022 ndaj parashtruesit te kerkeses dhe personit Z. T., per vepren penale te vjedhjes se rende ne bashkepunim nga neni 315, paragrafi 1 nenparagrafi 1.1lidhur me nenin 31 te Kodit Penal.
+16. Me 7 tetor 2022, Gjykata Themelore nxori Al<tgjykimin [P. nr. 36/22 dhe P. nr. 76/22] me te cilin shpalli parashtruesin e kerkeses dhe te akuzuarin tjeter Z. T., fajtor per kryel:ien e vepres pen ale te "vjedhjes se rende ne bashleeleryerje nga neni 315, paragraji 1 nenparagraji 1.1 lidhur me nenin 31 te Kodit Penal" dhe i shqiptoi denim
+me burgim prej 22 (njezet e dy) muaj, si dhe gjobe ne shume prej 400 (katerqind) euro, te cilat denime do te ekzekutohen brenda 15 diteve, pas plotfuqishmerise se aktgjykimit. Ndersa, te demtuarit jane udhezuar ne kontest civil per realizimin e kerkeses se tyre pasurore.
+Pretendimet e parashtruesit te kerkeses
+17. Parashtruesi i kerkeses pretendon se aktgjykimi i kontestuar i Gjykates Themelore eshte nxjerre ne shkelje te te drejtave dhe lirive themelore te parapara me nenin 30 [Te Drejtat e te Almzuarit] dhe nenin 31 [E Drejta per Gjykim te Drejte dhe te Paanshem] te Kushtetutes, ne lidhje me nenin 6 (E drejta per nje proces te rregullt) te Konventes Evropiane per te Drejtat e Njeriut (ne tekstin e metejme: KEDNj).
+18. Parashtruesi i kerkeses pretendon se "gjyleata lea shleelur te drejten ne sigu1'imin e mbrojtjes ejilease, dulee mos i siguruar mbrojtes me shpenzime publilee, dulee mos i ftuar fare mbrojtesin te cilin e lea pasur ne proleurori gjate dhenies se mbrojtjes. ".
+19. Lidhur me pretendimin per shkeljen e nenit 30 te Kushtetutes, parashtruesi i kerkeses pretendon se "lea qene i privuar nga liria, gjyleata lea shleelur te drejten ne sigurimin e mbrojtjes ejilcase, dulee mos i siguruar mbrojtes me shpenzime publilee, dulee mos i fiuar fare mbrojtesin te cilin e lea pasur ne proleurori gjate dhenies se mbrojtjes. Andaj, jane shleelur ne menyre flagrante te drejtat e te aleuzuarit, garantuar me nenin 30".
+Tutje, perfaqesuesi i parashtruesit te kerkeses pretendon se Gjykata Themelore eshte 20. dashur te vleresoje shkallen e arsimimit te parashtruesit te kerkeses dhe te bindet se i njejti ka kuptuar te drejtat e tij per mbrojtje.
+Lidhur me pretendimin per shkelje te nenit 31 te Kushtetutes, parashtruesi i kerkeses 21. thekson se "cenimi i te drejtes nga neni 30 i Kushtetutes se Republilces se Kosoves cenon edhe nenin31 te Kushtetutes se Republilces se Kosoves, pilca 6".
+Lidhur me mosshterimin e mjeteve juridike, parashtruesi i kerkeses thekson se "Dulce 22. qene se te alcuzuarit i eshte dorezuar alctgjylcimi ne Qendren Korrelctuese te Dubraves, i njejti eshte person i paarsimuar dhe lca pasur te pamundur te ofrohen mjete juridilce efelctive, andaj ne lcete rast eshte urdheruar qe lcerlcesa lcushtetuese te dorezohet drejtperdrejt ne lcete gjyleate".
+Perfundimisht, parashtruesi i kerkeses kerkon nga Gjykata qe te gjeje shkelje te 23. neneve 30 dhe 31 te Kushtetutes ne Aktgjykimin [Po nr. 36/22 dhe P. nr. 76/22] e Gjykates Themelore, ne lidhje me nenin 6 (E drejta per nje proces te rregullt) te KEDNj-se.
+Dispozitat relevante lmshtetuese dhe ligjore
+KUSHTETUfA E REPUBLIKES SE KOSOvES
+Neni30
+[Te Drejtat e te Akuzuarit]
+"9doleush qe alalzohet per veper penale, gezon te drejtat minimale ne vijim:
+(1) te njoftohet menjehere ne gjuhen qe lcupton, per natyren dhe shlcalcun e alcuzes leunder saj/tij;
+(2) te njoftohet per te drejtat e tij/saj sipas ligjit;
+(3) te lcete lcohe, mundesi dhe mjete te mjaftueshme per te pergatitur mbrojtjen e vet;
+(4) te leete ndihmen pa pagese te nje perlcthyesi, leur nule fiet ose nulc lcupton gjuhen ne te cilen zhvillohet gjyleimi;
+(5) te lcete ndihmen e nje mbrojtesi qe e zgjedh, te leomunileoje lirisht me te dhe, nese nulc lea mjete te mjaftueshme, t'i sigurohet mbrojtjafalas;
+(6) te mos shtrengohet per te deshmuar leunder vetvetes ose per te pranuar fajesine e vet".
+Neni31
+[E Drejta per Gjykim te Drejte dhe te Paanshem]
+"9doleujt i garantohet mbrojtje e barabarte e te drejtave ne procedure para 1. gjyleatave, organeve te tjera shteterore dhe bartesve te lcompetencave publilce.
+9doleush gezon te drejten per shqyrtim publile te drejte dhe te paanshem 2. lidhur me vendimet per te drejtat dhe obligimet ose per cilendo aleuze penale qe ngrihet leunder saJjtij brenda nje afati te arsyeshem, nga nje gjylcate e pavarur dhe e paanshme, e themeluar me lig}".
+[ ... J
+Ndihma juridilce falas do t'u mundesohet atyre qe nulc lcane' mJete te 6. n1jaftueshme jinanciare, nese nje ndihme e tille eshte e domosdoshme per te siguruar qasjen efelctive ne drejtesi".
+[ ... J
+KONVENTA EVROPIANE PER TE DREJTAT E NJERIUT
+Neni 6.1 (E drejta per nje proces te rregullt gjyqesor)
+''Ne percalctimin e te drejtave dhe detyrimeve te tij civile ... , C;do person lca te 1. drejte qe c;eshtja e tij te degjohet drejtesisht, publildsht dhe brenda nje afati te arsyeshem nga 71je gjylcate e pavarur dhe e paanshme".
+[ ... J
+(:do i alcuzuar per nJe veper penale lca te drejtat minimale te meposhtme: 2.
+[ ... J
+c) te mbrohet vete ose te ndihmohet nga nje mbrojtes i zgjedhur prej tij, ose ne qofte se ai nulc lca mjete te mjaftueshme per te shperblyer mbrojtesin, t'i mundesohet ndihma ligjore falas lcur lcete e lcerlcojne interesat e drejtesise;"
+[ ... J
+KODI NR. o6/L-074 KODI PENAL I REPUBLI:KES SE KOSOvES
+Neni 315
+Vjedhja e rende
+"1. Kushdo qe lcryen vjedhje nga paragraji 1. i nenit 313 te lcetij Kodi, denohet me gjobe dhe me burgim prej tre (3) deri ne shtate (7) vjet, nese:
+1.1. vepra eshte !cryer dulce thyer, lcaluar apo depertuar meforce ne veturat e mbyllura, ndertesat, dhomat, arlcat, sanduqet apo hapesirat tjera te mbyllura ose dulce hequr pengesat tjera me qellim te pervetesimit te pasurise se luajtshme; ". [ ... J
+Pranueshmeria e kerkeses
+24. Gjykata se pari shqyrton nese kerkesa i ka permbushur kriteret e pranueshmerise, te percaktuara me Kushtetute, te parashikuara me Ligj dhe te specifikuara me tej me Rregullore te punes.
+Ne kete drejtim, Gjykata i referohet paragrafeve 1 dhe 7 te nenit 113 [Juridiksioni dhe 25. Palet e AutorizuaraJ te Kushtetutes, qe percaktojne:
+"1. Gjylcata Kushtetuese vendos vetem per rastet e ngritura para gjylcates ne menyre ligjore nga pala e autorizuar.
+[ .. .]
+7. Individet jane te autorizuar te ngrene shleeljet nga autoritetet publilee te te drejtave dhe lirive te tyre individuale, te garantuara me Kushtetute, mirepo vetem pasi te leene shteruar te gjitha mjetet juridilee te percaletuara me ligr.
+[ .. .]
+26. Pervec; kesaj, Gjykata po ashtu u referohet neneve 47 [Kerkesa individualeJ, 48 [Saktesimi i kerkesesJ dhe 49 [AfatetJ te Ligjit, qe parashohin:
+Neni47
+[Kerleesa individuale]
+"1.9do individ lea te drejte te leerleoje nga Gjyleata Kushtetuese mbrojtjejuridilee ne rast se pretendon se te drejtat dhe lirite e tija individuale te garantuara me Kushtetute jane shleelur nga ndonje autoritet publilc.
+2.Individi mund ta ngrite leerleesen nejjale vetem pasi qe te leete shteruar te gjitha mjetetjuridilee te parapara me ligr.
+Neni48
+[Saletesimi i leerleeses]
+"Parashtruesi i leerleeses lea per detyre qe ne leer lees en e tij te qartesoj saletesisht se cilat te drejta dhe liri pretendon se ijane cenuar dhe cili eshte aleti leonlcret i autoritetit publile te cilin parashtruesi deshiron ta lcontestor.
+Neni49
+[Afatet]
+'7(erleesa parashtrohet brenda afatit prej leater (4) muajsh. Afatijillon te ece nga dita leur parashtruesit i eshte dorezuar vendimi gjyqesor ... ".
+27. Gjykata konstaton se parashtruesi i kerkeses eshte pale e autorizuar, i cili e konteston nje akt te autoritetit publik, perkatesisht Aktgjykimin [P. nr. 36/22 dhe P. nr. 76/22J te 7 tetorit 2022 te Gjykates Themelore. Perfaqesuesi i parashtruesit te kerkeses gjithashtu ka sqaruar te drejtat dhe lirite themelore qe pretendon se i jane shkelur, ne pajtim me kerkesat e nenit 48 te Ligjit dhe e ka dorezuar kerkesen ne pajtim me afatet e percaktuara ne nenin 49 te Ligjit.
+28. Ne vazhdim, Gjykata i referohet rregullit 34 (1) (b) te Rregullores se punes, i cili specifikon se:
+"(1) Gjyleata mund ta leonsideroje nje leerleese te pranueshme nese:
+[ ... ]
+(b) jane shteruar te gjitha mjetet efeletive te percaletuara me ligj lamder aletit te leonteshLar".
+29. Gjykata fillimisht rikujton se rregulli per shterimin e mjeteve juridike sipas nenit 113.7 te Kushtetutes, nenit 47 te Ligjit dhe rregullit 34 (1) (b) te Rregullores se punes i obligon ata qe deshirojne te paraqesin rastin e tyre ne Gjykaten Kushtetuese qe se pari duhet te shfrytezojne mjetet juridike efektive ne dispozicion ne pajtim me ligjin, kunder nje aktgjykimi ose vendimi te kontestuar.
+30. Ne kete menyre, gjykatave te rregullta u jepet mundesia qe te korrigjojne gabimet e tyre gjate procedures se rregullt gjyqesore para se <;-eshtja te vije ne Gjykaten Kushtetuese. Ky rregull bazohet ne supozimin e shprehur ne nenin 32 te Kushtetutes dhe nenin 13 te KEDNj-se, qe ne legjislacionin vendes ka mjete juridike ne dispozicion per t'u shfrytezuar prane gjykatave te rregullta ne lidhje me shkeljet e pretenduara pavaresisht nese dispozitat e KEDNj-se jane inkorporurar ne ligjin kombetar apo jo (shih rastin e GJEDNj-se, inter alia, Aksoy kunder Turqise, nr. 21987/93, Aktgjykim i 18 dhjetorit 1996, paragrafi 51; shih, po ashtu nder te tjera, rastet e Gjykates: KI67/19, parashtrues Hairije Rina Zhitija Ajeti, Aktvendim per papranueshmeri, i 30 shtatorit 2019, paragrafi 34; KI09/19, parashtrues Leutrim Hajdari" Aktvendim per papranueshmeri, i 16 marsit 2020, paragrafi 36; KI30/17, parashtrues Muharrem Nuredini, Aktvendim per papranueshmeri, i 7 gushtit 2017, paragrafi 35; dhe KI94/14, parashtrues Sadat Ademi, Aktvendim per papranueshmeri, i 17 dhjetorit 2014, paragrafi 24; KI178/21, parashtrues Agim Stublla, Aktvendim per papranueshmeri, i
+11 shkurtit 2022, paragrafi 26).
+31. Gjykata Kushtetuese lea krijuar nje mekanizem mbrojtes i cili eshte subsidiar ne raport me sistemin e rregullt gjyqesor qe mbron te drejtat e njeriut (shih rastet e Gjykates nr. KI15/16, parashtrues Ramadan Muja, Aktvendim per papranueshmeri, i 16 marsit 2016, paragrafi 42; dhe KI178/21, cituar me lart, paragrafi 27).
+32. Rrjedhimisht, Gjykata perserit se shterimi i mjeteve juridike permban dy elemente: (i) shterimin ne kuptimin formal-procedural, qe nenkupton mundesine e perdorimit te mjetit juridik kunder aktit te nje autoriteti publik ne nje shkalle me te larte me juridiksion te plote; dhe (ii) shterimi i mjeteve ne kuptimin thelbesor, qe nenkupton raportimin e shkeljeve leushtetuese ne "thelb" para gjykatave te rregullta, ne menyre qe ato te kene mundesine te parandalojne ose korrigjojne shkeljen e te drejtave te njeriut te mbrojtura me Kushtetute dhe KEDNj. Gjykata i konsideron mjetet juridike te shterura vetem kur parashtruesit, ne pajtim me ligjet ne fuqi, i kane perdorur ato ne te dy kuptimet (shih edhe rastin e Gjykates Kushtetuese KI71/18, parashtruesit Kamer Borovci. Mustafi Borovci dhe Avdulla Bajra, Aktvendim per papranueshmeri, i 21 nentorit 2018, paragrafi 57).
+33. Gjykata duhet te shqyrtoje nese jane shteruar mjetet juridike dhe nese mjeti juridik ishte efektiv, ne dispozicion ne teori dhe praktilee ne kohen perkatese, perkatesisht nese lea qene i qasshem, qe lea mundur t'i leorrigjoje shleeljet ne lidhje me kundershtimet e parashtruesit te kerkeses, dhe gjithashtu lea ofruar nje perspeletive te arsyeshme per sukses (shih rastin e GJEDNj-se, inter alia, Civet kunder Frances. nr. 29340/95, Aktgjykim i 28 shtatorit 1999, paragrafet 42-44; dhe rastin e Gjykates, KI178/21, cituar me lart, paragrafi 29).
+Megjithate, kur nje mjetjuridile parashikohet me ligj, i takon parashtruesit te kerleeses 34. te deshmoje se mjeti juridile i parapare me ligj eshte shteruar me te vertete ose per ndonje arsye nuk lea qene ne dispozicion dhe lea qene joefeletiv ne rrethanat e posa<;-me te rastit, ose kur ka pasur rrethana te ve<;-anta per shkak te cilave ai ose ajo kane qene te liruar nga kushti i shterimit te mjeteve juridike.
+35. Duke iu rikthyer rastit konleret, Gjykata leonstatoi se parashtruesi i kerleeses dhe i aleuzuari tjeter Z. T., pas pranimit te fajesise, me Aktgjyleimin [Po nr. 36/22 dhe P. nr. 76/22J te Gjykates Themelore, eshte shpallur fajtor per leryerjen e vepres penale te "vjedhjes se rende ne bashlcelcryerje nga neni 315, paragraji 1 nenparagraji 1.1 lidhur me nenin 31 te Kodit Penal." dhe i shqiptoi denim me burgim prej 22 (njezet e dy)
+l muaj, si dhe gjobe ne shume prej 400 (katerqind) euro, te cilat denime do te ekzekutohen brenda 15 diteve pas plotfuqishmerise se aktgjykimit. Ndersa, te demtuarit jane udhezuar ne kontest civil per realizimin e kerkeses se tyre pasurore. Aktgjykimi [Po nr. 36/22 dhe P. nr. 76/22J i Gjykates Themelore mori forme te prere per shkak se parashtruesi i kerkeses nuk ka parashtruar ankese ne gjykaten me te lark Sipas pretendimeve te parashtruesit te kerkeses, ka qene pjesa e procedures qe eshte zhvilluar para Gjykates Themelore qe ka sjelle shkeljen e te drejtave te tij te garantuara me nenet 30 dhe 31 te Kushtetutes.
+36. Ne mbeshtetje te ketyre pretendimeve, parashtruesi i kerkeses paraqet dy baza mbi te cilat ai nderton pretendimet e tij per shkeUen e te drejtave te tij kushtetuese te lartpermendura. Arsyeja e pare per shkeljen e pretenduar eshte fakti se ai nuk ka pasur mbrojtes ne proceduren prane Gjykates Themelore, qe i pergjigjet "te drejtes se tij per mbrojtje", ndersa arsyeja e dyte eshte e natyres procedurale dhe ka te beje me leshimin e afatit per paraqitjen e ankeses kunder aktgjykimit te Gjykates Themelore, me pretendimin se ka humbur afatin e pretenduar per paraqitjen e ankeses ne gjykaten me te larte me arsyetimin/pretendimin qendror, se "Dulce qene se te alcuzuarit i eshte dorezuar alctgjylcimi ne Qendren Korrelctuese te Dubraves, i njejti eshte person i paarsimuar dhe lca pasur te pamundur te ofrohen mjete juridilce efelctive, andaj ne lcete rast eshte urdheruar qe lcerlcesa lcushtetuese te dorezohet drejtperdrejt ne lcete gjylcate".
+37. Gjykata thekson se <;eshtja e ngritur ne gjykate lidhur me "te drejten e mbrojtjes" ka nje rendesi te madhe si koncept i garancise se nje gjykimi te drejte te parashikuar ne nenet 30 dhe 31 te Kushtetutes, si dhe ne nenin 6 te KEDNj-se, dhe rrjedhimisht, kerkoi nga Gjykata Themelore komente shtese dhe shkresa te lendes per te percaktuar bazueshmerine e atyre pretendimeve te parashtruesit te kerkeses.
+38. Bazuar ne sa me siper, duke shqyrtuar te dyja pretendimet e parashtruesit te kerkeses, Gjykata vlereson se pretendimi i pare i parashtruesit te kerkeses eshte me teper e nje natyre thelbesore, ndersa pretendimi i dyte perjashton karakterin procedural me te cilin ai perpiqet te arsyetoje leshimin e tij procedural. Megjithate, ne menyre qe Gjykata ta marre ne shqyrtim pretendimin e pare ne kuptimin thelbesor, fillimisht duhet te shqyrtoje bazueshmerine e pretendimit te dyte te parashtruesit te kerkeses dhe te percaktoje nese jane plotesuar te gjitha kushtet procedurale te kerkeses se parashtruar ne kete gjykate. Me konkretisht, per te percaktuar nese pretendimet e tij per mosperdorimin e mjeteve juridike te percaktuara me ligj jane te bazuara.
+39. Gjykata rikujton se sipas rregullit 34 (1) (b) te Rregullores se punes, parashtruesi i kerkeses eshte i detyruar te shteroje te gjitha mjetet juridike te parapara me ligj, si kusht qe Gjykata te shqyrtoje meritat e kerkeses se tij qe do te perfshinte edhe pergjigjen ndaj pretendimit te parashtruesit te kerkeses per shkeljen e neneve 30 dhe 31 te Kushtetutes ne lidhje me nenin 6 te KEDNj-se, perkitazi me pretendimin e tij per shkeljen e "te drejtes per mbrojtje".
+40. Prandaj, duke shqyrtuar pretendimin e dyte te parashtruesit te kerkeses me te cilin ai perpiqet te justifikoje humbjen e afatit, Gjykata konstaton se gjate seances pergatitore parashtruesi i kerkeses para Gjykates Themelore ka pranuar vepren penale. Megjithate, ajo qe Gjykata veren si fakt te rendesishem qe percakton rezultatin e kesaj procedure prane kesaj gjykate ne kuptimin procedural eshte se gjyqtari i Gjykates Themelore e ka njoftuar parashtruesin e kerkeses per te drejtat e tij ne proceduren penale, perfshire te drejten per mbrojtje, para procedures se pranimit te fajit. Per me teper, Gjykata, bazuar ne procesverbalin e seances se Gjykates Themelore, konstaton se ai vullnetarisht, a) deklaroi se i kupton plotesisht te drejtat e tij; b) se heq dore vullnetarisht nga e drejta e mbrojtjes, me deklaraten "se do te mbrohem vet personalisht"; dhe c) se ka pranuar vullnetarisht fajin per vepren penale te kryer. Ketu
+Gjykata do te ndalet ne analizen e metutjeshme te procedures prane Gjykates Themelore per arsye se pikerisht kjo pjese e procedures qe ai deldaroi se eshte e nje rendesie te madhe dhe e mjaftueshme per analiza te metejshme si dhe per marrjen e pergjigjes ne lidhje me pretendimin e dyte.
+41. Nga sa me siper, Gjykata vleresoi se parashtruesi i kerkeses ishte mjaftueshem i vetedijshem per te drejtat e tij te cilat iu paraqiten atij nga gjyqtari i Gjykates Themelore, si dhe pasojat qe rezultuan nga nje veprim i tille, dhe per kete arsye konsideron se nuk ka baze per te cilin ajo do te konldudonte se parashtruesi i kerkeses eshte "person i paarsimuar, dhe per leete arsye lea pasur te pamundur parashtrimin e mjeteve efilease juridilee", si<; pretendon ai ne kerkese. Gjykata deldaron se ajo nuk thirret te vendose dhe te shprehe mendimin e saj ne lidhje me arsimimin apo mosarsimimin e nje personi, pOl' per fakte konla:ete. Ne mbeshtetje te kesaj, Gjykata deshiron gjithashtu te shtoje se edhe nese parashtruesi i kerkeses e konsideronte veten te pashkolluar, asgje nuk e pengonte ate te kerkonte ndihme juridike pikerisht per kete, e cila do te ishte ne dispozicion te tij gjate procedures gjyqesore, si dhe ne proceduren e shfrytezimit te mjeteve juridike.
+Gjykata gjithashtu shqyrton pretendimin e dyte te parashtruesit te kerkeses ne te cilin 42. ai pretendon: "se aletgjyleimi i Gjyleates Themelore i eshte dorezuar atij ne Qendren Korreletuese ne Dubrave, dhe se per shleale te leesaj ai nule lea mundur te parashtroje anleese ne Gjylcaten e Apelit" e konsideron te pabazuar, per arsye se vete fakti se aktgjykimi i Gjykates Themelore i eshte dorezuar ne Qendren Korrektuese ne Dubrave, nuk eshte arsye e mjaftueshme qe ne ndonje menyre do ta pengonte, parandalonte apo zvogelonte te drejten e tij per te shfrytezuar mjetin juridik, perkatesisht te parashtroje ankese ne Gjykaten e Apelit, qofte ne menyre te pavarur ose permes nje perfaqesuesi te cilin ai ka mundur ta angazhoje. Per me teper, nese ai nuk e ka kuptuar permbajtjen e aktgjykimit te Gjykates Themelore, kjo ne vetvete do te duhej te paraqes arsye mjaft te qarte per te kerkuar ndihme juridike.
+Rrjedhimisht, duke pasur parasysh sa me siper, Gjykata i kthehet edhe nje here 43. la:iterit te mosshterimit te mjeteve juridike ne lidhje me pranueshmerine e kesaj kerkese konla:ete, sepse parashtruesi i kerkeses nuk ka konfirmuar ne asnje moment rrethanat qe e perjashtojne ate nga kushti i mosshterimit te mjeteve juridike. Gjykata vlereson se parashtruesi i kerkeses pas marrjes se aktgjykimit [Po nr. 36/22 dhe 76/ 22] te 7 tetorit 2022, ka mundur te parashtroje ankese ne afat prej 15 ditesh ne Gjykaten e Apelit, pasi qe ishte udhezuar nga Gjykata Themelore ne Gjakove per mjetin juridik, por ai nuk e beri nje gje te tille. Ne lidhje me kete, Gjykata thekson faktin se te gjitha pretendimet e perfaqesuesit te parashtruesit te kerkeses ne lidhje me shkeljet e se drejtes per te siguruar mbrojtje efektive mund te shqyrtohen edhe gjate procedures se rregullt ne gjykatat e rregullta.
+44. Prandaj, Gjykata konsideron se parashtruesi i kerkeses e dorezoi kerkesen e tij ne Gjykaten Kushtetuese para shterimit te te gjitha mjeteve efektive juridike, te cilat ishin te parapara me rregullat e brendshme ligjore, dhe se ato si te tilla ishin ne dispozicion te parashtruesit te kerkeses gjate gjithe kohes.
+Andaj, lidhur me kete, Gjykata bazuar ne praktiken e saj gjyqesore thekson se nese 45. parashtruesit e kerkeses nuk i shterin mjetet efektive juridike te parapara me ligj, atehere kerkesat e parashtruesve ne Gjykate konsiderohen si mosshterim (shih, ne kete kontekst, rastet e Gjykates, KI208/22, parashtrues Flurentin Berisha, Aktvendim per papranueshmeri, i 12 prillit 2023, paragrafi 43; si dhe rastin KI193/20, parashtrues Bujar Hoti, Aktvendim per papranueshmeri, i 17 majit 2021, paragrafi 29)·
+46. Bazuar ne sa me siper, Gjykata konkludon se kerkesa e parashtruesit te kerkeses duhet te deldarohet e papranueshme, pasi qe parashtruesi i kerkeses nuk ka shteruar mjetet e rregullta juridike ne pajtim me nenin 113.7 te Kushtetutes, ne nenet 20 dhe 47 te Ligjit dhe rregullin 34 (1) (b) te Rregullores se punes.
+Duke konstatuar se parashtruesi i kerkeses nuk ka shteruar mjetet juridike, Gjykata 47. gjithashtu konldudon se ne keto rrethana nuk mund te vazhdoje te shqyrtoje bazueshmerine e pretendimit te pare te parashtruesit te kerkeses ne lidhje me
+"shlceljen e se dT'ejtes peT' mbT'ojtje" ne kontekstin e shkeljes se te drejtave te garantuara me nenet 30 dhe 31 te Kushtetutes.
+PER KETO ARSYE
+Gjykata Kushtetuese ne pajtim me nenin 113. 7 te Kushtetutes, ne nenet 20 dhe 47 te Ligjit dhe ne pajtim me rregullin 34 (1) (b) te Rregullores se punes, me 23 janar 2024, njezeri
+VEND OS
+TE DEKLAROJE kerkesen te papranueshme; I.
+II. T'UA KUMTOJE kete vendim paleve;
+TE PUBLIKOJE kete vendim ne Gazeten Zyrtare, ne pajtim me nenin 20-4 te III. Ligjit;
+Ky aktvendim hyn ne fuqi ne diten e shpalljes ne Gazeten Zyrtare te N . Republikes se Kosoves, ne pajtim me paragrafin 5 te nenit 20 te Ligjit;
+C~o;h\~ ~ka-Nimani Se
