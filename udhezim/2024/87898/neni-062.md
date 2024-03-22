@@ -1,0 +1,9 @@
+# Neni 62
+Zëvendësimi i mjeteve të identifikimit të gjedhit, dhenëve, dhive, derrit dhe kafshët tjera
+1. Autoriteti kompetent mund të autorizojë operatorët të zëvendësojnë mjetet e identifikimit të gjedhit, dhenëve, dhive, derrit dhe kafshët tjera nëse zëvendësimi nuk rrezikon gjurmueshmërinë e kafshëve, duke përfshirë gjurmueshmërinë e objektit në të cilën ato kanë lindur.
+2. Zëvendësimi mund të autorizohet:
+2.1. kur kafshët janë identifikuar me dy mjete identifikimi dhe një nga ato mjete identifikimi është bërë e palexueshme ose ka humbur, me kusht që kodi i identifikimit të kafshëve të mbetet i pandryshuar dhe të vazhdojë të përputhet me kodin në mjetet e mbetura të identifikimit;
+2.2. kur kafshët janë identifikuar me një ose dy mjete identifikimi që shfaqin kodin e identifikimit të kafshëve dhe ato mjete identifikimi janë bërë të palexueshme ose janë humbur, me kusht që të mund të përcaktohet kodi identifikimit të kafshëve dhe kodi i identifikimit mbetet i pandryshuar;
+2.3. kur kafshët janë identifikuar me mjet identifikimi që tregon numrin unik të regjistrimit të objektit dhe se mjeti i identifikimit është bërë i pa lexueshëm ose ka humbur, me kusht që të mbetet e mundur të përcaktohet objekti i lindjes së kafshëve ose objekti i fundit i zinxhirit të furnizimit dhe se mjeti zëvendësues i identifikimit shfaq numrin unik të regjistrimit të qendrës apo objektit, dhe
+2.4. në rastin e dhenëve dhe dhive, mund të autorizohet zëvendësimi i mjeteve të identifikimit të përcaktuara në nënparagrafët 2.1 dhe 2.2 të këtij paragrafi me mjete të reja identifikimi me kod të ri identifikimi, me kusht që të mos cenohet gjurmueshmëria.
+3. Zëvendësimi i mjeteve të identifikimit të përcaktuara në paragrafin 1 do të kryhet në periudhe kohore prej 30 ditesh, para se kafshët të levizin në objekt tjetër.

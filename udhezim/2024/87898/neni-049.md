@@ -1,0 +1,5 @@
+# Neni 49
+Përgjegjesitë e operatorëve që përdorin metoda alternative të identifikimit
+1. Operatorët që përdorin metodë alternative të autorizuar të identifikimit, si në paragrafin 1 të nenit 48 të këtij Udhëzimi Administrativ, do t'i ofrojnë autoritetit kompetent dhe, kur është e nevojshme operatorëve, qasje në informacionet e identifikimit dhe verifikimit të identitetit të kuajve.
+2. Kur metodat alternative të identifikimit bazohen në karakteristikat e kuajve, të cilat mund të ndryshojnë me kalimin e kohës, operatori duhet t'i sigurojë informacionin e nevojshëm autoritetit kompetent që ata të përditësojnë dokumentin e identifikimit në bazën e të dhënave.
+3. Shoqëritë e racave dhe shoqatat apo organizatat ndërkombëtare që mbarështojnë / mbajnë kuaj për gara mund të kërkojnë që kuajt të cilët janë identifikuar duke përdorur një metodë alternative të identifikimit, të identifikohen me implantimin e transponderit për qëllim regjistrimi të kafshëve të racave të pastra të kuajve në librat e mbarështimit ose regjistrimin e kuajve për qëllime konkurrimi ose garash.
