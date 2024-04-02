@@ -1,2 +1,0 @@
-# Article 26
-The text of Article 259 shall be replaced by the text: “A police officer who regulates and supervises the road traffic at the site where the offence is committed shall impose a fine of up to five hundred (500) euros for the natural person and one thousand (1.000) euros for the legal person, including the imposition of protective measures and negative points. Offences by fines foreseen above this amount, including the imposition of protective measures and negative points, shall be proceeded to the competent court.”

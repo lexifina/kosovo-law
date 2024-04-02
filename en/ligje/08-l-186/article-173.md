@@ -1,0 +1,8 @@
+# Article 173
+Usage of special sound and light equipment
+1. Equipment for giving special light and sound signals with variable intensity, have the right to be used only by the vehicles provided in Articles 166 and 169 of this Law.
+2. In Police vehicles, except equipment from paragraph 1 of this Article, there can be mounted also the devices in which are written orders and notifications for the driver who is moving forward or behind the Police vehicle: “Mandatory stop, “Stop Police!”, “Slowdown!”, “Traffic accident”, “Road danger” or similar.
+3. The person who mounts the equipment in contradiction to the provisions of this Article shall be punished for minor offence, with a fine of five hundred (500) euro.
+4. The responsible official in the public institution if he, without authorization, mounts or allows the mounting of equipment in contradiction to the provisions of this Article shall be punished for minor offence, with a fine of one thousand (1.000) euro to three thousand (3.000) euro.
+5. The driver who participates in traffic with mounted equipment in contradiction with this Article shall be punished for minor offence, with a fine of five hundred (500) euro. Beside the fine, the protective measure prohibition of driving the motor vehicle for the duration of three (3) months as well as three (3) negative points shall be imposed to him. The device is confiscated and shall not be returned to him.
+6. It is prohibited to import, manufacture, modify, trade or undertake any other action related to special sound and light equipment, without prior authorization, except for means with priority of passage according to this law.

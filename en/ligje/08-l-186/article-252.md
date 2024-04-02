@@ -1,0 +1,6 @@
+# Article 252
+Protective measure for foreign driver’s licence
+1. The driver who possesses a driver’s licence from a foreign country and who commits a minor offence in traffic, for which there is foreseen the imposing of protective measure prohibition of driving the motor vehicle, shall be imposed with the protective measure prohibition of driving the motor vehicle in the territory of the Republic of Kosovo in the duration of time foreseen for the certain minor offence.
+2. Protective measure prohibition of driving the motor vehicle in the territory of the Republic of Kosovo, shall be imposed to the driver who possesses a driver’s licence from a foreign country, in cases when the offender gives the consent, it can be converted into the payment of an amount that that is the double of the punishment by a fine foreseen for such a minor offence.
+3. Drivers who possess driver’s licenses of a foreign country and who have fines for minor offenses in traffic, which have not been paid, are not allowed to enter the territory of the Republic of Kosovo, until they pay those punishments for minor offences.
+4. The respective Ministry of Internal Affairs maintains a database of the records of the person from paragraph 1 of this Article.

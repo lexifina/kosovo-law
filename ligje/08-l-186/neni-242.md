@@ -1,0 +1,6 @@
+# Neni 242
+Përcaktimi i shpejtësisë së lëvizjes së mjetit
+1. Shpejtësia e lëvizjes së mjetit konstatohet me pajisje të matjes së shpejtësisë së lëvizjes së mjetit, me të dhëna në tahograf, duke përcjellë drejtpërdrejt mjetin me anë të videoincizimeve, me pajisje mobile dhe statike apo të ngjashme.
+2. Fotografia dhe videoincizimi me të dhëna për shpejtësinë e konstatuar, të dhënat në tahograf dhe procesverbali për lexim nga radari pa përshkrim dhe pa shpejtësimatës, shërbejnë si prove e shpejtësisë së konstatuar të lëvizjes së mjetit.
+3. Ndalohet të shfrytëzohen ose të instalohen pajisje në mjet të cilat i pengojnë ose i detektojnë pajisjet që shfrytëzojnë personat e autorizuar për mbikëqyrje dhe rregullim të trafikut rrugor. Nëse polici has në shoferin i cili i shfrytëzon ose i ka të instaluar në mjet këto pajisje, ai e urdhëron shoferin që t’i mënjanojë, e nëse shoferi refuzon ta bëjë këtë, pajisja do të hiqet me shpenzime të shoferit. Pajisja konfiskohet dhe e njëjta nuk i kthehet shoferit, përkatësisht pronarit të mjetit.
+4. Dënohet për kundërvajtje me gjobë prej pesëqind (500) deri në njëmijepesëqind (1500) euro, shoferi i cili vepron në kundërshtim me dispozitat e paragrafit 3. të këtij neni.

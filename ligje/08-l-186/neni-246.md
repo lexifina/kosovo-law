@@ -1,0 +1,8 @@
+# Neni 246
+Masa mbrojtëse për patentë shoferi
+1. Personit që e drejton mjetin me veprim motorik pa e fituar të drejtën për drejtim të mjetit (pa patentë shofer te vlefshëm) ose pa patentë shoferi të kategorisë përkatëse, i merret e drejta që t’i nënshtrohet provimit për patentë shoferi për cilëndo kategori një (1) vit nga data e shqiptimit të vendimit të plotfuqishëm.
+2. Shoferit të cilit i është marrë patenta e shoferit ose që është larguar nga trafiku rrugor sipas këtij ligji, ose ndaj të cilit është shqiptuar masa mbrojtëse ndalim i të drejtuarit të mjetit me veprim motorik, nuk i lejohet gjatë asaj kohe ta drejtojë mjetin në trafikun rrugor.
+3. Dënohet për kundërvajtje me gjobë prej pesëqind (500) deri në njëmijepesëqind (1500) euro, shoferi i cili vepron në kundërshtim me dispozitat e paragrafit 1. të këtij neni.
+4. Dënohet për kundërvajtje, me gjobë prej pesëqind (500) deri në njëmijepesëqind (1500) euro, edhe personi juridik ose institucioni në emër të të cilit dhe brenda autorizimeve të të cilit ka vepruar personi i përcaktuar në paragrafin 1. të këtij neni.
+5. Dënohet për kundërvajtje, me gjobë prej pesëqind (500) euro, masa mbrojtëse ndalim i drejtimit të mjetit me veprim motorik prej gjashtë (6) muaj, si dhe pese (5) pikë negative, shoferi i cili vepron në kundërshtim me dispozitat e paragrafit 2. të këtij neni.
+6. Nëse shoferi, ndaj të cilit është shqiptuar masa mbrojtëse ndalim i të drejtuarit të mjetit me veprim motorik, e drejton mjetin në trafikun rrugor gjatë periudhës së masës mbrojtëse, do t’i konfiskohet përkohësisht mjeti te cilin është hasur duke e drejtuar, deri sa ndaj te njëjtit është aktive masa mbrojtëse ndalim i të drejtuarit të mjetit me veprim motorik.

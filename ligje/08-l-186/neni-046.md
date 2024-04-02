@@ -1,0 +1,5 @@
+# Neni 46
+Lëvizja në vendbanime
+1. Në rrugët e vendbanimeve me sipërfaqe rrugore në të cilat për lëvizje të mjeteve në të njëjtin kah ekzistojnë të paktën dy (2) shirita të trafikut, shoferi për lëvizje me mjetin e vet mund ta shfrytëzojë edhe shiritin e trafikut që nuk ndodhet pranë skajit të djathtë të rrugës, në qoftë se me këtë nuk i pengon mjetet e tjera që lëvizin pas mjetit të tij.
+2. Dispozita e paragrafit 1. të këtij neni nuk ka të bëjë me shoferin e mjetit të transportit me masën më të madhe të lejuar mbi tremijepesëqind (3.500) kg, me shoferin e mjetit që në rrugë të rrafshët nuk mund të zhvillojë shpejtësi më të madhe se dyzet (40) km/h, me shoferin e mopedit, të triçikletës, të katërçikletës, të traktorit, të makinës së punës dhe të motokultivatorit, përveç në pjesën e rrugës para kryqëzimit ose para vendit tjetër në të cilin mjeti kthehet në të majtë.
+3. Dënohet për kundërvajtje me gjobë prej tridhjetë (30) euro, shoferi i mjetit i cili vepron në kundërshtim me dispozitat e këtij neni.

@@ -1,9 +1,0 @@
-# Neni 21
-Funksionimi i semaforëve
-1. Në semafor dritat me ngjyrë të kuqe dhe të gjelbër nuk mund të ndizen njëkohësisht. Drita e verdhë e vetme pa ndërprerje ndizet prej kalimit të dritës së gjelbër në atë të kuqen, ndërsa njëkohësisht me të kuqen para se të ndizet drita e gjelbër.
-2. Semaforit me drita tri ngjyrëshe mund t’i shtohet një shenjë plotësuese me drita në formë shigjete ose disa shenja përkatëse, të cilat vendosen në anën e caktuar të semaforit në lartësinë në të cilën ndodhet drita e gjelbër.
-3. Ndryshe nga paragrafi 2. i këtij neni, shenja plotësuese në semafor në formë shigjete me ngjyrë të gjelbër për kthim majtas mund të jetë e vendosur si dritë e veçantë e trafikut për dalje nga kryqëzimi.
-4. Drita me ngjyrë te gjelbër me ndërprerje paralajmëron ndërprerjen e shpejtë të kalimit të lirë, përkatësisht paraqitjen e dritës me ngjyrë të verdhë pastaj të kuqe. Ndërsa drita me ngjyrë të verdhë me ndërprerje shërben për t’i paralajmëruar pjesëmarrësit e trafikut të lëvizin me kujdes të shtuar.
-5. Në rrugë me më tepër se dy shirita të trafikut të shënuar me shënime gjatësore, ku trafiku drejtohet me semafor për çdo shirit veçmas dhe të cilat janë të vendosura mbi shirita të trafikut, drita e kuqe ndalon trafikun përgjatë shiritit të trafikut mbi të cilin është e vendosur, drita e gjelbër lejon kalimin e lirë nëpër shiritin e trafikut mbi të cilën është vendosur.
-6. Drita e kuqe nga paragrafi 5. i këtij neni e ka formën e “x”, ndërsa drita me ngjyrë të gjelbër e ka formën e shigjetës me maje të kthyer poshtë.
-7. Shoferi i cili nuk i respekton shenjat e semaforit sipas këtij neni dënohet për kundërvajtje, me gjobë prej njëqind e pesëdhjetë (150) eurosh. Atij i shqiptohet edhe masa mbrojtëse ndalim i të drejtuarit të mjetit me veprim motorik tre (3) muaj, si dhe tri (3) pikë negative. Identifikimi dhe dëshmia bëhet përmes pajisjes apo aparatit përkatës, si dhe nga persona të autorizuar.

@@ -1,2 +1,0 @@
-# Neni 26
-Teksti i nenit 259 të ligjit bazik, zëvendësohet me tekstin “Polici i cili e rregullon dhe e mbikëqyrë trafikun rrugor, në vendin e shkaktimit të kundërvajtjes shqipton gjobë me të holla deri në pesëqind (500) euro për personin fizik dhe njëmijë (1,000) euro për personin juridik, duke përfshirë edhe shqiptimin e masës mbrojtëse dhe pikët negative. Kundërvajtjet më gjobë të parapara mbi këtë shumë duke përfshirë edhe shqiptimin e masës mbrojtëse dhe pikët negative procedohen në gjykatën kompetente.”

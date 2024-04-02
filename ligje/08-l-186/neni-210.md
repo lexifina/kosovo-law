@@ -1,0 +1,8 @@
+# Neni 210
+Sjella e pjesëmarrësit në aksident të trafikut
+1. Shoferi, përkatësisht pjesëmarrësi tjetër i përfshirë në aksident të trafikut në të cilin dikush e ka humbur jetën, ose është lënduar, ose është shkaktuar dëm i madh material, e ka për detyrë:
+1.1. ta ndalë mjetin, nëse është me mjet, dhe të qëndrojë në vendin e aksidentit të trafikut. Përjashtim bëjnë rastet kur pjesëmarrësi në aksident iu ofron ndihmë personave të lënduar, ose në qoftë se vetë atij i nevojitet ndihma mjekësore, ose nëse është larguar për ta njoftuar policinë, me kusht që të kthehet në vendin e aksidentit sapo të jetë kjo e mundur;
+1.2. të ndërmarrë gjithçka që është e mundur, në mënyrë që të mënjanohen rreziqe të reja, të mundësohet rrjedha normale e trafikut, të bëhen përpjekje që të mos ndërrohet gjendja në vendin e aksidentit dhe të ruhen gjurmët ekzistuese, me kushtin që ndërmarrja e atyre masave të mos e rrezikojë sigurinë e trafikut;
+1.3. ta njoftojë Policinë për aksidentin e trafikut, dhe ta presë ardhjen e personave të autorizuar të cilët e bëjnë ekzaminimin e vendit të aksidentit.
+2. Personi i cili është njoftuar për aksidentin e trafikut në të cilin është lënduar ndonjë person, e ka për detyrë që t’i njoftojë menjëherë institucionet shëndetësore dhe Policinë.
+3. Dënohet për kundërvajtje me gjobë prej pesëqind (500) euro, shoferi i cili është pjesëmarrës i drejtpërdrejtë në aksident dhe i cili largohet me mjet nga vendi i aksidentit. Përveç gjobës, atij i shqiptohet masa mbrojtëse ndalim i të drejtuarit të mjetit me veprim motorik në kohëzgjatje prej një (1) viti, si dhe i shqiptohen pesë (5) pikë negative.

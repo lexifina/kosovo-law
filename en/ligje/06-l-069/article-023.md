@@ -1,4 +1,0 @@
-# Article 23
-1. Article 249 of the basic Law, paragraphs 2 and 3 shall be amended as follows:
-1.1. The text of paragraph 2 shall be replaced with the text: “Negative points and protective measures for the prohibition of running a motor vehicle shall be imposed by the offence body and the court according to the legal competencies for review of the offence”.
-LAW No. 06/L –069 ON AMENDING AND SUPPLEMENTING THE LAW No. 05/L-088 ON ROAD TRAFFIC PROVISIONS 1.2. The text of paragraph 3 shall be replaced by the text: “The Ministry of Internal Affairs, in cooperation with the Ministry of Infrastructure, the Ministry of Justice, the Kosovo Judicial Council and the Courts shall coordinate mutual actions under the sub- legal acts that are foreseen to be issued by this Law, regarding offences, negative points, protective measures, accidents and other issues related to them.”

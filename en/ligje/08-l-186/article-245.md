@@ -1,0 +1,12 @@
+# Article 245
+Legal consequences of penalties
+1. The legal consequence of the omnipotent decision for the driver of the vehicle that has caused certain offenses according to this law, based on the number of accumulated negative points, is the temporary obtaining of the driver’s license. The protective measure of banning the driving a motor vehicle must be from three (3) months to twelve (12) months.
+2. The negative points and the protective measure of banning the driving a motor vehicle are imposed by the offending body and the court, according to the legal competences for examining the offence.
+3. The Ministry of Internal Affairs, in cooperation with the Ministry of Infrastructure, the Ministry of Justice, the Judicial Council of Kosovo and the Courts, will coordinate mutual actions, according to the sub legal acts, that are expected to be issued with this law, regarding offenses, negative points, protective measures, accidents and other issues related to them.
+4. The negative point is deleted from the driver’s record after the passage of two (2) years from the date when it was issued by a final decision.
+5. The driver of a motor vehicle who has been awarded at least nine (9) negative points for violations provided for by this law will be issued a protective measure banning the driving of a motor vehicle for all categories for a duration of twelve (12) months.
+6. After the negative points for the offense have been taken into account for making the decision according to paragraph 5 of this Article, the negative points are deleted from the driver’s record.
+7. If the driver of the vehicle, who has been imposed a protective measure banning the driving of a motor vehicle according to paragraph 5 of this article in the next period of two (2) years after the expiration of the term of the ban of the protective measure, has made at least nine (9) other negative points, the measure of cancellation of the driver’s license for all categories is imposed to him.
+8. After the expiration of the execution of the protective measure for the cancellation of the driver’s license, the driver has the right to undergo the driver’s license exam again as an initial candidate, as provided by the Law on Driving Licence.
+9. The decision from this article is sent to the competent institution for issuing the driver’s license.
+10. Against the decision from the provisions of this article, the driver can appeal to the competent court.

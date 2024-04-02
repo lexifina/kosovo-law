@@ -1,8 +1,0 @@
-# Neni 247
-Marrja e dokumentacionit për drejtim të mjetit
-1. Polici do t’ia marrë patentën shoferit, përkatësisht licencën instruktorit të shoferëve, nëse gjatë kontrollit konstatohet se është bërë i paaftë fizikisht apo psikikisht për ta drejtuar mjetin, për kohën derisa zgjat kjo paaftësi.
-2. Shoferit apo instruktorit të shoferëve, të cilit i kufizohet e drejta për kategori të caktuara më të larta të mjeteve për shkaqe të parapara në paragrafin 1. të këtij neni, ato kategori do t’i anulohen në patentë shoferi. Me kërkesën e shoferit, atij do t’i lëshohet patentë shoferi pa kategoritë e anuluara.
-3. Shoferit apo instruktorit të shoferëve do t’i merret patentë shoferi nëse nuk i nënshtrohet kontrollit shëndetësor në të cilin është dërguar. Patenta e shoferit nuk do t’i kthehet shoferit derisa ai të mos i nënshtrohet kontrollit shëndetësor.
-4. Polici do t’ia marrë shoferit patentën e shoferit dhe instruktorit të shoferëve licencën nëse në kontroll të jashtëzakonshëm shëndetësor konstatohet se i janë kufizuar aftësitë. Me kërkesën e shoferit, atij do ti lëshohet patentë shoferi i ri në bazë të kufizimeve të konstatuara.
-5. Institucioni i autorizuar ia refuzon kandidatit për shofer lëshimin e patentës së shoferit, përkatësisht shoferit ia merr patentën e shoferit, ndërsa instruktorit të shoferëve ia merr licencën, nëse me kontroll shëndetësor konstatohet se është i paaftë për ta drejtuar mjetin, përkatësisht ta kryejë profesionin e instruktorit të shoferëve.
-6. Kundër masave të shqiptuara sipas dispozitave të këtij neni, pala mund të parashtrojë ankesë pranë gjykatës kompetente.
