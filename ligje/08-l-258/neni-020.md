@@ -1,0 +1,10 @@
+# Neni 20
+Marrëveshja për Zhvillimin e Projektit
+1. Pas marrjes së vendimit përfundimtar për përzgjedhjen e ofertuesit të suksesshëm, ofertuesi i suksesshëm nënshkruan Marrëveshjen për Zhvillim të Projektit me Ministrin e Ministrisë brenda afatit të përcaktuar në dokumentacionin e Procesit të Ofertimit Konkurrues. Kushtet minimale të Marrëveshjes për Zhvillimin e Projektit specifikohen nga Ministria në akt nënligjor.
+2. Marrëveshja për Zhvillimin e Projektit lejon bartjen e projektit tek një palë e tretë, me kusht që pala e tretë plotëson kushtet minimale të plotësuara nga ofertuesi fitues në një lloj të marrëveshjes direkte ose instrumente tjera në bazë të praktikave më të mira ndërkombëtare.
+3. Nëse ofertuesi fitues nuk arrin ta nënshkruaj një Marrëveshje për Zhvillimin e Projektit në përputhje me paragrafin 1 të këtij neni, ofertuesit pasues në renditje ftohen të lidhin një Marrëveshje për Zhvillim të Projektit me çmimin e ofruar nga ofertuesi fitues.
+4. Prodhuesit të Privilegjuar që lidh Marrëveshje për Zhvillim të Projektit sipas këtij neni, nuk i kërkohet të aplikojë për autorizim për ndërtimin e kapaciteteve të reja sipas kushteve të Ligjit për Rregullatorin e Energjisë.
+5. Prodhuesit të Privilegjuar që lidh Marrëveshje për Zhvillim të Projektit, i kërkohet të marrë të gjitha lejet e nevojshme për ndërtimin e impiantit siç kërkohet me legjislacionin në fuqi.
+6. Leja për prodhimin e energjisë i lëshohet Prodhuesit të Privilegjuar nga Rregullatori, nëse kërkohet sipas Ligjit për Rregullatorin e Energjisë.
+7. Nëse ofertuesi nuk i përmbush obligimet e parapara në paragrafin 5 të këtij neni, Ministria e ndërpret Marrëveshjen për Zhvillim të Projektit dhe inicion garancinë e performancës, siç parashihet me Marrëveshjen për Zhvillimin e Projektit.
+8. Brenda shtatë (7) ditësh nga lëshimi i çertifikatës së shfrytëzimit për Prodhuesin e Privilegjuar për impiantin e përzgjedhur bazuar në Procesin e Ofertimit Konkurrues, Ministria lëshon çertifikatën e përfundimit që konfirmon fillimin e zbatimit të projektit.

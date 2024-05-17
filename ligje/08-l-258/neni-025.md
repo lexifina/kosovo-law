@@ -1,0 +1,8 @@
+# Neni 25
+Skemat e Përbashkëta Mbështetëse
+1.Qeveria, me propozim të Ministrisë, mund të vendosë ta bashkojë ose ta bashkërendojë pjesërisht Skemën Mbështetëse me skemën mbështetëse të një ose më shumë Palëve të Komunitetit të Energjisë.
+2. Në raste të tilla, një sasi e caktuar e energjisë nga Burimet e Ripërtërishme e prodhuar në territorin e Palës pjesëmarrëse të Komunitetit të Energjisë llogaritet në pjesëmarrjen e energjisë nga Burimet e Ripërtërishme në Republikën e Kosovës, ose anasjelltas, me kusht që:
+2.1. bëhet transfer statistikor i sasive të caktuara të energjisë nga Burimet e Ripërtërishme nga një vend në tjetrin, në përputhje me legjislacionin e Komunitetit të Energjisë për transferin statistikor të transpozuar në akt nënligjor; ose
+2.2 vendoset një rregull për shpërndarjen e sasive të energjisë nga Burimet e Ripërtërishme ndërmjet tyre, për të cilin është njoftuar Sekretariati i Komunitetit të Energjisë, jo më vonë se tre (3) muaj pas përfundimit të vitit të parë në të cilin hyn në fuqi.
+3. Brenda tre (3) muajve pas përfundimit të çdo viti në të cilin e ka bërë njoftimin sipas nënparagrafit 2.2 të këtij neni, Qeveria lëshon një letër njoftim që tregon sasinë totale të energjisë elektrike ose të energjisë për ngrohje ose ftohje të prodhuar gjatë vitit nga Burimet e Ripërtërishme dhe që i nënshtrohet rregullit të shpërndarjes.
+4. Për llogaritjen e pjesëmarrjeve të Energjisë së Ripërtërishme sipas këtij ligji, sasia e energjisë elektrike ose e energjisë për ngrohje ose ftohje nga Burimet e Ripërtërishme e paraqitur sipas paragrafit 3 të këtij neni, rialokohet ndërmjet palëve të përfshira përmes rregullës për paraqitje të shpërndarjes.

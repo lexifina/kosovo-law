@@ -1,0 +1,8 @@
+## KAPITULLI XI
+## PROCEDURAT DHE KËRKESAT ADMINISTRATIVE
+# Neni 50
+Parimet e procedurave administrative për projektet e energjisë së Ripërtërishme
+1. Rregullatori siguron që rregullat në lidhje me procedurat e autorizimit, çertifikimit dhe licencimit që zbatohen për impiantet dhe rrjetet përcjellëse të transmetimit dhe shpërndarjes për prodhimin e energjisë elektrike, ngrohjen ose ftohjen nga Burimet e Ripërtërishme, deri në procesin e transformimit të Biomasës në Bio-karburante, Bio-lëngje, derivate të Biomasës ose produkte të tjera energjetike, si dhe për derivatet e Ripërtërishme të lëngshme dhe të gazta për transport me origjinë jobiologjike, janë proporcionale dhe të nevojshme dhe kontribuojnë në zbatimin e projekteve të Energjisë së Ripërtërishme.
+2. Institucionet qendrore dhe lokale, Rregullatori dhe operatorët e rrjetit, të autorizuar nga ky ligj për të lëshuar pëlqime, leje, ose çfarëdo dokumenti tjetër për ndërtimin e projekteve të Energjisë së Ripërtërishme, marrin masat e nevojshme për të përmirësuar dhe përshpejtuar procedurat e lëshimit në nivelin e duhur administrativ të dokumenteve të tilla, duke përcaktuar afatin sipas Ligjit për procedurën e përgjithshme administrative.
+3.Institucionet qendrore dhe lokale, Rregullatori dhe operatorët e rrjetit shqyrtojnë aplikimet për projektet e energjisë së Ripërtërishme në mënyrë jodiskriminuese, objektive, transparente dhe proporcionale, si dhe merren plotësisht parasysh veçoritë e secilës teknologji për Energji së Ripërtërishme.
+4. Ngarkesat administrative të paguara nga konsumatorët janë transparente dhe të ndërlidhura me kostot.

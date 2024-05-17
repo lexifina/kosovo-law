@@ -1,0 +1,4 @@
+# Neni 38
+Kostoja për kyçje në sistemin e rrjetit dhe zgjerimin e kapacitetit
+1. Prodhuesi me Energji nga Burimet e Ripërtërishme, Bashkësia për Energji nga Burimet e Ripërtërishme ose Vetë-Konsumatori që përdor Burime të Ripërtërishme, mbulon koston e pikës së kyçjes duke përfshirë ndërtimin dhe instalimin e pajisjeve të nevojshme të matjes për të regjistruar energjinë elektrike të furnizuar dhe pranuar, kostot potenciale të përforcimit të rrjetit, si dhe është përgjegjës për çdo ndryshim në këto çështje.
+2. Nëse pas aprovimit të kyçjes Operatori i Rrjetit bën ndryshime në pikën e kyçjes ose në pajisjet e matjes, atëherë operatori i mbulon edhe kostot përkatëse. Operatori i Rrjetit mbulon kostot e optimizimit, forcimit dhe zgjerimit të sistemit të shpërndarjes në pajtim me metodologjinë përkatëse të taksave për kyçje të aprovuar nga Rregullatori.

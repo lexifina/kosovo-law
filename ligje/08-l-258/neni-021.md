@@ -1,0 +1,5 @@
+# Neni 21
+Kontrata për Mbështetje
+1. Ministria në konsultim me Rregullatorin dhe Operatorin e Energjisë së Ripërtërishme harton Modelet e Kontratës për Mbështetje për secilin Proces të Ofertimit Konkurrues, dhe e publikon si pjesë e dokumentacionit për Procesin e Ofertimit Konkurrues.
+2. Operatori i Energjisë së Ripërtërishme do t’i ruajë të gjitha shënimet e detajuara në lidhje me mbështetjen e dhënë në përputhje me këtë ligj gjatë gjithë kohëzgjatjes së Kontratës për Mbështetje, edhe për një periudhë shtesë prej dhjetë vjetësh, duke përfshirë të gjitha informacionet relevante për të demonstruar se janë respektuar kushtet e Kontratës për Mbështetje. Rregullatori i publikon çdo vit detajet e llogaritjeve dhe pagesave sipas Kontratës për Mbështetje.
+3. Ministria ka të drejtë të shkëpusë Kontratën për Mbështetje nëse Prodhuesi i Privilegjuar nuk i përmbush kriteret e vendosura me Kontratën për Mbështetje. Në këtë rast, Prodhuesi i Privilegjuar do ta humb statusin e Prodhuesit të Privilegjuar, pa të drejtën për ta rifituar statusin e tillë për impiantin e njëjtë.

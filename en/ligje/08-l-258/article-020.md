@@ -1,0 +1,10 @@
+# Article 20
+Project Development Agreement
+1.Following the final decision on the selection of the successful bidder, the successful bidder shall sign the Project Development Agreement with the Minister of the Ministry within the deadline stipulated in the documentation of the Competitive Bidding Process. The Project Development Agreement minimum requirements are specified by the Ministry through secondary legislation.
+2.The Project Development Agreement shall allow for the assignment of the project to a third party, provided that a third party meets the minimal requirements met by the winning bidder, in a type of direct agreement or other instruments according to the best international practices.
+3.If a winning bidder fails to sign a Project Development Agreement in accordance with paragraph 1. of this Article, the bidders following the rank will be invited to conclude a Project Development Agreement with the price offered by the winning bidder.
+4. A Privileged Producer concluding a Project Development Agreement according to this Article, is not required to apply for authorization for the construction of new generation capacities according to the requirements of the Law on Energy and Law on Energy Regulator.
+5. A Privileged Producer concluding a Project Development Agreement is required to obtain all necessary permits to construct the power plant as required under the applicable law.
+6. A license for energy generation shall be issued by the Regulator to the Privileged Producer if required under the Law on Energy Regulator.
+7. If a bidder fails to fulfil the obligations foreseen under paragraph 5. of this Article, the Ministry shall terminate the Project Development Agreement and call on the performance guarantee, as stipulated in the Project Development Agreement.
+8. Within seven (7) days from issuance of the certificate of occupancy to the Privileged Producer for the plant selected based on Competitive Bidding Process, the Ministry issues a completion certificate confirming the commencement implementation of the project.
