@@ -1,0 +1,5 @@
+# Neni 30
+Inspektimi i Operatorëve Ekonomik dhe nënkontraktuesve
+1. Nëse gjatë inspektimit të operatorëve ekonomikë dhe nënkontraktuesve, AMIK gjenë se informacionet klasifikuara nuk ruhen konform planit të sigurisë së projektit, përpilon një raport lidhur me të gjeturat dhe i rekomandon drejtuesit të Institucionit Publik në cilësinë e autoritetit kontraktues për marrjen e masave të nevojshme për përmirësimin e sigurisë brenda zonave ku ruhet apo administrohet informacioni i klasifikuar dhe afatin kohor për zbatimin e rekomandimeve.
+2. Institucioni publik të cilit i janë dërguar rekomandimet është i obliguar t’i ndërmerr të gjitha masat ndaj operatorit ekonomik apo nënkontraktuesit për përmirësimin e masave të sigurisë për zbatimin e rekomandimeve të AMIK-ut deri në shkëputjen e kontratës dhe për këtë duhet ta njoftojë AMIK-un.
+3. Nëse gjatë inspektimit, AMIK vlerëson se shkelja e masave të sigurisë së informacioneve të klasifikuara ka elemente të veprës penale, njofton institucionin kompetent.
