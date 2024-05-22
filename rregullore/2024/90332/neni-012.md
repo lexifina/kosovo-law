@@ -1,0 +1,9 @@
+# Neni 12
+Trajnimi dhe ngritja e ndërgjegjësimit në lidhje me sigurinë e informacionit të Klasifikuar
+1. AMIK-u në bashkëpunim me institucionet shtetërore, kryen trajnime për personat që gëzojnë të drejtën e njohjes, ruajtjes, administrimit dhe transferimit të informacionit të klasifikuar, në kushtet e ushtrimit të detyrave zyrtare ose në përmbushje të një veprimtarie në kuadrin e respektimit të parimit “nevoja për të ditur”.
+2. Ngritja e ndërgjegjësimit dhe realizimi i trajnimeve për rreziqet dhe masat e sigurisë është linja e parë e mbrojtjes kur bëhet fjalë për sigurinë e informacionit të klasifikuar.
+3. Për të siguruar që përgjegjësitë e sigurisë së informacionit të klasifikuar janë kuptuar, trajnimi dhe rritja e ndërgjegjësimit për sigurinë e informacionit të klasifikuar duhet të jetë i detyrueshëm për të gjithë personelin që trajton apo administron informacion të klasifikuar.
+4. Personit të cilit i është dhënë një autorizim për qasje në informacion të klasifikuar konfirmon me shkrim se është i vetëdijshëm për detyrimin e tij në lidhje me mbrojtjen e informacionit të klasifikuar si dhe pasojat në rast të qasjes nga persona të paautorizuar.
+5. Personi i autorizuar për të pasur qasje në informacion të klasifikuar apo që i kërkohet të përpunojë atë, vihet në dijeni ndaj kërcënimeve të sigurisë në një fazë fillestare dhe më pas informohet për to në intervale të rregullta.
+6. Personit të cili nuk i është besuar më detyra që kërkon qasje në informacion të klasifikuar, do të informohet për detyrimet e tij në lidhje me mbrojtjen e vazhdueshme të informacionit të klasifikuar dhe, nëse është e nevojshme, duhet ta konfirmojë këtë me shkrim.
+7. Programet e trajnimit hartohen nga AMIK-u në bashkëpunim me institucionet shtetërore dhe operatorët ekonomik të interesuara për të qenë palë në kontrata të klasifikuara.
