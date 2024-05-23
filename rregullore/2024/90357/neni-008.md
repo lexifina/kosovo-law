@@ -1,0 +1,9 @@
+# Neni 8
+Veprimet me dokumentet e klasifikuara që dërgohen nga institucioni
+1. Zyrtari përgjegjës apo zyrtari i njësisë së informacionit të klasifikuar, para regjistrimit të një dokumenti të klasifikuar që dërgohet nga institucioni, verifikon nëse ky dokument i ka të gjitha shenjat identifikuese të informacionit të klasifikuar, në përputhje me modelin e përcaktuar nga AMIK, në të kundërt e kthen atë për plotësim.
+7/10
+2. Kur dokumenti i klasifikuar është i rregullt, zyrtari përgjegjës apo zyrtari i njësisë së informacionit të klasifikuar bën regjistrimin e tij në regjistrin e korrespondencës së informacionit të klasifikuar, vendos numrin e protokollit dhe e vulos. Vula e njomë vihet përbri firmës, zhvendosur pak majtas, pa e mbuluar atë. Gjurma e vulës duhet të jetë e qartë, e lexueshme dhe e padëmtuar.
+3. Zyrtarit përgjegjës apo zyrtarit të njësisë së informacionit të klasifikuar i ndalohet vulosja e dokumentit në rastet kur ai është i parregullt.
+4. Zyrtari përgjegjës apo zyrtari i njësisë së informacionit të klasifikuar mbyll zarfin ku është futur dokumenti ose materiali i klasifikuar dhe në anën e majtë të tij, lart, shënon emërtimin e dërguesit dhe numrin e protokollit të dokumentit në regjistrin e korrespondencës së informacionit të klasifikuar. Në të djathtë, lart, shënon nivelin e klasifikimit dhe në mes të zarfit, adresën e plotë të marrësit.
+5. Zarfet me informacion të klasifikuar “tepër sekret” dhe “sekret” vulosen në katër cepat, ndërsa ato me informacion të klasifikuar “konfidencial” dhe “i kufizuar” vulosen vetëm një herë. Pasi verifikohet saktësia e mbylljes së zarfit, bëhet dorëzimi i tij me librin e dorëzimit të korrespondencës së informacionit të klasifikuar, kundrejt nënshkrimit të marrësit.
+6. Regjistrimi, administrimi, shfrytëzimi, shumëfishimi dhe arkivimi i të gjitha dokumenteve të klasifikuara që qarkullojnë vetëm brenda institucionit, bëhet sipas të njëjtave rregulla me ato që dërgohen nga apo hyjnë në institucion.
