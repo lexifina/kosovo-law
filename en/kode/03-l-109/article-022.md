@@ -1,7 +1,0 @@
-# Article 22
-1. The persons concerned shall keep the documents referred to in Article 20 for the purposes of control by the Customs, for the period laid down in the provisions in force and for at least five calendar years, irrespective of the medium used. That period shall run from the end of the year in which:
-a) in the case of goods released for free circulation in circumstances other than those referred to in (b) or goods declared for export, from the end of the year in which the declarations for release for free circulation or export are accepted;
-b) in the case of goods released for free circulation at a reduced or zero rate of import duty on account of their end-use, from the end of the year in which they cease to be subject to customs supervision;
-c) in the case of goods placed under another customs procedure, from the end of the year in which the customs procedure concerned is completed;
-d) in the case of goods placed in a free zone or free warehouse, from the end of the year on which they leave the undertaking concerned.
-2. Without prejudice to the provisions of Article 219 (3), second sentence, where a check carried out by the Customs in respect of a customs debt shows that the relevant entry in the accounts has to be corrected, the documents shall be kept beyond the time limit provided for in the first paragraph for a period sufficient to permit the correction to be made and checked.

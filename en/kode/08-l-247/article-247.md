@@ -1,0 +1,54 @@
+## CHAPTER III
+## EXCISE OFFENSES AND SANCTIONS
+# Article 247
+Avoidance of verification or payment of excise
+1. By fine in the amount of two thousand five hundred (2,500) euros up to twenty-five thousand (25,000) euros, shall be punished the legal person, for excise offence, in case of:
+1.1. delivering or using excise products other than for the purposes they are authorized or uses them in larger rather than authorized amounts, in contrary to sub-paragraph 2.2 of Article 197, Article 209 and Article 210;
+1.2. fails to pay the excise within the time limit as per paragraph 1.5 of Article 198, paragraph 4 of Article 200 and Article 202;
+1.3. releases for consumption in an illegal manner the excise products in the territory of Republic of Kosovo without calculating and without paying excise, as per paragraph 1.2 of Article 200;
+1.4. manufacturers, processes, stores, accepts, delivers, imports, transport, uses, sells, purchases or possesses illegally the excise products on which in accordance with provisions of this Code and other applicable laws describing excise calculation and payment, the excise calculation and payment is not done or on which the full excise calculation or payment is not calculated, as per paragraph 2 of Article 200;
+1.5. as a person who handled excise products which were handled illegally as per paragraph 3 of Article 200, fails to verify the property rights, possession and any other factual or legal disposition;
+1.6. failure to calculate excise in accordance with the determined excise base and norm or in amounts in force on the day of obligation arises for excise calculation, as specified in paragraph 1 of Article 202;
+1.7. failure to submit the set out monthly report or incomplete or inaccurate or not in due time, in contrary to paragraphs 7 and 8 of Article 202;
+1.8. accepts, produces, processes, stores, performs other activities or delivers excise products in the excise payment delay system outside of excise warehouse for which Customs issued an authorization to the excise warehouse holder of authorization, as per paragraph 1 of Article 204;
+1.9. transfers the rights or obligations from the excise authorization for the holder of excise warehouse authorization or for the excise warehouse to another person, in contrary to paragraph 1 of Article 205;
+1.10. as authorized holder of an excise warehouse fails to undertake necessary actions, as determined by paragraph 1 of Article 206;
+1.11. transfers the rights or obligations from the authorization from Article 209 of this Law to another person, in contrary to paragraph 2 of Article 210;
+1.12. as an exempt user fails to comply with obligations, as determined in Article 211;
+1.13. fails to keep records determined in Article 213 or fails to keep records accurately or entirely;
+1.14. fails to submit a request for registration in the excise liable persons register in Customs or fails to submit it within the time limit as per paragraph 1. of Article 214 and Article 234;
+1.15. declares inaccurate data in the application for registration of excise liable person or application for modification of data declared during the application for registration of liable persons register or fails to report for cessation of activities due to which the registration in the liable person register occurred, in contrary to Article 214;
+1.16. failure to report any change in data specified in the register for registration of persons liable for excise or failure to report the modifications within the time limit, as determined in paragraph 3 of Article 214 and Article 234;
+1.17. alienates excise products for which excise is not paid as per paragraph 1 of Article 215, without prior notification to Customs or without excise payment, as determined in paragraph 4 of Article 215;
+1.18. using of excise products for which excise is not paid in contrary to the purpose or terms determined in Article 216 and Article 217;
+1.19. delivers or accepts excise goods out of excise suspension system without excise accompanying document, required as per paragraph 1 of Article 220;
+1.20. failure to confirm admission of excise products by verifying the third copy of ESD or failure of returning that copy to the consigner not later than five (5) days from the date of receiving excise products as required by paragraph 3 of Article 220;
+1.21. failure to conform admission of excise products by verifying the printed copy of customs import declaration or failure to return it to the competent office where import clearance was performed within five (5) days from the date of entry in warehouse or exempt users’ manufactory, as required by paragraph 4 and 5 of Article 220;
+1.22. failure to act in accordance to terms and obligations determined in the authorization for procedure simplification for excise goods circulation as per Article 221;
+1.23. failure to mark or paint as determined by paragraph 1 of Article 222, as excise taxpayer, diesel fuel used for purposes on which the excise norm is decreased or exempt from excise payment;
+1.24. imports in the territory of Republic of Kosovo the diesel fuel used for the purposes for which the excise norm is decreased or exempt from excise payment, failure to mark appropriately or imports it without the specific foreign supplier’s certificate on type and quantity of marking means, marked in another country, in contrary to paragraph 2 of Article 222;
+1.25. the diesel fuel used for the purposes for which excise value is decreased or exempt from excise payment is deposited in such manner by not insuring that other products shall not affect in neutralizing the marking means, in contrary to paragraph 4 of Article 222;
+1.26. marking the diesel fuel used for the purposes for which the excise norm is decreased or exempt from excise payment, is done performed in the excise warehouse where marking of diesel fuel is authorized, used for purpose for which the excise norm is decreased or exempt from excise payment, or in an excise warehouse lacking suitable equipment for dosing or mixing or similar equipment, the assistance of which can provide the specific marking, in contrary to paragraph 5 of Article 222;
+1.27. the diesel fuel used for the purposes for which the excise value is decreased or exempt from excise payment, by removing the marking means, decreasing their concentration or adding substances that render impossible the described marking, in contrary to paragraph 2 of Article 223;
+1.28. the diesel fuel used for the purposes for which the excise norm is decreased or exempt from excise payment, by acting in contrary to paragraphs 1 and 2 of Article 224;
+1.29. failure to act upon the authorized customs official’s order as per paragraph 2 of Article 224, or failure to act upon that order within the time limit;
+1.30. impedes enforcement of the seizure measure of objects and means from paragraphs 5 and 6 of Article 224;
+1.31. refuses, prevents, renders impossible or aggravates monitoring and verification of adherence to conditions for exercising the right to use the diesel fuel for the purposes for which the excise norm is decreased or exempt from excise payment, in contrary to paragraph 9 of Article 224;
+1.32. failure to denature the alcohol as determined in paragraph 1 of Article 226;
+1.33. failure to denature the alcohol in the manufacturers excise warehouse having the authorization from Customs for alcohol denaturing, as requested in paragraph 2 of Article 226;
+1.34. failure to keep records on denaturing or failure to keep records on buyers/clients or keeps these records inaccurately or incomplete, in contrary to paragraph 3 of Article 226;
+1.35. uses an excise warehouse for alcohol denaturing which is not equipped with equipment insuring the alcohol denaturing with specific means or in a specific manner, in contrary to paragraph 4 of Article 226;
+1.36. failure to use energetic products for which the exempt mentioned in Article 228 is implemented;
+1.37. failure to keep invoices issued or admitted, excise accompanying documents, customs declarations, documents based on which the right on exemption from excise payment is benefited, reports and all other accounting documents, which in any way have to do with production, warehousing, import and export of excise goods, which are important for excise calculation and payment within the time limit as determined in paragraph 1 of Article 230;
+1.38. refuses or otherwise impedes or aggravates inspection of excise products and other products subject to this Code and other applicable laws, sample taking for analysis and other appropriate testing and delivery of invoices, consignment note, delivery sheet, accompanying documents, commercial documents, official and other necessary documents for accurate and complete verification of facts in the tax procedure, in contrary to paragraph 2 of Article 230;
+1.39. misuses the right of moving or possessing excise goods by concealing the right purpose, destination or base of movement or possession of excise goods or by evading excise payment or other public benefits, as determined in paragraphs 1 and 3 of Article 231;
+1.40. misuses the right of moving or possessing excise goods as described in paragraph 2 of Article 231;
+1.41. renders impossible implementation of measures to ensure excise debt collection as per Article 232;
+1.42. operates or works with raw materials and other materials used for manufacturing excise products and products not considered as excise products in view of this Code but which can be used as excise products as per which Customs established special supervision measures, without registration in the persons liable for excise register and without obtaining a special authorization, in contrary to paragraphs 1 and 2 of Article 234;
+1.43. failure to mark the excise products with Republic of Kosovo excise banderol, as required in paragraph 1 of Article 236;
+1.44. removes or withdraws the excise banderol placed on the lid of the bottle so it doesn’t damage when opening the lid or when the bottle lid is opened without damaging the excise banderol, in order to be reused on the same or different packaging, in contrary to paragraph 5 of Article 236;
+1.45. manufacturers unauthorized banderols from paragraph 1 of Article 236 or banderols for alcoholic beverages of others or prints or possesses or places them in the market without authorization, as determined in paragraph 6 of Article 236;
+1.46. intentionally damages the excise banderols, as determined in paragraph 7 of Article 236;
+1.47. the person liable for excise acts in contrary to obligations for placing fiscal banderols in tobacco products as determined in Article 237;
+1.48. the person liable for excise acts in contrary to Article 238;
+2. By fine in the amount of five hundred (500) euros up to five thousand (5,000) euros, shall be punished the legal and natural person`s liable person, for the offence from paragraph 1 of this Article.

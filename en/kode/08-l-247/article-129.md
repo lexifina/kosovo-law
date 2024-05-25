@@ -1,0 +1,5 @@
+# Article 129
+Partial examination and sampling of goods
+1.Where only part of the goods covered by a Customs declaration is examined, or samples are taken, the results of the partial examination, or of the analysis or examination of the samples, shall be taken to apply to all the goods covered by the same declaration.
+2. Notwithstanding paragraph 1. of this Article, the declarant may request a further examination or sampling of the goods if he or she considers that the results of the partial examination, or of the analysis or examination of the samples taken, are not valid as regards the remainder of the goods declared. The request shall be granted provided that the goods have not been released or, if they have been released, that the declarant proves that they have not been altered in any way.
+3. For the purposes of paragraph 1. of this Article, where a Customs declaration covers goods falling under two or more items, the particulars relating to goods falling under each item shall be deemed to constitute a separate declaration.

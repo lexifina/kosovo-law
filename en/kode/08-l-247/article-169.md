@@ -1,0 +1,6 @@
+# Article 169
+Period during which goods may remain under the temporary admission procedure
+1. Customs shall determine the period within which goods placed under the temporary admission procedure must be re-exported or placed under a subsequent Customs procedure. Such period shall be long enough for the objective of authorized use to be achieved.
+2. Except where otherwise provided, the maximum period during which goods may remain under the temporary admission procedure for the same purpose and under the responsibility of the same authorization holder shall be twenty-four (24) months, even where the procedure was discharged by placing the goods under another special procedure and subsequently placing them under the temporary admission procedure again.
+3. Where, in exceptional circumstances, the authorized use cannot be achieved within the period referred to in paragraphs 1. and 2. of this Article, the Customs may grant an extension, of reasonable duration of that period, upon justified application by the holder of the authorization.
+4. The overall period during which goods may remain under the temporary admission procedure shall not exceed ten (10) years, except in the case of an unforeseeable event.

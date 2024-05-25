@@ -1,7 +1,0 @@
-# Neni 300
-Veprat penale në lidhje me Produktet me Akcizë
-(1) Kush në kundërshtim me ligjin e zbatueshëm në lidhje me akcizën dhe taksën doganore, shet, ofron për shitje, ekspozon apo përndryshe merret me produkte të pa-shenjë (pa-pullë), dënohet me gjobë deri në pesë herë të shumës së akcizës të paevidencuar apo të pa-papaguar, nëse shuma e akcizës nuk kalon shumën prej 25.000 € dhe me burgim deri në shtatë vjet, nëse shuma e paevidentuar apo e pa- paguar tejkalon shumën 25.000 €.
-(2) Me dënim nga paragrafi 1 i këtij neni dënohet edhe kush në kundërshtim me ligjin e zbatueshme në lidhje me akcizën dhe taksën doganore, posedon, importon, eksporton apo transporton produkte pa- shenjë.
-(3) Kush lejon objektet të cilat janë nën kontrollin apo posedimin e tij apo të saj të shfrytëzohen për shitje, apo për punë të tjera, që lidhen me mallrat pa-shenjë, dënohet me gjobë prej më të paktën 5.000 Euro apo dënim me burgim deri në tri vjet.
-(4) Kush ndryshon, mbi shtyp, falsifikon apo sajon çfarëdo banderola të rrejshme, dënohet me gjobë deri 50.000 Euro apo dënimi me burgim deri në shtatë vjet.
-(5) Kush në kundërshtim me Rregulloren e UNMIK-ut nr. 2003/23 të datës 25 qershor 2003, të ndryshuar në Ligje të vendit, prodhon ose importon produkte të duhanit në Kosovë dhe i cili nuk posedon një licencë të vlefshme do të dënohet me gjobë e cila nuk mund ta kalojë dyfishin e vlerës së pagesës vjetore të licencës apo dënim me burgim deri në tre muaj.

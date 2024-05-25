@@ -1,0 +1,3 @@
+# Article 359
+1. Until twelve (12) months have elapsed from the date on which its entry for free circulation was accepted, personal property which has been admitted duty-free may not be lent, given as security, hired out or transferred, whether for a consideration or free of charge, without prior notification to the Customs.
+2. Any loan, giving as security, hiring out or transfer before the expiry of the period referred to in paragraph 1. of this Article shall entail payment of the relevant import duties on the property concerned, at the rate applying on the date of such loan, giving as security, hiring out or transfer, on the basis of the type of property and the customs value ascertained or accepted on that date by the Customs.

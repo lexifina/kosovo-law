@@ -1,0 +1,4 @@
+# Neni 434
+1. Mallrat e përcaktuara në nën-paragrafin 1.2 të nenit 429, pasi që nuk vazhdojnë të përdoren nga viktimat e fatkeqësive, nuk mund të huazohen, jepen në shfrytëzim apo barten, qoftë me pagesë apo pa pagesë, pa u njoftuar paraprakisht për këtë Dogana.
+2. Nëse mallrat huazohen, jepen në përdorim apo barten tek një organizatë që ka të drejtë të përfitoj nga lirimi në pajtim me nenin 429, ose, nëse është e përshtatshme, tek një organizatë që ka të drejtë të përfitoj nga lirimi në pajtim me nën-paragrafin 1.1 të nenit 416, lirimi do të vazhdojë të jepet me kusht që kjo organizatë i shfrytëzon mallrat për qëllime, për të cilat jepet e drejta për atë lirim.
+3. Në raste të tjera, huazimi, dhënia në përdorim apo bartja do t’i nënshtrohen pagesës paraprake të detyrimeve të importit, sipas normës që zbatohet në ditën e huazimit, dhënies në përdorim apo bartjes, në bazë të llojit të mallrave dhe vlerës doganore të vërtetuar apo pranuar në atë ditë nga Dogana.

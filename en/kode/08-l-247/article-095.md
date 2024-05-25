@@ -1,0 +1,7 @@
+# Article 95
+Customs supervision
+1. Goods brought into the Customs territory of the Republic of Kosovo shall, from the time of their entry, be subject to Customs supervision and may be subject to Customs controls. Where applicable, they shall be subject to such prohibitions and restrictions as are justified on grounds of, inter alia, public morality, public policy or public security, the protection of the health and life of humans, animals or plants, the protection of the environment, the protection of national treasures possessing artistic, historic or archaeological value and the protection of industrial or commercial property, including controls on drug precursors, goods infringing certain intellectual property rights and cash, as well as to the implementation of and management measures and of commercial policy measures.
+2. They shall remain under such supervision for as long as is necessary to determine their Customs status and shall not be removed there from without the permission of the Customs.
+3.Without prejudice to Article 171, Kosovo goods shall not be subject to Customs supervision once their Customs status is established.
+4. Non-Kosovo goods shall remain under Customs supervision until their Customs status is changed, or they are taken out of the Customs territory Republic of Kosovo or destroyed.
+5. The holder of goods under Customs supervision may, with the permission of the customs, at any time examine the goods or take samples, in particular in order to determine their tariff classification, Customs value or Customs status.

@@ -1,2 +1,0 @@
-# Article 138
-Where a customs debt is incurred in respect of goods in the unaltered state or of products that are at an intermediate stage of processing as compared with that provided for in the authorization, the amount of that debt shall be determined on the basis of the items of charge elements appropriate to the import goods at the time of acceptance of the declaration relating to the placing of the goods under the procedure for processing under customs control.

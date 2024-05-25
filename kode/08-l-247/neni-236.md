@@ -1,0 +1,10 @@
+# Neni 236
+Vendosja e banderolave fiskale në produkte te alkooli dhe pije alkoolike
+1.Me banderolën e Republikës së Kosovës, nëse kërkohet duhet të jenë të shënuar alkooli dhe pijet alkoolike që i nënshtrohen pagesës së akcizës në përputhje me legjislacionin ne fuqi që rregullojnë llogaritjen dhe pagesën e akcizës të importuar ose lëshuar në konsum në Republikën e Kosovës.
+2.Obliguesi akcizor i pijeve alkoolike para marrjes se banderolave të akcizës për shënjimin e tyre, duhet të jetë i regjistruar si obligues akcizor dhe i licencuar nga Dogana për import, eksport apo prodhim të pijeve alkoolike si dhe te deponoj instrumentin e sigurisë për pagesën e akcizës për produktet e alkoolit, nëse kërkohet nga Dogana.
+3.Obliguesit të akcizës të pijeve alkoolike, i cili nuk i ka përmbushur kushtet sipas paragrafit 2 të këtij neni, nuk do t’i lëshohen banderolat e akcizës për shënjimin e pijeve alkoolike.
+4.Produktet e përmendura në paragrafin 1 të këtij neni mund të vendosen në treg vetëm në shishe ose në ambalazhe të tjera të përshtatshme në përputhje me dispozitat e veçanta që rregullojnë vendosjen e tyre në treg.
+5.Banderola duhet të vendoset mbi kapakun në shishe në mënyrë që banderola të dëmtohet kur hapet.
+6.Prodhimi i paautorizuar i banderolave nga paragrafi 1 i këtij neni ose banderolave për pije alkoolike të vendeve të tjera ose shtypja e paautorizuar ose posedimi, ose vendosja e tyre në treg konsiderohet e paligjshme.
+7.Dëmtimi me dashje i banderolave të akcizës për etiketimin e produkteve të alkoolit të Republikës së Kosovës është i paligjshëm.
+8.Produktet akcizore në të cilat duhet te vendosen banderolat e akcizës, procedura e licencimit te subjekteve për import apo prodhim te pijeve alkoolike, forma e licencës, shenjat e banderolave të akcizës që etiketojnë produktet nga ky nen, mënyra e paraqitjes dhe përmbajtja e kërkesave për shtypjen, marrjen dhe lëshimin e banderolave të akcizës, mënyra e vendosjes se banderolës në produktin akcizor, trajtimi i banderolave, raportimi, mbajtja e evidencës dhe asgjësimi i tyre, përcaktohen me akt nënligjor të Ministrit përkatës të Financave.

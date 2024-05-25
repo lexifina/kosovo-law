@@ -1,0 +1,6 @@
+# Neni 97
+Mallrat të cilat janë larguar përkohësisht nga territori doganor i Republikës së Kosovës
+përmes transportit ajror
+1. Nenet 90 deri 94 nuk zbatohen në rastet kur mallrat jo kosovare sjellën në territorin doganor të Republikës së Kosovës pasi që përkohësisht janë larguar nga ai territor përmes ajrit ose janë bartur përmes një rruge të drejtpërdrejtë pa ndalesë jashtë territorit doganor të Republikës së Kosovës.
+2.Nenet 90 deri 94 nuk zbatohen në rastet kur mallrat kosovare, statusi i të cilave si mallra kosovare duhet të vërtetohet në përputhje me paragrafin 2 të nenit 109, sjellën në territorin doganor të Republikës së Kosovës pasi që përkohësisht janë larguar nga ai territor përmes ajrit ose janë bartur përmes një rruge të drejtpërdrejtë pa ndalim jashtë territorit doganor të Republikës së Kosovës.
+3.Nenet 90 deri 94, 99 dhe 100 nuk zbatohen në rastet kur mallrat kosovare që lëvizin pa ndryshuar statusin e tyre doganor në përputhje me paragrafin 2 të nenit 111 sjellën në territorin doganor të Republikës së Kosovës pasi që përkohësisht janë larguar nga ai territor përmes ajrit ose janë bartur përmes një rruge të drejtpërdrejtë pa ndalim jashtë territorit doganor të Republikës së Kosovës.

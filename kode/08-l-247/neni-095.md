@@ -1,0 +1,7 @@
+# Neni 95
+Mbikëqyrja doganore
+1. Mallrat që sjellën në territorin doganor të Republikës së Kosovës, nga momenti i hyrjes së tyre, i nënshtrohen mbikëqyrjes doganore dhe mund të jenë objekt i kontrolleve doganore. Atëherë kur është e zbatueshme, mallrat janë objekt i ndalesave dhe kufizimeve të atilla që arsyetohen me mbrojtjen e moralit shoqëror, rendit publik ose sigurisë publike, mbrojtjes së shëndetit dhe jetës së njerëzve, kafshëve apo bimëve, mbrojtjes së mjedisit, mbrojtjes së pasurive kombëtare me vlerë artistike, historike apo arkeologjike dhe mbrojtjes së pronësisë industriale ose tregtare. Këto ndalesa dhe kufizime përfshijnë edhe kontrollin e prekursorëve, mallrave që shkelin të drejtat e caktuara pronësisë intelektuale dhe të hollave, si edhe zbatimin e masave mbrojtëse dhe masat e politikës tregtare.
+2. Ato mbeten nën një mbikëqyrje të tillë për aq kohë sa të jetë e nevojshme për t’u përcaktuar statusi i tyre doganor dhe nuk duhet të largohen nga mbikëqyrja doganore pa lejen e Doganës.
+3.Pavarësisht zbatimit të nenit 171, mallrat kosovare nuk i nënshtrohen mbikëqyrjes doganore pas përcaktimit të statusit të tyre doganor.
+4.Mallrat jo kosovare mbeten nën mbikëqyrje doganore derisa ato ndryshojnë statusin e tyre doganor ose ato largohen nga territori doganor i Republikës së Kosovës ose shkatërrohen.
+5.Mbajtësi i mallrave nën mbikëqyrje doganore me lejen e doganës, mund në çdo kohë, të ekzaminoj mallrat ose të marrë mostra, në veçanti, për të përcaktuar klasifikimin e tyre tarifor, vlerën doganore ose statusin doganor.

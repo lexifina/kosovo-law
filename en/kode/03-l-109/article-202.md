@@ -1,6 +1,0 @@
-# Article 202
-1. A customs debt on importation shall be incurred through the consumption or use, in a free zone or a free warehouse, of goods liable to import duties, under conditions other than those lay down by the legislation in force.
-Where goods disappear and where their disappearance cannot be explained to the satisfaction of the Customs, Customs may regard the goods as having been consumed or used in the free zone or the free warehouse.
-2. The debt shall be incurred at the moment when the goods are consumed or are first used under conditions other than those laid down by the legislation in force.
-3. The debtor shall be the person who consumed or used the goods and any persons who participated in such consumption or use and who were aware or should reasonably have been aware that the goods were being consumed or used under conditions other than those laid down by the legislation in force.
-4. Where Customs regard goods which have disappeared as having been consumed or used in the free zone or the free warehouse and it is not possible to apply the preceding paragraph, the person liable for payment of the customs debt shall be the last person known to these authorities to have been in possession of the goods.

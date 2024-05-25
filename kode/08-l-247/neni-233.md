@@ -1,0 +1,5 @@
+# Neni 233
+Sigurimi i mbledhjes së akcizës
+1.Nëse ekziston mundësia që obliguesi akcizor ose garantuesi i akcizës do të pengojë mbledhjen e akcizës, duke përfshirë mbledhjen e shumës ende të papaguar dhe të pacaktuar të shumës së akcizës, dhe nëse obliguesi akcizor nuk mban evidenca ose mban evidenca në mënyrë jo të plotë ose nuk dorëzon raportet e përcaktuara me këtë Kod, mund të ndërmerren masat e sigurimit të arkëtimit të akcizës.
+2.Masat e sigurimit të mbledhjes përcaktohen me vendim dhe konsistojnë në ndalimin e disponimit të mjeteve në xhirollogarinë ose në llogari të tjera të personave nga paragrafi 1 i këtij neni, në listën e sendeve të luajtshme, kërkesave dhe të drejtave të tjera pronësore, ndalimin e posedimit të kërkesave, konfiskimin e sendeve të luajtshme dhe regjistrimin e hipotekës mbi pasurinë e paluajtshme.
+3.Konfiskimi me qëllim të sigurimit të arkëtimit mund të shtyhet ose pezullohet nëse personat e përmendur në paragrafin 1 të këtij neni ose personat tjerë në emër të tyre, paraqesin mjete të përshtatshme sigurie.

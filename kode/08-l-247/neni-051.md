@@ -1,0 +1,15 @@
+# Neni 51
+Borxhi doganor i lindur nëpërmjet mos përmbushjes
+1.Për mallrat që u nënshtrohen detyrimeve të importit, një borxh doganor në import lind nëpërmjet mos përmbushjes së:
+1.1.një prej obligimeve të përcaktuara në legjislacionin doganor, në lidhje me futjen e mallrave jo kosovare në territorin doganor, shmangien e tyre nga mbikëqyrja doganore ose lëvizjen, përpunimin, strehimin, strehimin e përkohshëm, importin e përkohshëm ose disponimin e mallrave të tilla brenda këtij territori;
+1.2.një prej obligimeve të përcaktuara në legjislacionin doganor, që ka të bëjë me përdorimin e veçantë përfundimtar të mallrave brenda territorit doganor;
+1.3. një kusht që rregullon vendosjen e mallrave jo kosovare nën një procedurë doganore ose lejimin, për shkak të përdorimit të veçantë përfundimtar të mallrave, të përjashtimit të detyrimit ose normës së reduktuar të detyrimit të importit.
+2.Koha në të cilin lind borxhi doganor është si në vijim:
+2.1.momenti kur obligimi, mos-përmbushja e të cilit sjell lindjen e borxhit doganor, nuk plotësohet ose pushon së plotësuari;
+2.2.momenti kur pranohet një deklaratë doganore për vendosjen e mallrave nën një procedurë doganore kur për të cilën më pas konstatohet që kushti që rregullon vendosjen e mallrave nën atë procedurë ose lejimi i një përjashtimi nga detyrimi ose norma e reduktuar e importit për shkak të përdorimit të veçantë përfundimtar, faktikisht nuk është përmbushur.
+3.Në rastet e përmendura në nën paragrafin 1.1. dhe 1.2. të këtij neni, debitor është:
+3.1.çdo person të cilit i është kërkuar plotësimi i obligimeve përkatëse;
+3.2.çdo person, i cili ishte në dijeni ose objektivisht duhej të ishte në dijeni që nuk është përmbushur një obligim sipas legjislacionit doganor dhe që ka vepruar në emër të personit, i cili ishte i detyruar të përmbushte obligimin ose ka marrë pjesë në veprimin që solli mos përmbushjen e obligimit;
+3.3.çdo person i cili ka blerë ose mbajtur mallrat në fjalë dhe i cili ishte në dijeni ose objektivisht duhej të ishte në dijeni në momentin e blerjes ose pranimit të mallrave që obligimi sipas legjislacionit doganor, nuk ishte përmbushur.
+4.Në rastin e përcaktuar në nën-paragrafin 1.3. të këtij neni, debitor është personi, të cilit i kërkohet të përmbushë kushtet që rregullojnë vendosjen e mallrave nën një procedurë doganore ose deklarimin doganor të mallrave nën atë procedurë doganore, apo lejimin e përjashtimit nga detyrimi apo normës se reduktuar nga detyrimet e importit për shkak të përdorimit të veçantë përfundimtar të mallrave.
+5.Kur një deklaratë doganore për një nga procedurat doganore nga nën-paragrafi 1.3. i këtij neni, dhe çdo informacion i kërkuar sipas legjislacionit doganor në lidhje me kushtet që vendosin mallrat nën atë procedurë doganore, që i është dhënë Doganës, që shkakton mos-mbledhjen e të gjithave ose të një pjesë të detyrimeve të importit, personi, i cili jep këtë informacion për përpilimin e deklaratës dhe i cili ishte në dijeni ose objektivisht duhej të ishte në dijeni, që një informacion i tillë ishte i pavërtetë, gjithashtu është debitor.

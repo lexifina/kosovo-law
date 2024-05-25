@@ -1,7 +1,0 @@
-# Neni 268
-Kompetencat për të kontrolluar mjetet lundruese, mjetet ajrore dhe automjetet etj.
-1 Secili oficer mund të ndalojë dhe të hyjë në: (a) bordin e çfarëdo mjeti lundrues që gjendet në ujëra, që lidhen me një zonë jashtë Kosovës; (b) çfarëdo mjeti ajror që gjendet në një aeroport dhe (c) çfarëdo automjeti si dhe mundet të qëndrojë brenda dhe të kontrollojë çfarëdo pjese të tij.
-2. Kur ndalet dhe kontrollohet një mjet lundrues, mjet ajror apo automjet sipas këtij neni, oficeri duhet t’ia tregojë kartelën e tij identifikuese personit përgjegjës për atë mjet lundrues, mjet ajror apo automjet.
-3. Nëse, pas kërkesës së bëre nga oficeri, personi përgjegjës për mjetin lundrues, mjetin ajror apo automjetin refuzon për t’u ndalur apo për të lejuar kontrollin, ai do t’i nënshtrohet një gjobe administrative prej 500€ deri 10,000 €, ndërsa mjeti lundrues, mjeti ajror apo automjeti i nënshtrohet ndaljes dhe konfiskimit.
-4. Mallrat e ndaluara apo të kufizuara apo mallrat për të cilat nuk janë paguar detyrimet apo taksat e duhura, të cilat gjenden të fshehura në bordin e një mjeti lundrues, mjeti ajror apo automjeti si rezultat i një kontrolli të ushtruar në të, do t’i nënshtrohen ndaljes dhe konfiskimit.
-5. Mjetet lundruese, mjetet ajrore apo automjetet të cilat pas kontrollit të ushtruar në to zbulohet se janë përshtatur për të fshehur mallra të ndaluara apo të kufizuara, apo mallra për të cilat nuk janë paguar detyrimet dhe taksat e duhura, do t’i nënshtrohen ndaljes dhe konfiskimit.

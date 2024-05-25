@@ -1,0 +1,2 @@
+# Article 390
+Subject to Article 391, seeds, fertilizers and products for treatment of soil and crops, intended for use on property located in the customs territory of the Republic of Kosovo adjoining other country and operated by agricultural producers having their principal undertaking within the said other country and adjacent to the customs territory of the Republic of Kosovo, shall be admitted free of import duties.

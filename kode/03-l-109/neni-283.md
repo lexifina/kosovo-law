@@ -1,4 +1,0 @@
-# Neni 283
-1. Mjeti bartës apo transportues, hapësirat e fshehta, të cilit janë shfrytëzuar për bartjen, përkatësisht transportimin e mallit, në territorin e Kosovës dhe është objekt i kundërvajtjes nga neni 275 dhe 276 të këtij Kodi, mund të konfiskohet, nëse vlera e mallit që është objekt i kundërvajtjeve e tejkalon një te treten e vlerës së automjetit bartës apo transportues.
-2. Mjeti bartës apo transportues, i cili është përdor për bartjen e mallit nga neni 275 dhe 276 të këtij Kodi ose mjeti bartës apo transportues, në të cilin është krijuar hapësire e veçantë për fshehjen e mallit, mund të konfiskohet edhe nëse vlera e mallit nuk e tejkalon 1/3 e vlerës së automjetit.
-3. Mjeti bartës apo transportues mund të konfiskohet edhe në qoftë se nuk është pronë e kryesit të kundërvajtjes, në qoftë se pronari i tij e ka ditur apo ka mund të dijë se ai është përdor për kryerjen e kundërvajtjes nga neni 275. ose 276. të këtij Kodi.

@@ -1,0 +1,3 @@
+# Neni 360
+1.Përjashtimit nga paragrafi 1 i nenit 358, lirimi mund të lejohet për pronën private të vendosur në qarkullim të lirë para se personi përkatës të ketë vendosur vendbanim e tij të zakonshëm në territorin doganor të Republikës së Kosovës, me kusht që deklarohet që do të vendoset këtu brenda një periudhe prej gjashtë (6) muaj. Një akt i tillë shoqërohet me një garancion, forma dhe shuma e të cilit përcaktohet nga Dogana.
+2.Kur zbatohen dispozitat e paragrafit 1 të këtij neni, periudha e përcaktuar në nën-paragrafin 1.1 të nenit 355 llogaritet nga data në të cilën prona private është sjellë në territorin doganor të Republikës së Kosovës.

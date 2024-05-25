@@ -1,0 +1,5 @@
+# Neni 428
+1. Institucionet apo organizatat e përmendura në nenin 422 dhe 423, të cilat ndërpresin përmbushjen e kushteve për fitimin e drejtës për lirim nga detyrimet e importit, apo të cilat propozojnë që t’i shfrytëzojnë artikujt e liruar nga detyrimet e importit për qëllime tjera nga ato që parashihen nga ato nene, duhet të njoftojnë për këtë Doganën.
+2. Artikujt që mbeten në posedim të institucioneve apo organizatave të cilat ndërpresin përmbushjen e kushteve për fitimin e të drejtës në lirim, i nënshtrohen detyrimeve përkatëse të importit në normën që zbatohet në datën kur është ndërprerë përmbushja e kushteve, në bazë të llojit të mallrave dhe vlerës doganore, të vërtetuar apo të pranuar në atë datë nga Dogana.
+3. Artikujt e shfrytëzuar nga institucioni apo organizata përfituese nga lirimi për qëllime tjera nga ato të parapara në nenet 422 dhe 423 i nënshtrohen detyrimeve përkatëse të importit sipas normës që zbatohet në datën kur ato shfrytëzohen për qëllime tjetër, në bazë të llojit të mallrave dhe vlerës doganore të vërtetuar apo të pranuar në atë datë nga Dogana.
+NËNKAPITULLI III PËR PËRFITIM TË VIKTIMAVE TË FATKEQËSIVE

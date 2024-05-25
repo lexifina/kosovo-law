@@ -1,2 +1,0 @@
-# Neni 21
-Çdo informacion i cili është i natyrës konfidenciale apo që është dhënë në bazë të konfidencës, do të mbrohet nga detyrimi për ruajtjen e sekretit profesional. Këto lloj informacionesh nuk jepen nga Dogana, pa lejen e shprehur qartë të personit ose të organit që i jep ato; dhënia e informacionit lejohet vetëm atëherë kur Dogana është e obliguar ose e autorizuar të bëjë një gjë të tillë, sipas dispozitave në fuqi, posaçërisht për sa i përket mbrojtjes së të dhënave apo në lidhje me procedura juridike.

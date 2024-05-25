@@ -1,2 +1,0 @@
-# Article 133
-The procedure for processing under customs control shall allow non- Kosovo goods to be used in Kosovo in operations which alter their nature or state, without their being subject to import duties or commercial policy measures, and shall allow the products resulting from such operations to be released for free circulation at the rate of import duty appropriate to them. Such products shall be termed processed products.

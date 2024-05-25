@@ -1,0 +1,3 @@
+# Neni 455
+1.Me përjashtim kur zbatohet paragrafi 1 i nenit 454, produktet që mbesin me përfundimin e ekzaminimit, analizës apo testimit të përmendur me nenin 450 janë objekt i detyrimeve përkatëse të importit sipas normës që zbatohet në datën e përfundimit të kontrollimit, analizës apo testimit, në bazë të llojit të mallrave dhe vlerës doganore të vërtetuar ose pranuar në atë ditë nga Dogana.
+2.Megjithatë, pala e interesuar mund, me marrëveshje dhe nën mbikëqyrjen e Doganës, t’i shndërrojë produktet e mbetura në mbeturinë ose skrap. Në këtë rast, detyrimet e importit do të jenë ato që zbatohen për ato mbeturina ose skrap në momentin e shndërrimit.

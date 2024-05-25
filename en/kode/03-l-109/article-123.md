@@ -1,3 +1,0 @@
-# Article 123
-1. The Customs shall set either the rate of yield of the operation or where appropriate, the method of determining such rate. The rate of yield shall be determined on the basis of the actual circumstances in which the processing operation is, or is to be, carried out.
-2. Where circumstances so warrant and, in particular, in the case of processing operation customarily carried out under clearly defined technical conditions involving goods of substantially uniform characteristics and resulting in the production of compensating products of uniform quality, standard rates of yield may be set in the Administrative Instruction implementing this Code on the basis of actual data previously ascertained.

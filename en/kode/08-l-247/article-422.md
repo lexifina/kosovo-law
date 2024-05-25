@@ -1,0 +1,6 @@
+# Article 422
+1. Articles specially designed for the educational, scientific or cultural advancement of blind persons, as specified in Annex IV of sublegal act for implementing this Article, shall be admitted free of import duties provided that they are imported by either:
+1.1. blind persons themselves for their own use; or
+1.2. institutions or organizations concerned with the education of or the provision of assistance to the blind, authorized by the competent authorities of the Republic of Kosovo to receive such Articles duty free.
+2. The relief referred to in paragraph 1. of this Article shall apply to spare parts, components or accessories specifically for the Articles in question, and to the tools to be used for the maintenance, checking, calibration or repair of the said Articles, provided that such spare parts, components, accessories or tools are imported at the same time as the said Articles or, if imported subsequently, that they can be identified as being intended for Articles previously admitted duty-free, or which would be entitled to relief at the time when such relief is requested for the specific spare parts, components or accessories and tools in question.
+II. ARTICLES FOR THE USE OF OTHER PERSONS WITH DISABILITIES

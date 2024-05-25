@@ -1,0 +1,4 @@
+# Article 419
+1. The organization benefiting from the relief may not lend, hire out or transfer, whether for a consideration or free of charge, the goods and equipment referred to in Article 416 for purposes other than those laid down in sub-paragraph 1.1 and 1.2 of that Article without prior notification to Customs.
+2. Should goods and equipment be lent, hired out or transferred to an organization entitled to benefit from relief pursuant to Articles 416 and 418, the relief shall continue to be granted provided the latter uses the goods and equipment for purposes which confer the right to such relief.
+3. In other cases, loan, hiring out or transfer shall be subject to prior payment of import duties, at the rate applying on the date of the loan, hiring out or transfer, on the basis of the type of goods or equipment and the customs value ascertained or accepted on that date by the Customs.

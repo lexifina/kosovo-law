@@ -1,0 +1,3 @@
+# Neni 367
+1.Mallrat që janë liruar nga detyrimet e importit sipas nenit 363 nuk mund të huazohen, të jepen si garanci, të jepen në shfrytëzim apo të barten, qoftë me pagesë ose pa pagesë, brenda afatit prej dymbëdhjetë (12) muaj nga data në të cilën është pranuar lëshimi i tyre për qarkullim të lirë, pa e njoftuar paraprakisht Doganën.
+2.Çfarëdo huazimi, dhënie si garanci, dhënie në shfrytëzim apo bartje para skadimit të afatit të përmendur në paragrafin 1 të këtij neni, shkakton pagesën e detyrimeve përkatëse të importit për mallrat përkatëse, në normën që i përgjigjet datës kur është bërë huazimi, dhënia si garanci, dhënia në shfrytëzim apo bartja e tillë, në bazë të llojit të mallrave dhe vlerës doganore të përcaktuar apo pranuar në atë datë nga Dogana.

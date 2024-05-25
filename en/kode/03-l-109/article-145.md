@@ -1,3 +1,0 @@
-# Article 145
-1. Use of the temporary importation procedure with partial relief from import duties shall be granted in respect of goods which are not covered by the provisions adopted in accordance with Article 144 or which are covered by such provisions but do not fulfill all the conditions laid down therein for the grant of temporary importation with total relief.
-2. The list of goods in respect of which the temporary importation procedure with partial relief from import duties may not be used and the conditions subject to which the procedure may be used shall be determined in the Administrative Instruction implementing this Code.

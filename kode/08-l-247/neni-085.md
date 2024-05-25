@@ -1,0 +1,10 @@
+# Neni 85
+Gabimet e Doganës
+1. Përjashtimisht nga rastet e përmendura në paragrafin 2 të nenit 82 dhe në nenet 83, 84 dhe 86, shuma e detyrimit të importit ose eksportit kthehet ose shlyhet kur, si rezultat i gabimit nga Dogana, shuma që i korrespondon borxhit doganor të njoftuar fillimisht, ishte më e ulët se shuma që duhet paguar, me kusht që të përmbushen kushtet si ne vijim:
+1.1.debitori në mënyrë të arsyeshme nuk ka mundur të vërej gabimin; dhe
+1.2.debitori ka vepruar në mirëbesim.
+2.Kur nuk përmbushen kushtet e paragrafit 2 të nenit 83, kthimi ose shlyerja miratohen kur mos aplikimi i tarifës zero ose të reduktuar ka ardhur si rezultat i një gabimi nga ana e Doganës dhe kur deklarata doganore për lëshim për qarkullim të lirë përmban të gjitha detajet dhe është e shoqëruar me të gjitha dokumentet për aplikimin e një tarife të reduktuar ose zero.
+3.Kur trajtimi preferencial i mallrave miratohet në një sistem të bashkëpunimit administrativ që përfshin autoritetet e një vendi ose territori jashtë territorit doganor të Republikës së Kosovës, lëshimi i një certifikate nga këto autoritete, nëse rezulton që është e pasaktë, përbën një gabim i cili nuk ka mundur të zbulohet në mënyrë të arsyeshme, sipas kuptimit të nën paragrafit 1.1 të këtij neni.
+4.Lëshimi i një certifikate të pasaktë, megjithatë, nuk përbën gabim, kur certifikata mbështetet në fakte jo të sakta të dhëna nga eksportuesi, përveç kur është evidente që autoritetet lëshuese të certifikatës ishin në dijeni ose duhej të ishin në dijeni se mallrat nuk plotësojnë kushtet e përcaktuara për dhënien e trajtimit preferencial.
+5.Debitori konsiderohet në mirëbesim nëse ai ose ajo mund të provoj që brenda periudhës kohore të veprimeve tregtare përkatëse, ai ose ajo ka treguar kujdesin e duhur për të garantuar përmbushjen e të gjitha kushteve të trajtimit preferencial.
+6.Debitori nuk mund të arsyetohet me faktin se ka qenë në mirëbesim nëse është publikuar në Gazetën Zyrtare njoftimi që tregon se ka bazë për dyshime që kanë të bëjnë me zbatimin e duhur të marrëveshjeve preferenciale nga vendi ose territori përfitues.

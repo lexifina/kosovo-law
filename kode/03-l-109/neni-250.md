@@ -1,7 +1,0 @@
-## KAPITULLI 4
-## Kontrolli i personave dhe mallrave
-# Neni 250
-Kontrolli i personave dhe i mallrave të tyre, në hyrje apo dalje nga Kosova
-1. Çdo person që hyn në Kosovë, në vendin dhe mënyrën e caktuar nga Dogana apo Drejtori gjeneral pas konsultimit me Ministrin e Ekonomisë dhe Financave,nëpërmjet një Udhëzimi Administrativ, duhet të deklarojë çdo gjësend që i përmban bagazhi i tij apo që i bart me vete, të cilat: (a) ai i ka marrë jashtë Kosovës ose, (b) duke qenë mallra që i nënshtrohen pagesës së detyrimeve apo taksave në Kosovë, ai i ka marrë në Kosovë pa paguar të gjitha apo një pjesë të atyre detyrimeve apo taksave dhe, për të cilat ai nuk ka të drejtë në lirim, nga detyrimet dhe taksat, sipas dispozitave ligjore në fuqi.
-2. Çdo person i cili hyn apo del nga Kosova, duhet t’iu përgjigjet pyetjeve që i parashtrohen nga një oficer, në lidhje me bagazhin e tij dhe me gjerat që gjenden aty apo që i bart me vete, si dhe duhet, nëse kërkohet nga oficeri, të paraqesë bagazhin dhe këto gjësende për ekzaminim, në vendin dhe mënyrën e caktuar nga Dogana, sipas këtij Kodi.
-3. Personi që nuk deklaron ndonjë gjësend apo nuk paraqet për kontroll ndonjë bagazh apo gjësend, siç kërkohet nga ky seksion, do t’i nënshtrohet një gjobe administrative, deri në pesëfishin e vlerës së detyrimit, që duhet paguar për gjësendin e padeklaruar ose për bagazhin apo gjësendin, që nuk është paraqitur për kontroll, varësisht nga rasti dhe se, bagazhi apo ai gjësend do t’i nënshtrohen ndaljes dhe konfiskimit.

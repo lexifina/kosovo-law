@@ -1,0 +1,4 @@
+# Article 426
+1. Articles imported duty-free by the persons referred to in Articles 422, 423 and 425 may not be lent, hired out or transferred, whether for a consideration or free of charge, without prior notification thereof to the Customs.
+2. Should an Article be lent, hired out or transferred to a person, institution or organization entitled to benefit from relief pursuant to Articles 422, 423 and 425, the relief shall continue to be granted provided the person, institution or organization uses the Article for purposes which confer the right of such relief.
+3. In other cases, loan, hiring out or transfer shall be subject to prior payment of import duties, at the rate applying on the date of the loan, hiring out or transfer, on the basis of the type of goods or equipment and the customs value ascertained or accepted on that date by Customs.

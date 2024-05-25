@@ -1,2 +1,0 @@
-# Article 85
-Where a consignment is made up of goods falling within different tariff classifications, and dealing with each of those goods in accordance with its tariff classification for the purpose of drawing up the declaration would entail a burden of work and expense disproportionate to the import duties chargeable, the Customs may, at the request of the declarant, agree that import duties be charged on the whole consignment on the basis of the tariff classification of the goods which are subject to the highest rate of import duty.

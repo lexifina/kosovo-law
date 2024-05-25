@@ -1,0 +1,9 @@
+# Neni 176
+Fusha e zbatimit
+1.Nën procedurën e përpunimit të jashtëm, mallrat kosovare mund të eksportohen përkohësisht nga territori doganor i Republikës së Kosovës për të iu nënshtruar operacioneve të përpunimit. Produktet e përpunuara që rezultojnë nga këto mallra mund të lëshohen në qarkullim të lirë me lirim të plotë ose të pjesshëm nga detyrimi i importit kundrejt një aplikimi nga mbajtësi i autorizimit ose nga çdo person tjetër i vendosur në territorin doganor të Republikës së Kosovës, me kusht që ky person të ketë marrë miratimin e mbajtësit të autorizimit dhe kushtet e autorizimit të jenë përmbushur.
+2.Përpunimi i jashtëm nuk lejohet për mallrat e mëposhtme:
+2.1.mallrat, eksporti i të cilave krijon kthim ose shlyerje të detyrimit të importit;
+2.2.mallrat, të cilat, para eksportimit, ishin lëshuar në qarkullim të lirë me një përjashtim të detyrimit ose reduktim të nivelit të detyrimit për shkak të përdorimit të tyre të veçantë përfundimtar dhe nëse qëllimet e përdorimit të veçantë përfundimtar nuk janë përmbushur, përveçse kur këto mallra duhet të u nënshtrohen operacioneve të riparimit;
+2.3.mallrat, eksporti i të cilave shpien në pagesën e subvencioneve të eksportit;
+2.4.mallrat, për të cilat është dhënë një përparësi financiare e ndryshme nga shuma e kthyer sipas nën paragrafit 2.3 të këtij neni, në kuadër të politikës bujqësore për shkak të eksportimit të tyre;
+3.Dogana përcakton afatin kohor, brenda të cilit mallrat e eksportuara përkohësisht duhet të riimportohen në territorin doganor të Republikës së Kosovës në formën e produkteve të përpunuara dhe të lëshohen në qarkullim të lirë, në mënyrë që të mundësohet përfitimi nga lirimi i plotë ose i pjesshëm nga detyrimi i importit. Dogana mund ta shtyj afatin kohor, për një kohëzgjatje të arsyeshme, në bazë të aplikimit te arsyetuar nga mbajtësi i autorizimit.

@@ -1,3 +1,0 @@
-# Neni 125
-1. Pa rënë ndesh me nenin 126, kur lind një borxh doganor, shuma e këtij borxhi përcaktohet në bazë të elementeve të taksimit për mallrat e importit, në datën e pranimit të deklaratës për vendosjen e këtyre mallrave nën procedurën e përpunimit të brendshëm.
-2. Nëse, në datën e përmendur në paragrafin 1 mallrat e importit i plotësojnë kushtet e përcaktuara për përfitimin e trajtimit tarifor preferencial brenda kuotave ose kufijve tarifor, ato përfitojnë çdo trajtim tarifor preferencial për mallra identike që është në fuqi në datën e pranimit të deklaratës për vendosjes në qarkullim të lirë.

@@ -1,3 +1,0 @@
-# Article 86
-1. Where goods are released for free circulation at a reduced or zero rate of duty on account of their end-use, they shall remain under customs supervision. Customs supervision shall end when the conditions laid down for granting such a reduced or zero rate of duty cease to apply, where the goods are exported or destroyed or where the use of the goods for purposes other than those laid down for the application of the reduced or zero rate of duty is permitted subject to payment of the duties due.
-2. Articles 93 and 95 shall, with the necessary changes, apply to the goods referred to in paragraph 1.

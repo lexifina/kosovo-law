@@ -1,0 +1,15 @@
+# Article 51
+Customs debt incurred through non-compliance
+1. For goods liable to import duty, a Customs debt on import shall be incurred through non-compliance with any of the following:
+1.1. one of the obligations laid down in the Customs legislation concerning the introduction of non-Kosovo goods into the Customs territory, their removal from Customs supervision, or the movement, processing, storage, temporary storage, temporary admission or disposal of such goods within that territory;
+1.2. one of the obligations laid down in the Customs legislation concerning the end-use of goods within the Customs territory of the Republic of Kosovo;
+1.3. a condition governing the placing of non-Kosovo goods under a Customs procedure or the granting, by virtue of the end-use of the goods, of duty exemption or a reduced rate of import duty.
+2. The time at which the Customs debt is incurred shall be either of the following:
+2.1. the moment when the obligation the non-fulfilment of which gives rise to the Customs debt is not met or ceases to be met;
+2.2. the moment when a Customs declaration is accepted for the placing of goods under a Customs procedure where it is established subsequently that a condition governing the placing of the goods under that procedure or the granting of a duty exemption or a reduced rate of import duty by virtue of the end-use of the goods was not in fact fulfilled.
+3. In cases referred of sub paragraph 1.1 and 1.2 of this Article, the debtor shall be any of the following:
+3.1. any person who was required to fulfil the obligations concerned;
+3.2. any person who was aware or should reasonably have been aware that an obligation under the customs legislation was not fulfilled and who acted on behalf of the person who was obliged to fulfil the obligation, or who participated in the act which led to the non-fulfilment of the obligation;
+3.3. any person who acquired or held the goods in question and who was aware or should reasonably have been aware at the time of acquiring or receiving the goods that an obligation under the customs legislation was not fulfilled.
+4. In cases referred to under subparagraphs 1.3. of this Article, the debtor shall be the person who is required to comply with the conditions governing the placing of the goods under a customs procedure or the customs declaration of the goods placed under that Customs procedure or the granting of a duty exemption or reduced rate of import duty by virtue of the end-use of the goods.
+5. Where a customs declaration in respect of one of the Customs procedures referred to subparagraphs 1.3. of this Article, and any information required under the customs legislation relating to the conditions governing the placing of the goods under that customs procedure is given to the customs, which leads to all or part of the import duty not being collected, the person who provided the information required to draw up the Customs declaration and who knew, or who ought reasonably to have known, that such information was false shall also be a debtor.

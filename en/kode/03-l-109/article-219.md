@@ -1,6 +1,0 @@
-# Article 219
-1. As soon as it has been entered in the accounts, the amount of duty shall be communicated to the debtor in accordance with appropriate procedures.
-2. Where the amount of duty payable has been entered, for guidance, in the customs declaration, the Customs may specify that it shall not be communicated in accordance with paragraph 1 unless the amount of duty indicated does not correspond to the amount determined by the authorities.
-Without prejudice to the application of the second subparagraph of Article 216 (1), where use is made of the possibility provided for in the preceding subparagraph, release of the goods by the Customs shall be equivalent to communication to the debtor of the amount of duty entered in the accounts.
-3. Communication to the debtor shall not take place after the expiry of a period of three years from the date on which the customs debt was incurred. This period shall be suspended from the time an appeal within the meaning of Article 292 is lodged, for the duration of the appeal proceedings.
-4. Where the customs debt is the result of an act which, at the time it was committed, was liable to give rise to criminal court proceedings, the amount may, under the conditions set out in the provisions in force, be communicated to the debtor after the expiry of the three-year period referred to in paragraph 3.

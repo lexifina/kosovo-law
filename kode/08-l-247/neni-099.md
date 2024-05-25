@@ -1,0 +1,16 @@
+# Neni 99
+Paraqitja e mallrave në doganë
+1. Mallrat e sjella në territorin doganor të Republikës së Kosovës paraqiten në Doganë menjëherë pas arritjes së tyre në zyrën doganore të caktuar ose në çdo vend tjetër të caktuar apo miratuar nga Dogana ose në zonë të lirë nga një prej personave të mëposhtëm:
+1.1. personi i cili sjellë mallrat në territorin doganor të Republikës së Kosovës;
+1.2. personi në emër dhe për llogari të cilit vepron personi që sjellë mallrat në territorin doganor;
+1.3. personi i cili merr përgjegjësi për transportimin e mallrave, pasi ato sjellën në territorin doganor të Republikës së Kosovës.
+2. Mallrat e sjella në territorin doganor të Republikës së Kosovës në rrugë ajrore dhe që për qëllime transporti mbeten në të njëjtin mjet transporti, do të paraqiten në Doganë vetëm në aeroportin në të cilin janë shkarkuar ose transborduar. Megjithatë, mallrat e sjella në territorin doganor të Republikës së Kosovës dhe që shkarkohen dhe ringarkohen në të njëjtin mjet transporti gjatë itinerarit në fjalë, me qellim për të mundësuar shkarkimin ose ngarkimin e mallrave të tjera, nuk i paraqiten Doganës në atë aeroport.
+3. Pavarësisht nga detyrimet e personit të përmendur në paragrafin 1 të këtij neni, paraqitja e mallrave mund të kryhet edhe nga një prej personave të mëposhtëm:
+3.1. çdo person, i cili i vendos menjëherë mallrat nën një procedurë doganore;
+3.2. mbajtësi i një autorizimi për drejtimin e ambienteve të strehimit ose çdo person, i cili kryen një aktivitet në një zonë të lirë.
+4. Personi që paraqet mallrat i referohet deklaratës përmbledhëse të hyrjes ose, në rastet e parashikuara në nenin 93, deklaratës doganore ose deklaratës për strehim të përkohshëm që është depozituar për këto mallra, përveç kur depozitimi i një deklarate përmbledhëse të hyrjes nuk kërkohet.
+5. Kur mallrat jo kosovare të paraqitura në Doganë nuk janë të mbuluara nga një deklaratë përmbledhëse e hyrjes dhe përveç kur nuk kërkohet depozitimi i një deklarate të tillë, një nga personat e përcaktuar në paragrafin 5 të nenit 90, pavarësisht zbatimit të paragrafit 7 të nenit 90, depoziton menjëherë atë deklaratë ose, nëse lejohet nga Dogana, në vend të saj një deklaratë doganore ose deklaratë për strehim të përkohshëm. Kur, në këto rrethana, një deklaratë doganore ose deklaratë për strehim të përkohshëm depozitohet, deklarata përmban së paku të dhënat e nevojshme për deklaratë përmbledhëse të hyrjes.
+6. Paragrafi 1 i këtij neni nuk përjashton zbatimin e rregullave të veçanta për sa u përket mallrave të transportuara në zonat kufitare ose në tubacione apo kabllo, si dhe përmes trafikut me rëndësi të papërfillshme ekonomike, siç janë letrat, kartolinat dhe materialet e printuara dhe ekuivalentët e tyre elektronikë ose mallrave të transportuara nga udhëtarët, me kusht që mbikëqyrja doganore dhe mundësitë e kontrollit doganor nuk rrezikohen.
+7. Mallrat e paraqitura në Doganë nuk mund të largohen nga vendi ku ato janë paraqitur pa lejen e Doganës.
+8. Kushtet për miratimin e vendeve të përmendura në paragrafin 1 të këtij neni përcaktohen me akt nënligjor të Qeverisë i me propozim të ministrisë përgjegjëse për financa.
+9. Rregullat procedurale për paraqitjen e mallrave në Doganë sipas këtij neni, përcaktohen me akt nënligjor të Ministrit përkatës për Financa.

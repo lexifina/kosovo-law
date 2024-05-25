@@ -1,0 +1,8 @@
+# Article 297
+Prohibition of activity taking place in the media
+1. When the circumstances of the case so require, Customs may prevent further illegal behaviour of the natural and legal person, intermediates or publishes a print advertisement, television, radio, internet and other media or advertising notices in any other available way for the public, issuing a written order by which the publication of advertisement and all other activities aiming the public announcement are temporarily restricted or prohibited.
+2. In view of this Article, an illegal behaviour is considered committing or participating in committing an unregistered activity in the meaning of provisions regulating the prohibition and prevention of unregistered activity and sale advertisement or other possession of customs goods in contrary to the terms, prohibitions and restrictions as per the legislation in force.
+3. The order from paragraph 1. of this Article is executed with the relevant application of Article 296 and other relevant actions proportionally, with the purpose of rendering impossible and preventing the illegal behaviour.
+4. An appeal against this order in paragraph 1. of this Article may be submitted which doesn’t suspend its execution.
+5. The order from this Article shall last until the cause removal for which it was taken, not later than thirty (30) days from the day the order is brought.
+6. After the deadline of the term referred to in paragraph 5. of this Article, Customs issues a decision determining the legal conditions that must be met for the implementation of the law in force, and an appeal against this decision does not delay the execution

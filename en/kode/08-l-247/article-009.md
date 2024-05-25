@@ -1,0 +1,6 @@
+# Article 9
+Communication of information and data protection
+1. All information acquired by the Customs in the course of performing their duty which is by its nature confidential or which is provided on a confidential basis shall be covered by the obligation of professional secrecy. Except as provided for in paragraph 2. of Article 30, such information shall not be disclosed by the Customs without the express permission of the person or authority that provided it.
+2. The information from paragraph 1. of this Article may, however, be disclosed without permission where the Customs are obliged or authorised to do so pursuant to the provisions in force, particularly in respect of data protection, or in connection with legal proceedings.
+3. Confidential information referred to in paragraph 1. of this Article may be communicated to the Customs and other competent authorities of countries or territories outside the Customs territory of, for the purpose of Customs cooperation with those countries or territories in the framework of an international agreement or national legislation in the commercial area.
+4. Any disclosure or communication of information as referred to in paragraphs 1., 2. and 3. of this Article shall ensure an adequate level of data protection in full compliance with data protection provisions in force.

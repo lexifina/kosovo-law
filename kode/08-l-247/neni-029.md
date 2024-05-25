@@ -1,0 +1,8 @@
+# Neni 29
+Menaxhimi i riskut dhe kontrollet doganore
+1.Dogana mund të kryej të gjitha kontrollet doganore që i konsideron të nevojshme.
+2.Kontrollet doganore përfshijnë në veçanti ekzaminimin e mallrave, marrjen e mostrave, verifikimin e informacionit të dhënë në një deklaratë ose njoftim nëse është i vërtetë dhe i plotë, verifikimin e ekzistencës, vërtetësisë, saktësisë dhe vlefshmërisë së dokumenteve, ekzaminimin e kontabilitetit të operatorëve ekonomikë dhe të dhënave të tjera, inspektimin e mjeteve të transportit, inspektimin e bagazheve e të mallrave të tjera që sjellin ose mbajnë personat dhe kryerjen e hetimeve zyrtare ose veprime të tjera të ngjashme.
+3.Kontrollet doganore, përveç kontrolleve të rastësishme, mbështeten kryesisht në analizën e riskut, duke përdorur teknika elektronike të përpunimit të dhënave, me qëllim identifikimin dhe vlerësimin e riskut, si dhe zhvillimin e masave kundërvepruese të nevojshme, në bazë të kritereve të hartuara në nivel kombëtar dhe ndërkombëtar duke përfshirë kur është e mundshme shkëmbimin e tyre.
+4.Dogana përdor menaxhimin e riskut për të diferencuar nivelet e riskut, që lidhen me mallrat që janë objekt i kontrollit ose i mbikëqyrjes doganore dhe për të vendosur kryerjen ose jo të kontrolleve specifike mbi këto mallra, dhe nëse po, në cilin vend do të zbatohen.
+5.Menaxhimi i riskut përfshin veprime të tilla, si mbledhja e të dhënave dhe informacioneve, analizimi dhe vlerësimi i riskut, evidentimi dhe ndërmarrja e veprimeve, monitorimi i vazhdueshëm dhe rishikimi i këtij procesi dhe i rezultateve të tij, bazuar në burime dhe strategji kombëtare dhe ndërkombëtare.
+6.Me akt nënligjor të Ministrit përkatës për Financa përcaktohen masat që sigurojnë zbatimin uniform të kontrolleve doganore.

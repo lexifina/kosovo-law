@@ -1,0 +1,6 @@
+# Article 246
+Offenses for exempt customs goods
+1. By fine in amount of one thousand (1,000) euros up to ten thousand (10,000) euros, for the legal person for customs offence, in case:
+1.1. contrary to the law sells, alienates on another base, gives to another for use, impawns, rents, uses for other purposes, deposits a guarantee for the debt or uses for other purposes rather than those on which goods are exempt from customs duties, by not repaying in advance the customs debt and other public benefits. (Article 359, Article 367, Article 384, Article 403, Article 407, Article 412, Article 419, Article 426, Article 427, Article 433, Article 434, Article 465 and Article 470 of this code).
+1.2. failure to notify Customs on cessation of fulfilling the terms due to which the exemption is provided from customs duties or imported goods with release from customs duties aims to use for other purposes (Article 404, Article 405, Article 407, Article 413, Article 414, Article 420, Article 424, Article 428, Article 433, Article 434 and Article 435 of this Code).
+2. By fine in the amount of two hundred (200) euros up to two thousand (2,000) euros, shall be punished the legal and natural person liable person, for the offence from paragraph 1 of this Article.

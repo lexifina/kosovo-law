@@ -1,0 +1,5 @@
+# Neni 61
+Garancioni i detyrueshëm
+1. Kur depozitimi i një garancioni është i detyrueshëm, Dogana cakton shumën e këtij garancioni në lartësi të barabartë me shumën e saktë të detyrimit të importit ose eksportit që i korrespondon borxhit doganor dhe pagesave të tjera, kur kjo shumë mund të përcaktohet me saktësi në kohen kur kërkohet garancioni.
+2. Kur nuk është e mundur të përcaktohet shuma e saktë, garancioni caktohet në shumën maksimale, sipas vlerësimit të Doganës, të detyrimit të importit ose eksportit që i korrespondon borxhit doganor dhe pagesave të tjera, të cilat kanë lindur ose mund të lindin.
+3. Pavarësisht zbatimit të nenit 66 kur depozitohet një garancion gjithëpërfshirës për shumën e detyrimit të importit ose eksportit, që i korrespondon borxhit doganor dhe pagesave të tjera, të cilat shuma ndryshojnë me kalimin e kohës, shuma e këtij garancioni caktohet në një lartësi që lejon mbulimin e shumës së detyrimit të importit ose eksportit që i korrespondon borxhit doganor dhe pagesave të tjera gjatë gjithë kohës.

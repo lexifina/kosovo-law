@@ -1,3 +1,0 @@
-# Neni 86
-1. Mallrat e vendosura në qarkullim të lirë, me detyrime të importit të reduktuara ose zero, për arsye të përdorimit të veçantë të tyre, mbesin nën mbikëqyrje doganore. Kjo mbikëqyrje përfundon kur kushtet për përfitimin e detyrimeve të reduktuara ose zero pushojnë se ekzistuari, kur mallrat eksportohen ose asgjësohen, ose kur lejohet përdorimi i mallrave për qëllime të ndryshme nga ato të përshkruara për zbatimin e taksës së reduktuar ose zero, me kusht që të paguhen detyrimet përkatëse.
-2. Nenet 93 dhe 95, me ndryshimet përkatëse do të aplikohen për mallrat e përmendura në paragrafin 1.

@@ -1,0 +1,3 @@
+# Neni 359
+1.Në periudhë prej dymbëdhjetë (12) muaj nga data e cila është lëshuar në qarkullim të lirë, prona private e cila është liruar nga detyrimet e importit, nuk mund të huazohet, të jepet si garancion, të jepet në shfrytëzim apo të bartet, qoftë me pagesë apo pa pagesë, pa e njoftuar paraprakisht Doganën.
+2.Çfarëdo huazimi, dhënie si garancion, dhënie në shfrytëzim apo bartje para se të kalojë afati sipas paragrafit 1 të këtij neni, do të shkaktojë pagesën e detyrimeve të importit mbi pronën përkatëse, me normën doganore që i përgjigjet datës kur bëhet huazimi i tillë, dhënia si garancion, dhënia në shfrytëzim apo bartja e tillë, në bazë të llojit të pronës dhe vlerës doganore të përcaktuar apo pranuar në atë datë nga Dogana .

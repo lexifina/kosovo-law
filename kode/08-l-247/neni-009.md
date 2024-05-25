@@ -1,0 +1,6 @@
+# Neni 9
+Komunikimi i informacioneve dhe mbrojtja e të dhënave
+1.Çdo informacion i marrë nga Dogana gjatë kryerjes së detyrave të tyre, i cili është i një natyre konfidenciale ose që është marrë në mënyrë konfidenciale, mbulohet nga detyrimi i sekretit profesional. Me përjashtim të rasteve të parashikuara në paragrafin 2 të nenit 30, ky informacion nuk jepet nga Dogana, pa lejen e shprehur të personit ose autoritetit që e ka dhënë atë.
+2.Informacioni i përcaktuar në paragrafin 1 të këtij neni mund të zbulohet pa leje, kur Dogana është e detyruar ose e autorizuar ta bëj këtë në përputhje me legjislacionin në fuqi, veçanërisht në përputhje me dispozitat për mbrojtjen e të dhënave ose lidhur me procedurat ligjore.
+3.Informacioni konfidencial, i përcaktuar në paragrafin 1 të këtij neni, mund t’i komunikohet Doganës dhe autoriteteve të tjera kompetente të vendeve apo territoreve jashtë territorit doganor, për qëllime të bashkëpunimit doganor me ato vende apo territore, bazuar në një marrëveshje ndërkombëtare ose në legjislacionin vendor në fushën e tregtisë.
+4.Çdo zbulim ose komunikim i informacionit, sipas paragrafit 1, 2 dhe 3 të këtij neni, duhet të sigurojë një nivel të përshtatshëm të mbrojtjes së të dhënave, në përputhje të plotë me dispozitat në fuqi për mbrojtjen e të dhënave.

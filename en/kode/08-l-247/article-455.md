@@ -1,0 +1,3 @@
+# Article 455
+1. Save where paragraph 1. of Article 454 is applied, products remaining at the end of the examinations, analyses or tests referred to in Article 450 shall be subject to the relevant import duties at the rate applying on the date of completion of the examinations, analyses or tests, on the basis of the type of goods and the customs value ascertained or accepted on that date by the customs.
+2. However, the interested party may, with the agreement and under the supervision of the Customs, convert products remaining to waste or scrap. In this case, the import duties shall be those applying to such waste or scrap at the time of conversion.

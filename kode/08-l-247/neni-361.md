@@ -1,0 +1,6 @@
+# Neni 361
+1.Kur, për shkak të obligimeve profesionale, personi përkatës lëshon vendin tjetër ku e ka pasur vendbanimin e zakonshëm, pa e vendosur në të njëjtën kohe vendbanimin e tij në territorin doganor të Republikës së Kosovës, edhe pse e ka për qëllim në fund të bëjë këtë, Dogana mund t’i lejoj lirimin nga detyrimet për pronën private të cilën e bartë në territorin doganor të Republikës së Kosovës, për atë qëllim.
+2.Lirimi nga detyrimet e importit për pronën private të përmendur në paragrafin 1 të këtij neni do të lejohet, në përputhje me kushtet e parapara me nenin 354 deri në nenin 359, me kuptimin që:
+2.1.afatet e përcaktuara në nën-paragrafin 1.1 të nenit 355 dhe paragrafin 1 të nenit 358, llogariten prej datës në të cilën prona private është sjellë në territprin doganor të Republikës së Kosovës;
+2.2.afati i përmendur në paragrafin 1 të nenit 359 llogaritet nga data kur personi përkatës faktikisht vendoset në vendbanimin e zakonshëm në territorin doganor të Republikës së Kosovës.
+3.Lirimi nga detyrimet po ashtu varet nga deklarata e personit përkatës, se ai më të vërtetë do ta bartë vendbanimin e tij në territorin doganor të Republikës së Kosovës, brenda një afati te caktuar nga Dogana, duke i pasur parasysh rrethanat. Dogana mund të kërkojë që deklarimi të shoqërohet me një garancion, forma dhe shuma e së cilës do të përcaktohet nga Dogana.

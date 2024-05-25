@@ -1,0 +1,4 @@
+# Neni 419
+1.Një organizatë që përfiton nga lirimi nuk mund të huazojë, jep në shfrytëzim apo bart, qoftë me pagesë apo pa pagesë, mallrat dhe pajisjet e përmendura në nenin 416 për qëllime tjera nga ato të parapara në nën-paragrafin 1.1 dhe 1.2 të atij neni, pa e njoftuar paraprakisht Doganën.
+2.Nëse, mallrat dhe pajisjet huazohen, jepen në shfrytëzim apo barten tek një organizatë që ka të drejtë të përfitojë nga lirimi në pajtim me nenin 416 dhe 418, lirimi do të vazhdojë të jepet me kusht që kjo e fundit i shfrytëzon mallrat dhe pajisjet për qëllime, për të cilat jepet e drejta për atë lirim.
+3.Në raste të tjera, huazimi, dhënia në shfrytëzim apo bartja i nënshtrohet pagesës së detyrimeve të importit, sipas normës që zbatohet në ditën e huazimit, dhënies në përdorim apo bartjes, në bazë të llojit të mallrave apo pajisjeve dhe vlerës doganore të vërtetuar apo pranuar në atë ditë nga Dogana.

@@ -1,0 +1,15 @@
+# Neni 42
+Origjina preferenciale e mallrave
+1.Për të përfituar nga masat e përmendura në nën-paragrafin 3.4 dhe 3.5 të nenit 37 të këtij Kodi ose nga masat preferenciale jo tarifore, mallrat duhet të jenë në përputhje me rregullat për origjinën preferenciale, të përcaktuara në paragrafin 2 deri në 6 të këtij neni.
+2.Në rastin e mallrave që përfitojnë nga masat preferenciale, të përcaktuara në marrëveshjet në fuqi, të lidhura ndërmjet Republikës së Kosovës me vendet ose territoret e caktuara jashtë territorit doganor të Republikës së Kosovës ose grupeve të vendeve apo territoreve të tilla, rregullat për origjinën preferenciale përcaktohen në ato marrëveshje.
+3.Në rastin e mallrave që përfitojnë nga masat preferenciale, të miratuara në mënyrë të njëanshme nga Republika e Kosovës, për sa u përket vendeve ose territoreve të caktuara jashtë territorit doganor të Republikës së Kosovës ose grupeve të vendeve apo territoreve të tilla, të tjera nga ato të përcaktuara me paragrafin 5 të këtij neni, masat që përcaktojnë rregullat për origjinën preferenciale miratohen me vendim te Qeverisë.
+4.Rregullat për origjinën preferenciale sipas paragrafit 3 të këtij neni, bazohen në kriterin që mallrat janë tërësisht të përftuara, ose në kriterin e përpunimit ose punimit të mjaftueshëm.
+5.Qeveria me vendim ose me kërkesë të vendit ose territorit përfitues, për mallra të caktuara, mund t’i lejoj një vendi ose territori një përjashtim të përkohshëm nga rregullat e origjinës preferenciale të përcaktuara në paragrafin 3 të këtij neni.
+6.Përjashtimi i përkohshëm arsyetohet nga një prej arsyeve të mëposhtme:
+6.1.faktorët e brendshëm ose të jashtëm privojnë përkohësisht vendin ose territorin përfitues nga mundësia që të zbatoj rregullat e origjinës preferenciale;
+6.2.vendi ose territori kërkon kohë për t’u përgatitur për zbatimin e këtyre rregullave.
+7.Kërkesa për përjashtim do t’i bëhet me shkrim Qeverisë nga vendi ose territori përfitues në fjalë. Kërkesa duhet të tregojë arsyet e përjashtimit siç parashihet në paragrafin 6 të këtij neni dhe duhet të përmbajë dokumentet e duhura mbështetëse.
+8.Përjashtimi i përkohshëm kufizohet me kohëzgjatjen e efekteve të faktorëve të brendshëm ose të jashtëm që kanë krijuar atë ose kohëzgjatjen e nevojshme për vendin ose territorin përfitues për të siguruar zbatimin e rregullave.
+9.Kur përjashtimi i lejohet, vendi ose territori përfitues përkatës zbaton çfarëdo kërkese të përcaktuar me qëllim të informimit të Qeverisë, lidhur me përdorimin e përjashtimit dhe menaxhimit të sasive për të cilat përjashtimi është lejuar.
+10.Rregullat për origjinën preferenciale sipas paragrafit 3 të këtij neni përcaktohen me akt nënligjor të Qeverisë, me propozim të ministrisë përgjegjëse për financa.
+11.Rregullat procedurale nga paragrafi 1 i këtij neni, për lehtësimin e vendosjes së origjinës preferenciale të mallrave në Republikën e Kosovës, dhe masa për lejimin e përjashtimit të përkohshëm për një vend ose territor përfitues nga paragrafi 6 i këtij neni, vendosen me akt nënligjor të Ministrit përkatës për Financa

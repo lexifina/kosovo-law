@@ -1,0 +1,5 @@
+# Neni 129
+Ekzaminimi i pjesshëm i mallrave dhe marrja e mostrave
+1.Kur ekzaminohen ose kur merren mostra vetëm për një pjesë të mallrave të mbuluara nga një deklaratë doganore, rezultatet e ekzaminimit të pjesshëm apo të analizave apo ekzaminimit të mostrave, konsiderohet se vlejnë për të gjitha mallrat e mbuluara nga e njëjta deklaratë.
+2.Pavarësisht paragrafit 1 të këtij neni, deklaruesi mund të kërkojë një ekzaminim të mëtejshëm të mallrave ose marrje mostrash të tjera nëse ai ose ajo e konsideron rezultatin e ekzaminimit të pjesshëm apo të analizave ose të ekzaminimit të mostrave të marra, si jo të vlefshëm për pjesën e mbetur të mallrave të deklaruara. Kërkesa pranohet me kusht që mallrat të mos jenë lëshuar ende apo, nëse ato janë lëshuar, deklaruesi provon që ato nuk kanë pësuar asnjë ndryshim.
+3.Për qëllime të paragrafit 1 të këtij neni, kur një deklaratë doganore mbulon dy ose më shumë artikuj, të dhënat për secilin artikull konsiderohen sikur përbëjnë deklarata të veçanta doganore.

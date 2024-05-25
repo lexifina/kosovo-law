@@ -1,0 +1,3 @@
+# Article 465
+1. Fuel admitted duty-free under Articles 462, 463 and 464 may not be used in a vehicle other than that in which it was imported nor be removed from that vehicle and stored, except during necessary repairs to that vehicle, nor be transferred, whether for a consideration or free of charge, by the person benefiting from the relief.
+2. Non-compliance with paragraph 1. of this Article shall give rise to application of the import duties relating to the products in question at the rate in force on the date of such non-compliance, on the basis of the type of goods and the customs value ascertained or accepted on that date by the competent authorities.

@@ -1,2 +1,0 @@
-# Neni 133
-Procedura e përpunimit nën kontroll doganore do të lejohet të shfrytëzohet në Kosovë për mallrat jo- kosovare në operacionet që e ndryshojnë natyrën ose gjendjen e mallrave, pa iu nënshtruar detyrimeve të importit ose masave të politikave tregtare dhe do të lejojë që produktet e fituara në atë operacion të vendosen në qarkullim të lirë, sipas shkallës së detyrimeve të importit më të përshtatshme për këto mallra. Produktet e këtilla quhen produkte të përpunuara.

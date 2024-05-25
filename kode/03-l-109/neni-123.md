@@ -1,3 +1,0 @@
-# Neni 123
-1. Dogana do ta përcaktojë normativin e prodhimit për operacionin në fjalë ose kur kjo është e nevojshme, mënyrën e përcaktimit të këtij normativi. Normativi i prodhimit përcaktohet në bazë të rrethanave reale, në të cilat operacioni i përpunimit është kryer ose duhet të kryhet.
-2. Kur e kërkojnë rrethanat dhe veçanërisht me rastin e operacioneve përpunuese që tradicionalisht kryhen në kushte teknike të përcaktuara qartë, për mallrat me karakteristika të njëjta thelbësore dhe që kanë si rezultat prodhimin e produkteve kompensuese me cilësi të njëjtë, me Udhëzimin Administrativ për zbatimin e këtij Kodi, mund të përcaktohet norma e prodhimit në bazën e të dhënave reale të vërtetuara më parë.

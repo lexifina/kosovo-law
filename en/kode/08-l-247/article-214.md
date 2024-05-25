@@ -1,0 +1,10 @@
+# Article 214
+Application for registration in the person liable for excise registry
+1. Every person handling with excise products shall submit a request in the Customs, deposit an application for registration in the person liable for excise registry, no later than eight (8) days prior to the beginning of registration activities or any other event that includes actions with excise within the meaning of this Code.
+2. The provision of paragraph 1. of this Article doesn’t apply for persons which procure excise products as per the Law issued for the reason of consumption in the Republic of Kosovo territory and continue selling in the Republic of Kosovo territory, respectively dispatching for export.
+3. Persons from paragraph 1. of this Article are obliged to report to Customs Administration every modification on data specified in the application for registration in the person liable for excise registry, as well as discontinuation of activities due to reasons for which they are registered in the person liable for excise registry, within eight (8) days of creating that modification, respectively from the date of being aware about the committed modification.
+4. If the person liable for excise ceases practicing the activity, Customs, by request from the person liable for excise or as per official duty, shall delete the person liable for excise from the register for persons liable for excise.
+5. Customs shall create and maintain an official record or registered persons liable for excise.
+6. Request from paragraph 1. of this Article shall be deemed approved if the Customs, within eight (8) days from the date of receiving the request, does not issue a decision for registration in the persons liable for excise registry.
+7. On the refusal for registration in the persons liable for excise registry, a decision is taken.
+8. The contents, annexes that shall be submitted along with the request for registration in the persons liable for excise registry as well as the way of registration is determined by sublegal act from the Minister of Finances.

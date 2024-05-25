@@ -1,0 +1,4 @@
+# Neni 433
+1. Organizatat që përfitojnë nga lirimi nuk mund të huazojnë, japin në shfrytëzim apo bartin, qoftë me pagesë apo pa pagesë, mallrat e parapara në paragrafin 1 të nenit 429, në kushte të tjera nga ato të parapara në atë nen, pa e njoftuar paraprakisht Doganën.
+2. Nëse mallrat huazohen, jepen në përdorim apo barten tek një organizatë që ka të drejtë të përfitoj nga lirimi në pajtim me nenin 429, lirimi do të vazhdojë të jepet me kusht që kjo organizatë i shfrytëzon mallrat për qëllime, për të cilat jepet e drejta për atë lirim.
+3. Në raste të tjera, huazimi, dhënia në përdorim apo bartja do t’i nënshtrohen pagesës paraprake të detyrimeve të importit, sipas normës që zbatohet në ditën e huazimit, dhënies në përdorim apo bartjes, në bazë të llojit të mallrave dhe vlerës doganore të vërtetuar apo pranuar në atë ditë nga Dogana.

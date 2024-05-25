@@ -1,0 +1,11 @@
+# Article 208
+Excise payment insurance
+1. The excise authorized warehouse keeper is obliged to deposit a guarantee instrument for excise to Kosovo Customs in order to pay off the possible excise debt for the excise products, which are in the excise payment-suspension system in accordance to provisions of this Code.
+2. Payment of the guarantee instrument for excise shall not be required by the state administration organ for movements starting and ending in the territory of Republic of Kosovo.
+3. The amount of the guarantee instrument for excise payment for excise goods dispatched from one excise warehouse in the excise suspension system will be determined by Customs depending on the amount of the possible excise debt.
+4. If Customs requires depositing a guarantee for excise payment for production and maintaining of excise goods in the excise warehouse in the excise suspension system, will be determined by the customs depending on the amount of the possible excise debt in the taxation period.
+5. Customs may determine the amount of the excise payment-guarantee instrument may be lower than the amount determined as per paragraphs 3. and 4. of this Article.
+6. The excise authorized warehouse keeper of excise goods, who has more than one excise warehouse, may deposit a guarantee instrument for excise payment that serves for all the excise warehouses.
+7. The excise payment guarantee is not required for excise products for which the excise amount is zero (0) euros, which are produced, maintained and relocated to the suspension system in the territory of Republic of Kosovo.
+8. In the event of revocation of excise authorization, the guarantee instrument for excise payment, may be released or issued only after such excise payment is completed for excise goods in the warehouse and products for which payment obligation has risen prior to expiry of excise or when excise payment obligation can no further rise.
+9. The way of functioning of excise warehouses in relation to import, manufacturing and storing of excise goods, the content and annexes that might be presented by request for issuing an excise authorization, the way of deposition and type of insurance instrument and amount for excise payment and the content and way of keeping record, are determined by sublegal act from the relevant Minister of Finances.

@@ -1,0 +1,6 @@
+# Neni 422
+1.Artikujt e dizajnuar enkas për përparimin arsimor, shkencor apo kulturor të personave të verbër, siç është specifikuar në Shtojcën IV të aktit nënligjor për zbatimin e këtij neni dhe pajiset tjera te dizajnuara enkas për përdorimin nga personat e verbër, lirohen nga detyrimet e importit, me kusht që ato importohen qoftë nga:
+1.1.personin i verbër për nevojat e tij; ose
+1.2.Institucionet apo organizatat që merren me arsimimin apo dhënien e ndihmës për persona të verbër, të autorizuara nga autoriteti kompetent për atë qëllim në Republikën e Kosovës.
+2.Lirimi sipas paragrafit 1 të këtij neni zbatohet edhe për pjesët rezervë, pjesët përbërëse apo pajisjet përcjellëse enkas për artikujt në fjalë, dhe për veglat që do të shfrytëzohen për mirëmbajtjen, kontrollimin, kalibrimin apo riparimin e këtyre artikujve, me kusht që këto pjesë rezervë, pjesë përbërëse, pajisje ndihmëse apo vegla importohen në të njëjtën kohë me artikujt në fjalë ose, nëse importohen më pas, mund të identifikohen se janë të destinuara për artikujt që janë liruar më parë nga detyrimet e importit, apo të cilat do të përfitonin nga lirimi në momentin kur një lirim i tillë, kërkohet për pjesët specifike rezervë, komponentët apo pajisjet ndihmëse dhe veglat në fjalë.
+II. Për përdorim nga personi me aftësi të kufizuara

@@ -1,0 +1,6 @@
+# Neni 246
+Kundërvajtjet për mallrat doganore te liruara
+1.Me gjobë në shumë prej njëmijë (1,000) euro deri dhjetëmijë euro (10,000) euro do të dënohet për kundërvajtje doganore, personi juridik, nëse:
+1.1.në kundërshtim me ligjin shet, tjetërson mbi një bazë tjetër, jep tjetrit ne përdorim, lë peng, me qira, e përdor për qëllime të tjera, e depoziton si garanci për borxhin ose i përdor për qëllime të ndryshme nga ato për të cilat mallrat janë liruar nga detyrimet doganore duke mos shlyer paraprakisht borxhin doganor dhe përfitime të tjera publike. (neni 359, neni 367, neni 384, neni 403, neni 407, neni 412, neni 419, neni 426, neni 427, neni 433, neni 434, neni 465, neni 470 të këtij Kodi).
+1.2.nuk njofton Doganën për ndërprerjen e plotësimit të kushteve për shkak të cilave ai është e liruara nga detyrimet doganore ose mallrat e importuara me lirim nga detyrimet doganore synon ti përdorë për qëllime të tjera (neni 404, neni 405, neni 407, neni 413, neni 414 neni 420, neni 424, neni 428, neni 433, neni 434 dhe neni 435 të këtij Kodi).
+2.Me gjobë në shumë prej dyqind (200) euro deri dymijë (2,000) euro, dënohet personi përgjegjës në personin juridik dhe personi fizik, për kundërvajtjen nga paragrafi 1 i këtij neni.

@@ -1,6 +1,0 @@
-# Article 267
-Powers to Search for Concealed Pipes, etc.
-1. If any officer has reasonable grounds to suspect that any secret pipe or other means of conveyance, cock, vessel or utensil is kept or used by a revenue trader, that officer may, at any time, break open any part of the premises of that trader and forcibly enter thereon and so far as is reasonably necessary break up the ground in, or adjoining those premises or any wall thereof to search for that pipe or other means of conveyance, cock, vessel or utensil.
-2. If any officer finds any pipe or other form of conveyance leading to or from a revenue trader’s premises, he may enter any other premises from or into which it leads, and so far as is reasonably necessary break up any part of those other premises to trace its course, and may cut it away and turn any cock thereon, and examine whether it conveys or conceals any goods chargeable with a duty, or any materials used in the manufacture of such goods.
-3. Every pipe or other means of conveyance, cock, vessel or utensil found as a result of a search under paragraph 1 or 2, and all goods chargeable with a duty or materials for the manufacture of such goods found therein, shall be liable to detention and seizure.
-4.If any damage is done in any such search as aforesaid and the search is unsuccessful, the Director General shall make good the damage.

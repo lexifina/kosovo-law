@@ -1,8 +1,0 @@
-# Neni 117
-1. Kur lind një borxh doganor në lidhje me mallrat e importit dhe vlera doganore e këtyre mallrave bazohet në çmimin vërtet të paguar ose të pagueshëm, i cili përfshinë shpenzimet e magazinimit dhe të ruajtjes së mallrave gjatë vendosjes së tyre në magazinë, këto shpenzime nuk është e nevojshme të përfshihen në vlerën doganore, në rast se janë treguar veçmas nga çmimi vërtetë i paguar ose i pagueshëm për këto mallra.
-2. Në rast se mallrat në fjalë iu janë nënshtruar mënyrave të zakonshme të trajtimit, në kuptim të nenit 114, lloji i mallrave, vlera doganore dhe sasia që merret parasysh për përcaktimin e shumës së taksave të importit, me kërkesë së deklaruesit, janë ato që do të ishin marrë parasysh për mallrat në kohën e përmendur me nenin 212, sikur të mos i ishin nënshtruar këtij trajtimi. Megjithatë, përjashtimet nga kjo dispozitë mund të parashihen me Udhëzimin Administrativ për zbatimin e këtij Kodi.
-3. Kur mallrat e importit janë lëshuar në qarkullim të lirë në përputhje me nenin 80 (1) (c), natyra e mallrave, vlera doganore dhe sasia që merret parasysh për qëllime të nenit 212 do të jenë ato që ishin të aplikueshme për mallrat në kohën në të cilën ato janë vendosur në procedurën e magazinimit doganor.
-4. Paragrafi 3 aplikohet me kusht që rregullat për vlerësim të cilat kanë të bëjnë me mallrat të jenë të caktuara dhe të pranuara në momentin kur këto mallra janë vendosur në procedurat e magazinës doganore, vetëm nëse deklaruesi nuk kërkon aplikimin e tyre në momentin e lindjes së borxhit doganor.
-5. Paragrafi 3 zbatohet pa rënë ndesh me kontrollin pas-zhdoganimit për qëllime të nenit 82.
-D. Përpunimi i brendshëm
-I. Të përgjithshme

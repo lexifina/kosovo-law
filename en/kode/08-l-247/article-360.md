@@ -1,0 +1,3 @@
+# Article 360
+1. By way of derogation from the paragraph 1. of Article 358, relief may be granted in respect of personal property entered for free circulation before the person concerned establishes his normal place of residence in the customs territory of the Republic of Kosovo, provided that he undertakes actually to establish his normal place of residence there within a period of six (6) months. Such undertaking shall be accompanied by a security, the form and amount of which shall be determined by the Customs.
+2. Where use is made of the provisions of paragraph 1. of this Article, the period laid down in subparagraph 1.1. of Article 355 shall be calculated from the date on which the personal property is brought into the customs territory of the Republic of Kosovo.

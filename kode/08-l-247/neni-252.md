@@ -1,0 +1,9 @@
+# Neni 252
+Shitja, shpërndarja falas dhe asgjësimi i mallrave doganore
+1.Shitja e mallit të konfiskuar sipas dispozitave te këtij kodi, kryhet përmes shitjes publike, pasi vendimi të jetë bërë i plotfuqishëm dhe i ekzekutueshëm dhe mjetet janë te hyra për buxhetin e Republikës se Kosovës.
+2.Përjashtimisht nga paragrafi 1 i këtij neni, Dogana mund t’i shesë menjëherë mallrat që prishen lehte, kafshët e gjalla, mall me afat te shkurt te skadences, mallin i cili për ruajtjen dhe mirëmbajtën e tije krijon shpenzime qe e kalojnë vlerën e mallit dhe ne raste tjera te veçanta te arsyetuara.
+3.Dispozitat e paragrafit 2 dhe 5 të këtij neni, përshtatshmërisht mund te aplikohen edhe për mallra e sekuestruara si rezultat i veprës penale, nëse paraprakisht merret konfirmimi nga institucionet kompetente gjyqësore.
+4.Mallrat e konfiskuara, të cilat nuk shiten në territorin doganor të Republikës se Kosovës, mund te shpërndahen falas pa paguar kundërvlerën dhe detyrimet e importit tek organet shtetërore, institucionet mjekësore, kulturore, shkencore dhe organizatat humanitare ose te përdoren për qëllime të tjera te arsyetuara nga institucionet shtetërore.
+5.Mallrat që nuk mund të shiten sipas paragrafit 1 dhe 2 të këtij neni, ose përdoren për arsye shëndetësore, veterinare, fitosanitare, sigurie, ose të tjera të përcaktuara me ligj, asgjësohen nën mbikëqyrjen doganore, në përputhje me rregullat e veçanta.
+6.Shpenzimet e asgjësimit mbulohen nga pronari ose importuesi i mallit ne baze te vendimit me shkrim, dhe nëse ato janë të panjohura ose të padisponueshme, shpenzimet e asgjësimit mbulohen nga Dogana, përveç nëse parashikohet ndryshe me dispozita te veçanta.
+7.Rregullat procedurale dhe kushtet për shitjen e mallit, shpërndarja falas dhe përdorimin e tije, asgjësimin dhe pagesën e shpenzimeve, përcaktohen me akt nënligjor te Ministrit përkatës për Financa.

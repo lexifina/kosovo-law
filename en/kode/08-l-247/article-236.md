@@ -1,0 +1,10 @@
+# Article 236
+Placement of fiscal banderols of alcohol products and alcoholic beverages
+1. With the Republic of Kosovo banderol, the alcohol and alcoholic beverages labelled, subjected to excise payment shall be marked in accordance to the Laws regulating the excise calculation and payment imported or released for consumption in Republic of Kosovo.
+2. The person liable for excise on alcoholic beverages prior to obtaining excise banderols on marking them, shall be registered as person liable for excise and licensed by Customs for import, export or production of alcoholic beverages as well as shall deposit an insurance instrument for excise payment for alcoholic beverages if requested by Customs.
+3. The person liable for excise of alcoholic beverages, who failed to complete the terms as per paragraph 2. of this Article, will not receive excise banderols to mark the alcoholic beverages.
+4. The products mentioned in paragraph 1. of this Article may be placed in the market only in bottles or other suitable packaging in accordance to special provisions regulating their placement in the market.
+5. The banderols shall be placed over the bottle’s lid in order for the banderol to be damaged when the lid is opened.
+6. Unauthorized production of banderols from paragraph 1. of this Article or banderols for alcoholic beverages from other countries or unauthorized printing or possession or their placement in the market, is deemed illegal.
+7. Intentional damaging of excise banderols for labelling of Republic of Kosovo alcoholic beverages is illegal.
+8. Excise products on which excise banderols must be placed, the licensing procedure of subjects for import or production of alcoholic beverages, licence form, excise banderols marks labelling the products from this Article, the way of presentation and contents of requests for printing, obtaining and issuing excise banderols, the way of placing banderols on excise product, banderols handling, reporting, keeping records and their destruction, are determined by a sub-legal act from the relevant Minister of Finances.

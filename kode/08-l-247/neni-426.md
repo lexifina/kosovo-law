@@ -1,0 +1,4 @@
+# Neni 426
+1. Artikujt e importuar pa detyrime importi nga një person i përmendur në nenet 422, 423 dhe 425 nuk mund të huazohen, jepen në shfrytëzim apo të transferohen, qoftë me pagesë apo pa pagesë, pa e njoftuar paraprakisht Doganën.
+2. Nëse një artikull huazohet, jepet në përdorim apo transferohet tek një person, institucion apo organizatë që ka të drejtë të përfitojë nga lirimi në pajtim me nenet 422, 423 dhe 425, lirimi vazhdon të jepet me kusht që ai person, institucion apo ajo organizatë e shfrytëzon artikullin për qëllime, për të cilin i është dhënë e drejta për atë lirim.
+3. Në raste të tjera, huazimi, dhënia në përdorim apo transferi i nënshtrohen pagesës paraprake të detyrimeve të importit, në normën që zbatohet në ditën e huazimit, dhënies në përdorim apo transferit, në bazë të llojit të mallrave apo pajisjeve dhe vlerës doganore të vërtetuar apo pranuar në atë ditë nga Dogana.

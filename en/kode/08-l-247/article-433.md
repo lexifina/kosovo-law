@@ -1,0 +1,4 @@
+# Article 433
+1. The organizations benefiting from the relief may not lend, hire out or transfer, whether for consideration or free of charge, the goods referred to in paragraph 1. of Article 429 under conditions other than those laid down in that Article without prior notification thereof to the Customs.
+2. Should goods be lent, hired out or transferred to an organization itself entitled to benefit from relief pursuant to Article 429, the relief shall continue to be granted, provided the latter uses the goods for purposes which confer the right to such relief.
+3. In other cases, loan, hiring out or transfer shall be subject to prior payment of import duties at the rate applying on the date of the loan, hiring out or transfer, on the basis of the type of goods and the customs value ascertained or accepted on that date by Customs.

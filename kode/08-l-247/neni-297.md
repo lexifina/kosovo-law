@@ -1,0 +1,8 @@
+# Neni 297
+Ndalimi i veprimtarisë që zhvillohet me media
+1.Kur e kërkojnë rrethanat e rastit Dogana, mund të parandalojë sjelljen e mëtejshme të kundërligjshme të personit fizik dhe juridik i cili porosit, ndërmjetëson ose publikon reklamë në shtyp, televizion, radio, internet dhe media të tjera ose njoftimet reklamuese në çfarëdo mënyre tjetër të disponueshme për publikun, duke lëshuar urdhër me shkrim me të cilën kufizohet ose ndalohet përkohësisht publikimi i reklamave dhe të gjitha aktiviteteve që synojnë shpalljen publike.
+2.Në kuptim të këtij neni, sjellje e kundërligjshme konsiderohet kryerja ose pjesëmarrja në kryerjen e veprimtarisë së paregjistruar ne pajtim më dispozitat që rregullojnë ndalimin dhe parandalimin e veprimtarisë së paregjistruar dhe reklamimin e shitjes ose disponimit tjetër të mallrave doganore në kundërshtim me kushtet, ndalesat dhe kufizimet sipas legjislacionit në fuqi.
+3.Urdhri nga paragrafi 1 i këtij neni ekzekutohet me zbatim të nenit 296 dhe ndërmarrje të veprimeve tjera proporcionale, me qëllim të pamundësimit dhe parandalimit të sjelljes së kundërligjshme.
+4.Kundër urdhrit nga paragrafi 1 i këtij neni mund të parashtrohet ankesë e cila nuk e pezullon ekzekutimin e tij.
+5.Urdhri nga ky nen do të zgjasë deri në largimin e shkakut për të cilin është sjell, e më së largu deri në tridhjetë (30) ditë nga dita e sjellës së tij.
+6. Pas afatit të përcaktuar në paragrafin 5 të këtij neni Dogana sjell vendim me te cilin përcakton kushtet ligjore që duhet të përmbushen për zbatim të legjislacionit në fuqi dhe ankesa kundër këtij vendimi nuk e pezullon ekzekutimin.

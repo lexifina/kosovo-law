@@ -1,0 +1,3 @@
+# Neni 465
+1.Karburanti i liruar nga detyrimet e importit sipas neneve 462, 463 dhe 464, nuk mund të përdoret në një mjet motorik tjetër nga ai në të cilin është importuar e as të largohet nga ai automjet e të ruhet diku tjetër, përveç gjatë riparimeve të nevojshme të atij mjeti motorik, e as të bartet, me ose pa pagesë, nga personi që përfiton nga lirimi.
+2.Shkelja e paragrafit 1 të këtij neni shkakton zbatimin e detyrimeve të importit për mallin përkatës, sipas normës që zbatohet në datën e shkeljes së tillë, në bazë të llojit të mallrave dhe vlerës doganore të vërtetuar apo pranuar në atë datë nga Dogana.

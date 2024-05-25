@@ -1,0 +1,8 @@
+# Article 302
+Persons control
+1. The person who enters, uses transit or exits the customs territory of Republic of Kosovo, is obliged to declare the goods carrying with himself and when requested by the customs official, shall answer to questions regarding the itinerary, the luggage and other stuff carrying with himself and if requested for control, shall present them in the place and manner as required by Customs.
+2. Customs officer control the person for the purposes of implementing the customs supervision.
+3. Controlling a person includes examination of anything the person carries on the body or with themselves, specifying if they carry stuff that are object of punishable actions for which Customs is competent.
+4. The control may be performed solely by authorized customs officials of the same gender with the person being checked, whereas the control on a minor can be performed only with the presence of a parent or guardian of the minor. In the event the presence of the parent or guardian cannot be provided, the control then is performed in the presence of a professional from a competent social welfare institution.
+5. Exceptionally, when necessary to perform an urgent control on the person for detention of weapons or objects suitable for an attack or self-mutilation, the control may be performed by another gender person.
+6. In the event of suspicion that goods being used to commit a customs offence, respectively an object of criminal act is concealed in the person’s body, then Customs investigation structures shall be notified, who shall notify the Prosecution to authorize a control in health institutions as per legislation in force.

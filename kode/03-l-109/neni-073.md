@@ -1,4 +1,0 @@
-# Neni 73
-1. Transporti i mallrave në vendin ku do të kryhet kontrolli ose ku do të merren mostrat dhe ku kryhen të gjitha trajtimet e nevojshme, për kontrolle ose marrjen e mostrave, bëhet nga deklaruesi ose në përgjegjësinë e tij. Shpenzimet e tilla barten nga deklaruesi.
-2. Deklaruesi gëzon të drejtën të jetë i pranishëm gjatë kontrollit të mallrave dhe marrjes së mostrave. Kur e sheh të nevojshme, Dogana do të kërkojë nga deklaruesi të jetë i pranishëm ose të përfaqësohet gjatë kontrollit të mallrave apo marrjes së mostrave ose për t’iu dhënë atyre ndihmën e nevojshme për lehtësimin e procesit të kontrollimit apo marrjes së mostrave.
-3. Nëse mostrat janë marrë në përputhje me dispozitat ligjore në fuqi, Dogana nuk është përgjegjëse për pagesën e çfarëdo kompensimi në lidhje me to, mirëpo do ti bartë shpenzimet e analizave apo kontrollit.

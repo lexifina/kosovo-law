@@ -1,0 +1,8 @@
+# Neni 302
+Kontrolli i personave
+1.Personi i cili hyn, hyn tranzit apo del nga territori doganor i Republikës së Kosovës, është i obliguar të deklaroj mallrat qe i bart me vete dhe me kërkesë të oficerit doganor, të përgjigjet në pyetjet të cilat ndërlidhen me rrugëtimin, bagazhin dhe gjërat tjera që i bart me vete, dhe nëse kërkohet për kontroll, t’i paraqes ato në vendin dhe mënyrën e kërkuar nga Dogana.
+2.Oficeri doganor mund të kontrolloj personin për qëllim të zbatimit të mbikëqyrjes doganore.
+3.Kontrolli i një personi përfshin ekzaminimin e çdo gjëje që personi mban në trup ose me vete gjatë të cilit përcaktohet nëse janë objekt i veprimeve të dënueshme për zbatimin e të cilave përgjegjëse është Dogana.
+4.Kontrollin mund ta kryejnë vetëm oficerët doganor të së njëjtës gjini me personin që kontrollohet, kurse kontrolli i të miturit mund të bëhet vetëm në prani të prindit ose kujdestarit të miturit. Nëse nuk mund të sigurohet prania e prindit ose kujdestarit, ose nëse ata refuzojnë të marrin pjesë në kontroll, kontrolli bëhet në prani të një profesionisti të organit kompetent të mirëqenies sociale.
+5.Përjashtimisht, kur është i nevojshëm kontrolli urgjent i personit për ndalimin e armëve ose sendeve të përshtatshme për sulm ose vetëlëndim, kontrollin mund ta bëj personi i gjinisë të kundërt.
+6.Në rast të dyshimit se malli me të cilin është kryer kundërvajtja doganore, gjegjësisht objekt i veprës penale është i fshehur në trupin e personit, njoftohen strukturat hetimore të Doganës, të cilat e njoftojnë Prokurorin që të autorizoj kontrollin në institucionet shëndetësore sipas legjislacionit në fuqi.

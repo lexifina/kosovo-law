@@ -1,0 +1,7 @@
+# Neni 296
+Kufizimi dhe ndalimi i veprimtarisë
+1.Përveç urdhrave nga neni 295, oficeri doganor, kur këtë e kërkojnë rrethanat e rastit, mund të kufizojë ose ndalojë përkohësisht kryerjen e veprimtarisë duke plumbosur dhe vendosur shenja ne lokalet afariste, magazinat, impiantet, pjesë të impianteve, makineritë, pajisje ose ambiente të tjera apo pamundësoj përdorimin e impianteve, makinerive dhe pajisjeve të tjera për punë ose në mënyra të tjera të përshtatshme.
+2.Oficeri doganor mund të urdhërojë masa për pamundësimin, parandalimin dhe zbulimin e veprimeve të paligjshme në vendet e caktuara si tregje, panaire, ekspozita, manifestime dhe vende të tjera. Në përputhje me urdhrin, janë të detyruar të veprojnë personat fizikë dhe juridikë që drejtojnë veprimtarinë e tregjeve ose që organizojnë tregti të rastit.
+3.Masat nga paragrafi 2 i këtij neni mund të konsistojnë në shënjimin dhe rrethimin fizik ose bllokimin e hyrjes në objekt, vendosjen e shenjave paralajmëruese dhe veprime të tjera që kanë për qëllim pamundësimin, parandalimin ose zbulimin e veprimeve të kundërligjshme.
+4.Urdhri nga ky nen do të zgjasë deri në largimin e shkakut për të cilin është sjell, më së largu deri në tridhjetë (30) ditë nga dita e sjellës së tij.
+5.Pas afatit të përcaktuar në paragrafin 4 të këtij neni Dogana sjell vendim me të cilin përcakton kushtet ligjore qe duhet të përmbushen për zbatim të legjislacionit në fuqi dhe ankesa kundër këtij vendimi nuk e pezullon ekzekutimin e tij.

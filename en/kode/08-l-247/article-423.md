@@ -1,0 +1,5 @@
+# Article 423
+1. Articles specially designed for the education, employment or social advancement of physically or mentally persons with special needs, other than blind persons shall be admitted free of import duties where they are imported by either:
+1.1. persons with special needs themselves for their own use; or
+1.2. institutions or organizations authorized by the competent authority that primarily deal with education or providing assistance to persons with disabilities to accept them for free.
+2. The relief referred to in paragraph 1. of this Article shall apply to spare parts, components or accessories specifically for the Articles in question, and to the tools to be used for the maintenance, checking, calibration or repair of the said Articles provided that such spare parts, components, accessories or tools are imported at the same time as the said Articles, or, where they are imported subsequently, that they can be identified as being intended for Articles which were previously admitted duty free, or which would be entitled to relief at the time when such relief is requested for the specific spare parts, components or accessories and tools in question.

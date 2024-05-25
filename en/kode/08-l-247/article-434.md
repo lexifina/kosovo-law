@@ -1,0 +1,4 @@
+# Article 434
+1. The goods referred to in sub-paragraph 1.2 of Article 429, after they cease to be used by disaster victims, may not be lent, hired out or transferred, whether for a consideration or free of charge, unless the Customs are notified in advance.
+2. Should goods be lent, hired out or transferred to an organization itself entitled to benefit from relief pursuant to Article 429 or, if appropriate, to an organization entitled to benefit from relief pursuant to sub-paragraph 1.1 of Article 416, the relief shall continue to be granted, provided such organizations use them for purposes which confer the right to such relief.
+3. In other cases, loan, hiring out or transfer shall be subject to prior payment of import duties at the rate applying on the date of the loan, hiring out or transfer, on the basis of the type of goods and the customs value ascertained or accepted on that date by the Customs.

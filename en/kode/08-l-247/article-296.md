@@ -1,0 +1,7 @@
+# Article 296
+Limitation and prohibition of activity
+1. Except the orders from Article 295, the authorized customs official, when the case circumstances so require, may limit or temporarily prohibit performing the activities by sealing and placing insignia in business premises, warehouses, manufactories, parts of manufactories, machineries, equipment or other premises or render impossible using the manufactories, machineries and other equipment for work or in other appropriate manners.
+2. Customs officer may order measures to render impossible, prevent and discover illegal actions in certain places such as markets, fairs, exhibitions, manifestations and other places. In accordance with the order, the natural and legal persons leading the market activities or organizing market events are obliged to act upon it.
+3. The measures from paragraph 2. of this Article may consist of physical marking or blocking the entrance to the facility, placing warning signs and other actions intended for rendering impossible, preventing or discovering illegal actions.
+4. The order from this Article shall continue until the cause is removed, not later than thirty (30) days from the day of the order is brought.
+5. After the deadline set in paragraph 4. of this Article, the Customs brings a decision that defines the legal conditions that must be met for the implementation of the legislation in force, and the appeal against this decision does not suspend its execution.
