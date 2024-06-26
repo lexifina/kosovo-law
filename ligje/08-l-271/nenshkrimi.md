@@ -1,0 +1,4 @@
+Ligji Nr. 08/L-271 16 maj 2024
+Shpallur me dekretin Nr. DL-66/2024, datë 06.06.2024 nga Presidentja e Republikës së Kosovës Vjosa Osmani-Sadriu
+___________________________ *Ligji nr. 08/L-271 “Për Ratifikimin e i Marrëveshjes ndërmjet Qeverisë së Kosovës, të përfaqësuar nga Ministria e Financave, Punës dhe Transfereve dhe Qeverisë së Konfederatës Zvicerane, të përfaqësuar nga Sekretariati Shtetëror për Çështje Ekonomike për projektin e “Qëndrueshmërisë Klimatike në Sektorin e Ujërave në Kosovë”, bashkangjitur me marrëveshje janë publikuar në web faqen e Gazetës Zyrtare (gzk.rks-gov.net)
+FINANCAVE, PUNËS DHE TRANSFEREVE DHE QEVERISË SË KONFEDERATËS ZVICERANE, TË PËRFAQËSUAR NGA SEKRETARIATI SHTETËROR PËR ÇËSHTJE EKONOMIKE PËR PROJEKTIN E “QËNDRUESHMËRISË KLIMATIKE NË SEKTORIN E UJËRAVE NË KOSOVË’’
