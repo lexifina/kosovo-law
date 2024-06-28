@@ -1,0 +1,4 @@
+# Neni 43
+Vlerësimi ex-post i aktit juridik
+1. Vlerësimi ex-post i bëhet një akti juridik të përgjithshëm apo një pjese të tij, që ka ndikim të konsiderueshëm ekonomik, shoqëror, mjedisor, buxhetor apo ndikim tjetër të rëndësishëm. Me propozimin e organit propozues, Qeveria miraton Programin e vlerësimeve ex-post të legjislacionit që do të kryhen gjatë një viti. Si rregull, nevoja për të përgatitur një vlerësim ex-post të legjislacionit identifikohet gjatë përgatitjes së aktit juridik të përgjithshëm ose në një kohë të mëvonshme, gjatë përgatitjes së planit të punës së Qeverisë.
+2. Vlerësimi ex-post i një akti juridik të përgjithshëm apo të një pjese të tij, dorëzohet për shqyrtim përfundimtar në njësinë përkatëse për çështje ligjore në ZKM dhe miratohet nga Qeveria në pajtim me Manualin përkatës për vlerësimin ex-post të akteve juridike.

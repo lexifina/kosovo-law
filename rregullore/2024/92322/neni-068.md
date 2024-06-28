@@ -1,0 +1,6 @@
+# Neni 68
+Ftesat për mbledhje të Qeverisë
+1. Në ftesën për pjesëmarrje në mbledhje, Sekretari i Përgjithshëm i ZKM informon anëtarët e Qeverisë për datën, vendin, kohën e mbajtjes së mbledhjes, rendin e propozuar të ditës dhe materialet.
+2. Ftesa për pjesëmarrje në mbledhje, së bashku me materialet përkatëse, u dërgohet anëtarëve të Qeverisë, jo më vonë se tre (3) ditë para ditës kur mbahet mbledhja e Qeverisë.
+3. Kur Qeveria duhet të debatojë ose të vendosë mbi ndonjë çështje, e cila nuk mund të shtyhet, Kryeministri mund të thërrasë mbledhjen e Qeverisë edhe në afat më të shkurtër se afati i përcaktuar në paragrafin 2 të këtij neni.
+4. Ftesa për pjesëmarrje në mbledhje, së bashku me materialet përkatëse, gjithashtu i dërgohet kabinetit të Kryeministrit, Zëdhënësit të Kryeministrit, Drejtorit të njësisë përgjegjëse për koordinimin, Drejtorit të njësisë përgjegjëse për çështje ligjore, udhëheqësit të njësisë përgjegjëse për komunikim me publikun, Drejtorit të njësisë përgjegjëse për planifikim strategjik dhe Drejtorit të njësisë përgjegjëse për qeverisje të mirë në Zyrën e Kryeministrit. Në mungesë të drejtorëve në mbledhje të Qeverisë marrin pjesë zyrtarë të lartë në këto njësi të caktuar nga drejtorët e tyre.

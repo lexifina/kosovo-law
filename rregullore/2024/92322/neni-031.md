@@ -1,0 +1,18 @@
+# Neni 31
+Përgatitja e versionit fillestar të projekt-aktit juridik të përgjithshëm
+1. Titullari i institucionit apo Sekretari i përgjithshëm i organit propozues, bazuar në Programin e Projektligjeve të Qeverisë dhe në planin e akteve nënligjore të ministrisë dhe afatet e përcaktuara në to, cakton grupin punues për përgatitjen e versionit fillestar të projekt aktit juridik të përgjithshëm.
+19/ 58
+2. Varësisht nga fusha që akti juridik i përgjithshëm synon të rregullojë si dhe kapacitetet e njësive përkatëse, grupi punues i përcaktuar në paragrafin 1 të këtij neni, udhëhiqet nga këshilltari politik i propozuesit, përfaqësuesi i njësisë përgjegjëse për çështje ligjore të organit propozues, njësisë përgjegjëse për integrimin evropian dhe koordinimin e politikave, ose njësisë tjetër përgjegjëse për politikat në atë fushë, apo ekspertit, me vendim të titullarit të institucionit. Grupi punues ka në përbërje, përfaqësues nga njësitë përkatëse të organit propozues, të Zyrës së Kryeministrit, institucionit kryesor koordinues përgjegjës për integrimin në Bashkimin Evropian dhe ministrive ose institucioneve të tjera, kur ndërlidhet me fushën e përgjegjësisë së tyre administrative, përfshirë anëtarët nga kabineti i Kryeministrit dhe/ose kabineteve të ministrave përgjegjës.
+3. Në takimet e grupit punues ftohen të marrin pjesë edhe ekspertë të tjerë vendorë apo të huaj, përfaqësues të institucioneve të tjera, OJQ-ve dhe subjekteve të tjera.
+4. Organi propozues, para themelimit të grupit punues, ndërmerr veprime për të identifikuar interesimin e përfaqësueseve të shoqërisë civile për t’u përfshirë në grupin punues nëpërmjet proceseve të hapura dhe transparente, në përputhje me udhëzimet e përcaktuara në manualin përkatës për konsultim publik dhe përfshirje të shoqërisë civile.
+5. Në rastin kur organ propozues është ministria, drejtori i njësisë përgjegjëse për çështje ligjore të ministrisë njofton njësinë përkatëse për çështje ligjore në ZKM përmes LDS-it lidhur me themelimin e grupit punues.
+6. Për projektligjet të cilat përbëjnë prioritet të Qeverisë të përcaktuar në Programin e Qeverisë dhe përfshijnë fusha përgjegjësish administrative të disa ministrive, titullari i institucionit sponsorizues, propozon formimin e trupës qeveritare në pajtim me nenin 62 të kësaj Rregulloreje, e cila ushtron autorizimet analoge me ato të grupit punues të përcaktuar me paragrafin 7 të këtij neni.
+7. Grupi punues ka përgjegjësitë, si në vijim:
+7.1. Zhvillon procesin e hartimit të versionit fillestar të projekt-aktit juridik të përgjithshëm;
+7.2. Siguron që projekt-akti juridik i përgjithshëm është hartuar në përputhje me Kushtetutën, legjislacionin në fuqi, Acquis të BE-së dhe standardet dhe teknikat e hartimit të legjislacionit;
+7.3. Sipas nevojës, bashkërendon procesin me të gjitha njësitë e tjera brenda organit propozues dhe me njësitë e tjera të administratës shtetërore, të cilat janë të obliguara të ofrojnë ndihmë sipas kërkesave të tij;
+20/ 58
+7.4. Siguron që të zbatohen të gjitha procedurat dhe parimet e përcaktuara me këtë rregullore dhe me legjislacionin tjetër në fuqi.
+8. Udhëheqësi i grupit punues në bashkëpunim me njësinë përkatëse të organit propozues me fushën e përgjegjësise së të cilit bie projekt akti juridik, administron procesin e konsultimit paraprak dhe konsultimit publik në pajtim me standardet dhe procedurat e përcaktuara me këtë Rregullore dhe legjislacionin në fuqi.
+9. Paragrafët e mësipërm të këtij neni, me përjashtim të paragrafit 5, nuk zbatohen për projektligjet që ratifikojnë marrëveshje ndërkombëtare.
+10. Aktet juridike të përgjithshme të brendshme nuk i nënshtrohen procedurave të përcaktuara në këtë nen, përveç rasteve kur Sekretari i Përgjithshëm i organit propozues vendos ndryshe.

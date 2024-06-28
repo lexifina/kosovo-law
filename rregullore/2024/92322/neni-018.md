@@ -1,0 +1,9 @@
+# Neni 18
+Caktimi i grupit punues për hartimin e dokumentit strategjik
+1. Pas miratimit të Planit të Punës së Qeverisë, përfshirë Planin Vjetor për hartimin e Dokumenteve Strategjike, titullari i institucionit apo sekretari i përgjithshëm i organit propozues cakton grupin punues për hartimin e dokumentit strategjik në fjalë.
+2. Varësisht nga fusha që dokumenti strategjik synon të rregullojë si dhe kapacitetet e njësive përkatëse, grupi punues i përcaktuar në paragrafin 1 të këtij neni, udhëhiqet nga këshilltari politik i kabinetit të organit propozues apo nga përfaqësuesi i njësisë përkatëse për integrimin evropian dhe koordinimin e politikave të organit propozuesdhe ka në përbërje, përfaqësues nga njësitë e tjera përgjegjëse të organit propozues, të Zyrës së Kryeministrit dhe ministrive, kabinetit të Kryeministrit ose kabineteve të ministrave përgjegjës ose institucioneve të tjera, kur ndërlidhet me fushën e përgjegjësisë administrative të tyre.
+3. Grupet punuese mund të udhëhiqen edhe nga ekspertët, sipas vendimit të titullarit të institucionit propozues.
+4. Sipas nevojës, në takimet e grupit punues ftohen të marrin pjesë edhe ekspertë të tjerë vendorë apo të huaj, përfaqësues të institucioneve të tjera, shoqërisë civile dhe subjekteve të tjera.
+12/ 58
+5. Organi propozues, para themelimit të grupit punues, ndërmerr veprime për të identifikuar interesimin e përfaqësueseve të shoqërisë civile për t’u përfshirë në grupin punues nëpërmjet proceseve të hapura dhe transparente, në përputhje me udhëzimet e përcaktuara në manualin përkatës për konsultim publik dhe përfshirje të shoqërisë civile.
+6. Udhëheqësi i grupit punues administron procesin e konsultimit paraprak dhe konsultimit publik në pajtim me standardet dhe procedurat e përcaktuara me këtë Rregullore dhe manualin përkatës.
