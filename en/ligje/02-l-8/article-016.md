@@ -1,8 +1,0 @@
-## TITLE IV
-## VITICULTURAL TERRITORIAL UNITS Division in territorial units
-# Article 16
-16.1. Taking into account the ecological circumstances (relief, climate, soil, agro biological factors and viticultural sciences), the principal organoleptic properties of wines, and historically traditional aspects of viticulture, the viticultural territory of the Kosovo shall be divided into the following territorial units: viticultural regions, sub-regions, zones, and locations.
-16.2. A viticultural region is a major viticultural territorial unit, with similar climatic and soil conditions, which, combined with agro biological factors, affect the principal organoleptic characteristics of the wine produced in the region. The viticultural regions are the Region of Dukagjini and the Kosovo Plain.
-16.3. A viticultural sub-region is the basic geographically-determined territory, with similar climatic and soil conditions, similar varieties of cultivated vine, and similar other agro biological factors, which together make it possible to produce grapes and wines possessing organoleptic properties which are characteristic for the viticultural sub region.
-16.4. Viticultural territorial units smaller than viticultural sub-regions are viticultural zones and viticultural and viticultural locations. These are all geographically-determined parts with similar climatic, soil, elevation, and other environmental factors, and with specific varieties of cultivated vine, which all together enable production of grapes and wines different in quality and organoleptic properties from grapes and wines produced in other viticultural territorial units of the same viticultural region. Viticultural sub regions, zones and locations shall be designated by an Subsidiary act.
-Vine selection

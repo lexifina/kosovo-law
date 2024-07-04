@@ -1,5 +1,0 @@
-# Article 10
-10.1. Notwithstanding the provisions of title VII the production of grape, wine and other grape and wine products must be carried out employing only the prescribed technological processes and allowed enological substances.
-7 10.2. Improving of must and wine, and sugaring of grape, mash or must is not allowed, unless the Authorized institution issues a prescribed permit for sugaring of mash or must. The Authorized institution may issue the permit if the weather in a particular year is extremely unfavorable for the growing and development of vines, taking into account the viticulture territorial unit and the anticipated quality class of wine and the variety of grape. It is forbidden to issue a permit for sugaring if the mash or must are intended for production of a high-quality wine.
-10.3. The permit referred to in the previous paragraph applies to all producers of grapes and wines of a particular variety in a specified viticulture territorial unit, and is issued as part of due official procedure. and one copy is sent to the appropriate inspectorate.
-Blending of grapes, mash, must and wine

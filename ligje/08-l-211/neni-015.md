@@ -1,0 +1,11 @@
+# Neni 15
+Zonat gjeografike të kultivimit të hardhisë - njësitë territoriale
+1. Duke e marrur parasysh rrethanat ekologjike si: relievin, klimën, tokën, faktorët agrobiologjik dhe shkencorë, komponentët parimore organoleptike të verërave dhe aspektet historike tradicionale të vreshtarisë, territori vreshtar i Kosovës do të ndahet në njësitë territoriale si në vijim: rajonet, nënrajonet, zonat vreshtare dhe lokalitetet vreshtare.
+2. Territori i Republikës së Kosovës përkufizohet si njësi territoriale e vreshtarisë e ndarë në dy rajone të vreshtarisë.
+2.1. Rajoni i Dukagjinit dhe
+2.2. Rajoni i Rrafshit të Kosovës.
+3. Rajoni vreshtar është njësia më e madhe administrative dhe organizative që përfaqëson një zonë gjeografike me kushte të ngjashme klimatike dhe pedologjike, të cilat së bashku me faktorët agrobiologjikë ndikojnë në karakteristikat kryesore cilësore të rrushit, mushtit dhe verërave të prodhuara në Rajon.
+4. Nënrajoni vreshtar është një njësi administrative më e vogël brenda rajonit të verës dhe përfaqëson një zonë të kufizuar gjeografikisht me kushte të ngjashme klimatike dhe pedologjike, asortiment të ngjashëm dhe kushte të tjera agrobiologjike, të cilat mundësojnë prodhimin e rrushit, mushtit dhe verërat me karakteristika specifike të nënrajonit.
+5. Zona vreshtare është njësia bazë e vreshtarisë brenda nënrajonit të verës, të cilat përfaqësojnë një hapësirë më të vogël gjeografike me kushte shumë uniforme klimatike dhe pedologjike, një ose disa varietete dhe kushte të tjera agrobiologjike që mundësojnë prodhimin e rrushit, mushtit dhe verës, me karakteristikat specifike të atyre vreshtave.
+6. Lokalitetet vreshtare janë pjesë të kufizuara gjeografikisht të vreshtave me kushte të përshtatshme mjedisore, në aspektin klimatik, tokës, lartësisë, ekspozimit dhe asortimentit, të cilat mundësojnë prodhimin e rrushit, mushtit dhe verërave që ndryshojnë në cilësi dhe karakteristika organoleptike nga të njëjtat produkte nga zona të tjera prodhimi brenda të njëjtit nënrajon.
+7. Ministria me akt nënligjor i përcakton kushtet dhe mënyrën e prodhimit të verërave cilësore, rendimentet maksimale për hektarë, përcaktimin e kufijve për rajonet e vreshtarisë, nënrajoneve të vreshtave, zonat vreshtare dhe lokalitetet vreshtare.

@@ -1,0 +1,11 @@
+# Article 15
+Geographical zones of vine cultivation - territorial units
+1. Taking into account the ecological circumstances such as: relief, climate, soil, agrobiological and scientific factors, the principle organoleptic components of wines and the traditional historical aspects of viticulture, the viticulture territory of Kosovo will be divided into territorial units as follows: regions, sub- regions, vineyard zones and vineyard localities.
+2. The territory of the Republic of Kosovo is defined as a territorial unit of viticulture divided into two viticulture regions:
+2.1. Dukagjin region and
+2.2. The region of the Kosovo Plain.
+3. The vineyard region is the largest administrative and organizational unit that represents a geographical zone with similar climatic and pedological conditions, which together with agrobiological factors affect the main qualitative characteristics of grapes, must and wines produced in the Region.
+4. The vineyard sub-region is a smaller administrative unit within the wine region and represents a geographically limited zone with similar climatic and pedological conditions, similar assortment and other agrobiological conditions, which enable the production of grapes, must and wines with specific characteristics of the sub-region.
+5. The vineyard zone is the basic unit of viticulture within the wine sub-region, which represents a smaller geographical space with very uniform climatic and pedological conditions, one or several varieties and other agrobiological conditions that enable the production of grapes, and wine, with the specific characteristics of those vineyards.
+6. Vineyard localities are geographically limited parts of vineyards with suitable environmental conditions, in terms of climate, soil, altitude, exposure and assortment, which enable the production of grapes, must and wines that differ in quality and organoleptic characteristics from the same products from other production zones within the same sub- region.
+7. The Ministry by sub-legal act defines the conditions and the way of production of quality wines, the maximum yields per hectare, the definition of the borders for the viticulture regions, sub-regions of vineyards, viticulture zones and viticulture localities.

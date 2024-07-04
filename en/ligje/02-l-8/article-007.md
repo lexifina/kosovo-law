@@ -1,8 +1,0 @@
-# Article 7
-7.1. For the redaction of Register of Vineyards, the Ministry except the central Register utilizes other databases, which provides records of actual and potential vineyards. The register of vineyards shall be kept in conjunction with the cadastral register.
-7.2. Only absolute viticulture positions may be registered as potential vineyards. An absolute viticulture position is an area of land on which growing grapes intended for wine production will result in qualitatively and quantitatively optimal yields, and will be more profitable than the cultivation of any other agricultural crops.
-7.3. In order to create and maintain the Register of Vineyards, the Ministry shall make use of the following data:
-a) for producers: from the Central Register of grape and wine growers. For natural persons it is admissible to obtain the name, surname, address and standardized personal code number from the Central Register of Citizens; in the case of a legal person it is admissible to obtain the name, address, code number and other publicly accessible data from the Register of Registry of Business Organizations in either case, it is also admissible to consult the Register of Territorial Units and the Record of House Numbers in order to obtain the requisite data.
-6 b) for the vineyard position: data in the cadastral register, topographical plans, maps, and databases that is taken from the municipalities.
-7.4. Maintainers or owners of the data shall supply the data to the Ministry free of charge, however, they may charge the direct material costs for any additional copies required.
-Grapes
