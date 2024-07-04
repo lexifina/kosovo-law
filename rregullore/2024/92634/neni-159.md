@@ -1,0 +1,2 @@
+# Neni 159
+Ndërmarrja e cila menaxhon me tregjet, është e obliguar që në të gjitha tregjet të sigurojë sasi të mjaftueshme të ujit të pijshëm, furnizim të rregullt për freskimin e prodhimeve dhe pastrimin e tregjeve, si dhe të ndërtojë numrin e caktuar dhe të nevojshëm të kabinave të nyjave sanitare, të cilat duhet të pastrohen dhe të mirëmbahen rregullisht, dhe të vihet numri i mjaftueshëm i enëve dhe kontejnerëve për mbeturina dhe fundërrina, të cilat duhet të pastrohen rregullisht.

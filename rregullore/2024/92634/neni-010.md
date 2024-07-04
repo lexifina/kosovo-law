@@ -1,0 +1,3 @@
+# Neni 10
+Ndërtimin e rrjetit të ri nëpër rrugë në të cilat ekzistojnë përcjellësit kryesorë të ujësjellësit 10.1 dhe të kanalizimit, me kërkesën e investuesit, kryesisht i kryen ndërmarrja së cilës i janë besuar punët për mirëmbajtjen e rrjetit të ujësjellësit dhe të kanalizimit, ose në mbikëqyrje të saj.
+10.2 Ndërmarrja nga pika paraprake, obligohet që gjatë ndërtimit të rrjetit të ujësjellësit dhe të kanalizimit, t’u përmbahet dispozitave sanitare-teknike për vendosjen e rrjetit të ujësjellësit dhe të kanalizimit. Ndërmarrja nga pika 10.1 e këtij neni, është përgjegjëse për cilësinë e të gjitha punëve rreth lidhjes me rrjetin gjegjës.
