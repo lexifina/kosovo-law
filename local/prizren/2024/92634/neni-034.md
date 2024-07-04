@@ -1,0 +1,2 @@
+# Neni 34
+Ndërmarrja së cilës i janë besuar punët për mirëmbajtjen e ujësjellësit dhe të 34.1 kanalizimit, është e obliguar që, pas punëve të kryera ndërtimore në kyçje, terrenin (vendin e punimeve) ta kthejë në gjendje të rregullt, si ka qenë më parë. Obligimi nga paragrafi i mëparshëm, bie në barrë të shfrytëzuesit, respektivisht të 34.2 investuesit, nëse këto punë i kryen vet (rrëmihja dhe mbulimi i vendit ku është kryer lidhja).

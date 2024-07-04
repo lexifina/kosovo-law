@@ -1,0 +1,2 @@
+# Neni 39
+Projektet e të gjitha objekteve që do të ndërtohen në pjesët e territorit të komunës, 39.1 në vete duhet të përfshijnë edhe planet dhe skicat e tokës për gjelbërim, të cilat sipas lokacioneve u takojnë atyre objekteve. Projektet të cilat nuk i kanë planet - skicat për gjelbërim, do të konsiderohen si jo të plota 39.2 dhe nuk mund të lejohen. Nëse bëhet ndërtimi në kundërshtim me pikat: 39.1 dhe 39.2 të këtij neni, 39.3 Inspekcioni komunal kompetent do të ndalojë kryerjen e punimeve deri sa ato masa nuk ndërmirren.

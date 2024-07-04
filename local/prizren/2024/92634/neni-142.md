@@ -1,0 +1,2 @@
+# Neni 142
+Të gjitha automjetet tjera tërheqëse para se të hyjnë në sipërfaqet publike të trafikut 142.1 publik, patjetër duhet të pastrohen nga balta dhe mbeturinat tjera. Të gjitha mjetet bartëse para daljes në trafik publik, patjetër duhet të pastrohen nga 142.2 balta dhe papastërtia e shkaktuar nga shkarkimet gjatë punës në objektet ndërtimore dhe nga hapësirat tjera, nga të cilat balta dhe papastërtitë tjera mund të barten në sipërfaqe publike.

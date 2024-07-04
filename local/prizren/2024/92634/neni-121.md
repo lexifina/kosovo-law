@@ -1,0 +1,3 @@
+# Neni 121
+Evitimi i prishjeve në pajisjet komunale dhe gropimi i sipërfaqeve publike, mund 121.1 të bëhen nga ana e ndërmarrjeve të cilat kujdesen për këto pajisje. Rastet kur ndodhin prishjet urgjentisht duhet të evitohen. Në raste të tilla, ndërmarrja e cila e ka bërë gropimin është e obliguar që në ditën 121.2 vijuese, ta njoftojë organin komunal kompetent për gropimin e sipërfaqes publike dhe njëkohësisht të kërkojë lejen për gropim.
+121.3 Nëse organi kompetent vlerëson se evitimi i prishjes, nga paragrafi 122.1 i këtij neni, nuk ka qenë i natyrës urgjente, konsiderohet se punët e kryera janë bërë pa leje dhe kryesi i punëve i bartë të gjitha pasojat juridike ligjore.

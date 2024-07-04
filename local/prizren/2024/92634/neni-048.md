@@ -1,0 +1,2 @@
+# Neni 48
+Vendosja e instalimeve nëntokësore (objekteve të ujësjellësit dhe të kanalizimit, elektro- distribuimit dhe të rrjetit të PTK-së e të ngjashme) në sipërfaqet e gjelbra, bëhet në distancë prej 2 m nga fidani ekzistues, por me lejen paraprake për gropim nga organi i administratës dhe me obligimin e investuesit që ta kthejë terenin në gjendjen e mëparshme, sipas kushteve të përshkruara në leje dhe në projekt.

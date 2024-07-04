@@ -1,0 +1,2 @@
+# Neni 68
+Menaxhimin e punëve për rregullim, shfrytëzim dhe mirëmbajtje të hapësirave publike si dhe vendosjen e objekteve për reklamim mund t’a ushtrojë edhe personi juridik apo fizik, bëhet nëpërmjet Ligjit për Prokurimin Publik (në tekstin e mëtejme personi juridiko/fizik i kontraktuar nga Komuna), ose me një marrëveshje të veçantë, Komuna mund të lidhë një kontratë me ndërmarrjet publike për shfrytëzim dhe mirëmbajtjen e hapësirave dhe objekteve publike si dhe zhvillimin e veprimtarisë për reklamim duke respektuar kushtet që i parashtron DUPH-ja.
