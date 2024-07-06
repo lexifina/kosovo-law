@@ -1,0 +1,6 @@
+# Article 2
+Ratification of the Agreement
+1. The Loan Agreement between the Republic of Kosovo, represented by the Ministry of Finance, Labour and Transfers, and the Council of Europe Development Bank (CEB) for the "Adequate Social Housing" project shall be ratified.
+2. The main objective of this project is to develop the social housing management system in Kosovo and increase the number of social housing units in the country. In this case, the agreement includes several key components for achieving the goal of the project.
+3. The agreement includes increasing the number of social housing units which can be done by renovating existing social housing, converting existing buildings into new affordable social housing, building new social housing, etc. Vulnerable families and those with low income who have not solved the issue of housing can benefit from this component. Also, through affordable rents, low to middle income families who cannot afford market prices can also benefit.
+4. The Loan Agreement has a total value of EUR 25,000,000. This will enable the Government of Kosovo to develop the social housing system in the country, increase the number of social housing units in relation to the total number of housing units, and improve the living conditions for low-income families who own houses that do not meet the conditions for living
