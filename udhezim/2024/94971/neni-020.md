@@ -1,0 +1,10 @@
+# Neni 20
+Qasja në të dhënat në dosje
+1. Qasje të plotë në të dhënat e dosjes së personit ndaj të cilit ekzekutohet sanksioni penal apo paraburgimi në Institucionet Korrektuese kanë vetëm zyrtarët të cilët janë të ngarkuar me punë në zyrën ekzekutive ku mbahen dosjet.
+2. Në rast kur zyrtari përgjegjës për ekzekutim mungon nga puna ose për ndonjë arsyeje tjetër nuk mund ta kryej detyrën, Drejtori i Institucionit Korrektues e autorizon një zyrtar tjetër përkohësisht sipas nivelit të përgjegjësisë.
+3. Zyrtari i autorizuar ka për obligim që ta njoftoj zyrtarin përgjegjës për të gjitha punët dhe veprimet të cilat i ka ndërmarr gjatë kohës së mungesës së tij.
+4. Në raste të veçanta, zyrtarët tjerë të Institucionit Korrektues apo Institucioneve tjera relevante, sipas detyrës zyrtare mund të kenë qasje në dosjet e personave ndaj të cilit ekzekutohet sanksioni penal apo paraburgimi në prezencën e zyrtarit përgjegjës të zyrës ekzekutive.
+5. Personi ndaj të cilit ekzekutohet sanksioni penal apo paraburgimi ka të drejtë të ketë qasje të kufizuar në të dhënat e përpunuara duke përfshirë edhe video incizimet e përpunuara nga kamerat e sigurisë brenda Institucionit Korrektues pas aprovimit të kërkesës së tij nga Drejtori i Institucionit përkatës Korrektues.
+6. Drejtori i Institucionit pas pranimit të kërkesës për qasje në të dhënat e përpunuara, pas vlerësimit të ndjeshmërisë së të dhënave, brenda afatit të arsyeshëm por jo më të gjatë së tridhjetë (30) ditë vendos dhe të jep përgjigjeje në kërkesën e të burgosurit.
+7. Në rast të transferimit të personave ndaj të cilit ekzekutohet sanksioni penal apo paraburgimi në ndonjë Institucionin tjetër Korrektues, shkresat e lëndës së dosjes nga zyrtari përgjegjës duhet të dorëzohen në zarf të mbyllura tek zyrtari përgjegjës për transportin e tij, i cili të njëjtën duhet ta dorëzoj tek zyrtarët përgjegjës të Institucionit Korrektues ku bëhet pranimi i të burgosurit.
+8. Kur personi ndaj të cilit ekzekutohet sanksioni penal apo paraburgimi lirohet nga Institucioni, shkresat e lëndës duhet të ruhen në arkivë të Institucionit si dosje pasive në pajtim me legjislacionin përkatës në fuqi
