@@ -1,0 +1,5 @@
+# Neni 11
+Aplikimi për programet e reja të komuniteteve joshumicë
+1. Aplikimi për programet e reja nga radhët e komuniteteve joshumicë bëhet duke pasur parasysh masat afirmative të përcaktuara me këtë UA.
+2. IAL, pas aplikimit për programet e reja, në rast të rrezikimit të programit nga radhët e komuniteteve joshumicë, obligohet që në afat sa më të shpejtë të përcjell kërkesën për sigurimin e kuotës për personel akademik, për të siguruar bartësit adekuat të programit, duke zbatuar procedurat e konkursit publik me prioritet.
+3. MASHTI, në bashkëpunim me institucionet tjera kompetente, obligohet që të realizojë kërkesën për sigurimin e kuotës për personel akademik për programet e komuniteteve joshumicë, kur të njëjtit rrezikohen për shkak të bartësve. Kërkesa përfshin nevojat minimale për mbulimin financiar të numrit të bartësve që nevojiten për programin studimor. Kërkesa me pasqyrimin e nevojave, sipas këtij neni i drejtohet MASHTI-t nga Këshilli drejtues i IAL, në rastin kur programi financohet nga buxheti i Republikës së Kosovës.
