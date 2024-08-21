@@ -1,0 +1,16 @@
+# Neni 29
+Paraqitja e informatave
+1. Kur debitori paraqet kërkesë për inicim të procedurës së falimentimit, duhet te paraqes dokumentet zyrtare te nënshkruara dhe vulosura nga debitori që përmbajnë:
+1.1. listën e të gjithë kreditorëve për të cilët ai ka njohuri se ekzistojnë, së bashku me informatat kontaktuese për secilin prej tyre;
+1.2. listën e të gjitha kërkesave ndaj debitorit për të cilat ai ka njohuri se ekzistojnë, së bashku me vlerën e secilës kërkesë, datën e përafërt kur janë shfaqur kërkesat dhe informacionin nëse kërkesa është e kontestuar, e mundshme ose e pamaturuar;
+1.3. listën e të gjitha aseteve të debitorit, së bashku më një vlerësim të përgatitur me mirëbesim në lidhje me vlerën e atyre aseteve. Nëse një aset është i prekshëm, debitori duhet të jap lokacionin se ku gjendet ai aset; nëse aseti është i paprekshëm atëherë debitori duhet të jap informacion se kush është personi i detyruar ndaj asestit të paprekshëm dhe informatat kontaktuese të tij;
+1.4. listën e të gjithë transaksioneve jashtë rrjedhës normale të biznesit të debitorit, në të cilat debitori ka qenë palë ose përfitues, të realizuara gjatë dy (2) viteve të fundit llogaritur prej ditës në të cilën është paraqitur kërkesa për inicim të procedurës së falimentimit. Debitori gjithashtu duhet të paraqes datat e këtyre transaksioneve dhe të jap informatat kontaktuese të palëve në këto transaksione (së bashku me informatën nëse ndonjëra nga këto palë konsiderohet person i brendshëm sipas këtij ligji); dhe
+1.5. listën e të gjitha transaksioneve, vlera e të cilave ka qenë më shumë se nëntëqind e nëntëdhjetë e nëntë (999) Euro, në të cilat debitori ka qenë palë ose përfitues, të realizuara gjatë një (1) viti llogaritur nga dita në të cilën debitori ka paraqitur kërkesën për inicim të procedurës së falimentimit. Debitori duhet të paraqes datën e secilit transaksion, identitetin dhe informatat kontaktuese të secilës palë në këto transaksione së bashku me informatën nëse ndonjëra nga këto palë konsiderohet person i brendshëm sipas këtij ligji.
+1.6. Të gjithë emrat e regjistruar dhe emrat tregtar me të cilët ka operuar në pesë (5) vitet e fundit.
+2. Nëse kërkesa për inicim të procedurës së falimentimit paraqitet nga kreditorët, kreditorët duhet të paraqesin sa më shumë informata që kanë në posedim ose që mund t’i sigurojnë në përputhje me paragrafin 1 të këtij neni.
+3. Nëse kërkesa e kreditorëve për hapje të rastit të falimentimit pranohet nga Gjykata, debitori e ka për obligim që brenda afatit dhjetë (10) ditor nga hapja e rastit t’i ofrojë Gjykatës të gjitha informatat sipas paragrafit 1 të këtij neni.
+4. Në rast të ekzistimit të rrethanave të arsyeshme, gjykata mund të zgjas afatin e paraparë në paragrafin 3 të këtij neni edhe për dhjetë (10) ditë tjera.
+5. Të gjitha listat dhe informatat e kërkuara sipas këtij neni do të jenë të hapura për publikun, por gjykata sipas kërkesës së palës vendos që informatat e tilla të mbyllen për publikun. Në rast të ekzistimit të një kërkese të tillë, debitori duhet të provojë se informatat e tilla:
+5.1. përbëjnë sekret tregtar ose informacion tjetër konfidencial hulumtues, zhvillimor ose komercial i cili në rastin kur bëhet i ditur për publikun mund të reduktojë vlerën e pronave të pasurisë falimentuese;
+5.2. përbëjnë skandal ose shpifje;
+5.3. duhet të mbahen sekrete sipas një ligji të aplikueshëm.

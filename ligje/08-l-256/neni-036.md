@@ -1,0 +1,5 @@
+# Neni 36
+Kthimi i pasurisë
+1. Përfaqësuesi i pasurisë së falimentimit ka kompetencë të kthejë përmes veprimit ose të kërkojë dhe pranojë kthimin e cilësdo pronë, pjesë e pasurisë së falimentimit e cila është duke u mbajtur nga një person tjetër nga debitori në momentin e fillimit të procedurës së falimentimit.
+2. Cilido person i cili posedon ose kontrollon një pronë, pjesë të pasurisë së falimentimit duhet t’i dorëzojë përfaqësuesit të pasurisë së falimentimit atë pronë ose kundërvlerën e plotë të asaj prone, sipas zgjedhjes së përfaqësuesit të pasurisë falimentuese, me kushtin e mbrojtjes së vlerës nga përfaqësuesi i pasurisë.
+3. Cilido person i cili ka një detyrim që është pronë, pjesë e pasurisë falimentuese dhe ai detyrim është maturuar ose është bërë i pagueshëm, duhet që menjëherë pas kërkesës ta përmbush në tërësi detyrimin te përfaqësuesi i pasurisë falimentuese.

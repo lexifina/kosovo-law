@@ -1,0 +1,4 @@
+# Neni 136
+Procedurat e njëkohësishme – fillimi i procedurave sipas këtij ligji pas njohjes së një
+procedure të huaj kryesore
+Pas njohjes së procedurës së huaj kryesore, procedura sipas këtij ligji mund të fillohet vetëm nëse debitori ka asete ne Kosovë, efektet e procedurës janë të kufizuara vetëm ndaj aseteve të debitorit të cilat ndodhen në Kosovë dhe deri në masën sa është e nevojshme për implementimin e bashkëpunimit dhe koordinimit të paraparë në nenet 133 deri 135 të këtij ligji, ndaj aseteve tjera të debitorit të cilat sipas ligjeve të Kosovë duhet të administrohen në këtë procedurë.

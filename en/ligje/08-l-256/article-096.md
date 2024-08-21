@@ -1,0 +1,3 @@
+# Article 96
+Cases with Assets of Small Value
+If the Administrator determines that the property of the bankruptcy estate, when liquidated and reduced to cash, will not exceed the amount of two hundred (200) Euro, and such amount will not pay all allowed claims in full, the Administrator shall notify creditors of this determination and shall make a motion to abandon all property of the estate under Article 34 of this Law. If the court approves the abandonment, the Administrator shall promptly take all steps necessary to close the case, including all steps required by this Chapter. In this case, the Administrator enjoys the right on his remuneration, if he would have sold the abandoned properties and realized the distribution.

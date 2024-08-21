@@ -1,0 +1,9 @@
+# Neni 19
+Forma e kërkesës dhe regjistrimi i kërkesës
+1. Kërkesat sipas këtij Kapitulli mund të jenë në formularët e shpallur sipas Kapitullit I të këtij ligji, por nëse nuk ka formularë të tillë, ato duhet të përmbajnë të paktën informacionin e mëposhtëm:
+1.1. emrin e debitorit dhe të gjithë emrat të cilët debitori i ka përdorur në pesë (5) vitet e fundit para inicimit të kërkesës për falimentim;
+1.2. të dhënat kontaktuese të debitorit, të cilat minimalisht duhet të përfshijnë adresën, numrin e telefonit, numrin fiskal, numrin e regjistrimit të biznesit, adresën e e-mailit dhe çfarëdo faqe në internet të cilën e ka përdorur debitori nëse ka ekzistuar një e tillë; dhe
+1.3. kur debitori është person juridik, të gjitha informatat në dispozicion për zyrtarët, drejtorët, aksionarët, menaxherët ose personat tjerë që gëzojnë kontroll ose pozita menaxheriale ndaj pronave të debitorit, së bashku me informatat kontaktuese për secilin prej tyre në përputhje me nën-paragrafin 1.2 të këtij neni.
+2. Kërkesat e paraqitura nga kreditorët duhet të përfshijnë sa më shumë informata për debitorin që kreditorët kanë në dispozicion, por minimalisht duhet të përfshijnë emrin e debitorit dhe informata të mjaftueshme kontaktuese për debitorin me qëllim të dërgimit të njoftimeve nga gjykata.
+3. Gjykata duhet të regjistroj kërkesën për inicim të procedurës së falimentimit menjëherë pas dorëzimit të saj nga pala. Gjykata bënë regjistrimin e kërkesës pa marrë parasysh të metave të saj. Gjatë regjistrimit duhet të shënohet qartë data dhe koha e pranimit të kërkesës.
+4. Gjykata e njofton menjëherë regjistrin e bizneseve, regjistrin e pengut dhe hipotekës, bankat komerciale, regjistrin e kredive të Bankës Qendrore, Odën e Noterëve, dhe administratën tatimore për inicimin e procedurës së falimentimit.

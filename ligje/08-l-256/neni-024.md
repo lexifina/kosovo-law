@@ -1,0 +1,11 @@
+# Neni 24
+Moratoriumi dhe ndërprerja e të gjitha veprimeve kundër debitorit
+1. Përveç në rastet kur parashihet ndryshe në këtë ligj, një kërkesë për inicim të procedurës së falimentimit e iniciuar sipas Kapitullit III të këtij ligji vendos ndaj të gjitha entiteteve , moratoriumin dhe urdhër ndalesë pa paralajmërim në lidhje me:
+1.1. fillimin ose vazhdimin e çfarëdo veprimi gjyqësor, administrativ ose çfarëdo veprimi ose procedure të drejtuar kundër aktiviteteve afariste të debitorit ose pronave të tij duke përfshirë çfarëdo bllokimi të llogarive bankare dhe veprimeve të cilat janë iniciuar ose do të mund të inicioheshin para inicimit të procedurës së falimentimit;
+1.2. përmbarimin ndaj debitorit dhe pronave të tij të çfarëdo aktgjykimi të nxjerr para inicimit të procedurës së falimentimit ose hapjes së rastit, përderisa përmbarimi i tillë është i ndërlidhur me aktivitetet afariste të debitorit;
+1.3. çfarëdo veprimi me qëllim të marrjes në posedim ose me qëllim të ushtrimit të kontrollit ndaj pronave pjesë të pasurisë së falimentimit;
+1.4. çfarëdo veprimi me qëllim të krijimit, regjistrimit ose përmbarimit të një barre ndaj pronave pjesë të pasurisë së falimentimit;
+1.5. çfarëdo veprimi me qëllim të krijimit, regjistrimit ose përmbarimit të një barre, deri në masën që ajo barrë ndërlidhet me aktivitetet afariste të debitorit dhe deri në masën që ajo barrë siguron një kërkesë që ka lindur para inicimit të procedurës së falimentimit;
+1.6. çfarëdo veprimi me qëllim të mbledhjes, vlerësimit ose rimarrjes së një kërkese ndaj debitorit, deri në masën që veprimi ndërlidhet me aktivitetin afarist të debitorit dhe deri në masën që ajo kërkesë ka lidhur para inicimit të procedurës së falimentimit; dhe
+1.7. çfarëdo kërkese për shlyerje të detyrimit drejtuar debitorit, të ndërlidhur me aktivitetin afarist të debitorit, kërkesë e paraqitur para inicimit të procedurës së falimentimit.
+1.8. çfarëdo procedure te përmbarimit, ndërmjetësimit apo arbitrazhit.

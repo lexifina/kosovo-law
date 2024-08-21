@@ -1,0 +1,7 @@
+# Neni 14
+Procedura për aprovimin e planit të para-dakorduar
+1. Një debitor i cili ka siguruar votat e kreditorëve të tij për një plan të riorganizimit para paraqitjes së kërkesës për falimentim, mundet sipas zgjedhjes së tij të kërkoj menjëherë nga gjykata konfirmimin e planit në seancë dëgjimore. Kërkesa për konfirmim të planit bëhet menjëherë me kërkesë për fillim të procedurës së falimentimit.
+2. Nëse debitori paraqet një kërkesë të tillë, gjykata do të mbajë një seancë dëgjimore të shpejtuar në të cilën do të përcaktojë nëse në fazën para fillimit të procedurës, debitori i ka plotësuar kushtet e votimit si dhe kërkesat për zbulim të informatave sipas Kapitullit VI të këtij ligji.
+3. Nëse gjykata përcakton se gjatë procedurës para inicimit të rastit të falimentimit, debitori i ka dhënë informacionin e kërkuar kreditorëve sipas Kapitullit VI të këtij ligji dhe kushtet janë plotësuar, gjykata menjëherë do të vazhdojë me konfirmimin e planit nëse vërtetohet se janë plotësuar kushtet për konfirmim të planit sipas Kapitullit VI të këtij ligji.
+4. Nëse gjykata vërteton se gjatë procedurës para inicimit të rastit të falimentimit, debitori nuk i ka dhënë informatat e kërkuara sipas Kapitullit VI të këtij ligji, atëherë gjykata nxjerr aktvendim për refuzimin e konfirmimit të planit të riorganizimit dhe debitori vazhdon me procedurën e falimentimit sikurse të mos kishte ekzistuar fare plani i para-dakorduar.
+5. Kundër aktvendimit sipas paragrafit 4 të këtij neni për refuzimin e konfirmimit të planit të riorganizimit, nuk lejohet ankesë.

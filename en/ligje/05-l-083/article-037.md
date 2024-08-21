@@ -1,2 +1,0 @@
-# Article 37
-Avoiding Power The bankruptcy estate representative shall have the power to avoid transactions made, and recovery property transferred, before the commencement of bankruptcy proceeding in accordance with Articles 38,39,40,41,42,43,44 of this Law. For purposes of this law, avoidance is the setting aside or nullification of a transaction such that it is retroactively ineffective and that the transferee legally acquired nothing as a result of the transfer.

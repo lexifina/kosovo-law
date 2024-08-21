@@ -1,6 +1,0 @@
-# Article 93
-Joint Stock Companies 1. If the debtor is a joint stock company under the Law on Business Organizations, then on or before the closing of the case, and subject to the provisions of this Chapter, the Administrator shall take all steps and actions necessary under such law to dissolve and terminate the existence of that joint stock company:
-1.1. such actions related to dissolution and termination shall not include any actions which include or involve any equity security holders of the debtor, each of which is hereby exempted. The exempted actions include the calling of any required meetings of the equity security holders or the giving of any notices to such equity security holders;
-1.2. such actions related to the dissolution and termination include giving notice to the business and tax registries of the termination of the entity no later than the closing of the case.
-2. Only the Administrator, shall have the right to file claims arising from another Law except the Law on Bankruptcy, on behalf of creditors towards the promotors, shareholders, officers, directors, agents or senior managers of the joint stock company.
-3. The right to file claims according to paragraph 2 of this Law shall expire at the moment of the closing of the bankruptcy case or at latest two (2) years from the date the bankruptcy case was opened.

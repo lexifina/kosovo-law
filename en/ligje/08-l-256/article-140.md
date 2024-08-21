@@ -1,0 +1,3 @@
+# Article 140
+Rule of payment in concurrent proceedings
+Without prejudice to secured claims or rights in rem, a creditor who has received part payment in respect of its claim in a proceeding pursuant to a law relating to insolvency in a foreign state may not receive a payment for the same claim in a proceeding under this Law regarding the same debtor, so long as the payment to the other creditors of the same class is proportionately less than the payment the creditor has already received.

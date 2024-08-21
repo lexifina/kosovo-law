@@ -1,4 +1,0 @@
-# Article 92
-Special Rules for Liquidation of Different Types of Business Organizations 1. In addition to the duties specified in Article 88 of this Law, an Administrator shall ensure that
-LAW No. 05/L - 083 ON BANKRUPTCY after the debtor receives a discharge in accordance with Article 105 of this Law, the formal existence of each debtor other than a debtor who is an individual is terminated through the closing of the business organization, no later than the closing of the case.
-2. Such termination shall be accomplished by compliance with the applicable provisions of this Chapter of this Law. 3.If an Administrator is still serving after the entry of a discharge for a debtor, that Administrator shall have the exclusive power and authority to pursue claims and to take actions on behalf of the debtor until the closing of the case.

@@ -1,4 +1,0 @@
-# Neni 92
-Dispozitat e veçanta për likuidimin e formave të ndryshme të shoqërive tregtare 1. Përveç detyrave të Administratorit të përcaktuara në nenin 88 të këtij ligji, Administratori duhet të siguroj lirim sipas nenit 105 të këtij ligji, ekzistenca formale e secilit debitor përveq debitorit individual duhet të përfundojë përmes shuarjes së shoqërisë tregtare, jo më vonë se në ditën e mbylljes së rastit.
-2. Shuarja e tillë duhet të bëhet në përputhje me dispozitat në fuqi të parapara në këtë Kapitull të këtij Ligji.
-3. Nëse Administratori është ende duke shërbyer si Administrator në rastin e falimentimit pas lirimit nga borxhet të debitorit, Administratori do të ketë kompetenca ekskluzive për të realizuar të gjitha kërkesat dhe për të ndërmarrë të gjitha veprimet në emër të debitorit deri në mbylljen e rastit.

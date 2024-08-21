@@ -1,2 +1,0 @@
-# Neni 37
-Anulimi i bartjeve transfereve të caktuara Përfaqësuesi i pasurisë të falimentimit ka kompetencë të anulojë transaksionet e realizuara dhe të kthejë pronat e transferuara para inicimit të procedurës së falimentimit në përputhje me dispozitat e neneve 38,39,40,41,42,43,44 të këtij ligji. Për qëllim të këtij ligji, anulimi i bartjeve të caktuara nënkupton mënjanimin ose anulimin e transaksioneve të cilat retroaktivisht shpallen pa efekte juridike dhe përfituesi i transferit konsiderohet se nuk ka pranuar asgjë nga debitori.

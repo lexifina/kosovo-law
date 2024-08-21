@@ -1,0 +1,3 @@
+# Neni 96
+Rastet me asete me vlerë të vogël
+Nëse Administratori përcakton se pronat e pasurisë falimentuese kur shndërrohen në vlerë të parasë së gatshme nuk e tejkalon vlerën e dyqind (200) euro, dhe shuma e tillë nuk do të mund të paguajë kërkesat e kreditorëve në tërësi, Administratori i njofton kreditorët për përcaktimin e tillë të vlerës së pronës dhe paraqet kërkesë për braktisje të pronave sipas nenit 34 të këtij ligji. Nëse gjykata e aprovon kërkesën për braktisje të pronave, Administratori ndërmerr të gjitha veprimet për mbylljen e rastit, përfshirë të gjitha veprimet e parapara në këtë Kapitull. Administratori në këtë rast gëzon të drejtën në shpërblimin e tij, sikurse pronat e braktisura t’i kishte shitur dhe realizuar shpërndarjen.

@@ -1,0 +1,10 @@
+# Neni 95
+Ortakët e përgjithshëm të ortakërive të përgjithshme dhe ortakërive të kufizuara
+1. Administratori paraqet kërkesë ndaj ortakut të përgjithshëm në ortakëri të përgjithshme ose ortakëri të kufizuar, në rastet kur:
+1.1. debitori është ortakëri e përgjithshme ose ortakëri e kufizuar, dhe
+1.2. pronat e ortakërisë, kur shndërrohen në para të gatshme nuk janë të mjaftueshme për të paguar kërkesat e kreditorëve në tërësi; dhe
+1.3. ortaku i përgjithshëm në ortakëri të përgjithshme ose në ortakëri të kufizuar ka përgjegjësi të pakufizuar personale për pagesën e kërkesave të tilla.
+2. Vlera e kërkesave të tilla kufizohet në vlerën për të cilën ortaku i përgjithshëm ka përgjegjësi të pakufizuar personale për pagesë në përputhje me ligjet tjera të aplikueshme në Kosovë.
+3. Për aq sa është praktike, Administratori fillimisht do të provojë të mbulojë pagesën e shumës së kërkesave të kreditorëve nga cilido ortak i përgjithshëm i ortakërisë së përgjithshme ose ortakërisë së kufizuar. Deri në vlerësimin e shumës e cila ka nevojë të paguhet për kërkesat e kreditorëve dhe e cila nuk mund të paguhet nga pasuria e ortakërisë ose ortakërisë së kufizuar, gjykata mund të urdhëroj ortakun e përgjithshëm që të lejë pronën e caktuar si masë e sigurisë ose të urdhëroj ortakun e përgjithshëm të mos e bart pronën e caktuar.
+4. Administratori ka kërkesë ndaj të gjitha pronave të secilit ortak të përgjithshëm në ortakëri të përgjithshme ose ortakërisë së kufizuar, për të mbuluar të gjithë shumën e kërkesave të kreditorëve ndaj ortakërisë së përgjithshme ose ortakërisë së kufizuar. Kërkesat e realizuara nga Administratori sipas këtij paragrafi kanë trajtimin e njejtë në shpërndarje ndaj kreditorëve, sikurse të gjitha kërkesat tjera.
+5. Nëse shumat e mbledhura nga Administratori nga pronat e përcaktuara në paragrafin 4 të këtij neni janë më të mëndha se çfarëdo shume që nuk ka mundur të mbledhet sipas paragrafit 3 të këtij neni, gjykata në seancë dëgjimore vendos për ndarje të tepricës së mbledhur dhe Administratori obligohet të shpërndajë tepricën ndaj ortakëve të përgjithshëm sipas vendimit të gjykatës.

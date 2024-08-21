@@ -1,0 +1,7 @@
+# Neni 92
+Shoqëritë me përgjegjësi të kufizuar
+1. Në rastet kur debitori është shoqëri me përgjegjësi të kufizuar sipas ligjit për shoqëritë tregtare, në momentin e mbylljes së rastit ose para mbylljes së rastit, në përputhje me dispozitat e parapara në këtë kapitull dhe sipas ligjit për shoqëritë tregtare, Administratori do të ndërmarrë të gjitha veprimet e nevojshme për shuarjen e shoqërisë me përgjegjësi të kufizuar:
+1.1. veprimet në lidhje me shpërbërjen dhe përfundimin nuk do të përfshijnë asnjë veprim që përfshin ose përfshin ndonjë mbajtës të letrave me vlerë të kapitalit të debitorit, secili prej të cilëve përjashtohet me këtë. Veprimet e përjashtuara përfshijnë thirrjen e çdo takimi të kërkuar të mbajtësve të letrave me vlerë të kapitalit ose dhënien e ndonjë njoftimi për mbajtësit e letrave të kapitalit;
+1.2. veprimet e ndërmarra nga Administratori për shuarjen e shoqërisë me përgjegjësi të kufizuar përfshijnë edhe dërgimin e njoftimeve ndaj regjistrave të biznesit dhe administratës tatimore në lidhje me mbylljen e rastit.
+2. Vetëm Administratori ka të drejtë të paraqes kërkesa që rrjedhin nga një ligj tjetër përveq ligjit të falimentimit, në emër të kreditorëve ndaj themeluesve, aksionarëve, zyrtarëve, drejtorëve, agjentëve ose menaxherëve të lartë të shoqërisë me përgjegjësi të kufizuar.
+3. E drejta për të paraqitur kërkesa sipas paragrafit 2 të këtij neni skadon në momentin e mbylljes së rastit të falimentimit ose më së largu dy (2) vite nga dita e hapjes së rastit të falimentimit.

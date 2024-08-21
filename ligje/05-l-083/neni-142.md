@@ -1,2 +1,0 @@
-# Neni 142
-Rregulla e pagesës në procedurat e njëkohësishme Pa paragjykuar kërkesat e siguruara ose të drejtat pronësore mbi sendet, kreditori i cili pranon pagesë të pjesshme në lidhje me kërkesën e tij në procedurat sipas një ligji të falimentimit në shtetin e huaj nuk mund të pranojë pagesë për kërkesën e njejtë sipas këtij Ligji në lidhje me debitorin e njejtë, përderisa pagesa ndaj kreditorëve tjerë të klasës së njejtë është proporcionalisht më e vogël se pagesa të cilën kreditori veq se e ka pranuar.

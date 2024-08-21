@@ -1,0 +1,6 @@
+# Neni 51
+Kërkesat e siguruara dhe kërkesat e entiteteve tjera
+1. Nën kushtet e përcaktuara në këtë nen, një vendim gjykate ose interesat e një rasti riorganizimi në proces, përfaqësuesi i pasurisë falimentuese e bart një pronë pjesë të pasurisë falimentuese ndaj entitetit kompetent i cili ka një barrë ose interes ndaj asaj prone. Nëse pasuria falimentuese ka interesa pozitive ndaj asaj prone, përfaqësuesi i pasurisë falimentuese mund të bëjë kthimin e asaj vlere pozitive sipas ligjeve të aplikueshme në Kosovë.
+2. Në procedurë të riorganizimit, plani i riorganizimit përcakton shpërndarjen e çfarëdo prone në të cilën një entitet tjetër prej debitorit ka një interes.
+3. Nëse më shumë se një (1) entitet ka interes ndaj një prone pjesë të pasurisë falimentuese, përfaqësuesi i pasurisë falimentuese i kërkon gjykatës të marrë vendim për caktimin e entitetit kompetent të cilit do të ia bëjë bartjen.
+4. Përfaqësuesi i pasurisë falimentuese kërkon nga gjykata që kur ekzistojnë rrethana të përshtatshme, të nxjerr vendim për shitjen e pronës në të cilën ka interesa debitori dhe një entiteti tjetër dhe të ardhurat nga ajo shitje t’i shpërndahen entiteti që kanë interesa ndaj asaj prone, sipas vendimit të gjykatës.

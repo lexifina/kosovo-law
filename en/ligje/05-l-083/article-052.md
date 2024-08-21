@@ -1,4 +1,0 @@
-# Article 52
-Distributions of Property of the Bankruptcy Estate to Creditors 1. The bankruptcy estate representative shall distribute property of the bankruptcy estate to creditors in respect of the claims as soon as the bankruptcy estate representative believes it to be prudent and cost effective to do so.
-2. The bankruptcy estate representative may, with court approval, make such interim distributions as may be prudent and cost effective. In making such interim distributions, the bankruptcy estate representative shall maintain such reserves as it believes are reasonably necessary to provide for all claims that have or may be objected to, but for which there is no final court resolution.
-3. The bankruptcy estate representative shall make all distributions in accordance with the priorities set forth in this Article.
