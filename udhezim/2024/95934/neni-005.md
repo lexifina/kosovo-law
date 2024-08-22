@@ -1,0 +1,5 @@
+# Neni 5
+Të drejtat dhe detyrimet e institucioneve përgjegjës për të dhënat kadastrale
+1. Ky udhëzim administrativ përcakton përmbajtjen, mënyrën e evidentimit, përditësimit dhe konsolidimit të të dhënave kadastrale për të gjitha pyjet, tokat pyjore dhe objektet në pronësi shtetërore.
+2. Detyra kryesore e kadastrës së pyjeve dhe tokave pyjore është përmirësimi i vazhdueshëm i teknologjisë së hartimit, sistematizimit, ruajtjes, përditësimit dhe sigurimit të përdoruesve me informacion të besueshëm dhe të saktë rreth të dhënave që përmban. Njëkohësisht do të jetë edhe një bazë e të dhënave unike dhe qëndrore me të dhënat gjeohapësinore.
+3. Kadastra e pyjeve dhe tokës pyjore e ka për detyrë dhe objektiv që organeve qendrore, regjionale, dhe palëve të interesit të ju siguroj informacion mbi pyjet, të rregullon marrëdhëniet me resurset pyjore, të organizoj përdorimin racional, rikultivimin dhe mbrojtjen e pyjeve, menaxhimin pyjor, vlerësimin e aktivitetit ekonomik në tokat pyjore dhe menaxhim të regjistrimit shtetëror të të drejtave sipas ligjit në fuqi.
