@@ -1,0 +1,11 @@
+# Article 3
+Definitions
+1. The expressions used in this Law shall have the following meaning:
+1.1. Physical activity - any movement of the body by skeletal muscles that require energy consumption;
+1.2. Sports training - the undertaking of any type of training process of the athlete, coach, referee and other persons involved in sports, which aims to develop anthropological characteristics and motor and functional skills, as well as the acquisition of motor skills for a certain sport or sports branch;
+1.3. Traditional game - traditional game is considered any form of physical activity which has a competitive character and takes place in the Republic of Kosovo, in different regions of its territory or only in one region, because of the history of the development of the game or the organization of competitions for a long period of time and that has been passed down through different generations, it is considered a traditional game;
+1.4. Person who performs professional work in sports – coach, instructor, official person who organizes and leads sports competition and other official persons according to the relevant acts of sports organizations;
+1.5. Recreational sports - physical activity whether or not planned or programmed, aimed at developing psycho-physical skills and health, without participation in official sports competitions;
+1.6. Sports mediation – carrying out the activity of mediation or representation of the athlete or coach in his or her work relationship, as well as the activity of mediation or representation of the sports club;
+1.7. Sport activity - all forms of physical and sports activities such as participation in sports competition, sports training, sports education, sports exercises, organization and management of sports competition and sports mediation. Sports activity is also considered the organization of extracurricular school sports activity, academic sports activity, workers` sports activity, management of sports infrastructure and other administrative or managerial activities within legal entities as part of sports.
+2. For the purpose of this Law, words importing the masculine gender shall also include the feminine gender and vice versa, without discrimination.

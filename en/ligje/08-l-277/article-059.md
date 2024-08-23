@@ -1,0 +1,7 @@
+# Article 59
+Management of sports infrastructure and inter-municipal cooperation
+1. The management of special sports infrastructure under state property is carried out by the Ministry responsible for Sport. The management may be entrusted by contract to one or several entities registered for the management of areas or sports facilities.
+2. The management of general sports infrastructure under the state-property is done by the Municipality. The management may be entrusted by contract to one or several entities registered for the management of areas or sports facilities.
+3. Two or more municipalities may enter into inter-municipal cooperation, in accordance with the relevant law, for the realization of investments, infrastructure management and other aspects of cooperation in the field of sports.
+4. The sports infrastructure that is located within public educational institutions may be used by the federations and sports clubs of the municipality where such infrastructure is located. This infrastructure is managed by the relevant educational institution in terms of the educational curriculum implementation and school or university sports, however, during the time when it is not used by educational institutions, it shall be managed in accordance with sub-legal acts of the respective Municipality.
+5. The modalities, rules and procedures for management of sports infrastructure of all levels shall be determined by a sub-legal act according to Article 55 of this Law.

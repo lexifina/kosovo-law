@@ -1,0 +1,7 @@
+## CHAPTER XII
+## INELIGIBILITY
+# Article 68
+Ineligibility
+1. No person convicted by a final decision for any of the criminal offenses, except those due to negligence, or suspended by the Court according to the provisions of the Criminal Procedure Code, may perform professional work in sports, be part of the governing bodies of sports organizations, sports federations, sports clubs or multi-sport federations or associations, or may be part of institutional mechanisms defined by this law. The same person shall not have access to the premises of the organization, shall not have right to undertake the official duties and shall refrain from the contact with employees in sport office/environment. This rule is also applied in cases of candidacy or selection in abovementioned functions.
+2. The legal person that participates in sports activities, namely the relevant institutional mechanism as for the part that it is competent, within three (3) days after becoming aware of the final decision according to paragraph 1. of this article, is obliged to exclude the person from further involvement in sports activities, by deregistration, terminating the contract or taking any other action to suspend the activity.
+3. If the legal person who participates in sports activities realizes that a case has been initiated against a person for a criminal offense against a child, they shall immediately suspend them from any sports activity that may bring them into contact with children, until the final decision of the court.

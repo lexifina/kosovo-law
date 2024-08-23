@@ -1,0 +1,13 @@
+# Neni 5
+Parimet e përgjithshme të sportit
+1. Veprimet e institucioneve publike, organizatave sportive dhe të gjithë personave të përfshirë në sport bazohen në parimet e përgjithshme si në vijim:
+1.1. Sporti për të gjithë – ҫdo person ka të drejtë të merret me sport, përfshirë aktivitetin fizik. Mekanizmat institucionalë dhe organizatat sportive promovojnë përfshirjen në sport;
+1.2. Ligjshmëria - veprimet duhet të jenë në përputhje me dispozitat e këtij ligji ose legjislacionit tjetër përkatës në fuqi. Çdo kufizim ose ndalim i një të drejte në fushën e sportit duhet të bazohet në ligj ose aktet normative bazë të personit juridik që merr pjesë në veprimtari sportive;
+1.3. Qeverisja e mirë - respektimi dhe zbatimi i Kodit të Qeverisjes së Mirë të përcaktuar me këtë ligj, respektimi i rregullave përkatëse etike dhe rregullave të tjera ndërkombëtare për qeverisjen e mirë;
+1.4. Mosdiskriminimi – garantimi i pjesëmarrjes në veprimtari sportive dhe në qasje në infrastrukturë sportive në përputhje me këtë ligj dhe rregullat e tjera përkatëse, si dhe ndalimi i diskriminimit në çfarëdo baze të përcaktuar me Ligjin për Mbrojtje nga Diskriminimi;
+1.5. Ambienti i sigurt dhe i favorshëm për të gjithë - ambientet në të cilat zhvillohen veprimtaritë sportive duhet të jenë të sigurta, ku të gjithë personat e përfshirë në veprimtari sportive trajtohen me respekt, dinjitet dhe pa ngacmim si dhe në përputhje me standardet që mbrojnë shëndetin e tyre. Çdo dhunë, keqpërdorim, abuzim ose dukuri tjetër negative ndalohet dhe sanksionohet me ligj;
+1.6. Transparenca - veprimet duhet të jenë transparente dhe dokumentet publike duhet të jenë të qasshme në përputhje me ligjin përkatës për qasjen në dokumente publike;
+1.7. Mbrojtja e privatësisë–veprimet nuk cenojnë privatësinë dhe të dhënat personale të personave të përfshirë në aktivitet sportiv mbrohen në përputhje me ligjin përkatës;
+1.8. Mbrojtja e fëmijëve dhe të rinjve– ndërmarrja e të gjitha masave mbrojtëse për fëmijët dhe të rinjtë pjesëmarrës në sport, në të cilat përfshihen njoftimi i policisë, organit të kujdestarisë dhe organeve të tjera shtetërore përkatëse për çdolloj dhune ndaj tyre, keqpërdorim, ngacmim ose sjellje tjetër të pahijshme;
+1.9. Mbrojtja e mjedisit dhe siguria publike - ndërmarrja e të gjitha masave mbrojtëse për mjedisin, natyrën dhe kafshët gjatë zhvillimit të veprimtarisë sportive, në përputhje me legjislacionin përkatës, si dhe moscenimi i sigurisë publike;
+1.10. Fair-play – sporti zhvillohet në bazë të rregullave, konkurencës së ndershme, respektit ndaj kundërshtarit, parandalimit dhe shmangies së dhunës dhe sjelljes jo të drejtë.

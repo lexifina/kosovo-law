@@ -1,0 +1,7 @@
+# Neni 59
+Menaxhimi i Infrastrukturës Sportive dhe Bashkëpunimi Ndërkomunal
+1. Menaxhimi i infrastrukturës së vecantë sportive në pronësi shtetërore bëhet nga Ministria përgjegjëse për Sport. Menaxhimi mund t’i besohet me kontratë një apo disa entiteteve të regjistruara për menaxhimin e sipërfaqeve apo objekteve sportive.
+2. Menaxhimi i infrastrukturës së përgjithshme në pronësi shtetërore bëhet nga Komuna. Menaxhimi mund t’i besohet me kontratë një apo disa entiteteve të regjistruara për menaxhimin e sipërfaqeve apo objekteve sportive.
+3. Dy apo më shumë komuna mund të hyjnë në bashkëpunim ndërkomunal në përputhje me ligjin përkatës për realizimin e investimeve, menaxhimin e infrastrukturës si dhe aspekte të tjera të bashkëpunimit në fushën e sportit.
+4. Infrastruktura sportive e cila gjendet në kuadër të institucioneve arsimore publike mund të shfrytëzohet nga federatat dhe klubet sportive të komunës në të cilën gjendet infrastruktura e tillë. Kjo infrastrukturë menaxhohet nga institucioni përkatës arsimor në kuptim të zbatimit të kurrikulës arsimore dhe sportit shkollor ose universitar, mirëpo gjatë kohës kur nuk është në shfrytëzim nga institucionet arsimore ajo menaxhohet në përputhje me aktet nënligjore të komunës përkatëse.
+5. Modalitetet, rregullat dhe procedurat për menaxhimin e infrastrukturë sportive të të gjitha niveleve përcaktohen me aktin nënligjor sipas nenit 55 të këtij ligji.
