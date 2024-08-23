@@ -1,0 +1,2 @@
+# Neni 24
+Në paragrafin 1 të nenit 55 të ligjit bazik i ndryshuar dhe plotësuar me nenin 39 të Ligjit Nr. 08/L-116 për Ndryshimin dhe Plotësimin e Ligjit Nr.04/L-197 për Kimikate, pas pikës shtohet teksti në vijim “Zyrtari kompetent për kimikate dhe zyrtari kompetent për biocide gjatë shqyrtimit dhe vendimmarrjes për kërkesën bazohen në Ligjin përkatës për Procedurën e Përgjithshme Administrative”.

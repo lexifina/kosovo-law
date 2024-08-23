@@ -1,0 +1,2 @@
+# Neni 61
+Në paragrafin 1 të nenit 10 fshihet teksti në vijim: “Para asgjësimit të plehut artificial, pala e pa kënaqur mund të bëjë ankesë kundër vendimit të inspektorit për asgjësimin e plehut artificial, ministrit në afat prej 15 ditësh nga dita e pranimit të vendimit. Pala e pakënaqur mund ta inicioje kontestin administrativ në gjykatën kompetente në afat prej 30 ditësh nga dita e marrjes së vendimit. Ankesa nuk e pezullon zbatimin e vendimit të plotfuqishëm”.

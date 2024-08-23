@@ -1,0 +1,4 @@
+## KAPITULLI XVI
+## NDRYSHIMI DHE PLOTËSIMI I LIGJIT NR. 02/L-85 PËR PESHKATARI DHE AKUAKULTURË
+# Neni 51
+Paragrafi 16.3 i nenit 16 i ligjit bazik fshihet.

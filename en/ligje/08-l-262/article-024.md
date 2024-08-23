@@ -1,0 +1,2 @@
+# Article 24
+In paragraph 1 of Article 55 of the basic Law amended and supplemented by Article 39 of Law No. 08/L- 116 on Amending and Supplementing the Law No. 04/L-197 on Chemicals, after the full stop the following text shall be added: "The competent official for chemicals and the competent official for biocides during the review and decision-making on the request rely on the relevant Law on the General Administrative Procedure.”
