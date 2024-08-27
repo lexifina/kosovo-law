@@ -1,0 +1,8 @@
+# Neni 11
+Masat e parapara për mbrojtje nga zjarri
+1. Personat juridikë të regjistruar për projektime duhet që për objektet në të cilat kërkohen kushte të veçanta ndërtimi të tregojnë në mënyrë grafike, të përllogaritura dhe të shpjeguara me shkrim masat e mbrojtjes nga zjarri të parashikuara në projektin kryesor, me qëllim të vlerësimit të masave për mbrojtje nga zjarri.
+2. Pëlqimi për masat e parapara të mbrojtjes nga zjarri është pjesë përbërëse e projektit kryesor nga paragrafi 1 i këtij neni, për dhënie të lejes ndërtimore.
+3. Personat juridikë të regjistruar për projektime, të cilët e kanë hartuar projektin kryesor, kryejnë verifikimin e të njëjtit në mënyrën e përcaktuar me Rregulloren e tyre të brendshme.
+4. Pas verifikimit sipas paragrafit 3 të këtij neni, personat juridikë duhet të bashkëngjisin deklaratën me të cilën vërtetojnë se masat për mbrojtje nga zjarri të aplikuara në projektet kryesore janë në harmoni me këtë ligj, kriteret e rregullimit hapësinor dhe kriteret dhe normativat teknike.
+5. Me rastin e projektimit dhe ndërtimit të objekteve të banimit kolektiv, objekteve publike, qendrave tregtare, hoteleve, kinemave, teatrove, bibliotekave, postave, spitaleve, sallave sportive, pallateve të koncerteve si dhe objekteve të tjera publike, duhet të sigurohen kushtet për evakuim të papenguar të njerëzve në rast të shpërthimit të zjarrit me ndërtimin e shkallëve për evakuim, si dhe me pajisje përkatëse për alarm dhe fikje të zjarrit.
+6. Personat juridikë të regjistruar për projektime sipas paragrafi 1 të këtij neni, duhet të kenë të punësuar persona që kanë trajnime përkatëse profesionale dhe të kenë kaluar provimin profesional nga fusha e mbrojtjes nga zjarri.

@@ -1,6 +1,0 @@
-# Article 16
-Maintenance of equipments and tools
-1. Owners of the premises, premises parts and the environment, are obliged to maintain in good conditions the equipments, installations, gas ventilations, chimneys and other devices, which represent a risk for fire spreading in accordance with technical regulations and manufacturer’s guidelines for which documentation is required.
-2. For installing stable equipments intended for alerting and fighting the fire, detection of flammable gases and vapors, and other protective equipment and installations which serve to avoid the cause and the expansion of fire and the explosion, the performer of the works is obliged to provide evidence from the manufacturer for their regular operation and the record on the verifications conducted by the authorized legal entities, and should be given to the commission in view of paragraph 2. of the Article 14 of this Law.
-3. Owners and users of the premises, premises and environmental parts, obligations as specified in paragraph 1. and 2. of this Article shall govern with agreement through the contract, in accordance with the applicable laws.
-4. If the owner can not be verified in the paragraph 1. of this Article, obligations set out become the burden of the user.

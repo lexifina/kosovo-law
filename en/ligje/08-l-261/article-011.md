@@ -1,0 +1,8 @@
+# Article 11
+Measures provided for fire protection
+1. Legal entities registered for designs shall, for facilities in which special construction conditions are required, graphically show the calculated and explained fire protection measures in writing, that are provided for in the main project, in order to evaluate the fire protection measures.
+2. The consent for the provided fire protection measures shall be an integral part of the main project referred to in paragraph 1 of this Article, for granting the construction permit.
+3. The legal entities registered for designs, which have drawn up the main project, shall carry out the verification of the same in the manner determined by their internal regulations.
+4. After the verification referred to in paragraph 3 of this Article, legal entities shall attach the statement where they confirm that the fire protection measures applied in the main projects are in compliance with this law, spatial regulation criteria and technical criteria and norms.
+5. When designing and building collective housing facilities, public facilities, shopping centres, hotels, cinemas, theatres, libraries, post offices, hospitals, sports halls, concert halls, as well as other public facilities, the conditions for the unobstructed evacuation of people in the event of a fire shall be ensured by building evacuation stairs, as well as with relevant fire alarm and extinguishing equipment.
+6. Legal entities registered for the designs referred to in paragraph 1 of this Article shall employ persons who have relevant professional training and have passed the professional exam in the field of fire protection.

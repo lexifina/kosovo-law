@@ -1,0 +1,6 @@
+# Neni 17
+Regjistrimi për prodhim, qarkullim dhe importim të pajisjeve dhe stabilimenteve
+1. Personat juridikë duhet të jenë të regjistruar në regjistrin e AME-së për të ushtruar veprimtarinë e prodhimit, qarkullimit dhe importimit të pajisjeve, stabilimenteve dhe mjeteve të dedikuara për fikje të zjarrit, lajmërim dhe pengim të zgjerimit të zjarrit dhe pajisjeve të tjera mbrojtëse e instalimeve, përfshirë edhe pajisjet mbrojtëse dhe personale të zjarrfikësve, të cilat i shfrytëzojnë për fikjen e zjarrit dhe intervenimet e tjera.
+2. Pajisjet, mjetet dhe stabilimentet nga paragrafi 1 i këtij neni, të cilat importohen nga jashtë, mund të vihen në qarkullim vetëm nëse importuesi e ka marrë certifikatën e prodhuesit të pajisjeve mbi rregullsinë e atyre pajisjeve, mjeteve dhe stabilimenteve, si dhe përshtatjen e tyre për qëllimet e dedikuara.
+3.Për çdo pajisje të importuar dhe për çdo sasi të importuar të pjesëve të pajisjeve apo mjeteve për fikje të zjarrit, alarmim dhe pengim të përhapjes së zjarrit, importuesi është i obliguar që të sigurojë certifikatën e paraparë në paragrafin 3 të këtij neni, përveç nëse kjo është e rregulluar ndryshe me marrëveshje ndërkombëtare.
+4. Kushtet dhe kriteret për prodhim, qarkullim dhe importim të pajisjeve dhe stabilimenteve sipas këtij neni përcaktohen me akt nënligjor të nxjerrë nga Ministri.

@@ -1,0 +1,6 @@
+# Article 15
+Maintenance of equipment and tools
+1. Owners and users of facilities, parts of facilities and the environment, shall be obliged to maintain in orderly condition the equipment, installations, gas ventilation, chimneys, as well as other equipment that pose a risk for the spread of fire, in line with technical norms and manufacturers’ instructions for which documentation should be available.
+2. For the installation of static devices intended for warning and extinguishing fire, detection of flammable gases and vapours, as well as other protective devices and installations that serve to avoid the initiation and spread of fire and explosion, the performer of works is obliged to provide evidence from the manufacturer for their regular operation, and a report on the verifications carried out by the legal entity licensed as per the provisions of this law.
+3. Owners and users of facilities, parts of facilities and the environment shall, through a contract, define the obligations according to paragraph 1 and 2 of this Article, in accordance with the legislation in force.
+4. If it is not possible to prove the owner of the facility from paragraph 1 of this Article, the user shall bear the defined obligations.

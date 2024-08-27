@@ -1,0 +1,6 @@
+# Article 17
+Registration for production, circulation and import of equipment and appliances
+1. Legal entities should be registered with the EMA register to exercise the activity of production, circulation and import of equipment, appliances and tools dedicated to fire extinguishing, warning against and preventing the spread of fire and other protective equipment and installations, including protective and personal equipment of firefighters, which they use in extinguishing fires and other interventions.
+2. The equipment, tools and appliances referred to in paragraph 1 of this Article, which are imported from abroad, may be put into circulation only if the importer has received the certificate of the manufacturer of the equipment, authorized on the regularity of those equipment, tools and appliances, as well as their adaptation for the intended purpose.
+3. For each imported equipment and for each imported quantity of parts of equipment or tools for fire extinguishing, alarming and preventing the spread of fire, the importer is obliged to provide the certificate provided for in paragraph 3 of this Article, unless otherwise regulated by international agreement.
+4. The conditions and criteria for production, circulation and import of equipment and appliances according to this article shall be defined by a sub-legal act issued by the minister.
