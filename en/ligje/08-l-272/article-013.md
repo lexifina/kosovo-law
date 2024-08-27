@@ -1,0 +1,2 @@
+# Article 13
+After paragraph 6 of Article 58 of the Law, a new paragraph 6a shall be added, with the following text: 6a. The Minister of Justice appoints the Ad-Hoc Commission for the implementation of paragraph 6 of this Article. The commission consists of three (3) members: one (1) member from the Ministry of Justice, one (1) member from the Chamber and one (1) member from the basic court in the territory of which the notary operates.
