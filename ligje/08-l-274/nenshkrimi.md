@@ -1,0 +1,2 @@
+Ligji Nr. 08/L-274 11 korrik 2024
+Shpallur me dekretin Nr. DL-105/2024, datë 30.07.2024 nga Presidentja e Republikës së Kosovës Vjosa Osmani-Sadriu
