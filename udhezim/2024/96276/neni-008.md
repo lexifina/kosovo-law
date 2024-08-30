@@ -1,0 +1,6 @@
+# Neni 8
+Kontrolli i identitetit të ngarkesës së kafshëve të gjalla
+1. Kontrolli i identitetit të kafshëve të gjalla kryhet me inspektim vizual të ngarkesës, për të verifikuar që të dhënat e ngarkesës, duke përfshirë shenjat identifikuese në kafshë, vulat dhe mjetet e transportit, korrespondojnë me informacionin e dhënë në çertifikatat zyrtare dhe dokumentet e tjera që shoqërojnë kafshët.
+2. Në rast se ngarkesa e kafshëve të gjalla nga paragrafi 1 i këtij neni përmban një numër të madh të kafshëve, verifikimi i identitetit të ngarkesës kryhet në 10% të kafshëve të gjalla në ngarkesë, por jo më pak se 10 kafshë përfaqësuese për ngarkesën.
+3. Përjashtimisht nga paragrafi 1 i këtij neni, për kafshët e gjalla për të cilat nuk kërkohet identifikim individual, kontrolli i identitetit të dërgesës bëhet duke kontrolluar dokumentacionin e paketimit ose kontejnerit ku janë vendosur kafshët e gjalla.
+4. Në rast të dyshimeve të marra nga kontrolli i identifikimit të përcaktuar në paragrafët 2 dhe 3 të këtij neni, numri i kafshëve, paketave ose kontejnerëve, do të rritet numri i kontrollave të identitetit të ngarkesës dhe mund të përfshijë numrin e përgjithshëm të kafshëve, pakove ose kontejnerëve.
