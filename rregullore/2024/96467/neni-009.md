@@ -1,0 +1,9 @@
+# Neni 9
+Vlerësimi për njohjen e drejtës për kujdestar personal
+1. Përfituesve që i njihet statusi i personit paraplegjik/tetraplegjik, mund t’i njihet e drejta për kujdestar personal.
+2. Njohja e të drejtës për kujdestar personal për personin paraplegjik/tetraplegjik, përcaktohet bazuar në gjendjen shëndetësore të tij. Pra, bazuar në dokumentacionin mjekësor të prezantuar nga përfituesi, në verifikimet dhe ekzaminimet që i zhvillon Komisioni Vlerësues, si dhe në rrethanat sociale të tij, domethënë në nivelin e lëvizshmërisë të përfituesit, rrethanat familjare dhe rrethanat e tjera që përcaktojnë nevojën për ofrimin e kujdesit dhe shërbimeve të domosdoshme ditore.
+3. Përfituesit të cilët kanë pasoja të përhershme në gjendjen shëndetësore (lëndim spinal, humbje të përhershme të ndjeshmërisë, inkontinencë dhe të ngjashme), i njihet e drejta për kujdestar personal. Njohja e kësaj të drejte ka karakter të përhershëm dhe nuk i nënshtrohet rivlerësimit të rregullt.
+4. Përfituesit të cilët nuk kanë pasoja të përhershme në gjendjen shëndetësore, por kanë rrethana sociale që pamundësojnë jetesë të pavarur, mund t’iu njihet e drejta për kujdestar personal. Varësisht nga gjykimi i Komisionit Vlerësues, njohja e kësaj të drejte mund të ketë karakter të përhershëm që nuk i nënshtrohet rivlerësimit të rregullt apo mund të ketë karakter të përkohshëm dhe i nënshtrohet procesit të rregullt të rivlerësimit pas tri (3) viteve të përfitimit.
+5. Në rast të refuzimit të të drejtës për kujdestar personal, përfituesi mund të kërkojë rivlerësim në çdo kohë pas gjashtë (6) muajsh nga dita vendimit, në rast të ndryshimit të rrethanave të parapara në paragrafin 2 të këtij neni.
+6. Parashtruesit të kërkesës që nuk i njihet statusi i personi paraplegjik/tetraplegjik, nuk i nënshtrohet vlerësimit për njohjen e drejtës për kujdestar personal.
+6 /11

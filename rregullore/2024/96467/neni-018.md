@@ -1,0 +1,7 @@
+# Neni 18
+Mënyra e përzgjedhjes së Komisionit dhe kompensimi
+1. Kryesuesi i Komisionit Vlerësues emërohet nga stafi i shërbimit civil të Ministrisë apo ndonjë përfaqësues i jashtëm. Kryesuesi duhet të ketë së paku tri (3) vite përvojë pune në sektorin publik dhe njohuri të mirë të legjislacionit në fuqi për vlerësimin e personave me aftësi të kufizuara dhe të legjislacionit në fuqi për procedurën e përgjithshme administrative.
+2. Anëtarët e Komisionit kontraktohen për ofrimin e shërbimeve të vlerësimit në Komisionin Vlerësues, në përputhje me legjislacionin në fuqi për prokurimin publik dhe duhet të kenë së paku pesë (5) vite përvojë pune në profesionin e tyre.
+3. Përjashtimisht nga paragrafi 2 i këtij neni, në rast të mungesës së ndonjë anëtari të Komisionit Vlerësues dhe pamundësisë së zëvendësimit të shpejtë, Ministria mund të angazhojë përkohësisht staf përkatës nga institucionet shëndetësore.
+4. Përfaqësuesi i shoqatave të licencuara që ofrojnë shërbime për personat paraplegjikë dhe tetraplegjikë, i cili merr pjesë në cilësinë e vëzhguesit në Komisionin Vlerësues, emërohet pas procesit të hapur të shpalljes së bërë nga Ministria.
+5. Kryesuesi dhe anëtarët e Komisionit kompensohen për punën e tyre, në përputhje me legjislacionin në fuqi. Përfaqësuesi i shoqatave të licencuara nuk kompensohet për punën e bërë, por merr mëditje ditore për mbulimin e shpenzimeve të udhëtimit dhe shpenzimeve tjera ditore.
