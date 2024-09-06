@@ -1,4 +1,0 @@
-# Neni 10
-Veprimet joligjore apo Mos-veprimet
-1. Pa paragjykuar ndonjë të drejtë tjetër apo mjet juridik që investitori i huaj mund t’i ketë, investitori i huaj ka të drejtë t’i drejtohet gjykatës ose arbitrazhit për kompensim për dëmet dhe harxhimet e krijuara si pasojë e çdo veprimi apo mosveprimi që është e drejtuar kundër investitorit të huaj dhe që është një shkelje e ligjit të aplikueshëm në Republikën e Kosovës apo të normave të përgjithshme të së drejtës ndërkombëtare dhe që i atribuohen Republikës së Kosovës.
-2. Heshtja është pranim do të aplikohet në rast se investitori i huaj ndërmerr një aktivitet apo veprim biznesor të llojit të caktuar pa marrjen e aprovimit nga e organit kompetent, nëse një aprovim apo refuzim i kërkesës nuk është dhënë në kuadër të kufizimeve kohore të paraparë me legjislacionin në fuqi.

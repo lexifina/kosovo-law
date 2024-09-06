@@ -1,6 +1,0 @@
-# Article 18
-Use of state-owned immovable properties for execution of strategic investments
-1. Disposal with immovable property of the Republic of Kosovo to implement projects related to strategic investments shall be regulated by laws dealing with governance and use of state and public property, the property rights, the law on bonds and laws governing the use and disposition of property of the Republic of Kosovo, if by this Law is not provided otherwise.
-2. Property of the Republic of Kosovo, including forests, forest land, agricultural land, public roads shall be available to the Government of Kosovo in accordance with spatial and urban regulation. This property can be used by the Government to implement projects through direct negotiations, according to the provisions of Article 4 paragraph 1. to 6. of this Law.
-3. The Government provides procedures for granting the use of property referred to in paragraph 2. of this Article and may engage a judicial expert to determine the value of immovable property provided for use.
-4. The Public Procurement Rules shall be adhered to, where the transfer of the property referred to in the paragraph 2. of this Article is made in order to implement strategic projects that have element of contracts provided by the relevant Law on Public and Private Partnership.

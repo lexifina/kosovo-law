@@ -1,0 +1,5 @@
+# Article 35
+Special selection of the investor
+1. The Council may open a call to select a partner for the implementation of the strategic investment, according to the evaluation criteria in line with the legislation in force.
+2. Notwithstanding paragraph 1 of this Article, the Council may select by direct negotiation the trust company as the proposer, implementer or partner for the implementation of the strategic investment, according to the evaluation criteria in line with the legislation in force. The business organization with a reputation and internationally recognized references in terms of economic activity, business ethics and advanced corporate governance, proven by financial and auditing institutions, shall be considered a trust company.
+3. The Council may enter into a preliminary agreement with the proposer, implementer or partner under this Article. The agreement may replace the proposal from Article 33 of this Law, but must be in accordance with the general conditions from Article 24 of this Law.
