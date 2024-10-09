@@ -1,0 +1,3 @@
+# Neni 1
+Qëllimi
+Ky Udhëzim Administrativ ka për qëllim të të përcaktojë vlerat kufitare, vlerat e synuara, pragjet e alarmit për arsen, kadmium, merkur, nikel dhe benzo(a) piren, kriteret për përcaktimin e pikave të marrjes së mostrave për matjet fikse, numrin e pikave monitoruese, metodat e matjeve, analizave të mostrave, kohën dhe formën e raportimit, vlerësimin e shkallës së ndotjes së ajrit dhe të sigurojë që informatat për përqendrimet dhe depozitimin e arsenit, kadmiumit, mërkurit, nikelit dhe hidrokarburet policiklike aromatike në ajër është marrë dhe është vënë në dispozicion të publikut.
