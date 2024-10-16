@@ -1,0 +1,4 @@
+# Neni 8
+Mbikëqyrja dhe Kufizimi i Përdorimit të Sistemeve të Rrjetit dhe Informacionit
+1. Operatori i shërbimeve esenciale dhe ofruesi i shërbimeve digjitale ndërmarrin masa, procedura teknike, operacionale dhe organizative të përshtatshme dhe proporcionale për të menaxhuar rreziqet që paraqiten për sigurinë e sistemeve të rrjetit dhe informacionit që operatori dhe përdoruesit e tij i përdorin për veprimtarinë e tyre ose për ofrimin e shërbimeve si dhe për të parandaluar ose minimizuar ndikimin e incidenteve kibernetike te marrësit e shërbimeve të tyre dhe te shërbimet e tjera.
+2. Operatori i shërbimeve esenciale dhe ofruesi i shërbimeve digjitale krijojnë dhe dokumentojnë masat dhe procedurat që përshkruajnë mënyrat që kufizojnë ose pezullojnë përkohësisht përdorimin ose qasjen në sistemet e rrjetit ose informacionit në rast të incidentit kibernetik.
