@@ -1,0 +1,7 @@
+# Neni 7
+Transferimi dhe ruajtja e dosjeve individuale
+1. Në rastet e kalimit të zyrtarit publik në një institucion tjetër, dosja individuale fizike e zyrtarit publik transferohet tek NjMBNj e institucionit të ri, ndërsa një kopje e kësaj dosjeje mbetet në NjMBNj të mëparshme.
+2. Dosja elektronike dhe fizike e të punësuarve, ruhet gjatë gjithë periudhës së punësimit. Dosja duhet të përditësohet, të rishikohet dhe të rivlerësohet rregullisht në përputhje me qëllimet për të cilat mbahen të dhënat. Masat disiplinore të shqiptuara ndaj zyrtarit, duhet të fshihen nga dosja pas kalimit të afatit të paraparë për masën përkatëse në LZP.
+3. Pas përfundimit të marrëdhënies së punës me institucionin përkatës, dosja individuale fizike dhe elektronike e zyrtarit publik ruhet për një kohëzgjatje prej gjashtë (6) viteve nga data e përfundimit të marrëdhënies së punës. Pas kalimit të periudhës gjashtë (6) vjeçare, institucioni ruan vetëm të dhënat rreth kohëzgjatjes së angazhimit të zyrtarit dhe funksioneve që zyrtari ka ushtruar.
+4. Dosja e kandidatëve në procedura të rekrutimit të cilat nuk janë shpallur kandidatë fitues, ruhen në SIMBNj në kohëzgjatje prej dymbëdhjetë (12) muaj nga data e aplikimit. Në rast se procedura e rekrutimit nuk përfundon brenda periudhës dymbëdhjetë (12) mujore, dosja ruhet deri në përfundim të procedurës.
+5. Historiku i veprimeve në SIMBNj (logs) ruhet për një periudhë prej dymbëdhjetë (12) muajsh.
