@@ -1,0 +1,6 @@
+# Neni 15
+Përdorimi i pajisjeve të veçanta sinjalizuese në mjetet e tjera
+1. KFOR-i dhe Policia e EULEX-it kanë të drejtë që në mjetet e tyre të vendosin dhe të përdorin pajisjet e veçanta sinjalizuese. Këto Institucione me akte të brendshme e rregullojnë mënyrën e vendosjes dhe përdorimit të pajisjeve të veçanta sinjalizuese në mjetet e tyre.
+2. FSK-ja ka të drejtë që në mjetet e tyre t’i vendosin dhe të përdorin pajisje të veçanta sinjalizuese, përdorimi i të cilave rregullohet me aktet e brendshme normative. Këto akte duhet t’iu përshtaten detyrave dhe nevojave të tyre operacionale, me kusht që të jenë në harmoni me dispozitat ligjore dhe nënligjore në fuqi, të cilat e rregullojnë këtë çështje.
+3. Institucioni përkatës i inteligjencës ka të drejtë që në mjetet e tyre zyrtare t’i vendosin dhe të përdorin pajisje të veçanta sinjalizuese, në harmoni me dispozitat e këtij udhëzimi.
+4. Përveç mjeteve të personaliteteve të rëndësishme sipas këtij Udhëzimi Administrativ, të cilat e kanë të drejtën e përdorimit të pajisjeve të veçanta sinjalizuese, me autorizim të veçantë të Drejtorit të Përgjithshëm të Policisë-së, këtë të drejtë e kanë edhe institucionet, agjencitë, ndërmarrjet apo kompanitë tjera, të cilat për shkak të natyrës së punëve që i kryejnë konsiderohet se është e nevojshme që t’i përdorin këto pajisje.
