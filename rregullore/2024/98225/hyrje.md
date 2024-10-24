@@ -1,0 +1,10 @@
+Republika e Kosovës Republika Kosova – Republic of Kosovo Ministria e Kulturës, Rinisë dhe Sportit – Ministarstvo Kulture, Omladine i Sporta –
+Ministry of Culture, Youth and Sport
+RREGULLORE (MKRS) NR. 03/2024 PËR STANDARDET TEKNIKE,
+KRITERET, RREGULLAT DHE PËRGJEGJËSITË PËR KUJDESIN, RUAJTJEN DHE MBROJTJEN E MATERIALIT ARKIVOR SI DHE PËR
+PROCEDURËN E ASGJËSIMIT TË MATERIALIT TË PAVLEFSHËM1
+1 Rregullore (MKRS) Nr. 03/2024 për Standardet Teknike, Kriteret, Rregullat dhe Përgjegjësitë për Kujdesin, Ruajtjen dhe Mbrojtjen e Materialit Arkivor si dhe për Procedurën e Asgjësimit të Materialit të Pavlefshëm, miratuar nga Ministri me Vendimin Nr. 105/2024, të datës 16.10.2024
+Ministri i Ministrisë së Kulturës, Rinisë dhe Sportit,
+Në mbështetje të nenit 15, paragrafi 4, të Ligjit Nr. 08/L – 111 për Arkivat (Gazeta Zyrtare Nr. 30/2022, 05.09.2022), nenit 11, paragrafi 1, nën-paragrafi 1.5, të Ligjit Nr. 08/L-117 për Qeverinë e Republikës së Kosovës (Gazeta Zyrtare Nr. 34/2022, 18.11.2022),
+Nxjerr:
+RREGULLORE (MKRS) NR. 03/2024 PËR STANDARDET TEKNIKE, KRITERET, RREGULLAT DHE PËRGJEGJËSITË PËR KUJDESIN, RUAJTJEN DHE MBROJTJEN E MATERIALIT ARKIVOR SI DHE PËR PROCEDURËN E ASGJËSIMIT TË MATERIALIT TË PAVLEFSHËM
