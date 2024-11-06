@@ -1,0 +1,6 @@
+# Neni 12
+Revokimi i kartelës identifikuese
+1. Procedura për revokimin e kartelës identifikuese iniciohet në rastet kur udhërrëfyesi turistik vepron në kundërshtim me detyrimet e përcaktuara me kriteret e përcaktuara me këtë udhëzim administrativ dhe me ligjin përkatës për turizëm.
+2. Revokimi i kartelës identifikuese iniciohet nga inspektorati i tregut tek Komisioni për shqyrtimin e kërkesave, në përputhje me dispozitën ligjore të nenit 48 të Ligjit për Turizmin apo ankesave të vazhdueshme të vizitorëve sipas nenit 3 paragrafit 7 të këtij udhëzimi administrativ, me të cilat dëshmohet se udhërrëfyesi ka shkelur dispozitat ligjore të Ligjit për Turizmin, parimet e kodit të etikës së udhërrëfyesit të përcaktuara në nenin 13 të këtij Udhëzimi Administrativ dhe kërkesat tjera të këtij Udhëzimi Administrativ.
+3. Vendimin për revokimin e kartelës identifikuese dhe ndalimin e ushtrimit të veprimtarisë e nxjerr Drejtori i Departamentit përkatës të Turizmit në Ministri pas rekomandimit të komisionit.
+4. Kundër vendimit për revokim të kartelës dhe ndalim të ushtrimit të veprimtarisë, pala e pakënaqur ka të drejtë të ushtrojë ankesë në afat prej 30 (tridhjetë) ditësh nga dita e pranimit të tij, në komisionin për ankesa.
