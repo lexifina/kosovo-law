@@ -1,0 +1,4 @@
+# Neni 12
+Njoftimi i refuzimit të dërgesës
+1. Inspektorati Fitosanitar, duhet të informoj organizatën për mbrojtje bimore të vendit të origjinës apo dërguesin në vendin e tretë për të gjitha rastet kur bimët, produktet bimore ose objektet tjera që vijnë nga vendi përkatës janë ndalur për shkak të mos përmbushjes së kërkesave fitosanitare të Republikës së Kosovës për import, duke përfshi kërkesat për materialin paketues nga druri dhe për arsyet e ndalesës, pa paragjykim për veprimet që mund të ndërmerren lidhur me ngarkesën e ndaluar.
+2. Informata nga paragrafi 1 i këtij neni, duhet të jepen sa më shpejtë që është e mundur në mënyrë që organizata përkatëse për mbrojtje bimore, kur është e mundur të studioj rastin hollësisht për të ndërmarrë hapat e nevojshëm të parandalimit të ngjarjeve të njëjta.
