@@ -1,0 +1,6 @@
+# Neni 16
+Ruajtja dhe raportimi i të dhënave
+1. Të dhënat e regjistruara për pronarët përfitues ruhen në Regjistrin e Pronarëve Përfitues, përveç rastit të përcaktuar në paragrafin 2 të këtij neni.
+2. Në rast të çregjistrimit të subjektit të detyruar nga Regjistri i Shoqërive Tregtare të Kosovës ose Regjistri i Organizatave Jo-Qeveritare, të dhënat e regjistruara për pronarët e saj përfitues do të ruhen në Regjistrin e Pronarëve Përfitues për dhjetë (10) vjet të tjera nga data çregjistrimit të subjektit të detyruar, përfshirë shënimin mbi klasifikimin si i çregjistruar dhe datën e çregjistrimit, dhe do të jetë në dispozicion të publikut për atë periudhë. Ky afat mund të zgjatet sipas legjislacionit në fuqi.
+3. Subjekti i detyruar, me kërkesë të autoriteteve kompetente në afat prej pesëmbëdhjetë (15) ditëve, do të vë në dispozicion dhe do t'u paraqesë atyre, të dhënat dhe dokumentet e përcaktuara në paragrafin 1 të nenit 10 të këtij ligji.
+4. Autoritetet kompetente, në bazë të kompetencave të tyre sipas legjislacionit në fuqi të fushës së tyre përkatëse, mund të kryejnë verifikimin për saktësinë dhe pajtueshmërinë e të dhënave të raportuara në regjistër nga subjektet e detyruara me të dhënat e mbajtura nga subjekti i detyruar në regjistrin e saj të pronarëve përfitues sipas paragrafit 1 të nenit 10 të këtij ligji.

@@ -1,0 +1,6 @@
+# Article 7
+Method and procedure for recording initial data on beneficial owners
+1.The initial registration of data in the Register of Beneficial Owners shall be done by an authorized person of the obligated entity, who must record these data in the register through electronic registration services as defined by KBRA for implementation of this law along with necessary information as well as a copy of the authorized person’s personal identification document.
+2. KRBA shall make an entry in the Register and shall publish the information and documents in accordance with paragraph 2. of Article 13 of this Law no later than five (5) business days from the receipt of the registration request from the obliged entities.
+3. If the application for registration is rejected due to its failure to meet the requirements of this Law or another applicable law, and the information cannot be recorded and published within five (5) business days from the data received, KBRA shall notify the authorized person of this fact, in accordance with the applicable legislation, and shall set a deadline not exceeding ten (10) business days for the correction of omissions.
+4. The rules on the verification process, the method and reasons for rejection to record data of beneficial owners of obliged entities shall be defined by a bylaw issued by the Ministry.

@@ -1,0 +1,6 @@
+# Neni 14
+Përjashtimi nga qasja në të dhëna të pronarëve përfitues
+1. Pronarët përfitues, të cilët e konsiderojnë veten të ekspozuar ndaj rrezikut joproporcional, rrezikut të mashtrimit, rrëmbimit, shantazhit, zhvatjes, ngacmimit, dhunës ose frikësimit, ose që janë të mitur ose ndryshe janë të paaftë ligjërisht, mund të aplikojnë pranë ARBK për përjashtim për të mbrojtur të dhënat e pronarëve të tyre përfitues nga shpalosja në publik.
+2. Rregullat për mënyrën e aplikimit për përjashtim sipas paragrafit 1 të këtij neni, të dhënat që mund të mbrohen nga qasja e publikut, kriteret në bazë të të cilave do të përcaktohet një kërkesë e tillë, dhe kohëzgjatja dhe procedurat për revokim të përjashtimit përcaktohen me akt nënligjor nga Ministria.
+3. Përjashtimet e dhëna sipas këtij neni nuk shtrihen tek autoritetet kompetente të cilat do të kenë qasje elektronike pa pagesë, të drejtpërdrejtë dhe të pakufizuar në të gjitha të dhënat e pronarëve përfitues të regjistruar në regjistër.
+4. ARBK do të publikojë të dhëna statistikore vjetore për numrin e kërkesave të pranuara për përjashtim, të aprovuara dhe në pritje sipas këtij neni, si dhe arsyet e aprovimit të përjashtimeve në faqen e tyre të internetit.

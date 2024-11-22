@@ -1,0 +1,6 @@
+# Neni 7
+Mënyra dhe procedura për regjistrimin e të dhënave fillestare për pronarët përfitues
+1. Regjistrimi fillestar i të dhënave në Regjistrin e Pronarëve Përfitues bëhet nga personi i autorizuar i subjektit të detyruar, i cili duhet t’i regjistroj këto të dhëna në regjistër përmes shërbimit të regjistrimit elektronik siç përcaktohen nga ARBK për zbatimin e këtij ligji së bashku me informatat e nevojshme si dhe një kopje të dokumentit të identifikimit të personit të autorizuar.
+2. ARBK-ja bën një regjistrim në Regjistër dhe publikon informacionin dhe dokumentet sipas paragrafit 2 të nenit 13 të këtij ligji jo më vonë se pesë (5) ditë pune nga marrja e kërkesës për regjistrim nga subjektet e detyruara.
+3. Nëse aplikimi për regjistrim është refuzuar për shkak të dështimit të tij për të përmbushur kërkesat e këtij ligji ose një ligji tjetër në fuqi, dhe informacioni nuk mund të regjistrohet dhe publikohet brenda pesë (5) ditëve të punës nga të dhënat e pranuara, ARBK njofton personin e autorizuar për këtë fakt, në përputhje me legjislacionin në fuqi dhe do të caktojë një afat jo më të gjatë se dhjetë (10) ditë pune për korrigjimin e lëshimeve.
+4. Rregullat për procesin e verifikimit, mënyrën dhe arsyet e refuzimit të regjistrimit të të dhënave të pronarëve përfitues të subjekteve të detyruara përcaktohen me akt nënligjor nga Ministria.

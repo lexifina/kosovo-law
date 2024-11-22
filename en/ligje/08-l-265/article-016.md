@@ -1,0 +1,6 @@
+# Article 16
+Data storage and reporting
+1. The data recorded on beneficial owners shall be stored in the Register of Beneficial Owners, other than the case defined in paragraph 2. of this Article.
+2. In the case of deregistration of the obliged entity from the Register of Kosovo Business Organizations or the Register of Non-Governmental Organizations, the data registered for its beneficial owners shall be stored in the Register of Beneficial Owners for another ten (10) years from the date of deregistration of the obliged entity, including the note on the classification as deregistered and the date of deregistration, and shall be publicly available for that period. This deadline can be extended according to the legislation in force.
+3. The obliged entity shall, at the request of the competent authorities, make available and submit to them, within fifteen (15) calendar days, the data and documents defined in paragraph 1. of Article 10 of this Law.
+4. Competent authorities shall, based on their powers according to the applicable legislation in their respective scope, verify the accuracy and compatibility of the data reported in the Register by the obliged entities with the data kept by the obliged entity in its Register of Beneficial Owners according to paragraph 1. of Article 10 of this Law.
