@@ -1,0 +1,7 @@
+# Neni 24
+Forma dhe procedura e ofrimit për shfrytëzim të materialit arkivor
+1. Materiali arkivor për shfrytëzim në sallën e leximit/hulumtimit jepet vetëm në formë të kopjes origjinale, e cila vuloset me një vulë të posaçme të miratuar paraprakisht nga drejtori ekzekutiv i ASHAK-ut dhe nën përgjegjësinë e zyrtarit përgjegjës të sallës së leximit/hulumtimit.
+2. Materiali arkivor mund të jepet për shfrytëzim në formë fizike në sallën e leximit/hulumtimit në formë origjinale vetëm në raste të jashtëzakonshme që ndërlidhet me një kërkesë që verifikon një të dhënë apo një qëllim profesional ose shkencor.
+3. Dokumentet që kërkohen për realizimin ose mbrojtjen e të drejtave apo interesave juridike të qytetarëve jepen në formë të kopjeve të vërtetuara me vulën përkatëse të miratuar paraprakisht nga drejtori ekzekutiv i ASHAK–ut dhe të dhënat e dokumentacionit arkivor të lëshuara në formë të kopjeve të vërtetuara arkivore nga arkivi kompetent, të cilat, në çdo rast, regjistrohen në një protokoll të posaçëm fizik ose elektronik, të miratuar paraprakisht.
+4. Materiali arkivor për shfrytëzim në formë digjitale printohet përmes sistemit elektronik dhe kopja e printuar vërtetohet si në paragrafin 1 të këtij neni.
+5. Çdo fotokopjim apo riprodhim i materialeve arkivore që krijon kosto për Agjencinë i nënshtrohet pagesave të tarifave të miratuara në formë të shtojcës së posaçme të kësaj rregulloreje.
