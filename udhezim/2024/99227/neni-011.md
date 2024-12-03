@@ -1,0 +1,6 @@
+# Neni 11
+Kualifikimet Profesionale
+1. Autoriteti Kompetent i delegon detyrat specifike vetëm veterinarëve me kualifikime profesionale sipas Shtojcës I, Seksioni III, Kapitulli IV. Pika A. për veterinerët zyrtarë të Rregullores 13/2011 Për Caktimin e Rregullave Specifike për Organizimin e Kontrolleve Zyrtare të Ushqimit me Prejardhje Shtazore të Dedikuara për Konsum nga Njerëzit.
+2. Veterinari zyrtar do të jetë veterineri i cili ka përfunduar nivelin VII sipas Kornizës Kombëtare te Kualifikime, i cili përveç kërkesave të përcaktuara sipas legjislacionit për zyrtaret publik, ka kaluar edhe kualifikimin profesional, testin për veteriner zyrtar.
+3. Testi nga paragrafi 2 i këtij neni organizohet dhe zhvillohet nga Agjencia e Ushqimit dhe Veterinarisë, në përputhje me programin e paraparë të testimeve profesionale për veterinerët zyrtarë.
+4. Programi për testin profesional për kryerjen e detyrave të veterinerit zyrtarë, përgatitet nga Agjencia e Ushqimit dhe Veterinarisë duke u bazuar në kriteret e kontrolleve zyrtare nga Rregullorja Nr.13/2011 Për Caktimin e Rregullave Specifike për Organizimin e Kontrolleve Zyrtare të Ushqimit me Prejardhje Shtazore të Dedikuara për Konsum nga Njerëzit.

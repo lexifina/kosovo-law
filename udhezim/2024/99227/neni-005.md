@@ -1,0 +1,9 @@
+# Neni 5
+Autorizimi i subjekteve veterinare / veterinarit
+1. Nëse në fusha të caktuara nuk është e mundur të sigurohet kryerja e kontrolleve zyrtare nga neni
+5 të Rregullores 13/2011 Për Caktimin e Rregullave Specifike për Organizimin e Kontrollove Zyrtare të Ushqimit me Prejardhje Shtazore të Dedikuara për Konsum nga Njerëzit, Agjencia e Ushqimit dhe Veterinarisë mund të autorizojë një subjekt veterinarë ose një veteriner për të kryer kontrolle zyrtare.
+2. Autorizimi nga paragrafi 1 i këtij neni mund t'i jepet vetëm një subjekti veterinarë i cili është
+regjistruar në regjistrin e subjekteve veterinare, gjegjësisht veterinarë të punësuar me kontratë të përhershme me kohë të plotë në subjekt veterinarë, me së paku një (1) vit përvojë pune në profesion dhe që ka dhënë testin profesional për veteriner zyrtar nga paragrafi 2 të pikës A. Veterinerët zyrtarë, të kreut IV - Kualifikimet profesionale, të seksionit III, të Shtojcës I të Rregullores 13/2011 Për Caktimin e Rregullave Specifike për Organizimin e Kontrollove Zyrtare të Ushqimit me Prejardhje Shtazore të Dedikuara për Konsum nga Njerëzit.
+3. Autorizimi nga paragrafi 1. i këtij neni nuk përfshinë përgjegjësinë për marrjen e masave
+ndëshkimore në rast të konstatimit se kontrollet zyrtare nuk janë kryer ne pajtim me legjislacionin ne fuqi.
+4. Nëse veterineri zyrtar nga paragrafi 2. i këtij neni, gjatë kryerjes së detyrave nga paragrafi 1. i këtij neni, konstaton mospërputhje me këtë udhëzim administrativ ose me legjislacionin tjetër specifik që ka të bëjë me sigurinë e ushqimit, identifikimin dhe regjistrimin e kafshëve dhe mirëqenies së kafshëve, ai/ajo është i/e detyruar të informojë inspektorin veterinar, dhe në rast rreziku për shëndetin e njerëzve ose kafshëve, të pezullojë menjëherë trajtimin e mëtejshëm të kafshëve ose karkasëve të kafshëve të therura, gjegjësisht mishit të freskët, për të marrë masa për eliminimin e mos -përputhshmëritë e përcaktuara.

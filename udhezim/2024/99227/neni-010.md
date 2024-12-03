@@ -1,0 +1,2 @@
+# Neni 10
+Pa cenuar parashikimin e paragrafit 9 të pikës A. Veterinerët zyrtarë, të kapitullit IV. Kualifikimet profesionale, të seksionit III të shtojcës I të Rregullores 13/2011 Për Caktimin e Rregullave Specifike për Organizimin e Kontrolleve Zyrtare të Ushqimit me Prejardhje Shtazore të Dedikuara për Konsum nga Njerëzit, veterinerët zyrtarë të punësuar në Agjencinë e Ushqimit dhe Veterinarisë para hyrjes në fuqi të këtij Udhëzimi Administrativ nuk janë të detyruar të japin provim profesional për veteriner zyrtar.
