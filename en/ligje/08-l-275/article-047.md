@@ -1,0 +1,5 @@
+# Article 47
+Audit
+1. The road safety auditor cannot perform the road safety audit for the projects and documentation in the drafting of which he participated, or is in the design or management of the public road, for which the audit is carried out including the legal entity too who is employed by the same.
+2. The road safety auditor performs the road safety audit, in accordance with the provisions of this Law, sub-legal acts, technical requirements and professional rules related to road safety.
+3. Work experience and professional preparation for road safety auditor, the way in which the same is proven in the issuance of the authorization according to this Article, the training program and certification for road safety auditor, additional training programs, the content and the way of keeping the register of auditors, the way and extent of road safety audit works and the way of calculating the compensation for the road safety audit works, are determined by the minister with a sub-legal act.

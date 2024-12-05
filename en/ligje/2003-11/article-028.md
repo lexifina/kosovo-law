@@ -1,5 +1,0 @@
-# Article 28
-28.1 Any legal entity or individual intending to use any part of the Main or Regional Road, or the Reserve Road corresponding with Main and Regional Roads, for an exceptional transport use, must first obtain specific permission from the Ministry.
-28.2 The Ministry issues rules on the procedure for providing permission for the use of any portion of the Main and Regional Road and the Reserve Road corresponding with Main and Regional Roads by legal entities and individuals, as specified in paragraph 1 of this Article.
-28.3 The Ministry is entitled to determine rule for compensation fees from legal entities and from individuals who use any portion of the Main and Regional Road and the Reserve Road corresponding with Main and Regional Roads, as contemplated in paragraph 1 of this Article.
-28.4 The Ministry issues specific rules on compensation fees from legal entities and individuals for use of certain parts of the Main and Regional Road and the Reserve Road corresponding with Main and Regional Roads, pursuant to paragraph 2 of this Article.

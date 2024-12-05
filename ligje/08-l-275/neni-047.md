@@ -1,0 +1,5 @@
+# Neni 47
+Auditimi
+1. Auditori i sigurisë rrugore nuk mund të kryej auditimin e sigurisë rrugore për projektet dhe dokumentacionin në hartimin e të cilave ka marrë pjesë ose është në projektimin ose menaxhimin e rrugës publike për të cilën kryhet auditimi përfshirë edhe personin juridik në të cilin është i punësuar i njëjti.
+2. Auditori i sigurisë rrugore kryen auditimin e sigurisë rrugore në përputhje me dispozitat e këtij ligji, aktet nënligjore, kërkesat teknike dhe rregullat e profesionit në lidhje me sigurinë rrugore.
+3. Përvoja e punës dhe përgatitja profesionale për auditor të sigurisë rrugore, mënyra në të cilën e njëjta vërtetohet te lëshimi i autorizimit sipas këtij neni, programi dhe çertifikimi i aftësimit për auditor të sigurisë rrugore, programet e aftësimit shtesë, përmbajtja dhe mënyra e mbajtjes së regjistrit të auditoreve, mënyra dhe shtrirja e kryerjes së punëve të auditimit të sigurisë rrugore dhe mënyra e llogaritjes së kompensimit për punët e kryera të auditimit të sigurisë rrugore i përcakton ministri me akt të nënligjor.

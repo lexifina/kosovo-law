@@ -1,7 +1,0 @@
-# Neni 12
-Teksti i nenit 18 zëvendësohet me tekstin si vijon:
-18.1. Lejen për ndërtim, rikonstruktim të autoudhës, rrugës nacionale, regjionale dhe për objektet tjera përcjellëse të rrugës dhe për shfrytëzimin e tyre, e jep Ministria, ndërsa lejen për ndërtimin apo rikonstruktimin e rrugëve lokale dhe objekteve tjera përcjellëse si dhe për shfrytëzimin e tyre e jep Komuna.
-18.2 Lejen për ndërtimin e rrugëve publike, në kompetencë të Ministrisë, sipas Ligjit, e lëshon Ministria për Mjedis dhe Planifikim Hapësinor në bashkëpunim me Ministrinë.
-18.3 Rrugët publike ndërtohen me konstruksion për pranimin e ngarkesave boshtore prej së paku 115 kN (11,5 tona) për një bosht të automjeteve. Në raste të veçanta rrugët lokale mund të ndërtohen me konstruksion për pranimin e ngarkesave boshtore të automjeteve më të vogla por jo më pak se 60 kN (6 tonë) për një bosht”.
-18.4 Në ura tunele, viadukte dhe objekte tjera të rrugës, gjerësia e sipërfaqes për qarkullimin e automjeteve nuk mund të jetë më e vogël se gjerësia e sipërfaqes për qarkullimin e automjeteve jashtë këtyre objekteve. Vendndalimet e autobusëve në rrugët nacionale dhe regjionale jashtë vendbanimeve, duhet të ndërtohen jashtë sipërfaqes për qarkullimin e automjeteve”.
-18.5 Kontrollimin teknik të rrugëve publike dhe objekteve të rrugëve e kryen komisioni profesional i caktuar nga autoriteti i cili e ka lëshuar lejen e ndërtimit. Kushtet dhe mënyrën e kontrollimit teknik të rrugës i përcakton Ministra me akt nënligjor.
