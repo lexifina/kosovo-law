@@ -1,0 +1,8 @@
+# Article 34
+Commitment and management of allocations in the category of wages and
+allowances
+1. The commitment of the funds needed for payment of salaries by the end of the fiscal year for all filled positions, should be done the latest at the end of January for each BO. The commitment should include the necessary amount for the basic salary, the work experience, transitional allowance, the employer's pension contribution, and any other approved allowance that is valid until the end of the fiscal year.
+2. The commitment provided for in paragraph 1 of this Article shall also apply to positions that are filled or recruited during the fiscal year, at a later time after the beginning of the employment relationship.
+3. Approval of on-call compensation, overtime or any other allowance provided for by Law No.08/L-196 on Salaries in the Public Sector, is conditional on the availability of budgetary funds, and it must also contain the respective commitment of financial means for payment of that financial obligation by the end of the fiscal year. Approval of these salary allowances or compensations without having the relevant budgetary commitment shall be considered unlawful.
+4. In case the BO fails to make the commitment of funds according to the deadlines in paragraphs 1 and 2 of this Article, the Treasury of Kosovo shall be authorized automatically to make the necessary commitment of funds.
+5. The budget for unfilled positions is allowed to be used only for new positions that are recruited through the fiscal year in that BO. Exceptionally, this budgetary appropriation can be used by budgetary organizations for paying the liabilities that may derive from the final court decisions.
