@@ -1,0 +1,9 @@
+# Neni 14
+Konflikti i interesit
+1. Konflikt i interesit është situata në të cilën një anëtar i Komisionit ka një interes personal të tillë që ndikon ose mund të ndikojë në paanshmërinë ose objektivitetin e kryerjes së detyrës zyrtare si anëtar i Komisionit.
+2. Kur anëtari i Komisionit vihet në dijeni se një situatë e tillë ekziston, është i detyruar që:
+2.1. të verifikojë nëse ai ka një konflikt të tillë;
+2.2. të ndërmarrë hapat e nevojshëm për të shmangur një konflikt të tillë;
+2.3. të informojë menjëherë Komisionin për konfliktin e mundshëm të interesit;
+2.4. të respektojë çdo vendim, për të mos marrë pjesë në seancat e komisionit .
+3. Në rast se vërtetohet se njëri nga anëtarët apo kryetari ka konflikt interesi, me Vendim të posaçëm bëhet zëvendësimi i tij i përkohshëm me një anëtar tjetër.
