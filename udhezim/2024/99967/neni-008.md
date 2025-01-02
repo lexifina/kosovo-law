@@ -1,0 +1,7 @@
+# Neni 8
+1. Ndryshohet dhe plotësohet paragrafi 2 i neni 34 i Udhëzimit bazë me tekstin si në vijim:
+2. Në vazhdim duhet të jetë stema shtetërore, numrat treshifror, pastaj viza horizontale. Në fund të targës shënohen dy shkronja të alfabetit standard latin duke filluar shkronjat nga A deri te shkronja Z, me përjashtim të shkronjave T, R, V, X. Numri treshifror për targat e zakonshme, horizontale dhe katrore të regjistrimit të automjeteve do të fillojë nga numri 101.
+2. Ndryshohet dhe plotësohet paragrafi 3, nënparagrafi 3.2 dhe 3.3 i neni 34 të Udhëzimit bazë me tekstin si në vijim:
+3.2. Në pjesën e poshtme horizontale duhet të jenë numrat treshifror, viza horizontale dhe në fund të targës shënohen dy shkronja të alfabetit standard latin, kombinimi i shkronjave duhet të jetë nga shkronja A deri të shkronja Z, me përjashtim të shkronjës T, R, V, X dhe e kombinuar me shkronjën U;
+3.3. Targat katrore për rimorkio të mjeteve motorike, duhet të kenë sipërfaqen e targës me ngjyrë të bardhë retro-reflektuese, ndërsa numrat treshifror dhe shkronjat duhet të jenë me ngjyrë të kaltër, ndërsa korniza me ngjyrë të zezë me gjerësi 4mm. Në pjesën e parë të sipërme është i vendosur kodi i Republikës së Kosovës RKS, me ngjyrë të kaltër, shkronjat për kodin me ngjyrë ari, numri i rajonit përkatës dhe stema. Në pjesën e poshtme horizontale shënohen numrat treshifror, viza horizontale dhe kombinimi i shkronjave X dhe T duke filluar kombinimin me shkronjën A.
+Faqe 5 nga 5
