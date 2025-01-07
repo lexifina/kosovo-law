@@ -1,0 +1,22 @@
+# Neni 37
+Divizioni për Statistika Shëndetësore për Kujdes Dytësor dhe Tretësor Shëndetësor
+1. Detyrat dhe përgjegjësitë e Divizionit për Statistika Shëndetësore për Kujdes Dytësor dhe Tretësor Shëndetësor, janë:
+1.1 Pjesëmarrja në grupet punuese për hartimin e legjislacionit, strategjive që lidhen me raportimin e statistikave shëndetësore në Kujdesin Dytësor dhe Tretësor Shëndetësor, menaxhimin e tyre, pjesëmarrja në grupet punuese për hartimin/revdimin e formularëve zyrtar për mbledhjen e të dhënave për raportim të statistikave shëndetësore në Kujdesin Dytësor dhe Tretësor Shëndetësor;
+1.2 Grumbullimi i të dhënave, rregullimi i bazës së të dhënave, kontrollit logjik, përpunimi dhe analizimi i të dhënave dhe përgatitja e raportit vjetor të Burimeve njerëzore, aktiviteteve dhe indikatorëve në Kujdesin Dytësor Shëndetësor;
+1.3 Grumbullimi i të dhënave rregullimi i bazës së të dhënave, kontrollit logjik, përpunimi dhe analizimi i të dhënave dhe përgatitja e raportit vjetor të Morbiditetit për Kujdesin Dytësor Shëndetësor;
+1.4 Grumbullimi i të dhënave, rregullimi i bazës së të dhënave, kontrollit logjik, përpunimi dhe analizimi i të dhënave dhe përgatitja e raportit vjetor të Resurseve Humane për Kujdesin Dytësor Shëndetësor;
+1.5 Grumbullimi i të dhënave, rregullimi i bazës së të dhënave, kontrollit logjik, përpunimi dhe analizimi i të dhënave dhe përgatitja e raportit vjetor të Lindjeve;
+1.6 Grumbullimi i të dhënave, rregullimi i bazës së të dhënave, kontrollit logjik, përpunimi dhe analizimi i të dhënave dhe përgatitja e raportit vjetor të Burimeve njerëzore, aktiviteteve dhe indikatorëve në Kujdesin Tretësor Shëndetësor;
+1.7 Grumbullimi i të dhënave, rregullimi i bazës së të dhënave, kontrollit logjik, përpunimi dhe analizimi i të dhënave dhe përgatitja e raportit vjetor të Morbiditetit për Kujdesin Tretësor Shëndetësor;
+1.8 Grumbullimi i të dhënave, rregullimi i bazës së të dhënave, kontrollit logjik, përpunimi dhe analizimi i të dhënave dhe përgatitja e raportit vjetor të Resurseve Humane për Kujdesin Tretësor Shëndetësor;
+1.9 Grumbullimi i të dhënave, rregullimi i bazës së të dhënave, kontrollit logjik, përpunimi dhe analizimi i të dhënave dhe përgatitja e raportit vjetor për Burimet njerëzore dhe aktivitetet e laboratorit mikrobiologjik në IKShPK dhe Qendrat Rajonale të Shëndetësisë Publike (QRShP);
+1.10 Grumbullimi i të dhënave, rregullimi i bazës së të dhënave, kontrollit logjik, përpunimi dhe analizimi i të dhënave dhe përgatitja e raportit vjetor për punën e QLT në IKShPK dhe QRShP;
+1.11 Grumbullimi i të dhënave, rregullimi i bazës së të dhënave, kontrollit logjik, përpunimi dhe analizimi i të dhënave dhe përgatitja e raportit vjetor për Burimet njerëzore dhe aktiviteti i laboratorit të Ekologjisë Humane në IKSHPK dhe QRSHP;
+1.12 Ndërmarrja e masave praktike në drejtim të avancimit të raportimit të statistikave shëndetësore në Kujdesin Dytësor dhe Tretësor Shëndetësor, mbajtja e trajnimeve, seminareve, përgatitja e doracakëve dhe klasifikimeve ndërkombëtare, etj.;
+1.13 Përpunimi i të dhënave dhe kryerja e analizave specifike për Ministrinë e Shëndetësisë, si dhe për institucione tjera me marrëveshje paraprake;
+1.14 Trajnimi i koduesve klinik dhe punëtorëve shëndetësor në institucionet e Kujdesit Dytësor dhe Tretësor Shëndetësor për Klasifikimet Ndërkombëtare të Sëmundjeve dhe procedurave/shërbimeve shëndetësore;
+1.15 Bashkëpunimi me institucionet vendore dhe institucionet tjera ndërkombëtare ASK, OBSH, CDC Eurostat lidhur me raportimin e indikatorëve shëndetësor, përditësimet e klasifikimeve dhe informimin për zhvillimet e reja në fushën e SISh;
+1.16 Zhvillimi dhe implementimi i projekteve kërkimore shkencore vendore dhe ndërkombëtare, i hulumtimeve shkencore në fushën e shëndetit publik, për të rritur numrin e indikatorëve shëndetësor të raportuar për KDSh dhe KTSh në instanca vendore dhe ndërkombëtare;
+1.17 Pjesëmarrja në aktivitete profesionale dhe shkencore, trajnime, punëtori, projekte, konferenca, lidhur me indikatorët shëndetësor në KDSh dhe KTSh brenda dhe jashtë vendit, me qëllim të shkëmbimit të përvojave dhe marrjes së eksperiencave më të mira;
+2. Divizioni për Statistika Shëndetësore për Kujdesin Dytësor dhe Tretësor Shëndetësor, udhëhiqet nga udhëheqësi i Divizionit, i cili i raporton Drejtorit të Departamentit për Statistika Shëndetësore.
+3. Numri i të punësuarve në Divizionin për Statistika Shëndetësore për Kujdesin Dytësor dhe Tretësor Shëndetësor, është tre (3).
