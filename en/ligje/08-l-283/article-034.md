@@ -1,0 +1,14 @@
+# Article 34A
+Minor offence sanctions by fines
+1. A fine in the amount of two thousand (2,000) euros and up to fifteen thousand (15,000) euros, shall be imposed on a legal entity, if:
+1.1. energy enterprises charged with public service obligations fails to ensure the discharge of the public service in accordance with the terms determined in their respective licenses, pursuant to the Article 4 of the basic law;
+1.2. access to and operation of the grid for electricity from renewable sources and co- generation is not carried out in accordance with Article 14 of the basic law;
+1.3. confidential information obtained during the performance of their activities and tasks is not protected, pursuant to the Article 21, paragraph 1 of the basic law;
+1.4. energy enterprises enter into, participate in, or take any action in the furtherance of any agreement between enterprises, any decision by an association of enterprises, and concerted practice if such agreement, decision or practice has as its object or effect the prevention, restriction or distortion of competition, pursuant to the Article 22, paragraph 1 and 2 of the basic law;
+1.5. any abuse of the dominant position by one or more energy enterprises are committed, pursuant to the article 23, paragraph 1 and 2 of the basic law;
+1.6. the officials carrying out inspections according to the basic law, are not allowed to enter and pass through the property of any individual, for the purpose of exercising their activities in relation to inspection and maintenance of electricity facilities, installations or systems, pursuant to the Article 29, of the basic law;
+1.7. security zones are not established around energy sites, pursuant to the Article 31 of the basic law;
+1.8. natural or legal entities owning or operating energy facilities, equipment, buildings, systems or energy installations, to which this Law applies, fail to promptly inform the Energy Inspectorate of any damage or error that has occurred or may occur as a result of energy supply outage or other cause, or of any hazard to life or human health, traffic, or to neighbouring buildings or surrounding environment, pursuant to the article 33, paragraph 4 of the basic law;
+1.9. energy enterprise or other natural or legal entities fail to provide access to equipment and facilities for the purposes defined in sub-paragraphs 5.1 to 5.5 of paragraph 5 of article 33 of the basic law.
+2. For minor offences under paragraph 1 of this article, a fine of three hundred (300) euros and up to two thousand (2,000) euros, shall be imposed on the liable person of the legal entity and on the natural person.
+3. For minor offences under paragraph 1 of this article, a fine of five hundred (500) euros and up to four thousand (4,000) euros, shall be imposed on a natural person who runs an individual business.

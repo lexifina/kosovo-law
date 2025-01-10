@@ -1,0 +1,8 @@
+LIGJI NR. 08/L-283
+PËR HARMONIZIMIN E LIGJEVE TË VEÇANTA ME LIGJIN NR. 05/L-087 PËR
+KUNDËRVAJTJE
+Kuvendi i Republikës së Kosovës:
+Në bazë të nenit 65 (1) të Kushtetutës së Republikës së Kosovës,
+Miraton:
+LIGJ PËR HARMONIZIMIN E LIGJEVE TË VEÇANTA ME LIGJIN NR. 05/L-087 PËR
+KUNDËRVAJTJE

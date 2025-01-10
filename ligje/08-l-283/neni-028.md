@@ -1,0 +1,31 @@
+## KAPITULLI XXIV
+## NDRYSHIMI DHE PLOTËSIMI I LIGJIT NR. 06/L-031 PËR PAJISJET NË PRESION
+# Neni 28
+Neni 20 i Ligjit Nr. 06/L-031 për Pajisjet në Presion (tutje në këtë kapitull: ligji bazik) ndryshohet me tekstin si vijim:
+Neni 20
+Sanksionet kundërvajtëse me gjobë
+1. Me gjobë në shumë prej dymijë (2.000) euro e deri në pesëmbëdhjetë mijë (15.000) euro dënohet person juridik nëse:
+1.1. para vënies në treg, prodhuesi, përfaqësuesi i tij i autorizuar, importuesi apo tregtuesi i fundit i pajisjeve dhe instalimeve nën presion nuk posedon për çdo pajisje dhe instalim nën presion dokumentacionin teknik dhe shqyrtues, me të cilën vërtetohet se pajisja ose instalimi i plotëson kërkesat themelore të sigurisë të parapara më këtë ligj dhe aktet nënligjore që dalin nga ky ligj, në pajtim me nenin 5, paragrafi 3. të ligjit bazik;
+1.2. pajisjet dhe instalimet nën presion, para vënies në treg nuk janë pajisur me deklaratë të konformitetit dhe shenjën “CE” e lëshuar nga prodhuesi përfshirë numrin identifikues të trupit të notifikuar i cili ka qenë i kyçur në fazën e prodhimit, dhe pajisja nuk është shoqëruar me udhëzime adekuate për përdorim në pajtim me nenin 5, paragrafi 4. të ligjit bazik;
+1.3. para vënies në treg pajisjet transportuese nën presion nuk e kanë të vendosur nga prodhuesi shenjen Pi (π) e cila tregon që pajisja është konform më kërkesat e aplikueshme për vlerësim të konformitetit në pajtim me nenin 5, paragrafi 5. të ligjit bazik;
+1.4. vihen në treg pajisjet nën presion të cilat nuk kanë të vendosur pllakën identifikuese më të dhëna teknike dhe dokumentacion teknik përcjellës sipas nenit 5, paragrafi 6. i ligjit bazik;
+1.5. me rastin e vënies në treg të pajisjeve ose instalimeve nën presion, importuesi nuk ka vendosur në pajisjen dhe instalimin nën presion emrin e biznesit ose shenjën e regjistruar tregtare dhe adresën në të cilën ka qasje sipas nenit 5, paragrafi 7. i ligjit bazik;
+1.6. lejohet importimi i pajisjeve nën presion më të vjetra se dhjetë (10) vite në kundërshtim me nenin 5, paragrafi 8. i ligjit bazik;
+1.7. para vënies në treg të pajisjeve ose instalimeve nën presion, nuk sigurojnë që të njëjtat janë të projektuara dhe prodhuara konform kërkesave themelore për siguri sipas nenit 6, paragrafi 1. të ligjit bazik;
+1.8. prodhuesit nuk ruajnë dokumentacionin teknik dhe deklaratën për vlerësim të konformitetit së paku dhjetë (10) vite pas futjes në treg të pajisjeve ose instalimeve nën presion dhe me shënimin e numrit të tipit ose series nuk mundësojnë identifikimin e tyre sipas nenit 6, paragrafi 3. dhe 4. të ligjit bazik;
+1.9. importuesi nuk I kryen obligimet sipas nenit 8 të ligjit bazik;
+1.10. shpërndarësi nuk I kryen obligimet e përcaktuara sipas nenit 9 të ligjit bazik;
+1.11. shfrytëzuesi I pajisjes dhe instalimit nën presion nuk I kryen përgjegjësitë e përcaktuara me nenin 10 të ligjit bazik;
+1.12. instaluesi nuk e bënë montimin e pajisjeve dhe instalimeve nën presion, sipas projektit tekniko-teknologjik si dhe nuk i zbaton rregullat teknike përkatëse për pajisjet dhe instalimet nën presion në pajtim me nenin 11 të ligjit bazik;
+1.13. nuk kryhet vlerësimi I konformitetit duke përfshirë kontrollet periodike teknike dhe shqyrtimet e pajisjes dhe instalimit nën presion sipas këtij ligji dhe akteve nënligjore të dala nga ky ligj, nuk harton raportin detal me përshkrimet e procedurave me të cilat është kryer vlerësimi I konformitetit dhe dy (2) kopje të raportit nuk i dorëzohen pronarit ose shfrytëzuesit të pajisjes nën presion sipas nenit 12, paragrafi 1. të ligjit bazik;
+1.14. personeli i trupit të autorizuar për vlerësimin e konformitetit është projektues, prodhues, furnizues, instalues, blerës, pronar, shfrytëzues dhe mirëmbajtës i pajisjes dhe instalimit nën presion të cilën e kontrollon dhe shqyrton sipas nenit 12, paragrafi 3. të ligjit bazik;
+1.15. trupi I autorizuar për vlerësimin e konformitetit duke përfshirë kontrollet periodike teknike dhe shqyrtimet e pajisjes dhe instalimit nën presion në çdo kohë dhe për çdo lloj apo kategori të pajisjes nën presion për të cilën është I autorizuar nuk I ka në dispozicion personelin e nevojshëm përshkrimet e procedurave dhe pajisjet të cilat janë të nveojshme sipas nenit 12, paragrafi 6. të ligjit bazik;
+1.16. trupi I autorizuar për vlerësimin e konformitetit duke përfshirë kontrollet periodike dhe shqyrtime të pajisjes dhe instalimit nën presion, nuk ruan fshehtësinë afariste e cila ka të bëjë më të dhënat e marra gjatë kryerjes së punëve në pajtim me nenin 12, paragrafi 7. të ligjit bazik;
+1.17. bombolat për gazra teknike ose bombolat për gazin e lëngëzuar të naftës lejohen të mbushen nga operatori ekonomik jo i autorizuar sipas nenit 14, paragrafi 2. të ligjit bazik;
+1.18. operatori ekonomik për tregtim me bombola të mbushura është furnizuar nga operatori ekonomik që nuk është i autorizuar për ekzaminim dhe mbushje të bombolave sipas nenit 14, paragrafi 3. të ligjit bazik;
+1.19. kryhet mbushja e bombolave më GLN në pikat e shitjes së karburanteve dhe GLN-së me pakicë sipas nenit 14, paragrafi 4. të ligjit bazik;
+1.20. për çdo rast avarie në pajisjen ose instalimin nën presion me pasoja ndaj jetës, shëndetit, pronës së qytetarëve dhe mjedisit, shfrytëzuesi nuk e njofton menjëherë inspektorin për pajisje nën presion më qëllim të inspektimit të avarisë sipas nenit 15, paragrafi 1. të ligjit bazik;
+1.21. është bërë ndërhyrja ose ndërrimi i vendit të pajisjes ose instalimit nën presion të dëmtuar pas avarisë deri në përfundimin e inspektimit, përveç në rastet kur rrezikohet jeta e njerëzve, të mirat materiale dhe mjedisi sipas nenit 15, paragrafi 2. të ligjit bazik;
+1.22. shfrytëzuesi I pajisjes dhe instalimit nën presion nuk I ofron në dispozicion inspektorit për pajisje nën presion çdo të dhënë që I kërkohet e që ka të bëjë me kryerjen e inspektimit të avarisë sipas nenit 15, paragrafi 3. të ligjit bazik.
+2. Për kundërvajtje nga paragrafi 1. i këtij neni me gjobë prej treqind (300) euro e deri në dymijë (2.000) euro dënohet personi përgjegjës në personin juridik dhe personi fizik.
+3. Për kundërvajtje nga paragrafi 1. i këtij neni me gjobë prej pesëqind (500) euro e deri në tremijë (3.000) euro dënohet personi fizik I cili ushtron biznes individual.
