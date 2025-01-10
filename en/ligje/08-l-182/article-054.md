@@ -1,0 +1,4 @@
+# Article 54
+Control of discretion and breach of rules of the administrative procedure
+1. In assessing the lawfulness of the act or other administrative action in case the administration is authorized to act on discretion by law, the court shall only consider the lawful exercise of discretion in accordance to law on general administrative procedure and not extend its examination to the adequacy/opportunity of choice made by the administration.
+2. The court shall not approve a lawsuit, only because the established violations of the administrative procedure rules or the requirements for the mandatory content of the written administrative act should the respondent administration manage to prove during the trial that those violations have not affected the content of the enacting clause of the act, which would have been, at any rate, the same. In that case, the costs of proceedings shall be borne by the respondent administration.

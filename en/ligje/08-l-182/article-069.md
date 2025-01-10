@@ -1,0 +1,6 @@
+# Article 69
+Decision in case of approval of action for damages
+1. To the extent the action for damage is well founded, the court shall decide the restoration to previous or a similar situation, by specifically defining what should be done by the administration and how, including the return of an object or the reinstatement of a right which was interrupted due to the action of omission of the administration or any other performance.
+2. Unless otherwise regulated by law, if the restoration to the previous situation is impossible and disproportionate or does not repair entirely the damage, the court shall decide the pecuniary compensation for the entire or respectively remaining part of the damage.
+3. The amount and the extension of the pecuniary compensation shall be established in accordance to the provisions of applicable civil judicial procedure law. Anyway, in definition of the pecuniary compensation, shall not be included the compensation of that part of the damage that could be been prevented with the ordinary diligence of the plaintiff, including by exercising the administrative and judicial legal remedies.
+4. Provisions of this article apply, also when the action for damages was filed together, during or after the actions foreseen by Articles 14, 15, 16 and 20 of this Law.

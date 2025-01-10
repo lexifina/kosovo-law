@@ -1,6 +1,0 @@
-# Article 10
-1. Based on the Law, a natural and a legal person has the right to start an administrative conflict, if he/she considers that by the final administrative act in administrative procedure , his/her rights or legal interests has been violated.
-2. Administration body, Ombudsperson, associations and other organizations, which protect public interests, may start an administrative conflict.
-3. Administration body has the right to initiate the administrative conflict, against the decision taken based on complain in the administrative procedure, if he/she considers that any of his/her rights or interests have been violated.
-4. If, by the administrative act the Law has been violated in the favor of a natural or legal entity, the conflict can be initiated by a competent public prosecutor or by other body authorized by the Law. All administration bodies are obliged to inform competent public prosecutor or the body authorized by the Law.
-5. An administrative conflict can be initiated also by the competent public attorney or authorized person, if by an administrative act the Law has been violated in the disadvantage of central government bodies and other bodies on their dependence, local government bodies and bodies on their dependence, where the property rights of these bodies have been violated.

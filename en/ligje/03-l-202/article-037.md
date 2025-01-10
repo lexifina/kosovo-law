@@ -1,4 +1,0 @@
-# Article 37
-1. In case the court does not disallow the indictment in accordance with paragraph 2 of Article 33 and Article 34 of this law or does not annul the administrative act in accordance with Article 35 of this law, the court shall sent a copy of the indictment with the attachments to the indicted party and interested parties.
-2. The reply shall be given within the time period of thirty (30) days from the day of submitting the indictment in response to the party.
-3. Within the set timeline, the party is obliged to send all documents on the case to the court. In case the indicted party, even after the second request, does not present the documents on the case, or in case the indicted party declares that it can not sent them, the court may decide on the issue even in the absence of the documents on the case.

@@ -1,3 +1,0 @@
-# Article 19
-1. When a natural person, who is a member of a non-governmental organization, which according to its rules is obliged to protect certain rights and interests of its members, by an administrative act such a right or interest has been violated, this organization with the approval of its member, on behalf of his/her name can submit the indictment and develop an administrative conflict against the administrative act.
-2. The organization under paragraph 1 of this Article can in each phase of the procedure, with the rights of the interested party to enter on started conflict, in favor of its member and undertake all actions and use all legal remedies, if this is not in contradiction with the declarations and actions of the party.

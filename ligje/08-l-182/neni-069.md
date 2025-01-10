@@ -1,0 +1,6 @@
+# Neni 69
+Vendimi në rastin e aprovimit të padisë për shpërblimin e dëmit
+1. Nëse padia për shpërblimin e dëmit është e themeltë, gjykata vendos rikthimin në gjendjen para se të shkaktohet dëmi apo në një gjendje të ngjashme me të, duke urdhëruar në mënyrë specifike çfarë duhet të bëjë administrata, përfshirë nëse është rasti për kthimin e sendit apo kryerjen e një veprimi tjetër faktik.
+2. Përveç kur parashihet shprehimisht ndryshe me ligj, nëse kthimi në gjendjen e mëparshme është i pamundur apo jo-proporcional apo nuk kompenson plotësisht dëmin, gjykata vendos kompensimin në të holla për të tërë apo përkatësisht për pjesën e mbetur të dëmit dhe urdhëron bërjen e pagesës.
+3. Shtrirja dhe masa e kompensimit në të holla llogaritet sipas ligjit përkatës për procedurën gjyqësore civile në fuqi. Sidoqoftë në përcaktimin e masës të kompensimit të dëmit nuk përfshihet kompensimi i asaj pjese te dëmit që mund të ishte shmangur nga paditësi duke treguar kujdesin e duhur të paditësit, qoftë edhe nëpërmjet ushtrimit të mjeteve juridike administrative apo gjyqësore.
+4. Dispozitat e këtij neni zbatohen edhe në rastin kur demi është kërkuar bashkë, gjatë apo veçmas pas gjykimit të padive të parashikuara në nenet 14, 15, 16 dhe 20 të këtij Ligji.

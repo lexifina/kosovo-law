@@ -1,0 +1,4 @@
+# Neni 54
+Kontrolli i diskrecionit dhe shkelja e rregullave të procedurës administrative
+1. Në vlerësimin e ligjshmërisë të aktit apo veprimit tjetër administrativ, nëse administrata, është e autorizuar sipas ligjit të veprojë me diskrecion, gjykata shqyrton vetëm ushtrimin e ligjshëm të diskrecionit në pajtim me ligjin përkatës për procedurën e përgjithshme administrative dhe nuk shtrin shqyrtimin e saj mbi përshtatshmërinë e zgjedhjes të bërë nga administrata.
+2. Gjykata nuk do të aprovojë një padi, vetëm për shkak të shkeljeve të konstatuara të rregullave të procedurës administrative, nëse administrata e paditur arrin të provojë gjatë gjykimit që këto shkelje nuk kanë ndikuar në përmbajtjen e dispozitivit të aktit, i cili do të kishte qenë sidoqoftë i njëjtë. Në këtë rast shpenzimet gjyqësore i bartë administrata e paditur.

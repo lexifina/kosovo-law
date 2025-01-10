@@ -1,0 +1,6 @@
+# Neni 43
+Detyrimi për të paraqitur dokumente dhe dhënë informacion
+1. Çdo organ tjetër publik, sipas përcaktimit të gjykatës, është i detyruar të paraqes, dokumente, dosje, përfshirë dokumente elektronike dhe të jap informacionin e kërkuar nga gjykata.
+2. Organi publik, së bashku me paraqitjen, duhet të përcaktoj ato pjesë të një dokumenti, dosjeje ose dokumenti elektronik, si dhe informacione që përbëjnë informacion të klasifikuar, të dhëna personale apo të dhëna afariste e profesionale, të mbrojtura sipas ligjit dhe që si të tilla duhet të përjashtohen nga qasja në dosjen gjyqësore për palët dhe personin e tretë.
+3. Nëse organi publik, nuk i përmbush detyrimet e tij sipas paragrafit 1 të këtij neni, pas një kërkese të dytë, gjykata mund të thërras titullarin e institucionit apo zëvendësin e tij për të kërkuar një shpjegim për mos-përmbushjen.
+4. Nëse organi publik, nuk i përmbush detyrimet e tij sipas paragrafit 1 të këtij neni, Gjykata ka të drejtë që me aktvendim, të shqiptojë një gjobë prej pesëqind (500) deri në njëmijepesëqind (1500) euro ndaj zyrtarit kryesor administrativ të institucionit apo zëvendësuesit të tij, me kusht që ai paraprakisht të jetë paralajmëruar. Paralajmërimi dhe vendosja e gjobës mund të përsëriten.

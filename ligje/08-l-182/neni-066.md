@@ -1,0 +1,4 @@
+# Neni 66
+Vendimi në rastin e aprovimit të padisë për nxjerrjen e një akti administrativ
+1. Gjykata urdhëron administratën të nxjerrë aktin administrativ i cili është kërkuar nga paditësi e që është refuzuar shprehimisht apo për të cilin administrata ka heshtur, në mënyrë të paligjshme.
+2. Nëse refuzimi apo heshtja e administratës është e paligjshme dhe i cenon paditësit të drejtat apo interesat e ligjshëm, por administrata është e autorizuar të veprojë sipas ligjit me diskrecion apo nëse në gjykim vlerësohet se janë të nevojshme shqyrtime shtesë të fakteve, që nuk mund të kryhen nga vetë gjykata, ajo urdhëron administratën të nxjerrë një akt administrativ të ri, për kërkesën e paditësit dhe në përputhje me qëndrimin e mbajtur nga gjykata. Në këtë rast në aktgjykim, gjykata përfshinë udhëzimet për zgjidhjen e çështjes, përfshirë edhe çështjet faktike dhe ligjore domethënëse që nuk janë vlerësuar apo janë vlerësuar gabimisht nga administrata.

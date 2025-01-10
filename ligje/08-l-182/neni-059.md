@@ -1,0 +1,10 @@
+# Neni 59
+Procedimi i padisë me objekt shfuqizimin e aktit nënligjor normativ
+1. Më marrjen e padisë, gjykata i dërgon nga një kopje të padisë të paditurit. I padituri ka tridhjetë (30) ditë nga pranimi i kërkesës për të dorëzuar përgjigjen në padi së bashku me arsyetimin dhe provat e nevojshme.
+2. Gjykata, me marrjen e padisë, gjithashtu përcakton kolegjin që do të shqyrtojë çështjen sipas rregullave të procedurës të zbatueshme. Kolegji që do të shqyrtojë çështjen cakton gjyqtarin raportues sipas legjislacionit të zbatueshëm.
+3. Nëse padia ose përgjigja në padi nuk është e kuptueshme ose e plotë, gjyqtari raportues njofton palët apo pjesëmarrësit përkatës për këtë dhe e cakton një afat prej jo më shumë se pesëmbëdhjetë (15) ditë për të korrigjuar ose plotësuar padinë, përkatësisht përgjigjen në padi. Gjyqtari raportues ka të drejtë të kërkoj shpjegime dhe prova shtesë, nëse kjo është e nevojshme për të vlerësuar lejueshmërinë dhe themelësinë e padisë.
+4. Gjyqtari raportues përgatit raportin paraprak lidhur me faktet, lejueshmërinë dhe themelësinë e padisë. Në rast se përgjigja në padi nuk dorëzohet brenda afatit të paraparë, gjyqtari raportues përgatit raportin paraprak vetëm në bazë të padisë.
+5. Brenda tridhjetë (30) ditëve nga pranimi i përgjigjes në padi apo nga skadimi i afatit për përgjigjen në padi, gjyqtari raportues i dërgon kolegjit shqyrtues raportin paraprak.
+6. Nëse kolegji shqyrtues, në seancë të trupit gjykues, unanimisht vjen në përfundim se kërkesa nuk i plotëson kushtet formale për procedim të mëtutjeshëm dhe për këtë shkak nuk është e lejueshme, shpall vendimin me të cilin hidhet poshtë kërkesa për shkak të mungesës së lejueshmërisë.
+7. Në rast se kolegji shqyrtues nuk vjen unanimisht në përfundim se padia nuk është e lejueshme, cakton dhe thërret seancën gjyqësore dëgjimore dhe shqyrton në tërësi lejueshmërinë dhe themelësinë e kërkesës dhe merr vendim sipas dispozitave të këtij ligji.
+8. Në shqyrtimin e themelësisë së padisë, Gjykata vlerëson përmbajtjen, formën dhe procedurën për miratimin, shpalljen dhe hyrjen në fuqi të aktit nënligjor normativ të kontestuar.

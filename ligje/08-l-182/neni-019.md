@@ -1,0 +1,6 @@
+# Neni 19
+Afati për paraqitjen e padive ndaj veprimit tjetër administrativ
+1. Padia për kryerjen apo ndalimin e një veprimi tjetër administrativ, mund të paraqitet brenda tridhjetë (30) ditëve nga njoftimi i vendimit që zgjidh kundërshtimin administrativ apo kalimi i afatit për njoftimin e vendimit që zgjidh kundërshtimin administrativ.
+2. Padia për ndalimin e një veprimi tjetër administrativ sipas nën paragrafit 1.1 të nenit 16 të këtij ligji, nëse shterimi i kundërshtimit administrativ nuk është kusht për pranimin e padisë, mund të paraqitet brenda tridhjetë (30) ditëve nga momenti kur paditësi ka marrë apo duhej të merrte dijeni për veprimin tjetër administrativ që kundërshtohet, por jo më vonë se gjashtë (6) muaj nga kryerja e veprimit apo fillimi i kryerjes të tij.
+3. Nëse shterimi i kundërshtimit administrativ nuk është kusht për pranimin e padisë, Padia për kryerjen e një veprimi tjetër administrativ sipas nën paragrafit 1.2 i nenit 16 të këtij ligji, mund të paraqitet brenda katër (4) muajve nga parashtrimi i kërkesës për kryerjen e veprimit tjetër administrativ, në rast të mosveprimit nga administrata.
+4. Afati i parashikuar nga paragrafi 1 të këtij neni, dyfishohet nëse vendimi që zgjidh kundërshtimin administrativ nuk përmban informatën e qartë dhe të saktë për mjetet juridike gjyqësore.

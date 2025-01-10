@@ -1,0 +1,6 @@
+# Article 19
+Deadline for filing an action related to another administrative action
+1. The actions related to another administrative action may be filed within the deadline of thirty (30) days, from the notification of the decision resolving the administrative complaint or the expiration of the deadline for the notification of such a decision.
+2. The action to cease performing another administrative action based on sub-paragraph 1.1 of Article 16 of this Law, if the exhaustion of the administrative complaint is not required, may be filed within thirty (30) days, from when the plaintiff got or had to get cognisance of the contested real act, but not later than within six (6) months from the performance of the action or beginning of its performance.
+3. The action to perform another administrative action based on sub-paragraph 1.2 of Article 16 of this Law, if the exhaustion of the administrative complaint is not required, may be filed within a deadline of four (4) months, from the submission of the request for performing another administrative action, in case of inaction by the administration.
+4. The deadline foreseen by paragraph 1 of this article shall be doubled, if the decisions that resolves the administrative complaint does not contain clear and precise information on the access to judicial remedies.

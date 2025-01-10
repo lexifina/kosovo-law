@@ -1,3 +1,0 @@
-# Article 65
-Obligatory character of judgment
-When the court annuls an act, against which the administrative conflict has started, the case shall be returned in the position that it was before the annulled act was issued. If by the nature of the issue, which was the object of the conflict, instead of annulled administrative act, another act shall be issued. The competent body is obligated to issue another act, without a delay, within thirty (30) days from the date of delivering the judgment. In this case the competent body is obligated on the legal point of view of the court and on courts remarks regarding the procedure.

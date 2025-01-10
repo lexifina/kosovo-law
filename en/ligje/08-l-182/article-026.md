@@ -1,0 +1,7 @@
+# Article 26
+Actions related to administrative contracts
+1. In relation to the eventual disputes, related to the validity, interpretation, execution or withdrawal from or resolution of an administrative contract, foreseen by the law on general administrative procedure, could be raised the following actions:
+1.1. a third party (non-party of the contract), which lawsuits is affected in his right or legal interest, may seek the declaration of the inefficacity of a substitution contract or a cooperation contract, towards him. Such an action might be filed within the general limitation period of three (3) years from when the third party has or should have become aware of the administrative contract.
+1.2. each of the parties of an administrative contract may seek the declaration of the invalidity of such a contract in the cases foreseen by the law on general administrative procedure. Such an action may be filed within sixty (60) days from the conclusion of the contract.
+1.3. each of the parties of an administrative contract, could file an action under the relevant law on obligations in order to seek the interpretation, execution or file an action for the resolution of a contract from the non-public organ party or the party public organ in other cases than the foreseen by paragraph 4 of Article 66 of the relevant law on general administrative procedure.
+2. Exceptionally, if a non-public organ party in a substituting contract seeks the execution of the contract it should file an action in accordance with article 15 of this Law.

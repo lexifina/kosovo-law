@@ -1,0 +1,4 @@
+# Article 66
+Decision in case of approval of action for issuance of an administrative act
+1. The court shall order the administration to issue the administrative act that is requested by the plaintiff and that has been explicitly refused or for which there has been administration silence, unlawfully.
+2. If the refusal or omission of an administrative act is unlawful and violates the plaintiff’s rights or legal interests, but the administration is authorized to exercise discretion or further investigation that cannot be performed by the court are needed, the court shall order the administration to issue an administrative act taking into consideration the court’s view of the law. In this case, the court, in the judgment, shall also include the instructions for resolution of the case, including the relevant issues of fact and issues of law, which have not been or have been considered wrongfully by the administration.
