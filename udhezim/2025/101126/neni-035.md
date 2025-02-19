@@ -1,0 +1,6 @@
+# Neni 35
+Rregullimet e tjera dhe kufizimet në përdorimin e licencës profesionale
+1. Kur një person fizik i licencuar është punonjës i një institucioni publik të trashëgimisë kulturore licenca profesionale e tij nuk mund të përdoret si bazë për licencimin e personave juridikë deri në momentin e përfundimit të këtij funksioni. Në rastin e kundërt, kur një person fizik i licencuar punësohet në institucion publik të trashëgimisë kulturore ai është i detyruar të njoftojë sekretarin e Bordit të Licencimit pranë Ministrisë. Mosnjoftimi shërben si bazë për heqjen e licencës nga Bordi i Licencimit.
+2. Kur ndërrohet stafi profesional i licencuar në bazë të të cilit është marrë licenca profesionale personi përgjegjës i personit juridik është i detyruar të njoftojë sekretarin e Bordit për ndryshimin. Sekretari i Bordit i bën ndryshimet në formatin e licencës pas miratimit nga Bordi.
+3. Licenca profesionale nuk lejohet të transferohet nga një person fizik ose juridik tek tjetri.
+4. Për çfarëdolloj aktiviteti që nuk përcaktohet në këtë udhëzim administrativ për procedurën për licenca profesionale zbatohen dispozitat e Ligjit Nr. 04/L-202 për Sistemin e Lejeve dhe Licencave të Republikës së Kosovës. Çështjet procedurale të cilat nuk janë rregulluar shprehimisht me këtë Udhëzim Administrativ, i nënshtrohen Ligjit për Procedurën e Përgjithshme Administrative.

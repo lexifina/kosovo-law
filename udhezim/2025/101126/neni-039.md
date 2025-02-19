@@ -1,0 +1,3 @@
+# Neni 39
+Shfuqizimi
+Me hyrjen në fuqi të këtij udhëzimi administrativ shfuqizohen: Udhëzimi Administrativ (MKRS) Nr. 03/2021 për Kriteret, Kërkesat, Rregullat dhe Procedurat Lidhur me Lëshimin, Administrimin dhe Revokimin e Licencave Profesionale për Personat Fizikë dhe Juridikë në Fushën e Trashëgimisë Kulturore, dhe Udhëzimi Administrativ (MKRS) Nr. 01/2023 për Ndryshimin dhe Plotësimin e Udhëzimit Administrativ (MKRS) Nr. 03/2021 për Kriteret, Kërkesat, Rregullat dhe Procedurat Lidhur me Lëshimin, Administrimin dhe Revokimin e Licencave Profesionale për Personat Fizikë dhe Juridikë në Fushën e Trashëgimisë Kulturore.
