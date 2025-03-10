@@ -1,0 +1,5 @@
+# Neni 3
+Parimet themelore
+1.Mekanizmi Koordinues Lokal koordinon aktivitetet për parandalimin, mbrojtjen dhe mbështetjen e viktimave të të gjitha formave të dhunës pa diskriminim në bazë të kombësisë apo lidhjes me ndonjë komunitet, origjinës sociale apo kombëtare, racës, etnisë, ngjyrës, lindjes, origjinës, seksit, gjinisë, identitetit gjinor, orientimit seksual, gjuhës, shtetësisë, besimit fetar dhe besimit, përkatësisë politike, mendimit politik apo mendimeve të tjera, gjendjes sociale ose personale, moshës, gjendjes familjare ose martesore, shtatzënisë, lehonisë, gjendjes pasurore, gjendjes shëndetësore, aftësisë së kufizuar, trashëgimisë gjenetike ose ndonjë bazë tjetër me qëllim të zbatimit të parimit të trajtimit të barabartë.
+2.Mekanizmi Koordinues Lokal sigurohet në ruajtjen e konfidencialitetit të viktimave dhe mbrojtjen e të dhënave personale në pajtim me legjislacionin në fuqi.
+3.Mekanizimi Koordinues Lokal aplikon qasje me viktimën në qendër gjatë ofrimit të mbështetjes për viktimat e të gjitha formave të dhunës, duke i marrë parasysh të drejtat dhe nevojat e viktimave.
