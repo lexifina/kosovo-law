@@ -1,0 +1,36 @@
+# Neni 7
+Detyrat dhe obligimet e spitaleve
+1. Spitali obligohet të:
+1.1 Zbatojë dispozitat juridike lidhur me ofrimin e shërbimeve shëndetësore,
+1.2 Zbatoj standardet e miratuara në sektorin e shëndetësisë,
+1.3 Nxjerrjen e statutit,
+1.4 Vendos në vend të dukshëm listën e çmimeve për shërbimet që ofron,
+1.5 Sigurojë kuadër profesional nga lista e paraqitur e shërbimeve të ofruara,
+1.6 Ruaj dokumentacionin dhe regjistrat mjekësore në gjendje funksionale, për periudhën kohore të përcaktuar me ligj,
+1.7 Ruaj dokumentacionin shëndetësor nëse shuan veprimtarinë respektivisht pushon së funksionari veprimtarinë e tij në pajtim me dispozitat juridike,
+1.8 Sigurojë qasje personave me aftësi të kufizuar,
+1.9 Sigurojë përgjegjësinë civile për dëmet e shkaktuara ndaj shëndetit të qytetarëve gjatë shfrytëzimit të shërbimeve shëndetësore në institucion, në pajtim me Ligjin për të drejtat dhe përgjegjësit e qytetarëve në kujdesin shëndetësor,
+1.10 Të raportoj për aktivitetet e veta në pajtim me ligjet dhe aktet nënligjore në fuqi,
+1.11 Të siguroj vazhdimin e kujdesit shëndetësor qytetarëve në rast se për çfarëdo arsye nuk mund të siguroj shërbime të caktuara të kujdesit shëndetësor,
+1.12 Të sigurojë referimin e qytetarëve në bazë të ligjit dhe të akteve përkatëse nënligjore,
+1.13 Të siguroj zbatimin e dispozitave ligjore që kanë të bëjnë me metodat dhe procedurat për kontrollin, ruajtjen, shpërndarjen dhe administrimin e barërave,
+1.14 Të azhurnoj njohuritë dhe shkathtësitë profesionale të personelit shëndetësor përmes procesit të zhvillimit të vazhdueshëm profesional, konform rregullativës ligjore të aprovuar nga Ministria e Shëndetësisë,
+1.15 Të siguroj mekanizma për një sistem efikas për vlerësim dhe monitorim,
+1.16 Të zbatojë imunoprofilaksën e obliguar dhe fushatat e imunizimit dhe fushatat e imunizimit plotësues në bazë të kushteve të përcaktuara me Udhëzimin Administrativ përkatës për Vaksinoprofilaksën, Seroprofilaksën dhe Kimioprofilaksën,
+1.17 Mënyra e plotësimit të recetës dhe obligimi i spitalit për raportim është i përcaktuar në bazë të Udhëzimit Administrativ përkatës për Recetat në sistemin shëndetësor në Republikën e Kosovës,
+1.18 Plotësimin e dokumenteve shëndetësore në bazë të Udhëzimin Administrativ përkatës për Dokumentet Shëndetësore,
+1.19 Zbatimi i rregullave dhe masat e parandalimit dhe transmetimin e HIV-AIDS në bazë të Udhëzimin Administrativ përkatës për Veprimtaria, struktura dhe funksionet e shërbimeve shëndetësore për HIV-AIDS,
+1.20 Organizimin e shërbimit për parandalimit dhe kontrollit të infeksioneve përmes ekipit për kontrollin e infeksioneve spitalore dhe detyrën që të plotësoj kushtet në bazë të Udhëzimin Administrativ përkatës për parandalimin dhe kontrollin e infeksioneve spitalore,
+1.21 Spitali që angazhon profesionist shëndetësor obligohet t’i plotësoj kushtet e përcaktuara me Udhëzimin Administrativ përkatës për licencim të përkohshëm të profesionistëve shëndetësor qytetar jo-kosovar,
+1.22 Të siguroj zbatimin e dispozitave ligjore që kanë të bëjnë me metodat dhe procedurat për kontrollin, ruajtjen, shpërndarjen dhe administrimin e barërave,
+1.23 Menaxhimin e mbeturinave medicinale sipas dispozitave në fuqi,
+1.24 Të informojë përmes modulit të licencimit elektronikë para shuarjes, shtimit të shërbimeve shëndetësore, ndërprerjes së përkohshme të veprimtarisë shëndetësore, plotësimin apo largimin e personelit shëndetësor,
+1.25 Institucioni spitalore obligohet për parandalimin dhe kontrollin e infeksioneve,
+1.26 Institucioni privat shëndetësor obligohet që në vend të dukshëm të vendosë:
+1.26.1 Licencën e institucionit të lëshuar nga Ministria e shëndetësisë,
+1.26.2 Kutinë e ankesave/rekomandimeve,
+1.26.3 Listën e shërbimeve me çmime,
+1.26.4 Kartën e të drejtave dhe përgjegjësive të pacientit,
+1.26.5 Numrin e linjës telefonike për ankesat e qytetarëve,
+1.26.6 Shenjën për ndalim të pirjes së duhanit.
+1.27 Të kryej dhe zbatoj obligimet tjera të përcaktuara me ligjet dhe aktet nënligjore në fuqi.
