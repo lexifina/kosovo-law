@@ -1,0 +1,3 @@
+# Neni 20
+Lëshimi i numrit unik të certifikimit të PEF/SF
+Pas kalimit me sukses të të gjitha testeve për modelin specifik të pajisjes, DAF-i i jep OE-së një numër unik të mbrojtur të autorizimit. Ky autorizim, është dëshmi për blerësit se ai Operatori Ekonomik është i autorizuar për të shitur atë pajisje dhe se i plotëson të gjitha specifikimet dhe kushtet për shfrytëzim si PEF/SF. DAF-i në bazë të rezultateve në testim duhet të nxjerrë vendim për certifikim të pajisjeve përkatëse brenda pesëmbëdhjetë (15) ditësh pas pranimit të raportit nga institutet, laboratorët apo institucionet kompetente dhe të autorizuara për testimin dhe verifikimin e përmbushjes së kërkesave specifike teknike dhe funksionale të përcaktuara nga ATK-ja.
