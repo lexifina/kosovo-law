@@ -1,0 +1,5 @@
+# Neni 13
+1.Neni 47, paragrafi 2, i Udhëzimit Administrativ bazë, plotësohet dhe ndryshohet, me tekstin si në vijim:
+2. SRD hynë në fuqi tetëmbëdhjetë 18 muaj pas vendimit përfundimtar të miratimit të administratorit.
+2. Në nenin 47, pas paragrafit 3, te Udhëzimit Administrativ bazë shtohet paragraf i ri me tekstin si në vijim:
+4. Periudha kalimtare për shitjen e stoqeve të pijeve të ambalazhuara është gjashtë (6) muaj pas fillimit të zbatimit të sistemit të SRD për kthimin e ambalazheve që mund të shiten. Me rastin e fillimit të zbatimit të sistemit të rimbursimit të depozitës të SRD -së të gjithë prodhuesit, importuesit dhe shitësit me pakicë nuk mund të prodhojn, importojn apo shesin pije të ambalazhuara që janë subjekt i SRD pa plotësimin e kërkesave, respektivisht dispozitave për ambalazh dhe mbeturinat e ambalazhit si dhe SRD- së, përveç për produktet që janë në stokun e prodhuesve, importuesve ose shitësve me pakicë në datën e përcaktuar në nenin 47 paragrafin 2. të përshkruar në këtë Udhëzim Administrativ.
