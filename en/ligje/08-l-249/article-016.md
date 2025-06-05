@@ -1,0 +1,3 @@
+# Article 16
+In Article 19 of the basic Law, after paragraph 3, there shall be added a new paragraph 3/a with the following text:
+3/a. In cases of continuous non-participation of the member in the Council meetings, there shall be initiated a disciplinary procedure against such a member. Notwithstanding other provisions of the Law, the Council quorum shall, in these cases and other following cases of a continuous non-participation of some Council members, be established with at least four (4) members of the Council, and the decisions shall be taken with the votes of all these four (4) members of the Council.
