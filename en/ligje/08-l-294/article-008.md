@@ -1,0 +1,3 @@
+# Article 8
+In Article 27 of the Basic Law, after paragraph 5., a new paragraph 6. shall be added as in the following:
+6. Public service employees and technical and support staff shall be entitled to file a complaint with the Complaints Commission established by the employer, for any action or inaction that violates their lawful rights or interests arising from the employment relationship. Upon the proposal of the ministry responsible for public administration, the Government shall determine by a bylaw the procedure and rules for the establishment, composition and mandate of the Complaints Commission.
