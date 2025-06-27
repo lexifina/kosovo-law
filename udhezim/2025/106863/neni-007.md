@@ -1,0 +1,5 @@
+# Neni 7
+Bimë, produkte bimore dhe objekte të tjera, të ardhura nga vende të tjera, të cilat janë bartës të mundshëm të organizmave të dëmshëm me rëndësi për vendin tonë
+1. Pjesa 1 Lista e bimëve, produkteve bimore dhe objekteve të tjera, si dhe vendeve të treta të origjinës dhe vendeve eksportuese, për importin e të cilave në territorin e Republikës së Kosovës kërkohet certifikata fitosanitare përcaktohet në pjesën A, të shtojcës 1 të këtij Udhëzimi Administrativ.
+2. Pjesa 2 Lista e bimëve të tjera, produkteve bimore dhe objekteve të tjera, si dhe vendeve të treta të origjinës dhe vendit eksportues, për importin e të cilave në territorin e Republikës së Kosovës kërkohet certifikata fitosanitare dhe për të cilat kryhet inspektimi fitosanitar në bazë të rrezikut me frekuencë të caktuar të kontrolleve të identitetit dhe shëndetit të bimëve në piken e kontrollit kufitar të mbërritjes së parë, përcaktohet në pjesën B të Shtojcës 2 të këtij Udhëzimi Administrativ.
+3. Pjesa 3 Lista e bimëve, produkteve bimore dhe objekteve dhe artikujve të tjerë, për hyrjen e të cilave në territorin e Republikës së Kosovës nuk kërkohet certifikata fitosanitare, përcaktohet tek
