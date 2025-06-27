@@ -1,0 +1,3 @@
+# Neni 30
+1. Në nenin 64, paragrafin 1 të Rregullores bazike, nënparagrafi 1.2 zëvendësohet me tekstin si në vijim:
+1.2. Siguron që personat me qasje në furnizimet në fluturim trajnohen për vetëdijesimin e përgjithshëm për sigurinë sipas nenit 80 të kësaj Rregullore, para se t’iu jepet qasje në këto furnizime. Përveç kësaj, siguron që personat që bëjnë skanimin e furnizimeve në fluturim, trajnohen sipas nenit 76, paragrafin 3 të kësaj Rregullore dhe personat që zbatojnë kontrolle të tjera të sigurisë në lidhje me furnizimet në fluturim, trajnohen sipas nenit 76, paragrafin 10 të kësaj Rregullore.

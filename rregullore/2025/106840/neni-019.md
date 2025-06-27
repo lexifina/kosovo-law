@@ -1,0 +1,3 @@
+# Neni 19
+1. Në nenin 47, paragrafin 1, nënparagrafi 1.2 i Rregullores bazike, zëvendësohen me tekstin si në vijim:
+1.2. I tërë stafi që i zbaton kontrollet e sigurisë dhe i tërë stafi me qasje të pambikëqyrur në kargo ajrore të identifikueshme ose në postë ajrore të identifikueshme për të cilat janë aplikuar kontrollet e sigurisë, rekrutohen sipas kushteve të nenit 72 të kësaj Rregulloreje dhe janë trajnuar për sigurinë sipas paragrafit 9 të nenit 76 të kësaj Rregulloreje. Kompetencat e personave të trajnuar paraprakisht në përputhje me nenin 80 të kësaj Rregulloreje, avancohen në ato që janë përmendur në paragrafin 9 të nenit 76 të kësaj Rregulloreje brenda 1 janarit 2023.
