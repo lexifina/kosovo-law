@@ -1,0 +1,4 @@
+RREGULLORE NR. XX /2025 PËR ORGANIZIMIN E BRENDSHËM DHE SISTEMATIZIMIN E VENDEVE TË PUNËS NË ADMINISTRATËN KOMUNALE
+Kuvendi i Komunës së Deçanit,
+Në zbatim të nenit 11, nenit 12, paragrafi 12.2, pika c) dhe nenit 17 të Ligjit Nr. 03/L-040 për Vetëqeverisjen Lokale, nenit 5, nenit 26 paragrafi 1 dhe nenit 63 paragrafi 3 të Statutit të Komunës 01.Nr.IX-5 datë 31.10.2019, nenit 2 paragrafi 3 të Rregullores (QRK) Nr. 01/2020 për Standardet e Organizimit të Brendshëm, Sistematizimin e Vendeve të Punës dhe Bashkëpunimin në Institucionet e Administratës Shtetërore dhe Agjencitë e Pavarura si dhe Rregullores (QRK) numër nr. 06/2024 për Klasifikimin e Vendeve të Punës në Shërbimin Civil, në seancën e mbajtur më datë 00.07.2025, miraton këtë:
+RREGULLORE NR. XX/2024 PËR ORGANIZIMIN E BRENDSHËM DHE SISTEMATIZIMIN E VENDEVE TË PUNËS NË ADMINISTRATËN KOMUNALE
