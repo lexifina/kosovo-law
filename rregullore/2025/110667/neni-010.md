@@ -1,0 +1,10 @@
+# Neni 10
+Procedura e organizimit të trajnimit të detyrueshëm
+1.Në pajtim me planin vjetor të trajnimeve dhe testimeve të detyrueshme, IKAP, në bashkëpunim me ZIP, publikojnë në ueb faqet e tyre respektive thirrjen publike për trajnim dhe testim, duke përfshirë datat e sakta të trajnimeve dhe testimeve të detyrueshme për inspektorë. Thirrja publike dërgohet nga ZIP tek të gjitha organet inspektuese.
+2.Thirrja publike për datat e trajnimeve dhe testimeve të detyrueshme shpallet jo më vonë se tridhjetë (30) ditë kalendarike para mbajtjes së trajnimit të detyrueshëm.
+3.Organet inspektuese dërgojnë në ZIP listat e inspektorëve që do të marrin pjesë në trajnimin e detyrueshëm së paku dhjetë (10) ditë para fillimit të mbajtjes së trajnimit.
+4.Lista e kandidatëve të përzgjedhur për trajnim dhe testim të detyrueshëm publikohet në faqen zytare të internetit të ZIP dhe IKAP së paku pesë (5) ditë para mbajtjes së trajnimit të detyrueshëm, së bashku me datat dhe orarin e mbajtjes së trajnimit dhe testimit të detyrueshëm. Të gjithë kandidatët njoftohen nga IKAP përmes adresës elektronike zyrtare.
+6 / 11
+5.Në rast se një inspektor që përfshihet në listë për trajnimin e detyrueshëm nuk e vijon trajnimin në datat e caktuara, ai ka mundësi të përfshihet përsëri në listë vetëm dy (2) herë të tjera brenda gjashtë (6) muajve.
+6.Përjashtimisht paragrafit 5 të këtij neni, nëse inspektori ka arsye objektive për të cilat nuk mund t’a vijojë trajnimin, të vërtetuara nga njësia e burimeve njerëzore ku është i punësuar inspektori, atëherë njësia e burimeve njerëzore sigurohet t’a dërgojë për përfshirje në listë jo më larg se afati i përcaktuar me paragrafin 1 të nenit 18 të kësaj rregulloreje.
+7.Mungesa e pjesëmarrjes së inspektorëve, për të tretën herë pas përfshirjes në listën sipas paragrafëve 4 dhe 5 të këtij neni dhe mos vërtetimi i arsyes objektive sipas paragrafit 6 të këtij neni, rezultojnë në moskalimin e testimit të detyrueshëm brenda afatit ligjor dhe, rrjedhimisht, përbën shkak për lirim nga shërbimi civil.
