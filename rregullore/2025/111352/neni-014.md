@@ -1,0 +1,4 @@
+# Neni 14
+Evidenca për procedurën e ngritur disiplinore
+1. Ministria mban të dhënat për procedurat e ngritura disiplinore, numrin dhe datën e vendimit disiplinor, llojin e masës së shqiptuar, si dhe vendimit për suspendimin e përkohshëm të administratorit falimentues gjatë kohës sa zgjat procedura disiplinore, pushimit të atyre masave, si dhe të dhënat tjera të rëndësishme për evidencën e përhershme lidhur me zhvillimin dhe rezultatin e procedurës disiplinore.
+2. Pas kalimit të periudhës prej tre (3) vjetësh prej ditës së marrjes së formës së prerë të vendimit për shqiptimin e masës disiplinore, pa marrë parasysh shkallën e përgjegjësisë dhe masën disiplinore, përveç shkarkimit nga detyra e administratorit falimentues, masat e shqiptuara disiplinore ndaj tij nuk krijojnë asnjë pasojë juridike.
