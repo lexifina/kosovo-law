@@ -1,0 +1,59 @@
+Prishtinë, më 13 tetor 2025
+Nr.ref.: RK2795/25
+VENDIM PËR REFUZIM TË KËRKESËS
+në
+rastin nr. KI125/25
+Parashtrues
+Skënder Berisha
+Vlerësim i kushtetutshmërisë së kohëzgjatjes së procedurave në lëndën civile C. nr. 649/2020 nga Gjykata Themelore në Gjakovë
+GJYKATA KUSHTETUESE E REPUBLIKËS SË KOSOVËS
+e përbërë nga:
+Nexhmi Rexhepi, kryetar Safet Hoxha, zëvendëskryetar Bajram Ljatifi, gjyqtar Radomir Laban, gjyqtar Remzije Istrefi-Peci, gjyqtare Enver Peci, gjyqtar dhe Jeton Bytyqi, gjyqtar
+Parashtruesi i kërkesës
+1. Kërkesa është dorëzuar nga Skënder Berisha, me vendbanim në Gjakovë (në tekstin e mëtejmë: parashtruesi i kërkesës), i cili përfaqësohet nga Avokatura Bokshi Sh.P.K., respektivisht nga avokat Ylli Bokshi.
+Vendimi i kontestuar
+2. Parashtruesi i kërkesës konteston kushtetutshmërinë e kohëzgjatjes së procedurave gjyqësore të zhvilluara pranë Gjykatës Themelore në Gjakovë (në tekstin e mëtejmë: Gjykata Themelore), përkitazi me lëndën civile [C. nr. 649/2020], e cila ndërlidhet me lëndën civile fillestare [C. nr. 655/2006].
+Objekti i çështjes
+3. Objekti i çështjes së kësaj kërkese është vlerësimi i kushtetutshmërisë së kohëzgjatjes së procedurave të zhvilluara pranë Gjykatës Themelore, me pretendimin se mosvendosja për lëndën [C. nr. 655/2006], e evidentuar më pas me numër [C. nr. 649/2020] nga Gjykata Themelore, cenon të drejtat e parashtruesit të kërkesës të garantuara me dispozitat e nenit 31 [E Drejta për Gjykim të Drejtë dhe të Paanshëm] të Kushtetutës së Republikës së Kosovës (në tekstin e mëtejmë: Kushtetuta) në lidhje me paragrafin 1 të
+nenit 6 (E drejta për një proces të rregullt) të Konventës Evropiane për të Drejtat e
+Njeriut (në tekstin e mëtejmë: KEDNJ).
+Baza juridike
+4. Kërkesa bazohet në paragrafët 1 dhe 7 të nenit 113 [Juridiksioni dhe Palët e Autorizuara] të Kushtetutës, në nenet 22 (Procedimi i kërkesës) dhe 47 (Kërkesa individuale) të Ligjit nr. 03/L-121 për Gjykatën Kushtetuese të Republikës së Kosovës (në tekstin e mëtejmë: Ligji) dhe në rregullin 25 (Parashtrimi i kërkesave dhe përgjigjeve) të Rregullores së punës të Gjykatës Kushtetuese të Republikës së Kosovës (në tekstin e mëtejmë: Rregullorja e punës).
+Procedura në Gjykatën Kushtetuese
+5. Më 12 maj 2025, parashtruesi i kërkesës e dorëzoi kërkesën e tij në Gjykatën Kushtetuese të Republikës së Kosovës (në tekstin e mëtejmë: Gjykata).
+6. Më 20 maj 2025, Kryetari i Gjykatës me Vendimin [GJR. KI125/25], caktoi gjyqtarin Enver Peci, gjyqtar raportues dhe me Vendimin [KSH. KI125/25], caktoi anëtarët e Kolegjit shqyrtues, të përbërë nga gjyqtarët: Nexhmi Rexhepi (kryesues), Safet Hoxha dhe Bajram Ljatifi (anëtarë).
+7. Më 23 maj 2025, Gjykata për regjistrimin e kërkesës njoftoi përfaqësuesin e autorizuar të parashtruesit të kërkesës.
+8. Më 1 tetor 2025, Kolegji shqyrtues shqyrtoi raportin e gjyqtarit raportues dhe njëzëri i rekomandoi Gjykatës refuzimin e kërkesës me procedurë të shkurtër, në pajtim me rregullin 54 [Hedhja poshtë dhe refuzimi i kërkesës], nënrregullin (2, b) të Rregullores së punës.
+Përmbledhja e fakteve
+9. Në lidhje me këtë rast, Gjykata rikujton se më 23 qershor 2023 parashtruesi i kërkesës Fadil Berisha, përkatësisht vëllai i parashtruesit të kërkesës së tanishme KI125/25, kishte dorëzuar kërkesën KI142/23 në Gjykatë, përmes së cilës kontestoi, kohëzgjatjen e procedurës për lëndën civile [C. nr. 655/2006], për të cilën Gjykata ka vendosur më 12 shkurt 2025.
+(i) Përmbledhje e fakteve të kërkesës KI142/23
+10. Në vitin 1991, në shtëpinë A. B., (babait të ndjerë të parashtruesit të kërkesës), kishte shpërthyer një zjarr që kishte djegur dhe shkatërruar tërësisht shtëpinë e tij. Më 7 nëntor 1991, A. B., parashtroi padi në Gjykatën Komunale në Gjakovë, kundër ndërmarrjes publike NP “Elektrokosova”, me kërkesë për kompensim dëmi, për shkak të djegies së tërësishme të shtëpisë së tij. Kjo procedurë u riaktivizua pas vitit 2000. Në vitin 2006, padia, përkatësisht lënda civile në shqyrtim para Gjykatës Themelore në Gjakovë kishte marrë numrin [C. nr. 655/2006]. Më 1 gusht 2010, A. B., (babai i parashtruesit të kërkesës), kishte ndërruar jetë dhe më 30 tetor 2013, Gjykata Themelore në Gjakovë, përmes Aktvendimit [T. nr. 166/2010], kishte shpallur trashëgimtarë legjitim të radhës së parë: (i) parashtruesin e kërkesës Fadil Berisha dhe vëllain e tij Skënder Berisha, me nga 7/22 pjesë ideale të pronës. Më 22 mars 2017, Gjykata Themelore në Gjakovë, nëpërmjet shënimit zyrtar [C. nr. 356/16], kishte njoftuar parashtruesin e kërkesës dhe paditësit tjerë se: “Seanca e caktuar për dt. 27.03.2017, në ora 9:30 për arsye objektive (punëtori e përbashkët e Gjykatës së Apelit me Gjykatat Themelore Gjakovë, dhe Gjykatën Themelore Prizren), dhe duke pasur parasysh faktin se gjyqtari i çështjes është i zënë me lëndët tjera të caktuara më parë, atëherë seanca e radhës caktohet për dt. 16.05.2017 [...]”. Më 22 qershor 2023, Gjykata Themelore në Gjakovë për lëndën civile C. nr. 649/20, mbajti për herë të parë seancën e shqyrtimit përgatitor, por kjo seancë ishte anuluar me arsyetimin se nuk ishin prezent ndërhyrësit juridik, për të cilën kjo gjykatë theksoi se nuk ka prova se të njëjtit kanë qenë të ftuar në mënyrë të rregullt. Seanca e radhës ishte caktuar më 17 korrik 2023.
+11. Më 1 tetor 2024, me qëllim të qartësimit të procedurave në lidhje me lëndën, Gjykata ia kërkoi Gjykatës Themelore dosjen e plotë për lëndën, të cilën kjo e fundit e dorëzoi në Sekretariatin e Gjykatës më 8 tetor 2024, duke thekur se për çështjen civile në fjalë, Gjykata Themelore në Gjakovë ka caktuar seancën e shqyrtimit kryesor më 16 tetor 2024. Më 12 shkurt 2025, Gjykata e kishte deklaruar kërkesën e parashtruesit të kërkesës (Fadil Berisha), të pranueshme, dhe kishte konstatuar shkelje të së drejtës në gjykim brenda një afati të arsyeshëm kohor, si pjesë përbërëse e gjykimit të drejtë, të garantuar me paragrafin 2 të nenit 31 të Kushtetutës dhe paragrafin 1 të nenit 6 të KEDNJ-së.
+Faktet e përkitazi me kërkesën e tanishme KI125/25
+12. Bazuar në shkresat e lëndës, rezulton se më 2 shkurt 2025, Gjykata Themelore në Gjakovë ka vendosur për lëndën civile, me Aktgjykimin [C. nr. 649/2020], përmes të cilit e refuzoi, si të pabazuar, kërkesëpadinë e parashtruesve të kërkesave. Faktet tjera të bashkëngjitura në kërkesë, janë përshkrim i fakteve dhe procedurave të kërkesës së parë KI142/23.
+13. Më 12 maj 2025, parashtruesi i kërkesës e dorëzoi kërkesën KI125/25, përmes së cilës e konteston tejzgjatjen e procedurave për të njëjtën lëndë civile [C. nr. 649/2020], për të cilën lëndë Gjykata kishte vendosur, përmes Aktgjykimit të 12 shkurtit 2025.
+Pretendimet e parashtruesit të kërkesës
+14. Parashtruesi i kërkesës ngre pretendime për kohëzgjatjen e procedurës në lidhje me lëndën civile [C. nr. 649/2020], me pretendimin së Gjykata Themelore në Gjakovë, ka shkelur të drejtën e tij, në gjykim brenda një afati të arsyeshëm kohor, të garantuar përmes nenit 31 të Kushtetutës, dhe paragrafit 1 të nenit 6 të KEDNJ-së.
+Dispozitat relevante
+Rregullorja e punës së Gjykatës Kushtetuese
+Rregulli 54 (Hedhja poshtë dhe refuzimi i kërkesës)
+[...] (2) Gjykata mund të vendosë ta refuzojë një kërkesë me procedurë të shkurtër në qoftë se: [...] (b) kërkesa është përsëritje e një kërkese të mëparshme të vendosur nga Gjykata.
+Vlerësimi i pranueshmërisë së kërkesës
+15. Gjykata së pari shqyrton nëse janë përmbushur kriteret e pranueshmërisë, të përcaktuara me Kushtetutë dhe të specifikuara më tej me Ligj dhe Rregullore të punës. Në këtë drejtim, sipas paragrafit 1 të nenit 113 [Juridiksioni dhe Palët e Autorizuara] të Kushtetutës, Gjykata vendos vetëm për rastet e ngritura para Gjykatës në mënyrë ligjore nga pala e autorizuar. Ndërsa, sipas paragrafit 7 i të njëjtit nen të Kushtetutës, individët janë të autorizuar të ngrenë shkeljet nga autoritetet publike të të drejtave dhe lirive të tyre individuale, të garantuara me Kushtetutë, mirëpo vetëm pasi të kenë shteruar të gjitha mjetet juridike të përcaktuara me ligj.
+16. Gjykata rikujton se objekti i kërkesës së tanishme është i njëjtë me kërkesën KI142/23, për të cilën Gjykata ka vendosur me Aktgjykimin e 12 shkurtit 2025, përmes të cilit ka konstatuar shkelje të së drejtës në gjykim, brenda një afati të arsyeshëm kohor, të garantuar përmes paragrafit 2 të nenit 31 të Kushtetutës, dhe paragrafit 1 të nenit 6 të KEDNJ-së.
+17. Gjykata vëren se parashtruesi i kërkesës së tanishme KI125/25, në kërkesën e tij ka ngritur të njëjtat pretendime dhe ka përshkruar të njëjtat fakte dhe procedura, sikurse i kishte ngritur i vëllai Fadil Berisha, përmes kërkesës KI142/23.
+18. Në këtë kontekst, Gjykata i referohet paragrafit 1 të nenit 116 [Efekti Juridik i Vendimeve] të Kushtetutës, që përcakton se vendimet e Gjykatës Kushtetuese janë të detyrueshme për gjyqësorin dhe të gjithë personat dhe institucionet e Republikës së Kosovës.
+19. Gjykata po ashtu i referohet shkronjës (b) të nënrregullit (2) të rregullit 54 (Hedhja poshtë dhe refuzimi i kërkesës) të Rregullores së punës, që specifikon se Gjykata mund të vendosë ta refuzojë një kërkesë me procedurë të shkurtër, ndër të tjera, nëse kërkesa është përsëritje e një kërkese të mëparshme të vendosur nga Gjykata.
+20. Duke u mbështetur në rregullin e lartcekur, Gjykata vlerëson se kërkesa e tanishme është
+përsëritje e kërkesës së mëparshme nr. KI142/23, të cilën kërkesë Gjykata e kishte shpallur të pranueshme dhe kishte konstatuar shkelje të paragrafit 2 të nenit 31 [E Drejta për Gjykim të Drejtë dhe të Paanshëm] të Kushtetutës së Republikës së Kosovës, dhe paragrafit 1 të nenit 6 (E drejta për një proces të rregullt) të Konventës Evropiane për të Drejtat e Njeriut, përkitazi me të drejtën për gjykim brenda një afati të arsyeshëm kohor.
+21. Gjykata bazuar edhe në praktikën e saj të konsoliduar gjyqësore në raste të ngjashme, ka theksuar se vendimet e saj janë përfundimtare dhe të detyrueshme për gjyqësorin, për të gjithë personat dhe për të gjitha institucionet e Republikës së Kosovës. Në këtë aspekt, Gjykata rikujton se ankimi individual sipas kuptimit të paragrafit 7 të nenit 113 të Kushtetutës, nuk nënkupton që parashtruesit e kërkesës, apo familjarët e tyre, që mund të afektohen me të njëjtën procedurë të zhvilluar pranë gjykatave të rregullta, kanë mundësi që në mënyrë të përsëritur të kërkojnë nga Gjykata rihapjen e vendimeve të tyre dhe gjykimin e serishëm të së njëjtës çështje apo konstatimin e shkeljes së njëjtë të të drejtave kushtetuese (shih, ndër të tjera, rastet e Gjykatës KI43/21, parashtrues N.T. P. Arta- Impex, Vendim për refuzim të kërkesës, i 5 majit 2021, paragrafët 23-24; KI186/20, parashtrues Fehmi Hasani, Vendim për refuzim të kërkesës, i 13 prillit 2021, paragrafët 23-24; KI102/19, parashtrues Bedri Gashi, Vendim për refuzim të kërkesës, i 7 nëntorit 2019, paragrafi 19; dhe KI08/18, parashtrues Naser Berisha, Vendim për refuzim të kërkesës, i 19 prillit 2018, paragrafi 21-22).
+22. Prandaj, duke pasur parasysh që kërkesa e parashtruesit të kërkesës së tanishme është përsëritje e kërkesës KI142/23, tashmë të vendosur përmes Aktgjykimit të 12 shkurtit 2025, Gjykata, në pajtim me shkronjën (b), nënrregullin (2), të rregullit 54 (Hedhja poshtë dhe refuzimi i kërkesës) të Rregullores së punës, konstaton se kërkesa duhet të refuzohet me procedurë të shkurtër.
+PËR KËTO ARSYE
+Gjykata Kushtetuese, në pajtim me paragrafin 7 të nenit 113 të Kushtetutës, nenin 20 dhe 47 të Ligjit, dhe në pajtim me rregullin 54 (2) (b) të Rregullores së punës, më 1 tetor 2025, njëzëri
+VENDOS
+I. TË REFUZOJË kërkesën;
+II. T'UA KUMTOJË këtë vendim palëve;
+III. TË PUBLIKOJË këtë vendim në Gazetën Zyrtare, në pajtim me paragrafin 4 të nenit 20 të Ligjit;
+IV. Ky vendim hyn në fuqi në ditën e shpalljes në Gazetën Zyrtare të Republikës së Kosovës, në pajtim me paragrafin 5 të nenit 20 të Ligjit.
+Gjyqtari raportues Kryetari i Gjykatës Kushtetuese
+Enver Peci Nexhmi Rexhepi
