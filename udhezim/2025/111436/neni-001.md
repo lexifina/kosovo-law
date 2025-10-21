@@ -1,0 +1,4 @@
+# Neni 1
+Qëllimi
+1. Ky Udhëzimi Administrativ përcakton që pas vlerësimit të rrezikut, të sigurojë nivel të lartë të mbrojtjes së konsumatorit dhe dispozita të harmonizuara në lidhje me nivelet maksimale të mbetjeve të produkteve për mbrojtjen e bimëve në ushqim dhe ushqim të kafshëve me origjinë bimore dhe shtazore dhe për të përcaktuar rregullat e zbatimit të niveleve maksimale të mbetjeve të Produkteve të Mbrojtjes së Bimëve, me qëllim të lehtësimit të kontrollit dhe zbatimit të tij, si dhe inspektimet në treg për të siguruar që konsumatorët në Kosovë janë të mbrojtur në mënyrë adekuate nga mbetjet e produkteve të mbrojtjes së bimëve.
+2. Ky Udhezim Administrativ është në përputhshmeri me Rregulloren (KE) nr. 396/2005 e Parlamentit Evropian dhe të Keshillit të 23 shkurtit 2005 mbi nivelet maksimale të mbetjeve të pesticideve në ushqim me origjinë bimore dhe shtazore.

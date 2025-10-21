@@ -1,0 +1,5 @@
+# Neni 7
+Themelimi i listës me substanca aktive për të cilat nuk kërkohet NMM
+1. Substancat aktive të produkteve për mbrojtjen e bimëve të vlerësuara sipas Ligjit 03/L-042 i Produkteve të Mbrojtjes së Bimëve për të cilat nuk kërkohet NMM, përcaktohen në përputhje me procedurën e përcaktuar në Nenin 17 dhe 18 të këtij Udhëzimi Administrativ dhe renditën në Shtojcën IV, duke marrë parasysh përdorimin e këtyre substancave aktive dhe çështjet e përcaktuar në nenin 20 paragrafi (1) 1.1 1.3 dhe 1.4 të këtij Udhëzimi Administrativ.
+2. Lista e Shtojcës IV e këtij Udhëzimi Administrativ përgatitet dhe publikohet duke marrë parasysh NMM-BE.
+3. Lista e Shtojcës IV, gjithashtu hyn në fuqi me këtë Udhëzim Administrativ dhe përditësohet sipas nevojës, varësisht nga rishikimet në Listën e BE-së të substancave aktive për të cilat nuk kërkohet NMM. Shtesat dhe ndryshimet në Listën e BE-së me substanca aktive për të cilat nuk kërkohet NMM, përdoren si referencë [referencë në WEB të BE-së dhe Gazetën Zyrtare të BE-së].
