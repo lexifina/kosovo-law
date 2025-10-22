@@ -1,0 +1,2 @@
+# Nenin 2 Fushëveprimi
+Dispozitat e këtij Udhëzimi Administrativ janë të detyrueshme për zbatim nga Agjencia e Ushqimit dhe Veterinarisë veterinaret zyrtar si dhe të gjithë personat që marrin pjesë në procesin e kompensimit të dëmit për asgjësimin e kafshëve të gjalla të cilat asgjësohen për shkak sëmundjeve infektive sipas listës se sëmundjeve nga Programi i Pare dhe Programi i Dyte të Ligjit Nr.2004/21 për Veterinarinë.
