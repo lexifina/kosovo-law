@@ -1,0 +1,7 @@
+# Neni 13
+Procedura për miratimin e kërkesës për udhëtim
+1. Kërkesa për udhëtim zyrtar brenda vendit bëhet vetëm atëherë kur vizita zyrtare do të zgjatë së paku njëzetë e katër (24) orë.
+2. Udhëtimet e personelit auditues për punë në terren organizohen në bazë të kalendarit të përcaktuar në Planin Vjetor të Auditimit dhe Planin e udhëtimit, të dorëzuar nga njësia organizative në Departamentin për Shërbime të Përbashkëta. Departamenti përkatës e njofton Departamentin për Shërbime të Përbashkëta së paku dy (2) ditë më herët për udhëtimin e planifikuar, duke përfshirë numrin e personelit që udhëtojnë, kohën e nisjes/kthimit dhe destinacionin.
+3. Në rastet kur anulohet ose ndryshohet plani i udhëtimeve të ekipeve të auditimit, drejtori i departamentit të auditimit duhet ta njoftojë Departamentin për Shërbime të Përbashkëta së paku një (1) ditë para udhëtimit.
+4. Departamenti për Shërbime të Përbashkëta organizon udhëtimet dhe, jo më vonë se një (1) ditë para udhëtimit, i njofton ekipet e auditimit lidhur me mënyrën e udhëtimit të tyre.
+5. Në rastet tjera, jashtë paragrafit 1 të këtij neni, kërkesa për udhëtim zyrtar parashtrohet së paku një (1) ditë para planifikimit të udhëtimit. Kërkesa e parashtruar paraprakisht miratohet nga mbikëqyrësi i parashtruesit të kërkesës. Kjo rregull nuk zbatohet vetëm në rastet e nevojave për udhëtime të menaxhmentit të cilat nuk kanë qenë të ditura paraprakisht.

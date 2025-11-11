@@ -1,0 +1,4 @@
+Në mbështetje të nenit 15, paragrafi 2 të Ligjit Nr.05/L-055 për Auditorin e Përgjithshëm dhe Zyrën Kombëtare të Auditimit të Republikës së Kosovës (Gazeta Zyrtare e Republikës së Kosovës, Nr. 17/10 qershor 2016), dhe nenit 36, paragrafi 8, nenit 37, paragrafi 4 të Ligjit Nr. 08/L-196 për Pagat në Sektorin Publik, si dhe duke marrë parasysh vlerat dhe parimet e legjislacionit në fuqi që rregullon marrëdhënien e punës në Republikën e Kosovës, Auditori i Përgjithshëm miraton këtë:
+RREGULLORE (ZKA) NR. 01/2025 PËR KOMPENSIME TË UDHËTIMEVE ZYRTARE DHE SHPENZIMET E
+PËRFAQËSIMIT NË ZYRËN KOMBËTARE TË AUDITIMIT 1
+1 Rregullore ZKA Nr. 01/2025 për kompensime të udhëtimeve zyrtare dhe shpenzimet e përfaqësimit, e nënshkruar nga Auditorja e Përgjithshme me datë:11.11.2025, me Vendim Nr.2013 /2025 të datës 11.11.2025.
