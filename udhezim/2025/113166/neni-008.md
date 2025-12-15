@@ -1,0 +1,5 @@
+# Neni 8
+Të dhënat e sektorit të bujqësisë
+1. Të dhënat e nevojshme për përgatitjen e Inventarit të GS-ve janë të dhëna të veprimtarive bujqësore që shkaktojnë emetimet e GS-ve, të cilat janë në dispozicion të Ministrisë përgjegjëse për Bujqësinë në pajtim me Ligjin përkatës për Bujqësinë dhe të dhënat e mbledhura dhe të përdorura nga Agjencia e Statistikave të Kosovës për përgatitjen e publikimeve vjetore dhe mujore, të dhëna të tjera statistikore.
+2. Të dhënat për prodhimin, importin dhe vendosjen në treg të plehrave dhe substancave aktive për prodhimin e plehrave 'i dorëzohen AMMK-së nga prodhuesit dhe importuesit e tyre përmes një raporti në format elektronik dhe brenda afatit të përcaktuar nga AMMK.
+3. Gjithashtu, AMMK mund të kërkojë të dhëna për praktikat e menaxhimit të plehut organik nga amvisëritë bujqësore ose subjektet juridike që do të kenë nevojë për Leje mjedisore për operimin e tyre. Të dhënat e tilla dorëzohen në AMMK përmes një raporti elektronik dhe brenda afatit të përcaktuar nga AMMK.

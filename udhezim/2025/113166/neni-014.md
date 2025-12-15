@@ -1,0 +1,4 @@
+# Neni 14
+Marrëveshjet me ofruesit e të dhënave
+1. AMMK lidhë marrëveshje me personat juridikë dhe organizatat e përcaktuara nga neni 6 -11 i këtij Udhëzimi Administrativ për dorëzimin e të dhënave të nevojshme për përgatitjen e Inventarit të GS dhe të dhënave të tjera të nevojshme për funksionimin e Sistemit Kombëtar të Inventarit në pajtim me Ligjin përkatës për Ndryshime Klimatike në afat prej dymbëdhjetë (12) muajsh nga hyrja në fuqi e këtij Udhëzimi Administrativ.
+2. Marrëveshjet nga paragrafi 1 i këtij neni përfshijnë së paku të dhënat e nevojshme për përgatitjen e Inventarit të GS-ve me të dhënat e përkohshme të përcaktuara në nenin 12 të këtij Udhëzimi Administrativ, si dhe frekuencën e raportimit, personelin përgjegjës për zbatimin e marrëveshjes, mjetet e dorëzimit, formatin dhe afatin për dorëzimin e tyre si dhe dispozitat për ridorëzimin e të dhënave të rishikuara.

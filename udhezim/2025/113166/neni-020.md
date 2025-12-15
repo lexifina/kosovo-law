@@ -1,0 +1,12 @@
+# Neni 20
+Vlerësimi dhe raportimi i progresit
+1. Në bazë të informatave të përcaktuara sipas këtij Udhëzim Administrativ dhe me qëllim të vlerësimit se a është arritur progres i mjaftueshëm, Ministria çdo vit duhet të bëjë një vlerësim të progresit në përmbushjen e objektivit të saj kombëtar dhe obligimeve ndërkombëtare, bazuar në Inventarin më të fundit të gazrave serrë, si dhe informatat e përcaktuara me nenet 17 dhe 18 të këtij Udhëzimi Administrativ.
+2. Përveç informatave të përcaktuara në pajtim me nenin 17 dhe 18 të këtij Udhëzimi Administrativ, Ministria në bashkërendim me Këshillin për Ndryshimet Klimatike, ministritë tjera përkatëse dhe palët e tjera të interesuara që janë relevante për arritjen e objektivit kombëtar të zvogëlimit të emetimeve do të identifikojë dhe do të përgatisë treguesit e progresit për të përcjellur progresin drejt zbatimit dhe arritjes së objektivit të zvogëlimit të emetimeve.
+3. Ministria siguronë që treguesit e përcaktuar në paragrafin 2 të këtij neni të jenë specifikë, të matshëm, të kufizuar në kohë, të arritshëm dhe relevant për arritjen e objektivave kombëtare të emetimeve dhe të kenë një vlerë të përcaktueshme, si dhe të kenë të paktën:
+3.1. Një përshkrim të qartë dhe një përkufizim;
+3.2. Vitin dhe vlerën referuese, vlerën e synuar në një (1) vit të rëndësishëm për arritjen e objektivit kombëtar të zvogëlimit të emetimeve dhe çdo vlerë të ndërmjetme të synuar ndërmjet vitit referues dhe vitit përkatës për arritjen e objektivit kombëtar të reduktimit të emetimeve;
+3.3. Burimin e informacionit dhe mjetet e verifikimit;
+3.4. Institucionin përgjegjës për kryerjen e përditësimeve dhe raportimeve të rregullta.
+4. Ministritë përkatëse, organizatat, personat juridikë, dhe palët e tjera të interesuara përgjegjëse për zbatimin e politikave dhe masave të lidhura me tregues specifik, deri më 31 korrik të çdo viti duhet t'i ofrojnë Ministrisë informatata më të fundit për çdo tregues të përzgjedhur.
+5. Bazuar në informatat e përcaktuara në pajtim me këtë Udhëzim Administrativ, Ministria deri më 15 mars 2027 dhe çdo vit pasues, do të përgatisë raportin për progresin drejt përmbushjes së objektivave të saj kombëtare dhe ndërkombëtare dhe do të njoftojë Qeverinë dhe publikun.
+6. Nëse Ministria vlerëson se progresi nuk është i kënaqshëm, mund t'i propozojë Qeverisë të miratojë veprime korrigjuese në sektorët dhe kategoritë e IPCC ku progresi nuk është i kënaqshëm.
