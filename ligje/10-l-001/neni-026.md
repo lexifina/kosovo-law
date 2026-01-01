@@ -1,0 +1,3 @@
+# Neni 26
+Përshtatja e tabelave buxhetore me rregulloret për sistematizimin e brendshëm
+Pas aprovimit të rregulloreve për organizimin e brendshëm të institucioneve publike sipas kërkesave të Ligjit Nr. 06/L-113 për Organizimin dhe Funksionimin e Administratës Shtetërore dhe të Agjencive të Pavarura, autorizohet Ministria e Financave, Punës dhe Transfereve të bëjë përshtatjet e nevojshme në tabelat buxhetore të këtij ligji nëse nuk ka ndikim buxhetor shtesë dhe numër të pozitave shtesë.

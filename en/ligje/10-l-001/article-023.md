@@ -1,0 +1,5 @@
+# Article 23
+Lending to public entities, capitalisation and buying of shares
+1. The Ministry of Finance, Labour and Transfers, with the prior approval of Government, has the right to lend to any entity in the public sector that meets the conditions and criteria defined according to the legislation in force, up to the amount specified in Table 1.1. This limitation does not apply to loans sub-loaned to public entities under the relevant law on state debt.
+2. The Ministry of Finance, Labour and Transfers, with the prior approval of Government, has the right to negotiate and use the planned funds for Capitalisation and Buying of Shares up to the specified amount in Table 1.1., with the aim of capitalising (increasing the charter capital) for Sovereign Fund or capitalisation or buying of shares in enterprises or initiatives in the field of defence and security, aviation, and energy.
+24

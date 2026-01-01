@@ -1,0 +1,5 @@
+# Article 32
+Payment of the 13th Salary for the Public Sector
+1. The Government may, during the fiscal year, through early allocation by decision, ensure the funds for the payment of the 13th salary in accordance with paragraph 2. of this Article. The Government must ensure that, throughout the fiscal year, the fiscal rule on not exceeding the deficit ceiling of 2% of the Gross Domestic Product is respected.
+27
+2. If the conditions set out in paragraph 1. of this Article are met, the 13th salary for each employee will be an amount equal to the corresponding coefficient level multiplied by the value of the coefficient, excluding allowances, as defined by Law No. 08/L-196 on Salaries in the Public Sector. This will be granted to each public sector employee who has been employed in any budgetary organization for at least twelve (12) months before the month in which the decision is made. The conditions that must be met to qualify for the 13th salary and other eligibility criteria may be determined by a decision of the Government.

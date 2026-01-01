@@ -1,0 +1,9 @@
+1
+LAW NO. 10/L-001
+ON BUDGET APPROPRIATIONS FOR THE BUDGET OF THE REPUBLIC OF KOSOVO FOR
+YEAR 2026
+Assembly of the Republic of Kosovo;
+Based on Article 65, paragraphs (1) and (5) of the Constitution of the Republic of Kosovo,
+Adopts:
+LAW ON BUDGET APPROPRIATIONS FOR THE BUDGET OF THE REPUBLIC OF KOSOVO
+FOR YEAR 2026

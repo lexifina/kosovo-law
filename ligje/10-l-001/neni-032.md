@@ -1,0 +1,4 @@
+# Neni 32
+Dhënia e Pagës së 13-të për Sektorin Publik
+1. Qeveria mundet gjatë vitit fiskal, përmes alokimit të parakohshëm me vendim të sigurojë mjetet për pagesën e pagës së 13-të sipas paragrafit 2 të këtij Neni. Qeveria duhet të sigurohet që përgjatë vitit fiskal respektohet rregulla fiskale për mos-tejkalim të tavanit të deficitit prej 2% e Bruto Produktit Vendor.
+2. Në rast se plotësohen kushtet sipas paragrafit 1 të këtij Neni, paga e 13-të për secilin punonjës është vlera e barabartë me nivelin e koeficientit përkatës shumëzuar me vlerën e koeficientit, pa përfshirë shtesat, e përcaktuar sipas Ligjit Nr. 08/L-196 të Pagave në Sektorin Publik, e cila i jepet secilit punonjës në sektorin publik që ka qenë i angazhuar në ndonjërën nga organizatat buxhetore së paku 12 muaj para muajit kur merret vendimi. Kushtet që duhet të plotësohen për tu kualifikuar për pagën e 13-të dhe kriteret tjera të përfitimit mund të caktohen me vendim të Qeverisë.

@@ -1,0 +1,7 @@
+# Article 21
+Issuance of securities
+1. For the purpose of issuing domestic state debt, the Minister as the sole authorized individual to enter into state debts, within the budget year 2026 within the amount provided for the issuance of domestic debt in Table 1, shall issue securities under the conditions set out in the respective law on state debt and sub-legal acts deriving from this law.
+2. However, the amount required for the issuance of securities within the limit defined in paragraph 1. of this Article, may be subject to review depending on the dynamics of budget
+23
+execution and available funding, as assessed by the Minister. For this purpose, the Minister shall be authorized to replace the structure of state debt instruments, within the maximum limits of state debt issuance set out in Tables 1 and 1.1 attached to this Law.
+3. Pursuant to the relevant Law on State Debt and Guarantees, the Ministry shall be authorized to refinance, through the issuance of securities, all existing instruments that mature within the fiscal year, unless otherwise provided by the securities calendar. The Ministry shall be authorized to use the Kosovo Fund for refinancing management according to the securities calendar in accordance with the cash flow plans for the fiscal year.
