@@ -1,0 +1,6 @@
+# Neni 67
+Gungat artificiale
+1. Gungat artificiale dhe sipërfaqet e ngritura mund të vendosen vetëm në rrugët në vendbanim, në afërsi të zonave në të cilat është i domosdoshëm zvogëlimi i shpejtësisë së lëvizjes së mjeteve për sigurinë e trafikut.
+2. Përdorimi i gungave artificiale dhe sipërfaqeve të ngritura nuk është i lejuar në vendet në të cilat mjeti i ndihmës së shpejtë ka lëvizje të shpeshta (në rrugë që shpie kah institucionet shëndetësore) dhe në pjerrtësi gjatësore të rrugës.
+3. Gungat artificiale dhe sipërfaqet e ngritura duhet të shënohen me tabelë plotësuese V-44 përkrahë shenjës së trafikut I-34 (II-31 ose III-04) dhe shenjat e trafikut III-10 (gunga në rrugë), VII-17 dhe VII-18 (tabela për të shënuar pengesat anësore) dhe shenjave në rrugë. Sipërfaqet e tyre duhet të jenë nga materiale jo rrëshqitëse dhe të shënuara me përbërje nga substancat me reflektim të vazhdueshëm, duke reflektuar në anën nga e cila i afrohet mjetit.
+4. Gungat artificiale duhet të jenë të vendosura mirë në mbrojtësit e rrugës, ashtu që të parandalojnë ndarjen e elementeve ose pjesëve të tyre. Në zonën e gungave artificiale dhe sipërfaqeve të ngritura duhet të sigurohet kullimi i përshtatshëm i ujit.

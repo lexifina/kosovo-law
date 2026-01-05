@@ -1,0 +1,4 @@
+# Neni 54
+Lloji i shenjave ndriçuese në vendkalimin hekurudhor
+1. Nëse me shenjat ndriçuese në vendkalimin hekurudhor paralajmërohet ardhja e trenit, përkatësisht ulja e mbrojtësve ose gjysmë mbrojtësve, ku me këto shenja pjesëmarrësit në trafiku lajmërohen mbi atë se mbrojtëset ose gjysmëmbrojtësit janë në pozitën e mbyllur, këto shenja ndriçuese japin drita të kuqe alternative të cilat janë në formë të rrethit Ø 300.
+2. Dritat nga paragrafi 1 i këtij neni duhet të jenë të vendosura njëra pranë tjetrës në shtyllën vertikale të tabelës, e cila ka formën e trekëndëshit barabrinjës me majë të kthyer lart, ngjyrat dhe dimensionet e të cilës i përgjigjen ngjyrës dhe dimensioneve të shenjave të rrezikut, gjatësia e brinjëve të trekëndëshit barabrinjës është me madhësi 120 (shenja V-23), me ngjyrë retroreflektuese të klasës së III-të.
