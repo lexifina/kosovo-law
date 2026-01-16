@@ -1,0 +1,3 @@
+# Neni 2
+Fushëveprimi
+Dispozitat e kësaj rregulloreje janë të detyrueshme për Agjencinë Shtetërore të Arkivave të Kosovës (në tekstin e mëtejmë: ASHAK), Institutin e Kosovës për Administratë Publike (në tekstin e mëtejmë: IKAP), institucionet e administratës shtetërore, institucionet publike dhe subjektet e tjera që ushtrojnë detyra dhe/ose përgjegjësi për kujdesin, ruajtjen dhe mbrojtjen e materialit arkivor. Këto dispozita zbatohen gjithashtu për asgjësimin e materialit të pavlefshëm në kuadër të arkivit kompetent, duke përfshirë edhe arkivat private, siç përcaktohet në Ligjin Nr. 08/L – 111 për Arkivat.
