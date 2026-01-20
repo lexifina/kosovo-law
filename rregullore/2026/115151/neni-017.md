@@ -1,0 +1,6 @@
+# Neni 17
+Rezultati përfundimtar dhe përzgjedhja e drejtorit
+1. Pas përfundimit të intervistës, Këshilli Kombëtar i Arteve përgatit listën e plotë me rezultate përfundimtare të kandidatëve që kanë siguruar pikët e nevojshme për t'u konsideruar për pozitën e drejtorit, në mesin e të cilëve, Këshilli i rekomandon ministrit së paku dy (2) persona për pozitën e drejtorit.
+2. Për institucionet publike lokale të artit dhe kulturës, Komisioni i caktuar me vendim nga Kryetari, përgatit listën e plotë me rezultate përfundimtare të kandidatëve që kanë siguruar pikët e nevojshme për t'u konsideruar për pozitën e drejtorit, në mesin e të cilëve, i rekomandon Kryetarit të Komunës së paku dy (2) persona për pozitën e drejtorit.
+3. Pas përzgjedhjes së drejtorit nga ana e Ministrit/Kryetarit nga lista e dorëzuar nga Këshilli/Komisioni dhe publikimit të vendimit, kandidatët e pasuksesshëm kanë të drejtën ankimore për të gjitha fazat e procedurës së rekrutimit, të cilët gjithashtu prezantohen edhe me këshillën juridike. Afati për ankesë është 15 ditë nga data e publikimit të drejtorit të përzgjedhur.
+4. Emërimi i drejtorit nga Ministri apo Kryetari bëhet në afat prej pesë (5) ditësh nga përfundimi i procedurës ankimore.
