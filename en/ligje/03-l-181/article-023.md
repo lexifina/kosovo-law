@@ -1,3 +1,0 @@
-# Article 23
-1. The obtained sample regarding product examination, which is exposed to getting perished should be handed over to authorized professional body regarding first analyze whilst on party’s request, at the same time to other professional body regarding super-analyze at an Internationally Accredited Laboratory.
-2. If results of the analysis as per paragraph 1 of this article changes determinant is the result of the analysis, carried out on party’s request. If the party whilst obtaining the sample does not demand at the same time to obtain samples regarding super-analyze, it will be considered that he agrees with the result of performed analyze on inspector’s request.

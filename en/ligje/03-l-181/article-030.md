@@ -1,3 +1,0 @@
-# Article 30
-1. Inspector is obliged that within the term of fifteen (15) days from the day of completion of inspection to initiate the procedure at the competent court if he confirms that there is a well-grounded suspicion that through the violation of laws and other sub-legal acts it is established that a violation has been committed, it is established that an economical violation has been committed or a criminal act.
-2. Inspector in co-operation with the Prosecutor shall demand from the competent Court that through fast procedure to issue a written order regarding permission to control whatever the premise or other area where is being carrying out the forbidden activity.
