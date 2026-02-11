@@ -1,0 +1,16 @@
+# Neni 57
+Miratimi i aksionarëve kryesor
+1. Personi që vepron drejtpërdrejtë ose tërthorazi, vetëm apo në bashkëveprim me ndonjë person tjetër, nuk mund të bëhet aksionar kryesor në një bankë pa marrjen e miratimit paraprak me shkrim nga BQK-ja.
+2. Aksionari kryesor, që vepron drejtpërdrejtë ose tërthorazi, vetëm apo në bashkëveprim me ndonjë person tjetër, nuk mund ta shtojë interesin e pronësisë në një bankë mbi dhjetë (10℅), njëzet (20℅), tridhjetë e tre (33℅), pesëdhjetë (50℅) ose shtatëdhjetë e pesë (75℅) për qind të kapitalit pa marrjen e miratimit paraprak nga BQK-ja.
+3. Kërkesat për përvetësim të interesit të kapitalit aksionar në një bankë apo ngritjes së posedimit të interesave të kapitalit në një bankë duhet të bëhen në formën e përcaktuar nga BQK-ja dhe përfshijnë:
+3.1. emrin, nacionalitetin, vendbanimin dhe historikun afarist dhe profesional, përfshirë çdo pronari përfitues të paraqitësit të kërkesës që, si rezultat i transaksionit, përfiton në mënyrë të tërthortë pesë përqind (5%) ose më shumë të interesave të kapitalit të bankës;
+3.2. listën e sipërmarrjeve në të cilat pronarët e propozuar, duke përfshirë pronarët përfitues (siç përshkruhet me lartë), kanë pjesëmarrje, duke specifikuar nivelin e pjesëmarrjeve të këtilla dhe adresat e regjistruara të këtyre sipërmarrjeve;
+3.3. për çdo person fizik që bën kërkesë, një deklaratë nga gjykata që shpalosë ndonjë dënim për vepra penale, dosjet personale të falimentimit, përjashtimi nga ushtrimi i profesionit, apo përfshirjen e tanishme apo të kaluar në funksion menaxhues të një korporate ose të ndonjë sipërmarrësi tjetër që i nënshtrohet procedurës së paaftësisë së pagesës, nëse ekziston;
+3.4. për çdo paraqitës të kërkesës që është person juridik, pasqyrat e audituara financiare për tre (3) vitet e fundit, nëse është e aplikueshme;
+3.5. afatet dhe kushtet e përvetësimit të propozuar;
+3.6. burimin dhe shumën e fondeve që shfrytëzohen në ushtrimin e përvetësimit;
+3.7. çdo plan ose propozim lidhur me ndryshimin kryesor në biznesin, strukturën e korporatës ose menaxhmentin e bankës;
+3.8. në çdo rast kur përvetësimi do të ndikonte që banka të bëhet një subjekt i varur i një banke të huaj, një deklaratë se autoriteti i huaj mbikëqyrës përgjegjës për mbikëqyrje prudenciale të bankës së huaj në vendin amë nuk kundërshton në fillimin e veprimtarive të propozuara në Republikën e Kosovës, dhe ushtron mbikëqyrje globale bankare të konsoliduar ndaj bankës së huaj, dhe
+3.9. informacionet tjera të cilat mund të kërkohen nga BQK-ja.
+4. Çdo bankë duhet ta njoftojë BQK-në për çdo përvetësim të aksioneve brenda pesë (5) ditëve pas përvetësimit të shumës së aksioneve nëse shuma e tillë është e barabartë ose tejkalon pesë për qind (5℅) të kapitalit aksionar por që nuk tejkalon dhjetë për qind (10℅) të tij. Njoftimi bëhet në atë mënyrë që përmban informacionet që mund të kërkohen nga BQK- ja.
+5. Kufizimet në paragrafin 1. dhe paragrafin 2. të këtij neni nuk zbatohen për përvetësimin e aksioneve në një bankë e huaj që është e licencuar për të operuar me një ose më shumë degë në Kosovë, për aq kohë sa banka e huaj njofton BQK-në për çdo përvetësim ku shuma e aksioneve të përvetësuara është e barabartë ose tejkalon pesë për qind (5%) të kapitalit të bankës së huaj.

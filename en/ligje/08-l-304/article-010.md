@@ -1,0 +1,12 @@
+# Article 10
+General prohibitions and exemptions
+1. No person shall engage in the business of banking or conducting any financial activity without an effective license issued by the CBK under this Law, Law of CBK or any special law in force.
+2. No foreign bank shall be permitted to engage in the business of banking or conducting any financial activity in Kosovo unless the foreign bank has obtained a license issued by the CBK to conduct such activity through a branch office in Kosovo or has established a subsidiary bank in Kosovo for which a license has been issued by the CBK.
+3. The words 'bank' or derivatives of this word, if contained in the firm name, may be entered in the register of companies or used in legal transactions only by:
+3.1. a legal person authorised by the CBK as a bank;
+3.2. banks providing services under this Law; and Members of a group of banks.
+4. Banks from other countries may use within the territory of the Republic of Kosovo the same name as they use in the home country. Exceptionally, in the situation where there is already a bank operating within the territory of the Republic of Kosovo under the same or similar name, the CBK may, for the purposes of clarification, require that the name of the bank of another country be accompanied by certain explanatory particulars.
+5. No person shall use the word “bank” or derivatives of this word in respect of a business, product, or service or in promotional business without having a license issued by the CBK to engage in the business of banking, unless such usage is established or recognized by this Law, an international agreement or where the context in which the word “bank” is used does not concern the conduct of any financial activity as set forth in this Law.
+6. No representative office shall use the word “bank” in their name, except in cases where the word “bank” forms an integral part of the name of the foreign bank to which they belong, provided that, in such cases, the words “representative office” shall be added.
+7. No bank shall use words in its title that are misleading concerning its financial condition, legal status or connection with government, international institutions or other significant private sector organization.
+8. No person shall make a misstatement of material fact or a false or misleading representation or do anything to create a false or misleading appearance or engage in any manipulative device or practice in relation to taking deposits.

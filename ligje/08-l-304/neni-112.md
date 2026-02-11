@@ -1,0 +1,12 @@
+# Neni 112
+Zvogëlimi i vlerës dhe konvertimi i instrumenteve kapitale
+1. BQK-ja mund të vendosë detyrimisht të zvogëlojë vlerën ose të konvertojë instrumentet kapitale në aksione apo në instrumente tjera të pronësisë së institucioneve në mënyrë të pavarur nga veprimi i përmbylljes apo në kombinim me një veprim të përmbylljes, ku kushtet për përmbyllje të përcaktuara në nenin 106 të këtij ligji janë plotësuar, me kusht që të zbatohen një ose më shumë nga rrethanat e mëposhtme:
+1.1. kushtet për përmbyllje janë plotësuar para se të merret ndonjë veprim për përmbyllje;
+1.2. nëse nuk ushtrohet kompetenca në lidhje me instrumentet përkatëse të kapitalit, banka nuk do të jetë më e qëndrueshme;
+1.3. në rastin e instrumenteve përkatëse të kapitalit të emetuara nga një filialë dhe ku këto instrumente të kapitalit njihen për qëllim të plotësimit të kërkesave të kapitalit rregullator si në bazë individuale ashtu edhe në bazë të konsoliduar, BQK-ja përcakton që nëse nuk ushtrohen kompetencat e zvogëlimit të vlerës apo konvertimit në lidhje me ato instrumente, grupi bankar nuk do të jetë më i qëndrueshëm;
+1.4. në rastin e instrumenteve përkatëse të kapitalit të emetuara në nivel të subjektit amë të grupit bankar dhe ku këto instrumente të kapitalit njihen për qëllime të përmbushjes së kërkesave të kapitalit rregullator në baza individuale në nivelin e subjektit amë apo në bazë të konsoliduar dhe ku BQK-ja përcakton që nëse nuk ushtrohen kompetencat e zvogëlimit të vlerës apo konvertimit në lidhje me ato instrumente, grupi bankar nuk do të jetë më i qëndrueshëm;
+1.5. nga banka kërkohet mbështetja e jashtëzakonshme financiare publike përveç në rrethanat e përcaktuara në nën nën-paragrafin 2.4.3., të nenit 106 të këtij ligji.
+2. Banka konsiderohet se nuk është më e qëndrueshme vetëm nëse plotësohen këto dy (2) kushte:
+2.1. banka është duke dështuar apo ka mundësi të dështojë, siç është përcaktuar në paragrafin 2. të nenit 106 të këtij ligji;
+2.2. marrë në konsideratë kohën dhe rrethanat e tjera relevante, nuk ka asnjë perspektivë të arsyeshme që ndonjë veprim, duke përfshirë masat alternative të sektorit privat apo veprimit mbikëqyrës, masat e ndërhyrjes së hershme, në mënyrë të pavarur ose në kombinim me një veprim të përmbylljes, do të parandalonin dështimin e bankës brenda një afati të arsyeshëm kohor, përveç nëse bëhet zvogëlimi i vlerës apo konvertimit të instrumenteve kapitale.
+3. BQK-ja nxjerrë një rregullore e cila i përcakton kushtet tjera për zvogëlimin e vlerës së instrumenteve të kapitalit.

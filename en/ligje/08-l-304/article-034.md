@@ -1,0 +1,4 @@
+# Article 34
+Independence
+1. Banks and foreign bank branches are managed and governed based on free market and fair competition principles. No subject or public person may interfere without authorization to influence the management or the governing structures of the bank or foreign bank branch, except in cases when such interference is complying with regulatory instruments or decisions of the CBK, execution of orders from the judiciary organs or when it is so stipulated in the Law.
+2. Following the instructions or practices of international banking groups that operate within the framework of the European Union legislation, does not constitute interference in the sense of paragraph 1. of this Article, as long as they are in compliance with this law, the regulation and requirements of the CBK or other relevant laws of Kosovo.

@@ -1,0 +1,13 @@
+# Neni 10
+Ndalesat e përgjithshme dhe përjashtimet
+1. Asnjë person nuk mund të angazhohet në veprimtari bankare ose të ushtrojë veprimtari financiare pa një licencë të vlefshme të lëshuar nga BQK-ja sipas këtij ligji, ligjit përkatës të BQK ose ndonjë ligji të veçantë në fuqi.
+2. Asnjë bankë e huaj nuk lejohet të angazhohet në veprimtari bankare ose të ushtrojë veprimtari financiare në Kosovë përveç nëse banka e huaj ka marrë një licencë të lëshuar nga BQK-ja për të ushtruar një veprimtarinë e tillë nëpërmjet një dege në Kosovë apo ka themeluar një bankë të varur në Kosovë për të cilën BQK-ja ka lëshuar licencë.
+3. Fjala “bankë” ose ndërlidhshmëritë me këtë fjalë, nëse mbahen në emrin e shoqërisë, mund të regjistrohen në regjistrin e shoqërive tregtare ose të përdoren në transaksione ligjore vetëm nga:
+3.1. një person juridik i autorizuar nga BQK-ja si bankë;
+3.2. bankat që ofrojnë shërbime sipas këtij ligji, dhe
+3.3. anëtarët e një grupi bankar.
+4. Bankat e licencuara në vende të huaja mund të përdorin në territorin e Republikës së Kosovës të njëjtin emër që përdorin në vendin amë. Përjashtimisht, në situatën kur tashmë ekziston një bankë që vepron në territorin e Republikës së Kosovës nën emrin e njëjtë ose të ngjashëm, BQK-ja, për qëllime të sqarimit, mund të kërkojë që emri i bankës së një vendi të huaj të shoqërohet nga disa shpjegime të caktuara.
+5. Asnjë person nuk duhet të përdorë fjalën "bankë" ose derivatet e kësaj fjale në lidhje me një biznes, produkt, shërbim ose në biznes promovues pa pasur licencë të lëshuar nga BQK-ja për t'u angazhuar në veprimtarinë bankare, përveç nëse përdorimi i tillë është i përcaktuar ose i njohur me këtë ligj, një marrëveshje ndërkombëtare ose kur konteksti në të cilin përdoret fjala "bankë" nuk ka të bëjë me kryerjen e ndonjë veprimtarie financiare të përcaktuar me këtë ligj.
+6. Asnjë zyre përfaqësuese nuk mund të përdorë fjalën “bankë” në emër të saj, përveç rasteve kur fjala “bankë” përbën një pjesë integrale të emrit të bankës së huaj të cilës ato i përkasin, me kusht që, në raste të tilla të shtohet fjala “zyra përfaqësuese”.
+7. Asnjë bankë nuk mund të përdorë në emrin e vet fjalë që mund të çojnë në keqkuptime lidhur me kushtet e tyre financiare, statusin ligjor ose asociimin me qeverinë, organizatat ndërkombëtare ose organizata tjera të njohura nga sektori privat.
+8. Asnjë person nuk duhet të bëjë deklarime të pavërteta për fakte materiale ose të bëjë një paraqitje të rreme ose çorientuese apo të ndërmarr veprime për të krijuar një pamje të rreme, mashtruese ose të angazhohet në çfarëdo veprimi manipulues ose praktike për marrjen e depozitave.

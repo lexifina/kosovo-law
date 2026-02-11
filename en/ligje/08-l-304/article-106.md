@@ -1,0 +1,19 @@
+# Article 106
+Conditions for resolution
+1. The CBK shall take a resolution action in relation to a bank only if it considers that all of the following conditions are met:
+1.1. the determination that the bank is failing or is likely to fail, as per paragraph 2. of this Article, has been made by the CBK, acting as supervision authority;
+1.2. having regard to timing and other relevant circumstances, there is no reasonable prospect that any alternative private sector measures, or supervisory action, including early intervention measures or the write down or conversion of relevant capital instruments as provided in Article 112 of this Law taken in respect of the bank, would prevent the failure of the bank within a reasonable timeframe;
+1.3. a resolution action is necessary in the public interest. A resolution action shall be treated as in the public interest if it is necessary for the achievement of, and is proportionate to, one or more of the resolution objectives normal insolvency proceedings would not meet those resolution objectives to the same extent without prejudice to the combined application of resolution and liquidation tools under Article 105 of this law.
+2. A bank shall be deemed to be failing or likely to fail in one or more of the following circumstances:
+2.1. the bank infringes, or there are objective elements to support that the bank will, in the near future, infringe the requirements for continuing authorisation in a way that would justify the withdrawal of the authorisation by the CBK, including but not limited to because the bank has incurred or is likely to incur losses that will deplete all or a significant amount of its own funds;
+2.2. the assets of the bank are, or there are objective elements to support that the assets of the bank will, in the near future, be less than its liabilities;
+2.3. the bank is, or there are objective elements to support a determination that the bank will, in the near future, be unable to pay its debts or other liabilities as they fall due;
+2.4. extraordinary public financial support is required except when, in order to remedy a serious disturbance in the economy and preserve financial stability, the extraordinary public financial support takes any of the following forms:
+2.4.1. a public guarantee to back liquidity facilities provided by the CBK;
+2.4.2. a public guarantee of newly issued liabilities; or
+2.4.3. an injection of own funds or purchase of capital instruments at prices and on terms that do not confer an advantage upon the bank, where neither the circumstances referred to in sub-paragraphs 2.1., 2.2. and 2.3. of this Article nor the circumstances referred to in paragraph of Article 112 of this law are present at the time the public support is granted.
+3. In each of the cases mentioned in sub-paragraph 2.4. of this Article, the guarantee or equivalent measures referred to therein shall be confined to solvent banks and shall be conditional on final approval under the State aid provisions where applicable. Those measures shall be of a precautionary and temporary nature and shall be proportionate to remedy the consequences of the serious disturbance. They shall not be used to offset losses that the bank has incurred or is likely to incur in the near future.
+4. The determination that the bank is failing or likely to fail shall be made by the CBK as supervision authority.
+5. The Board of Directors of a bank must notify the CBK, as supervision authority, if they consider that the bank is failing or likely to fail.
+6. The previous adoption of any of an early intervention measure is not a condition for taking a resolution action.
+7. Any decision of the CBK whether or not to take resolution actions in relation to a bank shall describe the relevant reasons for that decision and the actions that the CBK intends to take.

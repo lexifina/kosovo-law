@@ -1,0 +1,3 @@
+# Neni 63
+Përvetësimet e interesave në kapital në një bankë
+BQK-ja para miratimit të një kërkesë për të përvetësuar një interes të kapitalit në një bankë, duhet të vlerësojë përvetësimin e propozuar në lidhje me kriteret e njëjta që zbatohen në përcaktimin e miratimit paraprak ose përfundimtar të një kërkese për licencë sipas neneve 13 dhe 14 të këtij ligji, duke përfshirë, por pa u kufizuar në efektet e pritura të përvetësimit të propozuar mbi shëndetin financiar të bankës, strukturën pronësore të bankës dhe efektin e saj në aftësinë e BQK-së për të kryer mbikëqyrjen në nivel të bankës dhe në nivel të konsoliduar, si dhe përshtatshmërinë e aksionarëve të propozuar dhe pozitën e tyre në tregjet financiare.

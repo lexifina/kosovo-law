@@ -1,0 +1,7 @@
+# Article 78
+Obligation to assess consumer’s creditworthiness
+1. Despite of the provisions of the respective Law on Consumer Protection, banks before entering into a credit agreement, authorised overdraft facility agreement, agreement on issuing and use of a credit card or leasing agreement, shall assess the consumer’s creditworthiness on the basis of data furnished by the consumer and by consulting the Credit Registry of Kosovo (CRK) and other databases on consumer debt, with prior written consent of the consumer.
+2. If the contracting parties agree to increase the consumer’s indebtedness, the bank shall reassess the consumer’s creditworthiness.
+3. If the application for credit, authorized overdraft facility, issuing of a credit card or leasing is rejected on the basis of consultation of the database referred to in paragraph 1. of this Article, the bank shall notify the consumer immediately, in writing and free of charge, of the results of the database consulted.
+4. The database referred to in paragraph 1. of this Article shall contain the data to the processing of which the consumer gave prior written consent, especially data on his debts to financial institutions and the regularity of settlement of liabilities arising from the use of financial services.
+5. The bank should take care that in its evaluations it does not cause overload or violate the minimum living standards of the borrower or the family budget.

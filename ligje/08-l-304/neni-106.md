@@ -1,0 +1,19 @@
+# Neni 106
+Kushtet për përmbyllje
+1. BQK-ja ndërmerr një veprim të përmbylljes ndaj një banke vetëm nëse konsideron se janë përmbushur të gjitha kushtet si në vijim:
+1.1. përcaktimi se banka është duke dështuar ose ka mundësi të dështojë, sipas paragrafit 2. të këtij neni, është bërë nga BQK-ja, e cila vepron si autoritet mbikëqyrës;
+1.2. sipas kohës dhe rrethanave të tjera relevante, nuk ka perspektivë të arsyeshme që çdo masë alternative e sektorit privat, apo veprim mbikëqyrës, përfshirë masat e ndërhyrjes së hershme ose zvogëlimin e vlerës apo konvertimin e instrumenteve kapitale relevante siç përcaktohet në nenin 112 të këtij ligji në lidhje me bankën, do të parandalonte dështimin e bankës brenda një afati të arsyeshëm kohor;
+1.3. një veprim i përmbylljes është i nevojshëm në interes të publikut. Një veprim i përmbylljes trajtohet në interesin publik nëse është proporcional dhe i nevojshëm për arritjen e një ose disa objektiva të përmbylljes, ashtu që procedurat e rregullta të falimentimit nuk do t'i plotësonin ato objektiva të përmbylljes në të njëjtën shkallë, dhe duke mos paragjykuar zbatimin e kombinuar të instrumenteve të përmbylljes dhe të likuidimit sipas nenit 105 të këtij ligji.
+2. Banka konsiderohet të jetë e dështuar apo ka mundësi të dështojë në njërën apo në më shumë rrethana si në vijim:
+2.1. banka shkel, apo ka rrethana objektive për të mbështetur faktin që banka në të ardhmen e afërt, do të shkelë kërkesat për licencim të vazhdueshëm në atë mënyrë që arsyeton revokimin e licencës nga BQK-ja, sepse ndër të tjerash, banka ka pësuar apo ka mundësi të pësojë humbje që do të shterojë të gjithë ose një sasi të konsiderueshme të kapitalit rregullator;
+2.2. asetet e bankës janë, apo ka rrethana objektive për të mbështetur faktin se asetet e bankës, në të ardhmen e afërt, do të jenë më të ulëta në raport me detyrimet e saj;
+2.3. banka, është apo ka rrethana objektive për të mbështetur përcaktimin se banka, në të ardhmen e afërt, nuk do të jetë në gjendje t’i paguajë borxhet e saj apo detyrimet në rast të maturimit;
+2.4. kërkohet mbështetje e jashtëzakonshme financiare publike, përveç kur, në mënyrë që të korrigjohet një shqetësim serioz në ekonomi dhe të ruaj stabilitetin financiar, mbështetja e jashtëzakonshme financiare publike vjen si rezultat:
+2.4.1. të një garancisë publike për t’i mbështetur instrumentet financiare lehtësuese të likuidimit të dhëna nga BQK-ja;
+2.4.2. të një garancisë publike të detyrimeve sapo emetuara, apo
+2.4.3. të injektimit të kapitalit rregullator ose blerjes së instrumenteve të kapitalit me çmime dhe kushte që nuk ofrojnë avantazh për bankën, dhe me kusht që rrethanat e referuara në nën-paragrafët 2.1., 2.2. dhe 2.3. të këtij neni, dhe rrethanat e referuara në paragrafin e nenit 112 të këtij ligji nuk janë të pranishme në kohën e dhënies së mbështetjes publike.
+3. Në secilën rast të përmendur në nën-paragrafin 2.4. të këtij neni, garancioni ose masat ekuivalente të referuara zbatohen vetëm për bankat e afta paguese dhe kushtëzohet me miratimin përfundimtar sipas dispozitave të ligjit përkatës të ndihmës shtetërore, aty ku është e aplikueshme. Masat e tilla konsiderohen të natyrës parandaluese dhe të përkohshme, në proporcion për të përmirësuar pasojat e shqetësimit serioz, dhe assesi nuk mund të përdoren për të kompensuar humbjet që banka i ka pësuar ose ka mundësi të pësojë në të ardhmen e afërt.
+4. Konstatimi se banka është duke dështuar ose ka mundësi të dështojë duhet të bëhet nga BQK-ja në cilësinë e autoritetit mbikëqyrës.
+5. Bordi i drejtorëve të bankës duhet të njoftojë BQK-në, nëse vlerësojnë që banka është duke dështuar ose ka mundësi të dështojë.
+6. Miratimi paraprak i çdo mase të ndërhyrjes së hershme nuk është kusht për marrjen e veprimit të përmbylljes.
+7. Vendimi i BQK-së, përfshirë situatën për përmbyllje ose jo në raport me bankën, i përshkruan arsyet relevante për atë vendim dhe për veprimet të cilat BQK synon t’i ndërmerr

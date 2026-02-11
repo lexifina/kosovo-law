@@ -1,0 +1,5 @@
+# Neni 94
+Regjistrimi dhe plani i veprimit
+1. Jo më vonë se tridhjetë (30) ditë pas emërimit, administratori zyrtar përgatitë dhe i dorëzon BQK-së listën e regjistrimit të aseteve dhe detyrimeve të bankës. Një raport i tillë specifikon asetet sipas profileve të tyre të ndryshme të rrezikut dhe klasifikon kreditë joperformuese.
+2. Jo më vonë se gjashtëdhjetë (60) ditë pas emërimit, administratori zyrtar përgatitë dhe i dorëzon BQK-së raportin mbi gjendjen financiare dhe gjasat e ngjarjeve të ardhshme të bankës që është subjekt i administrimit zyrtar.
+3. Në raportin e referuar në paragrafin 2. të këtij neni, administratori zyrtar propozon planin e veprimit, ku sipas nevojës, rekomandon rikthimin e bankës në pajtueshmëri me ligjin duke zbatuar një plan të masave përmirësuese të cilat mund të përfshijnë rritjen e kapitalit, apo, nëse banka nuk mund të rehabilitohet, ndonjë linjë tjetër veprimi me qëllim të minimizimit të dëmtimit të depozitorëve dhe ruajtjes së stabilitetit në sektorin bankar. Administratori zyrtar ia paraqet me kohë BQK-së ndonjë raport shtesë ose informacion të kërkuar nga BQK-ja.

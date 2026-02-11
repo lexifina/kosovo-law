@@ -1,0 +1,7 @@
+# Neni 78
+Detyrimi për të vlerësuar aftësinë kreditore të konsumatorit
+1. Pavarësisht nga dispozitat e ligjit përkatës për mbrojtjen e konsumatorit, bankat përpara se të lidhin një marrëveshje kreditore, marrëveshje të autorizuar mbi mbitërheqjen, marrëveshje për lëshimin dhe përdorimin e kartelës kreditore ose marrëveshjen e lizingut, duhet të vlerësojnë aftësinë kreditore të konsumatorit në bazë të të dhënave të paraqitura nga konsumatori dhe duke u konsultuar me Regjistrin Kreditor të Kosovës (RKK) dhe bazave tjera të të dhënave mbi borxhin e konsumatorit, me pëlqimin paraprak me shkrim të konsumatorit.
+2. Nëse palët kontraktuese bien dakord të rrisin detyrimin e konsumatorit, banka duhet të rivlerësoj aftësinë kreditore të konsumatorit.
+3. Nëse kërkesa për kredi, mbitërheqje të autorizuar, lëshimi i kartelës kreditore ose lizingu refuzohet në bazë të konsultimit nga baza e të dhënave nga paragrafi 1. i këtij neni, banka duhet të njoftojë menjëherë konsumatorin, me shkrim dhe pa pagesë, rezultatin në bazë të dhënave të konsultuara.
+4. Bazat e të dhënave nga paragrafi 1. i këtij neni përmban të dhënat për përpunimin e të cilave konsumatori ka dhënë pëlqimin paraprak me shkrim, veçanërisht të dhënat për borxhet e tij ndaj institucioneve financiare dhe rregullsinë e shlyerjes së detyrimeve që rrjedhin nga përdorimi i shërbimeve financiare.
+5. Banka duhet të kujdeset që në vlerësimet e saj të mos shkaktojë mbingarkesë apo të cenojë minimumin e jetesës së kredimarrësit apo buxhetit familjar.

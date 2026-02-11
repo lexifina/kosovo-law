@@ -1,0 +1,11 @@
+# Article 68
+External audit
+1. The Shareholders Assembly, shall appoint, upon the recommendation of its Audit Committee and the Board of Directors, an independent and qualified external auditor approved by the CBK who shall:
+1.1. provide an opinion as to whether the annual financial statements present a fair and true view of the financial condition and performance of the bank in accordance with the provisions of this Law;
+1.2. review the adequacy of the practices and procedures for internal audit and control practices and procedures and make recommendations for remediation; and
+1.3. inform the Board of Directors about any fraudulent activity by an employee of the bank or any of its subsidiaries or any irregularity or deficiency in its administration or operations that may reasonably be expected to result in a material loss for the bank or such subsidiary.
+2. The external auditor of a bank, or any member of the audit firm, shall not be a bank related person or an agent or representative of the bank and shall not have any financial interest in the bank, with the exception of holding a deposit in the bank.
+3. The key audit partner in an auditing company, who carries out a statutory audit on behalf of the audit company, shall not be allowed to take up management or administrative positions in the audited bank or a foreign bank branch before a period of at least two (2) years has elapsed since he resigned as key audit partner in an auditing company.
+4. The CBK may prescribe criteria for the selection and requirements for rotation of auditors or engagement partners of audit firms after a specified period of time to ensure continued independence.
+5. The CBK shall have authority to require the removal or replacement of an auditor, or to directly appoint, remove, or replace an auditor, at the expense of the bank to do a re-audit, if the bank or the auditor fails to meet the requirements of this Article or where the CBK is not reasonably satisfied with the auditor’s performance. The CBK has the power to access external auditor’s working papers, where necessary.
+6. The CBK may require by regulation to perform the audit of the financial statements for the foreign bank branches.

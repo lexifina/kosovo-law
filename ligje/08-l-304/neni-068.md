@@ -1,0 +1,11 @@
+# Neni 68
+Auditimi i jashtëm
+1. Aksionarët, me rekomandimin e Komitetit të Auditimit dhe Bordit të Drejtorëve, duhet të caktojnë një auditor të jashtëm të kualifikuar dhe të pavarur, të miratuar nga BQK-ja, i cili në përputhje me Standardet e Ndërkombëtare të Auditimit, duhet:
+1.1. të japë një opinion nëse pasqyrat financiare paraqesin një pamje të plotë dhe të vërtetë të gjendjes financiare dhe performancës së bankës në përputhje me dispozitat e këtij ligji;
+1.2. të shqyrtojë përshtatshmërinë e praktikave dhe procedurave për auditim të brendshëm, dhe praktikave dhe procedurave për kontroll dhe të bëjë rekomandime për përmirësimet e nevojshme, dhe
+1.3. të informojë Bordin e Drejtorëve për çdo veprim mashtrues të kryer nga një punonjës i bankës ose nga ndonjë subjekt i varur i saj ose ndonjë parregullsi a mangësi në administrim ose në operacionet që mund të pritet të rezultojnë me një humbje materiale për bankën apo subjektin e varur.
+2. Auditori i jashtëm i bankës, apo çdo anëtar i firmës së auditimit, nuk duhet të jetë person i ndërlidhur me bankën ose agjent apo përfaqësues i bankës dhe nuk duhet të ketë ndonjë interes financiar në bankë, me përjashtim të mbajtjes së depozitës në bankë.
+3. Partneri kryesor i auditimit në një kompani auditimi, i cili kryen një auditim ligjor në emër të kompanisë së auditimit, nuk do të lejohet të marrë pozita drejtuese apo administrative në bankën e audituar ose degën e bankës së huaj për një periudhe së paku dy (2) vjeçare që nga dita e dorëheqjes së dhënë si partner kryesor i auditimit në një kompani auditimi.
+4. BQK-ja mund të vendos kritere shtesë për përzgjedhjen dhe kërkesat për rotacion të auditorëve ose partnerëve të angazhuar të firmave të auditimit pas një periudhe të caktuar kohore për të siguruar vazhdimësinë e pavarësisë.
+5. BQK-ja ka kompetencë që të kërkojë përjashtimin ose zëvendësimin e një auditori, apo drejtpërsëdrejti të emërojë, përjashtoj ose zëvendësojë një auditor, me shpenzime të bankës për të bërë një riauditim, nëse banka ose auditori nuk i plotëson kërkesat e këtij neni, ose në rastet kur BQK-ja me arsye nuk është kënaqur me performancën e auditorit. BQK-ja ka kompetencën për qasje në dokumentet e punës të auditorit të jashtëm, aty ku është e nevojshme.
+6. BQK-ja mund të kërkojë me rregullore të kryejë auditimin e pasqyrave financiare për degët e bankave të huaja.

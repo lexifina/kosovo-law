@@ -1,0 +1,4 @@
+# Neni 34
+Pavarësia
+1. Bankat dhe degët e bankave të huaja duhet të menaxhohen dhe qeverisen bazuar në parimet e ekonomisë së tregut me konkurrencë të lirë dhe të ndershme. Asnjë person përfshirë autoritetet publike nuk mund të ndërhyjnë në formë të pa autorizuar për të ndikuar në menaxhimin ose strukturat qeverisëse të bankës apo të degës së bankës së huaj, përveç rasteve kur një ndërhyrje e tillë është në pajtueshmëri me kërkesat e kornizës ligjore të BQK-së, ekzekutimit të vendimeve nga organet gjyqësore apo BQK-së në pajtim me këtë ligj.
+2. Ndjekja e udhëzimeve ose praktikave të grupeve bankare ndërkombëtare që funksionojnë në kuadër të legjislacionit të Bashkimit Evropian, nuk përbën ndërhyrje në kuptim të paragrafit 1. të këtij neni, përderisa janë në pajtim me këtë ligj, rregullativën dhe kërkesat e BQK-së ose ligjeve tjera relevante të Kosovës.

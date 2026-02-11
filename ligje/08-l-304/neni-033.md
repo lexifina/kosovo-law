@@ -1,0 +1,5 @@
+# Neni 33
+Akti i Themelimit dhe Statuti
+1. Të gjitha bankat që operojnë në Kosovë duhet ta kenë aktin e themelimit dhe/ose statutin, një kopje e të cilave është miratuar nga BQK. Asnjë bankë, përveç bankës së huaj të licencuar për të operuar më një ose më shumë degë në Kosovë, nuk mund të ndryshojë aktin e saj të themelimit ose aktet nënligjore pa miratimin paraprak me shkrim të BQK-së.
+2. Banka e huaj me degë ose subjekt të varur të licencuar në Kosovë duhet ta njoftojë BQK- në për çdo ndryshim në aktin e saj të themelimit apo në dokumentacionin ekuivalent të themelimit ose statutin brenda tridhjetë (30) ditëve nga data efektive e ndonjë ndryshimi.
+3. Çdo bankë, përfshirë degët e bankave të huaja, në dokumentacionin e dorëzuar në BQK duhet gjithmonë të kenë një kopje të vërtetuar të aktit të themelimit apo dokumentacionit ekuivalent të themelimit, statutin dhe listën e zyrtarëve të bankës bashkë me ekzemplarin e nënshkrimeve dhe përshkrimin e kufizimeve të kompetencave të tyre, të cilët janë të autorizuar ndërmarrin veprime në emër dhe për llogari të bankës për veprimtaritë përkatëse.

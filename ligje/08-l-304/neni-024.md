@@ -1,0 +1,12 @@
+# Neni 24
+Kufizimet në ekspozimet e mëdha dhe koncentrimin e depozitave për bankat
+1. Shuma e përgjithshme maksimale e principalit të ekspozimeve kreditore, e shprehur si përqindje e kapitalit të klasës së parë, që një bankë lejohet të jetë zotuar ose ketë aktive në ose për përfitim të ndonjë personi të vetëm apo të një grupi të personave të ndërlidhur nuk duhet të jetë më e lartë se njëzetë e pesë për qind (25%).
+2. Pavarësisht nga paragrafi 1. i këtij neni, bankat për të lejuar ekspozime mbi pesëmbëdhjetë për qind (15%) të kapitalit të klasës së parë duhet të marrin aprovim paraprak nga BQK në nivel të bankës, varësisht nga profili i rrezikut, pozicionit në tregun financiar, në proporcion me natyrën, shkallën dhe kompleksitetin e veprimtarive të saj, si dhe ndaj rreziqeve që është ose mund të jetë e ekspozuar gjatë dhënies së kredive sikurse përcaktohet nga BQK me rregullore të veçantë.
+3. Ekspozimi i bankës ndaj një personi të vetëm ose grupi të personave të ndërlidhur do të konsiderohet si ekspozim i madh nëse është i barabartë ose më i madh sesa dhjetë për qind (10%) e kapitalit të klasës së parë.
+4. Shuma e përgjithshme maksimale e ekspozimeve të mëdha e shprehur si përqindje e kapitalit të klasës së parë, nuk duhet të jetë më e lartë se treqind për qind (300℅) në çdo kohë ose një përqindje më të vogël siç përcaktohet me rregullore nga BQK.
+5. Shuma e përgjithshme e investimeve për llogari të bankës në instrumente financiare si letra me vlerë, fonde investive, depozita që fitojnë interes ose të ngjashme, e që rregullohen nga një juridiksion tjetër prej atij të Republikës së Kosovës, nuk mund të jetë më e lartë se njëqind për qind (100%) e kapitalit të klasës së parë. Përjashtimet nga ky limit mund të bëhen vetëm me aprovim paraprak nga BQK-ja për llogaritë nostro dhe asetet e peshuara me rrezik zero për qind 0% sipas kërkesave të BQK.
+6. BQK-ja mund të përcaktojë me rregullore përjashtimet nga kufizimet e paragrafit 1. dhe 2. të këtij neni.
+7. Politikat e bankës për rrezikun kreditor si minimum duhet të kërkojnë miratimin e bordit për çdo ekspozim të madh.
+8. Një bankë nuk mund të mbajë depozita nga çfarëdo fonde një burimore në shumë më të madhe se njëzet për qind (20%) të depozitave të saj të përgjithshme.
+9. Pavarësisht nga përcaktimet e këtij neni, BQK-ja rezervon të drejtën që në çdo kohë sipas gjykimit të saj të kërkojë nga bankat që të zbresin ekspozimet në limite më të ulëta.
+10. BQK-ja përcakton me rregullore në mënyrë të detajuar mënyrën e trajtimit të ekspozimeve të mëdha nga bankat dhe grupet bankare.

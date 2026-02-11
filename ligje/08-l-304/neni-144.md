@@ -1,0 +1,5 @@
+# Neni 144
+Bashkëpunimi me autoritetet tjera
+1. BQK mund të shkëmbejë informacione për çështjet e mbikëqyrjes me autoritetet tjera të mbikëqyrjes financiare në Kosovë dhe të shteteve tjera. Shkëmbimi i informacionit mund të përfshijë informatat konfidenciale, me kusht që BQK të ketë vlerësuar që informacioni do të përdorët për qëllime mbikëqyrëse dhe do të jetë subjekt i trajtimit të konfidencialitetit i ngjashëm me atë që BQK-ja do të kërkohej të zbatojë.
+2. Për të lehtësuar përmbushjen e përgjegjësive mbikëqyrëse, BQK-ja mund të hyjë në memorandume të mirëkuptimit me autoritetet tjera të mbikëqyrjes financiare në lidhje me bashkëpunimin dhe ndihmën e ndërsjellë, që mund të përfshijë çështjet për të cilat janë pajtuar BQK-ja dhe autoritetit tjetër të mbikëqyrjes financiare në lidhje me shkëmbim të informacionit dhe format tjera të bashkëpunimit dhe ndihmës.
+3. BQK do të bashkëpunojë me Autoritetit Bankar Evropian në lidhje me mbikëqyrjen e bankave, dhe do t’i dërgojë autoritetit në fjalë të gjitha informacionet e nevojshme për kryerjen e detyrave të saj, në përputhje me memorandumin e mirëkuptimit ose marrëveshjeve të tjera të ngjashme.

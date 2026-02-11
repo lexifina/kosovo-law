@@ -1,0 +1,6 @@
+# Neni 132
+Veprimet e likuidatorit që kërkojnë miratime shtesë
+1. Likuidatori mundet pas miratimit paraprak me shkrim nga BQK-ja dhe sipas instruksioneve të saj, të merret edhe me veprimtaritë e mëposhtme:
+1.1. tjetërsojë asetet dhe detyrimet e bankës përmes transaksionit të shitblerjes dhe cedimit; ose
+1.2. të riorganizojë ristrukturimin e aseteve dhe detyrimeve të bankës ose të vazhdojë operacionet e papenguara dhe të nevojshme përmes një institucioni urë.
+2. Nëse detyrimet e bankës së transferuar në një bankë tjetër menjëherë pas revokimit të licencës së bankës, në përputhje me dispozitat e paragrafit 1. të këtij neni, që gjithashtu përfshinë edhe transferimin e depozitave të siguruara, dhe vetëm nëse vlera e pagesës është me e vogël sesa shuma e transferuar e depozitave të siguruara, atëherë ndryshimi deri në shumën e depozitave të siguruara të transferuara në një bankë tjetër, paguhet nga Fondi për Sigurimin e Depozitave të Kosovës, në përputhje me ligjin përkatës që rregullon sistemin e sigurimit të depozitave, me kusht që kostot për mbështetjen e transferimit të mos e kalojnë shumën neto të kompensimit të depozitarëve të mbuluar nëse banka e dështuar do të ishte likuiduar sipas procedurave të rregullta të likuidimit.

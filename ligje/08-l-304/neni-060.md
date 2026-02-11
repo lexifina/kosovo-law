@@ -1,0 +1,8 @@
+# Neni 60
+Bashkimet, ndarjet dhe përvetësimet
+1. Një bankë nuk mund të bashkohet, ndahet ose përvetësohet nga ndonjë bankë tjetër në mënyrë të drejtpërdrejtë apo të tërthortë, lidhur me të gjitha asetet (pasuritë) ose një nivel të konsiderueshëm të tyre, ose të marrë detyrimet e ndonjë banke tjetër, pa miratimin paraprak të BQK-së.
+2. Një bankë nuk duhet të ndryshojë statutin e saj pa miratimin paraprak të BQK-së. Pavarësisht nga kërkesat e këtij ligji, BQK-ja mund të rregullojë forma të tjera të ndryshimit të statutit të bankave dhe mund të përcaktojë kërkesat tjera që bankat duhet t'i plotësojnë në procesin e ndryshimit të statutit të tyre.
+3. Aplikacionet për t’u bashkuar, për t’u ndarë dhe për të përvetësuar të gjitha asetet ose një nivel të konsiderueshëm të tyre, ose të marrë detyrimet e një banke, duhet të jenë sipas formës të përcaktuar nga BQK-ja.
+4. Për qëllime të vendosjes për një kërkesë të paraqitur sipas këtij neni, kriteret për miratimin paraprak të një kërkese për licencë bankare, siç përcaktohet në nenin 13 të këtij ligji zbatohen përshtatshmërisht.
+5. BQK mund të kërkojë nga një bankë apo degë e bankës së huaj që të fillojë procesin e bashkimit, ndarjes apo përvetësimit nëse gjykon se është në interes të arritjes së objektivave në pajtim me këtë ligj.
+6. Aksionarët e bankave dhe bankave të huaja që operojnë përmes degës në Kosovë, nuk mund të jenë në të njëjtën kohë edhe aksionar të drejtpërdrejtë ose të tërthortë të një banke tjetër, ose të një institucioni tjetër financiar në Kosovë që ushtron veprimtari të ngjashme me bankën, ose vlerësohet si e tillë nga BQK.

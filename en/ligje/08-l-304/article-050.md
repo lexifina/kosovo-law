@@ -1,0 +1,18 @@
+# Article 50
+Internal audit function
+1. The Board of Directors of a bank shall appoint the Head of Internal Audit Function. The bank shall provide that the Head of Internal Audit Function reports directly to the Audit Committee of the Board of Directors. The head of Internal Audit Function cannot be appointed without the prior approval of the CBK. Dismissal or resignation of the Head of Internal Audit Function, and the grounds for it shall be communicated to the CBK within seven (7) working days after the dismissal or resignation.
+2. The Head of Internal Audit Function shall operate independently of management and shall be given sufficient status as to reflect the significance of the function and meaningful access to management and members of management to discuss matters relevant to their functions. The Head of Internal Audit Function shall have the right to obtain from them any information or documentation of the bank.
+3. The Head of Internal Audit Function or its deputy (if deputy position is applied by the bank) shall be appointed by the Board of Directors or the Audit Committee of the bank and shall report to the Audit Committee.
+4. Salary and other material rights of the Head of Internal Audit Function or its deputy (if deputy position is applied by the bank) shall be determined by the Audit Committee and the contracts of their jobs shall be approved by the Board of Directors.
+5. The Internal Audit is responsible for identifying, monitoring and assessing risks in the operation of a bank and determines whether the system of internal control is in place that insure that those risks are managed in the manner so that the risks are mitigated in an acceptable measure. The bank shall provide to the Internal Auditor sufficient resources to enable him/her to carry out his/her responsibilities.
+6. In performing his/her responsibilities, the Internal Audit shall have authorities for unrestricted and unimpeded work and he/she is obliged to report to the Audit Committee of the bank.
+7. The internal auditor shall in particular:
+7.1. review systems of internal controls and monitor and critique policies and procedures with respect to accounting, administration, operations and the safeguarding of assets;
+7.2. review internal audit programs, satisfactory to test for non-compliance and irregularities based on the internal auditor’s risk assessments;
+7.3. report non-compliance and irregularities to the Audit Committee at least quarterly and pursuant to such procedures set by the Audit Committee and where exigent circumstances so dictate, to the Board of Directors and the CBK;
+7.4. assist and cooperate with the external auditor in the performance of his or her duties; and
+7.5. perform such investigations and other duties as may be provided in the bank’s bylaws or assigned to the internal auditor by the Board of Directors or the Audit Committee.
+8. The internal auditor shall have no authority to represent the bank in contracts or to enter on behalf and for the benefit of the bank.
+9. Individuals appointed as Internal Auditor cannot be related by marriage or blood to the second degree of consanguinity to any member of the Board of Directors, Senior Management or any person who holds a significant ownership interest.
+10. In case of foreign bank branch, internal audit of the branch in Kosovo shall be appointed by the decision-making bodies of the foreign bank and shall report to Audit Committee of the foreign bank and must operate independently of management.
+11. The CBK shall prescribe by regulation in more details the principles of organising and functioning of internal audit for banks and foreign bank branches.
