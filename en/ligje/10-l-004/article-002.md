@@ -1,0 +1,5 @@
+# Article 2
+Ratification of the Agreement
+1. The Loan Agreement for the “Reform and Growth Facility for the Western Balkans” between the European Union, represented by the European Commission as the Lender, and Kosovo as the Borrower, and the Central Bank of Kosovo as Agent to the Borrower is hereby ratified.
+2.The main objective of this Agreement is to accelerate alignment with the legislation of the European Union, regional economic integration, and socio-economic convergence with the EU, by complementing the funds of the Instrument for Pre-Accession Assistance (IPA).
+3.The total value of the loan under this Agreement amounts to six hundred twenty-nine million, three hundred eleven thousand, two hundred thirty-six euros (€629,311,236). A portion of 34.75% of the loan will be transferred to the Western Balkans Investment Framework (WBIF), where the grant funds are also allocated. Each loan disbursement has a maturity of forty (40) years from the signing of this Agreement, with repayment of principal starting in 2034.
