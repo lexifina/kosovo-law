@@ -1,0 +1,86 @@
+Prishtinë, më 16 mars 2026
+Nr. ref.: RK2977/26
+AKTVENDIM PËR PAPRANUESHMËRI
+në
+rastin nr. KI74/25
+Parashtrues
+Sali Raka
+Vlerësim i kushtetutshmërisë së Aktvendimit [Rev. nr. 519/2024] të 11 dhjetorit 2024 të Gjykatës Supreme në lidhje me Aktgjykimin [Ac. nr. 8759/21] e 9 shtatorit 2024 të Gjykatës së Apelit
+GJYKATA KUSHTETUESE E REPUBLIKËS SË KOSOVËS
+e përbërë nga:
+Nexhmi Rexhepi, kryetar Safet Hoxha, zëvendëskryetar Bajram Ljatifi, gjyqtar Radomir Laban, gjyqtar Remzie Istrefi-Peci, gjyqtare Enver Peci, gjyqtar dhe Jeton Bytyqi, gjyqtar
+Parashtruesi i kërkesës
+1. Kërkesa është dorëzuar nga Sali Raka nga Kaçaniku (në tekstin e mëtejmë: parashtruesi i kërkesës).
+Vendimi i kontestuar
+2. Parashtruesi i kërkesës konteston Aktvendimin [Rev. nr. 519/2024] e 11 dhjetorit 2024 të Gjykatës Supreme të Republikës së Kosovës (në tekstin e mëtejmë: Gjykata Supreme) në lidhje me Aktgjykimin [Ac. nr. 8759/21] e 9 shtatorit 2024 të Gjykatës së Apelit (në tekstin e mëtejmë: Gjykata e Apelit).
+3. Parashtruesi i kërkesës aktgjykimin e Gjykatës së Apelit e ka pranuar më 2 tetor 2024.
+Objekti i çështjes
+4. Objekt i çështjes është vlerësimi i kushtetutshmërisë së akteve të kontestuara, përmes të cilave pretendohet se parashtruesit të kërkesës i janë shkelur të drejtat dhe liritë themelore të garantuara me nenin 31 [E Drejta për Gjykim të Drejtë dhe të Paanshëm] të Kushtetutës së Republikës së Kosovës (në tekstin e mëtejmë: Kushtetuta) në lidhje me nenin 6 (E drejta për një proces të rregullt) e Konventës Evropiane për të Drejta të Njeriut (në tekstin e mëtejmë: KEDNJ).
+Baza juridike
+5. Kërkesa bazohet në paragrafët 1 dhe 7 të nenit 113 [Juridiksioni dhe Palët e Autorizuara] të Kushtetutës, në nenet 22 (Procedimi i kërkesës) dhe 47 (Kërkesa individuale) të Ligjit nr. 03/L-121 për Gjykatën Kushtetuese të Republikës së Kosovës (në tekstin e mëtejmë: Ligji) dhe në rregullin 25 (Parashtrimi i kërkesave dhe përgjigjeve) të Rregullores së punës së Gjykatës Kushtetuese të Republikës së Kosovës (në tekstin e mëtejmë: Rregullorja e punës).
+Procedura në Gjykatën Kushtetuese
+6. Më 24 mars 2025, parashtruesi i kërkesës e dorëzoi kërkesën nëpërmjet postës, të cilën Gjykata Kushtetuese e Republikës së Kosovës (në tekstin e mëtejmë: Gjykata) e pranoi më 27 mars 2025.
+7. Më 1 prill 2025, Kryetari i Gjykatës, përmes Vendimit [nr. GJR. KI74/25], caktoi gjyqtaren Remzije Istrefi-Peci gjyqtare raportuese dhe përmes Vendimit [nr. KSH. KI74/25], caktoi Kolegjin shqyrtues, të përbërë nga gjyqtarët: Nexhmi Rexhepi (kryesues), Enver Peci dhe Jeton Bytyqi (anëtarë).
+8. Më 24 prill 2025, Gjykata e njoftoi parashtruesin e kërkesës për regjistrimin e kërkesës. Në po të njëjtën datë, Gjykata gjithashtu i dërgoi një kopje të kërkesës Gjykatës Supreme.
+9. Më 25 shkurt 2026, Kolegji shqyrtues shqyrtoi raportin e gjyqtares raportuese dhe njëzëri i rekomandoi Gjykatës papranueshmërinë e kërkesës.
+Përmbledhja e fakteve
+10. Bazuar në shkresat e lëndës, N. Sh. kishte paraqitur padi në Gjykatën Themelore në Ferizaj – dega në Kaçanik, kundër parashtruesit të kërkesës dhe K. G., përmes së cilës ka kërkuar vërtetimin e pronësisë, në një pjesë të ngastrës kadastrale Pk. nr. 1321-1, në sipërfaqe prej 17m2, e evidentuar në certifikatën e pronës me nr. të lëndës 304/13.
+11. Më 27 shtator 2021, Gjykata Themelore, përmes Aktgjykimit [C. nr. 226/20], refuzoi si të pabazuar kërkesëpadinë e paditësit N. Sh.
+12. Në një datë të pasaktësuar, paditësi N. Sh. parashtroi ankesë në Gjykatën e Apelit kundër aktgjykimit të Gjykatës Themelore.
+13. Më 9 shtator 2024, Gjykata e Apelit përmes Aktgjykimit [Ac. nr. 8759/21] aprovoi si të bazuar ankesën e paditësit N. Sh., duke ndryshuar aktgjykimin e Gjykatës Themelore dhe duke vërtetuar se paditësi N. Sh. mbi bazën e parashkrimit fitues-posedimit me mirëbesim është pronar i ngastrës kadastrale Pk. nr. 1321-1, me sipërfaqe 17m2, e evidentuar në certifikatën e pronës me nr. të lëndës 304/13, ZK/Kaçanik, duke detyruar parashtruesin e kërkesës që paditësit t’ia njohë këtë të drejtë dhe të njëjtin ta lejojë që këtë të drejtë ta regjistrojë në librat kadastralë brenda 15 ditëve nga dita e pranimit të këtij aktgjykimi, në të kundërtën ky aktgjykim paditësit i shërben si bazë për regjistrimin e kësaj të drejte në organet kompetente kadastrale.
+14. Në një datë të pasaktësuar, parashtruesi i kërkesës paraqiti revizion në Gjykatën Supreme kundër aktgjykimit të Gjykatës së Apelit, për shkak të shkeljes esenciale të dispozitave të procedurës kontestimore dhe aplikimit të gabuar të së drejtës materiale, me propozimin që Gjykata Supreme ta aprovojë revizionin dhe të anulojë aktgjykimin e Gjykatës së Apelit, në mënyrë që ta vërtetojë aktgjykimin e shkallës së parë ose çështja t’i kthehet gjykatës së shkallës së parë në rigjykim dhe rivendosje.
+15. Më 11 dhjetor 2024, Gjykata Supreme përmes Aktvendimit [Rev. nr. 519/2024] hodhi poshtë si të palejuar revizionin e parashtruar nga ana e parashtruesit të kërkesës. Gjykata Supreme në aktvendimin e saj ndër të tjera arsyetoi se : “ Gjykata Supreme erdhi në përfundim se revizioni nuk lejohet kundër aktgjykimit të Gjykatës së Apelit të Kosovës, Ac.nr.8759/21 të datës 09.09.2024, për arsye se dispozitat e cituara i referohen lejueshmërisë së revizionit duke kushtëzuar me vlerën e kontestit e cila duhet të jetë mbi 3000E, ndërsa në këtë rast vlera e objektit të kontestit në padinë e paditësit është në shumën 500E”
+Pretendimet e parashtruesit të kërkesës
+16. Parashtruesi i kërkesës pretendon që aktvendimi i kontestuar i Gjykatës Supreme është nxjerrë në shkelje të të drejtave dhe lirive të tij kushtetuese, të garantuar me nenin 31 [E Drejta për Gjykim të Drejtë dhe të Paanshëm] të Kushtetutës në lidhje me nenin 6 (E drejta për një proces të rregullt) të KEDNJ-së.
+17. Parashtruesi i kërkesës, si pretendim kryesor para Gjykatës, ngriti çështjen e zbatimit të gabuar të ligjit të aplikueshëm, duke deklaruar që zbatimi i gabuar i së drejtës procedurale ose materiale, ka sjellë deri tek shkelja e të drejtave dhe lirive themelore të mbrojtura me Kushtetutë.
+18. Tutje, parashtruesi i kërkesës thekson se “mostrajtimi adekuat i fakteve dhe provave nga ana e Gjykatës Supreme ka cenuar rëndë barazinë e palëve në procedurë dhe objektivitetin e gjykatës, duke krijuar një standard të pa drejtë dhe në dëm të parashtruesit të kërkesës, dhe një praktikë që vë në pah njëanshmërinë e gjykatës”.
+19. Parashtruesi i kërkesës po ashtu pretendon shkelje të nenit 31 të Kushtetutës për shkak të mungesës së arsyetimit të vendimit gjyqësor, duke theksuar se vendimet gjyqësore duhet të jenë të arsyetuara lidhur me të gjitha pretendimet dhe kërkesat e palëve ndërgjyqëse.
+Vlerësimi i pranueshmërisë së kërkesës
+20. Gjykata së pari shqyrton nëse kërkesa e parashtruesit të kërkesës i ka përmbushur kriteret e pranueshmërisë të përcaktuara me Kushtetutë, të parashikuara me Ligj dhe të specifikuara më tej me Rregullore të punës.
+21. Në këtë drejtim, Gjykata i referohet paragrafëve 1 dhe 7 të nenit 113 [Juridiksioni dhe Palët e Autorizuara] të Kushtetutës, i cili përcakton:
+“1. Gjykata Kushtetuese vendos vetëm për rastet e ngritura para gjykatës në mënyrë ligjore nga pala e autorizuar.
+[…]
+7. Individët janë të autorizuar të ngrenë shkeljet nga autoritetet publike të të drejtave dhe lirive të tyre individuale, të garantuara me Kushtetutë, mirëpo vetëm pasi të kenë shteruar të gjitha mjetet juridike të përcaktuara me ligj”.
+22. Në vazhdim, Gjykata gjithashtu shqyrton nëse parashtruesi i kërkesës i ka përmbushur kriteret e pranueshmërisë, siç përcaktohen me Ligj. Në lidhje me këtë, Gjykata i referohet
+nenit 47 (Kërkesa individuale), nenit 48 (Saktësimi i kërkesës) dhe 49 (Afatet) të Ligjit, të
+cilët përcaktojnë:
+Neni 47
+(Kërkesa individuale)] “1. Çdo individ ka të drejtë të kërkojë nga Gjykata Kushtetuese mbrojtje juridike në rast se pretendon se të drejtat dhe liritë e tija individuale të garantuara me Kushtetutë janë shkelur nga ndonjë autoritet publik.
+2. Individi mund ta ngritë kërkesën në fjalë vetëm pasi që të ketë shteruar të gjitha mjetet juridike të përcaktuara me ligj.”
+Neni 48
+(Saktësimi i kërkesës)
+“Parashtruesi i kërkesës ka për detyrë që në kërkesën e tij të qartësoj saktësisht se cilat të drejta dhe liri pretendon se i janë cenuar dhe cili është akti konkret i autoritetit publik të cilin parashtruesi dëshiron ta kontestoj”.
+Neni 49
+(Afatet)
+“Kërkesa parashtrohet brenda afatit prej katër (4) muajsh. Afati fillon të ecë nga dita kur parashtruesit i është dorëzuar vendimi gjyqësor...”.
+23. Gjykata më tej i referohet edhe rregullit 29 (Llogaritja e periudhës kohore) dhe rregullit 34 (Kriteret e pranueshmërisë) të Rregullores së punës:
+Rregulli 29 (Llogaritja e periudhës kohore)
+Periudha kohore, e përcaktuar në Kushtetutë, në Ligj dhe në këtë rregullore të punës, llogaritet si më poshtë:
+[...]
+(d) Kur periudha shprehet me muaj, ajo përfundon me kalimin e ditës së njëjtë kalendarike të muajit me ditën gjatë të cilës ka ndodhur ngjarja ose veprimi për të cilin duhet të llogaritet periudha kohore.
+[...]
+(g) përjashtimisht, nëse periudha përfundon të shtunën, të dielën ose në ndonjë festë zyrtare, ajo do të vazhdojë deri në fund të ditës së parë të punës që vjen pas saj.
+Rregulli 34 (Kriteret e pranueshmërisë)
+“(1) Gjykata mund ta konsiderojë një kërkesë të pranueshme nëse:
+[...]
+(c) kërkesa parashtrohet brenda katër (4) muajsh nga dita kur vendimi i mjetit të fundit efektiv juridik i është dorëzuar parashtruesit
+24. Për sa i përket përmbushjes së këtyre kritereve, Gjykata fillimisht thekson se parashtruesi i kërkesës është palë e autorizuar, i cili konteston një akt të një autoriteti publik, përkatësisht Aktvendimin [Rev. nr. 519/2024] e 11 dhjetorit 2024 të Gjykatës Supreme në lidhje me Aktgjykimin [Ac. nr. 8759/21] e 9 shtatorit 2024 të Gjykatës së Apelit, pasi i ka shteruar të gjitha mjetet juridike të përcaktuara me ligj.
+25. Megjithatë, bazuar në nenin 49 (Afatet) të Ligjit, Gjykata në vijim duhet të vlerësojë nëse kërkesa e tanishme është dorëzuar brenda afatit ligjor katër (4) mujor të përcaktuar me nenin 49 të Ligjit dhe rregullin 34 (1) (c) të Rregullores së punës.
+26. Në këtë drejtim, Gjykata rikujton se rregulli i afatit katërmujor është autonom dhe duhet kuptuar dhe aplikuar bazuar në faktet e secilit rast veç e veç për të siguruar ushtrimin efektiv të së drejtës për të paraqitur kërkesën para Gjykatës. Gjykata thekson se qëllimi i afatit ligjor prej katër (4) muajve, të përcaktuar në nenin 49 të Ligjit dhe rregullin 34 (1) (c) të Rregullores së punës, i shërben sigurisë juridike dhe siguron që rastet që ngrenë çështje kushtetuese të trajtohen brenda një periudhe të arsyeshme dhe parandalon autoritetet dhe personat e tjerë të afektuar që të mos mbahen në një gjendje pasigurie për një periudhë të gjatë (shih, ndër të tjera, rastet e Gjykatës KI61/23, me parashtrues, Hedie Bylykbashi, Aktvendim për papranueshmëri, i 25 majit 2023, paragrafi 33; KI24/23, me parashtrues, Sami Nuredini, Aktvendim për papranueshmëri, i 27 prillit 2023, paragrafi 21; dhe rastin e GJEDNJ-së, Lekić kundër Sllovenisë, kërkesat nr. 10865/09, 45886/07 dhe 32431/08 Aktgjykim i 11 dhjetorit 2018, paragrafi 65). Ky rregull gjithashtu i jep kohë parashtruesit potencial nëse do të paraqes një kërkesë në Gjykatë, dhe, nëse po, të vendosë për argumentet specifike që do i paraqes si dhe rrjedhën e fakteve, pasi që me kalimin e kohës bëhet i vështirë shqyrtimi i çështjeve të ngritura nga parashtruesi i kërkesës (shih, rastin e Gjykatës KI115/20, me parashtrues Muharrem Rama, Aktvendim për papranueshmëri, 3 nëntorit 2021, paragrafët 55 dhe 56; dhe rastin e GEDNJ-së, Sabri Güneş kundër Turqisë, kërkesa nr. 27396/06, Aktgjykim i 29 qershorit 2012, paragrafët 52 dhe 55).
+27. Afati katër (4) mujor fillon të rrjedhë nga dita e vendimit të fundit në kuadër të procesit të shterimit të mjeteve juridike (shih rastin e Gjykatës, KI59/18, me parashtrues Strahinja Spasić, Aktvendim për papranueshmëri, i 27 marsit 2019, paragrafi 51; dhe rastin e GJEDNJ-së, Chapman kundër Belgjikës, kërkesa nr. 39619/06, Vendim i 5 marsit 2013, paragrafi 34). Në këtë kuptim, Gjykata thekson se kur parashtruesit i njihet e drejta për të pranuar kopjen e vendimit përfundimtar të gjykatave të rregullta, afati katër (4) mujor fillon të rrjedhë nga dita kur vendimi i mjetit të fundit efektiv juridik i është dorëzuar parashtruesit të kërkesës, pa marrë parasysh nëse vendimi është shpallur gojarisht ndaj parashtruesit të kërkesës. Ky kriter është përcaktuar edhe përmes pikës (c) të paragrafit (1) të rregullit 34 (Kriteret e pranueshmërisë) të Rregullores së punës, që përcakton se kërkesa parashtrohet brenda katër (4) muajve nga dita kur vendimi i mjetit të fundit efektiv juridik i është dorëzuar parashtruesit të kërkesës.
+28. Në këtë kuptim, Gjykata rikujton praktikën gjyqësore të GJEDNJ-së, përkatësisht e cila ka theksuar se nuk kërkohet shterimi i mjeteve juridike diskrecionale, apo mjeteve juridike që nuk janë drejtpërdrejtë në dispozicion të parashtruesve dhe që varen nga ushtrimi i diskrecionit nga ndërmjetësi. Sipas GJEDNJ-së, shterimi i mjeteve juridike dhe periudha katër (4) mujore janë të ndërlidhura ngushtë. Gjykata bazuar në praktikën gjyqësore të GJEDNJ-së, më tej thekson se afati katër (4) mujor fillon të rrjedhë nga dita kur parashtruesi ka pranuar vendimin e mjetit të fundit efektiv juridik (shih, ndër të tjera, rastet e Gjykatës KI143/19, me parashtrues Agim Thaqi, Aktvendim për papranueshmëri, i 16 janarit 2020, paragrafi 42; dhe KI111/22, me parashtrues Bechtel Enka GP.O.P, Aktvendim për papranueshmëri, i 25 janarit 2023, paragrafi 44; dhe rastin e GJEDNJ-së, Williams kundër Mbretërisë së Bashkuar, kërkesa nr. 32567/06, Vendim i 17 shkurtit 2009).
+29. Gjykata vëren se në rrethanat e rastit konkret, procedura ndaj parashtruesit të kërkesës e zhvilluar pranë gjykatave të rregullta në lidhje me meritat e rastit kishte përfunduar me Aktgjykimin [Ac. nr. 8759/21] e 9 shtatorit 2024 të Gjykatës së Apelit. Pas pranimit të këtij të fundit, ai ka përdorur mjetin juridik revizionin, i cili nuk ka qenë i lejuar me ligj pasi që neni 211 i Ligjit të Procedurës Kontestimore përcakton se “Revizioni nuk lejohet në kontestet pasurore juridike në të cilat kërkesëpadia nuk ka të bëjë me kërkesa me para, me dorëzimin e sendit apo me përmbushjen e ndonjë prestimi tjetër, po që se vlera e objektit të kontestit e treguar në padinë e paditësit nuk kalon shumën prej 3.000 euro”.
+30. Në lidhje me këtë, Gjykata vë në dukje që përmes Aktvendimit [Rev. nr. 519/2024] e 11 dhjetorit 2024 të Gjykatës Supreme, kjo e fundit, bazuar në nenin 211 të Ligjit të Procedurës Kontestimore, e ka hedhur poshtë kërkesën e parashtruesit të kërkesës si të palejuar, duke mos e trajtuar në merita rastin e parashtruesit të kërkesës. Gjykata rikujton arsyetimin e Gjykatës Supreme ku kishte theksuar “ Gjykata Supreme erdhi në përfundim se revizioni nuk lejohet kundër aktgjykimit të Gjykatës së Apelit të Kosovës, Ac.nr.8759/21 të datës 09.09.2024, për arsye se dispozitat e cituara i referohen lejueshmërisë së revizionit duke kushtëzuar me vlerën e kontestit e cila duhet të jetë mbi 3000E, ndërsa në këtë rast vlera e objektit të kontestit në padinë e paditësit është në shumën 500E”
+31. Bazuar në si më lart, Gjykata tutje shton se në rastin e parashtruesit të kërkesës, pas pranimit të Aktgjykimit [Ac. nr. 8759/21] e 9 shtatorit 2024 të Gjykatës së Apelit, asgjë nuk e ka ndaluar atë që t’i drejtohet Gjykatës. Megjithatë, ai ka përdorur mjete juridike, si revizionin, mjet ky i cili nuk është i lejuar kur vlera e kontestit është nën 3000 euro.
+32. Rrjedhimisht, bazuar në nenin 49 të Ligjit dhe rregullin 34 (1) (c) të Rregullores së punës, “vendimi i mjetit të fundit efektiv juridik”, është Aktgjykimi [Ac. nr. 8759/21] i 9 shtatorit 2024 të Gjykatës së Apelit, dhe i cili ishte përfundimtar.
+33. Nga shkresat e lëndës, Gjykata vëren se parashtruesi i kërkesës, vendimin e mjetit të fundit efektiv juridik, sipas përcaktimit të mësipërm të Gjykatës, e ka pranuar më 2 tetor 2024, ndërsa kërkesën në postë e ka dorëzuar më 24 mars 2025, që do të thotë se kërkesa e parashtruesit të kërkesës është dorëzuar jashtë afatit të përcaktuar ligjor.
+34. Si përfundim, nga arsyet e shtjelluara si më sipër, Gjykata konstaton se kërkesa nuk është dorëzuar brenda afatit ligjor të përcaktuar me nenin 49 të Ligjit dhe rregullin 34 (1) (c) të Rregullores së punës dhe rrjedhimisht, Gjykata nuk mund të shqyrtojë meritat e rastit, përkatësisht, nëse përmes aktvendimit të kontestuar janë shkelur të drejtat kushtetuese të parashtruesit të kërkesës.
+PËR KËTO ARSYE
+Gjykata Kushtetuese, në pajtim me nenin 113.7 të Kushtetutës, të neneve 27, 49 të Ligjit dhe në pajtim me rregullat 34 (1) (c), 39 dhe 45 të Rregullores së punës, më 25 shkurt 2026, njëzëri
+VENDOS
+I. TË DEKLAROJË kërkesën të papranueshme;
+I. T'UA KUMTOJË këtë aktvendim palëve;
+II. TË PUBLIKOJË këtë aktvendim në Gazetën Zyrtare, në pajtim me paragrafin 4 të nenit 20 të Ligjit;
+III. Ky aktvendim hyn në fuqi në ditën e shpalljes në Gazetën Zyrtare të Republikës së Kosovës, në pajtim me paragrafin 5 të nenit 20 të Ligjit.
+Gjyqtarja raportuese Kryetari i Gjykatës Kushtetuese
+Remzije Istrefi-Peci Nexhmi Rexhepi
