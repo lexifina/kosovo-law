@@ -1,0 +1,33 @@
+# Neni 4
+Përkufizimet
+1. Për qëllime të këtij Udhëzimi përkufizimet e mëposhtme kanë këto kuptime dhe përmbajtje:
+1.1. Pajisja Elektronike Fiskale / Sistemi Fiskal - pajisja ose sistemi elektronik i
+kompjuterizuar, që shfrytëzohet për të lëshuar kuponët e shitjes për transaksionet me pakicë. PEF/SF përfshin ato pajisje elektronike, si: arkat fiskale, printerët fiskalë dhe sistemet fiskale për veprimtari të veçanta. Një PEF/SF përfshin memorien fiskale, memorien punuese ditore, softuerin mbështetës (firmware), orën e saktë, mekanizmin e shtypjes së kuponit, si dhe njësitë kontrolluese lidhëse për tastiera,
+TT, KMS, KM, ZHKE, ekrane dhe nën-njësitë e transmetimit të të dhënave hyrëse dhe dalëse (sikurse janë skanerët), të cilat sigurohen të jenë pjesë e sistemit. Të gjithë komponentët e ofruar dhe funksionet e PEF/SF aprovohen ose autorizohen nga DAF-i, ndërsa softueri mbështetës (firmware) ose mekanizmi tjetër verifikues i funksioneve të PEF/SF, duhet të jetë në dispozicion të ATK-së;
+1.2. Softueri Elektronik Fiskal – është softuer elektronik i zhvilluar për të regjistruar
+dhe raportuar transaksionet financiare të tatimpaguesve në mënyrë të automatizuar dhe në përputhje me legjislacionin tatimor në Republikën e Kosovës. Përmes SEF- it regjistrohen furnizimet e mallrave dhe/ose shërbimeve për transaksionet me pakicë, gjenerohet kuponi fiskal dhe raportohen të dhënat në kohë reale në Sistemin Informativ të ATK-së;
+1.3. Arka Fiskale - është regjistrues elektronik i furnizimit të mallrave dhe/ose
+shërbimeve, arka që janë të pajisura posaçërisht me memorie fiskale, pllombë fiskale dhe mundësi e pajisje tjera, ashtu siç përkufizohen në specifikacionet teknike dhe funksionale të publikuara nga ATK-ja;
+1.4. Memoria Fiskale - është një medium i ruajtur dhe i sigurt, është nën-njësi në të
+cilën të gjitha informatat fiskale ruhen dhe mbahen të pandryshueshme në PEF/SF. Memoria Fiskale është e programuar si memorie vetëm e lexueshme (read-only, EPROM, ROM i programuar i shlyeshëm, ose PROM, ROM i programuar). Qarqet e memories fiskale mbrohen në kuti të veçantë e cila është e vendosur në një pjesë të dizanjuar veçanërisht, që është pjesë integrale e shtëpizës së PEF-së. Në kuadër të Memories Fiskale përfshihet edhe komponenti (karkasa) që regjistron çdo heqje apo intervenim në mbështjellësin (shtëpizën) e PEF/SF;
+1.5. Rrjeti i të Dhënave Fiskale - është rrjeti komunikues ndërmjet PEF/SF dhe
+Sistemit Informativ të ATK-së, që ka të bëjë me transmetimin e kriptuar të të dhënave fiskale përmes KMS-së;
+1.6. Divizioni për Arka Fiskale – Divizion i themeluar në kuadër të strukturës
+organizative të ATK-së, përgjegjës për menaxhimin e PEF/SF/SEF, për të rishikuar dhe miratuar PEF/SF, operatorët ekonomik për furnizim, instalim dhe mirëmbajtje të PEF/SF dhe teknikët e autorizuar për PEF/SF;
+1.7. Konsumatori i fundit – nënkupton personin fizik jo afarist, i cili mallrat dhe/ose
+shërbimet e blera i përdor për nevoja personale. Po ashtu, konsumator i fundit mund të konsiderohet edhe personi fizik afarist, personi juridik, ortakëria dhe grupimi apo shoqëria e personave duke përfshirë konzorciumet dhe autoritet publike, të cilët mallrat dhe/ose shërbimet e blera i përdor për nevoja biznesore dhe jo për qëllim të rishitjes apo zhvillimin e aktiviteteve të tyre;
+1.8. Kuponi fiskal – është dokument në të cilin regjistrohet furnizimi i mallrave dhe/ose
+shërbimeve në pikën e shitjes për konsumatorin e fundit. Kuponi fiskal gjenerohet nga PEF/SF/SEF, i cili shtypet në letër apo mund të dërgohet në mënyrë elektronike për furnizime të veçanta (furnizime elektronike). Karakteristikat e veçanta të kuponit fiskal, janë: logo fiskale dhe nënshkrimi me 2D barkod (Kodi QR). Karakteristikat e tjera përcaktohen në dokumentin e kërkesave specifike teknike dhe funksionale për PEF/SF/SEF;
+1.9. Softueri mbështetës (Firmware) - Softuer i sendërtuar për funksionim të PEF-së;
+1.10. Karkasa - Memorie apo hapësirë e veçantë në kuadër të memories fiskale për
+regjistrimin e ndërhyrjeve në shtëpizën e PEF/SF;
+1.11. Sistemi Informativ i ATK-së - Sistemi kompjuterik i cili pranon/dërgon komanda
+dhe të dhëna të koduara në drejtim të sistemeve për evidentimin e qarkullimit;
+1.12. Abonimi - Tarifë periodike që mundëson transferimin e të dhënave nga PEF/SF në
+Sistemin Informativ të ATK-së përmes teknologjisë GPRS;
+1.13. Internet - Rrjet global i ndërlidhur i kompjuterëve dhe pajisjeve të tjera
+elektronike, që përdor protokollet standarde të komunikimit (si TCP/IP), për të shkëmbyer informacione; dhe
+1.14. Mënyra e pagesës - Pagesa përmes parasë së gatshme (kesh), debit kartelës, kredit
+kartelës, llogarisë bankare, çekut, SMS-it, apo ndonjë instrumenti tjetër ekuivalent të pagesës.
+2. Termat e tjera të përdorura në këtë Udhëzim kanë kuptimin e njëjtë sikurse në Ligjin në fuqi
+për Administrimin e Procedurave Tatimore (në tekstin e mëtejmë: Ligji).

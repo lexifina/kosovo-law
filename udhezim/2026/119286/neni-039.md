@@ -1,0 +1,12 @@
+# Neni 39
+Kuponi fiskal dhe gjenerimi i Kodit QR
+1. Kuponi Fiskal duhet të printohet në letër për të gjitha furnizimet e mallrave dhe/ose
+shërbimeve të bëra për konsumatorët e fundit (individët). Sidoqoftë, nëse ofrohen shërbime elektronike ose furnizimi i mallrave dhe/ose shërbimeve kontraktohet dhe ngarkohet përmes një aplikacioni celular, dyqani në internet ose të ngjashme, kuponi fiskal mund të mos printohet në letër, por mund t'i dërgohet blerësit ose marrësit të kuponit fiskal në formë elektronike. Për shembull, në rast të shitjes në distancë nëse klienti (një individ) paguan me kartelën e kreditit, atëherë kjo konsiderohet se është pagesa e parave në dorë, por kuponi fiskal mund të mos printohet në letër, kështu që në vend të kësaj, shitësi mund t'ia dërgojë blerësit kuponin fiskal në formë elektronike.
+2. Në rast pagese pa para në dorë, për transaksionet me konsumatorët individë (individualë),
+kuponi fiskal mund të printohet në letër ose të dërgohet në formë elektronike. Blerësi duhet të japë pëlqimin e tij për pranimin e kuponit fiskal në formë elektronike.
+3. Për të siguruar lehtësisht verifikimin e kuponit fiskal të lëshuar, duhet të gjenerohet një Kod
+QR për secilin kupon fiskal. Kodi QR është një element i detyrueshëm i kuponit fiskal, si në rastin kur kuponi fiskal raportohet me sukses në ATK dhe fiskalizohet, edhe në rastet kur kuponi fiskal nuk mund të fiskalizohet, si p.sh: për shkak të mungesës së internetit, disponueshmërisë së serverit të shërbimit fiskalizues, etj. Kodi QR përmban të dhëna të kuponit fiskal, si dhe nënshkrimin digjital.
+4. Kodi QR së bashku me elementët e tjerë të detyrueshëm të kuponit fiskal, duhet të jetë element
+përbërës i secilit kupon fiskal të lëshuar për konsumatorin e fundit, pavarësisht se kuponi fiskal printohet në letër apo dërgohet në mënyrë elektronike te konsumatori.
+5. Zgjidhja softuerike e përdorur për lëshimin e kuponëve fiskal dhe fiskalizimin e tyre duhet të
+krijojë automatikisht një numër unik në formatin e specifikuar në specifikimet teknike të publikuara në faqen e internetit të ATK-së.
