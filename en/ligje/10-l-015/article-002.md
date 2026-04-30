@@ -1,0 +1,5 @@
+# Article 2
+Ratification of the Agreement
+1. Law on the Loan Agreement between the Republic of Kosovo, represented by the Ministry of Finance and the International Development Association for the Kosovo Financial Sector Development Project is hereby ratified.
+2. The main objective of this project is to strengthen the stability and development of the financial sector in Kosovo, through increasing the security of deposits, improving access to finance for micro, small and medium-sized enterprises, developing financial institutions such as the Development Bank and modernizing payment systems, with the aim of promoting financial inclusion and economic growth.
+3. The Agreement includes four main components: strengthening the Deposit Insurance Fund to increase the protection of depositors; improving access to finance for micro, small and medium- sized enterprises, including support for women-led businesses, start-ups and exporters, as well as the establishment and capitalization of the Kosovo Development Bank; creating a modern and interoperable system for fast payments to promote digital payments; and supporting project management and implementation.
