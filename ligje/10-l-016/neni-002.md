@@ -1,0 +1,5 @@
+# Neni 2
+Ratifikimi i Marrëveshjes
+1. Ratifikohet ligji për Marrëveshjen e Kredisë ndërmjet Republikës së Kosovës dhe Agjencisë Franceze për Zhvillim për Programin e Kredisë të Bazuar në Politika.
+2. Objektivi kryesor i këtij projekti është avancimi i sektorit të energjisë dhe klimës në Kosovë përmes reformave të tregut energjetik, promovimit të dekarbonizimit, rritjes së efiçiencës së energjisë dhe zhvillimit të burimeve të energjisë së ripërtëritshme, si dhe përshpejtimi i tranzicionit drejt energjisë së gjelbër përmes harmonizimit të kornizës ligjore dhe politike me standardet e Bashkimit Evropian dhe përmbushjes së zotimeve ndërkombëtare të vendit.
+3. Marrëveshja përfshin mbështetje financiare për zbatimin e reformave në sektorin e energjisë dhe klimës, duke përfshirë avancimin e tregut energjetik, promovimin e politikave të dekarbonizimit, rritjen e efiçiencës së energjisë dhe zhvillimin e burimeve të energjisë së ripërtëritshme, si dhe harmonizimin e kornizës ligjore dhe rregullatore me standardet e Bashkimit Evropian dhe të Komunitetit të Energjisë.

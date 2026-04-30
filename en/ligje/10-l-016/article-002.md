@@ -1,0 +1,5 @@
+# Article 2
+Ratification of the Agreement
+1. The Law on the Credit Agreement between the Republic of Kosovo and the French Development Agency for the Policy-Based Credit Program is hereby ratified.
+2. The main objective of this project is to advance the energy and climate sector in Kosovo through energy market reforms, promoting decarbonisation, increasing energy efficiency and developing renewable energy sources, as well as accelerating the transition to green energy through harmonizing the legal and policy framework with European Union standards and fulfilling the country's international commitments.
+3. The Agreement includes financial support for the implementation of reforms in the energy and climate sector, including the advancement of the energy market, the promotion of decarbonisation policies, the increase of energy efficiency and the development of renewable energy sources, as well as the harmonization of the legal and regulatory framework with the standards of the European Union and the Energy Community.
