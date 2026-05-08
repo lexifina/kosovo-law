@@ -1,0 +1,8 @@
+LIGJI NR. 10/L-007
+PËR RATIFIKIMIN E MARRËVESHJES PËR ANËTARËSIMIN E REPUBLIKËS SË
+KOSOVËS NË BORDIN E PAQES
+Kuvendi i Republikës së Kosovës;
+Në mbështetje të neneve 18 dhe 65 (1) të Kushtetutës së Republikës së Kosovës,
+Miraton:
+LIGJ PËR RATIFIKIMIN E MARRËVESHJES PËR ANËTARËSIMIN E REPUBLIKËS SË
+KOSOVËS NË BORDIN E PAQES
