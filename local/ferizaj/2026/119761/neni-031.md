@@ -1,0 +1,2 @@
+# Neni 31
+1 ' Procedura, sipas kdrkesds pdr kryerjen e transportit taksi te udhetareve, qe ka filluar e nuk ka pdrfunduar deri ne hyrjen ne fuqi tc kesaj rregulloreje, do te vazhdohet sipas dispozitave tii k€saj rregullorej e. 2' Te giitht' operatordt td cildt jand td pajisur me licencd, nd kohezgjatje prej 6 muajsh nga dita e hyrjes nd fuqi td kdsaj Rregulloreje, obligohen t'i plotdsojn€ kriteret e specifikuara nd td.
