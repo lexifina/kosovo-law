@@ -1,0 +1,6 @@
+# Article 10
+Establishment of the OCMG
+1. The National Olympic Committee, in cooperation with the Municipality of Prishtina, shall establish the OCMG as soon as possible, and in any case no later than one (1) month after the entry into force of this Law. The OCMG is an independent entity, with the status of an NGO engaged in sport activities, cooperating with private and public entities as necessary and in compliance with the provisions of this Law.
+2. The OCMG shall have the legal status of a foundation under the law in force on freedom of association in non-governmental organizations.
+3. The Statute of the OCMG shall comply with the provisions of this Law and the law in force on freedom of association in non-governmental organizations, with the former prevailing in cases of conflict. The Statute of the OCMG must also comply with the specific obligations arising from the ICMG Charter, the Host City Contract, and the Candidacy Document.
+4. In accordance with the conditions outlined in paragraph 3., the Governing Board of the OCMG may amend the Statute by a 2/3 majority of the total number of Governing Board voting members. Any changes must be submitted for prior approval by the ICMG.

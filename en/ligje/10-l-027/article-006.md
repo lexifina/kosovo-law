@@ -1,0 +1,9 @@
+# Article 6
+Responsibilities of the Municipality of Prishtina as Host City
+1. The Municipality of Prishtina shall cooperate with the Kosova Olympic Committee in the establishment of the OCMG.
+2. The Municipality of Prishtina will present a detailed plan to the ICMG Executive Committee for the prevention of ambush marketing and will agree to all terms and conditions and fully comply with the provisions of Article 35 of the Host City Contract.
+3. The Municipality of Prishtina will ensure that there are no other commercial, marketing, or promotional programs in Kosovo organized by national sports federations, sports organizations, and other public and private entities referring to the Mediterranean Games or Mediterranean teams, during the year of the Games or implying any connection with them.
+4. The Municipality of Prishtina will ensure that no commercial rights related to the Host City and its agencies are granted for the period of the Mediterranean Games without the written approval of the ICMG.
+5. The Municipality of Prishtina is obliged to perform its functions in compliance with the terms of the Host City Contract, the ICMG Charter, the Candidature Document, this Law, and other relevant applicable legal acts of the local government administration, with the aim of organizing the Mediterranean Games in an efficient, timely and professional manner.
+6. The Municipality of Prishtina will be represented on the OCMG Governing Board in accordance with Article 13 of this Law, the ICMG Charter, and the Host City Contract.
+7. Together with the other signatories of the Host City Contract, the Municipality of Prishtina will contribute to fulfilling all joint obligations specified in the contract and will comply with its obligations under the ICMG Charter and the Host City Contract.
