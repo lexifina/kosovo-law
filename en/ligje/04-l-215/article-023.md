@@ -1,4 +1,0 @@
-# Article 23
-The guarantee
-1. Upon the request of the citizen who applies for release from citizenship, the competent body shall issue to the citizen a guarantee by which it guarantees that the citizen fulfills all requirements for being released from citizenship pursuant to Article 20, paragraph 1, subparagraph 1.2 and 1.3 and that the request for release from citizenship will be approved if the citizen in question provides evidence for the acquisition of the citizenship of another state or if he/she submits a guarantee issued by the competent body of another state guaranteeing that he/she will acquire the citizenship of the other state if he/she is released from the citizenship of the Republic of Kosovo.
-2. The guarantee shall be valid for a period of two (2) years from the day it was delivered to the citizen. The provisions on revocation laid out in Article 22 of this Law shall apply mutatis mutandis to the revocation of the guarantee.

@@ -1,4 +1,0 @@
-# Neni 23
-Garancioni
-1. Me kërkesë të shtetasit i cili kërkon lirimin nga shtetësia, organi kompetent ia lëshon shtetasit në fjalë, një garancion me të cilin garantohet se shtetasi i plotëson të gjitha kushtet për lirim nga shtetësia të përcaktuara në nenin 20, paragrafi 1, nënparagrafi 1.2 dhe 1.3 dhe se do të miratohet kërkesa për lirim nga shtetësia nëse shtetasi në fjalë paraqet dëshmi për fitimin e shtetësisë së një shteti tjetër, përkatësisht paraqet garancionin e lëshuar nga organi kompetent i shtetit tjetër se do të fitojë shtetësinë e këtij shteti nëse lirohet nga shtetësia e Republikës së Kosovës.
-2. Garancioni vlen për një periudhë dy (2) vjeçare që nga dita kur i është dorëzuar shtetasit. Dispozitat për revokim të përcaktuara në nenin 22 të këtij ligji zbatohen përshtatshmërisht për revokimin e garancionit.
