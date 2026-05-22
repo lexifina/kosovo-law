@@ -1,0 +1,12 @@
+# Neni 30
+Divizioni për Mbikëqyrjen e Zbatimit të Legjislacionit
+1. Detyrat dhe përgjegjësitë e Divizionit për Mbikëqyrjen e Zbatimit të Legjislacionit janë:
+1.1. Koordinon aktivitetet me të gjitha strukturat organizative të Ministrisë për zbatimin e legjislacionit;
+1.2. Ofron mbështetje ligjore në fushën e legjislacionit;
+1.3. Identifikon problemet e zbatimit të akteve normative;
+1.4. Ofron mbështetje ligjore në hartimin e propozim-vendimeve, propozim- marrëveshjeve, propozim-memorandumeve dhe propozim-kontratave;
+1.5. Koordinon aktivitetet legjislative të Ministrisë me institucionet përkatëse;
+1.6. Mirëmban regjistrin e akteve nënligjore të Ministrisë;
+1.7. Kryen edhe detyra të tjera të përcaktuara me legjislacionin në fuqi.
+2. Udhëheqësi i Divizionit për Mbikëqyrjen e Zbatimit të Legjislacionit raporton tek Drejtori i Departamentit Ligjor.
+3. Numri i të punësuarve në Divizionin për Mbikëqyrjen e Zbatimit të Legjislacionit është katër (4).
