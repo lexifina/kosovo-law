@@ -1,0 +1,6 @@
+# Neni 81
+Shumat e transferuara dhe shumat e pranuara
+1. Ofruesit e shërbimit të pagesave të paguesit dhe të përfituesit të pagesës dhe çdo ndërmjetës i ofruesve të shërbimit të pagesave duhet të transferojë shumën e plotë të transaksionit të pagesës dhe të përmbahen nga zbritja e tarifave nga shuma e transferuar.
+2. Megjithatë, përfituesi i pagesës dhe ofruesi i shërbimit të pagesave mund të bien dakord që ofruesi përkatës i shërbimit të pagesave të zbresë tarifat e tij nga shuma e transferuar përpara se t'ia kreditojë përfituesit. Në një rast të tillë, shuma e plotë e transaksionit të pagesës dhe tarifat do të ndahen në informacionin që i jepet përfituesit të pagesës.
+3. Nëse ndonjë tarifë tjetër nga ato të përcaktuara në paragrafin 2 të këtij Neni zbritet nga shuma e transferuar, ofruesi i shërbimit të pagesave të paguesit duhet të sigurojë që përfituesi i pagesës të marrë shumën e plotë të transaksionit të pagesës të iniciuar nga paguesi. Kur transaksioni i pagesës është iniciuar nga ose nëpërmjet përfituesit, ofruesi i shërbimit të pagesave të përfituesit duhet të sigurojë që shuma e plotë e transaksionit të pagesës të merret nga përfituesi.
+NËNKAPITULLI II KOHA E EKZEKUTIMIT DHE DATA E VLEFSHMËRISË (DATË VALUTA)

@@ -1,0 +1,10 @@
+# Article 2
+Scope
+1. This Law applies to payment services and issuance of electronic money within Kosovo for subjects determined under Article 1, paragraph 1 of this Law, and matters referred to in Article 1 paragraph 3 of this Law, where such activities are carried out in Kosovo as following:
+1.1. card-based payment transactions carried out within Kosovo, where both the payer’s payment service provider and the p ayee’s s payment service provider are located in Kosovo;
+1.2. transparency and comparability of fees charged to consumers on their payment accounts held in Kosovo;
+1.3. switching of payment accounts within Kosovo;
+1.4. right of consumers to open and use payment accounts with basic features in Kosovo.
+2. Section III and IV of this Law apply to payment transactions in Euro where both the payer’s payment service provider and the p ayee’s s payment service provider are, or the sole payment service provider in the payment transaction is, located in Kosovo.
+3. Section III, expect for Article 45 paragraph 1 sub-paragraph 1.2, Article 52 paragraph 1 sub-paragraph 1.2 sub-subparagraph 1.2.5 and Article 56 paragraph 1 sub-paragraph 1.1 of this Law and Section IV, except for Articles 81 to 86 of this Law, apply to payment transactions not in Euro where both the payer ’s payment service provider and the payee’s s payment service provider are, or the sole payment service provider in the payment transaction is, located in Kosovo, in respect to those parts of the payment transaction which are carried out in Kosovo.
+4. Section III, except for Article 45 paragraph 1 sub-paragraph 1.2, Article 52 paragraph 1 sub-paragraph 1.2 sub-subparagraph 1.2.5 and sub-paragraph 1.5 sub-subparagraph 1.5.7 and Article 56 paragraph 1 sub-paragraph 1.1, and Section IV except for Article 62 paragraphs 2 and 4, Articles 76, 77, 81, Article 83 paragraph 1, Articles 89 and 92 of this Law, apply to payment transactions in all currencies where only one of the payment service providers is located in Kosovo, in respect to those parts of the payment transaction which are carried out in Kosovo.

@@ -1,0 +1,8 @@
+# Article 10
+Own funds
+1. Payment institutions shall hold, at all times, own funds calculated in accordance with the methods prescribed by the CBK.
+2. The payment institution’s s own funds shall not fall below the amount of initial capital as referred to in Article 9 of this Law or the amount of own funds as calculated in accordance with this Article and CBK Regulation.
+3. The CBK shall take the necessary measures to prevent the multiple use of elements eligible for capital where the payment institution belongs to the same group as another payment institution, electronic money institution or any other financial institution.
+4. The previous paragraph of this Article shall also apply where a payment institution has a hybrid character and carries out activities other than providing payment services.
+5. If the appropriate conditions are met in order to ensure that capital is distributed adequately between the parent undertaking and the subsidiary, the CBK may choose not to apply the requirements in this Article to payment institutions which are included in the consolidated supervision of a parent bank operating in Kosovo.
+6. Based on assessment of the payment institution’s s risk management processes, risk loss databases and internal control mechanisms, the CBK may require the payment institution to hold an amount of own funds which is up to twenty percent (20%) higher than the amount which would result from the application of the relevant method in accordance with paragraph 1 of this Article, or permit the payment institution to hold an amount of own funds which is up to twenty percent (20%) lower than the amount which would result from the application of the relevant method in accordance with paragraph 1 of this Article.

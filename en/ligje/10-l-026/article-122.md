@@ -1,0 +1,7 @@
+# Article 122
+Alternative dispute resolution procedures
+1. The CBK shall regulate, establish or promote the establishment of adequate, independent, impartial, transparent and effective alternative dispute resolution procedures, based on and taking into consideration any existing legal provisions covering alternative dispute resolution and financial consumer protection, for the settlement of disputes between payment service users and payment service providers concerning the rights and obligations arising under Sections III, IV and V of this Law.
+2. The alternative dispute resolution procedures referred to in the previous paragraph shall be applicable to all payment service providers and shall also cover the activities of those who effectively control and administer the business of payment service providers.
+3. The payment service providers shall provide the payment service users with information of at least one alternative dispute resolution for consumer disputes, which shall include the website address and the competent authority for the alternative dispute resolution referred at by the payment service provider.
+4. The rights of payment service users referred to in the previous paragraphs of this Article shall not affect their rights to initiate court proceedings or any other rights or legal protections granted by Law.
+5. The CBK shall cooperate effectively with competent foreign entities for the resolution of cross-border disputes concerning the rights and obligations arising under the Sections III, IV and V of this Law.

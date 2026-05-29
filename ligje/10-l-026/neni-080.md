@@ -1,0 +1,7 @@
+# Neni 80
+Parevokueshmëria e urdhërpagesës
+1. Përdoruesi i shërbimit të pagesave nuk do të revokojë një urdhërpagesë pasi të jetë pranuar nga ofruesi i shërbimit të pagesave të paguesit, përveç nëse specifikohet ndryshe në këtë nen.
+2. Kur transaksioni i pagesës është iniciuar nga një ofrues i shërbimit të inicimit të pagesës ose nga ose nëpërmjet përfituesit të pagesës, paguesi nuk do të revokojë urdhërpagesën pasi i jep pëlqimin ofruesit të shërbimit të inicimit të pagesës për të iniciuar transaksionin e pagesës ose pasi jep pëlqimin për të ekzekutuar transaksionin e pagesës ndaj përfituesit të pagesës.
+3. Megjithatë, në rastin e një debitimi direkt dhe pa cenuar të drejtat e rimbursimit, paguesi mund të revokojë urdhërpagesën më së voni deri në fund të ditës së punës që i paraprin ditës së rënë dakord për debitimin e fondeve.
+4. Në rastin e përmendur në paragrafin 2 të Nenit 78 të këtij Ligji, përdoruesi i shërbimit të pagesave mund të revokojë një urdhërpagesë më së voni deri në fund të ditës së punës që i paraprin ditës së rënë dakord.
+5. Pas afateve kohore të përcaktuara në paragrafët 1 deri në 4 të këtij Neni, urdhërpagesa mund të revokohet vetëm nëse bihet dakord ndërmjet përdoruesit të shërbimit të pagesave dhe ofruesve përkatës të shërbimeve të pagesave. Në rastin e përmendur në paragrafët 2 dhe 3 të këtij Neni, kërkohet gjithashtu dakordimi i përfituesit të pagesës. Nëse është rënë dakord në kontratën kornizë, ofruesi përkatës i shërbimit të pagesave mund të ngarkojë tarifë për revokimin.

@@ -1,0 +1,7 @@
+# Neni 79
+Refuzimi i urdhërpagesave
+1. Kur ofruesi i shërbimit të pagesave refuzon të ekzekutojë një urdhërpagesë ose të iniciojë një transaksion pagese, refuzimi dhe, nëse është e mundur, arsyet për të dhe procedura për korrigjimin e çdo gabimi faktik që çoi në refuzim, duhet t'i njoftohet përdoruesit të shërbimit të pagesave, me përjashtim të rasteve kur ndalohet me legjislacionin në fuqi.
+1.1. ofruesi i shërbimit të pagesave duhet të sigurojë ose të vërë në dispozicion njoftimin në një mënyrë të rënë dakord, sa më shpejt që të jetë e mundur, dhe në çdo rast, brenda periudhave të përcaktuara në Nenin 83 të këtij Ligji;
+1.2. kontrata kornizë mund të përfshijë një kusht që ofruesi i shërbimit të pagesave mund të aplikoj një tarifë të arsyeshme për një refuzim të tillë, nëse refuzimi është i justifikuar objektivisht.
+2. Në rastet kur plotësohen të gjitha kushtet e përcaktuara në kontratën kornizë të paguesit, ofruesi i shërbimit të pagesave të llogarisë e paguesit nuk do të refuzojë të ekzekutojë një urdhërpagesë të autorizuar, pavarësisht nëse urdhërpagesa është iniciuar nga një pagues, duke përfshirë një ofrues të shërbimit të inicimit të pagesës, ose nga ose nëpërmjet një përfituesi të pagesës, përveç rasteve kur ndalohet me ligj.
+3. Për qëllime të neneve 83 dhe 89 të këtij Ligji, një urdhërpagesë për të cilën është refuzuar ekzekutimi do të konsiderohet se nuk është pranuar.

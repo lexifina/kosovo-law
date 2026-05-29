@@ -1,0 +1,11 @@
+# Neni 63
+Përjashtimi për instrumentet e pagesave me vlera të vogla dhe për paranë elektronike
+1. Në rastet e instrumenteve të pagesave, të cilat sipas kontratës kornizë, kanë të bëjnë vetëm me transaksione pagese individuale që nuk i kalojnë tridhjetë euro (30€) ose kanë një limit shpenzimi prej një qind e pesëdhjetë (150€) , ose ruajnë fondet që nuk i kalojnë një qind e pesëdhjetë (150€) në çdo kohë, ofruesit e shërbimeve të pagesave mund të bien dakord me përdoruesit e këtyre shërbimeve të pagesave që:
+1.1. nënparagrafi 1.2. i Nenit 69, nënparagrafët 1.3. dhe 1.4. të Nenit 70 dhe paragrafi 6 i Nenit 74 të këtij Ligji nuk zbatohen nëse instrumenti i pagesës nuk lejon bllokimin e tij ose parandalimin e përdorimit të mëtejshëm të tij;
+1.2. nenet 72 dhe 73, dhe paragrafët 1 deri 4 dhe 6 të Nenit 74 të këtij Ligji, nuk zbatohen nëse instrumenti i pagesës përdoret në mënyrë anonime ose ofruesi i shërbimit të pagesave nuk është në gjendje të provojë, për arsye që janë të qenësishme për instrumentin e pagesës, se transaksioni i pagesës ishte i autorizuar;
+1.3. nëpërmjet përjashtimit nga paragrafi 1 i Nenit 79 të këtij Ligji, ofruesi i shërbimeve të pagesave nuk është i detyruar të njoftojë përdoruesin e shërbimeve të pagesave për refuzimin e urdhërpagesës në qoftë se mosekzekutimi është i dukshëm nga rrethanat;
+1.4. nëpërmjet përjashtimit nga Neni 80 të këtij Ligji, paguesi nuk mund të revokoj urdhërpagesën pas transmetimit të saj ose pas dhënies së pëlqimit për përfituesin e pagesës për të ekzekutuar transaksionin e pagesës;
+1.5. nëpërmjet përjashtimit nga nenet 83 dhe 84 të këtij Ligji, zbatohen periudha të tjera ekzekutimi të pagesave.
+1.6. Për transaksionet kombëtare të pagesave, BQK mund të zvogëlojë ose dyfishojë shumat e përcaktuara në paragrafin 1 të këtij Neni. BQK mund t'i rrisë ato për instrumentet e pagesave të parapaguara deri në pesë qind euro (500€).
+1.7. Nenet 73 dhe 74 të këtij Ligji zbatohen edhe për paranë elektronike, me përjashtim të rasteve kur ofruesi i shërbimeve të pagesave të paguesit nuk ka mundësinë të ngrijë llogarinë e pagesës në të cilën ruhet paraja elektronike ose të bllokojë instrumentin e pagesës.
+1.8. BQK mund të kufizojë këtë përjashtim për llogaritë e pagesave në të cilat ruhet paraja elektronike apo për instrumentet e pagesave me një vlerë të caktuar.

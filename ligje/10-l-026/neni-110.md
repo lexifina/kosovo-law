@@ -1,0 +1,6 @@
+# Neni 110
+Tarifat e lidhura me shërbimin e bartjes së llogarisë
+1. Përdoruesit e shërbimit të pagesave kanë të drejtë të kenë qasje pa pagesë në informacionin e tyre personal në lidhje me urdhërpagesat periodike (automatizuara) ekzistuese dhe debitimet direkte të mbajtura qoftë nga ofruesi i shërbimit të pagesave bartës ose pranues.
+2. Ofruesi i shërbimit të pagesave bartës do të sigurojë informacionin e kërkuar nga ofruesi i shërbimit të pagesave pranues në përputhje me nënparagrafin 4.1 të Nenit 109 të këtij Ligji pa tarifuar përdoruesin e shërbimit të pagesave ose ofruesin e shërbimit të pagesave marrës.
+3. Tarifat, nëse ka, të aplikuara nga ofruesi i shërbimit të pagesave bartës te përdoruesi i shërbimit të pagesave për ndërprerjen e llogarisë së pagesave të mbajtura me të, do të jenë të arsyeshme dhe në përputhje me kostot aktuale të ofruesit të shërbimit të pagesave dhe çdo tarife të paguar në paraprakisht nga përdoruesi i shërbimit të pagesave duhet të rimbursohet proporcionalisht.
+4. Tarifat, nëse ka, të aplikuara nga ofruesi i shërbimit të pagesave bartës ose pranues ndaj përdoruesit të shërbimit të pagesave për çdo shërbim të ofruar sipas Nenit 109 të këtij Ligji, përveç atyre të përcaktuara në paragrafët 1, 2 dhe 3 të këtij Neni, janë të arsyeshme dhe në përputhje me kostot aktuale të atij ofruesi të shërbimit të pagesave.

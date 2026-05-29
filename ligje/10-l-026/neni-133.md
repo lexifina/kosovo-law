@@ -1,0 +1,6 @@
+# Neni 133
+Dispozitat kalimtare
+1. Bankat e licencuara nga BQK të cilat bazuar në dispozitat relevante ligjore, ofrojnë shërbimet e pagesave dhe / ose emetimit të parave elektronike, konsiderohen të jenë të autorizuara për ofrimin e shërbimeve dhe aktiviteteve të tilla, pa cenuar dispozitat e këtij Ligji të cilat janë të aplikueshme për banka dhe kushtet e tyre si ofrues të shërbimeve të pagesave.
+2. Institucionet Financiare Jo bankare të regjistruara nga BQK për të ofruar shërbimet e pagesave dhe/ose emetimit të parave elektronike para hyrjes në fuqi të këtij Ligji, duhet të kërkojnë autorizim si institucion i pagesave ose si institucion i parave elektronike, siç kërkohet me dispozitat e këtij Ligji brenda periudhës tranzitore të përcaktuar me Nenin 138 të këtij Ligji.
+3. Për entitetet e referuara në paragrafët paraprak të cilat aktualisht janë duke operuar brenda vendit, BQK nëse e vlerëson të përshtatshme, mund të vendos për një proces më të thjeshtësuar për autorizimin e tyre se sa procesi i përcaktuar me këtë ligj.
+4. Kërkesat për marrjen e autorizimit për të ushtruar veprimtarinë e shërbimeve të pagesave dhe të emetimit të parave elektronike, të cilat i nënshtrohen shqyrtimit nga BQK në momentin e hyrjes në fuqi të këtij Ligji, do të trajtohen në përputhje me kërkesat e këtij Ligji.

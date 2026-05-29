@@ -1,0 +1,6 @@
+# Article 110
+Fees connected with the switching service
+1. Payment service users have the right to access free of charge their personal information regarding existing standing orders and direct debits held by either the transferring or the receiving payment service provider.
+2. The transferring payment service provider shall provide the information requested by the receiving payment service provider pursuant to sub-paragraph 4.1 of Article 109 of this Law without charging the payment service user or the receiving payment service provider.
+3. Fees, if any, applied by the transferring payment service provider to the payment service user for the termination of the payment account held with it shall be reasonable and in line with the actual costs of the payment service provider, and any fees paid in advance by the payment service user shall be reimbursed on a pro- rata basis.
+4. Fees, if any, applied by the transferring or the receiving payment service provider to the payment service user for any service provided under Article 109 of this Law, other than those referred to in paragraphs 1, 2 and 3 of this Article, shall be reasonable and in line with the actual costs of that payment service provider.

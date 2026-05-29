@@ -1,0 +1,6 @@
+# Article 90
+Liability in the case of payment initiation services for non-execution, defective or late
+execution of payment transactions
+1. Where a payment order is initiated by the payer through a payment initiation service provider, the account servicing payment provider shall, without prejudice to Article 71 and paragraphs 2, 3 and 4 of Article 88 of this Law, refund to the payer the amount of the non- executed or defective payment transaction and, where applicable, restore the debited payment account to the state in which it would have been had the defective payment transaction not taken place.
+1.1. the burden shall be on the payment initiation service provider to prove that the payment order was received by the payer’s s account servicing payment provider in accordance with Article 78 of this Law and that within its sphere of competence the payment transaction was authenticated, accurately recorded and not affected by a technical breakdown or other deficiency linked to the non-execution, defective or late execution of the transaction.
+2. If the payment initiation service provider is liable for the non-execution, defective or late execution of the payment transaction, it shall immediately compensate the account servicing payment provider at its request for the losses incurred or sums paid as a result of the refund to the payer.

@@ -1,0 +1,4 @@
+# Neni 111
+Humbja financiare për përdoruesit e shërbimeve të pagesave
+1. Çdo humbje financiare, përfshirë tarifat dhe interesin, e shkaktuar nga përdoruesi i shërbimit të pagesave dhe që rezulton drejtpërdrejt nga mospërputhja e një ofruesi të shërbimit të pagesave të përfshirë në procesin e bartjes me detyrimet e tij sipas Nenit 109 të këtij Ligji, do të rimbursohet nga ai ofrues i shërbimit të pagesave pa vonesë.
+2. Përgjegjësia sipas paragrafit 1 të këtij Neni nuk zbatohet në rastet e rrethanave jonormale dhe të paparashikueshme përtej kontrollit të ofruesit të shërbimit të pagesave që pretendon për aplikimin e atyre rrethanave, pasojat e të cilave do të kishin qenë të pashmangshme pavarësisht të gjitha përpjekjeve për të kundërtën, ose kur një ofrues i shërbimit të pagesave është i lidhur me detyrime të tjera ligjore.

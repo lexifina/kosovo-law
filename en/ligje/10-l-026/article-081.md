@@ -1,0 +1,5 @@
+# Article 81
+Amounts transferred and received
+1. The payment service provider(s) of the payer and of the payee and any intermediaries of the payment service providers shall transfer the full amount of the payment transaction and refrain from deducting charges from the amount transferred.
+2. However, the payee and the payment service provider may agree that the relevant payment service provider deduct its charges from the amount transferred before crediting it to the payee. In such a case, the full amount of the payment transaction and charges shall be separated in the information given to the payee.
+3. If any charges other than those referred to in paragraph 2 of this Article, are deducted from the amount transferred, the payment service provider of the payer shall ensure that the payee receives the full amount of the payment transaction initiated by the payer. Where the payment transaction is initiated by or through the payee, the payment service provider of the payee shall ensure that the full amount of the payment transaction is received by the payee.

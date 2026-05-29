@@ -1,0 +1,8 @@
+# Neni 10
+Kapitali
+1. Institucionet e pagesave, duhet të mbajnë gjatë gjithë kohës kapital të llogaritur sipas metodave të përcaktuara nga BQK.
+2. Kapitali i institucionit të pagesave nuk duhet të bie nën shumën e kapitalit fillestar të referuar në Nenin 9 të këtij Ligji apo shumën e kapitalit të llogaritur në përputhje me këtë nen dhe rregulloret e BQK-së.
+3. BQK do të marr masat e nevojshme për të parandaluar përdorimin e shumëfishtë të elementeve të pranueshme për kapital ku institucioni i pagesës i takon të njëjtit grup me një institucioni tjetër të pagesave, të parave elektronike apo institucion tjetër financiar.
+4. Paragrafi i mëparshëm i këtij neni do të vlej edhe aty ku institucioni për pagesa ka karakter hibrid dhe realizon aktivitete të tjera përveç ofrimit të shërbimeve të pagesës.
+5. Nëse plotësohen kushtet e duhura për të siguruar që kapitali shpërndahet në mënyrë adekuate mes ndërmarrjes amë dhe degës, BQK mund të zgjedh që të mos aplikoj kërkesat e këtij Neni për institucionet e pagesës që janë të përfshirë në mbikëqyrjen e konsoliduar të bankës amë që operon në Kosovë.
+6. Bazuar në vlerësimin e proceseve të menaxhimit të rrezikut të institucionit të pagesave, bazës së të dhënave të rrezikut të humbjeve dhe mekanizmave të kontrollit të brendshëm, BQK mund të kërkojë që institucioni i pagesave të mbajë një kapital në shumën deri në njëzet përqind (20%) më të lartë se shuma që do të rezultonte pas aplikimit të metodës së përcaktuar me paragrafin 1 të këtij Neni, ose mund të lejoj institucionin e pagesave të mbaj kapital në shumën deri njëzet përqind (20%) më të ulët se shuma që do rezultonte pas aplikimit të metodës sipas përcaktimit të paragrafit 1 të këtij Neni.

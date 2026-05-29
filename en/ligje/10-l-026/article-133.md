@@ -1,0 +1,6 @@
+# Article 133
+Transitional provisions
+1. Banks licensed by the CBK under the relevant legal provisions, and that, under such provisions, provide payment services and or issue electronic money, are considered as authorized to continue to provide such services and activities without prejudice of the provisions of this Law that are applicable to the banks in their condition as payment service providers.
+2. Non-Bank Financial Institutions registered by the CBK to provide payment services and/or to issue electronic money prior to the entry into force of this Law, shall seek authorization as a payment institution or an electronic money institution, as applicable, under the provisions of this Law within the transitional period provided in Article 138 of this Law.
+3. For the entities referred to in the previous paragraph that are currently operating in the country, the CBK may, if appropriate, establish a simplified process for authorization than the one provided for in this Law.
+4. Applications for authorization for conducting the activity of payment services and electronic money issuance, subject to review by the CBK, pending at the moment of the entry into force of this Law, shall be addressed in compliance with the requirements determined by this Law.

@@ -1,0 +1,4 @@
+# Article 75
+Payment transactions where the transaction amount is not known in advance
+1. Where a payment transaction is initiated by or through the payee in the context of a card- based payment transaction and the exact amount is not known at the moment when the payer gives consent to execute the payment transaction, the payer’s s payment service provider may block funds on the payer’s s payment account only if the payer has given consent to the exact amount of the funds to be blocked.
+2. The payer’s payment service provider shall release the funds blocked on t he payer’s s payment account under paragraph 1 of this Article, without undue delay after receipt of the information about the exact amount of the payment transaction and at the latest immediately after receipt of the payment order.

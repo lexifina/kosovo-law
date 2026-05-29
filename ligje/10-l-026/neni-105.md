@@ -1,0 +1,5 @@
+# Neni 105
+Informacioni për përdoruesit
+1. Ofruesit e shërbimeve të pagesave, në informacionin e tyre kontraktual, komercial dhe të marketingut për përdoruesit e shërbimeve të pagesave, do të përdorin, aty ku është e zbatueshme, termat e standardizuara të përcaktuara në listën e përcaktuar në Nenin 102 të këtij Ligji.
+2. Ofruesit e shërbimeve të pagesave mund të përdorin emra brendesh në dokumentin e informacionit të tarifave dhe në pasqyrën e tarifave, me kusht që emrat e tillë të brendeve të përdoren përveç termave të standardizuara të përcaktuara në listën e përmendur në paragrafin 4 të Nenit 102 të këtij Ligji si një emërtim dytësor i këtyre shërbimeve.
+3. Ofruesit e shërbimeve të pagesave mund të përdorin emra brendesh për të përcaktuar shërbimet e tyre në informacionin e tyre kontraktual, komercial dhe të marketingut për përdoruesit e shërbimeve të pagesave, me kusht që ata të identifikojnë qartë, aty ku është e zbatueshme, termat përkatëse të standardizuara të përcaktuara në listën e përmendur në paragrafin 4 të Nenit 102 të këtij Ligji.

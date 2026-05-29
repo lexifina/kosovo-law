@@ -1,0 +1,5 @@
+# Neni 51
+Informacioni i përgjithshëm paraprak
+1. Para se përdoruesi i shërbimeve të pagesave të lidh kontratën kornizë ose të zotohet përmes një oferte, në kohë të mjaftueshme do t’i ofroj përdoruesit të shërbimeve të pagesave informacionin dhe kushtet e përcaktuara në Nenin 52 të këtij Ligji, në letër ose në një formë tjetër të qëndrueshme komunikimi. Informacioni dhe kushtet duhet të shprehen me fjalë lehtësisht të kuptueshme dhe në formë të qartë dhe të kuptueshme, në një nga gjuhët zyrtare të Republikës së Kosovës ose në ndonjë gjuhë tjetër të pranuar shprehimisht ndërmjet palëve.
+2. Nëse kontrata kornizë është lidhur me kërkesën e përdoruesit të shërbimit të pagesave, duke përdorur një mjet të komunikimit në distancë, që nuk i lejon ofruesit të shërbimit të pagesave pajtueshmërinë me paragrafin 1 të këtij Neni, ofruesi i shërbimit të pagesave përmbush detyrimet e tij, sipas paragrafit 1 të këtij Neni, menjëherë pas lidhjes së kontratës kornizë.
+3. Detyrimet sipas paragrafit 1 të këtij Neni mund të përmbushen duke ofruar një kopje të draft-kontratës kornizë duke përfshirë informacionin dhe kushtet e specifikuara në Nenin 52 të këtij Ligji.

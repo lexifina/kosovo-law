@@ -1,0 +1,5 @@
+# Article 51
+Prior general information
+1.The payment service provider shall, require that, in good time before the payment service user is bound by any framework contract or offer, provide the payment service user on paper or on another durable medium with the information and conditions specified in Article 52 of this Law. The information and conditions shall be given in easily understandable words and in a clear and comprehensible form, in one of the official languages of the Republic of Kosovo or in any other language expressly agreed between the parties.
+2. If the framework contract has been concluded at the request of the payment service user using a means of distance communication which does not enable the payment service provider to comply with paragraph 1 of this Article, the payment service provider shall fulfil its obligations under paragraph 1 of this Article immediately after conclusion of the framework contract.
+3. The obligations under paragraph 1 of this Article, may also be discharged by providing a copy of the draft framework contract including the information and conditions specified in Article 52 of this Law.
