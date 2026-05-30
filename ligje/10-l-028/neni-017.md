@@ -1,0 +1,17 @@
+# Neni 17
+Zbatimi i pakos së përfitimit të kujdesit shëndetësor
+1. Pakoja e përfitimit të shërbimeve shëndetësore ofrohet nga institucionet shëndetësore me të cilat Fondi ka marrëdhënie kontraktuale në fuqi.
+2. Përveç rasteve emergjente dhe urgjente, mbulueshmëria financiare nga Fondi për çdo përdorim të zakonshëm të ofrimit të shërbimit shëndetësor përtej nivelit të kujdesit parësor shëndetësor kushtëzohet me respektimin e sistemit të referimit.
+3. Programet parandaluese si dhe shërbimet e vizitat mjekësore sistematike e periodike, janë pjesë e pakos së përfitimit të shërbimeve shëndetësore dhe rregullimeve të nenit 12 të këtij ligji.
+4. Për krijimin e skemës së programeve parandaluese nga paragrafi 3 i këtij neni Ministri i Shëndetësisë emëron një komision teknik që harton listën e tyre.
+5. Për krijimin e skemës përfituese të barnave dhe të pajisjeve medicinale për pacient jashtë- spitalor, komiteti teknik harton Listën e rimbursueshme të barnave dhe të pajisjeve medicinale, aprovohet me akt nënligjor të nxjerrë nga Ministria përgjegjëse për shëndetësi.
+6. Lista e rimbursueshme e barnave dhe pajisjeve medicinale nga paragrafi 5 i këtij neni përfshin barnat dhe pajisjet medicinale, të cilat janë të disponueshme me recetë sipas Ligjit përkatës për Shëndetësi, përcaktohet nga Ministria e Shëndetësisë.
+7. Ministri i Shëndetësisë emëron Komisionin teknik përgjegjës për Listën e barnave dhe pajisjeve medicinale të rimbursueshme.
+8. Përshkrimi i barnave të përfshira në Listën e rimbursueshme të barnave dhe materialeve shpenzuese nga paragrafi 5 i këtij neni ka përdorim ekskluziv të emrave gjenerik për identifikimin e përbërësve aktiv të një bari, së bashku me dozën e përshtatshme dhe të disponueshme, si dhe si orarin dhe periudhën e marrjes së barnave.
+9. Përjashtim nga paragrafi 8 të këtij neni bëjnë produktet farmaceutike të përbëra dhe barnave të veçanta për sëmundjet komplekse dhe kronike, që mund të përshkruhen me emrin e markës së patentuar, për rimbursimin e të cilave kërkohet autorizimi paraprak nga Fondi.
+10. Përveç rasteve kur mjeku i autorizuar, sipas paragrafit 6 të këtij neni që përshkruan një bar, në mënyrë specifike udhëzon ndryshe, farmacisti që shpërndan barin ose produktin medikamentoz, mund të zgjedhë dhe të dispenzojë një produkt farmaceutik të zëvendësueshëm me kosto më të ulët.
+11. Barnat nga lista e rimbursueshme e barnave dhe pajisjeve mjekësore i ofrohen të siguruarit pa pagesë.
+12. Gjatë vizitave spitalore në spital, barërat dhe materialet shpenzuese përfshihen në pagesën për spital.
+13. Në raste të jashtëzakonshme, në bazë të rekomandimeve nga mjeku specialist, Fondi i sigurimit të detyrueshëm të kujdesit shëndetësor, në bazë të propozimit nga Komisioni Teknik, mund të lejojë përjashtim nga Lista e Barnave dhe pajisjeve medicinale të rimbursueshme si dhe nga kushtet e bashkë pagesës të përcaktuara në të, pa cenuar dispozitat e këtij neni dhe nenit 12 të këtij ligji lidhur me bashkë pagesat dhe përjashtimet prej tyre.
+14. Institucionet e kujdesit shëndetësor të kontraktuara nga Fondi duhet të zbatojnë mekanizmat e tyre të ankesave, sipas nenit 15 të këtij Ligji, prej të cilave, ankesat në lidhje me sigurimin shëndetësor të detyrueshëm do t'i dërgohen Komisionit të Fondit për Ankesa për komente ose përgjigje, brenda afateve të përcaktuara kohore.
+15. Kontraktimi i shërbimeve nga neni 24, paragrafi 5 i këtij Ligji, fillon në datën e përcaktuar me akt nënligjor të nxjerrë nga Ministria përgjegjëse për shëndetësi.

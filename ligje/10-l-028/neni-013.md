@@ -1,0 +1,8 @@
+# Neni 13
+Regjistrimi i të siguruarve dhe përfituesve dhe punëdhënësve për qëllim të sigurimit
+shëndetësor
+1. Të gjithë të siguruarit aktiv dhe joaktiv si dhe të gjithë punëdhënësit dhe përfituesit tjerë të shërbimeve të Fondit të sigurimit të detyrueshëm të kujdesit shëndetësor, regjistrohen në sistemin informativ të sigurimit të kujdesit shëndetësor në kuptimin e nenit 3, nën paragrafi 1.43. të këtij ligji, që përfaqëson regjistrin e vetëm të sigurimeve shëndetësore.
+2. Fondi përcakton përmbajtjen, qasjen e të dhënave dhe procedurat e përpunimit të të dhënave individuale të të siguruarve, përfituesve dhe punëdhënësve të ruajtura në regjistrin e sigurimeve shëndetësore, në akt normativ, në pajtim me legjislacionin në fuqi për mbrojtjen e të dhënave personale.
+3. Fondi është pronar i regjistrit të sigurimit shëndetësor.
+4. Fondi i sigurimit të detyrueshëm të kujdesit shëndetësor nuk duhet të ndajë informacione personale të mbledhura nga të siguruarit dhe punëdhënësit me asnjë organizatë ose autoritet tjetër, përveç për qëllime të verifikimit të të dhënave të aplikimit, zbulimit të mashtrimit dhe korrupsionit. Për këto qëllime, informacionet mund të ndahet me organe të tjera publike të bazuara në statut, në përputhje me legjislacionin në fuqi për mbrojtjen e të dhënave personale.
+5. Përjashtimisht dispozitave në paragrafin 4. të këtij neni, regjistri i sigurimit të kujdesit shëndetësor përditësohet në bashkëpunim dhe me anë të shkëmbimit dhe pajtimit elektronik të të dhënave me ARC-në, ATK-në, Bankën Qendrore të Kosovës, Ministrinë përgjegjëse për financa, punë dhe mirëqenie sociale, Agjencinë e Punësimit të Republikës së Kosovës, në pajtim me legjislacionin në fuqi për mbrojtjen e të dhënave personale.

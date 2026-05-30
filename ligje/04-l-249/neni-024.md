@@ -1,4 +1,0 @@
-# Neni 24
-Fondi Rezervë dhe Obligimet e Pagesave
-1. Fondi krijon rezervën financiare në Bankën Qendrore të Kosovës që duhet të mirëmbahet në çdo kohë. Rregullat për kalkulimin dhe shfrytëzimin e kësaj rezerve do të specifikohen në Rregulloren për Menaxhimin Financiar të Fondit.
-2. Në rastet kur mesatarja e rezervës financiare gjatë gjashtëdhjetë (60) ditëve paraprake është në nivel më të ulët se sa ajo e përcaktuar me Rregulloren për Menaxhimin Financiar të Fondit, ose në rastet kur obligimet e papaguara të Fondit e tejkalojnë këtë nivel, ose në të dyja rastet, atëherë çmimet e shërbimeve shëndetësore, dhe/ose nivelet e bashkë-financimit, do të përshtaten përderisa rezerva të arrij nivelin adekuat. Në pajtim me nenin 22 paragrafi 3. i këtij ligji Fondi mundet po ashtu të kërkojë përshtatjen e niveleve të premiumit.

@@ -1,0 +1,8 @@
+## CHAPTER VIII
+## TRANSITIONAL AND FINAL PROVISIONS
+# Article 35
+Transitional Provisions
+1. The package of benefits covered by the compulsory healthcare insurance referred to in Article 16 of this Law can be phased in a maximum period of five (5) years. The benefit package of the first and initial phase shall include as a minimum the healthcare services at the level of primary health care from Article 16, sub-paragraph 2.1 of this Law, and, if the provisions of Article 17, paragraph 13. of this Law are fulfilled, also the scheme of reimbursement of medicines and consumables for out-of-hospital patients referred to in Article 17, paragraph 4. of this Law.
+2. The contributions payable for the compulsory healthcare insurance from each insurance group referred to in Article 9 of this Law shall be calculated and the rates shall be determined for each introductory phase of the benefit package referred to in paragraph 1. of this Article for thirty-six (36) months, in accordance with Article 21 of this Law and shall be approved by the Government and the Assembly according to Article 21 paragraph 6. of this Law. During the first five (5) years of operation, the rates of contributions may differ from those defined in Article 22 of this Law.
+3. Exceptionally from Article 23, paragraph 1. and in accordance with Article 21, paragraph 6. of this Law, for the first five (5) years of operation, the value of the financial reserve of the Fund at the end of the next fiscal year can be determined separately.
+4. The Ministry responsible for health and the Ministry responsible for finance shall prepare general acts, infrastructure and human resources.

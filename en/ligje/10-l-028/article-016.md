@@ -1,0 +1,9 @@
+## CHAPTER III
+## BENEFIT PACKAGE
+# Article 16
+Healthcare services
+1. For healthcare services that are covered by the Fund and the arrangements defined in Article 12 of this law, the Ministry of Health shall draft a sub-legal act that shall be approved by the Government.
+2. Healthcare services are defined in the Law on Health as medical practices, professional practices of healthcare professionals, healthcare measures, or rights of persons in the protection of healthcare, the provision or description of which is defined in primary healthcare, specialized out-of-hospital, secondary and tertiary healthcare, as well as specialist hospital, secondary and tertiary healthcare, including emergency healthcare.
+3. Exceptionally from paragraph 2. of this Article, the compulsory healthcare insurance may cover the expenses for medical treatment outside the health institutions contracted by the Fund, inside the country and abroad, if such treatment proves to be necessary to avoid serious damage of the insured person's health, in accordance with the procedure determined by the Ministry responsible for Health, based on the proposal of the Fund's Management Board, for which the details shall be specified through a sub-legal act issued by the Minister responsible for Health.
+4. The benefit package covered by the Fund and all subsequent proposals for adjustments shall be drawn up by a technical commission, further specified in Article 29, paragraph 13. of this Law, based on the policies of the Ministry responsible for Health and on the principles of clinical effectiveness, quality, safety and cost-effectiveness in the application of relevant service guidelines and protocols as well as standards for the evaluation of health technologies.
+5. Healthcare benefits shall be provided from the first day of membership, without prejudice to the provisions of Article 12, paragraph 2., and Article 10, paragraphs 5. to 9. of this Law.

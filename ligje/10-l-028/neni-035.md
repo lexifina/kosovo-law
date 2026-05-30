@@ -1,0 +1,8 @@
+## KAPITULLI VIII
+## DISPOZITAT KALIMTARE DHE PËRFUNDIMTARE
+# Neni 35
+Dispozitat Kalimtare
+1. Pakoja e benefiteve të mbuluara nga sigurimi i kujdesit shëndetësor të detyrueshëm nga neni 16 i këtij ligji mund të jetë me faza në një periudhë maksimale prej pesë (5) vjetësh. Pakoja e përfitimeve të fazës së parë dhe fillestare do të përfshijë si minimum shërbimet e kujdesit shëndetësor në nivelin e kujdesit shëndetësor parësor nga neni 16, nën paragrafi 2.1. të këtij ligji, dhe, nëse përmbushen dispozitat e nenit 17, paragrafi 13 të këtij ligji, gjithashtu dhe skemën e rimbursimit të barnave dhe materialeve shpenzuese për pacientë jashtë- spitalor nga neni 17, paragrafi 4 i këtij Ligji.
+2. Kontributet e pagueshme për sigurimin e detyrueshëm të kujdesit shëndetësor nga secili grup sigurimesh nga neni 9 i këtij ligji llogariten dhe shkallët përcaktohen për secilën fazë hyrëse të pakos së përfitimeve nga paragrafi 1 i këtij neni për tridhjetë e gjashtë (36) muaj, në pajtim me nenin 21 të këtij ligji dhe miratohen nga Qeveria dhe Kuvendi sipas nenit 21 paragrafi 6 të këtij ligji. Gjatë pesë (5) viteve të para të funksionimit, shkallët e kontributeve mund të ndryshojnë nga ato të përcaktuara në nenin 22 të këtij ligji.
+3. Përjashtimisht nga neni 23, paragrafi 1 dhe në pajtim me nenin 21, paragrafi 6 të këtij ligji, për pesë (5) vitet e para të operimit, vlera e rezervës financiare të Fondit në fund të vitit të ardhshëm fiskal mund të përcaktohen ndarazi.
+4. Ministria përgjegjëse për shëndetësi dhe Ministria përgjegjëse për financa përgatisin aktet e përgjithshme, infrastrukturën dhe burimet njerëzore.

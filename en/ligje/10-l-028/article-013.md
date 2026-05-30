@@ -1,0 +1,8 @@
+# Article 13
+Registration of insured and beneficiaries and employers for the purpose of health
+insurance
+1. All active and inactive insured persons, as well as all employers and other beneficiaries of the services of the Compulsory Health Care Insurance Fund, are registered in the health care insurance information system in the sense of Article 3, sub-paragraph 1.43. of this Law, which represents the register of only health insurance.
+2. The fund determines the content, data access and processing procedures of individual data of the insured, beneficiaries and employers stored in the health insurance register, in a normative act, in accordance with the legislation in force for the protection of personal data.
+3. The fund is the owner of the health insurance register.
+4. The mandatory health care insurance fund must not share personal information collected from insured persons and employers with any other organization or authority, except for the purposes of verifying application data, detecting fraud and corruption. For these purposes, the information may be shared with other public bodies based on the statute, in accordance with the legislation in force for the protection of personal data.
+5. Except for the provisions in paragraph 4. of this Article, the health care insurance register is updated in cooperation and by means of electronic data exchange and reconciliation with the ARC, TAK, the Central Bank of Kosovo, the Ministry responsible for finance, labour and social welfare, the Employment Agency of the Republic of Kosovo, in accordance with the legislation in force for the protection of personal data.
