@@ -1,0 +1,4 @@
+# Article 26
+Transitional provisions
+1. Sub-legal acts issued pursuant to Law no. 05/L-018, dated January 8th, 2016, will remain in force even after the entry into force of this Law. If such sub-legal acts are contrary to the content of this Law, they will be amended by the Ministry within two (2) months from the entry into force of this Law. The Ministry must ensure that within a period of six (6) months from the entry into force of this Law, all the sub-legal acts provided for will be approved, while those issued before the entry into force of this Law will be supplemented-amended or repealed according to need.
+2. The decisions regarding the appointment of the structures responsible for the Matura exam, undertaken in accordance with Law no. 05/L-018, dated January 8th, 2016, will continue to remain in force according to the terms provided therein, unless the Ministry decides otherwise.

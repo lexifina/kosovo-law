@@ -1,0 +1,4 @@
+# Neni 26
+Dispozitat kalimtare
+1. Aktet nënligjore të nxjerra në zbatim të Ligjit nr.05/L-018, të datës 8 janar 2016, do të mbesin në fuqi edhe pas hyrjes në fuqi të këtij Ligji. Nëse aktet e tilla nënligjore janë në kundërshtim me përmbajtjen e këtij Ligji, ato do të ndryshohen nga Ministria në afatin dy (2) mujor nga hyrja në fuqi e këtij Ligji. Ministria duhet të sigurojë që në afatin prej gjashtë (6) muajsh nga hyrja në fuqi e këtij Ligji të gjitha aktet nënligjore të parashikuara do të miratohen, ndërsa ato që janë nxjerrë para hyrjes së këtij Ligji në fuqi do të plotësohen-ndryshohen ose shfuqizohen sipas nevojës.
+2. Vendimet në lidhje me emërimin e strukturave përgjegjëse për provimin e maturës, të ndërmarra në kuptim të Ligjit nr.05/L-018, të datës 8 janar 2016, do të vazhdojnë të mbesin në fuqi sipas afateve të parashikuara në to, përveç nëse Ministria vendosë ndryshe.
