@@ -1,0 +1,8 @@
+LIGJI NR. 10/L-036
+PËR RATIFIKIMIN E MARRËVESHJES PËR TREGTI TË LIRË NDËRMJET REPUBLIKËS
+SË KOSOVËS DHE SHTETEVE TË EFTA-s
+Kuvendi i Republikës së Kosovës;
+Në mbështetje të neneve 18 dhe 65 (1) të Kushtetutës së Republikës së Kosovës,
+Miraton:
+LIGJ PËR RATIFIKIMIN E MARRËVESHJES PËR TREGTI TË LIRË NDËRMJET
+REPUBLIKËS SË KOSOVËS DHE SHTETEVE TË EFTA-s
