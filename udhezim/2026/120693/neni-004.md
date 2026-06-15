@@ -1,0 +1,5 @@
+# Neni 4
+Shkëmbimi i informacioneve
+1. Pika e kontaktit sipas këtij udhëzimi administrativ është e vendosur në Inspektoratin e Qendror për Mbikëqyrjen e Tregut (IQMT) dhe është përgjegjëse për shkëmbimin e informacioneve për produktet e rrezikshme të cilat paraqesin rrezik serioz për shëndetin dhe sigurinë e konsumatorëve dhe përdoruesve të tjerë të atyre produkteve, për masat dhe veprimet e ndërmarra si dhe për masat dhe aktivitet vullnetare të prodhuesve dhe shpërndarësve.
+2. Inspektorati kompetent gjatë kryerjes së mbikëqyrjes inspektuese në treg ose pas pranimit të njoftimit nga prodhuesit, shpërndarësit apo Dogana e Kosovës, konstatojnë se produkti mund të jetë i rrezikshëm, përveç masave të cilat i ndërmerr në pajtim me dispozitat e Ligjit Nr.08/L-172 për sigurinë e përgjithshme të produkteve, menjëherë i dorëzon pikës së kontaktit njoftimin për produktin e tillë.
+3. Forma e njoftimit zyrtar të pranuar për produktin i cili konsiderohet i rrezikshëm, është përcaktuar në Shtojcë, (Formulari, F-2).
