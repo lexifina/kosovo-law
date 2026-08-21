@@ -1,0 +1,51 @@
+LIGJI NR. 03/L-006 PËR PROCEDURËN KONTESTIMORE
+Neni 211
+(pa titull)
+“[...] 211.1 Kundër aktgjykimit të gjykatës së shkallës së dytë, palët mund të paraqesin revizion brenda afatit prej tridhjetë (30) ditësh nga dita në të cilën u është dorëzuar aktgjykimi.
+LIGJI NR. 04/L-118 PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJIT NR. 03/L-006 PËR PROCEDURËN KONTESTIMORE
+Neni 218
+(pa titull)
+1. Revizioni i paraqitur pas kohe, i palejueshëm apo jo i plotë, hudhet poshtë me aktvendim të Gjykatës së shkallës së parë pa mbajtur seancë gjyqësore.
+2. Revizioni është i palejueshëm nëse:
+[...] d) është paraqitur revizioni kundër aktgjykimit kundër të cilit sipas ligjit nuk mund të paraqitet.
+Vlerësimi i pranueshmërisë së kërkesës
+22. Gjykata së pari shqyrton nëse parashtruesit e kërkesës i kanë përmbushur kriteret e pranueshmërisë, të përcaktuara me Kushtetutë, të parashikuara me Ligj dhe të specifikuara më tej me Rregullore të punës.
+23. Në vijim, Gjykata u referohet paragrafëve 1 dhe 7 të nenit 113 [Juridiksioni dhe Palët e Autorizuara] të Kushtetutës, të cilët përcaktojnë:
+Neni 113
+[Juridiksioni dhe Palët e Autorizuara]
+“1. Gjykata Kushtetuese vendos vetëm për rastet e ngritura para gjykatës në mënyrë ligjore nga pala e autorizuar. […] 7. Individët janë të autorizuar të ngrenë shkeljet nga autoritetet publike të të drejtave dhe lirive të tyre individuale, të garantuara me Kushtetutë, mirëpo vetëm pasi të kenë shteruar të gjitha mjetet juridike të përcaktuara me ligj”. […]
+24. Gjykata gjithashtu i referohet paragrafit 4 të nenit 21 [Parimet e Përgjithshme] të Kushtetutës, i cili përcakton: “Të drejtat dhe liritë themelore të parashikuara në Kushtetutë, vlejnë edhe për personat juridikë, për aq sa janë të zbatueshme.”
+25. Gjykata më tej u referohet neneve 47 (Kërkesa individuale), 48 (Saktësimi i kërkesës) dhe 49 (Afatet) të Ligjit, të cilët përcaktojnë:
+Neni 47
+(Kërkesa individuale)
+“1. Çdo individ ka të drejtë të kërkojë nga Gjykata Kushtetuese mbrojtje juridike në rast se pretendon se të drejtat dhe liritë e tija individuale të garantuara me Kushtetutë janë shkelur nga ndonjë autoritet publik.
+2. Individi mund të ngrejë kërkesën në fjalë vetëm pasi që të ketë shteruar të gjitha mjetet juridike të përcaktuara me ligj”.
+Neni 48
+(Saktësimi i kërkesës)
+Parashtruesit e kërkesës kanë për detyrë që në kërkesën e tij të qartësoj saktësisht se cilat të drejta dhe liri pretendon se i janë cenuar dhe cili është akti konkret i autoritetit publik të cilin parashtruesi dëshiron ta kontestoj.
+Neni 49
+(Afatet)
+Kërkesa parashtrohet brenda afatit prej katër (4) muajsh. Afati fillon të ecë nga dita kur parashtruesit i është dorëzuar vendimi gjyqësor. [...]
+26. Përveç kritereve të lartcekura, Gjykata tutje i referohet edhe rregullit 34 (1) (c) (Kriteret e pranueshmërisë) të Rregullores së punës, që përcakton:
+Rregulli 34 (Kriteret e pranueshmërisë)
+“(1) Gjykata mund ta konsiderojë një kërkesë të pranueshme nëse:
+[...] (c) kërkesa parashtrohet brenda katër (4) muajsh nga dita kur vendimi i mjetit të fundit efektiv juridik i është dorëzuar parashtruesit [...]
+27. Për sa i përket përmbushjes së kritereve të lartcekura, Gjykata fillimisht thekson se parashtruesi i kërkesës është palë e autorizuar, që konteston një akt të një autoriteti publik, përkatësisht Aktvendimin [Rev. nr. 546/2025] e 16 tetorit 2025 të Gjykatës Supreme, pasi i ka shteruar të gjitha mjetet juridike të përcaktuara me ligj.
+28. Megjithatë, bazuar në nenin 49 (Afatet) të Ligjit, Gjykata në vijim duhet të vlerësojë nëse kërkesa është dorëzuar brenda afatit ligjor katër (4) mujor, të përcaktuar me nenin 49 të Ligjit dhe rregullin 34 (1) (c) të Rregullores së punës.
+29. Në këtë drejtim, Gjykata rikujton se rregulli i afatit katër (4) mujor është autonom dhe duhet interpretuar e aplikuar duke marrë për bazë rrethanat specifike të secilit rast veç e veç, me qëllim të sigurimit të ushtrimit efektiv të së drejtës për të paraqitur kërkesën para Gjykatës. Gjykata thekson se qëllimi i afatit ligjor prej katër (4) muajsh, i përcaktuar në nenin 49 të Ligjit dhe rregullin 34 (1) (c) të Rregullores së punës, i shërben sigurisë juridike, garanton që çështjet që ngrenë çështje kushtetuese të trajtohen brenda një periudhe të arsyeshme dhe parandalon autoritetet dhe personat e tjerë të afektuar që të mos mbahen në një gjendje pasigurie për një periudhë të gjatë (shih, ndër të tjera, rastet e Gjykatës: KI61/23, me parashtrues, Hedie Bylykbashi, Aktvendim për papranueshmëri i 25 majit 2023, paragrafi 33; KI24/23, me parashtrues, Sami Nuredini, Aktvendim për papranueshmëri i 27 prillit 2023, paragrafi 21; dhe rastin e GJEDNJ-së: Lekić kundër Sllovenisë, kërkesat nr. 10865/09, 45886/07 dhe 32431/08, Aktgjykim i 11 dhjetorit 2018, paragrafi 65). Ky rregull gjithashtu i jep kohë parashtruesit të mundshëm që të vendosë nëse do të paraqesë një kërkesë në Gjykatë dhe, nëse po, të përcaktojë argumentet specifike dhe rrjedhën e fakteve që do t’i paraqesë, pasi që me kalimin e kohës, bëhet i vështirë shqyrtimi i çështjeve të ngritura nga parashtruesi i kërkesës (shih rastin e Gjykatës: KI115/20, me parashtrues Muharrem Rama, Aktvendim për papranueshmëri i 3 nëntorit 2021, paragrafët 55 dhe 56; dhe rastin e GEDNJ-së, Sabri Güneş kundër Turqisë, kërkesa nr. 27396/06, Aktgjykim i 29 qershorit 2012, paragrafët 52 dhe 55).
+30. Afati katër (4) mujor fillon të rrjedhë nga dita e vendimit të fundit në kuadër të procesit të shterimit të mjeteve juridike (shih rastin e Gjykatës: KI59/18, me parashtrues Strahinja Spasić, Aktvendim për papranueshmëri i 27 mars 2019, paragrafi 51; dhe rastin e GJEDNJ-së: Chapman kundër Belgjikës, kërkesa nr.39619/06, Vendim i 5 marsit 2013, paragrafi 34). Në këtë kuptim, Gjykata thekson se kur parashtruesit i njihet e drejta për të pranuar kopjen e vendimit përfundimtar të gjykatave të rregullta, afati katër (4) mujor fillon të rrjedhë nga dita kur vendimi i mjetit të fundit efektiv juridik i është dorëzuar parashtruesit të kërkesës, pa marrë parasysh nëse vendimi i është shpallur gojarisht parashtruesit të kërkesës. Ky kriter është përcaktuar edhe përmes pikës (c) të paragrafit (1) të rregullit 34 (Kriteret e pranueshmërisë) të Rregullores së punës, që përcakton se kërkesa parashtrohet brenda katër (4) muajve nga dita kur vendimi i mjetit të fundit efektiv juridik i është dorëzuar parashtruesit të kërkesës.
+31. Në këtë kuptim, Gjykata rikujton praktikën gjyqësore të GJEDNJ-së, e cila ka theksuar se nuk kërkohet shterimi i mjeteve juridike diskrecionale ose mjeteve juridike që nuk janë drejtpërdrejt në dispozicion të parashtruesve dhe që varen nga ushtrimi i diskrecionit nga ndërmjetësi. Sipas GJEDNJ-së, shterimi i mjeteve juridike dhe periudha katër (4) mujore janë të ndërlidhura ngushtë. Gjykata bazuar në praktikën gjyqësore të GJEDNJ-së, më tej thekson se afati katër (4) mujor fillon të rrjedhë nga dita kur parashtruesi ka pranuar vendimin e mjetit të fundit efektiv juridik (shih, ndër tjerash, rastet e Gjykatës: KI143/19, parashtrues Agim Thaqi, Aktvendim për papranueshmëri i 16 janarit 2020, paragrafi 42; dhe KI111/22, me parashtrues Bechtel Enka GP.O.P, Aktvendim për papranueshmëri i 25 janarit 2023, paragrafi 44; dhe rastin e GJEDNJ-së, Williams kundër Mbretërisë së Bashkuar, kërkesa nr. 32567/06, Vendim i 17 shkurtit 2009).
+32. Gjykata vëren se, në rrethanat e rastit konkret, procedura ndaj parashtruesit të kërkesës, e zhvilluar pranë gjykatave të rregullta në lidhje me meritat e rastit, kishte përfunduar me Aktgjykimin [C.nr.166/2020] e 4 prillit 2024 të Gjykatës Themelore. Pas pranimit të këtij të fundit, parashtruesi i kërkesës ka përdorur mjetin juridik të jashtëzakonshëm, i cili nuk ka qenë i lejuar me ligj, përkatësisht me nenin 211. 1 të LPK- së, që përcakton “211.1 Kundër aktgjykimit të gjykatës së shkallës së dytë, palët mund të paraqesin revizion brenda afatit prej tridhjetë (30) ditësh nga dita në të cilën u është dorëzuar aktgjykimi.”
+33. Në lidhje me këtë, Gjykata vë në dukje se, përmes Aktvendimit [Rev. nr. 546/2025] të 16 tetorit 2025, Gjykata Supreme, bazuar në nenet 211.1, 218.1 dhe 2 pika d) të LPK-së, e ka hedhur poshtë kërkesën për revizion si të palejuar, duke mos e trajtuar atë në merita.
+34. Gjykata tutje shton se, në rastin e parashtruesit të kërkesës, pas pranimit të Aktgjykimit të Gjykatës Themelore, asgjë nuk e ka ndaluar atë t’i drejtohet me ankesë Gjykatës së Apelit. Megjithatë, meqenëse i njëjti ka përdorur mjetin e jashtëzakonshëm juridik kundër Aktgjykimi të lartcekur, mjet ky i cili nuk ka qenë i paraparë me ligjin e aplikueshëm, Gjykata e trajton kërkesën në kuptim të rregullit 34 (1) (c).
+35. Rrjedhimisht, bazuar në nenin 49 të Ligjit dhe rregullin 34 (1) (c) të Rregullores së Punës, “vendimi i mjetit të fundit efektiv juridik”, në rrethanat e këtij rasti, është Aktgjykimi [C.nr.166/2020] i 4 prillit 2024 i Gjykatës Themelore, nga pranimi i të cilit kanë kaluar më tepër se katër (4) muaj, që do të thotë se kërkesa e parashtruesit të kërkesës është dorëzuar jashtë afatit të përcaktuar ligjor. Për më tepër, Gjykata konsideron se edhe po të ishte dorëzuar kërkesa brenda afatit ligjor, e njëjta sërish do të shpallej e papranueshme, në pajtim me rregullin 34 (1) (b), për shkak të mos shterimit të mjeteve juridike të përcaktuara me dispozitat e LPK-së.
+36. Si përfundim, nga arsyet e shtjelluara më sipër, Gjykata konstaton se kërkesa nuk është dorëzuar brenda afatit ligjor të përcaktuar me nenin 49 të Ligjit dhe rregullin 34 (1) (c) të Rregullores së punës dhe rrjedhimisht, Gjykata nuk mund t’i shqyrtojë meritat e rastit, përkatësisht, nëse, përmes Aktgjykimit/Aktvendimit/Vendimit të kontestuar, janë shkelur të drejtat kushtetuese të parashtruesit të kërkesës.
+PËR KËTO ARSYE
+Gjykata Kushtetuese, në pajtim me paragrafët 1 dhe 7 të nenin 113 të Kushtetutës, me nenet 20 dhe 49 të Ligjit, si dhe në pajtim me rregullat 34 (1) (c) dhe 48 (1) (b) të Rregullores së punës, më 21 korrik 2026, njëzëri:
+VENDOS
+I. TA DEKLAROJË kërkesën të papranueshme;
+II. T'UA KUMTOJË këtë Aktvendim palëve;
+III. TA PUBLIKOJË këtë Aktvendim në Gazetën Zyrtare, në pajtim me nenin 20.4 të Ligjit;
+IV. Ky Aktvendim hyn në fuqi menjëherë.
+Gjyqtari raportues Kryetari i Gjykatës Kushtetuese
+Radomir Laban Nexhmi Rexhepi
