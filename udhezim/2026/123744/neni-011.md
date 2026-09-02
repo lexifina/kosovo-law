@@ -1,0 +1,6 @@
+# Neni 11
+Marrja dhe përdorimi i informatave për vendin e origjinës
+1. Para dhe pas zhvillimit të intervistës merren informata për vendin e origjinës, përmes të cilave vendimmarrësit në procesin e përcaktimit të statusit të mbrojtjes njoftohen për situatën politike, sociale, kulturore dhe ekonomike, situatën e të drejtave të njeriut, si dhe legjislacionin e aplikueshëm në vendin e origjinës së personave të cilët kërkojnë mbrojtje ndërkombëtare. Informatat për vendin e origjinës duhet të mblidhen nga burime të besueshme, të jenë të përditësuara, të sakta dhe relevante për rastin që shqyrtohet.
+2. Zyrtarët e përfshirë në procesin e përcaktimit të statusit të mbrojtjes, sipas paragrafit 1 të këtij neni, në asnjë rrethanë nuk duhet të:
+2.1. të përhapin drejtpërdrejt informacione te akterët e pretenduar të persekutimit ndaj aplikuesit, lidhur me aplikimin individual për mbrojtje ose me faktin se është parashtruar një aplikim;
+2.2. të sigurojnë informacione nga akterët e pretenduar të persekutimit ose nga akterët që kanë shkaktuar lëndime serioze, në mënyrë që këta akterë të informohen drejtpërdrejt për faktin se aplikuesi ka parashtruar një aplikacion, duke rrezikuar kështu integritetin fizik të aplikuesit dhe të vartësve të tij/saj, ose lirinë dhe sigurinë e anëtarëve të familjes së tij/saj që ende jetojnë në shtetin e origjinës.
