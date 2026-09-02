@@ -1,0 +1,10 @@
+# Neni 3
+Paraqitja e aplikacionit për mbrojtje ndërkombëtare
+1. Aplikuesi do ta bëjë aplikimin për mbrojtje ndërkombëtare në Policinë e Kosovës, në një pikë të kalimit kufitar, në një stacion policor ose në Qendrën e Akomodimit për Azilkërkues.
+2. Në rastet kur aplikuesi objektivisht nuk ka mundësi të paraqitet tek organet kompetente sipas paragrafit 1 të këtij neni atëherë, DMH do ta zhvilloj procedurën fillestare tek lokacioni ku aplikuesi është i vendosur.
+3. Në momentin e aplikimit, aplikuesi njoftohet dhe pajiset me udhëzuesin i cili duhet të jetë në gjuhën të cilën e kupton, ose në mënyrë të arsyeshme supozohet se e kupton, për të drejtat dhe detyrimet në procedurë për personat të cilët aplikojnë për mbrojtje në Republikën e Kosovës. Informacioni mund të jepet edhe verbalisht.
+4. Pas aplikimit, aplikuesi drejtohet në DMH, ose në Qendrën e Akomodimit për Azilkërkues me qëllim të regjistrimit të tij, marrjes së gjurmëve të gishtërinjve nga DMH, marrjes së fotografisë, plotësimit të formularit fillestar të përzgjedhjes për mbrojtje ndërkombëtare, sipas shtojcës 1 të këtij Udhëzimi Administrativ dhe verifikimit në bazën e të dhënave në dispozicion nga ana e Policisë së Kosovës.
+5. Rezultatet e verifikimit sipas paragrafit 4 të këtij neni do ti dërgohen Divizionit për Azil në një afat të arsyeshëm.
+6. Në rastet kur aplikuesi është fëmijë i pashoqëruar, do të plotësohet formulari i regjistrimit për fëmijë të pashoqëruar, (shih shtojcën 2 të këtij Udhëzimi Administrativ).
+7. Me qëllim të plotësimit të formularit, DMH ose Qendra e Akomodimit për Azilkërkues thërret përkthyesin në njërën nga gjuhët të cilën e kupton aplikuesi, nga lista e përkthyesëve zyrtarë, apo të kontraktuar të MPB-së apo të ofruar nga organizatat që ofrojn ndihmë aplikuesëve. Përkthyesi nënshkruan deklaratën për mungesë konflikti interesi dhe ruajtjes së sekretit profesional.
+8. Në momentin e plotësimit të formularit fillestar, aplikuesi dorëzon të gjitha gjësendet, duke përfshirë dëshmitë dhe dokumentet e identitetit që ka në përdorim. DMH ose Qendra e Akomodimit për Azilkërkues e pajis me një vërtetim lidhur me të gjitha dokumentet e dorëzuara.
