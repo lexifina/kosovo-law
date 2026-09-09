@@ -1,0 +1,5 @@
+# Neni 6
+Identifikimi i nevojave për rekrutim
+1. Identifikimi i nevojave për rekrutim realizohet përmes planifikimit të punësuarve, i cili hartohet në bazë të kërkesave dhe vlerësimeve aktuale të numrit të punësuarve, si dhe parashikimit të nevojave të ardhshme për rritjen e numrit të punonjësve, si pasojë e rritjes së volumit të punës, ndryshimeve organizative apo krijimit të funksioneve të reja në Doganën e Kosovës.
+2. Në bazë të planifikimit dhe nevojave të identifikuara sipas paragrafit 1 të këtij neni, kërkesa për rekrutim përmban arsyetimin për punësim, përshkrimin e përgjegjësive kryesore, si dhe kualifikimet e përgjithshme dhe/ose të veçanta të nevojshme për pozitën përkatëse. Kërkesa paraqitet nga drejtori i drejtorisë ose departamentit përkatës tek DBNj, për shqyrtim dhe veprim të mëtejmë.
+3. Kërkesa për rekrutim, pas shqyrtimit nga DBNj-ja, i përcillet Drejtorit të Përgjithshëm për miratim në kuadër të Planit të Rekrutimit, me miratimin paraprak të departamentit përgjegjës për financa, me qëllim sigurimin e përputhshmërisë së punësimit me buxhetin e miratuar.

@@ -1,0 +1,5 @@
+# Neni 130
+Ruajtja e dosjeve individuale
+1. Dosja elektronike dhe fizike e të punësuarve, ruhet gjatë gjithë periudhës së punësimit. Dosja duhet të përditësohet, të rishikohet dhe të rivlerësohet rregullisht në përputhje me qëllimet për të cilat mbahen të dhënat. Masat disiplinore të shqiptuara ndaj të punësuarit, duhet të fshihen nga dosja pas kalimit të afatit të paraparë për masën përkatëse në përputhje me nenin 337 dhe 338 të Kodit.
+2. Pas përfundimit të marrëdhënies së punës, dosja personale fizike dhe elektronike e të punësuarit ruhet për një kohëzgjatje prej gjashtë (6) viteve nga data e përfundimit të marrëdhënies së punës. Pas kalimit të periudhës gjashtë (6) vjeçare, Dogana e Kosovës ruan vetëm të dhënat rreth kohëzgjatjes së angazhimit të punësuarit dhe funksioneve që ka ushtruar.
+3. Dosja e kandidatëve në procedura të rekrutimit të cilat nuk janë shpallur kandidatë fitues, ruhen në sistemin elektronik të BNj-së në kohëzgjatje prej dymbëdhjetë (12) muaj nga data e aplikimit.

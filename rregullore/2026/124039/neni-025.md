@@ -1,0 +1,9 @@
+# Neni 25
+Mbajtja dhe vlerësimi i testimit të aftësive fizike për oficer doganor
+1. Testimi i aftësive fizike për oficer doganor organizohet dhe administrohet nga Komisioni i Pranimit, në bashkëpunim me DBNj, në përputhje me standardet dhe praktikat e zbatuara në vend, të përshtatura për nevojat e Doganës së Kosovës.
+2. Gjatë procesit të testimit të shkathtësive fizike përveç Komisionit të pranishëm duhet të jenë edhe personeli mjekësor nga institucion i licencuar, i cili para se kandidati t’i nënshtrohet testimit të aftësive fizike, në praninë e Komisionit do ta pyesë kandidatin për gjendjen e tij shëndetësore dhe nëse është i gatshëm t’i nënshtrohet këtij testi.
+3. Nëse kandidati deklaron se është në gjendje të mirë shëndetësore dhe është i gatshëm t’i nënshtrohet testit të aftësive fizike, nga ai do të kërkohet që ta plotësojë dhe nënshkruajë formularin i cili është pjesë e kësaj Rregulloreje mbi lirimin nga përgjegjësia dhe dëmshpërblimi, nëse kandidatit gjatë këtij procesi i shkaktohet ndonjë problem shëndetësor apo lëndim fizik.
+4. Kandidati i cili nuk paraqitet në ditën dhe kohën e caktuar të testimit konsiderohet se ka hequr dorë nga pjesëmarrja dhe eliminohet nga procesi i rekrutimit, përveç rasteve të arsyeshme që mbështeten me dokumentacion përkatës ose raste tjera të jashtëzakonshme, të cilat vlerësohen nga Komisioni.
+5. Pas përfundimit të testimit, rezultatet regjistrohen në procesverbal zyrtar, i cili nënshkruhet nga anëtarët e Komisionit dhe përfaqësuesit e DBNj, dhe bëhet pjesë e dosjes së konkurrimit.
+6. Rezultati i testimit të aftësive fizike është vetëm “kalon” ose “nuk kalon”. Kandidatët që nuk kalojnë eliminohen nga procesi i rekrutimit me vendim nga Komisioni.
+7. Rezultatet e testimit të aftësive fizike publikohen nga BNj në faqen zyrtare të Doganës së Kosovës jo më vonë se pesë (5) ditë pune nga data e përfundimit të testimit.
