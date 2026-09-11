@@ -1,0 +1,14 @@
+1 / 12
+REPUBLIKA E KOSOVËS – PRESIDENTJA
+REPUBLIC OF KOSOVO – THE PRESIDENT
+REPUBLIKA KOSOVO – PREDSEDNICA
+RREGULLORE (P) NR. 01/2026 PËR REALIZIMIN E TRANZICIONIT ADMINISTRATIV TË MANDATIT TË
+PRESIDENTIT TË REPUBLIKËS SË KOSOVËS
+Prishtinë, 04 shtator 2026
+2 / 12
+REPUBLIKA E KOSOVËS – PRESIDENTJA
+REPUBLIC OF KOSOVO – THE PRESIDENT
+REPUBLIKA KOSOVO – PREDSEDNICA
+U.d. Presidentja e Republikës së Kosovës, Në mbështetje të nenit 84 dhe nenit 90 të Kushtetutës së Republikës së Kosovës, nenit 6 të Ligjit Nr. 03/L-094, për Presidentin e Republikës së Kosovës (GZ, Nr. 47, 25 janar 2009), dhe nenit 4 (4) të Rregullores (P) Nr. 02/2022 për Organizimin dhe Funksionimin e Presidencës (30.12.2022), Miraton:
+RREGULLORE (P) NR. 01/2026 PËR REALIZIMIN E TRANZICIONIT ADMINISTRATIV TË MANDATIT TË PRESIDENTIT TË REPUBLIKËS SË
+KOSOVËS
