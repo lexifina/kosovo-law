@@ -1,0 +1,15 @@
+# Neni 15
+Fusha e përgjegjësisë administrative e Ministrisë së Sportit dhe Rinisë (MSR)
+1. Ministria e Sportit dhe Rinisë ka përgjegjësitë si në vijim:
+1.1. Harton dhe propozon politikat publike, projektligjet, aktet nënligjore, koncept dokumentet, vlerësimet ex-post të legjislacionit, dokumentet strategjike, standardet dhe raportet në fushën e sportit, aktivitetit fizik dhe rinisë, si dhe monitoron zbatimin e tyre, në pajtim me legjislacionin në fuqi;
+1.2. Harton, koordinon dhe monitoron politikat për zhvillimin dhe fuqizimin e rinisë, përfshirë pjesëmarrjen e të rinjve në vendimmarrje dhe jetën publike, punën rinore dhe edukimin joformal, vullnetarizmin, punësueshmërinë, mirëqenien, hapësirat, qendrat dhe shërbimet rinore, si dhe mbështet organizatat dhe mekanizmat përfaqësues të të rinjve;
+1.3. Harton, koordinon dhe monitoron politikat për zhvillimin e sportit dhe aktivitetit fizik, përfshirë sportin e organizuar, sportin për të gjithë dhe sportin e performancës së lartë, mbështetjen e sportistëve, profesionistëve dhe organizatave sportive, zhvillimin e infrastrukturës sportive, si dhe pjesëmarrjen dhe organizimin e aktiviteteve dhe garave sportive vendore dhe ndërkombëtare;
+1.4. Zhvillon dhe koordinon politikat për qeverisjen e mirë, integritetin dhe sigurinë në sport, përfshirë mbrojtjen dhe mirëqenien e sportistëve, parandalimin dhe luftimin e dopingut, dhunës, manipulimit të garave sportive dhe dukurive të tjera negative në sport, në bashkëpunim me institucionet dhe organizatat përkatëse dhe duke respektuar pavarësinë funksionale, operative dhe vendimmarrëse të organeve kompetente të përcaktuara me ligj;
+1.5. Përmes Agjencisë së Sportit, në pajtim me legjislacionin në fuqi, promovon dhe zhvillon sportin dhe aktivitetin fizik, monitoron zbatimin e dokumenteve strategjike në fushën e sportit,
+20 /37
+administron Regjistrin Shtetëror të Sportit dhe të dhënat në sport, zbaton procedurat për lejimin e ushtrimit të veprimtarisë së organizatave sportive dhe mbështet financiarisht sportin e organizuar dhe aktivitetin fizik;
+1.6. Promovon bashkëpunimin dhe diplomacinë sportive, zhvillon bashkëpunimin ndërkombëtar në fushën e sportit dhe rinisë, si dhe inicion dhe ndërmerr veprimet e nevojshme për lidhjen e marrëveshjeve ndërkombëtare, në pajtim me legjislacionin në fuqi;
+1.7. Siguron planifikimin buxhetor dhe përcakton prioritetet për ndarjen e mjeteve financiare për fushën e sportit dhe rinisë, në pajtim me legjislacionin në fuqi;
+1.8. Siguron konsultimin dhe koordinimin me institucionet e nivelit qendror dhe lokal, organizatat sportive dhe rinore, shoqërinë civile dhe palët e tjera të interesit, si dhe koordinimin me Zyrën e Kryeministrit në procesin e hartimit dhe zbatimit të politikave dhe legjislacionit nga fushëveprimi i ministrisë;
+1.9. Ushtron mbikëqyrje administrative mbi Agjencinë e Sportit, Agjencinë Antidoping, Inspektoratin e Sportit dhe Agjencinë për Zhvillimin e Rinisë, në pajtim me legjislacionin në fuqi.
+1.10. Kryen edhe detyra të tjera që i caktohen Ministrisë me legjislacionin në fuqi.
