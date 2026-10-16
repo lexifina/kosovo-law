@@ -1,0 +1,11 @@
+# Neni 11
+Pezullimi i autorizimit për kryerjen e ekspertizave forenzike për punonjësit
+1. Punonjësve të Agjencisë së Kosovës për Forenzikë mund t'u pezullohet autorizimi për kryerjen e ekspertizave forenzike. Pezullimi mund të bëhet në rastet e paraqitjes së punës analitike jokonforme, dështimit në testin e zotësisë, si dhe humbjes së aftësive fizike dhe psikike.
+2. Procedura për pezullimin e autorizimit fillon pasi Divizioni për Cilësi e njofton departamentin përkatës, i cili cakton një komision prej tre (3) anëtarësh. Komisioni, brenda dhjetë (10) ditëve të punës, duhet të analizojë dhe të vlerësojë të gjeturat, si dhe të rekomandojë masat, për të cilat vendos KCKR-ja. KCKR-ja nxjerr vendim për pezullimin ose mospezullimin e autorizimit, bazuar në të gjeturat dhe rekomandimet e komisionit.
+3. KCKR-ja vazhdon masën e pezullimit të autorizimit për kryerjen e ekspertizave forenzike për punonjës të caktuar në këto raste:
+3.1. Nëse sipas paragrafit 2 të këtij neni, Komisioni konstaton se puna jokonforme i përket kategorisë së përcaktuar në procedurën PRC-7.7 për Sigurimin e Cilësisë së Testimi dhe Rezultateve të Ekspertimit;
+3.2 Kur punonjësi, si pasojë e humbjes së përkohshme të aftësive fizike ose psikike, nuk mund t’i kryejë detyrat dhe përgjegjësitë e punës. Kjo duhet të vërtetohet përmes raportit të komisionit mjekësor përkatës.
+4. Kur paraqitet ndonjë rast si ai në nënparagrafin 3.2 të këtij neni, mbikëqyrësi i drejtpërdrejtë ose drejtori i departamentit i kërkon KCKR-së nxjerrjen e vendimit që punonjësi t’i nënshtrohet vlerësimit nga komisioni mjekësor.
+5. Pezullimi sipas nënparagrafit 3.1 të këtij neni, nuk mund të zgjasë më shumë se gjashtë (6) muaj. Brenda periudhës prej gjashtë (6) muajsh, zyrtari duhet t’u nënshtrohet trajnimeve dhe testit të kompetencës. Nëse punonjësi nuk e kalon testin e kompetencës, ai duhet t’u nënshtrohet sërish trajnimeve dhe ritestimit të kompetencës brenda gjashtë (6) muajve të ardhshëm.
+6. Kur caktohet pezullimi sipas nënparagrafit 3.2, të këtij neni, pezullimi i autorizimit zgjat deri në rehabilitim të punonjësit, por nuk mund të zgjasë më shumë se një (1) vit.
+7. Nëse rehabilitimi i punonjësit zgjat për një kohë më të gjatë se një (1) vit, ose nëse punonjësi dështon dy herë në testin e kompetencës sipas paragrafit 5 të këtij neni, atëherë KCKR-ja merr vendim për humbjen e gradës.
