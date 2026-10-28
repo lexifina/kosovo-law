@@ -1,0 +1,60 @@
+{
+  "corpus": "xk/national/acts",
+  "name": "Legislation of Kosovo, as enacted (Official Gazette, gzk.rks-gov.net)",
+  "label": "Kosovo: laws as enacted",
+  "language": "sq",
+  "languages": [
+    "sq",
+    "en"
+  ],
+  "history": "as-enacted",
+  "history_from": "2002-07-26",
+  "record_to": "2026-10-21",
+  "checked_on": "2026-10-29",
+  "built": "2026-10-29",
+  "record_note": "every act in the Official Gazette's list of laws (LawInForceList: laws, codes, Constitutional Court judgments, in force or repealed) plus the 2008 Constitution and its amendments, each as enacted, dated by its own in-force article; amendments are not applied (listed in data/amendments.csv); repealed acts' files are deleted on the repealing act's in-force day; English translations under en/; acts in force after the build day are on the future branch",
+  "in_force_trailer": "In-force",
+  "baseline_trailer": "In-force",
+  "has_future_branch": true,
+  "future_branch": "future",
+  "acts": {
+    "ligje": 1020,
+    "kushtetuta": 6,
+    "kode": 10,
+    "aktgjykime": 11,
+    "urdhera": 1
+  },
+  "dates": {
+    "commit": "in-force (from the act's own in-force article)",
+    "other_trailers": [
+      "Published",
+      "Gazette",
+      "In-force-basis",
+      "In-force-rule"
+    ],
+    "time": "12:00 Europe/Belgrade (CET +01:00 / CEST +02:00)",
+    "future": "branch future, never merged"
+  },
+  "author": {
+    "enacted": "the act itself",
+    "documentation": "Lexifina"
+  },
+  "scope": {
+    "trailer": "Applies",
+    "groups": "any one line",
+    "conditions": "all of a line",
+    "when_absent": "no scope note extracted for Kosovo; transitional provisions are in each act",
+    "default_reach": {
+      "rule": "no retroactive criminal liability or heavier penalty",
+      "meaning": "no one may be charged or punished for an act that was not a criminal offence under law when committed, and penalties follow the law in force at the time unless a later law is more favourable; no general rule for other laws was checked here",
+      "authority": "Constitution of the Republic of Kosovo (2008), art. 33(1) and (4)",
+      "decided_here": false
+    }
+  },
+  "citation": {
+    "file": "^([a-z]+/[0-9a-z-]+)/neni-0*([0-9]+)\\.md$",
+    "cites": "[Nn]en(i|it|in|et|eve)[[:space:]]+{n}([^0-9/]|$)",
+    "note": "Albanian forms \"neni N\", \"nenit N\", \"nenin N\"; citations are within the same act; the English files (en/.../article-NNN.md) are not matched by the file rule"
+  },
+  "tool": "tools/in_force_on.py"
+}
