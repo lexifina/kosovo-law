@@ -4247,6 +4247,666 @@
    ]
   },
   {
+   "slug": "aktvendim-2017-14752",
+   "path": "aktvendim/2017/14752",
+   "short": "GJK-KI119/16-AKV",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI119/16 PARASHTRUES XHEMAIL LANI VLERËSIM I KUSHTETUTSHMËRISË SË “VENDIMIT SCL-11-0055 TË KOLEGJIT TË APELIT TË DHOMËS SË POSAÇME TË GJYKATËS SUPREME TË KOSOVËS PËR ÇËSHTJET NË LIDHJE ME AGJENCINË KOSOVARE TË PRIVATIZIMIT, TË 7 QERSHORIT 2016”",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=14752",
+   "versions": [
+    {
+     "from": "2017-06-09",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=14752",
+     "sha256": "c826c650d218baac013ddd6c616ce3e91de77d3bb107f640ce370f2a4408406f"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-14757",
+   "path": "aktvendim/2017/14757",
+   "short": "GJK-KI26/16-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI26/16 PARASHTRUES JANUZ FAZLIU KËRKESË PËR VLERËSIMIN E KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË KOLEGJIT TË APELIT TË DHOMËS SË POSAÇME TË GJYKATËS SUPREME TË KOSOVËS PËR ÇËSHTJET QË LIDHEN ME AGJENCINË KOSOVARE TË PRIVATIZIMIT, AC-I-14-0311-A0001-A0023, TË 15 KORRIKUT 2015",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=14757",
+   "versions": [
+    {
+     "from": "2017-06-09",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=14757",
+     "sha256": "4463cca60f2a5164e01774cea65eefec1970f5cecc2250007bc88f90303a30af"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-14758",
+   "path": "aktvendim/2017/14758",
+   "short": "GJK-KI41/16-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI41/16 PARASHTRUES BEDRIJE RAMA VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT TË GJYKATËS SUPREME TË KOSOVËS, CML. NR. 5/2015, TË 17 DHJETORIT 2015",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=14758",
+   "versions": [
+    {
+     "from": "2017-06-09",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=14758",
+     "sha256": "e306f3b921a25f481a1fd9c2c67ee884a00522467bec8fd5a52e93adfbf9f9f2"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-14759",
+   "path": "aktvendim/2017/14759",
+   "short": "GJK-KI58/16-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI58/16 PARASHTRUES KADRI EMINI SKENDER EMINI FLAMUR EMINI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS, PML. NR. 8/2016, TË 26 JANARIT 2016",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=14759",
+   "versions": [
+    {
+     "from": "2017-06-09",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=14759",
+     "sha256": "a4d30de4a67245d9527b18e72ffab5e1d8506b3292032d0c743a06be05cd24a6"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-14760",
+   "path": "aktvendim/2017/14760",
+   "short": "GJK-KI68/16-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI68/16 PARASHTRUES FADIL RASHITI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS, PML. NR. 249/2015, TË 3 DHJETORIT 2015",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=14760",
+   "versions": [
+    {
+     "from": "2017-06-09",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=14760",
+     "sha256": "7d5a9e57297fc433622afb9c8d1c309f2a353dd8b0c5424a3ea37d2c19e16a7a"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-14761",
+   "path": "aktvendim/2017/14761",
+   "short": "GJK-KI75/16-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI75/16 PARASHTRUES TEATRI KOMBËTAR I KOSOVËS MINISTRIA E KULTURËS, RINISË DHE SPORTIT KËRKESË PËR VLERËSIMIN E KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME, REV. NR. 56/2016, TË 17 MARSIT 2016",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=14761",
+   "versions": [
+    {
+     "from": "2017-06-09",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=14761",
+     "sha256": "443afc6db80b90cb5834a66b63bc7f85d99a3da40ae751917dbb4041e806854c"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-14762",
+   "path": "aktvendim/2017/14762",
+   "short": "GJK-KI111/16-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI111/16 PARASHTRUES ASLLAN ZENUNI VLERËSIM I KUSHTETUTSHMËRISË SË NJOFTIMIT TË PROKURORIT TË SHTETIT KMLC. NR. S/16, TË 2 SHKURTIT 2016 DHE AKTVENDIMIT TË GJYKATËS SË APELIT TË REPUBLIKËS SË KOSOVËS, AC. NR. 4370/15, TË 18 DHJETORIT 2015",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=14762",
+   "versions": [
+    {
+     "from": "2017-06-09",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=14762",
+     "sha256": "2b4d5c78ca20b925c9b3b6cab25d42a039997216a5986f3e6982e8973091ace6"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-14763",
+   "path": "aktvendim/2017/14763",
+   "short": "GJK-KI132/16-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI132/16 PARASHTRUES MUSA TORBANI VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT TË GJYKATËS SUPREME REV. NR. 97/2016, TË 14 QERSHORIT 2016",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=14763",
+   "versions": [
+    {
+     "from": "2017-06-09",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=14763",
+     "sha256": "b911d89fdda20585eb30cb141f46502ad40114cb78b1e2f5942ac00b69315f83"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-15236",
+   "path": "aktvendim/2017/15236",
+   "short": "GJK-KI15/17-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI15/17 PARASHTRUES HAXHI ISLAMAJ VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME, PML. NR. 112/16, TË 17 GUSHTIT 2016",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15236",
+   "versions": [
+    {
+     "from": "2017-09-13",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=15236",
+     "sha256": "d9eaf08673d4e9666b16b21a0e03f837e03059135e6c907c07e813419e59d2c6"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-15237",
+   "path": "aktvendim/2017/15237",
+   "short": "GJK-KI20/17, KI21/17-KI22/17-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI20/17, KI21/17 DHE KI22/17 PARASHTRUES BANKA E KOSOVËS SH.A. BEOGRAD, JUGOBANKA SH.A., BEOBANKA SH.A., BEOGRADSKA BANKA SH.A. DHE MOMČILO NEDELJKOVIĆ DHE 410 PUNËTORË TË TJERË TË MINIERAVE KISHNICA DHE NOVOBËRDA",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15237",
+   "versions": [
+    {
+     "from": "2017-09-13",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=15237",
+     "sha256": "52510cc6388a5988717912cff27da85ab5254d290404d29955fbf4385f5ca253"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-15238",
+   "path": "aktvendim/2017/15238",
+   "short": "GJK-KI25/16-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI25/16 PARASHTRUES VESELIN MILOŠEVIĆ DHE VESNA MILOŠEVIĆ VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT TË KOLEGJIT TË APELIT TË DHOMËS SË POSAÇME TË GJYKATËS SUPREME PËR ÇËSHTJET NË LIDHJE ME AGJENCINË KOSOVARE TË PRIVATIZIMIT, AC-I-13-0127, TË 1 TETORIT 2015",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15238",
+   "versions": [
+    {
+     "from": "2017-09-13",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=15238",
+     "sha256": "b4f324851370b064dbb6605e59e1ed592fdf1a3764b2d43c6c946969b8ead0b4"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-15239",
+   "path": "aktvendim/2017/15239",
+   "short": "GJK-KI36/17-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI36/17 PARASHTRUES BASHKIM BERISHA VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME, REV. NR. 358/2016, TË 16 JANARIT 2017",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15239",
+   "versions": [
+    {
+     "from": "2017-09-13",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=15239",
+     "sha256": "e37d806f6591e064a5596fdf4e8f568d47f922ffd21cf3628d8a9cfd5b718e97"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-15240",
+   "path": "aktvendim/2017/15240",
+   "short": "GJK-KI51/17-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI51/17 PARASHTRUES KB “CËRMJANI” VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT TË GJYKATËS SUPREME TË KOSOVËS, E. REV. NR. 28/2016, TË 5 JANARIT 2017",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15240",
+   "versions": [
+    {
+     "from": "2017-09-13",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=15240",
+     "sha256": "b6d1dcc1250bd8c154726caf703b48f089caf114f098a3042713a5915a0a7a38"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-15241",
+   "path": "aktvendim/2017/15241",
+   "short": "GJK-KI57/16-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI57/16 PARASHTRUES ZYRA RREGULLATORE PËR UJËSJELLËS DHE KANALIZIM (AUTORITETI RREGULLATOR PËR SHËRBIMET E UJIT) VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME ARJ -UZVP. NR. 37/2015, TË 30 NËNTORIT 2015",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15241",
+   "versions": [
+    {
+     "from": "2017-09-13",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=15241",
+     "sha256": "9ab80078d54679f18d2c66e63e12788cff514690e7301def99ce97c7b4a0a283"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-15242",
+   "path": "aktvendim/2017/15242",
+   "short": "GJK-KI139/16-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI139/16 PARASHTRUES SEFEDIN JETULLAHU VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË REPUBLIKËS SË KOSOVËS, REV. NR. 168/16, TË 14 KORRIKUT 2016",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15242",
+   "versions": [
+    {
+     "from": "2017-09-13",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=15242",
+     "sha256": "7e4a263f6ffe4d19538872cada06522331793c5f906fcac568087642cae17841"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-15243",
+   "path": "aktvendim/2017/15243",
+   "short": "GJK-KI151/16-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI151/16 PARASHTRUES GANI SOPI DHE SABRI SOPI KËRKESË PËR VLERËSIMIN E KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS, REV. NR. 108/2016, TË 13 KORRIKUT 2016",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15243",
+   "versions": [
+    {
+     "from": "2017-09-13",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=15243",
+     "sha256": "44f44e414df53e6ec485cecc1158db60f9ca797f5e27ce0dcec93303dabd819f"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-15244",
+   "path": "aktvendim/2017/15244",
+   "short": "GJK-KI158/15-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI158/15 PARASHTRUES MINIR KRASNIQI VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT TË GJYKATËS SUPREME TË KOSOVËS, PA-II-KZ-II-7/15, TË 26 NËNTORIT 2015",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15244",
+   "versions": [
+    {
+     "from": "2017-09-13",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=15244",
+     "sha256": "104298857f6dfddcfe8b0c7263f4ed8a0069a3f80d71f3cff0ec1add9e6cd07f"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-15422",
+   "path": "aktvendim/2017/15422",
+   "short": "GJK-KI03/17-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI03/17 PARASHTRUES AHMET BUÇAJ VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT TË KOLEGJIT TË APELIT TË DHOMËS SË POSAÇME TË GJYKATËS SUPREME TË KOSOVËS PËR ÇËSHTJET NË LIDHJE ME AGJENCINË KOSOVARE TË PRIVATIZIMIT (DHPGJS), AC-I.-16-0125-A0001, TË 20 DHJETORIT 2016",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15422",
+   "versions": [
+    {
+     "from": "2017-10-05",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=15422",
+     "sha256": "c3ade4b524da7853739d86b6f04ff09476d463b881356528f573cd379a7aecc5"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-15423",
+   "path": "aktvendim/2017/15423",
+   "short": "GJK-KI17/17-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI17/17 PARASHTRUES ALFRED BOBAJ VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT TË GJYKATËS SUPREME, PZL. NR. 182/16, TË 30 JANARIT 2017",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15423",
+   "versions": [
+    {
+     "from": "2017-10-05",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=15423",
+     "sha256": "d3550c91a384f228247a25308b9f5a9c9a1be008e18eb2ea6358e297610ef567"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-15424",
+   "path": "aktvendim/2017/15424",
+   "short": "GJK-KI32/17-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI32/17 PARASHTRUES AFRIM RADONIQI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME PML. NR. 276/2016, TË 5 DHJETORIT 2016",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15424",
+   "versions": [
+    {
+     "from": "2017-10-05",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=15424",
+     "sha256": "2ff9543f3554cf4b3719fe85271335a847f538686b0984f39f58997829d5f9ac"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-15425",
+   "path": "aktvendim/2017/15425",
+   "short": "GJK-KI116/16-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI116/16 PARASHTRUES ASRIJE MUÇOLLI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS, REV. NR. 68/2016, TË 19 PRILLIT 2016",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15425",
+   "versions": [
+    {
+     "from": "2017-10-05",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=15425",
+     "sha256": "99d3c6a374c126ffebd05eeafaeea3e076a97563e39bef47dcd67f8f51124961"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-15426",
+   "path": "aktvendim/2017/15426",
+   "short": "GJK-KI123/16-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI123/16 PARASHTRUES VULLNET BERISHA VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT TË GJYKATËS SË APELIT, PN. NR. 23/16, TË 18 JANARIT 2016",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15426",
+   "versions": [
+    {
+     "from": "2017-10-05",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=15426",
+     "sha256": "f638ff7e9d97764b4d23f8af1c44cf83053de74f3b1a96f37243dfa34ed23559"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-15523",
+   "path": "aktvendim/2017/15523",
+   "short": "GJK-KI25/17-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI25/17 PARASHTRUES BUKURIJE GASHI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS-KOLEGJIT TË APELIT TË AGJENCISË KOSOVARE TË PRONËS, GSK-KPA-A- 221/14, TË 3 GUSHTIT 2016",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15523",
+   "versions": [
+    {
+     "from": "2017-10-30",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=15523",
+     "sha256": "1f7c6b921ec281685bc0852546a61fc5d707eee328facdc8251fc8787c19089a"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-15524",
+   "path": "aktvendim/2017/15524",
+   "short": "GJK-KI28/17-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI28/17 PARASHTRUES AZEM GASHI DHE ARBENITA GASHI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS, REV. NR. 262/2016, TË 3 NËNTORIT 2016",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15524",
+   "versions": [
+    {
+     "from": "2017-10-30",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=15524",
+     "sha256": "1e0f5ed8242b3809c3dd83120b31b2f8195bb18467fc9d2cdf629066f4a04f99"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-15525",
+   "path": "aktvendim/2017/15525",
+   "short": "GJK-KI29/17-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI29/17 PARASHTRUES ADEM ZHEGROVA VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME, REV. NR. 343/2016, TË 16 JANARIT 2017",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15525",
+   "versions": [
+    {
+     "from": "2017-10-30",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=15525",
+     "sha256": "26aaddbe401edcb076314688f3bba9546db937ebc5e5c43246dd203adaaaee3e"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-15526",
+   "path": "aktvendim/2017/15526",
+   "short": "GJK-KI44/17-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI44/17 PARASHTRUES NTP “THERANDA - PROJEKT” VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT TË BORDIT TË PAVARUR PËR RISHQYRTIME A. NR. 503/2006 ATK, TË 17 SHTATORIT 2013",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15526",
+   "versions": [
+    {
+     "from": "2017-10-30",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=15526",
+     "sha256": "198a23efa30a908fbf257d04e7027cdb6f4452f5709bfcdedabc2652b6c6b6a3"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-15527",
+   "path": "aktvendim/2017/15527",
+   "short": "GJK-KI49/17-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI49/17 PARASHTRUES IMER SYLA VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS, PML. NR. 227/2016, TË 3 TETORIT 2016",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15527",
+   "versions": [
+    {
+     "from": "2017-10-30",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=15527",
+     "sha256": "df1f4f70a658c1fb4498712b21efc4f6189f7ce0bd5e90187420062d54ab6799"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-15528",
+   "path": "aktvendim/2017/15528",
+   "short": "GJK-KI53/17-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI53/17 PARASHTRUES X VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS, PML. NR. 50/2017, TË 20 MARSIT 2017",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15528",
+   "versions": [
+    {
+     "from": "2017-10-30",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=15528",
+     "sha256": "f9b7c8825c877488f4502d914719910863090c2ece49de136e6cdd1833e1e563"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-15529",
+   "path": "aktvendim/2017/15529",
+   "short": "GJK-KI57/17-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI57/17 PARASHTRUES “KLENAK – DOO” VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË KOLEGJIT TË APELIT TË DHOMËS SË POSAÇME TË GJYKATËS SUPREME PËR ÇËSHTJET NË LIDHJE ME AGJENCINË KOSOVARE TË PRIVATIZIMIT, AC-I-16-0075-A0001, TË 5 JANARIT 2017",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15529",
+   "versions": [
+    {
+     "from": "2017-10-30",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=15529",
+     "sha256": "006a3c77b9937a8be2e1c432c5b0b5343425a71b422e5f05fffd060b731e3396"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-15530",
+   "path": "aktvendim/2017/15530",
+   "short": "GJK-KI64/17-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI64/17 PARASHTRUES SELATIN AHMETI VLERËSIM I KUSHTETUTSHMËRISË SË KONKLUZIONIT TË DREJTORISË SË KADASTRIT NË KOMUNËN E PRISHTINËS, NR. 011-952-1/4261/16, TË 27 SHKURTIT 2017",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15530",
+   "versions": [
+    {
+     "from": "2017-10-30",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=15530",
+     "sha256": "755b665e71995c1fabe5fa59a5ddee88d3c713837e0ae78f5363b520636e04e8"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-15531",
+   "path": "aktvendim/2017/15531",
+   "short": "GJK-KI70/16-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI70/16 PARASHTRUES FAZLI KRASNIQI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË REPUBLIKËS SË KOSOVËS, REV. NR. 185/2015, TË 28 DHJETORIT 2015",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15531",
+   "versions": [
+    {
+     "from": "2017-10-30",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=15531",
+     "sha256": "8569375714da3ea9ccc7aec7be582c0f685e41319c315f6cd34c93c6e8b41cec"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-15532",
+   "path": "aktvendim/2017/15532",
+   "short": "GJK-KI78/16-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI78/16 PARASHTRUES DRITON SYLA VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME, REV. NR. 7/2016, TË 18 JANARIT 2016",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15532",
+   "versions": [
+    {
+     "from": "2017-10-30",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=15532",
+     "sha256": "8127733dae03fd13f32c9da4fb2ce599823b3c28021fb8e8e94f1356e90d6506"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-15533",
+   "path": "aktvendim/2017/15533",
+   "short": "GJK-KI127/16 - KI35/17-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI127/16 DHE KI35/17 PARASHTRUES NDËRMARRJA PRIVATE TREGTARE “RIAR-ALFIS” VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT TË GJYKATËS THEMELORE NË PRISHTINË, IV. C. NR. 408/15, TË 7 KORRIKUT 2016, AKTVENDIMIT TË GJYKATËS THEMELORE NË PRISHTINË, GJA. NR. 1214/2016, TË 25 KORRIKUT 2016 DHE AKTVENDIMIT TË GJYKATËS SË APELIT TË KOSOVËS AC. NR. 2685/17, TË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15533",
+   "versions": [
+    {
+     "from": "2017-10-30",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=15533",
+     "sha256": "69c7aec8804272401ab6c57888f84f0db873b2ba6103b6aac77eda809dff322a"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-15569",
+   "path": "aktvendim/2017/15569",
+   "short": "GJK-KI08/17-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI08/17 PARASHTRUES N. S. VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT TË GJYKATËS THEMELORE TË MITROVICËS, CN. NR. 89/2015, TË 14 GUSHTIT 2015",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15569",
+   "versions": [
+    {
+     "from": "2017-11-10",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=15569",
+     "sha256": "a7a11d4b561d36b6d60bbedefcf417b4fd68b6a7987bf10a0d96950a676547f4"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-15570",
+   "path": "aktvendim/2017/15570",
+   "short": "GJK-KI09/17-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI09/17 PARASHTRUES FATMIR HOTI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS, PML. NR. 281/2016, TË 5 DHJETORIT 2016",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15570",
+   "versions": [
+    {
+     "from": "2017-11-10",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=15570",
+     "sha256": "76a51df585bdea228943beca1eb194a4eba4c0bd571d53e50fe877dbb889a1c2"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-15571",
+   "path": "aktvendim/2017/15571",
+   "short": "GJK-KI11/17-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI11/17 PARASHTRUES ALEKSANDAR ĐEKIĆ, LJILJANA TOMIĆ, RADUNKA TOMIĆ DHE SLAVOLJUB TOMIĆ VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT TË KOLEGJIT TË APELIT TË DHOMËS SË POSAÇME TË GJYKATËS SUPREME PËR ÇËSHTJE QË LIDHEN ME AGJENCINË KOSOVARE TË PRIVATIZIMIT, AC-I-12-0050-A0001, TË 6 TETORIT 2016",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15571",
+   "versions": [
+    {
+     "from": "2017-11-10",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=15571",
+     "sha256": "fcd3b38c1a67ed265119eb0676c93fea2d62fa2a312e52248c69217ed0dce360"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-15572",
+   "path": "aktvendim/2017/15572",
+   "short": "GJK-KI13/17-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI13/17 PARASHTRUES BEDRI PRISHTINA DHE FAHRI BEKTESHI KËRKESË PËR VLERËSIMIN E KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SË APELIT TË KOSOVËS, CA. NR. 3442/2016, I 10 TETORIT 2016",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15572",
+   "versions": [
+    {
+     "from": "2017-11-10",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=15572",
+     "sha256": "505bd7e295b19facb6456e6b8b413a0b9cc87674bfe1c0ad6be55ce0294a12f0"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-15573",
+   "path": "aktvendim/2017/15573",
+   "short": "GJK-KI37/17-KI52/17-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI37/17 DHE KI52/17 PARASHTRUES TIHOMIR MIKARIĆ OLGA JANIĆIJEVIĆ SHEMSIJE SHEHOLLI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME, PML. KZZ 236/2016, TË 11 JANARIT 2017",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15573",
+   "versions": [
+    {
+     "from": "2017-11-10",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=15573",
+     "sha256": "6e38d90c655d78b26cddd9beed306f811f4ed85c25cbc383fa5429edd55b9387"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-15574",
+   "path": "aktvendim/2017/15574",
+   "short": "GJK-KI77/16-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI77/16 PARASHTRUES BURIM RAMADANI DHE ARSIM RAMADANI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS, PML. NR. 296/2015, TË 10 SHKURTIT 2016",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15574",
+   "versions": [
+    {
+     "from": "2017-11-10",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=15574",
+     "sha256": "4af071582913bb48a9d9e5f98f07da11950ea26c26cd8e047aca93fbbea73367"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-15575",
+   "path": "aktvendim/2017/15575",
+   "short": "GJK-KI98/16-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI98/16 PARASHTRUES FAZILE MORINA KËRKESË PËR VLERËSIM TË KUSHTETUTSHMËRISË SË AKTVENDIMIT TË GJYKATËS SUPREME, ARJ-UZVP, NR. 7/2016, TË 31 MARSIT 2016",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15575",
+   "versions": [
+    {
+     "from": "2017-11-10",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=15575",
+     "sha256": "9fb0d2e3611968cb55ea7e5fb9d19fe8820471871ac92cd1d147ad29af885334"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-15576",
+   "path": "aktvendim/2017/15576",
+   "short": "GJK-KI100/16-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI100/16 PARASHTRUES ŽIVORAD DUTINA VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË KOLEGJIT TË APELIT TË GJYKATËS SUPREME TË KOSOVËS PËR AGJENCINË KOSOVARE TË PRONËS, NR. GSK-KPA-A-97/2014, TË 19 SHKURTIT 2016",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15576",
+   "versions": [
+    {
+     "from": "2017-11-10",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=15576",
+     "sha256": "cfda3205d2248b18d71fbf54d9527e4ec2c528ce83f7c4f76a94367e14634efb"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-15578",
+   "path": "aktvendim/2017/15578",
+   "short": "GJK-KI135/16-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI135/16 PARASHTRUES TOMISLAV JANKOVIĆ DHE TË TJERËT VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT TË KOLEGJIT TË APELIT TË DHOMËS SË POSAÇME TË GJYKATËS SUPREME TË REPUBLIKËS SË KOSOVËS PËR ÇËSHTJET NË LIDHJE ME AGJENCINË KOSOVARE TË PRIVATIZIMIT, AC-I-0095, TË 6 TETORIT 2016",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15578",
+   "versions": [
+    {
+     "from": "2017-11-10",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=15578",
+     "sha256": "3de7ff2ec8b8dd0e37a44a3be1bb8cb661405ce6af1cc6a5e947b084b41bee34"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-15579",
+   "path": "aktvendim/2017/15579",
+   "short": "GJK-KI140/16-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI140/16 PARASHTRUES RAIFFEISEN BANK KOSOVO JSC VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT TË GJYKATËS SUPREME TË KOSOVËS, CN. NR. 6/2016, TË 23 GUSHTIT 2016",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15579",
+   "versions": [
+    {
+     "from": "2017-11-10",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=15579",
+     "sha256": "4d4169d2fc5167cb669f4de846474d668d933ba2218c9aaa4bc16adf1ab9207d"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-15580",
+   "path": "aktvendim/2017/15580",
+   "short": "GJK-KI149/16-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI149/16 PARASHTRUES KOMUNA E KLINËS VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT TË GJYKATËS SUPREME TË REPUBLIKËS SË KOSOVËS, CML. NR. 13/2016, TË 13 SHTATORIT 2016",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15580",
+   "versions": [
+    {
+     "from": "2017-11-10",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=15580",
+     "sha256": "b1eafde0229268595de1c76752976d942f9551dc6edc4d902465dedb8a51adfb"
+    }
+   ]
+  },
+  {
    "slug": "aktvendim-2017-15668",
    "path": "aktvendim/2017/15668",
    "short": "GJK-KI16/17-AKV",
