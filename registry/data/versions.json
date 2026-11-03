@@ -257,6 +257,216 @@
    ]
   },
   {
+   "slug": "rregullore-2022-61266",
+   "path": "rregullore/2022/61266",
+   "short": "KUV-08 -V- 349-RR",
+   "title": "RREGULLORE E KUVENDIT TË REPUBLIKËS SË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=61266",
+   "versions": [
+    {
+     "from": "2022-08-09",
+     "units": 131,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=61266",
+     "sha256": "3fab175fde6af1fac374ca88085612cbb56cc5d28f431eebb7bbcc6c10406c3f"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2022-65904",
+   "path": "rregullore/2022/65904",
+   "short": "K.KQ-04/2022-RR",
+   "title": "RREGULLORE (K.KAC) 01 Nr. 07-60/01-25563/22 - PËR PLOTËSIMIN DHE NDRYSHIMIN E RREGULLORES 01NR. 02-60/01-4863/20 PËR TAKSAT KOMUNALE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=65904",
+   "versions": [
+    {
+     "from": "2022-11-09",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=65904",
+     "sha256": "3c140df3371f8e94ce113f0e35b72cee5a11fdf727ecd451b1893ba41cc7c556"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2023-75671",
+   "path": "rregullore/2023/75671",
+   "short": "MD-NR.05/2023-UA",
+   "title": "RREGULLORE MD - NR. 05/2023 PËR PËRCAKTIMIN E KRITEREVE PËR OFRIMIN E NDIHMËS JURDIKE FALAS NGA ORGANIZATAT JO QEVERITARE NË PARTNERITET ME AGJENCINË PËR NDIHMË JURIDIKE FALAS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=75671",
+   "versions": [
+    {
+     "from": "2023-06-19",
+     "units": 12,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=75671",
+     "sha256": "0883356f1cb9f621876228030e937dd977b749db685e47793db8660149452c71"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2023-75687",
+   "path": "rregullore/2023/75687",
+   "short": "MD-NR.06/2023-RR",
+   "title": "RREGULLORE MD - Nr.06/2023 PËR PROCEDURËN E ANKESAVE PËR NDIHMË JURIDIKE FALAS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=75687",
+   "versions": [
+    {
+     "from": "2023-06-19",
+     "units": 21,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=75687",
+     "sha256": "e04e4538ee289f87e8730687863165c14dcd3b804498184c97d6073c033c66c5"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2023-75768",
+   "path": "rregullore/2023/75768",
+   "short": "MKRS-01-RR",
+   "title": "RREGULLORE (MKRS) NR.01/ 2023 PËR HARTIMIN E PROJEKTEVE TË KONSERVIMIT DHE RESTAURIMIT DHE AKTIVITETET KONSERVUESE TË TRASHËGIMISË KULTURORE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=75768",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 19,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=75768",
+     "sha256": "c651775f84a488f35ccc9848e7210ea950eb574f960a6be8949e27a2bc856478"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2023-75968",
+   "path": "rregullore/2023/75968",
+   "short": "MM-NR 04/2023-RR",
+   "title": "RREGULLORE (MM) NR. 04/2023 PËR AUTORIZIMET E POLICISË USHTARAKE NË FORCËN E SIGURISË SË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=75968",
+   "versions": [
+    {
+     "from": "2023-07-03",
+     "units": 23,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=75968",
+     "sha256": "bfd31cef6dacd088775eb2f047ba1da6b3151cb3968f7c55f79ecc042eb6033f"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2023-78126",
+   "path": "rregullore/2023/78126",
+   "short": "QRK-06/2023-RR",
+   "title": "RREGULLORE (ZKM) - NR. 06/2023 PËR ORGANIZIMIN E BRENDSHËM DHE SISTEMATIZIMIN E VENDEVE TË PUNËS NË ZYRËN E INSPEKTORIT TË PËRGJITHSHËM",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=78126",
+   "versions": [
+    {
+     "from": "2023-07-12",
+     "units": 13,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=78126",
+     "sha256": "7c2bc8c66eb54984c06429ab11df6f582a6cc1e0f02e6a529a039ed0aa3fcebf"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2023-78300",
+   "path": "rregullore/2023/78300",
+   "short": "MM-NR 05/2023-RR",
+   "title": "RREGULLORE NR. (MM) 05/2023 PËR SHQYRTIMIN E PASTËRTISË SË FIGURËS NË FORCËN E SIGURISË SË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=78300",
+   "versions": [
+    {
+     "from": "2023-07-19",
+     "units": 13,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=78300",
+     "sha256": "ae63f528704506d560440161673f1e3c17727e8bdcb1cf9c9fa6702044eb246f"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2023-78301",
+   "path": "rregullore/2023/78301",
+   "short": "MM-NR 06/2023-RR",
+   "title": "RREGULLORE (MM) NR. 06/2023 PËR SIGURINË FIZIKE NË MM DHE FSK",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=78301",
+   "versions": [
+    {
+     "from": "2023-07-19",
+     "units": 16,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=78301",
+     "sha256": "42ce13729ee7a56f04a058c8ade9634a1c8bbba622832705a92bed63a72fce4b"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2023-78946",
+   "path": "rregullore/2023/78946",
+   "short": "MINT-01/2023-RR",
+   "title": "RREGULLORE (MINT) Nr. 01/2023 PËR NDRYSHIMIN DHE PLOTËSIMIN E RREGULLORES (MTI) NR. 01/2018 PËR ETIKETIMIN DHE SHËNJIMIN E PRODUKTEVE TË TEKSTILIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=78946",
+   "versions": [
+    {
+     "from": "2023-08-10",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=78946",
+     "sha256": "8f49ee06fe667ec235dc3fbbe429ea751313acdef38a4cb00e3b546fad0aaae9"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2023-80814",
+   "path": "rregullore/2023/80814",
+   "short": "MM-NR 08/2023-RR",
+   "title": "KODI I ETIKËS (MM) NR. 08/2023 PËR FORCËN E SIGURISË SË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=80814",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 37,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=80814",
+     "sha256": "1b5b2296c24dcfe816d82ad3b1e714fd308fb4de077be6a719dc534fe11209ab"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2023-80858",
+   "path": "rregullore/2023/80858",
+   "short": "MM-NR 09/2023-RR",
+   "title": "RREGULLORE (MM) NR. 09/2023 PËR KODIN DISIPLINOR TË FORCËS SË SIGURISË SË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=80858",
+   "versions": [
+    {
+     "from": "2023-09-07",
+     "units": 39,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=80858",
+     "sha256": "9b235677fe9bb0b86cbe0201782b8b8575b8346f22dcb0c499ff32b695c2a1bf"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2023-80859",
+   "path": "rregullore/2023/80859",
+   "short": "MM-NR 10/2023-RR",
+   "title": "RREGULLORE (MM) NR. 10/2023 PËR DUKJEN, PËRMASAT DHE PËRDORIMIN E STEMËS SË MINISTRISË SË MBROJTJES",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=80859",
+   "versions": [
+    {
+     "from": "2023-09-07",
+     "units": 9,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=80859",
+     "sha256": "2e4600f497c30775f628c627d134e916dffc937bbcd043ae196a11af54344647"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2023-80928",
+   "path": "rregullore/2023/80928",
+   "short": "MM-NR 11/2023-RR",
+   "title": "RREGULLORE (MM) NR. 11/2023 PËR NDRYSHIMIN DHE PLOTËSIMIN E RREGULLORES (MM) NR. 12/2019 PËR USHQIMIN, TRANSPORTIN DHE AKOMODIMIN NË FORCËN E SIGURISË SË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=80928",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 7,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=80928",
+     "sha256": "2552d79b2f2ad85f4f1b22fcbf3ebe8309be84e3bb71eb93e236a3e76b818f4f"
+    }
+   ]
+  },
+  {
    "slug": "rregullore-2023-83965",
    "path": "rregullore/2023/83965",
    "short": "K.PZ-KPZ 001-011-141691-RR",
@@ -2312,6 +2522,261 @@
    ]
   },
   {
+   "slug": "udhezim-2023-75171",
+   "path": "udhezim/2023/75171",
+   "short": "MBPZHR-02/2023-UA",
+   "title": "UDHËZIM ADMINISTRATIV (MBPZHR) - NR. 02/2023 PËR KUSHTET DHE KËRKESAT TEKNIKE QË DUHET PLOTËSUAR NGA STREHIMORET E KAFSHËVE SHOQËRUESE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=75171",
+   "versions": [
+    {
+     "from": "2023-06-02",
+     "units": 33,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=75171",
+     "sha256": "13b3e04ecaaa6b86834dfe2329010bd0ea9be12001a628a9aab2294af62b9c4e"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2023-75461",
+   "path": "udhezim/2023/75461",
+   "short": "QRK-04/2023-UA",
+   "title": "UDHËZIM ADMINISTRATIV (QRK)-NR. 04/2023 PËR TRAJTIMIN MJEKËSOR DHE PSIKOLOGJIK, TË FËMIJËS VIKTIMË E ABUZIMIT, PËR T’I NDIHMUAR NË REHABILITIM DHE PËR T’U RI INTEGRUAR NË SHOQËRI",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=75461",
+   "versions": [
+    {
+     "from": "2023-06-12",
+     "units": 34,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=75461",
+     "sha256": "46389dd73f29937ef3d902880a27a077efe2efdccc658d1e7ee11fa3100d3b34"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2023-78141",
+   "path": "udhezim/2023/78141",
+   "short": "MMPHI-08/2023-UA",
+   "title": "UDHËZIM ADMINISTRATIV (MMPHI) NR.08/2023, PËR PROCEDURËN E ZGJEDHJES SË ORGANEVE TË PËRKOHSHME TË ODËS GJATË MBLEDHJES KONSTITUIVE TË ODËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=78141",
+   "versions": [
+    {
+     "from": "2023-07-13",
+     "units": 18,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=78141",
+     "sha256": "3f001b9374e0626a61518efd234ad15642243157834eb10fe32f1b6be1730d2e"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2023-78177",
+   "path": "udhezim/2023/78177",
+   "short": "MBPZHR-Nr.04/2023-UA",
+   "title": "UDHËZIM ADMINISTRATIV (MBPZHR) - NR.04/2023 PËR NDRYSHIMIN DHE PLOTËSIMIN E UDHËZIMIT ADMINISTRATIV (MBPZHR)-NR.04/2022 PËR MASAT DHE KRITERET E PËRKRAHJES PËR ZHVILLIM RURAL PËR VITIN 2022, E NDRYSHUAR DHE PLOTËSUAR ME UDHËZIMIN ADMINISTRATIV (MBPZHR)-NR.14/2022",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=78177",
+   "versions": [
+    {
+     "from": "2023-07-13",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=78177",
+     "sha256": "78ee56c28247a9dedc1a2a13e01665c76d3b6063ef190bbbacd5d4d5096dab50"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2023-78400",
+   "path": "udhezim/2023/78400",
+   "short": "MMPHI-09/2023-UA",
+   "title": "UDHËZIM ADMINISTRATIV MMPHI NR. 09/2023 PËR MËNYRËN E MONITORIMIT TË CILËSISË SË AJRIT, MBLEDHJEN E TË DHËNAVE, KRITERET DHE METODOLOGJINË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=78400",
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "units": 35,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=78400",
+     "sha256": "8ad5f20bace667129b6f913499d9c733049b086aa3be9daa3fae844a4158b1b9"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2023-78681",
+   "path": "udhezim/2023/78681",
+   "short": "MBPZHR-Nr.07/2023-UA",
+   "title": "UDHËZIM ADMINISTRATIV (MBPZHR) NR. 07/2023 PËR CILËSINË E MJALTIT DHE PRODHIMEVE TJERA BLETARE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=78681",
+   "versions": [
+    {
+     "from": "2023-08-03",
+     "units": 17,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=78681",
+     "sha256": "6bea4b941ceb49c590120f434b1d1bfd836400bf93a7ace39260efc9a789f3fd"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2023-78811",
+   "path": "udhezim/2023/78811",
+   "short": "MBPZHR-MBPZHR-NR.06/2023-UA",
+   "title": "UDHËZIM ADMINISTRATIV (MBPZHR) -NR.06/2023 PËR KRITERET E FERMERËVE TË VEGJËL PËR MBJELLJE E MATERIALIT TË FITUAR TË VARIETETIT TË MBROJTUR",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=78811",
+   "versions": [
+    {
+     "from": "2023-08-07",
+     "units": 8,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=78811",
+     "sha256": "8a457ee6094444400909e06f89b71bb8b53d286822a4d734e66ad6984bc2de8a"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2023-79030",
+   "path": "udhezim/2023/79030",
+   "short": "MINT-08-2023-UA",
+   "title": "UDHËZIM ADMINISTRATIV (MINT) Nr.08/2023 PËR PROCEDURËN E REGJISTRIMIT TË MARKAVE TREGTARE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=79030",
+   "versions": [
+    {
+     "from": "2023-08-14",
+     "units": 54,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=79030",
+     "sha256": "267fad7151ec79124dc4626f1a0ae3c0f98e58cb9dd1aea0f2b69aaa34f332d9"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2023-79106",
+   "path": "udhezim/2023/79106",
+   "short": "MASHTI-20/2023-UA",
+   "title": "UDHËZIMI ADMINISTRATIV (MASHTI) NR. 20/ 2023 PËR KRIJIMIN E SKEMAVE PËR MBËSHTETJE FINANCIARE TË STUDENTËVE PËR NDARJEN E BURSAVE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=79106",
+   "versions": [
+    {
+     "from": "2023-08-16",
+     "units": 17,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=79106",
+     "sha256": "93f8670726617826a68711f055659f5779b1ac73ea95f04ec31f9518564b9086"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2023-80429",
+   "path": "udhezim/2023/80429",
+   "short": "MMPHI-10/2023-UA",
+   "title": "UDHËZIM ADMINISTRATIV (MMPHI) NR.10/2023 PËR PËRBËRJEN, FUSHËVEPRIMTARINË DHE MËNYREN E FUNKSIONIMIT TË GRUPEVE PUNUESE PËR IKIH",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=80429",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 20,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=80429",
+     "sha256": "74649933f70172260626264203e9a04c5e92f13d6df2910f0bcc085e62e52f63"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2023-80681",
+   "path": "udhezim/2023/80681",
+   "short": "MINT-09/2023-UA",
+   "title": "UDHËZIM ADMINISTRATIV (MINT) NR. 09/2023 PËR CAKTIMIN E KUSHTEVE PËR VENDOSJEN NË TREG PËR ELEMENTET E SISTEMIT TË TUBACIONEVE PLASTIKE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=80681",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 7,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=80681",
+     "sha256": "cf0052c6a31e2d71038c20721f026b9ff92832754656ea00ffb02ff063201afe"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2023-80816",
+   "path": "udhezim/2023/80816",
+   "short": "MMPHI-11/23-UA",
+   "title": "UDHËZIM ADMINISTRATIV (MMPHI) NR.11/2023 PËR PËRCAKTIMIN E RREGULLAVE PËR SHKËMBIMIN E GRUPEVE DHE SHËRBIMEVE TË TË DHËNAVE GJEOHAPËSINORE NDËRMJET AUTORITETEVE PUBLIKE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=80816",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 13,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=80816",
+     "sha256": "59d37fa9521fd8b3de0142085f9d08872367f9167d8c26f4baeb49630f16e417"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2023-80817",
+   "path": "udhezim/2023/80817",
+   "short": "MMPHI-12/23-UA",
+   "title": "UDHËZIM ADMINISTRATIV (MMPHI) NR.12/2023 PËR PËRCAKTIMIN E STANDARDEVE TEKNIKE PËR OFRIMIN E SHËRBIMEVE NGA GJEOPORTALI I IKIH",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=80817",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 8,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=80817",
+     "sha256": "127708f00564bb848021d08976c58f693035de4da3d10a390a56912d2199c425"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2023-80819",
+   "path": "udhezim/2023/80819",
+   "short": "MMPHI-13/23-UA",
+   "title": "UDHËZIM ADMINISTRATIV MMPHI Nr.13/2023 PËR PËRCAKTIMIN E STANDARDEVE PËR KRIJIMIN, RUAJTJEN, PËRDITËSIMIN DHE STRUKTURËN E META TË DHËNAVE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=80819",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 7,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=80819",
+     "sha256": "1c05424e792e801edfe58fde4a867a69fcad9631a76111aa338a79a6b8caf366"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2023-80820",
+   "path": "udhezim/2023/80820",
+   "short": "MMPHI-14/23-UA",
+   "title": "UDHËZIM ADMINISTRATIV MMPHI Nr. 14/2023 PËR PËRCAKTIMIN E RREGULLAVE TË HOLLËSISHME PËR REALIZIMIN E NDËRVEPRUESHMËRISË TË BURIMEVE TË INFORMACIONEVE HAPËSINORE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=80820",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 20,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=80820",
+     "sha256": "7362b9cd155a03c724786599ad18a672609f60d9033ae3b0ca9f3e44a78dbb7c"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2023-80823",
+   "path": "udhezim/2023/80823",
+   "short": "QRK-06/2023-UA",
+   "title": "UDHËZIM ADMINISTRATIV (QRK) NR. 06/2023 PËR MASAT E DUHURA PARANDALUESE DHE MBROJTËSE PËR NDALIMIN E PJESËMARRJES SË FËMIJËVE NË KLUBET E NATËS DHE HAPËSIRA TË TJERA TË NGJASHME",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=80823",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 26,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=80823",
+     "sha256": "effd760c101acdb6e32fb12db8cf35f1d7fd1fd7a1bce8b356d8509ace438994"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2023-80964",
+   "path": "udhezim/2023/80964",
+   "short": "MM-NR 01/2023-UA",
+   "title": "UDHËZIM ADMINISTRATIV (MM) NR. 01/2023 PËR CAKTIMIN E HIERARKISË SË DOKUMENTEVE STRATEGJIKE, AUTORITETIN E VENDIMMARRJES, MENAXHIMIN, BASHKËRENDIMIN DHE MONITORIMIN NË MM DHE FSK",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=80964",
+   "versions": [
+    {
+     "from": "2023-09-12",
+     "units": 11,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=80964",
+     "sha256": "546b74158b53494e3fe4b797a795bacbb77484c2c46e5f16c6a8e3fba97fc40c"
+    }
+   ]
+  },
+  {
    "slug": "udhezim-2023-80969",
    "path": "udhezim/2023/80969",
    "short": "MMPHI-15/23-UA",
@@ -2327,6 +2792,36 @@
    ]
   },
   {
+   "slug": "udhezim-2023-80975",
+   "path": "udhezim/2023/80975",
+   "short": "MAPL-02/2023-UA",
+   "title": "UDHËZIM ADMINISTRATIV (MAPL) NR. 02/2023 PËR INICIATIVËN E QYTETARËVE PËR LARGIMIN E KRYETARIT TË KOMUNËS NGA FUNKSIONI UDHËZIM ADMINISTRATIV (MAPL) NR. 02/2023 PËR INICIATIVËN E QYTETARËVE PËR LARGIMIN E KRYETARIT TË KOMUNËS NGA FUNKSIONI",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=80975",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 11,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=80975",
+     "sha256": "c2f3d011907e02434382e0677cde80ae41114994fd0160222c03a05aced1ace4"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2023-81130",
+   "path": "udhezim/2023/81130",
+   "short": "MD-NR.08/2023-UA",
+   "title": "UDHËZIM ADMINISTRATIV MD -Nr. 08/2023 PËR MËNYRËN E KRYERJES SË INSPEKTIMIT TË BRENDSHËM NË INSTITUCIONET KORREKTUESE DHE DREJTORITË RAJONALE SPROVUESE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=81130",
+   "versions": [
+    {
+     "from": "2023-09-08",
+     "units": 14,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=81130",
+     "sha256": "a35468955670953a4cfc6e018a07e416fc97aadc7919bcc5a2b2dbe12e91c56a"
+    }
+   ]
+  },
+  {
    "slug": "udhezim-2023-81361",
    "path": "udhezim/2023/81361",
    "short": "MSH-04/2023-UA",
@@ -2338,6 +2833,21 @@
      "units": 19,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=81361",
      "sha256": "1dee18f4dd7a21985a094443781e8787d82def3a41ce739a6e501e7f8be35e41"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2023-81434",
+   "path": "udhezim/2023/81434",
+   "short": "MD-Nr.10.2023-UA",
+   "title": "UDHËZIM ADMINISTRATIV MD – NR. 10/2023 PËR RENDIN SHTËPIAK NË INSTITUCIONET KORREKTUESE UDHËZIM ADMINISTRATIV MD – NR. 10/2023 PËR RENDIN SHTËPIAK NË INSTITUCIONET KORREKTUESE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=81434",
+   "versions": [
+    {
+     "from": "2023-09-26",
+     "units": 83,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=81434",
+     "sha256": "9f62f7608f9c99c28ea2a9bfafbca62145cb8f2841617e7b3a0fd7023c45c5f7"
     }
    ]
   },
