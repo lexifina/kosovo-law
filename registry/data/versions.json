@@ -22682,6 +22682,66 @@
    ]
   },
   {
+   "slug": "statut-2020-35863",
+   "path": "statut/2020/35863",
+   "short": "KUV-Statuti-Universiteti-Ferizaj-ST",
+   "title": "STATUTI I UNIVERSITETIT TË SHKENCAVE TË APLIKUARA NË FERIZAJ",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=35863",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 214,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=35863",
+     "sha256": "8c0f1fda7a691a4e30c7ce9484ebe4fbacee0540bb5220c0d5ae664327d3f9f1"
+    }
+   ]
+  },
+  {
+   "slug": "statut-2020-35864",
+   "path": "statut/2020/35864",
+   "short": "KUV-Statuti-Universiteti-Gjakove-ST",
+   "title": "STATUTI I UNIVERSITETIT “FEHMI AGANI” NË GJAKOVË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=35864",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 242,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=35864",
+     "sha256": "965c6208f380916e69718dd81075e92b13b9a3b338154e780edd03891b0dc634"
+    }
+   ]
+  },
+  {
+   "slug": "statut-2020-35865",
+   "path": "statut/2020/35865",
+   "short": "KUV-Statuti-Universiteti-Gjilan-ST",
+   "title": "STATUTI I UNIVERSITETIT ”KADRI ZEKA” NË GJILAN",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=35865",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 236,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=35865",
+     "sha256": "81c4e73c5476980fc294f67187a53c6cbef0882ad2fd178aee17b428216a69a8"
+    }
+   ]
+  },
+  {
+   "slug": "statut-2020-35866",
+   "path": "statut/2020/35866",
+   "short": "KUV-Statuti-Universiteti-Mitrovice-ST",
+   "title": "STATUTI I UNIVERSITETIT ”ISA BOLETINI” NË MITROVICË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=35866",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 235,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=35866",
+     "sha256": "48bce59f5361bcb5cdae17721c9359817e6dd5c4a089e78cd4107931bc746a6f"
+    }
+   ]
+  },
+  {
    "slug": "statut-2024-87068",
    "path": "statut/2024/87068",
    "short": "MD-02/2024-UA",
@@ -26342,6 +26402,336 @@
    ]
   },
   {
+   "slug": "vendim-2018-15948",
+   "path": "vendim/2018/15948",
+   "short": "MTI-559-V",
+   "title": "VENDIM PËR FILLIMIN E HETIMEVE ANTI-DUMPING PËR IMPORTIN E KËPUCËVE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15948",
+   "versions": [
+    {
+     "from": "2018-02-05",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=15948",
+     "sha256": "c4fc22dae26a4624b919347e784b43b9ba5104ed1fe8283d9816dd422f2ad5f7"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2018-16299",
+   "path": "vendim/2018/16299",
+   "short": "GJK-KI130/17-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI130/17 PARASHTRUES NDUE DHE SIMON PALUSHAJ VLERËSIM I KUSHTETUTSHMËRISË SË PROCEDURAVE TË AUTORITETEVE PUBLIKE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=16299",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=16299",
+     "sha256": "9a10119b251d0daa7383e9a9c0223bd66ad2f2271286f2328c7ee191e186f8d0"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2018-16491",
+   "path": "vendim/2018/16491",
+   "short": "GJK-KI08/18-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI08/18 PARASHTRUES NASER BERISHA KËRKESË PËR RISHIKIMIN E PRETENDIMEVE TË NGRITURA NË AKTVENDIMIN PËR PAPRANUESHMËRI TË GJYKATËS KUSHTETUESE, TË 14 NËNTORIT 2017, NË RASTIN KI104/17",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=16491",
+   "versions": [
+    {
+     "from": "2018-06-05",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=16491",
+     "sha256": "8e70de920fa12d6030474028ee89d0fdc5467cfda6a86655c946d088176f768d"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2018-16493",
+   "path": "vendim/2018/16493",
+   "short": "GJK-KI21/16-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI21/16 PARASHTRUES RESHAT MURATI VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT TË GJYKATËS THEMELORE NË MITROVICË [CPP. NR. 19/15] TË 29 DHJETORIT 2015, NË LIDHJE ME MOSZBATIMIN E VENDIMIT PËR PËRMBARIM TË GJYKATËS KOMUNALE NË MITROVICË [E. NR. 2185/98], TË 18 DHJETORIT 1998",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=16493",
+   "versions": [
+    {
+     "from": "2018-06-05",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=16493",
+     "sha256": "afefa65cb1c32c60377ec0b2396bd6bf4f05e516fcbe29cc52dd240ed99c2fea"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2018-16502",
+   "path": "vendim/2018/16502",
+   "short": "GJK-KI136/17-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI136/17 PARASHTRUES NEXHMEDIN LLUMNICA KËRKESË PËR VLERËSIM TË KUSHTETUTSHMËRISË SË NJË VENDIMI OSE AKTI TË PACAKTUAR TË NJË AUTORITETI PUBLIK",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=16502",
+   "versions": [
+    {
+     "from": "2018-06-05",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=16502",
+     "sha256": "6dd11694c71a51a392428e6c3a65bf2199826a0311d8fa6403b0cdeab4dc5659"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2018-16577",
+   "path": "vendim/2018/16577",
+   "short": "GJK-KI29/18-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI29/18 PARASHTRUES AJSHE BYTYQI, ESAT BYTYQI DHE TAGJIDIN BYTYQI VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT TË GJYKATËS SUPREME TË KOSOVËS, CML. NR. 10/2017, TË 6 DHJETORIT 2017",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=16577",
+   "versions": [
+    {
+     "from": "2018-06-22",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=16577",
+     "sha256": "cbf64bddff0804ae7fc1ca9a8913758256a81e1526f561229997c8f089be079f"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2018-16585",
+   "path": "vendim/2018/16585",
+   "short": "GJK-KI110/17-V",
+   "title": "VENDIM PËR TËRHEQJE TË KËRKESËS NË RASTIN NR. KI110/17 PARASHTRUES SEKULE STANKOVIĆ VLERËSIM I KËRKESËS SË PARASHTRUESIT PËR TËRHEQJEN E KËRKESËS PËR VLERËSIM TË KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS, REV. NR. 233/2014, TË 3 SHTATORIT 2014",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=16585",
+   "versions": [
+    {
+     "from": "2018-06-22",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=16585",
+     "sha256": "4956711762d11a7a287e72b746fee27d7df734a6edb19521933599ed088e0d6e"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2018-16594",
+   "path": "vendim/2018/16594",
+   "short": "GJK-KI155/17-V",
+   "title": "VENDIM PËR HEDHJE POSHTË TË KËRKESËS NË RASTIN NR. KI155/17 PARASHTRUES FERIT ADEMI KUNDËR GJYKATËS THEMELORE NË PRISHTINË, GJYKATËS SË APELIT TË KOSOVËS, KËSHILLIT GJYQËSOR TË KOSOVËS DHE MINISTRISË SË DREJTËSISË SË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=16594",
+   "versions": [
+    {
+     "from": "2018-06-22",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=16594",
+     "sha256": "a2f676679f73052397add857fe06b6f83afa11e54ae81cc7bc18b13802482ace"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2018-17643",
+   "path": "vendim/2018/17643",
+   "short": "GJK-KI04/18-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI04/18 PARASHTRUES ISMET UKA KËRKESË PËR VLERËSIM TË KUSHTETUTSHMËRISË SË NJË VENDIMI TË PASPECIFIKUAR TË NJË AUTORITETI PUBLIK",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=17643",
+   "versions": [
+    {
+     "from": "2018-07-12",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=17643",
+     "sha256": "3a6fd06c7868e014c81a178eaad743b06a7181ed0c42855bb39a8e54ad6f35a6"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2018-17647",
+   "path": "vendim/2018/17647",
+   "short": "GJK-KI30/18-V",
+   "title": "VENDIM PËR REFUZIMIN E KËRKESËS NË RASTIN NR. KI30/18 PARASHTRUES SAHIT MUSA SI PËRFAQËSUES I PRETENDUAR I N. H., XH. H. DHE S. H. VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME, REV. NR. 182/2012, TË 20 QERSHORIT 2013",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=17647",
+   "versions": [
+    {
+     "from": "2018-07-12",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=17647",
+     "sha256": "57e179686d8cbabf4da50910ec28b7fa053784df1265b69e47b3379ca0134787"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2018-17652",
+   "path": "vendim/2018/17652",
+   "short": "GJK-KI51/18-V",
+   "title": "VENDIM PËR REFUZIMIN E KËRKESËS NË RASTIN NR. KI51/18 PARASHTRUES SAHIT MUSA SI PËRFAQËSUES I PRETENDUAR I V. Z., P. Z., A. Z., A. Z., SH. Z. DHE XH. Z. VLERËSIM I KUSHTETUTSHMËRISË SË NJOFTIMIT TË PROKURORIT TË SHTETIT, KMLC. NR. 60/14, TË 22 KORRIKUT 2014",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=17652",
+   "versions": [
+    {
+     "from": "2018-07-12",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=17652",
+     "sha256": "bced65bbac1f750f2c5a7ee1934b36ae923e76c69a818df3d5c915c3db3a972e"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2018-17654",
+   "path": "vendim/2018/17654",
+   "short": "GJK-89/17-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI89/17 PARASHTRUES AFRIM RAFUNA VLERËSIM I KUSHTETUTSHMËRISË SË VEPRIMEVE TË AUTORITETEVE PUBLIKE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=17654",
+   "versions": [
+    {
+     "from": "2018-07-12",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=17654",
+     "sha256": "b74b39abe7bf279cb95ea2a3ad444d56cae2a8bb1c63b9f5b375e9e1098e230b"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2018-18237",
+   "path": "vendim/2018/18237",
+   "short": "GJK-KI74/18-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI74/18 PARASHTRUES GËZIM MURATI VLERËSIM I KUSHTETUTSHMËRISË SË VENDIMEVE OSE AKTEVE TË PASPECIFIKUARA TË AUTORITETEVE PUBLIKE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=18237",
+   "versions": [
+    {
+     "from": "2018-12-07",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=18237",
+     "sha256": "44f5d93016dfc390dbaa8d21df8673c2589d374a5bc630e7afd189c21f6e0638"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2019-18385",
+   "path": "vendim/2019/18385",
+   "short": "GJK-KI16/18-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI16/18 PARASHTRUES SAHIT MUSA SI PËRFAQËSUES I PRETENDUAR I K. N. VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SË APELIT, PA1. NR. 313/16, TË 10 MAJIT 2016",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=18385",
+   "versions": [
+    {
+     "from": "2019-01-09",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=18385",
+     "sha256": "b845eef6e77d2f11a136f23d238755addebd09331b6f76f3aff5df80afd49390"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2019-18398",
+   "path": "vendim/2019/18398",
+   "short": "GJK-KI121/18-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI121/18 PARASHTRUES GËZIM MURATI VLERËSIM I KUSHTETUTSHMËRISË SË VENDIMEVE OSE AKTEVE TË PASPECIFIKUARA TË AUTORITETEVE PUBLIKE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=18398",
+   "versions": [
+    {
+     "from": "2019-01-09",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=18398",
+     "sha256": "0a8f6442f031027464ad1bf1730a7d6f2caef921bf5ceb6f18a81855a21e4e71"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2019-18452",
+   "path": "vendim/2019/18452",
+   "short": "GJK-KI89/18-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI89/18 PARASHTRUES AGIM JASHARI VLERËSIM I KUSHTETUTSHMËRISË SË AKTIT TË PASPECIFIKUAR TË AUTORITETIT PUBLIK",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=18452",
+   "versions": [
+    {
+     "from": "2019-01-30",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=18452",
+     "sha256": "39baab6074bdd0a7c8f4148247699b87e8e4b8eb8388ff855f67db9140b76aaf"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2019-18552",
+   "path": "vendim/2019/18552",
+   "short": "GJK-KI134/18-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI134/18 PARASHTRUES BAJRAM SANTURI VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT TË GJYKATËS SË APELIT, P. NR. 375/2013, TË 5 QERSHORIT 2013, AKTVENDIMIT TË GJYKATËS KOMUNALE NË PRIZREN, C. NR. 47/2000, TË 25 SHTATORIT 2012 DHE AKTGJYKIMIT TË GJYKATËS SUPREME, REV. NR. 46/2005, TË 28 DHJETORIT 2006",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=18552",
+   "versions": [
+    {
+     "from": "2019-02-14",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=18552",
+     "sha256": "446c417eadf103728f554bf1143ac4dd872009f673ba84d3f04481380b370c18"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2019-18796",
+   "path": "vendim/2019/18796",
+   "short": "GJK-KI28/18-V",
+   "title": "VENDIM PËR TËRHEQJE TË KËRKESËS NË RASTIN NR. KI28/18 PARASHTRUES YMER PRENIQI VLERËSIM I KËRKESËS SË PARASHTRUESIT PËR TËRHEQJEN E KËRKESËS PËR VLERËSIM TË KUSHTETUTSHMËRISË SË AKTVENDIMIT TË GJYKATËS SUPREME TË KOSOVËS, REV. NR. 227/2017, TË 24 JANARIT 2018",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=18796",
+   "versions": [
+    {
+     "from": "2019-03-21",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=18796",
+     "sha256": "a2aec2ba2f056396ea6a9deced34b6d467b3d627636408ae3b2479dfec5e239e"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2019-18797",
+   "path": "vendim/2019/18797",
+   "short": "GJK-KI31/18-V",
+   "title": "VENDIM PËR MASË TË PËRKOHSHME NË RASTIN NR. KI31/18 PARASHTRUESE KOMUNA E PEJËS VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT E. REV. NR. 20/2017, TË 20 NËNTORIT 2017 TË GJYKATËS SUPREME TË REPUBLIKËS SË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=18797",
+   "versions": [
+    {
+     "from": "2019-03-21",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=18797",
+     "sha256": "7815f9370b9d984bb7545d06cf59e88a8cdb6dd3aaee70375ca2e429198ebb11"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2019-19029",
+   "path": "vendim/2019/19029",
+   "short": "MTI-3277-V",
+   "title": "VENDIM PËR PUBLIKIMIN E LISTËS SË STANDARDEVE TË HARMONIZUARA",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=19029",
+   "versions": [
+    {
+     "from": "2019-05-03",
+     "units": 3,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=19029",
+     "sha256": "a0ca79c2c1e3cb0725ff8a6f6404995bfad1227680a15d7c4587e563fb82e5a7"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2019-19772",
+   "path": "vendim/2019/19772",
+   "short": "GJK-KI190/18-V",
+   "title": "VENDIM PËR HEDHJE POSHTË TË KËRKESËS NË RASTIN NR. KI190/18 PARASHTRUES FLORINA JERLIU VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS THEMELORE, A. NR. 1531/16, TË 5 SHTATORIT 2018 DHE VENDIMIT TË KËSHILLIT TË PAVARUR MBIKËQYRËS PËR SHËRBIMIN CIVIL TË KOSOVËS, A. NR. 719/2018, TË 4 DHJETORIT 2018",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=19772",
+   "versions": [
+    {
+     "from": "2019-05-29",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=19772",
+     "sha256": "545792505ea5de1c51c58fe76729eab9c6e9bba19721a58df75763df2023910f"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2019-19774",
+   "path": "vendim/2019/19774",
+   "short": "GJK-KO65/19-V",
+   "title": "VENDIM PËR MASË TË PËRKOHSHME NË RASTIN NR. KO65/19 PARASHTRUES AVOKATI I POPULLIT VLERËSIM I KUSHTETUTSHMËRISË SË NENIT 32 (PARAGRAFI 1), NENIT 41 (PARAGRAFËT 1.3 DHE 1.4) DHE NENIT 76 (PARAGRAFI 2), NENI 2 (PARAGRAFI 7) DHE 22 (PARAGRAFI 1.3) TË LIGJIT NR. 06/L-010 PËR NOTERINË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=19774",
+   "versions": [
+    {
+     "from": "2019-05-29",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=19774",
+     "sha256": "19d95383885a620da87f730000136596ffc65cfce10eefabb6fd58cbc5f19c67"
+    }
+   ]
+  },
+  {
    "slug": "vendim-2019-22110",
    "path": "vendim/2019/22110",
    "short": "GJK-KI70/19-V",
@@ -26612,6 +27002,291 @@
    ]
   },
   {
+   "slug": "vendim-2020-30646",
+   "path": "vendim/2020/30646",
+   "short": "GJK-KI93/19-V",
+   "title": "VENDIM PËR REFUZIMIN E KËRKESË NË RASTIN NR. KI93/19 PARASHTRUES VALTON KARAXHIU VLERËSIM I KUSHTETUTSHMËRISË SË AKTEVE TË PASFECIFIKUARA",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=30646",
+   "versions": [
+    {
+     "from": "2020-08-18",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=30646",
+     "sha256": "29fcf0e2c924ad40bfd44a0009c942d50231f6c79ce76eff1603015654af019f"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2020-31223",
+   "path": "vendim/2020/31223",
+   "short": "GJK-KI191/19-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI191/19 PARASHTRUES KADRI REXHEPI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS, PML. NR. 272/19, TË 18 SHTATORIT 2019",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=31223",
+   "versions": [
+    {
+     "from": "2020-09-10",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=31223",
+     "sha256": "42f997d454406d4718a471e1bc3be948c3ab1d805ae3fc125ad7807a65021e33"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2020-31224",
+   "path": "vendim/2020/31224",
+   "short": "GJK-KI199/19-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI199/19 PARASHTRUES FEHMI HASANI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS, REV. NR. 118/2017, TË 10 TETORIT 2017",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=31224",
+   "versions": [
+    {
+     "from": "2020-09-10",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=31224",
+     "sha256": "82bc9af6a4c7bd36004529b098c624bb8af3fd9b05628289a2ac6a3effa21b79"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2020-35480",
+   "path": "vendim/2020/35480",
+   "short": "GJK-KI 03/20-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI 03/20 PARASHTRUES LORENC KOLGJERAJ VLERËSIM I KUSHTETUTSHMËRISË SË VENDIMIT TË GJYKATËS SË APELIT, AC. NR. 5107/18, TË 8 MARSIT 2019",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=35480",
+   "versions": [
+    {
+     "from": "2020-12-07",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=35480",
+     "sha256": "51a4d17ac67ca50f64057f84bf36326bc249f4eaacf912a69ab74f3d326a7bb3"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2020-35488",
+   "path": "vendim/2020/35488",
+   "short": "GJK-KI47/20-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI47/20 PARASHTRUES ARBEN BOLETINI VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMEVE TË GJYKATËS THEMELORE NË PRISHTINË PPR. NR. 47/17, TË 3 SHKURTIT 2017 DHE P.NR. 820/2017, TË NXJERRA MË 27 SHKURT 2017; 20 PRILL 2017 DHE 22 MAJ 2017",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=35488",
+   "versions": [
+    {
+     "from": "2020-12-07",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=35488",
+     "sha256": "093800c5c21d87a13307361bc2a68187d03764c914b81047677dd941a12778c7"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2020-35490",
+   "path": "vendim/2020/35490",
+   "short": "GJK-KI78/20, KI79/20 dhe KI80/20-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTET NR. KI78/20, KI79/20 DHE KI80/20 PARASHTRUES HILMI ALIU DHE TË TJERËT VLERËSIM I KUSHTETUTSHMËRISË SË AKTIT TË PASPECIFIKUAR TË AUTORITETIT PUBLIK",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=35490",
+   "versions": [
+    {
+     "from": "2020-12-07",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=35490",
+     "sha256": "c5fcf9a382248c17cb37c218e8e850e23d150fda86edb4bc0f3d2d8c742e2873"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2020-35491",
+   "path": "vendim/2020/35491",
+   "short": "GJK-KI93/20-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI93/20 PARASHTRUES TUSH KOLGJERAJ VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT TË GJYKATËS SË APELIT, PN. NR. 825/17, TË 6 TETORIT 2017",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=35491",
+   "versions": [
+    {
+     "from": "2020-12-07",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=35491",
+     "sha256": "e18304010f9b002309dde07a99d5cb08518de74ab7b7fb53255013d2942612a5"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2020-35492",
+   "path": "vendim/2020/35492",
+   "short": "GJK-KI100/20-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI100/20 PARASHTRUES SKËNDER HANA KËRKESË PËR VLERËSIM TË KUSHTETUTSHMËRISË SË AKTIT TË PASPECIFIKUAR TË AUTORITETIT PUBLIK TË PASPECIFIKUAR",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=35492",
+   "versions": [
+    {
+     "from": "2020-12-07",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=35492",
+     "sha256": "598eeb68709b06c9ecb2cbd8f02c53c50638341e215afd7a92b9d772819fc380"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2020-35496",
+   "path": "vendim/2020/35496",
+   "short": "GJK-KI127/20-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI127/20 PARASHTRUES KADRI BERISHA VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT TË DHOMËS SË POSAÇME TË GJYKATËS SUPREME TË REPUBLIKËS SE KOSOVËS PËR ÇËSHTJE QË LIDHEN ME AGJENCINË KOSOVARE TË PRIVATIZIMIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=35496",
+   "versions": [
+    {
+     "from": "2020-12-08",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=35496",
+     "sha256": "470192ea89f66f78c4e23c64d969e6f74f2a512f473616357dfe09752e54d603"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2020-35500",
+   "path": "vendim/2020/35500",
+   "short": "GJK-KI242/19-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI242/19 PARASHTRUES BEJTUSH ISUFI SI PËRFAQËSUES I PRETENDUAR I KOMPANISË R. I. GMBH VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË KOLEGJIT TË APELIT TË DHOMËS SË POSAÇME TË GJYKATËS SUPREME PËR ÇËSHTJE QË LIDHEN ME AGJENCINË KOSOVARE TË PRIVATIZIMIT, AC-I-13-0067-A0001, TË 22 GUSHTIT 2019",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=35500",
+   "versions": [
+    {
+     "from": "2020-12-08",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=35500",
+     "sha256": "b5c8ffa55159f76cd50c58597840ca96da453b9e22703c1070abcbc803f16a4f"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2020-36065",
+   "path": "vendim/2020/36065",
+   "short": "GJK-KI90/20-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI90/20 PARASHTRUES ARBEN BOLETINI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS THEMELORE NË PRISHTINË, P. NR. 4333/19, TË 26 NËNTORIT 2019",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=36065",
+   "versions": [
+    {
+     "from": "2020-12-31",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=36065",
+     "sha256": "33f16fa194046bd215f7e889f122970b9e508e0aaabf706a7e3cbfa531918774"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2020-36068",
+   "path": "vendim/2020/36068",
+   "short": "GJK-KI126/20-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI126/20 PARASHTRUES GANIMETE ZEKA VLERËSIM I KUSHTETUTSHMËRISË SË AKTIT TË PASPECIFIKUAR TË AUTORITETIT PUBLIK",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=36068",
+   "versions": [
+    {
+     "from": "2020-12-31",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=36068",
+     "sha256": "7a784944288584836c7d1920be837c348457e9aab07bafa5be5a2dd78d16f8de"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2020-36071",
+   "path": "vendim/2020/36071",
+   "short": "GJK-KI137/20-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI137/20 PARASHTRUES ALI LATIFI SI PËRFAQËSUES I PRETENDUAR I M.S. VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS [...], TË [...] SHTATORIT 2020.",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=36071",
+   "versions": [
+    {
+     "from": "2020-12-31",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=36071",
+     "sha256": "d3e1fce097483df12ed3e2e09729e6f9318d7c3a2fc066a38f3caa652061941e"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2020-36075",
+   "path": "vendim/2020/36075",
+   "short": "GJK-KI157/20-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI157/20 PARASHTRUES NASER PECI SI PËRFAQËSUES I PRETENDUAR I PERSONIT S. B. VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT TË GJYKATËS SË APELIT TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=36075",
+   "versions": [
+    {
+     "from": "2020-12-31",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=36075",
+     "sha256": "bc2d4c0b8af2d43475752b409b892ae8c9816242a7e65dce9581694435dfe2a4"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2020-36077",
+   "path": "vendim/2020/36077",
+   "short": "GJK-KI194/19-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI194/19 PARASHTRUES FADIL IBRAHIMI VLERËSIM I KUSHTETUTSHMËRISË SË PËRGJIGJES 157/19 SË MINISTRISË SË DREJTËSISË, TË 22 GUSHTIT 2019",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=36077",
+   "versions": [
+    {
+     "from": "2020-12-31",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=36077",
+     "sha256": "49b8cdab4ae0656b5b9b9fcb02dbc2e1d5a9b47fb8234d0ed04b2675461cdc5c"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2020-38056",
+   "path": "vendim/2020/38056",
+   "short": "GJK-KO98/20-V",
+   "title": "VENDIM PËR HEQJE TË KËRKESËS NGA LISTA NË RASTIN NR. KO98/20 PARASHTRUES HAJRULLA ÇEKO DHE 29 DEPUTETË TË TJERË VLERËSIM I KUSHTETUTSHMËRISË SË VENDIMIT NR.52/2020, TË PRESIDENTIT TË REPUBLIKËS SË KOSOVËS I DATËS 14 MARS 2020",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=38056",
+   "versions": [
+    {
+     "from": "2020-12-08",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=38056",
+     "sha256": "3c366475ebc4c729fc12aeb7e44155db3e5041621b5a3d08c6d6e8f17bae7ec9"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2021-36750",
+   "path": "vendim/2021/36750",
+   "short": "GJK-KO56/20-V",
+   "title": "VENDIM PËR NDËRPRERJEN E SHYQRTIMIT TË KËRKESËS NË RASTIN NR. KO56/20 PARASHTRUES REXHEP SELIMI DHE 29 DEPUTETË TË TJERË TË KUVENDIT TË REPUBLIKËS SË KOSOVËS VLERËSIM I KUSHTETUTSHMËRISË “SË VEPRIMIT TË PRESIDENTIT TË REPUBLIKËS SË KOSOVËS, TË DATËS 23 MARS 2020, TË SHPREHUR PËRMES KONFERENCËS PËR MEDIA PËR MOSRESPEKTIM DHE MOSZBATIM TË VENDIMIT TË QEVERISË SË REPUBLIKËS S",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=36750",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=36750",
+     "sha256": "cd1e0a61d22c03d074f97ce656038aa7a5c1f4956aea3699a31a23bd9f39ba32"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2021-37290",
+   "path": "vendim/2021/37290",
+   "short": "GJK-KI132/20-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI132/20 PARASHTRUES QAMILE MURTEZI - SALIHU VLERËSIM I KUSHTETUTSHMËRISË SË AKTIT TË PASPECIFIKUAR TË AUTORITETIT PUBLIK",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=37290",
+   "versions": [
+    {
+     "from": "2021-02-19",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=37290",
+     "sha256": "e201b2cdf9e2113897ee2a90d2371067a176291e5377a5908eb81076810c0a21"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2021-37314",
+   "path": "vendim/2021/37314",
+   "short": "MTI-1542-V",
+   "title": "VENDIM Nr. 22 PËR FILLIM TË HETIMIT PËR MASA ANTI-DAMBING",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=37314",
+   "versions": [
+    {
+     "from": "2021-02-22",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=37314",
+     "sha256": "5f1e40e34204547147b407a16bff694fbcaae9ddc71e693abcbf0109efc6391e"
+    }
+   ]
+  },
+  {
    "slug": "vendim-2021-39403",
    "path": "vendim/2021/39403",
    "short": "GJK-KI33/20-V",
@@ -26653,6 +27328,21 @@
      "units": 1,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=39419",
      "sha256": "f32377c80b9b7d8577f120d58045611474ae7424ad8243d8e8169bf534e8b14c"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2021-39426",
+   "path": "vendim/2021/39426",
+   "short": "GJK-KO103/20-V",
+   "title": "VENDIM PËR NDËRPRERJEN E SHQYRTIMIT TË KËRKESËS NË RASTIN NR. KO103/20 PARASHTRUES FITORE PACOLLI DHE 29 DEPUTETË TË TJERË TË KUVENDIT TË REPUBLIKËS SË KOSOVËS VLERËSIM I KUSHTETUTSHMËRISË “SË VEPRIMIT TË PRESIDENTIT TË REPUBLIKËS SË KOSOVËS TË 3 QERSHORIT 2020”",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=39426",
+   "versions": [
+    {
+     "from": "2021-04-02",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=39426",
+     "sha256": "f53fde927880e410fa452497e8754299cafce9a20ff4605924061053d16efbdd"
     }
    ]
   },
