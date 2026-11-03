@@ -1,6 +1,6 @@
 # Every act in this repository
 
-420 acts, 420 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+435 acts, 435 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## ligj (11, of which 11 amending acts)
 
@@ -18,10 +18,14 @@
 | LIGJI NR. 08/L-002 PËR PLOTËSIMIN DHE NDRYSHIMIN E KODIT NR. 04/L-123 TË PROCEDURËS PENALE I NDRYSHUAR DHE PLOTËSUAR ME LIGJIN NR. 06/L-091 | [`ligj/2021/43260/`](ligj/2021/43260/) | amending act | 1 | 2021-06-18 | 2021-06-18 |
 | LIGJI NR. 08/L-046 PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJIT NR. 02/L-109 PËR PARANDALIMIN DHE LUFTIMIN E SËMUNDJEVE NGJITËSE | [`ligj/2022/57852/`](ligj/2022/57852/) | amending act | 1 | 2022-05-26 | 2022-05-26 |
 
-## marreveshje (37, of which 8 amending acts)
+## marreveshje (41, of which 8 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
+| LIGJI NR. 06/L -161 PËR RATIFIKIMIN E MARRËVESHJES FINANCIARE PËR IPA 2018 NDËRMJET REPUBLIKËS SË KOSOVËS DHE BASHKIMIT EVROPIAN | [`marreveshje/2019/23321/`](marreveshje/2019/23321/) | in force | 1 | 2019-09-06 | 2019-09-06 |
+| LIGJI NR. 08/L-215 PËR RATIFIKIMIN E MARRËVESHJES PËR LËVIZJEN E LIRË ME LETËRNJOFTIME NË BALLKANIN PERËNDIMOR | [`marreveshje/2023/71325/`](marreveshje/2023/71325/) | in force | 1 | 2023-03-15 | 2023-03-15 |
+| LIGJI NR. 08/L-216 PËR RATIFIKIMIN E MARRËVESHJES PËR NJOHJEN E KUALIFIKIMEVE TË ARSIMIT TË LARTË NË BALLKANIN PERËNDIMOR | [`marreveshje/2023/71327/`](marreveshje/2023/71327/) | in force | 1 | 2023-03-15 | 2023-03-15 |
+| LIGJI NR. 08/L-217 PËR RATIFIKIMIN E MARRËVESHJES PËR NJOHJEN E KUALIFIKIMEVE PROFESIONALE TË MJEKËVE, STOMATOLOGËVE DHE ARKITEKTËVE NË KONTEKSTIN E MARRËVESHJES SË TREGTISË SË LIRË TË EVROPËS QENDRORE | [`marreveshje/2023/71328/`](marreveshje/2023/71328/) | in force | 1 | 2023-03-15 | 2023-03-15 |
 | LIGJI NR. 08/L-203 PËR RATIFIKIMIN E MARRËVESHJES SË KREDISË PËR PROJEKTIN “KORNIZA E QYTETEVE TË GJELBËRTA 2 DRITARJA 2- EFIÇIENCA E ENERGJISË NË NDËRTESA PUBLIKE NË PRISHTINË ”NDËRMJET REPUBLIKËS SË KOSOVËS DHE BANKËS EVROPIANE PËR RINDËRTIM DHE ZHVILLIM | [`marreveshje/2023/72083/`](marreveshje/2023/72083/) | in force | 1 | 2023-04-13 | 2023-04-13 |
 | LIGJI NR. 08/L-226 PËR RATIFIKIMIN E “MARRËVESHJES FINANCIARE NDËRMJET REPUBLIKËS SË KOSOVËS DHE BASHKIMIT EVROPIAN PËR PROGRAMIN IPA 2022” | [`marreveshje/2023/75994/`](marreveshje/2023/75994/) | in force | 1 | 2023-06-27 | 2023-06-27 |
 | LIGJI NR. 08/L-231 PËR RATIFIKIMIN E MARRËVESHJES NDËRMJET REPUBLIKËS SË KOSOVËS DHE REPUBLIKËS SË SLLOVENISË PËR NDIHMË TË NDËRSJELLË JURIDIKE NË ÇËSHTJE PENALE | [`marreveshje/2023/75995/`](marreveshje/2023/75995/) | in force | 1 | 2023-07-12 | 2023-07-12 |
@@ -436,6 +440,22 @@
 | UDHËZIM ADMINISTRATIV (MPB) NR. 08/2026 PËR PROCEDURAT DHE KUSHTET E GRADIMIT TË PUNONJËSVE TË AGJENCISË SË KOSOVËS PËR FORENZIKË | [`udhezim/2026/125258/`](udhezim/2026/125258/) | in force | 1 | 2026-10-16 | 2026-10-16 |
 | UDHËZIMI ADMINISTRATIV (QRK) Nr. 01/2026 PËR PËRCAKTIMIN E PROCEDURËS SË THEMELIMIT TË PARKUT INDUSTRIAL DHE TEKNOLOGJIK | [`udhezim/2026/125262/`](udhezim/2026/125262/) | in force | 1 | 2026-10-16 | 2026-10-16 |
 | UDHËZIM ADMINISTRATIV (MMPH) NR. 02/2026 PËR DHËNIEN E PËLQIMIT NGA INSTITUTI HIDROMETEOROLOGJIK I KOSOVËS PËR KRYERJEN E PUNËVE NDËRTIMORE NË OBJEKTET HIDROMETEOROLOGJIKE DHE NË ZONAT E MBROJTURA TË STACIONEVE TË RRJETIT SHTETËROR | [`udhezim/2026/125413/`](udhezim/2026/125413/) | in force | 1 | 2026-10-22 | 2026-10-22 |
+
+## vendim (11)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI375/25 PARASHTRUES ARDIAN RAMADANI VLERËSIM I KUSHTETUTSHMËRISË SË AKTIT TË PASPECIFIKUAR TË AUTORITETIT PUBLIK | [`vendim/2026/120844/`](vendim/2026/120844/) | in force | 1 | 2026-06-11 | 2026-06-11 |
+| VENDIM PËR REFUZIM TË KËRKESËS RASTIN NR. KI73/25 PARASHTRUES NASER BERISHA VLERËSIM I KUSHTETUTSHMËRISË SË AKTIT TË PASPECIFIKUAR TË AUTORITETIT PUBLIK | [`vendim/2026/121211/`](vendim/2026/121211/) | in force | 1 | 2026-06-25 | 2026-06-25 |
+| VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI31/26 PARASHTRUES LIRIDON META KËRKESË PËR VLERËSIMIN E KUSHTETUTSHMËRISË SË AKTVENDIMIT C.A.21426/2025, TË 24 DHJETORIT 2025 TË GJYKATËS SË APELIT | [`vendim/2026/121284/`](vendim/2026/121284/) | in force | 1 | 2026-06-30 | 2026-06-30 |
+| VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI104/25 PARASHTRUES “JUGOBANKA” SH.A VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [AC-I-23-0618] TË 5 SHTATORIT 2024 TË KOLEGJIT TË APELIT TË DHOMËS SË POSAÇME TË GJYKATËS SUPREME PËR ÇËSHTJET QË LIDHEN ME AGJENCINË KOSOVARE TË PRIVATIZIMIT | [`vendim/2026/121287/`](vendim/2026/121287/) | in force | 1 | 2026-06-30 | 2026-06-30 |
+| VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI351/25 PARASHTRUES MUHAMET SHALAJ, SI PËRFAQËSUES I PRETENDUAR I B.S. KËRKESË PËR VLERËSIMIN E KUSHTETUTSHMËRISË SË AKTGJYKIMIT [PML. NR. 690/2023] TË 10 JANARIT 2024 TË GJYKATËS SUPREME | [`vendim/2026/121330/`](vendim/2026/121330/) | in force | 1 | 2026-06-30 | 2026-06-30 |
+| VENDIM NR. Nr. Ref. 01/101 (Ministria e Industrisë, Ndërmarrësisë, Tregtisë dhe Inovacionit) | [`vendim/2026/121386/`](vendim/2026/121386/) | in force | 1 | 2026-07-02 | 2026-07-02 |
+| VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI58/26 PARASHTRUES EKREM PLLASHNIKU KËRKESË PËR VLERËSIMIN E KUSHTETUTSHMËRISË SË AKTVENDIMIT REV. NR. 202/2025, TË 5 SHTATORIT 2025 TË GJYKATËS SUPREME TË KOSOVËS | [`vendim/2026/121616/`](vendim/2026/121616/) | in force | 1 | 2026-07-09 | 2026-07-09 |
+| VENDIM NR. Ref. Nr. 01/109 (Ministria e Industrisë, Ndërmarrësisë, Tregtisë dhe Inovacionit) | [`vendim/2026/122014/`](vendim/2026/122014/) | in force | 1 | 2026-07-21 | 2026-07-21 |
+| VENDIM NR. 3501/2018/04 (Ministria e Kulturës dhe Turizmit) | [`vendim/2026/124588/`](vendim/2026/124588/) | in force | 1 | 2018-10-10 | 2018-10-10 |
+| VENDIM NR. Nr. 1/596/2026 (Ministria e Mbrojtjes) | [`vendim/2026/125235/`](vendim/2026/125235/) | in force | 1 | 2026-10-09 | 2026-10-09 |
+| VENDIM NR. 01 Ref. Nr.152 (Ministria e Industrisë, Ndërmarrësisë, Tregtisë dhe Inovacionit) | [`vendim/2026/125801/`](vendim/2026/125801/) | in force | 1 | 2026-10-28 | 2026-10-28 |
 
 ## Withdrawn from the record (5)
 

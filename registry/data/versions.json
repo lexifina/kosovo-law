@@ -167,6 +167,66 @@
    ]
   },
   {
+   "slug": "marreveshje-2019-23321",
+   "path": "marreveshje/2019/23321",
+   "short": "KUV-06/L-161-Marreveshja-MARR-ND",
+   "title": "LIGJI NR. 06/L -161 PËR RATIFIKIMIN E MARRËVESHJES FINANCIARE PËR IPA 2018 NDËRMJET REPUBLIKËS SË KOSOVËS DHE BASHKIMIT EVROPIAN",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=23321",
+   "versions": [
+    {
+     "from": "2019-09-06",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=23321",
+     "sha256": "b0d94e9781d0e1ebd550066f216b4300ab6f21d02cbd11db580e722a1ca8f64d"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2023-71325",
+   "path": "marreveshje/2023/71325",
+   "short": "KUV-08/L-215-Marrveshja-MARR-ND",
+   "title": "LIGJI NR. 08/L-215 PËR RATIFIKIMIN E MARRËVESHJES PËR LËVIZJEN E LIRË ME LETËRNJOFTIME NË BALLKANIN PERËNDIMOR",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=71325",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=71325",
+     "sha256": "e2185281ac9e420cff4eb39b394fdaff6a30945819b623127f04a4d43188ed10"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2023-71327",
+   "path": "marreveshje/2023/71327",
+   "short": "KUV-08/L-216-Marrveshja-MARR-ND",
+   "title": "LIGJI NR. 08/L-216 PËR RATIFIKIMIN E MARRËVESHJES PËR NJOHJEN E KUALIFIKIMEVE TË ARSIMIT TË LARTË NË BALLKANIN PERËNDIMOR",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=71327",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=71327",
+     "sha256": "9ed8396cf3a1c8f3c9cf9700f8e66e3df22d57c8d5fec2fc6382d38ec73a261a"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2023-71328",
+   "path": "marreveshje/2023/71328",
+   "short": "KUV-08/L-217-Marrveshja-MARR-ND",
+   "title": "LIGJI NR. 08/L-217 PËR RATIFIKIMIN E MARRËVESHJES PËR NJOHJEN E KUALIFIKIMEVE PROFESIONALE TË MJEKËVE, STOMATOLOGËVE DHE ARKITEKTËVE NË KONTEKSTIN E MARRËVESHJES SË TREGTISË SË LIRË TË EVROPËS QENDRORE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=71328",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=71328",
+     "sha256": "452f7448311aabaa0e33f2167abde0014cc2b41f13566cdaf5f3691803d2329b"
+    }
+   ]
+  },
+  {
    "slug": "marreveshje-2023-72083",
    "path": "marreveshje/2023/72083",
    "short": "KUV-08/L-203-Marrveshja-MARR-ND",
@@ -6208,6 +6268,171 @@
      "units": 17,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=125413",
      "sha256": "13faf3ef405fb722d60462d95968bd1a84e5d7952bd7648ec51010407db4c94b"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2026-120844",
+   "path": "vendim/2026/120844",
+   "short": "GJK-KI375/25-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI375/25 PARASHTRUES ARDIAN RAMADANI VLERËSIM I KUSHTETUTSHMËRISË SË AKTIT TË PASPECIFIKUAR TË AUTORITETIT PUBLIK",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=120844",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=120844",
+     "sha256": "1296dd1252b0d62ea10439ead76d6a3c469d18db12d54480ffdc389528fb1a9a"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2026-121211",
+   "path": "vendim/2026/121211",
+   "short": "GJK-KI73/25-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS RASTIN NR. KI73/25 PARASHTRUES NASER BERISHA VLERËSIM I KUSHTETUTSHMËRISË SË AKTIT TË PASPECIFIKUAR TË AUTORITETIT PUBLIK",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=121211",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=121211",
+     "sha256": "a5314fe938e7be8bcac974ba11aced9943e2fa861725effc7174175c0ff9ee02"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2026-121284",
+   "path": "vendim/2026/121284",
+   "short": "GJK-KI31/26-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI31/26 PARASHTRUES LIRIDON META KËRKESË PËR VLERËSIMIN E KUSHTETUTSHMËRISË SË AKTVENDIMIT C.A.21426/2025, TË 24 DHJETORIT 2025 TË GJYKATËS SË APELIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=121284",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=121284",
+     "sha256": "8b844b652e33dfc9384ad382122bc0b80679b8f85ec4496695615a98c6658b28"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2026-121287",
+   "path": "vendim/2026/121287",
+   "short": "GJK-KI104/25-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI104/25 PARASHTRUES “JUGOBANKA” SH.A VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [AC-I-23-0618] TË 5 SHTATORIT 2024 TË KOLEGJIT TË APELIT TË DHOMËS SË POSAÇME TË GJYKATËS SUPREME PËR ÇËSHTJET QË LIDHEN ME AGJENCINË KOSOVARE TË PRIVATIZIMIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=121287",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=121287",
+     "sha256": "017373794645aedf707adc7d486ef1045ec9b70301ef188d1fdf64db4d71d6d0"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2026-121330",
+   "path": "vendim/2026/121330",
+   "short": "GJK-KI351/25-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI351/25 PARASHTRUES MUHAMET SHALAJ, SI PËRFAQËSUES I PRETENDUAR I B.S. KËRKESË PËR VLERËSIMIN E KUSHTETUTSHMËRISË SË AKTGJYKIMIT [PML. NR. 690/2023] TË 10 JANARIT 2024 TË GJYKATËS SUPREME",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=121330",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=121330",
+     "sha256": "21fae93cd019f6f9d15ed63db3f9b71ac292c46075c8bad5be0390d1e01465e3"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2026-121386",
+   "path": "vendim/2026/121386",
+   "short": "MINTI-Nr. Ref. 01/101-V",
+   "title": "VENDIM NR. Nr. Ref. 01/101 (Ministria e Industrisë, Ndërmarrësisë, Tregtisë dhe Inovacionit)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=121386",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=121386",
+     "sha256": "98e8bb5730ef9730a5f66dcb92bcdcc7a420eee0f7e2aebedf25b695b1fa2a76"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2026-121616",
+   "path": "vendim/2026/121616",
+   "short": "GJK-KI58/26-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI58/26 PARASHTRUES EKREM PLLASHNIKU KËRKESË PËR VLERËSIMIN E KUSHTETUTSHMËRISË SË AKTVENDIMIT REV. NR. 202/2025, TË 5 SHTATORIT 2025 TË GJYKATËS SUPREME TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=121616",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=121616",
+     "sha256": "46f993b3a040b19197455af06a223c8595f1a6d236e41b41325b844cc5842900"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2026-122014",
+   "path": "vendim/2026/122014",
+   "short": "MINTI-Ref. Nr. 01/109-V",
+   "title": "VENDIM NR. Ref. Nr. 01/109 (Ministria e Industrisë, Ndërmarrësisë, Tregtisë dhe Inovacionit)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=122014",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=122014",
+     "sha256": "64ca4a6f616cdb7af3df2558b11f1bee847855b9d7b7da8e4ffcbf7feff36933"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2026-124588",
+   "path": "vendim/2026/124588",
+   "short": "MKT-3501/2018/04-V",
+   "title": "VENDIM NR. 3501/2018/04 (Ministria e Kulturës dhe Turizmit)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=124588",
+   "versions": [
+    {
+     "from": "2018-10-10",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=124588",
+     "sha256": "aa3a5049398dd18d6f36d40ea8ad9f572d6f28d0fb6e464e757f29b851e80b5b"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2026-125235",
+   "path": "vendim/2026/125235",
+   "short": "MM-Nr. 1/596/2026-V",
+   "title": "VENDIM NR. Nr. 1/596/2026 (Ministria e Mbrojtjes)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=125235",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=125235",
+     "sha256": "7b9c7cfdb1327b34f1291072e988510ec2c1bbc8a55d6aa55d20b205cec5bb13"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2026-125801",
+   "path": "vendim/2026/125801",
+   "short": "MINTI-01 Ref. Nr.152-V",
+   "title": "VENDIM NR. 01 Ref. Nr.152 (Ministria e Industrisë, Ndërmarrësisë, Tregtisë dhe Inovacionit)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=125801",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=125801",
+     "sha256": "a3341e596c333cd99d3de968c94382c135728cbfa9cfcaa2bf021ab0e5eceb6c"
     }
    ]
   },
