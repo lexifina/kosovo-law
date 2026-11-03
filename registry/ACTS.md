@@ -1,6 +1,6 @@
 # Every act in this repository
 
-113 acts, 113 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+115 acts, 115 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## ligj (11, of which 11 amending acts)
 
@@ -18,7 +18,7 @@
 | LIGJI NR. 08/L-002 PËR PLOTËSIMIN DHE NDRYSHIMIN E KODIT NR. 04/L-123 TË PROCEDURËS PENALE I NDRYSHUAR DHE PLOTËSUAR ME LIGJIN NR. 06/L-091 | [`ligj/2021/43260/`](ligj/2021/43260/) | amending act | 1 | 2021-06-18 | 2021-06-18 |
 | LIGJI NR. 08/L-046 PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJIT NR. 02/L-109 PËR PARANDALIMIN DHE LUFTIMIN E SËMUNDJEVE NGJITËSE | [`ligj/2022/57852/`](ligj/2022/57852/) | amending act | 1 | 2022-05-26 | 2022-05-26 |
 
-## rregullore (50, of which 8 amending acts)
+## rregullore (51, of which 8 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -51,6 +51,7 @@
 | RREGULLORE (ZKM) NR. 04/2026 PËR ORGANIZIMIN E BRENDSHËM DHE SISTEMATIZIMIN E VENDEVE TË PUNËS NË AGJENCINË PËR ZHVILLIMIN E RINISË | [`rregullore/2026/115668/`](rregullore/2026/115668/) | in force | 1 | 2026-02-03 | 2026-02-03 |
 | RREGULLORE (ZKM) NR. 05/2026 PËR ORGANIZIMIN E BRENDSHËM DHE SISTEMATIZIMIN E VENDEVE TË PUNËS NË DREJTORINË E PËRGJITHSHME TË AKREDITIMIT TË KOSOVËS | [`rregullore/2026/115672/`](rregullore/2026/115672/) | in force | 1 | 2026-02-03 | 2026-02-03 |
 | RREGULLORE (QRK) NR. 03/2026 PËR PROCEDURËN E SHQYRTIMIT ADMINISTRATIV TË AKTEVE TË KOMUNAVE | [`rregullore/2026/117436/`](rregullore/2026/117436/) | in force | 1 | 2026-02-27 | 2026-02-27 |
+| AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN KI182/24 PARASHTRUES “BECHTEL ENKA” - GP OP VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [REV.NR. 277/24] TË 17 KORRIKUT 2024 TË GJYKATËS SUPREME TË REPUBLIKËS SË KOSOVËS | [`rregullore/2026/117563/`](rregullore/2026/117563/) | in force | 1 | 2026-02-25 | 2026-02-25 |
 | RREGULLORE (AAC) NR. 03/2026 PËR NDRYSHIMIN E RREGULLORES (AAC) NR. 01/2019 PËR SA I PËRKET OPERIMEVE AJRORE JO KOMERCIALE TË KRYERA NË KUSHTE TË RREGULLAVE VIZUALE TË FLUTURIMIT ME XHIROPLANË | [`rregullore/2026/118538/`](rregullore/2026/118538/) | amending act | 1 | 2026-04-07 | 2026-04-07 |
 | RREGULLORE (MKT) NR. 02/2026 PËR DHËNIEN E PËLQIMIT PËR THEMELIMIN E ARKIVAVE PRIVATE | [`rregullore/2026/118845/`](rregullore/2026/118845/) | in force | 1 | 2026-04-21 | 2026-04-21 |
 | RREGULLORE (MKT) NR. 03/2026 PËR KUSHTET, KRITERET DHE PROCEDURAT E NXJERRJES SË MATERIALIT ARKIVOR JASHTË AGJENCISË SHTETËRORE TË ARKIVAVE TË KOSOVËS | [`rregullore/2026/118849/`](rregullore/2026/118849/) | in force | 1 | 2026-04-21 | 2026-04-21 |
@@ -73,7 +74,7 @@
 | RREGULLORE (MMPH) Nr. 01/2026 PËR KËRKESAT MINIMALE PËR PERFORMANCËN ENERGJETIKE TË NDËRTESAVE | [`rregullore/2026/125426/`](rregullore/2026/125426/) | in force | 1 | 2026-10-22 | 2026-10-22 |
 | RREGULLORE (MMPH) Nr. 02/2026 PËR METODOLOGJINË KOMBËTARE PËR KALKULIMIN E PERFORMANCËS ENERGJETIKE TË NDËRTESAVE | [`rregullore/2026/125731/`](rregullore/2026/125731/) | in force | 1 | 2026-11-02 | 2026-11-02 |
 
-## udhezim (52, of which 10 amending acts)
+## udhezim (53, of which 10 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -107,6 +108,7 @@
 | UDHËZIM ADMINISTRATIV (MMPHI) NR. 02/2026 PËR RREGULLAT DHE KUSHTET PËR LËVIZJEN E SAJAVE DHE MJETEVE TË PAJISURA ME RRËSHQITËSE SI DHE ÇËSHTJE TË TJERA LIDHUR ME TO | [`udhezim/2026/115436/`](udhezim/2026/115436/) | in force | 1 | 2026-01-27 | 2026-01-27 |
 | UDHËZIM ADMINISTRATIV (MMPHI) Nr.03/2026 PËR KUSHTET DHE KRITERET PËR TRANSPORTIN E ORGANIZUAR TË FËMIJËVE DHE NXËNËSVE, SI DHE SHENJËN E VEÇANTË ME TË CILËN DUHET TË SHËNOHEN KËTO MJETE | [`udhezim/2026/115442/`](udhezim/2026/115442/) | in force | 1 | 2026-01-27 | 2026-01-27 |
 | UDHËZIMI ADMINISTRIV (MMPHI) Nr.04/2026 PËR STANDARDE DHE PËRDORIMIN E ULËSES SË SIGURISË PËR FËMIJËT | [`udhezim/2026/115499/`](udhezim/2026/115499/) | in force | 1 | 2026-01-28 | 2026-01-28 |
+| UDHËZIM ADMINISTRATIV (MF) NR. 01/2026 PËR SHFRYTËZIMIN E PAJISJEVE ELEKTRONIKE FISKALE, SISTEMEVE FISKALE DHE SOFTUERËVE ELEKTRONIKË FISKALË | [`udhezim/2026/119286/`](udhezim/2026/119286/) | in force | 1 | 2026-04-27 | 2026-04-27 |
 | UDHËZIM ADMINISTRATIV (MAPL) NR. 01/2026 PËR ORGANIZIMIN DHE FUNKSIONIMIN E BORDIT TË PËRBASHKËT TË KOMUNËS SË MITROVICËS SË JUGUT DHE KOMUNËS SË MITROVICËS SË VERIUT | [`udhezim/2026/119405/`](udhezim/2026/119405/) | in force | 1 | 2026-05-06 | 2026-05-06 |
 | UDHËZIMI ADMINISTRATIV MSH NR. 01/2026 PËR NDRYSHIMIN DHE PLOTËSIMIN E UDHËZIMIT ADMINISTRATIV (Shëndetësi) Nr. 04/2020 KUJDESI PARËSOR SHËNDETËSOR | [`udhezim/2026/119660/`](udhezim/2026/119660/) | amending act | 1 | 2026-05-07 | 2026-05-07 |
 | UDHËZIM ADMINISTRATIV (MIT) NR. 01/2026 PËR NDRYSHIMIN DHE PLOTËSIMIN E UDHËZIMIT ADMINISTRATIV (MMPHI) NR.15/2024 PËR TRAJNIM DHE DHËNIE TË PROVIMIT PËR MENAXHER TË TRANSPORTIT RRUGOR TË UDHËTARËVE DHE MALLRAVE DHE KUALIFIKIMIN PROFESIONAL PËR SHOFER PROFESIONIST | [`udhezim/2026/120464/`](udhezim/2026/120464/) | amending act | 1 | 2026-06-09 | 2026-06-09 |

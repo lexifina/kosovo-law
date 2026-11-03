@@ -602,6 +602,21 @@
    ]
   },
   {
+   "slug": "rregullore-2026-117563",
+   "path": "rregullore/2026/117563",
+   "short": "GJK-KI182/24-RR",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN KI182/24 PARASHTRUES “BECHTEL ENKA” - GP OP VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [REV.NR. 277/24] TË 17 KORRIKUT 2024 TË GJYKATËS SUPREME TË REPUBLIKËS SË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=117563",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=117563",
+     "sha256": "853c001f39f050347e3641cb6cb5b808200a076c2e3092f0084991739e0db7a2"
+    }
+   ]
+  },
+  {
    "slug": "rregullore-2026-118538",
    "path": "rregullore/2026/118538",
    "short": "AAC-03-2026-RR",
@@ -1363,6 +1378,21 @@
      "units": 12,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=115499",
      "sha256": "dd24db2bb3f4c0e655c9e04f8b9f9f9b2dcf0b0519bf793ed90d13029033c999"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2026-119286",
+   "path": "udhezim/2026/119286",
+   "short": "MF-01/2026-UA",
+   "title": "UDHËZIM ADMINISTRATIV (MF) NR. 01/2026 PËR SHFRYTËZIMIN E PAJISJEVE ELEKTRONIKE FISKALE, SISTEMEVE FISKALE DHE SOFTUERËVE ELEKTRONIKË FISKALË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=119286",
+   "versions": [
+    {
+     "from": "2026-04-27",
+     "units": 53,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=119286",
+     "sha256": "70792e81833bda72285ee088582e7e9798c0334058afb785a105c4ae68a52978"
     }
    ]
   },

@@ -55,6 +55,9 @@ NUM = re.compile(r"\bNR\s*\.?\s*([0-9]{1,4}\s*/\s*[0-9]{2,4}|[0-9]{2}\s*/\s*L\s*
 KIND_WORD = re.compile(r"\b(UDH[ËE]ZIM\w*|RREGULLOR\w*|VENDIM\w*|LIGJ\w*|URDH[ËE]RES\w*|STATUT\w*|AKTVENDIM\w*|"
                        r"DEKRET\w*)\b", re.I)
 SIGNED_ON = re.compile(r"n[eë]nshkrim|miratim", re.I)
+# "hyn në fuqi në datën e publikimit / nga data e publikimit / në ditën e shpalljes në Gazetën Zyrtare"
+ON_PUBLICATION = re.compile(r"hy\w*\s+n[eë]\s+fuqi\s+(?:n[eë]\s+|nga\s+)?(?:dat[eë]n?|dit[eë]n)\s+(?:e\s+)?"
+                            r"(?:publikimit|shpalljes)\s+(?:s[eë]\s+saj\s+|t[eë]\s+tij\s+)?n[eë]\s+Gazet", re.I)
 TITLE_DATE = re.compile(r"\bDAT[AËE]\s*[:.]?\s*(\d{1,2})\s*[./]\s*(\d{1,2})\s*[./]\s*(\d{4})", re.I)
 
 
@@ -221,6 +224,7 @@ def main():
     ap.add_argument("--exclude", help="file of Gazette act ids already in the repository (one per line)")
     ap.add_argument("--report")
     ap.add_argument("--rejects", help="JSON {id: reason}: acts held back by hand or by a failed read-back check")
+    ap.add_argument("--out", help="folder for the parts (default: corpus.d next to this file)")
     ap.add_argument("--cache", help="optional .json.gz file keeping each PDF's parsed text between runs")
     a = ap.parse_args()
     src = Path(a.src)
@@ -280,7 +284,10 @@ def main():
             else:
                 inf = {"date": d["published"], "basis": "published (no in-force rule found)", "words": ""}
             day, basis = inf["date"], inf["basis"]
-            if basis.startswith("published (no") or basis.startswith("published (the act"):
+            if (basis.startswith("published (no") or basis.startswith("published (the act")) and law_kind != "law" \
+                    and inf["words"] and ON_PUBLICATION.search(inf["words"]):
+                day, basis = d["published"], "on publication"
+            elif basis.startswith("published (no") or basis.startswith("published (the act"):
                 if inf["words"] and SIGNED_ON.search(inf["words"]):
                     m = TITLE_DATE.search(d["title"])
                     basis = "on signature (the date in the act's title)"
@@ -327,6 +334,7 @@ def main():
         tmp = Path(a.cache + ".tmp")
         tmp.write_bytes(gzip.compress(json.dumps(cache, ensure_ascii=False).encode("utf-8"), 3))
         tmp.replace(a.cache)
+    PARTS = Path(a.out) if a.out else HERE / "corpus.d"
     PARTS.mkdir(exist_ok=True)
     country = {
         "country": {
