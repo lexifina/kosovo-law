@@ -2,6 +2,2616 @@
  "country": "XK",
  "acts": [
   {
+   "slug": "aktgjykim-2019-21039",
+   "path": "aktgjykim/2019/21039",
+   "short": "GJK-KI25/18-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI25/18 PARASHTRUES VASILIJE ANTOVIĆ VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT TË GJYKATËS SË APELIT TË KOSOVËS, CA. NR. 1952/2016, TË 24 PRILLIT 2017",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=21039",
+   "versions": [
+    {
+     "from": "2019-07-24",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=21039",
+     "sha256": "f893d8fde7cab3d9a5530c0fce8b50bf43b2cd4f7c038dc685908bbb5f3835ee"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2019-22108",
+   "path": "aktgjykim/2019/22108",
+   "short": "GJK-KI24/17-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI24/17 PARASHTRUES BEDRI SALIHU VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS, REV. NR. 308/2015, TË 12 JANARIT 2017",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=22108",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=22108",
+     "sha256": "311ae5a9bb1061b77d6ae41fc6751f65833c025c38b25c6db65445d17d9f72cf"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2019-22113",
+   "path": "aktgjykim/2019/22113",
+   "short": "GJK-KI135/18-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI135/18 PARASHTRUES HAVA SIMNICA VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS, REV. NR. 112/2018, TË 7 MAJIT 2018",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=22113",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=22113",
+     "sha256": "482a364c96284a4105d7be9110bf78bcbfa61fcf6accc76cf27dcce9362b275a"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2019-22114",
+   "path": "aktgjykim/2019/22114",
+   "short": "GJK-KI145/18-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI145/18 PARASHTRUES SHEHIDE MUHADRI, MURAT MUHADRI DHE SYLË IBRAHIMI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SË APELIT, AC. NR. 530/2016, TË 18 QERSHORIT 2018",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=22114",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=22114",
+     "sha256": "a4cbdb5eccd039a3318f4c0dc4340d33035e88e8f853c806bfad910bf3d33d54"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2019-23498",
+   "path": "aktgjykim/2019/23498",
+   "short": "GJK-KI187/18,KI11/19-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI187/18 DHE KI11/19 PARASHTRUES MUHAMET IDRIZI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS, PML. NR. 226/2018, TË 16 TETORIT 2018 DHE AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS, PML. NR. 293/2018, TË 3 DHJETORIT 2018",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=23498",
+   "versions": [
+    {
+     "from": "2019-09-13",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=23498",
+     "sha256": "b7a81e6051bbf6750ee92101da27d00f162c8b137f7733f369dd395e0b2093e0"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2019-24584",
+   "path": "aktgjykim/2019/24584",
+   "short": "GJK-KI10/18-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI10/18 PARASHTRUES FAHRI DEQANI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS, PML. NR. 357/2017, TË 22 DHJETORIT 2017",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=24584",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=24584",
+     "sha256": "46e166ea72175b0e9b62539dcb460e897520328f15a4f6ceffbeffff698effc4"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2020-26526",
+   "path": "aktgjykim/2020/26526",
+   "short": "GJK-KI07/18-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI07/18 PARASHTRUES “ÇELIKU ROLLERS” SH.P.K. VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS, E. REV. NR. 14/2017, TË 14 SHTATORIT 2017",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=26526",
+   "versions": [
+    {
+     "from": "2020-01-27",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=26526",
+     "sha256": "46c12a5c8d4deb9e038501809368625fdcb94c2854af6c169ccf5e3e5c727166"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2020-26529",
+   "path": "aktgjykim/2020/26529",
+   "short": "GJK-KI35/18-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI35/18 PARASHTRUES “BAYERISCHE VERSICHERUNGSVERBRAND” VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS E.REV.NR.18/2017, TË 4 DHJETORIT 2017",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=26529",
+   "versions": [
+    {
+     "from": "2020-01-27",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=26529",
+     "sha256": "6dbd9885764e8ff88a7d1af6ca822883086b117d9f9fe829ef3dad127cc41f2e"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2020-27716",
+   "path": "aktgjykim/2020/27716",
+   "short": "GJK-KO54/20-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KO54/20 PARASHTRUES PRESIDENTI I REPUBLIKËS SË KOSOVËS VLERËSIM I KUSHTETUTSHMËRISË SË VENDIMIT NR. 01/15 TË QEVERISË SË REPUBLIKËS SË KOSOVËS, TË 23 MARSIT 2020",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=27716",
+   "versions": [
+    {
+     "from": "2020-04-13",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=27716",
+     "sha256": "66d2a7b935f6fbf7b12d108b084acb88980355e63fe24ab6742a142169ac8b70"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2020-27826",
+   "path": "aktgjykim/2020/27826",
+   "short": "GJK-KO61/20-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KO61/20 PARASHTRUES URAN ISMAILI DHE 29 DEPUTETË TË TJERË TË KUVENDIT TË REPUBLIKËS SË KOSOVËS VLERËSIM I KUSHTETUTSHMËRISË SË VENDIMIT [NR. 214/IV/2020] TË 12 PRILLIT 2020 TË MINISTRISË SË SHËNDETËSISË, PËR SHPALLJEN E KOMUNËS SË PRIZRENIT “ZONË KARANTINË”; DHE VENDIMEVE [NR. 229/IV/2020], [NR. 238/IV/2020], [NR. 239/IV/2020] TË 14 PRILLIT 2020 TË MINISTRI",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=27826",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=27826",
+     "sha256": "0ddd32537def5a940c5677b925be4392b3061d59e10779c73dc006ff33fd3cea"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2020-28026",
+   "path": "aktgjykim/2020/28026",
+   "short": "GJK-KO72/20-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KO72/20 PARASHTRUES REXHEP SELIMI DHE 29 DEPUTETË TË TJERË TË KUVENDIT TË REPUBLIKËS SË KOSOVËS VLERËSIM I KUSHTETUTSHMËRISË SË DEKRETIT TË PRESIDENTIT TË REPUBLIKËS SË KOSOVËS, NR. 24/2020, TË DATËS 30 PRILL 2020",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=28026",
+   "versions": [
+    {
+     "from": "2020-06-01",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=28026",
+     "sha256": "fa0232d2552673949a30388e59b35993a76c17a4d5601b59f6bf985af8d72bf4"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2020-28101",
+   "path": "aktgjykim/2020/28101",
+   "short": "GJK-KI193/18-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI193/18 PARASHTRUES AGRON VULA VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT TË GJYKATËS SË APELIT, AC. NR. 227/18, TË 18 SHTATORIT 2018, LIDHUR ME MOSPËRMBARIMIN E VENDIMIT TË KËSHILLIT TË PAVARUR MBIKËQYRËS TË KOSOVËS, A 02 158/07, TË 25 SHKURTIT 2008",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=28101",
+   "versions": [
+    {
+     "from": "2020-06-03",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=28101",
+     "sha256": "fb1a06eed1abc5fb8651f9032cb193047d799baf8cc1e4e0784a8217de69a003"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2020-28110",
+   "path": "aktgjykim/2020/28110",
+   "short": "GJK-KO61/20-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KO61/20 PARASHTRUES URAN ISMAILI DHE 29 DEPUTETË TË TJERË TË KUVENDIT TË REPUBLIKËS SË KOSOVËS VLERËSIM I KUSHTETUTSHMËRISË SË VENDIMIT [NR. 214/IV/2020] TË 12 PRILLIT 2020 TË MINISTRISË SË SHËNDETËSISË, PËR SHPALLJEN E KOMUNËS SË PRIZRENIT “ZONË KARANTINË”; DHE VENDIMEVE [NR. 229/IV/2020], [NR. 238/IV/2020], [NR. 239/IV/2020] TË 14 PRILLIT 2020 TË MINISTRI",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=28110",
+   "versions": [
+    {
+     "from": "2020-06-04",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=28110",
+     "sha256": "0ddd32537def5a940c5677b925be4392b3061d59e10779c73dc006ff33fd3cea"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2020-29501",
+   "path": "aktgjykim/2020/29501",
+   "short": "GJK-KI123/19-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI123/19 PARASHTRUES “SUVA RECHTSABTEILUNG” VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SË APELIT TË KOSOVËS, AE. NR.146/17, TË 26 SHKURTIT 2019",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=29501",
+   "versions": [
+    {
+     "from": "2020-06-22",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=29501",
+     "sha256": "164bea3c987e9436c1d99c9711d66cf771a6be5f112a7ea20781e8c02b91499d"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2020-29924",
+   "path": "aktgjykim/2020/29924",
+   "short": "GJK-KO219/19-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KO219/19 PARASHTRUES AVOKATI I POPULLIT VLERËSIM I KUSHTETUTSHMËRISË SË LIGJIT NR. 06/L-111 PËR PAGAT NË SEKTORIN PUBLIK",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=29924",
+   "versions": [
+    {
+     "from": "2020-07-13",
+     "units": 2,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=29924",
+     "sha256": "1620d44653f6be098baae323a066b248fdde57434f17607169686ce0acd86e7e"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2023-71681",
+   "path": "aktgjykim/2023/71681",
+   "short": "GJK-KI143/22-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI143/22 PARASHTRUES HIDROENERGJI SH.P.K. VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS ARJ.UZVP.NR.51/2022 TË 19 KORRIKUT 2022",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=71681",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 3,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=71681",
+     "sha256": "ee78d682162eeed10d1c8200c25546564ef40aad225166c9a817380c52ed1c63"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2023-71686",
+   "path": "aktgjykim/2023/71686",
+   "short": "GJK-KI06/21-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI06/21 PARASHTRUES DRAGAN MIHAJLOVIQ KËRKESË PËR VLERËSIMIN E KUSHTETUTSHMËRISË SË PROCEDURAVE NË GJYKATËN E APELIT TË REPUBLIKËS SË KOSOVËS, PËRKITAZI ME LËNDËN AC. NR. 3930/2016",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=71686",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=71686",
+     "sha256": "ec8968349a1e30cb57bf877044f1db64602a70a533468af6a1ed712874d3ddbb"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2023-71694",
+   "path": "aktgjykim/2023/71694",
+   "short": "GJK-KI185/21-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI185/21 PARASHTRUES SHPK “CO COLINA” VLERËSIM I KUSHTETUTSHMËRISË SË LIGJIT NR. 06/L-155 PËR NDALIMIN E LOJËRAVE TË FATIT DHE AKTGJYKIMIT TË GJYKATËS SUPREME ARJ. UZVP. NR. 83/2021 TË 7 SHTATORIT 2021",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=71694",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 2,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=71694",
+     "sha256": "d954d15b7f11f99e82c79a2003bc98cc3b0abebb487e17ad464eb32385ac9d50"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2023-71695",
+   "path": "aktgjykim/2023/71695",
+   "short": "GJK-KI108/22-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI108/22 PARASHTRUES “METALINVEST SH. A.” VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [AC–I–19–0213] TË KOLEGJIT TË APELIT TË DHOMËS SË POSAÇME TË GJYKATËS SUPREME TË KOSOVËS PËR ÇËSHTJE QË LIDHEN ME AGJENCINË KOSOVARE TË PRIVATIZIMIT, TË 16 MARSIT 2022",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=71695",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=71695",
+     "sha256": "e3f59b8d94bbfb0f14a7249f9c14766c104c1ee220b5e05c9d92dd55e9ac7745"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2023-71699",
+   "path": "aktgjykim/2023/71699",
+   "short": "GJK-KI129/21-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI129/21 PARASHTRUES VELERDA SOPI VLERËSIM I KUSHTETUTSHMËRISË SË “VEPRIMEVE DHE MOSVEPRIMEVE” TË GJYKATËS THEMELORE NË GJILAN, PROKURORISË THEMELORE NË GJILAN, STACIONIT POLICOR NË GRAÇANICË DHE PROKURORISË THEMELORE NË PRISHTINË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=71699",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 4,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=71699",
+     "sha256": "d4f8444858bbc351b400cb6a4355e798f4ce7e8545320dba04f90c9fa95b5423"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2023-71709",
+   "path": "aktgjykim/2023/71709",
+   "short": "GJK-KI36/22-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI36/22 PARASHTRUES “MATKOS GROUP” SH.P.K VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS ARJ. NR. 116/2021 TË 28 TETORIT 2021",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=71709",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=71709",
+     "sha256": "407a4369da9ce16f5e0911a521049cf8afde50166880f9ebb907bcb83a36f11e"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2023-71948",
+   "path": "aktgjykim/2023/71948",
+   "short": "GJK-KO100/22 dhe KO101/22-AKGJ",
+   "title": "AKTGJYKIM NË RASTET NR. KO100/22 DHE KO101/22 PARASHTRUES TË KËRKESËS KO100/22, ABELARD TAHIRI DHE 10 DEPUTETË TË TJERË TË KUVENDIT TË REPUBLIKËS SË KOSOVËS; TË KËRKESËS KO101/22, ARBEN GASHI DHE 10 DEPUTETË TË TJERË TË KUVENDIT TË REPUBLIKËS SË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=71948",
+   "versions": [
+    {
+     "from": "2023-04-06",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=71948",
+     "sha256": "dea2bd720e64d283c8fda7ece83878c728d96be5aac24ea0cbd4be2b336f77bb"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2023-73765",
+   "path": "aktgjykim/2023/73765",
+   "short": "GJK-KI14/22-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI14/22 PARASHTRUESE SHPRESA GËRVALLA VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT REV. NR. 409/2020 TË 28 SHTATORIT 2021 TË GJYKATËS SUPREME TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=73765",
+   "versions": [
+    {
+     "from": "2023-05-12",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=73765",
+     "sha256": "8001302600fbfbec68d721cae727445cccf49ba829e1c35cfb6cc85079b4e7d7"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2023-73782",
+   "path": "aktgjykim/2023/73782",
+   "short": "GJK-KI67/22-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI67/22 PARASHTRUES ZEQIRJA PREBREZA VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT CA. NR. 1343/2021 TË 29 DHJETORIT 2021, TË GJYKATËS SË APELIT TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=73782",
+   "versions": [
+    {
+     "from": "2023-05-12",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=73782",
+     "sha256": "77303466cda24430c0ec5bac5d66490207582bf51a3a323bf5d7d99da2f21781"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2023-75188",
+   "path": "aktgjykim/2023/75188",
+   "short": "GJK-KI41/22-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI41/22 PARASHTRUES SHKUMBIN QEHAJA VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT AC-I-21-0867-AOO1, TË 10 MARSIT 2022 TË KOLEGJIT TË APELIT TË DHOMËS SË POSAÇME TË GJYKATËS SUPREME TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=75188",
+   "versions": [
+    {
+     "from": "2023-05-26",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=75188",
+     "sha256": "339526fe49dceaaa4db4998f430aa4c5d90d090e9dabd4d57451272e5f9952ae"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2023-75196",
+   "path": "aktgjykim/2023/75196",
+   "short": "GJK-KI85/22-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI85/22 PARASHTRUES JADRAN KOSTIĆ VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT 2022:19820 TË 17 MAJIT 2022 TË GJYKATËS THEMELORE NË FERIZAJ DHE AKTVENDIMIT PN1 NR. 704/2022 TË GJYKATËS SË APELIT TË KOSOVËS TË 31 MAJIT 2022",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=75196",
+   "versions": [
+    {
+     "from": "2023-05-26",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=75196",
+     "sha256": "ec143af9381cf56a88ff40d7a514903128400140af7280b6c6ce2da1dd5eb66e"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2023-75334",
+   "path": "aktgjykim/2023/75334",
+   "short": "GJK-KI69/21-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI69/21 PARASHTRUES PARTIA LIBERALE EGJIPTIANE (PLE) PARTIA ROME E BASHKUAR E KOSOVËS (PREBK) VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT, AA.NR.29/2021 TË GJYKATËS SUPREME TË KOSOVËS, TË 12 MARSIT 2021",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=75334",
+   "versions": [
+    {
+     "from": "2023-06-01",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=75334",
+     "sha256": "5b00aec9ad5067768928123f389f37df9666f09d098a1e85d17da2ecf3a1d2e6"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2023-75797",
+   "path": "aktgjykim/2023/75797",
+   "short": "GJK-KO139/21-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KO139/21 PARASHTRUES FADIL NURA DHE 9 DEPUTETË TJERË VLERËSIM I KUSHTETUTSHMËRISË SË VENDIMIT NR. 08-V-040 TË KUVENDIT TË REPUBLIKËS SË KOSOVËS, TË 21 KORRIKUT 2021, PËR SHKARKIMIN E ANËTARËVE TË BORDIT TË AUTORITETIT RREGULLATIV TË HEKURUDHAVE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=75797",
+   "versions": [
+    {
+     "from": "2023-06-16",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=75797",
+     "sha256": "04ab8cab1938f1d1936a587d01ac13d1afe5b1b79a6d12f557b01a8bddf9d6d5"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2023-75944",
+   "path": "aktgjykim/2023/75944",
+   "short": "GJK-KI212/21-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI212/21 PARASHTRUES BEHAR EMINI VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT TË GJYKATËS SUPREME TË KOSOVËS, REV. NR. 382/2021, TË 22 SHTATORIT 2021",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=75944",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=75944",
+     "sha256": "b856a7f6162562ea447ff6952efc872a9c4aede783ea76d68a1cd09cce5637b8"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2023-77055",
+   "path": "aktgjykim/2023/77055",
+   "short": "GJK-KI82/22-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI82/22 PARASHTRUES VALON LOXHAJ VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME REV.NR.103/2022 TË 30 MARSIT 2022",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=77055",
+   "versions": [
+    {
+     "from": "2023-07-03",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=77055",
+     "sha256": "3966719c8f92e27aecb990a0d6967c26956212c79b6785f23b086075a7d0ec83"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2023-78187",
+   "path": "aktgjykim/2023/78187",
+   "short": "GJK-KO159/21 dhe KO160/21-AKGJ",
+   "title": "AKTGJYKIM NË RASTET KO159/21 DHE KO160/21 PARASHTRUES KOMUNA E PRISHTINËS NË RASTIN KO159/21, VLERËSIM I KUSHTETUTSHMËRISË SË “RAPORTIT TË VLERËSIMIT TË LIGJSHMËRISË SË AKTIT KOMUNAL NR. 020-558/17 TË MINISTRISË SË ADMINISTRIMIT TË PUSHTETIT LOKAL TË 12 KORRIKUT 2021” NË LIDHJE ME “KONFIRMIMIN E LIGJSHMËRISË SË AKTIT TË KOMUNËS SË PRISHTINËS NR. 5133 TË MINISTRISË SË INDUSTRISË,",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=78187",
+   "versions": [
+    {
+     "from": "2023-07-07",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=78187",
+     "sha256": "bae48d0e0c9b211238d06ed56e228dfe7cfa31cfa685f7b22e6dfa2c1d8ec59d"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2023-78191",
+   "path": "aktgjykim/2023/78191",
+   "short": "GJK-KO164/21-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KO164/21 PARASHTRUES KOMUNA E PRISHTINËS VLERËSIM I KUSHTETUTSHMËRISË SË NENIT 6, PARAGRAFI 3, PIKA 3.1 DHE 3.2 TË UDHËZIMIT ADMINISTRATIV (MASHT) NR.151/2020 I 22 DHJETORIT 2020 TË MINISTRISË SË ARSIMIT, SHKENCËS, TEKNOLOGJISË DHE INOVACIONIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=78191",
+   "versions": [
+    {
+     "from": "2023-07-07",
+     "units": 2,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=78191",
+     "sha256": "78b11ef35dd3374b5926a0ce18ba71c2862d67e00463b1027f100adaf2dbae97"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2023-79057",
+   "path": "aktgjykim/2023/79057",
+   "short": "GJK-KI161/21-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI161/21 PARASHTRUES SUZANA ZOGËJANI-SEKIRAQA VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS, PML. NR. 310/2020, TË 28 PRILLIT 2021",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=79057",
+   "versions": [
+    {
+     "from": "2023-08-07",
+     "units": 4,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=79057",
+     "sha256": "0af3b4c7a921c18f987ecbbd1a5942447e23a7b1ed24ef012a00fefb7fd82c92"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2023-80443",
+   "path": "aktgjykim/2023/80443",
+   "short": "GJK-KI129/22-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI129/22 PARASHTRUES SAŠA MILOSAVLJEVIĆ VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT TË GJYKATËS THEMELORE NË FERIZAJ 2022:19820, TË 12 GUSHTIT 2022, DHE AKTVENDIMIT TË GJYKATËS SË APELIT TË KOSOVËS PN1. NR. 1109/2022 TË 5 SHTATORIT 2022",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=80443",
+   "versions": [
+    {
+     "from": "2023-08-17",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=80443",
+     "sha256": "becd25cc56dd595e2419969b852f948c83dcd4779ce5fb194fee168cff9f8320"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2023-80978",
+   "path": "aktgjykim/2023/80978",
+   "short": "GJK-KI122/21-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI122/21 PARASHTRUES LEKË BYTYQI VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT TË GJYKATËS SUPREME, CPP. NR. 1/2021, TË 10 MARSIT 2021",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=80978",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=80978",
+     "sha256": "84bd7524626f11e8096c2f307778d7f525a4dd8ad2848514e789cc139f54699a"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2023-80979",
+   "path": "aktgjykim/2023/80979",
+   "short": "GJK-KI206/21-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI206/21 PARASHTRUES UKË SALIHI KËRKESË PËR VLERËSIM TË KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS REV. NR. 584/2020 TË 22 PRILLIT 2021",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=80979",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=80979",
+     "sha256": "360320f75dd9c6f634e1d70125cdfaa2fa5e51773c2f0936290cf5d3f648b0d4"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2023-82697",
+   "path": "aktgjykim/2023/82697",
+   "short": "GJK-KI64/23-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI64/23 PARASHTRUES MEJREM QEHAJA REXHA KËRKESË PËR VLERËSIMIN E KUSHTETUTSHMËRISË SË TEJZGJATJES SË PROCEDURËS GJYQËSORE NË GJYKATËN THEMELORE NË GJAKOVË, PËRKITAZI ME LËNDËN [C. NR. 546/18]",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=82697",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=82697",
+     "sha256": "763f97326b68435b907115daad3cc30af3f6a05403551e9e3898ec13cafb81ed"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2023-82799",
+   "path": "aktgjykim/2023/82799",
+   "short": "GJK-KI21/23-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI21/23 PARASHTRUES “KELKOS ENERGY” SH.P.K VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT ARJ. UZVP. NR. 119/22 TË GJYKATËS SUPREME TË KOSOVËS TË 16 DHJETORIT 2022",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=82799",
+   "versions": [
+    {
+     "from": "2023-09-29",
+     "units": 3,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=82799",
+     "sha256": "8ffc6bccb99a1f5b116ee37031878d615abc98bde4e43929f3f964babcc31bfe"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2023-83097",
+   "path": "aktgjykim/2023/83097",
+   "short": "GJK-KI90/23-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI90/23 PARASHTRUES SHQIPDON FAZLIU VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [ARJ. NR. 114/2022] TË GJYKATËS SUPREME TË KOSOVËS, TË 23 DHJETORIT 2022",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=83097",
+   "versions": [
+    {
+     "from": "2023-10-12",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=83097",
+     "sha256": "882ccf4774a65253ce0bee91f50b5f269da61a167ae1e0b8fb980907ce308f36"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2023-84645",
+   "path": "aktgjykim/2023/84645",
+   "short": "GJK-KI74/22-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI74/22 PARASHTRUES ZORAN ĐOKIĆ VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME PML.NR.19/2022 TË 15 SHKURTIT 2022",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=84645",
+   "versions": [
+    {
+     "from": "2023-12-11",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=84645",
+     "sha256": "75ce85fdcca0df365ec615a8fe915c77b497092d2a3864ee9cf1d5935ec7fcd4"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2024-100041",
+   "path": "aktgjykim/2024/100041",
+   "short": "GJK-KI11/24-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI11/24 PARASHTRUES ZEKË JASIQI VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT, PN. NR. 1420/23, TË 15 NËNTORIT 2023 TË GJYKATËS SË APELIT TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=100041",
+   "versions": [
+    {
+     "from": "2024-12-27",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=100041",
+     "sha256": "b0b2fe8aad4e0f4c9b8c2306fc343eaa92a95d572efab4f498be494d5e080c3a"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2024-100044",
+   "path": "aktgjykim/2024/100044",
+   "short": "GJK-KI105/24-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI105/24 PARASHTRUESE IMRIJE KADRIU VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT AC. NR. 2125/22 TË GJYKATËS SË APELIT, TË 23 SHKURTIT 2024",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=100044",
+   "versions": [
+    {
+     "from": "2024-12-27",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=100044",
+     "sha256": "d5bfc4fec81ca128a06f10910a45c0aeda3fc7c2334d8f638860a89a80b863db"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2024-100045",
+   "path": "aktgjykim/2024/100045",
+   "short": "GJK-KI117/23-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI117/23 PARASHTRUES EXCLUSIVE SH.P.K. VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT [E. REV. NR. 1/2023] TË 17 JANARIT 2023 TË GJYKATËS SUPREME TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=100045",
+   "versions": [
+    {
+     "from": "2024-12-27",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=100045",
+     "sha256": "bc8fa8aab700db40811ea046150025fc64555beb7e2689341ea25d79daf2e573"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2024-100049",
+   "path": "aktgjykim/2024/100049",
+   "short": "GJK-KO15/24-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN KO15/24 PARASHTRUES INSTITUCIONI I AVOKATIT TË POPULLIT VLERËSIM I KUSHTETUTSHMËRISË SË NENIT 28 TË LIGJIT NR.08/L-228 PËR ZGJEDHJET E PËRGJITHSHME NË REPUBLIKËN E KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=100049",
+   "versions": [
+    {
+     "from": "2024-12-27",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=100049",
+     "sha256": "ad8f7d89d501a1f42b3723c6cdb1569b57f1acd11de6e591d07b0fce902c6fa7"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2024-85620",
+   "path": "aktgjykim/2024/85620",
+   "short": "GJK-KO55/23-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KO55/23 PARASHTRUES KRYETARI I KUVENDIT TË REPUBLIKËS SË KOSOVËS VLERËSIMI I AMENDAMENTEVE TË PROPOZUARA KUSHTETUESE, TË REFERUARA NGA KRYETARI I KUVENDIT TË REPUBLIKËS SË KOSOVËS MË 2 MARS 2023, PËRMES SHKRESËS NR. 08/3509/DO/1493/1",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=85620",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=85620",
+     "sha256": "193fa69d29371b04dc38a7029418e28070d46de503856e031ec7b7bdc47a2b05"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2024-87260",
+   "path": "aktgjykim/2024/87260",
+   "short": "GJK-KI137/23-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI137/23 PARASHTRUES NAIM BERISHA VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT REV. NR. 451/2022 TË 23 NËNTORIT 2022 TË GJYKATËS SUPREME",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=87260",
+   "versions": [
+    {
+     "from": "2024-02-22",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=87260",
+     "sha256": "4b6c7735136063eabfe2d7ecc6fea5bf528e00a900ff448d1cec1bb800253da0"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2024-87261",
+   "path": "aktgjykim/2024/87261",
+   "short": "GJK-KI186/22-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI186/22 PARASHTRUES MALUSH, SEJDI, HYSNI, SKENDER, ENVER, SHERIF, MEHDI, XHEVAT, QEMAJL DHE JAKUP BERISHA VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT REV. NR. 550/2021 TË 6 QERSHORIT 2022 TË GJYKATËS SUPREME TË REPUBLIKËS SË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=87261",
+   "versions": [
+    {
+     "from": "2024-02-22",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=87261",
+     "sha256": "e98295dc44ae8a1363d32c9cf5678dd0d3ab686e42c0d2564f9b79441db721d2"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2024-87740",
+   "path": "aktgjykim/2024/87740",
+   "short": "GJK-KI43/23-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI43/23 PARASHTRUES ARMEND HAMITI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT AA. NR. 37/22 TË 18 JANARIT 2023, TË GJYKATËS SUPREME TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=87740",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=87740",
+     "sha256": "b800ee59e6d19e2c65de48c23e659cb8ab35a31b8d7e6bdc1ea5e588977aeeef"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2024-87741",
+   "path": "aktgjykim/2024/87741",
+   "short": "GJK-KI103/23-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI103/23 PARASHTRUES ZYRA E RREGULLATORIT PËR ENERGJI E REPUBLIKËS SË KOSOVËS VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT ARJ.NR.116/2022 TË 9 MARSIT 2023 TË GJYKATËS SUPREME TË REPUBLIKËS SË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=87741",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=87741",
+     "sha256": "8c6ed361d42f2246698f25d5c91872ac7e7b4bf2102065740c1521ce3f725b2a"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2024-87823",
+   "path": "aktgjykim/2024/87823",
+   "short": "GJK-KI168/22-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI168/22 PARASHTRUES NUSRET KABASHI, BAJRAM KABASHI DHE DRITON KABASHI VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT AC-I-22-0418-A0001 TË 22 SHTATORIT 2022 TË KOLEGJIT TË APELIT TË DHOMËS SË POSAÇME TË GJYKATËS SUPREME TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=87823",
+   "versions": [
+    {
+     "from": "2024-03-13",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=87823",
+     "sha256": "9afb5159018b44008c5b7d6d270532f1407d5515ca3418d5ad3ec4a4ad6f9ba6"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2024-88152",
+   "path": "aktgjykim/2024/88152",
+   "short": "GJK-KI178/22-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI178/22 PARASHTRUES IBRAHIM TËRNAVA VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [REV. NR. 59/2021] TË GJYKATËS SUPREME TË 6 MAJIT 2022",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=88152",
+   "versions": [
+    {
+     "from": "2024-03-22",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=88152",
+     "sha256": "9c1b87d18086723da8ca4323f158c9fb38a7ebac98e270a26b2b1643567f0360"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2024-88894",
+   "path": "aktgjykim/2024/88894",
+   "short": "GJK-KI38/23-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI38/23 PARASHTRUES FLAMUR DYLHASI VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT [REV. NR. 205/2022] TË 10 TETORIT 2022 TË GJYKATËS SUPREME TË REPUBLIKËS SË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=88894",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=88894",
+     "sha256": "bb69225a5fc0ab286b2298faf7c346f2da00d9d83bdfcbf15a62de8cf4df7676"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2024-92543",
+   "path": "aktgjykim/2024/92543",
+   "short": "GJK-KO157/23-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KO157/23 PARASHTRUES VLORA DUMOSHI DHE 11 DEPUTETË TJERË VLERËSIM I KUSHTETUTSHMËRISË SË VENDIMIT NR. 08-V-583 TË KUVENDIT TË REPUBLIKËS SË KOSOVËS, TË 13 KORRIKUT 2023, PËR SHKARKIMIN E ANËTARES SË BORDIT TË ORGANIT SHQYRTUES TË PROKURIMIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=92543",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=92543",
+     "sha256": "dfc90b5588facd1b39e723d132fee81204044d5b2b366d4c85e83e42d8ad8019"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2024-92844",
+   "path": "aktgjykim/2024/92844",
+   "short": "GJK-KI154/23-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI154/23 PARASHTRUES AFRIM TAFARSHIKU VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT AC. NR. 8304/2021, TË 20 SHKURTIT 2023, TË GJYKATËS SË APELIT TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=92844",
+   "versions": [
+    {
+     "from": "2024-07-12",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=92844",
+     "sha256": "5a3bd8e45d39d065d91c0a57449969d3997ecc9cd5e6e3e1e937ce6e1232a73b"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2024-94996",
+   "path": "aktgjykim/2024/94996",
+   "short": "GJK-KO114/23, KO192/23, KO227/23 dhe KO229/23-AKGJ",
+   "title": "AKTGJYKIM NË RASTET E BASHKUARA NR. KO114/23, KO192/23, KO227/23 DHE KO229/23 PARASHTRUES GJYKATA SUPREME E REPUBLIKËS SË KOSOVËS VLERËSIM I KUSHTETUTSHMËRISË SË PARAGRAFIT 2 TË NENIT 4, PARAGRAFIT 4 TË NENIT 432, DHE PARAGRAFIT 2 TË NENIT 438 TË KODIT TË PROCEDURËS PENALE TË REPUBLIKËS SË KOSOVËS NR.08/L-032",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=94996",
+   "versions": [
+    {
+     "from": "2024-07-17",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=94996",
+     "sha256": "fcab8570b2cfd6ee787ea7761b9c67b6118f8dde2ecef4d7e93262b1f31c3c66"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2024-95231",
+   "path": "aktgjykim/2024/95231",
+   "short": "GJK-KO232/23 dhe KO233/23-AKGJ",
+   "title": "AKTGJYKIM NË RASTET NR. KO232/23 DHE KO233/23 PARASHTRUES TË KËRKESËS KO232/23, ABELARD TAHIRI DHE 10 (DHJETË) DEPUTETË TË TJERË TË KUVENDIT TË REPUBLIKËS SË KOSOVËS; KO233/23, BESIAN MUSTAFA DHE 10 (DHJETË) DEPUTETË TË TJERË TË KUVENDIT TË REPUBLIKËS SË KOSOVËS VLERËSIM I KUSHTETUTSHMËRISË SË LIGJIT NR. 08/L-180 PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJIT NR. 06/L-048 PËR KËSHILLIN",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=95231",
+   "versions": [
+    {
+     "from": "2024-08-09",
+     "units": 15,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=95231",
+     "sha256": "8070bc99ac66d0456f32f3465dca9cd01b6255f17e15ca0492175d6b5579df57"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2024-95410",
+   "path": "aktgjykim/2024/95410",
+   "short": "GJK-KO46/23-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN KO46/23 PARASHTRUES ABELARD TAHIRI DHE 9 (NËNTË) DEPUTETË TË TJERË TË KUVENDIT TË REPUBLIKËS SË KOSOVËS VLERËSIM I KUSHTETUTSHMËRISË SË LIGJIT NR. 08/L-121 PËR BYRONË SHTETËRORE PËR VERIFIKIMIN DHE KONFISKIMIN E PASURISË SË PAJUSTIFIKUESHME",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=95410",
+   "versions": [
+    {
+     "from": "2024-07-29",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=95410",
+     "sha256": "f61f4aa07e61626d4c281a08f7eb043f682c67ea3f516ac46eb0741aeff282be"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2024-95448",
+   "path": "aktgjykim/2024/95448",
+   "short": "GJK-KI199/22-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI199/22 PARASHTRUES N.P.T. “ARTA XH” VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT [E. REV. NR. 75/20] TË GJYKATËS SUPREME TË KOSOVËS TË 1 GUSHTIT 2022",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=95448",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=95448",
+     "sha256": "aa73a49ef66f84fe10299e0d58242258ae17e517bb5b54ff11bc84b7cfea1df3"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2024-95449",
+   "path": "aktgjykim/2024/95449",
+   "short": "GJK-KI04/23-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI04/23 PARASHTRUES AVDYL BAJGORA VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT, REV. NR. 43/2022, TË 10 TETORIT 2022 TË GJYKATËS SUPREME TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=95449",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=95449",
+     "sha256": "c98e12fd0ba31910521b4887c50cc11a988f457e556c1afb953d77b5896711a7"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2024-95450",
+   "path": "aktgjykim/2024/95450",
+   "short": "GJK-KI172/23-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI172/23 PARASHTRUES REJHANE CEKA FIKNETE CEKA LEJLANE CEKA SARA CEKA VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT REV. NR. 216/2023, TË 19 QERSHORIT 2023 TË GJYKATËS SUPREME TË KOSOVËS NË LIDHJE ME AKTGJYKIMIN AC. NR. 3023/2020, TË 7 PRILLIT 2023, TË GJYKATËS SË APELIT TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=95450",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=95450",
+     "sha256": "970e00ee914e83999270b23e1540b671b6eb86d26a3bd78d4805b824b7d3fd4f"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2024-95573",
+   "path": "aktgjykim/2024/95573",
+   "short": "GJK-KO248/23-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KO248/23 PARASHTRUES FERAT SHALA DHE 9 (NËNTË) DEPUTETË TË TJERË TË KUVENDIT TË REPUBLIKËS SË KOSOVËS VLERËSIM I KUSHTETUTSHMËRISË TË LIGJIT NR. 08/L-209 PËR INVESTIME TË QËNDRUESHME",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=95573",
+   "versions": [
+    {
+     "from": "2024-08-02",
+     "units": 12,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=95573",
+     "sha256": "87eb01b0a4ca21ad889e4a366b2bccbaeb0b51b20949258f381f1e08fab013f2"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2024-96520",
+   "path": "aktgjykim/2024/96520",
+   "short": "GJK-KI272/23-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI272/23 PARASHTRUES ALI TAHIRI KËRKESË PËR VLERËSIMIN E KUSHTETUTSHMËRISË SË AKTVENDIMIT [AKPA. II. NR. 163/23] TË 1 NËNTORIT 2023, TË PROKURORISË SË APELIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=96520",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=96520",
+     "sha256": "ad1af06d00e686c56641b86b50fed8f00b29c6d1ebe91f2a043f3a6b97b02805"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2024-96837",
+   "path": "aktgjykim/2024/96837",
+   "short": "GJK-KI23/24-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI23/24 PARASHTRUES AGIM ZOGAJ VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË KOLEGJIT TË APELIT TË DHOMËS SË POSAÇME TË GJYKATËS SUPREME TË KOSOVËS PËR ÇËSHTJE QË LIDHEN ME AGJENCINË KOSOVARE TË PRIVATIZIMIT [AC-I-21-0836-A0001], TË 26 TETORIT 2023",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=96837",
+   "versions": [
+    {
+     "from": "2024-09-05",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=96837",
+     "sha256": "123ef607d874fd93978a50152a094482952d054fbc323bf63068dc75ee2e5cac"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2024-97318",
+   "path": "aktgjykim/2024/97318",
+   "short": "GJK-KI190/22-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI190/22 PARASHTRUES RAMIZ ISAKU VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [AC-I-21-0642] TË 31 GUSHTIT 2022 TË KOLEGJIT TË APELIT TË DHOMËS SË POSAÇME TË GJYKATËS SUPREME",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=97318",
+   "versions": [
+    {
+     "from": "2024-09-19",
+     "units": 2,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=97318",
+     "sha256": "a8da160f51afeb63139797cd3224c1074b289a3696f28469270715b9c608dd03"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2024-97740",
+   "path": "aktgjykim/2024/97740",
+   "short": "GJK-KI49/23-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI49/23 PARASHTRUES SHABAN DULAHU DHE TË TJERËT VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [ARJ-UZVP.NR.109/2022] TË GJYKATËS SUPREME TË 20 TETORIT 2022",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=97740",
+   "versions": [
+    {
+     "from": "2024-10-02",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=97740",
+     "sha256": "b985ce6a8040b10c1375a12aab579e34018262f91cd78c00044474802bce550c"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2024-98586",
+   "path": "aktgjykim/2024/98586",
+   "short": "GJK-KI36/23-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI36/23 PARASHTRUES “DONA-IMPEX” SH.P.K. VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS E. REV. NR. 45/2021, TË 10 NËNTORIT 2022",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=98586",
+   "versions": [
+    {
+     "from": "2024-10-31",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=98586",
+     "sha256": "808cd6edfbc1d4129418fd2995b73b0be50067dc98965173dfd269b6a1f4c0ed"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2024-98587",
+   "path": "aktgjykim/2024/98587",
+   "short": "GJK-KI43/24-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI43/24 PARASHTRUES MERITA VISOKA, EROLL VISOKA, DHE MELINDE VISOKA VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT REV. NR. 382/2023 TË 17 TETORIT 2023 TË GJYKATËS SUPREME TË REPUBLIKËS SË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=98587",
+   "versions": [
+    {
+     "from": "2024-10-31",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=98587",
+     "sha256": "a3b4df1a570a87959875caeab0b297c797cf9675d241838c3fc1ea712189eb8f"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2024-98589",
+   "path": "aktgjykim/2024/98589",
+   "short": "GJK-KI84/22-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI84/22 PARASHTRUES SLAVICA ĐORĐEVIĆ VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT TË GJYKATËS SUPREME, REV. NR. 170/2021, TË 19 TETORIT 2021",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=98589",
+   "versions": [
+    {
+     "from": "2024-10-31",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=98589",
+     "sha256": "df9cc27dc1128cc499a88b775d655f7ab88b7a2540a785fec316119726c0f9d1"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2025-101525",
+   "path": "aktgjykim/2025/101525",
+   "short": "GJK-KI75/23 dhe KI225/23-AKGJ",
+   "title": "AKTGJYKIM NË RASTET NR. KI75/23 DHE KI225/23 PARASHTRUES ILIR EFENDIJA DHE ILIR BEQIRI VLERËSIM I KUSHTETUTSHMËRISË SË KOHËZGJATJES SË PROCEDURËS NË LËNDËN [P. NR. 724/15] NË GJYKATËN THEMELORE NË GJAKOVË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=101525",
+   "versions": [
+    {
+     "from": "2025-03-03",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=101525",
+     "sha256": "62ccd8cf3f982fdf2eea52ee59584b91df505885ded7517676f3d4a5b7292ff9"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2025-101526",
+   "path": "aktgjykim/2025/101526",
+   "short": "GJK-KI115/24-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI115/24 PARASHTRUES ISA GASHI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT AC. I. 23/0170 TË 22 SHKURTIT 2024 TË KOLEGJIT TË APELIT TË DHOMËS SË POSAÇME TË GJYKATËS SUPREME TË KOSOVËS PËR ÇËSHTJE QË LIDHEN ME AGJENCINË KOSOVARE TË PRIVATIZIMIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=101526",
+   "versions": [
+    {
+     "from": "2025-03-03",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=101526",
+     "sha256": "5c5ce3d5adbb53801d0e1f17f4630ecabc444bfe82f92250e2275b07763d72f1"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2025-101543",
+   "path": "aktgjykim/2025/101543",
+   "short": "GJK-KI220/23-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN KI220/23 PARASHTRUES ZIJADIN HAVOLLI VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT REV. NR.178/2023 TË 7 QERSHORIT 2023, TË GJYKATËS SUPREME TË REPUBLIKËS SË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=101543",
+   "versions": [
+    {
+     "from": "2025-03-03",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=101543",
+     "sha256": "0765bb98d2d52b344867c579a95c68f1a438f75dd9589e72b150fc5925fcecb2"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2025-101751",
+   "path": "aktgjykim/2025/101751",
+   "short": "GJK-KI184/23 dhe KI185/23-AKGJ",
+   "title": "AKTGJYKIM NË RASTET E BASHKUARA KI184/23 DHE KI185/23 PARASHTRUES DINO’S LAS VEGAS SH.P.K DHE MATRIX SH.P.K VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT E. REV. NR.5/2022 TË 3 MAJIT 2023 TË GJYKATËS SUPREME TË REPUBLIKËS SË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=101751",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=101751",
+     "sha256": "d389ccc2509985f967de507b69b6f16646a8351c5e91f770a5893f32d961e0a9"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2025-102210",
+   "path": "aktgjykim/2025/102210",
+   "short": "GJK-KI142/23-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN KI142/23 PARASHTRUES FADIL BERISHA VLERËSIM I KUSHTETUTSHMËRISË SË KOHËZGJATJES SË PROCEDURAVE NË LËNDËN CIVILE C.NR.655/2006 NGA GJYKATA THEMELORE NË GJAKOVË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=102210",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=102210",
+     "sha256": "3f844d1657f6d6165cf2985df114332abd3cd6d22123e61057b995c1a7939cad"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2025-105421",
+   "path": "aktgjykim/2025/105421",
+   "short": "GJK-KO234/24-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KO234/24 PARASHTRUES AVOKATI I POPULLIT VLERËSIM I KUSHTETUTSHMËRISË SË PARAGRAFËVE 2, 4, 5, 6 DHE 7 TË NENIT 331 TË KODIT NR. 08/L-247 DOGANOR DHE TË AKCIZAVE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=105421",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 2,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=105421",
+     "sha256": "971103a7cdb23391daef20e0ec98be37d7cfacee7d2ef3bdbc92226328ad51f3"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2025-108444",
+   "path": "aktgjykim/2025/108444",
+   "short": "GJK-KI73/24-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI73/24 PARASHTRUES “COMPANY 21” SH.P.K. VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT ARJ. NR. 188/2023 TË 18 JANARIT 2024 TË GJYKATËS SUPREME TË REPUBLIKËS SË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=108444",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=108444",
+     "sha256": "9b8811ffa2c6f7563a2bd708feaffc543774dd71b08d4615c00ea27ef3bfdef3"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2025-108733",
+   "path": "aktgjykim/2025/108733",
+   "short": "GJK-KI18/25-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI18/25 PARASHTRUES ADAM NEZAJ VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [PML.NR.703/2023] TË 17 KORRIKUT 2024 TË GJYKATËS SUPREME TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=108733",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=108733",
+     "sha256": "b257f8e99394b69aab16fd5cfee8b81ac74b1536252cd7643a1c7e42341d6dfa"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2025-109126",
+   "path": "aktgjykim/2025/109126",
+   "short": "GJK-KO193/25 dhe KO196/25-AKGJ",
+   "title": "AKTGJYKIM NË RASTET NR. KO193/25 DHE KO196/25 PARASHTRUES KO193/25, MEMLI KRASNIQI DHE 12 (DYMBËDHJETË) DEPUTETË TË TJERË TË KUVENDIT TË REPUBLIKËS SË KOSOVËS; KO196/25, HYKMETE BAJRAMI DHE 10 (DHJETË) DEPUTETË TË TJERË TË KUVENDIT TË REPUBLIKËS SË KOSOVËS VLERËSIM I KUSHTETUTSHMËRISË SË “VENDIMIT TË KUVENDIT PËR VOTIMIN E KOMISIONIT PËR VOTIM TË FSHEHTË, NË KUADËR TË VAZHDIMI",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=109126",
+   "versions": [
+    {
+     "from": "2025-08-18",
+     "units": 3,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=109126",
+     "sha256": "3a4aa759005d853a4c2e257d41fbc695f422bfb9fa87a47aa9792935fa434c93"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2025-109629",
+   "path": "aktgjykim/2025/109629",
+   "short": "GJK-KI187/23-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI187/23 PARASHTRUES TRAJKO STOJKOVIĆ VLERËSIMI I KUSHTETUTSHMËRISË SË KOHËZGJATJES SË PROCEDURËS GJYQËSORE NË GJYKATËN THEMELORE NË PEJË, PËRKITAZI ME LËNDËN C.NR.112/09",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=109629",
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=109629",
+     "sha256": "834d9e3b22ba9359cd214e0d8759fc92d43db93a50cdb444482595d662cd698e"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2025-111093",
+   "path": "aktgjykim/2025/111093",
+   "short": "GJK-KI216/23-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI216/23 PARASHTRUES HADI BAKIJA VLERËSIM I KUSHTETUTSHMËRISË SË KOHËZGJATJES SË PROCEDURËS NË LËNDËN CN. NR. 454/01 NË GJYKATËN THEMELORE NË GJAKOVË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=111093",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=111093",
+     "sha256": "5e884e9f1c6bd67e581d5aa27bd6f07c5d4f177724798704d78d58338ff0b24a"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2025-111210",
+   "path": "aktgjykim/2025/111210",
+   "short": "GJK-KI83/23-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN KI83/23 PARASHTRUES FLORIZEL SIQECA VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT REV. NR. 117/2022 TË GJYKATËS SUPREME TË KOSOVËS TË 6 DHJETORIT 2022",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=111210",
+   "versions": [
+    {
+     "from": "2025-10-08",
+     "units": 3,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=111210",
+     "sha256": "15a0871419fd1c9f9451be2353ee8cb2b755ef1b5de0b003f292feac6d4dbab4"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2025-111212",
+   "path": "aktgjykim/2025/111212",
+   "short": "GJK-KI121/23-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI121/23 PARASHTRUES JAHIR GASHI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [REV. NR. 232/2022] TË 22 SHKURTIT 2023 TË GJYKATËS SUPREME TË REPUBLIKËS SË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=111212",
+   "versions": [
+    {
+     "from": "2025-10-08",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=111212",
+     "sha256": "3a2174ca79655c14aa151e7087f053f0fc22176b10f4fa909ad4b61225f04f11"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2025-112264",
+   "path": "aktgjykim/2025/112264",
+   "short": "GJK-KI129/25-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI129/25 PARASHTRUES ADEM DERVISHAJ VLERËSIM I KUSHTETUTSHMËRISË SË KOHËZGJATJES SË TË GJITHA PROCEDURAVE GJYQËSORE LIDHUR ME LËNDËN [C.NR.370/19] NË GJYKATËN THEMELORE NË PEJË-DEGA NË DEÇAN DHE LËNDËN [CA. NR. 1294/2024] NË GJYKATËN E APELIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=112264",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=112264",
+     "sha256": "f0277d9cf7da18618b85f44bb63aa013b795926da5426d81c67a51c645dc3e43"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2025-112475",
+   "path": "aktgjykim/2025/112475",
+   "short": "GJK-KI138/25-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI138/25 PARASHTRUES “LIRIK DRAGUSHA” B.I VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT [A-REV.NR.27/2024] TË 18 DHJETORIT 2024 TË GJYKATËS SUPREME TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=112475",
+   "versions": [
+    {
+     "from": "2025-11-13",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=112475",
+     "sha256": "25df719c93ef9ab40fb71d99b29b45dadf83e4151fec49493525a4cc95ca999d"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2025-113061",
+   "path": "aktgjykim/2025/113061",
+   "short": "GJK-KI04/24-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI04/24 PARASHTRUES FABRIKA E ENËVE “ENA” SH.A. VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT [AC-I-23-0613-A0001] TË 9 NËNTORIT 2023 TË KOLEGJIT TË APELIT TË DHOMËS SË POSAÇME TË GJYKATËS SUPREME TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=113061",
+   "versions": [
+    {
+     "from": "2025-12-03",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=113061",
+     "sha256": "3281ae99a94b2bdead0ff8bdd4d2732d354baf2f72dc1609a4be1011103a9a0b"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2025-113336",
+   "path": "aktgjykim/2025/113336",
+   "short": "GJK-KI02/23-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI02/23 PARASHTRUES DERVISH TAHIRI VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT TË GJYKATËS SË APELIT, AC.NR.8952/2021, TË 18 KORRIKUT 2022",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=113336",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 3,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=113336",
+     "sha256": "6aeec6e52bb7a5d71f27491fef7d071427d6c60e36f37b041c6d5335ad19d4a4"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2025-113338",
+   "path": "aktgjykim/2025/113338",
+   "short": "GJK-KI214/23-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI 214/23 PARASHTRUES HASAN BERISHA VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT REV.NR. 72/2023, TË 12 MAJIT 2023, TË GJYKATËS SUPREME TË REPUBLIKËS SË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=113338",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 3,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=113338",
+     "sha256": "171b50bb5c439f6354afb2167ce794dbfcfdcac575eb95f2b122c35d3e17abe0"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2025-113416",
+   "path": "aktgjykim/2025/113416",
+   "short": "GJK-KI205/25-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI205/25 PARASHTRUES SH.A.M VLERËSIM I KUSHTETUTSHMËRISË SË MOSEKZEKUTIMIT TË AKTGJYKIMIT [C.NR.81/10] TË 20 MARSIT 2015 TË GJYKATËS THEMELORE NË PRISHTINË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=113416",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=113416",
+     "sha256": "a3811dd97ba8fc9a30d148af4659435190eae235ad81e7a864d13d8528da1603"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2025-114596",
+   "path": "aktgjykim/2025/114596",
+   "short": "GJK-KI192/25-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI192/25 PARASHTRUES FATON JASHARI VLERËSIM I KUSHTETUTSHMËRISË SË KOHËZGJATJES SË PROCEDURËS NË LËNDËN CIVILE [C.NR.928/05] NË GJYKATËN THEMELORE NË PRISHTINË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=114596",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=114596",
+     "sha256": "29c95bd8e1982aa9a8711bb51f1a0918166563e79b55f7eeebc01eb7302d7dfb"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2025-114736",
+   "path": "aktgjykim/2025/114736",
+   "short": "GJK-KI211/25-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN KI211/25 PARASHTRUES BURBUQE PRUTHI VLERËSIM I KUSHTETUTSHMËRISË SË KOHËZGJATJES SË PROCEDURAVE NË LIDHJE ME LËNDËN CIVILE [CN. NR. 301/22]",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=114736",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=114736",
+     "sha256": "04e39c483435534c14baa11e64a0a8e185713a8101bc3b02e60a3421f4cda6f4"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2026-117822",
+   "path": "aktgjykim/2026/117822",
+   "short": "GJSK-P.A.nr. 42/2025-AKGJ",
+   "title": "AKTGJYKIM P.A.NR. 42/2025 (Gjykata Supreme e Kosovës)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=117822",
+   "versions": [
+    {
+     "from": "2008-06-15",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=117822",
+     "sha256": "b35d29f2125eb505855fdbb9b8cbf433652dea65880f9f4a9adfe4ab2fb33476"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2026-118015",
+   "path": "aktgjykim/2026/118015",
+   "short": "GJK-KI199/25-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN KI199/25 PARASHTRUES HYSEN SHEHU VLERËSIM I KUSHTETUTSHMËRISË SË KOHËZGJATJES SË PROCEDURAVE NË LËNDËN [C-III.-12-1592] NGA DHOMA E POSAÇME E GJYKATËS SUPREME PËR ÇËSHTJET NË LIDHJE ME AGJENCINË KOSOVARE TË PRIVATIZIMIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=118015",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=118015",
+     "sha256": "44220b85657a07770023474992be8b95be196c1847d91e2c920a2feb97745a31"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2026-118652",
+   "path": "aktgjykim/2026/118652",
+   "short": "GJSK-P.A.nr. 01/2026-AKGJ",
+   "title": "AKTGJYKIM P.A.NR. 01/2026 (Gjykata Supreme e Kosovës)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=118652",
+   "versions": [
+    {
+     "from": "2008-06-15",
+     "units": 2,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=118652",
+     "sha256": "b6cdd9a4a46de62ed8a2926657cb8cb4b1f16752cb246dfa272fce80c3b47a42"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2026-119297",
+   "path": "aktgjykim/2026/119297",
+   "short": "GJSK-P.A.nr. 43/2025-AKGJ",
+   "title": "AKTGJYKIM P.A.NR. 43/2025 (Gjykata Supreme e Kosovës)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=119297",
+   "versions": [
+    {
+     "from": "2008-06-15",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=119297",
+     "sha256": "17bca7f0e57718854a3bd3b3a7b1bc4ca38913db8f201918bb94574db0fef830"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2026-119918",
+   "path": "aktgjykim/2026/119918",
+   "short": "GJK-KI275/25-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI275/25 PARASHTRUES BLERIM KOPRESHI VLERËSIM I KUSHTETUTSHMËRISË SË KOHËZGJATJES SË PROCEDURËS NË LËNDËN [CN. NR. 77/20] NË GJYKATËN THEMELORE NË PRIZREN",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=119918",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=119918",
+     "sha256": "7a2dc0802a7fc806e98e4dd713fc25a2ca17cf9a4ff9ad88c6340360c06723fc"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2026-120142",
+   "path": "aktgjykim/2026/120142",
+   "short": "GJK-KI202/25-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI202/25 PARASHTRUES AJSHE ADEMI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [AC-I-23-0698] TË 22 MAJIT 2025 TË DHOMËS SË POSAÇME TË GJYKATËS SUPREME",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=120142",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=120142",
+     "sha256": "4cc9a3d374d745c3e2eb9856dd17bd1f2d4ca7f9e62ac96dc236029eebffbd00"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2026-120143",
+   "path": "aktgjykim/2026/120143",
+   "short": "GJK-KI337/25-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI337/25 PARASHTRUES NESHET KËRLESHI VLERËSIM I KUSHTETUTSHMËRISË SË KOHËZGJATJES SË PROCEDURËS NË LËNDËN [SCC-09-0016] NË DHOMËN E POSAÇME TË GJYKATËS SUPREME PËR ÇËSHTJET NË LIDHJE ME AGJENCINË KOSOVARE TË PRIVATIZIMIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=120143",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=120143",
+     "sha256": "5c3005da1bf11fcd5f1a9210ac8956dca719214577738a4d5cf4d2bc3cc3ddfa"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2026-120300",
+   "path": "aktgjykim/2026/120300",
+   "short": "GJK-KI151/25-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI151/25 PARASHTRUES FEHMI KAMERI VLERËSIM I KUSHTETUTSHMËRISË SË KOHËZGJATJES SË PROCEDURËS NË LËNDËN [C. NR. 3114/24] NË GJYKATËN THEMELORE NË GJAKOVË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=120300",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=120300",
+     "sha256": "93d239af3a9b16e7247c28b1b2fadf1a20db7b3690d7d502586f586543c3d4fe"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2026-120739",
+   "path": "aktgjykim/2026/120739",
+   "short": "GJK-KO84/25-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KO84/25 PARASHTRUES KOMUNA E GRAÇANICËS VLERËSIMI I KUSHTETUTSHMËRISË SË VENDIMIT [NR. 05/218] TË QEVERISË SË REPUBLIKËS SË KOSOVËS TË 28 GUSHTIT 2024",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=120739",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=120739",
+     "sha256": "f8a10d48f53224e21853f70b48cb223bb11470e5158f890f8d74c4c5d69a71ec"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2026-120792",
+   "path": "aktgjykim/2026/120792",
+   "short": "GJK-KI200/24-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI200/24 PARASHTRUES MEHMET PRISHTINA VLERËSIM I KUSHTETUTSHMËRISË SË KOHËZGJATJES SË PROCEDURËS GJYQËSORE PËRKITAZI ME LËNDËN [PPKR. NR. 130/16] PRANË GJYKATËS THEMELORE NË PRISHTINË – DEPARTAMENTI SPECIAL",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=120792",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 2,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=120792",
+     "sha256": "d900a953ebec9ce72ea9f8790a9ee85a715238ea5e076578db5a3b6fdb8927c2"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2026-120889",
+   "path": "aktgjykim/2026/120889",
+   "short": "GJK-KI296/25-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI296/25 PARASHTRUES MUHAMET MORINA VLERËSIM I KUSHTETUTSHMËRISË SË KOHËZGJATJES SË PROCEDURËS NË LËNDËN CIVILE C. NR. 896/2024 NGA GJYKATA THEMELORE NË GJAKOVË – DEGA NË RAHOVEC",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=120889",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=120889",
+     "sha256": "0fb61ed7205c94f30ca98e4adb8513b4261f416544a1d10a98a16f768540e7b1"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2026-121139",
+   "path": "aktgjykim/2026/121139",
+   "short": "GJSK-P.A.nr.5/2025-AKGJ",
+   "title": "AKTGJYKIM P.A.NR. 5/2025 (Gjykata Supreme e Kosovës)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=121139",
+   "versions": [
+    {
+     "from": "2008-06-15",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=121139",
+     "sha256": "302a7f809d70baf4a0fcba1cf0fda77f8d260b69f1075249e2fe5cf300127713"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2026-121619",
+   "path": "aktgjykim/2026/121619",
+   "short": "GJK-KI159/25-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI159/25 PARASHTRUES QAMIL POPAJ VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [REV.NR.24/2025] TË 20 SHKURTIT 2025 TË GJYKATËS SUPREME TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=121619",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 3,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=121619",
+     "sha256": "b2798663c357252f75727be097ef5fb6245d4c05f3236e128557b22d2be8ef73"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2026-125255",
+   "path": "aktgjykim/2026/125255",
+   "short": "GJSK-P.A.nr.23/2026-AKGJ",
+   "title": "AKTGJYKIM P.A.NR. 23/2026 (Gjykata Supreme e Kosovës)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=125255",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 2,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=125255",
+     "sha256": "56f61ae5cce53123c0ccffd45923055a1e14b181598663b910e4a80b7c674d60"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2026-125256",
+   "path": "aktgjykim/2026/125256",
+   "short": "GJSK-P.A.nr.24/2026-AKGJ",
+   "title": "AKTGJYKIM P.A.NR. 24/2026 (Gjykata Supreme e Kosovës)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=125256",
+   "versions": [
+    {
+     "from": "2008-06-15",
+     "units": 2,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=125256",
+     "sha256": "6c88b8dd6fd09a48d12c70f2226ac94c1cdf891ba15d4f184ea07102a4150452"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2026-125903",
+   "path": "aktgjykim/2026/125903",
+   "short": "GJK-KI145/26-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI145/26 PARASHTRUES ANEMSHA SEJRANI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [AC-I-23-0761] TË 5 SHKURTIT 2026 TË KOLEGJIT TË APELIT TË DHOMËS SË POSAÇME TË GJYKATËS SUPREME PËR ÇËSHTJET NË LIDHJE ME AGJENCINË KOSOVARE TË PRIVATIZIMIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=125903",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=125903",
+     "sha256": "a8c85ba2b9f52bff1cd8726e6e9450ff7ea318838b2779b6446c9430e909223d"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-119714",
+   "path": "aktvendim/2026/119714",
+   "short": "GJK-KI213/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI213/25 PARASHTRUES LUMNIJE KOKAJ VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [REV. NR. 148/2024] TË 26 QERSHORIT 2024 TË GJYKATËS SUPREME TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=119714",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=119714",
+     "sha256": "867ce7777a7ee72eb3d248ca79b78dc3cc860c89389d02becf7c0a6c17266b12"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-119715",
+   "path": "aktvendim/2026/119715",
+   "short": "GJK-KI265/23-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI265/23 PARASHTRUES QAZIM GASHI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [REV. NR. 191/2023] TË 30 MAJIT 2023 TË GJYKATËS SUPREME TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=119715",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=119715",
+     "sha256": "dcc6a09a2e2ca1e5481a1a32dfc623effffdd2d19c555e69449fc913fee8ca10"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-119910",
+   "path": "aktvendim/2026/119910",
+   "short": "GJK-KI01/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI01/25 PARASHTRUES BESNIK KAVAJA VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT [AC-AKP. NR. 01/2024] TË 15 GUSHTIT 2024 TË GJYKATËS SUPREME TË REPUBLIKËS SË KOSOVËS, I NDËRLIDHUR ME VENDIMIN [KPCC/D/COMP/01/2019] E 27 SHTATORIT 2019 TË KOMISIONIT TË KËRKESAVE PRONËSORE TË KOSOVËS DHE VENDIMIN [NR. HPCC/REC/85/2006/C] MBI KËRKESËN PËR RISHQYRT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=119910",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 3,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=119910",
+     "sha256": "6d5dc41e27741f36fbda316f07d06b9319c2a79d12ae3323acb990813fc6c29d"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-119911",
+   "path": "aktvendim/2026/119911",
+   "short": "GJK-KI37/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI37/25 PARASHTRUES NAIM SMAJLI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [PML. NR. 529/2024] TË 10 TETORIT 2024 TË GJYKATËS SUPREME",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=119911",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=119911",
+     "sha256": "7f35abf460ea2741358415d72df7dcd7633f1de9b59a4f395bb00f83b9a419f5"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-119913",
+   "path": "aktvendim/2026/119913",
+   "short": "GJK-KI93/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI93/25 PARASHTRUES XHEVAHIRE QYQALLA-AGUSHI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT REV. NR. 502/2024 TË 8 NËNTORIT 2024 TË GJYKATËS SUPREME",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=119913",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=119913",
+     "sha256": "2704b4c860817be2ac31f8024a7b9f44eb0a7e4d514d29e48e7ad0bdb8775ee0"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-119915",
+   "path": "aktvendim/2026/119915",
+   "short": "GJK-KI105/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI105/25 PARASHTRUES AGRON BAJRAMI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [REV.NR.535/2024] TË 9 DHJETORIT 2024 TË GJYKATËS SUPREME TË REPUBLIKËS SË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=119915",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=119915",
+     "sha256": "1db5f2db942934d3fdaaa233503454d0151e9c6155414ce15c6fba55917d59f3"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-119916",
+   "path": "aktvendim/2026/119916",
+   "short": "GJK-KI207/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI207/25 PARASHTRUES ELMI DRAGUSHA VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [REV.NR.185/24] TË 24 SHTATORIT 2024 TË GJYKATËS SUPREME TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=119916",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=119916",
+     "sha256": "59d2b1d903791c9c82be6064b1c9a5f22f101960f3c999b6d10b217ecfca7d88"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-119917",
+   "path": "aktvendim/2026/119917",
+   "short": "GJK-KI220/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI220/25 PARASHTRUES MIHRIE BEIQI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [REV. NR. 416/2023] TË 6 MARSIT 2024 TË GJYKATËS SUPREME",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=119917",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=119917",
+     "sha256": "ed9e21f99820f395b4f48ca11215bb449394663edc477e2a39b5b218e1966c6c"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-120192",
+   "path": "aktvendim/2026/120192",
+   "short": "GJK-KI40/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI40/25 PARASHTRUES BYROJA KOSOVARE E SIGURIMIT VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [K.DH.SH.II.NR. 1007/24] TË 8 NËNTORIT 2024 TË GJYKATËS KOMERCIALE - DHOMAT E SHKALLËS SË DYTË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=120192",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=120192",
+     "sha256": "258e333f8c5140d562ec91bf67fd9f451d883f24a93b625cdc50aaaff0b8899d"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-120193",
+   "path": "aktvendim/2026/120193",
+   "short": "GJK-KI164/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI164/25 PARASHTRUES SEVDIJE LIMANI VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT CAP. NR. 357/2023, TË 27 DHJETORIT 2024, TË GJYKATËS SË APELIT TË KOSOVËS DHE NJOFTIMIT KMCL. NR. 36/25 TË 29 PRILLIT 2025, TË ZYRËS SË KRYEPROKURORIT TË SHTETIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=120193",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=120193",
+     "sha256": "1c5414d017f5978e294736ef9d38f60c4af75eaac63af5764410b4fbb386147d"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-120194",
+   "path": "aktvendim/2026/120194",
+   "short": "GJK-KI253/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI253/25 PARASHTRUES MERITA VISOKA, MELINDË VISOKA DHE EROLL VISOKA VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [REV. NR. 511/2024] TË 20 MARSIT 2025 TË GJYKATËS SUPREME TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=120194",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 2,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=120194",
+     "sha256": "e35ce9273c5e9913636de3c0b4003d9f76a4935e61d0598caa7d16b04272535f"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-120196",
+   "path": "aktvendim/2026/120196",
+   "short": "GJK-KI259/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI259/25 PARASHTRUES MTS SH.P.K VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT [ARJ. NR. 59/2025] TË 26 MARSIT 2025 TË GJYKATËS SUPREME TË REPUBLIKËS SË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=120196",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 3,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=120196",
+     "sha256": "0a59130bb1c2ed196c18d164d1ff8c949761731584ad74b8adb5e4c1be53c045"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-120197",
+   "path": "aktvendim/2026/120197",
+   "short": "GJK-KI264/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI264/25 PARASHTRUES ARTAN GJAKOVA DHE ARRIM GJAKOVA VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [REV.NR.52/2025] TË 14 PRILLIT 2025 TË GJYKATËS SUPREME TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=120197",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 2,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=120197",
+     "sha256": "6282d1590f42005781e34312680009c7d7411c84a9051796f6de3eea75d7822f"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-120201",
+   "path": "aktvendim/2026/120201",
+   "short": "GJK-KI277/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI277/25 PARASHTRUES MENTOR XHIHA VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [PML. NR. 185/2025] TË 16 PRILLIT 2025 TË GJYKATËS SUPREME TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=120201",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=120201",
+     "sha256": "f2412ca4631a852c91a756f6ca2f2ed33ec52247bddbe53918ea9a9630df0692"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-120202",
+   "path": "aktvendim/2026/120202",
+   "short": "GJK-KI289/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI289/25 PARASHTRUES MUSA IDRIZI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [REV.NR.604/2024] TË 5 MAJIT 2025 TË GJYKATËS SUPREME",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=120202",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 3,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=120202",
+     "sha256": "4ac7932ad52d64407ccf8353b5f866bdc0ff5abae4b5cdff2406715e85c6a065"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-120203",
+   "path": "aktvendim/2026/120203",
+   "short": "GJK-KI346/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI346/25 PARASHTRUES XHEVAT PODRIMQAKU VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [REV. NR. 269/2025] TË 27 GUSHTIT 2025, TË GJYKATËS SUPREME TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=120203",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=120203",
+     "sha256": "d2e3862f075e7bf361503234094f822fb179974587de103fafd2bbb52c6a3bb9"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-120204",
+   "path": "aktvendim/2026/120204",
+   "short": "GJK-KI349/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI349/25 PARASHTRUES ABDYLKADRI EJUPI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [AC-I-23-0573] TË 26 QERSHORIT 2025 TË KOLEGJIT TË APELIT TË DHOMËS SË POSAÇME TË GJYKATËS SUPREME TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=120204",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=120204",
+     "sha256": "8d92476972d65b5d3b3c508a6543ac037e3b320b7f40596d04bd5abf1944905c"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-120205",
+   "path": "aktvendim/2026/120205",
+   "short": "GJK-KI361/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI361/25 PARASHTRUES LAVDIM ISUFI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [PML.NR.603/2025] TË 14 TETORIT 2025 TË GJYKATËS SUPREME TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=120205",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=120205",
+     "sha256": "fc709140469cf8d5d1be56042d4422013b32f5b483b3e25de44fd59f26050fac"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-120207",
+   "path": "aktvendim/2026/120207",
+   "short": "GJK-KI134/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI134/25 PARASHTRUES TEFIK IBRAHIMI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [REV. NR. 170/24] TË 17 KORRIKUT 2024 TË GJYKATËS SUPREME",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=120207",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 3,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=120207",
+     "sha256": "7d0a582d9a733b63e072c1b20ab1ebe90c4061496d5b3c0848c9dd771906543d"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-120208",
+   "path": "aktvendim/2026/120208",
+   "short": "GJK-KI321/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI321/25 PARASHTRUES NIJAZI PAJAZITI VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT [CA. NR. 5129/2025] TË 10 QERSHORIT 2025 TË GJYKATËS SË APELIT TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=120208",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=120208",
+     "sha256": "e8da3f9205c9ae08e38713e699ee498397d7c644554937ff212c00f1834c6643"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-120299",
+   "path": "aktvendim/2026/120299",
+   "short": "GJK-KI02/26-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI02/26 PARASHTRUES FLORIM XHEMA VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [REV. NR. 343/2025] TË GJYKATËS SUPREME TË KOSOVËS, TË 7 KORRIKUT 2025",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=120299",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=120299",
+     "sha256": "d5c7bfdb6c51159f70bd13eedca1e5839e79313163a6a6dc52778e9554da3869"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-120789",
+   "path": "aktvendim/2026/120789",
+   "short": "GJK-KI39/26-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI39/26 PARASHTRUES BESFORT SHALA VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [REV. NR. 532 / 2024] TË 11 MARSIT 2025 TË GJYKATËS SUPREME TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=120789",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=120789",
+     "sha256": "131631ff2089fe6a6d8a9599301f994e884be5a0c493c6488f1f8c9c43c3bd98"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-120790",
+   "path": "aktvendim/2026/120790",
+   "short": "GJK-KI50/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI50/25 PARASHTRUES AVNI SOPI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT PML. NR. 716/2024 TË 5 DHJETORIT 2024 TË GJYKATËS SUPREME",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=120790",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=120790",
+     "sha256": "636470aae4feac386944c159f54927318e59a891c118f56d056bf2b86e838f7f"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-120791",
+   "path": "aktvendim/2026/120791",
+   "short": "GJK-KI189/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI189/25 PARASHTRUES TATJANA DAVILA, JELENA ZAFIROVIQ, MILENA ZHUTIQ, ZORAN KARAXHIQ VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT [REV. NR. 605/2024] TË 14 JANARIT 2025 TË GJYKATËS SUPREME TË REPUBLIKËS SË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=120791",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 3,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=120791",
+     "sha256": "f4b11b08d26d77c6ddafd75d9a20f86eb2bdb1cef8a30f2d964a339f684002e2"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-120793",
+   "path": "aktvendim/2026/120793",
+   "short": "GJK-KI373/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI373/25 PARASHTRUES BASHKIM RAMA VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [REV. NR. 72/2025] TË 16 QERSHORIT 2025 TË GJYKATËS SUPREME",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=120793",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=120793",
+     "sha256": "8b2c3027a216ff2a9fb2d8961d451727f76b1995c1af518adf037f59ee2d92e2"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-120794",
+   "path": "aktvendim/2026/120794",
+   "short": "GJK-KI385/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI385/25 PARASHTRUES SEDAT BASHA VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [AC-II-24-0001] TË 20 NËNTORIT 2025 I DHOMËS SË POSAÇME TË GJYKATËS SUPREME PËR ÇËSHTJET NË LIDHJE ME AGJENCINË KOSOVARE TË PRIVATIZIMIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=120794",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=120794",
+     "sha256": "6bf6325f22b213890bd26462be39ede37ec19dba5fcb7f2a90e6011caac1b668"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-120838",
+   "path": "aktvendim/2026/120838",
+   "short": "GJK-KI53/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI53/25 PARASHTRUES ABDYLHAMID RRMOKU VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [REV.NR.275/2024 ] TË 23 TETORIT 2024 TË GJYKATËS SUPREME TË REPUBLIKËS SË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=120838",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=120838",
+     "sha256": "ee49db1018457bffcdea9e410b5c441e270c507649a6609eef1fac40f1cb4fc7"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-120840",
+   "path": "aktvendim/2026/120840",
+   "short": "GJK-KI158/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI158/25 PARASHTRUES IBRAHIM SYLEJMANI VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT [REV.NR. 19/2025] TË 18 SHKURTIT 2025 TË GJYKATËS SUPREME TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=120840",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=120840",
+     "sha256": "55ff7a26ed0fb52c5094fc0ae0b9e5f2c2a58d7e06b374b5cf6a10ddb2905755"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-120842",
+   "path": "aktvendim/2026/120842",
+   "short": "GJK-KI317/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI317/25 PARASHTRUES KOMISIONI I PAVARUR I MEDIAVE VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT P.A.NR. 06/2025 TË 10 QERSHORIT 2025 TË GJYKATËS SUPREME TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=120842",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=120842",
+     "sha256": "e06115b14e220fc71be94c2a201e46964740800456d2f9bd3691d0befdeda963"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-120846",
+   "path": "aktvendim/2026/120846",
+   "short": "GJK-KI389/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI389/25 PARASHTRUES YLL SYLA VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [PA1. NR. 1642/2025] TË 7 TETORIT 2025 TË GJYKATËS SË APELIT TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=120846",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=120846",
+     "sha256": "38c7410c5b98dbaf1283e7d9c25a324c5d45ec1e120b9585bcf6fab2415626f5"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-120873",
+   "path": "aktvendim/2026/120873",
+   "short": "GJK-KI25/26-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI25/26 PARASHTRUES NT “NEDEX” B. I. VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [ARJ.NR.99/2023] TË 18 SHTATORIT 2025 TË GJYKATËS SUPREME",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=120873",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=120873",
+     "sha256": "7a48cd130cf7084b1f1f17d1a4bbff78488d4736092571c074e9bf44ca01b38d"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-120875",
+   "path": "aktvendim/2026/120875",
+   "short": "GJK-KI17/26-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI17/26 PARASHTRUESE MIRVETE SADIKU-IMERI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [REV. NR. 466/2025] TË 18 SHTATORIT 2025 TË GJYKATËS SUPREME TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=120875",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=120875",
+     "sha256": "8808cce938bd4e6776915789f669dac0298903a526fbd09bcdc5062e3b80fa6a"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-120876",
+   "path": "aktvendim/2026/120876",
+   "short": "GJK-KI170/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI170/25 PARASHTRUES BESART SALLA VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT TË GJYKATËS SË APELIT [A.C. NR. 4193/2024] TË 14 MAJIT 2025",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=120876",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=120876",
+     "sha256": "bf58c95aaaa4d2a892ed1b557c5d54a9c1d91599046d8c37b9df4824d55189a3"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-120877",
+   "path": "aktvendim/2026/120877",
+   "short": "GJK-KI125/24-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI125/24 PARASHTRUES ILIR SADIKU DHE ARBEN SADIKU VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT REV. NR. 434/2023, TË 17 JANARIT 2024, TË GJYKATËS SUPREME TË REPUBLIKËS SË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=120877",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 2,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=120877",
+     "sha256": "c8afaef9d0b9a7e14ce7dce7024b83d98e06bb0a1f917ef84d2cd6236d3b2f4b"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-120878",
+   "path": "aktvendim/2026/120878",
+   "short": "GJK-KI338/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI338/25 PARASHTRUES MENDERES DIBRANI, ZEQIRJA DIBRANI, KASHMAN DIBRANI, SHERIBAN DIBRANI, RAMADAN DIBRANI DHE MUZAFER DIBRANI VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT [REV. NR. 349/2024] TË 11 TETORIT 2024 TË GJYKATËS SUPREME TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=120878",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=120878",
+     "sha256": "bacb88fc40639791e2df7c57c1824cbe81a3f37eda1a7e329ed24e18ff7e3a58"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-120881",
+   "path": "aktvendim/2026/120881",
+   "short": "GJK-KI208/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI208/25 PARASHTRUES REXHEP KABASHI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [ARJ-UZVP. NR. 206/2023] TË 31 TETORIT 2023, TË GJYKATËS SUPREME TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=120881",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=120881",
+     "sha256": "8bc2ff5c4d696b5a5c9e2884c08d93a9fee5f1094ab28e0c0413336d7287f201"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-120884",
+   "path": "aktvendim/2026/120884",
+   "short": "GJK-KI145/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI145/25 PARASHTRUES DELI ÇOÇAJ VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME [REV. NR. 598/2024] TË 22 JANARIT 2025",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=120884",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=120884",
+     "sha256": "d27a52ae6bccd8e75ba5fffd4dd7435ee4f83e3bd18fe24ef80539878f67d8d5"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-120885",
+   "path": "aktvendim/2026/120885",
+   "short": "GJK-KI47/26-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI47/26 PARASHTRUES AHMET ALISHANI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [REV. NR. 207/2025] TË 17 KORRIKUT 2025 TË GJYKATËS SUPREME TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=120885",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=120885",
+     "sha256": "f4b354555e0162a4701584306c2a1be03190db9c09d1d7c09a4719318beff9c2"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-120888",
+   "path": "aktvendim/2026/120888",
+   "short": "GJK-KI302/26-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI302/25 PARASHTRUES FLAKA SHOSHI VLERËSIM I KUSHTETUTSHMËRISË SË PARAGRAFËVE 3 DHE 4 TË NENIT 153 (PARIMET E PROCESIT TË EMËRIMIT DHE AVANCIMIT) TË STATUTIT [KUV-08-770-ST] TË 19 KORRIKUT 2024 TË UNIVERSITETIT TË PRISHTINËS “HASAN PRISHTINA” DHE VENDIMIT [REF. NR. 6854] TË 28 GUSHTIT 2025 TË KËSHILLIT TË FAKULTETIT TË MJEKËSISË NË UNIVERSI",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=120888",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=120888",
+     "sha256": "44ff93814c92461784648835ec1b8a76ab0c6d9ecb5761fdd8996a311f9273ea"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-120890",
+   "path": "aktvendim/2026/120890",
+   "short": "GJK-KI244/24-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI244/24 PARASHTRUES “VISITORI” SH.P.K VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [REV.NR.19/2022] TË 23 SHKURTIT 2023 TË GJYKATËS SUPREME TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=120890",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=120890",
+     "sha256": "846fcd579b46ee46d83f00ddfcbfa22d0c6f9f12dc4e3a7993aae41e401d2513"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-120975",
+   "path": "aktvendim/2026/120975",
+   "short": "GJK-KI148/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI148/25 PARASHTRUES BEKIM RAJA VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [PML. NR. 740/2024] TË 19 MARSIT 2025 TË GJYKATËS SUPREME TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=120975",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=120975",
+     "sha256": "3056c0fd9fc2a68cb46471f80fbfa244a2d8f1fffc905f68d293109aab092e8c"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-121209",
+   "path": "aktvendim/2026/121209",
+   "short": "GJK-KI07/26-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI07/26 PARASHTRUES ADVIJE SHKUPI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [REV.NR.508/24] TË 10 MARSIT 2025 TË GJYKATËS SUPREME TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=121209",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=121209",
+     "sha256": "13ba7143b097b84902fea1d7f9ff7e9729d3019566c3e4d07ab45bce1d4f3fe8"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-121210",
+   "path": "aktvendim/2026/121210",
+   "short": "GJK-KI37/26-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI37/26 PARASHTRUES ARTON SELIMI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [REV. NR. 51/25] TË 5 QERSHORIT 2025 TË GJYKATËS SUPREME TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=121210",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=121210",
+     "sha256": "7283695ca97790fba3e2e3fdc66ebf8b7ce1d6db9c8290d77333c5de41fc8210"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-121212",
+   "path": "aktvendim/2026/121212",
+   "short": "GJK-KI88/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI88/25 PARASHTRUES IBRAHIM TËRNAVA VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT REV. NR. 213/2024, TË 22 KORRIKUT 2024 TË GJYKATËS SUPREME",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=121212",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=121212",
+     "sha256": "70a8ace5c8703eea1ca929d031cfd543b0529d32bb13efa580f8e9aeb7486c73"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-121285",
+   "path": "aktvendim/2026/121285",
+   "short": "GJK-KI34/26-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI34/26 PARASHTRUES N.SH. “ARBËRI” VLERËSIM I KUSHTETUTSHMËRISË SË KOHËZGJATJES SË PROCEDURËS GJYQËSORE NË LËNDËN [C.NR. 2666/15] TË GJYKATËS KOMERCIALE TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=121285",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=121285",
+     "sha256": "e8eda5347774780078ae5805a47fa23514b4f19999c886a7f7767d1e8e03afee"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-121617",
+   "path": "aktvendim/2026/121617",
+   "short": "GJK-KI92/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI92/25 PARASHTRUES N.P.N. “EUROING” SH.P.K. VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT [KOM. DH. SHK. II. NR. 1606/24] TË 12 DHJETORIT 2024 TË GJYKATËS KOMERCIALE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=121617",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=121617",
+     "sha256": "0d068beca2ffb0e64f247661a685428c3e2ad96033a0a9d2f7fcf5386e39ffa8"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-121618",
+   "path": "aktvendim/2026/121618",
+   "short": "GJK-KI157/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN KI157/25 PARASHTRUES SKENDER BEQA VLERËSIM I KUSHTETUTSHMËRISË SË KOHËZGJATJES SË PROCEDURAVE NË LËNDËN [C. NR. 1568/21] NGA GJYKATA THEMELORE NË GJAKOVË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=121618",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=121618",
+     "sha256": "ec63c2357ddf781b4fa7880e10974e88932dedc2e954bf1480ea3cf221ec1786"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-121620",
+   "path": "aktvendim/2026/121620",
+   "short": "GJK-KI376/25-AKV",
+   "title": "AKTVENDIM PËR PAPANUESHMËRI NË RASTIN NR. KI376/25 PARASHTRUES ALBINA BAJGORA VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SË APELIT [KA.NR.329/2025] TË 12 SHTATORIT 2025",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=121620",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=121620",
+     "sha256": "0f87912b475e0f6bbaa8082c83f70a4edfba8877e14e3e0b24cd8507cdf9ba65"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-121665",
+   "path": "aktvendim/2026/121665",
+   "short": "GJK-KI27/26-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI27/26 PARASHTRUES “STRIP DEPO” L.L.C. VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [K. DH. SH. II. NR. 1100/25] TË 12 SHTATORIT 2025 TË GJYKATËS KOMERCIALE TË KOSOVËS – DHOMA E SHKALLËS SË DYTË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=121665",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=121665",
+     "sha256": "ef226674e99f1c51fe1e365760ac19f269f3431ad65ccfc8aaf420fc76dbe23c"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-121666",
+   "path": "aktvendim/2026/121666",
+   "short": "GJK-KI47/24-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI47/24 PARASHTRUES MEJDI ZYMBERI VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT [AC. NR. 6241/ 2023] TË 1 DHJETORIT 2023 TË GJYKATËS SË APELIT TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=121666",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=121666",
+     "sha256": "db56dd30f362fff23ed4237dc7d1267e3fc858aa1a973d6049683c3b7329c889"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-121667",
+   "path": "aktvendim/2026/121667",
+   "short": "GJK-KI261/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR.KI261/25 PARASHTRUES X VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [PML.NR.574/2024] TË 28 PRILLIT 2024 TË GJYKATËS SUPREME",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=121667",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=121667",
+     "sha256": "00036ace227e4c2a840e30a76bac6db51f987e0e27018f11ac843c1038906e96"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-121668",
+   "path": "aktvendim/2026/121668",
+   "short": "GJK-KI287/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI287/25 PARASHTRUES NIKOLA PETROVIĆ VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [GŽ. NR. 578/2025] TË 18 SHKURTIT 2025 TË GJYKATËS SË APELIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=121668",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=121668",
+     "sha256": "11db5c2ff906d60df269469624d322adc6e7909661ff32ee4bf1cd2686ad216e"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-121838",
+   "path": "aktvendim/2026/121838",
+   "short": "GJK-KI14/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN KI14/25 PARASHTRUES UKSHIN AHMETI PRONAR I B.I/NNP ”SA-DEKOR” VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT AC-I-23-0558 TË 12 SHTATORIT 2024 TË KOLEGJI TË APELIT TË DHOMËS SË POSAÇME TË GJYKATËS SUPREME TË REPUBLIKËS SË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=121838",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 3,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=121838",
+     "sha256": "669f1e9f6b233b51fbcfc482ed3b628403fc15e88ae9aeb248867a1a65b9d14b"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-125072",
+   "path": "aktvendim/2026/125072",
+   "short": "GJK-KI97/26-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI97/26 PARASHTRUES ARBEN KRASNIQI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [REV.NR.659/2025] TË 24 SHKURTIT 2026 TË GJYKATËS SUPREME TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=125072",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 2,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=125072",
+     "sha256": "a0780a876f31554289740a4749bc0c87dd4b594abc75ab7b01f2a1ba2ac6c0f7"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-125073",
+   "path": "aktvendim/2026/125073",
+   "short": "GJK-KI115/26-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI115/26 PARASHTRUES VOJSANDA DINA VLERËSIM I KUSHTETUTSHMËRISË SË KOHËZGJATJES SË PROCEDURËS NË LËNDËN [C. NR. 691/23] NË GJYKATËN THEMELORE NË GJAKOVË - DEGA NË MALISHEVË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=125073",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=125073",
+     "sha256": "161da02223db0370297344c6793567d5be6bd2521dc9537c81e65d6828eab176"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-125075",
+   "path": "aktvendim/2026/125075",
+   "short": "GJK-KI166/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI166/25 PARASHTRUES BASHKIM LATIFAJ VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT [REV. NR. 12/2025] TË 3 PRILLIT 2025 TË GJYKATËS SUPREME",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=125075",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=125075",
+     "sha256": "b120a30181734feeba25f8f93c4b682d47e9c987740371418d57e3cb134919ae"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-125076",
+   "path": "aktvendim/2026/125076",
+   "short": "GJK-KI184/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI184/25 PARASHTRUES FAIK AZEMI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT REV.NR.26/2025 TË GJYKATËS SUPREME TË 14 SHKURTIT 2025",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=125076",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=125076",
+     "sha256": "9c85d8af3bd3f1ebd6fd87eb9043823af717faf0f5c543f797b4374e3c7e64f7"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-125077",
+   "path": "aktvendim/2026/125077",
+   "short": "GJK-KI297/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI297/25 PARASHTRUES EMINE BABUNI, SHKËNDIJE SOFRA, TONE GOJANI, VIOLETA BROQI DHE INDRIA KALIQANI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [AC.NR.5791/22] TË 6 MARSIT 2025 TË GJYKATËS SË APELIT TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=125077",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=125077",
+     "sha256": "7d99930141dc504e0818f0c0e1c21cfdfc649398276b80bcd84a768f0ba831ff"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-125078",
+   "path": "aktvendim/2026/125078",
+   "short": "GJK-KI356/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI356/25 PARASHTRUES NAZLIJE QEVANI VLERËSIM I KUSHTETUTSHMËRISË SË NJOFTIMIT [A. NR. 137/025 / PP/II. NR. 275/2023] LIDHUR ME “KËRKESËN PËR KTHIMIN E AFATIT TË MJETIT JURIDIK” I 1 SHTATORIT 2025, I PROKURORISË THEMELORE NË GJAKOVË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=125078",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=125078",
+     "sha256": "10afbe987e6cbd1a726eb576ba1a30e604caeb6ac3a7dd193e74762a5b01af6a"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-125079",
+   "path": "aktvendim/2026/125079",
+   "short": "GJK-KI369/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI369/25 PARASHTRUESE LUMNIJE ADEMI VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT [REV.NR.351/2025] TË 10 KORRIKUT 2025 TË GJYKATËS SUPREME TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=125079",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=125079",
+     "sha256": "c2caa77a6d8825e4e1fa9f61fb66140c87bd8d05a1957f4d959a1f3660a6770c"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-125253",
+   "path": "aktvendim/2026/125253",
+   "short": "GJK-KI209/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI209/25 PARASHTRUES DRITON XHARRA VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT REV. NR. 91/2025 TË 5 MARSIT 2025 TË GJYKATËS SUPREME TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=125253",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=125253",
+     "sha256": "ba4643ad3a3bc8ffa1c2557521caa1beb03c19f9e9037d10396c042b9e3cb13d"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-125549",
+   "path": "aktvendim/2026/125549",
+   "short": "GJK-KI336/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI336/25 PARASHTRUESE NAFIJE GUTAJ VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [CA.NR.8827/2022] TË 10 QERSHORIT 2025 TË GJYKATËS SË APELIT TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=125549",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=125549",
+     "sha256": "ae909af648dcceeee3906120afac0afbe77cca385ff00bed51e175d0b9b4f702"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-125821",
+   "path": "aktvendim/2026/125821",
+   "short": "GJK-KI288/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI288/25 PARASHTRUES TAIBE JASHARI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT A. NR. 843/2024 TË 14 MAJIT 2025 TË GJYKATËS THEMELORE NË PRISHTINË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=125821",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=125821",
+     "sha256": "d231d35a76ff823cbfc4bb9cb1b7ed18c1ba23459fbe54c4e09eb9ae20f11466"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-125902",
+   "path": "aktvendim/2026/125902",
+   "short": "GJK-KI242/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI242/25 PARASHTRUES S. R. VLERËSIM I KUSHTETUTSHMËRISË SË VENDIMIT [NR. 191/25] TË 14 PRILLIT 2025 TË MINISTRISË SË DREJTËSISË SË REPUBLIKËS SË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=125902",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=125902",
+     "sha256": "b873d5611e9bb06241960dba5aa076cd35f08da864b5e6dbbd2ac18d42d4e04d"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-126017",
+   "path": "aktvendim/2026/126017",
+   "short": "GJK-KI64/26-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI64/26 PARASHTRUES ARIF ELEZAJ KËRKESË PËR VLERËSIMIN E KUSHTETUTSHMËRISË SË AKTGJYKIMIT AA.NR.12/2026 TË 19 SHKURTIT 2026 TË GJYKATËS SUPREME TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=126017",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=126017",
+     "sha256": "a31c51b7a6896595fe487c52fed4539dbd990b68be476cb05e2f537ea950d33d"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-126018",
+   "path": "aktvendim/2026/126018",
+   "short": "GJK-KI143/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI143/25 PARASHTRUES BURIM VELIU VLERËSIM I KUSHTETUTSHMËRISË SË NJOFTIMIT TË ZYRËS SË KRYEPROKURORIT TË SHTETIT [KMLC. NR. 42/25] TË 28 PRILLIT 2025 DHE AKTVENDIMIT TË GJYKATËS SË APELIT TË REPUBLIKËS SË KOSOVËS [CA. NR. 881/2024] TË 19 DHJETORIT 2024",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=126018",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=126018",
+     "sha256": "e553fbefcf6748388b0ecf267cb7d978978628fa7c26bd0f5498473f91953f7d"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-126019",
+   "path": "aktvendim/2026/126019",
+   "short": "GJK-KI151/26-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI151/26 PARASHTRUES GENTIAN GURRA VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [A.REV.NR.29/2025] TË 22 JANARIT 2026 TË GJYKATËS SUPREME TË REPUBLIKËS SË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=126019",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=126019",
+     "sha256": "85b96b5a67437495c6bfeec71413f6463ecd816b9afd6af6da21d99ec3d3ed4d"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-126020",
+   "path": "aktvendim/2026/126020",
+   "short": "GJK-KI224/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI224/25 PARASHTRUES BEHXHET MUÇIQI VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT AC-I-25-0031 TË 29 MAJIT 2025 TË KOLEGJIT TË APELIT TË DHOMËS SË POSAÇME TË GJYKATËS SUPREME TË KOSOVËS PËR ÇËSHTJE QË LIDHEN ME AGJENCINË KOSOVARE TË PRIVATIZIMIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=126020",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=126020",
+     "sha256": "36ddc71b47bdd90737608876b15b01c1484cea07dd18f102115ac67386b6c22e"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-126021",
+   "path": "aktvendim/2026/126021",
+   "short": "GJK-KI290/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI290/25 PARASHTRUES MEJDI ELSHANI, HYSNIE ELSHANI, LEONORA KRASNIQI, MENTOR ELSHANI, SHPEND ELSHANI, SEVDIJE RIZANAJ VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [AC-I-23-0364] TË 15 MAJIT 2025 TË KOLEGJIT TË APELIT TË DHOMËS SË POSAÇME TË GJYKATËS SUPREME PËR ÇËSHTJET NË LIDHJE ME AGJENCINË KOSOVARE TË PRIVATIZIMIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=126021",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=126021",
+     "sha256": "d23791bf9a653cec9379bb0e8c643e14b84b6df970e5944ac90ab18fd094b12f"
+    }
+   ]
+  },
+  {
    "slug": "ligj-2008-2597",
    "path": "ligj/2008/2597",
    "short": "03/L-106",
@@ -778,6 +3388,21 @@
      "units": 5,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=125628",
      "sha256": "f6efb367a293db81be81582e180bc254b4b12740dd614e92113b7b47b413722f"
+    }
+   ]
+  },
+  {
+   "slug": "mendim-2024-89177",
+   "path": "mendim/2024/89177",
+   "short": "GJK-KI115/23-MEND",
+   "title": "MENDIM MOSPAJTUES I GJYQTARIT RADOMIR LABAN NË RASTIN NR. KI115/23 PARASHTRUES BRATISLAV NIKOLIĆ VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT [PN1. NR. 422/2023], TË 28 PRILLIT 2023, TË GJYKATËS SË APELIT TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=89177",
+   "versions": [
+    {
+     "from": "2023-02-17",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=89177",
+     "sha256": "20edaa22cf15b7c00d8b49cd8f57510e828badcb369ec0ace3c39012a99735fb"
     }
    ]
   },
@@ -6313,6 +8938,276 @@
      "units": 17,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=125413",
      "sha256": "13faf3ef405fb722d60462d95968bd1a84e5d7952bd7648ec51010407db4c94b"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2019-22110",
+   "path": "vendim/2019/22110",
+   "short": "GJK-KI70/19-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI70/19 PARASHTRUES LORENC KOLGJERAJ VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT TË GJYKATËS THEMELORE NË PRIZREN, PPP. NR. 267/2017, TË 15 PRILLIT 2019",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=22110",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=22110",
+     "sha256": "6feb9a6d0a1d3e1621c00025855ac5ef2304e8135e4e90d8cb4c025fa95864ef"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2019-22120",
+   "path": "vendim/2019/22120",
+   "short": "GJK-KI195/18-V",
+   "title": "VENDIM PËR HEDHJE POSHTË TË KËRKESËS NË RASTIN NR. KI195/18 PARASHTRUES AFRIM HAXHA VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT PAKR. NR. 468/18 TË GJYKATËS SË APELIT TË REPUBLIKËS SË KOSOVËS, TË 14 NËNTORIT 2018",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=22120",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=22120",
+     "sha256": "7cd8972a0a255d52d457793215e9f392004825fd7ddeddbdfc796b6ad9191783"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2019-23867",
+   "path": "vendim/2019/23867",
+   "short": "MTI-8024-V",
+   "title": "VENDIM PËR PUBLIKIMIN E LISTËS SË STANDARDEVE TË HARMONIZUARA",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=23867",
+   "versions": [
+    {
+     "from": "2019-10-04",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=23867",
+     "sha256": "d5eb5597a65816239c2cf3b89ce241a7ac01183f8e52826d89d0a90236504bf1"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2019-24595",
+   "path": "vendim/2019/24595",
+   "short": "GJK-KI72/19-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI72/19 PARASHTRUES AMIR HAMZA VLERËSIM I KUSHTETUTSHMËRISË SË AKTIT TË PASPECIFIKUAR TË AUTORITETIT PUBLIK",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=24595",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=24595",
+     "sha256": "4df2508019d5c3a3f1d01f58fbcd89a8d8e3aa752517c2008c0fb236002e063c"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2019-24938",
+   "path": "vendim/2019/24938",
+   "short": "GJK-KI64/19-V",
+   "title": "VENDIM PËR TËRHEQJE TË KËRKESËS NË RASTIN NR. KI64/19 PARASHTRUES EJUP KOCI VLERËSIM I KËRKESËS SË PARASHTRUESIT PËR TËRHEQJEN E KËRKESËS PËR VLERËSIM TË KUSHTETUTSHMËRISË SË AKTVENDIMIT [C.NR. 204/2015] TË 27 PRILLIT 2017 TË GJYKATËS THEMELORE NË MITROVICË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=24938",
+   "versions": [
+    {
+     "from": "2019-11-13",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=24938",
+     "sha256": "1866b7309451cdc7db8654286b66132b08215c21192882621d514d680dafb1eb"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2019-25605",
+   "path": "vendim/2019/25605",
+   "short": "GJK-KI82/19-V",
+   "title": "VENDIM PËR TËRHEQJE TË KËRKESËS NË RASTIN NR. KI82/19 PARASHTRUES IZET AHMETXHEKAJ VLERËSIM I KËRKESËS SË PARASHTRUESIT PËR TËRHEQJEN E KËRKESËS PËR VLERËSIMIN E KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS A.NR.664/2010, TË 29 MARSIT 2011 DHE AKTVENDIMIT TË GJYKATËS THEMELORE NË PEJË-DEGA NË ISTOG, C.NR.96/016, TË 15 PRILLIT 2019",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=25605",
+   "versions": [
+    {
+     "from": "2019-12-13",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=25605",
+     "sha256": "1f960cfd775930c181c8425254c320572dbb3cfb3b5d8fc1fcbca8d87a5fbbd3"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2019-25608",
+   "path": "vendim/2019/25608",
+   "short": "GJK-KI102/19-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI102/19 PARASHTRUES BEDRI GASHI KËRKESË PËR VLERËSIM TË KUSHTETUTSHMËRISË SË AKTVENDIMIT PËR PAPRANUESHMËRI NR. KI174/18, TË 7 MAJIT 2019",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=25608",
+   "versions": [
+    {
+     "from": "2019-12-13",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=25608",
+     "sha256": "93f854860c0ffc895f7e414d6f298a6fcc4dde738d39e5a43d6ef6c3772054e1"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2020-27679",
+   "path": "vendim/2020/27679",
+   "short": "K.PZ-01-126/19-2-V",
+   "title": "VENDIM PËRFUNDIMTAR NR. 01-126/19-2 (Komuna e Prizrenit)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=27679",
+   "versions": [
+    {
+     "from": "2020-03-16",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=27679",
+     "sha256": "43fb99c13dc0ebedef56e4d86af630d9c963384877a6b9bb7610d559982bbfbe"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2020-27801",
+   "path": "vendim/2020/27801",
+   "short": "GJK-KI100/19-V",
+   "title": "VENDIM PËR REFUZIMIN E KËRKESËS NË RASTIN NR. KI100/19 PARASHTRUES BEDRI GASHI SI PËRFAQËSUES I PRETENDUAR I Q. B., F. G., T. M., Z. B. DHE B. B. VLERËSIM I KUSHTETUTSHMËRISË SË AKTEVE TË PASPECIFIKUARA TË AUTORITETIT PUBLIK",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=27801",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=27801",
+     "sha256": "eeb733d90c71f486186b2212a97d0513567795460f11b4859cacd6721ed8788f"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2020-27802",
+   "path": "vendim/2020/27802",
+   "short": "GJK-104/19-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. 104/19 PARASHTRUES “ENA” VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT [AC-I-19-0013] TË 28 SHKURTIT 2019 TË DHOMËS SË POSAÇME TË GJYKATËS SUPREME TË REPUBLIKËS SE KOSOVËS PËR ÇËSHTJE QË LIDHEN ME AGJENCINË KOSOVARE TË PRIVATIZIMIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=27802",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=27802",
+     "sha256": "247a62c86e1d73ce49fd293f7fc0b58c07c72158b90ea6ebaff2984de23bd94e"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2020-27816",
+   "path": "vendim/2020/27816",
+   "short": "GJK-KI192/19-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI192/19 PARASHTRUES NASER SHALA VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT CA.NR. 1802/2019 TË GJYKATËS SË APELIT TË KOSOVËS, TË 6 MAJIT 2019",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=27816",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=27816",
+     "sha256": "5c38423571a7210a994f2e0e13b5ec66d44773a3c61d955fb70b553b4a931006"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2020-27819",
+   "path": "vendim/2020/27819",
+   "short": "GJK-KI205/19-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI205/19 PARASHTRUES SAHIT MUSA SI PËRFAQËSUES I PRETENDUAR J.H. VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT TË GJYKATËS SUPREME TË KOSOVËS, REV.NR.197/2019, TË 11 KORRIKUT 2019",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=27819",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=27819",
+     "sha256": "2910b4c717f1938eb3327f0852c029bc02b295ce0c3005ffa98e50c1d348d303"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2020-27827",
+   "path": "vendim/2020/27827",
+   "short": "GJK-KO72/20-AKV",
+   "title": "VENDIM PËR MASË TË PËRKOHSHME NË RASTIN NR. KO72/20 PARASHTRUES REXHEP SELIMI DHE 29 DEPUTETË TË TJERË TË KUVENDIT TË REPUBLIKËS SË KOSOVËS VLERËSIM I KUSHTETUTSHMËRISË SË DEKRETIT TË PRESIDENTIT TË REPUBLIKËS SË KOSOVËS, NR. 24/2020, TË 30 PRILLIT 2020",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=27827",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=27827",
+     "sha256": "de7e4ceba88a7739f7ccdb3ae8214f378fd4f49a43e0b74db3e100a4e88f3258"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2020-27829",
+   "path": "vendim/2020/27829",
+   "short": "GJK-KO203/19-V",
+   "title": "VENDIM PËR VAZHDIMIN E MASËS SË PËRKOHSHME NË RASTIN NR. KO203/19 PARASHTRUES AVOKATI I POPULLIT VLERËSIM I KUSHTETUTSHMËRISË SË NENEVE TË CAKTUARA TË LIGJIT NR. 06/L-114 PËR ZYRTARËT PUBLIK",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=27829",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=27829",
+     "sha256": "dcaafb1cd2fea50dcdb25a04ab87bc41e1170cce71c1b149964bc75c267e2059"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2020-28095",
+   "path": "vendim/2020/28095",
+   "short": "GJK-KI02/20-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI02/20 PARASHTRUES SKENDER MUSA SI PËRFAQËSUES I PRETENDUAR I PERSONIT E. Z. VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS PML. NR. 245/2019 TË 17 SHTATORIT 2019",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=28095",
+   "versions": [
+    {
+     "from": "2020-06-03",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=28095",
+     "sha256": "fa82587f0854eb0f6351250fde0ffa158da8e8fa02a75b082f872df8621f4424"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2020-28099",
+   "path": "vendim/2020/28099",
+   "short": "GJK-KI103/19-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI103/19 PARASHTRUES ILMI SOPA KËRKESË PËR VLERËSIMIN E KUSHTETUTSHMËRISË SË AKTVENDIMIT PËR PAPRANUESHMËRI NR. KI49/18 TË DATËS 14 DHJETOR 2018, TË GJYKATËS KUSHTETUESE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=28099",
+   "versions": [
+    {
+     "from": "2020-06-03",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=28099",
+     "sha256": "c3b3e919c8686ea7efe66a7f11712f32f9fafc0fe0e2fbdd587dc79e6414a319"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2020-29498",
+   "path": "vendim/2020/29498",
+   "short": "GJK-KI04/20-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI04/20 PARASHTRUES LULZIM SADIKU VLERËSIM I KUSHTETUTSHMËRISË SË “AKTGJYKIMIT TË PRETENDUAR TË GJYKATËS SË APELIT TË KOSOVËS PAKR. NR. 494/16, TË 11 NËNTORIT 2016“",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=29498",
+   "versions": [
+    {
+     "from": "2020-06-22",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=29498",
+     "sha256": "77ad3927dce4081c3c4fa6d92d390fb4ac80c1f378519c7e880b704856666d5e"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2020-29502",
+   "path": "vendim/2020/29502",
+   "short": "GJK-KO116/19-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KO116/19 PARASHTRUES ISMET KRYEZIU SI PËRFAQËSUES I PRETENDUAR I MINISTRISË SË MJEDISIT DHE PLANIFIKIMIT HAPËSINOR TË REPUBLIKËS SË KOSOVËS KËRKESË PËR INTERPRETIM LIGJOR TË AKTVENDIMIT AC-I-13-0125-0001 DHE 0002 TË KOLEGJIT TË APELIT TË DHOMËS SË POSAÇME TË GJYKATËS SUPREME TË KOSOVËS PËR ÇËSHTJE QË LIDHEN ME AGJENCINË KOSOVARE TË PR",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=29502",
+   "versions": [
+    {
+     "from": "2020-06-22",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=29502",
+     "sha256": "46886d957d845995815bc426f5bbee6192bfbd43d82a914ceb4a26f82df4b085"
     }
    ]
   },
