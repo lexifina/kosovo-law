@@ -782,6 +782,21 @@
    ]
   },
   {
+   "slug": "rregulla-2025-102878",
+   "path": "rregulla/2025/102878",
+   "short": "MKRS-54/2024-RRA",
+   "title": "RREGULLAT KOMBËTARE ANTIDOPING",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=102878",
+   "versions": [
+    {
+     "from": "2025-04-15",
+     "units": 29,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=102878",
+     "sha256": "04b652eeb8479c74233ca7cd5cb2d2f8c3db5759323692cc14ce230ac5b9b29d"
+    }
+   ]
+  },
+  {
    "slug": "rregullore-2019-111849",
    "path": "rregullore/2019/111849",
    "short": "K.GJL-016-35873-RR",
@@ -3103,6 +3118,21 @@
      "units": 14,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=125731",
      "sha256": "f407a8ea38a7f9eb64b0088b9ba07662294174ceafa5c3a8940fae15068c3866"
+    }
+   ]
+  },
+  {
+   "slug": "statut-2025-102454",
+   "path": "statut/2025/102454",
+   "short": "MKRS-01/2025-ST",
+   "title": "STATUTI I MUZEUT TË ARTIT BASHKËKOHOR",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=102454",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 24,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=102454",
+     "sha256": "d6c93445f4d2928a3b6e0236fa667da9b6776a75071148a4d14b3556308eae91"
     }
    ]
   },
@@ -6268,6 +6298,141 @@
      "units": 17,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=125413",
      "sha256": "13faf3ef405fb722d60462d95968bd1a84e5d7952bd7648ec51010407db4c94b"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2025-102139",
+   "path": "vendim/2025/102139",
+   "short": "GJK-KI200/23-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI200/23 PARASHTRUES BUJAR HOTI KËRKESË PËR VLERËSIMIN E KUSHTETUTSHMËRISË SË AKTGJYKIMIT [REV.NR.271/2023] TË 31 KORRIKUT 2023 TË GJYKATËS SUPREME TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=102139",
+   "versions": [
+    {
+     "from": "2025-03-19",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=102139",
+     "sha256": "0362a18d7bed78d4af5fd5060095f36ef1913cc536d6fe209eb118beb67f3fe1"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2025-102205",
+   "path": "vendim/2025/102205",
+   "short": "MM-NR 1/123/2025-V",
+   "title": "VENDIM NR. NR 1/123/2025 (Ministria e Mbrojtjes)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=102205",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=102205",
+     "sha256": "812e2cf733cc796da45b555c40c953209df0e10938a20cfb7b6bac1d33412f54"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2025-102524",
+   "path": "vendim/2025/102524",
+   "short": "MINT-01/24-V",
+   "title": "VENDIM NR. 01/24 (Ministria e Industrisë, Ndërmarrësisë dhe Tregtisë)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=102524",
+   "versions": [
+    {
+     "from": "2025-04-05",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=102524",
+     "sha256": "5f033f88e066342bcd5ad8f5128445bc1be93e2ad75d27087c8111af155a3404"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2025-106501",
+   "path": "vendim/2025/106501",
+   "short": "GJK-KI85/24-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI85/24 PARASHTRUES DESTAN SHABANAJ VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [PML.NR.46/2022] TË 23 QERSHORIT 2023 TË GJYKATËS SUPREME",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=106501",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=106501",
+     "sha256": "2ddaff6268b2e7b048345ddaaeac17f0d13730382fd2766bb0ebc83b9ea5004d"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2025-108106",
+   "path": "vendim/2025/108106",
+   "short": "GJK-KO193/25 dhe KO196/25-V",
+   "title": "VENDIM PËR VENDOSJEN EX OFFICIO TË MASËS SË PËRKOHSHME NË RASTET NR. KO193/25 DHE KO196/25 PARASHTRUES TË KËRKESAVE KO193/25, MEMLI KRASNIQI DHE 12 (DYMBËDHJETË) DEPUTETË TË TJERË TË KUVENDIT TË REPUBLIKËS SË KOSOVËS; KO196/25, HYKMETE BAJRAMI DHE 10 (DHJETË) DEPUTETË TË TJERË TË KUVENDIT TË REPUBLIKËS SË KOSOVËS VLERËSIM I KUSHTETUTSHMËRISË SË “VENDIMIT TË KUVENDIT PËR V",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=108106",
+   "versions": [
+    {
+     "from": "2025-07-27",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=108106",
+     "sha256": "d1c8be23040942ffe5568f1b7e6f3ee1cadaa60222dfc34913106ccb84d9baed"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2025-108442",
+   "path": "vendim/2025/108442",
+   "short": "GJK-KI235/23-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI235/23 PARASHTRUES MENTOR NEZIRI SI PËRFAQËSUES I PRETENDUAR I A.G. VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS, PML. NR. 351/2023, TË 28 KORRIKUT 2023",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=108442",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=108442",
+     "sha256": "13806b526334f0ab70191d9a5cd7dcdc22a541d679cf423dcf7351c63a992a61"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2025-108580",
+   "path": "vendim/2025/108580",
+   "short": "GJK-KO84/25-V",
+   "title": "VENDIM PËR MASË TË PËRKOHSHME NË RASTIN NR. KO84/25 PARASHTRUES KOMUNA E GRAÇANICËS VLERËSIMI I KUSHTETUTSHMËRISË SË VENDIMIT NR.05/218 TË 28 GUSHTIT 2024 TË QEVERISË SË REPUBLIKËS SË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=108580",
+   "versions": [
+    {
+     "from": "2025-08-06",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=108580",
+     "sha256": "a7e9fa8f43e708d9234e8797c1f655d73271f60dc6e8cf801aaa3b6cce73bb9f"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2025-108602",
+   "path": "vendim/2025/108602",
+   "short": "GJK-KI94/24-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI94/24 PARASHTRUES AGRON DALLADAKU KËRKESË PËR RISHQYRTIMIN E AKTVENDIMIT PËR PAPRANUESHMËRI NR. KI15/23 TË 23 SHKURTIT 2024 TË GJYKATËS KUSHTETUESE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=108602",
+   "versions": [
+    {
+     "from": "2025-08-06",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=108602",
+     "sha256": "4d5be15d59aa4bbdfc6780d769afcff0e84657bdb718b87daa3c77f6ef430f6a"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2025-108734",
+   "path": "vendim/2025/108734",
+   "short": "GJK-KI61/25-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI61/25 PARASHTRUES SHPETIM SADIKU SI PËRFAQËSUES I PRETENDUAR I J.A. VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT REV. NR. 415/2024 TË 30 SHTATORIT 2024 TË GJYKATËS SUPREME",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=108734",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=108734",
+     "sha256": "c4a40563598004b881f283e779e9ebac144cd2928786430304786908b25591a4"
     }
    ]
   },
