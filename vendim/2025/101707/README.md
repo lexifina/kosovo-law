@@ -1,0 +1,16 @@
+# VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI185/24 PARASHTRUES “GLOBAL TRADE AF” SH.P.K. VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT ARJ. NR. 24/2024 TË 21 MARSIT 2024 TË GJYKATËS SUPREME
+
+GJK-KI185/24-V · 1 versions, from 2025-03-07 (latest in force: 2025-03-07) · <https://gzk.rks-gov.net/ActDetail.aspx?ActID=101707>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Teksti | [teksti.md](teksti.md) | 0 |  |
+
+Act id: `vendim-2025-101707` (tags `vendim-2025-101707/<day>`; `python tools/on.py <day> vendim-2025-101707`).
+
+## Decisions made by hand
+
+- Acts added after the first build (sub-legal acts and laws not yet in the record) are published as published in the Official Gazette, one version each, only when the Gazette links no act that amends, supplements or repeals them, does not mark them repealed, and no later act's title names them; the others are held back.
+- Each one takes effect on the day its own in-force article gives (days after publication, the publication day, a date); 'on the day of signature' takes the date in the act's title; an act with no readable rule is held back. The rule's words are quoted in the version note.
+- The enacted date given is the Gazette publication day.
+- Text: the Albanian PDF's text layer, joined into paragraphs and split into the preamble (hyrje), one file per article (neni-NNN) and the signature (nenshkrimi), by the same reader as the rest of the record; tables run on as lines.

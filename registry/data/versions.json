@@ -6302,6 +6302,126 @@
    ]
   },
   {
+   "slug": "vendim-2025-100586",
+   "path": "vendim/2025/100586",
+   "short": "MM-Nr. 01/17/2025-V",
+   "title": "VENDIM NR. Nr. 01/17/2025 (Ministria e Mbrojtjes)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=100586",
+   "versions": [
+    {
+     "from": "2025-01-23",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=100586",
+     "sha256": "65b58b2fd861b696b3f12cb85c785c73616d08352a19e4804058a83c17540dfb"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2025-101485",
+   "path": "vendim/2025/101485",
+   "short": "GJK-KI91/23-V",
+   "title": "VENDIM PËR HEDHJE POSHTË TË KËRKESËS NË RASTIN NR. KI91/23 PARASHTRUES N.P. ANARCH, VITAMER SH. P. K., BUJAR DOMI, SHKELZEN DOMI, LAURA BINXHIJA-QESKA DHE VALON QESKA VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT PN. NR. 1350/22 DHE PN. 1356/22, TË GJYKATËS SË APELIT, TË 29 DHJETORIT 2022",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=101485",
+   "versions": [
+    {
+     "from": "2025-03-03",
+     "units": 2,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=101485",
+     "sha256": "8f7b72de657ac4cab9bbf4ec3df37d0a323afa862faecc422e409062ea70764d"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2025-101523",
+   "path": "vendim/2025/101523",
+   "short": "GJK-KI17/24-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI17/24 PARASHTRUESE ELIFE MURSELI VLERËSIM I KUSHTETUTSHMËRISË SË KOHËZGJATJES SË PROCEDURËS GJYQËSORE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=101523",
+   "versions": [
+    {
+     "from": "2025-03-03",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=101523",
+     "sha256": "6d7dd4ddc2907d5ff069f519965b78061f2546f6508ce582132c2eb52923a829"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2025-101539",
+   "path": "vendim/2025/101539",
+   "short": "GJK-KI179/24-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI179/24 PARASHTRUES REXHEP BAJRAKTARI KËRKESË PËR RISHQYRTIMIN E AKTVENDIMIT PËR PAPRANUESHMËRI NR. KI246/23 TË 26 QERSHORIT 2024 TË GJYKATËS KUSHTETUESE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=101539",
+   "versions": [
+    {
+     "from": "2025-03-03",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=101539",
+     "sha256": "cb5cc956c6715ee06ab1ed447ea32ef2e0096d471f7518d1135667a67cf36742"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2025-101542",
+   "path": "vendim/2025/101542",
+   "short": "GJK-KI215/24-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI215/24 PARASHTRUES NASER BERISHA VLERËSIM I KUSHTETUTSHMËRISË SË AKTIT TË PASPECIFIKUAR TË AUTORITETIT PUBLIK",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=101542",
+   "versions": [
+    {
+     "from": "2025-03-03",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=101542",
+     "sha256": "a270bfa8a9f43a3eed79cb020968ddf7195b9bb471743e717a2d1b63a38b51d7"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2025-101545",
+   "path": "vendim/2025/101545",
+   "short": "GJK-KI262/23-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI262/23 PARASHTRUES HABIB MAROLLI VLERËSIM I KUSHTETUTSHMËRISË SË AKTIT TË PASPECIFIKUAR TË AUTORITETIT PUBLIK",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=101545",
+   "versions": [
+    {
+     "from": "2025-03-03",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=101545",
+     "sha256": "fbe6772488a16f9120c57fb853f6104e42db131fcca1c5191c63891e960eb1d8"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2025-101707",
+   "path": "vendim/2025/101707",
+   "short": "GJK-KI185/24-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI185/24 PARASHTRUES “GLOBAL TRADE AF” SH.P.K. VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT ARJ. NR. 24/2024 TË 21 MARSIT 2024 TË GJYKATËS SUPREME",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=101707",
+   "versions": [
+    {
+     "from": "2025-03-07",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=101707",
+     "sha256": "c6cd624951df88dfcb5caba4da8f2c68f596cb9d02b5f50c17fc8c2c40fadaf5"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2025-101711",
+   "path": "vendim/2025/101711",
+   "short": "GJK-KI203/23-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN KI203/23 PARASHTRUES NASER RAFUNA VLERËSIMI I KUSHTETUTSHMËRISË SË LIGJIT NR. 08/L-205 PËR TË DREJTËN E AUTORIT DHE TË DREJTAT E PËRAFËRTA",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=101711",
+   "versions": [
+    {
+     "from": "2025-03-07",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=101711",
+     "sha256": "90412c1c5568ac2c9c8cad76965ac9ba8f9df7ba4628712ae43b0b6bb2a0e753"
+    }
+   ]
+  },
+  {
    "slug": "vendim-2025-101754",
    "path": "vendim/2025/101754",
    "short": "GJK-KI230/23-V",
