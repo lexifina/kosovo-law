@@ -1,0 +1,16 @@
+# AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI37/19 PARASHTRUES FEDERATA E TAEKWONDO E KOSOVËS VLERËSIM I KUSHTETUTSHMËRISË SË MOSPËRMBARIMIT TË AKTGJYKIMIT TË GJYKATËS THEMELORE NË PRISHTINË [A. NR. 870/2016] TË 20 SHKURTIT 2018 NË LIDHJE ME VENDIMIN E MINISTRISË PËR KULTURË, RINI DHE SPORT NR. 29/2018 TË 11 PRILLIT 2018
+
+GJK-KI37/19-AKV · 1 versions, from 2020-01-27 (latest in force: 2020-01-27) · <https://gzk.rks-gov.net/ActDetail.aspx?ActID=26530>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Teksti | [teksti.md](teksti.md) | 0 |  |
+
+Act id: `aktvendim-2020-26530` (tags `aktvendim-2020-26530/<day>`; `python tools/on.py <day> aktvendim-2020-26530`).
+
+## Decisions made by hand
+
+- Acts added after the first build (sub-legal acts and laws not yet in the record) are published as published in the Official Gazette, one version each, only when the Gazette links no act that amends, supplements or repeals them, does not mark them repealed, and no later act's title names them; the others are held back.
+- Each one takes effect on the day its own in-force article gives (days after publication, the publication day, a date); 'on the day of signature' takes the date in the act's title; an act with no readable rule is held back. The rule's words are quoted in the version note.
+- The enacted date given is the Gazette publication day.
+- Text: the Albanian PDF's text layer, joined into paragraphs and split into the preamble (hyrje), one file per article (neni-NNN) and the signature (nenshkrimi), by the same reader as the rest of the record; tables run on as lines.
