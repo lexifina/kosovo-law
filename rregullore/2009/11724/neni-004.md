@@ -1,6 +1,0 @@
-# Neni 4
-4.1 Përfaqësuesit komunalë, organet ekzekutive dhe ndërmarrjet publike lokale sigurojnë që secili qytetar mund të komunikojë me ta dhe të pranojë shërbimet dhe dokumentet publike në gjuhët zyrtare në Komunë. Për ta ushtruar këtë të drejtë, ata duhet të paraqesin kërkesë verbale ose me shkrim. Drejtoria e Administratës krijon procedura për të pranuar dhe plotësuar këto kërkesa përmes njësisë së përkthimit dhe mundësisë për përkthim simultan.
-4.2 Kryesuesit, drejtorët e organeve përfaqësuese dhe ekzekutive dhe ata të ndërmarrjeve publike komunale, sigurojnë që shenjat që përmbajnë emërtimet zyrtare të institucioneve të tyre, të jenë të shkruara në të gjitha gjuhët zyrtare të Komunës dhe të vendosura në vende publike.
-4.3 Drejtoria e Shërbimeve Publike dhe Mbrojtjes Emergjente siguron që, brenda territorit të komunës dhe në rrugët lokale, të gjitha shenjat që tregojnë apo përmbajnë emrat e komunave, fshatrave, rrugëve apo vendeve të tjera publike, të jenë të shkruara në të gjitha gjuhët zyrtare të Komunës dhe të vendosura në vende publike.
-Procedurat për të kërkuar shërbime dhe dokumente në një gjuhë në përdorim zyrtar
-Adresa: Rr. UÇK- 2-10.000 Prishtinë-Kosovë Telefon: + 381(0)38/230-900 http://www.prishtina-komuna.org

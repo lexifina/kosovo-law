@@ -1,4 +1,0 @@
-Republika e Kosovës Komuna e Gjilanit Republika Kosova Opština Gnjilane Republic of Kosovo Municipal Gjilan
-Bazuar në Nenin12, paragrafi 2, pika "c" të Ligjit Nr. 03/L-040 për Vetëqeverisjen Lokale "Gazeta Zyrtare e Republikës së Kosovës Nr. 28 e datës. 4. qershor 2008"; neni 17, paragrafi 1 dhe 2 i Ligiit Nr. 03/L-48 për Menaxhimin e Financave Publike dhe Përgjegjësitë, "Gazeta Zyrtare e Republikës së Kosovës' Nr. 27, e datës 03 Qershor 2018"; Neni 36, Paragrafi 3 i Rregullores Financiare Nr. 01/2013 e datës 25 Gusht 2013 të M.F. Shpenzimi i parave publike; Neni 43, Pika 4 dhe 6; Rregulloren e M.F, Nr - 04/2017, mbi kriteret, standardet dhe procedurat e financimit publik, si dhe Neni 40, Paragrafi 2, Pika "a" të Statutit të Komunës, Kuvendi i Komunës së Gjilanit në mbledhjen e mbajtur më datën 28.03.2024, miratoi këtë:
-RREGULLORE (KGJ) NR. 1/2024 PER GRANTE DHE SUBVENCIONE NË SEKTORIN E BUJQËSISË
-DISPOZITAT E PËRGJITHSHME

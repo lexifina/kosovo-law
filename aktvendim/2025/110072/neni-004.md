@@ -1,5 +1,0 @@
-# Neni 4
-“1. Paragrafi 2 i nenit 14 të Rregullores bazike, ndryshohet dhe plotësohet si në vijim:
-Faturimi i taksës së mbeturinave për amvisëri apo njësi banimi bëhet në baza mujore nga kompania "Pastrimi" SH.A, kurse fatura i dorëzohet gjeneruesit të mbeturinave përmes inkasantëve të Kompanisë Regjionale "Pastrimi" SH.A. më së largu deri në ditën e dhjetë (10) të muajit pasues dhe pagesa nga gjeneruesi i bëhet direkt kompanisë Pastrimi Sh. A. përveç kategorive të liruara me ligj për të cilat do të kryhet pagesa nga Komuna e Prishtinës Ndërmarrjes publike Pastrimi.
-2. Pas paragrafit 2 të nenit 14 të Rregullores bazë shtohet paragrafi i ri 2a. dhe
-2b. me tekstin si në vijim: 2a. Kompania Pastrimi Sh.A faturon bizneset e vogla, të mesme dhe të mëdha si dhe institucione ne Komunën e Prishtinës për të cilat ka kontratë të veçantë dhe ju ofron shërbim. 2b. Pagesa nga bizneset e vogla, të mesme dhe të mëdha si dhe institucione në Komunën e Prishtinës për kryerjen e shërbimit sipas paragrafit 2a. i paguhet direkt kompanisë Pastrimi Sh.A.”

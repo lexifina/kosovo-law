@@ -1,2 +1,0 @@
-# Neni 11
-11.1 Anëtaret e KKSB-së nuk duhet ta ndërpresin fjalën e kryesuesit të mbledhjes ose të diskutuesve të tjerë, të përdorin fjalorë ofendues të ndërmarrin sulme personale a po veprime ndaj ndonjë anëtari të përhapin informacione që cenojnë jetën private të cilido anëtar, të sillen në mënyre të padenjë ose të shkaktojnë rrëmujë në mjediset ku mbahet mbledhja e KKSB-së, mos respektimi i rendit të ditës, diskutimi i temave që nuk janë në kompetencë të KKSB-se.

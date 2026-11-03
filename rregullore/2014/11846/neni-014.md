@@ -1,2 +1,0 @@
-# Neni 14
-Me hyrjen në fuqi të kësaj rregulloreje, pushon të vlejë Rregullorja 01 nr. 110 - 2131, e dt. 20.9.2011, për të hyrat vetanake të institucioneve arsimore, Vendimi për ndryshimin dhe plotësimin e Rregullores për të hyrat vetanake të institucioneve arsimore 01. nr. 110 – 15298, të dt. 26.4.2012, si dhe Vendimi për ndryshimin e Rregullores për të hyrat vetanake të institucioneve arsimore 01. nr. 110 – 105888, dt. 02.07.2013.

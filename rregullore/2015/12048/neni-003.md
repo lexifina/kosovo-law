@@ -1,5 +1,0 @@
-# Neni 3
-Komitetet janë themeluar në pajtim me Ligjin për Vetëqeverisjen Lokale dhe Statutin e Komunës, me qëllim që të lehtësojnë punën e Kuvendit të Komunës në lidhje me procesin e marrjes së vendimeve, pasi që Kuvendi nuk është në gjendje që në tërësi dhe në mënyrë adekuate, të merret me numrin e madh të çështjeve që mund të parashtrohen në Komunë. Shumë çështje me të cilat përballet Komuna janë të një natyre teknike, që kërkojnë angazhimin e ekspertëve, të cilët mund të mos jenë anëtarë të Kuvendit, por që shërbejnë si anëtarë të komiteteve përkatëse. Prandaj, komitetet e lehtësojnë punën e Kuvendit, duke e racionalizuar kohën e marrjes së vendimeve, për t’u ofruar Komitetit për Politikë dhe Financa dhe Kuvendit analiza profesionale, konsultime dhe angazhim për çështjet specifike.
-__________________________________________________________________________________________________________ ________
-Rregullore Për Kompetencat, Përgjegjësitë dhe Punën e Komiteteve jo të Përhershme të Kuvendit të Komunës së Gjilanit
-1) Komiteti për Shëndetësi dhe Mirëqenie Sociale

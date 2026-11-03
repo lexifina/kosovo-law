@@ -1,5 +1,0 @@
-# Neni 11
-Dispozitat ndëshkimore Në bazë të fletëparaqitjes të Inspektorit të tregut do të gjobitet për kundërvajtje :
-a) në shumë prej 200 € pronari i subjektit të biznesit i regjistruar në cilësi të personit fizik i cili përkundër vërejtjes, përkatësishtë masës të shqiptuar në pajtim të nenit 10 par. 10.2 dhe 10.3 të kësaj Rregulloreje, për objektin përkatës, në afatin e përcaktuar nuk është paisë me leje për ushtrimin e veprimtarisë afariste, b) në shumë prej 500 € subjekti i biznesit i regjistruar në cilësi të personit juridik dhe në shumë prej 200 Euro personi përgjegjës i personit juridik i cili përkundër vërejtjes, përkatësishtë masës të shqiptuar në pajtim të nenit 10 par. 10.2 dhe 10.3 të kësaj Rregulloreje, për objektin përkatës, në afatin e përcaktuar nuk është paisë me leje për ushtrimin e veprimtarisë afariste.
-c) Nëse edhe perkunder masava të shqiptuara pika a. dhe b eketij neni nuk paiset me leje pune, organi kompetent komunal do të inicoj proceduren për ndalimin e ushtrimit të veprimtarisë.
-VI. PROCEDURA E ANKESAVE

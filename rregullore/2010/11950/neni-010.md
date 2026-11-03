@@ -1,4 +1,0 @@
-# Neni 10
-Mbikqyrja 10.1 Mbikëqyrjen inspektive për zbatimin e kësaj rregulloreje do ta bëje Drejtorati i Inspektoratit – Inspektori i tregut.
-10.2 Inspektori i tregut gjatë kontrollit inspektiv për subjektet afariste të cilat në territorin e Komunës ushtrojnë veprimtarinë pa leje për ushtrimin e veprimtarisë afariste, me aktvendim do t`u tërhjekë verejtjen që në afat prej 30 dite të paisen me leje.
-10.3 Inspektori i tregut në rastet kur konstaton, se subjektet afariste të regjistruar në bazë të dispozitave ligjore në cilësi të personit fizik ose juridik, përkundër vërejtjes që të paisen me leje, në objektin e caktuar zhvillojnë aktivitetin afarist pa leje për ushtrimin e veprimtarisë afariste, mund të ua ndalojë përkohësishtë ushtrimin e veprimtarisë deri në marrjen e lejes dhe do të ndërmerrë masa tjera në pajtim me dispozitat ligjore dhe do të ushtrojë fletëparaqitje për kundravajtje në pajtim me dispozitat e nenit 11 të kësaj Rregulloreje.
