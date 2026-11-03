@@ -27,6 +27,7 @@ from __future__ import annotations
 
 import argparse
 import gzip
+import hashlib
 import html
 import json
 import re
@@ -135,6 +136,49 @@ def named_by(named: dict, k: tuple[str, str, str]) -> set[int]:
     return out
 
 
+SELF = hashlib.sha256(Path(__file__).read_bytes() + (HERE / "ks_text.py").read_bytes()
+                      + (HERE / "ks_inforce.py").read_bytes()).hexdigest()[:16]
+
+
+def read_text(path: Path, amending: bool, cache: dict | None) -> tuple[dict, str, list, str]:
+    """(units, in-force sentence, last four paragraphs, sha256 of the PDF) for one act's PDF text, or Hold. Results
+    are kept in `cache` keyed by the file's size and time and this parser's own hash: a cached run gives the same
+    bytes."""
+    stt = path.stat()
+    key = f"{path.parent.name}|{stt.st_size}|{stt.st_mtime_ns}|{int(amending)}|{SELF}"
+    if cache is not None and key in cache:
+        r = cache[key]
+        if "hold" in r:
+            raise Hold(r["hold"])
+        return r["units"], r["rule"], r["tail"], r["sha"]
+    try:
+        doc = json.loads(gzip.decompress(path.read_bytes()).decode("utf-8"))
+        if doc.get("no_pdf") or not doc.get("pages"):
+            raise Hold("no_pdf")
+        if any(p.get("scanned") for p in doc["pages"]):
+            raise Hold("scanned_pages")
+        paras = ks_text.paragraphs(ks_text.pdf_lines(doc), "sq")
+        if ks_text.language(paras) != "sq":
+            raise Hold("not_albanian:" + ks_text.language(paras))
+        st = ks_text.structure(paras, "sq", amending=amending)
+        if st["gaps"]:
+            raise Hold("article_gaps:" + ",".join(map(str, st["gaps"][:5])))
+        if st["notes"]:
+            raise Hold("article_headings_irregular")
+        units = units_of(st)
+        if not units:
+            raise Hold("no_text")
+        rule = ks_inforce.rule_of(paras)
+    except Hold as h:
+        if cache is not None:
+            cache[key] = {"hold": str(h)}
+        raise
+    r = {"units": units, "rule": rule, "tail": paras[-4:], "sha": doc["sha256"]}
+    if cache is not None:
+        cache[key] = r
+    return units, rule, paras[-4:], doc["sha256"]
+
+
 def units_of(st: dict) -> dict:
     u = {}
     if st["body"]:
@@ -159,10 +203,17 @@ def main():
     ap.add_argument("--exclude", help="file of Gazette act ids already in the repository (one per line)")
     ap.add_argument("--report")
     ap.add_argument("--rejects", help="JSON {id: reason}: acts held back by hand or by a failed read-back check")
+    ap.add_argument("--cache", help="optional .json.gz file keeping each PDF's parsed text between runs")
     a = ap.parse_args()
     src = Path(a.src)
     exclude = set(Path(a.exclude).read_text().split()) if a.exclude and Path(a.exclude).exists() else set()
     rejects = json.loads(Path(a.rejects).read_text(encoding="utf-8")) if a.rejects and Path(a.rejects).exists() else {}
+    cache = None
+    if a.cache:
+        try:
+            cache = json.loads(gzip.decompress(Path(a.cache).read_bytes()).decode("utf-8"))
+        except (OSError, ValueError, EOFError):
+            cache = {}
 
     named: dict[tuple[str, str], dict] = defaultdict(lambda: defaultdict(set))
     for f in sorted((src / "list").glob("*.jsonl")):
@@ -202,25 +253,14 @@ def main():
                 raise Hold("named_as_amended:" + ",".join(map(str, sorted(others)[:5])))
             if not d["published"]:
                 raise Hold("no_publication_day")
-            raw = gzip.decompress((base / "pdf.json.gz").read_bytes())
-            doc = json.loads(raw.decode("utf-8"))
-            if doc.get("no_pdf") or not doc.get("pages"):
-                raise Hold("no_pdf")
-            if any(p.get("scanned") for p in doc["pages"]):
-                raise Hold("scanned_pages")
-            paras = ks_text.paragraphs(ks_text.pdf_lines(doc), "sq")
-            if ks_text.language(paras) != "sq":
-                raise Hold("not_albanian:" + ks_text.language(paras))
             amending = bool(CHANGE.search(fold(d["title"])))
-            st = ks_text.structure(paras, "sq", amending=amending)
-            if st["gaps"]:
-                raise Hold("article_gaps:" + ",".join(map(str, st["gaps"][:5])))
-            if st["notes"]:
-                raise Hold("article_headings_irregular")
-            units = units_of(st)
-            if not units:
-                raise Hold("no_text")
-            inf = ks_inforce.parse(paras, [], d["published"])
+            units, rule, tail_paras, sha = read_text(base / "pdf.json.gz", amending, cache)
+            doc = {"sha256": sha}
+            if rule:
+                when, how = ks_inforce.when(rule, d["published"])
+                inf = {"date": when or d["published"], "basis": how, "words": rule}
+            else:
+                inf = {"date": d["published"], "basis": "published (no in-force rule found)", "words": ""}
             day, basis = inf["date"], inf["basis"]
             if basis.startswith("published (no") or basis.startswith("published (the act"):
                 if inf["words"] and SIGNED_ON.search(inf["words"]):
@@ -228,7 +268,7 @@ def main():
                     basis = "on signature (the date in the act's title)"
                     if not m:
                         # the date printed with the signature, after the in-force sentence ("Prishtinë, 30.12.2025")
-                        tail = " ".join(paras[-4:])
+                        tail = " ".join(tail_paras)
                         tail = tail[tail.find(inf["words"][-40:]) + 40:] if inf["words"][-40:] in tail else tail
                         dates = re.findall(r"\b(\d{1,2})\s*\.\s*(\d{1,2})\s*\.\s*(\d{4})\b", tail)
                         if len(set(dates)) != 1:
