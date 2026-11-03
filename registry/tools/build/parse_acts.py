@@ -74,6 +74,19 @@ ON_PUBLICATION = re.compile(r"hy\w*\s+n[eë]\s+fuqi\s+(?:n[eë]\s+|nga\s+)?(?:da
 TITLE_DATE = re.compile(r"\bDAT[AËE]\s*[:.]?\s*(\d{1,2})\s*[./]\s*(\d{1,2})\s*[./]\s*(\d{4})", re.I)
 # A title the Gazette has annotated after a later act: "... (Shfuqizuar me Vendim të QRK, Nr. 02/50 ...)".
 MARKED = re.compile(r"\(\s*(?:e\s+|i\s+)?(?:shfuqizuar|ndryshuar|plot[eë]suar|pezulluar)\b", re.I)
+# Applied to every act: a period run from registration with the ministry or from publication on the municipality's
+# website or notice board (days the Gazette doesn't give), or N days after adoption.
+OFF_GAZETTE = re.compile(r"regjistrim|rexhistrim|\bueb|\bweb|\bveb|tabel[eë]n\s+e\s+shpalljeve|protokoll|certifik|"
+                         r"dit[eë]\s+pas\s+(?:dit[eë]s\s+s[eë]\s+)?(?:miratimit|aprovimit)|fillon\s+t[eë]\s+zbatohet",
+                         re.I)
+
+
+def _after_verb(words: str) -> str:
+    """The in-force sentence from its verb on ("hyn në fuqi ..."), or '' when it has none."""
+    m = re.search(r"\bhy(?:n|në|ne|jë|je|rë|re)\s+n[eë]\s+fuqi\b", words, re.I)
+    return words[m.start():] if m else ""
+
+
 OTHER_EVENT = re.compile(r"regjistrim|rexhistrim|\bueb|\bweb|\bveb|tabel[eë]n|protokoll|certifik|kuvend|asamble|"
                          r"miratim|aprovim", re.I)
 
@@ -598,12 +611,15 @@ def main():
     ap.add_argument("--exclude", help="file of Gazette act ids already in the repository (one per line)")
     ap.add_argument("--report")
     ap.add_argument("--rejects", help="JSON {id: reason}: acts held back by hand or by a failed read-back check")
+    ap.add_argument("--kept", help="JSON {id: note}: acts published before the in-force checks on periods counted "
+                                   "outside the Gazette were added, kept as published by decision")
     ap.add_argument("--out", help="folder for the parts (default: corpus.d next to this file)")
     ap.add_argument("--cache", help="optional .json.gz file keeping each PDF's parsed text between runs")
     a = ap.parse_args()
     src = Path(a.src)
     exclude = set(Path(a.exclude).read_text().split()) if a.exclude and Path(a.exclude).exists() else set()
     rejects = json.loads(Path(a.rejects).read_text(encoding="utf-8")) if a.rejects and Path(a.rejects).exists() else {}
+    kept = set(json.loads(Path(a.kept).read_text(encoding="utf-8"))) if a.kept and Path(a.kept).exists() else set()
     cache = None
     if a.cache:
         try:
@@ -699,11 +715,13 @@ def main():
                 raise Hold("in_force_unknown")
             if released and MARKED.search(d["title"]):
                 raise Hold("title_marks_later_change")
-            if released and OTHER_EVENT.search(inf["words"]) and not basis.startswith("on adoption"):
+            guard = released or str(i) not in kept   # `kept`: published before these checks, kept by decision
+            if ((guard and OFF_GAZETTE.search(_after_verb(inf["words"])))
+                    or (released and OTHER_EVENT.search(inf["words"]))) and not basis.startswith("on adoption"):
                 # counted from registration with the ministry, publication on the municipality's website or notice
                 # board, approval by an assembly: days the Gazette doesn't give
                 raise Hold("in_force_period_from_other_event:" + inf["words"][:100])
-            if released and basis == "on publication" and ANY_PERIOD.search(inf["words"]):
+            if guard and basis == "on publication" and ANY_PERIOD.search(_after_verb(inf["words"])):
                 # ks_inforce takes "7 (shtatë) ditë pas publikimit" for "pas publikimit" (on publication): read the
                 # period, else hold
                 more = more_rules(inf["words"], d["published"])
