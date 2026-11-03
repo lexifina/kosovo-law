@@ -167,6 +167,231 @@
    ]
   },
   {
+   "slug": "rregullore-2019-111849",
+   "path": "rregullore/2019/111849",
+   "short": "K.GJL-016-35873-RR",
+   "title": "RREGULLORE- MBI THEMELIMIN DHE STRUKTURIMIN E ASAMBLESË KOMUNALE TË FËMIJËVE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=111849",
+   "versions": [
+    {
+     "from": "2019-03-30",
+     "units": 27,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=111849",
+     "sha256": "ae0a4f2183fe0be6ed47aa18b2563de602c42d1e58f11caa9681fe5f9997f546"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2019-111850",
+   "path": "rregullore/2019/111850",
+   "short": "K.GJL-016-121914-RR",
+   "title": "RREGULLORE PËR TAKSA, NGARKESA DHE GJOBA KOMUNALE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=111850",
+   "versions": [
+    {
+     "from": "2019-10-11",
+     "units": 37,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=111850",
+     "sha256": "10288294120b431c9724987ada9a7974aa97229f073561dd75574337d56263df"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2019-111851",
+   "path": "rregullore/2019/111851",
+   "short": "K.GJL-016-145897-RR",
+   "title": "RREGULLORE PËR TATIMIN MBI PRONËN E PALUAJTSHME PËR VITIN 2020",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=111851",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=111851",
+     "sha256": "43e828788a306295c6fd7017715908e60b2f6a290c0f668f617c4bdedc2730eb"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2021-111854",
+   "path": "rregullore/2021/111854",
+   "short": "K.GJL-016-15784-RR",
+   "title": "RREGULLORE PËR PËRKUJDESJEN DHE MROJTJEN E FËMIJËS 2021",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=111854",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 43,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=111854",
+     "sha256": "519b1ac6fe73bc96687d46009805b5055f968ece7fe3289427db8a62751d838e"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2021-111855",
+   "path": "rregullore/2021/111855",
+   "short": "K.GJL-016-53332/21-RR",
+   "title": "RREGULLORE PËR MENAXHIMIN E PASURISË JO FINANCIARE, INVENTARI I PA PËRDORSHËM I KOMUNËS 2021",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=111855",
+   "versions": [
+    {
+     "from": "2021-06-11",
+     "units": 14,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=111855",
+     "sha256": "45459845aa385fd620f475a19a7ddd4301f509746386b76f0366aea3c5297778"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2021-111856",
+   "path": "rregullore/2021/111856",
+   "short": "K.GJL-016-53313/21-RR",
+   "title": "RREGULLORE PËR NDARJEN E BURSAVE PËR STUDENTËT E KOMUNËNS SË GJILANIT 2021",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=111856",
+   "versions": [
+    {
+     "from": "2021-06-11",
+     "units": 13,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=111856",
+     "sha256": "845c7e039598e7953025dd2abbf155e9ef1d670d005c387dbe485c849eed9e87"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2021-111858",
+   "path": "rregullore/2021/111858",
+   "short": "K.GJL-016-35199-RR",
+   "title": "RREGULLORE PËR SHFUQIZIMIN E RREGULLORËS PËR PROCEDURËN E NDËRTIMIT TË OBJEKTEVE ME KARAKTER TË PËRKOHSHEM NË PRONAT E PERSONAVE FIZIK DHE JURIDIK (2022)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=111858",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=111858",
+     "sha256": "bc3bb6cc86f706344c89860b339b8e6582795bb6f157604aa0fb884003d7994b"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2021-111868",
+   "path": "rregullore/2021/111868",
+   "short": "K.GJL-016-15784-RR",
+   "title": "RREGULLORE PËR PËRKUJDESJEN DHE MROJTJEN E FËMIJËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=111868",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 43,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=111868",
+     "sha256": "8fe3f618e65d4f0897ef8956b839a349af6bea4da4d069237b7f6abe28318c04"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2022-111859",
+   "path": "rregullore/2022/111859",
+   "short": "K.GJL-016-46979-RR",
+   "title": "RREGULLORE PËR NDRYSHIM DHE PLOTËSIM TË RREGULLORES PËR KUSHTET, KRITERET DHE PROCEDURAT E NDARJES SË SUBVENCIONEVE 01.NR. 16-126422 DT. 29.12.2016, ME NDRYSHIME DHE PLOTËSIME 01.NR.016-28468 TË DT.22.03.2018",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=111859",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 4,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=111859",
+     "sha256": "3b9361e6522fdad6c97c709b245a413dc109740d9487c88ca8529dfbe2b86577"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2024-111864",
+   "path": "rregullore/2024/111864",
+   "short": "K.GJL-016-33484-RR",
+   "title": "RREGULLORE PER GRANTE DHE SUBVENCIONE NË SEKTORIN E BUJQËSISË (2024)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=111864",
+   "versions": [
+    {
+     "from": "2024-04-12",
+     "units": 26,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=111864",
+     "sha256": "c8de5cf10534c63b251f0be032c149581acce5c2e0d9656448443b6bfd408033"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2024-111865",
+   "path": "rregullore/2024/111865",
+   "short": "K.GJL-016-116807/24-RR",
+   "title": "RREGULLORE PËR NDARJEN E BURSAVE PËR STUDENTËT E KOMUNËS SË GJILANIT (2024)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=111865",
+   "versions": [
+    {
+     "from": "2024-11-05",
+     "units": 13,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=111865",
+     "sha256": "38aca5f2f6891572332e94b141aef106b6549e2237a8999949cadadc20d33a54"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2024-111886",
+   "path": "rregullore/2024/111886",
+   "short": "K.DR-02-110/05-61867-RR",
+   "title": "RREGULLORE PËR TRANSPARENCË KOMUNALE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=111886",
+   "versions": [
+    {
+     "from": "2025-01-14",
+     "units": 48,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=111886",
+     "sha256": "5f2e394f270f21d1fac0ef475d331d08b3e73ab8439dc0b30330a1b3e2cae175"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2025-111352",
+   "path": "rregullore/2025/111352",
+   "short": "MD-06/2025-RR",
+   "title": "RREGULLORE MD- Nr.06 /2025 PËR RAPORTIMIN E PUNËS SË ADMINISTRATORIT FALIMENTUES DHE PROCEDURËN DISIPLINORE NDAJ ADMINISTRATORIT FALIMENTUES",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=111352",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 16,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=111352",
+     "sha256": "e7d05f02b8963e715622d454f5ec3d5eeacf40f5c763a45ca165c448cc9775e7"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2025-111434",
+   "path": "rregullore/2025/111434",
+   "short": "MD-05/2025-RR",
+   "title": "RREGULLORE MD – Nr .05 /2025 PËR PUNËN E KOMISIONIT VLERËSUES PËR VLERËSIMIN E KANDIDATËVE PËR LICENCIM ADMINISTRATOR FALIMENTUES",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=111434",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 12,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=111434",
+     "sha256": "4d93bb41c8c6457e79666a5a05eb3ed0d044dfda4a69c4398c5fd9e9313d2771"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2025-111866",
+   "path": "rregullore/2025/111866",
+   "short": "K.GJL-.016-16462/25-RR",
+   "title": "RREGULLORJA PER TRANSPARENCE KOMUNALE 2025",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=111866",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 48,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=111866",
+     "sha256": "a729071284e2d3a02797c24b618a51bd725bb4d2ed12f472e4c9e70e9401b467"
+    }
+   ]
+  },
+  {
    "slug": "rregullore-2025-112107",
    "path": "rregullore/2025/112107",
    "short": "QRK-08/2025-RR",
@@ -313,6 +538,36 @@
      "units": 39,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=115662",
      "sha256": "031de5a48a4764ae4976770839719d71988db5ef81f8fabf2e4929558531beb8"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2026-115664",
+   "path": "rregullore/2026/115664",
+   "short": "ZKM-03/2026-RR",
+   "title": "RREGULLORE (ZKM) NR. 03/2026 PËR ORGANIZIMIN E BRENDSHËM DHE SISTEMATIZIMIN E VENDEVE TË PUNËS NË AGJENCINË E MENAXHIMIT EMERGJENT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=115664",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 38,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=115664",
+     "sha256": "3eb65a333c8f04d42dd34558fd6bff577ca0c314069d74fee4f1d099df52ef93"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2026-115668",
+   "path": "rregullore/2026/115668",
+   "short": "ZKM-04/2026-RR",
+   "title": "RREGULLORE (ZKM) NR. 04/2026 PËR ORGANIZIMIN E BRENDSHËM DHE SISTEMATIZIMIN E VENDEVE TË PUNËS NË AGJENCINË PËR ZHVILLIMIN E RINISË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=115668",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 18,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=115668",
+     "sha256": "a03e7a40045ed32da3424e2b967c9fbe9c83e5f2bec2054ef3682565d76bca0f"
     }
    ]
   },
@@ -482,6 +737,21 @@
    ]
   },
   {
+   "slug": "rregullore-2026-121660",
+   "path": "rregullore/2026/121660",
+   "short": "ZKM-10/2026-RR",
+   "title": "RREGULLORE (ZKM) NR. 10/2026 PËR ORGANIZIMIN E BRENDSHËM DHE SISTEMATIZIMIN E VENDEVE TË PUNËS NË AGJENCINË E STATISTIKAVE TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=121660",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 49,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=121660",
+     "sha256": "f586d6005df3fb3ad8fe73a72bbc5e7bbb79c2c534a0d863c54309153838d242"
+    }
+   ]
+  },
+  {
    "slug": "rregullore-2026-122523",
    "path": "rregullore/2026/122523",
    "short": "QRK-06/2026-RR",
@@ -647,6 +917,156 @@
    ]
   },
   {
+   "slug": "udhezim-2025-110947",
+   "path": "udhezim/2025/110947",
+   "short": "MBPZHR-NR.09/2025-UA",
+   "title": "UDHËZIM ADMINISTRATIV (MBPZHR) - NR. 09/2025 PËR CAKTIMIN E KRITEREVE PËR MARRJEN E MOSTRAVE, ANALIZËN E MUSHTIT, VERËS DHE PRODHIMEVE TJERA NGA RRUSHI DHE VERA, MËNYRAT PËR VLERËSIMIN E KARAKTERISTIKAVE ORGANOLEPTIKE TË VERËRAVE DHE KUSHTET TEKNIKE TË PUNËS SË KOMISIONIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=110947",
+   "versions": [
+    {
+     "from": "2025-10-08",
+     "units": 35,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=110947",
+     "sha256": "16a64ebc77fd7cfcccf1a7bd724d203262c601ded21c77847445f9a0642435a8"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2025-111039",
+   "path": "udhezim/2025/111039",
+   "short": "MD-04/2025-UA",
+   "title": "UDHËZIM ADMINISTRATIV MD-Nr. 04/2025 PËR PROCEDURËN DISIPLINORE PËR NOTER",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=111039",
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "units": 16,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=111039",
+     "sha256": "56c4ffc73909110cedb6127d34296f1c17ce8c7fb247a1704c4c986a2080e8ba"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2025-111106",
+   "path": "udhezim/2025/111106",
+   "short": "MD-08/2025-UA",
+   "title": "UDHËZIM ADMINISTRATIV MD- NR. 08/2025 PËR NDRYSHIMIN DHE PLOTËSIMIN E UDHËZIMIT ADMINISTRATIV NR.02/2013 PËR PROGRAMIN DHE MËNYRËN E DHËNIES SË PROVIMIT PËR PËRMBARUESIT PRIVAT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=111106",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 10,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=111106",
+     "sha256": "ad6e793180eb19e6d4127d14158d44567a4f61f14dafe353a6928fcc30c7e7f8"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2025-111217",
+   "path": "udhezim/2025/111217",
+   "short": "MD-07/2025-UA",
+   "title": "UDHËZIM ADMINISTRATIV MD- Nr. 07/2025 PËR PROVIMIN, MËNYRËN DHE PROCEDURËN E ORGANIZIMIT, PËRMBAJTJEN DHE MBAJTJEN E PROVIMIT, VLERËSIMIN E PROVIMEVE, SI DHE PROGRAMIN PËR PROVIMIN E ADMINISTRATORËVE FALIMENTUES",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=111217",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 28,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=111217",
+     "sha256": "15ecdf95feb1319b76a7505726140b64c499a7b2019af4c8f10d5908cd3db393"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2025-111270",
+   "path": "udhezim/2025/111270",
+   "short": "IKKL-01/2025-UA",
+   "title": "UDHËZIM ADMINISTRATIV (IKKL) NR. 01/2025 PËR PROCEDURAT DHE MASAT PËR SHFRYTËZIMIN E MATERIALEVE TË ARKIVIT, SIGURINË E TË DHËNAVE PERSONALE APO TË DHËNAVE TË TJERA TË NDJESHME NË INSTITUTIN E KRIMEVE TË KRYERA GJATË LUFTËS NË KOSOVË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=111270",
+   "versions": [
+    {
+     "from": "2025-10-16",
+     "units": 22,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=111270",
+     "sha256": "de5b89cd482ade688403751147d01de67f1ce1503118ded14fe10bb10dc9c06d"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2025-111435",
+   "path": "udhezim/2025/111435",
+   "short": "MBPZHR-NR.10/2025-UA",
+   "title": "UDHËZIM ADMINISTRATIV (MBPZHR) - NR.10/2025 PËR PARTNERITETIN SOCIAL DHE EKONOMIK NE FUSHËN E BUJQËSISË DHE ZHVILLIMIT RURAL",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=111435",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 27,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=111435",
+     "sha256": "78245c26f35a11a1b1ef033357d388eaa7f9c2ea0979440564eb2c4090671ca6"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2025-111436",
+   "path": "udhezim/2025/111436",
+   "short": "MBPZHR-NR.11/2025-UA",
+   "title": "UDHËZIM ADMINISTRATIV (MBPZHR) -NR 11/2025 PËR PËRCAKTIMIN E NIVELEVE MAKSIMALE TË MBETJEVE TË PRODUKTEVE PËR MBROJTJEN E BIMËVE NË BIMË DHE PRODUKTE ME ORIGJINË BIMORE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=111436",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 30,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=111436",
+     "sha256": "d9e09fbbd69d5b9a43f1e1a43ad1c689a8df96584a4f018a0d746fe81c5d8585"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2025-111472",
+   "path": "udhezim/2025/111472",
+   "short": "MBPZHR-NR.12/2025-UA",
+   "title": "UDHËZIM ADMINISTRATIV (MBPZHR) -NR.12/2025 PËR VLERËSIMIN DHE KOMPENSIMIN E KAFSHËVE TË ASGJËSUARA PËR SHKAK TË SËMUNDJEVE INFEKTIVE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=111472",
+   "versions": [
+    {
+     "from": "2025-10-22",
+     "units": 22,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=111472",
+     "sha256": "f0dbb3d46ef5c56a6244ab9d0090e65ba07ef7a44a37d6195f1f6ebcfadb2900"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2025-111619",
+   "path": "udhezim/2025/111619",
+   "short": "MBPZHR-NR.13/2025-UA",
+   "title": "UDHËZIMI ADMINISTRATIV (MBPZHR)-NR.13/2025 PËR KRIJIMIN E KUSHTEVE, PËRMBAJTJEN, REGJISTRIN, MËNYRËN E RUAJTJES SË SHENIMEVE DHE SHFRYTËZIMIN E TË DHËNAVE NGA REGJISTRI I FERMËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=111619",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 16,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=111619",
+     "sha256": "0775a259ac23b92ca73c3e9375d02bf4d2bcde9af7f13b9aaec22acc3a6cd425"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2025-111771",
+   "path": "udhezim/2025/111771",
+   "short": "MSH-06-2025-UA",
+   "title": "UDHËZIMI ADMINISTRATIV (MSH) NR. 06/2025 PËR ASGJËSIMIN E GJAKUT DHE PËRBËRSVE TË GJAKUT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=111771",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 17,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=111771",
+     "sha256": "3a3b8b198349dc6b6e7082ce187ee6a35891dfa30d394a31261a6791f352443c"
+    }
+   ]
+  },
+  {
    "slug": "udhezim-2025-112468",
    "path": "udhezim/2025/112468",
    "short": "MBPZHR-NR.14/2015-UA",
@@ -673,6 +1093,21 @@
      "units": 18,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=112654",
      "sha256": "54e54f7b6850a52f1c1ee19800e87a9594994f6abf32110cf478439c57c00219"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2025-112893",
+   "path": "udhezim/2025/112893",
+   "short": "MMPHI-03/25-UA",
+   "title": "UDHËZIM ADMINISTRATIV MMPHI NR. 03 /2025 PËR PROCEDURAT DHE KRITERET PËR LICENCIMIN E PERSONAVE FIZIK DHE JURIDIK PËR HARTIMIN E RAPORTIT TË VNM-SË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=112893",
+   "versions": [
+    {
+     "from": "2025-12-03",
+     "units": 20,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=112893",
+     "sha256": "235d29e24800765862fbfe0d77c348e602cdc320ebf70547b0a6a6dd478f7554"
     }
    ]
   },
@@ -1097,6 +1532,21 @@
    ]
   },
   {
+   "slug": "udhezim-2026-122800",
+   "path": "udhezim/2026/122800",
+   "short": "MPB-03/2026-UA",
+   "title": "UDHËZIM ADMINISTRATIV (MPB) NR. 03/2026 PËR STEMËN IDENTIFIKUESE TË AGJENCISË SË KOSOVËS PËR FORENZIKË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=122800",
+   "versions": [
+    {
+     "from": "2026-08-17",
+     "units": 9,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=122800",
+     "sha256": "3c7ca4022e354b658ed146613a146cc621a2bb52cba53c6cde90930b502be3af"
+    }
+   ]
+  },
+  {
    "slug": "udhezim-2026-123511",
    "path": "udhezim/2026/123511",
    "short": "MASH-01/2026-UA",
@@ -1123,6 +1573,21 @@
      "units": 21,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=123744",
      "sha256": "0d24ad406d538cfdf219933b7b618dd023e18b81e7edd1feaa162da416ff91b5"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2026-123751",
+   "path": "udhezim/2026/123751",
+   "short": "MPB-04/2026-UA",
+   "title": "UDHËZIM ADMINISTRATIV (MPB) NR. 04/2026 PËR PROCEDURAT DHE STANDARDET E PRANIMIT DHE TRAJTIMIT FILLESTAR TË APLIKUESËVE PËR MBROJTJE NDËRKOMBËTARE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=123751",
+   "versions": [
+    {
+     "from": "2026-09-02",
+     "units": 20,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=123751",
+     "sha256": "e35224fbb8aae1f9ac60f898341b6e18f2cf1da37e0b851d3172375ac55dff59"
     }
    ]
   },

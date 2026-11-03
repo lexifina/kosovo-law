@@ -140,7 +140,7 @@ SELF = hashlib.sha256(Path(__file__).read_bytes() + (HERE / "ks_text.py").read_b
                       + (HERE / "ks_inforce.py").read_bytes()).hexdigest()[:16]
 
 
-def read_text(path: Path, amending: bool, cache: dict | None) -> tuple[dict, str, list, str]:
+def read_text(path: Path, amending: bool, cache: dict | None) -> tuple[dict, str, list, str, int]:
     """(units, in-force sentence, last four paragraphs, sha256 of the PDF) for one act's PDF text, or Hold. Results
     are kept in `cache` keyed by the file's size and time and this parser's own hash: a cached run gives the same
     bytes."""
@@ -150,13 +150,17 @@ def read_text(path: Path, amending: bool, cache: dict | None) -> tuple[dict, str
         r = cache[key]
         if "hold" in r:
             raise Hold(r["hold"])
-        return r["units"], r["rule"], r["tail"], r["sha"]
+        return r["units"], r["rule"], r["tail"], r["sha"], r["scanned"]
     try:
         doc = json.loads(gzip.decompress(path.read_bytes()).decode("utf-8"))
         if doc.get("no_pdf") or not doc.get("pages"):
             raise Hold("no_pdf")
-        if any(p.get("scanned") for p in doc["pages"]):
-            raise Hold("scanned_pages")
+        flags = [bool(p.get("scanned")) for p in doc["pages"]]
+        n_text = len(flags) - flags[::-1].index(False) if False in flags else 0
+        if n_text == 0 or any(flags[:n_text]):
+            raise Hold("scanned_pages")   # a page image inside the text: words would be missing
+        # page images after the text (an organigram, a scanned annex) are not transcribed; the note counts them
+        scanned_tail = len(flags) - n_text
         paras = ks_text.paragraphs(ks_text.pdf_lines(doc), "sq")
         if ks_text.language(paras) != "sq":
             raise Hold("not_albanian:" + ks_text.language(paras))
@@ -173,10 +177,10 @@ def read_text(path: Path, amending: bool, cache: dict | None) -> tuple[dict, str
         if cache is not None:
             cache[key] = {"hold": str(h)}
         raise
-    r = {"units": units, "rule": rule, "tail": paras[-4:], "sha": doc["sha256"]}
+    r = {"units": units, "rule": rule, "tail": paras[-4:], "sha": doc["sha256"], "scanned": scanned_tail}
     if cache is not None:
         cache[key] = r
-    return units, rule, paras[-4:], doc["sha256"]
+    return units, rule, paras[-4:], doc["sha256"], scanned_tail
 
 
 def units_of(st: dict) -> dict:
@@ -194,6 +198,20 @@ def units_of(st: dict) -> dict:
     if st["signature"]:
         u["nenshkrimi"] = {"label": "Nënshkrimi", "kind": "signature", "text": "\n".join(st["signature"]) + "\n"}
     return u
+
+
+def replace(tmp: Path, f: Path) -> None:
+    """Atomic rename; a reader holding the old file open (Windows) gets a few seconds to let go."""
+    import time
+    for k in range(20):
+        try:
+            tmp.replace(f)
+            return
+        except PermissionError:
+            if k == 19:
+                raise
+            time.sleep(0.5)
+
 
 
 def main():
@@ -254,7 +272,7 @@ def main():
             if not d["published"]:
                 raise Hold("no_publication_day")
             amending = bool(CHANGE.search(fold(d["title"])))
-            units, rule, tail_paras, sha = read_text(base / "pdf.json.gz", amending, cache)
+            units, rule, tail_paras, sha, scanned = read_text(base / "pdf.json.gz", amending, cache)
             doc = {"sha256": sha}
             if rule:
                 when, how = ks_inforce.when(rule, d["published"])
@@ -292,6 +310,9 @@ def main():
         title = d["title"]
         label = f"{title} (GZ {d['gazette']})" if d["gazette"] else title
         note = f"In force: {basis}" + (f" (\"{inf['words'][:300]}\")" if inf.get("words") else "") + "."
+        if scanned:
+            note += (f" The PDF ends with {scanned} page(s) printed only as images (after the text), not "
+                     f"transcribed here.")
         part = f"50-{kind}-{year}"
         parts[part]["laws"][slug] = {"label": label, "title": title, "kind": law_kind, "enacted": d["published"],
                                      "published": d["published"], "url": DETAIL.format(id=i),
@@ -301,6 +322,11 @@ def main():
             "first_law": slug, "earlier_laws": [],
             "versions": [{"from": day, "source_url": DOC.format(id=i), "sha256": doc["sha256"], "units": units,
                           "credits": {}, "note": note}]})
+    if cache is not None:
+        cache = {k: v for k, v in cache.items() if k.endswith("|" + SELF)}
+        tmp = Path(a.cache + ".tmp")
+        tmp.write_bytes(gzip.compress(json.dumps(cache, ensure_ascii=False).encode("utf-8"), 3))
+        tmp.replace(a.cache)
     PARTS.mkdir(exist_ok=True)
     country = {
         "country": {
@@ -346,7 +372,7 @@ def main():
         if not f.exists() or f.read_text(encoding="utf-8") != body:
             tmp = f.with_suffix(".tmp")
             tmp.write_text(body, encoding="utf-8", newline="\n")
-            tmp.replace(f)
+            replace(tmp, f)
         pub = PARTS / f"{name}.PUBLISH"
         line = (f"{len(p['acts'])} acts checked against the Gazette's page and the PDF text layer: no amending or "
                 f"repealing act linked or named, in-force day read from the act's own article, articles numbered in "
