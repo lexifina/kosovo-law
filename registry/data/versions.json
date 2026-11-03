@@ -16202,6 +16202,51 @@
    ]
   },
   {
+   "slug": "dekret-2013-8826",
+   "path": "dekret/2013/8826",
+   "short": "DMN-013-2013",
+   "title": "DEKRET, MARRËVESHJE NDËRMJET QEVERISË SË REPUBLIKËS SË KOSOVËS DHE QEVERISË SË PRINCIPATËS SË LIHTENSHTAJNIT PËR RIPRANIMIN E PERSONAVE QË QËNDROJNË PA AUTORIZIM",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=8826",
+   "versions": [
+    {
+     "from": "2013-07-16",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=8826",
+     "sha256": "eef89be0c5ea8dbd9958a85a353c74fdc16e0fc9bcb103a7a931b0fc8312773f"
+    }
+   ]
+  },
+  {
+   "slug": "dekret-2013-8878",
+   "path": "dekret/2013/8878",
+   "short": "DMN-016-2013",
+   "title": "DEKRET, MARRËVESHJE NË MES TË REPUBLIKËS SË KOSOVËS DHE HUNGARISË PËR BASHKËPUNIM NË PARANDALIMIN DHE LUFTIMIN E KRIMIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=8878",
+   "versions": [
+    {
+     "from": "2013-09-06",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=8878",
+     "sha256": "5d626ae8d6088718dee81550117ed47e81204a84d483401bb1bc0dfcd048bd13"
+    }
+   ]
+  },
+  {
+   "slug": "dekret-2013-8897",
+   "path": "dekret/2013/8897",
+   "short": "DMN-018-2013",
+   "title": "DEKRET, MARRËVESHJE MES QEVERISË SË REPUBLIKËS SË KROACISË DHE QEVERISË SË REPUBLIKËS SË KOSOVËS PËR BASHKËPUNIMIN NË FUSHAT E ARSIMIT DHE SHKENCËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=8897",
+   "versions": [
+    {
+     "from": "2013-09-19",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=8897",
+     "sha256": "3802c127f50d06c765c05159399559df9bce71ddb85735ca9b03882233764123"
+    }
+   ]
+  },
+  {
    "slug": "ligj-2008-2597",
    "path": "ligj/2008/2597",
    "short": "03/L-106",
@@ -16367,6 +16412,981 @@
    ]
   },
   {
+   "slug": "marreveshje-2012-11172",
+   "path": "marreveshje/2012/11172",
+   "short": "04/L-122-Marrveshja",
+   "title": "LIGJI NR. 04/L-122 PËR RATIFIKIMIN E KËMBIMIT TË NOTAVE DIPLOMATIKE PËR STATUSIN E FORCAVE TË HUAJA MES REPUBLIKËS SË KOSOVËS DHE SHTETEVE TË BASHKUARA TË AMERIKËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11172",
+   "versions": [
+    {
+     "from": "2012-06-28",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11172",
+     "sha256": "d7618e802299da1be68388b59671c794851d184479e7055c1ee442fc7d4edaa8"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2012-11174",
+   "path": "marreveshje/2012/11174",
+   "short": "04/L-132-Marrveshja",
+   "title": "LIGJI NR. 04/L-132 PËR RATIFIKIMIN E MARRËVESHJES FINANCIARE PËR KREDI DHE PROJEKT NDËRMJET QEVERISË SË REPUBLIKËS SË KOSOVËS, PËRFAQËSUAR NGA MINISTRIA PËR FINANCA DHE BANKËS GJERMANE KFW LIDHUR ME FABRIKËN E UJIT NË SHKABAJ",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11174",
+   "versions": [
+    {
+     "from": "2012-11-02",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11174",
+     "sha256": "f9df18df720dcc9885b113d9601deee72fc996736abbc1ec6e765067eae159e7"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2012-11175",
+   "path": "marreveshje/2012/11175",
+   "short": "04/L-153-Marrveshja",
+   "title": "LIGJI NR. 04/L-153 PËR RATIFIKIMIN E AMENDAMENTIT TË NENEVE TË MARRËVESHJES SË FONDIT MONETAR NDËRKOMBËTAR MBI REFORMËN E BORDIT EKZEKUTIV / ANEKSI",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11175",
+   "versions": [
+    {
+     "from": "2012-12-05",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11175",
+     "sha256": "53552f09f547fe9a3cac5af7a96fb43ecfdc21ad6cdbcd25715b15dc095b1b5a"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2012-11176",
+   "path": "marreveshje/2012/11176",
+   "short": "04/L-169-Marrveshja",
+   "title": "LIGJI Nr. 04/L-169 PËR RATIFIKIMIN E MARRËVESHJES PËR THEMELIMIN E BANKËS EVROPIANE PËR RINDËRTIM DHE ZHVILLIM",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11176",
+   "versions": [
+    {
+     "from": "1991-03-31",
+     "units": 8,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11176",
+     "sha256": "6c2882ded6be56959059849054c94ea60c18f1bf2ae3f39cbe41f9b2a91e0fc2"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2012-11177",
+   "path": "marreveshje/2012/11177",
+   "short": "04/L-166-Marrveshja",
+   "title": "LIGJI NR. 04/L-166 PËR RATIFIKIMIN E MARRËVESHJES PËR BASHKËPUNIM FINANCIAR NDËRMJET QEVERISË SË REPUBLIKËS SË KOSOVËS, DHE QEVERISË SË REPUBLIKËS SË AUSTRISË / MARRËVESHJE / SHTOJCA",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11177",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 7,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11177",
+     "sha256": "56915af5b1bd303e3ae474fd5dfe7b83c85becdf6c6a7cc76561e7319a8695e7"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2013-11178",
+   "path": "marreveshje/2013/11178",
+   "short": "04/L-211-Marrveshja",
+   "title": "LIGJI NR. 04/L-211 PËR RATIFIKIMIN E MARRËVESHJES FINANCIARE “ISTISNA’A” DHE MARRËVESHJA PËR AGJENCINË “ISTISNA’A” PËR FINANCIMIN E VAZHDIMIT TË NDËRTIMIT TË RRUGËS MILLOSHEVË - MITROVICË...",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11178",
+   "versions": [
+    {
+     "from": "2013-09-06",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11178",
+     "sha256": "3a13d20a2e36b43e1f057f7d89fe06c35c3a374eeb90c0777e552abafe9cde16"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2013-11203",
+   "path": "marreveshje/2013/11203",
+   "short": "04/L-210-Marrveshja",
+   "title": "LIGJI NR. 04/L-210 PËR RATIFIKIMIN E MARRËVESHJES FINANCIARE NË MES TË REPUBLIKËS SË KOSOVËS DHE ASOCIACIONIT NDËRKOMBËTAR PËR ZHVILLIM – FINANCIMI I DYTË SHTESË PËR PROJEKTIN E PASTRIMIT TË SEKTORIT TË ENERGJISË...",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11203",
+   "versions": [
+    {
+     "from": "2013-09-06",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11203",
+     "sha256": "092989774763a9d0325eab9297c7d2f1e9c195ea7441a984e093e276d53a7d41"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2013-11206",
+   "path": "marreveshje/2013/11206",
+   "short": "04/L-222-Marrveshja",
+   "title": "LIGJI Nr. 04/L-222 PËR RATIFIKIMIN E NENEVE TË MARRËVESHJES THEMELUESE TË BANKËS PËR ZHVILLIM TË KËSHILLIT TË EVROPËS DHE ANËTARËSIMIN E KOSOVËS NË BZHKE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11206",
+   "versions": [
+    {
+     "from": "2013-10-29",
+     "units": 10,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11206",
+     "sha256": "46950a5ec721e9406a2e444d66c5c550faf0ffcdb9894a72df918a143974c0a4"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2013-11207",
+   "path": "marreveshje/2013/11207",
+   "short": "04/L-234-Marrveshja",
+   "title": "LIGJI NR. 04/L-234 PËR RATIFIKIMIN E MARRËVESHJES PËR HUA PËR FINANCIMIN E VAZHDIMIT TË NDËRTIMIT TË RRUGËS MILLOSHEVË - MITROVICË, RRUGA M2, E LIDHUR NDËRMJET QEVERISË SË REPUBLIKËS SË KOSOVËS...",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11207",
+   "versions": [
+    {
+     "from": "2014-01-14",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11207",
+     "sha256": "231c829e86b9fe6c155caed5e88b46b77305ce6eec3082d457c18525f846a83e"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2013-8802",
+   "path": "marreveshje/2013/8802",
+   "short": "MN-BIZH Mar kornize per Bashkepunim",
+   "title": "MARRËVESHJE KORNIZË PËR STATUSIN DHE BASHKËPUNIMIN QË KA TË BËJË ME OPERACIONET E BANKËS ISLAMIKE PËR ZHVILLIMIN NË REPUBLIKËN E KOSOVËS, NDËRMJET QEVERISË SË REPUBLIKËS SË KOSOVËS DHE BANKËS ISLAMIKE PËR ZHVILLIM,",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=8802",
+   "versions": [
+    {
+     "from": "2013-06-21",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=8802",
+     "sha256": "bc10be1e76a2822d8734e5e5ac0310942303f5693f9a912b3b6f4bce871459d7"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2013-8904",
+   "path": "marreveshje/2013/8904",
+   "short": "Marr. Ks-USA",
+   "title": "MARRËVESHJE PËR LLOGARI TË MIRËBVESIMIT NË MES TË SHTETEVE TË BASHKUARA TË AMERIKËS DHE REPUBLIKËS SË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=8904",
+   "versions": [
+    {
+     "from": "2013-10-01",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=8904",
+     "sha256": "cbf18d55a0bc3deffc0c34823c638025486904c75ec1504c7a9cbfeed39a5233"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2013-8936",
+   "path": "marreveshje/2013/8936",
+   "short": "Marr.. Ks-Itali (020-2013)",
+   "title": "TRAKTAT PËR NDIHMË TË NDËRSJELLË JURIDIKE NË ÇËSHTJE PENALE NDËRMJET QEVERISË SË REPUBLIKËS SË KOSOVËS DHE QEVERISË SË REPUBLIKËS SË ITALISË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=8936",
+   "versions": [
+    {
+     "from": "2013-11-19",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=8936",
+     "sha256": "7b8bc69870bb41e603a1e42f591d818f51a884741fa1f03b9103c8089dc7140d"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2014-11208",
+   "path": "marreveshje/2014/11208",
+   "short": "04/L-248-Marrveshja",
+   "title": "LIGJI NR. 04/L-248 PËR RATIFIKIMIN E MARRËVESHJES PËR STATUSIN E ANËTARËVE TË FORCAVE TË ARMATOSURA TË REPUBLIKËS SË SHQIPËRISË DHE FORCËS SË SIGURISË SË REPUBLIKËS SË KOSOVËS GJATË QËNDRIMIT TË TYRE TË PËRKOHSHËM NË...",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11208",
+   "versions": [
+    {
+     "from": "2014-03-11",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11208",
+     "sha256": "e7b7ace75114c021ea0efa813cb5087f8200d786f3aa112f484338f1c5d440c0"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2014-11209",
+   "path": "marreveshje/2014/11209",
+   "short": "04/L-239-Marrveshja",
+   "title": "LIGJI NR. 04/L-239 PËR RATIFIKIMIN E MARRËVESHJES PËR HUA DHE FINANCIM NËPËRMJET KfW FRANKFURT AM MAIN, REPUBLIKËS SË KOSOVËS DHE OPERATORIT TË SISTEMIT, TRANSMISIONIT DHE TREGUT KOSST...",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11209",
+   "versions": [
+    {
+     "from": "2014-03-11",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11209",
+     "sha256": "f83481041e840cc90fae6b7e2b1703151119c1d3c30aeebac954054f748e062a"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2014-11210",
+   "path": "marreveshje/2014/11210",
+   "short": "04/L-256-Marrveshja",
+   "title": "LIGJI NR. 04/L-256 PËR RATIFIKIMIN E MARRËVESHJES PËR HUA PËR PROJEKTIN E MAGJISTRALES PRISHTINË- MITROVICË NDËRMJET FONDIT SAUDIT PËR ZHVILLIM DHE QEVERISË SË REPUBLIKËS SË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11210",
+   "versions": [
+    {
+     "from": "2014-04-12",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11210",
+     "sha256": "95d6170b702615e23ebacd5919554aceaded8a249060d2f533b456c2a4753883"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2014-11211",
+   "path": "marreveshje/2014/11211",
+   "short": "04/L-266-Marrveshja",
+   "title": "LIGJI NR. 04/L -266 PËR RATIFIKIMIN E MARRËVESHJES SË GARANCISË PËR LINJËN KREDITORE PËR FONDIN E SIGURIMEVE TË DEPOZITAVE TË KOSOVËS NDËRMJET REPUBLIKËS SË KOSOVËS DHE BANKËS EVROPIANE PËR RINDËRTIM DHE ZHVILLIM",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11211",
+   "versions": [
+    {
+     "from": "2014-05-15",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11211",
+     "sha256": "042f4ca11f482c58280f4e286d0f9b291df26c0f6e83e9c2a93069b8dc5a1ac4"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2014-11212",
+   "path": "marreveshje/2014/11212",
+   "short": "04/L-271-Marrveshja",
+   "title": "LIGJI NR. 04/L-271 PËR RATIFIKIMIN E MARRËVESHJES SË KREDISË EKSPORTUESE NDËRMJET REPUBLIKËS SË KOSOVËS DHE UNICREDIT BANK AUSTRIA AG LIDHUR ME FINANCIMIN E PROJEKTIT “MODERNIZIMI I SISTEMIT TË EDUKIMIT NË KOSOVË PËRMES E- EDUKIMIT”",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11212",
+   "versions": [
+    {
+     "from": "2014-05-15",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11212",
+     "sha256": "a67bb85095ca5f140dacbf2c4f9056cfd6e15a5354d81206cf1c091dbf5b5459"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2014-11213",
+   "path": "marreveshje/2014/11213",
+   "short": "04/L-274-Marrveshja",
+   "title": "LIGJI NR. 04/L -274 PËR RATIFIKIMIN E MARRËVESHJES NDËRKOMBËTARE NË MES TË REPUBLIKËS SË KOSOVËS DHE BASHKIMIT EVROPIAN MBI MISIONIN E BASHKIMIT EVROPIAN PËR SUNDIM TË LIGJIT NË KOSOVË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11213",
+   "versions": [
+    {
+     "from": "2014-05-30",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11213",
+     "sha256": "ef324614fd2f39415a0bcd1b4ce8445793d271c0b449e7a85942eb35ed9780a8"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2014-9442",
+   "path": "marreveshje/2014/9442",
+   "short": "Marr. Ks-KM Shqiperise Tatimi i Dyfishte",
+   "title": "MARRËVESHJE NDËRMJET QEVERISË SË REPUBLIKËS SË KOSOVËS DHE KËSHILLIT TË MINISTRAVE TË REPUBLIKËS SË SHQIPËRISË PËR SHMANGIEN E TATIMIT TË DYFISHTË LIDHlJR ME TATIMET MBI TË ARDHLJRAT DHE MBI KAPITALIN DHE PËR PARANDALlMIN E EVAZIONIT FISKAL.",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=9442",
+   "versions": [
+    {
+     "from": "2014-04-25",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=9442",
+     "sha256": "e635635dfadceecce455ad2063ef7cd8018a1b3b4b4de39209020595416d9f50"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2014-9443",
+   "path": "marreveshje/2014/9443",
+   "short": "Marr. Ks-KM Shqiperise TVSH",
+   "title": "MARRËVESHJE NDËRMJET QEVERISË SË REPUBLIKËS SË KOSOVËS (TË PËRFAQËSUAR NGA MINISTRIA E FINANCAVE) DHE KËSHILLIT TË MINISTRAVE TË REPUBLIKËS SË SHQIPËRISË (TË PËRFAQËSUAR NGA MINISTRIA E FINANCAVE) PËR PËRJASHTIMIN NGA TATIMI I VLERËS SË SHTUAR NË IMPORT PËR LIBRAT, PRODUKTET E PËRAFËRTA ME LIBRIN, GAZETAT, REVISTAT, PERIODIKËT SI DHE MATERIALET E NGJASHME TË SHTYPIT TË PUBLIKUARA NË REPUBLIKËN E K",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=9443",
+   "versions": [
+    {
+     "from": "2014-04-25",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=9443",
+     "sha256": "2b4cc3e465972a5b6ff107cdc7b3836d8ba3227187b0d43111f9fa8a721ea37e"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2014-9685",
+   "path": "marreveshje/2014/9685",
+   "short": "Marr.Ks-Mali Zi 019-2014",
+   "title": "MARRËVESHJA NDËRMJET QEVERISË SË REPUBLIKËS SË KOSOVËS DHE MALIT TË ZI PËR PËRCAKTIMlN KALIMlT KUFITAR RRUGORË NDËRKOMBËTARË KULLË - SAVINO VODË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=9685",
+   "versions": [
+    {
+     "from": "2014-09-19",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=9685",
+     "sha256": "348d492246b63ebe029e6b6ce054a41a6b8d61dd15c9b889c62d3b009ed9cba2"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2015-11214",
+   "path": "marreveshje/2015/11214",
+   "short": "05/L -011-Marrveshja",
+   "title": "LIGJI NR. 05/L -011 PËR RATIFIKIMIN E MARRËVESHJES PËR FINANCIM NDËRMJET REPUBLIKËS SË KOSOVËS DHE ASOCIACIONIT NDËRKOMBËTAR PËR ZHVILLIM LIDHUR ME PROJEKTIN PËR EFIÇIENCËN E ENERGJISË DHE ENERGJINË E RIPËRTËRITSHME",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11214",
+   "versions": [
+    {
+     "from": "2015-04-23",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11214",
+     "sha256": "0abdfb2859bf8f222c1fb932e2d03a050b2277d0cc6f41a20163c27f106e1650"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2015-11215",
+   "path": "marreveshje/2015/11215",
+   "short": "05/L -012-Marrveshja",
+   "title": "LIGJI NR. 05/L -012 PËR RATIFIKIMIN E MARRËVESHJES PËR FINANCIM NDËRMJET REPUBLIKËS SË KOSOVËS DHE ASOCIACIONIT NDËRKOMBËTAR PËR ZHVILLIM LIDHUR ME PROJEKTIN PËR REFORMËN SHËNDETËSORE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11215",
+   "versions": [
+    {
+     "from": "2015-04-23",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11215",
+     "sha256": "8c87bd552b368e410e6b1fb2e0b4e32abbc05ca1c5918cb3e04ffc1d6818d96a"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2015-11216",
+   "path": "marreveshje/2015/11216",
+   "short": "05/L -013-Marrveshja",
+   "title": "LIGJI NR. 05/L -013 PËR RATIFIKIMIN E MARRËVESHJES NDËRMJET QEVERISË SË REPUBLIKËS SË KOSOVËS DHE QEVERISË SË SHTETEVE TË BASHKUARA TË AMERIKËS PËR TË PËRMIRËSUAR PAJTUESHMËRINË E RREGULLOREVE TATIMORE NË NIVEL NDËRKOMBËTAR DHE ZBATIMIN E RREGULLOREVE FATCA",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11216",
+   "versions": [
+    {
+     "from": "2015-06-04",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11216",
+     "sha256": "c470711aa1f62da1552e1021b7feb38471957f550f1b3fd6a7813b9ad3be93ed"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2015-11240",
+   "path": "marreveshje/2015/11240",
+   "short": "05/L-069-Marrveshja",
+   "title": "LIGJI NR. 05/L-069 PËR RATIFIKIMIN E MARRËVESHJES SË STABILIZIM ASOCIIMIT NDËRMJET REPUBLIKËS SË KOSOVËS, NË NJËRËN ANË, DHE BASHKIMIT EVROPIAN DHE KOMUNITETIT EVROPIAN TË ENERGJISË ATOMIKE, NË ANËN TJETËR",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11240",
+   "versions": [
+    {
+     "from": "2015-12-01",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11240",
+     "sha256": "029739d963fdcddbddde8302dc7c5e5f0afa785e6a71d15cba0f3acfabfb38eb"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2015-11279",
+   "path": "marreveshje/2015/11279",
+   "short": "05/L -059-Marrveshja",
+   "title": "LIGJI NR. 05/L -059 PËR RATIFIKIMIN E MARRËVESHJES BILATERALE NDËRMJET QEVERISË SË REPUBLIKËS SË KOSOVËS DHE QEVERISË SË DUKATËS SË MADHE TË LUKSEMBURGUT PËR PROJEKTIN E BASHKËPUNIMIT PËR ZHVILLIM: “KSV/017: PROGRAMI PËR MBËSHTETJEN E SHËNDETËSISË NË KOSOVË (FAZA II)”",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11279",
+   "versions": [
+    {
+     "from": "2016-01-05",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11279",
+     "sha256": "fbe0162c0f924a5cc915cda7611d70b551b6a627b98a63230378ec4a3c44f88e"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2015-11281",
+   "path": "marreveshje/2015/11281",
+   "short": "05/L -056-Marrveshja",
+   "title": "LIGJI NR. 05/L -056 PËR RATIFIKIMIN E MARRËVESHJES BILATERALE NDËRMJET QEVERISË SË REPUBLIKËS SË KOSOVËS DHE QEVERISË SË DUKATËS SË MADHE TË LUKSEMBURGUT PËR PROJEKTIN E BASHKËPUNIMIT PËR ZHVILLIM: “KSV/018: MBËSHTETJE INSTITUCIONALE DHE TEKNIKE PËR SISTEMIN E FURNIZIMIT ME UJË NË RAJONIN E MITROVICËS”",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11281",
+   "versions": [
+    {
+     "from": "2015-12-21",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11281",
+     "sha256": "87a4cb6bd9f45519705969a8429d858905f8666afd4673c0d766698b6a47124f"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2016-12252",
+   "path": "marreveshje/2016/12252",
+   "short": "05/L-086-Marrveshja",
+   "title": "LIGJI NR. 05/L-086 PËR RATIFIKIMIN E MARRËVESHJES PËR FINANCIM NDËRMJET REPUBLIKËS SË KOSOVËS DHE ASOCIACIONIT NDËRKOMBËTAR PËR ZHVILLIM PËR REALIZIMIN E PROJEKTIT PËR PËRMIRËSIMIN E SISTEMIT TË ARSIMIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=12252",
+   "versions": [
+    {
+     "from": "2016-04-05",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=12252",
+     "sha256": "2218ccb986c02a4dfdbdcb6071a976799b525118e0fceac72585e23234182426"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2016-12253",
+   "path": "marreveshje/2016/12253",
+   "short": "05/L-072-Marrveshja",
+   "title": "LIGJI NR. 05/L-072 PËR RATIFIKIMIN E MARRËVESHJES PËR HUA NDËRMJET QEVERISË SË REPUBLIKËS SË KOSOVËS DHE BANKËS EVROPIANE PËR RINDËRTIM DHE ZHVILLIM PËR PROJEKTIN E REHABILITIMIT TË RRUGËS HEKURUDHORE 10",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=12253",
+   "versions": [
+    {
+     "from": "2016-04-05",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=12253",
+     "sha256": "b74a9cd5b203bfd926754e1aab6468ed531db173ec3530a9dcb693de7763b098"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2016-12254",
+   "path": "marreveshje/2016/12254",
+   "short": "05/L-073-Marrveshja",
+   "title": "LIGJI NR. 05/L-073 PËR RATIFIKIMIN E MARRËVESHJES NDËRMJET QEVERISË SË REPUBLIKËS SË KOSOVËS DHE QEVERISË SË REPUBLIKËS FEDERALE TË GJERMANISË PËR BASHKËPUNIM FINANCIAR 2014 PËR PROJEKTIN E HUASË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=12254",
+   "versions": [
+    {
+     "from": "2016-04-05",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=12254",
+     "sha256": "b28470e9f3b205bb6dbc0274ac9338c5f17d157df88ce59f5eb679b28d73142b"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2016-12765",
+   "path": "marreveshje/2016/12765",
+   "short": "05/L-097-Marrveshja",
+   "title": "LIGJI NR. 05/L-097 PËR RATIFIKIMIN E MARRËVESHJES PËR HUA NDËRMJET REPUBLIKËS SË KOSOVËS DHE BANKËS EVROPIANE PËR RINDËRTIM DHE ZHVILLIM PËR REHABILITIMIN E RRUGËVE RAJONALE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=12765",
+   "versions": [
+    {
+     "from": "2016-07-22",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=12765",
+     "sha256": "f6a8fe9ac7656519de126bdeb59350511defa40d92f098ab8a8e6f92034f4c43"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2016-12766",
+   "path": "marreveshje/2016/12766",
+   "short": "05/L-107-Marrveshja",
+   "title": "LIGJI NR. 05/L-107 PËR RATIFIKIMIN E MARRËVESHJES PËR HUA NDËRMJET KFW, FRANKFURT AM MAIN DHE QEVERISË SË REPUBLIKËS SË KOSOVËS PËR PROGRAMIN “MASAT E EFIÇIENCËS SË ENERGJISË NË NDËRTESAT PUBLIKE NË NIVEL KOMUNAL NË KOSOVË”",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=12766",
+   "versions": [
+    {
+     "from": "2016-08-03",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=12766",
+     "sha256": "b9f6e7f532eca6bfc4da670c0a1a43dfcac69ff8d6e742b87d6e304f268ced18"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2016-12817",
+   "path": "marreveshje/2016/12817",
+   "short": "05/L-111-Marrveshja",
+   "title": "LIGJI NR. 05/L-111 PËR RATIFIKIMIN E MARRËVESHJES FINANCIARE NDËRMJET QEVERISË SË REPUBLIKËS SË KOSOVËS DHE BANKËS EVROPIANE PËR INVESTIME PËR PROJEKTIN E REHABILITIMIT TË LINJËS HEKURUDHORE 10",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=12817",
+   "versions": [
+    {
+     "from": "2016-09-14",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=12817",
+     "sha256": "0a2e14a2c97ed12abb1c4d11119f5c7c53a19e47818b96f7d340c30a6120c894"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2016-12819",
+   "path": "marreveshje/2016/12819",
+   "short": "05/L-106-Marrveshja",
+   "title": "LIGJI NR. 05/L-106 PËR RATIFIKIMIN E MARRËVESHJES SË KREDISË NDËRMJET QEVERISË SË REPUBLIKËS SË KOSOVËS DHE UNICREDIT BANK AUSTRIA AG PËR FINANCIMIN E PROJEKTIT TË MODERNIZIMIT TË SHËRBIMEVE TË KARDIOLOGJISË INVAZIVE NË QENDRËN KLINIKE UNIVERSITARE TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=12819",
+   "versions": [
+    {
+     "from": "2016-09-14",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=12819",
+     "sha256": "78593d9574921419e85c27f726b27688659b820c299fd92eb6f3695163f2592d"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2016-13175",
+   "path": "marreveshje/2016/13175",
+   "short": "05/L-124-Marrëveshja",
+   "title": "LIGJI NR. 05/L-124 PËR RATIFIKIMIN E MARRËVESHJES FINANCIARE PËR IPA 2015 NDËRMJET KOSOVËS DHE BASHKIMIT EVROPIAN",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=13175",
+   "versions": [
+    {
+     "from": "2016-12-15",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=13175",
+     "sha256": "629fd69d45d5d3d6b8a1b107e0dda7f443a400d999e0ab011ba3795853e1af51"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2017-13514",
+   "path": "marreveshje/2017/13514",
+   "short": "05/L-155-Marrveshja",
+   "title": "LIGJI NR. 05/L-155 PËR RATIFIKIMIN E MARRËVESHJES SË GARANCISË PËR FSDK – LINJA E DYTË KREDITORE PËR FONDIN PËR SIGURIMIN E DEPOZITAVE TË KOSOVËS NDËRMJET REPUBLIKËS SË KOSOVËS DHE BANKËS EVROPIANE PËR RINDËRTIM DHE ZHVILLIM",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=13514",
+   "versions": [
+    {
+     "from": "2017-04-12",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=13514",
+     "sha256": "5f3b6d78b3004e18318619aa7d0556329311745f63f6cf58622640fe9bf46ac7"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2017-13516",
+   "path": "marreveshje/2017/13516",
+   "short": "05/L-154-Marrveshja",
+   "title": "LIGJI NR. 05/L-154 PËR RATIFIKIMIN E PROTOKOLLIT FINANCIAR MIDIS QEVERISË SË REPUBLIKËS SË KOSOVËS DHE QEVERISË SË REPUBLIKËS SË FRANCËS, DHE TË MARRËVESHJES PËR HUA PËR ZBATIMIN E PROTOKOLLIT FINANCIAR NDËRMJET MINISTRISË SË FINANCAVE SË REPUBLIKËS SË KOSOVËS DHE NATIXIS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=13516",
+   "versions": [
+    {
+     "from": "2017-04-12",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=13516",
+     "sha256": "758e571cc4919b8c40fe44e618f265c7f4d9ed3583881731c1d321602ef31578"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2017-13517",
+   "path": "marreveshje/2017/13517",
+   "short": "05/L-152-Marrveshja",
+   "title": "LIGJI NR. 05/L-152 PËR RATIFIKIMIN E MARRËVESHJES PËR BASHKËPUNIM FINANCIAR NË MES TË QEVERISË SË REPUBLIKËS SË KOSOVËS, E PËRFAQËSUAR NGA MINISTRIA E FINANCAVE, DHE QEVERISË SË REPUBLIKËS SË AUSTRISË, E PËRFAQËSUAR NGA MINISTRIA FEDERALE E FINANCAVE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=13517",
+   "versions": [
+    {
+     "from": "2017-04-12",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=13517",
+     "sha256": "bb4c5e275d7dd87173918aa00cf50b990c95a30981e2bec7d786fe17b07d1ac4"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2017-14609",
+   "path": "marreveshje/2017/14609",
+   "short": "05/L-157-Marrveshja",
+   "title": "LIGJI NR. 05/L-157 PËR RATIFIKIMIN E MARRËVESHJES SË FINANCIMIT TË PROJEKTIT PËR SIGURINË E UJIT DHE MBROJTJEN E KANALIT TË IBËR-LEPENCIT, NDËRMJET REPUBLIKËS SË KOSOVËS DHE ASOCIACIONIT NDËRKOMBËTAR PËR ZHVILLIM",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=14609",
+   "versions": [
+    {
+     "from": "2017-05-06",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=14609",
+     "sha256": "6cee07ca155009b75cb48839d6f0ec94e881f51df8bad4bfae5690b17e411e05"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2017-14610",
+   "path": "marreveshje/2017/14610",
+   "short": "05/L-149-Marrveshja",
+   "title": "LIGJI NR. 05/L-149 PËR RATIFIKIMIN E MARRËVESHJES PËR THEMELIMIN E ZYRËS RAJONALE PËR BASHKËPUNIM RINOR NË MES KOSOVËS, SHQIPËRISË, BOSNJË DHE HERCEGOVINËS, MALIT TË ZI, MAQEDONISË DHE SERBISË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=14610",
+   "versions": [
+    {
+     "from": "2017-05-06",
+     "units": 7,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=14610",
+     "sha256": "eb47fc7b9c32157d3ed406f7723d5f7f4a1931e1a0f968ba2de949e1608c6257"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2017-14611",
+   "path": "marreveshje/2017/14611",
+   "short": "05/L-137-Marrveshja",
+   "title": "LIGJI NR. 05/L-137 PËR RATIFIKIMIN E MARRËVESHJES PËRKITAZI ME THEMELIMIN E FONDIT TË BALLKANIT PERËNDIMOR",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=14611",
+   "versions": [
+    {
+     "from": "2017-05-06",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=14611",
+     "sha256": "4545c0c548831bb5c5492b047a5431d43383d0517d5110d0a150ed93169cea47"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2017-14612",
+   "path": "marreveshje/2017/14612",
+   "short": "05/L-151-Marrveshja",
+   "title": "LIGJI NR. 05/L-151 PËR RATIFIKIMIN E MARRËVESHJES SË BASHKËPUNIMIT NDËRMJET QEVERISË SË REPUBLIKËS SË KOSOVËS E PËRFAQËSUAR NGA MINISTRIA E ZHVILLIMIT EKONOMIK DHE KËSHILLIT TË MINISTRAVE TË REPUBLIKËS SË SHQIPĘRISË E PËRFAQËSUAR NGA MINISTRIA E ENERGJISË DHE INDUSTRISË PËR SHKËMBIMIN DHE/OSE NDARJEN E REZERVËS RREGULLUESE NDËRMJET OPERATORIT TË SISTEMIT TË TRANSMETIMIT OST SH.A.DHE OPERATORIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=14612",
+   "versions": [
+    {
+     "from": "2017-05-06",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=14612",
+     "sha256": "fa0d2f9230da826db327a72439d0ef4ce61d680197b105b8ce7df692ab2e096a"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2017-15462",
+   "path": "marreveshje/2017/15462",
+   "short": "PRS-IPA-2016-MARR-ND",
+   "title": "MARRËVESHJE FINANCIARE PËR IPA 2016 NDËRMJET REPUBLIKËS SË KOSOVËS DHE BASHKIMIT EVROPIAN",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15462",
+   "versions": [
+    {
+     "from": "2017-10-13",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=15462",
+     "sha256": "fad96cc54168f45d4819f79de69e28f034be0a86b8c7cedbae99d1fdaeb7dc92"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2017-15804",
+   "path": "marreveshje/2017/15804",
+   "short": "KUV-06/L-018-MARR-ND",
+   "title": "LIGJI NR. 06/L-018 PËR RATIFIKIMIN E MARRËVESHJES FINANCIARE PËR FINANCIM SHTESË PËR PROJEKTIN PËR BUJQËSI DHE ZHVILLIM RURAL NDËRMJET REPUBLIKËS SË KOSOVËS DHE ASOCIACIONIT NDËRKOMBËTAR PËR ZHVILLIM",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15804",
+   "versions": [
+    {
+     "from": "2018-01-13",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=15804",
+     "sha256": "d925576e33f7f2665c5ab0fe77936e4591cb85bdfcc98ab09248e250f57bb692"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2017-15805",
+   "path": "marreveshje/2017/15805",
+   "short": "KUV-06/L-017-MARR-ND",
+   "title": "LIGJI NR. 06/L-017 PËR RATIFIKIMIN E MARRËVESHJES FINANCIARE PËR PROJEKTIN E KONKURRUESHMËRISË DHE GATISHMËRISË PËR EKSPORT NDËRMJET REPUBLIKËS SË KOSOVËS DHE ASOCIACIONIT PËR ZHVILLIM NDËRKOMBËTAR",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15805",
+   "versions": [
+    {
+     "from": "2018-01-13",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=15805",
+     "sha256": "0dcf90555d2c565d3210dc6ee27cafd62eb1ed97f2d03cb2a09d454e903c39e3"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2018-16277",
+   "path": "marreveshje/2018/16277",
+   "short": "KUV-06/L-053-Marrveshja-MARR-ND",
+   "title": "LIGJI NR. 06/L-053 PËR RATIFIKIMIN E MARRËVESHJES SË BASHKËPUNIMIT NDËRMJET MINISTRISË SË ARSIMIT, SHKENCËS DHE TEKNOLOGJISË TË REPUBLIKËS SË KOSOVËS DHE AGJENCISË AUSTRIAKE PËR ZHVILLIM ADA REF. NO. 8116-00/2016/LR 2016",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=16277",
+   "versions": [
+    {
+     "from": "2018-05-04",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=16277",
+     "sha256": "047e72af0625505e0a4f36009e438aec050758c86b4b9e26e334d3d953ff3e0c"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2018-16278",
+   "path": "marreveshje/2018/16278",
+   "short": "KUV-06/L-063-Marrveshja-MARR-ND",
+   "title": "LIGJI NR. 06/L-063 PËR RATIFIKIMIN E MARRËVESHJES PËR HUA NDËRMJET REPUBLIKËS SË KOSOVËS DHE BANKËS EVROPIANE PËR RINDËRTIM DHE ZHVILLIM, PËR PROJEKTIN E AUTOSTRADËS KIJEVË – ZAHAQ",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=16278",
+   "versions": [
+    {
+     "from": "2018-05-04",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=16278",
+     "sha256": "9ad863250122217aebef398ab40e915b4fb5dbc8510ad0f66c55cb5638078e9a"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2018-16394",
+   "path": "marreveshje/2018/16394",
+   "short": "KUV-06/L-060-Marrveshja-MARR-ND",
+   "title": "LIGJI NR. 06/L-060 PËR RATIFIKIMIN E MARRËVESHJES PËR KUFIRIN SHTETËROR NË MES TË REPUBLIKËS SË KOSOVËS DHE MALIT TË ZI",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=16394",
+   "versions": [
+    {
+     "from": "2018-05-30",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=16394",
+     "sha256": "2767a4774b77b262905f9c3dc0e031368eb310f5132c859dbdaa39bdace3bb42"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2018-16624",
+   "path": "marreveshje/2018/16624",
+   "short": "KUV-06/L-061-MARR-ND",
+   "title": "LIGJI Nr. 06/L -061 PËR RATIFIKIMIN E TRAKTATIT NDËRMJET REPUBLIKËS SË KOSOVËS DHE HUNGARISË MBI TRANSFERIMIN E PERSONAVE TË DËNUAR",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=16624",
+   "versions": [
+    {
+     "from": "2018-07-17",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=16624",
+     "sha256": "4604bb2940fbe68620045cd4e7fa768332f77f78a51e81f06de12207bb21e609"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2018-16625",
+   "path": "marreveshje/2018/16625",
+   "short": "KUV-06/L-062-MARR-ND",
+   "title": "LIGJI Nr. 06/L -062 PËR RATIFIKIMIN E TRAKTATIT NDËRMJET REPUBLIKËS SË KOSOVËS DHE HUNGARISË PËR EKSTRADIM",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=16625",
+   "versions": [
+    {
+     "from": "2018-07-17",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=16625",
+     "sha256": "311b912c497bc7874104e47dc90f28cb99775a1773d5977275513790a59ccbb9"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2018-17734",
+   "path": "marreveshje/2018/17734",
+   "short": "PRS-Marr.Ks-CEFTA-MARR-ND",
+   "title": "MARRËVESHJE PËR AMENDIMIN DHE ZGJERIMIN E MARRËVESHJES SË TREGTISË SË LIRË TË EVROPËS QENDRORE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=17734",
+   "versions": [
+    {
+     "from": "2007-05-01",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=17734",
+     "sha256": "19dd48e37760a6811046f57a2f3cba06c77e0af702c566bf2dd87d0c39274778"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2018-17747",
+   "path": "marreveshje/2018/17747",
+   "short": "KUV-06/L-080-Marrveshja-MARR-ND",
+   "title": "LIGJI NR. 06/L-080 PËR RATIFIKIMIN E MARRËVESHJES NDËRMJET KOSOVËS DHE BASHKIMIT EVROPIAN MBI PJESËMARRJEN E KOSOVËS NË PROGRAMIN E UNIONIT “KONKURRENCA E NDËRMARRJEVE DHE NDËRMARRJEVE TË VOGLA DHE TË MESME (COSME) (2014-2020)”",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=17747",
+   "versions": [
+    {
+     "from": "2018-08-25",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=17747",
+     "sha256": "9b3c2fbdac7a78cb6531899a66b142b77c0f3c08a998a4455fd78557141cc105"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2018-18022",
+   "path": "marreveshje/2018/18022",
+   "short": "KUV-06/L-098-Marrveshja-MARR-ND",
+   "title": "LIGJI NR. 06/L-098 PËR RATIFIKIMIN E MARRËVESHJES PËR HUA NDËRMJET REPUBLIKËS SË KOSOVËS DHE BANKËS EVROPIANE PËR INVESTIME PËR PROJEKTIN E AUTOSTRADËS PRISHTINË – PEJË, SEGMENTI KIJEVË – ZAHAQ",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=18022",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=18022",
+     "sha256": "7264ff15cf82c1f896550cf78c3bb3255e33f11018fc94545d8a4496bc20cc5c"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2018-18023",
+   "path": "marreveshje/2018/18023",
+   "short": "KUV-06/L-095-Marrveshja-MARR-ND",
+   "title": "LIGJI NR. 06/L-095 PËR RATIFIKIMIN E MARRËVESHJES NDËRMJET KOMISIONIT EVROPIAN DHE KOSOVËS MBI PJESËMARRJEN E KOSOVËS NË 'ERASMUS +’, PROGRAMIN E UNIONIT PËR ARSIM, TRAJNIM, RINI DHE SPORT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=18023",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=18023",
+     "sha256": "2b90e041b7dceaa9b30eb6615812e161091a1d82396681ae1262df32a7d5b321"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2018-18024",
+   "path": "marreveshje/2018/18024",
+   "short": "KUV-06/L-094-Marrveshja-MARR-ND",
+   "title": "LIGJI NR. 06/L-094 PËR RATIFIKIMIN E MARRËVESHJES NDËRMJET REPUBLIKËS SË KOSOVËS DHE BASHKIMIT EVROPIAN MBI PJESËMARRJEN E REPUBLIKËS SË KOSOVËS NË PROGRAMIN “EVROPA PËR QYTETARËT”",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=18024",
+   "versions": [
+    {
+     "from": "2018-10-16",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=18024",
+     "sha256": "69e2b1ddba3e6c8a340aed7b5d341f12be400521472d31d32cc77d68cc923882"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2018-18025",
+   "path": "marreveshje/2018/18025",
+   "short": "KUV-06/L-112-Marrveshja-MARR-ND",
+   "title": "LIGJI NR. 06/L-112 PËR RATIFIKIMIN E MARRËVESHJES PËR FINANCIM MIDIS REPUBLIKËS SË KOSOVËS DHE ASOCIACIONIT NDËRKOMBËTAR PËR ZHVILLIM PËR PROJEKTIN E EKONOMISË DIGJITALE TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=18025",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=18025",
+     "sha256": "ee2cecbacc0bdcc6c635d39699caf91dac89c686941c1b88e8552f885f20ceea"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2018-18026",
+   "path": "marreveshje/2018/18026",
+   "short": "KUV-06/L-090-Marrveshja-MARR-ND",
+   "title": "LIGJI NR. 06/L-090 PËR RATIFIKIMIN E MARRËVESHJES FINANCIARE PËR IPA 2017, PJESA E PARË NDËRMJET REPUBLIKËS SË KOSOVËS DHE BASHKIMIT EVROPIAN",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=18026",
+   "versions": [
+    {
+     "from": "2018-10-16",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=18026",
+     "sha256": "f33885e31e268badf11b75a30e75e44a0a075b62b6ee3308dfcdc3080ea47910"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2018-18027",
+   "path": "marreveshje/2018/18027",
+   "short": "KUV-06/L-106-Marrveshja-MARR-ND",
+   "title": "LIGJI NR. 06/L-106 PËR RATIFIKIMIN E MARRËVESHJES NDËRMJET QEVERISË SË REPUBLIKËS SË KOSOVËS DHE QEVERISË SË ZVICRËS LIDHUR ME PROGRAMIN MBËSHTETËS PËR UJËSJELLËS DHE KANALIZIM NË ZONAT RURALE - FAZA VI",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=18027",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=18027",
+     "sha256": "594f44403453980d26190581646d1a3fcf28ae81077db30cb2e378ea167a08c8"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2018-18028",
+   "path": "marreveshje/2018/18028",
+   "short": "KUV-06/L-102-Marrveshja-MARR-ND",
+   "title": "LIGJI NR. 06/L-102 PËR RATIFIKIMIN E MARRËVESHJES PËR PJESËMARRJEN E KOSOVËS NË PROGRAMIN EVROPA KREATIVE PËR MBËSHTETJEN E SEKTORËVE KULTURORË DHE KREATIVË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=18028",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 7,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=18028",
+     "sha256": "ebcdb31217579d70290f90bb63d21a1b69448c98bc7ca1630c41bdc9b66980f5"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2018-18117",
+   "path": "marreveshje/2018/18117",
+   "short": "KUV-06/L-103-Marrveshja-MARR-ND",
+   "title": "LIGJI NR. 06/L-103 PËR RATIFIKIMIN E NDRYSHIMIT DHE PLOTËSIMIT NR. 1 TË MARRËVESHJES FINANCIARE PËR IPA 2015 NDËRMJET REPUBLIKËS SË KOSOVËS DHE BASHKIMIT EVROPIAN",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=18117",
+   "versions": [
+    {
+     "from": "2018-11-09",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=18117",
+     "sha256": "4fb117c1c8e0698679a0941e969e23d86844cb70c9244c8168527bbc7dba3db7"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2018-18118",
+   "path": "marreveshje/2018/18118",
+   "short": "KUV-06/L-129-Marrveshja-MARR-ND",
+   "title": "LIGJI NR. 06/L-129 PËR RATIFIKIMIN E MARRËVESHJES NDËRMJET QEVERISË SË REPUBLIKËS SË KOSOVËS MINISTRISË SË INOVACIONIT DHE NDËRMARRËSISË DHE GIZ (GIZ GESELLSCHAFT FÜR INTERNATIONALE ZUSAMMENARBEIT AGJENCIONI GJERMAN PËR BASHKËPUNIM NDËRKOMBËTAR) PËR BASHKËFINANCIMIN E PROJEKTIT CETEP",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=18118",
+   "versions": [
+    {
+     "from": "2018-11-24",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=18118",
+     "sha256": "3ac5dd2d64e16f233509b2ad6c86a39e5d7d99ec0e2cbc5ea81b27b45b93f904"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2018-18119",
+   "path": "marreveshje/2018/18119",
+   "short": "KUV-06/L-107-Marrveshja-MARR-ND",
+   "title": "LIGJI NR. 06/L-107 PËR RATIFIKIMIN E MARRËVESHJES PËR SIGURIME SOCIALE NDËRMJET REPUBLIKËS SË KOSOVËS DHE MBRETËRISË SË BELGJIKËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=18119",
+   "versions": [
+    {
+     "from": "2018-11-24",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=18119",
+     "sha256": "20ec8d32918b21e16d0be8537446b3a40cd8d3f78c8d28fd536a41cdd1f19bba"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2018-18120",
+   "path": "marreveshje/2018/18120",
+   "short": "KUV-06/L-108-Marrveshja-MARR-ND",
+   "title": "LIGJI NR. 06/L-108 PËR RATIFIKIMIN E MARRËVESHJES PËR SIGURIME SOCIALE NDËRMJET REPUBLIKËS SË KOSOVËS DHE KONFEDERATËS SË ZVICRËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=18120",
+   "versions": [
+    {
+     "from": "2018-11-24",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=18120",
+     "sha256": "bfec7f02a4b4f07493243210721cdf4d63f521047e7b3bd8239486d5ff63c67b"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2018-18121",
+   "path": "marreveshje/2018/18121",
+   "short": "KUV-06/L-078-Marrveshja-MARR-ND",
+   "title": "LIGJI NR. 06/L-078 PËR RATIFIKIMIN E MARRËVESHJES BILATERALE NDËRMJET QEVERISË SË REPUBLIKËS SË KOSOVËS DHE QEVERISË SË DUKATIT TË MADH TË LUKSEMBURGUT NË KUADËR TË PROJEKTIT TË BASHKËPUNIMIT ZHVILLIMOR, KSV/019: ASISTENCË TEKNIKE NË KONTEKSTIN E INTEGRIMIT EVROPIAN",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=18121",
+   "versions": [
+    {
+     "from": "2018-11-09",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=18121",
+     "sha256": "91dc95dd3e64195f85b33eee074f31246f8d406ec6fa1625b733d8bdd31b9ef3"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2018-18189",
+   "path": "marreveshje/2018/18189",
+   "short": "KUV-06/L-109-Marrveshja-MARR-ND",
+   "title": "LIGJI NR. 06/L-109 PËR RATIFIKIMIN E TRAKTATIT QË THEMELON KOMUNITETIN E TRANSPORTIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=18189",
+   "versions": [
+    {
+     "from": "2018-12-11",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=18189",
+     "sha256": "04c93f18ecdfe46cfe56d2e13e793f007550a56a7043786b340750f74016a5b3"
+    }
+   ]
+  },
+  {
    "slug": "marreveshje-2019-23321",
    "path": "marreveshje/2019/23321",
    "short": "KUV-06/L-161-Marreveshja-MARR-ND",
@@ -16378,6 +17398,711 @@
      "units": 5,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=23321",
      "sha256": "b0d94e9781d0e1ebd550066f216b4300ab6f21d02cbd11db580e722a1ca8f64d"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2019-51534",
+   "path": "marreveshje/2019/51534",
+   "short": "KUV-06/L-136-Marrveshja-MARR-ND",
+   "title": "LIGJI NR. 06/L -136 PËR RATIFIKIMIN E MARRËVESHJES PËR KREDI NDËRMJET REPUBLIKËS SË KOSOVËS DHE UNICREDIT BANK AUSTRIA AG PËR PROJEKTIN E SISTEMIT PËR LARGIMIN E UJËRAVE TË ZEZA PËR KOMUNËN E PODUJEVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=51534",
+   "versions": [
+    {
+     "from": "2019-03-07",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=51534",
+     "sha256": "59dc2f4c5607b2f8503839477fc85e69a70785757f7b7b97be96e8078e1ef3bb"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2019-51535",
+   "path": "marreveshje/2019/51535",
+   "short": "KUV-06/L-139-Marrveshja-MARR-ND",
+   "title": "LIGJI NR. 06/L-139 PËR RATIFIKIMIN E MARRËVESHJES PËR BASHKËFINANCIMIN E BURSAVE NË NIVEL TË STUDIMEVE MASTER NDËRMJET AMBASADËS SË FRANCËS NË PRISHTINË DHE MINISTRISË SË ARSIMIT, SHKENCËS DHE TEKNOLOGJISË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=51535",
+   "versions": [
+    {
+     "from": "2019-03-07",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=51535",
+     "sha256": "5fe25e2a87529dcbc15e13736a577e9ce00fae3d186fb24c5852ee5e8edb3b2e"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2019-51536",
+   "path": "marreveshje/2019/51536",
+   "short": "KUV-06/L-141-Marrveshja-MARR-ND",
+   "title": "LIGJI NR. 06/L-141 PËR RATIFIKIMIN E MARRËVESHJES KREDITORE NË MES REPUBLIKËS SË KOSOVËS DHE RAIFFEISEN BANK INTERNATIONAL AG",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=51536",
+   "versions": [
+    {
+     "from": "2019-03-07",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=51536",
+     "sha256": "8b2dcb794f0fa471964a9e41cca8633e26b9072a6de037ea0cf117829466f803"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2019-51537",
+   "path": "marreveshje/2019/51537",
+   "short": "KUV-06/L-143-Marrveshja-MARR-ND",
+   "title": "LIGJI NR. 06/L-143 PËR RATIFIKIMIN E MARRËVËSHJES SË KREDISË NË MES REPUBLIKËS SË KOSOVËS DHE UNICREDIT BANK AUSTRIA AG SI HUADHËNËS LIDHUR ME FINANCIMIN E PROJEKTIT NDËRTIMI I SISTEMIT TË FURNIZIMIT ME UJË PËR KOMUNËN E GRAÇANICËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=51537",
+   "versions": [
+    {
+     "from": "2019-03-07",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=51537",
+     "sha256": "90340172555981be9ad72ae27a58a1c4a203c92eef65e8d630ccfaa5e0097ab7"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2019-51538",
+   "path": "marreveshje/2019/51538",
+   "short": "KUV-06/L-142-Marrveshja-MARR-ND",
+   "title": "LIGJI NR. 06/L-142 PËR RATIFIKIMIN E MARRËVESHJES SË KREDISË NDËRMJET REPUBLIKËS SË KOSOVËS DHE UNICREDIT BANK AUSTRIA AG NË LIDHJE ME FINANCIMIN E PROJEKTIT PËR NDËRTIMIN E SISTEMIT TË KANALIZIMIT PËR KOMUNËN E SHTIMES",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=51538",
+   "versions": [
+    {
+     "from": "2019-03-07",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=51538",
+     "sha256": "24b72acfe016ecfa3bd4cac580215f6f462f802ea6061650b87a791c9e14c626"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2019-51539",
+   "path": "marreveshje/2019/51539",
+   "short": "KUV-06/L-144-Marrveshja-MARR-ND",
+   "title": "LIGJI NR. 06/L-144 PËR RATIFIKIMIN E MARRËVESHJES SË KREDISË NDËRMJET REPUBLIKËS SË KOSOVËS DHE UNICREDIT BANK AUSTRIA AG NË LIDHJE ME FINANCIMIN E PROJEKTIT PËR NDËRTIMIN E SISTEMIT TË UJËSJELLESIT PËR KOMUNËN E ISTOGUT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=51539",
+   "versions": [
+    {
+     "from": "2019-03-07",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=51539",
+     "sha256": "6dc836052b9e46ba697a6b4f0dba4fb63dc557e1454717ff4c0f043928eaf2af"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2020-32380",
+   "path": "marreveshje/2020/32380",
+   "short": "KUV-07/L-008-MARR-ND",
+   "title": "LIGJI NR. 07/L -008 PËR RATIFIKIMIN E MARRËVESHJES PËR HUA NDËRMJET REPUBLIKËS SË KOSOVËS DHE BANKËS EVROPIANE PËR RINDËRTIM DHE ZHVILLIM PËR PROJEKTIN E ZHVILLIMIT TË UJËRAVE TË ZEZA NË GJILAN",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=32380",
+   "versions": [
+    {
+     "from": "2020-08-22",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=32380",
+     "sha256": "fcc2da7b84439fead48aa7db11a4c3fa5303092c2d845bab71f7346faf19b877"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2020-32383",
+   "path": "marreveshje/2020/32383",
+   "short": "KUV-07/L-003-MARR-ND",
+   "title": "LIGJI NR. 07/L-003 PËR RATIFIKIMIN E MARRËVESHJES PËR FINANCIM NDËRMJET REPUBLIKËS SË KOSOVËS DHE ASOCIACIONIT NDËRKOMBËTAR PËR ZHVILLIM PËR PROJEKTIN E FUQIZIMIT TË SEKTORIT FINANCIAR",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=32383",
+   "versions": [
+    {
+     "from": "2020-08-07",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=32383",
+     "sha256": "33fd4cd4c9effc00465e865675d187625fbc924279648fd29afe0a35e41902e8"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2020-32384",
+   "path": "marreveshje/2020/32384",
+   "short": "KUV-07/L-010-MARR-ND",
+   "title": "LIGJI NR. 07/L-010 PËR RATIFIKIMIN E MARRËVESHJES PËR FINANCIMIN E PROJEKTIT PËR KADASTËR TË PATUNDSHMËRISË DHE INFRASTRUKTURË GJEOHAPËSINORE NDËRMJET REPUBLIKËS SË KOSOVËS DHE ASOCIACIONIT NDËRKOMBËTAR PËR ZHVILLIM",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=32384",
+   "versions": [
+    {
+     "from": "2020-08-22",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=32384",
+     "sha256": "a26a6dc6e56a61bda40e2a656f25a2badd20d508431b597b0f9425ff640831c4"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2020-32386",
+   "path": "marreveshje/2020/32386",
+   "short": "KUV-07/L-011-MARR-ND",
+   "title": "LIGJI NR. 07/L-011 PËR RATIFIKIMIN E MARRËVESHJES NDËRMJET BASHKIMIT EVROPIAN DHE KOSOVËS MBI PJESËMARRJEN E KOSOVËS NË PROGRAMIN E BASHKIMIT”DOGANA 2020”",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=32386",
+   "versions": [
+    {
+     "from": "2020-08-22",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=32386",
+     "sha256": "b3fbfdd6c961607e983efe8372ec88c07dc1eb98e0a0c47d32d537db4eec1928"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2020-32387",
+   "path": "marreveshje/2020/32387",
+   "short": "KUV-07/L-017-MARR-ND",
+   "title": "LIGJI NR. 07/L-017 PËR RATIFIKIMIN E MARRËVESHJES NDËRMJET REPUBLIKËS SË KOSOVËS DHE ASOCIACIONIT NDËRKOMBËTAR PËR ZHVILLIM LIDHUR ME FINANCIMIN E PROJEKTIT EMERGJENT COVID-19 PËR KOSOVËN",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=32387",
+   "versions": [
+    {
+     "from": "2020-09-09",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=32387",
+     "sha256": "93975f2476bf0705399043376713536cbbb337fb435ed0c5a8d0806931565298"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2020-32388",
+   "path": "marreveshje/2020/32388",
+   "short": "KUV-07/L-023-MARR-ND",
+   "title": "LIGJI NR. 07/L-023 PËR RATIFIKIMIN E MARRËVESHJES SË HUASË NDËRMJET BASHKIMIT EVROPIAN DHE KOSOVËS PËR NDIHMËN MAKRO FINANCIARE PËR KOSOVËN",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=32388",
+   "versions": [
+    {
+     "from": "2020-08-25",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=32388",
+     "sha256": "0bd5600b93e76343bbab9068d72a7fd4db78e8f8de9166fa4d23e6e8329179e1"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2021-46393",
+   "path": "marreveshje/2021/46393",
+   "short": "KUV-08/L-009-Marrveshja-MARR-ND",
+   "title": "LIGJI NR. 08/L-009 PËR RATIFIKIMIN E AMENDAMENTIMIT NR. 1 TË MARRËVESHJES KORNIZË SË KREDISË TË DATËS 14 GUSHT 2020, NDËRMJET REPUBLIKËS SË KOSOVËS E PËRFAQËSUAR NGA MINISTRIA E FINANCAVE, PUNËS DHE TRANSFEREVE DHE BANKËS ZHVILLIMORE TË KËSHILLIT TË EVROPËS (BZHKE) PËR FINANCIMIN E PROJEKTIT “REAGIMI EMERGJENT NDAJ COVID-19”",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=46393",
+   "versions": [
+    {
+     "from": "2021-08-25",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=46393",
+     "sha256": "0d32de92f7f4dfbe7222681aeaa50c7b63919e5cb3f13679f2b583b75b765d99"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2021-46395",
+   "path": "marreveshje/2021/46395",
+   "short": "KUV-08/L-019-Marrveshja-MARR-ND",
+   "title": "LIGJI NR. 08/L-019 PËR AMENDAMENTIMIN 02 TË MARRËVESHJES BILATERALE NDËRMJET QEVERISË SË REPUBLIKËS SË KOSOVËS DHE QEVERISË SË DUKATËS SË MADHE TË LUKSEMBURGUT PËR PROJEKTIN E BASHKËPUNIMIT PËR ZHVILLIM “KSV/017: PROGRAMI PËR MBËSHTETJE SHËNDETËSORE (PJESA II)”",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=46395",
+   "versions": [
+    {
+     "from": "2021-08-25",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=46395",
+     "sha256": "f86c3bb965ba5dc51bc415dcfa0a1d8c4097d35c26c88d3a9e7a93169e43e384"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2021-49953",
+   "path": "marreveshje/2021/49953",
+   "short": "KUV-08/L-054-Marrveshja-MARR-ND",
+   "title": "LIGJI NR. 08/L-054 PËR RATIFIKIMIN E “AMENDAMENTIT NR. 1 TË MARRËVESHJES FINANCIARE PËR IPA 2017, PJESA E PARË NDËRMJET REPUBLIKËS SË KOSOVËS DHE BASHKIMIT EVROPIAN”",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=49953",
+   "versions": [
+    {
+     "from": "2021-10-19",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=49953",
+     "sha256": "9a3a8adb22dfcdccbe521b057b71ed195e8627569fea48f5425d1d14ad972efc"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2021-50007",
+   "path": "marreveshje/2021/50007",
+   "short": "08/L-031",
+   "title": "LIGJI NR. 08/L-031 PËR RATIFIKIMIN E MARRËVESHJES SË FINANCIMIT “PROJEKTI EMERGJENT I KOSOVËS PËR COVID-19 – FINANCIM SHTESË”, NË MES TË REPUBLIKËS SË KOSOVËS DHE ASOCIACIONIT NDËRKOMBËTAR PËR ZHVILLIM",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=50007",
+   "versions": [
+    {
+     "from": "2021-10-21",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=50007",
+     "sha256": "0cdae3abe60b821298e0efac5f306462da2e0e92ea1d3def312be52d33d4e6c6"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2021-50120",
+   "path": "marreveshje/2021/50120",
+   "short": "KUV-08/L-030-Marrveshja-MARR-ND",
+   "title": "LIGJI NR. 08/L-030 PËR RATIFIKIMIN E AMENDAMENTIMIT TË MARRËVESHJES SË BASHKËFINANCIMIT PËR PROJEKTIN “ PROGRAMI MBËSHTETËS PËR UJËSJELLËS DHE KANALIZIM NË ZONAT RURALE FAZA( DALËSE) VI”, NDËRMJET QEVERISË SË REPUBLIKËS SË KOSOVËS DHE QEVERISË SË ZVICRËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=50120",
+   "versions": [
+    {
+     "from": "2021-10-21",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=50120",
+     "sha256": "9f31fe7d7bf757f7e813c63d8c1e8f0b331e9451c66d13d99fca8effb0ec4619"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2021-51137",
+   "path": "marreveshje/2021/51137",
+   "short": "KUV-08/L-060-Marrveshja-MARR-ND",
+   "title": "LIGJI NR. 08/L-060 PËR RATIFIKIMIN E “AMENDAMENTIMIT NR. 1 TË MARRËVESHJES FINANCIARE PËR IPA 2018 NDËRMJET REPUBLIKËS SË KOSOVËS DHE BASHKIMIT EVROPIAN”",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=51137",
+   "versions": [
+    {
+     "from": "2021-12-06",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=51137",
+     "sha256": "36084917ecc52f948413378cb77b90304e8ce40fc337b29e5b69db2d683a17bb"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2021-51139",
+   "path": "marreveshje/2021/51139",
+   "short": "KUV-08/L-061-Marrveshja-MARR-ND",
+   "title": "LIGJI NR. 08/L-061 PËR RATIFIKIMIN E MARRËVESHJES SE KREDISË NË MES TË REPUBLIKËS SË KOSOVËS, E PËRFAQËSUAR NGA MINISTRIA E FINANCAVE, PUNËS DHE TRANSFEREVE DHE BANKËS EVROPIANE PËR INVESTIME PËR FINANCIMIN E PROJEKTIT “REAGIMI I KOSOVËS NDAJ PANDEMISË COVID-19 PËR NVM-TË”",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=51139",
+   "versions": [
+    {
+     "from": "2021-12-06",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=51139",
+     "sha256": "eacde7f3f20747755c51837d196e5d738ae08a75115767d0b3b5a6b4bd30cfa1"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2021-51549",
+   "path": "marreveshje/2021/51549",
+   "short": "KUV-08/L-006-Marrveshja-MARR-ND",
+   "title": "LIGJI NR. 08/L-006 PËR RATIFIKIMIN E AMENDAMENTIMIT TË MARRËVESHJES NDËRKOMBËTARE ME BANKËN EVROPIANE PËR INVESTIME (BEI) PËR FINANCIMIN E PROJEKTIT PËR REHABILITIMIN E LINJËS HEKURUDHORE 10",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=51549",
+   "versions": [
+    {
+     "from": "2022-01-05",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=51549",
+     "sha256": "44da705da695e146197eaf5d2bf7ba0184aa89de2d5e272608cd7f08e4f93c6b"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2021-51550",
+   "path": "marreveshje/2021/51550",
+   "short": "KUV-08/L-073-MARR-ND",
+   "title": "LIGJI NR. 08/L-073 PËR RATIFIKIMIN E KËMBIMIT TË NOTAVE DIPLOMATIKE NË LIDHJE ME ASISTENCËN E OFRUAR NË FORMË GRANTI SIPAS AKTIT PËR NDIHMË TË JASHTME TË VITIT 1961 DHE AKTIT PËR KONTROLL TË SHITJEVE TË ARMËVE MES REPUBLIKËS SË KOSOVËS DHE SHTETEVE TË BASHKUARA TË AMERIKËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=51550",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=51550",
+     "sha256": "95db0e843d977bc2cd2237722131d9fdf8cc985d00b8a9ffef162db441bceec9"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2021-51551",
+   "path": "marreveshje/2021/51551",
+   "short": "KUV-08/L-008-Marrveshja-MARR-ND",
+   "title": "LIGJI NR. 08/L-008 PËR RATIFIKIMIN E MARRËVESHJES SË BASHKËPUNIMIT NDËRMJET MINISTRISË SË ARSIMIT, SHKENCËS, TEKNOLOGJISË DHE INOVACIONIT DHE AGJENCISË AUSTRIAKE PËR ZHVILLIM PËR ZBATIMIN E PROJEKTIT“HULUMTIMI DHE SHKENCAT E APLIKUARA NË ARSIMIN E LARTË + (HERAS+)” (ADA NUMRI REFERUES 8116-00-2020)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=51551",
+   "versions": [
+    {
+     "from": "2022-01-05",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=51551",
+     "sha256": "1451e128aa3f836c5a3aac986cd3b91788d19ed4715592e6bf8dbe7872f6b80e"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2021-51677",
+   "path": "marreveshje/2021/51677",
+   "short": "KUV-08/L-068-Marrveshja-MARR-ND",
+   "title": "LIGJI NR. 08/L-068 PËR RATIFIKIMIN E “AMENDAMENTIMIT NR. 1 TË MARRËVESHJES FINANCIARE PËR IPA 2016 NDËRMJET REPUBLIKËS SË KOSOVËS DHE BASHKIMIT EVROPIAN”",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=51677",
+   "versions": [
+    {
+     "from": "2021-12-29",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=51677",
+     "sha256": "e2f200a6723321da47a9b258ae462e96d3f7625fb3c50546c5747594014687a3"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2022-53717",
+   "path": "marreveshje/2022/53717",
+   "short": "KUV-08/L-097-Marrveshja-MARR-ND",
+   "title": "LIGJI NR. 08/L - 097 PËR RATIFIKIMIN E MARRËVESHJES NDËRMJET REPUBLIKËS SË KOSOVËS DHE REPUBLIKËS SË MAQEDONISË SË VERIUT PËR STATUSIN E PJESËTARËVE TË FORCAVE TË SIGURISË SË REPUBLIKËS SË KOSOVËS DHE USHTRISË SË REPUBLIKËS SË MAQEDONISË SË VERIUT GJATË QËNDRIMIT TË TYRE TË PËRKOHSHËM NË TERRITORIN E SHTETEVE PËRKATËSE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=53717",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=53717",
+     "sha256": "3994528c5468d2e4f318e277b0884dc322e8ddb29f4eeeda7334f74717c91d0c"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2022-53718",
+   "path": "marreveshje/2022/53718",
+   "short": "08/L-105-Marrveshja",
+   "title": "LIGJI NR. 08/L-105 PËR RATIFIKIMIN E MARRËVESHJES PËR PJESËMARRJEN E REPUBLIKËS SË KOSOVËS NË PROGRAMIN E BASHKIMIT EVROPIAN EVROPA KREATIVE (2021-2027)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=53718",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 7,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=53718",
+     "sha256": "c5442c9375609706aab4155ed4b5707864b24851279d573c16432a122f5d5a62"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2022-53720",
+   "path": "marreveshje/2022/53720",
+   "short": "KUV-08/L-100-Marrveshja-MARR-ND",
+   "title": "LIGJI NR. 08/L-100 PËR RATIFIKIMIN E MARRËVESHJES NDËRKOMBËTARE NË MES TË BASHKIMIT EVROPIAN NGA NJËRA ANË DHE KOSOVËS NGA ANA TJETËR, PËR PJESËMARRJEN E KOSOVËS NË PROGRAMIN E BASHKIMIT HORIZON EUROPE - KORNIZA E PROGRAMIT PËR KËRKIMIN DHE INOVACIONIN",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=53720",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=53720",
+     "sha256": "0c184b7da46acc68e8fff0597073919839c37ced839c09e1c576695b4c4f336d"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2022-53750",
+   "path": "marreveshje/2022/53750",
+   "short": "KUV-08/L-096-Marrveshja-MARR-ND",
+   "title": "LIGJI NR. 08/L-096 PËR RATIFIKIMIN E MARRËVESHJES NDËRMJET REPUBLIKËS SË KOSOVËS DHE ASOCIACIONIT NDËRKOMBËTAR PËR ZHVILLIM LIDHUR ME FINANCIMIN E PROGRAMIT - NXITJA DHE LEVIMI I MUNDËSIVE PËR SIGURINË E UJIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=53750",
+   "versions": [
+    {
+     "from": "2022-02-25",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=53750",
+     "sha256": "7b3667024fd19642fb9beaf953c02f8ee55c37668c77a563c479d9de93e9043d"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2022-53751",
+   "path": "marreveshje/2022/53751",
+   "short": "KUV-08/L-098-Marrveshja-MARR-ND",
+   "title": "LIGJI NR. 08/L-098 PËR RATIFIKIMIN E MEMORANDUMIT TË MIRËKUPTIMIT NË MES AMBASADËS SË SHTETEVE TË BASHKUARA TË AMERIKËS, PRISHTINË, KOSOVË DHE MINISTRISË SË ARSIMIT, SHKENCËS, TEKNOLOGJISË DHE INOVACIONIT TË REPUBLIKËS SË KOSOVËS PËR PROGRAMIN E SHKËMBIMIT AKADEMIK FULBRIGHT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=53751",
+   "versions": [
+    {
+     "from": "2022-02-25",
+     "units": 7,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=53751",
+     "sha256": "3bc0c38a81c65f54c3374c7d9a868fc4c6c893c2f8b08e5a1a60550455d6fc65"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2022-55531",
+   "path": "marreveshje/2022/55531",
+   "short": "KUV-08/L-106-MARR-ND",
+   "title": "LIGJI NR. 08/L-106 PËR RATIFIKIMIN E MARRËVESHJES PËR NDIHMË TË NDËRSJELLË JURIDIKE NË ÇËSHTJET CIVILE NË MES TË QEVERISË SË REPUBLIKËS SË KOSOVËS DHE QEVERISË SË REPUBLIKËS SË MAQEDONISË SË VERIUT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=55531",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=55531",
+     "sha256": "7b077459fedba0b65c3baff4045c4f4af08baadac016b149460e635d1dc595e4"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2022-55532",
+   "path": "marreveshje/2022/55532",
+   "short": "KUV-08/L-118-MARR-ND",
+   "title": "LIGJI NR. 08/L-118 PËR RATIFIKIMIN E MARRËVESHJES PËR STATUSIN E FORCAVE NË MES TË REPUBLIKËS SË KOSOVËS DHE SHTETIT TË KUVAJTIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=55532",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=55532",
+     "sha256": "4f46d31b5f799730fe30193786517e6615f6423ab056334d84595c174377b5a2"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2022-55533",
+   "path": "marreveshje/2022/55533",
+   "short": "KUV-08/L-119-MARR-ND",
+   "title": "LIGJI NR. 08/L-119 PËR RATIFIKIMIN E MARRËVESHJES NDËRMJET QEVERISË SË REPUBLIKËS SË KOSOVËS DHE QEVERISË SË MALIT TË ZI NË KONTEKSTIN E ADERIMIT NË BASHKIMIN EVROPIAN",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=55533",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=55533",
+     "sha256": "66cbd6897d4cdfbe63c6548e91d169e744da7e6e60ac04866a9224236a011ac8"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2022-55535",
+   "path": "marreveshje/2022/55535",
+   "short": "KUV-08/L-127-MARR-ND",
+   "title": "LIGJI NR. 08/L-127 PËR RATIFIKIMIN E MARRËVESHJES NDËRMJET QEVERISË SË REPUBLIKËS SË KOSOVËS DHE KËSHILLIT TË MINISTRAVE TË REPUBLIKËS SË SHQIPËRISË PËR ZBATIMIN E LEHTËSIRAVE DOGANORE DHE/OSE KONTROLLIT TË HYRJES/DALJES SË MALLRAVE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=55535",
+   "versions": [
+    {
+     "from": "2022-03-15",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=55535",
+     "sha256": "baa9731118c832156b711212956c4d548e5d6f63018e63689dc83db95d5a00de"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2022-59289",
+   "path": "marreveshje/2022/59289",
+   "short": "KUV-08/L-130-Marrveshja-MARR-ND",
+   "title": "LIGJI NR. 08/L-130 PËR RATIFIKIMIN E MARRËVESHJES NDËRMJET QEVERISЁ SЁ REPUBLIKËS SË KOSOVËS DHE KËSHILLIT TЁ MINISTRAVE TЁ REPUBLIKËS SË SHQIPËRISË PËR NDIHMË TË NDËRSJELLË JURIDIKE NË ÇËSHTJET CIVILE DHE TREGTARE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=59289",
+   "versions": [
+    {
+     "from": "2022-06-14",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=59289",
+     "sha256": "f9b07118d02b9d7a4ceb8d542ae5d7e740918898b861be21a0084fd1d3a686b4"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2022-59290",
+   "path": "marreveshje/2022/59290",
+   "short": "KUV-08/L-139-Marrveshja-MARR-ND",
+   "title": "LIGJI NR. 08/L-139 PËR RATIFIKIMIN E MARRËVESHJES SË KREDISË NDËRMJET REPUBLIKËS SË KOSOVËS DHE BANKËS EVROPIANE PËR INVESTIME PËR PROJEKTIN E ZHVILLIMIT TË IMPIANTIT TË UJËRAVE TË ZEZA NË MITROVICË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=59290",
+   "versions": [
+    {
+     "from": "2022-05-30",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=59290",
+     "sha256": "62af7856901f4fe7025ace5b42418b1b2c914d6841de8111063d8b66484a52aa"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2022-59291",
+   "path": "marreveshje/2022/59291",
+   "short": "KUV-08/L-140-Marrveshja-MARR-ND",
+   "title": "LIGJI NR. 08/L-140 PËR RATIFIKIMIN E MARRËVESHJES SË KREDISË NË MES TË REPUBLIKËS SË KOSOVËS DHE BANKËS EVROPIANE PËR RINDËRTIM DHE ZHVILLIM PËR PROJEKTIN E TRAJTIMIT TË UJËRAVE TË ZEZA NË MITROVICË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=59291",
+   "versions": [
+    {
+     "from": "2022-05-30",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=59291",
+     "sha256": "02aab2cbf35818e9a4b056cdc8d186724441f61913f0cde85cf1e42ba320ab4b"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2022-61419",
+   "path": "marreveshje/2022/61419",
+   "short": "08/L-154",
+   "title": "LIGJI NR. 08/L-154 PËR RATIFIKIMIN E MARRËVESHJES SË BASHKËFINANCIMIT PËR STUDIMIN E FIZIBILITETIT DHE PROJEKT-IDESË PËR LIDHJEN HEKURUDHORE DURRËS-PRISHTINË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=61419",
+   "versions": [
+    {
+     "from": "2022-08-11",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=61419",
+     "sha256": "627d816bcd12d0a1342876c5713a80da79c838b48b7e0fb72a2882a00297d598"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2022-61453",
+   "path": "marreveshje/2022/61453",
+   "short": "KUV-08/L-150-MARR-ND",
+   "title": "LIGJI NR. 08/L-150 PËR RATIFIKIMIN E TRAKTATIT MBI NDIHMËN E NDËRSJELLË JURIDIKE NË ÇËSHTJET PENALE NDËRMJET QEVERISË SË REPUBLIKËS SË KOSOVËS DHE KONFEDERATËS ZVICERANE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=61453",
+   "versions": [
+    {
+     "from": "2022-08-26",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=61453",
+     "sha256": "a34cf7d61d149d5f61c00f991756b892eaac883fbfc5c26e9bcd1963cc705053"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2022-65659",
+   "path": "marreveshje/2022/65659",
+   "short": "KUV-08/L-164-Marveshja-MARR-ND",
+   "title": "LIGJI NR. 08/L-164 PËR RATIFIKIMIN E AMENDAMENTIMIT NR.2 TË MARRËVESHJES FINANCIARE NDËRMJET REPUBLIKËS SË KOSOVËS DHE BASHKIMIT EVROPIAN PËR PROGRAMIN IPA 2018",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=65659",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=65659",
+     "sha256": "de3bb3c06e815f0c7b8214918c4a8791c1a9b2a91943e594a52ccdcbb580e485"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2022-66096",
+   "path": "marreveshje/2022/66096",
+   "short": "KUV-08/L-170-Marrveshja-MARR-ND",
+   "title": "LIGJI NR. 08/L-170 PËR RATIFIKIMIN E MARRËVESHJES NË MES TË REPUBLIKËS SË KOSOVËS, E PËRFAQËSUAR NGA MINISTRIA E FINANCAVE, PUNËS DHE TRANSFEREVE, DHE BASHKIMIT EVROPIAN PËR PJESËMARRJE TË KOSOVËS NË ‘DOGANAT’, PROGRAMI I BASHKIMIT EVROPIAN PËR BASHKËPUNIM NË FUSHËN E DOGANAVE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=66096",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=66096",
+     "sha256": "b2acdeaa1ad8abd9d39d0111be181232cdd40f3e94b47243d0d8d25003572803"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2022-66097",
+   "path": "marreveshje/2022/66097",
+   "short": "KUV-08/L-174-Marrveshja-MARR-ND",
+   "title": "LIGJI NR. 08/L-174 PËR RATIFIKIMIN E MARRËVESHJES FINANCIARE NDËRMJET REPUBLIKËS SË KOSOVËS DHE BASHKIMIT EVROPIAN PËR PROGRAMIN IPA 2021",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=66097",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=66097",
+     "sha256": "ef3bc9e0e24fd2fad33629185a3d4797dc8264dc58d8b3aa348edfac037684d5"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2022-66098",
+   "path": "marreveshje/2022/66098",
+   "short": "KUV-08/L-163-Marrveshja-MARR-ND",
+   "title": "LIGJI NR. 08/L-163 PËR RATIFIKIMIN E “AMENDAMENTIMIT 2 TË MARRËVESHJES FINANCIARE NDËRMJET REPUBLIKËS SË KOSOVËS DHE BASHKIMIT EVROPIAN PËR PROGRAMIN IPA 2015”",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=66098",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=66098",
+     "sha256": "84c8786edbd5ba046f58ffcca45c1f4758940752948992a1dce01976dbaa0363"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2022-66179",
+   "path": "marreveshje/2022/66179",
+   "short": "KUV-08/L-169-Marrveshja-MARR-ND",
+   "title": "LIGJI NR. 08/L-169 PËR RATIFIKIMIN E MARRËVESHJES NË MES TË REPUBLIKËS SË KOSOVËS, E PËRFAQËSUAR NGA MINISTRIA E FINANCAVE, PUNËS DHE TRANSFEREVE, DHE BASHKIMIT EVROPIAN PËR PJESËMARRJE TË KOSOVËS NË ‘FISCALIS’, PROGRAMI I BASHKIMIT EVROPIAN PËR BASHKËPUNIM NË FUSHËN E TATIMIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=66179",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=66179",
+     "sha256": "6b6fcaf55efa602efe0e97c8ea9978680133182b92b8515f94382b9636d73697"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2022-66180",
+   "path": "marreveshje/2022/66180",
+   "short": "KUV-08/L-161-Marrveshja-MARR-ND",
+   "title": "LIGJI NR. 08/L-161 PËR RATIFIKIMIN E “MARRËVESHJES DYPALËSHE TË BASHKËPUNIMIT PËR ZHVILLIM NDËRMJET REPUBLIKËS SË KOSOVËS DHE DUKATIT TË MADH TË LUKSEMBURGUT”",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=66180",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=66180",
+     "sha256": "72aaa7f77300f4323b0ea0a46221253ebc6b8de9bee26a7617867edfa1a369a8"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2022-66181",
+   "path": "marreveshje/2022/66181",
+   "short": "08/L-171-Marrveshja",
+   "title": "LIGJI NR. 08/L-171 PËR RATIFIKIMIN E MARRËVESHJES SË BASHKËFINANCIMIT PËR PROJEKTIN PARKU I INOVACIONIT DHE TRAJNIMIT PRIZREN (PIT) NDËRMJET REPUBLIKËS SË KOSOVËS PËRFAQËSUAR NGA MINISTRIA E FINANCAVE, PUNËS DHE TRANSFEREVE DHE REPUBLIKËS FEDERALE TË GJERMANISË PËRFAQËSUAR NGA GIZ",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=66181",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=66181",
+     "sha256": "f032fffaf6d9cdc89f22ddc94969349f674c6b9b78b75e0e81014dce980a9642"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2022-66182",
+   "path": "marreveshje/2022/66182",
+   "short": "KUV-08/L-165-Marrveshja-MARR-ND",
+   "title": "LIGJI NR. 08/L-165 PËR RATIFIKIMIN E VENDIMIT NR. 1/2022 TË KËSHILLIT TË STABILIZIM ASOCIIMIT BE - KOSOVË PËR AMENDAMENTIMIN E MARRËVESHJES SË STABILIZIM-ASOCIIMIT NDËRMJET BASHKIMIT EVROPIAN DHE KOMUNITETIT EVROPIAN TË ENERGJISË ATOMIKE DHE KOSOVËS, PËR TË ZËVENDËSUAR PROTOKOLLIN III TË TIJ NË LIDHJE ME KONCEPTIN E \"PRODUKTEVE ORIGJINUESE\"",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=66182",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=66182",
+     "sha256": "23620c45b14330dd18faca97910a6fcfacce2e74ad6797b3cc1233a4fc38f8be"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2022-66881",
+   "path": "marreveshje/2022/66881",
+   "short": "KUV-08/L-195-Marrveshja-MARR-ND",
+   "title": "LIGJI NR. 08/L-195 PËR RATIFIKIMIN E MARRËVESHJES NDËRMJET MINISTRISË SË MBROJTJES SË MBRETËRISË SË BASHKUAR TË BRITANISË SË MADHE DHE IRLANDËS VERIORE DHE MINISTRISË SË MBROJTJES, NË EMËR TË QEVERISË SË REPUBLIKËS SË KOSOVËS, LIDHUR ME ATASHIMIN E PERSONELIT NGA FORCA E SIGURISË SË KOSOVËS NË KOMPANINË ROULMENT TË KËMBËSORISË NË ISHUJT FALKLAND",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=66881",
+   "versions": [
+    {
+     "from": "2022-11-25",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=66881",
+     "sha256": "1cf5fec6a2ef66b1646d015f1a8907f5cc88d45bef5e9a76e3e4b9ec82c3ef9b"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2023-61470",
+   "path": "marreveshje/2023/61470",
+   "short": "KUV-08/L-151-MARR-ND",
+   "title": "LIGJI NR. 08/L-151 PËR RATIFIKIMIN E MARRËVESHJES PËR FINANCIM TË POLITIKAVE ZHVILLIMORE PËR FINANCA PUBLIKE DHE RRITJE TË QËNDRUESHME, NDËRMJET REPUBLIKËS SË KOSOVËS DHE ASOCIACIONIT NDËRKOMBËTAR PËR ZHVILLIM",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=61470",
+   "versions": [
+    {
+     "from": "2023-06-16",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=61470",
+     "sha256": "aca740b124a8cf0bc5d9dd2f840ec97436df2b84053dbe9c5841889d48bac083"
     }
    ]
   },
@@ -17672,6 +19397,21 @@
    ]
   },
   {
+   "slug": "rregullore-2009-8258",
+   "path": "rregullore/2009/8258",
+   "short": "R ShKONSULOR MPJ",
+   "title": "RREGULLORE PËR SHËRBIMIN KONSULLOR",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=8258",
+   "versions": [
+    {
+     "from": "2009-04-24",
+     "units": 24,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=8258",
+     "sha256": "2f682ef17adfd9af6b142e151445724f99f4191ec33f681e4d19ff333e512186"
+    }
+   ]
+  },
+  {
    "slug": "rregullore-2010-11372",
    "path": "rregullore/2010/11372",
    "short": "RR-10/2010-AAC",
@@ -18298,6 +20038,21 @@
      "units": 19,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=12032",
      "sha256": "6c4022a0af647421776754b818d59ad6ad5849edb85e3299571f89d2092e17ed"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2014-8998",
+   "path": "rregullore/2014/8998",
+   "short": "QRK-41/2013",
+   "title": "RREGULLORE (QRK) - NR. 41/2013 PËR ORGANIZIMIN E BRENDSHËM DHE SISTEMATIZIMIN E VENDEVE TË PUNËS TË MINISTRISË SË ADMINISTRATËS PUBLIKE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=8998",
+   "versions": [
+    {
+     "from": "2013-12-18",
+     "units": 61,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=8998",
+     "sha256": "93c204fd7772ffa01ddca17a2ec7f7a551ccda4983e6ec307806c4af29a809ab"
     }
    ]
   },
@@ -20923,6 +22678,366 @@
      "units": 4,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=109504",
      "sha256": "e3b4875585d1637943fb437b93f42a8a6b9b1e46a60891b5a12f5f6bdc6019cc"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2003-7170",
+   "path": "udhezim/2003/7170",
+   "short": "MASHT-14/2003",
+   "title": "UDHËZIM ADMINISTRATIV NR. 14/2003 PËR LICENCIMIN E BARTËSVE PRIVAT TË ARSIMIT TË LARTË NË KOSOVË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=7170",
+   "versions": [
+    {
+     "from": "2003-07-28",
+     "units": 24,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=7170",
+     "sha256": "f07dc05a0044bf0412ac8c4db724240b7dd7a88d125210da25bdb9b9ec06e96e"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2003-7173",
+   "path": "udhezim/2003/7173",
+   "short": "MASHT-10/2003",
+   "title": "UDHËZIM ADMINISTRATIV NR. 10/2003 PËR QENDRËN E STUDENTËVE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=7173",
+   "versions": [
+    {
+     "from": "2003-05-26",
+     "units": 11,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=7173",
+     "sha256": "58851afe0184fea375e37a0abb29a53fc6fc42a1afdc7083ed66f5cb67cb78bc"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2005-7269",
+   "path": "udhezim/2005/7269",
+   "short": "MTI-2005/12",
+   "title": "UDHËZIM ADMINISTRATIV, NR.2005/12 PËR PËRMBUSHJEN E KUSHTEVE MINIMALE PËR LOKALET AFARISTE , OBJEKTET E SHITJES ME SHUMICË DHE PAKICË PËR NDËRMJETËSIM NË TREGTI “",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=7269",
+   "versions": [
+    {
+     "from": "2005-03-29",
+     "units": 83,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=7269",
+     "sha256": "9be9b93a439d616e3651ed7c6f6c6b8e786ab196d93922249fd243de1f016b1c"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2005-7294",
+   "path": "udhezim/2005/7294",
+   "short": "MPMS-05/2005",
+   "title": "UDHËZIM ADMINISTRATIV nr. 05/2005 PËR NDARJEN E MJETEVE FINANCIARE REZIDENTËVE TË VENDOSUR NË INSTITUCIONET E MPMS-së (Shfuqizuar me Vendim të QRK, Nr. 02/50 të datës 23.12.2021)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=7294",
+   "versions": [
+    {
+     "from": "2005-05-01",
+     "units": 10,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=7294",
+     "sha256": "f211080f4b8fd8eac27de772017b1e833da0288973a125090d9d287f5f659986"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2006-3296",
+   "path": "udhezim/2006/3296",
+   "short": "MASHT-36/2006",
+   "title": "UDHËZIMI ADMINISTRATIV Nr. 36/2006 MASHT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3296",
+   "versions": [
+    {
+     "from": "2006-09-04",
+     "units": 8,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3296",
+     "sha256": "70cd69a023cda1829c4477679bb559d5f4ab945bb8990d3d94db1fa216f84ff7"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2006-3297",
+   "path": "udhezim/2006/3297",
+   "short": "MASHT- 37/2006",
+   "title": "UDHËZIM ADMINISTRATIV NR. 37/2006 PËR ZBATIMIN E PLANIT DHE PROGRAMIT PËR KLASËN E TREMBËDHJETË TË LËNDËVE TË PËRGJITHSHME PËR SHKOLLAT PROFESIONALE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3297",
+   "versions": [
+    {
+     "from": "2006-08-08",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3297",
+     "sha256": "a07773609fdba93af2bf1c97491ded1e5cd3c4f429a396b9bc80e68d7ab746cb"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2006-7353",
+   "path": "udhezim/2006/7353",
+   "short": "MTI-2006/03",
+   "title": "UDHËZIM ADMINSTRATIV NR. 2006/03 “PËR REZERVAT EMERGJENTE DHE OPERATIVE TË NAFTËS DHE DERIVATEVE TË NAFTËS”",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=7353",
+   "versions": [
+    {
+     "from": "2006-01-17",
+     "units": 16,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=7353",
+     "sha256": "3a3d48aba7b496e1f37cf018bed6742eb3c5f702d64e839fc767185842a485ad"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2006-7366",
+   "path": "udhezim/2006/7366",
+   "short": "MBPZHR-02/2006",
+   "title": "UDHËZIM ADMINISTRATIV MA–NR. 02/2006 LËNDËT E PARA TË USHQIMEVE TË PËRBËRA PËR KAFSHË (Shfuqizuar me Vendim të QRK, Nr. 02/50 të datës 23.12.2021)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=7366",
+   "versions": [
+    {
+     "from": "2006-02-28",
+     "units": 18,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=7366",
+     "sha256": "76c0af7e7a64fcc29508c4effbed9ae4cdd3f123fe8a2bc2401b91b789d0f7c1"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2006-7376",
+   "path": "udhezim/2006/7376",
+   "short": "MASHT- 11/2006",
+   "title": "UDHËZIM ADMINISTRATIV NR. 11/2006 PËR MBAJTJEN E RIZGJEDHJEVE TË PLOTA DHE PËRMBYLLJEN E RIVENDOSJES SË QEVERISJES SË LIGJSHME NË UNIVERSITETIN E PRISHTINËS (Shfuqizuar me Vendim të QRK, Nr. 02/50 të datës 23.12.2021)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=7376",
+   "versions": [
+    {
+     "from": "2006-04-26",
+     "units": 14,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=7376",
+     "sha256": "e027a399f12ed851daede0b8d3fe14c9ce8fd5c90716add8ee3b5962b6811afa"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2006-7382",
+   "path": "udhezim/2006/7382",
+   "short": "MASHT- 16/2006",
+   "title": "UDHËZIM ADMINISTRATIV NR. 16/2006 PËR ZBATIMIN E PLANIT DHE PROGRAMIT PËR KLASËN E PESTË TË MËSIMIT JOFORMAL (Shfuqizuar me Vendim të QRK, Nr. 02/50 të datës 23.12.2021)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=7382",
+   "versions": [
+    {
+     "from": "2006-05-26",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=7382",
+     "sha256": "69b273aba80770f0cc9e4ff75346b9340a20caa020989e89d2eea7ee4b9c63bb"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2006-7383",
+   "path": "udhezim/2006/7383",
+   "short": "MASHT-17/2006",
+   "title": "UDHËZIM ADMINISTRATIV NR. 17/2006 PËR ZBATIMIN E PLANIT DHE PROGRAMIT PËR KLASËN E NËNTË TË MËSIMIT JOFORMAL (Shfuqizuar me Vendim të QRK, Nr. 02/50 të datës 23.12.2021)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=7383",
+   "versions": [
+    {
+     "from": "2006-05-26",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=7383",
+     "sha256": "d0ca24bf7409351ac6bd393ec2ddc9c452f2d0715b500952b31f9dad3542bb20"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2006-7386",
+   "path": "udhezim/2006/7386",
+   "short": "MBPZHR-04/2006",
+   "title": "UDHËZIM ADMINISTRATIV MA-NR. 04/2006 PËR NDRYSHIMIN DHE PLOTËSIMIN E UDHËZIMIT ADMINISTRATIV MA-NR.13/05 PËR LICENCIMIN E RIPAKETUESVE TË PLEHRAVE ARTIFICIALE (Shfuqizuar me Vendim të QRK, Nr. 02/50 të datës 23.12.2021)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=7386",
+   "versions": [
+    {
+     "from": "2006-06-01",
+     "units": 4,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=7386",
+     "sha256": "e99afa578ccce42fc535bec2cd5cb585996329b627d57082bdd07a21c73d3d24"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2006-7387",
+   "path": "udhezim/2006/7387",
+   "short": "MBPZHR-07/2006",
+   "title": "UDHËZIM ADMINISTRATIV MA – NR. 07/2006 PËR THEMELIMIN E KOMISIONIT TË PËRHERSHËM PËR MBARËSHTIMIN E KAFSHËVE (Shfuqizuar me Vendim të QRK, Nr. 02/50 të datës 23.12.2021)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=7387",
+   "versions": [
+    {
+     "from": "2006-06-01",
+     "units": 17,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=7387",
+     "sha256": "a70ec3e3c5389f65bd88aea451fd4446fc685f8da25cc801be7d9bd7b3b24a15"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2006-7394",
+   "path": "udhezim/2006/7394",
+   "short": "MASHT-22/2006",
+   "title": "UDHËZIM ADMINISTRATIV NR. 22/2006 PËR GRUMBULLIMIN E MJETEVE FINANCIARE VETANAKE NË ADMINISTRATËN E MASHTI-IT DHE SHFRYTËZIMIN E TYRE (Shfuqizuar me Vendim të QRK, Nr. 02/50 të datës 23.12.2021)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=7394",
+   "versions": [
+    {
+     "from": "2006-06-06",
+     "units": 4,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=7394",
+     "sha256": "1ae0dffd963674530ea604645badc23a315e533226593300c044e53681e659e2"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2006-7407",
+   "path": "udhezim/2006/7407",
+   "short": "MBPZHR-17/2006",
+   "title": "UDHËZIM ADMINISTRATIV MA-NR. 17/2006 PËR KONTROLLIN E CILËSISË SË USHQIMIT TË KAFSHËVE DHE ADITIVËVE (Shfuqizuar me Vendim të QRK, Nr. 02/50 të datës 23.12.2021)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=7407",
+   "versions": [
+    {
+     "from": "2006-09-13",
+     "units": 14,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=7407",
+     "sha256": "3fcbd4c82f6bf2bf022794eb2248a549fc359065b044bdec1ca793cea56bd422"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2006-7412",
+   "path": "udhezim/2006/7412",
+   "short": "MBPZHR-22/2006",
+   "title": "UDHËZIM ADMINISTRATIV MA-NR. 22/2006 PËR MBAJTËJEN E LIBRIT AMËZ TË KAFSHËVE (Shfuqizuar me Vendim të QRK, Nr. 02/50 të datës 23.12.2021)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=7412",
+   "versions": [
+    {
+     "from": "2006-10-17",
+     "units": 23,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=7412",
+     "sha256": "a42b19bb81f83b166ae423b8a1c61eee7f94eb9d30347efe1e21e9b2ef88c567"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2006-7433",
+   "path": "udhezim/2006/7433",
+   "short": "MTI-2006/28",
+   "title": "UDHËZIM ADMINSTRATIV NR.2006/28 “PËR ORGANIZIMIN DHE FUNKSIONIMIN E AGJENCIE PËR MBËSHTETJEN E NDËRMARRJEVE TE VOGLA DHE TE MESME",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=7433",
+   "versions": [
+    {
+     "from": "2006-12-12",
+     "units": 11,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=7433",
+     "sha256": "f31c40aa85f802bbeca4e4aab923d8b57e775d396ca5c1746655c945df4fcc20"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2006-7435",
+   "path": "udhezim/2006/7435",
+   "short": "MBPZHR-40/2006",
+   "title": "UDHËZIM ADMINISTRATIV MA-NR. 40/2006 PËR ORGANIZIMIN E PUNËS, KOMPETENCAT, MËNYRA E VENDOSJES SË ORGANEVE DHE KOMISIONEVE TË FEDERATËS SË SHOQATAVE TË PËRDORUESVE TË UJIT (Shfuqizuar me Vendim të QRK, Nr. 02/50 të datës 23.12.2021)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=7435",
+   "versions": [
+    {
+     "from": "2006-12-15",
+     "units": 34,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=7435",
+     "sha256": "1f99f24a4f6b63d441162c0b814802b8bd108a8913a3b4d463927a5fc2b76c86"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2007-7465",
+   "path": "udhezim/2007/7465",
+   "short": "MTI-2007/06",
+   "title": "UDHËZIM ADMINSTRATIV NR. 2007/06 “PËR ORGANIZIMIN DHE FUNKSIONIMIN E ZYRËS PËR PRONËSI INDUSTRIALE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=7465",
+   "versions": [
+    {
+     "from": "2007-03-19",
+     "units": 8,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=7465",
+     "sha256": "444ffb8621164d6758d6e6b41a2654380ddc11c993af97d60450b857d117c7e7"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2008-7586",
+   "path": "udhezim/2008/7586",
+   "short": "MI-2008/3",
+   "title": "UDHËZIM ADMINISTRATIV NR. 2008/3 PËR MBIKËQYRJEN, PRANIMIN TEKNIK DHE KOLAUDIMIN E PUNËVE TË KRYERA NË INFRASTRUKTURËN RRUGORE , Shfuqizuar me Vendim të QRK, Nr. 02/50 të datës 23.12.2021",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=7586",
+   "versions": [
+    {
+     "from": "2008-03-31",
+     "units": 29,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=7586",
+     "sha256": "6ce52955be1d143224faf3ca616357be3cabd860320180726084e756bb4099a8"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2008-7626",
+   "path": "udhezim/2008/7626",
+   "short": "MI-2008/08",
+   "title": "UDHËZIM ADMINISTRATIV nr. 2008/08 PËR HOMOLIGIMIN E AUTOMJETEVE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=7626",
+   "versions": [
+    {
+     "from": "2008-03-31",
+     "units": 29,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=7626",
+     "sha256": "aa939888fc9d35f680ec87c3e101cb26bfb9864cfc4f5e3883bc146b0644105b"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2008-7642",
+   "path": "udhezim/2008/7642",
+   "short": "MTI-2008/14",
+   "title": "UDHËZIM ADMINSTRATIV NR. 2008/14 “PËR THEMELIMIN E KËSHILLIT KONSULTATIV”(Shfuqizuar me Vendim të QRK, Nr. 02/50 të datës 23.12.2021)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=7642",
+   "versions": [
+    {
+     "from": "2008-09-11",
+     "units": 8,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=7642",
+     "sha256": "fb0200cc43962ae97901a840645a73269f5998caa3397b82aecb8cc36a2e1f77"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2010-7873",
+   "path": "udhezim/2010/7873",
+   "short": "MTI-12/2010",
+   "title": "UDHËZIM ADMINSTRATIV, NR. 12/2010 PËR VEPRIMTARINË E AGJENCIVE TURISTIKE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=7873",
+   "versions": [
+    {
+     "from": "2010-06-16",
+     "units": 24,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=7873",
+     "sha256": "40b69f9b619cfd1ddd99abb2281b0b06c92e956fa3dacc9ad743fb7290c94e5a"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2011-7968",
+   "path": "udhezim/2011/7968",
+   "short": "MBPZHR-01/2011",
+   "title": "UDHëZIM ADMINISTRATIV Nr. 01/2011 PËR NDRYSHIM PLOTËSIMIN E UDHËZIMIT ADMINISTRATIV NR.10/2010 PËR NDËRRIMIN E DESTINIMIT TË TOKËS BUJQËSORE, DT.19.08.2010",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=7968",
+   "versions": [
+    {
+     "from": "2011-02-01",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=7968",
+     "sha256": "5c33fb04833bc52edf07a902e6d04efa7abb99e0ef57c98841cad87cc56f9b2e"
     }
    ]
   },
