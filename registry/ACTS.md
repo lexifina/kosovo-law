@@ -1,6 +1,6 @@
 # Every act in this repository
 
-383 acts, 383 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+385 acts, 385 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## ligj (11, of which 11 amending acts)
 
@@ -17,6 +17,13 @@
 | LIGJI NR. 06/L-091 PËR NDRYSHIMIN DHE PLOTËSIMIN E KODIT TË PROCEDURËS PENALE NR. 04/L-123 | [`ligj/2019/20500/`](ligj/2019/20500/) | amending act | 1 | 2019-07-19 | 2019-07-19 |
 | LIGJI NR. 08/L-002 PËR PLOTËSIMIN DHE NDRYSHIMIN E KODIT NR. 04/L-123 TË PROCEDURËS PENALE I NDRYSHUAR DHE PLOTËSUAR ME LIGJIN NR. 06/L-091 | [`ligj/2021/43260/`](ligj/2021/43260/) | amending act | 1 | 2021-06-18 | 2021-06-18 |
 | LIGJI NR. 08/L-046 PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJIT NR. 02/L-109 PËR PARANDALIMIN DHE LUFTIMIN E SËMUNDJEVE NGJITËSE | [`ligj/2022/57852/`](ligj/2022/57852/) | amending act | 1 | 2022-05-26 | 2022-05-26 |
+
+## marreveshje (2, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| LIGJI NR. 11/L-015 PËR RATIFIKIMIN E AMENDAMENTIT NR. 1 TË MARRËVESHJES FINANCIARE NË MES TË REPUBLIKËS SË KOSOVËS DHE BASHKIMIT EVROPIAN PËR PROGRAMIN IPA 2022 | [`marreveshje/2026/125627/`](marreveshje/2026/125627/) | amending act | 1 | 2026-10-21 | 2026-10-21 |
+| LIGJI NR. 11/L-016 PËR RATIFIKIMIN E MARRËVESHJES FINANCIARE NË MES TË REPUBLIKËS SË KOSOVËS DHE BASHKIMIT EVROPIAN PËR PROGRAMIN SHUMËVJEÇAR IPA 2026-2027 | [`marreveshje/2026/125628/`](marreveshje/2026/125628/) | in force | 1 | 2026-10-21 | 2026-10-21 |
 
 ## rregullore (156, of which 14 amending acts)
 

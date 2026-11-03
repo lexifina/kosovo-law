@@ -167,6 +167,36 @@
    ]
   },
   {
+   "slug": "marreveshje-2026-125627",
+   "path": "marreveshje/2026/125627",
+   "short": "KUV-11/L-015-MARR-ND",
+   "title": "LIGJI NR. 11/L-015 PËR RATIFIKIMIN E AMENDAMENTIT NR. 1 TË MARRËVESHJES FINANCIARE NË MES TË REPUBLIKËS SË KOSOVËS DHE BASHKIMIT EVROPIAN PËR PROGRAMIN IPA 2022",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=125627",
+   "versions": [
+    {
+     "from": "2026-10-21",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=125627",
+     "sha256": "6eda7995472b1d3658052532bd5d8db84b311fdd727ebc09ad05cf5aa7e196c9"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2026-125628",
+   "path": "marreveshje/2026/125628",
+   "short": "KUV-11/L-016-MARR-ND",
+   "title": "LIGJI NR. 11/L-016 PËR RATIFIKIMIN E MARRËVESHJES FINANCIARE NË MES TË REPUBLIKËS SË KOSOVËS DHE BASHKIMIT EVROPIAN PËR PROGRAMIN SHUMËVJEÇAR IPA 2026-2027",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=125628",
+   "versions": [
+    {
+     "from": "2026-10-21",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=125628",
+     "sha256": "f6efb367a293db81be81582e180bc254b4b12740dd614e92113b7b47b413722f"
+    }
+   ]
+  },
+  {
    "slug": "rregullore-2019-111849",
    "path": "rregullore/2019/111849",
    "short": "K.GJL-016-35873-RR",
