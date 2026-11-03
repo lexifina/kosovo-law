@@ -165,6 +165,366 @@
      "sha256": "89276e706223310024e5f02f5663f3e2fb2b57174cca17af0b1df6787a5f66ce"
     }
    ]
+  },
+  {
+   "slug": "rregullore-2026-122523",
+   "path": "rregullore/2026/122523",
+   "short": "QRK-06/2026-RR",
+   "title": "RREGULLORE (QRK) - Nr. 06/2026 PËR ZHVILLIMIN E PROCEDURAVE TË REKRUTIMIT TË ZJARRFIKËSVE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=122523",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 31,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=122523",
+     "sha256": "c0e248aa5c8a87a99edf1bd509a1ccaba069cea9d5627aa5cbe59dfbe37885a9"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2026-122679",
+   "path": "rregullore/2026/122679",
+   "short": "ZKM-12/2026-RR",
+   "title": "RREGULLORE (ZKM) NR.12/2026 PËR PLOTËSIMIN DHE NDRYSHIMIN E RREGULLORES (ZKM) NR. 06/2026 PËR ORGANIZIMIN E BRENDSHËM DHE SISTEMATIZIMIN E VENDEVE TË PUNËS NË INSPEKTORATIN QENDROR TË MBIKËQYRJES SË TREGUT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=122679",
+   "versions": [
+    {
+     "from": "2026-08-13",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=122679",
+     "sha256": "d80cb84263ce0b8fb483d244d5a8674cbfc6829835fb695a9ad298a9c972f47e"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2026-123387",
+   "path": "rregullore/2026/123387",
+   "short": "ZKM-13/2026-RR",
+   "title": "RREGULLORE (ZKM) NR. 13/2026 PËR ORGANIZIMIN E BRENDSHËM DHE SISTEMATIZIMIN E VENDEVE TË PUNËS TË INSPEKTORATIT TË ARSIMIT NË REPUBLIKËN E KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=123387",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 23,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=123387",
+     "sha256": "72092625e3fed926c6a95950546985df260f4ad879da706b8e01363306e32899"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2026-124039",
+   "path": "rregullore/2026/124039",
+   "short": "MF-03/2026-RR",
+   "title": "RREGULLORE (MF) NR. 03/2026 PËR MARRËDHËNIEN E PUNËS SË TË PUNËSUARVE NË DOGANËN E KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=124039",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 136,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=124039",
+     "sha256": "4465b07c8d3bb870fffa37682fc387919edb2791794ccd126c960fd53c99956a"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2026-124145",
+   "path": "rregullore/2026/124145",
+   "short": "PRS-01/2026-RR",
+   "title": "RREGULLORE (P) NR. 01/2026 PËR REALIZIMIN E TRANZICIONIT ADMINISTRATIV TË MANDATIT TË PRESIDENTIT TË REPUBLIKËS SË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=124145",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 29,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=124145",
+     "sha256": "7146ee4bef89cedef7a42cb674f04cec0904fbfff87b605773b4d0fd100089ed"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2026-124183",
+   "path": "rregullore/2026/124183",
+   "short": "MKT-04/2026-RR",
+   "title": "RREGULLORE (MKT) NR. 04/2026 PËR ANGAZHIMIN E BASHKËPUNËTORËVE PROFESIONAL NË MUZEUN E ARTIT BASHKËKOHOR",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=124183",
+   "versions": [
+    {
+     "from": "2026-09-14",
+     "units": 10,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=124183",
+     "sha256": "cf113526c5336182a60e38186bbbf7a02377baf55402dca008b868e2829b2fd5"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2026-124782",
+   "path": "rregullore/2026/124782",
+   "short": "MKT-05/2026-RR",
+   "title": "RREGULLORE (MKT) NR. 05/2026 PËR FUNKSIONIMIN E KËSHILLIT TË SKENËS SË PAVARUR",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=124782",
+   "versions": [
+    {
+     "from": "2026-10-02",
+     "units": 17,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=124782",
+     "sha256": "688ccf9db20230ac9a248bde8b7412690cbce43953274c379f1f2ec5324ebaa4"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2026-125018",
+   "path": "rregullore/2026/125018",
+   "short": "QRK-07/2026-RR",
+   "title": "RREGULLORE (QRK) Nr. 07/2026 PËR RIINTEGRIMIN E PERSONAVE TË RIATDHESUAR",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=125018",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 52,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=125018",
+     "sha256": "f1a8a5c3ff7b3397bcd1f3f927d21e9a70fdd73655b07e79ed05b5c7e4f3d00d"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2026-125368",
+   "path": "rregullore/2026/125368",
+   "short": "QRK-08/2026-RR",
+   "title": "RREGULLORE (QRK) NR. 08/2026 PËR FUSHAT E PËRGJEGJËSISË ADMINISTRATIVE TË MINISTRIVE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=125368",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 36,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=125368",
+     "sha256": "4e5b533bb04db46a2c3a3211f1fde3c31eef639dc28774d2aee7a98bd1ad7a9b"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2026-125426",
+   "path": "rregullore/2026/125426",
+   "short": "MMPH-RR-01/26-RR",
+   "title": "RREGULLORE (MMPH) Nr. 01/2026 PËR KËRKESAT MINIMALE PËR PERFORMANCËN ENERGJETIKE TË NDËRTESAVE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=125426",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 17,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=125426",
+     "sha256": "fb3c26a7329fd31d86b0f099c5461eca02630adcdd06f284e59a05bc9ccfb848"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2026-125731",
+   "path": "rregullore/2026/125731",
+   "short": "MMPH-02/26-RR",
+   "title": "RREGULLORE (MMPH) Nr. 02/2026 PËR METODOLOGJINË KOMBËTARE PËR KALKULIMIN E PERFORMANCËS ENERGJETIKE TË NDËRTESAVE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=125731",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 14,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=125731",
+     "sha256": "f407a8ea38a7f9eb64b0088b9ba07662294174ceafa5c3a8940fae15068c3866"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2026-121682",
+   "path": "udhezim/2026/121682",
+   "short": "MPFVLÇ-01/2026-UA",
+   "title": "UDHËZIM ADMINISTRATIV (MPFVLÇ) NR. 01/2026 PËR PROCEDURËN E DHËNIES, PËRSËRITJES, PEZULLIMIT DHE MARRJES SË LICENCËS PËR OFRUESIT E SHËRBIMEVE SOCIALE DHE FAMILJARE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=121682",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 21,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=121682",
+     "sha256": "c3e2e955d4d151a165a10cf0237a7306717ad4d330092ccee89bc3f2d4d0e28c"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2026-121684",
+   "path": "udhezim/2026/121684",
+   "short": "MPFVLÇ-02/2026-UA",
+   "title": "UDHËZIM ADMINISTRATIV MPFVLÇ-NR. 02/2026 PËR PËRCAKTIMIN E KUSHTEVE MINIMALE PËR THEMELIMIN E INSTITUCIONEVE TË SHËRBIMEVE SOCIALE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=121684",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 22,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=121684",
+     "sha256": "9def8192bf78b8a7c86062f2a4c75fe6d3f2da766162f4fb70aace7d4a2c3078"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2026-122017",
+   "path": "udhezim/2026/122017",
+   "short": "MINTI-03/2026-UA",
+   "title": "UDHËZIM ADMINISTRATIV (MINTI) Nr. 03/2026 PËR NDRYSHIMIN DHE PLOTËSIMIN E UDHËZIMIT ADMINISTRATIV (MTI) Nr. 04/2019 PËR CAKTIMIN E FORMËS, PËRMBAJTJES DHE PËRDORIMIT TË LOGOS TË DREJTORISË SË PËRGJITHSHME TË AKREDITIMIT TË KOSOVËS DHE SIMBOLIT TË AKREDITIMIT DHE REFERIMI I TEKSIT NË AKREDITIM",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=122017",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 7,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=122017",
+     "sha256": "a62e5a4c810e569480eba2e95e212eec72e9c446ff5b87f7b09f1d2b13f817e5"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2026-122402",
+   "path": "udhezim/2026/122402",
+   "short": "MAPL-02-2026-UA",
+   "title": "RREGULLORE (MAPL) NR. 02/2026 PËR MBROJTJEN E TË DHËNAVE PERSONALE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=122402",
+   "versions": [
+    {
+     "from": "2026-08-06",
+     "units": 30,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=122402",
+     "sha256": "192e05bd95a56043dff2a8f737fde2b7000ed5a5d55efc65c512eae874bda1d7"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2026-123511",
+   "path": "udhezim/2026/123511",
+   "short": "MASH-01/2026-UA",
+   "title": "UDHËZIM ADMINISTRATIV (MASH) NR. 01/2026 PËR KALENDARIN E VITIT SHKOLLOR 2026-2027",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=123511",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 11,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=123511",
+     "sha256": "e67780f7c158ec142c43b8c287fe281b1b831031ba195ca3953193f3f8247e47"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2026-123744",
+   "path": "udhezim/2026/123744",
+   "short": "MPB-05/2026-UA",
+   "title": "UDHËZIM ADMINISTRATIV (MPB) NR. 05/2026 PËR PROCEDURAT DHE STANDARDET E SHQYRTIMIT DHE TË MARRJES SË VENDIMIT LIDHUR ME APLIKACIONIN PËR MBROJTJE NDËRKOMBËTARE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=123744",
+   "versions": [
+    {
+     "from": "2026-09-02",
+     "units": 21,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=123744",
+     "sha256": "0d24ad406d538cfdf219933b7b618dd023e18b81e7edd1feaa162da416ff91b5"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2026-124093",
+   "path": "udhezim/2026/124093",
+   "short": "MPB-06-2026-UA",
+   "title": "UDHËZIM ADMINISTRATIV (MPB) NR. 06/2026 PËR KOMPETENCAT, MANDATIN DHE PËRBËRJEN E KOMISIONIT PËR SHQYRTIMIN E ANKESAVE KUNDËR AKTEVE TË LËSHUARA NGA ZYRAT E GJENDJES CIVILE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=124093",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 20,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=124093",
+     "sha256": "9057d8314a9a7126e9bb3764ccc71b0cfbece30ae3ff4a72df87f7e167b1f1f4"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2026-124357",
+   "path": "udhezim/2026/124357",
+   "short": "MPB-07/2026-UA",
+   "title": "UDHËZIM ADMINISTRATIV MPB Nr. 07/2026 PËR PËRCAKTIMIN E PAJISJEVE MBROJTËSE, PAJISJEVE TEKNIKE DHE MJETEVE PËR ZJARRFIKJE DHE SHPËTIM",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=124357",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 20,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=124357",
+     "sha256": "fa9327b79d312e8b3fbe9304e049766a476c766be6eb26b31293197dc4500d75"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2026-124952",
+   "path": "udhezim/2026/124952",
+   "short": "MMPH-01/26-UA",
+   "title": "UDHËZIM ADMINISTRATIV MMPH Nr. 01/2026 PËR NDRYSHIMIN DHE PLOTËSIMIN E UDHËZIMIT ADMINISTRATIV MMPHI NR.02/2024 PËR PËRCAKTIMIN E KUSHTEVE, KRITEREVE DHE PROCEDURAVE PËR LËSHIMIN E LEJES PËR IMPORT, EKSPORT DHE KALIM TRANZIT TË MBETURINAVE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=124952",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 16,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=124952",
+     "sha256": "614b2262b66952468ed2db8cef2644d4782b166fc21522e121de34709b6a91f0"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2026-125254",
+   "path": "udhezim/2026/125254",
+   "short": "MPB-09/2026-UA",
+   "title": "UDHËZIM ADMINISTRATIV (MPB) Nr. 09/2026 PËR KOMISIONIN DHE MANDATIN E ANËTARËVE PËR SHËRBIMET PRIVATE TË SIGURISË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=125254",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 19,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=125254",
+     "sha256": "a394f270d53edeb6ac0d7bfa91d21968ce8d5bcba4f946fa567f250bb2d3b247"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2026-125258",
+   "path": "udhezim/2026/125258",
+   "short": "MPB-08/2026-UA",
+   "title": "UDHËZIM ADMINISTRATIV (MPB) NR. 08/2026 PËR PROCEDURAT DHE KUSHTET E GRADIMIT TË PUNONJËSVE TË AGJENCISË SË KOSOVËS PËR FORENZIKË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=125258",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 17,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=125258",
+     "sha256": "6a0ec28f332beef43bf1076ffeadd00d4c181e12a7a948078ff356e79ab7f00b"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2026-125262",
+   "path": "udhezim/2026/125262",
+   "short": "QRK-01/2026-UA",
+   "title": "UDHËZIMI ADMINISTRATIV (QRK) Nr. 01/2026 PËR PËRCAKTIMIN E PROCEDURËS SË THEMELIMIT TË PARKUT INDUSTRIAL DHE TEKNOLOGJIK",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=125262",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 11,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=125262",
+     "sha256": "67281b3af747d9673398d803878e978d31124a96da9b4a24beafb78525847c8e"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2026-125413",
+   "path": "udhezim/2026/125413",
+   "short": "MMPH-02/26-UA",
+   "title": "UDHËZIM ADMINISTRATIV (MMPH) NR. 02/2026 PËR DHËNIEN E PËLQIMIT NGA INSTITUTI HIDROMETEOROLOGJIK I KOSOVËS PËR KRYERJEN E PUNËVE NDËRTIMORE NË OBJEKTET HIDROMETEOROLOGJIKE DHE NË ZONAT E MBROJTURA TË STACIONEVE TË RRJETIT SHTETËROR",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=125413",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 17,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=125413",
+     "sha256": "13faf3ef405fb722d60462d95968bd1a84e5d7952bd7648ec51010407db4c94b"
+    }
+   ]
   }
  ]
 }

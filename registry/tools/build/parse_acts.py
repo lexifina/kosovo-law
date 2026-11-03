@@ -105,19 +105,34 @@ def ref_keys(title: str) -> set[tuple[str, str]]:
     out = set()
     t = fold(title)
     for m in KIND_WORD.finditer(t):
-        n = NUM.search(t, m.end(), m.end() + 80)
-        if n:
-            out.add((m.group(1)[:6], re.sub(r"\s+", "", n.group(1))))
+        k = _key(t, m)
+        if k:
+            out.add(k)
     return out
 
 
-def own_key(title: str) -> tuple[str, str] | None:
+def _key(t: str, m: re.Match) -> tuple[str, str, str] | None:
+    """(kind stem, number, institution acronym or '') for the kind word at m: '... (MF) NR. 01/2026'."""
+    n = NUM.search(t, m.end(), m.end() + 80)
+    if not n:
+        return None
+    acr = re.search(r"\(\s*([A-Z]{1,8})\s*\)", t[m.end():n.start()])
+    return (m.group(1)[:6], re.sub(r"\s+", "", n.group(1)), acr.group(1) if acr else "")
+
+
+def own_key(title: str) -> tuple[str, str, str] | None:
     t = fold(title)
     m = KIND_WORD.search(t)
-    if not m:
-        return None
-    n = NUM.search(t, m.end(), m.end() + 80)
-    return (m.group(1)[:6], re.sub(r"\s+", "", n.group(1))) if n else None
+    return _key(t, m) if m else None
+
+
+def named_by(named: dict, k: tuple[str, str, str]) -> set[int]:
+    """Acts whose titles name this one: same kind and number, and the same institution where both give one."""
+    out: set[int] = set()
+    for (kind, num, acr), ids in named.get((k[0], k[1]), {}).items():
+        if not acr or not k[2] or acr == k[2]:
+            out |= ids
+    return out
 
 
 def units_of(st: dict) -> dict:
@@ -149,7 +164,7 @@ def main():
     exclude = set(Path(a.exclude).read_text().split()) if a.exclude and Path(a.exclude).exists() else set()
     rejects = json.loads(Path(a.rejects).read_text(encoding="utf-8")) if a.rejects and Path(a.rejects).exists() else {}
 
-    named: dict[tuple[str, str], set[int]] = defaultdict(set)
+    named: dict[tuple[str, str], dict] = defaultdict(lambda: defaultdict(set))
     for f in sorted((src / "list").glob("*.jsonl")):
         for line in f.read_text(encoding="utf-8").splitlines():
             try:
@@ -160,7 +175,7 @@ def main():
                 own = own_key(r["title"])
                 for k in ref_keys(r["title"]):
                     if k != own:
-                        named[k].add(int(r["id"]))
+                        named[(k[0], k[1])][k].add(int(r["id"]))
 
     parts: dict[str, dict] = defaultdict(lambda: {"laws": {}, "acts": []})
     holds = []
@@ -182,8 +197,9 @@ def main():
                 raise Hold("kind_not_built:" + d["category"])
             kind, law_kind = KINDS[d["category"]]
             k = own_key(d["title"])
-            if k and named.get(k, set()) - {i}:
-                raise Hold("named_as_amended:" + ",".join(map(str, sorted(named[k] - {i})[:5])))
+            others = (named_by(named, k) - {i}) if k else set()
+            if others:
+                raise Hold("named_as_amended:" + ",".join(map(str, sorted(others)[:5])))
             if not d["published"]:
                 raise Hold("no_publication_day")
             raw = gzip.decompress((base / "pdf.json.gz").read_bytes())
@@ -209,10 +225,19 @@ def main():
             if basis.startswith("published (no") or basis.startswith("published (the act"):
                 if inf["words"] and SIGNED_ON.search(inf["words"]):
                     m = TITLE_DATE.search(d["title"])
-                    if not m:
-                        raise Hold("in_force_on_signature_day_unknown:" + inf["words"][:100])
-                    day = f"{int(m.group(3)):04d}-{int(m.group(2)):02d}-{int(m.group(1)):02d}"
                     basis = "on signature (the date in the act's title)"
+                    if not m:
+                        # the date printed with the signature, after the in-force sentence ("Prishtinë, 30.12.2025")
+                        tail = " ".join(paras[-4:])
+                        tail = tail[tail.find(inf["words"][-40:]) + 40:] if inf["words"][-40:] in tail else tail
+                        dates = re.findall(r"\b(\d{1,2})\s*\.\s*(\d{1,2})\s*\.\s*(\d{4})\b", tail)
+                        if len(set(dates)) != 1:
+                            raise Hold("in_force_on_signature_day_unknown:" + inf["words"][:100])
+                        m = re.match(r"(\d+)\.(\d+)\.(\d+)", ".".join(dates[0]))
+                        basis = "on signature (the date printed with the signature)"
+                    day = f"{int(m.group(3)):04d}-{int(m.group(2)):02d}-{int(m.group(1)):02d}"
+                    if not (d["published"][:4] >= day[:4] >= str(int(d["published"][:4]) - 1)):
+                        raise Hold(f"signature_day_implausible:{day}")
                 elif law_kind == "law" and basis.startswith("published (the act"):
                     pass  # takes effect on promulgation: the Gazette day, as in the rest of this repository
                 else:
