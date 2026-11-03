@@ -1,0 +1,18 @@
+{
+"layout": "<kind>/<year>/dv<issue>-<id>",
+"since": "2026-11-03",
+"note": "Act folders before the layout move were named by slug; tools/on.py reads both.",
+"paths": {
+"ligj-2008-2597": "ligj/2008/2597",
+"ligj-2008-2601": "ligj/2008/2601",
+"ligj-2009-2622": "ligj/2009/2622",
+"ligj-2010-2733": "ligj/2010/2733",
+"ligj-2011-2786": "ligj/2011/2786",
+"ligj-2012-2802": "ligj/2012/2802",
+"ligj-2012-2824": "ligj/2012/2824",
+"ligj-2019-20499": "ligj/2019/20499",
+"ligj-2019-20500": "ligj/2019/20500",
+"ligj-2021-43260": "ligj/2021/43260",
+"ligj-2022-57852": "ligj/2022/57852"
+}
+}

@@ -1,0 +1,170 @@
+{
+ "country": "XK",
+ "acts": [
+  {
+   "slug": "ligj-2008-2597",
+   "path": "ligj/2008/2597",
+   "short": "03/L-106",
+   "title": "LIGJI NR.03/L-106 PËR NDRYSHIMIN E LIGJIT PËR PLANIFIKIMIN HAPËSINOR Nr.2003-14",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2597",
+   "versions": [
+    {
+     "from": "2008-11-25",
+     "units": 24,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2597",
+     "sha256": "f1c06a122b2929c09c6f7b92516cfb338e11b418ef4c93905bc9ee0b1e051d0b"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2008-2601",
+   "path": "ligj/2008/2601",
+   "short": "03/L-002",
+   "title": "LIGJI NR.03/L-002 PËR PLOTËSIMIN DHE NDRYSHIMIN E KODIT TË PËRKOHSHËM PENAL TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2601",
+   "versions": [
+    {
+     "from": "2009-01-06",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2601",
+     "sha256": "62a88fb736b4b77f3cd2c52dd6b4b1d8187f3b7cb28ac4feb6a3c6b1c4b80c7a"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2009-2622",
+   "path": "ligj/2009/2622",
+   "short": "03/L-071",
+   "title": "LIGJI NR.03/L-071 PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJIT NR.2004/48 PËR ADMINISTRATËN TATIMORE DHE PROCEDURAT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2622",
+   "versions": [
+    {
+     "from": "2009-02-09",
+     "units": 44,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2622",
+     "sha256": "3e3e2fb21c9cb929cb4c191c07c90ea0a431dadb574af8ae3165ab4db45a1628"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2010-2733",
+   "path": "ligj/2010/2733",
+   "short": "03/L-243",
+   "title": "LIGJI NR. 03/L-243 PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJIT NR. 2004/33 PËR BLEGTORINË E KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2733",
+   "versions": [
+    {
+     "from": "2010-12-15",
+     "units": 11,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2733",
+     "sha256": "edaf1e1610c87ead6ef6f08c8e740b75ed651c21c585db75c28a88dbf32171ed"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2011-2786",
+   "path": "ligj/2011/2786",
+   "short": "04/L-059",
+   "title": "LIGJI NR. 04/L-059 PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJIT NR. 03/L-034 PËR SHTETËSINË E KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2786",
+   "versions": [
+    {
+     "from": "2011-12-10",
+     "units": 11,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2786",
+     "sha256": "9a3df6067da92c9f269595a8586a8c90af92746022e58a70455a9f6571ae1893"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2012-2802",
+   "path": "ligj/2012/2802",
+   "short": "04/L-075",
+   "title": "LIGJI NR. 04/L-075 PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJIT NR. 2003/24 PËR SPORT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2802",
+   "versions": [
+    {
+     "from": "2012-02-04",
+     "units": 37,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2802",
+     "sha256": "c6a4b56923c18ae89c2e45c8eaf54c032b2aec447bf432785fadfd7f5db24536"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2012-2824",
+   "path": "ligj/2012/2824",
+   "short": "04/L-100",
+   "title": "LIGJI NR. 04/L-100 PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJIT PËR TATIMIN NË PRONËN E PALUAJTSHME NR. 03/L-204",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2824",
+   "versions": [
+    {
+     "from": "2012-06-16",
+     "units": 7,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2824",
+     "sha256": "7b55c6bd61b83f43c318865ae9e199156a6eca0087a6bc2ed565ea58441fd97e"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2019-20499",
+   "path": "ligj/2019/20499",
+   "short": "06/L-119",
+   "title": "LIGJI NR. 06/L-119 PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJIT NR. 2004/22 PЁR KINEMATOGRAFINË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=20499",
+   "versions": [
+    {
+     "from": "2019-07-19",
+     "units": 8,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=20499",
+     "sha256": "3c1dd33783b9080b0971612524d410ae36b3478ceeadb9c08d687f9b8089309e"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2019-20500",
+   "path": "ligj/2019/20500",
+   "short": "06/L-091",
+   "title": "LIGJI NR. 06/L-091 PËR NDRYSHIMIN DHE PLOTËSIMIN E KODIT TË PROCEDURËS PENALE NR. 04/L-123",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=20500",
+   "versions": [
+    {
+     "from": "2019-07-19",
+     "units": 4,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=20500",
+     "sha256": "2f1b1d015d89130c40a418393f1fba4b719542ca102a1d1d7cac894cd46f1d11"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2021-43260",
+   "path": "ligj/2021/43260",
+   "short": "08/L-002",
+   "title": "LIGJI NR. 08/L-002 PËR PLOTËSIMIN DHE NDRYSHIMIN E KODIT NR. 04/L-123 TË PROCEDURËS PENALE I NDRYSHUAR DHE PLOTËSUAR ME LIGJIN NR. 06/L-091",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=43260",
+   "versions": [
+    {
+     "from": "2021-06-18",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=43260",
+     "sha256": "db71b0c7efdeeb86ddbedb60b7b3257879e373fbe46cefc51e7ecefbf210fb3e"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2022-57852",
+   "path": "ligj/2022/57852",
+   "short": "08/L-046",
+   "title": "LIGJI NR. 08/L-046 PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJIT NR. 02/L-109 PËR PARANDALIMIN DHE LUFTIMIN E SËMUNDJEVE NGJITËSE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=57852",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 12,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=57852",
+     "sha256": "89276e706223310024e5f02f5663f3e2fb2b57174cca17af0b1df6787a5f66ce"
+    }
+   ]
+  }
+ ]
+}
