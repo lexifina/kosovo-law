@@ -1,6 +1,6 @@
 # Every act in this repository
 
-382 acts, 382 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+383 acts, 383 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## ligj (11, of which 11 amending acts)
 
@@ -179,10 +179,11 @@
 | RREGULLORE (MMPH) Nr. 01/2026 PËR KËRKESAT MINIMALE PËR PERFORMANCËN ENERGJETIKE TË NDËRTESAVE | [`rregullore/2026/125426/`](rregullore/2026/125426/) | in force | 1 | 2026-10-22 | 2026-10-22 |
 | RREGULLORE (MMPH) Nr. 02/2026 PËR METODOLOGJINË KOMBËTARE PËR KALKULIMIN E PERFORMANCËS ENERGJETIKE TË NDËRTESAVE | [`rregullore/2026/125731/`](rregullore/2026/125731/) | in force | 1 | 2026-11-02 | 2026-11-02 |
 
-## udhezim (210, of which 42 amending acts)
+## udhezim (211, of which 42 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
+| UDHËZIM ADMINISTRATIV Nr. 1/2012 PËR PROCEDURAT E KONSULTIMIT PUBLIK TË PALËVE TË INTERESUARA | [`udhezim/2020/35703/`](udhezim/2020/35703/) | in force | 1 | 2012-02-01 | 2012-02-01 |
 | UDHËZIMI ADMINISTRATIV: NR. 2/2021 PËR PLOTËSIMIN DHE NDRYSHIMIN E UDHËZIMIT ADMINISTRATIV NR. 10/2019 DT.20.06.2019, PLOTËSIMIN DHE NDRYSHIMIN E UDHËZIMIT ADMINISTRATIV NR. 11/2015 DHE SHFUQIZIMIN E UDHËZIMIT ADMINISTRATIV UA NR. 157/2020, dt. 22.12.2020 KRAHASUESHMËRIA DHE BARASVLERA E DIPLOMAVE DHE E PROGRAMEVE STUDIMORE PARA SISTEMIT TË BOLONJËS DHE TË SISTEMIT TË BOLONJËS | [`udhezim/2021/87954/`](udhezim/2021/87954/) | amending act | 1 | 2021-02-17 | 2021-02-17 |
 | UDHËZIMI ADMINISTRATIV (MASHTI) NR.06/2021 PËR NDRYSHIMIN DHE PLOTËSIMIN E UDHËZIMIT ADMINISTRATIV (MASHT) NR. 05/2015 NORMATIVI PËR MËSIMDHËNËSIT E ARSIMIT PROFESIONAL | [`udhezim/2021/87959/`](udhezim/2021/87959/) | amending act | 1 | 2021-08-09 | 2021-08-09 |
 | UDHËZIM ADMINISTRATIV (MBPZHR) - NR. 02/2023 PËR KUSHTET DHE KËRKESAT TEKNIKE QË DUHET PLOTËSUAR NGA STREHIMORET E KAFSHËVE SHOQËRUESE | [`udhezim/2023/75171/`](udhezim/2023/75171/) | in force | 1 | 2023-06-02 | 2023-06-02 |

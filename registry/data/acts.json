@@ -206,6 +206,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=111851"
 },
 {
+"slug": "udhezim-2020-35703",
+"path": "udhezim/2020/35703",
+"kind": "udhezim",
+"year": "2020",
+"number": "35703",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV Nr. 1/2012 PËR PROCEDURAT E KONSULTIMIT PUBLIK TË PALËVE TË INTERESUARA",
+"short": "AAC-01-2012-UA",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2012-02-01",
+"latest": "2012-02-01",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=35703"
+},
+{
 "slug": "ligj-2021-43260",
 "path": "ligj/2021/43260",
 "kind": "ligj",
