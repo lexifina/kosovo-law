@@ -1,3 +1,0 @@
-# Neni 118
-Ndalohet çdo gropim dhe çdo dëmtim në sipërfaqeve publike, me përjashtim të rasteve 118.1 të parapara me këtë Rregullore. Qytetarët dhe personat fizikë – juridikë, nuk mund të bëjnë gropim e 118.2 sipërfaqeve publike.
-118.3 Sipërfaqet mund të gropohen në bazë të lejes së organit kompetent administrativ, me rastin e vendosjes së rrjetit të ri të ujësjellësit, të kanalizimit, të rrjetit telefonik, të objekteve të sinjalizimit në trafik, pastaj lidhur me ndërlidhjen e ndërtesave dhe objekteve të tjera për këto rrjete, si dhe për mirëmbajtjen e instalimeve të këtyre objekteve (në tekstin e mëtejmë pajisjet komunale).

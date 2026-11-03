@@ -1,2 +1,0 @@
-# Neni 75
-Pronarëve të lokaleve afariste të cilët ushtrojnë veprimtarinë zejtare–tregtare u lejohet shfrytëzimi i përkohshëm i rrugëve – trotuareve, në hapësirat e caktuara, për vendosjen e tavolinave dhe karrigeve, duke pasur parasysh ruajtjen e karakterit historik të zonës, ofrimin e qasjes së lirë për këmbësorë dhe sigurinë e lëvizjes së automjeteve të nevojshme për banorët të cilët jetojnë në atë zonë, furnizimi i lokaleve dhe qarkullimi automjeteve për emergjenca.

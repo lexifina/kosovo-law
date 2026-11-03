@@ -1,4 +1,0 @@
-# Neni 129
-Gjatë ndërtimit të rrugëve të reja ose rikonstruktimit të rrugëve ekzistuese, 129.1 ndërmarrjet për mirëmbajtjen dhe qeverisjen e pajisjeve komunale, si dhe qytetarët dhe ndermarjet, të cilat në ato rrugë posedojnë objekte, duhet të jenë të njoftuara së paku 2 muaj para fillimit të ndërtimit ose rikonstruktimit, në mënyrë që të përgatitet për vendosjen e pajisjeve komunale ose për lidhjen e objekteve të veta me këto pajisje.
-129.2 Qytetarët dhe subjektet tjera me të cilat kanë të bëjnë dispozitat e paragrafit paraprak, janë të obliguar që mbi nevojat e kryerjes së punëve në pajisjet komunale dhe në lidhjet, të njëjtit ta njoftojnë investitorin i cili punon ose rikonstrukton rrugën, në mënyrë që vendosja e lidhjeve të bëhet para ndërtimit ose rikonstruktimit të rrugës.
-129.3 Rrugët e projektuara dhe të rikonstruktuara, nuk mund të gropohen para 3 vjetëve nga mbarimi i ndërtimit ose rikonstruktimit, përveç në raste të parapara me ketë Rregullore.

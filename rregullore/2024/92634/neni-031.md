@@ -1,3 +1,0 @@
-# Neni 31
-Në rast të thatësisë dhe pengesave tjera të furnizimit me ujin e pijes, ndërmarrja së cilës 31.1 i besohen punët e ujësjellësit dhe të kanalizimit, është e obliguar që të ndërmarrë masa teknike të kufizimit të shpenzimit të ujit, sipas Planit për menaxhimin e thatësirave.
-31.2 Në këto raste, ndërmarrja nga paragrafi paraprak, iu propozojë organeve përkatëse të Administratës komunale të Prizrenit që, me urdhëresë të veçantë, të caktojë mënyrën e shpenzimit të ujit, kufizimin ose ndalimin e shpenzimit të ujit për disa konsumatorë të caktuar. Urdhëresën e zbaton ndërmarrja dhe Inspektorati komunal.

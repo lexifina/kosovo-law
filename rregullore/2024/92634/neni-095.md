@@ -1,3 +1,0 @@
-# Neni 95
-Ndalohet hedhja e mbeturinave në hapësirat e përbashkëta: korridore, shkallë, 95.1 ashensorë etj. Ndalohet lëshimi i ujit dhe të ngjashme për larjen e ballkoneve, me qellim të 95.2 mospengimit të fqinjit apo të tjerëve. Ndalohet lirimi i tymit, blozës, avullit, kundërmimit të rëndë, gazrave toksike etj, nga 95.3 ndërtesat, lokalet e punës, tymtarët, gjeneratorët etj. në afërsi të ndërtesave shumëkatëshe të banimit dhe atyre afariste, veçanërisht në afërsi të ballkoneve, fasadave, dritareve, tarracave dhe hyrjeve në korridore e në shkallë.
-95.4 Ndalohet varja e vazove të luleve në pjesën e jashtme të balkoneve, terasave, dritareve në objektet me etazhitet të lartë.

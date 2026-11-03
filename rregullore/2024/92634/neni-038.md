@@ -1,2 +1,0 @@
-# Neni 38
-Gjelbërimi i sipërfaqeve në vendet e sapondërtuara, parashihet me projektet e 38.1 ndërtimeve të reja dhe bëhet me anë të kontrollit profesional të Drejtorisë së Shërbimeve Publike. Zgjerimi dhe ngritja e sipërfaqeve të reja, bëhet me anë të projektit për ndërtimin 38.2 dhe rregullimin e sipërfaqeve të reja, në harmoni me planin zhvillimor urban të Komunës dhe planet për zonat e veçanta .
