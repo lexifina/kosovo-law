@@ -55,6 +55,7 @@ NUM = re.compile(r"\bNR\s*\.?\s*([0-9]{1,4}\s*/\s*[0-9]{2,4}|[0-9]{2}\s*/\s*L\s*
 KIND_WORD = re.compile(r"\b(UDH[ËE]ZIM\w*|RREGULLOR\w*|VENDIM\w*|LIGJ\w*|URDH[ËE]RES\w*|STATUT\w*|AKTVENDIM\w*|"
                        r"DEKRET\w*)\b", re.I)
 SIGNED_ON = re.compile(r"n[eë]nshkrim|miratim", re.I)
+AFTER_SIGNATURE = re.compile(r"\bpas\s+(?:n[eë]nshkrimit|miratimit)|after\s+(?:its\s+)?(?:signature|signing|adoption)", re.I)
 # "hyn në fuqi në datën e publikimit / nga data e publikimit / në ditën e shpalljes në Gazetën Zyrtare"
 ON_PUBLICATION = re.compile(r"hy\w*\s+n[eë]\s+fuqi\s+(?:n[eë]\s+|nga\s+)?(?:dat[eë]n?|dit[eë]n)\s+(?:e\s+)?"
                             r"(?:publikimit|shpalljes)\s+(?:s[eë]\s+saj\s+|t[eë]\s+tij\s+)?n[eë]\s+Gazet", re.I)
@@ -176,6 +177,10 @@ def read_text(path: Path, amending: bool, cache: dict | None) -> tuple[dict, str
         if not units:
             raise Hold("no_text")
         rule = ks_inforce.rule_of(paras)
+        joined = "\n".join(paras)
+        if re.search(r"shall\s+(?:enter|come)\s+into\s+force|stupa\s+na\s+snagu|^(?:Article|Član|Člen)\s+\d+\b",
+                     joined, re.M | re.I):
+            raise Hold("multilingual_pdf")   # Albanian, English and Serbian texts in one file: not split here
     except Hold as h:
         if cache is not None:
             cache[key] = {"hold": str(h)}
@@ -284,6 +289,11 @@ def main():
             else:
                 inf = {"date": d["published"], "basis": "published (no in-force rule found)", "words": ""}
             day, basis = inf["date"], inf["basis"]
+            if inf["words"] and AFTER_SIGNATURE.search(inf["words"]):
+                # "N days after signature": ks_inforce counts from publication, which is wrong here
+                raise Hold("in_force_counted_from_signature:" + inf["words"][:100])
+            if "after publication" in basis and not re.search(r"publikim|botim|shpallj|publication", inf["words"], re.I):
+                raise Hold("in_force_period_from_other_event:" + inf["words"][:100])
             if (basis.startswith("published (no") or basis.startswith("published (the act")) and law_kind != "law" \
                     and inf["words"] and ON_PUBLICATION.search(inf["words"]):
                 day, basis = d["published"], "on publication"
