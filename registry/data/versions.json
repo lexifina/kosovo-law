@@ -16202,6 +16202,51 @@
    ]
   },
   {
+   "slug": "dekret-2010-3346",
+   "path": "dekret/2010/3346",
+   "short": "DMN-021-2010",
+   "title": "DEKRET PËR RATIFIKIM TË MARRËVESHJE NDËRMJET QEVERISË SË REPUBLIKËS SË KOSOVËS DHE QEVERISË SË REPUBLIKËS FEDERALE TË GJERMANISË MBI RIPRANIMIN DHE KALIMIN TRANSIT TË PERSONAVE (MARRËVESHJA E RIPRANIMIT)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3346",
+   "versions": [
+    {
+     "from": "2010-07-06",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3346",
+     "sha256": "a391bb17325596cdc8984a6a3a13b87fddb32ec7f5bafa2572c8a0dfb2373924"
+    }
+   ]
+  },
+  {
+   "slug": "dekret-2013-8702",
+   "path": "dekret/2013/8702",
+   "short": "DMN-004-2013",
+   "title": "MARRËVESHJE PËR ALOKIM TË MJETEVE FINANCIARE, NDËRMJET QEVERISË SË REPUBLIKËS SË KOSOVËS DHE QEVERISË SË REPUBLIKËS SË GJERMANISË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=8702",
+   "versions": [
+    {
+     "from": "2013-03-18",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=8702",
+     "sha256": "1c66298e9ce1fe7080d7c770ea23838ff31c25750edfd9248ca2c2a24c2e9305"
+    }
+   ]
+  },
+  {
+   "slug": "dekret-2013-8710",
+   "path": "dekret/2013/8710",
+   "short": "DMN-012-2013",
+   "title": "MARRËVESHJE KORNIZË PËR STATUSIN DHE BASHKËPUNIMIN QË KA TË BËJË ME OPERACIONET E BANKËS ISLAMIKE PËR ZHVILLIMIN NË REPUBLIKËN E KOSOVËS, NDËRMJET QEVERISË SË REPUBLIKËS SË KOSOVËS DHE BANKËS ISLAMIKE PËR ZHVILLIM,",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=8710",
+   "versions": [
+    {
+     "from": "2013-06-21",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=8710",
+     "sha256": "bc10be1e76a2822d8734e5e5ac0310942303f5693f9a912b3b6f4bce871459d7"
+    }
+   ]
+  },
+  {
    "slug": "dekret-2013-8826",
    "path": "dekret/2013/8826",
    "short": "DMN-013-2013",
@@ -16543,6 +16588,21 @@
      "units": 6,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11207",
      "sha256": "231c829e86b9fe6c155caed5e88b46b77305ce6eec3082d457c18525f846a83e"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2013-8744",
+   "path": "marreveshje/2013/8744",
+   "short": "MN-DE Alokim Mjeteve Financiare",
+   "title": "MARRËVESHJE PËR ALOKIM TË MJETEVE FINANCIARE, NDËRMJET QEVERISË SË REPUBLIKËS SË KOSOVËS DHE QEVERISË SË REPUBLIKËS SË GJERMANISË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=8744",
+   "versions": [
+    {
+     "from": "2013-03-18",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=8744",
+     "sha256": "1c66298e9ce1fe7080d7c770ea23838ff31c25750edfd9248ca2c2a24c2e9305"
     }
    ]
   },
@@ -26548,6 +26608,51 @@
      "units": 1,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=29502",
      "sha256": "46886d957d845995815bc426f5bbee6192bfbd43d82a914ceb4a26f82df4b085"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2022-66599",
+   "path": "vendim/2022/66599",
+   "short": "GJK-KI43/22-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI43/22 PARASHTRUES MUHAMED BAJGORA SI PËRFAQËSUES I PRETENDUAR I PERSONIT S.B. VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT TË GJYKATËS THEMELORE XXX TË 9 MARSIT 2022",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=66599",
+   "versions": [
+    {
+     "from": "2022-11-16",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=66599",
+     "sha256": "a16be5c18b13942a85b20e1a4ac320ad82be36f2c1f155f4ca8dc4502f7c2199"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2022-66612",
+   "path": "vendim/2022/66612",
+   "short": "GJK-KI95/22-V",
+   "title": "VENDIM PËR TËRHEQJE TË KËRKESËS NË RASTIN NR. KI95/22 PARASHTRUES HABIBE ELEZI VLERËSIM I KËRKESËS SË PARASHTRUESES SË KËRKESËS PËR TËRHEQJEN E KËRKESËS PËR VLERËSIM TË KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME, REV. NR. 381/2021 TË 21 MARSIT 2022",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=66612",
+   "versions": [
+    {
+     "from": "2022-11-16",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=66612",
+     "sha256": "5e62795a25be768e50cb4d2a10eb0ff83cbd9d0db7a73325210dd1e4909fded0"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2022-66613",
+   "path": "vendim/2022/66613",
+   "short": "GJK-KI97/22-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI97/22 PARASHTRUES GANI BËRNJASHI VLERËSIM I KUSHTETUTSHMËRISË SË VENDIMIT TË PASPECIFIKUAR TË AUTORITETIT PUBLIK",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=66613",
+   "versions": [
+    {
+     "from": "2022-11-16",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=66613",
+     "sha256": "a456d487f8b93ee16e82677e7d6053ea1621a898b5582737f6135d2c4e71f071"
     }
    ]
   },
