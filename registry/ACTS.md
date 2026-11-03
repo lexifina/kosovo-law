@@ -1,6 +1,6 @@
 # Every act in this repository
 
-456 acts, 456 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+457 acts, 457 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## ligj (11, of which 11 amending acts)
 
@@ -453,10 +453,11 @@
 | UDHËZIMI ADMINISTRATIV (QRK) Nr. 01/2026 PËR PËRCAKTIMIN E PROCEDURËS SË THEMELIMIT TË PARKUT INDUSTRIAL DHE TEKNOLOGJIK | [`udhezim/2026/125262/`](udhezim/2026/125262/) | in force | 1 | 2026-10-16 | 2026-10-16 |
 | UDHËZIM ADMINISTRATIV (MMPH) NR. 02/2026 PËR DHËNIEN E PËLQIMIT NGA INSTITUTI HIDROMETEOROLOGJIK I KOSOVËS PËR KRYERJEN E PUNËVE NDËRTIMORE NË OBJEKTET HIDROMETEOROLOGJIKE DHE NË ZONAT E MBROJTURA TË STACIONEVE TË RRJETIT SHTETËROR | [`udhezim/2026/125413/`](udhezim/2026/125413/) | in force | 1 | 2026-10-22 | 2026-10-22 |
 
-## vendim (30)
+## vendim (31)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
+| VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI230/23 PARASHTRUES SHKELZEN STAVILECI, NEZAHATE RRACI, MINIRE HAXHIKADRIJA DHE YLLI OLLONI VLERËSIM I KUSHTETUTSHMËRISË SË KOHËZGJATJES SË PROCEDURËS NË LËNDËN [CN. NR. 106/24] NË GJYKATËN THEMELORE NË GJAKOVË | [`vendim/2025/101754/`](vendim/2025/101754/) | in force | 1 | 2025-03-11 | 2025-03-11 |
 | VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI200/23 PARASHTRUES BUJAR HOTI KËRKESË PËR VLERËSIMIN E KUSHTETUTSHMËRISË SË AKTGJYKIMIT [REV.NR.271/2023] TË 31 KORRIKUT 2023 TË GJYKATËS SUPREME TË KOSOVËS | [`vendim/2025/102139/`](vendim/2025/102139/) | in force | 1 | 2025-03-19 | 2025-03-19 |
 | VENDIM NR. NR 1/123/2025 (Ministria e Mbrojtjes) | [`vendim/2025/102205/`](vendim/2025/102205/) | in force | 1 | 2025-03-21 | 2025-03-21 |
 | VENDIM NR. 01/24 (Ministria e Industrisë, Ndërmarrësisë dhe Tregtisë) | [`vendim/2025/102524/`](vendim/2025/102524/) | in force | 1 | 2025-04-05 | 2025-04-05 |

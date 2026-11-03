@@ -5187,6 +5187,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=101695"
 },
 {
+"slug": "vendim-2025-101754",
+"path": "vendim/2025/101754",
+"kind": "vendim",
+"year": "2025",
+"number": "101754",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI230/23 PARASHTRUES SHKELZEN STAVILECI, NEZAHATE RRACI, MINIRE HAXHIKADRIJA DHE YLLI OLLONI VLERËSIM I KUSHTETUTSHMËRISË SË KOHËZGJATJES SË PROCEDURËS NË LËNDËN [CN. NR. 106/24] NË GJYKATËN THEMELORE NË GJAKOVË",
+"short": "GJK-KI230/23-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2025-03-11",
+"latest": "2025-03-11",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=101754"
+},
+{
 "slug": "rregullore-2025-101808",
 "path": "rregullore/2025/101808",
 "kind": "rregullore",
