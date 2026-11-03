@@ -6302,6 +6302,36 @@
    ]
   },
   {
+   "slug": "vendim-2024-98542",
+   "path": "vendim/2024/98542",
+   "short": "MINT-5622/01-V",
+   "title": "VENDIM NR. 5622/01 (Ministria e Industrisë, Ndërmarrësisë dhe Tregtisë)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=98542",
+   "versions": [
+    {
+     "from": "2024-11-04",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=98542",
+     "sha256": "2fbb46c922133ac2711a9a8305555cbe07e8c4212dd50eeeeff085064fadde7f"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2024-98585",
+   "path": "vendim/2024/98585",
+   "short": "GJK-KI28/24-V",
+   "title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI28/24 PARASHTRUES AVDYL SMAJLI VLERËSIM I KUSHTETUTSHMËRISË SË AKTIT TË PASPECIFIKUAR TË AUTORITETIT PUBLIK",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=98585",
+   "versions": [
+    {
+     "from": "2024-10-31",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=98585",
+     "sha256": "f5c7a0ef058d321a4a21a85f725f17644ab7239da6078e343a4d08d5092dd193"
+    }
+   ]
+  },
+  {
    "slug": "vendim-2025-100586",
    "path": "vendim/2025/100586",
    "short": "MM-Nr. 01/17/2025-V",

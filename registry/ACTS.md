@@ -1,6 +1,6 @@
 # Every act in this repository
 
-465 acts, 465 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+467 acts, 467 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## ligj (11, of which 11 amending acts)
 
@@ -453,10 +453,12 @@
 | UDHËZIMI ADMINISTRATIV (QRK) Nr. 01/2026 PËR PËRCAKTIMIN E PROCEDURËS SË THEMELIMIT TË PARKUT INDUSTRIAL DHE TEKNOLOGJIK | [`udhezim/2026/125262/`](udhezim/2026/125262/) | in force | 1 | 2026-10-16 | 2026-10-16 |
 | UDHËZIM ADMINISTRATIV (MMPH) NR. 02/2026 PËR DHËNIEN E PËLQIMIT NGA INSTITUTI HIDROMETEOROLOGJIK I KOSOVËS PËR KRYERJEN E PUNËVE NDËRTIMORE NË OBJEKTET HIDROMETEOROLOGJIKE DHE NË ZONAT E MBROJTURA TË STACIONEVE TË RRJETIT SHTETËROR | [`udhezim/2026/125413/`](udhezim/2026/125413/) | in force | 1 | 2026-10-22 | 2026-10-22 |
 
-## vendim (39)
+## vendim (41)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
+| VENDIM NR. 5622/01 (Ministria e Industrisë, Ndërmarrësisë dhe Tregtisë) | [`vendim/2024/98542/`](vendim/2024/98542/) | in force | 1 | 2024-11-04 | 2024-11-04 |
+| VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI28/24 PARASHTRUES AVDYL SMAJLI VLERËSIM I KUSHTETUTSHMËRISË SË AKTIT TË PASPECIFIKUAR TË AUTORITETIT PUBLIK | [`vendim/2024/98585/`](vendim/2024/98585/) | in force | 1 | 2024-10-31 | 2024-10-31 |
 | VENDIM NR. Nr. 01/17/2025 (Ministria e Mbrojtjes) | [`vendim/2025/100586/`](vendim/2025/100586/) | in force | 1 | 2025-01-23 | 2025-01-23 |
 | VENDIM PËR HEDHJE POSHTË TË KËRKESËS NË RASTIN NR. KI91/23 PARASHTRUES N.P. ANARCH, VITAMER SH. P. K., BUJAR DOMI, SHKELZEN DOMI, LAURA BINXHIJA-QESKA DHE VALON QESKA VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT PN. NR. 1350/22 DHE PN. 1356/22, TË GJYKATËS SË APELIT, TË 29 DHJETORIT 2022 | [`vendim/2025/101485/`](vendim/2025/101485/) | in force | 1 | 2025-03-03 | 2025-03-03 |
 | VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI17/24 PARASHTRUESE ELIFE MURSELI VLERËSIM I KUSHTETUTSHMËRISË SË KOHËZGJATJES SË PROCEDURËS GJYQËSORE | [`vendim/2025/101523/`](vendim/2025/101523/) | in force | 1 | 2025-03-03 | 2025-03-03 |

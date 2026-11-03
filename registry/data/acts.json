@@ -4269,6 +4269,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=98478"
 },
 {
+"slug": "vendim-2024-98542",
+"path": "vendim/2024/98542",
+"kind": "vendim",
+"year": "2024",
+"number": "98542",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIM NR. 5622/01 (Ministria e Industrisë, Ndërmarrësisë dhe Tregtisë)",
+"short": "MINT-5622/01-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-11-04",
+"latest": "2024-11-04",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=98542"
+},
+{
 "slug": "udhezim-2024-98552",
 "path": "udhezim/2024/98552",
 "kind": "udhezim",
@@ -4284,6 +4301,23 @@
 "from": "2024-11-06",
 "latest": "2024-11-06",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=98552"
+},
+{
+"slug": "vendim-2024-98585",
+"path": "vendim/2024/98585",
+"kind": "vendim",
+"year": "2024",
+"number": "98585",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI28/24 PARASHTRUES AVDYL SMAJLI VLERËSIM I KUSHTETUTSHMËRISË SË AKTIT TË PASPECIFIKUAR TË AUTORITETIT PUBLIK",
+"short": "GJK-KI28/24-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-10-31",
+"latest": "2024-10-31",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=98585"
 },
 {
 "slug": "rregullore-2024-98661",
