@@ -14,21 +14,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
-| 3190 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 3190 | |
+| 3304 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 3304 | |
 
-The build made 3255 commits:
+The build made 3369 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 3255 | first version of an act |
+| 3369 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-04.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 3194 laws in the record.
-- 6416 tags.
+- 3308 laws in the record.
+- 6644 tags.
 
 ## Dates
 
@@ -40,7 +40,7 @@ When a law gives no date of its own, the default rule applies: Each act states i
 
 `tools/build/build.py` (and, for later publishes, `tools/build/append.py`) turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/build/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/build/SCHEMA.md`.
 
-- Corpus: sha256 `01a2fe89a72b81dd03a39afd0f6044fbf1d189568b7bd60fe356939b7db21ea2` (124028517 bytes).
+- Corpus: sha256 `7b200713a811a667bf993fe22cfd61e14b58490737cfda31486c1a4feec1ec87` (125693406 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `6a75a05e2f381deb50fb7cb6ad297cc3fe964a71`, `check.py` `d36188b60926167ff377bd58f0b03f30cc9a1a52`, `on.py` `55bf92027127e36254521d114abde53cfefbb67d`.
 - Python 3.14.0; git version 2.52.0.windows.1.
 
@@ -52,7 +52,7 @@ No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
-- Every act's decisions made by hand (732 in all) are listed in that act's own README.md, under "Decisions made by hand".
+- Every act's decisions made by hand (738 in all) are listed in that act's own README.md, under "Decisions made by hand".
 
 ## What AI did and did not do
 
@@ -63,6 +63,7 @@ No model wrote, translated or corrected legal text. No model runs at build time.
 The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
+- none
 - none
 - none
 - none
