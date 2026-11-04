@@ -1,8 +1,8 @@
 # Every act in this repository
 
-3101 acts, 3,101 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+3102 acts, 3,102 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
-## aktgjykim (282, of which 8 amending acts)
+## aktgjykim (281, of which 8 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -34,7 +34,6 @@
 | AKTGJYKIM NË RASTIN KO61/12 KONFIRMIMI I AMENDAMENTEVE TË PROPOZUARA KUSHTETUESE, TË PARAQITURA NGA KRYETARI I KUVENDIT TË REPUBLIKËS SË KOSOVËS, MË 22 QERSHOR 2012, ME SHKRESËN NR. 04-DO-1095 | [`aktgjykim/2012/3206/`](aktgjykim/2012/3206/) | amending act | 1 | 2012-11-21 | 2012-11-21 |
 | AKTGJYKIM NË RASTIN NR. KO09/13 KONFIRMIM I AMENDAMENTIT TË PROPOZUAR KUSHTETUES, TË PARAQITUR NGA KRYETARI I KUVENDIT TË REPUBLIKËS SË KOSOVËS, MË 18 JANAR 2013, NËPËRMJET SHKRESËS NR. 04-DO-1357 | [`aktgjykim/2013/3240/`](aktgjykim/2013/3240/) | amending act | 1 | 2013-02-20 | 2013-02-20 |
 | AKTGJYKIM NË RASTIN KI41/12 PARASHTRUES GËZIM DHE MAKFIRE KASTRATI KUNDËR GJYKATËS KOMUNALE NË PRISHTINË DHE KËSHILLIT GJYQËSOR TË KOSOVËS | [`aktgjykim/2013/8727/`](aktgjykim/2013/8727/) | in force | 1 | 2013-02-27 | 2013-02-27 |
-| AKTGJYKIM NË RASTIN NR. KI120/10 PARASHTRUESE ZYMA BERISHA VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË REPUBLIKËS SË KOSOVËS, REV. NR. 308/2007 | [`aktgjykim/2013/8762/`](aktgjykim/2013/8762/) | in force | 1 | 2013-04-19 | 2013-04-19 |
 | AKTGJYKIM NË RASTIN NR. KO131/12 PARASHTRUES DR. SHAIP MUJA DHE 11 DEPUTETË TË KUVENDIT TË REPUBLIKËS SË KOSOVËS VLERËSIM I KUSHTETUTSHMËRISË SË NENEVE 18, 19, 41 DHE 60 TË LIGJIT PËR SHËNDETËSI... | [`aktgjykim/2013/8771/`](aktgjykim/2013/8771/) | in force | 1 | 2013-04-19 | 2013-04-19 |
 | AKTGJYKIM NË RASTIN NR. KI52/12 PARASHTRUES ADIJE ILIRI VLERËSIM I KUSHTETUTSHMËRISË SË VENDIMIT TË GJYKATËS SUPREME TË REPUBLIKËS SË KOSOVËS, AC. NR. 95/2011, TË 8 DHJETORIT 2011 | [`aktgjykim/2013/8834/`](aktgjykim/2013/8834/) | in force | 1 | 2013-07-16 | 2013-07-16 |
 | AKTGJYKIM NË RASTIN NR. KI112/12 PARASHTRUES ADEM META VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT TË GJYKATËS SË QARKUT NË MITROVICË, AC. NR. 61/12, TË 13 SHKURTIT 2012 | [`aktgjykim/2013/8854/`](aktgjykim/2013/8854/) | in force | 1 | 2013-08-05 | 2013-08-05 |
@@ -2294,7 +2293,6 @@
 | RREGULLORE (ZKM) NR. 12/2024 PËR ORGANIZIMIN E BRENDSHËM DHE SISTEMATIZIMIN E VENDEVE TË PUNËS NË MINISTRINË PËR KOMUNITETE DHE KTHIM | [`rregullore/2024/92254/`](rregullore/2024/92254/) | in force | 1 | 2024-06-20 | 2024-06-20 |
 | RREGULLORE (QRK) - NR. 18/2024 PËR PËRCAKTIMIN E PROCEDURAVE EFEKTIVE PËR IDENTIFIKIMIN, RAPORTIMIN DHE REFERIMIN NDAJ SHFRYTËZIMIT, NEGLIZHIMIT DHE ABUZIMIT TË FËMIJËS SI DHE PËR MBROJTJEN E FËMIJËS NË SITUATË RRUGE | [`rregullore/2024/92258/`](rregullore/2024/92258/) | in force | 1 | 2024-06-27 | 2024-06-27 |
 | RREGULLORE (QRK) - NR. 17/2024 E PUNËS SË QEVERISË SË REPUBLIKËS SË KOSOVËS | [`rregullore/2024/92322/`](rregullore/2024/92322/) | in force | 1 | 2024-06-28 | 2024-06-28 |
-| RREGULLORE (KPZ) PËR SHËRBIME KOMUNALE NË KOMUNËN E PRIZRENIT | [`rregullore/2024/92634/`](rregullore/2024/92634/) | in force | 1 | 2024-07-04 | 2024-07-04 |
 | RREGULLORE (ZKM) – NR.14/2024 PËR ORGANIZIMIN E BRENDSHËM DHE SISTEMATIZIMIN E VENDEVE TË PUNËS NË AGJENCINË PËR ADMINISTRIMIN E PASURISË SË SEKUESTRUAR DHE TË KONFISKUAR | [`rregullore/2024/95066/`](rregullore/2024/95066/) | in force | 1 | 2024-07-25 | 2024-07-25 |
 | RREGULLORE (QRK) NR.23/2024 PËR PROCEDURAT DHE KRITERET E VLERËSIMT DHE NJOHJES SË STATUSIT DHE TË DREJTAVE TË PERSONAVE PARAPLEGJIKË DHE TETRAPLEGJIKË | [`rregullore/2024/96467/`](rregullore/2024/96467/) | in force | 1 | 2024-09-01 | 2024-09-01 |
 | RREGULLORE (QRK) NR. 22/2024 PËR EKSPERTËT | [`rregullore/2024/96470/`](rregullore/2024/96470/) | in force | 1 | 2024-08-27 | 2024-08-27 |
@@ -2388,6 +2386,7 @@
 | RREGULLORE (QRK) NR. 08/2026 PËR FUSHAT E PËRGJEGJËSISË ADMINISTRATIVE TË MINISTRIVE | [`rregullore/2026/125368/`](rregullore/2026/125368/) | in force | 1 | 2026-10-14 | 2026-10-14 |
 | RREGULLORE (MMPH) Nr. 01/2026 PËR KËRKESAT MINIMALE PËR PERFORMANCËN ENERGJETIKE TË NDËRTESAVE | [`rregullore/2026/125426/`](rregullore/2026/125426/) | in force | 1 | 2026-10-22 | 2026-10-22 |
 | RREGULLORE (MMPH) Nr. 02/2026 PËR METODOLOGJINË KOMBËTARE PËR KALKULIMIN E PERFORMANCËS ENERGJETIKE TË NDËRTESAVE | [`rregullore/2026/125731/`](rregullore/2026/125731/) | in force | 1 | 2026-11-02 | 2026-11-02 |
+| RREGULLORE (MINTI) NR. 02/ 2026 PËR CAKTIMIN E FORMËS, PËRMBAJTJES, PAJISJES DHE PËRDORIMIT TË STEMËS DHE VULËS SË INSPEKTORATIT QENDROR TË MBIKËQYRJES SË TREGUT | [`rregullore/2026/125802/`](rregullore/2026/125802/) | in force | 1 | 2026-11-04 | 2026-11-04 |
 
 ## statut (11, of which 1 amending acts)
 
@@ -2719,7 +2718,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | URDHËRESË ADMINISTRATIVE (AAC) Nr. 02/2019 PËR PËRDORIMIN E GJUHËS NË BORD TË AEROPLANIT | [`urdhrese/2019/25689/`](urdhrese/2019/25689/) | in force | 1 | 2019-12-23 | 2019-12-23 |
 
-## vendim (385, of which 2 amending acts)
+## vendim (384, of which 2 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2852,7 +2851,6 @@
 | VENDIM PËR HEDHJE POSHTË TË KËRKESËS NË RASTIN NR. KI166/14 PARASHTRUES MENTOR PAQAK KËRKESË PËR RISHQYRTIM TË LËNDËS KI78/14 | [`vendim/2015/10909/`](vendim/2015/10909/) | in force | 1 | 2015-06-18 | 2015-06-18 |
 | VENDIM PËR HEQJE TË KËRKESËS NGA LISTA NË RASTIN NR. KI178/14 PARASHTRUES XUFE RACAJ KËRKESË PËR PËRMIRËSIMIN E AKTVENDIMIT PËR PAPRANUESHMËRI TË GJYKATËS KUSHTETUESE TË REPUBLIKËS SË KOSOVËS, NË RASTIN KI107/14, TË 26 NËNTORIT 2014 | [`vendim/2015/10913/`](vendim/2015/10913/) | in force | 1 | 2015-06-18 | 2015-06-18 |
 | VENDIM PËRFUNDIMTAR 01 Nr. 465-150101 (Komuna e Prishtinës) | [`vendim/2015/10978/`](vendim/2015/10978/) | in force | 1 | 2015-07-18 | 2015-07-18 |
-| VENDIM PËRFUNDIMTAR Nr. 894-15 (Komuna Vushtrri) | [`vendim/2015/11001/`](vendim/2015/11001/) | in force | 1 | 2015-08-11 | 2015-08-11 |
 | VENDIM PËR HEDHJE POSHTË TË KËRKESËS NË RASTIN NR. KI179/14 PARASHTRUES BEJTULLAH SOGOJEVA VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS, REV. NR. 396/2012, TË 11 SHTATORIT 2013 | [`vendim/2015/11029/`](vendim/2015/11029/) | in force | 1 | 2015-08-24 | 2015-08-24 |
 | VENDIM PËR HEQJE TË KËRKESËS NGA LISTA NE RASTIN NR. KI142/14 PARASHTRUES BAJRAM BAJGORA VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SË APELIT, AC. NR. 1429/2014, TË 7 KORRIKUT 2014 | [`vendim/2015/11075/`](vendim/2015/11075/) | in force | 1 | 2015-09-16 | 2015-09-16 |
 | VENDIM PËR HEQJE TË KËRKESËS NGA LISTA NË RASTIN NR. KI17/15 PARASHTRUES IBRAHIM BAJRAMI VLERËSIM I KUSHTETUTSHMËRISË SË KËRKESËS PËR PËRFSHIRJE NË PROCEDURËN E PRIVATIZIMIT | [`vendim/2015/11094/`](vendim/2015/11094/) | in force | 1 | 2015-09-18 | 2015-09-18 |
@@ -3109,12 +3107,13 @@
 | VENDIM NR. Nr. 1/596/2026 (Ministria e Mbrojtjes) | [`vendim/2026/125235/`](vendim/2026/125235/) | in force | 1 | 2026-10-09 | 2026-10-09 |
 | VENDIM NR. 01 Ref. Nr.152 (Ministria e Industrisë, Ndërmarrësisë, Tregtisë dhe Inovacionit) | [`vendim/2026/125801/`](vendim/2026/125801/) | in force | 1 | 2026-10-28 | 2026-10-28 |
 
-## Withdrawn from the record (59)
+## Withdrawn from the record (62)
 
 Acts published here and later found not to belong (for example, titled as Government decisions but issued by another body). Their folders were removed by a correction commit; the commits that added them stay in the history. Their ids are retired: a later act with the same number gets the id with `-2` appended.
 
 | Act id | Reason | Removed by |
 | --- | --- | --- |
+| `aktgjykim-2013-8762` | published with an in-force day taken from the agreement the judgment reviews, not its own | ceffcec26 |
 | `aktgjykim-2026-125255` | published with a wrong in-force day: the in-force words were taken from the decision's reasoning about another act ("Si problematikë tjetër përbën hyrja në fuqi e Udhëzimit Administrativ ku Udhëzimi Administrativ hynë në fuqi ditën e nënshkrimit nga Ministri, ndërsa publikohet..."), not from its own rule | c3941139f |
 | `aktvendim-2025-110072` | published with a wrong in-force day: the in-force words were taken from the decision's reasoning about another act ("Kjo Rregullore hyn në fuqi 15 (pesëmbëdhjetë) ditë pas regjistrimit në Zyrën e protokollit në Ministrinë e Administrimit të Pushtetit Lokal, si dhe 7 (shtatë) d..."), not from its own rule | c3941139f |
 | `rregullore-2003-11638` | published with a wrong in-force day: Kjo Rregullore hynë në fuqi 15 ditë pas regjistrimit në zyrën e protokollit të Ministrisë përgjegjëse për Vetëqeverisjen Lokale, dhe publikimit në gjuhë zyrtare në Ueb-faqen e Komunës, sipas këtij afati. | c3941139f |
@@ -3165,6 +3164,7 @@ Acts published here and later found not to belong (for example, titled as Govern
 | `rregullore-2024-87076` | published with a wrong in-force day: Kjo Rregullore shpallet 15 (pesembedhjete) dit0 pas regjistrimit nd Zyr€n e Protokollit te MinistrisE P6rgjegjdse pdr Vetdqeverisje Lokale, dhe hyn ne fuqi 7 (shtate) dit€ pas publikimit nd giuhet zyrtare nE ueb faqen e Komunds se Prizrenit. uesja.e Kuvend na Bytyqi n 3. | c3941139f |
 | `rregullore-2024-90560` | published with a wrong in-force day: Kjo Rregullore hynë në fuqi 15 ditë pas regjistrimit në zyrën e protokollit të MAPL-së dhe publikimit në gjuhët zyrtare në uebfaqen e Komunës 01.Nr.016-33484 Kryesuesi i Kuvendit ____________________ Gjilan, më 28.03.2024 /Kushtrim Kadriu/ | c3941139f |
 | `rregullore-2024-92385` | published with a wrong in-force day: Kjo Rregullore hyn ne fuqi pasi te plotesohen kushtet e parapera konform neneve 81 dhe 82 te LVL-se si dhe pas publikimit nE ueb faqen elektronike te Komunes nd gjuhdt zyrtare dhe nd Gaze&n Zyrtare td Republikds se Kosovds. e Kuvendit a !:i ://-.':-, .l | c3941139f |
+| `rregullore-2024-92634` | published with an in-force day although it enters into force once conditions are met (no day) | ceffcec26 |
 | `rregullore-2024-95684` | published with a wrong in-force day: Kjo Rregullore hyn në fuqi 7 (shtatë) ditë pas publikimit në Gazetën Zyrtare. | c3941139f |
 | `rregullore-2025-100859` | published with a wrong in-force day: Kjo Rregullore hyn në fuqi 15 ditë pas regjistrimit në Zyrën e Protokollit në Ministrinë e Administrimit të Pushtetit Lokal, si dhe publikimit në gjuhët zyrtare në Gazetën Zyrtare të Republikës së Kosovës dhe ueb-faqen e Komunës. | c3941139f |
 | `rregullore-2025-111866` | English/Serbian text of the trilingual PDF ran into the last article | 4d09e47a7 |
@@ -3174,3 +3174,4 @@ Acts published here and later found not to belong (for example, titled as Govern
 | `udhezim-2024-85276` | published with a wrong in-force day: Ky Udhëzim administrativ hyn në fuqi 7 (shtatë) ditë pas publikimit në Gazetën zyrtare të Republikës së Kosovës. | c3941139f |
 | `udhezim-2024-87449` | published with a wrong in-force day: Ky Udhëzim Administrativ hyn në fuqi 7 (shtatë) ditë pas publikimit në Gazetën Zyrtare të Republikës së Kosovës. | c3941139f |
 | `udhezim-2026-122402` | in force N days after signature, published as N days after publication | 4d09e47a7 |
+| `vendim-2015-11001` | published with an in-force day although it enters into force on publication in the Gazette and a newspaper (day not known) | ceffcec26 |

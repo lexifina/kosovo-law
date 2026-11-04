@@ -422,21 +422,6 @@
    ]
   },
   {
-   "slug": "aktgjykim-2013-8762",
-   "path": "aktgjykim/2013/8762",
-   "short": "KI_120/10 AGJ 385/13",
-   "title": "AKTGJYKIM NË RASTIN NR. KI120/10 PARASHTRUESE ZYMA BERISHA VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË REPUBLIKËS SË KOSOVËS, REV. NR. 308/2007",
-   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=8762",
-   "versions": [
-    {
-     "from": "2013-04-19",
-     "units": 3,
-     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=8762",
-     "sha256": "434e9afd2cffd2a6d805ffaeb447f6256a0d38e7c334133f0f9226f2979fccdb"
-    }
-   ]
-  },
-  {
    "slug": "aktgjykim-2013-8771",
    "path": "aktgjykim/2013/8771",
    "short": "KO_131/12 AGJ 404/13",
@@ -33857,21 +33842,6 @@
    ]
   },
   {
-   "slug": "rregullore-2024-92634",
-   "path": "rregullore/2024/92634",
-   "short": "K.PZ-001/011-73507-RR",
-   "title": "RREGULLORE (KPZ) PËR SHËRBIME KOMUNALE NË KOMUNËN E PRIZRENIT",
-   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=92634",
-   "versions": [
-    {
-     "from": "2024-07-04",
-     "units": 171,
-     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=92634",
-     "sha256": "1326231c596c944c968f00b2675ecfddb497f6c35679b0318cf710e764a50135"
-    }
-   ]
-  },
-  {
    "slug": "rregullore-2024-95066",
    "path": "rregullore/2024/95066",
    "short": "ZKM-14/2024-RR",
@@ -35188,6 +35158,21 @@
      "units": 14,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=125731",
      "sha256": "f407a8ea38a7f9eb64b0088b9ba07662294174ceafa5c3a8940fae15068c3866"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2026-125802",
+   "path": "rregullore/2026/125802",
+   "short": "MINTI-02/2026-RR",
+   "title": "RREGULLORE (MINTI) NR. 02/ 2026 PËR CAKTIMIN E FORMËS, PËRMBAJTJES, PAJISJES DHE PËRDORIMIT TË STEMËS DHE VULËS SË INSPEKTORATIT QENDROR TË MBIKËQYRJES SË TREGUT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=125802",
+   "versions": [
+    {
+     "from": "2026-11-04",
+     "units": 16,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=125802",
+     "sha256": "b09e6d431690b10269d21ccdb05698d048cf330762717d216469e6da5152e297"
     }
    ]
   },
@@ -41777,21 +41762,6 @@
    ]
   },
   {
-   "slug": "vendim-2015-11001",
-   "path": "vendim/2015/11001",
-   "short": "V-PF-894/15 (K. Vushtrri)",
-   "title": "VENDIM PËRFUNDIMTAR Nr. 894-15 (Komuna Vushtrri)",
-   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11001",
-   "versions": [
-    {
-     "from": "2015-08-11",
-     "units": 1,
-     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11001",
-     "sha256": "3f7144dc805601f7ed60691b9e9b9c618b7e9ac11a6f279bd21f2578ae12cc05"
-    }
-   ]
-  },
-  {
    "slug": "vendim-2015-11029",
    "path": "vendim/2015/11029",
    "short": "KI179/14",
@@ -45617,6 +45587,21 @@
    ]
   },
   {
+   "slug": "aktgjykim-2013-8762",
+   "path": "aktgjykim/2013/8762",
+   "short": "KI_120/10 AGJ 385/13",
+   "title": "AKTGJYKIM NË RASTIN NR. KI120/10 PARASHTRUESE ZYMA BERISHA VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË REPUBLIKËS SË KOSOVËS, REV. NR. 308/2007",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=8762",
+   "versions": [
+    {
+     "from": "2013-04-19",
+     "units": 3,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=8762",
+     "sha256": "434e9afd2cffd2a6d805ffaeb447f6256a0d38e7c334133f0f9226f2979fccdb"
+    }
+   ]
+  },
+  {
    "slug": "aktgjykim-2026-125255",
    "path": "aktgjykim/2026/125255",
    "short": "GJSK-P.A.nr.23/2026-AKGJ",
@@ -46382,6 +46367,21 @@
    ]
   },
   {
+   "slug": "rregullore-2024-92634",
+   "path": "rregullore/2024/92634",
+   "short": "K.PZ-001/011-73507-RR",
+   "title": "RREGULLORE (KPZ) PËR SHËRBIME KOMUNALE NË KOMUNËN E PRIZRENIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=92634",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 171,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=92634",
+     "sha256": "1326231c596c944c968f00b2675ecfddb497f6c35679b0318cf710e764a50135"
+    }
+   ]
+  },
+  {
    "slug": "rregullore-2024-95684",
    "path": "rregullore/2024/95684",
    "short": "ZKM-13/2024-RR",
@@ -46513,6 +46513,21 @@
      "units": 30,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=122402",
      "sha256": "192e05bd95a56043dff2a8f737fde2b7000ed5a5d55efc65c512eae874bda1d7"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2015-11001",
+   "path": "vendim/2015/11001",
+   "short": "V-PF-894/15 (K. Vushtrri)",
+   "title": "VENDIM PËRFUNDIMTAR Nr. 894-15 (Komuna Vushtrri)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11001",
+   "versions": [
+    {
+     "from": "2015-08-11",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11001",
+     "sha256": "3f7144dc805601f7ed60691b9e9b9c618b7e9ac11a6f279bd21f2578ae12cc05"
     }
    ]
   }
