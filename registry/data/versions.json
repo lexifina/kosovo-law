@@ -722,6 +722,21 @@
    ]
   },
   {
+   "slug": "aktgjykim-2016-12499",
+   "path": "aktgjykim/2016/12499",
+   "short": "KI132/15-AGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI132/15 PARASHTRUES MANASTIRI I DEÇANIT KËRKESË PËR VLERËSIMIN E KUSHTETUTSHMËRISË SË DY VENDIMEVE TË 12 QERSHORIT 2015, NR. AC-I-13-0008 DHE NR. AC-I-13-0009, TË KOLEGJIT TË ANKESAVE TË DHOMËS SË POSAÇME TË GJYKATËS SUPREME TË REPUBLIKËS SË KOSOVËS PËR ÇËSHTJE QË LIDHEN ME AGJENCINË KOSOVARE TË PRIVATIZIMIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=12499",
+   "versions": [
+    {
+     "from": "2016-05-26",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=12499",
+     "sha256": "d41a050d9d7802ed629198fce6664ea87db2a1da51d75fb37596ca44c806a3af"
+    }
+   ]
+  },
+  {
    "slug": "aktgjykim-2017-15677",
    "path": "aktgjykim/2017/15677",
    "short": "GJK-KI93/16-AKGJ",
@@ -1408,6 +1423,21 @@
      "units": 1,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=36081",
      "sha256": "c0d07fc0e95ee029759b35c3d63becf3c0b7f67af95f586ad57fc054ce7d97c7"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2021-36184",
+   "path": "aktgjykim/2021/36184",
+   "short": "GJK-KO95/20-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KO95/20 PARASHTRUES LIBURN ALIU DHE 16 DEPUTETË TË TJERË TË KUVENDIT TË REPUBLIKËS SË KOSOVËS VLERËSIM I KUSHTETUTSHMËRISË SË VENDIMIT TË KUVENDIT TË REPUBLIKËS SË KOSOVËS NR. 07/V-014, TË 3 QERSHORIT 2020, PËR ZGJEDHJEN E QEVERISË SË REPUBLIKËS SË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=36184",
+   "versions": [
+    {
+     "from": "2021-01-06",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=36184",
+     "sha256": "57e726c899046fdb9bdd80b2559c57e30bb771a57e4ff90d738199e0c266f423"
     }
    ]
   },
@@ -4213,6 +4243,1761 @@
      "units": 1,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=125903",
      "sha256": "a8c85ba2b9f52bff1cd8726e6e9450ff7ea318838b2779b6446c9430e909223d"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2010-2895",
+   "path": "aktvendim/2010/2895",
+   "short": "KI_41/09 RK 04/10",
+   "title": "AKTVENDIMI (RASTI KI. 41/09 - UNIVERSITETI AAB-RIINVEST sh.p.k. KUNDËR QEVERISË SË REPUBLIKËS SË KOSOVËS I DATËS 27 JANAR 2010)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2895",
+   "versions": [
+    {
+     "from": "2010-03-08",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2895",
+     "sha256": "0f589755f36e28aea7ff0e31f4e3ef076b6eb161684d7495a23a1a2fcc41853d"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2010-2901",
+   "path": "aktvendim/2010/2901",
+   "short": "KI_73/09 AGJ 08/10",
+   "title": "AKTVENDIM PËR PALEJUESHMËRINË (RASTI KI 73/09 - MIMOZA KUSARI-LILA KUNDËR KOMISIONIT QENDROR ZGJEDHOR I DATËS 23 MARS 2010)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2901",
+   "versions": [
+    {
+     "from": "2010-04-06",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2901",
+     "sha256": "abd1cda7aa7b96dbb8fc32f854f31ef0ab6c8f785cbded889ee56639d2aa72ff"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2010-2906",
+   "path": "aktvendim/2010/2906",
+   "short": "KI_07/09",
+   "title": "AKTVENDIM PËR PALEJUESHMËRI (RASTI KI 07/09 - DEMË KURBOGAJ DHE BESNIK KURBOGAJ KUNDËR AKTGJYKIMIT TË GJYKATËS SUPREME Pkl. nr. 61/07 DHE AKTGJYKIMIT TË GJYKATËS SUPREME Ap.nr. 510/07, I DATËS 19 MAJ 2010)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2906",
+   "versions": [
+    {
+     "from": "2010-05-20",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2906",
+     "sha256": "576dc5c76b8adefee1c892a84805f598805592762b2f2cd77e91fd1688b47bc9"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-2916",
+   "path": "aktvendim/2011/2916",
+   "short": "KI_04/10",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 04/10 PARASHTRUES TË KËRKESËS XHAFER MALIQI DHE TË TJERË KUNDËR ODËS SË AVOKATËVE TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2916",
+   "versions": [
+    {
+     "from": "2011-02-16",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2916",
+     "sha256": "3417345fc95a6914a3d748494e0d15f552fe8128be4a182283d5cd9850b44737"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-2919",
+   "path": "aktvendim/2011/2919",
+   "short": "KI_07/10",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 07/10 PARASHTRUESI KOMUNA E KLINËS VLERËSIMI I KUSHTETUTSHMËRISË TË VENDIMIT TË KËSHILLIT TË PAVARUR MBIKËQYRËS TË KOSOVËS, NR. 112/08, TË DATËS 5 QERSHOR 2009",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2919",
+   "versions": [
+    {
+     "from": "2011-02-16",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2919",
+     "sha256": "74a7b7138d5a2ade26fd86a7ec5373404144f2e1f8997217f0b7210a21142d30"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-2948",
+   "path": "aktvendim/2011/2948",
+   "short": "KI_49/09",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 49/09 PARASHTRUESI VELI SERMAXHAJ VLERËSIMI I KUSHTETUTSHMËRISË TË VENDIMIT TË GJYKATËS KOMUNALE NË GJILAN, E. NR. 299/05, TË DATËS 26 MAJ 2009",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2948",
+   "versions": [
+    {
+     "from": "2011-02-16",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2948",
+     "sha256": "734906a78b4bafc7b3f585f4cd56fd2294341b9e7b1c1c425d389f3739cbbb96"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-2955",
+   "path": "aktvendim/2011/2955",
+   "short": "KI_61/09",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 61/09 PARASHTRUESI “ADLER COM” SH.P.K. NGA GJAKOVA VLERËSIMI I KUSHTETUTSHMËRISË TË URDHRIT TË KRYETARIT TË KOMUNËS SË GJAKOVËS, I DATËS 22 JANAR 2008",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2955",
+   "versions": [
+    {
+     "from": "2011-02-16",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2955",
+     "sha256": "ff881f9670af0b69403dc81629da2269233e1c036700bea3f4a90e975089401c"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-2957",
+   "path": "aktvendim/2011/2957",
+   "short": "KI_67/09",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 67/09 PARASHTRUESI IDRIZ RATKOCERI VLERËSIMI I KUSHTETUTSHMËRISË TË AKTGJYKIMIT TË GJYKATËS KOMUNALE NË PRISHTINË, P. 1216/2004, I DATËS 03 SHKURT 2006",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2957",
+   "versions": [
+    {
+     "from": "2011-02-16",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2957",
+     "sha256": "74a53746466748e7a076d2fdb524108726ea683f90bfb6a9e024d5f065917762"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-2962",
+   "path": "aktvendim/2011/2962",
+   "short": "KI_88/10",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 88/10 PARASHTRUESI AGIM PACA KUNDËR ENVER HASANIT, ISH REKTOR NË UNIVERSITETIN E PRISHTINËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2962",
+   "versions": [
+    {
+     "from": "2011-02-16",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2962",
+     "sha256": "ea8d351799f5995266f322986db3d8e0fc8cf8fc3c7ed57931bb909f11d967f0"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-2968",
+   "path": "aktvendim/2011/2968",
+   "short": "KI_11/10",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 11/10 PARASHTRUESI FETI ISLAMI VLERËSIM I KUSHTETUTSHMËRISË TË VENDIMIT TË GJYKATËS SUPREME TË KOSOVËS REV.395/2008 DHE VENDIMIT TË GJYKATËS SË QARKUT NË KOMUNËN E PEJËS...",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2968",
+   "versions": [
+    {
+     "from": "2011-04-01",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2968",
+     "sha256": "e0be22e6120a1237775405398b5d8d13acc1fb79eb28e0910c29342e1af9e479"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-2971",
+   "path": "aktvendim/2011/2971",
+   "short": "KI_36/09",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 36/09 PARASHTRUESI RUHAN BERISHA VLERËSIM I KUSHTETUTSHMËRISË TË MOSEKZEKUTIMIT TË AKTGJYKIMIT C. NR 388/05 TË GJYKATËS KOMUNALE TË GJILANIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2971",
+   "versions": [
+    {
+     "from": "2011-04-01",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2971",
+     "sha256": "50b23a357515a82343bddc3dffc390d81cdfe5e654e9aefac0926fb72a914ac0"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-2972",
+   "path": "aktvendim/2011/2972",
+   "short": "KI_40/10",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 40/10 PARASHTRUESI NLB PRISHTINA SH. A. VLERËSIM I KUSHTETUTSHMËRISË TË AKTVENDIMIT TË GJYKATËS SUPREME TË REPUBLIKËS SË KOSOVËS....",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2972",
+   "versions": [
+    {
+     "from": "2011-04-01",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2972",
+     "sha256": "50711a424503ca6eb4c315df62d077adb2fff2204ae3f5b9d69b1477cdd5ac42"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-2973",
+   "path": "aktvendim/2011/2973",
+   "short": "KI_45/09",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 45/09 PARASHTRUESI TEKI BOKSHI VLERËSIM I KUSHTETUTSHMËRISË TË URDHËRESËS SË NDRYSHUAR DHE TË ZËVENDËSUAR ADMINISTRATIVE TË UNMIK-UT NR. 2003/13",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2973",
+   "versions": [
+    {
+     "from": "2011-04-01",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2973",
+     "sha256": "6c32f886a5a29ec4300c0deac32ffd6675da8e790147f4e13b4ab0f6e1db3ba8"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-2974",
+   "path": "aktvendim/2011/2974",
+   "short": "KI_46/09",
+   "title": "AKTVENDIM PËR PAPRANUSHMËRI NË RASTIN NR. KI 46/09 PARASHTRUESI MIFTAR SEJDIU VLERËSIM I KUSHTETUTSHMËRISË TË MOSEKZEKUTIMI TË AKTGJYKIMIT A NR. 1428/2005 TË GJYKATËS SUPREME TË KOSOVËS, TË 13 QERSHORIT 2006",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2974",
+   "versions": [
+    {
+     "from": "2011-04-01",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2974",
+     "sha256": "bd5e0db34312ec312b8866cfdc6f884ddba7b70b150a4b8362e7ba6162256b91"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-2976",
+   "path": "aktvendim/2011/2976",
+   "short": "KI_74/09",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 74/09 PARASHTRUESI FETI (HAMËZ) GASHI VLERËSIM I KUSHTETUTSHMËRISË TË AKTGJYKIMIT REV. NR. 184/2008 TË DATËS 27 JANAR 2009 TË GJYKATËS SUPREME TË R. SË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2976",
+   "versions": [
+    {
+     "from": "2011-04-01",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2976",
+     "sha256": "d892d8219e435748ddab7796bdaadc909131c0bfc688dd5c9359dbb9e7aede38"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-2977",
+   "path": "aktvendim/2011/2977",
+   "short": "KI_02/10 RK 96/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 02/10 PARASHTRUESI ROLAND BARTETZKO VLERËSIM I KUSHTETUTSHMËRISË TË VENDIMIT TË GJYKATËS SUPREME TË KOSOVËS, AP-KZ 181/2002, TË 12 NËNTORIT 2002",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2977",
+   "versions": [
+    {
+     "from": "2011-04-14",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2977",
+     "sha256": "682744c046a018249609e9c2a5ade974c103e80ae0efaa46dd11ab65e219e2b3"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-2979",
+   "path": "aktvendim/2011/2979",
+   "short": "KI_28/10",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 28/10 PARASHTRUESI FAIK AZEMI VLERËSIM I KUSHTETUTSHMËRISË TË VENDIMIT TË GJYKATËS SË QARKUT NË PRISHTINË, AC. NR. 5/2010, I 4 MARSIT 2010, DHE TË VENDIMIT TË...",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2979",
+   "versions": [
+    {
+     "from": "2011-04-14",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2979",
+     "sha256": "d2c0cee3a24e278b0e1a6c53453a526a5aa9a9089d587465974b13f96ccf3cc5"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-2981",
+   "path": "aktvendim/2011/2981",
+   "short": "KI_33/10",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 33/10 PARASHTRUES AZIZ SEFEDINI VLERËSIM I KUSHTETUTSHMËRISË TË VENDIMIT NR. 03.V-165 TË 17.09.2009 TË KUVENDIT TË REPUBLIKËS SË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2981",
+   "versions": [
+    {
+     "from": "2011-04-14",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2981",
+     "sha256": "d11ed66d1ee0dc51321d17d31fb2603e1c10d07a445dc9cc9e129ddccd4bd765"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-2982",
+   "path": "aktvendim/2011/2982",
+   "short": "KI_34/10",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 34/10 PARASHTRUESI BISLIM KOSUMI VS. GJYKATËS KOMUNALE NË PODUJEVË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2982",
+   "versions": [
+    {
+     "from": "2011-04-14",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2982",
+     "sha256": "1b3861859c5c537fd085f1d3a62728bfe0a1da14012ed03ff0bc13f07ffb2e66"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-2985",
+   "path": "aktvendim/2011/2985",
+   "short": "KI_62/10",
+   "title": "AKTVENDIM PËR PAPRANUESHMERI NË RASTIN NR. KI 62/10 PARASHTRUESI AZEM ADEMI KUNDËR MINISTRIA E DREJTËSISË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2985",
+   "versions": [
+    {
+     "from": "2011-04-14",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2985",
+     "sha256": "df20179e434ccb4d1fb9d505cef6c09ac92b054d30ae0c1eb1d68485c856daf4"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-2986",
+   "path": "aktvendim/2011/2986",
+   "short": "KI_65/09",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI. 65/09 PARASHTRUESJA E KËRKESËS ZEJNI SELIMI KËRKON VLERËSIMIN E KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS, A. NR. 727/2009",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2986",
+   "versions": [
+    {
+     "from": "2011-04-14",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2986",
+     "sha256": "68c1a09a07c9e4267884389208c2fc2b291a272d6e4cffbe4ee429cb50ec58c5"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-2987",
+   "path": "aktvendim/2011/2987",
+   "short": "KI_72/10",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 72/10 PARASHTRUESI AGEF GMBH PËRMES PËRFAQËSUESVE TË AUTORIZUAR VLERËSIM I KUSHTETUTSHMËRISË TË VENDIMIT TË KUVENDIT KOMUNAL TË PRISHTINËS NR. 353-1297...",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2987",
+   "versions": [
+    {
+     "from": "2011-04-14",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2987",
+     "sha256": "f907b8a0fe31dc1787272bcf13bba2f3f3845da1d73bfc0e3fdc7fb2fa604dbb"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-2989",
+   "path": "aktvendim/2011/2989",
+   "short": "KI_50/10",
+   "title": "AKTVENDIM PËR PAPRANUSHMËRI NË RASTIN NR KI 50/10 PARASHTRUESI ALIL MEMEDOVIQ VLERËSIMI I KUSHTETUTSHMËRISË TË AKTGJYKIMIT TË GJYKATËS SË QARKUT PRISHTINË P.NR. 49/2006 TË 30.8.2006, DHE AKTGJYKIMIT TË GJYKATËS SUP...",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2989",
+   "versions": [
+    {
+     "from": "2011-04-29",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2989",
+     "sha256": "551c5b5d4c47198201b6e746d87b31594b6cfe19bb6ace4491e03c35b2d1d71e"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-2990",
+   "path": "aktvendim/2011/2990",
+   "short": "KI_10/10",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 10/10 PARASHTRUESI ZVEZDANA DIMITRIJEVIĆ VLERËSIM I KUSHTETUTSHMËRISË TË VENDIMIT, TË DHOMËS SË POSAÇME TË GJYKATËS SUPREME TË KOSOVËS, SCEL-09-0001 TË 8 JANARIT 2010",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2990",
+   "versions": [
+    {
+     "from": "2011-05-13",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2990",
+     "sha256": "6f33ec7c2b641c6d6fd0fe47c64138d9618239a33af2a4c42cb27219198f04af"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-2993",
+   "path": "aktvendim/2011/2993",
+   "short": "KI_34/09",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 34/09 PARASHTRUESI IMER IBRIQAJ VLERËSIM I KUSHTETUTSHMËRISË TË VENDIMIT TË KUVENDIT TË REPUBLIKËS SË KOSOVËS, NR. 03V-115, TË 4 QERSHORIT 2009",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2993",
+   "versions": [
+    {
+     "from": "2011-05-17",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2993",
+     "sha256": "f8e6ed64dcd36fa5aafc39cd427bf0620163f274a341737361a9264e30b6bc51"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-2994",
+   "path": "aktvendim/2011/2994",
+   "short": "KI_55/10",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 55/10 PARASHTRUESJA HAMIDE OSAJ VLERËSIM I KUSHTETUTSHMËRISË TË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS, PKL. NR. 43/2010, I DATËS 4 QERSHOR 2010",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2994",
+   "versions": [
+    {
+     "from": "2011-05-17",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2994",
+     "sha256": "3375ad712916ca0718d0e093fad440928aef507a1e7da2c5a4a017ad8ac3b9c8"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-2999",
+   "path": "aktvendim/2011/2999",
+   "short": "KI_114/10",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 114/10 PARASHTRUES VAHIDE BADIVUKU VLERËSIM I KUSHTETUTSHMËRISË TË NJOFTIMIT TË KËSHILLIT GJYQËSOR TË KOSOVËS PËR RIEMËRIMIN E GJYQTARËVE DHE PROKURORËVE...",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2999",
+   "versions": [
+    {
+     "from": "2011-06-15",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2999",
+     "sha256": "fa07c26af883734575d6091ab13e53e0d82a3cc0404672fd086615c0e24857a0"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-3000",
+   "path": "aktvendim/2011/3000",
+   "short": "KI_124/10",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 124/10 PARASHTRUESI SHKURTE KRASNIQI VLERËSIM I KUSHTETUTSHMËRISË TË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS A.NR. 771/2010, TË DATËS 27 TETOR 2010",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3000",
+   "versions": [
+    {
+     "from": "2011-06-21",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3000",
+     "sha256": "9dbc1a134f0e8d3d07e5e1fdeab32d8133ba5c840fdf818dd8fc939ada20b159"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-3005",
+   "path": "aktvendim/2011/3005",
+   "short": "KI_18/10",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 18/10 PARASHTRUESIT Z. DENIC D. MLADEN DHE Z. VITKOVIC-DENIQ D. MILORAD VLERËSIM I KUSHTETUTSHMËRISË TË VENDIMIT TË GJYKATËS SUPREME TË KOSOVËS, CML. – GZZ. NR. 36/2007...",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3005",
+   "versions": [
+    {
+     "from": "2011-09-19",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3005",
+     "sha256": "72f1caddee3323d749d13da81b2b25c93a4d5ae3fe9ea35b091aea3ece638c98"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-3006",
+   "path": "aktvendim/2011/3006",
+   "short": "KI_21/10",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 21/10 PARASHTRUESI ARTA HYSENI VENDIMIT TË GJYKATËS SUPREME TË KOSOVËS A NR. 1030/2009, TË 12 SHKURTIT 2010",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3006",
+   "versions": [
+    {
+     "from": "2011-09-19",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3006",
+     "sha256": "9265188cb7eb706c92fc4ed30a8cfa216b612de450e210e31ca86872fda36ba2"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-3007",
+   "path": "aktvendim/2011/3007",
+   "short": "KI_57/09",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI57-09 PARASHTRUES AGRON VULA VLERËSIM I KUSHTETUTSHMËRISË SË VENDIMIT TË KOMUNËS SË GJAKOVËS PËR MOSZBATIMIN E VENDIMIT TË KËSHILLIT TË PAVARUR MBIKËQYRËS, TË 25 SHKURTIT 2008",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3007",
+   "versions": [
+    {
+     "from": "2011-09-19",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3007",
+     "sha256": "78a3a8a826c155c907f1734c343632cb922dc1c639823cac7b847d75cc0d2b02"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-3008",
+   "path": "aktvendim/2011/3008",
+   "short": "KI_63/09",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI-63/09 PARASHTRUESI BAJRAM SANTURI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS KOMUNALE NË PRIZREN C. NR. 368/2000, TË 8 MAJIT 2003, AKTGJYKIMIT TË GJ...",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3008",
+   "versions": [
+    {
+     "from": "2011-09-19",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3008",
+     "sha256": "bd72465ea8218426ea7ecc18e01161ae5786ae4f613b1d772c2a08ba42f56c5b"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-3009",
+   "path": "aktvendim/2011/3009",
+   "short": "KI_87/10",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 87/10 PARASHTRUESI SHPRESA LOXHA-PLLANA VLERËSIM I KUSHTETUTSHMËRISË TË VENDIMIT TË GJYKATËS KOMUNALE TË PEJËS, C.NR. 644/06, TË 1 KORRIKUT 2008.",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3009",
+   "versions": [
+    {
+     "from": "2011-09-19",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3009",
+     "sha256": "a737d6ca3acbe7d62b110e362e898bfa1d35b0b65d987244fab021fb887ec11b"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-3011",
+   "path": "aktvendim/2011/3011",
+   "short": "KI_100/10",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI-100/10 PARASHTRUESI EDUARD THAQI (GJITHASHTU I NJOHUR SI SOKOL THAQI) VLERËSIM I KUSHTETUTSHMËRISË SË VENDIMIT TË POLICISË SË KOSOVËS, NR. 398-SHPK-2002, TË 22 TETORIT 2002",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3011",
+   "versions": [
+    {
+     "from": "2011-10-12",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3011",
+     "sha256": "00cc964c0887a371ba082cce7bde8235b9aa142bfa8a2614e135e9b252144c5e"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-3012",
+   "path": "aktvendim/2011/3012",
+   "short": "KI_106/10",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 106-10 PARASHTRUES BINAK THAQI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME P. NR. 610/07; AKTGJYKIMIT TË GJYKATËS SUPREME AP. NR. 267/08; AKTGJYKIMIT TË...",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3012",
+   "versions": [
+    {
+     "from": "2011-10-12",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3012",
+     "sha256": "5be8547a153a7492baa16f86b243fdff63334df56866a1bd8d919cef5e91008e"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-3013",
+   "path": "aktvendim/2011/3013",
+   "short": "KI_36/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI36/11 PARASHTRUES ARJETA HALIMI VLERËSIMI I KUSHTETUTSHMËRISË TË MOS-PËRMBARIMIT TË PRETENDUAR TË AKTGJYKIMIT...",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3013",
+   "versions": [
+    {
+     "from": "2011-10-12",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3013",
+     "sha256": "6735ed0598bbf998188206a88773760614827f32d7f2ece19cafef0a0518779a"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-3014",
+   "path": "aktvendim/2011/3014",
+   "short": "KI_69/10",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 69/10 PARASHTRUES VEHBI HALILI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME, REV. NR. 5/2004, TË 10 SHKURTIT 2004",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3014",
+   "versions": [
+    {
+     "from": "2011-10-12",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3014",
+     "sha256": "6d8b153e77005448dc99a2f8e07d40af5903b560aeb124265b9c675f1608cd8d"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-3015",
+   "path": "aktvendim/2011/3015",
+   "short": "KI_12/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 12/11 PARASHTRUES AMRUSH REXHEPI VLERËSIM I KUSHTETUTSHMËRISË TË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS REV. NR. 256/08 TË 15 NËNTORIT 2010",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3015",
+   "versions": [
+    {
+     "from": "2011-10-13",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3015",
+     "sha256": "528a32624c6753e5fd2d793a97cc35bc5a4c769e3526a1dd929620da0cea0e2f"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-3016",
+   "path": "aktvendim/2011/3016",
+   "short": "KI_35/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI-35/11 PARASHTRUES UNIONI I BOSHNJAKËVE TË KOSOVËS VLERËSIM I KUSHTETUTSHMËRISË TË AKTVENDIMIT TË GJYKATËS SUPREME TË KOSOVËS A-U. NR. 415/2010 TË 27 MAJIT 2010",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3016",
+   "versions": [
+    {
+     "from": "2011-10-13",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3016",
+     "sha256": "b1421b22f0e7e638a6499769ef3802bd34fe425a67b186a4d4e7c5dce35bb941"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-3018",
+   "path": "aktvendim/2011/3018",
+   "short": "KI_43/10",
+   "title": "AKTVENDIM PËR PAPRANUSHMËRI NË RASTIN NR. KO 43/10 PARASHTRUESI LDK-AAK-LDD, KK-PRIZREN VLERËSIM I KUSHTETUTSHMËRISË TË AKTEVE JURIDIKE TË NXJERRA NGA KRYETARI I KOMUNËS SË PRIZRENIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3018",
+   "versions": [
+    {
+     "from": "2011-11-02",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3018",
+     "sha256": "79ca374194c0d5f38d6ff1c3431f5790ec1aa658ae088c437d9e898cda5febbb"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-3020",
+   "path": "aktvendim/2011/3020",
+   "short": "KI_52/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI52/11 PARASHTRUES X VLERËSIMI I KUSHTETUTSHMËRISË SË NJË AKTGJYKIMI TË GJYKATËS SUPREME TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3020",
+   "versions": [
+    {
+     "from": "2011-11-04",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3020",
+     "sha256": "9f37fb7de31906d81888ae66dc471b4d10d0c82d4199c1016ba722a7c2a8fca5"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-3021",
+   "path": "aktvendim/2011/3021",
+   "short": "KI_58/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 58/11 PARASHTRUESI SYLË SHLIVOVA VLERËSIM I KUSHTETUTSHMËRISË TË AKTVENDIMIT TË GJYKATËS SUPREME TË KOSOVËS REV. NR. 82/2002, TË 21 GUSHTIT 2002",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3021",
+   "versions": [
+    {
+     "from": "2011-11-04",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3021",
+     "sha256": "89094224310a82d886fac3c649e50d0b43377e3c7b00e7da84b18dc77a4b4d53"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-3022",
+   "path": "aktvendim/2011/3022",
+   "short": "KI_105/10",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 105/10 PARASHTRUES MURIS ALOMEROVIĆ VLERËSIM I KUSHTETUTSHMËRISË TË AKTGJYKIMEVE TË GJYKATËS SUPREME TË KOSOVËS A. NR. 198/2009, TË 17 KORRIKUT 2009 DHE MIA NR. 7/2009...",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3022",
+   "versions": [
+    {
+     "from": "2011-11-17",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3022",
+     "sha256": "4d2d15801717bfd08b744d7ae61b0961d475a7a4437aa1ef1897756e3fda5652"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-3023",
+   "path": "aktvendim/2011/3023",
+   "short": "KI_38/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 38/11 PARASHTRUESI BEJTA VITIJA VLERËSIM I KUSHTETUTSHMËRISË SË VENDIMIT TË DEPARTAMENTIT TË ADMINISTRATËS PENSIONALE NË KUADËR TË M. SË PUNËS DHE MIRËQENIES SOCIALE...",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3023",
+   "versions": [
+    {
+     "from": "2011-11-17",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3023",
+     "sha256": "740283de566d1029f0fcb212d3dd863554a4ae1a5ca84f3c762d221a0a93c658"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-3024",
+   "path": "aktvendim/2011/3024",
+   "short": "KI_70/10",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 70/10 PARASHTRUESI FATIME KABASHI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS REV. NR. 28/2010, TË DATËS 30 QERSHOR 2010",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3024",
+   "versions": [
+    {
+     "from": "2011-11-17",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3024",
+     "sha256": "00e4852c1033bc36c34b2f048b191039fba83451fa6cd9a93b10dd547006e4dd"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-3025",
+   "path": "aktvendim/2011/3025",
+   "short": "KI_86/10",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 86/10 PARASHTRUESIT ZORA PALIÇ DHE PASHKO PALIÇ VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS REV.NR. 218/2006, TË DATES 15 MAJ 2008...",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3025",
+   "versions": [
+    {
+     "from": "2011-11-17",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3025",
+     "sha256": "727e60b92f3f62e3936ed3d71d82914432abd1be4729270445b8a6dd0c5cd320"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-3026",
+   "path": "aktvendim/2011/3026",
+   "short": "KI_01/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 01/11 PARASHTRUESI NDËRMARRJA PRIVATE “GRAĐEVINAR” VLERËSIMI I KUSHTETUTSHMËRISË TË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS AE -PŽ NR.21/2008, TË 15 KORRIKUT 2010",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3026",
+   "versions": [
+    {
+     "from": "2011-12-06",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3026",
+     "sha256": "c5ac3fc26eb1222942a837b50f568d6e2f9b0f7996de3e58308b5d1a2cdb6dbb"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-3027",
+   "path": "aktvendim/2011/3027",
+   "short": "KI_113/10",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 113/10 PARASHTRUESI ILMI RAKOVICA VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SË QARKUT NË PRISHTINË, P.NR. 529/06...",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3027",
+   "versions": [
+    {
+     "from": "2011-12-06",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3027",
+     "sha256": "b759fde9b17fc8d6d9e215346a13b8ce9f61754a1efd76dcdbb18326a7e02a66"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-3028",
+   "path": "aktvendim/2011/3028",
+   "short": "KI_118/10 RK 160/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTI NR. KI 118-10 PARASHTRUESI SHOQATA E SIGURIMEVE TË KOSOVËS VLERËSIM I KUSHTETUTSHMËRISË SË NENIT 14.1.7 TË LIGJIT NR. 03/L-179 PËR KRYQIN E KUQ TË REPUBLIKËS SË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3028",
+   "versions": [
+    {
+     "from": "2011-12-06",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3028",
+     "sha256": "7d3c3a13684276c75ac2ae9825f9e63663683f6aa273c42657c21e0dc194a428"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-3029",
+   "path": "aktvendim/2011/3029",
+   "short": "KI_19/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 19/11 PARASHTRUESI L. H. VLERËSIM I KUSHTETUTSHMËRISË SË VENDIMIT TË GJYKATËS KOMUNALE NË PEJË, C. NR. 271/10, TË 7.10.2010",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3029",
+   "versions": [
+    {
+     "from": "2011-12-06",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3029",
+     "sha256": "9f37ca1922de90408ac733fe9a70e5062ea4182e030d8878f609f7ab65e33b7a"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-3030",
+   "path": "aktvendim/2011/3030",
+   "short": "KI_24/09",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 24/09 PARASHTRUESI SHAQIR PREVETICA VLERËSIM I KUSHTETUTSHMËRISË SË VENDIMIT CI. NR. 46/02 TË GJYKATËS KOMUNALE TË PRISHTINËS, TË DATËS 10 SHTATOR 2002...",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3030",
+   "versions": [
+    {
+     "from": "2011-12-06",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3030",
+     "sha256": "cdad57e00e3210112ff1785bf22af49b0ab3bff2aa71723c6221882df79715d2"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-3031",
+   "path": "aktvendim/2011/3031",
+   "short": "KI_40/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTI NR. KI 40/11 PARASHTRUESI ZEF PRENAJ VLERËSIM I KUSHTETUTSHMËRISË TË UDHËZIMIT ADMINISTRATIV NR. 11/2010 PËR PAGESËN E PENSIONIT THEMELOR, TË NXJERRË NGA MINISTRIA E PUNËS DHE M...",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3031",
+   "versions": [
+    {
+     "from": "2011-12-06",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3031",
+     "sha256": "6f8027e3a5ace21adfa3f8cd429555c28d91bc2a22ab6a9e9b6a27ee57dabd77"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-3032",
+   "path": "aktvendim/2011/3032",
+   "short": "KI_67/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMERI NË RASTIN NR. KI 67/11 PARASHTRUESI Z. SELIM BERISHA VLERËSIMI I KUSHTETUTSHMËRISË TË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS A.NR.85/2011, TË 31 MARSIT 2011",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3032",
+   "versions": [
+    {
+     "from": "2011-12-06",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3032",
+     "sha256": "dcf1292cc796ef0c1aa23a386c7523748f2bd8eadfda3a33b407282b03659b35"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-3033",
+   "path": "aktvendim/2011/3033",
+   "short": "KI_72/11",
+   "title": "ATKVENDIM PËR PAPRANUESHMËRI NË RASTI NR. KI-72/11 PARASHTRUESI ELMI DRAGUSHA VLERËSIM I KUSHTETUTSHMËRISË TË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS REV. NR. 185/2008, TË DATËS 6 JANAR 2011",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3033",
+   "versions": [
+    {
+     "from": "2011-12-06",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3033",
+     "sha256": "e6d0d41bc670e34f1eaa14f8e36e52a738995829ba969bb19c215c6716a64e9a"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-3034",
+   "path": "aktvendim/2011/3034",
+   "short": "KI_77/10",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI77/10 PARASHTRUESI PRENK SHLLAKU VLERËSIM I KUSHTETUTSHMËRISË SË VENDIMIT TË QEVERISË SË REPUBLIKËS SË KOSOVËS NR. 9/128, TË DATËS 11 QERSHOR 2010",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3034",
+   "versions": [
+    {
+     "from": "2011-12-06",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3034",
+     "sha256": "467a1018d94bd9fe67a24dfaeb7bd212e19ae120a52e2acb8f7004291da2ad85"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-3036",
+   "path": "aktvendim/2011/3036",
+   "short": "KI_116/10",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 116/10 PARASHTRUESI LON PALUCA VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS, REV. NR. 286/2007, DATË 6 MAJ 2010",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3036",
+   "versions": [
+    {
+     "from": "2011-12-12",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3036",
+     "sha256": "c0d8b0279efb05307d6323495c22f31b7e904ba47fb553a9de5722981f9784b3"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-3037",
+   "path": "aktvendim/2011/3037",
+   "short": "KI_16/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 16-11 PARASHTRUESI SHEMSEDIN ADEMI VLERËSIM I KUSHTETUTSHMËRISË SË UDHËZIMIT ADMINISTRATIV NR. 14/2009 PËR REGJISTRIMIN E AUTOMJETEVE, TË 14 SHTATORIT 2009",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3037",
+   "versions": [
+    {
+     "from": "2011-12-12",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3037",
+     "sha256": "2b662d42f4debe948fa858c18271035c784be4866dc28498212e146173f876d4"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-3039",
+   "path": "aktvendim/2011/3039",
+   "short": "KI_34/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 34/11 PARASHTRUES SAMI BUNJAKU VLERËSIM I KUSHTETUTSHMËRISË SË VENDIMIT TË KOLEGJIT GJYQËSOR TË DHOMËS SË POSAÇME TË GJYKATËS SUPREME SCC 10-0079, TË 21 JANARIT 2011...",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3039",
+   "versions": [
+    {
+     "from": "2011-12-12",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3039",
+     "sha256": "a8ebc1ea2b8f6bb13bd6c3773e6bd4c95be6f1c2b08b6fa4f67d0e054267f5d2"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-3041",
+   "path": "aktvendim/2011/3041",
+   "short": "KI_48/10",
+   "title": "AKTVENDIM PËR PAPRANUSHMËRI NË RASTIN NR. KI48/10 PARASHTRUESI NASER REXHEPI VLERËSIM I KUSHTETUTSHMËRISË SË VENDIMIT TË GJYKATËS EKONOMIKE TË QARKUT VI.C.NR 54/2003, TË15 PRILLIT 2003; DHE VENDIMEVE TË GJ. SUP. TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3041",
+   "versions": [
+    {
+     "from": "2011-12-12",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3041",
+     "sha256": "8df6dcf89f7f4a383b98cc884e576c1f9350babcc1c75d8b79e9c2d0dbb3e05f"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-3042",
+   "path": "aktvendim/2011/3042",
+   "short": "KI_91/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 91/11 PARASHTRUESI XHEVRIJE HALITI KËRKESA PËR VLERËSIMIN E KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS REV.NR.588/2008 I DATËS 14.4.2011",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3042",
+   "versions": [
+    {
+     "from": "2011-12-12",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3042",
+     "sha256": "2bc1fc342927d8412e18fb225319d91957f9f10afec73014c3d8e68231936665"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-3046",
+   "path": "aktvendim/2011/3046",
+   "short": "KI_102/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 102/11 PARASHTRUESJA SHAHE RAMAJ KUNDËR QEVERISË SË REPUBLIKËS SË KOSOVËS, MINISTRISË SË SHËNDETËSISË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3046",
+   "versions": [
+    {
+     "from": "2011-12-28",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3046",
+     "sha256": "b8e2a66c6cd819b144a543fdb5e78456bc3b6c23a7353e7dadf440b98b2551c3"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-3047",
+   "path": "aktvendim/2011/3047",
+   "short": "KI_121/10",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 121/10 PARASHTRUES SITARAM CHAULAGAI, KRISHNA BANDUR CHAMLAGAI, CHANDRA KALA CHAUHAN, DHE HOM BAHADUR BATTARAI...",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3047",
+   "versions": [
+    {
+     "from": "2011-12-28",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3047",
+     "sha256": "834ff23f5912396b9c3a0f1b5fc0368448da9e6c1f6c7f4fe22bc003d5479abc"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-3048",
+   "path": "aktvendim/2011/3048",
+   "short": "KI_17/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 17/11 PARASHTRUESIT SHEFKAT PERDIBUKA DHE SUHEJLA MORINA VLERËSIMI I KUSHTETUTSHMËRISË SË AKTVENDIMIT TË GJYKATËS SUPREME TË KOSOVËS...",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3048",
+   "versions": [
+    {
+     "from": "2011-12-28",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3048",
+     "sha256": "f4f5610042b7adb2de795909e9ae2761a387f0ea7584cd9f58e34f6e96a84376"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-3049",
+   "path": "aktvendim/2011/3049",
+   "short": "KI_39/10",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 39/10 PARASHTRUESI BUJAR LUZHA KUNDËR DREJTORISË SË URBANIZMIT, KADASTRËS DHE MBROJTJES SË MJEDISIT TË KUVENDIT KOMUNAL TË KAÇANIKUT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3049",
+   "versions": [
+    {
+     "from": "2011-12-28",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3049",
+     "sha256": "834ca6e1d9871f388152c92a8ac2fa9b03f42ac24b7afbfeee6b87a70a233943"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-3050",
+   "path": "aktvendim/2011/3050",
+   "short": "KI_42/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 42/11 PARASHTRUESI DEDË BALA VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMEVE TË GJYKATËS KOMUNALE TË PRISHTINËS P. NR. 2630/2006, GJYKATËS SË QARKUT TË PRISHTINËS AP. NR. 242/2007",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3050",
+   "versions": [
+    {
+     "from": "2011-12-28",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3050",
+     "sha256": "60a52607e2dff796d6481809c3e7ebe8a3b8be59d02a05d594e55bfde6c8f70e"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-3051",
+   "path": "aktvendim/2011/3051",
+   "short": "KI_80/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 80/11 PARASHTRUESI LUTFI DERVISHI VLERËSIM I KUSHTETUTSHMËRISË SË VENDIMEVE TË GJYKATËS SË QARKUT NË PRISHTINË: KP. NR. 196/2009 I 8 QERSHORIT 2009; PPS. NR. 02/2009...",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3051",
+   "versions": [
+    {
+     "from": "2011-12-28",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3051",
+     "sha256": "4de2a512745fc1cbc6dd541dcdac49318bc2651a609e975a4654f7537e5fb785"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-3052",
+   "path": "aktvendim/2011/3052",
+   "short": "KI_83/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 83/11 PARASHTRUESI KADRI BYTYQI VLERËSIM I KUSHTETUTSHMËRISË TË URDHRIT TË DHOMËS SË POSAÇME NR. SCEL 09-0009, TË 26 TETORIT 2010",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3052",
+   "versions": [
+    {
+     "from": "2011-12-28",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3052",
+     "sha256": "d7386c0a122a586e0154582f92dfa3716b0bc9a2f0ee29230553cfc1899c2eb0"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-3053",
+   "path": "aktvendim/2011/3053",
+   "short": "KI_84/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI84/11 PARASHTRUESI REXHEP ADEMI VLERËSIM I KUSHTETUTSHMËRISË SË VENDIMIT TË VËRTETUAR TË KOMISIONIT PËR KËRKESA PRONËSORE DHE BANESORE HPPC/REC/101/2008...",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3053",
+   "versions": [
+    {
+     "from": "2011-12-28",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3053",
+     "sha256": "592f2dbed725cf0f5ac7d3e745650e46810316fca0f14afcfc2b78a153a0f94a"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-3054",
+   "path": "aktvendim/2011/3054",
+   "short": "KI_92/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 92/11 PARASHTRUESI MUHAMET BUCALIU VLERËSIM I KUSHTETUTSHMËRISË SË NJOFTIMIT TË PROKURORIT TË SHTETIT KMLC. NR. 37/11, TË 2 QERSHORIT 2011",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3054",
+   "versions": [
+    {
+     "from": "2011-12-28",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3054",
+     "sha256": "e015632069ea559b9cdaf9920ae9b95940ab7f706e9a0f5d830860bf4b0a4fa6"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-3055",
+   "path": "aktvendim/2011/3055",
+   "short": "KI_96/10",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI-96/10 PARASHTRUES NIKOLLË QETTA VLERËSIMI I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS REV. NR. 361/2010, TË 24 PRILLIT 2010...",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3055",
+   "versions": [
+    {
+     "from": "2011-12-28",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3055",
+     "sha256": "359a91c9504927e33f99fe93e85094a20f182da3f66be6e16a790baf8aaac5d7"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2012-3056",
+   "path": "aktvendim/2012/3056",
+   "short": "KI_70/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 70/11 PARASHTRUES: FAIK HIMA MAGBULE HIMA BESTAR HIMA VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME, A. NR. 983/08, TË DATËS 7 SHKURT 2011",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3056",
+   "versions": [
+    {
+     "from": "2012-01-05",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3056",
+     "sha256": "901161f8a10164fe09997efd39b43bd9ad118b8bfcf9a09209a2e01dc2d413ad"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2012-3058",
+   "path": "aktvendim/2012/3058",
+   "short": "KI_115/10",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 115/10 PARASHTRUESI GJOKË DEDAJ VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË DHOMËS SË POSAÇME TË GJYKATËS SUPREME PËR ÇËSHTJET QË LIDHEN ME AGJENCINË KOSOVARE TË MIRËBESIMIT...",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3058",
+   "versions": [
+    {
+     "from": "2012-01-06",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3058",
+     "sha256": "fb24ca328b5696058b7b6cb377efad1102cbffda9ee6606ef234168be44ff5bf"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2012-3059",
+   "path": "aktvendim/2012/3059",
+   "short": "KI_128/10",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 128/10 PARASHTRUESI ARBEN KOMANI VLERËSIM I KUSHTETUTSHMËRISË SË VENDIMIT TË DREJTORISË SË ARSIMIT TË KUVENDIT KOMUNAL TË GJAKOVËS...",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3059",
+   "versions": [
+    {
+     "from": "2012-01-06",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3059",
+     "sha256": "4aae1dc7716a1cd65cbf608511017bb082711d8fe783151eb01d6c373fcf7f29"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2012-3060",
+   "path": "aktvendim/2012/3060",
+   "short": "KI_22/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 22/11 PARASHTRUES BOJANA DENIĆ VLERËSIM I KUSHTETUTSHMËRISË SË VENDIMIT TË PANELIT ZGJEDHOR PËR ANKESA DHE PARASHTRESA, A. NR. 263/2010, TË 12 NËNTORIT 2010",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3060",
+   "versions": [
+    {
+     "from": "2012-01-06",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3060",
+     "sha256": "34999fd291b1c0eeaa1808c6101f05f23384f296f9500f55eb357d720fc51667"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2012-3061",
+   "path": "aktvendim/2012/3061",
+   "short": "KI_30/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMERI NË RASTIN NR. KI 30/11 PARASHTRUESI ILJAZ SHULETA VLERËSIMI I KUSHTETUTSHMËRISË TË AKTGJYKIMIT CI.NR.307/2006 TË GJYKATËS KOMUNALE NË PRISHTINË, TË DATËS 12.02.2007",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3061",
+   "versions": [
+    {
+     "from": "2012-01-06",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3061",
+     "sha256": "ea7f174d3526b3dc79eef975d25835f9bc088326cb72448cbdba8d9257ffb254"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2012-3064",
+   "path": "aktvendim/2012/3064",
+   "short": "KO_117/10",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KO 117/10 PARASHTRUES KRYETARI I KOMUNËS SË HANIT TË ELEZIT, RUFKI SUMA, LIDHUR ME EMRIN E KOMUNËS SË HANIT TË ELEZIT, NË GJUHËN SERBE E NJOHUR SI GJENERAL JANKOVIQ",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3064",
+   "versions": [
+    {
+     "from": "2012-01-16",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3064",
+     "sha256": "e45026ef030c977363ec768cad10427a89a3dfc795d17a5a2547d70a4f727f40"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2012-3065",
+   "path": "aktvendim/2012/3065",
+   "short": "KI_02/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 02/11 PARASHTRUES ESAT KURTALIQI VLERËSIM I KUSHTETUTSHMËRISË SË VENDIMIT TË GJYKATËS KOMUNALE TË FERIZAJIT C. NR. 409/06, TË 7 SHKURTIT 2008",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3065",
+   "versions": [
+    {
+     "from": "2012-01-18",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3065",
+     "sha256": "df9c7e85d4d911b4f839ad9a8123f8145f3e97045a61acd3b09137154214b33d"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2012-3066",
+   "path": "aktvendim/2012/3066",
+   "short": "KI_101/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 101/11 PARASHTRUESI ISMA BUNJAKU VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS PPA NR. 4/2009 TË DATËS 27.4.2011",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3066",
+   "versions": [
+    {
+     "from": "2012-01-18",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3066",
+     "sha256": "018eccab7c8bd26e1691fb6387ff2945bf38423ef81a68ba28a74afb7f7a046a"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2012-3067",
+   "path": "aktvendim/2012/3067",
+   "short": "KI_35/10",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 35/10 PARASHTRUESI SKENDER ZENUNI VLERËSIM I KUSHTETUTSHMËRISË SË VENDIMIT TË GJYKATËS KOMUNALE NË PRIZREN KP NR. 3/2010...",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3067",
+   "versions": [
+    {
+     "from": "2012-01-18",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3067",
+     "sha256": "6905d051a7673c80504049d7397cb72cbd8a6432eed35deec09bd712761a493e"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2012-3068",
+   "path": "aktvendim/2012/3068",
+   "short": "KI_94/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI94/11 PARASHTRUESI LUMNIJE KRASNIQI VLERËSIM I KUSHTETUTSHMËRISË SË VENDIMIT TË KOMISIONIT TË KËRKESAVE BANESORE DHE PRONËSORE HPCC/D/144/2004/C, TË DATËS 27 GUSHT 2004",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3068",
+   "versions": [
+    {
+     "from": "2012-01-25",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3068",
+     "sha256": "9d19fce2af9728a51fa6c861aba02e27f1b0aaf78bb5ca962b3a18088a7a2a82"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2012-3070",
+   "path": "aktvendim/2012/3070",
+   "short": "KI_10/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 10/11 PARASHTRUES NEXHAT RAMADANI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SË QARKUT NË GJILAN P.NR.142/04, TË 19 MAJIT 2005 DHE AKTGJYKIMEVE TË GJYKATËS SUPREME...",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3070",
+   "versions": [
+    {
+     "from": "2012-01-30",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3070",
+     "sha256": "b4a6480253ddeb152cdd06a5830814a05031ecf019bfadb1cbd6c7cdb0f3a944"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2012-3071",
+   "path": "aktvendim/2012/3071",
+   "short": "KI_06/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 06/11 PARASHTRUESI PROF. DR. SHABAN HASI KËRKESË PËR VLERËSIMIN E KUSHTETUTSHMËRISË SË NJOFTIMIT TË SENATIT TË UNIVERSITETIT TË PRISHTINËS, REF. NR 4/449, TË DATËS 03.12.2O10",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3071",
+   "versions": [
+    {
+     "from": "2012-02-13",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3071",
+     "sha256": "bd7606db0781393ae37e9d1c1bef4b9b0db4d62291ff7b90339d6f5ef9b37a85"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2012-3073",
+   "path": "aktvendim/2012/3073",
+   "short": "KI_14/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 14/11 PARASHTRUESI BAKI MUSA VLERËSIMI I KUSHTETUTSHMËRISË SË VENDIMIT TË GJYKATËS SUPREME PZD.NR. 135/2010, TË 21 JANARIT 2011",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3073",
+   "versions": [
+    {
+     "from": "2012-02-13",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3073",
+     "sha256": "c24eff131de0cf283617f74e007152fd4fd9883851fe7e3394c8ed0b6f6aec66"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2012-3074",
+   "path": "aktvendim/2012/3074",
+   "short": "KI_19/09",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 19/09 PARASHTRUES MEHMET LLAPASHTICA KUNDËR VENDIMIT TË GJYKATËS SUPREME TË KOSOVËS, NR. 120/2008, TË 1 JANARIT 2009",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3074",
+   "versions": [
+    {
+     "from": "2012-02-13",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3074",
+     "sha256": "5887b079a7afd0f0ae6d294732bb12dde4fbc2a39e374a999007610e722e8931"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2012-3075",
+   "path": "aktvendim/2012/3075",
+   "short": "KI_43/09",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 43/09 PARASHTRUESI LËVIZJA FOL VLERËSIM I KUSHTETUTSHMËRISË SË PROTOKOLLIT PËR BASHKËPUNIM POLICOR NË MES TË MISIONIT EVROPIAN PËR DREJTËSI DHE SUNDIM TË LIGJIT...",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3075",
+   "versions": [
+    {
+     "from": "2012-02-13",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3075",
+     "sha256": "52a0d04cc2672c0c83b2bf8b76c7ce17e271ef8879c869d181d8523cee1e1efe"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2012-3076",
+   "path": "aktvendim/2012/3076",
+   "short": "KI_54/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 54/11 PARASHTRUESI ADEM QAMILI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME, REV. NR. 11/2002, TË 6 SHKURTIT 2002",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3076",
+   "versions": [
+    {
+     "from": "2012-02-13",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3076",
+     "sha256": "ee13df531d44381a57e3e444c6119a478f6e0286fb430311d3b225084452c1a2"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2012-3078",
+   "path": "aktvendim/2012/3078",
+   "short": "KI_90/10_m",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 90,91,92,93,94 DHE 95/10, TË BASHKUARA ME VENDIMIN UR 90-10-BK/10, TË DATËS 8 TETOR 2010",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3078",
+   "versions": [
+    {
+     "from": "2012-02-13",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3078",
+     "sha256": "25b6fca6cc60f20c6a626f2b1a49838a6dea151ce4da44a50fc83e31223fcd49"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2012-3079",
+   "path": "aktvendim/2012/3079",
+   "short": "KI_128/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTI NR. KI 128/11 PARASHTRUES ISMET BOSHNJAKU VLERËSIM I AKTGJYKIMIT TË GJYKATËS SUPREME (REV. NR. 225/2007), TË 25 SHTATORIT 2007",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3079",
+   "versions": [
+    {
+     "from": "2012-02-15",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3079",
+     "sha256": "149b6993b43834c34efcd347d3db19d0c40b8cea23b614e28de0ad1bd516fb01"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2012-3080",
+   "path": "aktvendim/2012/3080",
+   "short": "KI_30/09",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 30/09 PARASHTRUES AGIM ILIAZ DYLA DHE TË TJERËT VLERËSIM I KUSHTETUTSHMËRISË SË VENDIMIT TË GJYKATËS SUPREME TË KOSOVËS, A. NR. 1360/08, TË 19 QERSHORIT 2009.",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3080",
+   "versions": [
+    {
+     "from": "2012-02-15",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3080",
+     "sha256": "3d41c19216e546297d9d761576c4cf6dc17d9551c10abc3cc32461ce017d43a9"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2012-3081",
+   "path": "aktvendim/2012/3081",
+   "short": "KI_64/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 64/11 PARASHTRUESI FETI GASHI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS, REV. NR. 184/2008, TË 27 JANARIT 2009",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3081",
+   "versions": [
+    {
+     "from": "2012-02-15",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3081",
+     "sha256": "6816744911d28a65dee8e4e94188a3ca37d4730c360c1c10841265ca6a59e5d0"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2012-3082",
+   "path": "aktvendim/2012/3082",
+   "short": "KI_126/10",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 126/10 PARASHTRUESI LULZIM RAMAJ VLERËSIM I KUSHTETUTSHMËRISË SË VENDIMIT TË MINISTRISË SË TRANSPORTIT DHE TELEKOMUNIKACIONIT NR. 140, TË 25 JANARIT 2010",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3082",
+   "versions": [
+    {
+     "from": "2012-02-22",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3082",
+     "sha256": "cb1f748a468f3cd45f93089bbf2aa1f9316c1e9d3c86fcca395214c1d4dd7ee8"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2012-3083",
+   "path": "aktvendim/2012/3083",
+   "short": "KI_23/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 23/11 PARASHTRUES PAJAZIT MULAJ VLERËSIM I KUSHTETUTSHMËRISË SË VENDIMIT TË GJYKATËS KOMUNALE NË GLLOGOC",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3083",
+   "versions": [
+    {
+     "from": "2012-02-22",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3083",
+     "sha256": "6471f74c9998489559f95684dbeea39b649e6f5eacdfe15e4a881922a15ce8f7"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2012-3084",
+   "path": "aktvendim/2012/3084",
+   "short": "KI_03/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMERI NË RASTIN NR. KI 03/11 PARASHTRUESI ORGANIZATA PËR DEMOKRACI, ANTIKORRUPSION DHE DINJITET \"ÇOHU\" E PËRFAQESUAR NGA Z. ARTON DEMHASAJ ME AUTORIZIM TË ORGANIZATËS…",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3084",
+   "versions": [
+    {
+     "from": "2012-03-07",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3084",
+     "sha256": "2e084870974d6daeaad172c2492bb48ba3ecf3ece8356a17fae76fe4656ada95"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2012-3085",
+   "path": "aktvendim/2012/3085",
+   "short": "KI_09/11",
+   "title": "AKTVENDIM PËR PAPRANUSHMERI NË RASTIN NR. KI 09/11 PARASHTRUESI MUSTAFË ALIU VLERËSIM I KUSHTETUTSHMËRISE SË MOSEKZEKUTIMIT TË AKTGJYKIMIT TË GJYKATËS SË QARKUT AC. NR. 1326/2008, TË DATËS 27.02.2009...",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3085",
+   "versions": [
+    {
+     "from": "2012-03-07",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3085",
+     "sha256": "096f2b8d0f9dc8fe2b8f004e015d41f8e426fa5e6650f803fc9ad9e86142443b"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2012-3086",
+   "path": "aktvendim/2012/3086",
+   "short": "KI_107/11",
+   "title": "AKTVENDIM PER PAPRANUESHMERI NË RASTIN NR. KL 107/11 PARASHTRUESI HAMZI BYLYKBASHI E TË TJERËT KERKESA PËR VLERËSIMIN E KUSHTETUTSHMËRISE SË AKTGJYKIMIT TË GJYKATËS SË QARKUT NË PRIZREN AC.NR 293/ 2010 TË DATËS 23.03.2011",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3086",
+   "versions": [
+    {
+     "from": "2012-03-07",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3086",
+     "sha256": "84eebf9494a51f4224dd243f647445e7edbb5796a232b00391446bcb126069ed"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2012-3087",
+   "path": "aktvendim/2012/3087",
+   "short": "KI_37/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMERI NË RASTIN NR. KI 37/11 PARASHTRUESI JALLDYZE KASTRATI VLERËSIMI I KUSHTETUTSHMËRISE SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS REV.NR.S/2008, TË 9 KORRIKUT 2010",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3087",
+   "versions": [
+    {
+     "from": "2012-03-07",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3087",
+     "sha256": "d4f3f109026f4f5bb3c53fcdb48feb4b98d24b7029ee04395224953830cdc481"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2012-3089",
+   "path": "aktvendim/2012/3089",
+   "short": "KI_26/10 RK 96/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 26/10 PARASHTRUES EMIN BEHRAMI VLERËSIM I KUSHTETUESHMËRISË SË VENDIMIT TË GJYKATËS KOMUNALE NË VUSHTRRI, C. NR. 14/2008, TË 10 TETORIT 2008, DHE VENDIMIT TË GJYKATËS KOMUNALE…",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3089",
+   "versions": [
+    {
+     "from": "2012-03-15",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3089",
+     "sha256": "b6507d5a59ed01c931d613a41fbc4ccfee01d084a285a1b6d5dc5fcc940f302c"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2012-3092",
+   "path": "aktvendim/2012/3092",
+   "short": "KI_59/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 59/11 PARASHTRUES ZYFER SAHITOLLI NË LIDHJE ME KUSHTETUTSHMËRINË E AKTGJYKIMIT TË NXJERRË NGA GJYKATA SUPREME E KOSOVËS, SCA 15/07, TË 26 DHJETORIT 2007",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3092",
+   "versions": [
+    {
+     "from": "2012-03-21",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3092",
+     "sha256": "c24b09f419ae4e1eba03a03a406782458e788a89077c6917c73a9677de04ab91"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2012-3093",
+   "path": "aktvendim/2012/3093",
+   "short": "KO_05/12",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KO 05/12 PARASHTRUES VISAR YMERI DHE DYMBËDHJETË DEPUTETË TË TJERE TË KUVENDIT TË REPUBLIKËS SË KOSOVËS LIDHUR ME KUSHTETUTSHMËRINË E VENDIMIT TË KUVENDIT TË REPUBLIKES SË KOSOVËS...",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3093",
+   "versions": [
+    {
+     "from": "2012-03-21",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3093",
+     "sha256": "f45199abe969408efdb8211ff51b57af929edb95ece0f7ae09ab52667348982d"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2012-3094",
+   "path": "aktvendim/2012/3094",
+   "short": "KI_51/10",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 51/10 PARASHTRUES LJUBIŠA ŽIVIĆ VLERËSIM I KUSHTETUTSHMËRISË SË VENDIMIT TË PRESIDENTIT TË REPUBLIKËS SË KOSOVËS PËR EMËRIMIN E Z. GORAN ZDRAVKOVIĆIT...",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3094",
+   "versions": [
+    {
+     "from": "2012-03-27",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3094",
+     "sha256": "7914f2c95e2090ea830ede4d462d51d321b0da84ff279a8fad139d07d1efd19c"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2012-3095",
+   "path": "aktvendim/2012/3095",
+   "short": "KI_109/10",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI-109/10 PARASHTRUES ISMET HEBIBI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SË QARKUT NË PEJË, AC. NR. 317/07, TË 12 NËNTORIT 2008",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3095",
+   "versions": [
+    {
+     "from": "2012-03-30",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3095",
+     "sha256": "cc6eb68bf642620cdd27e58bddb690b3613bddaacf385a994bb891a93462c80a"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2012-3097",
+   "path": "aktvendim/2012/3097",
+   "short": "KI_132/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI-132/11 PARASHTRUES SABILE SOPJANI VLERËSIM I KUSHTETUTSHMËRISË TË AKTGJYKIMIT TË GJYKATËS SË QARKUT NË PRISHTINË AC. NR. 601/02, TË 15 SHTATORIT 2004",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3097",
+   "versions": [
+    {
+     "from": "2012-04-05",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3097",
+     "sha256": "8e869c277dc722c7d704f6a5196ef63513331fdd106786818eeb8c2a5a7494bb"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2012-3098",
+   "path": "aktvendim/2012/3098",
+   "short": "KI_20/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTET NR. KI 20/11 DHE KI 96/11 PARASHTRUES KUSHTRIM KQIKU VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS KOMUNALE NË GJILAN P. NR. 550/08, TË 9 KORRIKUT 2009...",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3098",
+   "versions": [
+    {
+     "from": "2012-04-05",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3098",
+     "sha256": "4476f32dc688ad481e6c80e16ff7140388871aa16661d8ed64709fbbb8957600"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2012-3099",
+   "path": "aktvendim/2012/3099",
+   "short": "KI_112/10",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 112/10 PARASHTRUESI NIKOLLË KABASHI VLERËSIM I KUSHTETUTSHMËRISË TË DEKRETEVE TË USHTRUESIT TË DETYRËS SË PRESIDENTIT TË REPUBLIKËS SË KOSOVËS...",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3099",
+   "versions": [
+    {
+     "from": "2012-04-18",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3099",
+     "sha256": "be0c732d2e2a172435fb58e4a1cd7163e5807e380f39a9d0d841a61bab818cf0"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2012-3100",
+   "path": "aktvendim/2012/3100",
+   "short": "KI_86/11",
+   "title": "ATKVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 86/11 PARASHTRUESI MILAIM BERISHA KËRKESA PËR VLERËSIMIN E KUSHTETUTSHMËRISË TË: AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS REV.NR 20/09 TË DATËS 1.3.2011.",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3100",
+   "versions": [
+    {
+     "from": "2012-04-18",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3100",
+     "sha256": "90c1101766993134295a1c8945e16511beb7f16255bf049e93a0981291f435e6"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2012-3101",
+   "path": "aktvendim/2012/3101",
+   "short": "KI_98/10",
+   "title": "AKTVENDIMI PËR PAPRANUESHMËRI NË RASTIN NR. KI 98/10 PARASHTRUESI AVOKATI I POPULLIT I REPUBLIKËS SË KOSOVËS VLERËSIMI I KUSHTETUTSHMËRISË SË VENDIMEVE 01 NR. 06/837, TË DATËS 16 PRILL 2009, DHE NPI-01/132...",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3101",
+   "versions": [
+    {
+     "from": "2012-04-18",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3101",
+     "sha256": "f8d9517903d28862e8d5d1556de7128e97de263b5d553af8495ec858b3a0af10"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2012-3103",
+   "path": "aktvendim/2012/3103",
+   "short": "KI_131/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI-131/11 PARASHTRUESIT: QAZIM GASHI, FADIL GASHI, AGIM GASHI DHE ALI KELMENDI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS REV. NR. 197/2010...",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3103",
+   "versions": [
+    {
+     "from": "2012-04-23",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3103",
+     "sha256": "05fd903bfc29702f13260cd2995caf22c15f5066477adc0706c6b54459183848"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2012-3104",
+   "path": "aktvendim/2012/3104",
+   "short": "KI_139/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 139/11 PARASHTRUES ALI LATIFI VLERËSIM I KUSHTETUTSHMËRISË SË NJOFTIMIT TË KËSHILLIT GJYQËSOR TË KOSOVËS PËR RIEMËRIMIN E GJYQTARËVE DHE PROKURORËVE...",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3104",
+   "versions": [
+    {
+     "from": "2012-04-23",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3104",
+     "sha256": "f9818c6e4a439e13de1fdd3b963c25a3a9d4fd74f0847229ed526a127c25ff49"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2012-3105",
+   "path": "aktvendim/2012/3105",
+   "short": "KI_147/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 147/11 PARASHTRUES MARIA STRUGARI VLERËSIM I KUSHTETUTSHMËRISË SË VENDIMIT TË GJYKATËS SË LARTË PËR KUNDËRVAJTJE NË PRISHTINË, GJL. NR. 1288/2011...",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3105",
+   "versions": [
+    {
+     "from": "2012-04-23",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3105",
+     "sha256": "174c9472f2e5b9314a5b83967897a67e13944c627a44636481e9af2c212776e7"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2012-3106",
+   "path": "aktvendim/2012/3106",
+   "short": "KI_106/11_m",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTET NR. KI 106/11, KI 110/11, KI 115/11 DHE KI 116/11 PARASHTRUES NEKI MYHA DHE NIJAZI XHARAVINA VLERËSIM I KUSHTETUTSHMËRISË SË VENDIMEVE TË GJYKATËS SË QARKUT NË PEJË...",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3106",
+   "versions": [
+    {
+     "from": "2012-04-25",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3106",
+     "sha256": "64e6529ac771ec17c6e741ebeca0e653fbb5157bcfd84b1dba9ae2e5c8a8cfd0"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2012-3107",
+   "path": "aktvendim/2012/3107",
+   "short": "KI_77/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 77/11 PARASHTRUESI MUSTAFA MAZREKU VLERËSIMI I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS REV.NR.330/2008...",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3107",
+   "versions": [
+    {
+     "from": "2012-04-25",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3107",
+     "sha256": "70a358210ad5f9088b02c30d7c88690be6ef7ea7b8b122ed30b85db24f9ce5ed"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2012-3108",
+   "path": "aktvendim/2012/3108",
+   "short": "KI_01/10",
+   "title": "ATKVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 01/10 PARASHTRUESI GANI IBËRDEMAJ VLERËSIM I KUSHTETUTSHMËRISË TË VENDIMIT TË GJYKATËS SË QARKUT NË PRISHTINË AC. NR. 1224/09...",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3108",
+   "versions": [
+    {
+     "from": "2012-05-11",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3108",
+     "sha256": "59d92cdd737e086f8bad06c630146e11d1f9b9dbd861b637207ace386feabb63"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2012-3109",
+   "path": "aktvendim/2012/3109",
+   "short": "KI_08/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI-08/11 PARASHTRUES TË KËRKESËS MALUSH SOPA, SEDAT KUQI, FAZLI MORINA, RRAHMAN KABASHI DHE LIMAN GASHI KUNDËR AUTORITETIT TË PANJOHUR PUBLIK",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3109",
+   "versions": [
+    {
+     "from": "2012-05-11",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3109",
+     "sha256": "f8c80d192c283bc7f3c74aae3c6b78fb02dc07bb14628deea8b28f71f551bd7b"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2012-3111",
+   "path": "aktvendim/2012/3111",
+   "short": "KI_160/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI160/11 PARASHTRUESI AGJENCIA KOSOVARE E PRIVATIZIMIT VLERËSIM I KUSHTETUTSHMËRISË SË VENDIMIT TË DHOMËS SË POSAÇME TË GJYKATËS SUPREME TË KOSOVËS ASC-09-0106...",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3111",
+   "versions": [
+    {
+     "from": "2012-05-11",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3111",
+     "sha256": "32a5e8cb25cfb971b9865029c3ff907c5047a0469fd14fbaca6fed2a462fdc9c"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2012-3112",
+   "path": "aktvendim/2012/3112",
+   "short": "KI_56/11",
+   "title": "ATKVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 56/11 PARASHTRUESI NP MEDIA PRINT VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS AE. NR. 104/2009",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3112",
+   "versions": [
+    {
+     "from": "2012-05-11",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3112",
+     "sha256": "4a1eb06d02e5418d31734629623253920126cca0e647c6d2d1156151ce5f9c9a"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2012-3113",
+   "path": "aktvendim/2012/3113",
+   "short": "KI_155/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI155/11 PARASHTRUES AVNI SAHITI DHE ANËTARË TË TJERË TË FAMILJES SAHITI...",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3113",
+   "versions": [
+    {
+     "from": "2012-05-21",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3113",
+     "sha256": "406463cf85a4644219217e385fdadd891163b53b1e907ba12f7cfff5c2acfa8f"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2012-3115",
+   "path": "aktvendim/2012/3115",
+   "short": "KI_32/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 32/11 PARASHTRUESI LULZIM RAMAJ KËRKESË PËR NJOHJEN E STATUSIT TË VETERANIT TË UÇK-SË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3115",
+   "versions": [
+    {
+     "from": "2012-05-21",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3115",
+     "sha256": "9291a20a15c5d741462285f5d93979d7781d9cc84ec48e3d871d8f61d65c84fe"
     }
    ]
   },
@@ -13423,6 +15208,21 @@
      "units": 1,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=13163",
      "sha256": "5ef8c52f946c4be8b0f5e3e64871554818c96f6f97d8aba5bcef602a18caf5a7"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2016-13164",
+   "path": "aktvendim/2016/13164",
+   "short": "KI117/15",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI117/15 PARASHTRUES REXHEP LLAPASHTICA VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS, REV. NR. 269/2014, TË 29 JANARIT 2014",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=13164",
+   "versions": [
+    {
+     "from": "2016-12-19",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=13164",
+     "sha256": "cd1356c4263790497483a658580e3c6843cc2b635d5862797b53ef2f571a863e"
     }
    ]
   },
@@ -48962,6 +50762,21 @@
    ]
   },
   {
+   "slug": "vendim-2011-2963",
+   "path": "vendim/2011/2963",
+   "short": "KO_01/09 URDH 27/10",
+   "title": "URDHËR RASTI NR. KO 01/09 QEMAJL KURTISHIT DHE KUVENDIT KOMUNAL TË PRIZRENIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2963",
+   "versions": [
+    {
+     "from": "2010-06-18",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2963",
+     "sha256": "7b7d8d95fa455f5f73624b09f28fa085a0ae12155241b9b8c66f3f3e9d1d8604"
+    }
+   ]
+  },
+  {
    "slug": "vendim-2011-2964",
    "path": "vendim/2011/2964",
    "short": "KO_119/10 MP 79/10",
@@ -50432,6 +52247,36 @@
    ]
   },
   {
+   "slug": "vendim-2016-13148",
+   "path": "vendim/2016/13148",
+   "short": "V-465-292589-(K.Prishtine)",
+   "title": "VENDIM Nr. 465-292589 (Komuna e Prishtinës)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=13148",
+   "versions": [
+    {
+     "from": "2016-12-09",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=13148",
+     "sha256": "cd4a454fc7118514d88aad9715b159af2dc704764588aec643c04fe31da6ef3f"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2017-13470",
+   "path": "vendim/2017/13470",
+   "short": "V-PF-01-464/01-00455333/17-(K.PR)",
+   "title": "VENDIM PËRFUNDIMTAR Nr. 01-464/01-0045333/17 (Komuna e Prishtinës)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=13470",
+   "versions": [
+    {
+     "from": "2017-03-17",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=13470",
+     "sha256": "8beb2406d67691d3ef1c04053b7d75b4800ec90f8d3ed6ac9945d84cd9d615b3"
+    }
+   ]
+  },
+  {
    "slug": "vendim-2017-13543",
    "path": "vendim/2017/13543",
    "short": "KI31/17",
@@ -50698,6 +52543,21 @@
      "units": 1,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=16594",
      "sha256": "a2f676679f73052397add857fe06b6f83afa11e54ae81cc7bc18b13802482ace"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2018-16638",
+   "path": "vendim/2018/16638",
+   "short": "K.GJL-02-580-V",
+   "title": "VENDIM PËRFUNDIMTAR 02-580 (Komuna e Gjilanit)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=16638",
+   "versions": [
+    {
+     "from": "2018-07-09",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=16638",
+     "sha256": "369da92c320dac7138c2a2b5e2de393085c1f8ed0f51993abd584dc41ea025ae"
     }
    ]
   },
