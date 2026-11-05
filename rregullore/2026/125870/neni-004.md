@@ -1,0 +1,3 @@
+# Neni 4
+Misioni i Agjencisë së Metrologjisë së Kosovës
+Misioni i Agjencisë së Metrologjisë së Kosovës (më tutje: AMK) është rregullimi i sistemit të njësive matëse, etalonëve shtetëror për matje, mbrojtjen e konsumatorëve nëpërmjet organizimit të kontrollit të mjeteve matës në fushat e transaksioneve zyrtare dhe tregtare, mbrojtjen e shëndetit, mjedisit dhe sigurisë teknike, kontrollin sasior të para paketimeve si dhe shishet si enë matëse, ofrimin e shërbimeve të kalibrimit prodhuesve dhe përdoruesve të mjeteve matëse, me qëllim të sigurimit të besueshmërisë së matjeve dhe rritjes së konkurrueshmërisë në tregun e brendshëm dhe të jashtëm.

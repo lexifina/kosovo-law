@@ -1,0 +1,14 @@
+# Neni 9
+Divizioni i Masës dhe Matjeve Dimensionale
+1. Divizioni i Masës dhe Matjeve Dimensionale ka për qëllim të sigurojë gjurmueshmërinë, saktësinë dhe besueshmërinë e matjeve në fushat e masës, gjatësisë dhe matjeve dimensionale në Republikën e Kosovës, përmes zhvillimit, mirëmbajtjes dhe kalibrimit të etalonëve shtetërorë, si dhe përmes garantimit të përputhshmërisë me standardet ndërkombëtare, në veçanti ISO/IEC 17025. Divizioni kontribuon në përmirësimin e infrastrukturës metrologjike kombëtare përmes ofrimit të shërbimeve profesionale të kalibrimit, organizimit të trajnimeve dhe pjesëmarrjes aktive në rrjetet metrologjike evropiane dhe ndërkombëtare.
+2. Detyrat dhe përgjegjësitë e Divizionit të Masës dhe Matjeve Dimensionale janë:
+2.1. Përpilimi dhe plotësimi i formës për deklarimin e aftësive matëse dhe kalibruese, njohjen dhe përdorimin e gjurmueshmërisë të etalonëve shtetëror të matjes së madhësive mekanike në fushën e masës, gjatësisë dhe matjeve dimensionale të specifikuara, për të cilat është përgjegjës divizioni;
+2.2. Përgatitja dhe rishikimi i procedurave, instruksioneve dhe dokumenteve e nevojshme të këtij divizioni;
+2.3. Hartimi dhe plotësimi i kërkesave për përgatitjen dhe kalibrimin e etalonëve referent të përdorura në rangun e specifikuar të matjeve në Republikën e Kosovës;
+2.4 Sigurimi i një proces efektiv të gjurmueshmërisë, sistemit të planifikimit, zhvillimit dhe ruajtjes së etalonëve shtetëror të matjes së madhësive të specifikuara fizike, si dhe transmetimi e vlerave të tyre, deri në etalonët e nivelit më të ulët ose të shprehura në formë të rezultateve të matjes, në certifikatë kalibruese;
+2.5. Zhvillimi dhe e mirëmbajtja e sistemit të menaxhimit të cilësisë të laboratorëve kalibrues në përputhje me kërkesat e standardit ISO/IEC 17025 dhe rekomandimet e specialisti të menaxhimit të sistemit të cilësisë;
+6/ 18
+2.6 Lëshimi i certifikatave të kalibrimit për mjetet matëse nga divizioni i lartë cekur sipas hierarkisë së gjurmueshmërisë dhe kërkesave që dalin nga menaxhimi i sistemit të cilësisë të AMK; 2.7.Organizimi i trajnimeve të vazhdueshme për stafin e laboratorëve të kalibrimit, kryesisht në metrologjinë shkencore dhe industriale, dhe në vlerësimin e metodave kalibruese të fushave të madhësive për të cilat divizioni është përgjegjës;
+2.8. Organizimi i krahasimeve ndër laboratorike me laboratorët vendorë të fushave të ngjashme, për vlerësimin e procedurave kalibruese, sipas kërkesave themelore nga sistemi i cilësisë së AMK; 2.9.Pjesëmarrja në aktivitetet përkatëse të Komiteteve Teknike EURAMET, duke përfshirë krahasimet ndër laboratorike bilaterale dhe multilaterale në këtë divizion.
+3. Udhëheqësi i Divizionit të Masës dhe Matjeve Dimensionale raporton tek Drejtori i Departamentit të Metrologjisë Shkencore dhe Industriale.
+4. Numri i të punësuarve në Divizionin për Masë dhe Matje Dimensionale është katër (4).

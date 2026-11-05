@@ -1,0 +1,15 @@
+# Neni 11
+Divizioni i Vëllimit dhe Rrjedhjes
+1.Divizioni i Vëllimit dhe Rrjedhjes ka për qëllim të sigurojë gjurmueshmërinë, saktësinë dhe besueshmërinë e matjeve në fushat e vëllimit dhe rrjedhjes në Republikën e Kosovës, përmes zhvillimit, mirëmbajtjes dhe kalibrimit të etalonëve shtetërorë, si dhe përmes garantimit të përputhshmërisë me standardet ndërkombëtare, në veçanti ISO/IEC 17025. Divizioni kontribuon në përmirësimin e infrastrukturës metrologjike kombëtare përmes ofrimit të shërbimeve profesionale të kalibrimit, organizimit të trajnimeve dhe pjesëmarrjes në rrjetet metrologjike evropiane dhe ndërkombëtare.
+2. Detyrat dhe përgjegjësitë e Divizionit të Vëllimit dhe Rrjedhjes janë:
+2.1.Përpilimi dhe plotësimi i formave për deklarimin e aftësive matëse dhe kalibruese, njohjen dhe përdorimin e gjurmueshmërisë së etalonëve shtetëror të matjes së madhësive mekanike në fushën e vëllimit dhe rrjedhjes të specifikuara për të cilat është përgjegjës divizioni; 2.2.Përgatitja dhe rishikimi i procedurave, instruksioneve dhe dokumenteve te nevojshme të divizioni; 2.3.Përpilimi dhe plotësimi i kërkesave për përgatitjen dhe kalibrimin e etalonëve referent të përdorura në rangun e specifikuar të matjeve në Republikën e Kosovës;
+2.4. Sigurimi i një procesi efektiv të gjurmueshmërisë, sistemit të planifikimit, zhvillimit dhe ruajtjes së etalonëve shtetëror të matjes së madhësive të specifikuara fizike, si dhe transmetimin e vlerave të tyre, deri në etalonët e nivelit më të ulët ose të shprehura në formë të rezultateve të matjes, në certifikatë kalibruese;
+2.5. Zhvillimi dhe e mirëmbajtja e sistemit te menaxhimin të cilësisë të laboratorëve kalibrues në
+8/ 18
+divizionin e vëllimit dhe rrjedhjes në përputhje me kërkesat e standardit ISO/IEC 17025 dhe rekomandimet e specialistit të menaxhimit të sistemit të cilësisë;
+2.6. Lëshimi i certifikatave të kalibrimit për mjetet matëse nga divizionin e vëllimit dhe rrjedhjes sipas hierarkisë së gjurmueshmërisë dhe kërkesave që dalin nga menaxhimi i sistemit të cilësisë të AMK;
+2.7. Organizimi i trajnimeve të vazhdueshme për stafin e tij të laboratorëve të kalibrimit, kryesisht në metrologjinë shkencore dhe industriale, dhe në vlerësimin e metodave kalibruese të fushave të madhësive për të cilat divizioni është përgjegjës;
+2.8. Organizimi i ndër-krahasimeve laboratorike me laboratorët vendor të fushave të ngjashme, për vlerësimin e procedurave kalibruese, sipas kërkesave themelore nga sistemi i cilësisë së AMK;
+2.9. Pjesëmarrja në aktivitetet përkatëse të Komiteteve Teknike EURAMET, duke përfshirë krahasimet ndër-laboratorike bilaterale dhe multilaterale në këtë divizion.
+3. Udhëheqësi i Divizionit të Vëllimit dhe Rrjedhjes raporton tek Drejtori i Departamentit të Metrologjisë Shkencore dhe Industriale.
+4. Numri i të punësuarve në Divizionin e Vëllimit dhe Rrjedhjes është katër (4).
