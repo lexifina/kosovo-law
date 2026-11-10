@@ -1,0 +1,24 @@
+{
+"note": "Acts published in the Official Gazette but not yet in force; each is appended on the day it takes effect.",
+"count": 3,
+"acts": [
+{
+"act": "udhezim-2026-126127",
+"title": "UDHËZIM ADMINISTRATIV (MPB) Nr. 12/2026 PËR PROCEDURËN E FUNKSIONIMIT TË KËSHILLIT PËR CILËSI, KUALIFIKIM DHE RIKUALIFIKIM",
+"in_force_from": "2026-11-12",
+"official_url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=126127"
+},
+{
+"act": "rregullore-2026-126229",
+"title": "RREGULLORE (MINTI) NR.03/2026 PËR MJETET MATËSE LIGJËRISHT TË KONTROLLUARA",
+"in_force_from": "2026-11-16",
+"official_url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=126229"
+},
+{
+"act": "ligj-2026-125999",
+"title": "LIGJI NR.11/L-017 PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJIT NR.05/L-096 PËR PARANDALIMIN E PASTRIMIT TË PARAVE DHE LUFTIMIN E FINANCIMIT TË TERRORIZMIT",
+"in_force_from": "2026-12-03",
+"official_url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=125999"
+}
+]
+}

@@ -1,0 +1,16 @@
+{
+ "note": "Update status of this repository, refreshed by every refresh run.",
+ "as_of": "2026-11-10T05:12:46+00:00",
+ "updates": "idle",
+ "last_published": "2026-11-06T20:55:15Z",
+ "published_last_24h": {
+  "commits": 0
+ },
+ "official_sources": [
+  {
+   "source": "Gazeta Zyrtare e Republikës së Kosovës (gzk.rks-gov.net), act pages",
+   "state": "available",
+   "last_successful_contact": "2026-11-10"
+  }
+ ]
+}

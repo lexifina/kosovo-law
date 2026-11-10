@@ -1,0 +1,327 @@
+{
+ "note": "Freshness of every act in this repository: when it was last checked against the Official Gazette, how, and whether a known change is missing. One row per act in data/freshness/<kind>/<year>.csv (listed in data/freshness/index.json); acts of the first build (root laws.csv) are identified by their folder, the others by their id (registry/data/paths.json). `python tools/freshness.py <act id or folder>` reads them. A status is as of `as_of`; an act verified longer ago than its threshold has since become stale. Kosovo's record is as enacted: an act the Gazette links as amended is pending-change (\"amended, not consolidated\") until a consolidated text is published and applied.",
+ "schema": "xk-freshness/1",
+ "as_of": "2026-11-10",
+ "checked_against_official_source": "2026-11-10",
+ "statuses": {
+  "current": "checked against the official source within its threshold, and no known change is missing",
+  "pending-change": "the official source reports a change (amendment, repeal) this repository does not have as a consolidated text: the act is held as enacted (or as last consolidated) and labelled",
+  "stale": "not checked within its threshold",
+  "unverified": "never checked against the official source for later changes",
+  "source-unavailable": "due for a check, but the official source has not answered the latest checks"
+ },
+ "methods": {
+  "gazette-record": "the act's page at the Official Gazette (gzk.rks-gov.net/ActDetail.aspx: its status and its links to the acts that amend, supplement or repeal it), read that day, and the Gazette's list of consolidated texts, compared with what this repository holds"
+ },
+ "thresholds": {
+  "national": {
+   "days": 7,
+   "kinds": [
+    "kushtetuta",
+    "ligje",
+    "ligj",
+    "kode",
+    "kod",
+    "marreveshje",
+    "vendim",
+    "dekret"
+   ],
+   "label": "Constitution, codes, laws, international agreements, Government decisions and decrees"
+  },
+  "secondary": {
+   "days": 30,
+   "kinds": [
+    "udhezim",
+    "rregullore",
+    "rregulla",
+    "statut",
+    "urdhrese",
+    "urdher",
+    "urdhera",
+    "deklarate",
+    "aktgjykim",
+    "aktgjykime",
+    "aktvendim",
+    "mendim"
+   ],
+   "label": "administrative instructions, regulations, statutes, orders, declarations, and the Constitutional Court's judgments, decisions and opinions"
+  }
+ },
+ "final": "An act repealed here (its files deleted on the repealing act's in-force day) no longer changes: it stays current once checked, with no threshold (its check_due is empty).",
+ "columns": {
+  "act": "the act id (data/paths.json maps it to its folder)",
+  "status": "as of `as_of`",
+  "last_verified": "the day of the last check that confirmed the latest version held here is the newest (UTC)",
+  "check_due": "last_verified plus the threshold: after this day the act is stale unless checked again",
+  "method": "how that check was made (`methods`)",
+  "newest_change": "the newest change the official sources report (an act, by its official title)",
+  "newest_change_date": "its day (its Gazette issue day where known)",
+  "change_in_repo": "yes if this repository has that change applied to the act's text, no if not",
+  "official_url": "the act's page at its official source, to check by hand"
+ },
+ "totals": {
+  "acts": 5263,
+  "by_status": {
+   "current": 4666,
+   "pending-change": 597,
+   "stale": 0,
+   "unverified": 0,
+   "source-unavailable": 0
+  },
+  "pct_verified_7d": 100.0,
+  "pct_verified_30d": 100.0
+ },
+ "by_group": {
+  "national": {
+   "acts": 1705,
+   "by_status": {
+    "current": 1418,
+    "pending-change": 287,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "secondary": {
+   "acts": 3558,
+   "by_status": {
+    "current": 3248,
+    "pending-change": 310,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  }
+ },
+ "by_kind": {
+  "aktgjykim": {
+   "acts": 298,
+   "by_status": {
+    "current": 298,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "aktgjykime": {
+   "acts": 11,
+   "by_status": {
+    "current": 11,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "aktvendim": {
+   "acts": 2343,
+   "by_status": {
+    "current": 2343,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "dekret": {
+   "acts": 6,
+   "by_status": {
+    "current": 6,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "kode": {
+   "acts": 10,
+   "by_status": {
+    "current": 7,
+    "pending-change": 3,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "kushtetuta": {
+   "acts": 6,
+   "by_status": {
+    "current": 5,
+    "pending-change": 1,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "ligj": {
+   "acts": 78,
+   "by_status": {
+    "current": 12,
+    "pending-change": 66,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "ligje": {
+   "acts": 1020,
+   "by_status": {
+    "current": 807,
+    "pending-change": 213,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "marreveshje": {
+   "acts": 179,
+   "by_status": {
+    "current": 179,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "mendim": {
+   "acts": 3,
+   "by_status": {
+    "current": 3,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "rregulla": {
+   "acts": 1,
+   "by_status": {
+    "current": 1,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "rregullore": {
+   "acts": 412,
+   "by_status": {
+    "current": 269,
+    "pending-change": 143,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "statut": {
+   "acts": 13,
+   "by_status": {
+    "current": 10,
+    "pending-change": 3,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "udhezim": {
+   "acts": 474,
+   "by_status": {
+    "current": 310,
+    "pending-change": 164,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "urdher": {
+   "acts": 1,
+   "by_status": {
+    "current": 1,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "urdhera": {
+   "acts": 1,
+   "by_status": {
+    "current": 1,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "urdhrese": {
+   "acts": 1,
+   "by_status": {
+    "current": 1,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "vendim": {
+   "acts": 406,
+   "by_status": {
+    "current": 402,
+    "pending-change": 4,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  }
+ },
+ "sources": [
+  {
+   "source": "Gazeta Zyrtare e Republikës së Kosovës (gzk.rks-gov.net), act pages",
+   "url": "https://gzk.rks-gov.net",
+   "last_successful_check": "2026-11-10"
+  }
+ ],
+ "index": "data/freshness/index.json",
+ "shards": 139
+}

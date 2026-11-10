@@ -8,6 +8,8 @@ The legislation of Kosovo as a git repository: 1048 acts from the [Official Gaze
 
 The record runs from 2002-07-26 to 2026-10-21 in 1049 commits on `main`. 0 further acts, published but taking effect after 2026-10-29, are on the branch `future`, which is never merged. A repealed act's files are deleted on the day the act that repealed it took effect (256 acts).
 
+**Two builds, one history.** The acts above are the first build (root [`laws.csv`](laws.csv)). Since 2026-11-03 the same `main` also holds the acts of the Gazette's other categories (administrative instructions, regulations, Government decisions, decrees, international agreements, statutes, the Constitutional Court's judgments and decisions, and laws the first build's list did not include), each as published, one version each, in `<kind>/<year>/<id>/` folders; they are listed in [registry/ACTS.md](registry/ACTS.md) and [registry/data/acts.json](registry/data/acts.json), and built as described in [registry/REPRODUCE.md](registry/REPRODUCE.md).
+
 ## A lawyer's questions as git commands
 
 Each act's folder is `<kind>/<number>/`, listed with its title, dates and status in [`laws.csv`](laws.csv): `kushtetuta/2008` (the Constitution as adopted in 2008), `ligje/03-l-199` (Law No. 03/L-199 on Courts, 2010, repealed in 2019), `ligje/06-l-054` (Law No. 06/L-054 on Courts, which repealed it), `kode/06-l-074` (the Criminal Code of 2019).
@@ -58,6 +60,16 @@ The author of each commit is the act itself, at an address that cannot exist: `L
 - Acts repealed by an act outside this record keep their files; `status_on_gzk` in `laws.csv` says which acts the Gazette marks repealed (256).
 
 This is a research aid. Only the texts published in the Official Gazette of the Republic of Kosovo are official.
+
+## How current is it
+
+Every act names its official page at the Gazette (the `Source:` trailer of its commit; `source` in [`laws.csv`](laws.csv), `portal` in [registry/data/acts.json](registry/data/acts.json)), so every act can be checked against it.
+
+<!-- freshness-summary -->
+Checked against the official sources: 2026-11-10; 100% of acts verified in the last 7 days, 100% in the last 30 ([data/freshness.json](data/freshness.json)).
+<!-- /freshness-summary -->
+
+`python tools/freshness.py <act id or folder>` gives an act's status, its last check and the official link. The record is kept up to date by a weekly run that reads the Gazette's lists of acts, appends newly published acts, and re-checks every act against its Gazette page (the Constitution, codes, laws, agreements, Government decisions and decrees within 7 days; other acts within 30); [data/status.json](data/status.json) says when it last ran and whether the Gazette answered. Acts in scope that are not published here are listed in [data/held.json](data/held.json) with the reason; acts published but not yet in force in [data/pending.json](data/pending.json). An act marked `amended, not consolidated` (or `repealed, not consolidated`) in registry/data/acts.json holds the act as published and names the later acts that change it. The ratification laws the Gazette publishes twice, as a law and as an agreement, are both kept and name each other ([data/same-act.csv](data/same-act.csv)).
 
 ## How it is checked
 
