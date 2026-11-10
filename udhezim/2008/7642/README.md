@@ -15,6 +15,14 @@ MTI-2008/14 · 1 versions, from 2008-09-11 (latest in force: 2008-09-11) · <htt
 
 Act id: `udhezim-2008-7642` (tags `udhezim-2008-7642/<day>`; `python tools/on.py <day> udhezim-2008-7642`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [the Gazette's note in the act's title: (Shfuqizuar me Vendim të QRK, Nr. 02/50 të datës 23.12.2021)](https://gzk.rks-gov.net/ActDetail.aspx?ActID=7642)
+
 ## Decisions made by hand
 
 - Acts added after the first build (sub-legal acts and laws not yet in the record) are published as published in the Official Gazette, one version each, only when the Gazette links no act that amends, supplements or repeals them, does not mark them repealed, and no later act's title names them; the others are held back.

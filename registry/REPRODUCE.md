@@ -1,12 +1,12 @@
 # How this repository was made (Kosovo)
 
-This file is written by the build on 2026-11-04, the day the source data was retrieved.
+This file is written by the build on 2026-11-10, the day the source data was retrieved.
 
 ## Sources
 
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
-| Gazeta Zyrtare e Republikës së Kosovës: acts by category, as published | <https://gzk.rks-gov.net> | 2026-11-04 | Official texts, outside copyright (Law No. 08/L-205, art. 6(1)) |
+| Gazeta Zyrtare e Republikës së Kosovës: acts by category, as published | <https://gzk.rks-gov.net> | 2026-11-10 | Official texts, outside copyright (Law No. 08/L-205, art. 6(1)) |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -14,21 +14,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
-| 3722 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 3722 | |
+| 4022 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 4022 | |
 
-The build made 3788 commits:
+The build made 4088 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 3788 | first version of an act |
+| 4088 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-11-04.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 3726 laws in the record.
-- 7482 tags.
+- 4218 laws in the record.
+- 8082 tags.
 
 ## Dates
 
@@ -40,9 +40,9 @@ When a law gives no date of its own, the default rule applies: Each act states i
 
 `tools/build/build.py` (and, for later publishes, `tools/build/append.py`) turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/build/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/build/SCHEMA.md`.
 
-- Corpus: sha256 `4cf8bbe25136e8474ce95951b03ab95b3bf8ba8e5dabd78606a37bba7d4f12a3` (131436294 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `6a75a05e2f381deb50fb7cb6ad297cc3fe964a71`, `check.py` `d36188b60926167ff377bd58f0b03f30cc9a1a52`, `on.py` `55bf92027127e36254521d114abde53cfefbb67d`.
-- Python 3.14.0; git version 2.52.0.windows.1.
+- Corpus: sha256 `7b8d1c295708ab5785bdab00db8cd1f5943c66a7dff1bde19facedc449899991` (146181784 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `01326a88c48c5c04dc2dd8eed3c1c92b9986e66b`, `check.py` `f7f9c39fff1b1f9a3aded2ad3364a27fb0908033`, `on.py` `0be88de7820b2dafe9f94fa40472a48776aa4cf5`.
+- Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
 
@@ -52,7 +52,7 @@ No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
-- Every act's decisions made by hand (762 in all) are listed in that act's own README.md, under "Decisions made by hand".
+- Every act's decisions made by hand (804 in all) are listed in that act's own README.md, under "Decisions made by hand".
 
 ## What AI did and did not do
 
@@ -63,131 +63,4 @@ No model wrote, translated or corrected legal text. No model runs at build time.
 The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
 - none

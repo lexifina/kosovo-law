@@ -73,6 +73,19 @@ ON_PUBLICATION = re.compile(r"hy\w*\s+n[eë]\s+fuqi\s+(?:n[eë]\s+|nga\s+)?(?:da
                             r"(?:publikimit|shpalljes)\s+(?:s[eë]\s+saj\s+|t[eë]\s+tij\s+)?n[eë]\s+Gazet", re.I)
 TITLE_DATE = re.compile(r"\bDAT[AËE]\s*[:.]?\s*(\d{1,2})\s*[./]\s*(\d{1,2})\s*[./]\s*(\d{4})", re.I)
 # A title the Gazette has annotated after a later act: "... (Shfuqizuar me Vendim të QRK, Nr. 02/50 ...)".
+# The Gazette's links from an act to the later acts that change it ("Ndryshohet/Plotësohet nga", "Shfuqizuar nga");
+# a whole repeal is "Shfuqizuar/Shfuqizohet nga" without "pjesërisht" (in part).
+CHANGED_BY = re.compile(r"^\s*(?:Ndryshohet|Plotësohet|Plotesohet|Shfuqizohet|Shfuqizuar|Shtuar|Pezullohet|Pezulluar)\b"
+                        r".*\bnga\b", re.I)
+REPEALED_BY = re.compile(r"^\s*Shfuqizu(?:ar|het)\b(?!.*pjes)", re.I)
+def PROMULGATED(law_kind: str, basis: str, words: str) -> bool:
+    """2026-11-09: a law in force "pas miratimit nga Kuvendi ... dhe shpalljes nga PSSP-ja / Presidenti" (on adoption
+    and promulgation, no date or period, no signature day named): dated by the Gazette day, as the first build dates
+    its 111 such laws. A rule naming the signature ("në datën e nënshkrimit nga PSSP-ja") keeps the signature rules."""
+    return (law_kind == "law" and basis.startswith("published (the act takes effect on promulgation")
+            and bool(re.search(r"shpallj", words or "", re.I)) and not re.search(r"n[eë]nshkrim", words or "", re.I))
+
+
 MARKED = re.compile(r"\(\s*(?:e\s+|i\s+)?(?:shfuqizuar|ndryshuar|plot[eë]suar|pezulluar)\b", re.I)
 # Applied to every act: a period run from registration with the ministry or from publication on the municipality's
 # website or notice board (days the Gazette doesn't give), or N days after adoption.
@@ -230,7 +243,9 @@ def detail(page: str) -> dict:
         rel = re.search(r'<span class="span_margin" style="[^"]*">(.*?)</span>', box, re.S)
         link = re.search(r'href="ActDetail\.aspx\?ActID=(\d+)"[^>]*>(.*?)</a>', box, re.S)
         if link:
-            out["related"].append({"relation": clean(rel.group(1)) if rel else "", "id": int(link.group(1))})
+            pub = re.search(r'lblRPubDate_\d+">[^<]*</span>\s*([0-9.]+)', box)
+            out["related"].append({"relation": clean(rel.group(1)) if rel else "", "id": int(link.group(1)),
+                                   "title": clean(link.group(2)), "published": dmy(pub.group(1)) if pub else ""})
     out["by_later"] = bool(re.search(r"(?:Ndryshohet|Plotësohet|Shfuqizohet|Shfuqizuar)[^<]{0,40}nga", page, re.I))
     return out
 
@@ -628,12 +643,14 @@ def main():
             cache = {}
 
     named: dict[tuple[str, str], dict] = defaultdict(lambda: defaultdict(set))
+    listed: dict[int, tuple[str, str]] = {}   # every listed act: (title, publication day)
     for f in sorted((src / "list").glob("*.jsonl")):
         for line in f.read_text(encoding="utf-8").splitlines():
             try:
                 r = json.loads(line)
             except json.JSONDecodeError:
                 continue
+            listed[int(r["id"])] = (r["title"], dmy(r.get("published") or ""))
             if CHANGE.search(fold(r["title"])):
                 own = own_key(r["title"])
                 for k in ref_keys(r["title"]):
@@ -652,17 +669,57 @@ def main():
             d = detail(gzip.decompress((base / "detail.html.gz").read_bytes()).decode("utf-8", "replace"))
             if str(i) in rejects:
                 raise Hold("rejected:" + str(rejects[str(i)])[:200])
-            if d["by_later"]:
-                raise Hold("amended_or_repealed_on_gazette")
-            if "shfuqiz" in d["status"].lower():
-                raise Hold("repealed:" + d["status"])
+            # 2026-11-09 (Romania standard): an act the Gazette links as amended, supplemented or repealed by a later
+            # act is published as enacted and labelled (was: held back): "amended, not consolidated" with the
+            # changing acts, or "repealed, not consolidated" when one of them repeals it whole or its page marks it
+            # repealed. Its text is the act as enacted; the changes are not applied.
+            changers = sorted((r for r in d["related"] if CHANGED_BY.match(r["relation"])),
+                              key=lambda r: (r["published"] or "9999", r["id"]))
+            if d["by_later"] and not changers:
+                raise Hold("amended_or_repealed_on_gazette_unlinked")
+            # the Gazette also annotates a title: "... (Shfuqizuar me Vendim të QRK, Nr. 02/50 të datës 23.12.2021)"
+            noted = re.search(r"\(\s*(?:e\s+|i\s+)?(?:shfuqizuar|ndryshuar|plot[eë]suar|pezulluar)\b[^()]*\)?",
+                              d["title"], re.I)
+            repealed = ("shfuqiz" in d["status"].lower() or any(REPEALED_BY.match(r["relation"]) for r in changers)
+                        or bool(noted and re.search(r"shfuqizuar", noted.group(0), re.I)
+                                and not re.search(r"pjes", noted.group(0), re.I)))
+            marks = {}
+            if changers or repealed or noted:
+                marks = {"label": "repealed, not consolidated" if repealed else "amended, not consolidated",
+                         "amended_by": [{"ref": f"gzk:{r['id']}", "title": r["title"], "url": DETAIL.format(id=r["id"]),
+                                         "date": r["published"] or None, "relation": r["relation"]} for r in changers]
+                         + ([{"ref": "gzk-title", "title": f"the Gazette's note in the act's title: {noted.group(0)}",
+                              "url": DETAIL.format(id=i), "date": None, "relation": "noted in the title"}]
+                            if noted and not changers else [])}
             if d["category"] not in KINDS:
                 raise Hold("kind_not_built:" + d["category"])
             kind, law_kind = KINDS[d["category"]]
             k = own_key(d["title"])
             others = (named_by(named, k) - {i}) if k else set()
+            # 2026-11-10: the act's own key must be its own kind and number (the title starts with its kind word);
+            # a court decision's title names the act it reviews ("... VLERËSIM I KUSHTETUTSHMËRISË SË LIGJIT NR. ..."),
+            # so a later decision naming that act names the reviewed act, not this one
+            own_at_start = bool(re.match(r"\s*\W{0,3}" + KIND_WORD.pattern, fold(d["title"]), re.I))
+            if others and (kind in ("aktgjykim", "aktvendim", "mendim") or not own_at_start):
+                others = set()
             if others:
-                raise Hold("named_as_amended:" + ",".join(map(str, sorted(others)[:5])))
+                # 2026-11-10 (Romania standard): a later act whose title names this one as amended (same kind word,
+                # number and, where both give one, institution) labels it "amended, not consolidated" (was: held).
+                # Only when every naming act was published on or after this act's own day (a naming act published
+                # before it names another act with the same number): otherwise still held.
+                pub = d["published"]
+                when = {o: listed.get(o, ("", ""))[1] for o in others}
+                if not pub or any(not w or w < pub for w in when.values()):
+                    raise Hold("named_as_amended_ambiguous:" + ",".join(map(str, sorted(others)[:5])))
+                rep = any(re.search(r"SHFUQIZIM", fold(listed[o][0])) and not CHANGE.search(
+                    fold(re.sub(r"(?i)shfuqizim", "", listed[o][0]))) for o in others)
+                prior = marks.get("amended_by", [])
+                seen = {x["ref"] for x in prior}
+                extra = [{"ref": f"gzk:{o}", "title": listed[o][0], "url": DETAIL.format(id=o), "date": when[o],
+                          "relation": "named as amended in its title"}
+                         for o in sorted(others, key=lambda o: (when[o], o)) if f"gzk:{o}" not in seen]
+                marks = {"label": "repealed, not consolidated" if (rep or marks.get("label", "").startswith("repealed"))
+                         else "amended, not consolidated", "amended_by": prior + extra}
             if not d["published"]:
                 raise Hold("no_publication_day")
             amending = bool(CHANGE.search(fold(d["title"])))
@@ -675,7 +732,12 @@ def main():
             else:
                 inf = {"date": d["published"], "basis": "published (no in-force rule found)", "words": ""}
             day, basis = inf["date"], inf["basis"]
-            if inf["words"] and AFTER_SIGNATURE.search(inf["words"]):
+            if PROMULGATED(law_kind, basis, inf["words"]):
+                # 2026-11-09: "hyn në fuqi pas miratimit nga Kuvendi ... dhe shpalljes nga PSSP-ja" (a UNMIK-era law:
+                # in force on promulgation): the Gazette day, as for the 111 such laws of the first build. Not a
+                # period counted from adoption (that is AFTER_SIGNATURE's "N days after signature").
+                pass
+            elif inf["words"] and AFTER_SIGNATURE.search(inf["words"]):
                 # "N days after signature": ks_inforce counts from publication, which is wrong here; counted from the
                 # signature day when the act prints it (after_signature), else held
                 more = after_signature(inf["words"], tail_paras, d["title"], d["published"])
@@ -689,7 +751,9 @@ def main():
                     and inf["words"] and ON_PUBLICATION.search(inf["words"]):
                 day, basis = d["published"], "on publication"
             elif basis.startswith("published (no") or basis.startswith("published (the act"):
-                if inf["words"] and SIGNED_ON.search(inf["words"]):
+                if PROMULGATED(law_kind, basis, inf["words"]):
+                    pass  # 2026-11-09: the Gazette day, as the first build dates such laws (see above)
+                elif inf["words"] and SIGNED_ON.search(inf["words"]):
                     m = TITLE_DATE.search(d["title"])
                     basis = "on signature (the date in the act's title)"
                     if not m:
@@ -713,8 +777,7 @@ def main():
                     raise Hold("in_force_rule_unread:" + (inf["words"][:100] or "none"))
             if not re.fullmatch(r"\d{4}-\d\d-\d\d", day or ""):
                 raise Hold("in_force_unknown")
-            if released and MARKED.search(d["title"]):
-                raise Hold("title_marks_later_change")
+            # (2026-11-10: a title the Gazette annotated as repealed or amended is labelled above, no longer held)
             guard = released or str(i) not in kept   # `kept`: published before these checks, kept by decision
             if ((guard and OFF_GAZETTE.search(_after_verb(inf["words"])))
                     or (released and OTHER_EVENT.search(inf["words"]))) and not basis.startswith("on adoption"):
@@ -738,6 +801,10 @@ def main():
         note = f"In force: {basis}" + (f" (\"{inf['words'][:300]}\")" if inf.get("words") else "") + "."
         if cut:
             note += " " + cut
+        office = next((e for e in ("doc", "docx") if (base / f"doc.{e}").exists()), None)
+        if office:   # 2026-11-10: the Gazette serves this act as a Word file, not a PDF (read through Word)
+            note += (f" The Gazette serves this act as a Word file (.{office}), not a PDF; its text was read from a PDF "
+                     f"that Microsoft Word made of that file.")
         if scanned:
             note += (f" The PDF ends with {scanned} page(s) printed only as images (after the text), not "
                      f"transcribed here.")
@@ -749,7 +816,7 @@ def main():
             "slug": slug, "short": d["number"] or title, "title": title, "url": DETAIL.format(id=i),
             "first_law": slug, "earlier_laws": [],
             "versions": [{"from": day, "source_url": DOC.format(id=i), "sha256": doc["sha256"], "units": units,
-                          "credits": {}, "note": note}]})
+                          "credits": {}, "note": note}], **marks})
     if cache is not None:
         cache = {k: v for k, v in cache.items() if k.endswith("|" + SELF)}
         tmp = Path(a.cache + ".tmp")

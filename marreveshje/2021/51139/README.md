@@ -12,6 +12,10 @@ KUV-08/L-061-Marrveshja-MARR-ND · 1 versions, from 2021-12-06 (latest in force:
 
 Act id: `marreveshje-2021-51139` (tags `marreveshje-2021-51139/<day>`; `python tools/on.py <day> marreveshje-2021-51139`).
 
+## Same act
+
+The same ratification law, also published by the Gazette as a law (Ligje); this copy also carries the agreement text, that one is the ratification law alone: [`ligje/08-l-061/`](../../../ligje/08-l-061/) (<https://gzk.rks-gov.net/ActDetail.aspx?ActID=51132>).
+
 ## Decisions made by hand
 
 - Acts added after the first build (sub-legal acts and laws not yet in the record) are published as published in the Official Gazette, one version each, only when the Gazette links no act that amends, supplements or repeals them, does not mark them repealed, and no later act's title names them; the others are held back.

@@ -212,6 +212,21 @@
    ]
   },
   {
+   "slug": "aktgjykim-2012-3088",
+   "path": "aktgjykim/2012/3088",
+   "short": "KO_04/11",
+   "title": "AKTGJYKIM NË RASTIN NR. KO 04/11 PARASHTRUESI GJYKATA SUPREME E KOSOVËS VLERËSIM I KUSHTETUTSHMËRISE SË NENEVE 35, 36, 37 DHE 38 TË LIGJIT PËR SHPRONËSIMIN E PRONËS SË PALUAJTSHME, NR. 03/L-139",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3088",
+   "versions": [
+    {
+     "from": "2012-03-07",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3088",
+     "sha256": "1d2b1581ec482841264f33b690c953e0348f8f2b55d719b8892916a67a67ea0a"
+    }
+   ]
+  },
+  {
    "slug": "aktgjykim-2012-3102",
    "path": "aktgjykim/2012/3102",
    "short": "KI_103/10",
@@ -722,6 +737,21 @@
    ]
   },
   {
+   "slug": "aktgjykim-2016-11994",
+   "path": "aktgjykim/2016/11994",
+   "short": "KI135/14",
+   "title": "AKTGJYKIM NË RASTIN KI135/14 PARASHTRUES IKK CLASSIC VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS, E. REV. NR. 21/2014, TË 8 PRILLIT 2014",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11994",
+   "versions": [
+    {
+     "from": "2016-02-18",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11994",
+     "sha256": "11091c50fa7cface24ffb45127fe5276ae1ad233012bacb35681298ea2139b52"
+    }
+   ]
+  },
+  {
    "slug": "aktgjykim-2016-12499",
    "path": "aktgjykim/2016/12499",
    "short": "KI132/15-AGJ",
@@ -733,6 +763,126 @@
      "units": 1,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=12499",
      "sha256": "d41a050d9d7802ed629198fce6664ea87db2a1da51d75fb37596ca44c806a3af"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2016-12738",
+   "path": "aktgjykim/2016/12738",
+   "short": "KI18/16",
+   "title": "AKTGJYKIM NË RASTIN NR. KI18/16 PARASHTRUES BEDRI SALIHU VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS, REV. NR. 308/2015, TË 12 NËNTORIT 2015",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=12738",
+   "versions": [
+    {
+     "from": "2016-07-21",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=12738",
+     "sha256": "5a548bfabb0160d75718eb4ce5e2c649096857d7f87121f4e3c4a6cf57f5c334"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2017-14754",
+   "path": "aktgjykim/2017/14754",
+   "short": "GJK-KO12/17-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KO12/17 PARASHTRUES AVOKATI I POPULLIT VLERËSIM I PËRPUTHSHMËRISË ME KUSHTETUTËN TË NENEVE 55 (PARAGRAFËT 4 DHE 5), 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, DHE 68 TË LIGJIT NR. 05/L-087 PËR KUNDËRVAJTJE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=14754",
+   "versions": [
+    {
+     "from": "2017-06-09",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=14754",
+     "sha256": "ec29f55cd5acc2a7185d3f6a07c7f1202d313b2436f03898e24401772846cbb6"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2017-14801",
+   "path": "aktgjykim/2017/14801",
+   "short": "GJK-KI22/16-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI22/16 PARASHTRUES NASER HUSAJ VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS, REV. NR. 335/2015, TË 14 DHJETORIT 2015",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=14801",
+   "versions": [
+    {
+     "from": "2017-06-14",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=14801",
+     "sha256": "4bf0a8ef60ebd14a11ca60639d1aace5d0bc1e3d7cb42d2e0ca3e53d992bd70a"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2017-14830",
+   "path": "aktgjykim/2017/14830",
+   "short": "GJK-KI31/17-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI31/17 PARASHTRUES SHEFQET BERISHA VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT TË GJYKATËS SUPREME TË KOSOVËS, CLM NR. 10/2016, TË 24 GUSHTIT 2016",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=14830",
+   "versions": [
+    {
+     "from": "2017-06-20",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=14830",
+     "sha256": "3783c72b367618badcf0c66837ba217744e79cba894c8c279864f0070e45ce19"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2017-14926",
+   "path": "aktgjykim/2017/14926",
+   "short": "GJK-KI55/17-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI55/17 PARASHTRUES TONKA BERISHA VLERËSIM I KUSHTETUTSHMËRISË SË VENDIMIT KGJ NR. 13/2017, TË KËSHILLIT GJYQËSOR TË KOSOVËS, TË 13 JANARIT 2017",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=14926",
+   "versions": [
+    {
+     "from": "2017-07-20",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=14926",
+     "sha256": "a9b0e6670fff5422a97f997b30e5a6671c932c0744f193b2bdd920abdee39ae5"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2017-14927",
+   "path": "aktgjykim/2017/14927",
+   "short": "GJK-KI81/16-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI81/16 PARASHTRUES VALDET NIKÇI VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT TË GJYKATËS SË APELIT, AC. NR. 949/16, TË 20 PRILLIT 2016",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=14927",
+   "versions": [
+    {
+     "from": "2017-07-20",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=14927",
+     "sha256": "46f98beb5e267938989e64101499b874a0e1319360989bb44ff1742a77f9dbcf"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2017-14931",
+   "path": "aktgjykim/2017/14931",
+   "short": "GJK-KO142/16-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KO142/16 PARASHTRUES KOLEGJI I APELIT I DHOMËS SË POSAÇME TË GJYKATËS SUPREME TË KOSOVËS PËR ÇËSHTJE QË LIDHEN ME AGJENCINË KOSOVARE TË PRIVATIZIMIT VLERËSIM I KUSHTETUTSHMËRISË SË NENEVE 10 DHE 40.1.5 TË SHTOJCËS SË LIGJIT NR. 04/L-034 PËR AGJENCINË KOSOVARE TË PRIVATIZIMIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=14931",
+   "versions": [
+    {
+     "from": "2017-07-20",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=14931",
+     "sha256": "1ed286514a732b3de33265c7b4733a4df11808262d363e45a5885583a671fc9b"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2017-14972",
+   "path": "aktgjykim/2017/14972",
+   "short": "GJK-KI33/16-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI33/16 PARASHTRUES MINIRE ZEKA VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT TË GJYKATËS SË APELIT TË REPUBLIKËS SË KOSOVËS, AC. NR. 4276/2014, TË 9 QERSHORIT 2015",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=14972",
+   "versions": [
+    {
+     "from": "2017-08-11",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=14972",
+     "sha256": "7fcbb8484e6e1ac33d21b164ca7dd95b2572fd617a3f5e49efba1294dfdf3159"
     }
    ]
   },
@@ -1142,6 +1292,21 @@
    ]
   },
   {
+   "slug": "aktgjykim-2019-22122",
+   "path": "aktgjykim/2019/22122",
+   "short": "GJK-KO65/19-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KO65/19 PARASHTRUES AVOKATI I POPULLIT VLERËSIM I KUSHTETUTSHMËRISË SË NENIT 32 (PARAGRAFI 1), NENIT 41 (PARAGRAFËT 1.3 DHE 1.4) DHE NENIT 76 (PARAGRAFI 2), NË LIDHJE ME NENIN 2 (PARAGRAFI 7) DHE NENIN 22 (PARAGRAFI 1.3) TË LIGJIT NR. 06/L-010 PËR NOTERINË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=22122",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=22122",
+     "sha256": "98ffdd458133b1db0f46b0f420f84d982079dcdc92166621dc860c3f3bff1490"
+    }
+   ]
+  },
+  {
    "slug": "aktgjykim-2019-23498",
    "path": "aktgjykim/2019/23498",
    "short": "GJK-KI187/18,KI11/19-AKGJ",
@@ -1167,7 +1332,7 @@
      "from": "2019-10-31",
      "units": 1,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=24584",
-     "sha256": "46e166ea72175b0e9b62539dcb460e897520328f15a4f6ceffbeffff698effc4"
+     "sha256": "db3a191fff24c8e53ad0d533dde05e4dfca1f18185a075b183145d8d81b1bd84"
     }
    ]
   },
@@ -1182,7 +1347,7 @@
      "from": "2020-01-27",
      "units": 1,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=26526",
-     "sha256": "46c12a5c8d4deb9e038501809368625fdcb94c2854af6c169ccf5e3e5c727166"
+     "sha256": "8cba1fd5494f1812f84be4d39b994728db56ce998a4fb6daa7a2803b96d8f3b3"
     }
    ]
   },
@@ -1197,7 +1362,7 @@
      "from": "2020-01-27",
      "units": 1,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=26529",
-     "sha256": "6dbd9885764e8ff88a7d1af6ca822883086b117d9f9fe829ef3dad127cc41f2e"
+     "sha256": "4062ee9f4ace0b7b7d893536109d4bd63591f1bb2a26168ae308e01518c7d0c7"
     }
    ]
   },
@@ -1757,6 +1922,36 @@
    ]
   },
   {
+   "slug": "aktgjykim-2021-48683",
+   "path": "aktgjykim/2021/48683",
+   "short": "GJK-KI82/21-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI82/21 PARASHTRUES KOMUNA E GJAKOVËS VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS, UPP-APP. NR. 1/2020, TË 28 TETORIT 2020",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=48683",
+   "versions": [
+    {
+     "from": "2021-10-08",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=48683",
+     "sha256": "51c76e3eed055e7fb750fc9236846dcb09d2465152076c03d03c6a52fd0bef76"
+    }
+   ]
+  },
+  {
+   "slug": "aktgjykim-2021-48694",
+   "path": "aktgjykim/2021/48694",
+   "short": "GJK-KO61/21-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KO61/21 PARASHTRUES SLAVKO SIMIĆ DHE 10 DEPUTETË TË TJERË TË KUVENDIT TË REPUBLIKËS SË KOSOVËS VLERËSIM I KUSHTETUTSHMËRISË SË VENDIMIT TË KUVENDIT TË REPUBLIKËS SË KOSOVËS NR. 08/V-005, TË 22 MARSIT 2021, PËR ZGJEDHJEN E QEVERISË SË REPUBLIKËS SË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=48694",
+   "versions": [
+    {
+     "from": "2021-10-08",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=48694",
+     "sha256": "89aaf457d37a4b7c583d0ed359ce0470451bf82b814e58f4c929ebc8053d210a"
+    }
+   ]
+  },
+  {
    "slug": "aktgjykim-2021-50443",
    "path": "aktgjykim/2021/50443",
    "short": "GJK-KI01/21-AKGJ",
@@ -2217,7 +2412,7 @@
      "from": "2023-03-30",
      "units": 3,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=71681",
-     "sha256": "ee78d682162eeed10d1c8200c25546564ef40aad225166c9a817380c52ed1c63"
+     "sha256": "18c4ca33487d4a2aa922bd9d5dd589c29866ca3148b173db6603b076c44ffaba"
     }
    ]
   },
@@ -3272,6 +3467,21 @@
    ]
   },
   {
+   "slug": "aktgjykim-2025-108920",
+   "path": "aktgjykim/2025/108920",
+   "short": "GJK-KO141/24-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KO141/24 PARASHTRUES AVOKATI I POPULLIT VLERËSIM I KUSHTETUTSHMËRISË SË PARAGRAFIT 1 TË NENIT 11 (ORGANIZIMI I SHËRBIMEVE SHËNDETËSORE NË SPITALET E PËRGJITHSHME) TË STATUTIT (QRK) NR. 01/2023 TË SHËRBIMIT SPITALOR DHE KLINIK UNIVERSITAR TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=108920",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 3,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=108920",
+     "sha256": "5d5fedd10dfc66662cee173ce36e08d21f57fe86774d6bbf9cc1aa7d00a2d7dd"
+    }
+   ]
+  },
+  {
    "slug": "aktgjykim-2025-109126",
    "path": "aktgjykim/2025/109126",
    "short": "GJK-KO193/25 dhe KO196/25-AKGJ",
@@ -4247,6 +4457,21 @@
    ]
   },
   {
+   "slug": "aktgjykim-2026-126174",
+   "path": "aktgjykim/2026/126174",
+   "short": "GJK-KI292/25-AKGJ",
+   "title": "AKTGJYKIM NË RASTIN NR. KI292/25 PARASHTRUES AVNI MATOSHI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT REV. NR. 56/2024 TË 18 KORRIKUT 2024 TË GJYKATËS SUPREME",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=126174",
+   "versions": [
+    {
+     "from": "2026-11-06",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=126174",
+     "sha256": "7cba14128f012e19064bc88353330ef1ea4f771000cbd57c74d334ccf9869bce"
+    }
+   ]
+  },
+  {
    "slug": "aktvendim-2010-2895",
    "path": "aktvendim/2010/2895",
    "short": "KI_41/09 RK 04/10",
@@ -4528,6 +4753,21 @@
      "units": 1,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2982",
      "sha256": "1b3861859c5c537fd085f1d3a62728bfe0a1da14012ed03ff0bc13f07ffb2e66"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-2983",
+   "path": "aktvendim/2011/2983",
+   "short": "KI_44/10",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 44/10 PARASHTRUESI GAFUR PODVORICA KUNDËR MINISTRISË SË PUNËS DHE MIRËQENIES SOCIALE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2983",
+   "versions": [
+    {
+     "from": "2011-04-14",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2983",
+     "sha256": "6d2195c1bd1305439f08e339a55131d6d2718def068cbff5bf03cbb0052edc83"
     }
    ]
   },
@@ -4847,6 +5087,21 @@
    ]
   },
   {
+   "slug": "aktvendim-2011-3019",
+   "path": "aktvendim/2011/3019",
+   "short": "KI_52/09 RK 127/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 52/09 PARASHTRUESI SHEJH ALI SHEHU VLERËSIMI I KUSHTETUTSHMËRISË TË AKTGJYKIMIT TË GJYKATËS SUPREME TË REPUBLIKËS SË SERBISË REV. 995 /99, TË 2 SHKURTIT 2000",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3019",
+   "versions": [
+    {
+     "from": "2011-11-04",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3019",
+     "sha256": "63f4de0fdc04d2baec63ac9f545325b979b6ebdaf13c98f8097bb4126923d9b2"
+    }
+   ]
+  },
+  {
    "slug": "aktvendim-2011-3020",
    "path": "aktvendim/2011/3020",
    "short": "KI_52/11",
@@ -5102,6 +5357,21 @@
    ]
   },
   {
+   "slug": "aktvendim-2011-3038",
+   "path": "aktvendim/2011/3038",
+   "short": "KI_31/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 31/11 PARASHTRUESI ODA E AVOKATËVE TË KOSOVËS, PRISHTINË – TUBIMI REGJIONAL GJAKOVË VLERËSIM I KUSHTETUTSHMËRISË SË VENDIMIT TË BORDIT TË DREJTORËVE TË KOMUNËS SË GJAKOVËS...",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3038",
+   "versions": [
+    {
+     "from": "2011-12-12",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3038",
+     "sha256": "cef8751fc20624a8b1c4e95af04b2e0ddee19c404338bc6072616294d3efadfe"
+    }
+   ]
+  },
+  {
    "slug": "aktvendim-2011-3039",
    "path": "aktvendim/2011/3039",
    "short": "KI_34/11",
@@ -5143,6 +5413,21 @@
      "units": 1,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3042",
      "sha256": "2bc1fc342927d8412e18fb225319d91957f9f10afec73014c3d8e68231936665"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2011-3043",
+   "path": "aktvendim/2011/3043",
+   "short": "KI_99/10",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 99/10 PARASHTRUESI H.C. “EMIN DURAKU” SH.A. VLERËSIM I KUSHTETUTSHMËRISË SË VENDIMIT PËR PRIVATIZIM TË VALËVE 45-A DHE 46 TË AGJENCISË KOSOVARE TË PRIVATIZIMIT...",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3043",
+   "versions": [
+    {
+     "from": "2011-12-12",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3043",
+     "sha256": "bcac41c396a091133627e1796e0964d6833662707787d06ca65fa5e20b7ebf2c"
     }
    ]
   },
@@ -5372,6 +5657,21 @@
    ]
   },
   {
+   "slug": "aktvendim-2012-3063",
+   "path": "aktvendim/2012/3063",
+   "short": "KI_41/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI PËR KËRKESËN NR. KI-41/11 PARASHTRUESI SHEFKI GJERGJI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS...",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3063",
+   "versions": [
+    {
+     "from": "2012-01-06",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3063",
+     "sha256": "a7785231fc9655aae9664287c8078d0dc752e3e790e475865f643c628c4baf10"
+    }
+   ]
+  },
+  {
    "slug": "aktvendim-2012-3064",
    "path": "aktvendim/2012/3064",
    "short": "KO_117/10",
@@ -5533,6 +5833,21 @@
      "units": 1,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3076",
      "sha256": "ee13df531d44381a57e3e444c6119a478f6e0286fb430311d3b225084452c1a2"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2012-3077",
+   "path": "aktvendim/2012/3077",
+   "short": "KI_62/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 62/11 PARASHTRUESI ÇLIRIM GREZDA VLERËSIM I KUSHTETUTSHMËRISË SË VENDIMIT TË GJYKATËS SUPREME, PN. NR. 181/2011, TË DATËS 31 MARS 2011",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3077",
+   "versions": [
+    {
+     "from": "2012-02-13",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3077",
+     "sha256": "6cd998d373b35cf380313ac17e2ade68f3ff857566a1c194430b9913d0f32510"
     }
    ]
   },
@@ -5758,6 +6073,21 @@
      "units": 1,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3095",
      "sha256": "cc6eb68bf642620cdd27e58bddb690b3613bddaacf385a994bb891a93462c80a"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2012-3096",
+   "path": "aktvendim/2012/3096",
+   "short": "KI_46/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMERI NË RASTIN NR. KI 46/11 PARASHTRUESI BEHRAM KAÇIU VLERËSIMI I KUSHTETUTSHMËRISË TË MOSEKZEKUTIMIT TË AKTGJYKIMIT CI.NR.33/2006 TË GJYKATËS KOMUNALE NË PRISHTINË, TË 5 KORRIKUT 2006",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3096",
+   "versions": [
+    {
+     "from": "2012-03-30",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3096",
+     "sha256": "490a3eeb174339ea01d10fbd534bf4aebc8dd2002c35cb9aec03f53f579c2b49"
     }
    ]
   },
@@ -6362,6 +6692,21 @@
    ]
   },
   {
+   "slug": "aktvendim-2012-3143",
+   "path": "aktvendim/2012/3143",
+   "short": "KI_17/12",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI17/12 PARASHTRUES ELEZ HAJDARAJ KËRKESË PËR VLERËSIMIN E KUSHTETUTSHMËRISË SË VENDIMIT TË QEVERISË SË KOSOVËS NR. 12/59, TË DATËS 1 SHKURT 2012",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3143",
+   "versions": [
+    {
+     "from": "2012-07-03",
+     "units": 4,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3143",
+     "sha256": "03a51dde563875adeea240b61de70d7abe88135b40aa302e1ecf7f7ae1ad821d"
+    }
+   ]
+  },
+  {
    "slug": "aktvendim-2012-3144",
    "path": "aktvendim/2012/3144",
    "short": "KI_26/11",
@@ -6587,6 +6932,21 @@
    ]
   },
   {
+   "slug": "aktvendim-2012-3167",
+   "path": "aktvendim/2012/3167",
+   "short": "KI_117/11",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NЁ RASTIN NR. KI117/11 PARASHTRUES RIDVAN HOXHA VLERЁSIM I KUSHTETUTSHMËRISË TË VENDIMIT TЁ KUVENDIT KOMUNAL NЁ PRIZREN NR. 01/011-4539",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3167",
+   "versions": [
+    {
+     "from": "2012-07-25",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3167",
+     "sha256": "effbff963b326d3597e0d545dfb6bc352e6680aab9ed2e68df7b8cfff258cbeb"
+    }
+   ]
+  },
+  {
    "slug": "aktvendim-2012-3168",
    "path": "aktvendim/2012/3168",
    "short": "KI_140/11",
@@ -6628,6 +6988,21 @@
      "units": 1,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3170",
      "sha256": "33033fbb11866add3141c82925bf779b08453e9f01dcdec56640614c465a56ec"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2012-3171",
+   "path": "aktvendim/2012/3171",
+   "short": "KI_44/12",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NЁ RASTIN NR. KI44/12 PARASHTRUESI BALI DELLOVA VLERËSIM I KUSHTETUTSHMËRISË TË AKTVENDIMIT TË GJYKATËS SUPREME TË KOSOVËS P. Z. D. 96/2011",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3171",
+   "versions": [
+    {
+     "from": "2012-07-25",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3171",
+     "sha256": "c1a6997e7adcb0921db679561c6a54411d51bd749e2786232400c9e1b5d6b866"
     }
    ]
   },
@@ -7217,6 +7592,21 @@
    ]
   },
   {
+   "slug": "aktvendim-2013-3231",
+   "path": "aktvendim/2013/3231",
+   "short": "KI_84/12",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI84/12 PARASHTRUESI SINDIKATA E PAVARUR E PENSIONISTËVE DHE INVALIDËVE TË PUNËS, PËRFAQËSUAR NGA Z. RIFAT HALILI, KRYETAR I SINDIKATËS, DEGA NË VUSHTRRI...",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3231",
+   "versions": [
+    {
+     "from": "2013-01-30",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3231",
+     "sha256": "cf2ce964118d12b42dc8422b84ff6e6f29a5eca5456a0a306e8c17f39a9e6e74"
+    }
+   ]
+  },
+  {
    "slug": "aktvendim-2013-3232",
    "path": "aktvendim/2013/3232",
    "short": "KI_92/12",
@@ -7442,6 +7832,21 @@
    ]
   },
   {
+   "slug": "aktvendim-2013-8731",
+   "path": "aktvendim/2013/8731",
+   "short": "KI_87/12 RK 353/13",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI87/12 PARASHTRUES AFRIM REXHEPI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME, AP. NR. 119/2010, TË 10 TETORIT 2011",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=8731",
+   "versions": [
+    {
+     "from": "2013-02-27",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=8731",
+     "sha256": "5de697ccd989ce8f07bf578875f2128d48ad9c287f59d69abd6b73c2c819ecec"
+    }
+   ]
+  },
+  {
    "slug": "aktvendim-2013-8732",
    "path": "aktvendim/2013/8732",
    "short": "KI_102/12 RK 365/13",
@@ -7592,6 +7997,21 @@
    ]
   },
   {
+   "slug": "aktvendim-2013-8743",
+   "path": "aktvendim/2013/8743",
+   "short": "KI_90/12 RK 363/13",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI90/12 PARASHTRUESI RAMADAN KASTRATI VLERËSIM I KUSHTETUTSHMËRISË SË URDHRIT SCC-04-0100 TË DHOMËS SË POSAÇME TË GJYKATËS SUPREME TË KOSOVËS, TË 18 GUSHTIT 2004",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=8743",
+   "versions": [
+    {
+     "from": "2013-03-12",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=8743",
+     "sha256": "26e110fb278368e54950a95c989d6d228f1713940e9d037a2a37caf3a5ec59bc"
+    }
+   ]
+  },
+  {
    "slug": "aktvendim-2013-8747",
    "path": "aktvendim/2013/8747",
    "short": "KI_49/11 RK 384/13",
@@ -7678,6 +8098,21 @@
      "units": 1,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=8753",
      "sha256": "6042264e6a2135b85bb91cfd0088388c7dd6549d67cd7e9a26cd059cb0da0cc1"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2013-8755",
+   "path": "aktvendim/2013/8755",
+   "short": "KI_19/10 RK 392/13",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN KI19/10 PARASHTRUES SH.P.K. “SYRI” VLERËSIM I KUSHTETUTSHMËRISË SË URDHRIT TË NXJERRË NGA DHOMA E POSAÇME E GJYKATËS SUPREME TË REPUBLIKËS SË KOSOVËS...",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=8755",
+   "versions": [
+    {
+     "from": "2013-03-29",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=8755",
+     "sha256": "ece18a410a1b6dba017de8ee1fcc26722ec7685caabe442049ab54027977b0ce"
     }
    ]
   },
@@ -8353,6 +8788,21 @@
      "units": 1,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=8831",
      "sha256": "3802e1c9e8cc2fd5a1236cf9374562aa8407fc6b19ae9b8d4b6bafa7bb8bce5c"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2013-8832",
+   "path": "aktvendim/2013/8832",
+   "short": "KI_39/13 RK 450/13",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI39/13 PARASHTRUES BARDHYL KRASNIQI VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT TË ISH-GJYKATËS SË QARKUT NË PRIZREN, KA. NR. 31/2012, TË 14 MARSIT 2012...",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=8832",
+   "versions": [
+    {
+     "from": "2013-07-16",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=8832",
+     "sha256": "392d05b9a32865df10a51b885542930a3cb2ce60fd213ebc9ac6e0f036458919"
     }
    ]
   },
@@ -14612,6 +15062,21 @@
    ]
   },
   {
+   "slug": "aktvendim-2016-12795",
+   "path": "aktvendim/2016/12795",
+   "short": "KI11/16",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI11/16 PARASHTRUES AZIZ REXHEPI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË KOLEGJIT TË APELIT TË DHOMËS SË POSAÇME TË GJYKATËS SUPREME TË KOSOVËS PËR ÇËSHTJE NË LIDHJE ME AGJENCINË E PRIVATIZIMIT, AC-I-14-0311-A0001-A0023, TË 15 KORRIKUT 2015",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=12795",
+   "versions": [
+    {
+     "from": "2016-08-24",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=12795",
+     "sha256": "19513c0f3d4b6bc3f4a625f220285576b459b757511e5d1590f158a0e524981c"
+    }
+   ]
+  },
+  {
    "slug": "aktvendim-2016-12796",
    "path": "aktvendim/2016/12796",
    "short": "KI59/16",
@@ -15992,6 +16457,351 @@
    ]
   },
   {
+   "slug": "aktvendim-2017-14803",
+   "path": "aktvendim/2017/14803",
+   "short": "GJK-KI30/16-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI30/16 PARASHTRUES KONZORCIUMI “ALFA.I” SH.P.K. & “INFRATEK” VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS, E. REV. NR. 44/2015, TË 18 NËNTORIT 2015",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=14803",
+   "versions": [
+    {
+     "from": "2017-06-14",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=14803",
+     "sha256": "7444690dedd0466cdd50e83f973d0b990a2af8baca5ecdb07422f064da816539"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-14804",
+   "path": "aktvendim/2017/14804",
+   "short": "GJK-KI34/17-AKV",
+   "title": "AKTGJYKIM NË RASTIN NR. KI34/17 PARASHTRUES VALDETE DAKA VLERËSIM I KUSHTETUTSHMËRISË SË VENDIMIT TË KËSHILLIT GJYQËSOR TË KOSOVËS, KGJK NR. 50/2017, TË 6 MARSIT 2017",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=14804",
+   "versions": [
+    {
+     "from": "2017-06-14",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=14804",
+     "sha256": "8e08beeb9083a0cb1923f1c7ba16cea2fee6915d2a4df2b2fa1ed4a3dde1b8e5"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-14808",
+   "path": "aktvendim/2017/14808",
+   "short": "GJK-KI112/16-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI112/16 PARASHTRUES N.T.SH. “LOKI” VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS, REV. NR. 110/16, TË 7 QERSHORIT 2016",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=14808",
+   "versions": [
+    {
+     "from": "2017-06-14",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=14808",
+     "sha256": "323fa37cb83d18037f974bed7cfc0ddc73b2e8516abacca9620e65733e012d63"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-14809",
+   "path": "aktvendim/2017/14809",
+   "short": "GJK-KI117/16-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI117/16 PARASHTRUES REXHEP LUSHTAKU TAFIL MEHA SHEFQET BYTYQI BEDRI GASHI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS, ARJ NR. 18/16, TË 23 MAJIT 2016",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=14809",
+   "versions": [
+    {
+     "from": "2017-06-14",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=14809",
+     "sha256": "734b31c99a0eed8a4746edd6ffa7c430e1606818c21420972faddd342b794dfb"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-14810",
+   "path": "aktvendim/2017/14810",
+   "short": "GJK-KI133/16-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI133/16 PARASHTRUES SHOQËRIA ME PËRGJEGJËSI TË KUFIZUAR “3CIS JSC” VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SË APELIT TË KOSOVËS, A. A. NR. 232/2015, TË 9 MARSIT 2016",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=14810",
+   "versions": [
+    {
+     "from": "2017-06-14",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=14810",
+     "sha256": "3ad778630e74fc427b7d0acb05e7f70075a98489d66547a66b012796e7a5c919"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-14811",
+   "path": "aktvendim/2017/14811",
+   "short": "GJK-KI138/16-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI138/16 PARASHTRUES GANI GËRBESHI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME, PML. KZZ. 136/16, TË 14 KORRIKUT 2016",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=14811",
+   "versions": [
+    {
+     "from": "2017-06-14",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=14811",
+     "sha256": "081b28add0666a18fca76b5a0f83443a50bf015f48255b1a8bbe377c5507fc1c"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-14812",
+   "path": "aktvendim/2017/14812",
+   "short": "GJK-KI141/15-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI141/15 PARASHTRUES HAJDAR PODRIMJA KËRKESË PËR VLERËSIMIN E KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME, ARJ-UZVP NR. 29/2015, TË 29 TETORIT 2015",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=14812",
+   "versions": [
+    {
+     "from": "2017-06-14",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=14812",
+     "sha256": "581f7dcef9e7664857f91424d6b507faf11a6475378f0a1cce3be97406666300"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-14813",
+   "path": "aktvendim/2017/14813",
+   "short": "GJK-KI145/16-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI145/16 PARASHTRUES KUJTIM SHABANI, LULËZIM SHABANI, LULJETA SHABANI DHE ALIJE SHABANI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS, REV. NR. 263/2016, TË 9 NËNTORIT 2016",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=14813",
+   "versions": [
+    {
+     "from": "2017-06-14",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=14813",
+     "sha256": "6ccc930dfdc64532941656a85db30a06ec1d06a2812f0f584c91fad1260f1f4c"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-14814",
+   "path": "aktvendim/2017/14814",
+   "short": "GJK-KI147/16-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI147/16 PARASHTRUES ASLLAN FAZLIU VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME, REV. NR. 250/2016, TË 13 TETORIT 2016",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=14814",
+   "versions": [
+    {
+     "from": "2017-06-14",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=14814",
+     "sha256": "ad9fee7952b1c5c9336d02afa9730eb3f2b21f7830f374563ff4578347af07dd"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-14815",
+   "path": "aktvendim/2017/14815",
+   "short": "GJK-KI148/16-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI148/16 PARASHTRUES MITAT QOVANAJ VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT TË GJYKATËS THEMELORE NË PRIZREN, CP. NR. 1976/13, TË 22 MAJIT 2014",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=14815",
+   "versions": [
+    {
+     "from": "2017-06-14",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=14815",
+     "sha256": "2f67fe57967f378d35b583ea936f0f6d0d346fb06805ae1a71116b023c58cbae"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-14825",
+   "path": "aktvendim/2017/14825",
+   "short": "GJK-KI127/15-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI127/15 PARASHTRUES MILE VASOVIĆ KËRKESË PËR VLERËSIMIN E KUSHTETUTSHMËRISË SË PROCEDURAVE NË ZHVILLIM NË GJYKATAT E RREGULLTA TË REPUBLIKËS SË KOSOVËS, PËRKITAZI ME LËNDËN C. NR. 850/07 (P. NR. 850/07)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=14825",
+   "versions": [
+    {
+     "from": "2017-06-20",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=14825",
+     "sha256": "df82a9ae17de6f6c5a60afa662f82ce8c4956574703df2f71c87893f81146d61"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-14826",
+   "path": "aktvendim/2017/14826",
+   "short": "GJK-KI141/16-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI141/16 PARASHTRUES AGROUNION SH.P.K VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT TË GJYKATËS SË APELIT TË KOSOVËS, KA. NR. 339/2016, TË 15 PRILLIT 2016, DHE NJOFTIMIT TË KRYEPROKURORIT TË SHTETIT TË REPUBLIKËS SË KOSOVËS, KMLK. NR. 7/16, TË 29 KORRIKUT 2016",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=14826",
+   "versions": [
+    {
+     "from": "2017-06-20",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=14826",
+     "sha256": "849ca7727f53601361924a25f2edbf9f158f5414eab70c96f55b4387bd13b8c2"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-14829",
+   "path": "aktvendim/2017/14829",
+   "short": "GJK-KI07/17-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI07/17 PARASHTRUES PASHK MIRASHI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS, PML. NR. 228/2016, TË 20 TETORIT 2016 DHE AKTGJYKIMIT TË GJYKATËS SË APELIT, PAKR NR. 231/2015, TË 6 GUSHTIT 2015",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=14829",
+   "versions": [
+    {
+     "from": "2017-06-20",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=14829",
+     "sha256": "b71b05d5b4660aeeb09404ace8da302aa1c0783b36fe2ae4c3b39442ab850745"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-14922",
+   "path": "aktvendim/2017/14922",
+   "short": "GJK-KI38/17-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI38/17 PARASHTRUES MELEQ YMERI VLERËSIM I KUSHTETUTSHMËRISË SË VENDIMEVE TË MINISTRISË SË PUNËS DHE MIRËQENIES SOCIALE, DEPARTAMENTI I PENSIONEVE, NR. 202108, TË 3 QERSHORIT DHE TË 18 NËNTORIT 2016",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=14922",
+   "versions": [
+    {
+     "from": "2017-07-20",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=14922",
+     "sha256": "41475898a348b0bf42c82b20c83869a9b7a4c8c1008b4648ab658cd91d035db6"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-14923",
+   "path": "aktvendim/2017/14923",
+   "short": "GJK-KI40/17-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI40/17 PARASHTRUES MUHARREM BYTYQI DHE TË TJERËT VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË KOLEGJIT TË APELIT TË DHOMËS SË POSAÇME TË GJYKATËS SUPREME TË KOSOVËS PËR ÇËSHTJET QË LIDHEN ME AGJENCINË KOSOVARE TË PRIVATIZIMIT, NR. AC-I-13-0087 DHE AC-I-13-0091, TË 16 MARSIT 2017",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=14923",
+   "versions": [
+    {
+     "from": "2017-07-20",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=14923",
+     "sha256": "e4bf9d301147ad8ad7b43e3c875d26f90b184b0e21ca1658de4e38661b3227c2"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-14924",
+   "path": "aktvendim/2017/14924",
+   "short": "GJK-KI50/15-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI50/15 PARASHTRUES FLORIM LECI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME PML. NR. 230/2014, TË 4 DHJETORIT 2014",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=14924",
+   "versions": [
+    {
+     "from": "2017-07-20",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=14924",
+     "sha256": "34dbb978f50c488e595bfcd5462497efee9f983dc5d14b58b3b729afb4dda2dc"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-14925",
+   "path": "aktvendim/2017/14925",
+   "short": "GJK-KI54/16-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI54/16 PARASHTRUES RAMADAN DEMIROVIĆ VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË KOLEGJIT TË APELIT TË GJYKATËS SUPREME TË AGJENCISË KOSOVARE TË PRONËS, GSK-KPA-A-002/14, TË 14 TETORIT 2015",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=14925",
+   "versions": [
+    {
+     "from": "2017-07-20",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=14925",
+     "sha256": "2629b8cd990cf32a2e7ce2953dd3c3492faba92493b3886b50707b1eeaa12fe4"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-14928",
+   "path": "aktvendim/2017/14928",
+   "short": "GJK-KI92/16-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI92/16 PARASHTRUES JUSUF BERISHA VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS, REV. NR. 344/2015, TË 12 JANARIT 2016",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=14928",
+   "versions": [
+    {
+     "from": "2017-07-20",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=14928",
+     "sha256": "624450b1cf5c1d9e27ab5932cb9c5358c643d893df8b42a927ee7dd25ed716c7"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-14929",
+   "path": "aktvendim/2017/14929",
+   "short": "GJK-KI130/16-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI130/16 PARASHTRUES HAMDI IBRAHIMI VLERËSIM I KUSHTETUTSHMËRISË SË VENDIMIT TË KËSHILLIT GJYQËSOR TË KOSOVËS, KGJK/NR. 74/2016, TË 6 KORRIKUT 2016",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=14929",
+   "versions": [
+    {
+     "from": "2017-07-20",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=14929",
+     "sha256": "1f6bb4743c4665275234dfac9493325f19824c8e0a64ba1767b18e7a8f370d91"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-14930",
+   "path": "aktvendim/2017/14930",
+   "short": "GJK-KI134/16-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI134/16 PARASHTRUES DEDË HASANI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SË APELIT TË KOSOVËS, PAKR. NR. 379/16, TË 21 SHTATORIT 2016",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=14930",
+   "versions": [
+    {
+     "from": "2017-07-20",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=14930",
+     "sha256": "43d7ae00896344f7d991e15f4e713dab329d33daf220154be3afb6cc668a43ac"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-14971",
+   "path": "aktvendim/2017/14971",
+   "short": "GJK-KI30/17-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI30/17 PARASHTRUES MUHARREM NUREDINI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME, REV. NR. 206/2016, TË 13 TETORIT 2016",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=14971",
+   "versions": [
+    {
+     "from": "2017-08-11",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=14971",
+     "sha256": "bc2e4987090d89828db3d35784e85e8a4eef9ed30e35ac96f628a71fb6ea7f4f"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-14974",
+   "path": "aktvendim/2017/14974",
+   "short": "GJK-KI107/16-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI107/16 PARASHTRUES SAFET MUHAXHERI DHE TË TJERËT VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË KOLEGJIT TË SPECIALIZUAR TË DHOMËS SË POSAÇME TË GJYKATËS SUPREME TË KOSOVËS PËR ÇËSHTJE QË LIDHEN ME AGJENCINË KOSOVARE TË PRIVATIZIMIT, SCEL-09-0022-C13, TË 28 QERSHORIT 2013",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=14974",
+   "versions": [
+    {
+     "from": "2017-08-11",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=14974",
+     "sha256": "ad3f770309952ac17c971b93c648336daef3dc9dfb195ec4b3b6f7aa4949c328"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2017-14975",
+   "path": "aktvendim/2017/14975",
+   "short": "GJK-KI131/16-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI131/16 PARASHTRUES TAHIR CUKAJ VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT TË GJYKATËS SUPREME TË KOSOVËS, REV. NR. 184/2016, TË 1 SHTATORIT 2016",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=14975",
+   "versions": [
+    {
+     "from": "2017-08-11",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=14975",
+     "sha256": "cae38c61a8a45b26811ad288cf32aaf1ec8d84a92e04a1e28d82f0f5a0eca2dc"
+    }
+   ]
+  },
+  {
    "slug": "aktvendim-2017-15236",
    "path": "aktvendim/2017/15236",
    "short": "GJK-KI15/17-AKV",
@@ -16948,6 +17758,21 @@
      "units": 1,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=16004",
      "sha256": "34c26eda5dc090d144ffdffc1d0fdc0adc108d1f45d02c8b8b2a93b00767c156"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2018-16005",
+   "path": "aktvendim/2018/16005",
+   "short": "GJK-KI60/17-AKV",
+   "title": "AKVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI60/17 PARASHTRUES KRU “RADONIQI” GJAKOVË KËRKESË PËR VLERËSIMIN E KUSHTETUTSHMËRISË SË NENIT 4 TË LIGJIT NR. 05/L-118 PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJIT NR. 04/L-139 PËR PROCEDURËN PËRMBARIMORE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=16005",
+   "versions": [
+    {
+     "from": "2018-02-20",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=16005",
+     "sha256": "d636a3a9486a9c8257edfd1238a2f22a56bbbf66c1d859e0cc88f484bd0fadd3"
     }
    ]
   },
@@ -23923,6 +24748,171 @@
      "units": 1,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=48411",
      "sha256": "168bfad183079fadd3ef4f28cbb1266af578f33356dad0c3413b1d9c0e96e682"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2021-48675",
+   "path": "aktvendim/2021/48675",
+   "short": "GJK-KI36/21-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI36/21 PARASHTRUES SYLË OSMANI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME, PML. NR. 352/2020, TË 20 JANARIT 2020",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=48675",
+   "versions": [
+    {
+     "from": "2021-10-08",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=48675",
+     "sha256": "2c4250d0ff5b442f406dce637ef75e62885cf83e29200574746aed11d8374e25"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2021-48676",
+   "path": "aktvendim/2021/48676",
+   "short": "GJK-KI37/21-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI37/21 PARASHTRUES ISA TUSHA, NASER TUSHA DHE MIRADIJE TUSHA VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS REV. NR. 343/2019 TË 24 DHJETORIT 2020",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=48676",
+   "versions": [
+    {
+     "from": "2021-10-08",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=48676",
+     "sha256": "ddea5cab680d849976b96fc203fc2640c7a06bce0d30c2635714bd507eee8d49"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2021-48677",
+   "path": "aktvendim/2021/48677",
+   "short": "GJK-KI40/21-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI40/21 PARASHTRUES BEDRI KRASNIQI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SË APELIT TË KOSOVËS, AC.NR.3510/15, TË 19 NËNTORIT 2018",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=48677",
+   "versions": [
+    {
+     "from": "2021-10-08",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=48677",
+     "sha256": "b03cf5f9bc0c840b79fb0e8bbddb1b1e1cf9bf52eb9299cd3c6f70fcf5c19b58"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2021-48679",
+   "path": "aktvendim/2021/48679",
+   "short": "GJK-KI64/21-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI64/21 PARASHTRUES ALI GJONBALAJ VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SË APELIT, AC.NR. 1848/17, TË 11 GUSHTIT 2020",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=48679",
+   "versions": [
+    {
+     "from": "2021-10-08",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=48679",
+     "sha256": "c3b3de14c36891bf5effe79c8d6ab302de4a2ceafd57160a9eb20545e392ac57"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2021-48680",
+   "path": "aktvendim/2021/48680",
+   "short": "GJK-KI67/21-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR.KI67/21 PARASHTRUES BURIM ZHUBI VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT TË GJYKATËS SË APELIT, AC.NR.5196/2020 TË 22 SHKURTIT 2021",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=48680",
+   "versions": [
+    {
+     "from": "2021-10-08",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=48680",
+     "sha256": "7c73c6b6fb0c3eaef5c1ea7239830979d6636e3b009bee0a770f1cca2137cf71"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2021-48681",
+   "path": "aktvendim/2021/48681",
+   "short": "GJK-KI73/21-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI73/21 PARASHTRUES MINIRE KRASNIQI-ZHITIA VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË KOLEGJIT TË APELIT TË DHOMËS SË POSAÇME TË GJYKATËS SUPREME PËR ÇËSHTJE QË LIDHEN ME AGJENCINË KOSOVARE TË PRIVATIZIMIT, AC-I-20-0064 TË 17 DHJETORIT 2020",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=48681",
+   "versions": [
+    {
+     "from": "2021-10-08",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=48681",
+     "sha256": "b2c8563ed4bc140825a2a98ae177613d555a04356b53915a925005e46ca307a5"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2021-48684",
+   "path": "aktvendim/2021/48684",
+   "short": "GJK-KI85/21-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI85/21 PARASHTRUES ZELIHANE HALILI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME, ARJ-UZVP. NR. 76/2020, TË 30 NËNTORIT 2020",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=48684",
+   "versions": [
+    {
+     "from": "2021-10-08",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=48684",
+     "sha256": "dd9cd8bc86a0979507d179c3bdfeea9d85f0b9ce5545504fdf5a8f7a24aa4a64"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2021-48685",
+   "path": "aktvendim/2021/48685",
+   "short": "GJK-KI90/21-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI90/21 PARASHTRUES RESHAD ZHERKA VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT [03/44/19] TË AGJENCISË KADASTRALE TË KOSOVËS, TË 8 SHKURTIT 2019",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=48685",
+   "versions": [
+    {
+     "from": "2021-10-08",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=48685",
+     "sha256": "6b4388dbb11c62459b4aa8001662e6dd919faaa9c5d9cb2576410bc8dd799615"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2021-48686",
+   "path": "aktvendim/2021/48686",
+   "short": "GJK-KI96/20-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI96/20 PARASHTRUES VEGIM BLLACAKU VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT TË GJYKATËS SUPREME [REV. NR. 352/2018], TË 28 TETORIT 2019",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=48686",
+   "versions": [
+    {
+     "from": "2021-10-08",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=48686",
+     "sha256": "78db6b8b682fac9d9187eec036715ea510381997a208dc3d7dfc06f8a9d81bb1"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2021-48687",
+   "path": "aktvendim/2021/48687",
+   "short": "GJK-KI96/21-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR.KI96/21 PARASHTRUES XHELAL ZHERKA VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME, REV.599/2020, TË 1 PRILLIT 2021",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=48687",
+   "versions": [
+    {
+     "from": "2021-10-08",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=48687",
+     "sha256": "03c59b7817fd6d287d14c1a637966026ac30b00b820f1abaa9f3d49f62ca9311"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2021-48693",
+   "path": "aktvendim/2021/48693",
+   "short": "GJK-KI194/20-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI194/20 PARASHTRUES KORAB SHASIVARI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME REV. NR. 423/2019 TË 10 QERSHORIT 2020",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=48693",
+   "versions": [
+    {
+     "from": "2021-10-08",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=48693",
+     "sha256": "56748d0263ef4cd64c30c3d1f1086f2f5f07d0400995e8d8d45167a94659d104"
     }
    ]
   },
@@ -38477,6 +39467,156 @@
    ]
   },
   {
+   "slug": "aktvendim-2026-126167",
+   "path": "aktvendim/2026/126167",
+   "short": "GJK-KI368/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI368/25 PARASHTRUES AJET QERKINI , ABEDIN QELI, MUSLI CAKOLLI DHE NEXHAT MISINI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT REV.NR.591/2024 TË 26 QERSHORIT 2025 TË GJYKATËS SUPREME",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=126167",
+   "versions": [
+    {
+     "from": "2026-11-06",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=126167",
+     "sha256": "b29ee9aa799968d42ab5a4ebce7537b654f3272ff1913a1da02c84b2fc8c92ac"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-126168",
+   "path": "aktvendim/2026/126168",
+   "short": "GJK-KI335/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI335/25 PARASHTRUES EUROFAMIS SH.A. VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT [KOM.DH.SHK.II.NR.128/2025] TË 30 PRILLIT 2025 TË GJYKATËS KOMERCIALE-DHOMA E SHKALLËS SË DYTË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=126168",
+   "versions": [
+    {
+     "from": "2026-11-06",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=126168",
+     "sha256": "67dda855b6ef62290cd704961d8fcb482735a14bd41963bab355541f45d7f542"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-126169",
+   "path": "aktvendim/2026/126169",
+   "short": "GJK-KI326/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI326/25 PARASHTRUES RADOVAN RADIĆ VLERËSIM I KUSHTETUTSHMËRISË SË VENDIMIT NR. 29/68 TË 23 MARSIT 2022 TË QEVERISË SË REPUBLIKËS SË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=126169",
+   "versions": [
+    {
+     "from": "2026-11-06",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=126169",
+     "sha256": "1dd4d48b7913962e427ccea0d58ee02a70f7461a517fd916350492ff19fb03b0"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-126170",
+   "path": "aktvendim/2026/126170",
+   "short": "GJK-KI305/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI305/25 PARASHTRUES “AUTO KENA” SH.P.K VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT E.REV.NR.33/2025 TË 23 KORRIKUT 2025 TË GJYKATËS SUPREME TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=126170",
+   "versions": [
+    {
+     "from": "2026-11-06",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=126170",
+     "sha256": "2b36dd41d6f4a5e5a696505dceac6d98834cbe557a2ba442427ef3baff312185"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-126172",
+   "path": "aktvendim/2026/126172",
+   "short": "GJK-KI303/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI303/25 PARASHTRUES SABRI QERIQI VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT [AC-I-24-0253] TË 29 MAJIT 2025 TË KOLEGJIT TË APELIT, DHOMA E POSAÇME E GJYKATËS SUPREME",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=126172",
+   "versions": [
+    {
+     "from": "2026-11-06",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=126172",
+     "sha256": "abc76d01647814b065a8a4cae8302ee10f0862441c38e4b639786a904af30146"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-126173",
+   "path": "aktvendim/2026/126173",
+   "short": "GJK-KI293/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI293/25 PARASHTRUES ISMET SHEQIRI VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT [AC-I-24-0157] TË 30 PRILLIT 2025 TË KOLEGJIT TË APELIT TË DHOMËS SË POSAÇME TË GJYKATËS SUPREME PËR ÇËSHTJET NË LIDHJE ME AGJENCINË KOSOVARE TË PRIVATIZIMIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=126173",
+   "versions": [
+    {
+     "from": "2026-11-06",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=126173",
+     "sha256": "1492fc96a6bf2a65f40f964c20b87ddd029db80b13269f6a2a91c854fc3bdc8e"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-126175",
+   "path": "aktvendim/2026/126175",
+   "short": "GJK-KI228/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI228/25 PARASHTRUES ZEQ REXHAJ VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [CA.NR.14387/2024] TË 24 QERSHORIT 2025 TË GJYKATËS SË APELIT TË REPUBLIKËS SË KOSOVËS, LIDHUR ME AKTGJYKIMIN [C.NR.2206/23] E 27 SHTATORIT 2024 TË GJYKATËS THEMELORE NË GJAKOVË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=126175",
+   "versions": [
+    {
+     "from": "2026-11-06",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=126175",
+     "sha256": "1a47d1364a30a4c0a9a419a3125683a65c202b1ab643f7de84bc3159cb0652f5"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-126176",
+   "path": "aktvendim/2026/126176",
+   "short": "GJK-KI109/26-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI109/26 PARASHTRUES “MENTI” SH.P.K. VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT A-REV.NR.52/2025 TË 2 DHJETORIT 2025 TË GJYKATËS SUPREME TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=126176",
+   "versions": [
+    {
+     "from": "2026-11-06",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=126176",
+     "sha256": "2a69f4566312faf381360725643e7c7207166d6d4fe662a7f0dfe2ef0b466a1a"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-126177",
+   "path": "aktvendim/2026/126177",
+   "short": "GJK-KI103/26-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 103/26 PARASHTRUES N.T.N. “RONI RIKI” VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [A.REV.NR.61/2025] TË 23 SHKURTIT 2026 TË GJYKATËS SUPREME TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=126177",
+   "versions": [
+    {
+     "from": "2026-11-06",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=126177",
+     "sha256": "94f389a3b0bfaa1566f61c84b69b551ee883a380edd9a6ac77b443f7fc4df604"
+    }
+   ]
+  },
+  {
+   "slug": "aktvendim-2026-126178",
+   "path": "aktvendim/2026/126178",
+   "short": "GJK-KI70/26-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI70/26 PARASHTRUES XHEVDET ALIU VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT [CA.P.942/2024] TË 9 SHTATORIT 2025 TË GJYKATËS SË APELIT TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=126178",
+   "versions": [
+    {
+     "from": "2026-11-06",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=126178",
+     "sha256": "33c33f97dc26943ba23748d1c27068709bd907f1256b72b1bb58bda757bc9dca"
+    }
+   ]
+  },
+  {
    "slug": "dekret-2010-3346",
    "path": "dekret/2010/3346",
    "short": "DMN-021-2010",
@@ -38567,6 +39707,666 @@
    ]
   },
   {
+   "slug": "ligj-2006-2412",
+   "path": "ligj/2006/2412",
+   "short": "02/L-12",
+   "title": "LIGJI NR. 02/L-12 PËR TEATRIN",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2412",
+   "versions": [
+    {
+     "from": "2006-10-01",
+     "units": 75,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2412",
+     "sha256": "97592b7e30462dda36836e7489d227441f96b3aa690f01430120ef84c655b79d"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2006-2413",
+   "path": "ligj/2006/2413",
+   "short": "02/L-34",
+   "title": "LIGJI NR. 02/L-34 PËR METROLOGJI",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2413",
+   "versions": [
+    {
+     "from": "2006-10-01",
+     "units": 85,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2413",
+     "sha256": "6ea4f57b563cc6ea21ef73e96a4107e106518659ead138de85a5dbf90c842913"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2006-2414",
+   "path": "ligj/2006/2414",
+   "short": "02/L-45",
+   "title": "LIGJI NR. 02/L-45 PËR DIZAJNIN INDUSTRIAL",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2414",
+   "versions": [
+    {
+     "from": "2006-10-01",
+     "units": 64,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2414",
+     "sha256": "35d2640aa8319122b2d544f0175f70d310035274bdc35afd28c49fdf2a983574"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2006-2415",
+   "path": "ligj/2006/2415",
+   "short": "02/L-20",
+   "title": "LIGJI NR. 02/L-20 PËR KËRKESAT TEKNIKE PËR PRODUKTE DHE VLERËSIM TË KONFORMITETIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2415",
+   "versions": [
+    {
+     "from": "2006-11-01",
+     "units": 21,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2415",
+     "sha256": "f73531399af7be2a94c3a1e97e530fbf7fe73b6702776bbad20d47d2f74b6595"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2006-2416",
+   "path": "ligj/2006/2416",
+   "short": "02/L-5",
+   "title": "LIGJI NR. 02/L-5 PËR MBËSHTETJEN E NDËRMARRJEVE TË VOGLA DHE TË MESME",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2416",
+   "versions": [
+    {
+     "from": "2006-11-01",
+     "units": 18,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2416",
+     "sha256": "2a230fd294105d275b50f605d1d457b9d40acfe34d28448a558caf2755d73043"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2006-2417",
+   "path": "ligj/2006/2417",
+   "short": "2004/35",
+   "title": "LiIGJI NR.2004/35 PËR LOJËRAT E FATIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2417",
+   "versions": [
+    {
+     "from": "2006-11-01",
+     "units": 12,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2417",
+     "sha256": "214df145a56fa51a29076a8822b96abd04c805f8fd39f7c711dcaef1077eeff8"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2006-2420",
+   "path": "ligj/2006/2420",
+   "short": "02/L-40",
+   "title": "LIGJI NR. 02/L-40 PËR PROVIMIN E JURISPRUDENCËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2420",
+   "versions": [
+    {
+     "from": "2006-12-01",
+     "units": 23,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2420",
+     "sha256": "329555d2be7d4446c1e19b8ef99981147f951598c94b141504ce9e72f57f80a3"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2006-2421",
+   "path": "ligj/2006/2421",
+   "short": "02/L-43",
+   "title": "LIGJI NR. 02/L-43 PËR AKREDITIMIN",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2421",
+   "versions": [
+    {
+     "from": "2006-12-01",
+     "units": 16,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2421",
+     "sha256": "5a6ca4a4f4eab8d6715426f3bbbc42bd25f87a2bcbfa0e23ba01153516eeedf4"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2006-2423",
+   "path": "ligj/2006/2423",
+   "short": "02/L-14",
+   "title": "LIGJI NR. 02/L-14 PËR PRODUKTET E NDËRTIMIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2423",
+   "versions": [
+    {
+     "from": "2006-12-15",
+     "units": 36,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2423",
+     "sha256": "7df323ef05e39b4f3f2ae34c95497372f490fe3420de7bc83b409ab8bb6b0b3d"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2006-2425",
+   "path": "ligj/2006/2425",
+   "short": "02/L-33",
+   "title": "LIGJI NR. 02/L-33 PËR INVESTIMET E HUAJA",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2425",
+   "versions": [
+    {
+     "from": "2006-12-15",
+     "units": 29,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2425",
+     "sha256": "5bbfddffc37ef1da4c1ee4a029dfb03c117d8d0a5f112243d294771c8db78bdc"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2007-2435",
+   "path": "ligj/2007/2435",
+   "short": "02/L-1",
+   "title": "LIGJI NR. 02/L-1 PËR INSPEKSIONIN E TREGUT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2435",
+   "versions": [
+    {
+     "from": "2007-02-01",
+     "units": 39,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2435",
+     "sha256": "97ebb7842335963eb732780605d22fcd1285189c05bac261d23d7306acd333b4"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2007-2439",
+   "path": "ligj/2007/2439",
+   "short": "2004/49",
+   "title": "LIGJI NR. 2004/49 PËR PATENTIM",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2439",
+   "versions": [
+    {
+     "from": "2007-02-01",
+     "units": 83,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2439",
+     "sha256": "cc4df92d1d4d0fbc7625aa1f2336dd3052f96a18f12f2886618bab1d5ad2214b"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2007-2445",
+   "path": "ligj/2007/2445",
+   "short": "2004/45",
+   "title": "LIGJI NR. 2004/45 PËR TË DREJTAT E AUTORIT DHE TË DREJTAT E TJERA TË PËRAFËRTA",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2445",
+   "versions": [
+    {
+     "from": "2007-04-01",
+     "units": 224,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2445",
+     "sha256": "f5555c54d6ba4bbe21e921fa3b7bc4155aa6ea33b1e9098e3c3c34cec4da013e"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2007-2451",
+   "path": "ligj/2007/2451",
+   "short": "2003/7",
+   "title": "LIGJI Nr. 2003/7 PËR LËNDËN ARKIVORE DHE ARKIVAT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2451",
+   "versions": [
+    {
+     "from": "2007-06-01",
+     "units": 51,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2451",
+     "sha256": "9afa1e54a61f7791071a48a3d3892cdcd0dfc1f8f381b915abb31b00c0aa85d3"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2007-2452",
+   "path": "ligj/2007/2452",
+   "short": "2004/12",
+   "title": "LIGJI NR.2004/12 PËR STANDARDIZIMIN",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2452",
+   "versions": [
+    {
+     "from": "2007-06-01",
+     "units": 27,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2452",
+     "sha256": "537b049e0b2a8f71b43f9a4690ba205c1e59f524807fc5ff2a7ee0919a3eb6e3"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2007-2456",
+   "path": "ligj/2007/2456",
+   "short": "02/L-54",
+   "title": "LIGJI NR. 02/L-54 PËR MARKAT TREGTARE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2456",
+   "versions": [
+    {
+     "from": "2007-07-01",
+     "units": 93,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2456",
+     "sha256": "13f1f0746b693fd7f83d112e85391ace7a1339cc141812c559e5ad25d2198ec9"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2007-2459",
+   "path": "ligj/2007/2459",
+   "short": "2004/36",
+   "title": "LIGJI NR.2004/36 PER KONKURRENCËN",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2459",
+   "versions": [
+    {
+     "from": "2007-07-01",
+     "units": 40,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2459",
+     "sha256": "69239e638a0779dfecee2946e8d11a063e1042f50cd54018de5e289898b6c8d8"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2007-2461",
+   "path": "ligj/2007/2461",
+   "short": "2003/16",
+   "title": "LIGJI NR. 2003/16 PËR REGJISTRIMIN E POPULLSISË, TË EKONOMIVE FAMILJARE DHE TË BANESAVE NË KOSOVË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2461",
+   "versions": [
+    {
+     "from": "2007-08-01",
+     "units": 28,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2461",
+     "sha256": "8efc75c566509322bcfe19593b6d359afde9f829fac47d61a4e09be94429025b"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2007-2464",
+   "path": "ligj/2007/2464",
+   "short": "2004/30",
+   "title": "LIGJI NR. 2004/30 PËR MBROJTJEN E AJRIT NGA NDOTJA",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2464",
+   "versions": [
+    {
+     "from": "2007-08-01",
+     "units": 31,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2464",
+     "sha256": "bf5f3798a3400179d6cc266f983c54581a16adb73faf5c061d948b81b90df32c"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2007-2470",
+   "path": "ligj/2007/2470",
+   "short": "2003/12",
+   "title": "LIGJI NR. 2003/12 PËR QASJE NË DOKUMENTE ZYRTARE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2470",
+   "versions": [
+    {
+     "from": "2007-10-01",
+     "units": 20,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2470",
+     "sha256": "50225b123f4852878c49a1df137c05823b666c46b90e58b9f966e766807055ae"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2007-2478",
+   "path": "ligj/2007/2478",
+   "short": "2004/28",
+   "title": "LIGJI NR.2004/28 PËR PUNIMET NGA METALET E ÇMUARA",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2478",
+   "versions": [
+    {
+     "from": "2007-11-01",
+     "units": 35,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2478",
+     "sha256": "b93db0197d7dfef2e5db4fe4260340b728ff82988d8140792308d48c962eaa00"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2007-2481",
+   "path": "ligj/2007/2481",
+   "short": "2003/18",
+   "title": "LIGJI NR. 2003/18 PËR SHËRBIMET POSTARE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2481",
+   "versions": [
+    {
+     "from": "2007-12-01",
+     "units": 42,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2481",
+     "sha256": "82fd4bf33c6d06c2c2ef30408f302f81458a3601255354354b12b658fbd881d2"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2007-2482",
+   "path": "ligj/2007/2482",
+   "short": "2004/16",
+   "title": "LIGJI NR. 2004/16 PER VEPRIMTARITË HOTELIERE DHE TURISTIKE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2482",
+   "versions": [
+    {
+     "from": "2007-12-01",
+     "units": 118,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2482",
+     "sha256": "6abce6f7f3187b142d6c01a8cdde36e47b8a36e09cd84dc3702caf4c9a65084d"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2008-2487",
+   "path": "ligj/2008/2487",
+   "short": "2003/25",
+   "title": "LIGJI NR. 2003/25 PËR KADASTRIN",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2487",
+   "versions": [
+    {
+     "from": "2008-02-01",
+     "units": 35,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2487",
+     "sha256": "0bfc27740ed90dc12a9cbd84d1af88904440021bc0941b1970a7dd88d16c00d1"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2008-2488",
+   "path": "ligj/2008/2488",
+   "short": "2003/26",
+   "title": "LIGJI NR.2003/26 PËR PRODUKTET MEDICINALE DHE PAJISJET MEDICINALE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2488",
+   "versions": [
+    {
+     "from": "2008-02-01",
+     "units": 38,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2488",
+     "sha256": "a7bcb747dfbef76ae699278fdcc2bd6545d8b8c20aceb68b9ab1174fc1a1099c"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2008-2492",
+   "path": "ligj/2008/2492",
+   "short": "2004/17",
+   "title": "LIGJI NR. 2004/17 PËR MBROJTJEN E KONSUMATORËVE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2492",
+   "versions": [
+    {
+     "from": "2008-03-01",
+     "units": 46,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2492",
+     "sha256": "6e7f2d3fd006b4a0f25eeed723dfdf034f9efcb56ac6da3093c279d311622130"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2008-2494",
+   "path": "ligj/2008/2494",
+   "short": "2004/8",
+   "title": "LIGJI NR. 2004/8 PËR ENERGJINË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2494",
+   "versions": [
+    {
+     "from": "2008-03-01",
+     "units": 39,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2494",
+     "sha256": "d2aa7b1a74f2d24cdd7520681270072fd6175b98c1bb88f837ef18bccaeb35b1"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2008-2495",
+   "path": "ligj/2008/2495",
+   "short": "2004/9",
+   "title": "LIGJ NR. 2004/9 PËR RREGULLATORIN E ENERGJISË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2495",
+   "versions": [
+    {
+     "from": "2008-03-01",
+     "units": 60,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2495",
+     "sha256": "558fb1c6c3f00a5570ec44f56020342799ec99aae34f8df8bbcbfe0142ecf1ca"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2008-2499",
+   "path": "ligj/2008/2499",
+   "short": "02/L-41",
+   "title": "LIGJI NR. 02/L-41 PËR MBROJTJEN NGA ZJARRI",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2499",
+   "versions": [
+    {
+     "from": "2008-04-01",
+     "units": 62,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2499",
+     "sha256": "d17264f5abbc02704395b56f08954fe2b6e1897890b3bef4ee6482142dbf0fdf"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2008-2500",
+   "path": "ligj/2008/2500",
+   "short": "2004/14",
+   "title": "LIGJI NR. 2004/14 PËR MARRËVESHJET NDËRKOMBËTARE FINANCIARE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2500",
+   "versions": [
+    {
+     "from": "2008-04-01",
+     "units": 11,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2500",
+     "sha256": "8b0963ceba1b2e2ccb2f87d145c36a05a8ada41414fd70eabf6b652ed0b8edea"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2008-2505",
+   "path": "ligj/2008/2505",
+   "short": "02/L-74",
+   "title": "LIGJI NR. 02/L-74 PËR AUDITIMIN E BRENDSHËM",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2505",
+   "versions": [
+    {
+     "from": "2008-05-01",
+     "units": 21,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2505",
+     "sha256": "54832d35b83c9c4dd256dd2739799ab0457594f48b528737bc15d7564751a99f"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2008-2508",
+   "path": "ligj/2008/2508",
+   "short": "02/L-100",
+   "title": "LIGJI NR. 02/L-100 PËR NDRYSHIMIN DHE PLOTЁSIMIN E LIGJIT NR. 2004/49 PËR PATENTIM",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2508",
+   "versions": [
+    {
+     "from": "2008-06-01",
+     "units": 4,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2508",
+     "sha256": "78c7dfbf922d15033a2fa769c48986ea20e7bc8f97bf9e8de6d6ee348a4d088e"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2008-2515",
+   "path": "ligj/2008/2515",
+   "short": "03/L-034",
+   "title": "LIGJI NR. 03/L-034 PËR SHTETËSINË E KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2515",
+   "versions": [
+    {
+     "from": "2008-06-17",
+     "units": 33,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2515",
+     "sha256": "105504434927d185da1dc26946b5ccc5839b8f1c90a30f73651654759a52a146"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2008-2536",
+   "path": "ligj/2008/2536",
+   "short": "2004/10",
+   "title": "LIGJI NR. 2004/10 LIGJI PËR ENERGJINË ELEKTRIKE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2536",
+   "versions": [
+    {
+     "from": "2008-07-01",
+     "units": 40,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2536",
+     "sha256": "da727b2bd6da47e1649f89dd3002256ad9b585448fd543817c5a53ae2614de95"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2008-2537",
+   "path": "ligj/2008/2537",
+   "short": "2004/11",
+   "title": "LIGJI NR. 2004/11 PËR NJËSITË MATËSE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2537",
+   "versions": [
+    {
+     "from": "2008-07-01",
+     "units": 16,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2537",
+     "sha256": "3cd6dbb42ddafc827669d848d30b3454934f222e306ebee13998cd2dcef02c4d"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2008-2541",
+   "path": "ligj/2008/2541",
+   "short": "03/L-066",
+   "title": "LIGJI NR. 03/L-066 PËR AZIL",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2541",
+   "versions": [
+    {
+     "from": "2008-06-15",
+     "units": 75,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2541",
+     "sha256": "44e15e8604c2214c3c7579659ca035d7da32fb009dd32ae1a038e1f6a95f6049"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2008-2554",
+   "path": "ligj/2008/2554",
+   "short": "03/L-080",
+   "title": "LIGJI NR. 03/L-080 PËR NDRYSHIMIN E LIGJIT TË KUVENDIT TË KOSOVËS 2004/9 MBI RREGULLATORIN E ENERGJISË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2554",
+   "versions": [
+    {
+     "from": "2008-06-15",
+     "units": 18,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2554",
+     "sha256": "75d19cae70a72871d3d10beea8af911fcce2b8a60cb97b9a01867aa78ac3a455"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2008-2561",
+   "path": "ligj/2008/2561",
+   "short": "03/L-005",
+   "title": "LIGJI NR. 03/L-005 PËR PËRDORIM CIVIL TË EKSPLOZIVËVE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2561",
+   "versions": [
+    {
+     "from": "2008-07-30",
+     "units": 55,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2561",
+     "sha256": "51e59c9877c7394ece38867043e7c97f7f0e91919f29f4c114db5bc6e65120a4"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2008-2563",
+   "path": "ligj/2008/2563",
+   "short": "02/L-44",
+   "title": "LIGJI NR. 02/L-44 PËR PROCEDURËN E DHËNIES SË KONCESIONEVE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2563",
+   "versions": [
+    {
+     "from": "2008-08-01",
+     "units": 54,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2563",
+     "sha256": "b1a2900147769587298562c16ecb59790d7e2b04c013a14b201e435d3449a3c7"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2008-2578",
+   "path": "ligj/2008/2578",
+   "short": "02/L-21",
+   "title": "LIGJI NR. 02/L-21 PËR SIGURINË E PËRGJITHSHME TË PRODUKTEVE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2578",
+   "versions": [
+    {
+     "from": "2008-09-10",
+     "units": 12,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2578",
+     "sha256": "fe63f02df6f440ea9bc271090117916668cac7db80fbea8a816664e6025bc9b8"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2008-2580",
+   "path": "ligj/2008/2580",
+   "short": "02/L-96",
+   "title": "LIGJI NR. 02/L-96 PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJIT NR. 2003/25 PËR KADASTRIN",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2580",
+   "versions": [
+    {
+     "from": "2008-09-10",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2580",
+     "sha256": "e8dabba0a6f75287fcee9a2f2e2793e0e9e4acbfce781309c355ece5d2be541a"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2008-2588",
+   "path": "ligj/2008/2588",
+   "short": "02/L-115",
+   "title": "LIGJI NR. 02/L-115 PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJIT PËR LIKUIDIMIN DHE RIORGANIZIMIN E PERSON",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2588",
+   "versions": [
+    {
+     "from": "2008-10-15",
+     "units": 3,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2588",
+     "sha256": "41612e0378c13b17e4115137bf4ccc78fa24308648cab5fc5e51f5d66b5bebe2"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2008-2593",
+   "path": "ligj/2008/2593",
+   "short": "03/L-099",
+   "title": "LIGJI NR. 03/L-099 PËR LETËRNJOFTIMIN",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2593",
+   "versions": [
+    {
+     "from": "2008-11-01",
+     "units": 30,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2593",
+     "sha256": "11bb1c0accceaff6b0c98bd863ea6a509002bccfd40edb4513d5540e6f278276"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2008-2596",
+   "path": "ligj/2008/2596",
+   "short": "03/L-031",
+   "title": "LIGJI NR.03/L-031 LIGJ PËR NRYSHIMIN DHE PLOTËSIMIN E LIGJIT 02/L-5 PËR MBËSHTETJEN E NDËMARRJEVE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2596",
+   "versions": [
+    {
+     "from": "2008-12-10",
+     "units": 15,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2596",
+     "sha256": "945842e1bc714d1184d241bc745f17cc58f572de0c08f93e58c83187d13f2f7e"
+    }
+   ]
+  },
+  {
    "slug": "ligj-2008-2597",
    "path": "ligj/2008/2597",
    "short": "03/L-106",
@@ -38597,6 +40397,126 @@
    ]
   },
   {
+   "slug": "ligj-2008-2602",
+   "path": "ligj/2008/2602",
+   "short": "03/L-003",
+   "title": "LIGJI NR.03/L-003 PËR NDRYSHIMIN DHE PLOTËSIMIN E KODIT TË PËRKOHSHËM TË PROCEDURËS PENALE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2602",
+   "versions": [
+    {
+     "from": "2009-01-06",
+     "units": 10,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2602",
+     "sha256": "326424696edcf9581e900b1dcadaf8f84c6def496c7d172ec9867c3dec26f25a"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2008-2603",
+   "path": "ligj/2008/2603",
+   "short": "03/L-018",
+   "title": "LIGJI NR.03/L-018 PËR PROVIMIN PËRFUNDIMTAR DHE PROVIMIN E MATURËS SHTETËRORE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2603",
+   "versions": [
+    {
+     "from": "2009-01-06",
+     "units": 37,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2603",
+     "sha256": "e4efc24743a0ca15dd9e5a0bd9585333969849228942981459150aad30eb9791"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2008-2605",
+   "path": "ligj/2008/2605",
+   "short": "03/L-056",
+   "title": "LIGJI NR.03/L-056 PËR ANSAMBLIN KOMBËTAR SHTETËROR TË KËNGËVE DHE VALLEVE “SHOTA” DHE TË TJERA",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2605",
+   "versions": [
+    {
+     "from": "2009-01-06",
+     "units": 65,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2605",
+     "sha256": "b3ad663fe192666eff6922e485d6ba0ee978b3bad8d419a7426897a32fb81ca4"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2008-2607",
+   "path": "ligj/2008/2607",
+   "short": "03/L-077",
+   "title": "LIGJI NR.03/L-077 PËR PLOTËSIMIN DHE NDRYSHIMIN LIGJIT Nr.2003/7 PËR LËNDËN ARKIVORE DHE ARKIVAT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2607",
+   "versions": [
+    {
+     "from": "2009-01-06",
+     "units": 10,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2607",
+     "sha256": "2164af614bd406f27fe10cceaa124d6d5804aa02dc921ff3df67b1957e820006"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2008-3249",
+   "path": "ligj/2008/3249",
+   "short": "03/L-113",
+   "title": "LIGJI NR. 03/L-113 PËR TATIMIN NË TË ARDHURAT E KORPORATAVE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3249",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 36,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3249",
+     "sha256": "5260eb6833bd0a62de58f29d3a7c5d9b50b56c0092b50d06f6d2fa0af46d4e8f"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2008-3250",
+   "path": "ligj/2008/3250",
+   "short": "03/L-114",
+   "title": "LIGJI NR. 03/L-114 PËR TATIMIN MBI VLERËN E SHTUAR",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3250",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 34,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3250",
+     "sha256": "96e00ba9ac731650333528f57b501c8e5c773e93ae811bea174404467086a03b"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2008-3251",
+   "path": "ligj/2008/3251",
+   "short": "03/L-115",
+   "title": "LIGJI NR. 03/L-115 PËR TATIMIN NË TË ARDHURAT INDIVIDUALE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3251",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 31,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=3251",
+     "sha256": "54240a64aebcb4b492299b22bc9cbc61ac108ba1fd0b96a68231719015b2fb61"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2009-2619",
+   "path": "ligj/2009/2619",
+   "short": "03/L-126",
+   "title": "LIGJI NR.03/L-126 PËR TE HUAJT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2619",
+   "versions": [
+    {
+     "from": "2009-01-30",
+     "units": 100,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2619",
+     "sha256": "e74ed5c2b70f0d24366dadee140bbc313ca0b58278d67bac723ecfe65c2d66c6"
+    }
+   ]
+  },
+  {
    "slug": "ligj-2009-2622",
    "path": "ligj/2009/2622",
    "short": "03/L-071",
@@ -38608,6 +40528,171 @@
      "units": 44,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2622",
      "sha256": "3e3e2fb21c9cb929cb4c191c07c90ea0a431dadb574af8ae3165ab4db45a1628"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2009-2627",
+   "path": "ligj/2009/2627",
+   "short": "03/L-092",
+   "title": "LIGJI NR.03/L-092PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJIT NR. 02/L-20 PËR KËRKESAT TEKNIKE PËR PRODUKTE DHE VLERËSIM TË KONFORMITETIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2627",
+   "versions": [
+    {
+     "from": "2009-04-09",
+     "units": 10,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2627",
+     "sha256": "5eae9e19bb0ee2959b2e80d8ab56c20b9556147fcc1874b99748174a1111ac29"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2009-2629",
+   "path": "ligj/2009/2629",
+   "short": "03/L-134",
+   "title": "LIGJI NR.03/L-134 PËR LIRINË E ASOCIIMIT NË ORGANIZATAT JOQEVERITARE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2629",
+   "versions": [
+    {
+     "from": "2009-04-09",
+     "units": 29,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2629",
+     "sha256": "02f251e60c4b9954182887b6083cbf153d1fdfe9ee12b6ad65dc89646708877d"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2009-2630",
+   "path": "ligj/2009/2630",
+   "short": "03/L-024",
+   "title": "LIGJI NR.03/L-024 PËR VLERËSIMIN E NDIKIMIT NË MJEDIS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2630",
+   "versions": [
+    {
+     "from": "2009-04-21",
+     "units": 38,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2630",
+     "sha256": "a0fc3a647ecd824b771c4dba172d7ecb8bdcf4d41c7011c69d1de8d171d685e8"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2009-2634",
+   "path": "ligj/2009/2634",
+   "short": "03/L-131",
+   "title": "LIGJI NR.03/L-131 PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJIT NR.2004/17 PËR MBROJTJEN E KONSUMATORVE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2634",
+   "versions": [
+    {
+     "from": "2009-04-30",
+     "units": 17,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2634",
+     "sha256": "6da701b53b4bdbe038dff598242d21ec5be7d0b567ec3201b38a2afe6162debe"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2009-2637",
+   "path": "ligj/2009/2637",
+   "short": "03/L-129",
+   "title": "LIGJI NR.03/L-129 PËR ZONAT EKONOMIKE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2637",
+   "versions": [
+    {
+     "from": "2009-06-16",
+     "units": 19,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2637",
+     "sha256": "3bec7df15c6474a843092cf30320a2668ce90a5f8a6880891ada64d6edadafe5"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2009-2656",
+   "path": "ligj/2009/2656",
+   "short": "03/L-155",
+   "title": "LIGJI NR.03/L-155 PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJIT NR 02/L-133 PËR PARANDALIMIN E KONFLIKTIT TË INTERESIT NË USHTRIMIN E FUNKSIONIT PUBLIK",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2656",
+   "versions": [
+    {
+     "from": "2010-01-12",
+     "units": 12,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2656",
+     "sha256": "70a68af5bd1d4c9630313b6177cb988d0e423af7f4a794a952a849477da78470"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2010-2659",
+   "path": "ligj/2010/2659",
+   "short": "03/L-162",
+   "title": "LIGJI NR. 03/L-162 PËR TATIMIN NË TË ARDHURAT E KORPORATAVE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2659",
+   "versions": [
+    {
+     "from": "2010-02-16",
+     "units": 44,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2659",
+     "sha256": "b3e416ea5410d350036386e5a16243c054d1dcbf4f02e69ebf4493d275629f2a"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2010-2665",
+   "path": "ligj/2010/2665",
+   "short": "03/L-151",
+   "title": "LIGJI NR. 03/L-151 PËR DEKLARIMIN, PREJARDHJEN DHE KONTROLLIN E PASURISË DHE TË DHURATAVE TË ZYRTARËVE TË LARTË PUBLIKË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2665",
+   "versions": [
+    {
+     "from": "2010-04-01",
+     "units": 22,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2665",
+     "sha256": "284d28fe10e069a11a8c1205dde8df0db94f29a9232ded6a84c5d45613d5a27e"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2010-2667",
+   "path": "ligj/2010/2667",
+   "short": "03/L-168",
+   "title": "LIGJI NR. 03/L-168 PËR TURIZMIN DHE SHËRBIMET TURISTIKE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2667",
+   "versions": [
+    {
+     "from": "2010-04-01",
+     "units": 44,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2667",
+     "sha256": "41935fedb832cd904998957651e034090c68fd45fcd74032156dd47e3588c78a"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2010-2699",
+   "path": "ligj/2010/2699",
+   "short": "03/L-191",
+   "title": "LIGJI NR. 03/L-191 PËR EKZEKUTIMIN E SANKSIONEVE PENALE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2699",
+   "versions": [
+    {
+     "from": "2010-09-08",
+     "units": 229,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2699",
+     "sha256": "b72d2692776eb6240c6b412f9abb71b69f8b521effbdab8efae34edb73b3e10d"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2010-2729",
+   "path": "ligj/2010/2729",
+   "short": "03/L-226",
+   "title": "LIGJI NR. 03/L-226 PËR DHËNIEN NË SHFRYTËZIM DHE KËMBIMIN E PRONËS SË PALUAJTSHME TË KOMUNËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2729",
+   "versions": [
+    {
+     "from": "2010-12-15",
+     "units": 17,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2729",
+     "sha256": "9c463d366ec4ad9aadb9ebba4c723289c090d969fd2452596452599d7fbbdfc8"
     }
    ]
   },
@@ -38627,6 +40712,21 @@
    ]
   },
   {
+   "slug": "ligj-2011-2752",
+   "path": "ligj/2011/2752",
+   "short": "04/L-028",
+   "title": "LIGJI NR. 04/L-028 PËR DIZAJNIN INDUSTRIAL",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2752",
+   "versions": [
+    {
+     "from": "2011-09-06",
+     "units": 86,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2752",
+     "sha256": "31d76a443d378de26cf6469e8de16b3efefcf3abc216b8d907a4543a27feb229"
+    }
+   ]
+  },
+  {
    "slug": "ligj-2011-2786",
    "path": "ligj/2011/2786",
    "short": "04/L-059",
@@ -38638,6 +40738,21 @@
      "units": 11,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2786",
      "sha256": "9a3df6067da92c9f269595a8586a8c90af92746022e58a70455a9f6571ae1893"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2012-2798",
+   "path": "ligj/2012/2798",
+   "short": "04/L-073",
+   "title": "LIGJI NR. 04/L-073 PËR AZIL",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2798",
+   "versions": [
+    {
+     "from": "2012-01-27",
+     "units": 109,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2798",
+     "sha256": "075d9552ec9405c2620ea8a1cccfd1871c8e097bd7955830f7f488dca7252f9c"
     }
    ]
   },
@@ -38657,6 +40772,21 @@
    ]
   },
   {
+   "slug": "ligj-2012-2820",
+   "path": "ligj/2012/2820",
+   "short": "04/L-103",
+   "title": "LIGJI NR. 04/L-103 PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJIT PËR TATIMIN NË TË ARDHURAT E KORPORATAVE NR. 03/L-162",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2820",
+   "versions": [
+    {
+     "from": "2012-06-14",
+     "units": 7,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2820",
+     "sha256": "ca967089361fea7c1cee9c4ebf1caa93d7defa0e0e6aa387ccd75cc1caa25f06"
+    }
+   ]
+  },
+  {
    "slug": "ligj-2012-2824",
    "path": "ligj/2012/2824",
    "short": "04/L-100",
@@ -38668,6 +40798,21 @@
      "units": 7,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2824",
      "sha256": "7b55c6bd61b83f43c318865ae9e199156a6eca0087a6bc2ed565ea58441fd97e"
+    }
+   ]
+  },
+  {
+   "slug": "ligj-2012-2843",
+   "path": "ligj/2012/2843",
+   "short": "04/L-126",
+   "title": "LIGJI NR. 04/L-126 PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJIT NR. 03/L-099 PËR LETËRNJOFTIMIN",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2843",
+   "versions": [
+    {
+     "from": "2012-10-06",
+     "units": 14,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=2843",
+     "sha256": "35043bf4622724060f6f0e581e585a33f462d7d41bd5e2b31072deafd2a4ed4e"
     }
    ]
   },
@@ -39197,6 +41342,36 @@
    ]
   },
   {
+   "slug": "marreveshje-2016-12646",
+   "path": "marreveshje/2016/12646",
+   "short": "05/L-102-Marrveshja",
+   "title": "LIGJI NR. 05/L-102 PËR RATIFIKIMIN E MARRËVESHJES NDËRKOMBËTARE NË MES TË REPUBLIKËS SË KOSOVËS DHE BASHKIMIT EVROPIAN MBI MISIONIN E BASHKIMIT EVROPIAN PËR SUNDIM TË LIGJIT NË KOSOVË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=12646",
+   "versions": [
+    {
+     "from": "2016-06-29",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=12646",
+     "sha256": "447b1cd7711392e80e69db417b2afe27e644d04e34be0060dc627a7c977b5ccf"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2016-12764",
+   "path": "marreveshje/2016/12764",
+   "short": "05/L-093-Marrveshja",
+   "title": "LIGJI NR. 05/L-093 PËR RATIFIKIMIN E KONVENTËS PËR HEQJEN E KËRKESËS PËR LEGALIZIM TË DOKUMENTEVE ZYRTARE TË HUAJA (5 TETOR 1961)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=12764",
+   "versions": [
+    {
+     "from": "2016-07-22",
+     "units": 9,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=12764",
+     "sha256": "a98bda618f57a70a473f8c5866a61cfda2814d75b1121fc3a3eaece55bb34516"
+    }
+   ]
+  },
+  {
    "slug": "marreveshje-2016-12765",
    "path": "marreveshje/2016/12765",
    "short": "05/L-097-Marrveshja",
@@ -39242,6 +41417,21 @@
    ]
   },
   {
+   "slug": "marreveshje-2016-12818",
+   "path": "marreveshje/2016/12818",
+   "short": "05/L-113-Marrveshja",
+   "title": "LIGJI NR. 05/L-113 PËR RATIFIKIMIN E MEMORANDUMIT TË MIRËKUPTIMIT NDËRMJET AMBASADËS SË SHTETEVE TË BASHKUARA TË AMERIKËS, PRISHTINË, KOSOVË DHE MINISTRISË SË ARSIMIT, SHKENCËS DHE TEKNOLOGJISË TË REPUBLIKËS SË KOSOVËS PROGRAMI FULBRIGHT I SHKËMBIMIT AKADEMIK",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=12818",
+   "versions": [
+    {
+     "from": "2016-09-14",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=12818",
+     "sha256": "27e428fc79f66b4c828854dd7f49d4e9a2e1fc2ffa5f5eaac2ce0ef19fbf6674"
+    }
+   ]
+  },
+  {
    "slug": "marreveshje-2016-12819",
    "path": "marreveshje/2016/12819",
    "short": "05/L-106-Marrveshja",
@@ -39253,6 +41443,21 @@
      "units": 6,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=12819",
      "sha256": "78593d9574921419e85c27f726b27688659b820c299fd92eb6f3695163f2592d"
+    }
+   ]
+  },
+  {
+   "slug": "marreveshje-2016-12820",
+   "path": "marreveshje/2016/12820",
+   "short": "05/L-112-Marrveshja",
+   "title": "LIGJI NR. 05/L-112 PËR RATIFIKIMIN E MARRËVESHJES SË GARANCISË NDËRMJET REPUBLIKËS SË KOSOVËS DHE BANKËS EVROPIANE PËR RINDËRTIM DHE ZHVILLIM PËR PROJEKTIN E TRAFIKUT URBAN PRISHTINË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=12820",
+   "versions": [
+    {
+     "from": "2016-09-16",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=12820",
+     "sha256": "a92d66df996b3d8d5e636713bcbd271c721c137ddbfff19f5a34ce56192b0288"
     }
    ]
   },
@@ -41432,6 +43637,21 @@
    ]
   },
   {
+   "slug": "rregullore-2003-8226",
+   "path": "rregullore/2003/8226",
+   "short": "MPMS-2003/XX",
+   "title": "RREGULLOREN Nr. 2003/XX MBI ZBATIMIN E LIGJIT PËR SKEMËN E NDIHMËS SOCIALE NË KOSOVË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=8226",
+   "versions": [
+    {
+     "from": "2003-12-01",
+     "units": 20,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=8226",
+     "sha256": "0652e5d3e1e18933e7a46bc9eb8305c3cc55ed768c95a81c391dfd652065271f"
+    }
+   ]
+  },
+  {
    "slug": "rregullore-2006-11625",
    "path": "rregullore/2006/11625",
    "short": "RR-03/2006-K.MJ",
@@ -41477,6 +43697,21 @@
    ]
   },
   {
+   "slug": "rregullore-2008-11353",
+   "path": "rregullore/2008/11353",
+   "short": "RR-01/2008-AAC",
+   "title": "RREGULLORE Nr. 1/2008 MBI AERODROMET",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11353",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 35,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11353",
+     "sha256": "e0d88e356b66576d0b54763e021b5d3f12203bcf7df154c8c90e108982ea23a3"
+    }
+   ]
+  },
+  {
    "slug": "rregullore-2008-11386",
    "path": "rregullore/2008/11386",
    "short": "RR-02/2008-AAC",
@@ -41488,6 +43723,21 @@
      "units": 12,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11386",
      "sha256": "dc166366a14fcd20095339759dc626ed86c8ff5db5c7bd86a6e3b12045501ee5"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2008-11400",
+   "path": "rregullore/2008/11400",
+   "short": "RR-04/2008-AAC",
+   "title": "RREGULLORE Nr. 4/2008 MBI LICENCËN E KONTROLLORIT TË TRAFIKUT AJROR",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11400",
+   "versions": [
+    {
+     "from": "2008-12-29",
+     "units": 19,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11400",
+     "sha256": "05595d74472f907c877b44c80dc533d3418e593b9e06a8076938fc3a2df1dc69"
     }
    ]
   },
@@ -41552,6 +43802,36 @@
    ]
   },
   {
+   "slug": "rregullore-2009-11366",
+   "path": "rregullore/2009/11366",
+   "short": "RR-02/2009-AAC",
+   "title": "RREGULLORE Nr. 2/2009 PËR REGJISTRIMIN DHE SHENJËZIMIN E MJETEVE AJRORE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11366",
+   "versions": [
+    {
+     "from": "2009-10-22",
+     "units": 16,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11366",
+     "sha256": "49d37e2003d90643e7f9f282e4013b5efa7632932be6bbde19f43ef895bf1c2a"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2009-11367",
+   "path": "rregullore/2009/11367",
+   "short": "RR-01/2009-AAC",
+   "title": "RREGULLORE Nr. 1/2009 MBI RAPORTIMIN E NDODHIVE NË AVIACIONIN CIVIL",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11367",
+   "versions": [
+    {
+     "from": "2009-09-01",
+     "units": 11,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11367",
+     "sha256": "0e8d13e34d1a32fe6c02e403ab7f8fbff3148fa43ff7829a7acb1ae01b923563"
+    }
+   ]
+  },
+  {
    "slug": "rregullore-2009-11699",
    "path": "rregullore/2009/11699",
    "short": "RR-04/2009-K.J",
@@ -41608,6 +43888,21 @@
      "units": 24,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11729",
      "sha256": "eecf2ba37d1f5a9d9cf08a862393038dbd07c52830b69e165f953de356bd93fa"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2009-11739",
+   "path": "rregullore/2009/11739",
+   "short": "RR-110-1300-K.PR",
+   "title": "RREGULLORJA (K.PR) 110-1300 PËR TRANSPARENCË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11739",
+   "versions": [
+    {
+     "from": "2009-07-03",
+     "units": 14,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11739",
+     "sha256": "08c55a587391ed6554d682c827a8139de933340d142b6b4748fe6c8b2dcc2007"
     }
    ]
   },
@@ -41717,6 +44012,51 @@
    ]
   },
   {
+   "slug": "rregullore-2010-11357",
+   "path": "rregullore/2010/11357",
+   "short": "RR-02/2010-AAC",
+   "title": "RREGULLORE Nr. 2/2010 PËR SHENJIMIN E PENGESAVE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11357",
+   "versions": [
+    {
+     "from": "2010-05-15",
+     "units": 13,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11357",
+     "sha256": "64a38ea64be8a4be4a84777e527df35162e7b7572e3f7b438ea7cdf71d523836"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2010-11369",
+   "path": "rregullore/2010/11369",
+   "short": "RR-08/2010-AAC",
+   "title": "RREGULLORE Nr. 8/2010 PËR RREGULLAT IMPLEMENTUESE PËR INTEGRIM NË BAZËN QENDRORE TË INFORMATAVE PËR NDODHITË NË AVIACIONIN CIVIL TË SHKËMBYERA NË PËRPUTHJE ME DIREKTIVËN 2003/42/EC TË PARLAMENTIT DHE KËSHILLIT EUROPIAN",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11369",
+   "versions": [
+    {
+     "from": "2010-11-15",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11369",
+     "sha256": "bead47312ad66d2734505429b5f6bddd6f465f30e101c07e2353c879784c1ab1"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2010-11370",
+   "path": "rregullore/2010/11370",
+   "short": "RR-09/2010-AAC",
+   "title": "RREGULLORE Nr. 9/2010 PËR RREGULLAT IMPLEMENTUESE PËR SHPËRNDARJE PALËVE TË INTERESUARA TË INFORMATAVE PËR NDODHITË NË AVIACIONIN CIVIL TË REFERUARA NË NENIN 7(2) TË DIREKTIVËS 2003/42/EC TË PARLAMENTIT DHE TË KËSHILLIT EUROPIAN",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11370",
+   "versions": [
+    {
+     "from": "2010-11-15",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11370",
+     "sha256": "2574ca6eb5812359a893594736a05e252c76a95fedd5fac7cd537b1a83cdf1df"
+    }
+   ]
+  },
+  {
    "slug": "rregullore-2010-11372",
    "path": "rregullore/2010/11372",
    "short": "RR-10/2010-AAC",
@@ -41747,6 +44087,36 @@
    ]
   },
   {
+   "slug": "rregullore-2010-11388",
+   "path": "rregullore/2010/11388",
+   "short": "RR-03/2010-AAC",
+   "title": "RREGULLORE Nr. 3/2010 E AUTORITETEVE TË PËRBASHKËTA TË AVIACIONIT (JAR) MBI KËRKESAT DHE PROCEDURAT ADMINISTRATIVE TË APLIKUESHME NË TRANSPORTIN KOMERCIJAL AJROR - HELIKOPTERËT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11388",
+   "versions": [
+    {
+     "from": "2010-10-10",
+     "units": 8,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11388",
+     "sha256": "e7eabd40a0d9ffd4698142f7b8e9052f30587b1eef488cbbb22b2e3c234d44ac"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2010-11389",
+   "path": "rregullore/2010/11389",
+   "short": "RR-04/2010-AAC",
+   "title": "RREGULLORE Nr. 4/2010 MBI KUSHTET DHE PROCEDURAT PËR PËRVETËSIMIN, LËSHIMIN, RINOVIMIN DHE RIZGJATJEN E LICENCAVE DHE AUTORIZIMEVE PËR STAFIN E AVIACIONIT - PILOTËT E HELIKOPTRËVE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11389",
+   "versions": [
+    {
+     "from": "2010-10-10",
+     "units": 9,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11389",
+     "sha256": "6af54271ff36ac01b0c2cfc4910ec2648a21d57d53d9d50e0e28688bcd28e50c"
+    }
+   ]
+  },
+  {
    "slug": "rregullore-2010-11430",
    "path": "rregullore/2010/11430",
    "short": "RR-12/2010-AAC",
@@ -41762,6 +44132,36 @@
    ]
   },
   {
+   "slug": "rregullore-2010-11431",
+   "path": "rregullore/2010/11431",
+   "short": "RR-13/2010-AAC",
+   "title": "RREGULLORE Nr. 13/2010 QË AMANDAMENTON RREGULLOREN Nr. 4/2008 TË 29 DHJETORIT 2008 MBI LICENCËN E KONTROLLORIT TË TRAFIKUT AJROR",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11431",
+   "versions": [
+    {
+     "from": "2010-12-01",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11431",
+     "sha256": "85919b044a27aef941ce231538c8b28dfd14005857f6520bf977c986f5306cdb"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2010-11749",
+   "path": "rregullore/2010/11749",
+   "short": "RR-110-1201-K.PR",
+   "title": "RREGULLORE (K.PR) 110-1201 PËR ORGANIZIMIN DHE BASHKËPUNIMIN E KOMUNËS ME FSHATRAT, VENDBANIMET DHE LAGJET URBANE TË K. PRISHTINËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11749",
+   "versions": [
+    {
+     "from": "2010-06-16",
+     "units": 16,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11749",
+     "sha256": "178b21635815cc00154f248c3ea6ae041b8719496185c195157a6405aecef7e5"
+    }
+   ]
+  },
+  {
    "slug": "rregullore-2010-11756",
    "path": "rregullore/2010/11756",
    "short": "RR-110-1200-K.PR",
@@ -41773,6 +44173,21 @@
      "units": 7,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11756",
      "sha256": "c8588dd571ce15e28952cbebc3739dea4a1e709450c02e215d7b291ea33e9ce4"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2010-11769",
+   "path": "rregullore/2010/11769",
+   "short": "RR (K.PR) 110-1203",
+   "title": "RREGULLORE (K.PR) 110-1203 PËR FILLIMIN DHE MBARIMIN E ORARIT TË PUNËS SË ORGANIZATAVE TË BIZNESIT NË KOMUNËN E PRISHTINËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11769",
+   "versions": [
+    {
+     "from": "2010-06-16",
+     "units": 23,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11769",
+     "sha256": "4dda0ea8d8707673740bbfc0a932b9d5fd8664e43cd482b1a9202a100fb315ce"
     }
    ]
   },
@@ -41867,6 +44282,51 @@
    ]
   },
   {
+   "slug": "rregullore-2011-11376",
+   "path": "rregullore/2011/11376",
+   "short": "RR-01/2011-AAC",
+   "title": "RREGULLORE Nr. 1/2011 MBI TARIFAT E AEROPORTIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11376",
+   "versions": [
+    {
+     "from": "2011-01-18",
+     "units": 15,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11376",
+     "sha256": "a8158e490de693fa763062e7a52ec65e3215869c7f4fe4b5ec789986364ddbbb"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2011-11377",
+   "path": "rregullore/2011/11377",
+   "short": "RR-02/2011-AAC",
+   "title": "RREGULLORE Nr. 2/2011 MBI TARIFËN TERMINALE TË NAVIGACIONIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11377",
+   "versions": [
+    {
+     "from": "2011-01-18",
+     "units": 12,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11377",
+     "sha256": "4b269365dc3a7ecd49aad335bed57750f483bec077ec8e1bb3d035b1e84512cc"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2011-11378",
+   "path": "rregullore/2011/11378",
+   "short": "RR-04/2011-AAC",
+   "title": "RREGULLORE Nr. 4/2011 PËR QASJEN NË TREGUN E SHËRBIMEVE NË TOKË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11378",
+   "versions": [
+    {
+     "from": "2011-05-30",
+     "units": 23,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11378",
+     "sha256": "f0bf51b07056bbc11aa30d67ac950a7dbe53e7f091ac89c6d1e87d1405c23f36"
+    }
+   ]
+  },
+  {
    "slug": "rregullore-2011-11379",
    "path": "rregullore/2011/11379",
    "short": "RR-05/2011-AAC",
@@ -41878,6 +44338,21 @@
      "units": 12,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11379",
      "sha256": "c3ebebe19ccbadf9952fac55e3d8183992ee15f708360f00b7faa598f5c43f62"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2011-11380",
+   "path": "rregullore/2011/11380",
+   "short": "RR-07/2011-AAC",
+   "title": "RREGULLORE Nr. 7/2011 PËR TARIFAT E NGARKUARA NGA AUTORITETI I AVIACIONIT CIVIL I REPUBLIKËS SË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11380",
+   "versions": [
+    {
+     "from": "2011-08-15",
+     "units": 24,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11380",
+     "sha256": "a9c1752dd5d5dd5363fd4aea1385a186036743c2db00af980f834eb27a6b814c"
     }
    ]
   },
@@ -41927,6 +44402,66 @@
    ]
   },
   {
+   "slug": "rregullore-2011-11437",
+   "path": "rregullore/2011/11437",
+   "short": "RR-10/2011-AAC",
+   "title": "RREGULLORE Nr. 10/2011 PËR APROVIMIN E PROCEDURAVE TË FLUTURIMIT DUKE PËRFSHIRË SID DHE STAR",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11437",
+   "versions": [
+    {
+     "from": "2011-10-10",
+     "units": 15,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11437",
+     "sha256": "45a46eba441d876cd5d33d58c08d8fb06edeaed0abc1c61428d7cebdc568b51a"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2011-11448",
+   "path": "rregullore/2011/11448",
+   "short": "RR-06/2011-AAC",
+   "title": "RREGULLORE Nr. 6/2011 PËR TRANSPORTIMIN E MALLRAVE TË RREZIKSHME PËRMES AJRIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11448",
+   "versions": [
+    {
+     "from": "2011-06-25",
+     "units": 28,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11448",
+     "sha256": "92707db885c7289010ee9251b49b34163cb575a8125dbb3992aa0ebf7aa154c9"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2011-11639",
+   "path": "rregullore/2011/11639",
+   "short": "RR-09/2011-AAC",
+   "title": "RREGULLORE Nr. 9/2011 MBI VLERËSIMIN E SIGURISË SË AVIONËVE TË HUAJ (SAFA), KUALIFIKIMET E INSPEKTORËVE PËR SAFA SI DHE MBI THEMELIMIN E LISTËS SË TRANSPORTUESVE AJRORË QË JANË OBJEKT I NDALESËS SË OPERIMIT BRENDA TERRITORIT TË REPUBLIKËS SË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11639",
+   "versions": [
+    {
+     "from": "2011-09-28",
+     "units": 19,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11639",
+     "sha256": "ddd03083590bcf70a521cdcf462f997933d0699dd39ca2ee41e9d93f05f1842f"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2011-11806",
+   "path": "rregullore/2011/11806",
+   "short": "RR-110-2782-K.PR",
+   "title": "RREGULLORE (K.PR) 110-2782 PËR TARIFA, NGARKESA DHE GJOBA KOMUNALE Prishtinë,",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11806",
+   "versions": [
+    {
+     "from": "2011-12-02",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11806",
+     "sha256": "5ccb7468b7495167d76eb9ac38271c1b8c2e29b18905fa0d0715e7ab887f1200"
+    }
+   ]
+  },
+  {
    "slug": "rregullore-2011-11813",
    "path": "rregullore/2011/11813",
    "short": "RR-110-2631-K.PR",
@@ -41942,6 +44477,21 @@
    ]
   },
   {
+   "slug": "rregullore-2011-12083",
+   "path": "rregullore/2011/12083",
+   "short": "RR-01-011-6924/2011-K.GJK",
+   "title": "RREGULLORE (K.GJK) 01-011-6924/2011 PËR SHFRYTËZIMIN E PËRKOHSHËM TË PRONËS KOMUNALE PËR VENDOSJEN E OBJEKTEVE TË PËRKOHËSHME",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=12083",
+   "versions": [
+    {
+     "from": "2011-11-24",
+     "units": 47,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=12083",
+     "sha256": "7cecf68e3561ca31c36081ce07982a31169a083770ea9195dde6857c98cf152d"
+    }
+   ]
+  },
+  {
    "slug": "rregullore-2011-9018",
    "path": "rregullore/2011/9018",
    "short": "2011 R",
@@ -41953,6 +44503,126 @@
      "units": 55,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=9018",
      "sha256": "f067bbafeba6126965aeb5e610bf6f69d2851a1eaed3c58fd939308256ae30af"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2012-11355",
+   "path": "rregullore/2012/11355",
+   "short": "RR-04/2012-AAC",
+   "title": "RREGULLORE Nr. 4/2012 PËR NDRYSHIMIN DHE PLOTËSIMIN E RREGULLORES Nr. 1/2008 MBI AERODROMET",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11355",
+   "versions": [
+    {
+     "from": "2012-10-10",
+     "units": 9,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11355",
+     "sha256": "a03dfd5ef53965e2d8bb2e9112293e9a85d131e876b80c42bdc8e88616349e82"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2012-11361",
+   "path": "rregullore/2012/11361",
+   "short": "RR-03/2012-AAC",
+   "title": "RREGULLORE Nr. 3/2012 MBI AERODROMET E APROVUARA",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11361",
+   "versions": [
+    {
+     "from": "2012-10-10",
+     "units": 34,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11361",
+     "sha256": "7573d3d179f9fa849af49091b02ca1f6ec6dbe97fd5a5588a695df434c4ddf2d"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2012-11393",
+   "path": "rregullore/2012/11393",
+   "short": "RR-01/2012-AAC",
+   "title": "RREGULLORE Nr. 1/2012 PËR KUSHTET DHE MËNYRËN E PËRDORIMIT TË DELTAPLANËVE DHE PARAGLAJDËVE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11393",
+   "versions": [
+    {
+     "from": "2012-10-10",
+     "units": 39,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11393",
+     "sha256": "92b1b1abdb227da851d7699581cf6f2eea9f07c1a1c9966387c8d4dec4b7ac14"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2012-11396",
+   "path": "rregullore/2012/11396",
+   "short": "RR-02/2012-AAC",
+   "title": "RREGULLORE Nr. 2/2012 MBI OPERIMET ME MJETE AJRORE MIKRO TË LEHTA",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11396",
+   "versions": [
+    {
+     "from": "2012-10-10",
+     "units": 12,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11396",
+     "sha256": "1232bc5a0757aa436d5b47b3e3e8b73c296914b5765a3d0d4311bb5f80640ffe"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2012-11438",
+   "path": "rregullore/2012/11438",
+   "short": "RR-05/2012-AAC",
+   "title": "RREGULLORE Nr. 5/2012 MBI RREGULLAT PËR LICENCËN E KONTROLLORËVE TË TRAFIKUT AJROR DHE CERTIFIKIMET TJERA",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11438",
+   "versions": [
+    {
+     "from": "2012-12-21",
+     "units": 7,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11438",
+     "sha256": "82876ef08688ee0fe5930d8b87827fdc770859b584eb35290bc5bc52936f0198"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2012-11439",
+   "path": "rregullore/2012/11439",
+   "short": "RR-06/2012-AAC",
+   "title": "RREGULLORE Nr. 6/2012 PËR MBIKËQYRJEN E SIGURISË NË MENAXHIMIN E TRAFIKUT AJROR DHE SHËRBIMET E NAVIGACIONIT AJROR",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11439",
+   "versions": [
+    {
+     "from": "2013-01-10",
+     "units": 8,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11439",
+     "sha256": "5b006ec5760706c55beee4dfd8fe0b1301db81184af967376afb9fedfe6a5b10"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2013-10008",
+   "path": "rregullore/2013/10008",
+   "short": "MFSK-06/2013",
+   "title": "RREGULLORE (MFSK) NR. 06/2013 PËR ZHVILLIMIN E KARRIERËS SË PJESËTARËVE TË FSK-SË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=10008",
+   "versions": [
+    {
+     "from": "2014-01-02",
+     "units": 33,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=10008",
+     "sha256": "32882f89a1750171034a8b6f3d217558a6c28f616574948fd15c6a848f523348"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2013-10105",
+   "path": "rregullore/2013/10105",
+   "short": "QRK-05/2013",
+   "title": "RREGULLORE Nr.05/2013 PËR RREGULLORE PËR NDËRMJETËSIM TË KONTESTEVE NË FUSHËN E TË DREJTËS SË AUTORIT DHE TË DREJTAVE TË PËRAFËRTA",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=10105",
+   "versions": [
+    {
+     "from": "2013-02-19",
+     "units": 16,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=10105",
+     "sha256": "cdcb9ba5e31548778acc11c0564510e069ed3ec0354ad600c80d48955bf1ea6b"
     }
    ]
   },
@@ -41987,6 +44657,21 @@
    ]
   },
   {
+   "slug": "rregullore-2013-10229",
+   "path": "rregullore/2013/10229",
+   "short": "QRK-13/2013",
+   "title": "RREGULLORE NR.13/2013 PËR SHËRBIMIN LIGJOR QEVERITAR1",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=10229",
+   "versions": [
+    {
+     "from": "2013-06-30",
+     "units": 26,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=10229",
+     "sha256": "fbade8d0e91e60bf59ed18c0429bcf8a9f25c25e13e2e51e58c69f1efc9b25d1"
+    }
+   ]
+  },
+  {
    "slug": "rregullore-2013-10333",
    "path": "rregullore/2013/10333",
    "short": "QRK-25/2013",
@@ -41998,6 +44683,36 @@
      "units": 13,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=10333",
      "sha256": "d378c9617a3bb63b6708f8dc0048fb4f04ab70e60b3109db908ab961c7bb77b0"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2013-10334",
+   "path": "rregullore/2013/10334",
+   "short": "QRK-23/2013",
+   "title": "RREGULLORE QRK NR. 23/2013 PËR PËRCAKTIMIN E PROCEDURAVE TË DHENIES NË SHFRYTEZIM DHE KËMBIMIT TË PRONËS SË PALUAJTSHME TË KOMUNËS1",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=10334",
+   "versions": [
+    {
+     "from": "2013-10-28",
+     "units": 38,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=10334",
+     "sha256": "bc2ec821d3dd9e1702f21863f3fcf71e0d0247581444935f372b7a5b1546caf5"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2013-10342",
+   "path": "rregullore/2013/10342",
+   "short": "QRK-26/2013",
+   "title": "RREGULLORE (QRK) - Nr. 26/2013 PËR ARSIMIN E LARTË NË AKADEMINË E KOSOVËS PËR SIGURI PUBLIKE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=10342",
+   "versions": [
+    {
+     "from": "2013-10-07",
+     "units": 70,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=10342",
+     "sha256": "91098eee7e659438c7269ef3a5e78eb06f255170d8b2e1ec4b285362a99a99cb"
     }
    ]
   },
@@ -42028,6 +44743,36 @@
      "units": 16,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=10375",
      "sha256": "6d3acbd81fc75b344bd326ee564751ce2cb51fddb3dee16ed5033a0cc0897559"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2013-11360",
+   "path": "rregullore/2013/11360",
+   "short": "RR-02/2013-AAC",
+   "title": "RREGULLORE Nr. 2/2013 PËR NDRYSHIMIN DHE PLOTËSIMIN E RREGULLORES Nr. 2/2010 PËR SHËNJIMIN E PENGESAVE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11360",
+   "versions": [
+    {
+     "from": "2013-07-05",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11360",
+     "sha256": "c555e635cc3fceb27e6007a8d1afe6fabe4b59bf48bbfed210f08c202d925c65"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2013-11382",
+   "path": "rregullore/2013/11382",
+   "short": "RR-01/2013-AAC",
+   "title": "RREGULLORE Nr. 1/2013 MBI ZBATIMIN E SISTEMIT PËR MENAXHIMIN E SIGURISË (SMS)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11382",
+   "versions": [
+    {
+     "from": "2013-06-19",
+     "units": 8,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11382",
+     "sha256": "fdf3dd5b9d7266a1948238f9aa81f7da64baf557b23c6743803c2f50ed4b5ef3"
     }
    ]
   },
@@ -42077,6 +44822,36 @@
    ]
   },
   {
+   "slug": "rregullore-2013-8931",
+   "path": "rregullore/2013/8931",
+   "short": "QRK-24/2013",
+   "title": "RREGULLORE (QRK) Nr.24 /2013 PËR ORGANIZIMIN E BRENDSHËM DHE SISTEMATIZIMIN E VENDEVE TË PUNËS TË MINISTRISË SË DIASPORËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=8931",
+   "versions": [
+    {
+     "from": "2013-09-19",
+     "units": 31,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=8931",
+     "sha256": "bfe3eaccf09f830609a95f2aa26899e3757a1284cef467b04897ea0da56fe2d2"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2013-9002",
+   "path": "rregullore/2013/9002",
+   "short": "QRK-36/2013",
+   "title": "RREGULLORE (QRK) NR. 36/ 2013 PËR ORGANIZIMIN E BRENDSHËM DHE SISTEMATIZIMIN E VENDEVE TË PUNËS TË MINISTRISË SË PUNËVE TË BRENDSHME (Shfuqizuar nga: Rregullore (ZKM) Nr. 01/2021)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=9002",
+   "versions": [
+    {
+     "from": "2013-12-26",
+     "units": 81,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=9002",
+     "sha256": "69e91edf1cbaff1fc063c4281083e1e44357f9d97d3ee0ce16f4af118778ef58"
+    }
+   ]
+  },
+  {
    "slug": "rregullore-2014-10353",
    "path": "rregullore/2014/10353",
    "short": "QRK-07/2014",
@@ -42122,6 +44897,21 @@
    ]
   },
   {
+   "slug": "rregullore-2014-10366",
+   "path": "rregullore/2014/10366",
+   "short": "QRK-10/2014",
+   "title": "RREGULLORE (QRK) NR. 10/2014 E PUNËS SË KOMISIONIT KOMBËTAR PËR REFUGJATË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=10366",
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 21,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=10366",
+     "sha256": "41e9afe207ec0bdb644358d92aa061ab6bd84c34cb0b23bc00d4f7424083762f"
+    }
+   ]
+  },
+  {
    "slug": "rregullore-2014-10372",
    "path": "rregullore/2014/10372",
    "short": "QRK-11/2014",
@@ -42133,6 +44923,36 @@
      "units": 18,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=10372",
      "sha256": "825d1e0ac6e2a9f7be1b5254d7df15221cb396e10bd74d7d71a96c49a4f4ee5f"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2014-10501",
+   "path": "rregullore/2014/10501",
+   "short": "QRK- 18/2014",
+   "title": "RREGULLORE QRK Nr. 18/2014 PËR PUNËN E GRUPIT PUNUES PËR BALLAFAQIM ME TË KALUARËN DHE PAJTIM",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=10501",
+   "versions": [
+    {
+     "from": "2014-11-14",
+     "units": 20,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=10501",
+     "sha256": "090b6a918a8f66c9d0c31b32d6aeeaefe0d927ad373b3f39f71d3fda0844c266"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2014-11356",
+   "path": "rregullore/2014/11356",
+   "short": "RR-01/2014-AAC",
+   "title": "RREGULLORE Nr. 1/2014 MBI AFTËSIMIN PROFESIONAL TË PUNONJËSVE TË AERODROMIT DHE PUNONJËSVE TJERË TË KONTRAKTUAR, OFRUESVE TË SHËRBIMEVE NË TOKË DHE PËRDORUESVE TË SHËRBIMEVE TË AERODROMIT TË CILËT VET KRYEJNË SHËRBIME NË TOKË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11356",
+   "versions": [
+    {
+     "from": "2014-02-14",
+     "units": 41,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11356",
+     "sha256": "5b5488f5db4b2bb139f0e8565e8bb1ef903f516bf327e2ee7df72c61b2f083db"
     }
    ]
   },
@@ -42182,6 +45002,21 @@
    ]
   },
   {
+   "slug": "rregullore-2014-11411",
+   "path": "rregullore/2014/11411",
+   "short": "RR-06/2014-AAC",
+   "title": "RREGULLORE Nr. 6/2014 PËR SISTEMET E MJETEVE AJRORE PA PILOT ME PESHË MË TË VOGËL SE 20 KILOGRAM",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11411",
+   "versions": [
+    {
+     "from": "2014-04-08",
+     "units": 11,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11411",
+     "sha256": "7e523c241f34d970a02b385b30df758ec9054c36066be3667b98d245c518c91f"
+    }
+   ]
+  },
+  {
    "slug": "rregullore-2014-11412",
    "path": "rregullore/2014/11412",
    "short": "RR-07/2014-AAC",
@@ -42193,6 +45028,21 @@
      "units": 7,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11412",
      "sha256": "5e02be87307734d3cb7d19e85d88dac2f53e96ffcf14f70e290ecf9e6200a317"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2014-11413",
+   "path": "rregullore/2014/11413",
+   "short": "RR-08/2014-AAC",
+   "title": "RREGULLORE Nr. 8/2014 PËR KUSHTET DHE MËNYRËN E TRANSPORTIMIT TË MALLRAVE TË RREZIKSHME PËRMES AJRIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11413",
+   "versions": [
+    {
+     "from": "2014-10-25",
+     "units": 40,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11413",
+     "sha256": "1674d1c0902e164e2ecaf4fbd43a45870c1aecb8b30e464608d872da6588ab7e"
     }
    ]
   },
@@ -42227,6 +45077,21 @@
    ]
   },
   {
+   "slug": "rregullore-2014-11940",
+   "path": "rregullore/2014/11940",
+   "short": "RR-01-3-2-K.DE",
+   "title": "RREGULLORE (K.DE) 01.NR.3-2 PËR PUNËN E KOMISIONIT PËR EMËRTIMIN , RIEMËRTIMIN E SHESHEVE , RRUGËVE , RRUGICAVE DHE VENDEVE TJERA PUBLIKE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11940",
+   "versions": [
+    {
+     "from": "2014-03-28",
+     "units": 31,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11940",
+     "sha256": "0faf7ef07a993e28e54427551d12c854c5377a612840b31b86b9dc635731fef2"
+    }
+   ]
+  },
+  {
    "slug": "rregullore-2014-11948",
    "path": "rregullore/2014/11948",
    "short": "RR-01-VI-6-K.DE",
@@ -42257,6 +45122,51 @@
    ]
   },
   {
+   "slug": "rregullore-2014-9005",
+   "path": "rregullore/2014/9005",
+   "short": "QRK-39/2013",
+   "title": "RREGULLORE (QRK) - Nr. 39/2013 PËR ORGANIZIMIN E BRENDSHËM DHE SISTEMATIZIMIN E VENDEVE TË PUNËS NË MINISTRINË E ARSIMIT, TË SHKENCËS DHE TË TEKNOLOGJISË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=9005",
+   "versions": [
+    {
+     "from": "2014-02-11",
+     "units": 45,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=9005",
+     "sha256": "a73a98df328f3dcfb8e1a37e55726b1a273688a398340fc7291ead9cb8753223"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2014-9917",
+   "path": "rregullore/2014/9917",
+   "short": "MTI-05/2014",
+   "title": "RREGULLORE (MTI) NR. 05/2014 PËR PËRCAKTIMIN E ÇMIMEVE DHE SHITJEN E MALLRAVE ME ZBRITJE (Shfuqizuar me Vendim të QRK, Nr. 02/50 të datës 23.12.2021)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=9917",
+   "versions": [
+    {
+     "from": "2014-09-29",
+     "units": 13,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=9917",
+     "sha256": "138be890445706d12386497ff5f88bd732e79e52295be6ed4830339394caef7a"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2014-9953",
+   "path": "rregullore/2014/9953",
+   "short": "MFSK-01/2014",
+   "title": "RREGULLORE (MFSK) NR. 01/2014 PËR PROCESIN E DËRGIMIT TË FSK-SË NË OPERACIONE JASHTË VENDIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=9953",
+   "versions": [
+    {
+     "from": "2014-02-04",
+     "units": 23,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=9953",
+     "sha256": "1d3d72fce2a50a47030c8447eb352d421cd60f97ff876a7557574dfcdd04de4b"
+    }
+   ]
+  },
+  {
    "slug": "rregullore-2015-105705",
    "path": "rregullore/2015/105705",
    "short": "QRK-19/2015-RR",
@@ -42268,6 +45178,51 @@
      "units": 7,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=105705",
      "sha256": "74b18ead30ced38011f7c52cf9bf05bb75c9a29ff584f12030d64ccdd2e2c80d"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2015-10769",
+   "path": "rregullore/2015/10769",
+   "short": "RR-02/2015",
+   "title": "RREGULLORE (QRK) Nr. 02/ 2015 PËR PROCESIN E PËRKTHIMIT TË ACQUIS TË BE-SË NË GJUHËT ZYRTARE TË REPUBLIKËS SË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=10769",
+   "versions": [
+    {
+     "from": "2015-02-12",
+     "units": 13,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=10769",
+     "sha256": "dee8d14d1e6e36314f261d4bbc643a49e3c31d638de5422461a158f18b0fcd09"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2015-10793",
+   "path": "rregullore/2015/10793",
+   "short": "MFSK-02/2015",
+   "title": "RREGULLORE (MFSK) NR. 02/2015 PËR SHQYRTIMIN DHE ZGJIDHJEN E ANKESAVE NË FORCËN E SIGURISË SË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=10793",
+   "versions": [
+    {
+     "from": "2015-04-14",
+     "units": 20,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=10793",
+     "sha256": "2616992599524468be38b9299d79cad479b21cfd36e6af3eee18b17641ce0353"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2015-11312",
+   "path": "rregullore/2015/11312",
+   "short": "QRK-14/2015",
+   "title": "RREGULLORE (QRK) NR.14/2015 PËR ORGANIZIMIN E BRENDSHËM DHE SISTEMATIZIMIN E VENDEVE TË PUNËS TË MINISTRISË SË PUNËS DHE MIRËQENIES SOCIALE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11312",
+   "versions": [
+    {
+     "from": "2015-11-06",
+     "units": 76,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11312",
+     "sha256": "5b23fe8413df050226691180cab79d822dfdadb7433c7249b6eaa963695751ee"
     }
    ]
   },
@@ -42287,6 +45242,21 @@
    ]
   },
   {
+   "slug": "rregullore-2015-11383",
+   "path": "rregullore/2015/11383",
+   "short": "RR-02/2015-AAC",
+   "title": "RREGULLORE Nr. 2/2015 PËR TARIFAT E NGARKUARA NGA AUTORITETI I AVIACIONIT CIVIL I KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11383",
+   "versions": [
+    {
+     "from": "2015-05-06",
+     "units": 26,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11383",
+     "sha256": "28c6654cb6e6a9a915201553f8e4303a121b4c5de20f9a055b9e945502813109"
+    }
+   ]
+  },
+  {
    "slug": "rregullore-2015-11384",
    "path": "rregullore/2015/11384",
    "short": "RR-03/2015-AAC",
@@ -42298,6 +45268,171 @@
      "units": 20,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11384",
      "sha256": "50c7f59d1bca5ab5ca34ce2c623615c31bed225125cee6c1358d586252c73d17"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2015-11414",
+   "path": "rregullore/2015/11414",
+   "short": "RR-01/2015-AAC",
+   "title": "RREGULLORE Nr. 1/2015 PËR NDRYSHIMIN E RREGULLORES Nr. 8/2014 PËR KUSHTET DHE MËNYRËN E TRANSPORTIMIT TË MALLRAVE TË RREZIKSHME PËRMES AJRIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11414",
+   "versions": [
+    {
+     "from": "2015-04-01",
+     "units": 3,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11414",
+     "sha256": "1553ab8c1c8fa95c75561ee02c513fb7656f0a7fc10a8d2307d2db180b5b44ea"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2015-11415",
+   "path": "rregullore/2015/11415",
+   "short": "RR-04/2015-AAC",
+   "title": "RREGULLORE Nr. 4/2015 QË PËRCAKTON KËRKESAT TEKNIKE DHE PROCEDURAT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11415",
+   "versions": [
+    {
+     "from": "2015-07-23",
+     "units": 8,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11415",
+     "sha256": "c8a454475419e58ba777fe1f62013d256e15772e839063d32e7da6f9b0863a7f"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2015-11416",
+   "path": "rregullore/2015/11416",
+   "short": "RR-05/2015-AAC",
+   "title": "RREGULLORE Nr. 5/2015 E CILA PËRCAKTON KËRKESAT TEKNIKE DHE PROCEDURAT ADMINISTRATIVE NË LIDHJE ME EKUIPAZHIN AJROR TË AVIACIONIT CIVIL",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11416",
+   "versions": [
+    {
+     "from": "2015-07-23",
+     "units": 8,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11416",
+     "sha256": "f509d05928f96a95a588f0ecbfa86a8376fff7058601882eb3b0dcc8fca56bbb"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2015-11418",
+   "path": "rregullore/2015/11418",
+   "short": "RR-07/2015-AAC",
+   "title": "RREGULLORE Nr. 7/2015 PËR VLEFSHMËRINË AJRORE TË VAZHDUESHME TË MJETEVE AJRORE DHE PRODHIMEVE, PJESËVE DHE PAJISJEVE AERONAUTIKE, SI DHE PËRAPROVIMIN E ORGANIZATAVE DHE PERSONELIT TË PËRFSHIRË NË KËTO DETYRA",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11418",
+   "versions": [
+    {
+     "from": "2015-07-23",
+     "units": 8,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11418",
+     "sha256": "1ac360a98cd9d6635ac6de56edf04cd828f2a7ce4904e8c88f36731856602e97"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2015-11420",
+   "path": "rregullore/2015/11420",
+   "short": "RR-10/2015-AAC",
+   "title": "RREGULLORE Nr. 10/2015 PËR THEMELIMIN E LISTËS SË KOMUNITETIT TË TRANSPORTUESVE AJROR TË CILËT I NËNSHTROHEN NDALIMIT TË OPERIMEVE BRENDA KOMUNITETIT DHE NË LIDHJE ME INFORMIMIN E AVIOPASAGJERËVE PËR IDENTITETIN E TRANSPORTUESIT AJROR",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11420",
+   "versions": [
+    {
+     "from": "2015-11-20",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11420",
+     "sha256": "f8498abfcecbb0fbbc32bd80c99a92ad7661a369e6f032224eb637a9ee48af7f"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2015-11421",
+   "path": "rregullore/2015/11421",
+   "short": "RR-11/2015-AAC",
+   "title": "RREGULLORE Nr. 11/2015 E CILA PËRCAKTON RREGULLAT IMPLEMENTUESE PER LISTËN E KOMUNITETIT TË TRANSPORTUESVE AJROR TË CILËT I NËNSHTROHEN NDALIMIT TË OPERIMEVE BRENDA KOMUNITETIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11421",
+   "versions": [
+    {
+     "from": "2015-11-20",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11421",
+     "sha256": "80e8f088b7e3ea15e939e749aba66027272d28322f89a1ef0a75544152696fbc"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2015-11422",
+   "path": "rregullore/2015/11422",
+   "short": "RR-12/2015-AAC",
+   "title": "RREGULLORE Nr. 12/2015 PËR THEMELIMIN E LISTËS SË KOMUNITETIT TË TRANSPORTUESVE AJROR TË CILËT I NËNSHTROHEN NDALIMIT TË OPERIMEVE BRENDA KOMUNITETIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11422",
+   "versions": [
+    {
+     "from": "2015-11-20",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11422",
+     "sha256": "227b3fae5c7ea16d7ba2f970c8d2e6e4bcacfa425a556ec68bf4e1de7010ccf1"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2015-11423",
+   "path": "rregullore/2015/11423",
+   "short": "RR-13/2015-AAC",
+   "title": "RREGULLORE Nr. 13/2015 PËR MBLEDHJEN DHE SHKËMBIMIN E INFORMATAVE MBI SIGURINË E MJETEVE AJRORE TË CILAT PËRDORIN AEROPORTET E KOMUNITETIT DHE MENAXHIMIN E SISTEMIT TË INFORMATAVE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11423",
+   "versions": [
+    {
+     "from": "2015-11-20",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11423",
+     "sha256": "0f4e0ce7d838da6401567490bdac273fafc3cfbccc0b4523fdd2379fc78ea9ce"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2015-11424",
+   "path": "rregullore/2015/11424",
+   "short": "RR-14/2015-AAC",
+   "title": "RREGULLORE Nr. 14/2015 PËR PRIORITETIZIMIN E INSPEKTIMEVE NË PLATFORMË TË MJETEVE AJRORE QË PËRDORIN AEROPORTET E KOMUNITETIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11424",
+   "versions": [
+    {
+     "from": "2015-11-20",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11424",
+     "sha256": "fa7fe9ddb5775515ad76a18f3a4590b8e318e7ee9c8167c41d0255d388253811"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2015-11446",
+   "path": "rregullore/2015/11446",
+   "short": "RR-08/2015-AAC",
+   "title": "RREGULLORE Nr. 8/2015 PËR KËRKESAT E CILËSISË SË TË DHËNAVE DHE INFORMATAVE AERONAUTIKE PËR QIELLIN E VETËM EVROPIAN",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11446",
+   "versions": [
+    {
+     "from": "2015-07-24",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11446",
+     "sha256": "7a6b1f0d3ae38455f82308c990e87ee1f18d452e8920fa83b3e8e1847988fbb7"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2015-15301",
+   "path": "rregullore/2015/15301",
+   "short": "K.MA-01-003-15-RR",
+   "title": "RREGULLORE 01-003-15 (K.MA) TATIM PRONE 2016",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15301",
+   "versions": [
+    {
+     "from": "2015-09-29",
+     "units": 15,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=15301",
+     "sha256": "87a2fb58e9580f55d0b75a7c07260f9dc80a32d81dcf118a6642f40c53f6381b"
     }
    ]
   },
@@ -42392,6 +45527,21 @@
    ]
   },
   {
+   "slug": "rregullore-2016-15045",
+   "path": "rregullore/2016/15045",
+   "short": "QRK-09/2016-RR",
+   "title": "RREGULLORE QRK NR. 09/2016 PËR SHITJEN ME PAKICË TË OBLIGACIONEVE TË QEVERISË SË REPUBLIKËS SË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15045",
+   "versions": [
+    {
+     "from": "2016-06-27",
+     "units": 12,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=15045",
+     "sha256": "c6716d936b2635621e96e607804e5e23b2aed22b96bba02fb00513658c8eb7f9"
+    }
+   ]
+  },
+  {
    "slug": "rregullore-2016-15057",
    "path": "rregullore/2016/15057",
    "short": "QRK-10/2016-RR",
@@ -42403,6 +45553,21 @@
      "units": 13,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=15057",
      "sha256": "62a9c2790c39dc8cb873a88bc5f273a436104b04f7894e9f931aae14d2e50565"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2016-15063",
+   "path": "rregullore/2016/15063",
+   "short": "QRK-13/2016-RR",
+   "title": "RREGULLORE (QRK) - NR. 13/2016 PËR FUNKSIONIMIN DHE PËRFAQËSIMIN E INSTITUCIONEVE TË QEVERISË SË REPUBLIKËS TË KOSOVËS NË STRUKTURAT E STABILIZIM-ASOCIIMIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15063",
+   "versions": [
+    {
+     "from": "2016-10-11",
+     "units": 31,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=15063",
+     "sha256": "5491724205af291c4d6e4fa4f0fe0415051004603b7ae5c03b3b89606c3057ee"
     }
    ]
   },
@@ -42437,6 +45602,66 @@
    ]
   },
   {
+   "slug": "rregullore-2017-14632",
+   "path": "rregullore/2017/14632",
+   "short": "MF-Nr. 03/2017",
+   "title": "REGULLORE MF-NR. 03/2017 PËR PLOTËSIMIN DHE NDRYSHIMIN E RREGULLORES MF-NR. 01/2016 PËR ADMINISTRIMIN E FONDEVE TË HUAMARRJES",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=14632",
+   "versions": [
+    {
+     "from": "2017-05-09",
+     "units": 4,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=14632",
+     "sha256": "21a35cd0547730e6ccb6c4549721f9bfde6ffb2273679f05788f5a487760b44f"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2017-14800",
+   "path": "rregullore/2017/14800",
+   "short": "QRK-05/2017-RR",
+   "title": "RREGULLORE (QRK) Nr. 05/2017 PËR ORGANIZIMIN E BRENDSHËM DHE SISTEMATIZIMIN E VENDEVE TË PUNËS TË MINISTRISË SË MJEDISIT DHE PLANIFIKIMIT HAPËSINOR",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=14800",
+   "versions": [
+    {
+     "from": "2017-06-20",
+     "units": 87,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=14800",
+     "sha256": "fe51bd9e1611fba018ebc6299f9e6ad6fb58a8592ecd3427ded22e4b72ac9a02"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2017-14867",
+   "path": "rregullore/2017/14867",
+   "short": "QRK-06/2017-RR",
+   "title": "RREGULLORE (QRK) Nr. 06/2017 PËR ORGANIZIMIN E BRENDSHËM DHE SISTEMATIZIMIN E VENDEVE TË PUNËS NË AGJENCINË PËR BARAZI GJINORE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=14867",
+   "versions": [
+    {
+     "from": "2017-07-06",
+     "units": 22,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=14867",
+     "sha256": "b8425d98c5355e255722aec88b337d6b465791c0b468859a70f7f9c1963e89f4"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2017-15163",
+   "path": "rregullore/2017/15163",
+   "short": "QRK-08/2017-RR",
+   "title": "RREGULLORE (QRK) Nr. 08/2017 PËR DETYRAT, PËRGJEGJËSITË DHE PROCEDURAT E KOMISIONEVE TË AGJENCISË KOSOVARE PËR KRAHASIM DHE VERIFIKIM TË PRONËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15163",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 19,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=15163",
+     "sha256": "c74c55b46cc418e3b2693be085dd2444da26032e71c223ee03c5fcb9ff5626ad"
+    }
+   ]
+  },
+  {
    "slug": "rregullore-2017-15167",
    "path": "rregullore/2017/15167",
    "short": "QRK-09/2017-RR",
@@ -42448,6 +45673,36 @@
      "units": 14,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=15167",
      "sha256": "6efb2ef64ae4f43bd12edb9bc93f3b4e98df4718738fb4cd4fcc5a370f90e560"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2017-15170",
+   "path": "rregullore/2017/15170",
+   "short": "QRK-10/2017-RR",
+   "title": "RREGULLORE (QRK) Nr.10/2017 PËR DETYRAT, PERGJEGJËSITË DHE ORGANIZIMIN E SEKRETARISË EKZEKUTIVE TË AGJENCISË KOSOVARE PËR KRAHASIM DHE VERIFIKIM TË PRONËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15170",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 25,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=15170",
+     "sha256": "cde17f79d5de927952172acc93741922edf0816e886ec576e195542196eb89bd"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2017-15184",
+   "path": "rregullore/2017/15184",
+   "short": "MAPL-01/2017-RR",
+   "title": "RREGULLORE (MAPL) NR. 01/2017 PËR PROCEDURËN E HARTIMIT DHE PUBLIKIMIN E AKTEVE TË KOMUNËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15184",
+   "versions": [
+    {
+     "from": "2017-08-30",
+     "units": 22,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=15184",
+     "sha256": "12e1cb737609d27cef2b16d50f70f104ba44246f2ecda205a461269011c37f06"
     }
    ]
   },
@@ -42482,6 +45737,81 @@
    ]
   },
   {
+   "slug": "rregullore-2018-15942",
+   "path": "rregullore/2018/15942",
+   "short": "QRK-01/2018-RR",
+   "title": "RREGULLORE (QRK) - NR. 01/2018 PËR KTHIMIN E PERSONAVE TË ZHVENDOSUR DHE ZGJIDHJE TË QËNDRUESHME",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15942",
+   "versions": [
+    {
+     "from": "2018-01-22",
+     "units": 33,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=15942",
+     "sha256": "dcf149e2b822635f0e65a2c41624e5f7c6dae1a0aa3cc4a8e50d82e9e112c200"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2018-16088",
+   "path": "rregullore/2018/16088",
+   "short": "ZKA-01/2018-RR",
+   "title": "RREGULLORE (ZKA) NR. 01/2018 PËR MARRËDHËNIE PUNE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=16088",
+   "versions": [
+    {
+     "from": "2018-03-19",
+     "units": 93,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=16088",
+     "sha256": "35ed2c8572d52ca065121f11fc2a861bd3dd4866ef68037687712ba4ade67dd7"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2018-16089",
+   "path": "rregullore/2018/16089",
+   "short": "ZKA-02/2018-RR",
+   "title": "RREGULLORE (ZKA) Nr. 02/2018 PËR ORGANIZIMIN E BRENDSHËM DHE SISTEMATIZIMIN E VENDEVE TË PUNËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=16089",
+   "versions": [
+    {
+     "from": "2018-03-19",
+     "units": 69,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=16089",
+     "sha256": "08786578ba63ee977438bc00f4f48bf2a8b2f75172cc6d70c7894469034d1242"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2018-16113",
+   "path": "rregullore/2018/16113",
+   "short": "MAPL-02/2017-RR",
+   "title": "RREGULLORE Nr. 02 / 2017 PËR SISTEMIN E MENAXHIMIT TË PERFORMANCËS SË KOMUNAVE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=16113",
+   "versions": [
+    {
+     "from": "2018-01-05",
+     "units": 19,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=16113",
+     "sha256": "cda4be83aaef90d8fd67752a137ae02ea7d1aa66c3c76b909e3c2a9fd3f2561f"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2018-17922",
+   "path": "rregullore/2018/17922",
+   "short": "QRK-14/2018-RR",
+   "title": "RREGULLORE (QRK)-NR. 14/2018 PËR ORGANIZIMIN E BRENDSHËM DHE SISTEMATIZIMIN E VENDEVE TË PUNËS NË MINISTRINË E ARSIMIT, SHKENCËS DHE TEKNOLOGJISË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=17922",
+   "versions": [
+    {
+     "from": "2018-10-03",
+     "units": 43,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=17922",
+     "sha256": "49a1a8ca455bf390aa242f66aaf73d0d8a4b8c9f43e0b57b48f6fd19235ddce9"
+    }
+   ]
+  },
+  {
    "slug": "rregullore-2018-17924",
    "path": "rregullore/2018/17924",
    "short": "AAC-06/2018-RR",
@@ -42493,6 +45823,21 @@
      "units": 4,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=17924",
      "sha256": "db04977fdf1406ed2884160db607cfd05352a0543ee9139b162506c3804c6416"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2018-18071",
+   "path": "rregullore/2018/18071",
+   "short": "MF-01/2018-RR",
+   "title": "RREGULLORE MF-NR. 01/2018 PËR PËRFUNDIMIN E VITIT FISKAL",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=18071",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 17,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=18071",
+     "sha256": "61f61c0967d3a8637b063ec5ba3be937f250e65ed15f87d0f0dfdbba5a3daf5c"
     }
    ]
   },
@@ -42572,6 +45917,51 @@
    ]
   },
   {
+   "slug": "rregullore-2018-18348",
+   "path": "rregullore/2018/18348",
+   "short": "MF-02/2018-RR",
+   "title": "RREGULLORE MF- NR. 02/2018 PËR PËRDORIM TË KARTELËS KREDITORE PËR UDHËTIME ZYRTARE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=18348",
+   "versions": [
+    {
+     "from": "2019-01-04",
+     "units": 24,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=18348",
+     "sha256": "fee1a8685de39a199e91e12bb8f34f92082e743019f89ca256ce1e23280051cd"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2018-18379",
+   "path": "rregullore/2018/18379",
+   "short": "QRK-26/2018-RR",
+   "title": "RREGULLORE (QRK) NR.26/2018 PËR NDRYSHIMIN DHE PLOTËSIMIN E RREGULLORES NR. 02/2011 PËR FUSHAT E PËRGJEGJËSISË ADMINISTRATIVE TË ZYRËS SË KRYEMINISTRIT DHE MINISTRIVE E NDRYSHUAR DHE E PLOTËSUAR ME RREGULLOREN NR. 14/2017 RREGULLOREN NR.15/2017 RREGULLOREN NR. 16/2017 RREGULLOREN NR. 07/2018 DHE ME RREGULLOREN NR. 22/2018",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=18379",
+   "versions": [
+    {
+     "from": "2018-12-27",
+     "units": 4,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=18379",
+     "sha256": "15d14a68e90ee9303c8cac19913d8ef681631c201aedad9d450dbec494f9a205"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2018-18783",
+   "path": "rregullore/2018/18783",
+   "short": "QRK-11/2018-RR",
+   "title": "RREGULLORE (QRK) NR. 11/2018 PËR PLOTËSIMIN DHE NDRYSHIMIN E RREGULLORES (QRK) NR. 36/2013 PËR ORGANIZIMIN E BRENDSHËM DHE SISTEMATIZIMIN E VENDEVE TË PUNËS TË MINISTRISË SË PUNËVE TË BRENDSHME (Shfuqizuar nga: Rregullore (ZKM) Nr. 01/2021)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=18783",
+   "versions": [
+    {
+     "from": "2018-08-10",
+     "units": 8,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=18783",
+     "sha256": "4830014bf8bbb6ebc46991bdde09b5ca710fb1621e221c5e3b4bd992ee313c2c"
+    }
+   ]
+  },
+  {
    "slug": "rregullore-2018-18785",
    "path": "rregullore/2018/18785",
    "short": "QRK-15/2018-RR",
@@ -42602,6 +45992,21 @@
    ]
   },
   {
+   "slug": "rregullore-2019-18380",
+   "path": "rregullore/2019/18380",
+   "short": "QRK-27/2018-RR",
+   "title": "RREGULLORE (QRK) NR. 27/2018 PËR SHËRBIMIN E KOMUNIKIMIT QEVERITAR ME PUBLIKUN",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=18380",
+   "versions": [
+    {
+     "from": "2019-01-11",
+     "units": 26,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=18380",
+     "sha256": "1bfa701f3c067057eb9d68af8004d64974d816945ced02d72e5b88fa4ad4855c"
+    }
+   ]
+  },
+  {
    "slug": "rregullore-2019-18382",
    "path": "rregullore/2019/18382",
    "short": "QRK-28/2018-RR",
@@ -42613,6 +46018,21 @@
      "units": 44,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=18382",
      "sha256": "fc8a0bd2987a0fa0e95046e6689a44880eea75d3a87fcbdbc89475fe817a196a"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2019-18441",
+   "path": "rregullore/2019/18441",
+   "short": "QRK-01/2019-RR",
+   "title": "RREGULLORE QRK-NR 01/2019 PËR THEMELIMIN DHE ZBATIMIN E FUNKSIONIT TË AUDITIMIT TË BRENDSHËM NË SUBJEKTIN E SEKTORIT PUBLIK",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=18441",
+   "versions": [
+    {
+     "from": "2019-01-29",
+     "units": 15,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=18441",
+     "sha256": "3b7937514db48747ab1f6ec9c49b924f5c9f900f62b69f2aede21cbbed7f38c8"
     }
    ]
   },
@@ -42662,6 +46082,21 @@
    ]
   },
   {
+   "slug": "rregullore-2019-18842",
+   "path": "rregullore/2019/18842",
+   "short": "ZKA-01/2019-RR",
+   "title": "RREGULLORE (ZKA) NR. 01/2019 PËR NDRYSHIMIN DHE PLOTËSIMIN E RREGULLORES (ZKA) NR. 02/2018 PËR ORGANIZIMIN E BRENDSHËM DHE SISTEMATIZIMIN E VENDEVE TË PUNËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=18842",
+   "versions": [
+    {
+     "from": "2019-03-25",
+     "units": 10,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=18842",
+     "sha256": "a9f0ada04de91417420ff582b4bf980165ff2e92eb567de7b574c4cf06ccbfb5"
+    }
+   ]
+  },
+  {
    "slug": "rregullore-2019-18913",
    "path": "rregullore/2019/18913",
    "short": "QRK-05/2019-RR",
@@ -42677,6 +46112,51 @@
    ]
   },
   {
+   "slug": "rregullore-2019-19412",
+   "path": "rregullore/2019/19412",
+   "short": "MF-Nr.01/2019-RR",
+   "title": "RREGULLORE MF-NR. 01/2019 PËR MENAXHIMIN FINANCIAR DHE KONTROLLIN",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=19412",
+   "versions": [
+    {
+     "from": "2019-05-21",
+     "units": 53,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=19412",
+     "sha256": "01f46f6f40c9bc342c029e2f1414f551e4e5418c5cd9eccc9e33acd7121fdadf"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2019-20620",
+   "path": "rregullore/2019/20620",
+   "short": "MM-03/2019-RR",
+   "title": "RREGULLORE (MM) NR. 03/2019 PËR SHQYRTIMIN DHE ZGJIDHJEN E ANKESAVE NË FORCËN E SIGURISË SË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=20620",
+   "versions": [
+    {
+     "from": "2019-07-12",
+     "units": 18,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=20620",
+     "sha256": "cdde9e13da29767716327ad6c5bc62ef7f0c5a3af22ca388b6099c56f68887f2"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2019-21006",
+   "path": "rregullore/2019/21006",
+   "short": "QRK-09/2019-RR",
+   "title": "RREGULLORE (QRK) NR. 09/2019 PËR INTEGRIMIN E TË HUAJVE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=21006",
+   "versions": [
+    {
+     "from": "2019-07-29",
+     "units": 42,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=21006",
+     "sha256": "89c18221f467ac00f0ef9d211d93bc67df4da953669f45ac9ad955dfc0a950e5"
+    }
+   ]
+  },
+  {
    "slug": "rregullore-2019-21644",
    "path": "rregullore/2019/21644",
    "short": "AAC-05-2019-RR",
@@ -42688,6 +46168,21 @@
      "units": 17,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=21644",
      "sha256": "93fe260a584374d70e7774d516ccbc4176c77a54d079efa531657e4fce04e2ef"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2019-21986",
+   "path": "rregullore/2019/21986",
+   "short": "MM-07/2019-RR",
+   "title": "RREGULLORE (MM) NR. 07/2019 PËR KOHËZGJATJEN E SHËRBIMIT NË FORCËN E SIGURISË SË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=21986",
+   "versions": [
+    {
+     "from": "2019-08-16",
+     "units": 16,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=21986",
+     "sha256": "76dff0a716c3b69db471e795e09765cca83a11ef2b9314c7c800b69ee923db25"
     }
    ]
   },
@@ -42748,6 +46243,51 @@
      "units": 23,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=25261",
      "sha256": "1ec0eb51a81330a49714b7d8694034780f91e3eeb8885d60ac26709c297ed42c"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2020-26316",
+   "path": "rregullore/2020/26316",
+   "short": "ZKA-01/2020-RR",
+   "title": "RREGULLORE (ZKA) NR. 01/2020 PËR NDRYSHIMIN DHE PLOTËSIMIN E RREGULLORES (ZKA) NR. 02/2018 PËR ORGANIZIMIN E BRENDSHËM DHE SISTEMATIZIMIN E VENDEVE TË PUNËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=26316",
+   "versions": [
+    {
+     "from": "2020-01-17",
+     "units": 28,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=26316",
+     "sha256": "c02405b88401d9ddb709785d05f38efe95fc0b7e56117d2c75d13b8bf8ac22be"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2020-27179",
+   "path": "rregullore/2020/27179",
+   "short": "QRK-05/2020-RR",
+   "title": "RREGULLORE (QRK) - NR. 05/2020 PËR FUSHAT E PËRGJEGJËSISË ADMINISTRATIVE TË ZYRËS SË KRYEMINISTRIT DHE MINISTRIVE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=27179",
+   "versions": [
+    {
+     "from": "2020-02-28",
+     "units": 33,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=27179",
+     "sha256": "c1cef5a842a9c3d0e712f76a6fcac9f236b8f8beddc63943149f4147249600af"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2020-28172",
+   "path": "rregullore/2020/28172",
+   "short": "QRK-06/2020-RR",
+   "title": "RREGULLORE (QRK) - NR. 06/2020 PËR FUSHAT E PËRGJEGJËSISË ADMINISTRATIVE TË ZYRËS SË KRYEMINISTRIT DHE MINISTRIVE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=28172",
+   "versions": [
+    {
+     "from": "2020-06-08",
+     "units": 34,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=28172",
+     "sha256": "060fea9763056512b68fc68a48252d5a647d14baad36cf1cb4a377af7d9fb1f2"
     }
    ]
   },
@@ -42872,6 +46412,66 @@
    ]
   },
   {
+   "slug": "rregullore-2020-30883",
+   "path": "rregullore/2020/30883",
+   "short": "QRK-11/2020-RR",
+   "title": "RREGULLORE (QRK) NR. 11/2020 PËR DISIPLINËN DHE ANKESAT E ZYRTARËVE PUBLIKË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=30883",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 22,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=30883",
+     "sha256": "1b5277ab15ba33145b39d441a6f15832759c5e3d85841fb6aae3cd00c44f50df"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2020-30885",
+   "path": "rregullore/2020/30885",
+   "short": "QRK-12/2020-RR",
+   "title": "RREGULLORE (QRK) NR.12/2020 PËR ORARIN E PUNËS DHE PUSHIMET E ZYRTARËVE PUBLIKË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=30885",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 17,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=30885",
+     "sha256": "1ce7ce95d555f59dc0e3e20bb2cce095ab560663a5c827d7895c5ba48352907d"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2020-30887",
+   "path": "rregullore/2020/30887",
+   "short": "QRK-13/2020-RR",
+   "title": "RREGULLORE (QRK) NR. 13/2020 PËR LIRIMIN DHE PENSIONIMIN E PARAKOHSHËM NGA SHËRBIMI CIVIL",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=30887",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 10,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=30887",
+     "sha256": "000371f8a42ea78eaa9d916faef8161e7d34a84a63e51044fab9430a70406622"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2020-30890",
+   "path": "rregullore/2020/30890",
+   "short": "QRK-16/2020-RR",
+   "title": "RREGULLORE (QRK) NR. 16/2020 PËR PRANIMIN DHE KARRIERËN NË SHËRBIMIN CIVIL TË REPUBLIKËS SË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=30890",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 69,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=30890",
+     "sha256": "8e7a77c1d47b3385097ab2890c8bc843e566a3df136ca1b4d25fc1092619e5e1"
+    }
+   ]
+  },
+  {
    "slug": "rregullore-2020-31444",
    "path": "rregullore/2020/31444",
    "short": "QRK-17/2020-RR",
@@ -42932,6 +46532,96 @@
    ]
   },
   {
+   "slug": "rregullore-2020-31541",
+   "path": "rregullore/2020/31541",
+   "short": "ZKA-02/2020-RR",
+   "title": "RREGULLORE (ZKA) Nr. 02/2020 PËR ORGANIZIMIN E BRENDSHËM DHE SISTEMATIZIMIN E VENDEVE TË PUNËS NË ZYRËN KOMBËTARE TË AUDITIMIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=31541",
+   "versions": [
+    {
+     "from": "2020-09-23",
+     "units": 56,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=31541",
+     "sha256": "ed561bee18fb978f53006f8f51c0c921a5fa7ffbc8cf3f9656675af28bb15833"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2020-31856",
+   "path": "rregullore/2020/31856",
+   "short": "QRK-21/2020-RR",
+   "title": "RREGULLORE NR. 21/2020 PËR PROCEDURËN E VLERËSIMIT TË REZULTATEVE NË PUNË TË NËPUNËSVE CIVIL DHE NËPUNËSVE TË SHËRBIMEVE PUBLIKE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=31856",
+   "versions": [
+    {
+     "from": "2020-10-06",
+     "units": 16,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=31856",
+     "sha256": "a95d46dfa88bcb62dbd0fadda0fe5eaf82867965ce7f8da1f4544dbef062fcd0"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2020-32143",
+   "path": "rregullore/2020/32143",
+   "short": "QRK-23/2020-RR",
+   "title": "RREGULLORE (QRK) NR. 23/2020 PËR ATASHETË E MBROJTJES1",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=32143",
+   "versions": [
+    {
+     "from": "2020-10-22",
+     "units": 29,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=32143",
+     "sha256": "1e4dcedfc5e3957c79b670f40c818878e40ff1d703305ca2eb7bc690e7db6a07"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2021-36549",
+   "path": "rregullore/2021/36549",
+   "short": "QRK-01/2021-RR",
+   "title": "RREGULLORE (QRK) - NR. 01/2021 PËR RREGULLAT DHE MËNYRËN E SJELLJES SË VIZITORËVE NË HAPËSIRAT E KOMPLEKSIT MEMORIAL “ADEM JASHARI„ NË PREKAZ",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=36549",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 10,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=36549",
+     "sha256": "033a04513b5151cbe699408a0bdd41932d0dc56abc241046147945990422c089"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2021-36759",
+   "path": "rregullore/2021/36759",
+   "short": "AAC-01-2021-RR",
+   "title": "RREGULLORE (AAC) NR. 01/2021 PËR NDRYSHIMIN DHE PLOTËSIMIN E RREGULLORES NR. 01/2017 PËR SISTEMET E MJETEVE AJRORE PA PILOT (SAP)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=36759",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 12,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=36759",
+     "sha256": "8c2800034643c5a708778d29229484c99c82c2598271c0e0b8379b15d7577205"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2021-39317",
+   "path": "rregullore/2021/39317",
+   "short": "QRK-02/2021-RR",
+   "title": "RREGULLORE (QRK) - NR. 02/2021 PËR FUSHAT E PËRGJEGJËSISË ADMINISTRATIVE TË ZYRËS SË KRYEMINISTRIT DHE MINISTRIVE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=39317",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 34,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=39317",
+     "sha256": "ee8197c7c45a632c18932f2a12aefb65e3d75158f0fcc8664e64a975a498eb65"
+    }
+   ]
+  },
+  {
    "slug": "rregullore-2021-41216",
    "path": "rregullore/2021/41216",
    "short": "QRK-03/2020-RR",
@@ -42943,6 +46633,21 @@
      "units": 20,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=41216",
      "sha256": "e56e65b0201558363797cec655111daf62d2ee5d6ff0cc2b548ce149becd7566"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2021-41786",
+   "path": "rregullore/2021/41786",
+   "short": "MM-NR 01/2021-RR",
+   "title": "RREGULLORE (MM) NR. 01/2021 PËR NDRYSHIMIN DHE PLOTËSIMIN E RREGULLORES (MM) NR. 03/2020 PËR REKRUTIM NË FORCËN E SIGURISË SË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=41786",
+   "versions": [
+    {
+     "from": "2021-06-08",
+     "units": 13,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=41786",
+     "sha256": "6b6acdb1724621d6c8f0c141f8f9e121d5b4aa53b9ebad0c681ab1e86b18171a"
     }
    ]
   },
@@ -42977,6 +46682,21 @@
    ]
   },
   {
+   "slug": "rregullore-2021-47884",
+   "path": "rregullore/2021/47884",
+   "short": "QRK-04/2021-RR",
+   "title": "RREGULLORE (QRK) NR. 04/2021 PËR NDYSHIMIN DHE PLOTËSIMIN E RREGULLORES (QRK) NR. 02/2021 PËR FUSHAT E PËRGJEGJËSISË ADMINISTRATIVE TË ZYRËS SË KRYEMINISTRIT DHE MINISTRIVE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=47884",
+   "versions": [
+    {
+     "from": "2021-09-10",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=47884",
+     "sha256": "aba7e3075d67393cd52130fac7e1a159fea2b63d1c58f38ec60aa283161efeef"
+    }
+   ]
+  },
+  {
    "slug": "rregullore-2021-47893",
    "path": "rregullore/2021/47893",
    "short": "QRK-05/2021-RR",
@@ -42988,6 +46708,36 @@
      "units": 13,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=47893",
      "sha256": "3015428798a83d5955e7c430f2060503fdf4302090de730836cedc12c5a89fa0"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2021-50091",
+   "path": "rregullore/2021/50091",
+   "short": "QRK-06/2021-RR",
+   "title": "RREGULLORE (QRK) NR.06/2021 PËR NDRYSHIMIN DHE PLOTËSIMIN E RREGULLORES (QRK) NR. 10/2019 PËR SHQYRTIMIN ADMINISTRATIV TË AKTEVE TË KOMUNAVE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=50091",
+   "versions": [
+    {
+     "from": "2021-10-25",
+     "units": 11,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=50091",
+     "sha256": "b82205d38c42645951eebd6cbf0f6022c2ea445b11ce7664bdf3a29a1579bf6b"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2021-50288",
+   "path": "rregullore/2021/50288",
+   "short": "QRK-07/2021-RR",
+   "title": "RREGULLORE (QRK) NR. 07/2021 MBI PEZULLIMIN E SHËRBIMEVE KOMUNALE PËR MBLEDHJEN E DETYRIMEVE TË PAPAGUARA TË TATIMIT NË PRONË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=50288",
+   "versions": [
+    {
+     "from": "2021-11-08",
+     "units": 10,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=50288",
+     "sha256": "47101161a5f13971c2477f73240762c494e3caa3c27bd418dd6175b0314fc87c"
     }
    ]
   },
@@ -43052,6 +46802,126 @@
    ]
   },
   {
+   "slug": "rregullore-2022-53066",
+   "path": "rregullore/2022/53066",
+   "short": "AIP-01/2022-RR",
+   "title": "RREGULLOREN NR. 01/2022 PËR MËNYRËN E RUAJTJES DHE SHFRYTËZIMIT TË MATERIALIT ARKIVOR DHE PROTOKOLLIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=53066",
+   "versions": [
+    {
+     "from": "2022-01-25",
+     "units": 20,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=53066",
+     "sha256": "2e6704db367c14937f113d53a02602517c8c804b678112bd69fd145cffb450d7"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2022-57302",
+   "path": "rregullore/2022/57302",
+   "short": "AAC-02-2022-RR",
+   "title": "RREGULLORE (AAC) NR. 02/2022 PËR NDRYSHIMIN E RREGULLORES (AAC) NR. 05/2015 LIDHUR ME VLEFSHMËRINË NË MËNYRË AUTOMATIKE TË LICENCAVE TË EKUIPAZHIT TË FLUTURIMIT TË BASHKIMIT DHE TRAJNIMIT PËR NGRITJE DHE ATERRIM",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=57302",
+   "versions": [
+    {
+     "from": "2022-04-22",
+     "units": 4,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=57302",
+     "sha256": "af3097d56b613617ae95fd56917aa1da8480cffa613be0bcc7b32c86e426345e"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2022-59229",
+   "path": "rregullore/2022/59229",
+   "short": "MM-NR 02/2022-RR",
+   "title": "RREGULLORE (MM) NR. 02/2022 PËR KOORDINIMIN E PËRDORIMIT TË EKSPLOZIVËVE PËR OPERACIONET E DEMINIMIT HUMANITAR",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=59229",
+   "versions": [
+    {
+     "from": "2022-06-06",
+     "units": 11,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=59229",
+     "sha256": "a4fab5bb7387575f8f176688c39db2366aa6c22b6f1c2614931beeba416579d2"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2022-59338",
+   "path": "rregullore/2022/59338",
+   "short": "MKRS-01-RR",
+   "title": "RREGULLORE (MKRS) NR. 01/2022 PËR PËRCAKTIMIN E PERIMETRIT DHE ZONËS MBROJTËSE TË ASETEVE TË TRASHËGIMISË KULTURORE DHE POLITIKAVE PËR KONZERVIMIN DHE ZHVILLIMIN E TYRE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=59338",
+   "versions": [
+    {
+     "from": "2022-06-07",
+     "units": 37,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=59338",
+     "sha256": "ce5461c680c24ee093fd360476787adf2814a088fd3c4ebafd50edf29ad67d45"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2022-59390",
+   "path": "rregullore/2022/59390",
+   "short": "MKRS-02-RR",
+   "title": "RREGULLORE (MKRS) NR. 02/2022 PËR PUNËN E KËSHILLIT DREJTUES TË BIBLIOTEKËS KOMBËTARE TË KOSOVËS “PJETËR BOGDANI” SI DHE KOMPENSIMIN E ANËTARËVE TË KËSHILLIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=59390",
+   "versions": [
+    {
+     "from": "2022-06-10",
+     "units": 16,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=59390",
+     "sha256": "04486d99a4686daa9965b2a730f9e123d5940cfaf0c0d78350435ed7f900306e"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2022-59831",
+   "path": "rregullore/2022/59831",
+   "short": "MKRS-03-RR",
+   "title": "RREGULLORE (MKRS) NR. 03/2022 PËR ORGANIZIMIN, FUNKSIONIMIN, DETYRAT DHE PËRGJEGJËSITË E KËSHILLIT KOMBËTAR PËR PARANDALIMIN DHE SANKSIONIMIN E DHUNËS DHE DUKURIVE NEGATIVE NË NGJARJET SPORTIVE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=59831",
+   "versions": [
+    {
+     "from": "2022-06-28",
+     "units": 15,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=59831",
+     "sha256": "d26dd22d6bf5b7a074fad75dd7d6ff92389d4422cb77c355bd923365f9986fff"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2022-60016",
+   "path": "rregullore/2022/60016",
+   "short": "QRK-02/2022-RR",
+   "title": "RREGULLORE (QRK) Nr. 02/2022 PËR KOORDINIMIN NDËRMJET INSTITUCIONEVE TË REPUBLIKËS SË KOSOVËS PËR DEMINIM HUMANITAR",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=60016",
+   "versions": [
+    {
+     "from": "2022-07-05",
+     "units": 11,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=60016",
+     "sha256": "eb9696064d044e2ff771c59265027a4bac1cd4ac6fe0524bed2005ddfd7d989d"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2022-60499",
+   "path": "rregullore/2022/60499",
+   "short": "KHAIA-01/2022-RR",
+   "title": "RREGULLORE (KHAIA/ZKM) NR.01 /2022 PËR NDRYSHIMIN DHE PLOTËSIMIN E RREGULLORES (KHAIA/ZKM) NR. 01/2017 PËR HETIMIN DHE PARANDALIMIN E AKSIDENTEVE DHE INCIDENTEVE NË AVIACIONIN CIVIL",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=60499",
+   "versions": [
+    {
+     "from": "2022-07-25",
+     "units": 5,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=60499",
+     "sha256": "2098d2b46298ebc938e1bb0e3b2b3574c61b703dacca4dc592fa2ee6a9c1070a"
+    }
+   ]
+  },
+  {
    "slug": "rregullore-2022-61266",
    "path": "rregullore/2022/61266",
    "short": "KUV-08 -V- 349-RR",
@@ -43067,6 +46937,21 @@
    ]
   },
   {
+   "slug": "rregullore-2022-62349",
+   "path": "rregullore/2022/62349",
+   "short": "QRK-05/2022-RR",
+   "title": "RREGULLORE (QRK) Nr. 05/2022 PËR PROCEDURAT KONKURRUESE DHE PRANIMI PËR NËPUNËSIT ADMINISTRATIV DHE MBËSHTETËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=62349",
+   "versions": [
+    {
+     "from": "2022-09-07",
+     "units": 26,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=62349",
+     "sha256": "4aa58dd6f7f68883f2b848255ec2bc36d4519112785e67694bd61ea3f1f7ff9c"
+    }
+   ]
+  },
+  {
    "slug": "rregullore-2022-64344",
    "path": "rregullore/2022/64344",
    "short": "QRK-06-RR",
@@ -43078,6 +46963,21 @@
      "units": 33,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=64344",
      "sha256": "fa8fd2fb530cb53efcf335d6aa770410f075c9dd60a29c8ceb628dd8ad03319c"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2022-64353",
+   "path": "rregullore/2022/64353",
+   "short": "QRK-07/2022-RR",
+   "title": "RREGULLORE (QRK) NR. 07/2022 PËR ORARIN E PUNËS DHE PUSHIMET E ZYRTARËVE PUBLIK",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=64353",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 19,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=64353",
+     "sha256": "1b605eb5a1797fd2f12ab213e9d3e628e12079fa86f7b8cb195902c1f17ef3b4"
     }
    ]
   },
@@ -43108,6 +47008,21 @@
      "units": 21,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=65680",
      "sha256": "6d9937c34fa958557292462d8f1eaa9fb0173bdda99b99ca6f3218a8861b7432"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2022-66747",
+   "path": "rregullore/2022/66747",
+   "short": "MM-NR 05/2022-RR",
+   "title": "RREGULLORE (MM) NR. 05/2022 PËR PËRKUJDESJEN E PERSONELIT TË FSK-SË PARA, GJATË DHE PAS KTHIMIT DHE PËRKUJDESJA NDAJ FAMILJES SË TYRE GJATË MISIONIT JASHTË VENDIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=66747",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 10,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=66747",
+     "sha256": "6db62befc85b9519393dd5c783e0325d3117aae84dbe29cad6babf063ee3ec38"
     }
    ]
   },
@@ -43187,6 +47102,21 @@
    ]
   },
   {
+   "slug": "rregullore-2023-69472",
+   "path": "rregullore/2023/69472",
+   "short": "QRK-06/2023-RR",
+   "title": "RREGULLORE (QRK) NR. 06/2023 PËR KOMPENSIMIN PËR UDHËTIME ZYRTARE DHE SHPENZIME TË PËRFAQËSIMIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=69472",
+   "versions": [
+    {
+     "from": "2023-02-06",
+     "units": 21,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=69472",
+     "sha256": "10d2e6279466dbde3daeb285645d85f7787266f94356690337d21b7061f6b100"
+    }
+   ]
+  },
+  {
    "slug": "rregullore-2023-69475",
    "path": "rregullore/2023/69475",
    "short": "QRK-09/2023-RR",
@@ -43217,6 +47147,21 @@
    ]
   },
   {
+   "slug": "rregullore-2023-69479",
+   "path": "rregullore/2023/69479",
+   "short": "QRK-11/2023-RR",
+   "title": "RREGULLORE (QRK) NR. 11/2023 PËR EKSPERTËT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=69479",
+   "versions": [
+    {
+     "from": "2023-02-06",
+     "units": 9,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=69479",
+     "sha256": "177e44ba2b6eef648e6dc19912dedf91bb8124032344ecc76494ac05e61a39e4"
+    }
+   ]
+  },
+  {
    "slug": "rregullore-2023-69494",
    "path": "rregullore/2023/69494",
    "short": "MFPT-01/2023-RR",
@@ -43232,6 +47177,21 @@
    ]
   },
   {
+   "slug": "rregullore-2023-69495",
+   "path": "rregullore/2023/69495",
+   "short": "MFPT-02-2023-RR",
+   "title": "RREGULLORE (MFPT) NR. 02/2023 PËR SHTESËN PËR KUSHTE TË TREGUT TË PUNËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=69495",
+   "versions": [
+    {
+     "from": "2023-02-07",
+     "units": 13,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=69495",
+     "sha256": "246289fc6961f2455a8abe93d89581553929fd4fa3a25d1a42f89fae9163ac66"
+    }
+   ]
+  },
+  {
    "slug": "rregullore-2023-71499",
    "path": "rregullore/2023/71499",
    "short": "MM-NR 03/2023-RR",
@@ -43243,6 +47203,36 @@
      "units": 11,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=71499",
      "sha256": "d01a228dfa0f6f8110a6413ce2128cbf60c61e02861397bb2d46bb7dacbe4e3b"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2023-73511",
+   "path": "rregullore/2023/73511",
+   "short": "QRK-13/2023-RR",
+   "title": "RREGULLORE (QRK) NR. 13/2023 PËR ZËVENDËSIMIN APO MUNGESËN E PËRKOHSHME NGA PUNA E NËPUNËSIT CIVIL",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=73511",
+   "versions": [
+    {
+     "from": "2023-05-10",
+     "units": 8,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=73511",
+     "sha256": "7a58bd4988eddf229075a1739be8ab872d4266f1cddc710cadc76064997ee5b3"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2023-75382",
+   "path": "rregullore/2023/75382",
+   "short": "AAC-02/2023-RR",
+   "title": "RREGULLORE (AAC) NR. 02/2023 PËR NDRYSHIMIN E RREGULLORES (AAC) NR. 01/2019 NË LIDHJE ME ZBATUESHMËRINË E KËRKESAVE PËR GJETJEN E NJË MJETI AJROR NË RREZIK",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=75382",
+   "versions": [
+    {
+     "from": "2023-04-14",
+     "units": 4,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=75382",
+     "sha256": "330db988ae0b7bc36587f810a2140f72bbd839c3b8781cea48b59c41bc2a5c54"
     }
    ]
   },
@@ -43352,6 +47342,21 @@
    ]
   },
   {
+   "slug": "rregullore-2023-78443",
+   "path": "rregullore/2023/78443",
+   "short": "MD-Nr.07/2023-RR",
+   "title": "RREGULLORE MD - Nr.07/2023 PËR PROCEDURËN E PËRCAKTIMIT DHE VERIFIKIMIT TË RECIPROCITETIT, KUSHTET, PËRMBAJTJEN DHE MËNYRËN E MIRËMBAJTJES SË BAZËS SË TË DHËNAVE PËR FITIMIN E TË DREJTËS SË PRONËSISË MBI PRONËN E PALUAJTSHME NGA TË HUAJT NË KOSOVË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=78443",
+   "versions": [
+    {
+     "from": "2023-07-26",
+     "units": 20,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=78443",
+     "sha256": "dae195105a8376d9b0c0d754e5fb78c3eda9a5a992eafb0dfd096b333bac07f3"
+    }
+   ]
+  },
+  {
    "slug": "rregullore-2023-78946",
    "path": "rregullore/2023/78946",
    "short": "MINT-01/2023-RR",
@@ -43363,6 +47368,51 @@
      "units": 5,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=78946",
      "sha256": "8f49ee06fe667ec235dc3fbbe429ea751313acdef38a4cb00e3b546fad0aaae9"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2023-80403",
+   "path": "rregullore/2023/80403",
+   "short": "QRK-14/2023-RR",
+   "title": "RREGULLORE (QRK) - NR. 14/2023 PËR FUSHAT E PËRGJEGJËSISË ADMINISTRATIVE TË ZYRËS SË KRYEMINISTRIT DHE MINISTRIVE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=80403",
+   "versions": [
+    {
+     "from": "2023-08-23",
+     "units": 18,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=80403",
+     "sha256": "33d9760982b89c533d35985c1052bc7080842f2013972e061a81a375b65e022f"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2023-80806",
+   "path": "rregullore/2023/80806",
+   "short": "ZKM-07/2023-RR",
+   "title": "RREGULLORE (ZKM) NR.07/ 2023 PËR ORGANIZIMIN E BRENDSHËM DHE SISTEMATIZIMIN E VENDEVE TË PUNËS NË AGJENCINË PËR ZHVILLIMIN E BUJQËSISË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=80806",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 30,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=80806",
+     "sha256": "672e308bc5c76f1a36f2b6d5bb86dc9e472347b136daa538bf6ea8b77e6b6738"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2023-80812",
+   "path": "rregullore/2023/80812",
+   "short": "MM-NR 07/2023-RR",
+   "title": "RREGULLORE (MM) NR. 07/2023 PËR REKRUTIM NË FORCËN E SIGURISË SË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=80812",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 41,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=80812",
+     "sha256": "65272442a5dd0649a4c6c3e2e76054b8b23a7e4efd796a4948bd4a127ebe2b36"
     }
    ]
   },
@@ -43423,6 +47473,51 @@
      "units": 7,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=80928",
      "sha256": "2552d79b2f2ad85f4f1b22fcbf3ebe8309be84e3bb71eb93e236a3e76b818f4f"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2023-82707",
+   "path": "rregullore/2023/82707",
+   "short": "AAC-07-2023-RR",
+   "title": "RREGULLORE (AAC) Nr. 07/2023 PËR NDRYSHIMIN E RREGULLORES NR. 01/2018 MBI KËRKESAT PËR OFRUESIT E SHËRBIMEVE NË LIDHJE ME TRAJNIMIN DHE VLERËSIMIN E KOMPETENCËS PËR PERSONELIN E ELEKTRONIKËS TË SIGURISË TË TRAFIKUT AJROR (ATSEP)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=82707",
+   "versions": [
+    {
+     "from": "2023-10-04",
+     "units": 4,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=82707",
+     "sha256": "9320e4bbbee45cc869c3a62bc461e5ac857cbabd6b984b1d41f604619dac2ba6"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2023-82803",
+   "path": "rregullore/2023/82803",
+   "short": "AIP-02/2023-RR",
+   "title": "RREGULLORE NR. 02/2023 PËR PËRPUNIMIN E TË DHËNAVE PERSONALE TË CILAT MERREN NGA PËRDORIMI I DRONËVE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=82803",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 20,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=82803",
+     "sha256": "10d0a265064b10eab3ed1ef96a454f73572face8b8445c744a758ca1d6d2f090"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2023-83571",
+   "path": "rregullore/2023/83571",
+   "short": "QRK-15/2023-RR",
+   "title": "RREGULLORE (QRK) NR. 15/2023 PËR PROCEDURËN E PRANIMIT NË SHËRBIMIN CIVIL",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=83571",
+   "versions": [
+    {
+     "from": "2023-10-30",
+     "units": 28,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=83571",
+     "sha256": "406911685ccecd191aade73c5d43b927bc0333b5d1f0837bee5951bf1b595a9b"
     }
    ]
   },
@@ -43498,6 +47593,21 @@
      "units": 33,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=84662",
      "sha256": "ae47b1a282f4a088f97d3439ef967a0ecfcb193780318d297f7d5d80817e1370"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2023-84669",
+   "path": "rregullore/2023/84669",
+   "short": "MKRS-02-RR",
+   "title": "RREGULLORE (MKRS) NR. 02/2023 PËR KONKURSET DHE MBËSHTETJEN FINANCIARE TË VEPRAVE FILMIKE DHE AUDIO-VIZUALE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=84669",
+   "versions": [
+    {
+     "from": "2023-12-11",
+     "units": 25,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=84669",
+     "sha256": "21b1eee715438220421f5f89c21371172731d2af8a95206cedf7dc426c364fee"
     }
    ]
   },
@@ -43637,6 +47747,21 @@
    ]
   },
   {
+   "slug": "rregullore-2024-100092",
+   "path": "rregullore/2024/100092",
+   "short": "MSH-01/2024-RR",
+   "title": "RREGULLORE NR.01/2024 PËR ORGANIZIMIN E BRENDSHËM DHE SISTEMATIZIMIN E VENDEVE TË PUNËS NË INSTITUTIN KOMBËTAR TË SHËNDETËSISË PUBLIKE TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=100092",
+   "versions": [
+    {
+     "from": "2025-01-07",
+     "units": 52,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=100092",
+     "sha256": "faefb801eb25921216c0a561f090fddb925fe1533112ec65ae4716e6cf13af48"
+    }
+   ]
+  },
+  {
    "slug": "rregullore-2024-100111",
    "path": "rregullore/2024/100111",
    "short": "MKRS-09/2024-RR",
@@ -43742,6 +47867,36 @@
    ]
   },
   {
+   "slug": "rregullore-2024-85636",
+   "path": "rregullore/2024/85636",
+   "short": "QRK-02/2024-RR",
+   "title": "RREGULLORE (QRK) NR. 02/2024 PËR TRANSFERIMIN E NËPUNËSVE CIVILË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=85636",
+   "versions": [
+    {
+     "from": "2024-02-02",
+     "units": 19,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=85636",
+     "sha256": "e72f1071a2676a5fe235a2856ed985a4002c101c4e51f58c23df9497aca11938"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2024-87100",
+   "path": "rregullore/2024/87100",
+   "short": "ZKM-02/2024-RR",
+   "title": "RREGULLORE (ZKM) NR. 02/2024 PËR ORGANIZIMIN E BRENDSHËM DHE SISTEMATIZIMIN E VENDEVE TË PUNËS TË MINISTRISË PËR ZHVILLM RAJONAL",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=87100",
+   "versions": [
+    {
+     "from": "2024-02-21",
+     "units": 30,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=87100",
+     "sha256": "9b95734d1e0da3b831c85fdb23ae71915cb6b0bd066a25e31f8239880bdadace"
+    }
+   ]
+  },
+  {
    "slug": "rregullore-2024-87102",
    "path": "rregullore/2024/87102",
    "short": "ZKM-04/2024-RR",
@@ -43753,6 +47908,36 @@
      "units": 23,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=87102",
      "sha256": "ec1d8b6e95d86eb568c1862b81400c34c1190e4a23c9d1c30b31581c1a7e9e7f"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2024-87138",
+   "path": "rregullore/2024/87138",
+   "short": "QRK-03/2024-RR",
+   "title": "RREGULLORE (ZKM) NR. 03/2024 PËR ORGANIZIMIN E BRENDSHËM DHE SISTEMATIZIMIN E VENDEVE TË PUNËS NË SHËRBIMIN SPROVUES TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=87138",
+   "versions": [
+    {
+     "from": "2024-02-22",
+     "units": 28,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=87138",
+     "sha256": "46b6ea4a53a14420b1a24bf02b15476a415c4e759c4cd9ccb6f4c76f139d205f"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2024-87379",
+   "path": "rregullore/2024/87379",
+   "short": "MD-03/2023-RR",
+   "title": "RREGULLORE MD-NR. 03/2024 PËR PLOTËSIMIN DHE NDRYSHIMIN E RREGULLORES MD - Nr.07/2023 PËR PROCEDURËN E PËRCAKTIMIT DHE VERIFIKIMIT TË RECIPROCITETIT, KUSHTET, PËRMBAJTJEN DHE MËNYRËN E MIRËMBAJTJES SË BAZËS SË TË DHËNAVE PËR FITIMIN E TË DREJTËS SË PRONËSISË MBI PRONËN E PALUAJTSHME NGA TË HUAJT NË KOSOVË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=87379",
+   "versions": [
+    {
+     "from": "2024-03-04",
+     "units": 10,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=87379",
+     "sha256": "a079f5282aa3095470ad375310ba42e1cb15631d3b1a5a4f83a955ef6af73b87"
     }
    ]
   },
@@ -43772,6 +47957,21 @@
    ]
   },
   {
+   "slug": "rregullore-2024-87429",
+   "path": "rregullore/2024/87429",
+   "short": "QRK-03/2024-RR",
+   "title": "RREGULLORE (QRK) NR. 03/2024 PËR THEMELIMIN E MARRËDHËNIES SË PUNËS ME KONTRATË PËR PERIUDHË TË CAKTUAR",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=87429",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 18,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=87429",
+     "sha256": "b49eb9cc779588041293817455595134eafffd07405d56f3b2ef1ea51809335e"
+    }
+   ]
+  },
+  {
    "slug": "rregullore-2024-87434",
    "path": "rregullore/2024/87434",
    "short": "QRK-04/2024-RR",
@@ -43783,6 +47983,21 @@
      "units": 26,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=87434",
      "sha256": "a3ce8c33f4471524106a03a562b07a0b1761999740bfc378797430c2273f77c7"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2024-87435",
+   "path": "rregullore/2024/87435",
+   "short": "QRK-05/2024-RR",
+   "title": "RREGULLORE (QRK) NR. 05/2024 PËR NDRYSHIMIN DHE PLOTËSIMIN E RREGULLORES (QRK) NR. 15/2023 PËR PROCEDURËN E PRANIMIT NË SHËRBIMIN CIVIL",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=87435",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 9,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=87435",
+     "sha256": "fbd6f8f7b8783342821d9779d9d55082b3a2d7c7931397fa8a958d755dd03657"
     }
    ]
   },
@@ -43858,6 +48073,21 @@
      "units": 11,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=88225",
      "sha256": "8dfc31b450ba71123b424102e549376be45214e52c501084a6368a3137a2992a"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2024-88281",
+   "path": "rregullore/2024/88281",
+   "short": "AAC-03-2024-RR",
+   "title": "RREGULLORE (AAC) Nr. 03/2024 PËR NDRYSHIMIN E RREGULLORES (AAC) NR.07/2020 PËR AFTËSIMIN PROFESIONAL PËR PUNONJËSIT TË CILËT KRYEJNË DETYRA QË NDIKOJNË NË SIGURINË E OPERIMEVE NË AERODROME DHE CERTIFIKIMIN E ORGANIZATAVE PËR AFTËSIME PROFESIONALE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=88281",
+   "versions": [
+    {
+     "from": "2024-04-05",
+     "units": 4,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=88281",
+     "sha256": "ebfc504318934a1c5b80118b6b288ab00bf0f82d2f23e81603d22b66fc5fb09a"
     }
    ]
   },
@@ -44042,6 +48272,36 @@
    ]
   },
   {
+   "slug": "rregullore-2024-92513",
+   "path": "rregullore/2024/92513",
+   "short": "MFPT-01/2024-RR",
+   "title": "RREGULLORE MFPT - NR. 01/2024 PËR KËSHILLIN MBIKËQYRËS PËR LICENCIMIN E VLERËSUESVE TË PRONAVE TË PALUAJTSHME, PROCEDURAT DHE KRITERET PËR LICENCIMIN E PERSONAVE FIZIKË SI VLERËSUES TË PRONAVE TË PALUAJTSHME",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=92513",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 40,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=92513",
+     "sha256": "1eb7b571d07845d6d16458dc9d70c83acc540e99949d9b2f7b2eaf5533d4243c"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2024-92787",
+   "path": "rregullore/2024/92787",
+   "short": "MM-NR 02/2024-RR",
+   "title": "RREGULLORE (MM) NR. 02/2024 PËR PËRCAKTIMIN E PROCESIT TË PLANIFIKIMIT, PROGRAMIMIT, BUXHETIMIT DHE EKZEKUTIMIT NË MINISTRINË E MBROJTJES DHE FORCËN E SIGURISË SË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=92787",
+   "versions": [
+    {
+     "from": "2024-07-17",
+     "units": 18,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=92787",
+     "sha256": "64af20e33445d62e357ee7d40fe1e1e124093b641d3dcc65774b7f380b31d868"
+    }
+   ]
+  },
+  {
    "slug": "rregullore-2024-95066",
    "path": "rregullore/2024/95066",
    "short": "ZKM-14/2024-RR",
@@ -44192,6 +48452,36 @@
    ]
   },
   {
+   "slug": "rregullore-2024-97449",
+   "path": "rregullore/2024/97449",
+   "short": "MPB-02-2024-RR",
+   "title": "RREGULLORE (MPB) NR. 02/2024 PËR VLERËSIMIN E PAMJAFTUESHMËRISË PROFESIONALE NË SHËRBIMIN CIVIL",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=97449",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 11,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=97449",
+     "sha256": "5bfb5df649026d74f606359904cdccdb3a099304e527be1ce12d39be23566c03"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2024-97459",
+   "path": "rregullore/2024/97459",
+   "short": "MPB-03/2024-RR",
+   "title": "RREGULLORE (MPB) NR. 03/2024 PËR PLANIFIKIMIN E PERSONELIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=97459",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 9,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=97459",
+     "sha256": "31a8662ef41fd4ea72af0cfda00699fed50b5b0143518243cc156c1408b91929"
+    }
+   ]
+  },
+  {
    "slug": "rregullore-2024-97669",
    "path": "rregullore/2024/97669",
    "short": "MPB-04/2024-RR",
@@ -44308,6 +48598,36 @@
      "units": 23,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=98111",
      "sha256": "f4b54907e427e7c056a525d4eb9681f6f7911e3d96b83104b180833edd7c5f55"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2024-98223",
+   "path": "rregullore/2024/98223",
+   "short": "MKRS-02/2024-RR",
+   "title": "RREGULLORE (MKRS) NR. 02/2024 PËR PROCEDURAT E DORËZIM-PRANIMIT TË MATERIALIT ARKIVOR",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=98223",
+   "versions": [
+    {
+     "from": "2024-10-24",
+     "units": 14,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=98223",
+     "sha256": "5ef1cebe612dbf200c80a4f0aec32f200f6011a1c457bfb883a2afdc1fbd6be5"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2024-98225",
+   "path": "rregullore/2024/98225",
+   "short": "MKRS-03/2024-RR",
+   "title": "RREGULLORE (MKRS) NR. 03/2024 PËR STANDARDET TEKNIKE, KRITERET, RREGULLAT DHE PËRGJEGJËSITË PËR KUJDESIN, RUAJTJEN DHE MBROJTJEN E MATERIALIT ARKIVOR SI DHE PËR PROCEDURËN E ASGJËSIMIT TË MATERIALIT TË PAVLEFSHËM",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=98225",
+   "versions": [
+    {
+     "from": "2024-10-24",
+     "units": 24,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=98225",
+     "sha256": "838ffc3dcdf6df9bb3d29be440b4738e01e0d87d5b076bd577e8bf1813da8630"
     }
    ]
   },
@@ -44623,6 +48943,21 @@
      "units": 26,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=101808",
      "sha256": "f0e8f952ee6cb47c5c11f4d78a033e79fbfdb9542bd141a89e4b0bf9ba47fdd4"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2025-101973",
+   "path": "rregullore/2025/101973",
+   "short": "ZKM-04/2025-RR",
+   "title": "RREGULLORE (ZKM) NR. 04/2025 PËR ORGANIZIMIN E BRENDSHËM DHE SISTEMATIZIMIN E VENDEVE TË PUNËS TË AGJENCISË SË KOSOVËS PËR PRODUKTE DHE PAJISJE MEDICINALE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=101973",
+   "versions": [
+    {
+     "from": "2025-04-25",
+     "units": 33,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=101973",
+     "sha256": "aa6084689b9e4600fc4eb08412e53394e02753881118d2751470308b57f48020"
     }
    ]
   },
@@ -45032,6 +49367,21 @@
    ]
   },
   {
+   "slug": "rregullore-2026-116173",
+   "path": "rregullore/2026/116173",
+   "short": "ZKM-06/2026-RR",
+   "title": "RREGULLORE (ZKM) NR. 06/2026 PËR ORGANIZIMIN E BRENDSHËM DHE SISTEMATIZIMIN E VENDEVE TË PUNËS NË INSPEKTORATIN QENDROR TË MBIKËQYRJES SË TREGUT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=116173",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 11,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=116173",
+     "sha256": "705c5519146431dc05d1bc70a60ae75bafd787a28fcf60f970b50a954dc663d3"
+    }
+   ]
+  },
+  {
    "slug": "rregullore-2026-117436",
    "path": "rregullore/2026/117436",
    "short": "QRK-03/2026-RR",
@@ -45043,6 +49393,21 @@
      "units": 16,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=117436",
      "sha256": "dcbfea00ba3b77e4e6f2bba5e8fc99aa1c200909329016345755e4ea89b65da5"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2026-117437",
+   "path": "rregullore/2026/117437",
+   "short": "QRK-04/2026-RR",
+   "title": "RREGULLORE (QRK) NR. 04/2026 PËR FUSHAT E PËRGJEGJËSISË ADMINISTRATIVE TË MINISTRIVE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=117437",
+   "versions": [
+    {
+     "from": "2026-02-20",
+     "units": 36,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=117437",
+     "sha256": "dda5b8a5159044699ac175e1b3b495c238dba63873505ff21006c8f38b973c83"
     }
    ]
   },
@@ -45163,6 +49528,21 @@
      "units": 17,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=120924",
      "sha256": "1e71a7c135682e0def2841c1b300e0f9f1b678c3f4f73dfb7030065225fc16ea"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2026-121165",
+   "path": "rregullore/2026/121165",
+   "short": "MD-Nr. 01/2026-RR",
+   "title": "RREGULLORE MD - NR. 01/2026 PËR TARIFAT E ADMINISTRATORËVE FALIMENTUES DHE MONITORUESVE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=121165",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 11,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=121165",
+     "sha256": "5f075b43941a2fc27f307cf1cfc2b8648a3dad28cc48b753ff63a4cdd4984ef8"
     }
    ]
   },
@@ -45377,6 +49757,81 @@
    ]
   },
   {
+   "slug": "rregullore-2026-125870",
+   "path": "rregullore/2026/125870",
+   "short": "ZKM-16/2026-RR",
+   "title": "RREGULLORE (ZKM) NR. 16/2026 PËR ORGANIZIMIN E BRENDSHËM DHE SISTEMATIZIMIN E VENDEVE TË PUNËS TË AGJENCISË SË METROLOGJISË SË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=125870",
+   "versions": [
+    {
+     "from": "2026-11-05",
+     "units": 24,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=125870",
+     "sha256": "4bf17cb0c90e0b51e012a17ca632efbb6933533b85f1f8c98032c3f60d8dc407"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2026-125918",
+   "path": "rregullore/2026/125918",
+   "short": "ZKM-14/2026-RR",
+   "title": "RREGULLORE (ZKM) NR. 14/2026 PËR ORGANIZIMIN E BRENDSHËM DHE SISTEMATIZIMIN E VENDEVE TË PUNËS TË AGJENCISË PËR MBROJTJEN E MJEDISIT TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=125918",
+   "versions": [
+    {
+     "from": "2026-11-06",
+     "units": 39,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=125918",
+     "sha256": "0de211f6f7325f9b744e156810e387b36b2c90eb414d88d7b7d8eee3e94d089e"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2026-125922",
+   "path": "rregullore/2026/125922",
+   "short": "ZKM-15/2026-RR",
+   "title": "RREGULLORE (ZKM) NR. 15/2026 PËR ORGANIZIMIN E BRENDSHËM DHE SISTEMATIZIMIN E VENDEVE TË PUNËS NË MINISTRINË E DIGJITALIZIMIT DHE ADMINISTRATËS PUBLIKE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=125922",
+   "versions": [
+    {
+     "from": "2026-11-06",
+     "units": 59,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=125922",
+     "sha256": "327a69a0614e56f6987679c952445fc2669a5fc2a027fc34def4ceedc3a0955e"
+    }
+   ]
+  },
+  {
+   "slug": "statut-2008-11698",
+   "path": "statut/2008/11698",
+   "short": "ST-110-455-K.PR",
+   "title": "STATUTI (K.PR) 110-455 I KOMUNËS SË PRISHTINËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11698",
+   "versions": [
+    {
+     "from": "2008-04-16",
+     "units": 79,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11698",
+     "sha256": "bd27c292543ef1b3c7e3130014941adc01b3d8de91196b59bcb5a83099ff35e5"
+    }
+   ]
+  },
+  {
+   "slug": "statut-2008-11807",
+   "path": "statut/2008/11807",
+   "short": "ST-01-011/10-K.GJK",
+   "title": "STATUTI (K.GJK) I KOMUNËS SË GJAKOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11807",
+   "versions": [
+    {
+     "from": "2008-12-26",
+     "units": 98,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11807",
+     "sha256": "6f55be350afc7a649f3d91b1d5979ef72233512d6d6199ef594145b49a6e60b5"
+    }
+   ]
+  },
+  {
    "slug": "statut-2010-11713",
    "path": "statut/2010/11713",
    "short": "ST-01-V-2-K.DE",
@@ -45463,6 +49918,21 @@
      "units": 235,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=35866",
      "sha256": "48bce59f5361bcb5cdae17721c9359817e6dd5c4a089e78cd4107931bc746a6f"
+    }
+   ]
+  },
+  {
+   "slug": "statut-2024-85126",
+   "path": "statut/2024/85126",
+   "short": "QRK-01/2023-ST",
+   "title": "STATUTI (QRK) NR. 01/2023 I SHËRBIMIT SPITALOR DHE KLINIK UNIVERSITAR TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=85126",
+   "versions": [
+    {
+     "from": "2024-01-05",
+     "units": 34,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=85126",
+     "sha256": "289f32f8bd570abf190c1ff3fd9f7f28f92cfce682237606517e44e12d7f009e"
     }
    ]
   },
@@ -45568,6 +50038,36 @@
      "units": 6,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=7180",
      "sha256": "1d6290c7c755c634a6a720b4fa1a55ac6726fa8570ec6bc64b614f080c3e0cba"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2004-53590",
+   "path": "udhezim/2004/53590",
+   "short": "MBPZHR-09/2004-UA",
+   "title": "UDHËZIM ADMINISTRATIV NR.9/2004 PËR LICENCIMIN E VEPRIMTARIVE TË INDUSTRISË USHQIMORE , JO USHQIMORE DHE NDËRTIMORE DHE ÇERTIFIKIMIN E PRODUKTEVE TË INDUSTRISË BUJQËSORE (Shfuqizuar me Vendim të QRK, Nr. 02/50 të datës 23.12.2021)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=53590",
+   "versions": [
+    {
+     "from": "2004-11-17",
+     "units": 26,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=53590",
+     "sha256": "606b47a11f55ce3190d489c8bd4b301a519da0529c2dcf9907726bae56dd7da9"
+    }
+   ]
+  },
+  {
+   "slug": "udhezim-2004-7199",
+   "path": "udhezim/2004/7199",
+   "short": "MPMS-7/2004",
+   "title": "UDHËZIM ADMINISTRATIV NR. 7/2004 PËR PËRCAKTIMIN E LARTËSISË SË PENSIONIT BAZË NË KOSOVË PËR VITIN 2004",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=7199",
+   "versions": [
+    {
+     "from": "2004-01-01",
+     "units": 6,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=7199",
+     "sha256": "41d092026062b5aab8a7ed8ee6312b8aeb56d6535e8969005ac7140daf2c5597"
     }
    ]
   },

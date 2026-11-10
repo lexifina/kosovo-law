@@ -13,6 +13,10 @@ KUV-06/L-107-Marrveshja-MARR-ND · 1 versions, from 2018-11-24 (latest in force:
 
 Act id: `marreveshje-2018-18119` (tags `marreveshje-2018-18119/<day>`; `python tools/on.py <day> marreveshje-2018-18119`).
 
+## Same act
+
+The same ratification law, also published by the Gazette as a law (Ligje); both copies hold the same text: [`ligje/06-l-107/`](../../../ligje/06-l-107/) (<https://gzk.rks-gov.net/ActDetail.aspx?ActID=18105>).
+
 ## Decisions made by hand
 
 - Acts added after the first build (sub-legal acts and laws not yet in the record) are published as published in the Official Gazette, one version each, only when the Gazette links no act that amends, supplements or repeals them, does not mark them repealed, and no later act's title names them; the others are held back.

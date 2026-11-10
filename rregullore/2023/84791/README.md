@@ -27,6 +27,14 @@ ZKM-09/2023-RR · 1 versions, from 2023-12-26 (latest in force: 2023-12-26) · <
 
 Act id: `rregullore-2023-84791` (tags `rregullore-2023-84791/<day>`; `python tools/on.py <day> rregullore-2023-84791`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [RREGULLORE (ZKM) NR. 16/2026 PËR ORGANIZIMIN E BRENDSHËM DHE SISTEMATIZIMIN E VENDEVE TË PUNËS TË AGJENCISË SË METROLOGJISË SË KOSOVËS](https://gzk.rks-gov.net/ActDetail.aspx?ActID=125870)
+
 ## Decisions made by hand
 
 - Acts added after the first build (sub-legal acts and laws not yet in the record) are published as published in the Official Gazette, one version each, only when the Gazette links no act that amends, supplements or repeals them, does not mark them repealed, and no later act's title names them; the others are held back.

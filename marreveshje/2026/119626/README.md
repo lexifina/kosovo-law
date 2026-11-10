@@ -13,6 +13,10 @@ KUV-10/L-014 - Marreveshja-MARR-ND · 1 versions, from 2026-04-21 (latest in for
 
 Act id: `marreveshje-2026-119626` (tags `marreveshje-2026-119626/<day>`; `python tools/on.py <day> marreveshje-2026-119626`).
 
+## Same act
+
+The same ratification law, also published by the Gazette as a law (Ligje); both copies hold the same text: [`ligje/10-l-014/`](../../../ligje/10-l-014/) (<https://gzk.rks-gov.net/ActDetail.aspx?ActID=119097>).
+
 ## Decisions made by hand
 
 - Acts added after the first build (sub-legal acts and laws not yet in the record) are published as published in the Official Gazette, one version each, only when the Gazette links no act that amends, supplements or repeals them, does not mark them repealed, and no later act's title names them; the others are held back.
