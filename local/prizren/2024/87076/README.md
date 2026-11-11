@@ -48,6 +48,10 @@ K.PZ-001/011-201-RR · 1 versions, from 2024-02-14 (latest in force: 2024-02-14)
 
 Act id: `local-prizren-2024-87076` (tags `local-prizren-2024-87076/<day>`; `python tools/on.py <day> local-prizren-2024-87076`).
 
+## On the municipality's website
+
+The municipality's site shows this act dated 10/02/2025 (<https://prizren.rks-gov.net/wp-content/uploads/2025/05/Rregullore-komunale-per-kushtet-kriteret-dhe-procedurat-e-ndarjes-se-subvencioneve-dhe-trasfereve-dhe-granteve.pdf>). That is the site's own post date, not proof of the day it was posted or took effect; the text here is the Gazette's.
+
 ## Decisions made by hand
 
 - Municipal acts (the 38 municipalities' regulations, decisions and statutes the Official Gazette publishes) live in local/<municipality>/<year>/<Gazette act id>/, one version each: the act as published in the Gazette. The 72 municipal acts published before this layer keep their national folders (data/local.csv lists them).

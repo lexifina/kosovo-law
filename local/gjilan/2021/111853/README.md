@@ -23,6 +23,10 @@ K.GJL-16-15785-ST Â· 1 versions, from 2021-02-26 (latest in force: 2021-02-26) Â
 
 Act id: `local-gjilan-2021-111853` (tags `local-gjilan-2021-111853/<day>`; `python tools/on.py <day> local-gjilan-2021-111853`).
 
+## On the municipality's website
+
+The municipality's site shows this act dated 12/04/2021 (<https://gjilan.rks-gov.net/wp-content/uploads/2021/04/Statuti-i-Qendres-Kulturore-Evropiane.docx>). That is the site's own post date, not proof of the day it was posted or took effect; the text here is the Gazette's.
+
 ## Decisions made by hand
 
 - Municipal acts (the 38 municipalities' regulations, decisions and statutes the Official Gazette publishes) live in local/<municipality>/<year>/<Gazette act id>/, one version each: the act as published in the Gazette. The 72 municipal acts published before this layer keep their national folders (data/local.csv lists them).

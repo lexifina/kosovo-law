@@ -22,6 +22,10 @@ RR-110-288305-K.PR · 1 versions, from 2014-12-31 (latest in force: 2014-12-31) 
 
 Act id: `local-prishtine-2014-11863` (tags `local-prishtine-2014-11863/<day>`; `python tools/on.py <day> local-prishtine-2014-11863`).
 
+## On the municipality's website
+
+The municipality's site shows this act dated 31/12/2014 (<https://prishtina.rks-gov.net/wp-content/uploads/2018/01/5-Propozimrregullore-per-proceduren-e-ndertimit-te-objekteve-me-karakter-te-perkohshem.pdf>). That is the site's own post date, not proof of the day it was posted or took effect; the text here is the Gazette's.
+
 ## Decisions made by hand
 
 - Municipal acts (the 38 municipalities' regulations, decisions and statutes the Official Gazette publishes) live in local/<municipality>/<year>/<Gazette act id>/, one version each: the act as published in the Gazette. The 72 municipal acts published before this layer keep their national folders (data/local.csv lists them).

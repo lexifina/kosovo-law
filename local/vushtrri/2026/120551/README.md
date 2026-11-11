@@ -55,6 +55,10 @@ K.VSH-20/26-RR · 1 versions, from 2026-06-04 (latest in force: 2026-06-04) · <
 
 Act id: `local-vushtrri-2026-120551` (tags `local-vushtrri-2026-120551/<day>`; `python tools/on.py <day> local-vushtrri-2026-120551`).
 
+## On the municipality's website
+
+The municipality's site shows this act dated 05/03/2026 (<https://vushtrri.rks-gov.net/wp-content/uploads/2026/03/Rregullore-per-Transparence-ne-Komunen-e-Vushtrrise-3.pdf>). That is the site's own post date, not proof of the day it was posted or took effect; the text here is the Gazette's.
+
 ## Decisions made by hand
 
 - Municipal acts (the 38 municipalities' regulations, decisions and statutes the Official Gazette publishes) live in local/<municipality>/<year>/<Gazette act id>/, one version each: the act as published in the Gazette. The 72 municipal acts published before this layer keep their national folders (data/local.csv lists them).

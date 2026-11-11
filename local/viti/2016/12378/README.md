@@ -35,6 +35,10 @@ RR-01-013/372-K.VI · 1 versions, from 2016-04-19 (latest in force: 2016-04-19) 
 
 Act id: `local-viti-2016-12378` (tags `local-viti-2016-12378/<day>`; `python tools/on.py <day> local-viti-2016-12378`).
 
+## On the municipality's website
+
+The municipality's site shows this act dated 31/03/2016 (<https://viti.rks-gov.net/wp-content/uploads/20203556.pdf>). That is the site's own post date, not proof of the day it was posted or took effect; the text here is the Gazette's.
+
 ## Decisions made by hand
 
 - Municipal acts (the 38 municipalities' regulations, decisions and statutes the Official Gazette publishes) live in local/<municipality>/<year>/<Gazette act id>/, one version each: the act as published in the Gazette. The 72 municipal acts published before this layer keep their national folders (data/local.csv lists them).

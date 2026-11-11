@@ -36,6 +36,10 @@ K.FR-1-RR · 1 versions, from 2017-08-29 (latest in force: 2017-08-29) · <https
 
 Act id: `local-ferizaj-2017-15327` (tags `local-ferizaj-2017-15327/<day>`; `python tools/on.py <day> local-ferizaj-2017-15327`).
 
+## On the municipality's website
+
+The municipality's site shows this act dated 29/08/2017 (<https://ferizaj.rks-gov.net/wp-content/uploads/2020/09/RREGULLORE_K.FR_E_TE_HYRAVE_VETANAKE_TE_KOMUNES_SE_FERIZAJT.pdf>). That is the site's own post date, not proof of the day it was posted or took effect; the text here is the Gazette's.
+
 ## Decisions made by hand
 
 - Municipal acts (the 38 municipalities' regulations, decisions and statutes the Official Gazette publishes) live in local/<municipality>/<year>/<Gazette act id>/, one version each: the act as published in the Gazette. The 72 municipal acts published before this layer keep their national folders (data/local.csv lists them).

@@ -26,6 +26,10 @@ RR-110-41917-K.PR Â· 1 versions, from 2013-03-29 (latest in force: 2013-03-29) Â
 
 Act id: `local-prishtine-2013-11840` (tags `local-prishtine-2013-11840/<day>`; `python tools/on.py <day> local-prishtine-2013-11840`).
 
+## On the municipality's website
+
+The municipality's site shows this act dated 29/03/2013 (<https://prishtina.rks-gov.net/wp-content/uploads/2018/01/Rregullore-per-ndarjen-e-bursave-per-studente-te-Komunes-se-Prishtines.pdf>). That is the site's own post date, not proof of the day it was posted or took effect; the text here is the Gazette's.
+
 ## Decisions made by hand
 
 - Municipal acts (the 38 municipalities' regulations, decisions and statutes the Official Gazette publishes) live in local/<municipality>/<year>/<Gazette act id>/, one version each: the act as published in the Gazette. The 72 municipal acts published before this layer keep their national folders (data/local.csv lists them).

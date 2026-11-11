@@ -16,6 +16,10 @@ K.PR-01-110/05-4436/21-RR · 1 versions, from 2021-01-11 (latest in force: 2021-
 
 Act id: `local-prishtine-2021-90360` (tags `local-prishtine-2021-90360/<day>`; `python tools/on.py <day> local-prishtine-2021-90360`).
 
+## On the municipality's website
+
+The municipality's site shows this act dated 28/01/2021 (<https://prishtina.rks-gov.net/wp-content/uploads/2021/01/4.Rregullorja-e-punes-per-Teatrin-Dodona.pdf>). That is the site's own post date, not proof of the day it was posted or took effect; the text here is the Gazette's.
+
 ## Decisions made by hand
 
 - Municipal acts (the 38 municipalities' regulations, decisions and statutes the Official Gazette publishes) live in local/<municipality>/<year>/<Gazette act id>/, one version each: the act as published in the Gazette. The 72 municipal acts published before this layer keep their national folders (data/local.csv lists them).

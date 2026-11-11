@@ -351,6 +351,41 @@ def published_twice(words: str) -> bool:
                 or len(re.findall(r"publikim|shpallj|botim", w, re.I)) >= 2)
 
 
+def foreign_text(path: Path):
+    """(units, in-force sentence, last four paragraphs, sha256, trailing image pages, 'en' | 'sr') for an act whose PDF
+    is in English or Serbian only (Albanian common words at most 5% of that language's, the other at most 10%, no
+    page image inside the text), or None. English files follow the first build's en/ names (preamble, article-NNN,
+    signature) when its articles number cleanly; otherwise, and for Serbian, the whole text is one file (text)."""
+    doc = json.loads(gzip.decompress(path.read_bytes()).decode("utf-8"))
+    if doc.get("no_pdf") or not doc.get("pages"):
+        return None
+    flags = [bool(p.get("scanned")) for p in doc["pages"]]
+    n_text = len(flags) - flags[::-1].index(False) if False in flags else 0
+    if n_text == 0 or any(flags[:n_text]):
+        return None
+    s = lang_scores(" ".join(l[6] for p in doc["pages"] for l in _body(p)))
+    lang = max(("en", "sr"), key=lambda k: s[k])
+    other = "sr" if lang == "en" else "en"
+    if s[lang] < 30 or s["sq"] > 0.05 * s[lang] or s[other] > 0.1 * s[lang]:
+        return None
+    paras = ks_text.paragraphs(ks_text.pdf_lines(doc), "en")
+    if not paras:
+        return None
+    units = {}
+    st = ks_text.structure(paras, "en") if lang == "en" else None
+    if st and not st["gaps"] and not st["notes"] and st["articles"] and not st["body"]:
+        if st["preamble"]:
+            units["preamble"] = {"label": "Preamble", "kind": "preamble", "text": "\n".join(st["preamble"]) + "\n"}
+        for n, lines in st["articles"]:
+            units[f"article-{n:03d}"] = {"label": f"Article {n}", "kind": "art", "text": "\n".join(lines) + "\n"}
+        if st["signature"]:
+            units["signature"] = {"label": "Signature", "kind": "signature", "text": "\n".join(st["signature"]) + "\n"}
+    else:
+        units["text"] = {"label": "Text", "kind": "text", "text": "\n".join(paras) + "\n"}
+    rule = ks_inforce.rule_of(paras)
+    return units, rule, paras[-4:], doc["sha256"], len(flags) - n_text, lang
+
+
 _ISSUER: dict[int, str] = {}
 
 
@@ -487,8 +522,8 @@ OCR_SOURCE: dict[str, dict] = {}   # act id -> {"note", "trailer"} for the acts 
 
 def with_ocr(doc: dict, f: Path) -> tuple[dict, dict]:
     """(doc with its scanned pages replaced by the OCR lines, {"note", "trailer"}) or Hold. In an act whose other pages
-    have a text layer, an image page where OCR found almost no words (gate "figures": a picture, a stamp page) is not
-    transcribed, and the note says so."""
+    have a text layer, an image page where OCR found few words (gate "figures": a picture, a stamp page, an annex
+    cover) is left out of the OCR gate; its words are given and the note says so."""
     o = json.loads(gzip.decompress(f.read_bytes()).decode("utf-8"))
     if o.get("sha256") != doc.get("sha256") or len(o.get("pages", [])) != len(doc["pages"]):
         raise Hold("ocr_pdf_changed")
@@ -499,7 +534,8 @@ def with_ocr(doc: dict, f: Path) -> tuple[dict, dict]:
     pages, n = [], 0
     for k, (p, q) in enumerate(zip(doc["pages"], o["pages"]), 1):
         if p.get("scanned") and q.get("ocr"):
-            pages.append(dict(p, scanned=False, lines=[] if k in figures else q["lines"]))
+            turned = {"height": q["height"], "width": q["width"]} if q.get("rotate") else {}   # read turned
+            pages.append(dict(p, scanned=False, lines=q["lines"], **turned))
             n += k not in figures
         else:
             pages.append(p)
@@ -514,11 +550,19 @@ def with_ocr(doc: dict, f: Path) -> tuple[dict, dict]:
                      f"model; mean word confidence {conf}%) and may misread single characters; check the Gazette's PDF "
                      f"before relying on a figure.")
     else:
-        src = f"text layer; {len(figures)} image page(s) checked by OCR (Tesseract {ver}): figures, not transcribed"
+        src = f"text layer; {len(figures)} image page(s) with few words read by OCR (Tesseract {ver}, tessdata_best Latin)"
     if figures:
-        notes.append(f"Page(s) {', '.join(map(str, sorted(figures)))} of the PDF are images with almost no words (a "
-                     f"figure or a stamp page, checked by OCR): not transcribed here.")
-    return dict(doc, pages=pages), {"note": " ".join(notes), "trailer": f"Text-source: {src}"}
+        notes.append(f"Page(s) {', '.join(map(str, sorted(figures)))} of the PDF are images with few words (a figure, "
+                     f"a stamp page, an annex cover): the words OCR read on them are given here, the images are not "
+                     f"reproduced.")
+    dropped = int(g.get("dropped_lines", 0))
+    trailers = [f"Text-source: {src}"]
+    if dropped:
+        notes.append(f"{dropped} line(s) OCR read on the image pages were left out as stamps, signatures, handwritten "
+                     f"marks or other debris (read with low confidence, or a registry stamp): names under a "
+                     f"signature may be missing.")
+        trailers.append(f"OCR-dropped-lines: {dropped} (stamps, signatures, marks)")
+    return dict(doc, pages=pages), {"note": " ".join(notes), "trailer": trailers[0], "trailers": trailers}
 
 
 def read_text(path: Path, amending: bool, cache: dict | None, title: str = "") -> tuple[dict, str, list, str, int, str,
@@ -953,9 +997,18 @@ def main():
             if not d["published"]:
                 raise Hold("no_publication_day")
             amending = bool(CHANGE.search(fold(d["title"])))
-            units, rule, tail_paras, sha, scanned, cut, info = read_text(base / "pdf.json.gz", amending, cache,
-                                                                         d["title"])
-            released = bool(cut)   # read by a rule added after acts were first published (see marked_changed)
+            foreign = ""
+            try:
+                units, rule, tail_paras, sha, scanned, cut, info = read_text(base / "pdf.json.gz", amending, cache,
+                                                                             d["title"])
+            except Hold as h:
+                # 2026-11-11: the Gazette's PDF is in English or Serbian only: published in that language, labelled
+                got = foreign_text(base / "pdf.json.gz") if str(h).startswith("not_albanian") else None
+                if not got:
+                    raise
+                units, rule, tail_paras, sha, scanned, foreign = got
+                cut, info = "", {}
+            released = bool(cut) or bool(foreign)   # read by a rule added after acts were first published
             doc = {"sha256": sha}
             if rule:
                 when, how = ks_inforce.when(rule, d["published"])
@@ -1061,6 +1114,9 @@ def main():
         note = f"In force: {basis}" + (f" (\"{inf['words'][:300]}\")" if inf.get("words") else "") + "."
         if cut:
             note += " " + cut
+        if foreign:
+            note += (f" The Gazette publishes this act's text in {LANG_NAME[foreign]} only (its PDF has no Albanian text); "
+                     f"the text here is that {LANG_NAME[foreign]} text, as published.")
         if info.get("letters"):
             note += (" The PDF's text layer prints 'ë' as 'é' or '€'; the in-force sentence was read, and is quoted, "
                      "with 'ë'.")
@@ -1080,7 +1136,9 @@ def main():
             "first_law": slug, "earlier_laws": [],
             "versions": [{"from": day, "source_url": DOC.format(id=i), "sha256": doc["sha256"], "units": units,
                           "credits": {}, "note": note,
-                          **({"trailers": [OCR_SOURCE[str(i)]["trailer"]]} if str(i) in OCR_SOURCE else {})}],
+                          **({"trailers": OCR_SOURCE[str(i)].get("trailers", [OCR_SOURCE[str(i)]["trailer"]])} if str(i) in OCR_SOURCE else {}),
+                          **({"trailers": [f"Language: {foreign} (the Gazette publishes no Albanian text for this act)"]}
+                             if foreign else {})}],
             **marks})
     if cache is not None:
         cache = {k: v for k, v in cache.items() if k.endswith("|" + SELF)}

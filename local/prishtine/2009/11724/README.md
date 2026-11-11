@@ -21,6 +21,10 @@ RR-110-286-K.PR · 1 versions, from 2009-07-12 (latest in force: 2009-07-12) · 
 
 Act id: `local-prishtine-2009-11724` (tags `local-prishtine-2009-11724/<day>`; `python tools/on.py <day> local-prishtine-2009-11724`).
 
+## On the municipality's website
+
+The municipality's site shows this act dated 12/02/2009 (<https://prishtina.rks-gov.net/wp-content/uploads/2018/01/Rregullore-per-perdorimin-e-gjuheve.pdf>). That is the site's own post date, not proof of the day it was posted or took effect; the text here is the Gazette's.
+
 ## Decisions made by hand
 
 - Municipal acts (the 38 municipalities' regulations, decisions and statutes the Official Gazette publishes) live in local/<municipality>/<year>/<Gazette act id>/, one version each: the act as published in the Gazette. The 72 municipal acts published before this layer keep their national folders (data/local.csv lists them).

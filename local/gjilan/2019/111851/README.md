@@ -13,6 +13,10 @@ K.GJL-016-145897-RR · 1 versions, from 2019-12-04 (latest in force: 2019-12-04)
 
 Act id: `local-gjilan-2019-111851` (tags `local-gjilan-2019-111851/<day>`; `python tools/on.py <day> local-gjilan-2019-111851`).
 
+## On the municipality's website
+
+The municipality's site shows this act dated 04/01/2018 (<https://gjilan.rks-gov.net/wp-content/uploads/2018/01/Rregullorja-per-tatimin-ne-pronen-e-paluajtshme-per-vitin-2015.pdf>). That is the site's own post date, not proof of the day it was posted or took effect; the text here is the Gazette's.
+
 ## Decisions made by hand
 
 - Municipal acts (the 38 municipalities' regulations, decisions and statutes the Official Gazette publishes) live in local/<municipality>/<year>/<Gazette act id>/, one version each: the act as published in the Gazette. The 72 municipal acts published before this layer keep their national folders (data/local.csv lists them).

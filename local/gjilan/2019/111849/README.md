@@ -34,6 +34,10 @@ K.GJL-016-35873-RR · 1 versions, from 2019-03-23 (latest in force: 2019-03-23) 
 
 Act id: `local-gjilan-2019-111849` (tags `local-gjilan-2019-111849/<day>`; `python tools/on.py <day> local-gjilan-2019-111849`).
 
+## On the municipality's website
+
+The municipality's site shows this act dated 20/02/2019 (<https://gjilan.rks-gov.net/wp-content/uploads/2019/02/Draft-rregullore-per-funkcionimin-e-Asamblese-komunale-te-femijeve-2.docx>). That is the site's own post date, not proof of the day it was posted or took effect; the text here is the Gazette's.
+
 ## Decisions made by hand
 
 - Municipal acts (the 38 municipalities' regulations, decisions and statutes the Official Gazette publishes) live in local/<municipality>/<year>/<Gazette act id>/, one version each: the act as published in the Gazette. The 72 municipal acts published before this layer keep their national folders (data/local.csv lists them).

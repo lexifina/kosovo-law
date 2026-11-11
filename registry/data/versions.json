@@ -19397,6 +19397,21 @@
    ]
   },
   {
+   "slug": "aktvendim-2018-18239",
+   "path": "aktvendim/2018/18239",
+   "short": "GJK-KI131/17-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI131/17 PARASHTRUES URAN HALIMI VLERËSIM I KUSHTETUTSHMËRISË SË MUNGESËS SË PËRGJIGJES NGA ANA E SEKRETARIT TË PËRGJITHSHËM TË MINISTRISË SË ARSIMIT, SHKENCËS DHE TEKNOLOGJISË",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=18239",
+   "versions": [
+    {
+     "from": "2018-12-07",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=18239",
+     "sha256": "789ccdeeb2ad9c5176194164b0c914eeac9baecd0f5ef8355308c539179af588"
+    }
+   ]
+  },
+  {
    "slug": "aktvendim-2018-18240",
    "path": "aktvendim/2018/18240",
    "short": "GJK-KO79/18-AKV",
@@ -40082,6 +40097,21 @@
    ]
   },
   {
+   "slug": "aktvendim-2026-126259",
+   "path": "aktvendim/2026/126259",
+   "short": "GJK-KI52/25-AKV",
+   "title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI52/25 PARASHTRUES MUSTAFA RAMA VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [REV.NR.420/2024] TË 1 TETORIT 2024 TË GJYKATËS SUPREME TË KOSOVËS",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=126259",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=126259",
+     "sha256": "be46961ece9423baf2798df000c96d10fc99843e16981c85361b1a16a82e8fe9"
+    }
+   ]
+  },
+  {
    "slug": "dekret-2009-3307",
    "path": "dekret/2009/3307",
    "short": "PRS-DF-002-2009-DKR",
@@ -45242,6 +45272,21 @@
    ]
   },
   {
+   "slug": "rregullore-2009-11447",
+   "path": "rregullore/2009/11447",
+   "short": "RR-07/2009-AAC",
+   "title": "RREGULLORE Nr. 7/2009 MBI KUSHTET DHE PROCEDURAT PËR PËRVETËSIMIN, LËSHIMIN, RINOVIMIN DHE RIZGJATJEN E LICENCAVE DHE AUTORIZIMEVE PËR STAFIN E AVIACIONIT - PILOTËT E AEROPLANËVE",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11447",
+   "versions": [
+    {
+     "from": "2009-11-12",
+     "units": 3,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11447",
+     "sha256": "e237ed01efaf44eec9f5a54cc6c8e63c6efae6d32a9e1e46f746eb073a3024bf"
+    }
+   ]
+  },
+  {
    "slug": "rregullore-2009-11699",
    "path": "rregullore/2009/11699",
    "short": "RR-04/2009-K.J",
@@ -45493,6 +45538,21 @@
      "units": 6,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11373",
      "sha256": "498613c6bbf264df2409ce954d155bc1483711064636a160a8c54092d0d4a7ff"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2010-11387",
+   "path": "rregullore/2010/11387",
+   "short": "RR-01/2010-AAC",
+   "title": "RREGULLORE Nr. 1/2010 MBI KËRKESAT MJEKËSORE PËR LICENCIMIN E EKUIPAZHIT TË FLUTURIMIT",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11387",
+   "versions": [
+    {
+     "from": "2010-01-15",
+     "units": 3,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11387",
+     "sha256": "d741a1f99ae94c5ff3e18566aea6ae12249924e4c5deed4951ac62794eebed6d"
     }
    ]
   },
@@ -46243,6 +46303,21 @@
      "units": 7,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11399",
      "sha256": "e202abda4a17ca6481a186829a924e4d26ef7f9e5d3edd9351a885cdd707263a"
+    }
+   ]
+  },
+  {
+   "slug": "rregullore-2013-11441",
+   "path": "rregullore/2013/11441",
+   "short": "RR-04/2013-AAC",
+   "title": "RREGULLORE Nr. 4 /2013 MBI ZBATIMIN E ANEKSIT 11 NË KONVENTËN NDËRKOMBËTARE PËR AVIACIONIN CIVIL MBI SHËRBIMET E TRAFIKUT AJROR",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11441",
+   "versions": [
+    {
+     "from": "2013-12-25",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=11441",
+     "sha256": "9289939a970845ca4987ca69a7e0394fce7efb51b59ae2623213e6eeb66c8312"
     }
    ]
   },
@@ -75793,6 +75868,51 @@
      "units": 48,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=120551",
      "sha256": "8e6147a914a2d2ce10d5874625b252e50542403f4b85b56c9ff8d80c91e65ffc"
+    }
+   ]
+  },
+  {
+   "slug": "local-decan-2025-web-82330",
+   "path": "local/decan/2025/web-82330",
+   "short": "Draft – Rregullore për Organizimin e Brendshëme dhe Sistematizimin e Vendeve të ",
+   "title": "Draft – Rregullore për Organizimin e Brendshëme dhe Sistematizimin e Vendeve të Punës në Administratën Komunale",
+   "url": "https://decan.rks-gov.net/wp-content/uploads/2025/07/Rregullore-per-Sistemimin-e-Vendeve-te-Punes.pdf",
+   "versions": [
+    {
+     "from": "2025-07-09",
+     "units": 59,
+     "source_url": "https://decan.rks-gov.net/wp-content/uploads/2025/07/Rregullore-per-Sistemimin-e-Vendeve-te-Punes.pdf",
+     "sha256": "deca85457106b460e739ce54899a2ddcbbc8de8f5d2a51965f7dd207235c6671"
+    }
+   ]
+  },
+  {
+   "slug": "local-fushe-kosove-2009-web-50783",
+   "path": "local/fushe-kosove/2009/web-50783",
+   "short": "Rregullore për Tarifa dhe Gjoba",
+   "title": "Rregullore për Tarifa dhe Gjoba",
+   "url": "https://fushekosove.rks-gov.net/wp-content/uploads/2009/05/RregulloreTarifaGjoba26052009.pdf",
+   "versions": [
+    {
+     "from": "2009-05-26",
+     "units": 62,
+     "source_url": "https://fushekosove.rks-gov.net/wp-content/uploads/2009/05/RregulloreTarifaGjoba26052009.pdf",
+     "sha256": "1d65397ff29539fc7a0e3ba9c2ef1fccd3a6acd8bd18430b72a9f3a70bb684fc"
+    }
+   ]
+  },
+  {
+   "slug": "local-fushe-kosove-2010-web-50786",
+   "path": "local/fushe-kosove/2010/web-50786",
+   "short": "Rregullore për Tatim në Pronë",
+   "title": "Rregullore për Tatim në Pronë",
+   "url": "https://fushekosove.rks-gov.net/wp-content/uploads/2010/09/RregulloreTatimProne31092010.pdf",
+   "versions": [
+    {
+     "from": "2010-09-30",
+     "units": 7,
+     "source_url": "https://fushekosove.rks-gov.net/wp-content/uploads/2010/09/RregulloreTatimProne31092010.pdf",
+     "sha256": "9ed21a8cc46f95b0a968128cd5c55d48241d89169aa2fdef191ceb4d216f6087"
     }
    ]
   },

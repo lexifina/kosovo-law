@@ -34,6 +34,10 @@ RR (K.PR) 35-1449-K.PR · 1 versions, from 2009-07-23 (latest in force: 2009-07-
 
 Act id: `local-prishtine-2009-11734` (tags `local-prishtine-2009-11734/<day>`; `python tools/on.py <day> local-prishtine-2009-11734`).
 
+## On the municipality's website
+
+The municipality's site shows this act dated 23/07/2009 (<https://prishtina.rks-gov.net/wp-content/uploads/2018/01/RREGULLORJA-per-trajtimin-e-ndertimeve-pa-leje-1.pdf>). That is the site's own post date, not proof of the day it was posted or took effect; the text here is the Gazette's.
+
 ## Decisions made by hand
 
 - Municipal acts (the 38 municipalities' regulations, decisions and statutes the Official Gazette publishes) live in local/<municipality>/<year>/<Gazette act id>/, one version each: the act as published in the Gazette. The 72 municipal acts published before this layer keep their national folders (data/local.csv lists them).

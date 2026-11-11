@@ -29,6 +29,10 @@ K.DG-5448-3/23-RR Â· 1 versions, from 2023-05-16 (latest in force: 2023-05-16) Â
 
 Act id: `local-dragash-2023-74842` (tags `local-dragash-2023-74842/<day>`; `python tools/on.py <day> local-dragash-2023-74842`).
 
+## On the municipality's website
+
+The municipality's site shows this act dated 16/05/2023 (<https://dragash.rks-gov.net/wp-content/uploads/2023/05/RREGULLORE-PER-PERCAKTIMIN-E-PROCEDURAVE-TE-DHENIES-NE-SHFRYTEZIM-ME-PAK-SE-NJE-1-VIT-TE-PRONES-SE-PALUAJTSHME-TE-KOMUNES.pdf>). That is the site's own post date, not proof of the day it was posted or took effect; the text here is the Gazette's.
+
 ## Decisions made by hand
 
 - Municipal acts (the 38 municipalities' regulations, decisions and statutes the Official Gazette publishes) live in local/<municipality>/<year>/<Gazette act id>/, one version each: the act as published in the Gazette. The 72 municipal acts published before this layer keep their national folders (data/local.csv lists them).

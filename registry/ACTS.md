@@ -1,6 +1,6 @@
 # Every act in this repository
 
-5117 acts, 5,117 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+5125 acts, 5,125 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## aktgjykim (306, of which 8 amending acts)
 
@@ -313,7 +313,7 @@
 | AKTGJYKIM NË RASTIN NR. KI145/26 PARASHTRUES ANEMSHA SEJRANI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [AC-I-23-0761] TË 5 SHKURTIT 2026 TË KOLEGJIT TË APELIT TË DHOMËS SË POSAÇME TË GJYKATËS SUPREME PËR ÇËSHTJET NË LIDHJE ME AGJENCINË KOSOVARE TË PRIVATIZIMIT | [`aktgjykim/2026/125903/`](aktgjykim/2026/125903/) | in force | 1 | 2026-10-30 | 2026-10-30 |
 | AKTGJYKIM NË RASTIN NR. KI292/25 PARASHTRUES AVNI MATOSHI VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT REV. NR. 56/2024 TË 18 KORRIKUT 2024 TË GJYKATËS SUPREME | [`aktgjykim/2026/126174/`](aktgjykim/2026/126174/) | in force | 1 | 2026-11-06 | 2026-11-06 |
 
-## aktvendim (2366, of which 6 amending acts)
+## aktvendim (2368, of which 6 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1304,6 +1304,7 @@
 | AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI62/18 PARASHTRUES NADLIJE GOJANI VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT TË KOLEGJIT TË APELIT TË DHOMËS SË POSAÇME TË GJYKATËS SUPREME TË KOSOVËS PËR ÇËSHTJET NË LIDHJE ME AGJENCINË KOSOVARE TË PRIVATIZIMIT, NR. AC-I-17-0505, TË 5 MARSIT 2018 | [`aktvendim/2018/18235/`](aktvendim/2018/18235/) | in force | 1 | 2018-12-07 | 2018-12-07 |
 | AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI64/18 PARASHTRUES HASAN MAXHUNI VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT TË GJYKATËS SUPREME TË KOSOVËS, REV. NR. 234/2017, TË 14 DHJETORIT 2017 | [`aktvendim/2018/18236/`](aktvendim/2018/18236/) | in force | 1 | 2018-12-07 | 2018-12-07 |
 | AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI112/17 PARASHTRUES DENO DENOVIĆ VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS, ARJ. NR. 7/2017, TË 16 MAJIT 2017 | [`aktvendim/2018/18238/`](aktvendim/2018/18238/) | in force | 1 | 2018-12-07 | 2018-12-07 |
+| AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI131/17 PARASHTRUES URAN HALIMI VLERËSIM I KUSHTETUTSHMËRISË SË MUNGESËS SË PËRGJIGJES NGA ANA E SEKRETARIT TË PËRGJITHSHËM TË MINISTRISË SË ARSIMIT, SHKENCËS DHE TEKNOLOGJISË | [`aktvendim/2018/18239/`](aktvendim/2018/18239/) | in force | 1 | 2018-12-07 | 2018-12-07 |
 | AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KO79/18 PARASHTRUES PRESIDENTI I REPUBLIKËS SË KOSOVËS KËRKESË PËR INTERPRETIM TË NENIT 139, PARAGRAFI 4, TË KUSHTETUTËS SË REPUBLIKËS SË KOSOVËS | [`aktvendim/2018/18240/`](aktvendim/2018/18240/) | in force | 1 | 2018-12-07 | 2018-12-07 |
 | AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI27/18 PARASHTRUES SINAN THAQI DHE HASAN THAQI VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT TË GJYKATËS SUPREME TË KOSOVËS, REV. NR. 76/2017, TË 3 MAJIT 2017 | [`aktvendim/2019/18386/`](aktvendim/2019/18386/) | in force | 1 | 2019-01-09 | 2019-01-09 |
 | AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI49/18 PARASHTRUES ILMI SOPA VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË KOSOVËS, PML. NR. 316/2016, TË 15 MARSIT 2017 | [`aktvendim/2019/18388/`](aktvendim/2019/18388/) | in force | 1 | 2019-01-09 | 2019-01-09 |
@@ -2683,6 +2684,7 @@
 | AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI109/26 PARASHTRUES “MENTI” SH.P.K. VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT A-REV.NR.52/2025 TË 2 DHJETORIT 2025 TË GJYKATËS SUPREME TË KOSOVËS | [`aktvendim/2026/126176/`](aktvendim/2026/126176/) | in force | 1 | 2026-11-06 | 2026-11-06 |
 | AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI 103/26 PARASHTRUES N.T.N. “RONI RIKI” VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [A.REV.NR.61/2025] TË 23 SHKURTIT 2026 TË GJYKATËS SUPREME TË KOSOVËS | [`aktvendim/2026/126177/`](aktvendim/2026/126177/) | in force | 1 | 2026-11-06 | 2026-11-06 |
 | AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI70/26 PARASHTRUES XHEVDET ALIU VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT [CA.P.942/2024] TË 9 SHTATORIT 2025 TË GJYKATËS SË APELIT TË KOSOVËS | [`aktvendim/2026/126178/`](aktvendim/2026/126178/) | in force | 1 | 2026-11-06 | 2026-11-06 |
+| AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI52/25 PARASHTRUES MUSTAFA RAMA VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [REV.NR.420/2024] TË 1 TETORIT 2024 TË GJYKATËS SUPREME TË KOSOVËS | [`aktvendim/2026/126259/`](aktvendim/2026/126259/) | in force | 1 | 2026-11-10 | 2026-11-10 |
 
 ## dekret (14)
 
@@ -2786,7 +2788,7 @@
 | LIGJI NR. 08/L-002 PËR PLOTËSIMIN DHE NDRYSHIMIN E KODIT NR. 04/L-123 TË PROCEDURËS PENALE I NDRYSHUAR DHE PLOTËSUAR ME LIGJIN NR. 06/L-091 | [`ligj/2021/43260/`](ligj/2021/43260/) | amending act | 1 | 2021-06-18 | 2021-06-18 |
 | LIGJI NR. 08/L-046 PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJIT NR. 02/L-109 PËR PARANDALIMIN DHE LUFTIMIN E SËMUNDJEVE NGJITËSE | [`ligj/2022/57852/`](ligj/2022/57852/) | amending act | 1 | 2022-05-26 | 2022-05-26 |
 
-## local (227, of which 15 amending acts)
+## local (230, of which 15 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2801,6 +2803,7 @@
 | RREGULLORE (K.DR) 03/2008 MBI RUAJTJEN E TOKES BUJQËSORE | [`local/dragash/2008/11774/`](local/dragash/2008/11774/) | in force | 1 | 2008-09-11 | 2008-09-11 |
 | STATUTI (K.SK) 01-110-385 I KOMUNES SKENDERAJ | [`local/skenderaj/2008/11898/`](local/skenderaj/2008/11898/) | in force | 1 | 2008-12-03 | 2008-12-03 |
 | RREGULLORE (K.GJ) 01.nr.12480 PËR PUNËN E KUVENDIT TË KOMUNËS SË GJILANIT | [`local/gjilan/2008/12123/`](local/gjilan/2008/12123/) | in force | 1 | 2008-11-21 | 2008-11-21 |
+| Rregullore për Tarifa dhe Gjoba | [`local/fushe-kosove/2009/web-50783/`](local/fushe-kosove/2009/web-50783/) | published on the municipality's website (not in the Official Gazette) | 1 | 2009-05-26 | 2009-05-26 |
 | RREGULLORE (K.SHT) PËR SIMBOLET, TITUJT E NDERIT, DEKORATAT, MEDALJET, MIRËNJOHJET DHE FALËNDERIMET | [`local/shtime/2009/11523/`](local/shtime/2009/11523/) | in force | 1 | 2009-05-27 | 2009-05-27 |
 | RREGULLORE (K.J) 07/2009 MBI KOMPENSIMET NË PROCEDURËN E KRYERJËS SË MBIKËQYRJES INSPEKTUESE PËR PËRMBUSHJEN E KUSHTEVE HIGJENIKE-TEKNIKE | [`local/junik/2009/11692/`](local/junik/2009/11692/) | in force | 1 | 2009-07-28 | 2009-07-28 |
 | RREGULLORE (K.GJK) 01/2009 PËR PUNEN E KUVENDIT TË KOMUNËS | [`local/gjakove/2009/11696/`](local/gjakove/2009/11696/) | in force | 1 | 2009-03-06 | 2009-03-06 |
@@ -2820,6 +2823,7 @@
 | RREGULLORE (K.PD) 01-1/280-110 PËR KUSHTET DHE MËNYRËN E BLLOKIMIT DHE ZHVENDOSJES SË AUTOMJETEVE | [`local/podujeve/2009/12068/`](local/podujeve/2009/12068/) | amended, not consolidated | 1 | 2009-09-28 | 2009-09-28 |
 | RREGULLORE (K.GJK) 01-011-2784/2009 PËR TRANSPARENCË NË KOMUNËN E GJAKOVËS | [`local/gjakove/2009/12076/`](local/gjakove/2009/12076/) | in force | 1 | 2009-04-28 | 2009-04-28 |
 | RREGULLORE (K.GJK) 01-011-2784/2009 PËR PËRDORIMIN ZYRTAR TË GJUHËVE NË KOMUNËN E GJAKOVËS | [`local/gjakove/2009/12080/`](local/gjakove/2009/12080/) | in force | 1 | 2009-04-28 | 2009-04-28 |
+| Rregullore për Tatim në Pronë | [`local/fushe-kosove/2010/web-50786/`](local/fushe-kosove/2010/web-50786/) | published on the municipality's website (not in the Official Gazette) | 1 | 2010-09-30 | 2010-09-30 |
 | STATUTI (K.KL) I KOMUNES SE KLINES | [`local/kline/2010/11484/`](local/kline/2010/11484/) | in force | 1 | 2010-03-31 | 2010-03-31 |
 | RREGULLORE (K.MJ) Nr. 01/2010 PËR KUSHTET DHE MËNYRËN E BLLOKIMIT DHE ZHVENDOSJES SË AUTOMJETEVE ME AUTOMERIMANGË | [`local/mitrovice-e-jugut/2010/11608/`](local/mitrovice-e-jugut/2010/11608/) | in force | 1 | 2010-07-29 | 2010-07-29 |
 | RREGULLORE (K.SHT) 01 Nr.06/1795-200 PËR INSTITUCIONET EDUKATIVO-ARSIMORE TË KOMUNËS SЁ SHTIMES | [`local/shtime/2010/11616/`](local/shtime/2010/11616/) | in force | 1 | 2010-09-15 | 2010-09-15 |
@@ -3011,6 +3015,7 @@
 | RREGULLORE (KPZ) PËR SHËRBIME KOMUNALE NË KOMUNËN E PRIZRENIT | [`local/prizren/2024/92634/`](local/prizren/2024/92634/) | in force | 1 | 2024-07-04 | 2024-07-04 |
 | RREGULLORE PER GRANTE DHE SUBVENCIONE NË SEKTORIN E BUJQËSISË (2024) | [`local/gjilan/2024/111864/`](local/gjilan/2024/111864/) | in force | 1 | 2024-03-28 | 2024-03-28 |
 | RREGULLORE PËR NDARJEN E BURSAVE PËR STUDENTËT E KOMUNËS SË GJILANIT (2024) | [`local/gjilan/2024/111865/`](local/gjilan/2024/111865/) | in force | 1 | 2024-10-21 | 2024-10-21 |
+| Draft – Rregullore për Organizimin e Brendshëme dhe Sistematizimin e Vendeve të Punës në Administratën Komunale | [`local/decan/2025/web-82330/`](local/decan/2025/web-82330/) | published on the municipality's website (not in the Official Gazette) | 1 | 2025-07-09 | 2025-07-09 |
 | RREGULLORE PËR TRANSPARENCËN KOMUNALE | [`local/malisheve/2025/100859/`](local/malisheve/2025/100859/) | in force | 1 | 2025-02-03 | 2025-02-03 |
 | STATUTI I QENDRËS KRYESORE TË MJEKËSISË FAMILJARE | [`local/gjakove/2025/102000/`](local/gjakove/2025/102000/) | in force | 1 | 2025-03-18 | 2025-03-18 |
 | RREGULLORE PËR USHTRIMIN E VEPRIMTARISË SË TRANSPORTIT PUBLIK TË UDHËTARVE MË TAKSI | [`local/ferizaj/2026/119761/`](local/ferizaj/2026/119761/) | in force | 1 | 2026-05-12 | 2026-05-12 |
@@ -3270,7 +3275,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | RREGULLAT KOMBËTARE ANTIDOPING | [`rregulla/2025/102878/`](rregulla/2025/102878/) | in force | 1 | 2025-04-15 | 2025-04-15 |
 
-## rregullore (509, of which 45 amending acts)
+## rregullore (512, of which 45 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3290,6 +3295,7 @@
 | RREGULLORE PËR SHËRBIMIN KONSULLOR | [`rregullore/2009/8258/`](rregullore/2009/8258/) | in force | 1 | 2009-04-24 | 2009-04-24 |
 | RREGULLORE Nr. 2/2009 PËR REGJISTRIMIN DHE SHENJËZIMIN E MJETEVE AJRORE | [`rregullore/2009/11366/`](rregullore/2009/11366/) | amended, not consolidated | 1 | 2009-10-22 | 2009-10-22 |
 | RREGULLORE Nr. 1/2009 MBI RAPORTIMIN E NDODHIVE NË AVIACIONIN CIVIL | [`rregullore/2009/11367/`](rregullore/2009/11367/) | repealed, not consolidated | 1 | 2009-09-01 | 2009-09-01 |
+| RREGULLORE Nr. 7/2009 MBI KUSHTET DHE PROCEDURAT PËR PËRVETËSIMIN, LËSHIMIN, RINOVIMIN DHE RIZGJATJEN E LICENCAVE DHE AUTORIZIMEVE PËR STAFIN E AVIACIONIT - PILOTËT E AEROPLANËVE | [`rregullore/2009/11447/`](rregullore/2009/11447/) | repealed, not consolidated | 1 | 2009-11-12 | 2009-11-12 |
 | RREGULLORE( K.J) 04/2009 PËR PËRDORIMIN E GJUHËVE | [`rregullore/2009/11699/`](rregullore/2009/11699/) | in force | 1 | 2009-07-28 | 2009-07-28 |
 | RREGULLORE (K.DE) 01.NR.XXI-3 E PUNËS SË KOMITETIT PËR ARSIM , KULTURË , RINI DHE SPORT | [`rregullore/2009/11718/`](rregullore/2009/11718/) | in force | 1 | 2009-06-26 | 2009-06-26 |
 | RREGULLORE (K.PR) 110-493/1 PËR TARIFA, NGARKESA DHE GJOBA KOMUNALE | [`rregullore/2009/11728/`](rregullore/2009/11728/) | in force | 1 | 2009-03-12 | 2009-03-12 |
@@ -3306,6 +3312,7 @@
 | RREGULLORE Nr. 9/2010 PËR RREGULLAT IMPLEMENTUESE PËR SHPËRNDARJE PALËVE TË INTERESUARA TË INFORMATAVE PËR NDODHITË NË AVIACIONIN CIVIL TË REFERUARA NË NENIN 7(2) TË DIREKTIVËS 2003/42/EC TË PARLAMENTIT DHE TË KËSHILLIT EUROPIAN | [`rregullore/2010/11370/`](rregullore/2010/11370/) | repealed, not consolidated | 1 | 2010-11-15 | 2010-11-15 |
 | RREGULLORE Nr. 10/2010 MBI RREGULLAT PËR ORGANIZIMIN DHE PËRBËRJEN E BORDIT TË APELIMIT TË AGJENCISË EVROPIANE MBI SIGURINË E AVIACIONIT | [`rregullore/2010/11372/`](rregullore/2010/11372/) | in force | 1 | 2010-11-15 | 2010-11-15 |
 | RREGULLORE Nr. 11/2010 MBI METODAT E PUNËS PËR INSPEKTIMET STANDARDIZUESE TË AGJENCISË EVROPIANE MBI SIGURINË E AVIACIONIT | [`rregullore/2010/11373/`](rregullore/2010/11373/) | in force | 1 | 2010-11-15 | 2010-11-15 |
+| RREGULLORE Nr. 1/2010 MBI KËRKESAT MJEKËSORE PËR LICENCIMIN E EKUIPAZHIT TË FLUTURIMIT | [`rregullore/2010/11387/`](rregullore/2010/11387/) | repealed, not consolidated | 1 | 2010-01-15 | 2010-01-15 |
 | RREGULLORE Nr. 3/2010 E AUTORITETEVE TË PËRBASHKËTA TË AVIACIONIT (JAR) MBI KËRKESAT DHE PROCEDURAT ADMINISTRATIVE TË APLIKUESHME NË TRANSPORTIN KOMERCIJAL AJROR - HELIKOPTERËT | [`rregullore/2010/11388/`](rregullore/2010/11388/) | repealed, not consolidated | 1 | 2010-10-10 | 2010-10-10 |
 | RREGULLORE Nr. 4/2010 MBI KUSHTET DHE PROCEDURAT PËR PËRVETËSIMIN, LËSHIMIN, RINOVIMIN DHE RIZGJATJEN E LICENCAVE DHE AUTORIZIMEVE PËR STAFIN E AVIACIONIT - PILOTËT E HELIKOPTRËVE | [`rregullore/2010/11389/`](rregullore/2010/11389/) | repealed, not consolidated | 1 | 2010-10-10 | 2010-10-10 |
 | RREGULLORE Nr. 12/2010 PËR CERTIFIKIMIN E OFRUESIT TË SHËRBIMEVE TË NAVIGACIONIT AJROR | [`rregullore/2010/11430/`](rregullore/2010/11430/) | in force | 1 | 2010-11-18 | 2010-11-18 |
@@ -3362,6 +3369,7 @@
 | RREGULLORE Nr. 2/2013 PËR NDRYSHIMIN DHE PLOTËSIMIN E RREGULLORES Nr. 2/2010 PËR SHËNJIMIN E PENGESAVE | [`rregullore/2013/11360/`](rregullore/2013/11360/) | repealed, not consolidated | 1 | 2013-07-05 | 2013-07-05 |
 | RREGULLORE Nr. 1/2013 MBI ZBATIMIN E SISTEMIT PËR MENAXHIMIN E SIGURISË (SMS) | [`rregullore/2013/11382/`](rregullore/2013/11382/) | repealed, not consolidated | 1 | 2013-06-19 | 2013-06-19 |
 | RREGULLORE Nr. 6/2013 MBI RREGULLAT NË AJËR | [`rregullore/2013/11399/`](rregullore/2013/11399/) | in force | 1 | 2014-01-10 | 2014-01-10 |
+| RREGULLORE Nr. 4 /2013 MBI ZBATIMIN E ANEKSIT 11 NË KONVENTËN NDËRKOMBËTARE PËR AVIACIONIN CIVIL MBI SHËRBIMET E TRAFIKUT AJROR | [`rregullore/2013/11441/`](rregullore/2013/11441/) | in force | 1 | 2013-12-25 | 2013-12-25 |
 | RREGULLORE (K.DE) 01.NR.III-2 PËR PROCEDURAT E DHËNIES SË OBJEKTEVE TË KOMUNËS DHE TOKËS PËR SHFRYTËZIM AFATSHKURTËR PËRMES ANKANDEVE | [`rregullore/2013/11939/`](rregullore/2013/11939/) | in force | 1 | 2013-03-29 | 2013-03-29 |
 | RREGULLORE NR. 30/2013 PËR ORGANIZIMIN E BRENDSHËM DHE SISTEMATIZIMIN E VENDEVE TË PUNËS TË MINISTRISË SË PUNËS DHE MIRËQENIES SOCIALE | [`rregullore/2014/8989/`](rregullore/2014/8989/) | in force | 1 | 2013-11-18 | 2013-11-18 |
 | RREGULLORE Nr. 40/2013 PËR ORGANIZIMIN E BRENDSHËM DHE SISTEMATIZIMIN E VENDEVE TË PUNËS TË MINISTRISË SË ZHVILLIMIT EKONOMIK | [`rregullore/2014/8991/`](rregullore/2014/8991/) | repealed, not consolidated | 1 | 2014-01-16 | 2014-01-16 |

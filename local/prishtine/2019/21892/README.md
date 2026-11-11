@@ -34,6 +34,10 @@ K.PR-01-011/02-187743/19-RR · 1 versions, from 2019-08-21 (latest in force: 201
 
 Act id: `local-prishtine-2019-21892` (tags `local-prishtine-2019-21892/<day>`; `python tools/on.py <day> local-prishtine-2019-21892`).
 
+## On the municipality's website
+
+The municipality's site shows this act dated 19/08/2019 (<https://prishtina.rks-gov.net/wp-content/uploads/2019/08/Rregullore-mbi-themelimin-dhe-strukturimin-e-Asamblese-se-femijeve.pdf>). That is the site's own post date, not proof of the day it was posted or took effect; the text here is the Gazette's.
+
 ## Decisions made by hand
 
 - Municipal acts (the 38 municipalities' regulations, decisions and statutes the Official Gazette publishes) live in local/<municipality>/<year>/<Gazette act id>/, one version each: the act as published in the Gazette. The 72 municipal acts published before this layer keep their national folders (data/local.csv lists them).

@@ -5661,6 +5661,24 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=12133"
 },
 {
+"slug": "local-fushe-kosove-2009-web-50783",
+"path": "local/fushe-kosove/2009/web-50783",
+"kind": "local",
+"year": "2009",
+"number": "web-50783",
+"withdrawn_by": null,
+"reason": null,
+"title": "Rregullore për Tarifa dhe Gjoba",
+"short": "Rregullore për Tarifa dhe Gjoba",
+"code": null,
+"status": "published on the municipality's website (not in the Official Gazette)",
+"versions": 1,
+"from": "2009-05-26",
+"latest": "2009-05-26",
+"portal": "https://fushekosove.rks-gov.net/wp-content/uploads/2009/05/RregulloreTarifaGjoba26052009.pdf",
+"municipality": "fushe-kosove"
+},
+{
 "slug": "ligj-2009-2619",
 "path": "ligj/2009/2619",
 "kind": "ligj",
@@ -6572,6 +6590,32 @@
 ]
 },
 {
+"slug": "rregullore-2009-11447",
+"path": "rregullore/2009/11447",
+"kind": "rregullore",
+"year": "2009",
+"number": "11447",
+"withdrawn_by": null,
+"reason": null,
+"title": "RREGULLORE Nr. 7/2009 MBI KUSHTET DHE PROCEDURAT PËR PËRVETËSIMIN, LËSHIMIN, RINOVIMIN DHE RIZGJATJEN E LICENCAVE DHE AUTORIZIMEVE PËR STAFIN E AVIACIONIT - PILOTËT E AEROPLANËVE",
+"short": "RR-07/2009-AAC",
+"code": null,
+"status": "repealed, not consolidated",
+"versions": 1,
+"from": "2009-11-12",
+"latest": "2009-11-12",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11447",
+"amended_by": [
+{
+"ref": "gzk:11416",
+"title": "RREGULLORE Nr. 5/2015 E CILA PËRCAKTON KËRKESAT TEKNIKE DHE PROCEDURAT ADMINISTRATIVE NË LIDHJE ME EKUIPAZHIN AJROR TË AVIACIONIT CIVIL",
+"url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11416",
+"date": "2015-07-08",
+"relation": "Shfuqizuar nga"
+}
+]
+},
+{
 "slug": "local-shtime-2009-11523",
 "path": "local/shtime/2009/11523",
 "kind": "local",
@@ -7168,6 +7212,24 @@
 "from": "2009-01-29",
 "latest": "2009-01-29",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=12128"
+},
+{
+"slug": "local-fushe-kosove-2010-web-50786",
+"path": "local/fushe-kosove/2010/web-50786",
+"kind": "local",
+"year": "2010",
+"number": "web-50786",
+"withdrawn_by": null,
+"reason": null,
+"title": "Rregullore për Tatim në Pronë",
+"short": "Rregullore për Tatim në Pronë",
+"code": null,
+"status": "published on the municipality's website (not in the Official Gazette)",
+"versions": 1,
+"from": "2010-09-30",
+"latest": "2010-09-30",
+"portal": "https://fushekosove.rks-gov.net/wp-content/uploads/2010/09/RregulloreTatimProne31092010.pdf",
+"municipality": "fushe-kosove"
 },
 {
 "slug": "ligj-2010-2659",
@@ -8147,6 +8209,32 @@
 "from": "2010-11-15",
 "latest": "2010-11-15",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11373"
+},
+{
+"slug": "rregullore-2010-11387",
+"path": "rregullore/2010/11387",
+"kind": "rregullore",
+"year": "2010",
+"number": "11387",
+"withdrawn_by": null,
+"reason": null,
+"title": "RREGULLORE Nr. 1/2010 MBI KËRKESAT MJEKËSORE PËR LICENCIMIN E EKUIPAZHIT TË FLUTURIMIT",
+"short": "RR-01/2010-AAC",
+"code": null,
+"status": "repealed, not consolidated",
+"versions": 1,
+"from": "2010-01-15",
+"latest": "2010-01-15",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11387",
+"amended_by": [
+{
+"ref": "gzk:11416",
+"title": "RREGULLORE Nr. 5/2015 E CILA PËRCAKTON KËRKESAT TEKNIKE DHE PROCEDURAT ADMINISTRATIVE NË LIDHJE ME EKUIPAZHIN AJROR TË AVIACIONIT CIVIL",
+"url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11416",
+"date": "2015-07-08",
+"relation": "Shfuqizuar nga"
+}
+]
 },
 {
 "slug": "rregullore-2010-11388",
@@ -19968,6 +20056,23 @@
 "from": "2014-01-10",
 "latest": "2014-01-10",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11399"
+},
+{
+"slug": "rregullore-2013-11441",
+"path": "rregullore/2013/11441",
+"kind": "rregullore",
+"year": "2013",
+"number": "11441",
+"withdrawn_by": null,
+"reason": null,
+"title": "RREGULLORE Nr. 4 /2013 MBI ZBATIMIN E ANEKSIT 11 NË KONVENTËN NDËRKOMBËTARE PËR AVIACIONIN CIVIL MBI SHËRBIMET E TRAFIKUT AJROR",
+"short": "RR-04/2013-AAC",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2013-12-25",
+"latest": "2013-12-25",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11441"
 },
 {
 "slug": "local-shtime-2013-11620",
@@ -41684,6 +41789,23 @@
 "from": "2018-12-07",
 "latest": "2018-12-07",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=18238"
+},
+{
+"slug": "aktvendim-2018-18239",
+"path": "aktvendim/2018/18239",
+"kind": "aktvendim",
+"year": "2018",
+"number": "18239",
+"withdrawn_by": null,
+"reason": null,
+"title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI131/17 PARASHTRUES URAN HALIMI VLERËSIM I KUSHTETUTSHMËRISË SË MUNGESËS SË PËRGJIGJES NGA ANA E SEKRETARIT TË PËRGJITHSHËM TË MINISTRISË SË ARSIMIT, SHKENCËS DHE TEKNOLOGJISË",
+"short": "GJK-KI131/17-AKV",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2018-12-07",
+"latest": "2018-12-07",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=18239"
 },
 {
 "slug": "aktvendim-2018-18240",
@@ -77930,6 +78052,24 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=111886"
 },
 {
+"slug": "local-decan-2025-web-82330",
+"path": "local/decan/2025/web-82330",
+"kind": "local",
+"year": "2025",
+"number": "web-82330",
+"withdrawn_by": null,
+"reason": null,
+"title": "Draft – Rregullore për Organizimin e Brendshëme dhe Sistematizimin e Vendeve të Punës në Administratën Komunale",
+"short": "Draft – Rregullore për Organizimin e Brendshëme dhe Sistematizimin e Vendeve të ",
+"code": null,
+"status": "published on the municipality's website (not in the Official Gazette)",
+"versions": 1,
+"from": "2025-07-09",
+"latest": "2025-07-09",
+"portal": "https://decan.rks-gov.net/wp-content/uploads/2025/07/Rregullore-per-Sistemimin-e-Vendeve-te-Punes.pdf",
+"municipality": "decan"
+},
+{
 "slug": "vendim-2025-100253",
 "path": "vendim/2025/100253",
 "kind": "vendim",
@@ -93380,6 +93520,23 @@
 "from": "2026-11-09",
 "latest": "2026-11-09",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=126236"
+},
+{
+"slug": "aktvendim-2026-126259",
+"path": "aktvendim/2026/126259",
+"kind": "aktvendim",
+"year": "2026",
+"number": "126259",
+"withdrawn_by": null,
+"reason": null,
+"title": "AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI52/25 PARASHTRUES MUSTAFA RAMA VLERËSIM I KUSHTETUTSHMËRISË SË AKTGJYKIMIT [REV.NR.420/2024] TË 1 TETORIT 2024 TË GJYKATËS SUPREME TË KOSOVËS",
+"short": "GJK-KI52/25-AKV",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2026-11-10",
+"latest": "2026-11-10",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=126259"
 }
 ]
 }

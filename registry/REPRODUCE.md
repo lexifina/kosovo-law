@@ -14,21 +14,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
-| 5053 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 5053 | |
+| 5061 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 5061 | |
 
-The build made 5118 commits:
+The build made 5126 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 5118 | first version of an act |
+| 5126 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-11.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 5056 laws in the record.
-- 10142 tags.
+- 5064 laws in the record.
+- 10158 tags.
 
 ## Dates
 
@@ -40,7 +40,7 @@ When a law gives no date of its own, the default rule applies: Each act states i
 
 `tools/build/build.py` (and, for later publishes, `tools/build/append.py`) turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/build/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/build/SCHEMA.md`.
 
-- Corpus: sha256 `0c7751af4b79b3e7463af389da808ca8ae293c40a729e50a4179090eb0c1868d` (168740257 bytes).
+- Corpus: sha256 `33b4451b6cd899880c6d6a6b689cfca0c7f2f3be6912a3de6a5ada47030ca11a` (169948173 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `facbd764a235a856bc6f90b65043607998c92623`, `check.py` `f7f9c39fff1b1f9a3aded2ad3364a27fb0908033`, `on.py` `0be88de7820b2dafe9f94fa40472a48776aa4cf5`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -52,7 +52,7 @@ No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
-- Every act's decisions made by hand (960 in all) are listed in that act's own README.md, under "Decisions made by hand".
+- Every act's decisions made by hand (966 in all) are listed in that act's own README.md, under "Decisions made by hand".
 
 ## What AI did and did not do
 
