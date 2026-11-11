@@ -17,14 +17,6 @@ QRK-01/2021-RR · 1 versions, from 2021-01-29 (latest in force: 2021-01-29) · <
 
 Act id: `rregullore-2021-36549` (tags `rregullore-2021-36549/<day>`; `python tools/on.py <day> rregullore-2021-36549`).
 
-## Status
-
-**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
-
-Amended or repealed by:
-
-- [RREGULLORE NR. 03/2023 PËR PLOTËSIMIN DHE NDRYSHIMIN E RREGULLORES NR. 01/2021 PËR ORGANIZIMIN DHE BASHKËPUNIMIN E KOMUNËS ME FSHATRAT, VENDBANIMET DHE LAGJET URBANE NË KOMUNËN E MITROVICËS](https://gzk.rks-gov.net/ActDetail.aspx?ActID=73759)
-
 ## Decisions made by hand
 
 - Acts added after the first build (sub-legal acts and laws not yet in the record) are published as published in the Official Gazette, one version each, only when the Gazette links no act that amends, supplements or repeals them, does not mark them repealed, and no later act's title names them; the others are held back.

@@ -18,14 +18,6 @@ AKK-06/2023-UA · 1 versions, from 2024-01-29 (latest in force: 2024-01-29) · <
 
 Act id: `udhezim-2024-85530` (tags `udhezim-2024-85530/<day>`; `python tools/on.py <day> udhezim-2024-85530`).
 
-## Status
-
-**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
-
-Amended or repealed by:
-
-- [UDHËZIM ADMINISTRATIV(MINT) Nr. 02/2024 PËR NDRYSHIMIN DHE PLOTËSIMIN E UDHËZIM ADMINISTRATIV (MINT) Nr. 06/2023 PËR KUSHTET, KRITERET DHE PROCEDURAT E REGJISTRIMIT DHE USHTRIMIT TË VEPRIMTARISË SË UDHËRRËFYSVE TURISTIK](https://gzk.rks-gov.net/ActDetail.aspx?ActID=87442)
-
 ## Decisions made by hand
 
 - Acts added after the first build (sub-legal acts and laws not yet in the record) are published as published in the Official Gazette, one version each, only when the Gazette links no act that amends, supplements or repeals them, does not mark them repealed, and no later act's title names them; the others are held back.

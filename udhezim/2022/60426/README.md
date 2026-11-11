@@ -14,14 +14,6 @@ MD-03/2022-UA · 1 versions, from 2022-07-23 (latest in force: 2022-07-23) · <h
 
 Act id: `udhezim-2022-60426` (tags `udhezim-2022-60426/<day>`; `python tools/on.py <day> udhezim-2022-60426`).
 
-## Status
-
-**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
-
-Amended or repealed by:
-
-- [UDHËZIM ADMINISTRATIV (QRK) NR.09/2022 PËR PLOTËSIM NDRYSHIMIN E UDHËZIMIT ADMINISTRATIV (QRK) NR. 03/2022 PËR RREGULLIMIN E ÇMIMEVE TË PRODUKTEVE TË NAFTËS DHE KARBURANTEVE TË RIPËRTËRISHME DHE MASAT E TJERA MBROJTËSE1](https://gzk.rks-gov.net/ActDetail.aspx?ActID=62315)
-
 ## Decisions made by hand
 
 - Acts added after the first build (sub-legal acts and laws not yet in the record) are published as published in the Official Gazette, one version each, only when the Gazette links no act that amends, supplements or repeals them, does not mark them repealed, and no later act's title names them; the others are held back.

@@ -101,7 +101,6 @@ Act id: `rregullore-2017-14800` (tags `rregullore-2017-14800/<day>`; `python too
 Amended or repealed by:
 
 - [RREGULLORE (ZKM) NR. 08/2024 PËR ORGANIZIMIN E BRENDSHËM DHE SISTEMATIZIMIN E VENDEVE TË PUNËS TË MINISTRISË SË MJEDISIT PLANIFIKIMIT HAPËSINOR DHE INFRASTRUKTURËS](https://gzk.rks-gov.net/ActDetail.aspx?ActID=88358)
-- [RREGULLORE (MKRS) NR. 09/2017 PËR PLOTËSIMIN E RREGULLORES NR. 05/2017 PËR KATEGORIZIMIN E SPORTISTËVE DHE TË TRAJNERËVE](https://gzk.rks-gov.net/ActDetail.aspx?ActID=16477)
 
 ## Decisions made by hand
 

@@ -234,6 +234,13 @@ def main() -> None:
         except (OSError, ValueError, EOFError):
             cache = {}
     by_id = {r['id']: r for r in census}
+    # 2026-11-11 (L2b): the act's copy on the municipality's website (parse_web.py's match), shown in the act README
+    site_of: dict[int, dict] = {}
+    sidx = L / 'sites' / 'index.json'
+    if sidx.exists():
+        for s in sorted(json.loads(sidx.read_text(encoding='utf-8')), key=lambda s: (s['host'], s['item'])):
+            if s.get('gazette_id'):
+                site_of.setdefault(int(s['gazette_id']), {'date': s['site_date'], 'url': s['url']})
 
     # Changes the municipal list records under the changing act: "Shfuqizon X" (repeals X), "Ndryshon/Plotëson X"
     changed_by: dict[int, list[dict]] = defaultdict(list)
@@ -352,7 +359,8 @@ def main() -> None:
             'slug': slug, 'short': d['number'] or title, 'title': title, 'url': DETAIL.format(id=i),
             'first_law': slug, 'earlier_laws': [],
             'versions': [{'from': day, 'source_url': DOC.format(id=i), 'sha256': sha, 'units': units, 'credits': {},
-                          'note': note, 'trailers': trailers}], **marks})
+                          'note': note, 'trailers': trailers}], **marks,
+            **({'site_copy': site_of[i]} if i in site_of else {})})
         row.update(status=marks.get('label', 'in force'), folder=f'local/{muni[0]}/{year}/{i}', in_force=day,
                    basis=code.split(':')[0])
         index.append(row)

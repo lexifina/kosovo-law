@@ -38,7 +38,6 @@ Act id: `udhezim-2018-18373` (tags `udhezim-2018-18373/<day>`; `python tools/on.
 Amended or repealed by:
 
 - [UDHËZIM ADMINISTRATIV (MPL) Nr. 03/2020 PËR TRANSPARENCË NË KOMUNAVE](https://gzk.rks-gov.net/ActDetail.aspx?ActID=31852)
-- [UDHËZIM ADMINISTRATIV (MF) NR.03/2026 PËR PLOTËSIMIN DHE NDRYSHIMIN E UDHËZIMIT ADMINISTRATIV MF - NR. 04/2018 PËR VLERËSIMIN E RREZIKUT KOMBËTAR PËR PASTRIMIN E PARAVE DHE FINANCIMIN E TERRORIZMIT](https://gzk.rks-gov.net/ActDetail.aspx?ActID=126236)
 
 ## Decisions made by hand
 

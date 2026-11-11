@@ -17,15 +17,6 @@ MBPZHR-Nr.10/2019-UA · 1 versions, from 2019-01-31 (latest in force: 2019-01-31
 
 Act id: `udhezim-2019-96221` (tags `udhezim-2019-96221/<day>`; `python tools/on.py <day> udhezim-2019-96221`).
 
-## Status
-
-**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
-
-Amended or repealed by:
-
-- [UDHËZIMI ADMINISTRATIV: NR. 2/2021 PËR PLOTËSIMIN DHE NDRYSHIMIN E UDHËZIMIT ADMINISTRATIV NR. 10/2019 DT.20.06.2019, PLOTËSIMIN DHE NDRYSHIMIN E UDHËZIMIT ADMINISTRATIV NR. 11/2015 DHE SHFUQIZIMIN E UDHËZIMIT ADMINISTRATIV UA NR. 157/2020, dt. 22.12.2020 KRAHASUESHMËRIA DHE BARASVLERA E DIPLOMAVE DHE E PROGRAMEVE STUDIMORE PARA SISTEMIT TË BOLONJËS DHE TË SISTEMIT TË BOLONJËS](https://gzk.rks-gov.net/ActDetail.aspx?ActID=87954)
-- [UDHËZIM ADMINISTRATIV MD-NR. 03/2023 PËR NDRYSHIMIN DHE PLOTËSIMIN E UDHËZIMIT ADMINISTRATIV MD-NR. 10/2019 PËR ORGANIZIMIN DHE MËNYREN E PUNËS SË NOTERËVE DHE VULAT NOTERIALE](https://gzk.rks-gov.net/ActDetail.aspx?ActID=72016)
-
 ## Decisions made by hand
 
 - Acts added after the first build (sub-legal acts and laws not yet in the record) are published as published in the Official Gazette, one version each, only when the Gazette links no act that amends, supplements or repeals them, does not mark them repealed, and no later act's title names them; the others are held back.

@@ -16,14 +16,6 @@ MD-09/2020-UA · 1 versions, from 2020-12-03 (latest in force: 2020-12-03) · <h
 
 Act id: `udhezim-2020-34236` (tags `udhezim-2020-34236/<day>`; `python tools/on.py <day> udhezim-2020-34236`).
 
-## Status
-
-**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
-
-Amended or repealed by:
-
-- [UDHËZIM ADMINISTRATIV (MMPHI) Nr. 05/2021 PËR NDRYSHIMIN DHE PLOTËSIMIN E UDHËZIMIT ADMINISTRATIV (MEA) Nr. 09/2020 PËR TARIFAT E SHËRBIMEVE PËR REGJISTRIMIN E TË DREJTAVE TË PRONËS SË PALUAJTSHME](https://gzk.rks-gov.net/ActDetail.aspx?ActID=51256)
-
 ## Decisions made by hand
 
 - Acts added after the first build (sub-legal acts and laws not yet in the record) are published as published in the Official Gazette, one version each, only when the Gazette links no act that amends, supplements or repeals them, does not mark them repealed, and no later act's title names them; the others are held back.

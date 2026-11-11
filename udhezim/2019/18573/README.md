@@ -16,14 +16,6 @@ MTI-01/2019-UA · 1 versions, from 2019-02-15 (latest in force: 2019-02-15) · <
 
 Act id: `udhezim-2019-18573` (tags `udhezim-2019-18573/<day>`; `python tools/on.py <day> udhezim-2019-18573`).
 
-## Status
-
-**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
-
-Amended or repealed by:
-
-- [UDHËZIM ADMINISTRATIV MD. NR. 11/2023 PËR NDRYSHIMIN DHE PLOTËSIMIN E UDHËZIMIT ADMINISTRATIV MD-NR. 01/2019 PËR MËNYRËN E DHËNIES DHE PROGRAMIN E PROVIMIT PËR NOTERINË](https://gzk.rks-gov.net/ActDetail.aspx?ActID=83399)
-
 ## Decisions made by hand
 
 - Acts added after the first build (sub-legal acts and laws not yet in the record) are published as published in the Official Gazette, one version each, only when the Gazette links no act that amends, supplements or repeals them, does not mark them repealed, and no later act's title names them; the others are held back.

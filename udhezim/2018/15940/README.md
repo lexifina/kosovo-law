@@ -18,17 +18,6 @@ QRK-01/2018-UA · 1 versions, from 2018-02-06 (latest in force: 2018-02-06) · <
 
 Act id: `udhezim-2018-15940` (tags `udhezim-2018-15940/<day>`; `python tools/on.py <day> udhezim-2018-15940`).
 
-## Status
-
-**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
-
-Amended or repealed by:
-
-- [UDHËZIM ADMINISTRATIV (MIN) NR.02/2018 PËR NDRYSHIMIN DHE PLOTËSIMIN E UDHËZIMIT ADMINISTRATIV NR 01/2018 PËR NDARJEN E MJETEVE FINANCIARE NGA KATEGORIA EKONOMIKE E SUBVENCIONEVE DHE TRANSFEREVE](https://gzk.rks-gov.net/ActDetail.aspx?ActID=18052)
-- [UDHËZIM ADMINISTRATIV (MZHR) - NR.02/2018 PËR NDRYSHIMIN DHE PLOËSIMIN E UDHËZIMIT ADMINISTRATIV (MZHR) – NR. 01/2018 PËR KUSHTET DHE KRITERET E PËRKRAHJES SË BIZNESEVE/NDËRMARRËSVE TË RINJ NGA PROGRAMI PËR ZHVILLIM RAJONAL I BALANSUAR](https://gzk.rks-gov.net/ActDetail.aspx?ActID=55431)
-- [UDHËZIMI ADMINISTRATIV (MBPZHR) – NR. 01/2021 PËR NDRYSHIMIN DHE PLOTËSIMIN E UDHËZIMIT ADMINISTRATIV (MBPZHR) NR. 01/2018 PËR KOMPENSIMIN FINANCIAR PËR SHËRBIMET VETERINARE NE TEREN](https://gzk.rks-gov.net/ActDetail.aspx?ActID=37623)
-- [UDHËZIM ADMINISTRATIV(MZHR)- 01/2022 PËR NDRYSHIMIN DHE PLOTËSIMIN E UDHËZIMIT ADMINISTRATIV (MZHR) - NR. 01/2018 I NDRYSHUAR DHE PLOTËSUAR ME UDHZIMIN ADMINISTRATIV 02/2018 PËR KUSTET DHE KRITERET E PËRKRAHJËS SË BIZNESEVE/NDËRMARRËSVE TË RINJ NGA PROGRAMI PËR ZHVILLIM RAJONAL TË BALANCUAR](https://gzk.rks-gov.net/ActDetail.aspx?ActID=55434)
-
 ## Decisions made by hand
 
 - Acts added after the first build (sub-legal acts and laws not yet in the record) are published as published in the Official Gazette, one version each, only when the Gazette links no act that amends, supplements or repeals them, does not mark them repealed, and no later act's title names them; the others are held back.

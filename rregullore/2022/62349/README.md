@@ -40,7 +40,6 @@ Act id: `rregullore-2022-62349` (tags `rregullore-2022-62349/<day>`; `python too
 Amended or repealed by:
 
 - [RREGULLORE (QRK) NR. 27/2024 PËR PROCEDURAT E KONKURRIMIT PËR NËPUNËSIT TEKNIK DHE MBËSHTETËS](https://gzk.rks-gov.net/ActDetail.aspx?ActID=97874)
-- [RREGULLORE NR.02/2024 PER PLOTESIMIN NDRYSHIM TE RREGULLORES NR.05/2022 PER TARIFA NGARKESA DHE GJOBA KOMUNALE NE KOMUNEN E OBILIQIT](https://gzk.rks-gov.net/ActDetail.aspx?ActID=90548)
 
 ## Decisions made by hand
 

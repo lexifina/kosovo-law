@@ -486,23 +486,39 @@ OCR_SOURCE: dict[str, dict] = {}   # act id -> {"note", "trailer"} for the acts 
 
 
 def with_ocr(doc: dict, f: Path) -> tuple[dict, dict]:
+    """(doc with its scanned pages replaced by the OCR lines, {"note", "trailer"}) or Hold. In an act whose other pages
+    have a text layer, an image page where OCR found almost no words (gate "figures": a picture, a stamp page) is not
+    transcribed, and the note says so."""
     o = json.loads(gzip.decompress(f.read_bytes()).decode("utf-8"))
     if o.get("sha256") != doc.get("sha256") or len(o.get("pages", [])) != len(doc["pages"]):
         raise Hold("ocr_pdf_changed")
     g = o.get("gate") or {}
     if not g.get("ok"):
         raise Hold(g.get("reason") or "ocr_gate_failed")
-    pages = [dict(p, scanned=False, lines=q["lines"]) if p.get("scanned") and q.get("ocr") else p
-             for p, q in zip(doc["pages"], o["pages"])]
-    n = sum(1 for p, q in zip(doc["pages"], o["pages"]) if p.get("scanned") and q.get("ocr"))
+    figures = set(g.get("figures", []))
+    pages, n = [], 0
+    for k, (p, q) in enumerate(zip(doc["pages"], o["pages"]), 1):
+        if p.get("scanned") and q.get("ocr"):
+            pages.append(dict(p, scanned=False, lines=[] if k in figures else q["lines"]))
+            n += k not in figures
+        else:
+            pages.append(p)
     m = o["ocr"]
     ver = re.sub(r"^tesseract\s+v?", "", m.get("version", ""), flags=re.I).split(".2")[0]
-    conf = round(g["conf"])
-    src = f"OCR (Tesseract {ver}, tessdata_best sqi+eng; mean word confidence {conf}%)"
-    note = (f"{n} of the PDF's {len(pages)} page(s) are printed only as images (the Gazette's scan is the official "
-            f"text): their text was read by OCR (Tesseract {ver}, tessdata_best Albanian and English models; mean word confidence "
-            f"{conf}%) and may misread single characters; check the Gazette's PDF before relying on a figure.")
-    return dict(doc, pages=pages), {"note": note, "trailer": f"Text-source: {src}"}
+    notes = []
+    if n:
+        conf = round(g["conf"])
+        src = f"OCR (Tesseract {ver}, tessdata_best Latin; mean word confidence {conf}%)"
+        notes.append(f"{n} of the PDF's {len(pages)} page(s) are printed only as images (the Gazette's scan is the "
+                     f"official text): their text was read by OCR (Tesseract {ver}, tessdata_best Latin-script "
+                     f"model; mean word confidence {conf}%) and may misread single characters; check the Gazette's PDF "
+                     f"before relying on a figure.")
+    else:
+        src = f"text layer; {len(figures)} image page(s) checked by OCR (Tesseract {ver}): figures, not transcribed"
+    if figures:
+        notes.append(f"Page(s) {', '.join(map(str, sorted(figures)))} of the PDF are images with almost no words (a "
+                     f"figure or a stamp page, checked by OCR): not transcribed here.")
+    return dict(doc, pages=pages), {"note": " ".join(notes), "trailer": f"Text-source: {src}"}
 
 
 def read_text(path: Path, amending: bool, cache: dict | None, title: str = "") -> tuple[dict, str, list, str, int, str,

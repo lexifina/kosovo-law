@@ -26,7 +26,6 @@ Act id: `rregullore-2021-36759` (tags `rregullore-2021-36759/<day>`; `python too
 Amended or repealed by:
 
 - [RREGULLORE (AAC) NR. 01/2026 MBI RREGULLAT DHE PROCEDURAT E OPERIMEVE TË SISTEMEVE TË MJETEVE AJRORE PA PILOT](https://gzk.rks-gov.net/ActDetail.aspx?ActID=115590)
-- [RREGULLORE NR. 03/2023 PËR PLOTËSIMIN DHE NDRYSHIMIN E RREGULLORES NR. 01/2021 PËR ORGANIZIMIN DHE BASHKËPUNIMIN E KOMUNËS ME FSHATRAT, VENDBANIMET DHE LAGJET URBANE NË KOMUNËN E MITROVICËS](https://gzk.rks-gov.net/ActDetail.aspx?ActID=73759)
 
 ## Decisions made by hand
 

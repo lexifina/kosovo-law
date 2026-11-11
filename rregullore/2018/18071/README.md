@@ -24,16 +24,6 @@ MF-01/2018-RR · 1 versions, from 2018-10-31 (latest in force: 2018-10-31) · <h
 
 Act id: `rregullore-2018-18071` (tags `rregullore-2018-18071/<day>`; `python tools/on.py <day> rregullore-2018-18071`).
 
-## Status
-
-**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
-
-Amended or repealed by:
-
-- [RREGULLORJA NR.06/2022 PËR NDRYSHIMIN E PLOTËSIMIN E RREGULLORES SË PUNËS TË GJYKATËS KUSHTETUESE TË REPUBLIKËS SË KOSOVËS NR. 01/2018](https://gzk.rks-gov.net/ActDetail.aspx?ActID=61105)
-- [RREGULLORE (MINT) Nr. 01/2023 PËR NDRYSHIMIN DHE PLOTËSIMIN E RREGULLORES (MTI) NR. 01/2018 PËR ETIKETIMIN DHE SHËNJIMIN E PRODUKTEVE TË TEKSTILIT](https://gzk.rks-gov.net/ActDetail.aspx?ActID=78946)
-- [RREGULLORE (AAC) Nr. 07/2023 PËR NDRYSHIMIN E RREGULLORES NR. 01/2018 MBI KËRKESAT PËR OFRUESIT E SHËRBIMEVE NË LIDHJE ME TRAJNIMIN DHE VLERËSIMIN E KOMPETENCËS PËR PERSONELIN E ELEKTRONIKËS TË SIGURISË TË TRAFIKUT AJROR (ATSEP)](https://gzk.rks-gov.net/ActDetail.aspx?ActID=82707)
-
 ## Decisions made by hand
 
 - Acts added after the first build (sub-legal acts and laws not yet in the record) are published as published in the Official Gazette, one version each, only when the Gazette links no act that amends, supplements or repeals them, does not mark them repealed, and no later act's title names them; the others are held back.

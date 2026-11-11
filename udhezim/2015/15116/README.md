@@ -20,14 +20,6 @@ MBPZHR-11/2015-UA · 1 versions, from 2015-11-13 (latest in force: 2015-11-13) �
 
 Act id: `udhezim-2015-15116` (tags `udhezim-2015-15116/<day>`; `python tools/on.py <day> udhezim-2015-15116`).
 
-## Status
-
-**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
-
-Amended or repealed by:
-
-- [UDHËZIMI ADMINISTRATIV: NR. 2/2021 PËR PLOTËSIMIN DHE NDRYSHIMIN E UDHËZIMIT ADMINISTRATIV NR. 10/2019 DT.20.06.2019, PLOTËSIMIN DHE NDRYSHIMIN E UDHËZIMIT ADMINISTRATIV NR. 11/2015 DHE SHFUQIZIMIN E UDHËZIMIT ADMINISTRATIV UA NR. 157/2020, dt. 22.12.2020 KRAHASUESHMËRIA DHE BARASVLERA E DIPLOMAVE DHE E PROGRAMEVE STUDIMORE PARA SISTEMIT TË BOLONJËS DHE TË SISTEMIT TË BOLONJËS](https://gzk.rks-gov.net/ActDetail.aspx?ActID=87954)
-
 ## Decisions made by hand
 
 - Acts added after the first build (sub-legal acts and laws not yet in the record) are published as published in the Official Gazette, one version each, only when the Gazette links no act that amends, supplements or repeals them, does not mark them repealed, and no later act's title names them; the others are held back.

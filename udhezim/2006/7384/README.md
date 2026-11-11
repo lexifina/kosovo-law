@@ -21,7 +21,6 @@ Act id: `udhezim-2006-7384` (tags `udhezim-2006-7384/<day>`; `python tools/on.py
 Amended or repealed by:
 
 - [the Gazette's note in the act's title: (Shfuqizuar me Vendim të QRK, Nr. 02/50 të datës 23.12.2021)](https://gzk.rks-gov.net/ActDetail.aspx?ActID=7384)
-- [UDHËZIM ADMINISTRATIV NR. 13/2011 PËR NDRYSHIMIN DHE PLOTËSIMIN E UDHËZIMIT ADMINISTRATIV MA-NR.20/2006 STANDARDET E CILËSISË DHE KATEGORIZIMI I QUMËSHTIT TË FRESKËT (Shfuqizuar me Vendim të QRK, Nr. 02/50 të datës 23.12.2021)](https://gzk.rks-gov.net/ActDetail.aspx?ActID=7997)
 
 ## Decisions made by hand
 

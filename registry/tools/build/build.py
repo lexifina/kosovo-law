@@ -685,8 +685,16 @@ def tables(c: dict, log: list[dict]) -> dict[str, str]:
                         else:
                             rows.append(f'- {r}')
         # Kosovo (2026-11-10): another Gazette record of the same act (a ratification law published twice)
+        # (2026-11-11: the way up is as deep as the act's own folder: 3 for <kind>/<year>/<id>, 4 for local/<m>/<y>/<id>)
+        up = '../' * len((a.get('path') or a['slug']).split('/'))
         for x in a.get('same_act_as') or []:
-            rows += ['', '## Same act', '', f'{x["note"]}: [`{x["path"]}/`](../../../{x["path"]}/) (<{x["url"]}>).']
+            rows += ['', '## Same act', '', f'{x["note"]}: [`{x["path"]}/`]({up}{x["path"]}/) (<{x["url"]}>).']
+        # Kosovo local layer (2026-11-11): the act's copy on the municipality's website and the date the site shows
+        if a.get('site_copy'):
+            x = a['site_copy']
+            rows += ['', "## On the municipality's website", '',
+                     f"The municipality's site shows this act dated {x['date']} (<{x['url']}>). That is the site's own "
+                     "post date, not proof of the day it was posted or took effect; the text here is the Gazette's."]
         dec =[n for n in map(public_note, a.get('_decisions', [])) if n]
         if dec:
             rows += ['', '## Decisions made by hand', ''] + [f'- {n}' for n in dec]

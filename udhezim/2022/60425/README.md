@@ -13,16 +13,6 @@ MD-04/2022-UA · 1 versions, from 2022-07-23 (latest in force: 2022-07-23) · <h
 
 Act id: `udhezim-2022-60425` (tags `udhezim-2022-60425/<day>`; `python tools/on.py <day> udhezim-2022-60425`).
 
-## Status
-
-**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
-
-Amended or repealed by:
-
-- [UDHËZIM ADMINISTRATIV (MBPZHR) - NR. 14/2022 PËR NDRYSHIMIN DHE PLOTËSIMIN E UDHËZIMIT ADMINISTRATIV (MBPZHR) - NR. 04/2022 PËR MASAT DHE KRITERET E PËRKRAHJES PËR ZHVILLIM RURAL PËR VITIN 2022](https://gzk.rks-gov.net/ActDetail.aspx?ActID=66993)
-- [UDHËZIM ADMINISTRATIV (MBPZHR) - NR.04/2023 PËR NDRYSHIMIN DHE PLOTËSIMIN E UDHËZIMIT ADMINISTRATIV (MBPZHR)-NR.04/2022 PËR MASAT DHE KRITERET E PËRKRAHJES PËR ZHVILLIM RURAL PËR VITIN 2022, E NDRYSHUAR DHE PLOTËSUAR ME UDHËZIMIN ADMINISTRATIV (MBPZHR)-NR.14/2022](https://gzk.rks-gov.net/ActDetail.aspx?ActID=78177)
-- [UDHËZIM ADMINISTRATIV (MMPHI) NR. 01/2025 PËR NDRYSHIMIN DHE PLOTËSIMIN E UDHËZIMIT ADMINISTRATIV (MMPHI) NR. 04/2022 PËR LEJE MJEDISORE](https://gzk.rks-gov.net/ActDetail.aspx?ActID=106214)
-
 ## Decisions made by hand
 
 - Acts added after the first build (sub-legal acts and laws not yet in the record) are published as published in the Official Gazette, one version each, only when the Gazette links no act that amends, supplements or repeals them, does not mark them repealed, and no later act's title names them; the others are held back.

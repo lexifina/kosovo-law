@@ -18,14 +18,6 @@ MPB-02-2024-RR · 1 versions, from 2024-10-01 (latest in force: 2024-10-01) · <
 
 Act id: `rregullore-2024-97449` (tags `rregullore-2024-97449/<day>`; `python tools/on.py <day> rregullore-2024-97449`).
 
-## Status
-
-**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
-
-Amended or repealed by:
-
-- [RREGULLORE 01/2026 PËR PLOTËSIM DHE NDRYSHIM TË RREGULLORES KOMUNALE NR. 01/2022 PËR ORGANIZIMIN, KOMPETENCAT DHE PËRGJEGJËSITË E ORGANEVE TË ADMINISTRATËS KOMUNALE E NDRYSHUAR DHE PLOTËSUAR ME RREGULLOREN NR. 02/2024](https://gzk.rks-gov.net/ActDetail.aspx?ActID=120245)
-
 ## Decisions made by hand
 
 - Acts added after the first build (sub-legal acts and laws not yet in the record) are published as published in the Official Gazette, one version each, only when the Gazette links no act that amends, supplements or repeals them, does not mark them repealed, and no later act's title names them; the others are held back.

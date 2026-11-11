@@ -22,14 +22,6 @@ MMPHI-UA_MMPHI_ 0.7.23-UA · 1 versions, from 2023-06-05 (latest in force: 2023-
 
 Act id: `udhezim-2023-75219` (tags `udhezim-2023-75219/<day>`; `python tools/on.py <day> udhezim-2023-75219`).
 
-## Status
-
-**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
-
-Amended or repealed by:
-
-- [UDHËZIM ADMINISTRATIV (QRK) NR. 04/2025 PËR NDRYSHIMIN DHE PLOTËSIMIN E UDHËZIMIT ADMINISTRATIV (QRK) NR. 07/2023 PËR AMBALAZHIN DHE MBETURINAT E AMBALAZHIT](https://gzk.rks-gov.net/ActDetail.aspx?ActID=102648)
-
 ## Decisions made by hand
 
 - Acts added after the first build (sub-legal acts and laws not yet in the record) are published as published in the Official Gazette, one version each, only when the Gazette links no act that amends, supplements or repeals them, does not mark them repealed, and no later act's title names them; the others are held back.

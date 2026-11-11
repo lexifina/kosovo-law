@@ -11,15 +11,6 @@ QRK-01/2022-UA · 1 versions, from 2022-04-13 (latest in force: 2022-04-13) · <
 
 Act id: `udhezim-2022-57072` (tags `udhezim-2022-57072/<day>`; `python tools/on.py <day> udhezim-2022-57072`).
 
-## Status
-
-**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
-
-Amended or repealed by:
-
-- [UDHËZIM ADMINISTRATIV MD - NR. 12/2023 PËR NDRYSHIM PLOTËSIMIN E UDHËZIMIT ADMINISTRATIV MD-Nr.01/2022 PËR TARIFAT PËR SHPËRBLIMET DHE KOMPENSIMIN E SHPENZIMEVE PËR PËRMBARUESIT PRIVAT](https://gzk.rks-gov.net/ActDetail.aspx?ActID=83518)
-- [UDHËZIM ADMINISTRATIV (SHËNDETSI) NR. 05/2026 PËR PLOTËSIMIN DHE NDRYSHIMIN E UDHËZIM ADMINISTRATIV (SHËNDETSI) NR. 01/2022 PËR THJESHTËSIMIN E PROCEDURAVE PËR REGJISTRIMIN DHE IMPORTIN E PRODUKTEVE MEDICINALE QË NUK KANË PARALELE TË REGJISTRUARA NË REPUBLIKEN E KOSOVËS](https://gzk.rks-gov.net/ActDetail.aspx?ActID=122195)
-
 ## Decisions made by hand
 
 - Acts added after the first build (sub-legal acts and laws not yet in the record) are published as published in the Official Gazette, one version each, only when the Gazette links no act that amends, supplements or repeals them, does not mark them repealed, and no later act's title names them; the others are held back.

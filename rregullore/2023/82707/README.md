@@ -11,15 +11,6 @@ AAC-07-2023-RR · 1 versions, from 2023-10-04 (latest in force: 2023-10-04) · <
 
 Act id: `rregullore-2023-82707` (tags `rregullore-2023-82707/<day>`; `python tools/on.py <day> rregullore-2023-82707`).
 
-## Status
-
-**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
-
-Amended or repealed by:
-
-- [RREGULLORE NR. 09/2023 PËR PLOTËSIMIN DHE NDRYSHIMIN E RREGULLORES NR. 07/2023 PËR FILLIMIN DHE MBARIMIN E ORARIT TË PUNËS SË VEPRIMTARIVE AFARISTE DHE VEPRIMTARIVE TJERA NË KOMUNËN E MITROVICËS SË JUGUT](https://gzk.rks-gov.net/ActDetail.aspx?ActID=84372)
-- [RREGULLORE MD-NR. 03/2024 PËR PLOTËSIMIN DHE NDRYSHIMIN E RREGULLORES MD - Nr.07/2023 PËR PROCEDURËN E PËRCAKTIMIT DHE VERIFIKIMIT TË RECIPROCITETIT, KUSHTET, PËRMBAJTJEN DHE MËNYRËN E MIRËMBAJTJES SË BAZËS SË TË DHËNAVE PËR FITIMIN E TË DREJTËS SË PRONËSISË MBI PRONËN E PALUAJTSHME NGA TË HUAJT NË KOSOVË](https://gzk.rks-gov.net/ActDetail.aspx?ActID=87379)
-
 ## Decisions made by hand
 
 - Acts added after the first build (sub-legal acts and laws not yet in the record) are published as published in the Official Gazette, one version each, only when the Gazette links no act that amends, supplements or repeals them, does not mark them repealed, and no later act's title names them; the others are held back.

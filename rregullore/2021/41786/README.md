@@ -27,7 +27,6 @@ Act id: `rregullore-2021-41786` (tags `rregullore-2021-41786/<day>`; `python too
 Amended or repealed by:
 
 - [RREGULLORE (MM) NR. 07/2023 PËR REKRUTIM NË FORCËN E SIGURISË SË KOSOVËS](https://gzk.rks-gov.net/ActDetail.aspx?ActID=80812)
-- [RREGULLORE NR. 03/2023 PËR PLOTËSIMIN DHE NDRYSHIMIN E RREGULLORES NR. 01/2021 PËR ORGANIZIMIN DHE BASHKËPUNIMIN E KOMUNËS ME FSHATRAT, VENDBANIMET DHE LAGJET URBANE NË KOMUNËN E MITROVICËS](https://gzk.rks-gov.net/ActDetail.aspx?ActID=73759)
 
 ## Decisions made by hand
 

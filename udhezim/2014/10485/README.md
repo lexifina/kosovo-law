@@ -24,14 +24,6 @@ QRK-05/2014 · 1 versions, from 2014-11-14 (latest in force: 2014-11-14) · <htt
 
 Act id: `udhezim-2014-10485` (tags `udhezim-2014-10485/<day>`; `python tools/on.py <day> udhezim-2014-10485`).
 
-## Status
-
-**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
-
-Amended or repealed by:
-
-- [UDHËZIM ADMINISTRATIV MFPT- NR. 02/2022 PËR NDRYSHIMIN DHE PLOTËSIMIN E UDHËZIMIT ADMINISTRATIV NR. 11/2009 PËR IMPLEMENTIMIN E KODIT NR. 03/L-109 DOGANOR DHE I AKCIZAVE, I PLOTËSUAR DHE NDRYSHUAR ME UDHËZIMIN ADMINISTRATIV NR. 05/2010, UDHËZIMIN ADMINISTRATIV NR. 06/2013 DHE ME UDHËZIMIN ADMINISTRATIV NR.05/2014](https://gzk.rks-gov.net/ActDetail.aspx?ActID=53915)
-
 ## Decisions made by hand
 
 - Acts added after the first build (sub-legal acts and laws not yet in the record) are published as published in the Official Gazette, one version each, only when the Gazette links no act that amends, supplements or repeals them, does not mark them repealed, and no later act's title names them; the others are held back.

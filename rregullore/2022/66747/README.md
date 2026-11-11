@@ -17,14 +17,6 @@ MM-NR 05/2022-RR · 1 versions, from 2022-11-29 (latest in force: 2022-11-29) ·
 
 Act id: `rregullore-2022-66747` (tags `rregullore-2022-66747/<day>`; `python tools/on.py <day> rregullore-2022-66747`).
 
-## Status
-
-**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
-
-Amended or repealed by:
-
-- [RREGULLORE NR.02/2024 PER PLOTESIMIN NDRYSHIM TE RREGULLORES NR.05/2022 PER TARIFA NGARKESA DHE GJOBA KOMUNALE NE KOMUNEN E OBILIQIT](https://gzk.rks-gov.net/ActDetail.aspx?ActID=90548)
-
 ## Decisions made by hand
 
 - Acts added after the first build (sub-legal acts and laws not yet in the record) are published as published in the Official Gazette, one version each, only when the Gazette links no act that amends, supplements or repeals them, does not mark them repealed, and no later act's title names them; the others are held back.

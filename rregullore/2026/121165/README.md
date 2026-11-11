@@ -18,14 +18,6 @@ MD-Nr. 01/2026-RR · 1 versions, from 2026-06-24 (latest in force: 2026-06-24) �
 
 Act id: `rregullore-2026-121165` (tags `rregullore-2026-121165/<day>`; `python tools/on.py <day> rregullore-2026-121165`).
 
-## Status
-
-**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
-
-Amended or repealed by:
-
-- [RREGULLORE (MF) NR. 02/2026 PËR NDRYSHIMIN DHE PLOTËSIMIN E RREGULLORES (MF) NR. 01/2026 PËR RREGULLIMIN E MARRËDHËNIES SË PUNËS PËR ZYRTARËT E ADMINISTRATËS TATIMORE TË KOSOVËS](https://gzk.rks-gov.net/ActDetail.aspx?ActID=124038)
-
 ## Decisions made by hand
 
 - Acts added after the first build (sub-legal acts and laws not yet in the record) are published as published in the Official Gazette, one version each, only when the Gazette links no act that amends, supplements or repeals them, does not mark them repealed, and no later act's title names them; the others are held back.

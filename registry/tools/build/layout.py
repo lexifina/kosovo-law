@@ -25,6 +25,8 @@ CODE_NAME = re.compile(r'^$a')
 
 # 2026-11-11 (Kosovo local layer): municipal acts, local-<municipality>-<year>-<id> -> local/<municipality>/<year>/<id>
 LOCAL_RE = re.compile(r'^local-([a-z][a-z-]*?)-(\d{4})-(\d+)$')
+# a municipality's own website (not in the Gazette): local-<municipality>-<year>-web-<item> -> .../web-<item>
+LOCAL_RE = re.compile(r'^local-([a-z][a-z-]*?)-(\d{4})-((?:web-)?\d+)$')
 
 
 def act_path(slug: str, title: str = '') -> str:

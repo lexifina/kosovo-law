@@ -60,19 +60,6 @@ MF-Nr.01/2019-RR · 1 versions, from 2019-05-21 (latest in force: 2019-05-21) ·
 
 Act id: `rregullore-2019-19412` (tags `rregullore-2019-19412/<day>`; `python tools/on.py <day> rregullore-2019-19412`).
 
-## Status
-
-**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
-
-Amended or repealed by:
-
-- [RREGULLORE (AAC) NR. 02/2021 PËR NDRYSHIMIN E RREGULLORES (AAC) NR. 01/2019 PËR KËRKESAT E OPERIMEVE AJRORE PËR VELORË DHE ÇANTAT ELEKTRONIKE TË FLUTURIMIT](https://gzk.rks-gov.net/ActDetail.aspx?ActID=39364)
-- [RREGULLORE (AAC) NR. 07/2021 PËR NDRYSHIMIN E RREGULLORES (AAC) NR. 01/2019 NË LIDHJE ME KËRKESAT PËR KOMPETENCËN E EKUIPAZHIT TË FLUTURIMIT DHE METODAT E TRAJNIMIT DHE SHTYRJEN E DATAVE TË ZBATIMIT TË MASAVE TË CAKTUARA NË KONTEKSTIN E PANDEMISË COVID-19](https://gzk.rks-gov.net/ActDetail.aspx?ActID=45832)
-- [RREGULLORE (AAC) NR. 02/2023 PËR NDRYSHIMIN E RREGULLORES (AAC) NR. 01/2019 NË LIDHJE ME ZBATUESHMËRINË E KËRKESAVE PËR GJETJEN E NJË MJETI AJROR NË RREZIK](https://gzk.rks-gov.net/ActDetail.aspx?ActID=75382)
-- [RREGULLORE (AAC) NR. 08/2025 PËR NDRYSHIMIN E RREGULLORES (AAC) NR. 05/2015, RREGULLORES (AAC) NR. 01/2020, RREGULLORES (AAC) NR. 01/2019 DHE RREGULLORES (AAC) NR. 09/2020, NË LIDHJE ME PËRCAKTIMIN E KËRKESAVE PËR OPERIMIN E MJETEVE AJRORE ME EKUIPAZH MË AFTËSI NGRITJEJE DHE ULJEJE VERTIKALE](https://gzk.rks-gov.net/ActDetail.aspx?ActID=112782)
-- [RREGULLORE (AAC) NR. 03/2026 PËR NDRYSHIMIN E RREGULLORES (AAC) NR. 01/2019 PËR SA I PËRKET OPERIMEVE AJRORE JO KOMERCIALE TË KRYERA NË KUSHTE TË RREGULLAVE VIZUALE TË FLUTURIMIT ME XHIROPLANË](https://gzk.rks-gov.net/ActDetail.aspx?ActID=118538)
-- [RREGULLORE (AAC) NR. 07/2026 PËR NDRYSHIMIN E RREGULLORES (AAC) NR. 01/2019 PËR KËRKESAT PËR OPERATORËT E MJETEVE AJRORE NË LIDHJE ME AKTIVITETET E SHËRBIMIT NË TOKË](https://gzk.rks-gov.net/ActDetail.aspx?ActID=121431)
-
 ## Decisions made by hand
 
 - Acts added after the first build (sub-legal acts and laws not yet in the record) are published as published in the Official Gazette, one version each, only when the Gazette links no act that amends, supplements or repeals them, does not mark them repealed, and no later act's title names them; the others are held back.

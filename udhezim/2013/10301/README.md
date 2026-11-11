@@ -20,15 +20,6 @@ QRK-06/2013 · 1 versions, from 2013-09-02 (latest in force: 2013-09-02) · <htt
 
 Act id: `udhezim-2013-10301` (tags `udhezim-2013-10301/<day>`; `python tools/on.py <day> udhezim-2013-10301`).
 
-## Status
-
-**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
-
-Amended or repealed by:
-
-- [UDHËZIM ADMINISTRATIV MF- NR.05/2014 PËR PLOTËSIMIN DHE NDRYSHIMIN E UDHËZIMIT ADMINISTRATIV NR. 11/2009 PËR IMPLEMENTIMIN E KODIT DOGANOR DHE TË AKCIZAVE, TË PLOTËSUAR DHE NDRYSHUAR ME UDHËZIMIN ADMINISTRATIV NR. 05/2010 DHE ME UDHËZIMIN ADMINISTRATIV NR. 06/2013](https://gzk.rks-gov.net/ActDetail.aspx?ActID=10441)
-- [UDHËZIM ADMINISTRATIV MFPT- NR. 02/2022 PËR NDRYSHIMIN DHE PLOTËSIMIN E UDHËZIMIT ADMINISTRATIV NR. 11/2009 PËR IMPLEMENTIMIN E KODIT NR. 03/L-109 DOGANOR DHE I AKCIZAVE, I PLOTËSUAR DHE NDRYSHUAR ME UDHËZIMIN ADMINISTRATIV NR. 05/2010, UDHËZIMIN ADMINISTRATIV NR. 06/2013 DHE ME UDHËZIMIN ADMINISTRATIV NR.05/2014](https://gzk.rks-gov.net/ActDetail.aspx?ActID=53915)
-
 ## Decisions made by hand
 
 - Acts added after the first build (sub-legal acts and laws not yet in the record) are published as published in the Official Gazette, one version each, only when the Gazette links no act that amends, supplements or repeals them, does not mark them repealed, and no later act's title names them; the others are held back.

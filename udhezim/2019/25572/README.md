@@ -24,15 +24,6 @@ MD-04/2019-UA · 1 versions, from 2019-12-04 (latest in force: 2019-12-04) · <h
 
 Act id: `udhezim-2019-25572` (tags `udhezim-2019-25572/<day>`; `python tools/on.py <day> udhezim-2019-25572`).
 
-## Status
-
-**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
-
-Amended or repealed by:
-
-- [UDHËZIM ADMINISTRATIV Nr.03/2023 PËR NDRYSHIMIN DHE PLOTËSIMIN E UDHËZIMIT ADMINISTRATIV Nr.04/2019 PËR SHKELJET, MASAT DHE PROCEDURAT DISIPLINORE NË POLICINË E KOSOVËS](https://gzk.rks-gov.net/ActDetail.aspx?ActID=96725)
-- [UDHËZIM ADMINISTRATIV (MINTI) Nr. 03/2026 PËR NDRYSHIMIN DHE PLOTËSIMIN E UDHËZIMIT ADMINISTRATIV (MTI) Nr. 04/2019 PËR CAKTIMIN E FORMËS, PËRMBAJTJES DHE PËRDORIMIT TË LOGOS TË DREJTORISË SË PËRGJITHSHME TË AKREDITIMIT TË KOSOVËS DHE SIMBOLIT TË AKREDITIMIT DHE REFERIMI I TEKSIT NË AKREDITIM](https://gzk.rks-gov.net/ActDetail.aspx?ActID=122017)
-
 ## Decisions made by hand
 
 - Acts added after the first build (sub-legal acts and laws not yet in the record) are published as published in the Official Gazette, one version each, only when the Gazette links no act that amends, supplements or repeals them, does not mark them repealed, and no later act's title names them; the others are held back.

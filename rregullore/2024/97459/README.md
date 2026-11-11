@@ -16,14 +16,6 @@ MPB-03/2024-RR · 1 versions, from 2024-10-01 (latest in force: 2024-10-01) · <
 
 Act id: `rregullore-2024-97459` (tags `rregullore-2024-97459/<day>`; `python tools/on.py <day> rregullore-2024-97459`).
 
-## Status
-
-**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
-
-Amended or repealed by:
-
-- [RREGULLORE NR. 02/2026 PËR PLOTËSIMIN DHE NDRYSHIMIN E RREGULLORES NR. 03/2024 TË PLOTËSUAR DHE NDRYSHUAR ME RREGULLOREN NR. 02/2023 PËR MENAXHIMIN E MBETURINAVE NË KOMUNËN E OBILIQIT](https://gzk.rks-gov.net/ActDetail.aspx?ActID=120363)
-
 ## Decisions made by hand
 
 - Acts added after the first build (sub-legal acts and laws not yet in the record) are published as published in the Official Gazette, one version each, only when the Gazette links no act that amends, supplements or repeals them, does not mark them repealed, and no later act's title names them; the others are held back.

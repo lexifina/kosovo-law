@@ -31,7 +31,6 @@ Act id: `udhezim-2006-7388` (tags `udhezim-2006-7388/<day>`; `python tools/on.py
 Amended or repealed by:
 
 - [the Gazette's note in the act's title: (Shfuqizuar me Vendim të QRK, Nr. 02/50 të datës 23.12.2021)](https://gzk.rks-gov.net/ActDetail.aspx?ActID=7388)
-- [UDHËZIM ADMINISTARATIV NR. 12/2010 PËR PLOTËSIMIN DHE NDRYSHIMIN E UDHËZIMIT ADMINISTRATIV NR. 08/2006 PËR PUNËN E KOMISIONIT MJEKËSOR LIDHUR ME VLERËSIMIN DHE CAKTIMIN E SHKALLËS SË INVALIDITETIT TË INVALIDËVE TË LUFTËS .](https://gzk.rks-gov.net/ActDetail.aspx?ActID=7944)
 
 ## Decisions made by hand
 

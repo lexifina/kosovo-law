@@ -27,7 +27,6 @@ Act id: `rregullore-2014-9917` (tags `rregullore-2014-9917/<day>`; `python tools
 Amended or repealed by:
 
 - [the Gazette's note in the act's title: (Shfuqizuar me Vendim të QRK, Nr. 02/50 të datës 23.12.2021)](https://gzk.rks-gov.net/ActDetail.aspx?ActID=9917)
-- [RREGULLORE (MPMS) NR. 02/2020 PËR NDRYSHIMIN DHE PLOTËSIMIN E RREGULLORËS NR. 05/2014 PËR KËRKESAT MINIMALE TË SIGURISË DHE SHËNDETIT NË PËRDORIMIN E PAJISJEVE TË PUNËS NË VENDIN E PUNËS](https://gzk.rks-gov.net/ActDetail.aspx?ActID=32302)
 
 ## Decisions made by hand
 

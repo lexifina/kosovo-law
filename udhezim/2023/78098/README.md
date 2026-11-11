@@ -49,14 +49,6 @@ QRK-05/2023-UA · 1 versions, from 2023-07-12 (latest in force: 2023-07-12) · <
 
 Act id: `udhezim-2023-78098` (tags `udhezim-2023-78098/<day>`; `python tools/on.py <day> udhezim-2023-78098`).
 
-## Status
-
-**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
-
-Amended or repealed by:
-
-- [UDHËZIM ADMINISTRATIV Nr.04/2026 PËR PLOTËSIMIN DHE NDRYSHIMIN E UDHËZIMIT ADMINISTRATIV (Shëndetësi) Nr. 05/2023 VËREJTJET E KOMBINUARA](https://gzk.rks-gov.net/ActDetail.aspx?ActID=121383)
-
 ## Decisions made by hand
 
 - Acts added after the first build (sub-legal acts and laws not yet in the record) are published as published in the Official Gazette, one version each, only when the Gazette links no act that amends, supplements or repeals them, does not mark them repealed, and no later act's title names them; the others are held back.

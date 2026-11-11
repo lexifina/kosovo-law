@@ -26,8 +26,6 @@ Act id: `udhezim-2023-71098` (tags `udhezim-2023-71098/<day>`; `python tools/on.
 Amended or repealed by:
 
 - [UDHËZIM ADMINISTRATIV (MMPHI) NR. 07/2024 PËR PËRCAKTIMIN E PËRMBAJTJES SË TË DHËNAVE DHE MËNYRËN E KRIJIMIT TË NJËSIVE KADASTRALE](https://gzk.rks-gov.net/ActDetail.aspx?ActID=89157)
-- [UDHËZIM ADMINISTRATIV (MPB) NR. 09/2024 PËR PLOTËSIMIN DHE NDRYSHIMIN E UDHËZIMIT ADMINISTRATIV (MPB) NR. 05/2023 PËR PROCEDURAT E KUNDËRVAJTJES](https://gzk.rks-gov.net/ActDetail.aspx?ActID=98063)
-- [UDHËZIM ADMINISTRATIV Nr.04/2026 PËR PLOTËSIMIN DHE NDRYSHIMIN E UDHËZIMIT ADMINISTRATIV (Shëndetësi) Nr. 05/2023 VËREJTJET E KOMBINUARA](https://gzk.rks-gov.net/ActDetail.aspx?ActID=121383)
 
 ## Decisions made by hand
 

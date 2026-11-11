@@ -11,14 +11,6 @@ MD-01/2023-UA · 1 versions, from 2023-02-08 (latest in force: 2023-02-08) · <h
 
 Act id: `udhezim-2023-69332` (tags `udhezim-2023-69332/<day>`; `python tools/on.py <day> udhezim-2023-69332`).
 
-## Status
-
-**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
-
-Amended or repealed by:
-
-- [UDHËZIM ADMINSTRATIV (MMPHI) NR. 04/2024 PËR NDRYSHIMIN DHE PLOTËSIMIN E UDHËZIMIT ADMINISTRATIV (MMPHI) Nr. 01/2023 PËR PYETËS](https://gzk.rks-gov.net/ActDetail.aspx?ActID=88231)
-
 ## Decisions made by hand
 
 - Acts added after the first build (sub-legal acts and laws not yet in the record) are published as published in the Official Gazette, one version each, only when the Gazette links no act that amends, supplements or repeals them, does not mark them repealed, and no later act's title names them; the others are held back.

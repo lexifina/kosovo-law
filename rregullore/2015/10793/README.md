@@ -34,7 +34,6 @@ Act id: `rregullore-2015-10793` (tags `rregullore-2015-10793/<day>`; `python too
 Amended or repealed by:
 
 - [RREGULLORE (MM) NR. 03/2019 PËR SHQYRTIMIN DHE ZGJIDHJEN E ANKESAVE NË FORCËN E SIGURISË SË KOSOVËS](https://gzk.rks-gov.net/ActDetail.aspx?ActID=20620)
-- [RREGULLORE NR. 05/2018 PËR NDRYSHIMIN DHE PLOTËSIMIN E RREGULLORES NR. 02/2015 PËR TARIFAT E NGARKUARA NGA AUTORITETI I AVIACIONIT CIVIL I KOSOVËS](https://gzk.rks-gov.net/ActDetail.aspx?ActID=17829)
 
 ## Decisions made by hand
 

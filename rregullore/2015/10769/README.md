@@ -20,14 +20,6 @@ RR-02/2015 · 1 versions, from 2015-02-12 (latest in force: 2015-02-12) · <http
 
 Act id: `rregullore-2015-10769` (tags `rregullore-2015-10769/<day>`; `python tools/on.py <day> rregullore-2015-10769`).
 
-## Status
-
-**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
-
-Amended or repealed by:
-
-- [RREGULLORE NR. 05/2018 PËR NDRYSHIMIN DHE PLOTËSIMIN E RREGULLORES NR. 02/2015 PËR TARIFAT E NGARKUARA NGA AUTORITETI I AVIACIONIT CIVIL I KOSOVËS](https://gzk.rks-gov.net/ActDetail.aspx?ActID=17829)
-
 ## Decisions made by hand
 
 - Acts added after the first build (sub-legal acts and laws not yet in the record) are published as published in the Official Gazette, one version each, only when the Gazette links no act that amends, supplements or repeals them, does not mark them repealed, and no later act's title names them; the others are held back.

@@ -47,14 +47,6 @@ MFPT-01/2024-RR · 1 versions, from 2024-06-28 (latest in force: 2024-06-28) · 
 
 Act id: `rregullore-2024-92513` (tags `rregullore-2024-92513/<day>`; `python tools/on.py <day> rregullore-2024-92513`).
 
-## Status
-
-**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
-
-Amended or repealed by:
-
-- [RREGULLOREN (ZKA) NR. 05/2026 PËR NDRYSHIMIN DHE PLOTËSIMIN E RREGULLORES (ZKA) NR. 01/2024 PËR PRANIMIN DHE KARRIERËN NË ZYRËN KOMBËTARE TË AUDITIMIT](https://gzk.rks-gov.net/ActDetail.aspx?ActID=115348)
-
 ## Decisions made by hand
 
 - Acts added after the first build (sub-legal acts and laws not yet in the record) are published as published in the Official Gazette, one version each, only when the Gazette links no act that amends, supplements or repeals them, does not mark them repealed, and no later act's title names them; the others are held back.
