@@ -1,6 +1,6 @@
 # Every act in this repository
 
-5107 acts, 5,107 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+5117 acts, 5,117 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## aktgjykim (306, of which 8 amending acts)
 
@@ -4475,7 +4475,7 @@
 | URDHËRESË ADMINISTRATIVE (AAC) NR. 3/2020 MBI PËRGATITJET E AEROPORTEVE PËR KTHIM NË OPERIME NORMALE, RRETH OFRIMIT TË SHËRBIMEVE NË TOKË NË AEROPORTE DHE ZBATIMIN E PROTOKOLLIT TË SIGURISË SË SHËNDETIT NË AVIACION PËR COVID-19 | [`urdhrese/2020/35700/`](urdhrese/2020/35700/) | in force | 1 | 2020-07-30 | 2020-07-30 |
 | URDHËRESË ADMINISTRATIVE (AAC) NR. 01/2022 PËR RREZIQET QË PARAQITEN GJATË RRITJES SË AKTIVITETEVE TË AVIACIONIT | [`urdhrese/2022/62595/`](urdhrese/2022/62595/) | in force | 1 | 2022-09-13 | 2022-09-13 |
 
-## vendim (635, of which 2 amending acts)
+## vendim (645, of which 2 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -5109,10 +5109,20 @@
 | AKTVENDIM PËR PAPRANUESHMËRI NË RASTIN NR. KI316/25 PARASHTRUES SAMI KURTESHI DHE ALBAN KRASNIQI VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT [AA.NR.75/2025] TË 28 GUSHTIT 2025 TË GJYKATËS SUPREME TË KOSOVËS | [`vendim/2026/121843/`](vendim/2026/121843/) | in force | 1 | 2026-07-15 | 2026-07-15 |
 | VENDIMET E QEVERISË (Mbledhja Nr. 29/2026) (Qeveria e Republikës së Kosovës) | [`vendim/2026/121965/`](vendim/2026/121965/) | in force | 1 | 2026-07-17 | 2026-07-17 |
 | VENDIM NR. Ref. Nr. 01/109 (Ministria e Industrisë, Ndërmarrësisë, Tregtisë dhe Inovacionit) | [`vendim/2026/122014/`](vendim/2026/122014/) | in force | 1 | 2026-07-21 | 2026-07-21 |
+| VENDIMET E QEVERISË (Mbledhja Nr. 30/2026) (Qeveria e Republikës së Kosovës) | [`vendim/2026/122222/`](vendim/2026/122222/) | in force | 1 | 2026-07-24 | 2026-07-24 |
 | VENDIM PËR REFUZIM TË KËRKESËS NË RASTIN NR. KI311/25 PARASHTRUES MIFTAR QELAJ, SI PËRFAQËSUES I PRETENDUAR I PERSONAVE: ASLLAN SHALA, BESIM SHALA, IMER SHALA, NUREDIN SHALA, SEJFULAH SHALA DHE SELAJDIN SHALA VLERËSIM I KUSHTETUTSHMËRISË SË AKTVENDIMIT [REV. NR. 136/2025] TË 13 QERSHORIT 2025 TË GJYKATËS SUPREME TË KOSOVËS | [`vendim/2026/122468/`](vendim/2026/122468/) | in force | 1 | 2026-07-30 | 2026-07-30 |
+| VENDIMET E QEVERISË (Mbledhja Nr. 31/2026) (Qeveria e Republikës së Kosovës) | [`vendim/2026/122528/`](vendim/2026/122528/) | in force | 1 | 2026-07-31 | 2026-07-31 |
+| VENDIMET E QEVERISË (Mbledhja Nr. 32/2026) (Qeveria e Republikës së Kosovës) | [`vendim/2026/122979/`](vendim/2026/122979/) | in force | 1 | 2026-08-12 | 2026-08-12 |
+| VENDIMET E QEVERISË (Mbledhja Nr. 33/2026) (Qeveria e Republikës së Kosovës) | [`vendim/2026/123758/`](vendim/2026/123758/) | in force | 1 | 2026-08-26 | 2026-08-26 |
+| VENDIMET E QEVERISË (Mbledhja Nr. 34/2026) (Qeveria e Republikës së Kosovës) | [`vendim/2026/123989/`](vendim/2026/123989/) | in force | 1 | 2026-09-01 | 2026-09-01 |
 | VENDIM NR. 3501/2018/04 (Ministria e Kulturës dhe Turizmit) | [`vendim/2026/124588/`](vendim/2026/124588/) | in force | 1 | 2018-10-10 | 2018-10-10 |
+| VENDIMET E QEVERISË (Mbledhja Nr. 02/2026) (Qeveria e Republikës së Kosovës) | [`vendim/2026/124787/`](vendim/2026/124787/) | in force | 1 | 2026-09-26 | 2026-09-26 |
+| VENDIMET E QEVERISË (Mbledhja Nr. 05/2026) (Qeveria e Republikës së Kosovës) | [`vendim/2026/125140/`](vendim/2026/125140/) | in force | 1 | 2026-10-06 | 2026-10-06 |
 | VENDIM NR. Nr. 1/596/2026 (Ministria e Mbrojtjes) | [`vendim/2026/125235/`](vendim/2026/125235/) | in force | 1 | 2026-10-09 | 2026-10-09 |
+| VENDIMET E QEVERISË (Mbledhja Nr. 07/2026) (Qeveria e Republikës së Kosovës) | [`vendim/2026/125397/`](vendim/2026/125397/) | in force | 1 | 2026-10-14 | 2026-10-14 |
 | VENDIM NR. 01 Ref. Nr.152 (Ministria e Industrisë, Ndërmarrësisë, Tregtisë dhe Inovacionit) | [`vendim/2026/125801/`](vendim/2026/125801/) | in force | 1 | 2026-10-28 | 2026-10-28 |
+| VENDIMET E QEVERISË (Mbledhja Nr. 09/2026) (Qeveria e Republikës së Kosovës) | [`vendim/2026/125982/`](vendim/2026/125982/) | in force | 1 | 2026-11-02 | 2026-11-02 |
+| VENDIMET E QEVERISË (Mbledhja Nr. 10/2026) (Qeveria e Republikës së Kosovës) | [`vendim/2026/126199/`](vendim/2026/126199/) | in force | 1 | 2026-11-06 | 2026-11-06 |
 | VENDIM NR. 01/156 (Ministria e Industrisë, Ndërmarrësisë, Tregtisë dhe Inovacionit) | [`vendim/2026/126223/`](vendim/2026/126223/) | in force | 1 | 2026-11-09 | 2026-11-09 |
 
 ## Withdrawn from the record (64)

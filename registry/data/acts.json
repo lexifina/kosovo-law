@@ -91168,6 +91168,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=122206"
 },
 {
+"slug": "vendim-2026-122222",
+"path": "vendim/2026/122222",
+"kind": "vendim",
+"year": "2026",
+"number": "122222",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 30/2026) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-30/2026-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2026-07-24",
+"latest": "2026-07-24",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=122222"
+},
+{
 "slug": "aktvendim-2026-122265",
 "path": "aktvendim/2026/122265",
 "kind": "aktvendim",
@@ -91285,6 +91302,23 @@
 "from": "2026-07-31",
 "latest": "2026-07-31",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=122523"
+},
+{
+"slug": "vendim-2026-122528",
+"path": "vendim/2026/122528",
+"kind": "vendim",
+"year": "2026",
+"number": "122528",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 31/2026) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-31/2026-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2026-07-31",
+"latest": "2026-07-31",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=122528"
 },
 {
 "slug": "aktgjykim-2026-122551",
@@ -91421,6 +91455,23 @@
 "from": "2026-08-17",
 "latest": "2026-08-17",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=122800"
+},
+{
+"slug": "vendim-2026-122979",
+"path": "vendim/2026/122979",
+"kind": "vendim",
+"year": "2026",
+"number": "122979",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 32/2026) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-32/2026-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2026-08-12",
+"latest": "2026-08-12",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=122979"
 },
 {
 "slug": "aktvendim-2026-123328",
@@ -91763,6 +91814,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=123751"
 },
 {
+"slug": "vendim-2026-123758",
+"path": "vendim/2026/123758",
+"kind": "vendim",
+"year": "2026",
+"number": "123758",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 33/2026) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-33/2026-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2026-08-26",
+"latest": "2026-08-26",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=123758"
+},
+{
 "slug": "aktvendim-2026-123982",
 "path": "aktvendim/2026/123982",
 "kind": "aktvendim",
@@ -91778,6 +91846,23 @@
 "from": "2026-09-01",
 "latest": "2026-09-01",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=123982"
+},
+{
+"slug": "vendim-2026-123989",
+"path": "vendim/2026/123989",
+"kind": "vendim",
+"year": "2026",
+"number": "123989",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 34/2026) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-34/2026-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2026-09-01",
+"latest": "2026-09-01",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=123989"
 },
 {
 "slug": "aktvendim-2026-124035",
@@ -92033,6 +92118,23 @@
 "from": "2026-10-02",
 "latest": "2026-10-02",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=124782"
+},
+{
+"slug": "vendim-2026-124787",
+"path": "vendim/2026/124787",
+"kind": "vendim",
+"year": "2026",
+"number": "124787",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 02/2026) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-02-11/2026-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2026-09-26",
+"latest": "2026-09-26",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=124787"
 },
 {
 "slug": "aktvendim-2026-124801",
@@ -92426,6 +92528,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=125079"
 },
 {
+"slug": "vendim-2026-125140",
+"path": "vendim/2026/125140",
+"kind": "vendim",
+"year": "2026",
+"number": "125140",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 05/2026) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-05/2026-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2026-10-06",
+"latest": "2026-10-06",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=125140"
+},
+{
 "slug": "vendim-2026-125235",
 "path": "vendim/2026/125235",
 "kind": "vendim",
@@ -92560,6 +92679,23 @@
 "from": "2026-10-14",
 "latest": "2026-10-14",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=125368"
+},
+{
+"slug": "vendim-2026-125397",
+"path": "vendim/2026/125397",
+"kind": "vendim",
+"year": "2026",
+"number": "125397",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 07/2026) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-07/2026-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2026-10-14",
+"latest": "2026-10-14",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=125397"
 },
 {
 "slug": "udhezim-2026-125413",
@@ -92888,6 +93024,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=125922"
 },
 {
+"slug": "vendim-2026-125982",
+"path": "vendim/2026/125982",
+"kind": "vendim",
+"year": "2026",
+"number": "125982",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 09/2026) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-09/2026-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2026-11-02",
+"latest": "2026-11-02",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=125982"
+},
+{
 "slug": "aktvendim-2026-126017",
 "path": "aktvendim/2026/126017",
 "kind": "aktvendim",
@@ -93176,6 +93329,23 @@
 "from": "2026-11-06",
 "latest": "2026-11-06",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=126178"
+},
+{
+"slug": "vendim-2026-126199",
+"path": "vendim/2026/126199",
+"kind": "vendim",
+"year": "2026",
+"number": "126199",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 10/2026) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-10/2026-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2026-11-06",
+"latest": "2026-11-06",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=126199"
 },
 {
 "slug": "vendim-2026-126223",

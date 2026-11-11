@@ -72167,6 +72167,21 @@
    ]
   },
   {
+   "slug": "vendim-2026-122222",
+   "path": "vendim/2026/122222",
+   "short": "QRK-30/2026-V",
+   "title": "VENDIMET E QEVERISË (Mbledhja Nr. 30/2026) (Qeveria e Republikës së Kosovës)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=122222",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=122222",
+     "sha256": "38da94e0da18f29dff8a4023b5e902371b5e1ae2bcb3dd25ec38808a6119bb1d"
+    }
+   ]
+  },
+  {
    "slug": "vendim-2026-122468",
    "path": "vendim/2026/122468",
    "short": "GJK-KI311/25-V",
@@ -72178,6 +72193,66 @@
      "units": 1,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=122468",
      "sha256": "72b3bd701fe7a3f1eb179dd1afe44f882ed19ddf2159c9846a0c0def76266e3e"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2026-122528",
+   "path": "vendim/2026/122528",
+   "short": "QRK-31/2026-V",
+   "title": "VENDIMET E QEVERISË (Mbledhja Nr. 31/2026) (Qeveria e Republikës së Kosovës)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=122528",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=122528",
+     "sha256": "bbcd0e5a71ae7fe2ff8e907e8cd33664d5c11c944b611aa8234c2c06401c340f"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2026-122979",
+   "path": "vendim/2026/122979",
+   "short": "QRK-32/2026-V",
+   "title": "VENDIMET E QEVERISË (Mbledhja Nr. 32/2026) (Qeveria e Republikës së Kosovës)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=122979",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=122979",
+     "sha256": "01eb361615931caa6f477e00c029a90aea1cb015848391c69693bdb301441a0a"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2026-123758",
+   "path": "vendim/2026/123758",
+   "short": "QRK-33/2026-V",
+   "title": "VENDIMET E QEVERISË (Mbledhja Nr. 33/2026) (Qeveria e Republikës së Kosovës)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=123758",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=123758",
+     "sha256": "1c88c0596bddd049732041047828f2af57844b06200c191305fcd0bf648d5049"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2026-123989",
+   "path": "vendim/2026/123989",
+   "short": "QRK-34/2026-V",
+   "title": "VENDIMET E QEVERISË (Mbledhja Nr. 34/2026) (Qeveria e Republikës së Kosovës)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=123989",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=123989",
+     "sha256": "c76aec59a509397a6de3c6c458a466415e247f7bad1389d186ac0ef68d95b393"
     }
    ]
   },
@@ -72197,6 +72272,36 @@
    ]
   },
   {
+   "slug": "vendim-2026-124787",
+   "path": "vendim/2026/124787",
+   "short": "QRK-02-11/2026-V",
+   "title": "VENDIMET E QEVERISË (Mbledhja Nr. 02/2026) (Qeveria e Republikës së Kosovës)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=124787",
+   "versions": [
+    {
+     "from": "2026-09-26",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=124787",
+     "sha256": "2bbfe3352f6dfdf78ee7ebeffc51661d9962f0ae50e76d9d9ce0cd86eff73075"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2026-125140",
+   "path": "vendim/2026/125140",
+   "short": "QRK-05/2026-V",
+   "title": "VENDIMET E QEVERISË (Mbledhja Nr. 05/2026) (Qeveria e Republikës së Kosovës)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=125140",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=125140",
+     "sha256": "f8db884d1969ed25b718a0725c8e74506911cb13cb16fbab87c6f85a1300a8fa"
+    }
+   ]
+  },
+  {
    "slug": "vendim-2026-125235",
    "path": "vendim/2026/125235",
    "short": "MM-Nr. 1/596/2026-V",
@@ -72212,6 +72317,21 @@
    ]
   },
   {
+   "slug": "vendim-2026-125397",
+   "path": "vendim/2026/125397",
+   "short": "QRK-07/2026-V",
+   "title": "VENDIMET E QEVERISË (Mbledhja Nr. 07/2026) (Qeveria e Republikës së Kosovës)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=125397",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=125397",
+     "sha256": "ec9eaba147df11581200ecece55c0eed29a8c7a9641a1797acab79cfa0c093aa"
+    }
+   ]
+  },
+  {
    "slug": "vendim-2026-125801",
    "path": "vendim/2026/125801",
    "short": "MINTI-01 Ref. Nr.152-V",
@@ -72223,6 +72343,36 @@
      "units": 1,
      "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=125801",
      "sha256": "a3341e596c333cd99d3de968c94382c135728cbfa9cfcaa2bf021ab0e5eceb6c"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2026-125982",
+   "path": "vendim/2026/125982",
+   "short": "QRK-09/2026-V",
+   "title": "VENDIMET E QEVERISË (Mbledhja Nr. 09/2026) (Qeveria e Republikës së Kosovës)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=125982",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=125982",
+     "sha256": "e956ea4a673f9694fd36abd42245554c9f20c2807ec6e211cefc266ea77dbdd6"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2026-126199",
+   "path": "vendim/2026/126199",
+   "short": "QRK-10/2026-V",
+   "title": "VENDIMET E QEVERISË (Mbledhja Nr. 10/2026) (Qeveria e Republikës së Kosovës)",
+   "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=126199",
+   "versions": [
+    {
+     "from": "2026-11-06",
+     "units": 1,
+     "source_url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=126199",
+     "sha256": "e78990c8a39e73f155c588d70a936785493b37f40061ee436389b1e4039891bf"
     }
    ]
   },
