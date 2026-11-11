@@ -23,10 +23,17 @@ AMENDING = re.compile(r'\b(?:amend|izmen|ndryshim|τροποπο|измен|dopu
 CODE_NAME = re.compile(r'^$a')
 
 
+# 2026-11-11 (Kosovo local layer): municipal acts, local-<municipality>-<year>-<id> -> local/<municipality>/<year>/<id>
+LOCAL_RE = re.compile(r'^local-([a-z][a-z-]*?)-(\d{4})-(\d+)$')
+
+
 def act_path(slug: str, title: str = '') -> str:
     """<kind>/<year>/<id> for new acts named <kind>-<year>-<id>; any other slug keeps its own folder."""
     if slug in FIXED:
         return FIXED[slug]
+    lm = LOCAL_RE.match(slug)
+    if lm:
+        return f'local/{lm.group(1)}/{lm.group(2)}/{lm.group(3)}'
     m = SLUG_RE.match(slug)
     if m:
         return f'{m.group(1)}/{m.group(2)}/{m.group(3)}'
@@ -90,12 +97,17 @@ def acts_rows(c: dict) -> list[dict]:
     for a in c['acts']:
         p = a.get('path') or a['slug']
         kind, year, number = parts_of(p if not a.get('_withdrawn') else act_path(a['slug'], a.get('title', '')))
+        local = {}
+        lm = LOCAL_RE.match(a['slug'])
+        if lm:   # local/<municipality>/<year>/<id>
+            kind, year, number = 'local', lm.group(2), lm.group(3)
+            local = {'municipality': lm.group(1)}
         vs = a['versions']
         rows.append({'slug': a['slug'], 'path': None if a.get('_withdrawn') else p, 'kind': kind, 'year': year,
                      'number': number, 'withdrawn_by': a.get('_withdrawn_by'), 'reason': a.get('_reason'),
                      'title': a.get('title', ''), 'short': a.get('short', ''), 'code': code_name(a), 'status': status(a),
                      'versions': len(vs), 'from': vs[0]['from'] if vs else None, 'latest': vs[-1]['from'] if vs else None,
-                     'portal': a.get('url'),
+                     'portal': a.get('url'), **local,
                      **{k: a[k] for k in ('amended_by', 'cited_by', 'same_act_as') if a.get(k)}})  # same_act_as: Kosovo
     order = {k: i for i, k in enumerate(KIND_ORDER)}
     rows.sort(key=lambda r: (order.get(r['kind'], 99), r['year'], int(r['number']) if r['number'].isdigit() else 0))

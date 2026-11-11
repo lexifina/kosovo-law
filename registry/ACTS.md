@@ -1,6 +1,6 @@
 # Every act in this repository
 
-4279 acts, 4,279 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+4506 acts, 4,506 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## aktgjykim (298, of which 8 amending acts)
 
@@ -2746,6 +2746,238 @@
 | LIGJI NR. 06/L-091 PËR NDRYSHIMIN DHE PLOTËSIMIN E KODIT TË PROCEDURËS PENALE NR. 04/L-123 | [`ligj/2019/20500/`](ligj/2019/20500/) | amending act | 1 | 2019-07-19 | 2019-07-19 |
 | LIGJI NR. 08/L-002 PËR PLOTËSIMIN DHE NDRYSHIMIN E KODIT NR. 04/L-123 TË PROCEDURËS PENALE I NDRYSHUAR DHE PLOTËSUAR ME LIGJIN NR. 06/L-091 | [`ligj/2021/43260/`](ligj/2021/43260/) | amending act | 1 | 2021-06-18 | 2021-06-18 |
 | LIGJI NR. 08/L-046 PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJIT NR. 02/L-109 PËR PARANDALIMIN DHE LUFTIMIN E SËMUNDJEVE NGJITËSE | [`ligj/2022/57852/`](ligj/2022/57852/) | amending act | 1 | 2022-05-26 | 2022-05-26 |
+
+## local (227, of which 15 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| RREGULLORE (K.SHT) 01.006/7381PËR BASHKPUNIMIN E KOMUNËS ME FSHATRA DHE LAGJE URBANE | [`local/shtime/2003/11638/`](local/shtime/2003/11638/) | in force | 1 | 2003-05-26 | 2003-05-26 |
+| RREGULLORE ( K.DE ) 01.NR.XVI-6 MBI MBROJTJEN NGA ZJARRI NË TERRITORIN E KOMUNËS SË DEÇANIT | [`local/decan/2005/11755/`](local/decan/2005/11755/) | in force | 1 | 2005-01-26 | 2005-01-26 |
+| RREGULLORE (K.SHT) TË PUNĒS SĒ KUVENDIT DHE KOMITETEVE | [`local/shtime/2008/11475/`](local/shtime/2008/11475/) | in force | 1 | 2008-11-03 | 2008-11-03 |
+| STATUTI I KOMUNES SE SHTIMES | [`local/shtime/2008/11499/`](local/shtime/2008/11499/) | in force | 1 | 2008-09-03 | 2008-09-03 |
+| STATUTI (K.SR) 01-8336 I KOMUNËS SË SUHAREKËS (K.SR) | [`local/suhareke/2008/11691/`](local/suhareke/2008/11691/) | in force | 1 | 2008-11-11 | 2008-11-11 |
+| RREGULLORE (K.J) 01/2008 PËR PUNËN E KUVENDIT TË KOMUNËS JUNIK | [`local/junik/2008/11697/`](local/junik/2008/11697/) | in force | 1 | 2008-12-26 | 2008-12-26 |
+| RREGULLORE (K.PR) 110-377 PËR LLOGARITJEN DHE PAGESËN E KOMPENSIMIT PËR RREGULLIMIN E TOKËS NDËRTIMORE | [`local/prishtine/2008/11709/`](local/prishtine/2008/11709/) | in force | 1 | 2008-04-03 | 2008-04-03 |
+| RREGULLORE (K.DR) 01/2008 PER DHËNJEN E LEJES | [`local/dragash/2008/11752/`](local/dragash/2008/11752/) | in force | 1 | 2008-11-08 | 2008-11-08 |
+| RREGULLORE (K.DR) 03/2008 MBI RUAJTJEN E TOKES BUJQËSORE | [`local/dragash/2008/11774/`](local/dragash/2008/11774/) | in force | 1 | 2008-09-11 | 2008-09-11 |
+| STATUTI (K.SK) 01-110-385 I KOMUNES SKENDERAJ | [`local/skenderaj/2008/11898/`](local/skenderaj/2008/11898/) | in force | 1 | 2008-12-03 | 2008-12-03 |
+| RREGULLORE (K.GJ) 01.nr.12480 PËR PUNËN E KUVENDIT TË KOMUNËS SË GJILANIT | [`local/gjilan/2008/12123/`](local/gjilan/2008/12123/) | in force | 1 | 2008-11-21 | 2008-11-21 |
+| RREGULLORE (K.SHT) PËR SIMBOLET, TITUJT E NDERIT, DEKORATAT, MEDALJET, MIRËNJOHJET DHE FALËNDERIMET | [`local/shtime/2009/11523/`](local/shtime/2009/11523/) | in force | 1 | 2009-05-27 | 2009-05-27 |
+| RREGULLORE (K.J) 07/2009 MBI KOMPENSIMET NË PROCEDURËN E KRYERJËS SË MBIKËQYRJES INSPEKTUESE PËR PËRMBUSHJEN E KUSHTEVE HIGJENIKE-TEKNIKE | [`local/junik/2009/11692/`](local/junik/2009/11692/) | in force | 1 | 2009-07-28 | 2009-07-28 |
+| RREGULLORE (K.GJK) 01/2009 PËR PUNEN E KUVENDIT TË KOMUNËS | [`local/gjakove/2009/11696/`](local/gjakove/2009/11696/) | in force | 1 | 2009-03-06 | 2009-03-06 |
+| RREGULLORE (K.J) 01/2009 MBI TARNSPARENCËN | [`local/junik/2009/11704/`](local/junik/2009/11704/) | in force | 1 | 2009-01-21 | 2009-01-21 |
+| RREGULLORE (K.PZ) 01/011-4099 PËR TARIFAT, NGARKESAT DHE GJOBAT NGA SHËRBIMET DHE VEPRIMTARITË KOMUNALE | [`local/prizren/2009/11708/`](local/prizren/2009/11708/) | in force | 1 | 2009-06-18 | 2009-06-18 |
+| RREGULLORE (K.J) 06/2009 PËR REKLAMIMIN DHE SHITJEN E MALLRAVE DHE ARTIKUJVE TË TJERË JASHTË LOKALIT AFARIST | [`local/junik/2009/11710/`](local/junik/2009/11710/) | in force | 1 | 2009-07-28 | 2009-07-28 |
+| RREGULLORE (K.J) 05/2009 PER LEJE PUNETE SUBJEKTEVE AFARISTE | [`local/junik/2009/11716/`](local/junik/2009/11716/) | in force | 1 | 2009-07-28 | 2009-07-28 |
+| RREGULLORE (K.PR) 110-286 PËR PËRDORIMIN E GJUHËVE | [`local/prishtine/2009/11724/`](local/prishtine/2009/11724/) | in force | 1 | 2009-07-12 | 2009-07-12 |
+| RREGULLORE (K.J) 03/2009 PËR RREGULLAT DHE PROCEDURAT PËR NDËRTIMIN E OBJEKTEVE | [`local/junik/2009/11732/`](local/junik/2009/11732/) | in force | 1 | 2009-06-26 | 2009-06-26 |
+| RREGULLORJA (K.PR) 35-1449 PËR TRAJTIMIN E NDËRTIMEVE PA LEJE | [`local/prishtine/2009/11734/`](local/prishtine/2009/11734/) | in force | 1 | 2009-07-23 | 2009-07-23 |
+| RREGULLORE ( K.DE ) 01.NR.XXI-2 MBI TARNSPARENCËN | [`local/decan/2009/11771/`](local/decan/2009/11771/) | in force | 1 | 2009-06-26 | 2009-06-26 |
+| RREGULLORE (K.DR) 01/2009 PËR PËRDORIMIN E GJUHËVE | [`local/dragash/2009/11787/`](local/dragash/2009/11787/) | in force | 1 | 2009-05-07 | 2009-05-07 |
+| RREGULLORE (K.DR) 02/2009 PËR SJELLJE DHE DISIPLINË | [`local/dragash/2009/11797/`](local/dragash/2009/11797/) | in force | 1 | 2009-05-29 | 2009-05-29 |
+| RREGULLORE (K.J) 01/2009 PËR TAKSA, NGARKESA DHE GJOBA KOMUNALE | [`local/junik/2009/11799/`](local/junik/2009/11799/) | in force | 1 | 2009-03-27 | 2009-03-27 |
+| RREGOLLORE (K.DR) 04/2009 RREGULLORE MBI KUSHTET DHE KRITERET PËR DHËNJEN ME QIRA TÊ PASURISË SË PALUAJTËSHME KOMUNALE | [`local/dragash/2009/11810/`](local/dragash/2009/11810/) | in force | 1 | 2009-08-04 | 2009-08-04 |
+| RREGULLORE (K.DE) 01-XXI-4 - PËR PËRDORIMIN E GJUHËVE ZYRTARE NË KOMUNËN E DEÇANIT | [`local/decan/2009/11937/`](local/decan/2009/11937/) | in force | 1 | 2009-06-26 | 2009-06-26 |
+| RREGULLORE (K.PD) 01-1/280-110 PËR KUSHTET DHE MËNYRËN E BLLOKIMIT DHE ZHVENDOSJES SË AUTOMJETEVE | [`local/podujeve/2009/12068/`](local/podujeve/2009/12068/) | amended, not consolidated | 1 | 2009-09-28 | 2009-09-28 |
+| RREGULLORE (K.GJK) 01-011-2784/2009 PËR TRANSPARENCË NË KOMUNËN E GJAKOVËS | [`local/gjakove/2009/12076/`](local/gjakove/2009/12076/) | in force | 1 | 2009-04-28 | 2009-04-28 |
+| RREGULLORE (K.GJK) 01-011-2784/2009 PËR PËRDORIMIN ZYRTAR TË GJUHËVE NË KOMUNËN E GJAKOVËS | [`local/gjakove/2009/12080/`](local/gjakove/2009/12080/) | in force | 1 | 2009-04-28 | 2009-04-28 |
+| STATUTI (K.KL) I KOMUNES SE KLINES | [`local/kline/2010/11484/`](local/kline/2010/11484/) | in force | 1 | 2010-03-31 | 2010-03-31 |
+| RREGULLORE (K.MJ) Nr. 01/2010 PËR KUSHTET DHE MËNYRËN E BLLOKIMIT DHE ZHVENDOSJES SË AUTOMJETEVE ME AUTOMERIMANGË | [`local/mitrovice-e-jugut/2010/11608/`](local/mitrovice-e-jugut/2010/11608/) | in force | 1 | 2010-07-29 | 2010-07-29 |
+| RREGULLORE (K.SHT) 01 Nr.06/1795-200 PËR INSTITUCIONET EDUKATIVO-ARSIMORE TË KOMUNËS SЁ SHTIMES | [`local/shtime/2010/11616/`](local/shtime/2010/11616/) | in force | 1 | 2010-09-15 | 2010-09-15 |
+| STATUTI (K.PR) 110-391 I KOMUNËS SË PRISHTINËS 2010 | [`local/prishtine/2010/11700/`](local/prishtine/2010/11700/) | in force | 1 | 2010-02-25 | 2010-02-25 |
+| RREGULLORJA (K.PR) 110-392 E PUNËS SË KUVENDIT DHE TË KOMITETEVE | [`local/prishtine/2010/11753/`](local/prishtine/2010/11753/) | in force | 1 | 2010-02-25 | 2010-02-25 |
+| RREGULLORE (K.PR) 110-1202 PËR DHËNIEN E LEJES SË PUNËS ORGANIZATAVE TË BIZNESIT NË KOMUNËN E PRISHTINËS | [`local/prishtine/2010/11764/`](local/prishtine/2010/11764/) | in force | 1 | 2010-06-16 | 2010-06-16 |
+| RREGULlORE (K.PR) 110-1205 PËR SHËRBIMIN E TRANSPORTIT ME “MERIMANGË” NË TERRITORIN E KOMUNËS SË PRISHTINËS | [`local/prishtine/2010/11773/`](local/prishtine/2010/11773/) | in force | 1 | 2010-06-16 | 2010-06-16 |
+| RREGULLORE (K.DE) 01.NR.III/8 PËR LEJET PËR USHTRIMIN E VEPRIMTARIVE AFARISTE | [`local/decan/2010/11950/`](local/decan/2010/11950/) | in force | 1 | 2010-02-26 | 2010-02-26 |
+| RREGULLORE (K.GJ) PËR ORGANIZIMIN DHE BASHKËPUNIMIN E KOMUNËS ME FSHATRAT, VENDBANIMET DHE LAGJET URBANE | [`local/gjilan/2010/12102/`](local/gjilan/2010/12102/) | in force | 1 | 2010-07-09 | 2010-07-09 |
+| RREGULLORE (K.PD) 01-148-350 PËR TAKSA TARIFA DHE GJOBA KOMUNALE | [`local/podujeve/2010/12132/`](local/podujeve/2010/12132/) | repealed, not consolidated | 1 | 2010-04-29 | 2010-04-29 |
+| VENDIM (Komuna e Prishtinës) | [`local/prishtine/2011/9025/`](local/prishtine/2011/9025/) | in force | 1 | 2011-06-07 | 2011-06-07 |
+| VENDIM PRELIMINAR Nr. 465-2451 (Komuna e Prishtinës) | [`local/prishtine/2011/9046/`](local/prishtine/2011/9046/) | in force | 1 | 2011-10-27 | 2011-10-27 |
+| VENDIM Nr. 465-2586 (Komuna e Prishtinës) | [`local/prishtine/2011/9052/`](local/prishtine/2011/9052/) | in force | 1 | 2011-11-14 | 2011-11-14 |
+| VENDIM PRELIMINAR Nr. 465-3002 (Komuna e Prishtinës) | [`local/prishtine/2011/9059/`](local/prishtine/2011/9059/) | in force | 1 | 2011-12-15 | 2011-12-15 |
+| RREGELLORE(K.SHT)- 01-06/781-109 PËR CAKTIMIN E KRITEREVE PËR NDARJEN E SUBVENCIONEVE DHE TRANSFEREVE | [`local/shtime/2011/11602/`](local/shtime/2011/11602/) | in force | 1 | 2011-04-29 | 2011-04-29 |
+| RREGULLORE (K.J) 01/2011 PER MIRËMBAJTJEN E PASTËRTISË NË TERRITORIN E KOMUNËS SË JUNIKUT | [`local/junik/2011/11792/`](local/junik/2011/11792/) | in force | 1 | 2011-02-28 | 2011-02-28 |
+| RREGULLORE (K.PR) 110-2131 PËR TË HYRAT VETANAKE TË INSTITUCIONEVE ARSIMORE | [`local/prishtine/2011/11796/`](local/prishtine/2011/11796/) | amended, not consolidated | 1 | 2011-09-20 | 2011-09-20 |
+| RREGULLORE (K.PR) 110-2250 PËR TATIM NË PRONËN E PALUAJTSHME | [`local/prishtine/2011/11801/`](local/prishtine/2011/11801/) | in force | 1 | 2011-10-05 | 2011-10-05 |
+| RREGULLORE (K.PR) 360-2803 PËR DHËNIEN E BANESAVE TË KOMUNËS SË PRISHTINËS NË SHFRYTËZIM ME QIRA PËR ANËTARËT E FAMILJEVE TË DËSHMORËVE, INVALIDËVE DHE VETERANËVE TË USHTRISË ÇLIRIMTARE TË KOSOVËS | [`local/prishtine/2011/11811/`](local/prishtine/2011/11811/) | in force | 1 | 2011-12-06 | 2011-12-06 |
+| RREGULLORE (K.DE) 01.NR.VI-2 PËR MENAGJIMIN E MBETURINAVE NË KOMUNËN E DEÇANIT | [`local/decan/2011/11929/`](local/decan/2011/11929/) | in force | 1 | 2011-06-30 | 2011-06-30 |
+| RREGULLORE (K.DE) 01.NR.I-3 PËR TË DREJTAT , DETYRAT DHE PËRGJEGJËSITË E NXËNËSVE TË SHKOLLAVE TË MESME TË LARTA NË KOMUNËN E DEÇANIT | [`local/decan/2011/11943/`](local/decan/2011/11943/) | in force | 1 | 2011-01-28 | 2011-01-28 |
+| RREGULLORE (K.DE) 01.NR.VI-3 PËR TRAJTIMIN E NDËRTIMEVE PA LEJE | [`local/decan/2011/11945/`](local/decan/2011/11945/) | in force | 1 | 2011-06-30 | 2011-06-30 |
+| RREGULLORE (K.PD) 01/116-110 PËR USHTRIMIN E VEPRIMATRISË SË TRANSPORTIT TAKSI TË UDHËTARËVE | [`local/podujeve/2011/12061/`](local/podujeve/2011/12061/) | repealed, not consolidated | 1 | 2011-06-30 | 2011-06-30 |
+| RREGULLORE (K.PD) 01/17-02 PËR PËRBËRJEN KOMPETENCAT DHE RREGULLAT E PUNËS TË KOMITETEVE DHE KOMISIONEVE TË KUVENDIT TË KOMUNËS SË PODUJEVËS | [`local/podujeve/2011/12065/`](local/podujeve/2011/12065/) | in force | 1 | 2011-01-31 | 2011-01-31 |
+| RREGULLORE (K.GJ) 01.NR.16/17876 PËR KOMPENSIM TË PAGËS PËR ISH ZYRTATARËT E LARTË | [`local/gjilan/2011/12095/`](local/gjilan/2011/12095/) | in force | 1 | 2011-07-15 | 2011-07-15 |
+| STATUTI (K.VI) 01-013-491 I KOMUNËS SË VITISË | [`local/viti/2011/12157/`](local/viti/2011/12157/) | in force | 1 | 2011-04-21 | 2011-04-21 |
+| VENDIM PËRFUNDIMTAR Nr. 465-4143 (Komuna e Prishtinës) | [`local/prishtine/2012/9075/`](local/prishtine/2012/9075/) | in force | 1 | 2012-02-08 | 2012-02-08 |
+| VENDIM Nr. 465-28054 (Komuna e Prishtinës) | [`local/prishtine/2012/9113/`](local/prishtine/2012/9113/) | in force | 1 | 2012-08-03 | 2012-08-03 |
+| VENDIM PËRFUNDIMTAR Nr. 465-38064 (Komuna e Prishtinës) | [`local/prishtine/2012/9129/`](local/prishtine/2012/9129/) | in force | 1 | 2012-10-19 | 2012-10-19 |
+| RREGULLORE (K.SHT) KOMUNALE PËR NDARJEN E BURSAVE PËR STUDENTË | [`local/shtime/2012/11511/`](local/shtime/2012/11511/) | in force | 1 | 2012-03-30 | 2012-03-30 |
+| RREGULLORE (K.IS) - 42/2012 PËR DISIPLINËN DHE KODIN E MIRËSJELLJES NË SHKOLLAT E KOMUNËS SË ISTOGUT | [`local/istog/2012/11521/`](local/istog/2012/11521/) | in force | 1 | 2012-10-31 | 2012-10-31 |
+| RREGULLORE (K.IS) 53/2012 PËR PROCEDURAT E DHËNIES SË OBJEKTEVE DHE TOKËS KOMUNALE NË SHFRYTËZIM AFATSHKURTËR PËRMES ANKANDIT PUBLIK | [`local/istog/2012/11532/`](local/istog/2012/11532/) | in force | 1 | 2012-12-21 | 2012-12-21 |
+| RREGULLORE (K.PR) 110-48364 PËR MENAXHIMIN E MBETURINAVE NË TERRITORIN E KOMUNËS SË PRISHTINËS | [`local/prishtine/2012/11829/`](local/prishtine/2012/11829/) | repealed, not consolidated | 1 | 2012-12-28 | 2012-12-28 |
+| RREGULLORE (K.PR) 344-3707 PËR KUSHTET DHE KRITERET PËR USHTRIMIN E VEPRIMTARISË SË TRANSPORTIT TAKSI TË UDHËTARËVE | [`local/prishtine/2012/11831/`](local/prishtine/2012/11831/) | repealed, not consolidated | 1 | 2012-01-31 | 2012-01-31 |
+| RREGULLORE (K.MB) 01NR.03/12 PER ORGANIZIMIN E MBRENDSHEM TE ADMINISTRATES SE KOMUNES SE MAMUSHES | [`local/mamushe/2012/11934/`](local/mamushe/2012/11934/) | in force | 1 | 2012-11-20 | 2012-11-20 |
+| RREGULLORE (K.MB) 01NR.01-12 PËR ORARIN E PUNËS TË SUBJEKTEVE AFARISTE NË TERRITORIN E KOMUNËS SË MAMUSHËS | [`local/mamushe/2012/11953/`](local/mamushe/2012/11953/) | in force | 1 | 2012-02-28 | 2012-02-28 |
+| RREGULLORE (K.PD) 01-111-400 PËR CAKTIMIN E KRITEREVE PËR NDARJE TË MJETEVE BUXHETORE NGA KATEGORIA SUBVENCIONE DHE TRANSFERE | [`local/podujeve/2012/12085/`](local/podujeve/2012/12085/) | repealed, not consolidated | 1 | 2012-05-28 | 2012-05-28 |
+| RREGULLORE (K.PD) 01-172-400 PËR NDRYSHIMIN DHE PLOTËSIMIN E RREGULLORES PËR CAKTIMIN E KRITEREVE PËR NDARJE T MJETEVE BUXHETORE NGA KATEGORIA SUBVECIONE DHE TRANSFERE | [`local/podujeve/2012/12090/`](local/podujeve/2012/12090/) | amending act | 1 | 2012-09-27 | 2012-09-27 |
+| VENDIM (K.PD) 01/15-10 PËR NDRYSHIMIN DHE PLOTËSIMIN E STATUTIT TË KOMUNËS SË PODUJEVËS | [`local/podujeve/2012/12112/`](local/podujeve/2012/12112/) | amending act | 1 | 2012-01-30 | 2012-01-30 |
+| RREGULLORE (K.PD) 01/238-431 PËR NDRYSHIMIN DHE PLOTËSIMIN E RREGULLORES PËR TAKSA TARIFA DHE GJOBA KOMUNALE | [`local/podujeve/2012/12147/`](local/podujeve/2012/12147/) | repealed, not consolidated | 1 | 2012-12-17 | 2012-12-17 |
+| VENDIM PËRFUNDIMTAR 325/13 (Komuna e Vushtrrisë) | [`local/vushtrri/2013/9180/`](local/vushtrri/2013/9180/) | in force | 1 | 2013-03-20 | 2013-03-20 |
+| VENDIM PRËRFUNDIMTAR Nr. 10914 (Komuna e Rahovecit) | [`local/rahovec/2013/9195/`](local/rahovec/2013/9195/) | in force | 1 | 2013-04-24 | 2013-04-24 |
+| VENDIM PËRFUNDIMTAR Nr. 465-75900 (Komuna e Prishtinës) | [`local/prishtine/2013/9203/`](local/prishtine/2013/9203/) | in force | 1 | 2013-05-28 | 2013-05-28 |
+| VENDIM PËRFUNDIMTAR Nr. 465-102334 (Komuna e Prishtinës) | [`local/prishtine/2013/9212/`](local/prishtine/2013/9212/) | in force | 1 | 2013-07-02 | 2013-07-02 |
+| VENDIM PRELIMINAR Nr. 465-110330 (Komuna e Prishtinës) | [`local/prishtine/2013/9216/`](local/prishtine/2013/9216/) | in force | 1 | 2013-07-11 | 2013-07-11 |
+| VENDIM PËRFUNDIMTAR Nr. 465-122999 (Komuna e Prishtinës) | [`local/prishtine/2013/9223/`](local/prishtine/2013/9223/) | in force | 1 | 2013-07-24 | 2013-07-24 |
+| VENDIM Nr. 465-197289 (Komuna e Prishtinës) | [`local/prishtine/2013/9248/`](local/prishtine/2013/9248/) | in force | 1 | 2013-10-25 | 2013-10-25 |
+| VENDIM Nr. 465-203598 (Komuna e Prishtinës) | [`local/prishtine/2013/9251/`](local/prishtine/2013/9251/) | in force | 1 | 2013-10-31 | 2013-10-31 |
+| VENDIM PËRFUNDIMTAR 1356/13 (Komuna e Vushtrrisë) | [`local/vushtrri/2013/9257/`](local/vushtrri/2013/9257/) | in force | 1 | 2013-11-25 | 2013-11-25 |
+| VENDIM PËRFUNDIMTAR 1354/13 (Komuna e Vushtrrisë) | [`local/vushtrri/2013/9259/`](local/vushtrri/2013/9259/) | in force | 1 | 2013-11-25 | 2013-11-25 |
+| RREGULLORE (K.SHT) 01 06/914PËR PROMOVIMIN DHE FUQIZIMIN E VULLNETARIZMIT NË KOMUNËN E SHTIMES | [`local/shtime/2013/11620/`](local/shtime/2013/11620/) | in force | 1 | 2013-04-30 | 2013-04-30 |
+| RREGULLORE (K.SHT) 01. 06/914 PËR PROCEDURAT E THEMELIMIT DHE FUNKSIONIMIT TË KËSHILLIT TË VEPRIMIT RINOR TË KOMUNËS SË SHTIMES | [`local/shtime/2013/11623/`](local/shtime/2013/11623/) | in force | 1 | 2013-04-30 | 2013-04-30 |
+| RREGULLORE (K.PR) 110-50569 PËR FUQIZIMIN DHE PROMOVIMIN E VULLNETARIZMIT NË KOMUNËN E PRISHTINËS | [`local/prishtine/2013/11838/`](local/prishtine/2013/11838/) | in force | 1 | 2013-04-11 | 2013-04-11 |
+| RREGULLORE (K.PR) 110-41917 PËR NDARJEN E BURSAVE PËR STUDENTË TË KOMUNËS SË PRISHTINËS | [`local/prishtine/2013/11840/`](local/prishtine/2013/11840/) | in force | 1 | 2013-03-29 | 2013-03-29 |
+| RREGULLORE (K.PR) 110-50566 PËR PROCEDURAT E THEMELIMIT DHE FUNKSIONIMIT TË KËSHILLIT TË VEPRIMIT RINOR TË KOMUNËS SË PRISHTINËS | [`local/prishtine/2013/11841/`](local/prishtine/2013/11841/) | in force | 1 | 2013-04-11 | 2013-04-11 |
+| RREGULLORE (K.PR) 110-41910 PËR TRANSPORTIN RRUGOR NË TERRITORIN E KOMUNËS SË PRISHTINËS | [`local/prishtine/2013/11842/`](local/prishtine/2013/11842/) | in force | 1 | 2013-03-29 | 2013-03-29 |
+| STATUTI 01.NR. 110-50574 I ARKIVIT KOMUNAL TË PRJSHTINËS | [`local/prishtine/2013/90425/`](local/prishtine/2013/90425/) | in force | 1 | 2013-04-11 | 2013-04-11 |
+| VENDIM PËRFUNDIMTAR Nr. 465-63777 (Komuna e Prishtinës) | [`local/prishtine/2014/9366/`](local/prishtine/2014/9366/) | in force | 1 | 2014-03-25 | 2014-03-25 |
+| VENDIM PRELIMINAR - PLOTËSUES 01-55/14 (Komuna e Prizrenit) | [`local/prizren/2014/9390/`](local/prizren/2014/9390/) | in force | 1 | 2014-04-03 | 2014-04-03 |
+| VENDIM PRELIMINAR Nr. 465-84503 (Komuna e Prishtinës) | [`local/prishtine/2014/9429/`](local/prishtine/2014/9429/) | in force | 1 | 2014-04-17 | 2014-04-17 |
+| VENDIM PËRFUNDIMTAR Nr. 465-139980 (Komuna e Prishtinës) | [`local/prishtine/2014/9533/`](local/prishtine/2014/9533/) | in force | 1 | 2014-06-17 | 2014-06-17 |
+| VENDIM PRELIMINAR Nr. 01-111/14 (Komuna e Prizrenit) | [`local/prizren/2014/9624/`](local/prizren/2014/9624/) | in force | 1 | 2014-07-29 | 2014-07-29 |
+| VENDIM Nr. 465-250473 (Komuna e Prishtinës) | [`local/prishtine/2014/10408/`](local/prishtine/2014/10408/) | in force | 1 | 2014-11-11 | 2014-11-11 |
+| VENDIM PËRFUNDIMTAR 1411/14 (Komuna e Vushtrrisë) | [`local/vushtrri/2014/10427/`](local/vushtrri/2014/10427/) | in force | 1 | 2014-11-18 | 2014-11-18 |
+| VENDIM Nr. 465-272511 (Komuna e Prishtinës) | [`local/prishtine/2014/10495/`](local/prishtine/2014/10495/) | in force | 1 | 2014-12-15 | 2014-12-15 |
+| VENDIM PRELIMINAR Nr. 465-280538 (Komuna e Prishtinës) | [`local/prishtine/2014/10556/`](local/prishtine/2014/10556/) | in force | 1 | 2014-12-26 | 2014-12-26 |
+| RREGULLORE (K.IS) 01-91/14 PËR TRANSPORTIN RRUGOR NË TERITORIN E KOMUNËS SË ISTOGUT | [`local/istog/2014/11462/`](local/istog/2014/11462/) | in force | 1 | 2014-12-30 | 2014-12-30 |
+| RREGULLORE (K.IS) 42/2014 PËR NDARJËN E SUBVENCIONEVE | [`local/istog/2014/11514/`](local/istog/2014/11514/) | in force | 1 | 2014-06-30 | 2014-06-30 |
+| RREGULLORE (K.SHT) 01.006/10911 MBI TRANSPARENCËN | [`local/shtime/2014/11628/`](local/shtime/2014/11628/) | in force | 1 | 2014-04-30 | 2014-04-30 |
+| STATUTI (K.IS)-55/2014 NDRYSHIMI DHE PLOTËSIMI I STATUTI TË KOMUNËS SË ISTOGUT | [`local/istog/2014/11667/`](local/istog/2014/11667/) | amending act | 1 | 2014-07-31 | 2014-07-31 |
+| RREGULLORE (K.RH) 01.2558/2014 PËR VENDOSJEN E OBJEKTEVE TË PËRKOHSHME NË TERITORIN E KOMUNËS SË RAHOVECIT | [`local/rahovec/2014/11776/`](local/rahovec/2014/11776/) | in force | 1 | 2014-06-27 | 2014-06-27 |
+| RREGULLORE (K.GLL) 06-7086/2014 PER TRANSPORTIN RRUGOR NE TERRITORIN E KOMUNES SE GLLOGOCIT | [`local/drenas/2014/11785/`](local/drenas/2014/11785/) | in force | 1 | 2014-02-13 | 2014-02-13 |
+| RREGULLORE (K.DE) 01.NR.VI-4 MBI TATIMIN NË PRONË | [`local/decan/2014/11805/`](local/decan/2014/11805/) | repealed, not consolidated | 1 | 2014-09-26 | 2014-09-26 |
+| RREGULLORE (K.PR) 110-157481 PËR VENDOSJEN, NDËRTIMIN DHE LARGIMIN E OBJEKTEVE TË PËRKOHSHME NË PRONËN PUBLIKE | [`local/prishtine/2014/11844/`](local/prishtine/2014/11844/) | in force | 1 | 2014-07-01 | 2014-07-01 |
+| RREGULLORE (K.PR) 110-157460 PËR TË HYRAT VETANAKE TË INSTITUCIONEVE ARSIMORE | [`local/prishtine/2014/11846/`](local/prishtine/2014/11846/) | in force | 1 | 2014-07-01 | 2014-07-01 |
+| RREGULLORE (K.PR) 110-230158 PËR TATIM NË PRONËN E PALUAJTSHME | [`local/prishtine/2014/11851/`](local/prishtine/2014/11851/) | repealed, not consolidated | 1 | 2014-10-03 | 2014-10-03 |
+| RREGULLORE (K.PR) 110-230121 PËR RENDIN E BRENDSHËM NË PARKUN E GËRMISË | [`local/prishtine/2014/11855/`](local/prishtine/2014/11855/) | in force | 1 | 2014-10-02 | 2014-10-02 |
+| RREGULLORE (K.PR) 031-249296 PËR HAPJEN E KUTIVE TË ANKESAVE | [`local/prishtine/2014/11857/`](local/prishtine/2014/11857/) | in force | 1 | 2014-10-30 | 2014-10-30 |
+| RREGULLORE (K.PR) 110-273423 PËR PROCEDURËN E THEMELIMIT, PËRBËRJEN DHE KOMPETENCAT E KOMITETEVE TË PËRHERSHME NË KOMUNËN E PRISHTINËS | [`local/prishtine/2014/11862/`](local/prishtine/2014/11862/) | in force | 1 | 2014-12-09 | 2014-12-09 |
+| RREGULLORE (K.PR) 110-288305 PËR PROCEDURËN E NDËRTIMIT TË OBJEKTEVE ME KARAKTER TË PËRKOHSHËM NË PRONAT E PERSONAVE FIZIKË DHE JURIDIK | [`local/prishtine/2014/11863/`](local/prishtine/2014/11863/) | in force | 1 | 2014-12-31 | 2014-12-31 |
+| RREGULLORE (K.PR) 110-67041 PËR MENAXHIMIN E VARREZAVE DHE OBJEKTIT KOMEMORATIV NË KOMUNËN E PRISHTINËS | [`local/prishtine/2014/11865/`](local/prishtine/2014/11865/) | in force | 1 | 2014-03-24 | 2014-03-24 |
+| RREGULLORE (K.DE) 01.NR.XI-2 PËR ORGANIZIMIN DHE BASHKËPUNIMIN E KOMUNËS ME FSHATRAT, VENDBANIMET DHE LAGJET URBANE NË TERRITORIN E KOMUNËS SË DEÇANIT | [`local/decan/2014/11933/`](local/decan/2014/11933/) | amended, not consolidated | 1 | 2014-12-30 | 2014-12-30 |
+| RREGULLORE (K.MB) 01NR.021/14 PËR TAKSA, TARIFA, NGARKESA ADMINISTRATIVE DHE SHËRBIMEVE TË TJERA KOMUNALE | [`local/mamushe/2014/11941/`](local/mamushe/2014/11941/) | in force | 1 | 2014-06-27 | 2014-06-27 |
+| RREGULLORE (K.GJ) 01. NR. 016-144326 PËR SIGURI NË PUNË | [`local/gjilan/2014/12027/`](local/gjilan/2014/12027/) | in force | 1 | 2014-02-12 | 2014-02-12 |
+| RREGULLORE (K.GJ) 01. NR. 016-144327 PËR SUBVENCIONE | [`local/gjilan/2014/12032/`](local/gjilan/2014/12032/) | in force | 1 | 2014-02-12 | 2014-02-12 |
+| RREGULLORE (K.PD) 01-346-64153 PËR NDRYSHIMIN DHE PLOTËSIMIN E RREGULLORES PËR KUSHTET DHE MËNYRËN E BLLOKIMIT DHE ZHVENDOSJES SË AUTOMJETEVE | [`local/podujeve/2014/12077/`](local/podujeve/2014/12077/) | amending act | 1 | 2014-07-31 | 2014-07-31 |
+| STATUTI (K.SM) ST-01/2014-K.SM - STATUTI I MITROVICE E VERIUT | [`local/mitrovice-e-veriut/2014/12573/`](local/mitrovice-e-veriut/2014/12573/) | in force | 1 | 2014-05-15 | 2014-05-15 |
+| RREGULLORE 01-36643/2014 (K.KAM) MBI TRANSPARENCËN | [`local/kamenice/2014/15417/`](local/kamenice/2014/15417/) | in force | 1 | 2014-11-03 | 2014-11-03 |
+| VENDIM PËRFUNDIMTAR Nr. 465-68052 (Komuna e Prishtinës) | [`local/prishtine/2015/10759/`](local/prishtine/2015/10759/) | in force | 1 | 2015-03-26 | 2015-03-26 |
+| VENDIM PËRFUNDIMTAR Nr. 465-70906 (Komuna e Prishtinës) | [`local/prishtine/2015/10766/`](local/prishtine/2015/10766/) | in force | 1 | 2015-04-02 | 2015-04-02 |
+| VENDIM PRELIMINAR Nr. 465-96017 (Komuna e Prishtinës) | [`local/prishtine/2015/10828/`](local/prishtine/2015/10828/) | in force | 1 | 2015-05-08 | 2015-05-08 |
+| VENDIM Nr. 465-90538 (Komuna e Prishtinës) | [`local/prishtine/2015/10829/`](local/prishtine/2015/10829/) | in force | 1 | 2015-05-08 | 2015-05-08 |
+| VENDIM Nr. 465-118672 (Komuna e Prishtinës) | [`local/prishtine/2015/10891/`](local/prishtine/2015/10891/) | in force | 1 | 2015-06-10 | 2015-06-10 |
+| VENDIM PËRFUNDIMTAR Nr. 465-156919 (Komuna e Prishtinës) | [`local/prishtine/2015/10986/`](local/prishtine/2015/10986/) | in force | 1 | 2015-07-28 | 2015-07-28 |
+| VENDIM PËRFUNDIMTAR Nr. 893-15 (Komuna Vushtrri) | [`local/vushtrri/2015/11000/`](local/vushtrri/2015/11000/) | in force | 1 | 2015-08-11 | 2015-08-11 |
+| VENDIM PËRFUNDIMTAR Nr. 894-15 (Komuna Vushtrri) | [`local/vushtrri/2015/11001/`](local/vushtrri/2015/11001/) | in force | 1 | 2015-08-11 | 2015-08-11 |
+| VENDIM PËRFUNDIMTAR Nr. 465-205788 (Komuna e Prishtinës) | [`local/prishtine/2015/11099/`](local/prishtine/2015/11099/) | in force | 1 | 2015-09-21 | 2015-09-21 |
+| VENDIM Nr. 465-268551 (Komuna e Prishtinës) | [`local/prishtine/2015/11248/`](local/prishtine/2015/11248/) | in force | 1 | 2015-12-07 | 2015-12-07 |
+| RREGULLORE (K.IS) 01-60/2015 PËR NDARJEN E BURSAVE PËR STUDENT | [`local/istog/2015/11458/`](local/istog/2015/11458/) | repealed, not consolidated | 1 | 2015-06-29 | 2015-06-29 |
+| RREGULLORE (K.MJ) NR. 02/2015 MBI PËRGJEGJËSINË DISIPLINORE DHE MATERIALE TË PUNONJËSVE NË INSTITUCIONET EDUKATIVO – ARSIMORE DHE AFTËSUESE NË KOMUNËN E MITROVICËS | [`local/mitrovice-e-jugut/2015/11468/`](local/mitrovice-e-jugut/2015/11468/) | in force | 1 | 2015-05-28 | 2015-05-28 |
+| RREGULLORE (K.MJ) NR. 03/2015 PËR TATIM NË PRONËN E PALUAJTSHME | [`local/mitrovice-e-jugut/2015/11478/`](local/mitrovice-e-jugut/2015/11478/) | repealed, not consolidated | 1 | 2015-11-26 | 2015-11-26 |
+| RREGULLORE(K.IS) 48/2015-PËR MIRËMBAJTJEN,RREGULLIMIN DHE RUAJTJEN E VARREZAVE | [`local/istog/2015/11479/`](local/istog/2015/11479/) | in force | 1 | 2015-05-29 | 2015-05-29 |
+| RREGULLORE (K.MJ) NR. 04/2015 PËR FUQIZIMIN DHE PROMOVIMIN E VULLNETARIZMIT NË KOMUNË | [`local/mitrovice-e-jugut/2015/11481/`](local/mitrovice-e-jugut/2015/11481/) | in force | 1 | 2015-11-26 | 2015-11-26 |
+| RREGULLORE (K.MJ) NR. 05/2015 PËR NDRYSHIM-PLOTËSIMIN E RREGULLORES NR. 10/2013 PËR NDARJEN E BURSAVE PËR STUDENTË | [`local/mitrovice-e-jugut/2015/11487/`](local/mitrovice-e-jugut/2015/11487/) | amending act | 1 | 2015-11-26 | 2015-11-26 |
+| RREGULLORE (K.SHT) PËR BASHKPUNIMIN E KOMUNËS ME FSHATRA DHE LAGJE URBANE | [`local/shtime/2015/11567/`](local/shtime/2015/11567/) | in force | 1 | 2015-03-27 | 2015-03-27 |
+| RREGULLORE (K.IS) 80/2015 PËR VENDOSJEN E TATIMIT NË PRONË TË PALUAJTSHME | [`local/istog/2015/11582/`](local/istog/2015/11582/) | in force | 1 | 2015-09-28 | 2015-09-28 |
+| RREGULLORE (K.IS) 17/2015 KOMUNALE PËR TAKSA, NGARKESA DHE GJOBA | [`local/istog/2015/11605/`](local/istog/2015/11605/) | in force | 1 | 2015-02-27 | 2015-02-27 |
+| RREGULLORE (K.SHT) 01. 06/1656 KOMUNALE PËR TAKSA NGARKESA DHE GJOBA PËR VITIN 2015 | [`local/shtime/2015/11631/`](local/shtime/2015/11631/) | in force | 1 | 2015-01-30 | 2015-01-30 |
+| RREGULLORE (K.SHT) 01.006/32960 PËR MBROJTJEN E TË MITURVE NGA DUKURITË QË DËMTOJNË SHËNDETIN DHE ZHVILLIMIN E TYRE | [`local/shtime/2015/11644/`](local/shtime/2015/11644/) | in force | 1 | 2015-12-30 | 2015-12-30 |
+| RREGULLORE (K.DE) 01.NR.III-2 PËR KUSHTET E MBAJTJES SË QENVE DHE MËNYRËN E VEPRIMIT NË RAST TË BRAKTISJES OSE HUMBJES SË TYRE DHE STREHIMORJA E QENVE ENDACAK | [`local/decan/2015/11791/`](local/decan/2015/11791/) | in force | 1 | 2015-03-30 | 2015-03-30 |
+| RREGULLORE ( K.DE ) 01.NR.IX-3 MBI TATIMIN NË PRONË | [`local/decan/2015/11849/`](local/decan/2015/11849/) | in force | 1 | 2015-09-29 | 2015-09-29 |
+| RREGULLORE ( K.DE ) 01.NR.XII-2 PËR MBROJTJEN E TË MITURVE NGA DUKURITË QË DËMTOJNË SHËNDETIN DHE ZHVILLIMIN E TYRE | [`local/decan/2015/11916/`](local/decan/2015/11916/) | in force | 1 | 2015-12-29 | 2015-12-29 |
+| RREGULLORE (K.GJ) 01. NR. 016-41876 PËR TRANSPARENCË | [`local/gjilan/2015/12039/`](local/gjilan/2015/12039/) | in force | 1 | 2015-02-04 | 2015-02-04 |
+| RREGULLORE (K.GJ.) 01. nr. 016-41806 PËR MBROJTJEN E FËMIJËVE | [`local/gjilan/2015/12043/`](local/gjilan/2015/12043/) | in force | 1 | 2015-02-04 | 2015-02-04 |
+| RREGULLORE (K.PD) 01-006-16407 PËR MENAXHIMIN E MBETURINAVE NË TERRITORIN E KOMUNËS SË PODUJEVËS | [`local/podujeve/2015/12045/`](local/podujeve/2015/12045/) | repealed, not consolidated | 1 | 2015-02-04 | 2015-02-04 |
+| RREGULLORE (K.GJ.) nr. 016-60795 PËR KOMPETENCAT E KOMITETEVE | [`local/gjilan/2015/12048/`](local/gjilan/2015/12048/) | in force | 1 | 2015-02-06 | 2015-02-06 |
+| RREGULLORE (K.GJ.) 01.Nr._016-95815 PËR TATIMIN NË PRONË | [`local/gjilan/2015/12049/`](local/gjilan/2015/12049/) | in force | 1 | 2015-02-09 | 2015-02-09 |
+| RREGULLORE (K.GJ.) 01.nr.016-122568 PLOTËSIM DHE NDRYSHIM TË RREGULLORES PËR TAKSANGARKESA DHE GJOBA KOMUNALE | [`local/gjilan/2015/12056/`](local/gjilan/2015/12056/) | amending act | 1 | 2015-02-12 | 2015-02-12 |
+| VENDIM (K.GJ) 01.nr.016-9252 PËR APROVIMIN E PROCESVERBALIT TE SEANCËS SË TREMBËDHJETË TË KUVENDIT TË KOMUNËS SË GJILANIT | [`local/gjilan/2015/12064/`](local/gjilan/2015/12064/) | in force | 1 | 2015-01-27 | 2015-01-27 |
+| STATUT (K.GJ) 01.Nr. 016-105965 I QENDRËS KRYESORE TË MJEKËSISË FAMILJARE | [`local/gjilan/2015/12072/`](local/gjilan/2015/12072/) | in force | 1 | 2015-10-30 | 2015-10-30 |
+| RREGULLORE 01-16559/2015 (K.KAM) MBI TRANSPARENCËN | [`local/kamenice/2015/15419/`](local/kamenice/2015/15419/) | in force | 1 | 2015-06-04 | 2015-06-04 |
+| VENDIM PRELIMINAR Nr. 465-11542 (Komuna e Prishtinës) | [`local/prishtine/2016/11670/`](local/prishtine/2016/11670/) | in force | 1 | 2016-01-26 | 2016-01-26 |
+| RREGULLORE (K.FR) NR.134 PËR MBROJTJEN E TË MITURVE NGA DUKURITË QË DËMTOJNË SHËNDETIN DHE ZHVILLIMIN E TYRE | [`local/ferizaj/2016/11968/`](local/ferizaj/2016/11968/) | in force | 1 | 2016-02-12 | 2016-02-12 |
+| RREGULLORE (K.GJ.) 01.nr.016-114541 PËR KOMPETENCAT DHE PËRGJEGJËSITË E ADMINISTRATËS KOMUNALE | [`local/gjilan/2016/12053/`](local/gjilan/2016/12053/) | in force | 1 | 2016-02-11 | 2016-02-11 |
+| RREGULLORE (K.VI) 01-013-254 PËR DHENJEN E LEJEVE MJEDISORE KOMUNALE (LMK) | [`local/viti/2016/12207/`](local/viti/2016/12207/) | in force | 1 | 2016-03-07 | 2016-03-07 |
+| RREGULLORE (K.VI) 01-013-372 PËR VENDOSJËN, NDËRTIMIN DHE LARGIMIN E OBJEKTEVE TË PËRKOHSHME NË PRONËN PUBLIKE | [`local/viti/2016/12378/`](local/viti/2016/12378/) | in force | 1 | 2016-04-19 | 2016-04-19 |
+| VENDIM PRELIMINAR-PLOTËSUES Nr. 01-33/16 (Komuna e Prizrenit) | [`local/prizren/2016/12382/`](local/prizren/2016/12382/) | in force | 1 | 2016-04-20 | 2016-04-20 |
+| STATUTI (K.IS)-36/2016 PËR QENDRËS KRYESORE TË MJEKËSISË FAMILJARE | [`local/istog/2016/12445/`](local/istog/2016/12445/) | in force | 1 | 2016-05-17 | 2016-05-17 |
+| VENDIM PËRFUNDIMTAR Nr. 01-465-111624 (Komuna e Prishtinës) | [`local/prishtine/2016/12446/`](local/prishtine/2016/12446/) | in force | 1 | 2016-05-17 | 2016-05-17 |
+| RREGULLORE (K.PD)01-006-26348 PËR NDRYSHIMIN DHE PLOTËSIMIN E RREGULLORES PËR CAKTIMIN E KRITEREVE PËR NDARJEN E MJETEVE BUXHETORE NGA KATEGORIA EKONOMIKE SUBVENCIONE DHE TRANSFERE | [`local/podujeve/2016/12527/`](local/podujeve/2016/12527/) | amending act | 1 | 2016-06-14 | 2016-06-14 |
+| VENDIM Nr. 465-232791 (Komuna e Prishtinës) | [`local/prishtine/2016/12869/`](local/prishtine/2016/12869/) | in force | 1 | 2016-09-23 | 2016-09-23 |
+| RREGULLORE Nr. 016-30397 (K.GJL) PËR NDRYSHIMIN DHE PLOTËSIMIN E RREGULLORES PËR TAKSA, NGARKESA DHE GJOBA KOMUNALE, | [`local/gjilan/2016/12872/`](local/gjilan/2016/12872/) | amending act | 1 | 2016-09-26 | 2016-09-26 |
+| VENDIM Nr. 465-292588 (Komuna e Prishtinës) | [`local/prishtine/2016/13147/`](local/prishtine/2016/13147/) | in force | 1 | 2016-12-09 | 2016-12-09 |
+| VENDIM PRELIMINAR Nr. 465-306709 (Komuna e Prishtinës) | [`local/prishtine/2016/13212/`](local/prishtine/2016/13212/) | in force | 1 | 2016-12-29 | 2016-12-29 |
+| RREGULLORE 016-296053 (K.PR) MBI TAKSËN ADMINISTRATIVE PËR DHËNIEN E LEJES SË NDËRTIMIT DHE TARIFËN PËR RREGULLIMIN E INFRASTRUKTURËS | [`local/prishtine/2016/15291/`](local/prishtine/2016/15291/) | repealed, not consolidated | 1 | 2016-12-06 | 2016-12-06 |
+| RREGULLORE 01-01-16 (K.MA) PËR TRANSPARENCËN DHE QASJE NË DOKUMENTE PUBLIKE | [`local/mamushe/2016/15299/`](local/mamushe/2016/15299/) | in force | 1 | 2016-04-27 | 2016-04-27 |
+| RREGULLORE 01/2016 (K.MJ) PËR KRITERET PËR VENDOSJEN E OBJEKTEVE TË PËRKOHSHME NË HAPËSIRA PUBLIKE | [`local/mitrovice-e-jugut/2016/15323/`](local/mitrovice-e-jugut/2016/15323/) | amended, not consolidated | 1 | 2016-01-28 | 2016-01-28 |
+| RREGULLORE (K.MJ) NR. 03/2016 PËR MENAXHIMIN E MBETURINAVE | [`local/mitrovice-e-jugut/2016/15325/`](local/mitrovice-e-jugut/2016/15325/) | repealed, not consolidated | 1 | 2016-05-26 | 2016-05-26 |
+| RREGULLORE (K.MJ) NR. 02/2016 PËR PLOTËSIM TË RREGULLORES NR. 01/2016 PËR KRITERET PËR VENDOSJEN E OBJEKTEVE TË PËRKOHSHME NË HAPËSIRAT PUBLIKE | [`local/mitrovice-e-jugut/2016/15335/`](local/mitrovice-e-jugut/2016/15335/) | amended, not consolidated | 1 | 2016-03-31 | 2016-03-31 |
+| RREGULLORE NR. 04/2016 PËR VLERËSIMIN PROFESIONAL TË FËMIJËVE ME NEVOJA TË VEÇANTA EDUKATIVO - ARSIMORE | [`local/mitrovice-e-jugut/2016/15347/`](local/mitrovice-e-jugut/2016/15347/) | in force | 1 | 2016-10-27 | 2016-10-27 |
+| RREGULLORE NR. 05/2016 (K.MJ) PËR VENDOSJEN DHE HAPJEN E KUTIVE TË VËREJTJEVE, PROPOZIMEVE, REKOMANDIMEVE DHE SUGJERIME TË QYTETARËVE | [`local/mitrovice-e-jugut/2016/15353/`](local/mitrovice-e-jugut/2016/15353/) | in force | 1 | 2016-11-24 | 2016-11-24 |
+| VENDIM PRELIMINAR Nr. 464/01-0031662/17 (Komuna e Prishtinës) | [`local/prishtine/2017/13422/`](local/prishtine/2017/13422/) | in force | 1 | 2017-03-02 | 2017-03-02 |
+| VENDIM PRELIMINAR Nr. 464/01-0031688/17 (Komuna e Prishtinës) | [`local/prishtine/2017/13423/`](local/prishtine/2017/13423/) | in force | 1 | 2017-03-02 | 2017-03-02 |
+| RREGULLORE 01/011-14614 (K.PZ) PËR TRANSPARENCË | [`local/prizren/2017/15270/`](local/prizren/2017/15270/) | in force | 1 | 2017-02-09 | 2017-02-09 |
+| RREGULLORE (K.FR) E TE HYRAVE VETANAKE TE KOMUNES SE FERIZAJT | [`local/ferizaj/2017/15327/`](local/ferizaj/2017/15327/) | in force | 1 | 2017-08-29 | 2017-08-29 |
+| RREGULLORE (K.MJ) PËR PLOTËSIM TË RREGULLORES KOMUNALE NR. 02/2012 PËR ORGANIZIMIN, KOMPETENCAT DHE PËRGJEGJËSITË E ORGANEVE TË ADMINISTRATËS KOMUNALE | [`local/mitrovice-e-jugut/2017/15330/`](local/mitrovice-e-jugut/2017/15330/) | in force | 1 | 2017-04-27 | 2017-04-27 |
+| RREGULLORE NR. 02/2017 PËR PLOTËSIM TË RREGULLORES NR. 04/2014, PËR AUTO TAXI, TRANSPORT TË UDHËTARËVE NË TERRITORIN E KOMUNËS TË MITROVICËS | [`local/mitrovice-e-jugut/2017/15356/`](local/mitrovice-e-jugut/2017/15356/) | in force | 1 | 2017-06-29 | 2017-06-29 |
+| RREGULLORE PER MENYREN DHE KUSHTET E SHFRYTEZIMIT E PALE,STRES SPORTIVE | [`local/kamenice/2017/15479/`](local/kamenice/2017/15479/) | in force | 1 | 2017-10-19 | 2017-10-19 |
+| VENDIM PRELIMINAR NR. 02-679 (Komuna e Gjilanit) | [`local/gjilan/2017/15726/`](local/gjilan/2017/15726/) | in force | 1 | 2017-09-26 | 2017-09-26 |
+| VENDIM PËRFUNDIMTAR NR. 464/01-0315120/17 (Komuna e Prishtinës) | [`local/prishtine/2018/15886/`](local/prishtine/2018/15886/) | in force | 1 | 2018-01-19 | 2018-01-19 |
+| VENDIM PËRFUNDIMTAR NR. 464/01-0307097/17 (Komuna e Prishtinës) | [`local/prishtine/2018/15933/`](local/prishtine/2018/15933/) | in force | 1 | 2018-01-31 | 2018-01-31 |
+| VENDIM PER APROVIMIN E MARREVESHJES SE BINJAKEZIMIT NE MES TE KOMUNES SE VUSHTRRISE DHE KOMUNES NORWALK (IOWA) | [`local/vushtrri/2018/16528/`](local/vushtrri/2018/16528/) | in force | 1 | 2018-06-13 | 2018-06-13 |
+| VENDIM NR. 14-464/01-0219786/18 (Komuna e Prishtinës) | [`local/prishtine/2018/17903/`](local/prishtine/2018/17903/) | in force | 1 | 2018-09-25 | 2018-09-25 |
+| RREGULLORE PËR PËRBËRJEN, DETYRAT, PËRGJEGJËSITË DHE PUNËN E KËSHILLIT KOMUNAL PËR SIGURI NË BASHKËSI | [`local/viti/2018/18018/`](local/viti/2018/18018/) | in force | 1 | 2018-10-22 | 2018-10-22 |
+| RREGULLORE PËR NDRYSHIMIN DHE PLOTËSIMIN E RREGULLORES PËR NDARJEN E SUBVENCIONEVE NGA KOMUNA E PRISHTINËS 01-020/01-194101/18, E DT.08.08.2018 | [`local/prishtine/2019/18628/`](local/prishtine/2019/18628/) | amending act | 1 | 2019-02-27 | 2019-02-27 |
+| RREGULLORE MBI THEMELIMIN DHE STRUKTURIMIN E ASAMBLESË KOMUNALE TË FËMIJËVE | [`local/prishtine/2019/21892/`](local/prishtine/2019/21892/) | in force | 1 | 2019-08-21 | 2019-08-21 |
+| RREGULLORE PËR ORGANIZIMIN DHE SHFRYTËZIMIN E PARKINGJEVE TË KOMUNËS SË PRISHTINËS | [`local/prishtine/2019/21893/`](local/prishtine/2019/21893/) | repealed, not consolidated | 1 | 2019-08-21 | 2019-08-21 |
+| VENDIM PRELIMINAR NR. 01-108/19-1 (Komuna e Prizrenit) | [`local/prizren/2019/25193/`](local/prizren/2019/25193/) | in force | 1 | 2019-11-25 | 2019-11-25 |
+| RREGULLORE PËR MËNYRËN DHE KUSHTET E SHFRYTËZIMIT TË PALESTRËS SPORTIVE | [`local/kamenice/2019/25199/`](local/kamenice/2019/25199/) | in force | 1 | 2019-11-25 | 2019-11-25 |
+| RREGULLORE 01-012/01-239126/19 (K.PR) PËR NDRYSHIMIN DHE PLOTËSIMIN E RREGULLORES PËR ORGANIZIMIN E PUNËS NË SHKOLLA FILLORE TË MESME TË ULËTA DHE TË MESME TË LARTA 01. NR. 031-142411, DT. 09.06.2016 | [`local/prishtine/2019/90352/`](local/prishtine/2019/90352/) | amending act | 1 | 2019-09-30 | 2019-09-30 |
+| RREGULLORE- MBI THEMELIMIN DHE STRUKTURIMIN E ASAMBLESË KOMUNALE TË FËMIJËVE | [`local/gjilan/2019/111849/`](local/gjilan/2019/111849/) | in force | 1 | 2019-03-23 | 2019-03-23 |
+| RREGULLORE PËR TAKSA, NGARKESA DHE GJOBA KOMUNALE | [`local/gjilan/2019/111850/`](local/gjilan/2019/111850/) | in force | 1 | 2019-09-26 | 2019-09-26 |
+| RREGULLORE PËR TATIMIN MBI PRONËN E PALUAJTSHME PËR VITIN 2020 | [`local/gjilan/2019/111851/`](local/gjilan/2019/111851/) | in force | 1 | 2019-12-04 | 2019-12-04 |
+| VENDIM PRELIMINAR NR. 01-126/19-1 (Komuna e Prizrenit) | [`local/prizren/2020/26806/`](local/prizren/2020/26806/) | in force | 1 | 2020-02-05 | 2020-02-05 |
+| RREGULLORE 01-110/05-4436/21 (K.PR) E PUNËS SË KËSHILLIT DREJTUES TË TEATRIT TË QYTETIT TË PRISHTINËS DODONA | [`local/prishtine/2021/90360/`](local/prishtine/2021/90360/) | in force | 1 | 2021-01-11 | 2021-01-11 |
+| STATUTI 01-110/05- 144388/21 I GALERISË SË PRISHTINËS | [`local/prishtine/2021/90434/`](local/prishtine/2021/90434/) | in force | 1 | 2021-07-21 | 2021-07-21 |
+| STATUTI I QENDRËS KULTURORE EVROPIANE 2021 | [`local/gjilan/2021/111853/`](local/gjilan/2021/111853/) | in force | 1 | 2021-02-26 | 2021-02-26 |
+| RREGULLORE PËR PËRKUJDESJEN DHE MROJTJEN E FËMIJËS 2021 | [`local/gjilan/2021/111854/`](local/gjilan/2021/111854/) | in force | 1 | 2021-02-11 | 2021-02-11 |
+| RREGULLORE PËR MENAXHIMIN E PASURISË JO FINANCIARE, INVENTARI I PA PËRDORSHËM I KOMUNËS 2021 | [`local/gjilan/2021/111855/`](local/gjilan/2021/111855/) | in force | 1 | 2021-05-27 | 2021-05-27 |
+| RREGULLORE PËR NDARJEN E BURSAVE PËR STUDENTËT E KOMUNËNS SË GJILANIT 2021 | [`local/gjilan/2021/111856/`](local/gjilan/2021/111856/) | in force | 1 | 2021-06-11 | 2021-06-11 |
+| RREGULLORE PËR SHFUQIZIMIN E RREGULLORËS PËR PROCEDURËN E NDËRTIMIT TË OBJEKTEVE ME KARAKTER TË PËRKOHSHEM NË PRONAT E PERSONAVE FIZIK DHE JURIDIK (2022) | [`local/gjilan/2021/111858/`](local/gjilan/2021/111858/) | in force | 1 | 2021-03-31 | 2021-03-31 |
+| RREGULLORE PËR PËRKUJDESJEN DHE MROJTJEN E FËMIJËS | [`local/gjilan/2021/111868/`](local/gjilan/2021/111868/) | in force | 1 | 2021-02-11 | 2021-02-11 |
+| VENDIM NR. 01-060/05-0059200/22 (Komuna e Prizrenit) | [`local/prizren/2022/57580/`](local/prizren/2022/57580/) | in force | 1 | 2022-04-29 | 2022-04-29 |
+| VENDIM PËRFUNDIMTAR NR. 01-060-132847/22 (Komuna e Prizrenit) | [`local/prizren/2022/62789/`](local/prizren/2022/62789/) | in force | 1 | 2022-09-08 | 2022-09-08 |
+| RREGULLORE (K.KAC) 01 Nr. 07-60/01-25563/22 - PËR PLOTËSIMIN DHE NDRYSHIMIN E RREGULLORES 01NR. 02-60/01-4863/20 PËR TAKSAT KOMUNALE | [`local/kacanik/2022/65904/`](local/kacanik/2022/65904/) | amending act | 1 | 2022-10-25 | 2022-10-25 |
+| RREGULLORE 01/2022 PËR MENAXHIMIN E MBETURINAVE NË KOMUNËN E PRIZRENIT | [`local/prizren/2022/67064/`](local/prizren/2022/67064/) | amended, not consolidated | 1 | 2022-12-06 | 2022-12-06 |
+| RREGULLORE 01-110/05-206977/22 (K.PR) PËR NDRYSHIMIN DHE PLOTËSIMIN E RREGULLORES PËR ORGANIZIMIN DHE BASHKËPUNIMIN E KOMUNËS ME FSHATRAT, VENDBANIMET DHE LAGJET URBANE NË TERRITORIT E KOMUNËS SË PRISHTINËS, NR. 01-030/01-0134831/18, DT. 06.06.2018 | [`local/prishtine/2022/90384/`](local/prishtine/2022/90384/) | amending act | 1 | 2022-09-26 | 2022-09-26 |
+| RREGULLORE PËR NDRYSHIM DHE PLOTËSIM TË RREGULLORES PËR KUSHTET, KRITERET DHE PROCEDURAT E NDARJES SË SUBVENCIONEVE 01.NR. 16-126422 DT. 29.12.2016, ME NDRYSHIME DHE PLOTËSIME 01.NR.016-28468 TË DT.22.03.2018 | [`local/gjilan/2022/111859/`](local/gjilan/2022/111859/) | amending act | 1 | 2022-04-28 | 2022-04-28 |
+| RREGULLORE NR 05PËR TRANSPORTIN RRUGOR NË KOMUNËN E PRIZRENIT | [`local/prizren/2023/69422/`](local/prizren/2023/69422/) | in force | 1 | 2023-02-03 | 2023-02-03 |
+| RREGULLORE NR. 04/2023 PËR PLOTËSIMIN DHE NDRYSHIMIN E RREGULLORES NR.02/2022 PËR MENAXHIMIN E MBETURINAVE NË KOMUNËN E MITROVICËS SË JUGUT | [`local/mitrovice-e-jugut/2023/73761/`](local/mitrovice-e-jugut/2023/73761/) | amending act | 1 | 2023-05-12 | 2023-05-12 |
+| RREGULLORE-PER-PERCAKTIMIN-E-PROCEDURAVE-TE-DHENIES-NE-SHFRYTEZIM-ME-PAK-SE-NJE-1-VIT-TE-PRONES-SE-PALUAJTSHME-TE-KOMUNES | [`local/dragash/2023/74842/`](local/dragash/2023/74842/) | in force | 1 | 2023-05-16 | 2023-05-16 |
+| VENDIM NR. 01-060-119315 (Komuna e Prizrenit) | [`local/prizren/2023/80808/`](local/prizren/2023/80808/) | in force | 1 | 2023-08-29 | 2023-08-29 |
+| VENDIM NR. 18832 (Komuna e Gjakovës) | [`local/gjakove/2023/82846/`](local/gjakove/2023/82846/) | in force | 1 | 2023-10-02 | 2023-10-02 |
+| VENDIM NR. 01-030/01-0141689/23 (Komuna e Prizrenit) | [`local/prizren/2023/82958/`](local/prizren/2023/82958/) | in force | 1 | 2023-10-05 | 2023-10-05 |
+| VENDIM NR. 21921 (Komuna e Gjakovës) | [`local/gjakove/2023/83936/`](local/gjakove/2023/83936/) | in force | 1 | 2023-11-10 | 2023-11-10 |
+| RREGULLORE (KPZ) PËR ORGANIZIMIN DHE BASHKËPUNIMIN E KOMUNËS ME FSHATRAT, VENDBANIMET DHE LAGJET URBANE NË TERRITORIN E KOMUNËS SË PRIZRENIT | [`local/prizren/2023/83965/`](local/prizren/2023/83965/) | in force | 1 | 2023-11-13 | 2023-11-13 |
+| RREGULLORE KOMUNALE PER KUSHTET, KRITERET DHE PROCEDURAT E NDARJES SË SUBVENCIONEVE DHE TRASFEREVE DHE GRANTEVE | [`local/prizren/2024/87076/`](local/prizren/2024/87076/) | in force | 1 | 2024-02-14 | 2024-02-14 |
+| RREGULLORE PËR GRANTE DHE SUBVENCIONE NË SEKTORIN E BUJQËSISË | [`local/gjilan/2024/90560/`](local/gjilan/2024/90560/) | in force | 1 | 2024-05-23 | 2024-05-23 |
+| RREGULLORE (KPZ) PËR SHËRBIME KOMUNALE NË KOMUNËN E PRIZRENIT | [`local/prizren/2024/92634/`](local/prizren/2024/92634/) | in force | 1 | 2024-07-04 | 2024-07-04 |
+| RREGULLORE PER GRANTE DHE SUBVENCIONE NË SEKTORIN E BUJQËSISË (2024) | [`local/gjilan/2024/111864/`](local/gjilan/2024/111864/) | in force | 1 | 2024-03-28 | 2024-03-28 |
+| RREGULLORE PËR NDARJEN E BURSAVE PËR STUDENTËT E KOMUNËS SË GJILANIT (2024) | [`local/gjilan/2024/111865/`](local/gjilan/2024/111865/) | in force | 1 | 2024-10-21 | 2024-10-21 |
+| RREGULLORE PËR TRANSPARENCËN KOMUNALE | [`local/malisheve/2025/100859/`](local/malisheve/2025/100859/) | in force | 1 | 2025-02-03 | 2025-02-03 |
+| STATUTI I QENDRËS KRYESORE TË MJEKËSISË FAMILJARE | [`local/gjakove/2025/102000/`](local/gjakove/2025/102000/) | in force | 1 | 2025-03-18 | 2025-03-18 |
+| RREGULLORE PËR USHTRIMIN E VEPRIMTARISË SË TRANSPORTIT PUBLIK TË UDHËTARVE MË TAKSI | [`local/ferizaj/2026/119761/`](local/ferizaj/2026/119761/) | in force | 1 | 2026-05-12 | 2026-05-12 |
+| RREGULLORE PËR TRANSPARENCË NË KOMUNËN E VUSHTRRISË | [`local/vushtrri/2026/120551/`](local/vushtrri/2026/120551/) | in force | 1 | 2026-06-04 | 2026-06-04 |
+| STATUTI I TEATRIT TË QYTETIT "ADRIANA ABDULLAHU" FERIZAJ | [`local/ferizaj/2026/125795/`](local/ferizaj/2026/125795/) | in force | 1 | 2026-10-27 | 2026-10-27 |
+| RREGULLORE 01-030/01-148721/26 (K.PR) PËR NDRYSHIMIN DHE PLOTËSIMIN E RREGULLORES PËR TARIFA, NGARKESA DHE GJOBA KOMUNALE NR. 01.NR.110-2782, DT.02.12.2011 | [`local/prishtine/2026/126055/`](local/prishtine/2026/126055/) | amending act | 1 | 2026-11-04 | 2026-11-04 |
 
 ## marreveshje (179, of which 26 amending acts)
 

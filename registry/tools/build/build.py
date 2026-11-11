@@ -402,6 +402,8 @@ def start_message(c: dict, x: dict) -> tuple[tuple[str, str], list[str], list[st
     trailers += [f'Act: {act["short"]}', f'Provisions: {len(v["units"])}']
     if v.get('source_url'):
         trailers.append(f'Consolidated: {v["source_url"]}')
+    # 2026-11-11 (Kosovo OCR lane): a version may carry its own trailers ("Text-source: OCR (...)"); none otherwise
+    trailers += list(v.get('trailers', []))
     return author, msg, trailers
 def change_message(c: dict, x: dict) -> tuple[tuple[str, str], list[str], list[str]]:
     day = x['day']

@@ -206,6 +206,163 @@ def after_signature(words: str, tail: list, title: str, published: str) -> tuple
     return ks_inforce.add_months(sig, n).isoformat(), f"{n} month(s) after signature ({how}, {sig.isoformat()})"
 
 
+# ---------------------------------------------------------------- 2026-11-11 rules (each only where the above hold)
+# The text layer of some recognised scans prints 'ë' as 'é' or '€' (Albanian writes neither): the in-force sentence is
+# read from a copy with those letters taken for 'ë'; the text itself is published as printed.
+OCR_E = str.maketrans({"é": "ë", "É": "Ë", "€": "ë"})
+
+
+def letters_rule(paras: list) -> tuple[str, dict]:
+    """(in-force sentence, {"letters": True, "all": every in-force sentence, "fixed": the read copy}) or ('', {})."""
+    fixed = [p.translate(OCR_E) for p in paras]
+    if fixed == paras:
+        return "", {}
+    rule = ks_inforce.rule_of(fixed)
+    if not rule:
+        return "", {}
+    text = ks_inforce.norm(" ".join(fixed))
+    hits = [x[:600] for x in re.split(r"(?<=[.;])\s+(?=[A-ZËÇ0-9])", text) if ks_inforce.VERB.search(x)]
+    return rule, {"letters": True, "all": hits[:40], "fixed": fixed}
+
+
+def after_rule(paras: list, rule: str) -> list:
+    """The paragraphs printed after the in-force sentence (the first one is the rest of its own paragraph)."""
+    if not rule:
+        return []
+    end = ks_inforce.norm(rule)[-40:]
+    joined = "\n".join(ks_inforce.norm(p) for p in paras)
+    pos = joined.replace("\n", " ").rfind(end)
+    if pos < 0:
+        return []
+    return [x[:300] for x in joined[pos + len(end):].split("\n")[:8]]
+
+
+SIG_ANY = re.compile(r"\b(\d{1,2})\s*[./]\s*(\d{1,2})\s*[./]\s*(\d{4})\b|\b(\d{1,2})\s*\.?\s*([a-zë]{3,})\s*[,.]?\s*(\d{4})\b",
+                     re.I)
+SIG_STOP = re.compile(r"^\s*(?:Article|Član|Člen|Члан|Neni|Aneks|Annex|Shtojc|Prilog|Tabel|Kopj|Tu?\s+d[eë]rgohet|"
+                      r"Ju\s+d[eë]rgohet)", re.I)
+SIG_SENTENCE = re.compile(r"shfuqiz|\bnen[ie]t?\b|\bligj|udh[eë]zim|rregullor|vendim|marr[eë]veshj|\bdat[eë]s\b|"
+                          r"\bhy\w*\s+n[eë]\s+fuqi", re.I)
+
+
+def sig_date(after: list, published: str):
+    """The signature day printed in the signature block right after the in-force sentence: the one date (12.05.2014,
+    12/05/2014, 12 maj 2014) in its short lines (a name, a title, a place), read up to the first line that starts an
+    article, annex or distribution list, is in English or Serbian, or is another sentence; within the year before
+    publication. None when there is no such date or more than one."""
+    from datetime import date, timedelta
+    days = set()
+    for k, p in enumerate(after):
+        if not p.strip():
+            continue
+        if SIG_STOP.search(p) or (k and lang_of(p, minimum=3) in ("en", "sr")) or foreign_letters(p):
+            break
+        if len(p) > 150 or SIG_SENTENCE.search(p):
+            if k == 0:
+                continue   # the rest of the in-force paragraph: another sentence, not the signature
+            break
+        for m in SIG_ANY.finditer(p):
+            if m.group(1):
+                days.add((int(m.group(3)), int(m.group(2)), int(m.group(1))))
+            elif ks_inforce.month(m.group(5)):
+                days.add((int(m.group(6)), ks_inforce.month(m.group(5)), int(m.group(4))))
+    if len(days) != 1:
+        return None
+    try:
+        sig = date(*days.pop())
+    except ValueError:
+        return None
+    pub = date.fromisoformat(published)
+    return sig if pub - timedelta(days=366) <= sig <= pub else None
+
+
+# "Datë: 20.05.2016" / "DATA: ..." / "Date: ..." (folded); not "e datës ..." (of the date of another act)
+HEAD_DATE = re.compile(r"\bDAT[AE]\b\s*[:.]?\s*(\d{1,2})\s*[./]\s*(\d{1,2})\s*[./]\s*(\d{4})\b")
+
+
+HEAD_KIND = {"rregullore": r"rregullor", "udhezim": r"udh[eë]zim|\bUA\b", "vendim": r"vendim", "dekret": r"dekret",
+             "statut": r"statut", "urdher": r"urdh[eë]r", "urdhrese": r"urdh[eë]res", "rregulla": r"rregull"}
+
+
+def head_date(info: dict, published: str, words: str = "", kind: str = "", title: str = ""):
+    """The act's own date at its head ("Nr. 01/88 Datë: 20.05.2016"), for an act in force on signature that prints
+    no date with the signature: one distinct "Datë:" date in its first lines, none at all in or after the in-force
+    sentence; the sentence names the act's own kind ("Ky udhëzim ...", not an annexed "Kjo Marrëveshje ...") and has
+    no list or exception in it; the date is not before the year in the act's number and within the year before
+    publication. None otherwise."""
+    from datetime import date, timedelta
+    w = ks_inforce.norm(words)
+    v = re.search(_VERB, w + " ", re.I)
+    if (not v or kind not in HEAD_KIND or not re.search(HEAD_KIND[kind], w[:v.start()], re.I)
+            or len(re.findall(_VERB, w + " ", re.I)) != 1 or re.search(r"\b[a-e]\)|p[eë]rjashtim|p[eë]rve[cç]", w, re.I)
+            or SIG_ANY.search(w) or any(SIG_ANY.search(p) for p in info.get("after", []))):
+        return None
+    days = {(int(m.group(3)), int(m.group(2)), int(m.group(1))) for m in HEAD_DATE.finditer(fold(info.get("head", "")))}
+    if len(days) != 1:
+        return None
+    try:
+        sig = date(*days.pop())
+    except ValueError:
+        return None
+    pub = date.fromisoformat(published)
+    n = NUM.search(fold(title))
+    year = re.search(r"/\s*((?:19|20)\d\d)$", n.group(1)) if n else None
+    if year and sig.year < int(year.group(1)):
+        return None
+    return sig if pub - timedelta(days=366) <= sig <= pub else None
+
+
+def after_signature_block(words: str, after: list, published: str) -> tuple[str, str] | None:
+    """after_signature for acts it leaves held, with the signature day read by sig_date."""
+    from datetime import timedelta
+    w = ks_inforce.norm(words)
+    if len(re.findall(_VERB, w + " ", re.I)) != 1 or re.search(r"p[eë]rjashtim|p[eë]rve[cç]", w, re.I):
+        return None
+    m = SIG_PERIOD.search(w)
+    if not m or re.search(r"n[eë]nshkrimit[^.]*\b(?:dhe|e|ose)\s+(?:pas\s+)?(?:publikimit|shpalljes|botimit)", w, re.I):
+        return None
+    n = int(m.group(1) or m.group(2) or m.group(3) or 0) or ks_inforce.WORDS.get((m.group(4) or "").lower(), 0)
+    sig = sig_date(after, published) if n else None
+    if not sig:
+        return None
+    how = "the date printed with the signature"
+    if m.group(5).lower() == "dit":
+        return (sig + timedelta(days=n)).isoformat(), f"day {n} after signature ({how}, {sig.isoformat()})"
+    return ks_inforce.add_months(sig, n).isoformat(), f"{n} month(s) after signature ({how}, {sig.isoformat()})"
+
+
+# The Constitutional Court's decisions take effect on publication in the Official Gazette unless the Court sets another
+# day (Law No. 03/L-121 on the Constitutional Court, art. 20(5), in force since 2009-01-15); a judge's separate
+# opinion has no entry into force of its own.
+COURT = "Gjykata Kushtetuese"
+COURT_DECISION = ("on publication (Law No. 03/L-121 on the Constitutional Court, art. 20(5): a decision takes effect on "
+                  "the day of its publication in the Official Gazette unless the Court sets another day; no in-force "
+                  "sentence is read in this decision)")
+COURT_OPINION = ("published (a judge's separate opinion: it has no entry into force of its own; the Official Gazette "
+                 "date is used)")
+DAILY = re.compile(r"\bditor|informimit|\bmedia|\bueb|\bweb|tabel[eë]n|\bt\w{0,2}azh", re.I)
+
+
+def published_twice(words: str) -> bool:
+    """An in-force sentence counting from publication in the Official Gazette and somewhere else too ("... dhe
+    publikimit të tij në njërën nga gazetat me tirazh të madh"): the later day is not in the Gazette."""
+    w = _after_verb(words)
+    return bool(DAILY.search(w) or len(re.findall(r"ga[zi]et", w, re.I)) >= 2
+                or len(re.findall(r"publikim|shpallj|botim", w, re.I)) >= 2)
+
+
+_ISSUER: dict[int, str] = {}
+
+
+def issuer(src: Path, i: int) -> str:
+    """The issuing institution on act i's Gazette page ('' when the page is not in the local copy)."""
+    if i not in _ISSUER:
+        f = src / "act" / str(i // 1000) / str(i) / "detail.html.gz"
+        _ISSUER[i] = (span(gzip.decompress(f.read_bytes()).decode("utf-8", "replace"), "lblDInstSpons")
+                      if f.exists() else "")
+    return _ISSUER[i]
+
+
 class Hold(Exception):
     pass
 
@@ -296,7 +453,7 @@ MULTI = re.compile(r"shall\s+(?:enter|come)\s+into\s+force|stupa\s+na\s+snagu|^(
 CUTTABLE = ("multilingual_pdf", "not_albanian", "article_gaps", "article_headings_irregular", "no_text")
 
 
-def _read(doc: dict, amending: bool) -> tuple[dict, str, list]:
+def _read(doc: dict, amending: bool) -> tuple[dict, str, list, dict]:
     paras = ks_text.paragraphs(ks_text.pdf_lines(doc), "sq")
     if ks_text.language(paras) != "sq":
         raise Hold("not_albanian:" + ks_text.language(paras))
@@ -309,12 +466,47 @@ def _read(doc: dict, amending: bool) -> tuple[dict, str, list]:
     if not units:
         raise Hold("no_text")
     rule = ks_inforce.rule_of(paras)
+    extra = {}
+    if not rule:
+        rule, extra = letters_rule(paras)   # 2026-11-11: 'ë' printed as 'é' / '€' in the text layer
     if MULTI.search("\n".join(paras)):
         raise Hold("multilingual_pdf")   # Albanian, English and Serbian texts in one file
-    return units, rule, paras
+    extra["after"] = after_rule(extra.pop("fixed", None) or paras, rule)
+    extra["head"] = ks_inforce.norm(" ".join(paras[:12]))[:800]
+    return units, rule, paras, extra
 
 
-def read_text(path: Path, amending: bool, cache: dict | None, title: str = "") -> tuple[dict, str, list, str, int, str]:
+# 2026-11-11 (OCR lane): acts the Gazette publishes as page scans (held "scanned_pages") are read from
+# ocr.json.gz (live/ocr_xk.py: Tesseract over the same PDF, same line schema) where it exists, only for the pages
+# pdf.json.gz marks scanned and only for acts that hold would otherwise keep back (acts published from their text
+# layer never change). Held instead when the OCR file reads another PDF than pdf.json.gz or fails its gate (mean word
+# confidence, Albanian word rate). The version note and a Text-source trailer say the text was read by OCR.
+OCR_DIR = __import__("os").environ.get("XK_OCR_DIR", "")   # trial parses only: read OCR results from this folder
+OCR_SOURCE: dict[str, dict] = {}   # act id -> {"note", "trailer"} for the acts read_text read through OCR
+
+
+def with_ocr(doc: dict, f: Path) -> tuple[dict, dict]:
+    o = json.loads(gzip.decompress(f.read_bytes()).decode("utf-8"))
+    if o.get("sha256") != doc.get("sha256") or len(o.get("pages", [])) != len(doc["pages"]):
+        raise Hold("ocr_pdf_changed")
+    g = o.get("gate") or {}
+    if not g.get("ok"):
+        raise Hold(g.get("reason") or "ocr_gate_failed")
+    pages = [dict(p, scanned=False, lines=q["lines"]) if p.get("scanned") and q.get("ocr") else p
+             for p, q in zip(doc["pages"], o["pages"])]
+    n = sum(1 for p, q in zip(doc["pages"], o["pages"]) if p.get("scanned") and q.get("ocr"))
+    m = o["ocr"]
+    ver = re.sub(r"^tesseract\s+v?", "", m.get("version", ""), flags=re.I).split(".2")[0]
+    conf = round(g["conf"])
+    src = f"OCR (Tesseract {ver}, tessdata_best sqi+eng; mean word confidence {conf}%)"
+    note = (f"{n} of the PDF's {len(pages)} page(s) are printed only as images (the Gazette's scan is the official "
+            f"text): their text was read by OCR (Tesseract {ver}, tessdata_best Albanian and English models; mean word confidence "
+            f"{conf}%) and may misread single characters; check the Gazette's PDF before relying on a figure.")
+    return dict(doc, pages=pages), {"note": note, "trailer": f"Text-source: {src}"}
+
+
+def read_text(path: Path, amending: bool, cache: dict | None, title: str = "") -> tuple[dict, str, list, str, int, str,
+                                                                                           dict]:
     """(units, in-force sentence, last four paragraphs, sha256 of the PDF, trailing image pages, cut note) for one
     act's PDF text, or Hold. The cut note is '' unless the text is the Albanian part of a PDF that also prints the
     English and Serbian texts. Results are kept in `cache` keyed by the file's size and time and this parser's own
@@ -322,24 +514,37 @@ def read_text(path: Path, amending: bool, cache: dict | None, title: str = "") -
     stt = path.stat()
     tkey = hashlib.sha256(title.encode("utf-8")).hexdigest()[:8]
     key = f"{path.parent.name}|{stt.st_size}|{stt.st_mtime_ns}|{int(amending)}|{tkey}|{SELF}"
+    ocr_file = path.parent / "ocr.json.gz"   # 2026-11-11 (OCR lane): page scans read by OCR (live/ocr_xk.py)
+    if OCR_DIR:   # trial parses of OCR results not yet released (ocr_xk.py's own out folder)
+        ocr_file = Path(OCR_DIR) / str(int(path.parent.name) // 1000) / f"{path.parent.name}.json.gz"
+    if ocr_file.exists():
+        so = ocr_file.stat()
+        key += f"|ocr{so.st_size}-{so.st_mtime_ns}"
+    OCR_SOURCE.pop(path.parent.name, None)
     if cache is not None and key in cache:
         r = cache[key]
         if "hold" in r:
             raise Hold(r["hold"])
-        return r["units"], r["rule"], r["tail"], r["sha"], r["scanned"], r.get("cut", "")
-    cut = ""
+        if r.get("ocr"):
+            OCR_SOURCE[path.parent.name] = r["ocr"]
+        return r["units"], r["rule"], r["tail"], r["sha"], r["scanned"], r.get("cut", ""), r.get("extra", {})
+    cut, ocr = "", None
     try:
         doc = json.loads(gzip.decompress(path.read_bytes()).decode("utf-8"))
         if doc.get("no_pdf") or not doc.get("pages"):
             raise Hold("no_pdf")
         flags = [bool(p.get("scanned")) for p in doc["pages"]]
         n_text = len(flags) - flags[::-1].index(False) if False in flags else 0
+        if (n_text == 0 or any(flags[:n_text])) and ocr_file.exists():
+            doc, ocr = with_ocr(doc, ocr_file)
+            flags = [bool(p.get("scanned")) for p in doc["pages"]]
+            n_text = len(flags) - flags[::-1].index(False) if False in flags else 0
         if n_text == 0 or any(flags[:n_text]):
             raise Hold("scanned_pages")   # a page image inside the text: words would be missing
         # page images after the text (an organigram, a scanned annex) are not transcribed; the note counts them
         scanned_tail = len(flags) - n_text
         try:
-            units, rule, paras = _read(doc, amending)
+            units, rule, paras, extra = _read(doc, amending)
         except Hold as h:
             if not str(h).startswith(CUTTABLE):
                 raise
@@ -347,7 +552,7 @@ def read_text(path: Path, amending: bool, cache: dict | None, title: str = "") -
             if isinstance(part, str):
                 raise Hold(f"{h}" if part == "single_language" else f"{h}|cut:{part}")
             try:
-                units, rule, paras = _read(part[0], amending)
+                units, rule, paras, extra = _read(part[0], amending)
             except Hold as h2:
                 raise Hold(f"{h}|cut:{h2}")
             # the translations number their articles too: the Albanian text must end at the same article
@@ -365,12 +570,18 @@ def read_text(path: Path, amending: bool, cache: dict | None, title: str = "") -
         if cache is not None:
             cache[key] = {"hold": str(h)}
         raise
+    if ocr:
+        cut = (cut + " " + ocr["note"]).strip()
+        OCR_SOURCE[path.parent.name] = ocr
     r = {"units": units, "rule": rule, "tail": paras[-4:], "sha": doc["sha256"], "scanned": scanned_tail}
     if cut:
         r["cut"] = cut
+    if ocr:
+        r["ocr"] = ocr
+    r["extra"] = extra   # 2026-11-11: the signature block, the head, OCR-letter reading (see _read)
     if cache is not None:
         cache[key] = r
-    return units, rule, paras[-4:], doc["sha256"], scanned_tail, cut
+    return units, rule, paras[-4:], doc["sha256"], scanned_tail, cut, extra
 
 
 # ------------------------------------------------------------------------------------------- the Albanian part
@@ -696,6 +907,9 @@ def main():
             kind, law_kind = KINDS[d["category"]]
             k = own_key(d["title"])
             others = (named_by(named, k) - {i}) if k else set()
+            # 2026-11-11: numbers repeat across issuers ("NR. 01/2017" of the MAPL, the AAC, the KHAIA): a naming act
+            # counts only when its Gazette page names the same issuing institution as this act's page
+            others = {o for o in others if d["institution"] and issuer(src, o) == d["institution"]}
             # 2026-11-10: the act's own key must be its own kind and number (the title starts with its kind word);
             # a court decision's title names the act it reviews ("... VLERËSIM I KUSHTETUTSHMËRISË SË LIGJIT NR. ..."),
             # so a later decision naming that act names the reviewed act, not this one
@@ -723,7 +937,8 @@ def main():
             if not d["published"]:
                 raise Hold("no_publication_day")
             amending = bool(CHANGE.search(fold(d["title"])))
-            units, rule, tail_paras, sha, scanned, cut = read_text(base / "pdf.json.gz", amending, cache, d["title"])
+            units, rule, tail_paras, sha, scanned, cut, info = read_text(base / "pdf.json.gz", amending, cache,
+                                                                         d["title"])
             released = bool(cut)   # read by a rule added after acts were first published (see marked_changed)
             doc = {"sha256": sha}
             if rule:
@@ -732,6 +947,14 @@ def main():
             else:
                 inf = {"date": d["published"], "basis": "published (no in-force rule found)", "words": ""}
             day, basis = inf["date"], inf["basis"]
+            if info.get("letters"):
+                # 2026-11-11: read with 'é' / '€' taken for 'ë'. A file holding several decisions is read only when
+                # every in-force sentence in it gives the same day; publication elsewhere too holds it.
+                released = True
+                if len({ks_inforce.when(x, d["published"]) for x in info.get("all", [])} | {(day, basis)}) > 1:
+                    raise Hold("in_force_rules_differ:" + inf["words"][:100])
+                if published_twice(inf["words"]):
+                    raise Hold("in_force_period_from_other_event:" + inf["words"][:100])
             if PROMULGATED(law_kind, basis, inf["words"]):
                 # 2026-11-09: "hyn në fuqi pas miratimit nga Kuvendi ... dhe shpalljes nga PSSP-ja" (a UNMIK-era law:
                 # in force on promulgation): the Gazette day, as for the 111 such laws of the first build. Not a
@@ -741,6 +964,8 @@ def main():
                 # "N days after signature": ks_inforce counts from publication, which is wrong here; counted from the
                 # signature day when the act prints it (after_signature), else held
                 more = after_signature(inf["words"], tail_paras, d["title"], d["published"])
+                if not more:   # 2026-11-11: the date printed in the signature block after the sentence (sig_date)
+                    more = after_signature_block(inf["words"], info.get("after", []), d["published"])
                 if not more:
                     raise Hold("in_force_counted_from_signature:" + inf["words"][:100])
                 day, basis = more
@@ -762,9 +987,20 @@ def main():
                         tail = tail[tail.find(inf["words"][-40:]) + 40:] if inf["words"][-40:] in tail else tail
                         dates = re.findall(r"\b(\d{1,2})\s*\.\s*(\d{1,2})\s*\.\s*(\d{4})\b", tail)
                         if len(set(dates)) != 1:
-                            raise Hold("in_force_on_signature_day_unknown:" + inf["words"][:100])
+                            # 2026-11-11: the one date printed in the signature block after the sentence (sig_date)
+                            sig = sig_date(info.get("after", []), d["published"])
+                            how = "on signature (the date printed with the signature)"
+                            if not sig:   # else the act's own date at its head ("Nr. 01/88 Datë: 20.05.2016")
+                                sig = head_date(info, d["published"], inf["words"], kind, d["title"])
+                                how = "on signature (the act's date, printed at its head; no date with the signature)"
+                            if not sig:
+                                raise Hold("in_force_on_signature_day_unknown:" + inf["words"][:100])
+                            dates = [(str(sig.day), str(sig.month), str(sig.year))]
+                            released = True
+                        else:
+                            how = "on signature (the date printed with the signature)"
                         m = re.match(r"(\d+)\.(\d+)\.(\d+)", ".".join(dates[0]))
-                        basis = "on signature (the date printed with the signature)"
+                        basis = how
                     day = f"{int(m.group(3)):04d}-{int(m.group(2)):02d}-{int(m.group(1)):02d}"
                     if not (d["published"][:4] >= day[:4] >= str(int(d["published"][:4]) - 1)):
                         raise Hold(f"signature_day_implausible:{day}")
@@ -772,6 +1008,14 @@ def main():
                     pass  # takes effect on promulgation: the Gazette day, as in the rest of this repository
                 elif inf["words"] and (more := more_rules(inf["words"], d["published"])):
                     day, basis = more
+                    released = True
+                elif not inf["words"] and d["institution"] == COURT and d["published"] >= "2009-01-15":
+                    # 2026-11-11: no in-force sentence read: the statutory default (COURT_DECISION); an opinion: its
+                    # category or title, or its reference number ("Nr. ref.: MM386/13", "MK460/13")
+                    opinion = (d["category"] == "Mendime" or re.match(r"\s*(?:MENDIM|OPINION)", fold(d["title"]))
+                               or re.search(r"\bref\W{0,4}(?:nr\W{0,4})?M[MK]\s*\d|\bmendim\w*\s+(?:mospajtues|konkurrues)",
+                                            info.get("head", ""), re.I))
+                    day, basis = d["published"], COURT_OPINION if opinion else COURT_DECISION
                     released = True
                 else:
                     raise Hold("in_force_rule_unread:" + (inf["words"][:100] or "none"))
@@ -801,6 +1045,9 @@ def main():
         note = f"In force: {basis}" + (f" (\"{inf['words'][:300]}\")" if inf.get("words") else "") + "."
         if cut:
             note += " " + cut
+        if info.get("letters"):
+            note += (" The PDF's text layer prints 'ë' as 'é' or '€'; the in-force sentence was read, and is quoted, "
+                     "with 'ë'.")
         office = next((e for e in ("doc", "docx") if (base / f"doc.{e}").exists()), None)
         if office:   # 2026-11-10: the Gazette serves this act as a Word file, not a PDF (read through Word)
             note += (f" The Gazette serves this act as a Word file (.{office}), not a PDF; its text was read from a PDF "
@@ -816,7 +1063,9 @@ def main():
             "slug": slug, "short": d["number"] or title, "title": title, "url": DETAIL.format(id=i),
             "first_law": slug, "earlier_laws": [],
             "versions": [{"from": day, "source_url": DOC.format(id=i), "sha256": doc["sha256"], "units": units,
-                          "credits": {}, "note": note}], **marks})
+                          "credits": {}, "note": note,
+                          **({"trailers": [OCR_SOURCE[str(i)]["trailer"]]} if str(i) in OCR_SOURCE else {})}],
+            **marks})
     if cache is not None:
         cache = {k: v for k, v in cache.items() if k.endswith("|" + SELF)}
         tmp = Path(a.cache + ".tmp")
