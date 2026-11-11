@@ -7920,6 +7920,116 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=7937"
 },
 {
+"slug": "udhezim-2010-7938",
+"path": "udhezim/2010/7938",
+"kind": "udhezim",
+"year": "2010",
+"number": "7938",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV NR. 16/2010 PËR INVENTARIZIMIN E PASURISË SË MASHT-IT",
+"short": "MASHT-16/2010",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2010-10-15",
+"latest": "2010-10-15",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=7938"
+},
+{
+"slug": "udhezim-2010-7951",
+"path": "udhezim/2010/7951",
+"kind": "udhezim",
+"year": "2010",
+"number": "7951",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV NR. 11/2010 PЁR REGJISTRIN E PRODHUESVE TE BIMЁVE, PЁRPUNUESVE, IMPORTUESVE, SHPËRNDARËSVE, DEPONUESVE, PAKETUESVE, EKSPORTUESVE, SHITËSVE ME SHUMICË TË BIMËVE, PJESЁVE TJERA DHE PRODUKTEVE BIMORE (Shfuqizuar me Vendim të QRK, Nr. 02/50 të datës 23.12.2021)",
+"short": "MBPZHR-11/2010",
+"code": null,
+"status": "repealed, not consolidated",
+"versions": 1,
+"from": "2010-11-19",
+"latest": "2010-11-19",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=7951",
+"amended_by": [
+{
+"ref": "gzk-title",
+"title": "the Gazette's note in the act's title: (Shfuqizuar me Vendim të QRK, Nr. 02/50 të datës 23.12.2021)",
+"url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=7951",
+"date": null,
+"relation": "noted in the title"
+}
+]
+},
+{
+"slug": "udhezim-2010-7955",
+"path": "udhezim/2010/7955",
+"kind": "udhezim",
+"year": "2010",
+"number": "7955",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIMI ADMINISTRATIV NR. 13/2010 PËR ZBATIMIN E LIGJIT NR. 03/L-161 PËR TATIMIN NË TË ARDHURAT E PERSONALE",
+"short": "MF-13/2010",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2010-11-19",
+"latest": "2010-11-19",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=7955"
+},
+{
+"slug": "udhezim-2010-7956",
+"path": "udhezim/2010/7956",
+"kind": "udhezim",
+"year": "2010",
+"number": "7956",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIMI ADMINISTRATIV NR. 14/2010 PËR ZBATIMIN E LIGJIT NR. 03/L-162 PËR TATIMIN NË TË ARDHURAT E KORPORATAVE",
+"short": "MF-14/2010",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2010-11-19",
+"latest": "2010-11-19",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=7956"
+},
+{
+"slug": "udhezim-2010-7957",
+"path": "udhezim/2010/7957",
+"kind": "udhezim",
+"year": "2010",
+"number": "7957",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIMI ADMINISTRATIV NR. 15/2010 PËR ZBATIMIN E LIGJIT NR. 03/L-222 PËR ADMINISTRATËN TATIMORE DHE PROCEDURAT",
+"short": "MF-15/2010",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2010-11-19",
+"latest": "2010-11-19",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=7957",
+"amended_by": [
+{
+"ref": "gzk:8153",
+"title": "UDHËZIMI ADMINISTRATIV NR. 01/2012 PËR PLOTËSIMIN E UDHËZIMEVE ADMINISTRATIVE NR. 10/2010 DHE NR. 15/2010 MBI REGJISTRIMIN E TATIMPAGUESVE",
+"url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=8153",
+"date": "2012-05-21",
+"relation": "Ndryshohet/Plotësohet nga"
+},
+{
+"ref": "gzk:12507",
+"title": "UDHËZIM ADMINISTRATIV MF-NR. 03/ 2016 PËR PLOTËSIM NDRYSHIMIN E UDHËZIMIT ADMINISTRATIV NR. 15/2010, I NDRYSHUAR DHE PLOTËSUAR ME UDHËZIMIN ADMINISTRATIV NR. 01/2012, UDHËZIMIT ADMINISTRATIV NR. 03/2015 DHE UDHËZIMIT ADMINISTRATIV NR. 01/2016 - PËR VIZITAT EDUKATIVE PËR TATIMPAGUES, REGJISTRIMIN E TATIMPAGUESVE NË TVSH DHE REGJISTRIMIN E TË PUNËSUARVE",
+"url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=12507",
+"date": "2016-06-01",
+"relation": "Ndryshohet/Plotësohet nga"
+}
+]
+},
+{
 "slug": "rregullore-2010-11357",
 "path": "rregullore/2010/11357",
 "kind": "rregullore",
@@ -9180,6 +9290,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2945"
 },
 {
+"slug": "vendim-2011-2946",
+"path": "vendim/2011/2946",
+"kind": "vendim",
+"year": "2011",
+"number": "2946",
+"withdrawn_by": null,
+"reason": null,
+"title": "OPINION I PËRBASHKËT MOSPAJTUES I GJYQTARIT ALMIRO RODRIGUES DHE GJYQTARES SNEZHANA BOTUSHAROVA RASTI NR. KI 47/10 NAIM RUSTEMI DHE 31 DEPUTETË TË TJERË TË KUVENDIT TË R. SË KOSOVËS KUNDËR SHKËLQESISË SË TIJ, FATMIR SEJDIU...",
+"short": "KI_47/10 OM 55/10",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2011-02-16",
+"latest": "2011-02-16",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2946"
+},
+{
 "slug": "vendim-2011-2947",
 "path": "vendim/2011/2947",
 "kind": "vendim",
@@ -9875,6 +10002,23 @@
 "from": "2011-05-13",
 "latest": "2011-05-13",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2990"
+},
+{
+"slug": "vendim-2011-2991",
+"path": "vendim/2011/2991",
+"kind": "vendim",
+"year": "2011",
+"number": "2991",
+"withdrawn_by": null,
+"reason": null,
+"title": "SQARIM I AKTGJYKIMIT NË RASTIN NR. KI 08/09 SINDIKATA E PAVARUR E PUNONJËSVE TË FABRIKËS SË ÇELIKUT IMK FERIZAJ, E PËRFAQËSUAR NGA Z. ALI AZEMI, KRYETAR I SINDIKATËS VLERËSIMI I KUSHTETUTSHMËRISË TË VENDIM...",
+"short": "KI_08/09 Nr 104/11",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2011-05-17",
+"latest": "2011-05-17",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2991"
 },
 {
 "slug": "aktvendim-2011-2992",
@@ -10861,6 +11005,58 @@
 "from": "2011-02-01",
 "latest": "2011-02-01",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=7968"
+},
+{
+"slug": "udhezim-2011-7994",
+"path": "udhezim/2011/7994",
+"kind": "udhezim",
+"year": "2011",
+"number": "7994",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV NR. 03/2011 PËR NDRYSHIM PLOTËSIMIN E UDHËZIMIT ADMINISTRATIV MA-NR.03/2007 PËR REGJISTRIMIN E PRODHUESVE TË MATERIALIT FIDANOR",
+"short": "MBPZHR-03/2011",
+"code": null,
+"status": "repealed, not consolidated",
+"versions": 1,
+"from": "2011-04-29",
+"latest": "2011-04-29",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=7994",
+"amended_by": [
+{
+"ref": "gzk:75781",
+"title": "UDHËZIM ADMINISTRATIV (MBPZHR) - NR. 03/2023 PËR REGJISTRIMIN, LICENCIMIN DHE CAKTIMIN E TAKSËS PËR PRODHUESIT E MATERIALIT FIDANOR",
+"url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=75781",
+"date": "2023-06-16",
+"relation": "Shfuqizuar nga"
+}
+]
+},
+{
+"slug": "udhezim-2011-8009",
+"path": "udhezim/2011/8009",
+"kind": "udhezim",
+"year": "2011",
+"number": "8009",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV NR. 10/2011 PËR NDRYSHIMIN DHE PLOTËSIMIN E UDHËZIMIT ADMINISTRATIV NR. 19/2005 PËR LICENCIMIN E NDËRMARRJEVE, NDËRMJETËSVE PËR PRODHIM TREGTIM TË USHQIMIT TË KAFSHËVE DHE ADITIVËVE (Shfuqizuar me Vendim të QRK, Nr. 02/50 të datës 23.12.2021)",
+"short": "MBPZHR-10/2011",
+"code": null,
+"status": "repealed, not consolidated",
+"versions": 1,
+"from": "2011-06-30",
+"latest": "2011-06-30",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=8009",
+"amended_by": [
+{
+"ref": "gzk-title",
+"title": "the Gazette's note in the act's title: (Shfuqizuar me Vendim të QRK, Nr. 02/50 të datës 23.12.2021)",
+"url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=8009",
+"date": null,
+"relation": "noted in the title"
+}
+]
 },
 {
 "slug": "vendim-2011-9015",
@@ -14546,6 +14742,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3440"
 },
 {
+"slug": "udhezim-2012-8110",
+"path": "udhezim/2012/8110",
+"kind": "udhezim",
+"year": "2012",
+"number": "8110",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV NR. 01/2012 PËR PLOTËSIMIN DHE NDRYSHIMIN E UDHЁZIMIT ADMINISTRATIV NR. 2009/2 PЁR PROCEDURAT E EMËRIMIT TË KANDIDATËVE PËR DREJTUES DHE NЁPUNЁS TJERЁ TЁ MISIONIT KONSULLOR",
+"short": "UA 01/2012 MPJ",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2012-01-26",
+"latest": "2012-01-26",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=8110"
+},
+{
 "slug": "udhezim-2012-8122",
 "path": "udhezim/2012/8122",
 "kind": "udhezim",
@@ -16298,6 +16511,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=8763"
 },
 {
+"slug": "vendim-2013-8764",
+"path": "vendim/2013/8764",
+"kind": "vendim",
+"year": "2013",
+"number": "8764",
+"withdrawn_by": null,
+"reason": null,
+"title": "RASTI NR. KI 120/10 PARASHTRUESJA ZYMA BERISHA VLERËSIMI I KUSHTETUTSHMËRISË SË AKTGJYKIMIT TË GJYKATËS SUPREME TË REPUBLIKËS SË KOSOVËS, REV. 308/2007, TË DATËS 10 QERSHOR 2010 MENDIMI MOSPAJTUES I GJYQTARIT ROBERT CAROLAN",
+"short": "KI_120/10 MM 386/13",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2013-04-11",
+"latest": "2013-04-11",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=8764"
+},
+{
 "slug": "aktvendim-2013-8765",
 "path": "aktvendim/2013/8765",
 "kind": "aktvendim",
@@ -17182,6 +17412,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=8834"
 },
 {
+"slug": "vendim-2013-8835",
+"path": "vendim/2013/8835",
+"kind": "vendim",
+"year": "2013",
+"number": "8835",
+"withdrawn_by": null,
+"reason": null,
+"title": "RASTI NR. KI52/12 PARASHTRUES ADIJE ILIRI VLERËSIM I KUSHTETUTSHMËRISË SË VENDIMIT TË GJYKATËS SUPREME TË REPUBLIKËS SË KOSOVËS, AC. NR. 95/2011, TË 8 DHJETORIT 2011 MENDIM KONKURRUES I GJYQTARIT ALMIRO RODRIGUES",
+"short": "KI_52/12 MK 460/13",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2013-07-16",
+"latest": "2013-07-16",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=8835"
+},
+{
 "slug": "aktvendim-2013-8836",
 "path": "aktvendim/2013/8836",
 "kind": "aktvendim",
@@ -17605,6 +17852,23 @@
 "from": "2013-09-10",
 "latest": "2013-09-10",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=8888"
+},
+{
+"slug": "vendim-2013-8889",
+"path": "vendim/2013/8889",
+"kind": "vendim",
+"year": "2013",
+"number": "8889",
+"withdrawn_by": null,
+"reason": null,
+"title": "RASTI NR. KO95/13 PARASHTRUESIT VISAR YMERI DHE 11 DEPUTETË TË TJERË TË KUVENDIT TË REPUBLIKËS SË KOSOVËS...",
+"short": "KO_95/13 MK 467/13",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2013-09-10",
+"latest": "2013-09-10",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=8889"
 },
 {
 "slug": "dekret-2013-8897",
@@ -18806,6 +19070,91 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=9314"
 },
 {
+"slug": "udhezim-2013-9895",
+"path": "udhezim/2013/9895",
+"kind": "udhezim",
+"year": "2013",
+"number": "9895",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV NR. 02/2013 PËR CAKTIMIN E LARTËSISË SË KOMPENSIMIT MATERIAL PËR SHËRBIMET E KRYERA NË LËMIN E VRESHTARISË DHE VERËTARISË TË OFRUARA NGA ENTI I VRESHTARISË DHE VERËTARISË",
+"short": "MBPZHR-02/2013",
+"code": null,
+"status": "repealed, not consolidated",
+"versions": 1,
+"from": "2013-03-20",
+"latest": "2013-03-20",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=9895",
+"amended_by": [
+{
+"ref": "gzk:50597",
+"title": "UDHËZIM ADMINISTRATIV (MBPZHR) - NR.09/2021 PËR SHËRBIMET E KRYERA NË DEPARTAMENTIN E VRESHTARISË DHE VERËTARISË",
+"url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=50597",
+"date": "2021-11-11",
+"relation": "Shfuqizuar nga"
+}
+]
+},
+{
+"slug": "udhezim-2013-9911",
+"path": "udhezim/2013/9911",
+"kind": "udhezim",
+"year": "2013",
+"number": "9911",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV NR. 03/2013 PËR MASAT DHE KRITERET E PËRKRAHJES NË BUJQËSI DHE ZHVILLIM RURAL PËR VITIN 2013",
+"short": "MBPZHR-03/2013",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2013-03-22",
+"latest": "2013-03-22",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=9911",
+"amended_by": [
+{
+"ref": "gzk:10056",
+"title": "UDHËZIM ADMINISTRATIV MBPZHR NR. 13/2013 PËR NDRYSHIMIN DHE PLOTËSIMIN E UDHËZIMIT ADMINISTRATIV NR.03/2013 PËR MASAT DHE KRITERET E PËRKRAHJES NË BUJQËSI DHE ZHVILLIM RURAL PËR VITIN 2013",
+"url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=10056",
+"date": "2013-09-02",
+"relation": "named as amended in its title"
+},
+{
+"ref": "gzk:10066",
+"title": "UDHËZIM ADMINISTRATIV MBPZHR NR. 14/2013 PËR NDRYSHIMIN DHE PLOTËSIMIN E UDHËZIMIT ADMINISTRATIV NR.03/2013 PËR MASAT DHE KRITERET E PËRKRAHJES NË BUJQËSI DHE ZHVILLIM RURAL PËR VITIN 2013",
+"url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=10066",
+"date": "2013-10-23",
+"relation": "named as amended in its title"
+}
+]
+},
+{
+"slug": "udhezim-2013-9920",
+"path": "udhezim/2013/9920",
+"kind": "udhezim",
+"year": "2013",
+"number": "9920",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV NR. 04/2013 PËR PAGESA DIREKTE NË BUJQËSI PËR VITIN 2013",
+"short": "MBPZHR-04/2013",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2013-03-22",
+"latest": "2013-03-22",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=9920",
+"amended_by": [
+{
+"ref": "gzk:10045",
+"title": "UDHËZIM ADMINISTRATIV MBPZHR NR. 12/2013 PËR NDRYSHIMIN DHE PLOTËSIMIN E UDHËZIMIT ADMINISTRATIV NR.04/2013 PËR PAGESA DIREKTE NË BUJQËSI PËR VITIN 2013",
+"url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=10045",
+"date": "2013-09-02",
+"relation": "Ndryshohet/Plotësohet nga"
+}
+]
+},
+{
 "slug": "rregullore-2013-10008",
 "path": "rregullore/2013/10008",
 "kind": "rregullore",
@@ -18858,6 +19207,40 @@
 ]
 },
 {
+"slug": "udhezim-2013-10045",
+"path": "udhezim/2013/10045",
+"kind": "udhezim",
+"year": "2013",
+"number": "10045",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV MBPZHR NR. 12/2013 PËR NDRYSHIMIN DHE PLOTËSIMIN E UDHËZIMIT ADMINISTRATIV NR.04/2013 PËR PAGESA DIREKTE NË BUJQËSI PËR VITIN 2013",
+"short": "MBPZHR-12/2013",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2013-09-09",
+"latest": "2013-09-09",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=10045"
+},
+{
+"slug": "udhezim-2013-10056",
+"path": "udhezim/2013/10056",
+"kind": "udhezim",
+"year": "2013",
+"number": "10056",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV MBPZHR NR. 13/2013 PËR NDRYSHIMIN DHE PLOTËSIMIN E UDHËZIMIT ADMINISTRATIV NR.03/2013 PËR MASAT DHE KRITERET E PËRKRAHJES NË BUJQËSI DHE ZHVILLIM RURAL PËR VITIN 2013",
+"short": "MBPZHR-13/2013",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2013-09-09",
+"latest": "2013-09-09",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=10056"
+},
+{
 "slug": "udhezim-2013-10066",
 "path": "udhezim/2013/10066",
 "kind": "udhezim",
@@ -18901,6 +19284,32 @@
 ]
 },
 {
+"slug": "udhezim-2013-10099",
+"path": "udhezim/2013/10099",
+"kind": "udhezim",
+"year": "2013",
+"number": "10099",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV NR. 1 /2013/MF PËR PËRCAKTIMIN E FORMËS, PËRMBAJTJES DHE PROCEDURAVE PËR KOSTIMIN E INICIATIVAVE TË REJA TË POLITIKAVE",
+"short": "MF-01/2013",
+"code": null,
+"status": "repealed, not consolidated",
+"versions": 1,
+"from": "2013-03-18",
+"latest": "2013-03-18",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=10099",
+"amended_by": [
+{
+"ref": "gzk:10867",
+"title": "UDHËZIM ADMINISTRATIV (QRK) Nr. 03/2015 PËR VLERËSIM TË NDIKIMIT BUXHETOR PËR NISMAT E REJA QEVERITARE",
+"url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=10867",
+"date": "2015-06-10",
+"relation": "Shfuqizuar nga"
+}
+]
+},
+{
 "slug": "rregullore-2013-10105",
 "path": "rregullore/2013/10105",
 "kind": "rregullore",
@@ -18932,6 +19341,66 @@
 "relation": "Shfuqizuar nga"
 }
 ]
+},
+{
+"slug": "udhezim-2013-10118",
+"path": "udhezim/2013/10118",
+"kind": "udhezim",
+"year": "2013",
+"number": "10118",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADIMINISTRATIV MF – NR. 04/ 2013 PËR VLERËSIMIN E RREZIKUT KOMBËTAR TË PASTRIMIT TË PARAVE DHE FINANCIMIT TË TERRORIZMIT",
+"short": "MF-04/2013",
+"code": null,
+"status": "repealed, not consolidated",
+"versions": 1,
+"from": "2013-09-13",
+"latest": "2013-09-13",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=10118",
+"amended_by": [
+{
+"ref": "gzk:18299",
+"title": "UDHËZIM ADMINISTRATIV MF- NR.04/2018 PËR VLERËSIMIN E RREZIKUT KOMBËTAR PËR PASTRIMIN E PARAVE DHE FINANCIMIN E TERRORIZMIT",
+"url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=18299",
+"date": "2018-12-17",
+"relation": "Shfuqizuar nga"
+}
+]
+},
+{
+"slug": "udhezim-2013-10124",
+"path": "udhezim/2013/10124",
+"kind": "udhezim",
+"year": "2013",
+"number": "10124",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIMI ADMINISTRATIV MF - NR. 05/2013 PËR APLIKIMIN E NORMËS SË SHESHTË TË TATIMIT MBI VLERËN E SHTUAR PËR PRODHUESIT BUJQËSOR",
+"short": "MF-05/2013",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2013-09-10",
+"latest": "2013-09-10",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=10124"
+},
+{
+"slug": "udhezim-2013-10141",
+"path": "udhezim/2013/10141",
+"kind": "udhezim",
+"year": "2013",
+"number": "10141",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV MD-NR. 03/2013 PËR KUSHTET MINIMALE TEKNIKE DHE TË TJERA PËRKITAZI ME PAJISJET E NEVOJSHME TË ZYRËS SË PËRMBARUESIT PRIVAT",
+"short": "MD-03/2013",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2013-10-29",
+"latest": "2013-10-29",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=10141"
 },
 {
 "slug": "rregullore-2013-10170",
@@ -18983,6 +19452,49 @@
 "from": "2013-10-29",
 "latest": "2013-10-29",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=10192"
+},
+{
+"slug": "udhezim-2013-10209",
+"path": "udhezim/2013/10209",
+"kind": "udhezim",
+"year": "2013",
+"number": "10209",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV MD-NR. 07/2013 PËR FORMËN DHE MËNYRËN E MBAJTJES SË EVIDENCËS PËR PËRMBARUESIT PRIVAT",
+"short": "MD-07/2013",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2013-10-29",
+"latest": "2013-10-29",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=10209"
+},
+{
+"slug": "udhezim-2013-10224",
+"path": "udhezim/2013/10224",
+"kind": "udhezim",
+"year": "2013",
+"number": "10224",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV1 NR. 02/2013 PËR PROGRAMIN DHE MËNYRËN E DHËNIES SË PROVIMIT PËR PËRMBARUESIT PRIVAT",
+"short": "MD- 02/2013",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2013-04-22",
+"latest": "2013-04-22",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=10224",
+"amended_by": [
+{
+"ref": "gzk:111106",
+"title": "UDHËZIM ADMINISTRATIV MD- NR. 08/2025 PËR NDRYSHIMIN DHE PLOTËSIMIN E UDHËZIMIT ADMINISTRATIV NR.02/2013 PËR PROGRAMIN DHE MËNYRËN E DHËNIES SË PROVIMIT PËR PËRMBARUESIT PRIVAT",
+"url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=111106",
+"date": "2025-10-06",
+"relation": "Ndryshohet/Plotësohet nga"
+}
+]
 },
 {
 "slug": "rregullore-2013-10229",
@@ -19103,6 +19615,49 @@
 "from": "2013-09-02",
 "latest": "2013-09-02",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=10301"
+},
+{
+"slug": "udhezim-2013-10306",
+"path": "udhezim/2013/10306",
+"kind": "udhezim",
+"year": "2013",
+"number": "10306",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV QRK-NR. 07/2013 PËR KOMPENSIMIN E PUNËS JASHTË ORARIT DHE PJESËMARRJEN NË SEANCA GJYQËSORE TË EKSPERTËVE MJEKO - LIGJOR",
+"short": "QRK-07/2013",
+"code": null,
+"status": "repealed, not consolidated",
+"versions": 1,
+"from": "2013-10-14",
+"latest": "2013-10-14",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=10306",
+"amended_by": [
+{
+"ref": "gzk:51389",
+"title": "UDHËZIM ADMINISTRATIV (QRK) - Nr. 08/2021 PËR SHFUQIZIMIN E UDHËZIMIT ADMINISTRATIV (QRK) - Nr. 07/2013 PËR KOMPENSIMIN E PUNËS JASHTË ORARIT DHE PJESËMARRJEN NË SEANCA GJYQËSORE TË EKSPERTËVE MJEKO - LIGJOR",
+"url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=51389",
+"date": "2021-12-15",
+"relation": "Shfuqizuar nga"
+}
+]
+},
+{
+"slug": "udhezim-2013-10313",
+"path": "udhezim/2013/10313",
+"kind": "udhezim",
+"year": "2013",
+"number": "10313",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV(QRK) Nr.17/2013 PËR PËRBËRJEN FORMALE, KOMPETENCAT, PËRGJEGJËSITË DHE MËNYRËN E FUNKSIONIMIT TË AUTORITETIT KOMBËTAR KUNDËR TRAFIKIMIT ME NJERËZ",
+"short": "QRK-17/2013",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2013-01-17",
+"latest": "2013-01-17",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=10313"
 },
 {
 "slug": "udhezim-2013-10323",
@@ -21091,6 +21646,23 @@
 "from": "2014-05-05",
 "latest": "2014-05-05",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=9461"
+},
+{
+"slug": "vendim-2014-9464",
+"path": "vendim/2014/9464",
+"kind": "vendim",
+"year": "2014",
+"number": "9464",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIM - SHPALLEN ZGJEDHJET E PARAKOHSHME PËR KUVENDIN E KOSOVËS",
+"short": "Vendim per Zgjedhjet e Parakoshme te K.Kosoves",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2014-05-08",
+"latest": "2014-05-08",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=9464"
 },
 {
 "slug": "aktvendim-2014-9465",
@@ -23253,6 +23825,23 @@
 ]
 },
 {
+"slug": "udhezim-2014-9883",
+"path": "udhezim/2014/9883",
+"kind": "udhezim",
+"year": "2014",
+"number": "9883",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV (MTI) - Nr.10/2014 PËR PËRMBAJTJEN E KATALOGUT TË AKOMODIMEVE",
+"short": "MTI-10/2014",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2014-08-15",
+"latest": "2014-08-15",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=9883"
+},
+{
 "slug": "rregullore-2014-9917",
 "path": "rregullore/2014/9917",
 "kind": "rregullore",
@@ -23275,6 +23864,32 @@
 "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=9917",
 "date": null,
 "relation": "noted in the title"
+}
+]
+},
+{
+"slug": "udhezim-2014-9927",
+"path": "udhezim/2014/9927",
+"kind": "udhezim",
+"year": "2014",
+"number": "9927",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV MD-NR.05/2014 PËR KUSHTET HIGJIENO SANITARE PËR PERSONAT E DËNUAR",
+"short": "MD-05/2014",
+"code": null,
+"status": "repealed, not consolidated",
+"versions": 1,
+"from": "2014-04-03",
+"latest": "2014-04-03",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=9927",
+"amended_by": [
+{
+"ref": "gzk:81434",
+"title": "UDHËZIM ADMINISTRATIV MD – NR. 10/2023 PËR RENDIN SHTËPIAK NË INSTITUCIONET KORREKTUESE UDHËZIM ADMINISTRATIV MD – NR. 10/2023 PËR RENDIN SHTËPIAK NË INSTITUCIONET KORREKTUESE",
+"url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=81434",
+"date": "2023-09-19",
+"relation": "Shfuqizuar nga"
 }
 ]
 },
@@ -23303,6 +23918,57 @@
 "relation": "Shfuqizuar nga"
 }
 ]
+},
+{
+"slug": "udhezim-2014-9985",
+"path": "udhezim/2014/9985",
+"kind": "udhezim",
+"year": "2014",
+"number": "9985",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV MD - NR. 11/2014 PËR RUAJTJEN E REZULTATEVE TË EKZAMINIMIT MOLEKULAR DHE GJENETIK",
+"short": "MD-11/2014",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2014-09-23",
+"latest": "2014-09-23",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=9985"
+},
+{
+"slug": "udhezim-2014-10013",
+"path": "udhezim/2014/10013",
+"kind": "udhezim",
+"year": "2014",
+"number": "10013",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV MD - NR.10/2014 PËR AUTOPSINË MJEKOLIGJORE, UDHËZIMET DHE STANDARDET LIDHUR ME AUTOPSINË",
+"short": "MD-10/2014",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2014-09-19",
+"latest": "2014-09-19",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=10013"
+},
+{
+"slug": "udhezim-2014-10025",
+"path": "udhezim/2014/10025",
+"kind": "udhezim",
+"year": "2014",
+"number": "10025",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV MD-NR.09/2014 PËR PROCEDURËN DISIPLINORE NDAJ PËRMBARUESIT PRIVAT",
+"short": "MD-09/2014",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2014-05-20",
+"latest": "2014-05-20",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=10025"
 },
 {
 "slug": "udhezim-2014-10067",
@@ -23348,6 +24014,32 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=10090"
 },
 {
+"slug": "udhezim-2014-10112",
+"path": "udhezim/2014/10112",
+"kind": "udhezim",
+"year": "2014",
+"number": "10112",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV (MBPZHR) NR.16/2014 KRITERET PËR MBËSHTETJE TË STRATEGJIVE ZHVILLIMORE LOKALE – QASJA LEADER",
+"short": "MBPZHR-16/2014",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2014-06-04",
+"latest": "2014-06-04",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=10112",
+"amended_by": [
+{
+"ref": "gzk:10139",
+"title": "UDHËZIM ADMINISTRATIV (MBPZHR) NR. 19/20014 PËR NDRYSHIMIN DHE PLOTËSIMIN E UDHËZIMIT ADMINISTRATIV (MBPZHR) NR. 16/2014 KRITERET PËR MBËSHTETJE TË STRATEGJIVE ZHVILLIMORE LOKALE-QASJA LEADER",
+"url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=10139",
+"date": "2014-09-04",
+"relation": "named as amended in its title"
+}
+]
+},
+{
 "slug": "udhezim-2014-10290",
 "path": "udhezim/2014/10290",
 "kind": "udhezim",
@@ -23363,6 +24055,32 @@
 "from": "2014-09-15",
 "latest": "2014-09-15",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=10290"
+},
+{
+"slug": "udhezim-2014-10300",
+"path": "udhezim/2014/10300",
+"kind": "udhezim",
+"year": "2014",
+"number": "10300",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV MD-NR. 04/2014 PËR NDRYSHIMIN DHE PLOTËSIMIN E UDHËZIMIT ADMINISTRATIV NR. 03/2012 PËR MËNYRËN E REDAKTIMIT TË AKTEVE TË NOTERISË",
+"short": "MD-04/2014",
+"code": null,
+"status": "repealed, not consolidated",
+"versions": 1,
+"from": "2014-02-12",
+"latest": "2014-02-12",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=10300",
+"amended_by": [
+{
+"ref": "gzk:25516",
+"title": "UDHËZIM ADMINISTRATIV MD-NR. 11/2019 PËR FORMËN DHE MËNYRËN E PËRPILIMIT DHE SHËNIMIT TË DOKUMENTEVE NOTERIALE",
+"url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=25516",
+"date": "2019-12-10",
+"relation": "Shfuqizuar nga"
+}
+]
 },
 {
 "slug": "rregullore-2014-10353",
@@ -23686,6 +24404,32 @@
 "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=10434",
 "date": null,
 "relation": "noted in the title"
+}
+]
+},
+{
+"slug": "udhezim-2014-10441",
+"path": "udhezim/2014/10441",
+"kind": "udhezim",
+"year": "2014",
+"number": "10441",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV MF- NR.05/2014 PËR PLOTËSIMIN DHE NDRYSHIMIN E UDHËZIMIT ADMINISTRATIV NR. 11/2009 PËR IMPLEMENTIMIN E KODIT DOGANOR DHE TË AKCIZAVE, TË PLOTËSUAR DHE NDRYSHUAR ME UDHËZIMIN ADMINISTRATIV NR. 05/2010 DHE ME UDHËZIMIN ADMINISTRATIV NR. 06/2013",
+"short": "MF-05/2014",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2014-11-25",
+"latest": "2014-11-25",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=10441",
+"amended_by": [
+{
+"ref": "gzk:53915",
+"title": "UDHËZIM ADMINISTRATIV MFPT- NR. 02/2022 PËR NDRYSHIMIN DHE PLOTËSIMIN E UDHËZIMIT ADMINISTRATIV NR. 11/2009 PËR IMPLEMENTIMIN E KODIT NR. 03/L-109 DOGANOR DHE I AKCIZAVE, I PLOTËSUAR DHE NDRYSHUAR ME UDHËZIMIN ADMINISTRATIV NR. 05/2010, UDHËZIMIN ADMINISTRATIV NR. 06/2013 DHE ME UDHËZIMIN ADMINISTRATIV NR.05/2014",
+"url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=53915",
+"date": "2022-02-16",
+"relation": "Ndryshohet/Plotësohet nga"
 }
 ]
 },
@@ -26507,6 +27251,23 @@
 ]
 },
 {
+"slug": "udhezim-2015-10954",
+"path": "udhezim/2015/10954",
+"kind": "udhezim",
+"year": "2015",
+"number": "10954",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV MD-NR.06/2015 PËR PËRDORIMIN E FORCËS, LEJIMIN DHE PËRDORIMIN E MJETEVE SHTRËNGUESE DHE LEJIMIN, PËRDORIMIN DHE RUAJTJEN E ARMËVE TË ZJARRIT NË INSTITUCIONET KORREKTUESE",
+"short": "MD-06/2015",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2015-06-30",
+"latest": "2015-06-30",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=10954"
+},
+{
 "slug": "aktvendim-2015-10963",
 "path": "aktvendim/2015/10963",
 "kind": "aktvendim",
@@ -26590,6 +27351,23 @@
 "from": "2015-07-10",
 "latest": "2015-07-10",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=10967"
+},
+{
+"slug": "udhezim-2015-10975",
+"path": "udhezim/2015/10975",
+"kind": "udhezim",
+"year": "2015",
+"number": "10975",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV (MZHE) Nr.01 /2015 PËR RREGULLAT PËR USHTRIMIN E KONTROLLIT TË OPERATORËVE POSTAR",
+"short": "MZHE-01/2015",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2015-07-15",
+"latest": "2015-07-15",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=10975"
 },
 {
 "slug": "vendim-2015-10978",
@@ -26740,6 +27518,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11001"
 },
 {
+"slug": "udhezim-2015-11007",
+"path": "udhezim/2015/11007",
+"kind": "udhezim",
+"year": "2015",
+"number": "11007",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV (MAP) NR. 01/2015 PËR UEB FAQET E INSTITUCIONEVE PUBLIKE",
+"short": "MAP 01/2015",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2015-06-04",
+"latest": "2015-06-04",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11007"
+},
+{
 "slug": "aktvendim-2015-11008",
 "path": "aktvendim/2015/11008",
 "kind": "aktvendim",
@@ -26789,6 +27584,23 @@
 "from": "2015-08-13",
 "latest": "2015-08-13",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11010"
+},
+{
+"slug": "udhezim-2015-11011",
+"path": "udhezim/2015/11011",
+"kind": "udhezim",
+"year": "2015",
+"number": "11011",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV (MAP) NR. 02/2015 PËR LLOGARITË ELEKTRONIKE ZYRTARE",
+"short": "MAP 02/2015",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2015-06-04",
+"latest": "2015-06-04",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=11011"
 },
 {
 "slug": "aktvendim-2015-11024",
@@ -29347,6 +30159,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=12072"
 },
 {
+"slug": "udhezim-2015-15050",
+"path": "udhezim/2015/15050",
+"kind": "udhezim",
+"year": "2015",
+"number": "15050",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV (MBPZHR) NR.01/2015 PËR MASAT DHE KRITERET E PËRKRAHJES NË BUJQËSI DHE ZHVILLIM RURAL PËR VITIN 2015",
+"short": "MBPZHR-01/2015-UA",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2015-03-09",
+"latest": "2015-03-09",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15050"
+},
+{
 "slug": "udhezim-2015-15056",
 "path": "udhezim/2015/15056",
 "kind": "udhezim",
@@ -29439,6 +30268,23 @@
 "from": "2015-11-13",
 "latest": "2015-11-13",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15116"
+},
+{
+"slug": "udhezim-2015-15119",
+"path": "udhezim/2015/15119",
+"kind": "udhezim",
+"year": "2015",
+"number": "15119",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV (MBPZHR) - NR.12/2015 PËR FORMËN DHE PËRMBAJTJEN E PLANIT VJETOR TË TRAJNIMIT PËR KËSHILLTARË PËR BUJQËSI DHE ZHVILLIM RURAL",
+"short": "MBPZHR-12.2015-UA",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2015-11-13",
+"latest": "2015-11-13",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15119"
 },
 {
 "slug": "udhezim-2015-15124",
@@ -30038,6 +30884,49 @@
 "from": "2016-03-10",
 "latest": "2016-03-10",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=12221"
+},
+{
+"slug": "udhezim-2016-12233",
+"path": "udhezim/2016/12233",
+"kind": "udhezim",
+"year": "2016",
+"number": "12233",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV Nr. 01/2016 PËR ZBATIMIN E LIGJIT NR. 05/L-028 PËR TATIMIN NË TË ARDHURAT PERSONALE",
+"short": "MF-01/2016",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2016-03-22",
+"latest": "2016-03-22",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=12233",
+"amended_by": [
+{
+"ref": "gzk:12507",
+"title": "UDHËZIM ADMINISTRATIV MF-NR. 03/ 2016 PËR PLOTËSIM NDRYSHIMIN E UDHËZIMIT ADMINISTRATIV NR. 15/2010, I NDRYSHUAR DHE PLOTËSUAR ME UDHËZIMIN ADMINISTRATIV NR. 01/2012, UDHËZIMIT ADMINISTRATIV NR. 03/2015 DHE UDHËZIMIT ADMINISTRATIV NR. 01/2016 - PËR VIZITAT EDUKATIVE PËR TATIMPAGUES, REGJISTRIMIN E TATIMPAGUESVE NË TVSH DHE REGJISTRIMIN E TË PUNËSUARVE",
+"url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=12507",
+"date": "2016-06-01",
+"relation": "Ndryshohet/Plotësohet nga"
+}
+]
+},
+{
+"slug": "udhezim-2016-12240",
+"path": "udhezim/2016/12240",
+"kind": "udhezim",
+"year": "2016",
+"number": "12240",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV MF-Nr. 02/2016 PËR ZBATIMIN E LIGJIT NR. 05/L-029 PËR TATIMIN NË TË ARDHURAT E KORPORATAVE",
+"short": "MF-02/2016",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2016-03-22",
+"latest": "2016-03-22",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=12240"
 },
 {
 "slug": "marreveshje-2016-12252",
@@ -30887,6 +31776,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=12499"
 },
 {
+"slug": "udhezim-2016-12507",
+"path": "udhezim/2016/12507",
+"kind": "udhezim",
+"year": "2016",
+"number": "12507",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV MF-NR. 03/ 2016 PËR PLOTËSIM NDRYSHIMIN E UDHËZIMIT ADMINISTRATIV NR. 15/2010, I NDRYSHUAR DHE PLOTËSUAR ME UDHËZIMIN ADMINISTRATIV NR. 01/2012, UDHËZIMIT ADMINISTRATIV NR. 03/2015 DHE UDHËZIMIT ADMINISTRATIV NR. 01/2016 - PËR VIZITAT EDUKATIVE PËR TATIMPAGUES, REGJISTRIMIN E TATIMPAGUESVE NË TVSH DHE REGJISTRIMIN E TË PUNËSUARVE",
+"short": "MF-03/2016",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2016-05-30",
+"latest": "2016-05-30",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=12507"
+},
+{
 "slug": "local-podujeve-2016-12527",
 "path": "local/podujeve/2016/12527",
 "kind": "local",
@@ -31389,6 +32295,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=12709"
 },
 {
+"slug": "udhezim-2016-12736",
+"path": "udhezim/2016/12736",
+"kind": "udhezim",
+"year": "2016",
+"number": "12736",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV MF -Nr. 05/2016 PËR SKEMËN E VEÇANTË PËR ARIN E INVESTUESHËM",
+"short": "MF-05/2016",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2016-07-22",
+"latest": "2016-07-22",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=12736"
+},
+{
 "slug": "aktgjykim-2016-12738",
 "path": "aktgjykim/2016/12738",
 "kind": "aktgjykim",
@@ -31637,6 +32560,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=12804"
 },
 {
+"slug": "udhezim-2016-12807",
+"path": "udhezim/2016/12807",
+"kind": "udhezim",
+"year": "2016",
+"number": "12807",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV MD-NR.01/2016 PËR KODIN E ETIKËS PROFESIONALE PËR ZYRTARËT KORREKTUES NË SHËRBIMIT KORREKTUES",
+"short": "MD-01/2016",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2016-08-26",
+"latest": "2016-08-26",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=12807"
+},
+{
 "slug": "marreveshje-2016-12817",
 "path": "marreveshje/2016/12817",
 "kind": "marreveshje",
@@ -31843,6 +32783,58 @@
 "from": "2016-10-11",
 "latest": "2016-10-11",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=12897"
+},
+{
+"slug": "udhezim-2016-12935",
+"path": "udhezim/2016/12935",
+"kind": "udhezim",
+"year": "2016",
+"number": "12935",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV MD- NR.03/2016 PËR NDRYSHIMIN DHE PLOTËSIMIN E UDHËZIMIT ADMINISTRATIV MD-NR. 03/2015 PËR SHPËRBLIMIN E PUNËS SË KOMISIONIT PËR DHËNIEN E PROVIMIT TË JURISPRUDENCËS",
+"short": "MD-03/2016",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2016-10-18",
+"latest": "2016-10-18",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=12935",
+"amended_by": [
+{
+"ref": "gzk:41237",
+"title": "UDHËZIM ADMINISTRATIV MD- NR.02/2021 PËR NDRYSHIMIN DHE PLOTËSIMIN E UDHËZIMIT ADMINISTRATIV MD- NR.03/2015 PËR SHPËRBLIMIN E PUNËS SË KOMISIONIT PËR DHËNIEN E PROVIMIT TË JURISPRUDENCËS, I NDRYSHUAR ME UDHËZIMIN ADMINISTRATIV MD-NR.03/2016",
+"url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=41237",
+"date": "2021-05-07",
+"relation": "named as amended in its title"
+}
+]
+},
+{
+"slug": "udhezim-2016-12936",
+"path": "udhezim/2016/12936",
+"kind": "udhezim",
+"year": "2016",
+"number": "12936",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV MD-NR.02/2016 PËR DËNIMET DHE PROCEDURËN DISIPLINORE PËR PERSONAT E DËNUAR",
+"short": "MD-02/2016",
+"code": null,
+"status": "repealed, not consolidated",
+"versions": 1,
+"from": "2016-10-05",
+"latest": "2016-10-05",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=12936",
+"amended_by": [
+{
+"ref": "gzk:99461",
+"title": "UDHËZIM ADMINISTRATIV NR. 15/2024 PËR PROCEDURËN DISIPLINORE, KLASIFIKIMIN DHE SHQIPTIMIN E DËNIMEVE DISIPLINORE PËR PERSONAT E DËNUAR",
+"url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=99461",
+"date": "2024-12-05",
+"relation": "Shfuqizuar nga"
+}
+]
 },
 {
 "slug": "aktvendim-2016-12983",
@@ -32321,6 +33313,236 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=13083"
 },
 {
+"slug": "vendim-2016-13095",
+"path": "vendim/2016/13095",
+"kind": "vendim",
+"year": "2016",
+"number": "13095",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMI NR. 003-16 PËR SHPALLJËN NË MBROJTJE TË PËRHERSHME TË ASETIT TË TRASHËGIMISË KULTURORE ‘’KALAJA E KORISHËS’’",
+"short": "V-003/16-KKTK",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2016-10-06",
+"latest": "2016-10-06",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=13095"
+},
+{
+"slug": "vendim-2016-13102",
+"path": "vendim/2016/13102",
+"kind": "vendim",
+"year": "2016",
+"number": "13102",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMI NR. 007-16 PËR SHPALLJËN NË MBROJTJE TË PËRHERSHME TË ASETIT TË TRASHËGIMISË KULTURORE ‘’KALAJA E VJETËR’’",
+"short": "V-007/16-KKTK",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2016-10-06",
+"latest": "2016-10-06",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=13102"
+},
+{
+"slug": "vendim-2016-13103",
+"path": "vendim/2016/13103",
+"kind": "vendim",
+"year": "2016",
+"number": "13103",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMI NR. 008-16 PËR SHPALLJËN NË MBROJTJE TË PËRHERSHME TË ASETIT TË TRASHËGIMISË KULTURORE ‘’FUSHA E MADHE DHE TUMA’’",
+"short": "V-008/16-KKTK",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2016-10-06",
+"latest": "2016-10-06",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=13103"
+},
+{
+"slug": "vendim-2016-13105",
+"path": "vendim/2016/13105",
+"kind": "vendim",
+"year": "2016",
+"number": "13105",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMI NR. 010-16 PËR SHPALLJËN NË MBROJTJE TË PËRHERSHME TË ASETIT TË TRASHËGIMISË KULTURORE ‘’XHAMIA E MBRETIT’’",
+"short": "V-010/16-KKTK",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2016-10-06",
+"latest": "2016-10-06",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=13105"
+},
+{
+"slug": "vendim-2016-13108",
+"path": "vendim/2016/13108",
+"kind": "vendim",
+"year": "2016",
+"number": "13108",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMI NR. 013-16 PËR SHPALLJËN NË MBROJTJE TË PËRHERSHME TË ASETIT TË TRASHËGIMISË KULTURORE ‘’XHAMIA E SINAN PASHËS’’",
+"short": "V-013/16-KKTK",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2016-10-06",
+"latest": "2016-10-06",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=13108"
+},
+{
+"slug": "vendim-2016-13111",
+"path": "vendim/2016/13111",
+"kind": "vendim",
+"year": "2016",
+"number": "13111",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMI NR. 016-16 PËR SHPALLJËN NË MBROJTJE TË PËRHERSHME TË ASETIT TË TRASHËGIMISË KULTURORE ‘’KULLA E HAXHI ZEKËS NË LESHAN’’",
+"short": "V-016/16-KKTK",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2016-10-06",
+"latest": "2016-10-06",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=13111"
+},
+{
+"slug": "vendim-2016-13112",
+"path": "vendim/2016/13112",
+"kind": "vendim",
+"year": "2016",
+"number": "13112",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMI NR. 017-16 PËR SHPALLJËN NË MBROJTJE TË PËRHERSHME TË ASETIT TË TRASHËGIMISË KULTURORE ‘’SHTËPI BANIMI (ISH-AKADEMIA E SHKENCAVE DHE ARTEVE)’’",
+"short": "V-017/16-KKTK",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2016-10-06",
+"latest": "2016-10-06",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=13112"
+},
+{
+"slug": "vendim-2016-13113",
+"path": "vendim/2016/13113",
+"kind": "vendim",
+"year": "2016",
+"number": "13113",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMI NR. 018-16 PËR SHPALLJËN NË MBROJTJE TË PËRHERSHME TË ASETIT TË TRASHËGIMISË KULTURORE ‘’SHTËPI BANIMI (IMMK)’’",
+"short": "V-018/16-KKTK",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2016-10-06",
+"latest": "2016-10-06",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=13113"
+},
+{
+"slug": "vendim-2016-13114",
+"path": "vendim/2016/13114",
+"kind": "vendim",
+"year": "2016",
+"number": "13114",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMI NR. 019-16 PËR SHPALLJËN NË MBROJTJE TË PËRHERSHME TË ASETIT TË TRASHËGIMISË KULTURORE ‘’KOMPLEKS BANIMI (EMIN GJIKU) MUZEU ETNOLOGJIK’’",
+"short": "V-019/16-KKTK",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2016-10-06",
+"latest": "2016-10-06",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=13114"
+},
+{
+"slug": "vendim-2016-13116",
+"path": "vendim/2016/13116",
+"kind": "vendim",
+"year": "2016",
+"number": "13116",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMI NR. 020-16 PËR SHPALLJËN NË MBROJTJE TË PËRHERSHME TË ASETIT TË TRASHËGIMISË KULTURORE ‘’MANASTIRI I DEÇANIT’’",
+"short": "V-020/16-KKTK",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2016-10-06",
+"latest": "2016-10-06",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=13116"
+},
+{
+"slug": "vendim-2016-13118",
+"path": "vendim/2016/13118",
+"kind": "vendim",
+"year": "2016",
+"number": "13118",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMI NR. 022-16 PËR SHPALLJËN NË MBROJTJE TË PËRHERSHME TË ASETIT TË TRASHËGIMISË KULTURORE ‘’MANASTIRI I GRAÇANICËS’’",
+"short": "V-022/16-KKTK",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2016-10-06",
+"latest": "2016-10-06",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=13118"
+},
+{
+"slug": "vendim-2016-13120",
+"path": "vendim/2016/13120",
+"kind": "vendim",
+"year": "2016",
+"number": "13120",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMI NR. 023-16 PËR SHPALLJËN NË MBROJTJE TË PËRHERSHME TË ASETIT TË TRASHËGIMISË KULTURORE ‘’KISHA E SHËN PRËMTËS (KISHA E LEVISHËS)’’",
+"short": "V-023/16-KKTK",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2016-10-06",
+"latest": "2016-10-06",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=13120"
+},
+{
+"slug": "udhezim-2016-13130",
+"path": "udhezim/2016/13130",
+"kind": "udhezim",
+"year": "2016",
+"number": "13130",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV MF - Nr. 06/2016 PËR PLOTËSIM NDRYSHIMIN E UDHËZIMIT ADMINISTRATIV NR. 03/2015 PËR ZBATIMIN E LIGJIT NR. 05/L-037 PËR TATIMIN MBI VLERËN E SHTUAR",
+"short": "MF-06/2016",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2016-12-08",
+"latest": "2016-12-08",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=13130",
+"amended_by": [
+{
+"ref": "gzk:16042",
+"title": "UDHËZIM ADMINISTRATIV MF-Nr.01/2018 PËR PLOTËSIM NDRYSHIMIN E UDHËZIMIT ADMINISTRATIV NR. 06/2016 PËR ZBATIMIN E LIGJIT NR. 05/L-037 PËR TATIMIN MBI VLERËN E SHTUAR",
+"url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=16042",
+"date": "2018-02-27",
+"relation": "Ndryshohet/Plotësohet nga"
+}
+]
+},
+{
 "slug": "local-prishtine-2016-13147",
 "path": "local/prishtine/2016/13147",
 "kind": "local",
@@ -32654,6 +33876,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=13186"
 },
 {
+"slug": "udhezim-2016-13207",
+"path": "udhezim/2016/13207",
+"kind": "udhezim",
+"year": "2016",
+"number": "13207",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV MD-Nr. 04/2016 PËR KRITERET QË DUHET TË PLOTËSOJ ORGANI QË REALIZON MBIKËQYRJEN ELEKTRONIKE, TË DREJTAT DHE DETYRIMET E TIJ SI DHE PËRCAKTIMI I KRITEREVE PËR DHËNJEN E AUTORIZIMEVE",
+"short": "MD-04/2016",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2016-10-28",
+"latest": "2016-10-28",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=13207"
+},
+{
 "slug": "local-prishtine-2016-13212",
 "path": "local/prishtine/2016/13212",
 "kind": "local",
@@ -32955,6 +34194,39 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15122"
 },
 {
+"slug": "udhezim-2016-15132",
+"path": "udhezim/2016/15132",
+"kind": "udhezim",
+"year": "2016",
+"number": "15132",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV (MBPZHR) - NR.02/2016 PËR MASAT DHE KRITERET E PËRKRAHJES NË BUJQËSI DHE ZHVILLIM RURAL PËR VITIN 2016",
+"short": "MBPZHR-02/2016-UA",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2016-03-08",
+"latest": "2016-03-08",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15132",
+"amended_by": [
+{
+"ref": "gzk:15174",
+"title": "UDHËZIM ADMINISTRATIV (MBPZHR) - NR. 08/2016 PËR NDRYSHIMIN DHE PLOTËSIMIN E UDHËZIMIT ADMINISTRATIV (MBPZHR) NR.02/2016 PËR MASAT DHE KRITERET E PËRKRAHJES NË BUJQËSI DHE ZHVILLIM RURAL PËR VITIN 2016",
+"url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15174",
+"date": "2016-09-16",
+"relation": "Ndryshohet/Plotësohet nga"
+},
+{
+"ref": "gzk:15154",
+"title": "UDHËZIM ADMINISTRATIV (MBPZHR) - NR. 11/2016 PËR NDRYSHIMIN DHE PLOTËSIMIN E UDHËZIMIT ADMINISTRATIV (MBPZHR) NR.02/2016 PËR MASAT DHE KRITERET E PËRKRAHJES NË BUJQËSI DHE ZHVILLIM RURAL PËR VITIN 2016",
+"url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15154",
+"date": "2016-10-26",
+"relation": "Ndryshohet/Plotësohet nga"
+}
+]
+},
+{
 "slug": "udhezim-2016-15144",
 "path": "udhezim/2016/15144",
 "kind": "udhezim",
@@ -33007,6 +34279,32 @@
 ]
 },
 {
+"slug": "udhezim-2016-15160",
+"path": "udhezim/2016/15160",
+"kind": "udhezim",
+"year": "2016",
+"number": "15160",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV (MBPZHR) - NR. 04/2016 PËR LICENCIMIN E PRODHUESVE DHE RIPAKETUESVE TË PLEHRAVE ARTIFICIALE",
+"short": "MBPZHR-04/2016-UA",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2016-06-21",
+"latest": "2016-06-21",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15160",
+"amended_by": [
+{
+"ref": "gzk:95923",
+"title": "UDHËZIM ADMINISTRATIV (MBPZHR)-NR.17/2024 PËR NDRYSHIMIN DHE PLOTËSIMIN E UDHËZIMIT ADMINISTRATIV (MBPZHR) NR.04/2016 PËR LICENCIMIN E PRODHUESVE DHE RI PAKETUESVE TË PLEHRAVE ARTIFICIALE",
+"url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=95923",
+"date": "2024-08-15",
+"relation": "Ndryshohet/Plotësohet nga"
+}
+]
+},
+{
 "slug": "udhezim-2016-15174",
 "path": "udhezim/2016/15174",
 "kind": "udhezim",
@@ -33022,6 +34320,23 @@
 "from": "2016-09-23",
 "latest": "2016-09-23",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15174"
+},
+{
+"slug": "udhezim-2016-15177",
+"path": "udhezim/2016/15177",
+"kind": "udhezim",
+"year": "2016",
+"number": "15177",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV (MBPZHR) - NR. 07/2016 PER NDALIMIN E PËRDORIMIT TE SUBSTANCAVE TË CAKTUARA NË BLEGTORI QË KANË VEPRIM HORMONAL OSE TIREOSTATIK DHE BETA-AGONISTËVE",
+"short": "MBPZHR-07/2016-UA",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2016-09-23",
+"latest": "2016-09-23",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15177"
 },
 {
 "slug": "local-prishtine-2016-15291",
@@ -33569,6 +34884,40 @@
 "latest": "2017-03-02",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=13423",
 "municipality": "prishtine"
+},
+{
+"slug": "udhezim-2017-13425",
+"path": "udhezim/2017/13425",
+"kind": "udhezim",
+"year": "2017",
+"number": "13425",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV (MZHE) NR. 01/2017 PËR PROMOVIMIN E INVESTIMEVE TË PËRBASHKËTA RAJONALE NË SEKTORIN E ENERGJISË",
+"short": "MZHE-01/2017",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2017-02-27",
+"latest": "2017-02-27",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=13425"
+},
+{
+"slug": "udhezim-2017-13427",
+"path": "udhezim/2017/13427",
+"kind": "udhezim",
+"year": "2017",
+"number": "13427",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV (MZHE) Nr. 02/2017 LIDHUR ME LLOJIN DHE SASINË E REZERVAVE MINIMALE TË LËNDËS DJEGËSE OSE TË KAPACITETIT PRODHUES REZERVË PËR NDËRMARRJET E ENERGJISË TERMIKE",
+"short": "MZHE-02/2017",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2017-02-27",
+"latest": "2017-02-27",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=13427"
 },
 {
 "slug": "aktvendim-2017-13449",
@@ -34134,6 +35483,23 @@
 "relation": "Shfuqizuar nga"
 }
 ]
+},
+{
+"slug": "udhezim-2017-14688",
+"path": "udhezim/2017/14688",
+"kind": "udhezim",
+"year": "2017",
+"number": "14688",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV (MZHE) Nr. 04/2017 MBI RREGULLAT PËR MASAT KUFIZUESE TË FURNIZIMIT ME ENERGJI NË SITUATA EMERGJENTE",
+"short": "MZHE-04/2017",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2017-05-10",
+"latest": "2017-05-10",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=14688"
 },
 {
 "slug": "aktvendim-2017-14749",
@@ -34835,6 +36201,23 @@
 ]
 },
 {
+"slug": "udhezim-2017-14902",
+"path": "udhezim/2017/14902",
+"kind": "udhezim",
+"year": "2017",
+"number": "14902",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV MD-NR.02/2017 PËR FSHEHTËSINË E INFORMACIONEVE, DHËNIEN DHE ZBULIMIN E TYRE SI DHE UDHËZIME PËR MEDIAT PËR PUBLICITETIN E PUNËS SË SHËRBIMIT KORREKTUES DHE SHËRBIMIT SPROVUES",
+"short": "MD-02/2017-UA",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2017-06-12",
+"latest": "2017-06-12",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=14902"
+},
+{
 "slug": "aktvendim-2017-14922",
 "path": "aktvendim/2017/14922",
 "kind": "aktvendim",
@@ -35003,6 +36386,49 @@
 "from": "2017-07-20",
 "latest": "2017-07-20",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=14931"
+},
+{
+"slug": "udhezim-2017-14963",
+"path": "udhezim/2017/14963",
+"kind": "udhezim",
+"year": "2017",
+"number": "14963",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV (MZHE) NR.07/2017 LIDHUR ME NIVELIN E REZERVAVE TË LËNDËVE DJEGËSE PËR PRODHUESIT E ENERGJISË ELEKTRIKE",
+"short": "MZHE-07/2017-UA",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2017-08-14",
+"latest": "2017-08-14",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=14963"
+},
+{
+"slug": "udhezim-2017-14964",
+"path": "udhezim/2017/14964",
+"kind": "udhezim",
+"year": "2017",
+"number": "14964",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV (MZHE) NR. 06/2017 PËR PROMOVIMIN E SHFRYTËZIMIT TË ENERGJISË NGA BURIMET E RIPËRTËRISHME",
+"short": "MZHE-06/2017-UA",
+"code": null,
+"status": "repealed, not consolidated",
+"versions": 1,
+"from": "2017-08-14",
+"latest": "2017-08-14",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=14964",
+"amended_by": [
+{
+"ref": "gzk:73462",
+"title": "UDHËZIM ADMINISTRATIV (ME) NR.01/2023 PËR PROMOVIMIN E ENERGJISË NGA BURIMET E RIPËRTËRISHME",
+"url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=73462",
+"date": "2023-05-02",
+"relation": "Shfuqizuar nga"
+}
+]
 },
 {
 "slug": "vendim-2017-14969",
@@ -35208,6 +36634,40 @@
 "from": "2017-04-28",
 "latest": "2017-04-28",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15131"
+},
+{
+"slug": "udhezim-2017-15133",
+"path": "udhezim/2017/15133",
+"kind": "udhezim",
+"year": "2017",
+"number": "15133",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV (QKR) NR. 05/2017 PËR MALLRAT E LIRUARA NGA TARIFA DOGANORE",
+"short": "QRK-05/2017-UA",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2017-06-02",
+"latest": "2017-06-02",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15133"
+},
+{
+"slug": "udhezim-2017-15134",
+"path": "udhezim/2017/15134",
+"kind": "udhezim",
+"year": "2017",
+"number": "15134",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV (MBPZHR) - NR.02/2017 PËR MASAT DHE KRITERET E PËRKRAHJES NË BUJQËSI DHE ZHVILLIM RURAL PËR VITIN 2017",
+"short": "MBPZHR-02/2017-UA",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2017-02-13",
+"latest": "2017-02-13",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15134"
 },
 {
 "slug": "udhezim-2017-15140",
@@ -35508,6 +36968,23 @@
 "latest": "2017-02-09",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15270",
 "municipality": "prizren"
+},
+{
+"slug": "udhezim-2017-15305",
+"path": "udhezim/2017/15305",
+"kind": "udhezim",
+"year": "2017",
+"number": "15305",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV (QRK) Nr. 09/ 2017 PËR ZYRAT KOMUNALE TË ENERGJISË",
+"short": "QRK-09/ 2017-UA",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2017-09-13",
+"latest": "2017-09-13",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=15305"
 },
 {
 "slug": "vendim-2017-15318",
@@ -37776,6 +39253,32 @@
 ]
 },
 {
+"slug": "udhezim-2018-16130",
+"path": "udhezim/2018/16130",
+"kind": "udhezim",
+"year": "2018",
+"number": "16130",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV (QRK) NR. 03/2018 PËR GJUHËT E HUAJA NË PROGRAMIN E STUDIMIT TË CIKLIT TË DYTË APO TË TRETË",
+"short": "QRK-03/2018-UA",
+"code": null,
+"status": "repealed, not consolidated",
+"versions": 1,
+"from": "2018-03-23",
+"latest": "2018-03-23",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=16130",
+"amended_by": [
+{
+"ref": "gzk:79228",
+"title": "VENDIM NR. 10/109 (Qeveria e Republikës së Kosovës)",
+"url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=79228",
+"date": "2022-11-23",
+"relation": "Shfuqizuar nga"
+}
+]
+},
+{
 "slug": "rregullore-2018-16159",
 "path": "rregullore/2018/16159",
 "kind": "rregullore",
@@ -38090,6 +39593,23 @@
 "from": "2018-04-26",
 "latest": "2018-04-26",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=16302"
+},
+{
+"slug": "udhezim-2018-16334",
+"path": "udhezim/2018/16334",
+"kind": "udhezim",
+"year": "2018",
+"number": "16334",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV (QRK) NR. 09/2018 PËR STANDARDE MINIMALE TË AFTËSISË PSIKO FIZIKE PËR SHOFERË TË AUTOMJETEVE",
+"short": "QRK-09/2018-UA",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2018-05-03",
+"latest": "2018-05-03",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=16334"
 },
 {
 "slug": "aktvendim-2018-16337",
@@ -40524,6 +42044,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=18810"
 },
 {
+"slug": "udhezim-2018-18811",
+"path": "udhezim/2018/18811",
+"kind": "udhezim",
+"year": "2018",
+"number": "18811",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV (QRK) Nr. 05/2018 PËR PROCEDURËN E NJOFTIMIT DHE VLERËSIMIN E PËRPUTHSHMËRISË SË PROJEKT AKTEVE NORMATIVE ME LIGJIN PËR SHËRBIME",
+"short": "QRK-05/2018-UA",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2018-03-30",
+"latest": "2018-03-30",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=18811"
+},
+{
 "slug": "udhezim-2018-18816",
 "path": "udhezim/2018/18816",
 "kind": "udhezim",
@@ -41671,6 +43208,32 @@
 "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=74974",
 "date": "2023-05-18",
 "relation": "Shfuqizuar nga"
+}
+]
+},
+{
+"slug": "udhezim-2019-19004",
+"path": "udhezim/2019/19004",
+"kind": "udhezim",
+"year": "2019",
+"number": "19004",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV MD-NR. 01/2019 PËR MËNYRËN E DHËNIES DHE PROGRAMIN E PROVIMIT PËR NOTERINË",
+"short": "MD-01/19-UA",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2019-04-17",
+"latest": "2019-04-17",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=19004",
+"amended_by": [
+{
+"ref": "gzk:83399",
+"title": "UDHËZIM ADMINISTRATIV MD. NR. 11/2023 PËR NDRYSHIMIN DHE PLOTËSIMIN E UDHËZIMIT ADMINISTRATIV MD-NR. 01/2019 PËR MËNYRËN E DHËNIES DHE PROGRAMIN E PROVIMIT PËR NOTERINË",
+"url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=83399",
+"date": "2023-10-24",
+"relation": "Ndryshohet/Plotësohet nga"
 }
 ]
 },
@@ -43849,6 +45412,32 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=25516"
 },
 {
+"slug": "udhezim-2019-25517",
+"path": "udhezim/2019/25517",
+"kind": "udhezim",
+"year": "2019",
+"number": "25517",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV MD-NR. 10/2019, PËR ORGANIZIMIN DHE MËNYRËN E PUNËS SË NOTERËVE DHE VULAT NOTERIALE",
+"short": "MD-10/2019-UA",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2019-12-04",
+"latest": "2019-12-04",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=25517",
+"amended_by": [
+{
+"ref": "gzk:72016",
+"title": "UDHËZIM ADMINISTRATIV MD-NR. 03/2023 PËR NDRYSHIMIN DHE PLOTËSIMIN E UDHËZIMIT ADMINISTRATIV MD-NR. 10/2019 PËR ORGANIZIMIN DHE MËNYREN E PUNËS SË NOTERËVE DHE VULAT NOTERIALE",
+"url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=72016",
+"date": "2023-04-12",
+"relation": "Ndryshohet/Plotësohet nga"
+}
+]
+},
+{
 "slug": "udhezim-2019-25554",
 "path": "udhezim/2019/25554",
 "kind": "udhezim",
@@ -43950,6 +45539,32 @@
 "from": "2019-12-04",
 "latest": "2019-12-04",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=25577"
+},
+{
+"slug": "udhezim-2019-25578",
+"path": "udhezim/2019/25578",
+"kind": "udhezim",
+"year": "2019",
+"number": "25578",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV MD-NR. 06/2019 PËR TRAJNIMIN DHE CERTIFIKIMIN E NDËRMJETËSUESVE",
+"short": "MD-06/2019-UA",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2019-12-04",
+"latest": "2019-12-04",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=25578",
+"amended_by": [
+{
+"ref": "gzk:84381",
+"title": "UDHËZIM ADMINISTRATIV MD - NR. 16/2023 PËR NDRYSHIMIN DHE PLOTËSIMIN E UDHËZIMIT ADMINISTRATIV (MD)-NR. 06/2019 PËR TRAJNIMIN DHE CERTIFIKIMIN E NDËRMJETËSUESVE",
+"url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=84381",
+"date": "2023-12-01",
+"relation": "Ndryshohet/Plotësohet nga"
+}
+]
 },
 {
 "slug": "aktvendim-2019-25602",
@@ -48509,6 +50124,49 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=35502"
 },
 {
+"slug": "urdhrese-2020-35699",
+"path": "urdhrese/2020/35699",
+"kind": "urdhrese",
+"year": "2020",
+"number": "35699",
+"withdrawn_by": null,
+"reason": null,
+"title": "URDHËRESË ADMINISTRATIVE (AAC) NR. 2/2020 MBI PËRGATITJET E AEROPORTEVE PËR KTHIM NË OPERIME NORMALE DHE ZBATIMIN E PROTOKOLLIT TË SIGURISË SË SHËNDETIT NË AVIACION PËR COVID-19",
+"short": "AAC-02-2020-URDH",
+"code": null,
+"status": "repealed, not consolidated",
+"versions": 1,
+"from": "2020-06-11",
+"latest": "2020-06-11",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=35699",
+"amended_by": [
+{
+"ref": "gzk:35700",
+"title": "URDHËRESË ADMINISTRATIVE (AAC) NR. 3/2020 MBI PËRGATITJET E AEROPORTEVE PËR KTHIM NË OPERIME NORMALE, RRETH OFRIMIT TË SHËRBIMEVE NË TOKË NË AEROPORTE DHE ZBATIMIN E PROTOKOLLIT TË SIGURISË SË SHËNDETIT NË AVIACION PËR COVID-19",
+"url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=35700",
+"date": "2020-12-14",
+"relation": "Shfuqizuar nga"
+}
+]
+},
+{
+"slug": "urdhrese-2020-35700",
+"path": "urdhrese/2020/35700",
+"kind": "urdhrese",
+"year": "2020",
+"number": "35700",
+"withdrawn_by": null,
+"reason": null,
+"title": "URDHËRESË ADMINISTRATIVE (AAC) NR. 3/2020 MBI PËRGATITJET E AEROPORTEVE PËR KTHIM NË OPERIME NORMALE, RRETH OFRIMIT TË SHËRBIMEVE NË TOKË NË AEROPORTE DHE ZBATIMIN E PROTOKOLLIT TË SIGURISË SË SHËNDETIT NË AVIACION PËR COVID-19",
+"short": "AAC-03-2020-URDH",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2020-07-30",
+"latest": "2020-07-30",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=35700"
+},
+{
 "slug": "udhezim-2020-35703",
 "path": "udhezim/2020/35703",
 "kind": "udhezim",
@@ -49105,6 +50763,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=38056"
 },
 {
+"slug": "vendim-2020-71883",
+"path": "vendim/2020/71883",
+"kind": "vendim",
+"year": "2020",
+"number": "71883",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 09/2020) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-09/2020-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2020-03-13",
+"latest": "2020-03-13",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=71883"
+},
+{
 "slug": "aktgjykim-2021-36184",
 "path": "aktgjykim/2021/36184",
 "kind": "aktgjykim",
@@ -49137,6 +50812,23 @@
 "from": "2021-01-29",
 "latest": "2021-01-29",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=36549"
+},
+{
+"slug": "udhezim-2021-36550",
+"path": "udhezim/2021/36550",
+"kind": "udhezim",
+"year": "2021",
+"number": "36550",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV (QRK) -NR. 02/2021 PËR ZBATIMIN E DREJTËSISË MIKE NDAJ FËMIJËS NË PROCEDURËN PENALE, CIVILE DHE ADMINISTRATIVE",
+"short": "QRK-02/2021-UA",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2021-07-19",
+"latest": "2021-07-19",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=36550"
 },
 {
 "slug": "udhezim-2021-36551",
@@ -50268,6 +51960,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=41216"
 },
 {
+"slug": "vendim-2021-41249",
+"path": "vendim/2021/41249",
+"kind": "vendim",
+"year": "2021",
+"number": "41249",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 11/2021) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-11/2021-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2021-05-07",
+"latest": "2021-05-07",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=41249"
+},
+{
 "slug": "aktvendim-2021-41502",
 "path": "aktvendim/2021/41502",
 "kind": "aktvendim",
@@ -50693,6 +52402,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=41536"
 },
 {
+"slug": "vendim-2021-41552",
+"path": "vendim/2021/41552",
+"kind": "vendim",
+"year": "2021",
+"number": "41552",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 12/2021) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-12/2021-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2021-05-21",
+"latest": "2021-05-21",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=41552"
+},
+{
 "slug": "aktvendim-2021-41561",
 "path": "aktvendim/2021/41561",
 "kind": "aktvendim",
@@ -50940,6 +52666,23 @@
 ]
 },
 {
+"slug": "vendim-2021-43015",
+"path": "vendim/2021/43015",
+"kind": "vendim",
+"year": "2021",
+"number": "43015",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 15/2021) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-15/2021-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2021-06-08",
+"latest": "2021-06-08",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=43015"
+},
+{
 "slug": "udhezim-2021-43087",
 "path": "udhezim/2021/43087",
 "kind": "udhezim",
@@ -50991,6 +52734,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=43260"
 },
 {
+"slug": "vendim-2021-43353",
+"path": "vendim/2021/43353",
+"kind": "vendim",
+"year": "2021",
+"number": "43353",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 16/2021) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-16/2021-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2021-06-23",
+"latest": "2021-06-23",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=43353"
+},
+{
 "slug": "udhezim-2021-43449",
 "path": "udhezim/2021/43449",
 "kind": "udhezim",
@@ -51006,6 +52766,23 @@
 "from": "2021-06-25",
 "latest": "2021-06-25",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=43449"
+},
+{
+"slug": "vendim-2021-43462",
+"path": "vendim/2021/43462",
+"kind": "vendim",
+"year": "2021",
+"number": "43462",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 17/2021) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-17/2021-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2021-06-25",
+"latest": "2021-06-25",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=43462"
 },
 {
 "slug": "vendim-2021-43464",
@@ -51671,6 +53448,57 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=43519"
 },
 {
+"slug": "vendim-2021-43978",
+"path": "vendim/2021/43978",
+"kind": "vendim",
+"year": "2021",
+"number": "43978",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 19/2021) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-19/21-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2021-07-15",
+"latest": "2021-07-15",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=43978"
+},
+{
+"slug": "udhezim-2021-44197",
+"path": "udhezim/2021/44197",
+"kind": "udhezim",
+"year": "2021",
+"number": "44197",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV (AAC) Nr. 01/2021 PËR PËRCAKTIMIN E CERTIFIKATËS MJEKËSORE TE PËRSHKRUARA NË RREGULLORE (AAC) NR. 06/2020 PËR KUSHTET DHE MËNYRËN E PËRDORIMIT TË PARAGLAJDËVE DHE DELTAPLANËVE",
+"short": "AAC-01-2021-UA",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2021-07-30",
+"latest": "2021-07-30",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=44197"
+},
+{
+"slug": "vendim-2021-45403",
+"path": "vendim/2021/45403",
+"kind": "vendim",
+"year": "2021",
+"number": "45403",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 21/2021) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-21/21-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2021-07-30",
+"latest": "2021-07-30",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=45403"
+},
+{
 "slug": "rregullore-2021-45523",
 "path": "rregullore/2021/45523",
 "kind": "rregullore",
@@ -51686,6 +53514,40 @@
 "from": "2021-08-10",
 "latest": "2021-08-10",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=45523"
+},
+{
+"slug": "vendim-2021-45727",
+"path": "vendim/2021/45727",
+"kind": "vendim",
+"year": "2021",
+"number": "45727",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 23/2021) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-23/2021-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2021-08-09",
+"latest": "2021-08-09",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=45727"
+},
+{
+"slug": "vendim-2021-45816",
+"path": "vendim/2021/45816",
+"kind": "vendim",
+"year": "2021",
+"number": "45816",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 24/2021) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-24/2021-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2021-08-11",
+"latest": "2021-08-11",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=45816"
 },
 {
 "slug": "rregullore-2021-45832",
@@ -51722,6 +53584,40 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=45833"
 },
 {
+"slug": "vendim-2021-45875",
+"path": "vendim/2021/45875",
+"kind": "vendim",
+"year": "2021",
+"number": "45875",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 25/2021) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-25/2021-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2021-08-12",
+"latest": "2021-08-12",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=45875"
+},
+{
+"slug": "vendim-2021-46010",
+"path": "vendim/2021/46010",
+"kind": "vendim",
+"year": "2021",
+"number": "46010",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 26/2021) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-26/2021-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2021-08-16",
+"latest": "2021-08-16",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=46010"
+},
+{
 "slug": "udhezim-2021-46144",
 "path": "udhezim/2021/46144",
 "kind": "udhezim",
@@ -51737,6 +53633,40 @@
 "from": "2021-08-26",
 "latest": "2021-08-26",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=46144"
+},
+{
+"slug": "vendim-2021-46195",
+"path": "vendim/2021/46195",
+"kind": "vendim",
+"year": "2021",
+"number": "46195",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 27/2021) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-27/2021-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2021-08-19",
+"latest": "2021-08-19",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=46195"
+},
+{
+"slug": "vendim-2021-46257",
+"path": "vendim/2021/46257",
+"kind": "vendim",
+"year": "2021",
+"number": "46257",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 28/2021) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-28/2021-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2021-08-21",
+"latest": "2021-08-21",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=46257"
 },
 {
 "slug": "marreveshje-2021-46393",
@@ -51789,6 +53719,23 @@
 "note": "The same ratification law, also published by the Gazette as a law (Ligje); both copies hold the same text"
 }
 ]
+},
+{
+"slug": "vendim-2021-46444",
+"path": "vendim/2021/46444",
+"kind": "vendim",
+"year": "2021",
+"number": "46444",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 31/2021) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-31/2021-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2021-08-26",
+"latest": "2021-08-26",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=46444"
 },
 {
 "slug": "aktgjykim-2021-46457",
@@ -52165,6 +54112,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=46486"
 },
 {
+"slug": "vendim-2021-46527",
+"path": "vendim/2021/46527",
+"kind": "vendim",
+"year": "2021",
+"number": "46527",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 32/2021) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-32/2021-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2021-08-28",
+"latest": "2021-08-28",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=46527"
+},
+{
 "slug": "vendim-2021-46573",
 "path": "vendim/2021/46573",
 "kind": "vendim",
@@ -52180,6 +54144,40 @@
 "from": "2021-08-30",
 "latest": "2021-08-30",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=46573"
+},
+{
+"slug": "vendim-2021-46593",
+"path": "vendim/2021/46593",
+"kind": "vendim",
+"year": "2021",
+"number": "46593",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIM NR. 07-2021 (Autoriteti i Aviacionit Civil të Republikës së Kosovës)",
+"short": "AAC-07-2021-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2021-08-12",
+"latest": "2021-08-12",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=46593"
+},
+{
+"slug": "vendim-2021-47847",
+"path": "vendim/2021/47847",
+"kind": "vendim",
+"year": "2021",
+"number": "47847",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 34/2021) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-34/2021-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2021-09-08",
+"latest": "2021-09-08",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=47847"
 },
 {
 "slug": "rregullore-2021-47884",
@@ -52258,6 +54256,40 @@
 ]
 },
 {
+"slug": "vendim-2021-48209",
+"path": "vendim/2021/48209",
+"kind": "vendim",
+"year": "2021",
+"number": "48209",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 36/2021) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-36/21-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2021-09-23",
+"latest": "2021-09-23",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=48209"
+},
+{
+"slug": "vendim-2021-48280",
+"path": "vendim/2021/48280",
+"kind": "vendim",
+"year": "2021",
+"number": "48280",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 37/2021) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-37/2021-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2021-09-24",
+"latest": "2021-09-24",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=48280"
+},
+{
 "slug": "aktvendim-2021-48411",
 "path": "aktvendim/2021/48411",
 "kind": "aktvendim",
@@ -52290,6 +54322,23 @@
 "from": "2021-09-30",
 "latest": "2021-09-30",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=48412"
+},
+{
+"slug": "vendim-2021-48659",
+"path": "vendim/2021/48659",
+"kind": "vendim",
+"year": "2021",
+"number": "48659",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 38/2021) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-38/2021-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2021-10-07",
+"latest": "2021-10-07",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=48659"
 },
 {
 "slug": "aktvendim-2021-48675",
@@ -52632,6 +54681,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=48694"
 },
 {
+"slug": "vendim-2021-48912",
+"path": "vendim/2021/48912",
+"kind": "vendim",
+"year": "2021",
+"number": "48912",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 40/2021) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-40/2021-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2021-10-15",
+"latest": "2021-10-15",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=48912"
+},
+{
 "slug": "marreveshje-2021-49953",
 "path": "marreveshje/2021/49953",
 "kind": "marreveshje",
@@ -52684,6 +54750,23 @@
 ]
 },
 {
+"slug": "vendim-2021-50069",
+"path": "vendim/2021/50069",
+"kind": "vendim",
+"year": "2021",
+"number": "50069",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 41/2021) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-41/2021-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2021-10-23",
+"latest": "2021-10-23",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=50069"
+},
+{
 "slug": "rregullore-2021-50091",
 "path": "rregullore/2021/50091",
 "kind": "rregullore",
@@ -52734,6 +54817,40 @@
 "note": "The same ratification law, also published by the Gazette as a law (Ligje); both copies hold the same text"
 }
 ]
+},
+{
+"slug": "vendim-2021-50212",
+"path": "vendim/2021/50212",
+"kind": "vendim",
+"year": "2021",
+"number": "50212",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 42/2021) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-42/21-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=50212"
+},
+{
+"slug": "vendim-2021-50248",
+"path": "vendim/2021/50248",
+"kind": "vendim",
+"year": "2021",
+"number": "50248",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 43/2021) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-43/21-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2021-10-29",
+"latest": "2021-10-29",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=50248"
 },
 {
 "slug": "rregullore-2021-50288",
@@ -53477,6 +55594,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=51313"
 },
 {
+"slug": "vendim-2021-51321",
+"path": "vendim/2021/51321",
+"kind": "vendim",
+"year": "2021",
+"number": "51321",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 47/2021) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-47/2021-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2021-12-10",
+"latest": "2021-12-10",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=51321"
+},
+{
 "slug": "udhezim-2021-51357",
 "path": "udhezim/2021/51357",
 "kind": "udhezim",
@@ -53868,6 +56002,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=51460"
 },
 {
+"slug": "vendim-2021-51497",
+"path": "vendim/2021/51497",
+"kind": "vendim",
+"year": "2021",
+"number": "51497",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 49/2021) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-49/2021-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2021-12-18",
+"latest": "2021-12-18",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=51497"
+},
+{
 "slug": "marreveshje-2021-51549",
 "path": "marreveshje/2021/51549",
 "kind": "marreveshje",
@@ -53987,6 +56138,23 @@
 "from": "2022-03-20",
 "latest": "2022-03-20",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=51725"
+},
+{
+"slug": "vendim-2021-51764",
+"path": "vendim/2021/51764",
+"kind": "vendim",
+"year": "2021",
+"number": "51764",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 53/2021) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-53/2021-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2021-12-31",
+"latest": "2021-12-31",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=51764"
 },
 {
 "slug": "udhezim-2021-87954",
@@ -54558,6 +56726,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=51954"
 },
 {
+"slug": "vendim-2022-51960",
+"path": "vendim/2022/51960",
+"kind": "vendim",
+"year": "2022",
+"number": "51960",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 54/2022) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-54/2022-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-01-13",
+"latest": "2022-01-13",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=51960"
+},
+{
 "slug": "aktgjykim-2022-53009",
 "path": "aktgjykim/2022/53009",
 "kind": "aktgjykim",
@@ -54624,6 +56809,57 @@
 "from": "2022-01-25",
 "latest": "2022-01-25",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=53066"
+},
+{
+"slug": "vendim-2022-53358",
+"path": "vendim/2022/53358",
+"kind": "vendim",
+"year": "2022",
+"number": "53358",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 56/2022) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-56/2022-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-01-27",
+"latest": "2022-01-27",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=53358"
+},
+{
+"slug": "vendim-2022-53441",
+"path": "vendim/2022/53441",
+"kind": "vendim",
+"year": "2022",
+"number": "53441",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 57/2022) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-57/2022-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-01-31",
+"latest": "2022-01-31",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=53441"
+},
+{
+"slug": "vendim-2022-53633",
+"path": "vendim/2022/53633",
+"kind": "vendim",
+"year": "2022",
+"number": "53633",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 59/2022) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-59/2022-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-02-05",
+"latest": "2022-02-05",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=53633"
 },
 {
 "slug": "marreveshje-2022-53717",
@@ -54754,6 +56990,108 @@
 "note": "The same ratification law, also published by the Gazette as a law (Ligje); both copies hold the same text"
 }
 ]
+},
+{
+"slug": "vendim-2022-55054",
+"path": "vendim/2022/55054",
+"kind": "vendim",
+"year": "2022",
+"number": "55054",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 62/2022) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-62/22-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-02-24",
+"latest": "2022-02-24",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=55054"
+},
+{
+"slug": "vendim-2022-55088",
+"path": "vendim/2022/55088",
+"kind": "vendim",
+"year": "2022",
+"number": "55088",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 63/2022) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-63/2022-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-02-24",
+"latest": "2022-02-24",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=55088"
+},
+{
+"slug": "vendim-2022-55137",
+"path": "vendim/2022/55137",
+"kind": "vendim",
+"year": "2022",
+"number": "55137",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 64/2022) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-64/22-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-02-25",
+"latest": "2022-02-25",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=55137"
+},
+{
+"slug": "vendim-2022-55149",
+"path": "vendim/2022/55149",
+"kind": "vendim",
+"year": "2022",
+"number": "55149",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 65/2022) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-65/2022-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-02-26",
+"latest": "2022-02-26",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=55149"
+},
+{
+"slug": "vendim-2022-55415",
+"path": "vendim/2022/55415",
+"kind": "vendim",
+"year": "2022",
+"number": "55415",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 67/2022) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-67/22-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-03-10",
+"latest": "2022-03-10",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=55415"
+},
+{
+"slug": "vendim-2022-55466",
+"path": "vendim/2022/55466",
+"kind": "vendim",
+"year": "2022",
+"number": "55466",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIM NR. 02-2022 (Autoriteti i Aviacionit Civil të Republikës së Kosovës)",
+"short": "AAC-02-2022-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-02-01",
+"latest": "2022-02-01",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=55466"
 },
 {
 "slug": "marreveshje-2022-55531",
@@ -55608,6 +57946,57 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=57302"
 },
 {
+"slug": "vendim-2022-57439",
+"path": "vendim/2022/57439",
+"kind": "vendim",
+"year": "2022",
+"number": "57439",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 70/2022) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-70/22-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-04-22",
+"latest": "2022-04-22",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=57439"
+},
+{
+"slug": "vendim-2022-57441",
+"path": "vendim/2022/57441",
+"kind": "vendim",
+"year": "2022",
+"number": "57441",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIM NR. 01-2022 (Autoriteti i Aviacionit Civil të Republikës së Kosovës)",
+"short": "AAC-01-2022-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2021-12-21",
+"latest": "2021-12-21",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=57441"
+},
+{
+"slug": "vendim-2022-57442",
+"path": "vendim/2022/57442",
+"kind": "vendim",
+"year": "2022",
+"number": "57442",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIM NR. 02-2022 (Autoriteti i Aviacionit Civil të Republikës së Kosovës)",
+"short": "AAC-02-2022-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-02-01",
+"latest": "2022-02-01",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=57442"
+},
+{
 "slug": "udhezim-2022-57452",
 "path": "udhezim/2022/57452",
 "kind": "udhezim",
@@ -55623,6 +58012,23 @@
 "from": "2022-04-30",
 "latest": "2022-04-30",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=57452"
+},
+{
+"slug": "vendim-2022-57554",
+"path": "vendim/2022/57554",
+"kind": "vendim",
+"year": "2022",
+"number": "57554",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 72/2022) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-72/2022-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-04-28",
+"latest": "2022-04-28",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=57554"
 },
 {
 "slug": "local-prizren-2022-57580",
@@ -55643,6 +58049,23 @@
 "municipality": "prizren"
 },
 {
+"slug": "vendim-2022-57616",
+"path": "vendim/2022/57616",
+"kind": "vendim",
+"year": "2022",
+"number": "57616",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 73/2022) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-73/2022-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-05-01",
+"latest": "2022-05-01",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=57616"
+},
+{
 "slug": "ligj-2022-57852",
 "path": "ligj/2022/57852",
 "kind": "ligj",
@@ -55660,6 +58083,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=57852"
 },
 {
+"slug": "vendim-2022-57863",
+"path": "vendim/2022/57863",
+"kind": "vendim",
+"year": "2022",
+"number": "57863",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 77/2022) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-77/22-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-05-12",
+"latest": "2022-05-12",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=57863"
+},
+{
 "slug": "rregullore-2022-59229",
 "path": "rregullore/2022/59229",
 "kind": "rregullore",
@@ -55675,6 +58115,23 @@
 "from": "2022-06-06",
 "latest": "2022-06-06",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=59229"
+},
+{
+"slug": "vendim-2022-59279",
+"path": "vendim/2022/59279",
+"kind": "vendim",
+"year": "2022",
+"number": "59279",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 80/2022) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-80/22-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-05-30",
+"latest": "2022-05-30",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=59279"
 },
 {
 "slug": "marreveshje-2022-59289",
@@ -55781,6 +58238,23 @@
 ]
 },
 {
+"slug": "vendim-2022-59369",
+"path": "vendim/2022/59369",
+"kind": "vendim",
+"year": "2022",
+"number": "59369",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 81/2022) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-81/22-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-06-02",
+"latest": "2022-06-02",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=59369"
+},
+{
 "slug": "rregullore-2022-59390",
 "path": "rregullore/2022/59390",
 "kind": "rregullore",
@@ -55796,6 +58270,23 @@
 "from": "2022-06-10",
 "latest": "2022-06-10",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=59390"
+},
+{
+"slug": "vendim-2022-59761",
+"path": "vendim/2022/59761",
+"kind": "vendim",
+"year": "2022",
+"number": "59761",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 83/2022) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-83/2022-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-06-17",
+"latest": "2022-06-17",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=59761"
 },
 {
 "slug": "udhezim-2022-59828",
@@ -55830,6 +58321,23 @@
 "from": "2022-06-28",
 "latest": "2022-06-28",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=59831"
+},
+{
+"slug": "vendim-2022-59869",
+"path": "vendim/2022/59869",
+"kind": "vendim",
+"year": "2022",
+"number": "59869",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 84/2022) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-84/22-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-06-23",
+"latest": "2022-06-23",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=59869"
 },
 {
 "slug": "aktvendim-2022-59927",
@@ -56342,6 +58850,40 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=60016"
 },
 {
+"slug": "vendim-2022-60059",
+"path": "vendim/2022/60059",
+"kind": "vendim",
+"year": "2022",
+"number": "60059",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 85/2022) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-85/22-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-06-29",
+"latest": "2022-06-29",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=60059"
+},
+{
+"slug": "vendim-2022-60167",
+"path": "vendim/2022/60167",
+"kind": "vendim",
+"year": "2022",
+"number": "60167",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 86/2022) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-86/2022-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-07-04",
+"latest": "2022-07-04",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=60167"
+},
+{
 "slug": "udhezim-2022-60216",
 "path": "udhezim/2022/60216",
 "kind": "udhezim",
@@ -56357,6 +58899,23 @@
 "from": "2022-07-13",
 "latest": "2022-07-13",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=60216"
+},
+{
+"slug": "vendim-2022-60240",
+"path": "vendim/2022/60240",
+"kind": "vendim",
+"year": "2022",
+"number": "60240",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 87/2022) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-87/2022-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-07-06",
+"latest": "2022-07-06",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=60240"
 },
 {
 "slug": "vendim-2022-60261",
@@ -56410,6 +58969,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=60426"
 },
 {
+"slug": "vendim-2022-60467",
+"path": "vendim/2022/60467",
+"kind": "vendim",
+"year": "2022",
+"number": "60467",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 88/2022) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-88/22-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-07-15",
+"latest": "2022-07-15",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=60467"
+},
+{
 "slug": "rregullore-2022-60499",
 "path": "rregullore/2022/60499",
 "kind": "rregullore",
@@ -56427,6 +59003,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=60499"
 },
 {
+"slug": "udhezim-2022-60500",
+"path": "udhezim/2022/60500",
+"kind": "udhezim",
+"year": "2022",
+"number": "60500",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV MFPT Nr. 03/2022 PËR NDRYSHIMIN DHE PLOTËSIMIN E UDHËZIMIT ADMINISTRATIV (MPMS) Nr. 05/2015 PËR LAJMËRIMIN, SUSPENDIMIN NGA PAGESA DHE KTHIMIN E MJETEVE NË RASTET E KEQPËRDORIMIT TË PENSIONEVE",
+"short": "MF-03/2022-UA",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-07-21",
+"latest": "2022-07-21",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=60500"
+},
+{
 "slug": "udhezim-2022-60529",
 "path": "udhezim/2022/60529",
 "kind": "udhezim",
@@ -56442,6 +59035,23 @@
 "from": "2022-07-26",
 "latest": "2022-07-26",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=60529"
+},
+{
+"slug": "vendim-2022-60743",
+"path": "vendim/2022/60743",
+"kind": "vendim",
+"year": "2022",
+"number": "60743",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIM NR. 90/22 (Qeveria e Republikës së Kosovës)",
+"short": "QRK-90/22-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-07-27",
+"latest": "2022-07-27",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=60743"
 },
 {
 "slug": "aktvendim-2022-60831",
@@ -56784,6 +59394,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=61266"
 },
 {
+"slug": "vendim-2022-61371",
+"path": "vendim/2022/61371",
+"kind": "vendim",
+"year": "2022",
+"number": "61371",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 92/2022) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-92/2022-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-08-10",
+"latest": "2022-08-10",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=61371"
+},
+{
 "slug": "marreveshje-2022-61419",
 "path": "marreveshje/2022/61419",
 "kind": "marreveshje",
@@ -56853,6 +59480,40 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=61596"
 },
 {
+"slug": "vendim-2022-61930",
+"path": "vendim/2022/61930",
+"kind": "vendim",
+"year": "2022",
+"number": "61930",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 93/2022) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-93/2022-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-08-19",
+"latest": "2022-08-19",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=61930"
+},
+{
+"slug": "vendim-2022-62121",
+"path": "vendim/2022/62121",
+"kind": "vendim",
+"year": "2022",
+"number": "62121",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 94/2022) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-94/2022-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-08-24",
+"latest": "2022-08-24",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=62121"
+},
+{
 "slug": "udhezim-2022-62325",
 "path": "udhezim/2022/62325",
 "kind": "udhezim",
@@ -56911,6 +59572,57 @@
 "relation": "Shfuqizuar nga"
 }
 ]
+},
+{
+"slug": "vendim-2022-62403",
+"path": "vendim/2022/62403",
+"kind": "vendim",
+"year": "2022",
+"number": "62403",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIM NR. 11/94 (Qeveria e Republikës së Kosovës)",
+"short": "QRK-11/94-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-08-31",
+"latest": "2022-08-31",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=62403"
+},
+{
+"slug": "vendim-2022-62558",
+"path": "vendim/2022/62558",
+"kind": "vendim",
+"year": "2022",
+"number": "62558",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 95/2022) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-95/2022-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-09-05",
+"latest": "2022-09-05",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=62558"
+},
+{
+"slug": "urdhrese-2022-62595",
+"path": "urdhrese/2022/62595",
+"kind": "urdhrese",
+"year": "2022",
+"number": "62595",
+"withdrawn_by": null,
+"reason": null,
+"title": "URDHËRESË ADMINISTRATIVE (AAC) NR. 01/2022 PËR RREZIQET QË PARAQITEN GJATË RRITJES SË AKTIVITETEVE TË AVIACIONIT",
+"short": "AAC-01-2022-URDH",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-09-13",
+"latest": "2022-09-13",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=62595"
 },
 {
 "slug": "aktgjykim-2022-62661",
@@ -57186,6 +59898,23 @@
 "municipality": "prizren"
 },
 {
+"slug": "vendim-2022-64082",
+"path": "vendim/2022/64082",
+"kind": "vendim",
+"year": "2022",
+"number": "64082",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 97/2022) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-97/2022-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-09-20",
+"latest": "2022-09-20",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=64082"
+},
+{
 "slug": "rregullore-2022-64344",
 "path": "rregullore/2022/64344",
 "kind": "rregullore",
@@ -57244,6 +59973,23 @@
 "from": "2022-10-17",
 "latest": "2022-10-17",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=65566"
+},
+{
+"slug": "vendim-2022-65570",
+"path": "vendim/2022/65570",
+"kind": "vendim",
+"year": "2022",
+"number": "65570",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 100/2022) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-100/2022-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-10-12",
+"latest": "2022-10-12",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=65570"
 },
 {
 "slug": "rregullore-2022-65595",
@@ -57306,6 +60052,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=65680"
 },
 {
+"slug": "vendim-2022-65852",
+"path": "vendim/2022/65852",
+"kind": "vendim",
+"year": "2022",
+"number": "65852",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 101/2022) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-101/22-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-10-21",
+"latest": "2022-10-21",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=65852"
+},
+{
 "slug": "local-kacanik-2022-65904",
 "path": "local/kacanik/2022/65904",
 "kind": "local",
@@ -57339,6 +60102,40 @@
 "from": "2022-11-09",
 "latest": "2022-11-09",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=65904"
+},
+{
+"slug": "vendim-2022-66005",
+"path": "vendim/2022/66005",
+"kind": "vendim",
+"year": "2022",
+"number": "66005",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 102/2022) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-102/22-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-10-26",
+"latest": "2022-10-26",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=66005"
+},
+{
+"slug": "vendim-2022-66083",
+"path": "vendim/2022/66083",
+"kind": "vendim",
+"year": "2022",
+"number": "66083",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 103/2022) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-103/2022-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-10-28",
+"latest": "2022-10-28",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=66083"
 },
 {
 "slug": "marreveshje-2022-66096",
@@ -57519,6 +60316,49 @@
 "title": "LIGJI NR. 08/L-165 PËR RATIFIKIMIN E VENDIMIT NR. 1/2022 TË KËSHILLIT TË STABILIZIM ASOCIIMIT BE - KOSOVË PËR AMENDAMENTIMIN E MARRËVESHJES SË STABILIZIM-ASOCIIMIT NDËRMJET BASHKIMIT EVROPIAN DHE KOMUNITETIT EVROPIAN TË ENERGJISË ATOMIKE DHE KOSOVËS, PËR TË ZËVENDËSUAR PROTOKOLLIN III TË TIJ NË LIDHJE ME KONCEPTIN E \"PRODUKTEVE ORIGJINUESE\"",
 "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=66174",
 "note": "The same ratification law, also published by the Gazette as a law (Ligje); both copies hold the same text"
+}
+]
+},
+{
+"slug": "vendim-2022-66414",
+"path": "vendim/2022/66414",
+"kind": "vendim",
+"year": "2022",
+"number": "66414",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 106/2022) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-106/2022-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-11-09",
+"latest": "2022-11-09",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=66414"
+},
+{
+"slug": "udhezim-2022-66522",
+"path": "udhezim/2022/66522",
+"kind": "udhezim",
+"year": "2022",
+"number": "66522",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV MD-NR 06/2022 PËR MËNYRËN E DHËNIES DHE PROGRAMIN E PROVIMIT TË JURISPRUDENCËS",
+"short": "MD-06/2022-UA",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2022-11-21",
+"latest": "2022-11-21",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=66522",
+"amended_by": [
+{
+"ref": "gzk:97001",
+"title": "UDHËZIM ADMINISTRATIV MD - NR.12/2024 PËR NDRYSHIMIN DHE PLOTËSIMIN E UDHËZIMIT ADMINISTRATIV MD-NR 06/2022 PËR MËNYRËN E DHËNIES DHE PROGRAMIN E PROVIMIT TË JURISPRUDENCËS",
+"url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=97001",
+"date": "2024-09-10",
+"relation": "Ndryshohet/Plotësohet nga"
 }
 ]
 },
@@ -58135,6 +60975,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=66773"
 },
 {
+"slug": "vendim-2022-66799",
+"path": "vendim/2022/66799",
+"kind": "vendim",
+"year": "2022",
+"number": "66799",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 109/2022) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-109/2022-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-11-23",
+"latest": "2022-11-23",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=66799"
+},
+{
 "slug": "marreveshje-2022-66881",
 "path": "marreveshje/2022/66881",
 "kind": "marreveshje",
@@ -58178,6 +61035,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=66892"
 },
 {
+"slug": "vendim-2022-66916",
+"path": "vendim/2022/66916",
+"kind": "vendim",
+"year": "2022",
+"number": "66916",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 110/2022) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-110/2022-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-11-29",
+"latest": "2022-11-29",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=66916"
+},
+{
 "slug": "local-prizren-2022-67064",
 "path": "local/prizren/2022/67064",
 "kind": "local",
@@ -58205,6 +61079,40 @@
 ]
 },
 {
+"slug": "vendim-2022-67106",
+"path": "vendim/2022/67106",
+"kind": "vendim",
+"year": "2022",
+"number": "67106",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 111/2022) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-111/2022-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-12-07",
+"latest": "2022-12-07",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=67106"
+},
+{
+"slug": "vendim-2022-68284",
+"path": "vendim/2022/68284",
+"kind": "vendim",
+"year": "2022",
+"number": "68284",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 113/2022) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-113/2022-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-12-16",
+"latest": "2022-12-16",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=68284"
+},
+{
 "slug": "udhezim-2022-68289",
 "path": "udhezim/2022/68289",
 "kind": "udhezim",
@@ -58220,6 +61128,23 @@
 "from": "2022-12-21",
 "latest": "2022-12-21",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=68289"
+},
+{
+"slug": "vendim-2022-68345",
+"path": "vendim/2022/68345",
+"kind": "vendim",
+"year": "2022",
+"number": "68345",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 114/2022) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-114/22-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-12-16",
+"latest": "2022-12-16",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=68345"
 },
 {
 "slug": "aktvendim-2022-68461",
@@ -58460,6 +61385,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=68479"
 },
 {
+"slug": "vendim-2022-68539",
+"path": "vendim/2022/68539",
+"kind": "vendim",
+"year": "2022",
+"number": "68539",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 116/2022) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-116/2022-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-12-29",
+"latest": "2022-12-29",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=68539"
+},
+{
 "slug": "rregullore-2022-68657",
 "path": "rregullore/2022/68657",
 "kind": "rregullore",
@@ -58475,6 +61417,23 @@
 "from": "2023-01-06",
 "latest": "2023-01-06",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=68657"
+},
+{
+"slug": "vendim-2022-79228",
+"path": "vendim/2022/79228",
+"kind": "vendim",
+"year": "2022",
+"number": "79228",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIM NR. 10/109 (Qeveria e Republikës së Kosovës)",
+"short": "QRK-10/109-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-11-23",
+"latest": "2022-11-23",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=79228"
 },
 {
 "slug": "udhezim-2022-87971",
@@ -58588,6 +61547,40 @@
 "note": "The same ratification law, also published by the Gazette as a law (Ligje); both copies hold the same text"
 }
 ]
+},
+{
+"slug": "vendim-2023-68855",
+"path": "vendim/2023/68855",
+"kind": "vendim",
+"year": "2023",
+"number": "68855",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 118/2023) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-118/2023-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-01-12",
+"latest": "2023-01-12",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=68855"
+},
+{
+"slug": "vendim-2023-68933",
+"path": "vendim/2023/68933",
+"kind": "vendim",
+"year": "2023",
+"number": "68933",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 119/2023) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-119/2023-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-01-16",
+"latest": "2023-01-16",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=68933"
 },
 {
 "slug": "aktvendim-2023-68938",
@@ -58743,6 +61736,40 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=68956"
 },
 {
+"slug": "vendim-2023-69068",
+"path": "vendim/2023/69068",
+"kind": "vendim",
+"year": "2023",
+"number": "69068",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 120/2023) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-120/2023-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-01-19",
+"latest": "2023-01-19",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=69068"
+},
+{
+"slug": "vendim-2023-69198",
+"path": "vendim/2023/69198",
+"kind": "vendim",
+"year": "2023",
+"number": "69198",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 121/2023) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-121/23-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-01-26",
+"latest": "2023-01-26",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=69198"
+},
+{
 "slug": "udhezim-2023-69332",
 "path": "udhezim/2023/69332",
 "kind": "udhezim",
@@ -58758,6 +61785,40 @@
 "from": "2023-02-08",
 "latest": "2023-02-08",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=69332"
+},
+{
+"slug": "vendim-2023-69335",
+"path": "vendim/2023/69335",
+"kind": "vendim",
+"year": "2023",
+"number": "69335",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 122/2023) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-122/2023-UA",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=69335"
+},
+{
+"slug": "vendim-2023-69343",
+"path": "vendim/2023/69343",
+"kind": "vendim",
+"year": "2023",
+"number": "69343",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 123/2023) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-123/2023-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-02-01",
+"latest": "2023-02-01",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=69343"
 },
 {
 "slug": "udhezim-2023-69380",
@@ -58802,6 +61863,23 @@
 "latest": "2023-02-03",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=69422",
 "municipality": "prizren"
+},
+{
+"slug": "vendim-2023-69450",
+"path": "vendim/2023/69450",
+"kind": "vendim",
+"year": "2023",
+"number": "69450",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 125/2023) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-125/2023-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-02-06",
+"latest": "2023-02-06",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=69450"
 },
 {
 "slug": "rregullore-2023-69466",
@@ -58975,6 +62053,57 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=69495"
 },
 {
+"slug": "vendim-2023-69543",
+"path": "vendim/2023/69543",
+"kind": "vendim",
+"year": "2023",
+"number": "69543",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 127/2023) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-127/2023-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-02-08",
+"latest": "2023-02-08",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=69543"
+},
+{
+"slug": "vendim-2023-69791",
+"path": "vendim/2023/69791",
+"kind": "vendim",
+"year": "2023",
+"number": "69791",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 128/2023) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-128/2023-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-02-16",
+"latest": "2023-02-16",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=69791"
+},
+{
+"slug": "vendim-2023-69872",
+"path": "vendim/2023/69872",
+"kind": "vendim",
+"year": "2023",
+"number": "69872",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 130/2023) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-130/2023-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-02-22",
+"latest": "2023-02-22",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=69872"
+},
+{
 "slug": "udhezim-2023-71097",
 "path": "udhezim/2023/71097",
 "kind": "udhezim",
@@ -59025,6 +62154,40 @@
 "relation": "Shfuqizuar nga"
 }
 ]
+},
+{
+"slug": "vendim-2023-71161",
+"path": "vendim/2023/71161",
+"kind": "vendim",
+"year": "2023",
+"number": "71161",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 132/2023) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-132/2023-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-03-08",
+"latest": "2023-03-08",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=71161"
+},
+{
+"slug": "vendim-2023-71201",
+"path": "vendim/2023/71201",
+"kind": "vendim",
+"year": "2023",
+"number": "71201",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 133/2023) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-133/2023-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-03-10",
+"latest": "2023-03-10",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=71201"
 },
 {
 "slug": "marreveshje-2023-71325",
@@ -59103,6 +62266,23 @@
 "note": "The same ratification law, also published by the Gazette as a law (Ligje); both copies hold the same text"
 }
 ]
+},
+{
+"slug": "vendim-2023-71342",
+"path": "vendim/2023/71342",
+"kind": "vendim",
+"year": "2023",
+"number": "71342",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 134/2023) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-134/2023-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-03-15",
+"latest": "2023-03-15",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=71342"
 },
 {
 "slug": "rregullore-2023-71499",
@@ -59734,6 +62914,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=71716"
 },
 {
+"slug": "vendim-2023-71787",
+"path": "vendim/2023/71787",
+"kind": "vendim",
+"year": "2023",
+"number": "71787",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 137/2023) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-137/2023-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-03-31",
+"latest": "2023-03-31",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=71787"
+},
+{
 "slug": "aktgjykim-2023-71948",
 "path": "aktgjykim/2023/71948",
 "kind": "aktgjykim",
@@ -59766,6 +62963,23 @@
 "from": "2023-04-19",
 "latest": "2023-04-19",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=72016"
+},
+{
+"slug": "vendim-2023-72072",
+"path": "vendim/2023/72072",
+"kind": "vendim",
+"year": "2023",
+"number": "72072",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 138/2023) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-138/2023-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-04-12",
+"latest": "2023-04-12",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=72072"
 },
 {
 "slug": "marreveshje-2023-72083",
@@ -59809,6 +63023,57 @@
 "from": "2023-04-20",
 "latest": "2023-04-20",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=72108"
+},
+{
+"slug": "vendim-2023-73170",
+"path": "vendim/2023/73170",
+"kind": "vendim",
+"year": "2023",
+"number": "73170",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 139/2023) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-139/2023-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-04-18",
+"latest": "2023-04-18",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=73170"
+},
+{
+"slug": "vendim-2023-73386",
+"path": "vendim/2023/73386",
+"kind": "vendim",
+"year": "2023",
+"number": "73386",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 140/2023) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-140/2023-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-04-26",
+"latest": "2023-04-26",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=73386"
+},
+{
+"slug": "vendim-2023-73465",
+"path": "vendim/2023/73465",
+"kind": "vendim",
+"year": "2023",
+"number": "73465",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 141/2023) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-141/2023-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-04-29",
+"latest": "2023-04-29",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=73465"
 },
 {
 "slug": "rregullore-2023-73511",
@@ -60262,6 +63527,23 @@
 "from": "2023-05-25",
 "latest": "2023-05-25",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=74974"
+},
+{
+"slug": "vendim-2023-75132",
+"path": "vendim/2023/75132",
+"kind": "vendim",
+"year": "2023",
+"number": "75132",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 143/2023) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-143/2023-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-05-25",
+"latest": "2023-05-25",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=75132"
 },
 {
 "slug": "udhezim-2023-75171",
@@ -60825,6 +64107,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=75382"
 },
 {
+"slug": "vendim-2023-75392",
+"path": "vendim/2023/75392",
+"kind": "vendim",
+"year": "2023",
+"number": "75392",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIM NR. 01-2023 (Autoriteti i Aviacionit Civil të Republikës së Kosovës)",
+"short": "AAC-01-2023-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-02-01",
+"latest": "2023-02-01",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=75392"
+},
+{
 "slug": "udhezim-2023-75461",
 "path": "udhezim/2023/75461",
 "kind": "udhezim",
@@ -60840,6 +64139,23 @@
 "from": "2023-06-12",
 "latest": "2023-06-12",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=75461"
+},
+{
+"slug": "vendim-2023-75465",
+"path": "vendim/2023/75465",
+"kind": "vendim",
+"year": "2023",
+"number": "75465",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 144/2023) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-144/2023-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-06-05",
+"latest": "2023-06-05",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=75465"
 },
 {
 "slug": "aktvendim-2023-75488",
@@ -60925,6 +64241,23 @@
 "from": "2023-06-09",
 "latest": "2023-06-09",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=75609"
+},
+{
+"slug": "vendim-2023-75663",
+"path": "vendim/2023/75663",
+"kind": "vendim",
+"year": "2023",
+"number": "75663",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 146/2023) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-146/2023-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-06-12",
+"latest": "2023-06-12",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=75663"
 },
 {
 "slug": "rregullore-2023-75671",
@@ -61355,6 +64688,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=76007"
 },
 {
+"slug": "vendim-2023-76052",
+"path": "vendim/2023/76052",
+"kind": "vendim",
+"year": "2023",
+"number": "76052",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 148/2023) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-148/2023-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-06-30",
+"latest": "2023-06-30",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=76052"
+},
+{
 "slug": "udhezim-2023-76062",
 "path": "udhezim/2023/76062",
 "kind": "udhezim",
@@ -61472,6 +64822,23 @@
 "from": "2023-07-12",
 "latest": "2023-07-12",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=78098"
+},
+{
+"slug": "vendim-2023-78118",
+"path": "vendim/2023/78118",
+"kind": "vendim",
+"year": "2023",
+"number": "78118",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 149/2023) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-149/2023-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-07-05",
+"latest": "2023-07-05",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=78118"
 },
 {
 "slug": "rregullore-2023-78126",
@@ -61763,6 +65130,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=78301"
 },
 {
+"slug": "vendim-2023-78312",
+"path": "vendim/2023/78312",
+"kind": "vendim",
+"year": "2023",
+"number": "78312",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 151/2023) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-151/2023-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-07-12",
+"latest": "2023-07-12",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=78312"
+},
+{
 "slug": "aktvendim-2023-78328",
 "path": "aktvendim/2023/78328",
 "kind": "aktvendim",
@@ -61795,6 +65179,23 @@
 "from": "2023-07-14",
 "latest": "2023-07-14",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=78347"
+},
+{
+"slug": "vendim-2023-78379",
+"path": "vendim/2023/78379",
+"kind": "vendim",
+"year": "2023",
+"number": "78379",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 152/2023) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-152/2023-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-07-14",
+"latest": "2023-07-14",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=78379"
 },
 {
 "slug": "udhezim-2023-78400",
@@ -61923,6 +65324,23 @@
 "from": "2023-08-02",
 "latest": "2023-08-02",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=78629"
+},
+{
+"slug": "vendim-2023-78676",
+"path": "vendim/2023/78676",
+"kind": "vendim",
+"year": "2023",
+"number": "78676",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 153/2023) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-153/2023-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-07-26",
+"latest": "2023-07-26",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=78676"
 },
 {
 "slug": "udhezim-2023-78681",
@@ -62179,6 +65597,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=79106"
 },
 {
+"slug": "vendim-2023-79140",
+"path": "vendim/2023/79140",
+"kind": "vendim",
+"year": "2023",
+"number": "79140",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 154/2023) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-154/2023-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-08-09",
+"latest": "2023-08-09",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=79140"
+},
+{
 "slug": "vendim-2023-79255",
 "path": "vendim/2023/79255",
 "kind": "vendim",
@@ -62290,6 +65725,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=80639"
 },
 {
+"slug": "vendim-2023-80669",
+"path": "vendim/2023/80669",
+"kind": "vendim",
+"year": "2023",
+"number": "80669",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIM NR. 04-2023 (Autoriteti i Aviacionit Civil të Republikës së Kosovës)",
+"short": "AAC-04-2023-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-02-24",
+"latest": "2023-02-24",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=80669"
+},
+{
 "slug": "udhezim-2023-80681",
 "path": "udhezim/2023/80681",
 "kind": "udhezim",
@@ -62305,6 +65757,23 @@
 "from": "2023-08-30",
 "latest": "2023-08-30",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=80681"
+},
+{
+"slug": "vendim-2023-80712",
+"path": "vendim/2023/80712",
+"kind": "vendim",
+"year": "2023",
+"number": "80712",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 156/2023) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-156/2023-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-08-24",
+"latest": "2023-08-24",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=80712"
 },
 {
 "slug": "rregullore-2023-80781",
@@ -62513,6 +65982,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=80823"
 },
 {
+"slug": "vendim-2023-80842",
+"path": "vendim/2023/80842",
+"kind": "vendim",
+"year": "2023",
+"number": "80842",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 157/2023) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-157/2023-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-08-30",
+"latest": "2023-08-30",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=80842"
+},
+{
 "slug": "rregullore-2023-80858",
 "path": "rregullore/2023/80858",
 "kind": "rregullore",
@@ -62649,6 +66135,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=80979"
 },
 {
+"slug": "vendim-2023-81022",
+"path": "vendim/2023/81022",
+"kind": "vendim",
+"year": "2023",
+"number": "81022",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 158/2023) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-158/2023-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-09-06",
+"latest": "2023-09-06",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=81022"
+},
+{
 "slug": "mendim-2023-81041",
 "path": "mendim/2023/81041",
 "kind": "mendim",
@@ -62700,6 +66203,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=81213"
 },
 {
+"slug": "vendim-2023-81338",
+"path": "vendim/2023/81338",
+"kind": "vendim",
+"year": "2023",
+"number": "81338",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 159/2023) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-159/2023-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-09-13",
+"latest": "2023-09-13",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=81338"
+},
+{
 "slug": "udhezim-2023-81361",
 "path": "udhezim/2023/81361",
 "kind": "udhezim",
@@ -62732,6 +66252,23 @@
 "from": "2023-09-15",
 "latest": "2023-09-15",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=81371"
+},
+{
+"slug": "vendim-2023-81399",
+"path": "vendim/2023/81399",
+"kind": "vendim",
+"year": "2023",
+"number": "81399",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 160/2023) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-160/2023-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-09-15",
+"latest": "2023-09-15",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=81399"
 },
 {
 "slug": "udhezim-2023-81434",
@@ -62921,6 +66458,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=82620"
 },
 {
+"slug": "vendim-2023-82640",
+"path": "vendim/2023/82640",
+"kind": "vendim",
+"year": "2023",
+"number": "82640",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 161/2023) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-161/2023-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-09-25",
+"latest": "2023-09-25",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=82640"
+},
+{
 "slug": "aktvendim-2023-82664",
 "path": "aktvendim/2023/82664",
 "kind": "aktvendim",
@@ -63089,6 +66643,23 @@
 "from": "2023-09-27",
 "latest": "2023-09-27",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=82697"
+},
+{
+"slug": "vendim-2023-82703",
+"path": "vendim/2023/82703",
+"kind": "vendim",
+"year": "2023",
+"number": "82703",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 162/2023) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-162/2023-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-09-27",
+"latest": "2023-09-27",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=82703"
 },
 {
 "slug": "rregullore-2023-82707",
@@ -63365,6 +66936,40 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=82984"
 },
 {
+"slug": "vendim-2023-83030",
+"path": "vendim/2023/83030",
+"kind": "vendim",
+"year": "2023",
+"number": "83030",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 163/2023) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-163/2023-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=83030"
+},
+{
+"slug": "vendim-2023-83052",
+"path": "vendim/2023/83052",
+"kind": "vendim",
+"year": "2023",
+"number": "83052",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 164/2023) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-164/2023-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-10-10",
+"latest": "2023-10-10",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=83052"
+},
+{
 "slug": "aktvendim-2023-83063",
 "path": "aktvendim/2023/83063",
 "kind": "aktvendim",
@@ -63448,6 +67053,23 @@
 "from": "2023-10-12",
 "latest": "2023-10-12",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=83125"
+},
+{
+"slug": "vendim-2023-83157",
+"path": "vendim/2023/83157",
+"kind": "vendim",
+"year": "2023",
+"number": "83157",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 166/2023) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-166/2023-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-10-15",
+"latest": "2023-10-15",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=83157"
 },
 {
 "slug": "aktvendim-2023-83173",
@@ -63535,6 +67157,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=83399"
 },
 {
+"slug": "vendim-2023-83401",
+"path": "vendim/2023/83401",
+"kind": "vendim",
+"year": "2023",
+"number": "83401",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 168/2023) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-168/2023-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-10-23",
+"latest": "2023-10-23",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=83401"
+},
+{
 "slug": "udhezim-2023-83518",
 "path": "udhezim/2023/83518",
 "kind": "udhezim",
@@ -63550,6 +67189,23 @@
 "from": "2023-11-03",
 "latest": "2023-11-03",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=83518"
+},
+{
+"slug": "vendim-2023-83561",
+"path": "vendim/2023/83561",
+"kind": "vendim",
+"year": "2023",
+"number": "83561",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 169/2023) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-169/2023-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-10-27",
+"latest": "2023-10-27",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=83561"
 },
 {
 "slug": "rregullore-2023-83571",
@@ -63583,6 +67239,23 @@
 "relation": "Shfuqizuar nga"
 }
 ]
+},
+{
+"slug": "vendim-2023-83667",
+"path": "vendim/2023/83667",
+"kind": "vendim",
+"year": "2023",
+"number": "83667",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 171/2023) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-171/2023-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-10-31",
+"latest": "2023-10-31",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=83667"
 },
 {
 "slug": "udhezim-2023-83730",
@@ -63715,6 +67388,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=84067"
 },
 {
+"slug": "vendim-2023-84086",
+"path": "vendim/2023/84086",
+"kind": "vendim",
+"year": "2023",
+"number": "84086",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 173/2023) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-173/2023-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-11-16",
+"latest": "2023-11-16",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=84086"
+},
+{
 "slug": "udhezim-2023-84147",
 "path": "udhezim/2023/84147",
 "kind": "udhezim",
@@ -63764,6 +67454,23 @@
 "from": "2023-11-21",
 "latest": "2023-11-21",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=84197"
+},
+{
+"slug": "vendim-2023-84225",
+"path": "vendim/2023/84225",
+"kind": "vendim",
+"year": "2023",
+"number": "84225",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 174/2023) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-174/2023-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-11-22",
+"latest": "2023-11-22",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=84225"
 },
 {
 "slug": "udhezim-2023-84255",
@@ -64004,6 +67711,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=84505"
 },
 {
+"slug": "vendim-2023-84592",
+"path": "vendim/2023/84592",
+"kind": "vendim",
+"year": "2023",
+"number": "84592",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 177/2023) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-177/2023-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-12-08",
+"latest": "2023-12-08",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=84592"
+},
+{
 "slug": "rregullore-2023-84594",
 "path": "rregullore/2023/84594",
 "kind": "rregullore",
@@ -64234,6 +67958,23 @@
 "from": "2023-12-13",
 "latest": "2023-12-13",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=84701"
+},
+{
+"slug": "vendim-2023-84703",
+"path": "vendim/2023/84703",
+"kind": "vendim",
+"year": "2023",
+"number": "84703",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 178/2023) - (Qeveria e Republikës së Kosovës)",
+"short": "QRK-178/2023-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-12-13",
+"latest": "2023-12-13",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=84703"
 },
 {
 "slug": "udhezim-2023-84729",
@@ -64507,6 +68248,23 @@
 "from": "2023-12-28",
 "latest": "2023-12-28",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=84866"
+},
+{
+"slug": "vendim-2023-84878",
+"path": "vendim/2023/84878",
+"kind": "vendim",
+"year": "2023",
+"number": "84878",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 179/2023) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-179/2023-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=84878"
 },
 {
 "slug": "aktvendim-2023-84884",
@@ -64832,6 +68590,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=85081"
 },
 {
+"slug": "vendim-2024-85102",
+"path": "vendim/2024/85102",
+"kind": "vendim",
+"year": "2024",
+"number": "85102",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 181/2024) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-181-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-01-05",
+"latest": "2024-01-05",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=85102"
+},
+{
 "slug": "udhezim-2024-85116",
 "path": "udhezim/2024/85116",
 "kind": "udhezim",
@@ -64958,6 +68733,23 @@
 "from": "2024-01-12",
 "latest": "2024-01-12",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=85127"
+},
+{
+"slug": "vendim-2024-85191",
+"path": "vendim/2024/85191",
+"kind": "vendim",
+"year": "2024",
+"number": "85191",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja 182/2024) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-182/2024-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-01-10",
+"latest": "2024-01-10",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=85191"
 },
 {
 "slug": "udhezim-2024-85274",
@@ -65181,6 +68973,40 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=85535"
 },
 {
+"slug": "vendim-2024-85552",
+"path": "vendim/2024/85552",
+"kind": "vendim",
+"year": "2024",
+"number": "85552",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 185/2024)(Qeveria e Republikës së Kosovës)",
+"short": "QRK-185/2024-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-01-22",
+"latest": "2024-01-22",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=85552"
+},
+{
+"slug": "vendim-2024-85605",
+"path": "vendim/2024/85605",
+"kind": "vendim",
+"year": "2024",
+"number": "85605",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 186/2024)(Qeveria e Republikës së Kosovës)",
+"short": "QRK-186/2024-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-01-24",
+"latest": "2024-01-24",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=85605"
+},
+{
 "slug": "rregullore-2024-85617",
 "path": "rregullore/2024/85617",
 "kind": "rregullore",
@@ -65298,6 +69124,23 @@
 "from": "2024-02-05",
 "latest": "2024-02-05",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=85675"
+},
+{
+"slug": "vendim-2024-86765",
+"path": "vendim/2024/86765",
+"kind": "vendim",
+"year": "2024",
+"number": "86765",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 187/2024) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-187/2024-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-01-31",
+"latest": "2024-01-31",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=86765"
 },
 {
 "slug": "udhezim-2024-86819",
@@ -65571,6 +69414,23 @@
 "from": "2024-02-22",
 "latest": "2024-02-22",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=87102"
+},
+{
+"slug": "vendim-2024-87113",
+"path": "vendim/2024/87113",
+"kind": "vendim",
+"year": "2024",
+"number": "87113",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 188/2024) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-188/2024-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-02-14",
+"latest": "2024-02-14",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=87113"
 },
 {
 "slug": "aktvendim-2024-87126",
@@ -65913,6 +69773,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=87320"
 },
 {
+"slug": "vendim-2024-87340",
+"path": "vendim/2024/87340",
+"kind": "vendim",
+"year": "2024",
+"number": "87340",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 189/2024) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-189/2024-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-02-23",
+"latest": "2024-02-23",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=87340"
+},
+{
 "slug": "rregullore-2024-87379",
 "path": "rregullore/2024/87379",
 "kind": "rregullore",
@@ -65928,6 +69805,23 @@
 "from": "2024-03-04",
 "latest": "2024-03-04",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=87379"
+},
+{
+"slug": "vendim-2024-87419",
+"path": "vendim/2024/87419",
+"kind": "vendim",
+"year": "2024",
+"number": "87419",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 190/2024) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-190/2024-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-02-27",
+"latest": "2024-02-27",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=87419"
 },
 {
 "slug": "rregullore-2024-87421",
@@ -66492,6 +70386,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=87671"
 },
 {
+"slug": "vendim-2024-87707",
+"path": "vendim/2024/87707",
+"kind": "vendim",
+"year": "2024",
+"number": "87707",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 192/2024) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-192/2024-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-03-08",
+"latest": "2024-03-08",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=87707"
+},
+{
 "slug": "aktvendim-2024-87738",
 "path": "aktvendim/2024/87738",
 "kind": "aktvendim",
@@ -66977,6 +70888,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=87828"
 },
 {
+"slug": "vendim-2024-87839",
+"path": "vendim/2024/87839",
+"kind": "vendim",
+"year": "2024",
+"number": "87839",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 193/2024) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-193/2024-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-03-13",
+"latest": "2024-03-13",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=87839"
+},
+{
 "slug": "udhezim-2024-87898",
 "path": "udhezim/2024/87898",
 "kind": "udhezim",
@@ -66992,6 +70920,23 @@
 "from": "2024-03-22",
 "latest": "2024-03-22",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=87898"
+},
+{
+"slug": "vendim-2024-88025",
+"path": "vendim/2024/88025",
+"kind": "vendim",
+"year": "2024",
+"number": "88025",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 194/2024) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-194/2024-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-03-20",
+"latest": "2024-03-20",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=88025"
 },
 {
 "slug": "aktvendim-2024-88074",
@@ -67232,6 +71177,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=88153"
 },
 {
+"slug": "vendim-2024-88160",
+"path": "vendim/2024/88160",
+"kind": "vendim",
+"year": "2024",
+"number": "88160",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 195/2024) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-195/2024-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-03-22",
+"latest": "2024-03-22",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=88160"
+},
+{
 "slug": "udhezim-2024-88176",
 "path": "udhezim/2024/88176",
 "kind": "udhezim",
@@ -67280,6 +71242,23 @@
 "relation": "named as amended in its title"
 }
 ]
+},
+{
+"slug": "vendim-2024-88213",
+"path": "vendim/2024/88213",
+"kind": "vendim",
+"year": "2024",
+"number": "88213",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 196/2024) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-196/2024-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-03-26",
+"latest": "2024-03-26",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=88213"
 },
 {
 "slug": "rregullore-2024-88225",
@@ -67350,6 +71329,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=88281"
 },
 {
+"slug": "vendim-2024-88327",
+"path": "vendim/2024/88327",
+"kind": "vendim",
+"year": "2024",
+"number": "88327",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISE (Mbledhja Nr.197/2024) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-197/2024-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-03-29",
+"latest": "2024-03-29",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=88327"
+},
+{
 "slug": "rregullore-2024-88358",
 "path": "rregullore/2024/88358",
 "kind": "rregullore",
@@ -67365,6 +71361,23 @@
 "from": "2024-04-10",
 "latest": "2024-04-10",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=88358"
+},
+{
+"slug": "vendim-2024-88372",
+"path": "vendim/2024/88372",
+"kind": "vendim",
+"year": "2024",
+"number": "88372",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 198/2024) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-198/2024-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-04-03",
+"latest": "2024-04-03",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=88372"
 },
 {
 "slug": "udhezim-2024-88500",
@@ -67450,6 +71463,23 @@
 "from": "2024-04-03",
 "latest": "2024-04-03",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=88539"
+},
+{
+"slug": "vendim-2024-88826",
+"path": "vendim/2024/88826",
+"kind": "vendim",
+"year": "2024",
+"number": "88826",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 201/2024) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-201/2024-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-04-23",
+"latest": "2024-04-23",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=88826"
 },
 {
 "slug": "udhezim-2024-88871",
@@ -67569,6 +71599,23 @@
 "from": "2024-04-26",
 "latest": "2024-04-26",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=88900"
+},
+{
+"slug": "vendim-2024-89012",
+"path": "vendim/2024/89012",
+"kind": "vendim",
+"year": "2024",
+"number": "89012",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 202/2024) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-202/2024-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-04-30",
+"latest": "2024-04-30",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=89012"
 },
 {
 "slug": "aktvendim-2024-89019",
@@ -67724,6 +71771,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=89144"
 },
 {
+"slug": "udhezim-2024-89151",
+"path": "udhezim/2024/89151",
+"kind": "udhezim",
+"year": "2024",
+"number": "89151",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV MMPHI –NR.12/2024 PËR MATJET KADASTRALE DHE GJEODEZIKE, TARIFËN PËR KRYERJEN E MATJEVE, FORMEN DHE MADHËSINË E SHENJAVE KUFITARE DHE PIKAVE GJEODEZIKE",
+"short": "MMPHI-12/24-UA",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-05-14",
+"latest": "2024-05-14",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=89151"
+},
+{
 "slug": "udhezim-2024-89157",
 "path": "udhezim/2024/89157",
 "kind": "udhezim",
@@ -67739,6 +71803,23 @@
 "from": "2024-05-17",
 "latest": "2024-05-17",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=89157"
+},
+{
+"slug": "vendim-2024-89165",
+"path": "vendim/2024/89165",
+"kind": "vendim",
+"year": "2024",
+"number": "89165",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 203/2024) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-203/2024-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-05-08",
+"latest": "2024-05-08",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=89165"
 },
 {
 "slug": "udhezim-2024-89173",
@@ -68022,6 +72103,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=90359"
 },
 {
+"slug": "vendim-2024-90442",
+"path": "vendim/2024/90442",
+"kind": "vendim",
+"year": "2024",
+"number": "90442",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 204/2024) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-204/2024-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-05-17",
+"latest": "2024-05-17",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=90442"
+},
+{
 "slug": "local-gjilan-2024-90560",
 "path": "local/gjilan/2024/90560",
 "kind": "local",
@@ -68106,6 +72204,23 @@
 "from": "2024-05-29",
 "latest": "2024-05-29",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=91739"
+},
+{
+"slug": "vendim-2024-91793",
+"path": "vendim/2024/91793",
+"kind": "vendim",
+"year": "2024",
+"number": "91793",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 207/2024) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-207/2024-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-05-31",
+"latest": "2024-05-31",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=91793"
 },
 {
 "slug": "aktvendim-2024-91944",
@@ -68701,6 +72816,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=92254"
 },
 {
+"slug": "vendim-2024-92257",
+"path": "vendim/2024/92257",
+"kind": "vendim",
+"year": "2024",
+"number": "92257",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 209/2024) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-209/2024-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-06-19",
+"latest": "2024-06-19",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=92257"
+},
+{
 "slug": "rregullore-2024-92258",
 "path": "rregullore/2024/92258",
 "kind": "rregullore",
@@ -68891,6 +73023,23 @@
 ]
 },
 {
+"slug": "vendim-2024-92341",
+"path": "vendim/2024/92341",
+"kind": "vendim",
+"year": "2024",
+"number": "92341",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 210/2024) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-210/2024-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-06-21",
+"latest": "2024-06-21",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=92341"
+},
+{
 "slug": "aktvendim-2024-92352",
 "path": "aktvendim/2024/92352",
 "kind": "aktvendim",
@@ -69008,6 +73157,23 @@
 "from": "2024-06-28",
 "latest": "2024-06-28",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=92513"
+},
+{
+"slug": "vendim-2024-92520",
+"path": "vendim/2024/92520",
+"kind": "vendim",
+"year": "2024",
+"number": "92520",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 211/2024) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-211/2024-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-06-28",
+"latest": "2024-06-28",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=92520"
 },
 {
 "slug": "aktgjykim-2024-92543",
@@ -69249,6 +73415,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=92809"
 },
 {
+"slug": "vendim-2024-92810",
+"path": "vendim/2024/92810",
+"kind": "vendim",
+"year": "2024",
+"number": "92810",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 212/2024) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-212/2024-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-07-11",
+"latest": "2024-07-11",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=92810"
+},
+{
 "slug": "vendim-2024-92830",
 "path": "vendim/2024/92830",
 "kind": "vendim",
@@ -69349,6 +73532,23 @@
 "from": "2024-07-23",
 "latest": "2024-07-23",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=92919"
+},
+{
+"slug": "vendim-2024-92923",
+"path": "vendim/2024/92923",
+"kind": "vendim",
+"year": "2024",
+"number": "92923",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 213/2024) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-213/2024-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-07-16",
+"latest": "2024-07-16",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=92923"
 },
 {
 "slug": "udhezim-2024-92930",
@@ -69672,6 +73872,23 @@
 "from": "2024-08-01",
 "latest": "2024-08-01",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=95258"
+},
+{
+"slug": "vendim-2024-95266",
+"path": "vendim/2024/95266",
+"kind": "vendim",
+"year": "2024",
+"number": "95266",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 214/2024) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-214.2024-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-07-25",
+"latest": "2024-07-25",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=95266"
 },
 {
 "slug": "udhezim-2024-95282",
@@ -70250,6 +74467,40 @@
 "from": "2024-08-22",
 "latest": "2024-08-22",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=95934"
+},
+{
+"slug": "vendim-2024-95946",
+"path": "vendim/2024/95946",
+"kind": "vendim",
+"year": "2024",
+"number": "95946",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 216/2024)(Qeveria e Republikës së Kosovës)",
+"short": "QRK-216/2024-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-08-14",
+"latest": "2024-08-14",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=95946"
+},
+{
+"slug": "vendim-2024-96078",
+"path": "vendim/2024/96078",
+"kind": "vendim",
+"year": "2024",
+"number": "96078",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 217/2024)(Qeveria e Republikës së Kosovës)",
+"short": "QRK-217/2024-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-08-16",
+"latest": "2024-08-16",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=96078"
 },
 {
 "slug": "aktvendim-2024-96147",
@@ -71034,6 +75285,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=96922"
 },
 {
+"slug": "vendim-2024-96929",
+"path": "vendim/2024/96929",
+"kind": "vendim",
+"year": "2024",
+"number": "96929",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 219/2024) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-219/2024-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-09-09",
+"latest": "2024-09-09",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=96929"
+},
+{
 "slug": "udhezim-2024-97001",
 "path": "udhezim/2024/97001",
 "kind": "udhezim",
@@ -71066,6 +75334,23 @@
 "from": "2024-09-18",
 "latest": "2024-09-18",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=97075"
+},
+{
+"slug": "vendim-2024-97077",
+"path": "vendim/2024/97077",
+"kind": "vendim",
+"year": "2024",
+"number": "97077",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 220/2024) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-220/2024-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-09-11",
+"latest": "2024-09-11",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=97077"
 },
 {
 "slug": "rregullore-2024-97306",
@@ -71304,6 +75589,23 @@
 "from": "2024-09-27",
 "latest": "2024-09-27",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=97645"
+},
+{
+"slug": "vendim-2024-97663",
+"path": "vendim/2024/97663",
+"kind": "vendim",
+"year": "2024",
+"number": "97663",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 222/2024 (Qeveria e Republikës së Kosovës)",
+"short": "QRK-222/2024-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-09-30",
+"latest": "2024-09-30",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=97663"
 },
 {
 "slug": "rregullore-2024-97669",
@@ -71621,6 +75923,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=97949"
 },
 {
+"slug": "vendim-2024-97979",
+"path": "vendim/2024/97979",
+"kind": "vendim",
+"year": "2024",
+"number": "97979",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 223/2024 (Qeveria e Republikës së Kosovës)",
+"short": "QRK-223/2024-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-10-09",
+"latest": "2024-10-09",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=97979"
+},
+{
 "slug": "aktvendim-2024-98047",
 "path": "aktvendim/2024/98047",
 "kind": "aktvendim",
@@ -71808,6 +76127,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=98064"
 },
 {
+"slug": "vendim-2024-98073",
+"path": "vendim/2024/98073",
+"kind": "vendim",
+"year": "2024",
+"number": "98073",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 224/2024 (Qeveria e Republikës së Kosovës)",
+"short": "QRK-224/2024-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-10-11",
+"latest": "2024-10-11",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=98073"
+},
+{
 "slug": "rregullore-2024-98111",
 "path": "rregullore/2024/98111",
 "kind": "rregullore",
@@ -71978,6 +76314,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=98311"
 },
 {
+"slug": "vendim-2024-98343",
+"path": "vendim/2024/98343",
+"kind": "vendim",
+"year": "2024",
+"number": "98343",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 225/2024 (Qeveria e Republikës së Kosovës)",
+"short": "QRK-225/2024-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-10-21",
+"latest": "2024-10-21",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=98343"
+},
+{
 "slug": "udhezim-2024-98478",
 "path": "udhezim/2024/98478",
 "kind": "udhezim",
@@ -72078,6 +76431,23 @@
 "from": "2024-11-06",
 "latest": "2024-11-06",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=98552"
+},
+{
+"slug": "vendim-2024-98581",
+"path": "vendim/2024/98581",
+"kind": "vendim",
+"year": "2024",
+"number": "98581",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 227/2024 (Qeveria e Republikës së Kosovës)",
+"short": "QRK-227/2024-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-10-30",
+"latest": "2024-10-30",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=98581"
 },
 {
 "slug": "vendim-2024-98585",
@@ -72199,6 +76569,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=98593"
 },
 {
+"slug": "vendim-2024-98650",
+"path": "vendim/2024/98650",
+"kind": "vendim",
+"year": "2024",
+"number": "98650",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 228/2024 (Qeveria e Republikës së Kosovës)",
+"short": "QRK-228/2024-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-10-31",
+"latest": "2024-10-31",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=98650"
+},
+{
 "slug": "rregullore-2024-98661",
 "path": "rregullore/2024/98661",
 "kind": "rregullore",
@@ -72265,6 +76652,23 @@
 "from": "2024-11-11",
 "latest": "2024-11-11",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=98711"
+},
+{
+"slug": "vendim-2024-98731",
+"path": "vendim/2024/98731",
+"kind": "vendim",
+"year": "2024",
+"number": "98731",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 229/2024 (Qeveria e Republikës së Kosovës)",
+"short": "QRK-229/2024-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-11-05",
+"latest": "2024-11-05",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=98731"
 },
 {
 "slug": "aktvendim-2024-98753",
@@ -72335,6 +76739,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=98871"
 },
 {
+"slug": "vendim-2024-98935",
+"path": "vendim/2024/98935",
+"kind": "vendim",
+"year": "2024",
+"number": "98935",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 230/2024) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-230/2024-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-11-13",
+"latest": "2024-11-13",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=98935"
+},
+{
 "slug": "aktvendim-2024-98945",
 "path": "aktvendim/2024/98945",
 "kind": "aktvendim",
@@ -72369,6 +76790,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=99014"
 },
 {
+"slug": "vendim-2024-99018",
+"path": "vendim/2024/99018",
+"kind": "vendim",
+"year": "2024",
+"number": "99018",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 231/2024)(Qeveria e Republikës së Kosovës)",
+"short": "QRK-231/2024-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-11-17",
+"latest": "2024-11-17",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=99018"
+},
+{
 "slug": "rregullore-2024-99027",
 "path": "rregullore/2024/99027",
 "kind": "rregullore",
@@ -72384,6 +76822,23 @@
 "from": "2024-11-25",
 "latest": "2024-11-25",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=99027"
+},
+{
+"slug": "vendim-2024-99041",
+"path": "vendim/2024/99041",
+"kind": "vendim",
+"year": "2024",
+"number": "99041",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 232/2024) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-232/2024-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-11-18",
+"latest": "2024-11-18",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=99041"
 },
 {
 "slug": "rregullore-2024-99062",
@@ -72573,6 +77028,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=99227"
 },
 {
+"slug": "vendim-2024-99261",
+"path": "vendim/2024/99261",
+"kind": "vendim",
+"year": "2024",
+"number": "99261",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 233/2024) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-233/2024-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-11-27",
+"latest": "2024-11-27",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=99261"
+},
+{
 "slug": "udhezim-2024-99269",
 "path": "udhezim/2024/99269",
 "kind": "udhezim",
@@ -72622,6 +77094,23 @@
 "from": "2024-12-11",
 "latest": "2024-12-11",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=99421"
+},
+{
+"slug": "vendim-2024-99433",
+"path": "vendim/2024/99433",
+"kind": "vendim",
+"year": "2024",
+"number": "99433",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr.235/2024) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-235/2024-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=99433"
 },
 {
 "slug": "udhezim-2024-99461",
@@ -72690,6 +77179,23 @@
 "from": "2024-12-11",
 "latest": "2024-12-11",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=99595"
+},
+{
+"slug": "vendim-2024-99618",
+"path": "vendim/2024/99618",
+"kind": "vendim",
+"year": "2024",
+"number": "99618",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr.236/2024) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-236/2024-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-12-11",
+"latest": "2024-12-11",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=99618"
 },
 {
 "slug": "rregullore-2024-99640",
@@ -72828,6 +77334,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=99807"
 },
 {
+"slug": "vendim-2024-99821",
+"path": "vendim/2024/99821",
+"kind": "vendim",
+"year": "2024",
+"number": "99821",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr.238/2024) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-238/2024-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=99821"
+},
+{
 "slug": "aktvendim-2024-99835",
 "path": "aktvendim/2024/99835",
 "kind": "aktvendim",
@@ -72911,6 +77434,23 @@
 "from": "2024-12-23",
 "latest": "2024-12-23",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=99918"
+},
+{
+"slug": "vendim-2024-99952",
+"path": "vendim/2024/99952",
+"kind": "vendim",
+"year": "2024",
+"number": "99952",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr.239/2024) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-239/2024-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-12-24",
+"latest": "2024-12-24",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=99952"
 },
 {
 "slug": "rregullore-2024-99962",
@@ -73390,6 +77930,74 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=111886"
 },
 {
+"slug": "vendim-2025-100253",
+"path": "vendim/2025/100253",
+"kind": "vendim",
+"year": "2025",
+"number": "100253",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja NR. 242/2025) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-242/2025-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2025-01-10",
+"latest": "2025-01-10",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=100253"
+},
+{
+"slug": "vendim-2025-100258",
+"path": "vendim/2025/100258",
+"kind": "vendim",
+"year": "2025",
+"number": "100258",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja NR. 243/2025) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-243/2025-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2025-01-10",
+"latest": "2025-01-10",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=100258"
+},
+{
+"slug": "vendim-2025-100276",
+"path": "vendim/2025/100276",
+"kind": "vendim",
+"year": "2025",
+"number": "100276",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja NR. 244/2025) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-01/244-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2025-01-11",
+"latest": "2025-01-11",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=100276"
+},
+{
+"slug": "vendim-2025-100387",
+"path": "vendim/2025/100387",
+"kind": "vendim",
+"year": "2025",
+"number": "100387",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja NR. 245/2025) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-245/2025-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2025-01-15",
+"latest": "2025-01-15",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=100387"
+},
+{
 "slug": "rregullore-2025-100566",
 "path": "rregullore/2025/100566",
 "kind": "rregullore",
@@ -73465,6 +78073,23 @@
 "from": "2025-01-31",
 "latest": "2025-01-31",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=100827"
+},
+{
+"slug": "vendim-2025-100839",
+"path": "vendim/2025/100839",
+"kind": "vendim",
+"year": "2025",
+"number": "100839",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja NR. 247/2025) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-247/2025-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2025-01-31",
+"latest": "2025-01-31",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=100839"
 },
 {
 "slug": "local-malisheve-2025-100859",
@@ -73585,6 +78210,23 @@
 "from": "2025-02-25",
 "latest": "2025-02-25",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=101206"
+},
+{
+"slug": "vendim-2025-101417",
+"path": "vendim/2025/101417",
+"kind": "vendim",
+"year": "2025",
+"number": "101417",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja NR. 249/2025) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-249/2025-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2025-02-26",
+"latest": "2025-02-26",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=101417"
 },
 {
 "slug": "vendim-2025-101485",
@@ -74454,6 +79096,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=101713"
 },
 {
+"slug": "vendim-2025-101718",
+"path": "vendim/2025/101718",
+"kind": "vendim",
+"year": "2025",
+"number": "101718",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISE (Mbledhja Nr. 250/2025) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-250/2025-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2025-03-07",
+"latest": "2025-03-07",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=101718"
+},
+{
 "slug": "aktvendim-2025-101747",
 "path": "aktvendim/2025/101747",
 "kind": "aktvendim",
@@ -74673,6 +79332,40 @@
 "from": "2025-03-12",
 "latest": "2025-03-12",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=101809"
+},
+{
+"slug": "vendim-2025-101829",
+"path": "vendim/2025/101829",
+"kind": "vendim",
+"year": "2025",
+"number": "101829",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISE (Mbledhja Nr. 251/2025) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-251/2025-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2025-03-12",
+"latest": "2025-03-12",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=101829"
+},
+{
+"slug": "vendim-2025-101869",
+"path": "vendim/2025/101869",
+"kind": "vendim",
+"year": "2025",
+"number": "101869",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 252/2025)(Qeveria e Republikës së Kosovës)",
+"short": "QRK-252/2025-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2025-03-13",
+"latest": "2025-03-13",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=101869"
 },
 {
 "slug": "aktvendim-2025-101871",
@@ -75000,6 +79693,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=102210"
 },
 {
+"slug": "vendim-2025-102217",
+"path": "vendim/2025/102217",
+"kind": "vendim",
+"year": "2025",
+"number": "102217",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 253/2025) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-253/2025-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2025-03-21",
+"latest": "2025-03-21",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=102217"
+},
+{
 "slug": "aktvendim-2025-102249",
 "path": "aktvendim/2025/102249",
 "kind": "aktvendim",
@@ -75117,6 +79827,40 @@
 "from": "2025-03-28",
 "latest": "2025-03-28",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=102387"
+},
+{
+"slug": "vendim-2025-102413",
+"path": "vendim/2025/102413",
+"kind": "vendim",
+"year": "2025",
+"number": "102413",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 255/2025) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-255/2025-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2025-03-28",
+"latest": "2025-03-28",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=102413"
+},
+{
+"slug": "vendim-2025-102447",
+"path": "vendim/2025/102447",
+"kind": "vendim",
+"year": "2025",
+"number": "102447",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 256/2025) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-256/2025-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2025-04-02",
+"latest": "2025-04-02",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=102447"
 },
 {
 "slug": "statut-2025-102454",
@@ -75255,6 +79999,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=102648"
 },
 {
+"slug": "vendim-2025-102798",
+"path": "vendim/2025/102798",
+"kind": "vendim",
+"year": "2025",
+"number": "102798",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 257/2025) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-257/2025-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2025-04-14",
+"latest": "2025-04-14",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=102798"
+},
+{
 "slug": "aktgjykim-2025-102826",
 "path": "aktgjykim/2025/102826",
 "kind": "aktgjykim",
@@ -75313,6 +80074,23 @@
 "relation": "Shfuqizuar nga"
 }
 ]
+},
+{
+"slug": "vendim-2025-102926",
+"path": "vendim/2025/102926",
+"kind": "vendim",
+"year": "2025",
+"number": "102926",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 258/2025) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-258/2025-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2025-04-16",
+"latest": "2025-04-16",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=102926"
 },
 {
 "slug": "aktvendim-2025-102941",
@@ -75553,6 +80331,32 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=106214"
 },
 {
+"slug": "vendim-2025-106293",
+"path": "vendim/2025/106293",
+"kind": "vendim",
+"year": "2025",
+"number": "106293",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIM NR. 11/260 (Qeveria e Republikës së Kosovës)",
+"short": "QRK-11/260-V",
+"code": null,
+"status": "repealed, not consolidated",
+"versions": 1,
+"from": "2025-06-05",
+"latest": "2025-06-05",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=106293",
+"amended_by": [
+{
+"ref": "gzk:119944",
+"title": "VENDIM NR. 15/11 (Qeveria e Republikës së Kosovës)",
+"url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=119944",
+"date": "2026-04-20",
+"relation": "Shfuqizuar nga"
+}
+]
+},
+{
 "slug": "aktvendim-2025-106354",
 "path": "aktvendim/2025/106354",
 "kind": "aktvendim",
@@ -75672,6 +80476,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=106446"
 },
 {
+"slug": "vendim-2025-106461",
+"path": "vendim/2025/106461",
+"kind": "vendim",
+"year": "2025",
+"number": "106461",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 261/2025) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-261/2025-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2025-06-05",
+"latest": "2025-06-05",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=106461"
+},
+{
 "slug": "aktvendim-2025-106500",
 "path": "aktvendim/2025/106500",
 "kind": "aktvendim",
@@ -75721,6 +80542,23 @@
 "from": "2025-06-10",
 "latest": "2025-06-10",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=106502"
+},
+{
+"slug": "vendim-2025-106579",
+"path": "vendim/2025/106579",
+"kind": "vendim",
+"year": "2025",
+"number": "106579",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 262/2025) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-262/2025-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2025-06-11",
+"latest": "2025-06-11",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=106579"
 },
 {
 "slug": "aktgjykim-2025-106736",
@@ -76199,6 +81037,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=107386"
 },
 {
+"slug": "vendim-2025-107463",
+"path": "vendim/2025/107463",
+"kind": "vendim",
+"year": "2025",
+"number": "107463",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 264/2025) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-264/2025-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2025-07-09",
+"latest": "2025-07-09",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=107463"
+},
+{
 "slug": "aktgjykim-2025-107647",
 "path": "aktgjykim/2025/107647",
 "kind": "aktgjykim",
@@ -76641,6 +81496,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=108444"
 },
 {
+"slug": "vendim-2025-108446",
+"path": "vendim/2025/108446",
+"kind": "vendim",
+"year": "2025",
+"number": "108446",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 265/2025) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-265/2025-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2025-08-01",
+"latest": "2025-08-01",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=108446"
+},
+{
 "slug": "aktvendim-2025-108548",
 "path": "aktvendim/2025/108548",
 "kind": "aktvendim",
@@ -76709,6 +81581,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=108603"
 },
 {
+"slug": "vendim-2025-108720",
+"path": "vendim/2025/108720",
+"kind": "vendim",
+"year": "2025",
+"number": "108720",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 266/2025) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-266/2025-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2025-08-08",
+"latest": "2025-08-08",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=108720"
+},
+{
 "slug": "aktgjykim-2025-108733",
 "path": "aktgjykim/2025/108733",
 "kind": "aktgjykim",
@@ -76760,6 +81649,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=108920"
 },
 {
+"slug": "vendim-2025-109072",
+"path": "vendim/2025/109072",
+"kind": "vendim",
+"year": "2025",
+"number": "109072",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 267/2025) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-267/2025-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2025-08-15",
+"latest": "2025-08-15",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=109072"
+},
+{
 "slug": "aktgjykim-2025-109126",
 "path": "aktgjykim/2025/109126",
 "kind": "aktgjykim",
@@ -76792,6 +81698,23 @@
 "from": "2025-08-29",
 "latest": "2025-08-29",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=109422"
+},
+{
+"slug": "vendim-2025-109430",
+"path": "vendim/2025/109430",
+"kind": "vendim",
+"year": "2025",
+"number": "109430",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 268/2025) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-268/2025-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2025-08-22",
+"latest": "2025-08-22",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=109430"
 },
 {
 "slug": "statut-2025-109504",
@@ -77525,6 +82448,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=111322"
 },
 {
+"slug": "vendim-2025-111337",
+"path": "vendim/2025/111337",
+"kind": "vendim",
+"year": "2025",
+"number": "111337",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 271/2025) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-271/2025-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2025-10-10",
+"latest": "2025-10-10",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=111337"
+},
+{
 "slug": "rregullore-2025-111352",
 "path": "rregullore/2025/111352",
 "kind": "rregullore",
@@ -77540,6 +82480,23 @@
 "from": "2025-10-20",
 "latest": "2025-10-20",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=111352"
+},
+{
+"slug": "vendim-2025-111363",
+"path": "vendim/2025/111363",
+"kind": "vendim",
+"year": "2025",
+"number": "111363",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIM NR. 117/2025 (Ministria e Kulturës, e Rinisë dhe e Sporteve)",
+"short": "MKRS-117/2025-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2025-10-10",
+"latest": "2025-10-10",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=111363"
 },
 {
 "slug": "rregullore-2025-111434",
@@ -78358,6 +83315,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=112272"
 },
 {
+"slug": "vendim-2025-112306",
+"path": "vendim/2025/112306",
+"kind": "vendim",
+"year": "2025",
+"number": "112306",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 274/2025) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-274/2025-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2025-11-06",
+"latest": "2025-11-06",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=112306"
+},
+{
 "slug": "aktvendim-2025-112333",
 "path": "aktvendim/2025/112333",
 "kind": "aktvendim",
@@ -78458,6 +83432,23 @@
 "from": "2025-11-13",
 "latest": "2025-11-13",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=112475"
+},
+{
+"slug": "vendim-2025-112511",
+"path": "vendim/2025/112511",
+"kind": "vendim",
+"year": "2025",
+"number": "112511",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 275/2025) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-275/2025-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2025-11-13",
+"latest": "2025-11-13",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=112511"
 },
 {
 "slug": "rregullore-2025-112621",
@@ -78594,6 +83585,23 @@
 "from": "2025-11-25",
 "latest": "2025-11-25",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=112827"
+},
+{
+"slug": "vendim-2025-112833",
+"path": "vendim/2025/112833",
+"kind": "vendim",
+"year": "2025",
+"number": "112833",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 276/2025) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-276/2025-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2025-11-24",
+"latest": "2025-11-24",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=112833"
 },
 {
 "slug": "aktvendim-2025-112856",
@@ -79531,6 +84539,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=114600"
 },
 {
+"slug": "vendim-2025-114661",
+"path": "vendim/2025/114661",
+"kind": "vendim",
+"year": "2025",
+"number": "114661",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIM NR. 182-XII-2025 (Ministria e Shëndetësisë)",
+"short": "MSH-182-XII-2025-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2025-12-19",
+"latest": "2025-12-19",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=114661"
+},
+{
 "slug": "aktvendim-2025-114665",
 "path": "aktvendim/2025/114665",
 "kind": "aktvendim",
@@ -80177,6 +85202,40 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=114886"
 },
 {
+"slug": "vendim-2025-114929",
+"path": "vendim/2025/114929",
+"kind": "vendim",
+"year": "2025",
+"number": "114929",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 283/2025) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-283/2025-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2025-12-31",
+"latest": "2025-12-31",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=114929"
+},
+{
+"slug": "vendim-2026-114930",
+"path": "vendim/2026/114930",
+"kind": "vendim",
+"year": "2026",
+"number": "114930",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 284/2026) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-284/2026-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2026-01-01",
+"latest": "2026-01-01",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=114930"
+},
+{
 "slug": "aktvendim-2026-114968",
 "path": "aktvendim/2026/114968",
 "kind": "aktvendim",
@@ -80704,6 +85763,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=115517"
 },
 {
+"slug": "vendim-2026-115659",
+"path": "vendim/2026/115659",
+"kind": "vendim",
+"year": "2026",
+"number": "115659",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 285/2026) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-285/2026-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2026-01-26",
+"latest": "2026-01-26",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=115659"
+},
+{
 "slug": "rregullore-2026-115662",
 "path": "rregullore/2026/115662",
 "kind": "rregullore",
@@ -80917,6 +85993,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=116185"
 },
 {
+"slug": "vendim-2026-116202",
+"path": "vendim/2026/116202",
+"kind": "vendim",
+"year": "2026",
+"number": "116202",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 01/2026) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-01/2026-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2026-02-12",
+"latest": "2026-02-12",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=116202"
+},
+{
 "slug": "aktvendim-2026-116247",
 "path": "aktvendim/2026/116247",
 "kind": "aktvendim",
@@ -80932,6 +86025,23 @@
 "from": "2026-02-13",
 "latest": "2026-02-13",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=116247"
+},
+{
+"slug": "vendim-2026-117424",
+"path": "vendim/2026/117424",
+"kind": "vendim",
+"year": "2026",
+"number": "117424",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 02/2026) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-02/2026-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2026-02-20",
+"latest": "2026-02-20",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=117424"
 },
 {
 "slug": "rregullore-2026-117436",
@@ -81328,6 +86438,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=117740"
 },
 {
+"slug": "vendim-2026-117816",
+"path": "vendim/2026/117816",
+"kind": "vendim",
+"year": "2026",
+"number": "117816",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 03/2026) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-03/2026-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2026-03-05",
+"latest": "2026-03-05",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=117816"
+},
+{
 "slug": "aktgjykim-2026-117822",
 "path": "aktgjykim/2026/117822",
 "kind": "aktgjykim",
@@ -81445,6 +86572,23 @@
 "from": "2026-03-12",
 "latest": "2026-03-12",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=118015"
+},
+{
+"slug": "vendim-2026-118116",
+"path": "vendim/2026/118116",
+"kind": "vendim",
+"year": "2026",
+"number": "118116",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 04/2026) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-04/2026-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2026-03-13",
+"latest": "2026-03-13",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=118116"
 },
 {
 "slug": "aktvendim-2026-118121",
@@ -81889,6 +87033,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=118392"
 },
 {
+"slug": "vendim-2026-118423",
+"path": "vendim/2026/118423",
+"kind": "vendim",
+"year": "2026",
+"number": "118423",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 06/2026) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-06/2026-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2026-03-27",
+"latest": "2026-03-27",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=118423"
+},
+{
 "slug": "vendim-2026-118455",
 "path": "vendim/2026/118455",
 "kind": "vendim",
@@ -82110,6 +87271,40 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=118666"
 },
 {
+"slug": "vendim-2026-118688",
+"path": "vendim/2026/118688",
+"kind": "vendim",
+"year": "2026",
+"number": "118688",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 08/2026) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-08/2026-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2026-04-03",
+"latest": "2026-04-03",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=118688"
+},
+{
+"slug": "vendim-2026-118798",
+"path": "vendim/2026/118798",
+"kind": "vendim",
+"year": "2026",
+"number": "118798",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 09/2026) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-09/2026-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2026-04-10",
+"latest": "2026-04-10",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=118798"
+},
+{
 "slug": "rregullore-2026-118845",
 "path": "rregullore/2026/118845",
 "kind": "rregullore",
@@ -82246,6 +87441,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=119169"
 },
 {
+"slug": "vendim-2026-119195",
+"path": "vendim/2026/119195",
+"kind": "vendim",
+"year": "2026",
+"number": "119195",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 13/2026) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-13/2026-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2026-04-23",
+"latest": "2026-04-23",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=119195"
+},
+{
 "slug": "rregullore-2026-119227",
 "path": "rregullore/2026/119227",
 "kind": "rregullore",
@@ -82295,6 +87507,23 @@
 "from": "2008-06-15",
 "latest": "2008-06-15",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=119297"
+},
+{
+"slug": "vendim-2026-119313",
+"path": "vendim/2026/119313",
+"kind": "vendim",
+"year": "2026",
+"number": "119313",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 15/2026) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-15/2026-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2026-04-27",
+"latest": "2026-04-27",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=119313"
 },
 {
 "slug": "aktvendim-2026-119396",
@@ -82414,6 +87643,23 @@
 "from": "2026-04-30",
 "latest": "2026-04-30",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=119451"
+},
+{
+"slug": "vendim-2026-119489",
+"path": "vendim/2026/119489",
+"kind": "vendim",
+"year": "2026",
+"number": "119489",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 16/2026) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-16/2026-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2026-04-30",
+"latest": "2026-04-30",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=119489"
 },
 {
 "slug": "aktgjykim-2026-119568",
@@ -83430,6 +88676,32 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=120208"
 },
 {
+"slug": "udhezim-2026-120275",
+"path": "udhezim/2026/120275",
+"kind": "udhezim",
+"year": "2026",
+"number": "120275",
+"withdrawn_by": null,
+"reason": null,
+"title": "UDHËZIM ADMINISTRATIV NR. 01/2026 PËR PROCEDURËN E GRADIMIT TË ZYRTARËVE POLICORË",
+"short": "PRK-01/2026-UA",
+"code": null,
+"status": "repealed, not consolidated",
+"versions": 1,
+"from": "2026-05-22",
+"latest": "2026-05-22",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=120275",
+"amended_by": [
+{
+"ref": "gzk:122720",
+"title": "AKTGJYKIM P.A.NR. 16/2026 (Gjykata Supreme e Kosovës)",
+"url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=122720",
+"date": "2026-08-06",
+"relation": "Shfuqizuar nga"
+}
+]
+},
+{
 "slug": "aktvendim-2026-120299",
 "path": "aktvendim/2026/120299",
 "kind": "aktvendim",
@@ -83462,6 +88734,23 @@
 "from": "2026-05-26",
 "latest": "2026-05-26",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=120300"
+},
+{
+"slug": "vendim-2026-120313",
+"path": "vendim/2026/120313",
+"kind": "vendim",
+"year": "2026",
+"number": "120313",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 21/2026) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-21/2026-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2026-05-26",
+"latest": "2026-05-26",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=120313"
 },
 {
 "slug": "rregullore-2026-120314",
@@ -83819,6 +89108,23 @@
 "from": "2026-05-29",
 "latest": "2026-05-29",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=120380"
+},
+{
+"slug": "vendim-2026-120426",
+"path": "vendim/2026/120426",
+"kind": "vendim",
+"year": "2026",
+"number": "120426",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 22/2026) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-22/2026-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2026-06-02",
+"latest": "2026-06-02",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=120426"
 },
 {
 "slug": "udhezim-2026-120464",
@@ -84655,6 +89961,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=120890"
 },
 {
+"slug": "vendim-2026-120903",
+"path": "vendim/2026/120903",
+"kind": "vendim",
+"year": "2026",
+"number": "120903",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 23/2026) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-23/2026-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2026-06-12",
+"latest": "2026-06-12",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=120903"
+},
+{
 "slug": "rregullore-2026-120924",
 "path": "rregullore/2026/120924",
 "kind": "rregullore",
@@ -84704,6 +90027,23 @@
 "from": "2008-06-15",
 "latest": "2008-06-15",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=121016"
+},
+{
+"slug": "vendim-2026-121078",
+"path": "vendim/2026/121078",
+"kind": "vendim",
+"year": "2026",
+"number": "121078",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 24/2026) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-24/2026-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2026-06-19",
+"latest": "2026-06-19",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=121078"
 },
 {
 "slug": "udhezim-2026-121129",
@@ -85044,6 +90384,23 @@
 "from": "2026-06-30",
 "latest": "2026-06-30",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=121333"
+},
+{
+"slug": "vendim-2026-121337",
+"path": "vendim/2026/121337",
+"kind": "vendim",
+"year": "2026",
+"number": "121337",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 26/2026) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-26/2026-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2026-06-30",
+"latest": "2026-06-30",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=121337"
 },
 {
 "slug": "aktvendim-2026-121354",
@@ -85522,6 +90879,23 @@
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=121684"
 },
 {
+"slug": "vendim-2026-121688",
+"path": "vendim/2026/121688",
+"kind": "vendim",
+"year": "2026",
+"number": "121688",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 27/2026) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-27/2026-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2026-07-10",
+"latest": "2026-07-10",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=121688"
+},
+{
 "slug": "aktvendim-2026-121838",
 "path": "aktvendim/2026/121838",
 "kind": "aktvendim",
@@ -85622,6 +90996,23 @@
 "from": "2026-07-15",
 "latest": "2026-07-15",
 "portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=121843"
+},
+{
+"slug": "vendim-2026-121965",
+"path": "vendim/2026/121965",
+"kind": "vendim",
+"year": "2026",
+"number": "121965",
+"withdrawn_by": null,
+"reason": null,
+"title": "VENDIMET E QEVERISË (Mbledhja Nr. 29/2026) (Qeveria e Republikës së Kosovës)",
+"short": "QRK-29/2026-V",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2026-07-17",
+"latest": "2026-07-17",
+"portal": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=121965"
 },
 {
 "slug": "vendim-2026-122014",
