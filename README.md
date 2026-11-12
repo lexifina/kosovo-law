@@ -1,5 +1,10 @@
 # Kosovo law, act by act, as enacted
 
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
+<img alt="Kosovo law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
+</picture>
+
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Kosovo's national law, which global-law reads at `kosovo/national/acts/`.
 
 The legislation of Kosovo as a git repository: 1048 acts from the [Official Gazette of the Republic of Kosovo](https://gzk.rks-gov.net) (Gazeta Zyrtare), the official publisher, each **as it was enacted**: 1020 laws; 11 Constitutional Court judgments; 10 codes; 6 the 2008 Constitution and its amendments; 1 orders. There is one folder per act and one file per article, in Albanian, with the Gazette's English translation in a parallel tree under `en/`. Each act is one commit, credited to the act itself and dated the day it took effect, at noon Kosovo time.
