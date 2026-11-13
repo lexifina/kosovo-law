@@ -1,91 +1,106 @@
-# Kosovo law, act by act, as enacted
+# Legjislacioni i Kosovës, akt pas akti, siç është miratuar
+
+**Shqip** · [English](README.en.md)
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
-<img alt="Kosovo law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
+<source media="(prefers-color-scheme: dark)" srcset="data/sq/effort-dark.svg">
+<img alt="Legjislacioni i Kosovës në këtë repozitor: çfarë përmban, ndryshimet sipas vitit të hyrjes në fuqi, plotësia ndaj burimeve zyrtare dhe saktësia e asaj që përmban" src="data/sq/effort-light.svg" width="880">
 </picture>
 
-Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Kosovo's national law, which global-law reads at `kosovo/national/acts/`.
+Pjesë e [lexifina/global-law](https://github.com/lexifina/global-law), një histori e vetme git për legjislacionin e çdo vendi: ky është legjislacioni kombëtar i Kosovës, të cilin global-law e lexon te `kosovo/national/acts/`.
 
-The legislation of Kosovo as a git repository: 1048 acts from the [Official Gazette of the Republic of Kosovo](https://gzk.rks-gov.net) (Gazeta Zyrtare), the official publisher, each **as it was enacted**: 1020 laws; 11 Constitutional Court judgments; 10 codes; 6 the 2008 Constitution and its amendments; 1 orders. There is one folder per act and one file per article, in Albanian, with the Gazette's English translation in a parallel tree under `en/`. Each act is one commit, credited to the act itself and dated the day it took effect, at noon Kosovo time.
+Legjislacioni i Kosovës si repozitor git: 1.048 akte nga [Gazeta Zyrtare e Republikës së Kosovës](https://gzk.rks-gov.net), botuesi zyrtar, secili **siç është miratuar**: 1.020 ligje; 11 aktgjykime të Gjykatës Kushtetuese; 10 kode; 6 akte të Kushtetutës së vitit 2008 dhe të amendamenteve të saj; 1 urdhër. Për çdo akt ka një dosje dhe për çdo nen një skedar, në shqip, ndërsa përkthimi në anglisht i Gazetës gjendet në një pemë paralele nën `en/`. Çdo akt është një commit, që i atribuohet vetë aktit dhe mban datën e ditës kur akti hyri në fuqi, në mesditë sipas orës së Kosovës.
 
-**What kind of history this is.** The Official Gazette publishes every act as enacted. It keeps no dated series of consolidated versions of the laws it amends: since 2024-09-26 it has published 156 single consolidated texts ("(KONSOLIDUAR)", one per law, each as of its publication day), listed with their publication dates in [`data/consolidated.csv`](data/consolidated.csv) but not used as history. So this record is **as enacted** (`"history": "as-enacted"` in [`corpus.json`](corpus.json)): an act's files hold the text it was enacted with, and **later amendments are not applied to them**. An amending law is its own act, in its own folder, saying what it changes ("Neni 6 i ligjit bazik, pas paragrafit 2, shtohet paragrafi i ri 3 ..."). Which act amends, supplements or repeals which is listed in [`data/amendments.csv`](data/amendments.csv) (1117 links, as the Gazette gives them). There is no line-by-line history of any law's consolidated text, and none before the record starts. Replaying the amendments into the texts was not attempted, because for most laws there is no official consolidation to check a replay against, and for the others only one, recent.
+**Çfarë lloj historie është kjo.** Gazeta Zyrtare e boton çdo akt siç është miratuar. Ajo nuk mban një seri të datuar versionesh të konsoliduara të ligjeve që ndryshon: që nga 2024-09-26 ka botuar 156 tekste të vetme të konsoliduara ("(KONSOLIDUAR)", një për ligj, secili sipas gjendjes në ditën e botimit), të cilat renditen me datat e botimit në [`data/consolidated.csv`](data/consolidated.csv), por nuk përdoren si histori. Prandaj ky regjistër është **siç është miratuar** (`"history": "as-enacted"` në [`corpus.json`](corpus.json)): skedarët e një akti përmbajnë tekstin me të cilin akti është miratuar, dhe **ndryshimet e mëvonshme nuk zbatohen në to**. Një ligj ndryshues është akt më vete, në dosjen e vet, dhe thotë se çfarë ndryshon ("Neni 6 i ligjit bazik, pas paragrafit 2, shtohet paragrafi i ri 3 ..."). Cili akt ndryshon, plotëson ose shfuqizon cilin renditet në [`data/amendments.csv`](data/amendments.csv) (1.117 lidhje, ashtu siç i jep Gazeta). Nuk ka histori rresht për rresht të tekstit të konsoliduar të asnjë ligji, dhe asnjë histori para fillimit të regjistrit. Zbatimi i ndryshimeve në tekste nuk u provua, sepse për shumicën e ligjeve nuk ka konsolidim zyrtar me të cilin të krahasohet rezultati, ndërsa për të tjerët ka vetëm një, të kohëve të fundit.
 
-The record runs from 2002-07-26 to 2026-10-21 in 1049 commits on `main`. 0 further acts, published but taking effect after 2026-10-29, are on the branch `future`, which is never merged. A repealed act's files are deleted on the day the act that repealed it took effect (256 acts).
+Regjistri shtrihet nga 2002-07-26 deri më 2026-10-21 në 1.049 commit-e në `main`. 0 akte të tjera, të botuara por që hyjnë në fuqi pas 2026-10-29, gjenden në degën `future`, e cila nuk bashkohet kurrë. Skedarët e një akti të shfuqizuar fshihen në ditën kur hyri në fuqi akti që e shfuqizoi (256 akte).
 
-**Two builds, one history.** The acts above are the first build (root [`laws.csv`](laws.csv)). Since 2026-11-03 the same `main` also holds the acts of the Gazette's other categories (administrative instructions, regulations, Government decisions, decrees, international agreements, statutes, the Constitutional Court's judgments and decisions, and laws the first build's list did not include), each as published, one version each, in `<kind>/<year>/<id>/` folders; they are listed in [registry/ACTS.md](registry/ACTS.md) and [registry/data/acts.json](registry/data/acts.json), and built as described in [registry/REPRODUCE.md](registry/REPRODUCE.md).
+**Dy ndërtime, një histori.** Aktet e mësipërme janë ndërtimi i parë ([`laws.csv`](laws.csv) në rrënjë). Që nga 2026-11-03, i njëjti `main` përmban edhe aktet e kategorive të tjera të Gazetës (udhëzime administrative, rregullore, vendime të Qeverisë, dekrete, marrëveshje ndërkombëtare, statute, aktgjykimet dhe vendimet e Gjykatës Kushtetuese, si dhe ligjet që lista e ndërtimit të parë nuk i përfshinte), secili siç është botuar, me nga një version, në dosje `<kind>/<year>/<id>/`; ato renditen në [registry/ACTS.md](registry/ACTS.md) dhe [registry/data/acts.json](registry/data/acts.json) dhe ndërtohen siç përshkruhet në [registry/REPRODUCE.md](registry/REPRODUCE.md).
 
-## A lawyer's questions as git commands
+## Pyetjet e një juristi si komanda git
 
-Each act's folder is `<kind>/<number>/`, listed with its title, dates and status in [`laws.csv`](laws.csv): `kushtetuta/2008` (the Constitution as adopted in 2008), `ligje/03-l-199` (Law No. 03/L-199 on Courts, 2010, repealed in 2019), `ligje/06-l-054` (Law No. 06/L-054 on Courts, which repealed it), `kode/06-l-074` (the Criminal Code of 2019).
+Dosja e çdo akti është `<kind>/<number>/`, e renditur me titullin, datat dhe statusin në [`laws.csv`](laws.csv): `kushtetuta/2008` (Kushtetuta siç u miratua në vitin 2008), `ligje/03-l-199` (Ligji Nr. 03/L-199 për Gjykatat, 2010, i shfuqizuar në vitin 2019), `ligje/06-l-054` (Ligji Nr. 06/L-054 për Gjykatat, që e shfuqizoi atë), `kode/06-l-074` (Kodi Penal i vitit 2019).
 
-| Question | Command |
+| Pyetja | Komanda |
 | --- | --- |
-| What did article 43 of Law No. 03/L-199 say, and was it in force on 1 January 2015? | `python tools/in_force_on.py 2015-01-01 ligje/03-l-199 neni-043` |
-| The whole act on a date (Albanian; English under `en/`) | `python tools/in_force_on.py 2015-01-01 en/ligje/03-l-199` |
-| Was it still in force on 1 March 2019? | `python tools/in_force_on.py 2019-03-01 ligje/03-l-199` (it says "repealed by then") |
-| Counting acts already published but not yet in force | `python tools/in_force_on.py --future 2027-01-01 <folder>` |
-| Which acts amend Law No. 03/L-199? | `grep '^2700,' data/amendments.csv`, or search the file for `03/L-199` |
-| When did an act take effect, and why that day? | `git log -1 --format='%(trailers)' -- ligje/03-l-199/neni-001.md` (`In-force:`, `In-force-basis:`, `In-force-rule:`) |
-| Every act that took effect in 2020 | `git log --format='%(trailers:key=In-force,valueonly,separator=) %s' \| grep '^2020'` |
-| Which act repealed this one? | `git log --diff-filter=D --format='%an %(trailers:key=In-force,valueonly)' -- ligje/03-l-199` |
-| Who wrote a line? | `git blame kode/06-l-074/neni-001.md` (always the act itself: nothing is amended in place) |
-| Commits on or before a day, without time-zone surprises | `git log --before='2019-01-01T23:59:59+01:00' -1` |
+| Çfarë thoshte neni 43 i Ligjit Nr. 03/L-199 dhe a ishte në fuqi më 1 janar 2015? | `python tools/in_force_on.py 2015-01-01 ligje/03-l-199 neni-043` |
+| I gjithë akti në një datë (në shqip; në anglisht nën `en/`) | `python tools/in_force_on.py 2015-01-01 en/ligje/03-l-199` |
+| A ishte ende në fuqi më 1 mars 2019? | `python tools/in_force_on.py 2019-03-01 ligje/03-l-199` (përgjigjet "repealed by then") |
+| Duke numëruar edhe aktet e botuara, por ende jo në fuqi | `python tools/in_force_on.py --future 2027-01-01 <folder>` |
+| Cilat akte e ndryshojnë Ligjin Nr. 03/L-199? | `grep '^2700,' data/amendments.csv`, ose kërkoni në skedar `03/L-199` |
+| Kur hyri në fuqi një akt dhe pse pikërisht atë ditë? | `git log -1 --format='%(trailers)' -- ligje/03-l-199/neni-001.md` (`In-force:`, `In-force-basis:`, `In-force-rule:`) |
+| Të gjitha aktet që hynë në fuqi në vitin 2020 | `git log --format='%(trailers:key=In-force,valueonly,separator=) %s' \| grep '^2020'` |
+| Cili akt e shfuqizoi këtë? | `git log --diff-filter=D --format='%an %(trailers:key=In-force,valueonly)' -- ligje/03-l-199` |
+| Kush e shkroi një rresht? | `git blame kode/06-l-074/neni-001.md` (gjithmonë vetë akti: asgjë nuk ndryshohet në vend) |
+| Commit-et deri në një ditë të caktuar, pa befasi nga zonat kohore | `git log --before='2019-01-01T23:59:59+01:00' -1` |
 
-In PowerShell, `git show $(...):path` splits into two arguments; use `$r = git rev-list -1 main -- ligje/03-l-199; git show "$($r):ligje/03-l-199/neni-043.md"`.
+Në PowerShell, `git show $(...):path` ndahet në dy argumente; përdorni `$r = git rev-list -1 main -- ligje/03-l-199; git show "$($r):ligje/03-l-199/neni-043.md"`.
 
-Files: `hyrje.md` holds the title and enacting formula, `neni-001.md` ... one article each (`# Neni 1` heading, the article title, then one line per paragraph; chapter headings above an article as `##` lines), `nenshkrimi.md` the signature and promulgation block. In `en/` the same files are `preamble.md`, `article-001.md` ... and `signature.md`; UNMIK-era English texts call their articles "Section", and keep that word in the heading. An act without numbered articles (Constitutional Court judgments, the constitutional amendments) is one file, `teksti.md` / `text.md`. Article headings are taken only in sequence (1, 2, 3 ...), so the articles an amending law quotes stay inside the article that quotes them.
+Skedarët: `hyrje.md` përmban titullin dhe formulën e miratimit, `neni-001.md` ... nga një nen secili (titulli `# Neni 1`, emërtimi i nenit, pastaj një rresht për çdo paragraf; titujt e kapitujve mbi një nen si rreshta `##`), `nenshkrimi.md` bllokun e nënshkrimit dhe të shpalljes. Në `en/` të njëjtët skedarë janë `preamble.md`, `article-001.md` ... dhe `signature.md`; tekstet në anglisht të periudhës së UNMIK-ut i quajnë nenet e tyre "Section" dhe e ruajnë këtë fjalë në titull. Një akt pa nene të numëruara (aktgjykimet e Gjykatës Kushtetuese, amendamentet kushtetuese) është një skedar i vetëm, `teksti.md` / `text.md`. Titujt e neneve merren vetëm sipas radhës (1, 2, 3 ...), kështu që nenet që citon një ligj ndryshues mbeten brenda nenit që i citon.
 
-## The dates, and which one we use
+## Datat dhe cilën prej tyre përdorim
 
-**Commits are dated by the day the act took effect**, read from the act's own in-force article ("Hyrja në fuqi"):
+**Commit-et datohen sipas ditës kur akti hyri në fuqi**, e cila lexohet nga neni i vetë aktit për hyrjen në fuqi ("Hyrja në fuqi"):
 
-- "hyn në fuqi pesëmbëdhjetë (15) ditë pas publikimit në Gazetën Zyrtare" (N days after publication): the publication date plus N days. 693 acts.
-- "hyn në fuqi ditën e publikimit" (on the day of publication): the publication date. 161 acts.
-- A date in the act ("hyn në fuqi më 1 janar 2011"; a month alone, "në janar të vitit 2017", is read as its first day): that date. 44 acts. Budget laws often take effect on 1 January before they are published, and some 2002–2005 laws were published in the Gazette only later; these commits say `In-force-before-publication: yes`.
-- Months or years after publication: the publication date plus that period. 22 acts.
-- On promulgation by the UNMIK Special Representative or the President (laws of 2001–2008): the Gazette publication date, labelled `In-force-basis: published (the act takes effect on promulgation; ...)`. 111 acts.
-- No rule found or no date in it: the publication date, labelled `In-force-basis: published (...)`. 17 acts.
+- "hyn në fuqi pesëmbëdhjetë (15) ditë pas publikimit në Gazetën Zyrtare" (N ditë pas publikimit): data e publikimit plus N ditë. 693 akte.
+- "hyn në fuqi ditën e publikimit" (në ditën e publikimit): data e publikimit. 161 akte.
+- Një datë në akt ("hyn në fuqi më 1 janar 2011"; një muaj i vetëm, "në janar të vitit 2017", lexohet si dita e parë e tij): ajo datë. 44 akte. Ligjet për buxhetin shpesh hyjnë në fuqi më 1 janar, para se të botohen, dhe disa ligje të viteve 2002–2005 u botuan në Gazetë vetëm më vonë; këto commit-e shënojnë `In-force-before-publication: yes`.
+- Muaj ose vite pas publikimit: data e publikimit plus ajo periudhë. 22 akte.
+- Me shpalljen nga Përfaqësuesi Special i UNMIK-ut ose nga Presidenti (ligjet e viteve 2001–2008): data e publikimit në Gazetë, e shënuar `In-force-basis: published (the act takes effect on promulgation; ...)`. 111 akte.
+- Nuk u gjet asnjë rregull, ose rregulli nuk ka datë: data e publikimit, e shënuar `In-force-basis: published (...)`. 17 akte.
 
-The Albanian text is read first, the English one where the Albanian has no rule. Every commit carries `In-force:`, `In-force-basis:`, `In-force-rule:` (the act's words), `Published:` and `Gazette:`. Where parts of an act take effect on other dates ("... hyn në fuqi më 1 janar 2011 për nenet 29, 35 ... kurse për nenet e tjera fillon të zbatohet nga 1 janari 2013"), the commit has the first date and the whole rule is quoted in `In-force-rule:`.
+Teksti në shqip lexohet i pari, ai në anglisht atje ku teksti në shqip nuk ka rregull. Çdo commit mban `In-force:`, `In-force-basis:`, `In-force-rule:` (fjalët e aktit), `Published:` dhe `Gazette:`. Atje ku pjesë të një akti hyjnë në fuqi në data të tjera ("... hyn në fuqi më 1 janar 2011 për nenet 29, 35 ... kurse për nenet e tjera fillon të zbatohet nga 1 janari 2013"), commit-i ka datën e parë dhe i gjithë rregulli citohet në `In-force-rule:`.
 
-## What "author" means
+## Çfarë do të thotë "autor"
 
-The author of each commit is the act itself, at an address that cannot exist: `Ligji Nr. 03/L-199 <ligji-03-l-199@gzk.invalid>`. Since nothing is amended in place, `git blame` always names the act whose own text it is. The commit of an act that repealed others also deletes their files, and says so in `Repeals:` lines.
+Autori i çdo commit-i është vetë akti, me një adresë që nuk mund të ekzistojë: `Ligji Nr. 03/L-199 <ligji-03-l-199@gzk.invalid>`. Meqë asgjë nuk ndryshohet në vend, `git blame` përmend gjithmonë aktin të cilit i përket teksti. Commit-i i një akti që ka shfuqizuar akte të tjera fshin edhe skedarët e tyre dhe e shënon këtë në rreshtat `Repeals:`.
 
-## What it does not show
+## Çfarë nuk tregon
 
-- **Amendments applied to the text.** Read the amending acts (see `data/amendments.csv`) alongside the act. Partial repeals and Constitutional Court judgments that annul provisions are links there too, not deletions. For 156 acts in this record the Gazette has published one consolidated text (2024-09-26 to 2026-05-20); [`data/consolidated.csv`](data/consolidated.csv) links each to the law's folder here, but its text is not in this record.
-- **English documents that are the Albanian text.** For 13 acts the Gazette's "English" document holds the Albanian text (for most, the same PDF file). They are left out of `en/` and listed in [`data/en-left-out.csv`](data/en-left-out.csv); the Albanian text is under the act's own folder.
-- **Annexed texts as articles.** A ratified agreement or an annex printed after a law's signature, numbered from article 1 again, stays inside the law's last file; its articles are not split out. A Constitutional Court judgment is one file (`teksti.md`), since its article headings are those of the law it reviews.
-- The Serbian texts, which the Gazette also publishes (Albanian and Serbian are the official languages of Kosovo, Constitution art. 5). Only the Albanian text and the Gazette's own English translation are used here.
-- Sub-legal acts (regulations, administrative instructions, decisions of the Government) and the UNMIK regulations, except the few in the Gazette's list of laws.
-- Annexes that the Gazette publishes only as page scans (agreements annexed to ratification laws, budget tables): 4052 scanned pages are not transcribed; the commit's `Text-sq:`/`Text-en:` trailer counts them. Acts with no text at all: 1, listed in [`data/issues.csv`](data/issues.csv).
-- Formatting, tables as tables (cells run on in one line), footnotes and images.
-- Acts repealed by an act outside this record keep their files; `status_on_gzk` in `laws.csv` says which acts the Gazette marks repealed (256).
+- **Ndryshimet e zbatuara në tekst.** Lexoni aktet ndryshuese (shih `data/amendments.csv`) së bashku me aktin. Shfuqizimet e pjesshme dhe aktgjykimet e Gjykatës Kushtetuese që shfuqizojnë dispozita janë gjithashtu lidhje atje, jo fshirje. Për 156 akte në këtë regjistër Gazeta ka botuar një tekst të konsoliduar (2024-09-26 deri më 2026-05-20); [`data/consolidated.csv`](data/consolidated.csv) e lidh secilin me dosjen e ligjit këtu, por teksti i tij nuk është pjesë e këtij regjistri.
+- **Dokumente në anglisht që përmbajnë tekstin në shqip.** Për 13 akte dokumenti "në anglisht" i Gazetës përmban tekstin në shqip (për shumicën, i njëjti skedar PDF). Ato janë lënë jashtë `en/` dhe renditen në [`data/en-left-out.csv`](data/en-left-out.csv); teksti në shqip gjendet në dosjen e vetë aktit.
+- **Tekstet e aneksuara si nene.** Një marrëveshje e ratifikuar ose një aneks i shtypur pas nënshkrimit të një ligji, i numëruar sërish nga neni 1, mbetet brenda skedarit të fundit të ligjit; nenet e tij nuk ndahen veçmas. Një aktgjykim i Gjykatës Kushtetuese është një skedar i vetëm (`teksti.md`), sepse titujt e neneve në të janë ata të ligjit që shqyrton.
+- Tekstet në serbisht, të cilat Gazeta i boton gjithashtu (shqipja dhe serbishtja janë gjuhët zyrtare të Kosovës, Kushtetuta neni 5). Këtu përdoren vetëm teksti në shqip dhe përkthimi i vetë Gazetës në anglisht.
+- Aktet nënligjore (rregulloret, udhëzimet administrative, vendimet e Qeverisë) dhe rregulloret e UNMIK-ut, përveç të paktave që janë në listën e ligjeve të Gazetës.
+- Aneksët që Gazeta i boton vetëm si faqe të skanuara (marrëveshje të aneksuara ligjeve për ratifikim, tabela buxhetore): 4.052 faqe të skanuara nuk janë transkriptuar; rreshti përmbyllës `Text-sq:`/`Text-en:` i commit-it i numëron ato. Akte pa asnjë tekst: 1, i renditur në [`data/issues.csv`](data/issues.csv).
+- Formatimi, tabelat si tabela (qelizat vijojnë njëra pas tjetrës në një rresht), fusnotat dhe imazhet.
+- Aktet e shfuqizuara nga një akt jashtë këtij regjistri i ruajnë skedarët e tyre; `status_on_gzk` në `laws.csv` tregon cilat akte Gazeta i shënon si të shfuqizuara (256).
 
-This is a research aid. Only the texts published in the Official Gazette of the Republic of Kosovo are official.
+Ky është një mjet ndihmës për kërkime. Zyrtare janë vetëm tekstet e botuara në Gazetën Zyrtare të Republikës së Kosovës.
 
-## How current is it
+## Sa i përditësuar është
 
-Every act names its official page at the Gazette (the `Source:` trailer of its commit; `source` in [`laws.csv`](laws.csv), `portal` in [registry/data/acts.json](registry/data/acts.json)), so every act can be checked against it.
+Çdo akt përmend faqen e vet zyrtare në Gazetë (rreshti përmbyllës `Source:` i commit-it të tij; `source` në [`laws.csv`](laws.csv), `portal` në [registry/data/acts.json](registry/data/acts.json)), kështu që çdo akt mund të verifikohet kundrejt saj.
 
 <!-- freshness-summary -->
-Checked against the official sources: 2026-11-10; 100% of acts verified in the last 7 days, 100% in the last 30 ([data/freshness.json](data/freshness.json)).
+Verifikuar kundrejt burimeve zyrtare: 2026-11-10; 100% e akteve të verifikuara në 7 ditët e fundit, 100% në 30 ditët e fundit ([data/freshness.json](data/freshness.json)).
 <!-- /freshness-summary -->
 
-`python tools/freshness.py <act id or folder>` gives an act's status, its last check and the official link. The record is kept up to date by a weekly run that reads the Gazette's lists of acts, appends newly published acts, and re-checks every act against its Gazette page (the Constitution, codes, laws, agreements, Government decisions and decrees within 7 days; other acts within 30); [data/status.json](data/status.json) says when it last ran and whether the Gazette answered. Acts in scope that are not published here are listed in [data/held.json](data/held.json) with the reason; acts published but not yet in force in [data/pending.json](data/pending.json). An act marked `amended, not consolidated` (or `repealed, not consolidated`) in registry/data/acts.json holds the act as published and names the later acts that change it. The ratification laws the Gazette publishes twice, as a law and as an agreement, are both kept and name each other ([data/same-act.csv](data/same-act.csv)).
+`python tools/freshness.py <act id or folder>` jep statusin e një akti, verifikimin e tij të fundit dhe lidhjen zyrtare. Regjistri mbahet i përditësuar nga një ekzekutim javor që lexon listat e akteve të Gazetës, shton aktet e sapobotuara dhe e riverifikon çdo akt kundrejt faqes së tij në Gazetë (Kushtetutën, kodet, ligjet, marrëveshjet, vendimet e Qeverisë dhe dekretet brenda 7 ditëve; aktet e tjera brenda 30 ditëve); [data/status.json](data/status.json) tregon kur u ekzekutua për herë të fundit dhe nëse Gazeta u përgjigj. Aktet brenda fushëveprimit që nuk janë botuar këtu renditen në [data/held.json](data/held.json) bashkë me arsyen; aktet e botuara, por ende jo në fuqi, në [data/pending.json](data/pending.json). Një akt i shënuar `amended, not consolidated` (ose `repealed, not consolidated`) në registry/data/acts.json përmban aktin siç është botuar dhe përmend aktet e mëvonshme që e ndryshojnë. Ligjet për ratifikim që Gazeta i boton dy herë, si ligj dhe si marrëveshje, ruhen të dyja dhe i referohen njëra-tjetrës ([data/same-act.csv](data/same-act.csv)).
 
-## How it is checked
+## Si verifikohet
 
-- Every act's letters, in both languages, are compared with the raw source (the Gazette's text layer or PDF, read by a separate minimal extractor), after removing page numbers and the Gazette's running headers (`check_words.py`). Of 2082 texts, 2009 have every letter in place; 70 have the same words in another order (table cells and OCR layers, which the two readers take in a different order, and acts with a heading printed out of order, whose article files the check reads by number), 2 differ only in where letter-spaced words break, and 1 differ in letters (listed in REPRODUCE.md). Numbers alone differ more often: page numbers inside tables are kept here.
-- Every commit has `In-force:`; `main` has no merges, its dates never go backwards or past the build day, and every commit is at noon Kosovo time.
-- The build is deterministic: from the same pages it gives the same commit hashes. The sha256 of every source page and PDF is in [`data/source-sha256.tsv`](data/source-sha256.tsv).
+- Shkronjat e çdo akti, në të dyja gjuhët, krahasohen me burimin e papërpunuar (shtresën tekstuale të Gazetës ose PDF-në, të lexuar nga një nxjerrës i veçantë minimal), pasi hiqen numrat e faqeve dhe titujt e përsëritur në krye të faqeve të Gazetës (`check_words.py`). Nga 2.082 tekste, 2.009 i kanë të gjitha shkronjat në vend; 70 kanë të njëjtat fjalë në rend tjetër (qelizat e tabelave dhe shtresat OCR, të cilat dy lexuesit i marrin në rend të ndryshëm, si dhe aktet me një titull të shtypur jashtë radhës, skedarët e neneve të të cilave kontrolli i lexon sipas numrit), 2 ndryshojnë vetëm në vendin ku ndahen fjalët e shkruara me hapësira ndërmjet shkronjave, dhe 1 ndryshon në shkronja (i renditur në REPRODUCE.md). Vetëm numrat ndryshojnë më shpesh: numrat e faqeve brenda tabelave ruhen këtu.
+- Çdo commit ka `In-force:`; `main` nuk ka bashkime (merge), datat e tij nuk shkojnë kurrë prapa as përtej ditës së ndërtimit, dhe çdo commit është në mesditë sipas orës së Kosovës.
+- Ndërtimi është determinist: nga të njëjtat faqe jep të njëjtat hash-e të commit-eve. sha256 i çdo faqeje burimore dhe i çdo PDF-je gjendet në [`data/source-sha256.tsv`](data/source-sha256.tsv).
 
-## How it is built
+## Si ndërtohet
 
-The build reads the Gazette's list of laws, each act's page (metadata and links to related acts) and its text in Albanian and English, or the gazette PDF where the page has no text layer, as retrieved on 2026-10-29. `text.py` and `pdftext.py` turn each text into paragraphs and articles; `inforce.py` reads the in-force article; `build.py` writes one commit per act with one streamed `git fast-import`; `docs.py` writes these files. No AI model takes part in building or checking it. See [`REPRODUCE.md`](REPRODUCE.md).
+Ndërtimi lexon listën e ligjeve të Gazetës, faqen e çdo akti (metadatat dhe lidhjet me aktet përkatëse) dhe tekstin e tij në shqip dhe në anglisht, ose PDF-në e gazetës atje ku faqja nuk ka shtresë tekstuale, siç u morën më 2026-10-29. `text.py` dhe `pdftext.py` e ndajnë çdo tekst në paragrafë dhe nene; `inforce.py` lexon nenin për hyrjen në fuqi; `build.py` shkruan një commit për çdo akt me një `git fast-import` të vetëm në rrjedhë; `docs.py` shkruan këta skedarë. Asnjë model i inteligjencës artificiale nuk merr pjesë në ndërtimin ose në verifikimin e tij. Shih [`REPRODUCE.md`](REPRODUCE.md).
 
-## Licence
+## Licenca
 
-Source: the Official Gazette of the Republic of Kosovo (Gazeta Zyrtare e Republikës së Kosovës), https://gzk.rks-gov.net. Under Law No. 08/L-205 on Copyright and Related Rights, article 6(1), "Copyright protection shall not extend to official texts of a legislative, administrative and judicial nature, and the official translations of such texts." The texts were converted to one file per article and arranged as commits; their wording was not changed. Lexifina's own contributions (the tools, the arrangement and the commit messages) are CC0. See [`LICENSE`](LICENSE) and [`SOURCES.md`](SOURCES.md).
+Burimi: Gazeta Zyrtare e Republikës së Kosovës (Official Gazette of the Republic of Kosovo), https://gzk.rks-gov.net. Sipas Ligjit Nr. 08/L-205 për të Drejtën e Autorit dhe të Drejtat e Përafërta, neni 6(1), "Mbrojtja e të drejtës së autorit nuk përfshinë tekstet zyrtare të natyrës legjislative, administrative dhe gjyqësore dhe përkthimet zyrtare të teksteve të tilla." Tekstet u shndërruan në një skedar për çdo nen dhe u renditën si commit-e; formulimi i tyre nuk u ndryshua. Kontributet e vetë Lexifina-s (mjetet, renditja dhe mesazhet e commit-eve) janë CC0. Shih [`LICENSE`](LICENSE) dhe [`SOURCES.md`](SOURCES.md).
+
+Ky është përkthim i versionit në anglisht ([README.en.md](README.en.md)); nëse ndryshojnë, vlen versioni në anglisht.
+
+## Më shumë
+
+Nga repozitori [lexifina/global-law](https://github.com/lexifina/global-law) (në anglisht):
+
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): të gjitha funksionet dhe çfarë duhet të mbështesë çdo korpus (`git blame`, `law.py`, mjetet MCP)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): pyetje dhe përgjigje · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): si të propozoni ndryshime · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): serveri MCP · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): si është ndërtuar · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): sa i përditësuar është çdo korpus · [Monitorimi](https://github.com/lexifina/global-law/tree/main/monitoring): nëse përditësimet funksionojnë · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): si ndiqet çdo burim zyrtar për ndryshime
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): sa të shpejta janë mjetet, të matura
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): grafikë dhe lidhje në të drejtën e gjithë botës
+- [Dobësitë](https://github.com/lexifina/global-law/tree/main/vulnerabilities): gabime në akte ashtu siç janë botuar
