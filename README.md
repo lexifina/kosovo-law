@@ -17,7 +17,7 @@ Regjistri shtrihet nga 2002-07-26 deri më 2026-10-21 në 1.049 commit-e në `ma
 
 **Dy ndërtime, një histori.** Aktet e mësipërme janë ndërtimi i parë ([`laws.csv`](laws.csv) në rrënjë). Që nga 2026-11-03, i njëjti `main` përmban edhe aktet e kategorive të tjera të Gazetës (udhëzime administrative, rregullore, vendime të Qeverisë, dekrete, marrëveshje ndërkombëtare, statute, aktgjykimet dhe vendimet e Gjykatës Kushtetuese, si dhe ligjet që lista e ndërtimit të parë nuk i përfshinte), secili siç është botuar, me nga një version, në dosje `<kind>/<year>/<id>/`; ato renditen në [registry/ACTS.md](registry/ACTS.md) dhe [registry/data/acts.json](registry/data/acts.json) dhe ndërtohen siç përshkruhet në [registry/REPRODUCE.md](registry/REPRODUCE.md).
 
-## Pyetjet e një juristi si komanda git
+## Pyetjet si komanda git
 
 Dosja e çdo akti është `<kind>/<number>/`, e renditur me titullin, datat dhe statusin në [`laws.csv`](laws.csv): `kushtetuta/2008` (Kushtetuta siç u miratua në vitin 2008), `ligje/03-l-199` (Ligji Nr. 03/L-199 për Gjykatat, 2010, i shfuqizuar në vitin 2019), `ligje/06-l-054` (Ligji Nr. 06/L-054 për Gjykatat, që e shfuqizoi atë), `kode/06-l-074` (Kodi Penal i vitit 2019).
 
@@ -35,6 +35,14 @@ Dosja e çdo akti është `<kind>/<number>/`, e renditur me titullin, datat dhe 
 | Commit-et deri në një ditë të caktuar, pa befasi nga zonat kohore | `git log --before='2019-01-01T23:59:59+01:00' -1` |
 
 Në PowerShell, `git show $(...):path` ndahet në dy argumente; përdorni `$r = git rev-list -1 main -- ligje/03-l-199; git show "$($r):ligje/03-l-199/neni-043.md"`.
+
+**Ose pyesni me fjalë të thjeshta.** Të njëjtat të dhëna janë falas edhe pa git, pa llogari dhe pa çelës:
+
+- **[Pyetni Claude për ligjet e Kosovës](https://global-law.lexifina.com/v1/try_claude?country=kosovo&q=what%20does%20the%20Labour%20Law%20%28Ligji%20i%20Pun%C3%ABs%2C%20Nr.%2003%2FL-212%29%20say%20about%20annual%20leave%20%28pushimi%20vjetor%29%20today%3F%20Quote%20the%20words%20of%20the%20law%2C%20name%20the%20law%20behind%20each%20change%20with%20the%20day%20it%20took%20effect%2C%20and%20cite%20the%20official%20publisher%27s%20page.)**: një klikim hap Claude me pyetjen e parë gati (pushimi vjetor në Ligjin e Punës).
+- **[Pyetni ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=kosovo&q=what%20does%20the%20Labour%20Law%20%28Ligji%20i%20Pun%C3%ABs%2C%20Nr.%2003%2FL-212%29%20say%20about%20annual%20leave%20%28pushimi%20vjetor%29%20today%3F%20Quote%20the%20words%20of%20the%20law%2C%20name%20the%20law%20behind%20each%20change%20with%20the%20day%20it%20took%20effect%2C%20and%20cite%20the%20official%20publisher%27s%20page.)**: e njëjta pyetje në ChatGPT.
+- **[Thirrni API-në në shfletues](https://global-law.lexifina.com/v1/search_law?query=pushimi+vjetor&jurisdictions=kosovo)**: kërkim në legjislacionin e Kosovës për „pushimi vjetor“, përgjigje në JSON. Pa çelës 5 thirrje në minutë; [të gjitha mjetet](https://global-law.lexifina.com/v1), [çelësat dhe dokumentimi](https://lexifina.com/api).
+
+Asistentët i lexojnë të dhënat përmes konektorit falas Global law (MCP, `https://global-law.lexifina.com/mcp`); herën e parë biseda jep lidhjen që e shton. Në Claude zgjidhni „Always allow“ që të mos miratoni çdo thirrje. Pyetni në shqip ose në anglisht.
 
 Skedarët: `hyrje.md` përmban titullin dhe formulën e miratimit, `neni-001.md` ... nga një nen secili (titulli `# Neni 1`, emërtimi i nenit, pastaj një rresht për çdo paragraf; titujt e kapitujve mbi një nen si rreshta `##`), `nenshkrimi.md` bllokun e nënshkrimit dhe të shpalljes. Në `en/` të njëjtët skedarë janë `preamble.md`, `article-001.md` ... dhe `signature.md`; tekstet në anglisht të periudhës së UNMIK-ut i quajnë nenet e tyre "Section" dhe e ruajnë këtë fjalë në titull. Një akt pa nene të numëruara (aktgjykimet e Gjykatës Kushtetuese, amendamentet kushtetuese) është një skedar i vetëm, `teksti.md` / `text.md`. Titujt e neneve merren vetëm sipas radhës (1, 2, 3 ...), kështu që nenet që citon një ligj ndryshues mbeten brenda nenit që i citon.
 

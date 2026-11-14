@@ -17,7 +17,7 @@ The record runs from 2002-07-26 to 2026-10-21 in 1049 commits on `main`. 0 furth
 
 **Two builds, one history.** The acts above are the first build (root [`laws.csv`](laws.csv)). Since 2026-11-03 the same `main` also holds the acts of the Gazette's other categories (administrative instructions, regulations, Government decisions, decrees, international agreements, statutes, the Constitutional Court's judgments and decisions, and laws the first build's list did not include), each as published, one version each, in `<kind>/<year>/<id>/` folders; they are listed in [registry/ACTS.md](registry/ACTS.md) and [registry/data/acts.json](registry/data/acts.json), and built as described in [registry/REPRODUCE.md](registry/REPRODUCE.md).
 
-## A lawyer's questions as git commands
+## Questions as git commands
 
 Each act's folder is `<kind>/<number>/`, listed with its title, dates and status in [`laws.csv`](laws.csv): `kushtetuta/2008` (the Constitution as adopted in 2008), `ligje/03-l-199` (Law No. 03/L-199 on Courts, 2010, repealed in 2019), `ligje/06-l-054` (Law No. 06/L-054 on Courts, which repealed it), `kode/06-l-074` (the Criminal Code of 2019).
 
@@ -35,6 +35,14 @@ Each act's folder is `<kind>/<number>/`, listed with its title, dates and status
 | Commits on or before a day, without time-zone surprises | `git log --before='2019-01-01T23:59:59+01:00' -1` |
 
 In PowerShell, `git show $(...):path` splits into two arguments; use `$r = git rev-list -1 main -- ligje/03-l-199; git show "$($r):ligje/03-l-199/neni-043.md"`.
+
+**Or ask in plain words.** The same record is free to use without git, an account or a key:
+
+- **[Ask Claude about Kosovan law](https://global-law.lexifina.com/v1/try_claude?country=kosovo&q=what%20does%20the%20Labour%20Law%20%28Ligji%20i%20Pun%C3%ABs%2C%20Nr.%2003%2FL-212%29%20say%20about%20annual%20leave%20%28pushimi%20vjetor%29%20today%3F%20Quote%20the%20words%20of%20the%20law%2C%20name%20the%20law%20behind%20each%20change%20with%20the%20day%20it%20took%20effect%2C%20and%20cite%20the%20official%20publisher%27s%20page.)**: one click opens Claude with a first question ready (annual leave in the Labour Law).
+- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=kosovo&q=what%20does%20the%20Labour%20Law%20%28Ligji%20i%20Pun%C3%ABs%2C%20Nr.%2003%2FL-212%29%20say%20about%20annual%20leave%20%28pushimi%20vjetor%29%20today%3F%20Quote%20the%20words%20of%20the%20law%2C%20name%20the%20law%20behind%20each%20change%20with%20the%20day%20it%20took%20effect%2C%20and%20cite%20the%20official%20publisher%27s%20page.)**: the same question in ChatGPT.
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=pushimi+vjetor&jurisdictions=kosovo)**: Kosovan law searched for "pushimi vjetor", answered as JSON. No key for 5 calls a minute; [every tool](https://global-law.lexifina.com/v1), [keys and documentation](https://lexifina.com/api).
+
+The assistants read it through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives the link that adds it. In Claude, choose "Always allow" so that each look-up is not asked about. Ask in Albanian or in English.
 
 Files: `hyrje.md` holds the title and enacting formula, `neni-001.md` ... one article each (`# Neni 1` heading, the article title, then one line per paragraph; chapter headings above an article as `##` lines), `nenshkrimi.md` the signature and promulgation block. In `en/` the same files are `preamble.md`, `article-001.md` ... and `signature.md`; UNMIK-era English texts call their articles "Section", and keep that word in the heading. An act without numbered articles (Constitutional Court judgments, the constitutional amendments) is one file, `teksti.md` / `text.md`. Article headings are taken only in sequence (1, 2, 3 ...), so the articles an amending law quotes stay inside the article that quotes them.
 
