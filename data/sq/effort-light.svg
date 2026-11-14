@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="752" viewBox="0 0 880 752" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif">
-<rect x="0.5" y="0.5" width="879" height="751" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="703" viewBox="0 0 880 703" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif">
+<rect x="0.5" y="0.5" width="879" height="702" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
 <text x="24" y="38" font-size="16" font-weight="600" fill="#1f2328">E drejta e Kosovës si histori git</text>
 <rect x="545.0" y="24.5" width="141" height="20" rx="10" fill="none" stroke="#d1d9e0"/>
 <text x="615.4" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#59636e">gjendja më 21 tet 2026</text>
@@ -88,7 +88,7 @@
 <text x="456.0" y="498.5" font-size="11.5" fill="#59636e">gjykatat më të larta të përfshira</text>
 <g><title>Praktika gjyqësore: 46%</title><rect x="692.0" y="479.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="692.0" y="479.5" width="42.1" height="8" rx="4" fill="#9a6700"/></g>
 <text x="839.5" y="486.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">46%</text>
-<rect x="24.5" y="562.5" width="831" height="152" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<rect x="24.5" y="562.5" width="831" height="116" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
 <text x="40.5" y="588.5" font-size="14" font-weight="600" fill="#1f2328">Saktësia e asaj që përmban</text>
 <text x="40.5" y="612.5" font-size="13" fill="#1f2328">Me datë hyrjeje në fuqi</text>
 <text x="40.5" y="628.5" font-size="11.5" fill="#59636e">pjesa e ndryshimeve</text>
@@ -98,11 +98,10 @@
 <text x="40.5" y="664.5" font-size="11.5" fill="#59636e">rresht Source ose lidhje në commit</text>
 <g><title>Ndryshime me burimin zyrtar: 100%</title><rect x="276.5" y="645.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="645.5" width="91.5" height="8" rx="4" fill="#1f883d"/></g>
 <text x="424.0" y="652.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">100%</text>
-<text x="40.5" y="684.5" font-size="13" fill="#1f2328">Kontrolluar me burimin zyrtar</text>
-<text x="40.5" y="700.5" font-size="11.5" fill="#59636e">repozitori: 29 tet 2026; monitorimi i global-law: 10 nën 2026</text>
-<text x="424.0" y="688.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">10 nën 2026</text>
 <text x="456.0" y="612.5" font-size="13" fill="#1f2328">Korpuset e vendit në global-law</text>
 <text x="456.0" y="628.5" font-size="11.5" fill="#59636e">akte kombëtare: 1</text>
 <text x="839.5" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">1</text>
-<text x="24" y="736" font-size="11.5" fill="#59636e" textLength="832" lengthAdjust="spacingAndGlyphs">lexifina/kosovo-law në 4c426f9, ndërtuar më 2026-11-13. Pa commite dokumentacioni. Shtrirja: Legislation of Kosovo, as enacted (Official Gazette, gzk.rks-gov.net)</text>
+<text x="456.0" y="648.5" font-size="13" fill="#1f2328">Kontrolluar me burimin zyrtar</text>
+<text x="456.0" y="664.5" font-size="11.5" fill="#59636e">repozitori: 29 tet 2026; monitorimi i global-law: 10 nën 2026</text>
+<text x="839.5" y="652.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">10 nën 2026</text>
 </svg>
