@@ -1,104 +1,96 @@
-# Kosovo law, act by act, as enacted
+# Kosovo: law history in git
 
-[Shqip](README.md) · **English**
+**English** · **[Ose lexojeni në shqip](README.md)**
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
 <img alt="Kosovo law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
 </picture>
 
+The law of Kosovo as a git history: one file per article, one commit per act on the day it took effect, and the act itself as the commit's author. The Official Gazette keeps no dated consolidated versions, so each act is held as enacted: an amending act is a commit of its own, and its changes are not applied to the act it amends. `git blame` names the act behind every article; `git log` gives the day each act took effect; picking a date gives the acts in force that day, as enacted.
+
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Kosovo's national law, which global-law reads at `kosovo/national/acts/`.
 
-The legislation of Kosovo as a git repository: 1048 acts from the [Official Gazette of the Republic of Kosovo](https://gzk.rks-gov.net) (Gazeta Zyrtare), the official publisher, each **as it was enacted**: 1020 laws; 11 Constitutional Court judgments; 10 codes; 6 the 2008 Constitution and its amendments; 1 orders. There is one folder per act and one file per article, in Albanian, with the Gazette's English translation in a parallel tree under `en/`. Each act is one commit, credited to the act itself and dated the day it took effect, at noon Kosovo time.
+**What is in it now:** from the Gazette's list of laws, the 2008 Constitution and its five amendments, 1,020 laws, 10 codes, 11 Constitutional Court judgments and 1 order, with the Gazette's English translation; and 5,061 acts of its other categories, one text each: 2,731 judgments, resolutions and judges' opinions, almost all of the Constitutional Court; 653 administrative instructions, 645 decisions, 512 regulations, 179 international agreements, 78 further laws and 33 decrees, statutes and other acts; and 230 acts of 25 municipalities. [`laws.csv`](laws.csv) lists the acts of the list of laws with their dates and status; [`registry/ACTS.md`](registry/ACTS.md) lists the others, by kind.
 
-**What kind of history this is.** The Official Gazette publishes every act as enacted. It keeps no dated series of consolidated versions of the laws it amends: since 2024-09-26 it has published 156 single consolidated texts ("(KONSOLIDUAR)", one per law, each as of its publication day), listed with their publication dates in [`data/consolidated.csv`](data/consolidated.csv) but not used as history. So this record is **as enacted** (`"history": "as-enacted"` in [`corpus.json`](corpus.json)): an act's files hold the text it was enacted with, and **later amendments are not applied to them**. An amending law is its own act, in its own folder, saying what it changes ("Neni 6 i ligjit bazik, pas paragrafit 2, shtohet paragrafi i ri 3 ..."). Which act amends, supplements or repeals which is listed in [`data/amendments.csv`](data/amendments.csv) (1117 links, as the Gazette gives them). There is no line-by-line history of any law's consolidated text, and none before the record starts. Replaying the amendments into the texts was not attempted, because for most laws there is no official consolidation to check a replay against, and for the others only one, recent.
+Each act of the list of laws is in `<kind>/<number>/` (`ligje/03-l-212/` is Ligji Nr. 03/L-212 i Punës, the Labour Law, Official Gazette 90/2010; the Constitution is `kushtetuta/2008/`); the other acts are in `<kind>/<year>/<Gazette id>/` (`rregullore/2020/30885/`), and municipal acts in `local/<municipality>/<year>/<id>/`.
 
-The record runs from 2002-07-26 to 2026-10-21 in 1049 commits on `main`. 0 further acts, published but taking effect after 2026-10-29, are on the branch `future`, which is never merged. A repealed act's files are deleted on the day the act that repealed it took effect (256 acts).
-
-**Two builds, one history.** The acts above are the first build (root [`laws.csv`](laws.csv)). Since 2026-11-03 the same `main` also holds the acts of the Gazette's other categories (administrative instructions, regulations, Government decisions, decrees, international agreements, statutes, the Constitutional Court's judgments and decisions, and laws the first build's list did not include), each as published, one version each, in `<kind>/<year>/<id>/` folders; they are listed in [registry/ACTS.md](registry/ACTS.md) and [registry/data/acts.json](registry/data/acts.json), and built as described in [registry/REPRODUCE.md](registry/REPRODUCE.md).
+The text is in Albanian, as the Official Gazette publishes it; the Gazette's own English translation of the acts of the list of laws is under `en/` (`en/ligje/03-l-212/article-001.md`).
 
 ## Questions as git commands
 
-Each act's folder is `<kind>/<number>/`, listed with its title, dates and status in [`laws.csv`](laws.csv): `kushtetuta/2008` (the Constitution as adopted in 2008), `ligje/03-l-199` (Law No. 03/L-199 on Courts, 2010, repealed in 2019), `ligje/06-l-054` (Law No. 06/L-054 on Courts, which repealed it), `kode/06-l-074` (the Criminal Code of 2019).
-
 | Question | Command |
 | --- | --- |
-| What did article 43 of Law No. 03/L-199 say, and was it in force on 1 January 2015? | `python tools/in_force_on.py 2015-01-01 ligje/03-l-199 neni-043` |
-| The whole act on a date (Albanian; English under `en/`) | `python tools/in_force_on.py 2015-01-01 en/ligje/03-l-199` |
-| Was it still in force on 1 March 2019? | `python tools/in_force_on.py 2019-03-01 ligje/03-l-199` (it says "repealed by then") |
-| Counting acts already published but not yet in force | `python tools/in_force_on.py --future 2027-01-01 <folder>` |
-| Which acts amend Law No. 03/L-199? | `grep '^2700,' data/amendments.csv`, or search the file for `03/L-199` |
-| When did an act take effect, and why that day? | `git log -1 --format='%(trailers)' -- ligje/03-l-199/neni-001.md` (`In-force:`, `In-force-basis:`, `In-force-rule:`) |
-| Every act that took effect in 2020 | `git log --format='%(trailers:key=In-force,valueonly,separator=) %s' \| grep '^2020'` |
-| Which act repealed this one? | `git log --diff-filter=D --format='%an %(trailers:key=In-force,valueonly)' -- ligje/03-l-199` |
-| Who wrote a line? | `git blame kode/06-l-074/neni-001.md` (always the act itself: nothing is amended in place) |
-| Commits on or before a day, without time-zone surprises | `git log --before='2019-01-01T23:59:59+01:00' -1` |
+| Which acts amend or repeal the Labour Law, as the Gazette links them? | `grep '^2735,' data/amendments.csv` |
+| Which act wrote each line of Article 1? | `git blame ligje/03-l-212/neni-001.md` |
+| The Labour Law's commit, with the day it took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- ligje/03-l-212` |
+| Article 1 as held on 1 January 2015 | `python tools/in_force_on.py 2015-01-01 ligje/03-l-212 neni-001` |
 
-In PowerShell, `git show $(...):path` splits into two arguments; use `$r = git rev-list -1 main -- ligje/03-l-199; git show "$($r):ligje/03-l-199/neni-043.md"`.
+**Outside git**, we also host this record publicly, for free:
 
-**Or ask in plain words.** The same record is free to use without git, an account or a key:
+- **[Ask Claude about Kosovan law](https://global-law.lexifina.com/v1/try_claude?country=kosovo)**: opens Claude with a first question ready.
+- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=kosovo)**: the same question in ChatGPT.
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=pushimi+vjetor&jurisdictions=kosovo)**: a search of Kosovan law for "pushimi vjetor", returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
 
-- **[Ask Claude about Kosovan law](https://global-law.lexifina.com/v1/try_claude?country=kosovo&q=what%20does%20the%20Labour%20Law%20%28Ligji%20i%20Pun%C3%ABs%2C%20Nr.%2003%2FL-212%29%20say%20about%20annual%20leave%20%28pushimi%20vjetor%29%20today%3F%20Quote%20the%20words%20of%20the%20law%2C%20name%20the%20law%20behind%20each%20change%20with%20the%20day%20it%20took%20effect%2C%20and%20cite%20the%20official%20publisher%27s%20page.)**: one click opens Claude with a first question ready (annual leave in the Labour Law).
-- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=kosovo&q=what%20does%20the%20Labour%20Law%20%28Ligji%20i%20Pun%C3%ABs%2C%20Nr.%2003%2FL-212%29%20say%20about%20annual%20leave%20%28pushimi%20vjetor%29%20today%3F%20Quote%20the%20words%20of%20the%20law%2C%20name%20the%20law%20behind%20each%20change%20with%20the%20day%20it%20took%20effect%2C%20and%20cite%20the%20official%20publisher%27s%20page.)**: the same question in ChatGPT.
-- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=pushimi+vjetor&jurisdictions=kosovo)**: Kosovan law searched for "pushimi vjetor", answered as JSON. No key for 5 calls a minute; [every tool](https://global-law.lexifina.com/v1), [keys and documentation](https://lexifina.com/api).
+Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in Albanian or in English.
 
-The assistants read it through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives the link that adds it. In Claude, choose "Always allow" so that each look-up is not asked about. Ask in Albanian or in English.
+**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
 
-Files: `hyrje.md` holds the title and enacting formula, `neni-001.md` ... one article each (`# Neni 1` heading, the article title, then one line per paragraph; chapter headings above an article as `##` lines), `nenshkrimi.md` the signature and promulgation block. In `en/` the same files are `preamble.md`, `article-001.md` ... and `signature.md`; UNMIK-era English texts call their articles "Section", and keep that word in the heading. An act without numbered articles (Constitutional Court judgments, the constitutional amendments) is one file, `teksti.md` / `text.md`. Article headings are taken only in sequence (1, 2, 3 ...), so the articles an amending law quotes stay inside the article that quotes them.
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add kosovo/national/acts
+python3 tools/law.py show 2026-01-01 kosovo/national/acts/ligje/03-l-212/neni-001.md
+```
 
-## The dates, and which one we use
+Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
-**Commits are dated by the day the act took effect**, read from the act's own in-force article ("Hyrja në fuqi"):
+## Dates
 
-- "hyn në fuqi pesëmbëdhjetë (15) ditë pas publikimit në Gazetën Zyrtare" (N days after publication): the publication date plus N days. 693 acts.
-- "hyn në fuqi ditën e publikimit" (on the day of publication): the publication date. 161 acts.
-- A date in the act ("hyn në fuqi më 1 janar 2011"; a month alone, "në janar të vitit 2017", is read as its first day): that date. 44 acts. Budget laws often take effect on 1 January before they are published, and some 2002–2005 laws were published in the Gazette only later; these commits say `In-force-before-publication: yes`.
-- Months or years after publication: the publication date plus that period. 22 acts.
-- On promulgation by the UNMIK Special Representative or the President (laws of 2001–2008): the Gazette publication date, labelled `In-force-basis: published (the act takes effect on promulgation; ...)`. 111 acts.
-- No rule found or no date in it: the publication date, labelled `In-force-basis: published (...)`. 17 acts.
+Each commit is dated at noon, Kosovo time (Europe/Belgrade), on the day the act took effect, and carries it in its `In-force:` trailer:
 
-The Albanian text is read first, the English one where the Albanian has no rule. Every commit carries `In-force:`, `In-force-basis:`, `In-force-rule:` (the act's words), `Published:` and `Gazette:`. Where parts of an act take effect on other dates ("... hyn në fuqi më 1 janar 2011 për nenet 29, 35 ... kurse për nenet e tjera fillon të zbatohet nga 1 janari 2013"), the commit has the first date and the whole rule is quoted in `In-force-rule:`.
+- the day the act's own in-force article ("Hyrja në fuqi") gives: a number of days after publication in the Gazette, the day of publication, a date, or a period after publication;
+- for laws of 2001-2008 that took effect on promulgation, and 17 acts of the list of laws with no rule found, the day the Gazette published them, labelled `In-force-basis: published (...)`;
+- where parts of an act take effect later, its first day, with the whole rule quoted in `In-force-rule:`; the 13 acts that took effect before the Gazette published them (budget laws on 1 January, some laws of 2002-2005) say `In-force-before-publication: yes`;
+- an act of the other categories whose in-force day cannot be read is held back, not guessed ([`data/held.json`](data/held.json)).
 
-## What "author" means
+Each commit's author is the act itself, at an address that cannot exist (`Ligji Nr. 03/L-212 <ligji-03-l-212@gzk.invalid>`), so `git blame` always names the act whose own text it is. The commit of an act that repealed acts of the list of laws also deletes their files, and names them in `Repeals:` lines.
 
-The author of each commit is the act itself, at an address that cannot exist: `Ligji Nr. 03/L-199 <ligji-03-l-199@gzk.invalid>`. Since nothing is amended in place, `git blame` always names the act whose own text it is. The commit of an act that repealed others also deletes their files, and says so in `Repeals:` lines.
-
-## What it does not show
-
-- **Amendments applied to the text.** Read the amending acts (see `data/amendments.csv`) alongside the act. Partial repeals and Constitutional Court judgments that annul provisions are links there too, not deletions. For 156 acts in this record the Gazette has published one consolidated text (2024-09-26 to 2026-05-20); [`data/consolidated.csv`](data/consolidated.csv) links each to the law's folder here, but its text is not in this record.
-- **English documents that are the Albanian text.** For 13 acts the Gazette's "English" document holds the Albanian text (for most, the same PDF file). They are left out of `en/` and listed in [`data/en-left-out.csv`](data/en-left-out.csv); the Albanian text is under the act's own folder.
-- **Annexed texts as articles.** A ratified agreement or an annex printed after a law's signature, numbered from article 1 again, stays inside the law's last file; its articles are not split out. A Constitutional Court judgment is one file (`teksti.md`), since its article headings are those of the law it reviews.
-- The Serbian texts, which the Gazette also publishes (Albanian and Serbian are the official languages of Kosovo, Constitution art. 5). Only the Albanian text and the Gazette's own English translation are used here.
-- Sub-legal acts (regulations, administrative instructions, decisions of the Government) and the UNMIK regulations, except the few in the Gazette's list of laws.
-- Annexes that the Gazette publishes only as page scans (agreements annexed to ratification laws, budget tables): 4052 scanned pages are not transcribed; the commit's `Text-sq:`/`Text-en:` trailer counts them. Acts with no text at all: 1, listed in [`data/issues.csv`](data/issues.csv).
-- Formatting, tables as tables (cells run on in one line), footnotes and images.
-- Acts repealed by an act outside this record keep their files; `status_on_gzk` in `laws.csv` says which acts the Gazette marks repealed (256).
-
-This is a research aid. Only the texts published in the Official Gazette of the Republic of Kosovo are official.
-
-## How current is it
-
-Every act names its official page at the Gazette (the `Source:` trailer of its commit; `source` in [`laws.csv`](laws.csv), `portal` in [registry/data/acts.json](registry/data/acts.json)), so every act can be checked against it.
+## How current it is
 
 <!-- freshness-summary -->
 Checked against the official sources: 2026-11-10; 100% of acts verified in the last 7 days, 100% in the last 30 ([data/freshness.json](data/freshness.json)).
 <!-- /freshness-summary -->
 
-`python tools/freshness.py <act id or folder>` gives an act's status, its last check and the official link. The record is kept up to date by a weekly run that reads the Gazette's lists of acts, appends newly published acts, and re-checks every act against its Gazette page (the Constitution, codes, laws, agreements, Government decisions and decrees within 7 days; other acts within 30); [data/status.json](data/status.json) says when it last ran and whether the Gazette answered. Acts in scope that are not published here are listed in [data/held.json](data/held.json) with the reason; acts published but not yet in force in [data/pending.json](data/pending.json). An act marked `amended, not consolidated` (or `repealed, not consolidated`) in registry/data/acts.json holds the act as published and names the later acts that change it. The ratification laws the Gazette publishes twice, as a law and as an agreement, are both kept and name each other ([data/same-act.csv](data/same-act.csv)).
+- `python tools/freshness.py <act id or folder>` gives an act's status, its last check and its page at the Gazette.
+- [data/status.json](data/status.json): when the refresh run last read the Gazette and whether it answered; [data/pending.json](data/pending.json): acts published but not yet in force.
 
 ## How it is checked
 
-- Every act's letters, in both languages, are compared with the raw source (the Gazette's text layer or PDF, read by a separate minimal extractor), after removing page numbers and the Gazette's running headers (`check_words.py`). Of 2082 texts, 2009 have every letter in place; 70 have the same words in another order (table cells and OCR layers, which the two readers take in a different order, and acts with a heading printed out of order, whose article files the check reads by number), 2 differ only in where letter-spaced words break, and 1 differ in letters (listed in REPRODUCE.md). Numbers alone differ more often: page numbers inside tables are kept here.
-- Every commit has `In-force:`; `main` has no merges, its dates never go backwards or past the build day, and every commit is at noon Kosovo time.
-- The build is deterministic: from the same pages it gives the same commit hashes. The sha256 of every source page and PDF is in [`data/source-sha256.tsv`](data/source-sha256.tsv).
+- The letters of every text of the list of laws, in both languages, are compared with the Gazette's raw text layer or PDF, read by a separate minimal extractor (`tools/build/check_words.py`): of 2,082 texts, 2,009 have every letter in place, 70 the same words in another order (table cells and OCR layers), 2 differ only where letter-spaced words break, and 1 differs in letters (in `REPRODUCE.md`).
+- Every commit has `In-force:`; `main` has no merges, its dates never go backwards or past the build day, and every commit is at noon.
+- The build is deterministic: two builds from the same pages give the same `main` hash, and the sha256 of every page and PDF read is in [`data/source-sha256.tsv`](data/source-sha256.tsv).
+- The acts of the other categories are written from one corpus file (`registry/REPRODUCE.md`), which `registry/tools/build/check_repo.py` compares with every version in git; `registry/REPRODUCE.md` does not yet record a run.
 
-## How it is built
+## What it does not show
 
-The build reads the Gazette's list of laws, each act's page (metadata and links to related acts) and its text in Albanian and English, or the gazette PDF where the page has no text layer, as retrieved on 2026-10-29. `text.py` and `pdftext.py` turn each text into paragraphs and articles; `inforce.py` reads the in-force article; `build.py` writes one commit per act with one streamed `git fast-import`; `docs.py` writes these files. No AI model takes part in building or checking it. See [`REPRODUCE.md`](REPRODUCE.md).
+- **Amendments applied to the text.** Read the amending acts alongside the act ([`data/amendments.csv`](data/amendments.csv), 1,117 links). Since 2024-09-26 the Gazette has published one consolidated text each for 156 laws ([`data/consolidated.csv`](data/consolidated.csv)); they are not used as history.
+- **8,107 acts of the Gazette not yet here**, listed in [`data/held.json`](data/held.json) with the reason: 5,460 printed only as page scans, 1,427 whose in-force day could not be read, 578 not in Albanian, and 642 for other reasons.
+- **The Serbian texts.** Albanian and Serbian are both official languages (Constitution, art. 5); only the Albanian text, and the Gazette's English translation, are used.
+- **Images and layout.** Annex pages printed only as scans (4,052 in acts of the list of laws), tables as tables, footnotes and images are not in the files.
+- **Every repeal as a deletion.** Only acts of the list of laws repealed by another act in it lose their files; the others keep them, and `registry/data/acts.json` gives their status (370 marked repealed).
+
+## Sources
+
+| Source | Kind | Past versions | Notes |
+| --- | --- | --- | --- |
+| [Gazeta Zyrtare e Republikës së Kosovës](https://gzk.rks-gov.net) (Official Gazette) | Official Gazette: every kind of act, national and municipal | no, each act as enacted | Albanian text, its English translation for the list of laws, and the links between acts |
+| Municipal websites ([Fushë Kosovë](https://fushekosove.rks-gov.net), [Deçan](https://decan.rks-gov.net)) | Municipal acts | as published | 3 acts the Gazette does not publish |
 
 ## Licence
 
-Source: the Official Gazette of the Republic of Kosovo (Gazeta Zyrtare e Republikës së Kosovës), https://gzk.rks-gov.net. Under Law No. 08/L-205 on Copyright and Related Rights, article 6(1), "Copyright protection shall not extend to official texts of a legislative, administrative and judicial nature, and the official translations of such texts." The texts were converted to one file per article and arranged as commits; their wording was not changed. Lexifina's own contributions (the tools, the arrangement and the commit messages) are CC0. See [`LICENSE`](LICENSE) and [`SOURCES.md`](SOURCES.md).
+See [`LICENSE`](LICENSE). Under Law No. 08/L-205 on Copyright and Related Rights, article 6(1), copyright does not extend to official texts of a legislative, administrative and judicial nature, nor to their official translations; the texts are reproduced without change to their wording. Lexifina's own contributions (tools, arrangement, commit messages and documentation) are CC0 1.0.
+
+No AI model wrote, translated or changed legal text, and none runs when the history is built; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md) and [`registry/REPRODUCE.md`](registry/REPRODUCE.md)).
 
 ## More
 
