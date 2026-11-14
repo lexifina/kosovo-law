@@ -57,10 +57,6 @@ Each commit's author is the act itself, at an address that cannot exist (`Ligji 
 
 ## How current it is
 
-<!-- freshness-summary -->
-Checked against the official sources: 2026-11-10; 100% of acts verified in the last 7 days, 100% in the last 30 ([data/freshness.json](data/freshness.json)).
-<!-- /freshness-summary -->
-
 - `python tools/freshness.py <act id or folder>` gives an act's status, its last check and its page at the Gazette.
 - [data/status.json](data/status.json): when the refresh run last read the Gazette and whether it answered; [data/pending.json](data/pending.json): acts published but not yet in force.
 

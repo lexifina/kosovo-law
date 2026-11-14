@@ -57,10 +57,6 @@ Autori i çdo commit-i është vetë akti, me një adresë që nuk mund të ekzi
 
 ## Sa i përditësuar është
 
-<!-- freshness-summary -->
-Verifikuar kundrejt burimeve zyrtare: 2026-11-10; 100% e akteve të verifikuara në 7 ditët e fundit, 100% në 30 ditët e fundit ([data/freshness.json](data/freshness.json)).
-<!-- /freshness-summary -->
-
 - `python tools/freshness.py <act id or folder>` jep statusin e një akti, verifikimin e tij të fundit dhe faqen e tij në Gazetë.
 - [data/status.json](data/status.json): kur e lexoi Gazetën për herë të fundit ekzekutimi i përditësimit dhe nëse Gazeta u përgjigj; [data/pending.json](data/pending.json): aktet e botuara, por ende jo në fuqi.
 

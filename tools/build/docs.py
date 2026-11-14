@@ -20,7 +20,7 @@ CACHE = HERE / '.cache'
 # before it is written.
 SCRIPTS = ('build.py', 'text.py', 'pdftext.py', 'inforce.py', 'parse.py', 'docs.py', 'check_words.py',
            'extra_acts.json')
-sys.path.insert(0, str(HERE.parent / 'gitlaw_common'))
+sys.path.append(str(HERE.parent / 'gitlaw_common'))
 try:
     from publish_gate import publish_gate
 except ImportError:          # an outside reader rebuilding from the published tools: no private rule to apply
@@ -279,4 +279,7 @@ def render(acts: list[dict], order: list[dict], by_id: dict, issues: list[dict],
         files[f'tools/build/{name}'] = (HERE / name).read_bytes()
     for name in ('README.md', 'REPRODUCE.md', 'SOURCES.md', 'LICENSE'):
         files[f'tools/build/repo/{name}'] = (REPO_FILES / name).read_bytes()
+    # The English README beside the Albanian README.md (the serbia-law model, 2026-11-14), published as kept in repo/.
+    if (REPO_FILES / 'README.en.md').exists():
+        files['README.en.md'] = files['tools/build/repo/README.en.md'] = (REPO_FILES / 'README.en.md').read_bytes()
     return publish_gate(files)
