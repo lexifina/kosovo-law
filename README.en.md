@@ -30,7 +30,8 @@ The text is in Albanian, as the Official Gazette publishes it; the Gazette's own
 
 - **[Ask Claude about Kosovan law](https://global-law.lexifina.com/v1/try_claude?country=kosovo)**: opens Claude with a first question ready.
 - **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=kosovo)**: the same question in ChatGPT.
-- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=pushimi+vjetor&jurisdictions=kosovo)**: a search of Kosovan law for "pushimi vjetor", returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
+- **[Search Kosovan law on our site](https://lexifina.com/law?country=kosovo&q=pushimi+vjetor)**: a search for "pushimi vjetor", with each provision's text and its versions, no account needed.
+- **[Developer REST API](https://global-law.lexifina.com/v1/search_law?query=pushimi+vjetor&jurisdiction=kosovo)**: the same search as JSON, with no key. See the [documentation here](https://lexifina.com/api/global-law).
 
 Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in Albanian or in English.
 
