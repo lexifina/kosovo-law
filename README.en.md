@@ -67,6 +67,7 @@ Each commit's author is the act itself, at an address that cannot exist (`Ligji 
 - Every commit has `In-force:`; `main` has no merges, its dates never go backwards or past the build day, and every commit is at noon.
 - The build is deterministic: two builds from the same pages give the same `main` hash, and the sha256 of every page and PDF read is in [`data/source-sha256.tsv`](data/source-sha256.tsv).
 - The acts of the other categories are written from one corpus file (`registry/REPRODUCE.md`), which `registry/tools/build/check_repo.py` compares with every version in git; `registry/REPRODUCE.md` does not yet record a run.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in Kosovo law, found by global-law's detectors and checked by hand.
 
 ## What it does not show
 

@@ -67,6 +67,7 @@ Autori i çdo commit-i është vetë akti, me një adresë që nuk mund të ekzi
 - Çdo commit ka `In-force:`; `main` nuk ka bashkime (merge), datat e tij nuk shkojnë kurrë prapa as përtej ditës së ndërtimit, dhe çdo commit është në mesditë.
 - Ndërtimi është determinist: dy ndërtime nga të njëjtat faqe japin të njëjtin hash të `main`, dhe sha256 i çdo faqeje dhe PDF-je të lexuar gjendet në [`data/source-sha256.tsv`](data/source-sha256.tsv).
 - Aktet e kategorive të tjera shkruhen nga një skedar i vetëm korpusi (`registry/REPRODUCE.md`), të cilin `registry/tools/build/check_repo.py` e krahason me çdo version në git; `registry/REPRODUCE.md` ende nuk shënon asnjë ekzekutim të tij.
+- [vulnerabilities/](vulnerabilities/): gabime të mundshme në hartimin e legjislacionit të Kosovës, të gjetura nga detektorët e global-law dhe të kontrolluara me dorë.
 
 ## Çfarë nuk tregon
 
