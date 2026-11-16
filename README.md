@@ -92,6 +92,10 @@ Asnjë model i inteligjencës artificiale nuk shkroi, nuk përktheu dhe nuk ndry
 
 Ky është përkthim i versionit në anglisht ([README.en.md](README.en.md)); nëse ndryshojnë, vlen versioni në anglisht.
 
+## Vizualizimet
+
+- [visualisations/](visualisations/): grafikë të nxjerrë nga ky depo. Ende pa u vizatuar.
+
 ## Më shumë
 
 Nga repozitori [lexifina/global-law](https://github.com/lexifina/global-law) (në anglisht):
